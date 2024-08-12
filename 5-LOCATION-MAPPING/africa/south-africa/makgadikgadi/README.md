@@ -1,0 +1,1 @@
+Makgadikgadi estimated to have last been wet 16ka BP.

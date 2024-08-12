@@ -1,0 +1,1 @@
+Parts of Namibia are above 5000 feet. But the reversal from S2 to S1 might be the issue.
