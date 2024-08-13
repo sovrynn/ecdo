@@ -18,6 +18,16 @@ Following are the main folders of the repo along with their purpose. There is bo
 6. `5-LOCATION-MAPPING`: Mapping out how different areas of the world will fare during an ECDO event.
 7. `6-DANGERS-PREPPING`: All matters pertaining to preparing for an ECDO event aside from location.
 
+## How to Contribute
+
+In order to contribute, you'll need to be able to use git.
+
+The high-level steps are:
+- clone the latest version of the repository to your local machine
+- make a new git branch
+- make your changes
+- create a pull request
+
 ## Basic Contribution Guidelines
 
 1. Put information in the proper location in the proper format

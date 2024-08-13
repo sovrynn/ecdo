@@ -4,7 +4,9 @@ This folder is intended to be one of the prime jewels of this repo.
 
 The goal is to map out all locations over the world, and evaluate them in context of the ECDO, telling us which locations might be safe, which might be dangerous, and gathering evidence for the ECDO in the process.
 
-This is one of the most important parts of preparing for the ECDO event. Ideally, `README.md` files for important locations will be thoughtful, comprehensive, and data-driven.
+![world](0-general-heuristics/elevation/img/global-elevation.jpg "world")
+
+This is one of the most important parts of preparing for the ECDO event. Ideally, `README.md` files for all locations will be thoughtful, comprehensive, and data-driven.
 
 ## Directory Organization
 
