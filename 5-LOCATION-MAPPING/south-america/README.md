@@ -1,10 +1,6 @@
-# Andes
+# South America
 
-The Andes have to deal with the Pacific hitting them from the west at speeds probably up to 1000 km/h when returning from S2>S1.
-
-Yes, I saw this. The Andes are a possibility. Problem with high places is that there is a lot of material to fall on top of you when the earth shakes.
-
-Mountainous regions like the Andes will be less susceptible to water, but will be dangerous due to falling debris and renewed orogeny (mountain building). 
+South America is home to the western ECDO pivot
 
 # Nobulart
 

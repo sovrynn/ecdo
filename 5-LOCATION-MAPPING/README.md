@@ -4,10 +4,16 @@ This folder is intended to be one of the prime jewels of this repo.
 
 The goal is to map out all locations over the world, and evaluate them in context of the ECDO, telling us which locations might be safe, which might be dangerous, and gathering evidence for the ECDO in the process.
 
-## Contribution Guidelines
+This is one of the most important parts of preparing for the ECDO event. Ideally, `README.md` files for important locations will be thoughtful, comprehensive, and data-driven.
 
-For starters, all locations will be nested in a directory pertaining to the relevant continent or major area of the world. More nesting can be added within each continent if the amount of information demands.
+# Directory Organization
 
-Images can be included as files, optionally embedded in Markdown, or included in PDFs.
+The directory is organized into information about specific locations in continent folders, and `0-general-heuristics` for heuristics for evaluating a location wrt the ECDO event.
 
-It should be clear what data is being used as evidence for potential, past or likely flooding of certain areas.
+## Basic Contribution Guidelines
+
+Locations are bucketed in a tree-manner, and should be put in the proper folder.
+
+Graphics should be added into `img/` folders in the relevant location and can also be embedded into the Markdown files.
+
+`README.md` files for continent directories should only contain information about the general continent. Information about specific locations belongs in subfolders within the continent folder.

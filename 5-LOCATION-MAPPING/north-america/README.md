@@ -1,8 +1,6 @@
-# Locations in North America
+# North America
 
-## Great Basin
-
-This is the Great Basin in West America. Salt Lake City, Lake Bonneville, definitely flood during S1 to S2.
+While there are likely several spots that are safe, North America has not been analyzed yet so much.
 
 # Nobulart
 

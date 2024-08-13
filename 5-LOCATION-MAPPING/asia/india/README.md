@@ -1,3 +1,7 @@
+# India
+
+Seems that there could be some safe spots in India.
+
 # Varanasi
 
 Long way inland, well protected by the Himalayas during S1 -> S2, and a minimum of 800-900km land buffering between the cities and the coast on the S2 -> S1 rotation.
