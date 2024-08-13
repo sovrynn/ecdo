@@ -1,13 +1,15 @@
+# Government Intervention
+
+This folder is for government intervention related to the ECDO.
+
 # Possibilities
 
-Chemtrails
-HAARP
-CERN
-
-Underground shelters
-Seedbanks
-
-NWO deadline 2030
+- Chemtrails
+- HAARP
+- CERN
+- Underground shelters
+- Seedbanks
+- NWO deadline 2030
 
 # News
 

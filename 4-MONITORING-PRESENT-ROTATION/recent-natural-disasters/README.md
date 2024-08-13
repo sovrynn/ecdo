@@ -1,3 +1,7 @@
+# Recent Natural Disasters
+
+Goal: Monitor recent natural disasters in relation to the impending ECDO event.
+
 # China
 
 Linjiang flood

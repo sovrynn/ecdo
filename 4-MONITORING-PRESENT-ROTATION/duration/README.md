@@ -1,3 +1,7 @@
+# Duration of S1 to S2
+
+Goal: Predict how long S1 to S2 will take.
+
 # Nobulart
 
 The accelerating weakening of our magnetic field suggest that we may already be quite some years into the event. If you've watched the videos of the Dzhanibkeov effect, its seen that when the actual flip occurs, it's quick (12-24 hrs), which is supported by deluge debris evidence.

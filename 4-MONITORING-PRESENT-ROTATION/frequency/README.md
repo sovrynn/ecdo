@@ -1,3 +1,7 @@
+# Frequency of ECDO event
+
+Goal: Predict how frequent the ECDO event is.
+
 # Possibilities
 
 Once every 6000 years

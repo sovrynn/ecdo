@@ -1,8 +1,8 @@
-# Mapping the ECDO Deluge/Flooding
+# Investigating Safe Locations for the ECDO Deluge/Flooding
 
-This topic is so central to prepping for the ECDO that I am giving it its own directory.
+This folder is intended to be one of the prime jewels of this repo.
 
-The goal is to map out all flood locations over the world, to know not only which places might be safe, but which places will likely be in danger of flooding, and to gather evidence for past ECDO events in the process.
+The goal is to map out all locations over the world, and evaluate them in context of the ECDO, telling us which locations might be safe, which might be dangerous, and gathering evidence for the ECDO in the process.
 
 ## Contribution Guidelines
 

@@ -2,25 +2,13 @@
 
 This repeo is intended to be a thoughtbank for brainstorming the ECDO thesis and all things related to it.
 
-Organization of the repo is mainly done through self-explanatory directory/filenames and README files at each step of the directory tree.
+Organization of the repo is mainly done through self-explanatory directory/filenames. Information is written into Markdown (`.md`) files named `README.md`, and images/videos are placed into `img/` folders at each step of the directory tree.
 
-Emphasis is placed on optimal data organization which minimizes redundancy and optimizes retrieving data.
+Emphasis is placed on optimal data organization which minimizes redundancy and optimizes finding information.
 
-## Guideline for Contributing
+## Main Folder Contents
 
-Put data in the proper location by editing existing files or adding new files. If a new file/folder needs to be made, make it in the proper location and use concise and meaningful names without spaces. For example, to add information about areas safe from inundation in Germany, you could add a file `germany.md` in `6-flood-mapping/europe/`.
-
-Use English with proper spelling and grammar. Information in other languages can be put in `/translation` folders within the relevant directory.
-
-Encode information in Markdown files or PDF files. To store image files, put them in `/img` folders in the relevant directory.
-
-All pull requests will be reviewed to ensure optimal information structure.
-
-If you put information in the proper place, it shouldn't be duplicated without good reason.
-
-## Repo main folder contents
-
-Following are the main folders of the repo and what their purpose is. There is bound to be some overlap but I have made the categories as discrete as possible. Contributing information should always go in the proper location.
+Following are the main folders of the repo along with their purpose. There is bound to be some overlap but I have made the categories as discrete as possible.
 
 1. `0-ETHICAL-SKEPTIC`: Information pertaining to or coming from Ethical Skeptic, the author of the original ECDO hypothesis.
 2. `1-NOBULART`: Information pertaining to or coming from Nobulart, a close follower of the ECDO hypothesis.
@@ -30,12 +18,20 @@ Following are the main folders of the repo and what their purpose is. There is b
 6. `5-LOCATION-MAPPING`: Mapping out how different areas of the world will fare during an ECDO event.
 7. `6-DANGERS-PREPPING`: All matters pertaining to preparing for an ECDO event aside from location.
 
-## Things To Be Done (among many others)
+## Basic Contribution Guidelines
 
-Map out flood areas for the whole world.
+1. Put information in the proper location in the proper format
+	- Information goes in the folder where it belongs and nowhere else. If a new folder needs to be made, do it in the proper location.
+	- Folders and files should always be named properly, with concise and meaningful names. To put multiple words into a filename, connect the words with dashes ("-"). Names should always be lowercase, not camel case.
+	- Text goes into `README.md` files, and graphic files into `img/` folders. Feel free to inline images into the Markdown.
+2. Don't add noise
+	- In order to make this repo as high signal as possible, avoid adding in sloppy analysis. Don't just copy paste things in, but add in useful analysis based on data.
+	- Use English, with proper spelling and grammar.
 
-Gather a great collection of evidence for the event.
+## Additional Contribution Guidelines
 
-Complete recreations of the proofs that predict the rotation and also imply the specific new pole crust surface points (Africa, Pacific).
+Do NOT dump information into high-level `README.md` files just because you don't know where else to put it. `README.md` files are not data dumps but polished analysis of one specific topic. They should be organized and easily readable.
 
-Create translations so people can ECDO-pill other people easier.
+Information in other languages can be put in `/translation` folders within the relevant directory.
+
+All pull requests will be reviewed to ensure optimal information structure.

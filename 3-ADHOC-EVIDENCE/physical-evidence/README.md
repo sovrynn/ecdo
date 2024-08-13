@@ -1,3 +1,7 @@
+# Physical Evidence of ECDO events
+
+This folder is for physical evidence of past ECDO events, such as frozen animal remains.
+
 # Clay
 
 Varved clay proxies provide sub-annular paleomagnetic resolutions. The following charts are taken from Annual and inter‐annual magnetic variations in varved clay, Nils‐Axel Mörner (1978)[1], wherein paleomagnetic findings from VC cores dated to ±13,150 BP (spanning 156 varves/years) and ±10,000 BP (spanning 300 varves/years) are shown. These two cores span the Gothenburg Flip & Excursion[2] and the Ornö Declination Departure.
@@ -9,9 +13,3 @@ Coloured elements are my own additions. Blue and red indicate selected reversal 
 [1] http://dx.doi.org/10.1080/09291017809359640
 [2] https://sciencedirect.com/science/article/abs/pii/003358947790031X
 [3] https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/
-
-# Whales
-
-Dead whale bones in Egypt.
-
-Whale skeletion in Osa Peninsula, Costa Rica.

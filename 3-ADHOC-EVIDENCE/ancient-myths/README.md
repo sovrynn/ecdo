@@ -1,10 +1,10 @@
 # Mythical ECDO evidence
 
-Mythical evidence, works of literature.
-
-TODO: The following list should be bucketed into location files.
+Goal: Find all myths that reference a potential ECDO event.
 
 # List of Myths that potentially reference ECDO
+
+TODO: The following list should be bucketed into location files.
 
 Historical account of the Crete catastrophes (1750 BC), explicit mention made of the direction from which water came during the first event: "great tidal waves moved towards the island from the north and swept over it", as would be predicted of the Aegean Sea during a State 1 to State 2 rotation. It is also described that the second catastrophe, 50 years later, was dominated by volcanism and earthquakes.
 

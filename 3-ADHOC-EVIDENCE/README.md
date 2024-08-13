@@ -7,6 +7,8 @@ For example:
 - big rocks in certain mountains
 - myths
 
+# Information that belongs in another folder
+
 Scientific models belong not here but in `2-FULL-THEORY-BREAKDOWN`.
 
 Evidence or information primarily relevant to the impending rotation belong in `4-MONITORING-PRESENT-ROTATION`.
