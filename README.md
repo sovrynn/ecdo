@@ -1,6 +1,8 @@
 # ECDO (Exothermic Core-Mantle Decoupling - Dzhanibekov Oscillation)
 
-This repeo is intended to be a thoughtbank for brainstorming the ECDO thesis and all things related to it.
+This repeo is intended to be a thoughtbank for brainstorming the [https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/](ECDO thesis), created by the [https://theethicalskeptic.com/][Ethical Skeptic], and all things related to it.
+
+![ecdo](img/ecdo.webp "ecdo")
 
 Organization of the repo is mainly done through self-explanatory directory/file names. Information is written into Markdown (`.md`) files named `README.md`, and images/videos are placed into `img/` folders at each step of the directory tree.
 
@@ -33,7 +35,7 @@ Following are the main folders of the repo along with their purpose. There is bo
 
 Do NOT dump information into high-level `README.md` files just because you don't know where else to put it. `README.md` files are not data dumps but polished analysis of one specific topic. They should be organized and easily readable.
 
-Some images are meaningful on their own, but others require explaining. Rather than use `img/` as an image dump, images should generally be referenced in Markdown and useful insights gleaned from them explained.
+Some images are meaningful on their own, but others require explaining. Rather than use `img/` as an image dump, images should generally be referenced in Markdown and useful insights gleaned from them explained. You can embed an image in Markdown using this snippet `![alt](PATH "Title")` (replace `PATH` with the path to the image, for example `img/australia.jpg`).
 
 Information in other languages can be put in `/translation` folders within the relevant directory.
 
