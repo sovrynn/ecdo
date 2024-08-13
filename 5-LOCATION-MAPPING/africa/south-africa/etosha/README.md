@@ -1,4 +1,6 @@
-# Speculative Convo
+# Etosha
+
+## Speculative Convo
 
 If you look at the topography, and the locations of the salt pans, it looks like ocean water makes it way up via SA west coast / Namibia and then settles in the localized low areas.
 

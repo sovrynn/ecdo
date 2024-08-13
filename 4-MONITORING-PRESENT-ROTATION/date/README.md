@@ -2,7 +2,7 @@
 
 Goal: Predict the date of the impending ECDO.
 
-# Possible dates
+## Possible dates
 
 Possible destabilization began around 1973 (Reference Ethical Skeptic thesis).
 

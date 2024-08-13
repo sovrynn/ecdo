@@ -8,7 +8,7 @@ Additionally, anecdotal evidence about the impending rotation, and predictions a
 
 A reader should be able to come away from this folder with an understanding of precisely why the ECDO happens and various first/second order effects.
 
-# TODO
+## TODO
 
 Flesh out the following phenomena (among other things):
 - State 1 vs State 2, time spent in S2

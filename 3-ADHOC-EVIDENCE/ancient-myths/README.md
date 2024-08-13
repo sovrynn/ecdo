@@ -2,7 +2,7 @@
 
 Goal: Find all myths that reference a potential ECDO event.
 
-# List of Myths that potentially reference ECDO
+## List of Myths that potentially reference ECDO
 
 TODO: The following list should be bucketed into location files.
 
@@ -24,11 +24,11 @@ The Bible, Egyptian legends and other stories from antiquity describe a solar ev
 
 The Great Idol of Tiahuanaco (1959)
 
-# Misc
+## Misc
 
 Great pyramids may be the pillars of Joachim and Boaz, serving to both remind and anticipate the timing of the event.
 
-# Cave art
+## Cave art
 
 I've found some interesting literature in a Creswell Crags Education visitors book I bought on the internet. Will post when I get time but I suspect two cave art depictions of triangles which they believe are vulvas (lol) may actually be pyramids rotated 90 degrees.
 

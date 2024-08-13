@@ -1,5 +1,7 @@
 # New Zealand
 
+## Nobulart
+
 New Zealand (Māori: Aotearoa) by request: ECDO displacement detail S1>S2>S1 [1]. Note the striking alignment between the local bathymetry and the displacement path.
 
 "New Zealand was going to be a bolthole, a bunker. I never had a plan to live here permanently until we are close to the event [WW3], just like many other entrepreneurs who are setting themselves up here." - Kim Dotcom (2018) [2]

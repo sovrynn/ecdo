@@ -2,7 +2,7 @@
 
 While there are likely several spots that are safe, North America has not been analyzed yet so much.
 
-# Nobulart
+## Nobulart
 
 North America. ECDO oscillation cycle visualization using model V4.[0] Camera-orientation locked to the objective. Considerable inland water masses and some of the most widespread and visible mesoscale flow morphology of any landmass. The Navajo flood myth seems to recount multiple consecutive events.[1] The Roraima pivot is visible lower right.[2]  Whale bones in Michigan.[3] Mega current ripples in Nebraska.[4] Flash frozen mammoths in Alaska.[5] suggest that things get pretty wet.[6]
 (continued in the comments...)

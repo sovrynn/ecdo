@@ -1,6 +1,6 @@
 # Alaska
 
-# Nobulart
+## Nobulart
 
 Relative velocity is determined at any given point by its distance from the nearest pivot. Alaska, eastern Siberia and the Bering Strait (where all these frozen beasties were found), lie pretty much dead center between the pivots, at the maximum possible distance from them, where the highest wind and water velocities would be experienced.
 

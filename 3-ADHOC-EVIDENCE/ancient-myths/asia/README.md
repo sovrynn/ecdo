@@ -1,4 +1,6 @@
-# Nobulart
+# Asia's Myths
+
+## Nobulart
 
 Asia has a well-stocked library of flood stories [1], including from Tibet [2] and China [3]. Siberian mammoths [4] and megaflood evidence from the Altai region [5] (attributed to ice-age glacial lake failures according to strictly uniformitarian dogma), and Mohenjo-Daro [6] offer an excellent fit with the ECDO predicted moment of inertia.[7]
 

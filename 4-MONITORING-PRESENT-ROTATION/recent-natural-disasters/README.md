@@ -2,16 +2,16 @@
 
 Goal: Monitor recent natural disasters in relation to the impending ECDO event.
 
-# China
+## China
 
 Linjiang flood
 https://x.com/volcaholic1/status/1817577086879707332
 
-# USA
+## USA
 
 Invasion of dragonflies
 https://x.com/volcaholic1/status/1817918336048496832?s=46
 
-# Volcanoes
+## Volcanoes
 
 https://x.com/volcaholic1

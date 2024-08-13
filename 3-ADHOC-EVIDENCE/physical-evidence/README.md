@@ -2,7 +2,7 @@
 
 This folder is for physical evidence of past ECDO events, such as frozen animal remains.
 
-# Clay
+## Clay
 
 Varved clay proxies provide sub-annular paleomagnetic resolutions. The following charts are taken from Annual and inter‐annual magnetic variations in varved clay, Nils‐Axel Mörner (1978)[1], wherein paleomagnetic findings from VC cores dated to ±13,150 BP (spanning 156 varves/years) and ±10,000 BP (spanning 300 varves/years) are shown. These two cores span the Gothenburg Flip & Excursion[2] and the Ornö Declination Departure.
 

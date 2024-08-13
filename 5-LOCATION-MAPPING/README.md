@@ -6,7 +6,7 @@ The goal is to map out all locations over the world, and evaluate them in contex
 
 This is one of the most important parts of preparing for the ECDO event. Ideally, `README.md` files for important locations will be thoughtful, comprehensive, and data-driven.
 
-# Directory Organization
+## Directory Organization
 
 The directory is organized into information about specific locations in continent folders, and `0-general-heuristics` for heuristics for evaluating a location wrt the ECDO event.
 

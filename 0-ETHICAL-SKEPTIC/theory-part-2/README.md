@@ -1,6 +1,6 @@
 # Theory Part 2: Flooding of the Khafre Pyramid
 
-# Summary
+## Summary
 
 This thesis is undoubtedly fascinating. It uses one of the Egyptian pyramids, to infer that Earth has had massive floods, and additionally, that the Pyramid was built as a marker for an important planetary state(s).
 

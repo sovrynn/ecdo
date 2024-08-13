@@ -1,5 +1,5 @@
 # Nigiri Hills
 
-# Nobulart
+## Nobulart
 
 Red lines are the ECDO path. Appears to be quite a few striations running along the path around it (I marked a few with blue arrows). Considering their relative flatness, I think these are overtopped going from S2>S1.

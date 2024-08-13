@@ -1,6 +1,6 @@
 # Theory Part 3: Exothermic Core-Mantle Dzhanibekov Oscillation (ECDO) 
 
-# Summary
+## Summary
 
 Of course, the killer thesis. It makes a jump in logic, which may or may not be true until it can be verified. But the flooding of the Khafre pyramid, creates a necessity, for some kind of mechanism, which could have brought this about in the past, may again, and may be linked to the reality of core heating.
 
