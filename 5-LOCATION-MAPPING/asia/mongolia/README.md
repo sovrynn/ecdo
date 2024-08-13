@@ -1,3 +1,3 @@
 # Mongolia
 
-A location to look into.
+A promising location to look into.

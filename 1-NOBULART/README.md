@@ -9,7 +9,7 @@ False colour maps are STM15 digital elevation dataset (an add-on for GEP)
 
 https://www.subbrit.org.uk/categories/nuclear-bunkers/
 
-# Trivia
+# Links
 
 He has a blog on various topics:
 - https://nobulart.com/the-hive-parasitic-soul-stealing-the-supercomputer-demiurge/
@@ -22,6 +22,6 @@ Other links:
 - https://x.com/omapproach/status/1821972829782327701?s=46
 - https://www.google.com/maps/d/edit?mid=1I6osETrEy6Mw3UOryYOuEnG7h6IqSW4&usp=sharing
 
-# Quotes
+# Misc Quotes
 
 Ultimately I think pretty much everything we have built, with the exception of the ancient megalithic structures built to withstand this, will be reduced to rubble, dust and sediment.

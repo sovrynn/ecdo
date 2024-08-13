@@ -2,15 +2,12 @@
 
 Seems that there could be some safe spots in India.
 
-# Varanasi
+Promising locations:
+- Varanasi
+	- Long way inland, well protected by the Himalayas during S1 -> S2, and a minimum of 800-900km land buffering between the cities and the coast on the S2 -> S1 rotation.
+- Doddabetta Peak in Ooty
 
-Long way inland, well protected by the Himalayas during S1 -> S2, and a minimum of 800-900km land buffering between the cities and the coast on the S2 -> S1 rotation.
-
-# Doddabetta Peak in ooty
-
-Potential safe haven
-
-# India generally
+# Nobulart
 
 May be spared the worst of it by the Himalayas, going from S1 to S2. Tibet will be inundated for sure.
 

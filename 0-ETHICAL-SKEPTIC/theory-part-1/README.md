@@ -1,4 +1,6 @@
-# Summary Part 1
+# Part 1: Earth Warming Coming From the Core
+
+# Summary
 
 The thesis begins with ten observations that "prove wrong" the man-made global warming hypothesis, creating a need for "plurality" - a better explanation.
 
