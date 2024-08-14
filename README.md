@@ -10,13 +10,13 @@ Emphasis is placed on optimal data organization which minimizes redundancy and o
 
 Following are the main folders of the repo along with their purpose. There is bound to be some overlap but I have made the categories as discrete as possible.
 
-1. `0-ETHICAL-SKEPTIC`: Information pertaining to or coming from Ethical Skeptic, the author of the original ECDO hypothesis.
-2. `1-NOBULART`: Information pertaining to or coming from Nobulart, a close follower of the ECDO hypothesis.
-3. `2-FULL-THEORY-BREAKDOWN`: A scientific derivation of the ECDO hypothesis.
-4. `3-ADHOC-EVIDENCE`: A collection of evidence of past ECDO events.
-5. `4-MONITORING-PRESENT-ROTATION`: Information pertaining to the impending ECDO event.
-6. `5-LOCATION-MAPPING`: Mapping out how different areas of the world will fare during an ECDO event.
-7. `6-DANGERS-PREPPING`: All matters pertaining to preparing for an ECDO event aside from location.
+1. `0-ORIGINAL-THESIS`: A container for Ethical Skeptic's original ECDO thesis.
+2. `1-FULL-THEORY-BREAKDOWN`: A scientific derivation/proof of the ECDO thesis.
+3. `2-ADHOC-EVIDENCE`: A collection of evidence of past ECDO events.
+4. `3-MONITORING-PRESENT-ROTATION`: Information pertaining to the impending ECDO event.
+5. `4-LOCATION-MAPPING`: Mapping out how different areas of the world will fare during an ECDO event.
+6. `5-DANGERS-PREPPING`: All matters pertaining to preparing for an ECDO event aside from location.
+7. `6-TOOLS-DATA-DEV`: Technical resources to help map out the ECDO event.
 
 ## How to Contribute
 

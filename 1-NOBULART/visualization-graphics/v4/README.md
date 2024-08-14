@@ -1,8 +1,0 @@
-Visualization removed because file size too large for git.
-
-# Nobulart
-
-First peek at V4. Low-res, low frame-rate (so not as crispy and smooth as final will be). Using  significantly higher resolution map now, so finer details will be clearer. Still several other visual elements to be added. I've imparted some of the Dhzanibekov inertia to the markers now as well. This should more accurately reflect that the water does get pushed with the rotation to a degree, which will manifest as a seiche back onto the coasts that were drained during the initial movement. All is subject to change still. I am looking at "painting"the marker movements on the crust to provide obvious movement trails. Couple of mistakes in here still. Poles are not oriented quite correct.
-
-Version 4.0. I have extended the duration in each state to two rotations. Improved lighting and higher resolution textures for better detail analysis. The ECDO euler is more accurately reflected, with the pivots at 5.1° north and south of the equator. A six hour lag and approximately 50% of the ECDO moment of inertia is imparted to the markers during the rotations, better illustrating how the water would be influenced during and after the anomalous rotations. ECDO rotation periods remain as 12 hours (one half revolution).
-[1] https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
