@@ -10,7 +10,7 @@ Emphasis is placed on optimal data organization which minimizes redundancy and o
 
 Following are the main folders of the repo along with their purpose. There is bound to be some overlap but I have made the categories as discrete as possible.
 
-1. `0-ORIGINAL-THESIS`: A container for Ethical Skeptic's original ECDO thesis.
+1. `0-ORIGINAL-THESIS`: A container for describing Ethical Skeptic's original ECDO thesis.
 2. `1-FULL-THEORY-BREAKDOWN`: A scientific derivation/proof of the ECDO thesis.
 3. `2-ADHOC-EVIDENCE`: A collection of evidence of past ECDO events.
 4. `3-MONITORING-PRESENT-ROTATION`: Information pertaining to the impending ECDO event.
@@ -48,3 +48,8 @@ Some images are meaningful on their own, but others require explaining. Rather t
 Information in other languages can be put in `/translation` folders within the relevant directory.
 
 All pull requests will be reviewed to ensure optimal information structure.
+
+## TODO wishlist
+
+Global maps showing:
+- the circular paths of oceanic displacement around the two pivots

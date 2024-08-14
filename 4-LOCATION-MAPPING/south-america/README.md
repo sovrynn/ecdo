@@ -1,6 +1,6 @@
 # South America
 
-South America is home to the western ECDO pivot.
+South America is home to the western ECDO pivot in east Venezuela.
 
 ![sa](img/south-america-elevation.png "sa")
 
