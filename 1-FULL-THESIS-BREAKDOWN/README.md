@@ -2,11 +2,13 @@
 
 This folder is intedended to be a SCIENTIFIC analysis of Ethical Skeptic's ECDO hypothesis.
 
+## Information that doesn't belong here
+
 While there is bound to be overlap, adhoc evidence such as myths or frozen animals belong NOT HERE, but in the folder `3-ADHOC-EVIDENCE`.
 
 Additionally, anecdotal evidence about the impending rotation, and predictions about it, belong NOT HERE, but in `4-MONITORING-PRESENT-ROTATION`.
 
-A reader should be able to come away from this folder with an understanding of precisely why the ECDO happens and various first/second order effects.
+A reader should be able to come away from this folder with an understanding of precisely why and how the ECDO happens and various first/second/third order effects.
 
 ## TODO
 
