@@ -16,6 +16,10 @@ The directory is organized into information about specific locations in continen
 
 Locations are bucketed in a tree-manner, and should be put in the proper folder.
 
-Graphics should be added into `img/` folders in the relevant location and can also be embedded into the Markdown files.
+Graphics should be added into `img/` folders in the relevant location and should generally be embedded into the Markdown files as part of the analysis.
 
 `README.md` files for continent directories should only contain information about the general continent. Information about specific locations belongs in subfolders within the continent folder.
+
+Citations are welcome and recommended. You can place them in their own section, embed them in Markdown, or simply add them at the end of your analysis.
+
+See `south-america/drake-passage/README.md` for an example.

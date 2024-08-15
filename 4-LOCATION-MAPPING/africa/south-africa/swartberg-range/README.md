@@ -1,5 +1,7 @@
 # Swartberg Range
 
+![sr](img/swartberg-range.jpg "swartberg range")
+
 The swartberg range has quite a distinctive form - multiple walls of rock jutting out towards the ocean. Maybe its enough to preserve something here during S2>S1.
 
 https://en.wikipedia.org/wiki/San_people#Genetics

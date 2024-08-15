@@ -2,6 +2,8 @@
 
 ## Speculative Convo
 
+![etosha](img/etosha.jpg "etosha")
+
 If you look at the topography, and the locations of the salt pans, it looks like ocean water makes it way up via SA west coast / Namibia and then settles in the localized low areas.
 
 The location of Etosha is quite interesting. Looks like only one way in is via the east.
