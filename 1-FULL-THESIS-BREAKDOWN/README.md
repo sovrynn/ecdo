@@ -1,6 +1,8 @@
 # Overview
 
-This folder is intedended to be a SCIENTIFIC analysis of Ethical Skeptic's ECDO hypothesis.
+This folder is intended to be a SCIENTIFIC analysis of Ethical Skeptic's ECDO hypothesis.
+
+There is a lot to be done here, this folder needs to be filled to the brim.
 
 ## Information that doesn't belong here
 

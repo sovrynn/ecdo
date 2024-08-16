@@ -2,6 +2,8 @@
 
 Could be a good heuristic for finding safe spots.
 
+Check `img/` for visualizations.
+
 ## Nobulart
 
 [1] List of the oldest continuously inhabited cities. https://en.wikipedia.org/wiki/List_of_oldest_continuously_inhabited_cities

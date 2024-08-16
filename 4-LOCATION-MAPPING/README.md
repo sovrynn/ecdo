@@ -22,8 +22,6 @@ Graphics should be added into `img/` folders in the relevant location and should
 
 Citations are welcome and recommended. You can place them in their own section, embed them in Markdown, or simply add them at the end of your analysis.
 
-See `south-america/drake-passage/README.md` for an example.
-
 ## TODO places to map out
 
 Interesting cliff formations:

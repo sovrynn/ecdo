@@ -6,16 +6,16 @@ But this directory is also made for all things subsequent, such as temperature, 
 
 # Natural Dangers
 
-Earthquakes
-Volcanoes
-Freezing temperature
-Supernova (solar heat wave)
-Landslides
-Fast winds
-Avalanches
-Ash from volcanoes covering air, blocking Sun
+From the land below:
+- Earthquakes
+- Volcanoes
 
-# Location Scouting Potential Metrics
+Falling, flying things:
+- Landslides
+- Avalanches
+- Fast winds
 
-- Longest continuous inhabitation
-- Longest standing tall structures
+Temperature, atmosphere:
+- Freezing temperature
+- Supernova (solar heat wave)
+- Ash from volcanoes covering air, blocking Sun

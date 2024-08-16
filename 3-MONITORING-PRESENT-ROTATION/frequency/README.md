@@ -4,8 +4,8 @@ Goal: Predict how frequent the ECDO event is.
 
 ## Possibilities
 
-Once every 6000 years
-Once every 2160 years
+- Once every 6000 years
+- Once every 2160 years
 
 ## Nobulart
 

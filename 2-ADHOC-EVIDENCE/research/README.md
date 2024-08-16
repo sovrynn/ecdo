@@ -1,3 +1,7 @@
+# Research Papers about ECDO
+
+## Paper 1
+
 This paper is describing something which sounds remarkably similar to an ECDO state 2 to state 1 rotation a half a billion years ago:
 
 "..at least two tectonic plates, involving more than two-thirds of Earth's continental lithosphere, were involved in a rapid rotation of ~90° relative to the spin axis. We speculate that the entire lithosphere may have been involved in this rotation. // The new ages, along with paleomagnetic data, indicate that continents moved at rapid rates that are difficult to reconcile with our present understanding of mantle dynamics.."

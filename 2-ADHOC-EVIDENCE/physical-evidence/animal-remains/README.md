@@ -1,4 +1,10 @@
-# Fairbanks Mammoth 1948
+# Animal Remains
+
+This folder is to document old animal remains that can give us clues about how they might have died.
+
+Check `img/` for many records.
+
+## Fairbanks Mammoth 1948
 
 Mining team uncovered the frozen remains of a young mammoth in Fairbanks. Lush vegetation in its mouth showed that the animal died during the growing season in an apparently warm climate.
 
@@ -20,7 +26,7 @@ Note on this one that at the base of the buried cliff are bones of hippopotamus,
 
 That was Chan proposed mechanism - supersonic wind speeds and water due to the rotation.
 
-## Book
+## Book about deluge
 
 Reliquoæ Diluvianæ (1823)
 A 380 page record of an historic deluge, overflowing with findings of numerous species of fauna which had no explicable reason to be found together, scattered across Britain and Europe, buried in layers of 'diluvium' (a term coined by Buckland).
@@ -30,4 +36,8 @@ https:// (https://t.co/K4GQDGqcHv)iiif.wellcomecollection.org/pdf/b2201729x (htt
 
 Dead whale bones in Egypt.
 
+<img src="img/whale1.jpg" alt="ALT" style="width:50%;"/>
+
 Whale skeletion in Osa Peninsula, Costa Rica.
+
+<img src="img/whale2.jpg" alt="ALT" style="width:50%;"/>

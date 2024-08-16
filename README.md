@@ -49,6 +49,16 @@ Information in other languages can be put in `/translation` folders within the r
 
 All pull requests will be reviewed to ensure optimal information structure.
 
+## Embedding Images into Markdown
+
+Two ways:
+1. You can embed an image in Markdown using this snippet (replace `PATH` with the path to the image, for example `img/australia.jpg`). `alt` and `Title` are shown when the image fails to load and on hover, respectively:
+	- `![alt](PATH "Title")`
+2. You can also use HTML directly in Markdown if you want to change the size of the image. Use this snippet (replace `PATH` and `ALT` with desired values, as well as width):
+	- `<img src="PATH" alt="ALT" style="width:50%;"/>`
+
+There are text editors such as Visual Studio Code that allow you to preview Markdown (render it) to help you check for Markdown errors and style the README.md how you wish locally.
+
 ## TODO wishlist
 
 Global maps showing:
