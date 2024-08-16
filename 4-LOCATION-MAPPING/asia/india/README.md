@@ -2,7 +2,11 @@
 
 Seems that there could be some safe spots in India.
 
+![india](img/india.png "india")
+
 See `img/india-visualization.mp4` for a visualization.
+
+## Analysis
 
 ![ie1](img/indiaerosion1.jpg "ie1")
 ![ie2](img/indiaerosion2.jpg "ie2")

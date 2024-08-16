@@ -1,5 +1,7 @@
 # New Zealand
 
+![aus](img/new-zealand.png "aus")
+
 See `img/new-zealand.mp4` for a visualization.
 
 ## Nobulart

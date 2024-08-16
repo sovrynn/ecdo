@@ -1,5 +1,9 @@
 # Severny Island
 
+![arctic](img/severny.png "arctic")
+
+## Analysis
+
 ![s1](img/severny-island.jpg "s1")
 ![s2](img/severny-island2.jpg "s2")
 ![s3](img/severny-island3.jpg "s3")

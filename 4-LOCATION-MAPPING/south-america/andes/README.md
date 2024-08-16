@@ -2,6 +2,8 @@
 
 The Andes are the tall mountain range running along the west coast of South America. High in elevation and close to the western pivot, they may be safe during S1 to S2 of the ECDO event.
 
+![sa](img/andes.png "sa")
+
 ## Nobulart predictions
 
 The Andes have to deal with the Pacific hitting them from the west at speeds probably up to 1000 km/h when returning from S2>S1.

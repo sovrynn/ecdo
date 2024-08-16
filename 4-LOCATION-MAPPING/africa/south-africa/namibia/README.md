@@ -1,5 +1,9 @@
 # Namibia
 
+![sa](img/namibia.png "sa")
+
+## Analysis
+
 ![namibia 1](img/namibia1.jpg "namibia 1")
 ![namibia 2](img/namibia2.jpg "namibia 2")
 

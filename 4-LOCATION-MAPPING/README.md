@@ -16,6 +16,8 @@ The directory is organized into information about specific locations in continen
 
 Locations are bucketed in a tree-manner, and should be put in the proper folder.
 
+It is recommended that each location analysis begins with a map that shows the location's position relative to its surrounding landmass to help readers. This is particularly helpful for more obscure, small locations. See [Svalbard](https://github.com/sovrynn/ecdo/tree/master/4-LOCATION-MAPPING/arctic/svalbard) for an example.
+
 Graphics should be added into `img/` folders in the relevant location and should generally be embedded into the Markdown files as part of the analysis.
 
 `README.md` files for continent directories should only contain information about the general continent. Information about specific locations belongs in subfolders within the continent folder.

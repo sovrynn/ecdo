@@ -1,5 +1,9 @@
 # Svalbard
 
+![arctic](img/svalbard.png "arctic")
+
+## Analysis
+
 ![s1](img/svalbard.jpg "s1")
 ![s2](img/svalbard2.jpg "s2")
 ![s3](img/svalbard3.jpg "s3")

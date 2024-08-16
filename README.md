@@ -43,7 +43,7 @@ The high-level steps are:
 
 Do NOT dump information into high-level `README.md` files just because you don't know where else to put it. `README.md` files are not data dumps but polished analysis of one specific topic. They should be organized and easily readable.
 
-Some images are meaningful on their own, but others require explaining. Rather than use `img/` as an image dump, images should generally be referenced in Markdown and useful insights gleaned from them explained. You can embed an image in Markdown using this snippet `![alt](PATH "Title")` (replace `PATH` with the path to the image, for example `img/australia.jpg`).
+Some images are meaningful on their own, but others require explaining. Rather than use `img/` as an image dump, images should generally be referenced in Markdown and useful insights gleaned from them explained.
 
 Information in other languages can be put in `/translation` folders within the relevant directory.
 
