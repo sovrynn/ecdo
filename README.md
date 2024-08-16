@@ -1,3 +1,5 @@
+This is a test change!!
+
 # ECDO (Exothermic Core-Mantle Decoupling - Dzhanibekov Oscillation)
 
 This repo is intended to be a thoughtbank for brainstorming the [ECDO thesis](https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/), created by the [Ethical Skeptic](https://theethicalskeptic.com/), and all things related to it.
