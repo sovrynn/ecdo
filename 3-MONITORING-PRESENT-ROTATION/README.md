@@ -8,4 +8,4 @@ Helpful info may include:
 - useful data feeds such as temperature, wandering of the rotational axis
 - how often it has happened
 
-Evidence on past ECDO events belongs not here, but in `3-ADHOC-EVIDENCE`.
+Evidence on past ECDO events belongs not here, but in `2-ADHOC-EVIDENCE`.
