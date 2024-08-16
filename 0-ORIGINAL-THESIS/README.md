@@ -11,7 +11,7 @@ Notably, he breaks his thesis down into 3 parts:
 
 The key point to understand here is that this thesis is not a random dart throw but was a progressive process of figuring things out, as outlined in his three theses.
 
-I consider recreating his proofs to be of the highest priority. That work belongs in folder `2-FULL-THEORY-BREAKDOWN`.
+I consider recreating his proofs to be of the highest priority. That work belongs in folder `1-FULL-THESIS-BREAKDOWN`.
 
 ## Terms
 
