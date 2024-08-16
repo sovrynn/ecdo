@@ -13,6 +13,7 @@ Supernova (solar heat wave)
 Landslides
 Fast winds
 Avalanches
+Ash from volcanoes covering air, blocking Sun
 
 # Location Scouting Potential Metrics
 

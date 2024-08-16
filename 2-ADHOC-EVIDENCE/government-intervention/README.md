@@ -43,3 +43,7 @@ The detectors are, I believe, what they're claimed to be, but could possibly ful
 ## HAARP
 
 https://x.com/RealDutchsinse/status/1818805390974263741
+
+## Behind schedule? Nobulart quote
+
+I think its already overdue and we've been holding it back. It wasn't expected to be prevented for as long as it has, thus Agenda 21 became Agenda 2030 and the script for the control narrative seems to have disintegrated into some B grade horror movie which was scrawled on the back of a napkin. 

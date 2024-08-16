@@ -19,3 +19,7 @@ Southern Africa, "The Cradle of Humankind" [1]. Seemingly has no cultural flood 
 ## Hot Wind
 
 Southern Africa going to be blasted with hot air from the Sahara at 900+km/h?
+
+## Nobulart
+
+Thing that still confuses me is the lack of marine fossils in South Africa - nothing since around 66 million years ago.

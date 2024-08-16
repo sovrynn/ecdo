@@ -9,3 +9,13 @@ The Andes have to deal with the Pacific hitting them from the west at speeds pro
 The Andes are a possibility. Problem with high places is that there is a lot of material to fall on top of you when the earth shakes.
 
 Mountainous regions like the Andes will be less susceptible to water, but will be dangerous due to falling debris and renewed orogeny (mountain building). 
+
+## Toctuca
+
+![sa](img/toctuca1.jpg "sa")
+
+That south part of the crescent appears to be richer in mammalian life as well.
+
+![sa](img/toctuca2.jpg "sa")
+
+Richest spot appears to be almost exactly near Toctuca.
