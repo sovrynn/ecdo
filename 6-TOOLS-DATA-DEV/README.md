@@ -8,7 +8,7 @@ For elevation, [TessaDEM](https://tessadem.com/) is nice. Interactive web map is
 
 Here is a decent interactive web [flooding map](https://en-gb.topographic-map.com/map/?center=14.43468%2C0.17578&popup=68.02073%2C175.78125).
 
-Google Earth is good too, here are some links:
+Google Maps and Google Earth are excellent:
 - https://www.google.com/earth/about/versions/
 - https://www.google.com/maps/d/
 - https://code.earthengine.google.com
