@@ -41,3 +41,7 @@ Dead whale bones in Egypt.
 Whale skeletion in Osa Peninsula, Costa Rica.
 
 <img src="img/whale2.jpg" alt="ALT" style="width:50%;"/>
+
+## Cuvier Books
+
+In `books/` you can find several books written by Cuvier about animal and vegetable remains that he predicted came from sudden disasters.

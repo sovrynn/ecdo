@@ -69,8 +69,8 @@ If:
 - t is the number of hours it takes to go from S1 -> S2
 
 Then:
-- Radius of rotation of the point (r) = r_earth * sin(theta)
-- Average rotational speed = rotational circumference * (104/360) / t = 2 * pi * r * (104/360) / t
+- Radius of rotation of the point (r) = `r_earth * sin(theta)`
+- Average rotational speed = `rotational circumference * (104/360) / t` = `2 * pi * r * (104/360) / t`
 
 ## Rotational speed example
 
@@ -79,14 +79,14 @@ I'll calculate the rotational speed of Singapore as an example.
 Asking ChatGPT, the angle between Singapore and the eastern pivot is about 17.3 degrees.
 
 Then, the radius of rotation of Singapore is:
-- r_earth * sin(17.3)
-- = 6371 km * 0.297
-- = 1895 km
+- `r_earth * sin(17.3)`
+- = `6371 km * 0.297`
+- = `1895 km`
 
 Then, the average rotational speed, assuming S1 -> S2 takes 6 hours is:
-- 2 * pi * r * (104/360) / t
-- = 2 * pi * 1895 km * (104/360) / 6 hr
-- = 573 km/h
+- `2 * pi * r * (104/360) / t`
+- = `2 * pi * 1895 km * (104/360) / 6 hr`
+- = `573 km/h`
 
 So during S1 -> S2, Singapore will be rotating clockwise around the eastern pivot in Indonesia at an average speed of 573 km/h.
 
@@ -96,10 +96,14 @@ Finally we can map the direction and speed of rotation across many points in the
 
 ![eastern vector field](img/eastern-pivot-vector-field.png "eastern pivot vector field")
 
-Here is the predicted average rotational speed at each city:
+Here is the predicted average rotational speed at each city assuming a 6 hour rotation:
 - Singapore: 17.3 degrees from pivot, ~573 km/h
 - Tokyo: 26.7 degrees from pivot, ~866 km/h
 - Dubai: 43.2 degrees from pivot, ~1319 km/h
+
+## Water displacement
+
+It can be expected that the water displacement will run in the reverse direction of land rotation, with a proportional strength to the speed of rotation at that point.
 
 ## Citations
 
