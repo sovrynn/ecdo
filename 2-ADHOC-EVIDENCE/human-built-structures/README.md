@@ -1,6 +1,6 @@
 # Human Built ECDO-related Structures
 
-This folder is for structures humans have built that is related to ECDO events.
+This folder is for structures humans have built that are potentially related to ECDO events.
 
 ## Potential Leads
 
