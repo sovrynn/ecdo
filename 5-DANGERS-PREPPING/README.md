@@ -1,21 +1,33 @@
 # Prepping for an ECDO event
 
-Aside from a flood map, this directory is for all things prepping. Of course, the primary concern is finding the locations that are likely to be safe in the oceanic displacement, and the flood mapping will be helpful for that.
+This directory is for all things prepping (except flood mapping, which belongs in `4-LOCATION-MAPPING`).
 
-But this directory is also made for all things subsequent, such as temperature, earthquakes, volcanoes, and materials, tools, and plans that will be helpful for ensuring optimal handling of the ECDO event.
+How does one actually prepare, in meatspace, for an ECDO event? How does one protect themselves from physical dangers other than flooding? What materials, tools, and plans should one prepare to survive during and after an ECDO event? These are the questions this directory aims to answer.
 
-# Natural Dangers
+# Dangers to consider
 
-From the land below:
-- Earthquakes
-- Volcanoes
+Natural:
+- From the land below:
+	- Earthquakes
+	- Volcanoes
+- Falling, flying things:
+	- Landslides
+	- Avalanches
+	- Fast winds
+- Temperature, atmosphere:
+	- Freezing temperature
+	- Supernova (solar heat wave)
+	- Ash from volcanoes covering air, blocking Sun
 
-Falling, flying things:
-- Landslides
-- Avalanches
-- Fast winds
+Basic biological needs:
+- food
+- water
+- shelter
+- community
 
-Temperature, atmosphere:
-- Freezing temperature
-- Supernova (solar heat wave)
-- Ash from volcanoes covering air, blocking Sun
+Human safety and security needs:
+- weapons
+- cultural differences, local community states, local attitudes
+
+Geopolitical:
+- geopolitical wargaming
