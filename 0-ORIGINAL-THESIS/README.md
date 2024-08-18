@@ -1,6 +1,6 @@
 # ECDO (Exothermic Core-Mantle Decoupling - Dzhanibekov Oscillation)
 
-This folder is intended to be a simple container for the [original ECDO thesis](https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/), written by the Ethical Skeptic.
+This folder is intended to be a simple container for hard copies of the [original ECDO thesis](https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/), written by the Ethical Skeptic.
 
 ![ecdo](img/ecdo.webp "ecdo")
 
@@ -13,8 +13,7 @@ The key point to understand here is that this thesis is not a random dart throw 
 
 I consider recreating his proofs to be of the highest priority. That work belongs in folder `1-FULL-THESIS-BREAKDOWN`.
 
-## Terms
+## Contents
 
-S1 refers to the current state of Earth.
-
-S2 refers to the state of Earth when it first rotates during an ECDO event, rotating around the western and eastern pivots in Venezuela and Indonesia.
+- `src-pdfs`: Copies of Ethical Skeptic's theses.
+- `theory-part-[1-3]`: My personal short summaries of Ethical Skeptic's theses.
