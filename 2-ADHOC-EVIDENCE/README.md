@@ -5,8 +5,9 @@ This directory contains evidence of the ECDO which is not necessarily scientific
 ## Contents
 
 - `ancient-myths`: Myths that may reference past ECDO events.
-- `government-intervention`: Investigating potential government intervention related to the ECDO, such as attempting to stop/delay the ECDO or censoring information about it.
 - `physical-evidence`: Physical evidence of past ECDO events, such as flash-frozen animals or big rocks high up in the mountains.
+- `human-built-structures`: Structures built by humans potentially related to ECDO events.
+- `government-intervention`: Investigating potential government intervention related to the ECDO, such as attempting to stop/delay the ECDO or censoring information about it.
 - `research`: Research related to the ECDO.
 
 ## Information that belongs in another folder
