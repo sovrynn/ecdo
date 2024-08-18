@@ -59,6 +59,9 @@ Two ways:
 
 There are text editors such as Visual Studio Code that allow you to preview Markdown (render it) to help you check for Markdown errors and style the README.md how you wish locally.
 
+For GIFs:
+- `![alt](PATH)`
+
 ## TODO wishlist, top priorities
 
 Global maps showing:
