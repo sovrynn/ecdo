@@ -2,11 +2,11 @@
 
 The purpose of this document is to understand exactly what direction and strength the rotation will be, on the surface of the Earth, during S1 -> S2.
 
-Of course, the answer is not a constant, but a combination of constants, since the direction and strength will depend on which point on the Earth's surface you're talking about.
+Of course, the answer is not a constant, but depends on which point on the Earth's surface is in question.
 
 ## Prerequisite Knowledge - axial tilt and north poles
 
-To start off we must cover some basic knowledge regarding the Earth's rotation.
+To start off we will cover some basic knowledge regarding the Earth's rotation.
 
 ### Axial Tilt
 
