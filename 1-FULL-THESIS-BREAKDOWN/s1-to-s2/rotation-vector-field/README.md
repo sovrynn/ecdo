@@ -1,6 +1,6 @@
 # Rotation Vector Field
 
-The purpose of this document is to understand exactly what direction and strength the rotation will be, on the surface of the Earth, during S1 -> S2. Presumably, S2 -> S1 would be the reverse of that.
+The purpose of this document is to understand exactly what direction and strength the rotation will be, on the surface of the Earth, during S1 -> S2.
 
 Of course, the answer is not a constant, but a combination of constants, since the direction and strength will depend on which point on the Earth's surface you're talking about.
 
