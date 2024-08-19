@@ -11,7 +11,7 @@ This folder aims to be as accurate of a progress indicator as possible on the cu
 
 ## Information that belongs elsewhere
 
-Speculation on how long S1 -> S2 will take belongs [here](https://github.com/sovrynn/ecdo/blob/master/1-FULL-THESIS-BREAKDOWN/s1-to-s2/README.md) in `1-FULL-THESIS-BREAKDOWN/s1-to-s2/`.
+Speculation on how long S1 -> S2 will take belongs [here](https://github.com/sovrynn/ecdo/tree/master/1-FULL-THESIS-BREAKDOWN/s1-to-s2) in `1-FULL-THESIS-BREAKDOWN/s1-to-s2/`.
 
 Speculation on how frequent the ECDO is also belongs in `1-FULL-THESIS-BREAKDOWN/`.
 

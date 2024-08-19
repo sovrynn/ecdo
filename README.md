@@ -47,10 +47,9 @@ Information in other languages can be put in `/translation` folders within the r
 In order to contribute, you'll need to be able to use git.
 
 The high-level steps are:
-- clone the latest version of the repository to your local machine
-- make a new git branch
-- make your changes
-- create a pull request
+- fork the repo
+- make your changes in your fork
+- create a pull request to the original repo
 
 All pull requests will be reviewed to ensure they follow the contribution guidelines.
 
