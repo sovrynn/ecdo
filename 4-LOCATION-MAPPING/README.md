@@ -28,3 +28,10 @@ Citations are welcome and recommended. You can place them in their own section, 
 
 Interesting cliff formations:
 - China
+
+Locations with karst landscapes:
+- North Vietnam
+- Borneo
+- Slovenia
+- South China
+	- https://whc.unesco.org/en/list/1248/

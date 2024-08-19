@@ -35,6 +35,7 @@ It does seem that there is a patch of shallower ocean bordering the eastern coas
 
 Zhangjiajie mountains are a group of mountains with very interesting shape. They are tall, narrow mountain pillars.
 
+![zhangjiajie](img/zhangjiajie-map.png "zhangjiajie")
 ![zhangjiajie](img/zhangjiajie.jpg "zhangjiajie")
 ![zhangjiajie](img/zhangjiajie2.jpg "zhangjiajie")
 <img src="img/zhangjiajie3.jpg" alt="zhangjiajie" style="width:50%;"/>
@@ -47,7 +48,9 @@ This is what the terrain looks like, from Google Maps:
 
 ![terrain](img/zhangjiajie-terrain.png "zhangjiajie")
 
-Definitely potential for this location to have been created by fast-moving water/debris.
+The pillars are of quartz-sandstone pillars and [resemble kartz terrain](https://en.wikipedia.org/wiki/Zhangjiajie_National_Forest_Park). Supposedly they were created from [sea erosion 380 million years ago](http://www.chinatoday.com.cn/ctenglish/se/txt/2009-01/21/content_175438.htm).
+
+Definitely potential for this location to have been created by fast-moving water/debris. Not sure whether it would have been during S1 -> S2, S2 -> S1, or both.
 
 ### Zhoukoudian Cave (Beijing)
 
@@ -86,5 +89,7 @@ Things to look into:
 - https://en.wikipedia.org/wiki/History_of_Beijing
 
 Zhangjiajie:
+- https://en.wikipedia.org/wiki/Zhangjiajie_National_Forest_Park
+- http://www.chinatoday.com.cn/ctenglish/se/txt/2009-01/21/content_175438.htm
 - https://whhlyt.hunan.gov.cn/whhlyt/english/TourismInRegions/Zhangjiajie/ZhangjiajieAttractions/202211/t20221108_29119497.html
 - https://www.guinnessworldrecords.com/world-records/593531-largest-concentration-of-sandstone-pillars
