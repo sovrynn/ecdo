@@ -35,7 +35,7 @@ It does seem that there is a patch of shallower ocean bordering the eastern coas
 
 Zhangjiajie mountains are a group of mountains with very interesting shape. They are tall, narrow mountain pillars.
 
-![zhangjiajie](img/zhangjiajie-map.png "zhangjiajie")
+<img src="img/zhangjiajie-map.png" alt="zhangjiajie" style="width:50%;"/>
 ![zhangjiajie](img/zhangjiajie.jpg "zhangjiajie")
 ![zhangjiajie](img/zhangjiajie2.jpg "zhangjiajie")
 <img src="img/zhangjiajie3.jpg" alt="zhangjiajie" style="width:50%;"/>
