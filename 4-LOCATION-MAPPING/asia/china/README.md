@@ -5,7 +5,9 @@ China, while having a very large stretch of very high elevation land, still has 
 ![china](img/china-elevation-1.png "china elevation")
 ![china](img/china-elevation-2.png "china elevation")
 
-## Rotational path: Beijing
+## S1 -> S2
+
+### Rotational path across the ocean (S1 -> S2)
 
 I'll use Beijing as an initial reference point during this calculation.
 
@@ -13,11 +15,13 @@ Beijing is at an angle of 355 degrees from the eastern pivot, and a Haversine (E
 
 So, to find the ending point after Beijing rotates, we traverse 4461 km at an angle of 104 degrees from the eastern pivot, giving us a lat/long of (-6.4, 160.2), courtesy of ChatGPT.
 
+Finally, in this visualization, we can see Beijing rotating from the red circle to the green circle along the orange line during S1 -> S2.
+
 ![beijing rotation](img/beijing-rotation.png "beijing rotation")
 
 That's a lot of water China will be rushing into.
 
-## S1 -> S2
+### S1 -> S2 basic analysis
 
 During S1 -> S2, it's difficult to imagine that the eastern part of China, which is about 0m - 300m in elevation and directly in front of the coast, doesn't get inundated. The [Khafre pyramid erosion line](https://github.com/sovrynn/ecdo/tree/master/4-LOCATION-MAPPING/0-general-heuristics/flood-height) is 192m above sea level, and the momentary inundation is likely higher, potentially by multiples.
 
@@ -25,17 +29,19 @@ It does seem that there is a patch of shallower ocean bordering the eastern coas
 
 ![ocean map](china-ocean.png "china ocean")
 
-## Zhangjiajie Mountains
+## Physical Evidence, Notable Locations
+
+### Zhangjiajie Mountains
 
 Zhangjiajie mountains are a group of mountains with very interesting shape. They are tall, narrow mountain pillars.
 
 ![zhangjiajie](img/zhangjiajie.jpg "zhangjiajie")
 ![zhangjiajie](img/zhangjiajie2.jpg "zhangjiajie")
-![zhangjiajie](img/zhangjiajie3.jpg "zhangjiajie")
+<img src="img/zhangjiajie3.jpg" alt="zhangjiajie" style="width:50%;"/>
 
 The mountains lie at an average elevation of over 1000m.
 
-`Zhangjiajie Sandstone Peak Forest Geopark in north-west Hunan Province, China, contains more than 3,100 natural pillars, columns and peaks made of quartz sandstone. More than 1,000 of them soar above 120 metres (393 feet) tall, and 45 reach over 300 metres (984 feet).`
+"Zhangjiajie Sandstone Peak Forest Geopark in north-west Hunan Province, China, contains more than 3,100 natural pillars, columns and peaks made of quartz sandstone. More than 1,000 of them soar above 120 metres (393 feet) tall, and 45 reach over 300 metres (984 feet)."
 
 This is what the terrain looks like, from Google Maps:
 
@@ -43,13 +49,13 @@ This is what the terrain looks like, from Google Maps:
 
 Definitely potential for this location to have been created by fast-moving water/debris.
 
-## Zhoukoudian Cave (Beijing)
+### Zhoukoudian Cave (Beijing)
 
 [Zhoukoudian Cave](https://en.wikipedia.org/wiki/Zhoukoudian_Peking_Man_Site) (39.4 N, 115.5 E) is a cave in Beijing where remains of a very old (200k+ years) human predecessor was found.
 
 Surprisingly, the cave is located only at an [elevation of 128m](https://www.degruyter.com/document/doi/10.1515/char.2001.1.1.85/pdf).
 
-## Wangfujing site (Beijing)
+### Wangfujing site (Beijing)
 
 This is an archaelogical site in Beijing (39.9 N, 116.4 E) where Paleolithic Stone Age tools were found.
 
@@ -59,7 +65,7 @@ It's only at an elevation of 50m above sea level.
 
 Beijing and Luoyang only two locations in China which have been inhabited continuously for a long time.
 
-![oldest cities](china-old-cities.png "china old cities")
+![oldest cities](img/china-old-cities.png "china old cities")
 
 Beijing's history goes far back as 1100 BC, which is ~3100 years ago, when it was named the City of Ji during the Zhou Dynasty.
 
