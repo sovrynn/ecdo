@@ -51,7 +51,9 @@ This is what the terrain looks like, from Google Maps:
 
 The pillars are of quartz-sandstone pillars and [resemble kartz terrain](https://en.wikipedia.org/wiki/Zhangjiajie_National_Forest_Park). Supposedly they were created from [sea erosion 380 million years ago](http://www.chinatoday.com.cn/ctenglish/se/txt/2009-01/21/content_175438.htm).
 
-Definitely potential for this location to have been created by fast-moving water/debris. Not sure whether it would have been during S1 -> S2, S2 -> S1, or both.
+The absolute goldmine work into these mountains is a 2020 research paper by Yaohuang Li proposing ocean erosion as the main cause of these structures. Check `research-papers/Zhangjiajie-sea-erosion.pdf` to read it.
+
+Definitely a good chance this location was created by fast-moving water/debris. Not sure whether it would have been during S1 -> S2, S2 -> S1, or both.
 
 ### Zhoukoudian Cave (Beijing)
 
