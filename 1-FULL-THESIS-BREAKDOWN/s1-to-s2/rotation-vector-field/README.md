@@ -1,8 +1,8 @@
 # Rotation Vector Field
 
-The purpose of this document is to understand and be able to calculate what direction and strength the rotation will be, at any point on the surface of the Earth, during S1 -> S2.
+The purpose of this document is to understand and be able to calculate what direction and speed the rotation will be, at any point on the surface of the Earth, during S1 -> S2.
 
-Of course, the answer depends on which point on the Earth's surface is in question.
+Of course, the answer depends on which point on the Earth's surface is in question, because the rotation direction and speed are not the same across all points on Earth.
 
 ## Calculating rotational direction
 
