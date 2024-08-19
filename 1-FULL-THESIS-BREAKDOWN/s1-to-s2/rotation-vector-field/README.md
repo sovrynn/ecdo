@@ -4,60 +4,11 @@ The purpose of this document is to understand exactly what direction and strengt
 
 Of course, the answer is not a constant, but depends on which point on the Earth's surface is in question.
 
-## Prerequisite Knowledge - axial tilt and north poles
+## Rotational Direction
 
-To start off we will cover some basic knowledge regarding the Earth's rotation.
+Calculating rotational direction is rather simple. Simply find the closest pivot (there are two pivots).
 
-### Axial Tilt
-
-Axial tilt is the angle between an object's rotational axis (spinning) and its orbital axis (orbit), which is the line perpendicular to its orbital plane, which is the plane along which, for Earth, it rotates around the Sun. The Earth's axial tilt is about 23.4 degrees. depicted by the red line in the below gif which does not point straight upwards. However, we don't need to concern ourselves with this number just yet. The rest of the explanation will all be done whilst factoring out the axial tilt.
-
-![orbitgif](img/earth-orbit.gif)
-
-### North Poles
-
-Next I'll cover the North Poles. There are 3:
-- The geographic north pole is the northern Earth surface point intersecting with Earth's axis of rotation. It's where lines of longitude meet at the top of the Earth.
-- The north magnetic pole is the point on the north surface of the Earth where the planet's magnetic field points directly downward. Presumably, this is found through measurement
-- Finally, the geomagnetic north pole, which would be the north pole in an approximate dipole model of the Earth's magnetic field
-
-![north poles](img/north-poles.png "north poles")
-
-Currently, none of the 3 are the exact same point.
-
-The one I will reference in this page is the geographic north pole.
-
-## How does the Earth rotate during S1 -> S2?
-
-So, during S1, the Earth is rotating along its rotational axis:
-
-![rotating sphere](img/rotation.gif)
-
-The rotation during S1 -> S2 can be thought of as occuring independently of this rotation. During S1 -> S2, a new Earth surface point in South Africa is brought to the geographic North pole, which looks like this, cross-sectionally:
-
-![ecdo](img/ecdo-rotation.webp "ecdo")
-
-As the South Africa LLVP rotates to the geographic north pole as the Earth continues to spin around its rotational axis, the South Africa LLVP will follow an arcing path like this:
-
-![rotational path](img/new-north-pole-path.png "north pole rotation path")
-
-## Western and eastern pivot points
-
-These are the two points on the Earth's surface which don't have their rotation affected during S1 -> S2 (they continue to rotate along the normal 24-hour Earth rotational path). They are both on the equator, and lie on a single line that also goes through the center of the Earth.
-
-The coordinates of these points in lat/long degree format are:
-- Western pivot, Venezuela: (0.0, -59.0)
-- Eastern pivot, Indonesia: (0.0, 121.0)
-
-During S1 -> S2, Earth rotates counterclockwise around the western pivot (looking down onto Earth) and clockwise around the eastern pivot. The arrow around the western pivot here shows how the Earth will rotate, while the long yellow arrows at the extremities show the direction of water movement.
-
-![western pivot](img/western-pivot.webp "western pivot")
-
-Here's the eastern pivot:
-
-![eastern pivot](img/eastern-pivot.png "eastern pivot")
-
-By drawing radial circles around the pivots, we can find the direction of rotation at any point.
+Then, the point will rotate counterclockwise if the pivot is the western pivot, and clockwise if the pivot is the eastern pivot, if the viewer is looking down at the pivots.
 
 ## Calculating rotational speed
 
@@ -106,9 +57,3 @@ Here is the predicted average rotational speed at each city assuming a 6 hour ro
 ## Water displacement
 
 It can be expected that the water displacement will run in the reverse direction of land rotation, with a proportional strength to the speed of rotation at that point.
-
-## Citations
-
-- https://en.wikipedia.org/wiki/Axial_tilt
-- https://en.wikipedia.org/wiki/North_magnetic_pole
-- https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
