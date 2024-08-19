@@ -22,6 +22,8 @@ Ocean mapping:
 
 Here is a [lat/long distance calculator](latlongdata.com/distance-calculator).
 
+Here is a [lat/long elevation webapp](latlongdata.com/elevation).
+
 ## Other Tools
 
 Ask Nobulart about these:

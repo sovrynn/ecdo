@@ -18,6 +18,10 @@ If there are traces of past inundation, these could be used to predict a similar
 
 A great example is the erosion on the Khafre pyramid, from which one can glean how high the ocean was, for certain periods at least, during the erosion at that point.
 
+## Momentary vs Prolonged Inundation
+
+It's likely that the highest levels of inundation will only be temporary, as water is displaced and looks for a location to stay, and that the prolonged level of inundation will be much lower.
+
 ## Calculating Rotational Path
 
 Since we are lacking mapping libraries, the way I'm currently doing this is with lat/long coordinates, distance, and ChatGPT as a calculator.
@@ -28,3 +32,11 @@ Steps:
 - Rotate the angle 104 degrees (counter)clockwise (depending on the pivot), traverse the same distance, and get a lat/long coordinate
 - Plot the lat/long coordinate on a map
 - Connect the starting location and final location with an arc of a circle rotating from the pivot, on a spherical map, to get the rotational path
+
+## Inundation Markers from previous ECDO events
+
+- Khafre pyramid
+	- erosion level is 192m above sea level
+- Appalachian mountains
+- Urgup Cones Turkey
+	- ~1025m above sea level

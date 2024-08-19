@@ -7,7 +7,7 @@ This folder is for analyzing all aspects of the transition from S1 to S2.
 - `duration`: Information relating to the duration of the S1 to S2 rotation.
 - `rotation-amount`: Information pertaining to why the rotation is 104 degrees with the South Africa LLVP going to the geographic north pole.
 - `rotation-vector-field`: How to calculate the direction and speed of rotation at any point on Earth.
-- `triggers`: Triggers for the S1 to S2 rotation.
+- `water-displacement`: Understanding the displacement of oceans and bodies of water.
 
 # Basic Description of Rotation
 

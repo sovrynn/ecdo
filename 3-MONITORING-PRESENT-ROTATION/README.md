@@ -8,6 +8,7 @@ This folder aims to be as accurate of a progress indicator as possible on the cu
 - `north-pole-wander`: Tracking the wandering of the north magnetic pole.
 - `recent-natural-disasters`: Tracking natural disasters which may have an uptick because of the ECDO.
 - `shudder`: Referencing a vague imminent phenomenon that Ethical Skeptic referred to on social media.
+- `triggers`: Triggers for the S1 to S2 rotation.
 
 ## Information that belongs elsewhere
 
