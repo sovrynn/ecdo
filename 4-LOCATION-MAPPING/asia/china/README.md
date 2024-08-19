@@ -27,7 +27,7 @@ During S1 -> S2, it's difficult to imagine that the eastern part of China, which
 
 It does seem that there is a patch of shallower ocean bordering the eastern coast before the ocean gets deeper, although I don't know exactly how much shallower it is. Visualization from [NOAA](https://github.com/sovrynn/ecdo/tree/master/6-TOOLS-DATA-DEV).
 
-![ocean map](china-ocean.png "china ocean")
+![ocean map](img/china-ocean.png "china ocean")
 
 ## Physical Evidence, Notable Locations
 
@@ -63,7 +63,7 @@ It's only at an elevation of 50m above sea level.
 
 ## Longest Inhabited Cities
 
-Beijing and Luoyang only two locations in China which have been inhabited continuously for a long time.
+Beijing and Luoyang are the only two locations in China which have been inhabited continuously for a long time.
 
 ![oldest cities](img/china-old-cities.png "china old cities")
 
