@@ -16,15 +16,21 @@ So a mammoth foraging in the summertime was almost instantaneously frozen and re
 
 Dig at the remains of a sunken prehistoric tropical lake community between Nome and Kotzebue, Alaska. While digging, an archaelogist unearthed a mosquito that flew away after thawing. In order for a mosquito to be revived after being frozen, its freezing would have to be followed by a sharp and permanent drop in temperature. Normal freezing would have caused ice crystals to grow within the creature, rupturing the membranes. So it was freezing in a sudden deep freezing.
 
-## Animal remains
+## East Yorkshire Bio-floodmass
+
+![book](img/biofloodmass.jpg "book")
 
 However I don't think the boulder clay was deposited by melting glaciers though and think a deluge buried the old coastline. I'll send some pictures from a book a local Geography teacher wrote which you might find interesting
 
 Note on this one that at the base of the buried cliff are bones of hippopotamus, rhinoceros and hyena. These were either deposited by ice sheets our buried there after a production of the lion king. Or smashed by a deluge in the not too distant past.
 
-## Flash frozen?
+## Frozen Mammoth
 
-That was Chan proposed mechanism - supersonic wind speeds and water due to the rotation.
+Viable DNA from the last cataclysm?
+
+https://www.livescience.com/animals/extinct-species/siberian-gold-miners-accidentally-find-ancient-woolly-rhino-mummy-with-horn-and-soft-tissues-still-intact
+
+That was Chan proposed mechanism - flash frozen due to supersonic wind speeds and water due to the rotation.
 
 ## Book about deluge
 
