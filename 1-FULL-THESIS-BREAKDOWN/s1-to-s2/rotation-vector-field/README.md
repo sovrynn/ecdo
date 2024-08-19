@@ -1,18 +1,20 @@
 # Rotation Vector Field
 
-The purpose of this document is to understand exactly what direction and strength the rotation will be, on the surface of the Earth, during S1 -> S2.
+The purpose of this document is to understand and be able to calculate what direction and strength the rotation will be, at any point on the surface of the Earth, during S1 -> S2.
 
-Of course, the answer is not a constant, but depends on which point on the Earth's surface is in question.
+Of course, the answer depends on which point on the Earth's surface is in question.
 
-## Rotational Direction
+## Calculating rotational direction
 
-Calculating rotational direction is rather simple. Simply find the closest pivot (there are two pivots).
+Calculating rotational direction is rather simple. Simply find the closest pivot (there are two pivots). The point will either rotate clockwise or counterclockwise around the pivot, when looking down at the pivot. Whether it rotates clockwise or counterclockwise depends on which pivot is being rotated around:
+- The point will rotate counterclockwise if its around the western pivot
+- Clockwise around the eastern pivot
 
-Then, the point will rotate counterclockwise if the pivot is the western pivot, and clockwise if the pivot is the eastern pivot, if the viewer is looking down at the pivots.
+It can be expected that the water displacement will run in the reverse direction of land rotation, with a proportional strength to the speed of rotation at that point.
 
 ## Calculating rotational speed
 
-We not only need to know the direction of rotation but also the speed of rotation. This depends on how far away said point is from the pivots. The closer the point is to either of the pivots, the less rotational speed it will endure, and the farther away from the pivots, the greater.
+Calculating the speed of rotation depends on how far away said point is from the pivots. The closer the point is to either of the pivots, the less rotational speed it will endure, and the farther away from the pivots, the greater.
 
 We can use basic trigonometry and some simplifing assumptions to calculate rotational speed.
 
@@ -53,7 +55,3 @@ Here is the predicted average rotational speed at each city assuming a 6 hour ro
 - Singapore: 17.3 degrees from pivot, ~573 km/h
 - Tokyo: 26.7 degrees from pivot, ~866 km/h
 - Dubai: 43.2 degrees from pivot, ~1319 km/h
-
-## Water displacement
-
-It can be expected that the water displacement will run in the reverse direction of land rotation, with a proportional strength to the speed of rotation at that point.
