@@ -46,7 +46,7 @@ The rotation during S1 -> S2 can be thought of as occuring independently of this
 
 As the South Africa LLVP rotates to the geographic north pole, the Earth continues to spin around its rotational axis, and thus the South Africa LLVP will follow an arcing path like this:
 
-![rotational path](img/new-north-pole-path.png "north pole rotation path")
+![rotational path](img/rotational-path.png "north pole rotation path")
 
 ## Western and eastern pivot points
 
