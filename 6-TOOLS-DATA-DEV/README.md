@@ -6,12 +6,21 @@ This folder is dedicated to tools, data, and development resources that help inv
 
 For elevation, [TessaDEM](https://tessadem.com/) is nice. Interactive web map is [here](https://en-gb.topographic-map.com/map/?center=14.43468%2C0.17578&popup=68.02073%2C175.78125).
 
-Here is a decent interactive web [flooding map](https://en-gb.topographic-map.com/map/?center=14.43468%2C0.17578&popup=68.02073%2C175.78125).
-
 Google Maps and Google Earth are excellent:
 - Google Earth: https://www.google.com/earth/about/versions/
 - Google Maps: https://www.google.com/maps/d/
 - Google Earth Scripting (need Google account): https://code.earthengine.google.com
+
+Here is a decent interactive web [flooding map](https://en-gb.topographic-map.com/map/?center=14.43468%2C0.17578&popup=68.02073%2C175.78125).
+
+An alternative to Google Earth is [earth.nullschool.net](https://earth.nullschool.net).
+
+Ocean mapping:
+- [NOAA Ocean Exploration Data Atlas](ncei.noaa.gov/maps/ocean-exploration-data-atlas)
+
+## Lat/long
+
+Here is a [lat/long distance calculator](latlongdata.com/distance-calculator).
 
 ## Other Tools
 

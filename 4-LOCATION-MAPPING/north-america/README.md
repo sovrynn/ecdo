@@ -22,3 +22,7 @@ North America. ECDO oscillation cycle visualization using model V4.[0] Camera-or
 [6] https://x.com/nobulart/status/1807828443368718601
 
 That area immediately to the east of the southern Rockies (around Denver) seems to be pretty good. There isn’t any obvious evidence of water having been there.
+
+Pike's Peak region in the US is the only place I've identified which is not overtopped by the Pacific.
+
+That said, 3,000ft anywhere east of the Rocky's is going to be overtopped by the Atlantic during S2>S1, without a doubt. There is overtopping erosion evidence throughout the entire Appalachian range, and the simple matter of it is that the Atlantic will reach hundreds of kilometers per hour traversing the eastern seaboard from the NE. Do not underestimate the amount of kinetic energy involved here.
