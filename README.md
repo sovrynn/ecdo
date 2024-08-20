@@ -18,6 +18,18 @@ Following are the main folders of the repo along with their purpose. There is bo
 6. `5-DANGERS-PREPPING`: All matters pertaining to preparing for an ECDO event aside from location.
 7. `6-TOOLS-DATA-DEV`: Technical resources to help map out the ECDO event.
 
+## ECDO Newcomer Guide
+
+1. What is the ECDO?
+- The first mandatory reading is [Ethical Skeptic's original thesis](https://github.com/sovrynn/ecdo/tree/master/0-ORIGINAL-THESIS).
+- Next, check [1-FULL-THEORY-BREAKDOWN](https://github.com/sovrynn/ecdo/tree/master/1-FULL-THESIS-BREAKDOWN) for an in-depth breakdown of the ECDO thesis. Specifically, [1-FULL-THEORY-BREAKDOWN/s1-to-s2](https://github.com/sovrynn/ecdo/tree/master/1-FULL-THESIS-BREAKDOWN/s1-to-s2) is a breakdown of the S1 -> S2 rotation which would be worth looking at.
+2. What is the evidence for the ECDO?
+- Ethical Skeptic's original thesis has some evidence for the ECDO.
+- [2-ADHOC-EVIDENCE](https://github.com/sovrynn/ecdo/tree/master/2-ADHOC-EVIDENCE) is filled with evidence for the ECDO.
+- Some locations in [4-LOCATION-MAPPING](https://github.com/sovrynn/ecdo/tree/master/4-LOCATION-MAPPING) have info on physical landmarks that could have been caused by previous ECDO events.
+3. How do we know it could be happening soon?
+- Check [3-MONITORING-PRESENT-ROTATION/date-and-triggers](https://github.com/sovrynn/ecdo/tree/master/3-MONITORING-PRESENT-ROTATION/date-and-triggers) for predictions on the timeframe of the impending ECDO along with potential triggers.
+
 ## Basic Contribution Guidelines
 
 1. Put information in the proper location in the proper format

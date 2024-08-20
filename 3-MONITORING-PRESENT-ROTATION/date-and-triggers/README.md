@@ -1,6 +1,12 @@
-# Triggers
+# Date and Triggers
 
-This folder is for investigating potential triggers for the S1 -> S2 rotation.
+This folder is for predicting the date of the impending ECDO, along with potential triggers for it.
+
+## Timeframe Speculation
+
+Possible destabilization began around 1973 (Reference Ethical Skeptic thesis).
+
+Nobulart prediction: Worst case S1 -> S2 as early as mid-2030, with S2 -> S1 in 2042/3.
 
 ## Possible Triggers
 
