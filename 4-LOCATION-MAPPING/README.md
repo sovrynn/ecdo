@@ -35,3 +35,6 @@ Locations with karst landscapes:
 - Slovenia
 - South China
 	- https://whc.unesco.org/en/list/1248/
+
+Davolja Varos (earth towers)
+- https://en.m.wikipedia.org/wiki/%C4%90avolja_Varo%C5%A1

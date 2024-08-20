@@ -51,3 +51,10 @@ Whale skeletion in Osa Peninsula, Costa Rica.
 ## Cuvier Books
 
 In `books/` you can find several books written by Cuvier about animal and vegetable remains that he predicted came from sudden disasters.
+
+![cuvier](img/cuvier1.jpg "cuvier")
+![cuvier](img/cuvier2.jpg "cuvier")
+![cuvier](img/cuvier3.jpg "cuvier")
+
+"By closely examining what has happened to the surface of the earth since it has become dry land for the last time and the continents have taken on their present shape, at least in their somewhat elevated areas, we see clearly that this last revolution and consequently the establishment of our present societies could not be very old. It is one of the most firmly established results and, at the same time, the least attended to in legitimate geology, a result even more valuable because it links up natural and civil history in an uninterrupted chain." - Georges Cuvier, Discourse (1819)
+[1] https://web.viu.ca/johnstoi/cuvier/cuvierweb.pdf

@@ -8,7 +8,15 @@ There is a lot to be done here, this folder needs to be filled to the brim.
 
 ## Notable Contents
 
-- `s1-to-s2`: All matters concerning the transition from S1 to S2.
+- `s1-to-s2`: All matters concerning the transition from S1 to S2, and an ECDO rotation in general.
+
+## Contents
+
+- `core-mantle`: Information on core-mantle coupling.
+- `dzhanibekov`: Information on Dzhanibekov effect.
+- `ecdo-frequencey`: Predicting ECDO frequency.
+- `s2`: All about S2.
+- `s2-to-s1`: All about S2 to S1.
 
 ## Information that doesn't belong here
 
