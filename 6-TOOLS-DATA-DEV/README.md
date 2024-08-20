@@ -11,7 +11,7 @@ Google Maps and Google Earth are excellent:
 - Google Maps: https://www.google.com/maps/d/
 - Google Earth Scripting (need Google account): https://code.earthengine.google.com
 
-Here is a decent interactive web [flooding map](https://en-gb.topographic-map.com/map/?center=14.43468%2C0.17578&popup=68.02073%2C175.78125).
+Here is a decent interactive web [flooding map](floodmap.net).
 
 An alternative to Google Earth is [earth.nullschool.net](https://earth.nullschool.net).
 
