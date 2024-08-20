@@ -9,6 +9,7 @@ This directory contains evidence of the ECDO which is not necessarily scientific
 - `human-built-structures`: Structures built by humans potentially related to ECDO events.
 - `government-intervention`: Investigating potential government intervention related to the ECDO, such as attempting to stop/delay the ECDO or censoring information about it.
 - `research`: Research related to the ECDO.
+- `solar-system`: Evidence from the solar system.
 
 ## Information that belongs in another folder
 
