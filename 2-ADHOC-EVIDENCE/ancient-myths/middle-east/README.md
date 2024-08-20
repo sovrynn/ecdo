@@ -12,3 +12,10 @@ There are thousands of square kilometers of significant stratification formation
 [2] https://x.com/nobulart/status/1812105085939261728
 [3] https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/
 [4] https://maps.app.goo.gl/9g6gz1vSAgqMXnoT8
+
+## Turkey
+
+Black Sea inundation of Ankara from around 1750-1700BC.
+- https://talkorigins.org/faqs/flood-myths.html
+	- This one cites the time as being around that of Alexander the Great (4th century BC), so the timing is a bit of an issue, but being a "story" its possibly incorrectly attributed to his time. There is however, another link to something happening in this area at the time Alex was around.
+- https://x.com/nobulart/status/1822018953620943257?s=46

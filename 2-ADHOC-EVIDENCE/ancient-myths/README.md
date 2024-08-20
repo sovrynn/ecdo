@@ -4,5 +4,6 @@ This folder is for documenting all myths that reference a potential ECDO event, 
 
 ## TODO leads to look into
 
+- Gold mine (put a hard copy in here): https://talkorigins.org/faqs/flood-myths.html
 - The Bible, Egyptian legends and other stories from antiquity describe a solar event, often involving a black sun.
 - Altai megafloods

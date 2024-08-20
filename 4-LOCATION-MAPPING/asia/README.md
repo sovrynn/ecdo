@@ -5,3 +5,7 @@ A large continent, it is home of the east ECDO pivot at Sulawesi, Indonesia. It 
 ![as](img/asia-elevation.png "as")
 
 See `img/ECDO_ASIA.mp4` for a visualization.
+
+## Locations to look into
+
+Chocolate Hills in Philippines

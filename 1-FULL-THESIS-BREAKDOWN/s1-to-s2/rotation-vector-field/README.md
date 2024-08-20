@@ -27,9 +27,17 @@ Then:
 - Radius of rotation of the point (r) = `r_earth * sin(theta)`
 - Average rotational speed = `rotational circumference * (104/360) / t` = `2 * pi * r * (104/360) / t`
 
+## Alternate rotational speed formula
+
+Alternatively, instead of the angle, if you know the distance from the pivot, you can use the formula `v = (1.814R) / T`, where:
+- `R` is the radius (distance from pivot)
+- `T` is the duration of the 104 degree rotation
+
+This one is much simpler than using trig.
+
 ## Rotational speed example - Singapore
 
-I'll calculate the rotational speed of Singapore as an example.
+I'll calculate the rotational speed of Singapore as an example, using the trigonometry formula.
 
 Asking ChatGPT, the angle between Singapore and the eastern pivot is about 17.3 degrees.
 
