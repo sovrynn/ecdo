@@ -1,5 +1,8 @@
 # Bible Myths
 
+Look at:
+- Worlds in Collision and Earth in Upheaval
+
 ## Isaiah 24
 
 17Terror and the pit and the snared
@@ -17,3 +20,7 @@ the earth is violently shaken.
 it sways like a hut;
 its transgression lies heavy upon it,
 and it falls, and will not rise again.
+
+## Genesi 7:11
+
+When Noah was 600 years old, on the seventeenth day of the second month, all the underground waters erupted from the earth, and the rain fell in mighty torrents from the sky.
