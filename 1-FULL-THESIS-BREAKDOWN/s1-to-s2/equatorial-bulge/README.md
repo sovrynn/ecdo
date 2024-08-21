@@ -20,9 +20,9 @@ This could not only cause a prolonged and significant change in coastlines aroun
 
 Earth's equatorial bulge could explain the Khafre pyramid's extended inundation to achieve the erosion on its surface. Why? Because the Mediterranean rotates to higher latitude values, higher up on the sphere, reducing the bulge, lowering elevation and bringing the coastline up by moving the land closer to the Earth's core.
 
-The Khafre Pyramid has a present-day lat/long of (30 N, 31 E). I'll use (37 N, 31 E) as a marker for the top of the Mediterranean on the 31 meridian.
+The Khafre Pyramid has a present-day lat/long of (30 N, 31 E). Calculating the new coordinates is simple. Just rotate the latitude 104 degrees, and if you cross the poles, change the longitude by 180 degrees. The Khafre pyramid would go to (46 N, 149 W) from (30, 31).
 
-Calculating the new coordinates is simple. Just rotate the latitude 104 degrees, and if you cross the poles, change the longitude by 180 degrees. The Khafre pyramid would go to (46 N, 149 W). The other marker goes to (39 N, 149 W).
+As you can see, the Khafre Pyramid would move 16 degrees north in latitude. This would move it further from the equatorial bulge, potentially reducing its elevation, allowing the ocean to "rise up" in level.
 
 ![khafre map](img/khafre-elevation-shift.png "khafre elevation shift")
 
@@ -34,7 +34,7 @@ In terms of elevation:
 - The region above the blue line (38 N latitude line) would be closer to the equatorial bulge and rise in elevation
 - The region immediately below the blue line would be further from the bulge and fall in elevation
 
-As you can see, the Khafre Pyramid (red circle) would be lower in elevation. This would explain the Khafre Pyramid's suspected prolonged inundation. As the Khafre sinks due to moving further from the bulge, the Mediterranean Sea "rises" an equal amount, bringing the water level up.
+The equatorial bulge, combined with the ECDO, provides a compelling explanation for the prolonged inundation of the Khafre Pyramid.
 
 ## Regions With Greatest Latitude Change (31 meridian, 149 meridian west)
 
