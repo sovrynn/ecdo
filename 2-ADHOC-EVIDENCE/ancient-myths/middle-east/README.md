@@ -18,4 +18,6 @@ There are thousands of square kilometers of significant stratification formation
 Black Sea inundation of Ankara from around 1750-1700BC.
 - https://talkorigins.org/faqs/flood-myths.html
 	- This one cites the time as being around that of Alexander the Great (4th century BC), so the timing is a bit of an issue, but being a "story" its possibly incorrectly attributed to his time. There is however, another link to something happening in this area at the time Alex was around.
+		- https://x.com/nobulart/status/1803411938451374121?s=46
+		- https://x.com/nobulart/status/1801746221809209701?s=46
 - https://x.com/nobulart/status/1822018953620943257?s=46

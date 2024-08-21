@@ -6,14 +6,16 @@ A reader should be able to come away from this folder with an understanding of p
 
 There is a lot to be done here, this folder needs to be filled to the brim.
 
-## Notable Contents
-
-- `s1-to-s2`: All matters concerning the transition from S1 to S2, and an ECDO rotation in general.
-
 ## Contents
 
+Notable ECDO content:
+- `s1-to-s2`: All matters concerning the transition from S1 to S2, and an ECDO rotation in general.
+
+Prerequisite knowledge:
 - `core-mantle`: Information on core-mantle coupling.
 - `dzhanibekov`: Information on Dzhanibekov effect.
+
+ECDO related:
 - `ecdo-frequencey`: Predicting ECDO frequency.
 - `s2`: All about S2.
 - `s2-to-s1`: All about S2 to S1.

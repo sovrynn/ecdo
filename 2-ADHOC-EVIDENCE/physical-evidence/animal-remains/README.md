@@ -58,3 +58,9 @@ In `books/` you can find several books written by Cuvier about animal and vegeta
 
 "By closely examining what has happened to the surface of the earth since it has become dry land for the last time and the continents have taken on their present shape, at least in their somewhat elevated areas, we see clearly that this last revolution and consequently the establishment of our present societies could not be very old. It is one of the most firmly established results and, at the same time, the least attended to in legitimate geology, a result even more valuable because it links up natural and civil history in an uninterrupted chain." - Georges Cuvier, Discourse (1819)
 [1] https://web.viu.ca/johnstoi/cuvier/cuvierweb.pdf
+
+"If we examine with even greater care the remains of these organic creatures, we come to discover in the middle of the marine strata, even the most ancient ones, layers full of animal or vegetable products from land and fresh water. In the most recent layers (i.e., the ones closest to the surface) there are some where land animals are buried under masses of marine creatures. Thus, not only did the different catastrophes which moved the layers gradually make the various parts of our continent rise up from the bosom of the waves and reduce the size of the sea basin, but this basin has been shifted in several directions.
+
+But it is also really important to note that these irruptions and these repeated retreats were not all slow and did not all take place gradually. On the contrary, most of the disasters which brought them on have been sudden. That is especially easy to demonstrate for the last of these catastrophes, which by a double movement inundated and later left dry our present continents or, at least, a great part of the land which forms them today."
+
+https://web.viu.ca/johnstoi/cuvier/cuvierweb.pdf
