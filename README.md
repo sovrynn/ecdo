@@ -17,6 +17,7 @@ Following are the main folders of the repo along with their purpose. There is bo
 5. `4-LOCATION-MAPPING`: Mapping out how different areas of the world will fare during an ECDO event.
 6. `5-DANGERS-PREPPING`: All matters pertaining to preparing for an ECDO event aside from location.
 7. `6-TOOLS-DATA-DEV`: Technical resources to help map out the ECDO event.
+8. `7-LITERATURE`: Literature related to the ECDO, organized by author.
 
 ## ECDO Newcomer Guide
 

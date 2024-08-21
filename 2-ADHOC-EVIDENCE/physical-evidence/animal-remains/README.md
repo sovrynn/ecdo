@@ -50,7 +50,7 @@ Whale skeletion in Osa Peninsula, Costa Rica.
 
 ## Cuvier Books
 
-In `books/` you can find several books written by Cuvier about animal and vegetable remains that he predicted came from sudden disasters.
+In `7-LITERATURE` you can find the PDFs of several Georges Cuvier's books, from which the following quotes are from.
 
 ![cuvier](img/cuvier1.jpg "cuvier")
 ![cuvier](img/cuvier2.jpg "cuvier")
