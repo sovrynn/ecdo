@@ -13,7 +13,7 @@ New north pole:
 - Lat/long: (-14. 31)
 - Below the equator
 
-New sout hpole:
+New south pole:
 - Present day location: Pacific Ocean
 - Lat/long: (14, -149)
 - Above the equator

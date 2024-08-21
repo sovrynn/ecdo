@@ -36,7 +36,7 @@ Steps:
 ## Inundation Markers from previous ECDO events
 
 - Khafre pyramid
-	- erosion level is 192m above sea level
+	- erosion level is 175m above sea level
 - Appalachian mountains
 - Urgup Cones Turkey
 	- ~1025m above sea level

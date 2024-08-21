@@ -24,6 +24,8 @@ Here is a [lat/long distance calculator](latlongdata.com/distance-calculator).
 
 Here is a [lat/long elevation webapp](latlongdata.com/elevation).
 
+Lat/long follows a Cartesian coordinate system. East is right on the x-axis, North is up on the y-axis.
+
 ## Other Tools
 
 Ask Nobulart about these:

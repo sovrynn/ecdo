@@ -38,3 +38,5 @@ Locations with karst landscapes:
 
 Davolja Varos (earth towers)
 - https://en.m.wikipedia.org/wiki/%C4%90avolja_Varo%C5%A1
+
+Needles (Black Hills, USA)

@@ -2,17 +2,15 @@
 
 This document is for understanding the oceanic displacement during the rotation.
 
-## Khafre Pyramid Questions
+## Khafre Pyramid Inundation
 
-The working ECDO theory is that the Khafre pyramid was inundated at 192m above current sea level for an extended period of time during S2.
+The Khafre Pyramid inundation of 175m for an extended period during S2 is not explained by simple oceanic displacement. The Mediterranean is not a perfect basin; it's connected to the Atlantic by the Strait of Gibraltar. Oceanic displacement alone could only explain a temporary inundation of the Khafre Pyramid. It's unlikely that the entire world experiences a sea-level rise of 175m during S2.
 
-Which begs the question - does the whole world get inundated at 192m above sea level during S2? Surely not.
+Rather, the Khafre Pyramid inundation is better explained by the fact that the Earth has an equatorial bulge - it takes the shape of an oblate spheroid. The Khafre Pyramid rotates from a latitude of 30 degrees north to 46 degrees north after S1 to S2. This would bring it higher on the spheroid, lowering its elevation as it goes farther away from the equatorial bulge. This would then bring the water level higher at the pyramid.
 
-In fact, how is it even possible that the region surrounding the Khafre pyramid, connected to the Mediterranean Basin, is inundated at a set level of 192m for an extended period when it is connected to the Atlantic Ocean?
+See `1-FULL-THESIS-BREAKDOWN/s1-to-s2/equatorial-bulge` for more analysis.
 
-Ethical Skeptic chimed in on this: "The Earth is a plastic-mantle oblate spheroid. Many oceans took new basins for the State 2 duration".
-
-## Basic Idea
+## Basic Analogy
 
 If you have a bowl of water, and push it to the side, the water will first slosh one way, but then it'll immediately slosh back the other way. This is because the body of water is small, so the momentum travels very quickly from one end of the water to the next.
 
