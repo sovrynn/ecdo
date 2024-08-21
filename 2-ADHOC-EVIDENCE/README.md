@@ -4,12 +4,17 @@ This directory contains evidence of the ECDO which is not necessarily scientific
 
 ## Contents
 
+Old evidence:
 - `ancient-myths`: Myths that may reference past ECDO events.
 - `physical-evidence`: Physical evidence of past or impending ECDO events, such as flash-frozen animals or big rocks high up in the mountains.
 - `human-built-structures`: Structures built by humans potentially related to ECDO events.
+- `solar-system`: Evidence from the solar system.
+- `history`: Learning from history.
+
+Modern, recent evidence:
+- `elite-preparation`: The elites seem to be preparing for... something.
 - `government-intervention`: Investigating potential government intervention related to the ECDO, such as attempting to stop/delay the ECDO or censoring information about it.
 - `research`: Research related to the ECDO.
-- `solar-system`: Evidence from the solar system.
 
 ## Information that belongs in another folder
 
