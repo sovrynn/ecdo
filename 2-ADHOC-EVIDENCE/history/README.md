@@ -26,8 +26,8 @@ https://en.wikipedia.org/wiki/Five_thousand_years_of_Chinese_civilization
 
 Reset @ 3,700 YBP?
 
-![population sample](img/populationsample1.jpg "population sample")
-![population sample](img/populationsample2.jpg "population sample")
-![population sample](img/populationsample3.jpg "population sample")
+![population sample](img/population-sample1.jpg "population sample")
+![population sample](img/population-sample2.jpg "population sample")
+![population sample](img/population-sample3.jpg "population sample")
 
 https://annas-archive.org/scidb/10.1038/sdata.2016.34

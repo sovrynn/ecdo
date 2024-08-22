@@ -5,7 +5,7 @@ Look at:
 
 ## Noaic deluge around 5200 BC
 
-![bible](img/5200-bable.jpg "bible")
+![bible](img/5200-bible.jpg "bible")
 
 https://www.123helpme.com/essay/The-Yahwist-And-The-Flood-Of-The-4C0E4F9453D8E980
 
