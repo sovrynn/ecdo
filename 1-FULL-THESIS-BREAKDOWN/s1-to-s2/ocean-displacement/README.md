@@ -6,9 +6,9 @@ This document is for understanding the oceanic displacement during the rotation.
 
 The Khafre Pyramid inundation of 175m for an extended period during S2 is not explained by simple oceanic displacement. The Mediterranean is not a perfect basin; it's connected to the Atlantic by the Strait of Gibraltar. Oceanic displacement alone could only explain a temporary inundation of the Khafre Pyramid. It's unlikely that the entire world experiences a sea-level rise of 175m during S2.
 
-Rather, the Khafre Pyramid inundation is better explained by the fact that the Earth has an equatorial bulge - it takes the shape of an oblate spheroid. The Khafre Pyramid rotates from a latitude of 30 degrees north to 46 degrees north after S1 to S2. This would bring it higher on the spheroid, lowering its elevation as it goes farther away from the equatorial bulge. This would then bring the water level higher at the pyramid.
+Rather, the Khafre Pyramid inundation is better explained by the way Earth's equatorial bulge interacts with the ECDO.
 
-See `1-FULL-THESIS-BREAKDOWN/s1-to-s2/equatorial-bulge` for more analysis.
+See `1-FULL-THESIS-BREAKDOWN/s1-to-s2/equatorial-bulge` for an in-depth analysis.
 
 ## Basic Analogy
 
