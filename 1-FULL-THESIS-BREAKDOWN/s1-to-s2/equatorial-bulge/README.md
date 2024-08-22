@@ -62,14 +62,14 @@ First check out this map of the Earth in S1. Check the equator line, which runs 
 
 Now, take a look at this sequence of screenshots that shows the approximate line of the equator after S1 to S2, starting with the eastern pivot in Indonesia.
 
-![equator](1.png "new equator")
-![equator](2.png "new equator")
-![equator](3.png "new equator")
-![equator](4.png "new equator")
-![equator](5.png "new equator")
-![equator](6.png "new equator")
-![equator](7.png "new equator")
-![equator](8.png "new equator")
+![equator](img/1.png "new equator")
+![equator](img/2.png "new equator")
+![equator](img/3.png "new equator")
+![equator](img/4.png "new equator")
+![equator](img/5.png "new equator")
+![equator](img/6.png "new equator")
+![equator](img/7.png "new equator")
+![equator](img/8.png "new equator")
 
 Note that there are now huge swaths of land on the equator - Eurasia, the Arctic, the full length of South America, Antarctica, and Australia.
 
@@ -103,7 +103,7 @@ Something really interesting is if you look at the Google Earth snippets where I
 
 In fact, although the Southeast Asia and north Australia zones are already close to the equator, I suspect these regions might become elevated as well due to the fact that the movement of the crust will follow the tectonic plates, and often run along their boundaries:
 
-![tectonic](img/tectonic-plates.jpg "tectonic")
+![tectonic](img/tectonic-plates.png "tectonic")
 
 The tectonic plates explain the proposed changes very well:
 
