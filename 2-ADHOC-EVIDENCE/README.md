@@ -6,6 +6,7 @@ This directory contains evidence of the ECDO which is not necessarily scientific
 
 Old evidence:
 - `ancient-myths`: Myths that may reference past ECDO events.
+- `bible`: Investigation of potentially relevant accounts from the Bible.  
 - `physical-evidence`: Physical evidence of past or impending ECDO events, such as flash-frozen animals or big rocks high up in the mountains.
 - `human-built-structures`: Structures built by humans potentially related to ECDO events.
 - `solar-system`: Evidence from the solar system.

@@ -16,7 +16,7 @@ Prerequisite knowledge:
 - `dzhanibekov`: Information on Dzhanibekov effect.
 
 ECDO related:
-- `ecdo-frequencey`: Predicting ECDO frequency.
+- `ecdo-frequencey`: Predicting ECDO frequency using ancient evidence.
 - `s2`: All about S2.
 - `s2-to-s1`: All about S2 to S1.
 

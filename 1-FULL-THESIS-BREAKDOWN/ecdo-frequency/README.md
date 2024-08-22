@@ -2,14 +2,23 @@
 
 Goal: Predict how frequent the ECDO event is.
 
-## Bond event evidence: 3700 years
+## Historical Accounts
+
+`2-ADHOC-EVIDENCE/ancient-myths` is a good place to start looking into regarding accounts of past ECDO events.
+
+### Bond event evidence: 3700 years
 
 Check `2-ADHOC-EVIDENCE/bond-events`.
 
-## Possibilities
+### Historically Notable Date - 3700 years ago
 
-- Once every 6000 years
-- Once every 2160 years
+There are a lot of records in myths and human history indicating there may have been an ECDO event 3700 years ago, somewhere around 1700 BC - 1750 BC.
+
+Try doing a `grep -nr` in this repo on 3700, 1700, and 1750.
+
+### 5200 BC
+
+Check `2-AHDOC-EVIDENCE/bible` for info regarding a biblical flood.
 
 ## Nobulart
 

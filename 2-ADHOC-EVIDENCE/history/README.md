@@ -21,3 +21,13 @@ Dates that come up often when investigating the ECDO. Check `2-ADHOC-EVIDENCE/an
 "If counting from the following Shang dynasty which has been universally recognized by historians, China has only about 3,700 years of recorded history, which is still a big gap from 5,000 years."
 
 https://en.wikipedia.org/wiki/Five_thousand_years_of_Chinese_civilization
+
+## Population Sample Data
+
+Reset @ 3,700 YBP?
+
+![population sample](img/populationsample1.jpg "population sample")
+![population sample](img/populationsample2.jpg "population sample")
+![population sample](img/populationsample3.jpg "population sample")
+
+https://annas-archive.org/scidb/10.1038/sdata.2016.34
