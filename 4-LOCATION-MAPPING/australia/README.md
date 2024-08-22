@@ -17,6 +17,6 @@ Australia's proximity to the Sulawesi pivot means that water velocities are some
 [3] https://x.com/nobulart/status/1812565796972798086
 [4] https://x.com/nobulart/status/1817571533050581496
 
-## Nobulart
+## TODO
 
-Charlottes Pass in the southeast is, in my judgment, the safest place I can find in Oz.
+Charlottes Pass in the southeast.

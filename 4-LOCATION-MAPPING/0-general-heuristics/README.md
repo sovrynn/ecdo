@@ -10,7 +10,7 @@ This folder is dedicated for general heuristics applicable for any location in e
 - `oldest-cities`: Using old cities as indicators for potential safe areas.
 - `ancient-human-traces`: Ancient traces of humans which potentially denote safe locations.
 
-## Additional potential useful heuristics
+## TODO Additional potential useful heuristics
 
 Additional potential heuristics:
 - minimum distance from pivots

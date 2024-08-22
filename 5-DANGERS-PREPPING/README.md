@@ -4,7 +4,7 @@ This directory is for all things prepping (except flood mapping, which belongs i
 
 How does one actually prepare, in meatspace, for an ECDO event? How does one protect themselves from physical dangers other than flooding? What materials, tools, and plans should one prepare to survive during and after an ECDO event? These are the questions this directory aims to answer.
 
-## Dangers to consider
+## TODO Dangers to consider
 
 Natural:
 - From the land below:

@@ -86,6 +86,12 @@ To search for a word or phrase in the repo, use this command in the top-level `e
 
 Replace `WORD` with the phrase you want to search for.
 
+### Adding TODOs
+
+Whenever you add a reference to something you would like to investigate in the future, add a `"TODO"` somewhere (ex: in the section header).
+
+This will allow you to easily search for a list of potential topics to look into using `grep` on "TODO".
+
 ## TODO wishlist, top priorities
 
 - Global maps showing:

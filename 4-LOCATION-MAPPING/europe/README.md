@@ -4,7 +4,7 @@ While there are likely several safe spots, it's not clear that there are many ar
 
 ![eu](img/europe-elevation.png "eu")
 
-## Locations to look into
+## TODO Locations to look into
 
 Slovenia, known for its karst landforms.
 

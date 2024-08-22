@@ -54,6 +54,6 @@ Coupling the above knowledge with tectonic plate data, we can make some interest
 
 The Africa plate has a large chunk that moves 60+ degrees in latitude. The fault lines bordering it could be very violent during/after the ECDO rotation. Same for the Pacific plate.
 
-## Things to look into
+## TODO things to look into
 
 How fast could the equatorial bulge shift to maintain its shape around the rotational axis if Earth were to suddenly rotate?

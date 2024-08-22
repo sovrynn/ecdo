@@ -26,7 +26,7 @@ Here is a [lat/long elevation webapp](latlongdata.com/elevation).
 
 Lat/long follows a Cartesian coordinate system. East is right on the x-axis, North is up on the y-axis.
 
-## Other Tools
+## TODO Other Tools
 
 Ask Nobulart about these:
 - KML: "Those files provide various feature overlays to the map. File menu > Open. ECDO paths can be drawn using the Measure > Circle tool. Draw a circle with the center on the nearest pivot to see the ECDO path. Some examples contained in the attached KML."

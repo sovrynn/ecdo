@@ -2,7 +2,7 @@
 
 This folder is for structures humans have built that are potentially related to ECDO events.
 
-## Potential Leads
+## TODO Potential Leads
 
 - Khafre pyramid (as detailed in Ethical Skeptic's thesis)
 - Derinkuyu underground city: https://en.wikipedia.org/wiki/Derinkuyu_underground_city
