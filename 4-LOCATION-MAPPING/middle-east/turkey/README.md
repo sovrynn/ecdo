@@ -30,6 +30,12 @@ Bedrock morphology shows significant striation congruent with the emptying of th
 
 Look familiar? The upper karst erosion would likely be from extended periods underwater, with steady state levels and wave erosion near the top. The dwellings are typically above the high flow regions (which I suspect were later ECDO events).
 
+## Urgup
+
+![urgup lake](img/urgup-lake.jpg "urgup lake")
+
+Evidence of an inland lake? It would also explain the inundation of the Urgup Cones.
+
 ## Gobekli Tepe Twitter Account
 
 He has some interesting ideas that the reliefs at GT (Gobekli Tepe) are maps.

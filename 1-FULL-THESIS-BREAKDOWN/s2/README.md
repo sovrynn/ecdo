@@ -20,4 +20,6 @@ New south pole:
 
 ## TODO
 
+Investigate potential "nuclear winter" during S2, caused by changes in the core-mantle and dust from volcanoes.
+
 Create a map of the world after S2, showing the new position and orientation of all continents.

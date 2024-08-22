@@ -15,3 +15,9 @@ Could this have been the aftermath of an ECDO event?
 ![1700 BC](img/1700-bc.jpg "1700 BC")
 
 Dates that come up often when investigating the ECDO. Check `2-ADHOC-EVIDENCE/ancient-myths`.
+
+## Gap in Chinese history
+
+"If counting from the following Shang dynasty which has been universally recognized by historians, China has only about 3,700 years of recorded history, which is still a big gap from 5,000 years."
+
+https://en.wikipedia.org/wiki/Five_thousand_years_of_Chinese_civilization

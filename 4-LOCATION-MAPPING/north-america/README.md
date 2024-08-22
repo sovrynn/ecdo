@@ -29,6 +29,7 @@ That said, 3,000ft anywhere east of the Rocky's is going to be overtopped by the
 
 ## Areas to look into
 
+- Colorado
 - Slot canyons
 - Arches National Park
 - Spanish Peaks

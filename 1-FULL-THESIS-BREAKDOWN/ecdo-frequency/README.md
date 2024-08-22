@@ -2,6 +2,10 @@
 
 Goal: Predict how frequent the ECDO event is.
 
+## Bond event evidence: 3700 years
+
+Check `2-ADHOC-EVIDENCE/bond-events`.
+
 ## Possibilities
 
 - Once every 6000 years

@@ -8,7 +8,7 @@ Earth is an oblate spheroid due to its rotation.
 
 ![oblate spheroid shape](img/oblate-spheroid.jpg "oblate spheroid")
 
-Earth also has several internal layers of differing density, some of which may be less dense than others, allowing the Earth to change it's shape.
+Earth also has several internal layers of differing density.
 
 ![earth internals](img/earth-internals.png "earth internals")
 

@@ -10,6 +10,7 @@ Old evidence:
 - `human-built-structures`: Structures built by humans potentially related to ECDO events.
 - `solar-system`: Evidence from the solar system.
 - `history`: Learning from history.
+- `bond-events`: Are ice rafting events related to the ECDO?
 
 Modern, recent evidence:
 - `elite-preparation`: The elites seem to be preparing for... something.

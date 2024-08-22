@@ -79,6 +79,13 @@ There are text editors such as Visual Studio Code that allow you to preview Mark
 For GIFs:
 - `![alt](PATH)`
 
+## Repo text search using grep
+
+To search for a word or phrase in the repo, use this command in the top-level `ecdo` folder:
+- `grep -nr "WORD" --include="*.md" .`
+
+Replace `WORD` with the phrase you want to search for.
+
 ## TODO wishlist, top priorities
 
 - Global maps showing:
