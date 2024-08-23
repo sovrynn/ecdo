@@ -192,6 +192,8 @@ It's not immediately clear how water will interact with the equatorial bulge. Fo
 
 How fast could the equatorial bulge shift to maintain its shape around the rotational axis if Earth were to suddenly rotate? What if its immediate, responding in its softest layers, with perhaps a slight bounce back as the other more solid layers take time to adjust?
 
+These graphics are lacking, get a mapping library up and running.
+
 ## Citations
 
 - Earth layers: https://en.wikipedia.org/wiki/Internal_structure_of_Earth
