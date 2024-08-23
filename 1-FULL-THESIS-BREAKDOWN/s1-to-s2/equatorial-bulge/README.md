@@ -117,15 +117,15 @@ My analysis for the major plates follows:
 
 ![eurasia](img/eurasian-plate.webp "eurasia")
 
-The entire Eurasian plate is essentially contained within a slice that will move closer to the equator. In fact, the equator will run smack dab across the Eurasian plate. Therefore, I predict that the Eurasian plate will rise in elevation.
+The entire Eurasian plate is essentially contained within a slice that will move closer to the equator. In fact, the equator will run smack dab across the Eurasian plate. Therefore, I predict that the Eurasian plate will rise in elevation and experience a recession of its coastlines, particularly in the Arctic region.
 
 ![notam](img/notam-plate.webp "notam")
 
-The North American plate currently does not lie on the equator. After the rotation, the equator will run through the east side of this plate. Therefore I predict the North American Plate, at least the eastern side, will rise in elevation.
+The North American plate currently does not lie on the equator. After the rotation, the equator will run through the east side of this plate. Therefore I predict the North American Plate, at least the eastern side, will rise in elevation and experience a coastline recession.
 
 ![sotam](img/sotam-plate.webp "sotam")
 
-The equator currently runs through the northern part of the South American plate. In S2, the equator will run the full length of the South American plate, on the west side. Therefore I predict that the South American plate will rise.
+The equator currently runs through the northern part of the South American plate. In S2, the equator will run the full length of the South American plate, on the west side. Therefore I predict that the South American plate will rise, elevating the southern tip of South America.
 
 ![indo-aus](img/indo-aus-plate.webp "indo aus")
 
@@ -133,19 +133,15 @@ This is a very interesting region. The equator currently runs through the dotted
 
 ![africa](img/africa-plate.webp "africa plate")
 
-The Africa plate would fall as it is centered in a slice that moves away from the equator.
+The Africa plate would fall as it is centered in a slice that moves away from the equator. As such, it could see its coastlines move inland, potentially quite a bit.
 
-## Shallow oceans that may rise from under the ocean
+## Receding coastline evidence
 
-Something really interesting is that some continents have shallower parts of the ocean surrounding the coast. This is evident in the Google Earth snippets for the S2 equator line above. I predict that many of these shallow coast areas will rise above the water and become part of the continent in S2. A lot of the shallow areas are on areas that move to the equator:
-- East Eurasia: The shallow coast going around the East of China and Russia
-- Arctic region: The shallow coast above Europe, around the Arctic, and at the top of North America
-- East coast of North America.
-- South tip of South America (Drake Passage) which goes straight to the equator.
-- Shallow coast around Antarctica.
-- Shallow coast around Australia.
+What's interesting about the predictions of receding coastlines in the Eurasian continent, east North America and southern tip of South America is that there are large areas of shallow oceans in these areas surrounding the coast. These could be evidence of being coastlines in past ECDO S2 states.
 
-I also think the Sunda Plate has the potential to rise, because it is sandwiched between the Eurasian and Indo-Australian plates which would rise.
+Those areas are not the only areas, just the most evident ones. You also have such areas around Antarctica. But by far the most interesting region is around the eastern pivot - the Indo-Australian Plate and the Sunda Plate (Indonesia). I think it's also possible that these areas will have a coastline recession due to the intricacies of plate dynamics. For example, the Sunda Plate might rise because it is sandwiched between the Eurasian and Indo-Australian plate, which have the potential to rise.
+
+Evidence of prolonged inundation in Africa, as there is in the Arabian plate, would also support this theory.
 
 ## Explaining Khafre Pyramid Inundation
 
