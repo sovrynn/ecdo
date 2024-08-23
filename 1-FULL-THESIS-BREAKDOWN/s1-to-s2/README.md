@@ -71,6 +71,12 @@ Here's the eastern pivot:
 
 ![eastern pivot](img/eastern-pivot.png "eastern pivot")
 
+## S2 Equator Points
+
+The equator in S2 runs through the two pivots. It also runs through the points:
+- (83 N, 31) on 31 meridian
+- (83 S, -149) on 149 meridian west
+
 ## Citations
 
 - https://en.wikipedia.org/wiki/Axial_tilt

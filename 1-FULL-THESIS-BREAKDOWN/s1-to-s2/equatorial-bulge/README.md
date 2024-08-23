@@ -22,7 +22,11 @@ These layers are of differing density:
 
 Total: 11.73k to 12.3k km (actual 12.7k)
 
-These layers react differently when it comes to the equatorial bulge. We could imagine that the softer layers will bulge due to the Earth's rotation, while the solid layers may not bulge as much or will change shape much slower.
+These layers react differently when it comes to the equatorial bulge. We could imagine that the layers will react differently to the bulge during the Earth's rotation:
+- The softer the layer, the more it may bulge, and the faster it may adjust to the new bulge
+- The denser the layer, the less it may bulge, and the slower it may adjust to the new bulge
+
+Additionally, outer layers may bulge more due to being further away from the axis of rotation.
 
 After the S1 -> S2 rotation, Earth may continue to maintain its oblate spheroid shape, along the same axis of rotation, due to its softer layers reacting immediately to the change in rotation.
 
@@ -36,21 +40,9 @@ Estimating actual quantities here is important though, and the solution to this 
 
 Let's assume that the crust, asthenosphere, and outer core react immediately to accomodate the bulge. These layers are softer and make up up to 2910 km of the Earth's layers. Multiplying by 2 since the Earth is a sphere, these layers would make up approximately 5820 km of the Earth's 12.7k km diameter, which is ~46% of the diameter of the Earth.
 
-These three layers have to accomodate the 43 km of equatorial bulge. If we assume that they will share the load proportionate to their thickness, then the crust, which takes up up to 70 km of the 5820 km of soft layers, would take ~1.2% of the equatorial bulge load. This amounts to 0.517 km, 517 m, across 2 crust layers. For one crust layer it would be 259 m.
-
-## Predicting Sea Level Changes
-
-In order to understand how the sea level might change in response to this, we need to consider not only the 259 m potential continental crust shift but one more factor - the equatorial bulge of the oceans.
-
-Calculating the equatorial bulge of the oceans is similar to the calculation for the continental crust - the oceans have a net thickness of 35 km, the same as the edges of the continental crust, because they're both at sea level. However we have to subtract 5 km for the oceanic crust, giving us an oceanic water thickness of up to 30 km.
-
-![crust thickness](img/crust-thickness.jpg "crust")
-
-This water will bulge 6/7 as much as the 35 km thick continental crust, which is 222 m.
-
-Therefore, you can imagine that 222 m could be shaved off the oceans moving from the equator to the poles, which could account for up to 222 m of sea level change during the ECDO.
-
-Of course, it's not the case that all oceans will move from the equator to the poles or vice versa, so the possible sea level change will only be a fraction of 222 m. Realistically, if a significant amount of water moves away/towards the bulge, you could see anywhere from 5% to 50% of the maximum, which would only be 11.1 m to 111 m.
+These three layers have to accomodate the 43 km of equatorial bulge. The key here is figuring out how much of the equatorial bulge the crust accomodates:
+- If we assume that they will share the load proportionate to their thickness, then the crust, which takes up up to 70 km of the 5820 km of soft layers, would take ~1.2% of the equatorial bulge load. This amounts to 0.517 km, 517 m, across 2 crust layers. For one crust layer it would be 259 m.
+- However, if the crust accomodates more of the equatorial bulge than the inner layers due to being less dense and being further away from the axis of rotation, the potential crust displacement could be multiples higher.
 
 ## Comparing Earth's crust in S1 and S2 - Raw data
 
@@ -62,36 +54,88 @@ First check out this map of the Earth in S1. Check the equator line, which runs 
 
 Now, take a look at this sequence of screenshots that shows the approximate line of the equator after S1 to S2, starting with the eastern pivot in Indonesia.
 
-![equator](img/1.png "new equator")
-![equator](img/2.png "new equator")
-![equator](img/3.png "new equator")
-![equator](img/4.png "new equator")
-![equator](img/5.png "new equator")
-![equator](img/6.png "new equator")
-![equator](img/7.png "new equator")
-![equator](img/8.png "new equator")
+![equator](img/equator1.png "new equator")
+![equator](img/equator2.png "new equator")
+![equator](img/equator3.png "new equator")
+![equator](img/equator4.png "new equator")
+![equator](img/equator5.png "new equator")
+![equator](img/equator6.png "new equator")
+![equator](img/equator7.png "new equator")
+![equator](img/equator8.png "new equator")
 
 Note that there are now huge swaths of land on the equator - Eurasia, the Arctic, the full length of South America, Antarctica, Australia, and the shallow area around Indonesia. In fact, the only significant stretches of ocean are a slice of the Atlantic between North and South America and slices of the Pacific around Antarctica.
 
-Currently, the equator only runs through the top of South America, the bottom of South Africa, and Indonesia. In particular, there is a huge body of water running along the equator - the Pacific Ocean:
+## Zones of increasing and decreasing latitude
 
-![pacific](img/pacific.png "pacific")
-![pacific](img/pacific2.png "pacific")
+Taking this analysis further, we can actually draw quadrants of the Earth's surface that will towards or away from the equator, based on lines on the surface which maintain the same distance.
 
-## My conclusions
+These lines extend between the pivots, and are perpendicular to each other. From the eastern pivot, they run at bearings of:
+- 38 degrees
+- 128 degrees
+- 218 degrees
+- 318 degrees
 
-I have two initial conclusions from the above data:
-- We will see elevations of continents rise and fall as they move further from and closer to the equator.
-	- Eurasia, the Arctic, the east coast of North America, the south tip of South America, Antarctica, and Australia will rise as they move to the equator.
-	- Africa, and potentially to a smaller extent the south Middle East, will fall as they move further away from the equator.
-- The ocean will be displaced away from the oceanic bulge in the equator, resulting in "more ocean" and a sea level rise.
+In the following graphics:
+- Green markers are pivots
+- Red markers are points on the S2 equator that remain the same distance from the equator
+- Purple markers are points on the S2 equator that move the most either towards or from the equator
+- Yellow markers simply help visualize the line between the pivots and the red markers
 
-Going back to the equatorial bulge distances I calculated, we can make the following predictions:
-- The continents moving to the equator will rise up to 259 m, depending on how close they move and how far away they were previously.
-- The continents moving away from the equator will fall up to 259 m, with the same stipulations.
-- The ocean will rise slightly, potentially anywhere from 20 m to 80 m, depending on exactly how much ocean is displaced from the equator.
+The lines visualized by the yellow markers that connect the pivots to the red points don't change in latitude before and after the rotation. They can be thought of as boundaries for the Earth which may remain fairly constant in latitude. These lines divide the Earth into 4 "strips", touching both pivots, that alternate between moving closer and further away from the equator.
 
-Combining these factors at relevant locations will resullt in potential coastline changes.
+I've divided up each strip into two halves, resulting in 8 quadrants, which I display below.
+
+Here are the two quadrants connected to the eastern pivot which move closer to the equator:
+
+![quadrants](img/quadrants1.png "quadrants")
+![quadrants](img/quadrants3.png "quadrants")
+
+Here are the two quadrants connected to the eastern pivot which move away:
+
+![quadrants](img/quadrants2.png "quadrants")
+![quadrants](img/quadrants4.png "quadrants")
+
+Here are the two quadrants connected to the western pivot which move closer:
+
+![quadrants](img/quadrants5.png "quadrants")
+![quadrants](img/quadrants7.png "quadrants")
+
+Here are the two quadrants connected to the western pivot which move further:
+
+![quadrants](img/quadrants6.png "quadrants")
+![quadrants](img/quadrants8.png "quadrants")
+
+## My conclusion
+
+As points on the Earth rotate closer or further away from the equator, they will rise or fall.
+
+However, tectonic plates also need to be taken into account. I believe that changes in position on the spheroid will interact together with the tectonic plate structures to produce the final result; each location will need to be analyzed on a case-by-case basis based on the structure of the surrounding tectonic plates.
+
+![tectonic](img/tectonic-plates.png "tectonic")
+
+My analysis for the major plates follows.
+
+![eurasia](img/eurasian-plate.webp "eurasia")
+
+The entire Eurasian plate is essentially contained within a slice that will move closer to the equator. In fact, the equator will run smack dab across the Eurasian plate. Therefore, I predict that the Eurasian plate will rise in elevation.
+
+![notam](img/notam-plate.webp "notam")
+
+The North American plate currently does not lie on the equator. After the rotation, the equator will run through the east side of this plate. Therefore I predict the North American Plate, at least the eastern side, will rise in elevation.
+
+![sotam](img/sotam-plate.webp "sotam")
+
+The equator currently runs through the northern part of the South American plate. In S2, the equator will run the full length of the South American plate, on the west side. Therefore I predict that the South American plate will rise.
+
+![indo-aus](img/indo-aus-plate.webp "indo aus")
+
+This is a very interesting region. The equator currently runs through the dotted red line in the Indo-Australian plate. In S2, the equator will run through Australia in the lower right piece of the Indo-Australian plate. I believe the lower piece of the Indo-Australian plate will rise, perhaps only slightly.
+
+![africa](img/africa-plate.webp "africa plate")
+
+The Africa plate would fall as it is centered in a slice that moves away from the equator.
+
+## Shallow oceans that may rise from under the ocean
 
 Something really interesting is if you look at the Google Earth snippets where I show the equator line, you can see parts of the ocean that are denoted as shallower by a light blue color. I predict that many of these shallow coastlines will rise above the water and become part of the continent. A lot of the shallow areas are on areas that move to the equator:
 - East Eurasia: The shallow coast going around the East of China and Russia
@@ -101,47 +145,43 @@ Something really interesting is if you look at the Google Earth snippets where I
 - Shallow coast around Antarctica.
 - Shallow coast around Australia.
 
-In fact, although the Southeast Asia and north Australia zones are already close to the equator, I suspect these regions might become elevated as well due to the fact that the movement of the crust will follow the tectonic plates, and often run along their boundaries:
+I also think the Sunda Plate has the potential to rise, because it is sandwiched between the Eurasian and Indo-Australian plates which would rise.
 
-![tectonic](img/tectonic-plates.png "tectonic")
+## S1 -> S2 inundation off the table?
 
-The tectonic plates explain the proposed changes very well:
+It's important to note that the temporary inundation from the displacement of the oceans would still occur in the expected quick S1 -> S2 rotation - but then the oceans would recede to (or remain at) the new coastlines.
 
-![eurasia](img/eurasian-plate.webp "eurasia")
+## Boundaries for latitude change direction
 
-The entire Eurasian plate will rise upwards as the equator runs smack dab across it. This explains the shallow coastlines east of China and Russia, north of Russia in the Arctic zone, and north of Europe.
+The following are the boundaries for latitude change on the 31 meridian and 149 meridian west, which are the points of greatest rotation, after the S1 -> S2 rotation:
+- 31 meridian 52 S to 38 N: Greater latitude
+- 31 meridian 38 N to 149 meridian west 52 N: Lower latitude
+- 149 meridian west 52 N to 38 S: Greater latitude
+- 149 meridian west 38 S to 31 meridian 52 S: Lower latitude
 
-![notam](img/notam-plate.webp "notam")
-
-The North American plate, particularly the east side, will rise as the equator will run through the east side of it. This explains the shallow coasts in north Canada, the east coast of the US, and the Carribean.
-
-![sotam](img/sotam-plate.webp "sotam")
-
-The southern part of the South American plate will rise, explaining the large shallow coast around the southern tip of South America.
-
-![antarctica](img/antarctica-plate.webp "antarctica")
-
-The Antarctic plate will rise, explaining its shallow coastline.
-
-![indo-aus](img/indo-aus-plate.webp "indo aus")
-
-The Indo-Australian plate will rise, explaining the shallow coasts surounding Australia and New Zealand.
-
-Southeast Asia, which lies in the Sunda Plate and some surrounding plates, is interesting, as the equator already runs through it. I believe the lifting of the Indo-Australian and Eurasian plates surrounding the Sunda Plate may lift it up higher than it currently is.
-
-Finally it's important to note that the temporary inundation from the displacement of the oceans would still occur in the expected quick S1 -> S2 rotation - but then the oceans would recede to (or remain at) the new coastlines.
+The points of greatest latitude change are halfway between these boundaries:
+- 31 meridian 7 S
+- 31 meridian 83 N
+- 149 meridian 7 N
+- 149 meridian 83 S
 
 ## Explaining Khafre Pyramid Inundation
 
 Earth's equatorial bulge could explain the Khafre pyramid's extended inundation to achieve the erosion on its surface.
 
-The Khafre Pyramid is on the Africa plate, which is predicted to fall as it moves to the north pole. Combined with a sea level rise from the displacement of oceans from the equator, the Khafre Pyramid's inundation level of 175m above current sea level is very reasonable.
+The Khafre Pyramid is on the Africa plate, which is predicted to fall as it moves to the north pole. However, it is on the northern part of the Africa plate which is very close (right under) to the line of no latitude change. The Khafre Pyramid only gains 14 degrees of latitude after the rotation.
+
+So, a minor inundation of 175m above current sea level would be quite reasonable.
 
 ## Violent Tectonic Plates Prediction
 
 Likely, the tectonic plates that move significantly relative to the equatorial bulge will have very violent reactions with surrounding plates during the ECDO rotation.
 
 ## TODO things to look into
+
+This is still an incomplete model. Rather than eyeballing it, you could graph the equatorial bulge as a spectrum for each point and then compare areas before/after the rotation together with plate boundaries. This could give you a much better picture of what might happen.
+
+It's not immediately clear how water will interact with the equatorial bulge. For example do plates that move away from the equator sink to have a deeper sea, taking in water, or do they shave their equatorial ocean bulge off, letting off water?
 
 How fast could the equatorial bulge shift to maintain its shape around the rotational axis if Earth were to suddenly rotate? What if its immediate, responding in its softest layers, with perhaps a slight bounce back as the other more solid layers take time to adjust?
 
@@ -150,4 +190,4 @@ How fast could the equatorial bulge shift to maintain its shape around the rotat
 - Earth layers: https://en.wikipedia.org/wiki/Internal_structure_of_Earth
 - Earth layers: https://www.sciencefacts.net/layers-of-the-earth.html
 - Earth crust thickness: https://www.geolsoc.org.uk/Geoscientist/Archive/August-2018/Roberts-Crust
-- Tectonic plate maps: https://earthhow.com/
+- Tectonic plate maps: https://earthhow.com/category/geology/plate-tectonics/africa

@@ -16,15 +16,17 @@ Here is a decent interactive web [flooding map](https://floodmap.net).
 An alternative to Google Earth is [earth.nullschool.net](https://earth.nullschool.net).
 
 Ocean mapping:
-- [NOAA Ocean Exploration Data Atlas](ncei.noaa.gov/maps/ocean-exploration-data-atlas)
+- [NOAA Ocean Exploration Data Atlas](https://ncei.noaa.gov/maps/ocean-exploration-data-atlas)
 
 ## Lat/long
 
-Here is a [lat/long distance calculator](latlongdata.com/distance-calculator).
+Here is a [lat/long distance calculator](https://latlongdata.com/distance-calculator).
 
-Here is a [lat/long elevation webapp](latlongdata.com/elevation).
+Here is a [lat/long elevation webapp](https://latlongdata.com/elevation).
 
 Lat/long follows a Cartesian coordinate system. East is right on the x-axis, North is up on the y-axis.
+
+In order to find how much a point rotates about a pivot, find the latitude difference, the distance from the pivot, and then rotate the latitude around the pivot's latitude, extending the same distance.
 
 ## TODO Other Tools
 
