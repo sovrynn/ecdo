@@ -22,7 +22,7 @@ These layers are of differing density:
 
 Total: 11.73k to 12.3k km (actual 12.7k)
 
-These layers react differently when it comes to the equatorial bulge. We could imagine that the layers will react differently to the bulge during the Earth's rotation:
+These layers react differently when it comes to the equatorial bulge. It's possible that:
 - The softer the layer, the more it may bulge, and the faster it may adjust to the new bulge
 - The denser the layer, the less it may bulge, and the slower it may adjust to the new bulge
 
@@ -113,7 +113,7 @@ However, tectonic plates also need to be taken into account. I believe that chan
 
 ![tectonic](img/tectonic-plates.png "tectonic")
 
-My analysis for the major plates follows.
+My analysis for the major plates follows:
 
 ![eurasia](img/eurasian-plate.webp "eurasia")
 
@@ -179,7 +179,12 @@ Likely, the tectonic plates that move significantly relative to the equatorial b
 
 ## TODO things to look into
 
-This is still an incomplete model. Rather than eyeballing it, you could graph the equatorial bulge as a spectrum for each point and then compare areas before/after the rotation together with plate boundaries. This could give you a much better picture of what might happen.
+This is still an incomplete and simplistic model. Rather than eyeballing it, you could graph the equatorial bulge as a spectrum for each point and then compare areas before/after the rotation together with plate boundaries. This could give you a much better picture of what might happen.
+
+More precision to test the model:
+- Khafre 175m
+- Kumari Kandam
+- Get more data points.
 
 It's not immediately clear how water will interact with the equatorial bulge. For example do plates that move away from the equator sink to have a deeper sea, taking in water, or do they shave their equatorial ocean bulge off, letting off water?
 
