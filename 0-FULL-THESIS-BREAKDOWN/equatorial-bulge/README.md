@@ -82,17 +82,17 @@ Here are the two quadrants connected to the eastern pivot which move closer to t
 ![quadrants](img/quadrants1.png "quadrants")
 ![quadrants](img/quadrants3.png "quadrants")
 
-Here are the two quadrants connected to the eastern pivot which move away:
+Here are the two quadrants connected to the eastern pivot which move away from the equator:
 
 ![quadrants](img/quadrants2.png "quadrants")
 ![quadrants](img/quadrants4.png "quadrants")
 
-Here are the two quadrants connected to the western pivot which move closer:
+Here are the two quadrants connected to the western pivot which move closer to the equator:
 
 ![quadrants](img/quadrants5.png "quadrants")
 ![quadrants](img/quadrants7.png "quadrants")
 
-Here are the two quadrants connected to the western pivot which move further:
+Here are the two quadrants connected to the western pivot which move away from the equator:
 
 ![quadrants](img/quadrants6.png "quadrants")
 ![quadrants](img/quadrants8.png "quadrants")
@@ -137,7 +137,7 @@ The Africa plate would fall as it is centered in a slice that moves away from th
 
 In particular, the Khafre Pyramid is located on the north tip of the Africa plate, which would explain its inundation of 175m above current sea level. Do note that the north tip of the Africa plate runs close to a boundaring of 0 latitude change, so this 175m might be a minor inundation compared to South Africa, which is closer to the point of greatest movement from the equator.
 
-## Receding coastline evidence
+## Shallow seas - evidence of receding coastlines?
 
 What's interesting about the predictions of receding coastlines in the Eurasian continent, east North America and southern tip of South America is that there are large areas of shallow oceans in these areas surrounding the coast. These could be evidence of being coastlines in past ECDO S2 states.
 

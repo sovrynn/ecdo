@@ -4,11 +4,11 @@ Goal: Predict how frequent the ECDO event is.
 
 ## Historical Accounts
 
-`2-ADHOC-EVIDENCE/ancient-myths` is a good place to start looking into regarding accounts of past ECDO events.
+`ADHOC-EVIDENCE/ancient-myths` is a good place to start looking into regarding accounts of past ECDO events.
 
-### Bond event evidence: 3700 years
+### Gas giant harmonic overlaid with bond events: 3700 years
 
-Check `2-ADHOC-EVIDENCE/bond-events`.
+Check `ADHOC-EVIDENCE/solar-system`.
 
 ### Historically Notable Date - 3700 years ago
 
@@ -18,7 +18,7 @@ Try doing a `grep -nr` in this repo on 3700, 1700, and 1750.
 
 ### 5200 BC
 
-Check `2-AHDOC-EVIDENCE/bible` for info regarding a biblical flood.
+Check `AHDOC-EVIDENCE/bible` for info regarding a biblical flood.
 
 ## Nobulart
 

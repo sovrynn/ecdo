@@ -2,6 +2,20 @@
 
 This folder is for evidence from the surrounding solar system that points to potential ECDO events.
 
+## Contents
+
+`encke-comet` contains info about a comet which may be the trigger for the impending ECDO.
+
+# Analysis
+
+## Nobulart gas giants grand cycle harmonic
+
+![gas giant harmonic](img/gas-giant-harmonic.jpg "gas giant harmonic")
+
+There is a 4627 year gas giant master cycle. If you divide it by 5, and break time down into intervals, every fourth coincides with a potential ECDO event.
+
+It is referenced against historical bond event (ice-rafting) data.
+
 ## Sun-Earth-Man, Theodor Landscheidt
 
 ![landscheidt](img/landscheidt1.jpg "landscheidt")

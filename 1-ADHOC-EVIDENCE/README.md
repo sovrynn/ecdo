@@ -11,15 +11,9 @@ Old evidence:
 - `human-built-structures`: Structures built by humans potentially related to ECDO events.
 - `solar-system`: Evidence from the solar system.
 - `history`: Learning from history.
-- `bond-events`: Are ice rafting events related to the ECDO?
+- `biodiversity-hotspots`: What biodiversity hotspots can tell us about the ECDO.
 
 Modern, recent evidence:
 - `elite-preparation`: The elites seem to be preparing for... something.
 - `government-intervention`: Investigating potential government intervention related to the ECDO, such as attempting to stop/delay the ECDO or censoring information about it.
 - `research`: Research related to the ECDO.
-
-## Information that belongs in another folder
-
-Scientific models belong not here but in `1-FULL-THESIS-BREAKDOWN`.
-
-Evidence or information primarily relevant to the impending rotation belong in `3-MONITORING-PRESENT-ROTATION`.

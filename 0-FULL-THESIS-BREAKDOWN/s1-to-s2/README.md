@@ -4,10 +4,9 @@ This folder is for analyzing all aspects of the transition from S1 to S2.
 
 ## Contents
 
-- `equatorial-bulge`: Analysis pertaining to the equatorial bulge's interplay with the ECDO.
 - `rotation-amount`: Information pertaining to why the rotation is 104 degrees with the South Africa LLVP going to the geographic north pole.
-- `ocean-displacement`: Understanding the displacement of oceans and bodies of water.
 - `rotation-vector-field`: How to calculate the direction and speed of rotation at any point on Earth.
+- `ocean-displacement`: Understanding the displacement of oceans and bodies of water.
 - `duration`: Information relating to the duration of the S1 to S2 rotation.
 
 # Basic Description of Rotation

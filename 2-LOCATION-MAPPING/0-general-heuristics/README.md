@@ -4,15 +4,15 @@ This folder is dedicated for general heuristics applicable for any location in e
 
 ## Contents
 
-- `biodiversity-hotspots`: Using biodiversity hotspots as indicators for potential safe areas.
 - `land-elevation`: Land elevation.
 - `flood-height`: Predicting how high the ocean displacement will flood.
-- `oldest-cities`: Using old cities as indicators for potential safe areas.
 - `ancient-human-traces`: Ancient traces of humans which potentially denote safe locations.
 
 ## TODO Additional potential useful heuristics
 
 Additional potential heuristics:
+- biodiversity hotspots
+- oldest cities
 - minimum distance from pivots
 - protection from wind
 - temperature

@@ -1,6 +1,6 @@
 # Prepping for an ECDO event
 
-This directory is for all things prepping (except flood mapping, which belongs in `4-LOCATION-MAPPING`).
+This directory is for all things prepping (except location mapping, which belongs in `LOCATION-MAPPING`).
 
 How does one actually prepare, in meatspace, for an ECDO event? How does one protect themselves from physical dangers other than flooding? What materials, tools, and plans should one prepare to survive during and after an ECDO event? These are the questions this directory aims to answer.
 

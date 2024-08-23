@@ -33,6 +33,8 @@ Steps:
 - Plot the lat/long coordinate on a map
 - Connect the starting location and final location with an arc of a circle rotating from the pivot, on a spherical map, to get the rotational path
 
+See `FULL-THESIS-BREAKDOWN/s1-to-s2/rotation-vector-field` for more.
+
 ## Inundation Markers from previous ECDO events
 
 - Khafre pyramid

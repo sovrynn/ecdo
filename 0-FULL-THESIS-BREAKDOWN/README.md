@@ -4,12 +4,11 @@ This folder is intended to be an in-depth breakdown and SCIENTIFIC analysis of E
 
 A reader should be able to come away from this folder with an understanding of precisely why and how the ECDO happens and various first/second/third order effects.
 
-There is a lot to be done here, this folder needs to be filled to the brim.
-
 ## Contents
 
 Notable ECDO content:
 - `s1-to-s2`: All matters concerning the transition from S1 to S2, and an ECDO rotation in general.
+- `equatorial-bulge`: Investigating how the equatorial bulge will interact with the ECDO.
 
 Prerequisite knowledge:
 - `core-mantle`: Information on core-mantle coupling.
@@ -22,9 +21,9 @@ ECDO related:
 
 ## Information that doesn't belong here
 
-While there is bound to be overlap, adhoc evidence such as myths or frozen animals belong NOT HERE, but in the folder `2-ADHOC-EVIDENCE`.
+Do NOT put historical or physical evidence of the ECDO in here. You can still reference it in your analysis; just put it in `ADHOC-EVIDENCE` and add a link to it.
 
-Additionally, anecdotal evidence about the impending rotation, and predictions about it, belong NOT HERE, but in `3-MONITORING-PRESENT-ROTATION`.
+Anecdotal evidence about the impending rotation, and predictions about it, belong not here, but in `MONITORING-PRESENT-ROTATION`. Backlink it if you wish to refer to it in `ecdo-frequency` analysis.
 
 ## TODO
 
