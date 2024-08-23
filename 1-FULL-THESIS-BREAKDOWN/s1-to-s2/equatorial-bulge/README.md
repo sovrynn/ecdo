@@ -67,21 +67,13 @@ Note that there are now huge swaths of land on the equator - Eurasia, the Arctic
 
 ## Zones of increasing and decreasing latitude
 
-Taking this analysis further, we can actually draw quadrants of the Earth's surface that will towards or away from the equator, based on lines on the surface which maintain the same distance.
+Taking this analysis further, we can actually draw quadrants of the Earth's surface that will move towards or away from the equator, based on boundary lines on the surface which maintain the same distance from the equator during the rotation.
 
-These lines extend between the pivots, and are perpendicular to each other. From the eastern pivot, they run at bearings of:
+These boundary lines extend between the pivots, and run perpendicular to each other at the pivots. From the eastern pivot, they run at bearings of:
 - 38 degrees
 - 128 degrees
 - 218 degrees
 - 318 degrees
-
-In the following graphics:
-- Green markers are pivots
-- Red markers are points on the S2 equator that remain the same distance from the equator
-- Purple markers are points on the S2 equator that move the most either towards or from the equator
-- Yellow markers simply help visualize the line between the pivots and the red markers
-
-The lines visualized by the yellow markers that connect the pivots to the red points don't change in latitude before and after the rotation. They can be thought of as boundaries for the Earth which may remain fairly constant in latitude. These lines divide the Earth into 4 "strips", touching both pivots, that alternate between moving closer and further away from the equator.
 
 I've divided up each strip into two halves, resulting in 8 quadrants, which I display below.
 
@@ -105,13 +97,21 @@ Here are the two quadrants connected to the western pivot which move further:
 ![quadrants](img/quadrants6.png "quadrants")
 ![quadrants](img/quadrants8.png "quadrants")
 
+The markers have different colors:
+- Green markers are pivots
+- Red markers are points on the S2 equator that remain the same distance from the equator
+- Purple markers are points on the S2 equator that move the most either towards or from the equator
+- Yellow markers simply help visualize the line between the pivots and the red markers
+
+The lines visualized by the yellow markers that connect the pivots to the red points don't change in latitude before and after the rotation. They can be thought of as boundaries for the Earth which may remain fairly constant in latitude. These lines divide the Earth into 4 "strips", touching both pivots, that alternate between moving closer and further away from the equator.
+
 ## My conclusion
 
-As points on the Earth rotate closer or further away from the equator, they will rise or fall.
-
-However, tectonic plates also need to be taken into account. I believe that changes in position on the spheroid will interact together with the tectonic plate structures to produce the final result; each location will need to be analyzed on a case-by-case basis based on the structure of the surrounding tectonic plates.
+As points on the Earth rotate closer or further away from the equator, they will rise or fall. However, tectonic plates also need to be taken into account.
 
 ![tectonic](img/tectonic-plates.png "tectonic")
+
+I believe that changes in position on the spheroid will interact together with the tectonic plate structures to produce the final result; each location will need to be analyzed on a case-by-case basis based on the structure of the surrounding tectonic plates.
 
 My analysis for the major plates follows:
 
@@ -137,7 +137,7 @@ The Africa plate would fall as it is centered in a slice that moves away from th
 
 ## Shallow oceans that may rise from under the ocean
 
-Something really interesting is if you look at the Google Earth snippets where I show the equator line, you can see parts of the ocean that are denoted as shallower by a light blue color. I predict that many of these shallow coastlines will rise above the water and become part of the continent. A lot of the shallow areas are on areas that move to the equator:
+Something really interesting is that some continents have shallower parts of the ocean surrounding the coast. This is evident in the Google Earth snippets for the S2 equator line above. I predict that many of these shallow coast areas will rise above the water and become part of the continent in S2. A lot of the shallow areas are on areas that move to the equator:
 - East Eurasia: The shallow coast going around the East of China and Russia
 - Arctic region: The shallow coast above Europe, around the Arctic, and at the top of North America
 - East coast of North America.
@@ -147,11 +147,17 @@ Something really interesting is if you look at the Google Earth snippets where I
 
 I also think the Sunda Plate has the potential to rise, because it is sandwiched between the Eurasian and Indo-Australian plates which would rise.
 
-## S1 -> S2 inundation off the table?
+## Explaining Khafre Pyramid Inundation
 
-It's important to note that the temporary inundation from the displacement of the oceans would still occur in the expected quick S1 -> S2 rotation - but then the oceans would recede to (or remain at) the new coastlines.
+Earth's equatorial bulge could explain the Khafre pyramid's extended inundation to achieve the erosion on its surface.
 
-## Boundaries for latitude change direction
+The Khafre Pyramid is on the Africa plate, which is predicted to fall as it moves to the north pole. However, it is on the northern part of the Africa plate which is very close (right under) to the line of no latitude change. The Khafre Pyramid only gains 14 degrees of latitude after the rotation.
+
+So, a minor inundation of 175m above current sea level would be quite reasonable.
+
+## Minor analysis sections
+
+### Boundaries for latitude change direction
 
 The following are the boundaries for latitude change on the 31 meridian and 149 meridian west, which are the points of greatest rotation, after the S1 -> S2 rotation:
 - 31 meridian 52 S to 38 N: Greater latitude
@@ -165,13 +171,9 @@ The points of greatest latitude change are halfway between these boundaries:
 - 149 meridian 7 N
 - 149 meridian 83 S
 
-## Explaining Khafre Pyramid Inundation
+### S1 -> S2 inundation off the table?
 
-Earth's equatorial bulge could explain the Khafre pyramid's extended inundation to achieve the erosion on its surface.
-
-The Khafre Pyramid is on the Africa plate, which is predicted to fall as it moves to the north pole. However, it is on the northern part of the Africa plate which is very close (right under) to the line of no latitude change. The Khafre Pyramid only gains 14 degrees of latitude after the rotation.
-
-So, a minor inundation of 175m above current sea level would be quite reasonable.
+It's important to note that the temporary inundation from the displacement of the oceans would still occur in the expected quick S1 -> S2 rotation - but then the oceans would recede to (or remain at) the new coastlines.
 
 ## Violent Tectonic Plates Prediction
 
