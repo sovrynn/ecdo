@@ -14,11 +14,11 @@ Speculative contents:
 
 ## Information that belongs elsewhere
 
-Speculation on how long S1 -> S2 will take belongs [here](https://github.com/sovrynn/ecdo/tree/master/1-FULL-THESIS-BREAKDOWN/s1-to-s2) in `1-FULL-THESIS-BREAKDOWN/s1-to-s2/`.
+Speculation on how long S1 -> S2 will take belongs in `FULL-THESIS-BREAKDOWN/s1-to-s2/duration`.
 
-Speculation on how frequent the ECDO is also belongs in `1-FULL-THESIS-BREAKDOWN/`.
+Speculation on how frequent the ECDO is belongs in `FULL-THESIS-BREAKDOWN/ecdo-frequency`.
 
-Evidence on past ECDO events belongs not here, but in `2-ADHOC-EVIDENCE`.
+Evidence on past ECDO events belongs in `ADHOC-EVIDENCE`.
 
 ## TODO
 

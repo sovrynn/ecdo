@@ -16,6 +16,10 @@ Nobulart prediction: Worst case S1 -> S2 as early as mid-2030, with S2 -> S1 in 
 - periodic comet
 - Earth simply letting go
 
+## Ben Davidson
+
+Seems to have done some work useful for predicting the ECDO timeframe. See `LITERATURE/ben-davidson`.
+
 ## Nobulart
 
 ![trigger](img/triggers1.jpg "trigger")

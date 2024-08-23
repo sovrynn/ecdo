@@ -51,7 +51,7 @@ Put all literature (ex: books, research papers) related to ECDO in `6-LITERATURE
 - Name folders and files properly. Use lowercase dash-separated names instead of camel case.
 - Follow the conventions you see. Use `README.md` files for text and `img` folders for graphics.
 - When possible, add links and references.
-- Do not clutter up `README.md` files. These should be only about ONE topic. If a `README.md` file is getting cluttered and bloated, that's a sign it should be broken up into pieces.
+- Do not clutter up `README.md` files. These should be only about ONE topic. If a `README.md` file is getting cluttered and bloated, that's a sign it should be broken down into multiple parts.
 - Do not dump images into the repo without embedding them in some kind of analysis.
 
 ## Using git
