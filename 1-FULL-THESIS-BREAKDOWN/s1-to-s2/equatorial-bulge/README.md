@@ -42,7 +42,7 @@ These three layers have to accomodate the 43 km of equatorial bulge. If we assum
 
 In order to understand how the sea level might change in response to this, we need to consider not only the 259 m potential continental crust shift but one more factor - the equatorial bulge of the oceans.
 
-Calculating the equatorial bulge of the oceans is similar to the calculation for the continental crust - the oceans have a net thickness of 35 km, the same as the edges of the continental crust, because they're both at sea level. However we have to subtract 5 km for the oceanic crust, giving us a oceanic water thickness of up to 30 km.
+Calculating the equatorial bulge of the oceans is similar to the calculation for the continental crust - the oceans have a net thickness of 35 km, the same as the edges of the continental crust, because they're both at sea level. However we have to subtract 5 km for the oceanic crust, giving us an oceanic water thickness of up to 30 km.
 
 ![crust thickness](img/crust-thickness.jpg "crust")
 
@@ -71,7 +71,7 @@ Now, take a look at this sequence of screenshots that shows the approximate line
 ![equator](img/7.png "new equator")
 ![equator](img/8.png "new equator")
 
-Note that there are now huge swaths of land on the equator - Eurasia, the Arctic, the full length of South America, Antarctica, and Australia.
+Note that there are now huge swaths of land on the equator - Eurasia, the Arctic, the full length of South America, Antarctica, Australia, and the shallow area around Indonesia. In fact, the only significant stretches of ocean are a slice of the Atlantic between North and South America and slices of the Pacific around Antarctica.
 
 Currently, the equator only runs through the top of South America, the bottom of South Africa, and Indonesia. In particular, there is a huge body of water running along the equator - the Pacific Ocean:
 
@@ -95,7 +95,7 @@ Combining these factors at relevant locations will resullt in potential coastlin
 
 Something really interesting is if you look at the Google Earth snippets where I show the equator line, you can see parts of the ocean that are denoted as shallower by a light blue color. I predict that many of these shallow coastlines will rise above the water and become part of the continent. A lot of the shallow areas are on areas that move to the equator:
 - East Eurasia: The shallow coast going around the East of China and Russia
-- Arctic region: The shallow coast above Europe, aroudn the Arctic, and at the top of North America
+- Arctic region: The shallow coast above Europe, around the Arctic, and at the top of North America
 - East coast of North America.
 - South tip of South America (Drake Passage) which goes straight to the equator.
 - Shallow coast around Antarctica.
@@ -129,11 +129,13 @@ The Indo-Australian plate will rise, explaining the shallow coasts surounding Au
 
 Southeast Asia, which lies in the Sunda Plate and some surrounding plates, is interesting, as the equator already runs through it. I believe the lifting of the Indo-Australian and Eurasian plates surrounding the Sunda Plate may lift it up higher than it currently is.
 
+Finally it's important to note that the temporary inundation from the displacement of the oceans would still occur in the expected quick S1 -> S2 rotation - but then the oceans would recede to (or remain at) the new coastlines.
+
 ## Explaining Khafre Pyramid Inundation
 
 Earth's equatorial bulge could explain the Khafre pyramid's extended inundation to achieve the erosion on its surface.
 
-The Khafre Pyramid is on the Africa plate, which is predicted to fall as it moves to the north pole. Combined with a sea level rise from the displacement of oceans from the equator, along with possible ice melting, the Khafre Pyramid's inundation level of 175m above current sea level is very reasonable.
+The Khafre Pyramid is on the Africa plate, which is predicted to fall as it moves to the north pole. Combined with a sea level rise from the displacement of oceans from the equator, the Khafre Pyramid's inundation level of 175m above current sea level is very reasonable.
 
 ## Violent Tectonic Plates Prediction
 

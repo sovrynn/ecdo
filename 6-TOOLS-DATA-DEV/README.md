@@ -11,7 +11,7 @@ Google Maps and Google Earth are excellent:
 - Google Maps: https://www.google.com/maps/d/
 - Google Earth Scripting (need Google account): https://code.earthengine.google.com
 
-Here is a decent interactive web [flooding map](floodmap.net).
+Here is a decent interactive web [flooding map](https://floodmap.net).
 
 An alternative to Google Earth is [earth.nullschool.net](https://earth.nullschool.net).
 
@@ -27,6 +27,10 @@ Here is a [lat/long elevation webapp](latlongdata.com/elevation).
 Lat/long follows a Cartesian coordinate system. East is right on the x-axis, North is up on the y-axis.
 
 ## TODO Other Tools
+
+Globe mapping librariers:
+- https://githxub.com/openglobus/openglobus
+- https://cesium.com/platform/cesiumjs
 
 Ask Nobulart about these:
 - KML: "Those files provide various feature overlays to the map. File menu > Open. ECDO paths can be drawn using the Measure > Circle tool. Draw a circle with the center on the nearest pivot to see the ECDO path. Some examples contained in the attached KML."
