@@ -111,7 +111,7 @@ As points on the Earth rotate closer or further away from the equator, they will
 
 ![tectonic](img/tectonic-plates.png "tectonic")
 
-I believe that changes in position on the spheroid will interact together with the tectonic plate structures to produce the final result; each location will need to be analyzed on a case-by-case basis based on the structure of the surrounding tectonic plates.
+I believe that changes in position on the spheroid will interact together with the tectonic plate structures to produce the final result; each location will need to be analyzed on a case-by-case basis based on the structure of the surrounding tectonic plates. Interestingly, the areas of greatest tectonic plate fracture are both located near the pivots.
 
 My analysis for the major plates follows:
 
@@ -121,7 +121,7 @@ The entire Eurasian plate is essentially contained within a slice that will move
 
 ![notam](img/notam-plate.webp "notam")
 
-The North American plate currently does not lie on the equator. After the rotation, the equator will run through the east side of this plate. Therefore I predict the North American Plate, at least the eastern side, will rise in elevation and experience a coastline recession.
+The North American plate currently does not lie on the equator. After the rotation, the equator will run through the east side of this plate, crossing through the north. Therefore I predict the North American Plate, at least the northern and eastern parts, will rise in elevation and experience a coastline recession.
 
 ![sotam](img/sotam-plate.webp "sotam")
 
@@ -135,27 +135,21 @@ This is a very interesting region. The equator currently runs through the dotted
 
 The Africa plate would fall as it is centered in a slice that moves away from the equator. As such, it could see its coastlines move inland, potentially quite a bit.
 
+In particular, the Khafre Pyramid is located on the north tip of the Africa plate, which would explain its inundation of 175m above current sea level. Do note that the north tip of the Africa plate runs close to a boundaring of 0 latitude change, so this 175m might be a minor inundation compared to South Africa, which is closer to the point of greatest movement from the equator.
+
 ## Receding coastline evidence
 
 What's interesting about the predictions of receding coastlines in the Eurasian continent, east North America and southern tip of South America is that there are large areas of shallow oceans in these areas surrounding the coast. These could be evidence of being coastlines in past ECDO S2 states.
 
-Those areas are not the only areas, just the most evident ones. You also have such areas around Antarctica. But by far the most interesting region is around the eastern pivot - the Indo-Australian Plate and the Sunda Plate (Indonesia). I think it's also possible that these areas will have a coastline recession due to the intricacies of plate dynamics. For example, the Sunda Plate might rise because it is sandwiched between the Eurasian and Indo-Australian plate, which have the potential to rise.
+Those areas are not the only areas, just the most evident ones. You also have such areas around Antarctica. But by far the most interesting region is around the eastern pivot - the Indo-Australian Plate and the Sunda Plate (Indonesia). I think it's also possible that these areas will have a coastline recession due to the intricacies of plate dynamics. For example, the Sunda Plate might rise because it is sandwiched between the Eurasian and lower piece of the Indo-Australian plate, which have the potential to rise.
 
 Evidence of prolonged inundation in Africa, as there is in the Arabian plate, would also support this theory.
-
-## Explaining Khafre Pyramid Inundation
-
-Earth's equatorial bulge could explain the Khafre pyramid's extended inundation to achieve the erosion on its surface.
-
-The Khafre Pyramid is on the Africa plate, which is predicted to fall as it moves to the north pole. However, it is on the northern part of the Africa plate which is very close (right under) to the line of no latitude change. The Khafre Pyramid only gains 14 degrees of latitude after the rotation.
-
-So, a minor inundation of 175m above current sea level would be quite reasonable.
 
 ## Minor analysis sections
 
 ### Boundaries for latitude change direction
 
-The following are the boundaries for latitude change on the 31 meridian and 149 meridian west, which are the points of greatest rotation, after the S1 -> S2 rotation:
+The following are the boundaries for latitude change on the 31 meridian and 149 meridian west, which are the longitude lines of greatest rotation, after the S1 -> S2 rotation:
 - 31 meridian 52 S to 38 N: Greater latitude
 - 31 meridian 38 N to 149 meridian west 52 N: Lower latitude
 - 149 meridian west 52 N to 38 S: Greater latitude
@@ -189,6 +183,8 @@ It's not immediately clear how water will interact with the equatorial bulge. Fo
 How fast could the equatorial bulge shift to maintain its shape around the rotational axis if Earth were to suddenly rotate? What if its immediate, responding in its softest layers, with perhaps a slight bounce back as the other more solid layers take time to adjust?
 
 These graphics are lacking, get a mapping library up and running.
+
+You could potentially incorporate data about plates moving in certain directions, and how they meet at their boundaries (divergent/convergent), to get better predictions here.
 
 ## Citations
 
