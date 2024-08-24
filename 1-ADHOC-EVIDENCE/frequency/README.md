@@ -11,6 +11,7 @@ First of all, 1700 BC (~3700 years ago) appears to be a very historically signif
 - Records of immigration in the Mediterranean area coinciding with the Greek Dark Ages (`human-history-remains`)
 - Mammoths mutating 3700 years ago (`animal-plant-evidence/animal-remains`)
 - Canaanite palace swallowed by a fissure 3700 years ago (`human-history-remains`)
+- Tall el-Hammam city melted by extreme temperature ~3700 years ago (`human-history-remains/human-built-structures`)
 
 If we go back 3700 more years to 5400 BC, there is evidence as well:
 - Noahic deluge in 5200 BC (`bible`)

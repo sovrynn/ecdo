@@ -62,9 +62,9 @@ Confirming TES' speculated built date in the period after the YDB. I'm thinking 
 
 My thinking is that it was built to watch for whatever we encountered around 12,800 BC that upset the apple cart. It's possible that the focus on interpreting GT should be expanded to include consideration of the stars at that earlier time. It would have possibly been more likely to have been built during the warmer insterstadia than the cooler YD.
 
-## Cosmic impact
+## Tall el-Hammam city melted ~3700 years ago
 
-Evidence that a cosmic impact destroyed ancient city in the Jordan Valley:
+Evidence that a "cosmic impact" destroyed ancient city in the Jordan Valley:
 
 But there is a 1.5-meter interval in the Middle Bronze Age II stratum that caught the interest of some researchers for its "highly unusual" materials. In addition to the debris one would expect from destruction via warfare and earthquakes, they found pottery shards with outer surfaces melted into glass, "bubbled" mudbrick and partially melted building material, all indications of an anomalously high-temperature event, much hotter than anything the technology of the time could produce.
 
