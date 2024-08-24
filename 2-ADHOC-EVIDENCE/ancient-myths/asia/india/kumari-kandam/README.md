@@ -2,13 +2,14 @@
 
 ![kk](img/kumari-kandam.jpg "kk")
 
-Such might be the map of Kumari Kandam before sinking.
-Those islands on the leftern part probably were the older peaks formed due to previous deluges when kumari kandam did exist.
+Such might be the map of Kumari Kandam before sinking (mapped with violet boundary).
+Those islands on the western part of sunken land suggests those were the older peaks (those islands can be older western ghats).
+Red curve line is the ECDO flood path.
 
-
-![kk1](img/KKandamAtLGM_19500.png "kk1")
+![kk1](img/KKandamAtLGM_195002.png "kk1")
 
 [Analysis by AncientVoice](http://ancientvoice.wikidot.com/article:kumari-kandam)
+
 Kumari Kandam as revealed through Bathymetric studies. 
 Sea Level at 130 meters lesser than current levels (-130 m) around 19500 BCE at LGM. Besides the sea level changes, the ocean surface elevation changes due to local tectonic activities to the south of Kanyakumari too is considered. 
 The names of rivers and places mentioned in Tamil literature like Tenmaturai, Kapatapuram and the future city Maturai are indicated. 
