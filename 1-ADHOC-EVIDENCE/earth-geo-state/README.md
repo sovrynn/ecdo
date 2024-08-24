@@ -71,12 +71,3 @@ Links:
 ![18k viz](img/18k-secondpaper.jpg "18k viz")
 
 https://oceanrep.geomar.de/id/eprint/31064/1/Fl%C3%B6gel_Diss.pdf
-
-## Maya Lake
-
-![maya](img/maya-climate.jpg "maya")
-
-"Climate and the Classic Maya Civilization. Data from the Lake Chichancanab core supports the following interpretation that begins at the base of the core. From 9200 to 7800 years BP, there was no lake at the coring site as indicated by the absence of aquatic microfossils and the presence of land snails. Beginning at about 7800 years BP, the lake began to fill but the salinity was much higher than today. The lake basin was filled by 7000 years BP, and relatively wet conditions prevailed from 7000 to 3000 years BP." - Noahic Deluge was ±7400BP. I think we can put this ne in the "hit" box.
-[1] https://www1.ncdc.noaa.gov/pub/data/paleo/slidesets/maya/
-
-See `LOCATION-MAPPING/north-america/mexico` for location analysis.

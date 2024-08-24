@@ -20,7 +20,7 @@ Dig at the remains of a sunken prehistoric tropical lake community between Nome 
 
 ![book](img/biofloodmass.jpg "book")
 
-However I don't think the boulder clay was deposited by melting glaciers though and think a deluge buried the old coastline. I'll send some pictures from a book a local Geography teacher wrote which you might find interesting
+Potential for the boulder clay to be deposited not by melting glaciers, but a deluge that buried the old coastline. This is a picture from a book a local geography teacher.
 
 Note on this one that at the base of the buried cliff are bones of hippopotamus, rhinoceros and hyena. These were either deposited by ice sheets our buried there after a production of the lion king. Or smashed by a deluge in the not too distant past.
 
@@ -79,3 +79,14 @@ https://www.science.org/content/article/last-lonely-woolly-mammoths-faced-genomi
 ![luotuodun](img/luotuodun-map.jpg "luotuodun")
 
 https://www.researchgate.net/publication/225517767_Evidence_for_marine_transgression_between_7500-5400BC_at_the_Luotuodun_Site_in_Yixing_Jiangsu_Province
+
+## Maya Lake
+
+![maya](img/maya-climate.jpg "maya")
+![chichancanab](img/chichancanab1.jpg "chichancanab")
+
+"Classic Maya Civilization. Data from the Lake Chichancanab core supports the following interpretation: From 9200 to 7800 years BP, there was no lake at the coring site as indicated by the absence of aquatic microfossils and the presence of land snails. Beginning at about 7800 years BP, the lake began to fill but the salinity was much higher than today. The lake basin was filled by 7000 years BP" - Department of Geology, University of Florida [1][2]
+ 
+The Noahic Deluge was ±7400BP, two 3,700 year cycles before present. This lake filled with saltwater around that time. See `LOCATION-MAPPING/north-america/mexico` and `LOCATION-MAPPING/carribean` for more analysis.
+[1] https://www1.ncdc.noaa.gov/pub/data/paleo/slidesets/maya/
+[2] https://en.wikipedia.org/wiki/Lake_Chichancanab

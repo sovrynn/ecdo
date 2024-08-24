@@ -1,6 +1,6 @@
-# History
+# Human History and Remains
 
-What can history tell us about potential past ECDO events?
+What can humanity's history and remains tell us about potential past ECDO events?
 
 ## Contents
 

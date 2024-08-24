@@ -2,34 +2,32 @@
 
 Goal: Predict how frequent the ECDO event is.
 
-## Historical Accounts
+## Current Hypothesis - 3700 years
 
-`ADHOC-EVIDENCE/ancient-myths` is a good place to start looking into regarding accounts of past ECDO events.
+The current hypothesis is that the ECDO may occur approximately every 3700 years.
 
-### Gas giant harmonic overlaid with bond events: 3700 years
+First of all, 1700 BC (~3700 years ago) appears to be a very historically significant time:
+- Many records of a "natural disaster" event - from Crete, Turkey, Pakistan (Mohenjo-Daro), Tiahuanaco, Easter Island (`ancient-myths`)
+- Records of immigration in the Mediterranean area coinciding with the Greek Dark Ages (`human-history-remains`)
+- Mammoths mutating 3700 years ago (`animal-plant-evidence/animal-remains`)
+- Canaanite palace swallowed by a fissure 3700 years ago (`human-history-remains`)
 
-Check `ADHOC-EVIDENCE/solar-system`.
+If we go back 3700 more years to 5400 BC, there is evidence as well:
+- Noahic deluge in 5200 BC (`bible`)
+- Chichancanab lake filled with saltwater about 7800 years ago (`animal-plant-evidence/animal-remains`)
 
-### Historically Notable Date - 3700 years ago
+Going back another 3700 years to 9100 BC:
+- Plato's account of a story about Atlantis sinking in approximately 9600 BC (`ancient-myths`)
+- End of the Younger Dryas
 
-There are a lot of records in myths and human history indicating there may have been an ECDO event 3700 years ago, somewhere around 1700 BC - 1750 BC.
+Finally you also have a harmonic of the gas giant grand cycle which aligns with these dates (`solar-system`).
 
-Try doing a `grep -nr` in this repo on 3700, 1700, and 1750.
+## Grep searching notable dates
 
-### 5200 BC
-
-Check `ADHOC-EVIDENCE/bible` for info regarding a biblical flood.
-
-## 3700 increments? Noah's flood and Younger Dryas
-
-That's 3700 years ago (1700BC). Take off another 3700 and we're at 5400BC (noah's flood). Take another 3700 off and we're at 9100BC. End of the Younger Dryas.
-
-## Nobulart
-
-Still trying to get my head around how 1700BC fits into this cycle. Crete, Turkey, China, Pakistan (Mohenjo-Daro) all have a record of an event or events at this time. The other niggle is the bond cycle, which indicates massive ice-melt events every 1000-1500 years, many of them coincident with known megaflood accounts.
-
-I think its happened several times since then. At the very least another one around 1750BC, but this may be the fourth or fifth. I think the motion will likely be the same as it has been during this 12ky period.
+To see what info is in the repo on notable dates, run a grep search: `grep -nr 3700 --include="*.md" .`
 
 ## TODO
 
 There's some data from Earth core/soil data showing evidence of past geomagnetic excursions. That would be good to investigate and put in here.
+
+Bond cycle, which indicates massive ice-melt events every 1000-1500 years, many of them coincident with known megaflood accounts.

@@ -9,4 +9,4 @@ This folder is for evidence of ECDO events related to living things, except huma
 - (Speculative) `penguins`: How did penguins survive ECDO events?
 - (Speculative) `sunflowers`: Are sunflowers affected by ECDO events?
 
-Don't put human evidence in here, put that in `human-history`.
+Don't put human evidence in here, put that in `human-history-remains`.

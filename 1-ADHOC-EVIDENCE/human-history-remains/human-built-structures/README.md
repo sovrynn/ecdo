@@ -61,3 +61,13 @@ https://www.haaretz.com/archaeology/2020-09-13/ty-article/.premium/canaanite-pal
 Confirming TES' speculated built date in the period after the YDB. I'm thinking Gobleke Tepe was built during the previous stable period. So there was an event that triggered the constuction of GT as an observatory, which is starting to make it look as though the 'YDB Event' might more properly be called the BAI Event.
 
 My thinking is that it was built to watch for whatever we encountered around 12,800 BC that upset the apple cart. It's possible that the focus on interpreting GT should be expanded to include consideration of the stars at that earlier time. It would have possibly been more likely to have been built during the warmer insterstadia than the cooler YD.
+
+## Cosmic impact
+
+Evidence that a cosmic impact destroyed ancient city in the Jordan Valley:
+
+But there is a 1.5-meter interval in the Middle Bronze Age II stratum that caught the interest of some researchers for its "highly unusual" materials. In addition to the debris one would expect from destruction via warfare and earthquakes, they found pottery shards with outer surfaces melted into glass, "bubbled" mudbrick and partially melted building material, all indications of an anomalously high-temperature event, much hotter than anything the technology of the time could produce.
+
+"We saw evidence for temperatures greater than 2,000 degrees Celsius," said Kennett, whose research group at the time happened to have been building the case for an older cosmic airburst about 12,800 years ago that triggered major widespread burning, climatic changes and animal extinctions. The charred and melted materials at Tall el-Hammam looked familiar, and a group of researchers including impact scientist Allen West and Kennett joined Trinity Southwest University biblical scholar Philip J. Silvia's research effort to determine what happened at this city 3,650 years ago."
+
+https://phys.org/news/2021-09-evidence-cosmic-impact-ancient-city.html

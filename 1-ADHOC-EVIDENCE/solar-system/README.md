@@ -27,7 +27,7 @@ The JUNS Orbital Cycle (Jupiter-Uranus-Neptune-Saturn) has a grand period of 4,6
 
 ## Gas giant harmonic compared with ice data
 
-The gas giant harmonic also aligns well with bond event and ice core-temperature data. Check `physical-material-evidence/ice` for that analysis.
+The gas giant harmonic may align well with bond event and ice core-temperature data. Check `physical-material-evidence/ice` for that analysis.
 
 ## Sun-Earth-Man, Theodor Landscheidt
 
@@ -57,14 +57,6 @@ These planetary lulls occurring 40 years apart every 4627 years may be the two m
 Ninth century diagram of the positions of the seven planets on 18 March 816.
 
 https://en.wikipedia.org/wiki/Astronomical_chronology
-
-## Cosmic impact
-
-"Evidence that a cosmic impact destroyed ancient city in the Jordan Valley
-
-In the Middle Bronze Age (about 3,600 years ago or roughly 1650 BCE), the city of Tall el-Hammam was ascendant."
-
-https://phys.org/news/2021-09-evidence-cosmic-impact-ancient-city.html
 
 ## Nibiru
 
