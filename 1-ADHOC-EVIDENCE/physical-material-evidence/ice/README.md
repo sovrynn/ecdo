@@ -15,6 +15,22 @@ That sort of narrows it down to 2 options:
 
 If logic dictates that even 3700 years is not nearly long enough to melt the ice, then that's fairly conclusive proof that S2 is shorter than S1.
 
-## TODO
+## Gas giants grand cycle harmonic and bond event data
 
-Bond events
+![gas giant harmonic](img/gas-giant-bond-event.jpg "gas giant harmonic")
+
+There is a 4627 year gas giant master cycle. If you divide it by 5, and break time down into intervals, every fourth coincides with a potential ECDO event.
+
+It is referenced against historical bond event (ice-rafting) data.
+
+## Antarctic ice-core temperature dataset
+
+I found an Antarctic 800ka raw ice-core temperature dataset. Here's the last 20ky plotted against the harmonics.
+
+![antarctica ice harmonics](img/antarctica-ice-harmonics.jpg "antarctica ice harmonics")
+
+[1] https://www1.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc3deuttemp2007.txt
+
+![ice coretemp data](img/ice-core-data.jpg "ice coretemp data")
+
+The complete 800ky record set fairly obliterates the "unprecedented warming" narrative. It's been much warmer (and colder) in the past. This core spans from the surface (now) right down to 3260m (800ky).

@@ -25,13 +25,9 @@ The JUNS Orbital Cycle (Jupiter-Uranus-Neptune-Saturn) has a grand period of 4,6
 [2] https://en.wikipedia.org/wiki/B%C3%B8lling%E2%80%93Aller%C3%B8d_Interstadial
 [3] See `ADHOC-EVIDENCE/physical-material-evidence/land-soil-earth` for varved clay date info.
 
-## Nobulart gas giants grand cycle harmonic and bond event data
+## Gas giant harmonic compared with ice data
 
-![gas giant harmonic](img/gas-giant-harmonic.jpg "gas giant harmonic")
-
-There is a 4627 year gas giant master cycle. If you divide it by 5, and break time down into intervals, every fourth coincides with a potential ECDO event.
-
-It is referenced against historical bond event (ice-rafting) data.
+The gas giant harmonic also aligns well with bond event and ice core-temperature data. Check `physical-material-evidence/ice` for that analysis.
 
 ## Sun-Earth-Man, Theodor Landscheidt
 

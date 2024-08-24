@@ -12,3 +12,11 @@ Human-related physical objects, such as tools, belong in `human-history`.
 ## TODO
 
 Bond events
+
+## Great Circle Artifacts
+
+![great circle artifacts](img/great-circle-artifacts.jpg "great circle artifacts")
+
+Angkor Wat and Nazca lie on the great circle centred at Stonehenge (red trace). Another great circle connects Easter Island, Machu Picchu, Giza and Mohenjo-daro (blue trace). Intersections at Peru and Cambodia may account for the high density of megaliths, geoglyphs and curious artefacts found there. The planes defined by these great circles intersect along an axis approximately connecting Angkor Wat to Nazca/Paracas, inclined to one another at sin −1 (0.9) the gradian/degree ratio being 9/10.
+
+https://www.youtube.com/watch?v=PiQL5yVpWig

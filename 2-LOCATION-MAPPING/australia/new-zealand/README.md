@@ -22,3 +22,5 @@ Māori deluge mythology [3]:
 Peter Thiel's trying to put his doomsday bunker in Queenstown-Lakes district, New Zealand. Sensible location for ECDO?
 - https://www.theguardian.com/technology/2022/aug/18/peter-thiel-refused-consent-for-sprawling-lodge-in-new-zealand-local-council
 - Mount Alpha (1600m elevation)
+
+Aboriginal Rock Art : The Enigmatic Wandjina Gods
