@@ -4,14 +4,11 @@ This folder is for potential physical material evidence of past or impending ECD
 
 ## Contents
 
+- `ice`: What can ice tell us about the ECDO?
 - `land-soil-earth`: Data from clay that potentially relates to ECDO events.
 - `large-rocks`: Large rocks - how did they end up there?
 
 Human-related physical objects, such as tools, belong in `human-history`.
-
-## TODO
-
-Bond events
 
 ## Great Circle Artifacts
 
