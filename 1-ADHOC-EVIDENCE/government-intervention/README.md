@@ -51,3 +51,11 @@ I think its already overdue and we've been holding it back. It wasn't expected t
 ## Faraday Cage
 
 Check `img/`.
+
+## Do they know?
+
+It's one of the things we know pretty much for sure, because they've been writing about it in hermetic texts for centuries. It's illustrated in most masonic art and symbolism.
+
+Curated examples of the occulted references: https://nobulart.com
+
+The two trains circling the globe in Snowpiercer could be seen as metaphoric representations of the Arctic and Antarctic following the equator from west to east at 1600km/h.

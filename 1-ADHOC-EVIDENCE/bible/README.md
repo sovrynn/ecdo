@@ -36,3 +36,8 @@ When Noah was 600 years old, on the seventeenth day of the second month, all the
 ![noah](img/noahs-flood.jpg "noah")
 
 https://www.biblicalchronologist.org/products/Noah%27s_Flood_Happened_3520_BC.PDF
+
+## TODO 
+
+Combining astrology with certain Bible passages
+- https://www.die2live.online/asteroid-child-and-the-great-sign-t-w-tramm/

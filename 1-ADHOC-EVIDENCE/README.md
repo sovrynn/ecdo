@@ -7,15 +7,19 @@ This directory contains evidence of the ECDO which is not necessarily scientific
 Old evidence from humans:
 - `ancient-myths`: Myths that may reference past ECDO events.
 - `bible`: Investigation of potentially relevant accounts from the Bible.
-- `history`: Learning from history.
-- `human-built-structures`: Structures built by humans potentially related to ECDO events.
+- `human-history`: Learning from human history.
 
 Old evidence from the world around us:
-- `physical-evidence`: Physical evidence of past or impending ECDO events, such as flash-frozen animals or big rocks high up in the mountains.
+- `biological-evidence`: Biological evidence of past ECDO events, such as frozen animal remains.
+- `physical-material-evidence`: Physical evidence of past ECDO events, such as big rocks high up in the mountains.
 - `solar-system`: Evidence from the solar system.
-- `biodiversity-hotspots`: What biodiversity hotspots can tell us about the ECDO.
+- `earth-geo-state`: Evidence from the geological state of the Earth, such as weather.
 
 Modern, recent evidence for impending ECDO:
 - `elite-preparation`: The elites seem to be preparing for... something.
 - `government-intervention`: Investigating potential government intervention related to the ECDO, such as attempting to stop/delay the ECDO or censoring information about it.
 - `research`: Research related to the ECDO.
+
+Other:
+- `frequency`: Figuring out dates which seem to have historical significance.
+- `date-anomalies`: Investigating date anomalies which may be relevant to dating ECDO-related events.

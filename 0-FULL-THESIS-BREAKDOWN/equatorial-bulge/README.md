@@ -75,7 +75,7 @@ These boundary lines extend between the pivots, and run perpendicular to each ot
 - 218 degrees
 - 318 degrees
 
-I've divided up each strip into two halves, resulting in 8 quadrants, which I display below.
+These four lines divide the Earth into 4 "strips", touching both pivots, that alternate between moving closer and further away from the equator. I've divided up each strip into two halves, resulting in 8 quadrants, which I display below.
 
 Here are the two quadrants connected to the eastern pivot which move closer to the equator:
 
@@ -103,7 +103,7 @@ The markers have different colors:
 - Purple markers are points on the S2 equator that move the most either towards or from the equator
 - Yellow markers simply help visualize the line between the pivots and the red markers
 
-The lines visualized by the yellow markers that connect the pivots to the red points don't change in latitude before and after the rotation. They can be thought of as boundaries for the Earth which may remain fairly constant in latitude. These lines divide the Earth into 4 "strips", touching both pivots, that alternate between moving closer and further away from the equator.
+The lines visualized by the yellow markers that connect the pivots to the red points are the boudnary lines that don't change in latitude before and after the rotation.
 
 ## My conclusion
 
@@ -135,7 +135,7 @@ This is a very interesting region. The equator currently runs through the dotted
 
 The Africa plate would fall as it is centered in a slice that moves away from the equator. As such, it could see its coastlines move inland, potentially quite a bit.
 
-In particular, the Khafre Pyramid is located on the north tip of the Africa plate, which would explain its inundation of 175m above current sea level. Do note that the north tip of the Africa plate runs close to a boundaring of 0 latitude change, so this 175m might be a minor inundation compared to South Africa, which is closer to the point of greatest movement from the equator.
+In particular, the Khafre Pyramid is located on the north tip of the Africa plate, which would explain its inundation of 175m above current sea level. Do note that the north tip of the Africa plate runs close to a boundary of 0 latitude change, so this 175m might be a minor inundation compared to South Africa, which is closer to the point of greatest movement from the equator.
 
 ## Shallow seas - evidence of receding coastlines?
 

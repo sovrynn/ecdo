@@ -8,7 +8,24 @@ This folder is for evidence from the surrounding solar system that points to pot
 
 # Analysis
 
-## Nobulart gas giants grand cycle harmonic
+## Harmonics
+
+![harmonic](img/gas-giant-harmonic.jpg "harmonic")
+
+Music of the Spheres. The resonance between the inner and the outer planets is governed by the greater mass. It is the gas giants which established and continue to enforce the fifth harmonic. This system is probably old beyond our wildest imaginings to have achieved this degree of order.
+[1] https://nobulart.com/musica-vitae-et-mortis/
+
+## Gas giant harmonic
+
+![gas giant cycle](img/gas-giant-cycle.jpg "gas giant cycle")
+![solar](img/solar.jpg "solar")
+
+The JUNS Orbital Cycle (Jupiter-Uranus-Neptune-Saturn) has a grand period of 4,627 years before all four repeat their dance. The 4/5 harmonic of this period is 3701.6 years. If we look back through time, we find something quite remarkable every 3700 years, going back not to the YDB, but one more cycle to the start of the Bølling–Allerød Interstadial 14.8ky before the present. Four cycles over almost 15,000 years. The Swedish varved-clay proxy dated to the start of the Younger Dryas suggests a possible half-wave subcycle as well.
+[1] https://landshceidt.info
+[2] https://en.wikipedia.org/wiki/B%C3%B8lling%E2%80%93Aller%C3%B8d_Interstadial
+[3] See `ADHOC-EVIDENCE/physical-material-evidence/land-soil-earth` for varved clay date info.
+
+## Nobulart gas giants grand cycle harmonic and bond event data
 
 ![gas giant harmonic](img/gas-giant-harmonic.jpg "gas giant harmonic")
 
@@ -34,3 +51,49 @@ And heliobiology, which was Chizhevsky's preferred area - the physical and behav
 ![solar](img/solar.jpg "solar")
 
 These planetary lulls occurring 40 years apart every 4627 years may be the two moments that the decoupling occurs.
+
+## Astronomical chronology - 3700
+
+![astronomical chronology](img/astronomical-chronology.jpg "astronomical chronology")
+
+"Among the artifacts that can most readily be dated by astronomical techniques are depictions of the positions of the celestial bodies at a particular time. Since the motions of the celestial bodies are all at different periods, it takes many centuries for all the planets plus the Sun and the Moon, to reach the same positions in the signs of the Zodiac. For a configuration accurate to ±15° (that is, within a single sign) the positions of these seven bodies will only return to the same configuration once in about 3700 years."
+
+Ninth century diagram of the positions of the seven planets on 18 March 816.
+
+https://en.wikipedia.org/wiki/Astronomical_chronology
+
+## Cosmic impact
+
+"Evidence that a cosmic impact destroyed ancient city in the Jordan Valley
+
+In the Middle Bronze Age (about 3,600 years ago or roughly 1650 BCE), the city of Tall el-Hammam was ascendant."
+
+https://phys.org/news/2021-09-evidence-cosmic-impact-ancient-city.html
+
+## Nibiru
+
+Around 3700 years?
+
+## The Great Year
+
+3,700 years fits very neatly 7 times into the Great Year (The precession of the equinoxes).
+
+## Chatelain's Constant of Nineveh
+
+Linked to the Great Year.
+
+1. https://divinecosmos.com/books-free-online/the-shift-of-the-ages/74-the-shift-of-the-ages-chapter-18-the-nineveh-constant-celestial-harmonics/
+
+2. Canonical System https://www.mercurialpathways.com/post/canonical-numbers
+
+3. https://earthmatrix.com/platonic/nineveh.htm 
+
+4.  https://www.cosmic-core.org/free/article-254-geometry-of-the-solar-system-part-1-geometric-patterns-of-planets/
+
+![nineveh](img/nineveh1 "nineveh")
+![nineveh](img/nineveh2 "nineveh")
+![nineveh](img/nineveh3 "nineveh")
+
+If you divide 18,508 by 24,998, you get 9254/12499 (simplified). 24,998 is a special number for Pluto:
+
+![nineveh](img/nineveh4 "nineveh")
