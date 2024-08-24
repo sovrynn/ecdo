@@ -1,12 +1,12 @@
 # Kumari Kandam
 
-![kk](img/kumari-kandam.jpg "kk")
+![kk](img/KKandamAtLGM_195002.jpg "kk")
 
 Such might be the map of Kumari Kandam before sinking (mapped with violet boundary).
 Those islands on the western part of sunken land suggests those were the older peaks (those islands can be older western ghats).
 Red curve line is the ECDO flood path.
 
-![kk1](img/KKandamAtLGM_195002.png "kk1")
+![kk1](img/KKandamAtLGM_19500.png "kk1")
 
 [Analysis by AncientVoice](http://ancientvoice.wikidot.com/article:kumari-kandam)
 
