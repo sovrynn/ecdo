@@ -4,63 +4,99 @@ This repo is intended to be a thoughtbank for brainstorming the [ECDO thesis](ht
 
 Organization of the repo is mainly done through self-explanatory directory/file names. Information is written into Markdown (`.md`) files named `README.md`, and images/videos are placed into `img/` folders at each step of the directory tree.
 
-Emphasis is placed on optimal data organization which minimizes redundancy and optimizes finding information.
-
-## Main Folder Contents
+## Contents
 
 Following are the main folders of the repo along with their purpose. There is bound to be some overlap but I have made the categories as discrete as possible.
 
-1. `0-ORIGINAL-THESIS`: A container for describing Ethical Skeptic's original ECDO thesis.
-2. `1-FULL-THEORY-BREAKDOWN`: A scientific derivation/proof of the ECDO thesis.
-3. `2-ADHOC-EVIDENCE`: A collection of evidence of past ECDO events.
-4. `3-MONITORING-PRESENT-ROTATION`: Information pertaining to the impending ECDO event.
-5. `4-LOCATION-MAPPING`: Mapping out how different areas of the world will fare during an ECDO event.
-6. `5-DANGERS-PREPPING`: All matters pertaining to preparing for an ECDO event aside from location.
-7. `6-TOOLS-DATA-DEV`: Technical resources to help map out the ECDO event.
+Major folders:
+- `0-FULL-THESIS-BREAKDOWN`: An in-depth breakdown and scientific analysis of the ECDO thesis.
+- `1-ADHOC-EVIDENCE`: A monolithic folder for all evidence of potential past and future ECDO events.
 
-## How to Contribute
+Minor folders:
+- `2-LOCATION-MAPPING`: Mapping out how different areas of the world will fare during an ECDO event.
+- `3-MONITORING-PRESENT-ROTATION`: Predicting the timing of the impending ECDO event.
+
+Auxiliary folders:
+- `4-DANGERS-PREPPING`: All matters ECDO-prepping, except location.
+- `5-TOOLS-DATA-DEV`: Technical resources for ECDO.
+- `6-LITERATURE`: Literature related to the ECDO, organized by author. 
+
+## ECDO Newcomer Guide
+
+1. What is the ECDO?
+	- Madatory reading: Ethical Skeptic's original thesis (`6-LITERATURE/0-ethical-skeptic`)
+	- In-depth ECDO thesis breakdown: `1-FULL-THEORY-BREAKDOWN`
+		- Breakdown of S1 -> S2 rotation: `1-FULL-THEORY-BREAKDOWN/s1-to-s2`
+2. What is the evidence for the ECDO?
+	- All manner of ECDO evidence: `2-ADHOC-EVIDENCE`
+	- Location-specific evidence (ex: physical landmarks): `4-LOCATION-MAPPING`
+3. How do we know it could be happening soon?
+	- Predictions on the timeframe of the impending ECDO: `3-MONITORING-PRESENT-ROTATION/date-and-triggers`
+	- Analysis on ECDO frequency: `1-FULL-THESIS-BREAKDOWN/ecdo-frequency`
+
+# Contribution Guide
+
+## Key: Where do I put my info?
+
+Almost anything that could be used to justify an ECDO event belongs in `1-ADHOC-EVIDENCE`.
+- `3-MONITORING-PRESENT-ROTATION` is only for speculative data feeds that show *something* is changing *now*. All historical material belongs in `1-ADHOC-EVIDENCE` from where you can backlink it.
+- `2-LOCATION-MAPPING` is only for speculative analysis on how locations will fare in the ECDO. All physical evidence of ECDO belongs first in `1-ADHOC-EVIDENCE`.
+
+The key here is to make judicious use of backlinks. There is bound to be overlap. The solution is to put info in the proper folder, and use backlinks to reference it in other locations. My preferred method for backlinks is to just mention the folder path (ex: `ADHOC-EVIDENCE/physical-evidence`) but you could also use a web URL link within the repo.
+
+Put all literature (ex: books, research papers) related to ECDO in `6-LITERATURE`, and then backlink them in your analysis.
+
+## Formatting guidelines
+
+- Name folders and files properly. Use lowercase dash-separated names instead of camel case.
+- Follow the conventions you see. Use `README.md` files for text and `img` folders for graphics.
+- When possible, add links and references.
+- Do not clutter up `README.md` files. These should be only about ONE topic. If a `README.md` file is getting cluttered and bloated, that's a sign it should be broken down into multiple parts.
+- Do not dump images into the repo without embedding them in some kind of analysis.
+
+## Using git
 
 In order to contribute, you'll need to be able to use git.
 
 The high-level steps are:
-- clone the latest version of the repository to your local machine
-- make a new git branch
-- make your changes
-- create a pull request
+- fork the repo
+- make your changes in your fork
+- create a pull request to the original repo
 
-## Basic Contribution Guidelines
-
-1. Put information in the proper location in the proper format
-	- Information goes in the folder where it belongs and nowhere else. If a new folder needs to be made, do it in the proper location.
-	- Folders and files should always be named properly, with concise and meaningful names. To put multiple words into a filename, connect the words with dashes (`-`). Names should always be lowercase, not camel case.
-	- Text goes into `README.md` files, and graphic files into `img/` folders. Feel free to inline images into the Markdown.
-2. Don't add noise
-	- In order to make this repo as high signal as possible, avoid adding in sloppy analysis. Don't just copy paste things in, but add in useful analysis based on data.
-	- Use English, with proper spelling and grammar.
-	- When possible, add links and references.
-
-## Additional Contribution Guidelines
-
-Do NOT dump information into high-level `README.md` files just because you don't know where else to put it. `README.md` files are not data dumps but polished analysis of one specific topic. They should be organized and easily readable.
-
-Some images are meaningful on their own, but others require explaining. Rather than use `img/` as an image dump, images should generally be referenced in Markdown and useful insights gleaned from them explained.
-
-Information in other languages can be put in `/translation` folders within the relevant directory.
-
-All pull requests will be reviewed to ensure optimal information structure.
+All pull requests will be reviewed to ensure they follow the contribution guidelines.
 
 ## Embedding Images into Markdown
 
 Two ways:
-1. You can embed an image in Markdown using this snippet (replace `PATH` with the path to the image, for example `img/australia.jpg`). `alt` and `Title` are shown when the image fails to load and on hover, respectively:
+1. Use this snippet (replace `PATH` with the path to the image, for example `img/australia.jpg`). `alt` and `Title` are shown when the image fails to load and on hover, respectively:
 	- `![alt](PATH "Title")`
-2. You can also use HTML directly in Markdown if you want to change the size of the image. Use this snippet (replace `PATH` and `ALT` with desired values, as well as width):
+2. Use HTML directly if you want to change the size of the image (replace `PATH` and `ALT` with desired values, as well as width):
 	- `<img src="PATH" alt="ALT" style="width:50%;"/>`
 
 There are text editors such as Visual Studio Code that allow you to preview Markdown (render it) to help you check for Markdown errors and style the README.md how you wish locally.
 
+For GIFs:
+- `![alt](PATH)`
+
+## Repo text search using grep
+
+To search for a word or phrase in the repo, use this command-line command in the top-level `ecdo` folder:
+- `grep -nr "WORD" --include="*.md" .`
+
+Replace `WORD` with the phrase you want to search for.
+
+## Adding TODOs
+
+Whenever you add a reference to something you would like to investigate in the future, add a "TODO" (capitalized) somewhere (ex: in the section header).
+
+This will allow you to easily reference a list of potential topics to look into by using `grep` on "TODO".
+
+## Translations
+
+Translations can be put in `/translation` folders within the relevant directory.
+
 ## TODO wishlist, top priorities
 
-Global maps showing:
-- the circular paths of oceanic displacement around the two pivots
-- look into Google Earth scripting
+- Global maps showing:
+	- the circular paths of oceanic displacement around the two pivots
+- Google Earth scripting
