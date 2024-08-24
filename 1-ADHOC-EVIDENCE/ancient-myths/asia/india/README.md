@@ -32,8 +32,10 @@ Dwarka of Krishna, on the west coast of India, was destroyed by flood 36 years a
 I defined time interval of 6500 years for the plausible year of Mahabharata War based on AV (Arundhati-Vasistha) observation of Mahabharata text. 
 Further I could validate 18 day timeline and year of 5561 BCE, proposed by Dr. P V Vartak. 
 I validated 5561 BCE as the year of Mahabharata War based on consistent interpretation of 200+ astronomy observations of Mahabharata text.
+
 This would lead us to the timing of flooding of Dwarka as follows:
 5561 BCE + 36 years = 5525 BCE
+
 Thus flooding and Destruction of Krishna’s Dwarka occurred in 5525 BCE.
 
 ## Sinking of Kandam Kumari
