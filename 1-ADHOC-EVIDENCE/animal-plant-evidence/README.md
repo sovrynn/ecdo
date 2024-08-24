@@ -1,4 +1,4 @@
-# Biological Evidence
+# Animal and Plant Evidence
 
 This folder is for evidence of ECDO events related to living things, except humans.
 

@@ -103,7 +103,7 @@ The markers have different colors:
 - Purple markers are points on the S2 equator that move the most either towards or from the equator
 - Yellow markers simply help visualize the line between the pivots and the red markers
 
-The lines visualized by the yellow markers that connect the pivots to the red points are the boudnary lines that don't change in latitude before and after the rotation.
+The lines visualized by the yellow markers that connect the pivots to the red points are the boundary lines that don't change in latitude before and after the rotation.
 
 ## My conclusion
 

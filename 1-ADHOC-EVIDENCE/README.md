@@ -10,7 +10,7 @@ Old evidence from humans:
 - `human-history`: Learning from human history.
 
 Old evidence from the world around us:
-- `biological-evidence`: Biological evidence of past ECDO events, such as frozen animal remains.
+- `animal-plant-evidence`: Biological evidence (excluding humans) of past ECDO events, such as frozen animal remains.
 - `physical-material-evidence`: Physical evidence of past ECDO events, such as big rocks high up in the mountains.
 - `solar-system`: Evidence from the solar system.
 - `earth-geo-state`: Evidence from the geological state of the Earth, such as weather.

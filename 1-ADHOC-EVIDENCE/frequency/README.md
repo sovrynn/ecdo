@@ -18,7 +18,7 @@ Try doing a `grep -nr` in this repo on 3700, 1700, and 1750.
 
 ### 5200 BC
 
-Check `AHDOC-EVIDENCE/bible` for info regarding a biblical flood.
+Check `ADHOC-EVIDENCE/bible` for info regarding a biblical flood.
 
 ## 3700 increments? Noah's flood and Younger Dryas
 
