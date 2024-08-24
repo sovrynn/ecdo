@@ -18,8 +18,8 @@ If we go back 3700 more years to 5400 BC, there is evidence as well:
 - Chichancanab lake filled with saltwater about 7800 years ago (`animal-plant-evidence/animal-remains`)
 
 Going back another 3700 years to 9100 BC:
-- Plato's account of a story about Atlantis sinking in approximately 9600 BC (`ancient-myths`)
 - End of the Younger Dryas
+- Plato's account of a story about Atlantis sinking in approximately 9600 BC (`ancient-myths`)
 
 Finally you also have a harmonic of the gas giant grand cycle which aligns with these dates (`solar-system`).
 
