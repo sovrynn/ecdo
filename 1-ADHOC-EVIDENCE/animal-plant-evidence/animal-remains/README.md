@@ -80,7 +80,7 @@ https://www.science.org/content/article/last-lonely-woolly-mammoths-faced-genomi
 
 https://www.researchgate.net/publication/225517767_Evidence_for_marine_transgression_between_7500-5400BC_at_the_Luotuodun_Site_in_Yixing_Jiangsu_Province
 
-## Maya Lake
+## Mayan Chichancanab Lake
 
 ![maya](img/maya-climate.jpg "maya")
 ![chichancanab](img/chichancanab1.jpg "chichancanab")
