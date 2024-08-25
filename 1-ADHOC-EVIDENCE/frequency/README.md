@@ -15,7 +15,8 @@ First of all, 1700 BC (~3700 years ago) appears to be a very historically signif
 
 If we go back 3700 more years to 5400 BC, there is evidence as well:
 - Noahic deluge in 5200 BC (`bible`)
-- Chichancanab lake filled with saltwater about 7800 years ago (`animal-plant-evidence/animal-remains`)
+- Chichancanab lake filled with saltwater about 7800 years ago in 5800 BC (`animal-plant-evidence/animal-remains`)
+- Sinking of city Dwarka in 5525 BCE
 
 Going back another 3700 years to 9100 BC:
 - End of the Younger Dryas

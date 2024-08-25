@@ -33,11 +33,19 @@ The steady narrowing of real polar nutation [1] in apparent lockstep with the ap
 [2] https://landscheidt.info/
 [4] https://nobulart.com/360-days/
 
-## Nobulart
+## Nobulart hypothesis
 
 I think there is certainly enough energy involved between the sun and the earth for a field inversion in the sun during a gravitational lull to be the trigger for the decoupling. As we progress towards  the slip the progression must manifest as accelerated magnetic polar wander and a narrowing of average real polar nutation (due to the drift occurring between core and mantle). The heat is rising and water is an excellent medium to draw it out.
 
 I think the Sun's regular field inversion during a grand solar minimum may be the trigger for a micronova.
+
+There is a perfect 4/5 harmonic on 4627 years, which is the grand orbital cycle of the four gas giants, which govern all solar cycles.
+
+![trigger](img/triggers2.jpg "trigger")
+
+This shows how the gas giant orbital rhythm is locked to the grand solar minimums.
+
+We have the first of one of those double-taps coming up in June 2030.
 
 ## Gas giant harmonic (June 2030)
 

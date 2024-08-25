@@ -18,7 +18,7 @@ https://annas-archive.org/scidb/10.5194/cp-16-597-2020
 
 ## Peltier Effect
 
-What could cause the the dramitic shift from bolling allerod to younger dryas where the warm and cooler hemispheres swapped places so rapidly, perhaps a poleshift?
+What could cause the the dramatic shift from bolling allerod to younger dryas where the warm and cooler hemispheres swapped places so rapidly, perhaps a poleshift?
 
 ![warming](img/peltier-1.jpg "warming")
 ![warming](img/peltier-2.jpg "warming")

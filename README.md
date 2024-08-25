@@ -24,27 +24,27 @@ Auxiliary folders:
 ## ECDO Newcomer Guide
 
 1. What is the ECDO?
-	- Madatory reading: Ethical Skeptic's original thesis (`6-LITERATURE/0-ethical-skeptic`)
-	- In-depth ECDO thesis breakdown: `1-FULL-THEORY-BREAKDOWN`
-		- Breakdown of S1 -> S2 rotation: `1-FULL-THEORY-BREAKDOWN/s1-to-s2`
+	- Mandatory reading: Ethical Skeptic's original thesis (`LITERATURE/0-ethical-skeptic`)
+	- In-depth ECDO thesis breakdown: `FULL-THEORY-BREAKDOWN`
+		- Breakdown of S1 -> S2 rotation: `FULL-THEORY-BREAKDOWN/s1-to-s2`
 2. What is the evidence for the ECDO?
-	- All manner of ECDO evidence: `2-ADHOC-EVIDENCE`
-	- Location-specific evidence (ex: physical landmarks): `4-LOCATION-MAPPING`
+	- All manner of ECDO evidence: `ADHOC-EVIDENCE`
+	- Location-specific evidence (ex: physical landmarks): `LOCATION-MAPPING`
 3. How do we know it could be happening soon?
-	- Predictions on the timeframe of the impending ECDO: `3-MONITORING-PRESENT-ROTATION/date-and-triggers`
-	- Analysis on ECDO frequency: `1-FULL-THESIS-BREAKDOWN/ecdo-frequency`
+	- Predictions on the timeframe of the impending ECDO: `MONITORING-PRESENT-ROTATION/date-and-triggers`
+	- Analysis on ECDO frequency: `FULL-THESIS-BREAKDOWN/ecdo-frequency`
 
 # Contribution Guide
 
 ## Key: Where do I put my info?
 
-Almost anything that could be used to justify an ECDO event belongs in `1-ADHOC-EVIDENCE`.
-- `3-MONITORING-PRESENT-ROTATION` is only for speculative data feeds that show *something* is changing *now*. All historical material belongs in `1-ADHOC-EVIDENCE` from where you can backlink it.
-- `2-LOCATION-MAPPING` is only for speculative analysis on how locations will fare in the ECDO. All physical evidence of ECDO belongs first in `1-ADHOC-EVIDENCE`.
+Almost anything that could be used to justify an ECDO event belongs in `ADHOC-EVIDENCE`.
+- `MONITORING-PRESENT-ROTATION` is only for speculative data feeds that show *something* is changing *now*. All historical material belongs in `ADHOC-EVIDENCE` from where you can backlink it.
+- `LOCATION-MAPPING` is only for speculative analysis on how locations will fare in the ECDO. All physical evidence of ECDO belongs first in `ADHOC-EVIDENCE`.
 
 The key here is to make judicious use of backlinks. There is bound to be overlap. The solution is to put info in the proper folder, and use backlinks to reference it in other locations. My preferred method for backlinks is to just mention the folder path (ex: `ADHOC-EVIDENCE/physical-evidence`) but you could also use a web URL link within the repo.
 
-Put all literature (ex: books, research papers) related to ECDO in `6-LITERATURE`, and then backlink them in your analysis.
+Put all literature (ex: books, research papers) related to ECDO in `LITERATURE`, and then backlink them in your analysis.
 
 ## Formatting guidelines
 

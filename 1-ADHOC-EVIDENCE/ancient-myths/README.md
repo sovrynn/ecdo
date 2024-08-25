@@ -2,6 +2,10 @@
 
 This folder is for documenting all myths that reference a potential ECDO event, most commonly by mentioning flooding. There are quite a few.
 
+Info to look for:
+- specific dates
+- maps of the flood
+
 ## TODO leads to look into
 
 - Gold mine (put a hard copy in here): https://talkorigins.org/faqs/flood-myths.html
