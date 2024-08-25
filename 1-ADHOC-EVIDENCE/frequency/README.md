@@ -4,7 +4,7 @@ Goal: Predict how frequent the ECDO event is.
 
 ## Current Hypothesis - 3700 years
 
-The current hypothesis is that the ECDO may occur approximately every 3700 years.
+The current hypothesis is that the ECDO may occur approximately every 3700 years. Note that there is uncertainty in many of these dates.
 
 First of all, 1700 BC (~3700 years ago) appears to be a very historically significant time:
 - Many records of a "natural disaster" event - from Crete, Turkey, Pakistan (Mohenjo-Daro), Tiahuanaco, Easter Island (`ancient-myths`)
@@ -14,7 +14,7 @@ First of all, 1700 BC (~3700 years ago) appears to be a very historically signif
 - Tall el-Hammam city melted by extreme temperature ~3700 years ago (`human-history-remains/human-built-structures`)
 
 If we go back 3700 more years to 5400 BC, there is evidence as well:
-- Noahic deluge in 5200 BC (`bible`)
+- Noahic deluge potentially in 5200 BC, Book of Genesis (`bible`)
 - Chichancanab lake filled with saltwater about 7800 years ago in 5800 BC (`animal-plant-evidence/animal-remains`)
 - Sinking of city Dwarka in 5525 BCE
 

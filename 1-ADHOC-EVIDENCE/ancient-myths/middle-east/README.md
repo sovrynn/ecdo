@@ -13,6 +13,21 @@ There are thousands of square kilometers of significant stratification formation
 [3] https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/
 [4] https://maps.app.goo.gl/9g6gz1vSAgqMXnoT8
 
+## Atra-Hasis Flood Account
+
+It is the same story as Gilgamesh. It was written down in the mid-17th century BCE, but the tale itself is considered much older.
+
+Links:
+- https://en.wikipedia.org/wiki/Atra-Hasis
+- https://www.worldhistory.org/article/227/the-atrahasis-epic-the-great-flood--the-meaning-of/
+
+## Gilgamesh (2000 BC - 1200 BC)
+
+Mesopotamian flood myth. Utnapishtim builds a boat and survives the flood. Apparently written 2150-1400 BCE.
+
+- https://en.wikipedia.org/wiki/Gilgamesh_flood_myth
+- https://www.worldhistory.org/article/227/the-atrahasis-epic-the-great-flood--the-meaning-of/
+
 ## Turkey
 
 Black Sea inundation of Ankara from around 1750-1700BC.
@@ -21,3 +36,7 @@ Black Sea inundation of Ankara from around 1750-1700BC.
 		- https://x.com/nobulart/status/1803411938451374121?s=46
 		- https://x.com/nobulart/status/1801746221809209701?s=46
 - https://x.com/nobulart/status/1822018953620943257?s=46
+
+### Turkey additional leads
+
+- 6800 BCE Black Sea flood: https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis

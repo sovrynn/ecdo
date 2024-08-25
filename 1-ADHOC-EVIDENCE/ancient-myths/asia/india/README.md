@@ -6,6 +6,18 @@ There are several Indian flood myths.
 
 Check `img/` for all records.
 
+## Manu Deluge (1500 - 1200 BCE?)
+
+![alt](img/manu.PNG "india myths")
+![alt](img/manu2.PNG "india myths")
+![alt](img/manu3.PNG "india myths")
+
+"During the Manu deluge the flood was probably super high. Only 1 mountain peak in Himalaya was visible called Navabandhana. Current highest peaks are around 8000m. I do suspect there might be changes in between of heights of Himalaya as this happened at the end of golden age."
+
+In the Manu story they mention that the only highest peak of Himalayas was dry called Navabandhan. So, it seems Himalayas were present in previous deluge as well.
+
+ChatGPT dates this to about 1500 - 1200 BCE, based on the dating of Vedic texts, which contain the Manu flood.
+
 ## Sinking of Dwarka – 5525 BCE
 
 Sinking of the city of Dwarka might have been due to great flood. 5525 BCE is pretty close to the Noahic event 5401 BCE. 
@@ -21,16 +33,6 @@ This would lead us to the timing of flooding of Dwarka as follows:
 5561 BCE + 36 years = 5525 BCE
 
 Thus flooding and Destruction of Krishna’s Dwarka occurred in 5525 BCE.
-
-## Manu Deluge
-
-![alt](img/manu.PNG "india myths")
-![alt](img/manu2.PNG "india myths")
-![alt](img/manu3.PNG "india myths")
-
-"During the Manu deluge the flood was probably super high. Only 1 mountain peak in Himalaya was visible called Navabandhana. Current highest peaks are around 8000m. I do suspect there might be changes in between of heights of Himalaya as this happened at the end of golden age."
-
-In the Manu story they mention that the only highest peak of Himalayas was dry called Navabandhan. So, it seems Himalayas were present in previous deluge as well.
 
 ## Sinking of Kandam Kumari
 

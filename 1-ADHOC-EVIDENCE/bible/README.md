@@ -3,7 +3,13 @@
 Look at:
 - Worlds in Collision and Earth in Upheaval
 
-## Noaic deluge around 5200 BC
+## Noaic deluge (Book of Genesis)
+
+### Research paper: 3500 - 3000 BC
+
+See the research paper PDF in the folder for a very comprehensive source on dating this flood.
+
+### 5200 BC?
 
 ![bible](img/5200-bible.jpg "bible")
 
@@ -11,15 +17,15 @@ https://www.123helpme.com/essay/The-Yahwist-And-The-Flood-Of-The-4C0E4F9453D8E98
 
 The duration of the flood is not clear; 40 days or 150 days depending on the account. [1]
 
-### Genesi 7:11
-
-When Noah was 600 years old, on the seventeenth day of the second month, all the underground waters erupted from the earth, and the rain fell in mighty torrents from the sky.
-
-### Noah's Flood investigative book
+### Noah's Flood investigative book: 3520 BC
 
 ![noah](img/noahs-flood.jpg "noah")
 
 https://www.biblicalchronologist.org/products/Noah%27s_Flood_Happened_3520_BC.PDF
+
+### Genesi 7:11
+
+When Noah was 600 years old, on the seventeenth day of the second month, all the underground waters erupted from the earth, and the rain fell in mighty torrents from the sky.
 
 ## Isaiah 24
 
