@@ -24,13 +24,13 @@ These layers are of differing density, rigidity, and thickness [1]:
 
 Total: 12.7k km
 
-These layers will likely react differently when it comes to the equatorial bulge. For example, read this analogy about the Earth's mantle [4]: "The memory effect in the Earth’s mantle is akin to that occurring in cold honey after a spoon creates a depression in its surface, and the honey subsequently returns to a flat surface under gravity driven viscous flow. It may take the honey as much as a half an hour to return to being flat, depending on how cold it is."
+These layers will likely react differently when it comes to the equatorial bulge. For example, read this analogy about the Earth's mantle: *"The memory effect in the Earth’s mantle is akin to that occurring in cold honey after a spoon creates a depression in its surface, and the honey subsequently returns to a flat surface under gravity driven viscous flow. It may take the honey as much as a half an hour to return to being flat, depending on how cold it is."* [4]
 
 It's possible that:
 - The more flowing, less dense layers that are further from the center and spinning faster will react faster, and to a greater extent, to the new bulge
 - The denser layers that are closer to the center of the Earth and spinning slower will react slower and to a lesser extent
 
-After the S1 -> S2 rotation, the crust and upper mantle, which together make up the rigid lithosphere layer resting on top of the semi-fluid asthenosphere, which facilitates plate tectonics, may react immediately or quickly to the new equatorial bulge, disproportionate to the deeper layers of the Earth.
+After the S1 -> S2 rotation, the **crust and upper mantle**, which consist of the rigid lithosphere layer resting on top of the semi-fluid asthenosphere, and **make up the ~700 km outermost layer of Earth**, may react immediately or quickly to the new equatorial bulge, disproportionate to the deeper layers of the Earth.
 
 ## Basic Crust Bulge Changes after S1 -> S2
 
