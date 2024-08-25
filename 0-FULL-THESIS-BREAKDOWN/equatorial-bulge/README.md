@@ -1,10 +1,10 @@
 # Equatorial Bulge
 
-Exploring how Earth's equatorial bulge may interplay with the ECDO.
+Exploring how Earth's equatorial bulge may interplay with the ECDO. Speculative hypothesis.
 
 ## Intro
 
-Earth is an oblate spheroid due to its rotation. Earth has an equatorial bulge of 43km.
+Earth is an oblate spheroid due to its rotation. Earth has an equatorial bulge of 43 km.
 
 ![oblate spheroid shape](img/oblate-spheroid.jpg "oblate spheroid")
 
@@ -12,37 +12,35 @@ Earth also has several internal layers:
 
 ![earth internals](img/earth-internals.png "earth internals")
 
-These layers are of differing density:
-- Crust, least dense, 5-35km (5 km oceanic crust, 35 km continental)
-- Upper mantle, rigid, 100 km - 150 km
-- Asthenosphere, soft, 100 km - 700 km
-- Lower mantle, solid but flowing, 2260 km
-- Outer core, liquid, 2180 km
-- Inner core, solid, 1220 km
+These layers are of differing density, rigidity, and thickness [1]:
+- Crust, 2.7 - 3 g/cm^3 density, 5 - 35 km thickness (5 km oceanic crust, 35 km continental) [2]
+- Upper mantle, 3.3 - 4.0 g/cm^3 density, 660 km thickness
+	- Uppermost rigid mantle, 100 - 200 km thickness
+	- Asthenosphere, semi-fluid and ductile, facilitates plate tectonics, ~300 km thickness
+	- Transition zone, 3.8 - 4.4 g/cm^3 density, 220 km thickness
+- Lower mantle, solid but flowing, 4.4 - 5.6 g/cm^3 density, 2260 km thickness
+- Outer core, liquid, 9.9 - 12.2 g/cm^3 density, 2180 km thickness
+- Inner core, solid, 12.8 - 13.1 g/cm^3 density, 1220 km thickness
 
-Total: 11.73k to 12.3k km (actual 12.7k)
+Total: 12.7k km
 
-These layers react differently when it comes to the equatorial bulge. It's possible that:
-- The softer the layer, the more it may bulge, and the faster it may adjust to the new bulge
-- The denser the layer, the less it may bulge, and the slower it may adjust to the new bulge
+These layers will likely react differently when it comes to the equatorial bulge. For example, read this analogy about the Earth's mantle [4]: "The memory effect in the Earth’s mantle is akin to that occurring in cold honey after a spoon creates a depression in its surface, and the honey subsequently returns to a flat surface under gravity driven viscous flow. It may take the honey as much as a half an hour to return to being flat, depending on how cold it is."
 
-Additionally, outer layers may bulge more due to being further away from the axis of rotation.
+It's possible that:
+- The more flowing, less dense layers that are further from the center and spinning faster will react faster, and to a greater extent, to the new bulge
+- The denser layers that are closer to the center of the Earth and spinning slower will react slower and to a lesser extent
 
-After the S1 -> S2 rotation, Earth may continue to maintain its oblate spheroid shape, along the same axis of rotation, due to its softer layers reacting immediately to the change in rotation.
+After the S1 -> S2 rotation, the crust and upper mantle, which together make up the rigid lithosphere layer resting on top of the semi-fluid asthenosphere, which facilitates plate tectonics, may react immediately or quickly to the new equatorial bulge, disproportionate to the deeper layers of the Earth.
 
-## Crust Bulge Changes after S1 -> S2
+## Basic Crust Bulge Changes after S1 -> S2
 
 How might the equatorial bulge react to the ECDO rotation?
 
 Simply, I hypothesize that locations previously on the equator that move closer to the poles will move closer to the Earth's core, and those moving from the poles to the equator will move further away.
 
-Estimating actual quantities here is important though, and the solution to this may lie in separating the Earth's internal layers into those which do and do not bulge, based on whether they are softer or more rigid.
+Estimating actual quantities here is important though, and the solution to this may lie in estimating a ratio for how much of the 43 km equatorial bulge the crust will accomodate after the rotation.
 
-Let's assume that the crust, asthenosphere, and outer core react immediately to accomodate the bulge. These layers are softer and make up up to 2910 km of the Earth's layers. Multiplying by 2 since the Earth is a sphere, these layers would make up approximately 5820 km of the Earth's 12.7k km diameter, which is ~46% of the diameter of the Earth.
-
-These three layers have to accomodate the 43 km of equatorial bulge. The key here is figuring out how much of the equatorial bulge the crust accomodates:
-- If we assume that they will share the load proportionate to their thickness, then the crust, which takes up up to 70 km of the 5820 km of soft layers, would take ~1.2% of the equatorial bulge load. This amounts to 0.517 km, 517 m, across 2 crust layers. For one crust layer it would be 259 m.
-- However, if the crust accomodates more of the equatorial bulge than the inner layers due to being less dense and being further away from the axis of rotation, the potential crust displacement could be multiples higher.
+As an example, if we assume that the Earth immediately shifts to accomodate 20% of the equatorial bulge, and the upper mantle and crust react proportionate to their thickness to accomodate the shift, then the crust would accomodate **433 m** of equatorial bulge.
 
 ## Comparing Earth's crust in S1 and S2 - Raw data
 
@@ -105,7 +103,7 @@ The markers have different colors:
 
 The lines visualized by the yellow markers that connect the pivots to the red points are the boundary lines that don't change in latitude before and after the rotation.
 
-## My conclusion
+## My initial conclusion
 
 As points on the Earth rotate closer or further away from the equator, they will rise or fall. However, tectonic plates also need to be taken into account.
 
@@ -113,7 +111,7 @@ As points on the Earth rotate closer or further away from the equator, they will
 
 I believe that changes in position on the spheroid will interact together with the tectonic plate structures to produce the final result; each location will need to be analyzed on a case-by-case basis based on the structure of the surrounding tectonic plates. Interestingly, the areas of greatest tectonic plate fracture are both located near the pivots.
 
-My analysis for the major plates follows:
+My analysis for the major plates follows [3]:
 
 ![eurasia](img/eurasian-plate.webp "eurasia")
 
@@ -141,9 +139,15 @@ In particular, the Khafre Pyramid is located on the north tip of the Africa plat
 
 What's interesting about the predictions of receding coastlines in the Eurasian continent, east North America and southern tip of South America is that there are large areas of shallow oceans in these areas surrounding the coast. These could be evidence of being coastlines in past ECDO S2 states.
 
-Those areas are not the only areas, just the most evident ones. You also have such areas around Antarctica. But by far the most interesting region is around the eastern pivot - the Indo-Australian Plate and the Sunda Plate (Indonesia). I think it's also possible that these areas will have a coastline recession due to the intricacies of plate dynamics. For example, the Sunda Plate might rise because it is sandwiched between the Eurasian and lower piece of the Indo-Australian plate, which have the potential to rise.
+## Sea Level Rise? China Gun-Yu Flood, Khafre Pyramid
 
-Evidence of prolonged inundation in Africa, as there is in the Arabian plate, would also support this theory.
+This model also has to accomodate China's Great Gun-Yu flood, during which east China was inundated to an approximate level of 65 m for 22 years. See `ADHOC-EVIDENCE/ancient-myths/asia/china` for details.
+
+It's possible that the displacement of large swaths of ocean from the equator results in a sea level rise. If so, that would explain why China, which is expected to rise slightly after the rotation as it moves to the equator, still experienced prolonged inundation. The corresponding sea level rise would then have to be slightly higher than 65 m to account for the elevation rise.
+
+However we also have to take the Khafre Pyramid into account, which experienced 175 m of prolonged inundation. The Khafre Pyramid is expected to fall in elevation slightly, which caps the potential sea level rise.
+
+These two data points would put the potential sea level rise between ~(65m, 175m).
 
 ## Minor analysis sections
 
@@ -174,7 +178,6 @@ Likely, the tectonic plates that move significantly relative to the equatorial b
 This is still an incomplete and simplistic model. Rather than eyeballing it, you could graph the equatorial bulge as a spectrum for each point and then compare areas before/after the rotation together with plate boundaries. This could give you a much better picture of what might happen.
 
 More precision to test the model:
-- Khafre 175m
 - Kumari Kandam
 - Get more data points.
 
@@ -188,7 +191,7 @@ You could potentially incorporate data about plates moving in certain directions
 
 ## Citations
 
-- Earth layers: https://en.wikipedia.org/wiki/Internal_structure_of_Earth
-- Earth layers: https://www.sciencefacts.net/layers-of-the-earth.html
-- Earth crust thickness: https://www.geolsoc.org.uk/Geoscientist/Archive/August-2018/Roberts-Crust
-- Tectonic plate maps: https://earthhow.com/category/geology/plate-tectonics/africa
+1. Earth layers: https://en.wikipedia.org/wiki/Internal_structure_of_Earth
+2. Earth crust thickness: https://www.geolsoc.org.uk/Geoscientist/Archive/August-2018/Roberts-Crust
+3. Tectonic plate maps: https://earthhow.com/category/geology/plate-tectonics/africa
+4. https://grace.jpl.nasa.gov/data/get-data/gia-trends/
