@@ -2,9 +2,9 @@
 
 This folder is for understanding S2, which is the state of the Earth after the first ECDO rotation.
 
-## Duration of S2
+## Duration
 
-Duration could be anywhere from 2-50 years.
+The Great Gun-Yu flood of China, around 1900 BC, was said to have lasted 22 years. See `ADHOC-EVIDENCE/ancient-myths/asia/china`.
 
 ## New Geographic Pole Locations
 
@@ -17,6 +17,10 @@ New south pole:
 - Present day location: Pacific Ocean
 - Lat/long: (14, -149)
 - Above the equator
+
+## New equator
+
+See `FULL-THESIS-BREAKDOWN/equatorial-bulge` for a visualization of the new equator.
 
 ## TODO
 

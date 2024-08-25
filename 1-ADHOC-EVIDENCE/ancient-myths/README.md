@@ -8,7 +8,7 @@ Info to look for:
 
 ## TODO leads to look into
 
+- Organize by date here
 - Gold mine (put a hard copy in here): https://talkorigins.org/faqs/flood-myths.html
 - The Bible, Egyptian legends and other stories from antiquity describe a solar event, often involving a black sun.
 - Altai megafloods
-- Atlantis sinking, Plato, around 9600 BC
