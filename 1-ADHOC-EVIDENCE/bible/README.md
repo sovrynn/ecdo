@@ -9,6 +9,18 @@ Look at:
 
 https://www.123helpme.com/essay/The-Yahwist-And-The-Flood-Of-The-4C0E4F9453D8E980
 
+The duration of the flood is not clear; 40 days or 150 days depending on the account. [1]
+
+### Genesi 7:11
+
+When Noah was 600 years old, on the seventeenth day of the second month, all the underground waters erupted from the earth, and the rain fell in mighty torrents from the sky.
+
+### Noah's Flood investigative book
+
+![noah](img/noahs-flood.jpg "noah")
+
+https://www.biblicalchronologist.org/products/Noah%27s_Flood_Happened_3520_BC.PDF
+
 ## Isaiah 24
 
 17Terror and the pit and the snared
@@ -27,17 +39,13 @@ it sways like a hut;
 its transgression lies heavy upon it,
 and it falls, and will not rise again.
 
-## Genesi 7:11
+## Citations
 
-When Noah was 600 years old, on the seventeenth day of the second month, all the underground waters erupted from the earth, and the rain fell in mighty torrents from the sky.
-
-## Noah's Flood investigative book
-
-![noah](img/noahs-flood.jpg "noah")
-
-https://www.biblicalchronologist.org/products/Noah%27s_Flood_Happened_3520_BC.PDF
+1. https://en.wikipedia.org/wiki/Genesis_flood_narrative
 
 ## TODO 
+
+Psalm 104: “The waters stood above the mountains... they go up by the mountains” and Psalm 107 “The waves mount up to the heaven.”
 
 Combining astrology with certain Bible passages
 - https://www.die2live.online/asteroid-child-and-the-great-sign-t-w-tramm/
