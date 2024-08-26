@@ -39,4 +39,4 @@ Suspected ECDO 3 (9100 BC):
 
 ## Sources
 
-https://talkorigins.org/faqs/flood-myths.html
+- Massive flood myth compilation: https://talkorigins.org/faqs/flood-myths.html (Hard copy in `hard-copies`)
