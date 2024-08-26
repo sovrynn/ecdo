@@ -1,8 +1,14 @@
 # Gordon Michael Scallion
 
+Known as a "contemporary prophet", he has published theories on flooding, earthquakes, and volcanoes. May be worth looknig into.
+
+## "Doomsday" Flood Map
+
+![scallion flood map](img/scallion-map.jpg "scallion flood map")
+
+Source: https://archive.org/details/dr_future-map-of-the-world-10902000
+
+## Forbes Article
+
 Forbes article which is very interesting. Hard copy in `articles`:
 - https://www.forbes.com/sites/jimdobson/2017/06/10/the-shocking-doomsday-maps-of-the-world-and-the-billionaire-escape-plans/
-
-## Contents
-
-- `articles`: Copies of articles about Scallion.

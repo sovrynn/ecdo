@@ -7,7 +7,7 @@ Goal: Predict how frequent the ECDO event is.
 The current hypothesis is that the ECDO may occur approximately every 3700 years. Note that there is uncertainty in many of these dates.
 
 First of all, 1700 BC (~3700 years ago) appears to be a very historically significant time:
-- Many records of a "natural disaster" event - from Crete, Turkey, Pakistan (Mohenjo-Daro), Tiahuanaco, Easter Island (`ancient-myths`)
+- Many records of a "natural disaster" event - from India (Manu), China (Gun-Yu), Crete, Turkey, Pakistan (Mohenjo-Daro), Tiahuanaco, Easter Island (`ancient-myths`)
 - Records of immigration in the Mediterranean area coinciding with the Greek Dark Ages (`human-history-remains`)
 - Mammoths mutating 3700 years ago (`animal-plant-evidence/animal-remains`)
 - Canaanite palace swallowed by a fissure 3700 years ago (`human-history-remains`)
@@ -29,6 +29,10 @@ Finally you also have a harmonic of the gas giant grand cycle which aligns with 
 To see what info is in the repo on notable dates, run a grep search: `grep -nr 3700 --include="*.md" .`
 
 Sometimes the dates are just slightly off (ex: 3650). You'd have to be more thorough with grep to find those.
+
+## Ben (Suspicious Observers) - 6000 year cycle
+
+See `LITERATURE/ben-davidson` for more.
 
 ## TODO
 

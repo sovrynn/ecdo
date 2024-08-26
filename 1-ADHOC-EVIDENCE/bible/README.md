@@ -1,7 +1,12 @@
 # Bible Myths
 
-Look at:
-- Worlds in Collision and Earth in Upheaval
+Are any past ECDO events recorded in the Bible?
+
+## Chan - 3 cataclysms?
+
+Chan believe there are 3 cataclysms recorded in the Bible: *"Did you understand that there are three cataclysms recorded in the Bible? Noah’s, Adam and Eve’s, and the one before that? If you missed it, check Genesis II."* [2]
+
+See `LITERATURE/chan-thomas`.
 
 ## Noaic deluge (Book of Genesis)
 
@@ -27,6 +32,14 @@ https://www.biblicalchronologist.org/products/Noah%27s_Flood_Happened_3520_BC.PD
 
 When Noah was 600 years old, on the seventeenth day of the second month, all the underground waters erupted from the earth, and the rain fell in mighty torrents from the sky.
 
+## Adam and Eve Flood
+
+The opening verses of the bible begin with:
+
+"1) In the beginning God created the heavens and the earth. 2) Now the earth was formless and void, and darkness was over the surface of the deep. And the Spirit of God was hovering over the surface of the waters."
+
+The second verse may refer to a cataclysm flood event.
+
 ## Isaiah 24
 
 17Terror and the pit and the snared
@@ -48,8 +61,12 @@ and it falls, and will not rise again.
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Genesis_flood_narrative
+2. https://nobulart.com/the-story-and-the-event/
 
-## TODO 
+## TODO
+
+Look at:
+- Worlds in Collision and Earth in Upheaval
 
 Psalm 104: “The waters stood above the mountains... they go up by the mountains” and Psalm 107 “The waves mount up to the heaven.”
 

@@ -8,7 +8,7 @@ Those islands on the western part of sunken land suggests those were the older p
 
 ![kk1](img/KKandamAtLGM_19500.png "kk1")
 
-[Analysis by AncientVoice](http://ancientvoice.wikidot.com/article:kumari-kandam) (Hard PDF copies in this folder)
+[Analysis by AncientVoice](http://ancientvoice.wikidot.com/article:kumari-kandam) (Hard PDF copies in `hard-copies`)
 
 Kumari Kandam as revealed through Bathymetric studies.
 

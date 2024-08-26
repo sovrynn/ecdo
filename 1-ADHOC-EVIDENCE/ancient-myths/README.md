@@ -1,21 +1,42 @@
 # Mythical ECDO evidence
 
-This folder is for documenting all myths that reference a potential ECDO event, most commonly by mentioning flooding. There are quite a few.
+This folder is for documenting all myths that reference a potential ECDO event, most commonly through flood myths. There are quite a lot.
 
-Info to look for:
-- specific dates
-- flood maps
-- detailed accounts
+Specifically, myths that can be approximately dated, reference specific flood areas, or contain detailed flood accounts are the most useful.
+
+See `ADHOC-EVIDENCE/bible` for Bible flood myths.
+
+## Contents
+
+- `hard-copies`: Hard copies of flood myth compilations.
+
+## Organized by approximate date
+
+Suspected ECDO 1 (1700 BC):
+- 1528 BC: Deucalion Greek flood
+- 2000 - 1900 BC: China Great Gun-Yu flood
+- 2000 - 1900 BC: Dangun Korea founding myth
+- 2000 - 1900 BC: India Manu flood
+
+Suspected ECDO 2 (5400 BC):
+- 5525 BC: India Dwarka
+
+Suspected ECDO 3 (9100 BC):
+- 9600 BC: Atlantis
 
 ## TODO leads to look into
 
 - Organize by date here
-- Gold mine (put a hard copy in here): https://talkorigins.org/faqs/flood-myths.html
+- Tiahuanaco
+- Easter island
 - The Bible, Egyptian legends and other stories from antiquity describe a solar event, often involving a black sun.
 - Altai megafloods
-- Manu flood (1500-1200 BCE)
 - Deucalion flood (1500 BCE)
 - Hawaiian flood (1000-1500 CE)
 - Popol Vuh, Maya flood (500-800 CE)
 - Atra-Hasis Epic Mesopotamia (1800-1700 BCE)
 	- Sumerian Flood Story (Eridu Genesis)
+
+## Sources
+
+https://talkorigins.org/faqs/flood-myths.html

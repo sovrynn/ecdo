@@ -6,7 +6,7 @@ There are several Indian flood myths.
 
 Check `img/` for all records.
 
-## Manu Deluge (1500 - 1200 BCE?)
+## Manu Deluge (2000 BC - 1900 BC)
 
 ![alt](img/manu.PNG "india myths")
 ![alt](img/manu2.PNG "india myths")
@@ -16,7 +16,9 @@ Check `img/` for all records.
 
 In the Manu story they mention that the only highest peak of Himalayas was dry called Navabandhan. So, it seems Himalayas were present in previous deluge as well.
 
-ChatGPT dates this to about 1500 - 1200 BCE, based on the dating of Vedic texts, which contain the Manu flood.
+There is a research paper by BB Lal which dates this flood to 2000 - 1900 BC using carbon dating. Paper in `hard-copies`:
+
+*"It relates to the history the Sarasvatī, which is a river par excellence in the Ṛigveda. She has been eulogized as the best of mothers (ambitame), the best of rivers (nadītame) and the best of goddesses (devitame) [RV 2.41.16]. She originated in the mountains and went all the way down to the sea (yatī giribhya ā samudrāt) [RV 7.95.2]. She was so powerful that she shattered the mountain peaks with her fast and powerful waves (iyam śuṣmebhir bisakhā ivārujat sānu girīṇām taviṣebhirūrmibhiḥ) [RV 6.61.2]."*
 
 ## Sinking of Dwarka – 5525 BCE
 

@@ -1,6 +1,6 @@
-# Edgar Cayce
+# Edgar Cayce (1877 - 1945)
 
-Absolutely need to look into his work on a pole shift, flooding, earthquakes, and volcanos.
+Published theories on pole shift, flooding, earthquakes, and volcanoes. His work may be worth looking into.
 
 Blog post about him:
 - https://www.lovetoknow.com/life/lifestyle/edgar-cayce-maps-his-prophecies-earth-explained
