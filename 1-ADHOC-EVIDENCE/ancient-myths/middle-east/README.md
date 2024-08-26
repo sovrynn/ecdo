@@ -34,7 +34,7 @@ It seems the Hittites were the people who lived in Turkey from the early 2nd mil
 
 Looking into this city: *"Level II, 1974-1836 BC ...was burned to the ground. Level Ib, 1798–1740 BC. After an abandoned period, the city was rebuilt over the ruins of the old and again became a prosperous trade center. The trade was under the control of Ishme-Dagan I, who was put in control of Assur when his father, Shamshi-Adad I, conquered Ekallatum and Assur. However, the colony was again destroyed by fire... At Level II, the destruction was so total that no wood survived for dendrochronological studies."* [2]
 
-This happens to line up with the account in `ADHOC-EVIDENCE/human-history-remains/human-built-structures` of a city destroyed by extremely high temperatures.
+This happens to line up with the account in `ADHOC-EVIDENCE/human-history-remains/human-built-structures` of a city, also in the Middle East, destroyed by extremely high temperatures at a similar date.
 
 Black Sea inundation of Ankara from around 1750-1700BC.
 - https://talkorigins.org/faqs/flood-myths.html
