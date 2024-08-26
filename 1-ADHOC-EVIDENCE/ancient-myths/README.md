@@ -28,7 +28,10 @@ Suspected ECDO 3 (9100 BC):
 
 - Organize by date here
 - Tiahuanaco
+	- The Great Idol of Tiahuanaco, 1959, by Arthur Posnansky
 - Easter island
+	- Island off west coast of SA with many large rock statues
+
 - The Bible, Egyptian legends and other stories from antiquity describe a solar event, often involving a black sun.
 - Altai megafloods
 - Deucalion flood (1500 BCE)

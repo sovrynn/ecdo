@@ -60,3 +60,9 @@ https://www.facebook.com/OhMyGreece/posts/these-mugs-are-3700-years-old-from-the
 "It makes sense that lineages that have likely originated in the same or nearby region at around the same time may have experienced similar catastrophes or events / interactions that impact male line demographics and drive migrations to particular regions at particular times."
 
 https://phylogeographer.com/20-haplogroup-heatmaps-from-various-regions-of-the-world/
+
+## Assyrian Dark Ages (1800 BC - 1400 BC)
+
+"The time between the collapse of Shamshi-Adad's kingdom in the 18th century BC and the rise of Assyria in the 14th century BC is often regarded by modern scholars as an Assyrian "Dark Age" due to the lack of sufficient historical evidence to clearly establish events during this time."
+
+https://en.wikipedia.org/wiki/Old_Assyrian_period#Assyrian_Dark_Age
