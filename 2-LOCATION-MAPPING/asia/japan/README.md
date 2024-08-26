@@ -24,7 +24,7 @@ Japan has no major flood myths. [4] When considering such a major event as an EC
 
 ## Safe Locations
 
-Despite all this, Japan has many tall mountains. [6] It's still likely that some locations may be safe during S1 -> S2.
+Despite all this, Japan has many tall mountains, not all of which are volcanoes. [6] It's still likely that some locations may be safe during S1 -> S2.
 
 ## Citations
 
