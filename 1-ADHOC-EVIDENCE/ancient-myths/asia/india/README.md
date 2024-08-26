@@ -12,11 +12,11 @@ Check `img/` for all records.
 ![alt](img/manu2.PNG "india myths")
 ![alt](img/manu3.PNG "india myths")
 
-"During the Manu deluge the flood was probably super high. Only 1 mountain peak in Himalaya was visible called Navabandhana. Current highest peaks are around 8000m. I do suspect there might be changes in between of heights of Himalaya as this happened at the end of golden age."
+During the Manu deluge the flood was probably super high. Only 1 mountain peak in Himalaya was visible called Navabandhana. Current highest peaks are around 8000m. I do suspect there might be changes in between of heights of Himalaya as this happened at the end of golden age.
 
 In the Manu story they mention that the only highest peak of Himalayas was dry called Navabandhan. So, it seems Himalayas were present in previous deluge as well.
 
-There is a research paper by BB Lal which dates this flood to 2000 - 1900 BC using carbon dating. Paper in `hard-copies`:
+There is a research paper by BB Lal (presented at ICHR) which dates this flood to 2000 - 1900 BC using carbon dating. Paper in `hard-copies`:
 
 *"It relates to the history the Sarasvatī, which is a river par excellence in the Ṛigveda. She has been eulogized as the best of mothers (ambitame), the best of rivers (nadītame) and the best of goddesses (devitame) [RV 2.41.16]. She originated in the mountains and went all the way down to the sea (yatī giribhya ā samudrāt) [RV 7.95.2]. She was so powerful that she shattered the mountain peaks with her fast and powerful waves (iyam śuṣmebhir bisakhā ivārujat sānu girīṇām taviṣebhirūrmibhiḥ) [RV 6.61.2]."*
 

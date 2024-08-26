@@ -7,7 +7,7 @@ Goal: Predict how frequent the ECDO event is.
 The current hypothesis is that the ECDO may occur approximately every 3700 years. Note that there is uncertainty in many of these dates.
 
 First of all, 1700 BC (~3700 years ago) appears to be a very historically significant time:
-- Many records of a "natural disaster" event - from India (Manu), China (Gun-Yu), Crete, Turkey, Pakistan (Mohenjo-Daro), Tiahuanaco, Easter Island (`ancient-myths`)
+- Many records of a "natural disaster" event - from India (Manu), China (Gun-Yu), Crete (Minoan), Turkey, Pakistan (Mohenjo-Daro), Tiahuanaco, Easter Island (`ancient-myths`)
 - Records of immigration in the Mediterranean area coinciding with the Greek Dark Ages (`human-history-remains`)
 - Mammoths mutating 3700 years ago (`animal-plant-evidence/animal-remains`)
 - Canaanite palace swallowed by a fissure 3700 years ago (`human-history-remains`)

@@ -1,6 +1,8 @@
 # Gordon Michael Scallion
 
-Known as a "contemporary prophet", he has published theories on flooding, earthquakes, and volcanoes. May be worth looknig into.
+Known as a "contemporary prophet", he has published theories on flooding, earthquakes, and volcanoes. May be worth looking into.
+
+Apparently he used to run the "Matrix Institute" in New Hampshire but I can't find it.
 
 ## "Doomsday" Flood Map
 

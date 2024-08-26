@@ -12,9 +12,9 @@ The flood level depicted is approximately 65m in modern-day China.
 
 Velikovsky's Worlds in Collision (`LITERATURE/velikovsky`), Chapter 4 page 100, has a compilation of the accounts of this flood during Emperor Yao's reign:
 
-“At that time the miracle is said to have happened that the sun during a span of ten days did not set, the forests were ignited, and a multitude of abominable vermin was brought forth.” 2 “In the life-time of Yao [Yahou] the sun did not set for ten full days and the entire land was flooded.” An immense wave “that reached the sky” fell down on the land of China. “The water was well up on the high mountains, and the foot-hills could not be seen at all.” (This recalls Psalm 104: “The waters stood above the mountains... they go up by the mountains” and Psalm 107 “The waves mount up to the heaven.”)" [Velikovsky Page 101]
+*“At that time the miracle is said to have happened that the sun during a span of ten days did not set, the forests were ignited, and a multitude of abominable vermin was brought forth.” 2 “In the life-time of Yao [Yahou] the sun did not set for ten full days and the entire land was flooded.” An immense wave “that reached the sky” fell down on the land of China. “The water was well up on the high mountains, and the foot-hills could not be seen at all.”* [Velikovsky Page 101]
 
-On the date discrepancy between this event and 1700 BC (`ADHOC-EVIDENCE/frequency`), Velikovsky has this to say: "Calculations were undertaken to establish the dates of the Emperor Yahou. On the basis of a remark that the constellation Niao, thought to be the constellation Hydra, culminated at sunset on the day of the vernal equinox in the time of Yahou, it was reckoned that the flood occurred in the twenty-third century before the present era, but this date has been questioned by many." [Velikovsky Page 103]
+On the dating of this event, Velikovsky has this to say: *"Calculations were undertaken to establish the dates of the Emperor Yahou. On the basis of a remark that the constellation Niao, thought to be the constellation Hydra, culminated at sunset on the day of the vernal equinox in the time of Yahou, it was reckoned that the flood occurred in the twenty-third century before the present era, but this date has been questioned by many."* [Velikovsky Page 103]
 
 ### Xia Dynasty dates (established 2070 BC?)
 

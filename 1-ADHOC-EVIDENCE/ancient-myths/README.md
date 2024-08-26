@@ -14,8 +14,8 @@ See `ADHOC-EVIDENCE/bible` for Bible flood myths.
 
 Suspected ECDO 1 (1700 BC):
 - 1528 BC: Deucalion Greek flood
-- 2000 - 1900 BC: China Great Gun-Yu flood
-- 2000 - 1900 BC: Dangun Korea founding myth
+- 1750 BC: Crete Minoan civilization catastrophes
+- 2000 - 1900 BC: China Great Gun-Yu flood, Dangun Korea founding myth
 - 2000 - 1900 BC: India Manu flood
 
 Suspected ECDO 2 (5400 BC):
