@@ -38,8 +38,14 @@ Thus flooding and Destruction of Krishna’s Dwarka occurred in 5525 BCE.
 
 ## Sinking of Kandam Kumari
 
+"Half of the land mass Kumari Kandam, which was south of India, sank in a great flood, destroying the first Tamil Sangam (literary academy). The people moved to the other half and established the second Tamil Sangam there, but the rest of Kumari too sank beneath the sea. The lone survivor was a Tamil prince named Thirumaaran, who managed to rescue some Tamil literary classics and swim with them to present-day Tamil Nadu." [1]
+
 I just noticed that the Tamil flood story is describing two consecutive events. The sinking of the (now submerged) southern land [S1>S2], and then when they’ve just set up shop again the same thing happens again, submerging land further north [S2>S1]. Very much like the Crete account. Be nice to find a possible date on the Tamil account.
 
 ## Kritayuga - Oldest Flood Deluge in Indian mythology
 
 One deluge that started the golden age - Kritayuga.
+
+## Citations
+
+1. https://talkorigins.org/faqs/flood-myths.html#Tamil

@@ -1,7 +1,5 @@
 # India
 
-Seems that there could be some safe spots in India.
-
 ![india](img/india.png "india")
 
 See `img/india-visualization.mp4` for a visualization.
@@ -16,6 +14,16 @@ India & Sri Lanka (incl. Mohenjo-Daro). ECDO rotations S1>S2 and S2>S1. The new 
 [1] https://physics.uwo.ca/~jlandstr/planets/webfigs/terrestrials/slide16.html
 [2] https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
 [3] https://talkorigins.org/faqs/flood-myths.html#Tamil
+
+## Flooded cities circa 1900 BC
+
+There is a paper by BB Lal (see `ADHOC-EVIDENCE/ancient-myths/asia/india`) that references multiple cities in North India that were flooded circa 1900 BC.
+
+![india flood sites](img/india-flood-sites-2.png "india flood sites")
+
+The exact locations are as follows:
+
+![india flood sites](img/india-flood-sites.png "india flood sites")
 
 ## Promising locations
 

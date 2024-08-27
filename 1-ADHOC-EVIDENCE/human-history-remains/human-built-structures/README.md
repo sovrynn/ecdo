@@ -2,17 +2,6 @@
 
 This folder is for structures humans have built that are potentially related to ECDO events.
 
-## TODO Potential Leads
-
-- Khafre pyramid (as detailed in Ethical Skeptic's thesis)
-- Derinkuyu underground city: https://en.wikipedia.org/wiki/Derinkuyu_underground_city
-- Temple at Dendera
-	- https://x.com/DGr8Awakening/status/1824267280303194435
-
-"Ancient Superhighways: 12,000-Year-Old Massive Underground Tunnels Stretch From Scotland To Turkey": https://ancient-archaeology.com/2024/05/ancient-superhighways-12000-year-old-massive-underground-tunnels-stretch-from-scotland-to-turkey/
-
-Search for (ancient) underground cities
-
 ## Khafre
 
 ![khafre](img/khafre-pyramid.jpg "khafre")
@@ -71,3 +60,20 @@ But there is a 1.5-meter interval in the Middle Bronze Age II stratum that caugh
 "We saw evidence for temperatures greater than 2,000 degrees Celsius," said Kennett, whose research group at the time happened to have been building the case for an older cosmic airburst about 12,800 years ago that triggered major widespread burning, climatic changes and animal extinctions. The charred and melted materials at Tall el-Hammam looked familiar, and a group of researchers including impact scientist Allen West and Kennett joined Trinity Southwest University biblical scholar Philip J. Silvia's research effort to determine what happened at this city 3,650 years ago."
 
 https://phys.org/news/2021-09-evidence-cosmic-impact-ancient-city.html
+
+## India Extended Flood Evidence
+
+There is a paper by BB Lal that dates ancient Indian cities that were flooded for an extended period, evidenced by excavating and investigating deposits in their remains, to ~1900 BC. See `ADHOC-EVIDENCE/ancient-myths/asia/india` for more.
+
+The specific locations referenced in that paper are explored more in `LOCATION-MAPPING/asia/india`.
+
+## TODO Potential Leads
+
+- Khafre pyramid (as detailed in Ethical Skeptic's thesis)
+- Derinkuyu underground city: https://en.wikipedia.org/wiki/Derinkuyu_underground_city
+- Temple at Dendera
+	- https://x.com/DGr8Awakening/status/1824267280303194435
+
+"Ancient Superhighways: 12,000-Year-Old Massive Underground Tunnels Stretch From Scotland To Turkey": https://ancient-archaeology.com/2024/05/ancient-superhighways-12000-year-old-massive-underground-tunnels-stretch-from-scotland-to-turkey/
+
+Search for (ancient) underground cities
