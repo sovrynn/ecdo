@@ -25,6 +25,8 @@ The exact locations are as follows:
 
 ![india flood sites](img/india-flood-sites.png "india flood sites")
 
+The approximate elevation of this area is 100m - 300m.
+
 ## Promising locations
 
 - Varanasi

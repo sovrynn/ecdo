@@ -10,7 +10,7 @@ What can humanity's history and remains tell us about potential past ECDO events
 
 # Analysis
 
-## Greek Dark Ages
+## Greek Dark Ages (Late Bronze Age collapse, 1200 BC)
 
 ![greek dark ages](img/greek-dark-ages.jpg "greek dark ages")
 
@@ -22,7 +22,7 @@ The maps illustrate population distributions over the past 6ky, spanning the Gre
 [2] https://annas-archive.org/scidb/10.1038/sdata.2016.34
 [3] https://x.com/nobulart/status/1807050060376457676
 
-## Europe Migration
+## Europe Migration (Late Bronze Age collapse)
 
 ![migrations 1200](img/1200-migrations.jpg "migrations 1200")
 
@@ -63,6 +63,6 @@ https://phylogeographer.com/20-haplogroup-heatmaps-from-various-regions-of-the-w
 
 ## Assyrian Dark Ages (1800 BC - 1400 BC)
 
-"The time between the collapse of Shamshi-Adad's kingdom in the 18th century BC and the rise of Assyria in the 14th century BC is often regarded by modern scholars as an Assyrian "Dark Age" due to the lack of sufficient historical evidence to clearly establish events during this time."
+*"The time between the collapse of Shamshi-Adad's kingdom in the 18th century BC and the rise of Assyria in the 14th century BC is often regarded by modern scholars as an Assyrian "Dark Age" due to the lack of sufficient historical evidence to clearly establish events during this time."*
 
 https://en.wikipedia.org/wiki/Old_Assyrian_period#Assyrian_Dark_Age

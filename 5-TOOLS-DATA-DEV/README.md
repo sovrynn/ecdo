@@ -32,6 +32,14 @@ Lat/long follows a Cartesian coordinate system. East is right on the x-axis, Nor
 
 In order to find how much a point rotates about a pivot, find the latitude difference, the distance from the pivot, and then rotate the latitude around the pivot's latitude, extending the same distance.
 
+## Search engine
+
+Google search tricks:
+- https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/
+- `X AROUND([word #]) Y`
+
+SearXNG metasearch: https://searx.nobulart.com
+
 ## TODO Other Tools
 
 Globe mapping librariers:

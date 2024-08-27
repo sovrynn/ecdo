@@ -1,6 +1,16 @@
 # Date Anomalies
 
-Tracking potential causes for date anomalies.
+Tracking potential causes for date anomalies, which might explain the differences in dates between cataclysms across cultures.
+
+## Heat's effect on Carbon-14 dating
+
+*"Effects of fires and biofractionation of carbon isotopes on results of radiocarbon dating of old textiles:"*
+
+*"This carboxylation process involves carbon-containing combustion gases, CO and CO2, in the presence of silver cations, water and heat. As a result, a significant additional amount of14C and13C atoms incorporate into the textile cellulose structure as a portion of carboxy-groups."*
+
+Extra carbon-14 would make the carbon dating give a more recent date than the actual older date. It's possible that the energy from the Sun could significantly change the amount of carbon in the organic material. More info about "burned cities" in `ADHOC-EVIDENCE/human-history-remains/human-built-structures`.
+
+https://www.sciencedirect.com/science/article/abs/pii/S0305440396900096
 
 ## 687 BC Calendar Shift
 
