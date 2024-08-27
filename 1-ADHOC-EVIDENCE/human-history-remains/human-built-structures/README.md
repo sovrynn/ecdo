@@ -1,6 +1,6 @@
 # Human Built ECDO-related Structures
 
-This folder is for structures humans have built that are potentially related to ECDO events.
+This folder is for structures humans have built that are potentially related to ECDO events. A lot of this page is actually investigating the remains of cities that seem to have potentially been destroyed by ECDO events.
 
 ## Khafre
 

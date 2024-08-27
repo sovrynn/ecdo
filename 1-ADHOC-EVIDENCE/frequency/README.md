@@ -8,10 +8,12 @@ The current hypothesis is that the ECDO may occur approximately every 3700 years
 
 First of all, 1700 BC (~3700 years ago) appears to be a very historically significant time:
 - Many records of a "natural disaster" event - from India (Manu), China (Gun-Yu), Crete (Minoan), Turkey, Pakistan (Mohenjo-Daro), Tiahuanaco, Easter Island (`ancient-myths`)
-- Records of immigration in the Mediterranean area coinciding with the Greek Dark Ages (`human-history-remains`)
+- Late Bronze Age Collapse
+	- Evidence of destruction of many cities in the Middle East around this time (`human-history-remains/human-built-structures`)
+		- Canaanite palace swallowed by a fissure 3700 years ago (`human-history-remains`)
+		- Tall el-Hammam city melted by extreme temperature ~3700 years ago (`human-history-remains/human-built-structures`)
+	- Records of immigration in the Mediterranean area coinciding with the Greek Dark Ages (`human-history-remains`)
 - Mammoths mutating 3700 years ago (`animal-plant-evidence/animal-remains`)
-- Canaanite palace swallowed by a fissure 3700 years ago (`human-history-remains`)
-- Tall el-Hammam city melted by extreme temperature ~3700 years ago (`human-history-remains/human-built-structures`)
 
 If we go back 3700 more years to 5400 BC, there is evidence as well:
 - Noahic deluge potentially in 5200 BC, Book of Genesis (`bible`)

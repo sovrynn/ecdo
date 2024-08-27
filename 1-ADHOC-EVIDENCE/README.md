@@ -7,7 +7,7 @@ This directory contains evidence of the ECDO which is not necessarily scientific
 Old evidence from humans:
 - `ancient-myths`: Myths that may reference past ECDO events.
 - `bible`: Investigation of potentially relevant accounts from the Bible.
-- `human-history-remains`: Learning from human history and remains.
+- `human-history-remains`: Learning from human history and human/civilizational remains.
 
 Old evidence from the world around us:
 - `animal-plant-evidence`: Biological evidence (excluding humans) of past ECDO events, such as frozen animal remains.

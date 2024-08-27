@@ -4,7 +4,7 @@ What can humanity's history and remains tell us about potential past ECDO events
 
 ## Contents
 
-- `human-built-structures`: Human-built structures that may be related to the ECDO.
+- `human-built-structures`: Human-built structures, such as monuments or ancient cities, potentially related to the ECDO.
 - `human-remains`: Human remains that may be... interesting.
 - `oldest-cities`: Can the oldest present-day cities tell us anything about the ECDO?
 
