@@ -11,10 +11,6 @@ This folder is for government intervention related to the ECDO.
 - Seedbanks
 - NWO deadline 2030
 
-## News
-
-At one of the scientific meetings that Major White attended in the Pentagon in early 1948, the scientists discussed the advisability of alerting the public to the pending polar-flip phenomenon.
-
 ## Nobulart quote
 
 Its a progressive, electromagnetically interfaced heating event [1]. What if we could somehow retard the process by intervening in the earth-solar coupling [2], and perhaps even the core-mantle coupling through the application of magnetohydrodynamics with the objective of influencing magma viscosity? [3][4][5]
@@ -66,3 +62,9 @@ The book in question is Sitchen's The 12th Planet (Cue groans). I am a aware tha
 ![marduk](img/marduk2.jpg "marduk")
 ![marduk](img/marduk3.jpg "marduk")
 ![marduk](img/marduk4.jpg "marduk")
+
+## US Government
+
+At one of the scientific meetings that Major White attended in the Pentagon in early 1948, the scientists discussed the advisability of alerting the public to the pending polar-flip phenomenon.
+
+https://nobulart.com/the-flip-of-the-earth/
