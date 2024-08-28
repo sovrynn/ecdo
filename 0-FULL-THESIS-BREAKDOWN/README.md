@@ -10,13 +10,14 @@ Notable ECDO content:
 - `s1-to-s2`: All matters concerning the transition from S1 to S2, and an ECDO rotation in general.
 - `equatorial-bulge`: Investigating how the equatorial bulge will interact with the ECDO.
 
-Prerequisite knowledge:
-- `core-mantle`: Information on core-mantle coupling.
-- `dzhanibekov`: Information on Dzhanibekov effect.
-
 ECDO related:
 - `s2`: All about S2.
 - `s2-to-s1`: All about S2 to S1.
+- `tectonic-plates`: How tectonic plates will interact with the ECDO.
+
+Prerequisite knowledge:
+- `core-mantle`: Information on core-mantle coupling.
+- `dzhanibekov`: Information on Dzhanibekov effect.
 
 ## Information that doesn't belong here
 
@@ -28,16 +29,14 @@ Anecdotal evidence about the impending rotation, and predictions about it, belon
 
 Prior knowledge to understand:
 - core-mantle magnetic coupling
-- Difficulties understanding the Dzhanibekov effect starting with the finding of the principal axes of inertia of an object in rotation including the Earth
+- Dzhanibekov effect starting with the finding of the principal axes of inertia of an object in rotation including the Earth
     - math definition: eigenvectors of the inertia tensor
     - inertia tensor?
 
 ECDO phenomena to flesh out:
 - All differences between S1 and S2
     - Temperature changes (very cold during S2?)
-    - poles in S2
 - time spent in S2
 - transition from S2 back to S1 (slow or fast?)
-- Bulge on equator? S1 vs S2?
 - Verification of Ethical Skeptic's thesis (hard to know without knowing if there's any information he's not sharing)
 - why 104 degrees?

@@ -165,6 +165,13 @@ The points of greatest latitude change are halfway between these boundaries:
 - 149 meridian 7 N
 - 149 meridian 83 S
 
+## Citations
+
+1. Earth layers: https://en.wikipedia.org/wiki/Internal_structure_of_Earth
+2. Earth crust thickness: https://www.geolsoc.org.uk/Geoscientist/Archive/August-2018/Roberts-Crust
+3. Tectonic plate maps: https://earthhow.com/category/geology/plate-tectonics/
+4. https://grace.jpl.nasa.gov/data/get-data/gia-trends/
+
 ## TODO things to look into
 
 This is still an incomplete and simplistic model. Rather than eyeballing it, you could graph the equatorial bulge as a spectrum for each point and then compare areas before/after the rotation together with plate boundaries. This could give you a much better picture of what might happen.
@@ -178,10 +185,3 @@ How fast will the equatorial bulge shift? What if its immediate, responding in i
 These graphics are lacking, get a mapping library up and running.
 
 You could potentially incorporate data about plates moving in certain directions, and how they meet at their boundaries (divergent/convergent), to get better predictions here.
-
-## Citations
-
-1. Earth layers: https://en.wikipedia.org/wiki/Internal_structure_of_Earth
-2. Earth crust thickness: https://www.geolsoc.org.uk/Geoscientist/Archive/August-2018/Roberts-Crust
-3. Tectonic plate maps: https://earthhow.com/category/geology/plate-tectonics/
-4. https://grace.jpl.nasa.gov/data/get-data/gia-trends/

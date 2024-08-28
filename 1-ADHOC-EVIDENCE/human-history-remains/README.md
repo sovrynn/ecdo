@@ -32,12 +32,6 @@ Could this have been the aftermath of an ECDO event?
 
 Dates that come up often when investigating the ECDO. Check `ADHOC-EVIDENCE/ancient-myths`.
 
-## Gap in Chinese history
-
-"If counting from the following Shang dynasty which has been universally recognized by historians, China has only about 3,700 years of recorded history, which is still a big gap from 5,000 years."
-
-https://en.wikipedia.org/wiki/Five_thousand_years_of_Chinese_civilization
-
 ## Population Sample Data
 
 Reset @ 3,700 YBP?
@@ -47,13 +41,6 @@ Reset @ 3,700 YBP?
 ![population sample](img/population-sample3.jpg "population sample")
 
 https://annas-archive.org/scidb/10.1038/sdata.2016.34
-
-## Crete 3700 year old mugs
-
-![crete mugs](img/crete-mugs-3700.jpg "crete")
-
-These intact beauties were buried on Crete 3700 years ago.
-https://www.facebook.com/OhMyGreece/posts/these-mugs-are-3700-years-old-from-the-minoan-civilisation-heraklion-museum-cret/238641585966157/
 
 ## Haplogroup data
 
@@ -66,3 +53,9 @@ https://phylogeographer.com/20-haplogroup-heatmaps-from-various-regions-of-the-w
 *"The time between the collapse of Shamshi-Adad's kingdom in the 18th century BC and the rise of Assyria in the 14th century BC is often regarded by modern scholars as an Assyrian "Dark Age" due to the lack of sufficient historical evidence to clearly establish events during this time."*
 
 https://en.wikipedia.org/wiki/Old_Assyrian_period#Assyrian_Dark_Age
+
+## Gap in Chinese history
+
+"If counting from the following Shang dynasty which has been universally recognized by historians, China has only about 3,700 years of recorded history, which is still a big gap from 5,000 years."
+
+https://en.wikipedia.org/wiki/Five_thousand_years_of_Chinese_civilization

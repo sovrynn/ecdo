@@ -26,15 +26,17 @@ Going back another 3700 years to 9100 BC:
 
 Finally you also have a harmonic of the gas giant grand cycle which aligns with these dates (`solar-system`).
 
+## Alternate theory: 6000 year cycle
+
+In his thesis, Ethical Skeptic makes some mentions of a potential 6000 year cycle and provides supporting evidence.
+
+Ben (Suspicious Observers) also endorses the 6000 year cycle view. See `LITERATURE/ben-davidson` for more.
+
 ## Grep searching notable dates
 
 To see what info is in the repo on notable dates, run a grep search: `grep -nr 3700 --include="*.md" .`
 
 Sometimes the dates are just slightly off (ex: 3650). You'd have to be more thorough with grep to find those.
-
-## Ben (Suspicious Observers) - 6000 year cycle
-
-See `LITERATURE/ben-davidson` for more.
 
 ## TODO
 

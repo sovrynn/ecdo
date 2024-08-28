@@ -2,7 +2,7 @@
 
 This folder is for evidence coming from samples of the Earth.
 
-## Clay
+## Varved Clay
 
 ![clay](img/varved-clay1.jpg "clay")
 ![clay](img/varved-clay2.jpg "clay")

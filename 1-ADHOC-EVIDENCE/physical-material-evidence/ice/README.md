@@ -2,7 +2,15 @@
 
 There's some bond event data overlaid with predicted ECDO dates in `ADHOC-EVIDENCE/solar-system`.
 
-## Ice melting?
+## Gas giants grand cycle harmonic and bond event data
+
+![gas giant harmonic](img/gas-giant-bond-event.jpg "gas giant harmonic")
+
+There is a 4627 year gas giant master cycle. If you divide it by 5, and break time down into intervals, every fourth coincides with a potential ECDO event.
+
+It is referenced against historical bond event (ice-rafting) data.
+
+## Speculation on melting ice caps
 
 It would require centuries - possibly a millennium or more to completely melt Antarctic's ice sheet at the equator. 30 million gigatonnes of ice is roughly 5-6 times the mass of Australia's exposed (above sea level) land. Only a tiny fraction of it is going to melt during 20-40 years of nuclear-type winter, even at the equator. Same goes for Greenland. Probably be too cold for any deep ice to melt. Think snowpiercer.
 
@@ -14,14 +22,6 @@ That sort of narrows it down to 2 options:
 2. S2 doesn't persist for nearly as long as S1
 
 If logic dictates that even 3700 years is not nearly long enough to melt the ice, then that's fairly conclusive proof that S2 is shorter than S1.
-
-## Gas giants grand cycle harmonic and bond event data
-
-![gas giant harmonic](img/gas-giant-bond-event.jpg "gas giant harmonic")
-
-There is a 4627 year gas giant master cycle. If you divide it by 5, and break time down into intervals, every fourth coincides with a potential ECDO event.
-
-It is referenced against historical bond event (ice-rafting) data.
 
 ## Antarctic ice-core temperature dataset
 

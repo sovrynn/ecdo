@@ -2,6 +2,20 @@
 
 This folder is for understanding S2, which is the state of the Earth after the first ECDO rotation.
 
+## Contents
+
+- `coastline-changes`: Predicting coastline changes in S2.
+
+# Basics of S2
+
+## New equator
+
+Approximate line:
+
+![new equator 2d map](img/Mollweide-Projection.webp "new equator 2d map")
+
+See `FULL-THESIS-BREAKDOWN/equatorial-bulge` for a detailed visualization of the new equator.
+
 ## Duration
 
 The Great Gun-Yu flood of China, around 1900 BC, was said to have lasted 22 years. See `ADHOC-EVIDENCE/ancient-myths/asia/china`.
@@ -17,12 +31,6 @@ New south pole:
 - Present day location: Pacific Ocean
 - Lat/long: (14, -149)
 - Above the equator
-
-## New equator
-
-![new equator 2d map](img/Mollweide-Projection.webp "new equator 2d map")
-
-See `FULL-THESIS-BREAKDOWN/equatorial-bulge` for a detailed visualization of the new equator.
 
 ## TODO
 

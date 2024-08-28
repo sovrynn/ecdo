@@ -14,4 +14,4 @@ If you look at the map of biodiversity hotspots, there's a lot of overlap with h
 
 ## Citations
 
-https://www.researchgate.net/figure/A-Species-density-map-for-4-967-freshwater-fish-species-Density-was-calculated-as_fig3_366847384
+- https://www.researchgate.net/figure/A-Species-density-map-for-4-967-freshwater-fish-species-Density-was-calculated-as_fig3_366847384

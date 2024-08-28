@@ -1,4 +1,4 @@
-# Rotation Vector Field
+# Rotation Path and Speed
 
 The purpose of this document is to understand and be able to calculate what direction and speed the rotation will be, at any point on the surface of the Earth, during S1 -> S2.
 

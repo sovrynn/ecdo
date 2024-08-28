@@ -43,13 +43,13 @@ Black Sea inundation of Ankara from around 1750-1700BC.
 		- https://x.com/nobulart/status/1801746221809209701?s=46
 - https://x.com/nobulart/status/1822018953620943257?s=46
 
-### Turkey additional leads
-
-Research Paper "Noah's Flood: The New Scientific Discoveries About the Event that Changed History" by William Ryan and Walter Pitman
-
-- 6800 BCE Black Sea flood: https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis
-
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Hittites
 2. https://en.wikipedia.org/wiki/K%C3%BCltepe
+
+## TODO Turkey additional leads
+
+Research Paper "Noah's Flood: The New Scientific Discoveries About the Event that Changed History" by William Ryan and Walter Pitman
+
+- 6800 BCE Black Sea flood: https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis

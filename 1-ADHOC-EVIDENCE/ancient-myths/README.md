@@ -10,13 +10,22 @@ See `ADHOC-EVIDENCE/bible` for Bible flood myths.
 
 - `hard-copies`: Hard copies of flood myth compilations.
 
+## Sources
+
+- Massive flood myth compilation: https://talkorigins.org/faqs/flood-myths.html (Hard copy in `hard-copies`)
+
 ## TODO leads to look into
 
-- Organize by date here
+Organize myths by date here.
+
 - Tiahuanaco
 	- The Great Idol of Tiahuanaco, 1959, by Arthur Posnansky
 - Easter island
 	- Island off west coast of SA with many large rock statues
+
+South America:
+- Peru, story of the Sun standing still in the sky. (If the Sun was near noon when the rotation started it may have appeared stationary).
+- In South America myths of the sun setting in the wrong place.
 
 - The Bible, Egyptian legends and other stories from antiquity describe a solar event, often involving a black sun.
 - Altai megafloods
@@ -26,6 +35,4 @@ See `ADHOC-EVIDENCE/bible` for Bible flood myths.
 - Atra-Hasis Epic Mesopotamia (1800-1700 BCE)
 	- Sumerian Flood Story (Eridu Genesis)
 
-## Sources
-
-- Massive flood myth compilation: https://talkorigins.org/faqs/flood-myths.html (Hard copy in `hard-copies`)
+Malaysian and Sumatran stories describe a long night they feared would never end.

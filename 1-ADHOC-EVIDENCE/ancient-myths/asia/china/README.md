@@ -40,12 +40,6 @@ Source: https://www.science.org/doi/10.1126/science.aaf0842
 
 PDF included in this folder.
 
-### Great flood coincidental supernova?
-
-"Chinese historian dates exploded supernova to time of legendary Emperor Yao as told in ancient annals"
-
-https://www.scmp.com/news/china/science/article/3204241/chinese-historian-dates-exploded-supernova-time-legendary-emperor-yao-told-ancient-annals
-
 ## Chinese Nuwa Inundation Myth
 
 There is a Chinese inundation myth which matches China's expected rotation from S1 to S2.
@@ -59,3 +53,7 @@ https://en.wikibooks.org/wiki/Chinese_Stories/N%C3%BCwa
 1. https://en.wikipedia.org/wiki/Great_Flood_(China)
 2. https://en.wikipedia.org/wiki/Xia_dynasty#Gun,_Yu,_and_the_flood
 3. https://theculturetrip.com/asia/china/articles/chinas-4000-year-old-great-flood-myth-verified-by-science
+
+## TODO
+
+"Chinese historian dates exploded supernova to time of legendary Emperor Yao as told in ancient annals": https://www.scmp.com/news/china/science/article/3204241/chinese-historian-dates-exploded-supernova-time-legendary-emperor-yao-told-ancient-annals
