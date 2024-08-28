@@ -20,7 +20,9 @@ New south pole:
 
 ## New equator
 
-See `FULL-THESIS-BREAKDOWN/equatorial-bulge` for a visualization of the new equator.
+![new equator 2d map](img/Mollweide-Projection.webp "new equator 2d map")
+
+See `FULL-THESIS-BREAKDOWN/equatorial-bulge` for a detailed visualization of the new equator.
 
 ## TODO
 
