@@ -23,8 +23,6 @@ https://en.wikipedia.org/wiki/Deucalion#Deluge_accounts
 
 https://en.wikipedia.org/wiki/Atlantis
 
-AFAIK, Atlantis is North America.
-
 ## Kataklysmos and Ekpyrosis
 
 Censorinus makes mention of this water/fire sequence as being coincident to a planetary cycle in De Die Natali (238 AD): "There is a period called 'the supreme year' by Aristotle, at the end of which the sun, moon and all the planets return to their original position. This 'supreme year' has a great winter, called by the Greeks 'kataklysmos', which means deluge, and a great summer, called by the Greeks 'ekpyrosis' or combustion of the world. The world, actually, seems to be inundated and burned alternately in each of these epochs".
