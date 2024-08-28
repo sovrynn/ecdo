@@ -4,7 +4,6 @@ This folder is for understanding how the core and mantle are coupled (magnetical
 
 ## Research Papers
 
-This is recommended by Nobulart:
-https://annas-archive.org/md5/18c9a31311c4b4779d90bf955d4cbafe
+This is recommended by Nobulart: https://annas-archive.org/md5/18c9a31311c4b4779d90bf955d4cbafe
 
 There's also several PDFs of papers in `papers/`.

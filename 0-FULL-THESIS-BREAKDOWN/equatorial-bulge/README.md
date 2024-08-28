@@ -26,11 +26,11 @@ Total: 12.7k km
 
 These layers will likely react differently when it comes to the equatorial bulge. For example, read this analogy about the Earth's mantle: *"The memory effect in the Earth’s mantle is akin to that occurring in cold honey after a spoon creates a depression in its surface, and the honey subsequently returns to a flat surface under gravity driven viscous flow. It may take the honey as much as a half an hour to return to being flat, depending on how cold it is."* [4]
 
-It's possible that:
-- The more flowing, less dense layers that are further from the center and spinning faster will react faster, and to a greater extent, to the new bulge
-- The denser layers that are closer to the center of the Earth and spinning slower will react slower and to a lesser extent
+Also note this comment from Ethical Skeptic (`LITERATURE/ethical-skeptic`): *"We don’t know the plastic dynamics of the mantle, asthenosphere, and lithosphere, except to note that they are all indeed plastic at 932 to 4000 degrees C. They would deform immediately. during the days of the shift. Probably not a pleasant thing, even if one was up above the flood-wash."*
 
-After the S1 -> S2 rotation, the **crust and upper mantle**, which consist of the rigid lithosphere layer resting on top of the semi-fluid asthenosphere, and **make up the ~700 km outermost layer of Earth**, may react immediately or quickly to the new equatorial bulge, disproportionate to the deeper layers of the Earth.
+While it's not clear exactly how it will play out, it's possible that:
+- The more flowing, less dense layers that are further from the center and spinning faster will deform and adjust more quickly
+- The denser layers that are closer to the center of the Earth and spinning slower will deform slower
 
 ## Basic Crust Bulge Changes after S1 -> S2
 
@@ -38,9 +38,11 @@ How might the equatorial bulge react to the ECDO rotation?
 
 Simply, I hypothesize that locations previously on the equator that move closer to the poles will move closer to the Earth's core, and those moving from the poles to the equator will move further away.
 
-Estimating actual quantities here is important though, and the solution to this may lie in estimating a ratio for how much of the 43 km equatorial bulge the crust will accomodate after the rotation.
+## Oceanic Equatorial Bulge
 
-As an example, if we assume that the Earth immediately shifts to accomodate 20% of the equatorial bulge, and the upper mantle and crust react proportionate to their thickness to accomodate the shift, then the crust would accomodate **433 m** of equatorial bulge.
+The ocean also bulges due to the equatorial bulge - see this quote from Ethical Skeptic: *"The difference between ocean heights globally is about 680 ft, as compared to a perfect sphere. When the Earth changes orientation, the oceans take on a different set of positions and ‘bulges’ if you will, still in that 680 fit differential from lowest to highest. So dry land appears where ocean once was, and some land gets submerged, until the Earth rights itself back into position 10 to 50 years later."*
+
+We will have to take this into account in our analysis.
 
 ## Comparing Earth's crust in S1 and S2 - Raw data
 
@@ -61,7 +63,7 @@ Now, take a look at this sequence of screenshots that shows the approximate line
 ![equator](img/equator7.png "new equator")
 ![equator](img/equator8.png "new equator")
 
-Note that there are now huge swaths of land on the equator - Eurasia, the Arctic, the full length of South America, Antarctica, Australia, and the shallow area around Indonesia. In fact, the only significant stretches of ocean are a slice of the Atlantic between North and South America and slices of the Pacific around Antarctica.
+Note that there are now huge swaths of land on the equator - Eurasia, the Arctic, the full length of South America, Antarctica, Australia, and the shallow area around Indonesia. In fact, the only significant stretches of ocean are a slice of the Atlantic between North and South America and slices of the Pacific around Antarctica. This is in stark contrast to now, where the equator only runs through the top of South America, South Africa, and Indonesia, and a huge swath of the Pacific lies on the equator.
 
 ## Zones of increasing and decreasing latitude
 
@@ -115,11 +117,11 @@ My analysis for the major plates follows [3]:
 
 ![eurasia](img/eurasian-plate.webp "eurasia")
 
-The entire Eurasian plate is essentially contained within a slice that will move closer to the equator. In fact, the equator will run smack dab across the Eurasian plate. Therefore, I predict that the Eurasian plate will rise in elevation and experience a recession of its coastlines, particularly in the Arctic region.
+The entire Eurasian plate is essentially contained within a slice that will move closer to the equator. In fact, the equator will run smack dab across the Eurasian plate. Therefore, I predict that the Eurasian plate will rise in elevation, particularly in the Arctic region.
 
 ![notam](img/notam-plate.webp "notam")
 
-The North American plate currently does not lie on the equator. After the rotation, the equator will run through the east side of this plate, crossing through the north. Therefore I predict the North American Plate, at least the northern and eastern parts, will rise in elevation and experience a coastline recession.
+The North American plate currently does not lie on the equator. After the rotation, the equator will run through the east side of this plate, crossing through the north. Therefore I predict the North American Plate, at least the northern and eastern parts, will rise in elevation.
 
 ![sotam](img/sotam-plate.webp "sotam")
 
@@ -131,23 +133,21 @@ This is a very interesting region. The equator currently runs through the dotted
 
 ![africa](img/africa-plate.webp "africa plate")
 
-The Africa plate would fall as it is centered in a slice that moves away from the equator. As such, it could see its coastlines move inland, potentially quite a bit.
-
-In particular, the Khafre Pyramid is located on the north tip of the Africa plate, which would explain its inundation of 175m above current sea level. Do note that the north tip of the Africa plate runs close to a boundary of 0 latitude change, so this 175m might be a minor inundation compared to South Africa, which is closer to the point of greatest movement from the equator.
+The Africa plate would fall as it is centered in a slice that moves away from the equator. As such, we would expect it to fall.
 
 ## Shallow seas - evidence of receding coastlines?
 
-What's interesting about the predictions of receding coastlines in the Eurasian continent, east North America and southern tip of South America is that there are large areas of shallow oceans in these areas surrounding the coast. These could be evidence of being coastlines in past ECDO S2 states.
+What's interesting about the predictions of areas that may rise in elevation is that many of them have shallow oceans in the same areas. For example, the Arctic region, east North America, and South America all have areas of shallow ocean. It's possible that these areas will rise above the water level in S2.
 
-## Sea Level Rise? China Gun-Yu Flood, Khafre Pyramid
+## Taking the oceanic equatorial bulge into account
 
-This model also has to accomodate China's Great Gun-Yu flood, during which east China was inundated to an approximate level of 65 m for 22 years. See `ADHOC-EVIDENCE/ancient-myths/asia/china` for details.
+One interesting data point to take into account is China's Great Gun-Yu flood, during which east China's coastline rose about 65 m for 22 years. See `ADHOC-EVIDENCE/ancient-myths/asia/china` for details.
 
-It's possible that the displacement of large swaths of ocean from the equator results in a sea level rise. If so, that would explain why China, which is expected to rise slightly after the rotation as it moves to the equator, still experienced prolonged inundation. The corresponding sea level rise would then have to be slightly higher than 65 m to account for the elevation rise.
+China is in a strip that is expected to rise in elevation. So what could explain its prolonged coastline rise?
 
-However we also have to take the Khafre Pyramid into account, which experienced 175 m of prolonged inundation. The Khafre Pyramid is expected to fall in elevation slightly, which caps the potential sea level rise.
-
-These two data points would put the potential sea level rise between ~(65m, 175m).
+Currently I see two possible explanations for this:
+- greater oceanic bulge at the equator resulting in rising coastline (although this would be counteracted by the rise in the continental crust)
+- displacement of large swaths of ocean from the equator causing a global sea level rise
 
 ## Minor analysis sections
 
@@ -165,25 +165,15 @@ The points of greatest latitude change are halfway between these boundaries:
 - 149 meridian 7 N
 - 149 meridian 83 S
 
-### S1 -> S2 inundation off the table?
-
-It's important to note that the temporary inundation from the displacement of the oceans would still occur in the expected quick S1 -> S2 rotation - but then the oceans would recede to (or remain at) the new coastlines.
-
-## Violent Tectonic Plates Prediction
-
-Likely, the tectonic plates that move significantly relative to the equatorial bulge will have very violent reactions with surrounding plates during the ECDO rotation.
-
 ## TODO things to look into
 
 This is still an incomplete and simplistic model. Rather than eyeballing it, you could graph the equatorial bulge as a spectrum for each point and then compare areas before/after the rotation together with plate boundaries. This could give you a much better picture of what might happen.
 
-More precision to test the model:
-- Kumari Kandam
-- Get more data points.
+More S2 coastline data points to refine the model (Ex: Kumari Kandam).
 
-It's not immediately clear how water will interact with the equatorial bulge. For example do plates that move away from the equator sink to have a deeper sea, taking in water, or do they shave their equatorial ocean bulge off, letting off water?
+The oceanic bulge's interaction with the ECDO rotation is still not entirely clear. Does the ocean bulge more or less than the continental crust? Do plates that move away from the equator sink to have a deeper sea, taking in water, or do they shave their equatorial ocean bulge off, letting off water?
 
-How fast could the equatorial bulge shift to maintain its shape around the rotational axis if Earth were to suddenly rotate? What if its immediate, responding in its softest layers, with perhaps a slight bounce back as the other more solid layers take time to adjust?
+How fast will the equatorial bulge shift? What if its immediate, responding in its softest layers, with perhaps a slight bounce back as the other more solid layers take time to adjust?
 
 These graphics are lacking, get a mapping library up and running.
 

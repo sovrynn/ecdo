@@ -17,4 +17,5 @@ And here then unpleasant analogies come to mind with our Earth rotating in weigh
 ## Video
 
 This video is a good explanation of the Dzhanibekov effect. TES hypothesis adds that the core has decoupled from the mantle, so the effect is limited to less than 180 degree flip before the outer layers find equilibrium again, and it seems that this is at 104 degrees. If the core and mantle remained locked, the flip would be 180 degrees.
+
 https://youtu.be/NJLdW4DHRcA
