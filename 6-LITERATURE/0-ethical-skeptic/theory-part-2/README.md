@@ -1,5 +1,13 @@
 # Theory Part 2: Flooding of the Khafre Pyramid
 
+[Here](https://theethicalskeptic.com/2023/12/18/hidden-in-plain-sight/) is the original thesis.
+
+## Comment Quotes
+
+I suspect that the ocean levels are far higher than they were back before this Khafre-marked inundation. We lost a LOT of civilization either interred under the mud-flow from the deluge or buried under the sea with the residual higher sea level. If Gobekli Tepe existed out of the box 10,400 bce, then I suspect a lot more civilization did as well at that same time. Its proximity ‘Eden’ (the garden plain just below it) however, might suggest a boundary in time (???).
+
+Yes, this 575 feet seems excessive for a regional flood. Have not resolved that yet – other than to note that the Arabian Peninsula is its own tectonic plate, subject to rising and falling, based upon large scale mantle movements.
+
 ## Summary
 
 This thesis is undoubtedly fascinating. It uses one of the Egyptian pyramids, to infer that Earth has had massive floods, and additionally, that the Pyramid was built as a marker for an important planetary state(s).

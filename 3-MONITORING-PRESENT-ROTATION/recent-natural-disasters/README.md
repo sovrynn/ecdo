@@ -8,16 +8,6 @@ Uses solar system metrics (planetary geometry, movements and solar activity) to 
 - https://youtu.be/O_OB9se30-Q
 - https://ssgeos.org
 
-## China
-
-Linjiang flood
-https://x.com/volcaholic1/status/1817577086879707332
-
-## USA
-
-Invasion of dragonflies
-https://x.com/volcaholic1/status/1817918336048496832?s=46
-
 ## Volcanoes
 
 https://x.com/volcaholic1

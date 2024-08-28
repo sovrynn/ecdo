@@ -1,5 +1,17 @@
 # Part 1: Earth Warming Coming From the Core
 
+[Here](https://theethicalskeptic.com/2020/02/16/the-climate-change-alternative-we-ignore-to-our-peril/) is the original thesis.
+
+## Quotes
+
+Yes, it is generally acknowledged by mainstream science and society at large that our planet’s oceans are heating very fast. The result of this warming is an increasingly unhealthy environment for our ocean’s flora, fishes, microbiota, mollusks, crustaceans, and fauna.5 To varying degrees, this emergent condition threatens everything which lives on planet Earth. The vast preponderance of scientists agree that we are well underway on the sixth mass, or what could be reasonably titled, Anthropocene Extinction.
+
+While we don’t know fully what all this means in terms of global climate change, mankind can draw at the very least, the inference that substantial changes are at play in both the Earth’s inner and outer cores which serve to generate our planet’s magnetic moments. **These three changes, higher Schumann banding, acceleration of geographic location as well as weakening of the Earth’s magnetic moment, run commensurate with and sensitive in dynamic to the last two decades of extreme climate change.** Such changes historically have served to correlate well with global temperatures. These changes cannot be ignored as potential contributors vis-à-vis the ‘heat coming from beneath our feet’.
+
+## Comment Quotes
+
+One of the goals embedded in all this chicanery is the extensive amount of effort placed into obfuscating mankind’s past. That is the priority here and no science bears the right to usurp that authority.
+
 ## Summary
 
 The thesis begins with ten observations that "prove wrong" the man-made global warming hypothesis, creating a need for "plurality" - a better explanation.

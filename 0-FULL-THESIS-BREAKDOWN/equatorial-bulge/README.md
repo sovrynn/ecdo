@@ -193,5 +193,5 @@ You could potentially incorporate data about plates moving in certain directions
 
 1. Earth layers: https://en.wikipedia.org/wiki/Internal_structure_of_Earth
 2. Earth crust thickness: https://www.geolsoc.org.uk/Geoscientist/Archive/August-2018/Roberts-Crust
-3. Tectonic plate maps: https://earthhow.com/category/geology/plate-tectonics/africa
+3. Tectonic plate maps: https://earthhow.com/category/geology/plate-tectonics/
 4. https://grace.jpl.nasa.gov/data/get-data/gia-trends/

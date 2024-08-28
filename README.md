@@ -25,7 +25,7 @@ Auxiliary folders:
 
 1. What is the ECDO?
 	- Mandatory reading: Ethical Skeptic's original thesis (`LITERATURE/0-ethical-skeptic`)
-	- In-depth ECDO thesis breakdown: `FULL-THEORY-BREAKDOWN`
+	- In-depth ECDO thesis breakdown (WIP): `FULL-THEORY-BREAKDOWN`
 		- Breakdown of S1 -> S2 rotation: `FULL-THEORY-BREAKDOWN/s1-to-s2`
 2. What is the evidence for the ECDO?
 	- All manner of ECDO evidence: `ADHOC-EVIDENCE`
