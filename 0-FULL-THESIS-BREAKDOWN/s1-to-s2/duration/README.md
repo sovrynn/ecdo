@@ -1,6 +1,6 @@
 # Duration
 
-This folder is dedicated to predicting the duration of S1 -> S2.
+This folder is dedicated to predicting the duration of the S1 -> S2 rotation.
 
 ## Nobulart Predictions
 

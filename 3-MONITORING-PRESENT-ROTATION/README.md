@@ -4,13 +4,9 @@ This folder aims to be as accurate of a progress indicator as possible on the cu
 
 ## Contents
 
-Main contents:
 - `date-and-triggers`: Predicting when S1 -> S2 will begin, along with potential triggers.
-- `north-pole-wander`: Tracking the wandering of the north magnetic pole.
 - `recent-natural-disasters`: Tracking natural disasters which may have an uptick because of the ECDO.
-
-Speculative contents:
-- `shudder`: Referencing a vague potential imminent phenomenon that Ethical Skeptic referred to on social media.
+- (Speculative) `shudder`: Referencing a vague potential imminent phenomenon that Ethical Skeptic referred to on social media.
 
 ## Information that belongs elsewhere
 

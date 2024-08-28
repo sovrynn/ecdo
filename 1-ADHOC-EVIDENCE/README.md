@@ -9,17 +9,16 @@ Old evidence from humans:
 - `bible`: Investigation of potentially relevant accounts from the Bible.
 - `human-history-remains`: Learning from human history and human/civilizational remains.
 
-Old evidence from the world around us:
+Evidence from the world around us:
+- `earth-geo-state`: Evidence from the geological state of the Earth, including geomagneticism and climate.
 - `animal-plant-evidence`: Biological evidence (excluding humans) of past ECDO events, such as frozen animal remains.
 - `physical-material-evidence`: Physical evidence of past ECDO events, such as big rocks high up in the mountains.
 - `solar-system`: Evidence from the solar system.
-- `earth-geo-state`: Evidence from the geological state of the Earth, such as weather.
 
-Modern, recent evidence for impending ECDO:
+Past ECDO date predictions:
+- `frequency`: Predicting the frequency of ECDO events.
+- `date-anomalies`: Investigating date anomalies which may be relevant to dating ECDO-related events.
+
+Conspiracy theory evidence for impending ECDO:
 - `elite-preparation`: The elites seem to be preparing for... something.
 - `government-intervention`: Investigating potential government intervention related to the ECDO, such as attempting to stop/delay the ECDO or censoring information about it.
-- `research`: Research related to the ECDO.
-
-Other:
-- `frequency`: Figuring out dates which seem to have historical significance.
-- `date-anomalies`: Investigating date anomalies which may be relevant to dating ECDO-related events.

@@ -23,9 +23,9 @@ That's a lot of water China will be rushing into.
 
 ### S1 -> S2 basic analysis
 
-During S1 -> S2, it's difficult to imagine that the eastern part of China, which is about 0m - 300m in elevation and directly in front of the coast, doesn't get inundated. The [Khafre pyramid erosion line](https://github.com/sovrynn/ecdo/tree/master/4-LOCATION-MAPPING/0-general-heuristics/flood-height) is 175m above sea level, and the momentary inundation is likely higher, potentially by multiples.
+During S1 -> S2, it's difficult to imagine that the eastern part of China, which is about 0m - 300m in elevation and directly in front of the coast, doesn't get inundated. The Khafre pyramid erosion line is 175m above sea level, and the momentary inundation is likely higher, potentially by multiples.
 
-It does seem that there is a patch of shallower ocean bordering the eastern coast before the ocean gets deeper, although I don't know exactly how much shallower it is. Visualization from [NOAA](https://github.com/sovrynn/ecdo/tree/master/6-TOOLS-DATA-DEV).
+It does seem that there is a patch of shallower ocean bordering the eastern coast before the ocean gets deeper, although I don't know exactly how much shallower it is. Visualization from NOAA (`TOOLS-DATA-DEV`).
 
 ![ocean map](img/china-ocean.png "china ocean")
 

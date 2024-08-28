@@ -35,7 +35,7 @@ The approximate elevation of this area is 100m - 300m.
 
 ## Nobulart
 
-May be spared the worst of it by the Himalayas, going from S1 to S2. Tibet will be inundated for sure.
+May be spared the worst of it by the Himalayas, going from S1 to S2.
 
 Many ancient and massive pyramid like structures to be found across India, such as the Chola temples.
 
