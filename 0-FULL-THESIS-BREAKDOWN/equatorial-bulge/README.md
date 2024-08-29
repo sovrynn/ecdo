@@ -151,6 +151,12 @@ Currently I see two possible explanations for this:
 
 ## Minor analysis sections
 
+### Volcanoes
+
+Following the ECDO rotation, as the inner layers of the Earth begin to deform to fit the new equatorial bulge, we'll likely see every volcano that moves closer to the equator erupt as the upper mantle below them expands.
+
+We may also see new volcanoes form if there are any locations where there is no other way for the pressure to resolve, although I see this as less likely because volcanoes probably formed from past ECDO events to release the pressure.
+
 ### Boundaries for latitude change direction
 
 The following are the boundaries for latitude change on the 31 meridian and 149 meridian west, which are the longitude lines of greatest rotation, after the S1 -> S2 rotation:

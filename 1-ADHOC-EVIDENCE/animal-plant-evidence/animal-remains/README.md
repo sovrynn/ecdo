@@ -12,9 +12,13 @@ Secondly the animal had been frozen immediately after death, since its flesh was
 
 So a mammoth foraging in the summertime was almost instantaneously frozen and remained so for 20 millenia.
 
+Source: https://nobulart.com/the-flip-of-the-earth/
+
 ## Alaska Frozen Mosquito
 
 Dig at the remains of a sunken prehistoric tropical lake community between Nome and Kotzebue, Alaska. While digging, an archaelogist unearthed a mosquito that flew away after thawing. In order for a mosquito to be revived after being frozen, its freezing would have to be followed by a sharp and permanent drop in temperature. Normal freezing would have caused ice crystals to grow within the creature, rupturing the membranes. So it was freezing in a sudden deep freezing.
+
+Source: https://nobulart.com/the-flip-of-the-earth/
 
 ## East Yorkshire Bio-floodmass
 

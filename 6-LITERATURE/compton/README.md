@@ -1,6 +1,10 @@
 # Compton
 
+What follows is a [forum post](https://www.mormondialogue.org/topic/74277-global-flood-literalism-rides-again/page/5/) detailing an Internet anon's synopsis of the work of S. C. Compton in his book "Exodus Lost: An Inquiry into the Genesis of Civilization". Full forum post text below.
+
 ![compton](img/compton.jpg "compton")
+
+## Forum post
 
 Following is my synopsis of the evidence Compton presents for a world-wide event including flooding and possibly massive rain fall, taking place in the 5,200 years BP time frame.  This is just one of several of his propositions from his book.  It may be too long for a single post, but here goes:
 
@@ -85,5 +89,3 @@ e. Chevrons consisting of sediments thrown up from deep ocean floor on coastline
 2) Dee Breger analzed samples of chevron sediment in October, 2006, using “a scanning electron microscope (SEM) and found deep-ocean microfossils (benthic foraminifera) that had been splashed with molten iron, nickel and chrome in proportions consistent with a chondritic meteor”.
 
 Now I haven't thoroughly vetted Compton's sources, but if accurate and in my view, the event 'precipitated' by the Burkle meteor has a high probability of having caused the massive flooding, including the Noahic flood of that time-period.
-
-https://www.mormondialogue.org/topic/74277-global-flood-literalism-rides-again/page/5/

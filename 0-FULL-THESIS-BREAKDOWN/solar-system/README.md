@@ -10,11 +10,11 @@ Jupiter, being the heaviest one, with a mass roughly 2.51 times the combined mas
 
 Specifically, Landscheidt says that the most important moments are when the Sun, the CM (centre of mass) of the solar system, and Jupiter are in line. When JUNS (Jupiter, Uranus, Neptune, and Saturn) are on the same side of the Sun, the Sun will be furthest from the CM. When Jupiter is opposite UNS, the Sun will be closest to the CM.
 
-When IOT (impulses of torque) are graphed over time, they are shown to form waves of approximately 166 years (Gleissberg cycle). At the top and bottom of these waves, where the IOT are strongest, occurring every ~83 years, there is a maximum in the sunspot cycle, which Landscheidt proposes is caused by slower rotation of the Sun.
+When IOT (impulses of torque) are graphed over time, they are shown to form waves of approximately 166 years (Gleissberg cycle). At the top and bottom of these waves, where the IOT are strongest, occurring every ~83 years, there is a maximum in the sunspot cycle, which Landscheidt proposes is caused by slower rotation of the Sun. The points where the curve crosses the x-axis correspond to solar minima.
 
 ![sunspot cycles](img/sunspot-cycles.png "sunspot cycles")
 
-Landscheidt predicts that there will be a supersecular sunspot minimum around 2030. However, looking at his description in the above visual, he clearly says there is a "maximum" every 83 years. The discrepancy may be explained if he is referring to an absolute value maximum in the visual.
+Landscheidt predicts that there will be a supersecular sunspot minimum around 2030. However, looking at his description in the above visual, there is a clear discrepancy, where 2030 is a local minimum, and should thus be a sunspot maximum. I have not yet resolved this discrepancy.
 
 ## Understanding the above graph (Gleissberg cycle)
 
@@ -29,6 +29,8 @@ So the Gleissberg cycle graph is basically just showing the total change in angu
 ## 11-year Solar Cycle
 
 The Sun has an 11-year cycle, during which it oscillates between solar maximum and minimum, and also goes through a pole flip. Over a period of 22 years, the Sun would go through two cycles, each with opposite magnetic polarities. [1]
+
+When combined with the Gleissberg cycle, you would see the Sun transitioning from local solar maximum and minimum in between its transitions to the "global" solar maximum and minimum defined by the Gleissberg cycle.
 
 ## Citations
 
