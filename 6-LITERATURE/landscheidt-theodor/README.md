@@ -46,6 +46,8 @@ Math relationships on page 45 for torque and impulses of the torque (IOT).
 
 When consecutive IOT are taken and smoothed to constitute a new time series, a wave pattern emerges that bears information as to the epochs of extrema in the secular Gleissberg-cycle. It has a mean length of 166 years, but each extremum, whether positive or negative, is correlated to a maximum in the secular sunspot cycle, while minima occur when the curve reaches zero values. The mean interval between consecutive extrema is 83 years and varies within 47 to 118 years. [45]
 
+Above mentioned graph in `0-FULL-THESIS-BREAKDOWN/solar-system`.
+
 The extrema in the secular wave of IOT can be taken to constitute a smoothed supersecular wave with a quasi-period of 391 years. This long wave points to an imminent supersecular sunspot minimum about 2030. There are indications that secular and supersecular sunspot minima are related to variations in climate. Thus a prolonged period of colder climate is about to be initiated by the secular minimum past 1990, will reach its deepest point around the supersecular minimum in 2030, and come to an end about 2070. [48]
 
 ### Ch 7: Planetary forcing and flare cycles
