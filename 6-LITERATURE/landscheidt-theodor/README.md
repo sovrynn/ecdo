@@ -2,7 +2,7 @@
 
 Author of "Sun Earth Man". Hard copy in this folder.
 
-There is [a website about him](landscheidt.info) which seems to have a lot of material.
+There is [a website about him](https://landscheidt.info) which seems to have a lot of material.
 
 ## Learning about gas giant grand cycle
 

@@ -27,7 +27,7 @@ Seems to have done some work useful for predicting the ECDO timeframe. See `LITE
 ![trigger](img/triggers3.jpg "trigger")
 ![trigger](img/triggers4.jpg "trigger")
 
-The steady narrowing of real polar nutation [1] in apparent lockstep with the approaching Landscheidt Minimum [2] in June 2030, and near pass by 2P/Encke in June 2030 [3] whilst we are at solar grand minimum[4]. AgeEnder 2030 courtesy of the Saturnalian maniacs behind it. As a sidenote: When the 360-365 day calendar adjustment around 687BC is accounted for, the Mayan long-count does not resolve to 2012, but to around 2030-2040 depending on when one determines the calendar adjustment occurred.
+The steady narrowing of real polar nutation [1] in apparent lockstep with the approaching Landscheidt Minimum [2] in June 2030, and near pass by 2P/Encke in June 2030 [3] whilst we are at solar grand minimum[4]. AgeEnder 2030 courtesy of the Saturnalian maniacs behind it. As a sidenote: When the 360-365 day calendar adjustment around 687BC (See `ADHOC-EVIDENCE/date-anomalies`) is accounted for, the Mayan long-count does not resolve to 2012, but to around 2030-2040 depending on when one determines the calendar adjustment occurred.
 
 [1] https://www.iers.org/IERS/EN/DataProducts/EarthOrientationData/eop.html
 [2] https://landscheidt.info/
