@@ -18,6 +18,7 @@ ECDO related:
 Prerequisite knowledge:
 - `core-mantle`: Information on core-mantle coupling.
 - `dzhanibekov`: Information on Dzhanibekov effect.
+- `solar-system`: Facets of the solar system which may affect the ECDO.
 
 ## Information that doesn't belong here
 

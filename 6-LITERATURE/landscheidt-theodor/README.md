@@ -12,6 +12,8 @@ Sources recommended:
 
 ## Sun Earth Man synopsis quotes
 
+Page numbers cited in brackets.
+
 ### Ch 2: Example avails ten times more than precept
 
 It has been shown at international conferences of astronomers, geophysicists, and climatologists, but also at astrological research conferences in London, that impulses of the torque (IOT) in the Sun’s irregular oscillations about the invisible centre of mass of the solar system, induced by the giant planets, regulate the incidence of energetic solar eruptions and their terrestial response. Details will be given in a later chapter. Strong impulses of the torque occur when the Sun’s centre, the centre of mass, and Jupiter, the weighty centre of the world of planets, are in line. These heliocentric conjuctions of Jupiter and the centre of mass again are a boundary phenomenon. They mark a zero phase in the Sun’s motion about the centre of mass, in which the torque acting on the Sun reaches zero, changes sign, and shows a more or less sharp increase in the new direction. The Sun changes from approaching the centre of mass to receding from it or vice versa. Just this boundary phenomenon releases instability together with a wealth of new patterns in the Sun’s surface that is followed by corresponding effects in the Earth’s surface region. [13]
@@ -32,7 +34,9 @@ The first process involved are impulses of the torque (IOT) in the Sun’s motio
 
 There is mutual interdependence. While the planets make the Sun oscillate around CM, the Sun induces a still more intricate dance of the planets about the centre of mass of the solar system. [43]
 
-Page 44, nice visual of Sun around CM time-series.
+Page 44, nice visual of Sun around CM time-series:
+
+![sun cm timeseries](img/sun-cm-timeseries.png "sun CM timeseries visual")
 
 ### Ch 6: Planetary regulation of secular and supersecular sunspot cycles
 
