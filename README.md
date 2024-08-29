@@ -49,7 +49,7 @@ Put notable literature (ex: books, research papers) related to ECDO in `LITERATU
 ## Formatting guidelines
 
 Content (`README.md`) guidelines:
-- Ideally, these should consist of polished analysis about ONE topic instead of being used as notepads. Put potential leads into `"TODO"` sections.
+- Ideally, these should consist of polished analysis about ONE topic instead of being used as messy notepads. Put unrefined ideas into `"TODO"` sections.
 - When possible, add citations, links, backlinks, and hard copies of sources.
 
 Other guidelines:
