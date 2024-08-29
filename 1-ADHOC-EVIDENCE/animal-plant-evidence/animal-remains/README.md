@@ -4,16 +4,6 @@ This folder is to document old animal remains that can give us clues about how t
 
 Check `img/` for many records.
 
-## Fairbanks Mammoth 1948
-
-Mining team uncovered the frozen remains of a young mammoth in Fairbanks. Lush vegetation in its mouth showed that the animal died during the growing season in an apparently warm climate.
-
-Secondly the animal had been frozen immediately after death, since its flesh was said to be edible.
-
-So a mammoth foraging in the summertime was almost instantaneously frozen and remained so for 20 millenia.
-
-Source: https://nobulart.com/the-flip-of-the-earth/
-
 ## Alaska Frozen Mosquito
 
 Dig at the remains of a sunken prehistoric tropical lake community between Nome and Kotzebue, Alaska. While digging, an archaelogist unearthed a mosquito that flew away after thawing. In order for a mosquito to be revived after being frozen, its freezing would have to be followed by a sharp and permanent drop in temperature. Normal freezing would have caused ice crystals to grow within the creature, rupturing the membranes. So it was freezing in a sudden deep freezing.
@@ -28,29 +18,11 @@ Potential for the boulder clay to be deposited not by melting glaciers, but a de
 
 Note on this one that at the base of the buried cliff are bones of hippopotamus, rhinoceros and hyena. These were either deposited by ice sheets our buried there after a production of the lion king. Or smashed by a deluge in the not too distant past.
 
-## Frozen Mammoth
-
-Viable DNA from the last cataclysm?
-
-https://www.livescience.com/animals/extinct-species/siberian-gold-miners-accidentally-find-ancient-woolly-rhino-mummy-with-horn-and-soft-tissues-still-intact
-
-That was Chan proposed mechanism - flash frozen due to supersonic wind speeds and water due to the rotation.
-
 ## Book about deluge
 
 Reliquoæ Diluvianæ (1823)
 A 380 page record of an historic deluge, overflowing with findings of numerous species of fauna which had no explicable reason to be found together, scattered across Britain and Europe, buried in layers of 'diluvium' (a term coined by Buckland).
 https:// (https://t.co/K4GQDGqcHv)iiif.wellcomecollection.org/pdf/b2201729x (https://t.co/K4GQDGqcHv)
-
-## Whales
-
-Dead whale bones in Egypt.
-
-<img src="img/whale1.jpg" alt="ALT" style="width:50%;"/>
-
-Whale skeletion in Osa Peninsula, Costa Rica.
-
-<img src="img/whale2.jpg" alt="ALT" style="width:50%;"/>
 
 ## Cuvier Books
 
@@ -68,14 +40,6 @@ In `LITERATURE/cuvier` you can find the PDFs of several Georges Cuvier's books, 
 But it is also really important to note that these irruptions and these repeated retreats were not all slow and did not all take place gradually. On the contrary, most of the disasters which brought them on have been sudden. That is especially easy to demonstrate for the last of these catastrophes, which by a double movement inundated and later left dry our present continents or, at least, a great part of the land which forms them today."
 
 https://web.viu.ca/johnstoi/cuvier/cuvierweb.pdf
-
-## Mammoths 3700 years ago
-
-![mammoth mutation](img/mammoth-3700-mutation.jpg)
-
-"About 3700 years ago, as Mesopotamian poets were composing the "Epic of Gilgamesh," the last woolly mammoths on Earth were making their last stand on a remote Arctic island. A terminal colony persisted on tiny Wrangel Island north of the Siberian mainland thousands of years after the rest of its kind had disappeared. Now, a new study reveals the mammoths' horrific final days: A series of harmful genetic mutations appears to have led to what authors call a "genomic meltdown" in the population."
-
-https://www.science.org/content/article/last-lonely-woolly-mammoths-faced-genomic-meltdown
 
 ## Luotuodun Marine Transgression
 

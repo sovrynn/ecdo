@@ -49,6 +49,10 @@ There is also a discrepancy between 1700 BC and the 1200 BC Late Bronze Age coll
 
 ### Kultepe/Khanesh (Turkey), 1750 BC
 
+It seems the Hittites were the people who lived in Turkey from the early 2nd millenium BC, reaching their peak during the mid-14th century BC. Looking at what happened during 1700 BC: *"sometime in 1710–1705 BC, Kanesh was destroyed".*
+
+https://en.wikipedia.org/wiki/Hittites
+
 *"...was burned to the ground. evel Ib, 1798–1740 BC. After an abandoned period, the city was rebuilt over the ruins of the old and again became a prosperous trade center. The trade was under the control of Ishme-Dagan I, who was put in control of Assur when his father, Shamshi-Adad I, conquered Ekallatum and Assur. However, the colony was again destroyed by fire."*
 
 https://en.wikipedia.org/wiki/K%C3%BCltepe
@@ -130,6 +134,15 @@ https://nobulart.com/the-hermetic-key/
 Confirming TES' speculated built date in the period after the YDB. I'm thinking Gobleke Tepe was built during the previous stable period. So there was an event that triggered the constuction of GT as an observatory, which is starting to make it look as though the 'YDB Event' might more properly be called the BAI Event.
 
 My thinking is that it was built to watch for whatever we encountered around 12,800 BC that upset the apple cart. It's possible that the focus on interpreting GT should be expanded to include consideration of the stars at that earlier time. It would have possibly been more likely to have been built during the warmer insterstadia than the cooler YD.
+
+## Gobekli Tepe's relation to comets
+
+An interesting paper, with a convincing argument that GT was astronomically linked to observing (predicting?) the progenitor of Encke and the taurids in much the same way as the pyramids were constructed to monitor the aftermath of the YDB event.
+
+![sweatman gobekli](img/sweatman-gobekli-tepe.jpg "sweatman gobekli")
+
+- https://web.archive.org/web/20230605190759/http://www.maajournal.com/Issues/2017/Vol17-1/Sweatman%20and%20Tsikritsis%2017(1).pdf
+- https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876
 
 ## TODO Potential Leads
 

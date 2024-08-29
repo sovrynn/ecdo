@@ -30,11 +30,19 @@ Mesopotamian flood myth. Utnapishtim builds a boat and survives the flood. Appar
 
 ## Turkey
 
-It seems the Hittites were the people who lived in Turkey from the early 2nd millenium BC, reaching their peak during the mid-14th century BC. Looking at what happened during 1700 BC: *"sometime in 1710–1705 BC, Kanesh was destroyed"* [1].
+Not only does it describe a deluge, it specifically describes an oceanic displacement.
 
-Looking into this city: *"Level II, 1974-1836 BC ...was burned to the ground. Level Ib, 1798–1740 BC. After an abandoned period, the city was rebuilt over the ruins of the old and again became a prosperous trade center. The trade was under the control of Ishme-Dagan I, who was put in control of Assur when his father, Shamshi-Adad I, conquered Ekallatum and Assur. However, the colony was again destroyed by fire... At Level II, the destruction was so total that no wood survived for dendrochronological studies."* [2]
+![turkey flood](img/turkey-flood1.jpg "turkey flood")
+![turkey flood](img/turkey-flood2.jpg "turkey flood")
 
-This happens to line up with the account in `ADHOC-EVIDENCE/human-history-remains/human-built-structures` of a city, also in the Middle East, destroyed by extremely high temperatures at a similar date.
+[1] Myth, Legend and Custom in the Old Testament, Gaster (1969)
+
+## Citations
+
+1. https://en.wikipedia.org/wiki/Hittites
+2. https://en.wikipedia.org/wiki/K%C3%BCltepe
+
+## TODO additional leads
 
 Black Sea inundation of Ankara from around 1750-1700BC.
 - https://talkorigins.org/faqs/flood-myths.html
@@ -43,13 +51,7 @@ Black Sea inundation of Ankara from around 1750-1700BC.
 		- https://x.com/nobulart/status/1801746221809209701?s=46
 - https://x.com/nobulart/status/1822018953620943257?s=46
 
-## Citations
-
-1. https://en.wikipedia.org/wiki/Hittites
-2. https://en.wikipedia.org/wiki/K%C3%BCltepe
-
-## TODO Turkey additional leads
-
 Research Paper "Noah's Flood: The New Scientific Discoveries About the Event that Changed History" by William Ryan and Walter Pitman
 
+Turkey:
 - 6800 BCE Black Sea flood: https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis

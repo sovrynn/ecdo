@@ -75,3 +75,9 @@ The authors of this paper observed a 3.4% reduction in shear wave velocity relat
 [1] https://doi.org/10.1038/s41467-023-40307-9
 
 [2] https://annas-archive.org/md5/17ca9353c3b84e99c28d13c255e1cd4c
+
+## 2400 BCE Climate anomaly
+
+*"The mid-24th century BCE climate anomaly is the period, between 2354 and 2345 BCE, of consistently reduced annual temperatures that are reconstructed from consecutive abnormally narrow, Irish oak tree rings."*
+
+https://en.wikipedia.org/wiki/Mid-24th_century_BCE_climate_anomaly#:~:text=In%201997%2C%20Marie-Agn%C3%A8s%20Courty,hundred%20kilometres%20from%20each%20other

@@ -14,6 +14,12 @@ See `ADHOC-EVIDENCE/bible` for Bible flood myths.
 
 - Massive flood myth compilation: https://talkorigins.org/faqs/flood-myths.html (Hard copy in `hard-copies`)
 
+![cataclysm](img/cataclysm1.jpg "cataclysm")
+![cataclysm](img/cataclysm2.jpg "cataclysm")
+![cataclysm](img/cataclysm3.jpg "cataclysm")
+
+These tables are from Allan and Dellair's Cataclysm: https://archive.org/details/cataclysmcompell00alla
+
 ## TODO leads to look into
 
 Organize myths by date here.

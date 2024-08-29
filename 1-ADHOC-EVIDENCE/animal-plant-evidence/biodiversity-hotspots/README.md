@@ -4,9 +4,17 @@ If you look at the map of biodiversity hotspots, there's a lot of overlap with h
 
 ![bio](img/biodiversity-hotspots.jpg "bio")
 ![bio](img/biodiversity-plants.jpg "bio")
+![bio](img/global-biodiversity.jpg "bio")
+
+## Fish
+
 ![bio](img/fish-species.jpg "bio")
 ![bio](img/freshwater-fish-species.jpg "bio")
-![bio](img/global-biodiversity.jpg "bio")
+
+## Marine Plants
+
+![marine plant diversity](img/marine-plant-diversity.jpg "marine plant diversity")
+![marine plant diversity](img/marine-plant-diversity2.jpg "marine plant diversity")
 
 ## Old Biodiversity Data
 

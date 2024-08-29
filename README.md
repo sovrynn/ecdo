@@ -97,9 +97,3 @@ This will allow you to easily reference a list of potential topics to look into 
 ## Translations
 
 Translations can be put in `/translation` folders within the relevant directory.
-
-## TODO
-
-- Global maps showing:
-	- the circular paths of oceanic displacement around the two pivots
-- Google Earth scripting

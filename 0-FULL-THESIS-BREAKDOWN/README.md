@@ -41,3 +41,6 @@ ECDO phenomena to flesh out:
 - transition from S2 back to S1 (slow or fast?)
 - Verification of Ethical Skeptic's thesis (hard to know without knowing if there's any information he's not sharing)
 - why 104 degrees?
+
+- Global maps showing:
+    - the circular paths of oceanic displacement around the two pivots

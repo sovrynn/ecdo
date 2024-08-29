@@ -24,3 +24,15 @@ The WMM (World Magnetic Model) gets updated once every 5 years, with the last ti
 However, NOAA has [published a report in December 2023](https://www.ncei.noaa.gov/sites/g/files/anmtlf171/files/2023-12/WMM_Annual_Report_2023.pdf) called "State of the Geomagnetic Field" with some analysis on the current state of the geomagnetic field. Hard copy in `hard-copies`. Following is a quote from the paper:
 
 *"This suggests that nonlinear changes in the Earth’s magnetic field have remained small over the past three years. Since 2020, the north magnetic dip pole has moved at an average speed of 41 km/yr, and the south magnetic dip pole at 9 km/yr. Neither underwent any noticeable change in direction."*
+
+## 10,000 year magnetic polar wander
+
+Magnetic polar wander over 10,000 years. I have marked observable path deviations >270° in red. These lie very close to the 2nd/9.25ky, 5th/3.7ky and 10th/1.85ky planetary harmonics.
+
+![magnetic polar wander](img/magnetic-polar-wander.jpg "magnetic polar wander")
+
+Last century added on. Scale, path and orientation taken from the map here: https://cdn.britannica.com/13/204113-050-65ADC340/Map-Earth's-northern-polar-region-geomagnetic-North-Pole-since-1900.jpg
+
+![magnetic polar wander](img/magnetic-polar-wander2.jpg "magnetic polar wander")
+
+[1] Paleomagnetism, McElhinny & McFadden (2000) https://archive.org/details/paleomagnetismco0000mcel
