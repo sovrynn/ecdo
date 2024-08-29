@@ -44,7 +44,7 @@ Almost anything that could be used to justify an ECDO event belongs in `ADHOC-EV
 
 The key here is to make judicious use of backlinks. There is bound to be overlap. The solution is to put info in the proper folder, and use backlinks to reference it in other locations. My preferred method for backlinks is to just mention the folder path (ex: `ADHOC-EVIDENCE/physical-evidence`) but you could also use a web URL link within the repo.
 
-Put all literature (ex: books, research papers) related to ECDO in `LITERATURE`, and then backlink them in your analysis.
+Put notable literature (ex: books, research papers) related to ECDO in `LITERATURE`, and then backlink them in your analysis.
 
 ## Formatting guidelines
 
