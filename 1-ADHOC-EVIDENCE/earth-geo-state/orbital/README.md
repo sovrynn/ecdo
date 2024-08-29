@@ -20,3 +20,21 @@ https://www.researchgate.net/publication/235243439_Evidence_for_a_Large-Scale_Re
 ![18k viz](img/milankovitch-18k-cycle.jpg "18k viz")
 
 https://oceanrep.geomar.de/id/eprint/31064/1/Fl%C3%B6gel_Diss.pdf
+
+## Paper: Contributions of core, mantle and climatological processes to Earth’s polar motion
+
+Potentially relevant paper.
+
+By separately analyzing the various influences and harmonics in the Earth's axial wobble, they were able to construct a fairly good predictive model, which was validated by training it on the first part of the measured data and then checking its predictive power against the later portion of the known data. The visual illustrates how the measured polar motion drift has been progressing perpendicular to the ECDO moment of inertia, which is illustrated on the below chart from the paper:
+
+![polar motion drift](img/polar-motion-drift.jpg "polar motion drift")
+
+Note how the observed polar nutation over the past 120 years appears to be following a path congruent with the centrifugal moment of Antarctica's ice mass. The original chart shows a north polar view. This visual is with the Antarctic overlaid and flipped to illustrate the distribution of it's mass at the other pole.
+
+![polar motion drift](img/polar-motion-drift-2.jpg "polar motion drift")
+
+"The ice mass is dragging the crust's rotational axis away from the center as the decoupling progresses further, and more slippage is occurring at the core-mantle boundary." - Nobulart
+
+"The original map in the paper is a north polar view. I added Antarctica as it is positioned at the opposite pole, as though you're looking through the planet to see the ice on the other side. Since its a sphere, if the antarctic wants to pull East (in this view) the north pole is going to tend west. It significant to ECDO because it's showing the effect of Antarctica's mass as the core-mantle coupling continues to degrade." - Nobulart
+
+https://www.nature.com/articles/s41561-024-01478-2

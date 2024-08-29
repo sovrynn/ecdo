@@ -12,7 +12,7 @@ See `LITERATURE/chan-thomas`.
 
 ### Research paper: 3500 - 3000 BC
 
-See the research paper PDF in the folder for a very comprehensive source on dating this flood.
+See the research paper PDF `Noahs_Flood_WTJ2004_1.pdf` in `hard-copies/` for a very comprehensive source on dating this flood.
 
 ### 5200 BC?
 
@@ -58,6 +58,16 @@ it sways like a hut;
 its transgression lies heavy upon it,
 and it falls, and will not rise again.
 
+## Two Bible Floods
+
+Hard copy `TwoFloods_Web.pdf` in `hard-copies`.
+
+## Masoretic vs Septuagint Dating Schemes
+
+![bible chronology](img/bible-chronology.webp "bible chronology")
+
+https://www.reddit.com/r/UsefulCharts/comments/14bqxtw/biblical_chronology_according_to_the_septuagint/
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Genesis_flood_narrative
@@ -72,3 +82,5 @@ Psalm 104: “The waters stood above the mountains... they go up by the mountain
 
 Combining astrology with certain Bible passages
 - https://www.die2live.online/asteroid-child-and-the-great-sign-t-w-tramm/
+
+Podcast discussing Noah's flood dating: https://www.biblicalchronologist.org/store/archives/BCM_April_2023.html

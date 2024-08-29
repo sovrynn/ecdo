@@ -36,3 +36,11 @@ The unusually mineral rich composition of the crust here probably has something 
 Like all fine things, gem opal is exceedingly rare. Much of the world's precious opal is mined in the harsh outback of Australia, where a unique combination of geological conditions permitted the formation of opal near the margins of an ancient inland sea.
 
 https://www.opalsdownunder.com.au/learn/australian-opal-mining-fields/
+
+## Scablands flood deposits
+
+![scablands flood deposits](img/scablands-deposits.jpg "scablands flood deposits")
+
+Potential explanation for the Scablands flood deposits based on the ECDO. The "Set S" tephta is an ash layer from Mt. Saint Helens and is a temporal marker for the termination of the Younger Dryas.
+
+https://www.geo.umass.edu/climate/papers2/Baker_retrospective_2009.pdf

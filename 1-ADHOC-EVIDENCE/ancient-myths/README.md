@@ -23,6 +23,8 @@ Organize myths by date here.
 - Easter island
 	- Island off west coast of SA with many large rock statues
 
+Great flood history of middle east: https://repository.ihu.edu.gr/xmlui/bitstream/handle/11544/29135/Thesis%20Trompakas%20Kostas%20BS.pdf (hard copy `Thesis Trompakas Kostas BS` in `hard-copies`)
+
 South America:
 - Peru, story of the Sun standing still in the sky. (If the Sun was near noon when the rotation started it may have appeared stationary).
 - In South America myths of the sun setting in the wrong place.

@@ -18,6 +18,10 @@ We also have to look at the calendar shift from 360 to 365 days after 687BC. Thi
 
 https://nobulart.com/360-days
 
+## The Great Year
+
+Research paper `GreatYear.pdf` about it in `hard-copies/`.
+
 ## TODO
 
 Anatoly Fomenko timeline
