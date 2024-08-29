@@ -1,8 +1,10 @@
 # Theodor Landscheidt
 
-Author of "Sun Earth Man". Hard copy in this folder.
+Author of "Sun Earth Man".
 
-There is [a website about him](https://landscheidt.info) which seems to have a lot of material.
+There is [a website about him](https://landscheidt.info) which seems to have a lot of material. Archive of his work also [here](http://landscheidt.wordpress.com/).
+
+Hard copies of his work in their respective folders.
 
 ## Learning about gas giant grand cycle
 
