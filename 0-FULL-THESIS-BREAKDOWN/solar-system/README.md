@@ -12,17 +12,17 @@ Landscheidt (see `LITERATURE/landscheidt`) proposes that the planets affect the 
 
 Jupiter, being the heaviest one, plays the biggest role.
 
-Specifically, Landscheidt says that the most important moments are when the Sun, the CM (centre of mass) of the solar system, and Jupiter are in line. When JUNS (Jupiter, Uranus, Neptune, and Saturn) are on the same side of the Sun, the Sun will be furthest from the CM. When Jupiter is opposite UNS, the Sun will be closest to the CM.
+Specifically, Landscheidt says that the most important moments are when the Sun, the CM (centre of mass) of the solar system, and Jupiter are in line. When JUNS (Jupiter, Uranus, Neptune, and Saturn) are on the same side of the Sun, the Sun will be furthest from the CM. When Jupiter is opposite UNS, the Sun will be closest to the CM. Together, these gas giants produce IOT (impulses of torque) on the Sun.
 
 ## Gleissberg Cycle Basics (166 years)
 
-When IOT (impulses of torque) are graphed over time, they are shown to form waves with a mean length of 166 years (Gleissberg cycle). At the top and bottom of these waves, where the IOT are strongest, occurring at a mean interval of 83 years (ranging from 47 to 118 years), there is a maximum in the sunspot cycle, which Landscheidt proposes is caused by slower rotation of the Sun. The points where the curve crosses the x-axis correspond to solar minima.
+When IOT are graphed over time, they are shown to form waves with a mean length of 166 years (Gleissberg cycle). At the top and bottom of these waves, where the IOT are strongest, occurring at a mean interval of 83 years (ranging from 47 to 118 years), there is a maximum in the sunspot cycle, which Landscheidt proposes is caused by slower rotation of the Sun. The points where the curve crosses the x-axis correspond to solar minima.
 
 ![sunspot cycles](img/sunspot-cycles.png "sunspot cycles")
 
 This chart actually contrasts Landscheidt's prediction of a supersecular sunspot minimum around 2030 (chart shows a sunspot maximum). However, I am chalking this up to an unclear explanation by Landscheidt, and the fact that this book was published in 1988. I cover his more up-to-date work from subsequent research papers in a subsequent section.
 
-## Gleissberg cycle math
+## Aside: Gleissberg cycle math
 
 In page 45 of "Sun Earth Man", Landscheidt explains the exact dimensions of the above graph. I will attempt to recreate his explanation here.
 
@@ -32,7 +32,7 @@ Impulses of the torque are defined as the time integral of T, which gives the to
 
 So the Gleissberg cycle graph is basically just showing the total change in angular momentum. The peaks and troughs in angular momentum show the points where the torque, the rate of change of angular momentum, changes direction.
 
-## "New Little Ice Age" Paper (2003)
+## Landscheidt "New Little Ice Age" Paper (2003)
 
 See `LITERATURE/landscheidt` for a hard copy.
 
@@ -83,7 +83,7 @@ When combined with the Gleissberg cycle, you would see the Sun transitioning fro
 
 ## TODO
 
-gravitational null
+gravitational null (when the gas giants are in line and their pull on Earth cancels each other out?)
 
 good content on the homepage here: https://landscheidt.info/
 
