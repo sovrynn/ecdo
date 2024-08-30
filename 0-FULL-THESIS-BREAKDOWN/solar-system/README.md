@@ -16,11 +16,11 @@ Specifically, Landscheidt says that the most important moments are when the Sun,
 
 ## Gleissberg Cycle Basics (166 years)
 
-When IOT are graphed over time, they are shown to form waves with a mean length of 166 years (Gleissberg cycle). At the top and bottom of these waves, where the IOT are strongest, occurring at a mean interval of 83 years (ranging from 47 to 118 years), there is a maximum in the sunspot cycle, which Landscheidt proposes is caused by slower rotation of the Sun. The points where the curve crosses the x-axis correspond to solar minima.
+When IOT are graphed over time, they are shown to form waves with a mean length of 166 years (Gleissberg cycle). At the top and bottom of these waves, where the IOT are strongest, occurring at a mean interval of 83 years (ranging from 47 to 118 years), there is a maximum in the sunspot cycle, which Landscheidt proposes is caused by slower rotation of the Sun caused by the IOT. The points where the curve crosses the x-axis correspond to solar minima, and the peaks and troughs correspond to solar maxima.
 
 ![sunspot cycles](img/sunspot-cycles.png "sunspot cycles")
 
-This chart actually contrasts Landscheidt's prediction of a supersecular sunspot minimum around 2030 (chart shows a sunspot maximum). However, I am chalking this up to an unclear explanation by Landscheidt, and the fact that this book was published in 1988. I cover his more up-to-date work from subsequent research papers in a subsequent section.
+This chart actually contrasts Landscheidt's prediction of a supersecular sunspot minimum around 2030 (chart shows a sunspot maximum). However, I am chalking this up to an unclear explanation by Landscheidt, and the fact that this book was published in 1988. I cover his more up-to-date work from subsequent research papers in a following section.
 
 ## Aside: Gleissberg cycle math
 
