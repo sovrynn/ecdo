@@ -22,3 +22,15 @@ I've included a template input file `input-TEMPLATE.txt`. You'll need to rename 
 ## Post-run
 
 Output KML file will be written to `output.kml` which can then be loaded up into Google Earth.
+
+The red crosses are the pivots.
+
+Green cross at the intersection of red and blue lines is the rotating location.
+
+Green cross at the edge of the red lines is where the location rotates to.
+
+Thick line is the line along which location rotates. Thinner lines are there to help show the neighboring movement.
+
+Red lines are the total path (104 degrees) traveled by the rotating location.
+
+Blue lines (104 degrees) are the part of the Earth that will rotate into the red lines.
