@@ -16,14 +16,14 @@ Evidences of past inundation will also be helpful. Every location will be unique
 
 The water will tend to flow *around* when it can, and only travel *over* when it has nowhere else to go.
 
-Still, have you ever stood in the tides of the ocean as they flow out to sea? The water, even if it moves around, will always react to obstacles in an upward fashion, with the strength proportional to the speed of the water.
+Still, have you ever stood in the tides of the ocean as they flow out to sea? The water, even if it moves around, will first react to obstacles in an upward fashion, with strength proportional to the speed of the water, without exception.
 
 ## Location Analysis Examples
 
 Unfortunately, the best (and only) examples I can find in `LOCATION-MAPPING` are:
 - a sentence about north Africa, more than 1 km
 - Turkey (Urgup Cones), 1025m above sea level
-- Zhangjiajie mountains in China
+- Zhangjiajie mountains in China, ~1+ km
 
 I'll add more examples here as they come.
 
