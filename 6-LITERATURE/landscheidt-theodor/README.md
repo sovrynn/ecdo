@@ -1,8 +1,10 @@
 # Theodor Landscheidt
 
-Author of "Sun Earth Man".
+Author of "Sun Earth Man", written 1988.
 
-There is [a website about him](https://landscheidt.info) which seems to have a lot of material. Archive of his work also [here](http://landscheidt.wordpress.com/).
+There is [a website about him](https://landscheidt.info) which seems to have a lot of material. Seems that Landscheidt's work was continued by Carl Smith, then by Geoff Sharp, who currently runs the website. It's got a search tool which is useful.
+
+Archive of his work also [here](http://landscheidt.wordpress.com/).
 
 Hard copies of his work in their respective folders.
 
@@ -10,7 +12,7 @@ Hard copies of his work in their respective folders.
 
 Sources recommended:
 - Sun Earth Man
-- Search Annaś for papers by Theodor Landscheidt, Nicola Scafetta, Geoff Sharp and Carl Smith. Many linked from landscheidt.info
+- Search Annaś for papers by Theodor Landscheidt, Nicola Scafetta, Geoff Sharp and Carl Smith. Many linked from https://landscheidt.info
 
 ## Sun Earth Man synopsis quotes
 

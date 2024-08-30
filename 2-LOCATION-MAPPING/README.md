@@ -2,7 +2,7 @@
 
 The folder is for mapping out all locations over the world, and evaluating them in context of the ECDO, telling us which locations might be safe, which might be dangerous, and gathering evidence for the ECDO in the process.
 
-![world](img/global-elevation.jpg "world")
+![world](img/global-elevation2.jpg "world")
 
 ## Basic Contribution Guidelines
 

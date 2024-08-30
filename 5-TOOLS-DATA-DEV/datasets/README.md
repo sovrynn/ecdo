@@ -1,5 +1,11 @@
 # Datasets
 
+## Solar System
+
+JPL Ephemeris: https://ssd.jpl.nasa.gov/horizons/app.html
+
+SSB (Solar System Barycenter) Ephemeris: https://landscheidt.wordpress.com/6000-year-ephemeris/
+
 ## US NOAA (National Oceanic and Atmospheric Administration) Datasets
 
 NOAA dataset index: https://www1.ncdc.noaa.gov/pub/data/
