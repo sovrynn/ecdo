@@ -1,13 +1,11 @@
 # ECDO S1 to S2 Rotation
 
-This folder is for analyzing all aspects of the transition from S1 to S2.
+This folder is for analyzing aspects specific to the S1 to S2 rotation.
 
 ## Contents
 
-- `why-104-31-meridian`: Information pertaining to why the rotation is 104 degrees along the 31 Meridian.
-- `rotation-path-speed`: How to calculate the direction and speed of rotation at any point on Earth.
-- `ocean-displacement`: Understanding the displacement of oceans and bodies of water.
 - `duration`: Information relating to the duration of the S1 to S2 rotation.
+- `rotation-path-speed`: How to calculate the direction and speed of rotation at any point on Earth.
 
 # Basic Description of Rotation
 

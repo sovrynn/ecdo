@@ -52,7 +52,7 @@ First check out this map of the Earth in S1. Check the equator line, which runs 
 
 ![world map](img/world-map.png "world map")
 
-Now, take a look at this sequence of screenshots that shows the approximate line of the equator after S1 to S2, starting with the eastern pivot in Indonesia.
+Now, take a look at this sequence of screenshots that shows the approximate line of the equator after S1 to S2, starting with the eastern pivot in Indonesia (KML files in `kml-files`):
 
 ![equator](img/equator1.png "new equator")
 ![equator](img/equator2.png "new equator")
@@ -75,7 +75,7 @@ These boundary lines extend between the pivots, and run perpendicular to each ot
 - 218 degrees
 - 318 degrees
 
-These four lines divide the Earth into 4 "strips", touching both pivots, that alternate between moving closer and further away from the equator. I've divided up each strip into two halves, resulting in 8 quadrants, which I display below.
+These four lines divide the Earth into 4 "strips", touching both pivots, that alternate between moving closer and further away from the equator. I've divided up each strip into two halves, resulting in 8 quadrants, which I display below (KML files in `kml-files`).
 
 Here are the two quadrants connected to the eastern pivot which move closer to the equator:
 

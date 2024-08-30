@@ -30,3 +30,19 @@ Davolja Varos (earth towers)
 Needles (Black Hills, USA)
 
 Serpents Lair of Inis Mór, located in the Ireland, UK
+
+## TODO heuristics for evaluating locations
+
+Additional potential heuristics:
+- land elevation, flood height
+- biodiversity hotspots
+- oldest cities
+- minimum distance from pivots
+- protection from wind
+- temperature
+- proximity to fault lines
+- Longest continuous inhabitation
+- Longest standing tall structures
+- every ethnically unique human tribe must have survived an ECDO event, because otherwise they would have had to develop their racial uniqueness within single ECDO epochs. Maybe you could model a "minimum degrees of separation", based on how much time it would take to create genetic uniqueness, to figure out the minimum genetic distance at which you could say that two different gene pools must have survived ECDO events separately
+
+Ancient human traces. Here I'm thinking along lines such as that Indonesian cave or archaelogic excavation sites. For example, it's hard to imagine that a theoretical archaelogical site where tools and intact structures were found could have been flooded by a huge wall of water without getting destroyed or at least scattered somehow.

@@ -6,18 +6,20 @@ A reader should be able to come away from this folder with an understanding of p
 
 ## Contents
 
-Notable ECDO content:
+Key ECDO content:
 - `s1-to-s2`: All matters concerning the transition from S1 to S2, and an ECDO rotation in general.
+- `why-104-31-meridian`: Information pertaining to why the rotation is 104 degrees along the 31 Meridian.
+- `ocean-displacement`: Understanding the displacement of oceans and bodies of water.
 - `equatorial-bulge`: Investigating how the equatorial bulge will interact with the ECDO.
 
-ECDO related:
+ECDO content:
 - `s2`: All about S2.
 - `s2-to-s1`: All about S2 to S1.
 - `tectonic-plates`: How tectonic plates will interact with the ECDO.
 
 Prerequisite knowledge:
-- `core-mantle`: Information on core-mantle coupling.
 - `dzhanibekov`: Information on Dzhanibekov effect.
+- `core-mantle`: Information on core-mantle coupling.
 - `solar-system`: Facets of the solar system which may affect the ECDO.
 
 ## Information that doesn't belong here

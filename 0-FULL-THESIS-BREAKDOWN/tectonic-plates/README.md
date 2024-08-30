@@ -25,3 +25,9 @@ For convergent plate boundaries, the triangles point away from the plate that is
 1. Tectonic plate diagram: http://geology.about.com/od/platetectonicmaps/ss/Plate-Boundaries-Map.htm
 2. https://en.wikipedia.org/wiki/List_of_tectonic_plate_interactions
 3. https://rwu.pressbooks.pub/webboceanography/chapter/4-5-divergent-plate-boundaries/
+
+## TODO
+
+Particularly interesting tectonic spot to look at: eastern pivot, Indonesia
+
+Another one: Himalayas

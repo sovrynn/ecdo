@@ -4,13 +4,24 @@ The purpose of this document is to understand and be able to calculate what dire
 
 Of course, the answer depends on which point on the Earth's surface is in question, because the rotation direction and speed are not the same across all points on Earth.
 
-## Calculating rotational direction
+## Finding rotational direction
 
-Calculating rotational direction is rather simple. Simply find the closest pivot (there are two pivots). The point will either rotate clockwise or counterclockwise around the pivot, when looking down at the pivot. Whether it rotates clockwise or counterclockwise depends on which pivot is being rotated around:
+Finding rotational direction is rather simple. Simply find the closest pivot (there are two pivots). The point will either rotate clockwise or counterclockwise around the pivot, when looking down at the pivot. Whether it rotates clockwise or counterclockwise depends on which pivot is being rotated around:
 - The point will rotate counterclockwise if its around the western pivot
 - Clockwise around the eastern pivot
 
 It can be expected that the water displacement will run in the reverse direction of land rotation, with a proportional strength to the speed of rotation at that point.
+
+## Plotting rotational path
+
+The best way is to just use a mapping library and draw a 104 degree arc around the closest pivot.
+
+Crude manual method using lat/long:
+- Figure out the direction of the angle between location and closest pivot (ex: 355 degrees north)
+- Figure out the distance between location and closest pivot
+- Rotate the angle 104 degrees (counter)clockwise (depending on the pivot), traverse the same distance, and get a lat/long coordinate
+- Plot the lat/long coordinate on a map
+- Connect the starting location and final location with an arc of a circle rotating fro
 
 ## Calculating rotational speed
 

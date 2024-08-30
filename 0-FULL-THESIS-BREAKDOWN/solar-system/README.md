@@ -16,7 +16,7 @@ Specifically, Landscheidt says that the most important moments are when the Sun,
 
 ## Gleissberg Cycle Basics (166 years)
 
-When IOT are graphed over time, they are shown to form waves with a mean length of 166 years (Gleissberg cycle). At the top and bottom of these waves, where the IOT are strongest, occurring at a mean interval of 83 years (ranging from 47 to 118 years), there is a maximum in the sunspot cycle, which Landscheidt proposes is caused by slower rotation of the Sun caused by the IOT. The points where the curve crosses the x-axis correspond to solar minima, and the peaks and troughs correspond to solar maxima.
+When IOT are graphed over time, they are shown to form waves with a mean length of 166 years (Gleissberg cycle). At the top and bottom of these waves, where the IOT are strongest, occurring at a mean interval of 83 years (ranging from 47 to 118 years), there are maxima in the sunspot cycle, which Landscheidt proposes is caused by slower rotation of the Sun caused by the IOT. The points where the curve crosses the x-axis correspond to solar minima.
 
 ![sunspot cycles](img/sunspot-cycles.png "sunspot cycles")
 
@@ -30,7 +30,7 @@ The torque T is defined as the first derivative of the angular momentum L of the
 
 Impulses of the torque are defined as the time integral of T, which gives the total change in L (Based on the fundamental theorem of calculus and the fact that T is the derivative of L).
 
-So the Gleissberg cycle graph is basically just showing the total change in angular momentum. The peaks and troughs in angular momentum show the points where the torque, the rate of change of angular momentum, changes direction.
+So the Gleissberg cycle graph is basically just showing the total change in angular momentum. The peaks and troughs in angular momentum change show the points where the torque, the rate of change of angular momentum, changes direction.
 
 ## Landscheidt "New Little Ice Age" Paper (2003)
 

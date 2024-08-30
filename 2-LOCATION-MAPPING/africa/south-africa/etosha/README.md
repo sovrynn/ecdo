@@ -8,7 +8,7 @@ If you look at the topography, and the locations of the salt pans, it looks like
 
 The location of Etosha is quite interesting. Looks like only one way in is via the east.
 
-Yeah, as I said in the OP, looks like a lot of water moves on the west coast. Etosha is right there.
+Yeah, looks like a lot of water moves on the west coast. Etosha is right there.
 
 It might slosh over to Etosha, or it goes via Makgadikgadi, implying quite a lot of volume makes it way up there.
 
