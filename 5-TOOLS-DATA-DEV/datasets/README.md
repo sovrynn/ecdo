@@ -21,6 +21,15 @@ Swarm web gateway: https://earth.esa.int/eogateway/missions/swarm
 
 They have an interactive web app called VirES to interact with Swarm data: https://vires.services
 
+## Topography Data
+
+Preexisting Topography KMLs (all bad):
+- [earthpoint](https://www.earthpoint.us/topomap.aspx ) is bad
+- [ngmdb.usgs.gov](https://ngmdb.usgs.gov/topoview) is so fractured
+- [esri world topo map (ge-map-overlays)](https://ge-map-overlays.appspot.com/esri/world-topo-map) is awful
+
+Google Earth Engine, integrated with Google Cloud, has the data AFAIK.
+
 ## TODO
 
 SWARM data and readings from 160 land based observatories: http://www.geomag.bgs.ac.uk/research/modelling/WorldMagneticModel.html

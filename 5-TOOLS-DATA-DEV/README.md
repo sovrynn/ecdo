@@ -21,6 +21,11 @@ A basic alternative to Google Earth is [earth.nullschool.net](https://earth.null
 Ocean mapping:
 - [NOAA Ocean Exploration Data Atlas](https://ncei.noaa.gov/maps/ocean-exploration-data-atlas)
 
+## Globe mapping libraries
+
+- https://githxub.com/openglobus/openglobus
+- https://cesium.com/platform/cesiumjs
+
 ## Lat/long tools
 
 Here is a [lat/long distance calculator](https://latlongdata.com/distance-calculator).
@@ -43,25 +48,15 @@ Google search tricks:
 
 SearXNG metasearch: https://searx.nobulart.com
 
-## Globe mapping libraries
-
-- https://githxub.com/openglobus/openglobus
-- https://cesium.com/platform/cesiumjs
-
-## Topography Data
-
-Preexisting Topography KMLs (all bad):
-- [earthpoint](https://www.earthpoint.us/topomap.aspx ) is bad
-- [ngmdb.usgs.gov](https://ngmdb.usgs.gov/topoview) is so fractured
-- [esri world topo map (ge-map-overlays)](https://ge-map-overlays.appspot.com/esri/world-topo-map) is awful
-
 ## Misc
 
 Youtube video download: [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ## TODO Other Tools
 
-Google earth scripting
+Google earth engine scripting
+
+I'd really like topography lines on Google Earth
 
 Ask Nobulart about these:
 - KML: "Those files provide various feature overlays to the map. File menu > Open. ECDO paths can be drawn using the Measure > Circle tool. Draw a circle with the center on the nearest pivot to see the ECDO path. Some examples contained in the attached KML."

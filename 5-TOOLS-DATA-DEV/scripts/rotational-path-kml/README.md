@@ -1,6 +1,6 @@
 # Rotational Path KML generator for Google Earth
 
-`gen.py` script is a Python script that will generate a KML file showing movement path of any location during S1 -> S2.
+`gen.py` is a Python script that will generate a KML file showing movement path of any location during S1 -> S2.
 
 ![china viz](img/china-viz.png "china viz")
 ![world viz](img/world-viz.png "world viz")
@@ -13,7 +13,7 @@ The location rotates along the orange line, starting from the red pin, and endin
 
 Need Python installed, along with [pip](https://pip.pypa.io/en/stable/installation/) (Python package manager) and some Python packages (numpy, simplekml, geopy).
 
-Just try running the script in the command line; and follow the error messages.
+Just try running the script in the command line, and follow the error messages, which will tell you what to do.
 
 ## Running it
 
