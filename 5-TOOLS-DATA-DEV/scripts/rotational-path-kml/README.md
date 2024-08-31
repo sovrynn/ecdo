@@ -19,9 +19,9 @@ Once you have the dependencies installed, just run the script using python using
 The script reads 5 input values from `input.txt` using a specific format:
 - First line: latitude of moving location
 - Second line: longitude of moving location
-- Third line: Number of extra lines to draw on each side of the main rotation line
-- Fourth line: Distance between drawn rotation lines in km
-- Fifth line: Thickness of orange line, 3 is a good default (you can go thinner if it's getting in the way)
+- Third line: Number of extra lines to draw on each side of the main rotation line, whole numbers only
+- Fourth line: Distance between drawn rotation lines in km, whole numbers only
+- Fifth line: Thickness of lines, decimals accepted (3 is a good default)
 
 I've included a template input file `input-TEMPLATE.txt`. You'll need to rename it to use it, as well as remove the comments I added (everything after and including the `#`).
 
