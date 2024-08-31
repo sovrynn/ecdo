@@ -5,7 +5,7 @@ This folder is for analyzing aspects specific to the S1 to S2 rotation.
 ## Contents
 
 - `duration`: Information relating to the duration of the S1 to S2 rotation.
-- `rotation-path-speed`: How to calculate the direction and speed of rotation at any point on Earth.
+- `rotation-speed`: Formula for calculating the speed of rotation of a point during S1 to S2.
 
 # Basic Description of Rotation
 
