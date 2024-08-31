@@ -129,9 +129,10 @@ def create_kml(points, filename):
     kml.save(filename)
 
 def add_point_kml(point, kml):
-    point = kml.newpoint(name="Point", coords=[(point[1], point[0])])
+    name = f"({point[0]:.1f}, {point[1]:.1f})"
+    point = kml.newpoint(name=name, coords=[(point[1], point[0])])
     point.style.iconstyle.color = simplekml.Color.red  # Red color
-    point.style.iconstyle.scale = 2.0  # Increase point size
+    point.style.iconstyle.scale = 2.4  # Increase point size
 
     icon_url = 'http://maps.google.com/mapfiles/kml/paddle/red-circle.png'
     point.style.iconstyle.icon.href = icon_url
@@ -216,6 +217,8 @@ YELLOW = "ff00ffff"
 DY = "ff07c1eb"
 BLUE = "ffFFA500"
 GREEN = "ff00ff00"
+MG = "ff42e800"
+DG = "FF31a802"
 PURPLE = "ffff007f"
 ORANGE = "ff1CACFF"
 BO = "ff00d0ff"
@@ -266,22 +269,30 @@ else:
 def add_to_kml(a, b, x, y, m, n, kml, color, thickness):
     points = rotate_point(a, b, x, y, m, n)
     add_linestring_to_kml(kml, points, color, thickness)
+    return points
 
 '''
 plotting the big and small lines
 '''
 if ew == "east":
     # -1 here instead of 0 to add space for the cross
-    add_to_kml(a, b, x, y, right, 0, kml, BO, THICK) # main location
+    points = add_to_kml(a, b, x, y, right, 0, kml, BO, THICK) # main location
     add_to_kml(a, b, x, y, 0, left, kml, LB, WTHICK) # backwards
+    add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, GREEN, WTHICK)
     for i in range(1, j + 1):
+        # towards pivot
         center1 = move_point_closer(a, b, x, y, k * i)
-        add_to_kml(a, b, center1[0], center1[1], right, 0, kml, RED, THIN)
-        add_to_kml(a, b, center1[0], center1[1], 0, left, kml, DB, WTHIN)
+        points = add_to_kml(a, b, center1[0], center1[1], right, 0, kml, RED, THIN) # forward lines
+        add_to_kml(a, b, center1[0], center1[1], 0, left, kml, DB, WTHIN) #backward
+        add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, MG, WTHIN)
+
+        # away from pivot
         center2 = move_point_closer(a, b, x, y, -1 * (k * i))
-        add_to_kml(a, b, center2[0], center2[1], right, 0, kml, RED, THIN)
-        add_to_kml(a, b, center2[0], center2[1], 0, left, kml, DB, WTHIN)
-else:
+        points = add_to_kml(a, b, center2[0], center2[1], right, 0, kml, RED, THIN) #forward
+        add_to_kml(a, b, center2[0], center2[1], 0, left, kml, DB, WTHIN) #backward
+        add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, MG, WTHIN)
+
+else: # not in use anymore this is out of date, all points rotated around east pivot
     add_to_kml(a, b, x, y, right, 0, kml, LB, WTHICK) 
     add_to_kml(a, b, x, y, 0, left, kml, BO, THICK) # main location
     for i in range(1, j + 1):
@@ -296,6 +307,7 @@ CROSS_THICK = 5
 
 add_cross_to_kml(kml, (elat, elon), RED, 2, CROSS_THICK) #pivots
 add_cross_to_kml(kml, (wlat, wlon), RED, 2, CROSS_THICK)
+add_point_kml((x, y), kml)
 # add_cross_to_kml(kml, (x, y), GREEN, 1, THIN) #location
 # add_diag_cross_to_kml(kml, (x, y), GREEN, 2, THIN) #location
 # add_diag_cross_to_kml(kml, dest, GREEN, 2, CROSS_THICK) #new location

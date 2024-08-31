@@ -48,6 +48,13 @@ SearXNG metasearch: https://searx.nobulart.com
 - https://githxub.com/openglobus/openglobus
 - https://cesium.com/platform/cesiumjs
 
+## Topography Data
+
+Preexisting Topography KMLs (all bad):
+- [earthpoint](https://www.earthpoint.us/topomap.aspx ) is bad
+- [ngmdb.usgs.gov](https://ngmdb.usgs.gov/topoview) is so fractured
+- [esri world topo map (ge-map-overlays)](https://ge-map-overlays.appspot.com/esri/world-topo-map) is awful
+
 ## Misc
 
 Youtube video download: [yt-dlp](https://github.com/yt-dlp/yt-dlp)

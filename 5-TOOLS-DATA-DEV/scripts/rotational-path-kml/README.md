@@ -3,8 +3,11 @@
 `gen.py` script is a Python script that will generate a KML file showing movement path of any location during S1 -> S2.
 
 ![china viz](img/china-viz.png "china viz")
+![world viz](img/world-viz.png "world viz")
 
-The location rotates along the orange line, starting from where the orange meets the blue line, and ending up at the end of the orange line.
+The location rotates along the orange line, starting from the red pin, and ending up at the end of the orange line touching the green line.
+
+`khafre.kml` is a KML file generated from the script, with rotation lines covering pretty much all locations, centered around Khafre, for those who want a KML file without running the script.
 
 ## Dependencies
 
@@ -31,5 +34,7 @@ Output KML file will be written to `output.kml` which can then be loaded up into
 
 Legend:
 - The red crosses are the pivots.
+- Red pin is the location that rotates
 - Orange line is the path that the location will travel
 - Blue lines (104 degrees) are the part of the Earth that will rotate into the orange and red lines
+- Orange and red lines will rotate into the green lines (104 degrees)
