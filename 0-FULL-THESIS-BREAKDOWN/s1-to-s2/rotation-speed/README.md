@@ -8,7 +8,7 @@ Of course, the answer depends on which point on the Earth's surface is in questi
 
 Calculating the speed of rotation depends on how far away said point is from the pivots. The closer the point is to either of the pivots, the less rotational speed it will endure, and the farther away from the pivots, the greater.
 
-We can use basic trigonometry and some simplifying assumptions (Earth is a sphere) to calculate rotational speed.
+We can use basic trigonometry and a simplifying assumption (that Earth is a sphere) to calculate rotational speed.
 
 If:
 - theta is the angle between a point and the closest pivot
@@ -31,6 +31,6 @@ Plugging it into the original formula, you would get: `11564 * sin(distance / 11
 ## Rotation speed examples - Singapore, Tokyo, Dubai
 
 Using our formula, we can calculate the predicted average rotational speed at each city rotating around the eastern Indonesia pivot, assuming a 6 hour rotation:
-- Singapore: 2808 km from pivot, ~822 km/h 17 25
+- Singapore: 2808 km from pivot, ~822 km/h
 - Tokyo: 4430 km from pivot, ~1235 km/h
 - Dubai: 7585 km from pivot, ~1790 km/h
