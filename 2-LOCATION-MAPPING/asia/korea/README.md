@@ -80,13 +80,15 @@ This is an interesting dataset. From what I can see, it indicates that Mount Pae
 
 It's not clear to me that there are any surefire large safe locations on this peninsula. It might be possible that south Korea is almost completely submerged, and almost all of the mountain range in north Korea gets completely covered in ash. In that case, a cave in Mt. Myohang, which is basically the furthest possible high point that's away from Mt. Paektu in Korea, might actually be one of the very few places that a human could survive an ECDO event in Korea under normal circumstances. There's probably some other mountain peaks that would stick out but you'd have to be right on the peaks. Without ECDO knowledge you wouldn't get much of a warning signal.
 
-This is an 800m flood map. For reference, Mount Myohang's highest point is 1909 m. [3] The temporary flow will likely be higher on the water chokepoints compared to the northwest or southeast.
+This is an 800m flood map. For reference, Mount Myohang's highest point is 1909 m. [3] I think the water flow will be an absolute minimum of 700m in the entire central chokepoint area because that's the only level at which there is enough space for the water to flow westward.
 
 ![flood](img/flood.png "800m floodmap")
 
 As you can see, the only significant unsubmerged chunks of land are around Mount Paektu. During the quick S1 -> S2, you might see most of central and south Korea get washed away aside from a few high mountain peaks.
 
 Probably, robust shelter on Mount Myohang or the mountain range right above or to the right of it would be the best bet for survival. Don't want to be too close to the volcano, and better to be on western mountains that are protected from the wind by eastern mountains.
+
+In the south of Korea, a carefully selected location on the eastern mountain range, not on the easternmost side as to avoid the initial water surge and wind, would be the best bet.
 
 ## Citations
 
