@@ -272,7 +272,7 @@ plotting the big and small lines
 '''
 if ew == "east":
     # -1 here instead of 0 to add space for the cross
-    add_to_kml(a, b, x, y, right - 2, 0, kml, BO, THICK) # main location
+    add_to_kml(a, b, x, y, right, 0, kml, BO, THICK) # main location
     add_to_kml(a, b, x, y, 0, left, kml, LB, WTHICK) # backwards
     for i in range(1, j + 1):
         center1 = move_point_closer(a, b, x, y, k * i)
@@ -283,7 +283,7 @@ if ew == "east":
         add_to_kml(a, b, center2[0], center2[1], 0, left, kml, DB, WTHIN)
 else:
     add_to_kml(a, b, x, y, right, 0, kml, LB, WTHICK) 
-    add_to_kml(a, b, x, y, 0, left - 2, kml, BO, THICK) # main location
+    add_to_kml(a, b, x, y, 0, left, kml, BO, THICK) # main location
     for i in range(1, j + 1):
         center1 = move_point_closer(a, b, x, y, k * i)
         add_to_kml(a, b, center1[0], center1[1], right, 0, kml, DB, WTHIN)
@@ -298,6 +298,6 @@ add_cross_to_kml(kml, (elat, elon), RED, 2, CROSS_THICK) #pivots
 add_cross_to_kml(kml, (wlat, wlon), RED, 2, CROSS_THICK)
 # add_cross_to_kml(kml, (x, y), GREEN, 1, THIN) #location
 # add_diag_cross_to_kml(kml, (x, y), GREEN, 2, THIN) #location
-add_diag_cross_to_kml(kml, dest, GREEN, 2, CROSS_THICK) #new location
+# add_diag_cross_to_kml(kml, dest, GREEN, 2, CROSS_THICK) #new location
 
 kml.save(OUTPUT)

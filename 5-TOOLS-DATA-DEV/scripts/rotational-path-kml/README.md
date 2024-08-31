@@ -4,6 +4,8 @@
 
 ![china viz](img/china-viz.png "china viz")
 
+The location rotates along the orange line, starting from where the orange meets the blue line, and ending up at the end of the orange line.
+
 ## Dependencies
 
 Need Python installed, along with [pip](https://pip.pypa.io/en/stable/installation/) (Python package manager) and some Python packages (numpy, simplekml, geopy).
@@ -30,5 +32,4 @@ Output KML file will be written to `output.kml` which can then be loaded up into
 Legend:
 - The red crosses are the pivots.
 - Orange line is the path that the location will travel
-- Green cross is where the location will end up
 - Blue lines (104 degrees) are the part of the Earth that will rotate into the orange and red lines
