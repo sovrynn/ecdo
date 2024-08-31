@@ -60,6 +60,10 @@ Unfortunately, most of Korea's high-elevation land is right next to a huge volca
 
 It seems likely that if an ECDO were to happen, this volcano would erupt with at least as much strength as it did in the Millennium eruption. After all, the Millennium eruption was not the first eruption of this volcano either.
 
+I stumbled across this little visual during my investigation - it highlights how while Mt. Paektu might not be submerged, most humans may not be able to survive anywhere near it unless they are underground due to the volcanic ash.
+
+![paektu eruption](img/paektu-eruption.jpg "paektu eruption")
+
 See https://en.wikipedia.org/wiki/946_eruption_of_Paektu_Mountain
 
 ## Mt. Chuga Ryong
@@ -76,7 +80,18 @@ This is an interesting dataset. From what I can see, it indicates that Mount Pae
 
 ![volcanism](img/volcanism.jpg "volcanism data")
 
+## Final verdict
+
+It's not clear to me that there are any surefire large safe locations on this peninsula. It might be possible that south Korea is almost completely submerged, and almost all of the mountain range in north Korea gets completely covered in ash. In that case, a cave in Mt. Myohang, which is basically the furthest possible high point that's away from Mt. Paektu in Korea, might actually be one of the very few places that a human could survive an ECDO event in Korea under normal circumstances. There's probably some other mountain peaks that would stick out but you'd have to be right on the peaks. Without ECDO knowledge you wouldn't get much of a warning signal.
+
+This is an 800m flood map. For reference, Mount Myohang's highest point is 1909 m. [3]
+
+![flood](img/flood.png "800m floodmap")
+
+As you can see, the only significant unsubmerged chunks of land are around Mount Paektu. During the quick S1 -> S2, you might see most of central and south Korea get washed away aside from a few high mountain peaks.
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Paektu_Mountain
 2. https://volcano.si.edu/volcano.cfm?vn=305060
+3. https://en.wikipedia.org/wiki/Mount_Myohyang

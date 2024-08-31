@@ -1,17 +1,15 @@
 # Rotational Path KML generator for Google Earth
 
-`gen.py` is a Python script that will generate a KML file showing movement path of any location during S1 -> S2.
+`gen.py` is a customizable Python script that will generate a KML file showing the movement path of any specified location during S1 -> S2.
 
-![china viz](img/china-viz.png "china viz")
+![china viz](img/beijing-viz.png "china viz")
 ![world viz](img/world-viz.png "world viz")
 
 The location rotates along the orange line, starting from the red pin, and ending up at the end of the orange line touching the green line.
 
-`khafre.kml` is a KML file generated from the script, with rotation lines covering pretty much all locations, centered around Khafre, for those who want a KML file without running the script.
-
 ## Dependencies
 
-Need Python installed, along with [pip](https://pip.pypa.io/en/stable/installation/) (Python package manager) and some Python packages (numpy, simplekml, geopy).
+Need [Python](https://www.python.org/downloads/) installed, along with [pip](https://pip.pypa.io/en/stable/installation/) (Python package manager) which you'll use to install some Python packages (numpy, simplekml, geopy).
 
 Just try running the script in the command line, and follow the error messages, which will tell you what to do.
 
@@ -38,3 +36,7 @@ Legend:
 - Orange line is the path that the location will travel
 - Blue lines (104 degrees) are the part of the Earth that will rotate into the orange and red lines
 - Orange and red lines will rotate into the green lines (104 degrees)
+
+## Starter KML file
+
+`khafre.kml` is a KML file generated from the script, with rotation lines covering pretty much all locations, centered around Khafre, for those who just want a quick way to see rotation lines without running the script.

@@ -16,9 +16,19 @@ This visual shows some areas which could potentially see new crust creation duri
 
 The crust created at these boundaries could then cause movement of plates in other areas, pushing plates into or across each other.
 
-## Reading tectonic plate maps
+## Misc Knowledge
+
+### Reading tectonic plate maps
 
 For convergent plate boundaries, the triangles point away from the plate that is being subducted (pushed underneath the other).
+
+### Types of faults
+
+Transform faults are where plates slide past each other horizontally.
+
+Continental rift is when the plate is undergoing stretching and thinning, leading to the formation of a rift valley. When this progress, it can become an oceanic spreading ridge, which is a divergent boundary.
+
+A convergent boundary typically results in subduction or orogeny.
 
 ## Citations
 
