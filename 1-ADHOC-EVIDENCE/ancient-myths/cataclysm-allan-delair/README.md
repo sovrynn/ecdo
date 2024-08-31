@@ -1,4 +1,3 @@
-
 ## Cataclysmic Myth Dataset
 
 - From the book `Cataclysm! by D. S. Allan, J. B. Delair` : https://archive.org/details/cataclysmcompell00alla
