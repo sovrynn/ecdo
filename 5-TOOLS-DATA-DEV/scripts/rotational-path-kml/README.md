@@ -2,9 +2,13 @@
 
 `gen.py` script is a Python script that will generate a KML file showing movement path of any location during S1 -> S2.
 
+![china viz](img/china-viz.png "china viz")
+
 ## Dependencies
 
 Need Python installed, along with [pip](https://pip.pypa.io/en/stable/installation/) (Python package manager) and some Python packages (numpy, simplekml, geopy).
+
+Just try running the script in the command line; and follow the error messages.
 
 ## Running it
 
@@ -15,7 +19,7 @@ The script reads 5 input values from `input.txt` using a specific format:
 - Second line: longitude of moving location
 - Third line: Number of extra lines to draw on each side of the main rotation line
 - Fourth line: Distance between drawn rotation lines in km
-- Fifth line: Thickness of main line, 5 is a good default (you can go thinner if it's getting in the way)
+- Fifth line: Thickness of orange line, 3 is a good default (you can go thinner if it's getting in the way)
 
 I've included a template input file `input-TEMPLATE.txt`. You'll need to rename it to use it, as well as remove the comments I added (everything after and including the `#`).
 
@@ -23,14 +27,8 @@ I've included a template input file `input-TEMPLATE.txt`. You'll need to rename 
 
 Output KML file will be written to `output.kml` which can then be loaded up into Google Earth.
 
-The red crosses are the pivots.
-
-Green cross at the intersection of red and blue lines is the rotating location.
-
-Green cross at the edge of the red lines is where the location rotates to.
-
-Thick line is the line along which location rotates. Thinner lines are there to help show the neighboring movement.
-
-Red lines are the total path (104 degrees) traveled by the rotating location.
-
-Blue lines (104 degrees) are the part of the Earth that will rotate into the red lines.
+Legend:
+- The red crosses are the pivots.
+- Orange line is the path that the location will travel
+- Green cross is where the location will end up
+- Blue lines (104 degrees) are the part of the Earth that will rotate into the orange and red lines

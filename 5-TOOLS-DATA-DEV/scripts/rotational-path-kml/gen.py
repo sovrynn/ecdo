@@ -7,10 +7,6 @@ from geopy.distance import great_circle
 from geopy.point import Point
 from geopy.distance import distance
 
-'''
-Following 3 functions are for finding the bearing between two points
-Necessary to apply the rotate_point function
-'''
 
 def rotate_point(lat_a, lon_a, lat_x, lon_x, M, N):
     """
@@ -212,12 +208,23 @@ t (thickness of main line, number between 1-20)
 kml = simplekml.Kml()
 OUTPUT = "output.kml"
 
+'''
+not just coords, KML reorders RGB. lovely...
+'''
 RED = "ff0000ff"
 YELLOW = "ff00ffff"
+DY = "ff07c1eb"
 BLUE = "ffFFA500"
 GREEN = "ff00ff00"
+PURPLE = "ffff007f"
+ORANGE = "ff1CACFF"
+BO = "ff00d0ff"
 THICK = 5
 THIN = 2
+
+LB = "ffffc800"
+# LB = "ffeaff00"
+DB = "ffff9900"
 
 with open('input.txt', 'r') as file:
     # ew = file.readline().strip()
@@ -226,7 +233,7 @@ with open('input.txt', 'r') as file:
     y = float(file.readline().strip())
     j = int(file.readline().strip())
     k = int(file.readline().strip())
-    t = int(file.readline().strip())
+    t = float(file.readline().strip())
 
 elat = 0
 elon = 121
@@ -241,6 +248,8 @@ b = elon
 
 THICK = t
 THIN = 0.4 * t
+WTHICK = 0.8 * t
+WTHIN = 0.4 * t
 
 if ew not in ["east", "west"]:
   raise ValueError("First line should either be 'east' or 'west' (without quotes)")
@@ -262,29 +271,33 @@ def add_to_kml(a, b, x, y, m, n, kml, color, thickness):
 plotting the big and small lines
 '''
 if ew == "east":
-    add_to_kml(a, b, x, y, right, -1, kml, RED, THICK)
-    add_to_kml(a, b, x, y, -1, left, kml, BLUE, THICK)
+    # -1 here instead of 0 to add space for the cross
+    add_to_kml(a, b, x, y, right - 2, 0, kml, BO, THICK) # main location
+    add_to_kml(a, b, x, y, 0, left, kml, LB, WTHICK) # backwards
     for i in range(1, j + 1):
         center1 = move_point_closer(a, b, x, y, k * i)
         add_to_kml(a, b, center1[0], center1[1], right, 0, kml, RED, THIN)
-        add_to_kml(a, b, center1[0], center1[1], 0, left, kml, BLUE, THIN)
+        add_to_kml(a, b, center1[0], center1[1], 0, left, kml, DB, WTHIN)
         center2 = move_point_closer(a, b, x, y, -1 * (k * i))
         add_to_kml(a, b, center2[0], center2[1], right, 0, kml, RED, THIN)
-        add_to_kml(a, b, center2[0], center2[1], 0, left, kml, BLUE, THIN)
+        add_to_kml(a, b, center2[0], center2[1], 0, left, kml, DB, WTHIN)
 else:
-    add_to_kml(a, b, x, y, right, -1, kml, BLUE, THICK)
-    add_to_kml(a, b, x, y, -1, left, kml, RED, THICK)
+    add_to_kml(a, b, x, y, right, 0, kml, LB, WTHICK) 
+    add_to_kml(a, b, x, y, 0, left - 2, kml, BO, THICK) # main location
     for i in range(1, j + 1):
         center1 = move_point_closer(a, b, x, y, k * i)
-        add_to_kml(a, b, center1[0], center1[1], right, 0, kml, BLUE, THIN)
+        add_to_kml(a, b, center1[0], center1[1], right, 0, kml, DB, WTHIN)
         add_to_kml(a, b, center1[0], center1[1], 0, left, kml, RED, THIN)
         center2 = move_point_closer(a, b, x, y, -1 * (k * i))
-        add_to_kml(a, b, center2[0], center2[1], right, 0, kml, BLUE, THIN)
+        add_to_kml(a, b, center2[0], center2[1], right, 0, kml, DB, WTHIN)
         add_to_kml(a, b, center2[0], center2[1], 0, left, kml, RED, THIN)
 
-add_cross_to_kml(kml, (elat, elon), RED, 2, THICK) #pivots
-add_cross_to_kml(kml, (wlat, wlon), RED, 2, THICK)
-add_diag_cross_to_kml(kml, (x, y), GREEN, 2, THICK) #location
-add_diag_cross_to_kml(kml, dest, GREEN, 2, THICK) #new location
+CROSS_THICK = 5
+
+add_cross_to_kml(kml, (elat, elon), RED, 2, CROSS_THICK) #pivots
+add_cross_to_kml(kml, (wlat, wlon), RED, 2, CROSS_THICK)
+# add_cross_to_kml(kml, (x, y), GREEN, 1, THIN) #location
+# add_diag_cross_to_kml(kml, (x, y), GREEN, 2, THIN) #location
+add_diag_cross_to_kml(kml, dest, GREEN, 2, CROSS_THICK) #new location
 
 kml.save(OUTPUT)
