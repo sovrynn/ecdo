@@ -13,4 +13,4 @@
 
 - Colab notebook: https://colab.research.google.com/drive/1wBdG8uHHVu4Go5Xds3ccT54PU2qpqVZy?usp=sharing
 
-![analysis](img/analysis.png "analysis")
+![analysis](img/analysis.PNG "analysis")
