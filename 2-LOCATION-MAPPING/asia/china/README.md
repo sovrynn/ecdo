@@ -1,33 +1,17 @@
 # China
 
-China, while having a very large stretch of very high elevation land, still has to deal with quite a bit of water during both S1 -> S2 (Pacific) and S2 -> S1 (Indian Ocean). It potentially also has to deal with the northern parts of the Pacific Ocean spilling over from Russia.
+China, while having a very large stretch of very high elevation land, still has to deal with quite a bit of water during S1 -> S2, and not only along the lines you see here - it potentially has to deal with ocean spilling over from Russia.
 
+![china](img/beijing.png "china rotation path")
 ![china](img/china-elevation-1.png "china elevation")
-![china](img/china-elevation-2.png "china elevation")
 
-## S1 -> S2
+## Ocean Displacement
 
-### Rotational path across the ocean (S1 -> S2)
+I predict China will have to deal with water coming from 4 major chokepoints. Note that the Yellow Sea bay forms a natural chokepoint in and of itself. If you just look at the shape of the east Asian coastline, it's got several very concave bays.
 
-I'll use Beijing as an initial reference point during this calculation.
+![x](img/chokepoints.png "china ocean chokepoints")
 
-Beijing is at an angle of 355 degrees from the eastern pivot, and a Haversine (Earth surface) distance of 4461 km from the eastern pivot.
-
-So, to find the ending point after Beijing rotates, we traverse 4461 km at an angle of 104 degrees from the eastern pivot, giving us a lat/long of (-6.4, 160.2), courtesy of ChatGPT.
-
-Finally, in this visualization, we can see Beijing rotating from the red circle to the green circle along the orange line during S1 -> S2.
-
-![beijing rotation](img/beijing-rotation.png "beijing rotation")
-
-That's a lot of water China will be rushing into.
-
-### S1 -> S2 basic analysis
-
-During S1 -> S2, it's difficult to imagine that the eastern part of China, which is about 0m - 300m in elevation and directly in front of the coast, doesn't get inundated. The Khafre pyramid erosion line is 175m above sea level, and the momentary inundation is likely higher, potentially by multiples.
-
-It does seem that there is a patch of shallower ocean bordering the eastern coast before the ocean gets deeper, although I don't know exactly how much shallower it is. Visualization from NOAA (`TOOLS-DATA-DEV`).
-
-![ocean map](img/china-ocean.png "china ocean")
+China's mainland will not escape unscathed from this water.
 
 ## Physical Evidence, Notable Locations
 

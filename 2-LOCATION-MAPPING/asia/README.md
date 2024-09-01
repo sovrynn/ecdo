@@ -2,8 +2,8 @@
 
 A large continent, it is home of the east ECDO pivot at Sulawesi, Indonesia. It also has one of the largest areas of highest elevation, in west China north of India.
 
-![as](img/asia-elevation.png "asia elevation")
 ![profile](img/profile.png "asia profile")
+![as](img/asia-elevation.png "asia elevation")
 
 See `img/ECDO_ASIA.mp4` for a visualization.
 
@@ -20,6 +20,8 @@ The Pacific Ocean to the right of Japan is anywhere from 5-6 km deep. In the Phi
 As the shallow coastline sea shelves rush into the Pacific, the sea level in East Asia is temporarily going to surge before the water settles down.
 
 Specifically, you can see that there is a huge underwater chokepoint to the right of Japan where the Pacific plate subducts into the Eurasian plate. You can expect that there will be large inflows of water at the two indents of that chokepoint.
+
+In terms of coastline chokepoints, you can see Asia has two concave bays - the Yellow Sea, and the east coast of Korea. Additionally, there is a large concave bay northwards in Russia.
 
 ## Tectonic Plates
 
