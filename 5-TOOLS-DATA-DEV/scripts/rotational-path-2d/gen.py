@@ -368,7 +368,7 @@ kml.drawcoastlines()
 kml.drawcountries()
 
 color = "#e3e3e3"
-ocean_color = '#7ef0fc'
+ocean_color = '#caf8fc'
 
 # Draw map boundary and fill it with a color
 kml.drawmapboundary(fill_color=ocean_color)
