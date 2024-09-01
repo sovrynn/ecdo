@@ -18,26 +18,6 @@ Southern Africa, "The Cradle of Humankind" [1]. Seemingly has no cultural flood 
 - [7] https://nobulart.com/the-diamond-conspiracy/
 - [8] https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
 
-## Swartberg Range
-
-![sa](img/swartberg.png "sa")
-
-### Analysis
-
-![sr](img/swartberg-range.jpg "swartberg range")
-
-The swartberg range has quite a distinctive form - multiple walls of rock jutting out towards the ocean. Maybe its enough to preserve something here during S2>S1.
-
-https://en.wikipedia.org/wiki/San_people#Genetics
-
-Seems to suggest that there's a good anomaly in that region, across multiple 12 000 year cycles. The genetic isolation & then rejoining the gene pool is also interesting.
-
-Ditto cave drawings across the area.
-
-Brenna Henn and colleagues found that the ǂKhomani San, as well as the Sandawe and Hadza peoples of Tanzania, were the most genetically diverse of any living humans studied. This high degree of genetic diversity hints at the origin of anatomically modern humans.[57][58]
-
-A 2008 study suggested that the San may have been isolated from other original ancestral groups for as much as 50,000 to 100,000 years and later rejoined, re-integrating into the rest of the human gene pool.[59]
-
 ## Oranjemund
 
 ![sa](img/oranjemund.png "sa")
@@ -52,33 +32,6 @@ This is the diamond coast, from Oranjemund northwards. See the flow indications 
 ![oranjemund 3](img/oranjemund3.jpg "oranjemund 3")
 
 Red arrow marks pretty much the only point near to 5,000 ft in the region to the East of Oranjemund.
-
-## Namibia
-
-![sa](img/namibia.png "sa")
-
-### Analysis
-
-![namibia 1](img/namibia1.jpg "namibia 1")
-![namibia 2](img/namibia2.jpg "namibia 2")
-
-Parts of Namibia are above 5000 feet. But the reversal from S2 to S1 might be the issue.
-
-## Makgadikgadi
-
-![sa](img/makgadikgadi.png "sa")
-
-Makgadikgadi estimated to have last been wet 16ka BP.
-
-![sa](img/makgadikgadi.jpg "sa")
-
-## Fynbos
-
-![sa](img/fynbos.png "sa")
-
-"The fynbos ecoregion is within the Mediterranean forests, woodlands, and scrub biome. In fields related to biogeography, fynbos is known for its exceptional degree of biodiversity and endemism, consisting of about 80% (8,500 fynbos) species of the Cape floral kingdom, where nearly 6,000 of them are endemic."
-
-"The region occupies less than 0.5% of Africa's land area but supports approximately 20% of its plant life."
 
 ## Etosha Speculative Convo
 
@@ -100,19 +53,55 @@ I reckon the flow going from S2 - S1 is diverted by the formation on the souther
 
 The flow is probably much less severe than in other parts of the globe due to the bow effect you describe.
 
+## Swartberg Range
+
+![sa](img/swartberg.png "sa")
+
+### Analysis
+
+![sr](img/swartberg-range.jpg "swartberg range")
+
+The swartberg range has quite a distinctive form - multiple walls of rock jutting out towards the ocean. Maybe its enough to preserve something here during S2>S1.
+
+### San People Genetic Uniqueness
+
+Seems to suggest that there's a good anomaly in that region, across multiple 12000 year cycles. The genetic isolation & then rejoining the gene pool is also interesting.
+
+Ditto cave drawings across the area.
+
+*"Brenna Henn and colleagues found that the ǂKhomani San, as well as the Sandawe and Hadza peoples of Tanzania, were the most genetically diverse of any living humans studied. This high degree of genetic diversity hints at the origin of anatomically modern humans."*
+
+*"A 2008 study suggested that the San may have been isolated from other original ancestral groups for as much as 50,000 to 100,000 years and later rejoined, re-integrating into the rest of the human gene pool."*
+
+https://en.wikipedia.org/wiki/San_people#Genetics
+
 ## Eswatini Border Cave
 
-![]()
-![]()
-![]()
+![x](img/south-africa-coast.jpg "south africa coast")
+![x](img/south-africa-coast2.jpg "south africa coast")
+![x](img/south-africa-coast3.jpg "south africa coast")
+
+## Makgadikgadi
+
+![sa](img/makgadikgadi.png "sa")
+
+Makgadikgadi estimated to have last been wet 16ka BP.
+
+![sa](img/makgadikgadi.jpg "sa")
+
+## Fynbos
+
+![sa](img/fynbos.png "sa")
+
+"The fynbos ecoregion is within the Mediterranean forests, woodlands, and scrub biome. In fields related to biogeography, fynbos is known for its exceptional degree of biodiversity and endemism, consisting of about 80% (8,500 fynbos) species of the Cape floral kingdom, where nearly 6,000 of them are endemic."
+
+"The region occupies less than 0.5% of Africa's land area but supports approximately 20% of its plant life."
 
 ## Underwater coastal shape
 
-![]()
+![x](img/south-africa-coast4.jpg "south africa coast")
 
-## Hot Wind
-
-Southern Africa going to be blasted with hot air from the Sahara at 900+km/h?
+Well shaped to avoid inundation. Looks like it could carve the water on the way back from S2 -> S1.
 
 ## TODO
 
