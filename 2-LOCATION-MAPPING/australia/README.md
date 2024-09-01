@@ -4,8 +4,6 @@ Australia is somewhat close to the eastern ECDO pivot in Indonesia. It is possib
 
 ![aus](img/australia8.jpg "aus")
 
-See `australia.mp4` for a visualization.
-
 ## Analysis
 
 Oceania ECDO visualization using the V4 model.[1] Australia and many of the Pacific islands have many flood stories.[2] Australia bears many evidences of possible diluvial flows reinforced with numerous large salt deposits.[3] We also find a description of a possible rotation in the Australian paleomagnetic record from half a billion years ago.[4] Australia: "A great flood drowned most of the people. A few escaped to the top of the tall mountain Bibbiringda, which is inland of the northern bay of Cape Cleveland. [Frazer, p. 236]" and "Bunjil, the creator, was angry with people because of the evil they did, so he caused the ocean to flood by urinating into it. All people were destroyed except those whom Bunjil loved and fixed as stars in the sky, and a man and a woman who climbed a tall tree on a mountain, and from whom the present human race is descended. [Gaster, p. 114]"[2]

@@ -2,8 +2,6 @@
 
 ![aus](img/new-zealand.png "aus")
 
-See `img/new-zealand.mp4` for a visualization.
-
 ## Nobulart
 
 New Zealand (Māori: Aotearoa) by request: ECDO displacement detail S1>S2>S1 [1]. Note the striking alignment between the local bathymetry and the displacement path.

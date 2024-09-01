@@ -41,7 +41,7 @@ The pillars are of quartz-sandstone pillars and [resemble kartz terrain](https:/
 
 The absolute goldmine work into these mountains is a 2020 research paper by Yaohuang Li proposing ocean erosion as the main cause of these structures. Check `research-papers/Zhangjiajie-sea-erosion.pdf` to read it.
 
-Definitely a good chance this location was created by fast-moving water/debris. Not sure whether it would have been during S1 -> S2, S2 -> S1, or both.
+Definitely a good chance this location was created by fast-moving water/debris.
 
 ### Zhoukoudian Cave (Beijing)
 

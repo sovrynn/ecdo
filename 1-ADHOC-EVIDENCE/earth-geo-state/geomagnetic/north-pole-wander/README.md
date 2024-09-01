@@ -13,7 +13,7 @@ https://www.ncei.noaa.gov/maps/historical_declination/
 
 ## 1840 - 2019 Magnetic North Pole Wander Video
 
-Video at `img/npw.mp4`. It is an excellent visualization, compiled from historic observational and SWARM data. Note the apparent >270° deviation that occurred in the mid-1800's.
+Visualization video of north pole wander, compiled from historic observational and SWARM data. Note the apparent >270° deviation that occurred in the mid-1800's.
 
 Source: https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Magnetic_north_and_the_elongating_blob
 

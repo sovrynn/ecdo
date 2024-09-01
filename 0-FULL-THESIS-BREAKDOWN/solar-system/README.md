@@ -38,7 +38,7 @@ See `LITERATURE/landscheidt` for a hard copy.
 
 In this paper, Landscheidt explores the relation of the double derivative, or acceleration, of angular momentum, with the Gleissberg cycle.
 
-He proposes that there is a definite correspondence, but the relationship has two possible states, and alternate between the states at phase reversals.
+He proposes that there is a definite correspondence, but the relationship has two possible states, and alternates between the states at phase reversals.
 
 ![double angular momentum deriv](img/double-am-derivative.png "double angular momentum derivative graph")
 

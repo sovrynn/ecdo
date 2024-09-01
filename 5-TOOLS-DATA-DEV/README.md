@@ -23,7 +23,9 @@ Ocean mapping:
 
 ## Globe mapping libraries
 
-- https://githxub.com/openglobus/openglobus
+Matplotlib + basemap, geopandas
+
+- https://github.com/openglobus/openglobus
 - https://cesium.com/platform/cesiumjs
 
 ## Lat/long tools
