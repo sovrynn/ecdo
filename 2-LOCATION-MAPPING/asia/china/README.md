@@ -5,6 +5,10 @@ China, while having a very large stretch of very high elevation land, still has 
 ![china](img/beijing.png "china rotation path")
 ![china](img/china-elevation-1.png "china elevation")
 
+Beijing:
+- Coordinates (39.9 N, 116.4 E)
+- Rotating at 1242 km/h during a 6 hour rotation
+
 ## Ocean Displacement
 
 I predict China will have to deal with water coming from 3 major chokepoints, along with the (shallow) water already in the Yellow Sea. Note that the Yellow Sea bay forms a natural chokepoint in and of itself. If you just look at the shape of the east Asian coastline, it's got several very concave bays.

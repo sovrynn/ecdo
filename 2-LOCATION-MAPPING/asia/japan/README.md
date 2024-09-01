@@ -4,13 +4,17 @@ An island nation in East Asia lying on the Pacific Plate boundary. It has to dea
 
 ![x](img/profile.png "japan rotation path")
 
+Tokyo:
+- Coordinates: (35.7 N, 139.7 E)
+- Rotating at speeds of 1235 km/h during a 6 hour rotation
+
 ## Ocean displacement
 
 Japan has two major sub-oceanic chokepoints due to the Pacific plate subduction:
 
 ![x](img/chokepoints.png "japan sub-oceanic chokepoints")
 
-The quantity of water being pushed up at these chokepoints is going to be immense. The depth of the Pacific in that area is 5-6 km, and it has to pretty much surface level. The surge will be insane.
+The quantity of water being pushed up at these chokepoints is going to be immense. The depth of the Pacific in that area is 5-6 km, and it has to essentially reach surface level, potentially at speeds of over 1000 km/h. The surge will be insane.
 
 ## Volcanoes and tectonics
 
@@ -26,7 +30,7 @@ The oldest written reference to Japan traces back to the Chinese Book of Han, ar
 
 The oldest remains of human inhabitants have been traced back to at least 10,000 BC. [2] For example, human remains in the Kamikuroiwaiwakage Cave have been dated to around 14,500 years ago. [3]
 
-It seems likely that humans did indeed inhabit Japan in periods long ago.
+It seems likely that humans did indeed inhabit Japan during periods long ago.
 
 ## Flood Myths
 
@@ -35,6 +39,8 @@ Japan has no major flood myths. [4] When considering such a major event as an EC
 ## Verdict
 
 Japan has to deal with very deep Pacific Ocean chokepoints, volcanoes peppering its island, and powerful subduction plate boundaries. It's likely that Japan will face significant trials during S1 -> S2.
+
+If I had to find a region to stay in, it would be at one of the highest mountain peaks in the mid-western areas of Japan that don't have any volcanoes (see map above).
 
 ## Citations
 

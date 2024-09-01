@@ -1,14 +1,16 @@
 # Korea
 
-Overall, while there is evidence of survivors of an ECDO event (Dangun's parents), Korea is not a great location. It's right on the coast, traverses a huge amount of water, has a massive volcano, and has a large concave bay, which would force the ocean up over the land.
+Overall, while there is evidence of survivors of an ECDO event (Dangun's parents), Korea is not a great location. It's right on the coast, has to deal with a massive Pacific Ocean surge coming over from Japan, has a massive volcano, and has a large concave bay, which would force the ocean up over the land.
 
-Seoul: (37.5 N, 127 E)
+Seoul:
+- (37.5 N, 127 E)
+- 4215 km away from the eastern pivot, it would rotate at 1184 km/h in a 6 hour rotation.
 
 ## S1 -> S2 Rotation path
 
 ![rotation path](img/rotation.png "rotation path")
 
-Japan is the only land between Korea and the Pacific. 4215 km away from the eastern pivot (Seoul), it would rotate at 1184 km/h in a 6 hour rotation.
+Japan is the only land between Korea and the Pacific.
 
 ## Elevation profile
 
@@ -22,11 +24,11 @@ From observing Korea on Google Maps and Earth, I did not find clear evidence of 
 
 ## Water flow
 
-The way I see it, Korea's geography is not great for bypassing the water flow. It has two water chokepoints - areas where the bay forms a concave shape, forcing the water to flow up over the land.
+The way I see it, Korea's geography is pretty much as bad as it gets for bypassing the water flow. Its east coast essentially forms a huge chokepoint, which will force the surge coming over from Japan to flow up over the land. I predict the water will flow over Korea starting at these two areas:
 
 ![chokepoints](img/chokepoints.png "chokepoints")
 
-If I had to guess, most of Korea will be inundated, with only a few areas at the highest elevations safe. These areas will almost certainly be inundated:
+If I had to guess, most of Korea will be inundated, with only a few areas at the highest elevations safe. This is how I'm visualizing the flow, with the circled areas entirely inundated:
 
 ![chokepoints](img/chokepoints2.png "chokepoints")
 
@@ -86,9 +88,9 @@ This is an 800m flood map. For reference, Mount Myohang's highest point is 1909 
 
 As you can see, the only significant unsubmerged chunks of land are around Mount Paektu. During the quick S1 -> S2, you might see most of central and south Korea get washed away aside from a few high mountain peaks.
 
-Probably, robust shelter on Mount Myohang or the mountain range right above or to the right of it would be the best bet for survival. Don't want to be too close to the volcano, and better to be on western mountains that are protected from the wind by eastern mountains.
+Probably, robust shelter on Mount Myohang or the mountain range right above or to the right of it would be the best bet for survival. Don't want to be too close to the volcano or the surge. The eastern mountains will shield not only the surge but also the wind.
 
-In the south of Korea, a carefully selected location on the eastern mountain range, not on the easternmost side as to avoid the initial water surge and wind, would be the best bet.
+In the south of Korea, a carefully selected location on the highest points of the eastern mountain range, not on the easternmost side as to avoid the initial water surge and wind, would be the best bet.
 
 ## Citations
 
