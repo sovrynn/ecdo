@@ -21,6 +21,7 @@ Still, have you ever stood in the tides of the ocean as they flow out to sea? Th
 
 `LOCATION-MAPPING` is where all the location-specific flood analysis will go. Some good examples are:
 - Turkey (Urgup Cones), 1025m above sea level
+- East Asia
 
 I'll add to this list promptly.
 
@@ -37,3 +38,7 @@ Oceans are different. Oceans are massive - extremely deep, and extremely wide. W
 There is going to be huge amounts of water. And the water is going to meet a continent rushing at it at speeds of potentially hundreds or thousands of kilometers an hour (See `FULL-THESIS-BREAKDOWN/s1-to-s2/rotation-speed`).
 
 The water will have to go somewhere, in that very moment. Just try running your hand through the surface of a pool very fast. If the land really does move at hundreds or thousands of kilometers an hour, water is inevitably going to overflow onto the land. The next question then is, how much? That is where you have to start analyzing locations case-by-case.
+
+## Authors
+
+1. [Sovrynn](https://sovrynn.github.io)

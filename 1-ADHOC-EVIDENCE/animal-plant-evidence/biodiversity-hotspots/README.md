@@ -20,6 +20,12 @@ If you look at the map of biodiversity hotspots, there's a lot of overlap with h
 
 ![biodiversity](img/biodiversity-old.jpg "biodiversity")
 
+## Unexplained phenomena
+
+![x](img/wallaces-line.jpg "wallaces line")
+
+The timing agrees - a YD event. The explanation under ECDO is essentially the same. The only variation is the attributed cause - deglaciation vs rotation (which would also precipitate deglaciation in many places).
+
 ## Citations
 
 - https://www.researchgate.net/figure/A-Species-density-map-for-4-967-freshwater-fish-species-Density-was-calculated-as_fig3_366847384
