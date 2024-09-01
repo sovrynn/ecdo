@@ -7,7 +7,7 @@ China, while having a very large stretch of very high elevation land, still has 
 
 ## Ocean Displacement
 
-I predict China will have to deal with water coming from 4 major chokepoints. Note that the Yellow Sea bay forms a natural chokepoint in and of itself. If you just look at the shape of the east Asian coastline, it's got several very concave bays.
+I predict China will have to deal with water coming from 3 major chokepoints, along with the (shallow) water already in the Yellow Sea. Note that the Yellow Sea bay forms a natural chokepoint in and of itself. If you just look at the shape of the east Asian coastline, it's got several very concave bays.
 
 ![x](img/chokepoints.png "china ocean chokepoints")
 

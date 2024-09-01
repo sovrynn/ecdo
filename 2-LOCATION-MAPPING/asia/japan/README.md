@@ -1,14 +1,24 @@
 # Japan
 
-An island nation in East Asia lying on the Pacific Plate boundary.
+An island nation in East Asia lying on the Pacific Plate boundary. It has to deal with a huge span of Pacific Ocean, along with a major subduction zone of the Pacific plate.
 
-## Basic geographical characteristics
+![x](img/profile.png "japan rotation path")
 
-Japan is the easternmost chunk of land in East Asia, which rotates clockwise, so at least in S1 -> S2, it would likely bear the full brunt of Pacific ocean displacement.
+## Ocean displacement
 
-Japan also has many volcanoes, [5] and is situated right on the Pacific Plate boundary. In fact, there are very few regions that aren't in close proximity to a volcano. It is known to experience many earthquakes even in normal times.
+Japan has two major sub-oceanic chokepoints due to the Pacific plate subduction:
 
-It seems likely that Japan may experience significant trials during S1 -> S2.
+![x](img/chokepoints.png "japan sub-oceanic chokepoints")
+
+The quantity of water being pushed up at these chokepoints is going to be immense. The depth of the Pacific in that area is 5-6 km, and it has to pretty much surface level. The surge will be insane.
+
+## Volcanoes and tectonics
+
+Japan has many volcanoes [5], and is situated right on the Pacific Plate boundary. In fact, there are very few regions in Japan that aren't in close proximity to a volcano. [6]
+
+![x](img/volcanoes.png "japan volcano map")
+
+It is known to experience many earthquakes even in normal times.
 
 ## Oldest history
 
@@ -22,6 +32,10 @@ It seems likely that humans did indeed inhabit Japan in periods long ago.
 
 Japan has no major flood myths. [4] When considering such a major event as an ECDO, one may wonder why there is no major flood myth, if there were survivors to such an event, as tales would have been told about it for generations to come, and it would have significantly restructured society on the island.
 
+## Verdict
+
+Japan has to deal with very deep Pacific Ocean chokepoints, volcanoes peppering its island, and powerful subduction plate boundaries. It's likely that Japan will face significant trials during S1 -> S2.
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/History_of_Japan#cite_note-:0-1
@@ -29,3 +43,4 @@ Japan has no major flood myths. [4] When considering such a major event as an EC
 3. https://en.wikipedia.org/wiki/Kamikuroiwaiwakage_Site
 4. https://en.wikipedia.org/wiki/List_of_flood_myths#Japan
 5. https://en.wikipedia.org/wiki/List_of_volcanoes_in_Japan
+6. https://www.legacyias.com/sakurajima-volcano-erupted-on-japan/
