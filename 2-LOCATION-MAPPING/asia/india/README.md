@@ -2,6 +2,8 @@
 
 ![india](img/india.png "india")
 
+See `img/india-visualization.mp4` for a visualization.
+
 ## Analysis
 
 ![ie1](img/indiaerosion1.jpg "ie1")

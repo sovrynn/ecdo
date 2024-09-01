@@ -97,20 +97,3 @@ This will allow you to easily reference a list of potential topics to look into 
 ## Translations
 
 Translations can be put in `/translation` folders within the relevant directory.
-
-## TODO
-
-Find a new place to host these:
--./2-LOCATION-MAPPING/south-america/drake-passage/img/drake-passage.mp4
--./2-LOCATION-MAPPING/south-america/img/ECDO_SAMERICA.mp4
--./2-LOCATION-MAPPING/australia/new-zealand/img/new-zealand.mp4
--./2-LOCATION-MAPPING/australia/img/australia.mp4
--./2-LOCATION-MAPPING/asia/india/img/india-visualization.mp4
--./2-LOCATION-MAPPING/asia/img/ECDO_ASIA.mp4
--./2-LOCATION-MAPPING/north-america/img/north-america-viz.mp4
--./2-LOCATION-MAPPING/north-america/carribean/img/ECDO_CARIBBEAN.mp4
--./2-LOCATION-MAPPING/antarctica/img/ECDO_ANTARCTICA.mp4
--./2-LOCATION-MAPPING/arctic/img/ECDO_ARCTIC.mp4
--./2-LOCATION-MAPPING/africa/north-africa/img/ECDO_NORTH_AFRICA.mp4
--./2-LOCATION-MAPPING/africa/south-africa/img/south-africa-viz.mp4
--./1-ADHOC-EVIDENCE/earth-geo-state/geomagnetic/north-pole-wander/img/npw.mp4

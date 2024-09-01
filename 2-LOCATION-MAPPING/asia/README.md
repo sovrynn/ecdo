@@ -5,6 +5,8 @@ A large continent, it is home of the east ECDO pivot at Sulawesi, Indonesia. It 
 ![profile](img/profile.png "asia profile")
 ![as](img/asia-elevation.png "asia elevation")
 
+See `img/ECDO_ASIA.mp4` for a visualization.
+
 # Analysis
 
 ## Oceanic Displacement
