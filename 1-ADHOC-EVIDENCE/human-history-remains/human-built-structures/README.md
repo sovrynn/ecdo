@@ -103,6 +103,18 @@ https://www.archaeology.org/travel/interactivemap-troy/troy-7.html
 https://www.haaretz.com/archaeology/2020-09-13/ty-article/.premium/canaanite-palace-built-on-a-fault-was-destroyed-by-quake-3-700-years-ago/0000017f-f0fd-df98-a5ff-f3fd07000000
 - Mirror: https://archive.is/gy2xq
 
+## Ebla
+
+![x](img/ebla.jpg "ebla")
+
+Ebla. Estimated destruction and final abandonment c.~1600BC. This date could well be erroneous, as it was arrived at by attributing the destruction to the Hittite conquests at that time, with no solid evidence linking the two. Pure speculation. This could easily have fallen around 1700BC.
+- [1] https://books.google.co.za/books?id=E1aF0hq1GR8C&lpg=PA211&pg=PA211#v=onepage&q&f=false
+- [2] https://en.wikipedia.org/wiki/Ebla
+
+## Ankara break in history 1700 BC - 1000 BC
+
+Due to destruction by an earthquake.
+
 ## India Extended Flood Evidence
 
 There is a paper by BB Lal that dates ancient Indian cities that were flooded for an extended period, evidenced by excavating and investigating deposits in their remains, to ~1900 BC. See `ADHOC-EVIDENCE/ancient-myths/asia/india` for more.

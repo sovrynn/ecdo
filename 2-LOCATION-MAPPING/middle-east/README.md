@@ -5,3 +5,7 @@
 ## Notable Landmarks
 
 Egypt is home to the Khafre pyramid.
+
+## Pakistan
+
+![x](img/pakistan.jpg "pakistan")

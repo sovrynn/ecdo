@@ -28,7 +28,7 @@ Mesopotamian flood myth. Utnapishtim builds a boat and survives the flood. Appar
 - https://en.wikipedia.org/wiki/Gilgamesh_flood_myth
 - https://www.worldhistory.org/article/227/the-atrahasis-epic-the-great-flood--the-meaning-of/
 
-## Turkey
+## Turkey deluge account
 
 Not only does it describe a deluge, it specifically describes an oceanic displacement.
 
@@ -37,19 +37,19 @@ Not only does it describe a deluge, it specifically describes an oceanic displac
 
 [1] Myth, Legend and Custom in the Old Testament, Gaster (1969)
 
+## Turkey flood myth
+
+- https://talkorigins.org/faqs/flood-myths.html
+	- This one cites the time as being around that of Alexander the Great (4th century BC), so the timing is a bit of an issue, but being a "story" its possibly incorrectly attributed to his time. There is however, another link to something happening in this area at the time Alex was around.
+		- https://x.com/nobulart/status/1803411938451374121?s=46
+		- https://x.com/nobulart/status/1801746221809209701?s=46
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Hittites
 2. https://en.wikipedia.org/wiki/K%C3%BCltepe
 
 ## TODO additional leads
-
-Black Sea inundation of Ankara from around 1750-1700BC.
-- https://talkorigins.org/faqs/flood-myths.html
-	- This one cites the time as being around that of Alexander the Great (4th century BC), so the timing is a bit of an issue, but being a "story" its possibly incorrectly attributed to his time. There is however, another link to something happening in this area at the time Alex was around.
-		- https://x.com/nobulart/status/1803411938451374121?s=46
-		- https://x.com/nobulart/status/1801746221809209701?s=46
-- https://x.com/nobulart/status/1822018953620943257?s=46
 
 Research Paper "Noah's Flood: The New Scientific Discoveries About the Event that Changed History" by William Ryan and Walter Pitman
 

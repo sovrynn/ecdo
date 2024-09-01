@@ -2,23 +2,13 @@
 
 This folder is for predicting the date of the impending ECDO, along with potential triggers for it.
 
-## Timeframe Speculation
+## When did it start?
 
-Possible destabilization began around 1973 (Reference Ethical Skeptic thesis).
+Possible destabilization began around 1973. See Ethical Skeptic's first thesis.
+
+## S1 -> S2 Rotation Prediction: June 2030
 
 Nobulart prediction: Worst case S1 -> S2 as early as mid-2030, with S2 -> S1 in 2042/3.
-
-## TODO Possible Triggers
-
-- galactic current sheet
-- micronova
-- planetary alignment
-- periodic comet
-- Earth simply letting go
-
-## Ben Davidson
-
-Seems to have done some work useful for predicting the ECDO timeframe. See `LITERATURE/ben-davidson`.
 
 ## Nobulart
 
@@ -49,12 +39,42 @@ This shows how the gas giant orbital rhythm is locked to the grand solar minimum
 
 We have the first of one of those double-taps coming up in June 2030.
 
+## Nobulart
+
+![x](img/jpl-horizon.jpg "")
+
+The yellow chart is generated from JPL's Horizons data. It shows the Sun's displacement from the Solar System Barycenter (SSB) from 1600-2059 - this is our main proxy for planetary harmonics. The particular Neptune/Uranus disturbances ~172 years apart (marked in blue) are the key marker series in the 4,627-year (IV) cycle identified by Landscheidt et al - they are the precursor to previous Grand Solar Minimums. Note how the gravitational minimum (red circles) after the first disruptions aligns temporally with the mid-1800's Magnetic North Pole path deviation. The minimum after the second disturbance is Landscheidt's 2030 predicted date for the onset of the GSM. The animation provides a timelapse representation of the Sun's "wobble" due to planetary gravitational influences.
+
+- [1] https://ssd.jpl.nasa.gov/horizons/
+- [2] http://landscheidt.info
+- [3] https://x.com/nobulart/status/1824455551939662016
+
+Mentioned video is `img/SSBwobble.mp4`.
+
 ## Gas giant harmonic (June 2030)
 
 See `ADHOC-EVIDENCE/solar-system` for details.
 
-An important date in this data is June 2030.
+An important date in this data is June 2030 - grand solar minimum.
 
 ## Encke Comet (June 2030)
 
 There will be a historically close pass with Encke in June 2030. ±40 million km.
+
+## Nobulart speculative theory
+
+![x](img/2030-triggers.jpg "")
+
+## Authors
+
+1. [Nobulart](https://nobulart.com)
+
+## TODO Possible Triggers
+
+Look into Ben Davidson
+
+- galactic current sheet
+- micronova
+- planetary alignment
+- periodic comet
+- Earth simply letting go

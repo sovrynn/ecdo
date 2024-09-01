@@ -34,3 +34,11 @@ I found an Antarctic 800ka raw ice-core temperature dataset. Here's the last 20k
 ![ice coretemp data](img/ice-core-data.jpg "ice coretemp data")
 
 The complete 800ky record set fairly obliterates the "unprecedented warming" narrative. It's been much warmer (and colder) in the past. This core spans from the surface (now) right down to 3260m (800ky).
+
+## Carbon in Antarctica Lakes
+
+![x](carbon-ice.jpg "carbon ice")
+![x](carbon-ice2.jpg "carbon ice")
+
+- [1] https://annas-archive.org/scidb/10.1002/2016GL068609
+- [2] https://www.nsf.gov/news/news_summ.jsp?cntn_id=138871

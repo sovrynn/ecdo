@@ -44,6 +44,10 @@ Davolja Varos (earth towers)
 
 Chocolate Hills in Philippines
 
+## TODO Nobulart quote
+
+Nevada and Utah are classic examples of huge flood morphology. We found current ripples in Somalia which gave a calculated water depth of 1.2km, probably the Mediterranean. Observed water levels in many places appear to be in agreement with theorized movement of water. The ripples I’ve seen in France, USA, South America and Australia suggest water MUCH deeper than Somalia. Definitely 3-4km and more in places.
+
 ## TODO heuristics for evaluating locations
 
 Additional potential heuristics:

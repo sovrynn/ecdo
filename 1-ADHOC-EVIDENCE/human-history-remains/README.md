@@ -59,3 +59,10 @@ https://en.wikipedia.org/wiki/Old_Assyrian_period#Assyrian_Dark_Age
 "If counting from the following Shang dynasty which has been universally recognized by historians, China has only about 3,700 years of recorded history, which is still a big gap from 5,000 years."
 
 https://en.wikipedia.org/wiki/Five_thousand_years_of_Chinese_civilization
+
+## Polynesia History
+
+![x](img/polynesian.jpg "polynesian history")
+
+Spread of the Polynesian seafaring nations. Note how tightly confined they were to the area around Taiwan until sometime between 4,000BC and 3,000BC. Almost as though a few survivors of the Noahic deluge sprang forth from there.
+- [1] The enigmas of Easter Island, Flenley and Bahn (2003) https://archive.org/details/enigmasofeasteri0000flen

@@ -1,5 +1,7 @@
 # North Africa
 
+## Nobulart analysis
+
 See `img/ECDO_NORTH_AFRICA.mp4` for visualization.
 
 ECDO displacement visualisation using V4.[1] Mega current ripples in Mauritania[2] and and teardrop island erosion[3] and more ripples in Sudan[4][5] indicating flows over 1 km deep.[6] Northern Africa has a fairly rich collection of flood 'myths': "The sun once met the moon and threw mud at it, making it dimmer. There was a flood when this happened. Men put their milk stick behind them and were turned into monkeys. The present race of men is a recent creation." - Lower Congo flood story.[7]
@@ -13,3 +15,18 @@ ECDO displacement visualisation using V4.[1] Mega current ripples in Mauritania[
 - [5] https://x.com/nobulart/status/1808501677340635357
 - [6] https://x.com/nobulart/status/1808579489582174609
 - [7] https://talkorigins.org/faqs/flood-myths.html#Africa
+
+## Sudan
+
+![x](img/sudan1.jpg "sudan")
+![x](img/sudan2.jpg "sudan")
+![x](img/sudan3.jpg "sudan")
+![x](img/sudan4.jpg "sudan")
+![x](img/sudan5.jpg "sudan")
+![x](img/sudan6.jpg "sudan")
+
+If megafloods were all the result of outflows from glacial lakes, then what are [these bad boys](https://maps.app.goo.gl/oxieyw9w9C6P2Evz6) doing 15 degrees north of the equator in Sudan? They look like GCR's [Giant Current Ripples (https://en.wikipedia.org/wiki/Giant_current_ripples)] with an average 555m between troughs, and heights of 10m. They do not appear to be sand dunes - they're too shallow and they've remained static for at least the last 40 years according to available imagery. 
+
+Using the GCR chord length [equation](https://pubs.geoscienceworld.org/gsa/books/book/275/chapter-abstract/3795280/Paleohydrology-and-Sedimentology-of-Lake-Missoula) to determine water depth based on ripple size, [I arrive at a water depth of 1,200m](https://chatgpt.com/share/6c38d048-e4fa-4e39-911d-bce8caf0eef4). I used a 10km long sample to determine average slope (0.0018) and chord length (555m).
+
+The Sahara looks like one of the largest megafloodplains on the planet, with obvious flows thousands of kilometers wide running to the south and the west.

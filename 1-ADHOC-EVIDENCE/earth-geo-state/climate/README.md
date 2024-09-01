@@ -9,6 +9,8 @@ The [first part](https://theethicalskeptic.com/2020/02/16/the-climate-change-alt
 - *"48% of global ocean sea surface temperature heat content rise from 1995 to 2023 arrived in a mere 3 to 4 weeks of 2023, far too fast for the atmosphere or man to serve as the cause. A record level Antarctic ice melt-off occurred simultaneously to this and during a record cold winter"*
 - *"Abyssal and deep oceans at sea bottom are absorbing excessive novel heat content per cubic kilometer of ocean"*
 
+![1973](img/1973.jpg "ethical skeptic 1973 viz")
+
 The first four citations from his work may also be good leads:
 - Penny Starr; Breitbart News: Politics: Study: Oceans Heating up Like ‘3.6 Billion Hiroshima Atom-Bomb Explosions’; 15 Jan 2020; https://www.breitbart.com/politics/2020/01/15/study-oceans-heating-up-like-3-6-billion-hiroshima-atom-bomb-explosions/
 - Cheng, Abraham, et. al.; Record-Setting Ocean Warmth Continued in 2019; Advances In Atmospheric Sciences, Vol. 37, Feb 2020, 137–142 https://link.springer.com/content/pdf/10.1007%2Fs00376-020-9283-7.pdf
@@ -81,3 +83,11 @@ The authors of this paper observed a 3.4% reduction in shear wave velocity relat
 *"The mid-24th century BCE climate anomaly is the period, between 2354 and 2345 BCE, of consistently reduced annual temperatures that are reconstructed from consecutive abnormally narrow, Irish oak tree rings."*
 
 https://en.wikipedia.org/wiki/Mid-24th_century_BCE_climate_anomaly#:~:text=In%201997%2C%20Marie-Agn%C3%A8s%20Courty,hundred%20kilometres%20from%20each%20other
+
+## Saudi Arabia temps
+
+![x](img/saudi.jpg "saudi temps")
+
+Whenever we see the use of terms like "heat index", we should consider that it might be propaganda. "Indexes" are derivatives used to push agendas. Actual maximum temperature around the gulf right now (and with history).
+
+https://earth.nullschool.net/#2024/08/28/1500Z/wind/surface/level/anim=off/overlay=temp/orthographic=-311.30,22.87,2081/loc=48.964,31.073

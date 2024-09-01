@@ -4,4 +4,4 @@ Rumble author (geologist) who has published a [video](https://rumble.com/v5auer1
 
 The basic idea is that geological features such as mountains are not created by orogenesis and tectonic plates, but by massive wave flows consisting of water, sediment, and magma - vast quantities of material that moves and relocates as one sediment body.
 
-He estimates waves of 10-15 km or more in height from today's sea level.
+He estimates waves of 10-15 km or more in height from today's sea level. Believes these late mammoths were frozen in after event conditions - "instant" drop of temperature.

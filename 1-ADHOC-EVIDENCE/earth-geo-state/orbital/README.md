@@ -38,3 +38,11 @@ Note how the observed polar nutation over the past 120 years appears to be follo
 "The original map in the paper is a north polar view. I added Antarctica as it is positioned at the opposite pole, as though you're looking through the planet to see the ice on the other side. Since its a sphere, if the antarctic wants to pull East (in this view) the north pole is going to tend west. It significant to ECDO because it's showing the effect of Antarctica's mass as the core-mantle coupling continues to degrade." - Nobulart
 
 https://www.nature.com/articles/s41561-024-01478-2
+
+## Length of day increasing over billion years
+
+The geo record indicates that the length of day (axial velocity) has quite steadily progressed from 16 hour days 2.5 billion years ago to 24 hour days now. An approximate 13% reduction in axial velocity per 1 billion years. Axial velocity is regulated by mass distribution. A broadening mass will incur slower rotation.
+
+![x](img/rotation-slowing.jpg "rotation slowing")
+
+https://arxiv.org/pdf/2309.11479
