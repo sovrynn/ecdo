@@ -5,9 +5,9 @@
 ![sa](img/garden-of-eden3.jpg "sa")
 
 South America's Garden of Eden. It's within the arc described by TES[0] that we see the greatest biodiversity in South America. The first image is freshwater fish species density.[1] Second image is endemic species density of birds (left), mammals (middle), and amphibians (right).[2]
-[0] https://x.com/EthicalSkeptic/status/1805023386495508796
-[1] https://www.researchgate.net/publication/366847384_Landscape_dynamics_and_diversification_of_the_megadiverse_South_American_freshwater_fish_fauna
-[2] https://www.ecoclimax.com/2016/06/south-america-showing-color-coded.html
+- [0] https://x.com/EthicalSkeptic/status/1805023386495508796
+- [1] https://www.researchgate.net/publication/366847384_Landscape_dynamics_and_diversification_of_the_megadiverse_South_American_freshwater_fish_fauna
+- [2] https://www.ecoclimax.com/2016/06/south-america-showing-color-coded.html
 
 ## Nobulart
 
@@ -16,7 +16,7 @@ South America's Garden of Eden. It's within the arc described by TES[0] that we 
 ![sa](img/western-pivot2.jpg "sa")
 
 Earthquakes and volcanic activity are going to be intense here because of the nearby triple-plate subduction boundary nexus. Ecuador and Colombia have plenty. If I had to choose within this area, I think my first choice would be the top of Roraima. Second would be somewhere like this at 4300m above sea level. Laguna Toctuca in Peru.
-https://maps.app.goo.gl/ZF2qdc742n2ybmN87
+- https://maps.app.goo.gl/ZF2qdc742n2ybmN87
 
 ## Nobulart
 
@@ -25,7 +25,7 @@ https://maps.app.goo.gl/ZF2qdc742n2ybmN87
 ![sa](img/roraima-terrace3.jpg "sa")
 
 ...look at this terraced gem to the west of Roraima. If water didn't do that then I don't know what...
-https://maps.app.goo.gl/3HcWzv3ULpZxRLpC8
+- https://maps.app.goo.gl/3HcWzv3ULpZxRLpC8
 
 ## Nobulart
 
@@ -41,4 +41,4 @@ This mesa is just over 300km from Roraima. Red curve is the ECDO path. The struc
 ![sa](img/roraima-380-2.jpg "sa")
 
 380km from Roraima. Remarkable path congruence at an onboarding point for the water during S1>S2.
-https://maps.app.goo.gl/7G3UwhRJjzXtnpTN8
+- https://maps.app.goo.gl/7G3UwhRJjzXtnpTN8

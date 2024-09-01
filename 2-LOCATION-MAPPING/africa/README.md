@@ -17,4 +17,5 @@ Southern Africa, especially above the Drakensberg range, is the safest from both
 ## Nobulart
 
 “The area bounded by Zaire, South Africa, and Kenya suffers only severe earthquakes and winds – little inundation. Survivors there marvel at the Sun, standing still in the sky for nearly half a day.” - TAES, Chan Thomas (1963)
+
 [1] https://nobulart.com/the-adam-and-eve-story/

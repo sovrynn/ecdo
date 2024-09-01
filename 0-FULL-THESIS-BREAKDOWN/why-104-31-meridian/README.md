@@ -19,6 +19,6 @@ If you rotate this pyramid in any direction other than the one Ethical Skeptic h
 Ethical Skeptic's third thesis has a very in-depth explanation on why the design of the Khafre pyramid would support the exact rotation amount and orientation he describes.
 
 Other leads:
+- - inverted starmaps found side by side with regular maps in at least two structures in Egypt
 - Distribution of mass as determined by our current gravitational data
-- inverted starmaps found side by side with regular maps in at least two structures in Egypt
-- Centroid of South Africa LLVP was precisely calculated to be a special value that is important in Dzhanibekov rotation
+- Centroid of South Africa LLVP precise calculations

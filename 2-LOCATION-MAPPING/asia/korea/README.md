@@ -1,12 +1,14 @@
 # Korea
 
-Overall, while there is evidence of survivors of an ECDO event (Dangun's parents), Korea is not a great location. It's right on the coast, traverses a huge amount of water, has a massive volcano, and has a concave bay, which would force the ocean up over the land.
+Overall, while there is evidence of survivors of an ECDO event (Dangun's parents), Korea is not a great location. It's right on the coast, traverses a huge amount of water, has a massive volcano, and has a large concave bay, which would force the ocean up over the land.
+
+Seoul: (37.5 N, 127 E)
 
 ## S1 -> S2 Rotation path
 
 ![rotation path](img/rotation.png "rotation path")
 
-Japan is the only land between Korea and the Pacific.
+Japan is the only land between Korea and the Pacific. 4215 km away from the eastern pivot (Seoul), it would rotate at 1184 km/h in a 6 hour rotation.
 
 ## Elevation profile
 
@@ -70,11 +72,9 @@ See https://en.wikipedia.org/wiki/946_eruption_of_Paektu_Mountain
 
 Korea lies quite close to major subduction of the Pacific and Phillipine plates, along with other fault lines.
 
-![plates](img/plates.png "tectonic plate")
+![volcanism](img/volcanism.jpg "volcanism data")
 
 This is an interesting dataset. From what I can see, it indicates that Mount Paektu is much greater in scale than the central volcano. The two island volcanoes have also clearly been active recently. [2]
-
-![volcanism](img/volcanism.jpg "volcanism data")
 
 ## Final verdict
 

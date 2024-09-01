@@ -10,5 +10,5 @@ Caribbean & Central America ECDO displacement path visualization.[1] From the Ma
 
 "The Star people listened to Jaguar and killed and ate a woman. Kuamachi wanted to punish them, but they were too many and too powerful. He went to Wlaha, their chief, and invited them to help in picking dewaka fruit. They were suspicious, but Kuamachi left some fruit with them, and they liked the taste so much they decided to go help pick fruit. Kuamachi and his grandfather Mahanama led them to the trees. The star people climbed the trees and started eating fruit; they weren't afraid of only two people. Kuamachi dropped one fruit; water came out of it, spread, and caused a flood, covering everything but the trees." - Makiritare (Venezuela)
 
-[1] https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
-[2] https://talkorigins.org/faqs/flood-myths.html#CentralAmerica
+- [1] https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
+- [2] https://talkorigins.org/faqs/flood-myths.html#CentralAmerica

@@ -14,7 +14,7 @@ This visual shows some areas which could potentially see new crust creation duri
 
 ![lithosphere age visual](img/lithosphere-age.jpg "lithosphere age map")
 
-The crust created at these boundaries could then cause movement of plates in other areas, pushing plates into or across each other.
+The crust created at these boundaries could then cause movement of plates in other areas, pushing plates into, across, or beneath each other.
 
 ## Misc Knowledge
 
@@ -26,7 +26,7 @@ For convergent plate boundaries, the triangles point away from the plate that is
 
 Transform faults are where plates slide past each other horizontally.
 
-Continental rift is when the plate is undergoing stretching and thinning, leading to the formation of a rift valley. When this progress, it can become an oceanic spreading ridge, which is a divergent boundary.
+Continental rift is when the plate is undergoing stretching and thinning, leading to the formation of a rift valley. When this progresses, it can become an oceanic spreading ridge, which is a divergent boundary.
 
 A convergent boundary typically results in subduction or orogeny.
 

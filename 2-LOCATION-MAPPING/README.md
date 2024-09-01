@@ -14,6 +14,21 @@ It is recommended that each location analysis begins with a map that shows the l
 
 ## TODO places to map out
 
+North america:
+- Look into the Appalachian mountains.
+- Needles (Black Hills, USA)
+- Colorado
+- Slot canyons
+- Arches National Park
+- Spanish Peaks
+- Missoula flood, lake missoula
+- Burke's Garden
+
+Europe:
+- Slovenia, known for its karst landforms.
+- Switzerland, with its extensive amount of bunkers and mountain landscape.
+- Serpents Lair of Inis Mór, located in the Ireland, UK
+
 Interesting cliff formations:
 - China
 
@@ -27,22 +42,16 @@ Locations with karst landscapes:
 Davolja Varos (earth towers)
 - https://en.m.wikipedia.org/wiki/%C4%90avolja_Varo%C5%A1
 
-Needles (Black Hills, USA)
-
-Serpents Lair of Inis Mór, located in the Ireland, UK
+Chocolate Hills in Philippines
 
 ## TODO heuristics for evaluating locations
 
 Additional potential heuristics:
 - land elevation, flood height
-- biodiversity hotspots
-- oldest cities
-- minimum distance from pivots
+- oldest cities, longest inhabitation
 - protection from wind
 - temperature
 - proximity to fault lines
-- Longest continuous inhabitation
-- Longest standing tall structures
-- every ethnically unique human tribe must have survived an ECDO event, because otherwise they would have had to develop their racial uniqueness within single ECDO epochs. Maybe you could model a "minimum degrees of separation", based on how much time it would take to create genetic uniqueness, to figure out the minimum genetic distance at which you could say that two different gene pools must have survived ECDO events separately
-
-Ancient human traces. Here I'm thinking along lines such as that Indonesian cave or archaelogic excavation sites. For example, it's hard to imagine that a theoretical archaelogical site where tools and intact structures were found could have been flooded by a huge wall of water without getting destroyed or at least scattered somehow.
+- Longest standing tall structures, old relics/remains
+	- For example, it's hard to imagine that a theoretical archaelogical site where tools and intact structures were found could have been flooded by a huge wall of water without getting destroyed or at least scattered somehow.
+- every sufficiently ethnically unique human tribe must have survived an ECDO event, because otherwise they would have had to develop their racial uniqueness within single ECDO epochs. Maybe you could model a "minimum degrees of separation", based on how much time it would take to create genetic uniqueness, to figure out the minimum genetic distance at which you could say that two different gene pools must have survived ECDO events separately

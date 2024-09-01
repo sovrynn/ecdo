@@ -24,12 +24,10 @@ A,B,C- ripple sites. D- Archaeological discovery. Blue Line- old cliff line:
 
 ![east-yorkshire](img/east-yorkshire6.jpg "east yorkshire")
 
-Also for interest this archaeological discovery was found at point D:
-https://www.thehistoryblog.com/archives/63342
+Also for interest this archaeological discovery was found at point D: https://www.thehistoryblog.com/archives/63342
 
 ## Nobulart Response
 
 Do you know what the main crops in this area are? These appear to be of agricultural origin. Old swales or forestry planting rows perhaps. They appear too regular and grouped at conflicting angles to be flow ripples.I have access to some high-res DEM imagery for the UK. I'll pull it up.
 
-Maybe this:
-https://en.m.wikipedia.org/wiki/Ridge_and_furrow
+Maybe this: https://en.m.wikipedia.org/wiki/Ridge_and_furrow
