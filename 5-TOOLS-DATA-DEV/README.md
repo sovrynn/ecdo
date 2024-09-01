@@ -18,6 +18,8 @@ Google's mapping tools are excellent:
 - Google Earth Pro (desktop app)
 - Google Earth Scripting (need Google account): https://code.earthengine.google.com
 
+3D globe, temperature data: https://earth.nullschool.net
+
 ## Ocean floor mapping
 
 Ocean mapping:
