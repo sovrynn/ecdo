@@ -9,22 +9,26 @@ The location rotates along the orange line, starting from the red pin, and endin
 
 ## Dependencies
 
-Need [Python](https://www.python.org/downloads/) installed, along with [pip](https://pip.pypa.io/en/stable/installation/) (Python package manager) which you'll use to install some Python packages (numpy, simplekml, geopy).
+Need [Python](https://www.python.org/downloads/) installed, along with [pip](https://pip.pypa.io/en/stable/installation/).
 
-Just try running the script in the command line, and follow the error messages, which will tell you what to do.
+Then, try running the script in the command line. It'll tell you if you're missing some required Python packages (ex: numpy, simplekml, geopy). Install them using pip (`pip/pip3 install [NAME]`).
 
 ## Running it
 
 Once you have the dependencies installed, just run the script using python using your command line (`python3 gen.py`). You'll need to setup the input values file though.
 
-The script reads 5 input values from `input.txt` using a specific format:
-- First line: latitude of moving location
-- Second line: longitude of moving location
-- Third line: Number of extra lines to draw on each side of the main rotation line, whole numbers only
-- Fourth line: Distance between drawn rotation lines in km, whole numbers only
-- Fifth line: Thickness of lines, decimals accepted (3 is a good default)
+The script reads 5 input values from `input.txt`, each on its own line, in the following order:
+- latitude of point
+- longitude of point
+- Number of pairs of extra lines to draw on each side of the main rotation line, whole numbers only (Default 1)
+- Distance between drawn rotation lines in km, whole numbers only (Default 500)
+- Thickness of lines, decimals accepted (Default 3)
+- Whether or not to place a marker at the location (Options "y"/"n", default "y")
+- Size of the marker (Default 2.4)
 
 I've included a template input file `input-TEMPLATE.txt`. You'll need to rename it to use it, as well as remove the comments I added (everything after and including the `#`).
+
+All the values are optional, but can only be read in order. After the first omitted value, none of the values will be read (properly).
 
 ## Post-run
 

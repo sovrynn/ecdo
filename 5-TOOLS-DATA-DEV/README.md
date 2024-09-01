@@ -2,6 +2,10 @@
 
 This folder is dedicated to tools, data, and development resources that help investigate the ECDO.
 
+## Contents
+
+- `scripts`: Scripts for generating KML files and 2D maps for rotational path.
+
 ## Mapping
 
 For elevation, [TessaDEM](https://tessadem.com/) is nice. Interactive web map is [here](https://en-gb.topographic-map.com/map/?center=14.43468%2C0.17578&popup=68.02073%2C175.78125).

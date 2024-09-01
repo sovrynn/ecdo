@@ -6,7 +6,12 @@ import math
 from geopy.distance import great_circle
 from geopy.point import Point
 from geopy.distance import distance
+import matplotlib.pyplot as plt
+from mpl_toolkits.basemap import Basemap
 
+'''
+Even more perfect anti-example of clean code.
+'''
 
 def rotate_point(lat_a, lon_a, lat_x, lon_x, M, N):
     """
@@ -60,10 +65,47 @@ def rotate_point(lat_a, lon_a, lat_x, lon_x, M, N):
     
     return result_points
 
-'''
-Reversing lat/lon is just ridiculous
-'''
-def add_linestring_to_kml(kml_obj, points, color, thickness):
+def split_by_180_meridian(points):
+    """
+    Split a list of lat/lon points into sublists such that no sublist crosses the 180° E meridian.
+    
+    Parameters:
+    - points: List of tuples, where each tuple is (latitude, longitude).
+    
+    Returns:
+    - A list of lists, where each sublist contains points that do not cross the 180° E meridian.
+    """
+    def crosses_180(lon1, lon2):
+        """
+        Check if a line segment crosses the 180° E meridian.
+        """
+        # Normalize longitudes to the range [-180, 180]
+        lon1 = ((lon1 + 180) % 360) - 180
+        lon2 = ((lon2 + 180) % 360) - 180
+        return (lon1 > 0 > lon2) or (lon2 > 0 > lon1)
+    
+    result = []
+    current_segment = []
+    
+    for i in range(len(points) - 1):
+        current_segment.append(points[i])
+        lon1 = points[i][1]
+        lon2 = points[i + 1][1]
+        
+        if crosses_180(lon1, lon2):
+            # Add the next point to the current segment and end the segment
+            # current_segment.append(points[i + 1])
+            result.append(current_segment)
+            current_segment = []
+    
+    # Add the last segment
+    if current_segment:
+        current_segment.append(points[-1])
+        result.append(current_segment)
+    
+    return result
+
+def add_to_m_no_check(m, points, color, thickness):
     """
     Adds a LineString to a KML object with the given points, color, and thickness.
     
@@ -74,69 +116,29 @@ def add_linestring_to_kml(kml_obj, points, color, thickness):
         thickness (float): Thickness of the LineString line.
     """
     # Create a LineString
-    rev_points = [reverse(point) for point in points]
-    linestring = kml_obj.newlinestring(coords=rev_points)
-    
-    # Define style for the LineString
-    linestring.style.linestyle.color = color
-    linestring.style.linestyle.width = thickness
+    lons = [point[1] for point in points]
+    lats = [point[0] for point in points]
+    x, y = m(lons, lats)
+    m.plot(x, y, marker='', color=color, linestyle='-', linewidth=thickness, markersize=5, label='Sample Line')
 
-def add_cross_to_kml(kml, point, color, r, thickness):
-    point = reverse(point)
-    line1 = [(point[0] + r, point[1]), (point[0] - r, point[1])]
-    line2 = [(point[0], point[1] + r), (point[0], point[1] - r)]
-    linestring = kml.newlinestring(coords=line1)
-    linestring.style.linestyle.color = color
-    linestring.style.linestyle.width = thickness
-    linestring = kml.newlinestring(coords=line2)
-    linestring.style.linestyle.color = color
-    linestring.style.linestyle.width = thickness
+def add_linestring_to_kml(kml_obj, points, color, thickness):
+    points = split_by_180_meridian(points)
+    for pointz in points:
+        add_to_m_no_check(kml_obj, pointz, color, thickness)
 
-def add_diag_cross_to_kml(kml, point, color, r, thickness):
-    point = reverse(point)
-    line1 = [(point[0] + r, point[1] + r), (point[0] - r, point[1] - r)]
-    line2 = [(point[0] - r, point[1] + r), (point[0] + r, point[1] - r)]
-    linestring = kml.newlinestring(coords=line1)
-    linestring.style.linestyle.color = color
-    linestring.style.linestyle.width = thickness
-    linestring = kml.newlinestring(coords=line2)
-    linestring.style.linestyle.color = color
-    linestring.style.linestyle.width = thickness
+def add_point_kml(point, kml, thickness):
+    lons = point[1]
+    lats = point[0]
+    x, y = kml(lons, lats)
+    # linewidth=size
+    kml.plot(x, y, marker='o', color='red', linestyle='-', markersize=thickness, label='Sample Line')
 
-'''
-deprecated
-'''
-def create_kml(points, filename):
-    """
-    Create a KML file with red dots at the specified points.
-    
-    Args:
-    - points: List of tuples with latitude and longitude of points.
-    - filename: Name of the output KML file.
-    """
-    kml = simplekml.Kml()
-    
-    for lat, lon in points:
-        # Add a point to the KML
-        point = kml.newpoint(name="Point", coords=[(lon, lat)])
-        point.style.iconstyle.color = simplekml.Color.red  # Red color
-        point.style.iconstyle.scale = 2.0  # Increase point size
-
-        icon_url = 'http://maps.google.com/mapfiles/kml/paddle/red-circle.png'
-        point.style.iconstyle.icon.href = icon_url
-
-    # Save KML file
-    kml.save(filename)
-
-def add_point_kml(point, kml, size):
-    name = f"({point[0]:.1f}, {point[1]:.1f})"
-    point = kml.newpoint(name=name, coords=[(point[1], point[0])])
-    point.style.iconstyle.color = simplekml.Color.red  # Red color
-    point.style.iconstyle.scale = size  # Increase point size
-    # point.style.iconstyle.scale = 10
-
-    icon_url = 'http://maps.google.com/mapfiles/kml/paddle/red-circle.png'
-    point.style.iconstyle.icon.href = icon_url
+def add_xpoint_kml(point, kml, length, thickness):
+    lons = point[1]
+    lats = point[0]
+    x, y = kml(lons, lats)
+    # linewidth=size
+    kml.plot(x, y, marker='x', color='red', linestyle='-', markeredgewidth=thickness, markersize=length, label='Sample Line')
 
 '''
 hilarious
@@ -196,6 +198,46 @@ def move_point_closer(lat_x, lon_x, lat_a, lon_a, K):
     
     return new_point.latitude, new_point.longitude
 
+def haversine(lat1, lon1, lat2, lon2):
+    """
+    Calculate the great-circle distance between two points 
+    on the Earth's surface specified by latitude and longitude.
+    
+    Parameters:
+    - lat1, lon1: Latitude and longitude of the first point (in degrees).
+    - lat2, lon2: Latitude and longitude of the second point (in degrees).
+    
+    Returns:
+    - Distance between the two points in kilometers.
+    """
+    
+    # Radius of the Earth in kilometers
+    R = 6371.0
+    
+    # Convert latitude and longitude from degrees to radians
+    lat1_rad = math.radians(lat1)
+    lon1_rad = math.radians(lon1)
+    lat2_rad = math.radians(lat2)
+    lon2_rad = math.radians(lon2)
+    
+    # Compute differences
+    dlat = lat2_rad - lat1_rad
+    dlon = lon2_rad - lon1_rad
+    
+    # Haversine formula
+    a = math.sin(dlat / 2)**2 + math.cos(lat1_rad) * math.cos(lat2_rad) * math.sin(dlon / 2)**2
+    c = 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
+    
+    # Compute the distance
+    distance = R * c
+    
+    return distance
+
+def get_pivot_ratio(lat, lon):
+    half_circ = 20020
+    dist = min(haversine(lat, lon, 0, 121), haversine(lat, lon, 0, -59))
+    return dist / half_circ
+
 
 '''
 Input.txt:
@@ -207,38 +249,49 @@ k (distance between lines in km)
 t (thickness of main line, number between 1-20)
 '''
 
-kml = simplekml.Kml()
+
 OUTPUT = "output.kml"
 
 '''
 not just coords, KML reorders RGB. lovely...
 '''
-RED = "ff0000ff"
-YELLOW = "ff00ffff"
-DY = "ff07c1eb"
-BLUE = "ffFFA500"
-GREEN = "ff00ff00"
-MG = "ff42e800"
-DG = "FF31a802"
-PURPLE = "ffff007f"
-ORANGE = "ff1CACFF"
-BO = "ff00d0ff"
+BO = "#fff200"
+RED = "#ff0000"
+
+LB = "#00c8ff"
+# LB = "ffeaff00"
+DB = "#0099ff"
+
+GREEN = "#00ff00"
+MG = "#00e842"
+
+PINK = "#f525e4"
+YELLOW = "#ffff00"
+DY = "#ebc107"
+BLUE = "#00A5FF"
+DG = "#02a831"
+PURPLE = "#7f00ff"
+ORANGE = "#ffAC1c"
 THICK = 5
 THIN = 2
 
-LB = "ffffc800"
-# LB = "ffeaff00"
-DB = "ffff9900"
 
 # default values
 ew = "east"
 x = 30
 y = 31
+llcrnrlat=-80
+urcrnrlat=80
+llcrnrlon=-180
+urcrnrlon=180
+rlat = 160
+rlon = 360
 j = 1
 k = 500
 t = 3
 use_marker = "y"
-marker_size = 2.4
+marker_size = 10
+
 
 # with open('input.txt', 'r') as file:
 #     # ew = file.readline().strip()
@@ -255,6 +308,8 @@ try:
         x = float(file.readline().strip())
         y = float(file.readline().strip())
         print(f"Rotating point ({x}, {y}).")
+        rlat = float(file.readline().strip())
+        rlon = float(file.readline().strip())
         j = int(file.readline().strip())
         print(f"Adding {j} pairs of extra lines.")
         k = int(file.readline().strip())
@@ -280,6 +335,51 @@ except ValueError:
     # Handle case where conversion to float or int fails
     print("Warning: Not all values provided, using default values for the remaining parameters.")
 
+llcrnrlat = max(x - rlat, llcrnrlat)
+urcrnrlat = min(x + rlat, urcrnrlat)
+llcrnrlon = max(y - rlon, llcrnrlon)
+urcrnrlon = min(y + rlon, urcrnrlon)
+
+# Create a new figure
+res = 20
+fig = plt.figure(figsize=(res, res * 0.5625))
+
+# ax = plt.subplot(111,aspect = 'equal')
+plt.axis('tight')
+
+plt.subplots_adjust(left=0.03, bottom=0.03, right=0.97, top=0.97, wspace=0, hspace=0)
+
+# Set up the Basemap with the 'ortho' projection
+# m = Basemap(projection='ortho', lat_0=0, lon_0=0)
+
+# m = Basemap(projection='cyl', llcrnrlat=-60, urcrnrlat=90,
+#             llcrnrlon=-180, urcrnrlon=180, resolution='c')
+
+# llcrnrlat,llcrnrlon,urcrnrlat,urcrnrlon
+# are the lat/lon values of the lower left and upper right corners
+# of the map.
+# lat_ts is the latitude of true scale.
+# resolution = 'c' means use crude resolution coastlines. l = low, i = intermediate
+kml = Basemap(projection='merc', llcrnrlat=llcrnrlat, urcrnrlat=urcrnrlat,
+            llcrnrlon=llcrnrlon, urcrnrlon=urcrnrlon, lat_ts=20, resolution='l')
+
+# Draw coastlines and countries
+kml.drawcoastlines()
+kml.drawcountries()
+
+color = "#e3e3e3"
+ocean_color = '#7ef0fc'
+
+# Draw map boundary and fill it with a color
+kml.drawmapboundary(fill_color=ocean_color)
+
+# Fill continents with a color
+kml.fillcontinents(color=color, lake_color=ocean_color)
+
+# Draw the grid lines
+kml.drawparallels(range(-90, 91, 30), labels=[1,0,0,0])
+kml.drawmeridians(range(-180, 181, 60), labels=[0,0,0,1])
+
 elat = 0
 elon = 121
 wlat = 0
@@ -292,9 +392,17 @@ a = elat
 b = elon
 
 THICK = t
-THIN = 0.4 * t
-WTHICK = 0.8 * t
-WTHIN = 0.4 * t
+THIN = t
+WTHICK = t
+WTHIN = t
+# THIN = 0.4 * t
+# WTHICK = 0.8 * t
+# WTHIN = 0.4 * t
+
+# THICK = 2
+# THIN = 1.5
+# WTHICK = 2
+# WTHIN = 1.5
 
 if ew not in ["east", "west"]:
   raise ValueError("First line should either be 'east' or 'west' (without quotes)")
@@ -320,6 +428,8 @@ def add_tick(lat, lon, len, thick, color):
 
 def add_to_kml(a, b, x, y, m, n, kml, color, thickness):
     points = rotate_point(a, b, x, y, m, n)
+    # cool viz effect
+    thickness = thickness * get_pivot_ratio(x, y)
     add_linestring_to_kml(kml, points, color, thickness)
     # quadrants = len(points) / 4
     # for i in range(1, 4):
@@ -333,46 +443,69 @@ def add_to_kml(a, b, x, y, m, n, kml, color, thickness):
 '''
 plotting the big and small lines
 '''
-if ew == "east":
+
+MAINF = RED
+SF = MAINF
+
+MAINB = '#2eabff'
+SB = MAINB
+
+MAINDF = MAINB
+SDF = MAINDF
+
+def plot_triple_lines(a, b, x, y, right, left, kml, RED, GREEN, PINK, DB, MG, LB, WTHICK, WTHIN, THICK, THIN, k, j):
     # -1 here instead of 0 to add space for the cross
-    points = add_to_kml(a, b, x, y, right, 0, kml, BO, THICK) # main location
-    add_to_kml(a, b, x, y, 0, left, kml, LB, WTHICK) # backwards
-    add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, GREEN, WTHICK)
+    points = add_to_kml(a, b, x, y, right, 0, kml, MAINF, THICK) # main location
+    add_to_kml(a, b, x, y, 0, left, kml, MAINB, WTHICK) # backwards
+    add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, MAINDF, WTHICK)
     for i in range(1, j + 1):
         # towards pivot
         center1 = move_point_closer(a, b, x, y, k * i)
-        points = add_to_kml(a, b, center1[0], center1[1], right, 0, kml, RED, THIN) # forward lines
-        add_to_kml(a, b, center1[0], center1[1], 0, left, kml, DB, WTHIN) #backward
-        add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, MG, WTHIN)
+        points = add_to_kml(a, b, center1[0], center1[1], right, 0, kml, SF, THIN) # forward lines
+        add_to_kml(a, b, center1[0], center1[1], 0, left, kml, SB, WTHIN) #backward
+        add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, SDF, WTHIN) #green
 
         # away from pivot
         center2 = move_point_closer(a, b, x, y, -1 * (k * i))
-        points = add_to_kml(a, b, center2[0], center2[1], right, 0, kml, RED, THIN) #forward
-        add_to_kml(a, b, center2[0], center2[1], 0, left, kml, DB, WTHIN) #backward
-        add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, MG, WTHIN)
+        points = add_to_kml(a, b, center2[0], center2[1], right, 0, kml, SF, THIN) #forward
+        add_to_kml(a, b, center2[0], center2[1], 0, left, kml, SB, WTHIN) #backward
+        add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, SDF, WTHIN) # green
 
-else: # not in use anymore this is out of date, all points rotated around east pivot
-    add_to_kml(a, b, x, y, right, 0, kml, LB, WTHICK) 
-    add_to_kml(a, b, x, y, 0, left, kml, BO, THICK) # main location
+
+def plot_360_lines(a, b, x, y, right, left, kml, RED, GREEN, PINK, DB, MG, LB, WTHICK, WTHIN, THICK, THIN, k, j):
+    # -1 here instead of 0 to add space for the cross
+    points = add_to_kml(a, b, x, y, right, 0, kml, MAINF, THICK) # main location
+    add_to_kml(a, b, x, y, 0, 261, kml, MAINB, WTHICK) # backwards
     for i in range(1, j + 1):
+        # towards pivot
         center1 = move_point_closer(a, b, x, y, k * i)
-        add_to_kml(a, b, center1[0], center1[1], right, 0, kml, DB, WTHIN)
-        add_to_kml(a, b, center1[0], center1[1], 0, left, kml, RED, THIN)
+        points = add_to_kml(a, b, center1[0], center1[1], right, 0, kml, MAINF, THIN) # forward lines
+        add_to_kml(a, b, center1[0], center1[1], 0, 261, kml, MAINB, WTHIN) #backward
+        # add_point_kml(center1,kml, marker_size * 0.2)
+
+        # away from pivot
         center2 = move_point_closer(a, b, x, y, -1 * (k * i))
-        add_to_kml(a, b, center2[0], center2[1], right, 0, kml, DB, WTHIN)
-        add_to_kml(a, b, center2[0], center2[1], 0, left, kml, RED, THIN)
+        points = add_to_kml(a, b, center2[0], center2[1], right, 0, kml, MAINF, THIN) #forward
+        add_to_kml(a, b, center2[0], center2[1], 0, 261, kml, MAINB, WTHIN) #backward
+        # add_point_kml(center2,kml, marker_size * 0.2)
 
-CROSS_THICK = 5
+plot_triple_lines(a, b, x, y, right, left, kml, RED, GREEN, PINK, DB, MG, LB, WTHICK, WTHIN, THICK, THIN, k, j)
 
-add_cross_to_kml(kml, (elat, elon), RED, 2, CROSS_THICK) #pivots
-add_cross_to_kml(kml, (wlat, wlon), RED, 2, CROSS_THICK)
-POINTER_SIZE = 2.4
-if use_marker == "y":
-    add_point_kml((x, y), kml, marker_size)
+# length, thickness
+add_point_kml((0, 121),kml, marker_size)
+add_point_kml((0, -59), kml, marker_size)
+if use_marker:
+    add_point_kml((x,y),kml, marker_size)
 
-# add_cross_to_kml(kml, (x, y), GREEN, 1, THIN) #location
-# add_diag_cross_to_kml(kml, (x, y), GREEN, 2, THIN) #location
-# add_diag_cross_to_kml(kml, dest, GREEN, 2, CROSS_THICK) #new location
 
-kml.save(OUTPUT)
-print("Successfully wrote output KML file to " + OUTPUT + ".")
+
+
+# Set the title
+# plt.title('ECDO S1 -')
+
+OUTPUT = 'output.png'
+plt.savefig(OUTPUT, format='png', dpi=300)
+print(f"Saved to '{OUTPUT}'.")
+# Show the plot
+plt.show()
+
