@@ -8,6 +8,8 @@ from geopy.point import Point
 from geopy.distance import distance
 import matplotlib.pyplot as plt
 from mpl_toolkits.basemap import Basemap
+import matplotlib.cm as cm
+import matplotlib.colors as mcolors
 
 '''
 Even more perfect anti-example of clean code.
@@ -126,12 +128,12 @@ def add_linestring_to_kml(kml_obj, points, color, thickness):
     for pointz in points:
         add_to_m_no_check(kml_obj, pointz, color, thickness)
 
-def add_point_kml(point, kml, thickness):
+def add_point_kml(point, kml, thickness, color='red'):
     lons = point[1]
     lats = point[0]
     x, y = kml(lons, lats)
     # linewidth=size
-    kml.plot(x, y, marker='o', color='red', linestyle='-', markersize=thickness, label='Sample Line')
+    kml.plot(x, y, marker='o', color=color, linestyle='-', markersize=thickness, label='Sample Line')
 
 def add_xpoint_kml(point, kml, length, thickness):
     lons = point[1]
@@ -234,23 +236,14 @@ def haversine(lat1, lon1, lat2, lon2):
     return distance
 
 def get_pivot_ratio(lat, lon):
-    half_circ = 20020
+    half_circ = 10020
     dist = min(haversine(lat, lon, 0, 121), haversine(lat, lon, 0, -59))
-    return dist / half_circ
+
+    ratio = dist/half_circ
+
+    return ratio
 
 
-'''
-Input.txt:
-east/west (pivot)
-x (lat)
-y (lon)
-j (number of extra lines on each side of the main line)
-k (distance between lines in km)
-t (thickness of main line, number between 1-20)
-'''
-
-
-OUTPUT = "output.kml"
 
 '''
 not just coords, KML reorders RGB. lovely...
@@ -288,19 +281,11 @@ rlat = 160
 rlon = 360
 j = 1
 k = 500
-t = 3
+t = 1
+fullrot = 360
 use_marker = "y"
 marker_size = 10
 
-
-# with open('input.txt', 'r') as file:
-#     # ew = file.readline().strip()
-#     ew = "east"
-#     x = float(file.readline().strip())
-#     y = float(file.readline().strip())
-#     j = int(file.readline().strip())
-#     k = int(file.readline().strip())
-#     t = float(file.readline().strip())
 
 try:
     with open('input.txt', 'r') as file:
@@ -316,6 +301,12 @@ try:
         print(f"Spacing the lines at {k} km.")
         t = float(file.readline().strip())
         print(f"Using a line thickness of {t}.")
+
+        fullrot = int(file.readline().strip())
+        if fullrot not in [104, 360]:
+            fullrot = 104
+            raise ValueError()
+
         use_marker = file.readline().strip()
         if use_marker == "n":
             print("No marker will be placed.")
@@ -344,10 +335,19 @@ urcrnrlon = min(y + rlon, urcrnrlon)
 res = 20
 fig = plt.figure(figsize=(res, res * 0.5625))
 
+# so this changes the basemap position afaik, it creates a little box for it.
+# its always going to be awkwardly away from the legend when you do this BUT
+# this ensures you'll never have the map overlapping the legend
+ax = fig.add_axes([0.03, 0.03, 0.86, 0.94])  # Adjust these values as needed
+
+
 # ax = plt.subplot(111,aspect = 'equal')
 plt.axis('tight')
 
 plt.subplots_adjust(left=0.03, bottom=0.03, right=0.97, top=0.97, wspace=0, hspace=0)
+
+# Set the title
+# plt.title('ECDO S1 -> S2 Rotation Path and Speed (6 hr rotation)', fontsize=24, pad=16)
 
 # Set up the Basemap with the 'ortho' projection
 # m = Basemap(projection='ortho', lat_0=0, lon_0=0)
@@ -426,10 +426,39 @@ def add_tick(lat, lon, len, thick, color):
     e2 = move_point_closer(a, b, lat, lon, -1 * len / 2)
     add_linestring_to_kml(kml, [e1, e2], color, thick)
 
+COLORMAP = 'turbo'
+
+def get_color_from_heatmap(value):
+    """
+    Get a color from the heatmap colormap based on a normalized value.
+    
+    Parameters:
+    - value: A number between 0 and 1.
+    - colormap: Name of the colormap to use (e.g., 'viridis', 'plasma').
+    
+    Returns:
+    - A color corresponding to the normalized value from the colormap.
+    """
+    # Ensure the value is within the range [0, 1]
+    if not (0 <= value <= 1):
+        print(value)
+        raise ValueError("Value must be between 0 and 1")
+    
+    # Get the colormap
+    cmap = cm.get_cmap(COLORMAP)
+    
+    # Return the color as an RGBA tuple
+    color = cmap(value)
+    
+    return color
+
+
 def add_to_kml(a, b, x, y, m, n, kml, color, thickness):
     points = rotate_point(a, b, x, y, m, n)
     # cool viz effect
-    thickness = thickness * get_pivot_ratio(x, y)
+    ratio = get_pivot_ratio(x, y)
+    color_ratio = -1 * ratio + 1
+    color = get_color_from_heatmap(color_ratio)
     add_linestring_to_kml(kml, points, color, thickness)
     # quadrants = len(points) / 4
     # for i in range(1, 4):
@@ -453,10 +482,13 @@ SB = MAINB
 MAINDF = MAINB
 SDF = MAINDF
 
+dest = (0,0)
+
 def plot_triple_lines(a, b, x, y, right, left, kml, RED, GREEN, PINK, DB, MG, LB, WTHICK, WTHIN, THICK, THIN, k, j):
     # -1 here instead of 0 to add space for the cross
     points = add_to_kml(a, b, x, y, right, 0, kml, MAINF, THICK) # main location
     add_to_kml(a, b, x, y, 0, left, kml, MAINB, WTHICK) # backwards
+    dest = points[-1] # saving to plot it
     add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, MAINDF, WTHICK)
     for i in range(1, j + 1):
         # towards pivot
@@ -471,11 +503,13 @@ def plot_triple_lines(a, b, x, y, right, left, kml, RED, GREEN, PINK, DB, MG, LB
         add_to_kml(a, b, center2[0], center2[1], 0, left, kml, SB, WTHIN) #backward
         add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, SDF, WTHIN) # green
 
+    return dest
 
 def plot_360_lines(a, b, x, y, right, left, kml, RED, GREEN, PINK, DB, MG, LB, WTHICK, WTHIN, THICK, THIN, k, j):
     # -1 here instead of 0 to add space for the cross
     points = add_to_kml(a, b, x, y, right, 0, kml, MAINF, THICK) # main location
     add_to_kml(a, b, x, y, 0, 261, kml, MAINB, WTHICK) # backwards
+    dest = rotate_point(a, b, x, y, 104, 0)[-1]
     for i in range(1, j + 1):
         # towards pivot
         center1 = move_point_closer(a, b, x, y, k * i)
@@ -488,20 +522,49 @@ def plot_360_lines(a, b, x, y, right, left, kml, RED, GREEN, PINK, DB, MG, LB, W
         points = add_to_kml(a, b, center2[0], center2[1], right, 0, kml, MAINF, THIN) #forward
         add_to_kml(a, b, center2[0], center2[1], 0, 261, kml, MAINB, WTHIN) #backward
         # add_point_kml(center2,kml, marker_size * 0.2)
+    return dest
 
-plot_triple_lines(a, b, x, y, right, left, kml, RED, GREEN, PINK, DB, MG, LB, WTHICK, WTHIN, THICK, THIN, k, j)
+if fullrot == 104:
+    dest = plot_triple_lines(a, b, x, y, right, left, kml, RED, GREEN, PINK, DB, MG, LB, WTHICK, WTHIN, THICK, THIN, k, j)
+else:
+    dest = plot_360_lines(a, b, x, y, right, left, kml, RED, GREEN, PINK, DB, MG, LB, WTHICK, WTHIN, THICK, THIN, k, j)
 
 # length, thickness
 add_point_kml((0, 121),kml, marker_size)
 add_point_kml((0, -59), kml, marker_size)
 if use_marker:
     add_point_kml((x,y),kml, marker_size)
+    add_point_kml(dest,kml, marker_size, 'blue')
+
+
+# plt.subplots_adjust(right=0.85)  # Adjust as needed to ensure enough space
 
 
 
+# Create an axis for the colorbar (legend) outside the map area
+cbar_ax = fig.add_axes([0.89, 0.18, 0.025, 0.56])  # Adjust the position and size here
 
-# Set the title
-# plt.title('ECDO S1 -')
+# Create a gradient colorbar
+norm = mcolors.Normalize(vmin=0, vmax=1927)
+sm = cm.ScalarMappable(cmap='turbo_r', norm=norm)
+sm.set_array([])
+
+# Add the colorbar
+cbar = plt.colorbar(sm, cax=cbar_ax)
+cbar.ax.tick_params(labelsize=12)  # Set font size for the tick labels
+
+# cbar.set_label('km/h', fontsize=20)
+
+# Add a title and labels to the colorbar (legend)
+cbar.ax.set_title('Rotation\n Speed (6hr)\n in km/h', fontsize=16, pad=24)
+cbar.ax.set_yticks([0, 250, 500, 750, 1000, 1250, 1500, 1750, 1927])
+cbar.ax.set_yticklabels(['0', '250', '500', '750','1000', '1250', '1500', '1750', '1927'])
+
+    # Adjust the figure layout to ensure the colorbar is not clipped
+# plt.subplots_adjust(right=0.95)  # Adjust as needed to ensure enough space
+
+
+
 
 OUTPUT = 'output.png'
 plt.savefig(OUTPUT, format='png', dpi=300)

@@ -2,13 +2,10 @@
 
 `gen.py` is a customizable Python script that will generate a KML file showing the movement path of any specified location during S1 -> S2.
 
+![x](img/globe.png "world viz")
 ![x](img/india.png "india viz")
 
-A slight tweak on the standard script:
-
-![x](img/globe.png "world viz")
-
-The location, marked by the red dot, rotates along the red line. The lines vary in thickness depending on their rotation speed.
+The location, marked by the red dot, rotates 104 degrees to the blue dot. The lines vary in color based on their rotation speed. The legend depicts the predicted average rotation speed during a 6 hour rotation.
 
 ## Dependencies
 
@@ -27,7 +24,8 @@ The script reads several input values from `input.txt`, each on its own line, in
 - longitude radius of visualized region, in degrees, centered around input point (Default 20, maximum 360)
 - Number of pairs of extra lines to draw (Default 3)
 - Distance between drawn rotation lines in km, whole numbers only (Default 200)
-- Thickness of lines, decimals accepted (Default 4)
+- Thickness of lines, decimals accepted (Default 1)
+- 360 or 104 visualization (Options '360'/'104', Default 360)
 - Whether or not to display a marker on the center point (Options "y"/"n", default "y")
 - Marker size (Default 10)
 
@@ -38,3 +36,7 @@ I've included a template input file `input-TEMPLATE.txt`. You'll need to rename 
 ## Post-run
 
 Output image will be written to `output.png`.
+
+## Other comments
+
+Legend spacing is annoying. Have fun reading my code if you want to edit it. The way I've set it up now, there will almost always be an awkward margin between the chart and the legend, but the chart will never get drawn on top of the legend. If you find a better way please make a pull request!
