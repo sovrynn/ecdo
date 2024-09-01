@@ -68,6 +68,10 @@ Here's the eastern pivot:
 
 ![eastern pivot](img/eastern-pivot.png "eastern pivot")
 
+Putting it all together, the paths of rotation will look like this (Khafre pyramid travels from the red dot to the end of the red line):
+
+![x](img/rotation-viz.png "globe rotation visualization")
+
 ## S2 Equator Points
 
 The equator in S2 runs through the two pivots. It also runs through the points:
