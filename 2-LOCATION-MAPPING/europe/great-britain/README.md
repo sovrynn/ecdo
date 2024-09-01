@@ -1,8 +1,16 @@
-# East Yorkshire
+# Great Britain
+
+## Great Britain Coast
+
+![gbcoast](img/great-britain-coast.jpg "gbcoast")
+
+This is a great illustration of these MASSIVE clay and other sediment layers that underlie GB (Dorset and Devonshire), sloping down into the sea.
+
+## East Yorkshire
 
 ![eu](img/east-yorkshire.png "eu")
 
-## Investigating Ripples Potentially Related to ECDO
+### Investigating Ripples Potentially Related to ECDO
 
 I'm not sure this is going to work but I have taken some screenshots of ripples I have found where I live on the East Yorkshire coast on permanent pasture that has likely never been cultivated or developed. The ripples are small. Max about 1 metre high and 10 metres wide. These lie on top of the original cliff top that is buried in sediment. This sediment makes up about half my county and all of its present coastline along the North Sea. Hopefully this will be clear in the coming images...
 

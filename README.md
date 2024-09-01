@@ -50,6 +50,7 @@ Put notable literature (ex: books, research papers) related to ECDO in `LITERATU
 
 Content (`README.md`) guidelines:
 - Ideally, these should consist of polished analysis about ONE topic instead of being used as messy notepads. Put unrefined ideas into `"TODO"` sections.
+- No need to fracture these up prematurely. Only when it helps.
 - When possible, add citations, links, backlinks, and hard copies of sources.
 
 Other guidelines:
