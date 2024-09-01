@@ -11,6 +11,10 @@ Courtesy of NOAA, showing that that the Np has traversed more in the past 25 yea
 
 https://www.ncei.noaa.gov/maps/historical_declination/
 
+## North Magnetic Pole and Planetary Harmonics (1600-2024)
+
+See `img/Np_1590-2100.mp4` for an excellent visualization on the magnetic north pole wander going back to 1600.
+
 ## 1840 - 2019 Magnetic North Pole Wander Video
 
 Video at `img/npw.mp4`. It is an excellent visualization, compiled from historic observational and SWARM data. Note the apparent >270° deviation that occurred in the mid-1800's.

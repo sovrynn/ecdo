@@ -128,11 +128,12 @@ def create_kml(points, filename):
     # Save KML file
     kml.save(filename)
 
-def add_point_kml(point, kml):
+def add_point_kml(point, kml, size):
     name = f"({point[0]:.1f}, {point[1]:.1f})"
     point = kml.newpoint(name=name, coords=[(point[1], point[0])])
     point.style.iconstyle.color = simplekml.Color.red  # Red color
-    point.style.iconstyle.scale = 2.4  # Increase point size
+    point.style.iconstyle.scale = size  # Increase point size
+    # point.style.iconstyle.scale = 10
 
     icon_url = 'http://maps.google.com/mapfiles/kml/paddle/red-circle.png'
     point.style.iconstyle.icon.href = icon_url
@@ -229,14 +230,55 @@ LB = "ffffc800"
 # LB = "ffeaff00"
 DB = "ffff9900"
 
-with open('input.txt', 'r') as file:
-    # ew = file.readline().strip()
-    ew = "east"
-    x = float(file.readline().strip())
-    y = float(file.readline().strip())
-    j = int(file.readline().strip())
-    k = int(file.readline().strip())
-    t = float(file.readline().strip())
+# default values
+ew = "east"
+x = 30
+y = 31
+j = 1
+k = 500
+t = 3
+use_marker = "y"
+marker_size = 2.4
+
+# with open('input.txt', 'r') as file:
+#     # ew = file.readline().strip()
+#     ew = "east"
+#     x = float(file.readline().strip())
+#     y = float(file.readline().strip())
+#     j = int(file.readline().strip())
+#     k = int(file.readline().strip())
+#     t = float(file.readline().strip())
+
+try:
+    with open('input.txt', 'r') as file:
+        # Attempt to read and process each line
+        x = float(file.readline().strip())
+        y = float(file.readline().strip())
+        print(f"Rotating point ({x}, {y}).")
+        j = int(file.readline().strip())
+        print(f"Adding {j} pairs of extra lines.")
+        k = int(file.readline().strip())
+        print(f"Spacing the lines at {k} km.")
+        t = float(file.readline().strip())
+        print(f"Using a line thickness of {t}.")
+        use_marker = file.readline().strip()
+        if use_marker == "n":
+            print("No marker will be placed.")
+        elif use_marker == "y":
+            print("Placing a marker at the rotating location.")
+        else:
+            use_marker = "y"
+            raise ValueError()
+        if use_marker == "y":
+            marker_size = float(file.readline().strip())
+            print(f"Using a marker size of {marker_size}.")
+
+except FileNotFoundError:
+    print("Warning: 'input.txt' not found, using default values. Use 'input.txt' to customize the parameters.")
+
+except ValueError:
+    # Handle case where conversion to float or int fails
+    print("Warning: Not all values provided, using default values for the remaining parameters.")
 
 elat = 0
 elon = 121
@@ -266,9 +308,26 @@ else:
     left, right = right, left
     dest = (rotate_point(a, b, x, y, 0, left))[0]
 
+TICK_LS = 150
+TICK_LB = 200
+TICK_WS = 2
+TICK_WB = 2.5
+
+def add_tick(lat, lon, len, thick, color):
+    e1 = move_point_closer(a, b, lat, lon, len / 2)
+    e2 = move_point_closer(a, b, lat, lon, -1 * len / 2)
+    add_linestring_to_kml(kml, [e1, e2], color, thick)
+
 def add_to_kml(a, b, x, y, m, n, kml, color, thickness):
     points = rotate_point(a, b, x, y, m, n)
     add_linestring_to_kml(kml, points, color, thickness)
+    # quadrants = len(points) / 4
+    # for i in range(1, 4):
+    #     point = points[int(quadrants * i)]
+    #     if i == 2:
+    #         add_tick(point[0], point[1], TICK_LB, TICK_WB, color)
+    #     else:
+    #         add_tick(point[0], point[1], TICK_LS, TICK_WS, color)
     return points
 
 '''
@@ -307,9 +366,13 @@ CROSS_THICK = 5
 
 add_cross_to_kml(kml, (elat, elon), RED, 2, CROSS_THICK) #pivots
 add_cross_to_kml(kml, (wlat, wlon), RED, 2, CROSS_THICK)
-add_point_kml((x, y), kml)
+POINTER_SIZE = 2.4
+if use_marker == "y":
+    add_point_kml((x, y), kml, marker_size)
+
 # add_cross_to_kml(kml, (x, y), GREEN, 1, THIN) #location
 # add_diag_cross_to_kml(kml, (x, y), GREEN, 2, THIN) #location
 # add_diag_cross_to_kml(kml, dest, GREEN, 2, CROSS_THICK) #new location
 
 kml.save(OUTPUT)
+print("Successfully wrote output KML file to " + OUTPUT + ".")
