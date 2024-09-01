@@ -344,10 +344,10 @@ ax = fig.add_axes([0.03, 0.03, 0.86, 0.94])  # Adjust these values as needed
 # ax = plt.subplot(111,aspect = 'equal')
 plt.axis('tight')
 
-plt.subplots_adjust(left=0.03, bottom=0.03, right=0.97, top=0.97, wspace=0, hspace=0)
+plt.subplots_adjust(left=0.03, bottom=0.03, right=0.97, top=0.94, wspace=0, hspace=0)
 
 # Set the title
-# plt.title('ECDO S1 -> S2 Rotation Path and Speed (6 hr rotation)', fontsize=24, pad=16)
+# plt.title('ECDO S1 -> S2 Rotation Path and Speed (6 hr rotation)', fontsize=28, pad=20)
 
 # Set up the Basemap with the 'ortho' projection
 # m = Basemap(projection='ortho', lat_0=0, lon_0=0)
@@ -367,8 +367,8 @@ kml = Basemap(projection='merc', llcrnrlat=llcrnrlat, urcrnrlat=urcrnrlat,
 kml.drawcoastlines()
 kml.drawcountries()
 
-color = "#e3e3e3"
-ocean_color = '#caf8fc'
+color = "#e6e6e6"
+ocean_color = '#d4f7fa'
 
 # Draw map boundary and fill it with a color
 kml.drawmapboundary(fill_color=ocean_color)
@@ -556,7 +556,7 @@ cbar.ax.tick_params(labelsize=12)  # Set font size for the tick labels
 # cbar.set_label('km/h', fontsize=20)
 
 # Add a title and labels to the colorbar (legend)
-cbar.ax.set_title('Rotation\n Speed (6hr)\n in km/h', fontsize=16, pad=24)
+cbar.ax.set_title('Rotation\n Speed (6 hr)\n in km/h', fontsize=16, pad=24)
 cbar.ax.set_yticks([0, 250, 500, 750, 1000, 1250, 1500, 1750, 1927])
 cbar.ax.set_yticklabels(['0', '250', '500', '750','1000', '1250', '1500', '1750', '1927'])
 
