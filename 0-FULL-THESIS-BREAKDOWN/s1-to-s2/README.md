@@ -68,7 +68,7 @@ Here's the eastern pivot:
 
 ![eastern pivot](img/eastern-pivot.png "eastern pivot")
 
-Putting it all together, the paths of rotation will look like this (Khafre pyramid travels from the red dot to the end of the red line):
+Putting it all together, the paths of rotation will look like this (Khafre pyramid travels from the red dot, past the north pole to the blue dot):
 
 ![x](img/globe-viz.png "global rotation diagram")
 

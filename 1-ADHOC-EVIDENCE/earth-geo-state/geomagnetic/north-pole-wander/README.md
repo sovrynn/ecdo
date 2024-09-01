@@ -13,7 +13,9 @@ https://www.ncei.noaa.gov/maps/historical_declination/
 
 ## North Magnetic Pole and Planetary Harmonics (1600-2024)
 
-See `img/Np_1590-2100.mp4` for an excellent visualization on the magnetic north pole wander going back to 1600.
+See `Np_1590-2100.mp4` for an excellent visualization on the magnetic north pole wander going back to 1600.
+
+<video src="Np_1590-2100.mp4" width="1080" height="1080" controls></video>
 
 ## 1840 - 2019 Magnetic North Pole Wander Video
 
