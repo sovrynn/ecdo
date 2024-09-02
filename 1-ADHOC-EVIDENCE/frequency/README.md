@@ -30,7 +30,7 @@ Finally you also have a harmonic of the gas giant grand cycle which aligns with 
 
 In his thesis, Ethical Skeptic makes some mentions of a potential 6000 year cycle and provides supporting evidence.
 
-Ben (Suspicious Observers) also endorses the 6000 year cycle view. See `LITERATURE/ben-davidson` for more.
+Ben (Suspicious Observers) also endorses the 6000 year cycle view. See `LITERATURE-MEDIA/ben-davidson` for more.
 
 ## Grep searching notable dates
 

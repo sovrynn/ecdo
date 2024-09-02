@@ -24,7 +24,7 @@ Auxiliary folders:
 ## ECDO Newcomer Guide
 
 1. What is the ECDO?
-	- Mandatory reading: Ethical Skeptic's original thesis (`LITERATURE/0-ethical-skeptic`)
+	- Mandatory reading: Ethical Skeptic's original thesis (`LITERATURE-MEDIA/0-ethical-skeptic`)
 	- In-depth ECDO thesis breakdown (WIP): `FULL-THEORY-BREAKDOWN`
 2. What is the evidence for the ECDO?
 	- All manner of ECDO evidence: `ADHOC-EVIDENCE`
@@ -89,6 +89,10 @@ Replace `WORD` with the phrase you want to search for.
 
 To search for a specific filename pattern, use:
 - `find . -name [pattern]`
+
+## Repo text find-and-replace
+
+Use `find /path/to/search -type f -name "*.txt" -exec sed -i 's/old-text/new-text/g' {} +`.
 
 ## Adding TODOs
 

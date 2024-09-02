@@ -4,7 +4,7 @@ This document is dedicated to exploring parts of the solar system which may affe
 
 ## Planetary effects on the Sun's activity
 
-Landscheidt (see `LITERATURE/landscheidt`) proposes that the planets affect the Sun's activity. Particularly, the positions of the gas giants (Jupiter, Uranus, Neptune, Saturn), which are the planets with the most mass, determine the Sun's trajectory around the center of mass of the solar system:
+Landscheidt (see `LITERATURE-MEDIA/landscheidt`) proposes that the planets affect the Sun's activity. Particularly, the positions of the gas giants (Jupiter, Uranus, Neptune, Saturn), which are the planets with the most mass, determine the Sun's trajectory around the center of mass of the solar system:
 - Jupiter: 100% (reference value)
 - Saturn: ~30% of Jupiter's mass
 - Uranus: ~5% of Jupiter's mass
@@ -34,7 +34,7 @@ So the Gleissberg cycle graph is basically just showing the total change in angu
 
 ## Landscheidt "New Little Ice Age" Paper (2003)
 
-See `LITERATURE/landscheidt` for a hard copy.
+See `LITERATURE-MEDIA/landscheidt` for a hard copy.
 
 In this paper, Landscheidt explores the relation of the double derivative, or acceleration, of angular momentum, with the Gleissberg cycle.
 

@@ -10,7 +10,7 @@ Not so much a myth as an account, it lines up with Korea's founding myth, that o
 
 The flood level depicted is approximately 65m in modern-day China.
 
-Velikovsky's Worlds in Collision (`LITERATURE/velikovsky`), Chapter 4 page 100, has a compilation of the accounts of this flood during Emperor Yao's reign:
+Velikovsky's Worlds in Collision (`LITERATURE-MEDIA/velikovsky`), Chapter 4 page 100, has a compilation of the accounts of this flood during Emperor Yao's reign:
 
 *“At that time the miracle is said to have happened that the sun during a span of ten days did not set, the forests were ignited, and a multitude of abominable vermin was brought forth.” 2 “In the life-time of Yao [Yahou] the sun did not set for ten full days and the entire land was flooded.” An immense wave “that reached the sky” fell down on the land of China. “The water was well up on the high mountains, and the foot-hills could not be seen at all.”* [Velikovsky Page 101]
 

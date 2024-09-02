@@ -2,7 +2,7 @@
 
 Could be a good heuristic for finding safe spots.
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE/nobulart/ecdo-visualizations) for a visualization of the cities during S1 to S2 and S2 to S1.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for a visualization of the cities during S1 to S2 and S2 to S1.
 
 ## Nobulart
 

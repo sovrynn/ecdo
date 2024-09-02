@@ -1,6 +1,6 @@
 # Tectonic Plates
 
-This speculative analysis was inspired by this comment from Ethical Skeptic (`LITERATURE/ethical-skeptic`): *"It is possible that some or even most of our continental drift occurs quickly as a facet of ECDO events. The gradualism approach is the result of a flawed assumption now taken as proven, when it is not."*
+This speculative analysis was inspired by this comment from Ethical Skeptic (`LITERATURE-MEDIA/ethical-skeptic`): *"It is possible that some or even most of our continental drift occurs quickly as a facet of ECDO events. The gradualism approach is the result of a flawed assumption now taken as proven, when it is not."*
 
 ![tectonic plate map](img/tectonic-plate-detailed-map.png "tectonic plate map")
 

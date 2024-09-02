@@ -4,7 +4,7 @@ The folder is for mapping out all locations over the world, and evaluating them 
 
 ![world](img/global-elevation2.jpg "world")
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE/nobulart/ecdo-visualizations) for a global visualization of S1 -> S2.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for a global visualization of S1 -> S2.
 
 ## Basic Contribution Guidelines
 

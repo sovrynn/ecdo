@@ -5,7 +5,7 @@
 The Minoan civilization, which existed on Crete and other islands in the Mediterranean, seems to have ended without clear traces of invasion or other remnants. It is suspected that natural disasters, more extreme than a simple earthquake, were the cause of the downfall of Minoan civilization.
 
 Velikovsky, in his account on Crete in Earth in Upheaval, references two sources:
-- Sir Arthur Evans (see `LITERATURE/sir-arthur-evans`) who excavated the Minoan palace of Knossos on Crete references two catastrophes.
+- Sir Arthur Evans (see `LITERATURE-MEDIA/sir-arthur-evans`) who excavated the Minoan palace of Knossos on Crete references two catastrophes.
 - Marinatos' wrote a work on two catastrophes that destroyed Minoan civilization; which included a large volcanic eruption and subsequent deluge, evidenced by houses that were unearthed on the north of Crete. (hard copy in this folder)
 
 The Minoan Eruption of Santorini Volcano is estimated to have been around 1600 BC. This has been linked to a tsunami which hit the region around the same time: *"A Minoan and a Neolithic tsunami recorded in coastal sediments of Ios Island, Aegean Sea, Greece"*:

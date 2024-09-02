@@ -26,7 +26,7 @@ https:// (https://t.co/K4GQDGqcHv)iiif.wellcomecollection.org/pdf/b2201729x (htt
 
 ## Cuvier Books
 
-In `LITERATURE/cuvier` you can find the PDFs of several Georges Cuvier's books, from which the following quotes are from.
+In `LITERATURE-MEDIA/cuvier` you can find the PDFs of several Georges Cuvier's books, from which the following quotes are from.
 
 ![cuvier](img/cuvier1.jpg "cuvier")
 ![cuvier](img/cuvier2.jpg "cuvier")

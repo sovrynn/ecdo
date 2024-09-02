@@ -1,6 +1,6 @@
 # Carribean
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE/nobulart/ecdo-visualizations) for visualization.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for visualization.
 
 ## Nobulart
 

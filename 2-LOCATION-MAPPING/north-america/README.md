@@ -4,7 +4,7 @@ While there are likely several spots that are safe, North America has not been a
 
 ![na](img/north-america-elevation.png "na")
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE/nobulart/ecdo-visualizations) for a visualization.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for a visualization.
 
 ## Nobulart
 

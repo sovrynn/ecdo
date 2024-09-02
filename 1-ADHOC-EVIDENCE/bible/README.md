@@ -6,7 +6,7 @@ Are any past ECDO events recorded in the Bible?
 
 Chan believe there are 3 cataclysms recorded in the Bible: *"Did you understand that there are three cataclysms recorded in the Bible? Noah’s, Adam and Eve’s, and the one before that? If you missed it, check Genesis II."* [2]
 
-See `LITERATURE/chan-thomas`.
+See `LITERATURE-MEDIA/chan-thomas`.
 
 ## Noaic deluge (Book of Genesis)
 

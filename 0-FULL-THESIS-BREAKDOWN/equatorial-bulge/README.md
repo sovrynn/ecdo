@@ -26,7 +26,7 @@ Total: 12.7k km
 
 These layers will likely react differently when it comes to the equatorial bulge. For example, read this analogy about the Earth's mantle: *"The memory effect in the Earth’s mantle is akin to that occurring in cold honey after a spoon creates a depression in its surface, and the honey subsequently returns to a flat surface under gravity driven viscous flow. It may take the honey as much as a half an hour to return to being flat, depending on how cold it is."* [4]
 
-Also note this comment from Ethical Skeptic (`LITERATURE/ethical-skeptic`): *"We don’t know the plastic dynamics of the mantle, asthenosphere, and lithosphere, except to note that they are all indeed plastic at 932 to 4000 degrees C. They would deform immediately. during the days of the shift. Probably not a pleasant thing, even if one was up above the flood-wash."*
+Also note this comment from Ethical Skeptic (`LITERATURE-MEDIA/ethical-skeptic`): *"We don’t know the plastic dynamics of the mantle, asthenosphere, and lithosphere, except to note that they are all indeed plastic at 932 to 4000 degrees C. They would deform immediately. during the days of the shift. Probably not a pleasant thing, even if one was up above the flood-wash."*
 
 While it's not clear exactly how it will play out, it's possible that:
 - The more flowing, less dense layers that are further from the center and spinning faster will deform and adjust more quickly
