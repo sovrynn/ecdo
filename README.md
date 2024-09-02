@@ -2,7 +2,7 @@
 
 This repo is intended to be a thoughtbank for brainstorming the [ECDO thesis](https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/), created by the [Ethical Skeptic](https://theethicalskeptic.com/), and all things related to it.
 
-Organization of the repo is mainly done through self-explanatory directory/file names. Information is written into Markdown (`.md`) files named `README.md`, and images/videos are placed into `img/` folders at each step of the directory tree.
+Organization of the repo is mainly done through self-explanatory directory/file names. Information is written into Markdown (`.md`) files named `README.md`, and embedded media is placed into `img/` folders at each step of the directory tree.
 
 ## Contents
 
@@ -19,7 +19,7 @@ Minor folders:
 Auxiliary folders:
 - `4-DANGERS-PREPPING`: All matters ECDO-prepping, except location.
 - `5-TOOLS-DATA-DEV`: Technical resources for ECDO.
-- `6-LITERATURE`: Literature related to the ECDO, organized by author. 
+- `6-LITERATURE-MEDIA`: Literature and media related to the ECDO, organized by author. 
 
 ## ECDO Newcomer Guide
 
@@ -42,7 +42,7 @@ Almost anything that could be used to justify an ECDO event belongs in `ADHOC-EV
 
 The key here is to make judicious use of backlinks. There is bound to be overlap. The solution is to put info in the proper folder, and use backlinks to reference it in other locations. My preferred method for backlinks is to just mention the folder path (ex: `ADHOC-EVIDENCE/physical-evidence`) but you could also use a web URL link within the repo.
 
-Put notable literature (ex: books, research papers) related to ECDO in `LITERATURE`, and then backlink them in your analysis.
+Put notable literature and media (ex: books, research papers) related to ECDO in `LITERATURE-MEDIA`, and then backlink them in your analysis.
 
 ## Formatting guidelines
 
