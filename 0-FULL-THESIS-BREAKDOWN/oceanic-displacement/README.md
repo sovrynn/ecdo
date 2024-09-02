@@ -17,7 +17,7 @@ It's not complicated when we describe it this way, but we need to develop a syst
 
 For me, currently, the key steps are:
 1. *Terrain chokepoints*, from underwater to above-ground, where water will get trapped as it flows in, potentially leading it to flow *over* rather than *around*.
-2. *Topography*, as water will flow to the lowest elevation areas before being forced to higher elevations
+2. *Topography*, as water will be redirected to the lowest elevation areas after an initial upwards reaction
 3. *Water surge volume*, which when combined with surface area, determines *water surge height*
 4. *Water surge speed*, which when combined with *water surge height and volume*, can tell you how high of an obstacle the water surge could flow over
 
@@ -41,13 +41,15 @@ Precisely mapping the inundation will be a question of determining the cumulativ
 
 ## Part 2: Topography
 
-Topography will play a major rule in how the water moves as the lower elevation areas will usually direct the water flow. Water will flow to fill the lowest elevation areas, and only rise higher if it has to accomodate more water surge volume.
+Topography will play a major rule in how the water moves as after an initial upwards reaction, water will be redirected to the lowest elevation areas, and only rise higher if it has to accomodate more water surge volume.
 
-Combined with the fact that water moves radially, you'll be able to get a pretty good idea of the water flow. For example, see this diagram of predicted water flow starting from one coastal chokepoint in north Africa:
+The initial water reaction height will depend on the slope of the terrain. When combined with the speed, it will determine the total height that water travels up the slope until gravity forces it back down. When you consider that water could be traveling at supersonic speeds, this will definitely be a factor to consider.
+
+After the initial reaction, water will be redirected by gravity to lower elevation areas, moving radially when it can.
+
+As an example, see this diagram of predicted water flow starting from one coastal chokepoint in north Africa. It might not be gradual since north Africa rotates at the highest speed:
 
 ![x](img/radial.png "radial water flow")
-
-The slope of terrain is also important, because when combined with the speed, it will determine the total height that water travels up the slope until gravity forces it back down. When you consider that water could be traveling at supersonic speeds, this will definitely be a factor to consider.
 
 ## Part 3: Total volume and height of water surge
 
