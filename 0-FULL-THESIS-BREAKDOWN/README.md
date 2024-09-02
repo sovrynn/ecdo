@@ -9,7 +9,7 @@ A reader should be able to come away from this folder with an understanding of p
 Key ECDO content:
 - `s1-to-s2`: All matters concerning the transition from S1 to S2, and an ECDO rotation in general.
 - `why-104-31-meridian`: Information pertaining to why the rotation is 104 degrees along the 31 Meridian.
-- `ocean-displacement`: Understanding the displacement of oceans and bodies of water.
+- `oceanic-displacement`: Understanding the displacement of oceans and bodies of water.
 - `equatorial-bulge`: Investigating how the equatorial bulge will interact with the ECDO.
 
 ECDO content:
