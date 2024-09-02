@@ -30,7 +30,7 @@ Auxiliary folders:
 	- All manner of ECDO evidence: `ADHOC-EVIDENCE`
 	- Location-specific evidence: `LOCATION-MAPPING`
 3. How do we know it could be happening soon?
-	- Predictions on the timeframe of the impending ECDO: `MONITORING-PRESENT-ROTATION/date-and-triggers`
+	- Timeframe predictions: `MONITORING-PRESENT-ROTATION/date-and-triggers`
 
 # Contribution Guide
 
@@ -38,7 +38,7 @@ Auxiliary folders:
 
 Almost anything that could be used to justify an ECDO event belongs in `ADHOC-EVIDENCE`.
 - `LOCATION-MAPPING` is only for location-specific analysis (but there will be overlap).
-- `MONITORING-PRESENT-ROTATION` is only for speculative data feeds that show *something* is changing *now*. All historical material belongs in `ADHOC-EVIDENCE` from where you can backlink it.
+- `MONITORING-PRESENT-ROTATION` is only for speculative analysis on the near future.
 
 The key here is to make judicious use of backlinks. There is bound to be overlap. The solution is to put info in the proper folder, and use backlinks to reference it in other locations. My preferred method for backlinks is to just mention the folder path (ex: `ADHOC-EVIDENCE/physical-evidence`) but you could also use a web URL link within the repo.
 
