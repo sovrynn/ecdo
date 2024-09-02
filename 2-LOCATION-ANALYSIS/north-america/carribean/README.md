@@ -1,8 +1,8 @@
 # Carribean
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for visualization.
+https://github.com/user-attachments/assets/ee02ed35-babd-40e4-ad31-52ce943b8cf7
 
-## Nobulart
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization.
 
 Caribbean & Central America ECDO displacement path visualization.[1] From the Maya: "In the first period of the world lived the Saiyamkoob, "the Adjusters," a dwarf race which built cities now in ruins. They worked in darkness, as the sun had not yet appeared. When it did, they turned to stone, and their images can be found in the ruins. Food for the workers was lowered by rope from the sky, but the rope was cut, the blood ran out of it, and the earth and sky separated. This period ended with water over the earth. The Tsolob, "the Offenders," lived in the second period. These, too were destroyed by a flood. The Maya reigned during the third period, but their period was also ended by flood. The fourth and present age is peopled by a mixture of all previous races. [Alexander, 1920, p. 153]"[2]
 
