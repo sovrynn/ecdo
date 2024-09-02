@@ -7,7 +7,7 @@ In short, it is a very complex, large-scale fluid dynamics problem.
 ## A framework for modeling ocean displacement
 
 For me, currently, the key concepts are:
-1. *Concave terrain chokepoints*, from underwater to above-ground, where water will get trapped as it flows in, making it tend to flow *over* rather than *around*.
+1. *Concave terrain chokepoints*, both underwater and above-ground, where water will get trapped as it flows in, making it tend to flow *over* rather than *around*.
 2. *Topography*, as water will be redirected to the lowest elevation areas after an initial upwards reaction
 3. *Water surge volume*, which when combined with surface area covered by the surge, determines *water surge height*
 4. *Water surge speed*, which when combined with *water surge height and volume*, determines how high the water surge will reach when it encounters obstacles
