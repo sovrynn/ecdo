@@ -14,10 +14,10 @@ Oceania ECDO visualization using the V4 model.[1] Australia and many of the Paci
 
 Australia's proximity to the Sulawesi pivot means that water velocities are somewhat less than in many other places. Vast regions are characterized by dune-like striations which run for many hundreds of kilometers (period 600m, amplitude 15m) - whether or not there is a diluvial aspect to the formation of their substructures is not clear. There are significant salt deposits in the central southern basin region. Topography suggests inundation mostly from the south during S1>S2. Note the crescent-shaped waves running tangent to the moment of inertia (red line) east of Adelaide.
 
-[1] https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
-[2] https://talkorigins.org/faqs/flood-myths.html
-[3] https://x.com/nobulart/status/1812565796972798086
-[4] https://x.com/nobulart/status/1817571533050581496
+1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
+2. https://talkorigins.org/faqs/flood-myths.html
+3. https://x.com/nobulart/status/1812565796972798086
+4. https://x.com/nobulart/status/1817571533050581496
 
 ## TODO
 
