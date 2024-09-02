@@ -33,7 +33,7 @@ The earliest chokepoints are all at or under the water. This includes all coastl
 
 ![x](img/chokepoints.png "japan chokepoints")
 
-Determining the water inundation height at a chokepoint is dependent on how much water has to flow through the chokepoint at what speed. The water will rise until the cross sectional volume that the chokepoint handles is sufficient to allow the water to pass through the chokepoint at the given speed.
+Determining the water inundation height at a chokepoint is dependent on how much water has to flow through the chokepoint at what speed. The water will rise until the cross sectional volume of the chokepoint flow channel is sufficient to allow the water to pass through the chokepoint at the given speed.
 
 The speed is key here, because of gravity. Without sufficient *water inflow speed*, water will not be able to pass over obstacles.
 
@@ -46,6 +46,8 @@ Topography will play a major rule in how the water moves as the lower elevation 
 Combined with the fact that water moves radially, you'll be able to get a pretty good idea of the water flow. For example, see this diagram of predicted water flow starting from one coastal chokepoint in north Africa:
 
 ![x](img/radial.png "radial water flow")
+
+The slope of terrain is also important, because when combined with the speed, it will determine the total height that water travels up the slope until gravity forces it back down. When you consider that water could be traveling at supersonic speeds, this will definitely be a factor to consider.
 
 ## Part 3: Total volume and height of water surge
 
