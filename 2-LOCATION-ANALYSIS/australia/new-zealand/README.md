@@ -2,9 +2,11 @@
 
 ![aus](img/new-zealand.png "aus")
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for a visualization.
+## Analysis
 
-## Nobulart
+https://github.com/user-attachments/assets/b1daf844-5498-41fe-9424-65f8efc77f51
+
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization.
 
 New Zealand (Māori: Aotearoa) by request: ECDO displacement detail S1>S2>S1 [1]. Note the striking alignment between the local bathymetry and the displacement path.
 
@@ -13,9 +15,9 @@ New Zealand (Māori: Aotearoa) by request: ECDO displacement detail S1>S2>S1 [1]
 Māori deluge mythology [3]:
 "The floods of heaven descended and killed everyone on earth." This event was called "The overwhelming of the Mataaho." [1][Gaster, p. 112]
 
-[1] https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/
-[2] https://www.nzherald.co.nz/nz/steve-braunias-spending-doomsday-with-kim-dotcom/CNLGZOLRIZKRFWKH2WAWOY7PU4/
-[3] https://talkorigins.org/faqs/flood-myths.html#Maori
+1. https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/
+2. https://www.nzherald.co.nz/nz/steve-braunias-spending-doomsday-with-kim-dotcom/CNLGZOLRIZKRFWKH2WAWOY7PU4/
+3. https://talkorigins.org/faqs/flood-myths.html#Maori
 
 ## TODO Potential Leads
 
