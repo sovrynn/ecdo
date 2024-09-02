@@ -10,7 +10,7 @@ For me, currently, the key concepts are:
 1. *Concave terrain chokepoints*, from underwater to above-ground, where water will get trapped as it flows in, making it tend to flow *over* rather than *around*.
 2. *Topography*, as water will be redirected to the lowest elevation areas after an initial upwards reaction
 3. *Water surge volume*, which when combined with surface area covered by the surge, determines *water surge height*
-4. *Water surge speed*, which when combined with *water surge height and volume*, determines how high of an obstacle the water surge could flow over
+4. *Water surge speed*, which when combined with *water surge height and volume*, determines how high the water surge will go, and whether it will pass over or around obstacles
 
 Evidences of past inundation will be extremely helpful in fine-tuning the analysis. Every location will be unique and must be evaluated on a case-by-case basis.
 
