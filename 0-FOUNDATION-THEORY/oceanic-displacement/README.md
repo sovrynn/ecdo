@@ -16,7 +16,7 @@ Evidence of past inundation will be extremely helpful in fine-tuning the analysi
 
 ## Part 1: Concave terrain chokepoints
 
-Chokepoints are areas with concave terrain in which water will get trapped if it flows into, and will be forced to go *around* or *over*. For example, most bays and basins form de facto chokepoints.
+Chokepoints are areas with concave terrain in which water will get trapped if it flows into, forcing the water to go *around* or *over*. For example, most bays and basins form de facto chokepoints.
 
 In contrast, terrain that forms a convex shape has more of a likelihood to streamline through the water, letting the water move around. However, this comes after an initial upward reaction of the water. If you have ever stood in the tides of the ocean as they flow out to sea, you'll know that when flowing water encounters obstacles, even if it moves around, it will first react in an upward fashion, with strength proportional to the speed of the water, without exception.
 
