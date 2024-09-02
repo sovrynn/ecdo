@@ -1,6 +1,6 @@
 # Python script for downscaling MP4 files
 
-Downscales videos with a target size of under 10 MB. Reduces bitrate and resolution proportionally using ffmpeg. In the code the target size is set to 9.4 MB as the output files seem to have ~0.5 MB extra size.
+Downscales videos with a target size of under 10 MB. Reduces bitrate and resolution proportionally using ffmpeg. In the code the target size is set to 9.7 MB as the output files seem to have ~0.2 MB extra size.
 
 Purpose is for uploading to Github READMEs.
 
