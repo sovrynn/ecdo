@@ -118,6 +118,7 @@ def reduce_resolution_and_bitrate(input_file, output_file, scale_factor, bitrate
         'ffmpeg',
         '-i', input_file,
         '-vf', f'scale={new_width}:{new_height}',
+        '-c:v', 'h264', # h.264 codec
         '-b:v', f'{bitrate}k',
         '-c:a', 'aac',
         '-b:a', '128k',
@@ -129,13 +130,14 @@ def reduce_resolution_and_bitrate(input_file, output_file, scale_factor, bitrate
 
 def process_videos(directory):
     """Iterates through all .mp4 files in the directory and processes them."""
-    target_size_mb = 9.4  # Updated target size
+    target_size_mb = 9.7  # Updated target size
+    limit_size_mb = 10
     for file_name in os.listdir(directory):
         if file_name.endswith('.mp4'):
             file_path = os.path.join(directory, file_name)
             file_size_mb = get_file_size(file_path) / (1024 * 1024)  # Convert bytes to MB
             
-            if file_size_mb > target_size_mb:
+            if file_size_mb > limit_size_mb:
                 # Get current bitrate and duration
                 current_bitrate = get_video_bitrate(file_path)
                 duration_sec = get_video_duration(file_path)
@@ -157,6 +159,6 @@ def process_videos(directory):
 
 if __name__ == "__main__":
     # Specify the directory containing the .mp4 files
-    directory = '../../../../6-LITERATURE-MEDIA/nobulart/ecdo-visualizations/s/'  # Update this path
+    directory = '.'  # Update this path
     
     process_videos(directory)
