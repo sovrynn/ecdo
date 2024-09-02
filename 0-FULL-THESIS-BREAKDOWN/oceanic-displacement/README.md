@@ -15,10 +15,10 @@ It's not complicated when we describe it this way, but we need to develop a syst
 
 ## A 3-part system for modeling ocean displacement
 
-For me, currently, the key concepts here are:
+For me, currently, the key steps here are:
 1. *Terrain chokepoints*, from underwater to above-ground, that will dictate areas where water has to choose between going *around* or *over*
 2. *Total volume of water surge*, which when combined with surface area, determines *water height*
-3. *Speed of water surge*, which when combined with *water height and volume*, can tell you *exactly* how water might flow
+3. *Speed of water surge*, which when combined with *water height and volume*, can tell you how water might flow
 
 Evidences of past inundation will be extremely helpful in fine-tuning the analysis. Every location will be unique and must be evaluated on a case-by-case basis.
 
@@ -28,7 +28,7 @@ Chokepoints are areas with concave terrain in which water will get trapped if it
 
 In contrast, terrain that forms a convex shape has more of a likelihood to streamline through the water, letting the water move around. However, this depends on the speed of the water. If you have ever stood in the tides of the ocean as they flow out to sea, you'll know that the water, even if it moves around, will first react to obstacles in an upward fashion, with strength proportional to the speed of the water, without exception.
 
-The earliest chokepoints are all underwater in the oceanic terrain near the coasts. These underwater chokepoints will drive the water above sea level, from which the water will continue to move. For example, note these massive underwater chokepoints to the east of Japan:
+The earliest chokepoints are all at or under the water. This includes all coastlines, since bodies of water form de facto basins. These underwater and water-level chokepoints will drive the water above sea level, from which the water will continue to move. For example, note these massive underwater chokepoints to the east of Japan:
 
 ![x](img/chokepoints.png "japan chokepoints")
 
@@ -48,7 +48,7 @@ The height of the water flow is directly proportional to the total volume and in
 
 ## Part 3: Speed of water surge
 
-This is the simplest part; the speed of watetr surge will be directly proportional to the speed of rotation. See `FULL-THESIS-BREAKDOWN/s1-to-s2/rotation-speed`.
+This is the simplest part; the speed of water surge will be directly proportional to the speed of rotation. See `FULL-THESIS-BREAKDOWN/s1-to-s2/rotation-speed`.
 
 ## Best Examples of Location Oceanic Displacement Analysis
 
