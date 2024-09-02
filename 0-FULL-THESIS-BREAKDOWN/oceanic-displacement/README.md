@@ -4,15 +4,6 @@ This document is for predicting the height and extent of temporary oceanic displ
 
 In short, it is a very complex, large-scale fluid dynamics problem.
 
-## Intro: Key forces at play
-
-- Uniquely shaped landmass rotating at varying high speeds
-- 3D physics of large bodies of water
-	- water moves radially to the past of least resistance
-	- gravity
-
-It's not complicated when we describe it this way, but we need to develop a system for performing the analysis.
-
 ## A framework for modeling ocean displacement
 
 For me, currently, the key steps are:
