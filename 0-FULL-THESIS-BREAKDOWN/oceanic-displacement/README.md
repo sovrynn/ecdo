@@ -17,8 +17,9 @@ It's not complicated when we describe it this way, but we need to develop a syst
 
 For me, currently, the key steps are:
 1. *Terrain chokepoints*, from underwater to above-ground, where water will get trapped as it flows in, potentially leading it to flow *over* rather than *around*.
-2. *Water surge volume*, which when combined with surface area, determines *water surge height*
-3. *Water surge speed*, which when combined with *water surge height and volume*, can tell you how high of an obstacle the water surge could flow over
+2. *Topography*, as water will flow to the lowest elevation areas before being forced to higher elevations
+3. *Water surge volume*, which when combined with surface area, determines *water surge height*
+4. *Water surge speed*, which when combined with *water surge height and volume*, can tell you how high of an obstacle the water surge could flow over
 
 Evidences of past inundation will be extremely helpful in fine-tuning the analysis. Every location will be unique and must be evaluated on a case-by-case basis.
 
@@ -38,7 +39,15 @@ The speed is key here, because of gravity. Without sufficient *water inflow spee
 
 Precisely mapping the inundation will be a question of determining the cumulative progression of water from chokepoint(s) to chokepoint(s), and making judicious use of contour/elevation maps.
 
-## Part 2: Total volume and height of water surge
+## Part 2: Topography
+
+Topography will play a major rule in how the water moves as the lower elevation areas will usually direct the water flow. Water will flow to fill the lowest elevation areas, and only rise higher if it has to accomodate more water surge volume.
+
+Combined with the fact that water moves radially, you'll be able to get a pretty good idea of the water flow. For example, see this diagram of predicted water flow starting from one coastal chokepoint in north Africa:
+
+![x](img/radial.png "radial water flow")
+
+## Part 3: Total volume and height of water surge
 
 The total volume of water surge at any location with significant flows is determined in a progressive manner through a cumulative series of chokepoints that lead to the location. Since water moves *radially*, the water that moves through any given chokepoint will often spread to multiple subsequenct chokepoints, splitting up the water flow.
 
@@ -46,7 +55,7 @@ Determining the total volume of water at any given chokepoint depends on the tot
 
 The height of the water flow is directly proportional to the total volume and inversely proportional to the total surface area of the water surge.
 
-## Part 3: Speed of water surge
+## Part 4: Speed of water surge
 
 This is the simplest part; the speed of water surge will be directly proportional to the speed of rotation. See `FULL-THESIS-BREAKDOWN/s1-to-s2/rotation-speed`.
 
