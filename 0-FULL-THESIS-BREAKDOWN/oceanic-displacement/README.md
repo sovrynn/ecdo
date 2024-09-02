@@ -53,7 +53,7 @@ As an example, see this diagram of predicted water flow starting from one coasta
 
 ## Part 3: Total volume and height of water surge
 
-The total volume of water surge at any location with significant flows is determined in a progressive manner through a cumulative series of chokepoints that lead to the location. Since water moves *radially*, the water that moves through any given chokepoint will often spread to multiple subsequenct chokepoints, splitting up the water flow.
+The total volume of water surge at any location with significant flows is determined in a progressive manner through a cumulative series of chokepoints that lead to the location. Since water moves *radially*, the water that moves through any given chokepoint will often spread to multiple subsequent chokepoints, splitting up the water flow.
 
 Determining the total volume of water at any given chokepoint depends on the total volumetric input and output rate of water flows into the chokepoint.
 
