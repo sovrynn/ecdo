@@ -1,0 +1,31 @@
+# Biodiversity
+
+If you look at the map of biodiversity hotspots, there's a lot of overlap with high-elevation locations. It may be that this is another factor hinting at safe spots during the ECDO event.
+
+![bio](img/biodiversity-hotspots.jpg "bio")
+![bio](img/biodiversity-plants.jpg "bio")
+![bio](img/global-biodiversity.jpg "bio")
+
+## Fish
+
+![bio](img/fish-species.jpg "bio")
+![bio](img/freshwater-fish-species.jpg "bio")
+
+## Marine Plants
+
+![marine plant diversity](img/marine-plant-diversity.jpg "marine plant diversity")
+![marine plant diversity](img/marine-plant-diversity2.jpg "marine plant diversity")
+
+## Old Biodiversity Data
+
+![biodiversity](img/biodiversity-old.jpg "biodiversity")
+
+## Unexplained phenomena
+
+![x](img/wallaces-line.jpg "wallaces line")
+
+The timing agrees - a YD event. The explanation under ECDO is essentially the same. The only variation is the attributed cause - deglaciation vs rotation (which would also precipitate deglaciation in many places).
+
+## Citations
+
+- https://www.researchgate.net/figure/A-Species-density-map-for-4-967-freshwater-fish-species-Density-was-calculated-as_fig3_366847384

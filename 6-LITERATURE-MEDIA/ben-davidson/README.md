@@ -12,4 +12,4 @@ He believes there is a 6000 year "event" cycle.
 
 ## Book excerpt
 
-![x](img/ben-davidson.jpg "")
+![x](img/ben-davidson2.jpg "")

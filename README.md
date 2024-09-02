@@ -9,16 +9,16 @@ Organization of the repo is mainly done through self-explanatory directory/file 
 Following are the main folders of the repo along with their purpose. There is bound to be some overlap but I have made the categories as discrete as possible.
 
 Major folders:
-- `0-FULL-THESIS-BREAKDOWN`: An in-depth breakdown and scientific analysis of the ECDO thesis.
-- `1-ADHOC-EVIDENCE`: A monolithic folder for all evidence of potential past and future ECDO events.
+- `0-FOUNDATION-THEORY`: A scientific breakdown and knowledge store for the ECDO thesis.
+- `1-EVIDENCE`: A monolithic folder for all potential evidence of past and future ECDO events.
 
 Minor folders:
-- `2-LOCATION-MAPPING`: Mapping out how different areas of the world will fare during an ECDO event.
-- `3-MONITORING-PRESENT-ROTATION`: Predicting the timing of the impending ECDO event.
+- `2-LOCATION-ANALYSIS`: Mapping out how different areas of the world will fare during an ECDO event.
+- `3-FORECASTING`: Predicting the timing of the impending ECDO event.
 
 Auxiliary folders:
 - `4-DANGERS-PREPPING`: All matters ECDO-prepping, except location.
-- `5-TOOLS-DATA-DEV`: Technical resources for ECDO.
+- `5-TOOLS-DEV`: Technical resources for ECDO.
 - `6-LITERATURE-MEDIA`: Literature and media related to the ECDO, organized by author. 
 
 ## ECDO Newcomer Guide
@@ -27,20 +27,20 @@ Auxiliary folders:
 	- Mandatory reading: Ethical Skeptic's original thesis (`LITERATURE-MEDIA/0-ethical-skeptic`)
 	- In-depth ECDO thesis breakdown (WIP): `FULL-THEORY-BREAKDOWN`
 2. What is the evidence for the ECDO?
-	- All manner of ECDO evidence: `ADHOC-EVIDENCE`
-	- Location-specific evidence: `LOCATION-MAPPING`
+	- All manner of ECDO evidence: `EVIDENCE`
+	- Location-specific evidence: `LOCATION-ANALYSIS`
 3. How do we know it could be happening soon?
-	- Timeframe predictions: `MONITORING-PRESENT-ROTATION/date-and-triggers`
+	- Timeframe predictions: `FORECASTING/date-and-triggers`
 
 # Contribution Guide
 
 ## Key: Where do I put my info?
 
-Almost anything that could be used to justify an ECDO event belongs in `ADHOC-EVIDENCE`.
-- `LOCATION-MAPPING` is only for location-specific analysis (but there will be overlap).
-- `MONITORING-PRESENT-ROTATION` is only for speculative analysis on the near future.
+If you're not sure where to put things, it probably belongs in `EVIDENCE`. Almost anything that could potentially be used to justify an ECDO event belongs there first and other places second.
+- `FOUNDATION-THEORY` is for prerequisite knowledge, speculative scientific theories, and explanation of the ECDO thesis.
+- `LOCATION-ANALYSIS` is only for location-specific analysis. This is the one place where it's fine or even recommended to have significant overlap with `EVIDENCE` to have comprehensive analysis. But the evidence should first go into `EVIDENCE`.
 
-The key here is to make judicious use of backlinks. There is bound to be overlap. The solution is to put info in the proper folder, and use backlinks to reference it in other locations. My preferred method for backlinks is to just mention the folder path (ex: `ADHOC-EVIDENCE/physical-evidence`) but you could also use a web URL link within the repo.
+The key here is to make judicious use of backlinks. There is bound to be overlap. The solution is to put info in the proper folder, and use backlinks to reference it in other locations. My preferred method for backlinks is to just mention the folder path (ex: `EVIDENCE/physical-evidence`) but you could also use a web URL link within the repo.
 
 Put notable literature and media (ex: books, research papers) related to ECDO in `LITERATURE-MEDIA`, and then backlink them in your analysis.
 
@@ -89,10 +89,6 @@ Replace `WORD` with the phrase you want to search for.
 
 To search for a specific filename pattern, use:
 - `find . -name [pattern]`
-
-## Repo text find-and-replace
-
-Use `find /path/to/search -type f -name "*.txt" -exec sed -i 's/old-text/new-text/g' {} +`.
 
 ## Adding TODOs
 

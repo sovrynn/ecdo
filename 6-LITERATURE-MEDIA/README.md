@@ -1,6 +1,6 @@
 # Literature and Media
 
-This folder is a centralized location for literature (books, research papers) and media related to the ECDO. It is organized by author.
+A centralized location for literature (books, research papers) and media related to the ECDO. It is organized by author.
 
 ## Resources
 

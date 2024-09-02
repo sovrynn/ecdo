@@ -11,3 +11,5 @@ A close follower of the ECDO theory with a lot of relevant material on his [webs
 Chan:
 - Tons of evidence here: https://nobulart.com/cataclysms-revisited/
 - https://nobulart.com/the-story-and-the-event/
+
+- https://nobulart.com/musica-vitae-et-mortis/
