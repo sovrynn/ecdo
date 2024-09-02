@@ -15,10 +15,10 @@ It's not complicated when we describe it this way, but we need to develop a syst
 
 ## A 3-part system for modeling ocean displacement
 
-For me, currently, the key steps here are:
-1. *Terrain chokepoints*, from underwater to above-ground, that will dictate areas where water has to choose between going *around* or *over*
-2. *Total volume of water surge*, which when combined with surface area, determines *water height*
-3. *Speed of water surge*, which when combined with *water height and volume*, can tell you how water might flow
+For me, currently, the key steps are:
+1. *Terrain chokepoints*, from underwater to above-ground, where water will get trapped as it flows in, potentially leading it to flow *over* rather than *around*.
+2. *Water surge volume*, which when combined with surface area, determines *water surge height*
+3. *Water surge speed*, which when combined with *water surge height and volume*, can tell you how high of an obstacle the water surge could flow over
 
 Evidences of past inundation will be extremely helpful in fine-tuning the analysis. Every location will be unique and must be evaluated on a case-by-case basis.
 
@@ -28,7 +28,7 @@ Chokepoints are areas with concave terrain in which water will get trapped if it
 
 In contrast, terrain that forms a convex shape has more of a likelihood to streamline through the water, letting the water move around. However, this depends on the speed of the water. If you have ever stood in the tides of the ocean as they flow out to sea, you'll know that the water, even if it moves around, will first react to obstacles in an upward fashion, with strength proportional to the speed of the water, without exception.
 
-The earliest chokepoints are all at or under the water. This includes all coastlines, since bodies of water form de facto basins. These underwater and water-level chokepoints will drive the water above sea level, from which the water will continue to move. For example, note these massive underwater chokepoints to the east of Japan:
+The earliest chokepoints are all at or under the water. This includes all coastlines, since bodies of water form de facto basins. These underwater and water-level chokepoints will be the first to drive the water above sea level, from which the water will continue to move to other chokepoints. For example, note these massive underwater chokepoints to the east of Japan:
 
 ![x](img/chokepoints.png "japan chokepoints")
 

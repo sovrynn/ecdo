@@ -1,9 +1,5 @@
 # Earth Magnetic Moment Data
 
-## North Magnetic Pole and Planetary Harmonics (1600-2024)
-
-See `Np_1590-2100.mp4` for an excellent visualization on the magnetic north pole wander going back to 1600.
-
 ## Hard copy of 1900 data
 
 `filtered-pole.tab.txt` contains the raw data for the Earth's magnetic dipole moment going back to 1900. The values are vastly higher now than they were 124 years ago, and getting larger by the week.
