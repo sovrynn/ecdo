@@ -42,7 +42,7 @@ As an example, see this diagram of predicted water flow starting from one coasta
 
 Generally, the total volume of water surge depends on the total amount of ocean that the location rotates through during S1 -> S2. From there, the water surge passes through a cumulative series of chokepoints in a progressive manner. Since water spreads *radially*, the water that moves through any given chokepoint will often spread to multiple subsequent chokepoints, splitting up the water flow.
 
-Determining the total volume of water at any given chokepoint depends on the total volumetric input and output rate of water flows into the chokepoint. The water will rise until the cross sectional volume of the chokepoint pass-through channel is sufficient to accomodate the water inflow.
+Determining the exact inundation at any given chokepoint depends on the total volumetric input and output rate of water flows into the chokepoint. The water will rise until the cross sectional volume of the chokepoint pass-through channel is sufficient to accomodate the water inflow.
 
 The speed is also key here, because of gravity. Without sufficient *water inflow speed*, water will not be able to pass over obstacles.
 
