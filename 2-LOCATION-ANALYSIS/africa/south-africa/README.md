@@ -2,7 +2,9 @@
 
 Appears safe from deluge from S1 to S2.
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for a visualization.
+https://github.com/user-attachments/assets/c50b7310-dca1-475f-b582-6128943af9ab
+
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for high-res visualization.
 
 ## Overview
 
