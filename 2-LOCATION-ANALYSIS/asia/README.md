@@ -2,12 +2,12 @@
 
 Home of the east ECDO pivot at Sulawesi, Indonesia. It also has one of the largest areas of highest elevation, in west China north of India.
 
+![profile](img/profile.png "asia profile")
+![as](img/asia-elevation.png "asia elevation")
+
 https://github.com/user-attachments/assets/490f770f-1b53-44cc-95e4-2f1b290e80a0
 
 See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for athe full-res visualization.
-
-![profile](img/profile.png "asia profile")
-![as](img/asia-elevation.png "asia elevation")
 
 # Analysis
 
