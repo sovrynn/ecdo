@@ -99,3 +99,7 @@ The smaller numbers underneath point to a connection with the period of the trip
 There is one constant in the diversity of motives and their variation in the morphology of the Julia sets: the Mandelbrot set itself, which appears again and again in different sizes but always in the same form. One has to think of the genetic organisation in higher organisms: each cell contains the complete genome, the totality of all forms of expression, but at any point in the organism only a small selection actually is expressed. [84]
 
 The reader should hold in mind that all these fascinating qualities emerge from simple feed-back cycles that can be found, too, in the relative motion of cosmic bodies in the solar system. Beyond the mathematical complexity of the Mandelbrot set its aesthetic appeal should not be forgotten. [86]
+
+## TODO
+
+Scrape these sites for text, pdf, csv, tsv, charts, media, etc. Lots of good data

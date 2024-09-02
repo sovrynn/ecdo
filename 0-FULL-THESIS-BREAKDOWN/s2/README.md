@@ -20,6 +20,8 @@ See `FULL-THESIS-BREAKDOWN/equatorial-bulge` for a detailed visualization of the
 
 The Great Gun-Yu flood of China, around 1900 BC, was said to have lasted 22 years. See `ADHOC-EVIDENCE/ancient-myths/asia/china`.
 
+"I don't think that S2 is more than 20-30 years [due to] total apparent karst erosion/number of inundations." - Nobulart
+
 ## New Geographic Pole Locations
 
 New north pole:

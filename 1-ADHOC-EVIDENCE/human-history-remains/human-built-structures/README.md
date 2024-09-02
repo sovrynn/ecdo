@@ -156,6 +156,15 @@ An interesting paper, with a convincing argument that GT was astronomically link
 - https://web.archive.org/web/20230605190759/http://www.maajournal.com/Issues/2017/Vol17-1/Sweatman%20and%20Tsikritsis%2017(1).pdf
 - https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876
 
+## Vitrified forts in Scotland
+
+![x](img/scotland-burned.jpg "scotland burned")
+
+Dates to around 150 AD.
+
+1. https://www.sciencedirect.com/science/article/abs/pii/S2352409X19304080
+2. https://en.wikipedia.org/wiki/Vitrified_fort
+
 ## TODO Potential Leads
 
 Curious on the difference between 1700 BC and 1300-1200 BC dating for some of these events.

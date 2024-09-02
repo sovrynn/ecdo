@@ -28,3 +28,20 @@ This is recorded all over the earth in thousands of proxies. Uniformitarian geol
 ![magnetic](img/magnetic5.jpg "magnetic profiles")
 ![magnetic](img/magnetic6.jpg "magnetic profiles")
 ![magnetic](img/magnetic7.jpg "magnetic profiles")
+
+## Magnetic field getting weaker
+
+![x](img/mag1.jpg "")
+![x](img/mag2.jpg "")
+![x](img/mag3.jpg "")
+![x](img/mag4.jpg "")
+
+See https://iswa.gsfc.nasa.gov/.
+
+Relevant papers
+- https://x.com/NoVaxForMePal/status/1659529838221295622
+- https://x.com/NoVaxForMePal/status/1682913085265248256
+- https://x.com/NoVaxForMePal/status/1618641550237634561
+- https://x.com/NoVaxForMePal/status/1621465149872766976
+- https://x.com/NoVaxForMePal/status/1620468069624868864
+- https://x.com/NoVaxForMePal/status/1620468069624868864

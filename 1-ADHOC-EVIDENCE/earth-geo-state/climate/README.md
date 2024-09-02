@@ -84,10 +84,12 @@ The authors of this paper observed a 3.4% reduction in shear wave velocity relat
 
 https://en.wikipedia.org/wiki/Mid-24th_century_BCE_climate_anomaly#:~:text=In%201997%2C%20Marie-Agn%C3%A8s%20Courty,hundred%20kilometres%20from%20each%20other
 
-## Saudi Arabia temps
+## Speculative core-mantle decoupling instigator
 
-![x](img/saudi.jpg "saudi temps")
+The phase state change of hexagonal close packed iron in the core into the mantle may be driven by solar proton storms (From CMEs) into the core via the poles by slamming positively charged protons into a solid mass of Fe+ causing mantle heating and density changes. As we see the magnetic field deteriorate are we seeing this process accelerate exponentially taking us to the TAU point TES describes? Are they trying to slow this down by seeding the atmosphere with negatively ions?
 
-Whenever we see the use of terms like "heat index", we should consider that it might be propaganda. "Indexes" are derivatives used to push agendas. Actual maximum temperature around the gulf right now (and with history).
+![x](img/neutrino-storm.jpg "")
 
-https://earth.nullschool.net/#2024/08/28/1500Z/wind/surface/level/anim=off/overlay=temp/orthographic=-311.30,22.87,2081/loc=48.964,31.073
+A neutrino storm could significantly raise the number of interactions which occur internally. Each neutrino interaction is potentially a nuclear fission or fusion heating event.
+
+https://www.britannica.com/science/neutrino

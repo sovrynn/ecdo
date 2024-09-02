@@ -26,11 +26,25 @@ Going back another 3700 years to 9100 BC:
 
 Finally you also have a harmonic of the gas giant grand cycle which aligns with these dates (`solar-system`).
 
+## Alternate hypothesis: 10th harmonic (twice as frequent as 3700 years)
+
+![x](img/tenth-harmonic.jpg "")
+
+Is this perhaps a comet locked in the tenth harmonic (The harmonics are all expressed relative to the 18.5ka I)?
+
+https://chatgpt.com/share/0e3c3803-5dd3-401d-b75f-7c29e513707e
+
+![x](img/frequency.jpg "")
+
 ## Alternate theory: 6000 year cycle
 
 In his thesis, Ethical Skeptic makes some mentions of a potential 6000 year cycle and provides supporting evidence.
 
 Ben (Suspicious Observers) also endorses the 6000 year cycle view. See `LITERATURE-MEDIA/ben-davidson` for more.
+
+## Flegrei Volcano Dates
+
+![x](img/flegrei-volcano.jpg "")
 
 ## Grep searching notable dates
 
