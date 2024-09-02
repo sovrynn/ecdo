@@ -13,7 +13,7 @@ In short, it is a very complex, large-scale fluid dynamics problem.
 
 It's not complicated when we describe it this way, but we need to develop a system for performing the analysis.
 
-## A 3-part system for modeling ocean displacement
+## A framework for modeling ocean displacement
 
 For me, currently, the key steps are:
 1. *Terrain chokepoints*, from underwater to above-ground, where water will get trapped as it flows in, potentially leading it to flow *over* rather than *around*.
