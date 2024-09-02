@@ -4,7 +4,7 @@ Australia is somewhat close to the eastern ECDO pivot in Indonesia. It is possib
 
 ![aus](img/australia8.jpg "aus")
 
-See `australia.mp4` for a visualization.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE/nobulart) for a visualization.
 
 ## Analysis
 

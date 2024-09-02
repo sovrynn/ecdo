@@ -2,7 +2,7 @@
 
 ![india](img/india.png "india")
 
-See `img/india-visualization.mp4` for a visualization.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE/nobulart) for a visualization.
 
 ## Analysis
 
@@ -26,6 +26,33 @@ The exact locations are as follows:
 ![india flood sites](img/india-flood-sites.png "india flood sites")
 
 The approximate elevation of this area is 100m - 300m.
+
+## India Southeast Coast
+
+![ic1](img/indiacoast1.jpg "ic1")
+![ic2](img/indiacoast2.jpg "ic2")
+![ic3](img/indiacoast3.jpg "ic3")
+
+Remarkable channel erosion type morphology between Sri Lanka and India following the ECDO path. Sri Lanka has the characteristic teardrop form which some islands take on in fast flowing rivers. Third image is from Mars.
+
+## Nigiri Hills
+
+![india](img/nigiri.png "india")
+
+### Analysis
+
+![nh1](img/nigirihills1.jpg "nh1")
+![nh2](img/nigirihills2.jpg "nh2")
+![nh3](img/nigirihills3.jpg "nh3")
+
+Red lines are the ECDO path. Appears to be quite a few striations running along the path around it (I marked a few with blue arrows). Considering their relative flatness, I think these are overtopped going from S2>S1.
+
+## Kumari Kandam
+
+![kk](img/kumari-kandam.jpg "kk")
+
+Such might be the map of Kumari Kandam before sinking.
+Those islands on the leftern part probably were the older peaks formed due to previous deluges when kumari kandam did exist.
 
 ## Promising locations
 

@@ -26,21 +26,19 @@ Auxiliary folders:
 1. What is the ECDO?
 	- Mandatory reading: Ethical Skeptic's original thesis (`LITERATURE/0-ethical-skeptic`)
 	- In-depth ECDO thesis breakdown (WIP): `FULL-THEORY-BREAKDOWN`
-		- Breakdown of S1 -> S2 rotation: `FULL-THEORY-BREAKDOWN/s1-to-s2`
 2. What is the evidence for the ECDO?
 	- All manner of ECDO evidence: `ADHOC-EVIDENCE`
-	- Location-specific evidence (ex: physical landmarks): `LOCATION-MAPPING`
+	- Location-specific evidence: `LOCATION-MAPPING`
 3. How do we know it could be happening soon?
 	- Predictions on the timeframe of the impending ECDO: `MONITORING-PRESENT-ROTATION/date-and-triggers`
-	- Analysis on ECDO frequency: `FULL-THESIS-BREAKDOWN/ecdo-frequency`
 
 # Contribution Guide
 
 ## Key: Where do I put my info?
 
 Almost anything that could be used to justify an ECDO event belongs in `ADHOC-EVIDENCE`.
+- `LOCATION-MAPPING` is only for location-specific analysis (but there will be overlap).
 - `MONITORING-PRESENT-ROTATION` is only for speculative data feeds that show *something* is changing *now*. All historical material belongs in `ADHOC-EVIDENCE` from where you can backlink it.
-- `LOCATION-MAPPING` is only for speculative analysis on how locations will fare in the ECDO. All physical evidence of ECDO belongs first in `ADHOC-EVIDENCE`.
 
 The key here is to make judicious use of backlinks. There is bound to be overlap. The solution is to put info in the proper folder, and use backlinks to reference it in other locations. My preferred method for backlinks is to just mention the folder path (ex: `ADHOC-EVIDENCE/physical-evidence`) but you could also use a web URL link within the repo.
 
@@ -82,12 +80,15 @@ There are text editors such as Visual Studio Code that allow you to preview Mark
 For GIFs:
 - `![alt](PATH)`
 
-## Repo text search using grep
+## Repo text search (grep, find)
 
 To search for a word or phrase in the repo, use this command-line command in the top-level `ecdo` folder:
 - `grep -nr "WORD" --include="*.md" .`
 
 Replace `WORD` with the phrase you want to search for.
+
+To search for a specific filename pattern, use:
+- `find . -name [pattern]`
 
 ## Adding TODOs
 

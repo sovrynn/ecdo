@@ -2,7 +2,7 @@
 
 Appears safe from deluge from S1 to S2.
 
-See `img/south-africa-viz.mp4` for a visualization.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE/nobulart) for a visualization.
 
 ## Overview
 
@@ -77,9 +77,15 @@ https://en.wikipedia.org/wiki/San_people#Genetics
 
 ## Eswatini Border Cave
 
+Looks to be some topographical and visual evidence of flows in this area.
+
 ![x](img/south-africa-coast.jpg "south africa coast")
 ![x](img/south-africa-coast2.jpg "south africa coast")
 ![x](img/south-africa-coast3.jpg "south africa coast")
+
+If you look at the underwater terrain near the coast in this area, you can see an underwater chokepoint that would lead to a surge in the above coastal area.
+
+![x](img/south-africa-coast4.jpg "south africa coast")
 
 ## Makgadikgadi
 
@@ -96,12 +102,6 @@ Makgadikgadi estimated to have last been wet 16ka BP.
 "The fynbos ecoregion is within the Mediterranean forests, woodlands, and scrub biome. In fields related to biogeography, fynbos is known for its exceptional degree of biodiversity and endemism, consisting of about 80% (8,500 fynbos) species of the Cape floral kingdom, where nearly 6,000 of them are endemic."
 
 "The region occupies less than 0.5% of Africa's land area but supports approximately 20% of its plant life."
-
-## Underwater coastal shape
-
-![x](img/south-africa-coast4.jpg "south africa coast")
-
-Well shaped to avoid inundation. Looks like it could carve the water on the way back from S2 -> S1.
 
 ## TODO
 

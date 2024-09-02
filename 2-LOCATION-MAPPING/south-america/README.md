@@ -4,7 +4,7 @@ South America is home to the western ECDO pivot in east Venezuela.
 
 ![sa](img/south-america-elevation.png "sa")
 
-See `img/ECDO_SAMERICA.mp4` for a visualization.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE/nobulart) for a visualization.
 
 ## Nobulart
 

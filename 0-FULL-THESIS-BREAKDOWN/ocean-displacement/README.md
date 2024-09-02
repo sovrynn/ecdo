@@ -17,11 +17,11 @@ The water will tend to flow *around* when it can, and only travel *over* when it
 
 Still, have you ever stood in the tides of the ocean as they flow out to sea? The water, even if it moves around, will first react to obstacles in an upward fashion, with strength proportional to the speed of the water, without exception.
 
-## Location Analysis Examples
+## Best Examples of Location Analysis
 
 `LOCATION-MAPPING` is where all the location-specific flood analysis will go. Some good examples are:
 - Turkey (Urgup Cones), 1025m above sea level
-- East Asia
+- North Africa
 
 I'll add to this list promptly.
 

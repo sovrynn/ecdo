@@ -1,6 +1,6 @@
 # Africa
 
-Seems like there are definitely some safe spots in Africa.
+Africa, particularly South Africa, will have safe spots during the ECDO due to its unique geographic position.
 
 ![af](img/africa-elevation.png "af")
 

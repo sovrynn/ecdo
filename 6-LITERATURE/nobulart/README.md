@@ -2,8 +2,12 @@
 
 A close follower of the ECDO theory with a lot of relevant material on his [website](https://nobulart.com/).
 
+## Contents
+
+-`visualizations`: 3D ECDO rotation visualizations made by Nobulart.
+
 ## Good Articles
 
 Chan:
-- https://nobulart.com/cataclysms-revisited/
+- Tons of evidence here: https://nobulart.com/cataclysms-revisited/
 - https://nobulart.com/the-story-and-the-event/
