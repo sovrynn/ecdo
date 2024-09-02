@@ -18,7 +18,7 @@ Evidences of past inundation will be extremely helpful in fine-tuning the analys
 
 Chokepoints are areas with concave terrain in which water will get trapped if it flows into, and will be forced to go *around* or *over*. For example, most bays and basins form de facto chokepoints.
 
-In contrast, terrain that forms a convex shape has more of a likelihood to streamline through the water, letting the water move around. However, this comes after an initial upward reaction of the water. If you have ever stood in the tides of the ocean as they flow out to sea, you'll know that when flowing water encounters obstacles, even if it moves around, will first react in an upward fashion, with strength proportional to the speed of the water, without exception.
+In contrast, terrain that forms a convex shape has more of a likelihood to streamline through the water, letting the water move around. However, this comes after an initial upward reaction of the water. If you have ever stood in the tides of the ocean as they flow out to sea, you'll know that when flowing water encounters obstacles, even if it moves around, it will first react in an upward fashion, with strength proportional to the speed of the water, without exception.
 
 The earliest chokepoints are all at or under the water. These underwater and water-level chokepoints will be the first to drive the water above sea level, from which the water will continue to move to other chokepoints. For example, note these massive underwater chokepoints to the east of Japan:
 
@@ -40,7 +40,7 @@ As an example, see this diagram of predicted water flow starting from one coasta
 
 ## Part 3: Total volume and height of water surge
 
-The total volume of water surge at any location with significant flows is determined in a progressive manner through a cumulative series of chokepoints that lead to the location. Since water spreads *radially*, the water that moves through any given chokepoint will often spread to multiple subsequent chokepoints, splitting up the water flow.
+Generally, the total volume of water surge depends on the total amount of ocean that the location rotates through during S1 -> S2. From there, the water surge passes through a cumulative series of chokepoints in a progressive manner. Since water spreads *radially*, the water that moves through any given chokepoint will often spread to multiple subsequent chokepoints, splitting up the water flow. The origin of the water surge will begin at the coastal chokepoints.
 
 Determining the total volume of water at any given chokepoint depends on the total volumetric input and output rate of water flows into the chokepoint. The water will rise until the cross sectional volume of the chokepoint pass-through channel is sufficient to accomodate the water inflow.
 
