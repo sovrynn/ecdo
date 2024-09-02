@@ -1,8 +1,10 @@
 # Arctic
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for a visualization.
-
 ## Overview
+
+https://github.com/user-attachments/assets/6ea3f3cb-7f22-4d11-9b9c-64f842f2016b
+
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization.
 
 Arctic Ocean ECDO displacement visualization.[1] Bedrock without ice, including the Bering Strait, Siberia, Fennoscandia, Greenland, Canada and Alaska. The polar regions experience some of the highest land/water/air shear velocities during rotation due to their being at the maximum distance from both ECDO pivots. Add a few million gigatonnes of ice, and conditions would be about right to flash-freeze mammoths as are still being found in Alaska[2] and Siberia[3]. Swedish varved clay proxies spanning the Younger Dryas provide strong evidence for a displacement event around that time.[4] The star-like formation visible around the pole is a digital stitching artifact which arises from the projection of the map onto a sphere.
 Please ensure that you have read reference [1] before posting any questions.
