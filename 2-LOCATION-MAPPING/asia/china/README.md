@@ -1,4 +1,4 @@
-F# China
+# China
 
 China, while having a very large stretch of very high elevation land, still has to deal with quite a bit of water during S1 -> S2, and not only along the lines you see here - it potentially has to deal with ocean spilling over from Russia.
 
