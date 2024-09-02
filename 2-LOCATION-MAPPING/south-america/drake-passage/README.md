@@ -2,7 +2,7 @@
 
 ![sa](img/drake-passage.png "sa")
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE/nobulart) for ECDO-derived displacement visualization of a full oscillation cycle from S1 > S2 > S1.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE/nobulart/ecdo-visualizations) for ECDO-derived displacement visualization of a full oscillation cycle from S1 > S2 > S1.
 
 ## Analysis
 

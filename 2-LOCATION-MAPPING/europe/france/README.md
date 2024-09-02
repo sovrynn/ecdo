@@ -11,7 +11,3 @@ Contrast enhanced elevation data [1,2]. Current ripple period is ±500m. Amplitu
 - [1,2]  https://code.earthengine.google.com/9a58abb11419602f54e625808666feb7
 - [3] https://maps.app.goo.gl/6BDqkjcwCDwNV6hZ9
 - [4] https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/
-
-## TODO
-
-Was a flood viz with Nobulart's analysis, check if its duplicated after consolidating vizualizations

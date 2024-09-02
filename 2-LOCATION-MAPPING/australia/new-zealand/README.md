@@ -2,7 +2,7 @@
 
 ![aus](img/new-zealand.png "aus")
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE/nobulart) for a visualization.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE/nobulart/ecdo-visualizations) for a visualization.
 
 ## Nobulart
 
