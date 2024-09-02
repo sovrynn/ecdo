@@ -2,7 +2,7 @@
 
 ## Nobulart analysis
 
-https://github.com/user-attachments/assets/bdece8bb-21a9-409f-94dc-fed29ee8965b
+https://github.com/user-attachments/assets/eecae3f0-8dab-41db-868f-7a1819f490a5
 
 See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the high-res visualization.
 
