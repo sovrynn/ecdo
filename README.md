@@ -15,7 +15,7 @@ Major folders:
 - `1-EVIDENCE`: A monolithic folder for all ECDO evidence.
 
 Minor folders:
-- `2-LOCATION-ANALYSIS`: Locations specific flood and ECDO analysis.
+- `2-LOCATION-ANALYSIS`: Location-specific flood and ECDO analysis.
 - `3-FORECASTING`: Predicting the timing of the impending ECDO event.
 
 Auxiliary folders:
