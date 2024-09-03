@@ -14,7 +14,7 @@ In terms of a chokepoint right in front of the island, I actually see an underwa
 
 Zooming in further we see there is one bay (left) and a very narrow waterway (right).
 
-![](img/shetland4png "")
+![](img/shetland4.png "")
 
 Looking at the elevation, left bay will almost certainly flood the green plain south of it. On the waterway, there's room for the water to rise while not inundating the island much.
 
