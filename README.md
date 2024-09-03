@@ -108,5 +108,5 @@ Translations can be put in `/translation` folders within the relevant directory.
 
 # Primary Contributors
 
-- Repo owner: [Sovrynn](https://sovrynn.github.io)
+- Repo owner and maintainer: [Sovrynn](https://sovrynn.github.io)
 - Analysis, research, and visualizations: [Craig Stone](https://nobulart.com)
