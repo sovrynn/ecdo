@@ -8,6 +8,8 @@ Beijing rotates to the end of the yellow line during S1 -> S2.
 
 ![china](img/china-elevation-1.png "china elevation")
 
+https://github.com/user-attachments/assets/4757ef9a-c6b8-4a11-be43-70da19bdab3d
+
 Beijing:
 - Coordinates (39.9 N, 116.4 E)
 - Rotating at 1242 km/h during a 6 hour rotation
