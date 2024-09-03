@@ -4,6 +4,8 @@ This repo is intended to be a thoughtbank for brainstorming the [ECDO thesis](ht
 
 https://github.com/user-attachments/assets/60f82304-2d63-4e5e-acf3-570a09e54b4e
 
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization.
+
 Organization of the repo is mainly done through self-explanatory directory/file names. Information is written into Markdown (`.md`) files named `README.md`, and embedded media is placed into `img/` folders at each step of the directory tree.
 
 ## Contents

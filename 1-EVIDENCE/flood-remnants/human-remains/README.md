@@ -23,12 +23,6 @@ Ash-sand-ash-sand... more than once.
 
 Gramalote ECDO context.
 
-## Invasion in Turkey 3700 years ago
-
-"A team of archaeologists has discovered the well-preserved brain and skin remnants of people who lived around 3,700 years ago in Turkey. The remains belong to two Bronze Age individuals who were found at the Tavşanlı Mound (or Tavşanlı Höyük) in Turkey's Kütahya province—located in the west of the Anatolian peninsula. The remnants belong to a young man aged 15-18 at the time of death, and another middle-aged man who was 40-45 years old when he died, the Anadolu Agency (AA) reported. Researchers believe these individuals died when their homes were set on fire and they were unable to flee during an attack around 3,700 years ago. Evidence suggests there was a large-scale attack on the city around 1700 B.C. that resulted in the entire settlement being burned to the ground."
-
-https://www.newsweek.com/archaeologists-discover-brain-remnants-people-lived-3700-years-ago-1825076
-
 ## Asian bodies in the Mediterranean?
 
 "Ancient Plaque Reveals Exotic Diets 3,700 Years Ago 

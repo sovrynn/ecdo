@@ -10,7 +10,7 @@ The location in the red marker will rotate to the other end of the yellow arc du
 
 https://github.com/user-attachments/assets/490f770f-1b53-44cc-95e4-2f1b290e80a0
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for athe full-res visualization.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization.
 
 # Analysis
 
@@ -24,7 +24,7 @@ The Pacific Ocean to the right of Japan is anywhere from 5-6 km deep. In the Phi
 
 As the shallow coastline sea shelves rush into the Pacific, the sea level in East Asia is temporarily going to surge before the water settles down.
 
-Specifically, you can see that there is a huge underwater chokepoint to the right of Japan where the Pacific plate subducts into the Eurasian plate. You can expect that there will be large inflows of water at the two indents of that chokepoint.
+For example, you can see that there is a huge underwater chokepoint to the right of Japan where the Pacific plate subducts into the Eurasian plate. You can expect that there will be large inflows of water at the two indents of that chokepoint.
 
 In terms of coastline chokepoints, you can see Asia has two concave bays - the Yellow Sea, and the east coast of Korea. Additionally, there is a large concave bay northwards in Russia.
 

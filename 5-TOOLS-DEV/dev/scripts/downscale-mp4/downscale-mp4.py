@@ -2,6 +2,7 @@ import os
 import subprocess
 import math
 import re
+import sys
 
 def get_file_size(file_path):
     """Returns the size of the file in bytes."""
@@ -128,9 +129,9 @@ def reduce_resolution_and_bitrate(input_file, output_file, scale_factor, bitrate
     # Execute the FFmpeg command
     subprocess.run(command, check=True)
 
-def process_videos(directory):
+def process_videos(directory, output_directory):
     """Iterates through all .mp4 files in the directory and processes them."""
-    target_size_mb = 9.7  # Updated target size
+    target_size_mb = 9.9  # Updated target size
     limit_size_mb = 10
     for file_name in os.listdir(directory):
         if file_name.endswith('.mp4'):
@@ -150,7 +151,7 @@ def process_videos(directory):
                 
                 # Create output file name with prefix "S_"
                 output_file_name = 'S_' + file_name
-                output_file_path = os.path.join(directory, output_file_name)
+                output_file_path = os.path.join(output_directory, output_file_name)
                 
                 # Reduce resolution and bitrate
                 reduce_resolution_and_bitrate(file_path, output_file_path, scale_factor, int(new_bitrate))
@@ -160,5 +161,15 @@ def process_videos(directory):
 if __name__ == "__main__":
     # Specify the directory containing the .mp4 files
     directory = '.'  # Update this path
+    output_directory = directory
+
+    if len(sys.argv) > 1:
+        # The first argument after the script name
+        directory = sys.argv[1]
+    if len(sys.argv) > 2:
+        output_directory = sys.argv[2]
     
-    process_videos(directory)
+    print(f"Input directory: {directory}")
+    print(f"Output directory: {output_directory}")
+
+    process_videos(directory, output_directory)
