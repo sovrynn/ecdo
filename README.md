@@ -11,15 +11,15 @@ Organization of the repo is mainly done through self-explanatory directory/file 
 ## Contents
 
 Major folders:
-- `0-FOUNDATION-THEORY`: A scientific breakdown and knowledge store for the ECDO thesis.
-- `1-EVIDENCE`: A monolithic folder for all potential evidence of past and future ECDO events.
+- `0-FOUNDATION-THEORY`: Prerequisite knowledge, scientific theories, and in-depth breakdown of the ECDO thesis.
+- `1-EVIDENCE`: A monolithic folder for all ECDO evidence.
 
 Minor folders:
-- `2-LOCATION-ANALYSIS`: Mapping out how different areas of the world will fare during an ECDO event.
+- `2-LOCATION-ANALYSIS`: Locations specific flood and ECDO analysis.
 - `3-FORECASTING`: Predicting the timing of the impending ECDO event.
 
 Auxiliary folders:
-- `4-DANGERS-PREPPING`: All matters ECDO-prepping, except location.
+- `4-DANGERS-PREPPING`: All matters ECDO-prepping.
 - `5-TOOLS-DEV`: Technical resources for ECDO.
 - `6-LITERATURE-MEDIA`: Literature and media related to the ECDO, organized by author. 
 
