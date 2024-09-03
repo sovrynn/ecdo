@@ -13,6 +13,8 @@ https://www.ncei.noaa.gov/maps/historical_declination/
 
 ## North Magnetic Pole and Planetary Harmonics (1600-2024)
 
+https://github.com/user-attachments/assets/9c74c030-b865-4beb-822a-7399062c7fdf
+
 North Magnetic Pole and Planetary Harmonics (1600-2024). Could the planets be influencing Earth's magnetic dipole? Observed NMP path deviations are marked in white. Deviations >270° in pink. Significant velocity changes are in green. I've also marked several key events during the last century on this timeline which may have been catalyzed by observations of the rapidly accelerating magnetic reversal (or excursion). Preparing for pole shifts requires a lot of money. Wars are extremely profitable, both financially and technologically. Having the freedom to print cash out of thin air even more so.
 
 1. https://ngdc.noaa.gov/geomag/data/poles/NP.xy
