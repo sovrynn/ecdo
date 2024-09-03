@@ -44,3 +44,9 @@ Legend:
 ## Starter KML file
 
 `khafre.kml` is a KML file generated from the script, with rotation lines covering pretty much all locations, centered around Khafre, for those who just want a quick way to see rotation lines without running the script.
+
+## Notes
+
+Use geodesic, not great_circle, from geopy.
+
+Automatically centers the view on the point using LookAt KML tag.

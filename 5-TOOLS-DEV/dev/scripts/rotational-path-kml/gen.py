@@ -3,7 +3,6 @@ import numpy as np
 import simplekml
 from geopy.distance import geodesic
 import math
-from geopy.distance import great_circle
 from geopy.point import Point
 from geopy.distance import distance
 
@@ -25,7 +24,7 @@ def rotate_point(lat_a, lon_a, lat_x, lon_x, M, N):
         Rotate point (lat_x, lon_x) around (lat_a, lon_a) by the given angle in degrees.
         """
         # Calculate distance and bearing from A to X
-        initial_distance = great_circle((lat_a, lon_a), (lat_x, lon_x)).km
+        initial_distance = geodesic((lat_a, lon_a), (lat_x, lon_x)).km
         bearing = calculate_bearing(Point(lat_a, lon_a), Point(lat_x, lon_x))
         
         # New bearing
@@ -80,6 +79,23 @@ def add_linestring_to_kml(kml_obj, points, color, thickness):
     # Define style for the LineString
     linestring.style.linestyle.color = color
     linestring.style.linestyle.width = thickness
+
+def add_linestring_kml_lookat(kml, points, color, thickness):
+    rev_points = [reverse(point) for point in points]
+    ls = kml_obj.newlinestring(coords=rev_points)
+    
+    # Define style for the LineString
+    ls.style.linestyle.color = color
+    ls.style.linestyle.width = thickness
+
+    ls.extrude = 1
+    ls.altitudemode = simplekml.AltitudeMode.relativetoground
+    ls.lookat.gxaltitudemode = simplekml.GxAltitudeMode.relativetoseafloor
+    ls.lookat.latitude = points[0][0]
+    ls.lookat.longitude = points[0][1]
+    ls.lookat.range = 3000
+    ls.lookat.heading = 56
+    ls.lookat.tilt = 78
 
 def add_cross_to_kml(kml, point, color, r, thickness):
     point = reverse(point)
@@ -182,7 +198,7 @@ def move_point_closer(lat_x, lon_x, lat_a, lon_a, K):
     bearing = calculate_bearing(point_x, point_a)
     
     # Calculate the initial distance from X to A
-    initial_distance = great_circle(point_x, point_a).km
+    initial_distance = geodesic(point_x, point_a).km
     
     # Calculate the new distance
     new_distance = initial_distance - K
@@ -196,16 +212,6 @@ def move_point_closer(lat_x, lon_x, lat_a, lon_a, K):
     
     return new_point.latitude, new_point.longitude
 
-
-'''
-Input.txt:
-east/west (pivot)
-x (lat)
-y (lon)
-j (number of extra lines on each side of the main line)
-k (distance between lines in km)
-t (thickness of main line, number between 1-20)
-'''
 
 kml = simplekml.Kml()
 OUTPUT = "output.kml"
@@ -231,7 +237,6 @@ LB = "ffffc800"
 DB = "ffff9900"
 
 # default values
-ew = "east"
 x = 30
 y = 31
 j = 1
@@ -239,15 +244,6 @@ k = 500
 t = 3
 use_marker = "y"
 marker_size = 2.4
-
-# with open('input.txt', 'r') as file:
-#     # ew = file.readline().strip()
-#     ew = "east"
-#     x = float(file.readline().strip())
-#     y = float(file.readline().strip())
-#     j = int(file.readline().strip())
-#     k = int(file.readline().strip())
-#     t = float(file.readline().strip())
 
 try:
     with open('input.txt', 'r') as file:
@@ -296,17 +292,7 @@ THIN = 0.4 * t
 WTHICK = 0.8 * t
 WTHIN = 0.4 * t
 
-if ew not in ["east", "west"]:
-  raise ValueError("First line should either be 'east' or 'west' (without quotes)")
-
-dest = "hallo"
-if ew == "east":
-    dest = (rotate_point(a, b, x, y, right, 0))[-1]
-else:
-    a = wlat
-    b = wlon
-    left, right = right, left
-    dest = (rotate_point(a, b, x, y, 0, left))[0]
+dest = (rotate_point(a, b, x, y, right, 0))[-1]
 
 TICK_LS = 150
 TICK_LB = 200
@@ -330,37 +316,38 @@ def add_to_kml(a, b, x, y, m, n, kml, color, thickness):
     #         add_tick(point[0], point[1], TICK_LS, TICK_WS, color)
     return points
 
+def add_to_kml_lookat(a, b, x, y, m, n, kml, color, thickness):
+    points = rotate_point(a, b, x, y, m, n)
+    add_linestring_kml_lookat(kml, points, color, thickness)
+    # quadrants = len(points) / 4
+    # for i in range(1, 4):
+    #     point = points[int(quadrants * i)]
+    #     if i == 2:
+    #         add_tick(point[0], point[1], TICK_LB, TICK_WB, color)
+    #     else:
+    #         add_tick(point[0], point[1], TICK_LS, TICK_WS, color)
+    return points
+
+
 '''
 plotting the big and small lines
 '''
-if ew == "east":
-    # -1 here instead of 0 to add space for the cross
-    points = add_to_kml(a, b, x, y, right, 0, kml, BO, THICK) # main location
-    add_to_kml(a, b, x, y, 0, left, kml, LB, WTHICK) # backwards
-    add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, GREEN, WTHICK)
-    for i in range(1, j + 1):
-        # towards pivot
-        center1 = move_point_closer(a, b, x, y, k * i)
-        points = add_to_kml(a, b, center1[0], center1[1], right, 0, kml, RED, THIN) # forward lines
-        add_to_kml(a, b, center1[0], center1[1], 0, left, kml, DB, WTHIN) #backward
-        add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, MG, WTHIN)
+# -1 here instead of 0 to add space for the cross
+points = add_to_kml(a, b, x, y, right, 0, kml, BO, THICK) # main location
+add_to_kml(a, b, x, y, 0, left, kml, LB, WTHICK) # backwards
+add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, GREEN, WTHICK)
+for i in range(1, j + 1):
+    # towards pivot
+    center1 = move_point_closer(a, b, x, y, k * i)
+    points = add_to_kml(a, b, center1[0], center1[1], right, 0, kml, RED, THIN) # forward lines
+    add_to_kml(a, b, center1[0], center1[1], 0, left, kml, DB, WTHIN) #backward
+    add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, MG, WTHIN)
 
-        # away from pivot
-        center2 = move_point_closer(a, b, x, y, -1 * (k * i))
-        points = add_to_kml(a, b, center2[0], center2[1], right, 0, kml, RED, THIN) #forward
-        add_to_kml(a, b, center2[0], center2[1], 0, left, kml, DB, WTHIN) #backward
-        add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, MG, WTHIN)
-
-else: # not in use anymore this is out of date, all points rotated around east pivot
-    add_to_kml(a, b, x, y, right, 0, kml, LB, WTHICK) 
-    add_to_kml(a, b, x, y, 0, left, kml, BO, THICK) # main location
-    for i in range(1, j + 1):
-        center1 = move_point_closer(a, b, x, y, k * i)
-        add_to_kml(a, b, center1[0], center1[1], right, 0, kml, DB, WTHIN)
-        add_to_kml(a, b, center1[0], center1[1], 0, left, kml, RED, THIN)
-        center2 = move_point_closer(a, b, x, y, -1 * (k * i))
-        add_to_kml(a, b, center2[0], center2[1], right, 0, kml, DB, WTHIN)
-        add_to_kml(a, b, center2[0], center2[1], 0, left, kml, RED, THIN)
+    # away from pivot
+    center2 = move_point_closer(a, b, x, y, -1 * (k * i))
+    points = add_to_kml(a, b, center2[0], center2[1], right, 0, kml, RED, THIN) #forward
+    add_to_kml(a, b, center2[0], center2[1], 0, left, kml, DB, WTHIN) #backward
+    add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, MG, WTHIN)
 
 CROSS_THICK = 5
 
@@ -370,9 +357,47 @@ POINTER_SIZE = 2.4
 if use_marker == "y":
     add_point_kml((x, y), kml, marker_size)
 
-# add_cross_to_kml(kml, (x, y), GREEN, 1, THIN) #location
-# add_diag_cross_to_kml(kml, (x, y), GREEN, 2, THIN) #location
-# add_diag_cross_to_kml(kml, dest, GREEN, 2, CROSS_THICK) #new location
 
 kml.save(OUTPUT)
 print("Successfully wrote output KML file to " + OUTPUT + ".")
+
+
+def insert_lookat_into_kml(kml_filename, lat, lon, altitude=1000, range=5000000):
+    """
+    Inserts a <LookAt> element into a KML file right after the <Document> tag.
+
+    :param kml_filename: Path to the KML file.
+    :param lat: Latitude to center the view on.
+    :param lon: Longitude to center the view on.
+    :param altitude: Altitude above the ground (default is 1000 meters).
+    :param range: Distance from the point to the camera (default is 5000 meters).
+    """
+    # Define the LookAt XML element
+    look_at = f"""
+    <LookAt xmlns="http://www.opengis.net/kml/2.2">
+        <longitude>{lon}</longitude>
+        <latitude>{lat}</latitude>
+        <altitude>{altitude}</altitude>
+        <heading>0</heading>
+        <tilt>30</tilt>
+        <range>{range}</range>
+    </LookAt>
+    """
+    
+    # Read the existing KML file
+    with open(kml_filename, 'r', encoding='utf-8') as file:
+        kml_content = file.read()
+
+    # Find the position to insert the LookAt element
+    insert_pos = kml_content.find('</Document>')
+    if insert_pos == -1:
+        raise ValueError("Cannot find the end of the Document tag in the KML file.")
+    
+    # Insert LookAt element right after the </Document> tag
+    kml_content = kml_content[:insert_pos] + look_at + kml_content[insert_pos:]
+    
+    # Write the modified KML back to the file
+    with open(kml_filename, 'w', encoding='utf-8') as file:
+        file.write(kml_content)
+
+insert_lookat_into_kml(OUTPUT, x, y)
