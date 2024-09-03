@@ -10,8 +10,6 @@ Organization of the repo is mainly done through self-explanatory directory/file 
 
 ## Contents
 
-Following are the main folders of the repo along with their purpose. There is bound to be some overlap but I have made the categories as discrete as possible.
-
 Major folders:
 - `0-FOUNDATION-THEORY`: A scientific breakdown and knowledge store for the ECDO thesis.
 - `1-EVIDENCE`: A monolithic folder for all potential evidence of past and future ECDO events.
@@ -27,13 +25,13 @@ Auxiliary folders:
 
 ## ECDO Newcomer Guide
 
-1. What is the ECDO?
+1. **What is the ECDO?**
 	- Mandatory reading: Ethical Skeptic's original thesis (`LITERATURE-MEDIA/0-ethical-skeptic`)
 	- In-depth ECDO thesis breakdown (WIP): `FULL-THEORY-BREAKDOWN`
-2. What is the evidence for the ECDO?
+2. **What is the evidence for the ECDO?**
 	- All manner of ECDO evidence: `EVIDENCE`
 	- Location-specific evidence: `LOCATION-ANALYSIS`
-3. How do we know it could be happening soon?
+3. **How do we know it could be happening soon?**
 	- Timeframe predictions: `FORECASTING/date-and-triggers`
 
 # Contribution Guide
@@ -64,9 +62,7 @@ Other guidelines:
 
 ## Using git
 
-In order to contribute, you'll need to be able to use git.
-
-The high-level steps are:
+In order to contribute, you'll need to be able to use git:
 - fork the repo
 - make your changes in your fork
 - create a pull request to the original repo
@@ -81,26 +77,20 @@ Two ways:
 2. Use HTML directly if you want to change the size of the image (replace `PATH` and `ALT` with desired values, as well as width):
 	- `<img src="PATH" alt="ALT" style="width:50%;"/>`
 
-There are text editors such as Visual Studio Code that allow you to preview Markdown (render it) to help you check for Markdown errors and style the README.md how you wish locally.
-
 For GIFs:
 - `![alt](PATH)`
 
 ## Repo text search (grep, find)
 
-To search for a word or phrase in the repo, use this command-line command in the top-level `ecdo` folder:
+To search for a word or phrase in the repo, use this command-line command in the top-level `ecdo` folder (Replace `WORD` with the phrase you want to search for:
 - `grep -nr "WORD" --include="*.md" .`
-
-Replace `WORD` with the phrase you want to search for.
 
 To search for a specific filename pattern, use:
 - `find . -name [pattern]`
 
-## Adding TODOs
+## TODO sections
 
-Whenever you add a reference to something you would like to investigate in the future, add a "TODO" (capitalized) somewhere (ex: in the section header).
-
-This will allow you to easily reference a list of potential topics to look into by using `grep` on "TODO".
+Whenever you would like to add a reference to something you would like to investigate in the future, add it in a "TODO" section at the very bottom of the page. This will also allow you to easily reference a list of potential topics to look into by using `grep` on "TODO".
 
 ## Translations
 
