@@ -15,3 +15,7 @@
 ![cataclysm](img/cataclysm1.jpg "cataclysm")
 ![cataclysm](img/cataclysm2.jpg "cataclysm")
 ![cataclysm](img/cataclysm3.jpg "cataclysm")
+
+## Citations
+
+Authors: [aa-hermit](https://github.com/aa-hermit)

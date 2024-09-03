@@ -110,3 +110,4 @@ Translations can be put in `/translation` folders within the relevant directory.
 
 - Repo owner and maintainer: [Sovrynn](https://sovrynn.github.io)
 - Analysis, research, and visualizations: [Craig Stone](https://nobulart.com)
+- Research: [aa-hermit](https://github.com/aa-hermit)
