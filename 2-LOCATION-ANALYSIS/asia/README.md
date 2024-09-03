@@ -33,3 +33,7 @@ In terms of coastline chokepoints, you can see Asia has two concave bays - the Y
 Asia has one of the most fractured tectonic plate regions in the world.
 
 ![plates](img/plates.png "tectonic plate")
+
+## Citations
+
+Visualization: [Nobulart](https://nobulart.com)

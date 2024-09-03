@@ -50,3 +50,5 @@ If I had to find a region to stay in, it would be at one of the highest mountain
 4. https://en.wikipedia.org/wiki/List_of_flood_myths#Japan
 5. https://en.wikipedia.org/wiki/List_of_volcanoes_in_Japan
 6. https://www.legacyias.com/sakurajima-volcano-erupted-on-japan/
+
+Authors: [Sovrynn](https://sovrynn.github.io)

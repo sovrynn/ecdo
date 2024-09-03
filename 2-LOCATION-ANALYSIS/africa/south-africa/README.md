@@ -105,7 +105,13 @@ Makgadikgadi estimated to have last been wet 16ka BP.
 
 "The region occupies less than 0.5% of Africa's land area but supports approximately 20% of its plant life."
 
-## TODO
+## Citations
+
+Visualization: [Nobulart](https://nobulart.com)
+
+Authors: [Nobulart](https://nobulart.com)
+
+# TODO
 
 Southern Africa going to be blasted with hot air from the Sahara at 900+km/h?
 

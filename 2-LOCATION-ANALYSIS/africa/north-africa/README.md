@@ -1,7 +1,5 @@
 # North Africa
 
-## Nobulart analysis
-
 https://github.com/user-attachments/assets/eecae3f0-8dab-41db-868f-7a1819f490a5
 
 See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the high-res visualization.
@@ -32,3 +30,9 @@ If megafloods were all the result of outflows from glacial lakes, then what are 
 Using the GCR chord length [equation](https://pubs.geoscienceworld.org/gsa/books/book/275/chapter-abstract/3795280/Paleohydrology-and-Sedimentology-of-Lake-Missoula) to determine water depth based on ripple size, [I arrive at a water depth of 1,200m](https://chatgpt.com/share/6c38d048-e4fa-4e39-911d-bce8caf0eef4). I used a 10km long sample to determine average slope (0.0018) and chord length (555m).
 
 The Sahara looks like one of the largest megafloodplains on the planet, with obvious flows thousands of kilometers wide running to the south and the west.
+
+## Citations
+
+Visualization: [Nobulart](https://nobulart.com)
+
+Authors: [Nobulart](https://nobulart.com)

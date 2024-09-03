@@ -178,11 +178,9 @@ The points of greatest latitude change are halfway between these boundaries:
 3. Tectonic plate maps: https://earthhow.com/category/geology/plate-tectonics/
 4. https://grace.jpl.nasa.gov/data/get-data/gia-trends/
 
-## Authors
+Authors: [Sovrynn](https://sovrynn.github.io)
 
-1. [Sovrynn](https://sovrynn.github.io)
-
-## TODO things to look into
+# TODO things to look into
 
 This is still an incomplete and simplistic model. Rather than eyeballing it, you could graph the equatorial bulge as a spectrum for each point and then compare areas before/after the rotation together with plate boundaries. This could give you a much better picture of what might happen.
 

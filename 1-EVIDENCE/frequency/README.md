@@ -54,7 +54,11 @@ To see what info is in the repo on notable dates, run a grep search: `grep -nr 3
 
 Sometimes the dates are just slightly off (ex: 3650). You'd have to be more thorough with grep to find those.
 
-## TODO
+## Citations
+
+Authors: [Nobulart](https://nobulart.com)
+
+# TODO
 
 There's some data from Earth core/soil data showing evidence of past geomagnetic excursions. That would be good to investigate and put in here.
 

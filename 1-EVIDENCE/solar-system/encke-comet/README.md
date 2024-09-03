@@ -1,8 +1,4 @@
-# Comet
-
-Analysis related to the Encke comet.
-
-## Nobulart
+# Encke Comet
 
 ![x](img/encke3.jpg "encke")
 
@@ -38,3 +34,7 @@ JPL have 2P/Encke at closest approach to Earth on July 12, 2030.
 ## Tracking previous encounters
 
 We cannot calculate comets back more than a couple of thousand years. Their orbits are too heavily perturbed by the gas giants for reliable long term ephemeris calculations.
+
+## Citations
+
+Authors: [Nobulart](https://nobulart.com)

@@ -88,3 +88,5 @@ See `FOUNDATION-THEORY/equatorial-bulge` or `FOUNDATION-THEORY/s2` for visualiza
 - https://en.wikipedia.org/wiki/Axial_tilt
 - https://en.wikipedia.org/wiki/North_magnetic_pole
 - https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
+
+Authors: [Sovrynn](https://sovrynn.github.io)

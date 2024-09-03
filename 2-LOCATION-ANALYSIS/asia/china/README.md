@@ -69,12 +69,6 @@ Surprisingly, neither of them are at very high elevation:
 - Beijing is from 43.5m at the lowest, to 2303m at the highest (Mount Ling)
 - Luoyang is at 144m
 
-## TODO
-
-Things to look into:
-- historical sites
-- interesting mountain ranges
-
 ## Citations
 
 - https://en.wikipedia.org/wiki/History_of_Beijing
@@ -84,3 +78,11 @@ Zhangjiajie:
 - http://www.chinatoday.com.cn/ctenglish/se/txt/2009-01/21/content_175438.htm
 - https://whhlyt.hunan.gov.cn/whhlyt/english/TourismInRegions/Zhangjiajie/ZhangjiajieAttractions/202211/t20221108_29119497.html
 - https://www.guinnessworldrecords.com/world-records/593531-largest-concentration-of-sandstone-pillars
+
+Authors: [Sovrynn](https://sovrynn.github.io)
+
+# TODO
+
+Things to look into:
+- historical sites
+- interesting mountain ranges

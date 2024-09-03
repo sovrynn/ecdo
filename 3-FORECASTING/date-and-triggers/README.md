@@ -65,11 +65,11 @@ There will be a historically close pass with Encke in June 2030. ±40 million km
 
 ![x](img/2030-triggers.jpg "")
 
-## Authors
+## Citations
 
 1. [Nobulart](https://nobulart.com)
 
-## TODO Possible Triggers
+# TODO Possible Triggers
 
 Look into Ben Davidson
 

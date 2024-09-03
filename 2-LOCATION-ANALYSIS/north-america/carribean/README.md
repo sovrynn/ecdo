@@ -12,3 +12,9 @@ Caribbean & Central America ECDO displacement path visualization.[1] From the Ma
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
 2. https://talkorigins.org/faqs/flood-myths.html#CentralAmerica
+
+## Citations
+
+Visualization: [Nobulart](https://nobulart.com)
+
+Authors: [Nobulart](https://nobulart.com)

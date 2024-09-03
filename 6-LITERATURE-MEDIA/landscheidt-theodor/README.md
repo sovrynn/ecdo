@@ -100,6 +100,6 @@ There is one constant in the diversity of motives and their variation in the mor
 
 The reader should hold in mind that all these fascinating qualities emerge from simple feed-back cycles that can be found, too, in the relative motion of cosmic bodies in the solar system. Beyond the mathematical complexity of the Mandelbrot set its aesthetic appeal should not be forgotten. [86]
 
-## TODO
+# TODO
 
 Scrape these sites for text, pdf, csv, tsv, charts, media, etc. Lots of good data

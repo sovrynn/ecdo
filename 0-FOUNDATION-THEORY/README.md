@@ -22,7 +22,7 @@ A reader should be able to come away from this folder with an understanding of p
 - `s2-to-s1`: S2 -> S1 rotation.
 - `tectonic-plates`: Tectonic plate interactions.
 
-## TODO
+# TODO
 
 Prior knowledge to understand:
 - core-mantle magnetic coupling

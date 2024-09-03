@@ -26,3 +26,7 @@ It could just be as simple as they stop following the sun after some time:
 Once the sun sets in the western sky, those young sunflowers will slowly turn back to east during the night, waiting for the sun to rise once again.
 
 This sun tracking movement is known as heliotropism, and it happens less as sunflowers grow older. Once the sunflower matures, it stops following the sun and just stays facing east."
+
+## Citations
+
+Authors: [Nobulart](https://nobulart.com)

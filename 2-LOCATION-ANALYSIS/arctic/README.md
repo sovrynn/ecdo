@@ -40,3 +40,9 @@ Severny Island. Red lines are the ECDO moment of inertia. Extensive evidence of 
 Svalbard. Bedrock striations are in agreement with the ECDO moment of inertia (red lines).
 
 [1] https://maps.app.goo.gl/mbpafgEQwvPkp5EA6
+
+## Citations
+
+Visualization: [Nobulart](https://nobulart.com)
+
+Authors: [Nobulart](https://nobulart.com)

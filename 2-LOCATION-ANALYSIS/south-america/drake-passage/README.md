@@ -17,4 +17,5 @@ In Chile & Argentina are found Mega Current Ripples (500m period, 10m amplitude)
 
 1. https://www.google.com/maps/@-51.9748086,-70.8967906,11z/data=!3m1!1e3
 2. https://t.me/nobulart/2336
-3. Visualization: https://nobulart.com/
+
+Visualization: https://nobulart.com/

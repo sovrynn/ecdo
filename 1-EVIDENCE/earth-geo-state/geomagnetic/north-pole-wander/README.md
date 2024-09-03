@@ -48,3 +48,7 @@ Last century added on. Scale, path and orientation taken from the map here: http
 ![magnetic polar wander](img/magnetic-polar-wander2.jpg "magnetic polar wander")
 
 [1] Paleomagnetism, McElhinny & McFadden (2000) https://archive.org/details/paleomagnetismco0000mcel
+
+## Citations
+
+Authors: [Nobulart](https://nobulart.com)

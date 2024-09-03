@@ -12,6 +12,12 @@ See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobula
 
 When investigating specific locations, include a map marking the location relative to its surrounding landmass. See Oranjemund (`LOCATION-ANALYSIS/africa/south-africa/oranjemund`) and Svalbard (`LOCATION-ANALYSIS/arctic/svalbard`) as examples.
 
+## Citations
+
+1. Visualization: https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/
+
+# TODO
+
 ## TODO places to map out
 
 North america:

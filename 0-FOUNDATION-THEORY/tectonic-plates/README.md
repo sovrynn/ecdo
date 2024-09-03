@@ -36,7 +36,9 @@ A convergent boundary typically results in subduction or orogeny.
 2. https://en.wikipedia.org/wiki/List_of_tectonic_plate_interactions
 3. https://rwu.pressbooks.pub/webboceanography/chapter/4-5-divergent-plate-boundaries/
 
-## TODO
+Authors: [Sovrynn](https://sovrynn.github.io)
+
+# TODO
 
 Particularly interesting tectonic spot to look at: eastern pivot, Indonesia
 

@@ -89,7 +89,9 @@ https://www.sciencedirect.com/science/article/abs/pii/S1011134418305505
 1. https://en.wikipedia.org/wiki/Solar_cycle#Patterns
 2. https://landscheidt.info/
 
-## TODO
+Authors: [Sovrynn](https://sovrynn.github.io)
+
+# TODO
 
 gravitational null (when the gas giants are in line and their pull on Earth cancels each other out?)
 

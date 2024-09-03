@@ -54,6 +54,8 @@ Content (`README.md`) guidelines:
 - Ideally, these should consist of polished analysis about ONE topic instead of being used as messy notepads. Put unrefined ideas into `"TODO"` sections.
 - No need to fracture these up prematurely. Only when it helps.
 - When possible, add citations, links, backlinks, and hard copies of sources.
+- TODOs always go at the very bottom in their own main section.
+- Citations should go at the bottom right before TODOs.
 
 Other guidelines:
 - Name folders and files properly. Use lowercase dash-separated names instead of camel case.
@@ -103,3 +105,8 @@ This will allow you to easily reference a list of potential topics to look into 
 ## Translations
 
 Translations can be put in `/translation` folders within the relevant directory.
+
+# Primary Contributors
+
+- [Sovrynn](https://sovrynn.github.io)
+- [Nobulart](https://nobulart.com)

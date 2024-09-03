@@ -74,9 +74,8 @@ Published 19 July, 2023. The chart serves as reference to the observation that t
 
 The authors of this paper observed a 3.4% reduction in shear wave velocity relative to the 1981 Preliminary Reference Earth Model (PREM). Whilst they make mention of increased temperatures as playing a possible role, they favour measurement errors, interpretative calibration discrepancies, and previously incorrect assumptions about the composition of the core in prior art in order to reconcile the observed reduction in wave velocity.
 
-[1] https://doi.org/10.1038/s41467-023-40307-9
-
-[2] https://annas-archive.org/md5/17ca9353c3b84e99c28d13c255e1cd4c
+1. https://doi.org/10.1038/s41467-023-40307-9
+2. https://annas-archive.org/md5/17ca9353c3b84e99c28d13c255e1cd4c
 
 ## 2400 BCE Climate anomaly
 
@@ -116,3 +115,7 @@ The piezoelectric effect is a source of significant electric current generation 
 
 1. https://nhess.copernicus.org/articles/7/535/2007/nhess-7-535-2007.pdf
 2. https://en.wikipedia.org/wiki/Richat_Structure
+
+## Citations
+
+Authors: [Nobulart](https://nobulart.com)

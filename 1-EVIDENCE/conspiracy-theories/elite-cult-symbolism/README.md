@@ -14,3 +14,7 @@ The book in question is Sitchen's The 12th Planet (Cue groans). I am a aware tha
 ![marduk](img/marduk2.jpg "marduk")
 ![marduk](img/marduk3.jpg "marduk")
 ![marduk](img/marduk4.jpg "marduk")
+
+## Citations
+
+Authors: [Nobulart](https://nobulart.com)

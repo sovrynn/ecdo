@@ -44,3 +44,7 @@ https://www.opalsdownunder.com.au/learn/australian-opal-mining-fields/
 Potential explanation for the Scablands flood deposits based on the ECDO. The "Set S" tephta is an ash layer from Mt. Saint Helens and is a temporal marker for the termination of the Younger Dryas.
 
 https://www.geo.umass.edu/climate/papers2/Baker_retrospective_2009.pdf
+
+## Citations
+
+Authors: [Nobulart](https://nobulart.com)

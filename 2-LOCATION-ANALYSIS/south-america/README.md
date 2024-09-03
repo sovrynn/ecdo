@@ -14,3 +14,7 @@ South America. The western ECDO pivot [1] is located near Mount Roraima.[2] Mega
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
 2. https://x.com/nobulart/status/1809938647262585184
 3. https://x.com/nobulart/status/1811105831573745686
+
+## Citations
+
+Visualization: [Nobulart](https://nobulart.com)

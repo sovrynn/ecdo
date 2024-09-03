@@ -58,3 +58,7 @@ https://www.researchgate.net/publication/225517767_Evidence_for_marine_transgres
 The Noahic Deluge was ±7400BP, two 3,700 year cycles before present. This lake filled with saltwater around that time. See `LOCATION-ANALYSIS/north-america/mexico` and `LOCATION-ANALYSIS/carribean` for more analysis.
 1. https://www1.ncdc.noaa.gov/pub/data/paleo/slidesets/maya/
 2. https://en.wikipedia.org/wiki/Lake_Chichancanab
+
+## Citations
+
+Authors: [Nobulart](https://nobulart.com)

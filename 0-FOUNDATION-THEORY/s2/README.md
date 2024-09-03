@@ -34,7 +34,7 @@ New south pole:
 - Lat/long: (14, -149)
 - Above the equator
 
-## TODO
+# TODO
 
 Investigate potential "nuclear winter" during S2, caused by changes in the core-mantle and dust from volcanoes.
 

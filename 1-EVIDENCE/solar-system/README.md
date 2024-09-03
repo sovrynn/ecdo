@@ -85,3 +85,7 @@ Linked to the Great Year.
 If you divide 18,508 by 24,998, you get 9254/12499 (simplified). 24,998 is a special number for Pluto:
 
 ![nineveh](img/nineveh4.jpg "nineveh")
+
+## Citations
+
+Authors: [Nobulart](https://nobulart.com)

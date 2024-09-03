@@ -62,3 +62,7 @@ This is the simplest part; the speed of water surge will be directly proportiona
 ## Factors that are difficult to predict
 
 The exact amount of time it takes for the S1 -> S2 rotation will affect the speed and result of oceanic displacement.
+
+## Citations
+
+Authors: [Sovrynn](https://sovrynn.github.io)

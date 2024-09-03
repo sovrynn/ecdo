@@ -22,3 +22,7 @@ DEPOP 101: Safely [sic] & Effectively Sterilizing Humanity Since the 1970's
 2. HCG Found in WHO Tetanus Vaccine in Kenya Raises Concern in the Developing World (https://www.scirp.org/journal/paperinformation.aspx?paperid=81838)
 3. Addendum to “HCG Found in Tetanus Vaccine” (https://www.ijvtpr.com/index.php/IJVTPR/article/view/3)
 4. Baby-Killing Vaccine: Is It Being Stealth Tested? (https://www.ewtn.com/catholicism/library/babykilling-vaccine-is-it-being-stealth-tested-11055)
+
+## Citations
+
+Authors: [Nobulart](https://nobulart.com)

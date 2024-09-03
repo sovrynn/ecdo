@@ -14,7 +14,7 @@ If you rotate this pyramid in any direction other than the one Ethical Skeptic h
 
 ![khafre shaft diagram](img/khafre-shafts.jpg "khafre shaft diagram")
 
-## TODO
+# TODO
 
 Ethical Skeptic's third thesis has a very in-depth explanation on why the design of the Khafre pyramid would support the exact rotation amount and orientation he describes.
 

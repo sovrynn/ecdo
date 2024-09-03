@@ -11,3 +11,7 @@ See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobula
 ![x](img/med-bathymetry.jpg "med")
 
 Mediterranean Bathymetry. Looks almost as though the entire thing emptied to the South and was refilled from the North.  In one movement probably.
+
+## Citations
+
+Visualization: [Nobulart](https://nobulart.com)

@@ -19,7 +19,11 @@ Māori deluge mythology [3]:
 2. https://www.nzherald.co.nz/nz/steve-braunias-spending-doomsday-with-kim-dotcom/CNLGZOLRIZKRFWKH2WAWOY7PU4/
 3. https://talkorigins.org/faqs/flood-myths.html#Maori
 
-## TODO Potential Leads
+## Citations
+
+Visualization: [Nobulart](https://nobulart.com)
+
+# TODO Potential Leads
 
 Peter Thiel's trying to put his doomsday bunker in Queenstown-Lakes district, New Zealand. Sensible location for ECDO?
 - https://www.theguardian.com/technology/2022/aug/18/peter-thiel-refused-consent-for-sprawling-lodge-in-new-zealand-local-council

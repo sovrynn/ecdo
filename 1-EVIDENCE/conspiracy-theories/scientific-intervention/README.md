@@ -45,6 +45,10 @@ https://x.com/RealDutchsinse/status/1818805390974263741
 
 Check `img/`.
 
-## TODO
+## Citations
+
+Authors: [Nobulart](https://nobulart.com)
+
+# TODO
 
 Project Nanook

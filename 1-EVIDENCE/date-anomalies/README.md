@@ -22,7 +22,7 @@ https://nobulart.com/360-days
 
 Research paper `GreatYear.pdf` about it in `hard-copies/`.
 
-## TODO
+# TODO
 
 Anatoly Fomenko timeline
 - https://andreumarfull.com/nc-english/

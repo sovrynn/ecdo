@@ -4,10 +4,10 @@
 ![sa](img/garden-of-eden2.jpg "sa")
 ![sa](img/garden-of-eden3.jpg "sa")
 
-South America's Garden of Eden. It's within the arc described by TES[0] that we see the greatest biodiversity in South America. The first image is freshwater fish species density.[1] Second image is endemic species density of birds (left), mammals (middle), and amphibians (right).[2]
-- [0] https://x.com/EthicalSkeptic/status/1805023386495508796
-- [1] https://www.researchgate.net/publication/366847384_Landscape_dynamics_and_diversification_of_the_megadiverse_South_American_freshwater_fish_fauna
-- [2] https://www.ecoclimax.com/2016/06/south-america-showing-color-coded.html
+South America's Garden of Eden. It's within the arc described by TES[3] that we see the greatest biodiversity in South America. The first image is freshwater fish species density.[1] Second image is endemic species density of birds (left), mammals (middle), and amphibians (right).[2]
+1. https://www.researchgate.net/publication/366847384_Landscape_dynamics_and_diversification_of_the_megadiverse_South_American_freshwater_fish_fauna
+2. https://www.ecoclimax.com/2016/06/south-america-showing-color-coded.html
+3. https://x.com/EthicalSkeptic/status/1805023386495508796
 
 ## Nobulart
 
@@ -42,3 +42,7 @@ This mesa is just over 300km from Roraima. Red curve is the ECDO path. The struc
 
 380km from Roraima. Remarkable path congruence at an onboarding point for the water during S1>S2.
 - https://maps.app.goo.gl/7G3UwhRJjzXtnpTN8
+
+## Authors
+
+Authors: [Nobulart](https://nobulart.com)

@@ -61,3 +61,9 @@ May be spared the worst of it by the Himalayas, going from S1 to S2.
 Many ancient and massive pyramid like structures to be found across India, such as the Chola temples.
 
 However, real trial may be the return (S2 -> S1).
+
+## Citations
+
+Visualization: [Nobulart](https://nobulart.com)
+
+Authors: [Nobulart](https://nobulart.com)
