@@ -2,7 +2,7 @@
 
 This repo is intended to be a thoughtbank for brainstorming the [ECDO thesis](https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/), created by the [Ethical Skeptic](https://theethicalskeptic.com/), and all things related to it.
 
-https://github.com/user-attachments/assets/60f82304-2d63-4e5e-acf3-570a09e54b4e
+https://github.com/user-attachments/assets/03e31c9e-7d54-4c65-996a-0a635caf3394
 
 See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization.
 
