@@ -7,7 +7,7 @@
 ## Globe mapping libraries
 
 - Matplotlib:
-	- basemap (used in `rotational-path-2D`)
+	- basemap (used in `scripts/rotational-path-2D`)
 	- Contour
 - geopandas
 - https://github.com/openglobus/openglobus
