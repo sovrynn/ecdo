@@ -80,23 +80,6 @@ def add_linestring_to_kml(kml_obj, points, color, thickness):
     linestring.style.linestyle.color = color
     linestring.style.linestyle.width = thickness
 
-def add_linestring_kml_lookat(kml, points, color, thickness):
-    rev_points = [reverse(point) for point in points]
-    ls = kml_obj.newlinestring(coords=rev_points)
-    
-    # Define style for the LineString
-    ls.style.linestyle.color = color
-    ls.style.linestyle.width = thickness
-
-    ls.extrude = 1
-    ls.altitudemode = simplekml.AltitudeMode.relativetoground
-    ls.lookat.gxaltitudemode = simplekml.GxAltitudeMode.relativetoseafloor
-    ls.lookat.latitude = points[0][0]
-    ls.lookat.longitude = points[0][1]
-    ls.lookat.range = 3000
-    ls.lookat.heading = 56
-    ls.lookat.tilt = 78
-
 def add_cross_to_kml(kml, point, color, r, thickness):
     point = reverse(point)
     line1 = [(point[0] + r, point[1]), (point[0] - r, point[1])]
@@ -212,6 +195,43 @@ def move_point_closer(lat_x, lon_x, lat_a, lon_a, K):
     
     return new_point.latitude, new_point.longitude
 
+def insert_lookat_into_kml(kml_filename, lat, lon, altitude=1000, range=5000000):
+    """
+    Inserts a <LookAt> element into a KML file right after the <Document> tag.
+
+    :param kml_filename: Path to the KML file.
+    :param lat: Latitude to center the view on.
+    :param lon: Longitude to center the view on.
+    :param altitude: Altitude above the ground (default is 1000 meters).
+    :param range: Distance from the point to the camera (default is 5000 meters).
+    """
+    # Define the LookAt XML element
+    look_at = f"""
+    <LookAt xmlns="http://www.opengis.net/kml/2.2">
+        <longitude>{lon}</longitude>
+        <latitude>{lat}</latitude>
+        <altitude>{altitude}</altitude>
+        <heading>0</heading>
+        <tilt>30</tilt>
+        <range>{range}</range>
+    </LookAt>
+    """
+    
+    # Read the existing KML file
+    with open(kml_filename, 'r', encoding='utf-8') as file:
+        kml_content = file.read()
+
+    # Find the position to insert the LookAt element
+    insert_pos = kml_content.find('</Document>')
+    if insert_pos == -1:
+        raise ValueError("Cannot find the end of the Document tag in the KML file.")
+    
+    # Insert LookAt element right after the </Document> tag
+    kml_content = kml_content[:insert_pos] + look_at + kml_content[insert_pos:]
+    
+    # Write the modified KML back to the file
+    with open(kml_filename, 'w', encoding='utf-8') as file:
+        file.write(kml_content)
 
 kml = simplekml.Kml()
 OUTPUT = "output.kml"
@@ -316,18 +336,6 @@ def add_to_kml(a, b, x, y, m, n, kml, color, thickness):
     #         add_tick(point[0], point[1], TICK_LS, TICK_WS, color)
     return points
 
-def add_to_kml_lookat(a, b, x, y, m, n, kml, color, thickness):
-    points = rotate_point(a, b, x, y, m, n)
-    add_linestring_kml_lookat(kml, points, color, thickness)
-    # quadrants = len(points) / 4
-    # for i in range(1, 4):
-    #     point = points[int(quadrants * i)]
-    #     if i == 2:
-    #         add_tick(point[0], point[1], TICK_LB, TICK_WB, color)
-    #     else:
-    #         add_tick(point[0], point[1], TICK_LS, TICK_WS, color)
-    return points
-
 
 '''
 plotting the big and small lines
@@ -360,44 +368,5 @@ if use_marker == "y":
 
 kml.save(OUTPUT)
 print("Successfully wrote output KML file to " + OUTPUT + ".")
-
-
-def insert_lookat_into_kml(kml_filename, lat, lon, altitude=1000, range=5000000):
-    """
-    Inserts a <LookAt> element into a KML file right after the <Document> tag.
-
-    :param kml_filename: Path to the KML file.
-    :param lat: Latitude to center the view on.
-    :param lon: Longitude to center the view on.
-    :param altitude: Altitude above the ground (default is 1000 meters).
-    :param range: Distance from the point to the camera (default is 5000 meters).
-    """
-    # Define the LookAt XML element
-    look_at = f"""
-    <LookAt xmlns="http://www.opengis.net/kml/2.2">
-        <longitude>{lon}</longitude>
-        <latitude>{lat}</latitude>
-        <altitude>{altitude}</altitude>
-        <heading>0</heading>
-        <tilt>30</tilt>
-        <range>{range}</range>
-    </LookAt>
-    """
-    
-    # Read the existing KML file
-    with open(kml_filename, 'r', encoding='utf-8') as file:
-        kml_content = file.read()
-
-    # Find the position to insert the LookAt element
-    insert_pos = kml_content.find('</Document>')
-    if insert_pos == -1:
-        raise ValueError("Cannot find the end of the Document tag in the KML file.")
-    
-    # Insert LookAt element right after the </Document> tag
-    kml_content = kml_content[:insert_pos] + look_at + kml_content[insert_pos:]
-    
-    # Write the modified KML back to the file
-    with open(kml_filename, 'w', encoding='utf-8') as file:
-        file.write(kml_content)
 
 insert_lookat_into_kml(OUTPUT, x, y)
