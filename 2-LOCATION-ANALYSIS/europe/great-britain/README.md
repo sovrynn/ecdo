@@ -1,5 +1,29 @@
 # Great Britain
 
+## Shetland
+
+![](img/shetland1.png "")
+
+Cursory look at Shetland. You can see there are underwater chokepoints leading to a water surge based on speed of rotation and shape of chokepoints.
+
+![](img/shetland2.png "")
+
+In terms of a chokepoint right in front of the island, I actually see an underwater structure that will push some of the deepest water away from Shetland (higher of the two chokepoints).
+
+![](img/shetland3.png "")
+
+Zooming in further we see there is one bay (left) and a very narrow waterway (right).
+
+![](img/shetland4png "")
+
+Looking at the elevation, left bay will almost certainly flood the green plain south of it. On the waterway, there's room for the water to rise while not inundating the island much.
+
+![](img/shetland5.png "")
+
+I drew a (very) lenient depth of water displacement (deepest oceans might get pushed away by first underwater "obstacle". It's over 700m deep on average. The water surrounding the island is 140m deep. The water surge will be 560m. An island with a highest peak of 450m is not going to streamline a water surge of 560m (on the conservative side) regardless of speed.
+
+Verdict: Shetland will be completely submerged by the water surge.
+
 ## Great Britain Coast
 
 ![gbcoast](img/great-britain-coast.jpg "gbcoast")
