@@ -65,9 +65,3 @@ https://en.wikipedia.org/wiki/Five_thousand_years_of_Chinese_civilization
 
 Spread of the Polynesian seafaring nations. Note how tightly confined they were to the area around Taiwan until sometime between 4,000BC and 3,000BC. Almost as though a few survivors of the Noahic deluge sprang forth from there.
 - [1] The enigmas of Easter Island, Flenley and Bahn (2003) https://archive.org/details/enigmasofeasteri0000flen
-
-## Invasion in Turkey 3700 years ago
-
-"A team of archaeologists has discovered the well-preserved brain and skin remnants of people who lived around 3,700 years ago in Turkey. The remains belong to two Bronze Age individuals who were found at the Tavşanlı Mound (or Tavşanlı Höyük) in Turkey's Kütahya province—located in the west of the Anatolian peninsula. The remnants belong to a young man aged 15-18 at the time of death, and another middle-aged man who was 40-45 years old when he died, the Anadolu Agency (AA) reported. Researchers believe these individuals died when their homes were set on fire and they were unable to flee during an attack around 3,700 years ago. Evidence suggests there was a large-scale attack on the city around 1700 B.C. that resulted in the entire settlement being burned to the ground."
-
-https://www.newsweek.com/archaeologists-discover-brain-remnants-people-lived-3700-years-ago-1825076
