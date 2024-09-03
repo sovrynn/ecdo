@@ -319,22 +319,27 @@ TICK_LB = 200
 TICK_WS = 2
 TICK_WB = 2.5
 
-def add_tick(lat, lon, len, thick, color):
+def add_tick(kml, lat, lon, len, thick, color):
     e1 = move_point_closer(a, b, lat, lon, len / 2)
     e2 = move_point_closer(a, b, lat, lon, -1 * len / 2)
     add_linestring_to_kml(kml, [e1, e2], color, thick)
 
+def add_ticks(kml, points, color):
+    quadrants = len(points) / 10
+    for i in range(1, 10):
+        point = points[int(quadrants * i)]
+        if i == 2:
+            add_tick(kml, point[0], point[1], TICK_LB, TICK_WB, color)
+        else:
+            add_tick(kml, point[0], point[1], TICK_LS, TICK_WS, color)
+
 def add_to_kml(a, b, x, y, m, n, kml, color, thickness):
     points = rotate_point(a, b, x, y, m, n)
     add_linestring_to_kml(kml, points, color, thickness)
-    # quadrants = len(points) / 4
-    # for i in range(1, 4):
-    #     point = points[int(quadrants * i)]
-    #     if i == 2:
-    #         add_tick(point[0], point[1], TICK_LB, TICK_WB, color)
-    #     else:
-    #         add_tick(point[0], point[1], TICK_LS, TICK_WS, color)
+
+    # add_ticks(kml, points, color)
     return points
+
 
 
 '''
