@@ -2,6 +2,8 @@
 
 This repo is intended to be a thoughtbank for brainstorming the [ECDO thesis](https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/), created by the [Ethical Skeptic](https://theethicalskeptic.com/), and all things related to it.
 
+https://github.com/user-attachments/assets/60f82304-2d63-4e5e-acf3-570a09e54b4e
+
 Organization of the repo is mainly done through self-explanatory directory/file names. Information is written into Markdown (`.md`) files named `README.md`, and embedded media is placed into `img/` folders at each step of the directory tree.
 
 ## Contents
