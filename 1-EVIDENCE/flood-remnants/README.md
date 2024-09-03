@@ -3,7 +3,7 @@
 ## Contents
 
 - `animal-remains`: Animal remains from previous ECDO events.
-- `human-remains`: Human remains that may be... interesting.
+- `human-remains`: Human remains.
 
 ## TODO
 

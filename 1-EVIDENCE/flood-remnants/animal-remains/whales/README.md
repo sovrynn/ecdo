@@ -7,9 +7,9 @@
 ![michigan whales](img/michigan-whales3.jpg "michigan whales")
 
 Mountain Whales (aka "erratic whales").
-- [1] Earth in Upheaval, Velikovsky (1977)
-- [2] https:// (https://t.co/siKpmHPJlG)creationconcept.info/michwls.html (https://t.co/siKpmHPJlG)
-- [3] Elevation profile: Hudson Bay > Michigan Whales
+1. Earth in Upheaval, Velikovsky (1977)
+2. https:// (https://t.co/siKpmHPJlG)creationconcept.info/michwls.html (https://t.co/siKpmHPJlG)
+3. Elevation profile: Hudson Bay > Michigan Whales
 
 ## Whales
 
