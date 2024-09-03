@@ -4,7 +4,7 @@ A close follower of the ECDO theory with a lot of relevant material on his [webs
 
 ## Contents
 
--`ecdo-visualizations`: Full-resolution versions of ECDO rotation visualizations made by Nobulart.
+-`ecdo-visualizations`: ECDO rotation visualization videos made by Nobulart.
 
 ## Good Articles
 
