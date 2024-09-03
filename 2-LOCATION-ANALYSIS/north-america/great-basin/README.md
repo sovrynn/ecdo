@@ -5,21 +5,28 @@
 How does this clear chokepoint on the west coast of Mexico resolve?
 
 ![](img/wc1.png "")
+
+You can see it has to displace a lot of Pacific Ocean. It's about 3.8 km deep in that stretch, and 3 km deep in the entrance to the Gulf of California.
+
 ![](img/wc2.png "")
 
-You can see it has to displace a lot of Pacific Ocean. It's about 3.8 km deep in that region.
+This is really straightforward. The underwater chokepoint is inside the bay, so the water is going to flood in, and the water level will rise, until the water has someplace to escape to!
+
+Here's a 1000m flood map. I don't see any escape routes for the water yet!:
 
 ![](img/wc3.png "")
 
-1000m flood map. Still remains a chokepoint. Pacific Ocean has more than enough depth to fill that choke point up.
+This is a 1500m flood map, the bare minimum level at which I see adequate output channels for the water to start draining out.
 
 ![](img/wc4.png "")
 
-2000m flood map. Finally enough output channels for the water to start flowing over to the East and North. But the Pacific Ocean is much deeper than 1800m... the ~1000 km/h flow will leave a lot of water flowing through these escape channels at 2000m.
+However, you could easily see a surge higher than this. You have a 3000m deep channel across the entrance to the bay. But when the surge rises, you're going to see more of that 3000-4000m deep Pacific Ocean flow into the general chokepoint area. I wouldn't be surprised at all to see something like this happen temporarily, where water escapes not only into the east but splashes into the north/northeast:
+
+![](img/wc5.png "")
 
 ## The Great Basin
 
-Understanding the topography of the Gulf of California helps us understand the Great Basin more.
+Understanding the ECDO flood topography of the Gulf of California helps us understand the Great Basin a lot better.
 
 ![sa](img/great-basin.gif)
 ![](img/great-basin.png "")
@@ -32,7 +39,7 @@ Now we can explain the salt deposits in Death Valley and the Great Salt Lake in 
 
 ![x](img/salt-lake.png "")
 
-## Sedona, Arizona red rocks
+## Sedona (Arizona) red rocks
 
 Sedona is home to some lovely sandstone structures.
 
