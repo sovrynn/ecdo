@@ -42,9 +42,12 @@ The rotation during S1 -> S2 can be thought of as occuring independently of this
 
 ![ecdo](img/ecdo-rotation.webp "ecdo")
 
-The exact dimensions are a 104 degree rotation north along the 31 E meridian. The point that is brought to the geographic north pole would be (-14, 31), which is 14 degrees below the equator. The new south pole would be (14, -149), 14 degrees above the equator.
+The exact dimensions are a 104 degree rotation north along the 31 E meridian. The point that is brought to the geographic north pole would be (-14, 31), which is 14 degrees below the equator.
 
 ![north pole](img/north-pole.png "north pole")
+
+The new south pole would be (14, -149), 14 degrees above the equator.
+
 ![south pole](img/south-pole.png "south pole")
 ![31 meridian](img/31-meridian.webp "31 meridian")
 

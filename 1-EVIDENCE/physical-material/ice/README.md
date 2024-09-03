@@ -37,8 +37,8 @@ The complete 800ky record set fairly obliterates the "unprecedented warming" nar
 
 ## Carbon in Antarctica Lakes
 
-![x](carbon-ice.jpg "carbon ice")
-![x](carbon-ice2.jpg "carbon ice")
+![x](img/carbon-ice.jpg "carbon ice")
+![x](img/carbon-ice2.jpg "carbon ice")
 
-- [1] https://annas-archive.org/scidb/10.1002/2016GL068609
-- [2] https://www.nsf.gov/news/news_summ.jsp?cntn_id=138871
+1. https://annas-archive.org/scidb/10.1002/2016GL068609
+2. https://www.nsf.gov/news/news_summ.jsp?cntn_id=138871

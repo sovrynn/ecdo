@@ -165,6 +165,20 @@ Dates to around 150 AD.
 1. https://www.sciencedirect.com/science/article/abs/pii/S2352409X19304080
 2. https://en.wikipedia.org/wiki/Vitrified_fort
 
+## Great Circle Artifacts
+
+![great circle artifacts](img/great-circle-artifacts.jpg "great circle artifacts")
+
+Angkor Wat and Nazca lie on the great circle centred at Stonehenge (red trace). Another great circle connects Easter Island, Machu Picchu, Giza and Mohenjo-daro (blue trace). Intersections at Peru and Cambodia may account for the high density of megaliths, geoglyphs and curious artefacts found there. The planes defined by these great circles intersect along an axis approximately connecting Angkor Wat to Nazca/Paracas, inclined to one another at sin −1 (0.9) the gradian/degree ratio being 9/10.
+
+https://www.youtube.com/watch?v=PiQL5yVpWig
+
+## Invasion in Turkey 3700 years ago
+
+"A team of archaeologists has discovered the well-preserved brain and skin remnants of people who lived around 3,700 years ago in Turkey. The remains belong to two Bronze Age individuals who were found at the Tavşanlı Mound (or Tavşanlı Höyük) in Turkey's Kütahya province—located in the west of the Anatolian peninsula. The remnants belong to a young man aged 15-18 at the time of death, and another middle-aged man who was 40-45 years old when he died, the Anadolu Agency (AA) reported. Researchers believe these individuals died when their homes were set on fire and they were unable to flee during an attack around 3,700 years ago. Evidence suggests there was a large-scale attack on the city around 1700 B.C. that resulted in the entire settlement being burned to the ground."
+
+https://www.newsweek.com/archaeologists-discover-brain-remnants-people-lived-3700-years-ago-1825076
+
 ## TODO Potential Leads
 
 Curious on the difference between 1700 BC and 1300-1200 BC dating for some of these events.
