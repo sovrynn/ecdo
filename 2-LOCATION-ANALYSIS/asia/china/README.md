@@ -3,6 +3,9 @@
 China, while having a very large stretch of very high elevation land, still has to deal with quite a bit of water during S1 -> S2, and not only along the lines you see here - it potentially has to deal with ocean spilling over from Russia.
 
 ![china](img/beijing.png "china rotation path")
+
+Beijing rotates to the end of the yellow line during S1 -> S2.
+
 ![china](img/china-elevation-1.png "china elevation")
 
 Beijing:
