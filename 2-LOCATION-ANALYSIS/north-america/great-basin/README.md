@@ -20,7 +20,7 @@ This is a 1500m flood map, the bare minimum level at which I see adequate output
 
 ![](img/wc4.png "")
 
-However, you could easily see a surge higher than this. You have a 3000m deep channel across the entrance to the bay. But when the surge rises, you're going to see more of that 3000-4000m deep Pacific Ocean flow into the area not just through the bay but also by going over what used to be dry land. I wouldn't be surprised at all to see something like this happen temporarily, where water escapes not only into the east but splashes into the north/northeast:
+However, you could easily see a surge higher than this. You have a 3000m deep channel across the entrance to the bay. But when the surge rises, you're going to see more of that 3000-4000m deep Pacific Ocean flow into the area not just through the bay but also by going over what used to be dry land. I wouldn't be surprised at all to see something like this happen temporarily, where water escapes not only into the east but splashes into the north/northeast (1900m floodmap):
 
 ![](img/wc5.png "")
 
