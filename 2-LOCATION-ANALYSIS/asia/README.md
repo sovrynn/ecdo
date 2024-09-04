@@ -4,7 +4,7 @@ A massive continent that is home to the east ECDO pivot at Sulawesi, Indonesia. 
 
 ![profile](img/profile.png "asia profile")
 
-The location in the red marker will rotate to the other end of the yellow arc during S1 -> S2.
+Asia will rotate clockwise, following the length of the red and yellow lines.
 
 https://github.com/user-attachments/assets/490f770f-1b53-44cc-95e4-2f1b290e80a0
 
