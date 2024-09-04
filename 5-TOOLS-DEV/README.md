@@ -22,9 +22,8 @@ Google's mapping tools are excellent:
 
 3D globe, temperature data: https://earth.nullschool.net
 
-## Ocean floor mapping
-
 Ocean mapping:
+- Google Earth Pro
 - [NOAA Ocean Exploration Data Atlas](https://ncei.noaa.gov/maps/ocean-exploration-data-atlas)
 
 ## Lat/long tools
@@ -34,6 +33,14 @@ Here is a [lat/long distance calculator](https://latlongdata.com/distance-calcul
 Here is a [lat/long elevation webapp](https://latlongdata.com/elevation).
 
 Lat/long follows a Cartesian coordinate system. East is right on the x-axis, North is up on the y-axis.
+
+## Fluid dynamics simulation
+
+- [OpenFOAM](https://www.openfoam.com/), open source
+- Gerris, open source
+- Lattice Boltzmann Method implementations such as Palabos
+- SimScale: cloud based, free and paid versions
+- Blender
 
 ## Solar system
 

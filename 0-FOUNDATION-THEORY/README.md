@@ -40,3 +40,8 @@ ECDO phenomena to flesh out:
 
 - Global maps showing:
     - the circular paths of oceanic displacement around the two pivots
+
+- Fluid dynamics simulations
+	- calculate the function of dzhanibekov rotation speed
+	- 2d sim: take the elevation path and apply the same land acceleration speed derived from dzhanibekov rotation
+	- 3d sim: use topography maps and ocean volume to determine the water surge at specific coastal areas

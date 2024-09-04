@@ -3,6 +3,7 @@
 A massive continent that is home to the east ECDO pivot at Sulawesi, Indonesia. It also has one of the largest areas of highest elevation, in west China north of India. Rushing into the Pacific in S1 -> S2. it will undoubtedly experience a massive water surge.
 
 ![profile](img/profile.png "asia profile")
+![](img/asia-elevation.png "")
 
 Asia will rotate clockwise, following the length of the red and yellow lines.
 
