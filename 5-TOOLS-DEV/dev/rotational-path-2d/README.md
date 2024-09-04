@@ -40,3 +40,5 @@ Output image will be written to `output.png`.
 ## Other comments
 
 Legend spacing is annoying. Have fun reading my code if you want to edit it. The way I've set it up now, there will almost always be an awkward margin between the chart and the legend, but the chart will never get drawn on top of the legend. If you find a better way please make a pull request!
+
+Don't use great_circle, use geodesic!

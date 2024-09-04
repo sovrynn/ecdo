@@ -3,7 +3,6 @@ import numpy as np
 import simplekml
 from geopy.distance import geodesic
 import math
-from geopy.distance import great_circle
 from geopy.point import Point
 from geopy.distance import distance
 import matplotlib.pyplot as plt
@@ -32,7 +31,7 @@ def rotate_point(lat_a, lon_a, lat_x, lon_x, M, N):
         Rotate point (lat_x, lon_x) around (lat_a, lon_a) by the given angle in degrees.
         """
         # Calculate distance and bearing from A to X
-        initial_distance = great_circle((lat_a, lon_a), (lat_x, lon_x)).km
+        initial_distance = geodesic((lat_a, lon_a), (lat_x, lon_x)).km
         bearing = calculate_bearing(Point(lat_a, lon_a), Point(lat_x, lon_x))
         
         # New bearing
@@ -186,7 +185,7 @@ def move_point_closer(lat_x, lon_x, lat_a, lon_a, K):
     bearing = calculate_bearing(point_x, point_a)
     
     # Calculate the initial distance from X to A
-    initial_distance = great_circle(point_x, point_a).km
+    initial_distance = geodesic(point_x, point_a).km
     
     # Calculate the new distance
     new_distance = initial_distance - K
@@ -299,13 +298,14 @@ try:
         print(f"Adding {j} pairs of extra lines.")
         k = int(file.readline().strip())
         print(f"Spacing the lines at {k} km.")
-        t = float(file.readline().strip())
-        print(f"Using a line thickness of {t}.")
 
         fullrot = int(file.readline().strip())
         if fullrot not in [104, 360]:
             fullrot = 104
             raise ValueError()
+
+        t = float(file.readline().strip())
+        print(f"Using a line thickness of {t}.")
 
         use_marker = file.readline().strip()
         if use_marker == "n":

@@ -4,7 +4,7 @@
 20     # lon radius of the visualized region
 3      # number of pairs of extra lines
 200    # km between each line
-360    # Show a 360 visualization instead of triple 104
 1      # thickness of the lines
+360    # Show a 360 visualization instead of triple 104
 y      # 'y' to place a marker at the location, 'n' to not
 10     # size of the marker
