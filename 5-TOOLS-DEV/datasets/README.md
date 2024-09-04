@@ -38,6 +38,12 @@ There is an index of SRTM elevation data [here](https://srtm.kurviger.de) at srt
 
 Google Earth Engine, integrated with Google Cloud, has the data AFAIK.
 
+## DEM
+
+- USGS Earth explorer: https://earthexplorer.usgs.gov/
+- Open Topography: https://portal.opentopography.org/raster?opentopoID=OTSRTM.082015.4326.1
+- Google earth engine: https://earthengine.google.com/platform
+
 # TODO
 
 Lidar DEM data, very detailed

@@ -5,7 +5,7 @@ This folder is for tools, data, and development resources that help investigate 
 ## Contents
 
 - `dev`: Scripts for generating rotational path KML files and 2D visualizations.
-- `google-earth`: Google Earth Pro addons.
+- `google-earth`: Google Earth Pro KMZ files.
 - `datasets`: Links to various datasets.
 
 ## Mapping
