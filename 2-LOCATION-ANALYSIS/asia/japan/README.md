@@ -10,11 +10,15 @@ Tokyo:
 
 ## Ocean displacement
 
-Japan has two major sub-oceanic chokepoints due to the Pacific plate subduction:
+Japan has two major sub-oceanic chokepoints due to the Pacific plate subduction. The upper one in particular is completely blocked:
 
 ![x](img/chokepoints.png "japan sub-oceanic chokepoints")
 
 The quantity of water being pushed up at these chokepoints is going to be immense. The depth of the Pacific in that area is 5-6 km, and it has to essentially reach surface level, potentially at speeds of over 1000 km/h. The surge will be insane.
+
+See this elevation path of the upper chokepoint, which is going to be the major one:
+
+![](img/path.png "")
 
 ## Volcanoes and tectonics
 
