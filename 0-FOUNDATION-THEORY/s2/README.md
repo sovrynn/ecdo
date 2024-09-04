@@ -8,14 +8,6 @@ This folder is for understanding S2, which is the state of the Earth after the f
 
 # Basics of S2
 
-## New equator
-
-Approximate line:
-
-![new equator 2d map](img/Mollweide-Projection.webp "new equator 2d map")
-
-See `FOUNDATION-THEORY/equatorial-bulge` for a detailed visualization of the new equator.
-
 ## Duration
 
 The Great Gun-Yu flood of China, around 1900 BC, was said to have lasted 22 years. See `EVIDENCE/cataclysm-stories/asia/china`.
