@@ -2,7 +2,7 @@
 
 This folder is for understanding S2, which is the state of the Earth after the first ECDO rotation.
 
-![](s2.png)
+![](img/s2.png)
 
 ## Contents
 
