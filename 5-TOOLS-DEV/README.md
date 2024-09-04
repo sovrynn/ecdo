@@ -57,9 +57,3 @@ SearXNG metasearch: https://searx.nobulart.com
 ## Misc
 
 Youtube video download: [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-
-# TODO Other Tools
-
-Google earth engine scripting
-
-I'd really like topography lines on Google Earth
