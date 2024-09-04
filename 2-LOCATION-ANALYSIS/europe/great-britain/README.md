@@ -21,9 +21,7 @@ Based on that, I drew an approximate depth of water displacement, expecting that
 
 ![](img/shetland5.png "")
 
-The water surrounding the island is 140m deep. If that entire ocean path gets displaced, the water surge will be 560m. An island with a highest peak of 450m is not going to streamline a water surge of 560m regardless of speed.
-
-Verdict: Shetland could easily be completely submerged by the water surge.
+The water surrounding the island is 140m deep. If that entire ocean path gets displaced, the water surge will be 560m. It could be slightly less if there is only partial ocean displacement driven by slightly lower rotation speeds. Shetland has a highest peak of 450m, and its average elevation is much lower. There is a possibility that Shetland could be completely submerged by the water surge, and at the very least, it will experience significant inundation.
 
 ## Great Britain Coast
 
