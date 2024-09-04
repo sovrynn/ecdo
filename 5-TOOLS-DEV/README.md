@@ -48,6 +48,8 @@ NASA solar system simulator: https://science.nasa.gov/eyes/
 
 Google search tricks:
 - https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/
+	- Use quotes to get an "EXACT" match
+	- Search for a particular filetype with `filetype:<extension>`
 - `X AROUND([word #]) Y`
 
 SearXNG metasearch: https://searx.nobulart.com

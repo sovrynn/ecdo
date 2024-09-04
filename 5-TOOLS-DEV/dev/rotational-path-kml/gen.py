@@ -195,7 +195,7 @@ def move_point_closer(lat_x, lon_x, lat_a, lon_a, K):
     
     return new_point.latitude, new_point.longitude
 
-def insert_lookat_into_kml(kml_filename, lat, lon, altitude=1000, range=5000000):
+def insert_lookat_into_kml(kml_filename, lat, lon, altitude=0, range=12000000):
     """
     Inserts a <LookAt> element into a KML file right after the <Document> tag.
 
@@ -211,7 +211,7 @@ def insert_lookat_into_kml(kml_filename, lat, lon, altitude=1000, range=5000000)
         <longitude>{lon}</longitude>
         <latitude>{lat}</latitude>
         <altitude>{altitude}</altitude>
-        <heading>0</heading>
+        <heading>15</heading>
         <tilt>30</tilt>
         <range>{range}</range>
     </LookAt>
