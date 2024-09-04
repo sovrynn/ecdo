@@ -2,7 +2,11 @@
 
 The purpose of this document is to help calculate what speed the rotation will be, at any point on the surface of the Earth, during S1 -> S2.
 
-Of course, the answer depends on which point on the Earth's surface is in question, because the rotation speed will depend on the distance from the closest pivot.
+Average rotation speeds during a 6 hour rotation are clearly visible in this diagram:
+
+![](../img/globe-viz.png "global rotation diagram")
+
+However, in this document, I'll be covering the methodology used to arrive at the above speeds.
 
 ## Calculating rotational speed - trigonometry
 

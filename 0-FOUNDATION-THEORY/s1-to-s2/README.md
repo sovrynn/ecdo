@@ -41,15 +41,9 @@ So, during S1, the Earth is rotating along its rotational axis:
 The rotation during S1 -> S2 can be thought of as occuring independently of this rotation. During S1 -> S2, a new Earth surface point in South Africa is brought to the geographic North pole, which looks like this, cross-sectionally:
 
 ![ecdo](img/ecdo-rotation.webp "ecdo")
-
-The exact dimensions are a 104 degree rotation north along the 31 E meridian. The point that is brought to the geographic north pole would be (-14, 31), which is 14 degrees below the equator.
-
-![north pole](img/north-pole.png "north pole")
-
-The new south pole would be (14, -149), 14 degrees above the equator.
-
-![south pole](img/south-pole.png "south pole")
 ![31 meridian](img/31-meridian.webp "31 meridian")
+
+The exact dimensions are a 104 degree rotation north along the 31 E meridian.
 
 As the South Africa LLVP rotates to the geographic north pole, the Earth continues to spin around its rotational axis, and thus the South Africa LLVP will follow an arcing path like this:
 
@@ -82,6 +76,11 @@ The equator in S2 runs through the two pivots. It also runs through the points:
 - (83 S, -149) on 149 meridian west
 
 See `FOUNDATION-THEORY/equatorial-bulge` or `FOUNDATION-THEORY/s2` for visualizations of the new equator.
+
+## S2 Poles
+
+- New north pole: (-14, 31), South Africa
+- New south pole: (14, -149), Pacific Ocean
 
 ## Citations
 
