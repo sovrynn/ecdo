@@ -2,27 +2,28 @@
 
 ## Shetland
 
+Cursory look at Shetland. You can see that there is a flat underwater cliff right in front of it, along with a large underwater structure. The northern one looks like it could deflect some of the deepest originating water flows slightly around Shetland.
+
 ![](img/shetland1.png "")
-
-Cursory look at Shetland. You can see there are underwater chokepoints leading to a water surge based on speed of rotation and shape of chokepoints.
-
 ![](img/shetland2.png "")
-
-In terms of a chokepoint right in front of the island, I actually see an underwater structure that will push some of the deepest water away from Shetland (higher of the two chokepoints).
-
-![](img/shetland3.png "")
 
 Zooming in further we see there is one bay (left) and a very narrow waterway (right).
 
-![](img/shetland4.png "")
+![](img/shetland3.png "")
 
 Looking at the elevation, left bay will almost certainly flood the green plain south of it. On the waterway, there's room for the water to rise while not inundating the island much.
 
+![](img/shetland4.png "")
+
+Comparing the speeds of rotation (~1500 km/h) and the slope of the ocean cliff (0.02), to Turkey, we can expect that significant amounts of the deep oceans will create a water surge. Turkey rotates at the fastest speed (~1900 km/h), has a similar slope (0.02), and has the Black Sea displaced over it.
+
+Based on that, I drew an approximate depth of water displacement, expecting that the deepest oceans might get redirected slightly due to the northern underwater structure. It's over 700m deep on average.
+
 ![](img/shetland5.png "")
 
-I drew a (very) lenient depth of water displacement (deepest oceans might get pushed away by first underwater "obstacle". It's over 700m deep on average. The water surrounding the island is 140m deep. The water surge will be 560m. An island with a highest peak of 450m is not going to streamline a water surge of 560m (on the conservative side) regardless of speed.
+The water surrounding the island is 140m deep. If that entire ocean path gets displaced, the water surge will be 560m. An island with a highest peak of 450m is not going to streamline a water surge of 560m regardless of speed.
 
-Verdict: Shetland will be completely submerged by the water surge.
+Verdict: Shetland could easily be completely submerged by the water surge.
 
 ## Great Britain Coast
 
