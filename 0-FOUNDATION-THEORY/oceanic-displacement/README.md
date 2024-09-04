@@ -2,44 +2,65 @@
 
 This document is for predicting the height and extent of temporary oceanic displacement during the rotation. In short, it is a very complex, large-scale fluid dynamics problem. Every location will be unique and must be evaluated on a case-by-case basis.
 
-## A framework for modeling ocean displacement
+## A framework for modeling ocean displacement fluid dynamics
 
-For me, currently, the key concepts are:
-1. *Concave terrain chokepoints*, both underwater and above-ground, where water will get trapped as it flows in, making it tend to flow *over* rather than *around*, depending on the *chokepoint topography*.
-2. *Rotation path and speed*, which will determine how much water gets trapped into the chokepoint and flows over it, dictating the *water surge volume and height*, where *water surge* is defined as the temporary rise in water level due to the ocean displacement.
+Fluid dynamics can be divided into two categories - obstacles and fluid. Based on this, I define the following concepts:
+
+1. Obstacles consist of *topographic structures* that water must traverse. The most notable of these are *concave terrain chokepoints*, both underwater and above-ground, where water will get trapped as it flows in, making it tend to flow *over* rather than *around*, causing a *water surge*, where *water surge* is defined as the temporary water in excess of sea level.
+2. Fluid parameters consist of:
+	1. *Water flow speed*, which when combined with the *topography*, determines the ratio of water that is forced to go *over* rather than *around*
+	2. *Water flow volume*, which when combined with the above factors, determines the *water surge volume and height*
 
 Evidence of past inundation will be extremely helpful in fine-tuning the analysis.
 
-## Part 1: Concave terrain chokepoints
+## Part 1: Obstacles
 
-Chokepoints are areas with concave terrain in which water will get trapped if it flows into, forcing the water to go *around* or *over*, or rise until it does. For example, most bays and basins form de facto chokepoints.
+We can evaluate topographic structures using several binary categories:
+1. Concave chokepoints vs concave streamlines
+2. Gradual vs steep slopes
 
-In contrast, terrain that forms a convex shape has more of a likelihood to streamline through the water, letting the water move around. However, this comes after an initial upward reaction of the water. If you have ever stood in the tides of the ocean as they flow out to sea, you'll know that when flowing water encounters obstacles, even if it moves around, it will first react in an upward fashion, with strength proportional to the speed of the water, without exception.
+### 1.1 Chokepoints vs streamlines
+
+Concave chokepoints are areas in which water will get trapped if it flows into, and potentially force the water to rise until it can go *over*. For example, most bays and basins form de facto chokepoints.
+
+In contrast, terrain that forms a convex shape has more of a likelihood to streamline through the water, letting the water move around to other areas. But note that terrain doesn't need to be concave to force the water to go over - if water is traveling fast enough, it will be forced to go over even flat or convex obstacles. During a fast ECDO rotation, water would get displaced over many flat or even streamlined structures.
 
 The earliest chokepoints are all at sea level, or underwater. These underwater and water-level chokepoints will be the first to drive the water above sea level, from which the water will continue to move to other chokepoints. For example, note these maps showing underwater and sea-level chokepoint flows in Asia and a small bay in North Africa:
 
 ![](img/chokepoints.png "")
 ![x](img/radial.png "radial water flow")
 
-The *shape* and *slope* of the chokepoints is also key, because when combined with the speed of rotation, will determine how much water will flow *over* versus *around* the chokepoint.
+### 1.2 Gradual vs steep slopes
 
-Precisely mapping the inundation will be a question of determining the cumulative progression of water from chokepoint(s) to chokepoint(s), and making judicious use of contour/elevation maps.
+The spectrum between gradual and steep slopes is deeply interleaved with the concept of chokepoints and streamlines. All structures, whether chokepoint or streamline, will have a certain *shape* and *slope*, which when combined with the speed of rotation, will determine the exact ratio between water flowing *over* rather than *around* the structure.
 
-## Part 2: Rotation path and speed
+## Part 2: Fluid parameters
 
-The rotation path and speed will determine how much water gets trapped into chokepoints based on the volume of water in the rotation path and the speed at which the water will get pushed into the chokepoint.
+Fluid parameters consist of *water speed* and *water volume*.
 
-The speed is a significant variable here because of gravity and the fluid nature of water - without sufficient speed, the water will simply move radially around the chokepoint, rather than flowing uphill over the chokepoint.
+### 2.1 Speed
+
+The speed of the water flow will be determined by the rotation path:
 
 ![](../s1-to-s2/img/rotation-path.png "")
 
-## Other Details
+Speed is a significant variable because it determines the ratio of water that will go *over* rather than *around* obstacles, whether chokepoint or streamline. Without sufficient speed, due to its fluid nature, water will simply move around obstacles.
 
-Determining the exact temporary water surge height at any given chokepoint depends on the total volumetric input and output rate of water flows into the chokepoint. The water will rise until the output rate matches the input rate.
+### 2.2 Volume
 
-The height of the water surge is inversely proportional to the total surface area of the water surge.
+The volume of the water flow is determined by the total quantity of ocean in the rotation path.
 
-## Best Examples of Location Oceanic Displacement Analysis
+For locations inland, it's more complicated. The volume must be ascertained through determining the cumulative progression of water flow through various areas that lead inland. Approximating it manually will require incorporating all the above factors and making judicious use of contour/elevation maps.
+
+## Other water flow factors
+
+Once you know the amount of water that will be forced to flow over a chokepoint, you can predict the height by raising the water level until the cross-sectional area of the water leaving the chokepoint accomodates all the input flow.
+
+Water flow will also fall in height as it spreads over a greater surface.
+
+## Notes
+
+### Best Examples of Location Oceanic Displacement Analysis
 
 `LOCATION-ANALYSIS` is where all the location-specific flood analysis is located. Some good examples are:
 - Shetland (`europe/great-britain`)
@@ -48,7 +69,7 @@ The height of the water surge is inversely proportional to the total surface are
 - Turkey (Urgup Cones), Black Sea water surge level (1025 m)
 - North Africa, 1200m height 600m above sea level
 
-## Factors that are difficult to predict
+### Factors that are difficult to predict
 
 The exact amount of time it takes for the S1 -> S2 rotation will significantly affect the speed and result of oceanic displacement.
 
