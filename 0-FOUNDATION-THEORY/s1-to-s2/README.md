@@ -49,6 +49,10 @@ As the South Africa LLVP rotates to the geographic north pole, the Earth continu
 
 ![rotational path](img/rotational-path.png "north pole rotation path")
 
+Then, the new poles would be:
+- New north pole: (-14, 31), South Africa
+- New south pole: (14, -149), Pacific Ocean
+
 ## Western and eastern pivot points
 
 These are the two points on the Earth's surface which don't have their rotation affected during S1 -> S2 (they continue to rotate along the normal 24-hour Earth rotational path). They are both on the equator, and lie on a single line that also goes through the center of the Earth.
@@ -75,12 +79,7 @@ The equator in S2 runs through the two pivots. It also runs through the points:
 - (83 N, 31) on 31 meridian
 - (83 S, -149) on 149 meridian west
 
-See `FOUNDATION-THEORY/equatorial-bulge` or `FOUNDATION-THEORY/s2` for visualizations of the new equator.
-
-## S2 Poles
-
-- New north pole: (-14, 31), South Africa
-- New south pole: (14, -149), Pacific Ocean
+![](../s2/img/s2.png)
 
 ## Citations
 
