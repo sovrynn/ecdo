@@ -30,6 +30,10 @@ If these all erupt at the same time, spewing out ash and magma, it would likely 
 
 As for earthquakes, Japan is known to experience many earthquakes even in normal times. It would be far worse during the ECDO.
 
+## Flood Myths
+
+Japan has no major flood myths. [4] When considering such a major event as an ECDO, one may wonder why there is no major flood myth, if there were survivors to such an event, as tales would have been told about it for generations to come, and it would have significantly restructured society on the island.
+
 ## Oldest history
 
 The oldest written reference to Japan traces back to the Chinese Book of Han, around the first century AD. [1]
@@ -37,10 +41,6 @@ The oldest written reference to Japan traces back to the Chinese Book of Han, ar
 The oldest remains of human inhabitants have been traced back to at least 10,000 BC. [2] For example, human remains in the Kamikuroiwaiwakage Cave have been dated to around 14,500 years ago. [3]
 
 It seems likely that humans did indeed inhabit Japan during periods long ago.
-
-## Flood Myths
-
-Japan has no major flood myths. [4] When considering such a major event as an ECDO, one may wonder why there is no major flood myth, if there were survivors to such an event, as tales would have been told about it for generations to come, and it would have significantly restructured society on the island.
 
 ## Verdict
 

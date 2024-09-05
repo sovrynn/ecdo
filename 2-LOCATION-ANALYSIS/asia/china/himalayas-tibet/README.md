@@ -13,12 +13,13 @@ Nobulart prediction: "Tibet will be inundated for sure."
 
 The mighty Himalayas. They get their feet wet on the southern slopes during S2>S1. I think maybe not Uttarakhand.
 
+## Tibet flood myth
+
+See `EVIDENCE/cataclysm-stories/asia`. In *Worlds in Collision*, Velikovsky cites a source saying that Tibet was inundated.
+
 ## Salt lakes in Tibet
 
-*"In ancient times, before the collision of tectonic plates originated
-the Himalayas, the Tibetan plateau was covered by a great sea. The
-many salty lakes that remain were the main deposits of such a pre-
-cious commodity for Tibetans."*
+*"In ancient times, before the collision of tectonic plates originated the Himalayas, the Tibetan plateau was covered by a great sea. The many salty lakes that remain were the main deposits of such a precious commodity for Tibetans."*
 
 Not looking good for Tibet...
 

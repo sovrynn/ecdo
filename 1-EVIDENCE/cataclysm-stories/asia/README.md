@@ -10,12 +10,13 @@ Many more such accounts from this region can be found at reference [1].
 
 ## Citations
 
-- [1]  https://talkorigins.org/faqs/flood-myths.html#Asia
-- [2] https://x.com/nobulart/status/1800176547665707245
-- [3] https://x.com/nobulart/status/1801746214985089405
-- [4] https://x.com/nobulart/status/1806289032088813702
-- [5] https://annas-archive.org/md5/dd11de05ff14d9633d6acebf38a2d264
-- [6] https://x.com/nobulart/status/1816414137930428539
-- [7] https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
+1.  https://talkorigins.org/faqs/flood-myths.html#Asia
+2. Worlds in Collision, Velikovsky
+	- Andree, Die Flutsagen, quoting S. Turner, An Account of an Embassy to the Court of the Teshoo Lama in Tibet
+3. https://x.com/nobulart/status/1801746214985089405
+4. https://x.com/nobulart/status/1806289032088813702
+5. https://annas-archive.org/md5/dd11de05ff14d9633d6acebf38a2d264
+6. https://x.com/nobulart/status/1816414137930428539
+7. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
 
 Authors: [Nobulart](https://nobulart.com)
