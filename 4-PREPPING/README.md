@@ -13,7 +13,9 @@ Book recommendations:
 - Mantrapping (Ragnar Benson)
 - Culpeper's Herbal - The English Physician
 
-# TODO Dangers to consider
+# TODO
+
+## Dangers to consider
 
 Natural:
 - From the land below:
@@ -40,3 +42,7 @@ Human safety and security needs:
 
 Geopolitical:
 - geopolitical wargaming
+
+## Backups
+
+Backup web info, tech blueprints, manufacturing blueprints
