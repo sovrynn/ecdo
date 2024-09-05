@@ -2,7 +2,7 @@
 
 This folder is for understanding the Dzhanibekov effect, which references the effect of a metal nut switching rotational position suddenly when spinning in zero gravity.
 
-![](dzhanibekov.gif)
+![](img/dzhanibekov.gif)
 
 ## Ethical Skeptic quotes
 
