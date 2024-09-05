@@ -51,13 +51,13 @@ The yellow chart is generated from JPL's Horizons data. It shows the Sun's displ
 
 Mentioned video is `img/SSBwobble.mp4`.
 
-## June 2030 planetary positions
+## June 2030 planetary positions, gravitational null?
 
 In June 2030, which is approximately the next Landscheidt minimum, you can see [2] that the gas giants are approximately in line, which is what Landscheidt proposed caused solar perturbations, and is one of the two cases which Geoff Sharp stated are the most important gas giant positions.
 
 ![](img/jun2030.jpeg)
 
-In terms of gravitational null, Earth passes around the Sun on the side of Jupiter during May/June 2030. However I have not found more specific work on the gravitational null specifically.
+In terms of a gravitational null effect, Earth passes around the Sun on the side of Jupiter during May/June 2030, at the same time as Jupiter is opposite the other gas giants (maximum effect of gas giants canceling each other out). However I have not found more detailed work specifically concerning the gravitational null effect. The gas giants only have a combined mass about 0.13% that of the Sun.
 
 ## Gravitational Null - Thomas Chan
 
