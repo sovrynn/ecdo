@@ -2,6 +2,12 @@
 
 This document is dedicated to exploring parts of the solar system which may affect the ECDO.
 
+## Contents
+
+- `universe`: Information concerning the universe outside of Earth's solar system.
+
+# Analysis
+
 ## Planetary effects on the Sun's activity
 
 Landscheidt (see `LITERATURE-MEDIA/landscheidt`) proposes that the planets affect the Sun's activity. Particularly, the positions of the gas giants (Jupiter, Uranus, Neptune, Saturn), which are the planets with the most mass, determine the Sun's trajectory around the center of mass of the solar system:

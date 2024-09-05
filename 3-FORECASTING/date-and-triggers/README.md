@@ -27,7 +27,7 @@ The data for the fourth chart is obtained from JPL's Ephemeris software: https:/
 
 ## Nobulart hypothesis
 
-I think there is certainly enough energy involved between the sun and the earth for a field inversion in the sun during a gravitational lull to be the trigger for the decoupling. As we progress towards  the slip the progression must manifest as accelerated magnetic polar wander and a narrowing of average real polar nutation (due to the drift occurring between core and mantle). The heat is rising and water is an excellent medium to draw it out.
+I think there is certainly enough energy involved between the sun and the earth for a field inversion in the sun during a gravitational lull to be the trigger for the decoupling. As we progress towards the slip the progression must manifest as accelerated magnetic polar wander and a narrowing of average real polar nutation (due to the drift occurring between core and mantle). The heat is rising and water is an excellent medium to draw it out.
 
 I think the Sun's regular field inversion during a grand solar minimum may be the trigger for a micronova.
 
@@ -45,11 +45,17 @@ We have the first of one of those double-taps coming up in June 2030.
 
 The yellow chart is generated from JPL's Horizons data. It shows the Sun's displacement from the Solar System Barycenter (SSB) from 1600-2059 - this is our main proxy for planetary harmonics. The particular Neptune/Uranus disturbances ~172 years apart (marked in blue) are the key marker series in the 4,627-year (IV) cycle identified by Landscheidt et al - they are the precursor to previous Grand Solar Minimums. Note how the gravitational minimum (red circles) after the first disruptions aligns temporally with the mid-1800's Magnetic North Pole path deviation. The minimum after the second disturbance is Landscheidt's 2030 predicted date for the onset of the GSM. The animation provides a timelapse representation of the Sun's "wobble" due to planetary gravitational influences.
 
-- [1] https://ssd.jpl.nasa.gov/horizons/
-- [2] http://landscheidt.info
-- [3] https://x.com/nobulart/status/1824455551939662016
+1. https://ssd.jpl.nasa.gov/horizons/
+2. http://landscheidt.info
+3. https://x.com/nobulart/status/1824455551939662016
 
 Mentioned video is `img/SSBwobble.mp4`.
+
+## Gravitational Null - Thomas Chan
+
+*"However, at the time of a cataclysm the entire Solar System passes through a magnetic null zone in the Milky Way Galaxy. These null zones are sometimes popularly called “reversal zones”, and so they are, for the magnetic fields on either side of galactic null zones arc in opposite directions. Some physicists have found that we are heading into another null zone at an accelerating rate; it is a known fact of geophysics that the Earth’s magnetic field strength, now over 35% less than 300 years ago, is decreasing faster and faster; we are indeed approaching a null zone. In any case, when going through a null zone, our planet’s inner MHD energy structure is diminished to the extent that the outer, shallow molten layer, 60 miles thick, is allowed to act as a free liquid. No longer does it bind the shell of the Earth to its interior which starts 120 miles deep, as the mirror was bound through the mercury to the agitator by MHD energy in Hannes Alfven’s experiment."*
+
+See `LITERATURE/chan-thomas`.
 
 ## Gas giant harmonic (June 2030)
 
