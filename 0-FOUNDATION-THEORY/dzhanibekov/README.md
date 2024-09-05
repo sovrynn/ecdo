@@ -55,6 +55,8 @@ If you watch [this video](https://www.youtube.com/watch?v=Knpn0JBMif4) of spinni
 - 0:24 - Even during the "stable rotation", the object never perfectly spins along its principal axis. It gets close but is off. This only happens when the angular momentum is close to the principal axis
 - 0:55 - When the angular momentum is not close to a principal axis (more so the first or third), it'll still dzhanibekovally rotate, but not with such a sharp "flipping" movement
 
+https://github.com/user-attachments/assets/6bbc33a0-4caa-43a0-ac7b-76d9ce07aec5
+
 Mathematically, the principal axes are the axes around which the moment of inertia tensor is diagonal. For a body with moments of inertia I1, I2, and I3, these axes are the eigenaxes of the inertia tensor.
 
 ### Relation between angular velocity and moment of inertia
