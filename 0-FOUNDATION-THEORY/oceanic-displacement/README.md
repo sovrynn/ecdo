@@ -42,7 +42,7 @@ Fluid parameters consist of *water speed* and *water volume*.
 
 The speed of the water flow will be determined by the rotation path:
 
-![](../s1-to-s2/img/rotation-path.png "")
+![](../s1-to-s2/img/globe-viz.png "")
 
 Speed is a significant variable because it determines the ratio of water that will go *over* rather than *around* obstacles, whether chokepoint or streamline. Without sufficient speed, due to its fluid nature, water will simply move around obstacles.
 
