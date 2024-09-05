@@ -18,6 +18,8 @@ Landscheidt (see `LITERATURE-MEDIA/landscheidt`) proposes that the planets affec
 
 Jupiter, being the heaviest one, plays the biggest role.
 
+![](img/planets.jpg)
+
 Specifically, Landscheidt says that the most important moments are when the Sun, the CM (centre of mass) of the solar system, and Jupiter are in line. When JUNS (Jupiter, Uranus, Neptune, and Saturn) are on the same side of the Sun, the Sun will be furthest from the CM. When Jupiter is opposite UNS, the Sun will be closest to the CM. Together, these gas giants produce IOT (impulses of torque) on the Sun.
 
 ## Gleissberg Cycle Basics (166 years)
@@ -68,6 +70,16 @@ Geoff Sharp, investigating the AMPs in Carl's graph, found the following:
 
 *"In addition it also became obvious that Angular Momentum (AM) was responsible for the strength of the solar cycle, the AM curve very closely matches the sunspot curve... There is one fact that cannot be argued against, the position of the planets as just described radically changes the path of the Sun around the Solar System Barycenter (SSB), this also coincides with all solar slowdowns. Only this planetary position can cause this radical path change."* [2]
 
+Here are other comments by Sharp on the planetary positions:
+
+*"Fig.1 shows the 2 planetary positions that create the majority of angular momentum in our solar system. "A" corresponds with the bottom of the wave in Carl's graph and "B" with the top of wave. The resonance created from large strength in "B" and near zero strength in "A" as Jupiter & Saturn balance each other out."*
+
+![](img/sharp1.jpg)
+
+*"Fig.2 shows the 2 planetary positions capable of creating Grand Minima. "A" robbing Saturn at bottom of wave and "B" robbing Jupiter/Saturn at top of wave. Both positions responsible for the recurring "camels humps" in Carl's graph"*
+
+![](img/sharp2.jpg)
+
 ## 4627-year gas giant grand cycle
 
 I haven't found the original source for this yet, but there are many references to this cyle in Geoff Sharp's writings:
@@ -94,15 +106,12 @@ https://www.sciencedirect.com/science/article/abs/pii/S1011134418305505
 
 1. https://en.wikipedia.org/wiki/Solar_cycle#Patterns
 2. https://landscheidt.info/
+3. https://landscheidt.wordpress.com/2008/11/06/are-neptune-and-uranus-the-major-players-in-solar-grand-minima/
 
 Authors: [Sovrynn](https://sovrynn.github.io)
 
 # TODO
 
 gravitational null (when the gas giants are in line and their pull on Earth cancels each other out?)
-
-good content on the homepage here: https://landscheidt.info/
-
-neptune and uranus: https://landscheidt.wordpress.com/2008/11/06/are-neptune-and-uranus-the-major-players-in-solar-grand-minima/
 
 also a good basic summary: https://landscheidt.info/?q=node/345

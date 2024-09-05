@@ -44,11 +44,13 @@ Lat/long follows a Cartesian coordinate system. East is right on the x-axis, Nor
 
 ## Solar system
 
+Solar system simulator (goes to future): https://theskylive.com
+
 NASA solar system simulator: https://science.nasa.gov/eyes/
 
 - Celestia is great for large-scale models.
 - Stellarium is great for ground-based observations.
-- https://theskylive.com and https://solarsystemscope.com are a good online resources.
+- https://solarsystemscope.com good online resources
 - https://ssd.jpl.nasa.gov/horizons is the go to for the best ephemeris data (used in many of these models, I'm sure).
 
 ## Search engine

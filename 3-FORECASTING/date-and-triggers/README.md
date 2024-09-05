@@ -51,6 +51,14 @@ The yellow chart is generated from JPL's Horizons data. It shows the Sun's displ
 
 Mentioned video is `img/SSBwobble.mp4`.
 
+## June 2030 planetary positions
+
+In June 2030, which is approximately the next Landscheidt minimum, you can see that the gas giants are approximately in line, which is what Landscheidt proposed caused solar perturbations, and is one of the two cases which Geoff Sharp stated are the most important gas giant positions.
+
+![](img/jun2030.jpeg)
+
+In terms of gravitational null, Earth passes around the Sun on the side of Jupiter during May/June 2030. However I have not found more specific work on the gravitational null specifically.
+
 ## Gravitational Null - Thomas Chan
 
 *"However, at the time of a cataclysm the entire Solar System passes through a magnetic null zone in the Milky Way Galaxy. These null zones are sometimes popularly called “reversal zones”, and so they are, for the magnetic fields on either side of galactic null zones arc in opposite directions. Some physicists have found that we are heading into another null zone at an accelerating rate; it is a known fact of geophysics that the Earth’s magnetic field strength, now over 35% less than 300 years ago, is decreasing faster and faster; we are indeed approaching a null zone. In any case, when going through a null zone, our planet’s inner MHD energy structure is diminished to the extent that the outer, shallow molten layer, 60 miles thick, is allowed to act as a free liquid. No longer does it bind the shell of the Earth to its interior which starts 120 miles deep, as the mirror was bound through the mercury to the agitator by MHD energy in Hannes Alfven’s experiment."*
