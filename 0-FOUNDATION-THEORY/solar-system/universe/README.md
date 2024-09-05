@@ -29,7 +29,7 @@ Original paper cited below. [2]
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Local_Hole#cite_note-kbc-1
-2. Original paper: https://ui.adsabs.harvard.edu/abs/2013ApJ...775...62K/abstract
+2. https://ui.adsabs.harvard.edu/abs/2013ApJ...775...62K/abstract
 3. https://en.wikipedia.org/wiki/Local_Void
 4. https://en.wikipedia.org/wiki/Local_Group
 5. https://en.wikipedia.org/wiki/Milky_Way
