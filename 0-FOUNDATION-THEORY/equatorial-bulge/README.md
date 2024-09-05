@@ -42,7 +42,7 @@ First check out this map of the Earth in S1. Check the equator line, which runs 
 
 Now, take a look at the equator in S2:
 
-![](../s2/s2.png)
+![](../s2/img/s2.png)
 
 Note that there are now huge swaths of land on the equator - Eurasia, the Arctic, the full length of South America, Antarctica, Australia, and the shallow area around Indonesia. In fact, the only significant stretches of ocean are a slice of the Atlantic between North and South America and slices of the Pacific around Antarctica. This is in stark contrast to now, where the equator only runs through the top of South America, South Africa, and Indonesia, and a huge swath of the Pacific lies on the equator.
 
