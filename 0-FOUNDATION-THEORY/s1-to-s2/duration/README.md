@@ -2,7 +2,7 @@
 
 This folder is dedicated to predicting the duration of the S1 -> S2 rotation.
 
-## Evidence for 6-24 Hour Rotation
+## Evidence for 6-24 Hour Rotation [1]
 
 If you've watched the videos of the Dzhanibekov effect, its seen that when the actual flip occurs, it's quick (12-24 hrs), which is supported by deluge debris evidence.
 
@@ -10,7 +10,7 @@ It is an estimate based on the nature of the Dzhanibekov effect (a 180 degree fl
 
 ## Citations
 
-Authors: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)
 
 # TODO potential leads
 

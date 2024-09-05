@@ -1,5 +1,7 @@
 # Encke Comet
 
+## Analysis [1]
+
 ![x](img/encke3.jpg "encke")
 
 "The periodic Comet 2P/Encke is one of the most mysterious and befuddling objects in the Solar System. 2P/Encke is a bright, low-inclination comet on an orbit with a surprisingly small aphelion distance (Q) of only 4.1 AU. As such, although similar to Jupiter-family comets (JFCs, comets with Tisserand parameters with respect to Jupiter, T , between 2 and 3; see Levison, 1996) in other respects, 2P/Encke is dynamically decoupled from Jupiter... We found that only 1 out of ∼11,000 initially transneptunian objects will evolve onto an Encke-like orbit... Our results seem to suggest that non-gravitational forces are required to make 2P/Encke." - On the origin of the unusual orbit of Comet 2P/Encke, Levison et al. (2006)[1]
@@ -21,7 +23,7 @@ Encke-IV-V orbital harmonic correlation over 18.5ka.
 2. https://ssd.jpl.nasa.gov/horizons/
 3. https://nobulart.com/comets-and-dragons
 
-## Nobulart
+## Encke [1]
 
 ![encke](img/encke1.jpg "encke")
 
@@ -33,8 +35,8 @@ JPL have 2P/Encke at closest approach to Earth on July 12, 2030.
 
 ## Tracking previous encounters
 
-We cannot calculate comets back more than a couple of thousand years. Their orbits are too heavily perturbed by the gas giants for reliable long term ephemeris calculations.
+We cannot calculate comets back more than a couple of thousand years. Their orbits are too heavily perturbed by the gas giants for reliable long term ephemeris calculations. [1]
 
 ## Citations
 
-Authors: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)

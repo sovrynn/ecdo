@@ -2,7 +2,7 @@
 
 ![aus](img/new-zealand.png "aus")
 
-## Analysis
+## Analysis [1]
 
 https://github.com/user-attachments/assets/b1daf844-5498-41fe-9424-65f8efc77f51
 
@@ -21,7 +21,9 @@ Māori deluge mythology [3]:
 
 ## Citations
 
-Visualization: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)
+
+Visualization: [Craig Stone](https://nobulart.com)
 
 # TODO Potential Leads
 

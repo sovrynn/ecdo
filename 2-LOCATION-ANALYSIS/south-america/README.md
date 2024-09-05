@@ -4,7 +4,7 @@ South America is home to the western ECDO pivot in east Venezuela.
 
 ![sa](img/south-america-elevation.png "sa")
 
-## Analysis
+## Analysis [1]
 
 https://github.com/user-attachments/assets/7cdc44f1-642e-408e-ae7f-1290120c06c3
 
@@ -17,4 +17,6 @@ South America. The western ECDO pivot [1] is located near Mount Roraima.[2] Mega
 
 ## Citations
 
-Visualization: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)
+
+Visualization: [Craig Stone](https://nobulart.com)

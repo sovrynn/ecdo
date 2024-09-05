@@ -2,7 +2,7 @@
 
 This folder is for evidence coming from samples of the Earth.
 
-## Varved Clay
+## Varved Clay [1]
 
 ![clay](img/varved-clay1.jpg "clay")
 ![clay](img/varved-clay2.jpg "clay")
@@ -47,4 +47,4 @@ https://www.geo.umass.edu/climate/papers2/Baker_retrospective_2009.pdf
 
 ## Citations
 
-Authors: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)

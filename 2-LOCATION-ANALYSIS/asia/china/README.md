@@ -84,8 +84,6 @@ Zhangjiajie:
 - https://whhlyt.hunan.gov.cn/whhlyt/english/TourismInRegions/Zhangjiajie/ZhangjiajieAttractions/202211/t20221108_29119497.html
 - https://www.guinnessworldrecords.com/world-records/593531-largest-concentration-of-sandstone-pillars
 
-Authors: [Sovrynn](https://sovrynn.github.io)
-
 # TODO
 
 Things to look into:

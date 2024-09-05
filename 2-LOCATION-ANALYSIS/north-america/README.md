@@ -4,7 +4,7 @@ While there are likely several spots that are safe, North America has not been a
 
 ![na](img/north-america-elevation.png "na")
 
-## Analysis
+## Analysis [1]
 
 https://github.com/user-attachments/assets/d4beb5b6-d62f-49e9-bd4d-f1f70ac339e6
 
@@ -31,6 +31,6 @@ That said, 3,000ft anywhere east of the Rocky's is going to be overtopped by the
 
 ## Citations
 
-Authors: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)
 
-Visualization: [Nobulart](https://nobulart.com)
+Visualization: [Craig Stone](https://nobulart.com)

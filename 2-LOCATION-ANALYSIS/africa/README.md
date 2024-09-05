@@ -4,7 +4,7 @@ Africa, particularly South Africa, will have safe spots during the ECDO due to i
 
 ![af](img/africa-elevation.png "af")
 
-## Overview
+## Overview [1]
 
 ...[recommend] Drakensberg. The entire globe will be plunged into a nuclear-type winter during S2. It's going to be cold everywhere. Southern Africa is uniquely oriented and positioned such that it is not inundated during either movement - I know this because the "youngest" marine fossils here (found in the Karoo) are over 6 million years old. I believe I know why it isn't inundated going from S2>S1 but I have not yet published this.
 
@@ -22,4 +22,4 @@ Southern Africa, especially above the Drakensberg range, is the safest from both
 
 ## Citations
 
-Authors: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)

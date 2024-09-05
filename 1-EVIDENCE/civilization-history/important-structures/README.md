@@ -35,7 +35,7 @@ This would very likely have been expunged from recent records. His source would 
 
 https://nobulart.com/the-hermetic-key/
 
-## Gobekli Tepe - Nobulart
+## Gobekli Tepe [1]
 
 Confirming TES' speculated built date in the period after the YDB. I'm thinking Gobleke Tepe was built during the previous stable period. So there was an event that triggered the constuction of GT as an observatory, which is starting to make it look as though the 'YDB Event' might more properly be called the BAI Event.
 
@@ -57,6 +57,10 @@ An interesting paper, with a convincing argument that GT was astronomically link
 Angkor Wat and Nazca lie on the great circle centred at Stonehenge (red trace). Another great circle connects Easter Island, Machu Picchu, Giza and Mohenjo-daro (blue trace). Intersections at Peru and Cambodia may account for the high density of megaliths, geoglyphs and curious artefacts found there. The planes defined by these great circles intersect along an axis approximately connecting Angkor Wat to Nazca/Paracas, inclined to one another at sin −1 (0.9) the gradian/degree ratio being 9/10.
 
 https://www.youtube.com/watch?v=PiQL5yVpWig
+
+## Citations
+
+1. [Craig Stone](https://nobulart.com)
 
 # TODO Potential Leads
 

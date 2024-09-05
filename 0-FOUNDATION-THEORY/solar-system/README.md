@@ -108,8 +108,6 @@ https://www.sciencedirect.com/science/article/abs/pii/S1011134418305505
 2. https://landscheidt.info/
 3. https://landscheidt.wordpress.com/2008/11/06/are-neptune-and-uranus-the-major-players-in-solar-grand-minima/
 
-Authors: [Sovrynn](https://sovrynn.github.io)
-
 # TODO
 
 gravitational null (when the gas giants are in line and their pull on Earth cancels each other out?)

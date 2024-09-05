@@ -26,7 +26,7 @@ Going back another 3700 years to 9100 BC:
 
 Finally you also have a harmonic of the gas giant grand cycle which aligns with these dates (`solar-system`).
 
-## Alternate hypothesis: 10th harmonic (twice as frequent as 3700 years)
+## Alternate hypothesis: 10th harmonic (twice as frequent as 3700 years) [1]
 
 ![x](img/tenth-harmonic.jpg "")
 
@@ -56,7 +56,7 @@ Sometimes the dates are just slightly off (ex: 3650). You'd have to be more thor
 
 ## Citations
 
-Authors: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)
 
 # TODO
 

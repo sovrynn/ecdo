@@ -163,8 +163,11 @@ The points of greatest latitude change are halfway between these boundaries:
 
 1. Tectonic plate maps: https://earthhow.com/category/geology/plate-tectonics/
 2. https://grace.jpl.nasa.gov/data/get-data/gia-trends/
+<<<<<<< Updated upstream
 
 Authors: [Sovrynn](https://sovrynn.github.io)
+=======
+>>>>>>> Stashed changes
 
 # TODO things to look into
 

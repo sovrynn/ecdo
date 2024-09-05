@@ -2,9 +2,9 @@
 
 Potential to get inundated from the east. It's the large chunk of high-elevation land in the southwest of China.
 
-Nobulart prediction: "Tibet will be inundated for sure."
+"Tibet will be inundated for sure." [1]
 
-## Nobulart
+## Overview [1]
 
 ![h1](img/himalayas1.jpg "h1")
 ![h2](img/himalayas2.jpg "h2")
@@ -26,3 +26,7 @@ Not looking good for Tibet...
 Hard copy of this paper in this folder.
 
 https://himalaya.socanth.cam.ac.uk/collections/journals/ret/pdf/ret_65_03.pdf
+
+## Citations
+
+1. [Craig Stone](https://nobulart.com)

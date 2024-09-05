@@ -23,7 +23,7 @@ That sort of narrows it down to 2 options:
 
 If logic dictates that even 3700 years is not nearly long enough to melt the ice, then that's fairly conclusive proof that S2 is shorter than S1.
 
-## Antarctic ice-core temperature dataset
+## Antarctic ice-core temperature dataset [1]
 
 I found an Antarctic 800ka raw ice-core temperature dataset. Here's the last 20ky plotted against the harmonics.
 
@@ -42,3 +42,7 @@ The complete 800ky record set fairly obliterates the "unprecedented warming" nar
 
 1. https://annas-archive.org/scidb/10.1002/2016GL068609
 2. https://www.nsf.gov/news/news_summ.jsp?cntn_id=138871
+
+## Citations
+
+1. [Craig Stone](https://nobulart.com)

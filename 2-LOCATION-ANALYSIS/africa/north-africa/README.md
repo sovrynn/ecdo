@@ -4,6 +4,8 @@ https://github.com/user-attachments/assets/eecae3f0-8dab-41db-868f-7a1819f490a5
 
 See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the high-res visualization.
 
+## Overview [1]
+
 ECDO displacement visualisation using V4.[1] Mega current ripples in Mauritania[2] and and teardrop island erosion[3] and more ripples in Sudan[4][5] indicating flows over 1 km deep.[6] Northern Africa has a fairly rich collection of flood 'myths': "The sun once met the moon and threw mud at it, making it dimmer. There was a flood when this happened. Men put their milk stick behind them and were turned into monkeys. The present race of men is a recent creation." - Lower Congo flood story.[7]
 
 "The sun and moon are man and wife, and their best friend was flood, whom they often visited. They often invited flood to visit them, but he demurred, saying their house was too small. Sun and moon built a much larger house, and flood could no longer refuse their invitation. He arrived and asked, "Shall I come in?" and was invited in. When flood was knee-deep in the house, he asked if he should continue coming and was again invited to do so. The flood brought many relatives, including fish and sea beasts. Soon he rose to the ceiling of the house, and the sun and moon went onto the roof. The flood kept rising, submerging the house entirely, and the sun and moon made a new home in the sky." - Efik-Ibibio (Nigeria) flood story.[7]
@@ -16,7 +18,7 @@ ECDO displacement visualisation using V4.[1] Mega current ripples in Mauritania[
 6. https://x.com/nobulart/status/1808579489582174609
 7. https://talkorigins.org/faqs/flood-myths.html#Africa
 
-## Sudan
+## Sudan [1]
 
 ![x](img/sudan1.jpg "sudan")
 ![x](img/sudan2.jpg "sudan")
@@ -33,6 +35,6 @@ The Sahara looks like one of the largest megafloodplains on the planet, with obv
 
 ## Citations
 
-Visualization: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)
 
-Authors: [Nobulart](https://nobulart.com)
+Visualization: [Craig Stone](https://nobulart.com)

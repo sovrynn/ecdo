@@ -4,7 +4,7 @@ Australia is relatively close to the eastern ECDO pivot in Indonesia.
 
 ![aus](img/australia8.jpg "aus")
 
-## Analysis
+## Analysis [1]
 
 https://github.com/user-attachments/assets/8a5e0e8b-4d8b-45f8-a703-c56c91c3be7c
 
@@ -21,7 +21,7 @@ Australia's proximity to the Sulawesi pivot means that water velocities are some
 
 ## Citations
 
-Authors: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)
 
 # TODO
 

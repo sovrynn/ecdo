@@ -1,6 +1,6 @@
 # France
 
-## Nobulart
+## Overview [1]
 
 ![x](img/france1.jpg "france")
 ![x](img/france2.jpg "france")
@@ -15,4 +15,4 @@ Contrast enhanced elevation data [1,2]. Current ripple period is ±500m. Amplitu
 
 ## Citations
 
-Authors: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)

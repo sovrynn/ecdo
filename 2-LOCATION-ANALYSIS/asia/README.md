@@ -30,6 +30,4 @@ Asia has one of the most fractured tectonic plate regions in the world.
 
 ## Citations
 
-Authors: [Sovrynn](https://sovrynn.github.io)
-
-Visualization: [Nobulart](https://nobulart.com)
+Visualization: [Craig Stone](https://nobulart.com)

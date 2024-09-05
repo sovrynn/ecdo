@@ -2,7 +2,7 @@
 
 Good chance it could have safe locations due to its high elevation and having some very old archaelogical sites.
 
-## Urgup Cones
+## Urgup Cones [1]
 
 ![urgup cones](img/urgup1.jpg "urgup cones")
 ![urgup cones](img/urgup2.jpg "urgup cones")
@@ -30,7 +30,7 @@ Bedrock morphology shows significant striation congruent with the emptying of th
 
 Look familiar? The upper karst erosion would likely be from extended periods underwater, with steady state levels and wave erosion near the top. The dwellings are typically above the high flow regions (which I suspect were later ECDO events).
 
-## Urgup
+## Urgup [1]
 
 ![urgup lake](img/urgup-lake.jpg "urgup lake")
 
@@ -41,3 +41,7 @@ Evidence of an inland lake? It would also explain the inundation of the Urgup Co
 He has some interesting ideas that the reliefs at GT (Gobekli Tepe) are maps.
 
 https://x.com/TheLastNatufian
+
+## Citations
+
+1. [Craig Stone](https://nobulart.com)

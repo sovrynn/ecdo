@@ -1,6 +1,6 @@
 # Middle East Flood Myths
 
-## Mohenjo-Daro, Pakistan - Fire & Water
+## Mohenjo-Daro, Pakistan - Fire & Water [3]
 
 "Built c. 2500 BCE, it was the largest settlement of the ancient Indus Valley Civilization, and one of the world's earliest major cities, contemporaneous with the civilizations of ancient Egypt, Mesopotamia, Minoan Crete, and Norte Chico. With an estimated population of at least 40,000 people, Mohenjo-daro prospered for several centuries, but by c. 1700 BCE had been abandoned, along with other large cities of the Indus Valley Civilization. The city also had large platforms perhaps intended as defense against flooding. According to a theory first advanced by Wheeler, the city could have been flooded and silted over, perhaps six times, and later rebuilt in the same location. For some archaeologists, it was believed that a final flood that helped engulf the city in a sea of mud brought about the abandonment of the site." [1] (continued in the comments...)
 
@@ -47,7 +47,8 @@ Not only does it describe a deluge, it specifically describes an oceanic displac
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Hittites
-2. https://en.wikipedia.org/wiki/K%C3%BCltepe
+2. https://en.wikipedia.org/wiki/K%C3%BCltepe\
+3. [Craig Stone](https://nobulart.com)
 
 # TODO additional leads
 

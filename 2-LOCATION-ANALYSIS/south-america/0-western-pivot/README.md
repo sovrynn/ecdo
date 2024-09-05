@@ -1,4 +1,6 @@
-# Western Pivot
+# Western Pivot [1]
+
+## Overview
 
 ![sa](img/garden-of-eden.jpg "sa")
 ![sa](img/garden-of-eden2.jpg "sa")
@@ -45,4 +47,4 @@ This mesa is just over 300km from Roraima. Red curve is the ECDO path. The struc
 
 ## Authors
 
-Authors: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)

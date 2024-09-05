@@ -38,7 +38,3 @@ Using our formula, we can calculate the predicted average rotational speed at ea
 - Singapore: 2808 km from pivot, ~822 km/h
 - Tokyo: 4430 km from pivot, ~1235 km/h
 - Dubai: 7585 km from pivot, ~1790 km/h
-
-## Citations
-
-Authors: [Sovrynn](https://sovrynn.github.io)

@@ -8,14 +8,14 @@ This folder is for evidence from the surrounding solar system that points to pot
 
 # Analysis
 
-## Harmonics
+## Harmonics [1]
 
 ![harmonic](img/gas-giant-harmonic.jpg "harmonic")
 
 Music of the Spheres. The resonance between the inner and the outer planets is governed by the greater mass. It is the gas giants which established and continue to enforce the fifth harmonic. This system is probably old beyond our wildest imaginings to have achieved this degree of order.
 [1] https://nobulart.com/musica-vitae-et-mortis/
 
-## Gas giant harmonic
+## Gas giant harmonic [1]
 
 ![gas giant cycle](img/gas-giant-cycle.jpg "gas giant cycle")
 ![solar](img/solar.jpg "solar")
@@ -29,7 +29,7 @@ The JUNS Orbital Cycle (Jupiter-Uranus-Neptune-Saturn) has a grand period of 4,6
 
 The gas giant harmonic may align well with bond event and ice core-temperature data. Check `physical-material/ice` for that analysis.
 
-## Sun-Earth-Man, Theodor Landscheidt
+## Sun-Earth-Man, Theodor Landscheidt [1]
 
 ![landscheidt](img/landscheidt1.jpg "landscheidt")
 ![landscheidt](img/landscheidt2.jpg "landscheidt")
@@ -88,4 +88,4 @@ If you divide 18,508 by 24,998, you get 9254/12499 (simplified). 24,998 is a spe
 
 ## Citations
 
-Authors: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)

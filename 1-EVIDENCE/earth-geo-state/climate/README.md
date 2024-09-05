@@ -118,4 +118,4 @@ The piezoelectric effect is a source of significant electric current generation 
 
 ## Citations
 
-Authors: [Nobulart](https://nobulart.com)
+Authors: [Craig Stone](https://nobulart.com)

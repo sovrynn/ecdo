@@ -86,5 +86,3 @@ The equator in S2 runs through the two pivots. It also runs through the points:
 - https://en.wikipedia.org/wiki/Axial_tilt
 - https://en.wikipedia.org/wiki/North_magnetic_pole
 - https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
-
-Authors: [Sovrynn](https://sovrynn.github.io)

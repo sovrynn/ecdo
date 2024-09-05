@@ -8,4 +8,4 @@ Antarctica (bedrock without ice) ECDO cycle. The star-like formation around the 
 
 ## Citations
 
-Visualization: [Nobulart](https://nobulart.com)
+Visualization: [Craig Stone](https://nobulart.com)

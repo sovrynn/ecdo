@@ -33,7 +33,7 @@ Note how the observed polar nutation over the past 120 years appears to be follo
 
 ![polar motion drift](img/polar-motion-drift-2.jpg "polar motion drift")
 
-"The ice mass is dragging the crust's rotational axis away from the center as the decoupling progresses further, and more slippage is occurring at the core-mantle boundary." - Nobulart
+"The ice mass is dragging the crust's rotational axis away from the center as the decoupling progresses further, and more slippage is occurring at the core-mantle boundary." [1]
 
 "The original map in the paper is a north polar view. I added Antarctica as it is positioned at the opposite pole, as though you're looking through the planet to see the ice on the other side. Since its a sphere, if the antarctic wants to pull East (in this view) the north pole is going to tend west. It significant to ECDO because it's showing the effect of Antarctica's mass as the core-mantle coupling continues to degrade." - Nobulart
 
@@ -46,3 +46,7 @@ The geo record indicates that the length of day (axial velocity) has quite stead
 ![x](img/rotation-slowing.jpg "rotation slowing")
 
 https://arxiv.org/pdf/2309.11479
+
+## Citations
+
+1. [Craig Stone](https://nobulart.com)

@@ -14,7 +14,7 @@
 
 He provides plenty of sources, I encourage you to look at his original work.
 
-## Magnetic profiles
+## Magnetic profiles [1]
 
 ![magnetic](img/magnetic1.jpg "magnetic profiles")
 
@@ -45,3 +45,7 @@ Relevant papers
 - https://x.com/NoVaxForMePal/status/1621465149872766976
 - https://x.com/NoVaxForMePal/status/1620468069624868864
 - https://x.com/NoVaxForMePal/status/1620468069624868864
+
+## Citations
+
+1. [Craig Stone](https://nobulart.com)

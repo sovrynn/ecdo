@@ -10,4 +10,4 @@ See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobula
 
 ## Citations
 
-Visualization: [Nobulart](https://nobulart.com)
+Visualization: [Craig Stone](https://nobulart.com)

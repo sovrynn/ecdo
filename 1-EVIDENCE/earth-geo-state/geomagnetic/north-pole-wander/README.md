@@ -11,7 +11,7 @@ Courtesy of NOAA, showing that that the Np has traversed more in the past 25 yea
 
 https://www.ncei.noaa.gov/maps/historical_declination/
 
-## North Magnetic Pole and Planetary Harmonics (1600-2024)
+## North Magnetic Pole and Planetary Harmonics (1600-2024) [1]
 
 https://github.com/user-attachments/assets/9c74c030-b865-4beb-822a-7399062c7fdf
 
@@ -37,7 +37,7 @@ However, NOAA has [published a report in December 2023](https://www.ncei.noaa.go
 
 *"This suggests that nonlinear changes in the Earth’s magnetic field have remained small over the past three years. Since 2020, the north magnetic dip pole has moved at an average speed of 41 km/yr, and the south magnetic dip pole at 9 km/yr. Neither underwent any noticeable change in direction."*
 
-## 10,000 year magnetic polar wander
+## 10,000 year magnetic polar wander [1]
 
 Magnetic polar wander over 10,000 years. I have marked observable path deviations >270° in red. These lie very close to the 2nd/9.25ky, 5th/3.7ky and 10th/1.85ky planetary harmonics.
 
@@ -51,4 +51,4 @@ Last century added on. Scale, path and orientation taken from the map here: http
 
 ## Citations
 
-Authors: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)

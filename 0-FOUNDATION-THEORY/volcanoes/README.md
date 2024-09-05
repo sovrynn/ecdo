@@ -32,8 +32,9 @@ There are videos online of the actual eruption and aftermath which are worth wat
 
 ## Magma
 
-"I expect volatile areas will remain unstable possibly for hundreds of years or more. I base my expectation of volcanic activity here on the composition of the bedrock here - it’s pretty much all of volcanic origin, albeit quite old." - Nobulart
+"I expect volatile areas will remain unstable possibly for hundreds of years or more. I base my expectation of volcanic activity here on the composition of the bedrock here - it’s pretty much all of volcanic origin, albeit quite old." [2]
 
 ## Citations
 
 1. https://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens
+2. [Craig Stone](https://nobulart.com)

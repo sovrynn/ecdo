@@ -98,5 +98,3 @@ In the south of Korea, a carefully selected location on the highest points of th
 2. https://volcano.si.edu/volcano.cfm?vn=305060
 3. https://en.wikipedia.org/wiki/Mount_Myohyang
 4. https://www.volcanodiscovery.com/chuga-ryong.html
-
-Authors: [Sovrynn](https://sovrynn.github.io)

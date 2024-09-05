@@ -48,7 +48,7 @@ https://web.viu.ca/johnstoi/cuvier/cuvierweb.pdf
 
 https://www.researchgate.net/publication/225517767_Evidence_for_marine_transgression_between_7500-5400BC_at_the_Luotuodun_Site_in_Yixing_Jiangsu_Province
 
-## Mayan Chichancanab Lake
+## Mayan Chichancanab Lake [1]
 
 ![maya](img/maya-climate.jpg "maya")
 ![chichancanab](img/chichancanab1.jpg "chichancanab")
@@ -61,4 +61,4 @@ The Noahic Deluge was ±7400BP, two 3,700 year cycles before present. This lake 
 
 ## Citations
 
-Authors: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)

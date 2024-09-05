@@ -1,6 +1,6 @@
 # Elite Cult Symbolism
 
-## Elite symbolism
+## Elite symbolism [1]
 
 It's one of the things we know pretty much for sure, because they've been writing about it in hermetic texts for centuries. It's illustrated in most masonic art and symbolism.
 - Curated examples of the occulted references: https://nobulart.com
@@ -17,4 +17,4 @@ The book in question is Sitchen's The 12th Planet (Cue groans). I am a aware tha
 
 ## Citations
 
-Authors: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)

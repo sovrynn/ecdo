@@ -1,6 +1,6 @@
 # Sunflowers
 
-## A discussion about sunflower anomalies and magnetic field
+## A discussion about sunflower anomalies and magnetic field [1]
 
 https://x.com/mundonuevo00/status/1821119859725373727?s=46
 
@@ -29,4 +29,4 @@ This sun tracking movement is known as heliotropism, and it happens less as sunf
 
 ## Citations
 
-Authors: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)

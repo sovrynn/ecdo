@@ -4,14 +4,14 @@ This folder is for understanding the Dzhanibekov effect, which references the ef
 
 ![](img/dzhanibekov.gif)
 
-## Ethical Skeptic quotes
+## Ethical Skeptic quotes [1]
 
 *"While our theory references the Dzhanibekov Effect, it is crucial to understand that Earth’s real three PIM-axis body application (see Exhibit C2 to right) diverges in part from the classical three-axis definition observed in space (Exhibit C).11 Our model does not strictly adhere to the traditional Dzhanibekov Effect definition, where an object flips 180 degrees due solely to rotational instability around its intermediate axis (Exhibit C above). Instead, we explore how similar principles could influence Earth’s rotational dynamics under different conditions, specifically,"* [1]
 1. *"a reduction in the geomagnetic coupling between the Earths’ core and its mantle as the core’s geomagnetic moment, which helps to keep the present polar rotational axis as priority, fades,"*
 2. *"destabilization caused by the Earth’s hotter mantle versus less-dense Large Low-Velocity-Shear Provinces (LLVPs), and in particular the center of low-mass in the South Africa Cusp LLVP. This core material infusion can potentially polarize the Earth’s rotational momentum, leading to significant shifts in the planet’s rotation around its maximum axis (the remaining dense mantle), and"*
 3. *"a gyroscopic 104 degrees (relative to the current polar axis, see Exhibits H and J) mediation of the Dzhanibekov effect—not the 0 to 180 degrees typically illustrated in simpler physical models (Exhibit C)."*
 
-## Overview
+## Overview [2]
 
 The Dzhanibekov Effect. "While he was busy unloading the transporter ship, Vladimir Dzhanibekov twisted his finger on one of the fastening tab nuts, which fastened ribbons holding containers for packing things sent to space. Usually, the tab nut was twisted from a double bolt and flew off, and Vladimir caught it and hid it in his pocket. However, one day the astronaut did not manage to catch the nut, therefore, to his great amazement, it flew about 40 centimetres, and then suddenly turned 180 degrees across the axis of its rotation and flew farther, rotating in the same direction, but by another pole, and after about 40 more centimetres the nut turned over again. This phenomenon was so interesting to the astronaut that he installed the nut back and again twisted it. The result was the same! 
 
@@ -88,8 +88,7 @@ The next step is a bit harder. Let's imagine that the object starts out with ang
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
-
-Authors: [Nobulart](https://nobulart.com)
+2. [Nobulart](https://nobulart.com)
 
 # TODO
 

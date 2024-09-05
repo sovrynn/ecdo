@@ -2,7 +2,13 @@
 
 ![india](img/india.png "india")
 
-## Analysis
+May be spared the worst of it by the Himalayas, going from S1 to S2.
+
+Many ancient and massive pyramid like structures to be found across India, such as the Chola temples.
+
+However, real trial may be the return (S2 -> S1). [1]
+
+## Analysis [1]
 
 https://github.com/user-attachments/assets/6ab919f1-12ac-4c40-966d-5b1552d6045e
 
@@ -36,7 +42,7 @@ The approximate elevation of this area is 100m - 300m.
 
 ![india](img/nigiri.png "india")
 
-### Analysis
+### Analysis [1]
 
 ![nh1](img/nigirihills1.jpg "nh1")
 ![nh2](img/nigirihills2.jpg "nh2")
@@ -54,16 +60,8 @@ See `EVIDENCE/cataclysm-stories/india` for analysis on this.
 	- Long way inland, well protected by the Himalayas during S1 -> S2, and a minimum of 800-900km land buffering between the cities and the coast on the S2 -> S1 rotation.
 - Doddabetta Peak in Ooty
 
-## Nobulart
-
-May be spared the worst of it by the Himalayas, going from S1 to S2.
-
-Many ancient and massive pyramid like structures to be found across India, such as the Chola temples.
-
-However, real trial may be the return (S2 -> S1).
-
 ## Citations
 
-Visualization: [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)
 
-Authors: [Nobulart](https://nobulart.com)
+Visualization: [Craig Stone](https://nobulart.com)

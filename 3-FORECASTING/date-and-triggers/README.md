@@ -10,7 +10,7 @@ Possible destabilization began around 1973. See Ethical Skeptic's first thesis.
 
 Nobulart prediction: Worst case S1 -> S2 as early as mid-2030, with S2 -> S1 in 2042/3.
 
-## Nobulart
+## Solar system triggers [1]
 
 ![trigger](img/triggers1.jpg "trigger")
 ![trigger](img/triggers2.jpg "trigger")
@@ -25,7 +25,7 @@ The steady narrowing of real polar nutation [1] in apparent lockstep with the ap
 
 The data for the fourth chart is obtained from JPL's Ephemeris software: https://ssd.jpl.nasa.gov/horizons/app.html
 
-## Nobulart hypothesis
+## Solar system triggers v2 [1]
 
 I think there is certainly enough energy involved between the sun and the earth for a field inversion in the sun during a gravitational lull to be the trigger for the decoupling. As we progress towards the slip the progression must manifest as accelerated magnetic polar wander and a narrowing of average real polar nutation (due to the drift occurring between core and mantle). The heat is rising and water is an excellent medium to draw it out.
 
@@ -39,7 +39,7 @@ This shows how the gas giant orbital rhythm is locked to the grand solar minimum
 
 We have the first of one of those double-taps coming up in June 2030.
 
-## Nobulart
+## Solar system triggers v3 [1]
 
 ![x](img/jpl-horizon.jpg "")
 
@@ -81,7 +81,7 @@ There will be a historically close pass with Encke in June 2030. ±40 million km
 
 ## Citations
 
-1. [Nobulart](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)
 2. https://theskylive.com
 
 # TODO Possible Triggers
