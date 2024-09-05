@@ -72,11 +72,11 @@ Geoff Sharp, investigating the AMPs in Carl's graph, found the following:
 
 Here are other comments by Sharp on the planetary positions:
 
-*"Fig.1 shows the 2 planetary positions that create the majority of angular momentum in our solar system. "A" corresponds with the bottom of the wave in Carl's graph and "B" with the top of wave. The resonance created from large strength in "B" and near zero strength in "A" as Jupiter & Saturn balance each other out."*
+*"Fig.1 shows the 2 planetary positions that create the majority of angular momentum in our solar system. "A" corresponds with the bottom of the wave in Carl's graph and "B" with the top of wave. The resonance created from large strength in "B" and near zero strength in "A" as Jupiter & Saturn balance each other out."* [3]
 
 ![](img/sharp1.jpg)
 
-*"Fig.2 shows the 2 planetary positions capable of creating Grand Minima. "A" robbing Saturn at bottom of wave and "B" robbing Jupiter/Saturn at top of wave. Both positions responsible for the recurring "camels humps" in Carl's graph"*
+*"Fig.2 shows the 2 planetary positions capable of creating Grand Minima. "A" robbing Saturn at bottom of wave and "B" robbing Jupiter/Saturn at top of wave. Both positions responsible for the recurring "camels humps" in Carl's graph"* [3]
 
 ![](img/sharp2.jpg)
 

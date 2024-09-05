@@ -53,7 +53,7 @@ Mentioned video is `img/SSBwobble.mp4`.
 
 ## June 2030 planetary positions
 
-In June 2030, which is approximately the next Landscheidt minimum, you can see that the gas giants are approximately in line, which is what Landscheidt proposed caused solar perturbations, and is one of the two cases which Geoff Sharp stated are the most important gas giant positions.
+In June 2030, which is approximately the next Landscheidt minimum, you can see [2] that the gas giants are approximately in line, which is what Landscheidt proposed caused solar perturbations, and is one of the two cases which Geoff Sharp stated are the most important gas giant positions.
 
 ![](img/jun2030.jpeg)
 
@@ -82,6 +82,7 @@ There will be a historically close pass with Encke in June 2030. ±40 million km
 ## Citations
 
 1. [Nobulart](https://nobulart.com)
+2. https://theskylive.com
 
 # TODO Possible Triggers
 
