@@ -27,6 +27,62 @@ And here then unpleasant analogies come to mind with our Earth rotating in weigh
 
 TES hypothesis adds that the core has decoupled from the mantle, so the effect is limited to less than 180 degree flip before the outer layers find equilibrium again, and it seems that this is at 104 degrees. If the core and mantle remained locked, the flip would be 180 degrees.
 
+## Dzhanibekov flip physics explanation basics
+
+### Moment of inertia, angular momentum, and angular velocity
+
+The moment of inertia around a rotational axis can be defined as the sum of the point masses, where point mass is defined as the mass of a point times the square of the radius from the axis of rotation.
+- Unit: mass times length squared
+
+Moment of Inertia Tensor: For a rotating rigid body, the moment of inertia is represented by a tensor I which relates angular momentum L to angular velocity w by:
+- L = Iw
+- Moment of inertia tensor units: 3x3, each value has unit mass times length squared
+- Angular velocity unit: dimension of angle per unit time
+	- Angular velocity unit about 3 axes: A 3x1 vector with components along each axis
+- Angular momentum units: product of the two above units
+
+The angular momentum remains constant; so I and w remain inversely proportional as they change. In other words, the angular velocity is inversely proportional to the moment of inertia tensor.
+
+Angular velocity has dimension of angle per unit time.
+
+### Principal axes and axis of rotation
+
+Principal axes are essentially defined by the first and third principal axes. The first axis is the axis around which the moment of inertia tensor is smallest. The third, the biggest. The second is perpendicular to the previous two.
+
+Essentially, unless an object is perfectly rotating around one of its 3 principal axes, it will be undergoing dzhanibekov rotation.
+
+If you watch [this video](https://www.youtube.com/watch?v=Knpn0JBMif4) of spinning objects in space, you'll see that:
+- 0:24 - Even during the "stable rotation", the object never perfectly spins along its principal axis. It gets close but is off. This only happens when the angular momentum is close to the principal axis
+- 0:55 - When the angular momentum is not close to a principal axis (more so the first or third), it'll still dzhanibekovally rotate, but not with such a sharp "flipping" movement
+
+Mathematically, the principal axes are the axes around which the moment of inertia tensor is diagonal. For a body with moments of inertia I1, I2, and I3, these axes are the eigenaxes of the inertia tensor.
+
+### Relation between angular velocity and moment of inertia
+
+Note that if the axis of rotation is a principal axis, the angular velocity remains constant, which means the moment of inertia also remains constant.
+
+On the other hand, if the axis of rotation is not a principal axis, neither the angular velocity nor the moment of inertia will ever remain constant.
+
+Here we have a way to understand the relationship between angular momentum and angular velocity. Let's say we have 3 principal axes.
+
+If an object is spinning about its first principal axis, it will have:
+- constant angular momentum (m, 0, 0)
+- constant angular velocity (v, 0, 0)
+- constant inertia tensor
+	- (i11, 0, 0)
+	- (0, i22, 0)
+	- (0, 0, i33)
+
+But if the Earth has angular momentum close to, but not quite, on its first principal axis, it will have:
+- constant angular momentum (x, small, small)
+
+From here on out, the inertia tensor and angular velocity will both be changing. We know:
+- v1 (i11 + i12 + i13) = x
+- v2 (i21 + i22 + i23) = small
+- v3 (i31 + i32 + i33) = small
+
+The next step is a bit harder. Let's imagine that the object starts out with angular velocity (y, small, small) and use the T-handle as an example. During the flip, v2 and v3 would increase, I presume, and v1 would decrease. In order to remain the constant values, we would need to see the sum of the first row of the inertia tensor increase, and the sum of the second and third rows decrease.
+
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
@@ -35,7 +91,9 @@ Authors: [Nobulart](https://nobulart.com)
 
 # TODO
 
-do a physics breakdown
+do a physics breakdown of the 104 mediated dzhanibekov
+
+do a simple physics breakdown of 180 dzhanibekov
 
 possible assumption: rate of change starts at 0 advances to X then goes to 0, with 0 velocity at the poles (based on video of the rotation)
 
