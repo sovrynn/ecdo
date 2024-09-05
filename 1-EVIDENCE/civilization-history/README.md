@@ -4,8 +4,9 @@ Human history, cities, and structures.
 
 ## Contents
 
-- `human-built-structures`: Human-built structures, such as monuments or ancient cities, potentially related to the ECDO.
-- `oldest-cities`: Can the oldest present-day cities tell us anything about the ECDO?
+- `important-structures`: Human-built structures, such as the Khafre Pyramid, potentially related to the ECDO.
+- `destroyed-cities`: Cities that were destroyed in the past, sometimes in strange ways.
+- `oldest-cities`: The cities with the oldest history of inhabitation from present.
 
 # Analysis
 

@@ -26,7 +26,13 @@ Japan has many volcanoes [5], and is situated right on the Pacific Plate boundar
 
 ![x](img/volcanoes.png "japan volcano map")
 
-It is known to experience many earthquakes even in normal times.
+If these all erupt at the same time, spewing out ash and magma, it would likely be enough to make Japan completely inhabitable, just on its own.
+
+As for earthquakes, Japan is known to experience many earthquakes even in normal times. It would be far worse during the ECDO.
+
+## Flood Myths
+
+Japan has no major flood myths. [4] When considering such a major event as an ECDO, one may wonder why there is no major flood myth, if there were survivors to such an event, as tales would have been told about it for generations to come, and it would have significantly restructured society on the island.
 
 ## Oldest history
 
@@ -36,15 +42,11 @@ The oldest remains of human inhabitants have been traced back to at least 10,000
 
 It seems likely that humans did indeed inhabit Japan during periods long ago.
 
-## Flood Myths
-
-Japan has no major flood myths. [4] When considering such a major event as an ECDO, one may wonder why there is no major flood myth, if there were survivors to such an event, as tales would have been told about it for generations to come, and it would have significantly restructured society on the island.
-
 ## Verdict
 
 Japan has to deal with very deep Pacific Ocean chokepoints, volcanoes peppering its island, and powerful subduction plate boundaries. It's likely that Japan will face significant trials during S1 -> S2.
 
-If I had to find a region to stay in, it would be at one of the highest mountain peaks in the mid-western areas of Japan that don't have any volcanoes (see map above).
+If I had to find a region to stay in, it would be at one of the highest mountain peaks in the mid-western areas of Japan that don't have any volcanoes (see map above). But given the earthquakes, volcanoes, and Pacific Ocean water surge, it would likely be a gamble.
 
 ## Citations
 

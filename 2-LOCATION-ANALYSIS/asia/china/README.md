@@ -22,9 +22,7 @@ I predict China will have to deal with water coming from 3 major chokepoints, al
 
 China's mainland will not escape unscathed from this water.
 
-## Physical Evidence, Notable Locations
-
-### Zhangjiajie Mountains
+## Zhangjiajie Mountains
 
 Zhangjiajie mountains are a group of mountains with very interesting shape. They are tall, narrow mountain pillars.
 
@@ -48,19 +46,9 @@ The absolute goldmine work into these mountains is a 2020 research paper by Yaoh
 
 Definitely a good chance this location was created by fast-moving water/debris.
 
-### Zhoukoudian Cave (Beijing)
+## Misc Info
 
-[Zhoukoudian Cave](https://en.wikipedia.org/wiki/Zhoukoudian_Peking_Man_Site) (39.4 N, 115.5 E) is a cave in Beijing where remains of a very old (200k+ years) human predecessor was found.
-
-Surprisingly, the cave is located only at an [elevation of 128m](https://www.degruyter.com/document/doi/10.1515/char.2001.1.1.85/pdf).
-
-### Wangfujing site (Beijing)
-
-This is an archaelogical site in Beijing (39.9 N, 116.4 E) where Paleolithic Stone Age tools were found.
-
-It's only at an elevation of 50m above sea level.
-
-## Longest Inhabited Cities
+### Longest Inhabited Cities
 
 Beijing and Luoyang are the only two locations in China which have been inhabited continuously for a long time.
 
@@ -73,6 +61,18 @@ There may have been a city named Zhenxun built near present day Luoyang in 2070 
 Surprisingly, neither of them are at very high elevation:
 - Beijing is from 43.5m at the lowest, to 2303m at the highest (Mount Ling)
 - Luoyang is at 144m
+
+### Zhoukoudian Cave (Beijing)
+
+[Zhoukoudian Cave](https://en.wikipedia.org/wiki/Zhoukoudian_Peking_Man_Site) (39.4 N, 115.5 E) is a cave in Beijing where remains of a very old (200k+ years) human predecessor was found.
+
+Surprisingly, the cave is located only at an [elevation of 128m](https://www.degruyter.com/document/doi/10.1515/char.2001.1.1.85/pdf).
+
+### Wangfujing site (Beijing)
+
+This is an archaelogical site in Beijing (39.9 N, 116.4 E) where Paleolithic Stone Age tools were found.
+
+It's only at an elevation of 50m above sea level.
 
 ## Citations
 

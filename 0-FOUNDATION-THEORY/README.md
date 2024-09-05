@@ -21,6 +21,7 @@ A reader should be able to come away from this folder with an understanding of p
 - `s2`: All about S2.
 - `s2-to-s1`: S2 -> S1 rotation.
 - `tectonic-plates`: Tectonic plate interactions.
+- `volcanoes`: Volcano activity surges.
 
 # TODO
 

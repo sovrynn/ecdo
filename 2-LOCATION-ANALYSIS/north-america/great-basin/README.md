@@ -51,7 +51,7 @@ Cathedral Rock is the most well-known one. It has a peak of 1514m. [2]
 ![](img/sedona2.jpg "")
 ![](img/sedona3.jpg)
 
-These structures appear to have been created by fast moving water. In fact, there are no points at the top where the erosion seems to have stopped; the structures are have smooth rounded shapes all the way to the top.
+These structures appear to have been created by fast moving water. In fact, there are no points at the top where the erosion seems to have stopped; the structures have smooth rounded shapes all the way to the top.
 
 These would, of course, be explained by the inundation of the Great Basin, by water moving at very high speeds.
 
