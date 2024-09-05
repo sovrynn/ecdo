@@ -40,16 +40,9 @@ First check out this map of the Earth in S1. Check the equator line, which runs 
 
 ![world map](img/world-map.png "world map")
 
-Now, take a look at this sequence of screenshots that shows the approximate line of the equator after S1 to S2, starting with the eastern pivot in Indonesia (KML files in `kml-files`):
+Now, take a look at the equator in S2:
 
-![equator](img/equator1.png "new equator")
-![equator](img/equator2.png "new equator")
-![equator](img/equator3.png "new equator")
-![equator](img/equator4.png "new equator")
-![equator](img/equator5.png "new equator")
-![equator](img/equator6.png "new equator")
-![equator](img/equator7.png "new equator")
-![equator](img/equator8.png "new equator")
+![](../s2/s2.png)
 
 Note that there are now huge swaths of land on the equator - Eurasia, the Arctic, the full length of South America, Antarctica, Australia, and the shallow area around Indonesia. In fact, the only significant stretches of ocean are a slice of the Atlantic between North and South America and slices of the Pacific around Antarctica. This is in stark contrast to now, where the equator only runs through the top of South America, South Africa, and Indonesia, and a huge swath of the Pacific lies on the equator.
 
