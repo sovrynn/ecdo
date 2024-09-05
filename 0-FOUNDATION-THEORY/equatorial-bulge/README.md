@@ -10,21 +10,9 @@ Earth is an oblate spheroid due to its rotation. Earth has an equatorial bulge o
 
 Earth also has several internal layers:
 
-![earth internals](img/earth-internals.png "earth internals")
+![earth internals](../earth-inner-layers/img/earth-internals.png)
 
-These layers are of differing density, rigidity, and thickness [1]:
-- **Crust**, 2.7 - 3 g/cm^3 density, 5 - 35 km thickness (5 km oceanic crust, 35 km continental) [2]
-- **Upper mantle**, 3.3 - 4.0 g/cm^3 density, 660 km thickness
-	- **Uppermost rigid mantle**, 100 - 200 km thickness
-	- ***Asthenosphere**, semi-fluid and ductile, facilitates plate tectonics, ~300 km thickness
-	- **Transition zone**, 3.8 - 4.4 g/cm^3 density, 220 km thickness
-- **Lower mantle**, solid but flowing, 4.4 - 5.6 g/cm^3 density, 2260 km thickness
-- **Outer core**, liquid, 9.9 - 12.2 g/cm^3 density, 2180 km thickness
-- **Inner core**, solid, 12.8 - 13.1 g/cm^3 density, 1220 km thickness
-
-Total: 12.7k km
-
-These layers will likely react differently when it comes to the equatorial bulge. For example, read this analogy about the Earth's mantle: *"The memory effect in the Earth’s mantle is akin to that occurring in cold honey after a spoon creates a depression in its surface, and the honey subsequently returns to a flat surface under gravity driven viscous flow. It may take the honey as much as a half an hour to return to being flat, depending on how cold it is."* [4]
+These layers will likely react to the Earth changing its axis of rotation due to the equatorial bulge. For example, read this analogy about the plastic nature of the Earth's mantle: *"The memory effect in the Earth’s mantle is akin to that occurring in cold honey after a spoon creates a depression in its surface, and the honey subsequently returns to a flat surface under gravity driven viscous flow. It may take the honey as much as a half an hour to return to being flat, depending on how cold it is."* [2]
 
 Also note this comment from Ethical Skeptic (`LITERATURE-MEDIA/ethical-skeptic`): *"We don’t know the plastic dynamics of the mantle, asthenosphere, and lithosphere, except to note that they are all indeed plastic at 932 to 4000 degrees C. They would deform immediately. during the days of the shift. Probably not a pleasant thing, even if one was up above the flood-wash."*
 
@@ -113,7 +101,7 @@ As points on the Earth rotate closer or further away from the equator, they will
 
 I believe that changes in position on the spheroid will interact together with the tectonic plate structures to produce the final result; each location will need to be analyzed on a case-by-case basis based on the structure of the surrounding tectonic plates. Interestingly, the areas of greatest tectonic plate fracture are both located near the pivots.
 
-My analysis for the major plates follows [3]:
+My analysis for the major plates follows [1]:
 
 ![eurasia](img/eurasian-plate.webp "eurasia")
 
@@ -173,10 +161,8 @@ The points of greatest latitude change are halfway between these boundaries:
 
 ## Citations
 
-1. Earth layers: https://en.wikipedia.org/wiki/Internal_structure_of_Earth
-2. Earth crust thickness: https://www.geolsoc.org.uk/Geoscientist/Archive/August-2018/Roberts-Crust
-3. Tectonic plate maps: https://earthhow.com/category/geology/plate-tectonics/
-4. https://grace.jpl.nasa.gov/data/get-data/gia-trends/
+1. Tectonic plate maps: https://earthhow.com/category/geology/plate-tectonics/
+2. https://grace.jpl.nasa.gov/data/get-data/gia-trends/
 
 Authors: [Sovrynn](https://sovrynn.github.io)
 

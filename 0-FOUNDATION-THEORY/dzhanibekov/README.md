@@ -1,6 +1,15 @@
 # Dzhanibehov Effect
 
-This folder is for understanding the Dzhanibekov effect, which references the effect of a metal nut rotating unexpectedly when spinning in zero gravity.
+This folder is for understanding the Dzhanibekov effect, which references the effect of a metal nut switching rotational position suddenly when spinning in zero gravity.
+
+![](dzhanibekov.webp)
+
+## Ethical Skeptic quotes
+
+*"While our theory references the Dzhanibekov Effect, it is crucial to understand that Earth’s real three PIM-axis body application (see Exhibit C2 to right) diverges in part from the classical three-axis definition observed in space (Exhibit C).11 Our model does not strictly adhere to the traditional Dzhanibekov Effect definition, where an object flips 180 degrees due solely to rotational instability around its intermediate axis (Exhibit C above). Instead, we explore how similar principles could influence Earth’s rotational dynamics under different conditions, specifically,"* [1]
+1. *"a reduction in the geomagnetic coupling between the Earths’ core and its mantle as the core’s geomagnetic moment, which helps to keep the present polar rotational axis as priority, fades,"*
+2. *"destabilization caused by the Earth’s hotter mantle versus less-dense Large Low-Velocity-Shear Provinces (LLVPs), and in particular the center of low-mass in the South Africa Cusp LLVP. This core material infusion can potentially polarize the Earth’s rotational momentum, leading to significant shifts in the planet’s rotation around its maximum axis (the remaining dense mantle), and"*
+3. *"a gyroscopic 104 degrees (relative to the current polar axis, see Exhibits H and J) mediation of the Dzhanibekov effect—not the 0 to 180 degrees typically illustrated in simpler physical models (Exhibit C)."*
 
 ## Overview
 
@@ -20,4 +29,16 @@ TES hypothesis adds that the core has decoupled from the mantle, so the effect i
 
 ## Citations
 
+1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
+
 Authors: [Nobulart](https://nobulart.com)
+
+# TODO
+
+do a physics breakdown
+
+possible assumption: rate of change starts at 0 advances to X then goes to 0, with 0 velocity at the poles (based on video of the rotation)
+
+model the timeframe of tiny rotational digressions leading up to the big shift during dzhanibekov based on the fact that the major movement is 6-24 hours (anecdotally, on earth)
+
+model the rotational velocity at various stages of the dzhanibekov (I assume its greatest at the halfway point)
