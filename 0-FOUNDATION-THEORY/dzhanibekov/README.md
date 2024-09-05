@@ -88,7 +88,7 @@ The next step is a bit harder. Let's imagine that the object starts out with ang
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
-2. [Nobulart](https://nobulart.com)
+2. [Craig Stone](https://nobulart.com)
 
 # TODO
 
