@@ -14,3 +14,9 @@ Chan excerpts (tons of evidence in these):
 
 Musical harmonics:
 - https://nobulart.com/musica-vitae-et-mortis/
+
+What holds humanity back?:
+- https://nobulart.com/what-holds-mankind-back-from-confronting-the-forces-determined-to-destroy-it/
+
+Velikovsky excerpt:
+- https://nobulart.com/east-west/
