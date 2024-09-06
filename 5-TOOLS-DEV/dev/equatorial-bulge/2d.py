@@ -174,7 +174,7 @@ plt.subplots_adjust(left=0.03, bottom=0.03, right=0.97, top=0.94, wspace=0, hspa
 
 # Set the title
 # plt.subplots_adjust(left=0.03, bottom=0.03, right=0.97, top=0.87, wspace=0, hspace=0)
-plt.title('ECDO S1 -> S2 Equatorial Bulge Shift', fontsize=28, pad=20)
+plt.title('ECDO S1 -> S2 Equatorial Bulge Proximity Shift', fontsize=28, pad=20)
 
 llcrnrlat=-80
 urcrnrlat=80
@@ -326,7 +326,13 @@ def get_lat_dif(p):
 
 def get_lat_heatmap_value(p):
     delta = get_lat_dif(p)
-    return get_color_from_heatmap((delta + 90) / 180)
+    if delta > 77:
+        print(delta)
+        raise ValueError
+    if delta < -77:
+        print(delta)
+        raise ValueError
+    return get_color_from_heatmap((delta + 77) / 154)
     # return get_color_from_heatmap_abrupt((delta + 90) / 180, abrupt_cmap)
 
 def plot(kml, x, y):
@@ -368,7 +374,7 @@ for p in ps:
 cbar_ax = fig.add_axes([0.85, 0.18, 0.025, 0.56])  # for titles
 
 # Create a gradient colorbar
-norm = mcolors.Normalize(vmin=(-1 * 90), vmax=90)
+norm = mcolors.Normalize(vmin=(-1 * 76), vmax=76)
 sm = cm.ScalarMappable(cmap='turbo', norm=norm)
 sm.set_array([])
 
@@ -380,8 +386,8 @@ cbar.ax.tick_params(labelsize=12)  # Set font size for the tick labels
 
 # Add a title and labels to the colorbar (legend)
 cbar.ax.set_title('Degrees closer\n to equator', fontsize=16, pad=24)
-cbar.ax.set_yticks([-90, -60, -30, 0, 30, 60, 90])
-cbar.ax.set_yticklabels(['-90', '-60', '-30', '0', '30', '60', '90'])
+cbar.ax.set_yticks([-76, -60, -30, 0, 30, 60, 76])
+cbar.ax.set_yticklabels(['-76', '-60', '-30', '0', '30', '60', '76'])
 
     # Adjust the figure layout to ensure the colorbar is not clipped
 # plt.subplots_adjust(right=0.95)  # Adjust as needed to ensure enough space
