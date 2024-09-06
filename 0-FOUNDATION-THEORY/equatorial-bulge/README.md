@@ -2,7 +2,11 @@
 
 Exploring how Earth's equatorial bulge may interplay with the ECDO. Speculative hypothesis.
 
-## Intro
+## Contents
+
+- `kml-files`: Equator and bulge quadrant KML files.
+
+# Analysis
 
 Earth is an oblate spheroid due to its rotation. Earth has an equatorial bulge of 43 km.
 
