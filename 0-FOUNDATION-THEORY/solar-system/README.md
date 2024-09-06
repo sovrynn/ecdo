@@ -94,14 +94,6 @@ The Sun has an 11-year cycle, during which it oscillates between solar maximum a
 
 When combined with the Gleissberg cycle, you would see the Sun transitioning from local solar maximum and minimum in between its transitions to the "global" solar maximum and minimum defined by the Gleissberg cycle.
 
-## Relation to human lifespan
-
-A study of 63 million death records spanning 34 years revealed a clear relationship between average lifespan and sunspot numbers (SSN) at the time of birth. People born in months with sunspot numbers below 90 live, on average, 8-10 years (around 11%-15%) longer than those born in months with an SSN above 90.
-
-"There is a statistically significant inverse relationship between exposure to solar energy at birth and average human lifespan. Solar energy by some mechanism alters the epigenome at birth, but the effect of higher solar energy becomes apparent after the age of natural selection."
-
-https://www.sciencedirect.com/science/article/abs/pii/S1011134418305505
-
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Solar_cycle#Patterns
