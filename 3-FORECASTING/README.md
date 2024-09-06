@@ -12,6 +12,8 @@ Goal is to predict when the next ECDO will happen.
 
 Currently, the strongest piece of evidence we have for an impending ECDO event is the accelerating north pole wander. See `EVIDENCE/earth-geo-state/geomagnetic/north-pole-wander`.
 
+https://github.com/user-attachments/assets/de8d7eff-800f-4030-b428-2667cd46179e
+
 Past that, there is also exothermic core and temperature anomalies.
 
 # TODO
