@@ -43,9 +43,11 @@ However, NOAA has [published a report in December 2023](https://www.ncei.noaa.go
 
 *"This suggests that nonlinear changes in the Earth’s magnetic field have remained small over the past three years. Since 2020, the north magnetic dip pole has moved at an average speed of 41 km/yr, and the south magnetic dip pole at 9 km/yr. Neither underwent any noticeable change in direction."*
 
-## 1840 - 2019 Magnetic North Pole Wander Video
+## Alternative Magnetic North Pole Wander Video (1840 - 2019)
 
-Video at `img/npw.mp4`. It is an excellent visualization, compiled from historic observational and SWARM data. Note the apparent >270° deviation that occurred in the mid-1800's.
+Alternate magnetic north pole wander video which also shows a comparison to the scale of the Earth. Video at `img/npw.mp4`. It is compiled from historic observational and SWARM data. Note the apparent >270° deviation that occurred in the mid-1800's.
+
+https://github.com/user-attachments/assets/de8d7eff-800f-4030-b428-2667cd46179e
 
 Source: https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Magnetic_north_and_the_elongating_blob
 
