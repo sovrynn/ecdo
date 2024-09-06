@@ -8,6 +8,12 @@ Goal is to predict when the next ECDO will happen.
 - `recent-natural-disasters`: Recent natural disasters.
 - (Speculative) `shudder`: A vague potential imminent phenomenon that Ethical Skeptic referred to on social media.
 
+# Overview
+
+Currently, the strongest piece of evidence we have for an impending ECDO event is the accelerating north pole wander. See `EVIDENCE/earth-geo-state/geomagnetic/north-pole-wander`.
+
+Past that, there is also exothermic core and temperature anomalies.
+
 # TODO
 
 - investigate additional data feeds related to the ECDO such as temperature
