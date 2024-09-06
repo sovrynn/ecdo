@@ -90,6 +90,10 @@ The markers have different colors:
 
 The lines visualized by the yellow markers that connect the pivots to the red points are the boundary lines that don't change in latitude before and after the rotation.
 
+Visualizing the exact degree of equatorial bulge proximity change looks like this:
+
+![](img/bulge.png)
+
 ## My initial conclusion
 
 As points on the Earth rotate closer or further away from the equator, they will rise or fall. However, tectonic plates also need to be taken into account.
