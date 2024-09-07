@@ -19,6 +19,8 @@ Good datasets:
 See the API docs here: https://developers.google.com/earth-engine/apidocs/
 - `Map.add()`: https://developers.google.com/earth-engine/apidocs/map-add
 
+Water management guide: https://courses.spatialthoughts.com/gee-water-resources-management.html
+
 It seems you can do all kinds of things in the code editor; raise the sea level, change the contrast, add all kinds of UI elements, draw polygons, get elevation paths, etc.
 
 Apparently you can export KMZ/KML files from Google Earth Engine where you have access to a ton of datasets which is super nice.
