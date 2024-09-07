@@ -8,6 +8,7 @@ What kind of traces does water flow leave?
 - drainage patterns
 - erosion
 - sediment deposits
+- erratic stones
 
 ### Ripples
 
@@ -30,6 +31,14 @@ An absolute banger: https://www.istockphoto.com/photos/wind-erosion
 - arches national park
 
 I've put a bunch of photos into `img/`.
+
+## Erratic Stones
+
+Large stones in strange places.
+
+See `img/`.
+
+Olmstead Point, 2666 meters.
 
 ## Citations
 
