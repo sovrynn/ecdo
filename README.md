@@ -73,25 +73,35 @@ All pull requests will be reviewed to ensure they follow the contribution guidel
 
 Two ways:
 1. Use this snippet (replace `PATH` with the path to the image, for example `img/australia.jpg`). `alt` and `Title` are shown when the image fails to load and on hover, respectively:
-- `![alt](PATH "Title")`
+
+```
+![alt](PATH "Title")
+```
+
 2. Use HTML directly if you want to change the size of the image (replace `PATH` and `ALT` with desired values, as well as width):
-	- `<img src="PATH" alt="ALT" style="width:50%;"/>`
+
+```
+<img src="PATH" alt="ALT" style="width:50%;"/>`
+```
 
 For GIFs:
-- `![alt](PATH)`
+
+```
+![alt](PATH)
+```
 
 ## Repo text search (grep, find)
 
 To search for a word or phrase in the repo, use this command-line command in the top-level `ecdo` folder (Replace `WORD` with the phrase you want to search for:
 
 ```
-`grep -nr "WORD" --include="*.md" .`
+grep -nr "WORD" --include="*.md" .
 ```
 
 To search for a specific filename pattern, use:
 
 ```
-`find . -name [pattern]`
+find . -name [pattern]
 ```
 
 ## TODO sections
