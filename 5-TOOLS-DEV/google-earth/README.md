@@ -34,6 +34,7 @@ Water management guide: https://courses.spatialthoughts.com/gee-water-resources-
 ### Earth engine code snippets
 
 Just adding a point, how do you add a point?
+
 	Map.addLayer(ee.Geometry.Point([121, 0]), {color: 'red'});
 
 ### Earth Engine other notes
