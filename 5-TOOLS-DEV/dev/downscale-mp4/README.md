@@ -10,16 +10,20 @@ It scans a folder for all the MP4 files, scales down the ones that are over 10 M
 
 Might need to link the free and non-free RPM Fusion repositories, and then install ffmpeg using dnf.
 
-- sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
-- sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
-- sudo dnf update
-- sudo dnf install ffmpeg
+```
+sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
+sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+sudo dnf update
+sudo dnf install ffmpeg
+```
 
 ## Usage
 
 The input and output directories are both customizable via command line args, just pass them in as the first and second args when running the script, no dashes or extra characters.
 
-- python3 downscale-mp4.py [input dir] [output dir]
+```
+python3 downscale-mp4.py [input dir] [output dir]
+```
 
 If you don't pass one or both of them in, the script will default to the current folder.
 
