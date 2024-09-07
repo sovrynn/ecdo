@@ -10,13 +10,22 @@ You can use the script in `dev/rotational-path-kml` to generate rotation paths. 
 
 ## Google Earth Engine
 
-DEM datasets: https://developers.google.com/earth-engine/datasets/tags/dem
-- Good datasets:
-	- Macro: https://developers.google.com/earth-engine/datasets/catalog/NOAA_NGDC_ETOPO1
-	- Lidar DEM, micro: https://developers.google.com/earth-engine/datasets/catalog/JAXA_ALOS_AW3D30_V3_2
-		- Lot of detail but is quite slow to load unfortunately
-	- Google maps uses Landsat: https://developers.google.com/earth-engine/datasets/catalog/landsat
-- You can modify parameters and styles of the datasets within the little code snippets they give. For example you can change the gradient range
+### Datasets
+
+DEM datasets [here](https://developers.google.com/earth-engine/datasets/tags/dem). There actually aren't too many, particularly high-res ones for places outside of the West.
+
+Good datasets:
+- ETOPO (global 30 arcsec): https://developers.google.com/earth-engine/datasets/catalog/NOAA_NGDC_ETOPO1
+- Lidar DEM (global 30m, 1arcsec res): https://developers.google.com/earth-engine/datasets/catalog/JAXA_ALOS_AW3D30_V3_2
+	- Lot of detail but is quite slow to load unfortunately
+- USGS 1m (incomplete): https://developers.google.com/earth-engine/datasets/catalog/USGS_3DEP_1m
+- Google maps uses Landsat: https://developers.google.com/earth-engine/datasets/catalog/landsat
+
+You can modify parameters and styles of the datasets within the little code snippets they give. For example you can change the gradient range
+
+You'll find that for very close up analysis, you need 1m.
+
+### Code Documentation, Guides
 
 See the API docs here: https://developers.google.com/earth-engine/apidocs/
 - `ui.Map styles`: https://developers.google.com/maps/documentation/javascript/reference#MapTypeStyle
@@ -33,7 +42,7 @@ Water management guide: https://courses.spatialthoughts.com/gee-water-resources-
 
 ### Earth engine code snippets
 
-Just adding a point, how do you add a point?
+Just adding a point, how do you add a point? Lon comes first.
 
 ```
 Map.addLayer(ee.Geometry.Point([121, 0]), {color: 'red'});
@@ -41,6 +50,6 @@ Map.addLayer(ee.Geometry.Point([121, 0]), {color: 'red'});
 
 ### Earth Engine other notes
 
-You can place a marker to see lat/lon data. They are reversed.
+Lat/lon for markes are reversed.
 
 Apparently you can export KMZ/KML files from Google Earth Engine where you have access to a ton of datasets which is super nice.

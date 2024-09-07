@@ -22,7 +22,7 @@ ECDO displacement visualisation using V4.[1] Mega current ripples in Mauritania[
 
 ![x](img/sudan1.jpg "sudan")
 ![x](img/sudan2.jpg "sudan")
-![x](img/sudan3.jpg "sudan")
+![x](img/ripple.jpg "sudan")
 ![x](img/sudan4.jpg "sudan")
 ![x](img/sudan5.jpg "sudan")
 ![x](img/sudan6.jpg "sudan")
