@@ -42,7 +42,7 @@ That being said, it's the furthest high-elevation location from Mt. Paektu, whic
 
 ## Ulsanbawi (Seoraksan) Erratics
 
-Ulsanbawi is a large rock mountain in the Seoraksan mountains. It is situated on the east coast of Korea, bordering the massive coastal chokepoint bay, right under the border with North Korea. It has a peak of 874m, and some interesting features:
+Ulsanbawi is a large rock mountain in the Seoraksan mountains. It is situated on the east coast of Korea, bordering the massive coastal chokepoint bay, right under the border with North Korea. It has a peak of 874m [5], and some interesting features:
 
 ![](img/seoraksan.jpg)
 ![](img/seoraksan5.jpeg)
@@ -98,3 +98,4 @@ In the south of Korea, a carefully selected location on the highest points of th
 2. https://volcano.si.edu/volcano.cfm?vn=305060
 3. https://en.wikipedia.org/wiki/Mount_Myohyang
 4. https://www.volcanodiscovery.com/chuga-ryong.html
+5. https://mapcarta.com/16013170
