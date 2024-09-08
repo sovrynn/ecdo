@@ -20,7 +20,7 @@ In terms of chokepoints we see the Gulf of California, San Francisco Bay, and th
 
 ![](img/chokepoints.jpg)
 
-I already analyzed the Gulf of California, estimating that it would likely see flows of at least 1500m. However, you can see that it's not really flowing in the direction of of rotation and there's still a large chokepoint to the north. It's very likely the surge could be greater.
+I already analyzed the Gulf of California, estimating that it would likely see flows of at least 1500m (`LOCATION-ANALYSIS/north-america/great-basin`). However, you can see that it's not really flowing in the direction of of rotation and there's still a large chokepoint to the north. It's very likely the surge could be greater.
 
 ![](img/1500.png)
 
