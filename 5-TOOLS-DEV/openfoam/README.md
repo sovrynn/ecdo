@@ -2,6 +2,10 @@
 
 [CFD (Computational fluid dynamics) simulator](https://www.openfoam.com/).
 
+## AWS
+
+https://aws.amazon.com/blogs/hpc/getting-the-best-openfoam-performance-on-aws/
+
 ## Basics
 
 Using OpenFOAM has three steps:
