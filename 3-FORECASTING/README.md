@@ -14,7 +14,7 @@ Currently, the strongest piece of evidence we have for an impending ECDO event i
 
 https://github.com/user-attachments/assets/de8d7eff-800f-4030-b428-2667cd46179e
 
-Past that, there is also exothermic core and temperature anomalies.
+Past that, there are also exothermic core and temperature anomalies.
 
 # TODO
 
