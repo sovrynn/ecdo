@@ -18,11 +18,7 @@ Korea is quite hilly, with mountains running along the east, particularly in the
 
 ![profile](img/profile.png "elevation profile")
 
-## Past flow evidence
-
-From observing Korea on Google Maps and Earth, I did not find clear evidence of overtopping or flow. However, LIDAR data may be able to provide more info.
-
-## Water flow
+## Chokepoint water flow
 
 The way I see it, Korea's geography is pretty much as bad as it gets for bypassing the water flow. Its east coast essentially forms a huge chokepoint, which will force the surge coming over from Japan to flow up over the land. I predict the water will flow over Korea starting at these two areas:
 
@@ -32,6 +28,10 @@ If I had to guess, most of Korea will be inundated, with only a few areas at the
 
 ![chokepoints](img/chokepoints2.png "chokepoints")
 
+This is an 800m flood map. For reference, Mount Myohang's highest point is 1909 m. [3] I think the water flow will be an absolute minimum of 700m in the entire central chokepoint area because that's the only level at which there is enough space for the water to flow westward.
+
+![flood](img/flood.png "800m floodmap")
+
 ## Mt. Myohang
 
 Surprisingly, the cave where Dangun's parents survived a likely ECDO event is not extremely high in elevation. It's on the extremity of Korea's high elevation land, and close to Korea's main water flow-point.
@@ -39,6 +39,14 @@ Surprisingly, the cave where Dangun's parents survived a likely ECDO event is no
 ![myohang](img/myohang.png "mount myohang")
 
 That being said, it's the furthest high-elevation location from Mt. Paektu, which is promising.
+
+## Seoraksan (Seorak Mountain) Erratics
+
+Seoraksan is a mountain on the east coast of Korea, bordering the massive coastal chokepoint bay, right under the border with North Korea. It has a peak of 1700m, and also very interesting features.
+
+![](img/seoraksan.jpg)
+![](img/seoraksan5.jpeg)
+![](img/seoraksan2.jpeg)
 
 ## Volcanoes
 
@@ -80,17 +88,10 @@ This is an interesting dataset. From what I can see, it indicates that Mount Pae
 
 ## Final verdict
 
-It's not clear to me that there are any surefire large safe locations on this peninsula. It might be possible that south Korea is almost completely submerged, and almost all of the mountain range in north Korea gets completely covered in ash. In that case, a cave in Mt. Myohang, which is basically the furthest possible high point that's away from Mt. Paektu in Korea, might actually be one of the very few places that a human could survive an ECDO event in Korea under normal circumstances. There's probably some other mountain peaks that would stick out but you'd have to be right on the peaks. Without ECDO knowledge you wouldn't get much of a warning signal.
+It's not clear to me that there are any surefire safe locations on this peninsula. It might be possible that south Korea is almost completely submerged, and almost all of the mountain range in north Korea gets completely covered in ash. In that case, a cave in Mt. Myohang, which is basically the furthest possible high point that's away from Mt. Paektu in Korea, might actually be one of the very few places that a human could survive an ECDO event in Korea under normal circumstances.
 
-This is an 800m flood map. For reference, Mount Myohang's highest point is 1909 m. [3] I think the water flow will be an absolute minimum of 700m in the entire central chokepoint area because that's the only level at which there is enough space for the water to flow westward.
+Given the erratics sitting at 1700m in Seoraksan, I'd have to say that almost all of Korea would get completely washed away in the transition to S2.
 
-![flood](img/flood.png "800m floodmap")
-
-As you can see, the only significant unsubmerged chunks of land are around Mount Paektu. During the quick S1 -> S2, you might see most of central and south Korea get washed away aside from a few high mountain peaks.
-
-Probably, robust shelter on Mount Myohang or the mountain range right above or to the right of it would be the best bet for survival. Don't want to be too close to the volcano or the surge. The eastern mountains will shield not only the surge but also the wind.
-
-In the south of Korea, a carefully selected location on the highest points of the eastern mountain range, not on the easternmost side as to avoid the initial water surge and wind, would be the best bet.
 
 ## Citations
 
