@@ -50,6 +50,6 @@ Map.addLayer(ee.Geometry.Point([121, 0]), {color: 'red'});
 
 ### Earth Engine other notes
 
-Lat/lon for markes are reversed.
+Lat/lon for markers are reversed.
 
 Apparently you can export KMZ/KML files from Google Earth Engine where you have access to a ton of datasets which is super nice.
