@@ -21,7 +21,7 @@ Coloured elements are my own additions. Blue and red indicate selected reversal 
 
 ## Varved clay 13150 BP
 
-![varved clay](varve-gas-giant-cycle.jpg "varved clay")
+![varved clay](img/varve-gas-giant-cycle.jpg "varved clay")
 
 https://x.com/nobulart/status/1816565694244192663
 
