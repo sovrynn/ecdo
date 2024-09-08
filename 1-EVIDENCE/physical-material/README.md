@@ -1,9 +1,8 @@
 # Physical Material
 
-Physical materials such as large rocks, ice sheets, soil samples.
+Physical materials such as ice sheets and soil samples. Erratic rocks are in `EVIDENCE/flood-remnants`.
 
 ## Contents
 
 - `ice`: Ice.
 - `land-soil-earth`: Land and soil.
-- `large-rocks`: Large rocks - how did they end up there?

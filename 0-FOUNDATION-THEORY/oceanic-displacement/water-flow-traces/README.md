@@ -24,21 +24,11 @@ Drainage patterns [1]:
 
 ## Erosion
 
-An absolute banger: https://www.istockphoto.com/photos/wind-erosion
-- Bolnuevo, Spain
-- slot canyons
-- wave rock west virginia
-- arches national park
-
-I've put a bunch of photos into `img/`.
+Water flow leaves erosion. See `EVIDENCE/flood-remnants/erosion`.
 
 ## Erratic Stones
 
-Large stones in strange places.
-
-See `img/`.
-
-Olmsted Point, 2666 meters.
+Large stones in strange places. See `EVIDENCE/flood-remnants/large-rocks`.
 
 ## Citations
 

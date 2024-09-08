@@ -21,7 +21,6 @@ A reader should be able to come away from this folder with an understanding of p
 - `solar-system`: Solar system.
 - `earth-inner-layers`: Inner layers of the Earth.
 - `earth-material`: Material that makes up the surface of the Earth.
-- `prehistoric-civilizations`: Did prehistoric civilizations exist?
 - `tectonic-plates`: Tectonic plate interactions.
 - `volcanoes`: Volcano activity surges.
 - `equatorial-bulge`: Equatorial bulge.

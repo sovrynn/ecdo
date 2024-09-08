@@ -1,4 +1,11 @@
-# Large Rocks
+# Erratic Rocks
+
+Often attributed to glaciers.
+
+## Olmsted Point, Yosemite (2666m)
+
+![](img/olmsted1.png)
+![](img/olmsted2.jpg)
 
 ## Stonehenge
 
