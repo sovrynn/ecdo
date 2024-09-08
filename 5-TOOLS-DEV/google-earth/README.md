@@ -37,6 +37,7 @@ See the API docs here: https://developers.google.com/earth-engine/apidocs/
 
 Treasure trove - Earth engine community repo: https://github.com/google/earthengine-community
 - Tutorials here: https://github.com/google/earthengine-community/tree/master/tutorials
+- Guides, also very useful: https://github.com/google/earthengine-community/tree/master/samples/javascript/guides
 
 Water management guide: https://courses.spatialthoughts.com/gee-water-resources-management.html
 
