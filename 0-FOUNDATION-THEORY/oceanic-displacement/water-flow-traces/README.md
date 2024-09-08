@@ -38,7 +38,7 @@ Large stones in strange places.
 
 See `img/`.
 
-Olmstead Point, 2666 meters.
+Olmsted Point, 2666 meters.
 
 ## Citations
 

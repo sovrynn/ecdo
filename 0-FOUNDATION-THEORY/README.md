@@ -6,30 +6,31 @@ A reader should be able to come away from this folder with an understanding of p
 
 ## Contents
 
-**Prerequisite knowledge**:
-- `dzhanibekov`: Dzhanibekov effect.
-- `core-mantle`: Core-mantle coupling.
-- `solar-system`: Solar system.
-
 **Major ECDO content**:
 - `s1-to-s2`: S1 -> S2 rotation.
 - `why-104-31-meridian`: Why the rotation is 104 degrees along the 31 Meridian.
 - `oceanic-displacement`: Displacement of oceans and bodies of water.
-- `equatorial-bulge`: Equatorial bulge.
 
 **Minor ECDO content**:
 - `s2`: All about S2.
 - `s2-to-s1`: S2 -> S1 rotation.
+
+**Prerequisite knowledge**:
+- `dzhanibekov`: Dzhanibekov effect.
+- `core-mantle`: Core-mantle coupling.
+- `solar-system`: Solar system.
+- `earth-inner-layers`: Inner layers of the Earth.
+- `earth-material`: Material that makes up the surface of the Earth.
+- `prehistoric-civilizations`: Did prehistoric civilizations exist?
 - `tectonic-plates`: Tectonic plate interactions.
 - `volcanoes`: Volcano activity surges.
+- `equatorial-bulge`: Equatorial bulge.
 
 # TODO
 
 Prior knowledge to understand:
 - core-mantle magnetic coupling
-- Dzhanibekov effect starting with the finding of the principal axes of inertia of an object in rotation including the Earth
-    - math definition: eigenvectors of the inertia tensor
-    - inertia tensor?
+- Dzhanibekov effect
 
 ECDO phenomena to flesh out:
 - All differences between S1 and S2
@@ -38,9 +39,6 @@ ECDO phenomena to flesh out:
 - transition from S2 back to S1 (slow or fast?)
 - Verification of Ethical Skeptic's thesis (hard to know without knowing if there's any information he's not sharing)
 - why 104 degrees?
-
-- Global maps showing:
-    - the circular paths of oceanic displacement around the two pivots
 
 - Fluid dynamics simulations
 	- calculate the function of dzhanibekov rotation speed

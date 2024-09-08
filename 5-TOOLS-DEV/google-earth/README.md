@@ -18,7 +18,7 @@ Good datasets:
 - ETOPO (global 30 arcsec): https://developers.google.com/earth-engine/datasets/catalog/NOAA_NGDC_ETOPO1
 - Lidar DEM (global 30m, 1arcsec res): https://developers.google.com/earth-engine/datasets/catalog/JAXA_ALOS_AW3D30_V3_2
 	- Lot of detail but is quite slow to load unfortunately
-- USGS 1m (incomplete): https://developers.google.com/earth-engine/datasets/catalog/USGS_3DEP_1m
+- USGS 1m (incomplete, or very slow to load): https://developers.google.com/earth-engine/datasets/catalog/USGS_3DEP_1m
 - Google maps uses Landsat: https://developers.google.com/earth-engine/datasets/catalog/landsat
 
 You can modify parameters and styles of the datasets within the little code snippets they give. For example you can change the gradient range
@@ -50,6 +50,6 @@ Map.addLayer(ee.Geometry.Point([121, 0]), {color: 'red'});
 
 ### Earth Engine other notes
 
-Lat/lon for markers are reversed.
+Lat/lon for markes are reversed.
 
 Apparently you can export KMZ/KML files from Google Earth Engine where you have access to a ton of datasets which is super nice.
