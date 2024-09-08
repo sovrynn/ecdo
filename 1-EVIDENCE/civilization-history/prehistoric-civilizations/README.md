@@ -11,3 +11,7 @@ Website page [here](https://www.theancientconnection.com/megaliths/peru/ollantay
 ## Ancient Egyptian Stonework
 
 Advanced [Egyptian stonework](https://www.theglobaleducationproject.org/egypt/articles/hrdfact3.php), for which the methods of making have been lost.
+
+# TODO
+
+Khafre pyramid?

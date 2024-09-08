@@ -40,9 +40,9 @@ Surprisingly, the cave where Dangun's parents survived a likely ECDO event is no
 
 That being said, it's the furthest high-elevation location from Mt. Paektu, which is promising.
 
-## Seoraksan (Seorak Mountain) Erratics
+## Ulsanbawi (Seoraksan) Erratics
 
-Seoraksan is a mountain on the east coast of Korea, bordering the massive coastal chokepoint bay, right under the border with North Korea. It has a peak of 1700m, and also very interesting features.
+Ulsanbawi is a large rock mountain in the Seoraksan mountains. It is situated on the east coast of Korea, bordering the massive coastal chokepoint bay, right under the border with North Korea. It has a peak of 874m, and some interesting features:
 
 ![](img/seoraksan.jpg)
 ![](img/seoraksan5.jpeg)
@@ -88,10 +88,9 @@ This is an interesting dataset. From what I can see, it indicates that Mount Pae
 
 ## Final verdict
 
-It's not clear to me that there are any surefire safe locations on this peninsula. It might be possible that south Korea is almost completely submerged, and almost all of the mountain range in north Korea gets completely covered in ash. In that case, a cave in Mt. Myohang, which is basically the furthest possible high point that's away from Mt. Paektu in Korea, might actually be one of the very few places that a human could survive an ECDO event in Korea under normal circumstances.
+It's not clear to me that there are any surefire safe locations on this peninsula based on the 800m Seoraksan erratics. It might be possible that south Korea is almost completely submerged, and almost all of the mountain range in north Korea gets completely covered in ash. In that case, a cave in Mt. Myohang, which is basically the furthest possible high point that's away from Mt. Paektu in Korea, might actually be one of the very few places that a human could survive an ECDO event in Korea under normal circumstances.
 
-Given the erratics sitting at 1700m in Seoraksan, I'd have to say that almost all of Korea would get completely washed away in the transition to S2.
-
+In the south of Korea, a carefully selected location on the highest points of the eastern mountain range, not on the easternmost side as to avoid the initial water surge and wind, would be the best bet, although certainly a gamble.
 
 ## Citations
 
