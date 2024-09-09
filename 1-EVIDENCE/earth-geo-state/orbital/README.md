@@ -53,6 +53,10 @@ The geo record indicates that the length of day (axial velocity) has quite stead
 
 https://arxiv.org/pdf/2309.11479
 
+## Length of days growing shorter?
+
+https://youtu.be/7Pz7pSLrI_M?si=yTuEdZ-BwSW13Ceu
+
 ## Citations
 
 1. https://www.nature.com/articles/s41561-024-01478-2

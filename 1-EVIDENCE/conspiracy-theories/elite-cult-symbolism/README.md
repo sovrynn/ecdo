@@ -15,6 +15,10 @@ The book in question is Sitchen's The 12th Planet (Cue groans). I am a aware tha
 ![marduk](img/marduk3.jpg "marduk")
 ![marduk](img/marduk4.jpg "marduk")
 
+## Snowpiercer [1]
+
+A short chat with GPT about Snowpiercer: https://chatgpt.com/share/070e9343-c809-4d28-ae2e-96925f30acef
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

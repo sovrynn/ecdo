@@ -18,4 +18,15 @@ The Tsunami Sands of Scotland. "Recent evidence has suggested one such major eve
 
 [1] https://archive.org/details/scotlandsfirstse0000wick
 
+Found the precise unadjusted dating obtained from the Scottish tsunami sands - 5325 BC, or 7400 BP.  An exact match to the Noahic deluge on the harmonic timeline. The calibration they applied was to compensate for the presumed changes which the comet (or comets) would have caused to the ozone and C14 levels. If there was no comet, their adjustment would be unnecessary. [1,2]
+
+![](img/shetland3.jpg)
+
+Regarding the book's mention of flood elevation: "Says Castle Street, Inverness. Inverness lies between sea level and about 130m. Castle street must be about half that - around 50-60m asl at least." [2]
+
 See `LOCATION-MAPPING/europe/great-britain` for flood analysis.
+
+## Citations
+
+1. Uriel's Machine
+2. https://nobulart.com

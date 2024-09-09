@@ -58,13 +58,11 @@ Ninth century diagram of the positions of the seven planets on 18 March 816.
 
 https://en.wikipedia.org/wiki/Astronomical_chronology
 
-## Nibiru
+## Grand solar minimum
 
-Around 3700 years?
+We have at least a dozen papers predicting the GSM. To the best of my knowledge, Landscheidt stands alone in using planetary harmonics for his prediction (suggesting that the bottom of the minimum starts with the lull in 2030 and ends with the one in 2070. [1]
 
-## The Great Year
-
-3,700 years fits very neatly 7 times into the Great Year (The precession of the equinoxes).
+https://electroverse.co/11-scientific-predictions-for-the-upcoming-grand-solar-minimum/
 
 ## Chatelain's Constant of Nineveh
 
@@ -89,3 +87,9 @@ If you divide 18,508 by 24,998, you get 9254/12499 (simplified). 24,998 is a spe
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
+
+# TODO
+
+Around 3700 years?
+
+3,700 years fits very neatly 7 times into the Great Year (The precession of the equinoxes).

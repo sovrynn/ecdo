@@ -2,14 +2,9 @@
 
 Goal: Use the wandering of the North Pole to predict the progress of the ECDO event.
 
-## NOAA Data
+## North Pole Wander
 
-![north pole](img/npw1.jpg "north pole")
-![north pole](img/npw2.jpg "north pole")
-
-Courtesy of NOAA, showing that that the Np has traversed more in the past 25 years than it did in the 400 years before that. Sp is more consistent, but has similarly covered over 2000km headed in pretty much one direction.
-
-https://www.ncei.noaa.gov/maps/historical_declination/
+![](img/npw.jpg)
 
 ## North Magnetic Pole and Planetary Harmonics (1600-2024) [1]
 
@@ -35,13 +30,14 @@ Last century added on. Scale, path and orientation taken from the map here: http
 
 [1] Paleomagnetism, McElhinny & McFadden (2000) https://archive.org/details/paleomagnetismco0000mcel
 
-## NOAA December 2023 State of the Geomagnetic Field
+## NOAA Data
 
-The WMM (World Magnetic Model) gets updated once every 5 years, with the last time being in 2020. More up-to-date data is not easily found.
+![north pole](img/npw1.jpg "north pole")
+![north pole](img/npw2.jpg "north pole")
 
-However, NOAA has [published a report in December 2023](https://www.ncei.noaa.gov/sites/g/files/anmtlf171/files/2023-12/WMM_Annual_Report_2023.pdf) called "State of the Geomagnetic Field" with some analysis on the current state of the geomagnetic field. Hard copy in `hard-copies`. Following is a quote from the paper:
+Courtesy of NOAA, showing that that the Np has traversed more in the past 25 years than it did in the 400 years before that. Sp is more consistent, but has similarly covered over 2000km headed in pretty much one direction.
 
-*"This suggests that nonlinear changes in the Earth’s magnetic field have remained small over the past three years. Since 2020, the north magnetic dip pole has moved at an average speed of 41 km/yr, and the south magnetic dip pole at 9 km/yr. Neither underwent any noticeable change in direction."*
+https://www.ncei.noaa.gov/maps/historical_declination/
 
 ## Alternative Magnetic North Pole Wander Video (1840 - 2019)
 
@@ -50,6 +46,14 @@ Alternate magnetic north pole wander video which also shows a comparison to the 
 https://github.com/user-attachments/assets/de8d7eff-800f-4030-b428-2667cd46179e
 
 Source: https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Magnetic_north_and_the_elongating_blob
+
+## NOAA December 2023 State of the Geomagnetic Field
+
+The WMM (World Magnetic Model) gets updated once every 5 years, with the last time being in 2020. More up-to-date data is not easily found.
+
+However, NOAA has [published a report in December 2023](https://www.ncei.noaa.gov/sites/g/files/anmtlf171/files/2023-12/WMM_Annual_Report_2023.pdf) called "State of the Geomagnetic Field" with some analysis on the current state of the geomagnetic field. Hard copy in `hard-copies`. Following is a quote from the paper:
+
+*"This suggests that nonlinear changes in the Earth’s magnetic field have remained small over the past three years. Since 2020, the north magnetic dip pole has moved at an average speed of 41 km/yr, and the south magnetic dip pole at 9 km/yr. Neither underwent any noticeable change in direction."*
 
 ## Citations
 

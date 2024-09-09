@@ -72,3 +72,7 @@ Water flow will also fall in height as it spreads over a greater surface.
 ### Factors that are difficult to predict
 
 The exact amount of time it takes for the S1 -> S2 rotation will significantly affect the speed and result of oceanic displacement.
+
+# TODO
+
+Tsunami flood sim: https://m.youtube.com/watch?v=aHljDIDf6js&pp=ygUXb2NlYW4gdHN1bmFtaSBmbHVpZCBzaW0%3D
