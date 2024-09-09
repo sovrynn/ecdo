@@ -26,7 +26,7 @@ There will be quakes, eruptions and extreme weather due to the disruptions to th
 
 ## Citations
 
-1. [Craig Stone](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com) (Intro image as well)
 
 # TODO
 
