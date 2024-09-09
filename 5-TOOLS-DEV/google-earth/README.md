@@ -26,7 +26,7 @@ Need to check out:
 - 18 years of floods: https://developers.google.com/earth-engine/datasets/catalog/GLOBAL_FLOOD_DB_MODIS_EVENTS_V1
 
 Other datasets (verdict unclear):
-- Hydropgraphy (gradient not working??): https://developers.google.com/earth-engine/datasets/catalog/MERIT_Hydro_v1_0_1
+- Hydrography (gradient not working??): https://developers.google.com/earth-engine/datasets/catalog/MERIT_Hydro_v1_0_1
 - USGS 1m (incomplete, or very slow to load): https://developers.google.com/earth-engine/datasets/catalog/USGS_3DEP_1m
 - Google maps uses Landsat: https://developers.google.com/earth-engine/datasets/catalog/landsat
 
@@ -39,7 +39,7 @@ You'll find that for close up analysis, you need 1m.
 Treasure trove - Earth engine community repo: https://github.com/google/earthengine-community
 - Tutorials here: https://github.com/google/earthengine-community/tree/master/tutorials
 	- Start with the beginner's cookbook
-- Guides [going to have a merge conflict here]
+- Guides
 	- good stuff in image, image collections, and "getting started"
 
 #### Beginners cookbook
@@ -50,12 +50,15 @@ Data types:
 	- Geometries associated with specific properties. You can run all kinds of operations on these
 - FeatureCollection
 - Image
-	- 
 - ImageCollection
 
 Rasters are images consisting of matrixes of values representing some attribute.
 
 Rasters can have different bands, that correspond to different variables, within the same dataset.
+
+#### Guides
+
+`images01.js` shows you have to get info about image bands and metadata properties.
 
 ### Other dev resources
 

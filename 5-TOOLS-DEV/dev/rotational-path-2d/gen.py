@@ -289,25 +289,27 @@ marker_size = 10
 try:
     with open('input.txt', 'r') as file:
         # Attempt to read and process each line
-        x = float(file.readline().strip())
-        y = float(file.readline().strip())
+        x = float(file.readline().strip().split()[0])
+        y = float(file.readline().strip().split()[0])
         print(f"Rotating point ({x}, {y}).")
-        rlat = float(file.readline().strip())
-        rlon = float(file.readline().strip())
-        j = int(file.readline().strip())
+        rlat = float(file.readline().strip().split()[0])
+        rlon = float(file.readline().strip().split()[0])
+        j = int(file.readline().strip().split()[0])
         print(f"Adding {j} pairs of extra lines.")
-        k = int(file.readline().strip())
+        k = int(file.readline().strip().split()[0])
         print(f"Spacing the lines at {k} km.")
 
-        fullrot = int(file.readline().strip())
+        print('erm')
+        fullrot = int(file.readline().strip().split()[0])
+        print(fullrot)
         if fullrot not in [104, 360]:
             fullrot = 104
             raise ValueError()
-
-        t = float(file.readline().strip())
+        print('hrm')
+        t = float(file.readline().strip().split()[0])
         print(f"Using a line thickness of {t}.")
 
-        use_marker = file.readline().strip()
+        use_marker = file.readline().strip().split()[0]
         if use_marker == "n":
             print("No marker will be placed.")
         elif use_marker == "y":
@@ -316,7 +318,7 @@ try:
             use_marker = "y"
             raise ValueError()
         if use_marker == "y":
-            marker_size = float(file.readline().strip())
+            marker_size = float(file.readline().strip().split()[0])
             print(f"Using a marker size of {marker_size}.")
 
 except FileNotFoundError:

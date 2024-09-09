@@ -15,7 +15,7 @@ Then, try running the script in the command line. It'll tell you if you're missi
 
 ## Running it
 
-Once you have the dependencies installed, just run the script using python using your command line (`python3 gen.py`). You'll need to setup the input values file though.
+Once you have the dependencies installed, just run the script using python using your command line (`python3 gen.py`). You'll need to setup the input values file though. I've included a template input file `input-TEMPLATE.txt`. You'll need to rename it to use it. You can leave the comments in there, the script will ignore them.
 
 The script reads several input values from `input.txt`, each on its own line, in the following order:
 - latitude of point
@@ -27,8 +27,6 @@ The script reads several input values from `input.txt`, each on its own line, in
 - Size of the marker (Default 2.4)
 
 All the values are optional, but can only be read in order. If you want to use default values, just omit them from the input file. Note that the script will stop reading the values properly after the first omitted value.
-
-I've included a template input file `input-TEMPLATE.txt`. You'll need to rename it to use it, as well as remove the comments I added (everything after and including the `#`).
 
 ## Post-run
 

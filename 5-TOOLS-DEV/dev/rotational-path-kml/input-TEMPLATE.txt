@@ -1,7 +1,7 @@
-55.7  # Moscow's lat
-37.6  # Moscow's lon
-3     # 7 lines total, 1 main, 3 small on either side
-1000  # 1000 km between lines
-3     # medium line thickness, adjust as desired
+55.7  # lat
+37.6  # lon
+3     # number of extra lines on either side
+1000  # km distance between the lines
+3     # line thickness
 y     # 'y' to place a marker at the location, 'n' to not
 2.4   # size of the marker

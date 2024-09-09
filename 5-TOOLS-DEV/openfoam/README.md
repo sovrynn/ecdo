@@ -17,7 +17,7 @@ ECDO demands a sim with a custom terrain, and moving water/terrain. Let's see ho
 
 ## Step 1: Mesh
 
-The mesh definets the physical structures in the sim. It doesn't necessarily define fluid parameters such as volume or speed; you'd have to specify those in separate configuration files (`transportProperties`?).
+The mesh defines the physical structures in the sim. It doesn't necessarily define fluid parameters such as volume or speed; you'd have to specify those in separate configuration files (`transportProperties`?).
 
 In order to create custom terrain, we'll have to use a special kind of mesh, potentially `snappyHexMesh`. We'd have to define the terrain geometry in an STL file, potentially created by other software ie CAD software.
 

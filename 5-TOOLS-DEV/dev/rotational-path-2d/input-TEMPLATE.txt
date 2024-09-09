@@ -1,10 +1,10 @@
-30     # Khafre pyramid lat
-31     # Khafre pyramid lon
+30     # lat
+31     # lon
 20     # lat radius of the visualized region
 20     # lon radius of the visualized region
 3      # number of pairs of extra lines
 200    # km between each line
-1      # thickness of the lines
-360    # Show a 360 visualization instead of triple 104
+360    # Show a 360 visualization ('360') or triple 104 ('104')
+3      # thickness of the lines
 y      # 'y' to place a marker at the location, 'n' to not
 10     # size of the marker
