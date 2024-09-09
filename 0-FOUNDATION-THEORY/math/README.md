@@ -14,10 +14,6 @@ Converts a signal from the time domain into the frequency domain. It produces a 
 
 These are filters that only allow signals with frequencies lower/higher (respectively) than a certain cutoff frequency to pass through while reducing the amplitudes of frequencies higher/lower than the cutoff frequency. Essentially, low-pass filters reduce the strength of the high-frequency "noise", while high-pass filters will show the strength of the high-frequency "noise".
 
-### Mapping to certain special dates
-
-If you want to find some correlation between a timeseries using Fourier Filters and a special collection of dates which are effectively a binary signal...
-
 ### Signal strength
 
 The Fourier Filter breaks down the original signal into a function which maps frequency to sinusoidal components. You can find stronger signals by simply filtering for signals that have a higher amplitude and contribute more to the original values.
