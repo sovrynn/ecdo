@@ -23,6 +23,16 @@ Encke-IV-V orbital harmonic correlation over 18.5ka.
 2. https://ssd.jpl.nasa.gov/horizons/
 3. https://nobulart.com/comets-and-dragons
 
+## Encke near-Earth passes [1]
+
+Encke's near-earth passes (red lines) and Sun-SSB distance (black line), 1600-2050. Note the frequent 3.3-year pairing of near passes.
+
+![](img/encke-passes.jpg)
+
+The full Encke dataset looks like this. I filtered only the closest passes in the first chart.
+
+![](img/encke-passes2.jpg)
+
 ## Encke [1]
 
 ![encke](img/encke1.jpg "encke")

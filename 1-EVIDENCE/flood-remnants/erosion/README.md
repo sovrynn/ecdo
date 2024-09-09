@@ -22,11 +22,13 @@ Cappadocia, Turkey:
 
 Kalaat MGouna, Morocco:
 
-![]()
+![](img/kalaat-mgouna.jpg)
 
 ## Table top mountains [1]
 
-"One thing they all have in common - they look old and worn. Columns of intrusive magma exposed by the removal of softer material around them. The Alps, Himalayas, etc. all youngsters by comparison." [1]
+"One thing they all have in common - they look old and worn. Columns of intrusive magma exposed by the removal of softer material around them. The Alps, Himalayas, etc. all youngsters by comparison."
+
+"I think many "flat tops" were magma pools - not necessarily eruptive, but solidifying as hard flat topped pipes in the crust. This often leading to their flat-topped appearance when erosion clears around them." [1]
 
 More images in `img/`.
 
@@ -41,6 +43,8 @@ More images in `img/`.
 ![](img/tepu2.jpg)
 
 ## Colorado, Trappers Lake Trail
+
+![](img/trappers-lake-trail.jpg)
 
 ## Citations
 

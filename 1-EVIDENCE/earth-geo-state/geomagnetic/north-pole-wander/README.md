@@ -6,6 +6,10 @@ Goal: Use the wandering of the North Pole to predict the progress of the ECDO ev
 
 ![](img/npw.jpg)
 
+A low pass Fourier filter reveals a strong harmonic fit across all three data sets over a 33 year period. [1]
+
+![](img/fourier.jpg)
+
 ## North Magnetic Pole and Planetary Harmonics (1600-2024) [1]
 
 https://github.com/user-attachments/assets/9c74c030-b865-4beb-822a-7399062c7fdf

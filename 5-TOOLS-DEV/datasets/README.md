@@ -1,5 +1,9 @@
 # Datasets
 
+## LML (Data viz/math)
+
+- KDE LabPlot: https://labplot.kde.org
+
 ## LIDAR DEM
 
 - Huge NASA index: https://search.earthdata.nasa.gov
@@ -43,9 +47,6 @@ Google Earth Engine, integrated with Google Cloud, has the data AFAIK.
 - USGS Earth explorer: https://earthexplorer.usgs.gov/
 - Open Topography: https://portal.opentopography.org/raster?opentopoID=OTSRTM.082015.4326.1
 - Google earth engine: https://earthengine.google.com/platform
-
-## LML
-- KDE LabPlot: https://labplot.kde.org
 
 # TODO
 
