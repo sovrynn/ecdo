@@ -24,6 +24,7 @@ A reader should be able to come away from this folder with an understanding of p
 - `tectonic-plates`: Tectonic plate interactions.
 - `volcanoes`: Volcano activity surges.
 - `equatorial-bulge`: Equatorial bulge.
+- `math`: Math techniques applied in analyzing the ECDO.
 
 # TODO
 
