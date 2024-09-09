@@ -6,7 +6,9 @@ Average rotation speeds during a 6 hour rotation are clearly visible in this dia
 
 ![](../img/globe-viz.png "global rotation diagram")
 
-However, in this document, I'll be covering the methodology used to arrive at the above speeds.
+It can be difficult to imagine hourly speeds. Just try converting it to m/s and you'll get a better idea - 1200 km/h becomes 333m per second. Almost a track lap per second.
+
+What follows is the methodology used to arrive at the above speeds.
 
 ## Calculating rotational speed - trigonometry
 

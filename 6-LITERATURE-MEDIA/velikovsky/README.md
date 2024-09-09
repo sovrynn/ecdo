@@ -5,6 +5,10 @@ Worlds in Collision, Earth in Upheaval
 	- china 2300 bc flood
 - bible passages relating to ECDO
 
+## References to wind in WIC
+
+![](img/wic-wind.jpg)
+
 ## Page markers
 
 Worlds in Collision

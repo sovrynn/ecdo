@@ -58,6 +58,10 @@ Angkor Wat and Nazca lie on the great circle centred at Stonehenge (red trace). 
 
 https://www.youtube.com/watch?v=PiQL5yVpWig
 
+## Khara Hora Underground Cave
+
+https://m.youtube.com/watch?v=akmKO2pgdTY&t=2s
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

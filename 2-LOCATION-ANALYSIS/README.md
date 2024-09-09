@@ -50,9 +50,17 @@ Davolja Varos (earth towers)
 
 Chocolate Hills in Philippines
 
+## Chokepoints
+
+North Sea chokepoints, north to south: The Norwegian Trench, the Devil's holes, the Holderness coastline, the Jurassic coastline, ripples across France, the creation of the Alps, Pyrennes and the Iberian peninsula, the huge oceanic trenches to the south of UK and Ireland.
+
 ## TODO Nobulart quote
 
 Nevada and Utah are classic examples of huge flood morphology. We found current ripples in Somalia which gave a calculated water depth of 1.2km, probably the Mediterranean. Observed water levels in many places appear to be in agreement with theorized movement of water. The ripples I’ve seen in France, USA, South America and Australia suggest water MUCH deeper than Somalia. Definitely 3-4km and more in places.
+
+## Countour maps
+
+Many excellent contour maps linked here: https://x.com/SunWeatherMan/status/1830716258092011999?s=19
 
 ## TODO heuristics for evaluating locations
 
