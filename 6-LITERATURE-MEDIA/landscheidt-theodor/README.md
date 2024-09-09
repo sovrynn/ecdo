@@ -14,6 +14,19 @@ Sources recommended:
 - Sun Earth Man
 - Search Annaś for papers by Theodor Landscheidt, Nicola Scafetta, Geoff Sharp and Carl Smith. Many linked from https://landscheidt.info
 
+## Sun-Earth-Man Excerpt [1]
+
+![landscheidt](img/landscheidt1.jpg "landscheidt")
+![landscheidt](img/landscheidt2.jpg "landscheidt")
+![landscheidt](img/landscheidt3.jpg "landscheidt")
+![landscheidt](img/landscheidt4.jpg "landscheidt")
+
+A prediction from 1988, based in planetary and solar harmonics: "The extrema in the secular wave of IOT [Impulses of Torque on the sun from the gas giants] can be taken to constitute a smoothed supersecular wave with a quasi-period of 391 years. This long wave points to indications that secular and supersecular sunspot minima are related to variations in climate. Thus a prolonged period of colder climate is about to be initiated by the secular minimum past 1990, will reach its deepest point around the supersecular minimum in 2030, and come to an end about 2070." - Sun-Earth-Man, Theodor Landscheidt (1988)
+
+In the heliophysics community Landscheidt's name is well known - there was (and still is) a great deal of support to name this minimum the Landscheidt Minimum. His work complements that of Alexander Chizhevsky, Nicola Scarfetta, Geoff Sharp and Carl Smith. Collectively they have pretty much conclusively identified the relationship between climate cycles (and many other things) and the movements of the gas giants. Their work remains pretty well hidden to this day as it would destroy AGW in an open debate.
+
+And heliobiology, which was Chizhevsky's preferred area - the physical and behavioral effects of solar and cosmic cycles on living things.
+
 ## Sun Earth Man synopsis quotes
 
 Page numbers cited in brackets.
@@ -99,6 +112,10 @@ The smaller numbers underneath point to a connection with the period of the trip
 There is one constant in the diversity of motives and their variation in the morphology of the Julia sets: the Mandelbrot set itself, which appears again and again in different sizes but always in the same form. One has to think of the genetic organisation in higher organisms: each cell contains the complete genome, the totality of all forms of expression, but at any point in the organism only a small selection actually is expressed. [84]
 
 The reader should hold in mind that all these fascinating qualities emerge from simple feed-back cycles that can be found, too, in the relative motion of cosmic bodies in the solar system. Beyond the mathematical complexity of the Mandelbrot set its aesthetic appeal should not be forgotten. [86]
+
+## Citations
+
+1. https://nobulart.com
 
 # TODO
 
