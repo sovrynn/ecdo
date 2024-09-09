@@ -18,6 +18,7 @@ Good datasets:
 - ETOPO (global 30 arcsec): https://developers.google.com/earth-engine/datasets/catalog/NOAA_NGDC_ETOPO1
 - Lidar DEM (global 30m, 1arcsec res): https://developers.google.com/earth-engine/datasets/catalog/JAXA_ALOS_AW3D30_V3_2
 	- Lot of detail but is quite slow to load unfortunately
+- Copernicus: https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_DEM_GLO30
 
 Need to check out:
 - Drainage: https://developers.google.com/earth-engine/datasets/catalog/WWF_HydroSHEDS_03DIR
