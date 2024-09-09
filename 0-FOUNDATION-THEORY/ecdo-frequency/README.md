@@ -2,6 +2,10 @@
 
 Goal: Predict how frequent the ECDO event is.
 
+## Contents
+
+- `date-anomalies`: Dating anomalies and calendar changes.
+
 ## Current Hypothesis - 3700 years
 
 The current hypothesis is that the ECDO may occur approximately every 3700 years. Note that there is uncertainty in many of these dates.

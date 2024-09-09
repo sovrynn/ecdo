@@ -10,6 +10,7 @@ A reader should be able to come away from this folder with an understanding of p
 - `s1-to-s2`: S1 -> S2 rotation.
 - `why-104-31-meridian`: Why the rotation is 104 degrees along the 31 Meridian.
 - `oceanic-displacement`: Displacement of oceans and bodies of water.
+- `ecdo-frequency`: Predicting ECDO frequency.
 
 **Minor ECDO content**:
 - `s2`: All about S2.

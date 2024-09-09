@@ -18,9 +18,5 @@ All manner of potential evidence for ECDO events.
 - `earth-geo-state`: Earth's geological state, including geomagneticism and climate.
 - `solar-system`: The solar system.
 
-**Temporal**:
-- `frequency`: Predicting ECDO frequency.
-- `date-anomalies`: Dating anomalies and calendar changes.
-
 **Misc**:
 - `conspiracy-theories`: Elite and government entities. Occult theories.
