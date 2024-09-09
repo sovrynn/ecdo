@@ -32,6 +32,8 @@ I've added the Earth's polar motion (1973-2024) to a sub-period of the previous 
 
 ## North Magnetic Pole and Planetary Harmonics (1600-2024) [1]
 
+https://github.com/user-attachments/assets/7e944cb3-9ccd-45a8-a217-8136d9bc2465
+
 https://github.com/user-attachments/assets/9c74c030-b865-4beb-822a-7399062c7fdf
 
 North Magnetic Pole and Planetary Harmonics (1600-2024). Could the planets be influencing Earth's magnetic dipole? Observed NMP path deviations are marked in white. Deviations >270° in pink. Significant velocity changes are in green. I've also marked several key events during the last century on this timeline which may have been catalyzed by observations of the rapidly accelerating magnetic reversal (or excursion). Preparing for pole shifts requires a lot of money. Wars are extremely profitable, both financially and technologically. Having the freedom to print cash out of thin air even more so.
