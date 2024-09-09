@@ -25,6 +25,10 @@ Stone depiction in Khufu south air shaft was carved around 9,200 BC. This is ver
 
 https://www.ancient-origins.net/ancient-places-asia/derinkuyu-0073
 
+## Underground cities: Kaymakli, Ozkonak
+
+https://cappadociatravelpass.com/a-cappadocian-mystery-kaymakli-underground-city
+
 ## Babylon
 
 *"The walls of the mighty Babylon and the eight-volved Tower of Babel or cloud-encompassed Bel were never constructed to resist any mortal foe. NO. Those city walls, which were 60 miles in circumference, 200 feet high, 578 feet thick, were not made to defy the strength of armies, but to resist the fearful forces of Nature, the floods that swept the plains of Shinar, from the mountains of Armenia, every spring during this Age of Horror. The tremendous embankments and river walls constructed by the Ancients are monuments of human skill and enterprise belonging to an epoch that antedates by thousands of years the Age of their supposed builders."* - Thomas H. Burgoyne, The Light of Egypt - Vol. I (1889)

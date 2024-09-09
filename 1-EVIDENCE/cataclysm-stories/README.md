@@ -4,25 +4,13 @@ This folder is for myths, stories, and accounts of floods and cataclysms.
 
 See `EVIDENCE/bible` for Bible flood myths.
 
-## Contents
-
-- `cataclysm-allan-declair`: Analysis of a large cataclysm compilation.
-- `hard-copies`: Hard copies of flood myth compilations.
-
 ## Sources
 
 - Massive flood myth compilation: https://talkorigins.org/faqs/flood-myths.html (Hard copy in `hard-copies`)
 - Allan and Dellair's Cataclysm: https://archive.org/details/cataclysmcompell00alla
+- Uriel's Machine (`LITERATURE/uriel`)
 
-## Uriel's Machine
-
-Uriel's Machine is dense. Every page contains gems. See `img/uriel1.pdf`.
-
-https://annas-archive.org/md5/3a6852245dd6f4f84e095532cb22cd58
-
-![x](img/uriel.jpg "")
-
-# TODO leads to look into
+# TODO
 
 Organize myths by date here.
 

@@ -11,8 +11,8 @@ Organization of the repo is mainly done through self-explanatory directory/file 
 ## Contents
 
 Major folders:
-- `0-FOUNDATION-THEORY`: Prerequisite knowledge, scientific theories, and in-depth breakdown of the ECDO thesis.
-- `1-EVIDENCE`: A monolithic folder for all ECDO evidence.
+- `0-FOUNDATION-THEORY`: Scientific knowledge, theories, and in-depth breakdown of the ECDO thesis.
+- `1-EVIDENCE`: A monolithic folder for FACTUAL evidence.
 
 Minor folders:
 - `2-LOCATION-ANALYSIS`: Location-specific flood and ECDO analysis.

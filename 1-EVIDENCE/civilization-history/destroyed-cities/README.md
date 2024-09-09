@@ -2,6 +2,8 @@
 
 ## Middle Eastern cities destroyed by fire circa 1700 BC, Late Bronze Age collapse (1200 BC)
 
+Cappadocia
+
 ChatGPT list (need to investigate):
 - Ugarit (Syria),  1200 BC
 - Mycenaean Cities (Greece) 1200 BC
