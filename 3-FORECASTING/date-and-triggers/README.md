@@ -52,6 +52,10 @@ The yellow chart is generated from JPL's Horizons data. It shows the Sun's displ
 
 Mentioned video is `img/SSBwobble.mp4`.
 
+## Nobulart quote
+
+I don’t know what the date might be. If two magnets are twisted relative to one another, the field will flip after about 40 degrees of rotation. The Earth’s north magnetic pole has deviated by roughly 30 degrees between 1900 and 2024 and is accelerating. I strongly suspect that the decoupling might occur if the field flips (even briefly and returns to its current orientation). To me the known and observable rhythm of the planets is the only potentially accurate predictive tool we have. All that is to be done is to decode the coupled rhythms which we can now see exist between the earth, sun and other planets, and we may have unlocked all manner of precise prediction for quakes, volcanic activity, climate shifts, weather anomalies, space weather etc. This theory brings the entire thing together as a complete system which is rhythmic and predictable, and based entirely in observable, confirmable phenomena... Whilst recorded dates are often useful for confirmations, this issue is not really relevant to my research because it deals in geophysical ages as recorded by the Earth every time it goes around the sun, and in the highly predictable movements of the planets. As an interesting note - according to my harmonic theory as it stands now - disturbances are most likely to occur during periods of planetary equilibrium, the opposite state to alignments (where we observe multiple bodies in the same area of the sky). During moments of equilibrium the four giants are all in balanced opposition spread out around the sun. Next one is 2030. One after that is 2070.
+
 ## June 2030 planetary positions, gravitational null?
 
 In June 2030, which is approximately the next Landscheidt minimum, you can see [2] that the gas giants are approximately in line, which is what Landscheidt proposed caused solar perturbations, and is one of the two cases which Geoff Sharp stated are the most important gas giant positions.

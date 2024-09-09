@@ -82,3 +82,7 @@ Curious on the difference between 1700 BC and 1300-1200 BC dating for some of th
 "Ancient Superhighways: 12,000-Year-Old Massive Underground Tunnels Stretch From Scotland To Turkey": https://ancient-archaeology.com/2024/05/ancient-superhighways-12000-year-old-massive-underground-tunnels-stretch-from-scotland-to-turkey/
 
 Search for (ancient) underground cities
+
+Vrtra Underground Pyramid, Alaska http://www.human-resonance.org/Vrtra_Underground_Pyramid.pdf
+
+Bosnian Pyramids

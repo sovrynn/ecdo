@@ -74,3 +74,5 @@ If you divide 18,508 by 24,998, you get 9254/12499 (simplified). 24,998 is a spe
 Around 3700 years?
 
 3,700 years fits very neatly 7 times into the Great Year (The precession of the equinoxes).
+
+Geoff Sharp convo about 2400 solar cycle: https://judithcurry.com/2016/09/20/impact-of-the-2400-yr-solar-cycle-on-climate-and-human-societies/

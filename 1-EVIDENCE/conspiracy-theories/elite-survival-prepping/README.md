@@ -8,6 +8,10 @@ Evidence of elites preparing for... something.
 
 [1] https://www.businessinsider.com/billionaire-doomsday-preppers-escape-plans-2017-6
 
+Other similar links:
+- https://youtu.be/uQin210ZBAQ
+- https://www.vice.com/en/article/billionaires-are-building-luxury-bunkers-to-escape-doomsday/
+
 ## Denver, Colorado Airport cult conspiracy theories
 
 Colorado happens to be one of the areas in America that will likely be safe during S1 -> S2.

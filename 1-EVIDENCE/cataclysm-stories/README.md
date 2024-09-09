@@ -10,6 +10,10 @@ See `EVIDENCE/bible` for Bible flood myths.
 - Allan and Dellair's Cataclysm: https://archive.org/details/cataclysmcompell00alla
 - Uriel's Machine (`LITERATURE/uriel`)
 
+## Talkorigins excerpt
+
+An uncommonly specific description of cataclysmic geological process: "The king of the water demons fell in love with the woman Ngai-ti (Loved One). She rejected him and ran away. He pursued and surrounded the whole human race with water on the hill Phun-lu-buk, said to be in the far northeast. Threatened by waters which continued to rise, the people threw Ngai-ti into the flood, which then receded. **The receding water carved great valleys**; until then, the earth had been level." [Gaster, p. 97]
+
 # TODO
 
 Organize myths by date here.

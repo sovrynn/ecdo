@@ -4,6 +4,11 @@ https://github.com/user-attachments/assets/eecae3f0-8dab-41db-868f-7a1819f490a5
 
 See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the high-res visualization.
 
+## Earth Engine DEM
+
+![](img/north-africa1.jpg)
+![](img/north-africa2.jpg)
+
 ## Overview [1]
 
 ECDO displacement visualisation using V4.[1] Mega current ripples in Mauritania[2] and and teardrop island erosion[3] and more ripples in Sudan[4][5] indicating flows over 1 km deep.[6] Northern Africa has a fairly rich collection of flood 'myths': "The sun once met the moon and threw mud at it, making it dimmer. There was a flood when this happened. Men put their milk stick behind them and were turned into monkeys. The present race of men is a recent creation." - Lower Congo flood story.[7]
