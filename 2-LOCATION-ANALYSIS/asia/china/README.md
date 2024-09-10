@@ -7,8 +7,8 @@ China, while having a very large stretch of very high elevation land, still has 
 Beijing rotates to the end of the yellow line during S1 -> S2.
 
 ![](img/copernicus.png)
-
-![china](img/china-elevation-1.png "china elevation")
+![](img/etopo.jpg)
+![](img/china-2d.png)
 
 https://github.com/user-attachments/assets/4757ef9a-c6b8-4a11-be43-70da19bdab3d
 
@@ -23,30 +23,6 @@ I predict China will have to deal with water coming from 3 major chokepoints, al
 ![x](img/chokepoints.png "china ocean chokepoints")
 
 China's mainland will not escape unscathed from this water.
-
-## Zhangjiajie Mountains
-
-Zhangjiajie mountains are a group of mountains with very interesting shape. They are tall, narrow mountain pillars.
-
-<img src="img/zhangjiajie-map.png" alt="zhangjiajie" style="width:60%;"/>
-
-![zhangjiajie](img/zhangjiajie.jpg "zhangjiajie")
-![zhangjiajie](img/zhangjiajie2.jpg "zhangjiajie")
-<img src="img/zhangjiajie3.jpg" alt="zhangjiajie" style="width:50%;"/>
-
-The mountains lie at an average elevation of over 1000m.
-
-"Zhangjiajie Sandstone Peak Forest Geopark in north-west Hunan Province, China, contains more than 3,100 natural pillars, columns and peaks made of quartz sandstone. More than 1,000 of them soar above 120 metres (393 feet) tall, and 45 reach over 300 metres (984 feet)."
-
-This is what the terrain looks like, from Google Maps:
-
-![terrain](img/zhangjiajie-terrain.png "zhangjiajie")
-
-The pillars are of quartz-sandstone pillars and [resemble kartz terrain](https://en.wikipedia.org/wiki/Zhangjiajie_National_Forest_Park). Supposedly they were created from [sea erosion 380 million years ago](http://www.chinatoday.com.cn/ctenglish/se/txt/2009-01/21/content_175438.htm).
-
-The absolute goldmine work into these mountains is a 2020 research paper by Yaohuang Li proposing ocean erosion as the main cause of these structures. Check `research-papers/Zhangjiajie-sea-erosion.pdf` to read it.
-
-Definitely a good chance this location was created by fast-moving water/debris.
 
 ## China Karst Landscapes
 
@@ -79,23 +55,29 @@ Lijiang River:
 
 ![](img/lijiang.jpg)
 
-ChatGPT:
-- Guilin and Yangshuo:
-	- Li River
-		- Elephant Trunk Hill
-		- Reed Flute Cave
-- Zhangjiajie
-- Fengjie
-- Shilin
-- Jingxi (Guangxi)
-- Lijiang
-	- Jade Dragon Snow Mountain
-- Guizhou
-	- Libo Karst
-	- Anshun
-		- Huangguoshu Waterfall
-- Tengchong
-- Yungui Plateau
+## Zhangjiajie Mountains
+
+Zhangjiajie mountains are a group of mountains with very interesting shape. They are tall, narrow mountain pillars.
+
+<img src="img/zhangjiajie-map.png" alt="zhangjiajie" style="width:60%;"/>
+
+![zhangjiajie](img/zhangjiajie.jpg "zhangjiajie")
+![zhangjiajie](img/zhangjiajie2.jpg "zhangjiajie")
+<img src="img/zhangjiajie3.jpg" alt="zhangjiajie" style="width:50%;"/>
+
+The mountains lie at an average elevation of over 1000m.
+
+"Zhangjiajie Sandstone Peak Forest Geopark in north-west Hunan Province, China, contains more than 3,100 natural pillars, columns and peaks made of quartz sandstone. More than 1,000 of them soar above 120 metres (393 feet) tall, and 45 reach over 300 metres (984 feet)."
+
+This is what the terrain looks like, from Google Maps:
+
+![terrain](img/zhangjiajie-terrain.png "zhangjiajie")
+
+The pillars are of quartz-sandstone pillars and [resemble kartz terrain](https://en.wikipedia.org/wiki/Zhangjiajie_National_Forest_Park). Supposedly they were created from [sea erosion 380 million years ago](http://www.chinatoday.com.cn/ctenglish/se/txt/2009-01/21/content_175438.htm).
+
+The absolute goldmine work into these mountains is a 2020 research paper by Yaohuang Li proposing ocean erosion as the main cause of these structures. Check `research-papers/Zhangjiajie-sea-erosion.pdf` to read it.
+
+Definitely a good chance this location was created by fast-moving water/debris.
 
 ## Misc Info
 
@@ -140,3 +122,21 @@ Zhangjiajie:
 Things to look into:
 - historical sites
 - interesting mountain ranges
+
+ChatGPT Karst:
+- Guilin and Yangshuo:
+	- Li River
+		- Elephant Trunk Hill
+		- Reed Flute Cave
+- Zhangjiajie
+- Fengjie
+- Shilin
+- Jingxi (Guangxi)
+- Lijiang
+	- Jade Dragon Snow Mountain
+- Guizhou
+	- Libo Karst
+	- Anshun
+		- Huangguoshu Waterfall
+- Tengchong
+- Yungui Plateau
