@@ -48,3 +48,5 @@ Legend:
 Use geodesic, not great_circle, from geopy.
 
 Automatically centers the view on the point using LookAt KML tag.
+
+On Google Earth Engine, these MKL files wrap around due to the 180 meridian being crossed. So, I made a new version of the script `earthengine.py` that fixes that.

@@ -89,6 +89,8 @@ Lat/lon for markes are reversed.
 
 Apparently you can export KMZ/KML files from Google Earth Engine where you have access to a ton of datasets which is super nice.
 
-## Other Tools
+## Converting KML to Shapefile (For Earth Engine)
 
-geojson.io converts KML to other formats
+- geojson.io fails on Google Earth Engine
+- https://mygeodata.cloud/converter/ works but only 3 free uses
+- `ogr2ogr -f "ESRI Shapefile" output_directory input_file.kml`
