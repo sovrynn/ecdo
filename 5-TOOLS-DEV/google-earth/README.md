@@ -31,6 +31,8 @@ Other datasets (verdict unclear):
 - USGS 1m (incomplete, or very slow to load): https://developers.google.com/earth-engine/datasets/catalog/USGS_3DEP_1m
 - Google maps uses Landsat: https://developers.google.com/earth-engine/datasets/catalog/landsat
 
+China 1m: https://zenodo.org/records/8214871
+
 You can modify parameters and styles of the datasets within the little code snippets they give. For example you can change the elevation range to get closer detail in a smaller range. You can also change the colors.
 
 You'll find that for close up analysis, you need 1m.

@@ -23,7 +23,7 @@ NOAA dataset index: https://www1.ncdc.noaa.gov/pub/data/
 North pole wander: https://ncei.noaa.gov/products/wandering-geomagnetic-poles
 - No idea how up to date this one is, the data goes to 2025 which is in the future. I believe some of the data is projected, not real
 
-## ESA Swarm
+## ESA Swarm (satellite cluster gathering geomagnetic data)
 
 Swarm is a European Space Agency mission to study the Earth's magnetic field.
 

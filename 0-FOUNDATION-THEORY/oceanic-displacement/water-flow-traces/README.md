@@ -14,6 +14,8 @@ What kind of traces does water flow leave?
 
 ![](img/ripple.jpg)
 
+Giant current ripples: https://en.wikipedia.org/wiki/Giant_current_ripples
+
 ## Drainage Patterns
 
 See `hard-copies/Drainage-Patterns.pdf`. [2]

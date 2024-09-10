@@ -11,6 +11,7 @@ I've put a bunch of photos into `img/`. Just to show a few:
 Coyote Buttes North, Arizon:
 
 ![](img/coyote-buttes-north-arizona.jpg)
+![](img/vermillion-cliffs-arizona.jpg)
 
 Arches National Park, Utah:
 
