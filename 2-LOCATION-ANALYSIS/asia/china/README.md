@@ -86,6 +86,7 @@ May just be sand dunes. Coords (40, 86.3).
 
 ![](img/dunes.png)
 ![](img/dunes2.png)
+![](img/dunes3.png)
 
 ### Longest Inhabited Cities
 
