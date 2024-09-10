@@ -36,6 +36,8 @@ There is also a discrepancy between 1700 BC and the 1200 BC Late Bronze Age coll
 
 https://rumble.com/v2867gx-melted-cappadocia-meltology-shorts.html
 
+![](img/cappadocia.jpg)
+
 ### Kultepe/Khanesh (Turkey), 1750 BC
 
 It seems the Hittites were the people who lived in Turkey from the early 2nd millenium BC, reaching their peak during the mid-14th century BC. Looking at what happened during 1700 BC: *"sometime in 1710–1705 BC, Kanesh was destroyed".*
