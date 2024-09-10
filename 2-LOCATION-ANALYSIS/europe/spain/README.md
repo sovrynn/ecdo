@@ -50,7 +50,7 @@ Not on the list of well-known karst areas, but found some interesting pictures [
 
 ## Safe locations?
 
-The volume of water
+I'd probably go with a carefully selected location in Pyrenees.
 
 ## Citations
 
