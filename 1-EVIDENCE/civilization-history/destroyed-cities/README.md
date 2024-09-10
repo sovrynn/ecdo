@@ -2,8 +2,6 @@
 
 ## Middle Eastern cities destroyed by fire circa 1700 BC, Late Bronze Age collapse (1200 BC)
 
-Cappadocia
-
 ChatGPT list (need to investigate):
 - Ugarit (Syria),  1200 BC
 - Mycenaean Cities (Greece) 1200 BC
@@ -33,6 +31,10 @@ ChatGPT list of extreme high temperature burning:
 What's interesting is that (at least according to ChatGPT) these weren't wooden cities. The cities of this time in this area were built used baked brick and mudbrick construction. How can entire cities built from such material burn?
 
 There is also a discrepancy between 1700 BC and the 1200 BC Late Bronze Age collapse. Assuming the dates are not intentionally fudged, these may have been separate events, although likely not unrelated.
+
+### Cappadocia Melted?
+
+https://rumble.com/v2867gx-melted-cappadocia-meltology-shorts.html
 
 ### Kultepe/Khanesh (Turkey), 1750 BC
 

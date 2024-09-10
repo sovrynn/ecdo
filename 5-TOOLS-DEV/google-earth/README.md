@@ -88,3 +88,7 @@ Map.addLayer(ee.Geometry.Point([121, 0]), {color: 'red'});
 Lat/lon for markes are reversed.
 
 Apparently you can export KMZ/KML files from Google Earth Engine where you have access to a ton of datasets which is super nice.
+
+## Other Tools
+
+geojson.io converts KML to other formats

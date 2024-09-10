@@ -65,6 +65,13 @@ Google search tricks:
 
 SearXNG metasearch: https://searx.nobulart.com
 
+## AI
+
+- ChatGPT, obviously
+- Can reference a repo with AI chat: uncensored.chat, venice.ai
+- Cursor AI software development
+- Afforai - AI Research assistant and chatbot: https://afforai.com
+
 ## Misc
 
 Youtube video download: [yt-dlp](https://github.com/yt-dlp/yt-dlp)
