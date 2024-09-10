@@ -38,6 +38,10 @@ Candelada Avila [3] (just under Sierra de Gredos):
 
 ![](img/candelada-avila.webp)
 
+Ronda:
+
+![](img/ronda.jpg)
+
 ## Slopes into the highest areas
 
 Pico de Europa:
