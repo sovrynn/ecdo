@@ -6,6 +6,8 @@ China, while having a very large stretch of very high elevation land, still has 
 
 Beijing rotates to the end of the yellow line during S1 -> S2.
 
+![](img/copernicus.png)
+
 ![china](img/china-elevation-1.png "china elevation")
 
 https://github.com/user-attachments/assets/4757ef9a-c6b8-4a11-be43-70da19bdab3d
@@ -45,6 +47,55 @@ The pillars are of quartz-sandstone pillars and [resemble kartz terrain](https:/
 The absolute goldmine work into these mountains is a 2020 research paper by Yaohuang Li proposing ocean erosion as the main cause of these structures. Check `research-papers/Zhangjiajie-sea-erosion.pdf` to read it.
 
 Definitely a good chance this location was created by fast-moving water/debris.
+
+## China Karst Landscapes
+
+https://whc.unesco.org/en/list/1248/
+
+![](img/karst.jpg)
+
+- Wulong Karst - Qingkou Giant Doline (Tiankeng)
+- Wulong Karst - Three Natural Bridges
+- Wulong Karst - Furong Cave
+- Jinfoshan Karst
+- Shibing Karst
+- Libo Karst - 'Xiaoqijong'
+- Libo Karst - 'Dongduo'
+- Guilin Karst - Putao Fenling Karst
+- Guilin Karst - Lijiang Fengcong Karst
+- Shilin Karst - Naigu Stone Forest
+- Shilin Karst - Suogeyi Village
+
+Naigu Stone Forest (1625-1900m elevation, 20-40m tall):
+
+![](img/naigu.jpg)
+
+Wulong:
+
+![](img/wulong1.jpeg)
+![](img/wulong2.jpg)
+
+Lijiang River:
+
+![](img/lijiang.jpg)
+
+ChatGPT:
+- Guilin and Yangshuo:
+	- Li River
+		- Elephant Trunk Hill
+		- Reed Flute Cave
+- Zhangjiajie
+- Fengjie
+- Shilin
+- Jingxi (Guangxi)
+- Lijiang
+	- Jade Dragon Snow Mountain
+- Guizhou
+	- Libo Karst
+	- Anshun
+		- Huangguoshu Waterfall
+- Tengchong
+- Yungui Plateau
 
 ## Misc Info
 
