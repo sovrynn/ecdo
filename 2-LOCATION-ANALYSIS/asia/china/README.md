@@ -6,8 +6,8 @@ China, while having a very large stretch of very high elevation land, still has 
 
 Beijing rotates to the end of the yellow line during S1 -> S2.
 
-![](img/copernicus.png)
 ![](img/etopo.jpg)
+![](img/copernicus.png)
 ![](img/china-2d.png)
 
 https://github.com/user-attachments/assets/4757ef9a-c6b8-4a11-be43-70da19bdab3d
