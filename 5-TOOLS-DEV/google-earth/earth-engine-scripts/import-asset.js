@@ -10,7 +10,6 @@ print('Feature Collection:', featureCollection);
 // Define visualization parameters
 var visParams = {
   color: 'red',
-  pointSize: 5
 };
 
 // Add the feature collection to the map

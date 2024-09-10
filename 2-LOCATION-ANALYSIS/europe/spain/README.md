@@ -42,6 +42,10 @@ Ronda:
 
 ![](img/ronda.jpg)
 
+You also have Carcavas de Marchal, in the Sierra Nevada:
+
+![](img/carcavas.jpg)
+
 ## Slopes into the highest areas
 
 Pico de Europa:
@@ -59,6 +63,10 @@ Sierra Nevada:
 ## Safe locations?
 
 I'd probably go with a carefully selected location in Pyrenees.
+
+You also have Sierra Nevada in the south (500m (blue) to 3000m viz):
+
+![](img/sierra.png)
 
 ## Citations
 

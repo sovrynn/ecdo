@@ -91,6 +91,6 @@ Apparently you can export KMZ/KML files from Google Earth Engine where you have 
 
 ## Converting KML to Shapefile (For Earth Engine)
 
-- geojson.io fails on Google Earth Engine
-- https://mygeodata.cloud/converter/ works but only 3 free uses
 - `ogr2ogr -f "ESRI Shapefile" output_directory input_file.kml`
+- https://mygeodata.cloud/converter/ works but only 3 free uses
+- geojson.io fails on Google Earth Engine
