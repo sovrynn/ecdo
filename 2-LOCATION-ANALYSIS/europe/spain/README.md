@@ -39,7 +39,7 @@ Sierra Nevada:
 
 ## Sierra de Gredos
 
-Not on the list of well-known karst areas, but found some interesting pictures [2]:
+Not on the list of well-known karst areas, but found some interesting pictures. Los Galayos, and [2]:
 
 ![](img/los-galayos-sierra-de-gredos.jpg)
 ![](img/sierra-de-gredos.webp)
