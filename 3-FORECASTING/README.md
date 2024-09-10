@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/de8d7eff-800f-4030-b428-2667cd46179e
 
 Past that, there are also exothermic core and temperature anomalies.
 
-## Signals that it is about to happen [1]
+## Signals that we are on the brink [1]
 
 There will be quakes, eruptions and extreme weather due to the disruptions to the electromagnetic field. Weather like we have never seen I imagine. I think we will know when it’s imminent.
 
