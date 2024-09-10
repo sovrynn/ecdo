@@ -43,7 +43,7 @@ This one needs to be analyzed by looking at the entire Canadian and Alaskan coas
 ![](img/1200-north.png)
 ![](img/1500-all.png)
 
-## Local Topography
+### Local Topography
 
 Here's the elevation profile:
 
@@ -67,3 +67,22 @@ Here's what the entire region would look like from a flow perspective:
 ![](img/1900-all.png)
 
 The boulders tell us that this may have been what happened. At the very least, it's clear that while the Alaskan chokepoint has plenty of room to flow over here, the flow from Seattle, California, and the Gulf of California, gushing but not flowing.
+
+## Kintla Peak, Montana
+
+Peak of 3080m. North of Montana right on the border with Canada.
+
+![](glacier-nat-park.jpg)
+![](img/kintla2.jpg)
+![](img/kintla3.jpg)
+
+Elevation profile:
+![](img/kintla.jpg)
+
+Elevation range is 1000m (blue) to 3000m (white):
+![](img/kintla4.png)
+
+I found some really nice pictures of this location:
+- https://www.glacierpeaksphotography.com/post/kintla-peak-august-17-20-2017
+- https://enjoyyourparks.com/glacier-national-park/hikes-and-places/boulder-pass-trail/
+- https://www.peakbagger.com/peak.aspx?pid=4725
