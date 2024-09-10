@@ -80,6 +80,10 @@ Definitely a good chance this location was created by fast-moving water/debris.
 
 ## Misc Info
 
+### Desert Terrain
+
+![](img/china-desert.jpg)
+
 ### Taklamakan Desert
 
 May just be sand dunes. Coords (40, 86.3).
