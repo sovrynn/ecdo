@@ -19,15 +19,30 @@ Found from karst lists [1] and just clicking through some images and websites us
 
 ![](img/erosion.jpg)
 
+Pena Olvidada (Pico de Europa), 2410m:
+
+![](img/pico-europa.jpg)
+
+Ciudad Encantada (sitting at elevation of 1415m):
+
+![](img/ciudad1.jpg)
+![](img/ciudad2.jpg)
+![](img/ciudad3.jpg)
+
+Sierra de Gredos - Not on the list of well-known karst areas, but found some interesting pictures. Los Galayos, and [2]:
+
+![](img/los-galayos-sierra-de-gredos.jpg)
+![](img/sierra-de-gredos.webp)
+
+Candelada Avila [3] (just under Sierra de Gredos):
+
+![](img/candelada-avila.webp)
+
 ## Slopes into the highest areas
 
 Pico de Europa:
 
 ![](img/elevation.png)
-
-Pena Olvidada (Pico de Europa), 2410m:
-
-![](img/pico-europa.jpg)
 
 Pyrenees:
 
@@ -36,17 +51,6 @@ Pyrenees:
 Sierra Nevada:
 
 ![](img/elevation3.png)
-
-## Sierra de Gredos
-
-Not on the list of well-known karst areas, but found some interesting pictures. Los Galayos, and [2]:
-
-![](img/los-galayos-sierra-de-gredos.jpg)
-![](img/sierra-de-gredos.webp)
-
-### Candelada Avila [3]
-
-![](img/candelada-avila.webp)
 
 ## Safe locations?
 
