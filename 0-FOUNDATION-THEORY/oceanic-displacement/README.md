@@ -63,11 +63,10 @@ Water flow will also fall in height as it spreads over a greater surface.
 ### Best Examples of Location Oceanic Displacement Analysis
 
 `LOCATION-ANALYSIS` is where all the location-specific flood analysis is located. Some good examples are:
-- Shetland (`europe/great-britain`)
-- Gulf of California (`north-america/great-basin`)
-- Asia, chokepoints
+- North Africa, desert ripple analysis
+- France, ripple analysis
+- Gulf of California (`north-america/great-basin`) chokepoint analysis
 - Turkey (Urgup Cones), Black Sea water surge level (1025 m)
-- North Africa, 1200m height 600m above sea level
 
 ### Factors that are difficult to predict
 

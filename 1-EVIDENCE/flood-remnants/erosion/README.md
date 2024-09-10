@@ -5,6 +5,7 @@ An absolute banger: https://www.istockphoto.com/photos/wind-erosion
 - slot canyons
 - wave rock west virginia
 - arches national park
+- and more
 
 I've put a bunch of photos into `img/`. Just to show a few:
 

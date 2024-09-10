@@ -68,6 +68,10 @@ You also have Sierra Nevada in the south (500m (blue) to 3000m viz):
 
 ![](img/sierra.png)
 
+Don't like the look of the Pico de Europa mountain range (looks very erosion-y in pictures).
+
+Mountains in the middle are high elevation but the land in front of them isn't that high elevation. Plus these mountains form a perpendicular obstacle to the water flow, not giving the water much room to flow around.
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/List_of_karst_areas#Spain

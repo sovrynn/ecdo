@@ -8,7 +8,6 @@ Beijing rotates to the end of the yellow line during S1 -> S2.
 
 ![](img/etopo.jpg)
 ![](img/copernicus.png)
-![](img/china-2d.png)
 
 https://github.com/user-attachments/assets/4757ef9a-c6b8-4a11-be43-70da19bdab3d
 
@@ -80,6 +79,13 @@ The absolute goldmine work into these mountains is a 2020 research paper by Yaoh
 Definitely a good chance this location was created by fast-moving water/debris.
 
 ## Misc Info
+
+### Taklamakan Desert
+
+May just be sand dunes. Coords (40, 86.3).
+
+![](img/dunes.png)
+![](img/dunes2.png)
 
 ### Longest Inhabited Cities
 
