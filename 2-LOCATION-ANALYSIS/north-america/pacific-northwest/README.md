@@ -72,7 +72,7 @@ The boulders tell us that this may have been what happened. At the very least, i
 
 Peak of 3080m. North of Montana right on the border with Canada.
 
-![](glacier-nat-park.jpg)
+![](img/glacier-nat-park.jpg)
 ![](img/kintla2.jpg)
 ![](img/kintla3.jpg)
 
