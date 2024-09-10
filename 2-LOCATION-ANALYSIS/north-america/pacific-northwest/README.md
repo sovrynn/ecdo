@@ -56,7 +56,7 @@ Zooming in to the terrain, we can get a view of the shallow valleys from the ele
 
 ### Consequences
 
-Let's recall that this place is it an elevation of 1900m. We also have clear evidence of large boulders there.
+Let's recall that this place is at an elevation of 1900m. We also have clear evidence of large boulders there.
 
 If this place had water flowing through it at 1900m carrying large erratic boulders, then the flow would at least look like this:
 
