@@ -68,7 +68,7 @@ Here's what the entire region would look like from a flow perspective:
 
 The boulders tell us that this may have been what happened. At the very least, it's clear that while the Alaskan chokepoint has plenty of room to flow over here, the flow from Seattle, California, and the Gulf of California, gushing but not flowing.
 
-## Kintla Peak, Montana
+## Kintla Peak, Montana (Rocky Mountains)
 
 Peak of 3080m. North of Montana right on the border with Canada.
 
