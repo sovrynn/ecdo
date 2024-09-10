@@ -28,6 +28,10 @@ Not on the list of well-known karst areas, but found some interesting pictures [
 
 ![](img/candelada-avila.webp)
 
+## Safe locations?
+
+In terms of high-elevation locations (2000m+), you have a mountain in the South, some peaks in the middle, some peaks in the coastal north, and larger chunks in the Pyrenees.
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/List_of_karst_areas#Spain
