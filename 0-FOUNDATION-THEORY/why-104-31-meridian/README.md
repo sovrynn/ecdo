@@ -4,15 +4,19 @@ This folder is dedicated to understanding why the Earth rotates 104 degrees on t
 
 ## Khafre Pyramid
 
+The main clue that TES uses to postulate that the ECDO rotation consists of a 104 degree rotation along the 31 Meridian is the Khafre Pyramid.
+
 The Khafre Pyramid is hypothesized to lie directly on the longitude line rotating to the pole, because this is the only way that the shafts in the pyramid would align with the poles in S1 and S2. This implies that it was intentionally built in that precise location.
 
-![khafre lower shafts](img/khafre-lower-shafts.jpg "khafre lower shafts diagram")
-
-This diagram displays the lower shafts, which are hypothesized to be for measuring magnetic moment.
+![](img/khufu-tri.webp)
 
 If you rotate this pyramid in any direction other than the one Ethical Skeptic hypothesizes, the observation shafts will not work - this is a foundational aspect of the hypothesis.
 
-![khafre shaft diagram](img/khafre-shafts.jpg "khafre shaft diagram")
+More on the Khafre Pyramid in TES thesis [1] and `EVIDENCE/civilization-history/important-structures`.
+
+## Citations
+
+1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
 
 # TODO
 

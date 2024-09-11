@@ -2,7 +2,11 @@
 
 This folder is for important structures humans have built that are potentially related to ECDO events.
 
-## Khafre Pyramid Function - Tripartite Observatory [2]
+## Khafre Pyramid
+
+Arguably the centerpoint of TES's ECDO theory, I cover his comments on the function of this structure below.
+
+### Khafre Pyramid Function - Tripartite Observatory [2]
 
 This pyramid is hypothesized by TES to be a tripartite observatory designed to monitor the ECDO.
 
@@ -24,7 +28,21 @@ This pyramid is hypothesized by TES to be a tripartite observatory designed to m
 
 ![](img/khufu-3.webp)
 
-## Khafre erosion
+### Khufu dual-orientation authentication mechanism [2]
+
+*"More importantly, the two angles defined by these sets of shafts (King and Queen’s shaft sets), match an alignment to the Dzhanibekov rotation as viewed from the the two critical locations defined in Exhibit H2: The Giza Plateau and the Geographic Center of the World... What the duplication in shafts and offset chambers serve to communicate, is an authentication of the change in celestial north pole location, during two different time periods. An intelligence which cannot be communicated by a single set of shafts, nor certainly by shaft combinations which do not agree."*
+
+![](img/khafre-shafts.jpg)
+
+### Khufu construction timeframe [2]
+
+*"In one of the star/air shafts extending upward from the Queen’s Chamber, there resides a curious set of non-hieroglyphic markings which were photograped by the Upuaut Project.66 On the ceiling, just at the final stone before the block that terminates this shaft, a depiction of the night sky is carved. This artistic representation includes the constellations Ursa Minor and Ursa Major, Draco, Lacerta, Bootes, Cepheus, and Cassiopeia, unmistakably identifying this specific section of the sky and its orientation."*
+
+*"This depiction suggests a construction timeframe for the star shaft of around 9200 to 9600 BCE, as evidenced by comparing Exhibits M and N. Many of the stars represented in this carving would have been below the horizon in 2540 BCE and thus invisible in this depiction, to observers of that era. A Starry NightTM rendering of the northern sky at Giza as it appeared in 9200 BCE, which precisely matches the arrangement carved into the stone shown in Exhibit M, is shown below, along with the sextant-like alignment technique entailed."*
+
+![khafre](img/khufu-air-shaft.jpg "khafre")
+
+### Khafre erosion [2]
 
 ![khafre](img/khafre-pyramid.jpg "khafre")
 
@@ -104,9 +122,3 @@ Search for (ancient) underground cities
 Vrtra Underground Pyramid, Alaska http://www.human-resonance.org/Vrtra_Underground_Pyramid.pdf
 
 Bosnian Pyramids
-
-## Khufu constellation depiction
-
-Stone depiction in Khufu south air shaft was carved around 9,200 BC. This is very close to 3 x 3,700 years ago:
-
-![khafre](img/khufu-air-shaft.jpg "khafre")
