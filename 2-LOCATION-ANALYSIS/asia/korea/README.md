@@ -48,6 +48,12 @@ Ulsanbawi is a large rock mountain in the Seoraksan mountains. It is situated on
 ![](img/seoraksan5.jpeg)
 ![](img/seoraksan2.jpeg)
 
+## Gwanaksan
+
+![](img/gwanaksan.webp)
+![](img/gwanaksan2.jpg)
+![](img/gwanaksan3.jpg)
+
 ## Volcanoes
 
 Korea has two volcanoes on the mainland:

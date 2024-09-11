@@ -57,7 +57,7 @@ See `EVIDENCE/cataclysm-stories/asia`. In *Worlds in Collision*, Velikovsky cite
 
 # TODO
 
-Wulanwula sediment deposits: https://ui.adsabs.harvard.edu/abs/2002AGUFMGP71A0980Z/abstract
+Wulanwula 750m sediment deposits: https://ui.adsabs.harvard.edu/abs/2002AGUFMGP71A0980Z/abstract
 
 Himalayan alluvial deposits: https://ui.adsabs.harvard.edu/abs/2020AcGlS..94..176Z/abstract
 

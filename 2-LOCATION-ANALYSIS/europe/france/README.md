@@ -13,6 +13,36 @@ Contrast enhanced elevation data [1,2]. Current ripple period is ±500m. Amplitu
 3. https://maps.app.goo.gl/6BDqkjcwCDwNV6hZ9
 4. https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/
 
+## Cevennes National Park
+
+Gorges de la Jonte (~1000m):
+
+![](img/cevennes.webp)
+![](img/cevennes2.webp)
+![](img/cevennes3.jpeg)
+
+Chaos of Nimes Le Vieux (1100m):
+
+![](img/cevennes5.jpg)
+![](img/cevennes6.jpg)
+
+## La Roque Gageac
+
+Cliff erosion. Location less than 100m elevation.
+
+![](img/la-roque-gageac.webp)
+
+## Castel Merle
+
+100m elevation.
+
+![](img/castel-merle.jpg)
+
+## Vezere Valley
+
+![](img/vezere.webp)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
+2. https://www.travelfranceonline.com/la-roque-gageac-village-dordogne-valley/
