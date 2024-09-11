@@ -10,7 +10,7 @@ Asia will rotate clockwise, following the length of the red and yellow lines.
 
 https://github.com/user-attachments/assets/490f770f-1b53-44cc-95e4-2f1b290e80a0
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization. [1]
 
 # Analysis
 
@@ -36,4 +36,4 @@ Asia has one of the most fractured tectonic plate regions in the world.
 
 ## Citations
 
-Visualization: [Craig Stone](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)
