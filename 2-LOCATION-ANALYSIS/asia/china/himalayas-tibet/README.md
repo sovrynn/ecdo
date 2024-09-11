@@ -8,6 +8,16 @@ Potential to get inundated from the east. It's the large chunk of high-elevation
 
 Viz from 2000m to 5000m.
 
+## Salt lakes in Tibet
+
+Red are salt lakes, yellow are freshwater, orange are "brackish".
+
+![](img/himalayas-lakes.jpg)
+
+*"In ancient times, before the collision of tectonic plates originated the Himalayas, the Tibetan plateau was covered by a great sea. The many salty lakes that remain were the main deposits of such a precious commodity for Tibetans."* [7] (Hard copy in this folder)
+
+Not looking good for Tibet...
+
 ## Overview [1]
 
 ![h1](img/himalayas1.jpg "h1")
@@ -20,34 +30,6 @@ The mighty Himalayas. They get their feet wet on the southern slopes during S2>S
 ## Tibet flood myth
 
 See `EVIDENCE/cataclysm-stories/asia`. In *Worlds in Collision*, Velikovsky cites a source saying that Tibet was inundated.
-
-## Salt lakes in Tibet
-
-Red are salt lakes, yellow are freshwater, orange are "brackish".
-
-![](img/himalayas-lakes.jpg)
-
-*"In ancient times, before the collision of tectonic plates originated the Himalayas, the Tibetan plateau was covered by a great sea. The many salty lakes that remain were the main deposits of such a precious commodity for Tibetans."*
-
-Not looking good for Tibet...
-
-Hard copy of this paper in this folder.
-
-https://himalaya.socanth.cam.ac.uk/collections/journals/ret/pdf/ret_65_03.pdf
-
-Saltwater lakes:
-- Pangong Lake
-- Tso Moriri Lake
-- Nam Co Lake
-- Zhari Namco
-- Tso Kar
-
-Freshwater lakes [3]:
-- Tsomgo (Changu)
-- Gyaring Lake (Gya Lake?)
-- Rara Lake
-- Lake Manasarovar
-- Tilicho
 
 ## Glacial erosion?
 
@@ -65,6 +47,7 @@ U-shaped valley at the head of Leh valley, Ladakh [2]:
 4. Kusai Lake: https://www.geodoi.ac.cn/weben/doi.aspx?Id=1251
 5. Ayakkum: https://en.wikipedia.org/wiki/Lake_Ayakkum
 6. Dogai Coren: https://www.mindat.org/loc-262229.html
+7. https://himalaya.socanth.cam.ac.uk/collections/journals/ret/pdf/ret_65_03.pdf
 
 # TODO
 
@@ -73,3 +56,17 @@ Wulanwula sediment deposits: https://ui.adsabs.harvard.edu/abs/2002AGUFMGP71A098
 Himalayan alluvial deposits: https://ui.adsabs.harvard.edu/abs/2020AcGlS..94..176Z/abstract
 
 Dogai Coring salt springs: https://www.geojournals.cn/dzxben/js/pdf/web/viewer.aspx?file_no=2014ens1125&journal_id=dzxben
+
+Saltwater lakes:
+- Pangong Lake
+- Tso Moriri Lake
+- Nam Co Lake
+- Zhari Namco
+- Tso Kar
+
+Freshwater lakes [3]:
+- Tsomgo (Changu)
+- Gyaring Lake (Gya Lake?)
+- Rara Lake
+- Lake Manasarovar
+- Tilicho
