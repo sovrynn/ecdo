@@ -64,7 +64,7 @@ https://www.ncei.noaa.gov/maps/historical_declination/
 
 ## Alternative Magnetic North Pole Wander Video (1840 - 2019)
 
-Alternate magnetic north pole wander video which also shows a comparison to the scale of the Earth. Video at `img/npw.mp4`. It is compiled from historic observational and SWARM data. Note the apparent >270° deviation that occurred in the mid-1800's.
+Alternate magnetic north pole wander video which also shows a comparison to the scale of the Earth. Original video at `img/npw.mp4`. It is compiled from historic observational and SWARM data. Note the apparent >270° deviation that occurred in the mid-1800's.
 
 https://github.com/user-attachments/assets/de8d7eff-800f-4030-b428-2667cd46179e
 

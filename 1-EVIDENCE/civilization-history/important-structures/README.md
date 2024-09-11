@@ -2,17 +2,34 @@
 
 This folder is for important structures humans have built that are potentially related to ECDO events.
 
-## Khafre
+## Khafre Pyramid Function - Tripartite Observatory [2]
+
+This pyramid is hypothesized by TES to be a tripartite observatory designed to monitor the ECDO.
+
+![](img/khufu-tri.webp)
+
+*"King’s Chamber – Celestial Pole Nutation Monitoring: The north celestial pole monitoring shafts are oriented to a specific celestial reference, running directly to the pyramid’s surface and pointing accurately at both Np (State 1) and Np‘ (State 2) for Giza. These shafts are designed to monitor the nutation (wobble and wander) of the celestial north pole..."*
+
+*"Queen’s Chamber – Geomagnetic Moment and Ionospheric Monitoring: Geomagnetic moment/flux field orientation monitoring – by means of copper cable pairs (seen in Exhibit M), that were allegedly confiscated in part by former Egyptian Antiquities Minister, Zahi Hawass.48 49 These copper cables were contained inside shafts that do not run completely to the exterior of the pyramid, are capped off (neither for ‘air’ nor ‘stars’), and are oriented to the pyramid structure itself. The limestone blocks of the pyramid served as a natural isolation mechanism, insulating the copper cables and shielding them from extraneous electromagnetic interference, while simultaneously allowing transparency to the critical Earth geomagnetic frequencies essential to the mission. The 90-degree relative angle to the pyramid’s sky-facing sides (no accident – annotated as the right angle in Exhibit K) might have been designed to focus and channel electromagnetic resonances, enhancing the sensitivity and accuracy of the geomagnetic monitoring system in the Queen’s Chamber."*
+
+![](img/khufu-queen.webp)
+
+*"Remnants of the copper cables (click on photo to right) were found by the Gantenbrink Upuaut Project in March 1990 in the Queen’s Chamber south air shaft (and later the North Shaft as well). These cables have long since been removed by both tomb robbers, as evidenced by the Dixon Relics found by Waynman Dixon at the bottom of the north shaft in 1872, and by obfuscation (alleged) on the part of Zahi Hawass."*
+
+![](img/queen-cables.webp)
+
+*"Subterranean Chamber – H-Layer P-Wave Infrasound Monitoring: Deep-earth seismometry/core-mantle H-layer/LLVP dynamics monitoring fluid-based sensor. In similar effect to the geomagnetic monitoring, the pyramid’s structure could have been optimized to both isolate and focus seismic signals towards the Subterranean Chamber, allowing it to effectively monitor seismic activity and internal Earth dynamics free of noise from surface, device, or other nearby activity. The chamber itself would use water to detect the infrasound frequencies involved."*
+
+*"Moreover, there is an independent determination that the rock-cut dead-end south passage inside the chamber might well have functioned as a sound resonance tube, generating or receiving infrasound with a base frequency in the range of 5 and 10 Hz – and that constant low frequency noise can be heard/sensed in the chamber.59 60 This corresponds well to the design of the pyramid itself – which is wavelength optimized to 5 Hz, per Exhibit K3 below."*
+
+![](img/khufu-3.webp)
+
+## Khafre erosion
 
 ![khafre](img/khafre-pyramid.jpg "khafre")
 
 "I don't know how to make this clearer: Any story regarding the construction/dating of Khufu and Khafre must definitively address this karst erosion feature—otherwise, it is not a scientific hypothesis, rather narrative dogma." - Ethical Skeptic
 
-![khafre](img/khufu-air-shaft.jpg "khafre")
-
-Stone depiction in Khufu south air shaft was carved around 9,200 BC. This is very close to 3 x 3,700 years ago.
-
-![khafre inundation](img/khafre-inundation.jpg "khafre")
 ![khafre layers](img/khafre-layers.jpg "khafre")
 
 ## Derinkuyu
@@ -69,6 +86,7 @@ https://m.youtube.com/watch?v=akmKO2pgdTY&t=2s
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
+2. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
 
 # TODO Potential Leads
 
@@ -86,3 +104,9 @@ Search for (ancient) underground cities
 Vrtra Underground Pyramid, Alaska http://www.human-resonance.org/Vrtra_Underground_Pyramid.pdf
 
 Bosnian Pyramids
+
+## Khufu constellation depiction
+
+Stone depiction in Khufu south air shaft was carved around 9,200 BC. This is very close to 3 x 3,700 years ago:
+
+![khafre](img/khufu-air-shaft.jpg "khafre")
