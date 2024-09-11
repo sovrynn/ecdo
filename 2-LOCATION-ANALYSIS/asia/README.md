@@ -1,6 +1,6 @@
 # Asia
 
-A massive continent that is home to the east ECDO pivot at Sulawesi, Indonesia. It also has one of the largest areas of highest elevation, in west China north of India. Rushing into the Pacific in S1 -> S2. it will undoubtedly experience a massive water surge.
+A massive continent that is home to the east ECDO pivot at Sulawesi, Indonesia. It also has one of the largest areas of highest elevation, in west China north of India. Rushing into the Pacific in S1 -> S2. it will undoubtedly experience a massive water surge. The entire Asian continent seems like it will end up being a massive floodplain.
 
 ![profile](img/profile.png "asia profile")
 
@@ -21,6 +21,12 @@ The oceanic displacement for Asia, particularly east Asia, begins with its land 
 ![](img/chokepoints.png)
 
 The Pacific Ocean, ranging from 4-6km deep, is going to get displaced onto a coastline ranging from -2000m to 0m in height. Depending on the rotation speed and the chokepoint topography, you could see very high water surges.
+
+## Saltwater Lakes
+
+Saltwater lakes in red, freshwater lakes in green, and brackish lakes in orange.
+
+![](img/salt-lakes.jpg)
 
 ## Tectonic Plates
 
