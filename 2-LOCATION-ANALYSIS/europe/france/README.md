@@ -20,11 +20,13 @@ Gorges de la Jonte (~1000m):
 ![](img/cevennes.webp)
 ![](img/cevennes2.webp)
 ![](img/cevennes3.jpeg)
+![](img/cevennes4.jpg)
 
 Chaos of Nimes Le Vieux (1100m):
 
 ![](img/cevennes5.jpg)
 ![](img/cevennes6.jpg)
+![](img/cevennes7.jpg)
 
 ## La Roque Gageac
 
