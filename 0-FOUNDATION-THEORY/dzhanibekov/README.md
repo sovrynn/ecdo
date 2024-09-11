@@ -27,6 +27,10 @@ And here then unpleasant analogies come to mind with our Earth rotating in weigh
 
 TES hypothesis adds that the core has decoupled from the mantle, so the effect is limited to less than 180 degree flip before the outer layers find equilibrium again, and it seems that this is at 104 degrees. If the core and mantle remained locked, the flip would be 180 degrees.
 
+In addition, TES proposes that in this mediated Dzhanibekov oscillation, the flip may be 104 degrees because that is the distance of the least dense LLVP centroid, under South Africa:
+
+![](img/llvp.webp)
+
 ## Dzhanibekov flip physics explanation basics
 
 ### Moment of inertia, angular momentum, and angular velocity

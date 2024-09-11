@@ -14,6 +14,14 @@ If you rotate this pyramid in any direction other than the one Ethical Skeptic h
 
 More on the Khafre Pyramid in TES thesis [1] and `EVIDENCE/civilization-history/important-structures`.
 
+## Dzhanibekov: Least dense LLVP centroid [1]
+
+*"South Africa Cusp – Large Low-Velocity-Shear Province (SAC-LLVP) tomography structures (red) and centroid (yellow) at the southern tip of the African continent. The lighter axial centroid of the SAC-LLVP aligns precisely with the 31st East Meridian, which also passes through the Giza Plateau—positioned 104 degrees offset from the current North Pole."*
+
+![](../dzhanibekov/img/llvp.webp)
+
+*"The LLVP formations in contrast (Exhibit E), serve as a minimum axis, with the rest of the mantle forming a hot 3-PIM maximum-axis set (Exhibit E2). When combined, these serve to gyroscopically compete with the magnetically coupled axis, as well as mitigate a pure 180 degree Dzhanibekov rotation departure from that geomagnetic axis."*
+
 ## Mythical Evidence
 
 We have a mythical Chinese account of China rotating in the same direction as would be predicted during S1 -> S2:
