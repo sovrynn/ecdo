@@ -12,7 +12,7 @@ Viz from 2000m to 6000m.
 
 Red are salt lakes, yellow are freshwater, orange are "brackish".
 
-![](img/himalayas-lakes.jpg)
+![](img/lakes.jpg)
 
 *"In ancient times, before the collision of tectonic plates originated the Himalayas, the Tibetan plateau was covered by a great sea. The many salty lakes that remain were the main deposits of such a precious commodity for Tibetans."* [7] (Hard copy in this folder)
 
