@@ -24,7 +24,6 @@ Gorges de la Jonte (~1000m):
 
 Chaos of Nimes Le Vieux (1100m):
 
-![](img/cevennes5.jpg)
 ![](img/cevennes6.jpg)
 ![](img/cevennes7.jpg)
 
