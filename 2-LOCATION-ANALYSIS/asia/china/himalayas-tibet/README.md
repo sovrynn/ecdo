@@ -4,9 +4,9 @@ Potential to get inundated from the east. It's the large chunk of high-elevation
 
 "Tibet will be inundated for sure." [1]
 
-![](img/2000-5000.png)
+![](img/2000-6000.png)
 
-Viz from 2000m to 5000m.
+Viz from 2000m to 6000m.
 
 ## Salt lakes in Tibet
 
