@@ -1,5 +1,13 @@
 # China
 
+## Chinese Nuwa Inundation Myth
+
+There is a Chinese inundation myth which matches China's expected rotation from S1 to S2.
+
+*"When the water god Gong Gong saw that he was losing, he smashed his head against Mount Buzhou, a pillar holding up the sky. The pillar collapsed and caused the sky to tilt towards the northwest and the earth to shift to the southeast."*
+
+https://en.wikibooks.org/wiki/Chinese_Stories/N%C3%BCwa
+
 ## Great Flood (2300 BCE?)
 
 Not so much a myth as an account, it lines up with Korea's founding myth, that of Dangun.
@@ -39,14 +47,6 @@ There is a research paper which proposes that there is evidence for a 1920 BCE f
 Source: https://www.science.org/doi/10.1126/science.aaf0842
 
 PDF included in this folder.
-
-## Chinese Nuwa Inundation Myth
-
-There is a Chinese inundation myth which matches China's expected rotation from S1 to S2.
-
-*"When the water god Gong Gong saw that he was losing, he smashed his head against Mount Buzhou, a pillar holding up the sky. The pillar collapsed and caused the sky to tilt towards the northwest and the earth to shift to the southeast."*
-
-https://en.wikibooks.org/wiki/Chinese_Stories/N%C3%BCwa
 
 ## Citations
 

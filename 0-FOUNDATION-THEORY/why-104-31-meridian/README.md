@@ -4,15 +4,57 @@ This folder is dedicated to understanding why the Earth rotates 104 degrees on t
 
 ## Khafre Pyramid
 
+The main clue that TES uses to postulate that the ECDO rotation consists of a 104 degree rotation along the 31 Meridian is the Khafre Pyramid. This is a central point in his thesis.
+
 The Khafre Pyramid is hypothesized to lie directly on the longitude line rotating to the pole, because this is the only way that the shafts in the pyramid would align with the poles in S1 and S2. This implies that it was intentionally built in that precise location.
 
-![khafre lower shafts](img/khafre-lower-shafts.jpg "khafre lower shafts diagram")
-
-This diagram displays the lower shafts, which are hypothesized to be for measuring magnetic moment.
+![](../../1-EVIDENCE/civilization-history/important-structures/img/khufu-tri.webp)
 
 If you rotate this pyramid in any direction other than the one Ethical Skeptic hypothesizes, the observation shafts will not work - this is a foundational aspect of the hypothesis.
 
-![khafre shaft diagram](img/khafre-shafts.jpg "khafre shaft diagram")
+More on the Khafre Pyramid in TES thesis [1] and `EVIDENCE/civilization-history/important-structures`.
+
+## Dzhanibekov: Least dense LLVP centroid [1]
+
+*"South Africa Cusp – Large Low-Velocity-Shear Province (SAC-LLVP) tomography structures (red) and centroid (yellow) at the southern tip of the African continent. The lighter axial centroid of the SAC-LLVP aligns precisely with the 31st East Meridian, which also passes through the Giza Plateau—positioned 104 degrees offset from the current North Pole."*
+
+![](../dzhanibekov/img/llvp.webp)
+
+*"The LLVP formations in contrast (Exhibit E), serve as a minimum axis, with the rest of the mantle forming a hot 3-PIM maximum-axis set (Exhibit E2). When combined, these serve to gyroscopically compete with the magnetically coupled axis, as well as mitigate a pure 180 degree Dzhanibekov rotation departure from that geomagnetic axis."*
+
+## Mythical Evidence
+
+We have a mythical Chinese account of China rotating in the same direction as would be predicted during S1 -> S2:
+
+*"When the water god Gong Gong saw that he was losing, he smashed his head against Mount Buzhou, a pillar holding up the sky. The pillar collapsed and caused the sky to tilt towards the northwest and the earth to shift to the southeast."*
+
+See `EVIDENCE/cataclysm-stories/asia/china`.
+
+## Geological Evidence
+
+We have evidence of:
+- water flows into North Africa from the Mediterranean
+- water flows into France from the Arctic
+- Directional scouring of Severny Island and New Zealand along S1 -> S2 rotation path
+- water flows into the Great Basin, San Francisco Bay from the Pacific
+- water flows into south China from the Pacific
+- water flows into the Himalayas, northern China, and Mongolia, presumably from the Pacific
+
+These all match the predicted oceanic displacement direction during S1 -> S2.
+
+## Biodiversity Evidence
+
+Biodiversity hotspots do seem to have their hottest spots in the two pivot areas; see `EVIDENCE/biology/biodiversity-hotspots`.
+
+![](../../1-EVIDENCE/biology/biodiversity-hotspots/img/biodiversity-plants.jpg)
+
+## Indonesia Pivot Cave Art
+
+We also have the oldest cave art found so far in Indonesia, at an elevation of ~350m. See `LOCATION-MAPPING/asia/indonesia`. Granted, there have also been very old such artifacts found in southwestern France and Germany.
+
+## Citations
+
+1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
 
 # TODO
 

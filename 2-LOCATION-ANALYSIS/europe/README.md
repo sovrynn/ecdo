@@ -11,3 +11,7 @@ See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobula
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
+
+# TODO
+
+Lion Man - very old artifact from Germany: https://www.britishmuseum.org/blog/lion-man-ice-age-masterpiece

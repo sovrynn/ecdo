@@ -58,6 +58,16 @@ North Sea chokepoints, north to south: The Norwegian Trench, the Devil's holes, 
 
 Nevada and Utah are classic examples of huge flood morphology. We found current ripples in Somalia which gave a calculated water depth of 1.2km, probably the Mediterranean. Observed water levels in many places appear to be in agreement with theorized movement of water. The ripples I’ve seen in France, USA, South America and Australia suggest water MUCH deeper than Somalia. Definitely 3-4km and more in places.
 
+## oldest remnants
+
+Until a few years ago, the oldest known figurative cave painting was a 21,000-year-old rock art panel in Lascaux, France, showing a bird-headed human charging a bison.
+
+https://www.researchgate.net/figure/The-Scene-in-the-Lascaux-Shaft-Photo-by-Norbert-Aujoulat_fig4_292996387
+
+Previously, the earliest evidence of a therianthrope was the 40,000-year-old 'Lion Man' sculpture unearthed in a cave in Germany.
+
+https://www.britishmuseum.org/blog/lion-man-ice-age-masterpiece
+
 ## Countour maps
 
 Many excellent contour maps linked here: https://x.com/SunWeatherMan/status/1830716258092011999?s=19

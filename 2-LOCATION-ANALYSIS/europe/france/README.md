@@ -28,7 +28,7 @@ Chaos of Nimes Le Vieux (1100m):
 
 ## La Roque Gageac
 
-Cliff erosion. Location less than 100m elevation.
+Cliff erosion. Location less than 100m elevation. [2]
 
 ![](img/la-roque-gageac.webp)
 
@@ -46,3 +46,9 @@ Cliff erosion. Location less than 100m elevation.
 
 1. [Craig Stone](https://nobulart.com)
 2. https://www.travelfranceonline.com/la-roque-gageac-village-dordogne-valley/
+
+# TODO
+
+Very old cave art - Lascaux Shaft
+- https://www.researchgate.net/figure/The-Scene-in-the-Lascaux-Shaft-Photo-by-Norbert-Aujoulat_fig4_292996387
+- https://en.wikipedia.org/wiki/Lascaux
