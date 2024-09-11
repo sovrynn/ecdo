@@ -1,6 +1,6 @@
 # Asia
 
-A massive continent that is home to the east ECDO pivot at Sulawesi, Indonesia. It also has one of the largest areas of highest elevation, in west China north of India. Rushing into the Pacific in S1 -> S2. it will undoubtedly experience a massive water surge. The entire Asian continent seems like it will end up being a massive floodplain.
+A massive continent that is home to the east ECDO pivot at Sulawesi, Indonesia. Rushing into the Pacific in S1 -> S2. it will undoubtedly experience a massive water surge. The entire Asian continent seems like it will end up being a massive floodplain, with saltwater lakes littering Mongolia, northern China, and the Himalayas, and erosion karst landscapes throughout southern China.
 
 ![profile](img/profile.png "asia profile")
 
