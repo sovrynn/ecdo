@@ -8,7 +8,7 @@ The main clue that TES uses to postulate that the ECDO rotation consists of a 10
 
 The Khafre Pyramid is hypothesized to lie directly on the longitude line rotating to the pole, because this is the only way that the shafts in the pyramid would align with the poles in S1 and S2. This implies that it was intentionally built in that precise location.
 
-![](img/khufu-tri.webp)
+![](../../1-EVIDENCE/civilization-history/important-structures/img/khufu-tri.webp)
 
 If you rotate this pyramid in any direction other than the one Ethical Skeptic hypothesizes, the observation shafts will not work - this is a foundational aspect of the hypothesis.
 
@@ -30,6 +30,19 @@ We have evidence of:
 - Directional scouring of Severny Island and New Zealand along S1 -> S2 rotation path
 - water flows into the Great Basin, San Francisco Bay from the Pacific
 - water flows into south China from the Pacific
+- water flows into the Himalayas, northern China, and Mongolia, presumably from the Pacific
+
+These all match the predicted oceanic displacement direction during S1 -> S2.
+
+## Biodiversity Evidence
+
+Biodiversity hotspots do seem to have their hottest spots in the two pivot areas; see `EVIDENCE/biology/biodiversity-hotspots`.
+
+![](../../1-EVIDENCE/biology/biodiversity-hotspots/img/biodiversity-plants.jpg)
+
+## Indonesia Pivot Cave Art
+
+We also have the oldest cave art found so far in Indonesia, at an elevation of ~350m. See `LOCATION-MAPPING/asia/indonesia`. Granted, there have also been very old such artifacts found in southwestern France and Germany.
 
 ## Citations
 
