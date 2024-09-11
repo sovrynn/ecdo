@@ -4,7 +4,7 @@ This folder is dedicated to understanding why the Earth rotates 104 degrees on t
 
 ## Khafre Pyramid
 
-The main clue that TES uses to postulate that the ECDO rotation consists of a 104 degree rotation along the 31 Meridian is the Khafre Pyramid.
+The main clue that TES uses to postulate that the ECDO rotation consists of a 104 degree rotation along the 31 Meridian is the Khafre Pyramid. This is a central point in his thesis.
 
 The Khafre Pyramid is hypothesized to lie directly on the longitude line rotating to the pole, because this is the only way that the shafts in the pyramid would align with the poles in S1 and S2. This implies that it was intentionally built in that precise location.
 
@@ -13,6 +13,23 @@ The Khafre Pyramid is hypothesized to lie directly on the longitude line rotatin
 If you rotate this pyramid in any direction other than the one Ethical Skeptic hypothesizes, the observation shafts will not work - this is a foundational aspect of the hypothesis.
 
 More on the Khafre Pyramid in TES thesis [1] and `EVIDENCE/civilization-history/important-structures`.
+
+## Mythical Evidence
+
+We have a mythical Chinese account of China rotating in the same direction as would be predicted during S1 -> S2:
+
+*"When the water god Gong Gong saw that he was losing, he smashed his head against Mount Buzhou, a pillar holding up the sky. The pillar collapsed and caused the sky to tilt towards the northwest and the earth to shift to the southeast."*
+
+See `EVIDENCE/cataclysm-stories/asia/china`.
+
+## Geological Evidence
+
+We have evidence of:
+- water flows into North Africa from the Mediterranean
+- water flows into France from the Arctic
+- Directional scouring of Severny Island and New Zealand along S1 -> S2 rotation path
+- water flows into the Great Basin, San Francisco Bay from the Pacific
+- water flows into south China from the Pacific
 
 ## Citations
 
