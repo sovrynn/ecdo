@@ -99,3 +99,15 @@ In the south of Korea, a carefully selected location on the highest points of th
 3. https://en.wikipedia.org/wiki/Mount_Myohyang
 4. https://www.volcanodiscovery.com/chuga-ryong.html
 5. https://mapcarta.com/16013170
+6. http://nationalatlas.ngii.go.kr/pages/page_670.php
+
+# TODO
+
+It seems there is some good geological research on Korea found here: https://www.jgsk.or.kr/_common/do.php?a=current&b=21
+
+Specifically there is a paper there which references some "Haengmae" sediment deposits in Taebaeksan, although it dates them to much older than ECDO timeframes: https://www.jgsk.or.kr/_common/do.php?a=current&b=21&bidx=3784&aidx=41718
+- Previous iteration on that work: https://www.jgsk.or.kr/_common/do.php?a=full&b=22&bidx=3618&aidx=40811
+
+[6]:
+
+![](img/korea-regions.jpg)

@@ -27,10 +27,6 @@ Not looking good for Tibet...
 
 The mighty Himalayas. They get their feet wet on the southern slopes during S2>S1. I think maybe not Uttarakhand.
 
-## Tibet flood myth
-
-See `EVIDENCE/cataclysm-stories/asia`. In *Worlds in Collision*, Velikovsky cites a source saying that Tibet was inundated.
-
 ## Glacial erosion?
 
 Displacement of oceans is a given, but what about displacement of glaciers?
@@ -38,6 +34,14 @@ Displacement of oceans is a given, but what about displacement of glaciers?
 U-shaped valley at the head of Leh valley, Ladakh [2]:
 
 ![](img/glacier.webp)
+
+## Marine fossils from warmer climates in Tibet sediment deposits
+
+*"About 15,000 feet up on Tibet's desolate Himalayan-Tibetan Plateau, an international research team led by Florida State University geologist Yang Wang was surprised to find thick layers of ancient lake sediment filled with plant, fish and animal fossils typical of far lower elevations and warmer, wetter climates."* [9]
+
+## Tibet flood myth
+
+See `EVIDENCE/cataclysm-stories/asia`. In *Worlds in Collision*, Velikovsky cites a source saying that Tibet was inundated.
 
 ## Citations
 
@@ -48,6 +52,8 @@ U-shaped valley at the head of Leh valley, Ladakh [2]:
 5. Ayakkum: https://en.wikipedia.org/wiki/Lake_Ayakkum
 6. Dogai Coren: https://www.mindat.org/loc-262229.html
 7. https://himalaya.socanth.cam.ac.uk/collections/journals/ret/pdf/ret_65_03.pdf
+8. Saline lakes Mongolia: https://www.mongolian.travel/boon-tsagaan-nuur/
+9. https://phys.org/news/2008-06-fossils-tibet-history-elevation-climate.html
 
 # TODO
 
