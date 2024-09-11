@@ -25,7 +25,6 @@ North america:
 - Needles (Black Hills, USA)
 - Colorado
 - Slot canyons
-- Arches National Park
 - Spanish Peaks
 - Missoula flood, lake missoula
 - Burke's Garden
@@ -35,15 +34,10 @@ Europe:
 - Switzerland, with its extensive amount of bunkers and mountain landscape.
 - Serpents Lair of Inis Mór, located in the Ireland, UK
 
-Interesting cliff formations:
-- China
-
 Locations with karst landscapes:
 - North Vietnam
 - Borneo
 - Slovenia
-- South China
-	- https://whc.unesco.org/en/list/1248/
 
 Davolja Varos (earth towers)
 - https://en.m.wikipedia.org/wiki/%C4%90avolja_Varo%C5%A1
@@ -71,6 +65,10 @@ https://www.britishmuseum.org/blog/lion-man-ice-age-masterpiece
 ## Countour maps
 
 Many excellent contour maps linked here: https://x.com/SunWeatherMan/status/1830716258092011999?s=19
+
+## Good source for finding erratics, high-elevation erosion
+
+Google images, alltrails
 
 ## TODO heuristics for evaluating locations
 
