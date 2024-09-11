@@ -54,14 +54,16 @@ Red lines are the ECDO path. Appears to be quite a few striations running along 
 
 See `EVIDENCE/cataclysm-stories/india` for analysis on this.
 
-## Promising locations
-
-- Varanasi
-	- Long way inland, well protected by the Himalayas during S1 -> S2, and a minimum of 800-900km land buffering between the cities and the coast on the S2 -> S1 rotation.
-- Doddabetta Peak in Ooty
-
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
 
 Visualization: [Craig Stone](https://nobulart.com)
+
+# TODO
+
+- Varanasi
+	- Long way inland, well protected by the Himalayas during S1 -> S2, and a minimum of 800-900km land buffering between the cities and the coast on the S2 -> S1 rotation.
+- Doddabetta Peak in Ooty
+
+Khewra Salt Mine
