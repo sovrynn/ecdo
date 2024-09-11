@@ -8,7 +8,7 @@ South America is home to the western ECDO pivot in east Venezuela.
 
 https://github.com/user-attachments/assets/7cdc44f1-642e-408e-ae7f-1290120c06c3
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for a visualization.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for a visualization. [1]
 
 South America. The western ECDO pivot [1] is located near Mount Roraima.[2] Mega current ripples and salt deposits in Argentina and Chile, and apparent gully erosion morphology in the vicinity of Drake Passage are in agreement with the predicted movement.[3]
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
@@ -18,5 +18,3 @@ South America. The western ECDO pivot [1] is located near Mount Roraima.[2] Mega
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
-
-Visualization: [Craig Stone](https://nobulart.com)

@@ -8,7 +8,7 @@ While there are likely several spots that are safe, North America has not been a
 
 https://github.com/user-attachments/assets/d4beb5b6-d62f-49e9-bd4d-f1f70ac339e6
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for a visualization.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for a visualization. [1]
 
 North America. ECDO oscillation cycle visualization using model V4.[0] Camera-orientation locked to the objective. Considerable inland water masses and some of the most widespread and visible mesoscale flow morphology of any landmass. The Navajo flood myth seems to recount multiple consecutive events.[1] The Roraima pivot is visible lower right.[2]  Whale bones in Michigan.[3] Mega current ripples in Nebraska.[4] Flash frozen mammoths in Alaska.[5] suggest that things get pretty wet.[6]
 (continued in the comments...)
@@ -32,5 +32,3 @@ That said, 3,000ft anywhere east of the Rocky's is going to be overtopped by the
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
-
-Visualization: [Craig Stone](https://nobulart.com)

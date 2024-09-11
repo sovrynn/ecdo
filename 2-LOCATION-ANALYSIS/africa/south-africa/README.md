@@ -4,7 +4,7 @@ Appears safe from deluge from S1 to S2.
 
 https://github.com/user-attachments/assets/03fc6500-19f1-4f4f-8bd3-3b854c07208e
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the high-res visualization.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the high-res visualization. [1]
 
 ## Overview [1]
 
@@ -108,8 +108,6 @@ Makgadikgadi estimated to have last been wet 16ka BP.
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
-
-Visualization: [Craig Stone](https://nobulart.com)
 
 # TODO
 

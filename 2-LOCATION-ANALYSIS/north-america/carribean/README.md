@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/ee02ed35-babd-40e4-ad31-52ce943b8cf7
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization. [1]
 
 ## Overview [1]
 
@@ -27,5 +27,3 @@ Location of Lake Chichancanab from which this sample was taken [blue marker]. Mo
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
-
-Visualization: [Craig Stone](https://nobulart.com)

@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/eecae3f0-8dab-41db-868f-7a1819f490a5
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the high-res visualization.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the high-res visualization. [1]
 
 ## Earth Engine DEM
 
@@ -41,5 +41,3 @@ The Sahara looks like one of the largest megafloodplains on the planet, with obv
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
-
-Visualization: [Craig Stone](https://nobulart.com)

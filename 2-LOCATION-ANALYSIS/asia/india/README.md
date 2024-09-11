@@ -12,7 +12,7 @@ However, real trial may be the return (S2 -> S1). [1]
 
 https://github.com/user-attachments/assets/6ab919f1-12ac-4c40-966d-5b1552d6045e
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization. [1]
 
 ![ie1](img/indiaerosion1.jpg "ie1")
 ![ie2](img/indiaerosion2.jpg "ie2")
@@ -57,8 +57,6 @@ See `EVIDENCE/cataclysm-stories/india` for analysis on this.
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
-
-Visualization: [Craig Stone](https://nobulart.com)
 
 # TODO
 

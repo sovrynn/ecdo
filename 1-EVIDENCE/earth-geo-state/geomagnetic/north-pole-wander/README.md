@@ -40,7 +40,6 @@ North Magnetic Pole and Planetary Harmonics (1600-2024). Could the planets be in
 2. https://ssd.jpl.nasa.gov/horizons/
 3. https://nobulart.com/the-flip-of-the-earth/
 4. https://nobulart.com/report-from-iron-mountain/
-5. Visualization: https://nobulart.com/
 
 ## 10,000 year magnetic polar wander [1]
 

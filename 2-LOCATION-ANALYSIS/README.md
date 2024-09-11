@@ -6,7 +6,7 @@ Location-specific ECDO flood analysis and evidence gathering.
 
 https://github.com/user-attachments/assets/60f82304-2d63-4e5e-acf3-570a09e54b4e
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization. [1]
 
 ## Basic Contribution Guidelines
 
@@ -14,7 +14,7 @@ When investigating specific locations, include a map marking the location relati
 
 ## Citations
 
-1. Visualization: https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/
+1. https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/
 
 # TODO
 

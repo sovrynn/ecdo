@@ -6,7 +6,7 @@
 
 https://github.com/user-attachments/assets/b1daf844-5498-41fe-9424-65f8efc77f51
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization.
+See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization. [1]
 
 New Zealand (Māori: Aotearoa) by request: ECDO displacement detail S1>S2>S1 [1]. Note the striking alignment between the local bathymetry and the displacement path.
 
@@ -22,8 +22,6 @@ Māori deluge mythology [3]:
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
-
-Visualization: [Craig Stone](https://nobulart.com)
 
 # TODO Potential Leads
 
