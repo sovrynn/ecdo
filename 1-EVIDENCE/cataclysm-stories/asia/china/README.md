@@ -4,9 +4,7 @@
 
 There is a Chinese inundation myth which matches China's expected rotation from S1 to S2.
 
-*"When the water god Gong Gong saw that he was losing, he smashed his head against Mount Buzhou, a pillar holding up the sky. The pillar collapsed and caused the sky to tilt towards the northwest and the earth to shift to the southeast."*
-
-https://en.wikibooks.org/wiki/Chinese_Stories/N%C3%BCwa
+*"When the water god Gong Gong saw that he was losing, he smashed his head against Mount Buzhou, a pillar holding up the sky. The pillar collapsed and caused the sky to tilt towards the northwest and the earth to shift to the southeast."* [4]
 
 ## Great Flood (2300 BCE?)
 
@@ -53,6 +51,7 @@ PDF included in this folder.
 1. https://en.wikipedia.org/wiki/Great_Flood_(China)
 2. https://en.wikipedia.org/wiki/Xia_dynasty#Gun,_Yu,_and_the_flood
 3. https://theculturetrip.com/asia/china/articles/chinas-4000-year-old-great-flood-myth-verified-by-science
+4. https://en.wikibooks.org/wiki/Chinese_Stories/N%C3%BCwa
 
 # TODO
 

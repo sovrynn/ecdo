@@ -39,7 +39,6 @@ ECDO phenomena to flesh out:
 - time spent in S2
 - transition from S2 back to S1 (slow or fast?)
 - Verification of Ethical Skeptic's thesis (hard to know without knowing if there's any information he's not sharing)
-- why 104 degrees?
 
 - Fluid dynamics simulations
 	- calculate the function of dzhanibekov rotation speed

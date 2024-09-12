@@ -4,12 +4,22 @@ This folder is for understanding the Dzhanibekov effect, which references the ef
 
 ![](img/dzhanibekov.gif)
 
-## Ethical Skeptic quotes [1]
+## Ethical Skeptic: Mediated Dzhanibekov Oscillation
 
-*"While our theory references the Dzhanibekov Effect, it is crucial to understand that Earth’s real three PIM-axis body application (see Exhibit C2 to right) diverges in part from the classical three-axis definition observed in space (Exhibit C).11 Our model does not strictly adhere to the traditional Dzhanibekov Effect definition, where an object flips 180 degrees due solely to rotational instability around its intermediate axis (Exhibit C above). Instead, we explore how similar principles could influence Earth’s rotational dynamics under different conditions, specifically,"* [1]
+*"While our theory references the Dzhanibekov Effect... Our model does not strictly adhere to the traditional Dzhanibekov Effect definition, where an object flips 180 degrees due solely to rotational instability around its intermediate axis (Exhibit C above). Instead, we explore how similar principles could influence Earth’s rotational dynamics under different conditions, specifically,"* [1]
 1. *"a reduction in the geomagnetic coupling between the Earths’ core and its mantle as the core’s geomagnetic moment, which helps to keep the present polar rotational axis as priority, fades,"*
 2. *"destabilization caused by the Earth’s hotter mantle versus less-dense Large Low-Velocity-Shear Provinces (LLVPs), and in particular the center of low-mass in the South Africa Cusp LLVP. This core material infusion can potentially polarize the Earth’s rotational momentum, leading to significant shifts in the planet’s rotation around its maximum axis (the remaining dense mantle), and"*
 3. *"a gyroscopic 104 degrees (relative to the current polar axis, see Exhibits H and J) mediation of the Dzhanibekov effect—not the 0 to 180 degrees typically illustrated in simpler physical models (Exhibit C)."*
+
+As far as conservation of angular momentum goes, this is Ethical Skeptic's explanation: *"The H-layer of the core accelerates its exothermic sloughing, and this material-shedding effect serves as a kind of ‘infinite lubricant’ between the core and the mantle, allowing the two bodies to rotate independently (as shown in Exhibits J and J2)."*
+
+![](img/tes.webp)
+
+*"The reader should note that in this scenario, geomagnetic north has not moved; rather, it is the mantle, asthenosphere, and lithosphere (crust) that have undergone rotation. The sloughing of the H-layer acts as a lubricating mechanism between the core and the mantle, facilitating this process, much like applying duct tape to a ball of melting butter—it simply won’t adhere."*
+
+As far as why the rotation is only 104 degrees, that is due to the mass distribution of the mantle, which has its least dense area in the South Africa LLVP. This would make the axis running through this point a third principal axis [see below physics explanation], on which the rotation of the mantle would become stable:
+
+![](img/llvp.webp)
 
 ## Overview [2]
 
@@ -22,14 +32,6 @@ And here then unpleasant analogies come to mind with our Earth rotating in weigh
 1. https://youtu.be/dL6Pt1O_gSE
 2. https://geocenter.info/en/article/kogda-solnce-vzojdjot-na-zapade-ili-jeffekt-dzhanibekova-i-klimat-zemli
 3. https://youtu.be/NJLdW4DHRcA
-
-## Why is the ECDO 104 degrees?
-
-TES hypothesis adds that the core has decoupled from the mantle, so the effect is limited to less than 180 degree flip before the outer layers find equilibrium again, and it seems that this is at 104 degrees. If the core and mantle remained locked, the flip would be 180 degrees.
-
-In addition, TES proposes that in this mediated Dzhanibekov oscillation, the flip may be 104 degrees because that is the distance of the least dense LLVP centroid, under South Africa:
-
-![](img/llvp.webp)
 
 ## Dzhanibekov flip physics explanation basics
 

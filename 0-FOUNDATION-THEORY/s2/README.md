@@ -38,4 +38,4 @@ As the inner layers of the Earth, including the upper mantle which lies beneath 
 
 # TODO
 
-Investigate potential "nuclear winter" during S2, caused by changes in the core-mantle and dust from volcanoes.
+Investigate potential "nuclear winter" during S2, caused by changes in the core-mantle, solar minimum, and volcanic ash.
