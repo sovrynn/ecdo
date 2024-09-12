@@ -20,17 +20,15 @@ Korea is quite hilly, with mountains running along the east, particularly in the
 
 ## Chokepoint water flow
 
-The way I see it, Korea's geography is pretty much as bad as it gets for bypassing the water flow. Its east coast essentially forms a huge chokepoint, which will force the surge coming over from Japan to flow up over the land. I predict the water will flow over Korea starting at these two areas:
+The way I see it, Korea's geography is pretty much as bad as it gets for bypassing the water flow. Its east coast essentially forms a huge chokepoint, which will force the surge coming over from Japan to flow up over the land. If I had to guess, most of Korea will be inundated, with only a few areas at the highest elevations safe. At a very basic level, the water flow will be like this:
 
-![chokepoints](img/chokepoints.png "chokepoints")
+![](img/chokepoints2.png)
 
-If I had to guess, most of Korea will be inundated, with only a few areas at the highest elevations safe. This is how I'm visualizing the flow, with the circled areas entirely inundated:
-
-![chokepoints](img/chokepoints2.png "chokepoints")
-
-This is an 800m flood map. For reference, Mount Myohang's highest point is 1909 m. [3] I think the water flow will be an absolute minimum of 700m in the entire central chokepoint area because that's the only level at which there is enough space for the water to flow westward.
+This is an 800m flood map. For reference, Mount Myohang's highest point is 1909 m. [3] The water flow will be an absolute minimum of 700m in the entire central chokepoint area because that's the only level at which there is enough space for the water to flow westward.
 
 ![flood](img/flood.png "800m floodmap")
+
+But as detailed below, there's clear erratic evidence for a much higher surge.
 
 ## Erratics
 
@@ -133,7 +131,7 @@ This is an interesting dataset. From what I can see, it indicates that Mount Pae
 
 ## Final verdict - Safe Locations
 
-It's not clear to me that there are any surefire safe locations on this peninsula based on the 800m Seoraksan erratics. It might be possible that south Korea is almost completely submerged, and almost all of the mountain range in north Korea gets completely covered in ash. In that case, a cave in Mt. Myohang, which is basically the furthest possible high point that's away from Mt. Paektu in Korea, might actually be one of the very few places that a human could survive an ECDO event in Korea under normal circumstances.
+It's not clear to me that there are any surefire safe locations on this peninsula. It seems likely that south Korea will almost be completely submerged, and almost all of the mountain range in north Korea gets completely covered in ash. In that case, a cave in Mt. Myohang, which is basically the furthest possible high point that's away from Mt. Paektu in Korea, might actually be one of the very few places that a human could survive an ECDO event in Korea under normal circumstances.
 
 In the south of Korea, Jirisan doesn't look terrible. It has a peak of 1915m which matches Mt. Myohang. It's the highest mainland mountain in South Korea. I didn't find obvious erratics on the peak. Additionally it's away from the western terrain chokepoint, and isn't surrounded by high-elevation land, giving the water plenty of room to go around.
 
