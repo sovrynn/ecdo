@@ -44,6 +44,8 @@ Davolja Varos (earth towers)
 
 Chocolate Hills in Philippines
 
+Glacial erratics: https://www.atlasobscura.com/lists/glacial-erratic
+
 ## Chokepoints
 
 North Sea chokepoints, north to south: The Norwegian Trench, the Devil's holes, the Holderness coastline, the Jurassic coastline, ripples across France, the creation of the Alps, Pyrennes and the Iberian peninsula, the huge oceanic trenches to the south of UK and Ireland.
@@ -65,10 +67,6 @@ https://www.britishmuseum.org/blog/lion-man-ice-age-masterpiece
 ## Countour maps
 
 Many excellent contour maps linked here: https://x.com/SunWeatherMan/status/1830716258092011999?s=19
-
-## Good source for finding erratics, high-elevation erosion
-
-Google images, alltrails
 
 ## TODO heuristics for evaluating locations
 

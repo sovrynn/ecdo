@@ -20,6 +20,12 @@ Southern Africa, "The Cradle of Humankind" [1]. Seemingly has no cultural flood 
 7. https://nobulart.com/the-diamond-conspiracy/
 8. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
 
+## Saltwater Lakes
+
+Red are saltwater, green are freshwater.
+
+![](img/lakes.jpg)
+
 ## Oranjemund
 
 ![sa](img/oranjemund.png "sa")

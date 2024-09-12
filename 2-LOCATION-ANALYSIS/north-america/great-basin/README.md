@@ -39,6 +39,17 @@ Now we can explain the salt deposits in Death Valley and the Great Salt Lake in 
 
 ![x](img/salt-lake.png "")
 
+## Olmsted Point, Yosemite (2666m)
+
+![](img/olmsted1.png)
+![](img/olmsted2.jpg)
+
+## Lookout Peak (Kings Canyon)
+
+2533m.
+
+![](img/lookout-peak.jpg)
+
 ## Sedona (Arizona) red rocks
 
 Sedona is home to some lovely sandstone structures.
