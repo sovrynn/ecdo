@@ -55,7 +55,3 @@ All it really shows is the ~4500 year gas giant cycle. However you can also see 
 
 1. https://nobulart.com
 2. https://landscheidt.info
-
-# TODO
-
-https://colab.research.google.com/drive/1fMxwUoyc_-YXL_zB7mcgxcGjX_i9WWYX?usp=sharing
