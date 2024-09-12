@@ -22,7 +22,7 @@ Past that, there are also exothermic core and temperature anomalies.
 
 There will be quakes, eruptions and extreme weather due to the disruptions to the electromagnetic field. Weather like we have never seen I imagine. I think we will know when it’s imminent.
 
-There will be quakes, eruptions and extreme weather due to the disruptions to the electromagnetic field. Weather like we have never seen I imagine. I think we will know when it’s imminent.
+Almost certainly a globally experienced seismic movement in the hours before, and then a short time as the new dominant axis exponentially gains centrifugal dominance.
 
 ## Citations
 
