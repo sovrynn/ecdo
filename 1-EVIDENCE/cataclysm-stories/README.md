@@ -8,7 +8,15 @@ See `EVIDENCE/bible` for Bible flood myths.
 
 - Massive flood myth compilation: https://talkorigins.org/faqs/flood-myths.html (Hard copy in `hard-copies`)
 - Allan and Dellair's Cataclysm: https://archive.org/details/cataclysmcompell00alla
-- Uriel's Machine (`LITERATURE/uriel`)
+- Literature (see `LITERATURE`):
+	- Uriel's Machine (`LITERATURE/uriel`)
+	- Moons Myths and Man, Bellamy
+	- Exodus Lost: An Inquiry into the Genesis of Civilization, Compton
+	- Georges Cuvier
+	- The Flood Reconsidered, Filby
+	- Systeme Du Monde, Laplace
+	- Earth in Upheaval, Worlds in Collision, by Velikovsky
+- Ethical Skeptic's original thesis
 
 ## Talkorigins excerpt
 
@@ -31,10 +39,8 @@ South America:
 
 - The Bible, Egyptian legends and other stories from antiquity describe a solar event, often involving a black sun.
 - Altai megafloods
-- Deucalion flood (1500 BCE)
 - Hawaiian flood (1000-1500 CE)
 - Popol Vuh, Maya flood (500-800 CE)
-- Atra-Hasis Epic Mesopotamia (1800-1700 BCE)
-	- Sumerian Flood Story (Eridu Genesis)
+- Sumerian Flood Story (Eridu Genesis)
 
 Malaysian and Sumatran stories describe a long night they feared would never end.

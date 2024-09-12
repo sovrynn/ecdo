@@ -1,0 +1,5 @@
+# Censorinus
+
+De die natali liber. The original is not in modern English. Translated version in this folder.
+
+*"There is also a year which Aristotle calls Perfect, rather than Great, which is formed by the revolution of the sun, of the moon and of the five planets, when they all come at the same time to the celestial point from which they started together. This year has a great winter called by the Greeks the Inundation and by the Latins The Deluge; it has also a summer which the Greeks call the Conflagration of the world. The world is supposed to have been by turns deluged or on fire at each of these epochs. According to the opinion of Aristarchus this year was composed of 2484 solar years; according to Arestes of Dyrrachium, it was 5552 years; according to Heraclitus and Linus it was 10,800; according to Dion it was 10,884; according to Orpheus it was 10,020 years; and according to Cassandrus it was 3,600,000 years. Others have thought it infinite; and that it would never recur."*
