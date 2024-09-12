@@ -40,7 +40,7 @@ Red is clear erratic evidence, green is places that seem safe.
 
 ## Daechongbong Peak (1708m)
 
-![](img/daechongbong.jpg)
+![](img/daecheongbong.jpg)
 
 ## Taebaeksan
 
