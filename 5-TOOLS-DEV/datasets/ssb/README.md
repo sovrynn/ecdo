@@ -45,3 +45,7 @@ I've adjusted the 3.7ka markers to align with our existing timeline. They occur 
 
 1. https://nobulart.com
 2. https://landscheidt.info
+
+# TODO
+
+https://colab.research.google.com/drive/1fMxwUoyc_-YXL_zB7mcgxcGjX_i9WWYX?usp=sharing
