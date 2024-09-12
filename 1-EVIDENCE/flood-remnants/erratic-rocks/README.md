@@ -2,11 +2,6 @@
 
 Often attributed to glaciers.
 
-## Olmsted Point, Yosemite (2666m)
-
-![](img/olmsted1.png)
-![](img/olmsted2.jpg)
-
 ## Stonehenge
 
 "Mineralogical tests on the massive six-tonne stone at the heart of the monument show that this central rock, known as the altar stone, was brought to Stonehenge from the far north of Scotland."
