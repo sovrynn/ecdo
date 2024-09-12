@@ -1,10 +1,12 @@
-# Sun SSB Distance Dataset [1]
+# Sun SSB Distance Dataset
 
-`SUN-SSB-20ka.txt`: 20,000 years of Sun-SSB displacement data, pulled from Horizons in chunks and reassembled into a continuous record.
+## Contents
 
-Plug the file into LabPlot.
+- `SUN-SSB-20ka.txt`: 20,000 years of Sun-SSB displacement data, pulled from Horizons in chunks and reassembled into a continuous record.
+- `SUN-SSB-20ka.lml`: LabPlot Fourier Analysis. Plug the file into LabPlot.
+- `ssb.ipynb`: Google Colab simple matrix distance analysis.
 
-## Analysis
+## LML Fourier Analysis [1]
 
 I've indicated 4627 year periods with background colours.
 
