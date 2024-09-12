@@ -32,13 +32,27 @@ This is an 800m flood map. For reference, Mount Myohang's highest point is 1909 
 
 ![flood](img/flood.png "800m floodmap")
 
-## Mt. Myohang
+## Erratics
 
-Surprisingly, the cave where Dangun's parents survived a likely ECDO event is not extremely high in elevation. It's on the extremity of Korea's high elevation land, and close to Korea's main water flow-point.
+Red is clear erratic evidence, green is places that seem safe.
 
-![myohang](img/myohang.png "mount myohang")
+![](img/erratics.jpg)
 
-That being said, it's the furthest high-elevation location from Mt. Paektu, which is promising.
+## Daechongbong Peak (1708m)
+
+![](img/daechongbong.jpg)
+
+## Taebaeksan
+
+Peak elevation of 1567m. Picture from Munsubong Peak (1515m). [7]
+
+![](img/munsubong.jpg)
+
+## Sobaeksan (Birobong)
+
+Birobong Peak, 1439m.
+
+![](img/birobong.png)
 
 ## Ulsanbawi (Seoraksan) Erratics
 
@@ -70,6 +84,14 @@ Ulsanbawi is a large rock mountain in the Seoraksan mountains. It is situated on
 Baegundae peak (800m):
 
 ![](img/baegundae.jpg)
+
+## Mt. Myohang (1909m)
+
+Surprisingly, the cave where Dangun's parents survived a likely ECDO event is not extremely high in elevation. It's on the extremity of Korea's high elevation land, and close to Korea's main water flow-point.
+
+![myohang](img/myohang.png "mount myohang")
+
+That being said, it's the furthest high-elevation location from Mt. Paektu, which is promising.
 
 ## Volcanoes
 
@@ -109,11 +131,11 @@ Korea lies quite close to major subduction of the Pacific and Phillipine plates,
 
 This is an interesting dataset. From what I can see, it indicates that Mount Paektu is much greater in scale than the central volcano. The two island volcanoes have also clearly been active recently. [2]
 
-## Final verdict
+## Final verdict - Safe Locations
 
 It's not clear to me that there are any surefire safe locations on this peninsula based on the 800m Seoraksan erratics. It might be possible that south Korea is almost completely submerged, and almost all of the mountain range in north Korea gets completely covered in ash. In that case, a cave in Mt. Myohang, which is basically the furthest possible high point that's away from Mt. Paektu in Korea, might actually be one of the very few places that a human could survive an ECDO event in Korea under normal circumstances.
 
-In the south of Korea, a carefully selected location on the highest points of the eastern mountain range, not on the easternmost side as to avoid the initial water surge and wind, would be the best bet, although certainly a gamble.
+In the south of Korea, Jirisan doesn't look terrible. It has a peak of 1915m which matches Mt. Myohang. It's the highest mainland mountain in South Korea. I didn't find obvious erratics on the peak. Additionally it's away from the western terrain chokepoint, and isn't surrounded by high-elevation land, giving the water plenty of room to go around.
 
 ## Citations
 
@@ -123,6 +145,7 @@ In the south of Korea, a carefully selected location on the highest points of th
 4. https://www.volcanodiscovery.com/chuga-ryong.html
 5. https://mapcarta.com/16013170
 6. http://nationalatlas.ngii.go.kr/pages/page_670.php
+7. https://www.peakbagger.com/peak.aspx?pid=-161482
 
 # TODO
 
