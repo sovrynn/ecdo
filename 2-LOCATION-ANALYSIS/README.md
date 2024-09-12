@@ -46,15 +46,15 @@ Chocolate Hills in Philippines
 
 Glacial erratics: https://www.atlasobscura.com/lists/glacial-erratic
 
-## Chokepoints
-
-North Sea chokepoints, north to south: The Norwegian Trench, the Devil's holes, the Holderness coastline, the Jurassic coastline, ripples across France, the creation of the Alps, Pyrennes and the Iberian peninsula, the huge oceanic trenches to the south of UK and Ireland.
-
 ## TODO Nobulart quote
 
 Nevada and Utah are classic examples of huge flood morphology. We found current ripples in Somalia which gave a calculated water depth of 1.2km, probably the Mediterranean. Observed water levels in many places appear to be in agreement with theorized movement of water. The ripples I’ve seen in France, USA, South America and Australia suggest water MUCH deeper than Somalia. Definitely 3-4km and more in places.
 
-## oldest remnants
+## Chokepoints
+
+North Sea chokepoints, north to south: The Norwegian Trench, the Devil's holes, the Holderness coastline, the Jurassic coastline, the creation of the Alps, the huge oceanic trenches to the south of UK and Ireland.
+
+## Oldest cave art remnants
 
 Until a few years ago, the oldest known figurative cave painting was a 21,000-year-old rock art panel in Lascaux, France, showing a bird-headed human charging a bison.
 
@@ -71,11 +71,7 @@ Many excellent contour maps linked here: https://x.com/SunWeatherMan/status/1830
 ## TODO heuristics for evaluating locations
 
 Additional potential heuristics:
-- land elevation, flood height
-- oldest cities, longest inhabitation
+- oldest cities, longest inhabitation, longest standing tall structures, archaelogical sites
 - protection from wind
-- temperature
-- proximity to fault lines
-- Longest standing tall structures, old relics/remains
-	- For example, it's hard to imagine that a theoretical archaelogical site where tools and intact structures were found could have been flooded by a huge wall of water without getting destroyed or at least scattered somehow.
+- temperature after the flip
 - every sufficiently ethnically unique human tribe must have survived an ECDO event, because otherwise they would have had to develop their racial uniqueness within single ECDO epochs. Maybe you could model a "minimum degrees of separation", based on how much time it would take to create genetic uniqueness, to figure out the minimum genetic distance at which you could say that two different gene pools must have survived ECDO events separately
