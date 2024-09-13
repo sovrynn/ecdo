@@ -39,6 +39,11 @@ Now we can explain the salt deposits in Death Valley and the Great Salt Lake in 
 
 ![x](img/salt-lake.png "")
 
+## Yosemite
+
+![](img/yosemite1.jpg)
+![](img/yosemite2.jpg)
+
 ## Olmsted Point, Yosemite (2666m)
 
 ![](img/olmsted1.png)
@@ -49,6 +54,12 @@ Now we can explain the salt deposits in Death Valley and the Great Salt Lake in 
 2533m.
 
 ![](img/lookout-peak.jpg)
+
+## Bryce Canyon
+
+Average elevation around 2438m. [3]
+
+![](img/bryce.jpg)
 
 ## Sedona (Arizona) red rocks
 
@@ -70,3 +81,4 @@ These would, of course, be explained by the inundation of the Great Basin, by wa
 
 1. https://en.wikipedia.org/wiki/Great_Basin
 2. https://en.wikipedia.org/wiki/Cathedral_Rock
+3. https://www.nps.gov/brca/planyourvisit/hiking-at-high-altitudes.htm
