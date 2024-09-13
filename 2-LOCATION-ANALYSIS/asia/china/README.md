@@ -38,7 +38,7 @@ China's mainland will not escape unscathed from this water.
 ## Shaoguan, Danxia, South China
 
 ![](img/shaoguan.jpeg)
-![](img/shaoguan2.jpg)
+![](img/shaoguan2.png)
 
 615m, Bazhai Mountain:
 
