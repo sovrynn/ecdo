@@ -1,4 +1,4 @@
-# Earth Material [1]
+# Earth Surface Material [1]
 
 Rocks are naturally occurring solid aggregates of one or more minerals, mineraloids, or organic materials. They are classified into three main types based on their formation:
 - **Igneous Rocks**: Formed from the cooling and solidification of molten magma or lava.

@@ -23,23 +23,45 @@ I predict China will have to deal with water coming from 3 major chokepoints, al
 
 China's mainland will not escape unscathed from this water.
 
+## Baishi Mountain (Baishishan), Hebei Province, 2096m [1]
+
+![](img/baishi.jpg)
+![](img/baishi2.jpg)
+![](img/baishi3.jpg)
+
+## Mangshan Mountain, Hunan, 1902m [2]
+
+![](img/mangshan.jpeg)
+![](img/mangshan2.jpg)
+![](img/mangshan3.jpeg)
+
+## Shaoguan, Danxia, South China
+
+![](img/shaoguan.jpeg)
+![](img/shaoguan2.jpg)
+
+615m, Bazhai Mountain:
+
+![](img/bazhai.jpeg)
+
 ## China Karst Landscapes
 
 https://whc.unesco.org/en/list/1248/
 
 ![](img/karst.jpg)
 
-- Wulong Karst - Qingkou Giant Doline (Tiankeng)
-- Wulong Karst - Three Natural Bridges
-- Wulong Karst - Furong Cave
-- Jinfoshan Karst
-- Shibing Karst
-- Libo Karst - 'Xiaoqijong'
-- Libo Karst - 'Dongduo'
+- Wulong Karst National Park (average elevation 1850m):
+	- Wulong Karst - Qingkou Giant Doline (Tiankeng)
+	- Wulong Karst - Three Natural Bridges
+	- Wulong Karst - Furong Cave
+- Jinfoshan Karst (~1000m)
+- Shibing Karst (~750m)
+- Libo Karst - 'Xiaoqijong' (~800m)
+- Libo Karst - 'Dongduo' (~800m)
 - Guilin Karst - Putao Fenling Karst
-- Guilin Karst - Lijiang Fengcong Karst
+- Guilin Karst - Lijiang Fengcong Karst (~330m)
 - Shilin Karst - Naigu Stone Forest
-- Shilin Karst - Suogeyi Village
+- Shilin Karst - Suogeyi Village (~1900m)
 
 Naigu Stone Forest (1625-1900m elevation, 20-40m tall):
 
@@ -48,13 +70,16 @@ Naigu Stone Forest (1625-1900m elevation, 20-40m tall):
 Wulong:
 
 ![](img/wulong1.jpeg)
+
+Three Natural Bridges, Wulong (200-300m tall):
+
 ![](img/wulong2.jpg)
 
 Lijiang River:
 
 ![](img/lijiang.jpg)
 
-## Zhangjiajie Mountains
+## Zhangjiajie Mountains (1000m, 120-300m tall) [4]
 
 Zhangjiajie mountains are a group of mountains with very interesting shape. They are tall, narrow mountain pillars.
 
@@ -98,7 +123,7 @@ Beijing and Luoyang are the only two locations in China which have been inhabite
 
 ![oldest cities](img/china-old-cities.png "china old cities")
 
-Beijing's history goes far back as 1100 BC, which is ~3100 years ago, when it was named the City of Ji during the Zhou Dynasty.
+Beijing's history goes far back as 1100 BC, which is ~3100 years ago, when it was named the City of Ji during the Zhou Dynasty. [3]
 
 There may have been a city named Zhenxun built near present day Luoyang in 2070 BC.
 
@@ -120,19 +145,22 @@ It's only at an elevation of 50m above sea level.
 
 ## Citations
 
-- https://en.wikipedia.org/wiki/History_of_Beijing
-
-Zhangjiajie:
-- https://en.wikipedia.org/wiki/Zhangjiajie_National_Forest_Park
-- http://www.chinatoday.com.cn/ctenglish/se/txt/2009-01/21/content_175438.htm
-- https://whhlyt.hunan.gov.cn/whhlyt/english/TourismInRegions/Zhangjiajie/ZhangjiajieAttractions/202211/t20221108_29119497.html
-- https://www.guinnessworldrecords.com/world-records/593531-largest-concentration-of-sandstone-pillars
+1. https://en.wikipedia.org/wiki/Baishi_Mountain
+2. https://whhlyt.hunan.gov.cn/whhlyt/english/Tourism/NationalForestParks/202206/t20220610_25443187.html
+3. https://en.wikipedia.org/wiki/History_of_Beijing
+4. Zhangjiajie:
+	- https://en.wikipedia.org/wiki/Zhangjiajie_National_Forest_Park
+	- http://www.chinatoday.com.cn/ctenglish/se/txt/2009-01/21/content_175438.htm
+	- https://whhlyt.hunan.gov.cn/whhlyt/english/TourismInRegions/Zhangjiajie/ZhangjiajieAttractions/202211/t20221108_29119497.html
+	- https://www.guinnessworldrecords.com/world-records/593531-largest-concentration-of-sandstone-pillars
 
 # TODO
 
 Things to look into:
 - historical sites
 - interesting mountain ranges
+
+Danxia Rainbow mountains
 
 ChatGPT Karst:
 - Guilin and Yangshuo:

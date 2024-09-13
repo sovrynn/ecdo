@@ -28,6 +28,7 @@ North america:
 - Spanish Peaks
 - Missoula flood, lake missoula
 - Burke's Garden
+- natural bridges: https://en.wikipedia.org/wiki/Natural_Bridges_National_Monument
 
 Europe:
 - Slovenia, known for its karst landforms.

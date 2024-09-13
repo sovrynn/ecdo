@@ -34,7 +34,7 @@ ECDO phenomena to flesh out:
     - Temperature changes (very cold during S2?)
 - time spent in S2
 - transition from S2 back to S1 (slow or fast?)
-- Verification of Ethical Skeptic's thesis (hard to know without knowing if there's any information he's not sharing)
+- more original info from TES
 
 - Fluid dynamics simulations
 	- calculate the function of dzhanibekov rotation speed

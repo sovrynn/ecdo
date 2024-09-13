@@ -12,7 +12,7 @@ The Earth's inner layers are at the centerpoint of the ECDO theory - not only do
 
 ![](../dzhanibekov/img/llvp.webp)
 
-## Overview
+## Basics
 
 Earth has several internal layers:
 
