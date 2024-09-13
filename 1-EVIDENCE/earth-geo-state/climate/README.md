@@ -106,7 +106,7 @@ The electromagnetic emission in the atmosphere is produced if at any point of th
 1. https://en.wikipedia.org/wiki/Telluric_current
 2. https://cdn.intechopen.com/pdfs/26246/InTech-Electric_displacement_by_earthquakes.pdf
 
-## Piozeelectric Effect
+## Piezoelectric Effect
 
 ![x](img/telluric1.jpg "telluric")
 ![x](img/telluric2.jpg "telluric")
