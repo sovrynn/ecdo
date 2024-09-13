@@ -42,46 +42,51 @@ Red is clear erratic evidence, green is places that seem safe.
 
 ## Taebaeksan
 
-Peak elevation of 1567m. Picture from Munsubong Peak (1515m). [7]
+Peak elevation of 1567m.
 
 ![](img/munsubong.jpg)
 
 ## Sobaeksan (Birobong)
 
-Birobong Peak, 1439m.
+Birobong Peak, 1563m.
 
-![](img/birobong.png)
+![](img/birobong2.jpg)
 
-## Ulsanbawi (Seoraksan) Erratics
+## Ulsanbawi (Seoraksan) Erratics (874m [5])
 
-Ulsanbawi is a large rock mountain in the Seoraksan mountains. It is situated on the east coast of Korea, bordering the massive coastal chokepoint bay, right under the border with North Korea. It has a peak of 874m [5], and some interesting features:
-
-![](img/seoraksan.jpg)
 ![](img/seoraksan3.jpg)
 ![](img/seorak1.jpg)
 ![](img/seorak4.jpg)
 ![](img/seorak3.jpg)
 ![](img/seorak5.jpg)
+![](img/seoraksan.jpg)
+
+## Munsubong (Bukhansan) [9]
+
+![](img/munsubong2.jpeg)
+![](img/munsubong3.jpeg)
+![](img/munsubong4.png)
+
+## Samobawi Rock, Bibong Peak, Bukhansan (금선사)
+
+Samobawi rock, at ~500m [8,9]:
+
+![](img/bibong.jpeg)
+
+## Bukhansan
+
+Baegundae peak (800m) [8]:
+
+![](img/baegundae2.jpeg)
+![](img/baegundae3.jpeg)
 
 ## Gwanaksan
 
 ~500m peak.
 
 ![](img/gwanaksan.webp)
-![](img/gwanaksan2.jpg)
-![](img/gwanaksan3.jpg)
-
-## Bibong Peak (금선사)
-
-~500m peak.
-
-![](img/bibong.jpeg)
-
-## Bukhansan
-
-Baegundae peak (800m):
-
-![](img/baegundae.jpg)
+![](img/gwanaksan4.jpg)
+![](img/gwanaksan5.jpg)
 
 ## Mt. Myohang (1909m)
 
@@ -144,6 +149,9 @@ In the south of Korea, Jirisan doesn't look terrible. It has a peak of 1915m whi
 5. https://mapcarta.com/16013170
 6. http://nationalatlas.ngii.go.kr/pages/page_670.php
 7. https://www.peakbagger.com/peak.aspx?pid=-161482
+8. https://english.visitseoul.net/seoul-hiking/Bukhansan%20course%20recommendations%20for%20those%20who%20dream%20of%20becoming%20professional%20hikers_/40847
+9. https://english.visitseoul.net/seoul-hiking/Hiking-through-history-Samobawi%E2%80%93-Bibong-Trail_/42750
+10. Seoul hiking guide: https://english.seoul.go.kr/wp-content/uploads/2024/01/SEOUL-HIKING-GUIDE-BOOK.pdf
 
 # TODO
 
