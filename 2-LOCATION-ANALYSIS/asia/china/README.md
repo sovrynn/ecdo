@@ -25,24 +25,25 @@ China's mainland will not escape unscathed from this water.
 
 ## Baishi Mountain (Baishishan), Hebei Province, 2096m [1]
 
-![](img/baishi.jpg)
-![](img/baishi2.jpg)
 ![](img/baishi3.jpg)
+![](img/baishi.jpg)
+![](img/baishi4.jpg)
 
 ## Mangshan Mountain, Hunan, 1902m [2]
 
+![](img/mangshan4.webp)
 ![](img/mangshan.jpeg)
 ![](img/mangshan2.jpg)
-![](img/mangshan3.jpeg)
 
 ## Shaoguan, Danxia, South China
 
-![](img/shaoguan.jpeg)
+![](img/shaoguan3.jpg)
 ![](img/shaoguan2.png)
+![](img/shaoguan.jpeg)
 
 615m, Bazhai Mountain:
 
-![](img/bazhai.jpeg)
+![](img/bazhai2.jpg)
 
 ## China Karst Landscapes
 
