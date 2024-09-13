@@ -26,8 +26,8 @@ China's mainland will not escape unscathed from this water.
 ## Baishi Mountain (Baishishan), Hebei Province, 2096m [1]
 
 ![](img/baishi3.jpg)
-![](img/baishi.jpg)
 ![](img/baishi4.jpg)
+![](img/baishi.jpg)
 
 ## Mangshan Mountain, Hunan, 1902m [2]
 
