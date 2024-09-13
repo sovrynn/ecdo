@@ -9,6 +9,7 @@ A reader should be able to come away from this folder with an understanding of p
 **Major ECDO content**:
 - `s1-to-s2`: S1 -> S2 rotation.
 - `why-104-31-meridian`: Why the rotation is 104 degrees along the 31 Meridian.
+- `earth-inner-layers`: Inner layers of the Earth.
 - `oceanic-displacement`: Displacement of oceans and bodies of water.
 - `ecdo-frequency`: Predicting ECDO frequency.
 
@@ -18,20 +19,15 @@ A reader should be able to come away from this folder with an understanding of p
 
 **Prerequisite knowledge**:
 - `dzhanibekov`: Dzhanibekov effect.
-- `core-mantle`: Core-mantle coupling.
 - `solar-system`: Solar system.
-- `earth-inner-layers`: Inner layers of the Earth.
-- `earth-material`: Material that makes up the surface of the Earth.
 - `tectonic-plates`: Tectonic plate interactions.
 - `volcanoes`: Volcano activity surges.
 - `equatorial-bulge`: Equatorial bulge.
-- `math`: Math techniques applied in analyzing the ECDO.
 
 # TODO
 
 Prior knowledge to understand:
 - core-mantle magnetic coupling
-- Dzhanibekov effect
 
 ECDO phenomena to flesh out:
 - All differences between S1 and S2
