@@ -4,7 +4,7 @@
 
 *"An electric field (sometimes called E-field[1]) is the physical field that surrounds electrically charged particles. Charged particles exert attractive forces on each other when their charges are opposite, and repulse each other when their charges are the same. Because these forces are exerted mutually, two charges must be present for the forces to take place. The electric field of a single charge (or group of charges) describes their capacity to exert such forces on another charged object. These forces are described by Coulomb's law, which says that the greater the magnitude of the charges, the greater the force, and the greater the distance between them, the weaker the force."* [1]
 
-*"Electric field of a positive point electric charge suspended over an infinite sheet of conducting material. The field is depicted by electric field lines, lines which follow the direction of the electric field in space. The induced charge distribution in the sheet is not shown."*
+Image below: *"Electric field of a positive point electric charge suspended over an infinite sheet of conducting material. The field is depicted by electric field lines, lines which follow the direction of the electric field in space. The induced charge distribution in the sheet is not shown."*
 
 ![](img/electric-field.svg.png)
 
