@@ -6,9 +6,9 @@ Average rotation speeds during a 6 hour rotation are clearly visible in this dia
 
 ![](../img/rotation2.png)
 
-It can be difficult to imagine hourly speeds. Just try converting it to m/s and you'll get a better idea - 1200 km/h becomes 333m per second. Almost a track lap per second. This [Mach 1 flight sim](https://youtube.com/shorts/BiA87M8UmTM?si=_scmestjKtV22TJ0) is cool as well.
+It can be difficult to imagine hourly speeds. Just use m/s instead and you'll get a better idea - 1200 km/h becomes 333m per second. Almost a track lap per second. This [Mach 1 flight sim](https://youtube.com/shorts/BiA87M8UmTM?si=_scmestjKtV22TJ0) (approximately 1200 km/h) helps visualize how fast the water would move at that speed.
 
-What follows is the methodology used to arrive at the above speeds.
+What follows is the methodology used to calculate the average rotation speeds.
 
 ## Calculating rotational speed - trigonometry
 

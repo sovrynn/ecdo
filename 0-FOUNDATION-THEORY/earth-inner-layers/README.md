@@ -32,7 +32,7 @@ Total: 12.7k km
 
 ## Core-Mantle Coupling Research Papers
 
-This is recommended by Nobulart: https://annas-archive.org/md5/18c9a31311c4b4779d90bf955d4cbafe
+This is recommended by Nobulart (massive 20 MB file, not putting in repo): https://annas-archive.org/md5/18c9a31311c4b4779d90bf955d4cbafe
 
 There's also several PDFs of papers in `papers/`.
 
