@@ -38,7 +38,7 @@ Coloured elements are my own additions. Blue and red indicate selected reversal 
 
 https://x.com/nobulart/status/1816565694244192663
 
-## Paleomagnetic data: 18.5k cycle (Milankovitch cycle) effects on climate
+## Sediment data: 18.5k cycle (Milankovitch cycle) effects on climate
 
 ![18k viz](img/milankovitch-18k-cycle.jpg "18k viz")
 
