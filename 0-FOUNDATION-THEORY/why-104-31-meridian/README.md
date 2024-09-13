@@ -22,6 +22,10 @@ More on the Khafre Pyramid in TES thesis [1] and `EVIDENCE/civilization-history/
 
 *"The LLVP formations in contrast (Exhibit E), serve as a minimum axis, with the rest of the mantle forming a hot 3-PIM maximum-axis set (Exhibit E2). When combined, these serve to gyroscopically compete with the magnetically coupled axis, as well as mitigate a pure 180 degree Dzhanibekov rotation departure from that geomagnetic axis."*
 
+## Paleomagnetic Data
+
+We have evidence of a rotation of the poles from paleomagnetic data; see `EVIDENCE/physical-material/land-soil-earth`.
+
 ## Mythical Evidence
 
 We have a mythical Chinese account of China rotating in the same direction as would be predicted during S1 -> S2:
