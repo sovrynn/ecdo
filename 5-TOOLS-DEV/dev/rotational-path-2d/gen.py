@@ -340,7 +340,8 @@ fig = plt.figure(figsize=(res, res * 0.5625))
 # so this changes the basemap position afaik, it creates a little box for it.
 # its always going to be awkwardly away from the legend when you do this BUT
 # this ensures you'll never have the map overlapping the legend
-ax = fig.add_axes([0.03, 0.03, 0.86, 0.94])  # Adjust these values as needed
+# ax = fig.add_axes([0.03, 0.03, 0.86, 0.94])  # Adjust these values as needed
+ax = fig.add_axes([0.03, 0.03, 0.86, 0.90])  # Adjust these values as needed
 
 
 # ax = plt.subplot(111,aspect = 'equal')
@@ -349,7 +350,7 @@ plt.axis('tight')
 plt.subplots_adjust(left=0.03, bottom=0.03, right=0.97, top=0.94, wspace=0, hspace=0)
 
 # Set the title
-# plt.title('ECDO S1 -> S2 Rotation Path and Speed (6 hr rotation)', fontsize=28, pad=20)
+plt.title('ECDO S1 -> S2 Rotation Path and Speed (6 hr rotation)', fontsize=28, pad=20)
 
 # Set up the Basemap with the 'ortho' projection
 # m = Basemap(projection='ortho', lat_0=0, lon_0=0)
@@ -544,7 +545,8 @@ if use_marker:
 
 
 # Create an axis for the colorbar (legend) outside the map area
-cbar_ax = fig.add_axes([0.89, 0.18, 0.025, 0.56])  # Adjust the position and size here
+# cbar_ax = fig.add_axes([0.89, 0.18, 0.025, 0.56])  # Adjust the position and size here
+cbar_ax = fig.add_axes([0.835, 0.18, 0.025, 0.56])  # Adjust the position and size here
 
 # Create a gradient colorbar
 norm = mcolors.Normalize(vmin=0, vmax=1927)
@@ -560,7 +562,7 @@ cbar.ax.tick_params(labelsize=12)  # Set font size for the tick labels
 # Add a title and labels to the colorbar (legend)
 cbar.ax.set_title('Rotation\n Speed (6 hr)\n in km/h', fontsize=16, pad=24)
 cbar.ax.set_yticks([0, 250, 500, 750, 1000, 1250, 1500, 1750, 1927])
-cbar.ax.set_yticklabels(['0', '250', '500', '750','1000', '1250', '1500', '1750', '1927'])
+cbar.ax.set_yticklabels(['0', '250 (69 m/s)', '500 (139 m/s)', '750 (208 m/s)','1000 (278 m/s)', '1250 (347 m/s)', '1500 (417 m/s)', '1750 (486 m/s)', '1927 (535 m/s)'])
 
     # Adjust the figure layout to ensure the colorbar is not clipped
 # plt.subplots_adjust(right=0.95)  # Adjust as needed to ensure enough space

@@ -4,7 +4,7 @@ The purpose of this document is to help calculate what speed the rotation will b
 
 Average rotation speeds during a 6 hour rotation are clearly visible in this diagram:
 
-![](../img/globe-viz.png "global rotation diagram")
+![](../img/rotation2.png)
 
 It can be difficult to imagine hourly speeds. Just try converting it to m/s and you'll get a better idea - 1200 km/h becomes 333m per second. Almost a track lap per second. This [Mach 1 flight sim](https://youtube.com/shorts/BiA87M8UmTM?si=_scmestjKtV22TJ0) is cool as well.
 

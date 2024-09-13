@@ -67,10 +67,6 @@ Naigu Stone Forest (1625-1900m elevation, 20-40m tall):
 
 ![](img/naigu.jpg)
 
-Wulong:
-
-![](img/wulong1.jpeg)
-
 Three Natural Bridges, Wulong (200-300m tall):
 
 ![](img/wulong2.jpg)
