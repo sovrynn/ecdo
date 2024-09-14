@@ -134,9 +134,9 @@ This is an interesting dataset. From what I can see, it indicates that Mount Pae
 
 ## Final verdict - Safe Locations
 
-It's not clear to me that there are any surefire safe locations on this peninsula. It seems likely that south Korea will almost be completely submerged, and almost all of the mountain range in north Korea gets completely covered in ash. In that case, a cave in Mt. Myohang, which is basically the furthest possible high point that's away from Mt. Paektu in Korea, might actually be one of the very few places that a human could survive an ECDO event in Korea under normal circumstances.
+It's not clear to me that there are any surefire safe locations on this peninsula. Erratics provide evidence of a baseline ~700m water surge that reaches elevations of 1700m+ in the east terrain chokepoint. It seems likely that south Korea will almost be completely submerged, and almost all of the mountain range in north Korea gets completely covered in ash. In that case, a cave in Mt. Myohang, which is basically the furthest possible high point that's away from Mt. Paektu in Korea, might actually be one of the very few places that a human could survive an ECDO event in Korea under normal circumstances.
 
-In the south of Korea, Jirisan doesn't look terrible. It has a peak of 1915m which matches Mt. Myohang. It's the highest mainland mountain in South Korea. I didn't find obvious erratics on the peak. Additionally it's away from the western terrain chokepoint, and isn't surrounded by high-elevation land, giving the water plenty of room to go around.
+In the south of Korea, Jirisan doesn't look terrible. It has a peak of 1915m which matches Mt. Myohang. It's the highest mainland mountain in South Korea. I didn't find obvious erratics on the peak. Additionally it's away from the eastern terrain chokepoint, and isn't surrounded by high-elevation land, giving the water plenty of room to go around.
 
 ## Citations
 
