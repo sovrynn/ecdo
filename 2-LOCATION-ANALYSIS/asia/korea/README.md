@@ -46,9 +46,7 @@ Peak elevation of 1567m.
 
 ![](img/munsubong.jpg)
 
-## Sobaeksan (Birobong)
-
-Birobong Peak, 1563m.
+## Odaesan 1563m
 
 ![](img/birobong2.jpg)
 
@@ -154,6 +152,12 @@ In the south of Korea, Jirisan doesn't look terrible. It has a peak of 1915m whi
 10. Seoul hiking guide: https://english.seoul.go.kr/wp-content/uploads/2024/01/SEOUL-HIKING-GUIDE-BOOK.pdf
 
 # TODO
+
+birobong is a generic name
+- 비로자니불 = one of the Buddha
+- 봉우리 = peak
+
+chiaksan, weoraksan, odaesan, sobaeksan
 
 It seems there is some good geological research on Korea found here: https://www.jgsk.or.kr/_common/do.php?a=current&b=21
 

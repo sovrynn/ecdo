@@ -39,9 +39,10 @@ Legend:
 - Blue lines (104 degrees) are the part of the Earth that will rotate into the orange and red lines
 - Orange and red lines will rotate into the green lines (104 degrees)
 
-## Starter KML, Shapefiles
+## Starter KML, Shapefiles (`starters`)
 
-`starters/khafre.kml` is a KML file generated from the script, with rotation lines covering pretty much all locations, centered around Khafre, for those who just want a quick way to see rotation lines without running the script. Corresponding Shapefile in `starters/shapefile/`.
+- `khafre.kml` is a KML file generated from the script, with rotation lines covering pretty much all locations, centered around Khafre, for those who just want a quick way to see rotation lines without running the script.
+- `shapefile-360` has 360 lines running around the globe, meant to be used in Earth Engine.
 
 ## Notes
 

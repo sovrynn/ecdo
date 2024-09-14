@@ -8,7 +8,7 @@ Image below: *"Electric field of a positive point electric charge suspended over
 
 ![](img/electric-field.svg.png)
 
-## Alternating current vs direct current
+### Alternating current vs direct current
 
 *"Alternating current (AC) is an electric current that periodically reverses direction and changes its magnitude continuously with time, in contrast to direct current (DC), which flows only in one direction."* [4]
 
@@ -24,7 +24,7 @@ Image below: *"Electric field of a positive point electric charge suspended over
 
 ![](img/magnetic-force.svg.png)
 
-## What makes objects magnetic?
+### What makes objects magnetic?
 
 *"A magnetic domain is a region within a magnetic material in which the magnetization is in a uniform direction. This means that the individual magnetic moments of the atoms are aligned with one another and they point in the same direction... Magnetic domains form in materials which have magnetic ordering; that is, their dipoles spontaneously align due to the exchange interaction."* [5]
 
