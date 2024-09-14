@@ -24,8 +24,6 @@ Image below: *"Electric field of a positive point electric charge suspended over
 
 ![](img/magnetic-force.svg.png)
 
-Does this explain orbits, rather than gravity?
-
 ## What makes objects magnetic?
 
 *"A magnetic domain is a region within a magnetic material in which the magnetization is in a uniform direction. This means that the individual magnetic moments of the atoms are aligned with one another and they point in the same direction... Magnetic domains form in materials which have magnetic ordering; that is, their dipoles spontaneously align due to the exchange interaction."* [5]
@@ -66,3 +64,7 @@ Apparently ferromagnetic materials have the individual magnetic moments align at
 Is this related to the ECDO? Does the Earth's core undergo periodic warming, messing up its magnetic alignment, until it reaches some tipping point, at which it cools down, regains its magnetic uniformity, and then restarts the cycle?
 
 Now could this also be related to the Sun, potentially in another reflexive feedback loop?
+
+## Orbits caused by gravity?
+
+Do electro/magnetic fields cause orbits, rather than gravity? Is gravity just a human sales repackaging of other forces interacting?
