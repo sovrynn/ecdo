@@ -1,5 +1,11 @@
 # Middle East Flood Myths
 
+## Herodotus, Egypt
+
+*"Thus in the period of eleven thousand three hundred and forty years they said that there had arisen no god in human form; nor even before that time or afterwards among the remaining kings who arose in Egypt, did they report that anything of that kind had come to pass. In this time they said that the sun had moved four times from his accustomed place of rising, and where he now sets he had thence twice had his rising, and in the place from whence he now rises he had twice had his setting;[127] and in the meantime nothing in Egypt had been changed from its usual state, neither that which comes from the earth nor that which comes to them from the river nor that which concerns diseases or deaths."* [4]
+
+- Herodotus (Greek Historian), An Account of Egypt, 440 BCE
+
 ## Mohenjo-Daro, Pakistan - Fire & Water [3]
 
 "Built c. 2500 BCE, it was the largest settlement of the ancient Indus Valley Civilization, and one of the world's earliest major cities, contemporaneous with the civilizations of ancient Egypt, Mesopotamia, Minoan Crete, and Norte Chico. With an estimated population of at least 40,000 people, Mohenjo-daro prospered for several centuries, but by c. 1700 BCE had been abandoned, along with other large cities of the Indus Valley Civilization. The city also had large platforms perhaps intended as defense against flooding. According to a theory first advanced by Wheeler, the city could have been flooded and silted over, perhaps six times, and later rebuilt in the same location. For some archaeologists, it was believed that a final flood that helped engulf the city in a sea of mud brought about the abandonment of the site." [1] (continued in the comments...)
@@ -49,6 +55,7 @@ Not only does it describe a deluge, it specifically describes an oceanic displac
 1. https://en.wikipedia.org/wiki/Hittites
 2. https://en.wikipedia.org/wiki/K%C3%BCltepe\
 3. [Craig Stone](https://nobulart.com)
+4. https://lexundria.com/hdt/2.142/mcly#:~:text=Thus%20in%20the%20period%20of,kind%20had%20come%20to%20pass.
 
 # TODO additional leads
 
