@@ -6,7 +6,7 @@ Picture from the peak [1]:
 
 ![](img/xueshan.jpg)
 
-Profile:
+Profile (0m to 4000m):
 
 ![](img/profile.png)
 
