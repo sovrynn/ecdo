@@ -393,19 +393,19 @@ plotting the big and small lines
 # -1 here instead of 0 to add space for the cross
 points = add_to_kml(a, b, x, y, right, 0, kml, BO, THICK) # main location
 add_to_kml(a, b, x, y, 0, left, kml, LB, WTHICK) # backwards
-add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, GREEN, WTHICK)
+add_to_kml(a, b, points[-1][0], points[-1][1], right + 48, 0, kml, GREEN, WTHICK)
 for i in range(1, j + 1):
     # towards pivot
     center1 = move_point_closer(a, b, x, y, k * i)
     points = add_to_kml(a, b, center1[0], center1[1], right, 0, kml, RED, THIN) # forward lines
     add_to_kml(a, b, center1[0], center1[1], 0, left, kml, DB, WTHIN) #backward
-    add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, MG, WTHIN)
+    add_to_kml(a, b, points[-1][0], points[-1][1], right + 48, 0, kml, MG, WTHIN)
 
     # away from pivot
     center2 = move_point_closer(a, b, x, y, -1 * (k * i))
     points = add_to_kml(a, b, center2[0], center2[1], right, 0, kml, RED, THIN) #forward
     add_to_kml(a, b, center2[0], center2[1], 0, left, kml, DB, WTHIN) #backward
-    add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, MG, WTHIN)
+    add_to_kml(a, b, points[-1][0], points[-1][1], right + 48, 0, kml, MG, WTHIN)
 
 CROSS_THICK = 5
 
