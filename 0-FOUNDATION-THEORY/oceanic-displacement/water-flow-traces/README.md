@@ -24,6 +24,8 @@ Water flow leaves erosion. See `EVIDENCE/flood-remnants/erosion`.
 
 Large stones in strange places. See `EVIDENCE/flood-remnants/large-rocks`.
 
+What may be of greatest importance is rocks that seem to have come from other locations.
+
 ## Sediment Deposits
 
 Alluval fans (fan-shaped sediment deposits).
