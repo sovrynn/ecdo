@@ -1,10 +1,12 @@
 # Datasets
 
-## LML (Data viz/math)
+## DEM (Digital Elevation Models)
 
-- KDE LabPlot: https://labplot.kde.org
+- Google earth engine: https://earthengine.google.com/platform
+- USGS Earth explorer: https://earthexplorer.usgs.gov/
+- Open Topography: https://portal.opentopography.org/raster?opentopoID=OTSRTM.082015.4326.1
 
-## LIDAR DEM
+### LIDAR DEMs
 
 - Huge NASA index: https://search.earthdata.nasa.gov
 - North america: https://apps.nationalmap.gov/lidar-explorer/#/
@@ -31,7 +33,9 @@ Swarm web gateway: https://earth.esa.int/eogateway/missions/swarm
 
 They have an interactive web app called VirES to interact with Swarm data: https://vires.services
 
-## Topography Data
+World magnetic model: http://www.geomag.bgs.ac.uk/research/modelling/WorldMagneticModel.html
+
+## Topography Data (what NOT to use)
 
 Preexisting Topography KMLs (all bad):
 - [earthpoint](https://www.earthpoint.us/topomap.aspx ) is bad
@@ -39,18 +43,3 @@ Preexisting Topography KMLs (all bad):
 - [esri world topo map (ge-map-overlays)](https://ge-map-overlays.appspot.com/esri/world-topo-map) is awful
 
 There is an index of SRTM elevation data [here](https://srtm.kurviger.de) at srtm.kurviger.de but after working with this one for a few hours I deemed the data is bad. Elevations of positive 1000m in the sea and duplicated elevation all over. Unredeemable.
-
-Google Earth Engine, integrated with Google Cloud, has the data AFAIK.
-
-## DEM
-
-- USGS Earth explorer: https://earthexplorer.usgs.gov/
-- Open Topography: https://portal.opentopography.org/raster?opentopoID=OTSRTM.082015.4326.1
-- Google earth engine: https://earthengine.google.com/platform
-
-# TODO
-
-Lidar DEM data, very detailed
-- See search.earthdata.nasa.gov
-
-SWARM data and readings from 160 land based observatories: http://www.geomag.bgs.ac.uk/research/modelling/WorldMagneticModel.html

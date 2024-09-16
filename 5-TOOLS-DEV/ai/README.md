@@ -12,14 +12,14 @@ You don't necessarily need an ECDO-trained LLM to do translations, as you can ei
 
 ## List of AI Models
 
-Generic LLMs:
+Good:
 - ChatGPT
 - Claude
+- AI Data analyst: https://julius.ai
+
+Other:
 - uncensored.chat, venice.ai
 - Gab, Grok
-
-Specialized:
-- GPT o1
 - Cursor AI software development: https://www.cursor.com/
 - Afforai - AI Research assistant and chatbot: https://afforai.com
 

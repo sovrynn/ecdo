@@ -34,13 +34,11 @@ Here is a [lat/long elevation webapp](https://latlongdata.com/elevation).
 
 Lat/long follows a Cartesian coordinate system. East is right on the x-axis, North is up on the y-axis.
 
-## Fluid dynamics simulation
+## Data viz tools
 
-- [OpenFOAM](https://www.openfoam.com/), open source
-- Gerris, open source
-- Lattice Boltzmann Method implementations such as Palabos
-- SimScale: cloud based, free and paid versions
-- Blender
+- Google Colab
+- KDE LabPlot: https://labplot.kde.org
+	- produces LML files
 
 ## Solar system
 
@@ -54,6 +52,14 @@ NASA solar system simulator: https://science.nasa.gov/eyes/
 - https://ssd.jpl.nasa.gov/horizons is the go to for the best ephemeris data (used in many of these models, I'm sure).
 
 Site to look at discovered planetary formation instead of having to plug it into a stellar calendar: https://starwalk.space/en/news/what-is-planet-parade#when-will-5-to-7-planets-align-in-the-sky
+
+## Fluid dynamics simulation
+
+- [OpenFOAM](https://www.openfoam.com/), open source
+- Gerris, open source
+- Lattice Boltzmann Method implementations such as Palabos
+- SimScale: cloud based, free and paid versions
+- Blender
 
 ## Search engine
 
