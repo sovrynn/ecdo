@@ -32,7 +32,7 @@ Auxiliary folders:
 	- All manner of ECDO evidence: `EVIDENCE`
 	- Location-specific evidence: `LOCATION-ANALYSIS`
 3. **How do we know it could be happening soon?**
-	- Timeframe predictions: `FORECASTING/date-and-triggers`
+	- Timeframe predictions: `FORECASTING`
 
 # Contribution Guide
 

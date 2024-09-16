@@ -4,25 +4,19 @@ Prerequisite knowledge, speculative scientific theories, and in-depth explanatio
 
 A reader should be able to come away from this folder with an understanding of precisely why and how the ECDO happens and various first/second/third order effects.
 
-## Contents
+## Key Contents
 
-**Major ECDO content**:
+**What is the ECDO?**:
 - `s1-to-s2`: S1 -> S2 rotation.
-- `why-104-31-meridian`: Why the rotation is 104 degrees along the 31 Meridian.
+
+**How does the ECDO happen?**:
+- `dzhanibekov`: Dzhanibekov effect.
 - `earth-inner-layers`: Inner layers of the Earth.
-- `oceanic-displacement`: Displacement of oceans and bodies of water.
+- `why-104-31-meridian`: Why the rotation is 104 degrees along the 31 Meridian.
 - `ecdo-frequency`: Predicting ECDO frequency.
 
-**Minor ECDO content**:
-- `s2`: All about S2.
-- `s2-to-s1`: S2 -> S1 rotation.
-
-**Prerequisite knowledge**:
-- `dzhanibekov`: Dzhanibekov effect.
-- `solar-system`: Solar system.
-- `tectonic-plates`: Tectonic plate interactions.
-- `volcanoes`: Volcano activity surges.
-- `equatorial-bulge`: Equatorial bulge.
+**Why does the ECDO happen?**:
+- `ecdo-causes`: Potential ECDO causes.
 
 # TODO
 
