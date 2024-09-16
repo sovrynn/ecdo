@@ -14,6 +14,7 @@ You don't necessarily need an ECDO-trained LLM to do translations, as you can ei
 
 Generic LLMs:
 - ChatGPT
+- Claude
 - uncensored.chat, venice.ai
 - Gab, Grok
 

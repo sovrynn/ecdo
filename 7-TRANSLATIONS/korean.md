@@ -1,6 +1,6 @@
-# Exothermic Core-Mantle Decoupling Dzhanibekov Oscillation(ECDO): 발열성 핵-맨틀 분리 자니베코프 진동
+# Exothermic Core-Mantle Decoupling Dzhanibekov Oscillation(ECDO): 발열성 핵-맨틀 분리 자니베코프 회전
 
-ECDO ("발열성 핵-맨틀 분리 자니베코프 진동") 는 지구의 핵과 맨틀 사이에서 발생하는 복잡한 지질학적 현상입니다. 이 현상은 지구의 핵과 맨틀이 서로 분리되어 독립적으로 회전할 때 발생하며, 이는 Dzhanibekov 효과와 유사한 방식으로 지구의 회전이 갑작스럽게 변동하는 것을 의미합니다.
+ECDO ("발열성 핵-맨틀 분리 자니베코프 회전") 는 지구의 핵과 맨틀 사이에서 발생하는 복잡한 지질학적 현상입니다. 이 현상은 지구의 핵과 맨틀이 서로 분리되어 독립적으로 회전할 때 발생하며, 이는 Dzhanibekov 효과와 유사한 방식으로 지구의 회전이 갑작스럽게 변동하는 것을 의미합니다.
 
 ## ECDO가 발생하는 이유
 
