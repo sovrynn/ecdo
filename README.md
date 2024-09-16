@@ -115,5 +115,5 @@ Translations can be put in `/translation` folders within the relevant directory.
 # Primary Contributors
 
 - Repo owner and maintainer: [Sovrynn](https://sovrynn.github.io)
-- Analysis, research, and visualizations: [Craig Stone](https://nobulart.com)
+- Theories, analysis, research, and visualizations: [Craig Stone](https://nobulart.com)
 - Research: [aa-hermit](https://github.com/aa-hermit)
