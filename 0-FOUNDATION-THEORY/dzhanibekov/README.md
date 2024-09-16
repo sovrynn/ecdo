@@ -55,7 +55,7 @@ Angular velocity has dimension of angle per unit time.
 
 Principal axes are essentially defined by the first and third principal axes. The first axis is the axis around which the moment of inertia tensor is smallest. The third, the biggest. The second is perpendicular to the previous two.
 
-Essentially, unless an object is perfectly rotating around one of its 3 principal axes, it will be undergoing dzhanibekov rotation.
+Essentially, unless an object is perfectly rotating around one of its 3 principal axes, it will be undergoing dzhanibekov rotation. Rotation is most stable on the third principal axis.
 
 If you watch [this video](https://www.youtube.com/watch?v=Knpn0JBMif4) of spinning objects in space, you'll see that:
 - 0:24 - Even during the "stable rotation", the object never perfectly spins along its principal axis. It gets close but is off. This only happens when the angular momentum is close to the principal axis
