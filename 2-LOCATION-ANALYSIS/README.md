@@ -8,6 +8,8 @@ https://github.com/user-attachments/assets/60f82304-2d63-4e5e-acf3-570a09e54b4e
 
 See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization. [1]
 
+*"I've been looking at biblical and old English history recently and it's clear the middle East becomes a cradle of civilisation after the event surrounded by inaccessible "Wilderness". Around the time of Christ there is then a migration of Israelites round the southern Med and up through Spain to the UK. I suspect this was because it was the only habitable route up to the UK whilst continental Europe was still a waste land. But if you look at where great civilisations re-emerged it was the middle East, India and China. Roraima and Sulawesi remain isolated backwaters to this day."*
+
 ## Basic Contribution Guidelines
 
 When investigating specific locations, include a map marking the location relative to its surrounding landmass. See Oranjemund (`LOCATION-ANALYSIS/africa/south-africa/oranjemund`) and Svalbard (`LOCATION-ANALYSIS/arctic/svalbard`) as examples.
