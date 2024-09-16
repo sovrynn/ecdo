@@ -21,7 +21,8 @@ Minor folders:
 Auxiliary folders:
 - `4-DANGERS-PREPPING`: All matters ECDO-prepping.
 - `5-TOOLS-DEV`: Technical resources for ECDO.
-- `6-LITERATURE-MEDIA`: Literature and media related to the ECDO, organized by author. 
+- `6-LITERATURE-MEDIA`: Literature and media related to the ECDO, organized by author.
+- `7-TRANSLATIONS`: Non-English ECDO writeups.
 
 ## ECDO Newcomer Guide
 
