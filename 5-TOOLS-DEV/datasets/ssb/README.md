@@ -43,6 +43,50 @@ I've adjusted the 3.7ka markers to align with our existing timeline. They occur 
 
 ![](img/ssb9.jpg)
 
+End of the YD. Tollman's 7640BC "comet", and now. Same pattern. The YDB is a bit perturbed by something else, but the rhythm primary resonance sequence is the same.
+
+![](img/ssb10.jpg)
+
+All three laid on top of one another (very hastily. I might add).
+
+![](img/ssb11.jpg)
+
+Looks like another one. Noahic deluge. 5400BC
+
+![](img/ssb12.jpg)
+
+Combined
+
+![](img/ssb13.jpg)
+
+GPT’s initial visual appraisal of this chart.
+
+![](img/ssb14.jpg)
+
+Claude gave it the same correlation - 90% on visual comparison. 
+
+![](img/ssb15.jpg)
+
+I've added in 1700BC here to illustrate the kind of variation which might need to be accommodated in finding these. Most interesting. The sequence is the same except for one thing - the Uranus-Neptune perturbations are reversed (the "kink" slopes the other way) - ie. they were in reversed position on the other side of the Sun.
+
+![](img/ssb16.jpg)
+
+Here I have overlaid the 1700 BC and the 2000 CE cycle to illustrate the Uranus-Neptune phase inversion. Note the numerous "butterflies".
+
+![](img/ssb17.jpg)
+
+The third in this series of minimums was marked by Landscheidt for the 2030 minimum. The most accurate historic date we have is 1750-1700 BC. The Noahic date of 5400 BC falls right near the third minimum. 2030 would seem to be the year.
+
+![](img/ssb18.jpg)
+
+I've added the Wolf Minimum to the comparison (purple). I believe I have the main sequence alignment of the primary minimums the same, but as can be seen, there are some dramatic variations to the peak formations and many of the minimums compared to the other (blue) periods. + I've also added some more comparison points to better illustrate what I see. ++ Added event labels as well. +++ Added the Maunder minimum. it looks like its the same flavour as the Wolf.
+
+![](img/ssb19.jpg)
+
+This paper also includes a handy chart, which I quickly cobbled onto the Wolf Minimum pattern. The third red marker is 2030 in the current sequence.  https://sci-hub.ru/10.1515/9783110660784-008
+
+![](img/ssb20.jpg)
+
 ## Google Colab Analysis
 
 Uses simple cumulative absolute value distance to find SSB displacement intervals that are closest to a desired interval.
@@ -55,3 +99,7 @@ All it really shows is the ~4500 year gas giant cycle. However you can also see 
 
 1. https://nobulart.com
 2. https://landscheidt.info
+
+# TODO
+
+*"We have 400 years of current polar magnetic data spanning 1590-2025. We also have proxy polar wander data from 10ka and 13ka. We want to try to see if we can match one of these old records to the currently observed pattern which has occurred between our pole and the harmonic over the past 400 years."* [1]

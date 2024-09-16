@@ -19,6 +19,16 @@ Nobulart proposes that electromagnetic perturbations inside the Earth are caused
 
 ![](img/2030-triggers.jpg)
 
+## Speculative exothermic core instigator
+
+The phase state change of hexagonal close packed iron in the core into the mantle may be driven by solar proton storms (From CMEs) into the core via the poles by slamming positively charged protons into a solid mass of Fe+ causing mantle heating and density changes. As we see the magnetic field deteriorate are we seeing this process accelerate exponentially taking us to the TAU point TES describes? Are they trying to slow this down by seeding the atmosphere with negatively ions?
+
+![x](img/neutrino-storm.jpg "")
+
+A neutrino storm could significantly raise the number of interactions which occur internally. Each neutrino interaction is potentially a nuclear fission or fusion heating event.
+
+https://www.britannica.com/science/neutrino
+
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/

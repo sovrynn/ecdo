@@ -15,6 +15,10 @@ The book in question is Sitchen's The 12th Planet (Cue groans). I am a aware tha
 ![marduk](img/marduk3.jpg "marduk")
 ![marduk](img/marduk4.jpg "marduk")
 
+## Pillars of Joachim and Boaz [1]
+
+I sometimes wonder whether the two great pyramids are in actual fact the pillars of Joachim and Boaz, and the recorded knowledge was stored in the sarcophagi, possibly along with an operators handbook for the pyramids themselves. This would suggest that pretty much everything we've been told about what came out of there was fabricated to cover the true discovery. Not beyond the realm of possibility at this point.
+
 ## Snowpiercer [1]
 
 A short chat with GPT about Snowpiercer: https://chatgpt.com/share/070e9343-c809-4d28-ae2e-96925f30acef

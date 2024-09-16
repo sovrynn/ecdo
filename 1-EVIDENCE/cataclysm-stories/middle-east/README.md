@@ -43,6 +43,14 @@ Not only does it describe a deluge, it specifically describes an oceanic displac
 
 [1] Myth, Legend and Custom in the Old Testament, Gaster (1969)
 
+## Egypt
+
+https://youtu.be/VF1dCJf4Byo?si=S1MHLniB1biCijN5
+
+I hadn't heard of the book of Kolbrin. Some interesting descriptions about what goes on in the heavens and the land with clear parallels to the Noah story. Sounds like a destroyer arrives (Encke?), there is a micronova and earth flip causing the deluge and stars to rotate. The heat could then be from the CME arriving days later. The oceans do not rise up but crash over the mountains and fill the valleys but only lie 3 cubits above the earth. After the tumult the water drains back over 7 days. Apparently the book dates back 3,600 years.
+
+Paper about Kolbrin in this folder.
+
 ## Turkey flood myth
 
 - https://talkorigins.org/faqs/flood-myths.html

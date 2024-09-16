@@ -8,7 +8,7 @@ The main clue that TES uses to postulate that the ECDO rotation consists of a 10
 
 The Khafre Pyramid is hypothesized to lie directly on the longitude line rotating to the pole, because this is the only way that the shafts in the pyramid would align with the poles in S1 and S2. This implies that it was intentionally built in that precise location.
 
-![](../../1-EVIDENCE/civilization-history/important-structures/img/khufu-tri.webp)
+![](../../1-EVIDENCE/civilization-history/important-structures/khafre/img/khufu-tri.webp)
 
 If you rotate this pyramid in any direction other than the one Ethical Skeptic hypothesizes, the observation shafts will not work - this is a foundational aspect of the hypothesis.
 

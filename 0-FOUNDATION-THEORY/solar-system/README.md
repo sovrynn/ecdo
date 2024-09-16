@@ -102,6 +102,8 @@ When combined with the Gleissberg cycle, you would see the Sun transitioning fro
 
 # TODO
 
+Long term sunspot cycle phase cohere with periodic phase disruptions: https://arxiv.org/pdf/1610.03553
+
 gravitational null (when the gas giants are in line and their pull on Earth cancels each other out?)
 
 also a good basic summary: https://landscheidt.info/?q=node/345

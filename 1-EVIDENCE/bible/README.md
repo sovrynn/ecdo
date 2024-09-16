@@ -32,6 +32,10 @@ https://www.biblicalchronologist.org/products/Noah%27s_Flood_Happened_3520_BC.PD
 
 When Noah was 600 years old, on the seventeenth day of the second month, all the underground waters erupted from the earth, and the rain fell in mighty torrents from the sky.
 
+## Uriel's Machine Excerpt
+
+![](img/dead-sea-scrolls.jpg)
+
 ## Adam and Eve Flood
 
 The opening verses of the bible begin with:

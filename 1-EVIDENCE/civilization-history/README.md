@@ -67,14 +67,3 @@ https://en.wikipedia.org/wiki/Five_thousand_years_of_Chinese_civilization
 
 Spread of the Polynesian seafaring nations. Note how tightly confined they were to the area around Taiwan until sometime between 4,000BC and 3,000BC. Almost as though a few survivors of the Noahic deluge sprang forth from there.
 - [1] The enigmas of Easter Island, Flenley and Bahn (2003) https://archive.org/details/enigmasofeasteri0000flen
-
-## Ancient Ostrich Egg
-
-Depicts floodwaters receding from Egypt.
-
-Ethical Skeptic post: https://x.com/EthicalSkeptic/status/1832538729275117895?s=19
-
-![](img/ostrich1.jpg)
-![](img/ostrich2.jpg)
-
-https://sketchfab.com/3d-models/6000-years-old-egg-depicts-the-pyramids-and-nile-477696fb6bd14f58a5213edd3ef4e5da

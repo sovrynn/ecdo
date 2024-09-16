@@ -43,3 +43,7 @@ Preexisting Topography KMLs (all bad):
 - [esri world topo map (ge-map-overlays)](https://ge-map-overlays.appspot.com/esri/world-topo-map) is awful
 
 There is an index of SRTM elevation data [here](https://srtm.kurviger.de) at srtm.kurviger.de but after working with this one for a few hours I deemed the data is bad. Elevations of positive 1000m in the sea and duplicated elevation all over. Unredeemable.
+
+# TODO
+
+Clay proxy magnetic data: https://sci-hub.ru/10.1080/09291017809359640

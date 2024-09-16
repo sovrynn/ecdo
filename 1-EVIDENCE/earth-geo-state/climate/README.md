@@ -17,6 +17,18 @@ The first four citations from his work may also be good leads:
 - Durack, Gleckler, et.al.; Ocean Warming: From the Surface to the Deep in Observations and Models; Oceanography; 9 Dec 2018; https://tos.org/oceanography/article/ocean-warming-from-the-surface-to-the-deep-in-observations-and-models
 - Desbruyeres, D.G., S.G. Purkey, E.L. McDonagh, G.C. Johnson, and B.A. King. 2016. Deep and abyssal ocean warming from 35 years of repeat hydrography. Geophysical Research Letters 43(19):10,356–10,365, https://doi.org/​10.1002/2016GL070413.
 
+## Rainfall data fudging [1]
+
+Where did all the water go? Further examples of altered rainfall data from 16 different cities around the world. Unusually high rainfall records for the past three years have been erased from the record.
+
+![](img/rainfall1.jpg)
+![](img/rainfall2.jpg)
+
+High resolution images available here:
+- https://nobulart.com/media/anti-diluvian-1.jpg
+- https://nobulart.com/media/anti-diluvian-2.jpg
+
+
 ## Hurricane Irma: 3700 year history
 
 ![irma](img/hurricane-irma.jpg "irma")
@@ -83,16 +95,6 @@ The authors of this paper observed a 3.4% reduction in shear wave velocity relat
 
 https://en.wikipedia.org/wiki/Mid-24th_century_BCE_climate_anomaly#:~:text=In%201997%2C%20Marie-Agn%C3%A8s%20Courty,hundred%20kilometres%20from%20each%20other
 
-## Speculative core-mantle decoupling instigator
-
-The phase state change of hexagonal close packed iron in the core into the mantle may be driven by solar proton storms (From CMEs) into the core via the poles by slamming positively charged protons into a solid mass of Fe+ causing mantle heating and density changes. As we see the magnetic field deteriorate are we seeing this process accelerate exponentially taking us to the TAU point TES describes? Are they trying to slow this down by seeding the atmosphere with negatively ions?
-
-![x](img/neutrino-storm.jpg "")
-
-A neutrino storm could significantly raise the number of interactions which occur internally. Each neutrino interaction is potentially a nuclear fission or fusion heating event.
-
-https://www.britannica.com/science/neutrino
-
 ### Telluric Currents and Earthquake Lights
 
 See `img/japan-telluric.mp4`.
@@ -118,4 +120,4 @@ The piezoelectric effect is a source of significant electric current generation 
 
 ## Citations
 
-Authors: [Craig Stone](https://nobulart.com)
+1. [Craig Stone](https://nobulart.com)

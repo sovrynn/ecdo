@@ -114,6 +114,8 @@ May just be sand dunes. Coords (40, 86.3).
 ![](img/dunes2.png)
 ![](img/dunes3.png)
 
+*"These look very much like the work of the wind to me."* [5]
+
 ### Longest Inhabited Cities
 
 Beijing and Luoyang are the only two locations in China which have been inhabited continuously for a long time.
@@ -150,6 +152,7 @@ It's only at an elevation of 50m above sea level.
 	- http://www.chinatoday.com.cn/ctenglish/se/txt/2009-01/21/content_175438.htm
 	- https://whhlyt.hunan.gov.cn/whhlyt/english/TourismInRegions/Zhangjiajie/ZhangjiajieAttractions/202211/t20221108_29119497.html
 	- https://www.guinnessworldrecords.com/world-records/593531-largest-concentration-of-sandstone-pillars
+5. [Craig Stone](https://nobulart.com)
 
 # TODO
 

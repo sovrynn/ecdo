@@ -6,7 +6,7 @@ There are several Indian flood myths.
 
 Check `img/` for all records.
 
-## Manu Deluge (2000 BC - 1900 BC)
+## Manu Deluge (2000 BC - 1900 BC) [4]
 
 ![alt](img/manu.PNG "india myths")
 ![alt](img/manu2.PNG "india myths")
@@ -53,8 +53,7 @@ Sinking of the city of Dwarka might have been due to great flood. 5525 BCE is pr
 1. https://talkorigins.org/faqs/flood-myths.html#Tamil
 2. http://ancientvoice.wikidot.com/article:kumari-kandam (Hard PDF copies in `hard-copies`)
 3. https://nileshoak.wordpress.com/2014/01/06/flooding-destruction-of-dwarka-5525-bce
-
-Authors: [aa-hermit](https://github.com/aa-hermit)
+4. [aa-hermit](https://github.com/aa-hermit)
 
 # TODO
 

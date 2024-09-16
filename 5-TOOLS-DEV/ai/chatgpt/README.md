@@ -1,5 +1,10 @@
 # ChatGPT
 
+## Contents
+
+- `gen1.py`: Script for accumulating repo content into textual input files for use in making custom GPTs.
+- `prompts.md`: Various ChatGPT ECDO-related prompts.
+
 ## ChatGPT File uploads [1]
 
 How many files can I upload at once per GPT?: *"Up to 20 files per GPT for the lifetime of that GPT. Keep in mind there are file size restrictions and usage caps per user/org."*

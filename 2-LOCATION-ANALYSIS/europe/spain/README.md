@@ -6,6 +6,8 @@ Stats:
 - 3000m to 5000m deep Pacific Ocean in front of it
 - 6 hr rotation rotating at speeds of 1250 km/h
 
+*"Spain has a crazy level of biodiversity which is promising. Possibly Grenada could be a good option. I think the Pyrenees may exist because of sedimentation from successive deluges and are at a choke point that will make the range get hit very hard again and again."*
+
 ## Profile
 
 Big Atlantic Ocean chokepoint.
@@ -59,6 +61,11 @@ Pyrenees:
 Sierra Nevada:
 
 ![](img/elevation3.png)
+
+## Spain Seismic Profile
+
+![](img/spain-seismic.jpg)
+![](img/spain-quake.jpg)
 
 ## Safe locations?
 

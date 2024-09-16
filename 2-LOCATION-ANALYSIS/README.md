@@ -14,7 +14,7 @@ When investigating specific locations, include a map marking the location relati
 
 ## Citations
 
-1. https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/
+1. [Craig Stone](https://nobulart.com)
 
 # TODO
 
