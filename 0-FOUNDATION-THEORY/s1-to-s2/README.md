@@ -71,7 +71,7 @@ Here's the eastern pivot:
 
 Putting it all together, the paths of rotation will look like this (Khafre pyramid travels from the red dot, past the north pole to the blue dot):
 
-![x](img/rotation2.png "global rotation diagram")
+![](../../6-LITERATURE-MEDIA/sovrynn/img/rotation2.png)
 
 ## S2 Equator Points
 
