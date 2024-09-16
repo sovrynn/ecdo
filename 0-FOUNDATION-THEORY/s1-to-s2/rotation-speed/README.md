@@ -37,6 +37,6 @@ Plugging it into the original formula, you would get: `11564 * sin(distance / 11
 ## Rotation speed examples - Singapore, Tokyo, Dubai
 
 Using our formula, we can calculate the predicted average rotational speed at each city rotating around the eastern Indonesia pivot, assuming a 6 hour rotation:
-- Singapore: 2808 km from pivot, ~822 km/h
+- Singapore: 1912 km from pivot, ~570 km/h
 - Tokyo: 4430 km from pivot, ~1235 km/h
 - Dubai: 7585 km from pivot, ~1790 km/h

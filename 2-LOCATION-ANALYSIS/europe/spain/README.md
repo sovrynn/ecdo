@@ -4,7 +4,7 @@ Seems like the Atlantic and Arctic Ocean will flow over most of Spain, potential
 
 Stats:
 - 3000m to 5000m deep Pacific Ocean in front of it
-- 6 hr rotation rotating at speeds of 1250 km/h
+- 6 hr rotation rotating at speeds of ~1750 km/h
 
 *"Spain has a crazy level of biodiversity which is promising. Possibly Grenada could be a good option. I think the Pyrenees may exist because of sedimentation from successive deluges and are at a choke point that will make the range get hit very hard again and again."*
 
