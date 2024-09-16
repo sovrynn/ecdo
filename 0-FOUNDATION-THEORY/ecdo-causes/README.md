@@ -8,4 +8,6 @@ TES's explanation for the cause of the ECDO bottoms out at an exothermic and end
 
 ## Nobulart - Electromagnetic Solar/Planetary Perturbation
 
+Nobulart proposes electromagnetic perturbations caused by solar and planetary interactions, which I imagine as a form of electromagnetic induction caused by traversing changing magnetic fields:
+
 ![](img/2030-triggers.jpg)
