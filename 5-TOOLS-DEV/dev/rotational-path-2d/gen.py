@@ -238,7 +238,18 @@ def get_pivot_ratio(lat, lon):
     half_circ = 10020
     dist = min(haversine(lat, lon, 0, 121), haversine(lat, lon, 0, -59))
 
-    ratio = dist/half_circ
+    max_speed = 1927
+
+    speed = 11564 * math.sin(math.radians(dist / 111.2)) / 6
+
+    ratio = speed / max_speed
+
+    if ratio > 1.01:
+        print(ratio)
+        raise ValueError
+
+    if ratio > 1:
+        ratio = 1
 
     return ratio
 
