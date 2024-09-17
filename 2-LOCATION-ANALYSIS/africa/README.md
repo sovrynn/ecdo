@@ -10,7 +10,7 @@ Africa, particularly South Africa, will have safe spots during the ECDO due to i
 
 Southern Africa also has some of the longest continuously inhabited caves in the world - many of them showing signs of continuous human activity for over 200,000 years.
 
-Absolutely. There is a reason that Thomas, White Hapgood and the movie "2012" all singled out southern africa as the safest place (and possibly why the Oppenheimers chose to live here).
+There is a reason that Thomas, White Hapgood and the movie "2012" all singled out southern africa as the safest place (and possibly why the Oppenheimers chose to live here).
 
 Southern Africa, especially above the Drakensberg range, is the safest from both water and falling rocks, but it will experience high winds, quakes and possibly some volcanic activity.
 
