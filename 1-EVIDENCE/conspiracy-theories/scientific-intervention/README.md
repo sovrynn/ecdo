@@ -21,10 +21,11 @@ Its a progressive, electromagnetically interfaced heating event [1]. What if we 
 4. https://home.cern/science/accelerators/future-circular-collider
 5. https://en.wikipedia.org/wiki/Future_Circular_Collider
 
-Well, well, well... With the exception of the four colliders in India, the remainder of the 30+ colliders worldwide are all clustered near to the meridians of the ECDO pivots and the rotational meridian. Coincidence, or a tripolar phased array? [1] https://mit.edu/~wqm/Papers/Malik_TripolarAntenna.pdf
+Well, well, well... With the exception of the four colliders in India, the remainder of the 30+ colliders worldwide are all clustered near to the meridians of the ECDO pivots and the rotational meridian. Coincidence, or a tripolar phased array?
+- https://mit.edu/~wqm/Papers/Malik_TripolarAntenna.pdf
 
 ¨Global view Distribution of superconducting particle accelerators using SRF structures for electrons (orange), protons (purple) and heavy ions (pink). More than 30 SRF accelerators are in operation (circles), approximately 15 are presently under construction (triangles) and more than 10 future projects are under consideration (squares). Credit: CERN¨
-- [2] https://cerncourier.com/a/teslas-high-gradient-march/
+- https://cerncourier.com/a/teslas-high-gradient-march/
 
 ## Neutrino Detectors. [1]
 
@@ -34,6 +35,16 @@ Well, well, well... With the exception of the four colliders in India, the remai
 3. https://researchgate.net/publication/370773514_Core-Mantle_Co-Evolution_An_Interdisciplinary_Approach
 
 The detectors are, I believe, what they're claimed to be, but could possibly fulfill other unknown functions. Within the context of an ECDO event, they are part of the early warning system, and could possibly be working in tandem with the similarly clustered colliders, as a core-mantle control (Colliders) and feedback monitoring system (Detectors). The entire system together is a modern day technological equivalent of the Great Pyramid.
+
+## Ice Drilling
+
+If the inertia of the ice causes the ECDO, maybe that's why they're drilling so many holes at the south pole using a "neutrino detector" as the cover. Some strange stuff about this place. Right down to the bedrock. Could enough bang split the ice sheet?
+
+https://icecube.wisc.edu
+
+![](img/ice-drill1.jpg)
+![](img/ice-drill2.jpg)
+![](img/ice-drill3.jpg)
 
 ## HAARP
 

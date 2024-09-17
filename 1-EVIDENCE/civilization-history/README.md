@@ -4,7 +4,7 @@ Human history, cities, and structures.
 
 ## Contents
 
-- `important-structures`: Human-built structures, such as the Khafre Pyramid, potentially related to the ECDO.
+- `important-structures`: Human-built structures, such as the Khufu Pyramid, potentially related to the ECDO.
 - `destroyed-cities`: Cities that were destroyed in the past, sometimes in strange ways.
 - `prehistoric-civilizations`: Did prehistoric civilizations exist? How did they end?
 - `oldest-cities`: The cities with the oldest history of inhabitation from present.
@@ -67,3 +67,13 @@ https://en.wikipedia.org/wiki/Five_thousand_years_of_Chinese_civilization
 
 Spread of the Polynesian seafaring nations. Note how tightly confined they were to the area around Taiwan until sometime between 4,000BC and 3,000BC. Almost as though a few survivors of the Noahic deluge sprang forth from there.
 - [1] The enigmas of Easter Island, Flenley and Bahn (2003) https://archive.org/details/enigmasofeasteri0000flen
+
+## 1688 Africa Map
+
+Map of 1688. Cities and rivers in place of the Sahara
+
+The Gobi Desert and the Takla Makan are not on ancient maps either. Numerous cities and rivers are also marked in these areas. Archaeologists have found buried cities and mummies in the Gobi and other deserts - maps do not lie. But they hid their findings tens of thousands of years ago.
+
+It turns out that the fertile lands were suddenly, or within a short period of time, covered with sand.
+
+![](img/africa-old-map.jpg)

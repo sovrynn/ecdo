@@ -16,6 +16,43 @@ Dated cross-sections of the "slip" layers which only appear in front of the cair
 3. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
 4. https://knowth.com/newgrange-book.htm .
 
+With a maximum elevation of just over 1,000m and an average of approximately 118m, Enki's secret house under the sea would seem to be the most viable survival option here.
+
+![](img/gb-tombs.jpg)
+
+http://www.stone-circles.org.uk/stone/
+
+## Location Analysis
+
+"It was made without mortar, which is remarkable considering not a single dop of water has made it inside this passage tomb. We are in Ireland where it rains all the time. /// The remains of five people were found in the tomb. Three that were cremated and two who had been left alone. (???) /// Given the immense amount of time and energy to construct these tombs, archaeologists and art historians and others have wondered if maybe there were other uses for this because of that solar alignment."
+
+https://youtu.be/YEvWbUZZEzs
+
+## O'Kelly Book Quotes
+
+Selected interesting notes from the first pages of O'Kelly's book, Newgrange:
+
+"The interstices of the roof were caulked with a mixture of burnt soil and sea sand to render them waterproof and from this mixture two radiocarbon dates centering on 2500 BC were obtained for the structure of the tomb." [p22. This suggests that construction was started ±3200 BC but only completed generations later. This is one of many examples of deliberate waterproofing efforts].
+
+"Since the floor of the passage and chamber of the tomb follows the rise of ground of the hill on which the monument is built there is a difference of almost 2m in floor level between the entrance and the interior of the chamber." [p21. A possible drainage/waterproofing measure.]
+
+"The roof rises as it approaches the chamber and at its entrance is 3.6m high. The chamber is cruciform, containing three recesses or side-chambers. It measures 5.25m from its entrance to the back of the north or end recess and 6.55m from the back of the west recess to the back of the east recess." [p21. This seems like a cramped, but adequate space for a family to use as temporary shelter].
+
+"Bone fragments representing a small number of people, as well as grave-goods typical of Irish passage-graves, were found when the floor of the tomb was excavated. Apart from these no further finds were made." [p23. What crazy logic spends probably generations building something to bury 5 people who couldn't have even been born at the start of construction?]
+
+"Outside it, however, in the cairn slip and beyond, there were extensive finds associated with a later settlement of the Late Neolithic/Beaker period." [p23. The Beaker period ended in 1700 BC - this gives us a possible date upon which the cairn was overtopped.]
+
+"We know that after the cairn had started to collapse there was a Beaker-period occu- pation of around 2000 bc outside the southern part of the mound but no trace of this was found in the tomb so the entrance must by then have been hidden. Nor was there any sign inside the tomb of the gold coins and ornaments of Romano-British type deposited around the edge of the collapsed mound and on the mound itself during the early centuries of the Christian era." [pp.24-25]
+
+"The mouth of the passage had originally been closed by a stone which exactly fitted the aperture, but this was no longer in place in 1699." [p.25]
+
+"The question arises as to when and by whom the closing
+stone was levered back. It has been generally assumed that Newgrange was one of the tombs plundered by the Norsemen in the ninth century, but the evidence is dubious." [p.25]
+
+"Lucas has pointed out, the raiders were probably more interested in supplies of food and these were available in the larder, that is, in the vam (the ‘cave’ or souterrain), an underground structure ideally suited for the preservation of essential commodities in normal times, and for the temporary preservation of life and limb in abnormal ones" [p.26]
+
+"Mr Charles Campbell told me since (who was the Second man that went into the Cave upon its first Discovery) that he found the skull and bones of a man in one of those Cisterns and the bones of another humane Body Lying on the Ground in another part of the Cave somewhat remote from the Cistern." They built this structure to honor the dead by leaving their bodies lying around on the floor? [p.27]
+
 ## Investigative Process
 
 The White Wall of Newgrange (Ireland). Built sometime before 3,200 BC. Entirely buried. Excavated and rebuilt starting in the 60's. This thing looks like a bunker.
@@ -70,6 +107,24 @@ As alluded to by @rararuri [2], Newgrange is quite reminiscent of the circular E
 
 ![](img/ww16.jpg)
 ![](img/ww17.jpg)
+
+Perhaps these were intended to ward off the water.
+
+![](img/ww22.jpg)
+![](img/ww23.jpg)
+![](img/ww24.jpg)
+![](img/ww25.jpg)
+
+This design is found across the isles all the way up to Orkney and Skara Brae. Reminds of the two pivots with direction arrows.
+
+![](img/ww26.jpg)
+
+These are from Knowth. Another pair of pivots with a six-volved spiral between them, and a possible calendar (also with two more six-volved spirals).
+
+https://www.knowth.com/
+
+![](img/ww27.jpg)
+![](img/ww28.jpg)
 
 ## Citations
 

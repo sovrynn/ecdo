@@ -1,5 +1,15 @@
 # Elite Cult Symbolism
 
+## Pyramid [1]
+
+"In" the pyramid is hermetic. Very distinct from on it, which is Illuminist art.
+
+![](img/illuminati.jpg)
+
+Within the context this art's masonic/hermetic origin, "Order From Chaos" could also be a reference to the destructive event that brought order to a previously chaotic planet.
+
+![](img/order-from-chaos.jpg)
+
 ## Elite symbolism [1]
 
 It's one of the things we know pretty much for sure, because they've been writing about it in hermetic texts for centuries. It's illustrated in most masonic art and symbolism.
@@ -28,6 +38,17 @@ A short chat with GPT about Snowpiercer: https://chatgpt.com/share/070e9343-c809
 Some one posted this on twitter, 104°
 
 ![](img/twitter.jpg)
+
+## Freemasonry
+
+![](img/freemason1.jpg)
+![](img/freemason2.jpg)
+![](img/freemason3.jpg)
+
+1. https://nobulart.com/on-the-origin-of-freemasonry/
+2. https://nobulart.com/ancient-secret-societies/
+3. https://nobulart.com/order-of-the-illuminati/
+4. https://nobulart.com/shakespeare-bacon/
 
 ## Citations
 

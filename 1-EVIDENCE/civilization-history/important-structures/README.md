@@ -2,7 +2,7 @@
 
 This folder is for important structures humans have built that are potentially related to ECDO events.
 
-Khafre Pyramid, a structure that is central to the ECDO thesis, is in `khafre`.
+Khafre/Khufu Pyramids, structures that are central to the ECDO thesis, are in `khafre-khufu`.
 
 ## Derinkuyu underground city
 
@@ -69,6 +69,10 @@ Seems Farrell may have been on the mark with ultrasonic drilling when he wrote t
 
 ![](img/gizadeath6.jpg)
 ![](img/gizadeath7.jpg)
+
+## Bosnian Pyramids Vedic Cycles
+
+See PDF `Evidence of Vedic Cosmology...` in this folder.
 
 # TODO Potential Leads
 

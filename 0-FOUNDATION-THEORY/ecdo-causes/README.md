@@ -11,13 +11,25 @@ TES's basic ECDO timeline is as follows:
 
 ![](../../6-LITERATURE-MEDIA/0-ethical-skeptic/img/ecdo.webp)
 
-## Nobulart - Electromagnetic Solar/Planetary Perturbation
+## Nobulart - Electromagnetic Solar/Planetary Perturbation [2]
 
 Nobulart proposes that electromagnetic perturbations inside the Earth are caused by solar and planetary interactions, which I imagine as a form of electromagnetic induction caused by traversing changing magnetic fields.
 
 *"Core-mantle coupling is considered to be a product of electromagnetic, viscous and topographic effects. My working theory is that the EM component is cyclically perturbed by interplanetary and solar interactions which cascade as heating and a lowering of viscosities"*.
 
 ![](img/2030-triggers.jpg)
+
+## Nobulart - Ice Accumulation on South Pole [2]
+
+You don't think that that continuous accumulation of condensed polar ice might be sufficient to disrupt the regular equatorial center of mass established by the LLSVP's? 30 million gigatonnes of offcenter spinning mass must extert some centrifugal force, enough it seems to be affecting the Earth's axis of rotation directly.
+
+Antarctica’s mass has been seeing a net accumulation over thousands of years as indicated by core samples. If the ball is spinning then it seems pretty obvious that 14 million square km of 2km thick ice which is clearly off center must have some weight in the game. Other concerns would be accounting for the degree of erosion seen at Giza, Delos, Turkey and elsewhere around the Med if the inundations are only momentary. We’d need a lot of those to rack up 50 years worth of karst erosion. The account from Crete of two events a few decades apart. The theory wasn’t Einstein’s, but rather that of Laplace, Cuvier and Hapgood (Im not aware of Darwin suggesting this). If anything, Einstein was an interested detractor, saying he thought the ice mass was insufficient to break a crust/mantle coupling. Another thought is that the current destabilization appears to have begun at least 50 years ago - it take time for the flip to accumulate the angular momentum (seen in the TPW westerly drift) prior to the critical point when the decoupling occurs. It would seem to me that the same would be true of the reverse motion. Can these various factors be satisfactorily explained by a momentary reversal?
+
+I've been looking at it as a kinetic event, along this line: The accumulating ice wants to get to the equator. When the core-mantle environment decouples, that's where its heading. On the way there, a vast quantity of ice is going to be loosened by quakes, and shed to fast moving wind and water, but possibly not enough to reverse the imbalance. It will attain cetrifugal dominance at the equator until the additional sunlight has melted enough for the LLSVP's to initiate the return. I think the decoupled state will persist for the extent of State 2 - core will be hot for a while - allowing the ice to maintain the orientation for that period. I  think the polar mass anomaly will be a major contributor to the moment of inertia and to the S2 orientation, and that the delayed return is similarly regulated by the elimination of some of that mass in S2.
+
+I think the "natural" axis of rotation of the mantle and crust (with less, or maybe even no ice) is very close to what we have right now (S1). As the ice accumulates over centuries this becomes increasingly perturbed, adding a growing centrifugal component to the axis of rotation. This must surely be transferred to the core as well - the additional force. Maybe it even has a role to play in the exothermic behavior.
+
+30 million gigatonnes of ice in play in the Antarctic. No one knows what the LLSVP's are, nor their mass. There isn't even agreement on whether they're more or less dense than the surrounding material.
 
 ## Speculative exothermic core instigator
 
@@ -32,3 +44,4 @@ https://www.britannica.com/science/neutrino
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/
+2. [Craig Stone](https://nobulart.com)

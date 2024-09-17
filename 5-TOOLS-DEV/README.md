@@ -51,6 +51,10 @@ NASA solar system simulator: https://science.nasa.gov/eyes/
 - https://solarsystemscope.com good online resources
 - https://ssd.jpl.nasa.gov/horizons is the go to for the best ephemeris data (used in many of these models, I'm sure).
 
+You might enjoy this fun visualizing tool.  This Synodic Orbit Visualisation Tool displays Keplerian and perturbed orbits of NEOs (including Encke).  Not sure if this link will work, but give it a try: https://neotools.ssa.esa.int/sovt?c=MTA3OQ==
+
+EUHFORIA Model
+
 Site to look at discovered planetary formation instead of having to plug it into a stellar calendar: https://starwalk.space/en/news/what-is-planet-parade#when-will-5-to-7-planets-align-in-the-sky
 
 ## Fluid dynamics simulation

@@ -72,10 +72,27 @@ Hard copy `TwoFloods_Web.pdf` in `hard-copies`.
 
 https://www.reddit.com/r/UsefulCharts/comments/14bqxtw/biblical_chronology_according_to_the_septuagint/
 
+## Exodus
+
+Could the Exodus out of Egypt and crossing of the red sea occurred during the 1700 BC event? May be the whole of Egypt was washed away just after the Israelites made it safely into Sinai?
+
+Exodus is currently dated to between the 15th and 13th century BC, but even those dates are patchy. 
+
+https://chatgpt.com/share/bde43e37-b063-4b41-8d7f-b25fcb751595
+
+## Four Horsemen of Revelations [3]
+
+I've been pondering the four horseman and that part of Revelation. Could they be representations of the ancient Sumerian gods - the planets? 
+
+![](img/four-horsemen.jpg)
+
+https://chatgpt.com/share/66e956f9-6ecc-8005-ac2b-61537acbd613
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Genesis_flood_narrative
 2. https://nobulart.com/the-story-and-the-event/
+3. [Craig Stone](https://nobulart.com)
 
 # TODO
 

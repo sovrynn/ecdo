@@ -125,6 +125,12 @@ The piezoelectric effect is a source of significant electric current generation 
 1. https://nhess.copernicus.org/articles/7/535/2007/nhess-7-535-2007.pdf
 2. https://en.wikipedia.org/wiki/Richat_Structure
 
+## 1930 Meteor
+
+"In August 1930 Father d’Alviano went to the Curuc-a River, near the Brazilian–Peruvian border, to carry out his annual apostolic mission. There, he discovered that the local people were terrified by fireballs and explosions that had occurred a few days before his arrival and that had let them believe that the world was at an end. Hundreds of eyewitnesses reported to the catholic missionary that at around 0800 hours on August 13, 1930, a fine red dust began to fall onto the forest and into the river; then people heard several earpiercing whistles that became increasingly loud. Fishermen on the river could see the fall of large fireballs. There were three distinct explosions, each causing earth tremors. The ash continued to fall until midday (Huyghe, 1996). Father d’Alviano concluded that a meteoroid had exploded in the Earth atmosphere, and a note to this effect appeared on March 31, 1931, in the Vatican Newspaper."
+
+[1] https://sci-hub.ru/10.1016/j.pss.2010.10.012
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

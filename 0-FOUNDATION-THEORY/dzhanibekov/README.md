@@ -91,6 +91,14 @@ From here on out, the inertia tensor and angular velocity will both be changing.
 
 The next step is a bit harder. Let's imagine that the object starts out with angular velocity (y, small, small) and use the T-handle as an example. During the flip, v2 and v3 would increase, I presume, and v1 would decrease. In order to remain the constant values, we would need to see the sum of the first row of the inertia tensor increase, and the sum of the second and third rows decrease.
 
+## Dzhanibekov Acceleration Rate
+
+We can only guess. It would probably be parabolic with an intermediate steady state, as shown in this example, but we do not know the duration. So the best we can do is model a range of velocities over the low and high end of predicted rotation times.
+
+![](img/dzhani-accel.jpg)
+
+https://www.researchgate.net/figure/Parabolic-acceleration-and-deceleration-curve_fig2_331877131
+
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/

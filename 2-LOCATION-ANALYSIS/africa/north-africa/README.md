@@ -38,6 +38,11 @@ Using the GCR chord length [equation](https://pubs.geoscienceworld.org/gsa/books
 
 The Sahara looks like one of the largest megafloodplains on the planet, with obvious flows thousands of kilometers wide running to the south and the west.
 
+ChatGPT GCR speed deduction: *"Could definitely be correct. The water from the med would likely reach Sudan during the latter half of the rotation, during which time the movement will be decelerating. The water velocity would start to synchronize with the crustal rotation at this point and many flows would be deep but relatively slow moving."* [1]
+
+![](img/sudan-speed1.jpg)
+![](img/sudan-speed2.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

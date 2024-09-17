@@ -2,6 +2,35 @@
 
 The water will be moving really, really fast here. However, we don't know exactly how high the water surge will be because there aren't clear terrain chokepoints north of Britain. A big chunk of the Arctic Sea could possibly flow around into the Atlantic.
 
+"I think the flow lines suggest the UK will act as a boat for this surge which then smashes into France and Spain. Most of the UK and Ireland is also overwhelmed don't get me wrong but I think some isolated high areas may be like boulders poking out the rapids."
+
+## Newport and Newgrange, White Wall
+
+![](img/newgrange1.jpg)
+![](img/newgrange2.jpg)
+![](img/newgrange3.jpg)
+![](img/newgrange4.jpg)
+
+https://maps.app.goo.gl/9DkaEdd8XxpHhvJv9
+
+## Bricklieve Mountains
+
+The Bricklieve Mountains and surrounding area. Red line is the ECDO moment of inertia.
+
+![](img/bricklieve1.jpg)
+![](img/bricklieve2.jpg)
+![](img/bricklieve3.jpg)
+![](img/bricklieve4.jpg)
+![](img/bricklieve5.jpg)
+
+1. https://maps.app.goo.gl/bXwhvftLyyTJKwsJ6
+
+## Roscommon area, aroudn Balloony
+
+2 img
+
+https://dcenr.maps.arcgis.com/apps/webappviewer/index.html?id=b7c4b0e763964070ad69bf8c1572c9f5
+
 ## North York Moors National Park
 
 Looks pretty streamline to me thanks to the rest of the UK blocking it from the water flow.

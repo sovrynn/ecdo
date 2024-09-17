@@ -11,6 +11,10 @@ Velikovsky, in his account on Crete in Earth in Upheaval, references two sources
 The Minoan Eruption of Santorini Volcano is estimated to have been around 1600 BC. This has been linked to a tsunami which hit the region around the same time: *"A Minoan and a Neolithic tsunami recorded in coastal sediments of Ios Island, Aegean Sea, Greece"*:
 - https://uca.hal.science/hal-03792797/document (hard copy in this folder)
 
+![](img/crete-myth.jpg)
+
+https://x.com/nobulart/status/1835632165037486497
+
 ## Deucalion Greek Flood Myth (1528 BC)
 
 *"For some time during the Middle Ages, many European Christian scholars continued to accept Greek mythical history at face value, thus asserting that Deucalion's flood was a regional flood, that occurred a few centuries later than the global one survived by Noah's family. On the basis of the archaeological stele known as the Parian Chronicle, Deucalion's Flood was usually fixed as occurring some time around 1528 BC. Deucalion's flood may be dated in the chronology of Saint Jerome to c. 1460 BC."*
@@ -26,3 +30,9 @@ https://en.wikipedia.org/wiki/Atlantis
 ## Kataklysmos and Ekpyrosis
 
 Censorinus makes mention of this water/fire sequence as being coincident to a planetary cycle in De Die Natali (238 AD): "There is a period called 'the supreme year' by Aristotle, at the end of which the sun, moon and all the planets return to their original position. This 'supreme year' has a great winter, called by the Greeks 'kataklysmos', which means deluge, and a great summer, called by the Greeks 'ekpyrosis' or combustion of the world. The world, actually, seems to be inundated and burned alternately in each of these epochs".
+
+### Encke causing Ekpyrosis?
+
+Could this be ekpyrosis following katakysmos a few years later? The idea of us passing directly through the main stream is a serious consideration.
+
+From what I have surmised through these years, there are 3 main impacts that occur every 12k years. Water inundation (deluge), a cme and a regular impact. Just to finish so to speak before the start of a new age. It is my conjecture that the deluge comes after this extraterrestrial impact-this explains that we find remnants of old ages under the soil (mud burial) and under the sea (think bimini, yonaguni, kumari kandam, dwarka). So yes.

@@ -55,6 +55,20 @@ JPL have 2P/Encke at closest approach to Earth on July 12, 2030.
 
 We cannot calculate comets back more than a couple of thousand years. Their orbits are too heavily perturbed by the gas giants for reliable long term ephemeris calculations. [1]
 
+## Meteor Swarm
+
+The main timeline for the earth w/ regards to the impacts are on 2032 and 2036 - mid of next decade. These are because we will be passing through the midst of the remnants of Encke then. Right through the middle of the pie.
+
+![](img/meteor-swarm.jpg)
+
+https://www.forbes.com/sites/jamiecartereurope/2019/06/11/earth-is-now-approaching-the-same-meteor-swarm-that-wiped-out-a-siberian-forest/
+
+Here they mention that it appears we pass through Encke's original dust trail approximately every 2.5ka. Note that their anchor date is 500AD - the period mentioned in the "six forests" video above.
+
+![](img/encke-phase.jpg)
+
+See `Our cometary environment.pdf`.
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

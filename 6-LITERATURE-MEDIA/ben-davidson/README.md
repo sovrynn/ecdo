@@ -13,3 +13,7 @@ He believes there is a 6000 year "event" cycle. He talks about the crust decoupl
 ## Book excerpt
 
 ![x](img/ben-davidson2.jpg "")
+
+## GPT Trained on his theories
+
+https://chatgpt.com/g/g-sgpKLbqOh-bd-s-theories
