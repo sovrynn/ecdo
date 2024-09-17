@@ -1,0 +1,42 @@
+# Earth's Orbit
+
+This page covers some basic knowledge regarding the Earth's rotation - axial tilt and north poles.
+
+## Axial Tilt
+
+Axial tilt is the angle between an object's rotational axis (spinning) and its orbital axis (orbit), which is the line perpendicular to its orbital plane, which is the plane along which, for Earth, it rotates around the Sun. The Earth's axial tilt is about 23.4 degrees. depicted by the red line in the below gif which does not point straight upwards.
+
+![orbitgif](img/earth-orbit.gif)
+
+## North Poles
+
+Next I'll cover the North Poles. There are 3:
+- The geographic north pole is the northern Earth surface point intersecting with Earth's axis of rotation. It's where lines of longitude meet at the top of the Earth.
+- The north magnetic pole is the point on the north surface of the Earth where the planet's magnetic field points directly downward. Presumably, this is found through measurement
+- Finally, the geomagnetic north pole, which would be the north pole in an approximate dipole model of the Earth's magnetic field
+
+![north poles](img/north-poles.png "north poles")
+
+Currently, none of the 3 are the exact same point.
+
+## Axial Tilt and Seasonal Sunlight Variation [1]
+
+The Earth is tilted on its axis by about 23.5°. This tilt is what causes the seasons and affects how much sunlight different regions of the Earth receive throughout the year.
+
+The Antarctic Polar Circle, also known as the Antarctic Circle, is an imaginary line located at approximately 66.5° south latitude. This circle marks the boundary within which, for at least one day each year, there is a 24-hour period of either complete daylight (known as the Midnight Sun) or complete darkness (known as Polar Night).
+
+1. Summer in the Northern Hemisphere (around June 21)
+	- The Northern Hemisphere is tilted towards the Sun.
+	- Regions above the Arctic Circle (66.5° N) experience 24 hours of daylight.
+	- The Antarctic Circle receives less sunlight, and areas inside it may have 24 hours of darkness.
+2. Winter in the Northern Hemisphere (around December 21)
+	- The Northern Hemisphere is tilted away from the Sun.
+	- Regions above the Arctic Circle experience 24 hours of darkness.
+	- The Antarctic Circle receives more sunlight, and areas inside it may have 24 hours of daylight.
+3. Equinoxes (around March 21 and September 21)
+	- The Earth’s tilt is such that the Sun is directly over the equator.
+	- Day and night are approximately equal (12 hours each) across the entire planet.
+
+## Citations
+
+1. ChatGPT
