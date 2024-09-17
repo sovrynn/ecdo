@@ -156,7 +156,7 @@ In the south of Korea, Jirisan doesn't look terrible. It has a peak of 1915m whi
 Supposedly rocks are brought to the peak for 제사
 
 birobong is a generic name
-- 비로자니불 = one of the Buddha
+- 비로자나불 = one of the Buddha
 - 봉우리 = peak
 
 chiaksan, weoraksan, odaesan, sobaeksan

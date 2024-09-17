@@ -1,5 +1,7 @@
 # Great Britain
 
+The water will be moving really, really fast here. However, we don't know exactly how high the water surge will be because there aren't clear terrain chokepoints north of Britain. A big chunk of the Arctic Sea could possibly flow around into the Atlantic.
+
 ## North York Moors National Park
 
 Looks pretty streamline to me thanks to the rest of the UK blocking it from the water flow.
@@ -13,6 +15,8 @@ Viz -100m to 1000m.
 Marked here are the 5 erratics I found in the region below:
 
 ![](img/closeup.png)
+
+*"The geology of the North York Moors National Park in northern England is provided largely by a thick southerly dipping sequence of sedimentary rocks deposited in the Cleveland Basin during the Jurassic Period. A series of ice ages during the Quaternary period has left a variety of glacial deposits, particularly around the margins of the National Park."* [3]
 
 ## Erratics List:
 
@@ -104,3 +108,4 @@ Maybe this: https://en.m.wikipedia.org/wiki/Ridge_and_furrow
 
 1. https://en.m.wikipedia.org/wiki/File:Old_Boundary_Marker_by_Blakey_Ridge,_Farndale_East_Parish_-_geograph.org.uk_-_6038888.jpg
 2. https://www.wikidata.org/wiki/Q26584178#/map/0
+3. https://en.wikipedia.org/wiki/Geology_of_North_York_Moors_National_Park

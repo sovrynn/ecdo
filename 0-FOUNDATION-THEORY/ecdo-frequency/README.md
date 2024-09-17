@@ -22,6 +22,8 @@ There's also a possibility that it occurs every 1800 years.
 
 This is the hypothesis endorsed by Ethical Skeptic and mentioned in his thesis.
 
+It's also supported by the ostrich egg (~6200 years). See `EVIDENCE/civilization-history/important-artifacts`.
+
 ## Hypothesis 2: ~3700 years
 
 1700 BC (~3700 years ago) appears to be a very historically significant time:

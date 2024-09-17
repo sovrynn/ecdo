@@ -16,6 +16,8 @@ The Great Gun-Yu flood of China, around 1900 BC, was said to have lasted 22 year
 
 "I don't think that S2 is more than 20-30 years [due to] total apparent karst erosion/number of inundations." [1]
 
+On the ostrich egg (`EVIDENCE/civilization-history/important-artifacts`) there's indication of a special 200-year phase.
+
 ## New Geographic Pole Locations
 
 New north pole:

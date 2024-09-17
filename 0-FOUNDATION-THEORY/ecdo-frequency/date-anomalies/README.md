@@ -2,14 +2,6 @@
 
 Dating anomalies and calendar shifts.
 
-## Ancient Calendar Half-year
-
-Several ancient calendars used a year of six months.
-
-https://chatgpt.com/share/8a0fe258-3039-4569-b702-a8f8aae40425
-
-![](img/half-year.jpg)
-
 ## 687 BC Calendar Shift
 
 We also have to look at the calendar shift from 360 to 365 days after 687BC. This is likely contributing cause to confusion and error when investigating and dating events before that time.
@@ -25,6 +17,14 @@ https://nobulart.com/360-days
 Extra carbon-14 would make the carbon dating give a more recent date than the actual older date. It's possible that the energy from the Sun could significantly change the amount of carbon in the organic material. More info about "burned cities" in `EVIDENCE/civilization-history/human-built-structures`.
 
 https://www.sciencedirect.com/science/article/abs/pii/S0305440396900096
+
+## Ancient Calendar Half-year
+
+Several ancient calendars used a year of six months.
+
+https://chatgpt.com/share/8a0fe258-3039-4569-b702-a8f8aae40425
+
+![](img/half-year.jpg)
 
 ## The Great Year
 

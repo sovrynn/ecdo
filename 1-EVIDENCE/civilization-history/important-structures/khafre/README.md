@@ -61,3 +61,7 @@ Taken from: https://youtu.be/43V9RTpnxbk
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
 2. [Craig Stone](https://nobulart.com)
+
+# TODO
+
+Why would they build the pyramid in a location they know gets flooded?
