@@ -1,6 +1,6 @@
 # North and South America Myths
 
-## Peru Timeline - Montesinos
+## Peru Timeline - Montesinos (Spaniard, arrived Peru 1628)
 
 *"According to Montesinos, there were three distinct periods in the history of Peru. First, there was a period which began with the origin of civilization, and lasted until the first or second century of the Christian era. Second, there was a period of disintegration, decline, and disorder, introduced by successful invasions from the east and southeast, during which the country was broken up into small states, and many of the arts of civilization were lost; this period lasted more than a thousand years. Third and last came the period of the Incas, who revived civilization and restored the empire."* [2]
 
@@ -24,7 +24,7 @@ The wording is unclear, but it seems that in the above quote, the Deluge was 290
 - Reigning king leaves Cuzco and brings followers to Andes (Tampu-Tocco), art of writing lost
 - Centuries pass
 - 2400 BC: Kingship begins in Cuzco with Manco Capac
-- ~1800 BC (twelfth Capac): invaders killed by "heavenly fire" in mountains, some time later, 24 hours of Sun
+- ~1800 BC (twelfth Capac): giant invaders killed by "heavenly fire" in mountains, some extended time later, 24 hours of Sun
 - 400 BC: fortieth Capac
 - 0 AD: 58th Capac
 - 100 - 200 AD: Country falls during a thousand-year period of disintegration, decline, and disorder

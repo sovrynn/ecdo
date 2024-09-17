@@ -8,14 +8,14 @@ See `EVIDENCE/bible` for Bible flood myths.
 
 - Massive flood myth compilation: https://talkorigins.org/faqs/flood-myths.html (Hard copy in `hard-copies`)
 - Allan and Dellair's Cataclysm: https://archive.org/details/cataclysmcompell00alla
+- Earth in Upheaval, Worlds in Collision, by Velikovsky
 - Literature (see `LITERATURE`):
-	- Uriel's Machine (`LITERATURE/uriel`)
+	- Uriel's Machine
 	- Moons Myths and Man, Bellamy
 	- Exodus Lost: An Inquiry into the Genesis of Civilization, Compton
 	- Georges Cuvier
 	- The Flood Reconsidered, Filby
 	- Systeme Du Monde, Laplace
-	- Earth in Upheaval, Worlds in Collision, by Velikovsky
 - Ethical Skeptic's original thesis
 
 ## Talkorigins excerpt
@@ -30,6 +30,8 @@ An uncommonly specific description of cataclysmic geological process: "The king 
 # TODO
 
 Organize myths by date here.
+
+Dark ages
 
 - Tiahuanaco
 	- The Great Idol of Tiahuanaco, 1959, by Arthur Posnansky
