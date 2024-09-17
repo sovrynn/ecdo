@@ -25,15 +25,15 @@ China's mainland will not escape unscathed from this water.
 
 ## Baishi Mountain (Baishishan), Hebei Province, 2096m [1]
 
+![](img/baishi1.jpg)
+![](img/baishi2.jpg)
 ![](img/baishi3.jpg)
-![](img/baishi4.jpg)
-![](img/baishi.jpg)
 
 ## Mangshan Mountain, Hunan, 1902m [2]
 
-![](img/mangshan4.webp)
-![](img/mangshan.jpeg)
-![](img/mangshan2.jpg)
+![](img/mangshan1.webp)
+![](img/mangshan2.jpeg)
+![](img/mangshan3.jpg)
 
 ## Shaoguan, Danxia, South China
 
