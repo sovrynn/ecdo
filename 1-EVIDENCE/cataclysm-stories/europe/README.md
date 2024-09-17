@@ -13,6 +13,11 @@ The Minoan Eruption of Santorini Volcano is estimated to have been around 1600 B
 
 ![](img/crete-myth.jpg)
 
+The timeline for these goes somewhat like this [1]:
+- Close of Middle Minoan II: 1700 BC
+- Half a century later: 1650 BC
+- Late Minoan II: 1400 BC
+
 https://x.com/nobulart/status/1835632165037486497
 
 ## Deucalion Greek Flood Myth (1528 BC)
@@ -36,3 +41,7 @@ Censorinus makes mention of this water/fire sequence as being coincident to a pl
 Could this be ekpyrosis following katakysmos a few years later? The idea of us passing directly through the main stream is a serious consideration.
 
 From what I have surmised through these years, there are 3 main impacts that occur every 12k years. Water inundation (deluge), a cme and a regular impact. Just to finish so to speak before the start of a new age. It is my conjecture that the deluge comes after this extraterrestrial impact-this explains that we find remnants of old ages under the soil (mud burial) and under the sea (think bimini, yonaguni, kumari kandam, dwarka). So yes.
+
+## Citations
+
+1. http://www.minoancrete.com/chron.htm

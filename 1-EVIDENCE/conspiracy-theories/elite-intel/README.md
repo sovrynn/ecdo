@@ -17,4 +17,6 @@ https://nobulart.com/the-flip-of-the-earth/
 ![](img/usgov1.jpg)
 ![](img/usgov2.jpg)
 
+Hard copy in this folder.
+
 https://apps.dtic.mil/sti/pdfs/AD1040918.pdf

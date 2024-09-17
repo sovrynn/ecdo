@@ -1,14 +1,11 @@
 # Flood Remnants
 
-## Contents
+## 6 forests stacked vertically
 
-- `animal-remains`: Animal remains from previous ECDO events.
-- `erratic-rocks`: Large rocks in strange places.
-- `erosion`: Evidences of erosion.
-- `human-remains`: Human remains.
+In coal mines of Illinois, Indiana, and Kentucky, there are massive fossil forests stacked on top of each other.
+
+https://youtube.com/watch?v=Hrxfq8V6itQ&si=wAszW-e3F2naUp5y
 
 # TODO
-
-6 forests stacked vertically: https://youtube.com/watch?v=Hrxfq8V6itQ&si=wAszW-e3F2naUp5y
 
 Goldmine: https://www.iafi.org/was-j-harlan-bretz-near-your-house/

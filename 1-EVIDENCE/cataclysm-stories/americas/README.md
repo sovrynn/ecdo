@@ -18,6 +18,18 @@
 
 The wording is unclear, but it seems that in the above quote, the Deluge was 2900 years before Jesus Christ, and Jesus Christ was the time of the 58th monarch. Confirmed by this second source: *"Manco-Capac III., the sixtieth sovereign of this line, is supposed to have reigned at the beginning of the Christian era..."* [2].
 
+### Timeline
+
+- 2900 BC: Deluge
+- Reigning king leaves Cuzco and brings followers to Andes (Tampu-Tocco), art of writing lost
+- Centuries pass
+- 2400 BC: Kingship begins in Cuzco with Manco Capac
+- ~1800 BC (twelfth Capac): invaders killed by "heavenly fire" in mountains, some time later, 24 hours of Sun
+- 400 BC: fortieth Capac
+- 0 AD: 58th Capac
+- 100 - 200 AD: Country falls during a thousand-year period of disintegration, decline, and disorder
+- contemporary Inca empire rises
+
 ## Citations
 
 1. https://zsitchinindex.wordpress.com/the-earth-chronicles-index/book-4-the-lost-realms/chapter-7-the-day-the-sun-stood-still/
