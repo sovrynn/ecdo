@@ -30,6 +30,10 @@ The wording is unclear, but it seems that in the above quote, the Deluge was 290
 - 100 - 200 AD: Country falls during a thousand-year period of disintegration, decline, and disorder
 - contemporary Inca empire rises
 
+### 24 hours of Sun
+
+It seems like the 24 hours of Sun could have occurred during the rotation from S2 back to S1, since China, which had the great Gun-Yu flood, had 10 days of straight Sun as well, which would seemingly contradict this account.
+
 ## Citations
 
 1. https://zsitchinindex.wordpress.com/the-earth-chronicles-index/book-4-the-lost-realms/chapter-7-the-day-the-sun-stood-still/

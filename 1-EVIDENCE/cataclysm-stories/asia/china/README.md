@@ -22,6 +22,10 @@ Velikovsky's Worlds in Collision (`LITERATURE-MEDIA/velikovsky`), Chapter 4 page
 
 On the dating of this event, Velikovsky has this to say: *"Calculations were undertaken to establish the dates of the Emperor Yahou. On the basis of a remark that the constellation Niao, thought to be the constellation Hydra, culminated at sunset on the day of the vernal equinox in the time of Yahou, it was reckoned that the flood occurred in the twenty-third century before the present era, but this date has been questioned by many."* [Velikovsky Page 103]
 
+### 10 Days of the sun not setting
+
+This could be explained by China rotating closer to the Antarctic Circle while the south pole is tilted towards the Sun. However, that alone would not bring China close enough. It's possible that the rotation temporarily overshoots for a few days, bringing China into a 24-hour Sun region, until it adjusts back to the normal S2 state.
+
 ### Xia Dynasty dates (established 2070 BC?)
 
 The Xia Dynasty was established by Gun-Yu, who "stopped" the flood. Therefore the flood must have occurred within a lifetime of the establishment of the Xia Dynasty, which is estimated to be established in 2070 BC. That already creates a clear discrepancy with the flood's hypothesized date of 2300 BC.
