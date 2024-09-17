@@ -1,5 +1,39 @@
 # Great Britain
 
+## North York Moors National Park
+
+Looks pretty streamline to me thanks to the rest of the UK blocking it from the water flow.
+
+![](img/profile.jpg)
+
+Viz -100m to 1000m.
+
+![](img/n100-1000.png)
+![](img/closeup.png)
+
+## Erratics List:
+
+- Wainstones
+- Old Boundary Marker
+- Simon Howe Stone Circle
+- White Cross Boundary Marker
+- Millenium Stone
+
+### Wainstones Erratics
+
+![](img/wainstones-pf.png)
+![](img/wainstones.jpg)
+![](img/wainstones2.webp)
+
+### Old Boundary Marker Erratic [1,2]
+
+![](img/boundary-stone.png)
+![](img/erratic.jpg)
+
+### Millenium Stone
+
+![](img/millenium-stone.webp)
+
 ## Shetland
 
 Cursory look at Shetland. You can see that there is a flat underwater cliff right in front of it, along with a large underwater structure. The northern one looks like it could deflect some of the deepest originating water flows slightly around Shetland.
@@ -15,13 +49,13 @@ Looking at the elevation, left bay will almost certainly flood the green plain s
 
 ![](img/shetland4.png "")
 
-Comparing the speeds of rotation (~1500 km/h) and the slope of the ocean cliff (0.02), to Turkey, we can expect that significant amounts of the deep oceans will create a water surge. Turkey rotates at the fastest speed (~1900 km/h), has a similar slope (0.02), and has the Black Sea displaced over it.
+We can expect that significant amounts of the deep oceans will create a water surge due to the fast rotation speed. Turkey rotates at similar speed with a similar ocean slope (0.02), and has the Black Sea displaced over it.
 
 Based on that, I drew an approximate depth of water displacement, expecting that the deepest oceans might get redirected slightly due to the northern underwater structure. It's over 700m deep on average.
 
 ![](img/shetland5.png "")
 
-The water surrounding the island is 140m deep. If that entire ocean path gets displaced, the water surge will be 560m. It could be slightly less if there is only partial ocean displacement driven by slightly lower rotation speeds. Shetland has a highest peak of 450m, and its average elevation is much lower. There is a possibility that Shetland could be completely submerged by the water surge, and at the very least, it will experience significant inundation.
+The water surrounding the island is 140m deep. Shetland only has a highest peak of 450m, and its average elevation is much lower. It wouldn't take much of a water surge to almost completely inundate this island.
 
 ## Great Britain Coast
 
@@ -35,7 +69,7 @@ This is a great illustration of these MASSIVE clay and other sediment layers tha
 
 ### Investigating Ripples Potentially Related to ECDO
 
-I'm not sure this is going to work but I have taken some screenshots of ripples I have found where I live on the East Yorkshire coast on permanent pasture that has likely never been cultivated or developed. The ripples are small. Max about 1 metre high and 10 metres wide. These lie on top of the original cliff top that is buried in sediment. This sediment makes up about half my county and all of its present coastline along the North Sea. Hopefully this will be clear in the coming images...
+I'm not sure this is going to work but I have taken some screenshots of ripples I have found on the East Yorkshire coast on permanent pasture that has likely never been cultivated or developed. The ripples are small. Max about 1 metre high and 10 metres wide. These lie on top of the original cliff top that is buried in sediment. This sediment makes up about half this county and all of its present coastline along the North Sea. Hopefully this will be clear in the coming images...
 
 Geographic location:
 
@@ -62,3 +96,8 @@ Also for interest this archaeological discovery was found at point D: https://ww
 Do you know what the main crops in this area are? These appear to be of agricultural origin. Old swales or forestry planting rows perhaps. They appear too regular and grouped at conflicting angles to be flow ripples.I have access to some high-res DEM imagery for the UK. I'll pull it up.
 
 Maybe this: https://en.m.wikipedia.org/wiki/Ridge_and_furrow
+
+## Citations
+
+1. https://en.m.wikipedia.org/wiki/File:Old_Boundary_Marker_by_Blakey_Ridge,_Farndale_East_Parish_-_geograph.org.uk_-_6038888.jpg
+2. https://www.wikidata.org/wiki/Q26584178#/map/0
