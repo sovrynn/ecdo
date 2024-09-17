@@ -1,6 +1,6 @@
 # North and South America Myths
 
-## Peru
+## Peru Timeline - Montesinos
 
 *"According to Montesinos, there were three distinct periods in the history of Peru. First, there was a period which began with the origin of civilization, and lasted until the first or second century of the Christian era. Second, there was a period of disintegration, decline, and disorder, introduced by successful invasions from the east and southeast, during which the country was broken up into small states, and many of the arts of civilization were lost; this period lasted more than a thousand years. Third and last came the period of the Incas, who revived civilization and restored the empire."* [2]
 
