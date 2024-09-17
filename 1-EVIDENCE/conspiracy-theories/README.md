@@ -7,5 +7,5 @@ All manner of "conspiracy theories" about the ECDO.
 - `elite-conquest`: Elites trying to maintain power during an ECDO.
 - `elite-cult-symbolism`: Secret societies and occult symbolism.
 - `elite-survival-prepping`: Elites building bunkers.
-- `government-intel`:  Government intel on the ECDO.
+- `elite-intel`:  Elite intel on the ECDO.
 - `scientific-intervention`: Elites trying to scientifically interfere with the natural ECDO process.
