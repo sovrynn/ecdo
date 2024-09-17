@@ -15,3 +15,5 @@ Advanced [Egyptian stonework](https://www.theglobaleducationproject.org/egypt/ar
 # TODO
 
 Khafre pyramid?
+
+Giza Death Star ultrasonic drilling (see `important-structures`)

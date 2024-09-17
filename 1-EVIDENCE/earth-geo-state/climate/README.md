@@ -28,6 +28,13 @@ High resolution images available here:
 - https://nobulart.com/media/anti-diluvian-1.jpg
 - https://nobulart.com/media/anti-diluvian-2.jpg
 
+## Meteor strike fudging
+
+Did you know there was a meteorite strike on march 28, 2020 that struck Nigeria and left an uncomfortable crater? Did you also know we had another extremely near miss of an asteroid on November 12 of the same year? No one reported them.
+
+The 2 ships that were moored on ny harbor supposedy for Covid were actually floating hospitals designed for trauma patients (as in those who would be victims of a traumatic event-asteroid strike) and not for infectious disease treatment. Not a single Covid patient was treated onboard either of them. Uncanny don’t you think?
+
+UK built a load of temporary hospitals too. Called Nightingale hospitals. Never had a patient.
 
 ## Hurricane Irma: 3700 year history
 

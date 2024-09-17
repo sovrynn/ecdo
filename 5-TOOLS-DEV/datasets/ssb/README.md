@@ -87,6 +87,10 @@ This paper also includes a handy chart, which I quickly cobbled onto the Wolf Mi
 
 ![](img/ssb20.jpg)
 
+My built-in pattern recognition is starting to identify the flavors that occur within these cycles. I can see the genetics of each, but I don't know how to empirically filter and quantify what I'm seeing yet.
+
+![](img/ssb21.jpg)
+
 ## Google Colab Analysis
 
 Uses simple cumulative absolute value distance to find SSB displacement intervals that are closest to a desired interval.

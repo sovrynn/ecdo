@@ -28,21 +28,6 @@ This would very likely have been expunged from recent records. His source would 
 
 https://nobulart.com/the-hermetic-key/
 
-## Gobekli Tepe [1]
-
-Confirming TES' speculated built date in the period after the YDB. I'm thinking Gobleke Tepe was built during the previous stable period. So there was an event that triggered the constuction of GT as an observatory, which is starting to make it look as though the 'YDB Event' might more properly be called the BAI Event.
-
-My thinking is that it was built to watch for whatever we encountered around 12,800 BC that upset the apple cart. It's possible that the focus on interpreting GT should be expanded to include consideration of the stars at that earlier time. It would have possibly been more likely to have been built during the warmer insterstadia than the cooler YD.
-
-## Gobekli Tepe's relation to comets
-
-An interesting paper, with a convincing argument that GT was astronomically linked to observing (predicting?) the progenitor of Encke and the taurids in much the same way as the pyramids were constructed to monitor the aftermath of the YDB event.
-
-![sweatman gobekli](img/sweatman-gobekli-tepe.jpg "sweatman gobekli")
-
-- https://web.archive.org/web/20230605190759/http://www.maajournal.com/Issues/2017/Vol17-1/Sweatman%20and%20Tsikritsis%2017(1).pdf
-- https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876
-
 ## Great Circle Artifacts
 
 ![great circle artifacts](img/great-circle-artifacts.jpg "great circle artifacts")
@@ -55,9 +40,35 @@ https://www.youtube.com/watch?v=PiQL5yVpWig
 
 https://m.youtube.com/watch?v=akmKO2pgdTY&t=2s
 
-## Citations
+## Island of Arwad Megawall
 
-1. [Craig Stone](https://nobulart.com)
+They built a 10m high wall around the entire island. I’m guessing it wasn’t to keep the crabs off the beaches. 
+
+![](img/arwad.jpg)
+
+https://x.com/andtartary2/status/1834082117552406642?s=46
+
+## Pyramid - Eight Parts
+
+![](img/octant.jpg)
+
+https://x.com/dgr8awakening/status/1834394949179097510?s=46
+
+## Giza Death Star Ultrasonic Drilling [1]
+
+Seems Farrell may have been on the mark with ultrasonic drilling when he wrote that 25 years ago. This caught my attention because of our earlier discussion of the sarcophagi.
+
+![](img/gizadeath1.jpg)
+![](img/gizadeath2.jpg)
+![](img/gizadeath3.jpg)
+![](img/gizadeath4.jpg)
+![](img/gizadeath5.jpg)
+
+1. https://hplapidary.com/collections/ultrasonic-drills
+2. https://www.schott-diamantwerkzeuge.com/brittle-hard-materials.html
+
+![](img/gizadeath6.jpg)
+![](img/gizadeath7.jpg)
 
 # TODO Potential Leads
 

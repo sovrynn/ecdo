@@ -2,6 +2,8 @@
 
 A phenomena Ethical Skeptic referenced but didn't fully explain recently on social media, where the Earth reacts measurably leading up to the actual ECDO event.
 
+![](img/shudder3.jpg)
+
 ## Nobulart
 
 ![alt](img/shudder.jpg "alt")

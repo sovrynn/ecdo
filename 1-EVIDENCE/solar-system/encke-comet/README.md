@@ -1,5 +1,13 @@
 # Encke Comet
 
+2P/Encke and the Younger Dryas, summarised from Our Cometary Environment (1996) by Napier & Clube[1]: Whipple and Kresak hypothesized that 2P/Encke was originally a much larger object, which fragmented and supplied the material for the zodiacal cloud. Clube and Napier suggested that a large progenitor comet entered the solar system around 20,000 years ago, fragmenting into 2P/Encke, the associated asteroids, the Taurid streams, and the zodiacal cloud, connecting this event to the end of the last ice age about 11,000 years ago.
+
+2P/Encke plays a key role in the Taurid complex (TC), a collection of meteors and asteroids located between the inner planets. It is tied to four meteor streams, most notably the Taurids, known for bright fireballs in November, and the Beta Taurids, a daytime meteor shower peaking around June 30. A large, displaced dust trail has been detected along 2P/Encke's orbit, and several Apollo asteroids have similar trajectories.
+
+![](img/encke8.jpg)
+
+[1] https://sci-hub.ru/10.1088/0034-4885/60/3/001
+
 ## Analysis [1]
 
 ![x](img/encke3.jpg "encke")
