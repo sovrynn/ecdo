@@ -2,6 +2,10 @@
 
 A centralized location for literature (books, research papers) and media related to the ECDO. It is organized by author.
 
+## Noteworthy Authors
+
+Morner, Martineau, Landscheidt, Velikovsky, Cuvier, Uriel
+
 ## Resources
 
 https://www1.ncdc.noaa.gov/pub/data/

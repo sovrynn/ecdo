@@ -6,7 +6,7 @@ Human history, cities, and structures.
 
 - `important-structures`: Human-built structures, such as the Khufu Pyramid, potentially related to the ECDO.
 - `destroyed-cities`: Cities that were destroyed in the past, sometimes in strange ways.
-- `prehistoric-civilizations`: Did prehistoric civilizations exist? How did they end?
+- `advanced-prehistoric-civilizations`: Did advanced prehistoric civilizations exist? How did they end?
 - `oldest-cities`: The cities with the oldest history of inhabitation from present.
 
 # Analysis

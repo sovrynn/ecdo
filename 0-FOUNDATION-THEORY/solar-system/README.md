@@ -6,6 +6,10 @@ This document is dedicated to exploring parts of the solar system which may affe
 
 - `universe`: Information concerning the universe outside of Earth's solar system.
 
+## Other Sources
+
+Martineau (see `LITERATURE`) wrote a nice book on this topic.
+
 # Analysis
 
 ## Planetary effects on the Sun's activity
