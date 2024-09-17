@@ -9,6 +9,9 @@ Looks pretty streamline to me thanks to the rest of the UK blocking it from the 
 Viz -100m to 1000m.
 
 ![](img/n100-1000.png)
+
+Marked here are the 5 erratics I found in the region below:
+
 ![](img/closeup.png)
 
 ## Erratics List:
