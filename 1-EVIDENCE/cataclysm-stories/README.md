@@ -58,8 +58,6 @@ An uncommonly specific description of cataclysmic geological process: "The king 
 
 # TODO
 
-- atra hasis
-- ushnaptim
 - turkey?? i still dont get this one
 
 Organize myths by date here.
