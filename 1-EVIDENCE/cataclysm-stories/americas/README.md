@@ -20,7 +20,7 @@ The wording is unclear, but it seems that in the above quote, the Deluge was 290
 
 ### Timeline
 
-- 2900 BC: Deluge
+- 2900 BC: Assumed to be Deluge
 - Reigning king leaves Cuzco and brings followers to Andes (Tampu-Tocco), art of writing lost
 - Centuries pass
 - 2400 BC: Kingship begins in Cuzco with Manco Capac

@@ -2,9 +2,21 @@
 
 ## Herodotus, Egypt
 
-*"Thus in the period of eleven thousand three hundred and forty years they said that there had arisen no god in human form; nor even before that time or afterwards among the remaining kings who arose in Egypt, did they report that anything of that kind had come to pass. In this time they said that the sun had moved four times from his accustomed place of rising, and where he now sets he had thence twice had his rising, and in the place from whence he now rises he had twice had his setting;[127] and in the meantime nothing in Egypt had been changed from its usual state, neither that which comes from the earth nor that which comes to them from the river nor that which concerns diseases or deaths."* [4]
+*"So far in the story the Egyptians and the priests were they who made the report, declaring that from the first king down to this priest of Hephaistos who reigned last, there had been three hundred and forty-one generations of men, and that in them there had been the same number of chief-priests and of kings: but three hundred generations of men are equal to ten thousand years, for a hundred years is three generations of men; and in the one-and-forty generations which remain, those I mean which were added to the three hundred, there are one thousand three hundred and forty years. Thus in the period of eleven thousand three hundred and forty years they said that there had arisen no god in human form; nor even before that time or afterwards among the remaining kings who arose in Egypt, did they report that anything of that kind had come to pass. In this time they said that the sun had moved four times from his accustomed place of rising, and where he now sets he had thence twice had his rising, and in the place from whence he now rises he had twice had his setting;[127] and in the meantime nothing in Egypt had been changed from its usual state, neither that which comes from the earth nor that which comes to them from the river nor that which concerns diseases or deaths."* [4]
 
 - Herodotus (Greek Historian), An Account of Egypt, 440 BCE
+
+After him there came to the throne the priest of Hephaistos, whose name was Sethos. [4, 2.141]
+
+Sethos ruled from 1290 - 1279 BC.
+
+341 generations of men, 30 years per generation? It could be less.
+
+"Generally, Ancient Egyptians have married inside their social classes. The man was usually married between the ages of 16 and 20, or as soon as he chooses potential craft with the aim to earn money for his family. Women usually married at the age of about 13 years, or immediately after the puberty." [6]
+
+Women's marriage age defines the age of generations. 341 generations of men, at 14 years per generation, gives 4774 years.
+
+Then, from the period of 6000 BC to 1290 BC, there were two flips. Which aligns with a Noahic deluge and the 1750 BC events timeline.
 
 ## Mohenjo-Daro, Pakistan - Fire & Water [3]
 
@@ -63,7 +75,9 @@ Paper about Kolbrin in this folder.
 1. https://en.wikipedia.org/wiki/Hittites
 2. https://en.wikipedia.org/wiki/K%C3%BCltepe\
 3. [Craig Stone](https://nobulart.com)
-4. https://lexundria.com/hdt/2.142/mcly#:~:text=Thus%20in%20the%20period%20of,kind%20had%20come%20to%20pass.
+4. https://lexundria.com/hdt/2.142/mcly#:~:text=Thus%20in%20the%20period%20of,kind%20had%20come%20to%20pass
+5. https://en.wikipedia.org/wiki/Seti_I
+6. https://www.shorthistory.org/ancient-civilizations/ancient-egypt/marriage-in-ancient-egypt/#:~:text=Generally%2C%20Ancient%20Egyptians%20have%20married,or%20immediately%20after%20the%20puberty.
 
 # TODO additional leads
 
