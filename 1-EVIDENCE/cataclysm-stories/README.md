@@ -40,6 +40,7 @@ Between 6000+ BC and 3000 BC:
 
 Between 9600 BC and 6000+ BC:
 - 1-2 floods: "third great flood before Deucalion", Plato
+- 7400 BC: Tollmann event
 
 9600 BC event:
 - Atlantis: 9600 BC
@@ -58,16 +59,12 @@ An uncommonly specific description of cataclysmic geological process: "The king 
 
 - turkey?? i still dont get this one
 
-Organize myths by date here.
-
 Dark ages
 
 - Tiahuanaco
 	- The Great Idol of Tiahuanaco, 1959, by Arthur Posnansky
 - Easter island
 	- Island off west coast of SA with many large rock statues
-
-Great flood history of middle east: https://repository.ihu.edu.gr/xmlui/bitstream/handle/11544/29135/Thesis%20Trompakas%20Kostas%20BS.pdf (hard copy `Thesis Trompakas Kostas BS` in `hard-copies`)
 
 South America:
 - Peru, story of the Sun standing still in the sky. (If the Sun was near noon when the rotation started it may have appeared stationary).
@@ -77,6 +74,5 @@ South America:
 - Altai megafloods
 - Hawaiian flood (1000-1500 CE)
 - Popol Vuh, Maya flood (500-800 CE)
-- Sumerian Flood Story (Eridu Genesis)
 
 Malaysian and Sumatran stories describe a long night they feared would never end.

@@ -85,6 +85,12 @@ My built-in pattern recognition is starting to identify the flavors that occur w
 
 ![](img/ssb21.jpg)
 
+## 3000 BC event?
+
+![](img/3320-2820.png)
+
+Centered around about 2960 BCish, as far as where the "event" would line up, correlated with the other SSB sequences for other cataclysms.
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

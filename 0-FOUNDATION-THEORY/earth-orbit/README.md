@@ -37,6 +37,12 @@ The Antarctic Polar Circle, also known as the Antarctic Circle, is an imaginary 
 	- The Earth’s tilt is such that the Sun is directly over the equator.
 	- Day and night are approximately equal (12 hours each) across the entire planet.
 
+## Equinox and Solstices [1]
+
+Equinox: Occurs twice a year, around March 21 (spring or vernal equinox) and September 23 (autumnal equinox), when day and night are nearly equal in length because the Earth's axis is not tilted toward or away from the Sun.
+
+Solstice: Also occurs twice a year, around June 21 (summer solstice) and December 21 (winter solstice). These are the times when the Earth's axial tilt is most inclined toward or away from the Sun, resulting in the longest day (summer solstice) or the longest night (winter solstice) of the year.
+
 ## Citations
 
 1. ChatGPT

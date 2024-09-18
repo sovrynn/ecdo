@@ -9,24 +9,14 @@ Goal: Predict how frequent the ECDO event is.
 # Overview
 
 The two leading hypotheses we have are:
-1. ~6000 years
-2. ~3700 years
+1. ~3700 years
+2. ~6000 years
 
 Alternate hypothesis:
 - every 1800 years
 - non-linear timeline
 
-## Hypothesis 1: ~6000 years
-
-*"Thus in the period of eleven thousand three hundred and forty years they said that there had arisen no god in human form; nor even before that time or afterwards among the remaining kings who arose in Egypt, did they report that anything of that kind had come to pass. In this time they said that the sun had moved four times from his accustomed place of rising, and where he now sets he had thence twice had his rising, and in the place from whence he now rises he had twice had his setting;[127] and in the meantime nothing in Egypt had been changed from its usual state, neither that which comes from the earth nor that which comes to them from the river nor that which concerns diseases or deaths."* [2]
-
-- Herodotus, An Account of Egypt, 440 BCE
-
-This is the hypothesis endorsed by Ethical Skeptic and mentioned in his thesis.
-
-It's also supported by the ostrich egg (~6200 years). See `EVIDENCE/civilization-history/important-artifacts`.
-
-## Hypothesis 2: ~3700 years
+## Hypothesis 1: ~3700 years
 
 1700 BC (~3700 years ago) appears to be a very historically significant time:
 - Many records of a "natural disaster" event - from India (Manu), China (Gun-Yu), Crete (Minoan), Turkey, Pakistan (Mohenjo-Daro), Tiahuanaco, Easter Island (`cataclysm-stories`)
@@ -47,6 +37,16 @@ Going back another 3700 years to 9100 BC:
 - Plato's account of a story about Atlantis sinking in approximately 9600 BC (`cataclysm-stories`)
 
 Finally you also have a harmonic of the gas giant grand cycle which aligns with these dates (`solar-system`).
+
+## Hypothesis 2: ~6000 years
+
+*"Thus in the period of eleven thousand three hundred and forty years they said that there had arisen no god in human form; nor even before that time or afterwards among the remaining kings who arose in Egypt, did they report that anything of that kind had come to pass. In this time they said that the sun had moved four times from his accustomed place of rising, and where he now sets he had thence twice had his rising, and in the place from whence he now rises he had twice had his setting;[127] and in the meantime nothing in Egypt had been changed from its usual state, neither that which comes from the earth nor that which comes to them from the river nor that which concerns diseases or deaths."* [2]
+
+- Herodotus, An Account of Egypt, 440 BCE
+
+This is the hypothesis endorsed by Ethical Skeptic and mentioned in his thesis.
+
+It's also supported by the ostrich egg (~6200 years). See `EVIDENCE/civilization-history/important-artifacts`.
 
 ## Alternate hypothesis: 10th harmonic (twice as frequent as 3700 years) [1]
 
@@ -82,6 +82,7 @@ Between 6000+ BC and 3000 BC:
 
 Between 9600 BC and 6000+ BC:
 - 1-2 floods: "third great flood before Deucalion", Plato
+- 7400 BC: Tollmann event
 
 9600 BC event:
 - Atlantis: 9600 BC
