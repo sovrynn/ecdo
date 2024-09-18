@@ -12,7 +12,9 @@ The two leading hypotheses we have are:
 1. ~6000 years
 2. ~3700 years
 
-There's also a possibility that it occurs every 1800 years.
+Alternate hypothesis:
+- every 1800 years
+- non-linear timeline
 
 ## Hypothesis 1: ~6000 years
 
@@ -57,6 +59,20 @@ https://chatgpt.com/share/0e3c3803-5dd3-401d-b75f-7c29e513707e
 ![x](img/frequency.jpg "")
 
 See `EVIDENCE/solar-system/encke-comet` for a full analysis.
+
+## Hypothesis: non-linear timeline
+
+This is based on a timeline from mythical accounts.
+
+- 2000 AD: present day excursion
+- maybe sometime in the last 2000 years? Dark ages, Yuan empire. Sometime in the range of 500 BC to 500 AD. Alternatively, a 3700 year break
+- 1700 BC: Minoan Crete, Gun-Yu, Peru, Mohenjo Daro, Deucalion
+- 3000 BC: Noah, Peru, Dwaraka, Eridu Genesis
+- nothing between 6000 BC - 3000 BC (Herodotus account)
+- 1 or 2 floods between 9600 BC - 6000 BC (Plato 3 floods before Deucalion)
+- 9600 BC: Atlantis, End of Younger Dryas
+- presumably a break here, as Atlantis seems to have been taken by surprise
+- potentially more human civilizations destroyed by floods
 
 ## Flegrei Volcano Dates
 

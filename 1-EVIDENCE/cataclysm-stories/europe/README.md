@@ -26,11 +26,27 @@ https://x.com/nobulart/status/1835632165037486497
 
 https://en.wikipedia.org/wiki/Deucalion#Deluge_accounts
 
-## Atlantis (~9600 BC)
+## Plato
+
+"Many great deluges have taken place during the nine thousand years" since Athens and Atlantis were preeminent. Destruction by fire and other catastrophes was also common. In these floods, water rose from below, destroying city dwellers but not mountain people. The floods, especially the third great flood before Deucalion, washed away most of Athens' fertile soil." [3]
+
+"And if any event has occurred that is noble or great or in any way conspicuous, whether it be in your country or in ours or in some other place of which we know by report, all such events are recorded from of old and preserved here in our temples; whereas your people and the others are but newly equipped, every time, with letters and all such arts as civilized States require and when, after the usual interval of years, like a plague, the flood from heaven comes sweeping down afresh upon your people, [23b] it leaves none of you but the unlettered and uncultured, so that you become young as ever, with no knowledge of all that happened in old times in this land or in your own." [2]
+
+### Atlantis (~9600 BC)
 
 "But afterwards there occurred violent earthquakes and floods; and in a single day and night of misfortune all your warlike men in a body sank into the earth, and the island of Atlantis in like manner disappeared in the depths of the sea. For which reason the sea in those parts is impassable and impenetrable, because there is a shoal of mud in the way; and this was caused by the subsidence of the island."
 
 https://en.wikipedia.org/wiki/Atlantis
+
+### Ogyges (Thebes) Deluge
+
+"An earlier flood was reported to have occurred in the time of Ogyges, founder and king of Thebes. The flood covered the whole world and was so devastating that the country remained without kings until the reign of Cecrops." [3]
+
+"The first worldwide flood in Greek mythology, the Ogygian deluge occurred during his reign and derives its name from him, though some sources regard it as a local flood, such as an inundation of Lake Copais, a large lake once in the center of Boeotia.[11] Other sources see it as a flood associated with Attica.[12] This latter view was accepted by Africanus, who says "that great and first flood occurred in Attica, when Phoroneus was king of Argos, as Acusilaus relates."" [4]
+
+"Thus, Ogyges is a semi-mythical figure linked to a period that could be placed anywhere from the third millennium BCE to around 2000 BCE, while Thebes as a city likely existed as early as 3000 BCE and certainly by the Mycenaean era (1600 BCE)." [5]
+
+"Thebes (also known as Kadmeia) was first inhabited around 3000 BCE." [6]
 
 ## Kataklysmos and Ekpyrosis
 
@@ -45,3 +61,8 @@ From what I have surmised through these years, there are 3 main impacts that occ
 ## Citations
 
 1. http://www.minoancrete.com/chron.htm
+2. https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0180%3Atext%3DTim.%3Apage%3D23
+3. https://www.curioustaxonomy.net/home/FloodMyths/01Euro/greek.html
+4. https://en.wikipedia.org/wiki/Ogyges
+5. ChatGPT
+6. https://www.worldhistory.org/Thebes_(Greece)/

@@ -41,10 +41,16 @@ Links:
 
 ## Gilgamesh (2000 BC - 1200 BC)
 
+The Gilgamesh flood myth is a flood myth in the Epic of Gilgamesh. It is one of three Mesopotamian Flood Myths alongside the one including in the Eridu Genesis, and an episode from the Atra-Hasis Epic.
+
 Mesopotamian flood myth. Utnapishtim builds a boat and survives the flood. Apparently written 2150-1400 BCE.
 
 - https://en.wikipedia.org/wiki/Gilgamesh_flood_myth
 - https://www.worldhistory.org/article/227/the-atrahasis-epic-the-great-flood--the-meaning-of/
+
+## Eridu Genesis
+
+"Some modern scholars believe the Sumerian deluge story corresponds to localized river flooding at Shuruppak (modern Tell Fara, Iraq) and various other cities as far north as Kish, as revealed by a layer of riverine sediments, radiocarbon dated to c. 2900 BCE, which interrupt the continuity of settlement. Polychrome pottery from the Jemdet Nasr period (c. 3000–2900 BCE) was discovered immediately below this Shuruppak flood stratum. None of the predynastic antediluvian rulers have been verified as historical by archaeological excavations, epigraphical inscriptions or otherwise, but the Sumerians purported them to have lived in the mythical era before the great deluge." [7]
 
 ## Turkey deluge account
 
@@ -78,6 +84,7 @@ Paper about Kolbrin in this folder.
 4. https://lexundria.com/hdt/2.142/mcly#:~:text=Thus%20in%20the%20period%20of,kind%20had%20come%20to%20pass
 5. https://en.wikipedia.org/wiki/Seti_I
 6. https://www.shorthistory.org/ancient-civilizations/ancient-egypt/marriage-in-ancient-egypt/#:~:text=Generally%2C%20Ancient%20Egyptians%20have%20married,or%20immediately%20after%20the%20puberty.
+7. https://en.wikipedia.org/wiki/Eridu_Genesis
 
 # TODO additional leads
 

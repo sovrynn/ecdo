@@ -18,6 +18,19 @@ See `EVIDENCE/bible` for Bible flood myths.
 	- Systeme Du Monde, Laplace
 - Ethical Skeptic's original thesis
 
+## Accounts with timelines
+
+- Crete Minoan Civilization:
+	- Close of Middle Minoan II: 1700 BC
+	- Half a century later: 1650 BC
+	- Late Minoan II: 1400 BC
+- Ancient Egypt: ~6000 BC to 1290 BC, 2 flips
+- China Gun-Yu Flood: ~1950 BC
+
+- Peruvian Timeline:
+	- 2900 BC, ~1800 BC
+- Atlantis: 9600 BC
+
 ## Talkorigins excerpt
 
 An uncommonly specific description of cataclysmic geological process: "The king of the water demons fell in love with the woman Ngai-ti (Loved One). She rejected him and ran away. He pursued and surrounded the whole human race with water on the hill Phun-lu-buk, said to be in the far northeast. Threatened by waters which continued to rise, the people threw Ngai-ti into the flood, which then receded. **The receding water carved great valleys**; until then, the earth had been level." [Gaster, p. 97]
