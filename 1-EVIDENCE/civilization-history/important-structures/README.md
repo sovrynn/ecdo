@@ -74,3 +74,5 @@ Vrtra Underground Pyramid, Alaska http://www.human-resonance.org/Vrtra_Undergrou
 Bosnian Pyramids
 
 chinese pyramids https://thebrainchamber.com/chinese-pyramids/
+
+brain chamber pyramid map: https://www.google.com/maps/d/viewer?mid=1a7ESLhx-k-r0zTW22XiENshhHwf-QXM
