@@ -72,3 +72,5 @@ Search for (ancient) underground cities
 Vrtra Underground Pyramid, Alaska http://www.human-resonance.org/Vrtra_Underground_Pyramid.pdf
 
 Bosnian Pyramids
+
+chinese pyramids https://thebrainchamber.com/chinese-pyramids/
