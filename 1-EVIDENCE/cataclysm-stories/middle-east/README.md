@@ -1,5 +1,7 @@
 # Middle East Flood Myths
 
+Paper about flood history of middle east in this folder. [11]
+
 ## Herodotus, Greek historian, 440 BC account of Egypt solar flips
 
 *"So far in the story the Egyptians and the priests were they who made the report, declaring that from the first king down to this priest of Hephaistos who reigned last, there had been three hundred and forty-one generations of men, and that in them there had been the same number of chief-priests and of kings: but three hundred generations of men are equal to ten thousand years, for a hundred years is three generations of men; and in the one-and-forty generations which remain, those I mean which were added to the three hundred, there are one thousand three hundred and forty years. Thus in the period of eleven thousand three hundred and forty years they said that there had arisen no god in human form; nor even before that time or afterwards among the remaining kings who arose in Egypt, did they report that anything of that kind had come to pass. In this time they said that the sun had moved four times from his accustomed place of rising, and where he now sets he had thence twice had his rising, and in the place from whence he now rises he had twice had his setting;[127] and in the meantime nothing in Egypt had been changed from its usual state, neither that which comes from the earth nor that which comes to them from the river nor that which concerns diseases or deaths."* [4]
@@ -47,7 +49,7 @@ Just the physical tablets containing the tale date back to 1600 BC, meaning the 
 
 In this account, Enki is the kind god who tells the human protagonist Atrahasis about the flood.
 
-## Gilgamesh (2000 BC - 1200 BC)
+## Gilgamesh
 
 "The Epic of Gilgamesh was written c. 2150-1400 BCE but the Sumerian Flood story it relates is older, passed down orally until it appeared in writing." [10]
 
@@ -59,6 +61,9 @@ Mesopotamian flood myth - Utnapishtim builds a boat and survives the flood.
 ## Turkey flood myth (400 BC)
 
 - https://talkorigins.org/faqs/flood-myths.html
+	- Gaster, Theodor H. Myth, Legend, and Custom in the Old Testament, Harper & Row, New York, 1969. (Most of the flood stories in this work are taken from Frazer, 1919.)
+		- Frazer, Sir James G. Folk-Lore in the Old Testament, vol. 1, Macmillan & Co., London, 1919.
+			- chapter 4: the great flood
 	- This one cites the time as being around that of Alexander the Great (4th century BC), so the timing is a bit of an issue, but being a "story" its possibly incorrectly attributed to his time. There is however, another link to something happening in this area at the time Alex was around.
 		- https://x.com/nobulart/status/1803411938451374121?s=46
 		- https://x.com/nobulart/status/1801746221809209701?s=46
@@ -92,6 +97,7 @@ Paper about Kolbrin in this folder.
 8. Atra Hasis: https://en.wikipedia.org/wiki/Atra-Hasis
 9. Sumer: https://www.britannica.com/place/Sumer
 10. Atra-hasis: https://www.worldhistory.org/article/227/the-atrahasis-epic-the-great-flood--the-meaning-of/
+11. https://repository.ihu.edu.gr/xmlui/bitstream/handle/11544/29135/Thesis%20Trompakas%20Kostas%20BS.pdf
 
 # TODO additional leads
 

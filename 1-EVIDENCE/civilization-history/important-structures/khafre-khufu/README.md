@@ -32,13 +32,17 @@ This pyramid is hypothesized by TES to be a tripartite observatory designed to m
 
 ![](img/khafre-shafts.jpg)
 
-### Khufu construction timeframe [1]
+### Khufu construction timeframe - 9600 to 9200 BC [1]
 
 *"In one of the star/air shafts extending upward from the Queen’s Chamber, there resides a curious set of non-hieroglyphic markings which were photograped by the Upuaut Project.66 On the ceiling, just at the final stone before the block that terminates this shaft, a depiction of the night sky is carved. This artistic representation includes the constellations Ursa Minor and Ursa Major, Draco, Lacerta, Bootes, Cepheus, and Cassiopeia, unmistakably identifying this specific section of the sky and its orientation."*
 
 *"This depiction suggests a construction timeframe for the star shaft of around 9200 to 9600 BCE, as evidenced by comparing Exhibits M and N. Many of the stars represented in this carving would have been below the horizon in 2540 BCE and thus invisible in this depiction, to observers of that era. A Starry NightTM rendering of the northern sky at Giza as it appeared in 9200 BCE, which precisely matches the arrangement carved into the stone shown in Exhibit M, is shown below, along with the sextant-like alignment technique entailed."*
 
 ![khafre](img/khufu-air-shaft.jpg "khafre")
+
+We also have local kiln-fired mortar dating from 4000 to 2300 BC: "1995 Lehner Study: This larger and more comprehensive study included 64 samples, with dates ranging from approximately 4000 to 2300 BCE. The wide range reflects the variability in the materials and the complex history of construction and use of the site." [1]
+
+And tomb robber tool dating to ~3200 BC: "Carbon dating conducted on these pieces in 1995, and finally confirmed in 2020, places the wood 650-900 years (3341-3094 BCE) before the Fourth Dynasty of Pharaoh Khufu." [1]
 
 ### Khafre erosion [1]
 

@@ -2,8 +2,6 @@
 
 This folder is for myths, stories, and accounts of floods and cataclysms.
 
-See `EVIDENCE/bible` for Bible flood myths.
-
 ## Sources
 
 - Massive flood myth compilation: https://talkorigins.org/faqs/flood-myths.html (Hard copy in `hard-copies`)

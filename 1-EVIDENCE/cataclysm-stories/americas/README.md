@@ -34,7 +34,18 @@ The wording is unclear, but it seems that in the above quote, the Deluge was 290
 
 It seems like the 24 hours of Sun could have occurred during the rotation from S2 back to S1, since China, which had the great Gun-Yu flood, had 10 days of straight Sun as well, which would seemingly contradict this account.
 
+## Nahua/Aztec Five Suns [3]
+
+4 cataclysms in Aztec mythology: "In creation myths, the term "Five Suns" refers to the belief of certain Nahua cultures and Aztec peoples that the world has gone through five distinct cycles of creation and destruction, with the current era being the fifth."
+
+Second cataclysm: "As a consequence, Tezcatlipoca showcased his dominance and strength as a god of magic and justice by transforming the human-like people into monkeys. Quetzalcoatl, who had held the flawed people in great regard, was greatly distressed and sent away the monkeys with a powerful hurricane. After they were banished, Quetzalcoatl stepped down from his role as the sun and crafted a new, more perfect race of humans."
+
+Third cataclysm: "In a fit of rage, Tlaloc unleashed a rain of fire upon the earth, completely destroying it and leaving nothing but ashes in its wake. Following this cataclysmic event, the gods then worked together to create a new earth, allowing life to be reborn from the seemingly lifeless and barren land."
+
+Fourth cataclysm: "Chalchiuhtlicue was so crushed by these words that she cried blood for the next fifty-two years, causing a horrific flood that drowned everyone on Earth. Humans became fish in order to survive."
+
 ## Citations
 
 1. https://zsitchinindex.wordpress.com/the-earth-chronicles-index/book-4-the-lost-realms/chapter-7-the-day-the-sun-stood-still/
 2. https://www.djmcadam.com/scheme-peruvian.html
+3. https://en.wikipedia.org/wiki/Five_Suns
