@@ -28,7 +28,7 @@ See `EVIDENCE/bible` for Bible flood myths.
 - Mohenjo-Daro abandonment: 1700 BC
 - China Gun-Yu Flood, Korea Dangun: ~2000 BC
 - Peruvian Timeline: ~1800 BC "heavenly fire"
-- Ancient Egypt, Herodotus: ~6000 BC to 1290 BC, 2 flips
+- Ancient Egypt, Herodotus: 6000+ BC to 1290 BC, 2 flips
 
 ~3000 BC event:
 - Eridu Genesis (Middle East): 3000 BCE
