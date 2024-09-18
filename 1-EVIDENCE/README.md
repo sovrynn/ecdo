@@ -5,8 +5,7 @@ All manner of potential evidence for ECDO events.
 ## Contents
 
 **Humanity**:
-- `cataclysm-stories`: Flood myths, cataclysm accounts.
-- `bible`: Bible investigation.
+- `cataclysm-stories`: Flood myths, cataclysm accounts, Bible stories.
 - `civilization-history`: Human civilization and history.
 
 **Micro**:

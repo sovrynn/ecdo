@@ -2,6 +2,12 @@
 
 This folder is for evidence coming from samples of the Earth.
 
+## Laj and Lund Studies [2]
+
+![](img/laj-lund.webp)
+
+Hard copy in this folder.
+
 ## Paleomagnetic data: Earth rotation ~500 mm years ago
 
 This paper is describing something which sounds remarkably similar to an ECDO state 2 to state 1 rotation a half a billion years ago:
@@ -59,3 +65,4 @@ https://www.opalsdownunder.com.au/learn/australian-opal-mining-fields/
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
+2. https://hal.science/hal-03118231v1/file/2005GC001122.pdf

@@ -20,6 +20,12 @@ When investigating specific locations, include a map marking the location relati
 
 # TODO
 
+https://en.wikipedia.org/wiki/Cradle_of_civilization
+
+Scholars generally acknowledge seven cradles of civilization: Mesopotamia, Egypt, India, China, and Iran are believed to be the earliest in Afro-Eurasia (previously called the Old World);[6][7][8] while in the Americas (previously called the New World), the Caral–Supe civilization of ancient Peru is believed to be the earliest in South America and the Olmec civilization of ancient Mexico is believed to be the earliest in North America.
+
+https://en.wikipedia.org/wiki/Sumer
+
 ## TODO places to map out
 
 North america:

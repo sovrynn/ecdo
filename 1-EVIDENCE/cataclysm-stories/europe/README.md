@@ -1,6 +1,6 @@
 # Europe Ancient Flood Myths
 
-## Crete (Greece), 1750 BC
+## Minoan civilization, Crete, 1750 BC
 
 The Minoan civilization, which existed on Crete and other islands in the Mediterranean, seems to have ended without clear traces of invasion or other remnants. It is suspected that natural disasters, more extreme than a simple earthquake, were the cause of the downfall of Minoan civilization.
 
@@ -20,12 +20,6 @@ The timeline for these goes somewhat like this [1]:
 
 https://x.com/nobulart/status/1835632165037486497
 
-## Deucalion Greek Flood Myth (1528 BC)
-
-*"For some time during the Middle Ages, many European Christian scholars continued to accept Greek mythical history at face value, thus asserting that Deucalion's flood was a regional flood, that occurred a few centuries later than the global one survived by Noah's family. On the basis of the archaeological stele known as the Parian Chronicle, Deucalion's Flood was usually fixed as occurring some time around 1528 BC. Deucalion's flood may be dated in the chronology of Saint Jerome to c. 1460 BC."*
-
-https://en.wikipedia.org/wiki/Deucalion#Deluge_accounts
-
 ## Plato
 
 "Many great deluges have taken place during the nine thousand years" since Athens and Atlantis were preeminent. Destruction by fire and other catastrophes was also common. In these floods, water rose from below, destroying city dwellers but not mountain people. The floods, especially the third great flood before Deucalion, washed away most of Athens' fertile soil." [3]
@@ -38,15 +32,29 @@ https://en.wikipedia.org/wiki/Deucalion#Deluge_accounts
 
 https://en.wikipedia.org/wiki/Atlantis
 
-### Ogyges (Thebes) Deluge
+## Greek Myths
 
-"An earlier flood was reported to have occurred in the time of Ogyges, founder and king of Thebes. The flood covered the whole world and was so devastating that the country remained without kings until the reign of Cecrops." [3]
+Deucalion, Ogyges, and Dardanus. All seem to have been the same flood.
+
+### Deucalion Greek Flood Myth (1528 BC)
+
+*"For some time during the Middle Ages, many European Christian scholars continued to accept Greek mythical history at face value, thus asserting that Deucalion's flood was a regional flood, that occurred a few centuries later than the global one survived by Noah's family. On the basis of the archaeological stele known as the Parian Chronicle, Deucalion's Flood was usually fixed as occurring some time around 1528 BC. Deucalion's flood may be dated in the chronology of Saint Jerome to c. 1460 BC. According to Augustine of Hippo (City of God XVIII,8,10,&11), Deucalion and his father Prometheus were contemporaries of Moses. According to Clement of Alexandria in his Stromata, "...in the time of Crotopus occurred the burning of Phaethon, and the deluges of Deucalion."*
+
+https://en.wikipedia.org/wiki/Deucalion#Deluge_accounts
+
+### Ogyges (Thebes) Deluge
 
 "The first worldwide flood in Greek mythology, the Ogygian deluge occurred during his reign and derives its name from him, though some sources regard it as a local flood, such as an inundation of Lake Copais, a large lake once in the center of Boeotia.[11] Other sources see it as a flood associated with Attica.[12] This latter view was accepted by Africanus, who says "that great and first flood occurred in Attica, when Phoroneus was king of Argos, as Acusilaus relates."" [4]
 
-"Thus, Ogyges is a semi-mythical figure linked to a period that could be placed anywhere from the third millennium BCE to around 2000 BCE, while Thebes as a city likely existed as early as 3000 BCE and certainly by the Mycenaean era (1600 BCE)." [5]
+"According to Africanus, Ogygus lived at the time of the Exodus of the House of Israel from Egypt... Various dates have been assigned to the event, including 2136 BCE (Varro), and 1793 BCE (Africanus)." [4]
 
-"Thebes (also known as Kadmeia) was first inhabited around 3000 BCE." [6]
+Exodus is apparently dated to around 1500 - 1300 BC.
+
+### Dardanus, king of Arcadia, founder of Troy, 1519 BC
+
+"Dardanus, first king of Arcadia, was driven from his land by a great flood which submerged the lowlands, rendering them unfit for cultivation. The people retreated to the mountains, but they soon decided that the land left was not enough to support them all. Some stayed with Dimas, son of Dardanus, as their king; Dardanus led the rest to the island of Samothrace." [3]
+
+Dated to 1519 BC. [8,9]
 
 ## Kataklysmos and Ekpyrosis
 
@@ -60,9 +68,12 @@ From what I have surmised through these years, there are 3 main impacts that occ
 
 ## Citations
 
-1. http://www.minoancrete.com/chron.htm
-2. https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0180%3Atext%3DTim.%3Apage%3D23
-3. https://www.curioustaxonomy.net/home/FloodMyths/01Euro/greek.html
-4. https://en.wikipedia.org/wiki/Ogyges
-5. ChatGPT
+1. Minoan: http://www.minoancrete.com/chron.htm
+2. Plato: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0180%3Atext%3DTim.%3Apage%3D23
+3. Greek flood myths: https://www.curioustaxonomy.net/home/FloodMyths/01Euro/greek.html
+4. Ogyges: https://en.wikipedia.org/wiki/Ogyges
+5. -
 6. https://www.worldhistory.org/Thebes_(Greece)/
+7. https://ancientgreecereloaded.com/files/ancient_greece_reloaded_website/mythology_in_a_nutshell/the_three_great_floods.php
+8. Dardanus: https://www.geni.com/people/Dardanus-king-of-Dardania/6000000006375582740
+9. Dardanus: https://www.genealogieonline.nl/en/stamboom-homs/I6000000006375582740.php

@@ -60,19 +60,32 @@ https://chatgpt.com/share/0e3c3803-5dd3-401d-b75f-7c29e513707e
 
 See `EVIDENCE/solar-system/encke-comet` for a full analysis.
 
-## Hypothesis: non-linear timeline
+## Hypothesis: non-linear cataclysm timeline based on mythical accounts
 
-This is based on a timeline from mythical accounts.
+~1700 BC event:
+- Greek flood (Deucalion, Ogyges, Dardanus): 1528 BC
+- Crete Minoan Civilization, Close of Middle Minoan II: 1700 BC
+- Mohenjo-Daro abandonment: 1700 BC
+- China Gun-Yu Flood, Korea Dangun: ~2000 BC
+- Peruvian Timeline: ~1800 BC "heavenly fire"
+- Ancient Egypt, Herodotus: ~6000 BC to 1290 BC, 2 flips
 
-- 2000 AD: present day excursion
-- maybe sometime in the last 2000 years? Dark ages, Yuan empire. Sometime in the range of 500 BC to 500 AD. Alternatively, a 3700 year break
-- 1700 BC: Minoan Crete, Gun-Yu, Peru, Mohenjo Daro, Deucalion
-- 3000 BC: Noah, Peru, Dwaraka, Eridu Genesis
-- nothing between 6000 BC - 3000 BC (Herodotus account)
-- 1 or 2 floods between 9600 BC - 6000 BC (Plato 3 floods before Deucalion)
-- 9600 BC: Atlantis, End of Younger Dryas
-- presumably a break here, as Atlantis seems to have been taken by surprise
-- potentially more human civilizations destroyed by floods
+~3000 BC event:
+- Eridu Genesis (Middle East): 3000 BCE
+- India, Sinking of Dwaraka: 3031 BC
+- Peruvian Timeline: 2900 BC Deluge
+- Biblical Noahic deluge: 3500 - 3000 BC
+- Ancient Egypt: 6000+ BC to 1290 BC, 2 flips
+
+Between 6000+ BC and 3000 BC:
+- No flips (Herodotus account)
+
+Between 9600 BC and 6000+ BC:
+- 1-2 floods: "third great flood before Deucalion", Plato
+
+9600 BC event:
+- Atlantis: 9600 BC
+- end of Younger Dryas
 
 ## Flegrei Volcano Dates
 

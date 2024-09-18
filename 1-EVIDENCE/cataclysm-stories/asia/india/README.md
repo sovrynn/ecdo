@@ -6,6 +6,19 @@ There are several Indian flood myths.
 
 Check `img/` for all records.
 
+## Krishna - Mahabharata War 3067 BCE
+
+Stephen Knapp, in "Advancements of Ancient India's Vedic Culture", provides a compelling account for why Krishna can be dated to around 3100 BC, including:
+- astronomical analysis to date the Kurukshetra War precisely to 3067 BCE
+- Aryabhatta (mathematician) Kali-yuga duration calculation
+- Mohenjo-Daro tablet referencing Krishna
+
+## Sinking of Dwarka, Mausala Parva, 3031 BCE
+
+"The Mausala Parva (lit. Episode of Flails)[1][2] is the sixteenth of the eighteen episodes of the ancient Indian epic Mahabharata... the Mausala Parva describes the demise of Krishna in the 36th year after the Kurukshetra War had ended, the submersion of Dvaraka under the sea, the death of Balarama by drowning in the sea, Vasudeva's death, and a civil war fought among the Yadava clan that killed many of them." [8]
+
+36 years after the Kurukshetra War would put the sinking of Dwarka at 3031 BCE.
+
 ## North India Flood Remnants (2000 - 1900 BC)
 
 There is a research paper by BB Lal (presented at ICHR) which dates a flood to 2000 - 1900 BC using carbon dating. It ascribes it to the Manu Flood story, but this is unlikely, given the original Manu flood is stated to have started the golden age.
@@ -32,16 +45,6 @@ Those islands on the western part of sunken land suggests those were the older p
 
 *"Those who count seven stages of submergence place 1st submergence at 16,000 BCE, the 2nd one at 14000 BCE, the third at 9600 to 9500 BCE and the fourth at 5500 BCE to 5200 BCE. They count the fifth submergence as having occurred around 3100 BCE and a sixth at 1800 BCE. The 7th submergence is then dated at 1700 BCE to 700 BCE. Manavuur is a city to the north of Kapatapuram that got submerged in 3100 BCE or in 1800 BCE (most probably in 1800 BCE)."* [2]
 
-## Sinking of Dwarka – 5525 BCE
-
-Sinking of the city of Dwarka might have been due to great flood. 5525 BCE is pretty close to the Noahic event 5401 BCE. 
-
-*"Dwarka of Krishna, on the west coast of India, was destroyed by flood 36 years after the Mahabharata War. I defined time interval of 6500 years for the plausible year of Mahabharata War based on AV (Arundhati-Vasistha) observation of Mahabharata text. Further I could validate 18 day timeline and year of 5561 BCE, proposed by Dr. P V Vartak. I validated 5561 BCE as the year of Mahabharata War based on consistent interpretation of 200+ astronomy observations of Mahabharata text."*
-
-*"This would lead us to the timing of flooding of Dwarka as follows: 5561 BCE + 36 years = 5525 BCE"*
-
-*"Thus flooding and Destruction of Krishna’s Dwarka occurred in 5525 BCE."* [3]
-
 ## Manu Deluge [4]
 
 ![alt](img/manu.PNG "india myths")
@@ -63,17 +66,15 @@ In the Manu story they mention that the only highest peak of Himalayas was dry c
 
 "Pralaya is the concept of cosmic dissolution, often described as a flood or deluge, that ends a Yuga cycle, particularly at the end of a Mahayuga (the full cycle of the four Yugas) or at the end of a Kalpa (a day of Brahma). Each Pralaya wipes out the existing world, which is then re-created at the start of the next cycle." [5]
 
-### Mahabharata (Kurukshetra) War, Start of Kaliyuga, 3100 BCE
+## Sinking of Dwarka Alternative Timeline – 5525 BCE
 
-"Although the Mahabharata does not explicitly mention a flood tied to the end of a Yuga, the Kurukshetra War that concludes the epic is strongly associated with the end of Dwaparayuga and the beginning of Kaliyuga. According to tradition, the Kaliyuga began shortly after the war, with the death of Krishna marking its formal start." [5]
+Sinking of the city of Dwarka might have been due to great flood. 5525 BCE is pretty close to the Noahic event 5401 BCE. 
 
-"However, popular tradition claims that the war marks the transition to the Kali Yuga, dating it to c. 3102 BCE." [7]
+*"Dwarka of Krishna, on the west coast of India, was destroyed by flood 36 years after the Mahabharata War. I defined time interval of 6500 years for the plausible year of Mahabharata War based on AV (Arundhati-Vasistha) observation of Mahabharata text. Further I could validate 18 day timeline and year of 5561 BCE, proposed by Dr. P V Vartak. I validated 5561 BCE as the year of Mahabharata War based on consistent interpretation of 200+ astronomy observations of Mahabharata text."*
 
-"the Mausala Parva describes the demise of Krishna in the 36th year after the Kurukshetra War had ended, the submersion of Dvaraka under the sea, the death of Balarama by drowning in the sea, Vasudeva's death, and a civil war fought among the Yadava clan that killed many of them." [8]
+*"This would lead us to the timing of flooding of Dwarka as follows: 5561 BCE + 36 years = 5525 BCE"*
 
-Other than Dwarka:
-- Prabhasa Kshetra, another sacred site near Dwaraka, is also said to have been partially submerged after Krishna’s departure.
-- The city of Shonitapura, ruled by the demon king Bana, was destroyed during the battles between Krishna and Bana.
+*"Thus flooding and Destruction of Krishna’s Dwarka occurred in 5525 BCE."* [3]
 
 ## Citations
 
@@ -86,7 +87,10 @@ Other than Dwarka:
 7. https://en.wikipedia.org/wiki/Kurukshetra_War
 8. https://en.wikipedia.org/wiki/Mausala_Parva
 
-# TODO
+# TODO (much from chatgpt)
+
+- Prabhasa Kshetra, another sacred site near Dwaraka, is also said to have been partially submerged after Krishna’s departure.
+- The city of Shonitapura, ruled by the demon king Bana, was destroyed during the battles between Krishna and Bana.
 
 Sri Yukteswar yuga dating
 

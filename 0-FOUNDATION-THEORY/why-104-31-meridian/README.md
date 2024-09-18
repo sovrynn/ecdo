@@ -24,6 +24,8 @@ The centroid of the least dense LLVP centroid lies in South Africa. This is hypo
 
 We have evidence of a rotation of the continents from paleomagnetic data that is in the same directions as predicted during S1 -> S2; see `EVIDENCE/physical-material/land-soil-earth`.
 
+![](../../1-EVIDENCE/physical-material/land-soil-earth/img/laj-lund.webp)
+
 ## Mythical Evidence
 
 Mythical accounts of Earth rotating in the same direction as predicted by the ECDO. See `EVIDENCE/cataclysm-stories`.

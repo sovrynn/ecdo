@@ -1,12 +1,12 @@
 # China
 
-## Chinese Nuwa Inundation Myth
+## Chinese Nuwa Gong Gong Inundation Myth
 
 There is a Chinese inundation myth which matches China's expected rotation from S1 to S2.
 
 *"When the water god Gong Gong saw that he was losing, he smashed his head against Mount Buzhou, a pillar holding up the sky. The pillar collapsed and caused the sky to tilt towards the northwest and the earth to shift to the southeast."* [4]
 
-## Great Flood (2300 BCE?)
+## Great Flood (2300 - 1920 BCE)
 
 Not so much a myth as an account, it lines up with Korea's founding myth, that of Dangun.
 
@@ -50,7 +50,7 @@ Source: https://www.science.org/doi/10.1126/science.aaf0842
 
 PDF included in this folder.
 
-## Yuan Empire Downfall
+## Yuan Empire Downfall - 1300 AD
 
 This all happened 700 years ago - during the Wolf Minimum. "This is what seems to have happened to the Yuan Empire in the fourteenth century. Historical records of this era are filled with natural disasters, especially between 1300 and 1359. This period witnessed a surge in every imaginable type of natural disaster all over the country: frequent super typhoons along the southeastern coast; recurrent floods of both the Yangtze and Yellow River deltas; locust plagues (associated with droughts) on the central plain; and two significant earthquakes in central China in 1303 and 1305 that caused over 270,000 fatalities. Last but not least, a series of epidemics swept through the region between 1352 and 1362, the worst of which caused two hundred thousand deaths in the capital area alone in 1358. The Chinese scholar He Fuqiang has calculated that, in the 109 years between 1260 and 1368, the empire suffered at least two major disasters per year, with five different disasters occurring in four out of every five years. For more than a third of the Yuan era, the empire experienced at least seven distinct natural calamities within the same year." - this all sounds a lot like what's going on across much of Asia right now. They must have had a lot of livestock to have caused such serious climate change 700 years ago.
 

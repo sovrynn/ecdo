@@ -7,8 +7,9 @@ See `EVIDENCE/bible` for Bible flood myths.
 ## Sources
 
 - Massive flood myth compilation: https://talkorigins.org/faqs/flood-myths.html (Hard copy in `hard-copies`)
-- Allan and Dellair's Cataclysm: https://archive.org/details/cataclysmcompell00alla
 - Earth in Upheaval, Worlds in Collision, by Velikovsky
+- The Bible
+- Allan and Dellair's Cataclysm: https://archive.org/details/cataclysmcompell00alla
 - Literature (see `LITERATURE`):
 	- Uriel's Machine
 	- Moons Myths and Man, Bellamy
@@ -17,19 +18,34 @@ See `EVIDENCE/bible` for Bible flood myths.
 	- The Flood Reconsidered, Filby
 	- Systeme Du Monde, Laplace
 - Ethical Skeptic's original thesis
+- https://www.curioustaxonomy.net/home/FloodMyths/
 
-## Accounts with timelines
+## Timeline of dateable myths
 
-- Crete Minoan Civilization:
-	- Close of Middle Minoan II: 1700 BC
-	- Half a century later: 1650 BC
-	- Late Minoan II: 1400 BC
-- Ancient Egypt: ~6000 BC to 1290 BC, 2 flips
-- China Gun-Yu Flood: ~1950 BC
+~1700 BC event:
+- Greek flood (Deucalion, Ogyges, Dardanus): 1528 BC
+- Crete Minoan Civilization, Close of Middle Minoan II: 1700 BC
+- Mohenjo-Daro abandonment: 1700 BC
+- China Gun-Yu Flood, Korea Dangun: ~2000 BC
+- Peruvian Timeline: ~1800 BC "heavenly fire"
+- Ancient Egypt, Herodotus: ~6000 BC to 1290 BC, 2 flips
 
-- Peruvian Timeline:
-	- 2900 BC, ~1800 BC
+~3000 BC event:
+- Eridu Genesis (Middle East): 3000 BCE
+- India, Sinking of Dwaraka: 3031 BC
+- Peruvian Timeline: 2900 BC Deluge
+- Biblical Noahic deluge: 3500 - 3000 BC
+- Ancient Egypt: 6000+ BC to 1290 BC, 2 flips
+
+Between 6000+ BC and 3000 BC:
+- No flips (Herodotus account)
+
+Between 9600 BC and 6000+ BC:
+- 1-2 floods: "third great flood before Deucalion", Plato
+
+9600 BC event:
 - Atlantis: 9600 BC
+- end of Younger Dryas
 
 ## Talkorigins excerpt
 
@@ -41,6 +57,10 @@ An uncommonly specific description of cataclysmic geological process: "The king 
 - Peru, 24 hours, ~1800 BC
 
 # TODO
+
+- atra hasis
+- ushnaptim
+- turkey?? i still dont get this one
 
 Organize myths by date here.
 

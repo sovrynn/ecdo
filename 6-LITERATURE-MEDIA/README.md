@@ -10,7 +10,7 @@ Morner, Martineau, Landscheidt, Velikovsky, Cuvier, Uriel
 
 https://www1.ncdc.noaa.gov/pub/data/
 
-ibgen.is / annas-archive.org , where one can find pdf / epub full versions of books such as Uriel's Machine
+libgen.is / annas-archive.org , where one can find pdf / epub full versions of books such as Uriel's Machine
 
 # TODO
 

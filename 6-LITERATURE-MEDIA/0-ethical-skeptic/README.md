@@ -19,6 +19,11 @@ I consider recreating his proofs to be of the highest priority. That work belong
 
 *"It is our contention that we are now well past an Indigo Point of exothermic core-mantle decoupling and that we have incorrectly interpreted the heat presented by this phenomenon as being caused solely by human activity. While we don’t conjecture an interval for this catastrophic cycle, and cannot predict when the next instance will occur, we nonetheless cite that there exists an urgent need to consider the possibility and detect the approach of a subsequent Tau Point Dzhanibekov gyroscopic oscillation in Earth’s rotation. Such a rotation will likely reproduce the cataclysmic inundation we see marked into the Tura limestone casing of the Khafre Pyramid and which is contained inside many ancient cultural mythologies."*
 
+## Other articles of his
+
+- History being hidden: https://theethicalskeptic.com/2021/10/16/eternal-are-the-embers-which-conflagrate-the-library-of-history/
+- Intent in DNA design: https://theethicalskeptic.com/2019/06/30/the-dual-burden-model-of-inferential-ethics/
+
 ## Contents
 
 - `hard-copies`: Hard copies of Ethical Skeptic's theses.
