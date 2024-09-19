@@ -1,6 +1,22 @@
 # Noahs Flood (Book of Genesis)
 
-Biblical chronology seems to squarely place Noah's flood in the timeframe of about 2500 - 2300 BC based on Biblical chronology, and Exodus about 900 to 1000 years later.
+Biblical chronology seems to squarely place Noah's flood in the timeframe of about 3500 - 2300 BC based on Biblical chronology, and Exodus about 900 to 1100 years later.
+
+## Old Testament Dating: Hebrew Masoretic vs Greek Septuagint Dating Schemes [4]
+
+These two primary Old Testament dating timelines cover the period from Adam, through Noah, to Moses.
+
+Greek Septuagint:
+- Noah: 3789 - 2839 BC
+- Flood: 3189 BC
+- Moses: 1692 - 1572 BC
+- 1577 years between Flood and Exodus
+
+Hebrew Masoretic:
+- Noah: 3009 - 2059 BC
+- Flood: 2409 BC
+- Moses: 1692 - 1572 BC
+- 797 years between Flood and Exodus
 
 ## Basic Biblical Chronology: 2472, 2304 BC
 
@@ -34,7 +50,9 @@ Hard copy in this folder.
 
 ## Paul H. Seely paper [1]: 3500 - 3000 BC
 
-Conclusion of the paper: Suggests 3500 BC - 3000 BC, with hard caps of 4000 BC to 2300 BC.
+Conclusion of the paper: Suggests 3500 BC - 3000 BC, with probable caps of 4000 BC to 2300 BC, and a limit of 5000 BC.
+
+"Thus, the probable use of copper (copper-alloy) tools to build the ark indicates that the earliest date for the Flood is c. 5000 B.C."
 
 Uses:
 - domesticated fruit tree mentions
@@ -54,27 +72,19 @@ From 4000 to 3000 BC, the picture is no different. Arslantepe, Beycesultan, and 
 
 There are then a number of cities in the Near East which together spanned the period from 5000 to 3000 BC with continuous occupation. In Mesopotamia itself, Eridu in the south was continuously occupied from around 5200 to 3400 BC, and Tepe Gawra in the north shows a nearly continuous cultural sequence from 5000 to 3100 BC. Nippur in south-central Mesopotamia was occupied from before 5000 until after 3000 BC. Armstrong thus says of ancient Mesopotamia: "We can say, however, that from Ubaid 0 [6200 BC] on, there is a demonstrable continuity of material culture, particularly evident in the architectural and ceramic remains, into historical times."
 
-## Time between Noah's flood and Exodus
+## ChatGPT: Generally Accepted Duration Between Noah's Flood and Moses' Exodus
 
 ChatGPT summarizes the time difference between Noah's Flood and Exodus as approximately 900 - 1100 years.
-
-ChatGPT: Generally Accepted Duration Between Noah's Flood and Moses' Exodus
 
 ### Traditional Ussher Chronology
 - **Noah’s Flood**: Approximately 2348 BC
 - **Moses’ Exodus**: Approximately 1446 BC
-- **Time Difference**: 
-  \[
-  2348 \, \text{BC} - 1446 \, \text{BC} = 902 \, \text{years}
-  \]
+- **Time Difference**: 2348 - 1446 = 902 years
 
 ### Alternative Dating for the Exodus
 - **Noah’s Flood**: Approximately 2348 BC
 - **Moses’ Exodus**: Approximately 1250 BC (based on some archaeological interpretations)
-- **Time Difference**: 
-  \[
-  2348 \, \text{BC} - 1250 \, \text{BC} = 1098 \, \text{years}
-  \]
+- **Time Difference**: 2348 - 1250 = 1098 years
 
 ## Alternative date: Black Sea Filling - 5200 BC? [3]
 
@@ -94,6 +104,7 @@ When Noah was 600 years old, on the seventeenth day of the second month, all the
 1. https://www.academia.edu/7883319/_Noahs_Flood_WTJ2004_1_
 2. https://www.biblicalchronologist.org/products/Noah%27s_Flood_Happened_3520_BC.PDF
 3. https://www.123helpme.com/essay/The-Yahwist-And-The-Flood-Of-The-4C0E4F9453D8E980
+4. https://bibletopicexpo.wordpress.com/2017/01/03/chronology-septuagint-versus-masoretic-text/
 
 # TODO
 

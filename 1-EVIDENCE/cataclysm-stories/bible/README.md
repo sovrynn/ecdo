@@ -17,22 +17,6 @@ Africanus dated Ogyges as a contemporary of Moses and the Exodus, and he dated O
 
 Exodus seems to be place about 900 - 1100 years after Noah's Flood. See the folder about Noah's flood.
 
-## Old Testament Dating: Hebrew Masoretic vs Greek Septuagint Dating Schemes [4]
-
-These cover the period from Adam, through Noah, to Moses.
-
-Greek Septuagint:
-- Noah: 3789 - 2839 BC
-- Flood: 3189 BC
-- Moses: 1692 - 1572 BC
-- 1577 years between Flood and Exodus
-
-Hebrew Masoretic:
-- Noah: 3009 - 2059 BC
-- Flood: 2409 BC
-- Moses: 1692 - 1572 BC
-- 797 years between Flood and Exodus
-
 ## Chan - 3 cataclysms?
 
 Chan believe there are 3 cataclysms recorded in the Bible: *"Did you understand that there are three cataclysms recorded in the Bible? Noah’s, Adam and Eve’s, and the one before that? If you missed it, check Genesis II."* [2]
