@@ -5,13 +5,15 @@ Major events:
 - Exodus (Red Sea Crossing), Moses
 - Adam and Eve flood
 
-## Exodus (1500 - 1300 BC)
+## Exodus (1800 - 1300 BC)
 
 Could the Exodus out of Egypt and crossing of the red sea occurred during the 1700 BC event? May be the whole of Egypt was washed away just after the Israelites made it safely into Sinai?
 
 Exodus is currently dated to between the 15th and 13th century BC, but even those dates are patchy. 
 
 https://chatgpt.com/share/bde43e37-b063-4b41-8d7f-b25fcb751595
+
+Africanus dated Ogyges as a contemporary of Moses and the Exodus, and he dated Ogyges to 1800 BC. See Europe flood myths.
 
 ## Chan - 3 cataclysms?
 
