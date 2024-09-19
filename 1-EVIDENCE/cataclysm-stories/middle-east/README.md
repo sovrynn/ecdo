@@ -37,7 +37,15 @@ There are thousands of square kilometers of significant stratification formation
 
 Just the physical tablets containing the tale date back to 1600 BC, meaning the actual event is likely much older: "The story is known from three fragments representing different versions of the narrative. One is a tablet excavated from the ancient Sumerian city known as Nippur. This tablet was discovered during the Expedition of the University of Pennsylvania in 1893, and the creation story was recognized by Arno Poebel in 1912. It is written in the Sumerian language and is dated to around 1600 BC.[1] The second fragment is from Ur, also written in Sumerian and from the same time period. The third is a bilingual Sumerian-Akkadian fragment from the Library of Ashurbanipal ca. 600" [7]
 
+### Sumerian History - Sumerian King List
+
+Sumerian civilization seems to be dated using a combination of dating written records and archaelogical remains, and cross-referencing nearby regions.
+
 "The people called Sumerians, whose language became the prevailing language of the territory, probably came from around Anatolia, arriving in Sumer about 3300 BCE... An extant document, The Sumerian King List, records that eight kings reigned before the great Flood. After the Flood, various city-states and their dynasties of kings temporarily gained power over the others. The first king to unite the separate city-states was Etana, ruler of Kish (c. 2800 BCE)." [9]
+
+The Sumerian King List's earliest version is dated to about 2000 BC. [12]
+
+### Sumer 2900 BCE-dated Flood Remnants
 
 "Some modern scholars believe the Sumerian deluge story corresponds to localized river flooding at Shuruppak (modern Tell Fara, Iraq) and various other cities as far north as Kish, as revealed by a layer of riverine sediments, radiocarbon dated to c. 2900 BCE, which interrupt the continuity of settlement. Polychrome pottery from the Jemdet Nasr period (c. 3000–2900 BCE) was discovered immediately below this Shuruppak flood stratum. None of the predynastic antediluvian rulers have been verified as historical by archaeological excavations, epigraphical inscriptions or otherwise, but the Sumerians purported them to have lived in the mythical era before the great deluge." [7]
 
@@ -98,6 +106,7 @@ Paper about Kolbrin in this folder.
 9. Sumer: https://www.britannica.com/place/Sumer
 10. Atra-hasis: https://www.worldhistory.org/article/227/the-atrahasis-epic-the-great-flood--the-meaning-of/
 11. https://repository.ihu.edu.gr/xmlui/bitstream/handle/11544/29135/Thesis%20Trompakas%20Kostas%20BS.pdf
+12. https://en.wikipedia.org/wiki/Sumerian_King_List
 
 # TODO additional leads
 
