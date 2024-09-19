@@ -34,3 +34,11 @@ A study of ancient proteins in human plaque has revealed that oriental elements 
 The study aimed to clarify whether the early globalization of commercial networks during the Bronze Era also affected eating habits. The researchers examined food remains in dental plaque and found evidence that the inhabitants of the Eastern Mediterranean coast already ate turmeric, bananas, and even soy during the Bronze Age and Iron Age."
 
 https://www.dentistrytoday.com/ancient-plaque-reveals-exotic-diets-3-700-years-ago/
+
+## Dublin Incinerated Remains
+
+Round barrow excavation in Kilmahuddrick, Dublin. Human remains incinerated in place in their hidey hole. Dated to 3790±40 BP (in 2016) or roughly 1750 BC. Human remains are dated to much more recent dates though.
+
+"A patch of oxidised clay and charcoal was present on its flat upper surface and there was a patch of oxidised or ?re-reddened clay on the natural clay of the adjacent inner edge of F3, indicating in situ burning. Immedi ately south of Fl 5 was a spread of charcoal and oxidised clay, F30, which overlay the basal silt Fl7 and measured 0.3m north/south by 0.24m east/west by 0.03-0.04m deep. Charcoal within F30 was identified as Fraxinus and returned a radiocarbon date of 3790140 BP (GrA 17925,2398-2047 cal.BC at 2 sigma)"
+ 
+https://sci-hub.ru/10.2307/20650841

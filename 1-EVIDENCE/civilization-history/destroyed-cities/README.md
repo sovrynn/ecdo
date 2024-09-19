@@ -111,11 +111,13 @@ Dates to around 150 AD.
 1. https://www.sciencedirect.com/science/article/abs/pii/S2352409X19304080
 2. https://en.wikipedia.org/wiki/Vitrified_fort
 
-## India Extended Flood Evidence
+## North India Flood Remnants (2000 - 1900 BC)
 
-There is a paper by BB Lal that dates ancient Indian cities that were flooded for an extended period, evidenced by excavating and investigating deposits in their remains, to ~1900 BC. See `EVIDENCE/cataclysm-stories/asia/india` for more.
+There is a research paper by BB Lal (presented at ICHR) which dates a flood to 2000 - 1900 BC using carbon dating. It ascribes it to the Manu Flood story, but this is unlikely, given the original Manu flood is stated to have started the golden age.
 
-The specific locations referenced in that paper are explored more in `LOCATION-ANALYSIS/asia/india`.
+*"It relates to the history the Sarasvatī, which is a river par excellence in the Ṛigveda. She has been eulogized as the best of mothers (ambitame), the best of rivers (nadītame) and the best of goddesses (devitame) [RV 2.41.16]. She originated in the mountains and went all the way down to the sea (yatī giribhya ā samudrāt) [RV 7.95.2]. She was so powerful that she shattered the mountain peaks with her fast and powerful waves (iyam śuṣmebhir bisakhā ivārujat sānu girīṇām taviṣebhirūrmibhiḥ) [RV 6.61.2]."*
+
+Paper in this folder.
 
 ## Ankara break in history 1700 BC - 1000 BC
 

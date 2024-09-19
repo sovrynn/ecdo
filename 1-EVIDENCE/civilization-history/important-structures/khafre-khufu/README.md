@@ -63,6 +63,12 @@ Taken from: https://youtu.be/43V9RTpnxbk
 ![](img/brick3.jpg)
 ![](img/brick4.jpg)
 
+## Floating Coffer Theory
+
+![](img/floating-coffer.jpg)
+
+https://grahamhancock.com/phorum/read.php?1,1309215,1311773
+
 ## Why were these built on flood locations if they were built by civilizations that survived an ECDO? [2]
 
 Think about other suitable locations on that meridian which would have worked, providing destabilization monitoring for both states. Is there anywhere suitable? It survived intact where it is. Its the only one of the pyramids founded on the bedrock there. Seems like it was built to endure. Perhaps the elevated upper entrance was intended as a docking point for boats.
@@ -84,6 +90,17 @@ The corbel roof above the upper chamber in the pyramid bears an architectural re
 Apparently archaelogists used to support this hypothesis, but when exactly the mood changed I cannot discern.
 
 https://x.com/East10Outpost/status/1836007215120933307
+
+## Khufu - Stirling Generator?
+
+Evolution of the Stirling Engine. Ultrasonic waves are generated through the application of heat to a thermoacoustic material. The resonant wavefront drives a piston or vibrates a tellurically active material (possibly quartz) in a resonant chamber. The vibration generates electricity. This is similar to the principal behind the formation of "earthquake lights". With few or no moving parts, these run silently. Any heat source may be used with most designs. They are highly scalable, require little or no maintenance and will run reliably for decades. China's working design produces 102 kilowatts of power from a temperature gradient of 530 degrees Celsius [1]. NASA have been working on a couple of similar projects (at the patent tender stage).[2][3]
+
+![](img/stirling.jpg)
+
+1. https://www.nextbigfuture.com/2023/11/breakthrough-thermoacoustic-stirling-generator-converts-to-energy-with-no-moving-parts.html
+2. https://technology.nasa.gov/patent/LEW-TOPS-80
+3. https://technology.nasa.gov/patent/LEW-TOPS-106
+4. https://t.me/nobulart/2497
 
 ## Citations
 

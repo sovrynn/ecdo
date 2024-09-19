@@ -4,6 +4,12 @@ This folder is for important structures humans have built that are potentially r
 
 Khafre/Khufu Pyramids, structures that are central to the ECDO thesis, are in `khafre-khufu`.
 
+## All the pyramids in the world
+
+Map of all the pyramids in the world: https://www.google.com/maps/d/viewer?mid=1a7ESLhx-k-r0zTW22XiENshhHwf-QXM
+
+![](img/all-pyramids.jpg)
+
 ## Derinkuyu underground city
 
 ![derinkuyu](img/derinkuyu1.jpg "derinkuyu")

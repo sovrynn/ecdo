@@ -19,14 +19,6 @@ Stephen Knapp, in "Advancements of Ancient India's Vedic Culture", provides a co
 
 36 years after the Kurukshetra War would put the sinking of Dwarka at 3031 BCE.
 
-## North India Flood Remnants (2000 - 1900 BC)
-
-There is a research paper by BB Lal (presented at ICHR) which dates a flood to 2000 - 1900 BC using carbon dating. It ascribes it to the Manu Flood story, but this is unlikely, given the original Manu flood is stated to have started the golden age.
-
-*"It relates to the history the Sarasvatī, which is a river par excellence in the Ṛigveda. She has been eulogized as the best of mothers (ambitame), the best of rivers (nadītame) and the best of goddesses (devitame) [RV 2.41.16]. She originated in the mountains and went all the way down to the sea (yatī giribhya ā samudrāt) [RV 7.95.2]. She was so powerful that she shattered the mountain peaks with her fast and powerful waves (iyam śuṣmebhir bisakhā ivārujat sānu girīṇām taviṣebhirūrmibhiḥ) [RV 6.61.2]."*
-
-Paper in `hard-copies`:
-
 ## Sinking of Kandam Kumari (Multiple occurrences)
 
 *"Half of the land mass Kumari Kandam, which was south of India, sank in a great flood, destroying the first Tamil Sangam (literary academy). The people moved to the other half and established the second Tamil Sangam there, but the rest of Kumari too sank beneath the sea. The lone survivor was a Tamil prince named Thirumaaran, who managed to rescue some Tamil literary classics and swim with them to present-day Tamil Nadu."* [1]

@@ -17,7 +17,26 @@ https://sketchfab.com/3d-models/6000-years-old-egg-depicts-the-pyramids-and-nile
 
 Several ancient calendars used an year of six months, however. See `FOUNDATION-THEORY/ecdo-frequency/date-anomalies`.
 
+## Knowth Calendar Stones [3,4]
+
+Could there be a reference to the IV-V planetary harmonic wrapped up in here? I've speculated a possible timeline of events using the 6-volved spiral as the template.
+
+![](img/knowth1.jpg)
+
+Knowth has another calendar stone (this is is actually known as that).
+
+![](img/knowth2.jpg)
+
+Adding some detail and visual aids.
+
+![](img/knowth3.jpg)
+![](img/knowth4.jpg)
+
+They appear in various numbers of turns in many neolithic sites. The number of turns varies, but at Knowth, they mostly seem to favour six turns.
+
 ## Citations
 
 1. https://x.com/EthicalSkeptic/status/1832538729275117895?s=19
 2. https://x.com/ethicalskeptic/status/1833646432189919326?s=46
+3. https://mythicalireland.com/blogs/ancient-sites/knowth-the-calendar-stone
+4. [Craig Stone](https://nobulart.com)
