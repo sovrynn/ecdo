@@ -1,6 +1,22 @@
 # Noahs Flood (Book of Genesis)
 
-Biblical chronology seems to squarely place Noah's flood in the timeframe of about 2500 - 2300 BC based on Biblical chronology, and Exodus about 900 to 1000 years later.
+Biblical chronology seems to squarely place Noah's flood in the timeframe of about 3500 - 2300 BC based on Biblical chronology, and Exodus about 900 to 1100 years later.
+
+## Old Testament Dating: Hebrew Masoretic vs Greek Septuagint Dating Schemes [4]
+
+These two primary Old Testament dating timelines cover the period from Adam, through Noah, to Moses.
+
+Greek Septuagint:
+- Noah: 3789 - 2839 BC
+- Flood: 3189 BC
+- Moses: 1692 - 1572 BC
+- 1577 years between Flood and Exodus
+
+Hebrew Masoretic:
+- Noah: 3009 - 2059 BC
+- Flood: 2409 BC
+- Moses: 1692 - 1572 BC
+- 797 years between Flood and Exodus
 
 ## Basic Biblical Chronology: 2472, 2304 BC
 
