@@ -104,6 +104,7 @@ When Noah was 600 years old, on the seventeenth day of the second month, all the
 1. https://www.academia.edu/7883319/_Noahs_Flood_WTJ2004_1_
 2. https://www.biblicalchronologist.org/products/Noah%27s_Flood_Happened_3520_BC.PDF
 3. https://www.123helpme.com/essay/The-Yahwist-And-The-Flood-Of-The-4C0E4F9453D8E980
+4. https://bibletopicexpo.wordpress.com/2017/01/03/chronology-septuagint-versus-masoretic-text/
 
 # TODO
 
