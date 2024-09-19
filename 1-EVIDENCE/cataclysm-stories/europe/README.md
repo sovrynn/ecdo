@@ -50,6 +50,14 @@ https://en.wikipedia.org/wiki/Deucalion#Deluge_accounts
 
 Exodus is apparently dated to around 1500 - 1300 BC.
 
+#### Frazer (see LITERATURE) [10]
+
+"Still more precise is the statement of Julius Africanus, a Christian author who drew up a chronicle of the world from the Creation down to the year 221 A.D. He affirms that the deluge of Ogyges happened just one thousand and twenty years before the first Olympiad, from which the Greeks dated their exact reckoning; and as the first Olympiad fell in the year 776 B.C., we arrive at the year 1796 B.C. as the date to which the Christian chronicle referred the great Ogygian flood"
+
+"He adds for our further information that Ogyges, who survived the deluge to which he gave his name, was a contemporary of Moses and flourished about the time when that great prophet led the children of Israel out of Egypt".
+
+"According to the Church historian Eusebius, the great flood in the time of Ogyges occurred about two thousand two hundred years after the Noachian deluge and two hundred and fifty years before the similar catastrophe in the days of Deucalion."
+
 ### Dardanus, king of Arcadia, founder of Troy, 1519 BC
 
 "Dardanus, first king of Arcadia, was driven from his land by a great flood which submerged the lowlands, rendering them unfit for cultivation. The people retreated to the mountains, but they soon decided that the land left was not enough to support them all. Some stayed with Dimas, son of Dardanus, as their king; Dardanus led the rest to the island of Samothrace." [3]
@@ -77,3 +85,4 @@ From what I have surmised through these years, there are 3 main impacts that occ
 7. https://ancientgreecereloaded.com/files/ancient_greece_reloaded_website/mythology_in_a_nutshell/the_three_great_floods.php
 8. Dardanus: https://www.geni.com/people/Dardanus-king-of-Dardania/6000000006375582740
 9. Dardanus: https://www.genealogieonline.nl/en/stamboom-homs/I6000000006375582740.php
+10. Sir JAMES GEORGE FRAZER, FOLK-LORE IN THE OLD TESTAMENT (1919)
