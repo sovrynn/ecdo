@@ -70,11 +70,9 @@ From 4000 to 3000 BC, the picture is no different. Arslantepe, Beycesultan, and 
 
 There are then a number of cities in the Near East which together spanned the period from 5000 to 3000 BC with continuous occupation. In Mesopotamia itself, Eridu in the south was continuously occupied from around 5200 to 3400 BC, and Tepe Gawra in the north shows a nearly continuous cultural sequence from 5000 to 3100 BC. Nippur in south-central Mesopotamia was occupied from before 5000 until after 3000 BC. Armstrong thus says of ancient Mesopotamia: "We can say, however, that from Ubaid 0 [6200 BC] on, there is a demonstrable continuity of material culture, particularly evident in the architectural and ceramic remains, into historical times."
 
-## Time between Noah's flood and Exodus
+## ChatGPT: Generally Accepted Duration Between Noah's Flood and Moses' Exodus
 
 ChatGPT summarizes the time difference between Noah's Flood and Exodus as approximately 900 - 1100 years.
-
-ChatGPT: Generally Accepted Duration Between Noah's Flood and Moses' Exodus
 
 ### Traditional Ussher Chronology
 - **Noah’s Flood**: Approximately 2348 BC
