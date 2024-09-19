@@ -50,7 +50,9 @@ Hard copy in this folder.
 
 ## Paul H. Seely paper [1]: 3500 - 3000 BC
 
-Conclusion of the paper: Suggests 3500 BC - 3000 BC, with hard caps of 4000 BC to 2300 BC.
+Conclusion of the paper: Suggests 3500 BC - 3000 BC, with probable caps of 4000 BC to 2300 BC, and a limit of 5000 BC.
+
+"Thus, the probable use of copper (copper-alloy) tools to build the ark indicates that the earliest date for the Flood is c. 5000 B.C."
 
 Uses:
 - domesticated fruit tree mentions
