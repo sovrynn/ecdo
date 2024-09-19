@@ -42,7 +42,9 @@ Lat/long follows a Cartesian coordinate system. East is right on the x-axis, Nor
 
 ## Solar system
 
-Solar system simulator (goes to future): https://theskylive.com
+Solar system simulators:
+- Radially uniform orbits, changing dates only seems to work on mobile: https://www.theplanetstoday.com/
+- Real scale orbits: https://theskylive.com
 
 NASA solar system simulator: https://science.nasa.gov/eyes/
 
