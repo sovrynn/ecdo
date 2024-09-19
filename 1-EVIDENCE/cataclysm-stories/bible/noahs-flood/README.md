@@ -79,18 +79,12 @@ ChatGPT: Generally Accepted Duration Between Noah's Flood and Moses' Exodus
 ### Traditional Ussher Chronology
 - **Noah’s Flood**: Approximately 2348 BC
 - **Moses’ Exodus**: Approximately 1446 BC
-- **Time Difference**: 
-  \[
-  2348 \, \text{BC} - 1446 \, \text{BC} = 902 \, \text{years}
-  \]
+- **Time Difference**: 2348 - 1446 = 902 years
 
 ### Alternative Dating for the Exodus
 - **Noah’s Flood**: Approximately 2348 BC
 - **Moses’ Exodus**: Approximately 1250 BC (based on some archaeological interpretations)
-- **Time Difference**: 
-  \[
-  2348 \, \text{BC} - 1250 \, \text{BC} = 1098 \, \text{years}
-  \]
+- **Time Difference**: 2348 - 1250 = 1098 years
 
 ## Alternative date: Black Sea Filling - 5200 BC? [3]
 
