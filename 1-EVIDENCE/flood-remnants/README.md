@@ -2,11 +2,17 @@
 
 ## Black Sea Outflow
 
+### William Ryan
+
+Apparently the OG Black Sea deluge researcher. He has produced research from 1997 all the way up till very recently.
+
 William Ryan, Black Sea, 2001: https://sci-hub.ru/10.1016/s0025-3227(02)00340-7
 
 William Ryan, Black Sea, 2003: Catastrophic Flooding of the Black Sea (hard copy in this folder)
 
 "There is a compelling, but not irrefutable, possibility that the Black Sea experienced a catastrophic saltwater flood at 8.4 ky BP."
+
+### Other
 
 Bruckner, Black sea, 2009: https://sci-hub.ru/10.1016/j.quaint.2008.11.016 (hard copy in this folder)
 
@@ -23,5 +29,7 @@ https://youtube.com/watch?v=Hrxfq8V6itQ&si=wAszW-e3F2naUp5y
 1. https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis#cite_note-RyanOthers2003a-8
 
 # TODO
+
+William Ryan's more recent work
 
 Goldmine: https://www.iafi.org/was-j-harlan-bretz-near-your-house/
