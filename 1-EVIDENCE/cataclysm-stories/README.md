@@ -20,26 +20,30 @@ This folder is for myths, stories, and accounts of floods and cataclysms.
 
 ## Timeline of dateable myths
 
+400 BC: Alexander the Great Turkey deluge myth
+
 ~1700 BC event:
 - Greek flood (Deucalion, Ogyges, Dardanus): 1528 BC
 - Crete Minoan Civilization, Close of Middle Minoan II: 1700 BC
 - Mohenjo-Daro abandonment: 1700 BC
 - China Gun-Yu Flood, Korea Dangun: ~2000 BC
 - Peruvian Timeline: ~1800 BC "heavenly fire"
-- Ancient Egypt, Herodotus: 6000+ BC to 1290 BC, 2 flips
+- Biblical Exodus: 1800 - 1300 BC
+- Ancient Egypt, Herodotus: 6000+ BC to 1290 BC, 4 Sun changes (2 flips?)
 
 ~3000 BC event:
 - Eridu Genesis (Middle East): 3000 BCE
 - India, Sinking of Dwaraka: 3031 BC
 - Peruvian Timeline: 2900 BC Deluge
-- Biblical Noahic deluge: 3500 - 3000 BC
-- Ancient Egypt: 6000+ BC to 1290 BC, 2 flips
+- Biblical Noahic deluge: 3500 - 2500 BC
+- Ancient Egypt, Herodotus: 6000+ BC to 1290 BC, 4 Sun changes (2 flips?)
 
 Between 6000+ BC and 3000 BC:
-- No flips (Herodotus account)
+- No flips? (Herodotus account)
 
 Between 9600 BC and 6000+ BC:
 - 1-2 floods: "third great flood before Deucalion", Plato
+- 6200 - 5500 BC: Black Sea deluge
 - 7400 BC: Tollmann event
 
 9600 BC event:

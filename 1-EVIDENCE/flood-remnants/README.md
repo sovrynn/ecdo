@@ -18,6 +18,10 @@ Bruckner, Black sea, 2009: https://sci-hub.ru/10.1016/j.quaint.2008.11.016 (hard
 
 Marmara Sea, 8000 YBP (citations 16, 17, 18) [1]
 
+## Sumer flood 3500 - 2600 BC
+
+https://www.cambridge.org/core/journals/iraq/article/abs/physical-evidence-for-noahs-flood/226A2701813C09C5CD25BCA17C8E5074
+
 ## 6 forests stacked vertically
 
 In coal mines of Illinois, Indiana, and Kentucky, there are massive fossil forests stacked on top of each other.
