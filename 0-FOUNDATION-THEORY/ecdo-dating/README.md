@@ -2,7 +2,7 @@
 
 There is a wide breadth of literature and research on cataclysm events, which compiles evidence from mythical cataclysm accounts, archaelogical and sediment flood remnant dating, biological traces such as extinctions or migrations, climate changes, or historical chronologoies. After perusing these, I think the correct approach is to assume that many of these cataclysms are not caused by ECDO events. For examples, comet impacts, earthquakes, tsunamis, volcanoes, and solar activity variation can all cause cataclysms on their own.
 
-With that being said, dating past ECDO events requires a calculated meshing of evidence.
+Therefore, dating past ECDO events requires a calculated meshing of evidence.
 
 ## The different categories of evidence
 

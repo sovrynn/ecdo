@@ -28,6 +28,6 @@ According to the P tradition, the ark was 300 × 300 × 30 cubits and consisted 
 
 We had already found, from geological and magnetostratigraphical evidence, that there have been at least two cometary impacts within the last 10,000 years. The first major impact had caused world-wide tidal waves and swamped the British Isles in 7640 BC. But we had also found evidence of a smaller impact (discussed in Chapter Three), confirmed during a conversation with Professor Liritzis of Rhodes University, which was localized to the Mediterranean region around 3150 BC.
 
-(I Found a paper of Liritzis, which is in his LITERATURE folder, but no specific mention of a 3150 BC Mediterranean comet impact).
+(I found a paper of Liritzis, which is in his LITERATURE folder, but no specific mention of a 3150 BC Mediterranean comet impact).
 
 Robert’s reply was slow and deliberate. ‘The calibration graph generally shows the very smooth wobble which is to be expected from the precession of the magnetic generator. However, in the last 10,000 years there have been two exceptions when the direction of the magnetic field has changed abruptly and in a manner which suggests an outside impulse. There is a clear perturbation at around 3150 BC, which probably means a cometary impact, but there is a significantly larger one around 7000 BC.
