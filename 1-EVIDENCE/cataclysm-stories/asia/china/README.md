@@ -1,10 +1,12 @@
 # China
 
-## Chinese Nuwa Gong Gong Inundation Myth
+## Chinese Nuwa Gong Gong Inundation Myth (2810 BC?)
 
 There is a Chinese inundation myth which matches China's expected rotation from S1 to S2.
 
 *"When the water god Gong Gong saw that he was losing, he smashed his head against Mount Buzhou, a pillar holding up the sky. The pillar collapsed and caused the sky to tilt towards the northwest and the earth to shift to the southeast."* [4]
+
+"It is of some interest to note that Chinese myths indicate that the Flood event occurred at the end of the life of Nu Wa, consort of first Chinese emperor Fsu Hsi (2953 - 2838 BC according to standard chronologies), and who herself allegedly lived until about the year 2810 BC." - Bruce Masse
 
 ## Great Flood (2300 - 1920 BCE)
 
@@ -12,7 +14,7 @@ Not so much a myth as an account, it lines up with Korea's founding myth, that o
 
 *"The Great Flood of Gun-Yu, also known as the Gun-Yu myth, was a major flood in ancient China that allegedly continued for at least two generations, which resulted in great population displacements among other disasters, such as storms and famine. People left their homes to live on the high hills and mountains, or nest on the trees. According to mythological and historical sources, it is traditionally dated to the third millennium BCE, or about 2300–2200 BCE, during the reign of Emperor Yao."* [1]
 
-![gun yu flood map](img/gun-yu-floodmap.png "gun yu flood map")
+![](img/gun-yu-floodmap.png)
 
 The flood level depicted is approximately 65m in modern-day China.
 
