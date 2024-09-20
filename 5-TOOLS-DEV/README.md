@@ -80,3 +80,7 @@ SearXNG metasearch: https://searx.nobulart.com
 ## Misc
 
 Youtube video download: [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
+# TODO
+
+There's some Google :index search trick I can't seem to find
