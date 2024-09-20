@@ -1,5 +1,7 @@
 # Tollmann
 
+Author of the Tollmann bolide hypothesis - comet impact around 7400 BC.
+
 The youngest big impact on Earth deduced from geological and historical evidence
 
 https://en.wikipedia.org/wiki/Tollmann%27s_bolide_hypothesis#cite_note-Kristan-Tollmann_Tollman_1994-1

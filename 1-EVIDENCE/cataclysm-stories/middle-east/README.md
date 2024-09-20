@@ -20,6 +20,8 @@ Women's marriage age defines the age of generations. 341 generations of men, at 
 
 Then, from the period of 6000 BC to 1290 BC, there were two flips. Which aligns with a Noahic deluge and the 1750 BC events timeline.
 
+Nice place to see the full account: http://losttrails.com/pages/Tales/Inquiries/Herodotus_13.html
+
 ## Mohenjo-Daro, Pakistan, abandoned 1700 BC - Fire & Water [3]
 
 "Built c. 2500 BCE, it was the largest settlement of the ancient Indus Valley Civilization, and one of the world's earliest major cities, contemporaneous with the civilizations of ancient Egypt, Mesopotamia, Minoan Crete, and Norte Chico. With an estimated population of at least 40,000 people, Mohenjo-daro prospered for several centuries, but by c. 1700 BCE had been abandoned, along with other large cities of the Indus Valley Civilization. The city also had large platforms perhaps intended as defense against flooding. According to a theory first advanced by Wheeler, the city could have been flooded and silted over, perhaps six times, and later rebuilt in the same location. For some archaeologists, it was believed that a final flood that helped engulf the city in a sea of mud brought about the abandonment of the site." [1] (continued in the comments...)

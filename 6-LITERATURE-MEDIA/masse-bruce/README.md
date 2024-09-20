@@ -1,10 +1,10 @@
 # Bruce Masse
 
-Comet impact around 2807 BCE.
+Quoted in the Wikipedia great flood myths page wrt comet impact around 2807 BCE.
 
-Hard copy of his work in this folder.
+Hard copy of his work in this folder. Unfortunately you can't copy text from this file format.
 
-Unfortunately you can't copy text from this.
+# Quotes
 
 Page 5: Using the Velikovskian-like near-Earth approach of an object larger than the Moon, Patten modeled the effects of this hypothesized object as creating the Biblical Great Flood at around 2800 BC. Pellegrino, likewise, focuses attention on the 2800 BC date for the Biblical Flood, although he views it as a regional rather than a global catastrophe.
 

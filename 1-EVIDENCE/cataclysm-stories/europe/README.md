@@ -86,3 +86,7 @@ From what I have surmised through these years, there are 3 main impacts that occ
 8. Dardanus: https://www.geni.com/people/Dardanus-king-of-Dardania/6000000006375582740
 9. Dardanus: https://www.genealogieonline.nl/en/stamboom-homs/I6000000006375582740.php
 10. Sir JAMES GEORGE FRAZER, FOLK-LORE IN THE OLD TESTAMENT (1919)
+
+# TODO
+
+Extreme physical phenomena during the Trojan War: https://www.maajournal.com/index.php/maa/article/view/541

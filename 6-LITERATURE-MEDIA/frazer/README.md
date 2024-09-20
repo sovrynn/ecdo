@@ -1,8 +1,9 @@
 # Sir JAMES GEORGE FRAZER
 
-FOLK-LORE IN THE OLD TESTAMENT (1919)
+He is quoted in the TalkOrigins flood myth compilation.
 
-pdf page 19 flood TOC
+FOLK-LORE IN THE OLD TESTAMENT (1919)
+- pdf page 19 flood TOC
 
 ## Asian areas that do and don't have flood myths [332]
 

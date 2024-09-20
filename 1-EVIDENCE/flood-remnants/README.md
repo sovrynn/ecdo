@@ -1,6 +1,10 @@
 # Flood Remnants
 
-## Black Sea Outflow
+## Comet event 3100-3000 BC?
+
+https://x.com/GemsOfINDOLOGY/status/1594307136905162753
+
+## Black Sea Outflow, 6200 BC - 5500 BC
 
 ### William Ryan
 

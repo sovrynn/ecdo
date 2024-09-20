@@ -1,5 +1,6 @@
 # Earth's Long-term History
 
+- Laschamp event [6]
 - Last glacial maximum [3]
 - Bolling Allerod Interstadial [2]
 - Younger Dryas Impact, Younger Dryas [1]
@@ -13,3 +14,4 @@
 3. https://en.wikipedia.org/wiki/Last_Glacial_Maximum
 4. https://en.wikipedia.org/wiki/Tollmann%27s_bolide_hypothesis#cite_note-Kristan-Tollmann_Tollman_1994-1
 5. https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis
+6. https://en.wikipedia.org/wiki/Laschamp_event

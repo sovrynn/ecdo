@@ -16,10 +16,18 @@ According to the P tradition, the ark was 300 × 300 × 30 cubits and consisted 
 
 ### Flood mapping - carried to specific mountains
 
-Greek flood myth of Deucalion mentions specific mountains.
+Note: Greek flood myth of Deucalion also mentions specific mountains, as does Korea's Dangun myth.
 
 The Indians of Oregon tell a story that the survivors of the Flood, surviving in a boat, came to rest on top of Mount Jefferson – the state’s second highest peak. They believe that all of their tribe alive today descend from these survivors.
 
 In northern California, there is an old tradition telling of animals that were chased by the rising waters to the very top of Mount Shasta which stands at 14,162 feet (over 2.5 miles) above sea level. It says these animals are the ancestors of all animals in the world.
 
 According to the P tradition, the ark was 300 × 300 × 30 cubits and consisted of three storeys; it also states that the landing point of the ark after the waters subsided was Mount Ararat, in Urartu, which is now known as Armenia. This extremely mountainous country, to the east of Turkey, has an average elevation of nearly 1800 metres and Mount Ararat is, at its highest point, more than four kilometres above sea level.
+
+### 3150 BC Mediterranean Comet?
+
+We had already found, from geological and magnetostratigraphical evidence, that there have been at least two cometary impacts within the last 10,000 years. The first major impact had caused world-wide tidal waves and swamped the British Isles in 7640 BC. But we had also found evidence of a smaller impact (discussed in Chapter Three), confirmed during a conversation with Professor Liritzis of Rhodes University, which was localized to the Mediterranean region around 3150 BC.
+
+(I Found a paper of Liritzis, which is in his LITERATURE folder, but no specific mention of a 3150 BC Mediterranean comet impact).
+
+Robert’s reply was slow and deliberate. ‘The calibration graph generally shows the very smooth wobble which is to be expected from the precession of the magnetic generator. However, in the last 10,000 years there have been two exceptions when the direction of the magnetic field has changed abruptly and in a manner which suggests an outside impulse. There is a clear perturbation at around 3150 BC, which probably means a cometary impact, but there is a significantly larger one around 7000 BC.
