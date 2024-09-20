@@ -9,7 +9,7 @@ Therefore, dating past ECDO events requires a calculated meshing of evidence.
 The following can undeniably be used as evidence for an ECDO rotation event:
 - specific accounts of the Sun's trajectory changing direction
 - geomagnetic excursions recorded in paleomagnetic data
-- temporary prolonged inundation such as that evidenced by the Khufu pyramid erosion lines, or sinking of large areas of land
+- temporary prolonged inundation such as that evidenced by the Khufu pyramid erosion lines, or tangentially, "sinking" of large areas of land
 - human mitigatory measures such as the Khufu observatory
 
 The following will always occur during an ECDO event and is strong evidence of one:
