@@ -16,7 +16,7 @@ Alternate hypothesis:
 - every 1800 years
 - non-linear timeline
 
-## Hypothesis 2: ~6000 years
+## Hypothesis 1: ~6000 years
 
 *"Thus in the period of eleven thousand three hundred and forty years they said that there had arisen no god in human form; nor even before that time or afterwards among the remaining kings who arose in Egypt, did they report that anything of that kind had come to pass. In this time they said that the sun had moved four times from his accustomed place of rising, and where he now sets he had thence twice had his rising, and in the place from whence he now rises he had twice had his setting;[127] and in the meantime nothing in Egypt had been changed from its usual state, neither that which comes from the earth nor that which comes to them from the river nor that which concerns diseases or deaths."* [2]
 
