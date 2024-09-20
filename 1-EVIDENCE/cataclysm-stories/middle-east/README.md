@@ -12,6 +12,10 @@ After him there came to the throne the priest of Hephaistos, whose name was Seth
 
 Sethos ruled from 1290 - 1279 BC.
 
+Nice place to see the full account: http://losttrails.com/pages/Tales/Inquiries/Herodotus_13.html
+
+### Could this be shorter than 3 generations per 100 years?
+
 341 generations of men, 30 years per generation? It could be less.
 
 "Generally, Ancient Egyptians have married inside their social classes. The man was usually married between the ages of 16 and 20, or as soon as he chooses potential craft with the aim to earn money for his family. Women usually married at the age of about 13 years, or immediately after the puberty." [6]
@@ -20,7 +24,11 @@ Women's marriage age defines the age of generations. 341 generations of men, at 
 
 Then, from the period of 6000 BC to 1290 BC, there were two flips. Which aligns with a Noahic deluge and the 1750 BC events timeline.
 
-Nice place to see the full account: http://losttrails.com/pages/Tales/Inquiries/Herodotus_13.html
+### Could this be longer than 3 generations per 100 years?
+
+What if those ancient accounts of Noah living 600 years, or the Sumerian King List of kings living ridiculous amounts of time, are exxagerations on a reality that humans lived longer in the past?
+
+What if this timeline is, say, double the length? 60 years per generation of man, on average? And the flips are once every 12k years?
 
 ## Mohenjo-Daro, Pakistan, abandoned 1700 BC - Fire & Water [3]
 
