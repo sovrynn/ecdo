@@ -15,7 +15,7 @@ The following can undeniably be used as evidence for an ECDO rotation event:
 The following will always occur during an ECDO event and is strong evidence of one:
 - global floods, evidenced by flood remnants or flood accounts, from multiple areas of the world at the same time
 
-The following will always occur during an ECDO event, but may also occur due to other reasons:
+The following will always/often occur during an ECDO event, but may also occur due to other reasons:
 - global extinctions
 - intense solar energy reaching the Earth
 - earthquakes and volcanic eruptions
