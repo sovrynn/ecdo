@@ -31,7 +31,7 @@ The return to S1 would require some kind of reversal of this process, the specif
 
 ## Ice Accumulation unevenly on South Pole [2]
 
-What if the rotational instability is caused by uneven accumulation of ice mass around the rotational axis? My only gripe with this is that the mass of the ice cores relative to the mantle is **extremely** small. Also, the glaciers are supposed to be melting, although this does seem to be more extreme for equatorial high-altitude glaciers.
+What if the rotational instability is caused by uneven accumulation of ice mass around the rotational axis? My only gripe with this is that the mass of the ice cores relative to the mantle is **extremely** small. The glaciers are also supposed to be melting, although mainly at equatorial high-altitude glaciers.
 
 ### Nobulart quotes
 
