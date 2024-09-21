@@ -61,6 +61,8 @@ Site to look at discovered planetary formation instead of having to plug it into
 
 ## Paleomagnetic data
 
+Past 50k years: https://geomagia.gfz-potsdam.de/
+
 http://gpmdb.net/
 
 ## Fluid dynamics simulation
