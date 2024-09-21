@@ -102,7 +102,7 @@ grep -nr "WORD" --include="*.md" .
 To search for a specific filename pattern, use:
 
 ```
-find . -name [pattern]
+find . -name "[pattern]"
 ```
 
 ## TODO sections

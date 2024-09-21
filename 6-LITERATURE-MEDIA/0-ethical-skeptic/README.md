@@ -2,7 +2,7 @@
 
 Ethical Skeptic is the author of the [original ECDO thesis](https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/).
 
-![ecdo](img/ecdo.webp "ecdo")
+![](img/ecdo.webp)
 
 Notably, he breaks his thesis down into 3 parts:
 - The Earth's warming being caused by the core exerting heat into the mantle
@@ -26,10 +26,13 @@ I consider recreating his proofs to be of the highest priority. That work belong
 
 ## Contents
 
-- `hard-copies`: Hard copies of Ethical Skeptic's theses.
 - `theory-part-[1-3]`: My personal quote compilations and short summaries of Ethical Skeptic's theses.
 
-# Master ECDO overview verbatim: Master Exothermic Core-Mantle Decoupling – Dzhanibekov Oscillation (ECDO) Theory
+## Citations
+
+1. https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/
+
+# Master Exothermic Core-Mantle Decoupling – Dzhanibekov Oscillation (ECDO) Theory [1]
 
 *Posted on May 23, 2024 by The Ethical Skeptic*
 

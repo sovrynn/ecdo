@@ -27,6 +27,7 @@ The observations are as follows, from weakest to strongest:
 4. Mean sea level is rising, but sea variange range is also increasing, seemingly caused by global ocean current speed increase, which is not plausibly caused by changes in the atmosphere wind speed
 5. (VERY IMPORTANT) Earth's magnetic field ranged high, indicating a weakening in the Earth's magnetic moment generated from its core. This matches in time with the recent global temperature increases
 6. Earth's rotational measures' alignment with global temperatures diverged in 1930, sea temperature increases coincide with speeding up of the outer rotational body.
+	- TES clearly states in his thesis that as the core expels mass into the mantle, the rotation of the mantle would slow down, while the rotation of the core would speed up.
 7. There was a heat plume in 2023 which could not be explained by the atmosphere or man.
 8. Earthquake and volcano activity have been increasing as well along with temperature and CO2
 9. Heat anomalies have a physical pattern on the Earth's continents
