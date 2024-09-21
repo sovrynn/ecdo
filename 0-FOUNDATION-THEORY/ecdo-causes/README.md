@@ -1,6 +1,6 @@
 # Cause(s) of the ECDO
 
-## TES - Exothermic and Endothermic Core Cycle [1]
+## Exothermic and Endothermic Core Cycle [1]
 
 TES's basic ECDO timeline is as follows:
 
@@ -11,15 +11,25 @@ TES's basic ECDO timeline is as follows:
 
 ![](../../6-LITERATURE-MEDIA/0-ethical-skeptic/img/ecdo.webp)
 
-## Nobulart - Electromagnetic Solar/Planetary Perturbation [2]
+## Exothermic core instabilities caused by equatorial high rotational speed?
 
-Nobulart proposes that electromagnetic perturbations inside the Earth are caused by solar and planetary interactions, which I imagine as a form of electromagnetic induction caused by traversing changing magnetic fields.
+"Detailed observations of sunspots have been obtained by the Royal Greenwich Observatory since 1874. These observations include information on the sizes and positions of sunspots as well as their numbers. These data show that sunspots do not appear at random over the surface of the sun but are concentrated in two latitude bands on either side of the equator. A butterfly diagram (142 kb GIF image) (184 kb pdf-file) (updated monthly) showing the positions of the spots for each rotation of the sun since May 1874 shows that these bands first form at mid-latitudes, widen, and then move toward the equator as each cycle progresses." [2]
 
-*"Core-mantle coupling is considered to be a product of electromagnetic, viscous and topographic effects. My working theory is that the EM component is cyclically perturbed by interplanetary and solar interactions which cascade as heating and a lowering of viscosities"*.
+![](img/sunspot-butterfly.gif)
 
-![](img/2030-triggers.jpg)
+Does this happen for the same reason that the LLVPs seem to be centered around the equator?
 
-## Nobulart - Ice Accumulation on South Pole [2]
+![](img/llvp-viz.webp)
+
+Note this visualization of equatorial cross-sectional heat flows from the core through the mantle. This slice of the core will be spining the fastest.
+
+![](img/mantle-flows.gif)
+
+The basic idea is that higher rotational speed around the equator causes instability in the core around the equator, leading to the phase change TES talks about, and mass/heat being expelled unevenly from the core into the mantle, creating areas of higher and lower density (LLVPs). This causes a weakening of magnetic alignment in the mantle, due to higher temperatures, eventually leading to decoupling, which culminates in a mediated gyroscopic rotation of the mantle, which has developed a third principal axis of rotation through the LLVPs.
+
+The return to S1 would require some kind of reversal of this process, the specifics of which I haven't thought out yet.
+
+## Ice Accumulation unevenly on South Pole [2]
 
 What if the rotational instability is caused by uneven accumulation of ice mass around the rotational axis? My only gripe with this is that the mass of the ice cores relative to the mantle is **extremely** small.
 
@@ -35,19 +45,13 @@ I think the "natural" axis of rotation of the mantle and crust (with less, or ma
 
 30 million gigatonnes of ice in play in the Antarctic. No one knows what the LLSVP's are, nor their mass. There isn't even agreement on whether they're more or less dense than the surrounding material.
 
-## LLVPs caused by equatorial high rotational speed?
+## Nobulart - Electromagnetic Solar/Planetary Perturbation [2]
 
-"Detailed observations of sunspots have been obtained by the Royal Greenwich Observatory since 1874. These observations include information on the sizes and positions of sunspots as well as their numbers. These data show that sunspots do not appear at random over the surface of the sun but are concentrated in two latitude bands on either side of the equator. A butterfly diagram (142 kb GIF image) (184 kb pdf-file) (updated monthly) showing the positions of the spots for each rotation of the sun since May 1874 shows that these bands first form at mid-latitudes, widen, and then move toward the equator as each cycle progresses." [2]
+Nobulart proposes that electromagnetic perturbations inside the Earth are caused by solar and planetary interactions, which I imagine as a form of electromagnetic induction caused by traversing changing magnetic fields.
 
-![](img/sunspot-butterfly.gif)
+*"Core-mantle coupling is considered to be a product of electromagnetic, viscous and topographic effects. My working theory is that the EM component is cyclically perturbed by interplanetary and solar interactions which cascade as heating and a lowering of viscosities"*.
 
-Does this happen for the same reason that the LLVPs seem to be centered around the equator?
-
-![](img/llvp-viz.webp)
-
-The basic idea is that higher rotational speed around the equator causes instability in the core around the equator, leading to the phase change TES talks about, and mass/heat being expelled unevenly from the core into the mantle, creating areas of higher and lower density (LLVPs). This causes a weakening of magnetic alignment in the mantle, due to higher temperatures, eventually leading to decoupling, which culminates in a mediated gyroscopic rotation of the mantle, which has developed a third principal axis of rotation through the LLVPs.
-
-The return to S1 would require some kind of reversal of this process, the specifics of which I haven't thought out yet.
+![](img/2030-triggers.jpg)
 
 ## Neutrinos - exothermic core instigator?
 
