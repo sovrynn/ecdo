@@ -59,6 +59,12 @@ EUHFORIA Model
 
 Site to look at discovered planetary formation instead of having to plug it into a stellar calendar: https://starwalk.space/en/news/what-is-planet-parade#when-will-5-to-7-planets-align-in-the-sky
 
+## Paleomagnetic data
+
+Past 50k years: https://geomagia.gfz-potsdam.de/
+
+http://gpmdb.net/
+
 ## Fluid dynamics simulation
 
 - [OpenFOAM](https://www.openfoam.com/), open source

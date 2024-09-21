@@ -9,17 +9,18 @@ Therefore, dating past ECDO events requires a calculated meshing of evidence.
 The following can undeniably be used as evidence for an ECDO rotation event:
 - specific accounts of the Sun's trajectory changing direction
 - geomagnetic excursions recorded in paleomagnetic data
-- temporary prolonged inundation such as that evidenced by the Khufu pyramid erosion lines, or sinking of large areas of land
+- temporary prolonged inundation such as that evidenced by the Khufu pyramid erosion lines, or tangentially, "sinking" of large areas of land
 - human mitigatory measures such as the Khufu observatory
 
 The following will always occur during an ECDO event and is strong evidence of one:
 - global floods, evidenced by flood remnants or flood accounts, from multiple areas of the world at the same time
 
-The following will always occur during an ECDO event, but may also occur due to other reasons:
+The following will always/often occur during an ECDO event, but may also occur due to other reasons:
 - global extinctions
 - intense solar energy reaching the Earth
 - earthquakes and volcanic eruptions
 - climate change
+- tsunamis
 
 The major kind of event that could cause synonymous effects to an ECDO is cosmic impact events such as comet strikes.
 
