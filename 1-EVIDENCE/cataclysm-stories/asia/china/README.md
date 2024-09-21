@@ -1,5 +1,7 @@
 # China
 
+Aside from the Herodotus account, I take China's flood myths to be the most meaningful because they specifically reference the Sun changing its trajectory, and temporary prolonged flooding, which are two surefire markers of our current model of the ECDO.
+
 ## Chinese Nuwa Gong Gong Inundation Myth (2810 BC?)
 
 There is a Chinese inundation myth which matches China's expected rotation from S1 to S2.
@@ -10,7 +12,7 @@ There is a Chinese inundation myth which matches China's expected rotation from 
 
 ## Great Flood (2300 - 1920 BCE)
 
-Not so much a myth as an account, it lines up with Korea's founding myth, that of Dangun.
+Not so much a myth as an account, it lines up with Korea's founding myth, that of Dangun. The best account of this I've found is in WIC by Velikovsky.
 
 *"The Great Flood of Gun-Yu, also known as the Gun-Yu myth, was a major flood in ancient China that allegedly continued for at least two generations, which resulted in great population displacements among other disasters, such as storms and famine. People left their homes to live on the high hills and mountains, or nest on the trees. According to mythological and historical sources, it is traditionally dated to the third millennium BCE, or about 2300–2200 BCE, during the reign of Emperor Yao."* [1]
 
@@ -22,7 +24,13 @@ Velikovsky's Worlds in Collision (`LITERATURE-MEDIA/velikovsky`), Chapter 4 page
 
 *“At that time the miracle is said to have happened that the sun during a span of ten days did not set, the forests were ignited, and a multitude of abominable vermin was brought forth.” 2 “In the life-time of Yao [Yahou] the sun did not set for ten full days and the entire land was flooded.” An immense wave “that reached the sky” fell down on the land of China. “The water was well up on the high mountains, and the foot-hills could not be seen at all.”* [Velikovsky Page 101]
 
-On the dating of this event, Velikovsky has this to say: *"Calculations were undertaken to establish the dates of the Emperor Yahou. On the basis of a remark that the constellation Niao, thought to be the constellation Hydra, culminated at sunset on the day of the vernal equinox in the time of Yahou, it was reckoned that the flood occurred in the twenty-third century before the present era, but this date has been questioned by many."* [Velikovsky Page 103]
+### Sun changing trajectory? (Velikovsky)
+
+"Thereupon Yaou [Yahou] commanded He and Ho, in accordance with the wide heavens, to calculate and movements and appearances of the sun, the moon, the reverent delineate the stars, and the zodiacal spaces; and to deliver respectfully the seasons to the people." The necessity, soon after the flood, of finding anew the four direc- tions and learning anew the movements of the sun and the moon, of delineating the zodiacal signs, of compiling the calendar, of inform- ing the population of China of the sequence of the seasons, creates the impression that during the catastrophe the orbit of the earth and the year, the inclination of the axis and the seasons, the orbit of the moon and the month, changed. We are not told what caused the cataclysm, but it is written in ancient annals that during the reign of Yahou “a brilliant star issued from the constellation Yin.”
+
+### Dating the event: Contemporary to Ogyges? (Velikovsky)
+
+On the dating of this event, Velikovsky has this to say: *"Calculations were undertaken to establish the dates of the Emperor Yahou. On the basis of a remark that the constellation Niao, thought to be the constellation Hydra, culminated at sunset on the day of the vernal equinox in the time of Yahou, it was reckoned that the flood occurred in the twenty-third century before the present era, but this date has been questioned by many.. The flood of Yahou is sometimes regarded as simultaneous with the flood of Ogyges.."* [Velikovsky Page 103]
 
 ### 10 Days of the sun not setting
 

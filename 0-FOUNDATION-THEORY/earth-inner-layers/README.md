@@ -4,6 +4,8 @@ The Earth's inner layers are at the centerpoint of the ECDO theory - not only do
 
 ## ECDO: Exothermic Core, SAC LLVP
 
+TES is very specific on the mechanics of the exothermic core:
+
 *"The Earth’s core undergoes extreme exothermic change – sloughing high-latent-energy hexagonal closepack (HCP) iron from its H-layer and into the outer core where it converts to liquid face centered cubic (FCC/BCC) iron plus kinetic energy (latent heat of phase transition). Core magnetic permeability weakens and its geomagnetic dipole wanders. Earth’s rotation speeds up on a decadal basis from the loss in magnetic coupling from outer core to mantle. Earth’s rotational axial inclination also changes."* [3]
 
 ![](img/tes.webp)

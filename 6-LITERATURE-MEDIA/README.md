@@ -6,6 +6,15 @@ A centralized location for literature (books, research papers) and media related
 
 Morner, Martineau, Landscheidt, Velikovsky, Cuvier, Uriel
 
+Best cataclysm compilations:
+- Velikovsky WIC
+- Compton compiled the best ~3100 BC cataclysm justification I have seen thus far
+- Frazer
+- Bruce Masse
+
+Haven't read yet:
+- Cuvier
+
 ## Resources
 
 https://www1.ncdc.noaa.gov/pub/data/

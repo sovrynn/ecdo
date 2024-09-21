@@ -5,7 +5,7 @@ This folder is for myths, stories, and accounts of floods and cataclysms.
 ## Sources
 
 - Massive flood myth compilation: https://talkorigins.org/faqs/flood-myths.html (Hard copy in `hard-copies`)
-- Earth in Upheaval, Worlds in Collision, by Velikovsky
+- Worlds in Collision, by Velikovsky
 - The Bible
 - Allan and Dellair's Cataclysm: https://archive.org/details/cataclysmcompell00alla
 - Literature (see `LITERATURE`):
