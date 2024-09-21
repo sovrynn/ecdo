@@ -15,11 +15,11 @@ TES's basic ECDO timeline is as follows:
 
 "Detailed observations of sunspots have been obtained by the Royal Greenwich Observatory since 1874. These observations include information on the sizes and positions of sunspots as well as their numbers. These data show that sunspots do not appear at random over the surface of the sun but are concentrated in two latitude bands on either side of the equator. A butterfly diagram (142 kb GIF image) (184 kb pdf-file) (updated monthly) showing the positions of the spots for each rotation of the sun since May 1874 shows that these bands first form at mid-latitudes, widen, and then move toward the equator as each cycle progresses." [2]
 
-![](img/sunspot-butterfly.gif)
+![](../solar-system/img/sunspot-butterfly.gif)
 
 Does this happen for the same reason that the LLVPs seem to be centered around the equator?
 
-![](img/llvp-viz.webp)
+![](../solar-system/img/llvp-viz.webp)
 
 Note this visualization of equatorial cross-sectional heat flows from the core through the mantle. This slice of the core will be spining the fastest.
 
