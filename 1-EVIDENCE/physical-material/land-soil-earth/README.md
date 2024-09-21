@@ -28,6 +28,24 @@ Coloured elements are my own additions. Blue and red indicate selected reversal 
 
 https://x.com/nobulart/status/1816565694244192663
 
+## Levantine Iron Age Anomaly (LIAA)
+
+Levantine Iron Age anomaly
+- https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL071494
+- https://www.researchgate.net/publication/314070285_Further_evidence_of_the_Levantine_Iron_Age_geomagnetic_anomaly_from_Georgian_pottery_High_geomagnetic_field_in_Georgia_900BCE
+
+"Here we report archaeointensity data from Georgia showing high field values (VADM > 150 Z Am2) in the tenth or ninth century B.C.E., low field values (VADM < 60 Z Am2) in the twelfth century B.C.E., and fast field variation in the fifth and fourth centuries B.C.E. High field values in the time frame of LIAA have been observed so far only in three localities near the Levant: Eastern Anatolia, Turkmenistan, and now Georgia, all located east of longitude 30°E. West of this, in the Balkans, field values in the same time are moderate to low. These constraints put geographic limits on the extent of the LIAA and support the hypothesis of an unusually intense regional geomagnetic anomaly during the beginning of the first half of the first millennium B.C.E., comparable in area and magnitude (but of opposite sign) to the presently active South Atlantic anomaly."
+
+Six centuries of geomagnetic intensity variations recorded by royal Judean stamped jar handles https://www.pnas.org/doi/10.1073/pnas.1615797114
+
+"In addition, the study provides further evidence of extremely strong field in the late eighth century BCE (“geomagnetic spike”), and of rapid rates of change (>20% over three decades)."
+
+## South Atlantic Anomaly [3]
+
+The South Atlantic Anomaly (SAA) is an area where Earth's inner Van Allen radiation belt comes closest to Earth's surface, dipping down to an altitude of 200 kilometres (120 mi). This leads to an increased flux of energetic particles in this region and exposes orbiting satellites (including the ISS) to higher-than-usual levels of ionizing radiation.
+
+The effect is caused by the non-concentricity of Earth and its magnetic dipole and has been observed to be increasing in intensity recently.[quantify] The SAA is the near-Earth region where Earth's magnetic field is weakest relative to an idealized Earth-centered dipole field.
+
 ## Sediment data: 18.5k cycle (Milankovitch cycle) effects on climate
 
 ![18k viz](img/milankovitch-18k-cycle.jpg "18k viz")
@@ -63,6 +81,7 @@ https://www.opalsdownunder.com.au/learn/australian-opal-mining-fields/
 
 1. [Craig Stone](https://nobulart.com)
 2. https://hal.science/hal-03118231v1/file/2005GC001122.pdf
+3. https://en.wikipedia.org/wiki/South_Atlantic_Anomaly
 
 # TODO Chatgpt: Notable Geomagnetic Excursions in Recent History
 

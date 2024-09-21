@@ -44,7 +44,5 @@
 
 # TODO
 
-solar dynamo: https://solarscience.msfc.nasa.gov/dynamo.shtml
-
 - dynamo = commutator
 - Schumann resonances

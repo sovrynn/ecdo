@@ -1,6 +1,6 @@
 # Earth's Long-term History
 
-- Laschamp event [6]
+- Laschamp excursion [6]
 - Last glacial maximum [3]
 - Bolling Allerod Interstadial [2]
 - Younger Dryas Impact, Younger Dryas [1]

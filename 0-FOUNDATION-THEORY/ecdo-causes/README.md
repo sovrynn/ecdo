@@ -21,6 +21,10 @@ Nobulart proposes that electromagnetic perturbations inside the Earth are caused
 
 ## Nobulart - Ice Accumulation on South Pole [2]
 
+What if the rotational instability is caused by uneven accumulation of ice mass around the rotational axis? My only gripe with this is that the mass of the ice cores relative to the mantle is **extremely** small.
+
+### Nobulart quotes
+
 You don't think that that continuous accumulation of condensed polar ice might be sufficient to disrupt the regular equatorial center of mass established by the LLSVP's? 30 million gigatonnes of offcenter spinning mass must extert some centrifugal force, enough it seems to be affecting the Earth's axis of rotation directly.
 
 Antarctica’s mass has been seeing a net accumulation over thousands of years as indicated by core samples. If the ball is spinning then it seems pretty obvious that 14 million square km of 2km thick ice which is clearly off center must have some weight in the game. Other concerns would be accounting for the degree of erosion seen at Giza, Delos, Turkey and elsewhere around the Med if the inundations are only momentary. We’d need a lot of those to rack up 50 years worth of karst erosion. The account from Crete of two events a few decades apart. The theory wasn’t Einstein’s, but rather that of Laplace, Cuvier and Hapgood (Im not aware of Darwin suggesting this). If anything, Einstein was an interested detractor, saying he thought the ice mass was insufficient to break a crust/mantle coupling. Another thought is that the current destabilization appears to have begun at least 50 years ago - it take time for the flip to accumulate the angular momentum (seen in the TPW westerly drift) prior to the critical point when the decoupling occurs. It would seem to me that the same would be true of the reverse motion. Can these various factors be satisfactorily explained by a momentary reversal?
@@ -31,11 +35,25 @@ I think the "natural" axis of rotation of the mantle and crust (with less, or ma
 
 30 million gigatonnes of ice in play in the Antarctic. No one knows what the LLSVP's are, nor their mass. There isn't even agreement on whether they're more or less dense than the surrounding material.
 
-## Speculative exothermic core instigator
+## LLVPs caused by equatorial high rotational speed?
+
+"Detailed observations of sunspots have been obtained by the Royal Greenwich Observatory since 1874. These observations include information on the sizes and positions of sunspots as well as their numbers. These data show that sunspots do not appear at random over the surface of the sun but are concentrated in two latitude bands on either side of the equator. A butterfly diagram (142 kb GIF image) (184 kb pdf-file) (updated monthly) showing the positions of the spots for each rotation of the sun since May 1874 shows that these bands first form at mid-latitudes, widen, and then move toward the equator as each cycle progresses." [2]
+
+![](img/sunspot-butterfly.gif)
+
+Does this happen for the same reason that the LLVPs seem to be centered around the equator?
+
+![](img/llvp-viz.webp)
+
+The basic idea is that higher rotational speed around the equator causes instability in the core around the equator, leading to the phase change TES talks about, and mass/heat being expelled unevenly from the core into the mantle, creating areas of higher and lower density (LLVPs). This causes a weakening of magnetic alignment in the mantle, due to higher temperatures, eventually leading to decoupling, which culminates in a mediated gyroscopic rotation of the mantle, which has developed a third principal axis of rotation through the LLVPs.
+
+The return to S1 would require some kind of reversal of this process, the specifics of which I haven't thought out yet.
+
+## Neutrinos - exothermic core instigator?
 
 The phase state change of hexagonal close packed iron in the core into the mantle may be driven by solar proton storms (From CMEs) into the core via the poles by slamming positively charged protons into a solid mass of Fe+ causing mantle heating and density changes. As we see the magnetic field deteriorate are we seeing this process accelerate exponentially taking us to the TAU point TES describes? Are they trying to slow this down by seeding the atmosphere with negatively ions?
 
-![x](img/neutrino-storm.jpg "")
+![](img/neutrino-storm.jpg)
 
 A neutrino storm could significantly raise the number of interactions which occur internally. Each neutrino interaction is potentially a nuclear fission or fusion heating event.
 
