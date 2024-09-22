@@ -50,7 +50,7 @@ https://en.wikipedia.org/wiki/Deucalion#Deluge_accounts
 
 Exodus is apparently dated to around 1500 - 1300 BC.
 
-#### Frazer (see LITERATURE) [10]
+#### Ogyges vs Deucalion - Frazer (see LITERATURE) [10]
 
 "Still more precise is the statement of Julius Africanus, a Christian author who drew up a chronicle of the world from the Creation down to the year 221 A.D. He affirms that the deluge of Ogyges happened just one thousand and twenty years before the first Olympiad, from which the Greeks dated their exact reckoning; and as the first Olympiad fell in the year 776 B.C., we arrive at the year 1796 B.C. as the date to which the Christian chronicle referred the great Ogygian flood"
 

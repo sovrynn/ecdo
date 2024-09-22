@@ -20,10 +20,10 @@ This book is an absolute goldmine.
 Notable chapter contents:
 - p1 venus:
 	- ch 3: hurricanes
-	- ch 4:
+	- ch 4: volcanoes, earthquakes, yahou
 	- **ch 5: sun changing trajectory**
 	- ch 6: earth becoming dark
-	- **ch 7: comets, solar fire, floods**
+	- **ch 7: comets, solar fire, floods**, Deucalion and Ogyges
 	- ch 8: the 52 year period
 - p2 mars:
 	- ch 7:
@@ -32,6 +32,12 @@ Notable chapter contents:
 ### p1 ch 4:
 
 pg 100: emperor yahou account
+
+pg 103: "Thereupon Yaou [Yahou] commanded He and Ho, in accordance with the wide heavens, to calculate and movements and appearances of the sun, the moon, the reverent delineate the stars, and the zodiacal spaces; and to deliver respectfully the seasons to the people." The necessity, soon after the flood, of finding anew the four direc- tions and learning anew the movements of the sun and the moon, of delineating the zodiacal signs, of compiling the calendar, of inform- ing the population of China of the sequence of the seasons, creates the impression that during the catastrophe the orbit of the earth and the year, the inclination of the axis and the seasons, the orbit of the moon and the month, changed. We are not told what caused the cataclysm, but it is written in ancient annals that during the reign of Yahou “a brilliant star issued from the constellation Yin.”
+
+The flood of Yahou is sometimes regarded as simultaneous with the flood of Ogyges.
+
+In the section entitled “The Floods of Deucalion and Ogyges,” the synchronism of these devastations with the catastrophes of the days of Moses and Joshua will be demonstrated and supported by ancient and chrono- logical sources.
 
 ### p1 Chapter 5: Sun Changing Trajectory
 
@@ -60,9 +66,15 @@ it is told, has the fashion of a legend, but the truth of it lies in occurrence 
 
 147, a spot where Velikovsky seems incorrect: We do not know of any vestiges of human culture, aside from that of the Neolithic age, nor of any navigating nation, 9,000 years before Solon... hatever the source of the error, the most probable date of the sinking of Atlantis would be in the middle of the second millen- nium, 900 years before Solon,
 
-148: The history of Greece knows two great natural catastrophes: the floods of Deucalion and of Ogyges. One of them, usually that of Deucalion, is described by Greek authors as having been simultane- ous with the conflagration of Phaethon.
+148: The history of Greece knows two great natural catastrophes: the floods of Deucalion and of Ogyges. One of them, usually that of Deucalion, is described by Greek authors as having been simultane- ous with the conflagration of Phaethon. 
 
-Interesting theory about why Ogyges must have come after Deucalion.
+149: Eusebius placed the Flood of Deucalion and the conflagration of Phaethon in the fifty-second year of Moses’ life. Augustine also synchronizedtheFloodofDeucalionwiththetimeofMoses; he assumed that the Flood of Ogyges took place earlier.
+
+A chronologist of the seventh century (Isidore, bishop of Seville) dated the Flood of Deucalion in the time of Moses; chronologists of the seventeenth century likewise calculated that the Flood of Deu- calion took place in the time of Moses, close to but not simultaneous
+7
+with the Exodus.
+
+150: Interesting theory from Velikovsky about why Ogyges must have come after Deucalion. And that Ogyges occurred in the days of Joshua, around 1500 BC (I presume).
 
 ## References to wind in WIC
 

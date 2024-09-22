@@ -23,10 +23,11 @@ This folder is for myths, stories, and accounts of floods and cataclysms.
 400 BC: Alexander the Great Turkey deluge myth
 
 ~1700 BC event:
-- Greek flood (Deucalion, Ogyges, Dardanus): 1528 BC
+- Greek flood (Deucalion, Ogyges, Dardanus): 1800 - 1528 BC
+	- There seems to be contention (Velikovsky) on whether Ogyges or Deucalion is a contemporary of Moses. What seems to be common is that Ogyges is oft cited as being earlier than Deucalion by a few 100 years
 - Crete Minoan Civilization, Close of Middle Minoan II: 1700 BC
 - Mohenjo-Daro abandonment: 1700 BC
-- China Gun-Yu Flood, Korea Dangun: ~2000 BC
+- China Gun-Yu Flood contemporary with Ogyges and Korea Dangun: ~2000 BC
 - Peruvian Timeline: ~1800 BC "heavenly fire"
 - Biblical Exodus: 1800 - 1300 BC
 - Ancient Egypt, Herodotus: 6000+ BC to 1290 BC, 4 Sun changes (2 flips?)
@@ -36,6 +37,8 @@ This folder is for myths, stories, and accounts of floods and cataclysms.
 - India, Sinking of Dwaraka: 3031 BC
 - Peruvian Timeline: 2900 BC Deluge
 - Biblical Noahic deluge: 3500 - 2500 BC
+- China Nu Wa: 2810 BC
+- 3200 BC Compton comet compilation
 - Ancient Egypt, Herodotus: 6000+ BC to 1290 BC, 4 Sun changes (2 flips?)
 
 Between 6000+ BC and 3000 BC:
