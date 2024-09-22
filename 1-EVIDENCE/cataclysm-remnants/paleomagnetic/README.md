@@ -26,6 +26,15 @@ Coloured elements are my own additions. Blue and red indicate selected reversal 
 
 https://x.com/nobulart/status/1816565694244192663
 
+## North America Holocene Paleomagnetic Data
+
+![](img/notam-paleomag1.png)
+![](img/notam-paleomag2.png)
+
+Hard copy in this folder. https://commons.trincoll.edu/cgeiss/files/2015/10/2003_GJI.pdf
+
+The inclinations don't reverse to negative as they would during an ECDO event but if S2 is as short as we predict it would be a microscopic fraction of time in the sample and hard to capture.
+
 ## Levantine Iron Age Anomaly (LIAA)
 
 Levantine Iron Age anomaly
@@ -37,6 +46,26 @@ Levantine Iron Age anomaly
 Six centuries of geomagnetic intensity variations recorded by royal Judean stamped jar handles https://www.pnas.org/doi/10.1073/pnas.1615797114
 
 "In addition, the study provides further evidence of extremely strong field in the late eighth century BCE (“geomagnetic spike”), and of rapid rates of change (>20% over three decades)."
+
+## Mungo Lake Excursion
+
+![](img/mungo-lake.png)
+
+https://www.jstor.org/stable/74622
+
+## Mono Lake Excursion
+
+The Mono Lake Excursion ( MLE ) was a polarity excursion of the Earth's magnetic field within the Brunhes polarity zone . It was therefore not a polarity reversal , but only a dip. The event took place around 34,000 years ago in the Weichselian High Glacial .
+
+https://de.wikipedia.org/wiki/Mono-Lake-Exkursion
+
+## Geomagnetic excursion 2500 ybp
+
+"The most recent magnetic excursion occurred 2 500 years ago, during which the North Magnetic Pole moved to southern latitudes before returning to its original position. This event is indirectly supported by research from Japanese scientists. In 2019, they published a study based on ancient Assyrian clay tablets that contained records of the northern lights seen over Assyria 2 500 years ago. These sightings occurred at 30 – 40 degrees north latitude, where auroras are not seen today due to the current position of Earth’s magnetic poles."
+
+https://watchers.news/2024/09/18/geomagnetic-excursions-over-the-last-10-000-years/
+
+Really would like to find the research paper cited in this article but it's behind a paywall: https://link.springer.com/article/10.1134/S1819714024700143
 
 ## South Atlantic Anomaly [3]
 

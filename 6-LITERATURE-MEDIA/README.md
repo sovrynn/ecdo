@@ -27,5 +27,9 @@ filetype:pdf Google searches, Duckduckgo
 
 # TODO
 
+Khufu floating coffer pdf has some good sources.
+- See Hancock ('Fingerprints of the Gods') & Hapgood ('Earth’s Shifting Crust').
+- David Montaigne: Pole shift, 2018
+
 World in Peril by Ken White
 - Nanook chapter which discuss geomagnetic findings: https://nobulart.com/the-flip-of-the-earth/

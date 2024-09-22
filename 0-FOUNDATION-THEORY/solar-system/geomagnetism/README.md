@@ -33,6 +33,12 @@
 
 *"An artist's rendering of the structure of a magnetosphere. 1) Bow shock. 2) Magnetosheath. 3) Magnetopause. 4) Magnetosphere. 5) Northern tail lobe. 6) Southern tail lobe. 7) Plasmasphere."*
 
+## Paleomagnetic Calculations
+
+Inclination in paleomagnetic data refers to the angle between the Earth's magnetic field and the horizontal plane at a specific location.
+
+Measurement: Inclination is measured in degrees, ranging from -90° to +90°. A positive inclination indicates that the magnetic field was directed downward into the Earth (like at the magnetic north pole), while a negative inclination indicates an upward direction (like at the magnetic south pole).
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Earth%27s_magnetic_field

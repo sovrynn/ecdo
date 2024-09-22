@@ -102,11 +102,34 @@ Evolution of the Stirling Engine. Ultrasonic waves are generated through the app
 3. https://technology.nasa.gov/patent/LEW-TOPS-106
 4. https://t.me/nobulart/2497
 
+## Number of inundations [2]
+
+Khufu (and the valley of the kings complex) were not built by the Egyptians. They were found by them and repurposed (and copied many times in the case of the pyramid). Two ECDO events would have had to have been previously recorded to built the great pyramid. They couldn’t have known that it was cyclic otherwise. So this means at least two before Khufu was built and at least two afterwards according to the Egyptian records. “Many times in the past 9,000 years” we’re Plato’s words. Four.
+
+## Center of earth
+
+This is dated 2003: https://mars-news.de/pyramids/gizacenter.html
+
+![](img/coe1.jpg)
+![](img/coe2.jpg)
+![](img/coe3.jpg)
+![](img/coe4.jpg)
+![](img/coe5.jpg)
+![](img/coe6.jpg)
+![](img/coe7.jpg)
+![](img/coe8.jpg)
+![](img/coe9.jpg)
+![](img/coe10.jpg)
+
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
 2. [Craig Stone](https://nobulart.com)
 
 # TODO
+
+Christopher Dunn's article "Advanced Machining in Ancient Egypt": https://www.theglobaleducationproject.org/egypt/articles/cdunn-1.php
+
+Listened to a podcast today that mentioned the egg, among other interesting evidence that shows the pyramids were constructed prior to dynastic Egypt. https://open.spotify.com/episode/0tFOm0dV01BgPmUcM4EiwG?si=7eIAmJ5-Q8erw3vPorUgqg
 
 Why would they build the pyramid in a location they know gets flooded?

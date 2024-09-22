@@ -34,6 +34,16 @@ Adding some detail and visual aids.
 
 They appear in various numbers of turns in many neolithic sites. The number of turns varies, but at Knowth, they mostly seem to favour six turns.
 
+## Nebra Disk
+
+![](img/nebra-disc1.jpg)
+![](img/nebra-disc2.jpg)
+![](img/nebra-disc3.jpg)
+
+1. https://en.wikipedia.org/wiki/Nebra_sky_disc
+2. https://www.landesmuseum-vorgeschichte.de/en/nebra-sky-disc/the-place-of-discovery
+3. https://www.tandfonline.com/doi/pdf/10.1080/1751696X.2024.2373876
+
 ## Citations
 
 1. https://x.com/EthicalSkeptic/status/1832538729275117895?s=19

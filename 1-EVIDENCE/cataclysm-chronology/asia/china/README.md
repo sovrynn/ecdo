@@ -2,6 +2,8 @@
 
 Aside from the Herodotus account, I take China's flood myths to be the most meaningful because they specifically reference the Sun changing its trajectory, and temporary prolonged flooding, which are two surefire markers of our current model of the ECDO.
 
+China's historical timeline here: https://en.wikipedia.org/wiki/Timeline_of_Chinese_history
+
 ## Chinese Nuwa Gong Gong Inundation Myth (2810 BC?)
 
 There is a Chinese inundation myth which matches China's expected rotation from S1 to S2.
@@ -70,6 +72,12 @@ Banshan phase is from 2600-2300 BC.
 
 "A group of scholars from Lanzhou University have researched climate changes during the Majiayao culture and the results indicate that the climate was wet during 5830 to 4900 BP, which promoted the development of early and middle Majiayao culture in eastern Qinghai province. However, from 4900 to 4700 BP, the climate underwent droughts in this area, which may be responsible for the decline and eastward movement of prehistoric cultures during the period of transition from early-mid to late Majiayao culture."
 
+## 1200 BC Event?
+
+Would be the Shang dynasty.
+
+Xie is said to have helped Yu the Great to control the Great Flood and for his service to have been granted a place called Shang as a fief... In the Annals of the Yin, Sima Qian writes that the dynasty was founded 13 generations after Xie, when Xie's descendant Tang overthrew the impious and cruel final Xia ruler in the Battle of Mingtiao. [6]
+
 ## Yuan Empire Downfall - 1300 AD
 
 This all happened 700 years ago - during the Wolf Minimum. "This is what seems to have happened to the Yuan Empire in the fourteenth century. Historical records of this era are filled with natural disasters, especially between 1300 and 1359. This period witnessed a surge in every imaginable type of natural disaster all over the country: frequent super typhoons along the southeastern coast; recurrent floods of both the Yangtze and Yellow River deltas; locust plagues (associated with droughts) on the central plain; and two significant earthquakes in central China in 1303 and 1305 that caused over 270,000 fatalities. Last but not least, a series of epidemics swept through the region between 1352 and 1362, the worst of which caused two hundred thousand deaths in the capital area alone in 1358. The Chinese scholar He Fuqiang has calculated that, in the 109 years between 1260 and 1368, the empire suffered at least two major disasters per year, with five different disasters occurring in four out of every five years. For more than a third of the Yuan era, the empire experienced at least seven distinct natural calamities within the same year." - this all sounds a lot like what's going on across much of Asia right now. They must have had a lot of livestock to have caused such serious climate change 700 years ago.
@@ -84,6 +92,7 @@ This all happened 700 years ago - during the Wolf Minimum. "This is what seems t
 3. https://theculturetrip.com/asia/china/articles/chinas-4000-year-old-great-flood-myth-verified-by-science
 4. https://en.wikibooks.org/wiki/Chinese_Stories/N%C3%BCwa
 5. https://en.wikipedia.org/wiki/Majiayao_culture
+6. https://en.wikipedia.org/wiki/Shang_dynasty
 
 # TODO
 

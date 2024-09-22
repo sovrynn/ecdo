@@ -14,6 +14,8 @@ There is a reason that Thomas, White Hapgood and the movie "2012" all singled ou
 
 Southern Africa, especially above the Drakensberg range, is the safest from both water and falling rocks, but it will experience high winds, quakes and possibly some volcanic activity.
 
+## Nigeria
+
 ## Thomas Chan
 
 “The area bounded by Zaire, South Africa, and Kenya suffers only severe earthquakes and winds – little inundation. Survivors there marvel at the Sun, standing still in the sky for nearly half a day.” - TAES, Chan Thomas (1963)

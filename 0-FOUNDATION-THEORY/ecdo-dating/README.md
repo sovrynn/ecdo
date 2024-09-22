@@ -21,6 +21,7 @@ The following will always/often occur during an ECDO event, but may also occur d
 - earthquakes and volcanic eruptions
 - climate change
 - tsunamis
+- famines
 
 The major kind of event that could cause synonymous effects to an ECDO is cosmic impact events such as comet strikes.
 

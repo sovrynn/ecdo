@@ -1,6 +1,6 @@
-# Cataclysm Stories
+# Cataclysm Chronology
 
-This folder is for myths, stories, and accounts of floods and cataclysms.
+This folder is for compiling a proper chronology of all cataclysms, incorporating myths, stories, and accounts of floods and cataclysms together with history.
 
 ## Sources
 
@@ -17,6 +17,17 @@ This folder is for myths, stories, and accounts of floods and cataclysms.
 	- Systeme Du Monde, Laplace
 - Ethical Skeptic's original thesis
 - https://www.curioustaxonomy.net/home/FloodMyths/
+
+## Potential Cataclysm Dates
+
+- 400 BC, Alexander the great
+- 1200 BC, Late Minoan 2, Egypt
+- 2200 - 1700 BC, most events
+- 3200 - 2800 BC, many events
+- 6200 - 5500 BC, black sea deluge dating
+- 9600 BC, end of younger dryas
+
+I just haven't found enough accounts of very serious floods or changing cosmic trajectories during the 400 BC and 1200 BC dates to place much stock in them. These could be regional quakes or comet strikes.
 
 ## Timeline of dateable myths
 
@@ -63,6 +74,8 @@ An uncommonly specific description of cataclysmic geological process: "The king 
 - Peru, 24 hours, ~1800 BC
 
 # TODO
+
+400 bc helike tsunami event: https://en.wikipedia.org/wiki/Helike
 
 - turkey?? i still dont get this one
 

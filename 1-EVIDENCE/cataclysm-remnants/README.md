@@ -26,6 +26,35 @@ Bruckner, Black sea, 2009: https://sci-hub.ru/10.1016/j.quaint.2008.11.016 (hard
 
 Marmara Sea, 8000 YBP (citations 16, 17, 18) [1]
 
+## Mediterannean Refilling
+
+A meta-analysis of Mediterranean sea levels seems to show a dramatic refilling post 7400 BP, and  lesser one around 3700BP.
+
+![](img/med-refilling.jpg)
+![](img/med-refilling2.jpg)
+
+Back Sea multiproxy sealevel analysis from the same paper. Massive changes around 7400 and the period of the Tollman impact hypothesis (9640 BP).
+
+![](img/med-refilling3.jpg)
+![](img/med-refilling4.jpg)
+
+This reminds me of our Mediterranean sea level discussion between S1 and S2. The various sites got deeper in the north and shallower in the south.
+
+![](img/med-refilling5.jpg)
+![](img/med-refilling6.jpg)
+
+On loss of sediment: I asked GPT: "In the context of this stratigraphic chart, "loss of sediment" refers to a gap in the sedimentary record at that specific depth (around 2 meters below sea level). This could indicate that a portion of the sedimentary sequence was eroded or removed by natural processes such as water flow, wave action, or human activity before subsequent layers were deposited. The missing sediment disrupts the continuous stratigraphic record, potentially creating a time gap that complicates interpretations of the site's geological and archaeological history."
+
+https://sci-hub.ru/10.1016/j.quaint.2008.11.016
+
+## Kilen Fjord
+
+Noahic Deluge (7400BC) and maybe 1700BC (300 years out).
+
+"Three shifts in state at Kilen are identified over the study period: a deep, periodically stratified fjord with medium high salinity (and high productivity) between ca 7500-5000 BP, followed by a gradual transition to a shallow benthic system with more oceanic conditions (i.e. higher salinity, lower productivity, slower sedimentary accumulation rate and poorer fossil preservation) after ca 5000 BP and no stratification after ca 4400 BP, and lastly, within this shallow phase, an abrupt shift to brackish conditions around 2000 BP."
+
+https://sci-hub.ru/10.1016/j.quascirev.2013.05.020
+
 ## Sumer flood 3500 - 2600 BC
 
 https://www.cambridge.org/core/journals/iraq/article/abs/physical-evidence-for-noahs-flood/226A2701813C09C5CD25BCA17C8E5074
@@ -46,6 +75,12 @@ An account of the first formation of a lake with fish in it. Latvia c.±7800 BP.
 
 https://oceanrep.geomar.de/id/eprint/31064/1/Fl%C3%B6gel_Diss.pdf
 
+## 7400 BP Fennoscandia Earthquake
+
+![](img/fennoscandia.jpg)
+
+https://sci-hub.ru/10.1016/j.tecto.2018.06.015
+
 ## Vredefort Impact Structure
 
 https://en.wikipedia.org/wiki/Vredefort_impact_structure
@@ -63,6 +98,11 @@ https://www.opalsdownunder.com.au/learn/australian-opal-mining-fields/
 1. https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis#cite_note-RyanOthers2003a-8
 
 # TODO
+
+Tibet:
+- Typical Soft-Sediment Deformation Structures Induced by Freeze/Thaw Cycles: A Case Study of Quaternary Alluvial Deposits in the Northern Qiangtang Basin, Tibetan Plateau: https://ui.adsabs.harvard.edu/search/q=author%3A%22Jiang%2C%20Hanchao%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+- Magnetostratigraphy of Tertiary Sediments From the Wulanwula Lake Basin: Implications for the Cenozoic Tectonic History of the Tibetan Plateau: https://ui.adsabs.harvard.edu/abs/2002AGUFMGP71A0980Z/abstract
+- Himalayas: https://himalayacarbongeomorphology.wordpress.com/
 
 William Ryan's more recent work
 
