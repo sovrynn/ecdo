@@ -28,7 +28,7 @@ We have evidence of a rotation of the continents from paleomagnetic data that is
 
 ## Mythical Evidence
 
-Mythical accounts of Earth rotating in the same direction as predicted by the ECDO. See `EVIDENCE/cataclysm-stories`.
+Mythical accounts of Earth rotating in the same direction as predicted by the ECDO. See `EVIDENCE/cataclysm-history`.
 
 ### Egyptian Account
 

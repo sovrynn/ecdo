@@ -26,6 +26,3 @@ Google earth engine, topography
 - https://developers.google.com/earth-engine/datasets/catalog/NOAA_NGDC_ETOPO1
 - https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/tiled/ice_surface/etopo1_ice_surface.kmz
 
-## Repo text find-and-replace
-
-Use `find /path/to/search -type f -name "*.txt" -exec sed -i 's/old-text/new-text/g' {} +`.

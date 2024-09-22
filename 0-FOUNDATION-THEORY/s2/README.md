@@ -14,7 +14,7 @@ This folder is for understanding S2, which is the state of the Earth after the f
 
 "Moreover, during a short Khafre-styled reversal of say 10 to 50 bitter cold, dark, and wet years, we might not be able to detect such a Dzhanibekov rotation at all, even in ice cores." [2]
 
-The Great Gun-Yu flood of China, around 1900 BC, was said to have lasted 22 years. See `EVIDENCE/cataclysm-stories/asia/china`.
+The Great Gun-Yu flood of China, around 1900 BC, was said to have lasted 22 years. See `EVIDENCE/cataclysm-history/asia/china`.
 
 "I don't think that S2 is more than 20-30 years [due to] total apparent karst erosion/number of inundations." [1]
 

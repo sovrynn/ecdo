@@ -37,7 +37,7 @@ Could this have been the aftermath of an ECDO event?
 
 ![1700 BC](img/1700-bc.jpg "1700 BC")
 
-Dates that come up often when investigating the ECDO. Check `EVIDENCE/cataclysm-stories`.
+Dates that come up often when investigating the ECDO. Check `EVIDENCE/cataclysm-history`.
 
 ## Population Sample Data
 

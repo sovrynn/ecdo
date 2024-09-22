@@ -87,6 +87,12 @@ SearXNG metasearch: https://searx.nobulart.com
 
 Youtube video download: [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
+## Repo text find-and-replace
+
+Linux: Use `find /path/to/search -type f -name "*.md" -exec sed -i 's/old-text/new-text/g' {} +`.
+
+Mac: Use `find /path/to/search -type f -name "*.md" -exec sed -i '' 's/old-text/new-text/g' {} +`.
+
 # TODO
 
 There's some Google :index search trick I can't seem to find

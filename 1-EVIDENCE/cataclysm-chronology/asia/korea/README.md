@@ -8,7 +8,7 @@ Dangun is the myth of the founder of Gojoseon, the first Korean kingdom (at leas
 
 Emperor Dangun's rule is dated based on China's dates. Sources say that he ascended to the throne sometime during the 25th - 50th years of Emperor Yao's reign, which is right before the Xia Dynasty was established.
 
-See `cataclysm-stories/asia/china` for an investigation on potential dating anomalies for Emperor Yao.
+See `cataclysm-history/asia/china` for an investigation on potential dating anomalies for Emperor Yao.
 
 My hypothesis is that the parents of Dangun survived the ECDO event by staying in a cave on Mount Myohang.
 
