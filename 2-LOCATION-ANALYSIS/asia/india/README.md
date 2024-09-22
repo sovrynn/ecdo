@@ -28,7 +28,7 @@ Tamil flood story: "Half of the land mass Kumari Kandam, which was south of Indi
 
 ## Flooded cities circa 1900 BC
 
-There is a paper by BB Lal (see `EVIDENCE/cataclysm-history/asia/india`) that references multiple cities in North India that were flooded circa 1900 BC.
+There is a paper by BB Lal (see `EVIDENCE/cataclysm-chronology/asia/india`) that references multiple cities in North India that were flooded circa 1900 BC.
 
 ![india flood sites](img/india-flood-sites-2.png "india flood sites")
 
@@ -52,7 +52,7 @@ Red lines are the ECDO path. Appears to be quite a few striations running along 
 
 ## Kumari Kandam
 
-See `EVIDENCE/cataclysm-history/india` for analysis on this.
+See `EVIDENCE/cataclysm-chronology/india` for analysis on this.
 
 ## Citations
 

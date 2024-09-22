@@ -41,7 +41,7 @@ U-shaped valley at the head of Leh valley, Ladakh [2]:
 
 ## Tibet flood myth
 
-See `EVIDENCE/cataclysm-history/asia`. In *Worlds in Collision*, Velikovsky cites a source saying that Tibet was inundated.
+See `EVIDENCE/cataclysm-chronology/asia`. In *Worlds in Collision*, Velikovsky cites a source saying that Tibet was inundated.
 
 ## Citations
 

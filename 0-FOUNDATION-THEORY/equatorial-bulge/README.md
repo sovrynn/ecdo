@@ -130,7 +130,7 @@ What's interesting about the predictions of areas that may rise in elevation is 
 
 ## Taking the oceanic equatorial bulge into account
 
-One interesting data point to take into account is China's Great Gun-Yu flood, during which east China's coastline rose about 65 m for 22 years. See `EVIDENCE/cataclysm-history/asia/china` for details.
+One interesting data point to take into account is China's Great Gun-Yu flood, during which east China's coastline rose about 65 m for 22 years. See `EVIDENCE/cataclysm-chronology/asia/china` for details.
 
 China is in a strip that is expected to rise in elevation. So what could explain its prolonged coastline rise?
 
