@@ -2,4 +2,4 @@
 
 Wrote books on animal remains which may have been caused by the ECDO.
 
-Relevant quotes from his books cited in `EVIDENCE/flood-remnants/animal-remains`.
+Relevant quotes from his books cited in `EVIDENCE/catalysm-remnants/animal-remains`.

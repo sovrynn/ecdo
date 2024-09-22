@@ -20,11 +20,11 @@ Giant current ripples: https://en.wikipedia.org/wiki/Giant_current_ripples
 
 ## Erosion
 
-Water flow leaves erosion. See `EVIDENCE/flood-remnants/erosion`.
+Water flow leaves erosion. See `EVIDENCE/cataclysm-remnants/erosion`.
 
 ## Erratic Stones
 
-Large stones in strange places. See `EVIDENCE/flood-remnants/large-rocks`.
+Large stones in strange places. See `EVIDENCE/cataclysm-remnants/large-rocks`.
 
 What may be of greatest importance is rocks that seem to have come from other locations.
 

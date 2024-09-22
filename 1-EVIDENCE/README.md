@@ -6,11 +6,10 @@ All manner of potential evidence for ECDO events.
 
 **Humanity**:
 - `cataclysm-stories`: Flood myths, cataclysm accounts, Bible stories.
-- `civilization-history`: Human civilization and history.
+- `civilization-history`: Human civilization and history, archaelogy and cities, human remains.
 
 **Micro**:
-- `flood-remnants`: Frozen animal remains, flood matter.
-- `physical-material`: Rocks, soil, land, ice.
+- `cataclysm-remnants`: Frozen animal remains, flood matter, paleomagnetic data, rocks, soil, land, ice.
 - `biology`: Animals and plants.
 
 **Macro**:

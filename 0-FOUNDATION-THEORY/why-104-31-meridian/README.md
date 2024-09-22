@@ -22,9 +22,9 @@ The centroid of the least dense LLVP centroid lies in South Africa. This is hypo
 
 ## Paleomagnetic Data
 
-We have evidence of a rotation of the continents from paleomagnetic data that is in the same directions as predicted during S1 -> S2; see `EVIDENCE/physical-material/land-soil-earth`.
+We have evidence of a rotation of the continents from paleomagnetic data that is in the same directions as predicted during S1 -> S2; see `EVIDENCE/cataclysm-remnants/paleomagnetic`.
 
-![](../../1-EVIDENCE/physical-material/land-soil-earth/img/laj-lund.webp)
+![](../../1-EVIDENCE/cataclysm-remnants/paleomagnetic/img/laj-lund.webp)
 
 ## Mythical Evidence
 

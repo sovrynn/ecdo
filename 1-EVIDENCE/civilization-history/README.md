@@ -4,8 +4,14 @@ Human history, cities, and structures.
 
 ## Contents
 
+Macro:
 - `important-structures`: Human-built structures, such as the Khufu Pyramid, potentially related to the ECDO.
 - `destroyed-cities`: Cities that were destroyed in the past, sometimes in strange ways.
+
+Micro:
+- `human-remains`, `important-artifacts`
+
+Misc:
 - `advanced-prehistoric-civilizations`: Did advanced prehistoric civilizations exist? How did they end?
 - `oldest-cities`: The cities with the oldest history of inhabitation from present.
 
@@ -77,3 +83,7 @@ The Gobi Desert and the Takla Makan are not on ancient maps either. Numerous cit
 It turns out that the fertile lands were suddenly, or within a short period of time, covered with sand.
 
 ![](img/africa-old-map.jpg)
+
+## Iberian Agriculture 5400 BC
+
+Iberian agriculture "suddenly" appears ±5400 BC. https://sci-hub.ru/10.1016/j.jas.2015.05.007
