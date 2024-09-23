@@ -73,6 +73,14 @@ It's a problem with shorter term proxies. They're generally softer and less stab
 
 ![](img/uk-paleomagnetic.jpg)
 
+## Setrno-Etrussia 2700 BP
+
+"THE ‘STERNO-ETRUSSIA’ GEOMAGNETIC EXCURSION AROUND 2700 BP AND CHANGES OF SOLAR ACTIVITY, COSMIC RAY INTENSITY, AND CLIMATE"
+
+![](img/sterno-estrussia.jpg)
+
+https://journals.uair.arizona.edu/index.php/radiocarbon/article/viewFile/4201/3626
+
 ## South Atlantic Anomaly [3]
 
 The South Atlantic Anomaly (SAA) is an area where Earth's inner Van Allen radiation belt comes closest to Earth's surface, dipping down to an altitude of 200 kilometres (120 mi). This leads to an increased flux of energetic particles in this region and exposes orbiting satellites (including the ISS) to higher-than-usual levels of ionizing radiation.

@@ -72,6 +72,12 @@ An uncommonly specific description of cataclysmic geological process: "The king 
 
 ![](img/nigeria-myths.jpg)
 
+## Kutenai North Star
+
+https://x.com/PadrePlyo/status/1837620633582424527 pretty smart way to figure out flood is coming as north star is the only stable thing in space relative to earth
+
+![](img/kutenai.jpg)
+
 ## Stationary Sun
 
 - Great Gun Yu Flood, 10 days, 2000 BC

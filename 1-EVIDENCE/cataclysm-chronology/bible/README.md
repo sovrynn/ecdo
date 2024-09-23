@@ -84,6 +84,23 @@ https://www.reddit.com/r/UsefulCharts/comments/14bqxtw/biblical_chronology_accor
 
 # TODO
 
+## biblical chronologies noahs flood dating
+
+The Biblical chronologies cited here are anchored to dates such as Jesus Christ, the Fall of Jerusalem in 587 BC, and "Solomon" building a temple in 967 BC.
+- Yes, and this is based on the Babylonian astrological tablets associated with the reigns of their kings.
+
+This was a great resource I bought a few years ago that compares and contrasts various sources:
+
+https://books.google.com/books?id=42-tAwAAQBAJ&printsec=copyright#v=onepage&q&f=false
+
+This guy is a mashup of catastophism, bible, and electric universe theory.
+
+He dates the flood at 2484 BC
+
+https://creationism.org/patten/PattenCatOT/PattenCatOtCh03.html
+
+## other
+
 Research Paper "Noah's Flood: The New Scientific Discoveries About the Event that Changed History" by William Ryan and Walter Pitman
 
 Look at:

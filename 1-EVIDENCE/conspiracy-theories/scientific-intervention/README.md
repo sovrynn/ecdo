@@ -54,6 +54,10 @@ https://x.com/RealDutchsinse/status/1818805390974263741
 
 Check `img/`.
 
+## Chemtrails
+
+2 videos in this folder.
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

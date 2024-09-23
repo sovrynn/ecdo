@@ -19,6 +19,10 @@ Australia's proximity to the Sulawesi pivot means that water velocities are some
 3. https://x.com/nobulart/status/1812565796972798086
 4. https://x.com/nobulart/status/1817571533050581496
 
+## Blue Mountains
+
+![](img/blue-mountains.jpg)
+
 ## Salt in southwest
 
 ![](img/salt1.jpg)

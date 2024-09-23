@@ -1,5 +1,10 @@
 # Plato
 
+Sources:
+- https://www.perseus.tufts.edu/hopper/text?doc=Plat.+Criti.+111
+
+## Excerpt
+
 “There have been and will be many and diverse destructions of mankind, of which the greatest are by fire and water, and lesser ones by other means. These [disasters] arise whenever the different motions of the heavenly bodies return to the same relative position.” Plato, Timaeus
 
 [2/3] "In mind you are all young; there is no old opinion handed down among you by ancient tradition, nor any science which is hoary with age. And I will tell you why. There have been, and will be again, many destructions of mankind arising out of many causes; the greatest have been brought about by the agencies of fire and water, and other lesser ones by innumerable other causes. There is a story, which even you have preserved, that once upon a time Paethon, the son of Helios, having yoked the steeds in his father's chariot, because he was not able to drive them in the path of his father, burnt up all that was upon the earth, and was himself destroyed by a thunderbolt. Now this has the form of a myth, but really signifies a declination of the bodies moving in the heavens around the earth, and a great conflagration of things upon the earth, which recurs after long intervals; at such times those who live upon the mountains and in dry and lofty places are more liable to destruction than those who dwell by rivers or on the seashore. And from this calamity the Nile, who is our never-failing saviour, delivers and preserves us. When, on the other hand, the gods purge the earth with a deluge of water, the survivors in your country are herdsmen and shepherds who dwell on the mountains, but those who, like you, live in cities are carried by the rivers into the sea. Whereas in this land, neither then nor at any other time, does the water come down from above on the fields, having always a tendency to come up from below; for which reason the traditions preserved here are the most ancient."
