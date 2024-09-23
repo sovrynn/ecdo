@@ -35,6 +35,8 @@
 
 ## Paleomagnetic Calculations
 
+Figure 2.1: a) Lines of flux produced by a geocentric axial dipole. b) Lines of flux of the geomagnetic field of 2005. At point P the horizontal component of the field BH, is directed toward the magnetic north. The vertical component BV is directed down and the field makes an angle I with the horizontal, known as the inclination. c) Components of the geomagnetic field vector B. The angle between the horizontal component (directed toward magnetic north and geographic north is the declination D.) [Modified from Ben-Yosef et al., 2008b.]
+
 See section 2.1 for an explanation of inclination and declination: https://earthref.org/MagIC/books/Tauxe/Essentials/#x1-236000C
 
 Inclination in paleomagnetic data refers to the angle between the Earth's magnetic field and the horizontal plane at a specific location.
