@@ -25,9 +25,9 @@ The Greek Dark Ages (c. 1200–800 BC) "At the beginning of the Postpalatial Bro
 
 The maps illustrate population distributions over the past 6ky, spanning the Greek Dark Ages period. Clear correlation where populations appear to have emerged from the same regions as the longest continuously inhabited cities.[3]
 
-[1] https://en.wikipedia.org/wiki/Greek_Dark_Ages
-[2] https://annas-archive.org/scidb/10.1038/sdata.2016.34
-[3] https://x.com/nobulart/status/1807050060376457676
+1. https://en.wikipedia.org/wiki/Greek_Dark_Ages
+2. https://annas-archive.org/scidb/10.1038/sdata.2016.34
+3. https://x.com/nobulart/status/1807050060376457676
 
 ## Europe Migration (Late Bronze Age collapse)
 
