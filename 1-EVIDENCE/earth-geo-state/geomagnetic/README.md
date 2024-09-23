@@ -14,21 +14,6 @@
 
 He provides plenty of sources, I encourage you to look at his original work.
 
-## Magnetic profiles [1]
-
-![magnetic](img/magnetic1.jpg "magnetic profiles")
-
-Quick glance at the long term magnetic reversal history. Black/White transitions are 180° flips.
-
-This is recorded all over the earth in thousands of proxies. Uniformitarian geology ascribes them to magnetic field reversals rather than physical ones.
-
-![magnetic](img/magnetic2.jpg "magnetic profiles")
-![magnetic](img/magnetic3.jpg "magnetic profiles")
-![magnetic](img/magnetic4.jpg "magnetic profiles")
-![magnetic](img/magnetic5.jpg "magnetic profiles")
-![magnetic](img/magnetic6.jpg "magnetic profiles")
-![magnetic](img/magnetic7.jpg "magnetic profiles")
-
 ## Magnetic field getting weaker
 
 ![x](img/mag1.jpg "")
@@ -55,6 +40,8 @@ The effect is caused by the non-concentricity of Earth and its magnetic dipole a
 ![](img/south-atlantic-anomaly.png)
 
 In-depth and up-to-date look at it here: https://svs.gsfc.nasa.gov/4840/
+
+There's an excellent paper on this by Laj in `EVIDENCE/cataclysm-remnants/paleomagnetic`.
 
 ## Citations
 
