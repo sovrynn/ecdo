@@ -43,8 +43,8 @@ https://web.viu.ca/johnstoi/cuvier/cuvierweb.pdf
 
 ## Luotuodun Marine Transgression
 
-![luotuodun](img/luotuodun-marine.jpg "luotuodun")
-![luotuodun](img/luotuodun-map.jpg "luotuodun")
+![](img/luotuodun-marine.jpg)
+![](img/luotuodun-map.jpg)
 
 https://www.researchgate.net/publication/225517767_Evidence_for_marine_transgression_between_7500-5400BC_at_the_Luotuodun_Site_in_Yixing_Jiangsu_Province
 
@@ -58,6 +58,12 @@ https://www.researchgate.net/publication/225517767_Evidence_for_marine_transgres
 The Noahic Deluge was ±7400BP, two 3,700 year cycles before present. This lake filled with saltwater around that time. See `LOCATION-ANALYSIS/north-america/mexico` and `LOCATION-ANALYSIS/carribean` for more analysis.
 1. https://www1.ncdc.noaa.gov/pub/data/paleo/slidesets/maya/
 2. https://en.wikipedia.org/wiki/Lake_Chichancanab
+
+## 6 forests stacked vertically
+
+In coal mines of Illinois, Indiana, and Kentucky, there are massive fossil forests stacked on top of each other.
+
+https://youtube.com/watch?v=Hrxfq8V6itQ&si=wAszW-e3F2naUp5y
 
 ## Falkland Islands Preserved Plants
 
