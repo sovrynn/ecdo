@@ -21,6 +21,21 @@ Six centuries of geomagnetic intensity variations recorded by royal Judean stamp
 
 "In addition, the study provides further evidence of extremely strong field in the late eighth century BCE (“geomagnetic spike”), and of rapid rates of change (>20% over three decades)."
 
+## Iran Syria last 5000 years
+
+"We report new archeointensity results from Iranian and Syrian archeological excavations dated from the second millennium BC. These high-temperature magnetization data were obtained using a laboratory-built triaxial vibrating sample magnetometer. Together with our previously published archeointensity results from Mesopotamia, we constructed a rather detailed geomagnetic field intensity variation curve for this region from 3000 BC to 0 BC. Four potential geomagnetic events (“archeomagnetic jerks”), marked by strong intensity increases, are observed and appear to be synchronous with cooling episodes in the North Atlantic."
+
+Altogether these data show several interesting features, particularly the occurrence of strong geomagnetic field intensity variations. The two older ones, already discussed by Gallet and Le Goff [3], are dated at ∼2800–2600 BC and ∼2100–1900 BC. In these two cases, significantly different archeointensity values are observed although the corresponding sites are dated from the same age based on archeological constraints. The new result from Terqa provides evidence for yet another occurrence between ∼1750 and 1500 BC.
+
+![](img/mesopotamia1.jpg)
+![](img/mesopotamia2.jpg)
+
+Added 5400 BP. That's some serious ice-melt in the bond cycle. I've also overlaid a 462.7 year grid - this is one tenth of the outer planet cycle.
+
+![](img/mesopotamia3.jpg)
+
+https://www.ipgp.fr/~legoff/Download-PDF/Archeomag/GalletEtAl_EPSL2006.pdf
+
 ## Geomagnetic excursion 2500 ybp
 
 "The most recent magnetic excursion occurred 2 500 years ago, during which the North Magnetic Pole moved to southern latitudes before returning to its original position. This event is indirectly supported by research from Japanese scientists. In 2019, they published a study based on ancient Assyrian clay tablets that contained records of the northern lights seen over Assyria 2 500 years ago. These sightings occurred at 30 – 40 degrees north latitude, where auroras are not seen today due to the current position of Earth’s magnetic poles."

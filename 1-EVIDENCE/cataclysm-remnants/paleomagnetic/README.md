@@ -4,6 +4,32 @@ Paleomagnetic studies that date material back in the last several millenium (400
 
 What follows are anomalies that date back at least to Younger Dryas.
 
+## Laj: An impending geomagnetic transition? Hints from the past
+
+We find that some aspects of the present-day geomagnetic field have some similarities with those documented for the Laschamp excursion 41 kyr ago. Under the assumption that the dynamo processes for an eventual future reversal or excursion would be similar to those of the Laschamp excursion, we tentatively suggest that, whilst irreversible processes that will drive the geodynamo into a polarity change may have already started, a reversal or an excursion should not be expected before 500–1000 years.
+
+Gubbins (1987) noted that a patch of flux occurring below the southern tip of Africa had opposite sign to that expected for a dipole field in the Southern Hemisphere, when extrapolated at the core mantle boundary (the South Atlantic Anomaly or SAA). He suggested that “the present fall of the dipole field is directly related to the intensification and southward migration of this and other similar patches and that the fall may occasionally leads to polarity reversal.”
+
+More recently, Hulot et al. (2002) have compared the 2002 data from the Danish Oersted Satellite with those obtained from the US satellite Magsat that operated in 1979/1980 and interpreted variations of the magnetic field over this 20 years period down to previously inaccessible length scales. Hulot et al. (2002) showed that growth and poleward migration of these reversed flux patches account almost entirely for the decrease in the dipole field in the last two centuries. They postulate “that the present magnetic state of the Earth may be one in which the geodynamo operates before reversing,” consistent with, but with a much better spatial resolution than Gubbins’ (1987) suggestion.
+
+Very recently, De Santis and Qamili (2015 and references therein) have considered the evolution of the South Atlantic Anomaly (SAA) and its progressive extension over the last 400 years. They find that there has been an acceleration in the rate at which the SAA expands. Also, fitting the surface extension of the SAA with power laws or logarithmic functions, in analogy with critical phenomena, they define a critical time tc when the SAA area will reach almost an hemisphere in the very near future (tc = 2034 ± 3 yr AD). They interpret tc not as the exact moment of a geomagnetic reversal or excursion, but rather as the time when irreversible processes that will drive the geodynamo into a polarity change will start.
+
+![](img/laj-recent1.png)
+![](img/laj-recent2.png)
+![](img/laj-recent3.png)
+
+However, in the three records the growth rate is significantly slower than the decrease. This results into a very significantly asymmetric form of the intensity low (Figure 4A) which makes it difficult to precisely define its duration, as this depends on a somewhat arbitrary choice: estimates of the duration of the intensity low corresponding to the Laschamp excursion defined as the time interval during which the dipole intensity is lower than half the average non-excursional value may vary between 1500 and 3000 years depending on whether the GLOPIS-75 record or whether either one of the two cosmogenic isotopes records are considered. In all cases the decrease occurs about twice as fast as the recovery.
+
+The Mono Lake excursion (Figure 4B) appears to be shorter than the Laschamp excursion and that may explain the difficulty to identify it in geological archives. Its intensity profile is more symmetric than that of the Laschamp excursion.
+
+The high decay rate of the Laschamp excursion is virtually identical to that discussed by Gubbins et al. (2006) since 1840 and Suttie et al. (2011) since 1590 (documented by the IGRF since 1900). They both start from about the same dipole intensity value but it is delicate to directly compare them because their respective timescales are different: historically only a period of about 400 years has been documented, whilst the Laschamp excursion decays over a period roughly three times as long. To compare the two decay rates, one has to admit that the presentday decreasing trend of the dipole field will continue until it reduces to very small values, as already hypothesized by Olson (2002).
+
+While several lines of evidence point toward an imminent change of polarity, using a different approach we reach the same conclusions as several authors that nothing has to be expected before a period of a few hundreds years, maybe as short as 500 years.
+
+https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2015.00061/full
+
+Hard copy in this folder.
+
 ## Laschamp Excursion: Laj and Lund Studies [2]
 
 ![](img/laj-lund.webp)

@@ -14,6 +14,8 @@ https://nobulart.com/the-flip-of-the-earth/
 
 ## US Gov Recent Paper
 
+"The Earth’s core is undergoing a dramatic change with geomagnetic field strength dropping by 40% over the last 400 years, and satellite observations showing the field weakening ten times faster than previously calculated."
+
 ![](img/usgov1.jpg)
 ![](img/usgov2.jpg)
 

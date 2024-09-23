@@ -52,6 +52,10 @@ The South Atlantic Anomaly (SAA) is an area where Earth's inner Van Allen radiat
 
 The effect is caused by the non-concentricity of Earth and its magnetic dipole and has been observed to be increasing in intensity recently.[quantify] The SAA is the near-Earth region where Earth's magnetic field is weakest relative to an idealized Earth-centered dipole field.
 
+![](img/south-atlantic-anomaly.png)
+
+In-depth and up-to-date look at it here: https://svs.gsfc.nasa.gov/4840/
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

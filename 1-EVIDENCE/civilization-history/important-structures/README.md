@@ -36,7 +36,7 @@ https://nobulart.com/the-hermetic-key/
 
 ## Great Circle Artifacts
 
-![great circle artifacts](img/great-circle-artifacts.jpg "great circle artifacts")
+![](img/great-circle-artifacts.jpg)
 
 Angkor Wat and Nazca lie on the great circle centred at Stonehenge (red trace). Another great circle connects Easter Island, Machu Picchu, Giza and Mohenjo-daro (blue trace). Intersections at Peru and Cambodia may account for the high density of megaliths, geoglyphs and curious artefacts found there. The planes defined by these great circles intersect along an axis approximately connecting Angkor Wat to Nazca/Paracas, inclined to one another at sin −1 (0.9) the gradian/degree ratio being 9/10.
 
@@ -81,4 +81,9 @@ Bosnian Pyramids
 
 chinese pyramids https://thebrainchamber.com/chinese-pyramids/
 
-brain chamber pyramid map: https://www.google.com/maps/d/viewer?mid=1a7ESLhx-k-r0zTW22XiENshhHwf-QXM
+## djedefre
+
+Unfinished Djedefre pyramid: https://m.youtube.com/watch?v=JEzZoNuRVJ0
+- severe karst erosion (shown below):
+
+![](img/djedefre.jpg)
