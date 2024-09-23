@@ -35,11 +35,11 @@ It's also supported by the ostrich egg (~6200 years). See `EVIDENCE/civilization
 		- Canaanite palace swallowed by a fissure 3700 years ago (`civilization-history`)
 		- Tall el-Hammam city melted by extreme temperature ~3700 years ago (`civilization-history/human-built-structures`)
 	- Records of immigration in the Mediterranean area coinciding with the Greek Dark Ages (`civilization-history`)
-- Mammoths mutating 3700 years ago (`flood-remnants/animal-remains`)
+- Mammoths mutating 3700 years ago (`cataclysm-remnants/animal-plant-remains`)
 
 If we go back 3700 more years to 5400 BC, there is evidence as well:
 - Noahic deluge potentially in 5200 BC, Book of Genesis (`bible`)
-- Chichancanab lake filled with saltwater about 7800 years ago in 5800 BC (`flood-remnants/animal-remains`)
+- Chichancanab lake filled with saltwater about 7800 years ago in 5800 BC (`cataclysm-remnants/animal-plant-remains`)
 - Sinking of city Dwarka in 5525 BCE
 
 Going back another 3700 years to 9100 BC:

@@ -44,6 +44,13 @@ If you divide 18,508 by 24,998, you get 9254/12499 (simplified). 24,998 is a spe
 
 ![nineveh](img/nineveh4.jpg "nineveh")
 
+## 2963 BC Planetary positions
+
+Interesting, The gas giants form the square in 2963 BC, same pattern bad weather comes and the same pattern as now just in a different part of the sky.
+
+![](img/2963.jpg)
+![](img/2024.jpg)
+
 # TODO
 
 Around 3700 years?

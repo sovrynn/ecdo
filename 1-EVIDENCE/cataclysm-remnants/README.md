@@ -93,6 +93,12 @@ Like all fine things, gem opal is exceedingly rare. Much of the world's precious
 
 https://www.opalsdownunder.com.au/learn/australian-opal-mining-fields/
 
+## Himalayas Gurudongmar Salt lake
+
+This lake that is frozen all year has a secret that no one has found a solution for. This lake is on the plateau next to the Kanchengyao mountain range. It is the source of the Teesta river. However, the secret it holds is that there is a spot in it that stays unfrozen. There surely is a religious angle to it from Buddhism. The story circulated is that a Buddhist Padmasambhava gave this place a blessing. He is believed to have had tantric qualities as well. However, it is still unknown how this one place is untouched even by the harshest of colds.
+
+![](img/gurudongmar.jpg)
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis#cite_note-RyanOthers2003a-8

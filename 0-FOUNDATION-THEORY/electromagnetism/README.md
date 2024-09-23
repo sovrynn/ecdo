@@ -43,10 +43,6 @@ Cool ferromagnetism video here from Wikipedia: https://en.wikipedia.org/wiki/Fil
 
 *"An electromagnetic field (also EM field) is a physical field, mathematical functions of position and time, representing the influences on and due to electric charges.[1] The field at any point in space and time can be regarded as a combination of an electric field and a magnetic field. Because of the interrelationship between the fields, a disturbance in the electric field can create a disturbance in the magnetic field which in turn affects the electric field, leading to an oscillation that propagates through space, known as an electromagnetic wave."*
 
-## Paleomagnetism
-
-Inclination in paleomagnetic data refers to the angle between the Earth's magnetic field and the horizontal plane at a specific location.
-
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Electric_field

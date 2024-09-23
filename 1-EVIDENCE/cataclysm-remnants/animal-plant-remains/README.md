@@ -59,6 +59,20 @@ The Noahic Deluge was ±7400BP, two 3,700 year cycles before present. This lake 
 1. https://www1.ncdc.noaa.gov/pub/data/paleo/slidesets/maya/
 2. https://en.wikipedia.org/wiki/Lake_Chichancanab
 
+## Falkland Islands Preserved Plants
+
+"Excavators at the site of a new care home in Stanley had cut into a deep peat layer which was filled with large tree trunks and branches. "These were so well preserved, they looked like they'd been buried the day before, but they were in fact extremely old. Our interest was immediately piqued, as finding tree remains here was baffling." For at least thousands, probably millions of years, the Falkland Islands have not been able to sustain trees."
+
+![](img/falkland-rainforest-remnants.jpg)
+
+The trees in the Falklands were buried in peat 6m down - a later dating to around 20-30 million years ago. The species and pollen identification matches the period. No C14 date could be obtained so >50ka.
+
+![](img/falkland-rainforest-remnants2.jpg)
+
+https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B4CFF913DD8F1BB43B570E4086C7CF7B/S0954102024000129a.pdf/evidence-for-a-floristically-diverse-rainforest-on-the-falkland-archipelago-in-the-remote-south-atlantic-during-the-mid-to-late-cenozoic.pdf
+
+https://www.msn.com/en-gb/travel/news/scientists-make-startling-discovery-about-the-falkland-islands-so-well-preserved/ar-AA1qPGn8?ocid=winp2fptaskbarhoverent&cvid=fe8e8c549e754f64cc3cdcc48092a1ca&ei=4
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

@@ -26,6 +26,10 @@ How to retrieve it?: *"What goes up can always come down. Preprogrammed reentry,
 
 *"Stone like granite is essentially EMP-proof. It converts the electromagnetic energy into kinetic - it vibrates. Granite and similar stone is probably one of the best protections against an EMP. The converse is also true of course - granite which is vibrating produces electric current flux."*
 
+## Data Crystals
+
+![](img/crystal-data.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
