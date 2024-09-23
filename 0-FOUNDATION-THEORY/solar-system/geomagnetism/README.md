@@ -35,6 +35,8 @@
 
 ## Paleomagnetic Calculations
 
+See section 2.1 for an explanation of inclination and declination: https://earthref.org/MagIC/books/Tauxe/Essentials/#x1-236000C
+
 Inclination in paleomagnetic data refers to the angle between the Earth's magnetic field and the horizontal plane at a specific location.
 
 Measurement: Inclination is measured in degrees, ranging from -90° to +90°. A positive inclination indicates that the magnetic field was directed downward into the Earth (like at the magnetic north pole), while a negative inclination indicates an upward direction (like at the magnetic south pole).
