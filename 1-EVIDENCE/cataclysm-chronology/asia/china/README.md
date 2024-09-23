@@ -78,6 +78,18 @@ Would be the Shang dynasty.
 
 Xie is said to have helped Yu the Great to control the Great Flood and for his service to have been granted a place called Shang as a fief... In the Annals of the Yin, Sima Qian writes that the dynasty was founded 13 generations after Xie, when Xie's descendant Tang overthrew the impious and cruel final Xia ruler in the Battle of Mingtiao. [6]
 
+## 400 BC event?
+
+The earliest record on the diversion of the Yellow River onto the North China Plain comes from the literature named Water Classics (Chen et al., 2012), which described this event as “the [Yellow] river moved at the fifth year of King Ding Wang”, implying that the first diversion of the Yellow River during the historical period occurred around 602 BCE.
+
+https://www.sciencedirect.com/science/article/abs/pii/S0031018223005278
+
+Zhou Dynasty frustratingly lacks history from this time, although perhaps that says something in of itself.
+
+https://en.wikipedia.org/wiki/Zhou_dynasty
+
+After 603 BC, China had its Warring States period.
+
 ## Yuan Empire Downfall - 1300 AD
 
 This all happened 700 years ago - during the Wolf Minimum. "This is what seems to have happened to the Yuan Empire in the fourteenth century. Historical records of this era are filled with natural disasters, especially between 1300 and 1359. This period witnessed a surge in every imaginable type of natural disaster all over the country: frequent super typhoons along the southeastern coast; recurrent floods of both the Yangtze and Yellow River deltas; locust plagues (associated with droughts) on the central plain; and two significant earthquakes in central China in 1303 and 1305 that caused over 270,000 fatalities. Last but not least, a series of epidemics swept through the region between 1352 and 1362, the worst of which caused two hundred thousand deaths in the capital area alone in 1358. The Chinese scholar He Fuqiang has calculated that, in the 109 years between 1260 and 1368, the empire suffered at least two major disasters per year, with five different disasters occurring in four out of every five years. For more than a third of the Yuan era, the empire experienced at least seven distinct natural calamities within the same year." - this all sounds a lot like what's going on across much of Asia right now. They must have had a lot of livestock to have caused such serious climate change 700 years ago.

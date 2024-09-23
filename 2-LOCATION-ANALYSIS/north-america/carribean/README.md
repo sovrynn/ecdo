@@ -24,6 +24,12 @@ In `EVIDENCE/earth-geo-state` there is info about a lake that was flooded with s
 
 Location of Lake Chichancanab from which this sample was taken [blue marker]. Mount Roraima [green marker]. At less than 100m above sea level, this area is 100% inundated.
 
+## La Venta (Veracruz)
+
+Abandoned 400 BC. Found buried.
+
+![](img/la-venta.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

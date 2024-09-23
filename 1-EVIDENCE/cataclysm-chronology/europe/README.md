@@ -68,6 +68,10 @@ Dated to 1519 BC. [8,9]
 
 Censorinus makes mention of this water/fire sequence as being coincident to a planetary cycle in De Die Natali (238 AD): "There is a period called 'the supreme year' by Aristotle, at the end of which the sun, moon and all the planets return to their original position. This 'supreme year' has a great winter, called by the Greeks 'kataklysmos', which means deluge, and a great summer, called by the Greeks 'ekpyrosis' or combustion of the world. The world, actually, seems to be inundated and burned alternately in each of these epochs".
 
+## 400 BC Helike event
+
+Helike (/ˈhɛlɪkiː/; Greek: Ἑλίκη, pronounced [heˈlikɛː], modern Greek pronunciation: [eˈlici]) was an ancient Greek polis (city-state)[1] that was submerged by a tsunami in the winter of 373 BC. Lines up with Alexander the Great 400 BC https://en.wikipedia.org/wiki/Helike
+
 ### Encke causing Ekpyrosis?
 
 Could this be ekpyrosis following katakysmos a few years later? The idea of us passing directly through the main stream is a serious consideration.

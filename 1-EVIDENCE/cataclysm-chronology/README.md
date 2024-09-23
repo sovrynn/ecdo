@@ -31,7 +31,11 @@ I just haven't found enough accounts of very serious floods or changing cosmic t
 
 ## Timeline of dateable myths
 
-400 BC: Alexander the Great Turkey deluge myth
+400 BC:
+- Alexander the Great Turkey deluge myth
+- Helike
+- La venta, veracruz, mexico
+- east asia lacks history from this time
 
 ~1700 BC event:
 - Greek flood (Deucalion, Ogyges, Dardanus): 1800 - 1528 BC
@@ -90,8 +94,6 @@ https://x.com/PadrePlyo/status/1837620633582424527 pretty smart way to figure ou
 # TODO
 
 Lost continent myths: https://www.msn.com/en-gb/news/world/inside-the-atlantis-of-the-sands-which-was-buried-in-storm-and-five-other-lost-worlds/ar-BB1hI3R5?ocid=winp2fptaskbarhoverent&cvid=7eb2de7e28e7479ab75829283da7b2a3&ei=8
-
-400 bc helike tsunami event: https://en.wikipedia.org/wiki/Helike
 
 - turkey?? i still dont get this one
 
