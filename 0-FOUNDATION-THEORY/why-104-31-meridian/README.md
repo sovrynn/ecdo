@@ -8,11 +8,11 @@ The main clue that TES uses to postulate that the ECDO rotation consists of a 10
 
 The Khufu Pyramid is hypothesized to lie directly on the longitude line rotating to the pole, because this is the only way that the shafts in the pyramid would align with the poles in S1 and S2. This implies that it was intentionally built in that precise location.
 
-![](../../1-EVIDENCE/civilization-history/important-structures/khafre-khufu/img/khufu-tri.webp)
+![](../../1-EVIDENCE/civilization-remnants/important-structures/khafre-khufu/img/khufu-tri.webp)
 
 If you rotate this pyramid in any direction other than the one Ethical Skeptic hypothesizes, the observation shafts will not work - this is a foundational aspect of the hypothesis.
 
-More on the Khufu Pyramid in TES thesis [1] and `EVIDENCE/civilization-history/important-structures`.
+More on the Khufu Pyramid in TES thesis [1] and `EVIDENCE/civilization-remnants/important-structures`.
 
 ## Dzhanibekov: Least dense LLVP centroid [1]
 
@@ -22,9 +22,9 @@ The centroid of the least dense LLVP centroid lies in South Africa. This is hypo
 
 ## Paleomagnetic Data
 
-We have evidence of a rotation of the continents from paleomagnetic data that is in the same directions as predicted during S1 -> S2; see `EVIDENCE/cataclysm-remnants/paleomagnetic`.
+We have evidence of a rotation of the continents from paleomagnetic data that is in the same directions as predicted during S1 -> S2; see `EVIDENCE/physical-material/paleomagnetic`.
 
-![](../../1-EVIDENCE/cataclysm-remnants/paleomagnetic/img/laj-lund.webp)
+![](../../1-EVIDENCE/physical-material/paleomagnetic/img/laj-lund.webp)
 
 ## Mythical Evidence
 

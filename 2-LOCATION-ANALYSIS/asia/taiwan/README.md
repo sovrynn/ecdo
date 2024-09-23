@@ -4,9 +4,9 @@ Interesting spot. At first glance, it has very high elevation and relatively low
 
 ## Polynesian's Roots
 
-If you look in `EVIDENCE/civilization-history`, you'll see that Polynesians might be able to trace their roots back to Taiwan, indicating the island has safe locations. Certainly, given its very high elevation profile, there will be safe spots.
+If you look in `EVIDENCE/civilization-remnants`, you'll see that Polynesians might be able to trace their roots back to Taiwan, indicating the island has safe locations. Certainly, given its very high elevation profile, there will be safe spots.
 
-![](../../../1-EVIDENCE/civilization-history/img/polynesian.jpg)
+![](../../../1-EVIDENCE/civilization-remnants/img/polynesian.jpg)
 
 ## Mount Xueshan (Peak 3886m)
 

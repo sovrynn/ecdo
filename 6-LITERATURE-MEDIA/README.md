@@ -12,6 +12,10 @@ Best cataclysm compilations:
 - Frazer
 - Bruce Masse
 
+Geo/paleomagneticism:
+- Laj
+- Morner
+
 Haven't read yet:
 - Cuvier
 
@@ -24,6 +28,8 @@ https://libgen.is / https://annas-archive.org , where one can find pdf / epub fu
 https://sci-hub.se for papers
 
 filetype:pdf Google searches, Duckduckgo
+
+epub to pdf converter: https://www.freepdfconvert.com/epub-to-pdf#cid=xpkq97u5lj4c701d58crsi3thfj30nn7
 
 # TODO
 

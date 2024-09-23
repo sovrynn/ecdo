@@ -1,6 +1,6 @@
 # Solar Radiation
 
-What if, due to Earth's magnetic field weakening, we see intense solar radiation reaching the Earth's surface, causing intense heat and damaging living things? Firestorms are the second most mentioned occurence in Allan Delair's cataclysm compilation (`EVIDENCE/cataclysm-chronology/cataclysm-allan-delair`). Additionally, there are many instances of old cities having been destroyed by high temperatures, in the Middle East and Scotland (`EVIDENCE/civilization-history/destroyed-cities`). Could this have been caused by solar radiation during an ECDO?
+What if, due to Earth's magnetic field weakening, we see intense solar radiation reaching the Earth's surface, causing intense heat and damaging living things? Firestorms are the second most mentioned occurence in Allan Delair's cataclysm compilation (`EVIDENCE/cataclysm-chronology/cataclysm-allan-delair`). Additionally, there are many instances of old cities having been destroyed by high temperatures, in the Middle East and Scotland (`EVIDENCE/civilization-remnants/destroyed-cities`). Could this have been caused by solar radiation during an ECDO?
 
 ## Relation to human lifespan
 

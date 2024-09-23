@@ -34,6 +34,10 @@ The wording is unclear, but it seems that in the above quote, the Deluge was 290
 
 It seems like the 24 hours of Sun could have occurred during the rotation from S2 back to S1, since China, which had the great Gun-Yu flood, had 10 days of straight Sun as well, which would seemingly contradict this account.
 
+## 400 BC La Venta abandonment
+
+The pre-Hispanic city of La Venta appears to have been abandoned around 400 BC. https://es.wikipedia.org/wiki/La_Venta#Historia
+
 ## Nahua/Aztec Five Suns [3]
 
 4 cataclysms in Aztec mythology: "In creation myths, the term "Five Suns" refers to the belief of certain Nahua cultures and Aztec peoples that the world has gone through five distinct cycles of creation and destruction, with the current era being the fifth."
