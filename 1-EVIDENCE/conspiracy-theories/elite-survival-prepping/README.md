@@ -49,3 +49,11 @@ https://advocate.ng/inside-look-the-vault-of-knowledge-safeguarding-earths-histo
 Arch Mission Chairman Nova Spivack invited The Sun to see the first “Earth disk” being installed at the Hagerbach Test Gallery - a massive research and development facility hidden beneath a mountain... "We are overdue a geological cataclysm, not to mention cosmic energy bursts, and all the risks that humans themselves are causing - nuclear war, bio apocalypse, etc."
 
 https://www.thesun.ie/news/12039928/secret-project-save-world-apocalypse-world-war/
+
+## MSFT Underwater Data Center
+
+https://x.com/IntEngineering/status/1452651172469243904
+
+## IPFS, off-world data centers
+
+https://x.com/NoVaxForMePal/status/1529938570559078415

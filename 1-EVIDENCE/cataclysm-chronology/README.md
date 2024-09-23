@@ -83,6 +83,8 @@ An uncommonly specific description of cataclysmic geological process: "The king 
 
 # TODO
 
+Lost continent myths: https://www.msn.com/en-gb/news/world/inside-the-atlantis-of-the-sands-which-was-buried-in-storm-and-five-other-lost-worlds/ar-BB1hI3R5?ocid=winp2fptaskbarhoverent&cvid=7eb2de7e28e7479ab75829283da7b2a3&ei=8
+
 400 bc helike tsunami event: https://en.wikipedia.org/wiki/Helike
 
 - turkey?? i still dont get this one

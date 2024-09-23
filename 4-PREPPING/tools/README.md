@@ -30,6 +30,14 @@ How to retrieve it?: *"What goes up can always come down. Preprogrammed reentry,
 
 ![](img/crystal-data.jpg)
 
+## LoRA, LoRAWAN
+
+The technology blew me away.
+
+Check out this guy doing experiments with it https://youtu.be/eIdHBDSQHyw?si=zmIUSzsYxQqsHbLf
+
+This kind of long range transmission was strictly in the realm of military applications up until a few years ago, to the best of my knowledge. Long range yet very low power.
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

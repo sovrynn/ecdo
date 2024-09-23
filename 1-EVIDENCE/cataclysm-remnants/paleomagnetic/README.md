@@ -67,6 +67,12 @@ https://watchers.news/2024/09/18/geomagnetic-excursions-over-the-last-10-000-yea
 
 Really would like to find the research paper cited in this article but it's behind a paywall: https://link.springer.com/article/10.1134/S1819714024700143
 
+## UK Recent Paleomagnetic
+
+It's a problem with shorter term proxies. They're generally softer and less stable than older material. More difficult to obtain good data from. I haven't seen many palaeomagentic proxies on that timescale at all. This one is from the UK.
+
+![](img/uk-paleomagnetic.jpg)
+
 ## South Atlantic Anomaly [3]
 
 The South Atlantic Anomaly (SAA) is an area where Earth's inner Van Allen radiation belt comes closest to Earth's surface, dipping down to an altitude of 200 kilometres (120 mi). This leads to an increased flux of energetic particles in this region and exposes orbiting satellites (including the ISS) to higher-than-usual levels of ionizing radiation.

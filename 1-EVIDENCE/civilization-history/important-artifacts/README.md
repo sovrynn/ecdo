@@ -44,6 +44,12 @@ They appear in various numbers of turns in many neolithic sites. The number of t
 2. https://www.landesmuseum-vorgeschichte.de/en/nebra-sky-disc/the-place-of-discovery
 3. https://www.tandfonline.com/doi/pdf/10.1080/1751696X.2024.2373876
 
+## Imago Mundi
+
+![](img/imago-mundi.jpg)
+
+https://ubique.americangeo.org/map-of-the-week/map-of-the-week-the-imago-mundi/#:~:text=A%20circular%20%E2%80%9Cbitter%20river%E2%80%9D%20or,that%20extend%20beyond%20the%20sea.
+
 ## Citations
 
 1. https://x.com/EthicalSkeptic/status/1832538729275117895?s=19

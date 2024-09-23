@@ -52,6 +52,10 @@ Putting it all together, the paths of rotation will look like this (Khafre pyram
 
 ![](../../6-LITERATURE-MEDIA/sovrynn/img/rotation-speed.png)
 
+Another good version [4]:
+
+![](../../6-LITERATURE-MEDIA/nobulart/img/rotation-speed2.jpg)
+
 ## S2 Equator Points
 
 The equator in S2 runs through the two pivots. It also runs through the points:
@@ -65,3 +69,4 @@ The equator in S2 runs through the two pivots. It also runs through the points:
 1. Axial tilt: https://en.wikipedia.org/wiki/Axial_tilt
 2. North magnetic pole: https://en.wikipedia.org/wiki/North_magnetic_pole
 3. TES ECDO thesis: https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
+4. [Craig Stone](https://nobulart.com)

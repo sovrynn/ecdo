@@ -29,6 +29,17 @@ Pike's Peak region in the US is the only place I've identified which is not over
 
 That said, 3,000ft anywhere east of the Rocky's is going to be overtopped by the Atlantic during S2>S1, without a doubt. There is overtopping erosion evidence throughout the entire Appalachian range, and the simple matter of it is that the Atlantic will reach hundreds of kilometers per hour traversing the eastern seaboard from the NE. Do not underestimate the amount of kinetic energy involved here.
 
+## Salt Deposits
+
+I've only marked a few of the deposits.
+
+![](img/salt-notam1.jpg)
+![](img/salt-notam2.jpg)
+![](img/salt-notam3.jpg)
+![](img/salt-notam4.jpg)
+![](img/salt-notam5.jpg)
+![](img/salt-notam6.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
