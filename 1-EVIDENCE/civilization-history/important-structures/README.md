@@ -34,6 +34,43 @@ This would very likely have been expunged from recent records. His source would 
 
 https://nobulart.com/the-hermetic-key/
 
+## 3 Oldest Castle Fortifications
+
+### Citadel of Aleppo
+
+3,000 YBP. 400m asl. 40m [typo corrected] elevation above the surrounding ground.
+
+![](img/citadel-of-aleppo.jpg)
+
+https://en.wikipedia.org/wiki/Citadel_of_Aleppo
+
+### Masada, Israel
+
+Masada. Israel. 1st cenutry BCE. Its boaty.
+
+![](img/masada1.jpg)
+![](img/masada2.jpg)
+
+https://en.wikipedia.org/wiki/Masada
+
+### Citadel of Arwad, Syria
+
+Citadel of Arwad, Syria. 3rd millennium BC. An historic Templar stronghold.
+
+![](img/citadel-of-arwad1.jpg)
+![](img/citadel-of-arwad2.jpg)
+![](img/citadel-of-arwad3.jpg)
+
+https://en.wikipedia.org/wiki/Arwad
+
+## Island of Arwad Megawall
+
+They built a 10m high wall around the entire island. I’m guessing it wasn’t to keep the crabs off the beaches. 
+
+![](img/arwad.jpg)
+
+https://x.com/andtartary2/status/1834082117552406642?s=46
+
 ## Great Circle Artifacts
 
 ![](img/great-circle-artifacts.jpg)
@@ -45,14 +82,6 @@ https://www.youtube.com/watch?v=PiQL5yVpWig
 ## Khara Hora Underground Cave
 
 https://m.youtube.com/watch?v=akmKO2pgdTY&t=2s
-
-## Island of Arwad Megawall
-
-They built a 10m high wall around the entire island. I’m guessing it wasn’t to keep the crabs off the beaches. 
-
-![](img/arwad.jpg)
-
-https://x.com/andtartary2/status/1834082117552406642?s=46
 
 ## Pyramid - Eight Parts
 

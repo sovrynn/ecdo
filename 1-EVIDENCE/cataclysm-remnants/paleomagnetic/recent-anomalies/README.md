@@ -36,9 +36,15 @@ Added 5400 BP. That's some serious ice-melt in the bond cycle. I've also overlai
 
 https://www.ipgp.fr/~legoff/Download-PDF/Archeomag/GalletEtAl_EPSL2006.pdf
 
-## Geomagnetic excursion 2500 ybp
+## Russia peat deposits - Geomagnetic excursion 2500 ybp
+
+A new study published in the Russian Journal of Pacific Geology looks into geomagnetic excursions over the last 10 000 years utilizing peat deposits from Russia’s Khabarovsk Territory. The study called into attention the importance of understanding these transitory shifts in Earth’s magnetic poles, which differ from total geomagnetic reversals and impact climatic and environmental circumstances. 
 
 "The most recent magnetic excursion occurred 2 500 years ago, during which the North Magnetic Pole moved to southern latitudes before returning to its original position. This event is indirectly supported by research from Japanese scientists. In 2019, they published a study based on ancient Assyrian clay tablets that contained records of the northern lights seen over Assyria 2 500 years ago. These sightings occurred at 30 – 40 degrees north latitude, where auroras are not seen today due to the current position of Earth’s magnetic poles."
+
+One of the study’s primary results is a clear link between the 1 700-year harmonic and multiple Bond events, which are significant climatic occurrences associated with changes in global temperature and environmental circumstances.
+
+The research also offered light on geomagnetic excursions, such as the Etruscan and Solovki, and their potential impact on climate.
 
 https://watchers.news/2024/09/18/geomagnetic-excursions-over-the-last-10-000-years/
 
@@ -57,3 +63,15 @@ It's a problem with shorter term proxies. They're generally softer and less stab
 ![](img/sterno-estrussia.jpg)
 
 https://journals.uair.arizona.edu/index.php/radiocarbon/article/viewFile/4201/3626
+
+## South America
+
+https://www.sciencedirect.com/science/article/pii/S0016716915000100
+
+Hard copy in this folder.
+
+# TODO
+
+The research also offered light on geomagnetic excursions, such as the Etruscan and Solovki, and their potential impact on climate.
+
+Solovki excursion dated at 4.5–7.5 ka BP (Guskova et al., 2008)

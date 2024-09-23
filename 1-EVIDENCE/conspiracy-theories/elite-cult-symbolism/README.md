@@ -29,6 +29,28 @@ The book in question is Sitchen's The 12th Planet (Cue groans). I am a aware tha
 
 I sometimes wonder whether the two great pyramids are in actual fact the pillars of Joachim and Boaz, and the recorded knowledge was stored in the sarcophagi, possibly along with an operators handbook for the pyramids themselves. This would suggest that pretty much everything we've been told about what came out of there was fabricated to cover the true discovery. Not beyond the realm of possibility at this point.
 
+## The Templars (The Knights of Malta)
+
+The Templars are also connected to Rosslyn Chapel - a scale model of Solomon's Temple (using stone likely imported from Jerusalem). I find it interesting that this masonic order is quite deeply connected to Arwad, being one of the oldest 'modern' strongholds at least since post-1700BC.
+
+![](img/templars1.jpg)
+![](img/templars2.jpg)
+![](img/templars3.jpg)
+
+"The design for the Temple of Solomon was a double square, and the same is true for Rosslyn Chapel, the centre being marked by the fourth pillar from the west. Knight and Lomas have overlain the ground plan of the Temple of Solomon with that of Rosslyn Chapel. In their layout, the Apprentice Pillar falls on the location of Boaz and the Master Pillar on that of Jachin. These are the central pillars that play an important role in the Masonic ceremonies. The legend goes that the knowledge of the antediluvian world, imparted to mankind by Shemhazai and his fellow Watchers (that is, the sciences, and more particularly, the arts and astronomy), had been inscribed by Enoch on two pillars. Freemasonic legends state that one of these pillars was later discovered by King Solomon when he built his Temple. This explains why the Temple is so important to the ideology of Freemasons, for they believe that their Temple incorporates this knowledge. The Temple of Solomon faced due East and in front of its Eastern entrance were two pillars. However, there is no entrance in the East of Rosslyn Chapel, unless one counts the entrance “from the underworld”, from the crypt. In mythology, the World Ash Tree connects earth to heaven, but it has also been erected on a square stone, the so-called foundation stone, which holds back the waters from the Abyss, or the Underworld. Intriguingly, the Apprentice Pillar stands immediately next to the “entrance to the underworld” of the chapel, the crypt.
+
+The square, and by extension the cube (see also the “musical cubes” in the Lady Chapel), right next to the “abyss of the chapel” and the Apprentice Pillar, are linked to Saturn. In Greek mythology, according to Orpheus, the god Saturn (who was known to the Greeks as Chronos), was said to have dwelled amongst Mankind. In that respect, he resembles the “Watchers” and their leader, Shemhazai, also depicted in the Lady Chapel. This square, the foundation stone, is often described as “a stone upon which rests a pillar that reaches from earth to heaven”. Again, a reference to the Apprentice Pillar, which together with the other pillars, sustains the ceiling, one part of which is depicted literally as a starry heaven. It is said that when this foundation stone was removed from underneath the World Tree, the Flood or Deluge occurred. In Biblical mythology, the only person to survive this cataclysm was Noah. Mythology also links the foundation stone with Noah’s Ark and, in Egyptian mythology, with the box/coffin of Osiris, which carried his body over the river Nile." - The Stone Puzzle of Rosslyn Chapel, Philip Coppins (2011)
+
+The coffin of Osiris floating over the Nile is possibly linked to the Floating Coffer.
+
+https://en.wikipedia.org/wiki/Rosslyn_Chapel
+
+## Enneagram
+
+The top diagram is from Rosslyn Chapel : The Music of the Cubes by Thomas Mitchell (2006). Excerpts include reference to the importance of the 4th and 5th harmonics in music.
+
+![](img/enneagram.jpg)
+
 ## Snowpiercer [1]
 
 A short chat with GPT about Snowpiercer: https://chatgpt.com/share/070e9343-c809-4d28-ae2e-96925f30acef
