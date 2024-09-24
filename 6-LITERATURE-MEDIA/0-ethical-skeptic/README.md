@@ -30,7 +30,3 @@ Hard copies taken September 21, 2024.
 ## Contents
 
 - `theory-part-[1-3]`: My personal quote compilations and short summaries of Ethical Skeptic's theses.
-
-## Citations
-
-1. https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/

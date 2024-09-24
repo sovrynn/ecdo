@@ -4,13 +4,30 @@ This folder is for script(s) that take Markdown and generate PDFs, embedding ima
 
 ## Instructions
 
-Run: pip install reportlab markdown Pillow
+Run:
+- pip install reportlab markdown Pillow
+
+Install cairo: https://formulae.brew.sh/formula/cairo
+
+Install gi: https://pygobject.gnome.org/getting_started.html#macosx-getting-started
+
+Install rsvg: https://superuser.com/questions/877904/installing-rsvg-on-a-mac
 
 Prepare input file `input.txt`.
 
-Run: python generate_pdfs.py input.txt
+You need to download the font .tff files into this directory as well.
 
-## Prompt
+Run the script. No input args.
+
+## Notes
+
+For ease of use to mitigate the following anomalies, I recommend copying the directory you want to generate. Adding in the new formattings. And then deleting the directory afterwards:
+- Blanklines won't get stripped. Actually a pro - it can help you adjust the spacing manually.
+- It doesn't format lists in a special way. I removed it from the script because it wasn't working. Manually format them yourself.
+- Header formatting doesn't work right. Use 3 header levels max.
+- It can't handle webp files. It'll generate png conversion files and then embed those. Annoying if you run it on the original repo as you'll get a bunch of useless new duplicate image files.
+
+## Prompt creation
 
 Write a python script that takes an input directory along with other formatting parameters read from an input file, and for each Markdown file (.md) in the input directory, generates a properly formatted PDF, which also embeds images that are embedded in the Markdown files.
 
@@ -28,8 +45,8 @@ The input file will have each input parameter on its own line. The following par
 
 It should incorporate some basic Markdown formatting primitives:
 - Headers should be scaled starting from the smallest header type included in the README file. These will have the "smallest header font size". From then on, each larger header will have its fontsize incremented by the "header scaling increment". Headers should be bolded if the "header bold boolean" is 1.
-- Markdown links should be embedded in the PDF, taking into account that Markdown links have the link text in brackets and the link URL in parentheses.
-- Bolded and italicized markdown text should be respectively bolded and italicized in the PDF.
+- Markdown links should be embedded in the PDF, taking into account that Markdown links have the link text X in brackets and the link URL Y in parentheses. In the PDF, create a link with link text X and link URL Y.
+- Bolded (surrounded with double asterisks) and italicized (surrounded with single asterisks) markdown text should be respectively bolded and italicized in the PDF.
 - Numbered lists should be included as numbered lists.
 
 Formatting:
@@ -39,6 +56,7 @@ Formatting:
 - Use font "font".
 - All text not in a header should have font size "base font size".
 - Use a basic line spacing of "line spacing" throughout.
+- Lines that are separated by blank lines should, also in the PDF, be separated by blank lines.
 
 Image formatting:
 - Images should be centered, with an additional left/right margin of "image margin" in addition to "page margins", and should take up the full remaining space.

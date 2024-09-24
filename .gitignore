@@ -8,3 +8,5 @@ output.shp
 output.shx
 output.dbf
 output/
+*.ttf
+test
