@@ -123,14 +123,12 @@ def parse_markdown(markdown_text, styles, params):
         header_match = re.match(r"^(#{1,6})\s*(.*)", line)
         if header_match:
             header_level = len(header_match.group(1))
-            print(header_level)
             header_text = header_match.group(2).strip()
             # Apply bold and italic formatting
             header_text = process_inline_styles(header_text)
             # Get the style for this header level
             style_name = f"Heading{header_level}"
             if style_name in styles:
-                print("found styles")
                 style = styles[style_name]
             else:
                 style = styles["Normal"]
@@ -316,8 +314,6 @@ def generate_pdf(md_file_path, output_file_path, params):
     for level in range(smallest_header_level, 0, -1):
         size_increment = (smallest_header_level - level) * params["header_scaling_increment"]
         font_size = params["smallest_header_font_size"] + size_increment
-        print(f"size: {font_size}")
-        print(f"level: {level}")
         style_name = f"Heading{level}"
         header_style = ParagraphStyle(
             name=style_name,
