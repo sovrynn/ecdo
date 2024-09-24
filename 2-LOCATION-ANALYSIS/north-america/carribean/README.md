@@ -24,6 +24,18 @@ In `EVIDENCE/earth-geo-state` there is info about a lake that was flooded with s
 
 Location of Lake Chichancanab from which this sample was taken [blue marker]. Mount Roraima [green marker]. At less than 100m above sea level, this area is 100% inundated.
 
+## Salt Lakes
+
+As you can see, there's only one salt lake (Laguna Alchichica) I found in the mountainous areas of Mexico.
+
+![](img/salt-lakes.jpg)
+
+An indication that Mexico may be a "boat" during S1 to S2.
+
+## Olmec History
+
+When you consider that the Olmecs are the earliest civilization in Mesoamerica, popping up around 1400 BC, you wonder if they were able to survive the flip hypothesized around 1800 BC by staying in these boatish Mexican mountains.
+
 ## La Venta (Veracruz)
 
 Abandoned 400 BC. Found buried.

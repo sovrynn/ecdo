@@ -68,6 +68,14 @@ Sinking of the city of Dwarka might have been due to great flood. 5525 BCE is pr
 
 *"Thus flooding and Destruction of Krishna’s Dwarka occurred in 5525 BCE."* [3]
 
+## Sri Yukteswar Yuga Dating
+
+Kali Yuga of 1000 years has two sandhis of 100 years for a total of 1200 years. Dwapara Yuga of 2000 years has two sandhis of 200 years for a total of 2400 years. Treta Yuga of 3000 years has two sandhis of 300 years for a total of 3600 years. Satya Yuga of 4000 years has two sandhis of 400 years for a total of 4800 years. This makes for a total of 12,000 years for the cycle of the four yugas.
+
+https://www.vedanet.com/keys-to-the-yugas-or-cycles-of-the-ages-subyugas-in-the-sri-yukteswar-yuga-cycle/
+
+Aligned to a 3100 BC Kali Yuga start date, this places the end of Satya Yuga at 9100 BC. Still, Sri doesn't date Krishna to 3100 BC so I don't take this to be very substantial.
+
 ## Citations
 
 1. https://talkorigins.org/faqs/flood-myths.html#Tamil
@@ -83,8 +91,6 @@ Sinking of the city of Dwarka might have been due to great flood. 5525 BCE is pr
 
 - Prabhasa Kshetra, another sacred site near Dwaraka, is also said to have been partially submerged after Krishna’s departure.
 - The city of Shonitapura, ruled by the demon king Bana, was destroyed during the battles between Krishna and Bana.
-
-Sri Yukteswar yuga dating
 
 The Ramayana describes the destruction of Lanka, the kingdom of Ravana, after Rama's victory. While this does not involve a flood in the traditional sense, parts of Lanka are said to have been engulfed by the sea after Ravana’s defeat.
 
