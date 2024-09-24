@@ -48,8 +48,19 @@ Third cataclysm: "In a fit of rage, Tlaloc unleashed a rain of fire upon the ear
 
 Fourth cataclysm: "Chalchiuhtlicue was so crushed by these words that she cried blood for the next fifty-two years, causing a horrific flood that drowned everyone on Earth. Humans became fish in order to survive."
 
+## Olmecs
+
+The beginnings of Olmec civilization have traditionally been placed between 1400 BCE and 1200 BCE. [4]
+
+Perfect timeline for a civilization that survived a great cataclysm around 1800 BC.
+
+The first Olmec center, San Lorenzo, was all but abandoned around 900 BCE at about the same time that La Venta rose to prominence.[20] A wholesale destruction of many San Lorenzo monuments also occurred c. 950s BCE, which may indicate an internal uprising or, less likely, an invasion.[21] The latest thinking, however, is that environmental changes may have been responsible for this shift in Olmec centers, with certain important rivers changing course. [4]
+
+So many cataclysms.
+
 ## Citations
 
 1. https://zsitchinindex.wordpress.com/the-earth-chronicles-index/book-4-the-lost-realms/chapter-7-the-day-the-sun-stood-still/
 2. https://www.djmcadam.com/scheme-peruvian.html
 3. https://en.wikipedia.org/wiki/Five_Suns
+4. https://en.wikipedia.org/wiki/Olmecs

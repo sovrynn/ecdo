@@ -96,8 +96,10 @@ Now I haven't thoroughly vetted Compton's sources, but if accurate and in my vie
 
 ## Quotes
 
-### ch2
+### ch2 (pg 9)
 
 la venta
 
 olmec
+
+Rather than the olmec having "suddenly appeared", what if they were the only ones left after a cataclysm?

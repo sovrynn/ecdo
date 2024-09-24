@@ -4,7 +4,6 @@ This document is dedicated to exploring parts of the solar system which may affe
 
 ## Contents
 
-- `geomagnetism`: Dynamos.
 - `universe`: Information concerning the universe outside of Earth's solar system.
 
 ## 11-year Solar Cycle
