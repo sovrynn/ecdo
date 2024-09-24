@@ -65,10 +65,10 @@ def find_smallest_header_level(markdown_text):
 
 
 def process_inline_styles(text):
-    # Handle italic: *text*
-    text = re.sub(r"\*(.*?)\*", r"<i>\1</i>", text)
     # Handle bold: **text**
     text = re.sub(r"\*\*(.*?)\*\*", r"<b>\1</b>", text)
+    # Handle italic: *text*
+    text = re.sub(r"\*(.*?)\*", r"<i>\1</i>", text)
     # Handle links: [text](url)
     text = re.sub(r"\[(.*?)\]\((.*?)\)", r'<u><a href="\2">\1</a></u>', text)
     return text
@@ -113,8 +113,10 @@ def parse_markdown(markdown_text, styles, params):
     elements = []
     lines = markdown_text.splitlines()
     i = 0
+    citations = False
     while i < len(lines):
         line = lines[i].rstrip()
+        if line == "# Citations": citations = True
         if not line:
             # Blank line, add spacer
             elements.append(Spacer(1, params["line_spacing"] * params["base_font_size"]))
@@ -203,11 +205,14 @@ def parse_markdown(markdown_text, styles, params):
         #     i += 1
 
         # Regular paragraph
-        para_text = line.strip()
-        # Apply bold and italic formatting
-        para_text = process_inline_styles(para_text)
-        para = Paragraph(para_text, styles["Normal"])
-        elements.append(para)
+        if citations == False:
+            para_text = line.strip()
+            # Apply bold and italic formatting
+            para_text = process_inline_styles(para_text)
+            para = Paragraph(para_text, styles["Normal"])
+            elements.append(para)
+        else:
+            elements.append(Paragraph(line, styles["Normal"]))
         i += 1
 
         # list_match = re.match(r"^(\d+)\.\s+(.*)", line)

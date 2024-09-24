@@ -119,11 +119,17 @@ Now that you have done that, let’s proceed onward through this chain of critic
 In order to understand this correlation mismatch, one must understand what is occurring in Exhibit 2A above. The two regressions – regressions of both Y-axis 1 – ΔT or global temperature anomaly and Y-axis 2 – Mauna Loa measured carbon ppm – are aligned manually and made congruent so as to remove any reference range bias. This allows the reader to make observation in perspective to a tight relationship between carbon ppm measures at the Mauna Loa NOAA observatory and the global temperature increases since 1958.21 22 But one must remember that this apparent tight relationship is forced by me, through an annual and necessary adjustment of the two-axis regression alignment. If I apply this same regression alignment (the straight line in the graphic to the right) to other timeframes as well, suddenly the two curves do not match up as cleanly.
 
 However, of key note even inside this clean and annually re-aligned graphic are several observations:
+
 - Atmospheric CO2 levels are increasing by a power arrival function (acceleration). A power function suggests that either the underlying principle driving this CO2 increase also features a non-linear arrival or two impelling factors or more are underway, not just one: the primary carbon motive force itself and the mechanism of impetus behind its acceleration. This because,
+
 - Economic activity levels on the part of man are not increasing by a power law, but are linear – nor even this fast in slope. Moreover, there was no slowdown in carbon ppm trends attributable to the global economic depression from 2008 – 2012 – and there should have been one.
+
 - Successful programs to cut fossil fuel emissions, such as China’s much lauded “decision to cut its fossil fuels emissions nearly in half (saving 2.4 million lives worldwide, including 1.5 million lives in China) from 2012 to 2018” have produced no appreciable effect on observed carbon ppms (see Exhibit 2A).23
+
 - Global temperature increases are rising linearly, while carbon ppm mole fractions appear to be forced by this metric, and not the cause of it (derivative of/dependent upon). The CO2 relationship features a responsive, not causal, acceleration (linear anthropocentric and unacknowledged natural acceleration serving a power law acceleration). This was corroborated by specific cause-to-effect observations in Mar – Apr of 2023 (see Exhibit 7A).
+
 - There is no acceleration-to-acceleration relationship anywhere inside this relational data. There is one discrete change in temperature trend at 1965, a trend which remains linear until 2016 – yet carbon ppm are in continuous acceleration the entire time.
+
 - Therefore, the viable mechanism of CO2 increase is as a direct dependency/functional derivative of temperature, and not independence as a model variable (deductive proof shown in Exhibit 7A – Global 2023 ENSO Event).
 
 *Oddly, while the principal direction suggested by [traditional climate] models is Δln[CO2]→Δ𝑇, the explained variance is impressively low (10–15%) in this direction and impressively high (reaching 90%) in the opposite direction, Δ𝑇→Δln[CO2].*
@@ -165,7 +171,9 @@ Read on, and I believe that what is proposed herein stands as a reasonable case 
 The inference to be drawn from Observations 1, 1A, 1B, 2, and 3 above supports the construct (pre-hypothesis) that something else may be driving the production of CO2 and methane emissions into the atmosphere aside from simply man. That something else is
 
 - a strong independent input heat-variable which is already hotter than historical without external impetus,
+
 - functions independent of carbon and methane emissions, and
+
 - is at the same time causing the planet’s oceans to warm at a rate unachievable through man’s activity alone.
 
 This heat is behaving like a strong independent input variable and not constrained-dependent output result. If climate heat is a constrained-dependent output, and we have sufficient grasp of its dynamics to begin to blame specific companies, peoples and countries for climate change, then our models necessarily should have predicted this 2020 temperature rise phenomenon as well. Yet our models were not successful in doing so. This is inductive (heteroductive) inference to be sure, but is also strong enough in terms of inferential merit to introduce Ockham’s Razor plurality. Something is wrong in the epistemic sauce, and the 2020 Covid-19 experiment demonstrated this in spades. We need science now, not tantrums.
@@ -177,6 +185,7 @@ The next question along such a critical path of inquiry would be, from whence do
 ![](img/9.webp)
 
 **Exhibit 4A** – Four NOAA stations show sea level increases; however, also show that mean sea level range is also increasing. The 25% increase in MSL Range indicates that ocean currents have sped up 15% since 1973. This requires a substantially larger amount of energy than climate models can attribute to Earth’s atmosphere alone.
+
 I took a sample of five decades of NOAA Tidal Station mean sea level (MSL) data from the tidal stations at Annapolis, Maryland, Bar Harbor, Maine and Montauk, New York.28 As well I ran another analysis for 52 years at NOAA’s Lewisetta, Virginia station (The reader can observe this compiled data in Exhibit 4A’s two panels to the right). I chose four geographically proximal sea and temperature monitoring stations in order to observe any common signal inside their data. But four also with sufficient variance in terrain so that constrictions from geographic coastal formations did not come into play within the MSL range data. The critical path issue involved regards the red variance-range bands surrounding the mean sea level rise in panel two, or yellow MSL Range trend line in panel one, of Exhibit 4A.
 
 Yes, it is clear that mean sea level (MSL) is rising – and this does concern me greatly. But mean sea level ranges differently by year, based on the timing of the moon. The magnitude of this variance range itself should not increase over a mere five (nor even two) decades (and the gamut of lunar periodicity), under a simple rise-in-sea-level scenario. Yet it is. The variance range of the annual MSL is itself increasing. There exists only a very small set of possibilities by which this can occur over a large geographic region (as sampled above) – that is by a change in the position of the Moon (which we know has not occurred), a change in height (altitude) of the landmass or local ocean bottom, or by a change in local upper mantle gravitational effect upon the ocean immediately above it. Or are these indeed the only possibilities? Let’s think outside the box a little bit more.
@@ -200,6 +209,7 @@ Therefore, a reasonable deductive (not inductive nor affirming) contention can b
 ![](img/10.webp)
 
 **Exhibit 5A** – Higher range of Schumann Resonance bands typical of the last few decades.
+
 It is a well-established fact that the global Schumann Resonance range banding-power peak serves as a very precise indicator of global temperatures.34 35 Recent Schumann Resonance banding-power (not the frequencies themselves as has been errantly reported by some sources36) has ranged upwards through more of the higher frequencies inside the established eight resonance harmonics (six of which manifest in the Exhibit 5A example to the right); indicating a weakening in the Earth’s magnetic moment generated from its solid core.37
 
 *A comparison of electromagnetic and temperature data indicated that there is a link between the annual variation of the Schumann resonance intensity and the global temperature.*
@@ -211,6 +221,7 @@ This weakening of the Earth’s magnetic moment as indicated by the chaotic powe
 ![](img/11.webp)
 
 **Exhibit 5B** – Acceleration and weakening of geomagnetic North Pole comes commensurate with global temperature increases. This is not a mere ‘correlation’, and bears direct mechanism.
+
 The Earth’s geomagnetic north pole has wandered significantly in the last two to four decades. During this period, the geomagnetic north pole rate of drift accelerated to an average speed of 55 kilometers (34 miles) per year.38 39 One can observe this acceleration in the migration of the geomagnetic north pole in the yellow dots inside the top panel of Exhibit 5B to the right, obtained from the Nation Centers for Environmental Information of NOAA (click on image to see an enlarged version).40 These yellow balls reflect the movement of the north geomagnetic pole just since 1973, while the remainder of the colors cover the timeframe back to 1590. This as well comes commensurate with a pronounced weakening of the Earth’s magnetic moment. As well, in the bottom panel of Exhibit 5B, one can observe how well this pole wandering matches the increase in northern hemisphere temperatures – with an inflection point for both data sets demarcated in 1973 – making this more than simply a ‘correlation’.41
 
 *It’s well established that in modern times, the axial dipole component of Earth’s main magnetic field is decreasing by approximately 5% per century. Recently, scientists using the SWARM satellite announced that their data indicate a decay rate ten times faster, or 5% per decade.*
@@ -322,12 +333,19 @@ Indeed, there exists no thermodynamic mechanism involving the sun or Earth’s a
 Inferences drawn from Exhibits 7A, B, and C above:
 
 1. CO2 rises are primarily (see 50% ENSO CO2 jump in Exhibit 7A) caused by ENSO-style natural geothermal heat phenomenon and not solely mankind’s activity.
+
 2. Atmospheric CO2 rises are forced by ocean temperatures and follow the increase in sea surface temperatures, not vice-versa.
+
 3. The 2023 Keeling CO2 peak was actually lower than that of 2022. The only reason it ended up higher (after its normal peak timeframe) was as a result of this 3-week ENSO heat plume alone.
+
 4. Atmospheric 2-meter air temperatures follow the increase in sea surface temperatures, not vice-versa.
+
 5. Record setting wildfires occur out of season, and in a susceptible location coincident with an already extant SST and subsequent 2-meter air temperature surge.
+
 6. Two comprehensive sensitivity factors show in the Keeling Curve: solar seasonal geographic latitude and ENSO geothermal heat plumes (see Exhibit 9C). These two factors describe 100% of the observed climate SST (and consequently 2-meter air temperature) dynamic.
+
 7. Antarctic sea ice extent responds rapidly and sensitively to another factor, which is not solar or atmospheric in its origin – the 2023 response was observed in winter.
+
 8. Therefore, an abyssal ocean heat signature must be conjectured and tested in order to fully satisfy this observation set (tabled until Observation 10 below).
 
 Nonetheless, the bottom line is this, and it is inescapable. Such temperature-driven effects happen far too quickly (core mass shifts – see 2006 and 2016 x-Pole arcsecond shifts). Only related core activity can serve to precipitate these rather substantial kinetic energy plumes (see March – Aug 2023) into the mantle, within the observed matter of weeks. In addition, once these sudden releases of thermal energy arrive, the climate’s Sea Surface Temperature (SST) even regresses for about 15 years before the next heat pulse arrives. This very much exhibits the profile of a natural cycle, as shown in Exhibit 7D below.
@@ -345,7 +363,9 @@ The increase in heat content of just 1% (60 ft of surface ocean) of ocean (very 
 Which of course segues well into our next topic, the increase in mantle-derived earthquake and volcanic activity globally.
 
 1. *The dependence of the carbon cycle on temperature is quite strong and indeed major increases of [CO2] can emerge as a result of temperature rise. In other words, we show that the natural [CO2] changes due to temperature rise are far larger (by a factor > 3) than human emissions (Appendix A.1).*
+
 2. *There are processes, such as the Earth’s albedo (which is changing in time as any other characteristic of the climate system), the El Niño–Southern Oscillation (ENSO) and the ocean heat content in the upper layer (represented by the vertically averaged temperature in the layer 0–100 m), which are potential causes of the temperature increase, unlike what is observed with [CO2], their changes precede those of temperature (Appendix A.2, Appendix A.3 and Appendix A.4).*
+
 3. *On a large timescale, the analysis of paleoclimatic data supports the primacy of the causal direction T → [CO2], even though some controversy remains about this issue (Appendix A.5)66*
 
 *~ Koutsoyiannis et al., On Hens, Eggs, Temperatures and CO2: Causal Links in Earth’s Atmosphere, 2023*
@@ -597,7 +617,9 @@ Now with all of this observation set under our belt, let’s examine the alterna
 **Exhibit A** – one IPGP/CNRS conjectured simulation of measured heat flows inside Earth’s outer core.
 
 2.  The exothermic heat content from this eventually reaches Earth’s asthenosphere. Deep crude acyclic alkane pockets are heated and accelerate fractional and volatile organic compound release into atmosphere. Methane ppms far outpace model predictions. Carbon-12-rich oceans and now-warmer tundra each spring solar warming, both release proportionally more carbon.
+
 3.  Abyssal ocean conveyance belts pull novel heat content from small-footprint yet now much hotter contribution points exposed to the asthenosphere – and convey (not conduct, convect, nor radiate) this novel heat content through oceanic advection and upwelling systems to the surface of the ocean. Abyssal ocean currents (and consequently surface ones as well) speed up from the discrete addition of kinetic energy. Arctic and Antarctic polar ice sheets melt rapidly in winter from the bottom up. Land desiccates more quickly and wildfires erupt earlier and out-of-season, especially near heat plumes.
+
 4.  Ocean heats atmosphere (or fails to cool it as well as it once did) much more readily than atmosphere heats ocean. This exothermic core-to-mantle equilibrium is cyclic, and can and will eventually reverse.
 
 Please note: I speculate under this construct that, once the core crosses the exothermic inflection point and begins to accrete HCP NiFe once again, mantle up-convection currents diminish significantly in their kinetic and heat potential and the inner core falls/snaps very rapidly back into a fully aligned macro-bravais (a large crystalline structure) and state of magnetic permeability. Earth’s rotation speeds up, the magnetic dipole increases in strength, and temperatures plummet accordingly, perhaps catastrophically.107
@@ -643,10 +665,15 @@ Below one can see a simulation developed by Nathanaël Schaeffer and his team at
 Key elements to note with regard to the 2017 IPGP/CNRS simulation depicted below:119
 
 1. Outer Core Cycling – Outer core material plumes exhibit low viscosity and move much faster than we had assumed, with an estimated IPGP/CNRS Cycle of around as little as 2 to 4 years from inner core to mesosphere (one cycle in the decadal IPGP/CNRS simulation below). This hypothesis assumes that a similar effect is replicated in the mesosphere as well.
+
 2. Mantle Conduction Lag – Outer core released kinetic energy moves through the mesosphere far faster than does the physical mantle material itself. The distance to be traversed is 1,790 miles. In order to resolve the observations suggested in Exhibit 6B for instance, the ΔT kinetic energy (remember, the mesosphere is an electrical conductor-resistor in an exotic material state, and is not simply a cold hunk of Fourier-iron conducting heat. This kinetic energy transfer effect involves both electrical as well as classic heat transfer dynamics) would need to traverse the mantle at a net 270 – 300 ft per hour, or around 5 ft/min through flows of electrical conduction-to-resistance, radiation, convection, and classic heat conduction by means of, only in part, Fourier’s law.120 This is well within the realm of physical feasibility in a high-pressure, spherical, high KE, energized molten-bravais/free-electron environment.121 However, it should also be noted that this hypothesis does not critically depend upon a specific velocity of heat transfer from inner core to hydrosphere.
+
 3. Heat plumes bear the potential of enormous variances in their ΔT content.
+
 4. Heat content inside the outer core (and by inference, mantle) is fed by ‘geostrophic jets’ of HCP—>BCC/FCC energized NiFe materials being ejected from the outer core.
+
 5. This process will likely bear a cyclic nature to it, as it is constantly changing.
+
 6. **The Schaeffer study cited that, as the magnetic field strength of the Earth weakens, the kinetic potential of the upwelling advection increases up to ten-fold.122**
 
 ### Inner/Outer Core Equilibrium HCP => FCC/BCC + KE Sloughing
@@ -692,129 +719,255 @@ The Ethical Skeptic
 # Citations
 
 1. Penny Starr; Breitbart News: Politics: Study: Oceans Heating up Like ‘3.6 Billion Hiroshima Atom-Bomb Explosions’; 15 Jan 2020; https://www.breitbart.com/politics/2020/01/15/study-oceans-heating-up-like-3-6-billion-hiroshima-atom-bomb-explosions/
+
 2. Cheng, Abraham, et. al.; Record-Setting Ocean Warmth Continued in 2019; Advances In Atmospheric Sciences, Vol. 37, Feb 2020, 137–142 https://link.springer.com/content/pdf/10.1007%2Fs00376-020-9283-7.pdf
+
 3. Durack, Gleckler, et.al.; Ocean Warming: From the Surface to the Deep in Observations and Models; Oceanography; 9 Dec 2018; https://tos.org/oceanography/article/ocean-warming-from-the-surface-to-the-deep-in-observations-and-models
+
 4. Desbruyeres, D.G., S.G. Purkey, E.L. McDonagh, G.C. Johnson, and B.A. King. 2016. Deep and abyssal ocean warming from 35 years of repeat hydrography. Geophysical Research Letters 43(19):10,356–10,365, https://doi.org/​10.1002/2016GL070413.
+
 5. National Oceanic and Atmospheric Association: What is Ocean Acidification?; https://oceanservice.noaa.gov/facts/acidification.html
+
 6. Dorato, Mauro, 2004, “Epistemic and Nonepistemic Values in Science”, in Machamer and Wolters 2004: p. 57.
+
 7. Contessa G. On the mitigation of inductive risk. European Journal for Philosophy of Science. 2021 ;11(3):64. DOI: 10.1007/s13194-021-00381-6. PMID: 34249184; PMCID: PMC8261402.
+
 8. The Ethical Skeptic, “The Elements of Hypothesis”; The Ethical Skeptic, WordPress, 4 Mar 2019; Web, https://wp.me/p17q0e-94J
+
 9. Marlowe Hood; Phys.Org: Environment: Earth warming more quickly than thought, new climate models show; 17 Sep 2019; https://phys.org/news/2019-09-earth-quickly-climate.html
+
 10. U.S. Department of Commerce; National Oceanic & Atmospheric Administration; NOAA Research; Global Greenhouse Gas Reference Network; Trends in Atmospheric Carbon Dioxide: Mauna Loa: CO2 weekly mean and historical comparisons; ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_weekly_mlo.txt
+
 11. CO2 Level Measures – Flask: Mauna Loa Observatory, Hawaii, NOAA ESRL Data FTP Download: ftp://aftp.cmdl.noaa.gov/data/trace_gases/co2/flask/surface/co2_mlo_surface-flask_1_ccgg_month.txt
+
 12. Global Temperature Data:  GISTEMP Team, 2019: GISS Surface Temperature Analysis (GISTEMP v4). NASA Goddard Institute for Space Studies. Dataset accessed 2019-07-27 at https://data.giss.nasa.gov/gistemp/; HTML Download
+
 13. Popkin, Gabriel; Forests Emerge as a Major Overlooked Climate Factor; Quanta Magazine, 9 Oct 2018; https://getpocket.com/explore/item/forests-emerge-as-a-major-overlooked-climate-factor?utm_source=pocket-newtab
+
 14. IEA (2021), Global Energy Review: CO2 Emissions in 2020, IEA, Paris https://www.iea.org/articles/global-energy-review-co2-emissions-in-2020
+
 15. Dr. Pieter Tans, NOAA/GML (www.esrl.noaa.gov/gmd/ccgg/trends/) and Dr. Ralph Keeling, Scripps Institution of Oceanography (scrippsco2.ucsd.edu/)
+
 16. US Energy Information Administration: Short-term Energy Outlook: Global Liquid Fuels; https://www.eia.gov/outlooks/steo/report/global_oil.php
+
 17. Wikipedia: List of countries by greenhouse gas emissions: https://en.wikipedia.org/wiki/List_of_countries_by_greenhouse_gas_emissions
+
 18. Dr. Pieter Tans, NOAA/GML (www.esrl.noaa.gov/gmd/ccgg/trends/) and Dr. Ralph Keeling, Scripps Institution of Oceanography (scrippsco2.ucsd.edu/)
+
 19. Andrea Thompson; Scientific American; NASA Says 2020 Tied for Hottest Year on Record; 14 Jan 2021; https://www.scientificamerican.com/article/2020-will-rival-2016-for-hottest-year-on-record/
+
 20. NASA; 2020 Tied for Warmest Year on Record, NASA Analysis Shows; 14 Jan 2021; https://climate.nasa.gov/news/3061/2020-tied-for-warmest-year-on-record-nasa-analysis-shows/
+
 21. CO2 Level Measures – Flask: Mauna Loa Observatory, Hawaii, NOAA ESRL Data FTP Download: ftp://aftp.cmdl.noaa.gov/data/trace_gases/co2/flask/surface/co2_mlo_surface-flask_1_ccgg_month.txt
+
 22. Global Temperature Data: GISTEMP Team, 2019:GISS Surface Temperature Analysis (GISTEMP v4). NASA Goddard Institute for Space Studies. Dataset accessed 2019-07-27 at https://data.giss.nasa.gov/gistemp/; HTML Download
+
 23. Leah Burrows; Harvard John A. Paulson School of Engineering and Applied Sciences: “Deaths from fossil fuel emissions higher than previously thought”; 9 Feb 2021; https://seas.harvard.edu/news/2021/02/deaths-fossil-fuel-emissions-higher-previously-thought#
+
 24. Harde, Hermann. (2023). Science of Climate Change About Historical CO2-Data since 1826: Explanation of the Peak around 1940. 10.53234/scc202304/21.
+
 25. Koutsoyiannis D, Onof C, Kundzewicz ZW, Christofides A. On Hens, Eggs, Temperatures and CO2: Causal Links in Earth’s Atmosphere. Sci. 2023; 5(3):35. https://doi.org/10.3390/sci5030035
+
 26. Nikolov and Zeller; New Insights on the Physical Nature of the Atmospheric Greenhouse Effect Deduced from an Empirical Planetary Temperature Model; Environ Pollut Climate Change 2017, 1:2; https://www.omicsonline.org/open-access/New-Insights-on-the-Physical-Nature-of-the-Atmospheric-Greenhouse-Effect-Deduced-from-an-Empirical-Planetary-Temperature-Model.pdf
+
 27. Alex Newman; WND : World : Study blows ‘greenhouse theory out of the water’; 8 Jul 2017; https://www.wnd.com/2017/07/study-blows-greenhouse-theory-out-of-the-water/
+
 28. National Oceanic and Atmospheric Association: Tides & Currents: Water Levels by Tidal Station: 8575512 Annapolis, MD; 8413320 Bar Harbor, ME; 8510560 Montauk, NY; https://tidesandcurrents.noaa.gov/stations.html?type=Water+Levels
+
 29. Oliva Rosane; ‘A Little Shocking’: Ocean Currents Are Speeding up Significantly, Study Finds; 6 Feb 2020; https://www.ecowatch.com/ocean-currents-speeding-up-2645050924.html
+
 30. Dangendorf, S., Hendricks, N., Sun, Q. et al. Acceleration of U.S. Southeast and Gulf coast sea-level rise amplified by internal climate variability. Nat Commun 14, 1935 (2023). https://doi.org/10.1038/s41467-023-37649-9
+
 31. The Center for Science Education: How Melting Arctic Ice Affects Ocean Currents; https://scied.ucar.edu/learning-zone/climate-change-impacts/melting-arctic-sea-ice-and-ocean-currents
+
 32. Shijian et al.; “Deep-reaching acceleration of global mean ocean circulation over the past two decades”; https://www.science.org/doi/abs/10.1126/sciadv.aax7727
+
 33. Chelsea Harvey; Scientific American : The world’s winds are speeding up; 19 Nov 2019 https://www.scientificamerican.com/article/the-worlds-winds-are-speeding-up/
+
 34. Williams, E.R. (1992). “The Schumann resonance: a global tropical thermometer”. Science 256 (5060): 1184–1186. Bibcode: 1992 Sci…256.1184W. 10.1126/science.256.5060.1184. PMID 17795213
+
 35. M. Sekiguchi, M. Hayakawa, et. al.; Evidence on a link between the intensity of Schumann resonance and global surface temperature; Ann. Geophys., 24, 1809–1817, 2006 http://www.ann-geophys.net/24/1809/2006/; European Geosciences Union 2006
+
 36. Heartmath Institute: The Schumann Resonances are Not Increasing; 25 Apr 2017; https://www.diamondlightworld.net/blog/heartmath-institute-the-schumann-resonances-are-not-increasing
+
 37. Kei Hirose – Tokyo Institute of Technology “The Structure of Iron in Earth’s Inner Core” Shigehiko Tateno, Kei Hirose, Yasuo Ohishi, and Yoshiyuki Tatsumi; Science 330 (6002), 359 – 361 (2010), published online 15 October 2010
+
 38. Peter Dockrill; Nature: Earth’s Magnetic North Pole Keeps Moving Towards Siberia at a Mysteriously Fast Pace; 18 Dec 2019; https://www.sciencealert.com/earth-s-magnetic-north-pole-is-drifting-towards-siberia-at-a-mysteriously-rapid-pace
+
 39. Elizabeth Howell; Space.com: Is Earth’s Magnetic Field Flipping Soon?; 30 Jan 2019; https://www.space.com/43173-earth-magnetic-field-flips-when.html
+
 40. National Oceanographic and Atmospheric Association: Wandering of the Geomagnetic Poles; https://www.ngdc.noaa.gov/geomag/GeomagneticPoles.shtml
+
 41. Andy May; Watts Up With That: Michael Mann’s 2008 Reconstruction; 11 Jan 2021; https://wattsupwiththat.com/2021/01/11/michael-manns-2008-reconstruction/
+
 42. Varnes, Carniello, et al.; Quantification of the Diminishing Earth’s Magnetic Dipole Intensity and Geomagnetic Activity as the Causal Source for Global Warming within the Oceans and Atmosphere; 2016, International Journal of Geosciences, 2016, 7, 78-90; https://www.scirp.org/pdf/IJG_2016012913291358.pdf
+
 43. Wikipedia: Earth’s Rotation; https://en.wikipedia.org/wiki/Earth%27s_rotation#/media/File:Deviation_of_day_length_from_SI_day.svg
+
 44. NASA Study Goes to Earth’s Core for Climate Insights; https://www.nasa.gov/topics/earth/features/earth20110309.html: “The researchers found that the uncorrected temperature data correlated strongly with data on movements of Earth’s core and Earth’s length of day until about 1930. They then began to diverge substantially: that is, global surface air temperatures continued to increase, but without corresponding changes in Earth’s length of day or movements of Earth’s core.”
+
 45. Scientists at Columbia University’s Lamont-Doherty Earth Observatory have found that the Earth’s inner core is rotating faster than the outer planetary body itself.
+
 46. Richard Mackey, The Earth’s Decadal Rotation and Climate; Sci Clim Chan, Vol. 3.2 (2023), pp. 119-172; ISSN 2703-9072; https://scienceofclimatechange.org/wp-content/uploads/Mackey-2023-Decadal-Rotation-Climate.pdf
+
 47. S. I. Braginsky, MAC-Oscillations of the Hidden Ocean of the Core, Journal of geomagnetism and geoelectricity, 1993, Volume 45, Issue 11-12, Pages 1517-1538, Released on J-STAGE August 23, 2011, Online ISSN 2185-5765, Print ISSN 0022-1392, https://doi.org/10.5636/jgg.45.1517, https://www.jstage.jst.go.jp/article/jgg1949/45/11-12/45_11-12_1517/_article/-char/en
+
 48. Columbia University’s Lamont-Doherty Earth Observatory: Core Spins Faster Than Earth, Lamont Scientists Find; http://www.columbia.edu/cu/record/archives/vol22/vol22_iss1/Core_Spin.html
+
 49. Journal Article,A Hansen, Samantha E. et al.; Globally distributed subducted materials along the Earth’s core-mantle boundary: Implications for ultralow velocity zones; 2023 Science Advances, eadd4838 V9 N14; doi:10.1126/sciadv.add4838; https://www.science.org/doi/abs/10.1126/sciadv.add4838 : Ultralow velocity zones (ULVZs) are the most anomalous structures within the Earth’s interior; however, given the wide range of associated characteristics (thickness and composition) reported by previous studies, the origins of ULVZs have been debated for decades. Using a recently developed seismic analysis approach, we find widespread, variable ULVZs along the core-mantle boundary (CMB) beneath a largely unsampled portion of the Southern Hemisphere. Our study region is not beneath current or recent subduction zones, but our mantle convection simulations demonstrate how heterogeneous accumulations of previously subducted materials could form on the CMB and explain our seismic observations. We further show that subducted materials can be globally distributed throughout the lowermost mantle with variable concentrations. These subducted materials, advected along the CMB, can provide an explanation for the distribution and range of reported ULVZ properties. Anomalies along Earth’s core can be explained by former oceanic seafloor that descended 3000 km to the base of the mantle.
+
 50. Pang, G., Koper, K.D., Wu, SM. et al. Enhanced inner core fine-scale heterogeneity towards Earth’s centre. Nature (2023). https://doi.org/10.1038/s41586-023-06213-2
+
 51. Li, M., McNamara, A.K., Garnero, E.J. et al. Compositionally-distinct ultra-low velocity zones on Earth’s core-mantle boundary. Nat Commun 8, 177 (2017). https://doi.org/10.1038/s41467-017-00219-x
+
 52. Latzko L. Earth’s Tilt Explained. Popular Mechanics. Published December 22, 2021. Accessed April 4, 2024. https://www.popularmechanics.com/science/environment/a44882114/earths-tilt-explained/
+
 53. Richard Mackey, The Earth’s Decadal Rotation and Climate; Sci Clim Chan, Vol. 3.2 (2023), pp. 119-172; ISSN 2703-9072; https://scienceofclimatechange.org/wp-content/uploads/Mackey-2023-Decadal-Rotation-Climate.pdf
+
 54. Trevor Nace; Forbes: Earth’s Rotation Is Mysteriously Slowing Down: Experts Predict Uptick In 2018 Earthquakes; 20 Nov 2017; https://www.forbes.com/sites/trevornace/2017/11/20/earths-rotation-is-mysteriously-slowing-down-experts-predict-uptick-in-2018-earthquakes/?sh=40beb5386f24
+
 55. https://theethicalskeptic.com/wp-content/uploads/2023/09/July-2023-SST-Warming-Global.png
+
 56. Climate Reanalyzer: Daily Sea Surface Temperature; 18 May 2023; https://climatereanalyzer.org/clim/sst_daily/
+
 57. NOAA: Earth Systems Research Lab – Trends in Atmospheric Carbon Dioxide; 6 Jun 2023; https://gml.noaa.gov/ccgg/trends/weekly.html
+
 58. Climate Reanalyzer: Daily Sea Surface Temperature; 18 May 2023; https://climatereanalyzer.org/clim/sst_daily/
+
 59. Jacob Knutson, “Canada’s record-breaking wildfire crisis: By the numbers” Provided by Axios; https://www.msn.com/en-us/weather/topstories/canadas-record-breaking-wildfire-crisis-by-the-numbers/ar-AA1dgTIq
+
 60. What to Know About Canada’s Exceptional Wildfire Season; New York Times; https://www.nytimes.com/article/canada-wildfires-what-to-know.html
+
 61. Climate Reanalyzer: Daily Sea Surface Temperature; 18 May 2023; https://climatereanalyzer.org/clim/sst_daily/
+
 62. Schmidt, Gavin (2024).Climate models can’t explain 2023’s huge heat anomaly — we could be in uncharted territory. Nature, article; 19 Mar 2024; https://www.nature.com/articles/d41586-024-00816-z
+
 63. Cap Allon; Antarctica Posts Coldest Temp Since 2017; 25 Jul 2023; https://electroverse.info/antarctica-cold-polar-new-zealand-solar-carbon-intensive-u-n-censorship/
+
 64. Wikipedia: Solar cycle; https://en.wikipedia.org/wiki/Solar_cycle
+
 65. Affected volume of ocean = 0.01 × 1.332×109 km3 = 1.332 × 107 km3 of ocean, or 1.332 × 1016 m3, or 1.37 × 1019 kg of ocean water. The specific heat capacity of water is approximately 4,186 joules per kilogram per degree Celsius. The density of seawater is approximately 1,025 kilograms per cubic meter. Thus the heat content change to achieve 0.4°C increase in temperature is Q = 1.37 × 1019 kg × 4,186 J/kg°C × 0.4°C = 2.29 × 1022 joules. Next we determine the average increase in global temperatures if 2.29 × 1022 joules of heat were added to the Earth’s atmosphere over a period of three weeks. The mass of the Earth’s atmosphere is approximately 5.1 × 1018 kg. The specific heat capacity of dry air is approximately 1,005 joules per kilogram per degree Celsius. Using the formula for heat transfer Q = mcΔT as we did for the ocean above, we derive an atmospheric temperature increase of 4.5°C across the globe on average. Much of the population between 60°N and 60°S latitude would have perished.
+
 66. Koutsoyiannis D, Onof C, Kundzewicz ZW, Christofides A. On Hens, Eggs, Temperatures and CO2: Causal Links in Earth’s Atmosphere. Sci. 2023; 5(3):35. https://doi.org/10.3390/sci5030035
+
 67. University of Maine; Ice core source discovery adds to study of volcanic activity, climate system interactions; 10 Oct 2019 https://phys.org/news/2019-10-ice-core-source-discovery-volcanic.html
+
 68. Viterito A (2016) The Correlation of Seismic Activity and Recent Global Warming. J Earth Sci Clim Change. 7: 345. doi:10.4172/2157-7617.1000345; https://www.omicsonline.org/open-access/the-correlation-of-seismic-activity-and-recent-global-warming-2157-7617-1000345.pdf
+
 69. Smithsonian Institution Museum of Natural History Global Volcanism Program; Has volcanic activity been increasing?; https://volcano.si.edu/faq/index.cfm?question=historicalactivity
+
 70. Gevorgian, J., Sandwell, D. T., Yu, Y., Kim, S.-S., & Wessel, P. (2023). Global distribution and morphology of small seamounts. Earth and Space Science, 10, e2022EA002331. https://doi.org/10.1029/2022EA002331
+
 71. Smithsonian Institution Museum of Natural History Global Volcanism Project; https://volcano.si.edu/faq/index.cfm?question=eruptionsbyyear
+
 72. Robin McKie; The Guardian: The Observer: Scientists discover 91 volcanoes below Antarctic ice sheet; 12 Aug 2017; https://www.theguardian.com/world/2017/aug/12/scientists-discover-91-volcanos-antarctica
+
 73. Temperature Anomalies from 1900-2016. Visualization by Antti Lipponen (@anttilip) of the Finnish Meteorological Institute based on GISTEMP data (CC BY 2.0).
+
 74. Wikipedia: Mid-Atlantic Ridge; https://en.wikipedia.org/wiki/Mid-Atlantic_Ridge
+
 75. Marlowe Hood; Phys.Org: Environment: Earth warming more quickly than thought, new climate models show; 17 Sep 2019; https://phys.org/news/2019-09-earth-quickly-climate.html
+
 76. Pedro, Martin, et. al; Southern Ocean deep convection as a driver of Antarctic warming events; Geophysical Research Letters; Research Letter 10.1002/2016GL067861; https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2016GL067861
+
 77. Wikipedia: Advection; https://en.wikipedia.org/wiki/Advection
+
 78. NOAA. National Ocean Service website, What is upwelling?https://oceanservice.noaa.gov/facts/upwelling.html
+
 79. National Aeronautical and Space Administration: Space Visualization Studio; Niño 3.4 Index and Sea Surface Temperature Anomaly Timeline: 1982-2017https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4695&button=recent
+
 80. National Aeronautical and Space Administration: Space Visualization Studio; Understanding La Niña; https://www.youtube.com/watch?v=fAvk4RXrW_E
+
 81. Climate Reanalyzer: Daily Sea Surface Temperature; Jan 1982 – May 2023; https://climatereanalyzer.org/clim/sst_daily/
+
 82. Wallace, Christy, et al; On the Existence of a “Tropical Hot Spot” & The Validity of EPA’s CO2 Endangerment Finding; Aug 2016; https://thsresearch.files.wordpress.com/2016/09/ef-cpp-sc-2016-data-ths-paper-ex-sum-090516v2.pdf
+
 83. Bett, Jones, et. al.; The Royal Society Publishing: A successful prediction of the record CO2 rise associated with the 2015/2016 El Niño; 8 Oct 2018; https://royalsocietypublishing.org/doi/10.1098/rstb.2017.0301
+
 84. World Ocean Review: The great ocean currents – the climate engine: The Global Conveyor Belt; https://worldoceanreview.com/en/wor-1/climate-system/great-ocean-currents/
+
 85. Jason Samenow, Kasha Patel; It’s 70 degrees warmer than normal in eastern Antarctica. Scientists are flabbergasted; 18 Mar 2022; https://www.washingtonpost.com/weather/2022/03/18/antarctica-heat-wave-climate-change/
+
 86. P. Gosselin; Arctic Ocean Warming Began Already In Early 20th Century, Meaning Natural Factors Strongly At Play, Not CO2; https://wattsupwiththat.com/2021/12/29/arctic-ocean-warming-began-already-in-early-20th-century-meaning-natural-factors-strongly-at-play-not-co2/
+
 87. Hannah Osborne; Newsweek : The Air Above Antarctica Just Got Very Hot Very Fast, Breaking All Previous Temperature Records; 9 Oct 2019; https://www.newsweek.com/air-antarctica-hot-suddenly-breaking-records-1464070
+
 88. National Geographic : Warming at the poles will soon be felt globally in rising seas, extreme weather; 4 Dec 2019; https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjdwJW4tcLnAhVpleAKHYP-CJcQFjAAegQIBRAB&url=https%3A%2F%2Fwww.nationalgeographic.com%2Fscience%2F2019%2F12%2Farctic%2F&usg=AOvVaw3sRTRYHS_XBC2RHS44mQtj
+
 89. Isabelle Jani-Friend, CNN: “Greenland’s ice is melting from the bottom up – and far faster than previously thought, study shows”; 22 Feb 2022; https://www.cnn.com/2022/02/22/world/greenland-ice-melting-sea-level-rise-climate-intl-scli-scn/index.html 
+
 90. Windows to the Universe: Thermocline Graphic; https://www.windows2universe.org/earth/Water/temp.html
+
 91. Windows to the Universe: Temperature of Ocean Water; https://www.windows2universe.org/earth/Water/temp.html
+
 92. Desbruyeres, D.G., S.G. Purkey, E.L. McDonagh, G.C. Johnson, and B.A. King. 2016. Deep and abyssal ocean warming from 35 years of repeat hydrography. Geophysical Research Letters 43(19):10,356–10,365, https://doi.org/​10.1002/2016GL070413.
+
 93. Eakins, B.W. and G.F. Sharman. Hypsographic Curve of Earth’s Surface from ETOPO1, NOAA National Geophysical Data Center, Boulder, CO, 2012
+
 94. Amante, C. and B. W. Eakins, ETOPO1 1 Arc-Minute Global Relief Model: Procedures, Data Sources and Analysis. NOAA Technical Memorandum NESDIS NGDC-24, 19 pp, March 2009; http://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/docs/ETOPO1.pdf
+
 95. National Oceanographic & Atmospheric Association; climate.gov; Climate Change Data: Ocean Heat Content; https://www.nodc.noaa.gov/OC5/3M_HEAT_CONTENT/
+
 96. NASA; Climate Change: Ocean Warming LATEST MEASUREMENT: December 2022 345 (± 2) zettajoules since 1955; https://climate.nasa.gov/vital-signs/ocean-warming/
+
 97. National Oceanographic & Atmospheric Association; climate.gov; Climate Change: Ocean Heat Content; Aug 1 2018; https://www.climate.gov/news-features/understanding-climate/climate-change-ocean-heat-content
+
 98. Durack, Gleckler, et.al.; Ocean Warming: From the Surface to the Deep in Observations and Models; Oceanography; 9 Dec 2018; https://tos.org/oceanography/article/ocean-warming-from-the-surface-to-the-deep-in-observations-and-models
+
 99. Durack, Gleckler, et.al.; Ocean Warming: From the Surface to the Deep in Observations and Models; Oceanography; 9 Dec 2018; https://tos.org/oceanography/article/ocean-warming-from-the-surface-to-the-deep-in-observations-and-models
+
 100. Desbruyeres, D.G., S.G. Purkey, E.L. McDonagh, G.C. Johnson, and B.A. King. 2016. Deep and abyssal ocean warming from 35 years of repeat hydrography. Geophysical Research Letters 43(19):10,356–10,365, https://doi.org/​10.1002/2016GL070413.
+
 101. Anna Wåhlin et al., Swirls and scoops: Ice base melt revealed by multibeam imagery of an Antarctic ice shelf.Sci. Adv.10,eadn9188(2024).DOI:10.1126/sciadv.adn9188
+
 102. Zoe Phin; Equating Perpendicular Planes is Plain Nonsense; May 22, 2020; https://phzoe.com/2020/05/22/equating-perpendicular-planes-is-plain-nonsense/
+
 103. Zoe Phin; The Irrelevance of Geothermal Heat Flux; Apr 29, 2020; https://phzoe.com/2020/04/29/the-irrelevance-of-geothermal-heat-flux/
+
 104. Amaya, D.J. et al, Bottom marine heatwaves along the continental shelves of North America, Nature Communications (2023). DOI: 10.1038/s41467-023-36567-0. http://www.nature.com/articles/s41467-023-36567-0
+
 105. ‘Communication’ refers to the process or act of water transferring or flowing between different areas, compartments, or spaces. It encompasses the movement of water through openings, passages, conduits, or channels that connect distinct regions. Communication can occur in various settings, such as shipboard flooding, plumbing systems, hydraulic engineering, drainage systems, irrigation networks, or any situation where the controlled or unintended flow of water takes place between separate locations. ~OpenAI. “ChatGPT.” OpenAI API. 2021. https://platform.openai.com/docs/models/chat/completion.
+
 106. Oberheim, Eric and Paul Hoyningen-Huene, “The Incommensurability of Scientific Theories”, The Stanford Encyclopedia of Philosophy (Fall 2018 Edition), Edward N. Zalta (ed.), URL = https://plato.stanford.edu/archives/fall2018/entries/incommensurability/&gt;.
+
 107. S. I. Braginsky, MAC-Oscillations of the Hidden Ocean of the Core, Journal of geomagnetism and geoelectricity, 1993, Volume 45, Issue 11-12, Pages 1517-1538, Released on J-STAGE August 23, 2011, Online ISSN 2185-5765, Print ISSN 0022-1392, https://doi.org/10.5636/jgg.45.1517, https://www.jstage.jst.go.jp/article/jgg1949/45/11-12/45_11-12_1517/_article/-char/en
+
 108. Jonathan Mingle; Wired: Atmospheric Methane Levels Are Going Up—And No One Knows Why; 16 May 2019; https://www.wired.com/story/atmospheric-methane-levels-are-going-up-and-no-one-knows-why/
+
 109. Liao, F., Liang, X., Li, Y., & Spall, M. (2022). Hidden upwelling systems associated with major western boundary currents. Journal of Geophysical Research: Oceans, 127, e2021JC017649. https://doi.org/10.1029/2021JC017649
+
 110. Amaya, D.J. et al, Bottom marine heatwaves along the continental shelves of North America, Nature Communications (2023). DOI: 10.1038/s41467-023-36567-0. http://www.nature.com/articles/s41467-023-36567-0
+
 111. Schulz, K., Nguyen, A. T., & Pillar, H. R. (2022). An improved and observationally-constrained melt rate parameterization for vertical ice fronts of marine terminating glaciers. Geophysical Research Letters, 49, e2022GL100654. https://doi.org/10.1029/2022GL100654
+
 112. Monnin E, Indermühle A, Dällenbach A, Flückiger J, Stauffer B, Stocker TF, Raynaud D, Barnola JM. Atmospheric CO2 concentrations over the last glacial termination. Science. 2001 Jan 5;291(5501):112-4. doi: 10.1126/science.291.5501.112. PMID: 11141559.
+
 113. Craig A Welch; National Geographic; The Arctic’s thawing ground is releasing a shocking amount of gasses – twice what we had thought; 6 Feb 2020; https://www.nationalgeographic.com/science/2020/02/arctic-thawing-ground-releasing-shocking-amount-dangerous-gases/
+
 114. From Wikipedia: Methane; “The two main routes for geological methane generation are (i) organic (thermally generated, or thermogenic) and (ii) inorganic (abiotic). Thermogenic methane occurs due to the breakup of organic matter at elevated temperatures and pressures in deep sedimentary strata. Most methane in sedimentary basins is thermogenic; therefore, thermogenic methane is the most important source of natural gas. Thermogenic methane components are typically considered to be relic (from an earlier time). Generally, formation of thermogenic methane (at depth) can occur through organic matter breakup, or organic synthesis. Both ways can involve microorganisms (methanogenesis), but may also occur inorganically. The processes involved can also consume methane, with and without microorganisms. The more important source of methane at depth (crystalline bedrock) is abiotic. Abiotic means that methane is created from inorganic compounds, without biological activity, either through magmatic processes or via water-rock reactions that occur at low temperatures and pressures, like serpentinization.”
+
 115. Pedro, Martin, et. al; Southern Ocean deep convection as a driver of Antarctic warming events; Geophysical Research Letters; Research Letter 10.1002/2016GL067861; https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2016GL067861: “In 1974 when the first satellite microwave data were obtained from the Antarctic sea ice zone, a 250,000 km2 open ocean polynya was observed in the winter sea ice pack of the Weddell Sea [Carsey, 1980]. The ocean mixed layer in the polynya extended to 3000 m depth, with strong upwelling of relatively warm (with respect to the surface) deep waters, supporting an average winter surface heat flux of 136 Wm2 [Gordon, 1982]”
+
 116. He, Y., Sun, S., Kim, D.Y. et al. Superionic iron alloys and their seismic velocities in Earth’s inner core. Nature 602, 258–262 (2022). https://doi.org/10.1038/s41586-021-04361-x
+
 117. N. Schaeffer et al., “Turbulent geodynamo simulations: a leap towards Earth’s core,” Geophysical Journal International, 2017, doi:10.1093/gji/ggx265
+
 118. Fui Lee Luk, CRNS News: Earth: Now in HD: the Earth’s Turbulent Core; 30 Jun 2017; https://news.cnrs.fr/articles/now-in-hd-the-earths-turbulent-core
+
 119. Fui Lee Luk, CRNS News: Earth: Now in HD: the Earth’s Turbulent Core; 30 Jun 2017; https://news.cnrs.fr/articles/now-in-hd-the-earths-turbulent-core
+
 120. Fourier’s law of heat conduction: Q = (k * A * ΔT) / d. Where: Q = Heat transfer rate (in watts or joules per second), k = Thermal conductivity of iron (in W/m·K), A = Cross-sectional area of the iron (in square meters), ΔT = Temperature difference across the iron (in Kelvin), d = Thickness or distance of the iron (in meters)
+
 121. ChatGPT 3.5’s commentary on the matter: Unfortunately, due to the challenges in directly measuring heat transfer through the mantle, providing a specific range for the speed of heat through the Earth’s mantle is not feasible with current knowledge. Researchers use computational models and theoretical approaches to gain insights into heat transfer processes in the mantle, but these estimates can still be subject to uncertainty. However, in a molten metal, the atoms or ions are no longer in fixed positions; they move freely within the liquid. This increased mobility allows for more efficient and rapid transfer of thermal energy through the material. The particles in the molten metal can collide and transfer heat energy more readily than in the solid state, where they are constrained. In summary, while we have a general understanding of heat transfer mechanisms in the Earth’s mantle, directly measuring the speed of heat through the mantle is a complex and ongoing area of research, and there is currently no widely accepted range estimate for this specific parameter.
+
 122. N. Schaeffer et al., “Turbulent geodynamo simulations: a leap towards Earth’s core,” Geophysical Journal International, 2017, doi:10.1093/gji/ggx265, Section 4.3.3: “As shown in figure 2, when the magnetic field is turned off (everything else being kept the same), the kinetic energy quickly increases by a factor 10.”
+
 123. Fui Lee Luk, CRNS News: Earth: Now in HD: the Earth’s Turbulent Core; 30 Jun 2017; https://news.cnrs.fr/articles/now-in-hd-the-earths-turbulent-core
+
 124. Core Spins Faster Than Earth, Lamont Scientists Find; http://www.columbia.edu/cu/record/archives/vol22/vol22_iss1/Core_Spin.html
+
 125. Latzko L. Earth’s Tilt Explained. Popular Mechanics. Published December 22, 2021. Accessed April 4, 2024. https://www.popularmechanics.com/science/environment/a44882114/earths-tilt-explained/
+
 126. Climate.gov; How do we know the build-up of carbon dioxide in the atmosphere is caused by humans? The carbon-13 to carbon-12 ratio in the atmosphere is caused by the decay or burning of plants and fossil fuels derived from those plants; https://www.climate.gov/news-features/climate-qa/how-do-we-know-build-carbon-dioxide-atmosphere-caused-humans
+
 127. Craig A Welch; National Geographic; The Arctic’s thawing ground is releasing a shocking amount of gasses – twice what we had thought; 6 Feb 2020; https://www.nationalgeographic.com/science/2020/02/arctic-thawing-ground-releasing-shocking-amount-dangerous-gases/
