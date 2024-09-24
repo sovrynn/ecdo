@@ -26,7 +26,7 @@ There are 2-3 ancient calendars that mark a flood event as the start of their ne
 
 Here’s the evidence, taken from pages 141-155 of Compton’s Exodus Lost, 2010:
 
-### Calendar evidence; indicating  a flood at  ~ 3,200 yrs BC (or 5,200 yrs BP) 
+### Calendar evidence; indicating a flood at  ~ 3,200 yrs BC (or 5,200 yrs BP) 
 
 a. Babylonian flood-start at 3189 BC as indicated by the Atrahasis Epic of the tribal Ammorites, “easily the most sophisticated of all known ancient Near-Eastern mythological epics – Sumerian, Accadian, Canaanite (Ugaritic), Horite (Hurrian) and Hittite”.  They carried this into Babylon. This was the end of one of four of their 600 year ages or epics separated by calamities; with the last one, delineated by the great flood.  It’s interesting to note that Noah was 600 years old when the Biblical flood began.
 
@@ -105,90 +105,68 @@ Now I haven't thoroughly vetted Compton's sources, but if accurate and in my vie
 
 ## Quotes
 
-## part 1 discovery page 3
+## Part 1: Discovery (Page 3)
 
-### ch2 a lost civilization (pg 9)
+### Ch. 2: A Lost Civilization (Pg. 9)
 
-la venta
+- La Venta  
+- Olmec
 
-olmec
-
-Rather than the olmec having "suddenly appeared", what if they were the only ones left after a cataclysm?
+Rather than the Olmec having "suddenly appeared," what if they were the only ones left after a cataclysm?
 
 ![](img/olmec-history.png)
 
-### ch 3 p16 lost city of tula
+### Ch. 3: Lost City of Tula (Pg. 16)
 
-quetzalcoatl, tula, san lorenzo
+- Quetzalcoatl, Tula, San Lorenzo  
+- First city in Mesoamerica.
 
-first city in mesoamerica
+### Ch. 4: Black Land, Red Land (Pg. 21)
 
-### ch4 black land red land pg 21
+### Ch. 5: Royal Purple (Mesopotamia, Mediterranean)
 
-### ch 5 royal purple (mesopotamia, mediterranean)
+### Ch. 6: The Alphabet Code (Pg. 30)
 
-### ch 6 the alphabet code pg 30
+### Ch. 7: The Alphabet in Mexico (Pg. 48)
 
-### ch 7 the alpahbet in mexico pg 48
+- Aztec calendar stone
+- Mesoamerican 260-day year.
 
-aztec calendar stone
+## Part 2: Eruptions (Page 57)
 
-mesoamerican 260 day year
+### Ch. 8: Volcanic Winter (Pg. 59)
 
-## part 2 eruptions page 57
+The island of Santorini, the modern remains of Thera, whose ancient eruption devastated the eastern Mediterranean. As in Plato, Theran civilization ended suddenly, violently, and completely. Thera’s is now considered to be the first or second largest eruption of the last 10,000 years, some 900 times more powerful than Mount St. Helens and more than four times the intensity of the Krakatoa eruption that killed 36,000 people in 1883.
 
-### ch 8 volcanic winter pg 59
+In 1939, archaeologist Spyridon Marinatos dated the eruption to 1500 BC by linking local pottery to the Egyptian chronology. But in 1976, radiocarbon testing of material directly associated with the eruption dated the event a full century earlier. Yet, by this time, the 1500 BC date had already become so canonical that many (if not most) archaeologists rejected the radiocarbon dates.
 
-The island of Santorini, the modern remains of Thera, whose ancient eruption devastated the eastern Mediterranean.
+In 1984, a breakthrough paper in *Nature* showed that frost damage in ancient tree rings marked the dates of major volcanic eruptions. Large eruptions ejected so much particulate matter into the atmosphere that they blocked enough sunlight to cool the planet to the point that the trees had suffered visible frost damage. The tree rings marked every major eruption except Thera. Although they checked the rings for a century to either side of 1500 BC, the dendrochronologists failed to find the signature frost damage. However, extreme frost damage was found to have begun in 1627 BC. Given the magnitude of this event and its close fit with the radiocarbon dates for the Thera eruption, they concluded that Thera had erupted in 1627 BC.
 
-As in Plato, Theran civilization ended suddenly, violently, and completely. Thera’s is now considered to be the first or second largest eruption of the last 10,000 years, some 900 times more powerful than Mount St. Helens and more than four times the intensity of the Krakatoa eruption that killed 36,000 people in 1883.
+On reading this original study of California trees, Irish scientists checked their own 7,272-year-long oak tree chronology. The 22 oaks that included the 1620s BC all showed the extreme event. In some, the rings were so narrow that they were unreadable after 1628 BC. Germany’s oak tree sequence also showed severely diminished growth in the 1620s BC. And the English oak ring chronology had a gap for this period, most of its oak forests having died out in the 17th century BC. When a few survivors were finally found in a bog near Sheffield, they too had extraordinarily narrow rings for the 1620s BC. The findings of this discipline were in general agreement that this event had been one of the largest volcanic eruptions in human history and was likely Thera, though the European evidence shifted its date back to 1628 BC.
 
-In 1939, archaeologist Spyridon Marinatos dated the eruption to 1500 BC by linking local pottery to the Egyptian chronology. But in 1976, radiocarbon testing of material directly associated with the eruption dated the event a full century earlier. Yet, by this time, the 1500 BC date had already become so canonical that many (if not most) archaeologists rejected the
-radiocarbon dates.
+### Ch. 9: Genesis of the Exodus (Pg. 65)
 
-In 1984, a breakthrough paper in Nature showed that frost damage in
-ancient tree rings marked the dates of major volcanic eruptions.140 (Large eruptions ejected so much particulate matter into the atmosphere that they blocked enough sunlight to cool the planet to the point that the trees had suffered visible frost damage.) The tree rings marked every major eruption except Thera. Although they checked the rings for a century to either side of 1500 BC, the dendrochronologists failed to find the signature frost
-damage.141 However, extreme frost damage was found to have begun in 1627 BC. Given the magnitude of this event and its close fit with the radiocarbon dates for the Thera eruption, they concluded that Thera had erupted in 1627
-BC.142
+Such bone deformation and softening is characteristic of fluorosis, caused by fluorine in the volcanic fallout. This recalls the story of Joseph, in which the narrator strains for adjectives to describe just how miserable the cattle were: “poor and very ill-favoured and lean-fleshed, such as I never saw in all the land of Egypt for badness.” Between fluorosis and starvation, 80% of Iceland’s sheep and half of the cattle and horses died. Among humans, a quarter of Icelanders died, as did roughly 5% of the population of France.
 
-On reading this original study of California trees, Irish scientists checked their own 7,272 year long oak tree chronology. The 22 oaks that included the 1620s BC, all showed the extreme event. In some the rings were
-so narrow that they were unreadable after 1628 BC.143 Germany’s oak tree sequence also showed severely diminished growth in the 1620s BC.144 And
-the English oak ring chronology had a gap for this period, most of its oak
-forests having died out in the 17th century BC. When a few survivors were finally found in a bog near Sheffield, they too had extraordinarily narrow
-rings for the 1620s BC.145 The findings of this discipline were in general agreement that this event had been one of the largest volcanic eruptions in human history and was likely Thera, though the European evidence shifted its date back to 1628 BC.
+While pollen from the Dead Sea records an extensive famine in Canaan at this time, it was not confined to this region. We have already seen the drastic effect on trees in Europe and North America. In 1985, Kevin Pang of NASA’s Jet Propulsion Laboratory argued that Thera’s dust veil had caused the collapse of China’s Xia Dynasty. The Bamboo Annals for 1618 BC record “yellow fog, a dim sun, then three suns, frost in July, famine, and the withering of all five cereals.” Because the Bamboo Annals are not absolutely dated, this could well be a record of the effects of the severe dust-veil event that began in 1628 BC. If so, then the ancient Chinese chronology could be anchored and calibrated by this precise tree-ring date.
 
-### ch 9 pg 65 genesis of the exodus
-
-Such bone deformation and softening is characteristic of fluorosis, caused by fluorine in the volcanic fall out. This recalls the story of Joseph, in which the narrator strains for adjectives to describe just how miserable the cattle were: “poor and very ill favoured and leanfleshed, such as I never saw
-in all the land of Egypt for badness.”166 Between fluorosis and starvation, 80% of Iceland’s sheep and half of the cattle and horses died. Among humans, a quarter of Icelanders died, as did roughly 5% of the population of
-France.
-
-While pollen from the Dead Sea records an extensive famine in Canaan at this time, it was not confined to this region. We have already seen the drastic effect on trees in Europe and North America. In 1985, Kevin Pang of NASA’s Jet Propulsion Laboratory argued that Thera’s dust veil had caused the collapse of China’s Xia Dynasty. The Bamboo Annals for 1618 BC record “yellow fog, a dim sun, then three suns, frost in July, famine, and the
-withering of all five cereals.”169 Because the Bamboo Annals are not absolutely dated, this could well be a record of the effects of the severe dust- veil event that began in 1628 BC. If so, then the ancient Chinese chronology could be anchored and calibrated by this precise tree-ring date.
-
-### ch 10 egypt falls pg 71
+### Ch. 10: Egypt Falls (Pg. 71)
 
 Around 2000 BC, in a massive effort to keep out the neighboring Canaanites, the Egyptians erected a tall border wall 100 miles long, lined it with a moat, and, for good measure, added crocodiles. Yet still the Canaanites came, often at the behest of ambivalent Egyptians who relied on their labor.
 
-Toward the end of the 13th Dynasty, as Egypt’s central government weakened, an independent kingdom arose within this culturally distinct delta as Egypt’s 14th Dynasty. These
-simultaneous 13th and 14th dynasties then fell to the Hyksos, invaders from
-Canaan who ruled northern Egypt for the next 108 years as Egypt’s 15th Dynasty and reduced southern Egypt to a tribute-paying vassal state.
+Toward the end of the 13th Dynasty, as Egypt’s central government weakened, an independent kingdom arose within this culturally distinct delta as Egypt’s 14th Dynasty. These simultaneous 13th and 14th dynasties then fell to the Hyksos, invaders from Canaan who ruled northern Egypt for the next 108 years as Egypt’s 15th Dynasty and reduced southern Egypt to a tribute-paying vassal state.
 
-According to the Egyptian priest and historian Manetho, the Hyksos
-conquered Egypt “without striking a blow.”172 The archaeological record,
-likewise, shows no evidence of a battle or large-scale looting.173 Yet Egypt was arguably the most powerful nation in the world and had never been conquered in their 1500 year history. How could they now fall without a fight?
+According to the Egyptian priest and historian Manetho, the Hyksos conquered Egypt “without striking a blow.” The archaeological record likewise shows no evidence of a battle or large-scale looting. Yet Egypt was arguably the most powerful nation in the world and had never been conquered in their 1500-year history. How could they now fall without a fight?
 
-The invasion is dated to the 1630s BC174 with a margin of error of
-more than a decade.175 It thus occurs in the same place and time as the Joseph story, which can now be bracketed by the tree-ring dates of the two climatic events to 1647-1621 BC. Not only do the history and the story coincide in time and place, but the Joseph story makes a far more interesting claim than has previously been recognized, one that offers a new explanation for the bloodless conquest.
+The invasion is dated to the 1630s BC with a margin of error of more than a decade. It thus occurs in the same place and time as the Joseph story, which can now be bracketed by the tree-ring dates of the two climatic events to 1647-1621 BC. Not only do the history and the story coincide in time and place, but the Joseph story makes a far more interesting claim than has previously been recognized, one that offers a new explanation for the bloodless conquest.
 
-This papyrus records a massive famine. Given when it was written,
-and the “collapse of agriculture”179 in the climate proxy records of this time, it may offer another perspective on the devastating famine that appears to have followed the eruption of Thera. In it, the Egyptian scribe Ipuwer bemoans starvation and death throughout the land:
+This papyrus records a massive famine. Given when it was written, and the “collapse of agriculture” in the climate proxy records of this time, it may offer another perspective on the devastating famine that appears to have followed the eruption of Thera. In it, the Egyptian scribe Ipuwer bemoans starvation and death throughout the land:
 
-The Canaanites, whom the Egyptians viewed as barbarian workmen and slaves, suddenly possessed all of Egypt’s wealth, and the Egyptian nobility were poor, homeless, and starving:
+The Canaanites, whom the Egyptians viewed as barbarian workmen and slaves, suddenly possessed all of Egypt’s wealth, and the Egyptian nobility were poor, homeless, and starving.
 
-## part 3: from the sea page 79
+## Part 3: From the Sea (Page 79)
 
-### ch 11 the first americans? pg 80
+### Ch. 11: The First Americans? (Pg. 80)
 
 The animal was identified as an enormous bison thought to have gone extinct 10,000 years ago. A flurry of excavations followed this initial discovery as newspaper headlines lauded “Evidence of Ancient Hunters Discovered 10,000 Years Old!”
 
@@ -196,93 +174,87 @@ The physical evidence of human coexistence with and hunting of the Ice Age megaf
 
 The decisive breakthrough came when excavations under archaeologist Thomas Dillehay at Monte Verde, Chile, unearthed ancient human homes and associated artifacts radiocarbon-dated to 12,500 years old. Not only did they predate the Clovis people by 1000 years, but they used completely different tools and were at the wrong end of the world. The earliest human artifacts should have been in Alaska, with Chile being reached and populated last.
 
-Meanwhile in North America, a skeleton was found protruding from a river back in Washington State in July of 1996. Suspecting foul play, the authorities called archaeologist and forensic investigator Dr. James Chatters. From the long, narrow shape of its skull, he concluded that the man had been of European descent. However, partially healed within its pelvic bone was a style of flint projectile point used until 7000 BP, and the skeleton radiocarbon dated to 8140 BP. How had a European-looking person come to be in North America 8000 years ago? Physical anthropologists Douglas Owsley and Richard Jantz analyzed the six known North American skulls dated to before 8000 years BP and found that each had Caucasoid features. Among modern populations they most closely resemble the Ainu, an indigenous Japanese minority physically
-distinct from the modern Japanese population.
+Meanwhile in North America, a skeleton was found protruding from a river back in Washington State in July of 1996. Suspecting foul play, the authorities called archaeologist and forensic investigator Dr. James Chatters. From the long, narrow shape of its skull, he concluded that the man had been of European descent. However, partially healed within its pelvic bone was a style of flint projectile point used until 7000 BP, and the skeleton radiocarbon dated to 8140 BP. How had a European-looking person come to be in North America 8000 years ago? Physical anthropologists Douglas Owsley and Richard Jantz analyzed the six known North American skulls dated to before 8000 years BP and found that each had Caucasoid features. Among modern populations, they most closely resemble the Ainu, an indigenous Japanese minority physically distinct from the modern Japanese population.
 
 After about 7000 BC, people with northeast Asian characteristics (craniofacial morphology) replaced the earlier Jomon-like population in North America. This new population, resembling modern Asians, predominated in North America until the European invasion that followed Columbus.
 
-### ch 12 escape from egypt pg 89
+### Ch. 12: Escape from Egypt (Pg. 89)
 
-But this is where understanding the geography and terminology of the day revolutionizes the story. At that time, the “wall of water” on the one side was the 230-foot wide, crocodile filled, rampart-lined canal, known as the “Wall of the Ruler.” On the other side was the second “wall” that we now call the Tumilat Canal. (As in Egyptian, such aquatic boundaries could also be called “walls” in Biblical Hebrew, e.g., Nahum 3:8.) At the tip of the Red Sea, at the “mouths of the (manmade) gorges,” the Israelites passed through the sweet spot between the two walls of water, the only weak link in hundreds of miles of water walls, ramparts, and guards. Here on the active seashore, tides and waves came in and eroded the ramparts, then receded lowering their natural barrier (helped that night by a divine wind). Here the Israelites slipped the trap “with a wall of water on their right and on their left.”
+But this is where understanding the geography and terminology of the day revolutionizes the story. At that time, the “wall of water” on the one side was the 230-foot wide, crocodile-filled, rampart-lined canal, known as the “Wall of the Ruler.” On the other side was the second “wall” that we now call the Tumilat Canal. (As in Egyptian, such aquatic boundaries could also be called “walls” in Biblical Hebrew, e.g., Nahum 3:8.) At the tip of the Red Sea, at the “mouths of the (manmade) gorges,” the Israelites passed through the sweet spot between the two walls of water, the only weak link in hundreds of miles of water walls, ramparts, and guards. Here on the active seashore, tides and waves came in and eroded the ramparts, then receded lowering their natural barrier (helped that night by a divine wind). Here the Israelites slipped the trap “with a wall of water on their right and on their left.”
 
-### ch 13 bedouin of the sea pg 99
+### Ch. 13: Bedouin of the Sea (Pg. 99)
 
-### ch 14 war pg 110
+### Ch. 14: War (Pg. 110)
 
-### ch 15 red hair, peace pipes pg 113
+### Ch. 15: Red Hair, Peace Pipes (Pg. 113)
 
-## part 4 forensic mythology pg 125
+## Part 4: Forensic Mythology (Pg. 125)
 
-### ch 16 in the beginning pg 129
+### Ch. 16: In the Beginning (Pg. 129)
 
-### **ch 17 hell or high water pg 131**
+### Ch. 17: Hell or High Water (Pg. 131)
 
-among other things, aztec calendar stone flood
+Among other things, Aztec calendar stone flood.
 
 ![](img/flood-dating.png)
 
-The ancient sacred texts of India (including the Satapatha Brahmana, the Mahābhārata, and several of the Puranas) also feature a story of a world flood incorporated into a series of world ages. In this case, each of the successive cataclysms are world floods, after the last of which, the current
-world age (the Kali Yuga) began on February 18, 3102 BC.
+The ancient sacred texts of India (including the Satapatha Brahmana, the Mahābhārata, and several of the Puranas) also feature a story of a world flood incorporated into a series of world ages. In this case, each of the successive cataclysms are world floods, after the last of which, the current world age (the Kali Yuga) began on February 18, 3102 BC.
 
-### **ch 18 science of the flood pg 141** (chapter with all the scientific 3100 BC event evidence)
+### Ch. 18: Science of the Flood (Pg. 141)
 
-The most extreme drop in global temperatures of the last 10,000 years occurred suddenly circa 3200 BC, as evidenced by the ratio of oxygen-
-18 in cores drilled from ice caps,341 by the temperature sensitive chemical composition of ancient phytoplankton in sediment layers drilled from the sea
-floor,342 in isotopic ratios sampled from the layers of cave formations,343 and in the species of pollen trapped in ancient sediment layers.344
+The most extreme drop in global temperatures of the last 10,000 years occurred suddenly circa 3200 BC, as evidenced by the ratio of oxygen-18 in cores drilled from ice caps, by the temperature-sensitive chemical composition of ancient phytoplankton in sediment layers drilled from the sea floor, in isotopic ratios sampled from the layers of cave formations, and in the species of pollen trapped in ancient sediment layers.
 
-### ch 19 chicken little pg 147
+### Ch. 19: Chicken Little (Pg. 147)
 
-### ch 20 sword play pg 155
+### Ch. 20: Sword Play (Pg. 155)
 
-## part 5 the sweet hereafter pg 162
+## Part 5: The Sweet Hereafter (Pg. 162)
 
-### ch 21 geography of hell pg 163
+### Ch. 21: Geography of Hell (Pg. 163)
 
-### ch 22 gehenna's children pg 181
+### Ch. 22: Gehenna's Children (Pg. 181)
 
-### ch 23 the hounds of hell pg 190
+### Ch. 23: The Hounds of Hell (Pg. 190)
 
-### ch 24 chia-gods pg 192
+### Ch. 24: Chia-Gods (Pg. 192)
 
-### ch 25 living with the dead pg 198
+### Ch. 25: Living with the Dead (Pg. 198)
 
-## part six architecture pg 201
+## Part 6: Architecture (Pg. 201)
 
-### ch 26 beginnings pg 203
+### Ch. 26: Beginnings (Pg. 203)
 
-### ch 27 the pyramids pg 211
+### Ch. 27: The Pyramids (Pg. 211)
 
-As for the Pyramids, there is nothing to wonder at in them so much as the fact that so many men could be found degraded enough to spend their lives constructing a tomb for some ambitious booby, whom it would have been wiser and manlier to have drowned in the Nile, and then given his body to the dogs.
-—Henry David Thoreau, Walden
+As for the Pyramids, there is nothing to wonder at in them so much as the fact that so many men could be found degraded enough to spend their lives constructing a tomb for some ambitious booby, whom it would have been wiser and manlier to have drowned in the Nile, and then given his body to the dogs.  
+—Henry David Thoreau, *Walden*
 
 After more than a thousand years of building pyramids, the Egyptians suddenly stopped after the expulsion of the Hyksos, never to resume. The last Egyptian pyramid was that of Ahmose, the southern Egyptian pharaoh who finally defeated the Hyksos. What made them stop at this moment is not known.
 
-### ch 28 ancient hydraulics pg 217
+### Ch. 28: Ancient Hydraulics (Pg. 217)
 
-### ch 29 raiders of the lost naos pg 220
+### Ch. 29: Raiders of the Lost Naos (Pg. 220)
 
-## part 7 hieroglpyhica pg 228
+## Part 7: Hieroglyphica (Pg. 228)
 
-### ch 30 speech made visible pg 229
+### Ch. 30: Speech Made Visible (Pg. 229)
 
-## part 8 third party pg 241
+## Part 8: Third Party (Pg. 241)
 
-### ch 31 nubia and the hyksos pg 242
+### Ch. 31: Nubia and the Hyksos (Pg. 242)
 
-### ch 32 pottery pg 244
+### Ch. 32: Pottery (Pg. 244)
 
-### ch 33 buried alive pg 248
+### Ch. 33: Buried Alive (Pg. 248)
 
-However, Sir William Flinders Petrie described encountering a similar situation while excavating Hyksos burials near Sharuhen. He puzzled
-over how to interpret what he found, calling it a “difficult question.”633 The tombs contained multiple bodies, yet there was a great deal of fill on top of each tomb so that “it would be an awkward matter to dig down and clear part
-of the side for additional loculi.”634 Nor was there any evidence of such an operation. It thus appeared that all of the occupants of a given tomb had been buried simultaneously. Petrie posited a “pestilence.” However, he excavated at least two adult bodies with a child still in their arms. This recalls the remains of mothers at Kerma, sheltering their children as they were buried alive.
+However, Sir William Flinders Petrie described encountering a similar situation while excavating Hyksos burials near Sharuhen. He puzzled over how to interpret what he found, calling it a “difficult question.” The tombs contained multiple bodies, yet there was a great deal of fill on top of each tomb so that “it would be an awkward matter to dig down and clear part of the side for additional loculi.” Nor was there any evidence of such an operation. It thus appeared that all of the occupants of a given tomb had been buried simultaneously. Petrie posited a “pestilence.” However, he excavated at least two adult bodies with a child still in their arms. This recalls the remains of mothers at Kerma, sheltering their children as they were buried alive.
 
-### ch 34 appearance pg 253
+### Ch. 34: Appearance (Pg. 253)
 
-### ch 35 attire pg 264
+### Ch. 35: Attire (Pg. 264)
 
-### ch 36 the meroitic reliefs pg 270
+### Ch. 36: The Meroitic Reliefs (Pg. 270)
 
-### ch 37 unforgettable fire pg 276
+### Ch. 37: Unforgettable Fire (Pg. 276)
 
-### ch 38 conclusion pg 289
+### Ch. 38: Conclusion (Pg. 289)

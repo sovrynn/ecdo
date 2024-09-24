@@ -1,0 +1,10 @@
+input_directory
+1.0
+Helvetica
+12
+14
+2
+1
+0.5
+0.5
+2

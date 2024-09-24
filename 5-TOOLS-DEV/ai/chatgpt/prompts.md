@@ -1,6 +1,14 @@
 # Prompts
 
-## Content accumulation script (fed to o1-preview)
+## PDF Formatting
+
+Can you format this properly? Keep the header formatting, as well as paragraph formatting. but make these changes:
+- combine paragraphs split up across multiple lines into one.
+- Remove random numbers in the text (originally citations).
+- Capitalize the headers properly. Add periods when I shorten chapter -> ch, for example.
+keep the rest of the text verbatim. Return the result in a code window that I can copy. heres the text:
+
+## Repo content accumulation script for feeding into custom GPTs (prompted to o1-preview)
 
 I want to write a script that persuses a directory and from the content, generates textual files that can be uploaded to ChatGPT to create a custom GPT. The method will be very simple - append all the content in files ending with `.md` together, demarcated by filename, and write them to a set of output files, split up so that each file passes the GPT token and filesize caps.
 
@@ -21,6 +29,6 @@ Use the following steps:
 6. 1,500 words ~= 2048 tokens
 Write the output files to a folder named 'output'.
 
-## ECDO v1 GPT creation prompt
+## Custom GPT creation prompt
 
 Learn from this content. It contains information about a phenomenon ECDO (exothermic core-mantle decoupling dzhanibekov oscillation). This is the accumulated textual content of .md files from a github repo that contains research about the ECDO. Files are demarcated with start/end delimiters ('FILE START {filename}', 'FILE END {filename}'). Images and PDFs that are linked are not included in the content, but you can see their filenames since they are embedded in the Markdown.
