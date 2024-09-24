@@ -27,6 +27,10 @@ For ease of use to mitigate the following anomalies, I recommend copying the dir
 - Header formatting doesn't work right. Use 3 header levels max.
 - It can't handle webp files. It'll generate png conversion files and then embed those. Annoying if you run it on the original repo as you'll get a bunch of useless new duplicate image files.
 
+Links outside of the citations section need to be manually checked to make sure they didn't get matched in the markdown regex. Also to detach the citations from them.
+
+Citations can only be done through the LLM, not programmatically, aside from the painstaking manual method.
+
 ## Prompt creation
 
 Write a python script that takes an input directory along with other formatting parameters read from an input file, and for each Markdown file (.md) in the input directory, generates a properly formatted PDF, which also embeds images that are embedded in the Markdown files.

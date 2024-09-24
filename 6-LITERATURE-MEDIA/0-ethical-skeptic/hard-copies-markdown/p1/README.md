@@ -640,7 +640,7 @@ D – Ocean trenches are heated by the now warmer asthenosphere and subsequently
 
 E – Gas hydrate vents are heated and become more active. Heated oceans release their carbon more quickly.112
 
-F – Permafrost/Tundra/Oceans are heated and release both carbon dioxide (aka the ‘Surface Cycle’ or ‘Carbon Cycle’) and methane (Henry’s Law). These geoformations now become active during the winter months in which the sun is increasing in declination, whereas once they were not. (See: National Geographic 6 Feb 2020: The Arctic’s thawing ground is releasing a shocking amount of gasses – twice what we had thought; https://www.nationalgeographic.com/science/2020/02/arctic-thawing-ground-releasing-shocking-amount-dangerous-gases/)113 114
+F – Permafrost/Tundra/Oceans are heated and release both carbon dioxide (aka the ‘Surface Cycle’ or ‘Carbon Cycle’) and methane (Henry’s Law). These geoformations now become active during the winter months in which the sun is increasing in declination, whereas once they were not. (See: National Geographic 6 Feb 2020: The Arctic’s thawing ground is releasing a shocking amount of gasses – twice what we had thought; https://www.nationalgeographic.com/science/2020/02/arctic-thawing-ground-releasing-shocking-amount-dangerous-gases/) 113 114
 
 ![](img/35.webp)
 
