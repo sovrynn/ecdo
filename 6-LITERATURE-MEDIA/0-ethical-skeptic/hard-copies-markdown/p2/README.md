@@ -460,3 +460,165 @@ In their enduring mystery, they remind us as skeptics that history is not just a
 *epoche vanguards gnosis*
 
 The Ethical Skeptic
+
+# Citations
+
+1. Ethical skepticism does not ‘doubt’ alternatives to the prevailing narrative (it remains neutral), nor does it ‘doubt everything’, it doubts agency – and those who do not grasp the distinction therein.
+
+2. Project Gutenberg; Herodotus: An Account of Egypt: https://www.gutenberg.org/files/2131/2131-h/2131-h.htm,&#8221;Thus the priests of the Egyptians told me: Down to the time when Rhampsinitos was king, they told me there was in Egypt nothing but orderly rule, and Egypt prospered greatly; but after him Cheops became king over them and brought them to every kind of evil: for he shut up all the temples (this would have been during the time of Ptah), and having first kept them from sacrifices there, he then bade all the Egyptians work for him. So some were appointed to draw stones from the stone-quarries in the Arabian mountains to the Nile, and others he ordered to receive the stones after they had been carried over the river in boats, and to draw them to those which are called the Libyan mountains; and they worked by a hundred thousand men at a time, for each three months continually. Of this oppression there passed ten years while the causeway was made by which they drew the stones, which causeway they built, and it is a work not much less, as it appears to me, than the pyramid; for the length of it is five furlongs and the breadth ten fathoms and the height, where it is highest, eight fathoms, and it is made of stone smoothed and with figures carved upon it. For this they said, the ten years were spent, and for the underground he caused to be made as sepulchral chambers for himself in an island, having conducted thither a channel from the Nile. For the making of the pyramid itself there passed a period of twenty years; and the pyramid is square, each side measuring eight hundred feet, and the height of it is the same. It is built of stone smoothed and fitted together in the most perfect manner, not one of the stones being less than thirty feet in length.
+
+This pyramid was made after the manner of steps which some called “rows” and others “bases”: and when they had first made it thus, they raised the remaining stones with machines made of short pieces of timber, raising them first from the ground to the first stage of the steps, and when the stone got up to this it was placed upon another machine standing on the first stage, and so from this it was drawn to the second upon another machine; for as many as were the courses of the steps, so many machines there were also, or perhaps they transferred one and the same machine, made so as easily to be carried, to each stage successively, in order that they might take up the stones; for let it be told in both ways, according as it is reported. However that may be the highest parts of it were finished first, and afterwards they proceeded to finish that which came next to them, and lastly they finished the parts of it near the ground and the lowest ranges. On the pyramid it is declared in Egyptian writing how much was spent on radishes and onions and leeks for the workmen, and if I rightly remember that which the interpreter said in reading to me this inscription, a sum of one thousand six hundred talents of silver was spent; and if this is so, how much besides is likely to have been expended upon the iron with which they worked, and upon bread and clothing for the workmen, seeing that they were building the works for the time which has been mentioned and were occupied for no small time besides, as I suppose, in the cutting and bringing of the stones and in working at the excavation under the ground? Cheops moreover came, they said, to such a pitch of wickedness, that being in want of money he caused his own daughter to sit in the stews, and ordered her to obtain from those who came a certain amount of money (how much it was they did not tell me): and she not only obtained the sum appointed by her father, but also she formed a design for herself privately to leave behind her a memorial, and she requested each man who came in to give her one stone upon her building: and of these stones, they told me, the pyramid was built which stands in front of the great pyramid in the middle of the three, each side being one hundred and fifty feet in length.
+
+This Cheops, the Egyptians said, reigned fifty years; and after he was dead his brother Chephren succeeded to the kingdom. This king followed the same manner of dealing as the other, both in all the rest and also in that he made a pyramid, not indeed attaining to the measurements of that which was built by the former (this I know, having myself also measured it), and moreover there are no underground chambers beneath nor does a channel come from the Nile flowing to this one as to the other, in which the water coming through a conduit built for it flows round an island within, where they say that Cheops himself is laid: but for a basement he built the first course of Ethiopian stone of divers colours; and this pyramid he made forty feet lower than the other as regards size, building it close to the great pyramid. These stand both upon the same hill, which is about a hundred feet high. And Chephren they said reigned fifty and six years. Here then they reckon one hundred and six years, during which they say that there was nothing but evil for the Egyptians, and the temples were kept closed and not opened during all that time. These kings the Egyptians by reason of their hatred of them are not very willing to name; nay, they even call the pyramids after the name of Philitis the shepherd, who at that time pastured flocks in those regions.”
+
+3. Wikipedia: Howard Vyse; shttps://en.wikipedia.org/wiki/Howard_Vyse
+
+4. David H. Koch; Archaeology: Dating the Pyramids; https://archive.archaeology.org/9909/abstracts/pyramids.html
+
+5. David H. Bowman et al., “Radiocarbon Measurements and Egyptian Chronology,” Radiocarbon, Vol. 26, No. 2 (1984)
+
+6. Mark Lehner and Robert Wenke, “Radiocarbon Dating of the Pyramids,” Archaeology, Vol. 48, No. 4 (1995)
+
+7. Dee, MW, et al.; REANALYSIS OF THE CHRONOLOGICAL DISCREPANCIES OBTAINED BY THE OLD AND MIDDLE KINGDOM MONUMENTS PROJECT; RADIOCARBON , Vol 51, Nr 3, 2009, p 1061–1070.; https://journals.uair.arizona.edu/index.php/radiocarbon/article/download/3563/3077
+
+8. Bullshit Rhetoric and Dysethics: “64 organic samples were collected from the mortar of the pyramidS and their associated temples”, “Both classic archaeologist and alternative researchers were disappointed by the results.” Thereafter averaging the 1995 study results and then again averaging that date with the 1984 study result (significance problem) to get the latest date possible, and shifting the Fourth Dynasty back 100 years, both to get a more favorable-sounding gap (“374 years”) which can then be dismissed as noise. Complete dishonesty. 
+
+9. The notion that these pigments cannot be carbon-14 dated is false, with ChatGPT-4 only admitting this when held to account: “The red ochre pigments used in the relieving chambers of the Khufu pyramid have not been carbon-14 dated. Carbon-14 dating, or radiocarbon dating, is a method used to date materials that contain organic carbon, typically from once-living organisms. Since red ochre is an inorganic iron oxide pigment, it does not contain organic carbon and therefore cannot be directly carbon-14 dated.” When challenged with “The vehicle and binder in ochre is not iron oxide, it is organic in derivation in all instances of human use.”, ChatGPT-4 responded: “You’re correct that pigments in paints, including ochre, are typically mixed with a vehicle and binder to create the paint. In the case of the red ochre pigments used in the Khufu pyramid, the binder would have been an organic material, which theoretically could be subjected to carbon-14 dating if samples were available and well-preserved.
+
+10. Robert Edward Grant, “New Research: Egyptian Precision Engineering and Hidden Art – Ben Van Kerkwyk – Think Tank – E40;” YouTube; 52:30 timestamp; https://www.youtube.com/watch?v=ssnV_apVEQ0
+
+11. Paul Sheridan; “Philitis and the Great Pyramid”; 3 May 2015; https://www.anecdotesfromantiquity.com/philitis-and-the-great-pyramid/
+
+12. Charles Casey; “Philitis: being a condensed account of the recently discovered solution of the use and meaning of the Great pyramid … to which is added a review of Professor Piazzi Smyth’s second edition of “Our inheritance in the Great Pyramid.”; pp 20 – 26;https://archive.org/details/philitisbeingcon00case/page/20/mode/2up
+
+13. Please note that we employ contrast, local tone, and saturation blasted images in this article to detect the precise location of red ochre paint, but these settings are not used to manipulate comparison between marking sets.
+
+14. Microbial Activity: Iron-oxidizing bacteria, such as those from the genus Leptothrix or Gallionella, can thrive in environments where iron is available. These bacteria oxidize ferrous iron (Fe²⁺) to ferric iron (Fe³⁺), resulting in the precipitation of iron oxides. The chemical reaction is as follows: 4Fe2++O2+6H2O→4Fe(OH)3+8H+4Fe2++O2​+6H2​O→4Fe(OH)3​+8H+
+
+Resulting Patina: The ferric iron (Fe³⁺) precipitates as ferric hydroxide (Fe(OH)₃), which eventually dehydrates to form iron oxide minerals such as hematite (Fe₂O₃) or goethite (FeO(OH)). These iron oxides impart a red or orange color to the patina on a limestone surface. Hematite typically produces a red color, while goethite can range from yellow to brown to orange.
+
+References:
+
+Johnson, D. B., & Hallberg, K. B. (2003). The microbiology of acidic mine waters. Research in Microbiology, 154(7), 466-473. This study discusses the general activity of iron-oxidizing bacteria in various environments.
+
+Emerson, D., & Moyer, C. L. (1997). Isolation and characterization of novel iron-oxidizing bacteria that grow at circumneutral pH. Applied and Environmental Microbiology, 63(12), 4784-4792. This research focuses on iron-oxidizing bacteria in neutral pH environments, relevant to some cave settings.
+
+15. Scott Creighton, Graham Hancock: ‘Crime In The Great Pyramid: The Evidence Mounts’; 31 May 2018; https://grahamhancock.com/creightons10/
+
+16. Creighton S., “Analysis of the Painted ‘Quarry Marks’ within the Stress Relieving Chambers of the Great Pyramid of Giza”; J Ancient History, Rev. 2024;XX(X)
+
+17. Hawas, Z.; “The Secret Doors Inside the Great Pyramid”; http://guardians.net/hawass/articles/secret_doors_inside_the_great_pyramid.htm
+
+18. Morgan Smith, Ancient Origins: Lost Artifacts of the Great Pyramid: The Mysterious Case of the Dixon Relics; 30 May 2019; https://www.ancient-origins.net/artifacts-other-artifacts/dixon-relics-0011999
+
+19. Jessie Yeung; CNN: “5,000-year-old relic from the Great Pyramid discovered in a cigar box in Scotland”; 16 Dec 2020; https://www.cnn.com/style/article/dixon-relics-great-pyramid-of-giza-discovery-intl-hnk-scli-scn/index.html
+
+20. YouTube; AncientArchitects: EXCLUSIVE: First Look Inside the Great Pyramid Queen’s Chamber Northern Shaft | Ancient Architects; https://www.youtube.com/watch?v=Ki0405ulvIY&t=848s
+
+21. Wikipedia: Great Pyramid of Giza; 17 Dec 2023; https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza#Relieving_chambers
+
+22. UnchartedX. “How Old Are These MEGALITHS? A Study of Erosion in Ancient Egyptian Architecture – UnchartedX” YouTube video; June 8, 2024; https://www.youtube.com/watch?v=OJ8jjSeEsus
+
+23. Ioannis Liritzis, Asimina Vafiadou, Surface luminescence dating of some Egyptian monuments, Journal of Cultural Heritage, Volume 16, Issue 2, 2015, Pages 134-150, ISSN 1296-2074, https://doi.org/10.1016/j.culher.2014.05.007.
+
+24. Google Arts & Culture; Akhenaten: The Pharaoh Erased from History; https://artsandculture.google.com/story/the-pharaoh-erased-from-history-neues-museum-staatliche-museen-zu-berlin/CQURgLrWPLdZIg?hl=en
+
+25. Ancient Origins: The Disk of Sabu: Ancient Egyptian Water Pump or Alien Hyperdrive?; https://www.ancient-origins.net/artifacts-ancient-technology/disc-sabu-0015642
+
+26. Wikipedia: Sabu Disk; 21 Dec 2023; https://en.wikipedia.org/wiki/Sabu_disk
+
+27. D. A. Miller, “Pump Handbook”; 4th Edition; McGraw-Hill, 2008; Chapter: Centrifugal Pumps – Impeller Design and Selection; pp. 3.12 – 3.14
+
+28. Wikipedia: Sabu Disk; https://en.wikipedia.org/wiki/Sabu_disk
+
+29. Wikipedia: Sabu Disk; https://en.wikipedia.org/wiki/Sabu_disk – note, I guarantee you Wikipedia will NEVER place this idea into its writeup on the Disk, now that we have mentioned it. Indicative of just how thick is the agency which surrounds anything non-orthodox regarding these pyramids.
+
+30. Project Gutenberg; Herodotus: An Account of Egypt: https://www.gutenberg.org/files/2131/2131-h/2131-h.htm
+
+31. Roger Cook; This Old House: How to Build a Stone Wall; https://www.thisoldhouse.com/masonry/21016582/how-to-build-a-stone-wall
+
+32. Ryan Olson; For Construction Pros: ‘What Are FF & FL Numbers?’; 27 May 2020; https://www.forconstructionpros.com/concrete/article/12099992/what-are-ff-and-fl-numbers
+
+33. Hemeda, S., Sonbol, A. Sustainability problems of the Giza pyramids. Table 3; Herit Sci 8, 8 (2020). https://doi.org/10.1186/s40494-020-0356-9
+
+34. Wikipedia: Karst; 18 Dec 2023; https://en.wikipedia.org/wiki/Karst
+
+35. Karstification: (Ford, Derek, and Paul Williams. Karst Hydrogeology and Geomorphology. Wiley, 2007) is the process by which soluble rocks, such as pure limestone, dolomite, and gypsum, are dissolved by natural acidic water, typically containing dissolved carbon dioxide (CO₂), which forms carbonic acid (H₂CO₃).
+
+36. Hemeda, S., Sonbol, A. Sustainability problems of the Giza pyramids. Table 2; Herit Sci 8, 8 (2020). https://doi.org/10.1186/s40494-020-0356-9
+
+37. To measure a mineral’s resistance to erosion by ocean water, you would typically use a material’s hardness scale and its chemical bond durability or ‘weathering resistance’. Here are some scales and concepts that are relevant, in order:
+
+1. Mohs Hardness Scale – While primarily used for scratch resistance, it indirectly provides insight into a mineral’s ability to resist physical erosion. Example: Quartz (Mohs hardness of 7) is more resistant to erosion compared to calcite (Mohs hardness of 3).
+
+2. Chemical Durability Carbonate minerals (e.g., calcite, limestone): More prone to chemical weathering and dissolution in acidic conditions.
+
+3. Slake Durability Index (SDI) The Slake Durability Test evaluates the resistance of rock samples, including limestone, to disintegration when subjected to cycles of wetting and drying.
+
+4. Rosiwal Scale – This scale measures the absolute hardness of minerals by quantifying the resistance of a material to a standardized abrasive force.
+
+38. Please note: While the carbonic acid equation cited above technically constitutes ‘weathering,’ it is critical to comprehend that the resulting deposition/sludge/material has been transported away by the movement of ocean water (erosion). Therefore, I refer to this overall process as ‘erosion’ to clearly convey the reality of what is occurring. This terminology avoids the semantic nuances that might otherwise be exploited to downplay the significance of this feature.
+
+39. YouTube: Closing the Biggest Mystery of the Great Pyramid; 26:15; https://www.youtube.com/watch?v=ItAQSrlG9WQ&t=22s
+
+40. Annotated travertine erosion photo is extracted from: UnchartedX. “Descent into Darkness! The Subterranean Chamber of the Great Pyramid of Giza” YouTube video; June, 2021; https://www.youtube.com/watch?v=EE5NlANGZMg&t=161s
+
+41. The reason why the 0 sea state line does not bisect the crest to trough interval, as would exist in open sea conditions, is due to a principle called ‘Sea Wall Reflection”. Reflection: Waves hitting a sea wall are reflected back into the sea. This reflected wave can interact with incoming waves, leading to a phenomenon known as constructive interference, where the wave heights add together, creating higher wave crests. This effect causes the waterline to be more along the 35-40% level of interval height as opposed to 50% (bisecting), and as well, results in a parabolic rise at 90-degree corners, as is highlighted in the pyramid Tura limestone casing in the chart.
+
+42. Building the Great Pyramid; https://www.cheops-pyramide.ch/khufu-pyramid/pyramidion.html
+
+43. Chapman, Philip K.; “Losing the Geomagnetic Shield: A Critical Issue for Space Settlement”; 3 Feb 2017; https://space.nss.org/wp-content/uploads/NSS-JOURNAL-Losing-the-Geomagnetic-Shield.pdf
+
+44. Salt Efflorescence: In environments where limestone is exposed to saline conditions, salt efflorescence can occur. This process involves the deposition of salts from evaporating water, which can leave behind crystalline encrustations. These salts can appear as sharp, protruding growths on the stone surface.
+
+45. The Khufu Pyramid: The Shaft or Well: Important notes: ; https://khufupyramid.dk/important-information/important-notes
+
+46. Sir William Matthew Flinders Petrie; “The Pyramids and Temples of Gizeh”, 1880; Khufu Pyramid: Important Notes: https://khufupyramid.dk/important-information/important-notes
+
+47. Here is how this process of Tura Limestone dissolving and re-concretion could theoretically unfold: ChatGPT-4: The hypothesis that the Tura limestone casing stones of the Great Pyramid could dissolve in seawater and subsequently form a calcium carbonate concretion at the base is scientifically plausible in a general sense. Reaction of Limestone with Carbonic Acid: Limestone, which primarily consists of calcium carbonate (CaCO₃), can react with carbonic acid (H₂CO₃). Carbonic acid forms in seawater when carbon dioxide (CO₂) from the air dissolves in water. The reaction between calcium carbonate and carbonic acid can lead to the dissolution of limestone. Formation of Calcium Bicarbonate: The chemical reaction in an aqueous environment (like seawater) typically converts calcium carbonate into calcium bicarbonate (Ca(HCO₃)₂), which is both heavier than and soluble in water. Deposition and Concretion Formation: If the conditions change – for example, if the water evaporates or if the pH changes – the dissolved calcium bicarbonate can re-deposit as calcium carbonate. This re-deposition can form concretions or other sedimentary structures. In the specific context of the Great Pyramid’s casing stones: If these stones were submerged in seawater and conditions led to the dissolution of the limestone, the dissolution process would involve the formation of calcium bicarbonate. It’s possible that calcium carbonate could form concretions in the surrounding sand. This would depend on various factors such as local environmental conditions, the concentration of dissolved calcium bicarbonate, and the presence of nucleation points for crystal formation. In this hypothetical circumstance the Tura limestone dissolved, plummeted as a heavy solute to the foot of the pyramid as the waters receded, and then was carried and settled, not conveyed by rain runoff, to form re-concretions in the Subterranean Chamber lower passage only, and into the sand at the base of the pyramid (at that time). Hence the chaotic and sand-plumed bottom shape of the re-concretions in the photo above. Only an inundation could have caused these features.
+
+48. Sir William Matthew Flinders Petrie; “The Pyramids and Temples of Gizeh”, 1880; Khufu Pyramid: Important Notes: https://khufupyramid.dk/important-information/important-notes
+
+49. Small passage silt deposition photo is extracted from: UnchartedX. “Descent into Darkness! The Subterranean Chamber of the Great Pyramid of Giza” YouTube video; June, 2021; https://www.youtube.com/watch?v=EE5NlANGZMg&t=161s
+
+50. Kennett, James P.. Marine Geology. Prentice-Hall, 1982.
+
+51. John and Morton Edgar; Great Pyramid Passages Vol 1 1910 edition; p 293; “but beyond this, on to the Queen’s Chamber, the very thick and hard incrustation of salt which entirely covers the walls of this passage, made it impossible for us to locate the joints with any certainty. This salt incrustation is peculiar to the Horizontal Passage and Queen’s Chamber, although a little of it may also be seen on the walls of the First Ascending Passage.”; https://archive.org/details/GreatPyramidPassagesVol11910Edition/page/n301/mode/2up
+
+52. Royal Society of Chemistry. Chemistry of Limestone. Available from: https://edu.rsc.org/resources/chemistry-of-limestone/1077.article. Accessed May 21, 2024.
+
+53. Smith BJ. Limestone in the Built Environment: Present-day Challenges for the Preservation of the Past. Geological Society of London; 2010.
+
+54. Anthony L. Peratt, Fellow, IEEE; “Characteristics for the Occurrence of a High-Current, Z-Pinch Aurora as Recorded in Antiquity”; 1192 IEEE TRANSACTIONS ON PLASMA SCIENCE, VOL. 31, NO. 6, DECEMBER 2003; https://www.plasmacosmology.net/Characteristics-for-the-Occurrence-of-a-HighCurrent-ZPinch-Aurora-as-Recorded-in-Antiquity-squatter-squatting-man-Anthony-Peratt.pdf
+
+55. topgraphic-map.com; https://en-us.topographic-map.com/
+
+56. James Trefil’s article, “Evidence for a Flood,” published in Smithsonian Magazine, explores the hypothesis that a catastrophic flood in the Black Sea region around 7,500 years ago may have inspired the biblical story of Noah’s flood. The article discusses geological and archaeological evidence supporting this theory, including sediment layers and the implications of rising sea levels from the Mediterranean into the Black Sea basin. For further details, see Trefil, J. (2000). Evidence for a Flood. Smithsonian Magazine. Available at: https://www.smithsonianmag.com/science-nature/evidence-for-a-flood-102813115/.
+
+57. Lorence G. Collins’ article, “Yes, Noah’s Flood May Have Happened, But Not Over the Whole Earth,” published by the National Center for Science Education, explores the possibility that the biblical flood described in Genesis was a large regional flood in Mesopotamia rather than a global event. The article examines geological and historical evidence to support this theory. For more details, see Collins, L. G. (2009). Yes, Noah’s Flood May Have Happened, But Not Over the Whole Earth. National Center for Science Education. Available at: https://ncse.ngo/yes-noahs-flood-may-have-happened-not-over-whole-earth.
+
+58. Jeffrey P Tomkins study, “Not only does the overall stratigraphic sequence of the Flood record correspond globally, but the data also show that the Flood transpired in a series of progressive inundations corresponding to each megasequence. These inundations were caused by a series of violent tsunami-like waves over the yearlong period of the Genesis Flood. These progressively higher ebb-and-flow events began their sediment and fossil deposition in the lowest regions of the continental shelf (shallow seas on the continental crust near land), proceeded to the edges of landmasses (lowland coastal regions), and then moved increasingly upward onto land until finally the entire pre-Flood landscape was under water.
+
+This final stage of the Flood was characterized by vast amounts of water and sediment draining across and pouring off the continents. Much of this sediment deposition took place in large basins on land next to the uplifting mountain ranges and offshore in the deepening oceans.” For more details, see Tompkins, et al.; Developing a Comprehensive Model of Global Flood Paleontology: Integrating the Biostratigraphic Record with Global Megasequence Deposition; https://digitalcommons.cedarville.edu/icc_proceedings/vol9/iss1/25/
+
+59. “In this main pit, he encountered a deposit of clean, apparently water-laid soil up to eleven feet thick. Evidence of the Flood was absent from several shafts and uncertain or disturbed in a number of others. Just slightly before Woolley’s initial discovery, S. Langdon and L. Watelin encountered smaller flood levels at Kish (Watelin, 1934). Within a few years, excavations of a third Mesopotamian site, Shuruppak, also uncovered a flood stratum (Schmidt, 1931). It is of particular interest because, according to the Mesopotamian legend, Shuruppak was the home of Ziusudra, the Sumerian Noah.” For more details, see C/E Journal, Spring 1988; https://ncse.ngo/flood-mesopotamian-archaeological-evidence
+
+60. In the video titled “Is There Evidence of an Ancient Flood?” by the Smithsonian Channel, various experts discuss geological and archaeological evidence supporting the theory of an ancient flood that may have inspired the biblical story of Noah. The video explores sediment layers, ancient artifacts, and the implications of rising sea levels in the Black Sea region. For further details, see Smithsonian Channel. (2021). Is There Evidence of an Ancient Flood? [YouTube Video]. Available at: https://www.youtube.com/watch?v=LOtydLmdfV8.
+
+61. The lowest elevation of the Richat Strucutre, which was inundated and possesses extensive salt flats as a result, is 1165 ft (Topographic-Map.com). The entire surrounding continent was clearly inundated for a long period of time – our ignorance of this is a condemning commentary upon archaeology. Bright Insight: The Richat Structure ATLANTIS Theory Just Got Even More BIZARRE; 2 Mar 2024; https://rumble.com/v4guotn-the-richat-structure-atlantis-theory-just-got-even-more-bizarre.html
+
+62. “A high energy anomalous breccia exists within an otherwise calm Mesoproterozoic depositional environment of the Taoudeni Basin in present-day Mauritania.” – Aden, Milam, et al.; “AN ANOMALOUS BRECCIA IN THE MESOPROTEROZOIC (~1.1 Ga) ATAR GROUP, MAURITANIA: POTENTIAL EVIDENCE FOR AN IMPACT-GENERATED TSUNAMI”; 40th Lunar and Planetary Science Conference (2009); 
+
+63. Jewel, “Aswan, Egypt: The Mystery of the Ostrich Egg;” 13 May 2013; https://roaming-jewel.com/2018/05/13/aswan-egg/
+
+64. Wikipedia: Wadi al Hitan; https://en.wikipedia.org/wiki/Wadi_al_Hitan
+
+65. based upon suggestion of a similar notion by @rmanzell843391 on X: https://x.com/rmanzel843391/status/1833594826539127237
+
+66. Zeng, T.C., Aw, A.J. & Feldman, M.W. Cultural hitchhiking and competition between patrilineal kin groups explain the post-Neolithic Y-chromosome bottleneck. Nat Commun 9, 2077 (2018). https://doi.org/10.1038/s41467-018-04375-6
+
+67. Karmin M, Saag L, Vicente M, et al. A recent bottleneck of Y chromosome diversity coincides with a global change in culture. Genome Res. 2015 Apr;25(4):459-66. doi: 10.1101/gr.186684.114. Epub 2015 Mar 13. PMID: 25770088; PMCID: PMC4381518.
+
+68. Project Gutenberg; Herodotus: An Account of Egypt: https://www.gutenberg.org/files/2131/2131-h/2131-h.htm,
+
+69. Since the local mean sea level at various points around the globe can be 328 feet higher or lower than the ellipsoid model of the Earth used for GPS, this provides a run-span of 656 feet from lowest to highest sea level given any specific reorientation of the Earth’s geographic poles. If this is the case here, then 88% of that range was exhibited here, in terms of sea level rise. A bit on the extreme, but we also do not know the regional gravitational dynamics involved in such an orbital shift, so this magnitude of rise is not out of the question.

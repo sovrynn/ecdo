@@ -1,3 +1,4 @@
+# dumb version - one line number per line
 # Read the input file and number each line, then write to the output file
 
 def number_lines(input_file, output_file):
