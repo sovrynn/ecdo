@@ -20,9 +20,9 @@ thin serif for italic
 
 ## Actual verdict
 
-Gothic A1 bold for bold
-Nanum myeongjo (serif) for main
-Gothic A1 thin for italic
+- Gothic A1 bold for bold
+- Nanum myeongjo (serif) for main
+- Gothic A1 thin for italic
 
 # input.txt
 
@@ -34,4 +34,17 @@ Custom
 0
 0.12
 0.2
+1.1
+
+## a4 (larger image (footer) margins)
+
+p2
+0.6
+Custom
+12
+18
+3.5
+0
+0.55
+0.4
 1.1

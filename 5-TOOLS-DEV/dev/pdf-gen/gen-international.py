@@ -21,6 +21,7 @@ from PIL import Image as PILImage
 from reportlab.pdfbase.cidfonts import UnicodeCIDFont
 from reportlab.lib.fonts import addMapping
 from reportlab.platypus import Spacer
+from reportlab.lib.pagesizes import A4
 
 
 
@@ -368,7 +369,8 @@ def generate_pdf(md_file_path, output_file_path, params):
     # Create PDF
     doc = SimpleDocTemplate(
         output_file_path,
-        pagesize=letter,
+        # pagesize=letter,
+        pagesize=A4,
         fontName=params["font_name"],
         leftMargin=params["page_margins"],
         rightMargin=params["page_margins"],
