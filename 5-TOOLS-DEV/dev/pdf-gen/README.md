@@ -15,7 +15,7 @@ Install rsvg: https://superuser.com/questions/877904/installing-rsvg-on-a-mac
 
 Prepare input file `input.txt`.
 
-You need to download the font .tff files into this directory as well.
+You need to download the font .tff files into this directory as well. If you're generating non-English characters that needs to be supported in the font file.
 
 Run the script. No input args.
 
@@ -31,7 +31,9 @@ Links outside of the citations section need to be manually checked to make sure 
 
 Citations can only be done through the LLM, not programmatically, aside from the painstaking manual method.
 
-Line spacing doesn't really work.
+Line spacing doesn't work properly.
+
+Reportlab fonts: https://docs.reportlab.com/reportlab/userguide/ch3_fonts/#truetype-fonts-with-asian-characters
 
 ## Prompt creation
 
