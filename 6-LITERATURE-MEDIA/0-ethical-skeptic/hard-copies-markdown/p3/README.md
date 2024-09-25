@@ -28,15 +28,15 @@ No doubt, this article will be spun by science poseurs as constituting ‘conspi
 
 This constitutes a severe form of confirmation bias called in military parlance ‘tactical fixation’. Such a process is particularly vulnerable to manipulation by external influences (agency as opposed to mere bias), leading to what we referred to in a previous article as the ‘Nelsonian Ignorance Trap.’
 
-![](img/1.webp)
+![](img/2.webp)
 
 However, there exists a less common yet much more potent method of discovery, which conceives of science as an evolutionary process rather than a collection of immutable truths, inductive incremental validations, and entrenched syndicates. I refer to this approach as deductive critical path science, akin to ‘working the problem’ as known in detective work or military contexts. It begins with falsification of various notions and constructs supported by weak inductive evidence, and culminates in a living, breathing, sometimes threatening, theory – as opposed to standing dogma. This version of science does not require hordes of ‘science enthusiasts’ in order to maintain the faithful inside a state of belief.
 
-![](img/1.webp)
+![](img/3.webp)
 
 Furthermore, peer review falls short in encompassing the essence of ‘working the problem’; instead, it often dismisses ideas perceived as unfamiliar or abhorrent by resorting to critique of tactics and trivialities. Researchers are acutely aware of this reality and as a consequence often limit their conclusions to highly constrained ‘might-be’ inference, title their work in a manner that does not accurately represent the study’s conclusions, express their findings in cryptic language, or embellish their work with excessive heuristic ornamentation—ultimately rendering peer review the epitome of conflict of interest. Many researchers have learned how to game this vulnerability.2 3
 
-![](img/1.webp)
+![](img/4.webp)
 
 The result of all this is that Narrative Science takes precedence over the actual scientific method, under a tenet of philosophy I call The Principle of Diminishing Scientific Returns. It is for precisely this reason why we often rely on Kuhn-Planck Paradigm Shifts to drive scientific advancement.
 
@@ -60,7 +60,7 @@ When you have eliminated the impossible, whatever remains, however improbable, m
 
 ~ Sherlock Holmes, “The Sign of the Four” by Sir Arthur Conan Doyle
 
-![](img/1.webp)
+![](img/5.webp)
 
 Image 1 – Waterline Erosion ‘Dead Body’ Falsification Event – Earth’s oceans have been displaced in the past, and have done so over a significant period of time (10 – 50 years). Long enough to carbonic acid dissolve the Tura limestone casing of both the Khufu and Khafre pyramids. If a hypothesis does not explain this specific Khafre erosion waterline feature conclusively, then it is not a scientific hypothesis.
 
@@ -80,7 +80,7 @@ For more deductive evidence and hypothesis detail behind this, see our article H
 
 ### The Heat Between Indigo and Tau
 
-![](img/1.webp)
+![](img/6.webp)
 
 Points Indigo and Tau are inflection and tipping points that I often utilize when analyzing strategies, campaigns, problems, or deceptions. The Indigo Point is a critical juncture where plans are quietly set in motion, potentially irrevocably, steering towards a predetermined Tau strike point. Although not an exact match, functionally, Point Indigo aligns with Ray Bradbury’s concept of the butterfly effect, where minor, early changes serve to precipitate significant later outcomes. Conversely, Point Tau resembles Malcolm Gladwell’s notion of a tipping point— a moment when the issue of outcome becomes apparent and it is too late for direct intervention to alter the course of events.
 
@@ -94,7 +94,7 @@ A culmination of events that ancient civilizations have endeavored to communicat
 
 ### Point Indigo (Construct and Critical Path) – Exothermic Core-Mantle Decoupling and Heat Transfer Inflection
 
-![](img/1.webp)
+![](img/7.webp)
 
 Exhibit A – Heat contribution from the core feeds into the mantle, avoiding the red-hued Large Low-Velocity-Shear Provinces under the south African continent (SAC-LLVP) and Pacific ocean (see Exhibits E and E2).6 As a result, these massive structures also become less dense as compared to the surrounding core-fed mantle.
 
@@ -107,7 +107,7 @@ Most of this Indigo Point chain of events is outlined in our article The Climate
 
 ### Point Tau (Prediction) – True Polar Wander Event – Gyroscopically Mediated Dzhanibekov Decoupling Tip-In (104º flip along the 31º E Meridian)
 
-![](img/1.webp)
+![](img/8.webp)
 
 Exhibit B – Conceptual Dzhanibekov Rotation based upon the ECDO Theory and established LLVP lower density axes within the Earth’s mantle.
 In our continued expansion of the ECDO theory, a critical tip-in, or Tau Point, manifests with a significant geological event. This pivotal occurrence involves the substantial contribution of heat from the phase state change of hexagonal close-packed iron (HCP-Fe) into the entire Earth’s mantle, save for the South Africa Cusp and Pacific Large Low-Velocity-Shear Province (LLVP) group of mantle formations (left side of Exhibit A above). This infusion of dense, metallic mass at a key geodynamic nexus is hypothesized to catalyze an increasing gyroscopic moment commensurate with a reduction in the geomagnetic permeability of the Earth’s core. The geographic North Pole (Np) is theorized to realign to a new position, designated as Np’ in Exhibit B to the right, which is projected to occur along the 31° East Meridian—a line of longitude notably shared with the ancient and enigmatic Khufu Pyramid. This realignment, shifting approximately 104 degrees, represents a dramatic reorientation of the Earth’s rotational axis,or what it called a True Polar Wandering (TPW) event,7 underpinning the transformative implications of the ECDO theory at this Tau Point.
@@ -122,7 +122,7 @@ This broaches the question, How does one go about detecting the onset of such an
 
 ### Dzhanibekov Dynamics and Rotation
 
-![](img/1.webp)
+![](img/9.webp)
 
 Exhibit C – Pure Dzhanibekov Effect on a symmetrical object rotating in space. Rotation around its intermediate axis forces a flip in the axial dynamics.8
 
@@ -130,7 +130,7 @@ The Dzhanibekov Effect, also known as the tennis racket theorem, refers to a phe
 
 The effect occurs because the intermediate axis theorem states that rotation around the object’s intermediate axis (neither its maximum nor its minimum inertia axis) is unstable.9 When an object such as a tennis racket or a wingnut is tossed with a spin around this intermediate axis, it eventually flips around, rotating about the other axes, leading to a sudden and unexpected shift in orientation.10 This surprising behavior highlights unique stability characteristics in rotational dynamics, particularly in the microgravity conditions of space.
 
-![](img/1.webp)
+![](img/10.webp)
 
 Exhibit C2 – Mundi and Euler Dense Axes – contrast sharply with the LLVP axis we estimate (extracted from the cited Wenying, et al. Geodynamics 2020 study).
 
@@ -143,7 +143,7 @@ This adjustment in our theoretical approach highlights the unique application an
 
 ### Large Low-Velocity-Shear Province (LLVP) – Earth’s Hidden Gyroscope
 
-![](img/1.webp)
+![](img/11.webp)
 
 Exhibit D – South Africa Cusp – Large Low-Velocity-Shear Province (SAC-LLVP) tomography structures (red) and centroid (yellow) at the southern tip of the African continent. The lighter axial centroid of the SAC-LLVP aligns precisely with the 31st East Meridian, which also passes through the Giza Plateau—positioned 104 degrees offset from the current North Pole.12
 Large Low-Shear-Velocity Provinces (LLVPs) are significant geophysical features located deep within the Earth’s viscoelastic mantle, particularly at the boundary with the core, ranging upwards towards the asthenosphere of the Earth, to around 2,900 kilometers below the surface. These regions are differentiated by their seismic properties; specifically, seismic waves travel through these structures at slower speeds as compared to surrounding materials. This anomalous behavior suggests that LLVPs are both hotter and less dense than the majority of the Earth’s mantle.
@@ -152,7 +152,7 @@ There are two primary LLVP structures, which we refer to herein as ‘SAC’ for
 
 Bear in mind that the Earth’s mantle is anisotropic, while most of our tomography and science concerning mantle density and specifically Large Low-Shear-Velocity Provinces (LLVPs) has been developed within the last decade.
 
-![](img/1.webp)
+![](img/12.webp)
 
 Exhibit E – LLVP Formation Less-Dense Axial Centroids – align at the 30°E/150°W meridians, while being 104 degrees offset from the current North Pole, inside the south tip of the African continent.15 Chart is from the referenced Mcnamara, et al. study, however the yellow and text annotations are ours.
 
@@ -160,7 +160,7 @@ The two LLVP structures are found beneath Africa and the Pacific Ocean – actin
 
 Thus, there is a clear perpendicular relationship between the True Polar Wander (30°E and 150°W meridians) great circle and ENSO geothermal heating along the orthogonal Euler Axes (120°E and 60°W meridians) great circle.
 
-![](img/1.webp)
+![](img/13.webp)
 
 Exhibit E2 – Contrasting Orthogonal Euler Axis Heating Centroids – align at 120°E/60°W longitudes. Oceanic heating centers on these East and West Euler Axes, which we also identify through other analytical approaches later in this article.17
 
@@ -174,13 +174,13 @@ Take note that the African LLVP tapers with both the Rift Valley, as well as the
 
 Exhibit F below shows a conceptual depiction of this minimum/maximum gyroscopic axis formed by the two LLVPs. It is extracted from the referenced Cottaar, et al. study, with our annotations shown in yellow and blue text/lines.
 
-![](img/1.webp)
+![](img/14.webp)
 
 Exhibit F – Moment Map of Earth’s Hidden Gyroscope – Three perspectives of the LLVP structures under Africa and the Pacific, along with a conceptual depiction of the axis of gyroscopic moment (thick yellow line) based upon the South Africa Cusp centroid of the African LLVP.22
 
 However, in the interest of precision, let’s examine a more objective and recent (2021 tomographic) measure of the geographic position of the South Africa Cusp – Large Low-Velocity-Shear Province (SAC-LLVP). In the extracted Exhibit G below, from the referenced Tsekhmistrenko, et al. 2021 study, one can observe the intersection of the cusp’s radial centroid and the 31° E Meridian.
 
-![](img/1.webp)
+![](img/15.webp)
 
 Exhibit G – South Africa Cusp Radial Center of Mass – 2021 tomography indicating the geographic position of the South Africa Cusp – Large Low-Velocity-Shear Province (SAC-LLVP). Please note that the red lines and annotations ‘Radial Centroid’ and ‘Meridian’ are our added highlights.23
 
@@ -190,7 +190,7 @@ Furthermore, regarding the argument of a ‘lack of recorded history’ for such
 
 We posit therefore, that the centroid of the South Africa Cusp serves to act as the minimum gyroscopic-Dzhanibekov axis point during a decoupling of Earth’s mantle and core, serving to potentially rotate the Earth’s gyroscopic mass along a new geographic axis of Earth rotation (Np‘), with the center of less-dense mass of the South Africa Cusp now pointing directly at the celestial North Pole (Polaris, Ursa Minor, etc.). The gyroscopic plane of higher mantle mass therefore would reside perpendicular to the LLVP axis, as depicted in Exhibit G above. The old geographic axis of Earth rotation (current ‘North Pole’) is also marked (Np).
 
-![](img/1.webp)
+![](img/16.webp)
 
 Exhibit H – Dzhanibekov SAC-LLVP longitudinal (meridional) center of cusp (less dense mass) in relation to the Giza Plateau meridian and North Pole. 104 total degrees, bisected with a mid-point in central Turkey – which just happens to also be the Geographic Center of the World.25 This is no accident. This serves as the basis of an authentication, which will be examined in Exhibit L below.
 
@@ -200,14 +200,14 @@ Nor is it an accident that Africa’s Rift Valley falls right on the 31st Meridi
 
 The principle shown in Exibit H above is developed in terms of the physics of rotating bodies below. The special form of rotation proposed by this article, we call a Gyroscopically Mediated Dzhanibekov Rotation (last scenario on the right in Exhibit I below).
 
-![](img/1.webp)
+![](img/17.webp)
 
 Exhibit I – Gyroscopically Mediated Dzhanibekov Rotation – not a retrograde rotation. What we postulate is a modified pure Dzhanibekov Effect rotation (Exhibit C), which does not complete fully – being mediated by the gyroscopic effect of the differential mass planes between the LLVP less dense axis versus the more dense surrounding mantle. This more dense body serves as a form of gyroscopic wheel, forcing the Earths rotation to conserve momentum by taking on a gyroscopic stability priority, and neither a core-mantle coupled nor pure Dzhanibekov rotation. Note that the first two rotation concepts adhere to the ‘right hand rule’ of ‘Arctic’ polar definition. The latter two indicate the ‘former Arctic’ in each scenario.
 Key inference to be taken from the rightmost two images of Exhibit I above: The science of paleomagnetism possesses no method to detect a Dzhanibekov rotation, as distinct from a geomagnetic pole excursion or flip. So an appeal to ignorance here, is worthless.
 
 Now, let’s take the modified scenario at the right end of Exhibit I above, and arrange it into the graphic extracted from the Cottaar, Lekic, et. al study which we examined in Exhibit F earlier.
 
-![](img/1.webp)
+![](img/18.webp)
 
 Exhibit J – The Solution – Inertial Interchange 104° True Polar Wander (IITPW) – Internal schema of core, mantle, SAC-LLVP, and PAC-LLVP in relation to the Gyroscopically Mediated Dzhanibekov Rotation. The ‘mediation’ involves the intervention of the lighter moment of Earth’s mass distribution—composed by the net centroids of its LLVP structures, this becomes Earth’s new less-dense Conservation of Angular Momentum (gyroscopic) rotational axis.
 
@@ -226,7 +226,7 @@ This would result in a rapid movement away from the spin axis by the geographic 
 
 With ‘The Solution’ identified now in Exhibit J, forgive me, dear reader, as I must ask you to endure one more complex graphic. This graphic describes the entire set of physics behind the oscillation (repeating cycle) of Dzhanibekov rotation. Exhibit J2 below presents the pair of Earth rotational conditions and further outlines the physics involved in each state: Geomagnetic Priority and Gyroscopic Priority.
 
-![](img/1.webp)
+![](img/19.webp)
 
 Exhibit J2 – The repeating cycle of core exothermic sloughing followed by subsequent endothermic accretion creates a repeating oscillation based on the variable strength of the geomagnetic moment of the Earth’s core (green annotation in Exhibit J2). This process operates through the Dzhanibekov effect and the Earth’s mantle’s gyroscopic angular momentum. We speculate that the process of moving from State 2, Gyroscopic Priority, back to State 1, Geomagnetic Priority, may involve a viscoelastic-mantle tectonic height readjustment and gradual settle-in process, however involving a relatively sudden cooling event at the point where the core recaptures its HCP-Fe lattice integrity.
 
@@ -242,7 +242,7 @@ Footnote on True Polar Wander and Khufu Alignment: Concerning the contention tha
 
 ### A Geologic Appeal to Ignorance? Maybe Not…
 
-![](img/1.webp)
+![](img/20.webp)
 
 Figure 8 – Laj and Lund Studies on Geomagentic Excursion Histories.
 While researching this issue, I found that most paleogeomagnetic dipole moment studies unfortunately reside behind annual subscription paywalls. Nonetheless, I discovered that the typical temporal resolution of these studies is on the order of two to four thousand years at best.30
@@ -262,13 +262,13 @@ It is important to note that, under this hypothesis, the period during the short
 
 Finally, below is a short video illustrating the concept of the Mediated Dzhanibekov Oscillation between Geomagnetically Induced Mechanical Equilibrium (State 1) and Conservation of Angular Momentum by Rotation Axis (State 2). Special thanks to Craig Stone at nobulart.com for developing this video. Before proceeding to the next section, please pay particular attention to the location and celestial pole angles of the Great Pyramid at Giza depicted in the video.
 
-![](img/1.webp)
+![](img/21.webp)
 
 Exhibit J3 – Mediated Dzhanibekov Oscillation with the rotational north axis cycling between 90° North (State 1) and 14° South (State 2) latitude (104 degrees) along the 31st East Meridian of longitude. The lever driving this cycle is the strength of the core’s magnetic moment. We currently rotate in State 1, with a strong-but-diminishing geomagnetic moment. The only thing in the video which differs from the hypothesis presented in this article is that the core of the Earth would not Dzhanibekov rotate with the outer rotational body (ORB = mantle + crust). It would continue to rotate as it does in State 1.
 
 The ECDO rotation shown in Exhibit J3 is consistent with the major oceanic-inundation desert formations across the globe, including the Gobi Desert, American Southwest, Great Victoria Desert, Patagonia, and the Sahara Desert.34 35 The Arabian Desert may well have occurred as the result of a settle-in process unique to the Arabian Tectonic Plate after or during return to State 1. Hence the seemingly more recent receding shorelines back to the Persian Gulf.
 
-![](img/1.webp)
+![](img/22.webp)
 
 Exhibit J4 – West and East Euler Axes – a violent 48 hours. The axis around which the Earth would temporarily rotate to shift the geographic North Pole to the new location (Np‘). Indicated on the chart are the theoretical initial oceanic inertial velocities at original angular momentum and the resulting deserts and striations which would form from such an oceanic displacement. It is no coincidence that human, fauna, and flora genetic diversity is greatest at these two ‘eye-of-the-hurricane’ stability points (blue areas) during a 104° ECDO rotation from State 1 to State 2. Sub-Saharan Africa as well is partly spared due to its shielding by the North African continental mass and high deserts as well as its variances in land mass elevation. Special thanks again to Craig Stone at nobulart.com for developing this image (click image to expand).
 
@@ -282,7 +282,7 @@ Craig Stone has pointed out as well that past geomagnetic pole excursion events 
 
 ### Survival of Genetic/Biological Diversity Clusters at Euler Axes is No Coincidence
 
-![](img/1.webp)
+![](img/23.webp)
 
 One should note that the optimal location for inundation-survival in the Western Hemisphere under this scenario, would be the Ecuadoran and Peruvian Andes, along the coast just west of the Euler Axis in South America. From the perspective of the East Euler Axis, a similar location for survival of such an event would reside at Sulawesi and Gunung Padang, Indonesia.
 
@@ -309,15 +309,15 @@ Below, the reader may grasp why such a monumental endeavor might have been shrou
 
 The monumental work around the Exothermic Core Cycle addressed by this structure may even continue to this very day. Although not definitive, the symbology below suggests a purpose for the purported activity in the anomalous structures found in Antarctica. Has this group been successful in their quest? I do not know the answer to this; however, I do know that those who lie to cover this up do so under the contexts of control and malice.
 
-![](img/1.webp)
+![](img/24.webp)
 
 Image 2 – US Navy LCDR Seal ‘Spartan 1’ Anomalous Finding Markings – marked into the door or the ‘Octagon,’ Antarctica, 2003 (right panel). Matched to a coin from antiquity found in Mexico in 1993 (left panel) – possibly suggesting a 6,000-year cycle. Matched as well to both Np and Np‘ as depicted in our argument below (center panel). Left and right panels are from this 2019 production by Linda Moulton Howe. Center panel is an east-facing perspective (the same direction that the Spinx gazes) of Exhibit K below.
 
-![](img/1.webp)
+![](img/25.webp)
 
 Image 3 – Reverse Side of Coin – The coin in the left panel in Image 2 above has a reverse side with a radial symbol stamped into it. That symbol is recreated in the central panel of this, Image 3. The coin proportions exactly along the 55% radius of the Earth’s core and the 19% radius of the Earth’s inner core, in relation to its whole body radius. This makes the core arguably 30 to 40% of the Earth’s total mass, depending upon the phase state, lattice, and density assumptions employed. This raises the question, how did the maker of the coin know this?
 
-![](img/1.webp)
+![](img/26.webp)
 
 Image 4 – Back of Coin Matched to Antarctic Door Symbol – Symbol also found by Spartan 1 in Antarctic ‘Octagon.’
 
@@ -340,13 +340,13 @@ This sets the framework for considering some long-puzzling features of the pyram
 ### The Curious Case of the Khufu Tripartite Observatory and Dual 104 Degree Anomaly
 Why Was this Structure so Important to Build?
 
-![](img/1.webp)
+![](img/27.webp)
 
 Exhibit K – There is a 104-degree span between the shafts extending from both the King’s and Queen’s Chambers in the Khufu Pyramid. This is not accidental. Neither are these shafts purposed for air supply or spotting specific stars. It is our conjecture that the three chambers of the Khufu Pyramid were designed to house sophisticated sensors used to monitor the Earth’s rotational stability. This same motif was found marked on the top right hand side of a 20 ft tall door to an anomalous octagonal structure purportedly found in Antarctica by a Navy Seal Team, Spartan 1, in 2003.45 We speculate (note: not critical path to the hypothesis) that this was a tripartite observatory:
 
 1. King’s Chamber – Celestial Pole Nutation Monitoring: The north celestial pole monitoring shafts are oriented to a specific celestial reference, running directly to the pyramid’s surface and pointing accurately at both Np (State 1) and Np‘ (State 2) for Giza. These shafts are designed to monitor the nutation (wobble and wander) of the celestial north pole (see Exhibit K3 below). Since the North Shaft from the King’s Chamber makes a mid-shaft break to the west to avoid some structure (similar to the North Shaft from the Queen’s Chamber), it cannot be used for direct optical observation, as is often conjectured. Instead, this would be a monitoring device requiring termination at the pyramid’s surface, facing directly at the celestial north pole.
 
-![](img/1.webp)
+![](img/28.webp)
 
 Exhibit K3 – Earth’s Celestial North Pole Nutation (Wobble and Wander). As the Earth’s geomagnetic moment weakens, nutation of the celestial pole dilates and global ocean temperatures rise rapidly.
 
@@ -361,13 +361,13 @@ Such a power core would need to be functionally located away and off-axis from o
 ### Why are there Two Different Sets of Angles/End Points in the Shafts?
 ### Why Did Only the Queen’s Shafts have Copper Cable Pairs?
 
-![](img/1.webp)
+![](img/29.webp)
 
 Exhibit K2 – Conclusion: “An active, high amperage, low SWR dual-dipole-antenna with sensitivity from 0.664 to 5.34 MHz would be well-suited for monitoring geomagnetic and ionospheric conditions.” The differential orientation of the Core’s geomagnetic moment, is offset by 104-degrees from the geomagnetic moment of the Mantle during State 2 (see Exhibit J2). Hence the 104-degree spread of the antenna’s ‘V’. The north shaft was altered as the structure was built, to more align with geomagnetic north for Giza (annotated as ‘variation’ in the Top-Down View).
 
 Remnants of the copper cables (click on photo to right) were found by the Gantenbrink Upuaut Project in March 1990 in the Queen’s Chamber south air shaft (and later the North Shaft as well). These cables have long since been removed by both tomb robbers, as evidenced by the Dixon Relics found by Waynman Dixon at the bottom of the north shaft in 1872, and by obfuscation (alleged) on the part of Zahi Hawass. As one can see in this linked image of the door cables, Hawass had the right hand cable removed by the door pressure testing team during the Djedi Project (Hawass knew exactly what he needed to hide/steal—this constituted theft of mankind’s intellectual property). They then proceeded without comment regarding the sudden change, and no trace of the copper cable remnant was ever admitted by the research team—while no outcry from the archaeological community was ever raised. This is a prime example of why I have little respect for archaeology.
 
-![](img/1.webp)
+![](img/30.webp)
 
 Below, the reader will lay witness to the reasons behind why Hawass (allegedly) knew these copper cables had to be confiscated and their documentation prevented—these copper cables will never show up again.50
 
@@ -379,7 +379,7 @@ After Egyptian authorities and Hawass cut a deal regarding his improprieties, th
 
 As one can observe in the photo above and in Exhibit K2b, there are two copper components that extend out of the stone face: first is a dovetail mold of copper cut into the stone itself to keep the end of the wire anchored and prevent it from being pulled too taut out the back of the stone, and second, the cable itself, now hanging over the dovetail mold of the right cable. The same dangling cables and dovetailed anchors can be observed on the North Shaft stone as well. One can observe where the dovetail-molded copper fitting has fallen out and the copper cable hangs in its place in this closeup of the North Shaft left cable. In this anchoring design the copper cables can neither be pulled out of the stone, nor can they be pulled too taught through the stone itself. The cables are anchored through the stone in both directions—an engineering solution befitting a precision-engineered critical component and not a decorative or one-time functional feature in the least.
 
-![](img/1.webp)
+![](img/31.webp)
 
 Exhibit K2b – Longitudinal cross section of shaft end door and expansion/contraction anchoring, dovetailing, and stopping.
 
@@ -398,7 +398,7 @@ The copper cables in the pyramid ran out in independent pairs (possibly for diff
    • North Shaft 75 meters x 2
 Resonant wavelength = 150 (75 x 2) meters @ λ/2 Dipole = primary at 1.932 MHz, a 1.27 standing wave ratio, and a ground wave main lobe at 15° above horizon (report output shown in the above right image inset). Secondary resonances exist at 5.34 / 4.29 / 3.11 / 0.644 MHz (MF/HF).
 
-![](img/1.webp)
+![](img/32.webp)
 
 Superior geomagnetic monitoring sensitivity lobes form at 1.932 MHz and its harmonics (EZNEC Pro 2+)—both axial ground and air from the two double-cable, high amperage antennas connecting back to the Queen’s Chamber.
 
@@ -416,7 +416,7 @@ Thus, argument can be made that these wires were part of a system designed to mo
 
 This functionality was feasible particularly if the system’s active power was controlled and frequency-tuned by a horizontal and perpendicular-to-field shunt coil, cooled (high amperage) by its extension into the eastward horizontal passage of the chamber’s eastward-facing niche, whereby the limestone block heat transfer efficiency would keep the overall temperature of the Queen’s Chamber at a reasonable level. For predictive confirmation, we therefore examined the condition of the limestone just outside and above the south passage, and indeed this is what we find.
 
-![](img/1.webp)
+![](img/33.webp)
 
 The burnt limestone above and exiting the Queen’s Chamber niche, continuing to the ceiling of the Queen’s Chamber itself, also aggregated near the niche and dissipating across the ceiling ridge moving westward, confirms the presence of high heat in antiquity. The surface of heated limestone can undergo thermal decomposition and partial melting, resulting in a dark brown colored vitrification with a glossy appearance (see Exhibit K2c below).56 This heat was not from fire, because the vitrified patina contains no bound combustion ash or chemical reaction residues. This dark brown ‘leoparding’ (my term) is due to the release of carbon dioxide (CO₂) and the presence of impurities in the limestone that can change color upon exposure to high heat.
 
@@ -426,7 +426,7 @@ The users of this power did not fully grasp the utility of voltage (Ohm’s Law:
 
 Eventually one must discard the fairy tales they were taught—this is a prerequisite of integrity and maturity.
 
-![](img/1.webp)
+![](img/34.webp)
 
 Exhibit K2c – High, non-combustion generated, heat – Notice that the highest temperature (quick lime) decay is located right at the exit of the horizontal passage, transitioning to lower temperature leoparding as the heat dissipates while rising to the top of the niche. This indicates an extraordinary level of heat exposure, which was not caused by chemical reaction or combustion.
 
@@ -437,7 +437,7 @@ Moreover, there is an independent determination that the rock-cut dead-end south
 **Understanding the Necessity of The Great Pyramid’s Scale**
 **Why Did They Bury a Water-Eroded Chamber so Far Below It?**
 
-![](img/1.webp)
+![](img/35.webp)
 
 Exhibit K3 – Infrasound featuring wavelengths in the range of 30 to 70 meters (Earth P-waves), suitable for propagation from the H-layer up to the Earth’s surface61 62 63 would reflect inside the pyramid in much the same fashion as occurs in a microphone’s parabolic reflector. The focal point for such infrasound coincides with the location of the Subterranean Chamber. The 5 to 10 Hz range is quite reasonable for detecting infrasound signals emanating from deep within the Earth, including potential core noise.
 
@@ -452,7 +452,7 @@ To those who resent that our suggestion of such technology also might imply the 
 
 However, it is clear to us that the two sets of shafts serve a dual purpose, not just one. In the image shown in Exhibit K above, regarding the ‘air/star shafts’ which run outward and up at specific angles from each of the King and Queen’s Chambers, one pair of these shafts points directly north, while the other points directly south. Such precision in alignment suggests a purpose beyond mere ventilation, as the substantial cost and engineering effort involved in these particular designs would be unjustifiable for simple air shafts – more easily run (and more importantly, removed so as to deter robbers) in a vertical orientation. (Please note that within this article, 7N and 7S for example are referred to as a ‘set’ of shafts, whereas, 7N and 10N are referred to as a ‘pair’)
 
-![](img/1.webp)
+![](img/36.webp)
 
 Exhibit H2 – Both the Geographic Center of the World at the 38th North parallel, as well as the Giza Complex at the 30th North parallel are depicted in relation to each other and the Np to Np’ meridian of Dzhanibekov rotation.
 
@@ -466,7 +466,7 @@ the celestial north pole in two different Earth rotational orientations (Np and 
 and from two different geographic locations (Giza and Geographic Center of the World).
 The eight degrees of geographic latitude separation is employed as part of the key to authenticate the message.
 
-![](img/1.webp)
+![](img/37.webp)
 
 Exhibit L – Khufu Shafts Aligned to Mediated Dzhanibekov Rotation Angle – from both the Turkey bisection latitude as well as Giza. Conceptually, here the builders of the pyramid have employed the King and Queen’s Chamber shafts to both demarcate and authenticate the shift from normal polar alignment at Np (State 1) to the novel polar alignment at Np‘ (State 2). It is no accident that the alignment on the right, both bisects the Dzhanibekov rotation and happens to sit right on the Geographic Center of the World, 31.4° East Longitude and 38.4° North Latitude.
 
@@ -488,7 +488,7 @@ Of course, it would have been helpful had the builder at least marked one of the
 
 In one of the star/air shafts extending upward from the Queen’s Chamber, there resides a curious set of non-hieroglyphic markings which were photograped by the Upuaut Project.66 On the ceiling, just at the final stone before the block that terminates this shaft, a depiction of the night sky is carved. This artistic representation includes the constellations Ursa Minor and Ursa Major, Draco, Lacerta, Bootes, Cepheus, and Cassiopeia, unmistakably identifying this specific section of the sky and its orientation.
 
-![](img/1.webp)
+![](img/38.webp)
 
 Exhibit M – End of Queen’s Chamber Star Shaft – A star chart is carved into the last stone serving as the ceiling of the shaft. By Precession of the Equinoxes, that chart depicts a Giza skyline from 9200 to 9600 BCE. Plus, the depiction is of a north sky, used to align a southward pointing shaft.
 
@@ -498,11 +498,11 @@ What remains in question is the timeframe represented by this depiction of the n
 
 This depiction suggests a construction timeframe for the star shaft of around 9200 to 9600 BCE, as evidenced by comparing Exhibits M and N. Many of the stars represented in this carving would have been below the horizon in 2540 BCE and thus invisible in this depiction, to observers of that era. A Starry NightTM rendering of the northern sky at Giza as it appeared in 9200 BCE, which precisely matches the arrangement carved into the stone shown in Exhibit M, is shown below, along with the sextant-like alignment technique entailed.
 
-![](img/1.webp)
+![](img/39.webp)
 
 Exhibit N – Star Time Frame and Engineering Analogous to a Sextant – In practice, the foreman would take the shaft ceiling stone upon which the star map was marked, align the bottom center of the stone with the celestial north pole in the sky, and then ensure that the center of the stone matched exactly the azimuth and altitude of the celestial pole itself – in this manner, aligning the next day’s work (as well as the shaft) to true north. The stone had to bisect the north sky horizontally so that the altitude of the celestial north pole could also be shot, along with its azimuth. If the foreman used an 8 inch mirror fit into the shaft itself, this would in essence be analogous to a sextant. Through employing this method, along with knowledge of the precession of the equinoxes (celestial position of the north pole over a 25,772 year cycle), the date range for construction of the shaft becomes abundantly clear.
 
-![](img/1.webp)
+![](img/40.webp)
 
 Exhibit N2 – The Vulture Stone (Pillar 43) at Göbekli Tepe indicates a construction date of 14,800 BCE. Bottom panel is developed from Starry Night Pro 8, for Sanliurfa, Turkey, 14,800 BCE. Note that an important part of the stone was purposely obscured by the excavation oversight team. We comment upon such pseudoscientific dysethics in a subsequent article.67
 
@@ -541,7 +541,7 @@ The biblical flood narrative reduces that set of events into familiar tropes: it
 
 This illustrates the problem with ‘explain it like I’m 5’: a technique that often leads to critical inaccuracies. As a result, the biblical version is unreliable as compared to more ancient accounts (such as below) that offer a more nuanced and physically plausible depiction of events. Generations of mankind miss an important geophysical principle because someone wanted to make the story ‘easy to understand’. This is what happens when you dumb things down – everyone gets dumb as a result.
 
-![](img/1.webp)
+![](img/41.webp)
 
 Exhibit O – Seal of The King of Mohenjo Daro.
 Curiously, in the Epic of Gilgamesh’s Tablets IX, X, and XI, King of Uruk, Gilgamesh, set out upon a quest to find his ancestor Utnapishtim. Utnapishtim had been granted immortality by the Gods after he had followed one God’s (Ea/Enki) direction to build a large boat. He then loaded the vessel with his kith, kin, and domesticated animals, and successfully survived an epic inundation. Gilgamesh, being two thirds God himself, desired to understand the mystery of immortality (my commentary: why someone would wish to live forever in this realm is beyond me).
@@ -562,7 +562,7 @@ of the coming deluge] to [my] reed house [wall instead]:
 with him, say to] the man of Shuruppak, son of Ubartutu:
 “Tear down [your] house and build a boat!”
 
-![](img/1.webp)
+![](img/42.webp)
 
 That stated time had arrived.
 In the morning [Shamash] let loaves of bread [tephra
@@ -602,7 +602,7 @@ I looked around all day long–quiet had set in
 and all the human beings had turned to clay!
 The terrain was as flat as a roof.
 
-![](img/1.webp)
+![](img/43.webp)
 
 As one can see from the various comparative notes on inundation myths, three or four of the most prominent deluge myths, aside from the Torah, match the specifics of the timeline depicted above. The Chinese Gun-Yu myth is one of two that specify or imply how long the people struggled with the displaced waters (two generations, most of 1 lifespan, or 50 years – our Karst erosion estimate top end). Nonetheless, if our hypothesis bears merit, this inundation effect is part of a repeating cycle (ECDO – oscillation).
 
@@ -612,7 +612,7 @@ From the Library of Ashurbanipal comes The Legend of Etana.79 The largest and mo
 
 Gilgamesh, on the other hand, is listed as a king of Uruk in a later section of the King List, during the Early Dynastic Period as well, but at a later time. Scholars typically date Gilgamesh to around the 27th to 26th century BCE.
 
-![](img/1.webp)
+![](img/44.webp)
 
 Exhibit P – Surface keelboat compared to Enki’s circular submarine.
 
