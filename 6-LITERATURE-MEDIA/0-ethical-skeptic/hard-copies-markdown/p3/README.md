@@ -24,7 +24,7 @@ A year later, the Vice President of the retailer, who had initially dismissed th
 
 ### Tree Dwellers and Tactical Fixation
 
-No doubt, this article will be spun by science poseurs as constituting ‘conspiracy theory.’ This will only highlight the sad state of affairs within science, particularly in archaeology and Egyptology. Much of science today operates under a practice I describe as ‘linear (incremental) induction.’1 We start by formulating an answer, which we then mislabel as a hypothesis. From there, we assemble a collection of observations which might appear to support or p-value our preconceived notion, while mandating that useful idiots socially discredit all competing theories or parties without substantial evidence. All the while hypocritically bemoaning the presence of any dissent inside those same social mechanisms. An example of this pathological old world syndicate elite thinking can be seen by clicking here.
+No doubt, this article will be spun by science poseurs as constituting ‘conspiracy theory.’ This will only highlight the sad state of affairs within science, particularly in archaeology and Egyptology. Much of science today operates under a practice I describe as ‘linear (incremental) induction.’[1] We start by formulating an answer, which we then mislabel as a hypothesis. From there, we assemble a collection of observations which might appear to support or p-value our preconceived notion, while mandating that useful idiots socially discredit all competing theories or parties without substantial evidence. All the while hypocritically bemoaning the presence of any dissent inside those same social mechanisms. An example of this pathological old world syndicate elite thinking can be seen by clicking here.
 
 This constitutes a severe form of confirmation bias called in military parlance ‘tactical fixation’. Such a process is particularly vulnerable to manipulation by external influences (agency as opposed to mere bias), leading to what we referred to in a previous article as the ‘Nelsonian Ignorance Trap.’
 
@@ -34,7 +34,7 @@ However, there exists a less common yet much more potent method of discovery, wh
 
 ![](img/3.webp)
 
-Furthermore, peer review falls short in encompassing the essence of ‘working the problem’; instead, it often dismisses ideas perceived as unfamiliar or abhorrent by resorting to critique of tactics and trivialities. Researchers are acutely aware of this reality and as a consequence often limit their conclusions to highly constrained ‘might-be’ inference, title their work in a manner that does not accurately represent the study’s conclusions, express their findings in cryptic language, or embellish their work with excessive heuristic ornamentation—ultimately rendering peer review the epitome of conflict of interest. Many researchers have learned how to game this vulnerability.2 3
+Furthermore, peer review falls short in encompassing the essence of ‘working the problem’; instead, it often dismisses ideas perceived as unfamiliar or abhorrent by resorting to critique of tactics and trivialities. Researchers are acutely aware of this reality and as a consequence often limit their conclusions to highly constrained ‘might-be’ inference, title their work in a manner that does not accurately represent the study’s conclusions, express their findings in cryptic language, or embellish their work with excessive heuristic ornamentation—ultimately rendering peer review the epitome of conflict of interest. Many researchers have learned how to game this vulnerability.[2] [3]
 
 The result of all this is that Narrative Science takes precedence over the actual scientific method, under a tenet of philosophy I call The Principle of Diminishing Scientific Returns. It is for precisely this reason why we often rely on Kuhn-Planck Paradigm Shifts to drive scientific advancement.
 
@@ -68,11 +68,11 @@ Within this article, readers will be introduced to a hypothesis derived from the
 
 I want to make it clear that I dislike this alternative. At its heart, the hypothesis involves what is called in philosophy, an ‘unfalsifiable prediction through indefinite timing’ (Point Tau below). I dislike such notions – favoring context-and-control testable predictions as one of the elements of true hypothesis. In fact, I opposed this idea vehemently for decades. Like many of my colleagues, I had grown weary of hearing Noah’s flood theories, and had attained a level of cynicism regarding the matter as well (not skepticism).
 
-However, I was wrong – finally setting my mind to develop its probative construct (not a ‘final answer’) only after having falsified every single previously favored notion or alternative I or others could muster.4 Thereafter, this hypothesis exists as a probative construct – as there is no possible way for it to be 100% correct out of the box. It is a working and evolving set of ideas—thoughts that have been doggedly embargoed from the collective consciousness of science.
+However, I was wrong – finally setting my mind to develop its probative construct (not a ‘final answer’) only after having falsified every single previously favored notion or alternative I or others could muster.[4] Thereafter, this hypothesis exists as a probative construct – as there is no possible way for it to be 100% correct out of the box. It is a working and evolving set of ideas—thoughts that have been doggedly embargoed from the collective consciousness of science.
 
 *The majority of archaeologists lack extensive seafaring expertise and are not versed in materials science research. As someone with deep experience in both domains, the significance of what is shown in Image 1 is readily apparent to me. Moreover, if a standing hypothesis fails to address the deductive evidence shown in Image 1, it is not a scientific hypothesis – rather a political technology.*
 
-Furthermore, this hypothesis includes several predictive elements that are substantiated upon detailed examination, as will be demonstrated in the subsequent sections of this article and have been outlined in our preceding article.5 Initially, I considered this theory extremely unlikely, comparable to the improbability of conjecturing a murder. Yet, my perspective underwent a dramatic shift after inspecting the exterior of the Khafre Pyramid. The evidence I observed there was as compelling as the discovery of a dead body, motivating me to now pursue this most improbable path. Despite its initial apparent implausibility, this hypothesis presents the most robust ‘probative construct’ I have encountered regarding this topic, particularly in its description of the ‘function’ of the four ‘air shafts’ within the Khufu pyramid. This construct will continue to be modified into the future of course – but more importantly, it constitutes a paradigm shift, one which allows science to move forward and no longer wallow in appeal to authority and prior plausibility. Ockham’s razor has been surpassed, and plurality is now necessary.
+Furthermore, this hypothesis includes several predictive elements that are substantiated upon detailed examination, as will be demonstrated in the subsequent sections of this article and have been outlined in our preceding article.[5] Initially, I considered this theory extremely unlikely, comparable to the improbability of conjecturing a murder. Yet, my perspective underwent a dramatic shift after inspecting the exterior of the Khafre Pyramid. The evidence I observed there was as compelling as the discovery of a dead body, motivating me to now pursue this most improbable path. Despite its initial apparent implausibility, this hypothesis presents the most robust ‘probative construct’ I have encountered regarding this topic, particularly in its description of the ‘function’ of the four ‘air shafts’ within the Khufu pyramid. This construct will continue to be modified into the future of course – but more importantly, it constitutes a paradigm shift, one which allows science to move forward and no longer wallow in appeal to authority and prior plausibility. Ockham’s razor has been surpassed, and plurality is now necessary.
 
 *One can scream all they want about how ‘experts have concluded…’. If I find a deceased individual in the living room immediately after a party, it doesn’t matter how many expert attendees testify that the party went fine; the dead body proves otherwise. Khafre’s erosion marks constitute a ‘dead body’. Khafre ocean submersion falsifies convention and serves to introduce a necessary deductive critical path construct, and absolutely everyone is ignoring this.*
 
@@ -98,7 +98,7 @@ This sequence of events, that we refer to as the Indigo Point set, initiates wit
 
 ![](img/7.webp)
 
-**Exhibit A** – Heat contribution from the core feeds into the mantle, avoiding the red-hued Large Low-Velocity-Shear Provinces under the south African continent (SAC-LLVP) and Pacific ocean (see Exhibits E and E2).6 As a result, these massive structures also become less dense as compared to the surrounding core-fed mantle.
+**Exhibit A** – Heat contribution from the core feeds into the mantle, avoiding the red-hued Large Low-Velocity-Shear Provinces under the south African continent (SAC-LLVP) and Pacific ocean (see Exhibits E and E2).[6] As a result, these massive structures also become less dense as compared to the surrounding core-fed mantle.
 
 A. Weakening of the core-mantle magnetic coupling (Earth’s geomagnetic moment) and North Pole (Np) priority.
 
@@ -110,7 +110,7 @@ Most of this Indigo Point chain of events is outlined in our article The Climate
 
 ### Point Tau (Prediction) – True Polar Wander Event – Gyroscopically Mediated Dzhanibekov Decoupling Tip-In (104º flip along the 31º E Meridian)
 
-In our continued expansion of the ECDO theory, a critical tip-in, or Tau Point, manifests with a significant geological event. This pivotal occurrence involves the substantial contribution of heat from the phase state change of hexagonal close-packed iron (HCP-Fe) into the entire Earth’s mantle, save for the South Africa Cusp and Pacific Large Low-Velocity-Shear Province (LLVP) group of mantle formations (left side of Exhibit A above). This infusion of dense, metallic mass at a key geodynamic nexus is hypothesized to catalyze an increasing gyroscopic moment commensurate with a reduction in the geomagnetic permeability of the Earth’s core. The geographic North Pole (Np) is theorized to realign to a new position, designated as Np’ in Exhibit B to the right, which is projected to occur along the 31° East Meridian—a line of longitude notably shared with the ancient and enigmatic Khufu Pyramid. This realignment, shifting approximately 104 degrees, represents a dramatic reorientation of the Earth’s rotational axis,or what it called a True Polar Wandering (TPW) event,7 underpinning the transformative implications of the ECDO theory at this Tau Point.
+In our continued expansion of the ECDO theory, a critical tip-in, or Tau Point, manifests with a significant geological event. This pivotal occurrence involves the substantial contribution of heat from the phase state change of hexagonal close-packed iron (HCP-Fe) into the entire Earth’s mantle, save for the South Africa Cusp and Pacific Large Low-Velocity-Shear Province (LLVP) group of mantle formations (left side of Exhibit A above). This infusion of dense, metallic mass at a key geodynamic nexus is hypothesized to catalyze an increasing gyroscopic moment commensurate with a reduction in the geomagnetic permeability of the Earth’s core. The geographic North Pole (Np) is theorized to realign to a new position, designated as Np’ in Exhibit B to the right, which is projected to occur along the 31° East Meridian—a line of longitude notably shared with the ancient and enigmatic Khufu Pyramid. This realignment, shifting approximately 104 degrees, represents a dramatic reorientation of the Earth’s rotational axis,or what it called a True Polar Wandering (TPW) event,[7] underpinning the transformative implications of the ECDO theory at this Tau Point.
 
 ![](img/8.webp)
 
@@ -132,9 +132,9 @@ The Dzhanibekov Effect, also known as the tennis racket theorem, refers to a phe
 
 **Exhibit C** – Pure Dzhanibekov Effect on a symmetrical object rotating in space. Rotation around its intermediate axis forces a flip in the axial dynamics. [8]
 
-The effect occurs because the intermediate axis theorem states that rotation around the object’s intermediate axis (neither its maximum nor its minimum inertia axis) is unstable. [9] When an object such as a tennis racket or a wingnut is tossed with a spin around this intermediate axis, it eventually flips around, rotating about the other axes, leading to a sudden and unexpected shift in orientation.10 This surprising behavior highlights unique stability characteristics in rotational dynamics, particularly in the microgravity conditions of space.
+The effect occurs because the intermediate axis theorem states that rotation around the object’s intermediate axis (neither its maximum nor its minimum inertia axis) is unstable. [9] When an object such as a tennis racket or a wingnut is tossed with a spin around this intermediate axis, it eventually flips around, rotating about the other axes, leading to a sudden and unexpected shift in orientation.[10] This surprising behavior highlights unique stability characteristics in rotational dynamics, particularly in the microgravity conditions of space.
 
-While our theory references the Dzhanibekov Effect, it is crucial to understand that Earth’s real three PIM-axis body application (see Exhibit C2 to right) diverges in part from the classical three-axis definition observed in space (Exhibit C).11 Our model does not strictly adhere to the traditional Dzhanibekov Effect definition, where an object flips 180 degrees due solely to rotational instability around its intermediate axis (Exhibit C above). Instead, we explore how similar principles could influence Earth’s rotational dynamics under different conditions, specifically,
+While our theory references the Dzhanibekov Effect, it is crucial to understand that Earth’s real three PIM-axis body application (see Exhibit C2 to right) diverges in part from the classical three-axis definition observed in space (Exhibit C).[11] Our model does not strictly adhere to the traditional Dzhanibekov Effect definition, where an object flips 180 degrees due solely to rotational instability around its intermediate axis (Exhibit C above). Instead, we explore how similar principles could influence Earth’s rotational dynamics under different conditions, specifically,
 
 ![](img/10.webp)
 
@@ -160,11 +160,11 @@ There are two primary LLVP structures, which we refer to herein as ‘SAC’ for
 
 *Bear in mind that the Earth’s mantle is anisotropic, while most of our tomography and science concerning mantle density and specifically Large Low-Shear-Velocity Provinces (LLVPs) has been developed within the last decade.*
 
-The two LLVP structures are found beneath Africa and the Pacific Ocean – acting like low-density poles along a kind of gyroscopic axis of their own within the Earth’s mantle. They are massive in scale, each covering a substantial portion of the lower mantle. These formations are regarded to be potentially less dense than the surrounding mantle matrix. While in contrast, the orthogonal (90-degrees of longitude offsets – 30°E – 120°E – 150°W – 60°W) below-identified Euler axes are denser and vary little in their relative density to each other (△PIM (A, B, C) = .35%).16 We believe this interleaving of heat and low density zones, by the 90-degree intervals depicted in Exhibits E and E2, to be no coincidence.
+The two LLVP structures are found beneath Africa and the Pacific Ocean – acting like low-density poles along a kind of gyroscopic axis of their own within the Earth’s mantle. They are massive in scale, each covering a substantial portion of the lower mantle. These formations are regarded to be potentially less dense than the surrounding mantle matrix. While in contrast, the orthogonal (90-degrees of longitude offsets – 30°E – 120°E – 150°W – 60°W) below-identified Euler axes are denser and vary little in their relative density to each other (△PIM (A, B, C) = .35%).[16] We believe this interleaving of heat and low density zones, by the 90-degree intervals depicted in Exhibits E and E2, to be no coincidence.
 
 ![](img/12.webp)
 
-**Exhibit E** – LLVP Formation Less-Dense Axial Centroids – align at the 30°E/150°W meridians, while being 104 degrees offset from the current North Pole, inside the south tip of the African continent.15 Chart is from the referenced Mcnamara, et al. study, however the yellow and text annotations are ours.
+**Exhibit E** – LLVP Formation Less-Dense Axial Centroids – align at the 30°E/150°W meridians, while being 104 degrees offset from the current North Pole, inside the south tip of the African continent.[15] Chart is from the referenced Mcnamara, et al. study, however the yellow and text annotations are ours.
 
 *Thus, there is a clear perpendicular relationship between the True Polar Wander (30°E and 150°W meridians) great circle and ENSO geothermal heating along the orthogonal Euler Axes (120°E and 60°W meridians) great circle.*
 
@@ -264,7 +264,7 @@ Nonetheless, the bottom line is this: aside from the Leschamps excursion event 4
 
 *From what we know about field strength through time, over the last hundred thousand years, there does appear to be a linkage between extinctions and low geomagnetic field strength.*
 
-*~ James Channell, University of Florida Geologist, NPR[31]*
+*~ James Channell, University of Florida Geologist, NPR*[31]
 
 It is worthy to note however, that two recent geomagnetic excursions, the 41,000-year-old Laschamp Event (lower panel of Figure 8) and the up to 187,000-year-old Iceland Basin Excursion (upper panel of Figure 8) paleomagnetic core records, followed a Virtual Geomagnetic Pole (VGP) progression that conformed to the 31st Meridian polar shift conjectured in this article. See both progressions in Figure 8 from that study, to the right. Notice that both excursions followed the same geographic route, which was drawn to the SAC-LLVP Cusp as each event progressed, eventually reverting back to State 1 (clockwise) or to State 2 (counterclockwise)—both along the 31st Meridian.[32] The Lund Study on the Laschamp and Iceland Basin Excursions shows similar pathway derivations to the Laj Study as well.[33]
 
@@ -299,7 +299,7 @@ One should note that the optimal location for inundation-survival in the Western
 
 ![](img/23.webp)
 
-Perhaps this is the reason why the oldest cave art in the world (51,200 years old) can only be found at Leang Bulusipang, Sulawesi38 – which is a cave at an altitude of 1800 feet positioned right on the East Euler Axis.
+Perhaps this is the reason why the oldest cave art in the world (51,200 years old) can only be found at Leang Bulusipang, Sulawesi[38] – which is a cave at an altitude of 1800 feet positioned right on the East Euler Axis.
 
 Perhaps as well, this is why we find Mankind’s oldest surviving genetic components, originating near the East Euler Axis in the forms of homo floresiensis, the extraordinary genetic distribution of Indonesia, along with our most ancient genetics in the Papuan, Austronesian, Orang Asli (Semang), and Andamanese Aborigines. Ample and recent genetic study using mitochondrial DNA and Y-chromosome data, such as those published in Nature Genetics, American Journal of Human Genetics, Investigative Genetics, and Nature, have shown that Indonesian populations are among the most genetically diverse in the world. Finally, these genetic clusters show clear association with the most ancient Amazonian tribes existing along the West Euler Axis as well.
 
@@ -353,7 +353,7 @@ However, Khufu’s specific positioning at the very longitude which just happens
 This sets the framework for considering some long-puzzling features of the pyramid’s interior and may shed light on their actual purposes.
 
 ### The Curious Case of the Khufu Tripartite Observatory and Dual 104 Degree Anomaly
-Why Was this Structure so Important to Build?
+### Why Was this Structure so Important to Build?
 
 ![](img/27.webp)
 
@@ -433,9 +433,9 @@ This functionality was feasible particularly if the system’s active power was 
 
 ![](img/33.webp)
 
-The burnt limestone above and exiting the Queen’s Chamber niche, continuing to the ceiling of the Queen’s Chamber itself, also aggregated near the niche and dissipating across the ceiling ridge moving westward, confirms the presence of high heat in antiquity. The surface of heated limestone can undergo thermal decomposition and partial melting, resulting in a dark brown colored vitrification with a glossy appearance (see Exhibit K2c below).56 This heat was not from fire, because the vitrified patina contains no bound combustion ash or chemical reaction residues. This dark brown ‘leoparding’ (my term) is due to the release of carbon dioxide (CO₂) and the presence of impurities in the limestone that can change color upon exposure to high heat.
+The burnt limestone above and exiting the Queen’s Chamber niche, continuing to the ceiling of the Queen’s Chamber itself, also aggregated near the niche and dissipating across the ceiling ridge moving westward, confirms the presence of high heat in antiquity. The surface of heated limestone can undergo thermal decomposition and partial melting, resulting in a dark brown colored vitrification with a glossy appearance (see Exhibit K2c below).[56] This heat was not from fire, because the vitrified patina contains no bound combustion ash or chemical reaction residues. This dark brown ‘leoparding’ (my term) is due to the release of carbon dioxide (CO₂) and the presence of impurities in the limestone that can change color upon exposure to high heat.
 
-As well, the ‘melting streaks’ inside the stone directly over the mouth of the niche passage come from the higher heat decay of softer limestone into ‘quick lime.’57
+As well, the ‘melting streaks’ inside the stone directly over the mouth of the niche passage come from the higher heat decay of softer limestone into ‘quick lime.’[57]
 
 The users of this power did not fully grasp the utility of voltage (Ohm’s Law: V = IR), and therefore had no need for transferring this power over long distances (which would have required high voltage). Consequently, the power was high amperage, high resistance, and was used for a nearby demand. Those who generate power for distant applications seek to minimize resistance and heat at all costs. In this application, the users were not concerned about power transmission over a distance. This power was utilized directly within the pyramid itself.
 
@@ -449,8 +449,8 @@ The users of this power did not fully grasp the utility of voltage (Ohm’s Law:
 
 Moreover, there is an independent determination that the rock-cut dead-end south passage inside the chamber might well have functioned as a sound resonance tube, generating or receiving infrasound with a base frequency in the range of 5 and 10 Hz – and that constant low frequency noise can be heard/sensed in the chamber.[59] [60] This corresponds well to the design of the pyramid itself – which is wavelength optimized to 5 Hz, per Exhibit K3 below.
 
-**Understanding the Necessity of The Great Pyramid’s Scale**
-**Why Did They Bury a Water-Eroded Chamber so Far Below It?**
+### Understanding the Necessity of The Great Pyramid’s Scale
+### Why Did They Bury a Water-Eroded Chamber so Far Below It?
 
 ![](img/35.webp)
 
@@ -520,7 +520,7 @@ The fact that all four of these shafts initially run at odd angles to the celest
 
 ![](img/40.webp)
 
-**Exhibit N2** – The Vulture Stone (Pillar 43) at Göbekli Tepe indicates a construction date of 14,800 BCE. Bottom panel is developed from Starry Night Pro 8, for Sanliurfa, Turkey, 14,800 BCE. Note that an important part of the stone was purposely obscured by the excavation oversight team. We comment upon such pseudoscientific dysethics in a subsequent article.67
+**Exhibit N2** – The Vulture Stone (Pillar 43) at Göbekli Tepe indicates a construction date of 14,800 BCE. Bottom panel is developed from Starry Night Pro 8, for Sanliurfa, Turkey, 14,800 BCE. Note that an important part of the stone was purposely obscured by the excavation oversight team. We comment upon such pseudoscientific dysethics in a subsequent article.[67]
 
 The 9200 – 9600 BCE date range suggested by this shaft has been conjectured by some to match the dating carved into Pillar 43 at Göbekli Tepe, or what is known as the ‘Vulture Stone’.[68] In Exhibit N2 to the right one may observe where I have marked the Precession of the Equinoxes great circle onto the stellar depiction of Pillar 43. One should note that the circle in Pillar 43 depicts the celestial north pole and its location along the Precession of the Equinoxes around a date of 14,800 BCE. The Pillar 43 circle cannot possibly be the sun as many have suggested, as the sun moves along the ecliptic (purple line in Exhibit N2) and comes nowhere near Cygnus. The position of the celestial north pole above Cygnus’ right wing (yellow circle in Exhibit N2) equates to 14,800 BCE. However, I do not know what to do with that datum as of yet.
 
@@ -652,3 +652,245 @@ Perhaps of an even more curious final note, the seal of the first King of Mahenj
 *epoche vanguards gnosis*
 
 The Ethical Skeptic
+
+# Citations
+
+1. The Ethical Skeptic, “Syndicate Science – The Definition”; The Ethical Skeptic, WordPress, 24 Apr 2024; Web, https://theethicalskeptic.com/?p=84476
+
+2. Academic Studies Are Getting Marked Down,” The Wall Street Journal, accessed 30 May 2024, https://www.wsj.com/science/academic-studies-research-paper-mills-journals-publishing-f5a3d4bc.
+
+3. Fake scientific papers are alarmingly common,” Science, accessed May 29, 2024, https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common.
+
+4. Burial chamber for anyone, hall of records library, river of mercury cap, power station, rocket launch pad, alien construction, giant construction, granary, water pump, natural formation, celestial energy generator, penny-on-a-fan effect, dimensional portal, irrigation, stellar gateway, time machine, great Egypt society monument, stellar communications station, king’s/national treasure vault, chemical production factory, ceremonial chamber, Earth orbit, rotation, or land mass control system, solar/celestial observatory, ark, ark of the covenant hold, spacecraft navigational aide, home of gods, metallurgy/alchemy work station, home, celestial energy focal prism, rites and initiation chamber, etc. – please note, that when I use the names ‘Khufu’ and ‘Khafre’, this is for pyramid identification only. The notion that these edifices were burial chambers built by those Pharaohs over 20 years in and around 2550 BCE is not a realistic possibility.
+
+5. A few, but not all, of the predictions I have made and confirmed with this theory:
+
+Sea Salt in human inaccessible areas (Queen’s North Air Shaft)
+
+Karst geomorphology on the Sphinx (Yes)
+
+Limestone reconcretions in the lower passages and chambers of the pyramid (Yes)
+
+Ocean silt in the lower pyramid chamber (inaccessible areas only)
+
+Morphology and size of the erosion band on the Khafre Pyramid
+
+Artifacts from the pyramid which pre-date the Fourth Dynasty significantly (Cedar Plank Dixon Relic)
+
+Regional flood geomorphologies in the Saudi and Sahara Deserts.
+
+Correspondence in metrics between the geomorphologies in #7
+
+Heat decay of Queen’s Chamber niche and hoizontal passage
+
+Transparency of limestone to geomagentic monitoring frequencies.
+
+Copper cables only in the Queen’s Chamber air shafts.
+
+Karst geomorphology on stones which are inaccessible (Queen’s North Air Shaft midway up)
+
+The full set of pyramid angles, dimensions, and designs.
+
+6. The Ethical Skeptic, “The Climate Change Alternative We Ignore (to Our Peril)”; The Ethical Skeptic, WordPress, 16 Feb 2020; Web, https://theethicalskeptic.com/2020/02/16/the-climate-change-alternative-we-ignore-to-our-peril/
+
+7. “A true polar wandering (TPW) event evidently changed the location of the pole around 11k-9k BP.”; UtahGeology website; extracted 12 Jul 2024; https://utahgeology.com/bin/iceage/index.html
+
+8. Veritasium; The Bizarre Behavior of Rotating Bodies; YouTube; https://www.youtube.com/watch?v=1VPfZ_XzisU&t=92s
+
+9. Wikipedia: The Tennis racket theorem; https://en.wikipedia.org/wiki/Tennis_racket_theorem
+
+10. Veritasium; The Bizarre Behavior of Rotating Bodies; YouTube; https://www.youtube.com/watch?v=1VPfZ_XzisU&t=92s
+
+11. Wenying Zhang, Wenbin Shen, New estimation of triaxial three-layered Earth’s inertia tensor and solutions of Earth rotation normal modes, Geodesy and Geodynamics, Volume 11, Issue 5, 2020, Pages 307-315, ISSN 1674-9847, https://doi.org/10.1016/j.geog.2020.03.005.(https://www.sciencedirect.com/science/article/pii/S1674984720300240)
+
+12. Tsekhmistrenko, Maria & Sigloch, Karin & Hosseini, Kasra & Barruol, Guilhem. (2021). A tree of Indo-African mantle plumes imaged by seismic tomography. Nature Geoscience. 14. 1-8. 10.1038/s41561-021-00762-9.
+
+13. Garnero, Edward J.; McNamara, Allen K.; Shim, Sang-Heon (2016). “Continent-sized anomalous zones with low seismic velocity at the base of Earth’s mantle”. Nature Geoscience. 9 (7): 481–489.
+
+14. Laura Baisas; Popular Science: “Two giant blobs lurk deep within the Earth, but why?; https://www.popsci.com/science/earth-blob/
+
+15. Mcnamara, Allen. “A review of large low shear velocity provinces and ultra low velocity zones.” Tectonophysics (2019): n. pag.
+
+16. Wenying Zhang, Wenbin Shen, New estimation of triaxial three-layered Earth’s inertia tensor and solutions of Earth rotation normal modes, Geodesy and Geodynamics, Volume 11, Issue 5, 2020, Pages 307-315, ISSN 1674-9847, https://doi.org/10.1016/j.geog.2020.03.005.(https://www.sciencedirect.com/science/article/pii/S1674984720300240)
+
+17. NOAA Physical Sciences Laboratory (PSL); https://psl.noaa.gov/
+
+18. The Ethical Skeptic, “The Climate Change Alternative We Ignore (to Our Peril)”; The Ethical Skeptic, WordPress, 16 Feb 2020; Web, https://theethicalskeptic.com/2020/02/16/the-climate-change-alternative-we-ignore-to-our-peril/
+
+19. a craton is an old and stable part of the continental lithosphere, which consists of Earth’s two topmost layers, the crust and the uppermost mantle
+
+20. Tsekhmistrenko, Maria & Sigloch, Karin & Hosseini, Kasra & Barruol, Guilhem. (2021). A tree of Indo-African mantle plumes imaged by seismic tomography. Nature Geoscience. 14. 1-8. 10.1038/s41561-021-00762-9.
+
+21. Boyce, Alistair & Kounoudis, Rita & Bastow, I. & Cottaar, S. & Ebinger, C. J. & Ogden, C.. (2023). Mantle Wavespeed and Discontinuity Structure Below East Africa: Implications for Cenozoic Hotspot Tectonism and the Development of the Turkana Depression. Geochemistry, Geophysics, Geosystems. 24. 10.1029/2022GC010775.
+
+22. Cottaar; Lekic (2016). “Morphology of lower mantle structures”. Geophysical Journal International. 207 (2): 1122–1136.
+
+23. Tsekhmistrenko, Maria & Sigloch, Karin & Hosseini, Kasra & Barruol, Guilhem. (2021). A tree of Indo-African mantle plumes imaged by seismic tomography. Nature Geoscience. 14. 1-8. 10.1038/s41561-021-00762-9.
+
+24. ChatGPT-4: If the Earth’s core and geomagnetic poles remain stationary while the outer mantle rotational component undergoes a Dzhanibekov rotation, the resulting observations could be interpreted as a magnetic pole shift inside scientific studies covering such a timeframe. Without a clear understanding and ability to differentiate between core dynamics and mantle movements, such an event could easily be misinterpreted as a conventional geomagnetic pole shift. This misinterpretation could lead to incorrect assumptions about the processes occurring within the Earth’s interior.
+
+25. Please note that one could argue 103° as well, given that the north and south faces of Khufu are each 51.5° on average. We would not quibble with this approach. In this approach the “52+52=104” annotation would be changed to “51.5+ 51.5 = 103”.
+
+26. Wikipedia: Geographical centre of Earth; https://en.wikipedia.org/wiki/Geographical_centre_of_Earth
+
+27. https://x.com/Rainmaker1973/status/1817579048991682575
+
+28. Kirschvink, Joseph & Ripperdan, Robert & Evans, David. (1997). Evidence for a Large-Scale Reorganization of Early Cambrian Continental Masses by Inertial Interchange True Polar Wander. Science. 277. 541-545. 10.1126/science.277.5325.541.
+
+29. 1. Mechanism Locking True North for 4,550 Years: The Earth’s rotational axis (true north) has maintained a stable alignment with the Khufu Pyramid for the past 4,550 years. Some geophysical mechanism has kept the rotational axis precisely locked that entire time, preventing significant shifts in the Earth’s orientation. We are missing that key mechanism as a premise to this argument. If one is to ask the former question, one must also ask this inverse question as well. It suggests an appeal to ignorance at play, and need for genuine skepticism both ways.
+
+2. Variance of Nutation within Precession: We do not have precise measurements of the celestial pole’s nutation variance within the 25,772-year precession cycle. This lack of detailed understanding means we cannot definitively conclude whether the Great Pyramid’s precision alignment to true north is purely coincidental within this variance or if another factor ensures this alignment. Again, we risk appeal to ignorance here.
+
+3. Disagreement between Khufu and Khafre Alignments:The alignments of the Khufu and Khafre pyramids to true north do not perfectly match each other, both within each structure (intra-structure) and between the two structures (inter-structure). How do we address this discrepancy tolerance? What physical feature do we select as our single reference for this contention?
+
+4. Other Aligned Monuments: What about the myriad other aligned monuments that indicate significant historical true polar wander and/or disagreement as to true north? Do we simply discard the whole body of observational evidence to emphasize only one observation?
+
+5. Inconsistent Alignment within Pyramids: Different components of each pyramid show slight deviations from the true north alignment. This suggests that while the builders aimed for alignment, natural construction variances may have led to accidentals and/or misalignments. In other words, did we cherry pick what we chose as our alignment reference as a touch of cultural grandstanding?
+
+30. Furthermore, the measurement error tolerance for any given time interval spanned nearly to the Leschamps excursion limit (6% of DM2017 = 80 ZAm2) to begin with.(Panovska S., Korte M., & Constable C. G. (2019). One hundred thousand years of geomagnetic field evolution. Reviews of Geophysics, 57, 1289–1337. https://doi.org/10.1029/2019RG000656) The Panovska study cited above even summed together the age-uncertainty blending of study averages, which themselves data smoothed over large timescales extrapolated from small geographic sampling regions, and only when such measures were in agreement (Panovska, Section 2.3).
+
+In other words, these studies do not feature a temporal resolution which would alert to this type of event. It would simply appear as noise inside a mundane geomagnetic excursion, if at all.
+
+The study chart plot-lines look pretty and authoritative—with lots of intimidating notation (“(V)(A)DM [ZAm2]”) and precision-implying summation functions (“V(r, θ, φ, t) = ΣΣΣ (a/r)”) serving as academic window dressing and proxy for a conceptually straightforward yet imprecise measure (volcanic material ‘thermoremanent magnetization’ with 70% of the sampling derived from Europe and Turkey). Such confidence/blending results contrast starkly with the currently observed speed of dipole moment weakening, one which is 10 times faster than any measure found inside these paleogeomagnetic studies—including the Leschamps event.(Fiona MacDonald; Science Alert: New Study Shows How Rapidly Earth’s Magnetic Field Is Changing; 11 May 2016; https://www.sciencealert.com/new-study-shows-that-earth-s-magnetic-field-is-weakening-more-rapidly-than-we-thought)
+
+This is Gaussian blindness, and as such it is not very informative. It is akin to estimating the ten-minute-interval speed of a car during a 10-day trip, with a standard deviation-based confidence band ranging from 10 to 110 miles per hour and a discrimination interval of half a day, from sampling only conducted while the car was on two-lane roads, and only by means of an agreement between tire and wind noise (no speedometer). Based on this type of analytical approach, the car would never exceeded the speed limit and never stop even once for gas, fuel, or restroom.
+
+In systems engineering, when transient signal dynamics exceed weak-observation histories by a factor of 10, the confidence in such historical observations is significantly reduced.(Chiang, L.H. et al.; “Fault Detection and Diagnosis in Industrial Systems”; 2001; ISBN: 1-85233-327-8.) (Chen, Chi-Tsong. Linear System Theory and Design. 3rd ed. New York: Oxford University Press, 1999.)
+
+Gyre-driven models (Finlay, Aubert, 2016) of our current decline in the Earth’s geomagnetic moment, place the attainment of a Leschamps-level of decay, as occurring in less than 1000 years (1900 years to “zero”), a timeframe far below the resolution of current paleogeomagnetic models.(Finlay, C., Aubert, J. & Gillet, N. Gyre-driven decay of the Earth’s magnetic dipole. Nat Commun 7, 10422 (2016). https://doi.org/10.1038/ncomms10422 As one may observe in the study graphic linked earlier (Panovska, 2019), we are already 1500 years into such a dipole weakening. The sint-2000 model itself indicating a particularly precipitous drop during this timeframe.
+
+31. Nell Greenfieldboyce; NPR Science: Ancient Trees Show When The Earth’s Magnetic Field Last Flipped Out; 18 Feb 2021; https://www.npr.org/2021/02/18/969063568/ancient-trees-show-when-the-earths-magnetic-field-last-flipped-out
+
+32. Carlo Laj, Catherine Kissel, Andrew Roberts. Geomagnetic field behavior during the Iceland Basin and Laschamp geomagnetic excursions: A simple transitional field geometry?. Geochemistry, Geo-physics, Geosystems, 2006, 7 (3), pp.n/a-n/a. 10.1029/2005GC001122. hal-03118231
+
+33. Lund, Steve & Schwartz, Martha & Keigwin, Lloyd & Johnson, Thomas C.. (2005). Deep-sea sediment records of the Laschamp geomagnetic field excursion (∼41,000 calendar years before present). J. Geophys. Res.. 110. 10.1029/2003JB002943.
+
+34. rotating gif graphics courtesy again of Craig Stone at nobulart.com
+
+35. Desert classification is based on the Köppen climate classification system – however, in this definition featuring oceanic displacement striations
+
+36. Wikipedia: Euler’s rotation theorem; https://en.wikipedia.org/wiki/Euler%27s_rotation_theorem
+
+37. McElHinney, M.W.; Paleomagnetism: Continents and Oceans; 2000; San Diego Academic Press; ISBN: 12-483355-1
+
+38. Aubert, Maxime & Lebe, Rustan & Oktaviana, Adhi & Tang, Muhammad & Burhan, Basran & Hamrullah, & Jusdi, Andi & Abdullah, & Hakim, Budianto & Zhao, Jian-xin & Geria, I. & Sulistyarto, Priyatno & Sardi, Ratno & Brumm, Adam. (2019). Earliest hunting scene in prehistoric art. Nature. 576. 1-4. 10.1038/s41586-019-1806-y.
+
+39. 女媧補天, Wikibooks: Chinese Stories/Nüwa; https://en.wikibooks.org/wiki/Chinese_Stories/N%C3%BCwa
+
+40. Nikk Ogasa; Science News: “Earth’s inner core may be reversing its rotation;” 23 Jan 2023; https://www.sciencenews.org/article/earth-inner-core-reverse-rotation
+
+41. Ancient Code: “The Great Pyramid of Giza is located at the exact center of Earth’s landmass”; 29 Apr 2024; https://www.ancient-code.com/the-great-pyramid-of-giza-is-located-at-the-exact-center-of-earths-landmass/
+
+42. Project Gutenberg; Herodotus: An Account of Egypt: https://www.gutenberg.org/files/2131/2131-h/2131-h.htm,
+
+43. Plato. (c. 360 B.C.E.). The Statesman (Politikos). In Jowett, B. (Trans.), The Dialogues of Plato. Retrieved from Perseus Digital Library.
+
+44. Velikovsky, I. (1950). Worlds in Collision. Retrieved from Spirasolaris: Selections from Immanuel Velikovsky’s Worlds in Collision (1950) https://www.spirasolaris.ca/wic.pdf
+
+45. YouTube: “The Why Files: Mysteries Beneath the Ice: The Secrets of Antarctica”; March 2024; https://www.youtube.com/watch?v=IQz7innxnms
+
+46. YouTube: Great Pyramid: Lost Technology of the Grand Gallery REVEALED; https://www.youtube.com/watch?v=SslpjDtEw_U&t=1261s
+
+47. Dunn, Christopher. The Giza Power Plant: Technologies of Ancient Egypt. Bear & Company, 1998.
+
+48. Andrew Lawler; Smithsonian Magazine: “The Fall of Zahi Hawass; 17 Jul 2011; https://www.smithsonianmag.com/history/the-fall-of-zahi-hawass-32319337/
+
+49. In 2014, the former Egyptian Minister of Antiquities, archaeologist Zahi Hawass was charged with stealing Egyptian antiquities. In the list of items [allegedly] stolen by [Hawass], the most unusual artifact was the ancient copper wires from the Pyramid of Cheops;” YouTube: “New Discovery Inside the Great Pyramid! What Did Scientists Find?’; 20 Apr 2023; https://www.youtube.com/watch?v=Mr2jqqvHL2w
+
+50. In 2014, the former Egyptian Minister of Antiquities, archaeologist Zahi Hawass was charged with stealing Egyptian antiquities. In the list of items [allegedly] stolen by [Hawass], the most unusual artifact was the ancient copper wires from the Pyramid of Cheops;” YouTube: “New Discovery Inside the Great Pyramid! What Did Scientists Find?’; 20 Apr 2023; https://www.youtube.com/watch?v=Mr2jqqvHL2w
+
+51. YouTube: “Discovering the Closed Door Inside the Great Pyramid: The Upuaut Project”; (Full Documentary)https://www.youtube.com/watch?v=cT16PVkhwrg&t=2997s
+
+52. Ancient Architects, YouTube: EXCLUSIVE: First Look Inside the Great Pyramid Queen’s Chamber (2022); pulled 9 Jun 2024; https://www.youtube.com/watch?v=Ki0405ulvIY
+
+53. 3ROAM – Antenna Length to Frequency Calculator; https://3roam.com/antenna-length-to-frequency-calculator/#google_vignette.
+
+54. ChatGPT-4o agrees with our engineer:
+
+1. Active Antenna Characteristics (Medium Frequency/High Frequency Antenna)
+
+An active antenna with a standing wave ratio (SWR) of 1.27 indicates a relatively low amount of power reflected back towards the source, which is efficient for signal transmission and reception. The design frequency of 1.932 MHz and its resonances at various frequencies suggest a broad range of operability. This range of resonances could imply a sophisticated design, possibly to maximize sensitivity across multiple frequency bands. Such a feature might have been employed for detecting a wide range of signals or for enhancing communication capabilities.
+
+2. Close Proximity of Cables
+
+The close proximity of the two cables could indeed afford high amperage and low voltage, particularly in an active antenna configuration. In such a setup, the antenna might use an active component, like a transistor or amplifier, to boost signal strength. This increased sensitivity would be crucial for detecting weak signals or for long-range communication. The high amperage could enhance the antenna’s ability to pick up faint signals, making it more effective in its role.
+
+3. Polarized or Differential Detection
+
+The potential for using the two cables in a polarized or differential detection role is worth exploring. Polarization could help in distinguishing between different signal sources or reducing interference from unwanted directions. Differential detection could enhance signal clarity by comparing the signals received by the two cables, effectively canceling out noise and improving signal-to-noise ratio. This might not have been commented upon, but it could provide additional functionality to the antenna system.
+
+55. Wang, C., G. Hajj, X. Pi, I. G. Rosen, and B. Wilson (2004), Development of the Global Assimilative Ionospheric Model, Radio Sci., 39, RS1S06, doi:10.1029/2002RS002854.
+
+56. Leeder, M. R. (1999). Sedimentology and Sedimentary Basins: From Turbulence to Tectonics. Blackwell Science.
+
+57. Pamela Pearson; “Why Burn Limestone?”; 20 Mar 2017; https://oldknows.com/2017-03-20-a-flow-chart-showing-the-uses-and-processes-of-limestone.html
+
+58. ChatGPT-4o comments: To detect P-waves effectively in a static chamber infiltrated with sensors, the fluid used should have properties that allow efficient transmission of seismic waves while being compatible with the sensors and the chamber environment. One of the best fluids for this purpose is water. Here are the reasons why:
+
+Acoustic Impedance Matching: Water has an acoustic impedance that is well-matched to many materials used in seismic sensors, ensuring efficient transmission of P-waves from the fluid to the sensors.
+
+High Transmission Speed: P-waves travel through water at a speed of approximately 1500 meters per second, which is relatively high compared to other fluids, allowing for clear and fast detection of seismic signals.
+
+Low Attenuation: Water has low attenuation for seismic waves, meaning the waves can travel longer distances without significant loss of energy, leading to clearer signals.
+
+Availability and Safety: Water is readily available, non-toxic, and safe to handle, making it a practical choice for use in a controlled experimental setup.
+
+Temperature Stability: Water maintains its properties over a range of temperatures, which is beneficial for consistent and reliable seismic measurements.
+
+While other fluids like mineral oil or glycerin could also be used, they often have higher attenuation or are less practical to handle. Thus, water is generally considered the best fluid for detecting P-waves in such a setup.
+
+59. Ancient Origins: The Great Pyramid Experiment: Exploring Infrasound Technology Use By The Ancientshttps://www.ancient-origins.net/artifacts-other-artifacts/great-pyramid-0012179
+
+60. YouTube: “When was the Subterranean Chamber built? | Great Pyramid of Giza | Lines in Sand”; https://www.youtube.com/watch?v=iiozjuoILu0
+
+61. The frequency range for infrasound, which can be generated by natural sources such as earthquakes, volcanic activity, and other geological phenomena, typically lies between 0.1 Hz and 10 Hz. This is the range where infrasound waves are most effective at traveling long distances through the Earth’s solid materials, such as those originating from the core and propagating to the surface.
+
+Earthquake P-waves are employed as the sound generation mechanism for the velocity based mapping of the core and LLVP structures themselves. Body waves, specifically Primary waves (P-waves), that travel through the Earth as a result of an earthquake typically have a frequency range between 0.1 Hz and 10 Hz. However, most of the energy from these waves is concentrated in the lower part of this range, typically from 1 Hz to 5 Hz. Inner Earth activity is attenuated more quickly because it falls in the higher frequencies, 5 Hz to 10 Hz.
+
+P-waves are capable of traveling through the Earth’s interior and are the fastest seismic waves, thus they are the first to be detected by seismometers after an earthquake occurs. This makes the 5 to 10 Hz range quite reasonable for detecting infrasound signals emanating from deep within the Earth, including potential core noise (sources: Wikipedia on Infrasound, White, B. C., Elbing, B. R., and Faruque, I. A.: Infrasound measurement system for real-time in situ tornado measurements, Atmos. Meas. Tech., 15, 2923–2938, https://doi.org/10.5194/amt-15-2923-2022, 2022.).
+
+This frequency range corresponds to wavelengths that are tens of meters long, making them suitable for penetrating deep into the Earth’s structure and reaching the surface where they can be monitored. These properties of infrasound align well with the idea of using such frequencies to detect and study geophysical phenomena originating from the Earth’s core and other deep layers.
+
+62. Wikipedia: Seismic wave/Bod wave/P-waves; https://en.wikipedia.org/wiki/Seismic_wave
+
+63. LibreTexts: Geosciences: 6.6: Seismic Waves; https://geo.libretexts.org/Courses/Lumen_Learning/Book%3A_Physical_Geography_(Lumen)/06%3A_Tectonic_Forces/6.06%3A_Seismic_Waves
+
+64. The Khufu Pyramid: The Shaft or Well: Important notes: ; https://khufupyramid.dk/important-information/important-notes
+
+65. Academy of Ancient Texts: “The Epic of Gilgamesh, Tablet XI”; http://www.ancienttexts.org/library/mesopotamian/gilgamesh/tab11.htm
+
+66. Wikipedia: Upuaut Project; https://en.wikipedia.org/wiki/Upuaut_Project
+
+67. The Ethical Skeptic, “The Principle of Diminishing Narrative Returns”; The Ethical Skeptic, WordPress, 13 Jun 2024; Web, https://theethicalskeptic.com/?p=89300
+
+68. The Why Files (Nov 2023). Göbekli Tepe and the Prophecy of Pillar 43 [Video]. YouTube.https://www.youtube.com/watch?v=r4xzFWW-FAA&t=646s
+
+69. YouTube: You Won’t Believe This Disturbing Gobekli Tepe Update; 10 Jun 2024; https://www.youtube.com/watch?v=cPNgGnUrCKM
+
+70. “the ICOMOS panel considers that there is an imbalance between the scientific research requirements and prospects as indicated in the nomination dossier, and the proposed management plan. The ICOMOS Panel would appreciate if the State Party could provide reassurances regarding the continuing medium-and long-term funding of fundamental, independent, scientifically motivated and managed research programmes.” ICOMOS Evaluation Unit letter to UNESCO, 22 Dec 2017; https://whc.unesco.org/document/165629
+
+71. Chan Thomas, The Adam and Eve Story. Bengal Tiger Press; 1963; p. 45; https://nobulart.com/media/The_Adam_And_Eve_Story-Chan_Thomas.pdf
+
+72. “A true polar wandering (TPW) event evidently changed the location of the pole around 11k-9k BP.”; UtahGeology website; extracted 12 Jul 2024; https://utahgeology.com/bin/iceage/index.html
+
+73. YouTube: Mysterious 11,000-Year-Old Statues: Were the People of Göbekli Tepe Starving to Death?; https://www.youtube.com/watch?v=aoGg3VPdVLA
+
+74. Genesis 8:4-11: 40 days after the first mountain peaks reappeared Noah releases a dove which returns with nothing, then 7 days later he releases it again and it returns with an olive leaf in its beak.
+
+75. Gardening Know How. Propagating Olive Trees: How To Grow An Olive Tree From A Pit. Available at: https://www.gardeningknowhow.com/edible/fruits/olive/propagating-olive-pits.htm. Accessed May 15, 2024.
+
+76. “[The Gods An and Enlil gave Zi-ud-sura and his wife eternal life and] settled Zi-ud-sura the king in an overseas country, in the land Dilmun, where the sun rises.”; ETCSL: The Sumerian Great Flood Story: Segment E; https://www.mesopotamiangods.com/the-sumerian-great-flood-the-flood-story-translation/ 
+
+77. Academy of Ancient Texts: “The Epic of Gilgamesh, Tablets IX, X, XI”; http://www.ancienttexts.org/library/mesopotamian/gilgamesh/tab10.htm
+
+78. Academy of Ancient Texts: “The Epic of Gilgamesh, Tablets IX, X, XI”; http://www.ancienttexts.org/library/mesopotamian/gilgamesh/tab11.htm
+
+79. Wikipedia: Library of Ashurbanipal; https://en.wikipedia.org/wiki/Library_of_Ashurbanipal
+
+80. The challenges faced by long vessels in rough seas, including hogging and sagging stresses, are well-documented in naval architecture. These phenomena are extensively covered in sources such as the Society of Naval Architects and Marine Engineers’ Principles of Naval Architecture. Additionally, the propensity for long, narrow vessels to roll in beam seas is a recognized issue in ship design and stability. ~ Society of Naval Architects and Marine Engineers. Principles of Naval Architecture. Various editions. This comprehensive reference covers the fundamental principles of ship design, including the structural stresses of hogging and sagging, and the stability challenges faced by vessels in various sea conditions.
+
+81. Dr. Irving Finkle; “The Ark Before Noah: A Great Adventure”; extracted 3 Jun 2024; https://www.youtube.com/watch?v=s_fkpZSnz2I
+
+82. The Complete Book of Enoch: Chapter 5 – Book of the Words of Righteousness, Verse 5: “Your petition [to the high council for forgiveness] will not be granted unto you. And from henceforth you shall not ascend [back] into heaven unto all eternity, and in bonds of the earth the decree has gone forth to bind you for all the days of the world.”; https://ia801001.us.archive.org/19/items/TheCompleteBookOfEnochStandardEnglishVersionJayWinter/The%20Complete%20Book%20of%20Enoch%2C%20Standard%20English%20Version%20-%20Jay%20Winter.pdf
+
+83. Two seals discovered in the (c. 2500-1750 BC) from the DK area of Mohenjo Daro and one graffiti have representations of sea-going ships. There are two birds, forward and aft which seem to be dishakak used for finding direction. “It was common to carry such birds aboard, because their infallible flight towards the land when released helped the mariners in locating the direction of the land.” The biblical Noah kept a raven and a dove in his ark and let them out at intervals to find out dry land. ~Mathew, K. S. (2018). Shipbuilding, Navigation and the Portuguese in Pre-modern India. Routledge. p. 32. ISBN 978-1-351-58833-1. 

@@ -10,10 +10,8 @@ Translate the following markdown excerpt into []. Follow the following formattin
 - Don't translate link addresses, but do translate the link text (inside brackets)
 - Don't translate image embeddings
 - Don't translate "epoche vanguards gnosis"
+- Don't translate citation numbers, which are in lone bracket pairs
 - Aside from the above exceptions, don't leave a single word untranslated
-
-Additionally, I want you to find citation numbers and put them in brackets. Citations are numbers ranging from 1 to 999. They will be hanging in weird places, not part of other language structures.
-- In particular, the hard ones to find will be the ones attached to other numbers or words directly. For example they might be attached to dates. When you clearly have a date, but it seems to be attached to a citation, (ex: Aug 201642), then you should format it as "Aug 2016 [42]".
 
 Here is the markdown excerpt. Translate it and return it to me in the same markdown formatting, with the words translated, in a markdown code block:
 
