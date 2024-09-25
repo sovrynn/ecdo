@@ -19,6 +19,12 @@ You need to download the font .tff files into this directory as well. If you're 
 
 Run the script. No input args.
 
+## Personalized formatting
+
+Image sizes - [0,1] scaling, as a word, after the image embedding
+
+Image footer markings - Prepend double backtick "``"
+
 ## Notes
 
 For ease of use to mitigate the following anomalies, I recommend copying the directory you want to generate. Adding in the new formattings. And then deleting the directory afterwards:
@@ -34,6 +40,12 @@ Citations can only be done through the LLM, not programmatically, aside from the
 Line spacing doesn't work properly.
 
 Reportlab fonts: https://docs.reportlab.com/reportlab/userguide/ch3_fonts/#truetype-fonts-with-asian-characters
+
+## Debugging Foreign Language
+
+So, when I load up foreign TTF fonts that also have English characters, these English characters just default to the basic, which makes me think that the entire font file is getting discarded for some reason.
+
+My first guess - it doesn't have all the characters that are in.
 
 ## Prompt creation
 
