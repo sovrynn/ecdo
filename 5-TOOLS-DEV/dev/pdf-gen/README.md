@@ -31,6 +31,8 @@ Links outside of the citations section need to be manually checked to make sure 
 
 Citations can only be done through the LLM, not programmatically, aside from the painstaking manual method.
 
+Line spacing doesn't really work.
+
 ## Prompt creation
 
 Write a python script that takes an input directory along with other formatting parameters read from an input file, and for each Markdown file (.md) in the input directory, generates a properly formatted PDF, which also embeds images that are embedded in the Markdown files.

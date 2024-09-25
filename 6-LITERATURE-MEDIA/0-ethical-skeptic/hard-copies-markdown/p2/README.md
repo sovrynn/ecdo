@@ -30,7 +30,7 @@ Accordingly, during my years of experience, I have formulated several hard-earne
 
 ### The Orthodoxy Problem
 
-![](img/1.webp)
+![](img/2.webp)
 
 Few better examples of this can be found than that of the testimony of the priests of Amun-Ra, to Greek historian Herodotus, in An Account of Egypt (450 BCE).2 In the account delivered by those priests to Herodotus, the Great Pyramid was built by Pharaoh Khufu, who, in his malevolence, dictated an end to the temple sacrifices, shut up the temples (of Ptah at that time), and thereby diverted the monetary tithes to his project. According to this account, he constructed the edifice over 30 years (ten to construct the causeway and twenty to build the pyramid itself) with 100,000 men, partially funding the project by placing his daughter into prostitution (the ‘stews’).
 
@@ -42,7 +42,7 @@ Now, to the merit of the orthodox position on this issue of contention, various 
 
 However, various carbon-14 dating efforts were conducted in 1984 and 1995 on samples of kiln-fired mortar (bound charcoal and charcoal VOCs) taken from service bakeries and structures nearby the Khufu pyramid. As a group, these were dated to 1480 years older than the Fourth Dynasty legendary dates of construction.4 Much of the mortar was contemporary with the Dixon Relic cedar plank carbon-14 dating and presented a significant problem for the Fourth Dynasty Narrative. These Egyptians were not using 15 to 1500 year old wood to fire their kilns—this is guaranteed. To date, there has not been a single published carbon-14 dating of mortar from inside the Khufu pyramid, much less from inaccessible areas. What little study has been completed, outlined below, was forced by alternative researchers and would never have been undertaken by academic archaeology.
 
-![](img/1.webp)
+![](img/3.webp)
 
 1984 Bowman Study: This initial study included a smaller set of samples, which yielded dates ranging from approximately 2853 to 2800 BCE. These dates were older than the conventional dates for the Fourth Dynasty, which is typically placed around 2575–2465 BCE.5
 
@@ -52,7 +52,7 @@ But this does not stop dishonest Narrative apologists from using hocus-pocus adj
 
 ### The Quarry Marks Autoaufheben
 
-![](img/1.webp)
+![](img/4.webp)
 
 **Exhibit A1** – Howard Vyse’s ‘quarry marks’ found in Lady Arbuthnot’s (4th) relieving chamber (click to expand). Whoever did this went a bit ‘over the top’. Note: upside down markings, placed to avoid in situ stones post construction = a lie (logical autoaufheben).
 
@@ -88,7 +88,7 @@ Or perhaps the locals possessed a differing account of the pyramid’s origin an
 
 ### The Red Ochre Forgery
 
-![](img/1.webp)
+![](img/5.webp)
 
 **Exhibit A2 – Vyse’s Forgery** – The relieving chamber ochre marks (bottom image) in no way resemble actual verifiable ochre marks (top image) from the time of construction (click to expand). See notes regarding this in the article text.
 
@@ -130,7 +130,7 @@ After watching a handful of these propaganda pieces you’d think that Dr. Rober
 
 ### The Cedar Plank, Sphinx Erosion, and Thermolumenescence Coups de Grâce
 
-![](img/1.webp)
+![](img/6.webp)
 
 **Exhibit A3 – Queen’s Chamber North Air Shaft Tomb Raider Wood Fragments** – date to almost a millennium before the Fourth Dynasty of Khufu.
 
@@ -138,7 +138,7 @@ Finally and most importantly, cedar wood pieces (see Exhibit A3) dropped by anci
 
 *The Great Pyramid’s ‘tomb’ was already being robbed almost a millennium before it could have even served as Khufu’s tomb in the first place. This is fatal to the prevailing hypothesis.*
 
-![](img/1.webp)
+![](img/7.webp)
 
 **Exhibit A4** – The Sphinx (before its 1980’s ‘repair to keep it from toppling’ obfuscation) has clearly been re-purposed to honor Pharaoh Khafre from an earlier and much older monument which communicated something entirely different. There is only slight weathering on the re-purposed face. Notice the karst erosion on the cliffs in the background.
 
@@ -160,7 +160,7 @@ It is evident that, since the onset of the Bronze Age, some intelligence concern
 
 ### Neither Aliens, Ramps, nor Giants – But Human Fingerprints
 
-![](img/1.webp)
+![](img/8.webp)
 
 **Exhibit B** – A ramp (internal, external, or otherwise) is not a viable solution for moving heavy objects to build a very large and labor-intensive monument. The more you construct ramps to alleviate friction or vertical loft, the less optimal becomes the overall challenge (i.e. the red line of increase in direct labor costs never recovers).
 
@@ -184,11 +184,11 @@ Enter, the Sekhem-mu Machine and the Disk of Prince Sabu.
 
 Therefore, under the non-recoverable principle entailed with work content vs friction as shown in Exhibit B, the Khufu and Khafre pyramids have to have been built through vertical mechanical advantage, using compound pulleys, with high saline content water (and manpower for marginal fine tuning, speed, and control) as the counterweight for each stone lifted. The salt water could be pumped to the top of the structure being built by means of a cleverly-engineered, Mohs scale 7 (measure of extreme mineral durability), impeller from the Hor-Anedjib pharaonic period (400 years before the reputed building of the Khufu pyramid), called the Disk of Prince Sabu.25 ‘Sekhem-mu’ as a portmanteau means in Egyptian, ‘the power of water’.
 
-![](img/1.webp)
+![](img/9.webp)
 
 **Exhibit C** – The Brilliance of the Pyramid Builders – The Sekhem-mu Machine based upon The Disk of Prince Sabu, a First Dynasty governor and the son of the famed Pharaoh Hor-Anedjib (2930 BCE), found in Sabu’s tomb in 1936 by British Egyptologist, Walter Bryan Emery.26 This impeller device, and through dividing the loft distance into 25 ft machine-height-segments (you don’t have to pump water all the way from the bottom to the top of the pyramid, as the head pressure would be too high), solves the loft work-energy balance shortfall and thereby, most of the vertical challenge in building Khufu and Khafre. Neither ramps, aliens, nor giants are necessary in their construction.
 
-![](img/1.webp)
+![](img/10.webp)
 
 **Disk of Prince Sabu** – Egyptian Museum in Cairo. Mohs 7 quartzite siltstone is difficult and time-consuming to work into a tool. Its radial symmetry and ring structure inside planar discipline is one magnitude in difficulty above even that. These elements were neither for artisanship nor mundane function. This device is elegantly and deliberately purposed to rotate, not be static. Any other alternative would present an enormous waste of critical artisan focus and effort.
 
@@ -202,7 +202,7 @@ Advantages of Open Impellers:27
 - Easier to clean and clear on the fly
 - Less prone to clogging
 
-![](img/1.webp)
+![](img/11.webp)
 
 **Exhibit C2 – Open Normalized-Vane Centrifugal Impeller** – Concept sketch – Sabu Disk used in place of Caterpillar 1766998 open centrifugal impeller.
 
@@ -222,7 +222,7 @@ Herodotus describes something very similar to this stone lifting machine in his 
 
 ### The Insistent and Baseless Narrative
 
-![](img/1.webp)
+![](img/12.webp)
 
 TES touring the Giza Plateau.
 
@@ -232,7 +232,7 @@ During these observational visits I could detect the pyramid construction forema
 
 Such an engineering challenge is plausible within the context of a Fourth Dynasty project for a single large pyramid. However, this challenge is exacerbated by the archaeological claim that the seven largest pyramids of the Third and Fourth Dynasties were all built within the same four decades. From a social infrastructure standpoint, this means they were essentially constructed simultaneously. Having developed numerous community burden and impact assessments for large building projects, I can attest that the demands on Egyptian society for just one pyramid would have been extraordinary. Constructing seven overlapping pyramids is a fantasy entertained only by those who have never built anything in their life.
 
-![](img/1.webp)
+![](img/13.webp)
 
 **Chronology of Pharaohs and Their ‘Burial Chambers’** – Either a gigantic pissing contest which would have destroyed Egypt as a nation, or a complete fan fiction developed by later dynastic nationalists and priests. The five pyramids in blue did not match the technological prowess, concealed features, and experience of the two pyramids highlighted by the green Gantt bars (passage vertical girdle stones, corner-load intersection blocks, sequential granite relieving chambers, precision air shafts, devised system to handle the average stone dimensions and weight, 70-ton precision granite block fitting, highly complex non-staggered joints, etc.) – as all this seemed far beyond the technological capability of the other five pyramid builders – despite their being contemporary and residing only 25 km apart. The blue Gantt bar pyramids were not ‘trial runs’ – as there were no ‘lesson’s learned’ from Khufu and Khafre incorporated into Menkaure. As in the case of ramps, the idea only works as a child’s explanation of what occurred here.
 
@@ -244,7 +244,7 @@ Perhaps there exists another clue in this regard, a clue which portends an answe
 
 ## Natural Tapestry Belies an Insistent Narrative
 
-![](img/1.webp)
+![](img/14.webp)
 
 As mentioned at the outset of this article, I don’t have a plausibility or ontological issue with a Pharaonic Old Kingdom origin for Khufu and Khafre—I maintain an epistemological one. We’ve shown above that a classic Egyptian context for development of the Giza Complex is certainly appropriate from a technological and labor resource perspective. What I have a problem with, is being lied to, being gaslighted, and intellectual stagnation being passed off as ‘the scientific method’. I have a problem as well when directly falsifying and irrefutable evidence is ignored by those same actors who are doing the lying.
 
@@ -254,7 +254,7 @@ In contrast, Tura limestone is a relatively soft form of limestone (Mohs hardnes
 
 *CaCO3​(s) (Tura limestone) + CO2(aq) ​(carbon dioxide) + H2​O(l) (water) → Ca2+(aq) + 2HCO3–(aq) ​(calcium bicarbonate) + loose incomplete and undissolved CaC03(s) heavier than ocean water solids.*
 
-![](img/1.webp)
+![](img/15.webp)
 
 **Exhibit D** – Karst undercutting erosion of the Tura limestone cap of the Khafre pyramid at Giza. The erosion turns up parabolically at both ends, characteristic of wave-action induced seawall erosion at 90 degree corners in harbors and ocean breaks.
 
@@ -262,7 +262,7 @@ Keep these ‘loose incomplete and undissolved CaCO3 heavier solids’ in mind a
 
 As a qualified Officer of the Deck, Navigator, and lifelong sailor, I have grown used to observing the effects of ocean water erosion, including karst and seawall erosion, on a variety of structures around ports and along coastlines. As we toured the Giza complex, I inquired of my driver/guide the reason for the removal of the Tura casing stones from both the Khufu and Khafre pyramids. He responded “Mr. G, they say that the stones are reused in ancient buildings down in the local community; but in truth, no one knows what happened to them. As you can see, if indeed the [Tura limestone casing] stones were scavenged, I find it odd that none remain laying along the bottom of the pyramids themselves. Also, why did they stop at that cap?”
 
-![](img/1.webp)
+![](img/16.webp)
 
 **Exhibit E** – Karst erosion band is created by a pause in the sea level of a dramatic ocean inundation from antiquity. Its marks have been left for us to ponder and draw inference – both in the form of horizon-disciplined and wave-chaotic signatures, placed at just the correct height separation which natural ocean sea state variance would serve to impart.
 
@@ -282,17 +282,17 @@ A 576 ft pause in this sea level is the origin of that light colored karst erosi
 
 Thereafter, the waters appear to have retracted almost as quickly as they encroached. This is a warning flag that we should heed and understand as mankind. Take your time in examining Exhibit F below, as it is packed with relevant deductive observation.
 
-![](img/1.webp)
+![](img/17.webp)
 
 **Exhibit F – Khafre Pyramid Seawater Erosion Band** – Tura limestone inundation erosion vulnerability to seawater, contrasted by Mokkatam limestone durability (structure) and nominal Tura weathering (casing). The erosion band measures match the erosion characteristics of an average sea state of 6 to 8 at a high water pause. The height of water at this pause equates to a 264′ (Khafre base altitude) + 312′ (inundation mark height on Khafre pyramid) = a 576 ft global or regional inundation.41
 
 Below, one can observe the horizon-disciplined (as in water-level) karst erosion which is centered around the 312′ level (576′ above sea level) of the Khafre pyramid. There is only one factor which can cause such an erosion pattern. In a Holmesian sense, even though this factor may seem like an implausibility, the characteristics of these marks serve to eliminate every other possibility, and we are left with only one possible answer. This was caused by a global or regional inundation.
 
-![](img/1.webp)
+![](img/18.webp)
 
 **Exhibit G** – The horizon-disciplined nature of the karst erosion serves to falsify every competing notion as to how the Tura limestone blocks had been removed from the Khafre pyramid at Giza. As well, the parabolic erosion rises from wave action become readily apparent on all four sides of the undercut Tura limestone cap.
 
-![](img/1.webp)
+![](img/19.webp)
 
 **Exhibit G2** – This is deductive proof. Any narrative of pyramid construction-dating must definitively explain this karst-kinetic erosion, or it is not a scientific hypothesis.
 
@@ -302,7 +302,7 @@ In answer to this question however, the Tura cap (or pyramidion) on Khufu did ex
 
 So, there is no doubt that, unlike the case of Khafre, the Khufu Tura cap was manually removed.
 
-![](img/1.webp)
+![](img/20.webp)
 
 **Exhibit H** – The rationale behind why this Tura limestone cap only appeared (fortunately) on the Khafre pyramid and not the Khufu pyramid as well. The location of the candidate wave trough line on Khufu can be seen by examining this enhanced top-down image set.
 
@@ -310,7 +310,7 @@ So, there is no doubt that, unlike the case of Khafre, the Khufu Tura cap was ma
 
 *+ loose incomplete and undissolved CaC03(s) heavier than ocean water solids.*
 
-![](img/1.webp)
+![](img/21.webp)
 
 Accordingly, we are left with a sustained and specific sea level oceanic displacement as the only viable explanation for the unique features we document in this article. Not a 371 day biblical flood, not a tidal wave, not a cosmic impact, and not an interloping gravitational visitor to our solar system – but rather, a long-term and Earth rotational mechanics derived, oceanic displacement. Something befitting a disruption or magnetic decoupling of our planet’s rotational component masses commensurate with a weakening of the Earth’s geomagnetic moment (inner/outer core magnetic coupling with the outer rotational mantle/asthenosphere/lithosphere). An event which is happening once again, from 1973 until now (see chart here).43
 
@@ -324,7 +324,7 @@ Additionally, in his work “The pyramids and temples of Gizeh,” which compris
 
 *Soon after passing this granite, we got into the lower part of the entrance passage, which was clear nearly to the bottom. Here a quantity of mud had been washed in by the rains, from the decayed limestone of the outside of the Pyramid, thus filling the last 30 feet of the slope. … The limestone was easily smashed then and there, and carried out piecemeal; and as it had no worked surfaces it was of no consequence.  (S5-[S13]-P16-[C3]-L31)*
 
-![](img/1.webp)
+![](img/22.webp)
 
 Indeed, in 1611, François Savary de Brèves confirmed that the subterranean chamber passage was “completely plugged up to the upper chamber access point” (see Exhibit H2 below). Additionally, this 1950s photo (right) of Egyptologist Adam Rutherford working in the upper section of the Subterranean passage, compared to that same passage as it is today, shows almost a foot of filled-in and over ancient re-concreted limestone (soft and foot-worn, not bedrock) in that passageway. This had accumulated upon the unchanged bedrock base of the passage, which would bear minimal foot-wear if any at all. Obviously, this concretion has been filled in/covered, and is likely still there if archaeology had the ethical gumption to take a sample of it.
 
@@ -342,11 +342,11 @@ Petrie continues by describing the horizontal passage cut into the limestone bed
 
 *The little horizontal passage, which leads southward from the Subterranean Chamber…  The floor of this little passage is covered throughout with a dark earthy material like mould, two to three inches deep.”  (S1-[S305]-P157-L14)*
 
-![](img/1.webp)
+![](img/23.webp)
 
 **Exhibit H2 – Flinders Petrie Notes** – This even deposition of 3 inches of ‘earthy material’ in the small 53 foot long, 2.5 ft tall, southward horizontal passage, which remained untouched due to its relative inaccessibility, suggests oceanic deposition.49 The material could not have been deposited by ambient air or rain. Silt deposition standards indicated that 2 to 3 inches of this deposition in ocean near to land, would take around 35 to 55 years to accumulate (3″ = 76 years by open ocean standard).50 This matches the estimated erosion interval required for Khafre’s Tura limestone karst-band. Taken in addition, the heavy accumulation of reconcreted Tura limestone constitutes a ‘dead body’ deductive set of evidence. These two observations rule out rain, Nile river, or human-fed inundation – only ocean inundation could have caused these unique features.
 
-![](img/1.webp)
+![](img/24.webp)
 
 Moreover, salt encrustations found within the Queen’s Chamber of the Khufu pyramid as well as the Grand Gallery might serve to confirm the overarching seawater inundation construct.51 However, (here once more) we do not hold a sample of this salt. We must recognize that some ‘salts’ (chemical compound class, not sodium chloride per se) can be derived from limestone given specific conditions: efflorescence of potassium nitrate or two other chemical salts through exposure to ocean water as well (calcium carbonate and calcium sulfate).52 53 Ocean salt would only remain in certain ideal conditions and places – which is indeed the observed case. Effloresence in contrast should be ubiquitous, yet this is not the observed case. Evidentially, the lack of such efflorescence homogeneously distributed throughout the pyramid weakens this argument approach however, making it appear desperate and ad hoc. Furthermore, from a logical standpoint, a purported shortfall (which is actually false, see Upuaut Project photo to the right) in detecting these three ocean-water-derived salts does not critically undermine our hypothesis presented here.
 
@@ -364,13 +364,13 @@ Such evidence suggests an entirely new possible rationale behind the existence o
 
 The reality is that this natural tapestry doesn’t merely express it self upon the Khafre and Khufu pyramids alone. In fact, it shows throughout the entire landscape of the Arabian desert and into northern Africa. I spent a couple years off and on traveling the Arabian peninsula and Saudi Empty Quarter – surveying the region during a national strategy I conducted for the Kingdom of Saudi Arabia. There I observed the ancient receding shoreline structures in the Empty Quarter for months before it finally hit me as to what these indeed were. They are recent (less than 12 kya) ocean shorelines. If you were indoctrinated as I was, and believed for decades that since we did not know about it that such a flood was impossible, this will serve to limit your perceptive abilities. Once you see this however, you will not be able to forget it thereafter.
 
-![](img/1.webp)
+![](img/25.webp)
 
 **Exhibit I – Shows the Extent of a 576 ft Inundation** – A 576 ft inundation elegantly fills the entire green area (595′ and lower) on this topographical map – to include the Saudi Empty Quarter as well as the entirety of the Nile Delta and Giza Plateau.55
 
 Now compare Exhibit I to the Google Earth satellite composites of the region (Exhibit J below), displaying washways, saline flats/deserts, and iron oxide (orange) depositions at high-water marks.
 
-![](img/1.webp)
+![](img/26.webp)
 
 **Exhibit J – The Saudi Empty Quarter and Regional/Global Inundation** – the saline-iron oxide washways, receding shoreline, and high water marks in the Saudi Empty Quarter make it clear that a 600 ft context or higher ocean inundation likely formed both the unique geographic features in the region, and as well could have easily inundated the Giza Plateau.
 
@@ -378,11 +378,12 @@ Now compare Exhibit I to the Google Earth satellite composites of the region (Ex
 
 While we present two pieces of compelling evidence in the form of Khafre erosion and geological features of the Saudi Peninsula—each acting as a form of white crow (dead body) evidence that falsifies previous conventional theories—this is not the only evidence of a partial-Earth inundation. It’s important to note that, while our goal is not to promote Noah’s Flood or Creationist theories, such evidence of a partial inundation does exist.56 57 58 59 60 61 62 Exhibit K below shows the clear consistency in the 2350 ft ‘high flow marks’ of this same inundation, along with the resulting salt water flat, a signature feature of such inundation zones.
 
-![](img/1.webp)
+![](img/27.webp)
 
 **Exhibit K – Emi Koussi Volcano Pass and Salt Flats Oceanic Displacement Formation** – undeniable remnants of an oceanic displacement within the last 12,000 years. Since this flow has edges which form a consistently channeled ‘sea level’ at 2,355 ft (everything above 2,355 ft is different from everything below that level), which match the same inundation patterns in the Saudi Peninsula (Exhibit J) – this cannot be from prevailing winds.
 
 Neither is this an ancient lake desiccation (contrast with Salton Sea Retraction), as there are no long-eroded tributaries feeding this depression and no appreciable receding shoreline, even considering the shifted sands. If these features were erased and covered by the sands, then the salt flats would have been buried even more easily, and first, by the same mechanism.
+
 A video posted six months after this article was released, by UnchartedX, adeptly highlights the extensive erosion on the limestone blocks at the base of the Khafre pyramid. However, they overlooked the karst-carbonic acid factor we cite as part of this hypothesis and instead referenced a classic friction-only scenario, suggesting that it would take 12,000 years to erode a structure by 2 feet through normal water-borne action. According to our hypothesis, this is not how the softer limestone (Mohs 3 or 4) blocks/pockets eroded at all. The pitting and scooping seen in the video are indicative of Mohs 3/4 chemical erosion, not mere physical friction from rain, wind, sand, air, or water. What they are inspecting in the video is the Mohs 5+ harder limestone, which survived the karst chemical action, thereby giving them a false reference upon which to base a time scale.
 
 ### Ominous Implications of The Nubian Ostrich Egg (4500 – 5000 BCE)
@@ -393,11 +394,12 @@ Artifacts discovered in recent history serve to corroborate the antiquity of bot
 
 *The reader should also note that the courses (horizontal lines) of pyramid construction depicted in these etchings would not have been visible had the pyramids still been covered in their Tura limestone casing stones at the time of observation and sketching. This suggests that the stones were removed by this same inundation.*
 
-![](img/1.webp)
+![](img/28.webp)
+![](img/29.webp)
 
 **Exhibits L (Nile Sketch) and M (Faiyum Basin Sketch)** – The Ethical Skeptic’s analysis of the Nubian Ostrich Egg – dated to 4500 – 5000 BCE. Just as we observed in Exhibit J above, the water levels in the Faiyum valley have retreated over the last 7,000 – 11,600 years into a hypersaline lake called today, Lake Moeris (the deepest blue depression area in Exhibit M). This area is filled with karst erosion features, sea shells dated to 4600 to 5300 BCE, and ancient aquatic animal bones—including an extensive concentration of younger fossils to such a degree of preservation that even some stomach contents are intact.64
 
-![](img/1.webp)
+![](img/30.webp)
 
 **Exhibit N** – Proposed Nubian Egg True Polar Wander Cycle etching. Shows Giza Pyramids 2,000 years before they were supposedly constructed, and proposes a cyclical timeline for some event associated with them. For meaning of ‘State 1’ and ‘State 2’ refer to this article. This etching suggests a cyclical event lasting 200 years, every 6,400 years. As well, the two lines struck through the Pyramids themselves bear a 104° angle between them.
 
@@ -435,7 +437,7 @@ As a side note, I find it curious that whatever the mechanism is that caused thi
 
 *Is it possible that the reason Earth took 800 million years to host a comprehensively advanced civilization from more complex forms of Eukaryote life is that the Earth tends to topple every so often, setting things back significantly? This could render our planet semi-stable, as opposed to our assumed stable planetary profile—a garden paradise with one essential disqualifying flaw. Perhaps this made our planetary resource ideal to serve as a genetic farm, where the stress of mass extinction spurred further and more aggressive speciation, but it remained unsuited for permanent large-scale habitation by higher-order beings (unless they were fleeing as outlaws)?*
 
-![](img/1.webp)
+![](img/31.webp)
 
 Owing to the pervasive influence of narrow-minded skepticism and a rigidly controlled narrative, humanity often finds itself disconnected from a true comprehension of its own nature and origins. The dating and age of the pyramids at Giza appears to play a pivotal role in unraveling the obscured chapters of human history. Consequently, these insights seem to have been deliberately omitted from our collective understanding by authoritative entities.
 
