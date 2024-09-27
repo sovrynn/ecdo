@@ -6,6 +6,20 @@ This document is dedicated to exploring parts of the solar system which may affe
 
 - `universe`: Information concerning the universe outside of Earth's solar system.
 
+## The Great Year
+
+The term Great Year has more than one major meaning. It is defined by scientific astronomy as "The period of one complete cycle of the equinoxes around the ecliptic, or about 25,800 years". [5]
+
+## Precession of the equinoxes
+
+"In astronomy, axial precession is a gravity-induced, slow, and continuous change in the orientation of an astronomical body's rotational axis. In the absence of precession, the astronomical body's orbit would show axial parallelism.[2] In particular, axial precession can refer to the gradual shift in the orientation of Earth's axis of rotation in a cycle of approximately 26,000 years." [4]
+
+## Milankovitch Cycles [3]
+
+"Milankovitch cycles describe the collective effects of changes in the Earth's movements on its climate over thousands of years. The term was coined and named after the Serbian geophysicist and astronomer Milutin Milanković. In the 1920s, he hypothesized that variations in eccentricity, axial tilt, and precession combined to result in cyclical variations in the intra-annual and latitudinal distribution of solar radiation at the Earth's surface, and that this orbital forcing strongly influenced the Earth's climatic patterns."
+
+"Of all the orbital cycles, Milankovitch believed that obliquity had the greatest effect on climate, and that it did so by varying the summer insolation in northern high latitudes. Therefore, he deduced a 41,000-year period for ice ages.[22][23] However, subsequent research[20][24][25] has shown that ice age cycles of the Quaternary glaciation over the last million years have been at a period of 100,000 years, which matches the eccentricity cycle."
+
 ## 11-year Solar Cycle
 
 The Sun has an 11-year cycle, during which it oscillates between solar maximum and minimum, and also goes through a pole flip. Over a period of 22 years, the Sun would go through two cycles, each with opposite magnetic polarities. [1]
@@ -26,10 +40,13 @@ Does this happen for the same reason that the LLVPs seem to be centered around t
 
 1. https://en.wikipedia.org/wiki/Solar_cycle#Patterns
 2. https://solarscience.msfc.nasa.gov/SunspotCycle.shtml#ButterflyDiagram
+3. https://en.wikipedia.org/wiki/Milankovitch_cycles
+4. https://en.wikipedia.org/wiki/Axial_precession#:~:text=The%20precession%20of%20the%20equinoxes%20is%20caused%20by%20the%20gravitational,force%20is%20due%20to%20gravity.
+5. https://en.wikipedia.org/wiki/Great_Year
 
 # TODO
 
-precession of the equinoxes
+precession of the equinoxes, the great year
 
 solar dynamo: https://solarscience.msfc.nasa.gov/dynamo.shtml
 
