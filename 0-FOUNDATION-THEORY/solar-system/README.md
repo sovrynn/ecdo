@@ -29,6 +29,8 @@ Does this happen for the same reason that the LLVPs seem to be centered around t
 
 # TODO
 
+precession of the equinoxes
+
 solar dynamo: https://solarscience.msfc.nasa.gov/dynamo.shtml
 
 Long term sunspot cycle phase cohere with periodic phase disruptions: https://arxiv.org/pdf/1610.03553

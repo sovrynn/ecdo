@@ -17,24 +17,19 @@ The first four citations from his work may also be good leads:
 - Durack, Gleckler, et.al.; Ocean Warming: From the Surface to the Deep in Observations and Models; Oceanography; 9 Dec 2018; https://tos.org/oceanography/article/ocean-warming-from-the-surface-to-the-deep-in-observations-and-models
 - Desbruyeres, D.G., S.G. Purkey, E.L. McDonagh, G.C. Johnson, and B.A. King. 2016. Deep and abyssal ocean warming from 35 years of repeat hydrography. Geophysical Research Letters 43(19):10,356–10,365, https://doi.org/​10.1002/2016GL070413.
 
-## Rainfall data fudging [1]
+# 3 drought events: Staubwasser, Weiss
 
-Where did all the water go? Further examples of altered rainfall data from 16 different cities around the world. Unusually high rainfall records for the past three years have been erased from the record.
+"The paper by Staubwasser and Weiss concerns itself only with past abrupt changes in climate and the impact these changes may have had on civilizations in the past. It identifies and discusses three abrupt climate change events at roughly 2200 B.C., 3200 B.C., and 6200 B.C. In all three cases, it finds that populations were reduced to a greater or lesser extent over large geographical areas."
 
-![](img/rainfall1.jpg)
-![](img/rainfall2.jpg)
+"Staubwasser and Weiss postulate widespread drought as the cause of these depopulation events in all three instances. However, the middle event, the one they date to 3200 B.C., uniquely exhibits the three signa- tures of Noah’s Flood discussed in the previous chapter. They call this event “the late Uruk collapse.” (Refer back to the Figure 5.2 chronology to understand this terminology.) They find it to be (1) a “hemispheric and possibly global”10 event, (2) accompanied by widespread depopula- tion and (3) with very clear evidence, specifically in the archaeology of South Mesopotamia, of the inception of the institution of human govern- ment in an easily recognized, capital punishment-wielding form—that of monarchy."
 
-High resolution images available here:
-- https://nobulart.com/media/anti-diluvian-1.jpg
-- https://nobulart.com/media/anti-diluvian-2.jpg
+"The last temples of the late Uruk IV Eanna precinct were abandoned, replaced by terraces and light post and reed constructions."
 
-## Meteor strike fudging
+## 2400 BCE Climate anomaly
 
-Did you know there was a meteorite strike on march 28, 2020 that struck Nigeria and left an uncomfortable crater? Did you also know we had another extremely near miss of an asteroid on November 12 of the same year? No one reported them.
+*"The mid-24th century BCE climate anomaly is the period, between 2354 and 2345 BCE, of consistently reduced annual temperatures that are reconstructed from consecutive abnormally narrow, Irish oak tree rings."*
 
-The 2 ships that were moored on ny harbor supposedy for Covid were actually floating hospitals designed for trauma patients (as in those who would be victims of a traumatic event-asteroid strike) and not for infectious disease treatment. Not a single Covid patient was treated onboard either of them. Uncanny don’t you think?
-
-UK built a load of temporary hospitals too. Called Nightingale hospitals. Never had a patient.
+https://en.wikipedia.org/wiki/Mid-24th_century_BCE_climate_anomaly#:~:text=In%201997%2C%20Marie-Agn%C3%A8s%20Courty,hundred%20kilometres%20from%20each%20other
 
 ## Hurricane Irma: 3700 year history
 
@@ -96,11 +91,24 @@ The authors of this paper observed a 3.4% reduction in shear wave velocity relat
 1. https://doi.org/10.1038/s41467-023-40307-9
 2. https://annas-archive.org/md5/17ca9353c3b84e99c28d13c255e1cd4c
 
-## 2400 BCE Climate anomaly
+## Rainfall data fudging [1]
 
-*"The mid-24th century BCE climate anomaly is the period, between 2354 and 2345 BCE, of consistently reduced annual temperatures that are reconstructed from consecutive abnormally narrow, Irish oak tree rings."*
+Where did all the water go? Further examples of altered rainfall data from 16 different cities around the world. Unusually high rainfall records for the past three years have been erased from the record.
 
-https://en.wikipedia.org/wiki/Mid-24th_century_BCE_climate_anomaly#:~:text=In%201997%2C%20Marie-Agn%C3%A8s%20Courty,hundred%20kilometres%20from%20each%20other
+![](img/rainfall1.jpg)
+![](img/rainfall2.jpg)
+
+High resolution images available here:
+- https://nobulart.com/media/anti-diluvian-1.jpg
+- https://nobulart.com/media/anti-diluvian-2.jpg
+
+## Meteor strike fudging
+
+Did you know there was a meteorite strike on march 28, 2020 that struck Nigeria and left an uncomfortable crater? Did you also know we had another extremely near miss of an asteroid on November 12 of the same year? No one reported them.
+
+The 2 ships that were moored on ny harbor supposedy for Covid were actually floating hospitals designed for trauma patients (as in those who would be victims of a traumatic event-asteroid strike) and not for infectious disease treatment. Not a single Covid patient was treated onboard either of them. Uncanny don’t you think?
+
+UK built a load of temporary hospitals too. Called Nightingale hospitals. Never had a patient.
 
 ### Telluric Currents and Earthquake Lights
 
