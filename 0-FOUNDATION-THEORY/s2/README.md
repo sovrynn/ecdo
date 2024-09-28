@@ -4,6 +4,8 @@ This folder is for understanding S2, which is the state of the Earth after the f
 
 ![](img/s2.png)
 
+The key factor here IMO, aside from the obvious issue of figuring out S2's orientation, is deducing the length of S2 through evidence and theory.
+
 ## Contents
 
 - `coastline-changes`: Predicting coastline changes in S2.

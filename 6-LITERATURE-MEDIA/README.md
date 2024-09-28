@@ -19,13 +19,17 @@ Geo/paleomagneticism:
 Haven't read yet:
 - Cuvier
 
-## Resources
+## Paper Downloads
 
 https://www1.ncdc.noaa.gov/pub/data/
 
 https://libgen.is / https://annas-archive.org , where one can find pdf / epub full versions of books such as Uriel's Machine
 
 https://sci-hub.se for papers
+
+researchgate.net allows downloads
+
+## Tools
 
 filetype:pdf Google searches, Duckduckgo
 
