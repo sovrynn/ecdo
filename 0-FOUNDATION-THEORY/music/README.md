@@ -1,5 +1,9 @@
 # Music
 
+Speculative goal: Find similarities between planetary harmonics and musical structures. Understandably, perhaps far-fetched, as the solar system is a complex system.
+
+## Octave Structure
+
 Octaves are based on frequencies, one octave spans a 2x in frequency.
 
 Frequencies run on a logarithmic scale, meaning that each step up is a multiple, not an addition.
