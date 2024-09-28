@@ -50,3 +50,21 @@ Noahic Deluge (7400BC) and maybe 1700BC (300 years out).
 "Three shifts in state at Kilen are identified over the study period: a deep, periodically stratified fjord with medium high salinity (and high productivity) between ca 7500-5000 BP, followed by a gradual transition to a shallow benthic system with more oceanic conditions (i.e. higher salinity, lower productivity, slower sedimentary accumulation rate and poorer fossil preservation) after ca 5000 BP and no stratification after ca 4400 BP, and lastly, within this shallow phase, an abrupt shift to brackish conditions around 2000 BP."
 
 https://sci-hub.ru/10.1016/j.quascirev.2013.05.020
+
+## Mayan Chichancanab Lake [1]
+
+![](img/maya-climate.jpg)
+![](img/chichancanab1.jpg)
+
+"Classic Maya Civilization. Data from the Lake Chichancanab core supports the following interpretation: From 9200 to 7800 years BP, there was no lake at the coring site as indicated by the absence of aquatic microfossils and the presence of land snails. Beginning at about 7800 years BP, the lake began to fill but the salinity was much higher than today. The lake basin was filled by 7000 years BP" - Department of Geology, University of Florida [1][2]
+ 
+The Noahic Deluge was ±7400BP, two 3,700 year cycles before present. This lake filled with saltwater around that time. See `LOCATION-ANALYSIS/north-america/mexico` and `LOCATION-ANALYSIS/carribean` for more analysis.
+1. https://www1.ncdc.noaa.gov/pub/data/paleo/slidesets/maya/
+2. https://en.wikipedia.org/wiki/Lake_Chichancanab
+
+## Luotuodun Marine Transgression
+
+![](img/luotuodun-marine.jpg)
+![](img/luotuodun-map.jpg)
+
+https://www.researchgate.net/publication/225517767_Evidence_for_marine_transgression_between_7500-5400BC_at_the_Luotuodun_Site_in_Yixing_Jiangsu_Province

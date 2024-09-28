@@ -38,11 +38,9 @@ We will have to take this into account in our analysis.
 
 ## Comparing Earth's crust in S1 and S2 - Raw data
 
-Here's where we put it all together.
-
 First check out this map of the Earth in S1. Check the equator line, which runs through the top of South America and the bottom of South Africa.
 
-![world map](img/world-map.png "world map")
+![](img/world-map.png)
 
 Now, take a look at the equator in S2:
 

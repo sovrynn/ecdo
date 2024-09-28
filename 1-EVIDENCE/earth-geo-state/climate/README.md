@@ -17,33 +17,27 @@ The first four citations from his work may also be good leads:
 - Durack, Gleckler, et.al.; Ocean Warming: From the Surface to the Deep in Observations and Models; Oceanography; 9 Dec 2018; https://tos.org/oceanography/article/ocean-warming-from-the-surface-to-the-deep-in-observations-and-models
 - Desbruyeres, D.G., S.G. Purkey, E.L. McDonagh, G.C. Johnson, and B.A. King. 2016. Deep and abyssal ocean warming from 35 years of repeat hydrography. Geophysical Research Letters 43(19):10,356–10,365, https://doi.org/​10.1002/2016GL070413.
 
-# 3 drought events: Staubwasser, Weiss
+## 2200 BC aridification event (cold and dry)
 
-"The paper by Staubwasser and Weiss concerns itself only with past abrupt changes in climate and the impact these changes may have had on civilizations in the past. It identifies and discusses three abrupt climate change events at roughly 2200 B.C., 3200 B.C., and 6200 B.C. In all three cases, it finds that populations were reduced to a greater or lesser extent over large geographical areas."
+The 4.2-kiloyear (thousand years) BP aridification event (long-term drought), also known as the 4.2 ka event,[2] was one of the most severe climatic events of the Holocene epoch.
 
-"Staubwasser and Weiss postulate widespread drought as the cause of these depopulation events in all three instances. However, the middle event, the one they date to 3200 B.C., uniquely exhibits the three signa- tures of Noah’s Flood discussed in the previous chapter. They call this event “the late Uruk collapse.” (Refer back to the Figure 5.2 chronology to understand this terminology.) They find it to be (1) a “hemispheric and possibly global”10 event, (2) accompanied by widespread depopula- tion and (3) with very clear evidence, specifically in the archaeology of South Mesopotamia, of the inception of the institution of human govern- ment in an easily recognized, capital punishment-wielding form—that of monarchy."
+![](img/2200-bc-event.png)
 
-"The last temples of the late Uruk IV Eanna precinct were abandoned, replaced by terraces and light post and reed constructions."
+Starting around 2200 BC, it most likely lasted the entire 22nd century BC. It has been hypothesised to have caused the collapse of the Old Kingdom in Egypt, the Akkadian Empire in Mesopotamia, and the Liangzhu culture in the lower Yangtze River area.[4][5] The drought may also have initiated the collapse of the Indus Valley Civilisation, with some of its population moving southeastward to follow the movement of their desired habitat,[6] as well as the migration of Indo-European-speaking people into India.
 
-## 2400 BCE Climate anomaly
+A study of fossil corals in Oman provides evidence that prolonged winter shamal seasons, around 4200 years ago, led to the salinization of the irrigated field, which made a dramatic decrease in crop production trigger a widespread famine and eventually the collapse of the ancient Akkadian Empire.
 
-*"The mid-24th century BCE climate anomaly is the period, between 2354 and 2345 BCE, of consistently reduced annual temperatures that are reconstructed from consecutive abnormally narrow, Irish oak tree rings."*
+δ18O values from Yonglu Cave in Hubei confirm that the region became characterised by increased aridity and show that the onset of the event was gradual but that its end was sudden.
 
-https://en.wikipedia.org/wiki/Mid-24th_century_BCE_climate_anomaly#:~:text=In%201997%2C%20Marie-Agn%C3%A8s%20Courty,hundred%20kilometres%20from%20each%20other
+https://en.wikipedia.org/wiki/4.2-kiloyear_event
 
-## Hurricane Irma: 3700 year history
+## 6200 BC cooling event
 
-![irma](img/hurricane-irma.jpg "irma")
+In climatology, the 8.2-kiloyear event was a sudden decrease in global temperatures that occurred approximately 8,200 years before the present, or c. 6,200 BC, and which lasted for the next two to four centuries.
 
-https://nhess.copernicus.org/articles/23/3761/2023/nhess-23-3761-2023.pdf
+The initial meltwater pulse caused between 0.5 and 4 m (1 ft 8 in and 13 ft 1 in) of sea-level rise. Based on estimates of lake volume and decaying ice cap size, values of 0.4–1.2 m (1 ft 4 in – 3 ft 11 in) circulate. Based on sea-level data from the Mississippi Delta, the end of the Lake Agassiz–Ojibway (LAO) drainage occurred at 8.31 to 8.18 ka and ranges from 0.8 to 2.2 m.[25] The sea-level data from the Rhine–Meuse Delta indicate a 2–4 m (6 ft 7 in – 13 ft 1 in) of near-instantaneous rise at 8.54 to 8.2 ka, in addition to 'normal' post-glacial sea-level rise.
 
-## El Nino 3700 year history
-
-![el nino](img/el-nino-3700.jpg "el nino")
-
-"The seasonal variation 3700 years ago was slightly lower than that suggested by modern instrumental data, and the transition between warm and cold seasons was rapid. Higher amplitudes of reconstructed r-monthly and r-annual SST anomalies imply an enhanced climate variability during this warm period. Investigation of the El Ninõ–Southern Oscillation (ENSO) variation (based on the reconstructed SST series) indicates reduced ENSO frequency but increased ENSO-related variability and extreme El Ninõ winter events 3700 years ago."
-
-https://annas-archive.org/scidb/10.5194/cp-16-597-2020
+https://en.wikipedia.org/wiki/8.2-kiloyear_event
 
 ## Peltier Effect
 
@@ -67,18 +61,6 @@ https://en.wikipedia.org/wiki/B%C3%B8lling-Aller%C3%B8d_Interstadial
 Any theories as to why the temperature fluctuations were much more severe prior to 8000BC?
 
 Because the first event was the result of a collision or encounter with a comet or other body/bodies.
-
-## 18.5k year climate cycles?
-
-An 18.5ky precessional supercycle which modulates long term climate.
-
-![climate cycle 18.5k](img/18k-cycle.jpg "climate cycle 18.5k")
-
-![viz](img/18k-2.jpg "viz")
-
-Links:
-- https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1382125
-- https://doi.org/10.1130/G52182.1
 
 ## Evidence of a warming core?
 

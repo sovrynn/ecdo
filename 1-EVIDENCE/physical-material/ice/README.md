@@ -2,6 +2,18 @@
 
 There's some bond event data overlaid with predicted ECDO dates in `EVIDENCE/solar-system`.
 
+## Bond Events
+
+Bond events are North Atlantic ice rafting events that are tentatively linked to climate fluctuations in the Holocene. Eight such events have been identified. Bond events were previously believed to exhibit a roughly c. 1,500-year cycle, but the primary period of variability is now put at c. 1,000 years. [2]
+
+There is a nice timeline from the Wikipedia page:
+
+![](img/bond-event-timeline.png)
+
+## Ice Rafting [3]
+
+Ice rafting is the transport of various materials by ice. Various objects deposited on ice may eventually become embedded in the ice. When the ice melts after a certain amount of drifting, these objects are deposited onto the bottom of the water body, e.g., onto a river bed or an ocean floor.[1][2] These deposits are called ice rafted debris (IRD) or ice rafted deposits. Ice rafting was a primary mechanism of sediment transport during glacial episodes of the Pleistocene when sea levels were very low and much of the land was covered by large masses (sheets) of ice. The rafting of various size sediments into deeper ocean waters by icebergs became a rather important process. Ice rafting is still a process occurring today, although its impact is significantly less and much harder to gauge. 
+
 ## Gas giants grand cycle harmonic and bond event data
 
 ![gas giant harmonic](img/gas-giant-bond-event.jpg "gas giant harmonic")
@@ -27,18 +39,18 @@ If logic dictates that even 3700 years is not nearly long enough to melt the ice
 
 I found an Antarctic 800ka raw ice-core temperature dataset. Here's the last 20ky plotted against the harmonics.
 
-![antarctica ice harmonics](img/antarctica-ice-harmonics.jpg "antarctica ice harmonics")
+![](img/antarctica-ice-harmonics.jpg)
 
 [1] https://www1.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc3deuttemp2007.txt
 
-![ice coretemp data](img/ice-core-data.jpg "ice coretemp data")
+![](img/ice-core-data.jpg)
 
 The complete 800ky record set fairly obliterates the "unprecedented warming" narrative. It's been much warmer (and colder) in the past. This core spans from the surface (now) right down to 3260m (800ky).
 
 ## Carbon in Antarctica Lakes
 
-![x](img/carbon-ice.jpg "carbon ice")
-![x](img/carbon-ice2.jpg "carbon ice")
+![](img/carbon-ice.jpg)
+![](img/carbon-ice2.jpg)
 
 1. https://annas-archive.org/scidb/10.1002/2016GL068609
 2. https://www.nsf.gov/news/news_summ.jsp?cntn_id=138871
@@ -46,3 +58,5 @@ The complete 800ky record set fairly obliterates the "unprecedented warming" nar
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
+2. https://en.wikipedia.org/wiki/Bond_event
+3. https://en.wikipedia.org/wiki/Ice_rafting

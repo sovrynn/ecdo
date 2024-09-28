@@ -12,12 +12,6 @@ https://www.cambridge.org/core/journals/iraq/article/abs/physical-evidence-for-n
 
 An account of the first formation of a lake with fish in it. Latvia c.±7800 BP. https://sci-hub.ru/10.1177/0959683616683255
 
-## Sediment data: 18.5k cycle (Milankovitch cycle) effects on climate
-
-![](img/milankovitch-18k-cycle.jpg)
-
-https://oceanrep.geomar.de/id/eprint/31064/1/Fl%C3%B6gel_Diss.pdf
-
 ## 7400 BP Fennoscandia Earthquake
 
 ![](img/fennoscandia.jpg)

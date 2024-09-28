@@ -22,6 +22,10 @@ The Great Gun-Yu flood of China, around 1900 BC, was said to have lasted 22 year
 
 On the ostrich egg (`EVIDENCE/civilization-remnants/important-artifacts`) there's indication of a special 200-year phase.
 
+## Weather
+
+The 2200 BC and 6200 BC drought events seem to propose temporary periods of *dry* and *cold* weather... Is this what we may see during S2?
+
 ## New Geographic Pole Locations
 
 New north pole:
