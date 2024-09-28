@@ -22,6 +22,10 @@ Interestingly the main paper referenced in this Wikipedia article also points to
 
 "Thus, by the mid-1990s it was realized that, around AD 540, there was a global environmental downturn that had affected tree growth in widely separated regions around the world (Baillie 1994, 1995). Moreover, it was almost immediately apparent that the event was two-stage. It appears that the initial effects were in 536 and that these were followed by a second pulse some- where in the window 538–543; thus it became sensible to refer to the ‘540 event’ as something spanning 536–545."
 
+## Tree Rings 200 BC event?
+
+https://link.springer.com/chapter/10.1007/978-3-540-32711-0_5
+
 ## Clam shell analysis - El Nino 3700 year history
 
 ![](img/el-nino-3700.jpg)
