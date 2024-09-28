@@ -16,6 +16,8 @@ Speculative:
 
 https://en.wikipedia.org/wiki/Mid-24th_century_BCE_climate_anomaly#:~:text=In%201997%2C%20Marie-Agn%C3%A8s%20Courty,hundred%20kilometres%20from%20each%20other
 
+Interestingly the main paper referenced in this Wikipedia article also points to approximately 540 AD as another suspicious date.
+
 ## Clam shell analysis - El Nino 3700 year history
 
 ![](img/el-nino-3700.jpg)

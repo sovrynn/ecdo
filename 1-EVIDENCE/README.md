@@ -30,3 +30,5 @@ What can be used to create a timeline? There's actually quite a lot of data:
 - historical water body data (ex black sea refillings)
 - Biology (tree rings)
 - Date dead plants and animals
+
+There is a lot of historical material around 3200-2800 BC, and 2300-1700 BC, but 1400-1200 BC, 400 BC, and 500 AD may also be good periods to look into.
