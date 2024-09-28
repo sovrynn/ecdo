@@ -14,6 +14,16 @@
 - *"Kinetic energy provided by planetary rotation"*
 - *"An internal energy source to drive convective motions within the fluid."*
 
+### Dynamo Convection Currents [5]
+
+Convection currents driving geodynamos are created through a combination of basic convection and the rotation of the Earth.
+
+Upward Convection: Hot, buoyant fluid near the inner core boundary rises toward the outer core boundary.
+
+Downward Convection: Cooler, denser fluid near the outer core boundary sinks back down toward the inner core boundary.
+
+Near the equator, convection currents have a more horizontal component, while near the poles, the movement is more vertical due to the geometry of the spherical shell.
+
 ### Dynamo
 
 *"A dynamo is an electrical generator that creates direct current using a commutator."* [4]

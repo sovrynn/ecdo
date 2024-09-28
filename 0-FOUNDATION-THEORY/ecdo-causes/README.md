@@ -11,6 +11,8 @@ TES's basic ECDO timeline is as follows:
 
 ![](../../6-LITERATURE-MEDIA/0-ethical-skeptic/img/ecdo.webp)
 
+Regarding the shift from S2 back to S1, TES leaves that mostly open, although he does say this: "We speculate that the process of moving from State 2, Gyroscopic Priority, back to State 1, Geomagnetic Priority, may involve a viscoelastic-mantle tectonic height readjustment and gradual settle-in process, however involving a relatively sudden cooling event at the point where the core recaptures its HCP-Fe lattice integrity."
+
 ## Exothermic core instabilities caused by equatorial high rotational speed?
 
 "Detailed observations of sunspots have been obtained by the Royal Greenwich Observatory since 1874. These observations include information on the sizes and positions of sunspots as well as their numbers. These data show that sunspots do not appear at random over the surface of the sun but are concentrated in two latitude bands on either side of the equator. A butterfly diagram (142 kb GIF image) (184 kb pdf-file) (updated monthly) showing the positions of the spots for each rotation of the sun since May 1874 shows that these bands first form at mid-latitudes, widen, and then move toward the equator as each cycle progresses." [2]
@@ -25,9 +27,11 @@ Note this visualization of equatorial cross-sectional heat flows from the core t
 
 ![](img/mantle-flows.gif)
 
-The basic idea is that higher rotational speed around the equator causes instability in the core around the equator, leading to the phase change TES talks about, and mass/heat being expelled unevenly from the core into the mantle, creating areas of higher and lower density (LLVPs). This causes a weakening of magnetic alignment in the mantle, due to higher temperatures, eventually leading to decoupling, which culminates in a mediated gyroscopic rotation of the mantle, which has developed a third principal axis of rotation through the LLVPs.
+The basic idea is that higher rotational speed around the equator causes instability in the core around the equator, leading to the phase change TES talks about in the inner core, and mass/heat being expelled unevenly from the outer core into the mantle, creating areas of higher and lower density (LLVPs). This causes a weakening of magnetic alignment in the mantle, due to higher temperatures, eventually leading to decoupling, which culminates in a mediated gyroscopic rotation of the mantle, which has developed a third principal axis of rotation through the LLVPs.
 
-The return to S1 would require some kind of reversal of this process, the specifics of which I haven't thought out yet.
+The return to S1 would require some kind of reversal of this process. If we entertain this theory further, we might imagine that after the flip, a reversal of the LLVP creation process occurs. Once situated at the poles, the lighter LLVPs, no longer maintained by higher rotational speeds and localized exothermic core processes, begin to compress and shrink. Mass is pushed back into the outer core, which experiences compression. Accordingly, the inner core also faces compression, and this leads to pressure-induced crystallization, which captures heat.
+
+Somehow, this process would need to lead to a rotation back to S1, the specifics of which I haven't thought out yet. It may be that as the LLVPs go away, the third principal axis shifts again back to the S1 poles, due to the preexisting equatorial bulge still maintaining some of its shape. If the shrinking of the LLVPs is slow, this could occur in a gradual fashion as the third principal gyroscopic axis slowly shifts back to the previous poles.
 
 ## Ice Accumulation unevenly on South Pole [2]
 
