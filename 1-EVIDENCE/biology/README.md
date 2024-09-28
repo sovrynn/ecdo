@@ -16,7 +16,11 @@ Speculative:
 
 https://en.wikipedia.org/wiki/Mid-24th_century_BCE_climate_anomaly#:~:text=In%201997%2C%20Marie-Agn%C3%A8s%20Courty,hundred%20kilometres%20from%20each%20other
 
-Interestingly the main paper referenced in this Wikipedia article also points to approximately 540 AD as another suspicious date.
+### Baillie - Tree Rings
+
+Interestingly the main paper referenced in this Wikipedia article also points to approximately 540 AD as another suspicious date. He includes his own cataclysm compilation as well.
+
+"Thus, by the mid-1990s it was realized that, around AD 540, there was a global environmental downturn that had affected tree growth in widely separated regions around the world (Baillie 1994, 1995). Moreover, it was almost immediately apparent that the event was two-stage. It appears that the initial effects were in 536 and that these were followed by a second pulse some- where in the window 538–543; thus it became sensible to refer to the ‘540 event’ as something spanning 536–545."
 
 ## Clam shell analysis - El Nino 3700 year history
 
@@ -36,3 +40,7 @@ A clear and sudden change in the faunal content of Indonesia's many islands seem
 
 ![](img/wallace-line1.jpg)
 ![](img/wallace-line2.jpg)
+
+# TODO
+
+Bristlecone pine is apparently the oldest living tree, with long dendrochronology having been compiled for it
