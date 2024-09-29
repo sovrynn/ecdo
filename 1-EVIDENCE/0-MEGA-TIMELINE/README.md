@@ -1,16 +1,15 @@
 # Mega Timeline
 
-Surefire events:
+Very likely ECDO-like events:
 - 2200-1700 BC
 - 3200-2800 BC
+- Younger Dryas, ~9600 BC
 
-## Potential Cataclysm Dates
-
+Other potential cataclysmic events:
 - 500 AD
 - 400 BC, Alexander the great
 - 1200 BC, Late Minoan 2, Egypt
 - 6200 - 5500 BC, black sea deluge dating
-- 9600 BC, end of younger dryas
 
 ## Non-specific
 
@@ -37,7 +36,7 @@ This period is far enough away from 2000 BC to warrant its own investigation as 
 
 ## 2200 - 1700 BC event
 
-This 500-year period is filled with extensive evidence from all domains, including history and physical markers. The account of Gun-Yu points to an extreme likelihood of an ECDO-like event.
+This 500-year period is filled with extensive evidence from all domains, including history and physical markers. This, along with 
 
 Cataclysm accounts:
 - 1600-1400 BC: Biblical Exodus, Moses
@@ -78,7 +77,7 @@ Physical markers:
 ## 9600 BC event
 
 - Atlantis
-- end of Younger Dryas
+- end of Younger Dryas, many physical markers
 
 # TODO Timeline of dateable myths
 
