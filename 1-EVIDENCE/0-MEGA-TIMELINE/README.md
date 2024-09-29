@@ -1,0 +1,86 @@
+# Mega Timeline
+
+## Potential Cataclysm Dates
+
+- 500 AD
+- 400 BC, Alexander the great
+- 1200 BC, Late Minoan 2, Egypt
+- 2200 - 1700 BC, most events
+- 3200 - 2800 BC, many events
+- 6200 - 5500 BC, black sea deluge dating
+- 9600 BC, end of younger dryas
+
+## Non-specific
+
+- Ancient Egypt, Herodotus: 341 generations of men up till 1290 BC (10k-4.7k years) 4 Sun changes (2 flips?)
+- Plato: "Many great deluges" since Athens and Atlantis, a significant "third great flood before Deucalion" that washed away most of Athens' fertile soil
+
+## 400 BC
+
+- 340 BC: Alexander the Great Turkey deluge myth
+- 373 BC: Helike Greek city-state submerged by Tsunami in winter
+- 400 BC: La venta, Veracruz, Mexico, abandoned
+- east Asia lacks history from this time
+
+- paleomagnetic anomalies (Levantine Iron Age, 500 BC Russia peat deposit)
+
+## 1400 - 1200 BC
+
+This period is far enough away from 2000 BC to warrant its own investigation as a potential cataclysm. There is evidence from many domains pointing to a possible cataclysm in this time.
+
+- 1400 BC: Minoan Crete's third and final cataclysm
+- Narrow Irish tree rings
+- Egyptian dark age (see Barbara Bell)
+
+## 2200 - 1700 BC event
+
+This 500-year period is filled with extensive evidence from all domains, including history and physical markers, pointing to some kind of global cataclysm.
+
+Cataclysm accounts:
+- 1600-1400 BC: Biblical Exodus, Moses
+	- Possibly a contemporary of Ogyges and Gun-Yu
+- 1900-1460 BC: Deucalion
+	- Usually placed some time after Ogyges
+	- 1700-1650 BC: Minoan Crete, two catastrophes within a half century of each other
+- 1900 BC - 1700 BC: Mohenjo-Daro abandonment
+- ~1800 BC: Ancient Peru, invaders destroyed by fire, and some extended time later, 24 hours of Sun
+- 2136-1800 BC: Ogyges
+	- Said to be contemporary with Moses in Exodus, and possibly Gun-Yu
+- 2300-2000 BC: Chinese Great Gun-Yu Flood
+	- water over mountains, sun not setting for 10 days
+	- Contemporary with Korea's Dangun myth
+	- Possibly contemporary with Ogyges
+	- Backed up by 1920 BC dated Yellow River flood remnants
+
+- 2200-2100 BC: climate aridification event
+- bond (ice rafting) event
+
+## 3200 - 2800 BC event
+
+This 400-year period is also filled with extensive evidence that points to a global cataclysm.
+
+- China Nu Wa: 2810 BC
+- Peruvian Timeline: 2900 BC Deluge
+- Eridu Genesis (Middle East): 3000 BCE
+- India, Sinking of Dwaraka: 3031 BC
+- Biblical Noahic deluge: 3500 - 2500 BC
+
+- 3200 BC: Compton's comet mega-compilation of physical markers
+- 3200 BC: climate change event (Staubwasser, Weiss)
+- bond event
+- narrow Irish tree rings
+
+## 9600 BC event
+
+- Atlantis
+- end of Younger Dryas
+
+# TODO Timeline of dateable myths
+
+~1700 BC event:
+- Greek flood (Deucalion, Dardanus): 1800 - 1528 BC
+
+Between 9600 BC and 6000+ BC:
+- 1-2 floods: "third great flood before Deucalion", Plato
+- 6200 - 5500 BC: Black Sea deluge
+- 7400 BC: Tollmann event

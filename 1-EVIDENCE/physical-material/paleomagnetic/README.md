@@ -1,5 +1,7 @@
 # Paleomagnetic Data
 
+The difficulty I see here is that paleomagnetic data is only recorded under certain conditions; you need to have igneous rocks cooling from a molten state, or the settling of sediments that then get compacted and undisturbed. It's not a continuous chronology such as one you might have from tree rings. Still, surely a lot that can be gleaned from the right samples...
+
 Paleomagnetic studies that date material back in the last several millenium (4000 BC to now) are in `recent-anomalies`.
 
 What follows are anomalies that date back at least to Younger Dryas.
