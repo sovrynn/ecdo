@@ -2,6 +2,38 @@
 
 This folder is for script(s) that take Markdown and generate PDFs, embedding images.
 
+There are a lot of scripts here, usually they take input filenames in the form of an input arg, or just read from input.txt by default, and write output to output.txt, or replace the original file content.
+
+Main scripts:
+- gen-international.py: Generates the PDF. If it finds a bold font file it'll try to load both italic and bold. Currently uses A4 (thinner than standard 8.5 x 11). Reads input parameters (multiple) from input.txt.
+- gen.py: Deprecated, has some (simple) bugs in it with the hardcoded formatting protocol I made (doesn't load the styles in).
+
+Format checkers/modifiers (all take filename as input arg):
+- citation-checker.py: Looks for bracket citations. Prints out the total number (up to the highest one it finds) along with any missing ones.
+- contiguous-line-check.py: Looks for all contiguous line pairs and prints them out.
+- duplicate-citation-check.py: Looks for duplicate bracket citations. Weird links could potentially break it.
+- img-webp-rename.py: Looks for all image embeddings and renames them in order of X.webp. Specifically for TES blog, which are all webp images.
+- add-numbered-list-spacing.py: Deprecated unintellegent script, matches numbered lists and adds a blank line between them.
+
+Format savers/adders (all take filename as input arg):
+- save-image-scalings.py: Saves all image embedding lines (with image scalings) to an output file, so they can be reused in other translations (with another script to add them).
+- save-img-footers: Saves all manual image footer (start with double backtick) line numbers to output.txt, so they can be reused.
+- add-img-footers: Reads line numbers from input.txt, takes relative filename as input arg, writes relative filename content with image footers added to output.txt.
+- add-image-scalings.py: Same as adding image footers.
+
+Citation list generator:
+- gen-multiline-citations.py: Reads citations from input.txt. Multiple lines of a single citation are separated by spaces, and all separate citations are contiguous. No list numberings. It'll generate numberings on the lines.
+- gen.py: Does the above but assumes all citations are on single lines.
+- space-contiguous-lines.py: Adds blank lines between contiguous non-empty lines.
+
+## Personalized formatting
+
+Image sizes - [0,1] scaling, as a word, after the image embedding
+
+Image footer markings - Prepend double backtick "``"
+
+Automatically looks for image footers of format '**Exhibit *' and adds extra margins to them. Image footers not starting with that sequence need to be marked manually with double backticks.
+
 ## Instructions
 
 Run:
@@ -19,12 +51,6 @@ You need to download the font .tff files into this directory as well. If you're 
 
 Run the script. No input args.
 
-## Personalized formatting
-
-Image sizes - [0,1] scaling, as a word, after the image embedding
-
-Image footer markings - Prepend double backtick "``"
-
 ## Notes
 
 For ease of use to mitigate the following anomalies, I recommend copying the directory you want to generate. Adding in the new formattings. And then deleting the directory afterwards:
@@ -35,17 +61,9 @@ For ease of use to mitigate the following anomalies, I recommend copying the dir
 
 Links outside of the citations section need to be manually checked to make sure they didn't get matched in the markdown regex. Also to detach the citations from them.
 
-Citations can only be done through the LLM, not programmatically, aside from the painstaking manual method.
-
-Line spacing doesn't work properly.
+Line spacing kind of works.
 
 Reportlab fonts: https://docs.reportlab.com/reportlab/userguide/ch3_fonts/#truetype-fonts-with-asian-characters
-
-## Debugging Foreign Language
-
-So, when I load up foreign TTF fonts that also have English characters, these English characters just default to the basic, which makes me think that the entire font file is getting discarded for some reason.
-
-My first guess - it doesn't have all the characters that are in.
 
 ## Prompt creation
 

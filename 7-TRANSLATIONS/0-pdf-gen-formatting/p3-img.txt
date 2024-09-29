@@ -1,0 +1,46 @@
+![](img/1.webp) 0.3
+![](img/2.webp)
+![](img/3.webp)
+![](img/4.webp) 0.5
+![](img/5.webp) 0.6
+![](img/6.webp) 0.4
+![](img/7.webp) 0.8
+![](img/8.webp)
+![](img/9.webp) 0.5
+![](img/10.webp) 0.6
+![](img/11.webp) 0.8
+![](img/12.webp)
+![](img/13.webp)
+![](img/14.webp)
+![](img/15.webp)
+![](img/16.webp)
+![](img/17.webp)
+![](img/18.webp)
+![](img/19.webp)
+![](img/20.webp)
+![](img/21.webp) 0.5
+![](img/22.webp)
+![](img/east-pivot.png) 0.3
+![](img/west-pivot.png) 0.3
+![](img/23.webp) 0.45
+![](img/24.webp)
+![](img/25.webp)
+![](img/26.webp) 0.4
+![](img/27.webp)
+![](img/28.webp) 0.5
+![](img/29.webp)
+![](img/30.webp) 0.4
+![](img/31.webp) 0.4
+![](img/32.webp) 0.45
+![](img/33.webp) 0.6
+![](img/34.webp) 0.5
+![](img/35.webp)
+![](img/36.webp) 0.45
+![](img/37.webp)
+![](img/38.webp) 0.2
+![](img/39.webp) 0.5
+![](img/40.webp) 0.5
+![](img/41.webp)
+![](img/42.webp) 0.25
+![](img/43.webp)
+![](img/44.webp) 0.32
