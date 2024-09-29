@@ -16,10 +16,10 @@ Format checkers/modifiers (all take filename as input arg):
 - add-numbered-list-spacing.py: Deprecated unintellegent script, matches numbered lists and adds a blank line between them.
 
 Format savers/adders (all take filename as input arg):
-- save-image-scalings.py: Saves all image embedding lines (with image scalings) to an output file, so they can be reused in other translations (with another script to add them).
+- save-img-scalings.py: Saves all image embedding lines (with image scalings) to an output file, so they can be reused in other translations (with another script to add them).
 - save-img-footers: Saves all manual image footer (start with double backtick) line numbers to output.txt, so they can be reused.
 - add-img-footers: Reads line numbers from input.txt, takes relative filename as input arg, writes relative filename content with image footers added to output.txt.
-- add-image-scalings.py: Same as adding image footers.
+- add-img-scalings.py: Same as adding image footers.
 
 Citation list generator:
 - gen-multiline-citations.py: Reads citations from input.txt. Multiple lines of a single citation are separated by spaces, and all separate citations are contiguous. No list numberings. It'll generate numberings on the lines.
