@@ -20,6 +20,8 @@ Other potential cataclysmic events:
 
 ## 400 BC
 
+Issue with this date is I would like to see more "civilizational collapse" to be sure. Or, perhaps people at this time were centered in safe locations in the near aftermath of the 2000 BC event? But, we see considerable societal disruption in the 2000 BC event which isn't long after the 3000 BC event.
+
 - 340 BC: Alexander the Great Turkey deluge myth
 - 373 BC: Helike Greek city-state submerged by Tsunami in winter
 - 400 BC: La venta, Veracruz, Mexico, abandoned
