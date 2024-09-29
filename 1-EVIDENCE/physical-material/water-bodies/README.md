@@ -65,7 +65,7 @@ What I see in this paper is two surges in salinity at around 1700 and 500 BC.
 
 https://sci-hub.ru/10.1016/j.quascirev.2013.05.020
 
-## Mayan Chichancanab Lake [1]
+## Mayan Chichancanab Lake 5800 BC filling [1]
 
 ![](img/maya-climate.jpg)
 ![](img/chichancanab1.jpg)
