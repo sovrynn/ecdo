@@ -28,6 +28,7 @@ Other potential cataclysmic events:
 Physical markers:
 - paleomagnetic anomalies (Levantine Iron Age, 500 BC Russia peat deposit)
 - Antarctic tephra
+- 200 BC potential tree ring anomalies
 
 ## 1400 - 1200 BC
 
