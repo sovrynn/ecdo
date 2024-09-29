@@ -28,6 +28,14 @@ With the weakening magnetic field, could technology be fried in the near future?
 
 # TODO
 
+## island in indonesia?
+
+https://www.waterfrontportfolio.com/mystery-island-indonesia
+
+That is close, but I don’t think close enough. Somewhere in this group of islands. 
+
+https://maps.app.goo.gl/6bWVJerrGCpNPE8i9?g_st=com.google.maps.preview.copy
+
 ## Dangers to consider
 
 Natural:

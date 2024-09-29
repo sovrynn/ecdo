@@ -19,6 +19,12 @@ Stephen Knapp, in "Advancements of Ancient India's Vedic Culture", provides a co
 
 36 years after the Kurukshetra War would put the sinking of Dwarka at 3031 BCE.
 
+## Vedveer Arya
+
+Vedveer Arya seems to have compiled a lengthy chronology of India's history worth looking at. Hard copy in this folder https://independent.academia.edu/VedveerArya
+
+He places the Manu deluge at 9200 BC, and the submergence of Dvaravati at 7400 BC (Tollman event?).
+
 ## Sinking of Kandam Kumari (Multiple occurrences)
 
 *"Half of the land mass Kumari Kandam, which was south of India, sank in a great flood, destroying the first Tamil Sangam (literary academy). The people moved to the other half and established the second Tamil Sangam there, but the rest of Kumari too sank beneath the sea. The lone survivor was a Tamil prince named Thirumaaran, who managed to rescue some Tamil literary classics and swim with them to present-day Tamil Nadu."* [1]

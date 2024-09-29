@@ -23,9 +23,13 @@ See `LITERATURE-MEDIA/chan-thomas`.
 
 Hard copy `TwoFloods_Web.pdf` in this folder.
 
-## Uriel's Machine Excerpt
+## Dead Sea scrolls - Uriel's Machine Excerpt
 
 ![](img/dead-sea-scrolls.jpg)
+
+From the Dead Sea scrolls as described in Uriel’s Machine. Uriel teaching Enoch about the cycles of the cosmos.
+
+![](img/dead-sea-scrolls2.jpg)
 
 ## Adam and Eve Flood
 

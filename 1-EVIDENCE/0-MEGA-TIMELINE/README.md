@@ -6,13 +6,13 @@ High-certainty ECDO-like geomagnetic-excursion cataclysms:
 - Younger Dryas, ~9600 BC
 
 Other potential cataclysmic events:
-- 500 AD
-- 400 BC, Alexander the great
-- 1200 BC, Late Minoan 2, Egypt
-- 6200 - 5500 BC, black sea deluge dating
-- 7500 BC, Tollman impact hypothesis
+- 500 AD, tree ring anomalies
+- 400 BC, alexander the great, paleomagnetic anomalies
+- 1200 BC, Late Minoan 2, Egypt, paleoclimate anomalies
+- 6200 - 5500 BC, black/mediterranean sea refilling dating
+- 7500 BC, Tollman impact hypothesis, Uriel's Machine reference
 
-## Non-specific
+## Non-exact cataclysm accounts
 
 - Ancient Egypt, Herodotus: 341 generations of men up till 1290 BC (10k-4.7k years) 4 Sun changes (2 flips?)
 - Plato: "Many great deluges" since Athens and Atlantis, a significant "third great flood before Deucalion" that washed away most of Athens' fertile soil

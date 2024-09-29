@@ -35,6 +35,8 @@ North america:
 - Burke's Garden
 - natural bridges: https://en.wikipedia.org/wiki/Natural_Bridges_National_Monument
 
+Lake Lovozero and Lake Seydozero, Finland | Russia
+
 Europe:
 - Slovenia, known for its karst landforms.
 - Switzerland, with its extensive amount of bunkers and mountain landscape.

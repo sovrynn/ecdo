@@ -16,7 +16,7 @@ Speculative:
 
 https://en.wikipedia.org/wiki/Mid-24th_century_BCE_climate_anomaly#:~:text=In%201997%2C%20Marie-Agn%C3%A8s%20Courty,hundred%20kilometres%20from%20each%20other
 
-### Baillie - Tree Rings
+### Tree-Rings Indicate Global Environmental Downturns that could have been Caused by Comet Debris - Baillie (hard copy here)
 
 Interestingly the main paper referenced in this Wikipedia article also points to more recent dates (200 BC, approximately 540 AD) as other suspicious dates. He includes his own cataclysm compilation as well. Hard copy in this folder.
 
@@ -26,13 +26,13 @@ Interestingly the main paper referenced in this Wikipedia article also points to
 
 "It transpires that the historical record is un-naturally thin around 540."
 
-## Irish Oak Tree Rings
+## THE RADIOCARBON CALIBRATION FROM AN IRISH OAK PERSPECTIVE - Irish Oak Tree Rings (hard copy here)
 
 "This resulted in a series of dates (e.g. 3195 BC, 2345 BC, 1159 BC, 207 BC, and AD 540) that turned out to be potentially important “marker dates” in human history (Baillie and Munro 1988; Baillie 1995; see also Hammer et al. 1987)."
 
 ![](img/irish-oak.png)
 
-## Irish Tree Rings, Baillie (proper data)
+## Irish tree rings, Santorini and volcanic dust veils - Baillie (hard copy here)
 
 ![](img/irish-tree-rings-baillie.png)
 

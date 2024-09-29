@@ -89,6 +89,11 @@ Mesopotamian flood myth - Utnapishtim builds a boat and survives the flood.
 		- https://x.com/nobulart/status/1803411938451374121?s=46
 		- https://x.com/nobulart/status/1801746221809209701?s=46
 
+## Egypt flood mythology
+
+![](img/egypt-flood-myth.jpg)
+![](img/egypt-excerpt-book.png)
+
 ## Turkey deluge account
 
 Not only does it describe a deluge, it specifically describes an oceanic displacement.

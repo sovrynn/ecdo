@@ -12,7 +12,15 @@ There is a nice timeline from the Wikipedia page:
 
 ## Ice Rafting [3]
 
-Ice rafting is the transport of various materials by ice. Various objects deposited on ice may eventually become embedded in the ice. When the ice melts after a certain amount of drifting, these objects are deposited onto the bottom of the water body, e.g., onto a river bed or an ocean floor.[1][2] These deposits are called ice rafted debris (IRD) or ice rafted deposits. Ice rafting was a primary mechanism of sediment transport during glacial episodes of the Pleistocene when sea levels were very low and much of the land was covered by large masses (sheets) of ice. The rafting of various size sediments into deeper ocean waters by icebergs became a rather important process. Ice rafting is still a process occurring today, although its impact is significantly less and much harder to gauge. 
+Ice rafting is the transport of various materials by ice. Various objects deposited on ice may eventually become embedded in the ice. When the ice melts after a certain amount of drifting, these objects are deposited onto the bottom of the water body, e.g., onto a river bed or an ocean floor.[1][2] These deposits are called ice rafted debris (IRD) or ice rafted deposits. Ice rafting was a primary mechanism of sediment transport during glacial episodes of the Pleistocene when sea levels were very low and much of the land was covered by large masses (sheets) of ice. The rafting of various size sediments into deeper ocean waters by icebergs became a rather important process. Ice rafting is still a process occurring today, although its impact is significantly less and much harder to gauge.
+
+## Camp Century Ice Core
+
+"The long-term trend was removed from both curves by applying a binomial high-pass filter. The resulting curves... are very similar; for example, the prominent maxima of the tree-ring record at ~2800 BC, 1900 BC, 700 BC, 300 BC, AD 800, Ad 1100 and AD 1700 (Maunder Minimum) are also found in the 10BE-based model curve."
+
+![](img/camp-century-core.png)
+
+Hard copy in this folder.
 
 ## Gas giants grand cycle harmonic and bond event data
 
