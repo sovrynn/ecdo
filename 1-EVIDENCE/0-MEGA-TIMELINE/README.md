@@ -85,12 +85,14 @@ Physical markers:
 ## 7400 BC event
 
 - 7400 BC: Sinking of Dvaravati
+- 7400 BC: bond event
 - 7500 BC: Tollman bolide hypothesis
 
 ## 9600 BC event
 
 A well-documented event, with accounts of "continents sinking in a day", and clear physical markers of widespread climate change, points to a high likelihood of an ECDO-like event.
 
+- 9100 BC: bond event
 - 9200 BC: Manu flood
 - 9600 BC: Atlantis
 - 9700 BC: end of Younger Dryas, many physical markers
