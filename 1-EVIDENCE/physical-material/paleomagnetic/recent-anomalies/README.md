@@ -2,6 +2,8 @@
 
 ## North America Holocene Paleomagnetic Data
 
+I see end of Younger Dryas, 6200 BC, and 400 BC event in here.
+
 ![](img/notam-paleomag1.png)
 ![](img/notam-paleomag2.png)
 
