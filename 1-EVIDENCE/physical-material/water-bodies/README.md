@@ -73,6 +73,8 @@ https://sci-hub.ru/10.1016/j.quascirev.2013.05.020
 ![](img/chichancanab1.jpg)
 
 "Classic Maya Civilization. Data from the Lake Chichancanab core supports the following interpretation: From 9200 to 7800 years BP, there was no lake at the coring site as indicated by the absence of aquatic microfossils and the presence of land snails. Beginning at about 7800 years BP, the lake began to fill but the salinity was much higher than today. The lake basin was filled by 7000 years BP" - Department of Geology, University of Florida [1][2]
+
+If %S stands for salinity I think I see a 200 BC event in there as well.
  
 See `LOCATION-ANALYSIS/north-america/mexico` and `LOCATION-ANALYSIS/carribean` for more analysis.
 1. https://www1.ncdc.noaa.gov/pub/data/paleo/slidesets/maya/
