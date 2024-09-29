@@ -4,7 +4,7 @@
 
 ### William Ryan
 
-Apparently the OG Black Sea deluge researcher. He has produced research from 1997 all the way up till very recently. His original thesis was around 5600 BC, he which he revised to 6200 BC in 2003.
+Apparently the OG Black Sea deluge researcher. He has produced research from 1997 all the way up till very recently. His original thesis was around 5600 BC, which he revised to 6200 BC in 2003.
 
 1997 paper (hard copy here): https://sci-hub.ru/10.1016/s0025-3227(97)00007-8
 
