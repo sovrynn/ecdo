@@ -106,3 +106,5 @@ Greek flood (Deucalion, Dardanus): 1800 - 1528 BC
 add water transgressions in here
 
 add paleomagnetic data
+
+add 6200 bc event
