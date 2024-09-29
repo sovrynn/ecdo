@@ -1,6 +1,6 @@
 # Mega Timeline
 
-Very likely ECDO-like events:
+High-certainty ECDO-like geomagnetic-excursion cataclysms:
 - 2200-1700 BC
 - 3200-2800 BC
 - Younger Dryas, ~9600 BC
@@ -36,7 +36,7 @@ This period is far enough away from 2000 BC to warrant its own investigation as 
 
 ## 2200 - 1700 BC event
 
-This 500-year period is filled with extensive evidence from all domains, including history and physical markers. This, along with 
+This 500-year period is filled with extensive evidence from all domains, including history and physical markers. Along with accounts of mega-floods (Gun-Yu, Ogyges), we can almost be certain there was an ECDO-like event during this period.
 
 Cataclysm accounts:
 - 1600-1400 BC: Biblical Exodus, Moses
@@ -60,7 +60,7 @@ Physical markers:
 
 ## 3200 - 2800 BC event
 
-This 400-year period is also filled with extensive evidence that points to a global cataclysm. Multiple accounts of ECDO-like cataclysms from different places in the world is difficult to ignore.
+This 400-year period is also filled with extensive evidence that points to a global cataclysm. Multiple accounts of ECDO-like cataclysms (megafloods, Sun changing direction) from different places in the world gives us a high certainty there was an ECDO-like event during this period.
 
 - China Nu Wa: 2810 BC
 - Peruvian Timeline: 2900 BC Deluge
@@ -75,6 +75,8 @@ Physical markers:
 - narrow Irish tree rings
 
 ## 9600 BC event
+
+A well-documented event, with accounts of "continents sinking in a day", and clear data of geomagnetic excursions, points to a high likelihood of an ECDO-like event.
 
 - Atlantis
 - end of Younger Dryas, many physical markers
