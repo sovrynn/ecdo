@@ -101,8 +101,3 @@ A well-documented event, with accounts of "continents sinking in a day", and cle
 
 ~1700 BC event:
 - Greek flood (Deucalion, Dardanus): 1800 - 1528 BC
-
-Between 9600 BC and 6000+ BC:
-- 1-2 floods: "third great flood before Deucalion", Plato
-- 6200 - 5500 BC: Black Sea deluge
-- 7400 BC: Tollmann event
