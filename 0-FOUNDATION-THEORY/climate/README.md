@@ -11,7 +11,7 @@ If the Earth flipped, these would get disrupted, and form new patterns, which wo
 
 For example, notice that the Pacific west coast is not humid, whereas East Asia is very humid, even though they are at similar latitudes. So, the weather is not solely determined by latitude. The local ocean and topography makes a large difference.
 
-In S2, the Pacific ocean (huge body of water) gets displaced from being directly onto the equator to the south pole, being replaced by large continents. It could be that this results in much colder oceans during S2, also resulting in less humidity, which leads to the proposed drought effect. However, apparently the sunlight only heats the most shallowest (~200m) parts of the ocean, so this might not have such a big effect.
+One thing that's for sure is that the placement of Eurasia smack on the equator will certainly change up the currents, and the Arctic region will be a lot more humid. The Pacific and Atlantic ocean currents will also get messed up as these no longer traverse vertically but horizontally. Africa would get quite dry as it moves to the north pole, which matches the 2200 BC drought.
 
 ## Wind patterns [3]
 
