@@ -57,9 +57,9 @@ On loss of sediment: I asked GPT: "In the context of this stratigraphic chart, "
 
 https://sci-hub.ru/10.1016/j.quaint.2008.11.016
 
-## Kilen Fjord
+## Kilen Fjord (hard copy in here)
 
-Noahic Deluge (7400BC) and maybe 1700BC (300 years out).
+I see a 3000 BC and 400 BC event in here, and potentially a 5000 BC event.
 
 "Three shifts in state at Kilen are identified over the study period: a deep, periodically stratified fjord with medium high salinity (and high productivity) between ca 7500-5000 BP, followed by a gradual transition to a shallow benthic system with more oceanic conditions (i.e. higher salinity, lower productivity, slower sedimentary accumulation rate and poorer fossil preservation) after ca 5000 BP and no stratification after ca 4400 BP, and lastly, within this shallow phase, an abrupt shift to brackish conditions around 2000 BP."
 
