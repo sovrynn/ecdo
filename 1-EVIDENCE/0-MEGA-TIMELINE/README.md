@@ -22,6 +22,7 @@
 - 400 BC: La venta, Veracruz, Mexico, abandoned
 - east Asia lacks history from this time
 
+Physical markers:
 - paleomagnetic anomalies (Levantine Iron Age, 500 BC Russia peat deposit)
 
 ## 1400 - 1200 BC
@@ -52,6 +53,7 @@ Cataclysm accounts:
 	- Possibly contemporary with Ogyges
 	- Backed up by 1920 BC dated Yellow River flood remnants
 
+Physical markers:
 - 2200-2100 BC: climate aridification event
 - bond (ice rafting) event
 
@@ -65,6 +67,7 @@ This 400-year period is also filled with extensive evidence that points to a glo
 - India, Sinking of Dwaraka: 3031 BC
 - Biblical Noahic deluge: 3500 - 2500 BC
 
+Physical markers:
 - 3200 BC: Compton's comet mega-compilation of physical markers
 - 3200 BC: climate change event (Staubwasser, Weiss)
 - bond event
