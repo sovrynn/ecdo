@@ -1,4 +1,4 @@
-# Mega Timeline
+# Holocene Mega Timeline
 
 High-certainty ECDO-like geomagnetic-excursion cataclysms:
 - 2200-1700 BC
@@ -102,3 +102,5 @@ A well-documented event, with accounts of "continents sinking in a day", and cle
 Greek flood (Deucalion, Dardanus): 1800 - 1528 BC
 
 add water transgressions in here
+
+add paleomagnetic data
