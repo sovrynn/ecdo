@@ -34,6 +34,8 @@ Interestingly the main paper referenced in this Wikipedia article also points to
 
 ## Irish tree rings, Santorini and volcanic dust veils - Baillie (hard copy here)
 
+"In theory the narrowest ring width... should be related to the worst growth conditions that the tree experienced during its lifetime."
+
 ![](img/irish-tree-rings-baillie.png)
 
 Peaks correspond to narrow ring anomalies. A "narrowness index" formula was constructed which is plotted here, where r is the number of narrowest rings and s the total number of sites within a sliding window.
