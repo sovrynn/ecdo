@@ -42,7 +42,7 @@ This period is far enough away from 2000 BC to warrant its own investigation as 
 
 ## 2200 - 1700 BC event
 
-This 500-year period is filled with extensive evidence from all domains, including history and physical markers. Along with accounts of mega-floods (Gun-Yu, Ogyges), we can almost be certain there was an ECDO-like event during this period.
+This 500-year period is filled with extensive evidence from all domains, including history and physical markers. Along with accounts of mega-floods (Gun-Yu, Ogyges), we can almost be certain there was an ECDO-like event during this period. The wide spread of dates makes me wonder if there may be more than one cataclysm in this date range.
 
 Cataclysm accounts:
 - 1600-1400 BC: Biblical Exodus, Moses
