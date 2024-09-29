@@ -1,12 +1,14 @@
 # Mega Timeline
 
+Surefire events:
+- 2200-1700 BC
+- 3200-2800 BC
+
 ## Potential Cataclysm Dates
 
 - 500 AD
 - 400 BC, Alexander the great
 - 1200 BC, Late Minoan 2, Egypt
-- 2200 - 1700 BC, most events
-- 3200 - 2800 BC, many events
 - 6200 - 5500 BC, black sea deluge dating
 - 9600 BC, end of younger dryas
 
@@ -35,7 +37,7 @@ This period is far enough away from 2000 BC to warrant its own investigation as 
 
 ## 2200 - 1700 BC event
 
-This 500-year period is filled with extensive evidence from all domains, including history and physical markers, pointing to some kind of global cataclysm.
+This 500-year period is filled with extensive evidence from all domains, including history and physical markers. The account of Gun-Yu points to an extreme likelihood of an ECDO-like event.
 
 Cataclysm accounts:
 - 1600-1400 BC: Biblical Exodus, Moses
@@ -59,7 +61,7 @@ Physical markers:
 
 ## 3200 - 2800 BC event
 
-This 400-year period is also filled with extensive evidence that points to a global cataclysm.
+This 400-year period is also filled with extensive evidence that points to a global cataclysm. Multiple accounts of ECDO-like cataclysms from different places in the world is difficult to ignore.
 
 - China Nu Wa: 2810 BC
 - Peruvian Timeline: 2900 BC Deluge
