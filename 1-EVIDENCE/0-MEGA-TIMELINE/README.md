@@ -99,5 +99,6 @@ A well-documented event, with accounts of "continents sinking in a day", and cle
 
 # TODO Timeline of dateable myths
 
-~1700 BC event:
-- Greek flood (Deucalion, Dardanus): 1800 - 1528 BC
+Greek flood (Deucalion, Dardanus): 1800 - 1528 BC
+
+add water transgressions in here
