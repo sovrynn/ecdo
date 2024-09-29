@@ -14,13 +14,17 @@ The key factor here IMO, aside from the obvious issue of figuring out S2's orien
 
 ## Duration
 
-"Moreover, during a short Khafre-styled reversal of say 10 to 50 bitter cold, dark, and wet years, we might not be able to detect such a Dzhanibekov rotation at all, even in ice cores." [2]
-
 The Great Gun-Yu flood of China, around 1900 BC, was said to have lasted 22 years. See `EVIDENCE/cataclysm-chronology/asia/china`.
 
-"I don't think that S2 is more than 20-30 years [due to] total apparent karst erosion/number of inundations." [1]
-
 On the ostrich egg (`EVIDENCE/civilization-remnants/important-artifacts`) there's indication of a special 200-year phase.
+
+The lack of precedent for ice buildup on the S2 poles (South Africa) may point to an S2 that is shorter than S1 - not long enough for significant ice to accumulate, at least to the extent that it exists on the poles right now.
+
+### Speculative
+
+"Moreover, during a short Khafre-styled reversal of say 10 to 50 bitter cold, dark, and wet years, we might not be able to detect such a Dzhanibekov rotation at all, even in ice cores." [2]
+
+"I don't think that S2 is more than 20-30 years [due to] total apparent karst erosion/number of inundations." [1]
 
 ## Weather
 
