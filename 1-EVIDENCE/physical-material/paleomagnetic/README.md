@@ -4,7 +4,7 @@ The difficulty I see here is that paleomagnetic data is only recorded under cert
 
 Paleomagnetic studies that date material back in the last several millenium (4000 BC to now) are in `recent-anomalies`.
 
-What follows are anomalies that date back at least to Younger Dryas.
+What follows are anomalies that date back at least to Younger Dryas and usually far older, which constitute the "well-documented" geomagnetic excursions.
 
 ## Laj: An impending geomagnetic transition? Hints from the past
 
@@ -32,7 +32,7 @@ https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2015.0
 
 Hard copy in LITERATURE.
 
-## Laschamp Excursion: Laj and Lund Studies [2]
+## Laschamp Excursion: Laj and Lund Studies [2] 41k YBP
 
 ![](img/laj-lund.webp)
 
@@ -58,13 +58,13 @@ Coloured elements are my own additions. Blue and red indicate selected reversal 
 
 https://x.com/nobulart/status/1816565694244192663
 
-## Mungo Lake Excursion
+## Mungo Lake Excursion 30k YBP
 
 ![](img/mungo-lake.png)
 
 https://www.jstor.org/stable/74622
 
-## Mono Lake Excursion
+## Mono Lake Excursion 34k YBP
 
 The Mono Lake Excursion ( MLE ) was a polarity excursion of the Earth's magnetic field within the Brunhes polarity zone . It was therefore not a polarity reversal , but only a dip. The event took place around 34,000 years ago in the Weichselian High Glacial .
 
