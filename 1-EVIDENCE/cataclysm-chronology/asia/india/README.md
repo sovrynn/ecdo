@@ -6,6 +6,12 @@ There are several Indian flood myths.
 
 Check `img/` for all records.
 
+A summary is as follows:
+- Manu flood: 9200 BC
+- Dvaravati sinking: 7400 BC
+- Dvarka sinking: 3100 BC
+- North India deluge remnants: 2000-1900 BC
+
 ## Krishna - Mahabharata War 3067 BCE
 
 Stephen Knapp, in "Advancements of Ancient India's Vedic Culture", provides a compelling account for why Krishna can be dated to around 3100 BC, including:
@@ -19,11 +25,17 @@ Stephen Knapp, in "Advancements of Ancient India's Vedic Culture", provides a co
 
 36 years after the Kurukshetra War would put the sinking of Dwarka at 3031 BCE.
 
-## Vedveer Arya
+## Vedveer Arya - Manu flood 9200 BC? Dvaravati sinking 7400 BC?
 
-Vedveer Arya seems to have compiled a lengthy chronology of India's history worth looking at. Hard copy in this folder https://independent.academia.edu/VedveerArya
+Vedveer Arya seems to have compiled a lengthy and comprehensive chronology of India's history worth looking at. Hard copy in this folder https://independent.academia.edu/VedveerArya
 
-He places the Manu deluge at 9200 BC, and the submergence of Dvaravati at 7400 BC (Tollman event?).
+He places the Manu deluge at 9200 BC, and the submergence of Dvaravati (Dwarka) at 7400 BC (Tollman event?). The submergence of the same Dwaraka city, of the Mahabharata era, in 3126 BC.
+
+See page 24 for an overview. Page 74 for Manu dating. Pg 497 for Dvaravati.
+
+"Seemingly, forty-nine descendants of King Dravida reigned at Dvāravatī approximately for 1650 years, from 11050 BCE to 9400 BCE, considering the average reign of 33 years for each king. Dvāravatī was submerged by the sea around 9400-9300 BCE, during the reign of Irunkovel I, the forty-ninth king."
+
+"The archaeological site of Bhirrana in Hisar, Haryana has also been dated around 7500 BCE. A submerged structure of the ancient Poompuhar city found close to Kaveripattinam, Tamil Nadu has been dated around 9500" [29]
 
 ## Sinking of Kandam Kumari (Multiple occurrences)
 
@@ -81,6 +93,12 @@ Kali Yuga of 1000 years has two sandhis of 100 years for a total of 1200 years. 
 https://www.vedanet.com/keys-to-the-yugas-or-cycles-of-the-ages-subyugas-in-the-sri-yukteswar-yuga-cycle/
 
 Aligned to a 3100 BC Kali Yuga start date, this places the end of Satya Yuga at 9100 BC. Still, Sri doesn't date Krishna to 3100 BC so I don't take this to be very substantial.
+
+## 300 BC event?
+
+"The ancient city of Puhar was destroyed by the sea around 300 BC. Marine archeologists from the National Institute of Oceanography have established that this could have been the effects of sediment erosion and periodic tsunamis. Such a tsunami is mentioned in the Tamil poem Manimekhalai (see below), which relates that the town Kāveripattinam or Puhār was swallowed up by the sea. This event is supported by archeological finds of submerged ruins off the coast of modern Poompuhar.[3][4] The town of Kāveripattinam is believed to have disappeared around 300 BC due to this tsunami"
+
+https://en.wikipedia.org/wiki/Poombuhar
 
 ## Citations
 

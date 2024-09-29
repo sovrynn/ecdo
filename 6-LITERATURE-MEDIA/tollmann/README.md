@@ -2,6 +2,10 @@
 
 Author of the Tollmann bolide hypothesis - comet impact around 7400 BC.
 
+"Tollmann's bolide hypothesis is a hypothesis presented by Austrian palaeontologist Edith Kristan-Tollmann and geologist Alexander Tollmann in 1994.[1] The hypothesis postulates that one or several bolides (asteroids or comets) struck the Earth around 7640 ± 200 years BCE, and a much smaller one approximately 3150 ± 200 BCE. The hypothesis tries to explain early Holocene extinctions and possibly legends of the Universal Deluge. The claimed evidence for the event includes stratigraphic studies of tektites,[2][3][4] dendrochronology, and ice cores (from Camp Century, Greenland) containing hydrochloric acid and sulfuric acid (indicating an energetic ocean strike) as well as nitric acids (caused by extreme heating of air)."
+
+https://en.wikipedia.org/wiki/Tollmann%27s_bolide_hypothesis
+
 The youngest big impact on Earth deduced from geological and historical evidence
 
 https://en.wikipedia.org/wiki/Tollmann%27s_bolide_hypothesis#cite_note-Kristan-Tollmann_Tollman_1994-1

@@ -6,7 +6,8 @@ High-certainty ECDO-like geomagnetic-excursion cataclysms:
 - Younger Dryas, ~9600 BC
 
 Other potential cataclysmic events:
-- 500 AD, tree ring anomalies
+- 1200 AD
+- 500 AD, tree ring anomalies (might genuinely be a comet debris event, see paper in `biology`)
 - 400 BC, alexander the great, paleomagnetic anomalies
 - 1200 BC, Late Minoan 2, Egypt, paleoclimate anomalies
 - 6200 - 5500 BC, black/mediterranean sea refilling dating
@@ -26,14 +27,16 @@ Other potential cataclysmic events:
 
 Physical markers:
 - paleomagnetic anomalies (Levantine Iron Age, 500 BC Russia peat deposit)
+- Antarctic tephra
 
 ## 1400 - 1200 BC
 
 This period is far enough away from 2000 BC to warrant its own investigation as a potential cataclysm. There is evidence from many domains pointing to a possible cataclysm in this time.
 
 - 1400 BC: Minoan Crete's third and final cataclysm
-- Narrow Irish tree rings
 - Egyptian dark age (see Barbara Bell)
+- Narrow Irish tree rings
+- Antarctic tephra
 
 ## 2200 - 1700 BC event
 
@@ -58,6 +61,7 @@ Cataclysm accounts:
 Physical markers:
 - 2200-2100 BC: climate aridification event
 - bond (ice rafting) event
+- 1650 BC Antarctic tephra
 
 ## 3200 - 2800 BC event
 
@@ -74,13 +78,20 @@ Physical markers:
 - 3200 BC: climate change event (Staubwasser, Weiss)
 - bond event
 - narrow Irish tree rings
+- Antarctic tephra
+
+## 7400 BC event
+
+- 7400 BC: Sinking of Dvaravati
+- 7500 BC: Tollman bolide hypothesis
 
 ## 9600 BC event
 
 A well-documented event, with accounts of "continents sinking in a day", and clear physical markers of widespread climate change, points to a high likelihood of an ECDO-like event.
 
-- Atlantis
-- end of Younger Dryas, many physical markers
+- 9200 BC: Manu flood
+- 9600 BC: Atlantis
+- 9700 BC: end of Younger Dryas, many physical markers
 
 # TODO Timeline of dateable myths
 
