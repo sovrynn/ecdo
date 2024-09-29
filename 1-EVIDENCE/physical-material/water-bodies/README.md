@@ -20,7 +20,7 @@ William Ryan, Black Sea, 2003: Catastrophic Flooding of the Black Sea (hard copy
 
 Bruckner, Black sea, 2009: https://sci-hub.ru/10.1016/j.quaint.2008.11.016 (hard copy in this folder)
 
-Marmara Sea, 8000 YBP (citations 16, 17, 18) [1]
+Marmara Sea spillover to Black Sea, 8000 YBP (citations 16, 17, 18) https://en.m.wikipedia.org/wiki/Black_Sea_deluge_hypothesis
 
 ### EXTREME FLUCTUATIONS OF THE BLACK SEA LEVEL IN NEOEUXINE HOLOCENE AS THE ALTERNATIVE OF CATASTROPHIC FLOOD HYPOTHESIS
 
