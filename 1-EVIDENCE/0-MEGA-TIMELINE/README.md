@@ -10,6 +10,7 @@ Other potential cataclysmic events:
 - 400 BC, Alexander the great
 - 1200 BC, Late Minoan 2, Egypt
 - 6200 - 5500 BC, black sea deluge dating
+- 7500 BC, Tollman impact hypothesis
 
 ## Non-specific
 
