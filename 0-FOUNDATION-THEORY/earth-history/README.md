@@ -14,7 +14,7 @@
 
 "During the preceding period, the Bølling–Allerød Interstadial, rapid warming in the Northern Hemisphere[9]: 677  was offset by the equivalent cooling in the Southern Hemisphere.[10][8] This "polar seesaw" pattern is consistent with changes in thermohaline circulation (particularly the Atlantic meridional overturning circulation or AMOC), which greatly affects how much heat is able to go from the Southern Hemisphere to the North. The Southern Hemisphere cools and the Northern Hemisphere warms when the AMOC is strong, and the opposite happens when it is weak.[10] The scientific consensus is that severe AMOC weakening explains the climatic effects of the Younger Dryas.[11]: 1148  It also explains why the Holocene warming had proceeded so rapidly once the AMOC change was no longer counteracting the increase in carbon dioxide levels."
 
-## Dansgaard-Oeschger event [7]
+## Dansgaard-Oeschger event (pre-Holocene) [7]
 
 "Dansgaard–Oeschger events (often abbreviated D–O events), named after palaeoclimatologists Willi Dansgaard and Hans Oeschger, are rapid climate fluctuations that occurred 25 times during the last glacial period. Some scientists say that the events occur quasi-periodically with a recurrence time being a multiple of 1,470 years, but this is debated. The comparable climate cyclicity during the Holocene is referred to as Bond events."
 
