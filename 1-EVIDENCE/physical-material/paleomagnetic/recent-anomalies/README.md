@@ -11,7 +11,7 @@ Hard copy in this folder (2003_GJI.pdf). https://commons.trincoll.edu/cgeiss/fil
 
 The inclinations don't reverse to negative as they would during an ECDO event but if S2 is as short as we predict it would be a microscopic fraction of time in the sample and hard to capture.
 
-## Levantine Iron Age Anomaly (LIAA)
+## Levantine Iron Age Anomaly (LIAA) - first millenium BC
 
 Levantine Iron Age anomaly
 - https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL071494
