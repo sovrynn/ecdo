@@ -92,7 +92,7 @@ Physical markers:
 
 ## 9600 BC event
 
-A well-documented event, with accounts of "continents sinking in a day", and clear physical markers of widespread climate change, points to a high likelihood of an ECDO-like event.
+A well-documented event, with an account of a continent "sinking in a day", and clear physical markers of widespread climate change, points to a high likelihood of an ECDO-like event.
 
 - 9100 BC: bond event
 - 9200 BC: Manu flood
