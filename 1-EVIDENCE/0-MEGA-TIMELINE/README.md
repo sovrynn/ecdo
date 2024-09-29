@@ -76,7 +76,7 @@ Physical markers:
 
 ## 9600 BC event
 
-A well-documented event, with accounts of "continents sinking in a day", and clear data of geomagnetic excursions, points to a high likelihood of an ECDO-like event.
+A well-documented event, with accounts of "continents sinking in a day", and clear physical markers of widespread climate change, points to a high likelihood of an ECDO-like event.
 
 - Atlantis
 - end of Younger Dryas, many physical markers
