@@ -416,5 +416,32 @@
             </coordinates>
         </LineString>
     </Placemark>
+    <Style id="poleStyle">
+      <IconStyle>
+        <!-- Color format is aabbggrr (alpha, blue, green, red) -->
+        <color>ffc0cbff</color> <!-- Blue color (fully opaque) -->
+        <scale>10.0</scale> <!-- Controls the size of the icon (2.0 is twice the normal size) -->
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href>        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>10.0</scale> <!-- Controls the size of the label text (2.0 is twice the normal size) -->
+        # <color>ffc0cbff</color> <!-- Optional: you can also color the label text pink -->
+      </LabelStyle>
+    </Style>
+    <Placemark>
+     <name>S2 North Pole</name>
+     <styleUrl>#poleStyle</styleUrl>
+      <Point>
+        <coordinates>31,-14</coordinates> <!-- longitude,latitude,altitude -->
+      </Point>
+    </Placemark>
+    <Placemark>
+     <name>S2 South Pole</name>
+     <styleUrl>#poleStyle</styleUrl>
+      <Point>
+        <coordinates>-149,14</coordinates> <!-- longitude,latitude,altitude -->
+      </Point>
+    </Placemark>
 </Document>
 </kml>
