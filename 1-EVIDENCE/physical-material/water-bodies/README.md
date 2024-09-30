@@ -49,7 +49,7 @@ Back Sea multiproxy sealevel analysis from the same paper. Massive changes aroun
 
 ![](img/med-refilling3.jpg)
 
-What I see above is markers of *above-average* water levels around 8800 BC, 7600 BC, 6000 BC, 3700 BC, and 2000 BC, evidenced by the markers that hover significantly above the trendline.
+What I see above is markers of *above-average* water levels around 8800 BC, 7700 BC, 6000 BC, 3700 BC, and 2000 BC, evidenced by the markers that hover significantly above the trendline.
 
 ![](img/med-refilling4.jpg)
 
