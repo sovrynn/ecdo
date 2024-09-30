@@ -48,6 +48,9 @@ A meta-analysis of Mediterranean sea levels seems to show a dramatic refilling p
 Back Sea multiproxy sealevel analysis from the same paper. Massive changes around 7400 and the period of the Tollman impact hypothesis (9640 BP).
 
 ![](img/med-refilling3.jpg)
+
+What I see above is markers of *above-average* water levels around 8800 BC, 7600 BC, 6000 BC, 3700 BC, and 2000 BC, evidenced by the markers that hover significantly above the trendline.
+
 ![](img/med-refilling4.jpg)
 
 This reminds me of our Mediterranean sea level discussion between S1 and S2. The various sites got deeper in the north and shallower in the south.
