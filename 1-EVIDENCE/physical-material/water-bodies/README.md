@@ -18,8 +18,6 @@ William Ryan, Black Sea, 2003: Catastrophic Flooding of the Black Sea (hard copy
 
 ### Other
 
-Bruckner, Black sea, 2009: https://sci-hub.ru/10.1016/j.quaint.2008.11.016 (hard copy in this folder)
-
 Marmara Sea spillover to Black Sea, 8000 YBP (citations 16, 17, 18) https://en.m.wikipedia.org/wiki/Black_Sea_deluge_hypothesis
 
 ### EXTREME FLUCTUATIONS OF THE BLACK SEA LEVEL IN NEOEUXINE HOLOCENE AS THE ALTERNATIVE OF CATASTROPHIC FLOOD HYPOTHESIS
@@ -38,9 +36,9 @@ Black Sea 25ka reconstructions. The top dotted orange line is original (not adde
 
 [1] https://annas-archive.org/md5/edb45e6d05757ef816d96197b6dc350d
 
-## Mediterannean Refilling
+## The Holocene sea level story since 7500 BP – Lessons from the Eastern Mediterranean, the Black and the Azov Seas
 
-A meta-analysis of Mediterranean sea levels seems to show a dramatic refilling post 7400 BP, and lesser one around 3700BP. I think factoring out the global sea level rise here is important, however.
+A meta-analysis of Mediterranean sea levels seems to show a dramatic refilling post 7400 BP, and lesser one around 3700BP. I think factoring out the global sea level rise here is important, however. You'd really want to see indications of refilling that outpace the global sea level rise, which is well documented. The sea level rose up till around 4000 years ago.
 
 ![](img/med-refilling.jpg)
 ![](img/med-refilling2.jpg)
@@ -57,7 +55,17 @@ This reminds me of our Mediterranean sea level discussion between S1 and S2. The
 
 On loss of sediment: I asked GPT: "In the context of this stratigraphic chart, "loss of sediment" refers to a gap in the sedimentary record at that specific depth (around 2 meters below sea level). This could indicate that a portion of the sedimentary sequence was eroded or removed by natural processes such as water flow, wave action, or human activity before subsequent layers were deposited. The missing sediment disrupts the continuous stratigraphic record, potentially creating a time gap that complicates interpretations of the site's geological and archaeological history."
 
-https://sci-hub.ru/10.1016/j.quaint.2008.11.016
+Bruckner, Black sea, 2009: https://sci-hub.ru/10.1016/j.quaint.2008.11.016 (hard copy in this folder)
+
+### Taman Peninsula, Bruckner (Section 5)
+
+"Based on vibracoring it was possible to get samples down to maximum depths of 15–20 m below surface. Therefore, the focus of this study is sea level fluctuations of the past seven millennia."
+
+![](img/taman-peninsula.png)
+
+There is a lengthy analysis of these core layers, each dated. They note a transition from a lagoonal environment into freshwater conditions around 4462 - 4259 BC. Then, a fossilization of this layer by a layer of clayey silt, which was deposited in a lagoonal or shallow marine environment. Aftewards, a return to semi-terrestrial conditions. Then, paralic peat growth of 3363 - 3106 BC which was then ended by lagoonal sediment deposits. From about 3106 BC to 2162 BC, 2m of sediment were deposited, taken to indicate fluvial impact into a lagoon or semi-enclosed marine environment. The last signal of the lagoonal system comes from peat dating to 405-118 BC.
+
+Based on that I see a potential 3900 BC event, 3000 BC event, 2200 BC event, and 400 BC event.
 
 ## Kilen Fjord (hard copy in here)
 
