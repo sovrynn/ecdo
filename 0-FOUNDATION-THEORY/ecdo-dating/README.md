@@ -26,7 +26,7 @@ The following will always/often occur during an ECDO event, but may also occur d
 The major kind of event that could cause synonymous effects to an ECDO is cosmic impact events such as comet strikes.
 
 The following preclude the existence of an ECDO event, in some capacity:
-- continuous uninterrupted inhabitation without any evidence of a major cataclysm
+- continuous uninterrupted inhabitation, large-scale civilizational happenings without any evidence of a major cataclysm
 
 ## Dating techniques
 
