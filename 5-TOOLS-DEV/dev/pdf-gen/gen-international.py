@@ -23,7 +23,7 @@ from reportlab.lib.fonts import addMapping
 from reportlab.platypus import Spacer
 from reportlab.lib.pagesizes import A4
 
-
+PAGE_SIZE = A4
 
 def read_parameters(input_file_path):
     with open(input_file_path, "r") as f:
@@ -97,10 +97,10 @@ def get_image_size(image_path, scale, params):
     img = ImageReader(image_path)
     img_width_px, img_height_px = img.getSize()
     # Convert pixels to points (1 px = 1 point at 72 dpi)
-    img_width_pt = img_width_px * scale
-    img_height_pt = img_height_px * scale
+    img_width_pt = img_width_px
+    img_height_pt = img_height_px
     # Calculate available width and height in points
-    page_width, page_height = letter  # in points
+    page_width, page_height = PAGE_SIZE  # in points
     available_width = (
         page_width - 2 * params["page_margins"] - 2 * params["image_margin"]
     )
@@ -113,6 +113,8 @@ def get_image_size(image_path, scale, params):
     if img_height_pt > available_height:
         img_height_pt = available_height
         img_width_pt = img_height_pt * img_aspect
+    img_width_pt *= scale
+    img_height_pt *= scale
     return img_width_pt, img_height_pt
 
 
@@ -370,7 +372,7 @@ def generate_pdf(md_file_path, output_file_path, params):
     doc = SimpleDocTemplate(
         output_file_path,
         # pagesize=letter,
-        pagesize=A4,
+        pagesize=PAGE_SIZE,
         fontName=params["font_name"],
         leftMargin=params["page_margins"],
         rightMargin=params["page_margins"],
