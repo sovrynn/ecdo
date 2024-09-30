@@ -1,5 +1,7 @@
 # Water Bodies
 
+One of the issues here is that the Holocene has experienced a dramatic sea level rise, which continued from the end of the Younger Dryas up till around 7000 years ago, and slowed down, but continued to rise, until 4000 years ago. Therefore what we would like to see is evidence of *dramatic* and *rapid* rise in levels of bodies of water such as the Black and Mediterranean Sea to have something to go off of.
+
 ## Black Sea Outflow, 6200 BC - 5500 BC
 
 ### William Ryan
