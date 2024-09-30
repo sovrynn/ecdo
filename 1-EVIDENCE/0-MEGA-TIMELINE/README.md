@@ -22,6 +22,17 @@ Speculative dates:
 - Ancient Egypt, Herodotus: 341 generations of men up till 1290 BC (10k-4.7k years) 4 Sun changes (2 flips?)
 - Plato: "Many great deluges" since Athens and Atlantis, a significant "third great flood before Deucalion" that washed away most of Athens' fertile soil
 
+## 1200 AD
+
+- Yuan Empire downfall
+- Antarctic tephra
+
+## 540 AD
+
+- tree ring anomalies
+- Baillie comet impact hypothesis
+- bond event
+
 ## 400 BC
 
 Issue with this date is I would like to see more "civilizational collapse" to be sure. Or, perhaps people at this time were centered in safe locations in the near aftermath of the 2000 BC event? But, we see considerable societal disruption in the 2000 BC event which isn't long after the 3000 BC event. Wikipedia has a nice "world map" on this century [1]:
@@ -37,7 +48,7 @@ Physical markers:
 - 200 BC potential tree ring anomalies
 - 300 BC ice core anomaly
 - 300 BC Mayan Chichancanab lake filling
-- paleomagnetic anomalies (Levantine Iron Age, 500 BC Russia peat deposit)
+- paleomagnetic anomalies (North America, Levantine Iron Age, 500 BC Russia peat deposit)
 - 500 BC Antarctic tephra
 
 Historical continuity during this period:
