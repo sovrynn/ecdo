@@ -14,7 +14,13 @@ The key factor here IMO, aside from the obvious issue of figuring out S2's orien
 
 ## Duration
 
+The evidence for potential S2 events seems to point to *shorter* rather than *longer* extent.
+
 The Great Gun-Yu flood of China, around 1900 BC, was said to have lasted 22 years. See `EVIDENCE/cataclysm-chronology/asia/china`.
+
+Dansgaard-Oeschger events are reported to have consisted of rapid warming periods that lasted a "matter of decades".
+
+Climate events of 6200 and 2200 BC estimated to have lasted anywhere from 1-4 centuries.
 
 On the ostrich egg (`EVIDENCE/civilization-remnants/important-artifacts`) there's indication of a special 200-year phase.
 
@@ -28,7 +34,7 @@ The lack of precedent for ice buildup on the S2 poles (South Africa) may point t
 
 ## Weather
 
-The 2200 BC and 6200 BC drought events seem to propose temporary periods of *dry* and *cold* weather... Is this what we may see during S2?
+The 2200 BC and 6200 BC drought events seem to propose temporary periods of *dry* and *cold* weather... Is this what we may see during S2? However, these studies seem to be localized to Africa and Middle East, which rotate to the north pole, so this may be a biased prediction.
 
 ## New Geographic Pole Locations
 
