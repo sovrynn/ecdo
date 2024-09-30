@@ -5,13 +5,15 @@ High-certainty ECDO-like geomagnetic-excursion cataclysms:
 - 3200-2800 BC
 - Younger Dryas, ~9600 BC
 
-Other potential cataclysmic events:
-- 1200 AD
-- 500 AD, tree ring anomalies (might genuinely be a comet debris event, see paper in `biology`)
+Promising dates:
 - 400 BC, alexander the great, paleomagnetic anomalies
-- 1200 BC, Late Minoan 2, Egypt, paleoclimate anomalies
 - 6200 - 5500 BC, black/mediterranean sea refilling dating
 - 7500 BC, Tollman impact hypothesis, Uriel's Machine reference
+
+Speculative dates:
+- 1200 AD
+- 500 AD, tree ring anomalies (might genuinely be a comet debris event, see paper in `biology`)
+- 1200 BC, Late Minoan 2, Egypt, paleoclimate anomalies
 
 ## Non-exact cataclysm accounts
 
@@ -28,10 +30,11 @@ Issue with this date is I would like to see more "civilizational collapse" to be
 - east Asia lacks history from this time
 
 Physical markers:
-- paleomagnetic anomalies (Levantine Iron Age, 500 BC Russia peat deposit)
-- 500 BC Antarctic tephra
 - 200 BC potential tree ring anomalies
 - 300 BC ice core anomaly
+- 300 BC Mayan Chichancanab lake filling
+- paleomagnetic anomalies (Levantine Iron Age, 500 BC Russia peat deposit)
+- 500 BC Antarctic tephra
 
 ## 1400 - 1200 BC
 
@@ -63,9 +66,9 @@ Cataclysm accounts:
 	- Backed up by 1920 BC dated Yellow River flood remnants
 
 Physical markers:
-- 2200-2100 BC: climate aridification event
-- bond (ice rafting) event
 - 1650 BC Antarctic tephra
+- bond (ice rafting) event
+- 2200-2100 BC: climate aridification event
 
 ## 3200 - 2800 BC event
 
@@ -78,23 +81,34 @@ This 400-year period is also filled with extensive evidence that points to a glo
 - Biblical Noahic deluge: 3500 - 2500 BC
 
 Physical markers:
+- 3000 BC: Black Sea refilling
 - 3200 BC: Compton's comet mega-compilation of physical markers
 - 3200 BC: climate change event (Staubwasser, Weiss)
 - bond event
 - narrow Irish tree rings
 - Antarctic tephra
 
+## 6200-5500 BC event
+
+- 5800 BC: Mayan Chichancanab lake filling
+- 6200 BC: well documented cooling and aridification event
+- 6400 BC: Black Sea refilling (William Ryan)
+- Greenland, Kilimanjaro ice cores
+
 ## 7400 BC event
 
+- 7100 BC: Black Sea refilling
 - 7400 BC: Sinking of Dvaravati
 - 7400 BC: bond event
 - 7500 BC: Tollman bolide hypothesis
+- Greenland ice cores
 
 ## 9600 BC event
 
 A well-documented event, with an account of a continent "sinking in a day", and clear physical markers of widespread climate change, points to a high likelihood of an ECDO-like event.
 
 - 9100 BC: bond event
+- 9200 BC: Black Sea refilling
 - 9200 BC: Manu flood
 - 9600 BC: Atlantis
 - 9700 BC: end of Younger Dryas, many physical markers

@@ -24,7 +24,7 @@ Marmara Sea spillover to Black Sea, 8000 YBP (citations 16, 17, 18) https://en.m
 
 ### EXTREME FLUCTUATIONS OF THE BLACK SEA LEVEL IN NEOEUXINE HOLOCENE AS THE ALTERNATIVE OF CATASTROPHIC FLOOD HYPOTHESIS
 
-What I see here is three events where the Black Sea level rise noticeably outpaced the world sea level rise - 9200 BC, 7100 BC, and 3000 BC. Assuming that the world sea level is not some other proxy for Black Sea level.
+What I see here is three events where the Black Sea level rise noticeably outpaced the world sea level rise - 9200 BC, 7100 BC, and 3000 BC. The 9200 BC could potentially be split up into two peaks of 10,300 BC and 8800 BC, and there are potentially two other outpacings around 4800 BC and 1200 BC.
 
 ![](img/black-sea-refillings.jpg)
 
@@ -40,7 +40,7 @@ Black Sea 25ka reconstructions. The top dotted orange line is original (not adde
 
 ## Mediterannean Refilling
 
-A meta-analysis of Mediterranean sea levels seems to show a dramatic refilling post 7400 BP, and lesser one around 3700BP.
+A meta-analysis of Mediterranean sea levels seems to show a dramatic refilling post 7400 BP, and lesser one around 3700BP. I think factoring out the global sea level rise here is important, however.
 
 ![](img/med-refilling.jpg)
 ![](img/med-refilling2.jpg)
@@ -69,18 +69,19 @@ https://sci-hub.ru/10.1016/j.quascirev.2013.05.020
 
 ## Mayan Chichancanab Lake 5800 BC filling [1]
 
-![](img/maya-climate.jpg)
+I see two events in here: 5800 BC event, and an event around 300 BC with similar effects - increase in salinity, and oxygen-18 isotopes in the marine shells, and a fall in CaCO3. I do think this data might need to be normalized somehow for proper relative scaling.
+
 ![](img/chichancanab1.jpg)
+![](img/chichancanab2.jpg)
 
 "Classic Maya Civilization. Data from the Lake Chichancanab core supports the following interpretation: From 9200 to 7800 years BP, there was no lake at the coring site as indicated by the absence of aquatic microfossils and the presence of land snails. Beginning at about 7800 years BP, the lake began to fill but the salinity was much higher than today. The lake basin was filled by 7000 years BP" - Department of Geology, University of Florida [1][2]
 
-If %S stands for salinity I think I see a 200 BC event in there as well.
- 
-See `LOCATION-ANALYSIS/north-america/mexico` and `LOCATION-ANALYSIS/carribean` for more analysis.
+See `LOCATION-ANALYSIS/north-america/mexico` and `LOCATION-ANALYSIS/carribean` for more analysis on this location.
 1. https://www1.ncdc.noaa.gov/pub/data/paleo/slidesets/maya/
+	- Above link broken, use this one: https://www.slideshare.net/slideshow/mystery-of-the-maya-collapse/30005650#5
 2. https://en.wikipedia.org/wiki/Lake_Chichancanab
 
-## Luotuodun Marine Transgression
+## Luotuodun Marine Transgression (hard copy here)
 
 ![](img/luotuodun-marine.jpg)
 ![](img/luotuodun-map.jpg)

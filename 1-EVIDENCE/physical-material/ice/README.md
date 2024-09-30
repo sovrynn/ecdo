@@ -56,6 +56,12 @@ https://www.sciencedirect.com/science/article/pii/S0277379124000453
 
 ![](img/kilimanjaro.png)
 
+## An event stratigraphy for the Last Termination in the North Atlantic region based on the Greenland ice-core record: a proposal by the INTIMATE group
+
+I see 6200 BC and 7300 Tollman events in here.
+
+![](img/greenland-ice-cores.png)
+
 ## Gas giants grand cycle harmonic and bond event data
 
 ![gas giant harmonic](img/gas-giant-bond-event.jpg "gas giant harmonic")

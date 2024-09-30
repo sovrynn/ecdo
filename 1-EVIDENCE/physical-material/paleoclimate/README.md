@@ -1,8 +1,8 @@
 # Paleoclimate Data
 
-## Sediment data: 18.5k cycle (Milankovitch cycle) effects on climate
+## Sediment data: Milankovitch cycle effects on climate
 
-![](img/milankovitch-18k-cycle.jpg)
+![](img/milankovitch-cycle.jpg)
 
 https://oceanrep.geomar.de/id/eprint/31064/1/Fl%C3%B6gel_Diss.pdf
 
