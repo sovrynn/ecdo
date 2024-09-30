@@ -33,9 +33,17 @@ The 4.2-kiloyear (thousand years) BP aridification event (long-term drought), al
 
 Starting around 2200 BC, it most likely lasted the entire 22nd century BC. It has been hypothesised to have caused the collapse of the Old Kingdom in Egypt, the Akkadian Empire in Mesopotamia, and the Liangzhu culture in the lower Yangtze River area.[4][5] The drought may also have initiated the collapse of the Indus Valley Civilisation, with some of its population moving southeastward to follow the movement of their desired habitat,[6] as well as the migration of Indo-European-speaking people into India.
 
+*"The south-central Levant experienced two phases of dry climate punctuated by a wet interval in between and thus the 4.2 ka event in the region has been termed a W-shaped event."*
+
 A study of fossil corals in Oman provides evidence that prolonged winter shamal seasons, around 4200 years ago, led to the salinization of the irrigated field, which made a dramatic decrease in crop production trigger a widespread famine and eventually the collapse of the ancient Akkadian Empire.
 
-δ18O values from Yonglu Cave in Hubei confirm that the region became characterised by increased aridity and show that the onset of the event was gradual but that its end was sudden.
+*"δ18O values from Yonglu Cave in Hubei confirm that the region became characterised by increased aridity and show that the onset of the event was gradual but that its end was sudden."* - Aridification, leading up to an inundation?
+
+"The 4.2 ka event resulted in an enormous reduction in the strength of the East Asian Summer Monsoon (EASM)."
+
+"In the Korean Peninsula, the 4.2 ka event was associated with significant aridification, measured by the large decline in arboreal pollen percentage (AP)."
+
+"Stalagmites from northeastern Namibia demonstrate the region became wetter thanks to the southward shift of the ITCZ.[84] The Namibian humidification event had two pulses."
 
 https://en.wikipedia.org/wiki/4.2-kiloyear_event
 
