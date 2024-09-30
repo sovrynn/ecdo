@@ -24,7 +24,7 @@ Marmara Sea spillover to Black Sea, 8000 YBP (citations 16, 17, 18) https://en.m
 
 ### EXTREME FLUCTUATIONS OF THE BLACK SEA LEVEL IN NEOEUXINE HOLOCENE AS THE ALTERNATIVE OF CATASTROPHIC FLOOD HYPOTHESIS
 
-What I see here is three events where the Black Sea level rise noitceably outpaced the world sea level rise - 9200 BC, 7100 BC, and 3000 BC. Assuming that the world sea level is not some other proxy for Black Sea level.
+What I see here is three events where the Black Sea level rise noticeably outpaced the world sea level rise - 9200 BC, 7100 BC, and 3000 BC. Assuming that the world sea level is not some other proxy for Black Sea level.
 
 ![](img/black-sea-refillings.jpg)
 
