@@ -5,6 +5,8 @@ High-certainty ECDO-like geomagnetic-excursion cataclysms:
 - 3200-2800 BC
 - Younger Dryas, ~9600 BC
 
+Although it's clear civilizations can survive massive floods (China Xia dynasty) what we would really like to see is no continuity of history during major cataclysms.
+
 Promising dates:
 - 400 BC, alexander the great, paleomagnetic anomalies
 - 6200 - 5500 BC, black/mediterranean sea refilling dating
@@ -24,6 +26,8 @@ Speculative dates:
 
 Issue with this date is I would like to see more "civilizational collapse" to be sure. Or, perhaps people at this time were centered in safe locations in the near aftermath of the 2000 BC event? But, we see considerable societal disruption in the 2000 BC event which isn't long after the 3000 BC event. Wikipedia has a nice "world map" on this century which you should put in here.
 
+![](img/World_in_400_BCE.png)
+
 - 340 BC: Alexander the Great Turkey deluge myth
 - 373 BC: Helike Greek city-state submerged by Tsunami in winter
 - 400 BC: La venta, Veracruz, Mexico, abandoned
@@ -36,6 +40,10 @@ Physical markers:
 - paleomagnetic anomalies (Levantine Iron Age, 500 BC Russia peat deposit)
 - 500 BC Antarctic tephra
 
+Historical continuity during this period:
+- Roman Republic
+- Scythians
+
 ## 1400 - 1200 BC
 
 This period is far enough away from 2000 BC to warrant its own investigation as a potential cataclysm. There is evidence from many domains pointing to a possible cataclysm in this time.
@@ -44,6 +52,7 @@ This period is far enough away from 2000 BC to warrant its own investigation as 
 - Egyptian dark age (see Barbara Bell)
 - Narrow Irish tree rings
 - Antarctic tephra
+- 1200 BC Mediterranean cooling event
 
 ## 2200 - 1700 BC event
 

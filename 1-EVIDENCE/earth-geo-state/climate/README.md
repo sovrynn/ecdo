@@ -49,11 +49,31 @@ https://en.wikipedia.org/wiki/4.2-kiloyear_event
 
 ## 6200 BC cooling event
 
-In climatology, the 8.2-kiloyear event was a sudden decrease in global temperatures that occurred approximately 8,200 years before the present, or c. 6,200 BC, and which lasted for the next two to four centuries.
+"In climatology, the 8.2-kiloyear event was a sudden decrease in global temperatures that occurred approximately 8,200 years before the present, or c. 6,200 BC, and which lasted for the next two to four centuries."
 
-The initial meltwater pulse caused between 0.5 and 4 m (1 ft 8 in and 13 ft 1 in) of sea-level rise. Based on estimates of lake volume and decaying ice cap size, values of 0.4–1.2 m (1 ft 4 in – 3 ft 11 in) circulate. Based on sea-level data from the Mississippi Delta, the end of the Lake Agassiz–Ojibway (LAO) drainage occurred at 8.31 to 8.18 ka and ranges from 0.8 to 2.2 m.[25] The sea-level data from the Rhine–Meuse Delta indicate a 2–4 m (6 ft 7 in – 13 ft 1 in) of near-instantaneous rise at 8.54 to 8.2 ka, in addition to 'normal' post-glacial sea-level rise.
+"The event may have been caused by a large meltwater pulse,[12] which probably resulted from the final collapse of the Laurentide Ice Sheet of northeastern North America,[13][14][15] most likely when the glacial lakes Ojibway and Agassiz suddenly drained into the North Atlantic Ocean.[16] The same type of action produced the Missoula floods that formed the Channeled Scablands of the Columbia River basin. The meltwater pulse may have affected the North Atlantic thermohaline circulation,[17][18][19] reducing northward heat transport in the Atlantic and causing significant North Atlantic cooling.[20] The Atlantic meridional overturning circulation (AMOC) weakened by 55%[14] or 62%.[20] Estimates of the cooling vary and depend somewhat on the interpretation of the proxy data, but decreases of around 1 to 5 °C (1.8 to 9.0 °F) have been reported. In Greenland, the event started at 8175 BP, and the cooling was 3.3 °C (decadal average) in less than 20 years. The coldest period lasted for about 60 years, and its total duration was about 150 years."
+
+"The sea-level data from the Rhine–Meuse Delta indicate a 2–4 m (6 ft 7 in – 13 ft 1 in) of near-instantaneous rise at 8.54 to 8.2 ka, in addition to 'normal' post-glacial sea-level rise."
+
+"In northwestern Madagascar, the 8.2 ka event is associated with a negative δ18O excursion and calcite deposition, indicating wet, humid conditions caused by the southward migration of the ITCZ.... Humidification was two-phased, with an 8.3 kiloyear sub-event preceding the 8.2 kiloyear sub-event by about 20 years."
+
+"The sediment core records of the Fram Strait show a short-lived cooling during the 8.2 ka event superimposed on a broader interval of warm climate.[38] In western Scotland, the 8.2 ka event coincided with a dramatic reduction in the Mesolithic population.[39] In the Iberian Peninsula, the 8.2 ka event is linked to greater summer aridity that caused an increase in the frequency of fires and a consequent expansion of fire-resistant evergreen oak trees."
+
+"Lacustrine sediment records show that Western Siberia underwent humidification during the 8.2 ka event."
+
+"The South American Summer Monsoon (SASM) drastically intensified during the 8.2 ka event as revealed by sediment records from Juréia Paleolagoon."
 
 https://en.wikipedia.org/wiki/8.2-kiloyear_event
+
+## 1200 BC Event?
+
+"This event is becoming known as the 3.2k yr BP event. Some of these studies indicate that the drought happened in two stages, a drought between 1250 and 1150 BC, followed by a return to normal precipitation for 50 years and then another drought between 1100 and 950 (possibly continuing to 850) BC."
+
+https://nuttersworld.com/climactic-events/3.2k-yr-bp-event/
+
+## Cold and dry outbreaks in the eastern Mediterranean 3200 years ago (hard copy here)
+
+"The eastern Mediterranean’s cold and dry period between 1200 and 850 cal. yr BCE can be qualified as a “W”-shaped cooling event occur- ring ∼2750 yr before the pre-industrial Little Ice Age (e.g., Jones et al., 2001) and ∼1850yr before the Late Antiquity Little Ice Age (Büntgen et al., 2016). This colder period is clearly differenti- ated from the 4.2 kyr B.P. event (Weiss et al., 1993; Weiss, 2016), and does not correspond to a progressive deterioration of the climate be- tween these two episodes."
 
 ## Peltier Effect
 
@@ -64,15 +84,9 @@ What could cause the the dramatic shift from bolling allerod to younger dryas wh
 
 Could this also be an instance of the Peltier Effect?: https://en.wikipedia.org/wiki/Thermoelectric_effect
 
-## Bolling-Allerod
-
-Younger Dryas coincides with the start of this period?
-
-https://en.wikipedia.org/wiki/B%C3%B8lling-Aller%C3%B8d_Interstadial
-
 ## Temperature
 
-![temperature](img/temperature-3700.jpg "temperature")
+![](img/temperature-3700.jpg)
 
 Any theories as to why the temperature fluctuations were much more severe prior to 8000BC?
 

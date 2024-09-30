@@ -1,15 +1,25 @@
 # Earth's Long-term History
 
 Holocene:
+- 11.7ka to present
+- period of warming
 - Black Sea deluge [5]
 - Tollmann Bolide Hypothesis [4]
 - global sea level rise
 
 Younger Dryas and older:
 - Younger Dryas Impact, Younger Dryas [1]
+	- 12.9 - 11.7ka
+	- period of cooling
 	- Gothenberg Flip
 - Bolling Allerod Interstadial [2]
+	- 14.7 - 12.9ka
+	- period of warming
+- Oldest Dryas
+	- 18 to 14.7ka
+	- cooling period
 - Last glacial maximum [3]
+	- 33 to 19ka
 - Laschamp excursion [6]
 
 ## Holocene Sea Level Rise, Meltwater pulses [9,10]
@@ -23,6 +33,8 @@ Understanding what exactly caused this undeniable massive sea level rise should 
 "During deglaciation since the Last Glacial Maximum, between about 20,000 to 7,000 years ago (20–7 ka), the sea level rose by a total of about 100 m (328 ft), at times at extremely high rates, due to the rapid melting of the British-Irish Sea, Fennoscandian, Laurentide, Barents-Kara, Patagonian, Innuitian and parts of the Antarctic ice sheets."
 
 ## Younger Dryas - Undeniable ECDO event? [1]
+
+This is the period preceding the Holocene.
 
 "The Younger Dryas (YD) was a period in Earth's geologic history that occurred circa 12,900 to 11,700 years Before Present (BP).[2] It is primarily known for the sudden or "abrupt" cooling in the Northern Hemisphere, when the North Atlantic Ocean cooled and annual air temperatures decreased by ~3 °C (5.4 °F) over North America, 2–6 °C (3.6–10.8 °F) in Europe and up to 10 °C (18 °F) in Greenland, in a few decades.[3] Cooling in Greenland was particularly rapid, taking place over just 3 years or less.[1][4] At the same time, the Southern Hemisphere experienced warming.[3][5] This period ended as rapidly as it began, with dramatic warming over ~50 years, which transitioned the Earth from the glacial Pleistocene epoch into the current Holocene."
 
@@ -68,6 +80,12 @@ Heinrich events are often marked by the following changes:
 - Changes in relative Thorium-230 abundance, reflecting variations in ocean current velocity [citation needed]
 - Increased deposition rates in the northern Atlantic, reflected by an increase in continentally derived sediments (lithics) relative to background sedimentation[3]
 - Expansion of grass and shrubland across large areas of Europe[17]
+
+## Bolling-Allerod
+
+This was the period preceding the Younger Dryas.
+
+"The Bølling–Allerød Interstadial (Danish: [ˈpøle̝ŋ ˈæləˌʁœðˀ]), also called the Late Glacial Interstadial (LGI), was an interstadial period which occurred from 14,690 to c. 12,890 years Before Present, during the final stages of the Last Glacial Period.[2] It was defined by abrupt warming in the Northern Hemisphere, and a corresponding cooling in the Southern Hemisphere,[3] as well as a period of major ice sheet collapse and corresponding sea level rise known as Meltwater pulse 1A.[4] This period was named after two sites in Denmark where paleoclimate evidence for it was first found, in the form of vegetation fossils that could have only survived during a comparatively warm period in Northern Europe.[3] It is also referred to as Interstadial 1 or Dansgaard–Oeschger event 1."
 
 ## Citations
 

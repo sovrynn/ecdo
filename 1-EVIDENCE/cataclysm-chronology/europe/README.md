@@ -34,7 +34,7 @@ https://en.wikipedia.org/wiki/Atlantis
 
 ## Greek Myths
 
-Deucalion, Ogyges, and Dardanus. All seem to have been the same flood.
+Deucalion, Ogyges, and Dardanus. All seem to have occurred very close to each other temporally.
 
 ### Deucalion Greek Flood Myth (1528 BC)
 
@@ -72,6 +72,10 @@ Censorinus makes mention of this water/fire sequence as being coincident to a pl
 
 Helike (/ˈhɛlɪkiː/; Greek: Ἑλίκη, pronounced [heˈlikɛː], modern Greek pronunciation: [eˈlici]) was an ancient Greek polis (city-state)[1] that was submerged by a tsunami in the winter of 373 BC. Lines up with Alexander the Great 400 BC https://en.wikipedia.org/wiki/Helike
 
+## 6200 BC Norway Submarine Landslide
+
+"The three Storegga Slides (Norwegian: Storeggaraset) are amongst the largest known submarine landslides. They occurred at the edge of Norway's continental shelf in the Norwegian Sea, approximately 6225–6170 BCE. The collapse involved an estimated 290 km (180 mi) length of coastal shelf, with a total volume of 3,500 km3 (840 cu mi) of debris, which caused a paleotsunami in the North Atlantic Ocean."
+
 ### Encke causing Ekpyrosis?
 
 Could this be ekpyrosis following katakysmos a few years later? The idea of us passing directly through the main stream is a serious consideration.
@@ -90,6 +94,7 @@ From what I have surmised through these years, there are 3 main impacts that occ
 8. Dardanus: https://www.geni.com/people/Dardanus-king-of-Dardania/6000000006375582740
 9. Dardanus: https://www.genealogieonline.nl/en/stamboom-homs/I6000000006375582740.php
 10. Sir JAMES GEORGE FRAZER, FOLK-LORE IN THE OLD TESTAMENT (1919)
+11. https://en.wikipedia.org/wiki/Storegga_Slide
 
 # TODO
 

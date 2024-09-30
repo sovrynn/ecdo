@@ -92,6 +92,7 @@ I see two events in here: 5800 BC event, and an event around 300 BC with similar
 See `LOCATION-ANALYSIS/north-america/mexico` and `LOCATION-ANALYSIS/carribean` for more analysis on this location.
 1. https://www1.ncdc.noaa.gov/pub/data/paleo/slidesets/maya/
 	- Above link broken, use this one: https://www.slideshare.net/slideshow/mystery-of-the-maya-collapse/30005650#5
+	- Slides also in `LITERATURE/webb-rhoda`
 2. https://en.wikipedia.org/wiki/Lake_Chichancanab
 
 ## Luotuodun Marine Transgression (hard copy here)
