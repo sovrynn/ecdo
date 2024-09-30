@@ -43,7 +43,7 @@ A study of fossil corals in Oman provides evidence that prolonged winter shamal 
 
 "In the Korean Peninsula, the 4.2 ka event was associated with significant aridification, measured by the large decline in arboreal pollen percentage (AP)."
 
-*"Stalagmites from northeastern Namibia demonstrate the region became wetter thanks to the southward shift of the ITCZ.[84] The Namibian humidification event had two pulses."* - Indeed, Namibia would move further away from the equator during a flip.
+*"Stalagmites from northeastern Namibia demonstrate the region became wetter thanks to the southward shift of the ITCZ.[84] The Namibian humidification event had two pulses."* - Indeed, Namibia would move further away from the equator during a flip, although this might me a misattribution, as it wouldn't happen the way the authors imagined.
 
 https://en.wikipedia.org/wiki/4.2-kiloyear_event
 
