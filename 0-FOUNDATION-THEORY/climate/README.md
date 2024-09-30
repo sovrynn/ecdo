@@ -13,6 +13,10 @@ For example, notice that the Pacific west coast is not humid, whereas East Asia 
 
 One thing that's for sure is that the placement of Eurasia smack on the equator will certainly change up the currents, and the Arctic region will be a lot more humid. The Pacific and Atlantic ocean currents will also get messed up as these no longer traverse vertically but horizontally. Africa would get quite dry as it moves to the north pole, which matches the 2200 BC drought.
 
+## Intertropical Convergence Zone (ITCZ) [4]
+
+The Intertropical Convergence Zone (ITCZ /ɪtʃ/ ITCH, or ICZ),[1] known by sailors as the doldrums[2] or the calms because of its monotonous windless weather, is the area where the northeast and the southeast trade winds converge. It encircles Earth near the thermal equator though its specific position varies seasonally. When it lies near the geographic Equator, it is called the near-equatorial trough. Where the ITCZ is drawn into and merges with a monsoonal circulation, it is sometimes referred to as a monsoon trough (a usage that is more common in Australia and parts of Asia).
+
 ## Wind patterns [3]
 
 Summary of Global Wind Directions:
@@ -30,3 +34,4 @@ These wind patterns are the result of the Earth’s rotation (Coriolis effect), 
 1. https://insideclimatenews.org/news/09022024/climate-impacts-from-collapse-of-atlantic-meridional-overturning-current-could-be-worse-than-expected/
 2. http://davidburchnavigation.blogspot.com/2013/01/ocean-currents.html
 3. GPT
+4. https://en.m.wikipedia.org/wiki/Intertropical_Convergence_Zone
