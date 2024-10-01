@@ -34,7 +34,11 @@ The lack of precedent for ice buildup on the S2 poles (South Africa) may point t
 
 ## Weather
 
-The 2200 BC and 6200 BC drought events seem to propose temporary periods of *dry* and *cold* weather... Is this what we may see during S2? However, these studies seem to be localized to Africa and Middle East, which rotate to the north pole, so this may be a biased prediction.
+The 2200 BC and 6200 BC drought events seem to propose temporary periods of *dry* and *cold* weather... Is this what we may see during S2? However, these studies seem to be localized to Africa and Middle East, which rotate to the north pole, so this may be a slightly biased prediction. The Arctic will likely see *warming* and *humidification*, to the extent allowed within the scope of the weaker magnetic field.
+
+The disruption of existing ocean circulation currents and monsoon patterns will also create localized variation.
+
+There is also dust to consider from extreme, global, and likely prolonged volcanic activity.
 
 ## New Geographic Pole Locations
 
