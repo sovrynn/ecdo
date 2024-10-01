@@ -24,6 +24,8 @@ There will be quakes, eruptions and extreme weather due to the disruptions to th
 
 Almost certainly a globally experienced seismic movement in the hours before, and then a short time as the new dominant axis exponentially gains centrifugal dominance.
 
+The concept of a *W-shaped event*, as we have seen some potential evidence of, makes me wonder if we aren't at least 5 years to a few decades out from the actual flip. The caveat being, of course, that the leadup will bring an *intense aridification* probably involving *extreme heat*.
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com) (Intro image as well)
