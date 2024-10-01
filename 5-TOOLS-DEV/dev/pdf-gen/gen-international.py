@@ -125,7 +125,8 @@ def parse_markdown(markdown_text, styles, params):
     citations = False
     while i < len(lines):
         line = lines[i].rstrip()
-        if line == "# Citations" or line == u'# 인용':
+        # hardcode a page break before citations
+        if line == "# Citations" or line == u'# 인용' or line == u'# 引用':
             citations = True
             elements.append(PageBreak())
         if not line:
@@ -280,6 +281,9 @@ def register_font(font_name):
     # First, check if the font is already registered
     if font_name in pdfmetrics.getRegisteredFontNames():
         return
+
+    pdfmetrics.registerFont(UnicodeCIDFont('STSong-Light'))
+
     # Check for built-in fonts
     standard_fonts = [
         "Times-Roman",
