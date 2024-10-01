@@ -14,7 +14,7 @@ The key factor here IMO, aside from the obvious issue of figuring out S2's orien
 
 ## Duration
 
-The evidence for potential S2 events seems to point to *shorter* rather than *longer* extent.
+The evidence for potential S2 events seems to point to *shorter* rather than *longer* extent - anywhere from a few decades to few centuries.
 
 The Great Gun-Yu flood of China, around 1900 BC, was said to have lasted 22 years. See `EVIDENCE/cataclysm-chronology/asia/china`.
 
