@@ -43,6 +43,8 @@ The calendar circle at Nabta Playa is the most famous and well-documented featur
 
 Beyond the calendar circle, there are rows of standing stones that have been interpreted as being aligned with certain important stars or star systems.
 
+About 200m in elevation.
+
 ### A closer look
 
 So, let's take a look at these pictures.
@@ -64,6 +66,10 @@ Looking at Google Maps terrain, there are clear flow lines going vertically down
 ### S1 -> S2
 
 After this place rotates, it goes from about 22.51 N, 30.73 E to 53.59 N, 148.45 West.
+
+## Summer Solstice
+
+When the axial tilt of 23.5 degrees is rotated directly towards the sun (summer solstice), this location at 22.51 N goes to 1.01 S in the orbital plane.
 
 ## Citations
 

@@ -15,6 +15,12 @@ As the Earth rotates, the stars and other celestial objects appear to move in ci
 
 Polaris (the North Star): Currently, the star Polaris is located very close to the Celestial North Pole, which is why it has been used for navigation. However, due to precession (the slow, conical wobble of Earth's axis over approximately 26,000 years), the Celestial North Pole does not always point toward Polaris. Thousands of years ago, it pointed toward a different star, and it will do so again in the future.
 
+## Sun trajectory
+
+This depends on the time of year (solstice/equinox) and also the exact latitude of the point.
+
+You have to imagine a flat plane on the surface of Earth at the specific point.
+
 ## Citations
 
 1. ChatGPT
