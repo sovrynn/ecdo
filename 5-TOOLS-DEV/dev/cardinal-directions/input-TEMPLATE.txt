@@ -1,0 +1,5 @@
+lat 22.5  # Latitude in degrees
+lon 30.73  # Longitude in degrees
+yaw -81
+pitch -56
+roll 115
