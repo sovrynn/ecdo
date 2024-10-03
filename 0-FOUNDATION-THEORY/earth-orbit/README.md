@@ -8,12 +8,18 @@ Axial tilt is the angle between an object's rotational axis (spinning) and its o
 
 ![orbitgif](img/earth-orbit.gif)
 
+## Polar Nutation [1]
+
+Nutation, in a broader sense, is the periodic wobbling or nodding of the Earth’s axis around its mean position. The Earth’s axis doesn't stay perfectly fixed in space; instead, it exhibits a slow precession, and superimposed on this motion is nutation.
+
+The term "polar nutation" specifically refers to these small changes in the orientation of the Earth's rotational axis relative to its poles. It can be seen as oscillations in the motion of the Earth’s pole of rotation (the point on Earth’s surface around which the planet rotates) in relation to the celestial poles.
+
 ## North Poles
 
-Next I'll cover the North Poles. There are 3:
-- The geographic north pole is the northern Earth surface point intersecting with Earth's axis of rotation. It's where lines of longitude meet at the top of the Earth.
-- The north magnetic pole is the point on the north surface of the Earth where the planet's magnetic field points directly downward. Presumably, this is found through measurement
-- Finally, the geomagnetic north pole, which would be the north pole in an approximate dipole model of the Earth's magnetic field
+There are 3:
+- The **geographic north pole** is the northern Earth surface point intersecting with Earth's axis of rotation. It's where lines of longitude meet at the top of the Earth.
+- The **north magnetic pole** is the point on the north surface of the Earth where the planet's magnetic field points directly downward. Presumably, this is found through measurement
+- Finally, the **geomagnetic north pole**, which would be the north pole in an approximate dipole model of the Earth's magnetic field
 
 ![north poles](img/north-poles.png "north poles")
 
@@ -42,6 +48,8 @@ The Antarctic Polar Circle, also known as the Antarctic Circle, is an imaginary 
 Equinox: Occurs twice a year, around March 21 (spring or vernal equinox) and September 23 (autumnal equinox), when day and night are nearly equal in length because the Earth's axis is not tilted toward or away from the Sun.
 
 Solstice: Also occurs twice a year, around June 21 (summer solstice) and December 21 (winter solstice). These are the times when the Earth's axial tilt is most inclined toward or away from the Sun, resulting in the longest day (summer solstice) or the longest night (winter solstice) of the year.
+
+![](img/equinox-solstice.webp)
 
 ## Citations
 

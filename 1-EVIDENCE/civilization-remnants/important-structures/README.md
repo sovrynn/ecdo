@@ -95,6 +95,9 @@ See PDF `Evidence of Vedic Cosmology...` in this folder.
 
 # TODO Potential Leads
 
+- Goseck circle in Germany
+- Mnajdra Malta megalith temple complex
+
 Curious on the difference between 1700 BC and 1300-1200 BC dating for some of these events.
 
 - Temple at Dendera

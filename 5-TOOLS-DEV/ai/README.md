@@ -18,7 +18,9 @@ Good:
 - AI Data analyst: https://julius.ai
 	- Sample: https://julius.ai/s/a7d03379-428a-4a7f-aef4-f47c2277b4dc
 
-Translations: https://ai.meta.com/blog/nllb-200-high-quality-machine-translation/
+Translations:
+- Text: https://ai.meta.com/blog/nllb-200-high-quality-machine-translation/
+- Video, dubbing: https://elevenlabs.io
 
 Other:
 - uncensored.chat, venice.ai

@@ -91,6 +91,8 @@ UK Grid dashboard: https://www.gridwatch.templar.co.uk/
 
 Europe nuclear facilities: https://www.nucleareurope.eu/facts-figures/nuclear_facilities/
 
+On-screen protractor: https://github.com/fritzw/pyqtprotractor
+
 ## Repo text find-and-replace
 
 Linux: Use `find /path/to/search -type f -name "*.md" -exec sed -i 's/old-text/new-text/g' {} +`.
