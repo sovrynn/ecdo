@@ -69,7 +69,9 @@ After this place rotates, it goes from about 22.51 N, 30.73 E to 53.59 N, 148.45
 
 ## Summer Solstice
 
-When the axial tilt of 23.5 degrees is rotated directly towards the sun (summer solstice), this location at 22.51 N goes to 1.01 S in the orbital plane.
+When the axial tilt of 23.5 degrees is rotated directly towards the sun, it is summer solstice. My script calculates this to be about 64.4 degrees sunrise.
+
+In S2, 47.8 degrees.
 
 ## Citations
 

@@ -1,4 +1,5 @@
-lat 30.0  # Latitude in degrees
-lon -90.0  # Longitude in degrees
-bearing 15.0  # Earth's rotational axis bearing in xy plane
-vertical 5.0  # Earth's rotational axis vertical angle in z plane
+lat 22.5  # Latitude in degrees
+lon 30.73  # Longitude in degrees
+yaw 0.0
+pitch 23.5
+roll 0.0
