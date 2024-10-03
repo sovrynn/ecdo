@@ -6,7 +6,7 @@ Yet, the code I was using before for rotating points doesn't work with the Rhumb
 
 Anyways, Rhumb bearing gives the correct values for calculating bearing between two points. I still don't understand how great circle bearing returns different bearing values as you traverse a latitude.
 
-# TODO Chatgpt nonsense
+# TODO Chatgpt
 
 104 rotation:
 - yaw -80.99
@@ -17,3 +17,10 @@ Anyways, Rhumb bearing gives the correct values for calculating bearing between 
 - yaw -80.99
 - pitch 56
 - roll -114.77
+
+Then it gave me these values:
+- Yaw (ψ): 39°
+- Pitch (θ): 30°
+- Roll (φ): -74°
+
+Either this thing is completely unreliable or a single rotation orientation can have different yaw/pitch/roll values.
