@@ -21,10 +21,6 @@ Pic 1 is Nabta Playa, Nubian Desert. Pic 2 is the Ring of Brodgar, Orkney Island
 
 ## Celestial Alignment [1]
 
-This is an interesting site. The stones are arranged in such a way that it could have been used to make the same north celestial pole observation in both S1(red) and S2 (blue), and could also have possibly been used to observe the summer solstice sunrise in both states (at both 22N in S1, and 34N in S2). Draconis would have been the closest star to the NCP 7500YBP. Pherkad and Alioth are approximately 9 and 12 degrees on either side of Draconis (just as an example of how these stones may have been used for sighting).
-
-![](img/nabta-playa4.jpg)
-
 The northern sky of Nabta Playa in 3500 BC (shortly before the site was abandoned). No less than seven stones have azimuthal stellar alignments with the brightest stars around the north celestial pole at the moment when Kochan, Pherkad and Athebyne line up vertically every night. This could have been used to monitor polar nutation and to measure the length of day with sub-minute precision, providing 7-point confirmation. In state 2, no less than 6 of the brightest north celestial stars (5 of them the same stars) are once again azimuthally aligned to the stones in the circle. Five stones provide 2- and 3-point alignments for the summer solstice sunrise in both State 1 and State 2 of the ECDO model.
 
 ![](img/nabta-playa5.jpg)
@@ -71,7 +67,7 @@ After this place rotates, it goes from about 22.51 N, 30.73 E to 53.59 N, 148.45
 
 When the axial tilt of 23.5 degrees is rotated directly towards the sun, it is summer solstice. My script calculates this to be about 64.4 degrees sunrise.
 
-In S2, 47.8 degrees.
+In S2, 47.8 degrees is the sunrise bearing.
 
 ## Citations
 
