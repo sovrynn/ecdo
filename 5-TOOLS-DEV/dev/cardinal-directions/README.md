@@ -6,6 +6,12 @@ Yet, the code I was using before for rotating points doesn't work with the Rhumb
 
 Anyways, Rhumb bearing gives the correct values for calculating bearing between two points. I still don't understand how great circle bearing returns different bearing values as you traverse a latitude.
 
+## What this script does
+
+Calculates the change in bearing of north after a rotation around a point by also rotating a north reference point.
+
+Can be modified for different rotation orientations and cardinal directions.
+
 # TODO Chatgpt
 
 104 rotation:
