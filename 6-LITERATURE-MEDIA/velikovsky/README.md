@@ -55,6 +55,8 @@ In the section entitled “The Floods of Deucalion and Ogyges,” the synchronis
 
 ### p1 ch7 quotes
 
+Joshua
+
 pg 143: Many authors have dealt with the story of Phaethon; the best known version is a creation of the Latin poet Ovid. The chariot of the sun, driven by Phaethon, moved “no longer in the same course as before.”
 
 “The earth bursts into flame, the highest parts first, and splits into deep cracks, and its moisture is all dried up. The meadows are burned to white ashes; the trees are consumed, green leaves and all, and the ripe grain furnishes fuel for its own destruction. . . . Great cities perish with their walls, and the vast conflagration reduces whole nations to ashes.”
@@ -75,6 +77,25 @@ A chronologist of the seventh century (Isidore, bishop of Seville) dated the Flo
 with the Exodus.
 
 150: Interesting theory from Velikovsky about why Ogyges must have come after Deucalion. And that Ogyges occurred in the days of Joshua, around 1500 BC (I presume).
+
+Apparently, the truth is with those who placed the catastrophe of
+Deucalion in the days of Exodus; but those
+who reckoned that
+Ogyges was a contemporary of Moses were also correct, except that
+Moses did not live until the Flood of Ogyges— it took place in the
+days of Joshua.
+
+### p1 ch8 - the fifty two year period
+
+The upheaval that took place in the days of Joshua and
+Agog, the deluge that occurred in the days of Ogyges, the metamor-
+phosis of Venus in the days of Ogyges, the star Venus which ap-
+peared in the sky of Mexico after a protracted night and a great
+catastrophe— all these occurrences are related.
+
+Chinese chronicles record that “a brilliant star appeared
+in the
+days of Yahu [Yahou]. [159]
 
 ## References to wind in WIC
 

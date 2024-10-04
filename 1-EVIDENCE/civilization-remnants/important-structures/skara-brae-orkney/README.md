@@ -90,6 +90,12 @@ I asked GPT to estimate how much carbonate sand lies above sea level across the 
 
 [1] https://chatgpt.com/share/66f5159f-6908-8005-afe2-2cc847ae5247
 
+## The "Enoch Zone"
+
+![](img/enoch-zone.jpg)
+
+- Uriel's Machine
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

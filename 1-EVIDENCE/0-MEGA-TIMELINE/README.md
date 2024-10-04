@@ -2,6 +2,10 @@
 
 Nobulart's planetary harmonic and cataclysm chronology timeline in `timeline.xls`.
 
+Human accounts can be very useful in fine-tuning the timeline - for example, Exodus is accounted (by Velikovsky) as having happened in the spring. So if this was a global account it must have happened at the same time of the year elsewhere.
+
+Another such detail would be accounts of the Sun having a certain anomalic trajectory, which is contained in the biblical Joshua cataclysm.
+
 ## Overview
 
 High-certainty ECDO-like geomagnetic-excursion cataclysms:

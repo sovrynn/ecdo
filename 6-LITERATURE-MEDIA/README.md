@@ -7,10 +7,12 @@ A centralized location for literature (books, research papers) and media related
 Morner, Martineau, Landscheidt, Velikovsky, Cuvier, Uriel
 
 Best cataclysm compilations:
-- Velikovsky WIC
+- Velikovsky WIC, extensive detail
+	- cosmic object anomalies
 - Compton compiled the best ~3100 BC cataclysm justification I have seen thus far
-- Frazer
-- Bruce Masse
+	- Mesoamerica, Mesopotamia
+- Frazer, quoted in the OG TalkOrigins flood myth compilation, massive detail
+- Bruce Masse, US Air Force, 2800 Comet impact hypothesis, quoted by wikipedia
 
 Geo/paleomagneticism:
 - Laj

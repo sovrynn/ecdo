@@ -121,6 +121,12 @@ This is dated 2003: https://mars-news.de/pyramids/gizacenter.html
 ![](img/coe9.jpg)
 ![](img/coe10.jpg)
 
+## Scaling dimensions?
+
+![](img/scaling.jpg)
+
+http://www.impacttectonics.org/Archeology/Giza/
+
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/

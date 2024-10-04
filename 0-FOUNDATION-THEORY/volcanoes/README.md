@@ -3,6 +3,7 @@
 Volcanoes are locations on the Earth where the upper mantle reaches the surface of the Earth's crust.
 
 ![](img/volcano-diagram.png)
+![](img/map.jpg)
 
 Likely, all volcanoes will see some form of increased activity during the ECDO. But in particular, volcanic activity may be correlated with the equatorial bulge.
 

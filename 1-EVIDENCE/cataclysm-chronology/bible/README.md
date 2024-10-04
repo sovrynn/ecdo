@@ -5,6 +5,10 @@ Major events:
 - Exodus (Red Sea Crossing), Moses
 - Adam and Eve flood
 
+Also:
+- Enoch
+- Joshua
+
 ## Exodus (1800 - 1400 BC)
 
 This biblical chronology places Exodus anywhere from 1600 - 1400 BC: https://biblicalhistoricalcontext.com/exodus/the-biblical-dates-of-the-exodus/
@@ -22,14 +26,6 @@ See `LITERATURE-MEDIA/chan-thomas`.
 ## Two Bible Floods
 
 Hard copy `TwoFloods_Web.pdf` in this folder.
-
-## Dead Sea scrolls - Uriel's Machine Excerpt
-
-![](img/dead-sea-scrolls.jpg)
-
-From the Dead Sea scrolls as described in Uriel’s Machine. Uriel teaching Enoch about the cycles of the cosmos.
-
-![](img/dead-sea-scrolls2.jpg)
 
 ## Adam and Eve Flood
 
