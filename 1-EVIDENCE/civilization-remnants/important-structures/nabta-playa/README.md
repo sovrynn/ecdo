@@ -63,11 +63,26 @@ Looking at Google Maps terrain, there are clear flow lines going vertically down
 
 After this place rotates, it goes from about 22.51 N, 30.73 E to 53.59 N, 148.45 West.
 
-## Summer Solstice
+### Summer Solstice
 
 When the axial tilt of 23.5 degrees is rotated directly towards the sun, it is summer solstice. My script calculates this to be about 64.4 degrees sunrise.
 
 In S2, 47.8 degrees is the sunrise bearing.
+
+### My Verdict
+
+Looks about right to me. Unable to verify constellation azimuth values (slow internet speed today) but if Stellarium can verify them then the setup checks out. My calculations:
+- S2 position of approximately (53.59 N, 148.5 W) and S1 north pole at a bearing of 179.2 from S2 north pole in S2
+- Summer solstice sunrise azimuth of 64.4 degrees
+- S2 summer solstice sunrise azimuth of 47.8 degrees
+Sunrise azimuths calculated using a script and checked to be within a degree of values I found online.
+
+My comments are:
+- strong case for this structure being built for the S1 alignments described
+- the lack of S2 solstice alignment with the 4 existing viewgaps (standing stones) which would be a stronger indication of flip orientation knowledge than the s2 constellation alignments, which can be fitted manually within a certain margin
+- Mizar and Alioth labeled as 8,10 degrees in the circle but 10,11 in the Stellarium snip
+- Alioth labeled as 10 degrees in the S2 circle but 11 in the Stellarium snip
+- Slight few-degree margin for error reasonable judging from imperfect alignment with geographic north and slight displacement from 31 meridian
 
 ## Citations
 
