@@ -87,3 +87,11 @@ It turns out that the fertile lands were suddenly, or within a short period of t
 ## Iberian Agriculture 5400 BC
 
 Iberian agriculture "suddenly" appears ±5400 BC. https://sci-hub.ru/10.1016/j.jas.2015.05.007
+
+## 1530 World Map, Palazzo Farnese
+
+The Palazzo Farnese in Rome was built around 1530. One of the decorations in the painted halls, besides the magnificent frescoes, was a detailed map of the world. The map is incredibly detailed, with riverbeds, cities, ports and landmarks.
+
+It differs from what we are used to with Green Antarctica. on the map can everyone see? Well, Antarctica... A huge single continent made up of two Americas, where South America is connected to the flowering lands of Antarctica. And no Drake Strait!
+
+![](img/palazzo-farnese.jpg)

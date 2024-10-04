@@ -40,6 +40,7 @@ Speculative dates:
 - tree ring anomalies
 - Baillie comet impact hypothesis
 - bond event
+- Britain comet impact
 
 ## 400 BC
 

@@ -44,10 +44,6 @@ The temperature at the inner core's surface is estimated to be approximately 5,7
 
 The pressure in the Earth's inner core is slightly higher than it is at the boundary between the outer and inner cores: It ranges from about 330 to 360 gigapascals (3,300,000 to 3,600,000 atm). [5]
 
-## Mantle
-
-
-
 ## Core-Mantle Coupling Research Papers
 
 This is recommended by Nobulart (massive 20 MB file, not putting in repo): https://annas-archive.org/md5/18c9a31311c4b4779d90bf955d4cbafe
@@ -55,6 +51,43 @@ This is recommended by Nobulart (massive 20 MB file, not putting in repo): https
 There's also several PDFs of papers in `papers/`.
 
 Paper on interior of the Earth: https://annas-archive.org/md5/17ca9353c3b84e99c28d13c255e1cd4c
+
+## Inner Core Iron Phase Change, Two Layers??
+
+Earth's core might not be what they thought it was. 
+
+![](img/core-phase-change.jpg)
+![](img/core2layers.jpg)
+
+TL;DR:
+
+Core itself may have 2 layers.
+Has ramifications.
+Could rewrite a lot of things.
+
+- Anyone else seen this ? 
+- Comments ?
+- Has it (or How could this) affect ECDO theories ?
+- Could (or how could) this be manipulated externally, to affect how magnetic shifts happen ?
+
+Links:
+
+https://www.sciencealert.com/scientists-detected-signs-of-a-hidden-structure-inside-earths-core
+
+Recent Journal Article:
+
+https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JB020545
+
+Original Journal Article:
+
+Evidence for the Innermost Inner Core: Robust Parameter Search for Radially Varying Anisotropy Using the Neighborhood Algorithm
+
+J. Stephenson, H Tkalčić, M. Sambridge
+
+First published:
+07 December 2020
+https://doi.org/10.1029/2020JB020545
+Citations: 22
 
 ## Citations
 

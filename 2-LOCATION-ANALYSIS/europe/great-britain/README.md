@@ -134,6 +134,12 @@ Do you know what the main crops in this area are? These appear to be of agricult
 
 Maybe this: https://en.m.wikipedia.org/wiki/Ridge_and_furrow
 
+## Devil's stone
+
+Devil's stone https://megalithix.wordpress.com/2008/10/02/devils-stone-addlebrough/
+
+![](img/devil-stone.jpg)
+
 ## Citations
 
 1. https://en.m.wikipedia.org/wiki/File:Old_Boundary_Marker_by_Blakey_Ridge,_Farndale_East_Parish_-_geograph.org.uk_-_6038888.jpg

@@ -90,6 +90,12 @@ Could this be ekpyrosis following katakysmos a few years later? The idea of us p
 
 From what I have surmised through these years, there are 3 main impacts that occur every 12k years. Water inundation (deluge), a cme and a regular impact. Just to finish so to speak before the start of a new age. It is my conjecture that the deluge comes after this extraterrestrial impact-this explains that we find remnants of old ages under the soil (mud burial) and under the sea (think bimini, yonaguni, kumari kandam, dwarka). So yes.
 
+## 562 AD England comet?
+
+Sorry to bang on about British Abbeys but you have to go with your instincts and I feel like this is a part of history, like most others, that we have been lied to about. Would the dissolution of the monasteries by Henry VIII really result in the colossal wrecks we see today (See link)? A part of British history that is hidden is that the British State and much of its population was destroyed by debris from a comet in AD 562. I wonder if these Abbeys are much older than we are led to believe and were actually destroyed in this 6th century cataclysm. https://britainandbritishness.com/10-of-the-best-medieval-abbeys-of-britain/
+
+![](img/europe-comet.jpg)
+
 ## Citations
 
 1. Minoan: http://www.minoancrete.com/chron.htm

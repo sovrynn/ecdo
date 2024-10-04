@@ -54,6 +54,18 @@ https://x.com/RealDutchsinse/status/1818805390974263741
 
 Check `img/`.
 
+## Hurricane and Tornado Control
+
+Hurricane and Tornado Control Device US Patent: 20030085296 A1 (https://patents.justia.com/patent/20030085296)
+
+"Mega generators are employed to produce high decibel sound waves, which sound waves are projected toward the clouds and rotating winds which form the low atmosphere systems.
+
+In one scenario, the high frequency sound waves will function to disrupt and slow the rotating winds, thereby preventing a hurricane or tornado from forming. 
+
+In another scenario, the high frequency sound waves will function to enhance the rotation of the winds, thereby causing a hurricane or tornado to form."
+
+![](img/hurricane-control.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
