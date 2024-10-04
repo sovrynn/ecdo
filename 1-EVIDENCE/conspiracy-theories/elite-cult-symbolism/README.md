@@ -76,6 +76,21 @@ Some one posted this on twitter, 104°
 
 In The Wandering Earth (2019), one of the “torque engines” - used to stop the earths rotation in order to save it from a solar disaster - is singled out near the start of the movie. It’s location is Sulawesi.
 
+## Swastika
+
+I haven't seen this mentioned here, thought I'd share. 
+
+It's long been speculated that the swastika is at least in part an image of the procession of Ursa Major (and Ursa minor, as well, forming a sort of fractal interior) around the North Star.
+
+Over the course of the four seasons, the Little Dipper (whose tail is Polaris, the North Star) and the Big Dipper process around Polaris.
+
+It is one of the earliest and most ubiquitous symbols found among human archeological remains. Some have speculated that the image of the "wheel in the sky" may have inspired the concept of the wheel to the PIE culture that later spread out on horse-drawn chariots from the Pontic steppe and conquered much of Eurasia.
+
+What the ECDO brings to this discussion is clarity about its significance on the scene in which it appeared. After a period of immense chaos and destruction, the apocalypse - or unveiling - of this new axis mundi would have heralded the dawn of a new age of the earth. It would be remembered as such a sign.
+
+![](img/swastika1.jpg)
+![](img/swastika2.jpg)
+
 ## ZULU story (unrelated)
 
 The ZULU story tells us that ADAM’s CALENDAR is where humanity was created by the gods (ANUNNAKI) to be slaves in the gold mines.

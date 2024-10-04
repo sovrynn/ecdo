@@ -33,3 +33,5 @@ Advanced [Egyptian stonework](https://www.theglobaleducationproject.org/egypt/ar
 Khafre/Khufu pyramids
 
 Giza Death Star ultrasonic drilling (see `important-structures`)
+
+Strange artifacts, giant lords, and ancient mounds of north america: https://www.youtube.com/watch?v=qIyvBMxfCp8

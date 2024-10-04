@@ -23,3 +23,7 @@ It is said that in Antarctica, there are multiple perfectly geometric 8-sided oc
 It is believed that the structures were built by a human looking group of extraterrestrials, who were involved in the genetic engineering of humanity. Could this be an ancient extraterrestrial base used as a hub for global civilization? Jessica was tasked with this blind target and remote viewed these alleged structures, revealing her data here with researcher and experiencer Barry Littleton!
 
 https://www.spreaker.com/episode/ancient-black-octagon-structures-in-antarctica-remote-viewing-with-barry-littleton--52709726
+
+## Arctic Maps
+
+The lands to the north are just as mysterious and guarded as the Antarctic. The maps today show nothing at the North Pole. Yet history depicts something much different not only lands but inhabited lands. Do you really think all these cartographers got it wrong?

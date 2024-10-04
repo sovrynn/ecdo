@@ -20,3 +20,6 @@ Source: https://www.independent.co.uk/news/science/archaeology/stonehenge-origin
 Megalithic Ancient Menhirs In Corsica
 - Corsica is in fact one of the European regions with the biggest density of ancient menhirs, counting over 500 of them and dating back to 3.300 BCE circa.
 Some of them are as tall as 4 meters (13 feet), and weigh more than 2.5 tons.
+
+Foreign stone found on Orkney.
+https://youtu.be/OwTs-QVvB7U
