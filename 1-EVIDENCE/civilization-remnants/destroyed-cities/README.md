@@ -120,3 +120,19 @@ Due to destruction by an earthquake.
 "A team of archaeologists has discovered the well-preserved brain and skin remnants of people who lived around 3,700 years ago in Turkey. The remains belong to two Bronze Age individuals who were found at the Tavşanlı Mound (or Tavşanlı Höyük) in Turkey's Kütahya province—located in the west of the Anatolian peninsula. The remnants belong to a young man aged 15-18 at the time of death, and another middle-aged man who was 40-45 years old when he died, the Anadolu Agency (AA) reported. Researchers believe these individuals died when their homes were set on fire and they were unable to flee during an attack around 3,700 years ago. Evidence suggests there was a large-scale attack on the city around 1700 B.C. that resulted in the entire settlement being burned to the ground."
 
 https://www.newsweek.com/archaeologists-discover-brain-remnants-people-lived-3700-years-ago-1825076
+
+## Garth Tsunami 3500 BC? Evidence doesn't support
+
+"This paper evaluates to what extent archaeological settlement sites from the Norwegian west coast exhibit traces
+of a paleotsunami impact in the mid-4th mill BCE. The timing of the Garth tsunami (~3500 cal BCE), as inferred
+from lake basins in Eastern Shetland and in Western Norway, coincides with the Early-Middle Neolithic tran-
+sition in the Western Norwegian chronology. Before and after the Garth tsunami, the west coast of Norway was
+populated by hunter-fisher-gatherers highly adapted to a marine environment. If the Garth tsunami had a direct
+impact on coastal settlements, the event could become an important mediating factor for research on the Early-
+Middle Neolithic transition in this region. The paper investigates radiocarbon dates and stratigraphic evidence
+from 15 coastal settlement sites. It applies Bayesian sequence calculation to test for congruence between site
+activity phases and the tsunami event, and a Monte Carlo based frequency analysis to test for population fluc-
+tuations. Results from these analyses do not support the hypothesis of a catastrophic impact on the hunter-fisher-
+gatherer population in Western Norway."
+
+https://sci-hub.ru/10.1016/j.jasrep.2020.102464

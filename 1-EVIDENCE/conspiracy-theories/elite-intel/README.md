@@ -34,3 +34,12 @@ I just tried to back this up by searching the internet for two relatively recent
 I asked about nuclear power generation across Europe, Russia and China. Interesting, confirming what I had heard from a few other sources in recent years. https://chatgpt.com/share/66ed403e-1fe8-8005-a945-4af4996028fa
 
 ![](img/nuclear-prepping.jpg)
+
+## 7 of 9
+
+Interesting choice of words for an AGW piece. In Masonic numerology, 7 of 9 may be interpreted as “completion of the divine”.
+
+![](img/7of9.jpg)
+
+- https://www.theguardian.com/environment/2024/sep/23/earth-breach-planetary-boundaries-health-check-oceans
+- https://medium.com/@julianwilson655/masonic-numbers-meaning-0fd3bcad09a1

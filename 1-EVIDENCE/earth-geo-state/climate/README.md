@@ -75,6 +75,16 @@ https://nuttersworld.com/climactic-events/3.2k-yr-bp-event/
 
 "The eastern Mediterranean’s cold and dry period between 1200 and 850 cal. yr BCE can be qualified as a “W”-shaped cooling event occur- ring ∼2750 yr before the pre-industrial Little Ice Age (e.g., Jones et al., 2001) and ∼1850yr before the Late Antiquity Little Ice Age (Büntgen et al., 2016). This colder period is clearly differenti- ated from the 4.2 kyr B.P. event (Weiss et al., 1993; Weiss, 2016), and does not correspond to a progressive deterioration of the climate be- tween these two episodes."
 
+## Holocene Syrian Coastal Change
+
+"Holocene [Syrian] coastal change comprised three main aggradation phases resulting from increased fluvial sediment input (estimated to be at 5000 BC, 2000 BC, and 1200 AD) and separated by erosive and/or retreat phases and two episodes of coastal uplift in about 1400 BC and 1000 AD. The precise causes of aggradation remain unclear, but could either result from climate changes or human actions.
+
+This general pattern masks a degree of local complexity caused by tectonic movements and sediment supply. These local changes are exemplified by coastal progradation which either created or removed natural harbours. For example, at Amrit the Hellenistic quay and harbour basin are now 800 m inland"
+
+![](img/syrian-holocene.jpg)
+
+[1] https://link.springer.com/article/10.1007/s11457-022-09339-y
+
 ## Peltier Effect
 
 What could cause the the dramatic shift from bolling allerod to younger dryas where the warm and cooler hemispheres swapped places so rapidly, perhaps a poleshift?

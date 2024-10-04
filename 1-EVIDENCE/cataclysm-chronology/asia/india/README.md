@@ -121,6 +121,9 @@ https://en.wikipedia.org/wiki/Poombuhar
 
 # TODO (much from chatgpt)
 
+Complete vedic timeline
+https://www.myindiamyglory.com/2021/02/07/outline-of-indian-chronology-manu-14500-bce-to-vikramaditya-1-bce/
+
 - Prabhasa Kshetra, another sacred site near Dwaraka, is also said to have been partially submerged after Krishna’s departure.
 - The city of Shonitapura, ruled by the demon king Bana, was destroyed during the battles between Krishna and Bana.
 

@@ -23,6 +23,17 @@ DEPOP 101: Safely [sic] & Effectively Sterilizing Humanity Since the 1970's
 3. Addendum to “HCG Found in Tetanus Vaccine” (https://www.ijvtpr.com/index.php/IJVTPR/article/view/3)
 4. Baby-Killing Vaccine: Is It Being Stealth Tested? (https://www.ewtn.com/catholicism/library/babykilling-vaccine-is-it-being-stealth-tested-11055)
 
+## Mowing the lawn?
+
+![](img/vaccine-rates.jpg)
+![](img/cancer-rates.jpg)
+![](img/median-ages.jpg)
+![](img/fertility.jpg)
+
+## Pirbright Institute
+
+![](img/pirbright-institute.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

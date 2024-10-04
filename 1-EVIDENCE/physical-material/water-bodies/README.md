@@ -119,3 +119,9 @@ Given that the basin floor is relatively flat and that the median depth is norma
 If we are right, and two tsunami waves did strike deep into the land that is now the United States, where is the evidence of such a relatively recent cataclysmic disaster? How could the various experts have failed to notice such an event? The simple answer is that each set of specialists has indeed noticed the effects, but the whole picture simply has not been pieced together." 
 
 - Condensed from Uriel's Machine, Knight & Lomas (1999)
+
+## Caspian Sea
+
+The Caspian Sea. "In the low-lying lands to the east of Mount Ararat lies the largest landlocked body of water on the planet. We looked up the facts about this giant lake and were hardly surprised when we found that it is also a salt-water lake, containing salmon, sturgeon and herring as well as other marine animals such as porpoises and seals. The question has to be asked: how does a giant landlocked, seawater lake come to exist so deep inside a continental land-mass, and how did large sea mammals get there? The nearest connection to the oceans is 800 kilometres south, in the Persian Gulf. Could it be that this is another remnant of a giant continental ‘rock-pool’ left by the comet Flood? Is it not possible that the oceanic animal life in this lake was carried there by a wave of unimaginable proportions? We could find no explanation from the experts. The region to the north was once covered in salt water, while the Aral Sea 480 km further east is also a saltwater lake."
+
+- Uriel's Machine

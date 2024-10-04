@@ -36,6 +36,23 @@ Does this happen for the same reason that the LLVPs seem to be centered around t
 
 ![](img/llvp-viz.webp)
 
+## Great Year, Barnard's Star (hard copy here), Binary Year?
+
+Our Sun’s Potential Binary Relationship with Barnard’s Star
+https://binaryresearchinstitute.org/bri/5.9/wp-content/uploads/2023/11/Lost-Star-Found-11-11-23.pdf
+
+Is this the cause of the Great Year, and if so then every 12,000y we come closer to our binary star. Does this relate to the flippenings.
+
+They have a lot of interesting content on their website: https://binaryresearchinstitute.org/bri/
+
+They reference this ted talk, which is a good one: https://binaryresearchinstitute.org/bri/articles/there-is-something-out-there-by-mike-brown/
+
+### Related
+
+Or related to Nibiru perhaps?
+
+https://www.youtube.com/watch?v=I3ZDcj0kF_0 The great binary year
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Solar_cycle#Patterns

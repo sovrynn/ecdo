@@ -76,6 +76,12 @@ Some one posted this on twitter, 104°
 
 In The Wandering Earth (2019), one of the “torque engines” - used to stop the earths rotation in order to save it from a solar disaster - is singled out near the start of the movie. It’s location is Sulawesi.
 
+## ZULU story (unrelated)
+
+The ZULU story tells us that ADAM’s CALENDAR is where humanity was created by the gods (ANUNNAKI) to be slaves in the gold mines.
+
+![](img/zulu.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

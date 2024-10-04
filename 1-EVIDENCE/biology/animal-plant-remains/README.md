@@ -60,6 +60,15 @@ https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B4CFF913
 
 https://www.msn.com/en-gb/travel/news/scientists-make-startling-discovery-about-the-falkland-islands-so-well-preserved/ar-AA1qPGn8?ocid=winp2fptaskbarhoverent&cvid=fe8e8c549e754f64cc3cdcc48092a1ca&ei=4
 
+## Egypt Animal Remains
+
+Animal bones of unknown age (all dates stated are pure guesswork) found in vitrified clay in Egypt. Turning clay to glass requires a lot of heat. 
+
+![](img/egypt-animal-remains1.jpg)
+![](img/egypt-animal-remains2.jpg)
+
+[1] https://sci-hub.ru/10.1006/jasc.1996.0046
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

@@ -128,6 +128,8 @@ This is dated 2003: https://mars-news.de/pyramids/gizacenter.html
 
 # TODO
 
+Go Inside the great pyramid: https://mused.com/guided/266/go-inside-the-great-pyramid-of-giza/
+
 Christopher Dunn's article "Advanced Machining in Ancient Egypt": https://www.theglobaleducationproject.org/egypt/articles/cdunn-1.php
 
 Listened to a podcast today that mentioned the egg, among other interesting evidence that shows the pyramids were constructed prior to dynastic Egypt. https://open.spotify.com/episode/0tFOm0dV01BgPmUcM4EiwG?si=7eIAmJ5-Q8erw3vPorUgqg

@@ -58,6 +58,14 @@ The first Olmec center, San Lorenzo, was all but abandoned around 900 BCE at abo
 
 So many cataclysms.
 
+## Mexican History
+
+From Researches, Concerning the Institutions and Monuments of the Ancient Inhabitants of America. This is a reference to the famous calendar stone. Note the description of four catastrophes.
+
+![](img/mexicans.jpg)
+
+[1] https://sci-hub.ru/10.1017/cbo9780511920240.009
+
 ## Citations
 
 1. https://zsitchinindex.wordpress.com/the-earth-chronicles-index/book-4-the-lost-realms/chapter-7-the-day-the-sun-stood-still/

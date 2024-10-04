@@ -37,6 +37,16 @@ https://x.com/PadrePlyo/status/1837620633582424527 pretty smart way to figure ou
 - Great Gun Yu Flood, 10 days, 2000 BC
 - Peru, 24 hours, ~1800 BC
 
+## Maori (New Zealand Islands)
+
+"He called to Raki to overturn the earth, and he struck the earth, with his knife (inaipi), and the earth turned upside down, and all the people of the world perished. Puta and his people alone were saved. Thenceforth this has been rehearsed as the overturning of Mata-eho by Puta."
+
+"They thought that some of the people of the world might perhaps still he alive, and that the earth might have the same appearance as it had before the flood came; but on landing they saw that there was not one human being left alive, and the land had materially changed : it had cracked in parts, had been turned upside down, and had been confused by the power of the flood; and they found that they were the only survivors o£ all the tribes of all the earth, and that the earth had completely changed in appearance." (sounds like the account of an observer).
+
+![](img/maori.jpg)
+
+[1] https://sci-hub.ru/10.1017/cbo9781139108393.016
+
 ## Citations
 
 1. https://talkorigins.org/faqs/flood-myths.html#Yoruba

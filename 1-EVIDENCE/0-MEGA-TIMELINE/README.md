@@ -1,5 +1,9 @@
 # Holocene Mega Timeline
 
+Nobulart's planetary harmonic and cataclysm chronology timeline in `timeline.xls`.
+
+## Overview
+
 High-certainty ECDO-like geomagnetic-excursion cataclysms:
 - 2200-1700 BC
 - 3200-2800 BC
