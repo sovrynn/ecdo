@@ -1,5 +1,7 @@
 # Point Geo North Rotation
 
+This script brute forces and spits out the bearing to the sun at single degree increments at a certain rotation (can be modified for solstice), allowing one to calculate the bearing of the sun at sunrise and sunset as well as the length of the day.
+
 EDIT: Think I just wasted a bunch of time working on this. Lots of tools out there like Photographer's Ephemeris, Suncalc, Stellarium that do this for you.
 
 ## What the script does
