@@ -46,6 +46,12 @@ https://x.com/databreachez/status/1659903995454865410
 
 https://m.youtube.com/watch?v=CBKv781wrSc
 
+## UK 2050 Absolute Zero
+
+![](img/absolute-zero.jpg)
+
+https://api.repository.cam.ac.uk/server/api/core/bitstreams/75916920-51f6-4f9c-ade5-52cbf55d5e73/content
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
