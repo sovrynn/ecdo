@@ -6,6 +6,14 @@ Paleomagnetic studies that date material back in the last several millenium (400
 
 What follows are anomalies that date back at least to Younger Dryas and usually far older, which constitute the "well-documented" geomagnetic excursions.
 
+## Map of reversals over 16 million years
+
+121 magnetic traversals mapped over 16 million years. Note the clustering of traversal paths around 90 degrees east and west of the 31st meridian.
+
+![](img/map.png)
+ 
+From Paleomagnetism - Continents and Oceans, McElhinny & McFadden (2000) [red additions by me]
+
 ## Laj: An impending geomagnetic transition? Hints from the past
 
 We find that some aspects of the present-day geomagnetic field have some similarities with those documented for the Laschamp excursion 41 kyr ago. Under the assumption that the dynamo processes for an eventual future reversal or excursion would be similar to those of the Laschamp excursion, we tentatively suggest that, whilst irreversible processes that will drive the geodynamo into a polarity change may have already started, a reversal or an excursion should not be expected before 500–1000 years.

@@ -133,6 +133,8 @@ Author did got two dates 3066 BCE and 5500 BCE, maybe we can get more dates.
 
 Link for the whole article: https://arvind-bhagwath.medium.com/3000-bce-great-flood-and-rohini-sakata-bhedanam-406f8e810427
 
+This alignment comes back in 2030.
+
 ## Rohini Sakata Bhedanam
 
 In the article on rohini it was mentioned comet crossing rohini also applies as possible trigger.
@@ -151,11 +153,7 @@ It might not be possible for Saturn,due to its distance from this area,to pass e
 
 https://prajnasurabhi.blogspot.com/2014/09/rohini-sakata-bhedanam-world-wide.html?m=1
 
-Cycle a few days either side of this 2060 alignment and I think you’ll find the triangle there. I remember seeing it.
-
-![](img/rohini-2060.jpg)
-
-Kataklysmos 2030. Ekpyrosis 2060? Starting to sound like a Crete revival party.
+2060 alignment of this, see `solar-system`.
 
 ## Citations
 

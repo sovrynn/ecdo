@@ -91,6 +91,23 @@ What the ECDO brings to this discussion is clarity about its significance on the
 ![](img/swastika1.jpg)
 ![](img/swastika2.jpg)
 
+## Rosicrucians
+
+There's that diamond/lozenge shape again. Note the text written around the four edges of it. It symbolizes (among other things) as above, so below.
+
+![](img/rosicrucians.jpg)
+
+[1] https://archive.org/details/SecretSymbolsOfTheRosicruciansBook1J.D.A.Eckhardt1788
+
+## John Dee
+
+The John Dee and The Elizabethan Court connection is a big nod to the interest of freemasonry in ancient history and it's occult knowledge. Sir Francis Bacon was a lynchpin in these circles, the establishment of modern freemasonry and the settlement of the US at Jamestown.
+
+![](img/john-dee1.jpg)
+![](img/john-dee2.jpg)
+![](img/john-dee3.jpg)
+![](img/john-dee4.jpg)
+
 ## ZULU story (unrelated)
 
 The ZULU story tells us that ADAM’s CALENDAR is where humanity was created by the gods (ANUNNAKI) to be slaves in the gold mines.

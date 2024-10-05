@@ -51,21 +51,6 @@ Interesting, The gas giants form the square in 2963 BC, same pattern bad weather
 ![](img/2963.jpg)
 ![](img/2024.jpg)
 
-## Aldebaran and Saturn/Mars Alignment
-
-On Aldebaran's alignment with Saturn/Mars, written in Indian texts as an omen of great catastrophe.
-
-Within 20° of one another (circle) in mid June 2030 (as observed from Earth).
-
-![](img/aldebaran1.jpg)
-
-From an Earth perspective, they don't appear that close together again until mid-June 2060.
-
-![](img/aldebaran2.jpg)
-![](img/aldebaran3.jpg)
-
-I was kind of hoping that this wasn't going to be at exactly the same time at the Landscheidt Minimum, the Taurids and Encke. Another hit.
-
 # TODO
 
 Around 3700 years?

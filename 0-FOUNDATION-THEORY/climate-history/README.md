@@ -32,6 +32,9 @@ Understanding what exactly caused this undeniable massive sea level rise should 
 
 "During deglaciation since the Last Glacial Maximum, between about 20,000 to 7,000 years ago (20–7 ka), the sea level rose by a total of about 100 m (328 ft), at times at extremely high rates, due to the rapid melting of the British-Irish Sea, Fennoscandian, Laurentide, Barents-Kara, Patagonian, Innuitian and parts of the Antarctic ice sheets."
 
+- "Meltwater pulse 1B between c. 11.4–11.1 ka, a 7.5 m (25 ft) rise over about 160 years centered at 11.1 ka, which includes the end of Younger Dryas interval of reduced sea level rise at about 6.0–9.9 mm (0.2–0.4 in)/yr;
+- Meltwater pulse 1C between c. 8.2–7.6 ka, centered at 8.0 ka, a rise of 6.5 m (21 ft) in less than 140 years." 
+
 ## Younger Dryas - Undeniable ECDO event? [1]
 
 This is the period preceding the Holocene.

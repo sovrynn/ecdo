@@ -52,6 +52,10 @@ https://m.youtube.com/watch?v=CBKv781wrSc
 
 https://api.repository.cam.ac.uk/server/api/core/bitstreams/75916920-51f6-4f9c-ade5-52cbf55d5e73/content
 
+## The Secret History of the World
+
+"The Control System, via the offices of its high priests of science, ensures that glaciologists do not cross over into astrophysics and that geologists do not cross over into archaeology. In this way, there is no such thing as Comparative Science." - The Secret History of the World, Laura Knight-Jadczyk (2005)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

@@ -25,6 +25,10 @@ Almost certainly a globally experienced seismic movement in the hours before, an
 
 The concept of a *W-shaped event*, as we have seen some potential evidence of, makes me wonder if we aren't at least 5 years to a few decades out from the actual flip. The caveat being, of course, that the leadup will bring an *intense aridification* probably involving *extreme heat*.
 
+## Best forecast date - 2030
+
+There are a host of solar, planetary, and cosmic alignments in 2030. See `date-and-triggers`.
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com) (Intro image as well)

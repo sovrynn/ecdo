@@ -6,6 +6,8 @@ Human accounts can be very useful in fine-tuning the timeline - for example, Exo
 
 Another such detail would be accounts of the Sun having a certain anomalic trajectory, which is contained in the biblical Joshua cataclysm.
 
+Historical continuity of significant continued human activity may be the easiest way to "disprove" an ECDO event. Still, it could have proved the spur for significant immigration and war, and such difficulty would make it difficult to document the event in detail, although it would have likely passed down in oral tradition.
+
 ## Overview
 
 High-certainty ECDO-like geomagnetic-excursion cataclysms:
@@ -123,6 +125,7 @@ Nobulart's preferred candidate date for Noah's flood. 3700 year periodicity with
 
 - 5400 BC: catal huyuk abandonment
 - 5800 BC: Mayan Chichancanab lake filling
+- 6000 BC: meltwater pulse 1c
 - 6200 BC: well documented cooling and aridification event
 - 6400 BC: Black Sea refilling (William Ryan)
 - Greenland, Kilimanjaro ice cores
@@ -143,7 +146,7 @@ A well-documented event, with an account of a continent "sinking in a day", and 
 - 9200 BC: Black Sea refilling
 - 9200 BC: Manu flood
 - 9600 BC: Atlantis
-- 9700 BC: end of Younger Dryas, many physical markers
+- 9700 BC: end of Younger Dryas, many physical markers, meltwater pulse
 
 ## Citations
 
