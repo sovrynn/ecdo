@@ -99,6 +99,18 @@ We can only guess. It would probably be parabolic with an intermediate steady st
 
 https://www.researchgate.net/figure/Parabolic-acceleration-and-deceleration-curve_fig2_331877131
 
+## Prandtl Rotations
+
+Prandtl Rotations describe the motion of a gyroscope's rotor around its principal axes. A gyroscope's behavior is governed by the principles of angular momentum conservation, causing it to resist changes to its orientation. For a rotating gyroscope, stability along its axes is critical. Depending on the external influences (like additional weights, torques, or friction), these rotations can either remain stable (maintaining a steady motion) or become unstable, leading to wobbling or tumbling motions.
+
+When rotating about one of its principal axes (with the highest or lowest moment of inertia), the gyroscope exhibits stable behavior. If additional forces or masses alter its inertia, the gyroscope may cross a critical stability threshold, leading to unstable rotations.
+
+[1] https://youtu.be/oBjjdZcEA9U
+
+The bands along the bottom of the chart shows where mass has been subtracted from the gyroscope in each case.
+
+![](img/prandtl.jpg)
+
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/

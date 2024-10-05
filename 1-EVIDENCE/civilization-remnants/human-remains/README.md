@@ -43,33 +43,6 @@ Round barrow excavation in Kilmahuddrick, Dublin. Human remains incinerated in p
  
 https://sci-hub.ru/10.2307/20650841
 
-## Burton Agnes Barrow Remains/Drums [1]
-
-"“It was found … in the center of what we call a round barrow. And in that center was a square pit, in which we found three skeletons of quite young children. The eldest was about 12 and was holding on to the two smaller children, [aged] about 3 and 5.”"
-
-![](img/burton-agnes.webp)
-
-But carbon dating of bones found in the Burton Agnes grave indicates that the style of sculpture is even older, dating to between 3005 and 2890 B.C.E., during the first phase of Stonehenge’s construction
-
-## Lanhill long barrow [2]
-
-This one is quite rare, because the chamber was previously undisturbed. Human remains had previously been discovered scattered through other parts of the barrow, but this room was overflowing with skeletons. It reads like a description of Freddy Kruger's basement. The descriptions of how they speculate the bodies were interred is almost clown-world, because the dead weight had to be squeezed down a tight passage and then through a tiny porthole to get it into the chamber. No dating was done on these (its an old paper), but I'd bet they all probably perished around the same time.
-
-A rare image of an "undisturbed' neolithic burial chamber. Shaken and stirred by the looks of things.
-
-![](img/lanhill-barrow.jpg)
-
-https://sci-hub.ru/10.1017/s0079497x00021150
-
-## West Kennet long barrow
-
-West Kennet Long Barrow. This one looks like a neolithic bunker for the elite. They had the door facing the right direction. Bodies and bones of dozens scattered around on the floor everywhere.  Some rather strange burial practices. Image shows the sediment layers which filled the space before excavation - it was loaded with broken shards of pottery and textile and various other materials of human origin.
-
-![](img/west-kennet1.jpg)
-![](img/west-kennet2.jpg)
-
-https://sci-hub.ru/10.1017/s0003598x00027253
-
 ## Citations
 
 1. https://www.smithsonianmag.com/smart-news/an-ornate-5000-year-old-stone-drum-is-the-uks-most-significant-prehistoric-art-find-in-a-century-180979604/

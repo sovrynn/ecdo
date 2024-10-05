@@ -93,6 +93,22 @@ Wow. So the deluge smashed a hole in the chalk hills that used to run between En
 
 ![](img/english-channel6.jpg)
 
+## Garth Tsunami 3500 BC? Evidence doesn't support
+
+"This paper evaluates to what extent archaeological settlement sites from the Norwegian west coast exhibit traces
+of a paleotsunami impact in the mid-4th mill BCE. The timing of the Garth tsunami (~3500 cal BCE), as inferred
+from lake basins in Eastern Shetland and in Western Norway, coincides with the Early-Middle Neolithic tran-
+sition in the Western Norwegian chronology. Before and after the Garth tsunami, the west coast of Norway was
+populated by hunter-fisher-gatherers highly adapted to a marine environment. If the Garth tsunami had a direct
+impact on coastal settlements, the event could become an important mediating factor for research on the Early-
+Middle Neolithic transition in this region. The paper investigates radiocarbon dates and stratigraphic evidence
+from 15 coastal settlement sites. It applies Bayesian sequence calculation to test for congruence between site
+activity phases and the tsunami event, and a Monte Carlo based frequency analysis to test for population fluc-
+tuations. Results from these analyses do not support the hypothesis of a catastrophic impact on the hunter-fisher-
+gatherer population in Western Norway."
+
+https://sci-hub.ru/10.1016/j.jasrep.2020.102464
+
 ## Citations
 
 1. Uriel's Machine

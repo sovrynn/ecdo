@@ -34,6 +34,18 @@ DEPOP 101: Safely [sic] & Effectively Sterilizing Humanity Since the 1970's
 
 ![](img/pirbright-institute.jpg)
 
+## Gilgamesh
+
+Published 2003. Not one word since.
+
+![](img/gilgamesh.jpg)
+
+Lots of conspiracy theories swirling around this topic. 👽
+
+https://x.com/databreachez/status/1659903995454865410
+
+https://m.youtube.com/watch?v=CBKv781wrSc
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

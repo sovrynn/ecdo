@@ -108,6 +108,55 @@ Aligned to a 3100 BC Kali Yuga start date, this places the end of Satya Yuga at 
 
 https://en.wikipedia.org/wiki/Poombuhar
 
+## Vedic astrologers referring to precession of the equinoxes?
+
+Further we have Earth’s axial precession which is a gravity-induced, slow, and continuous change in the orientation of an astronomical body’s rotational axis. It can refer to the gradual shift in the orientation of Earth’s axis of rotation in a cycle of approximately 25,772 years. This is like the precession of a spinning-top, with the axis tracing out a pair of cones joined at their apices. It was same calculation which ancient Vedic astrologers referred as Yugas with cycle of 26000 years that includes two Sandhis or Sandhyās (connecting periods) ⁠ — Sandhyā (dawn) and Sandhyāṃśa or Sandhyānśa (dusk)⁠ — where each Sandhi lasts for 1/10th (10%) of the main period. Dhruva(Pole Star) is Polaris and Axis Mundane has changed to Polaris now due to earth’s axial precession with 7 Sages (Big Dipper), the Sun, Moon, planets and constellations paying obeisance while circumambulating the Lord in Mount Meru(Virtual Mountain).
+
+![](img/vedic-precession.jpg)
+
+https://arvind-bhagwath.medium.com/mythology-of-nakshatras-ccac027e24c9
+
+## 5500 BC event?
+
+5500 BCE event
+
+In Hindu astronomy, Aldebaran is Rohini nakshatra and Planet Saturn is referred as Shani. The particular mention of ‘Rohini Sakata Bhedanam’ in Indian literature is an event of great significance. This event occurs when Saturn or Mars is near Rohini Nakshatra. These events are mentioned in Ramayana and during great Mahabharata wars. Destruction happened every time this peculiar phenomenon appeared in the sky and below is mention in Ramayana.
+
+"It forebodes evil and destruction
+When Saturn leaves Krittika and nears Rohini
+Sages call this “Breaking of Rohini’s wain”
+It brings great sorrow and misery"
+
+I think its mars or saturn cross with aldebaran rather and all three being in alignment, but yeah if all three are in alignment that would be very rare event.
+
+Author did got two dates 3066 BCE and 5500 BCE, maybe we can get more dates.
+
+Link for the whole article: https://arvind-bhagwath.medium.com/3000-bce-great-flood-and-rohini-sakata-bhedanam-406f8e810427
+
+## Rohini Sakata Bhedanam
+
+In the article on rohini it was mentioned comet crossing rohini also applies as possible trigger.
+
+Now,let us look into the definition of 'Rohini Sakata Bhedanam' as described in the famous astronomical work -'Surya Siddhantha'
+
+"When an object with a south declination of slightly more than 2 degrees passes through Vrishabha Rasi at 17 degrees,then it breaks the wain of Rohini".
+
+The celebrated ancient astrologer VarahaMihira described Rohini Sakata Bhedanam' in his magnum opus 'The Brihat Samhitha',two thousand years ago,thus:
+
+"When the wain of Rohini is broken by Saturn or Mars or Sikhi,then alas,the world is drowned in a sea of sorrows".
+
+Now,the star cluster 'Rohini' has 5 stars forming a triangle shaped thing in the centre.When Saturn or Mars or Sikhi(a mateor or Ketu) passes through this triangle near Alpha,Epsilon and Gama Tauri,then it is called 'Breaking of Rohini's wain'.
+
+It might not be possible for Saturn,due to its distance from this area,to pass exactly at 17 degrees Vrisha with 2 degrees south declination.However,he touches the star Rohini once in every 30 years approximately.
+
+https://prajnasurabhi.blogspot.com/2014/09/rohini-sakata-bhedanam-world-wide.html?m=1
+
+Cycle a few days either side of this 2060 alignment and I think you’ll find the triangle there. I remember seeing it.
+
+![](img/rohini-2060.jpg)
+
+Kataklysmos 2030. Ekpyrosis 2060? Starting to sound like a Crete revival party.
+
 ## Citations
 
 1. https://talkorigins.org/faqs/flood-myths.html#Tamil
@@ -123,6 +172,8 @@ https://en.wikipedia.org/wiki/Poombuhar
 
 Complete vedic timeline
 https://www.myindiamyglory.com/2021/02/07/outline-of-indian-chronology-manu-14500-bce-to-vikramaditya-1-bce/
+
+3000 BC flood: https://arvind-bhagwath.medium.com/3000-bce-great-flood-and-rohini-sakata-bhedanam-406f8e810427
 
 - Prabhasa Kshetra, another sacred site near Dwaraka, is also said to have been partially submerged after Krishna’s departure.
 - The city of Shonitapura, ruled by the demon king Bana, was destroyed during the battles between Krishna and Bana.

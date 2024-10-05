@@ -50,6 +50,12 @@ They appear in various numbers of turns in many neolithic sites. The number of t
 
 https://ubique.americangeo.org/map-of-the-week/map-of-the-week-the-imago-mundi/#:~:text=A%20circular%20%E2%80%9Cbitter%20river%E2%80%9D%20or,that%20extend%20beyond%20the%20sea.
 
+## Pyramid symbolism?
+
+The geometric theme of a pyramid and butterfly vortices seems quite common in ancient art across the world. Top left was not necessarily art though - it's part of a suspected deluge bunker (Newgrange), so I think of it as having been placed there by someone who was a part of the Enochian/Deluge tradition, which seems to arise in many other parts of the world in various forms as well.
+
+![](img/pyramid-symbolism.jpg)
+
 ## Citations
 
 1. https://x.com/EthicalSkeptic/status/1832538729275117895?s=19

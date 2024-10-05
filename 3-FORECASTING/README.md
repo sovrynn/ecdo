@@ -7,7 +7,6 @@ Goal is to predict when the next ECDO will happen.
 ## Contents
 
 - `date-and-triggers`: Date and triggers for the next ECDO event.
-- `recent-natural-disasters`: Recent natural disasters.
 - (Speculative) `shudder`: A vague potential imminent phenomenon that Ethical Skeptic referred to on social media.
 
 ## Evidence for an impending ECDO
@@ -16,7 +15,7 @@ Currently, the strongest piece of evidence we have for an impending ECDO event i
 
 https://github.com/user-attachments/assets/de8d7eff-800f-4030-b428-2667cd46179e
 
-Past that, there are also exothermic core and temperature anomalies.
+Past that, there are also exothermic core and temperature anomalies. These are causing climate change, such as increased rainfall.
 
 ## Signals that we are on the brink [1]
 

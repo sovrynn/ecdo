@@ -25,6 +25,14 @@ The northern sky of Nabta Playa in 3500 BC (shortly before the site was abandone
 
 ![](img/nabta-playa5.jpg)
 
+The pointed stones were clearly different because they are intended to be the rear sights.
+
+I approached the problem as an Enochian would - how to monitor polar nutation and the passage of time. The solution is actually extremely simple. Some wooden posts in the ground that mark several key stars surrounding the NCP at the same moment every day. Once aligned properly, replace with heavy stone. Hey presto; a polar nutation monitor.
+
+The proximity to the pyramids, and the connection between the Egyptian and Grooved Ware (later Druid) culture suggested to me that it may serve a similar astronomical purpose.
+
+I chose 3500 BC as the most logical time that the site was last maintained and calibrated, and would therefore be the most likely to yield a high-quality stellar correlation.
+
 The solar azimuth positions were drawn from JPL's Horizons app. The stellar positions were taken from Stellarium (which has had several papers published on the topic of its exceptional utility as an archaeoastronomy tool). The site diagram is from Megaliths and Neolithic astronomy in southern Egypt, Malville et al (1998). 4. A sighting location of 22°46'04.50"N 30°54'42.13"E and elevation of 222m was used for both [1] and [2] (the State 2 position would have to be calculated as a check on my own calc as well).
 
 1. https://ssd.jpl.nasa.gov/horizons/

@@ -27,3 +27,7 @@ https://www.spreaker.com/episode/ancient-black-octagon-structures-in-antarctica-
 ## Arctic Maps
 
 The lands to the north are just as mysterious and guarded as the Antarctic. The maps today show nothing at the North Pole. Yet history depicts something much different not only lands but inhabited lands. Do you really think all these cartographers got it wrong?
+
+## Underworld
+
+Another notion I can't remove from my head is I want to be open and cautious not to fall into the trap of presentism.  Virtually all the ancient cultures: The Sumerians, Akkadians, Babylonians, Assyrians, Egyptians, Both the Greeks and Romans, Mesoamerican Cultures, Indigenous Cultures of North America, Eastern Cultures like Hindu... to name a few - all believed in the idea of an underworld.  It seems ubiquitous, why would they imagine such crazy idea?  Just makes me wonder...

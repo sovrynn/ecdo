@@ -1,4 +1,4 @@
-# Destroyed Cities
+# Burned Cities
 
 ## Middle Eastern cities destroyed by fire circa 1700 BC, Late Bronze Age collapse (1200 BC)
 
@@ -83,25 +83,6 @@ https://en.wikipedia.org/wiki/Troy
 
 https://www.archaeology.org/travel/interactivemap-troy/troy-7.html
 
-## Canaanite palace from 3700 years ago
-
-![canaanite palace](img/canaanite-palace.jpg "canaanite palace")
-
-“It really looks like the earth simply opened up and everything on either side of it fell in,” Cline said. “It’s unlikely that the destruction was caused by violent human activity because there are no visible signs of fire, no weapons such as arrows that would indicate a battle, nor any unburied bodies related to combat.”
-
-“You put everything together – no fire, quick collapse, no gradual disintegration of the roof – this is equal to a violent event that caused the collapse and that big crack cutting through the palace in the orientation of the fissure,” says Yasur-Landau. “You don’t need to be Sherlock in order to deduce that this was the result of a geological event."
-
-https://www.haaretz.com/archaeology/2020-09-13/ty-article/.premium/canaanite-palace-built-on-a-fault-was-destroyed-by-quake-3-700-years-ago/0000017f-f0fd-df98-a5ff-f3fd07000000
-- Mirror: https://archive.is/gy2xq
-
-## Ebla
-
-![x](img/ebla.jpg "ebla")
-
-Ebla. Estimated destruction and final abandonment c.~1600BC. This date could well be erroneous, as it was arrived at by attributing the destruction to the Hittite conquests at that time, with no solid evidence linking the two. Pure speculation. This could easily have fallen around 1700BC.
-- [1] https://books.google.co.za/books?id=E1aF0hq1GR8C&lpg=PA211&pg=PA211#v=onepage&q&f=false
-- [2] https://en.wikipedia.org/wiki/Ebla
-
 ## Vitrified forts in Scotland
 
 ![x](img/scotland-burned.jpg "scotland burned")
@@ -111,28 +92,8 @@ Dates to around 150 AD.
 1. https://www.sciencedirect.com/science/article/abs/pii/S2352409X19304080
 2. https://en.wikipedia.org/wiki/Vitrified_fort
 
-## Ankara break in history 1700 BC - 1000 BC
-
-Due to destruction by an earthquake.
-
-## Invasion in Turkey 3700 years ago
+## Turkey settlement burned to ground 3700 years ago
 
 "A team of archaeologists has discovered the well-preserved brain and skin remnants of people who lived around 3,700 years ago in Turkey. The remains belong to two Bronze Age individuals who were found at the Tavşanlı Mound (or Tavşanlı Höyük) in Turkey's Kütahya province—located in the west of the Anatolian peninsula. The remnants belong to a young man aged 15-18 at the time of death, and another middle-aged man who was 40-45 years old when he died, the Anadolu Agency (AA) reported. Researchers believe these individuals died when their homes were set on fire and they were unable to flee during an attack around 3,700 years ago. Evidence suggests there was a large-scale attack on the city around 1700 B.C. that resulted in the entire settlement being burned to the ground."
 
 https://www.newsweek.com/archaeologists-discover-brain-remnants-people-lived-3700-years-ago-1825076
-
-## Garth Tsunami 3500 BC? Evidence doesn't support
-
-"This paper evaluates to what extent archaeological settlement sites from the Norwegian west coast exhibit traces
-of a paleotsunami impact in the mid-4th mill BCE. The timing of the Garth tsunami (~3500 cal BCE), as inferred
-from lake basins in Eastern Shetland and in Western Norway, coincides with the Early-Middle Neolithic tran-
-sition in the Western Norwegian chronology. Before and after the Garth tsunami, the west coast of Norway was
-populated by hunter-fisher-gatherers highly adapted to a marine environment. If the Garth tsunami had a direct
-impact on coastal settlements, the event could become an important mediating factor for research on the Early-
-Middle Neolithic transition in this region. The paper investigates radiocarbon dates and stratigraphic evidence
-from 15 coastal settlement sites. It applies Bayesian sequence calculation to test for congruence between site
-activity phases and the tsunami event, and a Monte Carlo based frequency analysis to test for population fluc-
-tuations. Results from these analyses do not support the hypothesis of a catastrophic impact on the hunter-fisher-
-gatherer population in Western Norway."
-
-https://sci-hub.ru/10.1016/j.jasrep.2020.102464

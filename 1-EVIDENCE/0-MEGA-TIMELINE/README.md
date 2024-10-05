@@ -17,7 +17,7 @@ Although it's clear civilizations can survive massive floods (China Xia dynasty)
 
 Promising dates:
 - 400 BC, alexander the great, paleomagnetic anomalies
-- 6200 - 5500 BC, black/mediterranean sea refilling dating
+- 6200-5400 BC, climate/historical anomalies, black/med sea refilling
 - 7500 BC, Tollman impact hypothesis, Uriel's Machine reference
 
 Speculative dates:
@@ -117,8 +117,11 @@ Physical markers:
 - narrow Irish tree rings
 - Antarctic tephra
 
-## 6200-5500 BC event
+## 6200-5400 BC event
 
+Nobulart's preferred candidate date for Noah's flood. 3700 year periodicity with 1700 BC and 9100 BC.
+
+- 5400 BC: catal huyuk abandonment
 - 5800 BC: Mayan Chichancanab lake filling
 - 6200 BC: well documented cooling and aridification event
 - 6400 BC: Black Sea refilling (William Ryan)
