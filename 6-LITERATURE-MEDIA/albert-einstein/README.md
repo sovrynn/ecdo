@@ -20,3 +20,9 @@ Velikovsky-Einstein Correspondence:
 5. https://varchive.org/cor/einstein/520826ve.htm
 
 There is some very interesting reading in notes [2] thru [5].
+
+Einstein's comments on Earth in Upheaval:
+
+![](img/EIU1.png)
+![](img/EIU2.png)
+![](img/EIU3.png)

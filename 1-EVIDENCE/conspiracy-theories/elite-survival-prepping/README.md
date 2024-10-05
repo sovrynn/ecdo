@@ -80,6 +80,32 @@ The surface area of the cave is more than 104,000 sq.m, and the total length of 
 
 [1] https://en.wikipedia.org/wiki/816_Nuclear_Military_Plant
 
+## Moscow Metro
+
+"The Moscow Metro. Metro-2 is the informal designation for a clandestine and officially unacknowledged deep underground metro system in the Moscow metropolitan area. // These facilities are interconnected by a network of deep subway lines that provide a quick and secure means of evacuation for the leadership and are intended for the national command authority in wartime. They are estimated to be between 200 m (660 ft) and 300 m (980 ft) deep, and can accommodate an estimated 10,000 people. A special subway line runs from some points in Moscow and possibly to the VIP terminal at Vnukovo Airfield"
+
+![](img/moscow-metro.png)
+
+[1] https://en.wikipedia.org/wiki/Metro-2
+
+## Kobanya Cellar System
+
+"The Kőbánya cellar system is an extensive network of subterranean, or underground spaces, in the 10th district of Budapest (Kőbánya), in Hungary. It is considered to be the largest cellar complex in the country. The floor area of the complex is variously estimated to be somewhere between 180,000–220,000 m2 (1,900,000–2,400,000 sq ft; 44–54 acres) and the combined length of the tunnels is estimated to be around 32–35 km (20–22 mi). Corridors 3–6 m (9.8–19.7 ft) wide and halls 10 m (33 ft) high are common in it. The deepest part is approximately 30 m (98 ft) under the ground surface."
+
+![](img/kobanya-cellar.jpeg)
+
+https://en.wikipedia.org/wiki/K%C5%91b%C3%A1nya_cellar_system
+
+## Shanghai Complex
+
+The Shanghai Complex. China's largest metropolis has completed building a vast bunker in case of explosions, emissions of poisonous gas or nuclear radiation. The complex covers 90,000 square meters and can accomodate 200,000 people, according to the Shanghai Morning Post.
+
+The underground haven has 15 passages nearly 2.5 miles (4km) in length that link to office towers and residential apartments. It is also connected to the subway system, enabling people to flee from one district to another. Water, power and ventilation systems can support the bunker's population for between seven and fifteen days. In times of peace, some parts can be used as garages, warehouses or commercial facilities."
+
+![](img/shanghai.jpeg)
+
+https://www.chinadaily.com.cn/china/2006-07/31/content_653317.htm
+
 ## The Oppidium
 
 https://youtu.be/37-4TOMQdjc
