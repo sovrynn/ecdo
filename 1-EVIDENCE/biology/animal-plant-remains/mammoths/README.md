@@ -44,6 +44,28 @@ That was Chan proposed mechanism - flash frozen due to supersonic wind speeds an
 
 [1] https://archive.org/details/in.ernet.dli.2015.220742 (500 pages)
 
+From the preface to The Mammoth and the Flood.
+
+"In making an appeal to my reader therefore, I would ask them to ignore metaphysics and its pernicious a priori theories and to accompany me to the facts. These facts, I claim, prove several conclusions. 
+
+They prove in the first place that a very great cataclysm or catastrophe occurred at the close of the Mammoth period, by which that animal, with its companions, were overwhelmed over a very large part of the Earth’s surface.
+
+Secondly, that this catastrophe involved a widespread flood of water, which not only killed the animals, but also buried them under continuous beds of loam or
+gravel. 
+
+Thirdly, that the same catastrophe was accompanied by a very great and sudden change of climate in Siberia, by which the animals which had previously lived in fairly temperate conditions were frozen in their flesh under the ground and have remained frozen ever since.
+
+Fourthly, that this catastrophe took place when man was already occupying the earth, and constitutes the gap which is almost universally admitted to exist between so-called paleolithic and neolithic man.
+
+Fifthly, that this catastrophe is in all probability the same one pointed out in the traditions of so many races as the primeval flood from which their legendary
+history begins. 
+
+Sixthly, that while this flood was exceedingly widespread, considerable areas escaped, and from these insular areas man, animals, and plants spread out again and reoccupied those districts which had been desolated. 
+
+Wherever we turn in the temperate regions of the world we seem to be on the track of this great catastrophe, which swept away the greater part of an ancient fauna, and which especially destroyed the larger and more unwieldy animals, allowing the smaller ones alone to escape, and which forms a great dividing line in the recent biological history of Australia as well as Europe, of Siberia as well as America. This vast effort seems from inexorable evidence to have been due to the exertion of some cataclysmic force by which the Earth’s crust was greatly disturbed, not merely locally, but over a large part of its surface.
+
+It was in consequence of this dislocation that the loose watery envelope which covers a large portion of the world was set in motion, and sweeping over the land drowned and then buried deep in gravel, loam and clay, hecatombs of living beings, a vast cemetery of life, causing a deluge apparently unparalleled in extent and completeness in any other geological period; a catastrophe which may well claim therefore to bespoken of as “ the great flood.” For the manifold proof of this portion I must appeal to the following pages, and must ask those who are sceptical to at least do me the favour to read the evidence before pronouncing judgment on the conclusion."
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Mammoth#Extinction

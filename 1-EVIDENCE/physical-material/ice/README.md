@@ -128,6 +128,12 @@ The complete 800ky record set fairly obliterates the "unprecedented warming" nar
 1. https://annas-archive.org/scidb/10.1002/2016GL068609
 2. https://www.nsf.gov/news/news_summ.jsp?cntn_id=138871
 
+## Are ice core temperature proxies reliable?
+
+Just did a quick dive into ice-core temperature proxies. It seems that an ECDO type event would completely disrupt the reliability of this proxy, as just about everything that is known to generate erroneous results would happen during such an event.
+
+[1] https://chatgpt.com/share/66ff8e5c-24c8-8005-b6b1-4294e61ecd43
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

@@ -27,3 +27,22 @@ Due to destruction by an earthquake.
 
 ![](img/catal-huyuk1.jpg)
 ![](img/catal-huyuk2.jpg)
+
+Çatal Hüyük is a tell of a very large Neolithic and Chalcolithic proto-city settlement in southern Anatolia, which existed from approximately 7500 BC to 6400 BC and flourished around 7000 BC. Excavation revealed 18 successive layers of buildings signifying various stages of the settlement and eras of history.[1] 
+
+The mystery of this site has to do with its abandonement. Why did the people of Çatal Hüyük suddenly desert their beautiful city in about 5400 BC? So far no one has come up with an answer, even a speculative one. There is no evidence that the Çatal Hüyük were defeated in war or that their city was sacked. It is one of the great puzzles of history. The people of Çatal Hüyük vanished.[2]
+
+![](img/catal-huyuk3.jpg)
+![](img/catal-huyuk4.jpg)
+![](img/catal-huyuk5.jpg)
+
+In Çatal Hüyük we find another temporal marker for a possible event 7,400 years before present (two 3,700-year (V) planetary harmonic cycles BP).
+
+1. https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk
+2. https://archive.org/details/vanishedciviliza0000read
+
+## Longxi Gansu
+
+Mudflood Buildings, A road crew accidentally stumbled upon this while building a road thru Longxi, Gansu, China
+
+See `img` for video.

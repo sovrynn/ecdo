@@ -26,8 +26,8 @@ High-certainty ECDO-like geomagnetic-excursion cataclysms:
 Although it's clear civilizations can survive massive floods (China Xia dynasty) what we would really like to see is no continuity of history during major cataclysms.
 
 Promising dates:
-- 400 BC, alexander the great, paleomagnetic anomalies
 - 6200-5400 BC, climate/historical anomalies, black/med sea refilling
+- 400 BC, alexander the great, paleomagnetic anomalies
 - 7500 BC, Tollman impact hypothesis, Uriel's Machine reference
 
 Speculative dates:
@@ -44,6 +44,7 @@ Speculative dates:
 
 - Yuan Empire downfall
 - Antarctic tephra
+- Chaco Canyon abandonment, 50 year drought
 
 ## 540 AD
 

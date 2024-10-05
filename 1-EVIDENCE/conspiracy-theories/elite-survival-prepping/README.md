@@ -57,3 +57,33 @@ https://x.com/IntEngineering/status/1452651172469243904
 ## IPFS, off-world data centers
 
 https://x.com/NoVaxForMePal/status/1529938570559078415
+
+## China Underground City
+
+"The tunnels, built from 1969 to 1979 by more than 300,000 local citizens and even school children, wind for over 30 kilometers and cover an area of 85 square kilometers eight to eighteen meters under the surface. It includes around a thousand anti-air raid structures. In the event of attack, the plan was to house forty percent of the capital’s population underground and for the remainder to move to neighboring hills.
+
+There is no authoritative information on how far the mostly hand-dug tunnels stretch, but they supposedly link all areas of central Beijing, from Xidan and Xuanwumen to Qianmen and Chongwen districts, to as far as the Western Hills.
+
+They were equipped with facilities such as stores, restaurants, clinics, schools, theaters, reading rooms, factories, a roller skating rink, a grain and oil warehouse as well as barber shops and a mushroom cultivation farm, for growing foods that require little light."
+
+![](img/beijing-city.jpg)
+
+[1] http://www.china.org.cn/english/travel/125961.htm
+
+## China Nuclear Military Plant
+
+"816 Nuclear Military Plant is an unfinished Chinese underground nuclear weapons production facility and the largest man-made tunnel structure in the world.[1] A military megaproject, the nuclear base is located near what is now suburban Fuling, a municipality in Chongqing, China. In 2010, it was opened to Chinese tourists.
+
+The surface area of the cave is more than 104,000 sq.m, and the total length of the tunnels is more than 20 kilometers. The whole complex consists of 13 levels, 18 artificial caves linked to each other, and has more than 80 roads and 130 tunnels. Automobiles are able to pass the roads and tunnels inside. The base has the “World's Largest Artificial Cave”, which has a height of 79.6 meters, roughly equal to that of a 20-floor building."
+
+![](img/china-nuclear-plant.jpg)
+
+[1] https://en.wikipedia.org/wiki/816_Nuclear_Military_Plant
+
+## The Oppidium
+
+https://youtu.be/37-4TOMQdjc
+
+## The Elite Shelter
+
+https://youtu.be/2YgYt-uxlmM

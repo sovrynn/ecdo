@@ -53,6 +53,8 @@ https://x.com/PadrePlyo/status/1837620633582424527 pretty smart way to figure ou
 
 # TODO
 
+Chaco canyon and macchu picchu
+
 Lost continent myths: https://www.msn.com/en-gb/news/world/inside-the-atlantis-of-the-sands-which-was-buried-in-storm-and-five-other-lost-worlds/ar-BB1hI3R5?ocid=winp2fptaskbarhoverent&cvid=7eb2de7e28e7479ab75829283da7b2a3&ei=8
 
 - turkey?? i still dont get this one
