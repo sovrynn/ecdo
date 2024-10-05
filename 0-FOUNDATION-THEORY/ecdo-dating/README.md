@@ -34,3 +34,37 @@ I have come across a variety of dating techniques, some of which should be taken
 - astronomical events
 
 What we want to avoid is one big game of cataclysm dating telephone - where people cite each other's dates as factual, adding their own error, going on and on, until we have one big noiseball of dates, with little real signal.
+
+## ECDO effects
+
+In the leadup:
+- Abyssal ocean heating
+- Deep crude alkane pockets heat and release organic compound into atmosphere. Methane (CH4) rises
+- Carbon-rich oceans heat up, atmospheric CO2 rises
+- global ocean current speed increasing due to deep ocean heating
+- rise in rainfall and potentially hurricanes/storms due to increased moisture from higher temps
+- rise in seismic and volcanic activity
+- magnetic field weakening
+
+During the flip:
+- magnetic field extreme weakening
+- oceanic displacement, sediment deposits, fillings of bodies of water, salt water bodies forming
+- significant seismic and volcanic activity
+	- dust clouds from the volcanoes
+
+S2:
+- volcanic ash (9 months of darkness?), blocking out sun
+- potentially dry weather due to changes in climate patterns OR weaker magnetic field
+- potentially EXTREME solar energy due to weakening magnetic field (melted cities circa 1700 BC)
+- localized climate changes due to changing latitude, changing ocean current and wind current topography
+- magnetic orientation changes, paleomagnetic anomalies
+- difficult conditions for life, narrow tree rings
+
+Human changes:
+- mass casualties from oceanic displacement, earthquakes, volcanoes
+	- genetic chokepoints, extinctions
+- famines from lack of food supply and farmable conditions
+- mass societal disruption and destruction of structures
+
+Eventually:
+- endothermic core, cold temperatures

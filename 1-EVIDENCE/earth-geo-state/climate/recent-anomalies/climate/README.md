@@ -41,3 +41,7 @@ High resolution images available here:
 ## Nepal half-century of "most intense rainfall"
 
 ![](img/nepal.jpg)
+
+## 6.0 earthquake Indonesia
+
+https://watchers.news/2024/09/23/m6-0-earthquake-hits-sulawesi-indonesia-2/

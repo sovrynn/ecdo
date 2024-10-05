@@ -17,6 +17,10 @@ If the upper mantle underneath volcanoes expands, there will be immense pressure
 
 No doubt, this would be accompanied by massive plumes of ash.
 
+## Ash Duration
+
+Seen estimates of several years from the 560 AD England volcanic eruption, and 9 months after Ogyges (Velikovsky).
+
 ## Mount St. Helens 1990 Eruption
 
 In 1980, Mount St. Helens, in the Pacific Northwest in Washington, erupted.

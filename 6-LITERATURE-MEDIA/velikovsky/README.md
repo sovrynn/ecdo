@@ -53,6 +53,25 @@ In the section entitled “The Floods of Deucalion and Ogyges,” the synchronis
 
 **Page 122: Exodus:** With the end of the Middle Kingdom in Egypt, when the Israelites left that country, the old order of seasons came to an end and a new world age began. The Fourth Book of Ezra, which borrows from some earlier sources, refers to the “end of the seasons” in these words: “I sent him [Moses] and led my people out of Egypt, and brought them to Mount Sinai, and held him by me for many days. I told him many wondrous things, showed him the secrets of the times, declared to him the end of the seasons.”
 
+### p1 chapter 6 - volcanic ash (good chapter)
+
+If the eruption of a single volcano can darken the atmosphere over
+the entire globe, a simultaneous and prolonged eruption of thou-
+sands of volcanoes would blacken the sky. And if the dust of the
+comet of —44 had a darkening effect, contact of the earth with a great
+cinder-trailing comet of the fifteenth century before this era could
+likewise cause the blackening of the sky. As this comet activated all
+the volcanoes and created
+new ones, the cumulative action of the
+eruptions and of the comet’s dust must have saturated the atmosphere
+with floating particles.
+
+The “shadow of death” is related to the time of the wanderings in
+the desert after the Exodus from Egypt. The sinister meaning of the
+words “shadow of death” corresponds with the description of the
+Ermitage Papyrus: “None can live when the sun is veiled by clouds.”
+At intervals the earth was lighted by conflagrations in the desert. [129]
+
 ### p1 ch7 quotes
 
 Joshua
@@ -84,6 +103,11 @@ who reckoned that
 Ogyges was a contemporary of Moses were also correct, except that
 Moses did not live until the Flood of Ogyges— it took place in the
 days of Joshua.
+
+pg 152 The assertion of Solinus, the author of Polyhistor, that the flood
+of Ogyges was followed by a night of nine months’ duration does
+not necessarily signify a confusion with the darkness that ensued
+after the cataclysm of the Exodus;
 
 ### p1 ch8 - the fifty two year period
 

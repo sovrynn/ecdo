@@ -96,6 +96,8 @@ Sorry to bang on about British Abbeys but you have to go with your instincts and
 
 ![](img/europe-comet.jpg)
 
+Note - "several years" of darkness.
+
 ## Citations
 
 1. Minoan: http://www.minoancrete.com/chron.htm

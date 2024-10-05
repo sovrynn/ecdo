@@ -20,7 +20,6 @@ Jesus Christ predicted the destruction of the Second Temple in Luke 21:5-38 and 
 
 The book is named after the biblical Enoch, son of Jared, about whom it is stated in Genesis 5:24 that he "walked with God; then he was no more, for God took him," which was understood to mean that he ascended to heaven during his lifetime.
 
-
 This link is to the 1906 Ethiopic version by Robert Henry Charles.  Edited from Twenty-Three MSS. Together with the Fragmentary Greek and Latin Versions.
 
 Robert Henry Charles, an eminent British theologian and scholar, was instrumental in bringing the Book of Enoch to the English-speaking world.    Born in 1855, Charles was a leading figure in the study of ancient religious texts and textual criticism. His meticulous translation of the Book of Enoch in 1893 remains a seminal work, providing valuable insights into the apocryphal books and pseudepigrapha."  He's buried in Westminster Abbey.
