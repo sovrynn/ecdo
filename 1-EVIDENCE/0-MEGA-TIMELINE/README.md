@@ -1,14 +1,22 @@
 # Holocene Mega Timeline
 
-Nobulart's planetary harmonic and cataclysm chronology timeline in `timeline.xls`.
+I still think there's so much work that can be done here. So many "if => then" ECDO implications that can be researched and fleshed out. The repo is turning into a proper goldmine but it's only the seeds for a proper refinement. Each lead could probably take a month to research properly.
+
+## Fine-Tuning
 
 Human accounts can be very useful in fine-tuning the timeline - for example, Exodus is accounted (by Velikovsky) as having happened in the spring. So if this was a global account it must have happened at the same time of the year elsewhere.
 
-Another such detail would be accounts of the Sun having a certain anomalic trajectory, which is contained in the biblical Joshua cataclysm.
+Events that are documented as being contemporary, or events where a certain temporal distance dependency is known, are also very helpful.
+
+Another such detail would be accounts of the Sun having a certain anomalic trajectory, which is contained in the biblical Joshua cataclysm. These can then be cross-referenced in other locations of the world.
 
 Historical continuity of significant continued human activity may be the easiest way to "disprove" an ECDO event. Still, it could have proved the spur for significant immigration and war, and such difficulty would make it difficult to document the event in detail, although it would have likely passed down in oral tradition.
 
-## Overview
+## Other
+
+Nobulart's planetary harmonic and cataclysm chronology timeline in `timeline.xls`.
+
+# Overview
 
 High-certainty ECDO-like geomagnetic-excursion cataclysms:
 - 2200-1700 BC

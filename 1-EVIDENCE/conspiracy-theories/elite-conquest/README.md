@@ -56,6 +56,16 @@ https://api.repository.cam.ac.uk/server/api/core/bitstreams/75916920-51f6-4f9c-a
 
 "The Control System, via the offices of its high priests of science, ensures that glaciologists do not cross over into astrophysics and that geologists do not cross over into archaeology. In this way, there is no such thing as Comparative Science." - The Secret History of the World, Laura Knight-Jadczyk (2005)
 
+## GPT sci-fi novel
+
+17.8. had a discussion with ChatGPT v 4, of the idea for a "scifi- novel", I was blown away how many of the issues raised are already manifesting themselves. Sorry, the text is in Finnish, if somebody could translate it to more common language even with ai, it would probably be easier to read. (Hard copy `kielimallin M2 iltasatu.txt`)
+
+![](img/sci-fi.jpg)
+
+Some of its suggestions for responding to a 2030 pole reversal assuming an Elite group aiming to survive even at the rest of humanity's expense ....
+
+AI does summarise ideas well.
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

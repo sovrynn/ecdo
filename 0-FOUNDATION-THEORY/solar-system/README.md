@@ -6,10 +6,6 @@ This document is dedicated to exploring parts of the solar system which may affe
 
 - `universe`: Information concerning the universe outside of Earth's solar system.
 
-## The Great Year
-
-The term Great Year has more than one major meaning. It is defined by scientific astronomy as "The period of one complete cycle of the equinoxes around the ecliptic, or about 25,800 years". [5]
-
 ## Precession of the equinoxes
 
 "In astronomy, axial precession is a gravity-induced, slow, and continuous change in the orientation of an astronomical body's rotational axis. In the absence of precession, the astronomical body's orbit would show axial parallelism.[2] In particular, axial precession can refer to the gradual shift in the orientation of Earth's axis of rotation in a cycle of approximately 26,000 years." [4]
@@ -36,23 +32,6 @@ Does this happen for the same reason that the LLVPs seem to be centered around t
 
 ![](img/llvp-viz.webp)
 
-## Great Year, Barnard's Star (hard copy here), Binary Year?
-
-Our Sun’s Potential Binary Relationship with Barnard’s Star
-https://binaryresearchinstitute.org/bri/5.9/wp-content/uploads/2023/11/Lost-Star-Found-11-11-23.pdf
-
-Is this the cause of the Great Year, and if so then every 12,000y we come closer to our binary star. Does this relate to the flippenings.
-
-They have a lot of interesting content on their website: https://binaryresearchinstitute.org/bri/
-
-They reference this ted talk, which is a good one: https://binaryresearchinstitute.org/bri/articles/there-is-something-out-there-by-mike-brown/
-
-### Related
-
-Or related to Nibiru perhaps?
-
-https://www.youtube.com/watch?v=I3ZDcj0kF_0 The great binary year
-
 ## 1930 Meteor (Example of meteor effects)
 
 "In August 1930 Father d’Alviano went to the Curuc-a River, near the Brazilian–Peruvian border, to carry out his annual apostolic mission. There, he discovered that the local people were terrified by fireballs and explosions that had occurred a few days before his arrival and that had let them believe that the world was at an end. Hundreds of eyewitnesses reported to the catholic missionary that at around 0800 hours on August 13, 1930, a fine red dust began to fall onto the forest and into the river; then people heard several earpiercing whistles that became increasingly loud. Fishermen on the river could see the fall of large fireballs. There were three distinct explosions, each causing earth tremors. The ash continued to fall until midday (Huyghe, 1996). Father d’Alviano concluded that a meteoroid had exploded in the Earth atmosphere, and a note to this effect appeared on March 31, 1931, in the Vatican Newspaper."
@@ -65,7 +44,6 @@ https://www.youtube.com/watch?v=I3ZDcj0kF_0 The great binary year
 2. https://solarscience.msfc.nasa.gov/SunspotCycle.shtml#ButterflyDiagram
 3. https://en.wikipedia.org/wiki/Milankovitch_cycles
 4. https://en.wikipedia.org/wiki/Axial_precession#:~:text=The%20precession%20of%20the%20equinoxes%20is%20caused%20by%20the%20gravitational,force%20is%20due%20to%20gravity.
-5. https://en.wikipedia.org/wiki/Great_Year
 
 # TODO
 

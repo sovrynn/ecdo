@@ -40,6 +40,10 @@ https://www.livescience.com/animals/extinct-species/siberian-gold-miners-acciden
 
 That was Chan proposed mechanism - flash frozen due to supersonic wind speeds and water due to the rotation.
 
+## The Mammoth and the Flood
+
+[1] https://archive.org/details/in.ernet.dli.2015.220742 (500 pages)
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Mammoth#Extinction

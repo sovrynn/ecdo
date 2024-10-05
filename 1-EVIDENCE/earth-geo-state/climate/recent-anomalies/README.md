@@ -20,6 +20,14 @@ The 2 ships that were moored on ny harbor supposedy for Covid were actually floa
 
 UK built a load of temporary hospitals too. Called Nightingale hospitals. Never had a patient.
 
+## Seismic uptick
+
+Interesting visualisation of the uptick in seismic activity after 1970. It lights up like a Christmas tree from then onwards. When the NMP acceleration really took off.
+
+![](img/seismic-uptick.jpg)
+
+https://youtu.be/ilFEKSZQv5o
+
 # TODO
 
 https://watchers.news/2024/09/26/swarm-of-over-100-earthquakes-hits-hanford-nuclear-site-near-tri-cities-in-washington-u-s/

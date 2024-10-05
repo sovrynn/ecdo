@@ -38,3 +38,9 @@ What holds humanity back?:
 
 Velikovsky excerpt:
 - https://nobulart.com/east-west/
+
+Atkinson (Rosicrucians):
+- https://nobulart.com/the-souls-progress/
+
+Burgoyne:
+- https://nobulart.com/the-hermetic-key/
