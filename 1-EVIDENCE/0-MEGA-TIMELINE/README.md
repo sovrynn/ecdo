@@ -85,31 +85,6 @@ This period is far enough away from 2000 BC to warrant its own investigation as 
 - Antarctic tephra
 - 1200 BC Mediterranean cooling event
 
-## 2200 - 1700 BC event
-
-This 500-year period is filled with extensive evidence from all domains, including history and physical markers. Along with accounts of mega-floods (Gun-Yu, Ogyges), we can almost be certain there was an ECDO-like event during this period. The wide spread of dates makes me wonder if there may be more than one cataclysm in this date range.
-
-Cataclysm accounts:
-- 1600-1400 BC: Biblical Exodus, Moses
-	- Possibly a contemporary of Ogyges and Gun-Yu
-- 1900-1460 BC: Deucalion
-	- Usually placed some time after Ogyges
-	- 1700-1650 BC: Minoan Crete, two catastrophes within a half century of each other
-- 1900 BC - 1700 BC: Mohenjo-Daro abandonment
-- ~1800 BC: Ancient Peru, invaders destroyed by fire, and some extended time later, 24 hours of Sun
-- 2136-1800 BC: Ogyges
-	- Said to be contemporary with Moses in Exodus, and possibly Gun-Yu
-- 2300-2000 BC: Chinese Great Gun-Yu Flood
-	- water over mountains, sun not setting for 10 days
-	- Contemporary with Korea's Dangun myth
-	- Possibly contemporary with Ogyges
-	- Backed up by 1920 BC dated Yellow River flood remnants
-
-Physical markers:
-- 1650 BC Antarctic tephra
-- bond (ice rafting) event
-- 2200-2100 BC: climate aridification event
-
 ## 3200 - 2800 BC event
 
 This 400-year period is also filled with extensive evidence that points to a global cataclysm. Multiple accounts of ECDO-like cataclysms (megafloods, Sun changing direction) from different places in the world gives us a high certainty there was an ECDO-like event during this period.

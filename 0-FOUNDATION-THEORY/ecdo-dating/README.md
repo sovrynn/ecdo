@@ -48,23 +48,32 @@ In the leadup:
 
 During the flip:
 - magnetic field extreme weakening
-- oceanic displacement, sediment deposits, fillings of bodies of water, salt water bodies forming
+- massive oceanic displacement, sediment deposits, fillings of bodies of water, salt water bodies forming
 - significant seismic and volcanic activity
 	- dust clouds from the volcanoes
+- changed trajectory of sun
 
 S2:
-- volcanic ash (9 months of darkness?), blocking out sun
+- continued volcanic activity, volcanic ash (9 months of darkness?), blocking out sun
 - potentially dry weather due to changes in climate patterns OR weaker magnetic field
 - potentially EXTREME solar energy due to weakening magnetic field (melted cities circa 1700 BC)
 - localized climate changes due to changing latitude, changing ocean current and wind current topography
 - magnetic orientation changes, paleomagnetic anomalies
 - difficult conditions for life, narrow tree rings
-
-Human changes:
-- mass casualties from oceanic displacement, earthquakes, volcanoes
-	- genetic chokepoints, extinctions
-- famines from lack of food supply and farmable conditions
-- mass societal disruption and destruction of structures
+- new sun trajectory due to different rotational orientation
+- Human changes:
+	- mass casualties from oceanic displacement, earthquakes, volcanoes
+		- genetic chokepoints, extinctions
+	- famines from lack of food supply and farmable conditions
+	- mass societal disruption and destruction of structures
+- prolonged coastline changes
+- lasts anywhere from few decades to centuries
 
 Eventually:
-- endothermic core, cold temperatures
+- endothermic core, iron accumulates in inner core hexagonal state, ocean cooling, cold temperatures
+- methane, CO2 falling as they are absorbed back into the ocean?
+
+Back to S1:
+- slow or gradual shift back
+- continued volcanic and seismic activity
+- eventually, magnetic field strengthening
