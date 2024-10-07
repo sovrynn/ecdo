@@ -33,7 +33,7 @@ Physical markers:
 
 ## Yao
 
-The Shu King, the Canon of Yao:
+The Shu King, the Canon of Yao [1]:
 
 "He commanded the Xis and Hes, in reverent accordance with (their observation of) the wide heavens, to calculate and delineate (the movements and appearances of) the sun, the moon, the stars, and the zodiacal spaces, and so to deliver respectfully the seasons to be observed by the people.
 
@@ -50,14 +50,18 @@ He further commanded the third brother He to reside in the northern region, in w
 - West, Dark Valley, setting sun, star in Xu
 - northern region, Sombre Capital
 
-https://ctext.org/shang-shu/canon-of-yao
-
 Here's a map of what these stars may be: https://www.oocities.org/syho_real/astronomy/chineseastronomy.html?20245
 
 A commentary on what these stars are: https://articles.adsabs.harvard.edu//full/1895Obs....18..323R/0000325.000.html
+
+An analysis of this account, and the stars themselves, along with star azimuths: https://articles.adsabs.harvard.edu//full/1895Obs....18..323R/0000323.000.html
 
 ## Yao Sources to check
 
 Johann Heinrich Zedler "Universal Lexicon" for Yao
 
 J Hubner, Kurze Fragen aus der politischen 1729 for Yao
+
+## Citations
+
+1. https://ctext.org/shang-shu/canon-of-yao

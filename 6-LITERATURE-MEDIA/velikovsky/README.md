@@ -72,6 +72,15 @@ words “shadow of death” corresponds with the description of the
 Ermitage Papyrus: “None can live when the sun is veiled by clouds.”
 At intervals the earth was lighted by conflagrations in the desert. [129]
 
+He goes on to discuss ambrosia, bread of the gods, that seems to be some sort of sweet carbon based substance that accumulated in the wake of the disaster.
+
+134: “When the dew fell upon the camp in the night, the manna fell
+upon it.” It was like “the hoar frost on the ground.” It had the shape
+of coriander seed, the yellowish color of bdellium, and an oily taste
+like honeycomb. It was called
+“com of heaven” and it was ground
+between stones and baked in pans 1 The manna fell from the clouds 2
+
 ### p1 ch7 quotes
 
 Joshua

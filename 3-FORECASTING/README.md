@@ -11,7 +11,7 @@ Goal is to predict when the next ECDO will happen.
 
 ## Evidence for an impending ECDO
 
-Currently, the strongest piece of evidence we have for an impending ECDO event is the accelerating north pole wander. See `EVIDENCE/earth-geo-state/geomagnetic/north-pole-wander`.
+Currently, the strongest piece of evidence we have for an impending ECDO event is the accelerating north pole wander and weakening magnetic field. See `EVIDENCE/earth-geo-state/geomagnetic/north-pole-wander`.
 
 https://github.com/user-attachments/assets/de8d7eff-800f-4030-b428-2667cd46179e
 
@@ -23,7 +23,7 @@ There will be quakes, eruptions and extreme weather due to the disruptions to th
 
 Almost certainly a globally experienced seismic movement in the hours before, and then a short time as the new dominant axis exponentially gains centrifugal dominance.
 
-The concept of a *W-shaped event*, as we have seen some potential evidence of, makes me wonder if we aren't at least 5 years to a few decades out from the actual flip. The caveat being, of course, that the leadup will bring an *intense aridification* probably involving *extreme heat*.
+The concept of a *W-shaped climate event*, as we have seen some potential past evidence of, makes me wonder if we aren't at least 5 years to a few decades out from the actual flip. The caveat being, of course, that the leadup will bring an *intense aridification* probably involving *extreme heat*.
 
 ## Best forecast date - 2030
 

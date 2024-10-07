@@ -1,6 +1,6 @@
 # Date and Triggers
 
-This folder is for predicting the date of the impending ECDO, along with potential triggers for it. Most notably, there are a host of cosmic alignments in June 2030. See `EVIDENCE/solar-system`.
+This folder is for predicting the date of the impending ECDO, along with potential triggers for it. Most notably, there are a host of cosmic alignments in June 2030 - solar minimum, planetary and gas giant alignments, comets, and more. See `EVIDENCE/solar-system`.
 
 ## When did it start?
 
