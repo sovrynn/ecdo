@@ -8,7 +8,7 @@ Human accounts can be very useful in fine-tuning the timeline - for example, Exo
 
 Events that are documented as being contemporary, or events where a certain temporal distance dependency is known, are also very helpful.
 
-Another such detail would be accounts of the Sun having a certain anomalic trajectory, which is contained in the biblical Joshua cataclysm. These can then be cross-referenced in other locations of the world.
+Another such detail would be accounts of the Sun having a certain anomalic trajectory, which is contained in the biblical Joshua cataclysm. These can then be cross-referenced wrt time of the day in other locations of the world.
 
 Historical continuity of significant continued human activity may be the easiest way to "disprove" an ECDO event. Still, it could have proved the spur for significant immigration and war, and such difficulty would make it difficult to document the event in detail, although it would have likely passed down in oral tradition.
 
@@ -26,7 +26,7 @@ High-certainty ECDO-like geomagnetic-excursion cataclysms:
 Although it's clear civilizations can survive massive floods (China Xia dynasty) what we would really like to see is no continuity of history during major cataclysms.
 
 Promising dates:
-- 6200-5400 BC, climate/historical anomalies, black/med sea refilling
+- 6200-5400 BC, climate/historical anomalies, black/med sea refilling (Nobulart's Noahic deluge date)
 - 400 BC, alexander the great, paleomagnetic anomalies
 - 7500 BC, Tollman impact hypothesis, Uriel's Machine reference
 
@@ -84,25 +84,6 @@ This period is far enough away from 2000 BC to warrant its own investigation as 
 - Narrow Irish tree rings
 - Antarctic tephra
 - 1200 BC Mediterranean cooling event
-
-## 3200 - 2800 BC event
-
-This 400-year period is also filled with extensive evidence that points to a global cataclysm. Multiple accounts of ECDO-like cataclysms (megafloods, Sun changing direction) from different places in the world gives us a high certainty there was an ECDO-like event during this period.
-
-- China Nu Wa: 2810 BC
-- Peruvian Timeline: 2900 BC Deluge
-- Eridu Genesis (Middle East): 3000 BCE
-- India, Sinking of Dwaraka: 3031 BC
-- Biblical Noahic deluge: 3500 - 2500 BC
-
-Physical markers:
-- 3000 BC: Black Sea refilling
-- 3200 BC: Compton's comet mega-compilation of physical markers
-- 3200 BC: climate change event (Staubwasser, Weiss)
-- bond event
-- narrow Irish tree rings
-- Antarctic tephra
-- Skara Brae 3000 BC "sand deposits"
 
 ## 6200-5400 BC event
 
