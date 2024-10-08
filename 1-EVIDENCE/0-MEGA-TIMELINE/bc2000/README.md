@@ -28,7 +28,7 @@ Cataclysm accounts:
 
 Physical markers:
 - 1650 BC Antarctic tephra
-- bond (ice rafting) event
+- 2200 BC bond (ice rafting) event
 - 2200-2100 BC: climate aridification event
 
 ## Yao

@@ -30,7 +30,7 @@ What if those ancient accounts of Noah living 600 years, or the Sumerian King Li
 
 What if this timeline is, say, double the length? 60 years per generation of man, on average? And the flips are once every 12k years?
 
-## Mohenjo-Daro, Pakistan, abandoned 1700 BC - Fire & Water [3]
+## Mohenjo-Daro, Pakistan, abandoned 1900 - 1700 BC - Fire & Water [3]
 
 "Built c. 2500 BCE, it was the largest settlement of the ancient Indus Valley Civilization, and one of the world's earliest major cities, contemporaneous with the civilizations of ancient Egypt, Mesopotamia, Minoan Crete, and Norte Chico. With an estimated population of at least 40,000 people, Mohenjo-daro prospered for several centuries, but by c. 1700 BCE had been abandoned, along with other large cities of the Indus Valley Civilization. The city also had large platforms perhaps intended as defense against flooding. According to a theory first advanced by Wheeler, the city could have been flooded and silted over, perhaps six times, and later rebuilt in the same location. For some archaeologists, it was believed that a final flood that helped engulf the city in a sea of mud brought about the abandonment of the site." [1]
 

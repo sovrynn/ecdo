@@ -2,17 +2,37 @@
 
 There's some bond event data overlaid with predicted ECDO dates in `EVIDENCE/solar-system`.
 
-## Bond Events
+## Bond Events [2]
 
-Bond events are North Atlantic ice rafting events that are tentatively linked to climate fluctuations in the Holocene. Eight such events have been identified. Bond events were previously believed to exhibit a roughly c. 1,500-year cycle, but the primary period of variability is now put at c. 1,000 years. [2]
+"Bond events are North Atlantic ice rafting events that are tentatively linked to climate fluctuations in the Holocene. Eight such events have been identified. Bond events were previously believed to exhibit a roughly c. 1,500-year cycle, but the primary period of variability is now put at c. 1,000 years."
+
+"The North Atlantic ice-rafting events happen to correlate with episodes of lowered lake levels in the Mid-Atlantic region of the United States,[7] the weakest[clarification needed] events of the Asian monsoon for at least the past 9,000 years,[8][9] and also correlate with most aridification events in the Middle East for the past 55,000 years (both Heinrich and Bond events)."
 
 There is a nice timeline from the Wikipedia page:
 
 ![](img/bond-event-timeline.png)
 
+### A Pervasive Millennial-Scale Cycle in North Atlantic Holocene and Glacial Climates (hard copy here)
+
+The OG "bond event" paper.
+
+"The most conspicuous evidence of variations in the North Atlantic’s Holo- cene climate comes from the same three proxies that we used to document ice-raft- ing in the North Atlantic during the last glaciation (7). One proxy is the concentra- tion of lithic grains, defined as the number of grains with diameters greater than 150 mm in 1 g of core. At both sites we found a series of increases in grain concentrations, which, although of much smaller magnitude than those of the last glaciation, are distinct and reach peak values several times that of the ambient grain concentrations (Fig. 2)."
+
+"The other two proxies are petrologic tracers, defined as the percentages of cer- tain types of lithic grains. One of the tracers is fresh volcanic glass, which comes from Iceland or Jan Mayen, and the other is hematite-stained grains, mostly quartz and feldspar, that come from sedimentary depos- its containing red beds (Fig. 3) (7). During each of the lithic events, both tracers dis- play prominent increases well above the 2s counting error (Fig. 2) (8)."
+
+"Hence, contrary to the conventional view, the North Atlantic’s Holocene cli- mate must have undergone a series of abrupt reorganizations, each with sufficient impact to force concurrent increases in de- bris-bearing drift ice at sites more than 1000 km apart and overlain today by warm, large- ly ice-free surface waters of the North At- lantic and Irminger currents. The ice-rafted debris (IRD) events exhibit a distinct pac- ing on millennial scales, with peaks at about 1400, 2800, 4200, 5900, 8100, 9400, 10,300, and 11,100 years ago."
+
 ## Ice Rafting [3]
 
 Ice rafting is the transport of various materials by ice. Various objects deposited on ice may eventually become embedded in the ice. When the ice melts after a certain amount of drifting, these objects are deposited onto the bottom of the water body, e.g., onto a river bed or an ocean floor.[1][2] These deposits are called ice rafted debris (IRD) or ice rafted deposits. Ice rafting was a primary mechanism of sediment transport during glacial episodes of the Pleistocene when sea levels were very low and much of the land was covered by large masses (sheets) of ice. The rafting of various size sediments into deeper ocean waters by icebergs became a rather important process. Ice rafting is still a process occurring today, although its impact is significantly less and much harder to gauge.
+
+### Timing of iceberg scours and massive ice-rafting events in the subtropical North Atlantic (hard copy here)
+
+![](img/heinrich-3.png)
+
+### Western Mediterranean hydro-climatic consequences of Holocene ice-rafted debris (Bond) events (hard copy here)
+
+![](img/ice-rafting-climate.png)
 
 ## Camp Century Ice Core
 

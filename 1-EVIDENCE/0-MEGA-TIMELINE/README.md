@@ -30,7 +30,7 @@ Promising dates:
 - 400 BC, alexander the great, paleomagnetic anomalies
 - 7500 BC, Tollman impact hypothesis, Uriel's Machine reference
 
-Speculative dates:
+Unlikely dates:
 - 1200 AD
 - 500 AD, tree ring anomalies (might genuinely be a comet debris event, see paper in `biology`)
 - 1200 BC, Late Minoan 2, Egypt, paleoclimate anomalies
@@ -39,12 +39,6 @@ Speculative dates:
 
 - Ancient Egypt, Herodotus: 341 generations of men up till 1290 BC (10k-4.7k years) 4 Sun changes (2 flips?)
 - Plato: "Many great deluges" since Athens and Atlantis, a significant "third great flood before Deucalion" that washed away most of Athens' fertile soil
-
-## 1200 AD
-
-- Yuan Empire downfall
-- Antarctic tephra
-- Chaco Canyon abandonment, 50 year drought
 
 ## 540 AD
 

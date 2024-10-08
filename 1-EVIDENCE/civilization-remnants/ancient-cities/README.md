@@ -46,3 +46,17 @@ In Çatal Hüyük we find another temporal marker for a possible event 7,400 yea
 Mudflood Buildings, A road crew accidentally stumbled upon this while building a road thru Longxi, Gansu, China
 
 See `img` for video.
+
+## Chaco Canyon: 1130 - 1450 climate instability and abandonment [1]
+
+"Chaco Culture National Historical Park is a United States National Historical Park in the American Southwest hosting a concentration of pueblos."
+
+"Climate change is thought to have led to the emigration of Chacoans and the eventual abandonment of the canyon, beginning with a fifty-year drought commencing in 1130."
+
+"The cohesive Chacoan system began unravelling around 1140, perhaps triggered by an extreme fifty-year drought that began in 1130;[28] chronic climatic instability, including a series of severe droughts, again struck the region between 1250 and 1450."
+
+"Some scholars suggest that violence and warfare, perhaps involving cannibalism, impelled the evacuations. Hints of such include dismembered bodies—dating from Chacoan times—found at two sites within the central canyon.[34] Yet Chacoan complexes showed little evidence of being defended or defensively sited high on cliff faces or atop mesas. Only several minor sites at Chaco have evidence of the large-scale burning that would suggest enemy raids."
+
+## Citations
+
+1. https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park
