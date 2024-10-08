@@ -2,7 +2,7 @@
 
 So you've got all the basic flood myths - Yao, Ogyges, Exodus, Joshua, etc, around this period.
 
-What I'd like to do is dig into these accounts to find the most details. Establish temporal dependencies. And establish a historical timeline of what was going on in the world at the time. Everything should line up. I also want a timeline of the events if possible. As in, flood, then X, then Y, etc.
+What I'd like to do is dig into these accounts to find the most details. Establish temporal dependencies. And establish a historical timeline of what was going on in the world at the time. Everything should line up. I also want a timeline of the exact sequence of specific climate effects if possible. For example: flood, then drought, then Y, etc.
 
 I'll just paste in what I have for now.
 
