@@ -1,9 +1,13 @@
 # 600 AD Event
 
-- tree ring anomalies
-- bond event
-- Baillie comet impact hypothesis
+- 540 AD tree ring anomalies
+- 600 AD bond event
+- 540 AD Baillie comet impact hypothesis
 - Britain comet impact
+
+In terms of an exact date, probably mid 6th century (540 ADish) seems most likely in terms of convergence of existing evidence.
+
+Baillie, a tree ring researcher, has compiled an impressive 540 AD comet impact hypothesis synthesis of historical evidence.
 
 ## India History [1,3]
 
@@ -27,13 +31,23 @@ Of note is the volcanic winter of 536 - "Snow reportedly falls in August, which 
 
 Still, I see no mention of a flood.
 
+### Northern Dynasties
+
+"As conflict swelled in the north between successive leaders, Gao Huan took control of the east and Luoyang (holding Emperor Xiaojing of Eastern Wei as a puppet ruler) by 534, while his rival Yuwen Tai took control of the west and the traditional Chinese capital of Chang'an by 535. The Western regime was dominated by the sinicized nobles and their Han bureaucrats while the Eastern regime was controlled by the traditional steppe tribes... Eventually, Gao Huan's son Gao Yang forced the Eastern Wei emperor to abdicate in favor of his claim to the throne, establishing the Northern Qi dynasty (551–577). Afterward, Yuwen Tai's son Yuwen Jue seized the throne of power from Emperor Gong of Western Wei, establishing the Northern Zhou dynasty (557–580)."
+
+### Southern Dynasties
+
+"Despite Emperor Wu's assurances, Hou decided to rebel in the name of Xiao Dong, the grandson of the former crown prince Xiao Tong who died in 531 and was removed from crown prince because of conflicts with his father... However, Chen Baxian was displeased with the arrangements, and in a surprise move killed Wang and deposed Emperor Min in favor of Xiao Fangzhi who became Emperor Jing of Liang. After a short reign, Chen deposed Emperor Jing and took power himself as Emperor Wu of Chen in 557." [7]
+
 ## Europe - Dark Ages
 
 The Roman Empire split into the Western and Eastern in 395.
 
 "The Dark Ages is a term for the Early Middle Ages (c. 5th–10th centuries), or occasionally the entire Middle Ages (c. 5th–15th centuries), in Western Europe after the fall of the Western Roman Empire, which characterises it as marked by economic, intellectual, and cultural decline." [5]
 
-## Plague of Justinian [6]
+A major plague (detailed below) but no obvious flood mention.
+
+### Plague of Justinian [6]
 
 "The plague of Justinian or Justinianic plague (AD 541–549) was an epidemic that afflicted the entire Mediterranean Basin, Europe, and the Near East, severely affecting the Sasanian Empire and the Byzantine Empire, especially Constantinople.[1][2][3] The plague is named for the Byzantine Emperor Justinian I (r. 527–565), who according to his court historian Procopius contracted the disease and recovered in 542, at the height of the epidemic which killed about a fifth of the population in the imperial capital.[1][2] The contagion arrived in Roman Egypt in 541, spread around the Mediterranean Sea until 544, and persisted in Northern Europe and the Arabian Peninsula until 549. By 543, the plague had spread to every corner of the empire.[4][1] As the first episode of the first plague pandemic, it had profound economic, social, and political effects across Europe and the Near East and cultural and religious impact on Eastern Roman society."
 
@@ -45,3 +59,4 @@ The Roman Empire split into the Western and Eastern in 395.
 4. https://en.wikipedia.org/wiki/Gupta_Empire
 5. https://en.wikipedia.org/wiki/Dark_Ages_(historiography)
 6. https://en.wikipedia.org/wiki/Plague_of_Justinian
+7. https://en.wikipedia.org/wiki/Northern_and_Southern_dynasties

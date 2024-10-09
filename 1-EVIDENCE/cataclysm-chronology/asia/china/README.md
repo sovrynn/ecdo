@@ -62,6 +62,12 @@ Source: https://www.science.org/doi/10.1126/science.aaf0842
 
 PDF included in this folder.
 
+#### Jishi Gorge outburst flood (1920 BC)
+
+Wikipedia entry on the above research.
+
+https://en.wikipedia.org/wiki/Jishi_Gorge_outburst_flood
+
 ## Majiayao culture (3300 - 2000 BC) [5]
 
 Some interesting tidbits suggesting potential changes around 3000 BC:

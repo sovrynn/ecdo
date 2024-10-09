@@ -9,6 +9,8 @@ I don't see bond events or tree ring anomalies around these dates, at least in t
 
 My base case is no ECDO flip, and simply a period of regular rotational and magnetic variation that explains these "anomalies".
 
+In terms of an exact date, I don't see any convergence for a specific date. Anywhere in the range of 1130 to 1350 would be reasonable.
+
 ## 1169 Sicily Earthquake
 
 "The 1169 Sicily earthquake occurred on 4 February 1169 at 08:00 local time on the eve of the feast of St. Agatha of Sicily (in southern Italy). It had an estimated magnitude of between 6.4 and 7.3 and an estimated maximum perceived intensity of X (Extreme) on the Mercalli intensity scale. The cities of Catania, Lentini and Modica were severely damaged, and the earthquake also triggered a paleotsunami. Overall, the earthquake is estimated to have caused the deaths of at least 15,000 people."
@@ -19,9 +21,15 @@ https://en.wikipedia.org/wiki/1169_Sicily_earthquake
 
 ## Chinese History
 
-### Yuan Empire Downfall - 1300 AD
+There are two "yellow river floods" but looking at the lengthy list of yellow river floods [4] I'm not sure how much stock to put in this.
 
-This all happened 700 years ago - during the Wolf Minimum. "This is what seems to have happened to the Yuan Empire in the fourteenth century. Historical records of this era are filled with natural disasters, especially between 1300 and 1359. This period witnessed a surge in every imaginable type of natural disaster all over the country: frequent super typhoons along the southeastern coast; recurrent floods of both the Yangtze and Yellow River deltas; locust plagues (associated with droughts) on the central plain; and two significant earthquakes in central China in 1303 and 1305 that caused over 270,000 fatalities. Last but not least, a series of epidemics swept through the region between 1352 and 1362, the worst of which caused two hundred thousand deaths in the capital area alone in 1358. The Chinese scholar He Fuqiang has calculated that, in the 109 years between 1260 and 1368, the empire suffered at least two major disasters per year, with five different disasters occurring in four out of every five years. For more than a third of the Yuan era, the empire experienced at least seven distinct natural calamities within the same year." - this all sounds a lot like what's going on across much of Asia right now. They must have had a lot of livestock to have caused such serious climate change 700 years ago.
+### 1194 Yellow River Flood
+
+"The 1194 Yellow River flood was a series of natural disasters along the Yellow River in China during the Jurchen Jin dynasty."
+
+Source: Ramsey, Robert. "Languages of China". China Off Center: Mapping the Margins of the Middle Kingdom. Univ. of Hawaii Press, 2002.
+
+https://en.wikipedia.org/wiki/1194_Yellow_River_flood
 
 ### 1200 BC event: Song Dynasty
 
@@ -30,6 +38,16 @@ This all happened 700 years ago - during the Wolf Minimum. "This is what seems t
 This part of Chinese history seems to be well dated. The Song Dynasty has significant happenings around 1200.
 
 "Although the Song dynasty was able to hold back the Jin, a new foe came to power over the steppe, deserts, and plains north of the Jin dynasty. The Mongols, led by Genghis Khan (r. 1206–1227), initially invaded the Jin dynasty in 1205 and 1209, engaging in large raids across its borders, and in 1211 an enormous Mongol army was assembled to invade the Jin.[48] The Jin dynasty was forced to submit and pay tribute to the Mongols as vassals; when the Jin suddenly moved their capital city from Beijing to Kaifeng, the Mongols saw this as a revolt.[49] Under the leadership of Ögedei Khan (r.1229–1241), both the Jin dynasty and Western Xia dynasty were conquered by Mongol forces in 1233/34."
+
+### Yuan Empire Downfall - 1300 AD
+
+This all happened 700 years ago - during the Wolf Minimum. "This is what seems to have happened to the Yuan Empire in the fourteenth century. Historical records of this era are filled with natural disasters, especially between 1300 and 1359. This period witnessed a surge in every imaginable type of natural disaster all over the country: frequent super typhoons along the southeastern coast; recurrent floods of both the Yangtze and Yellow River deltas; locust plagues (associated with droughts) on the central plain; and two significant earthquakes in central China in 1303 and 1305 that caused over 270,000 fatalities. Last but not least, a series of epidemics swept through the region between 1352 and 1362, the worst of which caused two hundred thousand deaths in the capital area alone in 1358. The Chinese scholar He Fuqiang has calculated that, in the 109 years between 1260 and 1368, the empire suffered at least two major disasters per year, with five different disasters occurring in four out of every five years. For more than a third of the Yuan era, the empire experienced at least seven distinct natural calamities within the same year." - this all sounds a lot like what's going on across much of Asia right now. They must have had a lot of livestock to have caused such serious climate change 700 years ago.
+
+### 1344 Yellow River flood
+
+"The 1344 Yellow River flood was a major natural disaster during the Yuan dynasty of Imperial China. The impact was devastating both for the peasants of the area as well as the leaders of the empire. The Yuan dynasty was waning, and the emperor conscripted enormous teams to build new embankments for the river. The harsh working conditions helped fuel rebellions that led to the founding of the Ming dynasty."
+
+https://en.wikipedia.org/wiki/1344_Yellow_River_flood
 
 ## Egypt History
 
@@ -52,6 +70,7 @@ India was also being conquered by the Muslims during this time.
 1. https://en.wikipedia.org/wiki/Song_dynasty
 2. https://en.wikipedia.org/wiki/Ayyubid_dynasty
 3. https://en.wikipedia.org/wiki/Muslim_conquests_in_the_Indian_subcontinent
+4. https://en.wikipedia.org/wiki/Yellow_River_flood
 
 ## ChatGPT: Notable Cataclysmic Events Around 1200 AD
 
