@@ -1,4 +1,4 @@
-# 1200 AD Event - Initial Verdict: Unlikely
+# 1200 AD Event - Initial Verdict: Highly Unlikely
 
 - 1130-1450: Chaco Canyon abandonment, drought and climate instability
 - 1169 Sicily Earthquake

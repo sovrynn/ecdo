@@ -68,6 +68,10 @@ Wikipedia entry on the above research.
 
 https://en.wikipedia.org/wiki/Jishi_Gorge_outburst_flood
 
+### A buried past: five thousand years of (pre) history on the Jing-Wei floodplain (hard copy here)
+
+"In spite of a rather long hiatus in occupation from the second century BCE to the twelfth century CE, the evidence shows that there are close similarities in human-environment relations and even continuities into the modern period."
+
 ## Majiayao culture (3300 - 2000 BC) [5]
 
 Some interesting tidbits suggesting potential changes around 3000 BC:
@@ -102,6 +106,16 @@ This all happened 700 years ago - during the Wolf Minimum. "This is what seems t
 
 1. https://sci-hub.ru/10.1515/9783110660784-008
 2. https://en.wikipedia.org/wiki/Solar_cycle
+
+## THE FOUR FLOOD MYTH TRADITIONS OF CLASSICAL CHINA (hard copy here)
+
+"Yet, since some important other texts record major myths of Nil Kua as a primeval cosmogonic deity, I have placed the Nil Kua flood myth first."
+
+The Nil Kua flood myth occurs in Chapter Six, "Instruction on an Examination into the Obscure" (Lan ming hsiin), which follows on from opening chapters on the creation of the world, the celestial motion, and the physical forms of the earth.
+
+In the time of the remote past, the four limits [of the cosmos] collapsed. The Nine Regions split up. Heaven could not cover all things uniformly, and earth could not carry everything at once. Fires raged fiercely and could not be extinguished. Water surged and spread without abating.
+
+The narrative consists of two parts. The first half relates the cause (but not the ultimate cause) and effect of a world catastrophe which generates fire and flood, and the saving action of the creatrix, Nil Kua, who restores the damaged cosmos. The flood is emphasized, rather than the conflagration in this account. The second half narrates how in the postdiluvian world the goddess is assumed into heaven to take her place in a new order of the divine pantheon.
 
 ## Citations
 

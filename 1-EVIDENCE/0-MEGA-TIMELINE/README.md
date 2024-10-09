@@ -33,10 +33,12 @@ Promising dates:
 
 Require further investigation:
 - 400 BC, alexander the great, paleomagnetic anomalies
-- 550 AD, tree ring anomalies (might genuinely be a comet debris event, see paper in `biology`)
 - 1200 BC, Late Minoan 2, Egypt, paleoclimate anomalies
 
 Unlikely dates:
+- 550 AD, tree ring anomalies (might genuinely be a comet debris event, see paper in `biology`)
+
+Highly unlikely dates:
 - 1200 AD
 
 ## Non-exact cataclysm accounts
