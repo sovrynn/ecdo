@@ -1,11 +1,21 @@
-# 1200 AD Event - Verdict: Unlikely
+# 1200 AD Event - Initial Verdict: Unlikely
 
 - 1130-1450: Chaco Canyon abandonment, drought and climate instability
 - 1169 Sicily Earthquake
 - 1190/1252 CE: Antarctic tephra
 - 1300 AD: Yuan Empire downfall
 
-I don't see bond events or tree ring anomalies around these dates, at least in the notable literature, which bothers me. Also no notable "global flood" narratives in this most recent period of history. My base case is no ECDO flip, and simply a period of regular rotational and magnetic variation that explains these "anomalies".
+I don't see bond events or tree ring anomalies around these dates, at least in the notable literature, which bothers me. Also no notable "global flood" narratives in this most recent period of history, along with major happenings in Egypt, India, and China.
+
+My base case is no ECDO flip, and simply a period of regular rotational and magnetic variation that explains these "anomalies".
+
+## 1169 Sicily Earthquake
+
+"The 1169 Sicily earthquake occurred on 4 February 1169 at 08:00 local time on the eve of the feast of St. Agatha of Sicily (in southern Italy). It had an estimated magnitude of between 6.4 and 7.3 and an estimated maximum perceived intensity of X (Extreme) on the Mercalli intensity scale. The cities of Catania, Lentini and Modica were severely damaged, and the earthquake also triggered a paleotsunami. Overall, the earthquake is estimated to have caused the deaths of at least 15,000 people."
+
+"Tsunami deposits correlated with this earthquake have been found both onshore[7] and offshore.[8] The tsunami is also thought to be responsible for moving several large boulders from the middle of the sublittoral zone onto the coast between Augusta and Syracuse."
+
+https://en.wikipedia.org/wiki/1169_Sicily_earthquake
 
 ## Chinese History
 
@@ -21,17 +31,27 @@ This part of Chinese history seems to be well dated. The Song Dynasty has signif
 
 "Although the Song dynasty was able to hold back the Jin, a new foe came to power over the steppe, deserts, and plains north of the Jin dynasty. The Mongols, led by Genghis Khan (r. 1206–1227), initially invaded the Jin dynasty in 1205 and 1209, engaging in large raids across its borders, and in 1211 an enormous Mongol army was assembled to invade the Jin.[48] The Jin dynasty was forced to submit and pay tribute to the Mongols as vassals; when the Jin suddenly moved their capital city from Beijing to Kaifeng, the Mongols saw this as a revolt.[49] Under the leadership of Ögedei Khan (r.1229–1241), both the Jin dynasty and Western Xia dynasty were conquered by Mongol forces in 1233/34."
 
-## 1169 Sicily Earthquake
+## Egypt History
 
-"The 1169 Sicily earthquake occurred on 4 February 1169 at 08:00 local time on the eve of the feast of St. Agatha of Sicily (in southern Italy). It had an estimated magnitude of between 6.4 and 7.3 and an estimated maximum perceived intensity of X (Extreme) on the Mercalli intensity scale. The cities of Catania, Lentini and Modica were severely damaged, and the earthquake also triggered a paleotsunami. Overall, the earthquake is estimated to have caused the deaths of at least 15,000 people."
+Egypt was under Muslim rule during this period.
 
-"Tsunami deposits correlated with this earthquake have been found both onshore[7] and offshore.[8] The tsunami is also thought to be responsible for moving several large boulders from the middle of the sublittoral zone onto the coast between Augusta and Syracuse."
+"After Saladin's death in 1193, his sons contested control of the sultanate, but Saladin's brother al-Adil ultimately became the sultan in 1200. All of the later Ayyubid sultans of Egypt were his descendants. In the 1230s, the emirs of Syria attempted to assert their independence from Egypt and the Ayyubid realm remained divided until Sultan as-Salih Ayyub restored its unity by subduing most of Syria, except Aleppo, by 1247. By then, local Muslim dynasties had driven out the Ayyubids from Yemen, the Hijaz, and parts of Mesopotamia. After his death in 1249, as-Salih Ayyub was succeeded in Egypt by his son al-Mu'azzam Turanshah. However, the latter was soon overthrown by his Mamluk generals who had repelled a Crusader invasion of the Nile Delta. This effectively ended Ayyubid power in Egypt. Attempts by the emirs of Syria, led by an-Nasir Yusuf of Aleppo, to wrest back Egypt failed. In 1260, the Mongols sacked Aleppo and conquered the Ayyubids' remaining territories soon after. The Mamluks, who expelled the Mongols, maintained the Ayyubid principality of Hama until deposing its last ruler in 1341." [2]
 
-https://en.wikipedia.org/wiki/1169_Sicily_earthquake
+## India History
+
+India was also being conquered by the Muslims during this time.
+
+"The Muslim conquests in the Indian subcontinent mainly took place between the 13th and the 18th centuries, establishing the Indo-Muslim period."
+
+"After the capture of Lahore and the end of the Ghaznavids, the Ghurid ruler Muhammad of Ghor laid the foundation of Muslim rule in India in 1192. In 1202, Bakhtiyar Khalji led the Muslim conquest of Bengal, marking the easternmost expansion of Islam at the time."
+
+"The disintegration of the Delhi Sultanate, capped by Timur's invasion in 1398, caused several Muslim sultanates and dynasties to emerge across the Indian subcontinent, such as the Gujarat Sultanate, Malwa Sultanate, Bahmani Sultanate, Jaunpur Sultanate, Madurai Sultanate, and the Bengal Sultanate." [3]
 
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Song_dynasty
+2. https://en.wikipedia.org/wiki/Ayyubid_dynasty
+3. https://en.wikipedia.org/wiki/Muslim_conquests_in_the_Indian_subcontinent
 
 ## ChatGPT: Notable Cataclysmic Events Around 1200 AD
 

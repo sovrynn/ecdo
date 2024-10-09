@@ -2,6 +2,8 @@
 
 I still think there's so much work that can be done here. So many "if => then" ECDO implications that can be researched and fleshed out. The repo is turning into a proper goldmine but it's only the seeds for a proper refinement. Each lead could probably take a month to research properly.
 
+The scale is key here. We aren't looking for droughts, or floods, or famines. We are looking for the land burning, decade and century long famines, water flowing over mountains, civilizations wiped out. Understand the scale involved here.
+
 ## Fine-Tuning
 
 Human accounts can be very useful in fine-tuning the timeline - for example, Exodus is accounted (by Velikovsky) as having happened in the spring. So if this was a global account it must have happened at the same time of the year elsewhere.
@@ -27,25 +29,20 @@ Although it's clear civilizations can survive massive floods (China Xia dynasty)
 
 Promising dates:
 - 6200-5400 BC, climate/historical anomalies, black/med sea refilling (Nobulart's Noahic deluge date)
-- 400 BC, alexander the great, paleomagnetic anomalies
 - 7500 BC, Tollman impact hypothesis, Uriel's Machine reference
+
+Require further investigation:
+- 400 BC, alexander the great, paleomagnetic anomalies
+- 500 AD, tree ring anomalies (might genuinely be a comet debris event, see paper in `biology`)
+- 1200 BC, Late Minoan 2, Egypt, paleoclimate anomalies
 
 Unlikely dates:
 - 1200 AD
-- 500 AD, tree ring anomalies (might genuinely be a comet debris event, see paper in `biology`)
-- 1200 BC, Late Minoan 2, Egypt, paleoclimate anomalies
 
 ## Non-exact cataclysm accounts
 
 - Ancient Egypt, Herodotus: 341 generations of men up till 1290 BC (10k-4.7k years) 4 Sun changes (2 flips?)
 - Plato: "Many great deluges" since Athens and Atlantis, a significant "third great flood before Deucalion" that washed away most of Athens' fertile soil
-
-## 540 AD
-
-- tree ring anomalies
-- Baillie comet impact hypothesis
-- bond event
-- Britain comet impact
 
 ## 400 BC
 

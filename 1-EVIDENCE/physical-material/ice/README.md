@@ -2,6 +2,8 @@
 
 There's some bond event data overlaid with predicted ECDO dates in `EVIDENCE/solar-system`.
 
+As with many of these so called "historical events", what happens is that since we weren't actually there to witness the events in the past, some narrative story is constructed that matches the available evidence. Bond events (ice rafting + RCC (rapid climate change)) are no different - these events are reverse engineered from proxy signals. It's best to dive into the actual proxy signals to be able to develop a more granular level of analysis.
+
 ## Bond Events [2]
 
 "Bond events are North Atlantic ice rafting events that are tentatively linked to climate fluctuations in the Holocene. Eight such events have been identified. Bond events were previously believed to exhibit a roughly c. 1,500-year cycle, but the primary period of variability is now put at c. 1,000 years."

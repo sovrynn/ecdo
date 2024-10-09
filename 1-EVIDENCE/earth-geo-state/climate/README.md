@@ -70,6 +70,12 @@ This general pattern masks a degree of local complexity caused by tectonic movem
 
 [1] https://link.springer.com/article/10.1007/s11457-022-09339-y
 
+## Volcanic Winter of 536
+
+"The volcanic winter of 536 was the most severe and protracted episode of climatic cooling in the Northern Hemisphere in the last 2,000 years.[1] The volcanic winter was caused by at least three simultaneous eruptions of uncertain origin, with several possible locations proposed in various continents. Most contemporary accounts of the volcanic winter are from authors in Constantinople[citation needed], the capital of the Eastern Roman Empire, although the impact of the cooler temperatures extended beyond Europe. Modern scholarship has determined that in early AD 536 (or possibly late 535), an eruption ejected massive amounts of sulfate aerosols into the atmosphere, which reduced the solar radiation reaching the Earth's surface and cooled the atmosphere for several years. In March 536, Constantinople began experiencing darkened skies and lower temperatures."
+
+https://en.wikipedia.org/wiki/Volcanic_winter_of_536
+
 ## Peltier Effect
 
 What could cause the the dramatic shift from bolling allerod to younger dryas where the warm and cooler hemispheres swapped places so rapidly, perhaps a poleshift?

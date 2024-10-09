@@ -77,3 +77,14 @@ Back to S1:
 - slow or gradual shift back
 - continued volcanic and seismic activity
 - eventually, magnetic field strengthening
+
+## Establishing Historical Chronologies
+
+A decent framework may be to look at the historical happenings of the seven "cradles of civilization":
+- Mesopotamia
+- Egypt
+- India
+- China
+- Iran
+- Peru
+- Mesoamerica

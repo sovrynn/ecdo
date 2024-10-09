@@ -47,7 +47,7 @@ Mudflood Buildings, A road crew accidentally stumbled upon this while building a
 
 See `img` for video.
 
-## Chaco Canyon: 1130 - 1450 climate instability and abandonment [1]
+## Chaco Canyon (Great Basin): 1130 - 1450 climate instability and abandonment [1]
 
 "Chaco Culture National Historical Park is a United States National Historical Park in the American Southwest hosting a concentration of pueblos."
 
