@@ -9,7 +9,7 @@ All manner of potential evidence for ECDO events.
 - `civilization-remnants`: Archaelogy, ancient cities, human remains.
 
 **Micro**:
-- `physical-material`: Soil, land, ice. Paleomagnetic and paleoclimate data.
+- `physical-material`: Soil, land, ice. Paleomagnetic and paleoclimate data. Volcanic eruptions.
 - `biology`: Dead animals and plants, tree rings.
 
 **Macro**:

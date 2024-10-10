@@ -2,7 +2,7 @@
 
 I still think there's so much work that can be done here. So many "if => then" ECDO implications that can be researched and fleshed out. The repo is turning into a proper goldmine but it's only the seeds for a proper refinement. Each lead could probably take a month to research properly.
 
-The scale is key here. We aren't looking for droughts, or floods, or famines. We are looking for the land burning, decade and century long famines, water flowing over mountains, civilizations wiped out. Understand the scale involved here.
+The scale is key here. We aren't looking for droughts, or floods, or famines. We are looking for a convergence of the land burning, decade and century long famines, water flowing over mountains, civilizations wiped out. Understand the scale involved here.
 
 ## Fine-Tuning
 
@@ -10,9 +10,9 @@ Human accounts can be very useful in fine-tuning the timeline - for example, Exo
 
 Events that are documented as being contemporary, or events where a certain temporal distance dependency is known, are also very helpful.
 
-Another such detail would be accounts of the Sun having a certain anomalic trajectory, which is contained in the biblical Joshua cataclysm. These can then be cross-referenced wrt time of the day in other locations of the world.
+Another such detail would be accounts of the Sun having a certain specific anomalic trajectory (ex: the biblical Joshua cataclysm). These can then be cross-referenced wrt time of the day in other locations of the world.
 
-Historical continuity of significant continued human activity may be the easiest way to "disprove" an ECDO event. Still, it could have proved the spur for significant immigration and war, and such difficulty would make it difficult to document the event in detail, although it would have likely passed down in oral tradition.
+Historical continuity of significant continued human activity without a recorded account of a flood may be the easiest way to "disprove" an ECDO event. Still, the ensuing chaos may have made it difficult to document the event properly.
 
 ## Other
 

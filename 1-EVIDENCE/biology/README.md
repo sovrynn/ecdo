@@ -42,6 +42,11 @@ Peaks correspond to narrow ring anomalies. A "narrowness index" formula was cons
 
 "We found that the three highest values in the prehistoric period, at 1153 BC, 3199 BC and 4377 BC, corresponded to three of the six major acidity peaks observed during this period in the Camp Century ice core..."
 
+## bristlecone pine tree rings and volcanic eruptions over the last 5000 yr (hard copy here)
+
+![](img/bristlecone-pine2.png)
+![](img/bristlecone-pine.png)
+
 ## Clam shell analysis - El Nino 3700 year history
 
 ![](img/el-nino-3700.jpg)
