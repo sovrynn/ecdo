@@ -9,7 +9,7 @@ In terms of an exact date, probably mid 6th century (540 ADish) seems most likel
 
 Baillie, a tree ring researcher, has compiled an impressive 540 AD comet impact hypothesis synthesis of historical evidence.
 
-My current verdict is that there is just enough evidence that there was some kind of global climate anomaly during this time but not enough evidence to suggest a **global ECDO event**. I see no accounts of decades-long cataclysms or mountain-high floods. Therefore I deem this event *unlikely* in terms of an ECDO flip. Based on the sparse material I have so far, something like a brush with a comet debris cloud seems more reasonable.
+My current verdict is that there is just enough evidence that there was some kind of global climate anomaly during this time but not enough evidence to suggest a **global ECDO event**. I see no accounts of decades-long cataclysms or mountain-high floods, while there also seem to be significant historical happenings all over the globe during the most likely candidate date. Therefore I deem this event *unlikely* in terms of an ECDO flip. Based on the sparse material I have so far, something like a brush with a comet debris cloud seems more reasonable.
 
 Still, what I've found so far warrants further investigation. Baillie's work has a lot of leads for further investigation.
 
