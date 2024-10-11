@@ -1,16 +1,16 @@
 # 2200 - 1700 BC event
 
-So you've got all the basic flood myths - Yao, Ogyges, Exodus, Joshua, etc, around this period.
+This 500-year period is filled with extensive evidence from all domains, including history and physical markers. Along with accounts of mega-floods and the Sun changing trajectory (Gun-Yu, Ogyges), we can almost be certain there was an ECDO-like event during this period.
 
-What I'd like to do is dig into these accounts to find the most details. Establish temporal dependencies. And establish a historical timeline of what was going on in the world at the time. Everything should line up. I also want a timeline of the exact sequence of specific climate effects if possible. For example: flood, then drought, then Y, etc.
+What I want to do here is to organize all the information and establish some temporal dependencies to create a timeline of this period. Everything should line up.
 
-I'll just paste in what I have for now.
+One of the key questions is to figure out how many cataclysms happened during this period. The wide spread of dates makes me wonder if there may be more than one global event somehow.
+
+I also want a timeline of the exact sequence of specific climate effects if possible. For example: flood, then drought, then Y, etc.
 
 ## Overview
 
-This 500-year period is filled with extensive evidence from all domains, including history and physical markers. Along with accounts of mega-floods (Gun-Yu, Ogyges), we can almost be certain there was an ECDO-like event during this period. The wide spread of dates makes me wonder if there may be more than one cataclysm in this date range.
-
-Cataclysm accounts:
+Cataclysm accounts, events:
 - 1600-1400 BC: Biblical Exodus, Moses
 	- Possibly a contemporary of Ogyges and Gun-Yu
 - 1900-1460 BC: Deucalion
@@ -28,8 +28,15 @@ Cataclysm accounts:
 
 Physical markers:
 - 1650 BC Antarctic tephra
+- 1960 BC Deception Island volcano, Antarctica
 - 2200 BC bond (ice rafting) event
 - 2200-2100 BC: climate aridification event
+
+## Sun changing trajectory
+
+- Gun-Yu flood
+- Peru (Inca) myths
+- Joshua
 
 ## Yao
 
@@ -65,3 +72,7 @@ J Hubner, Kurze Fragen aus der politischen 1729 for Yao
 ## Citations
 
 1. https://ctext.org/shang-shu/canon-of-yao
+
+# TODO
+
+check India and Mesoamerica

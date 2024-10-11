@@ -1,17 +1,18 @@
 # 3200 - 2800 BC event
 
-This 400-year period is filled with extensive evidence that points to a global cataclysm. Most notably, multiple accounts of ECDO-like cataclysms (megafloods, Sun changing direction, land sinking) from all cradles of civilization, dated to approximately the same time, gives us a high certainty there was an ECDO-like event during this period.
+This 400-year period is filled with extensive evidence that points to a global cataclysm. Most notably, multiple accounts of ECDO-like cataclysms (megafloods, Sun changing direction, land sinking) from all cradles of civilization, dated to approximately the same time, gives us a high certainty there was an ECDO-like event during this period. The convergence of evidence during this period is the strongest out of all ECDO candidate dates.
 
 Cataclysm accounts:
 - China Nu Wa: 2810 BC
 - Eridu Genesis (Middle East): 3000 BCE
 - India, Sinking of Dwaraka: 3031 BC
-- Peruvian Timeline: 2900 BC **Year 0** (Montesino assumed to be "The Deluge")
+- Peruvian Timeline, Inca mythology: 2900 BC, **Year 0** (Montesino assumed to be "The Deluge")
 - Biblical Noahic deluge: 3500 - 2500 BC
 
 Physical markers:
 - 3000 BC: Black Sea refilling that outpaces sea level rise
 - 3200 BC: Compton's comet mega-compilation of physical markers
+	- Mayan long count calendar
     - Babylonian, Mesoamerican, Egyptian floods, flash freeze events
 - 3200 BC: climate change event (Staubwasser, Weiss)
 - narrow Irish tree rings
@@ -19,6 +20,8 @@ Physical markers:
 - Skara Brae 3000 BC "sand deposits"
 - Kilimanjaro 3200 BC ice core anomaly
 - Camp Century 2800 BC ice core anomaly
+
+All the evidence is spread throughout the repo but I'll include deeper investigations here.
 
 ## Chinese Nu Wa Myth Dating
 
