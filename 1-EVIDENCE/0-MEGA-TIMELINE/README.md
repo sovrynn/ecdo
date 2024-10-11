@@ -25,7 +25,7 @@ High-certainty ECDO-like geomagnetic-excursion cataclysms:
 - 3200-2800 BC
 - Younger Dryas, ~9600 BC
 
-Although it's clear civilizations can survive massive floods (China Xia dynasty) what we would really like to see is no continuity of history during major cataclysms.
+Although it's clear civilizational structures can survive massive floods (China Xia dynasty) what we would really like to see is no continuity of history during major cataclysms.
 
 Promising dates:
 - 6200-5400 BC, climate/historical anomalies, black/med sea refilling (Nobulart's Noahic deluge date)
