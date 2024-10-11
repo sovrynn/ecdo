@@ -90,7 +90,7 @@ Commentary on the sulfur/sulfuric/sulfuric acid concentrations at this date and 
 
 e. Chevrons consisting of sediments thrown up from deep ocean floor on coastlines surrounding location of the Burkle Crater.
 
-1) Miles long and more than 100 m tall, some covering an area as large as Manhattan.  It would take a tsunami 600 ft tall to produce them.
+1) Miles long and more than 100 m tall, some covering an area as large as Manhattan. It would take a tsunami 600 ft tall to produce them.
 
 2) Dee Breger analzed samples of chevron sediment in October, 2006, using “a scanning electron microscope (SEM) and found deep-ocean microfossils (benthic foraminifera) that had been splashed with molten iron, nickel and chrome in proportions consistent with a chondritic meteor”.
 

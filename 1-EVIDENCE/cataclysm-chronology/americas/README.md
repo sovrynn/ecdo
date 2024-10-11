@@ -66,6 +66,12 @@ From Researches, Concerning the Institutions and Monuments of the Ancient Inhabi
 
 [1] https://sci-hub.ru/10.1017/cbo9780511920240.009
 
+## 1800 BC Caral Abandonment
+
+"Caral and its neighboring communities in the Pativilca and Fortaleza valleys were abandoned between 1800 and 1600 BC. Why? We are not sure, but archaeological and geological data point to the relentless onslaught of disrupters and their cumulative effects, which priests could not foresee. Geological data uncovered that an earthquake estimated at 7.2 on the Richter scale took place in about 1820 BC and destroyed much of Caral and Aspero (Sandweiss et all., 2009). This major earthquake was most probably followed by successive tremors of various intensity over the following weeks and months and contributed to more unstable rock and mud slides into the valleys."
+
+https://popular-archaeology.com/article/caral-americas-oldest-city/
+
 ## Citations
 
 1. https://zsitchinindex.wordpress.com/the-earth-chronicles-index/book-4-the-lost-realms/chapter-7-the-day-the-sun-stood-still/
