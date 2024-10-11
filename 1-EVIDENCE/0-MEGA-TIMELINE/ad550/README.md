@@ -27,6 +27,14 @@ Indian history at this time is right at the breakup of the Gupta Empire (480 - 5
 
 "Damodaragupta's son Mahasenagupta allied with the Pushyabhuti dynasty. His sister married the ruler Adityavardhana. He invaded Kamarupa and defeated Susthita Varman.[7] But he subsequently faced three invaders: the Maukhari king Sharvavarman, the Kamarupa king Supratishthita-varman, and the Tibetan king Songtsen. His vassal Shashanka also abandoned him (and later established the independent Gauda Kingdom). The Maukhari king Sharvavarman is thought to have defeated Damodaragupta, invading Magadha circa 575 CE, which made him ruler of the entire Uttar Pradesh.[8][9] Under these circumstances, Mahasenagupta was forced to flee Magadha, and take shelter in Malwa. Subsequently, the Pushyabhuti emperor Harsha (ruled c. 606 – c. 647 CE) restored the Later Gupta rule in Magadha, and they ruled as Harsha's vassals."
 
+### Uttar Pradesh Flood : Deluge Drowned Mighty Guptas (hard copy here)
+
+This is promising. But given the lack of evidence convergence from other locations, I have to assume this was a case of localized flooding, perhaps due to excessive rainfall.
+
+"Archaeologist Shanker Sharma has now provided evidence to show that almost every significant archaeological site in Bihar and eastern Uttar Pradesh reveals silt deposits ranging from 0.6 metres to 2.5 metres, suggesting that the area was hit by disastrous floods. Balirajgarh (Madhubani), Kolhua, Raja Vishal Ka Garh and Chechar (Vaishali), Titra (Siwan), Chirand (Saran), Panr (Samastipur), Kumhrar (Patna), Champa (Bhagalpur), Kushinagar and Siddharthnagar (both in Uttar Pradesh) are some of such sites."
+
+https://www.telegraphindia.com/india/deluge-drowned-mighty-guptas-study/cid/1685500
+
 ## China History
 
 During this period, China was transitioning from the Northern and Southern Dynasties (lot of drama going on at the time), to the short-lived Sui Dynasty starting 581, to the Tang Dynasty in 618.
@@ -59,11 +67,15 @@ A major plague (detailed below) but no obvious flood mention.
 
 "Teotihuacan was "the Mesoamerican city par excellence". Its origins date to the late preclassic. Possibly, after the eruption of Xitle and with the decline of Cuicuilco, Teotihuacan came to house 75% of the population of the Mexican Basin in this era."
 
-"Metepec (550-650): Decline of the city. 85 thousand inhabitants. Fire and drought. Loss of Mesoamerican dominance."
+"The Teotihuacan chronology can be divided into six eras: ... Metepec (550-650): Decline of the city. 85 thousand inhabitants. Fire and drought. Loss of Mesoamerican dominance."
 
 ### Xitle (245-315 AD) [9]
 
 "Xitle erupted during the period AD 245-315, according to the results of radiocarbon dating.[1] Among the consequences of this eruption were the formation of the Pedregal de San Ángel lava fields, to the south of the Mexican Federal District. Cuicuilco, one of the most refined cities of Mesoamerica, was destroyed and covered by lava."
+
+### Teotihuacan 550 AD Decline
+
+"The city reached its maximum population between 100 and 200 A.D., during the Xolalpan and Metepec phases. However, from 550 A.D. onwards, a drastic population decline, fires, and building collapses were reported, marking the beginning of the Epiclassic Period in the central highlands of Mexico. The abandonment of the city is related to the exodus to Xochicalco and the flourishing of Toltec culture in Tula." [10]
 
 ## Citations
 
@@ -76,3 +88,4 @@ A major plague (detailed below) but no obvious flood mention.
 7. https://en.wikipedia.org/wiki/Northern_and_Southern_dynasties
 8. https://en.wikipedia.org/wiki/Mesoamerican_Classic_period
 9. https://en.wikipedia.org/wiki/Xitle
+10. https://www.labrujulaverde.com/en/2024/04/mega-earthquakes-were-the-cause-of-the-architectural-evolution-of-teotihuacan-and-its-subsequent-abandonment/
