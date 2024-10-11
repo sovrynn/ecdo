@@ -51,7 +51,8 @@ See Middle Eastern cataclysm chronology folder.
 
 ## Compton 3200 BC Comet Impact Hypothesis
 
-Compton's 3200 BC comet impact hypothesis is pretty much a killshot for ECDO dating as far as we currently understand the ECDO. He proposes a massive world-wide event including flooding and possibly massive rainfall taking place during this time. There's too much to paste in here but I'll list the key evidence he provides:
+Compton's 3200 BC comet impact hypothesis is pretty much a killshot for ECDO dating as far as we currently understand the ECDO. He proposes a massive world-wide event including flooding and possibly massive rainfall taking place during this time. I still need to verify his sources. There's too much to paste in here but I'll list the key evidence he provides, the most compelling of which is the ancient calendar timelines and the flash freeze events:
+
 - 2-3 ancient calendars that mark a flood event as the start of their new calendric era
 	- Babylonian flood at 3189 BC indicated by Atrahasis Epic
 	- Ancient Indian texts (Sataptha Brahmana, Mahabharata, several Puhanas) indicate a last world flood at 3102 BC bringing the start of the current Kali Yuga age
