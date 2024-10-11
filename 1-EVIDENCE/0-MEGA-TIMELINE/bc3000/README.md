@@ -1,6 +1,6 @@
 # 3200 - 2800 BC event
 
-This 400-year period is filled with extensive evidence that points to a global cataclysm. Most notably, multiple accounts of ECDO-like cataclysms (megafloods, Sun changing direction, land sinking) from different places in the world, dated to approximately the same time, gives us a high certainty there was an ECDO-like event during this period.
+This 400-year period is filled with extensive evidence that points to a global cataclysm. Most notably, multiple accounts of ECDO-like cataclysms (megafloods, Sun changing direction, land sinking) from all cradles of civilization, dated to approximately the same time, gives us a high certainty there was an ECDO-like event during this period.
 
 Cataclysm accounts:
 - China Nu Wa: 2810 BC
