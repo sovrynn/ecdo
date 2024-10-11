@@ -71,6 +71,8 @@ Exodus (WIC pg 116):
 - darkness for months afterwards
 - **occurred in the spring**
 - hot hailstones in the air (comet debris)
+- ~50 days between Exodus and Lawgiving
+- Moses was 80 years old at Exodus
 
 Aztecs, Mayans:
 - No Sun for many years
@@ -79,7 +81,8 @@ Aztecs, Mayans:
 Joshua:
 - same comet debris from Exodus
 - sun and moon stood still for a full day
-- 50 years after Exodus?
+- ~40 years after Exodus
+- Moses passed away before Joshua (according to Velikovsky)
 
 Phaethon:
 - Sun dissapeared for a day
