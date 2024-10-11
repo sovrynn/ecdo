@@ -56,7 +56,7 @@ Compton's 3200 BC comet impact hypothesis is pretty much a killshot for ECDO dat
 - 2-3 ancient calendars that mark a flood event as the start of their new calendric era
 	- Babylonian flood at 3189 BC indicated by Atrahasis Epic
 	- Ancient Indian texts (Sataptha Brahmana, Mahabharata, several Puhanas) indicate a last world flood at 3102 BC bringing the start of the current Kali Yuga age
-	- Mayan/Aztec calendars count time from 3114 BC, decmarcating a flood that ended the fourth of four ages
+	- Mayan/Aztec (Mesoamerica-based) calendars count time from 3114 BC, decmarcating a flood that ended the fourth of four ages
 	- Egyptian record of a flood with a period of darkness afterwards (no footnote)
 - ice cap, stalagmite Oxygen 18 anomalies
 - sea floor sediment core temperature-sensitive phytoplankton chemicals
