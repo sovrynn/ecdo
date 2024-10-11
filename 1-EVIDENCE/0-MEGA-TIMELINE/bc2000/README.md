@@ -11,8 +11,8 @@ I also want a timeline of the exact sequence of specific climate effects if poss
 ## Overview
 
 Cataclysm accounts:
-- 1600-1400 BC: Biblical Exodus, Moses
-	- Possibly a contemporary of Ogyges and Gun-Yu
+- 1800-1400 BC: Biblical Exodus, Moses
+	- Possibly a contemporary of Ogyges and Gun-Yu, typically placed 900-1100 years after Noah's flood. Joshua cataclysm occurred about 40 years after
 - 1900-1460 BC: Deucalion
 	- Usually placed some time after Ogyges
 - ~1800 BC: Ancient Peru, invaders destroyed by fire, and some extended time later, 24 hours of Sun
