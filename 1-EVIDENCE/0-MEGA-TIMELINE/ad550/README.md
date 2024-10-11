@@ -4,6 +4,10 @@
 - 600 AD bond event
 - 540 AD Baillie comet impact hypothesis
 - Britain comet impact
+- ~550 AD Teotihuacan decline
+- ~550 AD India Bihar/Uttar Pradesh localized flood
+- 540 AD Justinian plague
+- 536 volcanic winter event
 
 In terms of an exact date, probably mid 6th century (540 ADish) seems most likely in terms of convergence of existing evidence.
 
@@ -29,7 +33,7 @@ Indian history at this time is right at the breakup of the Gupta Empire (480 - 5
 
 ### Uttar Pradesh Flood : Deluge Drowned Mighty Guptas (hard copy here)
 
-This is promising. But given the lack of evidence convergence from other locations, I have to assume this was a case of localized flooding, perhaps due to excessive rainfall.
+This is promising. But given the lack of evidence convergence from other locations, I have to assume this was a case of localized flooding, perhaps due to excessive rainfall. I also note that the proposed flood area is behind a line of Himalayan freshwater lakes.
 
 "Archaeologist Shanker Sharma has now provided evidence to show that almost every significant archaeological site in Bihar and eastern Uttar Pradesh reveals silt deposits ranging from 0.6 metres to 2.5 metres, suggesting that the area was hit by disastrous floods. Balirajgarh (Madhubani), Kolhua, Raja Vishal Ka Garh and Chechar (Vaishali), Titra (Siwan), Chirand (Saran), Panr (Samastipur), Kumhrar (Patna), Champa (Bhagalpur), Kushinagar and Siddharthnagar (both in Uttar Pradesh) are some of such sites."
 
@@ -45,7 +49,7 @@ Still, I see no mention of a flood.
 
 ### Northern Dynasties
 
-"As conflict swelled in the north between successive leaders, Gao Huan took control of the east and Luoyang (holding Emperor Xiaojing of Eastern Wei as a puppet ruler) by 534, while his rival Yuwen Tai took control of the west and the traditional Chinese capital of Chang'an by 535. The Western regime was dominated by the sinicized nobles and their Han bureaucrats while the Eastern regime was controlled by the traditional steppe tribes... Eventually, Gao Huan's son Gao Yang forced the Eastern Wei emperor to abdicate in favor of his claim to the throne, establishing the Northern Qi dynasty (551–577). Afterward, Yuwen Tai's son Yuwen Jue seized the throne of power from Emperor Gong of Western Wei, establishing the Northern Zhou dynasty (557–580)."
+"As conflict swelled in the north between successive leaders, Gao Huan took control of the east and Luoyang (holding Emperor Xiaojing of Eastern Wei as a puppet ruler) by 534, while his rival Yuwen Tai took control of the west and the traditional Chinese capital of Chang'an by 535. The Western regime was dominated by the sinicized nobles and their Han bureaucrats while the Eastern regime was controlled by the traditional steppe tribes... Eventually, Gao Huan's son Gao Yang forced the Eastern Wei emperor to abdicate in favor of his claim to the throne, establishing the Northern Qi dynasty (551–577). Afterward, Yuwen Tai's son Yuwen Jue seized the throne of power from Emperor Gong of Western Wei, establishing the Northern Zhou dynasty (557–580)." [7]
 
 ### Southern Dynasties
 
@@ -89,3 +93,13 @@ A major plague (detailed below) but no obvious flood mention.
 8. https://en.wikipedia.org/wiki/Mesoamerican_Classic_period
 9. https://en.wikipedia.org/wiki/Xitle
 10. https://www.labrujulaverde.com/en/2024/04/mega-earthquakes-were-the-cause-of-the-architectural-evolution-of-teotihuacan-and-its-subsequent-abandonment/
+
+# TODO
+
+Andes ice cores
+
+Procopius 536 volcanic winter account
+
+China dust veil?
+
+Ask ChatGPT
