@@ -15,7 +15,7 @@ Physical markers:
 	- Mayan long count calendar
     - Babylonian, Mesoamerican, Egyptian floods, flash freeze events
 - 3200 BC: climate change event (Staubwasser, Weiss)
-- narrow Irish tree rings
+- 3195 BC narrow Irish tree rings
 - Antarctic tephra
 - Skara Brae 3000 BC "sand deposits"
 - Kilimanjaro 3200 BC ice core anomaly

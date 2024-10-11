@@ -10,6 +10,10 @@ Asia has a well-stocked library of flood stories [1], including from Tibet [2] a
 
 Many more such accounts from this region can be found at reference [1].
 
+## Japan
+
+Velikovsky mentions Nihongi, a chronicle of Japan from the "earliest period" when there was continuous darkness. The Emperor was Kami Yamato at this cataclysmic time. Look into dating for this source.
+
 ## Citations
 
 1.  https://talkorigins.org/faqs/flood-myths.html#Asia

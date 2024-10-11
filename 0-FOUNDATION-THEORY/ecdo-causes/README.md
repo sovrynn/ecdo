@@ -33,6 +33,14 @@ The return to S1 would presumably involve some kind of straightforward reversal 
 
 Somehow, this process would need to directly cause a rotation back to S1. It may be that as the LLVPs quickly shrink, the third principal axis shifts again back to the S1 poles, due to the preexisting mantle equatorial bulge still maintaining some of its shape. This could occur in a non-instantaneous fashion as the crystallization process and corresponding LLVP reduction occurs over some period of time, leading to the "gradual settle-in process" TES mentions. Then, S2 would last only as long as is required for the LLVPs to shrink to an extent that returns the third principal axis of rotation back to the S1 poles.
 
+### By extension - conflagration by fire
+
+Is it unreasonable to assume that, if the mantle is capable of decoupling from the core and performing a mediated gyroscopic rotation, that the core may also be capable of doing the same thing, where the mantle maintains its rotation but the core rotates inside?
+
+This may explain conflagrations of fire, where the magnetic field is weakened, but the mantle does not rotate, causing solar burning but not oceanic displacement.
+
+Alternatively, a slow rotation from S2 back to S1, not fast enough to cause oceanic displacement, but fast enough to cause a significant magnetic field weakening, could cause a conflagration by fire.
+
 ## Ice Accumulation unevenly on South Pole [2]
 
 What if the rotational instability is caused by uneven accumulation of ice mass around the rotational axis? My only gripe with this is that the mass of the ice cores relative to the mantle is **extremely** small. The glaciers are also supposed to be melting, although mainly at equatorial high-altitude glaciers.

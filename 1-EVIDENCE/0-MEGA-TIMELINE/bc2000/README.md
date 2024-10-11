@@ -2,41 +2,89 @@
 
 This 500-year period is filled with extensive evidence from all domains, including history and physical markers. Along with accounts of mega-floods and the Sun changing trajectory (Gun-Yu, Ogyges), we can almost be certain there was an ECDO-like event during this period.
 
-What I want to do here is to organize all the information and establish some temporal dependencies to create a timeline of this period. Everything should line up.
+This period in particular is a bit of a mess. I want to organize everything into a single timeline and establish temporal dependencies. Everything should line up.
 
 One of the key questions is to figure out how many cataclysms happened during this period. The wide spread of dates makes me wonder if there may be more than one global event somehow.
 
-I also want a timeline of the exact sequence of specific climate effects if possible. For example: flood, then drought, then Y, etc.
+I also want a timeline of the exact sequence of specific climate effects if possible. For example: flood, then drought, then Y, etc. This time period has the most detailed accounts, which would help build such a sequencing.
 
 ## Overview
 
-Cataclysm accounts, events:
+Cataclysm accounts:
 - 1600-1400 BC: Biblical Exodus, Moses
 	- Possibly a contemporary of Ogyges and Gun-Yu
 - 1900-1460 BC: Deucalion
 	- Usually placed some time after Ogyges
-	- 1700-1650 BC: Minoan Crete, two catastrophes within a half century of each other
-- 1900 BC - 1700 BC: Mohenjo-Daro abandonment
 - ~1800 BC: Ancient Peru, invaders destroyed by fire, and some extended time later, 24 hours of Sun
 - 2136-1800 BC: Ogyges
 	- Said to be contemporary with Moses in Exodus, and possibly Gun-Yu
+	- Velikovsky places it in the middle of the second millenium BC
 - 2300-2000 BC: Chinese Great Gun-Yu Flood
 	- water over mountains, sun not setting for 10 days
 	- Contemporary with Korea's Dangun myth
 	- Possibly contemporary with Ogyges
 	- Backed up by 1920 BC dated Yellow River flood remnants
 
+Cataclysm events:
+- 1900 BC - 1700 BC: Mohenjo-Daro abandonment
+- 1700-1650 BC: Minoan Crete, two catastrophes within a half century of each other
+
 Physical markers:
 - 1650 BC Antarctic tephra
 - 1960 BC Deception Island volcano, Antarctica
 - 2200 BC bond (ice rafting) event
 - 2200-2100 BC: climate aridification event
+- 2345 BC: Irish Oak tree rings
+
+In terms of a single candidate date for the cataclysm, I genuinely don't have one, which is one of the issues with this period. The events are spread out all over this period from as early as 2350 BC to as late as 1400 BC. If I had to choose two candidate dates, they would be 2200 BC (Gun-Yu, physical markers) and 1790 BC (Ogyges, Crete).
 
 ## Sun changing trajectory
 
 - Gun-Yu flood
 - Peru (Inca) myths
 - Joshua
+
+## Velikovsky
+
+Velikovsky, bless him, has compiled an extensive and comprehensive compilation of cataclysms for this period. Note: I haven't checked most of his sources.
+
+### Chronology
+
+Typically, Deucalion is placed after Ogyges. But Velikovsky argues that Deucalion came before Ogyges. Here is his timeline:
+
+First: Deucalion, Phaethon, Exodus
+
+Second: Joshua, Ogyges
+
+Yahou contemporary with one of these two events.
+
+### Cataclysm Details
+
+Yahou: Sun did not set for a number of days, forests on fire, vermin filled the country. No dust.
+
+Exodus (WIC pg 116):
+- 4 times the Sun was changed out of its course in the few weeks between Exodus and Lawgiving
+- prolonged darkness?
+- hurricane flips?
+- sun comes down at noon? (not sure if its this event)
+- Lawgiving: motion of Sun disturbed
+- darkness for months afterwards
+- **occurred in the spring**
+- hot hailstones in the air (comet debris)
+
+Aztecs, Mayans:
+- No Sun for many years
+- finally rose in the East
+
+Joshua:
+- same comet debris from Exodus
+- sun and moon stood still for a full day
+- 50 years after Exodus?
+
+Phaethon:
+- Sun dissapeared for a day
+- vast conflagration
+- "The sun, thrown into confusion, had remained low on the horizon, and by not rising had spread terror amongst the great doctors" (see repo bible evidence page on this event)
 
 ## Yao
 
@@ -75,4 +123,8 @@ J Hubner, Kurze Fragen aus der politischen 1729 for Yao
 
 # TODO
 
-check India and Mesoamerica
+check India and Mesoamerica history during this period
+
+check time between Exodus and Joshua
+
+when did Moses live?

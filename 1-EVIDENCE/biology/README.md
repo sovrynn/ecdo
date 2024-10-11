@@ -44,6 +44,8 @@ Peaks correspond to narrow ring anomalies. A "narrowness index" formula was cons
 
 ## bristlecone pine tree rings and volcanic eruptions over the last 5000 yr (hard copy here)
 
+To be honest there's some clustering around the ECDO candidate dates but also just way too many dates for me to feel confident that it's pure cataclysm signal.
+
 ![](img/bristlecone-pine2.png)
 ![](img/bristlecone-pine.png)
 
@@ -81,7 +83,3 @@ https://en.wikipedia.org/wiki/Alcide_d%27Orbigny
 That the surface beds of the Pampas and the deposits in the caves were synchronous, is admitted by all explorers. The same creatures are found in both, of course in different proportions, as is the case elsewhere. Nor is there any doubt that both sets of beds date from the same horizon as the Mammoth beds of other countries. The fauna of the pleistocene beds of the Southern States of North America is, in fact, largely identical with that from the beds we are now discussing ; the megatherium and mylodon, the tapir and capybara, the mastodon and horse, &c., &c., being found in both, and every observer, from Darwin to Burmeister, is agreed in assigning them to the same horizon." - The Mammoth and the Flood, Henry Howorth (1887)
 
 [1] https://archive.org/details/in.ernet.dli.2015.220742
-
-# TODO
-
-Bristlecone pine is apparently the oldest living tree, with long dendrochronology having been compiled for it

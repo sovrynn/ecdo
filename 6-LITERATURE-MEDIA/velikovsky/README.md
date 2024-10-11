@@ -35,9 +35,24 @@ pg 100: emperor yahou account
 
 pg 103: "Thereupon Yaou [Yahou] commanded He and Ho, in accordance with the wide heavens, to calculate and movements and appearances of the sun, the moon, the reverent delineate the stars, and the zodiacal spaces; and to deliver respectfully the seasons to the people." The necessity, soon after the flood, of finding anew the four direc- tions and learning anew the movements of the sun and the moon, of delineating the zodiacal signs, of compiling the calendar, of inform- ing the population of China of the sequence of the seasons, creates the impression that during the catastrophe the orbit of the earth and the year, the inclination of the axis and the seasons, the orbit of the moon and the month, changed. We are not told what caused the cataclysm, but it is written in ancient annals that during the reign of Yahou “a brilliant star issued from the constellation Yin.”
 
+pg 103: The story of the deluge of Noah has its parallel in a Chinese tradition
+about a universal flood in prehistoric times, in the days of Fo-hi, who
+alone of all the country was saved.
+
 The flood of Yahou is sometimes regarded as simultaneous with the flood of Ogyges.
 
-In the section entitled “The Floods of Deucalion and Ogyges,” the synchronism of these devastations with the catastrophes of the days of Moses and Joshua will be demonstrated and supported by ancient and chrono- logical sources.
+The flood of Ogyges did not occur in the third millennium, but in
+the middle of the second millennium before this era. In the section entitled “The Floods of Deucalion and Ogyges,” the synchronism of these devastations with the catastrophes of the days of Moses and Joshua will be demonstrated and supported by ancient and chrono- logical sources.
+
+When we summarize what has been told about the time of Yahou, we have the following data: the sun did not set for a number of days,
+104
+the forests were set on fire, vermin filled the country, a high wave
+reaching the sky poured over the face of the land and swept water
+over the mountain peaks and filled the valleys for many years; in the
+days of Yahou the four quarters of the heaven were established
+anew, and observations of the duration of the year and month and
+of the order of the seasons were made. The history of China in the
+period before this catastrophe is quite obliterated.
 
 ### p1 Chapter 5: Sun Changing Trajectory
 
@@ -53,6 +68,32 @@ In the section entitled “The Floods of Deucalion and Ogyges,” the synchronis
 
 **Page 122: Exodus:** With the end of the Middle Kingdom in Egypt, when the Israelites left that country, the old order of seasons came to an end and a new world age began. The Fourth Book of Ezra, which borrows from some earlier sources, refers to the “end of the seasons” in these words: “I sent him [Moses] and led my people out of Egypt, and brought them to Mount Sinai, and held him by me for many days. I told him many wondrous things, showed him the secrets of the times, declared to him the end of the seasons.”
 
+pg 122: The American sources, which speak of a world colored red, of a
+rain of
+of
+fire,
+world conflagration,
+new rising mountains, of
+of
+frightening portents in the sky, of a twenty-five-year gloom
+
+123: Length of year changed from 365 to 360 days after Exodus? Related to Mayan calendar adjustment around 650 BC: "With the fall of the Middle Kingdom and the Exodus, one of the
+great world ages came to its end.
+The four quarters of the world
+were displaced, and neither the orbit nor the poles nor, probably,
+the direction of rotation remained the same. The calendar had to be
+adjusted anew. The astronomical values of the year and the day could
+not be the same before and after an upheaval in which, as the quoted
+Papyrus Anastasi IV says, the months were reversed and “the hours
+disordered.”"
+
+124: "The fact I hope to be able to establish is that from the fifteenth
+century to the eighth century before the present era the astronomical
+year was equal to 360 days; neither before the fifteenth century, nor
+after the eighth century was the year of this length. In a later chapter
+of this work extensive material will be presented to demonstrate this
+point."
+
 ### p1 chapter 6 - volcanic ash (good chapter)
 
 If the eruption of a single volcano can darken the atmosphere over
@@ -66,11 +107,33 @@ new ones, the cumulative action of the
 eruptions and of the comet’s dust must have saturated the atmosphere
 with floating particles.
 
+pg 127: "“Following the cataclysm caused by the waters, the author of the Codex Chimalpopoca, in his history of the suns, shows us terrifying
+celestial
+phenomena, twice followed by darkness that covered the
+face of the earth, in one instance for a period of twenty-five years.”
+“This fact is mentioned in the Codex Chimalpopoca and in most of
+the traditions of Mexico.”"
+
+"Gomara, the Spaniard who came to the Western Hemisphere in
+the middle of the sixteenth century, shortly after the conquest,
+wrote: 8 “After the destruction of the fourth sun, the world plunged
+in darkness during the space of twenty-five years.
+Amid this pro-
+found obscurity, ten years before the appearance of the fifth sun,
+mankind was regenerated."
+
 The “shadow of death” is related to the time of the wanderings in
 the desert after the Exodus from Egypt. The sinister meaning of the
 words “shadow of death” corresponds with the description of the
 Ermitage Papyrus: “None can live when the sun is veiled by clouds.”
 At intervals the earth was lighted by conflagrations in the desert. [129]
+
+130: "Nihongi, a chronicle of Japan from the earliest period, refers to a
+time when there was “continuous darkness” and “no difference of day
+and night.” It describes in the name of the Emperor Kami Yamato an
+ancient time when “the world was given over to widespread desola-tion; it was an age of darkness and disorder. In this gloom Hiko-ho-
+no-ninigi-no-Mikoto fostered justice, and so governed this western
+border.”"
 
 He goes on to discuss ambrosia, bread of the gods, that seems to be some sort of sweet carbon based substance that accumulated in the wake of the disaster.
 
@@ -84,6 +147,15 @@ between stones and baked in pans 1 The manna fell from the clouds 2
 ### p1 ch7 quotes
 
 Joshua
+
+141: "THE HOT HAILSTONES which, at Moses’ intercession, had re-
+mained suspended in the air when they were about to fall upon
+the Egyptians, were now cast down upon the Canaanites.” 1 These
+words mean that a part of the meteorites of the cometary train of
+the days of Exodus remained in the celestial sphere for about fifty
+years, falling in the days of Joshua, in the valley of Beth-horon, on
+the same forenoon when the sun and the moon stood still for the
+length of a full day."
 
 pg 143: Many authors have dealt with the story of Phaethon; the best known version is a creation of the Latin poet Ovid. The chariot of the sun, driven by Phaethon, moved “no longer in the same course as before.”
 

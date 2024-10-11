@@ -17,6 +17,11 @@ Africanus dated Ogyges as a contemporary of Moses and the Exodus, and he dated O
 
 Exodus seems to be place about 900 - 1100 years after Noah's Flood. See the folder about Noah's flood.
 
+## "catastrophe of Sodom and Gomorrah"
+
+"two daughters of Lot, who hid with him in a cave after the catastrophe of Sodom and Gomorrah, believed that they
+and their father were the only survivors in the land" Velikovsky pg 148 WIC
+
 ## Chan - 3 cataclysms?
 
 Chan believe there are 3 cataclysms recorded in the Bible: *"Did you understand that there are three cataclysms recorded in the Bible? Noah’s, Adam and Eve’s, and the one before that? If you missed it, check Genesis II."* [2]

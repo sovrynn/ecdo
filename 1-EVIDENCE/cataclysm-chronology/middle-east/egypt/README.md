@@ -12,6 +12,10 @@ So, Upper Egypt, right in the path of the Mediterranean, was able to preserve it
 
 Then it goes from First Dynasty to Second Dynasty and so on, until the 32nd Dynasty, when it was conquered by Rome around 30 BCE.
 
+## Velikovsky
+
+While Egypt's cataclysm accounts are scant, Velikovsky managed to scrounge up some very tough-to-find cataclysm accounts. See the beginning of chapter 5 of WIC.
+
 ## Second Dynasty - 3000 BC event?
 
 "The Second Dynasty of ancient Egypt (or Dynasty II, c. 2890 – c. 2686 BC[1]) is the latter of the two dynasties of the Egyptian Archaic Period, when the seat of government was centred at Thinis. It is most known for its last ruler, Khasekhemwy, but is otherwise one of the most obscure periods in Egyptian history." [1]
