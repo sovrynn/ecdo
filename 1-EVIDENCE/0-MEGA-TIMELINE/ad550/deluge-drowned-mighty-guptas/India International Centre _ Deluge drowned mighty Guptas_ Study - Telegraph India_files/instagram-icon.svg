@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_192" data-name="Rectangle 192" width="20" height="20" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="instagram" transform="translate(-0.217)">
+    <rect id="Rectangle_193" data-name="Rectangle 193" width="40" height="40" transform="translate(0.217)" fill="none"/>
+    <g id="Group_170" data-name="Group 170" transform="translate(9.957 9.957)">
+      <g id="Group_169" data-name="Group 169" transform="translate(0.261 0.043)" clip-path="url(#clip-path)">
+        <path id="Path_369" data-name="Path 369" d="M14.493,19.928H5.434A5.441,5.441,0,0,1,0,14.494V5.435A5.441,5.441,0,0,1,5.433,0h9.06a5.441,5.441,0,0,1,5.434,5.435v9.059a5.44,5.44,0,0,1-5.434,5.434M5.434,1.811A3.624,3.624,0,0,0,1.81,5.435v9.059a3.629,3.629,0,0,0,3.624,3.624h9.059a3.629,3.629,0,0,0,3.624-3.624V5.435a3.628,3.628,0,0,0-3.624-3.624Z" transform="translate(-0.217 -0.036)" fill="#5b5b5b"/>
+        <path id="Path_370" data-name="Path 370" d="M10.058,14.52A4.53,4.53,0,0,1,9.4,5.509a4.446,4.446,0,0,1,1.33,0,4.528,4.528,0,0,1,0,8.959,4.583,4.583,0,0,1-.675.05m.01-7.247a2.82,2.82,0,0,0-.4.029,2.718,2.718,0,1,0,.8,0,2.844,2.844,0,0,0-.4-.029" transform="translate(-0.283 -0.101)" fill="#5b5b5b"/>
+        <path id="Path_371" data-name="Path 371" d="M15.111,5.937a.9.9,0,0,1-.632-.267.865.865,0,0,1-.267-.642.9.9,0,0,1,.267-.642.8.8,0,0,1,.287-.188.927.927,0,0,1,.988.188.94.94,0,0,1,.267.642.9.9,0,0,1-.267.642.969.969,0,0,1-.3.2,1.037,1.037,0,0,1-.347.069" transform="translate(-0.385 -0.085)" fill="#5b5b5b"/>
+      </g>
+    </g>
+  </g>
+</svg>
