@@ -163,3 +163,7 @@ Just did a quick dive into ice-core temperature proxies. It seems that an ECDO t
 1. [Craig Stone](https://nobulart.com)
 2. https://en.wikipedia.org/wiki/Bond_event
 3. https://en.wikipedia.org/wiki/Ice_rafting
+
+# TODO
+
+split these up by location (arctic africa andes antarctica)
