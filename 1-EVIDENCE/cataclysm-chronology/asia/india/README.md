@@ -25,7 +25,7 @@ Stephen Knapp, in "Advancements of Ancient India's Vedic Culture", provides a co
 
 36 years after the Kurukshetra War would put the sinking of Dwarka at 3031 BCE.
 
-## Vedveer Arya - Manu flood 9200 BC? Dvaravati sinking 7400 BC?
+## The Chronology of India: From Manu to Mahabharata - Vedveer Arya - Manu flood 9200 BC? Dvaravati sinking 7400 BC?
 
 Vedveer Arya seems to have compiled a lengthy and comprehensive chronology of India's history worth looking at. Hard copy in this folder https://independent.academia.edu/VedveerArya
 
@@ -155,6 +155,10 @@ https://prajnasurabhi.blogspot.com/2014/09/rohini-sakata-bhedanam-world-wide.htm
 
 2060 alignment of this, see `solar-system`.
 
+## Bhagavata Purana
+
+"Appearance of the Varaha avatar to lift the Earth out of the depths of the Cosmic Ocean (Garbhodakasayi) and destroy Hiranyaksa" [9]
+
 ## Citations
 
 1. https://talkorigins.org/faqs/flood-myths.html#Tamil
@@ -165,6 +169,7 @@ https://prajnasurabhi.blogspot.com/2014/09/rohini-sakata-bhedanam-world-wide.htm
 6. https://en.wikipedia.org/wiki/Kali_Yuga
 7. https://en.wikipedia.org/wiki/Kurukshetra_War
 8. https://en.wikipedia.org/wiki/Mausala_Parva
+9. https://en.wikipedia.org/wiki/Bhagavata_Purana#Content_and_structure
 
 # TODO (much from chatgpt)
 

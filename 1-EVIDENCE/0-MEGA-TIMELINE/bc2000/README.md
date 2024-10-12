@@ -1,6 +1,6 @@
 # 2200 - 1700 BC event
 
-This 500-year period is filled with extensive evidence from all domains, including history and physical markers. Along with accounts of mega-floods and the Sun changing trajectory (Gun-Yu, Ogyges), we can almost be certain there was an ECDO-like event during this period.
+This 500-year period is filled with extensive evidence from all domains, including history and physical markers. Along with accounts of mega-floods (Gun-Yu, Ogyges), prolonged flooding (Gun-Yu), and the Sun changing trajectory (Gun-Yu, Joshua), we can almost be certain there was an ECDO-like event during this period. Still, I think there's a small possibility this may have been some kind of comet encounter.
 
 This period in particular is a bit of a mess. I want to organize everything into a single timeline and establish temporal dependencies. Everything should line up.
 
@@ -28,6 +28,7 @@ Cataclysm accounts:
 Cataclysm events:
 - 1900 BC - 1700 BC: Mohenjo-Daro abandonment
 - 1700-1650 BC: Minoan Crete, two catastrophes within a half century of each other
+- 1800 BC Caral (Peru) abandonment
 
 Physical markers:
 - 1650 BC Antarctic tephra
@@ -57,6 +58,8 @@ First: Deucalion, Phaethon, Exodus
 Second: Joshua, Ogyges
 
 Yahou contemporary with one of these two events.
+
+Since Exodus and Joshua happened so close to each other (~40 years) we can basically bunch these all up into one event. We also have Moses who lived for 120 years and was 80 at the time of Exodus; many of these other events are cited as being contemporary to him. So these temporal dependencies are good anchor points in my opinion.
 
 ### Cataclysm Details
 
@@ -114,11 +117,42 @@ A commentary on what these stars are: https://articles.adsabs.harvard.edu//full/
 
 An analysis of this account, and the stars themselves, along with star azimuths: https://articles.adsabs.harvard.edu//full/1895Obs....18..323R/0000323.000.html
 
-## Yao Sources to check
+### Yellow River Flood Remnants
+
+Evidence of serious Yellow River flood at 1920 BC.
+
+### Yao Sources to check
 
 Johann Heinrich Zedler "Universal Lexicon" for Yao
 
 J Hubner, Kurze Fragen aus der politischen 1729 for Yao
+
+## India
+
+Around this period, India had the Indus Valley civilization in the northwest.
+
+The Vedic period lasted from about 1500 BC to 500 BC.
+
+Books around this time period:
+- Rigveda
+	- don't see historical content, at least on surface level summaries
+- Mahabharata
+	- the Wikipedia page on this book doesn't mention a flood, indicating how deep one may have to dig to find flood references
+- Bhagavata Purana
+
+### North India Flood Remnants
+
+Evidence of a flood around 2000 - 1900 BC.
+
+## Mesoamerica
+
+Around this time you have the first traces of the Mayas, and soon afterwards, the Olmec.
+
+## South America
+
+Around this time you have the decline and abandonment of the Caral-Supe (Norte-Chico) civilization in Peru.
+
+Same for the Valdivia culture.
 
 ## Citations
 
@@ -127,7 +161,5 @@ J Hubner, Kurze Fragen aus der politischen 1729 for Yao
 # TODO
 
 check India and Mesoamerica history during this period
-
-check time between Exodus and Joshua
 
 when did Moses live?

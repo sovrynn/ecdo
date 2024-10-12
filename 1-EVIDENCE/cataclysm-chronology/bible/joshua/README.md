@@ -1,5 +1,9 @@
 # Joshua
 
+"The cataclysmic event associated with Joshua in the Bible is often linked to the story in the Book of Joshua, Chapter 10, where Joshua leads the Israelites in battle against the Amorite kings. During this battle, the sun and moon are said to have stood still at Joshua's command, allowing the Israelites more time to defeat their enemies. This event is not described as causing darkness but rather an extended period of daylight. However, it is often cited in discussions about extraordinary celestial events in the Bible." [1]
+
+## Overview
+
 Joshua's Long Day (https://www.nga.gov/collection/art-object-page.129865.htmlhttps://www.nga.gov/collection/art-object-page.129865.html). "The sun, thrown into confusion, had remained low on the horizon, and by not rising had spread terror amongst the great doctors. Two days had been rolled into one.  The morning was lengthened to one-and-a-half times the normal period of effective daylight.  A certain time after this divine phenomenon, the master had an image built to keep further misfortune from the country.
 
 Rameses, our celestial ancestral chief; you who forced these wretched people to work, who ill-treated them, who gave them no help when they were in need: cast them into the sea. They made the moon stop in a small angle at the edge of the horizon.  In a small angle on the edge of the horizon, the sun itself, which had just risen at the spot where the moon was going, instead of crossing the sky stayed where it was.  Whilst the moon, following a narrow path, reduced its speed and climbed slowly, the sun stopped moving and its intensity of light was reduced to the brightness at daybreak.  The waves formed a wall of water against the boats that were in the harbor and those that had left it.  Those fishermen that had ventured onto the deck to watch the waves were washed into the sea.
@@ -28,3 +32,7 @@ Here is a take on the event.  I find it interesting because there are other reco
 https://www.geocentricity.com/astronomy_of_bible/jld/
 
 Lots of footnotes.  Velikovsky and Patten associated with a planetary interaction.
+
+## Citations
+
+1. GPT
