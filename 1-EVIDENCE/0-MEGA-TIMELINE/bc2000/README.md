@@ -4,8 +4,6 @@ This 500-year period is filled with extensive evidence from all domains, includi
 
 This period in particular is a bit of a mess. I want to organize everything into a single timeline and establish temporal dependencies. Everything should line up.
 
-One of the key questions is to figure out how many cataclysms happened during this period. The wide spread of dates makes me wonder if there may be more than one global event somehow.
-
 I also want a timeline of the exact sequence of specific climate effects if possible. For example: flood, then drought, then Y, etc. This time period has the most detailed accounts, which would help build such a sequencing.
 
 ## Overview
