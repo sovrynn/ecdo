@@ -1,6 +1,6 @@
 # ~2000 BC event (2200 - 1700 BC)
 
-This 500-year period is filled with extensive evidence from all domains, including history and physical markers. Along with accounts of mega-floods (Gun-Yu, Ogyges), prolonged flooding (Gun-Yu), and the Sun changing trajectory (Gun-Yu, Joshua), we can almost be certain there was an ECDO-like event during this period. Still, I think there's a small possibility this may have been some kind of comet encounter.
+This 500-year period is filled with extensive evidence from all domains, including history and physical markers. Along with accounts of mega-floods (Gun-Yu, Ogyges), prolonged flooding (Gun-Yu), and the Sun changing trajectory (Gun-Yu, Joshua), we can almost be certain there was an ECDO-like event during this period.
 
 This period in particular is a bit of a mess. I want to organize everything into a single timeline and establish temporal dependencies. Everything should line up.
 
@@ -29,11 +29,11 @@ Cataclysm accounts:
 Cataclysm events:
 - 1900 BC - 1700 BC: Mohenjo-Daro abandonment
 - 1700-1650 BC: Minoan Crete, two catastrophes within a half century of each other
+- ~1700 BC: various burned Mesopotamian cities
 - 1800 BC Caral (Peru) abandonment
 
 Physical markers:
 - 1650 BC Antarctic tephra
-- ~1700 BC: various burned Mesopotamian cities
 - ~1750 BC: human remains from multiple places around the world
 - 1960 BC Deception Island volcano, Antarctica
 - 2200 BC North Atlantic bond (ice rafting) event
