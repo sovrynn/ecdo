@@ -34,9 +34,10 @@ Cataclysm events:
 Physical markers:
 - 1650 BC Antarctic tephra
 - 1960 BC Deception Island volcano, Antarctica
-- 2200 BC bond (ice rafting) event
+- 2200 BC North Atlantic bond (ice rafting) event
 - 2200-2100 BC: climate aridification event
 - 2345 BC: Irish Oak tree rings
+- 2000 BC Kilimanjaro ice cores
 
 In terms of a single candidate date for the cataclysm, I genuinely don't have one, which is one of the issues with this period. The events are spread out all over this period from as early as 2350 BC to as late as 1400 BC. If I had to choose two candidate dates, they would be 2200 BC (Gun-Yu, physical markers) and 1790 BC (Ogyges, Crete).
 
