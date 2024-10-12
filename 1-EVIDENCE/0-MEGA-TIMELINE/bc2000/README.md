@@ -16,6 +16,7 @@ Cataclysm accounts:
 - 1900-1460 BC: Deucalion
 	- Usually placed some time after Ogyges
 - ~1800 BC: Ancient Peru, invaders destroyed by fire, and some extended time later, 24 hours of Sun
+    - 12th of 40 generations between 2400 BC and 400 BC
 - 2136-1800 BC: Ogyges
 	- Said to be contemporary with Moses in Exodus, and possibly Gun-Yu
 	- Velikovsky places it in the middle of the second millenium BC
