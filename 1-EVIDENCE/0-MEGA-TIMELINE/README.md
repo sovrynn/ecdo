@@ -21,8 +21,8 @@ Nobulart's planetary harmonic and cataclysm chronology timeline in `timeline.xls
 # Overview
 
 High-certainty ECDO-like geomagnetic-excursion cataclysms:
-- 2200-1700 BC
-- 3200-2800 BC
+- ~2000 BC
+- ~3000 BC
 
 Promising dates:
 - Younger Dryas, ~9600 BC
