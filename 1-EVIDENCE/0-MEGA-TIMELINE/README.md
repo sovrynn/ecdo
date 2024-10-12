@@ -23,11 +23,9 @@ Nobulart's planetary harmonic and cataclysm chronology timeline in `timeline.xls
 High-certainty ECDO-like geomagnetic-excursion cataclysms:
 - 2200-1700 BC
 - 3200-2800 BC
-- Younger Dryas, ~9600 BC
-
-Although it's clear civilizational structures can survive massive floods (China Xia dynasty) what we would really like to see is no continuity of history during major cataclysms.
 
 Promising dates:
+- Younger Dryas, ~9600 BC
 - 6200-5400 BC, climate/historical anomalies, black/med sea refilling (Nobulart's Noahic deluge date)
 - 7500 BC, Tollman impact hypothesis, Uriel's Machine reference
 
