@@ -4,6 +4,8 @@ As with many of these so called "historical events", what happens is that since 
 
 What the signals show is climate change (recorded in ice cores, tree rings, and sediment cores, along with pollen and fossils in them) along with "ice-rafted debris" that signify "glacial advances", evidenced by combinations of rock and biomass debris, erosion, and erratics.
 
+I just wonder how exactly the events would get recorded in the proxies if the flip is quick. I assume the longer-duration trend of exothermic core climate change leading up to the flip would be most prominently recorded, on top of a backdrop of the macro climate change trend.
+
 ## Bond Events [2]
 
 "Bond events are North Atlantic ice rafting events that are tentatively linked to climate fluctuations in the Holocene. Eight such events have been identified. Bond events were previously believed to exhibit a roughly c. 1,500-year cycle, but the primary period of variability is now put at c. 1,000 years."
