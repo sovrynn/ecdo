@@ -24,13 +24,14 @@ Cataclysm accounts:
 	- water over mountains, sun not setting for 10 days
 	- Contemporary with Korea's Dangun myth
 	- Possibly contemporary with Ogyges
-	- Backed up by 1920 BC dated Yellow River flood remnants
+	- Corresponds to 1920 BC dated Yellow River flood remnants
 
 Cataclysm events:
 - 1900 BC - 1700 BC: Mohenjo-Daro abandonment
 - 1700-1650 BC: Minoan Crete, two catastrophes within a half century of each other
 - ~1700 BC: various burned Mesopotamian cities
 - 1800 BC Caral (Peru) abandonment
+- 2000-1900 BC India flood remnants
 
 Physical markers:
 - 1650 BC Antarctic tephra
