@@ -27,13 +27,13 @@ If I understand it, warmer periods will have more O18 in rain and thus ice cores
 ### Understanding Oxygen Isotopes
 
 - **Oxygen-16** is the lighter, more common isotope of oxygen, while **oxygen-18** is heavier and less common.
-- During warmer periods, more \(^{18}\)O evaporates and ends up in precipitation, so a higher proportion of \(^{18}\)O ends up in the ice.
-- Conversely, during colder periods, less \(^{18}\)O evaporates and therefore the ice will have a lower \(^{18}\)O ratio, dominated by the lighter \(^{16}\)O isotope.
+- During warmer periods, more O18 evaporates and ends up in precipitation, so a higher proportion of O18 ends up in the ice.
+- Conversely, during colder periods, less O18 evaporates and therefore the ice will have a lower O18 ratio, dominated by the lighter O16 isotope.
 
 ### Interpreting the Ratios
 
-- **Higher \(^{18}\)O ratios** generally indicate warmer climates, as more of this isotope is present in precipitation at higher temperatures.
-- **Lower \(^{18}\)O ratios** suggest colder climates, as the heavier isotope does not evaporate as easily in cooler temperatures.
+- **Higher O18 ratios** generally indicate warmer climates, as more of this isotope is present in precipitation at higher temperatures.
+- **Lower O18 ratios** suggest colder climates, as the heavier isotope does not evaporate as easily in cooler temperatures.
 
 ## Gas giants grand cycle harmonic and bond event data
 
