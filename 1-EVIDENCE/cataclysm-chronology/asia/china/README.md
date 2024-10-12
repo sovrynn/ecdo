@@ -12,7 +12,7 @@ There is a Chinese inundation myth which matches China's expected rotation from 
 
 "It is of some interest to note that Chinese myths indicate that the Flood event occurred at the end of the life of Nu Wa, consort of first Chinese emperor Fsu Hsi (2953 - 2838 BC according to standard chronologies), and who herself allegedly lived until about the year 2810 BC." - Bruce Masse
 
-## Great Flood (2300 - 1920 BCE)
+## Great Gun-Yu Flood (2300 - 1920 BCE)
 
 Not so much a myth as an account, it lines up with Korea's founding myth, that of Dangun. The best account of this I've found is in WIC by Velikovsky.
 
@@ -40,13 +40,19 @@ This could be explained by China rotating closer to the Antarctic Circle while t
 
 ### Xia Dynasty dates (established 2070 BC?)
 
-The Xia Dynasty was established by Gun-Yu, who "stopped" the flood. Therefore the flood must have occurred within a lifetime of the establishment of the Xia Dynasty, which is estimated to be established in 2070 BC. That already creates a clear discrepancy with the flood's hypothesized date of 2300 BC.
+The Xia Dynasty was established by Gun-Yu, who "stopped" the flood. Therefore the flood must have occurred within a lifetime of the establishment of the Xia Dynasty, which is estimated to be established in 2070 BC. That already creates a clear discrepancy with the flood's hypothesized date of 2300 BC. Regardless, we know that the flood must have occurred approximately when the Xia Dynasty was established; in the lifetime of Yu.
 
 There is also contention on the dates of the Xia Dynasty:
 
 *"According to the traditional chronology, based upon calculations by Liu Xin, the Xia ruled between 2205 and 1766 BC. According to the chronology based on the "current text" Bamboo Annals, it ruled between 1989 and 1558 BC. Comparing the same text with dates of five-planet conjunctions, David Pankenier, supported by David Nivison, proposed dates of 1953 and 1555 BC. The Xia–Shang–Zhou Chronology Project, commissioned by the Chinese government in 1996, proposed that the Xia existed between 2070 and 1600 BC."* [2]
 
 Still, all the estimates put the flood at 2000 BC at the earliest.
+
+#### Xia Dynasty Dating Details
+
+Apparently one of the ways the Xia dynasty is dated is based on the subsequent Shang dynasty, which has better dating based on archaelogical evidence.
+
+"The Xia–Shang–Zhou Chronology Project (Chinese: 夏商周断代工程; pinyin: Xià Shāng Zhōu Duàndài Gōngchéng) was a multi-disciplinary project commissioned by the People's Republic of China in 1996 to determine with accuracy the location and time frame of the Xia, Shang, and Zhou dynasties. The project was directed by professor Li Xueqin of Tsinghua University in Beijing, and involved around 200 experts. It used radiocarbon dating, archaeological dating methods, historical textual analysis, astronomy, and other methods to achieve greater temporal and geographic accuracy... Among other findings, it dated the beginning of the Xia to c. 2070 BCE, the Shang to c. 1600 BCE, and the Zhou to c. 1046 BCE. However, some scholars have disputed several of the project's methods and conclusions." [7]
 
 ### Length of the flood - 22 years
 
@@ -125,6 +131,7 @@ The narrative consists of two parts. The first half relates the cause (but not t
 4. https://en.wikibooks.org/wiki/Chinese_Stories/N%C3%BCwa
 5. https://en.wikipedia.org/wiki/Majiayao_culture
 6. https://en.wikipedia.org/wiki/Shang_dynasty
+7. https://en.wikipedia.org/wiki/Xia%E2%80%93Shang%E2%80%93Zhou_Chronology_Project
 
 # TODO
 

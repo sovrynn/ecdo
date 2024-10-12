@@ -1,4 +1,4 @@
-# 3200 - 2800 BC event
+# ~3000 BC event (3200 - 2800 BC)
 
 This 400-year period is filled with extensive evidence that points to a global cataclysm. Most notably, multiple accounts of ECDO-like cataclysms (megafloods, Sun changing direction, land sinking) from all cradles of civilization, dated to approximately the same time, gives us a high certainty there was an ECDO-like event during this period. The convergence of evidence during this period is the strongest out of all ECDO candidate dates.
 
@@ -6,8 +6,9 @@ Cataclysm accounts:
 - China Nu Wa: 2810 BC
 - Eridu Genesis (Middle East): 3000 BCE
 - India, Sinking of Dwaraka: 3031 BC
-- Peruvian Timeline, Inca mythology: 2900 BC, **Year 0** (Montesino assumed to be "The Deluge")
 - Biblical Noahic deluge: 3500 - 2500 BC
+- Peruvian Timeline, Inca mythology: 2900 BC, **Year 0** (Montesino assumed to be "The Deluge")
+- Mayan long count calendar, 3114 BC
 
 Physical markers:
 - 3000 BC: Black Sea refilling that outpaces sea level rise

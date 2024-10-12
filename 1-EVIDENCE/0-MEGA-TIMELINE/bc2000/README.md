@@ -1,4 +1,4 @@
-# 2200 - 1700 BC event
+# ~2000 BC event (2200 - 1700 BC)
 
 This 500-year period is filled with extensive evidence from all domains, including history and physical markers. Along with accounts of mega-floods (Gun-Yu, Ogyges), prolonged flooding (Gun-Yu), and the Sun changing trajectory (Gun-Yu, Joshua), we can almost be certain there was an ECDO-like event during this period. Still, I think there's a small possibility this may have been some kind of comet encounter.
 
@@ -33,13 +33,16 @@ Cataclysm events:
 
 Physical markers:
 - 1650 BC Antarctic tephra
+- ~1700 BC: various burned Mesopotamian cities
+- ~1750 BC: human remains from multiple places around the world
 - 1960 BC Deception Island volcano, Antarctica
 - 2200 BC North Atlantic bond (ice rafting) event
 - 2200-2100 BC: climate aridification event
 - 2345 BC: Irish Oak tree rings
 - 2000 BC Kilimanjaro ice cores
+- 2500 BC Skara Brae abandonment
 
-In terms of a single candidate date for the cataclysm, I genuinely don't have one, which is one of the issues with this period. The events are spread out all over this period from as early as 2350 BC to as late as 1400 BC. If I had to choose two candidate dates, they would be 2200 BC (Gun-Yu, physical markers) and 1790 BC (Ogyges, Crete).
+In terms of a single candidate date for the cataclysm, it's quite difficult to choose one, as the events are spread out all over this period from as early as 2350 BC to as late as 1400 BC. If I had to choose one, it would be 2000 BC, as this seems the latest reasonable date for the start of the Xia dynasty, and is within reasonable timeframes for the Ogyges and Exodus cataclysms.
 
 ## Sun changing trajectory
 
@@ -47,9 +50,11 @@ In terms of a single candidate date for the cataclysm, I genuinely don't have on
 - Peru (Inca) myths
 - Joshua
 
+Here's one of the issues. Montesino's Peruvian timeline reports 24 hours of Sun, while the Gun-Yu flood reports 10 days of Sun. Just that seems irreconcilable.
+
 ## Velikovsky
 
-Velikovsky, bless him, has compiled an extensive and comprehensive compilation of cataclysms for this period. Note: I haven't checked most of his sources.
+Velikovsky, bless him, has compiled an extensive and comprehensive compilation of cataclysm accounts for this period. Note: I haven't checked most of his sources.
 
 ### Chronology
 

@@ -1,8 +1,30 @@
 # Holocene Mega Timeline
 
-I still think there's so much work that can be done here. So many "if => then" ECDO implications that can be researched and fleshed out. The repo is turning into a proper goldmine but it's only the seeds for a proper refinement. Each lead could probably take a month to research properly.
-
 The scale is key here. We aren't looking for droughts, or floods, or famines. We are looking for a convergence of the land burning, decade and century long famines, water flowing over mountains, civilizations wiped out, all at once. Understand the scale involved here.
+
+High-certainty ECDO-like geomagnetic-excursion cataclysms:
+- ~2000 BC, Gun-Yu, Ogyges, Exodus, Crete
+- ~3000 BC, recorded cataclysms from all cradles of civilization
+- ~9700 BC, end of Younger Dryas, Atlantis
+
+Promising:
+- 6200 BC, climate/historical anomalies, black/med sea refilling
+- 7500 BC, Tollman impact hypothesis, Uriel's Machine reference
+
+Potential:
+- 5400 BC, Nobulart's Noahic deluge date
+
+Require further investigation:
+- 400 BC, alexander the great, paleomagnetic anomalies
+
+Unlikely dates:
+- 550 AD, tree ring anomalies (might genuinely be a comet debris event, see paper in `biology`)
+- 1200 BC, Late Minoan 2, Egypt, paleoclimate anomalies
+
+Highly unlikely dates:
+- 1200 AD
+
+I still think there's so much work that can be done here. So many "if => then" ECDO implications that can be researched and fleshed out. The repo is turning into a proper goldmine but it's only the seeds for a proper refinement. Each lead could probably take a month to research properly.
 
 ## Fine-Tuning
 
@@ -13,31 +35,6 @@ Events that are documented as being contemporary, or events where a certain temp
 Another such detail would be accounts of the Sun having a certain specific anomalic trajectory (ex: the biblical Joshua cataclysm). These can then be cross-referenced wrt time of the day in other locations of the world.
 
 Historical continuity of significant continued human activity without a recorded account of a flood may be the easiest way to "disprove" an ECDO event. Still, the ensuing chaos may have made it difficult to document the event properly.
-
-## Other
-
-Nobulart's planetary harmonic and cataclysm chronology timeline in `timeline.xls`.
-
-# Overview
-
-High-certainty ECDO-like geomagnetic-excursion cataclysms:
-- ~2000 BC
-- ~3000 BC
-
-Promising dates:
-- Younger Dryas, ~9600 BC
-- 6200-5400 BC, climate/historical anomalies, black/med sea refilling (Nobulart's Noahic deluge date)
-- 7500 BC, Tollman impact hypothesis, Uriel's Machine reference
-
-Require further investigation:
-- 400 BC, alexander the great, paleomagnetic anomalies
-- 1200 BC, Late Minoan 2, Egypt, paleoclimate anomalies
-
-Unlikely dates:
-- 550 AD, tree ring anomalies (might genuinely be a comet debris event, see paper in `biology`)
-
-Highly unlikely dates:
-- 1200 AD
 
 ## Non-exact cataclysm accounts
 
@@ -66,44 +63,17 @@ Historical continuity during this period:
 - Roman Republic
 - Scythians
 
-## 1400 - 1200 BC
-
-This period is far enough away from 2000 BC to warrant its own investigation as a potential cataclysm. There is evidence from many domains pointing to a possible cataclysm in this time.
-
-- 1400 BC: Minoan Crete's third and final cataclysm
-- Egyptian dark age (see Barbara Bell)
-- Narrow Irish tree rings
-- Antarctic tephra
-- 1200 BC Mediterranean cooling event
-
-## 6200-5400 BC event
-
-Nobulart's preferred candidate date for Noah's flood. 3700 year periodicity with 1700 BC and 9100 BC.
-
-- 5400 BC: catal huyuk abandonment
-- 5800 BC: Mayan Chichancanab lake filling
-- 6000 BC: meltwater pulse 1c
-- 6200 BC: well documented cooling and aridification event
-- 6400 BC: Black Sea refilling (William Ryan)
-- Greenland, Kilimanjaro ice cores
-
 ## 7400 BC event
 
 - 7100 BC: Black Sea refilling
-- 7400 BC: Sinking of Dvaravati
+- 7400 BC: Sinking of Dvaravati (again)
 - 7400 BC: bond event
 - 7500 BC: Tollman bolide hypothesis
 - Greenland ice cores
 
-## 9600 BC event
+## Other
 
-A well-documented event, with an account of a continent "sinking in a day", and clear physical markers of widespread climate change, points to a high likelihood of an ECDO-like event.
-
-- 9100 BC: bond event
-- 9200 BC: Black Sea refilling
-- 9200 BC: Manu flood
-- 9600 BC: Atlantis
-- 9700 BC: end of Younger Dryas, many physical markers, meltwater pulse
+Nobulart's planetary harmonic and cataclysm chronology timeline in `timeline.xls`.
 
 ## Citations
 
