@@ -162,6 +162,4 @@ Same for the Valdivia culture.
 
 # TODO
 
-check India and Mesoamerica history during this period
-
 when did Moses live?
