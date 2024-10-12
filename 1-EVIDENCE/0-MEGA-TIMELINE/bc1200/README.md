@@ -9,7 +9,7 @@ This period is far enough away from 2000 BC to warrant its own investigation as 
 - Antarctic tephra
 - 1200 BC Mediterranean cooling climate change event
 
-While the physical markers are compelling, I have to initially bucket this event as unlikely due to lack of easily-found cataclysms records from China and India during this period. Obviously worth a deeper investigation.
+While the physical markers are compelling, I have to initially bucket this event as unlikely due to lack of easily-found cataclysm records from China and India during this period. Obviously worth a deeper investigation.
 
 ## China - Shang Dynasty (1600 - 1046 BC) [1]
 
