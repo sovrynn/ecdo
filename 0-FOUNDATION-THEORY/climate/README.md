@@ -13,6 +13,10 @@ For example, notice that the Pacific west coast is not humid, whereas East Asia 
 
 One thing that's for sure is that the placement of Eurasia smack on the equator will certainly change up the currents, and the Arctic region will be a lot more humid. The Pacific and Atlantic ocean currents will also get messed up as these no longer traverse vertically but horizontally. Africa would get quite dry as it moves to the north pole, which matches the 2200 BC drought.
 
+My incomplete attempt at visualizing this:
+
+![](img/s2-currents.png)
+
 ### Factors Determining the Path of Macro Surface Currents on Earth [3]
 
 The paths of **macro surface currents** (large-scale surface currents) on Earth are influenced by several key factors, including wind patterns, Earth’s rotation, coastline shapes, and variations in water temperature and salinity. These currents are essential for distributing heat, nutrients, and organisms globally.

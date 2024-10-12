@@ -16,7 +16,7 @@ This is an interesting diagram. The red dash-shaded areas are the "red beds" whi
 
 ![](img/bond1.png)
 
-Some interesting analysis on VM 29-191 ice core: "The strongest evidence for changes in ocean surface circulation during the ice-rafting events comes from VM 29-191."
+Analysis on VM 29-191 ice core: "The strongest evidence for changes in ocean surface circulation during the ice-rafting events comes from VM 29-191."
 
 "We find instead that the sources of IRD at VM 29-191 must have been much farther to the northeast in the Greenland-Iceland seas. There, percentages of the two tracers in core top sediments consistently reach or even exceed their peak values in VM 29- 191 (Figs. 1 and 4B). The Icelandic mate- rial probably was erupted onto drifting ice [see also (18)], and hematite-stained grains may have come from along coastal East Greenland and Svalbard (Fig. 1) and per- haps from farther north around the Arctic Ocean, where red beds also are present. The abrupt eastward and southward drops in tracer percentages almost certainly result from melting of ice along frontal systems where warm and cool surface waters mix (Figs. 1 and 4B). The low tracer percentages in Labrador Sea ice, therefore, likely reflect melting of tracer-rich ice in the Denmark Strait frontal system and the dearth of he- matite-bearing sources of IRD around the Labrador Sea (7)."
 
@@ -26,6 +26,8 @@ Some interesting analysis on VM 29-191 ice core: "The strongest evidence for cha
 ![](img/bond3.png)
 
 ![](img/bond4.png)
+
+Figure C below is interesting. It's a frequency analysis of "timeseries of hematite-stained grains" which I assume to be a proxy for "climate change" events. The 4670 is essentially the gas giant cycle, and 1800 is half of the 3700 4/5 harmonic that Nobulart believes to be special.
 
 ![](img/bond5.png)
 
