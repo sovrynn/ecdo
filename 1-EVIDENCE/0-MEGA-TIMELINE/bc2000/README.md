@@ -1,6 +1,6 @@
 # ~2000 BC event (2200 - 1700 BC)
 
-This 500-year period is filled with extensive evidence from all domains, including history and physical markers. Along with accounts of mega-floods (Gun-Yu, Ogyges), prolonged flooding (Gun-Yu), and the Sun changing trajectory (Gun-Yu, Joshua), we can almost be certain there was an ECDO-like event during this period.
+This 500-year period is filled with extensive evidence from all domains, including history and physical markers. Along with accounts of mega-floods (Gun-Yu, Ogyges), prolonged flooding (Gun-Yu), and the Sun changing trajectory (Gun-Yu, Joshua) corresponding with cataclysm markers across the globe, we can almost be certain there was an ECDO-like event during this period.
 
 This period in particular is a bit of a mess. I want to organize everything into a single timeline and establish temporal dependencies. Everything should line up.
 
