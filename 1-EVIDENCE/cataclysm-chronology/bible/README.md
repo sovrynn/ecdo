@@ -3,19 +3,11 @@
 Major events:
 - Noah's flood
 - Exodus (Red Sea Crossing), Moses
+    - Joshua
 - Adam and Eve flood
 
 Also:
 - Enoch
-- Joshua
-
-## Exodus (1800 - 1400 BC)
-
-This biblical chronology places Exodus anywhere from 1600 - 1400 BC: https://biblicalhistoricalcontext.com/exodus/the-biblical-dates-of-the-exodus/
-
-Africanus dated Ogyges as a contemporary of Moses and the Exodus, and he dated Ogyges to 1800 BC. See Europe flood myths.
-
-Exodus seems to be place about 900 - 1100 years after Noah's Flood. See the folder about Noah's flood.
 
 ## "catastrophe of Sodom and Gomorrah"
 
