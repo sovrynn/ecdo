@@ -1,8 +1,12 @@
 # Exodus
 
+The dating of this event is of high concern to me in constructing a cataclysm mega-timeline.
+
 ## Dating (1800 - 1400 BC)
 
 This biblical chronology places Exodus anywhere from 1600 - 1400 BC: https://biblicalhistoricalcontext.com/exodus/the-biblical-dates-of-the-exodus/
+
+Exodus is dated through temporal dependency of ~480 years to the building of the temple of Solomon, which seems well dated to around 950 BC. It's also dated by Joshua's conquest of Canaan.
 
 Africanus dated Ogyges as a contemporary of Moses and the Exodus, and he dated Ogyges to 1800 BC. See Europe flood myths.
 
@@ -13,6 +17,10 @@ Exodus seems to be placed about 900 - 1100 years after Noah's Flood. See the fol
 "1 Kings 6:1 states that the Exodus occurred 480 years before the construction of Solomon’s Temple in Jerusalem. If the construction of the temple is dated to around 966 BCE, this places the Exodus around 1446 BCE." [1]
 
 "Solomon (/ˈsɒləmən/),[a] also called Jedidiah,[b] was a monarch of ancient Israel and the son and successor of King David, according to the Hebrew Bible or Old Testament.[4][5] He is described as having been the penultimate ruler of an amalgamated Israel and Judah. The hypothesized dates of Solomon's reign are from 970 to 931 BCE." [2]
+
+### The United Kingdom of Israel [3]
+
+"According to the Deuteronomistic history in the Hebrew Bible, a United Monarchy or United Kingdom of Israel[7] existed under the reigns of Saul, Eshbaal, David, and Solomon, encompassing the territories of both the later kingdoms of Judah and Israel."
 
 ## How the Red Sea "parted" - Compton
 
@@ -30,3 +38,4 @@ According to the biblical account, the Exodus is traditionally believed to have 
 
 1. GPT
 2. https://en.wikipedia.org/wiki/Solomon
+3. https://en.wikipedia.org/wiki/Kingdom_of_Israel_(united_monarchy)

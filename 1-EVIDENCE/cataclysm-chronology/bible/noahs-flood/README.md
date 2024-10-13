@@ -18,6 +18,8 @@ Hebrew Masoretic:
 - Moses: 1692 - 1572 BC
 - 797 years between Flood and Exodus
 
+These start with Moses being born in 1692 BC, align up till Abraham born in 2117 BC, but then start to quickly diverge, placing significantly different lengths of time between Noah's flood and Abraham.
+
 ## Basic Biblical Chronology: 2472, 2304 BC
 
 This one uses an anchor point of the Fall of Jerusalem at 587 BC and works backwards to a flood date of 2472 BC. It places Exodus at 1446 BC - 1026 years later.

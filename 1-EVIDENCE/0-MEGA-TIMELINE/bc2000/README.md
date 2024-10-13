@@ -43,6 +43,8 @@ Physical markers:
 
 In terms of a single candidate date for the cataclysm, it's quite difficult to choose one, as the events are spread out all over this period from as early as 2350 BC to as late as 1400 BC. If I had to choose one, it would be 2000 BC, as this seems the latest reasonable date for the start of the Xia dynasty, and is within reasonable timeframes for the Ogyges and Exodus cataclysms.
 
+My biggest issue with this timeline is probably that Exodus seems well dated to around 1450 BC, which is significantly off from 2000 BC.
+
 ## Sun changing trajectory
 
 There are some inconsistencies that need to be reconciled here.
