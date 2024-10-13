@@ -52,9 +52,9 @@ There are some inconsistencies that need to be reconciled here.
 	- implies some kind of non-simplicity in the rotation. This would be explained by China rotating during the winter solstice (it would move towards the arctic) but this doesn't line up with the spring timeline of Exodus
 - Exodus
 	- spring
-- Phaethon
+- Phaethon (1 day no sun)
 - Peru (Inca) myths (24 hours sun)
-- Joshua
+- Joshua (Sun frozen low on horizon)
 
 Due to the temporal sequentiality between Exodus and Joshua, I believe this event can be organized the following way:
 - S1 to S2: Exodus (midday?), Gun-Yu (daytime)
