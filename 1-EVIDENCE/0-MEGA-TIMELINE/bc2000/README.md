@@ -58,7 +58,7 @@ There are some inconsistencies that need to be reconciled here.
     - Assuming this was from the Mediterranean region, this is well within bounds of the ECDO model - rotating north along the sunrise boundary
 
 Due to the temporal sequentiality between Exodus and Joshua, I believe this event can be organized the following way:
-- S1 to S2: Exodus (midday?), Gun-Yu (daytime)
+- S1 to S2: Exodus (spring), Gun-Yu (daytime)
 - S2 to S1: Joshua (morning)
 
 ## Velikovsky
