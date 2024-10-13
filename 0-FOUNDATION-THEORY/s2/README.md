@@ -58,6 +58,8 @@ As the inner layers of the Earth, including the upper mantle which lies beneath 
 
 Velikovsky mentions a twenty-five year gloom from American sources, and a 9-month darkness after Ogyges.
 
+The fact that Mesoamerican myths of 2000 BC indicate that the Sun rose from the east after a long period of darkness (S2) while other periods experienced light and burning during S2 (China, Mesopotamia) make me think that volcanic ash induced clouds will be localized rather than global - the concept of the entire Earth being covered in a cloud would then be incorrect.
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
