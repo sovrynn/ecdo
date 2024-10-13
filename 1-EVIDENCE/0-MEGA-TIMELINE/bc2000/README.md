@@ -55,6 +55,7 @@ There are some inconsistencies that need to be reconciled here.
 - Phaethon (1 day no sun)
 - Peru (Inca) myths (24 hours sun)
 - Joshua (Sun frozen low on horizon)
+    - Assuming this was from the Mediterranean region, this is well within bounds of the ECDO model - rotating north along the sunrise boundary
 
 Due to the temporal sequentiality between Exodus and Joshua, I believe this event can be organized the following way:
 - S1 to S2: Exodus (midday?), Gun-Yu (daytime)
