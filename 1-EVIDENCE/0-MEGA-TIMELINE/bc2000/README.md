@@ -85,7 +85,7 @@ Exodus (WIC pg 116):
 
 Aztecs, Mayans:
 - No Sun for many years
-- finally rose in the East
+- **finally rose in the East**
 
 Joshua:
 - same comet debris from Exodus
