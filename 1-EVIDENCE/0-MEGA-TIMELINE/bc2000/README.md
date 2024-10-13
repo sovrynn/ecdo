@@ -49,17 +49,20 @@ There are some inconsistencies that need to be reconciled here.
 
 - Gun-Yu flood (10 days sun)
 	- prolonged 22 year flood implies this event began from S1 -> S2
-	- implies some kind of non-simplicity in the rotation. This would be explained by China rotating during the winter solstice (it would move towards the arctic) but this doesn't line up with the spring timeline of Exodus
+	- implies some kind of non-simplicity in the rotation, as in a temporary confusion until the Earth converges on the new orbital axis. This could be explained by China rotating during the winter solstice (it would move towards the arctic) but this doesn't line up with the spring timeline of Exodus
 - Exodus
 	- spring
 - Phaethon (1 day no sun)
 - Peru (Inca) myths (24 hours sun)
+	- Montesinos timeline records 24 hours of Sun *some time after* invaders were destroyed by heavenly fire, which makes me think this occurred during S2 -> S1
 - Joshua (Sun frozen low on horizon)
     - Assuming this was from the Mediterranean region, this is well within bounds of the ECDO model - rotating north along the sunrise boundary
 
 Due to the temporal sequentiality between Exodus and Joshua, I believe this event can be organized the following way:
-- S1 to S2: Exodus (spring), Gun-Yu (daytime)
-- S2 to S1: Joshua (morning)
+- S1 to S2: Exodus (spring), Gun-Yu (daytime), Phaethon (nighttime)
+	- Phaethon's 1 day of no Sun would have had to occur during the flip to S2 since when going back to S1, it's between the Levant and Peru, which both experienced extended Sun
+- S2 to S1: Joshua (morning), Peru 24 hours of Sun
+	- this actually makes sense because after the rotation, Peru is 120 degrees east of the Levant
 
 ## Velikovsky
 
@@ -75,7 +78,7 @@ Second: Joshua, Ogyges
 
 Yahou contemporary with one of these two events.
 
-Since Exodus and Joshua happened so close to each other (~40 years) we can basically bunch these all up into one event. We also have Moses who lived for 120 years and was 80 at the time of Exodus; many of these other events are cited as being contemporary to him. So these temporal dependencies are good anchor points in my opinion.
+Since Exodus and Joshua happened so close to each other (~40 years) we can basically bunch these all up into one ECDO event. We also have Moses who lived for 120 years and was 80 at the time of Exodus; many of these other events are cited as being contemporary to him. So these temporal dependencies are good anchor points in my opinion.
 
 ### Cataclysm Details
 
@@ -95,7 +98,7 @@ Exodus (WIC pg 116):
 
 Aztecs, Mayans:
 - No Sun for many years
-- **finally rose in the East**
+- **finally rose in the East**, which actually implies that the entire duration of S2 may be filled with volcanic ash, at least close to volcanic activity
 
 Joshua:
 - same comet debris from Exodus
@@ -176,4 +179,4 @@ Same for the Valdivia culture.
 
 # TODO
 
-when did Moses live?
+verify the probability that Exodus and Joshua could have occurred in approximately 2000 BC
