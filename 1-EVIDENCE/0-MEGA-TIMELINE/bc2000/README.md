@@ -18,7 +18,7 @@ Cataclysm accounts:
 - 2136-1800 BC: Ogyges
 	- Said to be contemporary with Moses in Exodus, and possibly Gun-Yu
 	- Velikovsky places it in the middle of the second millenium BC
-- 2300-2000 BC: Chinese Great Gun-Yu Flood
+- 2300-2100 BC: Chinese Great Gun-Yu Flood
 	- water over mountains, sun not setting for 10 days
 	- Contemporary with Korea's Dangun myth
 	- Possibly contemporary with Ogyges
@@ -43,7 +43,7 @@ Physical markers:
 
 In terms of a single candidate date for the cataclysm, it's quite difficult to choose one, as the events are spread out all over this period from as early as 2350 BC to as late as 1400 BC. If I had to choose one, it would be 2000 BC, as this seems the latest reasonable date for the start of the Xia dynasty, and is within reasonable timeframes for the Ogyges and Exodus cataclysms.
 
-My biggest issue with this timeline is probably that Exodus seems well dated to around 1450 BC, which is significantly off from 2000 BC.
+My biggest issue with this timeline is probably that Exodus seems well dated to around 1450 BC, which is significantly off from 2000 BC. I prefer not to bend dates produced from extensive study and chalk it up to "human error".
 
 ## Sun changing trajectory
 
