@@ -24,6 +24,8 @@ Physical markers:
 
 All the evidence is spread throughout the repo but I'll include deeper investigations here.
 
+In terms of an exact date, I'd have to lean towards the earlier part of the period, around 3100 BC or slightly earlier, as this lines up with the Mayan calendar and is closer to the dating of the physical markers.
+
 ## Chinese Nu Wa Myth Dating
 
 "It is of some interest to note that Chinese myths indicate that the Flood event occurred at the end of the life of Nu Wa, consort of first Chinese emperor Fsu Hsi (2953 - 2838 BC according to standard chronologies), and who herself allegedly lived until about the year 2810 BC." - Bruce Masse
