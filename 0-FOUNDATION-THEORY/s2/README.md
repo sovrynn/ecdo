@@ -26,6 +26,8 @@ On the ostrich egg (`EVIDENCE/civilization-remnants/important-artifacts`) there'
 
 The lack of precedent for ice buildup on the S2 poles (South Africa) may point to an S2 that is shorter than S1 - not long enough for significant ice to accumulate, at least to the extent that it exists on the poles right now.
 
+The duration between Exodus and Joshua is about 40 years.
+
 ### Speculative
 
 "Moreover, during a short Khafre-styled reversal of say 10 to 50 bitter cold, dark, and wet years, we might not be able to detect such a Dzhanibekov rotation at all, even in ice cores." [2]
