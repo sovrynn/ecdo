@@ -51,9 +51,14 @@ Solstice: Also occurs twice a year, around June 21 (summer solstice) and Decembe
 
 ![](img/equinox-solstice.webp)
 
+## Chandler Wobble
+
+"The Chandler wobble or Chandler variation of latitude is a small deviation in the Earth's axis of rotation relative to the solid earth,[1] which was discovered by and named after American astronomer Seth Carlo Chandler in 1891. It amounts to change of about 9 metres (30 ft) in the point at which the axis intersects the Earth's surface and has a period of 433 days.[2][3] This wobble, which is an astronomical nutation, combines with another wobble with a period of six years, so that the total polar motion varies with a period of about 7 years." [2]
+
 ## Citations
 
 1. ChatGPT
+2. https://en.wikipedia.org/wiki/Chandler_wobble
 
 # TODO
 

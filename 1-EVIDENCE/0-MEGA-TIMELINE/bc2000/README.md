@@ -45,11 +45,20 @@ In terms of a single candidate date for the cataclysm, it's quite difficult to c
 
 ## Sun changing trajectory
 
-- Gun-Yu flood
-- Peru (Inca) myths
+There are some inconsistencies that need to be reconciled here.
+
+- Gun-Yu flood (10 days sun)
+	- prolonged 22 year flood implies this event began from S1 -> S2
+	- implies some kind of non-simplicity in the rotation. This would be explained by China rotating during the winter solstice (it would move towards the arctic) but this doesn't line up with the spring timeline of Exodus
+- Exodus
+	- spring
+- Phaethon
+- Peru (Inca) myths (24 hours sun)
 - Joshua
 
-Here's one of the issues. Montesino's Peruvian timeline reports 24 hours of Sun, while the Gun-Yu flood reports 10 days of Sun. Just that seems irreconcilable.
+Due to the temporal sequentiality between Exodus and Joshua, I believe this event can be organized the following way:
+- S1 to S2: Exodus (midday?), Gun-Yu (daytime)
+- S2 to S1: Joshua (morning)
 
 ## Velikovsky
 
