@@ -92,11 +92,11 @@ Joshua:
 - sun and moon stood still for a full day
 - ~40 years after Exodus
 - Moses passed away before Joshua (according to Velikovsky)
+- "The sun, thrown into confusion, had remained low on the horizon, and by not rising had spread terror amongst the great doctors" (see repo bible evidence page on this event)
 
 Phaethon:
 - Sun dissapeared for a day
 - vast conflagration
-- "The sun, thrown into confusion, had remained low on the horizon, and by not rising had spread terror amongst the great doctors" (see repo bible evidence page on this event)
 
 ## Yao
 
