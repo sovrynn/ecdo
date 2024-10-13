@@ -180,3 +180,7 @@ Same for the Valdivia culture.
 # TODO
 
 verify the probability that Exodus and Joshua could have occurred in approximately 2000 BC
+
+deucalion more extreme than ogyges?
+
+exodus was there conflagration in between the ash clouds?
