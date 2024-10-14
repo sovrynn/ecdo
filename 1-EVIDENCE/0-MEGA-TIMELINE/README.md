@@ -8,12 +8,12 @@ High-certainty ECDO-like geomagnetic-excursion cataclysms:
 - ~9700 BC, end of Younger Dryas, Atlantis
 
 Promising:
+- 5400 BC, Creation, Nobulart's Noahic deluge date
 - 6200 BC, climate/historical anomalies, black/med sea refilling
 - 7400 BC, Tollman impact hypothesis, Uriel's Machine reference
 
 Potential:
 - 400 BC, alexander the great, paleomagnetic anomalies
-- 5400 BC, Nobulart's Noahic deluge date
 
 Unlikely dates:
 - 550 AD, tree ring anomalies (might genuinely be a comet debris event, see paper in `biology`)

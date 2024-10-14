@@ -1,7 +1,7 @@
 # Bible Myths
 
 Major events (in order):
-- Adam and Eve flood
+- Adam and Eve flood (Creation)
 - Noah's flood
 - Tower of Babel
 - Catastrophe of Sodom and Gomorrah
