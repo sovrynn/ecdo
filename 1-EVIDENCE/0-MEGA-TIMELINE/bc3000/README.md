@@ -21,8 +21,11 @@ Physical markers:
 - Skara Brae 3000 BC "sand deposits"
 - Kilimanjaro 3200 BC ice core anomaly
 - Camp Century 2800 BC ice core anomaly
+- 3900 BC bond event
 
 All the evidence is spread throughout the repo but I'll include deeper investigations here.
+
+## Exact date
 
 In terms of an exact date, I'd have to lean towards the earlier part of the period, around 3100 BC or slightly earlier, as this lines up with the Mayan calendar and is closer to the dating of the physical markers.
 

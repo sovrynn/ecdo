@@ -32,6 +32,10 @@ This one uses anchor points of 0 AD (Jesus Christ) and Solomon laying the founda
 
 2304 BC: https://creation.com/the-date-of-noahs-flood
 
+## Africanus
+
+Dates Noah's flood to approximately 3269 BC.
+
 ## Gerald E. Aardsma book [2]: 3520 BC
 
 This fellow essentially inserts 1000 extra years to the Biblical choronology, at around 1200 BC, justified by a "copy error".
@@ -96,6 +100,8 @@ This page proposes a date around 5200 BCE by correlating a Black Sea filling aro
 - "The flood story is one of the most well known and most repeated apocalyptic stories throughout time.  Though, there is no evidence of an event at the time other than the sudden filling of the Black Sea basin by water flowing into it at an unimaginable rate, **archeology suggests that this event was the cause of much change about 5200 BC.** This flooding of the Black Sea may have been the basis of the flood story in Genesis."
 
 The duration of the flood is not clear; 40 days or 150 days depending on the account. [1]
+
+I view this as unlikely; Christian historians all place Creation around this time, not Noah's flood.
 
 ## Genesi 7:11
 

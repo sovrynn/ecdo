@@ -12,6 +12,10 @@ Africanus dated Ogyges as a contemporary of Moses and the Exodus, and he dated O
 
 Exodus seems to be placed about 900 - 1100 years after Noah's Flood. See the folder about Noah's flood.
 
+## Africanus Dating
+
+Dates Exodus to approximately 1800 BC using Biblical chronology going back from Cyrus, anchored to Greek Olympiads, and also dates Ogyges to the same time.
+
 ### Solomon's Temple
 
 "1 Kings 6:1 states that the Exodus occurred 480 years before the construction of Solomon’s Temple in Jerusalem. If the construction of the temple is dated to around 966 BCE, this places the Exodus around 1446 BCE." [1]

@@ -1,7 +1,15 @@
-# 6200 BC Event
+# 5600 BC Event (6400 - 5000 BC)
 
-There's a decent convergence of physical markers around this date. The most compelling to me is the convergence of evidence in the 6200 BC climate change event.
+This is a very wide range of dates but I'm bucketing it into one event for now since there could be quite a bit of dating error going back so far in time. With a diverse array of physical markers and a Biblical cataclysm account, along with a very compelling well-studied climate change event (6200 BC), I'm bucketing this one as a likely ECDO event.
 
+Some of the physical markers (ex: tree ring chronologies) and most of recorded history drop off this far back, so we don't have as much to work with.
+
+Cataclysm accounts:
+- 5550 BC: Creation
+
+Physical markers:
+- 5000 BC: Syrian coastal climate change
+- 5325 BC: Shetland tsunami deposit
 - 5800 BC: Mayan Chichancanab lake filling
 - 6000 BC: meltwater pulse 1c
 - 6200 BC: bond event
@@ -10,6 +18,14 @@ There's a decent convergence of physical markers around this date. The most comp
 - 6200 BC: Storegga underwater landslide
 - 6300 BC: Kilimanjaro ice cores
 - 6400 BC: Black Sea refilling (William Ryan)
+
+Abandoned settlements:
+- 5300 BC: Nabta Playa abandonment
+- 5400 BC: Catal Huyuk abandonment
+
+## Exact date
+
+I've selected 5600 BC as the candidate date for now based on the Biblical Creation datings. I think there's a possibility carbon-dating and adjacent methods may have more significant error than human timelines.
 
 ## 6200 BC Climate Change Event
 

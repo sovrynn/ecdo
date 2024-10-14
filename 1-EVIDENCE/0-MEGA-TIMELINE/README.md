@@ -1,15 +1,16 @@
 # Holocene Mega Timeline
 
-The scale is key here. We aren't looking for droughts, or floods, or famines. We are looking for a convergence of the land burning, decade and century long famines, water flowing over mountains, civilizations wiped out, all at once. Understand the scale involved here.
+The scale is key here. We aren't looking for droughts, or floods, or famines. We are looking for a convergence of the land burning, decade and century long famines, water flowing over mountains, civilizations wiped out, all at once.
 
-High-certainty ECDO-like geomagnetic-excursion cataclysms:
-- ~2000 BC, Gun-Yu, Ogyges, Exodus, Crete
-- ~3000 BC, recorded cataclysms from all cradles of civilization
+Almost certainly ECDO-like cataclysms:
+- ~2000 BC, Gun-Yu, Exodus, Ogyges, Crete, Mohenjo-Daro
+- ~3000 BC, Noah's flood, recorded cataclysms from all cradles of civilization
+
+High-likelihood ECDO cataclysms:
+- ~5600 BC, Biblical Creation, 6200 BC climate change event, black sea refilling
 - ~9700 BC, end of Younger Dryas, Atlantis
 
 Promising:
-- 5400 BC, Creation, Nobulart's Noahic deluge date
-- 6200 BC, climate/historical anomalies, black/med sea refilling
 - 7400 BC, Tollman impact hypothesis, Uriel's Machine reference
 
 Potential:
@@ -24,13 +25,16 @@ Highly unlikely dates:
 
 I still think there's so much work that can be done here. So many "if => then" ECDO implications that can be researched and fleshed out. The repo is turning into a proper goldmine but it's only the seeds for a proper refinement. Each lead could probably take a month to research properly.
 
+## Human timelines vs physical marker dating
+
+Obviously we are looking for a great convergence of both, but in terms of preference I would say I have to prefer human timelines. When well-kept, they are more trustworthy than reconstructions from physical markers.
+
 ## Fine-Tuning
 
-Human accounts can be very useful in fine-tuning the timeline - for example, Exodus is accounted (by Velikovsky) as having happened in the spring. So if this was a global account it must have happened at the same time of the year elsewhere.
-
-Events that are documented as being contemporary, or events where a certain temporal distance dependency is known, are also very helpful.
-
-Another such detail would be accounts of the Sun having a certain specific anomalic trajectory (ex: the biblical Joshua cataclysm). These can then be cross-referenced wrt time of the day in other locations of the world.
+Detailed human accounts can be very useful in fine-tuning the timeline by aligning with accounts from other places in the world:
+- time of the year (ex: Exodus in spring)
+- contemporary events, or events with a known temporal distance from each other
+- specific anomalic paths of the Sun (ex: Joshua)
 
 Historical continuity of significant continued human activity without a recorded account of a flood may be the easiest way to "disprove" an ECDO event. Still, the ensuing chaos may have made it difficult to document the event properly.
 

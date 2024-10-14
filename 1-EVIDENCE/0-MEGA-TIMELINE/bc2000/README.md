@@ -6,7 +6,7 @@ This period in particular is a bit of a mess. I want to organize everything into
 
 I also want a timeline of the exact sequence of specific climate effects if possible. For example: flood, then drought, then Y, etc. This time period has the most detailed accounts, which would help build such a sequencing.
 
-## Overview
+## Timeline Overview
 
 Cataclysm accounts:
 - 1800-1400 BC: Biblical Exodus, Moses
@@ -41,9 +41,17 @@ Physical markers:
 - 2000 BC Kilimanjaro ice cores
 - 2500 BC Skara Brae abandonment
 
-In terms of a single candidate date for the cataclysm, it's quite difficult to choose one, as the events are spread out all over this period from as early as 2350 BC to as late as 1400 BC. If I had to choose one, it would be 2000 BC, as this seems the latest reasonable date for the start of the Xia dynasty, and is within reasonable timeframes for the Ogyges and Exodus cataclysms.
+The two key events for building this event timeline in my view are Gun-Yu and Exodus+Joshua, which both describe multi-decade long periods for cataclysmic happenings, which would line up very well with our current model of a short S2 state. Unfortunately the standard timelines for these are off by a couple of centuries.
 
-My biggest issue with this timeline is probably that Exodus seems well dated to around 1450 BC, which is significantly off from 2000 BC. I prefer not to bend dates produced from extensive study and chalk it up to "human error". The Bible does contain some other cataclysms (Sodom and Gomorrah) that correspond to this date better within standard chronologies. The issue then, of course, is that would mean that there was another ECDO-like cataclysm in the standard dates of Exodus, which doesn't seem to line up with other areas of the world.
+## Exact Date
+
+In terms of a single candidate date for the cataclysm, it's quite difficult to choose one, as the events are spread out all over this period from as early as 2350 BC to as late as 1400 BC. If I had to choose one, it would be 1950 BC, the midpoint of all the evidence and the least "stretch" date for both Gun-Yu and Exodus.
+
+## Biggest Discrepancy
+
+My biggest issue with this timeline is probably that Exodus seems well dated to around 1450 BC in modern literature, which is significantly off from the Gun-Yu dating. The Bible does contain some other cataclysms (Sodom and Gomorrah) that correspond to this date better within standard chronologies. The issue then, of course, is that would mean that there was another ECDO-like cataclysm in the standard dates of Exodus, which doesn't seem to line up with other areas of the world.
+
+Alternatively, Africanus, an "ancient" historian, dates Exodus to approximately 1800 BC. If we add in some margin here for the lifetime of Moses and slight error, we get a pretty good alignment with our preferred 1950 BC date.
 
 ## Sun changing trajectory
 
@@ -79,8 +87,6 @@ First: Deucalion, Phaethon, Exodus
 Second: Joshua, Ogyges
 
 Yahou contemporary with one of these two events.
-
-Since Exodus and Joshua happened so close to each other (~40 years) we can basically bunch these all up into one ECDO event. We also have Moses who lived for 120 years and was 80 at the time of Exodus; many of these other events are cited as being contemporary to him. So these temporal dependencies are good anchor points in my opinion.
 
 ### Cataclysm Details
 
@@ -186,3 +192,5 @@ verify the probability that Exodus and Joshua could have occurred in approximate
 deucalion more extreme than ogyges?
 
 exodus was there conflagration in between the ash clouds?
+
+vedic timeline
