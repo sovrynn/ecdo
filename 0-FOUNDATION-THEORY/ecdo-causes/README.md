@@ -75,6 +75,10 @@ A neutrino storm could significantly raise the number of interactions which occu
 
 https://www.britannica.com/science/neutrino
 
+## Dzhanibekov Rotation 180 to 104 transition? [2]
+
+Theory that as the Earth heated up, it went from doing full Dzhanibekovs to mediated ones. And that's what allowed life to develop.
+
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/
