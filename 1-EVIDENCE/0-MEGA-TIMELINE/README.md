@@ -16,9 +16,9 @@ High potential:
 - 7400 BC, Tollman impact hypothesis, sinking of Dvaravati
 
 Unlikely:
-- 550 AD, tree ring anomalies (might genuinely be a comet debris event, see paper in `biology`)
-- 400 BC, alexander the great, paleomagnetic anomalies
-- 1200 BC, Late Minoan 2, Egypt, paleoclimate anomalies
+- 550 AD, Baillie comet debris hypothesis, tree ring anomalies (might genuinely be a comet debris event, see paper in `biology`)
+- 400 BC, alexander the great flood, paleomagnetic anomalies
+- 1200 BC, Late Minoan 2 collapse, Egypt, paleoclimate anomalies
 
 Highly unlikely:
 - 1200 AD
