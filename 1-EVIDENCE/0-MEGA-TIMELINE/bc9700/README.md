@@ -3,6 +3,7 @@
 A well-documented widespread climate change event with clear physical markers, along with an account of a continent "sinking in a day", points to a high likelihood of an ECDO-like cataclysmic event.
 
 Cataclysm accounts:
+- 8950 BC: Vedic Sarasvati River lost in Thar Desert
 - 9200 BC: Manu flood
 - 9600 BC: Atlantis
 

@@ -5,7 +5,7 @@ This 400-year period is filled with extensive evidence that points to a global c
 Cataclysm accounts:
 - China Nu Wa: 2810 BC
 - Eridu Genesis (Middle East): 3000 BCE
-- India, Sinking of Dwaraka: 3031 BC
+- India, Sinking of Dwaraka: 3031 BC, disappearance of Post-Vedic Sarasvati and Dṛṣadvati Rivers 3000 BC
 - Biblical Noahic deluge: 3500 - 2500 BC
 - Peruvian Timeline, Inca mythology: 2900 BC, **Year 0** (Montesino assumed to be "The Deluge")
 - Mayan long count calendar, 3114 BC
@@ -13,7 +13,6 @@ Cataclysm accounts:
 Physical markers:
 - 3000 BC: Black Sea refilling that outpaces sea level rise
 - 3200 BC: Compton's comet mega-compilation of physical markers
-	- Mayan long count calendar
     - Babylonian, Mesoamerican, Egyptian floods, flash freeze events
 - 3200 BC: climate change event (Staubwasser, Weiss)
 - 3195 BC narrow Irish tree rings
@@ -28,7 +27,7 @@ All the evidence is spread throughout the repo but I'll include deeper investiga
 
 ## Exact date
 
-In terms of an exact date, I'd have to lean towards the earlier part of the period, around 3100 BC or slightly earlier, as this lines up with the Mayan calendar and is closer to the dating of the physical markers.
+In terms of an exact date, I'd have to lean towards the Mayan long count around 3100 BC as it seems the most reliable.
 
 ## Chinese Nu Wa Myth Dating
 

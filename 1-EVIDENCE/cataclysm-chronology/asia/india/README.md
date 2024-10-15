@@ -1,6 +1,6 @@
 # Indian Flood Myths
 
-There are several Indian flood myths.
+Indian mythology seems to be rich with accounts of natural disasters. Sometimes, the natural disasters seem to be portrayed as "gods" which fight, with one eventually winning out.
 
 ![alt](img/indiamyths.jpg "india myths")
 
@@ -9,7 +9,7 @@ Check `img/` for all records.
 A summary is as follows:
 - Manu flood: 9200 BC
 - Dvaravati sinking: 7400 BC
-- Dvarka sinking: 3100 BC
+- Mahabharata War, Krishna, Dvarka sinking: 3100 BC
 - North India deluge remnants: 2000-1900 BC
 
 ## Krishna - Mahabharata War 3067 BCE
@@ -27,9 +27,22 @@ Stephen Knapp, in "Advancements of Ancient India's Vedic Culture", provides a co
 
 ## The Chronology of India: From Manu to Mahabharata - Vedveer Arya - Manu flood 9200 BC? Dvaravati sinking 7400 BC?
 
-Vedveer Arya seems to have compiled a lengthy and comprehensive chronology of India's history worth looking at. Hard copy in this folder https://independent.academia.edu/VedveerArya
+Vedveer Arya seems to have compiled a lengthy and comprehensive chronology of India's history worth looking at, based on astronomical alignments, well-dated anchor dates, and other evidence. Hard copy in this folder https://independent.academia.edu/VedveerArya
+
+Key dates:
+- Commencement of Kaliyuga, Mahabharata War around 3100 BC
+- end of Krita Yuga around 6700 BC based on an astronomical alignment
+- introduction of yuga calendar around 16000 BC
+
+"Numerous references of post-Vedic literature mention the shifting of winter solstice from Mṛgaśirā Nakśatra to Rohiṇī. The Vedic legend of Prajāpati Dakśa and his 27 daughters clearly indicates the Mṛgaśirādi list of 28 Nakśatras, in turn indicating the beginning of Vaivasvata Manvantara around 11200 BCE. The winter solstice was at Mṛgaśirā
+Nakśatra around 11200-10200 BCE and at Rohiṇī Nakśatra around 10200- 9200 BCE. The same was at Kṛttikā Nakśatra around 9200-8200 BCE. The Nakśatra Sūkta of Atharvaveda was recompiled around 9200-9000 BCE
+and the list of Nakśatras had been reset starting from Kṛttikā Nakśatra."
 
 He places the Manu deluge at 9200 BC, and the submergence of Dvaravati (Dwarka) at 7400-7300 BC (Tollman event?). The submergence of the same Dwaraka city, of the Mahabharata era, in 3126 BC.
+
+"The Great Flood in Vaivasvata Manu’s Kingdom (11200 BCE) Vedic Sarasvati River lost in Thar Desert (10950 BCE) Later Rigvedic Period (11500-10500 BCE) Post-Vedic Sarasvati River started flowing westwards (10950-10000 BCE)"
+
+"The submergence of Dwārakā city of the Mahābhārata era in a tsunami (3126 BCE) The disappearance of Post-Vedic Sarasvati and Dṛṣadvati Rivers (3000 BCE)"
 
 See page 24 for an overview. Page 74 for Manu dating. Pg 497 for Dvaravati.
 
@@ -38,6 +51,14 @@ See page 24 for an overview. Page 74 for Manu dating. Pg 497 for Dvaravati.
 "According to oceanographic studies, sea level suddenly rose 28m in 500 years, about 12000-11500 years ago. This accelerated sea level of 10000- 9400 BCE has been named Meltwater Pulse 1B. Many Yādava families had to migrate eastwards and southwards. It appears that Indian astronomers observed the event of “Rohiṇī Śakaṭa Bheda” (when either Mars or Saturn pass through Rohiṇī Śakaṭa, i.e. the triangle formation of stars in Taurus constellation) several times around 9400-9300 BCE."
 
 "The archaeological site of Bhirrana in Hisar, Haryana has also been dated around 7500 BCE. A submerged structure of the ancient Poompuhar city found close to Kaveripattinam, Tamil Nadu has been dated around 9500" [29]
+
+### Indra (Pg 546)
+
+"Indra is the devatā of 289 hymns out of 1028 hymns of Rigveda. There were many Indras. Indra I (14000 BCE) was the son of Aditi and Kaśyapa."
+
+"His progeny also came to be known as Indra. He was the first to perform 100 Aśvamedha Yajñas. The Rigvedic legend of Indra, Vishnu and Emuśa or Varāha13 is related to Indra I and Vishnu I. Indra II (13650 BCE) became the King of Devas and eliminated Asura King Vritra, son of Tvaṣṭā. Viśvarūpā, son of Prajāpati Tvaṣṭā, was killed by Indra II. Vritra wanted to avenge the death of his brother Viśvarūpā. Finally, Indra II killed Vritrāsura. There was also Indra III (11325 BCE), who killed Śaṁbara, the Asura king. Rigveda eulogises mainly these three Indras. Later, rain and drought have been personified as Indra and Vritrāsura respectively. Indra was also paired with Agni, Vāyu, Varuṇa, Marut, Pūṣan, Vishnu, Soma and Brihaspati in Rigveda."
+
+Dvaraka flood reference?: "Shambara (Sanskrit: शम्बर, romanized: Śambara), also known as Shambarasura (Sanskrit: शम्बरासुर, romanized: Śambarāsur) is an asura featured in Hindu mythology. He abducted the infant Pradyumna, the son of Krishna and Rukmini, and attempted to drown him." [12]
 
 ## North India Flood Remnants (2000 - 1900 BC)
 
@@ -242,6 +263,7 @@ Vedic texts are highly symbolic and often mythological, containing stories of co
 9. https://en.wikipedia.org/wiki/Bhagavata_Purana#Content_and_structure
 10. https://en.wikipedia.org/wiki/Sarasvati_River
 11. https://en.wikipedia.org/wiki/Indra
+12. https://en.wikipedia.org/wiki/Shambara#:~:text=Shambara%20(Sanskrit%3A%20%E0%A4%B6%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%B0%2C%20romanized,and%20attempted%20to%20drown%20him.
 
 # TODO (much from chatgpt)
 

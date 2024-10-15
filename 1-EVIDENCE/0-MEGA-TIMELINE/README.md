@@ -11,7 +11,7 @@ High-likelihood ECDO cataclysms:
 - ~9700 BC, end of Younger Dryas, Atlantis
 
 High potential:
-- 7400 BC, Tollman impact hypothesis, sinking of Dvaravati, Uriel's Machine reference
+- 7400 BC, Tollman impact hypothesis, sinking of Dvaravati
 
 Unlikely:
 - 550 AD, tree ring anomalies (might genuinely be a comet debris event, see paper in `biology`)

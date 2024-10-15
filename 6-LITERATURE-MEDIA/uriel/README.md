@@ -32,6 +32,8 @@ We had already found, from geological and magnetostratigraphical evidence, that 
 
 (I found a paper of Liritzis, which is in his LITERATURE folder, but no specific mention of a 3150 BC Mediterranean comet impact).
 
+### Robert Bauval
+
 Robert’s reply was slow and deliberate. ‘The calibration graph generally shows the very smooth wobble which is to be expected from the precession of the magnetic generator. However, in the last 10,000 years there have been two exceptions when the direction of the magnetic field has changed abruptly and in a manner which suggests an outside impulse. There is a clear perturbation at around 3150 BC, which probably means a cometary impact, but there is a significantly larger one around 7000 BC. [54]
 
 ### Comet causing electric current
