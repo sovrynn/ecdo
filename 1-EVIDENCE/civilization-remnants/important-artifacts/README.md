@@ -56,6 +56,24 @@ The geometric theme of a pyramid and butterfly vortices seems quite common in an
 
 ![](img/pyramid-symbolism.jpg)
 
+## Sabu Disk [4]
+
+"Possibly found another part of the Sabu Disk (https://en.wikipedia.org/wiki/Sabu_disk). These Egyptian "libation bowls" do not look like any other (https://www.google.com/search?q=libation+bowl) such ceremonial devices. The video is of a 3D printed scale replica (the original is 60cm diameter)."
+
+![](img/sabu1.jpg)
+![](img/sabu2.jpg)
+![](img/sabu3.jpg)
+![](img/sabu4.jpg)
+![](img/sabu5.jpg)
+
+## Dendera Zodiac
+
+![](img/dendera.jpg)
+![](img/dendera2.jpg)
+![](img/dendera3.jpg)
+
+https://en.wikipedia.org/wiki/Dendera_zodiac
+
 ## Citations
 
 1. https://x.com/EthicalSkeptic/status/1832538729275117895?s=19

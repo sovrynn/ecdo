@@ -116,6 +116,12 @@ Bosnian Pyramids
 
 chinese pyramids https://thebrainchamber.com/chinese-pyramids/
 
+David Dubyne:
+- African Megaliths part 1 of 2
+- https://youtu.be/ao4HX8RGQ2o?si=87vQGm8LrHGCu1fc
+- African Megaliths part 2 of 2
+- https://youtu.be/V0J5opObsK8
+
 ## djedefre
 
 Unfinished Djedefre pyramid: https://m.youtube.com/watch?v=JEzZoNuRVJ0

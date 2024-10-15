@@ -38,6 +38,10 @@ Check out this guy doing experiments with it https://youtu.be/eIdHBDSQHyw?si=zmI
 
 This kind of long range transmission was strictly in the realm of military applications up until a few years ago, to the best of my knowledge. Long range yet very low power.
 
+## Scientology Archive
+
+For pro tips of archival, check the project scientology takes to preserve their original source material. Wondering if the archive grade paper they developed would be available commercially. This really goes over the top though, requires huge resources. https://www.scientology.tv/series/inside-scientology/archival-project.html
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

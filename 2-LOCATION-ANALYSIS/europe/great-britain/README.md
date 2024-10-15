@@ -140,6 +140,26 @@ Devil's stone https://megalithix.wordpress.com/2008/10/02/devils-stone-addlebrou
 
 ![](img/devil-stone.jpg)
 
+## Yorkshire Wolds
+
+The land from the present day cliff line (B) to the original cliff line (A) shouldn't really be there.
+
+![](img/yorkshire1.jpg)
+![](img/yorkshire2.jpg)
+![](img/yorkshire3.jpg)
+
+https://hobthrush.co.uk/the-fairy-stones-burdale/
+
+Nobody seems quite sure what created the dry valleys of East Yorkshire but deluge isn't a theory being considered.
+
+![](img/yorkshire4.jpg)
+
+## Vale of Pickering
+
+This screams deluge from the north not lowland hugging glaciers but you can't comprehend the truth without the earth flip piece of the jig saw.
+
+![](img/vale-pickering.jpg)
+
 ## Citations
 
 1. https://en.m.wikipedia.org/wiki/File:Old_Boundary_Marker_by_Blakey_Ridge,_Farndale_East_Parish_-_geograph.org.uk_-_6038888.jpg

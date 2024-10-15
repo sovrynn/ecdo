@@ -15,6 +15,26 @@ South America. The western ECDO pivot [1] is located near Mount Roraima.[2] Mega
 2. https://x.com/nobulart/status/1809938647262585184
 3. https://x.com/nobulart/status/1811105831573745686
 
+## Colombia Morphology Structure [1]
+
+This is some fascinating morphology. Colombia. Its massive. Spanning 1500 km.
+
+![](img/colombia1.jpg)
+![](img/colombia2.jpg)
+
+It lies mostly in Colombia. A small portion is in Venezuela.
+
+![](img/colombia3.jpg)
+
+It looks like exposed or deposited sand. Neither wind nor ice can produce perfectly straight lines across hundreds of km. It's too easily disrupted. So far as I know only water can.
+
+Been looking at this area some more. Being close to the pivot apparently increases the centrifugal movement of water away from the pivot. Note how the oceanic onboarding from the NW is somewhat contained by the high ground and then "flung" outwards (possibly including the lake water) through the openings on the west side. 
+
+7°55'32.28" N  62°04'01.00" W
+
+![](img/colombia4.png)
+![](img/colombia5.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

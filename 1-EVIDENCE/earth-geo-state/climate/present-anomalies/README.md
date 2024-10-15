@@ -74,6 +74,24 @@ Interesting visualisation of the uptick in seismic activity after 1970. It light
 
 https://youtu.be/ilFEKSZQv5o
 
+## Auroras
+
+Denmark: https://x.com/HaelVoort/status/1843041553742492052
+
+South Wales: https://x.com/thomas_winstone/status/1843050738391601274
+
+October 7, 2024 auroras:
+
+![](img/241007-auroras.jpg)
+
+https://x.com/ggormleyphotos/status/1843198255909478608
+
+https://x.com/NoVaxForMePal/status/1843232904719249511
+
+Finnish Lapland
+
+![](img/auroras-finnish.jpg)
+
 # TODO
 
 https://watchers.news/2024/09/26/swarm-of-over-100-earthquakes-hits-hanford-nuclear-site-near-tri-cities-in-washington-u-s/
