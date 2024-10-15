@@ -8,7 +8,7 @@ Cataclysm accounts:
 Physical markers:
 - 7100 BC: Black Sea refilling
 - 7300 BC: Greenland ice cores
-- 7400 BC: bond event
+- 7400 BC: bond event - glacier activity in Norway and cold event in China
 - 7500 BC: Tollman bolide hypothesis
 	- tree rings, tektites, youngest mammoth
 
