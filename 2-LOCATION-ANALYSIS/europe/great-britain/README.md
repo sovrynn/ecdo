@@ -154,6 +154,38 @@ Nobody seems quite sure what created the dry valleys of East Yorkshire but delug
 
 ![](img/yorkshire4.jpg)
 
+https://en.wikipedia.org/wiki/Quartzite
+
+mentions tectonic forces and heat
+
+in the occurence section it names the wrekin.
+
+![](img/yorkshire5.jpg)
+![](img/yorkshire6.jpg)
+
+The NW-SE striations through the mountains really stand out here.
+
+![](img/yorkshire7.jpg)
+
+wenlock edge, and port talbot are connected to this fault line I have circled
+
+![](img/yorkshire8.jpg)
+
+Interesting that the fault movements (arrows) are congruent with the ECDO m.o.i
+
+It's almost like waves from the north of the UK hit the igneous land mass and deposit huge amounts of sedimentary material to the south of it...
+
+![](img/yorkshire9.jpg)
+
+## Wigton, UK
+
+Funky morphology around Wigton, UK. 0-150m elevation, UK LIDAR 1m DEM
+
+Loc: -3.1251, 54.8297
+
+![](img/wigton1.jpg)
+![](img/wigton2.jpg)
+
 ## Vale of Pickering
 
 This screams deluge from the north not lowland hugging glaciers but you can't comprehend the truth without the earth flip piece of the jig saw.

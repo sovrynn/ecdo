@@ -114,6 +114,24 @@ The ZULU story tells us that ADAM’s CALENDAR is where humanity was created by 
 
 ![](img/zulu.jpg)
 
+## The Economist 33rd Edition
+
+Stumbled across the cover of the 33rd edition of the economist in my collection again. A quick retrospective review. The script is mirrored, as Da Vinci was fond of doing. We find a reference to the pipeline sabotage, and the four horsemen. Also one to Ultima Thule, which could be the peanut-shaped asteroid by that name (remarkably similar to the one that just passed us), or the ancient island, which it is speculated may have been Orkney, Shetland, Iceland or Greenland. The Pangolin, I suspect, was a reference to the software by that name released in 2020, and appears to be foundational to the virus scam.
+
+![](img/economist1.jpg)
+![](img/economist2.jpg)
+![](img/economist3.jpg)
+![](img/economist4.jpg)
+![](img/economist5.jpg)
+![](img/economist6.jpg)
+![](img/economist7.jpg)
+![](img/economist8.jpg)
+
+PANGOLIN project funding
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7610519/
+
+![](img/economist9.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

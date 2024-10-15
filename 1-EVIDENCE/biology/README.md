@@ -83,3 +83,9 @@ https://en.wikipedia.org/wiki/Alcide_d%27Orbigny
 That the surface beds of the Pampas and the deposits in the caves were synchronous, is admitted by all explorers. The same creatures are found in both, of course in different proportions, as is the case elsewhere. Nor is there any doubt that both sets of beds date from the same horizon as the Mammoth beds of other countries. The fauna of the pleistocene beds of the Southern States of North America is, in fact, largely identical with that from the beds we are now discussing ; the megatherium and mylodon, the tapir and capybara, the mastodon and horse, &c., &c., being found in both, and every observer, from Darwin to Burmeister, is agreed in assigning them to the same horizon." - The Mammoth and the Flood, Henry Howorth (1887)
 
 [1] https://archive.org/details/in.ernet.dli.2015.220742
+
+## Diseases and sunspot correlation
+
+can see dengue fever at the start of that chart at solar max
+
+![](img/disease.jpg)

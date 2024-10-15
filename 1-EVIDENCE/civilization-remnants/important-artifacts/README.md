@@ -66,6 +66,10 @@ The geometric theme of a pyramid and butterfly vortices seems quite common in an
 ![](img/sabu4.jpg)
 ![](img/sabu5.jpg)
 
+This particular "bowl" has a maximum outer diameter (including the protrusions) of 762mm [1]. From this I estimated an inner diameter of 655mm. The Sabu disk has an OD of 610mm [2], which would leave a clearance of ±22.5mm between the disk and this particular "housing".
+1. https://britishmuseum.org/collection/object/Y_EA1386
+2. https://researchgate.net/publication/357564589_The_Tri-Lobed_Disc_in_the_Tomb_of_Sabu_and_the_Basins_at_the_Sun_Temple_Were_for_Beer
+
 ## Dendera Zodiac
 
 ![](img/dendera.jpg)

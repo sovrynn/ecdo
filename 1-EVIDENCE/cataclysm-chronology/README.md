@@ -47,6 +47,16 @@ https://x.com/PadrePlyo/status/1837620633582424527 pretty smart way to figure ou
 
 [1] https://sci-hub.ru/10.1017/cbo9781139108393.016
 
+## Historical Timeline
+
+2 Dark Ages at 1,200 BC and 500 AD. 500 AD is close to the official timing of "Arthur's Comet" at 562 AD and 1,200 BC is edging back to the 1,700BC cataclysm.
+
+![](img/history-mega.jpg)
+
+Note the apparent relative collapse of the Middle Minoan civilization around 1750-1650BC, and something similar affecting many cultures around 450AD.
+
+![](img/histomap-big.jpg)
+
 ## Citations
 
 1. https://talkorigins.org/faqs/flood-myths.html#Yoruba
