@@ -59,6 +59,10 @@ Still, I see no mention of a flood.
 
 Korea has a well documented history during this period with significant happenings such as wars and no mention of any kind of cataclysm.
 
+## Japan - Yamato Period
+
+No cataclysms, and documented happenings around this period.
+
 ## Europe - Dark Ages
 
 The Roman Empire split into the Western and Eastern in 395.
