@@ -1,11 +1,11 @@
-# 5600 BC Event (6400 - 5000 BC)
+# 5500 BC Event (6400 - 5000 BC)
 
 This is a very wide range of dates but I'm bucketing it into one event for now since there could be quite a bit of dating error going back so far in time. With a diverse array of physical markers and a Biblical cataclysm account, along with a very compelling well-studied climate change event (6200 BC), I'm bucketing this one as a likely ECDO event.
 
 Some of the physical markers (ex: tree ring chronologies) and most of recorded history drop off this far back, so we don't have as much to work with.
 
 Cataclysm accounts:
-- 5550 BC: Creation
+- 5500 BC: Creation
 - 5500 BC: Aldebaran Hindu astronomy alignment
 
 Physical markers:
@@ -26,7 +26,7 @@ Abandoned settlements:
 
 ## Exact date
 
-I've selected 5600 BC as the candidate date for now based on the Biblical Creation datings. I think there's a possibility carbon-dating and adjacent methods may have more significant error than human timelines.
+I've selected 5500 BC as the candidate date for now based on the Biblical Creation datings. I think there's a possibility carbon-dating and adjacent methods may have more significant error than human timelines which should (theoretically) be more deterministic.
 
 ## 6200 BC Climate Change Event
 

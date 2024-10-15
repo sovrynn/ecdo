@@ -2,12 +2,14 @@
 
 The scale is key here. We aren't looking for droughts, or floods, or famines. We are looking for a convergence of the land burning, decade and century long famines, water flowing over mountains, civilizations wiped out, all at once.
 
+The following timeline implies 4-5 ECDO-like cataclysms during the Holocene, starting with the end of the Younger Dryas.
+
 Almost certainly ECDO-like cataclysms:
 - ~2000 BC, Gun-Yu, Exodus, Ogyges, Crete, Mohenjo-Daro
 - ~3000 BC, Noah's flood, recorded cataclysms from all cradles of civilization
 
 High-likelihood ECDO cataclysms:
-- ~5600 BC, Biblical Creation, 6200 BC climate change event, black sea refilling
+- ~5500 BC, Biblical Creation, 6200 BC climate change event, black sea refilling
 - ~9700 BC, end of Younger Dryas, Atlantis
 
 High potential:

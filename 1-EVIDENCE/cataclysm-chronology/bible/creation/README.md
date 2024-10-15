@@ -1,3 +1,19 @@
 # Creation
 
-Dated to 5500 BC by Africanus.
+- Theophilus of Antioch dated to 5514 BC
+- Clement of Alexandria dated to 5500 BC
+- Dated to 5500 BC by Africanus.
+
+## The Beginnings of Christian Universal History From Tatian to Julius Africanus (hard copy here)
+
+Good writeup. Not solely about Africanus (evidently from the title).
+
+"When one speaks of Christian historiography in antiquity, the first thing that usually comes to mind is “Church history” in general and Eusebius’ great achievement in this field in particular. Eusebius is called “the father of Church history”, and quite rightly so1. However, one tends to forget the fact that this new literary genre was not an immediate success story."
+
+"Christian chronography also originated in antiquity, and the honorary epithet “father of Christian chronography” has been given to Julius Africanus (third century), whose Chronographiae (or what survives of it) are now accessible in a new critical edition3."
+
+"What we have, are a few fragments of his cronograf...ai, originally a voluminous work consisting of five books, written in 221."
+
+## Sources
+
+[Zeits...: https://edoc.unibas.ch/21915/1/%5BZeitschrift%20fr%20Antikes%20Christentum%20%20Journal%20of%20Ancient%20Christianity%5D%20The%20Beginnings%20of%20Christian%20Universal%20History.%20From%20Tatian%20to%20Julius%20Africanus.pdf

@@ -19,6 +19,65 @@ The earliest archaelogical dating of Bible chronology seems to be the Merneptah 
 
 "The Merneptah Stele, also known as the Israel Stele or the Victory Stele of Merneptah, is an inscription by Merneptah, a pharaoh in ancient Egypt who reigned from 1213 to 1203 BCE... The text is largely an account of Merneptah's victory over the ancient Libyans and their allies, but the last three of the 28 lines deal with a separate campaign in Canaan, then part of Egypt's imperial possessions. It is sometimes referred to as the "Israel Stele" because a majority of scholars translate a set of hieroglyphs in line 27 as "Israel". Alternative translations have been advanced but are not widely accepted." [5]
 
+## "catastrophe of Sodom and Gomorrah"
+
+"two daughters of Lot, who hid with him in a cave after the catastrophe of Sodom and Gomorrah, believed that they
+and their father were the only survivors in the land" Velikovsky pg 148 WIC
+
+## Chan - 3 cataclysms?
+
+Chan believe there are 3 cataclysms recorded in the Bible: *"Did you understand that there are three cataclysms recorded in the Bible? Noah’s, Adam and Eve’s, and the one before that? If you missed it, check Genesis II."* [2]
+
+See `LITERATURE-MEDIA/chan-thomas`.
+
+## Two Bible Floods
+
+Hard copy `TwoFloods_Web.pdf` in this folder.
+
+## Adam and Eve Flood
+
+The opening verses of the bible begin with:
+
+"1) In the beginning God created the heavens and the earth. 2) Now the earth was formless and void, and darkness was over the surface of the deep. And the Spirit of God was hovering over the surface of the waters."
+
+The second verse may refer to a cataclysm flood event.
+
+## Isaiah 24
+
+17Terror and the pit and the snared
+are upon you, O inhabitant of the earth!
+18He who flees at the sound of the terror
+shall fall into the pit,
+and he who climbs out of the pit
+shall be caught in the snare.
+For the windows of heaven are opened,
+and the foundations of the earth tremble.
+19The earth is utterly broken,
+the earth is split apart,
+the earth is violently shaken.
+20The earth staggers like a drunken man;
+it sways like a hut;
+its transgression lies heavy upon it,
+and it falls, and will not rise again.
+
+## Psalms
+
+Psalm 104: “The waters stood above the mountains... they go up by the mountains” and Psalm 107 “The waves mount up to the heaven.”
+
+## Four Horsemen of Revelations [3]
+
+I've been pondering the four horseman and that part of Revelation. Could they be representations of the ancient Sumerian gods - the planets? 
+
+![](img/four-horsemen.jpg)
+
+https://chatgpt.com/share/66e956f9-6ecc-8005-ac2b-61537acbd613
+
+## Septuagint Dating Scheme
+
+![](img/bible-chronology.webp)
+
+https://www.reddit.com/r/UsefulCharts/comments/14bqxtw/biblical_chronology_according_to_the_septuagint/
+
 ## Bible Cataclysms, per GPT [6]
 
 ### 1. The Flood of Noah
@@ -92,65 +151,6 @@ The earliest archaelogical dating of Bible chronology seems to be the Merneptah 
 - **Estimated Date**: 586 BCE
 - **Event**: The **Babylonians** capture **Jerusalem**, destroy **Solomon’s Temple**, and carry many Israelites into exile.
 - **Significance**: Marks the end of the **Kingdom of Judah** and the beginning of the **Babylonian Exile**, a pivotal moment of judgment for persistent idolatry and disobedience.
-
-## "catastrophe of Sodom and Gomorrah"
-
-"two daughters of Lot, who hid with him in a cave after the catastrophe of Sodom and Gomorrah, believed that they
-and their father were the only survivors in the land" Velikovsky pg 148 WIC
-
-## Chan - 3 cataclysms?
-
-Chan believe there are 3 cataclysms recorded in the Bible: *"Did you understand that there are three cataclysms recorded in the Bible? Noah’s, Adam and Eve’s, and the one before that? If you missed it, check Genesis II."* [2]
-
-See `LITERATURE-MEDIA/chan-thomas`.
-
-## Two Bible Floods
-
-Hard copy `TwoFloods_Web.pdf` in this folder.
-
-## Adam and Eve Flood
-
-The opening verses of the bible begin with:
-
-"1) In the beginning God created the heavens and the earth. 2) Now the earth was formless and void, and darkness was over the surface of the deep. And the Spirit of God was hovering over the surface of the waters."
-
-The second verse may refer to a cataclysm flood event.
-
-## Isaiah 24
-
-17Terror and the pit and the snared
-are upon you, O inhabitant of the earth!
-18He who flees at the sound of the terror
-shall fall into the pit,
-and he who climbs out of the pit
-shall be caught in the snare.
-For the windows of heaven are opened,
-and the foundations of the earth tremble.
-19The earth is utterly broken,
-the earth is split apart,
-the earth is violently shaken.
-20The earth staggers like a drunken man;
-it sways like a hut;
-its transgression lies heavy upon it,
-and it falls, and will not rise again.
-
-## Psalms
-
-Psalm 104: “The waters stood above the mountains... they go up by the mountains” and Psalm 107 “The waves mount up to the heaven.”
-
-## Four Horsemen of Revelations [3]
-
-I've been pondering the four horseman and that part of Revelation. Could they be representations of the ancient Sumerian gods - the planets? 
-
-![](img/four-horsemen.jpg)
-
-https://chatgpt.com/share/66e956f9-6ecc-8005-ac2b-61537acbd613
-
-## Septuagint Dating Scheme
-
-![](img/bible-chronology.webp)
-
-https://www.reddit.com/r/UsefulCharts/comments/14bqxtw/biblical_chronology_according_to_the_septuagint/
 
 ## Citations
 
