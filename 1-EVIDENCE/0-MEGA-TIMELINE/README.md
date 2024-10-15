@@ -42,7 +42,7 @@ Historical continuity of significant continued human activity without a recorded
 
 - Ancient Egypt, Herodotus: 341 generations of men up till 1290 BC (10k-4.7k years) 4 Sun changes (2 flips?)
 - Plato: "Many great deluges" since Athens and Atlantis, a significant "third great flood before Deucalion" that washed away most of Athens' fertile soil
-	- indicates there should be at least 3 floods after the Atlantis one. Currently we only have 2 high-certainty ones, 2000 and 3000 BC
+	- indicates there should be at least 3 floods after the Atlantis one.
 
 ## Other
 
