@@ -55,6 +55,10 @@ Still, I see no mention of a flood.
 
 "Despite Emperor Wu's assurances, Hou decided to rebel in the name of Xiao Dong, the grandson of the former crown prince Xiao Tong who died in 531 and was removed from crown prince because of conflicts with his father... However, Chen Baxian was displeased with the arrangements, and in a surprise move killed Wang and deposed Emperor Min in favor of Xiao Fangzhi who became Emperor Jing of Liang. After a short reign, Chen deposed Emperor Jing and took power himself as Emperor Wu of Chen in 557." [7]
 
+## Korea - Three Kingdoms Period
+
+Korea has a well documented history during this period with significant happenings such as wars and no mention of any kind of cataclysm.
+
 ## Europe - Dark Ages
 
 The Roman Empire split into the Western and Eastern in 395.
