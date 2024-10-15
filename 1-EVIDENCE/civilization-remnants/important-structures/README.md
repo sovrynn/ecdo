@@ -96,6 +96,14 @@ See PDF `Evidence of Vedic Cosmology...` in this folder.
 ![](img/men-an-tol.jpg)
 ![](img/men-an-tol2.jpg)
 
+## "9000-year-old ‘Stonehenge-like’ structure discovered at the bottom of Lake Michigan"
+
+![](img/michigan1.jpg)
+![](img/michigan2.jpg)
+![](img/michigan3.jpg)
+
+[1] https://www.thebrighterside.news/post/9000-year-old-stonehenge-like-structure-discovered-at-the-bottom-of-lake-michigan/
+
 # TODO Potential Leads
 
 - Goseck circle in Germany

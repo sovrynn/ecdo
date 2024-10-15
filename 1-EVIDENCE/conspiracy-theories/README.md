@@ -101,6 +101,14 @@ Suddenly it hit! - Pole shift"
 
 https://youtu.be/DbVJmSP9-ug
 
+## The cryptoterrestrial hypothesis: A case for scientific openness to a concealed earthly explanation for Unidentified Anomalous Phenomena (hard copy here)
+
+Came across this fascinating recent paper written by some Harvard professors discussing an alternative perspective on the usual alien narrative. It covers a few things discussed in this chat that many here might find of interest.
+
+"Kastrup (2024) notes the viability of  the Silurian hypotheses, suggesting there has been “plenty of time and opportunity for other non-human species to have arisen on Earth, developed to a level of technology far beyond ours … and then to have effectively vanished due to one or more of the myriad possible civilisation-ending cataclysms.”"
+
+If you find it to long if a read, just skip to page 16 of the pdf and read the conclusion
+
 # TODO
 
 Tavistock institute

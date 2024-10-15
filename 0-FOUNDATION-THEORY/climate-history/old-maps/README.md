@@ -23,3 +23,9 @@ It differs from what we are used to with Green Antarctica. on the map can everyo
 ![](img/ancient-sea-kings.png)
 
 https://archive.org/details/HapgoodCharlesHutchinsMapsOfTheAncientSeaKings/page/n9/mode/2up
+
+## A  1675 map by Athanasius Kircher with the telling title "A Geographical Map of the World After the Flood"
+
+If not distracted by Atlantis, shown near North America, the map shows the coastal part of the continents that has gone under water in recent years. The Aral Sea and the Caspian Sea are connected into one body of water. What is worth paying attention to: the map is drawn as if the author witnessed the events or redrawn from other more ancient maps. What archaeologists are now finding underwater is perfectly overlaid on this map.
+
+![](img/kircher.jpg)

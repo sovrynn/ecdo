@@ -88,6 +88,11 @@ The Mayan calendar is divided into Seven Ages of Man. The fourth epoch ended in 
 
 http://www.incamayanaztec.com/inca-calendars.html
 
+## Cherokee Stories
+
+![](img/cherokee1.jpg)
+![](img/cherokee2.jpg)
+
 ## Citations
 
 1. https://zsitchinindex.wordpress.com/the-earth-chronicles-index/book-4-the-lost-realms/chapter-7-the-day-the-sun-stood-still/
