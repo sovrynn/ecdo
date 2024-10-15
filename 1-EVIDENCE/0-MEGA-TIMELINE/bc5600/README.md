@@ -6,6 +6,7 @@ Some of the physical markers (ex: tree ring chronologies) and most of recorded h
 
 Cataclysm accounts:
 - 5550 BC: Creation
+- 5500 BC: Aldebaran Hindu astronomy alignment
 
 Physical markers:
 - 5000 BC: Syrian coastal climate change

@@ -15,6 +15,7 @@ Cataclysm accounts:
 	- Usually placed some time after Ogyges
 - ~1800 BC: Ancient Peru, invaders destroyed by fire, and some extended time later, 24 hours of Sun
     - 12th of 40 generations between 2400 BC and 400 BC
+- 2000-1700 BC: Drying of Saraswati, Indra vs Vritra Vedic myth
 - 2136-1800 BC: Ogyges
 	- Said to be contemporary with Moses in Exodus, and possibly Gun-Yu
 	- Velikovsky places it in the middle of the second millenium BC
@@ -35,17 +36,18 @@ Physical markers:
 - 1650 BC Antarctic tephra
 - ~1750 BC: human remains from multiple places around the world
 - 1960 BC Deception Island volcano, Antarctica
+- 2000 BC Kilimanjaro ice cores
+- 2000 BC drying of the Saraswati
 - 2200 BC North Atlantic bond (ice rafting) event
 - 2200-2100 BC: climate aridification event
 - 2345 BC: Irish Oak tree rings
-- 2000 BC Kilimanjaro ice cores
 - 2500 BC Skara Brae abandonment
 
 The two key events for building this event timeline in my view are Gun-Yu and Exodus+Joshua, which both describe multi-decade long periods for cataclysmic happenings, which would line up very well with our current model of a short S2 state. Unfortunately the standard timelines for these are off by a couple of centuries.
 
-## Exact Date
+## Exact Date - 1900 BC?
 
-In terms of a single candidate date for the cataclysm, it's quite difficult to choose one, as the events are spread out all over this period from as early as 2350 BC to as late as 1400 BC. If I had to choose one, it would be 1950 BC, the midpoint of all the evidence and the least "stretch" date for both Gun-Yu and Exodus.
+In terms of a single candidate date for the cataclysm, it's quite difficult to choose one, as the events are spread out all over this period from as early as 2350 BC to as late as 1400 BC. If I had to choose one, it would be 1900 BC, the midpoint of all the evidence and the least "stretch" date for both Gun-Yu and Exodus.
 
 ## Biggest Discrepancy
 

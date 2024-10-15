@@ -1,6 +1,6 @@
 # 9700 BC - End of Younger Dryas, start of Holocene
 
-A well-documented event, with an account of a continent "sinking in a day", and clear physical markers of widespread climate change, points to a high likelihood of an ECDO-like cataclysmic event.
+A well-documented widespread climate change event with clear physical markers, along with an account of a continent "sinking in a day", points to a high likelihood of an ECDO-like cataclysmic event.
 
 Cataclysm accounts:
 - 9200 BC: Manu flood

@@ -62,6 +62,10 @@ Velikovsky mentions a twenty-five year gloom from American sources, and a 9-mont
 
 The fact that Mesoamerican myths of 2000 BC indicate that the Sun rose from the east after a long period of darkness (S2) while other periods experienced light and burning during S2 (China, Mesopotamia) make me think that volcanic ash induced clouds will be localized rather than global - the concept of the entire Earth being covered in a cloud would then be incorrect.
 
+## Solar burning
+
+"Wildfire is also recorded as blowing the great rivers out of their beds, as the oral histories of the Indians of California and the traditions in the Near East around the Euphrates record. The Aborigines in southern Australia gave an account of the horrible heat descending from a red-hot sky. The heat was so extreme that people could not endure it, and the men killed their children and wives, and finally themselves (Walk, 1931, p. 76)." - Tollmann
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

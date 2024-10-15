@@ -29,11 +29,13 @@ Stephen Knapp, in "Advancements of Ancient India's Vedic Culture", provides a co
 
 Vedveer Arya seems to have compiled a lengthy and comprehensive chronology of India's history worth looking at. Hard copy in this folder https://independent.academia.edu/VedveerArya
 
-He places the Manu deluge at 9200 BC, and the submergence of Dvaravati (Dwarka) at 7400 BC (Tollman event?). The submergence of the same Dwaraka city, of the Mahabharata era, in 3126 BC.
+He places the Manu deluge at 9200 BC, and the submergence of Dvaravati (Dwarka) at 7400-7300 BC (Tollman event?). The submergence of the same Dwaraka city, of the Mahabharata era, in 3126 BC.
 
 See page 24 for an overview. Page 74 for Manu dating. Pg 497 for Dvaravati.
 
 "Seemingly, forty-nine descendants of King Dravida reigned at Dvāravatī approximately for 1650 years, from 11050 BCE to 9400 BCE, considering the average reign of 33 years for each king. Dvāravatī was submerged by the sea around 9400-9300 BCE, during the reign of Irunkovel I, the forty-ninth king."
+
+"According to oceanographic studies, sea level suddenly rose 28m in 500 years, about 12000-11500 years ago. This accelerated sea level of 10000- 9400 BCE has been named Meltwater Pulse 1B. Many Yādava families had to migrate eastwards and southwards. It appears that Indian astronomers observed the event of “Rohiṇī Śakaṭa Bheda” (when either Mars or Saturn pass through Rohiṇī Śakaṭa, i.e. the triangle formation of stars in Taurus constellation) several times around 9400-9300 BCE."
 
 "The archaeological site of Bhirrana in Hisar, Haryana has also been dated around 7500 BCE. A submerged structure of the ancient Poompuhar city found close to Kaveripattinam, Tamil Nadu has been dated around 9500" [29]
 
@@ -118,8 +120,6 @@ https://arvind-bhagwath.medium.com/mythology-of-nakshatras-ccac027e24c9
 
 ## 5500 BC event?
 
-5500 BCE event
-
 In Hindu astronomy, Aldebaran is Rohini nakshatra and Planet Saturn is referred as Shani. The particular mention of ‘Rohini Sakata Bhedanam’ in Indian literature is an event of great significance. This event occurs when Saturn or Mars is near Rohini Nakshatra. These events are mentioned in Ramayana and during great Mahabharata wars. Destruction happened every time this peculiar phenomenon appeared in the sky and below is mention in Ramayana.
 
 "It forebodes evil and destruction
@@ -129,7 +129,7 @@ It brings great sorrow and misery"
 
 I think its mars or saturn cross with aldebaran rather and all three being in alignment, but yeah if all three are in alignment that would be very rare event.
 
-Author did got two dates 3066 BCE and 5500 BCE, maybe we can get more dates.
+Author did got two dates 3066 BCE and 5500 BCE, Vedveer Arya also cites 7400 as one of the dates.
 
 Link for the whole article: https://arvind-bhagwath.medium.com/3000-bce-great-flood-and-rohini-sakata-bhedanam-406f8e810427
 
@@ -159,6 +159,76 @@ https://prajnasurabhi.blogspot.com/2014/09/rohini-sakata-bhedanam-world-wide.htm
 
 "Appearance of the Varaha avatar to lift the Earth out of the depths of the Cosmic Ocean (Garbhodakasayi) and destroy Hiranyaksa" [9]
 
+## Saraswati River Drying Up circa 2000 BC [10]
+
+"The Indus Valley Civilisation prospered when the monsoons that fed the rivers diminished around 5,000 years ago.[11][13][14][e] and ISRO has observed that major Indus Valley civilization sites at Kalibangan (Rajasthan), Banawali and Rakhigarhi (Haryana), Dholavira and Lothal (Gujarat) lay along this course.[15][web 1] When the monsoons that fed the rivers further diminished, the Hakra dried-up some 4,000 years ago, becoming an intermittent river, and the urban Harappan civilisation declined, becoming localized in smaller agricultural communities."
+
+### Was this river actually just the Pacific Ocean splashing over the Himalayas?
+
+"The Sarasvati River (IAST: Sárasvatī-nadī́) is a mythologized and deified ancient river first mentioned in the Rigveda[1] and later in Vedic and post-Vedic texts... As the goddess Sarasvati, the other referent for the term "Sarasvati" which developed into an independent identity in post-Vedic times.[4] The river is also described as a powerful river and mighty flood." [10]
+
+Recall this quote from BB Lal's 2000 BC flood paper:
+
+"It relates to the history the Sarasvatī, which is a river par excellence in the Ṛigveda. She has been eulogized as the best of mothers (ambitame), the best of rivers (nadītame) and the best of goddesses (devitame) [RV 2.41.16]. She originated in the mountains and went all the way down to the sea (yatī giribhya ā samudrāt) [RV 7.95.2]. She was so powerful that she shattered the mountain peaks with her fast and powerful waves (iyam śuṣmebhir bisakhā ivārujat sānu girīṇām taviṣebhirūrmibhiḥ) [RV 6.61.2]."
+
+## Indra vs Vritra [11]
+
+"Vritra (Sanskrit: वृत्र, lit. 'enveloper', IAST: Vṛtrá, Sanskrit pronunciation: [ʋr̩.ˈtrɐ]) is a danava in Hinduism. He serves as the personification of drought, and is an adversary of the king of the devas, Indra... He appears as a human-like serpent blocking the course of the Rigvedic rivers, and is slain by Indra with his newly forged vajra."
+
+"Indra as a deity had a presence in northeastern Asia minor, as evidenced by the inscriptions on the Boghaz-köi clay tablets dated to about 1400 BCE."
+
+"Indra is praised as the highest god in 250 hymns of the Rigveda – a Hindu scripture dated to have been composed sometime between 1700 and 1100 BCE. He is co-praised as the supreme in another 50 hymns, thus making him one of the most celebrated Vedic deities."
+
+"Over a quarter of the 1,028 hymns of the Rigveda mention Indra, making him the most referred to deity.[32][57] These hymns present a complex picture of Indra, but some aspects of Indra are often repeated. Of these, the most common theme is where he as the god with thunderbolt kills the evil serpent Vritra that held back rains, and thus released rains and land nourishing rivers."
+
+## Early Vedic Period (1500 - 1000 BC)
+
+### GPT: Vedic Cataclysms
+
+There are no definitive historical or archaeological records of a major cataclysmic event that can be directly tied to the Vedic period in India, which is generally dated to around 1500–500 BCE. However, some scholars have speculated that certain Vedic texts, particularly the Rigveda, contain references that could hint at ancient natural disasters or significant environmental changes. These mentions are often symbolic or mythological, making it challenging to interpret them as records of real events.
+
+Here are a few theories and interpretations:
+
+#### 1. Saraswati River Drying Up:
+
+Many references in the Vedas mention the Saraswati River, described as a mighty and sacred river. Geological and archaeological studies have suggested that a river, likely the Saraswati, did indeed flow through northwestern India but began drying up or changing course due to tectonic activity or climatic changes around the end of the Vedic period.
+The drying of the river could have had a significant impact on the civilizations that depended on it, leading to migrations and shifts in settlement patterns. This event could be considered a form of ecological cataclysm for the people of that time.
+
+#### 2. Climatic and Environmental Changes:
+
+Some researchers believe that references in the Vedic texts to battles between gods (such as Indra and Vritra) or cosmic struggles could symbolize natural phenomena, such as earthquakes, floods, or droughts. However, these interpretations are speculative and are not universally accepted by scholars.
+The end of the Harappan Civilization (Indus Valley Civilization), which some link to the early Vedic period, has been attributed to climate change, possibly linked to the drying of the Saraswati or shifting monsoon patterns.
+
+#### 3. Mythological and Symbolic Interpretations:
+
+Vedic texts are highly symbolic and often mythological, containing stories of cosmic battles, natural forces, and cycles of creation and destruction. For example, the battles between Indra (the storm god) and Vritra (a dragon or demon associated with drought) could be seen as metaphors for seasonal changes or environmental challenges, although this is a symbolic interpretation rather than a historical record of events.
+
+## GPT: Indian Mythological Stories Timeline
+
+1. **Indra vs. Vritra** - *c. 1500–1200 BCE*  
+   Indra, the Vedic storm god, battles Vritra, a serpent demon that holds back the waters, causing drought. Indra slays Vritra with his thunderbolt, releasing the waters and restoring fertility to the land. This myth is found in the *Rigveda*.
+
+2. **Varuna and the Asuras** - *c. 1500–1000 BCE*  
+   Varuna, the god of cosmic order and water, battles various demons (Asuras) who threaten the balance of the cosmos. While less prominent than Indra’s stories, Varuna’s tales emphasize his role in upholding moral and natural order in early Vedic texts.
+
+3. **The Churning of the Ocean (Samudra Manthan)** - *c. 1000–800 BCE*  
+   The gods (Devas) and demons (Asuras) churn the cosmic ocean to obtain the nectar of immortality. The process releases both beneficial items and a deadly poison, which Shiva consumes. This story appears in the *Shatapatha Brahmana*, and later in the *Mahabharata* and *Puranas*.
+
+4. **Vishnu as Varaha and Narasimha** - *c. 800–400 BCE*  
+   Vishnu, in his third avatar as Varaha (boar), rescues the Earth from the demon Hiranyaksha. In his fourth avatar, Narasimha (man-lion), he destroys the tyrant Hiranyakashipu, symbolizing the protection of cosmic balance. These stories emerge in the *Puranas* and early *Mahabharata* texts.
+
+5. **Krishna and Kaliya** - *c. 500–200 BCE*  
+   Krishna battles the multi-headed serpent Kaliya, who poisons the Yamuna River. Krishna subdues Kaliya by dancing on his heads, restoring the river’s purity. This story is found in the *Bhagavata Purana* and the *Harivamsa*.
+
+6. **Rama vs. Ravana (Ramayana)** - *c. 500–100 BCE*  
+   In the *Ramayana*, Rama, the prince of Ayodhya, battles the demon king Ravana, who has kidnapped his wife Sita. After a climactic battle, Rama defeats Ravana, symbolizing the victory of dharma (righteousness) over adharma (unrighteousness). The epic is attributed to the sage Valmiki.
+
+7. **Durga vs. Mahishasura** - *c. 400 BCE–300 CE*  
+   Goddess Durga battles Mahishasura, a powerful demon who takes the form of a buffalo. After a fierce fight, Durga slays Mahishasura, restoring cosmic order. This story appears in the *Devi Mahatmya*, part of the *Markandeya Purana*.
+
+8. **Parashurama vs. the Kshatriyas** - *c. 400 BCE–300 CE*  
+   Parashurama, the sixth avatar of Vishnu, combats the Kshatriya (warrior) class repeatedly when they become corrupt and oppressive. This myth, found in the *Puranas* and the *Mahabharata*, emphasizes divine justice and the restoration of dharma.
+
 ## Citations
 
 1. https://talkorigins.org/faqs/flood-myths.html#Tamil
@@ -170,8 +240,12 @@ https://prajnasurabhi.blogspot.com/2014/09/rohini-sakata-bhedanam-world-wide.htm
 7. https://en.wikipedia.org/wiki/Kurukshetra_War
 8. https://en.wikipedia.org/wiki/Mausala_Parva
 9. https://en.wikipedia.org/wiki/Bhagavata_Purana#Content_and_structure
+10. https://en.wikipedia.org/wiki/Sarasvati_River
+11. https://en.wikipedia.org/wiki/Indra
 
 # TODO (much from chatgpt)
+
+I'd actually like to put Buddha in the mega timeline somewhere
 
 Complete vedic timeline
 https://www.myindiamyglory.com/2021/02/07/outline-of-indian-chronology-manu-14500-bce-to-vikramaditya-1-bce/
