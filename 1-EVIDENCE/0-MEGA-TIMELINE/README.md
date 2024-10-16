@@ -29,6 +29,14 @@ I still think there's so much work that can be done here. So many "if => then" E
 
 Obviously we are looking for a great convergence of both, but in terms of preference I would say I have to prefer human timelines. When well-kept, they are more trustworthy than reconstructions from physical markers.
 
+## Evaluating physical markers
+
+One of the things we should do is be consistent with physical markers - evidence for a physical marker should not be selectively applied to convenient dates, but rather fit into the entire timeline, and more specifically, ALL hypothesized events in the timeline.
+
+For example if we hypothesize 4 events in the Holocene and an ice core shows 2 anomalies that match up with 2 of the events, this should actually be taken as evidence against the hypothesized timeline because the ice core only shows 2 events instead of 4. If 2 events are recorded in the ice cores why aren't the other 2?
+
+Of course there could be inconsistencies, variations, or undermining of the data that wipes out evidence for certain events while leaving evidence for others. But this should be treated as an edge case.
+
 ## Fine-Tuning
 
 Detailed human accounts can be very useful in fine-tuning the timeline by aligning with accounts from other places in the world:

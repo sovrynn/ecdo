@@ -127,6 +127,10 @@ Layers of shells separated by a layer of silt at around 3200 BC.
 
 ![](img/skara-brae-sediments.png)
 
+A gap in organic material between 4000 and 3000 BC. I personally think it's more likely that a sediment deposit closer to 3000 BC wiped out some of the older deposits, creating the 1000 year gap.
+
+![](img/skara-brae-layer-gap.png)
+
 ## Citations
 
 1. Uriel's Machine

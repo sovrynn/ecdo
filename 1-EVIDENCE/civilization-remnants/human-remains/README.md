@@ -1,27 +1,12 @@
 # Human Remains
 
-## Peru
-
-Archaeologists Uncover Remains of Two Children and an Adult Believed to be 3,800 Years Old, Linked to Ancient 'Water Cult'
+## Archaeologists Uncover Remains of Two Children and an Adult Believed to be 3,800 Years Old, Linked to Ancient 'Water Cult'
 
 https://www.msn.com/en-gb/news/world/archaeologists-uncover-remains-of-two-children-and-an-adult-believed-to-be-3-800-years-old-linked-to-ancient-water-cult/ar-AA1pgMk4?ocid=winp2fptaskbarhoverent&cvid=fc15d0494a344b7487d8b92d0ab9bd22&ei=14
 
 ![peru remains](img/peru-remains.jpg "peru remains")
 
 “A paper on this area states that “local shells, sea lion and shark bones, were found [in graves with the human (https://knewz.com/tag/human-history/) remains] along with domestic structures.”
-- Hard copy of paper in `research-papers/`
-
-![peru sediment](img/peru-sediment.jpg "peru sediment")
-
-Seven sedimentary "floors". That looks a lot like alluvial deposit to me.
-
-![peru sediment](img/peru-sediment2.jpg "peru sediment")
-
-Ash-sand-ash-sand... more than once.
-
-![gramalote](img/gramalote.jpg "gramalote")
-
-Gramalote ECDO context.
 
 ## Asian bodies in the Mediterranean?
 
