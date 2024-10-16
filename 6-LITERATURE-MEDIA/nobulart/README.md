@@ -62,6 +62,10 @@ https://nobulart.com/the-study-of-cycles/
 Not my authorship on this one, but I feel that Joe Vialls made some valid points in this. 
 https://nobulart.com/nukes-and-tobacco
 
+## Atlantis
+
+https://nobulart.com/a-story-of-atlantis/
+
 ## Good Articles
 
 Chan excerpts (tons of evidence in these):

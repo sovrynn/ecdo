@@ -68,6 +68,10 @@ Purple skies: aurora above the cloud?
 
 ![](img/biae087.png)
 
+## Polar vortex
+
+![](img/polar-vortex.jpg)
+
 # TODO
 
 https://watchers.news/2024/09/26/swarm-of-over-100-earthquakes-hits-hanford-nuclear-site-near-tri-cities-in-washington-u-s/

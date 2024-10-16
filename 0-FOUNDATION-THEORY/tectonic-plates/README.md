@@ -16,6 +16,10 @@ This visual shows some areas which could potentially see new crust creation duri
 
 The crust created at these boundaries could then cause movement of plates in other areas, pushing plates into, across, or beneath each other.
 
+## Nobulart theory
+
+They're thrown into each other during a flip, potentially driving huge amounts of movement, crumpling, subduction, etc.
+
 ## Misc Knowledge
 
 ### Reading tectonic plate maps
