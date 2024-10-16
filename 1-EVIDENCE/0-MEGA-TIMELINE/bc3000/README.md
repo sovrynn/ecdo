@@ -23,6 +23,10 @@ Physical markers:
 - 3900 BC bond event
 - 3150 Tollman bolide hypothesis
 
+New additions:
+- 3200 BC Skara Brae silt layer in sediment cores
+- 3000 BC Bahamas flooding from sediment cores
+
 All the evidence is spread throughout the repo but I'll include deeper investigations here.
 
 ## Exact date

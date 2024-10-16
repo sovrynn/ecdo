@@ -102,7 +102,7 @@ See PDF `Evidence of Vedic Cosmology...` in this folder.
 ![](img/michigan2.jpg)
 ![](img/michigan3.jpg)
 
-[1] https://www.thebrighterside.news/post/9000-year-old-stonehenge-like-structure-discovered-at-the-bottom-of-lake-michigan/
+https://www.thebrighterside.news/post/9000-year-old-stonehenge-like-structure-discovered-at-the-bottom-of-lake-michigan/
 
 ## Japanese underwater pyramid
 

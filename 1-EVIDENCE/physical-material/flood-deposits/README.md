@@ -117,6 +117,16 @@ Lisbon. Tsunami c.3600 BP
 
 https://www.sciencedirect.com/science/article/abs/pii/S0037073823000416
 
+## Very high energy sedimentation (supratidal hurricane deposits) and Mid-Holocene highstand on carbonate platforms, Andros, Bahamas: An alternative view (hard copy here)
+
+"On the basis of 14C dates, I conclude that the whole area was flooded about 5000 years BP and then was covered by the subtidal greyish mud facies, rich in Peneroplids, in the area of Deep Creek (north of the study area), Pelican Creek and Wide Opening (southeast of the study area). The level of this paleo-Great Bahama Bank Sea continued to rise until 3500 years BP and then slowly fell asymptotically toward the present-day level."
+
+## Mid-Holocene environmental changes in the Bay of Skaill, Mainland Orkney, Scotland: an integrated geomorphological, sedimentological and stratigraphical study
+
+Layers of shells separated by a layer of silt at around 3200 BC.
+
+![](img/skara-brae-sediments.png)
+
 ## Citations
 
 1. Uriel's Machine
