@@ -22,6 +22,7 @@ New ENgland: I've never seen anything like this before. Even in May which is the
 
 ![](img/new-england-aurora1.jpg)
 ![](img/new-england-aurora2.jpg)
+![](img/england3.jpg)
 
 Last night's storm vs the one in May. We just hit new heights.
 
@@ -39,3 +40,8 @@ https://www.facebook.com/share/p/VZXk9jPeoZjbYPPq/
 ![](img/aurora-cape-town.jpg)
 
 it spanned the whole northen hemisphere at the same time pretty much
+
+Canada:
+
+![](img/canada-aurora.jpg)
+![](img/canada-aurora2.jpg)

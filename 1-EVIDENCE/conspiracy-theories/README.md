@@ -112,3 +112,5 @@ If you find it to long if a read, just skip to page 16 of the pdf and read the c
 # TODO
 
 Tavistock institute
+
+crop circles

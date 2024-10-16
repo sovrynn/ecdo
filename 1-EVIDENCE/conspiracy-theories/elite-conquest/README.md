@@ -74,6 +74,13 @@ AI does summarise ideas well.
 
 https://nobulart.com/report-from-iron-mountain
 
+## Finland war prep
+
+In Finland "leaders" are preparing for a war. Related they have made it public that in the event of natural or man made emergency all the people will be evacuated to three areas. What I find peculiar is the similarity of the evacuation area to overlap with safe zone of envisioned deluge.It must be just another coincidence.
+
+![](img/finland1.jfif)
+![](img/finland2.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
