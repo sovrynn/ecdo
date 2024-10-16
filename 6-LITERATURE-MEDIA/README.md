@@ -6,20 +6,68 @@ A centralized location for literature (books, research papers) and media related
 
 Morner, Martineau, Landscheidt, Velikovsky, Cuvier, Uriel
 
-Best cataclysm compilations:
+Cataclysm compilations, history:
 - Velikovsky WIC, extensive detail
 	- cosmic object anomalies
 - Compton compiled the best ~3100 BC cataclysm justification I have seen thus far
 	- Mesoamerica, Mesopotamia
 - Frazer, quoted in the OG TalkOrigins flood myth compilation, massive detail
 - Bruce Masse, US Air Force, 2800 Comet impact hypothesis, quoted by wikipedia
+- Bellamy
+- Bobrowsky
+- Delair
+- Filby
+- Isaac newton
+- Jadczyk
+- Mclachlan
+
+Cataclysm history theories:
+- Sitchin: Ancient Peru
+- Uriel: Enoch
+
+Theories:
+- laplace
+- horbiger hans
+- edgar cayce: independent flood theorist
+- Scallion: independent flood theorist
+- Einstein: Feedback on Velikovsky
+
+Cataclysm account sources:
+- Censorinus
+- Plato
+
+Cataclysm evidence, physical markers:
+- Cuvier georges: bio floodmass
+- Geikie
+- Liritzis
+- Oppenheimer: meltwater pulses
+- Sir arthur evans: Crete palace
+- Tollmann: 7400 comet hypothesis
 
 Geo/paleomagneticism:
 - Laj
 - Morner
 
-Haven't read yet:
-- Cuvier
+Atlantis:
+- flem-ath
+
+Biblical chronology:
+- Africanus
+- eusebius
+
+Climate change:
+- Barbara bell: climate change events
+
+Solar system:
+- landscheidt: Solar SSB theory
+- martineau: Harmonics, patterns, factoids
+
+Modern politics:
+- iron mountain: On the necessity and nature of modern war in society
+- robert lomas: Mason
+
+Water in the crust:
+- Salzman
 
 ## Paper Downloads
 

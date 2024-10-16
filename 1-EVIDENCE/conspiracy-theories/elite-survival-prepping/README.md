@@ -64,4 +64,38 @@ Its 90° not 104° (I checked)
 ![](beyondearth2.jpg)
 ![](beyondearth3.jpg)
 
+All inner planets within 90 degrees of Saturn and Jupiter. Just an observation.
+
+They included Ceres as well - notice?
+
+Note the liberal use of roman numerology everywhere as well. There is a strong "Music of the Spheres" vibe to many of these projects associated with the Billion Year Archive.
+
+Yes. The asteroid belt could represent an octave.
+
+On the ball, you are as always. Fancy that - she's the size of the British Isles.
+
+![](img/asteroid-belt)
+
+Earth, Moon & Ceres to scale.
+
+![](img/ceres-size.jpg)
+
+What is the binary code on the orbital paths? Where does the line go that intesects the 90 degree lines hitting Saturn and Jupiter? It doesn't appear to be on the same plane as it goes under the asteroid belt rather than over it.
+
+Not sure. I don’t see any obvious pattern.  Check out some of the other artwork on the site. Some interesting images.
+
+Check out their star map as well. On one of the other pages.
+
+33 crosses
+
+![](img/33-crosses.jpg)
+
 [1] https://www.beyondtheearth.org
+
+## TASAT
+
+Another one
+
+![](img/tasat.jpg)
+
+[1] https://tasat.org

@@ -69,6 +69,31 @@ Animal bones of unknown age (all dates stated are pure guesswork) found in vitri
 
 [1] https://sci-hub.ru/10.1006/jasc.1996.0046
 
+## Valdrøy, Norway
+
+In the summer of 1993, Norwegian scientists Rolv Lie and Stein-Erik Lauritzen discovered more than 7,000 bones of mammals, birds and fish in a cave on the island of Valdrøy, Norway, 250 km north of the Arctic Circle, dating to at least 30,000 years ago. Geologists believe the region was covered by an ice cap from 80,000 to 10,000 years ago. How did these animals get here?
+
+![](img/norway-cave.jpg)
+
+62°30'45.41" N   6°07'07.55" E (https://maps.app.goo.gl/W8XooEh74VkVXSAD6)
+
+[1] Cave stratigraphy in western Norway; multiple Weichselian glaciations and interstadial vertebrate fauna 
+https://sci-hub.ru/10.1111/j.1502-3885.1987.tb00096.x
+
+## Windmill Hill Cave (paper here)
+
+Such a pity that this is now closed to the public. The trashcan alley is the access.
+
+![](img/windmill-cave1.jpg)
+![](img/windmill-cave2.jpg)
+![](img/windmill-cave3.jpg)
+
+"Windmill Hill Cavern (also called Windmill Hill Cave, the Brixham Cave, Brixham Bone Cavern and Philp's Cave) is a limestone cave system in the town of Brixham, Devon. It was discovered in 1858 and later excavated by a team led by the geologist William Pengelly, who found proof that humans co-existed with extinct British fauna.
+
+After studying the flint artifacts at the Somme River Valley's gravel terraces, the more sceptical members of Pengelly's team, such as Joseph Prestwich, found the proof that they sought that humans and extinct British animals had once lived amongst each other. Remains of animals found in the cave included those of extinct species such as aurochs and woolly mammoth, as well as still extant taxa now absent from Europe, such as the spotted hyena."
+
+[1] https://en.wikipedia.org/wiki/Windmill_Hill_Cavern
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

@@ -104,6 +104,12 @@ See PDF `Evidence of Vedic Cosmology...` in this folder.
 
 [1] https://www.thebrighterside.news/post/9000-year-old-stonehenge-like-structure-discovered-at-the-bottom-of-lake-michigan/
 
+## Japanese underwater pyramid
+
+Has anyone dug into this? It would be interesting to map some of the underwater megaliths to see if there may be a correlation to old maps and possible water flows during S1/S2
+
+![](img/japan-pyramid.jpg)
+
 # TODO Potential Leads
 
 - Goseck circle in Germany
