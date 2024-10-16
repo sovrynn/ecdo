@@ -35,6 +35,8 @@ In terms of an exact date, I'd have to lean towards the Mayan long count around 
 
 "The legendary emperor Fuxi was believed to be the First Sovereign of the creation myth of Chinese civilization. Fuxi was the twin brother of Nuwa and, after escaping a great flood, the siblings lived together on Mount Kunlun. Fuxi and Nuwa are believed to be the progenitors of the human race." [1]
 
+The dating is based on an ancient Chinese historical chronology placing a line of rulers before the Xia Dynasty.
+
 "Fu Xi is part of the "Three Sovereigns and Five Emperors" (三皇五帝) mythology, a group of semi-divine, legendary figures said to have ruled before China's first historical dynasty, the Xia." [2]
 
 ### Three Sovereigns and Five Emperors
