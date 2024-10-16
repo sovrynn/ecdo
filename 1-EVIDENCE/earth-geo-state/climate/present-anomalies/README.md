@@ -92,6 +92,10 @@ Finnish Lapland
 
 ![](img/auroras-finnish.jpg)
 
+## Florida October 10 2024 Tornadoes and Hurricane
+
+![](img/florida-hurricane.png)
+
 # TODO
 
 https://watchers.news/2024/09/26/swarm-of-over-100-earthquakes-hits-hanford-nuclear-site-near-tri-cities-in-washington-u-s/

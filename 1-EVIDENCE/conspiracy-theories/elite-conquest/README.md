@@ -66,6 +66,14 @@ Some of its suggestions for responding to a 2030 pole reversal assuming an Elite
 
 AI does summarise ideas well.
 
+## Report from Iron Mountain
+
+![](img/ironm1.jpg)
+![](img/ironm2.jpg)
+![](img/ironm3.jpg)
+
+https://nobulart.com/report-from-iron-mountain
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
