@@ -88,6 +88,18 @@ The Mayan calendar is divided into Seven Ages of Man. The fourth epoch ended in 
 
 http://www.incamayanaztec.com/inca-calendars.html
 
+### Adjustment
+
+The long count is a day count (it does not count years), so it has to be re-calibrated for the 687 BC calendar change from 360 to 365 days.
+
+[1] https://nobulart.com/360-days/
+
+![](img/maya-adjustment1.jpg)
+
+Using the precise year length
+
+![](img/maya-adjustment2.jpg)
+
 ## Cherokee Stories
 
 ![](img/cherokee1.jpg)
@@ -99,3 +111,4 @@ http://www.incamayanaztec.com/inca-calendars.html
 2. https://www.djmcadam.com/scheme-peruvian.html
 3. https://en.wikipedia.org/wiki/Five_Suns
 4. https://en.wikipedia.org/wiki/Olmecs
+5. [Craig Stone](https://nobulart.com)

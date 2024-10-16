@@ -24,6 +24,12 @@ I use boxySVG for most of the layout and compositing. It’s nimble and efficien
 2. https://ns6t.net/azimuth/azimuth.html
 3. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/ .
 
+## Time portents
+
+"Trivial omens give warning of trivial events, but the momentous historical events that attend the birth of a greater cycle in time are preceded by phenomena of a portentous nature, through which the least observant can scarcely fail to become aware of impending change."
+
+[1] https://nobulart.com/time-portents/
+
 ## Good Articles
 
 Chan excerpts (tons of evidence in these):
@@ -44,3 +50,5 @@ Atkinson (Rosicrucians):
 
 Burgoyne:
 - https://nobulart.com/the-hermetic-key/
+
+Iron mountain excerpt

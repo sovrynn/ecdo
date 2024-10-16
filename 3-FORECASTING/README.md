@@ -15,7 +15,7 @@ Currently, the strongest piece of evidence we have for an impending ECDO event i
 
 https://github.com/user-attachments/assets/de8d7eff-800f-4030-b428-2667cd46179e
 
-Past that, there are also exothermic core and temperature anomalies. These are causing climate change, such as increased rainfall.
+Past that, there are also exothermic core and temperature anomalies. These are causing climate change, such as increased rainfall. Present climate anomalies are in `EVIDENCE/earth-geo-state/climate/present-anomalies`.
 
 ## Signals that we are on the brink [1]
 

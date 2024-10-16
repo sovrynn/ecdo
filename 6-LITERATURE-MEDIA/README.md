@@ -39,6 +39,10 @@ epub to pdf converter: https://www.freepdfconvert.com/epub-to-pdf#cid=xpkq97u5lj
 
 # TODO
 
+- silent weapons
+- three body problem
+- the wandering earth
+
 Khufu floating coffer pdf has some good sources.
 - See Hancock ('Fingerprints of the Gods') & Hapgood ('Earth’s Shifting Crust').
 - David Montaigne: Pole shift, 2018

@@ -93,6 +93,18 @@ If we are right, and two tsunami waves did strike deep into the land that is now
 
 - Condensed from Uriel's Machine, Knight & Lomas (1999)
 
+## Porcupine Rim, Utah
+
+Porcupine Rim, Utah
+38°36'28.98" N 109°20'48.81" W
+
+![](img/porcupine1.jpg)
+![](img/porcupine2.jpg)
+![](img/porcupine3.jpg)
+![](img/porcupine4.jpg)
+![](img/porcupine5.jpg)
+![](img/porcupine6.jpg)
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Great_Basin

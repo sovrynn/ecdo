@@ -44,16 +44,6 @@ High resolution images available here:
 
 ![](img/nepal.jpg)
 
-## 6.0 earthquake Indonesia
-
-https://watchers.news/2024/09/23/m6-0-earthquake-hits-sulawesi-indonesia-2/
-
-## Earthquake Forecasting - SSGEOS
-
-Uses solar system metrics (planetary geometry, movements and solar activity) to predict quakes through cycle resonances. He has quite a good track record.
-- https://youtu.be/O_OB9se30-Q
-- https://ssgeos.org
-
 ## Volcanoes
 
 https://x.com/volcaholic1
@@ -66,35 +56,17 @@ The 2 ships that were moored on ny harbor supposedy for Covid were actually floa
 
 UK built a load of temporary hospitals too. Called Nightingale hospitals. Never had a patient.
 
-## Seismic uptick
-
-Interesting visualisation of the uptick in seismic activity after 1970. It lights up like a Christmas tree from then onwards. When the NMP acceleration really took off.
-
-![](img/seismic-uptick.jpg)
-
-https://youtu.be/ilFEKSZQv5o
-
-## Auroras
-
-Denmark: https://x.com/HaelVoort/status/1843041553742492052
-
-South Wales: https://x.com/thomas_winstone/status/1843050738391601274
-
-October 7, 2024 auroras:
-
-![](img/241007-auroras.jpg)
-
-https://x.com/ggormleyphotos/status/1843198255909478608
-
-https://x.com/NoVaxForMePal/status/1843232904719249511
-
-Finnish Lapland
-
-![](img/auroras-finnish.jpg)
-
 ## Florida October 10 2024 Tornadoes and Hurricane
 
 ![](img/florida-hurricane.png)
+
+Purple skies: aurora above the cloud?
+
+![](img/purple-skies.jpg)
+
+## 2024 state of the climate report (hard copy here)
+
+![](img/biae087.png)
 
 # TODO
 
