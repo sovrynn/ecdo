@@ -43,3 +43,11 @@ Interesting choice of words for an AGW piece. In Masonic numerology, 7 of 9 may 
 
 - https://www.theguardian.com/environment/2024/sep/23/earth-breach-planetary-boundaries-health-check-oceans
 - https://medium.com/@julianwilson655/masonic-numbers-meaning-0fd3bcad09a1
+
+## "Major disruptive events" policy
+
+Did you ever see this Sasha Latypova substack highlighting Air BnB's changes to its "Major Disruptive Events" policy? The date the changes are to be implemented is interesting 06/06/24. Bleedingly obvious to an "initiated eye" (6/6/6). Has this been put in place in time for your 1st disruption date of the opposing conjuction around the 16th June?
+
+![](img/airbnb.jpg)
+
+https://sashalatypova.substack.com/p/message-from-airbnb-expect-governments

@@ -141,3 +141,6 @@ Christopher Dunn's article "Advanced Machining in Ancient Egypt": https://www.th
 Listened to a podcast today that mentioned the egg, among other interesting evidence that shows the pyramids were constructed prior to dynastic Egypt. https://open.spotify.com/episode/0tFOm0dV01BgPmUcM4EiwG?si=7eIAmJ5-Q8erw3vPorUgqg
 
 Why would they build the pyramid in a location they know gets flooded?
+
+Can recommend this book:
+https://www.amazon.co.uk/Giza-Death-Star-Revisited-Hypothesis/dp/1948803577

@@ -64,6 +64,10 @@ The equator in S2 runs through the two pivots. It also runs through the points:
 
 ![](../s2/img/s2.png)
 
+## Sequence of the flip
+
+![](img/flip-sequence.jpg)
+
 ## Citations
 
 1. Axial tilt: https://en.wikipedia.org/wiki/Axial_tilt

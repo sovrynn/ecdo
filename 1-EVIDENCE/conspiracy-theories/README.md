@@ -134,3 +134,5 @@ https://x.com/digijordan/status/1845498878063251475
 Tavistock institute
 
 crop circles
+
+virus vs terrain model of sickness

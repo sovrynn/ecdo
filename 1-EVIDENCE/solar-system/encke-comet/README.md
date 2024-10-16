@@ -69,6 +69,10 @@ Here they mention that it appears we pass through Encke's original dust trail ap
 
 See `Our cometary environment.pdf`.
 
+## Pike = Encke?
+
+![](img/pike-encke.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

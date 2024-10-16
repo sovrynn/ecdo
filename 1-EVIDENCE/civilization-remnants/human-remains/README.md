@@ -28,12 +28,12 @@ Round barrow excavation in Kilmahuddrick, Dublin. Human remains incinerated in p
  
 https://sci-hub.ru/10.2307/20650841
 
-## Pompeii 4000 year old
+## China 4000 year old
 
 https://www.dailymail.co.uk/news/peoplesdaily/article-3192196/Enduring-love-4-000-year-old-skeletons-mother-child-locked-dying-embrace-Pompeii-East.html
 
-![](img/pompeii1.jpg)
-![](img/pompeii2.jpg)
+![](img/chinapompeii1.jpg)
+![](img/chinapompeii2.jpg)
 
 ## Citations
 

@@ -61,6 +61,7 @@ Climate change:
 Solar system:
 - landscheidt: Solar SSB theory
 - martineau: Harmonics, patterns, factoids
+- Chizhevsky: heliobiology
 
 Modern politics:
 - iron mountain: On the necessity and nature of modern war in society
@@ -86,6 +87,8 @@ filetype:pdf Google searches, Duckduckgo
 epub to pdf converter: https://www.freepdfconvert.com/epub-to-pdf#cid=xpkq97u5lj4c701d58crsi3thfj30nn7
 
 # TODO
+
+hapgood
 
 - silent weapons
 - three body problem

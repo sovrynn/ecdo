@@ -36,6 +36,32 @@ In 1923–29, thirty-three miles north of Vero, in Melbourne, Florida, another s
 
 https://nobulart.com/thirty-five-centuries-ago/
 
+## Heliobiology reccomendations
+
+This is a small sample from over a hundred years of heliobiology research, Alexander Chizhevsky being considered the "father" of this science. 
+
+Guy Beaujouan was also a pioneer in this field. I'm in the process of translating a portion of his L'Histoire et ses Méthodes (https://nobulart.com/media/9782072430787.pdf) which is a volume from the Encyclopédie de la Pléide. (https://en.wikipedia.org/wiki/Encyclop%C3%A9die_de_la_Pl%C3%A9iade) Heliobiology has been heavily suppressed in both the west, and in Russia. Chizhevsky was even imprisoned for some years because his work threatened the 'omnipotent' optic of the communist regime at the time. He is today considered to be a Russian hero.
+
+- https://nobulart.com/the-solar-mind/
+- https://nobulart.com/wrath-of-the-sun/
+- https://nobulart.com/epidemics-during-grand-solar-minima/
+- https://nobulart.com/using-cosmic-rays-to-predict-influenza-epidemics/
+
+## The study of cycles
+
+The Study of Cycles (https://nobulart.com/the-study-of-cycles/)
+"The main manifestation of solar activity is the appearance of sunspots: powerful magnetic poles, they act as true particle accelerators. Electrons and positive ions projected to the surface of the earth are thus the cause of various electromagnetic disturbances which are capable of periodically influencing meteorology, crops, epidemics, crowd psychology, and consequently the course of history." - Guy Beaujouan (1961)
+https://nobulart.com/the-study-of-cycles/
+
+## South African Oppenheimers
+
+“Robert Oppenheimer was a part of the Oppenheimer financiers that enabled the Rothschilds.” False. They’re not related at all. They only share a name. I know this because I have traced the lineage of the South African Oppenheimer family (https://nobulart.com/diamonds) all the way back to Solomon. They are of the Davidic line. During that process I also looked at RJO’s lineage specifically because I thought he was related. He does not share this lineage in any way or form. Oppenheimer is a popular surname. They’re not all blood relatives.
+
+## Nukes and tobacco
+
+Not my authorship on this one, but I feel that Joe Vialls made some valid points in this. 
+https://nobulart.com/nukes-and-tobacco
+
 ## Good Articles
 
 Chan excerpts (tons of evidence in these):
@@ -58,3 +84,5 @@ Burgoyne:
 - https://nobulart.com/the-hermetic-key/
 
 Iron mountain excerpt
+
+Vaccine ingredients: https://nobulart.com/covid-19-vaccine-ingredients/
