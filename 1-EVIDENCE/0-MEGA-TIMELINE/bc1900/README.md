@@ -43,6 +43,16 @@ Physical markers:
 - 2345 BC: Irish Oak tree rings
 - 2500 BC Skara Brae abandonment
 
+New additions:
+- 2000 BC Pompeii human remains
+- 2000 BC Syrian coastal change
+- 1740-1620 BC Kaali crater, Estonia
+- 1831-1368 Ios Island, Aegean Sea, Greece tsunami sediments
+- 1627-1600 Minoan Santorini eruption
+- 1500 BC Iceland megaflood deposits
+- 1600 BC Lisbon Tsunami, sediment cores
+- 1700-900 BC Lake Sevan Armenia high lake levels
+
 The two key events for building this event timeline in my view are Gun-Yu and Exodus+Joshua, which both describe multi-decade long periods for cataclysmic happenings, which would line up very well with our current model of a short S2 state. Unfortunately the standard timelines for these are off by a couple of centuries.
 
 ## Exact Date - 1900 BC?

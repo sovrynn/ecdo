@@ -26,6 +26,10 @@ Abandoned settlements:
 - 5300 BC: Nabta Playa abandonment
 - 5400 BC: Catal Huyuk abandonment
 
+New additions:
+- 5500 BC Illumetsa crater field, Estonia
+- 6000-5000 BC Lake Sevan, Armenia, high lake levels
+
 ## Exact date
 
 I've selected 5500 BC as the candidate date for now based on the Biblical Creation datings. I think there's a possibility carbon-dating and adjacent methods may have more significant error than human timelines which should (theoretically) be more deterministic.

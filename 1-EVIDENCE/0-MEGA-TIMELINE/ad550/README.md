@@ -9,6 +9,9 @@
 - 540 AD Justinian plague
 - 536 volcanic winter event
 
+New additions:
+- 200-900 AD Lake Sevan, Armenia high lake levels
+
 In terms of an exact date, probably mid 6th century (540 ADish) seems most likely in terms of convergence of existing evidence.
 
 Baillie, a tree ring researcher, has compiled an impressive 540 AD comet impact hypothesis synthesis of historical evidence.

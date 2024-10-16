@@ -4,10 +4,13 @@ This period is far enough away from 2000 BC to warrant its own investigation as 
 
 - 1400 BC: Minoan Crete's third and final cataclysm
 - traditional dating of Exodus/Deucalion to approximately this period
-- Egyptian dark age (see Barbara Bell)
-- Narrow Irish tree rings
-- Antarctic tephra
+- 1400-1200 BC Egyptian dark age (see Barbara Bell)
+- 1159 BC Narrow Irish tree rings
+- 1416 BC Antarctic tephra
 - 1200 BC Mediterranean cooling climate change event
+
+New additions:
+- 1350 BC Palaikastro tsunami deposits
 
 While the physical markers are compelling, I have to initially bucket this event as unlikely due to lack of easily-found cataclysm records from China and India during this period. Obviously worth a deeper investigation.
 
