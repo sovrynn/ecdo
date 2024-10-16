@@ -54,6 +54,16 @@ Red lines are the ECDO path. Appears to be quite a few striations running along 
 
 See `EVIDENCE/cataclysm-chronology/india` for analysis on this.
 
+## Sigiriya
+
+Sigiriya or Sinhagiri (Lion Rock Sinhala: සීගිරිය, Tamil: சிகிரியா/சிங்ககிரி, pronounced SEE-gi-ri-yə) is an ancient rock fortress located in the northern Matale District near the town of Dambulla in the Central Province, Sri Lanka. It is a site of historical and archaeological significance that is dominated by a massive column of granite approximately 180 m (590 ft) high. Construction began c.477 AD, so this is likely wiped clean every time.
+
+![](img/sigiriya1.jpg)
+![](img/sigiriya2.jpg)
+![](img/sigiriya3.jpg)
+
+[1] https://en.wikipedia.org/wiki/Sigiriya
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

@@ -94,6 +94,39 @@ After studying the flint artifacts at the Somme River Valley's gravel terraces, 
 
 [1] https://en.wikipedia.org/wiki/Windmill_Hill_Cavern
 
+## San Ciro, the Cave of the Giants
+
+"There are several caves in the limestone escarpment a little above the line of junction with the Pliocene plain, but the one which most particularly claims attention, from the extraordinary quantity of Hippopotamus bones found in connection with it, is that of San Ciro, or Mardolce, situated about 2 miles to the south-east of Palermo, at the foot of Monte Grifone."
+
+![](img/san-ciro1.jpg)
+![](img/san-ciro2.jpg)
+![](img/san-ciro3.jpg)
+
+"This cave is 130 feet long,  10 feet wide at the entrance, 30 feet in centre, and 21 feet high, measured from the surface of the cave deposits. It is situated near the base of the escarpment, with ground sloping from its entrance down to the church of San Ciro, a distance of 266 feet (see fig. 19). But the breccia extends apparently beyond this. 
+
+When first discovered many hundred quintals of bones were dug out by the peasants. According to Scina the breccia was crammed with bones, so fresh that they were cut into ornaments and polished, and that when burnt they gave out ammoniacal vapours. The quantity, however, was so great, that when afterwards exploited for commercial purposes, 20 tons were shipped in the first six months to Marseilles and England, where it is said they were used for the manufacture of lamp black; if this were the case they could have lost very little of their animal matter. The bones were mostly those of Hippopotomi, with a few only of Deer, Ox and Elephant. In a weight of nearly 1.5 tons, all except six were bones of two species of Hippopotamus; amongst them were 300 astragali of that animal. Scina also collected 76 astragali for the Museum of Palermo, together with 14 jaws with teeth, besides numerous single teeth, and specimens of almost all the bones of the body belonging to animals of all ages down to the foetus. 
+
+With respect to the position and condition of the bones, the evidence is conflicting. Scina says that the bones were without order, and those of the different animals were mixed together, that they were broken, shattered, and dispersed in fragments. Speaking of the Elephant remains, he remarks that no entire tusks were found, and that the fangs of the teeth and epiphyses of the vertebrae were gone, whilst some of the bones were so reduced by wear as to be scarcely recognisable. Two teeth of Elephant had been worn down to the state of pebbles. It is evident, however, that these are the exceptions; they may have been derived from the old beach- or cave-beds. Christie merely says that the breccia contains “a prodigious number of fragments of bones with some rolled pieces and blocks of limestone.” Dr. Falconer makes no allusion to the wear of the bones, and the specimens deposited in the College of Surgeons have neither been worn or gnawed. Speaking also of the analogous breccia at the Grotta di Maccagnone, he says that the bones’ were all broken and splintered, and that none of them bore marks of gnawing." - On the evidences of a submergence of Western Europe, and of the Mediterranean coasts, at the close of the glacial or so-called post-glacial period, and immediately preceding the neolithic or recent period, Joseph Prestwich (1893)
+
+This is one of thousands of ossiferous cave and crag deposits such as those first documented by Buckland in Reliquae Diluvianae (1823)[4].
+
+1. https://royalsocietypublishing.org/doi/10.1098/rsta.1893.0018
+2. https://archivioepensamenti.blogspot.com/2017/05/gli-archi-di-san-ciro-e-i-giganti-di.html
+3. https://lasiciliainrete.it/en/directory-tangibili/listing/grotta-di-s-ciro-o-dei-giganti/
+4. https://x.com/nobulart/status/1806360882294804633
+
+ECDO[1] moment of inertia (red line) relative to San Ciro. These deposits may have occurred as a result of direct inundation during S1>S2, or via returning seiche after an S2>S1. Maybe both.
+
+![](img/san-ciro4.jpg)
+![](img/san-ciro5.jpg)
+![](img/san-ciro6.jpg)
+
+https://x.com/nobulart/status/1821461418257862701
+
+A submergence map from this paper.
+
+![](img/san-ciro7.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

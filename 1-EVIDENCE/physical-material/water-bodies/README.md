@@ -2,30 +2,6 @@
 
 One of the issues here is that the Holocene has experienced a dramatic sea level rise, which continued from the end of the Younger Dryas up till around 7000 years ago, and slowed down, but continued to rise, until 4000 years ago. Therefore what we would like to see is evidence of *dramatic* and *rapid* rise in levels of bodies of water such as the Black and Mediterranean Sea to have something to go off of.
 
-## The Holocene sea level story since 7500 BP – Lessons from the Eastern Mediterranean, the Black and the Azov Seas
-
-A meta-analysis of Mediterranean sea levels seems to show a dramatic refilling post 7400 BP, and lesser one around 3700BP. I think factoring out the global sea level rise here is important, however. You'd really want to see indications of refilling that outpace the global sea level rise, which is well documented. The sea level rose up till around 4000 years ago.
-
-![](img/med-refilling.jpg)
-![](img/med-refilling2.jpg)
-
-Back Sea multiproxy sealevel analysis from the same paper. Massive changes around 7400 and the period of the Tollman impact hypothesis (9640 BP).
-
-![](img/med-refilling3.jpg)
-
-What I see above is markers of *above-average* water levels around 8800 BC, 7700 BC, 6000 BC, 3700 BC, and 2000 BC, evidenced by the markers that hover significantly above the trendline. Not sure how the wiggly trendline was created; just a line of best fit through the various markers?
-
-![](img/med-refilling4.jpg)
-
-This reminds me of our Mediterranean sea level discussion between S1 and S2. The various sites got deeper in the north and shallower in the south.
-
-![](img/med-refilling5.jpg)
-![](img/med-refilling6.jpg)
-
-On loss of sediment: I asked GPT: "In the context of this stratigraphic chart, "loss of sediment" refers to a gap in the sedimentary record at that specific depth (around 2 meters below sea level). This could indicate that a portion of the sedimentary sequence was eroded or removed by natural processes such as water flow, wave action, or human activity before subsequent layers were deposited. The missing sediment disrupts the continuous stratigraphic record, potentially creating a time gap that complicates interpretations of the site's geological and archaeological history."
-
-Bruckner, Black sea, 2009: https://sci-hub.ru/10.1016/j.quaint.2008.11.016 (hard copy in this folder)
-
 ### Taman Peninsula, Bruckner (Section 5)
 
 "Based on vibracoring it was possible to get samples down to maximum depths of 15–20 m below surface. Therefore, the focus of this study is sea level fluctuations of the past seven millennia."
@@ -89,3 +65,11 @@ If we are right, and two tsunami waves did strike deep into the land that is now
 The Caspian Sea. "In the low-lying lands to the east of Mount Ararat lies the largest landlocked body of water on the planet. We looked up the facts about this giant lake and were hardly surprised when we found that it is also a salt-water lake, containing salmon, sturgeon and herring as well as other marine animals such as porpoises and seals. The question has to be asked: how does a giant landlocked, seawater lake come to exist so deep inside a continental land-mass, and how did large sea mammals get there? The nearest connection to the oceans is 800 kilometres south, in the Persian Gulf. Could it be that this is another remnant of a giant continental ‘rock-pool’ left by the comet Flood? Is it not possible that the oceanic animal life in this lake was carried there by a wave of unimaginable proportions? We could find no explanation from the experts. The region to the north was once covered in salt water, while the Aral Sea 480 km further east is also a saltwater lake."
 
 - Uriel's Machine
+
+## Lake Sevan (Armenia)
+
+Well looky here. A triple conjunction with our dates of 7400 BP, 3700 BP and 500 AD.
+
+![](img/lake-sevan.jpg)
+
+[1] https://annas-archive.org/md5/d5a62f2696f8ffef7dbb15a5a26b049a

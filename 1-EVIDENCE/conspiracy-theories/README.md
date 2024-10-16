@@ -109,6 +109,26 @@ Came across this fascinating recent paper written by some Harvard professors dis
 
 If you find it to long if a read, just skip to page 16 of the pdf and read the conclusion
 
+## Atlanteans, Annunaki, Greek Gods = Us?
+
+The Atlanteans, Anunnaki, Greek Gods = Us. 
+
+We were reset 13,000 years ago. 
+
+They were not. 
+
+A breakaway portion escaped inside earth and continued developing. 
+
+Thousands of years later when they emerged, they found a changed earth with primitive people. 
+
+They helped them develop. 
+
+They were seen as Gods or Sky People or ‘those that came from the Sea’ 
+
+But they are Us. Just without the reset.
+
+https://x.com/digijordan/status/1845498878063251475
+
 # TODO
 
 Tavistock institute

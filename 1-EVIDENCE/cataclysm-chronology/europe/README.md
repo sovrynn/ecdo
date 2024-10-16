@@ -98,6 +98,12 @@ Sorry to bang on about British Abbeys but you have to go with your instincts and
 
 Note - "several years" of darkness.
 
+### History
+
+The Tysilio chronology published by Petrie in his Neglected British History Essay is the most reliable and truthful British chronology IMHO and has a big hole in it from 540 - 590 AD.
+
+![](img/british-history.jpg)
+
 ## Citations
 
 1. Minoan: http://www.minoancrete.com/chron.htm

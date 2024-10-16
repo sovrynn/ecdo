@@ -30,6 +30,12 @@ I use boxySVG for most of the layout and compositing. It’s nimble and efficien
 
 [1] https://nobulart.com/time-portents/
 
+## Thirty-Five Centuries Ago
+
+In 1923–29, thirty-three miles north of Vero, in Melbourne, Florida, another such association of human remains and extinct animals was found, “a remarkably rich assemblage of animal bones, many of which represent species which became extinct at or after the close of the Pleistocene [Ice Age] epoch.” The discoverer, J. W. Gidley, of the United States National Museum, established unequivocally that in Melbourne – as in Vero – the human bones were of the same stratum and in the same state of fossilization as the bones of the extinct animals. And again human artifacts were found with the bones… But these conclusions require that the Ice Age ended only twenty-five to thirty-nine centuries ago.
+
+https://nobulart.com/thirty-five-centuries-ago/
+
 ## Good Articles
 
 Chan excerpts (tons of evidence in these):

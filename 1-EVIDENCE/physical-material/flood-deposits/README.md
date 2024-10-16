@@ -109,6 +109,14 @@ gatherer population in Western Norway."
 
 https://sci-hub.ru/10.1016/j.jasrep.2020.102464
 
+## Lisbon Tsunami
+
+Lisbon. Tsunami c.3600 BP
+
+"The well-known 1755 CE Lisbon tsunami caused widespread destruction along the Iberian and northern Moroccan coastlines. Being affected by the powerful 1755 CE Lisbon tsunami, the southwestern Algarve shelf provides environments for detecting offshore tsunami imprints. Our multidisciplinary investigations (hydroacoustics, sedimentology, geochemistry, radiocarbon dating) of the Holocene sediments have revealed tsunami deposits linked to this tsunami and a ca. 3600 cal yr BP event. The latter event is until now unidentified in Portugal. Both event deposits contrast with the background shelf sedimentation by their coarser grain size, element composition, internal structure, and erosive base, making them discernible in the sub-bottom data and cores. Especially the ca. 3600 cal yr BP deposit is exceptionally well-preserved at one of the coring sites. The clear differentiation into several sections enables further insights into offshore tsunami transport and depositional processes. This study demonstrates that the record and preservation of tsunami deposits were possible on the Algarve shelf in specific locations sheltered from possible alterations. Our findings extend the tsunami catalogs of Portugal with a previously unknown tsunami dated to ca. 3600 cal yr BP."
+
+https://www.sciencedirect.com/science/article/abs/pii/S0037073823000416
+
 ## Citations
 
 1. Uriel's Machine
