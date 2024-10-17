@@ -89,6 +89,25 @@ https://nobulart.com/East-West
 “If one man can be singled out as the person most responsible for the colonization of America, the honor would certainly fall to the head of both Masonry and Rosicrucianism of his era, Sir Francis Bacon. in the early 1600’s Bacon authored a novel entitled New Atlantis, which laid out the idea for a utopian society across the ocean from Europe where mankind could build a new civilization based upon the principles he believed to be those of the legendary lost continent of Atlantis.”
 https://nobulart.com/shakespeare-bacon/
 
+![](img/bacon.jpg)
+![](img/bacon2.jpg)
+
+## Life, Liberty & Property (https://nobulart.com/life-liberty-property/)
+
+“Although secret societies were very well organized and funded in early America, a formidable force arose to oppose them and quietly challenge their control of the developing nation. This force was the spiritual zeal of the Christian colonists.”
+https://nobulart.com/life-liberty-property/
+
+## The exploded planet
+
+We shoudn't forget the planet(s) that isn't/aren't there anymore.
+https://nobulart.com/the-exploded-planet/
+
+## The perfect storm
+
+![](img/perfect-storm.jpg)
+
+https://nobulart.com/the-perfect-storm/
+
 ## Good Articles
 
 Chan excerpts (tons of evidence in these):
@@ -115,3 +134,7 @@ Iron mountain excerpt
 Vaccine ingredients: https://nobulart.com/covid-19-vaccine-ingredients/
 
 The perfect storm: https://nobulart.com/the-perfect-storm/
+
+https://nobulart.com/666
+
+https://nobulart.com/karma/

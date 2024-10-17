@@ -131,6 +131,16 @@ A gap in organic material between 4000 and 3000 BC. I personally think it's more
 
 ![](img/skara-brae-layer-gap.png)
 
+## North Dakota flood deposit
+
+Extraterrestrial impact ejecta found in the gills of fish that died in the Chicxulub event, over 3,000 km from the impact. This is a fascinating paper. Some of the strongest evidence yet presented for catastrophic global extinction-level impact events.
+
+![](img/north-dakota1.jpg)
+![](img/north-dakota2.jpg)
+![](img/north-dakota3.jpg)
+
+https://www.pnas.org/doi/epdf/10.1073/pnas.1817407116
+
 ## Citations
 
 1. Uriel's Machine

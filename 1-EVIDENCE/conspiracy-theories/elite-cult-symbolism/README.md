@@ -113,6 +113,16 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7610519/
 
 ![](img/economist9.jpg)
 
+## America
+
+There is a series of an older documentary that speaks to a lot of what is covered here. I think it is well done and worth watching.
+
+https://www.youtube.com/watch?v=tzKqVtu6C5s
+
+https://www.youtube.com/watch?v=oaEKBBsncng
+
+https://www.youtube.com/watch?v=CqutJQ2PPQ4
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

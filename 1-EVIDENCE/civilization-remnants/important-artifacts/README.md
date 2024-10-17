@@ -95,6 +95,13 @@ PONTOS, under Mithridates VI (120-65 BCE), issued c. 120-100 BCE. 1.30g, 10mm Ob
 
 Cited from: https://www.cointalk.com/threads/coins-pontos-star-or-comet-design-130-100-b-c.351533/
 
+## Corinth Greece coin
+
+Minted in Corinth, Greece, circa 350-338 BCE. This coin almost certainly depicts a comet beneath the Pegasus. Celestia places Halley's comet passing between Sun and Earth early May 349 BC, near to Taurus and Auriga in the sky. Must have been an impressive sight.
+
+![](img/corinth1.jpg)
+![](img/corinth2.jpg)
+
 ## Citations
 
 1. https://x.com/EthicalSkeptic/status/1832538729275117895?s=19

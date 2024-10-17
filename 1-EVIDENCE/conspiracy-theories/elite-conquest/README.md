@@ -81,6 +81,14 @@ In Finland "leaders" are preparing for a war. Related they have made it public t
 ![](img/finland1.jfif)
 ![](img/finland2.jpg)
 
+## Bechamp or Pasteur
+
+Ignore the patients that died after treatment, and claim that the 'therapy' works. Sound familiar? Only thing is, this scam started more than a hundred years ago.
+
+![](img/pasteur.jpg)
+
+https://ia801802.us.archive.org/34/items/bechamp-or-pasteur/Bechamp-or-Pasteur.pdf
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

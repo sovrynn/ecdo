@@ -57,9 +57,23 @@ Note the apparent relative collapse of the Middle Minoan civilization around 175
 
 ![](img/histomap-big.jpg)
 
+## Alfoor
+
+![](img/alfoor1.jpg)
+![](img/alfoor2.jpg)
+
+https://talkorigins.org/faqs/flood-myths.html#Alfoor
+
+"Both Mount Roraima and the highest peak on Sulawesi (described in the text above as the only survivable location in the Celebes mythology) rise to just over 3000m above the current sea level. 8,000-10,000ft was the minimum safe altitude suggested by Chan Thomas in TAES." [2]
+
+## 6/7 piece comet
+
+![](img/sixseven.jpg)
+
 ## Citations
 
 1. https://talkorigins.org/faqs/flood-myths.html#Yoruba
+2. [Craig Stone](https://nobulart.com)
 
 # TODO
 

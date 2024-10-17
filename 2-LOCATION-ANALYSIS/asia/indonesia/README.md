@@ -24,6 +24,10 @@ The oldest known cave art happens to be on the eastern ECDO pivot, in Sulawesi. 
 
 This location sits at an elevation of about 350m.
 
+## Horseshoe
+
+![](img/horseshoe.jpg)
+
 ## Citations
 
 1. https://www.livescience.com/archaeology/51000-year-old-indonesian-cave-painting-may-be-the-worlds-oldest-storytelling-art

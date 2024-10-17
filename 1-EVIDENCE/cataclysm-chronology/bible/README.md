@@ -80,6 +80,10 @@ I have also entertained the idea that the pyramid may be connected to this accou
 
 "3. Now Adam, who was the first man, and made out of the earth: (for our discourse must now be about him:) after Abel was slain, and Cain fled away, on account of his murder, was sollicitous for posterity; and had a vehement desire of children: he being two hundred and thirty years old: after which time he lived other seven hundred, and then died. He had indeed many other children: (11) but Seth in particular [An. 4355]. As for the rest it would be tedious to name them: I will therefore only endeavour to give an account of those that proceeded from Seth. Now this Seth, when he was brought up, and came to those years in which he could discern what was good, became a virtuous man: and as he was himself of an excellent character, so did he leave children behind him who imitated his virtues. (12) All these proved to be of good dispositions. They also inhabited the same country without dissensions, and in an happy condition, without any misfortunes falling upon them, till they died. [About An. 4300] They also were the inventors of that peculiar sort of wisdom, which is concerned with the heavenly bodies, and their order. And that their inventions might not be lost before they were sufficiently known, upon Adam’s prediction that the world was to be destroyed at one time by the force of fire, and at another time by the violence and quantity of water, they made two pillars: (13) the one of brick, the other of stone: they inscribed their discoveries on them both: that in case the pillar of brick should be destroyed by the flood, the pillar of stone might remain, and exhibit those discoveries to mankind: and also inform them that there was another pillar of brick erected by them. Now this remains in the land of Siriad to this day."
 
+## Matthew
+
+![](img/matthew.jpg)
+
 ## Bible Cataclysms, per GPT [6]
 
 ### 1. The Flood of Noah

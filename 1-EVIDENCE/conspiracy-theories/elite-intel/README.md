@@ -51,3 +51,13 @@ Did you ever see this Sasha Latypova substack highlighting Air BnB's changes to 
 ![](img/airbnb.jpg)
 
 https://sashalatypova.substack.com/p/message-from-airbnb-expect-governments
+
+## Musk
+
+Reminds me of the curious image Elon posted of what was on his desk
+
+https://www.the-sun.com/tech/6785437/elon-musk-bedside-table-pic-powerful-object/
+
+## Hurari, Shatner
+
+Video clips in `img`.

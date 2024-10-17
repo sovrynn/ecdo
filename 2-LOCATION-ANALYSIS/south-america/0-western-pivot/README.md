@@ -45,6 +45,13 @@ This mesa is just over 300km from Roraima. Red curve is the ECDO path. The struc
 380km from Roraima. Remarkable path congruence at an onboarding point for the water during S1>S2.
 - https://maps.app.goo.gl/7G3UwhRJjzXtnpTN8
 
+## Lateral flow
+
+Starting to think that we may be looking at evidence of massive lateral flow. The fact that Roraima is on the pivot is maybe only because the flow was dramatically reduced at this point. First image is from the glacial melt flood paper.
+
+![](img/roraima1.jpg)
+![](img/roraima2.jpg)
+
 ## Authors
 
 1. [Craig Stone](https://nobulart.com)

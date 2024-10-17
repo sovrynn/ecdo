@@ -1,5 +1,32 @@
 # Egypt
 
+## Herodotus, Greek historian, 440 BC account of Egypt solar flips
+
+*"So far in the story the Egyptians and the priests were they who made the report, declaring that from the first king down to this priest of Hephaistos who reigned last, there had been three hundred and forty-one generations of men, and that in them there had been the same number of chief-priests and of kings: but three hundred generations of men are equal to ten thousand years, for a hundred years is three generations of men; and in the one-and-forty generations which remain, those I mean which were added to the three hundred, there are one thousand three hundred and forty years. Thus in the period of eleven thousand three hundred and forty years they said that there had arisen no god in human form; nor even before that time or afterwards among the remaining kings who arose in Egypt, did they report that anything of that kind had come to pass. In this time they said that the sun had moved four times from his accustomed place of rising, and where he now sets he had thence twice had his rising, and in the place from whence he now rises he had twice had his setting;[127] and in the meantime nothing in Egypt had been changed from its usual state, neither that which comes from the earth nor that which comes to them from the river nor that which concerns diseases or deaths."* [4]
+
+- Herodotus (Greek Historian), An Account of Egypt, 440 BCE
+
+After him there came to the throne the priest of Hephaistos, whose name was Sethos. [4, 2.141]
+
+Sethos ruled from 1290 - 1279 BC.
+
+Nice place to see the full account: http://losttrails.com/pages/Tales/Inquiries/Herodotus_13.html
+
+## Egypt flood mythology
+
+![](img/egypt-flood-myth.jpg)
+![](img/egypt-excerpt-book.png)
+
+## Egypt
+
+https://youtu.be/VF1dCJf4Byo?si=S1MHLniB1biCijN5
+
+I hadn't heard of the book of Kolbrin. Some interesting descriptions about what goes on in the heavens and the land with clear parallels to the Noah story. Sounds like a destroyer arrives (Encke?), there is a micronova and earth flip causing the deluge and stars to rotate. The heat could then be from the CME arriving days later. The oceans do not rise up but crash over the mountains and fill the valleys but only lie 3 cubits above the earth. After the tumult the water drains back over 7 days. Apparently the book dates back 3,600 years.
+
+Paper about Kolbrin in this folder.
+
+## History
+
 Egypt has a long string of history. There are plenty of archaelogical remains from very long ago, before the Younger Dryas.
 
 "The period from 9000 to 6000 BC has left very little in the way of archaeological evidence. Around 6200 BC, Neolithic settlements appear all over Egypt." [3]

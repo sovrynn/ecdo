@@ -40,6 +40,17 @@ Drainage patterns [1]:
 
 ![](img/drainage-patterns.gif)
 
+## Horseshoe Vortex
+
+![](img/hsvortex1.jpg)
+![](img/hsvortex2.jpg)
+
+## Streamlined bedrock
+
+These are from a Canadian paper examining glacial meltwater flood erosion. Looks similar.
+
+![](img/bedrock.jpg)
+
 ## Citations
 
 1. https://laulima.hawaii.edu/access/content/group/dbd544e4-dcdd-4631-b8ad-3304985e1be2/book/chapter11/patterns.htm
