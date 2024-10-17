@@ -250,6 +250,13 @@ Vedic texts are highly symbolic and often mythological, containing stories of co
 8. **Parashurama vs. the Kshatriyas** - *c. 400 BCE–300 CE*  
    Parashurama, the sixth avatar of Vishnu, combats the Kshatriya (warrior) class repeatedly when they become corrupt and oppressive. This myth, found in the *Puranas* and the *Mahabharata*, emphasizes divine justice and the restoration of dharma.
 
+## Shiva
+
+Like ancient stories tell him as very main character in cosmic events(samudra manthan). Pretty sure it was a grand planatery event that happened. 
+One guy told shiva(shivaling) as universal consciesness.
+Another aspect of shiva is he is worshiped by gods and demons alike.
+Another aspect of shiva is when things get too evil. He destroys the world for a reset. (Kinda makes sense from earth flip/earth reset perspective).
+
 ## Citations
 
 1. https://talkorigins.org/faqs/flood-myths.html#Tamil

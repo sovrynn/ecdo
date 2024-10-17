@@ -108,11 +108,33 @@ https://nobulart.com/the-exploded-planet/
 
 https://nobulart.com/the-perfect-storm/
 
+## The birth of inequality
+
+“All ran headlong to their chains, in hopes of securing their liberty; for they had just wit enough to perceive the advantages of political institutions, without experience enough to enable them to foresee the dangers.” - Jean-Jacques Rousseau (1755)
+https://nobulart.com/the-birth-of-inequality/
+
+## 360 days
+
+![](img/talmud.jpg)
+
+Just a sample. There's more:
+https://nobulart.com/360-days/
+
+## Aftermath our precursor
+
+Some of the observed effects of altering the electromagnetic environment around mammals, such as might occur during geomagnetic excursions or a weakening of the planet's geomagnetic field.
+https://nobulart.com/aftermath-our-precursor/
+
+![](img/aftermath.jpg)
+
 ## Good Articles
 
 Chan excerpts (tons of evidence in these):
 - https://nobulart.com/cataclysms-revisited/
 - https://nobulart.com/the-story-and-the-event/
+
+Chan does a good job of of dismantling (shredding) the incremental evolution narrative in this chapter.
+https://nobulart.com/aftermath-evolution/
 
 Musical harmonics:
 - https://nobulart.com/musica-vitae-et-mortis/

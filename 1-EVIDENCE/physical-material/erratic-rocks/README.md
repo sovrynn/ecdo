@@ -2,6 +2,20 @@
 
 Often attributed to glaciers.
 
+## Erratic Boulders.
+
+Only water could have carried some of these behemoths over the Alps and deposited them 50-80 miles away.
+
+![](img/jura1.jpg)
+![](img/jura2.jpg)
+![](img/jura3.jpg)
+![](img/jura4.jpg)
+
+1. https://nobulart.com/cataclysms-revisited/
+2. Motte Stone, County Wicklow
+3. Pierre à Martin, Lake Geneva
+4. Haute Savoie, Switzerland
+
 ## Stonehenge
 
 "Mineralogical tests on the massive six-tonne stone at the heart of the monument show that this central rock, known as the altar stone, was brought to Stonehenge from the far north of Scotland."

@@ -61,3 +61,11 @@ https://www.the-sun.com/tech/6785437/elon-musk-bedside-table-pic-powerful-object
 ## Hurari, Shatner
 
 Video clips in `img`.
+
+## Bill Wood - Projecto Looking Glass
+
+Here is another interview I found a few years ago in the same vein. It's worth checking out if you haven't before. 
+
+The guy from the video was later charged with a crime and disappeared, so not sure how credible he is. It's a good tale if nothing else that fits the model.
+
+https://youtu.be/j5kq0zYLgrE?si=udj68pV87r-CdI_O

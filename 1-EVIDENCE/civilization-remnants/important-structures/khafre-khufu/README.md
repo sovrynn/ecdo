@@ -127,6 +127,36 @@ This is dated 2003: https://mars-news.de/pyramids/gizacenter.html
 
 http://www.impacttectonics.org/Archeology/Giza/
 
+## 1200 AD account
+
+Interestingly (I think) the mainstream history talks about Abd al-Latif a 12th century historian writing that the stones of the pyramids were covered in indeciverable writing which is taken to assume that the casing stones were all still in place during his visit around 1200 AD. This is a problem so I did a little digging and came across the article below with a couple of interesting paragraphs...
+
+https://humancircuspodcast.com/podcastscripts/2022/5/24/abd-al-latif-al-baghdadi-3-harvesting-the-past
+
+Firstly this extract from his account. Unless this local was spiderman he wouldn't have been able to run up Khufu's pristine casing stones in his sandals
+
+"He then heard that there were locals who routinely climbed to the top, something that he was clearly not prepared to do. Such a man was sent for, paid, and to the spectators’ amazement, went up as one might climb a staircase, “even more swiftly,” in sandals and a long, trailing robe. As instructed, the climber measured out the flat top with his turban and then recreated the dimensions with it on the ground."
+
+The paragraph below deals with the writings that people claim he wrote were on the pyramids at Giza but it refers to Ain Shams nowhere near Giza. 
+
+That was not all that Abd al-Latif saw that remained mysterious to him. At Ain Shams, in the stone of the pyramids, and on buildings and monuments around them, he saw inscriptions in ancient writing which he did not understand, “engraved representations of humans and other living beings, and many inscriptions in the unknown characters; you seldom see a stone that is blank,” he wrote, “without either an inscription or some other engraving or image on it.”
+
+He then blames an Arab for the removal of the casimg stones which he ridiculously claims were knocked off the 3 pyramids over the course of the year and as they hit the sand became buried and had to be dug out to be processed. You decide if you want to believe this nonsense. I'm inclined to believe they were washed off before being buried in sand and later excavated by the Arabs. 
+
+"This time, it was Salah-ad Din’s son Al-Malik Al-Aziz Uthman who was responsible, for his choice of friends if nothing else, for listening to his more foolish ones, Abd al-Latif says. At their urging, he sent forth an army of emirs, administrators, miners, workers, and artificers, along with soldiers on horse and foot, all following his order to destroy the three great pyramids.
+
+In 1196-97, this army laboured for 8 months at their assigned task. They exhausted themselves both physically and mentally, striving until their resolve was in tatters, but what did they have to show for it? They would take the entirety of the day to bring loose one or two massive stones, and as each one tumbled with a great crash, it would bury itself in the sand, needing them to exert themselves to bring it loose again and then, with driven wedges, to break it down enough to be brought away.
+
+They moved enough stone in this way that you would think it enough for the entire pyramid to be gone, but instead, Abd al-Latif wrote, “the only goal they attained was that of disfiguring the pyramid and exposing their own impotence and incompetence.” As for the damage they had managed, when Abd-al Latif asked a foreman of the stonemasons if he could ever manage to replace one of those huge stones were he given 1,000 dinars to do so, the man replied that he could never manage the repairs, even if paid many times more. That damage was done. Those stones were never going back. That pyramid would never again be quite as it was."
+
+Had these lesser stone columns actually been broken up and moved to the shore as military or sea defence or had they been washed there by a deluge? You decide.
+
+"There was the immense Pillar of Columns at Alexandria, once, the Alexandrians he talked to agreed, surrounded by hundreds of lesser pillars of the same stone, but they had been broken and thrown down at the shore by a certain governor. To protect against forceful waves, he had claimed, or against the mooring of forceful visitors, but for Abd al-Latif it was, quote, “really an act of wanton and puerile vandalism, and the deed of someone who cannot distinguish between what is useful and what is harmful.” It is of course possible that it was both of those things, and the threat of hostile ships, perhaps crusading ones, was hardly an empty fear."
+
+Anyone know what the green chamber is he refers to?
+
+"So it was also with a place known as the Green Chamber, a room cut from one block of stone within a great temple and covered within and without by engravings. On the outside, you find a sun, turned toward the sun rising over the horizon, along with stars and human and animal figures. Abd al-Latif saw these as not merely ornamental but allegorical for higher, nobler matters, signs indicating esoteric truths."
+
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/

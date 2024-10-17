@@ -102,6 +102,28 @@ Minted in Corinth, Greece, circa 350-338 BCE. This coin almost certainly depicts
 ![](img/corinth1.jpg)
 ![](img/corinth2.jpg)
 
+## King Hezekiah
+
+I would like to know the significance of this winged aster.
+
+https://www.theatlantic.com/international/archive/2015/12/jerusalem-king-hezekiah/418431/
+
+I don't think we are getting the whole story.
+
+The reason for my interest is that it seems highly odd for a king of Judah to borrow an image from a foreign deity, for one. 
+
+But, mostly I'm curious because #1 it was during his reign that there was a flury of astronomical records being made in Babylon, they also reset their baseline calendar.
+
+#2 This was the king who recorded the shadow on the steps moving backwards
+
+#3 The "angel" incident that destroyed and turned back the assyrian army from their siege of Jerusalem.
+
+Some theorize this was the time the day length changed to 365.25 from either 364 or 360, and perhaps the moon from 30 to 29.whatever.
+
+All these points in my mind are connecting to theories of the electric universe.
+
+This is why I think it's curious to find this king select this astral image for his royal seal.
+
 ## Citations
 
 1. https://x.com/EthicalSkeptic/status/1832538729275117895?s=19

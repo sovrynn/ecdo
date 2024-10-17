@@ -139,7 +139,15 @@ Extraterrestrial impact ejecta found in the gills of fish that died in the Chicx
 ![](img/north-dakota2.jpg)
 ![](img/north-dakota3.jpg)
 
+This impact is dated to a very, very long time ago.
+
+https://annas-archive.org/md5/02ed24cd1785fa4f69f60837deb81863
+
 https://www.pnas.org/doi/epdf/10.1073/pnas.1817407116
+
+This paper contains excellent proof of massive seiche occurring four times (two flow reversals) laying down METERS of debris in a matter of hours.
+
+If the water retreats away from you during the initial move, then its almost certainly going to come back from whence it went to. Same thing applies if you're in the path of the first movement - vast amounts are going to run back off of the land after the initial wave. There's no getting away from this anywhere really. Chan describes it best.
 
 ## Citations
 

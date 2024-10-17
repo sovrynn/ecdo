@@ -64,6 +64,20 @@ Sigiriya or Sinhagiri (Lion Rock Sinhala: සීගිරිය, Tamil: சி�
 
 [1] https://en.wikipedia.org/wiki/Sigiriya
 
+## Indian temples
+
+Looking for ones that are more central or inland.
+- https://en.wikipedia.org/wiki/Kandariya_Mahadeva_Temple
+- https://en.wikipedia.org/wiki/Nalanda_mahavihara
+- https://en.wikipedia.org/wiki/Teli_ka_Mandir
+- https://en.wikipedia.org/wiki/Martand_Sun_Temple
+- https://en.wikipedia.org/wiki/Pattadakal
+
+This is a good starting point for finding more: https://en.wikipedia.org/wiki/Ancient_Indian_architecture
+
+At this point (based on the apparent age of the Michigan whale bones) I'm assuming that anything less than 1,000 years is probably not worth considering. Some of the structures listed here are claimed/thought to be many thousands of years old:
+https://en.wikipedia.org/wiki/Ancient_Indian_architecture
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

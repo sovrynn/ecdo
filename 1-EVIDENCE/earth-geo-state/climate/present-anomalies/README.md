@@ -25,6 +25,8 @@ https://x.com/volcaholic1/status/1838907698663833874?s=46
 
 August floods: https://x.com/volcaholic1/status/1840775328848810397?s=46
 
+Switzerland: https://uk.news.yahoo.com/switzerland-three-people-missing-once-183200128.html
+
 ## ITCZ Weakening
 
 ![](img/ictz-wobbling.jpg)

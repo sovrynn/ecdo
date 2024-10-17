@@ -66,6 +66,28 @@ Wherever we turn in the temperate regions of the world we seem to be on the trac
 
 It was in consequence of this dislocation that the loose watery envelope which covers a large portion of the world was set in motion, and sweeping over the land drowned and then buried deep in gravel, loam and clay, hecatombs of living beings, a vast cemetery of life, causing a deluge apparently unparalleled in extent and completeness in any other geological period; a catastrophe which may well claim therefore to bespoken of as “ the great flood.” For the manifold proof of this portion I must appeal to the following pages, and must ask those who are sceptical to at least do me the favour to read the evidence before pronouncing judgment on the conclusion."
 
+## Alaskan Mammoths
+
+![](img/alaska-mam.jpg)
+![](img/alaska-mam2.jpg)
+![](img/alaska-mam3.jpg)
+
+1. 800 km inland, with intervening terrain of over 400m asl. 
+2. Earth in Upheaval, Velikovsky (2009 ed.) 
+3. TAES, Thomas (1963) 
+4. ECDO-derived prediction for North America, State 1 to State 2.
+
+## Siberian Mammoths
+
+![](img/siberia-mam.jpg)
+![](img/siberia-mam2.jpg)
+![](img/siberia-mam3.jpg)
+
+1. Siberia (ECDO, State 1 to State 2). Some Arctic Ocean inundation and severe winds.
+2. https://canadiangeographic.ca/articles/a-mammoth-journey-how-scientists-traced-a-mammoths-migration/
+3. Earth in Upheaval, Velikovsky (2009)
+4. Siberian mammoth. TAES, Thomas (1963)
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Mammoth#Extinction
