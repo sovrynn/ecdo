@@ -2,7 +2,7 @@
 
 Location-specific ECDO flood analysis and evidence gathering.
 
-![world](img/global-elevation2.jpg "world")
+![](img/global-elevation2.jpg)
 
 https://github.com/user-attachments/assets/60f82304-2d63-4e5e-acf3-570a09e54b4e
 
@@ -13,6 +13,10 @@ See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobula
 ## Basic Contribution Guidelines
 
 When investigating specific locations, include a map marking the location relative to its surrounding landmass. See Oranjemund (`LOCATION-ANALYSIS/africa/south-africa/oranjemund`) and Svalbard (`LOCATION-ANALYSIS/arctic/svalbard`) as examples.
+
+## Desert locations
+
+Take a good look at the desert locations. This is likely where a large amount of water ends up after the flip, depositing all the sediment before slowly draining out.
 
 ## Citations
 

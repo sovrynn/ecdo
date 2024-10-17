@@ -78,6 +78,14 @@ This is a good starting point for finding more: https://en.wikipedia.org/wiki/An
 At this point (based on the apparent age of the Michigan whale bones) I'm assuming that anything less than 1,000 years is probably not worth considering. Some of the structures listed here are claimed/thought to be many thousands of years old:
 https://en.wikipedia.org/wiki/Ancient_Indian_architecture
 
+## Oldest inhabited cities [1]
+
+Here it is with the longest inhabited cities in the region. Red inhabited since before 1200BC. Yellow since before 700BC.
+
+![](img/india-cities.jpg)
+
+The thought I'd had is that these cities almost certainly are devastated by quakes and wind as well, but they're not deluged, and hence manage to recover much more quickly.
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

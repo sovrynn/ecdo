@@ -83,3 +83,16 @@ An account of the first formation of a lake with fish in it. Latvia c.±7800 BP.
 This lake that is frozen all year has a secret that no one has found a solution for. This lake is on the plateau next to the Kanchengyao mountain range. It is the source of the Teesta river. However, the secret it holds is that there is a spot in it that stays unfrozen. There surely is a religious angle to it from Buddhism. The story circulated is that a Buddhist Padmasambhava gave this place a blessing. He is believed to have had tantric qualities as well. However, it is still unknown how this one place is untouched even by the harshest of colds.
 
 ![](img/gurudongmar.jpg)
+
+## Sahara ancient megalake
+
+The Sahara has always held mysteries in my mind, with stories like theses:
+
+https://www.si.edu/stories/ancient-megalake-discovered-beneath-sahara-desert
+
+https://en.m.wikipedia.org/wiki/Sahara_pump_theory
+
+This is an elevation map. I've highlighted the region they've shown in red in the first pic. I've marked the other areas of interest (due to their apparent deluge evidence) in the second pic.
+
+![](img/sahara-megalake1.jpg)
+![](img/sahara-megalake2.jpg)

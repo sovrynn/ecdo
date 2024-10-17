@@ -2,7 +2,20 @@
 
 ## Scablands flood deposits
 
-![scablands flood deposits](img/scablands-deposits.jpg "scablands flood deposits")
+The Channelled Scablands. 
+
+Evidence of a deluge which has been put on ice. A widely accepted thesis, published exactly 100 years after Reliquoæ Diluvianæ, relegated to the deepfreeze along with every other item of non-uniforitarium evidence. Giant Current Ripples 60m wide and 2m high, created by water flows 50m deep, which carried boulders the size of churches kilometers across the landscape. Not once, but at least five times.
+
+![](img/scablands1.jpg)
+![](img/scablands2.jpg)
+![](img/scablands3.jpg)
+![](img/scablands4.jpg)
+
+https:// (https://t.co/KT2XAP4jWl)geo.umass.edu/climate/papers (https://t.co/KT2XAP4jWl)2/Baker_retrospective_2009.pdf (https://t.co/KT2XAP4jWl)
+
+The Mount St. Helens S-Set [red line] in the gravel bar illustration was laid down just before the Younger Dryas Boundary, so we have three lesser floods before then, and at least two major ones since the YDB.
+
+![](img/scablands-deposits.jpg)
 
 Potential explanation for the Scablands flood deposits based on the ECDO. The "Set S" tephta is an ash layer from Mt. Saint Helens and is a temporal marker for the termination of the Younger Dryas.
 

@@ -48,6 +48,16 @@ More images in `img/`.
 
 ![](img/trappers-lake-trail.jpg)
 
+## English channel megafloods
+
+Beneath the water of the English Channel lies evidence of two megaflood events.
+
+![](img/english-channel1.jpg)
+![](img/english-channel2.jpg)
+
+[1] Catastrophic flooding origin of shelf valley systems in the English Channel, Gupta et al (2007)
+https://nature.com/articles/nature06018
+
 ## Citations
 
 1. https://nobulart.com

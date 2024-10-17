@@ -31,6 +31,7 @@ Theories:
 - edgar cayce: independent flood theorist
 - Scallion: independent flood theorist
 - Einstein: Feedback on Velikovsky
+- Hancock Graham: netflix cataclysm show
 
 Cataclysm account sources:
 - Censorinus
@@ -43,10 +44,12 @@ Cataclysm evidence, physical markers:
 - Oppenheimer: meltwater pulses
 - Sir arthur evans: Crete palace
 - Tollmann: 7400 comet hypothesis
+- Buckland: flood biomass
 
 Geo/paleomagneticism:
 - Laj
 - Morner
+- McElhinny - Paleomagnetism
 
 Atlantis:
 - flem-ath

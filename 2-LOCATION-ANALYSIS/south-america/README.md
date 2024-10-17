@@ -2,7 +2,11 @@
 
 South America is home to the western ECDO pivot in east Venezuela.
 
-![sa](img/south-america-elevation.png "sa")
+![](img/south-america-elevation.png)
+
+Mount Roraima (the South American pivot) and the Amazon river network.
+
+![](img/sa-elev.jpg)
 
 ## Analysis [1]
 

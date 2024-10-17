@@ -40,6 +40,23 @@ I've only marked a few of the deposits.
 ![](img/salt-notam5.jpg)
 ![](img/salt-notam6.jpg)
 
+## How many inundations?
+
+40 separate floods would surely have produced more chaotic erosion between channels. The consistencies in the channel depths look like the work of one (or more) inundations which spanned the entire region, travelling from NE to SW.
+
+![](img/40floods.jpg)
+
+Those northern geological features I think would be something different.  Lake Missoula's waters would have flowed south and west.
+
+https://www.researchgate.net/figure/Simplified-map-of-Lake-Missoula-the-scablands-and-the-temporary-lakes-alongside-the_fig8_229995424
+
+## Erosion patterns
+
+North America: ECDO-derived prediction for S2>S1 revisualized using the ETOPO 2022 elevation map. The line of flow channels running NW-SE appear to me to have been breached simultaneously. How could separate ice-dam breaches at different times have produced such consistent channel erosion depths across this >2000km range?
+
+![](img/na-erosion1.jpg)
+![](img/na-erosion2.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

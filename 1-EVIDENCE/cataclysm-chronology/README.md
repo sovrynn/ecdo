@@ -70,6 +70,15 @@ https://talkorigins.org/faqs/flood-myths.html#Alfoor
 
 ![](img/sixseven.jpg)
 
+## Sea vessel mentions [2]
+
+Among this compilation of flood myths from around the world, "boat" appears 30 times, "ark" 29, "ship" 36 and "vessel" 11. I think there may have been more than one.
+https://talkorigins.org/faqs/flood-myths.html
+
+## Flood traditions
+
+![](img/flood-traditions.jpg)
+
 ## Citations
 
 1. https://talkorigins.org/faqs/flood-myths.html#Yoruba

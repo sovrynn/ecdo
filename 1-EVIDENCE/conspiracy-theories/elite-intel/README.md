@@ -69,3 +69,7 @@ Here is another interview I found a few years ago in the same vein. It's worth c
 The guy from the video was later charged with a crime and disappeared, so not sure how credible he is. It's a good tale if nothing else that fits the model.
 
 https://youtu.be/j5kq0zYLgrE?si=udj68pV87r-CdI_O
+
+## Rupert Sheldrake - Banned TED Talk
+
+https://youtu.be/JKHUaNAxsTg

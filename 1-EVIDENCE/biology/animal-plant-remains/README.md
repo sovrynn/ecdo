@@ -127,6 +127,10 @@ A submergence map from this paper.
 
 ![](img/san-ciro7.jpg)
 
+## Antarctica petrified forest
+
+https://youtu.be/rRug4jRg0k0?si=VYgwY9EjStuEX9zC
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

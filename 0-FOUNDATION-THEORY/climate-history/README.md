@@ -107,6 +107,18 @@ Was the ancient volcano underlying the Richat Structure the contact point for a 
 ![](img/richat.jpg)
 ![](img/richat2.jpg)
 
+## Impact structures
+
+https://en.m.wikipedia.org/wiki/List_of_impact_structures_on_Earth
+
+## Missoula floods
+
+https://en.m.wikipedia.org/wiki/Missoula_floods
+
+The reason why the geologists think this process happened 40+ times is because of the strandlines found in Missoula:
+
+https://youtu.be/7lGSAbZqQpk?si=JKVyAZ_-fu9n0KfA
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Younger_Dryas

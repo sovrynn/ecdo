@@ -9,3 +9,15 @@ Although the next polar flip could commence at any moment, until our governments
 https://nobulart.com/the-flip-of-the-earth/
 
 ![](img/ken-white.jpg)
+
+## Timemark
+
+I have been reviewing "World in Peril" again and have made a few fresh observations. One was here at about the 4:28:00 mark. They note that the air temp at the north pole was consistently 90 degrees warmer than surface temps? That seems rather bizarre.
+
+https://youtu.be/ksDEYNR-RlU?si=IIzPNeNBqXRH5rHu&t=16112
+
+Found it in the book. That is an interesting observation. I imagine that this has to do with the Birkeland currents which connect at the poles, and which are responsible for the aurora. The aurora are actually pretty hot (200-1100 degrees centigrade), but the plasma is very dispersed so they don't heat the upper atmosphere to this temperature, but will certainly raise it.
+
+![](img/ken-white2.jpg)
+
+https://cdnsciencepub.com/doi/abs/10.1139/p69-242

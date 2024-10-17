@@ -142,9 +142,6 @@ Musical harmonics:
 What holds humanity back?:
 - https://nobulart.com/what-holds-mankind-back-from-confronting-the-forces-determined-to-destroy-it/
 
-Velikovsky excerpt:
-- https://nobulart.com/east-west/
-
 Atkinson (Rosicrucians):
 - https://nobulart.com/the-souls-progress/
 
@@ -155,7 +152,11 @@ Iron mountain excerpt
 
 Vaccine ingredients: https://nobulart.com/covid-19-vaccine-ingredients/
 
-The perfect storm: https://nobulart.com/the-perfect-storm/
+Cataclysms:
+- The perfect storm: https://nobulart.com/the-perfect-storm/
+- The flip of the earth https://nobulart.com/the-flip-of-the-earth/
+- Velikovsky excerpt:
+	- https://nobulart.com/east-west/
 
 https://nobulart.com/666
 

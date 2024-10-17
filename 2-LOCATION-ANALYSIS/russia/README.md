@@ -6,6 +6,17 @@ Most of Russia gets smashed by the Arctic doesn't it. This is set at 250m and th
 
 ![](img/russia-flood.jpg)
 
+## Altai Mountains Russia
+
+The Altai Mountains in Siberia are a overflowing with megaflood evidence.
+
+![](img/altai1.jpg)
+![](img/altai2.jpg)
+![](img/altai3.jpg)
+![](img/altai4.jpg)
+
+https://en.wikipedia.org/wiki/Giant_current_ripples
+
 ## Caspian Sea
 
 Probably, the Caspian Sea will have a 150m higher water level after the rotation. It's a massive basin.

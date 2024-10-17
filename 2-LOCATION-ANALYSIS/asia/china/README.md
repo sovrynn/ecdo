@@ -2,7 +2,7 @@
 
 China, while having a very large stretch of very high elevation land, still has to deal with quite a bit of water during S1 -> S2, and not only along the lines you see here - it potentially has to deal with ocean spilling over from Russia.
 
-![china](img/beijing.png "china rotation path")
+![](img/beijing.png)
 
 Beijing rotates to the end of the yellow line during S1 -> S2.
 
@@ -120,7 +120,9 @@ May just be sand dunes. Coords (40, 86.3).
 
 Beijing and Luoyang are the only two locations in China which have been inhabited continuously for a long time.
 
-![oldest cities](img/china-old-cities.png "china old cities")
+![](img/china-old-cities.png)
+![](img/china-cities1.jpg)
+![](img/china-cities2.jpg)
 
 Beijing's history goes far back as 1100 BC, which is ~3100 years ago, when it was named the City of Ji during the Zhou Dynasty. [3]
 
