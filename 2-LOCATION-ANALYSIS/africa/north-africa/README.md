@@ -43,6 +43,18 @@ ChatGPT GCR speed deduction: *"Could definitely be correct. The water from the m
 ![](img/sudan-speed1.jpg)
 ![](img/sudan-speed2.jpg)
 
+## Flows
+
+Comparing the flow paths to NOAA's ETOPO 2022 elevation data reveals the likely path through which the flow would concentrate - Gran Sirte off the coast of Libya.
+
+![](img/na-flows1.jpg)
+![](img/na-flows2.jpg)
+![](img/na-flows3.jpg)
+
+Elevation cross-section suggests that gravity would direct remaining water towards Mauritania once State 2 is reached.
+
+![](img/na-flows4.jpg) 
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

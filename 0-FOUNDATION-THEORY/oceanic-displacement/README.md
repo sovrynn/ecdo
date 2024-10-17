@@ -72,6 +72,26 @@ Water flow will also fall in height as it spreads over a greater surface.
 
 The exact amount of time it takes for the S1 -> S2 rotation will significantly affect the speed and result of oceanic displacement.
 
+## Standard flood modelling maximum velocities
+
+Maximum velocities in standard flood modelling are considered to be no more than 0.5-1 m/s (some outliers near 2m/s). How on earth could 60m/s be achieved unless that earth was moving relative to the water inertia?
+
+![](img/flood-velocities.jpg)
+
+https://nhess.copernicus.org/articles/9/1679/2009/nhess-9-1679-2009.pdf
+
+Even the low end of the megaflood flow models are "orders of magnitude" greater than anything we observe in dam failures and the largest rivers.
+
+![](img/megaflood-velocities.jpg)
+
+https://www.sciencedirect.com/science/article/abs/pii/S0012825219305641
+
+Here's a comparable figure. 35 m/s.
+
+![](img/flood-velocities2.jpg)
+
+https://physics.stackexchange.com/questions/730879/what-is-the-fastest-speed-that-water-burst-from-a-dam-can-travel
+
 # TODO
 
 Tsunami flood sim: https://m.youtube.com/watch?v=aHljDIDf6js&pp=ygUXb2NlYW4gdHN1bmFtaSBmbHVpZCBzaW0%3D
