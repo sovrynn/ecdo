@@ -46,6 +46,7 @@ Guy Beaujouan was also a pioneer in this field. I'm in the process of translatin
 - https://nobulart.com/wrath-of-the-sun/
 - https://nobulart.com/epidemics-during-grand-solar-minima/
 - https://nobulart.com/using-cosmic-rays-to-predict-influenza-epidemics/
+- https://nobulart.com/from-light-comes-darkness/
 
 ## The study of cycles
 
@@ -69,6 +70,19 @@ https://nobulart.com/a-story-of-atlantis/
 ## Silent Weapons for Quiet Wars
 
 https://nobulart.com/silent-weapons-for-quiet-wars/
+
+## East and West
+
+In the tomb of Senmut, the architect of Queen Hatshepsut, a panel on the ceiling shows the celestial sphere with the signs of the zodiac and other constellations in “a reversed orientation” of the southern sky.
+
+The end of the Middle Kingdom antedated the time of Queen Hatshepsut by several centuries. The astronomical ceiling presenting a reversed orientation must have been a venerated chart, made obsolete a number of centuries earlier.
+
+“A characteristic feature of the Senmut ceiling is the astronomically objectionable orientation of the southern panel.” The center of this panel is occupied by the Orion-Sirius group, in which Orion appears west of Sirius instead of east. “The orientation of the southern panel is such that the person in the tomb looking at it has to lift his head and face north, not south.” “With the reversed orientation of the south panel, Orion, the most conspicuous constellation of the southern sky, appeared to be moving eastward, i.e., in the wrong direction.”
+
+The real meaning of “the irrational orientation of the southern panel” and the “reversed position of Orion” appears to be this: the southern panel shows the sky of Egypt as it was before the celestial sphere interchanged north and south, east and west. The northern panel shows the sky of Egypt as it was on some night of the year in the time of Senmut.
+
+Immanuel Velikovsky (1950)
+https://nobulart.com/East-West
 
 ## Good Articles
 

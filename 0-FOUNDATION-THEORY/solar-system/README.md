@@ -38,6 +38,15 @@ Does this happen for the same reason that the LLVPs seem to be centered around t
 
 [1] https://sci-hub.ru/10.1016/j.pss.2010.10.012
 
+## Comets, Cosmic Bodies
+
+- Encke, Taurid meteor shower
+- Apophis
+- Nibiru
+- Halley's Comet
+
+- Aldebaran (India)
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Solar_cycle#Patterns

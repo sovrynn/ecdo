@@ -102,3 +102,5 @@ Mac: Use `find /path/to/search -type f -name "*.md" -exec sed -i '' 's/old-text/
 # TODO
 
 There's some Google :index search trick I can't seem to find
+
+Lovely visualizations here: https://s-ink.org/gallery

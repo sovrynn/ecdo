@@ -78,20 +78,20 @@ The Mono Lake Excursion ( MLE ) was a polarity excursion of the Earth's magnetic
 
 https://de.wikipedia.org/wiki/Mono-Lake-Exkursion
 
-## Magnetic profiles [1]
+## Magnetic profiles [1] (Paleomagnetism, McElhinny)
 
-![magnetic](img/magnetic1.jpg "magnetic profiles")
+![](img/magnetic1.jpg)
 
 Quick glance at the long term magnetic reversal history. Black/White transitions are 180° flips.
 
 This is recorded all over the earth in thousands of proxies. Uniformitarian geology ascribes them to magnetic field reversals rather than physical ones.
 
-![magnetic](img/magnetic2.jpg "magnetic profiles")
-![magnetic](img/magnetic3.jpg "magnetic profiles")
-![magnetic](img/magnetic4.jpg "magnetic profiles")
-![magnetic](img/magnetic5.jpg "magnetic profiles")
-![magnetic](img/magnetic6.jpg "magnetic profiles")
-![magnetic](img/magnetic7.jpg "magnetic profiles")
+![](img/magnetic2.jpg)
+![](img/magnetic3.jpg)
+![](img/magnetic4.jpg)
+![](img/magnetic5.jpg)
+![](img/magnetic6.jpg)
+![](img/magnetic7.jpg)
 
 ## Paleomagnetic data: Earth rotation ~500 mm years ago
 

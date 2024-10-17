@@ -20,7 +20,7 @@ What I see in this paper is two surges in salinity at around 1700 and 500 BC.
 
 https://sci-hub.ru/10.1016/j.quascirev.2013.05.020
 
-## Mayan Chichancanab Lake 5800 BC filling [1]
+## Mayan Chichancanab Lake 5800 BC filling
 
 I see two events in here: 5800 BC event, and an event around 300 BC with similar effects - increase in salinity, and oxygen-18 isotopes in the marine shells, and a fall in CaCO3. I do think this data might need to be normalized somehow for proper relative scaling.
 
@@ -73,3 +73,13 @@ Well looky here. A triple conjunction with our dates of 7400 BP, 3700 BP and 500
 ![](img/lake-sevan.jpg)
 
 [1] https://annas-archive.org/md5/d5a62f2696f8ffef7dbb15a5a26b049a
+
+## Latvian lake 6500 - 5400 BC
+
+An account of the first formation of a lake with fish in it. Latvia c.±7800 BP. https://sci-hub.ru/10.1177/0959683616683255
+
+## Himalayas Gurudongmar Salt lake
+
+This lake that is frozen all year has a secret that no one has found a solution for. This lake is on the plateau next to the Kanchengyao mountain range. It is the source of the Teesta river. However, the secret it holds is that there is a spot in it that stays unfrozen. There surely is a religious angle to it from Buddhism. The story circulated is that a Buddhist Padmasambhava gave this place a blessing. He is believed to have had tantric qualities as well. However, it is still unknown how this one place is untouched even by the harshest of colds.
+
+![](img/gurudongmar.jpg)

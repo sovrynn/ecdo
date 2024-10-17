@@ -52,7 +52,10 @@ https://x.com/RealDutchsinse/status/1818805390974263741
 
 ## Faraday Cage
 
-Check `img/`.
+![](img/faraday-cage.jpg)
+
+Links to the source documents are here:
+https://nobulart.com/the-perfect-storm/#chemtrails
 
 ## Hurricane and Tornado Control
 

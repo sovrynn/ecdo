@@ -34,14 +34,6 @@ See `LITERATURE-MEDIA/chan-thomas`.
 
 Hard copy `TwoFloods_Web.pdf` in this folder.
 
-## Adam and Eve Flood
-
-The opening verses of the bible begin with:
-
-"1) In the beginning God created the heavens and the earth. 2) Now the earth was formless and void, and darkness was over the surface of the deep. And the Spirit of God was hovering over the surface of the waters."
-
-The second verse may refer to a cataclysm flood event.
-
 ## Isaiah 24
 
 17Terror and the pit and the snared
@@ -59,6 +51,10 @@ the earth is violently shaken.
 it sways like a hut;
 its transgression lies heavy upon it,
 and it falls, and will not rise again.
+
+### 24.1
+
+![](img/isaiah.jpg)
 
 ## Psalms
 

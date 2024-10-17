@@ -27,6 +27,9 @@ https://youtu.be/6JA38XKOVpA
 
 https://www.youtube.com/watch?v=2HBiX9BT9ME
 
+Donald E. Scott: Indeed, Our Sun is Electric!
+https://www.youtube.com/watch?v=t1LwYbPruyw
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

@@ -26,3 +26,13 @@ Kaali Craters. "Saarse et al. (1991) radiocarbon dated the near-bottom lake sedi
 
 ![](img/kaali1.jpg)
 ![](img/kaali2.jpg)
+
+## Comet event 3100 BC?
+
+https://x.com/GemsOfINDOLOGY/status/1594307136905162753
+
+## Vredefort Impact Structure
+
+https://en.wikipedia.org/wiki/Vredefort_impact_structure
+
+The unusually mineral rich composition of the crust here probably has something to do with the LLSVP intrusion and the Vredefort crater which exposed some of what was below. Agreed on the alternate concepts - I find valuable knowledge in most areas of inquiry, especially if its something new to me. 

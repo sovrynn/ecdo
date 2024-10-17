@@ -57,6 +57,22 @@ I think the "natural" axis of rotation of the mantle and crust (with less, or ma
 
 30 million gigatonnes of ice in play in the Antarctic. No one knows what the LLSVP's are, nor their mass. There isn't even agreement on whether they're more or less dense than the surrounding material.
 
+### Mass Calculation of LLVP to Ice Caps
+
+So the LLVPs make up about 8% of mantle volume, and 6% of Earth's volume.
+
+The volume of the Earth is about 1.083 * 10^12 km cubed. 6% of that is 6.5 * 10^12 km cubed.
+
+Now if we take the density of the mantle, about 4 g per cubic cm, that becomes 4 * 10^15 kg per cubic km.
+
+Finally the LLVP is about 5% density difference (literature says its denser though...) so let's take 5% which is 2 * 10^14 kg per cubic km difference.
+
+Now we multiply that by volume to get the mass difference: 13 * 10^26 kg.
+
+The total mass of the ice caps is about 2.67 * 10^19 kg per GPT.
+
+Clearly, the mass of the ice caps is microscopic in comparison to the resulting mass difference from a 5% density anomaly in the LLVPs.
+
 ## Nobulart - Electromagnetic Solar/Planetary Perturbation [2]
 
 Nobulart proposes that electromagnetic perturbations inside the Earth are caused by solar and planetary interactions, which I imagine as a form of electromagnetic induction caused by traversing changing magnetic fields.

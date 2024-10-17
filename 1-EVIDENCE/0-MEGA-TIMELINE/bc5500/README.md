@@ -29,6 +29,7 @@ Abandoned settlements:
 New additions:
 - 5500 BC Illumetsa crater field, Estonia
 - 6000-5000 BC Lake Sevan, Armenia, high lake levels
+- 6500-5400 BC Latvian Lake creation: https://sci-hub.ru/10.1177/0959683616683255
 
 ## Exact date
 

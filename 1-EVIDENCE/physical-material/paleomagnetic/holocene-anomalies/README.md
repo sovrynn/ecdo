@@ -52,11 +52,13 @@ https://watchers.news/2024/09/18/geomagnetic-excursions-over-the-last-10-000-yea
 
 Really would like to find the research paper cited in this article but it's behind a paywall: https://link.springer.com/article/10.1134/S1819714024700143
 
-## UK Recent Paleomagnetic
+## UK Recent Paleomagnetic [1]
 
 It's a problem with shorter term proxies. They're generally softer and less stable than older material. More difficult to obtain good data from. I haven't seen many palaeomagentic proxies on that timescale at all. This one is from the UK.
 
 ![](img/uk-paleomagnetic.jpg)
+
+Paleomagnetic records of the past 10,000 years show something interesting: the magnetic north does not completely invert, but the direction of its wander abruptly changes direction at certain points. This would be consistent with a crustal displacement relative to the magnetic field. Notice there appear to be at least four of these in the past 10ky.
 
 ## Setrno-Etrussia 2700 BP
 
@@ -71,6 +73,10 @@ https://journals.uair.arizona.edu/index.php/radiocarbon/article/viewFile/4201/36
 https://www.sciencedirect.com/science/article/pii/S0016716915000100
 
 Hard copy in this folder.
+
+## Citations
+
+1. [Craig Stone](https://nobulart.com)
 
 # TODO
 

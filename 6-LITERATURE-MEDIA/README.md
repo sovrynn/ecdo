@@ -66,6 +66,7 @@ Solar system:
 Modern politics:
 - iron mountain: On the necessity and nature of modern war in society
 - robert lomas: Mason
+- ken white: pole flip
 
 Water in the crust:
 - Salzman

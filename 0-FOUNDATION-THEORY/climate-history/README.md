@@ -26,13 +26,15 @@ Other:
 - Dansgaard-Oeschger events
 - Heinrich events
 
-## Holocene Sea Level Rise, Meltwater pulses [9,10]
+## Holocene Sea Level Rise, Meltwater pulses [9,10,11]
 
 "The early Holocene sea level rise (EHSLR) was a significant jump in sea level by about 60 m (197 ft) during the early Holocene, between about 12,000 and 7,000 years ago, spanning the Eurasian Mesolithic."
 
 Understanding what exactly caused this undeniable massive sea level rise should surely be very relevant for the ECDO. The justification for these seems to be massive ice sheet melting. But that should raise the question, how was it that there were such massive ice sheets before the Younger Dryas, which then melted during the Holocene, and don't exist to such an extent now?
 
 ![](img/meltwater-pulses.jpg)
+![](img/sea-level-rise1.jpg)
+![](img/sea-level-rise2.jpg)
 
 "During deglaciation since the Last Glacial Maximum, between about 20,000 to 7,000 years ago (20–7 ka), the sea level rose by a total of about 100 m (328 ft), at times at extremely high rates, due to the rapid melting of the British-Irish Sea, Fennoscandian, Laurentide, Barents-Kara, Patagonian, Innuitian and parts of the Antarctic ice sheets."
 
@@ -106,3 +108,4 @@ This was the period preceding the Younger Dryas.
 8. https://en.wikipedia.org/wiki/Heinrich_event
 9. https://en.wikipedia.org/wiki/Early_Holocene_sea_level_rise
 10. https://en.wikipedia.org/wiki/Meltwater_pulse_1B
+11. https://klimaatgek.nl/wordpress/zeespiegel/

@@ -6,6 +6,14 @@
 - Dated to 5500 BC by Africanus.
 - Eusebius dates to 5199 BC
 
+## Adam and Eve Flood
+
+The opening verses of the bible begin with:
+
+"1) In the beginning God created the heavens and the earth. 2) Now the earth was formless and void, and darkness was over the surface of the deep. And the Spirit of God was hovering over the surface of the waters."
+
+The second verse may refer to a cataclysm flood event.
+
 ## The Beginnings of Christian Universal History From Tatian to Julius Africanus (hard copy here)
 
 Good writeup. Not solely about Africanus (evidently from the title).

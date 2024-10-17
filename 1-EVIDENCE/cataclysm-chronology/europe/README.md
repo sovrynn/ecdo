@@ -104,6 +104,14 @@ The Tysilio chronology published by Petrie in his Neglected British History Essa
 
 ![](img/british-history.jpg)
 
+## 3123 BC asteroid
+
+Sumerian Observation of the Kofels Impact Event:
+
+![](img/kofels.jpg)
+
+"The Köfels landslide was a huge mountain rockslide (a SturzstromWikipedia) that occurred in the Austrian Alps about 9800 years ago near the present day village of Köfels. Some of its features mystified geologists for quite some time. One hypothesis was that it had been caused by an asteroid impact — a Köfels impact event — but more recent research has rejected the idea. This didn't stop a pair of British engineers from publishing a book that claims that a) it was an asteroid impact, b) it inspired a lot of myths, and c) it was recorded on an ancient Sumerian clay tablet." [12]
+
 ## Citations
 
 1. Minoan: http://www.minoancrete.com/chron.htm
@@ -117,6 +125,7 @@ The Tysilio chronology published by Petrie in his Neglected British History Essa
 9. Dardanus: https://www.genealogieonline.nl/en/stamboom-homs/I6000000006375582740.php
 10. Sir JAMES GEORGE FRAZER, FOLK-LORE IN THE OLD TESTAMENT (1919)
 11. https://en.wikipedia.org/wiki/Storegga_Slide
+12. https://rationalwiki.org/wiki/K%C3%B6fels_impact_event
 
 # TODO
 
