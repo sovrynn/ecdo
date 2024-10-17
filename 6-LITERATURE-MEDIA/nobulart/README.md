@@ -66,6 +66,10 @@ https://nobulart.com/nukes-and-tobacco
 
 https://nobulart.com/a-story-of-atlantis/
 
+## Silent Weapons for Quiet Wars
+
+https://nobulart.com/silent-weapons-for-quiet-wars/
+
 ## Good Articles
 
 Chan excerpts (tons of evidence in these):
@@ -90,3 +94,5 @@ Burgoyne:
 Iron mountain excerpt
 
 Vaccine ingredients: https://nobulart.com/covid-19-vaccine-ingredients/
+
+The perfect storm: https://nobulart.com/the-perfect-storm/
