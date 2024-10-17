@@ -69,6 +69,14 @@ In another scenario, the high frequency sound waves will function to enhance the
 
 ![](img/hurricane-control.jpg)
 
+## Large Hadron Collider
+
+The estimated magnetic field strength near to the Earth's core is 25-40 teslas. The LHC contains 1,232 superconducting dipole electromagnets, each capable of 8.3 teslas (20-33% of that near the core), for a combined total 10,225 teslas. Approximately 0.63 gigajoules (GJ) of energy would be required to establish a 10,000 tesla magnetic field. The Large Hadron Collider (LHC) can store up to 9 gigajoules (GJ) of energy in its dipole magnets during operation. This stored energy is primarily due to the magnetic field energy stored in the superconducting coils of the magnets.
+
+![](img/lhc1.jpg)
+![](img/lhc2.jpg)
+![](img/lhc3.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

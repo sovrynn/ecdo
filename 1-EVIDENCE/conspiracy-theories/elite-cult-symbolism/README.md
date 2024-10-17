@@ -61,17 +61,6 @@ Some one posted this on twitter, 104°
 
 ![](img/twitter.jpg)
 
-## Freemasonry
-
-![](img/freemason1.jpg)
-![](img/freemason2.jpg)
-![](img/freemason3.jpg)
-
-1. https://nobulart.com/on-the-origin-of-freemasonry/
-2. https://nobulart.com/ancient-secret-societies/
-3. https://nobulart.com/order-of-the-illuminati/
-4. https://nobulart.com/shakespeare-bacon/
-
 ## Wandering Earth Movie
 
 In The Wandering Earth (2019), one of the “torque engines” - used to stop the earths rotation in order to save it from a solar disaster - is singled out near the start of the movie. It’s location is Sulawesi.
@@ -90,14 +79,6 @@ What the ECDO brings to this discussion is clarity about its significance on the
 
 ![](img/swastika1.jpg)
 ![](img/swastika2.jpg)
-
-## Rosicrucians
-
-There's that diamond/lozenge shape again. Note the text written around the four edges of it. It symbolizes (among other things) as above, so below.
-
-![](img/rosicrucians.jpg)
-
-[1] https://archive.org/details/SecretSymbolsOfTheRosicruciansBook1J.D.A.Eckhardt1788
 
 ## John Dee
 

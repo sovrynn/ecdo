@@ -84,6 +84,11 @@ The real meaning of “the irrational orientation of the southern panel” and t
 Immanuel Velikovsky (1950)
 https://nobulart.com/East-West
 
+## Shakespeare and Bacon
+
+“If one man can be singled out as the person most responsible for the colonization of America, the honor would certainly fall to the head of both Masonry and Rosicrucianism of his era, Sir Francis Bacon. in the early 1600’s Bacon authored a novel entitled New Atlantis, which laid out the idea for a utopian society across the ocean from Europe where mankind could build a new civilization based upon the principles he believed to be those of the legendary lost continent of Atlantis.”
+https://nobulart.com/shakespeare-bacon/
+
 ## Good Articles
 
 Chan excerpts (tons of evidence in these):

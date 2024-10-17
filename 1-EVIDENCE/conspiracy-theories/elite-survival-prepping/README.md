@@ -52,7 +52,7 @@ https://x.com/NoVaxForMePal/status/1529938570559078415
 
 There are some rather interesting projects apparently currently underway or planned. How about a Black Box recorder for planet Earth?
 
-![]()
+![](img/blackbox.jpg)
 
 [1] https://earthsblackbox.com
 

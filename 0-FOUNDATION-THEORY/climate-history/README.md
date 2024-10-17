@@ -49,6 +49,10 @@ This is the period preceding the Holocene.
 
 "During the preceding period, the Bølling–Allerød Interstadial, rapid warming in the Northern Hemisphere[9]: 677  was offset by the equivalent cooling in the Southern Hemisphere.[10][8] This "polar seesaw" pattern is consistent with changes in thermohaline circulation (particularly the Atlantic meridional overturning circulation or AMOC), which greatly affects how much heat is able to go from the Southern Hemisphere to the North. The Southern Hemisphere cools and the Northern Hemisphere warms when the AMOC is strong, and the opposite happens when it is weak.[10] The scientific consensus is that severe AMOC weakening explains the climatic effects of the Younger Dryas.[11]: 1148  It also explains why the Holocene warming had proceeded so rapidly once the AMOC change was no longer counteracting the increase in carbon dioxide levels."
 
+### YDB Field
+
+![](img/ydb-field.jpg)
+
 ## Dansgaard-Oeschger event (pre-Holocene) [7] (hard copy in this folder)
 
 I believe these clearly depict ECDO events - they are most clearly recorded in the Greenland ice cores, and thus interpreted as being global warming events. However, the Greenland ice sheets move right to the equator during the event, which would lead to a warming of the ice sheets. These would also have less of an effect in the Antarctic ice sheets, which is much larger. The dramatic heating events would occur during S2, and then the cooling would begin once back at the poles.
@@ -95,6 +99,13 @@ Heinrich events are often marked by the following changes:
 This was the period preceding the Younger Dryas.
 
 "The Bølling–Allerød Interstadial (Danish: [ˈpøle̝ŋ ˈæləˌʁœðˀ]), also called the Late Glacial Interstadial (LGI), was an interstadial period which occurred from 14,690 to c. 12,890 years Before Present, during the final stages of the Last Glacial Period.[2] It was defined by abrupt warming in the Northern Hemisphere, and a corresponding cooling in the Southern Hemisphere,[3] as well as a period of major ice sheet collapse and corresponding sea level rise known as Meltwater pulse 1A.[4] This period was named after two sites in Denmark where paleoclimate evidence for it was first found, in the form of vegetation fossils that could have only survived during a comparatively warm period in Northern Europe.[3] It is also referred to as Interstadial 1 or Dansgaard–Oeschger event 1."
+
+## Richat Structure
+
+Was the ancient volcano underlying the Richat Structure the contact point for a discharge between the Earth and Encke’s progenitor 12,500 YBP, shattering the comet, strewing destruction across the northern hemisphere from Turkey to Alaska?
+
+![](img/richat.jpg)
+![](img/richat2.jpg)
 
 ## Citations
 

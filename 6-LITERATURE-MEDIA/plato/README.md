@@ -16,3 +16,8 @@ https://classics.mit.edu/Plato/timaeus.html
 ## Politicus
 
 “At certain periods the universe has its present circular motion, and at other periods it revolves in the reverse direction. Of all the changes which take place in the heavens this reversal is the greatest and most complete. There is at that time great destruction of animals in general, and only a small part of the human race survives.” - Plato, Politicus (4th century BC)
+
+## Critias
+
+“Let me begin by observing first of all, that nine thousand was the sum of years which had elapsed since the war which was said to have taken place between those who dwelt outside the pillars of Heracles and all who dwelt within them; this war I am going to describe. Of the combatants on the one side, the city of Athens was reported to have been the leader and to have fought out the war; the combatants on the other side were commanded by the kings of Atlantis.” – Plato (360 BCE)
+https://nobulart.com/critias/
