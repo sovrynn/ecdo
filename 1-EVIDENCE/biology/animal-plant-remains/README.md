@@ -131,6 +131,38 @@ A submergence map from this paper.
 
 https://youtu.be/rRug4jRg0k0?si=VYgwY9EjStuEX9zC
 
+## Kolyma River (Gulag Archipelago, Solzhenitsyn)
+
+![](img/kolyma.jpg)
+
+## Dogger Bank (excerpt from Submerged Forests, 1913)
+
+"In the middle of the North Sea lies the extensive shoal known as the Dogger Bank, about 60 or 70 miles from the nearest land. This shoal forms a wide irregular plateau having an area nearly as big as Denmark. Over it for the most part the sea has a depth of only 50 or 60 feet; all round its edge it slopes somewhat abruptly into deeper water, about 150 feet in the south, east, and west, but much deeper on the north. 
+
+This peculiar bank has been explained as an eastward submerged continuation of the Oolite escarpment of Yorkshire; or, alternatively, as a mere shoal accumulated through the effects of some tidal eddy; but neither of these explanations will hold, for Oolitic rocks do not occur there, and the bank has a core quite unlike the sand of the North Sea. 
+
+When trawlers first visited the Dogger Bank its surface seems to have been strewn with large bones of land animals and loose masses of peat, known to the fishermen as “moorlog,” and there were also many erratic blocks in the neighbourhood. As all this refuse did much damage to the trawls, and bruised the fish, the erratics and bones were thrown into deeper water, and the large cakes of moorlog were broken in pieces. A few of the erratics and some of the bones were however brought to Yarmouth as curiosities. Now the whole surface of the Dogger Bank has been gone over again and again by the trawlers, and very few of the fossil bones are found; unfortunately no record seems to have been kept as to the exact place where these bones were trawled. 
+
+The species found were:
+
+- Ursus (bear)
+- Bison priscus (bison)
+- Canis lupus (wolf)
+- Equus caballus (horse)
+- Hyaena spelaea (hyaena)
+- Rhinoceros tichorhinus (rhinoceros)
+- Cervus megaceros (Irish elk)
+- Cervus tarandus (reindeer)
+- Elephas primigenius (mammoth)
+- Cervus elaphus (red-deer) 
+- Castor fiber (beaver)
+- Trichechus rosmarus (walrus)
+- Bos primigenius (wild ox)."
+
+[1] Submerged Forests, Clement Reid (1913) https://archive.org/details/submergedforests00reid
+
+Very interesting, had to see some visuals. Searched up this: https://m.youtube.com/watch?v=ieblA-Vf0mo
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

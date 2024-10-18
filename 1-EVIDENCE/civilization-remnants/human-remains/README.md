@@ -35,7 +35,24 @@ https://www.dailymail.co.uk/news/peoplesdaily/article-3192196/Enduring-love-4-00
 ![](img/chinapompeii1.jpg)
 ![](img/chinapompeii2.jpg)
 
+## Otzi
+
+"Ötzi, also called The Iceman, is the natural mummy of a man who lived between 3350 and 3105 BC. Ötzi's remains were discovered on 19 September 1991, in the Ötztal Alps (hence the nickname "Ötzi", German: [œtsi]) at the Austria–Italy border. He is Europe's oldest known natural human mummy, offering an unprecedented view of Chalcolithic (Copper Age) Europeans."
+
+"Ötzi was found on 19 September 1991 by two German tourists, at an elevation of 3,210 m (10,530 ft) on the east ridge of the Fineilspitze in the Ötztal Alps on the Austrian–Italian border, near Similaun mountain and the Tisenjoch pass."
+
+"The next day, a mountain gendarme and the keeper of the nearby Similaunhütte first attempted to remove the body, which was frozen in ice below the torso, using a pneumatic drill and ice axes, but bad weather forced them to give up."
+
+"Analysis of the contents revealed the partly digested remains of ibex meat, confirmed by DNA analysis, suggesting he had had a meal less than two hours before his death. Wheat grains were also found.[16] It is believed that Ötzi most likely had a few slices of a dried, fatty meat, which came from a wild goat in South Tyrol, Italy.[17] Analysis of Ötzi's intestinal contents showed two meals (the last one consumed about eight hours before his death), one of chamois meat, the other of red deer and herb bread; both were eaten with roots and fruits."
+
+"Ötzi's lungs were examined endoscopically and were found to be blackened by soot, probably due to his frequent proximity to open fires for warmth and cooking."
+
+"In May 2012, scientists announced the discovery that Ötzi still had intact blood cells. These are the oldest complete human blood cells ever identified. In most bodies this old, the blood cells are either shrunken or mere remnants, but Ötzi's have the same dimensions as living red blood cells and resemble a modern-day sample."
+
+"Ötzi's stomach was completely full and its contents were mostly undigested."
+
 ## Citations
 
 1. https://www.smithsonianmag.com/smart-news/an-ornate-5000-year-old-stone-drum-is-the-uks-most-significant-prehistoric-art-find-in-a-century-180979604/
 2. [Craig Stone](https://nobulart.com)
+2. https://en.m.wikipedia.org/wiki/%C3%96tzi

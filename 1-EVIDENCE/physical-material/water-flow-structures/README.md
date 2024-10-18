@@ -24,6 +24,14 @@ Another pic. It seems fairly well accepted that this entire area in WA was delug
 
 ![](img/palouse2.jpg)
 
+## Palouse Falls
+
+Here is a park called Palouse Falls, you can see what looks like multiple washes or perhaps different strata layers that resisted the water in different ways?
+
+https://lidarportal.dnr.wa.gov/#46.65966:-118.23071:16
+
+https://parks.wa.gov/find-parks/state-parks/palouse-falls-state-park-heritage-site
+
 ## Nebraska
 
 In Nebraska, some 400km northeast of Pike's Peak is an area of more than 16,000 square miles of what appear to be mega current ripples, averaging 1.6km between peaks, and 50-60m depth (30km sample). These are of similar size to those seen in Sudan and Mauritania.

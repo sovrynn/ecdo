@@ -2,6 +2,8 @@
 
 This document is for predicting the height and extent of temporary oceanic displacement during the rotation. In short, it is a very complex, large-scale fluid dynamics problem. Every location will be unique and must be evaluated on a case-by-case basis.
 
+![](img/oceanic-disp.jpg)
+
 ## A framework for modeling ocean displacement fluid dynamics
 
 Fluid dynamics can be divided into two categories - obstacles and fluid. Based on this, I define the following concepts:

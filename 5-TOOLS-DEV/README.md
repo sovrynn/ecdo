@@ -20,6 +20,8 @@ Google's mapping tools are excellent:
 - Google Earth Pro (desktop app)
 - Google Earth Scripting (need Google account): https://code.earthengine.google.com
 
+Washington state lidar portal: https://lidarportal.dnr.wa.gov/
+
 3D globe, temperature data: https://earth.nullschool.net
 
 Ocean mapping:

@@ -42,6 +42,21 @@ This kind of long range transmission was strictly in the realm of military appli
 
 For pro tips of archival, check the project scientology takes to preserve their original source material. Wondering if the archive grade paper they developed would be available commercially. This really goes over the top though, requires huge resources. https://www.scientology.tv/series/inside-scientology/archival-project.html
 
+## Measuring magnetic field
+
+Something along the lines of the Raspberry Raspberry Shake project. The sensor used for magnetic field measurement is a hall effect sensor. Built into almost every smarthpone and watch, and found in many of the devkit electronics like the ESP32, Arduino and Raspberry pi gear.
+https://stationview.raspberryshake.org
+
+That is a cool idea. Need to collect magnetic field strength data - there could be an app for that!
+
+Looks like somebody has already done something like this.  Guessing for different reasons.  Apple (https://www.youtube.com/watch?v=ocIn_LzlAVQ) / Android (https://magnetic-field-sensor.en.softonic.com/android)
+
+So the app would have to permit GPS location and report Mag and location data.  It varies by location correct? 
+
+https://geomag.bgs.ac.uk/education/earthmag.html
+
+Maybe there is an easier way, but if Ben wants the data - he should make a Suspicious0bserver app
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

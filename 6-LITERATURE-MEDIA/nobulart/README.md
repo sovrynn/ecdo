@@ -58,6 +58,12 @@ https://nobulart.com/the-study-of-cycles/
 
 “Robert Oppenheimer was a part of the Oppenheimer financiers that enabled the Rothschilds.” False. They’re not related at all. They only share a name. I know this because I have traced the lineage of the South African Oppenheimer family (https://nobulart.com/diamonds) all the way back to Solomon. They are of the Davidic line. During that process I also looked at RJO’s lineage specifically because I thought he was related. He does not share this lineage in any way or form. Oppenheimer is a popular surname. They’re not all blood relatives.
 
+![](img/oppenheimer1.jpg)
+![](img/oppenheimer2.jpg)
+![](img/oppenheimer3.jpg)
+
+https://nobulart.com/the-diamond-empire/
+
 ## Nukes and tobacco
 
 Not my authorship on this one, but I feel that Joe Vialls made some valid points in this. 
@@ -96,6 +102,8 @@ https://nobulart.com/shakespeare-bacon/
 
 “Although secret societies were very well organized and funded in early America, a formidable force arose to oppose them and quietly challenge their control of the developing nation. This force was the spiritual zeal of the Christian colonists.”
 https://nobulart.com/life-liberty-property/
+
+“I have heard much of the nefarious, and dangerous plan, and doctrines of the Illuminati, but never saw the Book until you were pleased to send it to me… I must correct an error you have run into, of my Presiding over the English lodges in this Country. The fact is, I preside over none, nor have I been in one more than once or twice, within the last thirty years.” - Letter from George Washington, American Mason, clearly delineating the moral difference between the European and the American Puritan/Pilgrim/Christian-dominated secret societies. 
 
 ## The exploded planet
 

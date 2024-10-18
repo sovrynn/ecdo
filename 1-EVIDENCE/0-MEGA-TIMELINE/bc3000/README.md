@@ -28,6 +28,7 @@ New additions:
 - 3000 BC Bahamas flooding from sediment cores
 - 3100 BC Kofels Austria landslide/impact event
 - 3100 BC comet impact evidence compilation (some new things in here): https://x.com/GemsOfINDOLOGY/status/1594307136905162753
+- 3300-3100 BC Otzi frozen mummy
 
 All the evidence is spread throughout the repo but I'll include deeper investigations here.
 

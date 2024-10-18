@@ -24,6 +24,11 @@ What if this timeline is, say, double the length? 60 years per generation of man
 
 "The city itself did not suddenly evacuate. Around 1900 BCE, you see a shift happen, fewer traces of people living in the city start to emerge in the material record. It's not that everyone is gone, but there are certain neighbourhoods that you begin to see in disrepair. These later time periods do not have the same density of population as earlier time periods. You see the slow movement of folks leaving the city," she said. [5]
 
+![](img/mohenjo1.jpg)
+![](img/mohenjo2.jpg)
+![](img/mohenjo3.jpg)
+![](img/mohenjo4.jpg)
+
 Mohenjo-Daro's abandonment is temporally coincident with the recorded destruction of Crete by deluge (c. 1750 BCE) and fire (c. 1700 BCE) [2]
 
 There are thousands of square kilometers of significant stratification formations underlying the sand dunes starting 100km to the east of the site which precisely align with the ECDO [3] moment of inertia (the red line), and which are morphologically characteristic of the unperturbed laminar flow which would occur during S2>S1 in this area. [4]

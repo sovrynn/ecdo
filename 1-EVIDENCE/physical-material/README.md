@@ -21,6 +21,14 @@ https://images.app.goo.gl/EDqL25iWFUBFgymH6
 https://www.youtube.com/watch?v=1S__dy0nA0k is talking about a tsunami 6170 BC and an other around 3000 BC @ 7:30
 + https://www.youtube.com/watch?v=OsawYPFPLMc
 
+Map is an elevation slice from -100m up to 0m, trying to extract as much elevation information as I can for the Dogger Bank. It has a considerable sedimentary layer over it which obscures the bedrock and possible flow morphologies, but I found this interesting comment that the sediment that is there was laid down during the Lower Holocene (YDB appears again!), and there is no appreciable ongoing sedimentation since that time.
+
+![](img/dogger-bank1.jpg)
+![](img/dogger-bank2.jpg)
+![](img/dogger-bank3.jpg)
+
+[1] https://doi.org/10.1016/0025-3227(65)90036-8
+
 # TODO
 
 Tibet:

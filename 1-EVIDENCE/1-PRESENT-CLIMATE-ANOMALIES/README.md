@@ -46,10 +46,6 @@ High resolution images available here:
 
 ![](img/nepal.jpg)
 
-## Volcanoes
-
-https://x.com/volcaholic1
-
 ## Meteor strike fudging
 
 Did you know there was a meteorite strike on march 28, 2020 that struck Nigeria and left an uncomfortable crater? Did you also know we had another extremely near miss of an asteroid on November 12 of the same year? No one reported them.
@@ -89,6 +85,13 @@ Indonesia : https://x.com/volcaholic1/status/1809901128823234697
 Turkey : https://x.com/volcaholic1/status/1809714361365045272
 
 China : https://x.com/volcaholic1/status/1809286983975665843
+
+## Yellowstone (July 23 2024)
+
+Yellowstone getting a bit uppity (filmed today).
+https://x.com/US_Stormwatch/status/1815824286562558358
+
+Aftermath https://x.com/justin_hart/status/1815835457315561715?s=46
 
 # TODO
 

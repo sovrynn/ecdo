@@ -21,6 +21,8 @@ Potential explanation for the Scablands flood deposits based on the ECDO. The "S
 
 https://www.geo.umass.edu/climate/papers2/Baker_retrospective_2009.pdf
 
+Video: https://youtu.be/NYA6GF1uAa8
+
 ## Shetland
 
 The Tsunami Sands of Scotland. "Recent evidence has suggested one such major event which took place some 7000 years ago. As a result of a massive under-sea landslide close to Norway a huge tidal wave, a tsunami, seems to have advanced southwards from Shetland along the east coast of Scotland. The height of the wave has been estimated at 8m (25ft), and this would clearly devastate the coastal areas that it hit."
@@ -161,6 +163,12 @@ https://www.pnas.org/doi/epdf/10.1073/pnas.1817407116
 This paper contains excellent proof of massive seiche occurring four times (two flow reversals) laying down METERS of debris in a matter of hours.
 
 If the water retreats away from you during the initial move, then its almost certainly going to come back from whence it went to. Same thing applies if you're in the path of the first movement - vast amounts are going to run back off of the land after the initial wave. There's no getting away from this anywhere really. Chan describes it best.
+
+## Lençóis Maranhenses National Park, Brazil
+
+"Have you ever heard of a desert with more water than sand?"
+
+https://x.com/AMAZlNGNATURE/status/1815397395435278535?t=tAntSVsUEkdtxMZH0EzQOQ&s=19
 
 ## Citations
 

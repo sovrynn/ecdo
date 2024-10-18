@@ -22,6 +22,18 @@ The Lichtenberg figure water flow evidence over eastern Europe and western Asia 
 
 ![](img/europe-elev.jpg)
 
+## Faroe Islands
+
+Faroe Islands. Spectacular erosion features with a distinct NNW-SSE polarization. Orange line is the ECDO displacement path.
+
+![](img/faroe1.jpg)
+![](img/faroe2.jpg)
+![](img/faroe3.jpg)
+![](img/faroe4.jpg)
+
+1. https://maps.app.goo.gl/ACkKjvmTByFDka8Q6
+2. https://youtu.be/EruSZNI4th4
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
