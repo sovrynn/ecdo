@@ -35,7 +35,7 @@ https://www.dailymail.co.uk/news/peoplesdaily/article-3192196/Enduring-love-4-00
 ![](img/chinapompeii1.jpg)
 ![](img/chinapompeii2.jpg)
 
-## Otzi
+## Otzi [1]
 
 "Ötzi, also called The Iceman, is the natural mummy of a man who lived between 3350 and 3105 BC. Ötzi's remains were discovered on 19 September 1991, in the Ötztal Alps (hence the nickname "Ötzi", German: [œtsi]) at the Austria–Italy border. He is Europe's oldest known natural human mummy, offering an unprecedented view of Chalcolithic (Copper Age) Europeans."
 
@@ -53,6 +53,4 @@ https://www.dailymail.co.uk/news/peoplesdaily/article-3192196/Enduring-love-4-00
 
 ## Citations
 
-1. https://www.smithsonianmag.com/smart-news/an-ornate-5000-year-old-stone-drum-is-the-uks-most-significant-prehistoric-art-find-in-a-century-180979604/
-2. [Craig Stone](https://nobulart.com)
-2. https://en.m.wikipedia.org/wiki/%C3%96tzi
+1. https://en.m.wikipedia.org/wiki/%C3%96tzi

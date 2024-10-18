@@ -19,6 +19,16 @@ Speculative:
 
 https://annas-archive.org/scidb/10.5194/cp-16-597-2020
 
+## Wallace's Line
+
+![x](img/wallaces-line.jpg "wallaces line")
+
+A sea level rise from 13,000 years ago caused this, per the visual.
+
+Q: Can this be explained by ECDO rather than the explanation they gave?
+
+A: The timing agrees - a YD event. The explanation under ECDO is essentially the same. The only variation is the attributed cause - deglaciation vs rotation (which would also precipitate deglaciation in many places).
+
 ## The Wallace Line - The Invisible Wildlife Boundary
 
 Alfred Russell Wallace, 1889

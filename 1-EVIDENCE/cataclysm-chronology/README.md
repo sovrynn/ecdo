@@ -33,11 +33,6 @@ https://x.com/PadrePlyo/status/1837620633582424527 pretty smart way to figure ou
 
 ![](img/kutenai.jpg)
 
-## Stationary Sun
-
-- Great Gun Yu Flood, 10 days, 2000 BC
-- Peru, 24 hours, ~1800 BC
-
 ## Maori (New Zealand Islands)
 
 "He called to Raki to overturn the earth, and he struck the earth, with his knife (inaipi), and the earth turned upside down, and all the people of the world perished. Puta and his people alone were saved. Thenceforth this has been rehearsed as the overturning of Mata-eho by Puta."

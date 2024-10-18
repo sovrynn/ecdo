@@ -12,9 +12,7 @@ https://cappadociatravelpass.com/a-cappadocian-mystery-kaymakli-underground-city
 
 ![](img/burton-agnes.webp)
 
-But carbon dating of bones found in the Burton Agnes grave indicates that the style of sculpture is even older, dating to between 30## Underground cities: Kaymakli, Ozkonak
-
-https://cappadociatravelpass.com/a-cappadocian-mystery-kaymakli-underground-city05 and 2890 B.C.E., during the first phase of Stonehenge’s construction
+But carbon dating of bones found in the Burton Agnes grave indicates that the style of sculpture is even older, dating to between 3005 and 2890 B.C.E., during the first phase of Stonehenge’s construction.
 
 ## Lanhill long barrow [2]
 
@@ -61,3 +59,8 @@ Conclusion:
 It is possible that a combination of practical survival motives and cultural symbolism informed the construction of these megalithic structures. The evidence of deliberate burial, watertight construction, and sealable features in combination with the geological record of inundation strengthens the argument for their potential role as refuges against catastrophic floods or tsunamis. This interpretation deserves further exploration, as it offers a more holistic view of ancient resilience to environmental threats. Whether the bathyscape hypothesis is ultimately accepted may depend on revisiting these sites with fresh eyes, less constrained by conventional archaeological frameworks."
 
 [1] https://chatgpt.com/share/66f5159f-6908-8005-afe2-2cc847ae5247
+
+## Citations
+
+1. https://www.smithsonianmag.com/smart-news/an-ornate-5000-year-old-stone-drum-is-the-uks-most-significant-prehistoric-art-find-in-a-century-180979604/
+2. [Craig Stone](https://nobulart.com)

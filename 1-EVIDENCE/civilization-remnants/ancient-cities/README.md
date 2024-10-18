@@ -13,13 +13,15 @@ https://www.haaretz.com/archaeology/2020-09-13/ty-article/.premium/canaanite-pal
 
 ## Ebla
 
+"Starting as a small settlement in the Early Bronze Age (c. 3500 BC), Ebla developed into a trading empire and later into an expansionist power that imposed its hegemony over much of northern and eastern Syria.[2] Ebla was destroyed during the 23rd century BC. It was then rebuilt and was mentioned in the records of the Third Dynasty of Ur. The second Ebla was a continuation of the first, ruled by a new royal dynasty. It was destroyed at the end of the 3rd millennium BC, which paved the way for the Amorite tribes to settle in the city, forming the third Ebla. The third kingdom also flourished as a trade center; it became a subject and an ally of Yamhad (modern-day Aleppo) until its final destruction by the Hittite king Mursili I in c. 1600 BC."
+
 ![x](img/ebla.jpg "ebla")
 
 Ebla. Estimated destruction and final abandonment c.~1600BC. This date could well be erroneous, as it was arrived at by attributing the destruction to the Hittite conquests at that time, with no solid evidence linking the two. Pure speculation. This could easily have fallen around 1700BC.
-- [1] https://books.google.co.za/books?id=E1aF0hq1GR8C&lpg=PA211&pg=PA211#v=onepage&q&f=false
-- [2] https://en.wikipedia.org/wiki/Ebla
+- [https://books.google.co.za/books?id=E1aF0hq1GR8C&lpg=PA211&pg=PA211#v=onepage&q&f=false
+- https://en.wikipedia.org/wiki/Ebla
 
-## Ankara break in history 1700 BC - 1000 BC
+## Ankara, Turkey break in history 1700 BC - 1000 BC
 
 Due to destruction by an earthquake.
 
@@ -101,3 +103,4 @@ https://www.cambridge.org/core/journals/iraq/article/abs/physical-evidence-for-n
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park
+2. https://en.wikipedia.org/wiki/Ebla

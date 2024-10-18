@@ -29,6 +29,9 @@ New additions:
 - 3100 BC Kofels Austria landslide/impact event
 - 3100 BC comet impact evidence compilation (some new things in here): https://x.com/GemsOfINDOLOGY/status/1594307136905162753
 - 3300-3100 BC Otzi frozen mummy
+- 3005 to 2890 BC, Burton Agnes human remains
+- Construction of Newgrange's White Wall from 3200 to 2500 BC
+- 3800 to 3600 BC Dolmen of Menga
 
 All the evidence is spread throughout the repo but I'll include deeper investigations here.
 

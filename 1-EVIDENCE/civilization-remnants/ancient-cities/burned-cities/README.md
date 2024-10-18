@@ -65,7 +65,7 @@ Evidence that a "cosmic impact" destroyed ancient city in the Jordan Valley:
 
 https://en.wikipedia.org/wiki/Hattusa
 
-### Troy (1300 BC, 12000 BC)
+### Troy (1300 BC, 1200 BC)
 
 *"Troy VI (1700 BC - 1300 BC) and Troy VIIa (1300 BC - 1180 BC) represent the peak phase of the prosperity of the city in the late Bronze Age... Both layers - VI and VIIa - were rapidly destroyed, for unknown reasons. This is evidenced by the fallen stone blocks and the traces of fire. The hypothesis put forward by Blegen says that these are the traces of an earthquake, but not all researchers agree with this theory."*
 
