@@ -60,6 +60,7 @@ New additions:
 	- 1700 BC: Tavslani Mound
 	- 2300, 2000 BC: Ebla
 	- 2300 BC: Numeira
+	- 2000, 1600 BC: Jericho
 
 The two key events for building this event timeline in my view are Gun-Yu and Exodus+Joshua, which both describe multi-decade long periods for cataclysmic happenings, which would line up very well with our current model of a short S2 state. Unfortunately the standard timelines for these are off by a couple of centuries.
 

@@ -9,6 +9,7 @@ There are a number of remains of ancient cities specifically in the Middle East 
 - 1700 BC: Tavslani Mound
 - 2300, 2000 BC: Ebla
 - 2300 BC: Numeira
+- 2000, 1600 BC: Jericho
 - Sodom, Gomorrah
 
 ## Numeira [4]
