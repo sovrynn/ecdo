@@ -12,6 +12,7 @@ This period is far enough away from 2000 BC to warrant its own investigation as 
 New additions:
 - 1350 BC Palaikastro tsunami deposits
 - 1300-1200 BC Gramalote food rationing and abandonment (Source: The Early Initial Period Fishing Settlement of Gramalote, Moche Valley: A Preliminary Report (`EVIDENCE/civilization-remnants/ancient-cities`))
+- 1200 BC destruction of Ugarit (Middle East)
 
 While the physical markers are compelling, I have to initially bucket this event as unlikely due to lack of easily-found cataclysm records from China and India during this period. Obviously worth a deeper investigation.
 

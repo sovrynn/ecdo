@@ -123,8 +123,32 @@ Dates to around 150 AD.
 1. https://www.sciencedirect.com/science/article/abs/pii/S2352409X19304080
 2. https://en.wikipedia.org/wiki/Vitrified_fort
 
+## Ugarit (Destroyed 1200 BC) [4]
+
+"The polity was at its height from c. 1450 BC until its destruction in c. 1185 BC;[5] this destruction was possibly caused by the purported Sea Peoples, or an internal struggle."
+
+## Harappa [5]
+
+"The earliest recognisably Harappan sites date to 3500 BC. This early phase lasts till around 2600 BC. The civilization's mature phase lasted from 2600 BC to 2000 BC. This is when the great cities were at their height. Then, from around 2000 BC, there was a steady disintegration that lasted till 1400 BC – what is usually called Late Harappan.[12] There is no sign that the Harappan cities were laid waste by invaders. The evidence strongly points to natural causes.s"
+
+## Bubastis, Egypt 2875 BC chasm
+
+"In a later account by the Greek historian Manetho, it's stated that a "chasm opened near Bubastis and many perished" during the reign of Hotepsekhemwy in the Second Dynasty." [6]
+
+"The Second Dynasty of ancient Egypt (or Dynasty II, c. 2890 – c. 2686 BC[1]) is the latter of the two dynasties of the Egyptian Archaic Period, when the seat of government was centred at Thinis."
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park
 2. https://en.wikipedia.org/wiki/Bab_edh-Dhra
 3. https://www.bibleplaces.com/babedhdhra/
+4. https://en.wikipedia.org/wiki/Ugarit
+5. https://en.wikipedia.org/wiki/Harappa
+6. https://en.wikipedia.org/wiki/Bubastis
+
+# TODO
+
+Cities to investigate:
+- Nimrud
+- Susa
+- Tell Abu Hureyra

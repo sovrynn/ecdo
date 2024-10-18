@@ -8,6 +8,7 @@ There are a number of remains of ancient cities specifically in the Middle East 
 - 1700 BC: Hattusa
 - 1700 BC: Tavslani Mound
 - 2300, 2000 BC: Ebla
+- 2300 BC: Numeira
 - Sodom, Gomorrah
 
 ## Numeira [4]
@@ -15,6 +16,12 @@ There are a number of remains of ancient cities specifically in the Middle East 
 "Calibrated radiocarbon dates place the settlement in the EB III. Habitation spanning approximately 250 years or 10-12 generations. Numeira was violently destroyed at the end of the EB III, (2300 BC.) never to be re-occupied.[8][9] This is 200 years earlier than the current assumed date for the destruction of Sodom."
 
 ### Geologic Reconstruction of Numeira (hard copy here) [5]
+
+"The most significant section exposed at Numeira is an interbedded sequence of cultural sediment, sterile gravel and sand, and destructional rubble located on the east side of the tower (fig. 5). The 35 to 40 cm of sand and gravel contain no large cultu- ral material and directly overlie an occupational floor."
+
+![](img/numeira.png)
+
+"Numeira had a short occupational sequence dur- ing just a portion of Early Bronze III and was ter- minated by one or possibly two closely-spaced, destructional sequences. Three individuals found adjacent to the tower during the 1981 excavations apparently were killed in the collapse of a portion of the tower. Although the matter can be debated, there seems to be no direct evidence for warfare during the destruction. Another explanation is that the tower collapse and extensive burn layers over the site were caused by an earthquake gener- ated by fault movement (Coogan, this issue)"
 
 ## Cappadocia Melted?
 
@@ -99,29 +106,17 @@ Ebla. Estimated destruction and final abandonment c.~1600BC. This date could wel
 ## Middle Eastern cities destroyed by fire circa 1700 BC, Late Bronze Age collapse (1200 BC)
 
 ChatGPT list (need to investigate):
-- Ugarit (Syria),  1200 BC
 - Mycenaean Cities (Greece) 1200 BC
 - Kadesh (Syria), 1300 BC
 - Mari (Syria), 1800 BC
-- Ebla (Syria), 1600 BC
 - Canaanite Cities (Israel/Palestine), 1800 - 1700 BC
 - Gordion (Turkey)
-- Harappa (Pakistan) 1700 BC
-- Mohenjo Daro (Pakistan) 1700 BC
 - Dholavira (India)
 - Chanhudaro (Pakistan) 1700 BC
 
 ChatGPT list of extreme high temperature burning:
-- Bab edh-Dhra, Jordan
-- Nimrud/Kalhu, Iraq
-- Troy
-- Hattusa
-- Ugarit
 - Jericho, Palestine
 - Thebes, Egypt
-- Susa, Iran
-- Bubastis, Egypt
-- Tell Abu Hureya, Syria
 - Canaanite cities
 
 What's interesting is that (at least according to ChatGPT) these weren't wooden cities. The cities of this time in this area were built used baked brick and mudbrick construction. How can entire cities built from such material burn?
