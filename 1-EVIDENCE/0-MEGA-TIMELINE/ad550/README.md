@@ -11,6 +11,7 @@
 
 New additions:
 - 200-900 AD Lake Sevan, Armenia high lake levels
+- 150 AD vitrified Scotland forts
 
 In terms of an exact date, probably mid 6th century (540 ADish) seems most likely in terms of convergence of existing evidence.
 

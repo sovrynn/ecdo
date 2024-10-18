@@ -19,11 +19,6 @@ The earliest archaelogical dating of Bible chronology seems to be the Merneptah 
 
 "The Merneptah Stele, also known as the Israel Stele or the Victory Stele of Merneptah, is an inscription by Merneptah, a pharaoh in ancient Egypt who reigned from 1213 to 1203 BCE... The text is largely an account of Merneptah's victory over the ancient Libyans and their allies, but the last three of the 28 lines deal with a separate campaign in Canaan, then part of Egypt's imperial possessions. It is sometimes referred to as the "Israel Stele" because a majority of scholars translate a set of hieroglyphs in line 27 as "Israel". Alternative translations have been advanced but are not widely accepted." [5]
 
-## "catastrophe of Sodom and Gomorrah"
-
-"two daughters of Lot, who hid with him in a cave after the catastrophe of Sodom and Gomorrah, believed that they
-and their father were the only survivors in the land" Velikovsky pg 148 WIC
-
 ## Chan - 3 cataclysms?
 
 Chan believe there are 3 cataclysms recorded in the Bible: *"Did you understand that there are three cataclysms recorded in the Bible? Noah’s, Adam and Eve’s, and the one before that? If you missed it, check Genesis II."* [2]

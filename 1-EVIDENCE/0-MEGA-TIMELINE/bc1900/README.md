@@ -52,6 +52,7 @@ New additions:
 - 1500 BC Iceland megaflood deposits
 - 1600 BC Lisbon Tsunami, sediment cores
 - 1700-900 BC Lake Sevan Armenia high lake levels
+- 2300 and 2000 burnings of Ebla, Syria
 
 The two key events for building this event timeline in my view are Gun-Yu and Exodus+Joshua, which both describe multi-decade long periods for cataclysmic happenings, which would line up very well with our current model of a short S2 state. Unfortunately the standard timelines for these are off by a couple of centuries.
 

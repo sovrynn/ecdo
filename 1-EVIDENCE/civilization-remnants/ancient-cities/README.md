@@ -1,8 +1,24 @@
 # Destroyed Cities
 
+## Bab-edh-Dhra [2,3]
+
+"Some biblical scholars argue that this was the site of "Sodom".[4] Other archaeologists disagree."
+
+"Unlike the neighboring ruins of Numeira, Bab edh-Dhra does not appear to have been destroyed by a significant fire.[6] Numeira and Bâb edh-Dhrâʿ were destroyed at different times, about 250 years apart. While the early conclusions of Rast and Schaub, that Bâb edh-Dhrâʿ and Numeira were both destroyed at approximately the same time (i.e., 2350–2067 BC), are often reported, it is now known that their individual destruction was separated by approximately two and a half centuries (250 years), with the destruction of Bâb edh-Dhrâʿ at ca. 2350 BC[7][8][9] and Numeira at ca. 2600 BC.[10][9] Instead, archaeological evidence suggests that the site was abandoned by its inhabitants, but also "suffered exposure to fire"."
+
+### Tombs
+
+"The most remarkable feature of Early Bronze Bab edh-Dhra is the number of graves. While the population apparently numbered only 1,000 individuals, an estimated 20,000 tombs are located on-site. These family tombs would have held approximately half a million people and over 3 million pottery vessels. Rather than understanding them as a cemetery for semi-nomads, a better explanation is that they were a central burial ground for the country as a whole."
+
+![](img/bab-edh1.jpg)
+
+"The most common type of tomb is the “shaft grave.” A vertical shaft about 6 feet (1.8 m) deep was cut through the soft limestone. Off this shaft one to five chambers were cut, each of which could hold four to six individuals and was approximately 7 feet (2.1 m) in diameter and 3 feet (0.9 m) high. Often, many pottery pieces were around the bone pile. Shaft graves are typical to the Intermediate Bronze period, but they also date to Early Bronze I at Bab edh-Dhra."
+
+![](img/bab-edh2.jpg)
+
 ## Canaanite palace from 3700 years ago
 
-![canaanite palace](img/canaanite-palace.jpg "canaanite palace")
+![](img/canaanite-palace.jpg)
 
 “It really looks like the earth simply opened up and everything on either side of it fell in,” Cline said. “It’s unlikely that the destruction was caused by violent human activity because there are no visible signs of fire, no weapons such as arrows that would indicate a battle, nor any unburied bodies related to combat.”
 
@@ -10,16 +26,6 @@
 
 https://www.haaretz.com/archaeology/2020-09-13/ty-article/.premium/canaanite-palace-built-on-a-fault-was-destroyed-by-quake-3-700-years-ago/0000017f-f0fd-df98-a5ff-f3fd07000000
 - Mirror: https://archive.is/gy2xq
-
-## Ebla
-
-"Starting as a small settlement in the Early Bronze Age (c. 3500 BC), Ebla developed into a trading empire and later into an expansionist power that imposed its hegemony over much of northern and eastern Syria.[2] Ebla was destroyed during the 23rd century BC. It was then rebuilt and was mentioned in the records of the Third Dynasty of Ur. The second Ebla was a continuation of the first, ruled by a new royal dynasty. It was destroyed at the end of the 3rd millennium BC, which paved the way for the Amorite tribes to settle in the city, forming the third Ebla. The third kingdom also flourished as a trade center; it became a subject and an ally of Yamhad (modern-day Aleppo) until its final destruction by the Hittite king Mursili I in c. 1600 BC."
-
-![x](img/ebla.jpg "ebla")
-
-Ebla. Estimated destruction and final abandonment c.~1600BC. This date could well be erroneous, as it was arrived at by attributing the destruction to the Hittite conquests at that time, with no solid evidence linking the two. Pure speculation. This could easily have fallen around 1700BC.
-- [https://books.google.co.za/books?id=E1aF0hq1GR8C&lpg=PA211&pg=PA211#v=onepage&q&f=false
-- https://en.wikipedia.org/wiki/Ebla
 
 ## Ankara, Turkey break in history 1700 BC - 1000 BC
 
@@ -61,15 +67,15 @@ See `img` for video.
 
 ## The Early Initial Period Fishing Settlement of Gramalote, Moche Valley: A Preliminary Report (hard copy here)
 
-![peru sediment](img/gramalote1.jpg "peru sediment")
+![](img/gramalote1.jpg)
 
 Seven sedimentary "floors". That looks a lot like alluvial deposit to me.
 
-![peru sediment](img/gramalote2.jpg "peru sediment")
+![](img/gramalote2.jpg)
 
 Ash-sand-ash-sand... more than once.
 
-![gramalote](img/gramalote3.jpg "gramalote")
+![](img/gramalote3.jpg)
 
 Gramalote ECDO context.
 
@@ -98,9 +104,27 @@ As a working hypothesis, I would like to suggest that after a period of plentifu
 
 ## Kish flood deposits: Sumer flood 3500 - 2600 BC
 
+"In a recent issue of this journal Prof. Mallowan reviewed the historical evidence for the flood described in the biblical story of Noah. In the table that he prepared three floods are noted at Kish. Two of them occurred in c. 2900 B.C. and rely for their identification on evidence of water-deposited material in the streets and damage to mud-brick walls: the third, the latest and most violent, dated to c. 2600 B.C. was again identified by evidence from the streets and deposited an average of 40 cm. of water-borne material—that is about sixteen inches. The same table read in conjunction with the text (p. 80), indicated for Shurrupak (Fara) a deposit of clay and sand of about 60 cm. thickness over an “ordinary patch of charcoal and ashes” above the Jamdat Nasr level and below the Early Dynastic: it is dated to c. 2850 B.C. AS these levels are dated c. 3000 B.C. and c. 2850 respectively, I suppose that the flood deposit could have occurred at any intervening date, but that specific evidence suggests 2850 B.C.
+
+For Ur the table records flood deposits from 3·72 to 0·72 metres thick in c. 3500 B.C. at the end of the ‘Ubaid period (the text records greater depths) and deposits of unknown depth dated to c. 2700 B.C."
+
+- Kish, Iraq, two 2900 BC floods, one 2600 BC flood
+- Shurrupak (Fara), 3000 BC charcoal and ashes, 2850 BC flood deposit
+- Ur: 3500 BC and 2700 BC deposits
+
 https://www.cambridge.org/core/journals/iraq/article/abs/physical-evidence-for-noahs-flood/226A2701813C09C5CD25BCA17C8E5074
+
+## Vitrified forts in Scotland
+
+![](img/scotland-burned.jpg)
+
+Dates to around 150 AD.
+
+1. https://www.sciencedirect.com/science/article/abs/pii/S2352409X19304080
+2. https://en.wikipedia.org/wiki/Vitrified_fort
 
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park
-2. https://en.wikipedia.org/wiki/Ebla
+2. https://en.wikipedia.org/wiki/Bab_edh-Dhra
+3. https://www.bibleplaces.com/babedhdhra/

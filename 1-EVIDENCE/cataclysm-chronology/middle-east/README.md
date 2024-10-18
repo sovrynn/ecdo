@@ -2,22 +2,6 @@
 
 Paper about flood history of middle east in this folder. [11]
 
-### Could this be shorter than 3 generations per 100 years?
-
-341 generations of men, 30 years per generation? It could be less.
-
-"Generally, Ancient Egyptians have married inside their social classes. The man was usually married between the ages of 16 and 20, or as soon as he chooses potential craft with the aim to earn money for his family. Women usually married at the age of about 13 years, or immediately after the puberty." [6]
-
-Women's marriage age defines the age of generations. 341 generations of men, at 14 years per generation, gives 4774 years.
-
-Then, from the period of 6000 BC to 1290 BC, there were two flips. Which aligns with a Noahic deluge and the 1750 BC events timeline.
-
-### Could this be longer than 3 generations per 100 years?
-
-What if those ancient accounts of Noah living 600 years, or the Sumerian King List of kings living ridiculous amounts of time, are exxagerations on a reality that humans lived longer in the past?
-
-What if this timeline is, say, double the length? 60 years per generation of man, on average? And the flips are once every 12k years?
-
 ## Mohenjo-Daro, Pakistan, abandoned 1900 - 1700 BC - Fire & Water [3]
 
 "Built c. 2500 BCE, it was the largest settlement of the ancient Indus Valley Civilization, and one of the world's earliest major cities, contemporaneous with the civilizations of ancient Egypt, Mesopotamia, Minoan Crete, and Norte Chico. With an estimated population of at least 40,000 people, Mohenjo-daro prospered for several centuries, but by c. 1700 BCE had been abandoned, along with other large cities of the Indus Valley Civilization. The city also had large platforms perhaps intended as defense against flooding. According to a theory first advanced by Wheeler, the city could have been flooded and silted over, perhaps six times, and later rebuilt in the same location. For some archaeologists, it was believed that a final flood that helped engulf the city in a sea of mud brought about the abandonment of the site." [1]
@@ -97,6 +81,24 @@ From "The Babylonian Story of the Deluge" (Sir E.A Wallis Budge, 1920)
 
 ![](img/gilgamesh1.jpg)
 ![](img/gilgamesh2.jpg)
+
+## Earthquakes
+
+There's a middle eastern earthquake index history PDF in this folder.
+
+Ton from 400 BC.
+
+2000 BC:
+- Bab el-Dhra, 2100-1700 BC destruction
+- Jericho 1400 BC earthquake
+- Sodom 2100-1700 BC earthquake
+- Cities of the Plain, 2100-1700 BC earthquake
+- Egypt 1181 BC earthquake
+- Gomorrah, 2100-1700 BC earthquake
+- Mizpeh 1070 BC earthquake
+- Nineveh 1274-1234 BC earthquake, 1187-1150 BC earthquake
+- Numeira, 2100-1700 BC destruction
+- Zoar, 2100-1700 BC earthquake
 
 ## Citations
 

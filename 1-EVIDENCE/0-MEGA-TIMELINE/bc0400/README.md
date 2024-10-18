@@ -25,6 +25,9 @@ Historical continuity during this period:
 - Roman Republic
 - Scythians
 
+New additions:
+- MANY earthquakes in the Middle East during this period
+
 ## China History
 
 You have the latter stages of the Zhou dynasty, and the Warring States period from 481 - 221 BC. [1]
