@@ -3,13 +3,13 @@
 There are a number of remains of ancient cities specifically in the Middle East that seem to have been burned right around the 1900 BC event period.
 
 - 1300, 1200 BC: Troy
+- 1600 BC: Jericho
 - 1750 BC Kultepe/Khanesh
 - 1700 BC: Tall el-Hammam
 - 1700 BC: Hattusa
 - 1700 BC: Tavslani Mound
 - 2300, 2000 BC: Ebla
 - 2300 BC: Numeira
-- 2000, 1600 BC: Jericho
 - Sodom, Gomorrah
 
 ## Numeira [4]
