@@ -57,7 +57,7 @@ The two key events for building this event timeline in my view are Gun-Yu and Ex
 
 ## Exact Date - 1900 BC?
 
-In terms of a single candidate date for the cataclysm, it's quite difficult to choose one, as the events are spread out all over this period from as early as 2350 BC to as late as 1400 BC. If I had to choose one, it would be 1900 BC, the midpoint of all the evidence and the least "stretch" date for both Gun-Yu and Exodus.
+In terms of a single candidate date for the cataclysm, it's quite difficult to choose one, as the events are spread out all over this period from as early as 2350 BC to as late as 1400 BC. If I had to choose one, it would be 1900 BC, the midpoint of all the evidence and the least "stretch" date for both Gun-Yu and Exodus. Potentially, it could be closer to 1800 as well judging from an abundance of physical markers that are earlier than 1900 BC.
 
 ## Biggest Discrepancy
 
