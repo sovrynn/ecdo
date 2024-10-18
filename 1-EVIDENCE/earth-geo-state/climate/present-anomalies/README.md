@@ -74,6 +74,22 @@ Purple skies: aurora above the cloud?
 
 ![](img/polar-vortex.jpg)
 
+## July 7 2024
+
+Past 24 hours:
+
+Saudi Arabia : https://x.com/volcaholic1/status/1809243698149949688
+
+Russia : https://x.com/volcaholic1/status/1809301919338205337
+
+Poland : https://x.com/volcaholic1/status/1809944664327299426
+
+Indonesia : https://x.com/volcaholic1/status/1809901128823234697
+
+Turkey : https://x.com/volcaholic1/status/1809714361365045272
+
+China : https://x.com/volcaholic1/status/1809286983975665843
+
 # TODO
 
 https://watchers.news/2024/09/26/swarm-of-over-100-earthquakes-hits-hanford-nuclear-site-near-tri-cities-in-washington-u-s/

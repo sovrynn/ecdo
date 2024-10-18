@@ -18,6 +18,23 @@ When investigating specific locations, include a map marking the location relati
 
 Take a good look at the desert locations. This is likely where a large amount of water ends up after the flip, depositing all the sediment before slowly draining out.
 
+## High elevation areas [1]
+
+Regions marked in green are greater than 8000ft/2800m above sea level. This does not automatically imply that these regions are safer, which is also heavily dependent upon how much intervening terrain there is between the location and the water. In the USA, only the region around the Pikes Peak batholith seems like a possibility.
+
+![](img/high-elev1.jpg)
+![](img/high-elev2.jpg)
+![](img/high-elev3.jpg)
+![](img/high-elev4.jpg)
+
+Updated to better define the elevations.
+
+![](img/high-elev5.jpg)
+
+Added population density.
+
+![](img/high-elev6.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

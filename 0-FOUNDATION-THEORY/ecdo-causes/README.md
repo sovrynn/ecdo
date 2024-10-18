@@ -45,6 +45,8 @@ Alternatively, a slow rotation from S2 back to S1, not fast enough to cause ocea
 
 What if the rotational instability is caused by uneven accumulation of ice mass around the rotational axis? My only gripe with this is that the mass of the ice cores relative to the mantle is **extremely** small. The glaciers are also supposed to be melting, although mainly at equatorial high-altitude glaciers.
 
+Some more detail - the ice caps might cause full 180 flips if the core/mantle didn't uncouple. But if the Earth's core has been heating up on a macro timescale, perhaps the core/mantle decouplings only started recently, leading to partial flips.
+
 ### Nobulart quotes
 
 You don't think that that continuous accumulation of condensed polar ice might be sufficient to disrupt the regular equatorial center of mass established by the LLSVP's? 30 million gigatonnes of offcenter spinning mass must extert some centrifugal force, enough it seems to be affecting the Earth's axis of rotation directly.

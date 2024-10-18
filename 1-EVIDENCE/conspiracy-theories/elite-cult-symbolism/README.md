@@ -123,6 +123,12 @@ https://www.youtube.com/watch?v=oaEKBBsncng
 
 https://www.youtube.com/watch?v=CqutJQ2PPQ4
 
+## Egyptian crescent moon
+
+![](img/ecrescent1.jpg)
+![](img/ecrescent2.jpg)
+![](img/ecrescent3.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

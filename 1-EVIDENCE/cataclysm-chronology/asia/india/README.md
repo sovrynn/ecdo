@@ -224,6 +224,15 @@ The end of the Harappan Civilization (Indus Valley Civilization), which some lin
 
 Vedic texts are highly symbolic and often mythological, containing stories of cosmic battles, natural forces, and cycles of creation and destruction. For example, the battles between Indra (the storm god) and Vritra (a dragon or demon associated with drought) could be seen as metaphors for seasonal changes or environmental challenges, although this is a symbolic interpretation rather than a historical record of events.
 
+## Buddhist flood myth
+
+Flood myth from bhuddism here is the points I saw in this myth(punishing wave: samudda vanija jataka 466):
+1. This was from some island in indian ocean
+2. Two blaze of light appeared at night(comets?). After two week is the next full moon and a flood will appear.
+3. During flood, first wave knee deep. Second till waist, third chest high fourth reached top of palm trees and fifth high as mountain. It swept the whole island and washed everything in its path.
+
+https://www.brelief.org/jataka/wave/wave.html
+
 ## GPT: Indian Mythological Stories Timeline
 
 1. **Indra vs. Vritra** - *c. 1500–1200 BCE*  

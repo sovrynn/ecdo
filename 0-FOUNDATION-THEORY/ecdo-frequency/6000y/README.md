@@ -1,5 +1,15 @@
 # 6000 Years
 
+## Main Evidence
+
+*"Thus in the period of eleven thousand three hundred and forty years they said that there had arisen no god in human form; nor even before that time or afterwards among the remaining kings who arose in Egypt, did they report that anything of that kind had come to pass. In this time they said that the sun had moved four times from his accustomed place of rising, and where he now sets he had thence twice had his rising, and in the place from whence he now rises he had twice had his setting;[127] and in the meantime nothing in Egypt had been changed from its usual state, neither that which comes from the earth nor that which comes to them from the river nor that which concerns diseases or deaths."* [2]
+
+- Herodotus, An Account of Egypt, 440 BCE
+
+This is the hypothesis endorsed by Ethical Skeptic and mentioned in his thesis.
+
+It's also supported by the ostrich egg (~6200 years). See `EVIDENCE/civilization-remnants/important-artifacts`.
+
 ## Biblical references
 
 "Thus Christ, born at the dawn of the Piscean age, was Ikthus the Fish, the letters of which name form the initials of the Greek phrase Jesus Christ, Son of God, Saviour. The vesica piscis, the geometrical sign of the fish, was adopted as the basic figure of Christian architecture and iconography, an obvious example being the mandorla that surrounds Christ in Glory. "
@@ -58,3 +68,7 @@ http://www.pseudepigrapha.com/jubilees/8.htm
 My current crazy theory is that Adam knew and was told the end from the very beginning.  He acted as the king/priest of the earth.  The role passed to Seth and eventually to Enoch, then to Noah, then to Shem.  Shem skipped over his son Arphaxad and gave the blessing/birthright to Abraham.  This primordial knowledge passed down in fragments and myths that we see shadows of even to this very day.
 
 That forbidden location of monumental writing may have been a place like Göbekli Tepe or perhaps writing that remained visible on the white surface stones of the pyramid at Giza?
+
+## Video
+
+https://youtu.be/0WsdT1LQu5A?si=BmMOf8AW3RuFQzli

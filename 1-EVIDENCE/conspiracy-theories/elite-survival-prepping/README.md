@@ -12,6 +12,11 @@ https://www.travelandleisure.com/airlines-airports/denver-airport/denver-interna
 
 Interesting company choice?
 
+![](img/boring.jpg)
+
+Musk's 1-mile-a-week boring machine.
+https://www.boringcompany.com/prufrock
+
 ## Knowledge Vault
 
 https://www.archmission.org/gkv

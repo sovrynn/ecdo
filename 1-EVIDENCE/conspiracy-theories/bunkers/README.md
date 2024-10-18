@@ -22,6 +22,11 @@ They were equipped with facilities such as stores, restaurants, clinics, schools
 
 [1] http://www.china.org.cn/english/travel/125961.htm
 
+![](img/china-nuclear-bunker.jpg)
+
+It would be interesting to know how many cubic kilometers of rock humanity has dug out of the bones of the Earth to create all of these spaces.
+https://www.dailystar.co.uk/news/world-news/china-war-nuclear-bunker-deepest-16838228
+
 ## China Nuclear Military Plant
 
 "816 Nuclear Military Plant is an unfinished Chinese underground nuclear weapons production facility and the largest man-made tunnel structure in the world.[1] A military megaproject, the nuclear base is located near what is now suburban Fuling, a municipality in Chongqing, China. In 2010, it was opened to Chinese tourists.
@@ -65,3 +70,22 @@ https://youtu.be/37-4TOMQdjc
 ## The Elite Shelter
 
 https://youtu.be/2YgYt-uxlmM
+
+## Underground Bases and Secrecy
+
+I am often asked how so many secret operations can go on without being noticed. One reason is because so many military and intelligence bases are in restricted areas and underground. In 2010, the Washington Post published an excellent report on this topic, “Top Secret America,” giving an overview of the exploding number of classified military and intelligence facilities built after 9/11 and the passage of the USA Patriot Act.32
+
+Because of the many rumors about classified underground bases, I once spent several hours a week for two years working with another researcher to estimate how many underground and undersea bases existed in North America—both publicly acknowledged as well as classified or secret. We collected all known reports, rumors, and documentation on underground bases and then analyzed military and federal installations and spending for all U.S. states. Our final guess was that the U.S. military-intelligence establishment and related corporate contractors had built 170 such bases as well as connecting underground transportation systems.
+
+Building an underground base is very expensive. Building and maintaining it on a secret basis is many multiples more expensive than that—which is why underground bases are one of my votes for where a portion of the $21 trillion that disappeared by 2015 was reinvested. (No doubt, more trillions have disappeared since 2015, but who’s counting, given that the books are now secret?)
+
+https://sashalatypova.substack.com/i/145781158/underground-bases-and-secrecy
+
+## Other
+
+The most serious of them can be completely sealed (against nuclear contamination, and therefore against water as well), and have self-contained power generation, air scrubbing and food stocks to last years. I'm pretty sure that some are nuclear powered as well. Would seem easy enough to use "portable" reactors such as those used on submarines and carriers.
+Cheyenne Mountain : https://youtu.be/nAHBekea2Fc
+Finland's 54,000 bunkers : https://youtu.be/922Db-kztC0
+Switzerland's 374,142 Bunkers : https://youtu.be/9bPIaHg11mI
+Sweden's ~2,000 bunkers : https:// (https://t.co/LFxQQZhug1)youtu.be/6ZiKxF2X2X8 (https://t.co/LFxQQZhug1)
+Found Bunker: https://youtu.be/sKWFx0QAW2w

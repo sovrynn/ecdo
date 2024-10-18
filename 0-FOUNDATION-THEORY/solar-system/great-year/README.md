@@ -35,6 +35,17 @@ One round is one precession cycle of 25,920 years. One seventh of this is 3702.8
 
 Probably not coincidence. "The third and last face of the triune index is our Earth’s Pole. This magnetic point is the great finger of Nature’s Cyclic Timepiece, which governs and registers all the great Cosmic cycles of our planet and its circuit."
 
+## Great year
+
+“There is also a year which Aristotle calls Perfect, rather than Great, which is formed by the revolution of the sun, of the moon and of the five planets, when they all come at the same time to the celestial point from which they started together. This year has a great winter called by the Greeks the Inundation and by the Latins The Deluge; it has also a summer which the Greeks call the Conflagration of the world. The world is supposed to have been by turns deluged or on fire at each of these epochs.” – Censorinus (238 A.D)
+https://nobulart.com/the-great-year
+
+Hmmm, this quote "when they all come at the same time to the celestial point from which they started together"
+
+Reminds me of the anno mundi and "thema mundi" https://en.wikipedia.org/wiki/Thema_Mundi
+
+Attached has a lot of material to digest, but there are some quotes from Berossos, Cicero, Seneca, Heraclitus Stoicus, Macrobius, and Nemesius.
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Great_Year

@@ -2,7 +2,7 @@
 
 Often attributed to glaciers.
 
-## Erratic Boulders.
+## Jura Erratic Boulders
 
 Only water could have carried some of these behemoths over the Alps and deposited them 50-80 miles away.
 
@@ -25,6 +25,16 @@ Only water could have carried some of these behemoths over the Alps and deposite
 "It’s already known that some of the monument’s smaller stones were brought to the site from southwest Wales, around 120 miles away. But moving a rock from northern mainland Scotland or Orkney would have involved a journey of well over 500 miles."
 
 Source: https://www.independent.co.uk/news/science/archaeology/stonehenge-origin-stones-scotland-orkney-b2596259.html
+
+## Gushaini Village erratic
+
+This was taken near Gushaini village in a valley at 1600m on the southern foothills of the himalayas. Wonder how that big rock got there...
+
+![](img/gushaini.jpg)
+
+If on a southern slope, then probably carried there from one of the peaks to the SW during S2>S1
+
+![](img/gushaini2.jpg)
 
 # TODO Potential Leads
 

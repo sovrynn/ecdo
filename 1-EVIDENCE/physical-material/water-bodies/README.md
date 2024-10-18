@@ -96,3 +96,23 @@ This is an elevation map. I've highlighted the region they've shown in red in th
 
 ![](img/sahara-megalake1.jpg)
 ![](img/sahara-megalake2.jpg)
+
+## Lake Bonneville [1]
+
+![](img/bonneville.jpg)
+
+Lake Bonneville would have been a puddle of the Pacific Ocean left trapped in Utah after the displacement.
+
+The salt flats, where trapped salt water evaporated leaving the salt behind.
+
+![](img/bonneville2.jpg)
+
+https://www.visitutah.com/articles/bonneville-salt-flats-planning-guide
+
+"During the Early Cambrian [...], western Utah was covered by a shallow sea. "
+
+https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/trilobites-and-cambrian-utah/
+
+## Citations
+
+1. Craig Stone

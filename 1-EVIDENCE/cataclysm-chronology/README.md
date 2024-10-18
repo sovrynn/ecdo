@@ -5,6 +5,7 @@ This folder is for compiling a proper chronology of all cataclysms, incorporatin
 ## Sources
 
 - Massive flood myth compilation: https://talkorigins.org/faqs/flood-myths.html (Hard copy in `hard-copies`)
+	- Another good compilation: https://www.vectorpub.com/CH11.htm
 - Worlds in Collision, by Velikovsky
 - The Bible
 - Allan and Dellair's Cataclysm: https://archive.org/details/cataclysmcompell00alla
@@ -78,6 +79,26 @@ https://talkorigins.org/faqs/flood-myths.html
 ## Flood traditions
 
 ![](img/flood-traditions.jpg)
+
+## Comet causes double cataclysm?
+
+"When a comet reaches the path of the Sun, Gan-ba will be diminished; an uproar will happen twice." - R. C. Thompson (The Reports of the Magicians and Astrologers of Nineveh and Babylon), 1900 [1] This is one of the rare instances where a double event is explicitly mentioned. In his commentary on this translation from ancient Sumerian, Sitchin writes:
+
+"When the Moon in its calculated time is not seen, there will be an invasion of a mighty city. When a comet reaches the path of the Sun, field-flow will be diminished; an uproar will happen twice. When Jupiter goes with Venus, the prayers of the land will reach the heart of the gods. If the Sun stands in the station of the Moon, the king of the land will be secure on the throne." [2]
+
+![](img/double-cat1.jpg)
+![](img/double-cat2.jpg)
+
+1. https://archive.org/details/reportsofmagicia07thomuoft
+2. https://www.academia.edu/36091307/Sitchin_Zecharia_The_12th_Planet
+
+## Comet = double cataclysm?
+
+Niburu is supposed to orbit the sun every 3,600 years according to Sitchen. See the 12th planet. I just checked my copy and interestingly this caught my eye below...
+
+![](img/comet-double.jpg)
+
+A comet will cause an uproar twice! Could Encke trigger Stage 1 to Stage 2 followed by a second uproar which resets back to stage 1?? R. C. Thompson's book might be worth a read if you can get hold of a copy...
 
 ## Citations
 

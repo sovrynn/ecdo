@@ -55,6 +55,26 @@ Elevation cross-section suggests that gravity would direct remaining water towar
 
 ![](img/na-flows4.jpg) 
 
+## North Africa Other Features
+
+![](img/na-features.jpg)
+
+The catastrophe would have obliterated the previous civilization that inhabited the area.  A few other features to note:
+
+https://en.wikipedia.org/wiki/Tamanrasset_River
+and a few paleo mega lakes
+https://www.sciencedirect.com/science/article/abs/pii/S0277379121005254
+
+## North Africa West Coast
+
+Note the unusually broad, shallow shelves in the ocean to the west of Africa. Looks like sedimentary deposits from the land. [GEBCO 2023 bathymetry data]
+
+![](img/nawc1.jpg)
+
+Layers 1 and 2 stand out. Two major State 1 > State 2 events, possibly followed by a lesser 3rd [Crete c.1750 B.C]. I wonder if these were laid down at the same times as layers 4, 5 and 6 in the Scablands gravel bar accretion deposits.
+
+![](img/nawc2.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

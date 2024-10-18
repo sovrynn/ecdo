@@ -19,6 +19,7 @@ The oldest known cave art happens to be on the eastern ECDO pivot, in Sulawesi. 
 ![](img/sulawesi1.webp)
 ![](img/sulawesi2.png)
 ![](img/sulawesi3.jpg)
+![](img/sulawesi4.jpg)
 
 *"The caves in the Maros-Pangkep karst are a cave complex, where prehistoric finds were made.[3] The whole complex is also called "Prehistoric place Leang-Leang..."* [2]
 

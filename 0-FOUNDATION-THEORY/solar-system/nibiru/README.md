@@ -9,3 +9,7 @@ I've scanned through this video again and feel the content is important but don'
 Sitchen reckoned Marduk, "the 12th planet", orbits the sun every 3,600 years. This work seems to be written off the same script...
 
 ![](img/marduk.jpg)
+
+## Sources
+
+Sitchen, The 12th Planet

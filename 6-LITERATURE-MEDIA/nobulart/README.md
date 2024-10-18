@@ -127,6 +127,16 @@ https://nobulart.com/aftermath-our-precursor/
 
 ![](img/aftermath.jpg)
 
+## Tolstoy
+
+![](img/tolstoy.jpg)
+
+## Great year
+
+The Great Year (https://nobulart.com/the-great-year/)
+“There is also a year which Aristotle calls Perfect, rather than Great, which is formed by the revolution of the sun, of the moon and of the five planets, when they all come at the same time to the celestial point from which they started together. This year has a great winter called by the Greeks the Inundation and by the Latins The Deluge; it has also a summer which the Greeks call the Conflagration of the world. The world is supposed to have been by turns deluged or on fire at each of these epochs.” – Censorinus (238 A.D)
+https://nobulart.com/the-great-year
+
 ## Good Articles
 
 Chan excerpts (tons of evidence in these):
@@ -161,3 +171,6 @@ Cataclysms:
 https://nobulart.com/666
 
 https://nobulart.com/karma/
+
+Politics:
+- https://nobulart.com/the-first-kennedy-assassination/

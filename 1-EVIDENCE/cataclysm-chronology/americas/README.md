@@ -105,6 +105,17 @@ Using the precise year length
 ![](img/cherokee1.jpg)
 ![](img/cherokee2.jpg)
 
+## Pemon
+
+In Pemón mythology, Mt. Roraima is “the stump of a mighty tree that once held all the fruits and tuberous vegetables in the world,” and was “felled by one of their ancestors, the tree crashed to the ground, unleashing a terrible flood” - Naeem (2011)
+
+Roraima is the western pivot in the ECDO model.
+
+![](img/pemon1.jpg)
+![](img/pemon2.jpg)
+
+https://hot-facts.blogspot.com/2011/04/facts-about-mount-roraima-strangefacts.html
+
 ## Citations
 
 1. https://zsitchinindex.wordpress.com/the-earth-chronicles-index/book-4-the-lost-realms/chapter-7-the-day-the-sun-stood-still/
