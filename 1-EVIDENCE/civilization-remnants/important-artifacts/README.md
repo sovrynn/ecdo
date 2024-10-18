@@ -124,6 +124,10 @@ All these points in my mind are connecting to theories of the electric universe.
 
 This is why I think it's curious to find this king select this astral image for his royal seal.
 
+## Seal Team Spartan 1 Anomalous Finding Markings
+
+![](img/seal-team.jpg)
+
 ## Citations
 
 1. https://x.com/EthicalSkeptic/status/1832538729275117895?s=19

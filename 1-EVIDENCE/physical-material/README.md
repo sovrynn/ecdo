@@ -12,6 +12,15 @@ Like all fine things, gem opal is exceedingly rare. Much of the world's precious
 
 https://www.opalsdownunder.com.au/learn/australian-opal-mining-fields/
 
+## 6200 BC Norway Submarine Landslide [11]
+
+"The three Storegga Slides (Norwegian: Storeggaraset) are amongst the largest known submarine landslides. They occurred at the edge of Norway's continental shelf in the Norwegian Sea, approximately 6225–6170 BCE. The collapse involved an estimated 290 km (180 mi) length of coastal shelf, with a total volume of 3,500 km3 (840 cu mi) of debris, which caused a paleotsunami in the North Atlantic Ocean."
+
+https://images.app.goo.gl/EDqL25iWFUBFgymH6
+
+https://www.youtube.com/watch?v=1S__dy0nA0k is talking about a tsunami 6170 BC and an other around 3000 BC @ 7:30
++ https://www.youtube.com/watch?v=OsawYPFPLMc
+
 # TODO
 
 Tibet:

@@ -78,12 +78,6 @@ Censorinus makes mention of this water/fire sequence as being coincident to a pl
 
 Helike (/ˈhɛlɪkiː/; Greek: Ἑλίκη, pronounced [heˈlikɛː], modern Greek pronunciation: [eˈlici]) was an ancient Greek polis (city-state)[1] that was submerged by a tsunami in the winter of 373 BC. Lines up with Alexander the Great 400 BC https://en.wikipedia.org/wiki/Helike
 
-## 6200 BC Norway Submarine Landslide [11]
-
-"The three Storegga Slides (Norwegian: Storeggaraset) are amongst the largest known submarine landslides. They occurred at the edge of Norway's continental shelf in the Norwegian Sea, approximately 6225–6170 BCE. The collapse involved an estimated 290 km (180 mi) length of coastal shelf, with a total volume of 3,500 km3 (840 cu mi) of debris, which caused a paleotsunami in the North Atlantic Ocean."
-
-https://images.app.goo.gl/EDqL25iWFUBFgymH6
-
 ### Encke causing Ekpyrosis?
 
 Could this be ekpyrosis following katakysmos a few years later? The idea of us passing directly through the main stream is a serious consideration.

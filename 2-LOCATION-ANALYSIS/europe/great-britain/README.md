@@ -106,6 +106,8 @@ This is a great illustration of these MASSIVE clay and other sediment layers tha
 
 ### Investigating Ripples Potentially Related to ECDO
 
+I've got quite a bit of evidence now for a deluge from the North Sea across East Yorkshire in the UK including ripples but much smaller than what you are finding on the main continental land masses. Also our original cliff line is buried under mud 15 miles inland from the present day "Holderness" coastline. This mud is supposed to have been deposited by glaciers after the last ice age but is the fastest eroding coastline in the world, losing on average 2 metres per year to the North Sea.
+
 I'm not sure this is going to work but I have taken some screenshots of ripples I have found on the East Yorkshire coast on permanent pasture that has likely never been cultivated or developed. The ripples are small. Max about 1 metre high and 10 metres wide. These lie on top of the original cliff top that is buried in sediment. This sediment makes up about half this county and all of its present coastline along the North Sea. Hopefully this will be clear in the coming images...
 
 Geographic location:
