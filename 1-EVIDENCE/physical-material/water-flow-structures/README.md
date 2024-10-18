@@ -73,9 +73,57 @@ Contrast enhanced elevation data [1,2]. Current ripple period is ±500m. Amplitu
 
 Note the the standing waves in the flow on the right side of the Niagara Falls image in the sheet flow leading up to the drop [1], and compare to the French ripples [2]. The Niagara current ripples can also be clearly seen to be "standing" in this drone footage [3]. Laboratory and computational fluid model observations of the turbulent development of counter-flow vortices within laminar flows [4,5,6] - the current ripple builders. The mechanism by which this (and other) large-scale ripple morphologies come about, I suspect. [7]
 
-[4] https://researchgate.net/profile/Bharat-Bhushan-21/publication/46380838_Shark-Skin_Surfaces_for_Fluid-Drag_Reduction_in_Turbulent_Flow_A_Review
-[5] https://researchgate.net/profile/Saber-Abdelaal/publication/315819318_Breaching_of_Coastal_Barriers_under_Extreme_Storm_Surges_and_Implications_for_Groundwater_Contamination_Improvement_and_Extension_of_the_XBeach_Model_to_Account_for_New_Physical_Processes
-[6] https://x.com/nobulart/status/1813868832643051690
+4. https://researchgate.net/profile/Bharat-Bhushan-21/publication/46380838_Shark-Skin_Surfaces_for_Fluid-Drag_Reduction_in_Turbulent_Flow_A_Review
+5. https://researchgate.net/profile/Saber-Abdelaal/publication/315819318_Breaching_of_Coastal_Barriers_under_Extreme_Storm_Surges_and_Implications_for_Groundwater_Contamination_Improvement_and_Extension_of_the_XBeach_Model_to_Account_for_New_Physical_Processes
+6. https://x.com/nobulart/status/1813868832643051690
+
+## Sudan [2]
+
+![](img/sudan1.jpg)
+![](img/sudan2.jpg)
+![](img/ripple.jpg)
+![](img/sudan4.jpg)
+![](img/sudan5.jpg)
+![](img/sudan6.jpg)
+
+If megafloods were all the result of outflows from glacial lakes, then what are [these bad boys](https://maps.app.goo.gl/oxieyw9w9C6P2Evz6) doing 15 degrees north of the equator in Sudan? They look like GCR's [Giant Current Ripples (https://en.wikipedia.org/wiki/Giant_current_ripples)] with an average 555m between troughs, and heights of 10m. They do not appear to be sand dunes - they're too shallow and they've remained static for at least the last 40 years according to available imagery. 
+
+Using the GCR chord length [equation](https://pubs.geoscienceworld.org/gsa/books/book/275/chapter-abstract/3795280/Paleohydrology-and-Sedimentology-of-Lake-Missoula) to determine water depth based on ripple size, [I arrive at a water depth of 1,200m](https://chatgpt.com/share/6c38d048-e4fa-4e39-911d-bce8caf0eef4). I used a 10km long sample to determine average slope (0.0018) and chord length (555m).
+
+The Sahara looks like one of the largest megafloodplains on the planet, with obvious flows thousands of kilometers wide running to the south and the west.
+
+ChatGPT GCR speed deduction: *"Could definitely be correct. The water from the med would likely reach Sudan during the latter half of the rotation, during which time the movement will be decelerating. The water velocity would start to synchronize with the crustal rotation at this point and many flows would be deep but relatively slow moving."* [1]
+
+![](img/sudan-speed1.jpg)
+![](img/sudan-speed2.jpg)
+
+## Altai Mountains Russia
+
+The Altai Mountains in Siberia are a overflowing with megaflood evidence.
+
+![](img/altai1.jpg)
+![](img/altai2.jpg)
+![](img/altai3.jpg)
+![](img/altai4.jpg)
+
+https://en.wikipedia.org/wiki/Giant_current_ripples
+
+### Taklamakan Desert, China
+
+May just be sand dunes. Coords (40, 86.3).
+
+![](img/dunes.png)
+![](img/dunes2.png)
+![](img/dunes3.png)
+
+*"These look very much like the work of the wind to me."* [2]
+
+## Drake Passage [2]
+
+![drake passage](img/drake-passage.jpg)
+![drake passage](img/drake-passage2.jpg)
+
+In Chile & Argentina are found Mega Current Ripples (500m period, 10m amplitude), an abundance of salt pan deposits, and what looks like at least two large rills which have been eroded by the northeast to southwest flow during the transition from State 1 to State 2.
 
 ## Citations
 

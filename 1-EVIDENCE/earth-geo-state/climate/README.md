@@ -2,6 +2,13 @@
 
 Evidence pertaining to ECDO from the geological state of the Earth, such as weather.
 
+Holocene major events:
+- 11.7ka to present
+- period of warming
+- Black Sea deluge [5]
+- Tollmann Bolide Hypothesis [4]
+- global sea level rise
+
 ## 3 drought events (6200, 3200, 2200 BC): Staubwasser, Weiss
 
 "The paper by Staubwasser and Weiss concerns itself only with past abrupt changes in climate and the impact these changes may have had on civilizations in the past. It identifies and discusses three abrupt climate change events at roughly 2200 B.C., 3200 B.C., and 6200 B.C. In all three cases, it finds that populations were reduced to a greater or lesser extent over large geographical areas."
@@ -50,6 +57,21 @@ https://en.wikipedia.org/wiki/4.2-kiloyear_event
 
 https://en.wikipedia.org/wiki/8.2-kiloyear_event
 
+## Holocene Sea Level Rise, Meltwater pulses [9,10,11]
+
+"The early Holocene sea level rise (EHSLR) was a significant jump in sea level by about 60 m (197 ft) during the early Holocene, between about 12,000 and 7,000 years ago, spanning the Eurasian Mesolithic."
+
+Understanding what exactly caused this undeniable massive sea level rise should surely be very relevant for the ECDO. The justification for these seems to be massive ice sheet melting. But that should raise the question, how was it that there were such massive ice sheets before the Younger Dryas, which then melted during the Holocene, and don't exist to such an extent now?
+
+![](img/meltwater-pulses.jpg)
+![](img/sea-level-rise1.jpg)
+![](img/sea-level-rise2.jpg)
+
+"During deglaciation since the Last Glacial Maximum, between about 20,000 to 7,000 years ago (20–7 ka), the sea level rose by a total of about 100 m (328 ft), at times at extremely high rates, due to the rapid melting of the British-Irish Sea, Fennoscandian, Laurentide, Barents-Kara, Patagonian, Innuitian and parts of the Antarctic ice sheets."
+
+- "Meltwater pulse 1B between c. 11.4–11.1 ka, a 7.5 m (25 ft) rise over about 160 years centered at 11.1 ka, which includes the end of Younger Dryas interval of reduced sea level rise at about 6.0–9.9 mm (0.2–0.4 in)/yr;
+- Meltwater pulse 1C between c. 8.2–7.6 ka, centered at 8.0 ka, a rise of 6.5 m (21 ft) in less than 140 years." 
+
 ## 1200 BC Event?
 
 "This event is becoming known as the 3.2k yr BP event. Some of these studies indicate that the drought happened in two stages, a drought between 1250 and 1150 BC, followed by a return to normal precipitation for 50 years and then another drought between 1100 and 950 (possibly continuing to 850) BC."
@@ -96,6 +118,17 @@ Could this also be an instance of the Peltier Effect?: https://en.wikipedia.org/
 Any theories as to why the temperature fluctuations were much more severe prior to 8000BC?
 
 Because the first event was the result of a collision or encounter with a comet or other body/bodies.
+
+## Richat Structure
+
+Was the ancient volcano underlying the Richat Structure the contact point for a discharge between the Earth and Encke’s progenitor 12,500 YBP, shattering the comet, strewing destruction across the northern hemisphere from Turkey to Alaska?
+
+![](img/richat.jpg)
+![](img/richat2.jpg)
+
+## Impact structures
+
+https://en.m.wikipedia.org/wiki/List_of_impact_structures_on_Earth
 
 ## Citations
 

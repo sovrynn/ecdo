@@ -1,11 +1,4 @@
-# Earth's Long-term History
-
-Holocene:
-- 11.7ka to present
-- period of warming
-- Black Sea deluge [5]
-- Tollmann Bolide Hypothesis [4]
-- global sea level rise
+# Pre-Holocene Climate Change Events
 
 Younger Dryas and older:
 - Younger Dryas Impact, Younger Dryas [1]
@@ -25,21 +18,6 @@ Younger Dryas and older:
 Other:
 - Dansgaard-Oeschger events
 - Heinrich events
-
-## Holocene Sea Level Rise, Meltwater pulses [9,10,11]
-
-"The early Holocene sea level rise (EHSLR) was a significant jump in sea level by about 60 m (197 ft) during the early Holocene, between about 12,000 and 7,000 years ago, spanning the Eurasian Mesolithic."
-
-Understanding what exactly caused this undeniable massive sea level rise should surely be very relevant for the ECDO. The justification for these seems to be massive ice sheet melting. But that should raise the question, how was it that there were such massive ice sheets before the Younger Dryas, which then melted during the Holocene, and don't exist to such an extent now?
-
-![](img/meltwater-pulses.jpg)
-![](img/sea-level-rise1.jpg)
-![](img/sea-level-rise2.jpg)
-
-"During deglaciation since the Last Glacial Maximum, between about 20,000 to 7,000 years ago (20–7 ka), the sea level rose by a total of about 100 m (328 ft), at times at extremely high rates, due to the rapid melting of the British-Irish Sea, Fennoscandian, Laurentide, Barents-Kara, Patagonian, Innuitian and parts of the Antarctic ice sheets."
-
-- "Meltwater pulse 1B between c. 11.4–11.1 ka, a 7.5 m (25 ft) rise over about 160 years centered at 11.1 ka, which includes the end of Younger Dryas interval of reduced sea level rise at about 6.0–9.9 mm (0.2–0.4 in)/yr;
-- Meltwater pulse 1C between c. 8.2–7.6 ka, centered at 8.0 ka, a rise of 6.5 m (21 ft) in less than 140 years." 
 
 ## Younger Dryas - Undeniable ECDO event? [1]
 
@@ -99,17 +77,6 @@ Heinrich events are often marked by the following changes:
 This was the period preceding the Younger Dryas.
 
 "The Bølling–Allerød Interstadial (Danish: [ˈpøle̝ŋ ˈæləˌʁœðˀ]), also called the Late Glacial Interstadial (LGI), was an interstadial period which occurred from 14,690 to c. 12,890 years Before Present, during the final stages of the Last Glacial Period.[2] It was defined by abrupt warming in the Northern Hemisphere, and a corresponding cooling in the Southern Hemisphere,[3] as well as a period of major ice sheet collapse and corresponding sea level rise known as Meltwater pulse 1A.[4] This period was named after two sites in Denmark where paleoclimate evidence for it was first found, in the form of vegetation fossils that could have only survived during a comparatively warm period in Northern Europe.[3] It is also referred to as Interstadial 1 or Dansgaard–Oeschger event 1."
-
-## Richat Structure
-
-Was the ancient volcano underlying the Richat Structure the contact point for a discharge between the Earth and Encke’s progenitor 12,500 YBP, shattering the comet, strewing destruction across the northern hemisphere from Turkey to Alaska?
-
-![](img/richat.jpg)
-![](img/richat2.jpg)
-
-## Impact structures
-
-https://en.m.wikipedia.org/wiki/List_of_impact_structures_on_Earth
 
 ## Missoula floods
 

@@ -4,6 +4,8 @@ https://github.com/user-attachments/assets/eecae3f0-8dab-41db-868f-7a1819f490a5
 
 See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the high-res visualization. [1]
 
+Mega current ripples in Sudan in `EVIDENCE`.
+
 ## Earth Engine DEM
 
 ![](img/north-africa1.jpg)
@@ -22,26 +24,6 @@ ECDO displacement visualisation using V4.[1] Mega current ripples in Mauritania[
 5. https://x.com/nobulart/status/1808501677340635357
 6. https://x.com/nobulart/status/1808579489582174609
 7. https://talkorigins.org/faqs/flood-myths.html#Africa
-
-## Sudan [1]
-
-![x](img/sudan1.jpg "sudan")
-![x](img/sudan2.jpg "sudan")
-![x](img/ripple.jpg "sudan")
-![x](img/sudan4.jpg "sudan")
-![x](img/sudan5.jpg "sudan")
-![x](img/sudan6.jpg "sudan")
-
-If megafloods were all the result of outflows from glacial lakes, then what are [these bad boys](https://maps.app.goo.gl/oxieyw9w9C6P2Evz6) doing 15 degrees north of the equator in Sudan? They look like GCR's [Giant Current Ripples (https://en.wikipedia.org/wiki/Giant_current_ripples)] with an average 555m between troughs, and heights of 10m. They do not appear to be sand dunes - they're too shallow and they've remained static for at least the last 40 years according to available imagery. 
-
-Using the GCR chord length [equation](https://pubs.geoscienceworld.org/gsa/books/book/275/chapter-abstract/3795280/Paleohydrology-and-Sedimentology-of-Lake-Missoula) to determine water depth based on ripple size, [I arrive at a water depth of 1,200m](https://chatgpt.com/share/6c38d048-e4fa-4e39-911d-bce8caf0eef4). I used a 10km long sample to determine average slope (0.0018) and chord length (555m).
-
-The Sahara looks like one of the largest megafloodplains on the planet, with obvious flows thousands of kilometers wide running to the south and the west.
-
-ChatGPT GCR speed deduction: *"Could definitely be correct. The water from the med would likely reach Sudan during the latter half of the rotation, during which time the movement will be decelerating. The water velocity would start to synchronize with the crustal rotation at this point and many flows would be deep but relatively slow moving."* [1]
-
-![](img/sudan-speed1.jpg)
-![](img/sudan-speed2.jpg)
 
 ## Flows
 

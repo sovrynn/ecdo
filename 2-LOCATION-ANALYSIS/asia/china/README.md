@@ -15,6 +15,8 @@ Beijing:
 - Coordinates (39.9 N, 116.4 E)
 - Rotating at 1242 km/h during a 6 hour rotation
 
+Potentially mega current ripples in the Taklamakan Desert.
+
 ## Ocean Displacement
 
 I predict China will have to deal with water coming from 3 major chokepoints, along with the (shallow) water already in the Yellow Sea. Note that the Yellow Sea bay forms a natural chokepoint in and of itself. If you just look at the shape of the east Asian coastline, it's got several very concave bays.
@@ -105,16 +107,6 @@ Definitely a good chance this location was created by fast-moving water/debris.
 ### Desert Terrain
 
 ![](img/china-desert.jpg)
-
-### Taklamakan Desert
-
-May just be sand dunes. Coords (40, 86.3).
-
-![](img/dunes.png)
-![](img/dunes2.png)
-![](img/dunes3.png)
-
-*"These look very much like the work of the wind to me."* [5]
 
 ### Longest Inhabited Cities
 

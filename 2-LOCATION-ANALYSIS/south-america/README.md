@@ -8,6 +8,8 @@ Mount Roraima (the South American pivot) and the Amazon river network.
 
 ![](img/sa-elev.jpg)
 
+Mega current ripples in Chile and Argentina.
+
 ## Analysis [1]
 
 https://github.com/user-attachments/assets/7cdc44f1-642e-408e-ae7f-1290120c06c3

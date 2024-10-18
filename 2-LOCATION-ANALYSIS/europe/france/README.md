@@ -1,5 +1,7 @@
 # France
 
+Mega current ripples found in France. See `EVIDENCE`.
+
 ## Cevennes National Park
 
 Gorges de la Jonte (~1000m):
