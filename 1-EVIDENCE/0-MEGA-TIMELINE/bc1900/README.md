@@ -28,13 +28,11 @@ Cataclysm accounts:
 Cataclysm events:
 - 1900 BC - 1700 BC: Mohenjo-Daro abandonment
 - 1700-1650 BC: Minoan Crete, two catastrophes within a half century of each other
-- ~1700 BC: various burned Mesopotamian cities
 - 1800 BC Caral (Peru) abandonment
 - 2000-1900 BC India flood remnants
 
 Physical markers:
 - 1650 BC Antarctic tephra
-- ~1750 BC: human remains from multiple places around the world
 - 1960 BC Deception Island volcano, Antarctica
 - 2000 BC Kilimanjaro ice cores
 - 2000 BC drying of the Saraswati
@@ -53,14 +51,18 @@ New additions:
 - 1600 BC Lisbon Tsunami, sediment cores
 - 1700-900 BC Lake Sevan Armenia high lake levels
 - 2300 and 2000 burnings of Ebla, Syria
-- burned Mesopotamian cities:
+- ~1700 BC: various burned Mesopotamian cities
 	- 1600 BC: Jericho
 	- 1750 BC Kultepe/Khanesh
-	- 1700 BC: Tall el-Hammam
+	- 1650 BC: Tall el-Hammam
 	- 1700 BC: Hattusa
 	- 1700 BC: Tavslani Mound
 	- 2300, 2000 BC: Ebla
 	- 2300 BC: Numeira
+- ~1750 BC: human remains from multiple places around the world
+	- 1800 BC Peru "water cult" human remains with marine bones
+	- 1750 BC Dublin incinerated remains
+	- 2000 BC China "Pompeii"
 
 The two key events for building this event timeline in my view are Gun-Yu and Exodus+Joshua, which both describe multi-decade long periods for cataclysmic happenings, which would line up very well with our current model of a short S2 state. Unfortunately the standard timelines for these are off by a couple of centuries.
 

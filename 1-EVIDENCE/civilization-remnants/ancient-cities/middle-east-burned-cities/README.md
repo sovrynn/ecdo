@@ -5,7 +5,7 @@ There are a number of remains of ancient cities specifically in the Middle East 
 - 1300, 1200 BC: Troy
 - 1600 BC: Jericho
 - 1750 BC Kultepe/Khanesh
-- 1700 BC: Tall el-Hammam
+- 1650 BC: Tall el-Hammam
 - 1700 BC: Hattusa
 - 1700 BC: Tavslani Mound
 - 2300, 2000 BC: Ebla
@@ -40,7 +40,7 @@ https://en.wikipedia.org/wiki/Hittites
 
 https://en.wikipedia.org/wiki/K%C3%BCltepe
 
-## Tall el-Hammam city melted ~3700 years ago
+## Tall el-Hammam city melted ~3700 years ago, 1650 BC
 
 Evidence that a "cosmic impact" destroyed ancient city in the Jordan Valley:
 

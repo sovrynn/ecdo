@@ -1,6 +1,6 @@
 # Earth Geological State
 
-Evidence pertaining to ECDO from the geological state of the Earth, such as weather.
+Evidence pertaining to ECDO from the geological state of the Earth, such as weather or ocean patterns.
 
 Holocene major events:
 - 11.7ka to present
