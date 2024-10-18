@@ -53,6 +53,13 @@ New additions:
 - 1600 BC Lisbon Tsunami, sediment cores
 - 1700-900 BC Lake Sevan Armenia high lake levels
 - 2300 and 2000 burnings of Ebla, Syria
+- burned Mesopotamian cities:
+	- 1750 BC Kultepe/Khanesh
+	- 1700 BC: Tall el-Hammam
+	- 1700 BC: Hattusa
+	- 1700 BC: Tavslani Mound
+	- 2300, 2000 BC: Ebla
+	- 2300 BC: Numeira
 
 The two key events for building this event timeline in my view are Gun-Yu and Exodus+Joshua, which both describe multi-decade long periods for cataclysmic happenings, which would line up very well with our current model of a short S2 state. Unfortunately the standard timelines for these are off by a couple of centuries.
 
