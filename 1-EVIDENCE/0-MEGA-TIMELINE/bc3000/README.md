@@ -36,7 +36,8 @@ New additions:
 	- Kish, Iraq, two 2900 BC floods, one 2600 BC flood
 	- Shurrupak (Fara), 3000 BC charcoal and ashes, 2850 BC flood deposit
 	- Ur: 3500 BC and 2700 BC deposits
-- 2875 Bubastis Egypt "chasm" accountt
+- 2875 Bubastis Egypt "chasm" account
+- 4000 BC Lake Sidi, Western Mediterranean/North Africa core O18 spike
 
 All the evidence is spread throughout the repo but I'll include deeper investigations here.
 

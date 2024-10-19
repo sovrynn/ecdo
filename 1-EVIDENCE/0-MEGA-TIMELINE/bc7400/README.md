@@ -12,6 +12,9 @@ Physical markers:
 - 7500 BC: Tollman bolide hypothesis
 	- tree rings, tektites, youngest mammoth
 
+New additions:
+- 7300 BC Lake Sidi, Western Mediterranean/North Africa core O18 spike
+
 ## Dvaravati Sinking
 
 This dating comes from Vedveer Arya, who compiled a lengthy timeline of India, placing the Manu deluge at the same time as the Atlantis sinking.

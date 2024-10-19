@@ -43,7 +43,7 @@ Physical markers:
 
 New additions:
 - 2000 BC Pompeii human remains
-- 2000 BC Syrian coastal change
+- 2000 BC Syrian coastal climate change
 - 1740-1620 BC Kaali crater, Estonia
 - 1831-1368 Ios Island, Aegean Sea, Greece tsunami sediments
 - 1627-1600 Minoan Santorini eruption

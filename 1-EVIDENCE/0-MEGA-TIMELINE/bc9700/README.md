@@ -11,3 +11,6 @@ Physical markers:
 - 9100 BC: bond event
 - 9200 BC: Black Sea refilling
 - 9700 BC: end of Younger Dryas, many physical markers, meltwater pulse
+
+New additions:
+- 9400 BC Lake Sidi, Western Mediterranean/North Africa core O18 spike

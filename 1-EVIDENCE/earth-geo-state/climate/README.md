@@ -94,7 +94,11 @@ This general pattern masks a degree of local complexity caused by tectonic movem
 
 ## Western Mediterranean hydro-climatic consequences of Holocene ice-rafted debris (Bond) events (hard copy here)
 
+A single Lake Sidi core in Western Mediterranean, North Africa, O18 analysis.
+
 ![](img/ice-rafting-climate.png)
+
+"Major peaks in the Early to Middle Holocene Sidi Ali δ 18 O curve coincide with maxima in the ice-rafted debris record (orange bars in Fig. 3). This is particularly evident at 11.4, 10.2, 9.3, 8.2 and 6.0 ka cal BP."
 
 ## Volcanic Winter of 536
 
