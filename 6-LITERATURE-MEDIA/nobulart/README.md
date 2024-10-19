@@ -150,9 +150,8 @@ https://nobulart.com/the-great-year
 Chan excerpts (tons of evidence in these):
 - https://nobulart.com/cataclysms-revisited/
 - https://nobulart.com/the-story-and-the-event/
-
-Chan does a good job of of dismantling (shredding) the incremental evolution narrative in this chapter.
-https://nobulart.com/aftermath-evolution/
+- Chan does a good job of of dismantling (shredding) the incremental evolution narrative in this chapter.
+	- https://nobulart.com/aftermath-evolution/
 
 Musical harmonics:
 - https://nobulart.com/musica-vitae-et-mortis/
@@ -168,6 +167,7 @@ Burgoyne:
 
 Iron mountain excerpt
 
+Vaccine:
 Vaccine ingredients: https://nobulart.com/covid-19-vaccine-ingredients/
 
 Cataclysms:
@@ -182,3 +182,124 @@ https://nobulart.com/karma/
 
 Politics:
 - https://nobulart.com/the-first-kennedy-assassination/
+
+## Articles organized per GPT
+
+### - Climate and Environmental Changes
+- [360 Days](https://nobulart.com/360-days/)
+- [Earth Changes](https://nobulart.com/earth-changes/)
+- [Sustainable is Code for Genocide](https://nobulart.com/sustainable-is-code-for-genocide/)
+- [The Flip of the Earth](https://nobulart.com/the-flip-of-the-earth/)
+- [The Perfect Storm](https://nobulart.com/the-perfect-storm/)
+- [Wrath of the Sun](https://nobulart.com/wrath-of-the-sun/)
+
+### - Ancient History and Civilizations
+- [A Story of Atlantis](https://nobulart.com/a-story-of-atlantis/)
+- [Aftermath Part 1 – Our Precursor](https://nobulart.com/aftermath-our-precursor/)
+- [Cataclysms Revisited](https://nobulart.com/cataclysms-revisited/)
+- [Critias](https://nobulart.com/critias/)
+- [The Adam & Eve Story](https://nobulart.com/the-adam-and-eve-story/)
+- [Thirty-Five Centuries Ago](https://nobulart.com/thirty-five-centuries-ago/)
+
+### - Health, Epidemics, and Vaccines
+- [A Virus Called Fear](https://nobulart.com/a-virus-called-fear/)
+- [Autopsy Proven Fatal COVID-19 Vaccine-Induced Myocarditis](https://nobulart.com/autopsy-proven-fatal-covid-19-vaccine-induced-myocarditis/)
+- [COVID-19 Vaccine Ingredients](https://nobulart.com/covid-19-vaccine-ingredients/)
+- [Epidemics During Grand Solar Minima](https://nobulart.com/epidemics-during-grand-solar-minima/)
+- [Nukes & Tobacco](https://nobulart.com/nukes-and-tobacco/)
+- [The Fauci Dossier](https://nobulart.com/the-fauci-dossier/)
+- [The Parasitic Infection](https://nobulart.com/the-parasitic-infection/)
+- [Using Cosmic Rays to Predict Influenza Epidemics](https://nobulart.com/using-cosmic-rays-to-predict-influenza-epidemics/)
+- [Vaccines](https://nobulart.com/vaccines/)
+
+### - Science, Astronomy, and Cosmology
+- [Aftermath Part 2 – Evolution](https://nobulart.com/aftermath-evolution/)
+- [Comets & Dragons](https://nobulart.com/comets-and-dragons/)
+- [Conclusion & Aftermath](https://nobulart.com/conclusion-and-aftermath/)
+- [Tesla’s Pyramids](https://nobulart.com/teslas-pyramids/)
+- [The AI Vampire](https://nobulart.com/the-ai-vampire/)
+- [The Exploded Planet](https://nobulart.com/the-exploded-planet/)
+- [The Frequency War](https://nobulart.com/the-frequency-war/)
+- [The Great Year](https://nobulart.com/the-great-year/)
+- [The Iron Sun](https://nobulart.com/the-iron-sun/)
+- [The New Science](https://nobulart.com/the-new-science/)
+- [The Plasma Event](https://nobulart.com/the-plasma-event/)
+- [The Solar Mind](https://nobulart.com/the-solar-mind/)
+- [The Study of Cycles](https://nobulart.com/the-study-of-cycles/)
+- [Time & Portents](https://nobulart.com/time-portents/)
+- [Æther, Plasma & Scalar Waves](https://nobulart.com/aether-plasma-scalar-waves/)
+
+### - Religion, Spirituality, and Occult Knowledge
+- [Aftermath Part 3 – Jesus as History](https://nobulart.com/aftermath-jesus-as-history/)
+- [Edgar Cayce on Russia (The Hope of The World)](https://nobulart.com/edgar-cayce-russia/)
+- [Gnosticism](https://nobulart.com/gnosticism/)
+- [Immortality Day](https://nobulart.com/immortality-day/)
+- [Karma](https://nobulart.com/karma/)
+- [Reflections on Religion](https://nobulart.com/reflections-on-religion/)
+- [The Ansairetic Arcanum](https://nobulart.com/the-ansairetic-arcanum/)
+- [The Mysteries of Sex](https://nobulart.com/the-mysteries-of-sex/)
+- [The Number 666](https://nobulart.com/the-number-666/)
+- [The Occulted Keys of Wisdom](https://nobulart.com/the-occulted-keys-of-wisdom/)
+- [The Soul Trading System](https://nobulart.com/the-soul-trading-system/)
+- [The Soul’s Progress](https://nobulart.com/the-souls-progress/)
+- [The Story & The Event](https://nobulart.com/the-story-and-the-event/)
+
+### - Extraterrestrial, UFOs, and Paranormal
+- [Aftermath Part 4 – Angels and UFOs](https://nobulart.com/aftermath-angels-and-ufos/)
+- [Interdimensional Parasites & Child Abuse](https://nobulart.com/interdimensional-parasites-child-abuse/)
+- [The Dark Satellite](https://nobulart.com/the-dark-satellite/)
+- [The Hive, Parasitic Soul Stealing & The Supercomputer Demiurge](https://nobulart.com/the-hive-parasitic-soul-stealing-the-supercomputer-demiurge/)
+
+### - Social Theories and Economic Power
+- [Against School](https://nobulart.com/against-school/)
+- [An Open Letter](https://nobulart.com/an-open-letter/)
+- [Life, Liberty & Property](https://nobulart.com/life-liberty-property/)
+- [Racism](https://nobulart.com/racism/)
+- [The Bigger Picture](https://nobulart.com/the-bigger-picture/)
+- [The Birth of Inequality](https://nobulart.com/the-birth-of-inequality/)
+- [We For Humanity](https://nobulart.com/we-for-humanity/)
+- [What Holds Mankind Back from Confronting the Forces Determined to Destroy It?](https://nobulart.com/what-holds-mankind-back-from-confronting-the-forces-determined-to-destroy-it/)
+
+### - Political Conspiracies and Power Structures
+- [Anatomy of an Alliance](https://nobulart.com/anatomy-of-an-alliance/)
+- [Ancient Secret Societies](https://nobulart.com/ancient-secret-societies/)
+- [Deagel 2025 Forecast](https://nobulart.com/deagel-2025-forecast/)
+- [Hidden History of the Incredibly Evil Khazarian Mafia](https://nobulart.com/hidden-history-of-the-incredibly-evil-khazarian-mafia/)
+- [Jacques Attali’s Revelations](https://nobulart.com/jacques-attalis-revelations/)
+- [List of Freemasons](https://nobulart.com/list-of-freemasons/)
+- [MindWar](https://nobulart.com/mindwar/)
+- [New World Order](https://nobulart.com/new-world-order/)
+- [On the Origin of Freemasonry](https://nobulart.com/on-the-origin-of-freemasonry/)
+- [Operation Crimson Mist](https://nobulart.com/operation-crimson-mist/)
+- [Order of the Illuminati](https://nobulart.com/order-of-the-illuminati/)
+- [Perfectum Venemum](https://nobulart.com/perfectum-venemum/)
+- [Report from Iron Mountain](https://nobulart.com/report-from-iron-mountain/)
+- [Secret Network of COVID Plandemic Conspirators Revealed](https://nobulart.com/secret-network-of-covid-plandemic-conspirators-revealed/)
+- [Silent Weapons for Quiet Wars](https://nobulart.com/silent-weapons-for-quiet-wars/)
+- [The Barbastro Report](https://nobulart.com/the-barbastro-report/)
+- [The Diamond Conspiracy](https://nobulart.com/the-diamond-conspiracy/)
+- [The Diamond Empire](https://nobulart.com/the-diamond-empire/)
+- [The Enemy Within](https://nobulart.com/the-enemy-within/)
+- [The Gentleperson’s Guide To Forum Spies](https://nobulart.com/the-gentlepersons-guide-to-forum-spies/)
+- [The Rothschild Octopus](https://nobulart.com/the-rothschild-octopus/)
+- [The Toronto Protocols](https://nobulart.com/the-toronto-protocols/)
+- [Why the WHO Faked a Pandemic](https://nobulart.com/why-the-who-faked-a-pandemic/)
+
+### - Philosophy and Mysticism
+- [Artifice of the Real](https://nobulart.com/artifice-of-the-real/)
+- [Beethoven Illuminated](https://nobulart.com/beethoven-illuminated/)
+- [East & West](https://nobulart.com/east-west/)
+- [Enlightenment](https://nobulart.com/enlightenment/)
+- [Francis Bacon](https://nobulart.com/francis-bacon/)
+- [I Am A Capricorn](https://nobulart.com/i-am-a-capricorn/)
+- [Kubrick’s Odyssey](https://nobulart.com/kubricks-odyssey/)
+- [Musica Vitae et Mortis](https://nobulart.com/musica-vitae-et-mortis/)
+- [Shakespeare & Bacon](https://nobulart.com/shakespeare-bacon/)
+- [The Age of Reason](https://nobulart.com/the-age-of-reason/)
+- [The Hermetic Key](https://nobulart.com/the-hermetic-key/)
+
+### - Modern Political Movements and Thought
+- [Politics as a Vocation](https://nobulart.com/politics-as-a-vocation/)
+- [Russia After Yeltsin](https://nobulart.com/russia-after-yeltsin/)
+- [The Monopoly on Violence](https://nobulart.com/the-monopoly-on-violence/)
+- [The White Rose](https://nobulart.com/the-white-rose/)
