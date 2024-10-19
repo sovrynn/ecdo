@@ -105,6 +105,31 @@ Compton's 3200 BC comet impact hypothesis is pretty much a killshot for ECDO dat
 	- miles long and more than 100m tall, some covering an area as large as Manhattan. It would take a tsunami 600 ft tall to produce them.
 	- Dee Breger analzed samples of chevron sediment in October, 2006, using “a scanning electron microscope (SEM) and found deep-ocean microfossils (benthic foraminifera) that had been splashed with molten iron, nickel and chrome in proportions consistent with a chondritic meteor”
 
+## 3100 BC comet impact Twitter thread
+
+https://x.com/GemsOfINDOLOGY/status/1594307136905162753
+
+New evidence:
+- 4 comets one month apart made terrestrial orbit intersections with the Earth-Duncan Steele
+- Comet Proto-Encke made its closest pass to the Earth
+	- hard copy of cited literature here
+- The Henbury Meteorite Crater is in the Northern Territory of Australia and is five hundred feet wide and is dated to 3,100 BC.
+- On the other hand, dry land has sunk into the Atlantic, making underwater canyons extending out into the ocean floor from African river mouths. C-datings of a tree embedded in lava in this rift indicated that the catastrophe occurred around 3000 BCE
+- There was a peak in vulcanism in Iceland in 3,100 BC at Mount Hiemay. This was coincidentally with massive vulcanism in the Azores around 3,100 BC
+- There are sea level evidences from coastlines around the world that land submerged or emerged in two alternate quadrant around BC 3100.
+	- Src: Atlantis of the West: A Drowned Neolithic Civilisation
+- There are evidences that #Nile floods were high and erratic during 3100-3000 BCE in comparison to earlier records by Herodotus. After 3000 BC the sea level dropped and land rose exposing #Nile Delta.
+- In Bahamas, mangrove swamps only grow on tidal range, dating 3210-3120 BC were found 3 meters high on Bimini
+- Charles Darwin noted raised beaches as high as 500 meters in some places in Patagonia and Chile
+- Brazilian sea levels curve show a high sea level of 5 mtr
+- Massive flooding in Taiwan forced Austronesians who are members of an archeological group called the Dawenkou and inhabited Shandong and Jiangsu to leave Taiwan and travel south to the Philippines. These are the ancestors of the proto-Malay groups of people and languages.
+- For no known reason the Dead Sea rose 300 feet around 3,100 BC.
+- The prehistoric megaliths monument built in Wiltshire, England dates from 3100 years B.C. Along with Avebury, Stonehenge is one of the most famous groups of megaliths in the world
+- Egyptologist Peter Clayton gives a starting date of 3,150 BC for the beginning of Egyptian civilization.
+- Acc. to Glaciologist Lonnie Thompson there was a major change in Earth’s climate appx 5200 years ago. He found that plants released by the Quelccaya Ice cap in the Peruvian Andes Thompson were suddenly buried alive by ice around 3,200 BC.
+- Around 3,150 BC the climate of Peru changed suddenly from that of a warm and wet and tropical climate to a different climate that was colder, dryer and less tropical. The Aspero pyramids were built at this same time.
+- Surprisingly Brazilian Sea-shell Pyramids also came up during 3rd Millennium BCE.  These pyramids are 500 years older than Egyptian Pyramids
+
 ## Citations
 
 1. https://study.com/academy/lesson/fuxi-origin-creation-myth-significance.html
