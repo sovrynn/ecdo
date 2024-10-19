@@ -192,6 +192,7 @@ Politics:
 - [The Flip of the Earth](https://nobulart.com/the-flip-of-the-earth/)
 - [The Perfect Storm](https://nobulart.com/the-perfect-storm/)
 - [Wrath of the Sun](https://nobulart.com/wrath-of-the-sun/)
+- [East & West](https://nobulart.com/east-west/)
 
 ### - Ancient History and Civilizations
 - [A Story of Atlantis](https://nobulart.com/a-story-of-atlantis/)
@@ -200,6 +201,7 @@ Politics:
 - [Critias](https://nobulart.com/critias/)
 - [The Adam & Eve Story](https://nobulart.com/the-adam-and-eve-story/)
 - [Thirty-Five Centuries Ago](https://nobulart.com/thirty-five-centuries-ago/)
+- [The Story & The Event](https://nobulart.com/the-story-and-the-event/)
 
 ### - Health, Epidemics, and Vaccines
 - [A Virus Called Fear](https://nobulart.com/a-virus-called-fear/)
@@ -242,7 +244,6 @@ Politics:
 - [The Occulted Keys of Wisdom](https://nobulart.com/the-occulted-keys-of-wisdom/)
 - [The Soul Trading System](https://nobulart.com/the-soul-trading-system/)
 - [The Soul’s Progress](https://nobulart.com/the-souls-progress/)
-- [The Story & The Event](https://nobulart.com/the-story-and-the-event/)
 
 ### - Extraterrestrial, UFOs, and Paranormal
 - [Aftermath Part 4 – Angels and UFOs](https://nobulart.com/aftermath-angels-and-ufos/)
@@ -288,7 +289,6 @@ Politics:
 ### - Philosophy and Mysticism
 - [Artifice of the Real](https://nobulart.com/artifice-of-the-real/)
 - [Beethoven Illuminated](https://nobulart.com/beethoven-illuminated/)
-- [East & West](https://nobulart.com/east-west/)
 - [Enlightenment](https://nobulart.com/enlightenment/)
 - [Francis Bacon](https://nobulart.com/francis-bacon/)
 - [I Am A Capricorn](https://nobulart.com/i-am-a-capricorn/)
