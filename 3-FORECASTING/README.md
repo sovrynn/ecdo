@@ -1,6 +1,6 @@
 # Forecasting an Impending ECDO Rotation
 
-Goal is to predict when the next ECDO will happen.
+Goal is to predict when the next ECDO will happen. Recent climate and geo-state anomalies are in `EVIDENCE/PRESENT-CLIMATE-ANOMALIES`.
 
 ![](img/landscheidt-rosetta.jpg)
 
@@ -11,13 +11,13 @@ Goal is to predict when the next ECDO will happen.
 
 ## Evidence for an impending ECDO
 
-Currently, the strongest piece of evidence we have for an impending ECDO event is the accelerating north pole wander and weakening magnetic field. See `EVIDENCE/earth-geo-state/geomagnetic/north-pole-wander`.
+Currently, the strongest piece of evidence we have for an impending ECDO event is the accelerating north pole wander and weakening magnetic field.
 
 https://github.com/user-attachments/assets/de8d7eff-800f-4030-b428-2667cd46179e
 
-Past that, there are also exothermic core and temperature anomalies. These are causing climate change, such as increased rainfall. Present climate anomalies are in `EVIDENCE/1-PRESENT-CLIMATE-ANOMALIES`.
+Past that, there are also exothermic core and temperature anomalies. These are causing climate change, such as increased rainfall.
 
-Finally we have some more emergent memetic evidence in `EVIDENCE/conspiracy-theories` concerning movements of "elites" in potential preparation for this.
+Finally we have some more emergent evidence in `EVIDENCE/conspiracy-theories` concerning frenzied movements of "elites" in potential preparation for this.
 
 ## Signals that we are on the brink [1]
 

@@ -2,7 +2,12 @@
 
 All manner of potential evidence for ECDO events.
 
-## Contents
+## Noteworthy Parts
+
+- `0-MEGA-TIMELINE`: A mega Holocene timeline compilation of all the evidence in this folder.
+- `1-PRESENT-CLIMATE-ANOMALIES`: A host of recent climate and geo-state anomalies.
+
+## Main Evidence
 
 **Humanity**:
 - `cataclysm-chronology`: Historical chronology of flood myths, cataclysm accounts, and Bible stories.
@@ -13,22 +18,8 @@ All manner of potential evidence for ECDO events.
 - `biology`: Dead animals and plants, tree rings.
 
 **Macro**:
-- `earth-geo-state`: Earth's geological state, including geomagneticism and climate.
-- `solar-system`: The solar system.
+- `earth-geo-state`: Earth's past geological state, such as climate. More abstract analyses of the data in `physical-material`.
+- `solar-system`: Cosmic alignments, comets, solar movement patterns.
 
 **Misc**:
 - `conspiracy-theories`: Elite and government entities. Occult theories.
-
-# TODO: Creating a timeline
-
-What can be used to create a timeline? There's actually quite a lot of data:
-- Historical human chronology
-- Date archaelogical sites of cities
-- Paleomagnetic data
-- Paleoclimatic data
-- ice coring data
-- historical water body data (ex black sea refillings)
-- Biology (tree rings)
-- Date dead plants and animals
-
-There is a lot of historical material around 3200-2800 BC, and 2300-1700 BC, but 1400-1200 BC, 400 BC, and 500 AD may also be good periods to look into.
