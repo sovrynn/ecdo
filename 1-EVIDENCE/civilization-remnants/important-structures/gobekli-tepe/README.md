@@ -1,5 +1,7 @@
 # Gobekli Tepe
 
+Sweatman seems to be the leading expert on this.
+
 ## GT buried by debris? [1]
 
 [It] was probably built to keep an eye on Encke's progenitor (which I like to think of as Enlil, the destoyer).
