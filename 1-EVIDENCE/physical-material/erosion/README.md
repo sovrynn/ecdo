@@ -48,6 +48,12 @@ More images in `img/`.
 
 ![](img/trappers-lake-trail.jpg)
 
+## Serra da Capivara, Brazil
+
+![](img/capivara1.JPG)
+![](img/capivara2.jpg)
+![](img/capivara3.jpg)
+
 ## Citations
 
 1. https://nobulart.com

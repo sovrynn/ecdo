@@ -44,18 +44,6 @@ In the **19th and early 20th centuries**, individual explorers and scientists su
 
 In summary, while individual explorers and national expeditions played key roles in the early centuries, today, the responsibility for measuring and tracking the poles has shifted to a small group of international organizations and government agencies. The tools and scope of these measurements have expanded dramatically thanks to technological advances like satellite monitoring.
 
-## British Geological Survey [2]
-
-"The British Geological Survey is a partly publicly funded body which aims to advance geoscientific knowledge of the United Kingdom landmass and its continental shelf by means of systematic surveying, monitoring and research. The BGS headquarters are in Keyworth, Nottinghamshire, England."
-
-### The Great North Run [3]
-
-The British Geological Survey seems to verify that Earth's magnetic field is undergoing changes:
-
-"The 2021 revision of the model predicts that the direction of magnetic north will be the same as the direction of true north and grid north at the Isle of Purbeck/Poole in Dorset in November/December 2022. The point of coincidence of these three norths will then itself move northwards, passing Skipton in North Yorkshire in first half of 2024 and expected to reach Fraserburgh in Aberdeenshire some time in 2026. These later predictions will need refining nearer the time to account for any sudden and poorly understood changes in the magnetic field known as jerks or impulses."
-
 ## Citations
 
 1. GPT
-2. https://en.wikipedia.org/wiki/British_Geological_Survey
-3. https://www.bgs.ac.uk/news/the-great-north-run/
