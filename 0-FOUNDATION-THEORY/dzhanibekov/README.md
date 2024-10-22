@@ -65,6 +65,8 @@ https://github.com/user-attachments/assets/6bbc33a0-4caa-43a0-ac7b-76d9ce07aec5
 
 Mathematically, the principal axes are the axes around which the moment of inertia tensor is diagonal. For a body with moments of inertia I1, I2, and I3, these axes are the eigenaxes of the inertia tensor.
 
+See `img/dzhanibekov.mp4`.
+
 ### Relation between angular velocity and moment of inertia
 
 Note that if the axis of rotation is a principal axis, the angular velocity remains constant, which means the moment of inertia also remains constant.
@@ -110,6 +112,8 @@ When rotating about one of its principal axes (with the highest or lowest moment
 The bands along the bottom of the chart shows where mass has been subtracted from the gyroscope in each case.
 
 ![](img/prandtl.jpg)
+
+See `img/1841595827430502521-XPYGKXWoFKQIpcjh.mp4`.
 
 ## Citations
 

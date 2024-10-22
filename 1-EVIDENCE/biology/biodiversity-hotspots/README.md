@@ -30,6 +30,10 @@ What is the Atlas for the End of the World? The Atlas for the End of the World i
 
 Why is it an Atlas for the End of the World? Because, for much of the world's biodiversity it is in fact the end of the world. Also, since the first modern atlas was composed in 1570, the dominant paradigm has been that nature is a resource to be exploited without consequence. That world is over.
 
+## Southeastern Africa is also higher...
+
+Southeastern Africa is also higher in biodiversity, which would likely be due to a lower potential for oceanic inundation in this model.
+
 ## Citations
 
-- https://www.researchgate.net/figure/A-Species-density-map-for-4-967-freshwater-fish-species-Density-was-calculated-as_fig3_366847384
+1. https://www.researchgate.net/figure/A-Species-density-map-for-4-967-freshwater-fish-species-Density-was-calculated-as_fig3_366847384

@@ -17,34 +17,9 @@ The first four citations from his work may also be good leads:
 - Durack, Gleckler, et.al.; Ocean Warming: From the Surface to the Deep in Observations and Models; Oceanography; 9 Dec 2018; https://tos.org/oceanography/article/ocean-warming-from-the-surface-to-the-deep-in-observations-and-models
 - Desbruyeres, D.G., S.G. Purkey, E.L. McDonagh, G.C. Johnson, and B.A. King. 2016. Deep and abyssal ocean warming from 35 years of repeat hydrography. Geophysical Research Letters 43(19):10,356–10,365, https://doi.org/​10.1002/2016GL070413.
 
-## Flooding
-
-Even the collector of this material is so astounded by the volume of water seen in September that he’s compiled it into a thread. 
-
-https://x.com/volcaholic1/status/1838907698663833874?s=46
-
-August floods: https://x.com/volcaholic1/status/1840775328848810397?s=46
-
-Switzerland: https://uk.news.yahoo.com/switzerland-three-people-missing-once-183200128.html
-
 ## ITCZ Weakening
 
 ![](img/ictz-wobbling.jpg)
-
-## Rainfall data fudging [1]
-
-Where did all the water go? Further examples of altered rainfall data from 16 different cities around the world. Unusually high rainfall records for the past three years have been erased from the record.
-
-![](img/rainfall1.jpg)
-![](img/rainfall2.jpg)
-
-High resolution images available here:
-- https://nobulart.com/media/anti-diluvian-1.jpg
-- https://nobulart.com/media/anti-diluvian-2.jpg
-
-## Nepal half-century of "most intense rainfall"
-
-![](img/nepal.jpg)
 
 ## Meteor strike fudging
 
@@ -53,14 +28,6 @@ Did you know there was a meteorite strike on march 28, 2020 that struck Nigeria 
 The 2 ships that were moored on ny harbor supposedy for Covid were actually floating hospitals designed for trauma patients (as in those who would be victims of a traumatic event-asteroid strike) and not for infectious disease treatment. Not a single Covid patient was treated onboard either of them. Uncanny don’t you think?
 
 UK built a load of temporary hospitals too. Called Nightingale hospitals. Never had a patient.
-
-## Florida October 10 2024 Tornadoes and Hurricane
-
-![](img/florida-hurricane.png)
-
-Purple skies: aurora above the cloud?
-
-![](img/purple-skies.jpg)
 
 ## 2024 state of the climate report (hard copy here)
 
@@ -93,9 +60,45 @@ https://x.com/US_Stormwatch/status/1815824286562558358
 
 Aftermath https://x.com/justin_hart/status/1815835457315561715?s=46
 
-## Simultaneous upward strikes in Chicago...
+## RT An unusually large eruption...
 
-Simultaneous upward strikes in Chicago a few hours ago. Atypical polarity between ground and cloud. https://t.co/dBmecNzTWy
+RT An unusually large eruption of one of Yellowstone’s geysers occurred at Biscuit Basin moments ago. https://t.co/b8Ya4iW1…
+
+## RT Ebeko on the northern...
+
+RT Ebeko on the northern end of Paramushir Island, Kuril Islands, Russia today 🌋 📹 S. Lakomov https://t.co/LrfgF1A4fS https:…
+
+## Etna last night https://t.co/748O21xosM
+
+Etna last night https://t.co/748O21xosM
+
+## RT Jeeze!!! Tlapa in Guerrero,...
+
+RT Jeeze!!! Tlapa in Guerrero, Mexico last night...🌊👀😱 Via: Guerrero Information Focus https://t.co/XHRbwdBN05
+
+img/1812125617640411249-y-fhoWABy7gmoT47.mp4
+
+img/1812125617640411249-WS6ETRyyLodRtyLS.mp4
+
+## RT More video of Stromboli's...
+
+RT More video of Stromboli's explosive eruption this afternoon....👀 📹 Raffa Bazine Via: https://t.co/ISo9Fb…
+
+## Devastating Floods and Landslides Strike Swiss Alps and Northern Italy
+
+Upticks are everywhere. This is looking pretty severe. https://t.co/rudhwpMg9r Recommended:
+
+## Reversed polarity. Upwards from the...
+
+Reversed polarity. Upwards from the volcano. Not down into it. https://t.co/nmhYtAFQBz
+
+"An epic thunderstorm in Guatemala began simultaneously with the eruption of Mount Fuego
+
+Footage taken by eyewitnesses shows lightning striking directly into the mouth of the volcano."
+
+## RT On Wednesday morning, the...
+
+RT On Wednesday morning, the port of Ciutadella in Menorca experienced at least five large rissagas (meteotsunamis) with sea…
 
 # TODO
 

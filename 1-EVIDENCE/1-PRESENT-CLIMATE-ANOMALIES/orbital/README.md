@@ -28,6 +28,10 @@ A rough view of the axial polar movement overlaid on the magnetic polar movement
 
 https://youtu.be/7Pz7pSLrI_M?si=yTuEdZ-BwSW13Ceu
 
+## RT Days Growing Shorter -...
+
+RT Days Growing Shorter - Earth Rotation Speeding Up https://t.co/vkc0cteTHT via
+
 ## Citations
 
 1. https://www.nature.com/articles/s41561-024-01478-2

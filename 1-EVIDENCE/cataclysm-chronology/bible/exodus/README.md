@@ -38,6 +38,14 @@ hours the Exodus of the Israelites from Egypt."
 
 According to the biblical account, the Exodus is traditionally believed to have occurred in the spring, around the time of Passover, which is observed on the 15th day of the Hebrew month of Nisan. In the Gregorian calendar, this generally falls between March and April, depending on the year.
 
+## Events described in the book...
+
+Events described in the book of Exodus are estimated to have occurred somewhere around 1446 BCW thru 1213 BCE. Earth once again was positioned for a possible pass through Encke's tail during a lesser gravitational lull in 1346 BCE [text from Velikovsky] https://t.co/gQK0aaCSyB https://t.co/8kVbyfaSA3
+
+![](img/1801746945754730548-GQEXHs1WQAAASDF.jpg)
+
+![](img/1801746945754730548-GQEXCsCXsAAd2r1.jpg)
+
 ## Citations
 
 1. GPT

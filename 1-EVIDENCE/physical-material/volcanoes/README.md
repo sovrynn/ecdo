@@ -23,3 +23,11 @@ Ice core proxy.
 "In this paper, we introduce a unique record of a 3.7 ka BP storm event preserved in a coastal tuff ring on Jeju Island, Korea. The tuff ring formed mostly above high tide level by primary volcanic processes, but contains three interbeds of horizontally laminated to hummocky/swaly cross-stratified deposits with intervening mud drapes up to an altitude of ~4.6 m above high tide level. These interbeds were formed by wave activity in a swash to surf zone when the sea level rose several meters above normal high-tide level during a storm event, and the triple intercalation of the wave-worked deposits reflects three tidal cycles during a storm event that lasted 1.5 day. Jeju Island contains the most complete record of an ancient storm event ever reported in the tuff ring, and highlights the significance of coastal volcanoes in the study of extreme depositional events in coastal areas, such as storms and tsunamis."
 
 GPT simplification: "There are three layers of sand or rock that are stacked on top of each other. These layers have patterns that are either flat (like a smooth blanket) or wavy (like gentle hills). In between these layers, there are thin coverings of mud. All of this goes up to a height of about 4.6 meters, which is a little bit above the highest point the ocean's waves reach."
+
+## "[Mount St. Helen's] Set S... [1]
+
+"[Mount St. Helen's] Set S apparently was erupted between about 13,600 and 12,500 years ago", right around Younger Dryas. So the fourth flood recorded here was the largest of them, and it occurred sometime around the YDB. Then there was another one since; time indeterminate. [1]…
+
+## Citations
+
+1. [Craig Stone](https://nobulart.com)

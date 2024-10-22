@@ -15,6 +15,14 @@
 "two daughters of Lot, who hid with him in a cave after the catastrophe of Sodom and Gomorrah, believed that they
 and their father were the only survivors in the land" Velikovsky pg 148 WIC
 
+## Fascinating discussion around the discoveries...
+
+Fascinating discussion around the discoveries at the Tall el-Hammam site (Sodom &amp; Gommorah) https://t.co/AX5U5ojpLR
+
+## This cosmic rubble rabble may...
+
+This cosmic rubble rabble may also have been implicated in the airburst annihilation of Tall el-Hammam, considered to be the most likely site of the biblical cities of Sodom and Gommorah. https://t.co/iSLs6pYrEu https://t.co/PgrfI9rp3P https://t.co/9UOf49062u
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Sodom_and_Gomorrah

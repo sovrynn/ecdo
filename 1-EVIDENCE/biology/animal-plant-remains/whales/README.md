@@ -15,6 +15,8 @@ C14 testing came back with such ludicrously short ages for all samples that the 
 
 ![](img/whales4.jpg)
 
+Following the moment of inertia more precisely along the 31st meridian suggests that these errant whales may have been carried SW from the Labrador sea (S2 -> S1). Vast portions of this land exhibit significant striation parallel to the the predicted flow direction.
+
 ## Michigan whales
 
 ![michigan whales](img/michigan-whales.jpg "michigan whales")

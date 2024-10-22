@@ -51,6 +51,10 @@ These are from a Canadian paper examining glacial meltwater flood erosion. Looks
 
 ![](img/bedrock.jpg)
 
+## That paper infers that erosion... [3]
+
+That paper infers that erosion of the landscape may very well have been prevented by the deciduous trees which grew there for a considerable period of its geological history. There may well have been nothing for us to find today were it not for those ancient forests.
+
 ## Citations
 
 1. https://laulima.hawaii.edu/access/content/group/dbd544e4-dcdd-4631-b8ad-3304985e1be2/book/chapter11/patterns.htm

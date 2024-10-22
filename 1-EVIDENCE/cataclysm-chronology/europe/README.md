@@ -22,7 +22,14 @@ https://x.com/nobulart/status/1835632165037486497
 
 ### Ancient Crete: Double dose destruction
 
+Ancient Crete: Double Dose Destruction. Three papers detailing additional evidence of Crete's destruction around 1700 BC: "It seems almost certain, therefore, that the central Cretan destruction levels were caused by an earthquake - the intense burning presumably resulting from… https://t.co/0zzVrNnMjY https://t.co/9jdc6EZGJ8
+
 ![](img/crete-double-dose.jpg)
+![](img/1838897273104678939-GYUQcC0WAAA6okm.png)
+
+![](img/1838897273104678939-GYUQef9W4AAcpbK.jpg)
+
+![](img/1838897273104678939-GYUQhS8WEAAum3P.jpg)
 
 [1] https://sci-hub.ru/10.2307/3968638
 
@@ -105,6 +112,10 @@ Sumerian Observation of the Kofels Impact Event:
 ![](img/kofels.jpg)
 
 "The Köfels landslide was a huge mountain rockslide (a SturzstromWikipedia) that occurred in the Austrian Alps about 9800 years ago near the present day village of Köfels. Some of its features mystified geologists for quite some time. One hypothesis was that it had been caused by an asteroid impact — a Köfels impact event — but more recent research has rejected the idea. This didn't stop a pair of British engineers from publishing a book that claims that a) it was an asteroid impact, b) it inspired a lot of myths, and c) it was recorded on an ancient Sumerian clay tablet." [12]
+
+## Ville III, Delos, Greece was...
+
+Ville III, Delos, Greece was destroyed 1759 BCE, the same time that Crete was deluged: "great tidal waves moved towards the island from the north and swept over it". [1] https://t.co/NXVluAkkl4 [2] https://t.co/rwmdPSInRY -
 
 ## Citations
 

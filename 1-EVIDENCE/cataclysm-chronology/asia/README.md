@@ -14,6 +14,14 @@ Many more such accounts from this region can be found at reference [1].
 
 Velikovsky mentions Nihongi, a chronicle of Japan from the "earliest period" when there was continuous darkness. The Emperor was Kami Yamato at this cataclysmic time. Look into dating for this source.
 
+## Sulawesi used to be called...
+
+Sulawesi used to be called Celebes. It appears to have quite a rich deluge mythology. https://t.co/Petc2zsdwN https://t.co/ZmiRNewbB4
+
+![](img/1803498500312768725-GQdQUOOWQAAc_V8.jpg)
+
+![](img/1803498500312768725-GQdQUOKXYAAGBbd.jpg)
+
 ## Citations
 
 1.  https://talkorigins.org/faqs/flood-myths.html#Asia

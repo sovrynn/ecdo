@@ -163,6 +163,12 @@ The species found were:
 
 Very interesting, had to see some visuals. Searched up this: https://m.youtube.com/watch?v=ieblA-Vf0mo
 
+## "...torn &amp; twisted as though...
+
+"...torn &amp; twisted as though by a cosmic hand in a godly rage... the Alaskan muck blanket is packed with animal bones &amp; debris in trainloads . Mammoth, mastodon, bison, horses, wolves, bears, lions &amp; fauna in the middle of some cataclysmic catastrophe." https://t.co/TxAwBTxutR https://t.co/RUhi8JIJgF
+
+![](img/1804136145816604991-GQmULvVWAAAQca5.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
