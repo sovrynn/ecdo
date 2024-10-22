@@ -84,6 +84,12 @@ https://landscheidt.info/?q=node/344
 
 Martineau (see `LITERATURE`) wrote a nice book on this topic.
 
+## Every system is a symphony;...
+
+Every system is a symphony; in this case played by an orchestra who have been together for a very long time. "This animation shows a representation of the orbits and movements of the planets in the TOI-178 system. New research by Adrien Leleu and his colleagues with several… https://t.co/TKYvipd67L
+
+See img/1832494717843730744-Wg0UuCFesHLwCt8P.mp4.
+
 ## Citations
 
 1. -

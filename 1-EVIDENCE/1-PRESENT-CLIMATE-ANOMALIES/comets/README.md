@@ -34,6 +34,10 @@ Perhaps a coincidence, but 2P/Encke and its Taurid companions were unusually clo
 
 RT JUST IN: Strange Fireball recorded entering the atmosphere over Tampa, Florida… WHAT IS THIS? https://t.co/zkCd2CEl…
 
+## RT This was seen from...
+
+RT This was seen from various locations in Chihuahua, Mexico last night.....Space junk? Meteor? Rocket? 🤷‍♀️ https://t.co/6km…
+
 ## Citations
 
 1. Craig Stone

@@ -137,6 +137,18 @@ Encke's companions are the Taurid meteor complex - the most prolific and frequen
 
 Excellent video on the Encke / Tunguska connection from Thunderbolts. https://t.co/ZMvZIPFLct
 
+## https://t.co/1v1Byz1Owz https://t.co/5QwVXvFOV7
+
+https://t.co/1v1Byz1Owz https://t.co/5QwVXvFOV7
+
+![](img/1802043497068847144-GQIdTpUXsAEbF5y.png)
+
+## https://t.co/MaEog2bmDu
+
+"Encke's visit in 2030 coincides almost to the day with a rare moment during which Jupiter's gravitational pull is neutralized by the other three giants in opposition, allowing the sun to briefly settle near to the solar system barycenter. https://youtu.be/oauf6W3Uz04"
+
+https://t.co/MaEog2bmDu
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

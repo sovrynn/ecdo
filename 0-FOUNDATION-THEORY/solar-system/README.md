@@ -55,6 +55,10 @@ Many lines of evidence suggest more than one planetary explosion in the solar sy
 
 “Stars go supernova [or micronova] when their [plasma] double-layer collapses.” …perhaps during a particular harmonic null zone every 3700 years? Also an excellent introduction to EU: https://t.co/eAXshzI6xd
 
+## Predicting how this might play...
+
+Predicting how this might play out is an example of the n-body problem, a special case of the three-body problem (which plagued Newton with regards to the Earth, Sun and Moon). [1] https://t.co/kKRrgyBR3h [2] https://t.co/1JMPBFuSx4
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Solar_cycle#Patterns

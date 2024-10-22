@@ -42,3 +42,17 @@ Purple skies: aurora above the cloud?
 ## Simultaneous upward strikes in Chicago...
 
 Simultaneous upward strikes in Chicago a few hours ago. Atypical polarity between ground and cloud. https://t.co/dBmecNzTWy
+
+## RT Spectacular ground-to-cloud lightning fills...
+
+RT Spectacular ground-to-cloud lightning fills the sky over Burleigh Heads, Australia. 📽: haydenmilne/IG https://t.co…
+
+## RT Another record broken in...
+
+RT Another record broken in China. The flow of the Yalu River in Liaoning Province reached 33,000 m³/s. It looks more like t…
+
+## Linjiang Flood
+
+In China, with the water level more than 6 meters higher than normal, Linjiang in Jilin Province has suffered its largest flood in history.
+
+https://t.co/gdAzv6Qz5B

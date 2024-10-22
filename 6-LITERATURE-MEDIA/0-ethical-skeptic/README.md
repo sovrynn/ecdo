@@ -42,6 +42,14 @@ https://theethicalskeptic.com/2024/06/13/the-principle-of-diminishing-narrative-
 
 ![](img/1795416645009092938-GOqZzoRWwAAN1nk.jpg)
 
+## RT The reason why mankind...
+
+RT The reason why mankind is an ignorant and uncontacted people. https://t.co/XYkKWtab8r
+
+![](img/1811508706888364065-GSPE5VxaoAAK2D9.jpg)
+
+![](img/1811508706888364065-GSPE5VoWEAA2929.png)
+
 ## Contents
 
 - `theory-part-[1-3]`: My personal quote compilations and short summaries of Ethical Skeptic's theses.

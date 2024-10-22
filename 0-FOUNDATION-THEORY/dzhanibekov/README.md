@@ -125,6 +125,10 @@ Dzhanibekov (2010). Translated from Russian into English using https://t.co/ZVU2
 
 See img/1841609295189999926-HNyYXjTvNiPVnOMm.mp4.
 
+## RT My favorite description so...
+
+RT My favorite description so far. https://t.co/pWhDzLTH99
+
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/

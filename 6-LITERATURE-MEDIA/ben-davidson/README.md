@@ -21,3 +21,8 @@ https://www.youtube.com/live/5u5XC9OKAOY?feature=shared
 ## GPT Trained on his theories
 
 https://chatgpt.com/g/g-sgpKLbqOh-bd-s-theories
+
+## Ben on this.
+https://t.co/89SLYsmBNQ
+
+Ben on this. https://t.co/89SLYsmBNQ

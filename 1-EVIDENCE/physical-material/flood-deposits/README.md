@@ -43,6 +43,12 @@ The Channelled Scablands. Evidence of a deluge which has been put on ice. A wide
 
 ![](img/1807412035807781120-GRU159dXMAA-6EB.png)
 
+### https://t.co/lKpgDHwlWx https://t.co/WxP3h5f86c
+
+https://t.co/lKpgDHwlWx https://t.co/WxP3h5f86c
+
+![](img/1807412891827466618-GRU4UodWsAAqPEh.png)
+
 ### We're going to take a...
 
 We're going to take a look at these next. "In recent years, however, cataclysmic flood landscapes with many similarities to the Channeled Scabland have increasingly been documented in many parts of the world (Baker 1997, 2002, 2007). Spectacular examples of GCRs [Giant Current…

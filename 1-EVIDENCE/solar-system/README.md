@@ -67,6 +67,12 @@ I've been looking at the intermediate 10th harmonic (1,850 years). Could there b
 
 ![](img/1829457198021329131-GWOJECsXgAAvZp_.png)
 
+## Published 11 June 2024. h/t...
+
+Published 11 June 2024. h/t to for finding this. https://t.co/XdxYWRHOWy https://t.co/TM736l3PvG
+
+![](img/1801561360188248515-GQBuVUpX0AELLnK.jpg)
+
 ## Citations
 
 1. Craig Stone

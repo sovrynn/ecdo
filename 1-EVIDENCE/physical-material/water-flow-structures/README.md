@@ -231,6 +231,39 @@ Those look a lot like mega current ripples to the North and West of Newgrange, r
 
 ![](img/1834681409081864595-GXYYi4AWwAABZLX.jpg)
 
+## The scorn of heretics. Red...
+
+The scorn of heretics. Red line is 50km. https://t.co/1m6CwwyqJU
+
+![](img/1809559238139621796-GRzX4rxWkAAP2cv.jpg)
+
+![](img/1809559238139621796-GRzYh4OWIAAlUWW.jpg)
+
+## @BrightInsight6 definitely spotted these.
+https://t.co/Jg9fbPr0Ly
+
+definitely spotted these. https://t.co/Jg9fbPr0Ly
+
+## do you know what these...
+
+do you know what these are? https://t.co/OmVGmBDwNi
+
+![](img/1809357899006616000-GRwhI61acAEJhOB.jpg)
+
+![](img/1809357899006616000-GRwhWqNboAAu5UG.jpg)
+
+## Mauritania: Mega Current Ripples? [1]...
+
+Mauritania: Mega Current Ripples? [1] For visual comparison: The largest sand dunes in the world, in terms of width from crest to crest, are most likely those located in the Badain Jaran Desert in China. These dunes span up to 3 kilometers from one crest to another. [2][3]… https://t.co/xXGx39tH1U
+
+![](img/1809353377723158949-GRwQdD3XUAAuU1R.jpg)
+
+![](img/1809353377723158949-GRwQ-GZacAMLTP3.jpg)
+
+![](img/1809353377723158949-GRwTxRracAQEweY.jpg)
+
+![](img/1809353377723158949-GRwVdb-XUAA5xn1.jpg)
+
 ## Citations
 
 1. ScholarAI

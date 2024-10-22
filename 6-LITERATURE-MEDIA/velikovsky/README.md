@@ -234,6 +234,10 @@ Velikovsky on Alaska, continued from the previous post. https://t.co/CwsT1MGs16
 
 A year was not always 365.2422 days. Velikovsky : https://t.co/oE4E5nShPN https://t.co/KGflTDmVM4
 
+## 30 years ago on this...
+
+30 years ago on this day. https://t.co/0eCecxKwRo
+
 # TODO
 
 - flood records

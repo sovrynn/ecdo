@@ -127,6 +127,12 @@ CERN is located on a high ridge in the Earth's crust, almost central to a large 
 
 It would seem that this situation might be averted by applying just the right touch of countering torsion during the early onset of destabilization. Perhaps nuclear-powered torsion engines aren’t so sci-Fi after all.
 
+## Well, well, well... ¨Global view...
+
+Well, well, well... ¨Global view Distribution of superconducting particle accelerators using SRF structures for electrons (orange), protons (purple) and heavy ions (pink). More than 30 SRF accelerators are in operation (circles), approximately 15 are presently under construction… https://t.co/ANyXG3oTPv
+
+![](img/1817968978326610216-GTq4y0fWUAAzLW0.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

@@ -58,6 +58,17 @@ https://t.co/V5T0PxE7Z8
 
 #Freemason #Freemasons https://t.co/V5T0PxE7Z8
 
+## Georgia Guidestones
+
+"The Georgia Guidestones are 108 miles from not one, but three Masonic Temples in Atlanta, one of which burned down in 1950. This is where the numerical symbolism becomes almost fun and the only rational conclusion is that the Georgia Guidestones were built by the Georgia Freemasons." - this is taken from a now defunct website which died shortly after its maintainer did a couple of years ago. His entire focus was the coming event, and he went into enormous detail about many aspects, including this page devoted to the guidestones. I think he was correct.
+[1] https://t.co/RhypV7guHg
+
+## Shortly before his death he...
+
+Shortly before his death he made a video, putting his face out there for the first time (I think he knew his time was short). This is an excerpt from that, recorded during a visit to Pike's Peak. https://t.co/139aFjrG6i
+
+See img/1816000237141393578-UeJtYvfNF1xCGebd.mp4.
+
 ## Citations
 
 1. Craig Stone

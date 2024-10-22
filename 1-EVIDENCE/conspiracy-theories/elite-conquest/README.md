@@ -105,6 +105,12 @@ The planning and implementation of this attack on humanity has been carried out 
 
 "History and current events clearly expose how racism/equality has proven to be an incredibly efficient political weapon, and take note, as a weapon, they are as old as government itself." - Jeff Chiacchieri (2017) https://t.co/2xs84Nvc6B https://t.co/UkVs87TACW
 
+## Tom Wheeler, former FCC chairman...
+
+Tom Wheeler, former FCC chairman speaking at the National press Club in 2016. Say what? https://t.co/TnrO0ntywA
+
+See img/1802719621121753449-X291ZxzJrFz55Or7.mp4.
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

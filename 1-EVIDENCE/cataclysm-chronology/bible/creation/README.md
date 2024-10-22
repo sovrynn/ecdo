@@ -48,6 +48,12 @@ https://m.youtube.com/watch?v=juZSxrPOd2k
 
 https://ancient-hebrew.org/studies-verses/genesis-1-1-the-vocabulary-and-mr-benners-translation.htm
 
+## 2012. The documentary version of...
+
+2012. The documentary version of the Adam and Eve Story. Hollywood's messaging has seldom been subtle. So who's interest have the creator's of this content served over the past 400+ years? https://t.co/clhnWFMbFZ
+
+![](img/1801760694028931377-GQEd9ugXoAAmRii.png)
+
 ## Citations
 
 1. https://www.historyofinformation.com/detail.php?id=3349

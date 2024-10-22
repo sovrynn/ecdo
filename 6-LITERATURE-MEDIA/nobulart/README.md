@@ -369,6 +369,46 @@ See img/1597139480972259328-2PrNmMf5ZqwJHFfl.mp4.
 
 Silent Weapons for Quiet Wars https://t.co/ucQOS1N4qo
 
+## Artificial Intelligence is the technology...
+
+Artificial Intelligence is the technology that will build the Akashic Library. https://t.co/6DW1B3Bcr9
+
+![](img/1805696033923453070-GQ8eNI5XcAAHNAB.png)
+
+## Interactive chart I created in...
+
+Interactive chart I created in October 2021 visualizing all 34,856 VAERS death reports spanning the period 1988 - October 2021, broken down by vaccine type and manufacturer. Interactive chart is here: https://t.co/4ZzSupnHjA https://t.co/ICJu0SjpLu
+
+![](img/1805253660227559888-GQ2LxU-WsAAamgw.jpg)
+
+![](img/1805253660227559888-GQ2MQUsWoAAhKKi.jpg)
+
+## Ignore the patients that died...
+
+Ignore the patients that died after treatment, and claim that the 'therapy' works. Sound familiar? Only this was more than a century ago. Seems that Pfizer took a page out of Pasteur's book of tricks. https://t.co/AW72eoeA0r https://t.co/JFMgwRmAsl
+
+![](img/1803171924744208686-GQYnKCVWIAM0Pan.png)
+
+![](img/1803171924744208686-GQYnKC2XEAIExlM.png)
+
+### https://t.co/Zzo6PA0q5j https://t.co/WBi3D91Gg3
+
+https://t.co/Zzo6PA0q5j https://t.co/WBi3D91Gg3
+
+![](img/1803033480260997315-GQWo-jgXoAAQra7.png)
+
+## The yoke of humanity's enslavement...
+
+The yoke of humanity's enslavement lies in the knowledge which has been occulted and weaponized against us for thousands of years. https://t.co/feUswfCWu6 https://t.co/gdJjBwNWz1
+
+![](img/1801578427088027995-GQB9ykHXcAAvvCn.png)
+
+## "the advertising material for the...
+
+"the advertising material for the trial and the informed consent forms stated that the placebo was saline or an inactive substance, when, in fact, it contained Merck’s proprietary highly reactogenic aluminum adjuvant" https://t.co/bogXNURdIb https://t.co/cOr5DyHlTP
+
+![](img/1801468618300969279-GQAZ7RaWcAArTCI.png)
+
 ## Good Articles
 
 Chan excerpts (tons of evidence in these):

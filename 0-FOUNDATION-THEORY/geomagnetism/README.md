@@ -120,6 +120,31 @@ The Keystone Pattern https://t.co/ys30hg3xaG
 
 Stuart Talbott details the electrical relationship between a comet and the solar environment - a negatively charged body suddenly entering into a more positively charged domain will discharge electrically. https://t.co/I5BhvSAU7O
 
+## Transient Luminous Events
+https://t.co/lRpKsuYRnF https://t.co/RvUhZppnXf
+
+Transient Luminous Events https://t.co/lRpKsuYRnF https://t.co/RvUhZppnXf
+
+![](img/1802698699052548125-GQR4dAqXsAAm1Yh.jpg)
+
+![](img/1802698699052548125-GQR4gjLXIAEIrpL.jpg)
+
+![](img/1802698699052548125-GQR4k-sWkAAOYZ2.png)
+
+![](img/1802698699052548125-GQR4otTWcAAxZ6o.png)
+
+## Thunderbolts of the gods (baby...
+
+Thunderbolts of the gods (baby ones) https://t.co/uIRpQdur8m
+
+See img/1802694357952168221-TQt6nWwDLYDXhmDI.mp4.
+
+## https://t.co/fL1YnfHoMP https://t.co/glbz0SJfQM
+
+https://t.co/fL1YnfHoMP https://t.co/glbz0SJfQM
+
+![](img/1802017656175776086-GQINc3JWEAAjrRJ.png)
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Earth%27s_magnetic_field

@@ -69,6 +69,14 @@ https://github.com/user-attachments/assets/d8e50867-4754-4258-b775-dc0f6c558d5b
 
 [1] North America: ECDO-derived prediction for S2&gt;S1 revisualized using the ETOPO 2022 elevation map. [2] The line of flow channels running NW-SE appear to me to have been breached simultaneously. [3] How could separate ice-dam breaches at different times have produced such… https://t.co/85KXeFpVVt https://t.co/hxZlshprgV
 
+## This looks like spillover into...
+
+This looks like spillover into BC. https://t.co/Kz0isKKdpR
+
+![](img/1807834666918969718-GRa37RGXoAAGN42.jpg)
+
+![](img/1807834666918969718-GRa4A37b0AARlQR.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

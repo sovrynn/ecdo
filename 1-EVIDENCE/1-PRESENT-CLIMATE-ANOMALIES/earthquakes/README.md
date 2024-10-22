@@ -21,3 +21,10 @@ https://youtu.be/ilFEKSZQv5o
 ## Turkish quake and solar activity...
 
 Turkish quake and solar activity mention. https://t.co/qzihxexO1s
+
+## [1] https://t.co/8mocws0ghP
+[2] https://t.co/ixGZyXXjG9 https://t.co/m2vqiIDMku
+
+[1] https://t.co/8mocws0ghP [2] https://t.co/ixGZyXXjG9 https://t.co/m2vqiIDMku
+
+![](img/1822664393198284830-GUtneVCXkAAgBts.png)

@@ -78,3 +78,7 @@ Spread of the Polynesian seafaring nations. Note how tightly confined they were 
 ## Iberian Agriculture 5400 BC
 
 Iberian agriculture "suddenly" appears ±5400 BC. https://sci-hub.ru/10.1016/j.jas.2015.05.007
+
+## RT The YONAGUNI underwater monument...
+
+RT The YONAGUNI underwater monument debate. 📍Is this a form of natural erosion? 📍Or, an ancient stone quarry from the l…

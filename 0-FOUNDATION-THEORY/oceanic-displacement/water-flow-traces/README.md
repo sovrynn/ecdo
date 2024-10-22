@@ -55,6 +55,22 @@ These are from a Canadian paper examining glacial meltwater flood erosion. Looks
 
 That paper infers that erosion of the landscape may very well have been prevented by the deciduous trees which grew there for a considerable period of its geological history. There may well have been nothing for us to find today were it not for those ancient forests.
 
+## Laboratory and computational fluid model...
+
+Laboratory and computational fluid model observations of the turbulent development of counter-flow vortices within laminar flows - the current ripple builders. The mechanism by which this (and other) large-scale ripple morphologies come about, I suspect. [1]… https://t.co/INGQhgYwdM
+
+![](img/1813981399172694321-GSyLnMfXMAAKtsx.png)
+
+![](img/1813981399172694321-GSyLnMjW4AAitfn.jpg)
+
+![](img/1813981399172694321-GSyNQZ0XcAAVDUo.jpg)
+
+## My thinking/understanding on this: As...
+
+My thinking/understanding on this: As the laminar flow approaches the low pressure boundary disruption, the flow velocity becomes increasingly depth-stratified. Counter-flow standing wave propagation and flow intensity variations are evidenced by the current ripple morphology… https://t.co/5oqbLZWwaC
+
+![](img/1813939032067338603-GSxjUnlW0AAce7Z.jpg)
+
 ## Citations
 
 1. https://laulima.hawaii.edu/access/content/group/dbd544e4-dcdd-4631-b8ad-3304985e1be2/book/chapter11/patterns.htm

@@ -54,6 +54,10 @@ More images in `img/`.
 ![](img/capivara2.jpg)
 ![](img/capivara3.jpg)
 
+## Göreme Valley, Türkiye https://t.co/ZoXkvmaTCi
+
+Göreme Valley, Türkiye https://t.co/ZoXkvmaTCi
+
 ## Citations
 
 1. https://nobulart.com
