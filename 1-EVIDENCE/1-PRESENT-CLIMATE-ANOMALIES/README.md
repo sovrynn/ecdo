@@ -93,6 +93,10 @@ https://x.com/US_Stormwatch/status/1815824286562558358
 
 Aftermath https://x.com/justin_hart/status/1815835457315561715?s=46
 
+## Simultaneous upward strikes in Chicago...
+
+Simultaneous upward strikes in Chicago a few hours ago. Atypical polarity between ground and cloud. https://t.co/dBmecNzTWy
+
 # TODO
 
 https://watchers.news/2024/09/26/swarm-of-over-100-earthquakes-hits-hanford-nuclear-site-near-tri-cities-in-washington-u-s/

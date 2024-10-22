@@ -24,6 +24,12 @@ The Shang dynasty existed in China during this period. A cursory search doesn't 
 
 Cursory search not turning up major recorded cataclysms during this period.
 
+## The Greek Dark Ages (c....
+
+The Greek Dark Ages (c. 1200–800 BC) "At the beginning of the Postpalatial Bronze Age, the so-called Late Bronze Age collapse of civilisation in the Eastern Mediterranean world in c. 1200–1150 BC took place, as the great palaces and cities of the Mycenaeans were destroyed or… https://t.co/qYYEvjgoZF https://t.co/iaPp5UyE2N
+
+![](img/1826627432377418216-GVl5VZmX0AANHJj.jpg)
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Shang_dynasty

@@ -56,6 +56,16 @@ Historical continuity of significant continued human activity without a recorded
 
 Nobulart's planetary harmonic and cataclysm chronology timeline in `timeline.xls`.
 
+## 687BC: https://t.co/02TRCIUCkg 1750BC: https://t.co/58usFuKZHZ 5200BC:...
+
+687BC: https://t.co/02TRCIUCkg 360 days
+
+1750BC: https://t.co/58usFuKZHZ Minoan Crete
+
+5200BC: https://t.co/QMzKiE0S2f Noah's Flood
+
+9950BC: https://t.co/E5RTTC0G6e "Out of Eden, the Anthropocene, and the last Younger-Dryas extinction"
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/4th_century_BC

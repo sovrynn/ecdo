@@ -57,6 +57,16 @@ North America: ECDO-derived prediction for S2>S1 revisualized using the ETOPO 20
 ![](img/na-erosion1.jpg)
 ![](img/na-erosion2.jpg)
 
+## Tracking North America's return from...
+
+Tracking North America's return from State 2 to State 1. https://t.co/yhrf4RlLvJ
+
+See Nobulart's visualizations.
+
+### [1] North America: ECDO-derived prediction...
+
+[1] North America: ECDO-derived prediction for S2&gt;S1 revisualized using the ETOPO 2022 elevation map. [2] The line of flow channels running NW-SE appear to me to have been breached simultaneously. [3] How could separate ice-dam breaches at different times have produced such… https://t.co/85KXeFpVVt https://t.co/hxZlshprgV
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

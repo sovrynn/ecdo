@@ -24,3 +24,11 @@ Its is seen in the two pillars, above and below, male and female, sun and moon, 
 https://www.reddit.com/r/todayilearned/comments/80urh9/til_that_baphomet_is_often_mistaken_for_satan_but/
 
 This idea goes all the way back to nimrod and his religion and guarded by the secret societies. Martin is just signaling that he is playing his role. He is part of the team... they all are.
+
+## The "Grooved Ware" culture that... [1]
+
+The "Grooved Ware" culture that built the megaliths of Orkney and Ireland (and many other places) were likely the bearers of the ancient Egyptian/Enochian tradition, which later evolved into the druidic culture. From the Druids came Freemasonry, the last remaining living oeal…
+
+## Citations
+
+1. Craig Stone

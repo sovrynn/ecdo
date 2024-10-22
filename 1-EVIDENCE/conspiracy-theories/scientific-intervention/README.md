@@ -77,6 +77,12 @@ The estimated magnetic field strength near to the Earth's core is 25-40 teslas. 
 ![](img/lhc2.jpg)
 ![](img/lhc3.jpg)
 
+### Approx. 0.63 gigajoules (GJ) of... [1]
+
+Approx. 0.63 gigajoules (GJ) of energy would be required to establish a 10,000 tesla magnetic field. The LHC can store up to 9GJ of energy in its dipole magnets during operation. This stored energy is primarily due to the magnetic field energy stored in the superconducting coils. https://t.co/4PQqXGZnwG
+
+![](img/1802368908659224705-GQNM9o2XcAALY-v.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

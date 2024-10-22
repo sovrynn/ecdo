@@ -60,6 +60,12 @@ It's a problem with shorter term proxies. They're generally softer and less stab
 
 Paleomagnetic records of the past 10,000 years show something interesting: the magnetic north does not completely invert, but the direction of its wander abruptly changes direction at certain points. This would be consistent with a crustal displacement relative to the magnetic field. Notice there appear to be at least four of these in the past 10ky.
 
+### Notice that the rate of...
+
+Notice that the rate of wander returns to precisely the same vector after each change (because the magnetic field is maintaining its independent path across rotations). https://t.co/exw3ukqh2r
+
+![](img/1799395705045614986-GPi81jAWAAAwRcN.png)
+
 ## Setrno-Etrussia 2700 BP
 
 "THE ‘STERNO-ETRUSSIA’ GEOMAGNETIC EXCURSION AROUND 2700 BP AND CHANGES OF SOLAR ACTIVITY, COSMIC RAY INTENSITY, AND CLIMATE"

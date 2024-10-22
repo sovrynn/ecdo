@@ -6,6 +6,11 @@
 
 *"The effect arises between two bodies when their gravitational interaction slows a body's rotation until it becomes tidally locked. Over many millions of years, the interaction forces changes to their orbits and rotation rates as a result of energy exchange and heat dissipation. When one of the bodies reaches a state where there is no longer any net change in its rotation rate over the course of a complete orbit, it is said to be tidally locked.[3] The object tends to stay in this state because leaving it would require adding energy back into the system. The object's orbit may migrate over time so as to undo the tidal lock, for example, if a giant planet perturbs the object."*
 
+## Earth-moon tidal locking occurs due... [2]
+
+Earth-moon tidal locking occurs due to obliquity in both of their gravitational fields. Neither centers of gravity are coincident with their axes of rotation, with Earth's CoG shifting as mas redistribution on an in the planet is an ongoing process. https://t.co/fHhdwXzTfP
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Tidal_locking
+2. Craig Stone

@@ -45,3 +45,11 @@ Canada:
 
 ![](img/canada-aurora.jpg)
 ![](img/canada-aurora2.jpg)
+
+## RT #aurora from #donegal last...
+
+RT #aurora from #donegal last night #northernlights #Ireland https://t.co/YZyHW6oK5s
+
+![](img/1843246382704202219-GZRbC5OWAAAD4Ms.jpg)
+
+![](img/1843246382704202219-GZRbC5gW8AABPlU.jpg)

@@ -39,3 +39,9 @@ This is a cross-section of the Mediterranean. Note the 1km thick layer of salt a
 "According to this model, water from the Atlantic Ocean refilled the dried-up basin through the modern-day Strait of Gibraltar. Ninety percent of the Mediterranean Basin flooding occurred abruptly during a period estimated to have been between several months and two years, following low water discharges that could have lasted for several thousand years.[3] Sea level rise in the basin may have reached rates at times greater than ten metres per day (thirty feet per day). Based on the erosion features preserved until modern times under the Pliocene sediment, Garcia-Castellanos et al. estimate that water rushed down a drop of more than 1,000 metres (3,000 ft) with a maximum discharge of about 100 million cubic metres per second (3.5 billion cubic feet per second), about 1,000 times that of the present-day Amazon River. Studies of the underground structures at the Gibraltar Strait show that the flooding channel descended gradually toward the bottom of the basin rather than forming a steep waterfall."
 
 https://en.wikipedia.org/wiki/Zanclean_flood
+
+## Younger Dryas Impact: "Out of Eden, the Anthropocene, and the last Younger-Dryas extinction" (hard copy here)
+
+https://theworldwideflood.com/2022/01/12/out-of-eden-the-anthropocene-and-the-last-younger-dryas-extinction/
+
+https://www.maajournal.com/index.php/maa/article/view/1009/918

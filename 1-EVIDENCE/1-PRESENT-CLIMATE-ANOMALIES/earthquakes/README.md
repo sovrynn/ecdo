@@ -17,3 +17,7 @@ Interesting visualisation of the uptick in seismic activity after 1970. It light
 ![](img/seismic-uptick.jpg)
 
 https://youtu.be/ilFEKSZQv5o
+
+## Turkish quake and solar activity...
+
+Turkish quake and solar activity mention. https://t.co/qzihxexO1s
