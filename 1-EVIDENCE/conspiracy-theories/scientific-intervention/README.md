@@ -63,6 +63,18 @@ https://x.com/RealDutchsinse/status/1818805390974263741
 Links to the source documents are here:
 https://nobulart.com/the-perfect-storm/#chemtrails
 
+### I have a suspicion that...
+
+I have a suspicion that this may be an attempt to place a Faraday cage around the planet, with the intention of mitigating or preventing the trigger for the ECDO event. The other claimed harms exist, but I do not think that they are the intended application of this technology. https://t.co/oQ7nPz2m1o
+
+![](img/1802017097909760423-GQIMWPBWcAAv9lH.png)
+
+![](img/1802017097909760423-GQIMZe0WoAA6rES.png)
+
+![](img/1802017097909760423-GQIMkB8XsGEhmLd.png)
+
+![](img/1802017097909760423-GQIM2B6WAAAKkXC.jpg)
+
 ## Hurricane and Tornado Control
 
 Hurricane and Tornado Control Device US Patent: 20030085296 A1 (https://patents.justia.com/patent/20030085296)

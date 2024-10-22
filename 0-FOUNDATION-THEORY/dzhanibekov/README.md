@@ -115,6 +115,10 @@ The bands along the bottom of the chart shows where mass has been subtracted fro
 
 See `img/1841595827430502521-XPYGKXWoFKQIpcjh.mp4`.
 
+## Dzhanibekov Effect applied to Earth...
+
+Dzhanibekov Effect applied to Earth Gravitational Model (EGM96 GEOID) https://t.co/ANDf7FMlxb
+
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/

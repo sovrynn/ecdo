@@ -44,6 +44,11 @@ Preexisting Topography KMLs (all bad):
 
 There is an index of SRTM elevation data [here](https://srtm.kurviger.de) at srtm.kurviger.de but after working with this one for a few hours I deemed the data is bad. Elevations of positive 1000m in the sea and duplicated elevation all over. Unredeemable.
 
+## Varved Sediments Database.
+https://t.co/Ps7ghjSQ3e
+
+Varved Sediments Database. https://t.co/Ps7ghjSQ3e
+
 # TODO
 
 Clay proxy magnetic data: https://sci-hub.ru/10.1080/09291017809359640

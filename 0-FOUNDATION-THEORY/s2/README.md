@@ -74,6 +74,14 @@ The fact that Mesoamerican myths of 2000 BC indicate that the Sun rose from the 
 
 The 50-60 years spent in State 2 may be where the additional 5 days per year observed by Velikovsky originated. If S2 has a wider distribution of mass than S1, then this would infer a possibly significant commensurate reduction in angular velocity in S2. https://t.co/oE4E5nRK0f
 
+## 361.6 days per year is...
+
+361.6 days per year is GPT4's estimate for State 2, accounting for the predicted change in the solar day length due to relocation of land, ice and the equatorial bulge by 104 degrees north long the 31 meridian east. Not far removed from the 360 days as used in many calendars… https://t.co/jyeUN9FgyK
+
+## Could it be that the...
+
+Could it be that the melting of the previous polar ice caps is what triggers the return to state 1? That ice is a mighty large flywheel. How long might this take? 50 years?
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

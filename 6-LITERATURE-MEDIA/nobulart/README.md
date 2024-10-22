@@ -24,6 +24,10 @@ I use boxySVG for most of the layout and compositing. It’s nimble and efficien
 2. https://ns6t.net/azimuth/azimuth.html
 3. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/ .
 
+### V4.0 Resources : [1] https://t.co/KvDmD5ZCGS...
+
+V4.0 Resources : [1] https://t.co/KvDmD5ZCGS (521 MB) [2] https://t.co/ccM8H1Lmar (113 MB) [3] https://t.co/hMiBgL05jk (17 MB - some overlays for use in Google Earth Pro)
+
 ## Time portents
 
 "Trivial omens give warning of trivial events, but the momentous historical events that attend the birth of a greater cycle in time are preceded by phenomena of a portentous nature, through which the least observant can scarcely fail to become aware of impending change."

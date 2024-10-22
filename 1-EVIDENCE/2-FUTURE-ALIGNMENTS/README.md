@@ -50,16 +50,6 @@ In June 2030, which is approximately the next Landscheidt minimum, you can see [
 
 In terms of a gravitational null effect, Earth passes around the Sun on the side of Jupiter during May/June 2030, at the same time as Jupiter is opposite the other gas giants (maximum effect of gas giants canceling each other out).
 
-## Gas giant harmonic (June 2030)
-
-See `EVIDENCE/solar-system` for details.
-
-An important date in this data is June 2030 - grand solar minimum.
-
-## Encke Comet (June 2030)
-
-There will be a historically close pass with Encke in June 2030. ±40 million km.
-
 ## Aldebaran and Saturn/Mars 2030 Alignment
 
 On Aldebaran's alignment with Saturn/Mars, written in Indian texts as an omen of great catastrophe.
