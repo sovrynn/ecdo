@@ -21,3 +21,9 @@ https://classics.mit.edu/Plato/timaeus.html
 
 “Let me begin by observing first of all, that nine thousand was the sum of years which had elapsed since the war which was said to have taken place between those who dwelt outside the pillars of Heracles and all who dwelt within them; this war I am going to describe. Of the combatants on the one side, the city of Athens was reported to have been the leader and to have fought out the war; the combatants on the other side were commanded by the kings of Atlantis.” – Plato (360 BCE)
 https://nobulart.com/critias/
+
+## This was written 360 B.C....
+
+This was written 360 B.C. There's a timeline clue here in Plato's Critias. By his choice of language, maybe 4 or more deluges since the Younger Dryas event, which is a confirmation on the Egyptian accounts. https://t.co/7QxWhjUOhr https://t.co/0gt387U758
+
+![](img/1802855556958543981-GQUHbypXcAABhNP.png)
