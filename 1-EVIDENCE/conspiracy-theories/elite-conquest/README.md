@@ -101,6 +101,10 @@ The planning and implementation of this attack on humanity has been carried out 
 
 “We believed that the entire world should know about this plan, so we distributed internationally one-hundred of these manuscripts, to ask individuals at top level positions their opinions. The consensus opinion was to… https://t.co/O1W5Bo2xVN
 
+## "History and current events clearly...
+
+"History and current events clearly expose how racism/equality has proven to be an incredibly efficient political weapon, and take note, as a weapon, they are as old as government itself." - Jeff Chiacchieri (2017) https://t.co/2xs84Nvc6B https://t.co/UkVs87TACW
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

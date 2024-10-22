@@ -133,6 +133,10 @@ Encke's companions are the Taurid meteor complex - the most prolific and frequen
 
 ![](img/1798073508251172992-GPQKTzHagAMNdnH.jpg)
 
+## Excellent video on the Encke...
+
+Excellent video on the Encke / Tunguska connection from Thunderbolts. https://t.co/ZMvZIPFLct
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

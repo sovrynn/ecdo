@@ -46,3 +46,13 @@ Finally, we should not forget that recent 14C measurements of well-preserved tis
 Wildfire is also recorded as blowing the great rivers out of their beds, as the oral histories of the Indians of California and the traditions in the Near East around the Euphrates record. The Aborigines in southern Australia gave an account of the horrible heat descending from a red-hot sky. The heat was so extreme that people could not endure it, and the men killed their children and wives, and finally themselves (Walk, 1931, p. 76).
 
 During this semi-permanent night, the temperature dropped very quickly. Therefore, according to the myths in elevated regions (such as Iran) and in high geographic latitudes (Edda, traditions of the Yámana in Tierra del Fuego), the rainfall soon transformed into snowfall. The impact winter continued in the regions mentioned for the next three years (Edda; Derolez, 1976, p. 286).
+
+## A few illustrations from the...
+
+A few illustrations from the Tollman paper. https://t.co/w4b5JwtkQK https://t.co/oDx8FGIHlj
+
+![](img/1804479498831679511-GQrMMUsXMAEFak7.png)
+
+![](img/1804479498831679511-GQrMMUqXMAAM1T0.png)
+
+![](img/1804479498831679511-GQrMX42XEAAFBSF.png)

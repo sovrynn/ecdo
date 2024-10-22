@@ -180,6 +180,195 @@ Inspired by this comment some years ago and created really as a lark: I started 
 
 See img/1807372083858464795-zS0Z6iPujZ2z8Itt.mp4.
 
+## "Although secret societies were very...
+
+"Although secret societies were very well organized and funded in early America, a formidable force arose to oppose them and quietly challenge their control of the developing nation. This force was the spiritual zeal of the Christian colonists." https://t.co/YlBPixTsSK
+
+## "I think that the Deagel...
+
+"I think that the Deagel 2025 Forecast figures are based on an assumption, or perhaps knowledge, that there is a storm coming – the confluence of genocide, manufactured chaos, and anticipated earth changes." - Me (2021) https://t.co/R3UzWhRkfR https://t.co/1RIAM8f90S
+
+![](img/1803003944043524373-GQWOX2DW4AAoI88.png)
+
+## “If one man can be...
+
+“If one man can be singled out as the person most responsible for the colonization of America, the honor would certainly fall to the head of both Masonry and Rosicrucianism of his era, Sir Francis Bacon." - William T. Still (1991) https://t.co/tewE5d6Cqf
+
+## "War is not, as is...
+
+"War is not, as is widely assumed, primarily an instrument of policy utilized by nations to extend or defend their expressed political values or their economic interests." - Report from Iron Mountain (1967) https://t.co/yPdUOpL5Oo
+
+## Trivial omens warn of trivial...
+
+Trivial omens warn of trivial events, but the momentous historical events that attend the birth of a greater cycle in time are preceded by phenomena of a portentous nature, through which the least observant cannot fail to become aware of impending change. https://t.co/feUswfCWu6
+
+## "666 has been the subject...
+
+"666 has been the subject of more comment and speculation than any other cabalistic number, principally on account of the last verse of Revelation 13." https://t.co/oDMuyOLMJS
+
+## "The Globalists and their Malthusian,...
+
+"The Globalists and their Malthusian, Flying Monkey Greens are anti-human, anti-God, they want to reduce the Global population... to 1 billion people. To see the future all you need do now is follow the trend to an obvious conclusion." - Andrew Quin https://t.co/Uy3qlj7Jbc
+
+## “Cancer was practically unknown until...
+
+“Cancer was practically unknown until compulsory vaccination with cowpox vaccine began to be introduced. I have had to deal with a least two hundred cases of cancer, and I never saw a case of cancer in an unvaccinated person.” - Dr. W. B. Clarke https://t.co/8ZanOWCdrt
+
+## “The idols and false notions...
+
+“The idols and false notions which are now in possession of the human understanding, and have taken deep root therein, not only so beset men’s minds that truth can hardly find entrance..” – Francis Bacon (1620) https://t.co/B91tZBoMQU
+
+## “This personage, as is the...
+
+“This personage, as is the way among mankind, was more valued after his death than while he lived. His enemies were courtiers residing at London, while his admirers consisted wholly of foreigners.” – Voltaire (1733) https://t.co/HLQAOJhq9p
+
+## “The ancient Atlantean texts, have...
+
+“The ancient Atlantean texts, have their own predictions about what will occur regarding Earth changes in the next few years. There are also predictions about socioeconomic changes.” – Jon Peniel (1991) https://t.co/l10sY4XJOQ
+
+## “‘Every state is founded on...
+
+“‘Every state is founded on force,’ said Trotsky... We have to say that today a STATE is a human community that (successfully) claims the monopoly of the legitimate use of physical force within a given territory.” - Max Weber (1918) https://t.co/1dBVlOigL7
+
+## “The next coming reset may...
+
+“The next coming reset may be the largest and most important of all and is often referred to as the Plasma Apocalypse or Pole Shift.” – Brian Austin Lambert https://t.co/mPoSJ3rBQN #poleshift
+
+## "The ability for each individual...
+
+"The ability for each individual to develop their mental capacity has most evidently been subverted over past centuries." Richard Grove, The Occulted Keys of Wisdom (2011) https://t.co/ALhpWN15yq
+
+## RT "Early in 2023, genomics...
+
+RT "Early in 2023, genomics scientist Kevin McKernan made an accidental discovery. While running an experiment in his Boston…
+
+## “The hypothesis of the explosion...
+
+“The hypothesis of the explosion of a number of planets and moons of our solar system during its 4.6-billion-year history is in excellent accord with all known observational constraints, even without adjustable parameters.” https://t.co/v40radMJxe
+
+## "Should this sizeable number of...
+
+"Should this sizeable number of [reported] fatalities be conﬁrmed, the COVID-19 vaccines would constitute the largest biological safety disaster in human history." https://t.co/Zp3k14Arr3
+
+## MindWar https://t.co/gvQmsEY4YA "Unlike PSYOP, MindWar...
+
+MindWar https://t.co/gvQmsEY4YA "Unlike PSYOP, MindWar has nothing to do with deception or even with “selected” – and therefore misleading – truth. Rather it states a whole truth that, if it does not now exist, will be forced into existence by the will of the United States."
+
+## Immortality Day “Immortality Day” was...
+
+Immortality Day “Immortality Day” was first published in 1912 under the title “Immortal Fride: A. Bogdanov's Fantastic Narrative”. https://t.co/MspBwDrqDF
+
+## Epidemics During Grand Solar Minima...
+
+Epidemics During Grand Solar Minima https://t.co/ITQGnjVzVm
+
+## #CholeraOutbreak “Chizhevsky, in his work,...
+
+#CholeraOutbreak “Chizhevsky, in his work, pointed out the connection between cycles of cholera outbreaks and outbreaks of solar activity.” https://t.co/48JDqzLAbY “The Sun... Could Be In Its Strongest Cycle Since Records Began“ https://t.co/QohR6nqL11
+
+## "Hardly had the swine flu...
+
+"Hardly had the swine flu campaign been completed than the reports of the casualties began to pour in. Within a few months, claims totalling $1.3 billion had been filed by victims who had suffered paralysis from the swine flu vaccine." - Eustace Mullins https://t.co/O2YKOlpWml
+
+## "If the word government literally...
+
+"If the word government literally means 'to control the mind', therefore wouldn’t learning how to control your own mind negate the opportunity for external government?" - Richard Grove (2011) https://t.co/ALhpWN15yq
+
+## "The institution of religion exists...
+
+"The institution of religion exists only to keep mankind in order, and to make men merit the goodness of God by their virtue. Everything in a religion which does not tend toward this goal must be considered alien or dangerous." - Voltaire (1764) https://t.co/tQ5SJovfi9
+
+## “The emblematical meaning of the...
+
+“The emblematical meaning of the Sun is well known to the enlightened and inquisitive Free-Mason; and as the real Sun is situated in the center of the universe, so the emblematical Sun is the center of real Masonry." https://t.co/V5T0PxE7Z8
+
+## “When a man has so...
+
+“When a man has so far corrupted and prostituted the chastity of his mind as to subscribe his professional belief to things he does not believe, he has prepared himself for the commission of every other crime." - Thomas Paine (1794) https://t.co/JdboKbDM5L
+
+## "Laziness and cowardice are the...
+
+"Laziness and cowardice are the reasons why so great a portion of mankind remain under tutelage, and why it is so easy for others to set themselves up as their guardians." - Immanuel Kant (1784) https://t.co/FQbmiLuwAU
+
+## "The people’s world today is...
+
+"The people’s world today is like a machine with a million gears, and every tooth on every gear is calculated to drive us into a collective dependent mindless herd with an automatic response to authority." - Jeff Chiacchieri (2017) https://t.co/qy6vEB6OKU
+
+## A story of Atlantis by...
+
+A story of Atlantis by W.P Phelon (1903) https://t.co/BETUgNCJES
+
+## "More than three-quarters of all...
+
+"More than three-quarters of all instances of human unrest—battles, upheavals, riots, revolutions, and wars—occur during the periods of the maximum number of sunspots in the Sun." https://t.co/wdKdH72jw4
+
+## "The wise man will not...
+
+"The wise man will not go where he is not wanted, nor be so blindly foolish as to attend the funeral of his own joy." - Thomas H. Burgoyne, The Mysteries of Eros (1887) https://t.co/WtUXsc0KXH
+
+## Treacherous beings produce the greatest...
+
+Treacherous beings produce the greatest portion of the suffering and misery which afflicts humanity. The time has now come when certain facts in regard to this orb of evil are for the first time given out to the world “pro bono publico.” https://t.co/oevdGQ6Uuo
+
+## “By the early 20th Century...
+
+“By the early 20th Century almost one in every two people smoked, but the incidence of lung cancer remained so low that it was almost immeasurable. Then something extraordinary happened on July 16, 1945..” https://t.co/xnmfOmjLFi
+
+## “Perhaps, with another geological upheaval...
+
+“Perhaps, with another geological upheaval facing us, we are now once again on the verge of a new quantum leap in what we might call “creative evolution”, or transitioning to the next higher stage in human development.“ https://t.co/BCrSN0Chc3
+
+## “The consensus opinion was to...
+
+“The consensus opinion was to distribute this to as many people as who wanted it, to the end that they would not only understand that “War” had been declared against them, but would be able to properly identify the true enemy to Humanity.” https://t.co/ucQOS1NCfW
+
+## "Lust is not love. Lust...
+
+"Lust is not love. Lust is the animal or passional appetite, with nothing human about it, and woe be to those whose love cannot rise above the plane of lust." - Thomas H. Burgoyne (1889) https://t.co/wFoNMIMAr2
+
+## "Unless we wake up to...
+
+"Unless we wake up to the absurdity of the motivating narrative, this is likely only to be the beginning of the disasters that will follow from the current irrational demonization of CO₂.” - Prof. Richard Lindzen https://t.co/gnV4LmzPDc https://t.co/PhdPBx0Unf
+
+![](img/1601271210540945410-FjjbhTiXwAEjxhP.png)
+
+## "ALWAYS remain the complete master...
+
+"ALWAYS remain the complete master of your own organism at any cost. Once you submit to hypnosis or any control, it is difficult to free yourself, and the oftener you submit the weaker you become until you are no longer able to make any decision for yourself." T.H Burgoyne (1889) https://t.co/U0mGjsdAV5
+
+![](img/1600817210670583808-Fjc-ug9WQAMlKqP.jpg)
+
+## "The walls of the mighty...
+
+"The walls of the mighty Babylon and the eight-volved Tower of Babel or cloud-encompassed Bel were never constructed to resist any mortal foe. NO. Those city walls were not made to defy the strength of armies, but to resist the fearful forces of Nature..." https://t.co/DJGOtcMlG6
+
+## Guest: Dr. Aseem Malhotra
+https://t.co/15QF8Tplaj
+
+Guest: Dr. Aseem Malhotra https://t.co/15QF8Tplaj
+
+## “It simply doesn’t get any...
+
+“It simply doesn’t get any more clear than this that the people responsible for safety monitoring at the CDC are either incompetent, corrupt, or both.” - Steve Kirsch https://t.co/B96qSfN3WX
+
+## CIA Director John Brennan, 29...
+
+CIA Director John Brennan, 29 June 2016, Stratospheric Aerosol Injection (SAI) Geoengineering. https://t.co/CdwPze1foG https://t.co/x4A3YuOyQP
+
+See img/1597139480972259328-2PrNmMf5ZqwJHFfl.mp4.
+
+## "Somewhere between Darwinian evolutionary dogma,...
+
+"Somewhere between Darwinian evolutionary dogma, good-old-boy peer reviews, and powerful sub rosa occult societies, a decision was made to eliminate æther from mainstream science and replace it with space as a vacuum.." https://t.co/ejIjdHzcWo
+
+## "...the aim of public education...
+
+"...the aim of public education is not to fill the young of the species with knowledge and awaken their intelligence. ... Nothing could be further from the truth." H.L Mencken (1924) https://t.co/D0fLPLg5IY
+
+## Silent Weapons for Quiet Wars...
+
+Silent Weapons for Quiet Wars https://t.co/ucQOS1N4qo
+
 ## Good Articles
 
 Chan excerpts (tons of evidence in these):

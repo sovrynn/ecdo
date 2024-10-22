@@ -29,6 +29,12 @@ Notable chapter contents:
 	- ch 7:
 	- ch 8:
 
+## The word "comet" appears 326...
+
+The word "comet" appears 326 times in the 447 pages of Worlds in Collision. https://t.co/VIm1chVVQL
+
+![](img/1802086669862019348-GQJMOYzWAAAFOH6.jpg)
+
 ### p1 ch 4:
 
 pg 100: emperor yahou account

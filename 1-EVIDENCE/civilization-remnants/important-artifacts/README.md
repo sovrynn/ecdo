@@ -78,15 +78,6 @@ This particular "bowl" has a maximum outer diameter (including the protrusions) 
 
 https://en.wikipedia.org/wiki/Dendera_zodiac
 
-## Sphinx Erosion
-
-A focused investigation into the deep erosion on and around the sphinx. Presented by Charlton Heston. 1993
-https://odysee.com/@TheAgeofAquariusPI4PSI2:1/The-Mystery-of-the-Sphinx-1993:a
-
-Excerpt from Mystery of the Sphinx (1993) (in the folder)
-
-[1] https://odysee.com/@TheAgeofAquariusPI4PSI2:1/The-Mystery-of-the-Sphinx-1993:a
-
 ## Pontos coins
 
 PONTOS, under Mithridates VI (120-65 BCE), issued c. 120-100 BCE. 1.30g, 10mm Obv: Head of horse right, with star of eight points on its neck Rev: Comet star of eight points with trail to right. Lovely depiction of a comet on the reverse. It was commonly accepted that both the birth and beginning of the reign of Mithridates VI, the famous enemy of the Roman Republic, were marked by the appearance of brilliant comets. Chinese records actually support the view that there was a supernova in 134 and a comet in 120. It is likely that this coin depicts those important portents; interestingly, the obverse star lacks a tail, in keeping with the supernova hypothesis.

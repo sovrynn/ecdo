@@ -34,6 +34,14 @@ https://theethicalskeptic.com/2024/06/13/the-principle-of-diminishing-narrative-
 - Intent in DNA design: https://theethicalskeptic.com/2019/06/30/the-dual-burden-model-of-inferential-ethics/
 - https://theethicalskeptic.com/2024/08/17/the-dark-pentad-five-traits-of-abusive-dominion/
 
+## "When you have eliminated the...
+
+"When you have eliminated the impossible, whatever remains, however improbable, must be the truth." ~ Sherlock Holmes, “The Sign of the Four” by Sir Arthur Conan Doyle https://t.co/P3MWyLsyO7 https://t.co/z0UPAN9HPY
+
+![](img/1795416645009092938-GOqZzobWAAAGbcr.png)
+
+![](img/1795416645009092938-GOqZzoRWwAAN1nk.jpg)
+
 ## Contents
 
 - `theory-part-[1-3]`: My personal quote compilations and short summaries of Ethical Skeptic's theses.

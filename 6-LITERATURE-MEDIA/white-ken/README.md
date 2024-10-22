@@ -21,3 +21,7 @@ Found it in the book. That is an interesting observation. I imagine that this ha
 ![](img/ken-white2.jpg)
 
 https://cdnsciencepub.com/doi/abs/10.1139/p69-242
+
+## "Just as a toy top...
+
+"Just as a toy top or a gyroscope will occasionally wobble under certain circumstances, apparently the earth too has intermittently “toppled” when its poles sought to converge, causing its crust to make dramatic shifts off the polar axis." Ken White (1994) https://t.co/BCrSN0Chc3

@@ -63,6 +63,8 @@
   - This post claims to uncover a network of elites behind the COVID-19 pandemic, arguing that the virus and its vaccines were engineered as part of a depopulation agenda. It implicates organizations like the World Economic Forum and pharmaceutical companies in a coordinated effort to control populations through fear and health mandates.
 - [Why the WHO Faked a Pandemic](https://nobulart.com/why-the-who-faked-a-pandemic/)  
   - This post claims that the World Health Organization (WHO) faked the 2009 H1N1 pandemic to create a market for pharmaceutical companies. The article accuses the WHO of colluding with vaccine manufacturers to exaggerate the threat of the virus and push unnecessary vaccines on the global population, all for profit and control.
+- https://nobulart.com/jacques-attali-changing-the-code/
+  - "Do we need to change the genetic code? We are very capable of creating vaccines that will protect this code, improve it, and defend it against viruses, and that is how it should be." Jacques Attali (July, 2021)
 
 ### - Science, Astronomy, and Cosmology
 - [Aftermath Part 2 – Evolution](https://nobulart.com/aftermath-evolution/)  

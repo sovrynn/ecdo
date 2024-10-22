@@ -66,6 +66,18 @@ The piezoelectric effect is a source of significant electric current generation 
 1. https://nhess.copernicus.org/articles/7/535/2007/nhess-7-535-2007.pdf
 2. https://en.wikipedia.org/wiki/Richat_Structure
 
+## Some more examples from this...
+
+Some more examples from this paper. https://t.co/8bz0LqCdMF
+
+![](img/1798640323423572476-GPYNhLtbIAAPtqU.jpg)
+
+![](img/1798640323423572476-GPYNpJ_asAAC1iu.jpg)
+
+![](img/1798640323423572476-GPYNvsHbkAENGpB.jpg)
+
+![](img/1798640323423572476-GPYN0EAaEAA-Nzp.jpg)
+
 ## Telluric Currents and Earthquake Lights
 
 See `img/japan-telluric.mp4`.
@@ -103,6 +115,10 @@ Craters formed by electrical discharges in the laboratory are remarkably similar
 https://t.co/ys30hg3xaG
 
 The Keystone Pattern https://t.co/ys30hg3xaG
+
+## Stuart Talbott details the electrical...
+
+Stuart Talbott details the electrical relationship between a comet and the solar environment - a negatively charged body suddenly entering into a more positively charged domain will discharge electrically. https://t.co/I5BhvSAU7O
 
 ## Citations
 

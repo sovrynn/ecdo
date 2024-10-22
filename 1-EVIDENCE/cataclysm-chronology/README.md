@@ -95,6 +95,12 @@ Niburu is supposed to orbit the sun every 3,600 years according to Sitchen. See 
 
 A comet will cause an uproar twice! Could Encke trigger Stage 1 to Stage 2 followed by a second uproar which resets back to stage 1?? R. C. Thompson's book might be worth a read if you can get hold of a copy...
 
+## There is much to suggest...
+
+There is much to suggest that the earliest dragon mythologies originated in comets. https://t.co/oDMuyOLMJS https://t.co/v78g0YxkH5
+
+![](img/1803464558289293444-GQcvevZXwAMpWuc.png)
+
 ## Citations
 
 1. https://talkorigins.org/faqs/flood-myths.html#Yoruba

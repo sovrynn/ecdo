@@ -82,6 +82,14 @@ Just did a quick dive into ice-core temperature proxies. It seems that an ECDO t
 
 [1] https://chatgpt.com/share/66ff8e5c-24c8-8005-b6b1-4294e61ecd43
 
+## "Even for the glacial–interglacial cycles...
+
+"Even for the glacial–interglacial cycles of the Quaternary, there was nothing to suggest that anything other than a sensible uniformitarian notion of gradual change was needed. These ideas were crushed by the marine and ice core records. The traditional view of grand climate… https://t.co/9gwbElSpHD
+
+![](img/1807398274489360707-GRUqISsXsAExCUV.jpg)
+
+![](img/1807398274489360707-GRUqlUKXIAAIk_o.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

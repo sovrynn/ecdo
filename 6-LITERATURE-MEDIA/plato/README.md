@@ -27,3 +27,15 @@ https://nobulart.com/critias/
 This was written 360 B.C. There's a timeline clue here in Plato's Critias. By his choice of language, maybe 4 or more deluges since the Younger Dryas event, which is a confirmation on the Egyptian accounts. https://t.co/7QxWhjUOhr https://t.co/0gt387U758
 
 ![](img/1802855556958543981-GQUHbypXcAABhNP.png)
+
+## "Many great deluges have taken...
+
+"Many great deluges have taken place during the 9,000 years, for that is the number of years which have elapsed since the time of which I am speaking." - Plato (360 BCE) https://t.co/7QxWhjUgrT
+
+## Plato was undoubtedly one of...
+
+Plato was undoubtedly one of the most prolific authors on the topic of historic and cyclic cataclysms. In Eclogues, Virgil reveals the true gods of the NWO psychopaths. https://t.co/uKoitYppvZ
+
+![](img/1801593144443543959-GQCLWyKW0AAFz3U.png)
+
+![](img/1801593144443543959-GQCLYDdXoAACwVM.png)

@@ -61,3 +61,9 @@ That the surface beds of the Pampas and the deposits in the caves were synchrono
 can see dengue fever at the start of that chart at solar max
 
 ![](img/disease.jpg)
+
+## Excellent article published in the...
+
+Excellent article published in the New Yorker in 2019 detailing the findings, implications and story behind the DePalma Chicxulub paper. Plenty of stunning photos of their findings. https://t.co/rh3zGx86Me https://t.co/llKM2yWaGe https://t.co/isqhWpfQMK
+
+![](img/1804829676411539470-GQwKv0uW0AAU68c.png)
