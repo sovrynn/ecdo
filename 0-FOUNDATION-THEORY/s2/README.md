@@ -70,6 +70,10 @@ The fact that Mesoamerican myths of 2000 BC indicate that the Sun rose from the 
 
 ![](img/360days.jpg)
 
+## The 50-60 years spent in...
+
+The 50-60 years spent in State 2 may be where the additional 5 days per year observed by Velikovsky originated. If S2 has a wider distribution of mass than S1, then this would infer a possibly significant commensurate reduction in angular velocity in S2. https://t.co/oE4E5nRK0f
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

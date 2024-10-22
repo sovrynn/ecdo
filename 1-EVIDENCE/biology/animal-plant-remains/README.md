@@ -24,6 +24,10 @@ Reliquoæ Diluvianæ (1823)
 A 380 page record of an historic deluge, overflowing with findings of numerous species of fauna which had no explicable reason to be found together, scattered across Britain and Europe, buried in layers of 'diluvium' (a term coined by Buckland).
 https:// (https://t.co/K4GQDGqcHv)iiif.wellcomecollection.org/pdf/b2201729x (https://t.co/K4GQDGqcHv)
 
+Occulted history. 383 pages overflowing with findings of numerous species of fauna which had no explicable reason to be found together, scattered across Britain and Europe, buried in layers of 'diluvium' (a term coined by Buckland). https://t.co/pslckpXDe8
+
+![](img/1806358573460468089-GRF13-gWYAAWfqc.png)
+
 ### A selection of plates from...
 
 A selection of plates from Reliquoæ Diluvianæ providing context and scale for some of the caves in which these animals and other debris were found. https://t.co/PAhoBi7UP0
@@ -141,6 +145,8 @@ A submergence map from this paper.
 
 ## Antarctica petrified forest
 
+"In Antarctica there's a petrified forest where today nothing bigger than bacteria grows, dating back to late Permian Period some 260 million years ago. How accurate is the system used to date these trees?" https://t.co/KiARYL5PQk
+
 https://youtu.be/rRug4jRg0k0?si=VYgwY9EjStuEX9zC
 
 ## Kolyma River (Gulag Archipelago, Solzhenitsyn)
@@ -180,6 +186,14 @@ Very interesting, had to see some visuals. Searched up this: https://m.youtube.c
 "...torn &amp; twisted as though by a cosmic hand in a godly rage... the Alaskan muck blanket is packed with animal bones &amp; debris in trainloads . Mammoth, mastodon, bison, horses, wolves, bears, lions &amp; fauna in the middle of some cataclysmic catastrophe." https://t.co/TxAwBTxutR https://t.co/RUhi8JIJgF
 
 ![](img/1804136145816604991-GQmULvVWAAAQca5.jpg)
+
+## The South American Boneyard [1/3]....
+
+The South American Boneyard [1/3]. "In South America the pleistocene beds are developed on a very large scale. They cover the great plains of the Argentine Republic, in the form of a modified lehm or loess, to which the name of Pampas mud was given by Darwin and 'formation… https://t.co/JVDBuyXcsE
+
+## The moment Joe Rogan first...
+
+The moment Joe Rogan first learned about the Alaskan graveyard containing the chaotically shredded remains of millions of animals and trees frozen solid in the permafrost. https://t.co/xjokjRxMpq
 
 ## Citations
 

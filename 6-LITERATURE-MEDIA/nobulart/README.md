@@ -145,6 +145,20 @@ The Great Year (https://nobulart.com/the-great-year/)
 “There is also a year which Aristotle calls Perfect, rather than Great, which is formed by the revolution of the sun, of the moon and of the five planets, when they all come at the same time to the celestial point from which they started together. This year has a great winter called by the Greeks the Inundation and by the Latins The Deluge; it has also a summer which the Greeks call the Conflagration of the world. The world is supposed to have been by turns deluged or on fire at each of these epochs.” – Censorinus (238 A.D)
 https://nobulart.com/the-great-year
 
+## Video: Conflicting Pole Shift Agendas Between...
+
+Conflicting Pole Shift Agendas Between the East and West https://t.co/T3X2RARAjz
+
+## Tesla's Pyramids
+
+"Anyone able to manipulate resonant frequencies between 5 and 15 cycles per second (to 3 decimal places), can influence every dynamic electromagnetic activity on the face of the earth and beyond, including global weather, human thought... and behavior." https://t.co/fiv2sCyBzG
+
+## Wrath of the Sun
+
+9 times a century, for 2-3 years, without exception, Earth undergoes a convulsive shudder: floods, tornadoes, hurricanes, storms, earthquakes, landslides, volcanoes, auroras, electromagnetic storms, and the fires they cause in forests, steppes and cities. https://t.co/2uRCeMdksK
+
+https://nobulart.com/wrath-of-the-sun/
+
 ## Good Articles
 
 Chan excerpts (tons of evidence in these):
@@ -182,3 +196,5 @@ https://nobulart.com/karma/
 
 Politics:
 - https://nobulart.com/the-first-kennedy-assassination/
+
+https://nobulart.com/earth-changes/

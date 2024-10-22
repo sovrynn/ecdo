@@ -51,6 +51,14 @@ Interesting, The gas giants form the square in 2963 BC, same pattern bad weather
 ![](img/2963.jpg)
 ![](img/2024.jpg)
 
+## As an interesting note, the... [1]
+
+As an interesting note, the 4627 and 4285 cycle synchronise every 115,000 years, which matches Earth's eccentricity cycle (110-120ka) and the pattern of glacial / interglacial periods (115ka).
+
+## Citations
+
+1. Craig Stone
+
 # TODO
 
 Around 3700 years?

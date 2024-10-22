@@ -113,6 +113,14 @@ https://www.visitutah.com/articles/bonneville-salt-flats-planning-guide
 
 https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/trilobites-and-cambrian-utah/
 
+## Pole Movement and Sea Levels...
+
+Pole Movement and Sea Levels (1978). Several interesting numbers: a 5,600 year cycle, a 177m sea level rise, and the longitudes 60°W and 120°E - one degree off of the ECDO Euler. [1] https://t.co/7rsdKhI4bu [2] https://t.co/P3MWyLsyO7 https://t.co/fZooOiXQYe
+
+![](img/1839425644553220284-GYbzqaia8AADsH7.png)
+
+![](img/1839425644553220284-GYbz3GRagAA45Cf.jpg)
+
 ## Citations
 
 1. Craig Stone

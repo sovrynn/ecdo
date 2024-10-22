@@ -38,6 +38,12 @@ Faroe Islands. Spectacular erosion features with a distinct NNW-SSE polarization
 1. https://maps.app.goo.gl/ACkKjvmTByFDka8Q6
 2. https://youtu.be/EruSZNI4th4
 
+## I can't help but wonder... [1]
+
+I can't help but wonder whether the decreasing altitude of the Alps as we move north in this region isn't the result of progressively more intense rubble scouring as the debris from the previous peaks is added to the mix and transported on to the next. https://t.co/llyMR4aYvs
+
+![](img/1805051706230649064-GQzU8-mWkAA0jyN.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

@@ -88,6 +88,12 @@ It was in consequence of this dislocation that the loose watery envelope which c
 3. Earth in Upheaval, Velikovsky (2009)
 4. Siberian mammoth. TAES, Thomas (1963)
 
+## ECDO continues to provide answers,...
+
+ECDO continues to provide answers, everywhere I look. https://t.co/KGsBYh8aYG https://t.co/ffhzAIko5J
+
+See img/1804438514429211112-7bpYSZkgeCeywLgC.mp4.
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Mammoth#Extinction

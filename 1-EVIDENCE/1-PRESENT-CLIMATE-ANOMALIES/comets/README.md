@@ -30,6 +30,10 @@ Perhaps a coincidence, but 2P/Encke and its Taurid companions were unusually clo
 
 ![](img/1763238155417690399-GHhHc2RWsAAhbNV.jpg)
 
+## RT JUST IN: Strange Fireball...
+
+RT JUST IN: Strange Fireball recorded entering the atmosphere over Tampa, Florida… WHAT IS THIS? https://t.co/zkCd2CEl…
+
 ## Citations
 
 1. Craig Stone

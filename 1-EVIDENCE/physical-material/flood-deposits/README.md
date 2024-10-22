@@ -31,6 +31,18 @@ Revisiting the Channelled Scablands flood deposit sequence through the lens of t
 
 ![](img/1827745832034054629-GV1yOk3WgAA7HYy.jpg)
 
+### "Scabland channel ways [..] experienced...
+
+"Scabland channel ways [..] experienced very deep flood flows. As a consequence, scabland bars are tens of meters in height, with an internal structure of foreset bedding. Some of the bars display an accretionary internal structure that indicates a history of multiple emplacing… https://t.co/COpwC2tbhO
+
+![](img/1807885650550571152-GRblxiCaYAE9Rnc.jpg)
+
+### The Channelled Scablands. Evidence of...
+
+The Channelled Scablands. Evidence of a deluge which has been put on ice. A widely accepted thesis, published exactly 100 years after Reliquoæ Diluvianæ, relegated to the deepfreeze along with every other item of non-uniforitarium evidence. https://t.co/lKpgDHwlWx https://t.co/OqKe6brzU4
+
+![](img/1807412035807781120-GRU159dXMAA-6EB.png)
+
 ## Shetland
 
 The Tsunami Sands of Scotland. "Recent evidence has suggested one such major event which took place some 7000 years ago. As a result of a massive under-sea landslide close to Norway a huge tidal wave, a tsunami, seems to have advanced southwards from Shetland along the east coast of Scotland. The height of the wave has been estimated at 8m (25ft), and this would clearly devastate the coastal areas that it hit."

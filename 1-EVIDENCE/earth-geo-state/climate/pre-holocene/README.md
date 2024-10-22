@@ -31,6 +31,10 @@ This is the period preceding the Holocene.
 
 ![](img/ydb-field.jpg)
 
+### Could this mass aerial bombardment...
+
+Could this mass aerial bombardment of the northern hemisphere 12.5ky ago have imparted sufficient energy to destabilize the Earth, thus commencing the oscillation which has continued to this day? This would sensibly align with a pyramid construction date of around 9-10ky ago.
+
 ## Dansgaard-Oeschger event (pre-Holocene) [7] (hard copy in this folder)
 
 I believe these clearly depict ECDO events - they are most clearly recorded in the Greenland ice cores, and thus interpreted as being global warming events. However, the Greenland ice sheets move right to the equator during the event, which would lead to a warming of the ice sheets. These would also have less of an effect in the Antarctic ice sheets, which is much larger. The dramatic heating events would occur during S2, and then the cooling would begin once back at the poles.

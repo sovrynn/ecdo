@@ -102,6 +102,18 @@ Multiple reports of water levels dropping in the Mediterranean. https://t.co/hlL
 
 ![](img/1628434833654292480-Fplc1saX0AE3rTE.png)
 
+## ENLIL prediction on yesterdays X4.5....
+
+ENLIL prediction on yesterdays X4.5. https://t.co/mDyIGoPghI
+
+See img/1835317117987463268-S8iOpgan2GIDOlM2.mp4.
+
+## RT Ridiculous Solar Storm Effect,...
+
+RT Ridiculous Solar Storm Effect, Shocking Mantle Action: https://t.co/S18OkqDSeF
+
+See img/1802608421755085038-Tt0afcynx60wVrHI.mp4.
+
 # TODO
 
 https://watchers.news/2024/09/26/swarm-of-over-100-earthquakes-hits-hanford-nuclear-site-near-tri-cities-in-washington-u-s/

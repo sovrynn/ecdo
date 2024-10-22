@@ -14,6 +14,14 @@ TES is very specific on the mechanics of the exothermic core:
 
 ![](../dzhanibekov/img/llvp.webp)
 
+## Could the LLSVP's be fulgurites?...
+
+Could the LLSVP's be fulgurites? [1] https://t.co/QOZm6ePJfl https://t.co/lgMKAKI7Kl https://t.co/dUbQUnSTKc
+
+![](img/1812152531021123651-GSYLl8MWMAAsLIW.jpg)
+
+![](img/1812152531021123651-GSYLqNdWsAAOBRp.jpg)
+
 ## Basics
 
 Earth has several internal layers:

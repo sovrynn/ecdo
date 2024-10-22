@@ -16,6 +16,12 @@ Only water could have carried some of these behemoths over the Alps and deposite
 3. Pierre à Martin, Lake Geneva
 4. Haute Savoie, Switzerland
 
+### ECDO delivers again. The return...
+
+ECDO delivers again. The return from State 2 to State 1 over Europe provides an explanation for the Jura erratic boulders. The Adriatic Sea has nowhere to go but directly over the Alps. https://t.co/Jxzx1VvSch https://t.co/erqK19vDuL
+
+See img/1804988052651086004-vyF54VRYtRKqUHSl.mp4.
+
 ## Stonehenge
 
 "Mineralogical tests on the massive six-tonne stone at the heart of the monument show that this central rock, known as the altar stone, was brought to Stonehenge from the far north of Scotland."

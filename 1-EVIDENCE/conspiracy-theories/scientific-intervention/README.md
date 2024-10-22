@@ -15,6 +15,12 @@ This folder is for government intervention related to the ECDO.
 
 Its a progressive, electromagnetically interfaced heating event [1]. What if we could somehow retard the process by intervening in the earth-solar coupling [2], and perhaps even the core-mantle coupling through the application of magnetohydrodynamics with the objective of influencing magma viscosity? [3][4][5]
 
+![](img/1817928979300393035-GTqTcZAX0AAjTuI.png)
+
+![](img/1817928979300393035-GTqTkfyXIAAmYgq.jpg)
+
+![](img/1817928979300393035-GTqT2yMWEAAi--F.png)
+
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
 2. https://x.com/nobulart/status/1802017097909760423
 3. https://x.com/nobulart/status/1802044626263498824
@@ -104,6 +110,10 @@ CERN is located on a high ridge in the Earth's crust, almost central to a large 
 ![](img/1802058827350598096-GQIy4GhXAAAfrWS.jpg)
 
 ![](img/1802058827350598096-GQIy5UJXsAA0roy.jpg)
+
+## It would seem that this...
+
+It would seem that this situation might be averted by applying just the right touch of countering torsion during the early onset of destabilization. Perhaps nuclear-powered torsion engines aren’t so sci-Fi after all.
 
 ## Citations
 

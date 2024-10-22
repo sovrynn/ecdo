@@ -18,6 +18,12 @@ Mapping the longest continuously inhabited cities in the world. All of these loc
 
 ![](img/1807043974193959152-GRPopSvXcAA6BqL.jpg)
 
+## Adding to this map. Red...
+
+Adding to this map. Red markers are cities continuously inhabited since before 1200 B.C. Yellow markers are cities continuously inhabited since 1200-700B.C. https://t.co/7bzHm2Y49l
+
+![](img/1807050060376457676-GRPt1PCXgAAgXSh.jpg)
+
 ## Citations
 
 1. Craig Stone: https://nobulart.com/ (visualization as well)

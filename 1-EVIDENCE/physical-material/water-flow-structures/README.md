@@ -40,6 +40,8 @@ In Nebraska, some 400km northeast of Pike's Peak is an area of more than 16,000 
 ![](img/nebraska2.jpg)
 ![](img/nebraska3.jpg)
 
+Bringing some sense of scale to the Nebraska mega-ripple morphology. Red line is 30km. https://t.co/4rR2RRbeYq
+
 See `img/nebraska.m4v`.
 
 https://maps.app.goo.gl/qXphUr5inUsEAGja8
@@ -51,6 +53,14 @@ The Loup River lies to the southeast of the Nebraska megaripples, and can be cle
 ![](img/loup3.jpg)
 
 https://pubs.usgs.gov/pp/0422d/report.pdf
+
+### The scale of erosion and...
+
+The scale of erosion and alluvial deposition seen in the northern Nebraska sand hills would require sufficient rainfall to saturate the sandy ground: this is a whopping 240mm (9.5 inches) per hour, in an area that receives less than 700mm per year. Rain did not do this. [1]… https://t.co/IAWYTchKKE
+
+![](img/1810253674590990423-GR9PmBOWQAEi-9j.png)
+
+![](img/1810253674590990423-GR9PoIsWsAAQux_.png)
 
 ## France MCR [2]
 
@@ -90,12 +100,36 @@ If megafloods were all the result of outflows from glacial lakes, then what are 
 
 Using the GCR chord length [equation](https://pubs.geoscienceworld.org/gsa/books/book/275/chapter-abstract/3795280/Paleohydrology-and-Sedimentology-of-Lake-Missoula) to determine water depth based on ripple size, [I arrive at a water depth of 1,200m](https://chatgpt.com/share/6c38d048-e4fa-4e39-911d-bce8caf0eef4). I used a 10km long sample to determine average slope (0.0018) and chord length (555m).
 
+If these are GCR's, then they may be the largest found to date. They dwarf those seen in the Channeled Scablands by a factor of 10 on the chord length.
+
 The Sahara looks like one of the largest megafloodplains on the planet, with obvious flows thousands of kilometers wide running to the south and the west.
 
 ChatGPT GCR speed deduction: *"Could definitely be correct. The water from the med would likely reach Sudan during the latter half of the rotation, during which time the movement will be decelerating. The water velocity would start to synchronize with the crustal rotation at this point and many flows would be deep but relatively slow moving."* [1]
 
 ![](img/sudan-speed1.jpg)
 ![](img/sudan-speed2.jpg)
+
+### The exposed portion of this...
+
+The exposed portion of this rock (a little further south) is 700m wide and 50m high. Note what appears to be a teardrop form to the south of the obstruction. Quite reminiscent of flow evidence most clearly seen on Mars. [1] https://t.co/8MMrYI9qoU [2] https://t.co/ISrwrsbq4D https://t.co/DuJL0oQCRX
+
+![](img/1808555227609772237-GRlEweSXsAA68T_.jpg)
+
+![](img/1808555227609772237-GRlE1nPWQAAgsZv.jpg)
+
+![](img/1808555227609772237-GRlG73DXEAAB5Yu.png)
+
+### Many more a little further...
+
+Many more a little further south. Width ~700m. Height ~10m. Not the slightest apparent movement since 1984 in the historical imagery. Profiles are a good fit for antidune breaking wave GCR's. [1] https://t.co/YAP73G4dmY [2] https://t.co/Rx18Olwg7w https://t.co/iYH1aqPpML
+
+![](img/1808541981481501157-GRk6oKAXoAEYFsd.jpg)
+
+![](img/1808541981481501157-GRk6oKIXYAAMGrv.jpg)
+
+![](img/1808541981481501157-GRk7NVJW0AAVUOw.jpg)
+
+![](img/1808541981481501157-GRk7SU2WsAAHlGE.png)
 
 ## Altai Mountains Russia
 
@@ -154,6 +188,14 @@ Highwater marks indicate water depths of up to 50m in the Channelled Scablands m
 ![](img/1807862048123920566-GRbQ1ghb0AAM85J.jpg)
 
 ![](img/1807862048123920566-GRbQ2mHXYAEHK9X.jpg)
+
+## This is in agreement with...
+
+This is in agreement with the ECDO moment of inertia relative to the water. Video coming soon. https://t.co/HEYaKVeWss
+
+![](img/1800176547665707245-GPuCzbSXEAAqgty.jpg)
+
+![](img/1800176547665707245-GPuC1TgWkAA7GTI.png)
 
 ## Citations
 

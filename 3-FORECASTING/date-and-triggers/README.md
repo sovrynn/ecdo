@@ -18,6 +18,12 @@ I don’t know what the date might be. If two magnets are twisted relative to on
 
 ![](../../0-FOUNDATION-THEORY/ecdo-causes/img/2030-triggers.jpg)
 
+## I asked ChatGTP4o to do... [1]
+
+I asked ChatGTP4o to do an analysis of ECDO, Velikovsky, and electromagnetic coupling between the Earth and a passing comet as a possible trigger mechanism. https://t.co/yVOKzpp0Td
+
+![](img/1799799270968885465-GPoraBLWIAAeNSO.png)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

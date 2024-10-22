@@ -47,6 +47,10 @@ Does this happen for the same reason that the LLVPs seem to be centered around t
 
 - Aldebaran (India)
 
+## Many lines of evidence suggest...
+
+Many lines of evidence suggest more than one planetary explosion in the solar system’s history. The discovery of one (or two) new asteroid belts beyond Neptune is especially suggestive, given that the main asteroid belt is apparently of planetary origin. https://t.co/v40radMJxe
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Solar_cycle#Patterns
