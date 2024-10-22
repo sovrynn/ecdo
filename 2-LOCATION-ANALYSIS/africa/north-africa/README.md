@@ -59,6 +59,12 @@ Layers 1 and 2 stand out. Two major State 1 > State 2 events, possibly followed 
 
 ![](img/nawc2.jpg)
 
+## ETOPO 2022 elevation dataset showing...
+
+ETOPO 2022 elevation dataset showing the Adrar plateau perimeter and the ripple morphology locations. https://t.co/eMWFKhwVZW
+
+![](img/1809357142903910458-GRwggBnXMAAf8NG.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

@@ -25,6 +25,14 @@ The oldest known cave art happens to be on the eastern ECDO pivot, in Sulawesi. 
 
 This location sits at an elevation of about 350m.
 
+## Sulawesi, Indonesia is the opposing...
+
+Sulawesi, Indonesia is the opposing pivot [1]. Imagine it without the water. Note the similarity in the horseshoe plateau formation. One shoe points north (South America [2]), and this one is open to the South. 5°08'36.0"S 120°45'45.0"E https://t.co/WRfYH46ugZ
+
+![](img/1803482805868892355-GQdB9vsXMAASUr9.jpg)
+
+![](img/1803482805868892355-GQdCCq1WQAAtSyG.jpg)
+
 ## Horseshoe
 
 ![](img/horseshoe.jpg)

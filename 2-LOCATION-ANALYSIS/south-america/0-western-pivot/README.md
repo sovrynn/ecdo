@@ -55,6 +55,12 @@ Starting to think that we may be looking at evidence of massive lateral flow. Th
 ![](img/roraima1.jpg)
 ![](img/roraima2.jpg)
 
+## This lies almost directly on...
+
+This lies almost directly on the South American equatorial pivot. https://t.co/yW8RQzAQ6J https://t.co/IFcK6fgrFo
+
+![](img/1803432392310329364-GQcUCmJXwAAITAV.png)
+
 ## Authors
 
 1. [Craig Stone](https://nobulart.com)

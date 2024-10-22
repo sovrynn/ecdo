@@ -62,6 +62,16 @@ The scale of erosion and alluvial deposition seen in the northern Nebraska sand 
 
 ![](img/1810253674590990423-GR9PoIsWsAAQux_.png)
 
+### The Loup River lies to...
+
+The Loup River lies to the southeast of the Nebraska megaripples, and can be clearly seen as the downstream drainage basin from the sand hills when viewed on a digital elevation map. In Channel Patterns and Terraces of the Loup Rivers in Nebraska (1964) we find observations of… https://t.co/E5sOV9VIwN https://t.co/N26W03DeUd
+
+![](img/1810263526381871343-GR9VLAiXcAAo2tX.jpg)
+
+![](img/1810263526381871343-GR9XDldXYAAAxq6.png)
+
+![](img/1810263526381871343-GR9XDlkWUAA2QMW.png)
+
 ## France MCR [2]
 
 ![](img/france1.jpg "france")
@@ -159,6 +169,24 @@ May just be sand dunes. Coords (40, 86.3).
 
 In Chile & Argentina are found Mega Current Ripples (500m period, 10m amplitude), an abundance of salt pan deposits, and what looks like at least two large rills which have been eroded by the northeast to southwest flow during the transition from State 1 to State 2.
 
+### In Argentina there are 20,000...
+
+In Argentina there are 20,000 square miles of interesting ripple morphology (period: 3-4km, amplitude: unknown) [1] which is all but completely hidden in the most recent satellite images [2] as it has become largely obscured by human activity. The features lie in a shallow basin… https://t.co/rPHNhmQE9u
+
+![](img/1813610702960984473-GSs094TXwAAkaaP.jpg)
+
+![](img/1813610702960984473-GSs094iXgAANBm6.jpg)
+
+![](img/1813610702960984473-GSs094iWkAA8grz.jpg)
+
+See img/1813610702960984473-XdLlI_j64VEHtmKh.mp4.
+
+### The "fault lines" to the...
+
+The "fault lines" to the southeast of the Scotia Ridge are curved and running at inclined angles to the straight mid-Atlantic ridge fault lines. Could they perhaps be flow morphology? Further to the east can be seen ripple-like morphology which also looks suspiciously like the… https://t.co/CiVsMrT45S
+
+![](img/1810972697570017582-GSHduSNXYAELzhY.jpg)
+
 ## These GCR's (Giant Current Ripples)...
 
 These GCR's (Giant Current Ripples) in the Channelled Scabland (WA) are up to 60m wide, and stand 2m tall. 47°25'25.18" N 118°59'41.73" W https://t.co/3GAGFvDHDN https://t.co/lSn5Yl2b8A
@@ -189,13 +217,19 @@ Highwater marks indicate water depths of up to 50m in the Channelled Scablands m
 
 ![](img/1807862048123920566-GRbQ2mHXYAEHK9X.jpg)
 
-## This is in agreement with...
+## Himalayas: This is in agreement with...
 
 This is in agreement with the ECDO moment of inertia relative to the water. Video coming soon. https://t.co/HEYaKVeWss
 
 ![](img/1800176547665707245-GPuCzbSXEAAqgty.jpg)
 
 ![](img/1800176547665707245-GPuC1TgWkAA7GTI.png)
+
+## Newgrange: Those look a lot like...
+
+Those look a lot like mega current ripples to the North and West of Newgrange, running coast to coast. Anyone know of a good LiDAR source for Ireland? https://t.co/MRKJkKWMAl
+
+![](img/1834681409081864595-GXYYi4AWwAABZLX.jpg)
 
 ## Citations
 

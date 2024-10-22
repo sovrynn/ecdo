@@ -55,6 +55,18 @@ Interesting, The gas giants form the square in 2963 BC, same pattern bad weather
 
 As an interesting note, the 4627 and 4285 cycle synchronise every 115,000 years, which matches Earth's eccentricity cycle (110-120ka) and the pattern of glacial / interglacial periods (115ka).
 
+## I've been looking at the...
+
+I've been looking at the intermediate 10th harmonic (1,850 years). Could there be something here... ekpyrosis? These periods are marked with purple text in the harmonic timeline. [1] https://t.co/5o0tO7L9Ry [2] https://t.co/CcUjOiMFab [3] https://t.co/ws9qUXnMt0 [4]… https://t.co/2M48omVAOz
+
+![](img/1829457198021329131-GWOGbQ5XsAAM-6N.jpg)
+
+![](img/1829457198021329131-GWOHWNgXIAAJqO2.png)
+
+![](img/1829457198021329131-GWOIlUIWIAA4mD_.png)
+
+![](img/1829457198021329131-GWOJECsXgAAvZp_.png)
+
 ## Citations
 
 1. Craig Stone
