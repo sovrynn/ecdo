@@ -24,6 +24,18 @@ Reliquoæ Diluvianæ (1823)
 A 380 page record of an historic deluge, overflowing with findings of numerous species of fauna which had no explicable reason to be found together, scattered across Britain and Europe, buried in layers of 'diluvium' (a term coined by Buckland).
 https:// (https://t.co/K4GQDGqcHv)iiif.wellcomecollection.org/pdf/b2201729x (https://t.co/K4GQDGqcHv)
 
+### A selection of plates from...
+
+A selection of plates from Reliquoæ Diluvianæ providing context and scale for some of the caves in which these animals and other debris were found. https://t.co/PAhoBi7UP0
+
+![](img/1806732492889608558-GRLMrGmWgAE9Mm7.jpg)
+
+![](img/1806732492889608558-GRLMrHwXgAAXFMX.jpg)
+
+![](img/1806732492889608558-GRLMrIoXMAA5Tv2.jpg)
+
+![](img/1806732492889608558-GRLMrJEWsAI11O1.jpg)
+
 ## Cuvier Books
 
 In `LITERATURE-MEDIA/cuvier` you can find the PDFs of several Georges Cuvier's books, from which the following quotes are from.

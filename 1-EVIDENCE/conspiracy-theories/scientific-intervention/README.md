@@ -83,6 +83,28 @@ Approx. 0.63 gigajoules (GJ) of energy would be required to establish a 10,000 t
 
 ![](img/1802368908659224705-GQNM9o2XcAALY-v.jpg)
 
+## CERN is a supercooled ring-magnet...
+
+CERN is a supercooled ring-magnet mounted tangential to the Earth's core. Is this too, an attempt to alter the core-mantle coupling environment under cover of "science"? God particles, and all. https://t.co/Bq4OG9ukPH
+
+![](img/1802044626263498824-GQIlegWXAAA4w2U.jpg)
+
+## The estimated magnetic field near...
+
+The estimated magnetic field near the Earth's core is 25-40 teslas. The CERN|LHC contains 1,232 superconducting dipole electromagnets, each capable of 8.3 teslas (20-33% of that near the core), for a theoretical combined total of 10,225 teslas (if energized simultaneously). https://t.co/M4lhEvYReL
+
+![](img/1802353966262460642-GQM-wb3XIAEKTte.jpg)
+
+![](img/1802353966262460642-GQM-yNMWYAAfpBB.png)
+
+## CERN is located on a...
+
+CERN is located on a high ridge in the Earth's crust, almost central to a large zone where the magnetic anomaly is relatively undisturbed. Perhaps this area has an LLSVP extension beneath it? https://t.co/3jKNbiL0VM
+
+![](img/1802058827350598096-GQIy4GhXAAAfrWS.jpg)
+
+![](img/1802058827350598096-GQIy5UJXsAA0roy.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

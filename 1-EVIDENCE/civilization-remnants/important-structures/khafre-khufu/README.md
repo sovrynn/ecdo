@@ -157,6 +157,26 @@ Anyone know what the green chamber is he refers to?
 
 "So it was also with a place known as the Green Chamber, a room cut from one block of stone within a great temple and covered within and without by engravings. On the outside, you find a sun, turned toward the sun rising over the horizon, along with stars and human and animal figures. Abd al-Latif saw these as not merely ornamental but allegorical for higher, nobler matters, signs indicating esoteric truths."
 
+## Other apparent lightning damage at...
+
+Other apparent lightning damage at Giza. Note that the Lichtenberg trace runs back to the base of the pyramid where it appears that a significant amount of additional material is missing from the stones. https://t.co/siOPZCjuoV https://t.co/pPXwLsiz0p
+
+![](img/1809876340553683295-GR347qUXYAAr-t0.jpg)
+
+## The corbel roof above the...
+
+The corbel roof above the upper chamber in the pyramid bears an architectural resemblance to that seen in Newgrange. In the latter case the design was employed to channel water away from the space below, keeping it dry for centuries. [1] https://t.co/0tUIUYngyQ . https://t.co/OAVK0apBC2
+
+![](img/1836000480125759627-GXrILjnWYAEXJk6.png)
+
+![](img/1836000480125759627-GXrINWVXwAAHkqy.png)
+
+![](img/1836000480125759627-GXrITfWWsAAc8-F.jpg)
+
+## I think the evolution of...
+
+I think the evolution of GT may be seen in the design and construction of the great pyramid. Build the observatory to withstand the effects of that which it observes. [1] https://t.co/gUnEETsDPO .
+
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/

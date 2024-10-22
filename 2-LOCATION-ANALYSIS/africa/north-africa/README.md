@@ -35,7 +35,9 @@ Comparing the flow paths to NOAA's ETOPO 2022 elevation data reveals the likely 
 
 Elevation cross-section suggests that gravity would direct remaining water towards Mauritania once State 2 is reached.
 
-![](img/na-flows4.jpg) 
+![](img/na-flows4.jpg)
+
+NOAA's ETOPO 2022 digital elevation dataset. The smooth shallow basin south of Gran Sirte has the appearance of broad inflow erosion, which stands in contrast to the much smaller, outflow-dominant regions within it (characterized by their Lichtenberg figuring). The Sudanese… https://t.co/y7s6RaC5Ls
 
 ## North Africa Other Features
 

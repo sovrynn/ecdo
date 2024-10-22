@@ -21,3 +21,21 @@ Greville was a founding member of the Rosicrucian order, and was a contemporary 
 ![](img/atkinson.jpg)
 
 https://nobulart.com/the-souls-progress/
+
+## Warnings once graven in megaliths...
+
+Warnings once graven in megaliths became occulted, but the warnings have always been there for those willing to see through the veils that have been placed over much. Woven into the arts, from the Rosicrucian Masons, Bacon (Shakespeare), Greville, Martin &amp; Markham... https://t.co/3mzcdUuqlm
+
+![](img/1801760683505172694-GQEaxYQWgAAi5dg.jpg)
+
+## Fulke Greville, “the first Grand...
+
+Fulke Greville, “the first Grand Master of the Rosicrucian order“ https://t.co/0RNddOvmr4 https://t.co/hfIpVvgChw https://t.co/MCg6ocwpmM
+
+![](img/1597676573007937536-FiwWKV6XEAAw0qr.jpg)
+
+## Edwin Markham[1] was nominated “poet...
+
+Edwin Markham[1] was nominated “poet laureate of American Freemasonry”. The "event" is the same as that described in Rosicrucian doctrine[2] - the inexorable and cataclysmic turning of the ages[3]. 1. https://t.co/C7nY0Dr3Jw 2. https://t.co/JjzB8AHjRF 3. https://t.co/f17axFJQh6 https://t.co/j3JDpLmviw
+
+![](img/1597537589976002560-FiuXsLuXoAA_RBC.jpg)

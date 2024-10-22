@@ -39,11 +39,14 @@ This mesa is just over 300km from Roraima. Red curve is the ECDO path. The struc
 
 ## Nobulart
 
+Remarkable path congruence at a likely inflow point during S1&gt;S2, 380km East of Mount Roraima.[1] The region to the West of Roraima also has a significant number of mesa formations which are reminiscent of erosion morphologies like those in the Channelled Scablands. This… https://t.co/5cTorHJzjr
+- https://maps.app.goo.gl/7G3UwhRJjzXtnpTN8
+
 ![sa](img/roraima-380.jpg "sa")
 ![sa](img/roraima-380-2.jpg "sa")
+![](img/1823855398090051728-GU-hE8OXYAALBs5.jpg)
 
-380km from Roraima. Remarkable path congruence at an onboarding point for the water during S1>S2.
-- https://maps.app.goo.gl/7G3UwhRJjzXtnpTN8
+![](img/1823855398090051728-GU-hI-aXgAAbVF-.jpg)
 
 ## Lateral flow
 

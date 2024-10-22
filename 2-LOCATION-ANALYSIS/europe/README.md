@@ -16,6 +16,10 @@ Europe [detail]. Bathymetry, topography and ECDO-derived displacement for S1>S2>
 ![](img/europe-det2.jpg)
 ![](img/europe-det3.jpg)
 
+## Swedish, Finnish Erratics
+
+This flow direction once again almost perfect describes how Swedish and Finish erratics might have traveled 800km SE to Belarus. Not saying it IS the case, just that it seems at least as plausible as glacial ice flowing uphill does.
+
 ## Water flow evidence
 
 The Lichtenberg figure water flow evidence over eastern Europe and western Asia is quite spectacular on the elevation map.

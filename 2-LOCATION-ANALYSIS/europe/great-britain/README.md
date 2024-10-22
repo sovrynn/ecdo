@@ -6,10 +6,15 @@ The water will be moving really, really fast here. However, we don't know exactl
 
 ## Newport and Newgrange, White Wall
 
+Newport &amp; Newgrange [1]. Red lines are the ECDO moment of inertia [2]. Very interesting morphology to be seen across a great deal of Ireland, and Newport is a noteworthy example. Ireland has a maximum elevation of just over 1,000m and an average of approximately 118m. Enki's… https://t.co/Fi1DsnJJi8
+
 ![](img/newgrange1.jpg)
 ![](img/newgrange2.jpg)
 ![](img/newgrange3.jpg)
 ![](img/newgrange4.jpg)
+![](img/1834977472288305499-GXcjwg4WYAA106j.png)
+
+![](img/1834977472288305499-GXclyy2WEAAalCT.jpg)
 
 https://maps.app.goo.gl/9DkaEdd8XxpHhvJv9
 

@@ -24,6 +24,12 @@ A rough view of the axial polar movement overlaid on the magnetic polar movement
 
 ![](img/npw2.jpg)
 
+## I've added the Earth's polar...
+
+I've added the Earth's polar motion (1973-2024) to a sub-period of the previous chart and asked GPT to review it: "The Sun-SSB curve seems to exhibit periodicity that correlates with not only the polar nutation data but also the NMP wander and the polar motion perturbations.… https://t.co/eqLt6QrqZ6 https://t.co/PwkCfDQngp
+
+![](img/1832360727715238369-GW3W_6tXsAEKOKw.jpg)
+
 ## Length of days growing shorter?
 
 https://youtu.be/7Pz7pSLrI_M?si=yTuEdZ-BwSW13Ceu

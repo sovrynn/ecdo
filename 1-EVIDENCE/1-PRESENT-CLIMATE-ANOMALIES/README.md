@@ -21,14 +21,6 @@ The first four citations from his work may also be good leads:
 
 ![](img/ictz-wobbling.jpg)
 
-## Meteor strike fudging
-
-Did you know there was a meteorite strike on march 28, 2020 that struck Nigeria and left an uncomfortable crater? Did you also know we had another extremely near miss of an asteroid on November 12 of the same year? No one reported them.
-
-The 2 ships that were moored on ny harbor supposedy for Covid were actually floating hospitals designed for trauma patients (as in those who would be victims of a traumatic event-asteroid strike) and not for infectious disease treatment. Not a single Covid patient was treated onboard either of them. Uncanny don’t you think?
-
-UK built a load of temporary hospitals too. Called Nightingale hospitals. Never had a patient.
-
 ## 2024 state of the climate report (hard copy here)
 
 ![](img/biae087.png)
@@ -99,6 +91,16 @@ Footage taken by eyewitnesses shows lightning striking directly into the mouth o
 ## RT On Wednesday morning, the...
 
 RT On Wednesday morning, the port of Ciutadella in Menorca experienced at least five large rissagas (meteotsunamis) with sea…
+
+## Multiple reports of water levels...
+
+Multiple reports of water levels dropping in the Mediterranean. https://t.co/hlL9R0w0e8
+
+![](img/1628434833654292480-Fplc1sbWcAI5G4t.png)
+
+![](img/1628434833654292480-Fplc1saXEAIGDaN.png)
+
+![](img/1628434833654292480-Fplc1saX0AE3rTE.png)
 
 # TODO
 

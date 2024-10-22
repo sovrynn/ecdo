@@ -73,6 +73,66 @@ See `Our cometary environment.pdf`.
 
 ![](img/pike-encke.jpg)
 
+## Here’s our friend 2P/Encke again,...
+
+Here’s our friend 2P/Encke again, mentioned using startlingly matter-of-fact language as the cause of the Tunguska event in this 1994 paper discussing the multiple impacts at the end of the YDB. https://t.co/xcPRFWhXfK
+
+![](img/1804450638937375216-GQqySE7WEAAdpnh.jpg)
+
+![](img/1804450638937375216-GQqySE-XUAAH7EU.jpg)
+
+## Nobulart [1]
+
+### For those who have been...
+
+For those who have been here for a while know that 2P/Encke is of particular interest to me. It's unusual short-period orbit, possible role in Tunguska, the YDB impacts, Göbleki Tepe and other historic events all scream "Look at me!"
+
+### I’m fairly convinced that Encke...
+
+I’m fairly convinced that Encke may be the trigger for ECDO events under certain rare but regular, predictable gas giant alignments.
+
+## One Platonic month (2,160y) before...
+
+One Platonic month (2,160y) before 2030, it was 130 BCE, and there we find another Encke possible tail encounter during a less centered gravitational lull. The encounter with 2P/Encke may have be recorded in the book of Revelation a little over 200 years later (c. 97 AD). https://t.co/Ppxt3j3jbI
+
+![](img/1801746221809209701-GQEPrFwW0AAQqkN.png)
+
+![](img/1801746221809209701-GQEPrGPXwAA4moZ.png)
+
+![](img/1801746221809209701-GQEPrHKXQAAdruS.jpg)
+
+![](img/1801746221809209701-GQEPrIpWMAA53Oa.jpg)
+
+## Comet Encke appears again as...
+
+Comet Encke appears again as a possible destructive actor in ¨Decoding Göbekli Tepe with Archaeoastronomy" (2017). https://t.co/sRXI8RQt0F https://t.co/UPwlzDBLuF
+
+![](img/1801322296864608273-GP-UbAqXoAAZVH8.png)
+
+## Encke may be described in...
+
+Encke may be described in the book of Revelation, having a near-earth interval that uncannily matches the 1,260 days described between cataclysms in that book. https://t.co/3Bsb94ZxmR https://t.co/EJqqqI7Yd8
+
+![](img/1798074017955676614-GPQKnneaQAAZ0eQ.jpg)
+
+![](img/1798074017955676614-GPQKpD2b0AAFZLq.jpg)
+
+![](img/1798074017955676614-GPQKsILaAAAwHTG.png)
+
+![](img/1798074017955676614-GPQKucwb0AEPkv3.png)
+
+## Encke's companions are the Taurid...
+
+Encke's companions are the Taurid meteor complex - the most prolific and frequent meteor shower seen on Earth, and they happened to be on almost exactly the same trajectory past Earth in 1903 when the Tunguska Event occurred. https://t.co/3vtLhEw2Ey
+
+![](img/1798073508251172992-GPQKTy_bUAAZKMU.jpg)
+
+![](img/1798073508251172992-GPQKTy7bQAEaRTj.jpg)
+
+![](img/1798073508251172992-GPQKTy9asAElcWv.png)
+
+![](img/1798073508251172992-GPQKTzHagAMNdnH.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

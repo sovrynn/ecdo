@@ -10,7 +10,7 @@ This folder is for evidence from the surrounding solar system that points to pot
 
 ## Astronomical chronology - 3700
 
-![astronomical chronology](img/astronomical-chronology.jpg "astronomical chronology")
+![](img/astronomical-chronology.jpg)
 
 "Among the artifacts that can most readily be dated by astronomical techniques are depictions of the positions of the celestial bodies at a particular time. Since the motions of the celestial bodies are all at different periods, it takes many centuries for all the planets plus the Sun and the Moon, to reach the same positions in the signs of the Zodiac. For a configuration accurate to ±15° (that is, within a single sign) the positions of these seven bodies will only return to the same configuration once in about 3700 years."
 

@@ -73,3 +73,11 @@ https://youtu.be/j5kq0zYLgrE?si=udj68pV87r-CdI_O
 ## Rupert Sheldrake - Banned TED Talk
 
 https://youtu.be/JKHUaNAxsTg
+
+## We have to start re-framing... [1]
+
+We have to start re-framing everything into a context in which the controllers of this world know what is coming.
+
+## Citations
+
+1. Craig Stone

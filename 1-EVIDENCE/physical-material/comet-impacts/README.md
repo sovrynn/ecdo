@@ -35,4 +35,30 @@ https://x.com/GemsOfINDOLOGY/status/1594307136905162753
 
 https://en.wikipedia.org/wiki/Vredefort_impact_structure
 
-The unusually mineral rich composition of the crust here probably has something to do with the LLSVP intrusion and the Vredefort crater which exposed some of what was below. Agreed on the alternate concepts - I find valuable knowledge in most areas of inquiry, especially if its something new to me. 
+The unusually mineral rich composition of the crust here probably has something to do with the LLSVP intrusion and the Vredefort crater which exposed some of what was below. Agreed on the alternate concepts - I find valuable knowledge in most areas of inquiry, especially if its something new to me.
+
+## The Tollman's used best guess...
+
+The Tollman's used best guess derivations for the oceanic impact locations based upon written and oral histories describing the event. Note the South American strike estimation, and what appears to be a 2,500km long E-W impact path in the ocean floor between the two continents. https://t.co/zEtVefnyFe
+
+![](img/1804485089901900149-GQrOADoWwAAuxpc.png)
+
+![](img/1804485089901900149-GQrO9LMXgAAGVP9.jpg)
+
+![](img/1804485089901900149-GQrRUnRXQAAVXw5.jpg)
+
+![](img/1804485089901900149-GQrRUnWW0AAr5ef.jpg)
+
+## Extraterrestrial impact ejecta found in...
+
+Extraterrestrial impact ejecta found in the gills of fish that died in the Chicxulub impact event. This is a fascinating paper. Strong evidence for catastrophic extinction level impacts. https://t.co/8tHPgqgxjX https://t.co/972Q07Q7AH
+
+![](img/1804575549337038915-GQsjgUwWoAAz6eI.png)
+
+![](img/1804575549337038915-GQsjiquWUAAF0CJ.jpg)
+
+## This comet and its companions...
+
+This comet and its companions have been convincingly cast as the the actors in the Younger Dryas impact/airburst event. https://t.co/MZ6GvCebpA https://t.co/3cf9EHkRj6
+
+![](img/1798073725197357516-GPQKcbCaEAAg6IZ.png)

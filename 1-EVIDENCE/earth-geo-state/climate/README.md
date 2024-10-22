@@ -125,17 +125,6 @@ Any theories as to why the temperature fluctuations were much more severe prior 
 
 Because the first event was the result of a collision or encounter with a comet or other body/bodies.
 
-## Richat Structure
-
-Was the ancient volcano underlying the Richat Structure the contact point for a discharge between the Earth and Encke’s progenitor 12,500 YBP, shattering the comet, strewing destruction across the northern hemisphere from Turkey to Alaska?
-
-![](img/richat.jpg)
-![](img/richat2.jpg)
-
-## Impact structures
-
-https://en.m.wikipedia.org/wiki/List_of_impact_structures_on_Earth
-
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

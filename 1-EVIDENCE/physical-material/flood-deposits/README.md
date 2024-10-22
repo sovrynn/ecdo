@@ -23,6 +23,14 @@ https://www.geo.umass.edu/climate/papers2/Baker_retrospective_2009.pdf
 
 Video: https://youtu.be/NYA6GF1uAa8
 
+### Revisiting the Channelled Scablands flood...
+
+Revisiting the Channelled Scablands flood deposit sequence through the lens of the 3,700-year cycle. The "Set S" tephta is an ash layer from Mt. Saint Helens and is a temporal marker for the termination of the Younger Dryas. [1] https://t.co/lKpgDHwlWx [2] https://t.co/yE2ML0rhdX… https://t.co/VPioThnB8S https://t.co/7nhRmPhhYO
+
+![](img/1827745832034054629-GV1yFIzXoAAEcKB.jpg)
+
+![](img/1827745832034054629-GV1yOk3WgAA7HYy.jpg)
+
 ## Shetland
 
 The Tsunami Sands of Scotland. "Recent evidence has suggested one such major event which took place some 7000 years ago. As a result of a massive under-sea landslide close to Norway a huge tidal wave, a tsunami, seems to have advanced southwards from Shetland along the east coast of Scotland. The height of the wave has been estimated at 8m (25ft), and this would clearly devastate the coastal areas that it hit."
@@ -107,6 +115,14 @@ This "plunge pool" is big enough to swallow a small city.
 Wow. So the deluge smashed a hole in the chalk hills that used to run between England and France?
 
 ![](img/english-channel6.jpg)
+
+### Beneath the water of the...
+
+Beneath the water of the English Channel lies evidence of two megaflood events. [1] Catastrophic flooding origin of shelf valley systems in the English Channel, Gupta et al (2007) https://t.co/QVkZlKzNEn https://t.co/QQcC55f8BI
+
+![](img/1807879645217673478-GRbgGT8b0AYkNuJ.jpg)
+
+![](img/1807879645217673478-GRbgNbvb0AY-e64.png)
 
 ## Garth Tsunami 3500 BC? Evidence doesn't support
 

@@ -9,3 +9,9 @@ The geo record indicates that the length of day (axial velocity) has quite stead
 ![](img/rotation-slowing.jpg)
 
 https://arxiv.org/pdf/2309.11479
+
+## This possible shortening of the...
+
+This possible shortening of the day some 2,700 years ago (as suggested by the ancient calendars) runs contrary to the long-term lengthening trend in the solar day over the past 2.5 billion years. Chart shows the LOD as derived from multiple proxies and studies.… https://t.co/rWChkYBaEP
+
+![](img/1807026838419447937-GRPYBdfWwAANHT-.png)

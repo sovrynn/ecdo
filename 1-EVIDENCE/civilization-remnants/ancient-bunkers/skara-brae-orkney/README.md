@@ -96,6 +96,14 @@ I asked GPT to estimate how much carbonate sand lies above sea level across the 
 
 - Uriel's Machine
 
+## One of the designs found...
+
+One of the designs found at Skara Brae was the double spiral and lozenges, as seen at Newgrange, 560km to the south. Same culture, seafaring, and therefore probably capable astronomers. [1] https://t.co/eFYQeKUfpS [2] https://t.co/bp4t8UVl8R https://t.co/VEM0FCXn2O
+
+![](img/1840141026071327201-GYl54pJX0AAe6zz.jpg)
+
+![](img/1840141026071327201-GYl6OhNXoAAo5Vd.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

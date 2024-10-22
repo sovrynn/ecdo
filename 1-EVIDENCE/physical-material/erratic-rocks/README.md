@@ -36,6 +36,18 @@ If on a southern slope, then probably carried there from one of the peaks to the
 
 ![](img/gushaini2.jpg)
 
+## Erratic Boulders. Only water could...
+
+Erratic Boulders. Only water could have carried these behemoths OVER the Alps and deposited them 50-80 miles away (glacial action does not explain these). [1] https://t.co/ge0COKhyiS [2] Motte Stone, County Wicklow [3] Pierre à Martin, Lake Geneva [4] Haute Savoie, Switzerland https://t.co/ygA52bpL1N
+
+![](img/1804942708898988081-GQxxWRfWkAAtCM9.png)
+
+![](img/1804942708898988081-GQxxaDGXAAALlFV.jpg)
+
+![](img/1804942708898988081-GQxxa3jWUAMJXa5.jpg)
+
+![](img/1804942708898988081-GQxxbpbWAAEses5.jpg)
+
 # TODO Potential Leads
 
 - Rudston Monolith

@@ -78,6 +78,16 @@ https://en.wikipedia.org/wiki/Jishi_Gorge_outburst_flood
 
 "In spite of a rather long hiatus in occupation from the second century BCE to the twelfth century CE, the evidence shows that there are close similarities in human-environment relations and even continuities into the modern period."
 
+### 2279 BCE, the 77th year...
+
+2279 BCE, the 77th year of Emperor Yao's 99y reign, Encke passes a little way ahead of us, possibly passing through its tail. The giants were in opposition and the sun was lying center-SSB. This is 4,308 years before 2030, or almost precisely two Platonic months (2,160y). https://t.co/BDKRjIK6d1
+
+![](img/1801746214985089405-GQESO_CXgAAPVDH.png)
+
+![](img/1801746214985089405-GQESPARX0AAo9bh.jpg)
+
+![](img/1801746214985089405-GQESO_wW4AALMCz.jpg)
+
 ## Majiayao culture (3300 - 2000 BC) [5]
 
 Some interesting tidbits suggesting potential changes around 3000 BC:

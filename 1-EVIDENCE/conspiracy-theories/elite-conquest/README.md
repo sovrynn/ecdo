@@ -89,6 +89,18 @@ Ignore the patients that died after treatment, and claim that the 'therapy' work
 
 https://ia801802.us.archive.org/34/items/bechamp-or-pasteur/Bechamp-or-Pasteur.pdf
 
+## "Attali's last 'revelation' should be...
+
+"Attali's last 'revelation' should be taken very carefully - the 'Possessed' are preparing for a decisive move to seize power over the world." Prof. Valentin Katasanov, July 2021 https://t.co/SAr6AdepCr
+
+## The planning and implementation of... [1]
+
+The planning and implementation of this attack on humanity has been carried out over many lifetimes of the global elite. We can’t win if we’re still thinking in little boxes of nationality, race, gender or religion. We have to think on the scale that they do.
+
+## Silent Weapons for Quiet Wars
+
+“We believed that the entire world should know about this plan, so we distributed internationally one-hundred of these manuscripts, to ask individuals at top level positions their opinions. The consensus opinion was to… https://t.co/O1W5Bo2xVN
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

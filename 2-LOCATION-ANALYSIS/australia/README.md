@@ -19,6 +19,16 @@ Australia's proximity to the Sulawesi pivot means that water velocities are some
 3. https://x.com/nobulart/status/1812565796972798086
 4. https://x.com/nobulart/status/1817571533050581496
 
+## Australia [detail]. ECDO-derived displacement cycle...
+
+Australia [detail]. ECDO-derived displacement cycle from S1&gt;S2&gt;S1 [1]. Australia's proximity to the Sulawesi pivot means that water velocities are somewhat less than in many other places. Vast regions are characterized by dune-like striations which run for many hundreds of… https://t.co/SOYzIMimYn
+
+![](img/1812565796972798086-GSeAcI_XgAABC28.jpg)
+
+![](img/1812565796972798086-GSeByv4WYAAa4zB.jpg)
+
+![](img/1812565796972798086-GSeB2LEWYAAmE2u.jpg)
+
 ## Blue Mountains
 
 ![](img/blue-mountains.jpg)

@@ -27,6 +27,42 @@ An interesting paper, with a convincing argument that GT was astronomically link
 - https://web.archive.org/web/20230605190759/http://www.maajournal.com/Issues/2017/Vol17-1/Sweatman%20and%20Tsikritsis%2017(1).pdf
 - https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876
 
+## The ground was heavily disturbed...
+
+The ground was heavily disturbed by human agricultural activity up until its "discovery" in 1963. For how long had those farmers been harvesting the naturally occurring timber? Replanting what was endemic to the area for most of its history seems rational. https://t.co/KOl3R5iWUZ https://t.co/FK77TxCzPa
+
+![](img/1800987201871786227-GP5jmuKWEAA7mPH.png)
+
+## Also from the Göreme Valley...
+
+Also from the Göreme Valley region in Türkiye. Could we be looking at something similar here https://t.co/7EG0tdXpO9
+
+![](img/1825606634904891840-GVXbXA3W8AAqWlJ.jpg)
+
+## Göbleki Tepe. Comets and the...
+
+Göbleki Tepe. Comets and the Taurids are mentioned, but interestingly nothing is said of 2P/Encke (which is widely considered to be of the same origin as the meteors). https://t.co/NHfm8pz75o https://t.co/0rivckHSox
+
+![](img/1820895143156969898-GUUcOwoXsAA9a_e.jpg)
+
+## YDB impact site No. 22...
+
+YDB impact site No. 22 is less than 150 km south of Göbleki Tepe https://t.co/At4KuQR9c8
+
+![](img/1804969444701098375-GQyKIUvWgAAi9M_.png)
+
+## Revised and updated with additional...
+
+Revised and updated with additional research considering Göbleki Tepe as an observatory for 2P/Encke and the taurids meteor complex. https://t.co/3Bsb94YZxj
+
+## 2006 : Trees are already...
+
+2006 : Trees are already in the ground. 2018 : First appearance of Gobleki Tepe on the UNESCO projects site. I'm no UN fan, but I am I missing something here? What does UNESCO have to do with these trees? https://t.co/HRgOkCBeg8
+
+![](img/1801231774904631638-GP9CC9cXIAAgRLo.jpg)
+
+![](img/1801231774904631638-GP9CSC5XYAAEU6w.png)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

@@ -42,6 +42,12 @@ I don't see evidence of a major cataclysm during this period. There's a lot of d
 
 In India you have the Maurya empire around this time. [3]
 
+## Celestia places Halley passing between...
+
+Celestia places Halley passing between Sun and Earth early May 349 BC, near to Taurus and Auriga. Must have been an impressive sight. https://t.co/y4x3SY3Cf5
+
+![](img/1803420950756503914-GQcJsSTWkAAdJM2.jpg)
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Zhou_dynasty

@@ -129,6 +129,18 @@ https://www.youtube.com/watch?v=CqutJQ2PPQ4
 ![](img/ecrescent2.jpg)
 ![](img/ecrescent3.jpg)
 
+## The Terrace of the Lions....
+
+The Terrace of the Lions. Delos, Greece. "The statues of the lions were dedicated to the Sanctuary of Apollo at the end of the 7th c. or early in the 6th c. BCE. The lions stood as guardians of the Sacred Lake and the Sanctuary. Only five of the lions remain (the number of… https://t.co/WC7qTomntI
+
+![](img/1825673584393564230-GVYTsy-WkAAEFW9.jpg)
+
+## Those whom are members of...
+
+Those whom are members of the brotherhood, especially those more highly placed, must certainly know of the meaning wrapped up in the pillars of Joachim and Boaz. Everything they have worked towards for the past 1000+ years is about to happen. Don't Look Up. https://t.co/jiAWAv6Li6
+
+See `img/1801776691427123711-EPnvs8GmbDz4P4qc.mp4`.
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

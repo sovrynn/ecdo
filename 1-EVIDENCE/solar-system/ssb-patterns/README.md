@@ -1,5 +1,45 @@
 # SSB Analysis
 
+## I've included the temporal markers...
+
+I've included the temporal markers from the harmonic timeline discovery on the 20ka SUN-SSB harmonic decomposition. Black dotted verticals mark the 3700 year (V) intervals. The 4285 and 4627 cycles form a metacycle harmonic at 115ka - the glacial-interglacial cycle and the… https://t.co/evqJeJ94Qf
+
+![](img/1833228695252635950-GXDvxjzX0AALwhw.jpg)
+
+## The yellow chart is generated...
+
+The yellow chart is generated from JPL's Horizons data. It shows the Sun's displacement from the Solar System Barycenter (SSB) from 1600-2059 - this is our main proxy for planetary harmonics. The particular Neptune/Uranus disturbances ~172 years apart (marked in blue) are the key… https://t.co/YZeNcG15aN
+
+![](img/1828804627724165444-GWE2z_oWAAAkQSu.jpg)
+
+![](img/1828804627724165444-h-h-SrvzNbaoJAa0.mp4)
+
+## What happens to this order...
+
+What happens to this order when the governing force of the IV order is nulled? Is the V order perturbed? Do we get a bump in 2030? Red curve is the Sun's displacement from the SSB (as dictacted by the planets). Blue line is distance between Earth and comet 2P/Encke. https://t.co/1ZDWB1p78l https://t.co/5IuOLUr3Kw
+
+![](img/1826743884585775233-GVnk580XkAAAeZR.png)
+
+## Revisiting one of my triggers...
+
+Revisiting one of my triggers of interest; the distance of the sun from the solar system barycenter (as dictated by the positions of the four gas giants) shows a clear rhythm of a double minimum every 4,627 years, with a 40 year span between the coupled alignments. https://t.co/rilFNyEmJB
+
+![](img/1805998874080825675-GRAx2sZX0AEtePu.jpg)
+
+See img/1805998874080825675-vM08lh0yQUfAlNmA.mp4.
+
+## There is a brief period...
+
+There is a brief period of net zero gravitational influence upon the Sun and inner planets 3 times every 180 years when Jupiter establishes a position of opposition to Saturn, Uranus and Neptune. At these times our sun traverses the SSB. (Chart: Sun-SSB distance 1600-2060, JPL). https://t.co/NWFjwk3AnK
+
+![](img/1799801109017743694-GPosnPbWcAAMN-b.png)
+
+## There is a strong relationship...
+
+There is a strong relationship between historic grand solar minima and the sun's distance from the solar system barycenter (as governed by the positions of the four gas giants) in a 4627.25 year grand cycle. https://t.co/uAmUEFyGGC https://t.co/O6KCG909wy
+
+![](img/1799155941390086573-GPfhrg1WcAAQo6h.jpg)
+
 ## Fourier Analysis [1,2]
 
 I've indicated 4627 year periods with background colours.
@@ -34,6 +74,8 @@ I think I have found the 3701-year cycle in here. Now marked in green blobs (pre
 ![](img/ssb8.jpg)
 
 I've adjusted the 3.7ka markers to align with our existing timeline. They occur on the downbeat of a rock ballad.
+
+Digging a bit deeper into this 20ka dataset. The black drop-strings across the top are an inverse Fourier transform, indicating cycle periods (in Earth years) upon which the Sun falls closest to the solar system barycenter. The green, gold and red curves are low-pass and… https://t.co/oHhCyl0nLs
 
 ![](img/ssb9.jpg)
 

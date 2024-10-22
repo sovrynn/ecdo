@@ -83,6 +83,16 @@ Cycle a few days either side of this 2060 alignment and I think you’ll find th
 
 Kataklysmos 2030. Ekpyrosis 2060? Starting to sound like a Crete revival party.
 
+## Encke's visit in 2030 coincides...
+
+Encke's visit in 2030 coincides almost to the day with a rare moment during which Jupiter's gravitational pull is neutralized by the other three giants in opposition, allowing the sun to briefly settle near to the solar system barycenter. https://t.co/zlJv6IXEVH https://t.co/CCPLcwREVK
+
+![](img/1799105814235660707-GPe08hlXMAAgOXo.jpg)
+
+![](img/1799105814235660707-GPe08hmXkAAYTUm.jpg)
+
+![](img/1799105814235660707-GPe1A9qXcAASHB1.png)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
