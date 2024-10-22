@@ -99,6 +99,11 @@ Craters formed by electrical discharges in the laboratory are remarkably similar
 
 ![](img/1632035924975443974-FqYn_D6WAAchL-V.jpg)
 
+## The Keystone Pattern
+https://t.co/ys30hg3xaG
+
+The Keystone Pattern https://t.co/ys30hg3xaG
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Earth%27s_magnetic_field

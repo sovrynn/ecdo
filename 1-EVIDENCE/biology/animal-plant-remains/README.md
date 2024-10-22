@@ -40,6 +40,18 @@ A selection of plates from Reliquoæ Diluvianæ providing context and scale for 
 
 ![](img/1806732492889608558-GRLMrJEWsAI11O1.jpg)
 
+### Reliquae Diluvianae (1823) Record of...
+
+Reliquae Diluvianae (1823) Record of a deluge. https://t.co/K4GQDGqcHv https://t.co/B9zDFm0fT6
+
+![](img/1806360882294804633-GRF66GyXUAA-iao.jpg)
+
+![](img/1806360882294804633-GRF67sQW0AAYdxG.png)
+
+![](img/1806360882294804633-GRF6_jPX0AIIhlk.png)
+
+![](img/1806360882294804633-GRF7Fh1X0AIa0wg.jpg)
+
 ## Cuvier Books
 
 In `LITERATURE-MEDIA/cuvier` you can find the PDFs of several Georges Cuvier's books, from which the following quotes are from.
@@ -176,6 +188,10 @@ The species found were:
 - Castor fiber (beaver)
 - Trichechus rosmarus (walrus)
 - Bos primigenius (wild ox)."
+
+![](img/1815127167568576881-GTCbzQqWgAIQU6R.png)
+
+![](img/1815127167568576881-GTCb3zhXEAASvhE.png)
 
 [1] Submerged Forests, Clement Reid (1913) https://archive.org/details/submergedforests00reid
 

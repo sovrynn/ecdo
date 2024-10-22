@@ -41,6 +41,12 @@ Been looking at this area some more. Being close to the pivot apparently increas
 ![](img/colombia4.png)
 ![](img/colombia5.jpg)
 
+## [2/3] "It is impossible to...
+
+[2/3] "It is impossible to reflect on the changed state of the [South] American continent without the deepest astonishment. Formerly it must have swarmed with great monsters now we find mere pigmies, compared with the antecedent allied races. The greater number, if not all, of…
+
+[3/3] "It would seem, that one cause destroyed the terrestrial animals of South America, and that this cause is to be found in great dislocations of the ground caused by the upheaval of the Cordilleras. If not, it is difficult to conceive on the one hand the sudden and fortuitous…
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

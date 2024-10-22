@@ -206,6 +206,28 @@ days of Yahu [Yahou]. [159]
 
 ![](img/wic-wind.jpg)
 
+## Remarkably similar to my own...
+
+Remarkably similar to my own findings: "Immanuel Velikovsky demonstrated rather convincingly that there was massive evidence of both a literary and scientific nature that great catastrophic earth changes had occurred during the second millennium BC due to cometary showers and the… https://t.co/qU4GY1UwR6 https://t.co/21WCRqP1aQ
+
+![](img/1843744649862893804-GZZK2ddXsAAlU6_.jpg)
+
+## "a twofold motion" Earth in...
+
+"a twofold motion" Earth in Upheaval, Velikovsky (2009 ed.) https://t.co/inwvgIT5Rp
+
+![](img/1806291753550373255-GRE8qsuX0AAr9Kf.png)
+
+## Velikovsky on Alaska, continued from...
+
+Velikovsky on Alaska, continued from the previous post. https://t.co/CwsT1MGs16
+
+![](img/1806268575134494875-GREnsEvXsAAUwXj.png)
+
+## A year was not always...
+
+A year was not always 365.2422 days. Velikovsky : https://t.co/oE4E5nShPN https://t.co/KGflTDmVM4
+
 # TODO
 
 - flood records

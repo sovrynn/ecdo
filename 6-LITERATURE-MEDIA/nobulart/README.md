@@ -163,6 +163,23 @@ Conflicting Pole Shift Agendas Between the East and West https://t.co/T3X2RARAjz
 
 https://nobulart.com/wrath-of-the-sun/
 
+## The Jones Plantation "The first...
+
+The Jones Plantation "The first step in the revolution by the working class is to raise the ploletariat to the position of ruling class, to win the battle for democracy" - The Communist Manifesto, Karl Marx and Friedrich Engels [1] https://t.co/OlngjvTcbB https://t.co/dtma4TNYIS
+
+## The Great Year “Early thinkers,...
+
+The Great Year “Early thinkers, especially those of pre-Hellenic and early classical Greece, devised the concept of cyclical world history, which, because it postulated a succession of different ages, again involved the idea of great spans of time. These, though of vague… https://t.co/TwdVCOsjUD
+
+## Cool fractal cataclysm viz
+
+“Mathematically, the periodicity [of previous cataclysms] is a function of a helicoid“ - Chan Thomas (TAES)[1]. 
+Inspired by this comment some years ago and created really as a lark: I started with the very long term geophysical events going back >100ka and found a pretty good helical fit around 1.0768. As I wound it back towards its nexus, I included many of the more recent great wars, epidemics, genocides and flood myths which fell near the crossings (to see whether Alexander Chizhevsky's [2] cyclic sociology concepts might become apparent in this as well). Shown here in reverse. There are many events not shown here.
+1. https://nobulart.com/cataclysms-revisited/
+2. https://nobulart.com/the-solar-mind/
+
+See img/1807372083858464795-zS0Z6iPujZ2z8Itt.mp4.
+
 ## Good Articles
 
 Chan excerpts (tons of evidence in these):

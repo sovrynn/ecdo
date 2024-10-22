@@ -51,6 +51,10 @@ Does this happen for the same reason that the LLVPs seem to be centered around t
 
 Many lines of evidence suggest more than one planetary explosion in the solar system’s history. The discovery of one (or two) new asteroid belts beyond Neptune is especially suggestive, given that the main asteroid belt is apparently of planetary origin. https://t.co/v40radMJxe
 
+## “Stars go supernova [or micronova]...
+
+“Stars go supernova [or micronova] when their [plasma] double-layer collapses.” …perhaps during a particular harmonic null zone every 3700 years? Also an excellent introduction to EU: https://t.co/eAXshzI6xd
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Solar_cycle#Patterns

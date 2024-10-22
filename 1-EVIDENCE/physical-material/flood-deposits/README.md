@@ -43,6 +43,10 @@ The Channelled Scablands. Evidence of a deluge which has been put on ice. A wide
 
 ![](img/1807412035807781120-GRU159dXMAA-6EB.png)
 
+### We're going to take a...
+
+We're going to take a look at these next. "In recent years, however, cataclysmic flood landscapes with many similarities to the Channeled Scabland have increasingly been documented in many parts of the world (Baker 1997, 2002, 2007). Spectacular examples of GCRs [Giant Current…
+
 ## Shetland
 
 The Tsunami Sands of Scotland. "Recent evidence has suggested one such major event which took place some 7000 years ago. As a result of a massive under-sea landslide close to Norway a huge tidal wave, a tsunami, seems to have advanced southwards from Shetland along the east coast of Scotland. The height of the wave has been estimated at 8m (25ft), and this would clearly devastate the coastal areas that it hit."

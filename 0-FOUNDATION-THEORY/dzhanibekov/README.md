@@ -119,6 +119,12 @@ See `img/1841595827430502521-XPYGKXWoFKQIpcjh.mp4`.
 
 Dzhanibekov Effect applied to Earth Gravitational Model (EGM96 GEOID) https://t.co/ANDf7FMlxb
 
+## Dzhanibekov (2010). Translated from Russian...
+
+Dzhanibekov (2010). Translated from Russian into English using https://t.co/ZVU2utNTKR AI dubbing. Source video: [1] https://t.co/MNyZ6A87wy . https://t.co/Rs1z9nG5fv https://t.co/OAurxUEYMT
+
+See img/1841609295189999926-HNyYXjTvNiPVnOMm.mp4.
+
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/

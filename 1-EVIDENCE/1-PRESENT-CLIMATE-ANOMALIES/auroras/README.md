@@ -53,3 +53,7 @@ RT #aurora from #donegal last night #northernlights #Ireland https://t.co/YZyHW6
 ![](img/1843246382704202219-GZRbC5OWAAAD4Ms.jpg)
 
 ![](img/1843246382704202219-GZRbC5gW8AABPlU.jpg)
+
+## "Trivial omens give warning of...
+
+"Trivial omens give warning of trivial events, but the momentous historical events that attend the birth of a greater cycle in time are preceded by phenomena of a portentous nature, through which the least observant can scarcely fail to become aware of impending change." - City… https://t.co/e8UmcWSbuP
