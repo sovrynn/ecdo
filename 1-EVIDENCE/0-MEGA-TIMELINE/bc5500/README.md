@@ -11,7 +11,7 @@ Cataclysm accounts:
 Physical markers:
 - 5000 BC: Syrian coastal climate change
 - 5325 BC: Shetland tsunami deposit (unadjusted date)
-- 5400 BC: Illumetsa crater field, Estonia
+- 5500 BC: Illumetsa crater field, Estonia
 - 5400 BC: Fennoscandian earthquake, Ojala et al. (2018)
 - 5800 BC: Mayan Chichancanab lake filling
 - 6000 BC: meltwater pulse 1c
@@ -21,16 +21,13 @@ Physical markers:
 - 6200 BC: Storegga underwater landslide
 - 6300 BC: Kilimanjaro ice cores
 - 6400 BC: Black Sea refilling (William Ryan)
+- 6000-5000 BC Lake Sevan, Armenia, high lake levels
+- 6500-5400 BC Latvian Lake creation: https://sci-hub.ru/10.1177/0959683616683255
+- 6200 BC Lake Sidi, Western Mediterranean/North Africa core O18 spike
 
 Abandoned settlements:
 - 5300 BC: Nabta Playa abandonment
 - 5400 BC: Catal Huyuk abandonment
-
-New additions:
-- 5500 BC Illumetsa crater field, Estonia
-- 6000-5000 BC Lake Sevan, Armenia, high lake levels
-- 6500-5400 BC Latvian Lake creation: https://sci-hub.ru/10.1177/0959683616683255
-- 6200 BC Lake Sidi, Western Mediterranean/North Africa core O18 spike
 
 ## Exact date
 

@@ -106,7 +106,7 @@ is remarkable that in the outer patios of these provisional houses, up to three 
 
 As a working hypothesis, I would like to suggest that after a period of plentiful marine resources, the food supplies available to Gramalote inhabitants started to diminish (especially sharks, sea lions and mollusks). Then, possibly, a number of rules had to be set in order to preserve these resources, which subsequently produced social tension over who had the right to exploit certain products. Social tension might also have arisen as the result of certain families specializing in the exploitation of speciic products and then ighting for their control. Apparently, during Phase 3 the exploitation and consumption of marine products were controlled by the Public Architectural Compound, and possibly decided to whom and when they gave the right to exploit the resources mentioned. Alternatively, the Public Architectural Compound also started to control the exchange of the marine products with other communities, creating disagreement within the community of Gramalote. There is also very strong evidence that by the end of the occupation, people started to get more resources from rocky beaches, which still today are found in Huanchaco bay. Interestingly enough, later settlements of the Salinar, Gallinazo, Moche, Chimu, Chimu-Inca, Colonial, Republican and even modern eras favored Huanchaco bay as a more suitable spot to live. The abandonment of Gramalote and the location of modern Huanchaco are key to understanding the adaptation of this ishing community through time and choice to relocate their settlement. Many more ideas can be put on the table but all of them are, at this point of this research, speculative. More investigations in the area are needed to understand this complex process of adaptation that helps a maritime community survive until today. It is clear though, that multiple factors may have caused the abandonment of Gramalote.
 
-## Kish flood deposits: Sumer flood 3500 - 2600 BC
+## Noah's Flood Reconsidered: Kish flood deposits: Sumer flood 3500 - 2600 BC (hard copy here)
 
 "In a recent issue of this journal Prof. Mallowan reviewed the historical evidence for the flood described in the biblical story of Noah. In the table that he prepared three floods are noted at Kish. Two of them occurred in c. 2900 B.C. and rely for their identification on evidence of water-deposited material in the streets and damage to mud-brick walls: the third, the latest and most violent, dated to c. 2600 B.C. was again identified by evidence from the streets and deposited an average of 40 cm. of water-borne material—that is about sixteen inches. The same table read in conjunction with the text (p. 80), indicated for Shurrupak (Fara) a deposit of clay and sand of about 60 cm. thickness over an “ordinary patch of charcoal and ashes” above the Jamdat Nasr level and below the Early Dynastic: it is dated to c. 2850 B.C. AS these levels are dated c. 3000 B.C. and c. 2850 respectively, I suppose that the flood deposit could have occurred at any intervening date, but that specific evidence suggests 2850 B.C.
 
@@ -150,9 +150,11 @@ Dates to around 150 AD.
 
 "The earliest recognisably Harappan sites date to 3500 BC. This early phase lasts till around 2600 BC. The civilization's mature phase lasted from 2600 BC to 2000 BC. This is when the great cities were at their height. Then, from around 2000 BC, there was a steady disintegration that lasted till 1400 BC – what is usually called Late Harappan.[12] There is no sign that the Harappan cities were laid waste by invaders. The evidence strongly points to natural causes.s"
 
-## Bubastis, Egypt 2875 BC chasm
+## Bubastis, Egypt 2890-2686 BC chasm
 
 "In a later account by the Greek historian Manetho, it's stated that a "chasm opened near Bubastis and many perished" during the reign of Hotepsekhemwy in the Second Dynasty." [6]
+
+https://en.wikipedia.org/wiki/Bubastis
 
 "The Second Dynasty of ancient Egypt (or Dynasty II, c. 2890 – c. 2686 BC[1]) is the latter of the two dynasties of the Egyptian Archaic Period, when the seat of government was centred at Thinis."
 

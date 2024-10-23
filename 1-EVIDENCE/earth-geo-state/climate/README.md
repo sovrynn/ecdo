@@ -102,6 +102,8 @@ A single Lake Sidi core in Western Mediterranean, North Africa, O18 analysis.
 
 "Major peaks in the Early to Middle Holocene Sidi Ali δ 18 O curve coincide with maxima in the ice-rafted debris record (orange bars in Fig. 3). This is particularly evident at 11.4, 10.2, 9.3, 8.2 and 6.0 ka cal BP."
 
+https://www.researchgate.net/publication/331891707_Western_Mediterranean_hydro-climatic_consequences_of_Holocene_ice-rafted_debris_Bond_events
+
 ## Volcanic Winter of 536
 
 "The volcanic winter of 536 was the most severe and protracted episode of climatic cooling in the Northern Hemisphere in the last 2,000 years.[1] The volcanic winter was caused by at least three simultaneous eruptions of uncertain origin, with several possible locations proposed in various continents. Most contemporary accounts of the volcanic winter are from authors in Constantinople[citation needed], the capital of the Eastern Roman Empire, although the impact of the cooler temperatures extended beyond Europe. Modern scholarship has determined that in early AD 536 (or possibly late 535), an eruption ejected massive amounts of sulfate aerosols into the atmosphere, which reduced the solar radiation reaching the Earth's surface and cooled the atmosphere for several years. In March 536, Constantinople began experiencing darkened skies and lower temperatures."

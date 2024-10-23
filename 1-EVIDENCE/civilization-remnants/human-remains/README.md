@@ -51,6 +51,16 @@ https://www.dailymail.co.uk/news/peoplesdaily/article-3192196/Enduring-love-4-00
 
 "Ötzi's stomach was completely full and its contents were mostly undigested."
 
+## Burton Agnes Barrow Remains/Drums
+
+"“It was found … in the center of what we call a round barrow. And in that center was a square pit, in which we found three skeletons of quite young children. The eldest was about 12 and was holding on to the two smaller children, [aged] about 3 and 5.”"
+
+![](img/burton-agnes.webp)
+
+But carbon dating of bones found in the Burton Agnes grave indicates that the style of sculpture is even older, dating to between 3005 and 2890 B.C.E., during the first phase of Stonehenge’s construction.
+
+https://www.smithsonianmag.com/smart-news/an-ornate-5000-year-old-stone-drum-is-the-uks-most-significant-prehistoric-art-find-in-a-century-180979604/
+
 ## Citations
 
 1. https://en.m.wikipedia.org/wiki/%C3%96tzi

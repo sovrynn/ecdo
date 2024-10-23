@@ -174,15 +174,19 @@ https://www.sciencedirect.com/science/article/abs/pii/S0037073823000416
 
 "On the basis of 14C dates, I conclude that the whole area was flooded about 5000 years BP and then was covered by the subtidal greyish mud facies, rich in Peneroplids, in the area of Deep Creek (north of the study area), Pelican Creek and Wide Opening (southeast of the study area). The level of this paleo-Great Bahama Bank Sea continued to rise until 3500 years BP and then slowly fell asymptotically toward the present-day level."
 
-## Mid-Holocene environmental changes in the Bay of Skaill, Mainland Orkney, Scotland: an integrated geomorphological, sedimentological and stratigraphical study
+https://www.sciencedirect.com/science/article/abs/pii/S0037073806003320
 
-Layers of shells separated by a layer of silt at around 3200 BC.
+## Mid-Holocene environmental changes in the Bay of Skaill, Mainland Orkney, Scotland: an integrated geomorphological, sedimentological and stratigraphical study (Skara Brae)
+
+Layers of shells separated by a layer of silt at around 3300 to 2900 BC, and a deposit from 4000 to 3000 BC.
 
 ![](img/skara-brae-sediments.png)
 
 A gap in organic material between 4000 and 3000 BC. I personally think it's more likely that a sediment deposit closer to 3000 BC wiped out some of the older deposits, creating the 1000 year gap.
 
 ![](img/skara-brae-layer-gap.png)
+
+https://www.researchgate.net/publication/230509248_Mid-Holocene_environmental_changes_in_the_Bay_of_Skaill_Mainland_Orkney_Scotland_An_integrated_geomorphological_sedimentological_and_stratigraphical_study
 
 ## North Dakota flood deposit
 

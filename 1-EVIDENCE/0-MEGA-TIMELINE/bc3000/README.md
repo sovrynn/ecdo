@@ -22,22 +22,24 @@ Physical markers:
 - Camp Century 2800 BC ice core anomaly
 - 3900 BC bond event
 - 3150 Tollman bolide hypothesis
-
-New additions:
-- 3200 BC Skara Brae silt layer in sediment cores
+- 3300-2900 silt layer, 4000-3000 no-pollen deposit Skaill, Scotland layer in sediment cores
 - 3000 BC Bahamas flooding from sediment cores
-- 3100 BC Kofels Austria landslide/impact event
-- 3100 BC comet impact evidence compilation (some new things in here): https://x.com/GemsOfINDOLOGY/status/1594307136905162753
-- 3300-3100 BC Otzi frozen mummy
+- 3123 BC Kofels Austria asteroid impact event
+
+Civilizational:
+- 3350-3105 BC Otzi frozen mummy
 - 3005 to 2890 BC, Burton Agnes human remains
 - Construction of Newgrange's White Wall from 3200 to 2500 BC
-- 3800 to 3600 BC Dolmen of Menga
+- 3800 to 3600 BC built Dolmen of Menga
 - Middle East floods: https://www.cambridge.org/core/journals/iraq/article/abs/physical-evidence-for-noahs-flood/226A2701813C09C5CD25BCA17C8E5074
 	- Kish, Iraq, two 2900 BC floods, one 2600 BC flood
 	- Shurrupak (Fara), 3000 BC charcoal and ashes, 2850 BC flood deposit
 	- Ur: 3500 BC and 2700 BC deposits
-- 2875 Bubastis Egypt "chasm" account
+- 2890-2686 Bubastis Egypt "chasm" account
 - 4000 BC Lake Sidi, Western Mediterranean/North Africa core O18 spike
+
+New additions:
+- 3100 BC comet impact evidence compilation (some new things in here, really is a stunning Twitter compilation): https://x.com/GemsOfINDOLOGY/status/1594307136905162753
 
 All the evidence is spread throughout the repo but I'll include deeper investigations here.
 

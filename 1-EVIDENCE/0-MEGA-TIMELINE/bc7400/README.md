@@ -11,9 +11,8 @@ Physical markers:
 - 7400 BC: bond event - glacier activity in Norway and cold event in China
 - 7500 BC: Tollman bolide hypothesis
 	- tree rings, tektites, youngest mammoth
-
-New additions:
 - 7300 BC Lake Sidi, Western Mediterranean/North Africa core O18 spike
+- 7527–7498 BC Kofels landslide: https://www.sciencedirect.com/science/article/abs/pii/S0169555X15002548
 
 ## Dvaravati Sinking
 

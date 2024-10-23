@@ -14,7 +14,7 @@ Hard copy in this folder.
 
 https://www.knowth.com/sacred-geography-1.htm
 
-## Illumetsa crater field
+## Illumetsa crater field 5500 BC
 
 The Illumetsa crater field in southeastern Estonia. impact dated to ±7400 YBP, on the V harmonic interval. Loc: 57°57'45.38" N  27°27'38.43" E
 
@@ -78,3 +78,30 @@ Could this mass aerial bombardment of the northern hemisphere 12.5ky ago have im
 ### Origin and provenance of spherules and magnetic grains at the Younger Dryas boundary (hard copy here)
 
 https://cometresearchgroup.org/wp-content/uploads/2016/09/PNAS-2013-Wu-E3557-66.pdf
+
+## 2193 BC K8538 (hard copy here)
+
+"The original document, regarded of maximum
+importance, was copied over more than 1,500 years,
+because it was the astronomical witness for the exact seat
+of the Gods in the celestial realm. The Gods sent their
+envoy messengers as comets out of the constellation
+Triangulum. The observed comet passed the Pleiades,
+Aldebaran, moved further towards Orion and finally
+crashed into the highly advanced, irrigation based
+J. Seifert, F. Lemke: The Sumerian K8538 tablet. The great meteor impact devastating Mesopotamia
+agricultural civilisation of Akkad and Sumer, in 2193 BC,
+destroying the entire Akkadian empire and its capital city
+of Agade."
+
+https://www.knowledgeminer.eu/climate/pdf/Sumerian_K8538_Paper.pdf
+
+## 3123 BC Kofels impact (Alternative dating)
+
+Sumerian Observation of the Kofels Impact Event:
+
+![](img/kofels.jpg)
+
+https://books.google.co.za/books/about/A_Sumerian_Observation_of_the_K%C3%B6fels_Im.html?id=1v7oLAAACAAJ&source=kp_book_description&redir_esc=y
+
+"The Köfels landslide was a huge mountain rockslide (a SturzstromWikipedia) that occurred in the Austrian Alps about 9800 years ago near the present day village of Köfels. Some of its features mystified geologists for quite some time. One hypothesis was that it had been caused by an asteroid impact — a Köfels impact event — but more recent research has rejected the idea. This didn't stop a pair of British engineers from publishing a book that claims that a) it was an asteroid impact, b) it inspired a lot of myths, and c) it was recorded on an ancient Sumerian clay tablet." [12]

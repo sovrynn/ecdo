@@ -6,14 +6,6 @@ Often classified as "burial mounds".
 
 https://cappadociatravelpass.com/a-cappadocian-mystery-kaymakli-underground-city
 
-## Burton Agnes Barrow Remains/Drums [1]
-
-"“It was found … in the center of what we call a round barrow. And in that center was a square pit, in which we found three skeletons of quite young children. The eldest was about 12 and was holding on to the two smaller children, [aged] about 3 and 5.”"
-
-![](img/burton-agnes.webp)
-
-But carbon dating of bones found in the Burton Agnes grave indicates that the style of sculpture is even older, dating to between 3005 and 2890 B.C.E., during the first phase of Stonehenge’s construction.
-
 ## Lanhill long barrow [2]
 
 This one is quite rare, because the chamber was previously undisturbed. Human remains had previously been discovered scattered through other parts of the barrow, but this room was overflowing with skeletons. It reads like a description of Freddy Kruger's basement. The descriptions of how they speculate the bodies were interred is almost clown-world, because the dead weight had to be squeezed down a tight passage and then through a tiny porthole to get it into the chamber. No dating was done on these (its an old paper), but I'd bet they all probably perished around the same time.
@@ -62,5 +54,5 @@ It is possible that a combination of practical survival motives and cultural sym
 
 ## Citations
 
-1. https://www.smithsonianmag.com/smart-news/an-ornate-5000-year-old-stone-drum-is-the-uks-most-significant-prehistoric-art-find-in-a-century-180979604/
+1. -
 2. [Craig Stone](https://nobulart.com)

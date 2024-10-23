@@ -10,6 +10,7 @@
 - 536 volcanic winter event
 - 200-900 AD Lake Sevan, Armenia high lake levels
 - 150 AD vitrified Scotland forts
+- 300 to 600 AD Middle East earthquake surge https://www.cambridge.org/core/books/abs/earthquakes-in-the-mediterranean-and-middle-east/index/40E0583B82D980AFB50DD5A12959DF43
 
 In terms of an exact date, probably mid 6th century (540 ADish) seems most likely in terms of convergence of existing evidence.
 

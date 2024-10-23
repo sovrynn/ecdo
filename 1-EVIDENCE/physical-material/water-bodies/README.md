@@ -76,7 +76,7 @@ Well looky here. A triple conjunction with our dates of 7400 BP, 3700 BP and 500
 
 ## Latvian lake 6500 - 5400 BC
 
-An account of the first formation of a lake with fish in it. Latvia c.±7800 BP. https://sci-hub.ru/10.1177/0959683616683255
+An account of the first formation of a lake with fish in it. https://sci-hub.ru/10.1177/0959683616683255
 
 ## Himalayas Gurudongmar Salt lake
 
