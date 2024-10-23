@@ -71,10 +71,10 @@ In order to contribute, you'll need to be able to use git:
 
 All pull requests will be reviewed to ensure they follow the contribution guidelines.
 
-## Embedding Images into Markdown
+## Embedding Images/GIFs into Markdown
 
 Two ways:
-1. Use this snippet (replace `PATH` with the path to the image, for example `img/australia.jpg`). `alt` and `Title` are shown when the image fails to load and on hover, respectively:
+1. Use this snippet (replace `PATH` with the path to the image, for example `img/australia.jpg`):
 
 ```
 ![](PATH)
@@ -84,12 +84,6 @@ Two ways:
 
 ```
 <img src="PATH" alt="ALT" style="width:50%;"/>`
-```
-
-For GIFs:
-
-```
-![](PATH)
 ```
 
 ## Repo text search (grep, find)

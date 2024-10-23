@@ -1,0 +1,3 @@
+## Prompt: Clean image links
+
+Write a Python script that cleans image links in all README files in or under the current directory. It should recursively descend in directories. At each directory, it should read the README.md file and parse all image links of the form ![S](L X) or ![S](L). For each of these, it should replace it with ![](L). For each link that is modified, print a line to console with the relative path of the directory the README file is in, as well as the image path that was replaced.
