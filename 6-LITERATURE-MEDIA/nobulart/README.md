@@ -47,6 +47,10 @@ Useful news aggregator https://t.co/5N0UcwOGuw https://t.co/55TdiyvoX7
 
 Conflicting Pole Shift Agendas Between the East and West https://t.co/T3X2RARAjz
 
+## "By the early 20th Century...
+
+"By the early 20th Century almost one in every two people smoked, but the incidence of lung cancer remained so low that it was almost immeasurable. Then something extraordinary happened on July 16, 1945.." https://t.co/BMC5Zb4vgr
+
 # Blog Post Excerpts, Curations
 
 ## Good Articles

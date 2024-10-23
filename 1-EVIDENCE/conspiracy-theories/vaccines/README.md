@@ -52,3 +52,16 @@ Washington Post tuning the narrative (23-24 November 2022). https://t.co/5oVcxXl
 ![](img/1597538349459263489-FiuYgq_X0AIwilz.jpg)
 
 ![](img/1597538349459263489-FiuYivwWIAAySjJ.jpg)
+
+## Vaccine toxins
+
+"Toxin-like peptides, almost identical to toxic components of venoms from animals, like conotoxins,
+phospholipases, phosphodiesterases, zinc metal proteinases, and bradykinins, were identified in samples from COVID-19 patients, but not in control samples."
+
+https://t.co/ez7AUhzUCK
+
+![](img/1588443632612560898-FgtIAmIWAAI_hXG.jpg)
+
+![](img/1588443632612560898-FgtIg8lXkAACnWw.jpg)
+
+![](img/1588443632612560898-FgtIxtiXgAEO00Q.jpg)

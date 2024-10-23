@@ -44,3 +44,12 @@ See img/1763521183910125834-Hb3mRzsQu1tukhBi.mp4.
 Yesterday's magnificent M-class flare from the large incoming sunspot cluster on the western limb. https://t.co/3uUBaI04jr
 
 See img/1623399682016681987-Hxx99uCyJmclmFot.mp4.
+
+## Grand Solar Minimum
+https://t.co/wDd7g9SsfY https://t.co/lwwrDIwCIi
+
+Grand Solar Minimum https://t.co/wDd7g9SsfY https://t.co/lwwrDIwCIi
+
+![](img/1597265760178515968-FiqgqOKXwAMemma.png)
+
+![](img/1597265760178515968-FiqgsQSXEAQoM2q.jpg)
