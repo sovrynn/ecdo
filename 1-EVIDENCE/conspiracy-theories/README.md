@@ -60,6 +60,12 @@ But they are Us. Just without the reset.
 
 https://x.com/digijordan/status/1845498878063251475
 
+## #Disney + https://t.co/StUzgfRq5H
+
+#Disney + https://t.co/StUzgfRq5H
+
+See img/1597893053011832834-a3F6vX8bX9tPhySJ.mp4.
+
 # TODO
 
 Tavistock institute

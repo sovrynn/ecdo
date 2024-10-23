@@ -2,6 +2,8 @@
 
 A close follower of the ECDO theory with a lot of relevant material on his [website](https://nobulart.com/). Has also created several excellent ECDO rotation visualizations which are embedded throughout the repo.
 
+Also has some Rumble videos.
+
 ## Contents
 
 -`ecdo-visualizations`: ECDO rotation visualization videos made by Nobulart.
@@ -28,17 +30,70 @@ I use boxySVG for most of the layout and compositing. It’s nimble and efficien
 
 V4.0 Resources : [1] https://t.co/KvDmD5ZCGS (521 MB) [2] https://t.co/ccM8H1Lmar (113 MB) [3] https://t.co/hMiBgL05jk (17 MB - some overlays for use in Google Earth Pro)
 
-## Time portents
+## Open-source metasearch engine. Privacy and...
 
-"Trivial omens give warning of trivial events, but the momentous historical events that attend the birth of a greater cycle in time are preceded by phenomena of a portentous nature, through which the least observant can scarcely fail to become aware of impending change."
+Open-source metasearch engine. Privacy and anonymity guaranteed. https://t.co/5zz2kGMVXd ToR: https://t.co/wMUs4rv8Tn https://t.co/pss4EY1A7j
 
-[1] https://nobulart.com/time-portents/
+![](img/1715098047263244362-F81AH1LWIAEPcfe.jpg)
 
-## Thirty-Five Centuries Ago
+## @stlsystembuster Useful news aggregator
+https://t.co/5N0UcwOGuw https://t.co/55TdiyvoX7
 
-In 1923–29, thirty-three miles north of Vero, in Melbourne, Florida, another such association of human remains and extinct animals was found, “a remarkably rich assemblage of animal bones, many of which represent species which became extinct at or after the close of the Pleistocene [Ice Age] epoch.” The discoverer, J. W. Gidley, of the United States National Museum, established unequivocally that in Melbourne – as in Vero – the human bones were of the same stratum and in the same state of fossilization as the bones of the extinct animals. And again human artifacts were found with the bones… But these conclusions require that the Ice Age ended only twenty-five to thirty-nine centuries ago.
+Useful news aggregator https://t.co/5N0UcwOGuw https://t.co/55TdiyvoX7
 
-https://nobulart.com/thirty-five-centuries-ago/
+![](img/1602396883703500800-Fjzba8oXEA0E6dw.jpg)
+
+## Video: Conflicting Pole Shift Agendas Between...
+
+Conflicting Pole Shift Agendas Between the East and West https://t.co/T3X2RARAjz
+
+# Blog Post Excerpts, Curations
+
+## Good Articles
+
+Chan excerpts (tons of evidence in these):
+- https://nobulart.com/cataclysms-revisited/
+- https://nobulart.com/the-story-and-the-event/
+- Chan does a good job of of dismantling (shredding) the incremental evolution narrative in this chapter.
+	- https://nobulart.com/aftermath-evolution/
+
+Musical harmonics:
+- https://nobulart.com/musica-vitae-et-mortis/
+
+What holds humanity back?:
+- https://nobulart.com/what-holds-mankind-back-from-confronting-the-forces-determined-to-destroy-it/
+
+Atkinson (Rosicrucians):
+- https://nobulart.com/the-souls-progress/
+
+Burgoyne:
+- https://nobulart.com/the-hermetic-key/
+
+Iron mountain excerpt
+
+Vaccine:
+Vaccine ingredients: https://nobulart.com/covid-19-vaccine-ingredients/
+
+Cataclysms:
+- The perfect storm: https://nobulart.com/the-perfect-storm/
+- The flip of the earth https://nobulart.com/the-flip-of-the-earth/
+- Velikovsky excerpt:
+	- https://nobulart.com/east-west/
+
+https://nobulart.com/666
+
+https://nobulart.com/karma/
+
+Politics:
+- https://nobulart.com/the-first-kennedy-assassination/
+
+https://nobulart.com/earth-changes/
+
+## Kennedy Assassination
+
+Why was the route changed at the very last minute to bring JFK along this particular road (with Zapruder already set up)? Because this was the spot that was prearranged for Mrs. Kennedy to discharge the chamber of a hand gun through her husband’s head... https://t.co/Jjyim34Ijy https://t.co/kG78qRDE40
+
+See img/1693896664208068635-a5J_MAyupiUqOzX5.mp4.
 
 ## Heliobiology reccomendations
 
@@ -51,6 +106,18 @@ Guy Beaujouan was also a pioneer in this field. I'm in the process of translatin
 - https://nobulart.com/epidemics-during-grand-solar-minima/
 - https://nobulart.com/using-cosmic-rays-to-predict-influenza-epidemics/
 - https://nobulart.com/from-light-comes-darkness/
+
+## Time portents
+
+"Trivial omens give warning of trivial events, but the momentous historical events that attend the birth of a greater cycle in time are preceded by phenomena of a portentous nature, through which the least observant can scarcely fail to become aware of impending change."
+
+[1] https://nobulart.com/time-portents/
+
+## Thirty-Five Centuries Ago
+
+In 1923–29, thirty-three miles north of Vero, in Melbourne, Florida, another such association of human remains and extinct animals was found, “a remarkably rich assemblage of animal bones, many of which represent species which became extinct at or after the close of the Pleistocene [Ice Age] epoch.” The discoverer, J. W. Gidley, of the United States National Museum, established unequivocally that in Melbourne – as in Vero – the human bones were of the same stratum and in the same state of fossilization as the bones of the extinct animals. And again human artifacts were found with the bones… But these conclusions require that the Ice Age ended only twenty-five to thirty-nine centuries ago.
+
+https://nobulart.com/thirty-five-centuries-ago/
 
 ## The study of cycles
 
@@ -148,10 +215,6 @@ https://nobulart.com/aftermath-our-precursor/
 The Great Year (https://nobulart.com/the-great-year/)
 “There is also a year which Aristotle calls Perfect, rather than Great, which is formed by the revolution of the sun, of the moon and of the five planets, when they all come at the same time to the celestial point from which they started together. This year has a great winter called by the Greeks the Inundation and by the Latins The Deluge; it has also a summer which the Greeks call the Conflagration of the world. The world is supposed to have been by turns deluged or on fire at each of these epochs.” – Censorinus (238 A.D)
 https://nobulart.com/the-great-year
-
-## Video: Conflicting Pole Shift Agendas Between...
-
-Conflicting Pole Shift Agendas Between the East and West https://t.co/T3X2RARAjz
 
 ## Tesla's Pyramids
 
@@ -409,42 +472,32 @@ The yoke of humanity's enslavement lies in the knowledge which has been occulted
 
 ![](img/1801468618300969279-GQAZ7RaWcAArTCI.png)
 
-## Good Articles
+## "In order to topple a...
 
-Chan excerpts (tons of evidence in these):
-- https://nobulart.com/cataclysms-revisited/
-- https://nobulart.com/the-story-and-the-event/
-- Chan does a good job of of dismantling (shredding) the incremental evolution narrative in this chapter.
-	- https://nobulart.com/aftermath-evolution/
+"In order to topple a country, you need three things; time, distraction and traitors from within." https://t.co/mzE5nF8BQ6
 
-Musical harmonics:
-- https://nobulart.com/musica-vitae-et-mortis/
+## Trypanasoma is a microscopic parasite...
 
-What holds humanity back?:
-- https://nobulart.com/what-holds-mankind-back-from-confronting-the-forces-determined-to-destroy-it/
+Trypanasoma is a microscopic parasite which has numerous non-specific symptoms, is seldom tested for and if left untreated is almost always fatal within a few years of infection. Is this the perfect bioweapon? https://t.co/BIxAoT6QSK
 
-Atkinson (Rosicrucians):
-- https://nobulart.com/the-souls-progress/
+## RT "Give me control over...
 
-Burgoyne:
-- https://nobulart.com/the-hermetic-key/
+RT "Give me control over a nation’s currency, and I care not who makes its laws." – Mayer Amschel Rot…
 
-Iron mountain excerpt
+## https://t.co/Zzo6PA0q5j https://t.co/19wvldaEq3
 
-Vaccine:
-Vaccine ingredients: https://nobulart.com/covid-19-vaccine-ingredients/
+https://t.co/Zzo6PA0q5j https://t.co/19wvldaEq3
 
-Cataclysms:
-- The perfect storm: https://nobulart.com/the-perfect-storm/
-- The flip of the earth https://nobulart.com/the-flip-of-the-earth/
-- Velikovsky excerpt:
-	- https://nobulart.com/east-west/
+![](img/1628335959392526337-FpkC43GWAAEf6Sm.png)
 
-https://nobulart.com/666
+## Beethoven's involvement in Freemasonry and...
 
-https://nobulart.com/karma/
+Beethoven's involvement in Freemasonry and its ideals pointed the way for a new view of music. The impact of such a trend cannot be underestimated - it is one of the most direct and significant catalysts in many aspects of the following era. https://t.co/2dHhUbLJFH
 
-Politics:
-- https://nobulart.com/the-first-kennedy-assassination/
+## 'As of today, Saturday, November...
 
-https://nobulart.com/earth-changes/
+'As of today, Saturday, November 20th [2021], all of those naked tyrants have exposed themselves to be nothing but bribed and blackmailed puppets of “Klaus Schwab’s School For Covid Dictators”.' https://t.co/a3Xlv9WIUS
+
+## Karma is powerless to effect...
+
+Karma is powerless to effect good or evil upon the external plane. But, upon the interior plane, the astral sphere of the disembodied soul world, karma becomes the Book of Life from which all our actions in this world are judged. https://t.co/Tc12xC38IZ

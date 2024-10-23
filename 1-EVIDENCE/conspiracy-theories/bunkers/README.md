@@ -89,3 +89,7 @@ Finland's 54,000 bunkers : https://youtu.be/922Db-kztC0
 Switzerland's 374,142 Bunkers : https://youtu.be/9bPIaHg11mI
 Sweden's ~2,000 bunkers : https:// (https://t.co/LFxQQZhug1)youtu.be/6ZiKxF2X2X8 (https://t.co/LFxQQZhug1)
 Found Bunker: https://youtu.be/sKWFx0QAW2w
+
+## Bunker Down: Why Switzerland Is Prepared For The Big One
+
+https://web.archive.org/web/20220313140055/https://www.zerohedge.com/geopolitical/bunker-down-why-switzerland-prepared-big-one

@@ -56,3 +56,29 @@ RT Another record broken in China. The flow of the Yalu River in Liaoning Provin
 In China, with the water level more than 6 meters higher than normal, Linjiang in Jilin Province has suffered its largest flood in history.
 
 https://t.co/gdAzv6Qz5B
+
+## At least two tornadoes involved....
+
+At least two tornadoes involved. Many more pics of the aftermath here: https://t.co/5hzDC61VNJ https://t.co/rdj5Tb0hmU
+
+![](img/1798276489043226941-GPTCwz5X0AEFn6O.png)
+
+![](img/1798276489043226941-GPTCz2_XsAAE3hV.png)
+
+![](img/1798276489043226941-GPTC25XW8AA_4oP.jpg)
+
+## Some of the aftermath. From...
+
+Some of the aftermath. From other videos it appears that there may have been more than one tornado. https://t.co/VcxPwys40Z
+
+See img/1797681859163492589-zDNaAj3wCXsOIkmu.mp4.
+
+See img/1797681859163492589-oyrDFMYWoIQlSGCG.mp4.
+
+## Not far from where I...
+
+This is a short distance north of Durban, on the east coast of South Africa this afternoon. https://t.co/GXnbcTmDTu
+
+See img/1797658753481011389-OrzU6fonOobulJtx.mp4.
+
+See img/1797658753481011389-Du1McgH58i3QWsDZ.mp4.

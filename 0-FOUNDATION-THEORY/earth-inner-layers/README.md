@@ -60,6 +60,12 @@ There's also several PDFs of papers in `papers/`.
 
 Paper on interior of the Earth: https://annas-archive.org/md5/17ca9353c3b84e99c28d13c255e1cd4c
 
+### https://t.co/xfbFNqGvkb https://t.co/p0LgwkqzaD
+
+https://t.co/xfbFNqGvkb https://t.co/p0LgwkqzaD
+
+![](img/1625560111635697681-Fo8mOQKXEBEMzLr.png)
+
 ## Inner Core Iron Phase Change, Two Layers??
 
 Earth's core might not be what they thought it was. 

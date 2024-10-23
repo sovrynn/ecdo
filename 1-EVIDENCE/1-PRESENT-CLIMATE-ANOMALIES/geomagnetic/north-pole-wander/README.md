@@ -56,6 +56,12 @@ https://github.com/user-attachments/assets/de8d7eff-800f-4030-b428-2667cd46179e
 
 Source: https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Magnetic_north_and_the_elongating_blob
 
+## British Geological Survey (2019) https://t.co/xCQNOqlskV...
+
+British Geological Survey (2019) https://t.co/xCQNOqlskV https://t.co/qdb6w3UPqk
+
+![](img/1797656703321989310-GPKPHNmW0AAMajt.png)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

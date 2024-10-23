@@ -27,14 +27,6 @@ This is the period preceding the Holocene.
 
 "During the preceding period, the Bølling–Allerød Interstadial, rapid warming in the Northern Hemisphere[9]: 677  was offset by the equivalent cooling in the Southern Hemisphere.[10][8] This "polar seesaw" pattern is consistent with changes in thermohaline circulation (particularly the Atlantic meridional overturning circulation or AMOC), which greatly affects how much heat is able to go from the Southern Hemisphere to the North. The Southern Hemisphere cools and the Northern Hemisphere warms when the AMOC is strong, and the opposite happens when it is weak.[10] The scientific consensus is that severe AMOC weakening explains the climatic effects of the Younger Dryas.[11]: 1148  It also explains why the Holocene warming had proceeded so rapidly once the AMOC change was no longer counteracting the increase in carbon dioxide levels."
 
-### YDB Field
-
-![](img/ydb-field.jpg)
-
-### Could this mass aerial bombardment...
-
-Could this mass aerial bombardment of the northern hemisphere 12.5ky ago have imparted sufficient energy to destabilize the Earth, thus commencing the oscillation which has continued to this day? This would sensibly align with a pyramid construction date of around 9-10ky ago.
-
 ## Dansgaard-Oeschger event (pre-Holocene) [7] (hard copy in this folder)
 
 I believe these clearly depict ECDO events - they are most clearly recorded in the Greenland ice cores, and thus interpreted as being global warming events. However, the Greenland ice sheets move right to the equator during the event, which would lead to a warming of the ice sheets. These would also have less of an effect in the Antarctic ice sheets, which is much larger. The dramatic heating events would occur during S2, and then the cooling would begin once back at the poles.

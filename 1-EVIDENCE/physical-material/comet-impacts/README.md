@@ -62,3 +62,15 @@ Extraterrestrial impact ejecta found in the gills of fish that died in the Chicx
 This comet and its companions have been convincingly cast as the the actors in the Younger Dryas impact/airburst event. https://t.co/MZ6GvCebpA https://t.co/3cf9EHkRj6
 
 ![](img/1798073725197357516-GPQKcbCaEAAg6IZ.png)
+
+## YDB Field
+
+![](img/ydb-field.jpg)
+
+### Could this mass aerial bombardment...
+
+Could this mass aerial bombardment of the northern hemisphere 12.5ky ago have imparted sufficient energy to destabilize the Earth, thus commencing the oscillation which has continued to this day? This would sensibly align with a pyramid construction date of around 9-10ky ago.
+
+### Origin and provenance of spherules and magnetic grains at the Younger Dryas boundary (hard copy here)
+
+https://cometresearchgroup.org/wp-content/uploads/2016/09/PNAS-2013-Wu-E3557-66.pdf

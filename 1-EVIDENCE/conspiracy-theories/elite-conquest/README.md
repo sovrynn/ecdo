@@ -8,21 +8,6 @@ Could the accelerating trend of north pole wander in 2019 have prompted them to 
 
 I think its already overdue and we've been holding it back. It wasn't expected to be prevented for as long as it has, thus Agenda 21 became Agenda 2030 and the script for the control narrative seems to have disintegrated into some B grade horror movie which was scrawled on the back of a napkin.
 
-## Vaccine Speculation [1]
-
-DEPOP 101: Safely [sic] & Effectively Sterilizing Humanity Since the 1970's
-
-![x](img/vaccine1.jpg "vax")
-![x](img/vaccine2.jpg "vax")
-![x](img/vaccine3.jpg "vax")
-
-"In 1994, the Pro Life Committee of Mexico was suspicious of the protocols for the tetanus toxoid campaign . . . The Committee had the vaccine analyzed for hCG. Similarly laced tetanus vaccines were uncovered in the Philippines and Nicaragua. In addition to the WHO, other organizations involved in the development of an anti-fertility vaccines using hCG include the UN Population Fund, the UN Development Programme, the World Bank, the Population Council, the Rockefeller Foundation, the US National Institute of Child Health and Human Development, the All India Institute of Medical Sciences, and Uppsala, Helsinki, and Ohio State universities." - Vaccine Weekly (https://pubmed.ncbi.nlm.nih.gov/12346214/) (1995)
-
-1. Charted: The Global Decline of Fertility Rates (https://www.visualcapitalist.com/cp/charted-the-global-decline-of-fertility-rates/)
-2. HCG Found in WHO Tetanus Vaccine in Kenya Raises Concern in the Developing World (https://www.scirp.org/journal/paperinformation.aspx?paperid=81838)
-3. Addendum to “HCG Found in Tetanus Vaccine” (https://www.ijvtpr.com/index.php/IJVTPR/article/view/3)
-4. Baby-Killing Vaccine: Is It Being Stealth Tested? (https://www.ewtn.com/catholicism/library/babykilling-vaccine-is-it-being-stealth-tested-11055)
-
 ## Mowing the lawn?
 
 ![](img/vaccine-rates.jpg)
@@ -81,14 +66,6 @@ In Finland "leaders" are preparing for a war. Related they have made it public t
 ![](img/finland1.jfif)
 ![](img/finland2.jpg)
 
-## Bechamp or Pasteur
-
-Ignore the patients that died after treatment, and claim that the 'therapy' works. Sound familiar? Only thing is, this scam started more than a hundred years ago.
-
-![](img/pasteur.jpg)
-
-https://ia801802.us.archive.org/34/items/bechamp-or-pasteur/Bechamp-or-Pasteur.pdf
-
 ## "Attali's last 'revelation' should be...
 
 "Attali's last 'revelation' should be taken very carefully - the 'Possessed' are preparing for a decisive move to seize power over the world." Prof. Valentin Katasanov, July 2021 https://t.co/SAr6AdepCr
@@ -110,6 +87,12 @@ The planning and implementation of this attack on humanity has been carried out 
 Tom Wheeler, former FCC chairman speaking at the National press Club in 2016. Say what? https://t.co/TnrO0ntywA
 
 See img/1802719621121753449-X291ZxzJrFz55Or7.mp4.
+
+## Mind control using sound waves. We ask a scientist how it works https://wef.ch/2RD4mME #science #gfc18
+
+https://x.com/wef/status/1061846182094401536
+
+![](img/mind-control.png)
 
 ## Citations
 
