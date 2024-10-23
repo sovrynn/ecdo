@@ -115,7 +115,7 @@ Sumerian Observation of the Kofels Impact Event:
 
 ## Ville III, Delos, Greece was...
 
-Ville III, Delos, Greece was destroyed 1759 BCE, the same time that Crete was deluged: "great tidal waves moved towards the island from the north and swept over it". [1] https://t.co/NXVluAkkl4 [2] https://t.co/rwmdPSInRY -
+Ville III, Delos, Greece was destroyed 1759 BCE, the same time that Crete was deluged: "great tidal waves moved towards the island from the north and swept over it". [1] https://t.co/NXVluAkkl4 [2] https://t.co/rwmdPSInRY
 
 ## Citations
 

@@ -33,36 +33,36 @@ Cataclysm events:
 
 Physical markers:
 - 1650 BC Antarctic tephra
+- 1627-1600 Minoan Santorini eruption
 - 1960 BC Deception Island volcano, Antarctica
 - 2000 BC Kilimanjaro ice cores
-- 2000 BC drying of the Saraswati
 - 2200 BC North Atlantic bond (ice rafting) event
-- 2200-2100 BC: climate aridification event
 - 2345 BC: Irish Oak tree rings
-- 2500 BC Skara Brae abandonment
-
-New additions:
-- 2000 BC Pompeii human remains
+- 1690-1510 BC Kaali crater, Estonia
 - 2000 BC Syrian coastal climate change
-- 1740-1620 BC Kaali crater, Estonia
 - 1831-1368 Ios Island, Aegean Sea, Greece tsunami sediments
-- 1627-1600 Minoan Santorini eruption
 - 1500 BC Iceland megaflood deposits
+- 2200-2100 BC: climate aridification event
+- 2000 BC drying of the Saraswati
 - 1600 BC Lisbon Tsunami, sediment cores
 - 1700-900 BC Lake Sevan Armenia high lake levels
-- 2300 and 2000 burnings of Ebla, Syria
+
+Civilizational markers:
+- 2500 BC Skara Brae abandonment
+- 2000 BC China "Pompeii of the East" human remains
 - ~1700 BC: various burned Mesopotamian cities
+	- 2300, 2000 BC: Ebla
 	- 1600 BC: Jericho
-	- 1750 BC Kultepe/Khanesh
+	- 1700 BC Kultepe/Khanesh
 	- 1650 BC: Tall el-Hammam
 	- 1700 BC: Hattusa
 	- 1700 BC: Tavslani Mound
-	- 2300, 2000 BC: Ebla
 	- 2300 BC: Numeira
 - ~1750 BC: human remains from multiple places around the world
-	- 1800 BC Peru "water cult" human remains with marine bones
-	- 1750 BC Dublin incinerated remains
 	- 2000 BC China "Pompeii"
+	- 1800 BC Peru "water cult" human remains with marine bones
+	- 1800 BC Dublin incinerated remains
+- 2500-2100 BC: Massif Rouge destruction layer
 
 The two key events for building this event timeline in my view are Gun-Yu and Exodus+Joshua, which both describe multi-decade long periods for cataclysmic happenings, which would line up very well with our current model of a short S2 state. Unfortunately the standard timelines for these are off by a couple of centuries.
 

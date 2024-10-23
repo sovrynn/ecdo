@@ -4,7 +4,7 @@ These things went extinct apparently 4000 years ago, around 2000 BC.
 
 "The last woolly mammoths in mainland Siberia became extinct around 10,000 years ago, during the early Holocene.[50] The final extinction of mainland woolly mammoths may have been driven by human hunting.[49] Relict populations survived on Saint Paul island in the Bering Strait until around 5,600 years ago, with their extinction likely due to the degradation of freshwater sources,[51] and on Wrangel Island off the coast of Northeast Siberia until around 4,000 years ago.[50]" [1]
 
-## Effie: Fairbanks Mammoth 1948, 30,000+ years old
+## Effie: Fairbanks Mammoth 1948, 21,000 years old
 
 Mining team uncovered the frozen remains of a young mammoth in Fairbanks. Lush vegetation in its mouth showed that the animal died during the growing season in an apparently warm climate.
 
@@ -12,7 +12,9 @@ Secondly the animal had been frozen immediately after death, since its flesh was
 
 So a mammoth foraging in the summertime was almost instantaneously frozen and remained so for 20 millenia.
 
-Source: https://nobulart.com/the-flip-of-the-earth/
+Source:
+- https://nobulart.com/the-flip-of-the-earth/
+- https://www.amnh.org/exhibitions/permanent/advanced-mammals/mammoth
 
 ## Lyuba: 42,000 year old perfectly frozen mammoth
 

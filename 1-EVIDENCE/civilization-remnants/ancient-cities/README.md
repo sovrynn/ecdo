@@ -67,6 +67,8 @@ See `img` for video.
 
 ## The Early Initial Period Fishing Settlement of Gramalote, Moche Valley: A Preliminary Report (hard copy here)
 
+"Pampas Gramalote was a Prehispanic fishing village near the town of Huanchaco, Peru that existed between 2000 and 1200 B.C."
+
 ![](img/gramalote1.jpg)
 
 Seven sedimentary "floors". That looks a lot like alluvial deposit to me.
@@ -79,7 +81,9 @@ Ash-sand-ash-sand... more than once.
 
 Gramalote ECDO context.
 
-### Quotes
+https://www.academia.edu/8157849/The_Early_Initial_Period_Fishing_Settlement_of_Gramalote_Moche_Valley_A_Preliminary_Report
+
+### Gramalote Quotes
 
 In general terms the site has a calibrated absolute dating that range from 1500 to 1200 B.C. which is the early part of the Initial Period in the Moche valley. Recent dates obtained from the Cortijo Phase at the Caballo Muerto Complex show a similar range, between 1600-1100 B.C. (Chauchat et al. 2006: 233-4; Nesbitt et al. 2008: 266, Tabla 2; Nesbitt 2012: 199). The similarity in the ceramic assemblages (although some diferences have been observed which will be discussed later) as well as the corresponding subsistence patterns indicate a consistent correspondence between the two sites during this early period. This new data, that comes from secure archaeological contexts help us narrow the extent of the Gramalote occupation from Billman's suggestion of 1750-1310 B.C. to 1500-1200 B.C.
 
@@ -138,7 +142,7 @@ Dates to around 150 AD.
 1. https://www.sciencedirect.com/science/article/abs/pii/S2352409X19304080
 2. https://en.wikipedia.org/wiki/Vitrified_fort
 
-## Ugarit (Destroyed 1200 BC) [4]
+## Ugarit (Apparently Destroyed 1200 BC) [4]
 
 "The polity was at its height from c. 1450 BC until its destruction in c. 1185 BC;[5] this destruction was possibly caused by the purported Sea Peoples, or an internal struggle."
 
@@ -151,6 +155,18 @@ Dates to around 150 AD.
 "In a later account by the Greek historian Manetho, it's stated that a "chasm opened near Bubastis and many perished" during the reign of Hotepsekhemwy in the Second Dynasty." [6]
 
 "The Second Dynasty of ancient Egypt (or Dynasty II, c. 2890 – c. 2686 BC[1]) is the latter of the two dynasties of the Egyptian Archaic Period, when the seat of government was centred at Thinis."
+
+## Massif Rouge (hard copy here)
+
+"The full results of the excavation are not presented here. Our main conclusions were the following. As stated, Parrot had recognized two phases. The study of the monuments established that there existed at least five phases, three assigned to ville II (2500–2300 BCE) and two to the ville III of Mari (2250–1759 BCE)."
+
+"During the excavations of the Great Trench, Parrot discovered a founda- tion deposit typical of the early second city and this first stage of the massif is dated to the beginning of the ville II, that is around 2500 BCE (Butterlin/Gallet 2016)."
+
+"This monument was enlarged twice during the history of the ville II as it was established in a trench in the northern part of the Massif itself. The last enlarge- ment probably occurred after major destruction, and the Massif was enlarged towards the north and the east, acquiring its typical trapezoidal shape at this time."
+
+"The massive gypsum blocks of masonry were erected at this time and it appears after our excavations that this operation did not just create a protecting wall but in fact involved the building of a massive terrace of gypsum stones, up to 2 m long and 4 m high (Figure 4). This huge construction was not visible: at the southwest- ern corner where Parrot had not excavated, we found that the stone walling was covered by a heavy red wash of earth, 10 cm deep. It covered the upper part of the masonry, while the lower part was in foundations, under the level of the so-called voie sacrée which runs along the eastern façade of the building. At this stage, the Massif occupied a surface of more than 1200 m². This monument, like the rest of the city, suffered major damage at the fall of the ville II and was exposed for a long time to erosion which cut especially deeply into the eastern part of the monument, damaging even the structure of the first stage of the monument which therefore cannot be safely reconstructed in its entirety.
+
+"After the sack of the city, the monument remained abandoned until the reign of Apil Kin, ca. 2100 BCE. "
 
 ## Citations
 

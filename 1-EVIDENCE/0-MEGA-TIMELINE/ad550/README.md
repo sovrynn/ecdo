@@ -8,8 +8,6 @@
 - ~550 AD India Bihar/Uttar Pradesh localized flood
 - 540 AD Justinian plague
 - 536 volcanic winter event
-
-New additions:
 - 200-900 AD Lake Sevan, Armenia high lake levels
 - 150 AD vitrified Scotland forts
 

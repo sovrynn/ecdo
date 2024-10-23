@@ -14,3 +14,4 @@ Physical markers:
 
 New additions:
 - 9400 BC Lake Sidi, Western Mediterranean/North Africa core O18 spike
+- 10k-8000 BC Valdroy Norway Cave Biomass

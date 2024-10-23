@@ -108,6 +108,10 @@ In the summer of 1993, Norwegian scientists Rolv Lie and Stein-Erik Lauritzen di
 [1] Cave stratigraphy in western Norway; multiple Weichselian glaciations and interstadial vertebrate fauna 
 https://sci-hub.ru/10.1111/j.1502-3885.1987.tb00096.x
 
+Notes:
+- destruction layer at 30,000 BP
+- destruction layer from 12,000-10,000 BP
+
 ## Windmill Hill Cave (paper here)
 
 Such a pity that this is now closed to the public. The trashcan alley is the access.

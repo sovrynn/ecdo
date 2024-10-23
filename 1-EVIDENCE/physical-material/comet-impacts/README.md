@@ -20,7 +20,11 @@ The Illumetsa crater field in southeastern Estonia. impact dated to ±7400 YBP, 
 
 ![](img/illumetsa.jpg)
 
-## Kaali Craters
+## The age of the Kaali meteorite craters and the effect of the impact on the environment and man: evidence from inside the Kaali craters, island of Saaremaa, Estonia 
+
+"AMS dating of terrestrial macrofossils from these sediment layers places the age of the impact at 16901510 B.C."
+
+https://www.academia.edu/16308753/The_age_of_the_Kaali_meteorite_craters_and_the_effect_of_the_impact_on_the_environment_and_man_evidence_from_inside_the_Kaali_craters_island_of_Saaremaa_Estonia
 
 Kaali Craters. "Saarse et al. (1991) radiocarbon dated the near-bottom lake sediments of the Kaali main crater from a bulk sample of calcareous gyttja over-lying the dolomite debris and proposed an age of 1740–1620 BC." Loc: 58°22'22.08" N  22°40'09.78" E
 

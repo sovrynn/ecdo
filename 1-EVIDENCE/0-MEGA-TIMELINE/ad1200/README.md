@@ -4,8 +4,6 @@
 - 1169 Sicily Earthquake
 - 1190/1252 CE: Antarctic tephra
 - 1300 AD: Yuan Empire downfall
-
-New additions:
 - 1200 AD Syrian coastal change
 
 I don't see bond events or tree ring anomalies around these dates, at least in the notable literature, which bothers me. Also no notable "global flood" narratives in this most recent period of history, along with major happenings in Egypt, India, and China.

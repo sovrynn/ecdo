@@ -4,7 +4,7 @@ There are a number of remains of ancient cities specifically in the Middle East 
 
 - 1300, 1200 BC: Troy
 - 1600 BC: Jericho
-- 1750 BC Kultepe/Khanesh
+- 1700 BC Kultepe/Khanesh
 - 1650 BC: Tall el-Hammam
 - 1700 BC: Hattusa
 - 1700 BC: Tavslani Mound
@@ -12,9 +12,13 @@ There are a number of remains of ancient cities specifically in the Middle East 
 - 2300 BC: Numeira
 - Sodom, Gomorrah
 
-## Numeira [4]
+## Numeira [4] (hard copy here)
 
 "Calibrated radiocarbon dates place the settlement in the EB III. Habitation spanning approximately 250 years or 10-12 generations. Numeira was violently destroyed at the end of the EB III, (2300 BC.) never to be re-occupied.[8][9] This is 200 years earlier than the current assumed date for the destruction of Sodom."
+
+"Excavation area at Numeira as it appeared following the 1977 season. Occupied for less than a century, the remains were better preserved at Numeira than at Bab edh-Dhra. Textiles, string, rope, seeds, and even a cluster of grapes survived amazingly well. Every room was filled with ash and burned debris from the dreadful holocaust that overtook the city."
+
+https://biblearchaeology.org/research/patriarchal-era/2364-the-discovery-of-the-sin-cities-of-sodom-and-gomorrah?highlight=WyJqb3JkYW4iLCJqb3JkYW4nIiwiam9yZGFuJ3MiLCInam9yZGFuIiwicml2ZXIiLCJyaXZlcidzIiwicml2ZXInIiwiJ3JpdmVyJywiLCJ2YWxsZXkiLCJ2YWxsZXknZm9vdCciLCIndmFsbGV5IiwidmFsbGV5JyIsInZhbGxleSdzIiwiam9yZGFuIHJpdmVyIiwiam9yZGFuIHJpdmVyIHZhbGxleSIsInJpdmVyIHZhbGxleSJd
 
 ### Geologic Reconstruction of Numeira (hard copy here) [5]
 
@@ -30,7 +34,7 @@ https://rumble.com/v2867gx-melted-cappadocia-meltology-shorts.html
 
 ![](img/cappadocia.jpg)
 
-## Kultepe/Khanesh (Turkey), 1750 BC
+## Kultepe/Khanesh (Turkey), 1700 BC
 
 It seems the Hittites were the people who lived in Turkey from the early 2nd millenium BC, reaching their peak during the mid-14th century BC. Looking at what happened during 1700 BC: *"sometime in 1710–1705 BC, Kanesh was destroyed".*
 
@@ -40,7 +44,7 @@ https://en.wikipedia.org/wiki/Hittites
 
 https://en.wikipedia.org/wiki/K%C3%BCltepe
 
-## Tall el-Hammam city melted ~3700 years ago, 1650 BC
+## Tall el-Hammam city melted 1650 BC
 
 Evidence that a "cosmic impact" destroyed ancient city in the Jordan Valley:
 

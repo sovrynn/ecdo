@@ -79,15 +79,15 @@ See `LOCATION-MAPPING/europe/great-britain` for flood analysis.
 
 https://www.sciencedirect.com/science/article/abs/pii/S0025322722001797
 
-## 1700 BCish Crete Tsunami
+## 1350 BC Crete Tsunami
 
-Crete Tsunami. Proximal to 1700BC.
+Palaikastro. Crete Tsunami.
 
 ![](img/minoan-tsunami2.jpg)
 
 https://sci-hub.ru/10.1017/s003382220005579x
 
-## Crete Tsunami
+## 1350 BC Crete Tsunami
 
 Another one from Crete.
 
