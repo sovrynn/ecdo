@@ -31,9 +31,10 @@ Auxiliary folders:
 	- In-depth ECDO thesis breakdown (WIP): `FULL-THEORY-BREAKDOWN`
 2. **What is the evidence for the ECDO?**
 	- All manner of ECDO evidence: `EVIDENCE`
-	- Location-specific evidence: `LOCATION-ANALYSIS`
 3. **How do we know it could be happening soon?**
 	- Timeframe predictions: `FORECASTING`
+        - Present climate anomalies: `EVIDENCE/1-PRESENT-CLIMATE-ANOMALIES`
+        - Impending cosmic alignments: `EVIDENCE/2-FUTURE-ALIGNMENTS`
 
 # Contribution Guide
 
