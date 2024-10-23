@@ -1,6 +1,8 @@
 # Forecasting an Impending ECDO Rotation
 
-Goal is to predict when the next ECDO will happen. Recent climate and geo-state anomalies are in `EVIDENCE/PRESENT-CLIMATE-ANOMALIES`.
+Goal is to predict when the next ECDO will happen.
+- Recent climate and geo-state anomalies are in `EVIDENCE/PRESENT-CLIMATE-ANOMALIES`.
+- Impending cosmic alignments are in `EVIDENCE/IMPENDING-COSMIC-ALIGNMENTS`.
 
 ![](img/landscheidt-rosetta.jpg)
 

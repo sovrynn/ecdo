@@ -33,8 +33,8 @@ Auxiliary folders:
 	- All manner of ECDO evidence: `EVIDENCE`
 3. **How do we know it could be happening soon?**
 	- Timeframe predictions: `FORECASTING`
-        - Present climate anomalies: `EVIDENCE/1-PRESENT-CLIMATE-ANOMALIES`
-        - Impending cosmic alignments: `EVIDENCE/2-FUTURE-ALIGNMENTS`
+    - Present climate anomalies: `EVIDENCE/PRESENT-CLIMATE-ANOMALIES`
+    - Impending cosmic alignments: `EVIDENCE/IMPENDING-COSMIC-ALIGNMENTS`
 
 # Contribution Guide
 

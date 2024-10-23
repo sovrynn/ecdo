@@ -6,6 +6,7 @@ All manner of potential evidence for ECDO events.
 
 - `0-MEGA-TIMELINE`: A mega Holocene timeline compilation of all the evidence in this folder.
 - `1-PRESENT-CLIMATE-ANOMALIES`: A host of recent climate and geo-state anomalies.
+- `2-IMPENDING-COSMIC-ALIGNMENTS`: Impending cosmic alignments, mainly around 2030.
 
 ## Main Evidence
 
