@@ -65,9 +65,9 @@ There are some rather interesting projects apparently currently underway or plan
 
 Its 90° not 104° (I checked)
 
-![](beyondearth1.jpg)
-![](beyondearth2.jpg)
-![](beyondearth3.jpg)
+![](img/beyondearth1.jpg)
+![](img/beyondearth2.jpg)
+![](img/beyondearth3.jpg)
 
 All inner planets within 90 degrees of Saturn and Jupiter. Just an observation.
 
@@ -79,7 +79,7 @@ Yes. The asteroid belt could represent an octave.
 
 On the ball, you are as always. Fancy that - she's the size of the British Isles.
 
-![](img/asteroid-belt)
+![](img/asteroid-belt.jpg)
 
 Earth, Moon & Ceres to scale.
 

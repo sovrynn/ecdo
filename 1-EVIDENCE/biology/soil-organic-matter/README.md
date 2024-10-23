@@ -54,4 +54,4 @@ DEM and Soil map combined, sea level at 175m / 576ft:
 ![](img/soil15.jpg)
 ![](img/soil16.jpg)
 ![](img/soil17.jpg)
-![](img/soil18g.jpg)
+![](img/soil18.jpg)

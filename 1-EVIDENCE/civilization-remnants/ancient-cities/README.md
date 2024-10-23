@@ -124,10 +124,10 @@ https://www.cambridge.org/core/journals/iraq/article/abs/physical-evidence-for-n
 
 "So much for Kish. Is there any other evidence which can be used for identificationof the historicalFlood? The answeris yes, and for that we must consider the site of Fara, the ancient Shuruppakwhere tracesof the Noachian Flood might confidentlybe expectedsince, as we have alreadyseen, Utnapishtim reigned in that city at the time of the disaster, and there, according to the legend he received warning of it."
 
-![](img/mallowan1.jpg)
-![](img/mallowan2.jpg)
-![](img/mallowan3.jpg)
-![](img/mallowan4.jpg)
+![](img/mallowan1.png)
+![](img/mallowan2.png)
+![](img/mallowan3.png)
+![](img/mallowan4.png)
 
 ## Vitrified forts in Scotland
 

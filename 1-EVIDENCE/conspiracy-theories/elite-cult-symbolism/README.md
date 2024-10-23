@@ -1,15 +1,5 @@
 # Elite Cult Symbolism
 
-## Pyramid [1]
-
-"In" the pyramid is hermetic. Very distinct from on it, which is Illuminist art.
-
-![](img/illuminati.jpg)
-
-Within the context this art's masonic/hermetic origin, "Order From Chaos" could also be a reference to the destructive event that brought order to a previously chaotic planet.
-
-![](img/order-from-chaos.jpg)
-
 ## Elite symbolism [1]
 
 It's one of the things we know pretty much for sure, because they've been writing about it in hermetic texts for centuries. It's illustrated in most masonic art and symbolism.

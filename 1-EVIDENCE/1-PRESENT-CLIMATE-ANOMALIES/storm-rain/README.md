@@ -14,7 +14,7 @@ Switzerland: https://uk.news.yahoo.com/switzerland-three-people-missing-once-183
 
 RT Henan, China today with 711.6 mm of rainfall in 24 hours!.....🌊 https://t.co/2yALZF9dy0
 
-![](img/1813156539831656464-bTThM8oEoy6TGkQF.mp4)
+See 1813156539831656464-bTThM8oEoy6TGkQF.mp4.
 
 ## Rainfall data fudging [1]
 
