@@ -38,7 +38,7 @@ This pyramid is hypothesized by TES to be a tripartite observatory designed to m
 
 *"This depiction suggests a construction timeframe for the star shaft of around 9200 to 9600 BCE, as evidenced by comparing Exhibits M and N. Many of the stars represented in this carving would have been below the horizon in 2540 BCE and thus invisible in this depiction, to observers of that era. A Starry NightTM rendering of the northern sky at Giza as it appeared in 9200 BCE, which precisely matches the arrangement carved into the stone shown in Exhibit M, is shown below, along with the sextant-like alignment technique entailed."*
 
-![khafre](img/khufu-air-shaft.jpg "khafre")
+![](img/khufu-air-shaft.jpg)
 
 We also have local kiln-fired mortar dating from 4000 to 2300 BC: "1995 Lehner Study: This larger and more comprehensive study included 64 samples, with dates ranging from approximately 4000 to 2300 BCE. The wide range reflects the variability in the materials and the complex history of construction and use of the site." [1]
 
@@ -46,11 +46,11 @@ And tomb robber tool dating to ~3200 BC: "Carbon dating conducted on these piece
 
 ### Khafre erosion [1]
 
-![khafre](img/khafre-pyramid.jpg "khafre")
+![](img/khafre-pyramid.jpg)
 
 "I don't know how to make this clearer: Any story regarding the construction/dating of Khufu and Khafre must definitively address this karst erosion feature—otherwise, it is not a scientific hypothesis, rather narrative dogma." - Ethical Skeptic
 
-![khafre layers](img/khafre-layers.jpg "khafre")
+![](img/khafre-layers.jpg)
 
 ## Dislodged Bricks
 

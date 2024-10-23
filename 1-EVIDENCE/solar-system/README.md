@@ -36,13 +36,13 @@ Linked to the Great Year.
 
 4.  https://www.cosmic-core.org/free/article-254-geometry-of-the-solar-system-part-1-geometric-patterns-of-planets/
 
-![nineveh](img/nineveh1.jpg "nineveh")
-![nineveh](img/nineveh2.jpg "nineveh")
-![nineveh](img/nineveh3.jpg "nineveh")
+![](img/nineveh1.jpg)
+![](img/nineveh2.jpg)
+![](img/nineveh3.jpg)
 
 If you divide 18,508 by 24,998, you get 9254/12499 (simplified). 24,998 is a special number for Pluto:
 
-![nineveh](img/nineveh4.jpg "nineveh")
+![](img/nineveh4.jpg)
 
 ## 2963 BC Planetary positions
 

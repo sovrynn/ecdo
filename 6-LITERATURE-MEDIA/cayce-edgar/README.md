@@ -7,7 +7,7 @@ Blog post about him:
 
 ## Flood Map
 
-![edgar](img/edgar-cayce-map.jpg "edgar")
+![](img/edgar-cayce-map.jpg)
 
 ## Contents
 

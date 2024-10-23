@@ -15,18 +15,18 @@ This description factors out the axial tilt, and references the geographic north
 
 During S1, the Earth is rotating along its rotational axis:
 
-![rotating sphere](img/rotation.gif)
+![](img/rotation.gif)
 
 The rotation during S1 -> S2 can be thought of as occuring independently of this rotation. During S1 -> S2, a new Earth surface point in South Africa is brought to the geographic North pole, which looks like this, cross-sectionally:
 
-![ecdo](img/ecdo-rotation.webp "ecdo")
-![31 meridian](img/31-meridian.webp "31 meridian")
+![](img/ecdo-rotation.webp)
+![](img/31-meridian.webp)
 
 The exact dimensions are a 104 degree rotation north along the 31 E meridian.
 
 As the South Africa LLVP rotates to the geographic north pole, the Earth continues to spin around its rotational axis, and thus the South Africa LLVP will follow an arcing path like this:
 
-![rotational path](img/rotational-path.png "north pole rotation path")
+![](img/rotational-path.png)
 
 Then, the new poles would be:
 - New north pole: (-14, 31), South Africa
@@ -42,11 +42,11 @@ The coordinates of these points in lat/long degree format are:
 
 During S1 -> S2, Earth rotates counterclockwise around the western pivot (looking down onto Earth) and clockwise around the eastern pivot. The arrow around the western pivot here shows how the Earth will rotate, while the long yellow arrows at the extremities show the direction of water movement.
 
-![western pivot](img/western-pivot.webp "western pivot")
+![](img/western-pivot.webp)
 
 Here's the eastern pivot:
 
-![eastern pivot](img/eastern-pivot.png "eastern pivot")
+![](img/eastern-pivot.png)
 
 Putting it all together, the paths of rotation will look like this (Khafre pyramid travels from the red dot, past the north pole to the blue dot):
 

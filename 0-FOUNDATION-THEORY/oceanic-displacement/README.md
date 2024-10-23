@@ -30,7 +30,7 @@ In contrast, terrain that forms a convex shape has more of a likelihood to strea
 The earliest chokepoints are all at sea level, or underwater. These underwater and water-level chokepoints will be the first to drive the water above sea level, from which the water will continue to move to other chokepoints. For example, note these maps showing underwater and sea-level chokepoint flows in Asia and a small bay in North Africa:
 
 ![](img/chokepoints.png "")
-![x](img/radial.png "radial water flow")
+![](img/radial.png)
 
 ### 1.2 Gradual vs steep slopes
 

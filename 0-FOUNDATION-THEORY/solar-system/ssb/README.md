@@ -18,7 +18,7 @@ Specifically, Landscheidt says that the most important moments are when the Sun,
 
 When IOT are graphed over time, they are shown to form waves with a mean length of 166 years (Gleissberg cycle). At the top and bottom of these waves, where the IOT are strongest, occurring at a mean interval of 83 years (ranging from 47 to 118 years), there are maxima in the sunspot cycle, which Landscheidt proposes is caused by slower rotation of the Sun caused by the IOT. The points where the curve crosses the x-axis correspond to solar minima.
 
-![sunspot cycles](img/sunspot-cycles.png "sunspot cycles")
+![](img/sunspot-cycles.png)
 
 This chart actually contrasts Landscheidt's prediction of a supersecular sunspot minimum around 2030 (chart shows a sunspot maximum). However, I am chalking this up to an unclear explanation by Landscheidt, and the fact that this book was published in 1988. I cover his more up-to-date work from subsequent research papers in a following section.
 
@@ -40,7 +40,7 @@ In this paper, Landscheidt explores the relation of the double derivative, or ac
 
 He proposes that there is a definite correspondence, but the relationship has two possible states, and alternates between the states at phase reversals.
 
-![double angular momentum deriv](img/double-am-derivative.png "double angular momentum derivative graph")
+![](img/double-am-derivative.png)
 
 In this visual of the acceleration of angular momentum, the black triangles are Gleissberg maxima, and the empty triangles Gleissberg minima. You can see that at the phase reversal points, the relationship alternates between having the Gleissberg maxima at the extrema of the curve, and at the points where the extrema crosses the 0 value.
 
@@ -50,7 +50,7 @@ He also predicts the next secular minimum to be in 2030, as evidenced in the cha
 
 Carl Smith produced this graph of the angular momentum of the Sun around the SSB:
 
-![carl smith](img/carl-smith.jpg "carl smith")
+![](img/carl-smith.jpg)
 
 The green arrows denote AMPs (angular momentum perturbations) which are moments in which the Sun's angular momentum is unstable.
 
@@ -58,7 +58,7 @@ Geoff Sharp, investigating the AMPs in Carl's graph, found the following:
 
 *"Further research established another correlation, I checked the planetary position at the point of disturbance and noticed a recurring pattern. Every time there is a disturbance on Carl's graph we have the same planetary position. This position is Neptune, Uranus and Jupiter together with Saturn opposing, this only happens on a cycle around 172 years average, which now laid the foundation for solar modulation planning."* [2]
 
-![geoff sharp](img/geoff-sharp.png "geoff sharp")
+![](img/geoff-sharp.png)
 
 *"In addition it also became obvious that Angular Momentum (AM) was responsible for the strength of the solar cycle, the AM curve very closely matches the sunspot curve... There is one fact that cannot be argued against, the position of the planets as just described radically changes the path of the Sun around the Solar System Barycenter (SSB), this also coincides with all solar slowdowns. Only this planetary position can cause this radical path change."* [2]
 

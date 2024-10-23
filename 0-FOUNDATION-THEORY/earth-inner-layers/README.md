@@ -26,7 +26,7 @@ Could the LLSVP's be fulgurites? [1] https://t.co/QOZm6ePJfl https://t.co/lgMKAK
 
 Earth has several internal layers:
 
-![earth internals](img/earth-internals.png "earth internals")
+![](img/earth-internals.png)
 
 These layers are of differing density, rigidity, and thickness [1]:
 - **Crust**, 2.7 - 3 g/cm^3 density, 5 - 35 km thickness (5 km oceanic crust, 35 km continental) [2]

@@ -2,10 +2,10 @@
 
 ## Solar system triggers [1]
 
-![trigger](img/triggers1.jpg "trigger")
-![trigger](img/triggers2.jpg "trigger")
-![trigger](img/triggers3.jpg "trigger")
-![trigger](img/triggers4.jpg "trigger")
+![](img/triggers1.jpg)
+![](img/triggers2.jpg)
+![](img/triggers3.jpg)
+![](img/triggers4.jpg)
 
 The steady narrowing of real polar nutation [1] in apparent lockstep with the approaching Landscheidt Minimum [2] in June 2030, and near pass by 2P/Encke in June 2030 [3] whilst we are at solar grand minimum[4]. AgeEnder 2030 courtesy of the Saturnalian maniacs behind it. As a sidenote: When the 360-365 day calendar adjustment around 687BC (See `EVIDENCE/date-anomalies`) is accounted for, the Mayan long-count does not resolve to 2012, but to around 2030-2040 depending on when one determines the calendar adjustment occurred.
 
@@ -24,7 +24,7 @@ I think the Sun's regular field inversion during a grand solar minimum may be th
 
 There is a perfect 4/5 harmonic on 4627 years, which is the grand orbital cycle of the four gas giants, which govern all solar cycles.
 
-![trigger](img/triggers2.jpg "trigger")
+![](img/triggers2.jpg)
 
 This shows how the gas giant orbital rhythm is locked to the grand solar minimums.
 
@@ -32,7 +32,7 @@ We have the first of one of those double-taps coming up in June 2030.
 
 ## Solar system triggers v3 [1]
 
-![x](img/jpl-horizon.jpg "")
+![](img/jpl-horizon.jpg)
 
 The yellow chart is generated from JPL's Horizons data. It shows the Sun's displacement from the Solar System Barycenter (SSB) from 1600-2059 - this is our main proxy for planetary harmonics. The particular Neptune/Uranus disturbances ~172 years apart (marked in blue) are the key marker series in the 4,627-year (IV) cycle identified by Landscheidt et al - they are the precursor to previous Grand Solar Minimums. Note how the gravitational minimum (red circles) after the first disruptions aligns temporally with the mid-1800's Magnetic North Pole path deviation. The minimum after the second disturbance is Landscheidt's 2030 predicted date for the onset of the GSM. The animation provides a timelapse representation of the Sun's "wobble" due to planetary gravitational influences.
 

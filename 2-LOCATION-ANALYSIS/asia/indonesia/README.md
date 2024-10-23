@@ -2,7 +2,7 @@
 
 Home of the eastern ECDO pivot in Sulawesi. Lots of volcanoes. Interesting location to look into.
 
-![indonesia](img/indonesia.png "indonesia")
+![](img/indonesia.png)
 
 ## Biodiversity
 

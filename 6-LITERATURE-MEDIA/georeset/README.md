@@ -6,15 +6,15 @@ The basic idea is that geological features such as mountains are not created by 
 
 He estimates waves of 10-15 km or more in height from today's sea level.
 
-![x](img/mammoth.jpg "")
+![](img/mammoth.jpg)
 
 Believes these late mammoths were frozen in after event conditions - "instant" drop of temperature.
 
-![x](img/richat.jpg "")
+![](img/richat.jpg)
 
 Richat structure whirlpool?
 
-![x](img/severny.jpg "")
+![](img/severny.jpg)
 
 His analysis of Severny Island flow.
 
@@ -22,7 +22,7 @@ His analysis of Severny Island flow.
 
 One of GEOreSET's beliefs is that structures we attribute as being man-made are actually created by these massive flow events, and later inhabited and decorated by humans.
 
-![x](img/burnt-wood.jpg "burnt wood")
-![x](img/burnt-wood2.jpg "burnt wood")
+![](img/burnt-wood.jpg)
+![](img/burnt-wood2.jpg)
 
 Notice how the burn bit looks like stones in a wall, perfectly fitting.

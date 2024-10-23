@@ -8,7 +8,7 @@ Seoul:
 
 ## S1 -> S2 Rotation path
 
-![rotation path](img/rotation.png "rotation path")
+![](img/rotation.png)
 
 Japan is the only land between Korea and the Pacific.
 
@@ -16,7 +16,7 @@ Japan is the only land between Korea and the Pacific.
 
 Korea is quite hilly, with mountains running along the east, particularly in the north. The west is more of a plain.
 
-![profile](img/profile.png "elevation profile")
+![](img/profile.png)
 
 ## Chokepoint water flow
 
@@ -26,7 +26,7 @@ The way I see it, Korea's geography is pretty much as bad as it gets for bypassi
 
 This is an 800m flood map. For reference, Mount Myohang's highest point is 1909 m. [3] The water flow will be an absolute minimum of 700m in the entire central chokepoint area because that's the only level at which there is enough space for the water to flow westward.
 
-![flood](img/flood.png "800m floodmap")
+![](img/flood.png)
 
 But as detailed below, there's clear erratic evidence for a much higher surge.
 
@@ -90,7 +90,7 @@ Baegundae peak (800m) [8]:
 
 Surprisingly, the cave where Dangun's parents survived a likely ECDO event is not extremely high in elevation. It's on the extremity of Korea's high elevation land, and close to Korea's main water flow-point.
 
-![myohang](img/myohang.png "mount myohang")
+![](img/myohang.png)
 
 That being said, it's the furthest high-elevation location from Mt. Paektu, which is promising.
 
@@ -106,13 +106,13 @@ And two island volcanoes:
 
 Since Korea moves closer to the equator, and is also very close to major subduction fault lines, it's almost certain to see significant volcanic activity.
 
-![volcanoes](img/volcanoes.webp "volcanoes")
+![](img/volcanoes.webp)
 
 ## Mt. Paektu
 
 Unfortunately, most of Korea's high-elevation land is right next to a huge volcano. Perhaps the volcano is actually the reason that this high-elevation land exists.
 
-![paektu](img/paektu.png "paektu volcano")
+![](img/paektu.png)
 
 *"The mountain's caldera was created in 946 by the colossal (VEI 6)[21] "Millennium" or "Tianchi" eruption, one of the most powerful eruptions in the last 5,000 years, comparable to the 230 CE eruption of Lake Taupō and the 1815 eruption of Mount Tambora.[22] The eruption, whose tephra has been found in the southern part of Hokkaidō, Japan, and as far away as Greenland,[23] destroyed much of the volcano's summit, leaving a caldera that today is filled by Heaven Lake."* [1]
 
@@ -120,7 +120,7 @@ It seems likely that if an ECDO were to happen, this volcano would erupt with at
 
 I stumbled across this little visual during my investigation - it highlights how while Mt. Paektu might not be submerged, most humans may not be able to survive anywhere near it unless they are underground due to the volcanic ash.
 
-![paektu eruption](img/paektu-eruption.jpg "paektu eruption")
+![](img/paektu-eruption.jpg)
 
 See https://en.wikipedia.org/wiki/946_eruption_of_Paektu_Mountain
 
@@ -128,7 +128,7 @@ See https://en.wikipedia.org/wiki/946_eruption_of_Paektu_Mountain
 
 Korea lies quite close to major subduction of the Pacific and Phillipine plates, along with other fault lines.
 
-![volcanism](img/volcanism.jpg "volcanism data")
+![](img/volcanism.jpg)
 
 This is an interesting dataset. From what I can see, it indicates that Mount Paektu is much greater in scale than the central volcano. The two island volcanoes have also clearly been active recently. [2]
 

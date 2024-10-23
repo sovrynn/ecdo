@@ -10,11 +10,11 @@ Exploring how Earth's equatorial bulge may interplay with the ECDO. Speculative 
 
 Earth is an oblate spheroid due to its rotation. Earth has an equatorial bulge of 43 km.
 
-![oblate spheroid shape](img/oblate-spheroid.jpg "oblate spheroid")
+![](img/oblate-spheroid.jpg)
 
 Earth also has several internal layers:
 
-![earth internals](../earth-inner-layers/img/earth-internals.png)
+![](../earth-inner-layers/img/earth-internals.png)
 
 These layers will likely react to the Earth changing its axis of rotation due to the equatorial bulge. For example, read this analogy about the plastic nature of the Earth's mantle: *"The memory effect in the Earth’s mantle is akin to that occurring in cold honey after a spoon creates a depression in its surface, and the honey subsequently returns to a flat surface under gravity driven viscous flow. It may take the honey as much as a half an hour to return to being flat, depending on how cold it is."* [2]
 
@@ -62,23 +62,23 @@ These four lines divide the Earth into 4 "strips", touching both pivots, that al
 
 Here are the two quadrants connected to the eastern pivot which move closer to the equator:
 
-![quadrants](img/quadrants1.png "quadrants")
-![quadrants](img/quadrants3.png "quadrants")
+![](img/quadrants1.png)
+![](img/quadrants3.png)
 
 Here are the two quadrants connected to the eastern pivot which move away from the equator:
 
-![quadrants](img/quadrants2.png "quadrants")
-![quadrants](img/quadrants4.png "quadrants")
+![](img/quadrants2.png)
+![](img/quadrants4.png)
 
 Here are the two quadrants connected to the western pivot which move closer to the equator:
 
-![quadrants](img/quadrants5.png "quadrants")
-![quadrants](img/quadrants7.png "quadrants")
+![](img/quadrants5.png)
+![](img/quadrants7.png)
 
 Here are the two quadrants connected to the western pivot which move away from the equator:
 
-![quadrants](img/quadrants6.png "quadrants")
-![quadrants](img/quadrants8.png "quadrants")
+![](img/quadrants6.png)
+![](img/quadrants8.png)
 
 The markers have different colors:
 - Green markers are pivots
@@ -96,29 +96,29 @@ Visualizing the exact degree of equatorial bulge proximity change looks like thi
 
 As points on the Earth rotate closer or further away from the equator, they will rise or fall. However, tectonic plates also need to be taken into account.
 
-![tectonic](img/tectonic-plates.png "tectonic")
+![](img/tectonic-plates.png)
 
 I believe that changes in position on the spheroid will interact together with the tectonic plate structures to produce the final result; each location will need to be analyzed on a case-by-case basis based on the structure of the surrounding tectonic plates. Interestingly, the areas of greatest tectonic plate fracture are both located near the pivots.
 
 My analysis for the major plates follows [1]:
 
-![eurasia](img/eurasian-plate.webp "eurasia")
+![](img/eurasian-plate.webp)
 
 The entire Eurasian plate is essentially contained within a slice that will move closer to the equator. In fact, the equator will run smack dab across the Eurasian plate. Therefore, I predict that the Eurasian plate will rise in elevation, particularly in the Arctic region.
 
-![notam](img/notam-plate.webp "notam")
+![](img/notam-plate.webp)
 
 The North American plate currently does not lie on the equator. After the rotation, the equator will run through the east side of this plate, crossing through the north. Therefore I predict the North American Plate, at least the northern and eastern parts, will rise in elevation.
 
-![sotam](img/sotam-plate.webp "sotam")
+![](img/sotam-plate.webp)
 
 The equator currently runs through the northern part of the South American plate. In S2, the equator will run the full length of the South American plate, on the west side. Therefore I predict that the South American plate will rise, elevating the southern tip of South America.
 
-![indo-aus](img/indo-aus-plate.webp "indo aus")
+![](img/indo-aus-plate.webp)
 
 This is a very interesting region. The equator currently runs through the dotted red line in the Indo-Australian plate. In S2, the equator will run through Australia in the lower right piece of the Indo-Australian plate. I believe the lower piece of the Indo-Australian plate will rise, perhaps only slightly.
 
-![africa](img/africa-plate.webp "africa plate")
+![](img/africa-plate.webp)
 
 The Africa plate would fall as it is centered in a slice that moves away from the equator. As such, we would expect it to fall.
 

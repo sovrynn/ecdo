@@ -21,7 +21,7 @@ Potentially mega current ripples in the Taklamakan Desert.
 
 I predict China will have to deal with water coming from 3 major chokepoints, along with the (shallow) water already in the Yellow Sea. Note that the Yellow Sea bay forms a natural chokepoint in and of itself. If you just look at the shape of the east Asian coastline, it's got several very concave bays.
 
-![x](img/chokepoints.png "china ocean chokepoints")
+![](img/chokepoints.png)
 
 China's mainland will not escape unscathed from this water.
 
@@ -84,8 +84,8 @@ Zhangjiajie mountains are a group of mountains with very interesting shape. They
 
 <img src="img/zhangjiajie-map.png" alt="zhangjiajie" style="width:60%;"/>
 
-![zhangjiajie](img/zhangjiajie.jpg "zhangjiajie")
-![zhangjiajie](img/zhangjiajie2.jpg "zhangjiajie")
+![](img/zhangjiajie.jpg)
+![](img/zhangjiajie2.jpg)
 <img src="img/zhangjiajie3.jpg" alt="zhangjiajie" style="width:50%;"/>
 
 The mountains lie at an average elevation of over 1000m.
@@ -94,7 +94,7 @@ The mountains lie at an average elevation of over 1000m.
 
 This is what the terrain looks like, from Google Maps:
 
-![terrain](img/zhangjiajie-terrain.png "zhangjiajie")
+![](img/zhangjiajie-terrain.png)
 
 The pillars are of quartz-sandstone pillars and [resemble kartz terrain](https://en.wikipedia.org/wiki/Zhangjiajie_National_Forest_Park). Supposedly they were created from [sea erosion 380 million years ago](http://www.chinatoday.com.cn/ctenglish/se/txt/2009-01/21/content_175438.htm).
 

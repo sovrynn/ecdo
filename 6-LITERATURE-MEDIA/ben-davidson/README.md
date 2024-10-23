@@ -2,7 +2,7 @@
 
 Has produced some material potentially relevant to ECDO.
 
-![ben-davidson](img/ben-davidson.jpg "ben davidson")
+![](img/ben-davidson.jpg)
 
 Here is his [website](suspicious0bservers.org). Seems like his info is behind a (small) paywall.
 
@@ -16,7 +16,7 @@ https://www.youtube.com/live/5u5XC9OKAOY?feature=shared
 
 ## Book excerpt
 
-![x](img/ben-davidson2.jpg "")
+![](img/ben-davidson2.jpg)
 
 ## GPT Trained on his theories
 

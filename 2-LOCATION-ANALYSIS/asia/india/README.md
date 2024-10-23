@@ -1,6 +1,6 @@
 # India
 
-![india](img/india.png "india")
+![](img/india.png)
 
 May be spared the worst of it by the Himalayas, going from S1 to S2.
 
@@ -14,9 +14,9 @@ https://github.com/user-attachments/assets/6ab919f1-12ac-4c40-966d-5b1552d6045e
 
 See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization. [1]
 
-![ie1](img/indiaerosion1.jpg "ie1")
-![ie2](img/indiaerosion2.jpg "ie2")
-![ie3](img/indiaerosion3.jpg "ie3")
+![](img/indiaerosion1.jpg)
+![](img/indiaerosion2.jpg)
+![](img/indiaerosion3.jpg)
 
 India & Sri Lanka (incl. Mohenjo-Daro). ECDO rotations S1>S2 and S2>S1. The new model provides a hint of seiche. Greyscale elevation and false-colour bathymetry. Remarkable channel erosion type morphology between Sri Lanka and India following the ECDO path. Sri Lanka has the characteristic teardrop form which some islands take on in fast flowing rivers. Third image is Mars megaflood erosion with a teardrop island (flow would have been from the bottom of the image to the top) [1]. Red lines are ECDO displacement path [2].
 
@@ -30,23 +30,23 @@ Tamil flood story: "Half of the land mass Kumari Kandam, which was south of Indi
 
 There is a paper by BB Lal (see `EVIDENCE/cataclysm-chronology/asia/india`) that references multiple cities in North India that were flooded circa 1900 BC.
 
-![india flood sites](img/india-flood-sites-2.png "india flood sites")
+![](img/india-flood-sites-2.png)
 
 The exact locations are as follows:
 
-![india flood sites](img/india-flood-sites.png "india flood sites")
+![](img/india-flood-sites.png)
 
 The approximate elevation of this area is 100m - 300m.
 
 ## Nigiri Hills
 
-![india](img/nigiri.png "india")
+![](img/nigiri.png)
 
 ### Analysis [1]
 
-![nh1](img/nigirihills1.jpg "nh1")
-![nh2](img/nigirihills2.jpg "nh2")
-![nh3](img/nigirihills3.jpg "nh3")
+![](img/nigirihills1.jpg)
+![](img/nigirihills2.jpg)
+![](img/nigirihills3.jpg)
 
 Red lines are the ECDO path. Appears to be quite a few striations running along the path around it (I marked a few with blue arrows). Considering their relative flatness, I think these are overtopped going from S2>S1.
 

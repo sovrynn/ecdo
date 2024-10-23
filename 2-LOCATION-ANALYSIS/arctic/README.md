@@ -15,13 +15,13 @@ Arctic Ocean ECDO displacement visualization.[1] Bedrock without ice, including 
 
 ## Severny Island
 
-![arctic](img/severny.png "arctic")
+![](img/severny.png)
 
 ### Analysis [1]
 
-![s1](img/severny-island.jpg "s1")
-![s2](img/severny-island2.jpg "s2")
-![s3](img/severny-island3.jpg "s3")
+![](img/severny-island.jpg)
+![](img/severny-island2.jpg)
+![](img/severny-island3.jpg)
 
 Severny Island. Red lines are the ECDO moment of inertia. Extensive evidence of highly uniform directional scouring, as is characteristic of high velocity water flows.
 
@@ -29,13 +29,13 @@ Severny Island. Red lines are the ECDO moment of inertia. Extensive evidence of 
 
 ## Svalbard
 
-![arctic](img/svalbard.png "arctic")
+![](img/svalbard.png)
 
 ### Analysis [1]
 
-![s1](img/svalbard.jpg "s1")
-![s2](img/svalbard2.jpg "s2")
-![s3](img/svalbard3.jpg "s3")
+![](img/svalbard.jpg)
+![](img/svalbard2.jpg)
+![](img/svalbard3.jpg)
 
 Svalbard. Bedrock striations are in agreement with the ECDO moment of inertia (red lines).
 

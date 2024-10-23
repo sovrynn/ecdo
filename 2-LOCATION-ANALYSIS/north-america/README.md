@@ -2,7 +2,7 @@
 
 While there are likely several spots that are safe, North America has not been analyzed yet so much.
 
-![na](img/north-america-elevation.png "na")
+![](img/north-america-elevation.png)
 
 ## Analysis [1]
 

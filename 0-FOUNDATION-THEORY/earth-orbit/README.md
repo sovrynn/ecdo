@@ -6,7 +6,7 @@ This page covers some basic knowledge regarding the Earth's rotation - axial til
 
 Axial tilt is the angle between an object's rotational axis (spinning) and its orbital axis (orbit), which is the line perpendicular to its orbital plane, which is the plane along which, for Earth, it rotates around the Sun. The Earth's axial tilt is about 23.4 degrees. depicted by the red line in the below gif which does not point straight upwards.
 
-![orbitgif](img/earth-orbit.gif)
+![](img/earth-orbit.gif)
 
 ## Polar Nutation [1]
 
@@ -21,7 +21,7 @@ There are 3:
 - The **north magnetic pole** is the point on the north surface of the Earth where the planet's magnetic field points directly downward. Presumably, this is found through measurement
 - Finally, the **geomagnetic north pole**, which would be the north pole in an approximate dipole model of the Earth's magnetic field
 
-![north poles](img/north-poles.png "north poles")
+![](img/north-poles.png)
 
 Currently, none of the 3 are the exact same point.
 

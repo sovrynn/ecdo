@@ -4,9 +4,9 @@
 
 DEPOP 101: Safely [sic] & Effectively Sterilizing Humanity Since the 1970's
 
-![x](img/vaccine1.jpg "vax")
-![x](img/vaccine2.jpg "vax")
-![x](img/vaccine3.jpg "vax")
+![](img/vaccine1.jpg)
+![](img/vaccine2.jpg)
+![](img/vaccine3.jpg)
 
 "In 1994, the Pro Life Committee of Mexico was suspicious of the protocols for the tetanus toxoid campaign . . . The Committee had the vaccine analyzed for hCG. Similarly laced tetanus vaccines were uncovered in the Philippines and Nicaragua. In addition to the WHO, other organizations involved in the development of an anti-fertility vaccines using hCG include the UN Population Fund, the UN Development Programme, the World Bank, the Population Council, the Rockefeller Foundation, the US National Institute of Child Health and Human Development, the All India Institute of Medical Sciences, and Uppsala, Helsinki, and Ohio State universities." - Vaccine Weekly (https://pubmed.ncbi.nlm.nih.gov/12346214/) (1995)
 

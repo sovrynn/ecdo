@@ -9,7 +9,7 @@ The [first part](https://theethicalskeptic.com/2020/02/16/the-climate-change-alt
 - *"48% of global ocean sea surface temperature heat content rise from 1995 to 2023 arrived in a mere 3 to 4 weeks of 2023, far too fast for the atmosphere or man to serve as the cause. A record level Antarctic ice melt-off occurred simultaneously to this and during a record cold winter"*
 - *"Abyssal and deep oceans at sea bottom are absorbing excessive novel heat content per cubic kilometer of ocean"*
 
-![1973](img/1973.jpg "ethical skeptic 1973 viz")
+![](img/1973.jpg)
 
 The first four citations from his work may also be good leads:
 - Penny Starr; Breitbart News: Politics: Study: Oceans Heating up Like ‘3.6 Billion Hiroshima Atom-Bomb Explosions’; 15 Jan 2020; https://www.breitbart.com/politics/2020/01/15/study-oceans-heating-up-like-3-6-billion-hiroshima-atom-bomb-explosions/

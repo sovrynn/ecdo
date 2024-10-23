@@ -70,8 +70,8 @@ Mesopotamian flood myth - Utnapishtim builds a boat and survives the flood.
 
 Not only does it describe a deluge, it specifically describes an oceanic displacement.
 
-![turkey flood](img/turkey-flood1.jpg "turkey flood")
-![turkey flood](img/turkey-flood2.jpg "turkey flood")
+![](img/turkey-flood1.jpg)
+![](img/turkey-flood2.jpg)
 
 [1] Myth, Legend and Custom in the Old Testament, Gaster (1969)
 

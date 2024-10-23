@@ -2,7 +2,7 @@
 
 An island nation in East Asia lying on the Pacific Plate boundary. It has to deal with a huge span of Pacific Ocean, along with a major subduction zone of the Pacific plate.
 
-![x](img/profile.png "japan rotation path")
+![](img/profile.png)
 
 Tokyo:
 - Coordinates: (35.7 N, 139.7 E)
@@ -12,7 +12,7 @@ Tokyo:
 
 Japan has two major sub-oceanic chokepoints due to the Pacific plate subduction. The upper one in particular is completely blocked:
 
-![x](img/chokepoints.png "japan sub-oceanic chokepoints")
+![](img/chokepoints.png)
 
 The quantity of water being pushed up at these chokepoints is going to be immense. The depth of the Pacific in that area is 5-6 km, and it has to essentially reach surface level, potentially at speeds of over 1000 km/h. The surge will be insane.
 
@@ -24,7 +24,7 @@ See this elevation path of the upper chokepoint, which is going to be the major 
 
 Japan has many volcanoes [5], and is situated right on the Pacific Plate boundary. In fact, there are very few regions in Japan that aren't in close proximity to a volcano. [6]
 
-![x](img/volcanoes.png "japan volcano map")
+![](img/volcanoes.png)
 
 If these all erupt at the same time, spewing out ash and magma, it would likely be enough to make Japan completely inhabitable, just on its own.
 

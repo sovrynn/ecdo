@@ -6,11 +6,11 @@ Fun little topic.
 
 ![](img/noah-tes.jpg)
 
-![enki](img/enki-boat.jpg "enki")
+![](img/enki-boat.jpg)
 
 ## Noah's Ark
 
-![noahs ark](img/noah-ark.jpg "noah")
+![](img/noah-ark.jpg)
 
 https://youtu.be/s_fkpZSnz2I
 

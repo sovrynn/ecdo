@@ -41,8 +41,8 @@ North Magnetic Pole and Planetary Harmonics (1600-2024). Could the planets be in
 
 ## NOAA Data
 
-![north pole](img/npw1.jpg "north pole")
-![north pole](img/npw2.jpg "north pole")
+![](img/npw1.jpg)
+![](img/npw2.jpg)
 
 Courtesy of NOAA, showing that that the Np has traversed more in the past 25 years than it did in the 400 years before that. Sp is more consistent, but has similarly covered over 2000km headed in pretty much one direction.
 

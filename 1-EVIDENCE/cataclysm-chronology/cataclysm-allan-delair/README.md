@@ -8,13 +8,13 @@
 
 - Colab notebook: https://colab.research.google.com/drive/1wBdG8uHHVu4Go5Xds3ccT54PU2qpqVZy?usp=sharing
 
-![analysis](img/analysis.PNG "analysis")
+![](img/analysis.PNG)
 
 ## Myth tables
 
-![cataclysm](img/cataclysm1.jpg "cataclysm")
-![cataclysm](img/cataclysm2.jpg "cataclysm")
-![cataclysm](img/cataclysm3.jpg "cataclysm")
+![](img/cataclysm1.jpg)
+![](img/cataclysm2.jpg)
+![](img/cataclysm3.jpg)
 
 ## Citations
 

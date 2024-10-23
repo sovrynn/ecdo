@@ -101,13 +101,13 @@ The water surrounding the island is 140m deep. Shetland only has a highest peak 
 
 ## Great Britain Coast
 
-![gbcoast](img/great-britain-coast.jpg "gbcoast")
+![](img/great-britain-coast.jpg)
 
 This is a great illustration of these MASSIVE clay and other sediment layers that underlie GB (Dorset and Devonshire), sloping down into the sea.
 
 ## East Yorkshire
 
-![eu](img/east-yorkshire.png "eu")
+![](img/east-yorkshire.png)
 
 ### Investigating Ripples Potentially Related to ECDO
 
@@ -117,21 +117,21 @@ I'm not sure this is going to work but I have taken some screenshots of ripples 
 
 Geographic location:
 
-![east-yorkshire](img/east-yorkshire1.jpg "east yorkshire")
+![](img/east-yorkshire1.jpg)
 
 Ripple sites (A,B,C). Blue line is the original buried coastline. Everything to the East is land made of sediment (Boulder Clay):
 
-![east-yorkshire](img/east-yorkshire2.jpg "east yorkshire")
+![](img/east-yorkshire2.jpg)
 
 Ripple sites in yellow boxes:
 
-![east-yorkshire](img/east-yorkshire3.jpg "east yorkshire")
-![east-yorkshire](img/east-yorkshire4.jpg "east yorkshire")
-![east-yorkshire](img/east-yorkshire5.jpg "east yorkshire")
+![](img/east-yorkshire3.jpg)
+![](img/east-yorkshire4.jpg)
+![](img/east-yorkshire5.jpg)
 
 A,B,C- ripple sites. D- Archaeological discovery. Blue Line- old cliff line:
 
-![east-yorkshire](img/east-yorkshire6.jpg "east yorkshire")
+![](img/east-yorkshire6.jpg)
 
 Also for interest this archaeological discovery was found at point D: https://www.thehistoryblog.com/archives/63342
 

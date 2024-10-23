@@ -2,23 +2,23 @@
 
 If you look at the map of biodiversity hotspots, there's a lot of overlap with high-elevation or low rotational-speed locations. It may be that this is another factor hinting at safe spots during the ECDO event.
 
-![bio](img/biodiversity-hotspots.jpg "bio")
-![bio](img/biodiversity-plants.jpg "bio")
-![bio](img/global-biodiversity.jpg "bio")
+![](img/biodiversity-hotspots.jpg)
+![](img/biodiversity-plants.jpg)
+![](img/global-biodiversity.jpg)
 
 ## Fish
 
-![bio](img/fish-species.jpg "bio")
-![bio](img/freshwater-fish-species.jpg "bio")
+![](img/fish-species.jpg)
+![](img/freshwater-fish-species.jpg)
 
 ## Marine Plants
 
-![marine plant diversity](img/marine-plant-diversity.jpg "marine plant diversity")
-![marine plant diversity](img/marine-plant-diversity2.jpg "marine plant diversity")
+![](img/marine-plant-diversity.jpg)
+![](img/marine-plant-diversity2.jpg)
 
 ## Old Biodiversity Data
 
-![biodiversity](img/biodiversity-old.jpg "biodiversity")
+![](img/biodiversity-old.jpg)
 
 ## End of the World Biodiversity Atlas
 

@@ -10,10 +10,10 @@ It's one of the things we know pretty much for sure, because they've been writin
 
 The book in question is Sitchen's The 12th Planet (Cue groans). I am a aware that he was a member of the illuminati and had an office in the Rockefeller Centre but maybe that should actually prompt us to look at his work more closely. He postulates the existence of terrestrial planet called Marduk (Niburu) which orbits the sun every 3,600 years and allows the nephilim access to Earth around it's perigee. Whether you believe the Marduk planet and Nephilim theory or not this cycle length fits with our 3,700 year catastrophe cycle theory and he bases all his work on an in depth knowledge of ancient Sumerian artifacts, even if his writings may be smoke and mirrors there may contain vital information for the initiated.
 
-![marduk](img/marduk1.jpg "marduk")
-![marduk](img/marduk2.jpg "marduk")
-![marduk](img/marduk3.jpg "marduk")
-![marduk](img/marduk4.jpg "marduk")
+![](img/marduk1.jpg)
+![](img/marduk2.jpg)
+![](img/marduk3.jpg)
+![](img/marduk4.jpg)
 
 ## Pillars of Joachim and Boaz [1]
 

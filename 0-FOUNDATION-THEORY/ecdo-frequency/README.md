@@ -20,19 +20,19 @@ I tend towards a quasi-periodic timeline, based on a timeline of Holocene events
 
 ## Alternate hypothesis: 10th harmonic (twice as frequent as 3700 years) [1]
 
-![x](img/tenth-harmonic.jpg "")
+![](img/tenth-harmonic.jpg)
 
 Is this perhaps a comet locked in the tenth harmonic (The harmonics are all expressed relative to the 18.5ka I)?
 
 https://chatgpt.com/share/0e3c3803-5dd3-401d-b75f-7c29e513707e
 
-![x](img/frequency.jpg "")
+![](img/frequency.jpg)
 
 See `EVIDENCE/solar-system/encke-comet` for a full analysis.
 
 ## Flegrei Volcano Dates
 
-![x](img/flegrei-volcano.jpg "")
+![](img/flegrei-volcano.jpg)
 
 ## Grep searching notable dates
 

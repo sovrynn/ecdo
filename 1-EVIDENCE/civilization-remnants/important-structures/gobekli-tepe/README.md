@@ -22,7 +22,7 @@ My thinking is that it was built to watch for whatever we encountered around 12,
 
 An interesting paper, with a convincing argument that GT was astronomically linked to observing (predicting?) the progenitor of Encke and the taurids in much the same way as the pyramids were constructed to monitor the aftermath of the YDB event.
 
-![sweatman gobekli](img/sweatman-gobekli-tepe.jpg "sweatman gobekli")
+![](img/sweatman-gobekli-tepe.jpg)
 
 - https://web.archive.org/web/20230605190759/http://www.maajournal.com/Issues/2017/Vol17-1/Sweatman%20and%20Tsikritsis%2017(1).pdf
 - https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876

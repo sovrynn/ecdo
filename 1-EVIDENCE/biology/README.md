@@ -21,7 +21,7 @@ https://annas-archive.org/scidb/10.5194/cp-16-597-2020
 
 ## Wallace's Line
 
-![x](img/wallaces-line.jpg "wallaces line")
+![](img/wallaces-line.jpg)
 
 A sea level rise from 13,000 years ago caused this, per the visual.
 

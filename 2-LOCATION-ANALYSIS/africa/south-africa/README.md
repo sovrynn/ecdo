@@ -32,22 +32,22 @@ Red are saltwater, green are freshwater.
 
 ## Oranjemund
 
-![sa](img/oranjemund.png "sa")
+![](img/oranjemund.png)
 
 ### Oranjemund Analysis
 
-![oranjemund 1](img/oranjemund.jpg "oranjemund 1")
-![oranjemund 2](img/oranjemund2.jpg "oranjemund 2")
+![](img/oranjemund.jpg)
+![](img/oranjemund2.jpg)
 
 This is the diamond coast, from Oranjemund northwards. See the flow indications running north from the coast here. It comes at least 50km inland (probably more). I haven´t looked closely here yet, but I´d say that everything to the west of the red line (the ECDO moment) would be at risk returning from S2 to S1.
 
-![oranjemund 3](img/oranjemund3.jpg "oranjemund 3")
+![](img/oranjemund3.jpg)
 
 Red arrow marks pretty much the only point near to 5,000 ft in the region to the East of Oranjemund.
 
 ## Etosha Speculative Convo
 
-![etosha](img/etosha.jpg "etosha")
+![](img/etosha.jpg)
 
 If you look at the topography, and the locations of the salt pans, it looks like ocean water makes it way up via SA west coast / Namibia and then settles in the localized low areas.
 
@@ -67,11 +67,11 @@ The flow is probably much less severe than in other parts of the globe due to th
 
 ## Swartberg Range
 
-![sa](img/swartberg.png "sa")
+![](img/swartberg.png)
 
 ### Analysis
 
-![sr](img/swartberg-range.jpg "swartberg range")
+![](img/swartberg-range.jpg)
 
 The swartberg range has quite a distinctive form - multiple walls of rock jutting out towards the ocean. Maybe its enough to preserve something here during S2>S1.
 
@@ -91,25 +91,25 @@ https://en.wikipedia.org/wiki/San_people#Genetics
 
 Looks to be some topographical and visual evidence of flows in this area.
 
-![x](img/south-africa-coast.jpg "south africa coast")
-![x](img/south-africa-coast2.jpg "south africa coast")
-![x](img/south-africa-coast3.jpg "south africa coast")
+![](img/south-africa-coast.jpg)
+![](img/south-africa-coast2.jpg)
+![](img/south-africa-coast3.jpg)
 
 If you look at the underwater terrain near the coast in this area, you can see an underwater chokepoint that would lead to a surge in the above coastal area.
 
-![x](img/south-africa-coast4.jpg "south africa coast")
+![](img/south-africa-coast4.jpg)
 
 ## Makgadikgadi
 
-![sa](img/makgadikgadi.png "sa")
+![](img/makgadikgadi.png)
 
 Makgadikgadi estimated to have last been wet 16ka BP.
 
-![sa](img/makgadikgadi.jpg "sa")
+![](img/makgadikgadi.jpg)
 
 ## Fynbos
 
-![sa](img/fynbos.png "sa")
+![](img/fynbos.png)
 
 "The fynbos ecoregion is within the Mediterranean forests, woodlands, and scrub biome. In fields related to biogeography, fynbos is known for its exceptional degree of biodiversity and endemism, consisting of about 80% (8,500 fynbos) species of the Cape floral kingdom, where nearly 6,000 of them are endemic."
 

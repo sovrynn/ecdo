@@ -2,7 +2,7 @@
 
 The Andes are the tall mountain range running along the west coast of South America. High in elevation and close to the western pivot, they may be safe during S1 to S2 of the ECDO event.
 
-![sa](img/andes.png "sa")
+![](img/andes.png)
 
 ## Dangers [1]
 
@@ -24,11 +24,11 @@ Significant ocean isn't directly on the rotation path, but as you can see, the l
 
 ## Toctuca
 
-![sa](img/toctuca1.jpg "sa")
+![](img/toctuca1.jpg)
 
 That south part of the crescent appears to be richer in mammalian life as well.
 
-![sa](img/toctuca2.jpg "sa")
+![](img/toctuca2.jpg)
 
 Richest spot appears to be almost exactly near Toctuca.
 

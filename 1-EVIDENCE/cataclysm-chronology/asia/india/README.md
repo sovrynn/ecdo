@@ -2,7 +2,7 @@
 
 Indian mythology seems to be rich with accounts of natural disasters. Sometimes, the natural disasters seem to be portrayed as "gods" which fight, with one eventually winning out.
 
-![alt](img/indiamyths.jpg "india myths")
+![](img/indiamyths.jpg)
 
 Check `img/` for all records.
 
@@ -74,13 +74,13 @@ Paper in this folder.
 
 Seems to be describing two consecutive events - the sinking of the (now submerged) southern land (S1>S2), and then when they’ve just set up shop again the same thing happens again, submerging land further north (S2>S1).
 
-![kk](img/KKandamAtLGM_195002.jpg "kk")
+![](img/KKandamAtLGM_195002.jpg)
 
 Such might be the map of Kumari Kandam before sinking (mapped with violet boundary).
 
 Those islands on the western part of sunken land suggests those were the older peaks (those islands can be older western ghats). Red curve line is the ECDO flood path.
 
-![kk1](img/KKandamAtLGM_19500.png "kk1")
+![](img/KKandamAtLGM_19500.png)
 
 *"Kumari Kandam as revealed through Bathymetric studies. Sea level at 130 meters lesser than current levels (-130 m) around 19500 BCE at LGM. Besides the sea level changes, the ocean surface elevation changes due to local tectonic activities to the south of Kanyakumari too is considered. The names of rivers and places mentioned in Tamil literature like Tenmaturai, Kapatapuram and the future city Maturai are indicated. The Devasura civilization mentioned in Sanskrit Vedic literature also is indicated. Kusasthali mentioned in Mahabharata and the Submerged city of Varuna mentioned in Bhagavata too are indicated. The locations are currently speculative, but should give impetus for future marine archaeological studies."*
 
@@ -88,9 +88,9 @@ Those islands on the western part of sunken land suggests those were the older p
 
 ## Manu Deluge [4]
 
-![alt](img/manu.PNG "india myths")
-![alt](img/manu2.PNG "india myths")
-![alt](img/manu3.PNG "india myths")
+![](img/manu.PNG)
+![](img/manu2.PNG)
+![](img/manu3.PNG)
 
 During the Manu deluge the flood was probably super high. Only 1 mountain peak in Himalaya was visible called Navabandhana. Current highest peaks are around 8000m. I do suspect there might be changes in between of heights of Himalaya as this happened at the end of golden age.
 

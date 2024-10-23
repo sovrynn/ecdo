@@ -2,7 +2,7 @@
 
 A massive continent that is home to the east ECDO pivot at Sulawesi, Indonesia. Rushing into the Pacific in S1 -> S2. it will undoubtedly experience a massive water surge. The entire Asian continent seems like it will end up being a massive floodplain, evidenced by saltwater lakes littering Mongolia, northern China, and the Himalayas, and erosion karst landscapes throughout southern China.
 
-![profile](img/profile.png "asia profile")
+![](img/profile.png)
 
 Asia will rotate clockwise, following the length of the red and yellow lines.
 
@@ -32,7 +32,7 @@ Saltwater lakes in red, freshwater lakes in green, and brackish lakes in orange.
 
 Asia has one of the most fractured tectonic plate regions in the world.
 
-![plates](img/plates.png "tectonic plate")
+![](img/plates.png)
 
 ## Citations
 

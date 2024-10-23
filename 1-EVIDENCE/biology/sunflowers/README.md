@@ -6,9 +6,9 @@ https://x.com/mundonuevo00/status/1821119859725373727?s=46
 
 Very odd. We have sunflowers growing in our garden every year. I’ve never seen them do this. Be interested to find out more. Could a localized earth-atmosphere field reversal maybe interfere with the plant’s navigation mechanism, inverting the heliotropic response? …and if a sunflower farmer is finding it strange, then maybe it is pretty rare.
 
-![sunflower](img/sunflower.jpg "sunflower")
-![sunflower](img/sunflower2.jpg "sunflower")
-![sunflower](img/sunflower3.jpg "sunflower")
+![](img/sunflower.jpg)
+![](img/sunflower2.jpg)
+![](img/sunflower3.jpg)
 
 It would appear, at first glance over this, that their overnight reset is almost always to the geographic east, and not towards the actual sunrise location (which varies with season and latitude). Something in their navigation system has to do with the earth and not the sun.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8969559/

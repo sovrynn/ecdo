@@ -1,6 +1,6 @@
 # Drake Passage (Scotia Plate, Argentina and Chile)
 
-![sa](img/drake-passage.png "sa")
+![](img/drake-passage.png)
 
 ECDO-derived displacement visualization of a full oscillation cycle from S1 > S2 > S1 [1]:
 

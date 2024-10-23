@@ -1,6 +1,6 @@
 # New Zealand
 
-![aus](img/new-zealand.png "aus")
+![](img/new-zealand.png)
 
 ## Analysis [1]
 

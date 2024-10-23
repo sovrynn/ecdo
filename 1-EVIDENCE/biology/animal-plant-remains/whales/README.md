@@ -19,9 +19,9 @@ Following the moment of inertia more precisely along the 31st meridian suggests 
 
 ## Michigan whales
 
-![michigan whales](img/michigan-whales.jpg "michigan whales")
-![michigan whales](img/michigan-whales2.jpg "michigan whales")
-![michigan whales](img/michigan-whales3.jpg "michigan whales")
+![](img/michigan-whales.jpg)
+![](img/michigan-whales2.jpg)
+![](img/michigan-whales3.jpg)
 
 Mountain Whales (aka "erratic whales").
 1. Earth in Upheaval, Velikovsky (1977)

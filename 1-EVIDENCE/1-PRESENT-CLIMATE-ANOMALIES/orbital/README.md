@@ -6,11 +6,11 @@ Potentially relevant paper.
 
 By separately analyzing the various influences and harmonics in the Earth's axial wobble, they were able to construct a fairly good predictive model, which was validated by training it on the first part of the measured data and then checking its predictive power against the later portion of the known data. The visual illustrates how the measured polar motion drift has been progressing perpendicular to the ECDO moment of inertia, which is illustrated on the below chart from the paper:
 
-![polar motion drift](img/polar-motion-drift.jpg "polar motion drift")
+![](img/polar-motion-drift.jpg)
 
 Note how the observed polar nutation over the past 120 years appears to be following a path congruent with the centrifugal moment of Antarctica's ice mass. The original chart shows a north polar view. This visual is with the Antarctic overlaid and flipped to illustrate the distribution of it's mass at the other pole.
 
-![polar motion drift](img/polar-motion-drift-2.jpg "polar motion drift")
+![](img/polar-motion-drift-2.jpg)
 
 "The ice mass is dragging the crust's rotational axis away from the center as the decoupling progresses further, and more slippage is occurring at the core-mantle boundary." [1]
 

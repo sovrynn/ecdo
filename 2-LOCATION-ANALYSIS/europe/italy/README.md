@@ -4,5 +4,5 @@
 
 Lidar DEM, sea level raised to 175m.
 
-![italy](img/italy1.jpg "italy")
-![italy](img/italy2.jpg "italy")
+![](img/italy1.jpg)
+![](img/italy2.jpg)

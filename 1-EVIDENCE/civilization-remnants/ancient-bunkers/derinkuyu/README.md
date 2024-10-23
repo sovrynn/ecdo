@@ -1,9 +1,9 @@
 # Derinkuyu underground city
 
-![derinkuyu](img/derinkuyu1.jpg "derinkuyu")
-![derinkuyu](img/derinkuyu2.jpg "derinkuyu")
-![derinkuyu](img/derinkuyu3.jpg "derinkuyu")
-![derinkuyu](img/derinkuyu4.jpg "derinkuyu")
-![derinkuyu](img/derinkuyu5.jpg "derinkuyu")
+![](img/derinkuyu1.jpg)
+![](img/derinkuyu2.jpg)
+![](img/derinkuyu3.jpg)
+![](img/derinkuyu4.jpg)
+![](img/derinkuyu5.jpg)
 
 https://www.ancient-origins.net/ancient-places-asia/derinkuyu-0073

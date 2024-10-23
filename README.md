@@ -77,7 +77,7 @@ Two ways:
 1. Use this snippet (replace `PATH` with the path to the image, for example `img/australia.jpg`). `alt` and `Title` are shown when the image fails to load and on hover, respectively:
 
 ```
-![alt](PATH "Title")
+![](PATH)
 ```
 
 2. Use HTML directly if you want to change the size of the image (replace `PATH` and `ALT` with desired values, as well as width):
@@ -89,7 +89,7 @@ Two ways:
 For GIFs:
 
 ```
-![alt](PATH)
+![](PATH)
 ```
 
 ## Repo text search (grep, find)

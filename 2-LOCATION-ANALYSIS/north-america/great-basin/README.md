@@ -28,7 +28,7 @@ However, you could easily see a surge higher than this. You have a 3000m deep ch
 
 Understanding the ECDO flood topography of the Gulf of California helps us understand the Great Basin a lot better.
 
-![sa](img/great-basin.gif)
+![](img/great-basin.gif)
 ![](img/great-basin.png "")
 
 *"The Great Basin (Spanish: Gran Cuenca) is the largest area of contiguous endorheic watersheds, those with no outlets to the ocean, in North America. It spans nearly all of Nevada, much of Utah, and portions of California, Idaho, Oregon, Wyoming, and Baja California. It is noted for both its arid climate and the basin and range topography that varies from the North American low point at Badwater Basin in Death Valley to the highest point of the contiguous United States, less than 100 miles (160 km) away at the summit of Mount Whitney."*
@@ -37,7 +37,7 @@ Understanding the ECDO flood topography of the Gulf of California helps us under
 
 Now we can explain the salt deposits in Death Valley and the Great Salt Lake in Utah which sits at an elevation of 1277 meters!
 
-![x](img/salt-lake.png "")
+![](img/salt-lake.png)
 
 ## Yosemite
 

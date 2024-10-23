@@ -8,7 +8,7 @@ See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobula
 
 ## Bathymetry [1]
 
-![x](img/med-bathymetry.jpg "med")
+![](img/med-bathymetry.jpg)
 
 Mediterranean Bathymetry. Looks almost as though the entire thing emptied to the South and was refilled from the North.  In one movement probably.
 

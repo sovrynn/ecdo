@@ -164,8 +164,8 @@ May just be sand dunes. Coords (40, 86.3).
 
 ## Drake Passage [2]
 
-![drake passage](img/drake-passage.jpg)
-![drake passage](img/drake-passage2.jpg)
+![](img/drake-passage.jpg)
+![](img/drake-passage2.jpg)
 
 In Chile & Argentina are found Mega Current Ripples (500m period, 10m amplitude), an abundance of salt pan deposits, and what looks like at least two large rills which have been eroded by the northeast to southwest flow during the transition from State 1 to State 2.
 

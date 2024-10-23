@@ -12,7 +12,7 @@ Source: https://nobulart.com/the-flip-of-the-earth/
 
 ## East Yorkshire Bio-floodmass
 
-![book](img/biofloodmass.jpg "book")
+![](img/biofloodmass.jpg)
 
 Potential for the boulder clay to be deposited not by melting glaciers, but a deluge that buried the old coastline. This is a picture from a book a local geography teacher.
 
@@ -56,9 +56,9 @@ Reliquae Diluvianae (1823) Record of a deluge. https://t.co/K4GQDGqcHv https://t
 
 In `LITERATURE-MEDIA/cuvier` you can find the PDFs of several Georges Cuvier's books, from which the following quotes are from.
 
-![cuvier](img/cuvier1.jpg "cuvier")
-![cuvier](img/cuvier2.jpg "cuvier")
-![cuvier](img/cuvier3.jpg "cuvier")
+![](img/cuvier1.jpg)
+![](img/cuvier2.jpg)
+![](img/cuvier3.jpg)
 
 "By closely examining what has happened to the surface of the earth since it has become dry land for the last time and the continents have taken on their present shape, at least in their somewhat elevated areas, we see clearly that this last revolution and consequently the establishment of our present societies could not be very old. It is one of the most firmly established results and, at the same time, the least attended to in legitimate geology, a result even more valuable because it links up natural and civil history in an uninterrupted chain." - Georges Cuvier, Discourse (1819)
 

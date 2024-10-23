@@ -1,6 +1,6 @@
 # Middle East aka West Asia
 
-![middle-east](img/me-elevation.png "Middle east elevation")
+![](img/me-elevation.png)
 
 ## Saudi Arabia receding shorelines [1]
 
@@ -10,8 +10,8 @@
 
 Lidar DEM, sea level raised to 175m.
 
-![israel egypt](img/israel-egypt.jpg "israel egypt")
-![israel egypt](img/israel-egypt2.jpg "israel egypt")
+![](img/israel-egypt.jpg)
+![](img/israel-egypt2.jpg)
 
 ## Saint Catherine, Mount Catherine, Egypt 2629m
 
@@ -21,7 +21,7 @@ Looking at their high southern mountains (Saint Catherine, peak 2629m), the pict
 
 These wave-shaped mountains are apparently made mainly of sedimentary rocks [2]. They lie downstream from the Tarim Basin which lies north of the Himalayas.
 
-![x](img/pakistan.jpg "pakistan")
+![](img/pakistan.jpg)
 
 ## Citations
 

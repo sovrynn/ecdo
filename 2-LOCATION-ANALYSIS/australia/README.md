@@ -2,7 +2,7 @@
 
 Australia is relatively close to the eastern ECDO pivot in Indonesia.
 
-![aus](img/australia8.jpg "aus")
+![](img/australia8.jpg)
 
 ## Analysis [1]
 

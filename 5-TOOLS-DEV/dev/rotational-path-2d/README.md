@@ -2,8 +2,8 @@
 
 `gen.py` is a customizable Python script that will generate a KML file showing the movement path of any specified location during S1 -> S2.
 
-![x](img/globe.png "world viz")
-![x](img/india.png "india viz")
+![](img/globe.png)
+![](img/india.png)
 
 The location, marked by the red dot, rotates 104 degrees to the blue dot. The lines vary in color based on their rotation speed. The legend depicts the predicted average rotation speed during a 6 hour rotation.
 

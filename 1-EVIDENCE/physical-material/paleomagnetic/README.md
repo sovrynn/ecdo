@@ -50,10 +50,10 @@ Hard copy in LITERATURE. Cited by TES in his thesis.
 
 Paper hard copies in LITERATURE.
 
-![clay](img/varved-clay1.jpg "clay")
-![clay](img/varved-clay2.jpg "clay")
-![clay](img/varved-clay3.jpg "clay")
-![clay](img/varved-clay4.jpg "clay")
+![](img/varved-clay1.jpg)
+![](img/varved-clay2.jpg)
+![](img/varved-clay3.jpg)
+![](img/varved-clay4.jpg)
 
 Varved clay proxies provide sub-annular paleomagnetic resolutions. The following charts are taken from Annual and inter‐annual magnetic variations in varved clay, Nils‐Axel Mörner (1978)[1], wherein paleomagnetic findings from VC cores dated to ±13,150 BP (spanning 156 varves/years) and ±10,000 BP (spanning 300 varves/years) are shown. These two cores span the Gothenburg Flip & Excursion[2] and the Ornö Declination Departure.
 

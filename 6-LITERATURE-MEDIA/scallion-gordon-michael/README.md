@@ -6,7 +6,7 @@ Apparently he used to run the "Matrix Institute" in New Hampshire but I can't fi
 
 ## "Doomsday" Flood Map
 
-![scallion flood map](img/scallion-map.jpg "scallion flood map")
+![](img/scallion-map.jpg)
 
 Source: https://archive.org/details/dr_future-map-of-the-world-10902000
 

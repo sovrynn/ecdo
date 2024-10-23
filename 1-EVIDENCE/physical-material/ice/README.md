@@ -37,7 +37,7 @@ If I understand it, warmer periods will have more O18 in rain and thus ice cores
 
 ## Gas giants grand cycle harmonic and bond event data
 
-![gas giant harmonic](img/gas-giant-bond-event.jpg "gas giant harmonic")
+![](img/gas-giant-bond-event.jpg)
 
 There is a 4627 year gas giant master cycle. If you divide it by 5, and break time down into intervals, every fourth coincides with a potential ECDO event.
 
