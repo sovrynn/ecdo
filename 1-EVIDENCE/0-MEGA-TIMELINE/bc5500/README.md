@@ -11,6 +11,7 @@ Cataclysm accounts:
 Physical markers:
 - 5000 BC: Syrian coastal climate change
 - 5325 BC: Shetland tsunami deposit (unadjusted date)
+- 5300 BC: Japan earthquake, eruption
 - 5500 BC: Illumetsa crater field, Estonia
 - 5400 BC: Fennoscandian earthquake, Ojala et al. (2018)
 - 5800 BC: Mayan Chichancanab lake filling

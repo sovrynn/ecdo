@@ -61,6 +61,12 @@ Summary of Global Wind Directions:
 
 These wind patterns are the result of the Earth’s rotation (Coriolis effect), differential heating, and pressure systems, which together shape global and regional wind flows.
 
+## Polar vortex
+
+Can form a triangle shape. Harmonics.
+
+![](img/polar-vortex.jpg)
+
 ## Citations
 
 1. https://insideclimatenews.org/news/09022024/climate-impacts-from-collapse-of-atlantic-meridional-overturning-current-could-be-worse-than-expected/

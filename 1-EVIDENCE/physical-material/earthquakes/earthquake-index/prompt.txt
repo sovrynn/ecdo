@@ -1,2 +1,0 @@
-Filter out one date from this line. The line will have a date in format of BC or AD, typically at the start or near the start of the line. It might have a date range - if so, take the midpoint of it. If there's no date, just RETURN -1. Then return the date in X BC or X AD format (make sure to put the BC and AD AFTER THE NUMBER) and LITERALLY nothing else. NO GRAMMAR OR FORMATTING. Number and BC/AD ONLY. Here's the line:
-
