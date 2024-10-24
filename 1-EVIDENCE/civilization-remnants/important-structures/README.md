@@ -110,7 +110,25 @@ Has anyone dug into this? It would be interesting to map some of the underwater 
 
 ![](img/japan-pyramid.jpg)
 
+## Amazon "Stonehenges" ancient foundation terraces/mounds
+
+https://www.express.co.uk/news/world/1961703/archaeology-breakthrough-brazil-stonehenge-amazon
+
+Paywall bypass link https://archive.is/Ko7eP
+
+## St. Mary's Abbey, York
+
+![](img/st-marry-abbey1.jpg)
+![](img/st-marry-abbey2.jpg)
+![](img/st-marry-abbey3.jpg)
+![](img/st-marry-abbey4.jpg)
+![](img/st-marry-abbey5.jpg)
+
+"Looks like limestone. The differential wear on stones directly adjacent begs the question. How?" - Nobulart
+
 # TODO Potential Leads
+
+List of religious sites: https://x.com/JeremyTate41/status/1846619542958604547
 
 - Goseck circle in Germany
 - Mnajdra Malta megalith temple complex

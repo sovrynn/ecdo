@@ -1,6 +1,6 @@
 # Recent Earth orbital anomalies
 
-## Paper: Contributions of core, mantle and climatological processes to Earth’s polar motion [1]
+## Paper: Contributions of core, mantle and climatological processes to Earth’s polar motion [1] (hard copy here)
 
 Potentially relevant paper.
 

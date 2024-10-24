@@ -21,3 +21,7 @@
 "Earth passes relatively close to the Taurid swarm twice per year. The events produce the Beta Taurids meteor shower from June 5 to July 18, and then the North and South Taurids meteor showers in late October. These aren’t going to be dangerous events in 2019, but Earth’s… https://t.co/SOe3wb4nmo
 
 ![](img/1835608468771762504-GXljiYHWIAA6dPD.png)
+
+## A brown dwarf discovered 30 years ago is actually twins circling each other
+
+https://abcnews.go.com/Weird/wireStory/brown-dwarf-discovered-30-years-ago-twins-circling-114854724

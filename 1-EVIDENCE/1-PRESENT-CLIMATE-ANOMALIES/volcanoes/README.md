@@ -24,3 +24,7 @@ img/1817863767876685956-pEpgHXNgV4gycsvN.mp4
 ## Voragine Crater June 14 2024
 
 RT On 14 June 2024, the Voragine crater, one of the four summit craters of #Etna, surprisingly started erupting after more than…
+
+## Washington
+
+![](img/wa-volcano.jpg)

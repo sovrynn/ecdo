@@ -13,3 +13,7 @@ Physical markers:
 - 9700 BC: end of Younger Dryas, many physical markers, meltwater pulse
 - 9400 BC Lake Sidi, Western Mediterranean/North Africa core O18 spike
 - 10k-8000 BC Valdroy Norway Cave Biomass
+
+## Atlantis Timeline
+
+![](img/atlantis-timeline.jpg)
