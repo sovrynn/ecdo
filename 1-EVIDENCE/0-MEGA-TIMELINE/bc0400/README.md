@@ -20,7 +20,6 @@ Physical markers:
 - 300 BC Mayan Chichancanab lake filling
 - paleomagnetic anomalies (North America, Levantine Iron Age, 500 BC Russia peat deposit)
 - 500 BC Antarctic tephra
-- MANY earthquakes in the Middle East during this period
 
 Historical continuity during this period:
 - Roman Republic
