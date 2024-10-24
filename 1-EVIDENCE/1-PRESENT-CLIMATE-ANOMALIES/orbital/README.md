@@ -1,5 +1,11 @@
 # Recent Earth orbital anomalies
 
+## Overview
+
+"The slow drift, about 20 m since 1900, is partly due to motions in the Earth's core and mantle, and partly to the redistribution of water mass as the Greenland ice sheet melts, and to isostatic rebound, i.e. the slow rise of land that was formerly burdened with ice sheets or glaciers.[2]: 2  The drift is roughly along the 80th meridian west."
+
+https://en.wikipedia.org/wiki/Polar_motion
+
 ## Paper: Contributions of core, mantle and climatological processes to Earth’s polar motion [1] (hard copy here)
 
 Potentially relevant paper.
@@ -23,6 +29,10 @@ Note how the observed polar nutation over the past 120 years appears to be follo
 A rough view of the axial polar movement overlaid on the magnetic polar movement along the same timeline (1900-2018):
 
 ![](img/npw2.jpg)
+
+### Data format
+
+"The polar motion is described by the movement of the pole position, with coordinates xp and yp defined positive towards the central Greenwich meridian and 90° W longitude, respectively."
 
 ## I've added the Earth's polar...
 
