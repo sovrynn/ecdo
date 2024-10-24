@@ -180,9 +180,11 @@ https://www.sciencedirect.com/science/article/abs/pii/S0037073806003320
 
 Layers of shells separated by a layer of silt at around 3300 to 2900 BC, and a deposit from 4000 to 3000 BC.
 
+Here you see the shells separated by silt along with a charcoal layer, on the right:
+
 ![](img/skara-brae-sediments.png)
 
-A gap in organic material between 4000 and 3000 BC. I personally think it's more likely that a sediment deposit closer to 3000 BC wiped out some of the older deposits, creating the 1000 year gap.
+Here you see a gap in organic material between 4000 and 3000 BC. I personally think it's more likely that a sediment deposit closer to 3000 BC wiped out some of the older deposits, creating the 1000 year gap.
 
 ![](img/skara-brae-layer-gap.png)
 

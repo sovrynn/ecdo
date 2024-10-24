@@ -46,6 +46,7 @@ Physical markers:
 - 2000 BC drying of the Saraswati
 - 1600 BC Lisbon Tsunami, sediment cores
 - 1700-900 BC Lake Sevan Armenia high lake levels
+- 1700 BC Jeju Island volcano flooding
 
 Civilizational markers:
 - 2500 BC Skara Brae abandonment

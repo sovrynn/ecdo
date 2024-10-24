@@ -2,21 +2,38 @@
 
 One of the issues here is that the Holocene has experienced a dramatic sea level rise, which continued from the end of the Younger Dryas up till around 7000 years ago, and slowed down, but continued to rise, until 4000 years ago. Therefore what we would like to see is evidence of *dramatic* and *rapid* rise in levels of bodies of water such as the Black and Mediterranean Sea to have something to go off of.
 
-### Taman Peninsula, Bruckner (Section 5)
+## Environmental change in the Limfjord, Denmark (ca 7500e1500 cal yrs BP): a multiproxy study (hard copy in here)
 
-"Based on vibracoring it was possible to get samples down to maximum depths of 15–20 m below surface. Therefore, the focus of this study is sea level fluctuations of the past seven millennia."
-
-![](img/taman-peninsula.png)
-
-There is a lengthy analysis of these core layers, each dated. They note a transition from a lagoonal environment into freshwater conditions around 4462 - 4259 BC. Then, a fossilization of this layer by a layer of clayey silt, which was deposited in a lagoonal or shallow marine environment. Aftewards, a return to semi-terrestrial conditions. Then, paralic peat growth of 3363 - 3106 BC which was then ended by lagoonal sediment deposits. From about 3106 BC to 2162 BC, 2m of sediment were deposited, taken to indicate fluvial impact into a lagoon or semi-enclosed marine environment. The last signal of the lagoonal system comes from peat dating to 405-118 BC.
-
-Based on that I see a potential 3900 BC event, 3000 BC event, 2200 BC event, and 400 BC event.
-
-## Kilen Fjord (hard copy in here)
-
-What I see in this paper is two surges in salinity at around 1700 and 500 BC.
+Many interesting charts in this paper.
 
 "Three shifts in state at Kilen are identified over the study period: a deep, periodically stratified fjord with medium high salinity (and high productivity) between ca 7500-5000 BP, followed by a gradual transition to a shallow benthic system with more oceanic conditions (i.e. higher salinity, lower productivity, slower sedimentary accumulation rate and poorer fossil preservation) after ca 5000 BP and no stratification after ca 4400 BP, and lastly, within this shallow phase, an abrupt shift to brackish conditions around 2000 BP."
+
+"In April 2007, a 15 m sedimentary sequence (collected with a
+Russian peat sampler as 1 m core sections from two overlapping
+boreholes, correlated via physical sedimentary parameters and
+coring depth; Lewis, 2011) was retrieved from Kilen from a water
+depth of 3.9 m (Fig. 1C). The lithology of each core section was
+described using a modiﬁed Troels-Smith system (Troels-Smith,
+1955; cf. Birks and Birks, 1980), prior to being sliced up into 1 or
+2 cm intervals and subsampled for physical sedimentary analyses,
+micro- and macrofossil analyses plus sedimentary pigment anal-
+ysis."
+
+Two surges in salinity, more than modern surface salinity, from the period of 2700 BC to 100 AD, ending with the "abrupt shift to brackish conditions around 2000 BP":
+
+![](img/denmark1.png)
+
+Totally different salinity curve:
+
+![](img/denmark2.png)
+
+Gaps in foraminifera record around 1200 BC and 2800 BC.
+
+![](img/denmark3.png)
+
+![](img/denmark4.png)
+
+It's not clear how to interpret the salinity because the place actually got more salty than the ocean... it could be that this occurs due to lack of seawater inflows rather than the opposite.
 
 https://sci-hub.ru/10.1016/j.quascirev.2013.05.020
 
@@ -35,7 +52,7 @@ See `LOCATION-ANALYSIS/north-america/mexico` and `LOCATION-ANALYSIS/carribean` f
 	- Slides also in `LITERATURE/webb-rhoda`
 2. https://en.wikipedia.org/wiki/Lake_Chichancanab
 
-## Luotuodun Marine Transgression (hard copy here)
+## Luotuodun Marine Transgression (hard copy here) 7500-5400 BC
 
 ![](img/luotuodun-marine.jpg)
 ![](img/luotuodun-map.jpg)

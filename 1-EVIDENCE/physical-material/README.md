@@ -1,11 +1,5 @@
 # Cataclysm Remnants
 
-## 7400 BP Fennoscandia Earthquake
-
-![](img/fennoscandia.jpg)
-
-https://sci-hub.ru/10.1016/j.tecto.2018.06.015
-
 ## Opal (Australia)
 
 Like all fine things, gem opal is exceedingly rare. Much of the world's precious opal is mined in the harsh outback of Australia, where a unique combination of geological conditions permitted the formation of opal near the margins of an ancient inland sea.

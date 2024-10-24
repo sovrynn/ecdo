@@ -5,6 +5,7 @@
 - 1190/1252 CE: Antarctic tephra
 - 1300 AD: Yuan Empire downfall
 - 1200 AD Syrian coastal change
+- 1109 CE Hekla eruption layer
 
 I don't see bond events or tree ring anomalies around these dates, at least in the notable literature, which bothers me. Also no notable "global flood" narratives in this most recent period of history, along with major happenings in Egypt, India, and China.
 
