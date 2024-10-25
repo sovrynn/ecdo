@@ -112,6 +112,8 @@ Ebla. Estimated destruction and final abandonment c.~1600BC. This date could wel
 
 This is a city with a very long history. Supposedly this city was destroyed by Joshua, placing (one of) its destructions near Exodus. Hard copy about the chronology of this site in this folder.
 
+Apparently this site also has a destruction layer between 6000 - 4500 BC. Which would indicate it has two destruction layers.
+
 "The first permanent settlement on the site of Jericho developed near the Ein es-Sultan spring between 9,500 and 9000 BCE."
 
 "The Pre-Pottery Neolithic B (PPNB) was a period of about 1.4 millennia, from 7220 to 5850 BCE[clarification needed] (though carbon-14-dates are few and early). After a few centuries, the first settlement was abandoned. After the PPNA settlement phase, there was a settlement hiatus of several centuries, then the PPNB settlement was founded on the eroded surface of the tell. This second settlement, established in 6800 BCE, perhaps represents the work of an invading people who absorbed the original inhabitants into their dominant culture."
