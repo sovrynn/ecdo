@@ -36,7 +36,7 @@ Electrical phenomena are seemingly infinitely scale-able, from the atomic level 
 
 ![](img/1798626882344362450-GPYAahzbAAE7CqY.jpg)
 
-## Telluric Currents and Earthquake Lights
+## Telluric Currents and Earthquake Lights (Sendai, Fukushima)
 
 See `img/japan-telluric.mp4`.
 
