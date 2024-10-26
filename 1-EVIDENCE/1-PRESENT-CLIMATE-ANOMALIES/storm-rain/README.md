@@ -1,5 +1,10 @@
 # Storm and Rain Anomalies
 
+## Major data figure
+
+Anthony Watts: https://en.wikipedia.org/wiki/Anthony_Watts_(blogger)
+- crowdsourcing weather station pictures so you can see how the surrounding metrotopology changes over time and might be affecting the data
+
 ## Flooding
 
 Even the collector of this material is so astounded by the volume of water seen in September that he’s compiled it into a thread. 
