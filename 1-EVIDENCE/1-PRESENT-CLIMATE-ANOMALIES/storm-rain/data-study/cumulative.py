@@ -35,7 +35,7 @@ def process_csv_files(directory):
             df = df.dropna(subset=['DATE'])
 
             # add cutoff date
-            cutoff_date = pd.to_datetime("1970-01-01")  # Adjust this date as needed
+            cutoff_date = pd.to_datetime("1973-01-01")  # Adjust this date as needed
             df = df[df['DATE'] >= cutoff_date]
 
             # Check if the most recent date is in 2024; if not, skip the file

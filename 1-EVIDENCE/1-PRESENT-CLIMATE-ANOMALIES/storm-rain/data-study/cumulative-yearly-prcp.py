@@ -14,6 +14,11 @@ def process_csv_files(directory):
         
         # Get all CSV files in the specified directory
         csv_files = glob.glob(os.path.join(directory, "*.csv"))
+        csv_files = sorted(csv_files)
+
+        skipped_count = 0
+        success_count = 0
+        skipped_zero_count = 0
         
         # Process each CSV file
         for csv_file in csv_files:
@@ -37,7 +42,8 @@ def process_csv_files(directory):
 
             # Check if data covers from 1973 to 2024
             if df['DATE'].dt.year.min() > 1973 or df['DATE'].dt.year.max() < 2024:
-                print(f"Skipping {csv_file} (data does not cover 1973 to 2024)")
+                print(f"Skipping {csv_file} (data does not cover 1973 to 2023)")
+                skipped_count += 1
                 continue
 
             # Initialize sums for target years and count of rows for 1973 and 2023
@@ -56,6 +62,7 @@ def process_csv_files(directory):
             D = year_sums[2023]
             if A == 0 or D == 0:
                 print(f"Skipping {csv_file} (sum for 1973 is zero or sum for 2023 is zero)")
+                skipped_zero_count += 1
                 continue
 
             # Calculate the required values
@@ -73,6 +80,13 @@ def process_csv_files(directory):
 
             # Write the line to the output file
             output_file.write(output_line)
+
+            success_count += 1
+
+        print(f'Total csv files: {len(csv_files)}')
+        print(f'Skip count: {skipped_count}')
+        print(f'Success count: {success_count}')
+        print(f'Skipped zero sum count: {skipped_zero_count}')
 
 if __name__ == "__main__":
     # Check if directory argument is provided

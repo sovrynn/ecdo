@@ -93,3 +93,20 @@ Data from 88 stations from 1973 to 2024:
 - The median for 2023 rainfall / 1973 rainfall is: 2.421143
 - The median for 2010 rainfall / 1973 rainfall is: 2.1417235000000003
 - The median for 1990 rainfall / 1973 rainfall is: 1.873853
+
+## Mega-op
+
+So I'll download and process the data in batches.
+
+I need to simplify the data into yearly totals. I want:
+- PRCP data
+- TMAX, TMIN, if they have it
+- remove everything without data from 1973 to 2023.
+
+The hit rate is less than 1%, which is ridiculous. Anyways from there I can download those totals to my computer and work with them. I'll download the raw data, so I can do most of the error checking locally.
+
+The real issue is not even downloading the data, it's handling all those data impurity edge cases.
+
+## Prompt
+
+Kindly write a python script that does the following. It should take two input args, both relative directories. The first one will be where it reads csv files from. It should read all the csv files in that directory. For each csv file, it should read it into memory. If the csv file, does not have DATE and PRCP columns, skip it. The date will most likely be in YYYY-MM-DD format. If the earliest value in DATE is 2001 or more recent, skip it. If the latest value in DATE is 2019 or earlier, skip it. Next, the data will most likely be in daily increments. I want you to reduce the data to yearly granularity by simplifying PRCP and TMAX/TMIN (If they exist) columns. For PRCP, you should sum up all the values for a single year to make the yearly value. For TMAX and TMIN, you should take the average of all the values. Thus, the final data should only have up to 4 columns - DATE, PRCP, TMAX, and TMIN. Save the resulting processed csv to the second input arg directory (create the directory if it does not exist). Name the file the same name that it was in the input directory. Throughout all this, maintain counts of how many files were skipped, bucketed by the reason, along with how many were successfully processed. At the end, print out these stats, along with the total number of csv files in the input directory, to console.
