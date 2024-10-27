@@ -59,13 +59,3 @@ Nobulart's planetary harmonic and cataclysm chronology timeline in `timeline.xls
 ## Citations
 
 1. https://en.wikipedia.org/wiki/4th_century_BC
-
-# TODO Timeline of dateable myths
-
-Greek flood (Deucalion, Dardanus): 1800 - 1528 BC
-
-add water transgressions in here
-
-add paleomagnetic data
-
-add 6200 bc event
