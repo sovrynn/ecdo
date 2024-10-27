@@ -50,6 +50,22 @@ Let me completely clarify this for you, there is no way, not in million years th
 
 Nobulart response: Always worth checking sources. "The Lost Past" is just fishing for clicks by putting out anything that sounds interesting. They're mostly built from soft carved sandstone blocks, which were lifted and fitted without mortar. They're not neolithic. The neolithic age ended 3000 years before these were built.
 
+## Megalithic Stone: RockRAM
+
+Trying to create stone using the materials caveman would have. 
+
+Basically: water glass+ash = stone.
+
+https://natrontheory.com/
+
+Could explain a lot of megalithic construction mysteries & questions.
+
+Also RockRAM™
+
+https://x.com/FoMaHun/status/1846964695330443503?s=35
+
+And there is a Natron source: in the vulcano EMI KOUSSI https://commons.wikimedia.org/wiki/File:Emi_Koussi_crater_natron.jpg
+
 # TODO
 
 Khafre/Khufu pyramids

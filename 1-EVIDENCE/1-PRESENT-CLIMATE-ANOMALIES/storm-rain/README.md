@@ -89,3 +89,9 @@ This is a short distance north of Durban, on the east coast of South Africa this
 See img/1797658753481011389-OrzU6fonOobulJtx.mp4.
 
 See img/1797658753481011389-Du1McgH58i3QWsDZ.mp4.
+
+## Chad
+
+Devastating floods in Chad’s desert province of Tibesti claim at least 54 lives
+
+https://watchers.news/2024/08/17/devastating-floods-in-chads-desert-province-of-tibesti-claim-at-least-54-lives/

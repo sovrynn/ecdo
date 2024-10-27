@@ -296,3 +296,23 @@ Skipped files:
   earliest_date: 107
   latest_date: 616
   other: 2
+
+### S
+
+Total CSV files in input directory: 3219
+Successfully processed files: 772
+Skipped files:
+  missing_columns: 78
+  earliest_date: 217
+  latest_date: 2152
+  other: 0
+
+### T
+
+Total CSV files in input directory: 278
+Successfully processed files: 147
+Skipped files:
+  missing_columns: 1
+  earliest_date: 16
+  latest_date: 114
+  other: 0

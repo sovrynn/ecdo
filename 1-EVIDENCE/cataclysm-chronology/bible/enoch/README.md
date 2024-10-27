@@ -25,3 +25,7 @@ This link is to the 1906 Ethiopic version by Robert Henry Charles.  Edited from 
 Robert Henry Charles, an eminent British theologian and scholar, was instrumental in bringing the Book of Enoch to the English-speaking world.    Born in 1855, Charles was a leading figure in the study of ancient religious texts and textual criticism. His meticulous translation of the Book of Enoch in 1893 remains a seminal work, providing valuable insights into the apocryphal books and pseudepigrapha."  He's buried in Westminster Abbey.
 
 https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/enoch-ethiopic-book
+
+## Resources
+
+https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html

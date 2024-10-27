@@ -58,6 +58,14 @@ More images in `img/`.
 
 Göreme Valley, Türkiye https://t.co/ZoXkvmaTCi
 
+## Tibesti
+
+Images  of water worn rocks  In Tibesti  FABULOUS PICTURES    https://www.naturalarches.org/gallery-Chad-Tibesti.htm
+
+![](img/tibesti.jpg)
+
+More images from  the Chad area    https://www.naturalarches.org/gallery-ChadPortfolio.htm
+
 ## Citations
 
 1. https://nobulart.com
