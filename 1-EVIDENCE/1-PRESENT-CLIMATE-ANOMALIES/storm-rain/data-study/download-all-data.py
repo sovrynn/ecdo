@@ -22,11 +22,18 @@ def download_csv_files(filename, output_dir):
 
     total_files = len(csv_filenames)
     downloaded_count = 0
+    skipped_count = 0
 
     # Loop through each CSV filename and download it
     for i, csv_filename in enumerate(csv_filenames, 1):
         url = base_url + csv_filename
         output_path = os.path.join(output_dir, csv_filename)
+
+        # Skip download if file already exists
+        if os.path.exists(output_path):
+            print(f"Skipping download for {csv_filename}: File already exists")
+            skipped_count += 1
+            continue
         
         # Download the CSV file using wget
         result = subprocess.run(["wget", "-q", "-O", output_path, url])

@@ -19,16 +19,24 @@
   - This article tells the tale of Atlantis, drawing on both mythological and historical references, including the writings of W.P. Phelon for the Hermetic Brotherhood. Atlantis was said to be a vast island larger than Africa and Europe combined, boasting an advanced civilization rich in mineral wealth and power. The story ends with the island's sudden destruction by natural cataclysms, which sank Atlantis beneath the ocean in a single day and night.
 - [Aftermath Part 1 – Our Precursor](https://nobulart.com/aftermath-our-precursor/)  
   - This post discusses the precursor years leading to catastrophic events like those described in "The Adam and Eve Story." It posits that cataclysms drastically impact evolution and human history, leaving only a small fraction of life on Earth. The author also touches on the influence of Jesus' teachings and the physiological effects of magnetic fields on humans, drawing connections between spirituality, science, and disaster preparedness.
-- [Cataclysms Revisited](https://nobulart.com/cataclysms-revisited/)  
-  - "Cataclysms Revisited" builds on the idea of Earth's history being punctuated by recurring cataclysms that reset civilizations. The article refers to Chan Thomas’ work, which was classified by the CIA, discussing theories of how the Earth’s shifting poles and geological upheavals led to significant changes in human society. The post suggests that understanding these events could reveal more about the cyclical nature of global catastrophes.
+- [Aftermath Part 2 – Evolution](https://nobulart.com/aftermath-evolution/)  
+  - This article is the second part of the "Aftermath" series, exploring how cataclysms affect evolution. The post highlights the controversy surrounding the theory of evolution, specifically criticizing the mutation hypothesis. It suggests that mutational offspring often degrade rather than improve, challenging the notion that humans evolved through upgrading mutations.
+- [Aftermath Part 3 – Jesus as History](https://nobulart.com/aftermath-jesus-as-history/)  
+  - This post is part of the "Aftermath" series and focuses on the historical perspective of Jesus’ crucifixion. It examines three key New Testament passages detailing Jesus' final moments on the cross and analyzes discrepancies between the Gospels. The article also explores the physical process of crucifixion and offers a different interpretation of the events surrounding Jesus’ death.
+- [Aftermath Part 4 – Angels and UFOs](https://nobulart.com/aftermath-angels-and-ufos/)  
+  - This post delves into UFO sightings, their technology, and their connection to biblical angels. It discusses the possibility that UFOs are advanced crafts with gravity manipulation technologies. The article connects historical sightings and descriptions of angels to extraterrestrial encounters, suggesting that what ancient cultures called “angels” might have been visitors from other worlds.
 - [Critias](https://nobulart.com/critias/)  
   - This post centers on Plato’s account of Atlantis in his dialogue "Critias." It describes Atlantis as a powerful island kingdom that waged war against ancient Athens before being destroyed by cataclysmic forces. The narrative suggests that remnants of Atlantean wisdom and governance may still exist, passed down through secret societies and Masonic traditions.
 - [The Adam & Eve Story](https://nobulart.com/the-adam-and-eve-story/)  
   - This article explores "The Adam and Eve Story" by Chan Thomas, which discusses the theory of Earth’s cyclical cataclysms. It presents a version of the biblical story where Adam and Eve were survivors of a global disaster, offering an alternative interpretation of Genesis. The post also delves into the scientific aspects of these catastrophic events, including magneto-hydrodynamics, and posits that another such cataclysm may be imminent.
-- [Thirty-Five Centuries Ago](https://nobulart.com/thirty-five-centuries-ago/)
-  - This post revisits historical and mythological sources to examine the events of 3,500 years ago, when massive global changes reshaped civilization. It ties these events to ancient flood legends, such as Noah’s Flood and the cataclysmic shifts described in the Adam and Eve story. The article suggests that these ancient events were part of a recurring cycle of planetary destruction.
 - [The Story & The Event](https://nobulart.com/the-story-and-the-event/)  
   - This post discusses how mythological stories like the tale of Adam and Eve may reflect actual historical events tied to Earth’s catastrophic past. The author investigates the correlation between ancient scriptures, geological evidence, and catastrophic shifts in Earth's crust, suggesting that myths may hold clues to understanding our planet's tumultuous history. The narrative emphasizes the importance of preparing for future cataclysmic events.
+- [Cataclysms Revisited](https://nobulart.com/cataclysms-revisited/)
+  - "Cataclysms Revisited" builds on the idea of Earth's history being punctuated by recurring cataclysms that reset civilizations. The article refers to Chan Thomas’ work, which was classified by the CIA, discussing theories of how the Earth’s shifting poles and geological upheavals led to significant changes in human society. The post suggests that understanding these events could reveal more about the cyclical nature of global catastrophes.
+- [Conclusion & Aftermath](https://nobulart.com/conclusion-and-aftermath/)  
+  - This post wraps up the "Adam and Eve" series, focusing on the aftermath of global cataclysms. It discusses the CIA's classified involvement in hiding knowledge about cyclical planetary disasters and the implications for human survival. The article suggests that humanity has faced and will continue to face these cataclysmic resets.
+- [Thirty-Five Centuries Ago](https://nobulart.com/thirty-five-centuries-ago/)
+  - This post revisits historical and mythological sources to examine the events of 3,500 years ago, when massive global changes reshaped civilization. It ties these events to ancient flood legends, such as Noah’s Flood and the cataclysmic shifts described in the Adam and Eve story. The article suggests that these ancient events were part of a recurring cycle of planetary destruction.
 - [The Hermetic Key](https://nobulart.com/the-hermetic-key/)  
   - This post examines the esoteric principles found in Hermeticism, particularly focusing on the cycles of creation and destruction in both the physical and spiritual realms. It explores ancient Egyptian and Hindu teachings, comparing their cyclical views of time with modern astrological and geological theories. The article also touches on the mystical knowledge held by secret societies and how these teachings influence human evolution.
 
@@ -67,12 +75,8 @@
   - "Do we need to change the genetic code? We are very capable of creating vaccines that will protect this code, improve it, and defend it against viruses, and that is how it should be." Jacques Attali (July, 2021)
 
 ### - Science, Astronomy, and Cosmology
-- [Aftermath Part 2 – Evolution](https://nobulart.com/aftermath-evolution/)  
-  - This article is the second part of the "Aftermath" series, exploring how cataclysms affect evolution. The post highlights the controversy surrounding the theory of evolution, specifically criticizing the mutation hypothesis. It suggests that mutational offspring often degrade rather than improve, challenging the notion that humans evolved through upgrading mutations.
 - [Comets & Dragons](https://nobulart.com/comets-and-dragons/)  
   - This post delves into the role of comets, specifically 2P/Encke, in Earth's catastrophic history. It suggests that historical events like the Tunguska event were caused by fragments of this comet. The article also ties the appearance of comets in mythology, proposing that such celestial phenomena were behind legendary disasters.
-- [Conclusion & Aftermath](https://nobulart.com/conclusion-and-aftermath/)  
-  - This post wraps up the "Adam and Eve" series, focusing on the aftermath of global cataclysms. It discusses the CIA's classified involvement in hiding knowledge about cyclical planetary disasters and the implications for human survival. The article suggests that humanity has faced and will continue to face these cataclysmic resets.
 - [Tesla’s Pyramids](https://nobulart.com/teslas-pyramids/)  
   - The article examines Nikola Tesla’s theories on energy transmission and their possible use in global electromagnetic control systems. It discusses the construction of the "Omega" network of transmitters, theorizing that it was used not just for navigation but for manipulating Earth's resonant frequencies. The post connects Tesla’s work with the potential for influencing global weather patterns and human behavior.
 - [The AI Vampire](https://nobulart.com/the-ai-vampire/)  
@@ -99,8 +103,6 @@
   - This article explores the concepts of æther, plasma, and scalar waves, proposing that these forces play a fundamental role in shaping the physical universe. It connects ancient philosophical ideas with modern theories of quantum mechanics and electromagnetism, arguing that understanding these forces could unlock new technological advancements. The post suggests that æther is a medium through which energy and matter interact on a cosmic scale.
 
 ### - Religion, Spirituality, and Occult Knowledge
-- [Aftermath Part 3 – Jesus as History](https://nobulart.com/aftermath-jesus-as-history/)  
-  - This post is part of the "Aftermath" series and focuses on the historical perspective of Jesus’ crucifixion. It examines three key New Testament passages detailing Jesus' final moments on the cross and analyzes discrepancies between the Gospels. The article also explores the physical process of crucifixion and offers a different interpretation of the events surrounding Jesus’ death.
 - [Edgar Cayce on Russia (The Hope of The World)](https://nobulart.com/edgar-cayce-russia/)  
   - This article discusses psychic Edgar Cayce's predictions about Russia’s role as the “hope of the world” during times of global turmoil. Cayce foresaw Russia emerging as a moral and spiritual counterbalance to Western capitalist nations, particularly in opposition to the globalist banking cartels. The post highlights Cayce’s belief that Russia’s spiritual evolution would contribute to world peace.
 - [Gnosticism](https://nobulart.com/gnosticism/)  
@@ -125,8 +127,6 @@
   - This article, drawn from Rosicrucian teachings, describes the evolution of the soul across multiple planets in a chain of existence. It explains that human life is part of a larger cycle, in which the soul progresses from one planet to the next, undergoing spiritual growth in each incarnation. The post emphasizes that this process is part of the soul's journey towards higher planes of existence.
 
 ### - Extraterrestrial, UFOs, and Paranormal
-- [Aftermath Part 4 – Angels and UFOs](https://nobulart.com/aftermath-angels-and-ufos/)  
-  - This post delves into UFO sightings, their technology, and their connection to biblical angels. It discusses the possibility that UFOs are advanced crafts with gravity manipulation technologies. The article connects historical sightings and descriptions of angels to extraterrestrial encounters, suggesting that what ancient cultures called “angels” might have been visitors from other worlds.
 - [Interdimensional Parasites & Child Abuse](https://nobulart.com/interdimensional-parasites-child-abuse/)  
   - This post examines how interdimensional parasites use child abuse as a means to harvest energy through trauma. These beings materialize through scalar-wave emissions created by extreme emotions, particularly fear and suffering. The article links this to elite abuse rings and explains how these parasites infiltrate the human emotional body, manipulating and feeding off negative energy.
 - [The Dark Satellite](https://nobulart.com/the-dark-satellite/)  
