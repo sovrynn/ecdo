@@ -116,4 +116,9 @@ See img/1802608421755085038-Tt0afcynx60wVrHI.mp4.
 
 # TODO
 
+Adding to TES's thesis part 1:
+- rainfall
+- aurora
+- murders (due to lower magnetic field)
+
 https://watchers.news/2024/09/26/swarm-of-over-100-earthquakes-hits-hanford-nuclear-site-near-tri-cities-in-washington-u-s/

@@ -10,9 +10,32 @@ Then once the data is in yearly data, it is ripe for linear regression. This is 
 
 # Notes
 
+## Source
+
 GHCN: https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily
 
+"The Global Historical Climatology Network daily (GHCNd) is an integrated database of daily climate summaries from land surface stations across the globe. GHCNd is made up of daily climate records from numerous sources that have been integrated and subjected to a common suite of quality assurance reviews.
+
+GHCNd contains records from more than 100,000 stations in 180 countries and territories. NCEI provides numerous daily variables, including maximum and minimum temperature, total daily precipitation, snowfall, and snow depth. About half the stations only report precipitation. Both record length and period of record vary by station and cover intervals ranging from less than a year to more than 175 years.
+"
+
+## Data format
+
 So there's a PDF on what the columns mean. Data in CSV format, downloadable via HTTPs, lots of wonderful datasets, takes a bit to load, and there's way too much to download it all.
+
+## Data units
+
+- PRCP = Precipitation (mm or inches as per user preference, inches to hundredths on Daily Form pdf file)
+  - I assume this is mm, because there are values above 100 in the data
+- SNOW = Snowfall (mm or inches as per user preference, inches to tenths on Daily Form pdf file)
+- SNWD = Snow depth (mm - or inches as per user preference, inches on Daily Form pdf file)- 
+- TMAX = Maximum temperature (Fahrenheit or Celsius as per user preference, Fahrenheit to tenths on Daily Form pdf file
+  - I'm so confused. On CHM the temperature goes as low as -200... but the coldest temperature ever recorded on Earth has been -130 Fahrenheit.
+  - 200 Celsius is even colder, ~-300 degrees Fahrenheit.
+  - It seems to be in tenths of celsius for CHM. (China). And London as well (CA).
+- TMIN = Minimum temperature (Fahrenheit or Celsius as per user preference, Fahrenheit to tenths on Daily Form pdf file
+
+## Scripts
 
 Scripts:
 - gen.py (generates linear regression charts, saves them, for ONE csv file)
@@ -29,23 +52,11 @@ Scripts:
 - parse-csv-names.py: simply data cleaning script that gets the CSV name list
 - regression-averages.py calculates the average of the PRCP TMAX TMIN regression slopes from cumulative.py.
 
-## General workflow
+## General workflow (deprecated)
 
 1. Run cumulative.py on a batch of CSV files
 2. Run regression-averages.py to see the batched regression slopes
 3. Use gen.py to dig closer into any single CSV file
-
-## Data units
-
-- PRCP = Precipitation (mm or inches as per user preference, inches to hundredths on Daily Form pdf file)
-	- I assume this is mm, because there are values above 100 in the data
-- SNOW = Snowfall (mm or inches as per user preference, inches to tenths on Daily Form pdf file)
-- SNWD = Snow depth (mm - or inches as per user preference, inches on Daily Form pdf file)- 
-- TMAX = Maximum temperature (Fahrenheit or Celsius as per user preference, Fahrenheit to tenths on Daily Form pdf file
-	- I'm so confused. On CHM the temperature goes as low as -200... but the coldest temperature ever recorded on Earth has been -130 Fahrenheit.
-	- 200 Celsius is even colder, ~-300 degrees Fahrenheit.
-	- It seems to be in tenths of celsius for CHM. (China). And London as well (CA).
-- TMIN = Minimum temperature (Fahrenheit or Celsius as per user preference, Fahrenheit to tenths on Daily Form pdf file
 
 ## Hardcoded stations
 

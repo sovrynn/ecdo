@@ -1,5 +1,9 @@
 # Storm and Rain Anomalies
 
+## US Rainfall increasing
+
+"On average, total annual precipitation has increased over land areas in the United States and worldwide (see Figures 1 and 2). Since 1901, global precipitation has increased at an average rate of 0.03 inches per decade, while precipitation in the contiguous 48 states has increased at a rate of 0.18 inches per decade." https://www.epa.gov/climate-indicators/climate-change-indicators-us-and-global-precipitation
+
 ## Major data figure
 
 Anthony Watts: https://en.wikipedia.org/wiki/Anthony_Watts_(blogger)
