@@ -136,6 +136,14 @@ As our detailed knowledge of Palestinian archaeology has gradually increased ove
 
 Jericho was again destroyed at the end of the Middle Bronze Age. The ash of the burnt city ‘is about a metre thick, and consists of streaks of black, brown, white and pinkish ash’,"
 
+### Walls of Jericho, Margaret Wheeler
+
+![](img/walls-jericho1.jpg)
+![](img/walls-jericho2.jpg)
+![](img/walls-jericho3.jpg)
+![](img/walls-jericho4.jpg)
+![](img/walls-jericho5.jpg)
+
 ## Middle Eastern cities destroyed by fire circa 1700 BC, Late Bronze Age collapse (1200 BC)
 
 ChatGPT list (need to investigate):

@@ -94,6 +94,33 @@ See img/1832494717843730744-Wg0UuCFesHLwCt8P.mp4.
 
 https://www.youtube.com/watch?v=oauf6W3Uz04
 
+## Research papers on SSB effects
+
+Worth a read, Pretty sure we will hear more about how the planets affect earth soon.
+
+Planets Influences on Earthquakes: https://www.researchsquare.com/article/rs-5010127/v1
+
+Here's another paper on planets and earthquakes. https://www.sciencedirect.com/science/article/abs/pii/S0264370724000401
+
+Another paper on earths climate changes in relation to the suns barycenter and Jupiter, Uranus, Neptune and Saturn.
+Interesting they mention that Jose periods of ~178 years were found, It takes 172 years for Uranus to lap Neptune. https://vestnikugrasu.org/byusu/article/view/635238
+
+jose cycle, already a few papers on it, https://link.springer.com/article/10.1007/BF00148211
+
+might be worth a read and of the comments, some numbers might jump out at someone here https://astroclimateconnection.blogspot.com/2012/04/178-year-jose-cycle-of-jovian-planets.html
+
+### Decadal cycles of Earth rotation, mean sea level and climate, extited by solar activity
+
+Useful table. Orbital periods match those mentioned in the paper, eg. Jupiter = 4332.6 days / 365.2422 = 11.862 years.
+
+![](img/jose-cycle.jpg)
+
+Good to see another confirmation of the grand cycle mentioned herein. Very close to Landscheidt's 4627.25 year calculation.
+
+![](img/jose-cycle2.jpg)
+
+https://www.researchgate.net/figure/Harmonics-of-1787-year-Jose-cycle-with-periods-below-30-years_tbl1_315600122
+
 ## Citations
 
 1. -

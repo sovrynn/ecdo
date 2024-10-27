@@ -101,6 +101,20 @@ There is much to suggest that the earliest dragon mythologies originated in come
 
 ![](img/1803464558289293444-GQcvevZXwAMpWuc.png)
 
+## Proto-Indo Europeans
+
+The race of mankind that really ended up kind of taking over after 3000BC, the Indo Europeans, seem to never have mentioned the flood
+
+The Celts, the Germanic peoples, the "Aryans" of Iran and Persia, the Greeks, the Minoans, etc... all descendants from the Indo European steppe herders.  And little mythology of floods
+
+![](img/proto-indo-euro.jpg)
+
+Some guy has a very rare boook Arguing ancient esoteric mystery schools tried to impart flood myths into human memory https://x.com/memizon/status/1836568331937005808?t=PNP2ADhDkD-mC0qCIKKBFQ&s=19
+
+![](img/cabiri.jpg)
+
+If archive was up, you could read it here: https://archive.org/details/dissertationonmy01fabe#:~:text=in%20the%20future.-,A%20dissertation%20on%20the%20mysteries%20of%20the%20Cabiri%3B%20or%2C%20The,with%20the%20adoration%20of%20the
+
 ## Citations
 
 1. https://talkorigins.org/faqs/flood-myths.html#Yoruba

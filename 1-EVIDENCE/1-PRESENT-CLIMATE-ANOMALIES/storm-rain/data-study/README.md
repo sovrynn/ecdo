@@ -1,5 +1,15 @@
 # Rainfall data study
 
+There is a 100+ GB dataset of rainfall data from over 10,000 rainfall stations.
+
+First of all, I discarded all data that doesn't at least cover the timerange 2000-2020. Datasets ending before 2020 were discarded, as were datasets starting after 2000.
+
+Then I aggregated the original daily data into yearly data, summing up the rainfall data. I also took averages for TMAX and TMIN. The script performing these basic calculations was tested locally with various manufactured test cases.
+
+Then once the data is in yearly data, it is ripe for linear regression. This is also performed with a script tested locally on manufactured test cases.
+
+# Notes
+
 GHCN: https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily
 
 So there's a PDF on what the columns mean. Data in CSV format, downloadable via HTTPs, lots of wonderful datasets, takes a bit to load, and there's way too much to download it all.
@@ -110,3 +120,179 @@ The real issue is not even downloading the data, it's handling all those data im
 ## Prompt
 
 Kindly write a python script that does the following. It should take two input args, both relative directories. The first one will be where it reads csv files from. It should read all the csv files in that directory. For each csv file, it should read it into memory. If the csv file, does not have DATE and PRCP columns, skip it. The date will most likely be in YYYY-MM-DD format. If the earliest value in DATE is 2001 or more recent, skip it. If the latest value in DATE is 2019 or earlier, skip it. Next, the data will most likely be in daily increments. I want you to reduce the data to yearly granularity by simplifying PRCP and TMAX/TMIN (If they exist) columns. For PRCP, you should sum up all the values for a single year to make the yearly value. For TMAX and TMIN, you should take the average of all the values. Thus, the final data should only have up to 4 columns - DATE, PRCP, TMAX, and TMIN. Save the resulting processed csv to the second input arg directory (create the directory if it does not exist). Name the file the same name that it was in the input directory. Throughout all this, maintain counts of how many files were skipped, bucketed by the reason, along with how many were successfully processed. At the end, print out these stats, along with the total number of csv files in the input directory, to console.
+
+## Prompt
+
+write a python script that takes one input arg, a relative directory name. It should read through that directory for all csv files. each CSV file will have a DATE (4-digit year) and PRCP (float) column. I want you to perform a linear regression with the DATE as the x-axis and PRCP on the y-axis. Center the first year at the origin. Then print out some statistics... calculate the greatest and lowest slope, the median, and the average slope. print them all out to console. Along with the total number of csv files.
+
+## Data sharding stats
+
+### A
+
+Total CSV files in input directory: 17550
+Successfully processed files: 4937
+Skipped files:
+  missing_columns: 69
+  earliest_date: 349
+  latest_date: 12195
+  other: 0
+
+### B
+
+Total CSV files in input directory: 6214
+Successfully processed files: 150
+Skipped files:
+  missing_columns: 1
+  earliest_date: 70
+  latest_date: 5993
+  other: 0
+
+### C
+
+Total CSV files in input directory: 9604
+Successfully processed files: 1085
+Skipped files:
+  missing_columns: 55
+  earliest_date: 1858
+  latest_date: 6604
+  other: 2
+
+### D
+
+Total CSV files in input directory: 22
+Successfully processed files: 14
+Skipped files:
+  missing_columns: 0
+  earliest_date: 1
+  latest_date: 7
+  other: 0
+
+### E
+
+Total CSV files in input directory: 137
+Successfully processed files: 80
+Skipped files:
+  missing_columns: 5
+  earliest_date: 11
+  latest_date: 41
+  other: 0
+
+### F
+
+Total CSV files in input directory: 1115
+Successfully processed files: 304
+Skipped files:
+  missing_columns: 90
+  earliest_date: 41
+  latest_date: 680
+  other: 0
+
+### G
+
+Total CSV files in input directory: 1412
+Successfully processed files: 570
+Skipped files:
+  missing_columns: 47
+  earliest_date: 113
+  latest_date: 682
+  other: 0
+
+### H
+
+Total CSV files in input directory: 32
+Successfully processed files: 28
+Skipped files:
+  missing_columns: 0
+  earliest_date: 0
+  latest_date: 4
+  other: 0
+
+### I
+
+Total CSV files in input directory: 4096
+Successfully processed files: 356
+Skipped files:
+  missing_columns: 4
+  earliest_date: 1
+  latest_date: 3735
+  other: 0
+
+### J
+
+Total CSV files in input directory: 216
+Successfully processed files: 158
+Skipped files:
+  missing_columns: 5
+  earliest_date: 0
+  latest_date: 53
+  other: 0
+
+### K
+
+Total CSV files in input directory: 491
+Successfully processed files: 149
+Skipped files:
+  missing_columns: 5
+  earliest_date: 1
+  latest_date: 336
+  other: 0
+
+### L
+
+Total CSV files in input directory: 130
+Successfully processed files: 75
+Skipped files:
+  missing_columns: 0
+  earliest_date: 2
+  latest_date: 53
+  other: 0
+
+### M
+
+Total CSV files in input directory: 5501
+Successfully processed files: 235
+Skipped files:
+  missing_columns: 1
+  earliest_date: 198
+  latest_date: 5067
+  other: 0
+
+### N
+
+Total CSV files in input directory: 911
+Successfully processed files: 642
+Skipped files:
+  missing_columns: 61
+  earliest_date: 35
+  latest_date: 173
+  other: 0
+
+### P
+
+Total CSV files in input directory: 161
+Successfully processed files: 102
+Skipped files:
+  missing_columns: 1
+  earliest_date: 12
+  latest_date: 46
+  other: 0
+
+### Q
+
+Total CSV files in input directory: 1
+Successfully processed files: 1
+Skipped files:
+  missing_columns: 0
+  earliest_date: 0
+  latest_date: 0
+  other: 0
+
+### R
+
+Total CSV files in input directory: 1465
+Successfully processed files: 740
+Skipped files:
+  missing_columns: 0
+  earliest_date: 107
+  latest_date: 616
+  other: 2

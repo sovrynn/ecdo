@@ -81,6 +81,8 @@ https://www.youtube.com/watch?v=PiQL5yVpWig
 
 https://m.youtube.com/watch?v=akmKO2pgdTY&t=2s
 
+https://youtu.be/J1QDP-Oqcr0?si=3q92eVg2x0-Fq-Xz
+
 ## Pyramid - Eight Parts
 
 ![](img/octant.jpg)

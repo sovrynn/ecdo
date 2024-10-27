@@ -28,7 +28,13 @@ def main():
     csv_files = [f for f in os.listdir(input_dir) if f.endswith('.csv')]
     total_files = len(csv_files)
 
+    counter = 1
+    total = len(csv_files)
+
     for filename in csv_files:
+        print(f'{counter}/{total}')
+        counter += 1
+        
         input_path = os.path.join(input_dir, filename)
         try:
             # Read the CSV file
