@@ -1,0 +1,5 @@
+North America: USA, Mexico, Canada, Bahamas, Puerto Rico, U.S. Virgin Islands
+Europe: Portugal, France, Germany
+Asia: China, India
+Africa: Egypt
+Oceania: Australia

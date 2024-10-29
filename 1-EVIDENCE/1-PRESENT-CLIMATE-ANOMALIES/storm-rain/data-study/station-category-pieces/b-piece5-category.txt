@@ -1,0 +1,42 @@
+South America: Brazil
+Central America: El Salvador
+North America: USA
+Africa: Nigeria
+Europe: Germany
+Asia: Saudi Arabia, UAE, Iraq
+Oceania: Australia
+North America: Honduras
+South America: Colombia
+Asia: Turkey
+Europe: Italy
+Africa: Uganda
+North America: Canada
+South America: Argentina
+Europe: Spain
+Oceania: Fiji
+Africa: Ghana
+Europe: Romania
+Asia: Vietnam
+Europe: Portugal
+Asia: Cambodia, Laos
+South America: Peru
+Asia: India
+Africa: Mozambique
+Asia: China
+Europe: France
+North America: Mexico
+South America: Chile
+Asia: Indonesia
+Africa: Ethiopia
+North America: Haiti
+Asia: Philippines
+Europe: Greece
+Africa: Kenya
+North America: Nicaragua
+South America: Venezuela
+Europe: Serbia
+Asia: Pakistan
+Asia: Russia
+Africa: Zambia
+Asia: Brunei
+Africa: Burundi

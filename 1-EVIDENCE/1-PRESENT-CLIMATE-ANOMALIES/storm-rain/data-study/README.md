@@ -8,6 +8,88 @@ Then I aggregated the original daily data into yearly data, summing up the rainf
 
 Then once the data is in yearly data, it is ripe for linear regression. This is also performed with a script tested locally on manufactured test cases.
 
+### Verdict
+
+A total change of about 3% in 70 years. Per the regression line.
+
+```
+1950 33761243.0
+1951 33230422.0
+1952 31019464.0
+1953 30076772.0
+1954 31524921.0
+1955 32372169.0
+1956 32375654.0
+1957 33136798.0
+1958 32928809.0
+1959 32127410.0
+1960 32630295.0
+1961 33403232.0
+1962 31535613.0
+1963 30107953.0
+1964 32321834.0
+1965 32037906.0
+1966 31541512.0
+1967 31942542.0
+1968 33366392.0
+1969 32530976.0
+1970 33054262.0
+1971 32812008.0
+1972 32723460.0
+1973 37675161.0  High
+1974 35709169.0
+1975 34185515.0
+1976 28983752.0  Low
+1977 32417180.0
+1978 33004884.0
+1979 34128562.0
+1980 30178595.0
+1981 33713267.0
+1982 33615884.0
+1983 36489206.0  high
+1984 33553634.0
+1985 32239381.0
+1986 32914268.0
+1987 31603134.0
+1988 30734075.0
+1989 32474611.0
+1990 35022745.0
+1991 32751040.0
+1992 34312505.0
+1993 34290166.0
+1994 31717104.0
+1995 34151048.0
+1996 34652600.0
+1997 32377190.0
+1998 35948432.0  high
+1999 32875511.0
+2000 32916927.0
+2001 32037260.0
+2002 30734203.0
+2003 31587936.0
+2004 34253577.0
+2005 31748678.0
+2006 31326601.0
+2007 32760014.0
+2008 33538065.0
+2009 33798341.0
+2010 35366420.0  high
+2011 34300297.0
+2012 30959958.0
+2013 32795817.0
+2014 32047149.0
+2015 34057624.0
+2016 33762860.0
+2017 33787102.0
+2018 33640211.0
+2019 33026902.0
+2020 32316988.0
+
+Mean Squared Error of the regression: 2209574971727.1787
+R-squared: 0.03402684059532979
+Linear regression formula: y = 13613.1305x + 5865868.1963
+```
+
 ## Initial mega verdict
 
 So back when I was calculating all the religions, not filtering out 0 values, from 2020 till 2020 at the least, over all the data, I got a median and average of around 8. But I think the zero calcs were weighing them down quite a bit. I would imagine most regions in the world get some rain, maybe 5% don't.
@@ -23,6 +105,61 @@ In light of all this, I don't see a way to reconcile median linear regressions t
 I think my next step is calculating the non-zero, per country code. I'll do USA and Australia and UK.
 
 I think B, C, I, M, S are also quite big. Along with U and A.
+
+## nonzero 2020-2023 mega study
+
+I'm in the process of preparing the data for a final mega study. I've trimmed the data to nonzero 2020-2023 sequences.
+
+So the individual folders, checking the multiplier medians, is not showing a positive increase.
+
+However a cumulative study of adding up all the PRCP values per year is yielding positive regression.
+
+### 2000 to 2023 cumulative PRCP
+
+```
+Year  Cumulative PRCP
+2000  87275570.0
+2001  86939286.0
+2002  83367406.0
+2003  89043731.0
+2004  94148566.0
+2005  89232200.0
+2006  88566060.0
+2007  91297487.0
+2008  93909816.0
+2009  93758080.0
+2010  100244331.0
+2011  98048320.0
+2012  89444303.0
+2013  91685120.0
+2014  91174410.0
+2015  95035080.0
+2016  94956549.0
+2017  96219260.0
+2018  93508431.0
+2019  90888341.0
+2020  93591658.0
+2021  95214783.0
+2022  93994901.0
+2023  88528154.0
+
+Mean Squared Error of the regression: 11384380868644.467
+R-squared: 0.20190218014968098
+```
+
+### 2000 to 2023 cumulative median multiplier
+
+To be honest, I don't particularly like this method. Multiplying consecutive multipliers just serves to arrive at the final number in a series with no concern given to how it got there. I also don't know about all this median/average nonsense.
+
+Just get cumulative PRCP values and take a linear regression. That's your trendline.
+
+## nonzero 1950 - 2020 mega study
+
+I've done a long-trim, keeping only the files with nonzero values from 1950 till 2020.
+
+Then I will make a cumulative PRCP regression, with R^2, and that will be my final value.
+
+Results above.
 
 # Notes
 
@@ -136,6 +273,8 @@ Kindly write a python script that does the following. It should take two input a
 write a python script that takes one input arg, a relative directory name. It should read through that directory for all csv files. each CSV file will have a DATE (4-digit year) and PRCP (float) column. I want you to perform a linear regression with the DATE as the x-axis and PRCP on the y-axis. Center the first year at the origin. Then print out some statistics... calculate the greatest and lowest slope, the median, and the average slope. print them all out to console. Along with the total number of csv files.
 
 ## Data sharding stats
+
+```
 
 ### A
 
@@ -375,6 +514,7 @@ Greatest slope: 1003.3849
 Lowest slope: -1318.7892
 Median slope: 8.8495
 Average slope: 18.3080
+```
 
 ## Mega-viz
 

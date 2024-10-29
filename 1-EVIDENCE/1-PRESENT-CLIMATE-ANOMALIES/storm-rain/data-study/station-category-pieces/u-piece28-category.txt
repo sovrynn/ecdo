@@ -1,0 +1,13 @@
+USA: Tennessee, Texas, Mississippi
+Middle East: Israel
+Europe: United Kingdom, Italy
+North America: Mexico, Canada
+Africa: Tunisia
+USA, Australia: Texas, New South Wales
+Asia: India, Pakistan
+USA, North America: Texas, Canada
+USA, Mexico: Texas, Tamaulipas
+USA, Europe: Texas, England
+USA, Asia: Texas, Karnataka, Karnataka
+
+(Note: Some of the locations may have multiple possible categorizations)

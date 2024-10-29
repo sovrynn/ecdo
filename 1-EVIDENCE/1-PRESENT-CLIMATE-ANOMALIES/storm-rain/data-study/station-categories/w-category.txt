@@ -1,0 +1,5 @@
+Africa: Oranjemund, Keetmanshoop, Windhoek, Walvis Bay, Swakopmund, Rundu, Ondangwa, Nkurenkuru, Grootfontein, Tsumeb, Rundu
+Europe: Malta, Rosendal, Bexhagen
+Asia: Dubai
+Oceania: Wake Island
+South America: Futuna Island, Mauiopa, Mascomba

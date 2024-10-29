@@ -2,6 +2,10 @@
 
 TLDR - rainfall, storms, earthquakes, auroras, volcanoes.
 
+What to verify:
+- North pole movement
+- 
+
 ## Ethical Skeptic
 
 The [first part](https://theethicalskeptic.com/2020/02/16/the-climate-change-alternative-we-ignore-to-our-peril/) of Ethical Skeptic's three-part ECDO thesis is one of the best sources that the climate has been changing recently. I will take some quotes that summarize his points:

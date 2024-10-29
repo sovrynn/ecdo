@@ -1,0 +1,4 @@
+- USA: Includes cities like Livermore, Fort Collins, Timnath, Bellvue, Wellington, Loveland, Masonville, Estes Park, Drake, Lyons, Virginia Dale, Red Feather Lakes, Horsetooth Mountain, Laporte, Berthoud, Windsor, Rustic, Glen Haven, Rustic, Grand Junction, Fruita, Clifton, Collbran, Palisade
+- Middle East: Includes Dubai
+- Europe: Includes Montrose, Cortez, Telluride, Silverton, Norwood, Ridgway, Ouray, Creede, Gunnison, Salida, Rangely, Meeker
+- USA, Connecticut: Includes Danbury, New Canaan, Darien, Stratford, Bridgeport, Stamford, West Hartford, East Hartford, Watertown, Torrington, Winsted, New Milford, North Granby, Wethersfield, East Hampton, Middletown, Clinton, Essex Village, Ivoryton, Killingworth, Higganum, Durham, East Haven, Milford, Hamden, Madison Center, Prospect, Seymour, Cheshire Village, Derby, Southbury, Wallingford Center, West Haven
