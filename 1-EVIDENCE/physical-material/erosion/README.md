@@ -1,5 +1,14 @@
 # Erosion
 
+## Youtube channels
+
+The POV Channel:
+https://www.youtube.com/@the_pov_channel/videos
+
+Desert drifter https://www.youtube.com/@Desert.Drifter/videos
+
+## Stock photo Website
+
 An absolute banger: https://www.istockphoto.com/photos/wind-erosion
 - Bolnuevo, Spain
 - slot canyons
@@ -65,6 +74,15 @@ Images  of water worn rocks  In Tibesti  FABULOUS PICTURES    https://www.natura
 ![](img/tibesti.jpg)
 
 More images from  the Chad area    https://www.naturalarches.org/gallery-ChadPortfolio.htm
+
+## Bighorn Mountains, Devils Canyon (Wyoming)
+
+![](img/bighorn-mountains.jpg)
+![](img/bighorn-mountains2.png)
+![](img/devils-canyon.jpg)
+![](img/devils-canyon2.jpg)
+
+https://www.youtube.com/watch?v=0FPo8gdHnqU
 
 ## Citations
 

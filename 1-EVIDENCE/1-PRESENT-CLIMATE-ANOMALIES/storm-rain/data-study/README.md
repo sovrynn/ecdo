@@ -8,6 +8,22 @@ Then I aggregated the original daily data into yearly data, summing up the rainf
 
 Then once the data is in yearly data, it is ripe for linear regression. This is also performed with a script tested locally on manufactured test cases.
 
+## Initial mega verdict
+
+So back when I was calculating all the religions, not filtering out 0 values, from 2020 till 2020 at the least, over all the data, I got a median and average of around 8. But I think the zero calcs were weighing them down quite a bit. I would imagine most regions in the world get some rain, maybe 5% don't.
+
+Anyways, if a rainfall increase really was happening, surely the regions already getting rain would also get more? So I wouldn't even need those 0 value anomalies.
+
+But then when I remove all the 0 valued data from 1973 to 2020, which should be the mega calc, its running an average of well over 1, sure, but the median is below 1. And these are the average percentage YoY, the median of all of them, and the average of all of them. And the median is under 1.
+
+There seems to be years of 0 precipitation in places that should absolutely get rain, for example, Scotland. Additionally, in these 0 years, for one of them that I checked, it's not that the snow was getting frozen, as for those years, there was 0 snow as well. See year 1941 for UK 305.
+
+In light of all this, I don't see a way to reconcile median linear regressions that are positive with the significant 0 data that went into making them.
+
+I think my next step is calculating the non-zero, per country code. I'll do USA and Australia and UK.
+
+I think B, C, I, M, S are also quite big. Along with U and A.
+
 # Notes
 
 ## Source
@@ -57,23 +73,6 @@ Scripts:
 1. Run cumulative.py on a batch of CSV files
 2. Run regression-averages.py to see the batched regression slopes
 3. Use gen.py to dig closer into any single CSV file
-
-## Hardcoded stations
-
-Finding data: Look for datasets that are updated till today, go back long enough in time, don't have gaps.
-
-Let me find 3 locations. Maybe 10, even better. Let's see:
-- Japan (Tokyo): JA000047662
-- Seoul: KSM00047108
-- Beijing: CHM00054511
-- London: CA006144470
-- Johannesburg: SFM00068368
-- Tehran: IR000407540
-- Moscow: RSM00027612
-- San Francisco
-	- USW00023234
-	- MXN00007145
-- Manhattan: US1ILWL0026
 
 ## Prompt
 
@@ -327,3 +326,68 @@ Skipped files:
   earliest_date: 16
   latest_date: 114
   other: 0
+
+### U
+
+Total CSV files in input directory: 74542
+Successfully processed files: 7463
+Skipped files:
+  missing_columns: 1575
+  earliest_date: 48657
+  latest_date: 16507
+  other: 340
+
+### V
+
+Total CSV files in input directory: 235
+Successfully processed files: 43
+Skipped files:
+  missing_columns: 6
+  earliest_date: 37
+  latest_date: 148
+  other: 1
+
+### W
+
+Total CSV files in input directory: 293
+Successfully processed files: 15
+Skipped files:
+  missing_columns: 0
+  earliest_date: 0
+  latest_date: 278
+  other: 0
+
+### Z
+
+Total CSV files in input directory: 39
+Successfully processed files: 9
+Skipped files:
+  missing_columns: 2
+  earliest_date: 0
+  latest_date: 28
+  other: 0
+
+### All of it
+
+Summary:
+Total CSV files processed: 18075/18075
+Greatest slope: 1003.3849
+Lowest slope: -1318.7892
+Median slope: 8.8495
+Average slope: 18.3080
+
+## Mega-viz
+
+So, filter out all the stations that have 0 columns in between 1973 and 2020? Based on my script there should still be a considerable (13k) out of 18k stations that fulfill this criteria. Plenty for a mega-study. Some of the stations may genuinely have 0 precipitation but some may be duds.
+
+Next I can calculate percentage-wise increases for all of them. And then average them. Graph them, on a linear scale... sometimes it will be <1, sometimes greater than 1. I guess a linear scale should be fine. You can make it a log scale centered around 1 actually. That's best. Next... multiply what average change that implies over the 50 year period. Per year. Theoretically it should be 1 if there is no change.
+
+### Prompt
+
+Create a python script that does the following. It should look in the current directory for all folders with name ending in "reduced". Within them, it should accumulate all the csv files and do the following. Within each is a DATE and PRCP column. It should find all files with no zero entries in PRCP for all values in DATE from 1973 (inclusive) to 2023 (inclusive). For each one, it should calculate the percentage change by using a multiplier ratio (1 for no change) for every year from DATE value 1973 (inclusive) to 2023 (inclusive) by dividing the PRCP value of DATE Y * RATIO = PRCP value of DATE Y + 1, stopping at 2022 (to find the multiplier going into 2023). Then, combine the results for ALL the csv files by, for each year, finding the AVERAGE and MEDIAN of all those values, for each year in the range, to create a timeseries. Plot them both on a logarithmic y-axis, AVERAGE and MEDIAN on the y-axis of the multiplier ratios between years. DATE should be on the x-axis, with 1973's plot starting at (0,1). Include a legend. Also calculate a MSE regression for both, plot it, print out the equations to the console, and include them in a legend. Save that plot, all plotted on one graph, to a file named output. Finally calculate the value gotten when multiplying all the average and median multiplier ratios from 1973 to 2022 (going into 2023) separately, creating two cumulative values, one average and one median. Print this out to console. Show your math. 
+
+### multiple steps
+
+write a python script that does the following. it should look in the current directory for all folders with name ending in "reduced". Within them, it should accumulate all the csv files and do the following. Within each is a DATE (4 digit year format only) and PRCP column. It should find all files with no zero entries in PRCP for all values in DATE from 1973 (inclusive) to 2023 (inclusive). If the file doesn't satisfy these conditions, skip it. Make these dates parameterized so they're easy to change in one place. It should add an extra column to them, MULT. In this column, should be the value of the PRCP column of that row divided by the PRCP column of the previous row, sorted by DATE. In the MULT column of the row with the earliest DATE, just put 1. Write out all these files to the folder output, with the original filename with a changed trailing suffix: "-processed.csv". Print out to console the total number of new csv files created. Add a progress indicator for the current processed csv number out of the total.
+
+write a python script that takes one input arg, a relative directory. IT should look in that relative directory for all csv files. The csv files have a DATE (4 digit year only) and PRCP column. For each DATE year, from 1974 to 2023, it should calculate the average and median values of MULT in that year across ALL files, creating two timeseries pairs of dates from 1974 to 2023 and average and median MULT values across all files for those dates. It should then create a linear MSE regression of both of these timeseries, creating one for the average MULT values and one for the median mult values. Then it should plot all 4 of these (2 timeseries, two linear regressions) on a properly labeled plot with a legend using matplotlib. It should save this plot to an image output.png or something similar. Then it should calculate two values. One is the multiple of all AVERAGE mult values from 1974 to 2023. The other is the multiple of all MEDIAN mult values from 1974 to 2023. It should print these out to console.
