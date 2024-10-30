@@ -94,6 +94,10 @@ https://x.com/wef/status/1061846182094401536
 
 ![](img/mind-control.png)
 
+## See C7... mp4.
+
+Methods of conquest
+.
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
