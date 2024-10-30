@@ -2,7 +2,7 @@
 
 All manner of potential evidence for ECDO events.
 
-## Noteworthy Parts
+## Special Content
 
 - `0-MEGA-TIMELINE`: A mega Holocene timeline compilation of all the evidence in this folder.
 - `1-PRESENT-CLIMATE-ANOMALIES`: A host of recent climate and geo-state anomalies.

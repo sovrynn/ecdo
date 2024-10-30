@@ -2,10 +2,6 @@
 
 TLDR - rainfall, storms, earthquakes, auroras, volcanoes.
 
-What to verify:
-- North pole movement
-- 
-
 ## Ethical Skeptic
 
 The [first part](https://theethicalskeptic.com/2020/02/16/the-climate-change-alternative-we-ignore-to-our-peril/) of Ethical Skeptic's three-part ECDO thesis is one of the best sources that the climate has been changing recently. I will take some quotes that summarize his points:
@@ -121,8 +117,10 @@ See img/1802608421755085038-Tt0afcynx60wVrHI.mp4.
 # TODO
 
 Adding to TES's thesis part 1:
-- rainfall
-- aurora
+- North pole movement
+- schumann resonance; magnetic pole strength weakening
+- rainfall increase
+- more auroras
 - murders (due to lower magnetic field)
 
 https://watchers.news/2024/09/26/swarm-of-over-100-earthquakes-hits-hanford-nuclear-site-near-tri-cities-in-washington-u-s/

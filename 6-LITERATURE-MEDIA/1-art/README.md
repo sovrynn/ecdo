@@ -1,5 +1,7 @@
 # Art
 
+Just a folder for ECDO-related art.
+
 ![](img/above-below.jpg)
 ![](img/ai-pyramid.jpg)
 ![](img/noah-art.jpg)

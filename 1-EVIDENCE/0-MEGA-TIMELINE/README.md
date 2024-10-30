@@ -1,8 +1,6 @@
 # Holocene Mega Timeline
 
-The scale is key here. We aren't looking for droughts, or floods, or famines. We are looking for a convergence of the land burning, decade and century long famines, water flowing over mountains, civilizations wiped out, all at once.
-
-The following timeline implies 4-5 ECDO-like cataclysms during the Holocene, starting with the end of the Younger Dryas.
+A "mega timeline" of all the evidence in this folder. So far, the timeline implies 4-5 ECDO-like cataclysms during the Holocene, starting with the end of the Younger Dryas.
 
 Almost certainly ECDO-like cataclysms:
 - ~2000 BC, Gun-Yu, Exodus, Ogyges, Crete, Mohenjo-Daro
@@ -23,7 +21,7 @@ Unlikely:
 Highly unlikely:
 - 1200 AD
 
-I still think there's so much work that can be done here. So many "if => then" ECDO implications that can be researched and fleshed out. The repo is turning into a proper goldmine but it's only the seeds for a proper refinement. Each lead could probably take a month to research properly.
+The scale is key here. We aren't looking for droughts, or floods, or famines. We are looking for a convergence of the land burning, decade and century long famines, water flowing over mountains, civilizations wiped out, all at once.
 
 ## Human timelines vs physical marker dating
 
@@ -59,3 +57,7 @@ Nobulart's planetary harmonic and cataclysm chronology timeline in `timeline.xls
 ## Citations
 
 1. https://en.wikipedia.org/wiki/4th_century_BC
+
+# TODO
+
+I still think there's so much work that can be done here. So many "if => then" ECDO implications that can be researched and fleshed out. The repo is turning into a proper goldmine but it's only the seeds for a proper refinement. Each lead could probably take a month to research properly.

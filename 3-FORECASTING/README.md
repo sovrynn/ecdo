@@ -39,4 +39,8 @@ There are a host of solar, planetary, and cosmic alignments in 2030. See `date-a
 
 # TODO
 
-- investigate additional data feeds related to the ECDO such as temperature
+investigate additional data feeds related to the ECDO that can help with monitoring
+- temperature
+- storms
+- auroras
+- geomagnetic field

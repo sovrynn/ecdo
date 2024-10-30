@@ -104,10 +104,6 @@ find . -name "[pattern]"
 
 Whenever you would like to add a reference to something you would like to investigate in the future, add it in a "TODO" section at the very bottom of the page. This will also allow you to easily reference a list of potential topics to look into by using `grep` on "TODO".
 
-## Translations
-
-Translations can be put in `/translation` folders within the relevant directory.
-
 # Primary Contributors
 
 - Repo owner and maintainer: [Sovrynn](https://sovrynn.github.io)
