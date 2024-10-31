@@ -18,6 +18,7 @@ Aurora data
 
 ## Polar nutation (1846 - now)
 
+![](img/SAVE_timeseries.png)
 ![](img/SAVE_calculated_deltax.png)
 ![](img/SAVE_calculated_deltay.png)
 
