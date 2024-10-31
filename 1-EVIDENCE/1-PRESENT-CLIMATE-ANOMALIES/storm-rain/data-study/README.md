@@ -6,9 +6,9 @@ First of all, I discarded all data that doesn't at least cover the timerange 200
 
 Then I aggregated the original daily data into yearly data, summing up the rainfall data. I also took averages for TMAX and TMIN. The script performing these basic calculations was tested locally with various manufactured test cases.
 
-Then once the data is in yearly data, it is ripe for linear regression. This is also performed with a script tested locally on manufactured test cases.
+Then once the data is in yearly data, it is ripe for linear regression. Precipitation was summed up across all data for a specific year. Then graphed and fitted to a line of best fit. The script that does that wal also locally tested with manufactured test cases. The resulting data is below.
 
-### Verdict
+### Final Verdict - 1950 to 2020
 
 A total change of about 3% in 70 years. Per the regression line.
 
@@ -90,6 +90,31 @@ R-squared: 0.03402684059532979
 Linear regression formula: y = 13613.1305x + 5865868.1963
 ```
 
+## Source
+
+GHCN: https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily
+
+"The Global Historical Climatology Network daily (GHCNd) is an integrated database of daily climate summaries from land surface stations across the globe. GHCNd is made up of daily climate records from numerous sources that have been integrated and subjected to a common suite of quality assurance reviews.
+
+GHCNd contains records from more than 100,000 stations in 180 countries and territories. NCEI provides numerous daily variables, including maximum and minimum temperature, total daily precipitation, snowfall, and snow depth. About half the stations only report precipitation. Both record length and period of record vary by station and cover intervals ranging from less than a year to more than 175 years.
+"
+
+## Data format
+
+So there's a PDF on what the columns mean. Data in CSV format, downloadable via HTTPs, lots of wonderful datasets, takes a bit to load, and there's way too much to download it all.
+
+## Data units
+
+- PRCP = Precipitation (mm or inches as per user preference, inches to hundredths on Daily Form pdf file)
+  - I assume this is mm, because there are values above 100 in the data
+- SNOW = Snowfall (mm or inches as per user preference, inches to tenths on Daily Form pdf file)
+- SNWD = Snow depth (mm - or inches as per user preference, inches on Daily Form pdf file)- 
+- TMAX = Maximum temperature (Fahrenheit or Celsius as per user preference, Fahrenheit to tenths on Daily Form pdf file
+  - I'm so confused. On CHM the temperature goes as low as -200... but the coldest temperature ever recorded on Earth has been -130 Fahrenheit.
+  - 200 Celsius is even colder, ~-300 degrees Fahrenheit.
+  - It seems to be in tenths of celsius for CHM. (China). And London as well (CA).
+- TMIN = Minimum temperature (Fahrenheit or Celsius as per user preference, Fahrenheit to tenths on Daily Form pdf file
+
 ## Initial mega verdict
 
 So back when I was calculating all the religions, not filtering out 0 values, from 2020 till 2020 at the least, over all the data, I got a median and average of around 8. But I think the zero calcs were weighing them down quite a bit. I would imagine most regions in the world get some rain, maybe 5% don't.
@@ -162,31 +187,6 @@ Then I will make a cumulative PRCP regression, with R^2, and that will be my fin
 Results above.
 
 # Notes
-
-## Source
-
-GHCN: https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily
-
-"The Global Historical Climatology Network daily (GHCNd) is an integrated database of daily climate summaries from land surface stations across the globe. GHCNd is made up of daily climate records from numerous sources that have been integrated and subjected to a common suite of quality assurance reviews.
-
-GHCNd contains records from more than 100,000 stations in 180 countries and territories. NCEI provides numerous daily variables, including maximum and minimum temperature, total daily precipitation, snowfall, and snow depth. About half the stations only report precipitation. Both record length and period of record vary by station and cover intervals ranging from less than a year to more than 175 years.
-"
-
-## Data format
-
-So there's a PDF on what the columns mean. Data in CSV format, downloadable via HTTPs, lots of wonderful datasets, takes a bit to load, and there's way too much to download it all.
-
-## Data units
-
-- PRCP = Precipitation (mm or inches as per user preference, inches to hundredths on Daily Form pdf file)
-  - I assume this is mm, because there are values above 100 in the data
-- SNOW = Snowfall (mm or inches as per user preference, inches to tenths on Daily Form pdf file)
-- SNWD = Snow depth (mm - or inches as per user preference, inches on Daily Form pdf file)- 
-- TMAX = Maximum temperature (Fahrenheit or Celsius as per user preference, Fahrenheit to tenths on Daily Form pdf file
-  - I'm so confused. On CHM the temperature goes as low as -200... but the coldest temperature ever recorded on Earth has been -130 Fahrenheit.
-  - 200 Celsius is even colder, ~-300 degrees Fahrenheit.
-  - It seems to be in tenths of celsius for CHM. (China). And London as well (CA).
-- TMIN = Minimum temperature (Fahrenheit or Celsius as per user preference, Fahrenheit to tenths on Daily Form pdf file
 
 ## Scripts
 
