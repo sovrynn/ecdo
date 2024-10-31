@@ -6,6 +6,8 @@ This folder is for predicting the date of the impending ECDO, along with potenti
 
 Possible destabilization began noticeably around 1973 although contributory processes were likely in place much before. See Ethical Skeptic's first thesis.
 
+I personally think we may have decoupled in 1952, when the north pole wander abruptly slowed down and changed direction, before starting to sprint in a new direction since 1975 from which it has not changed course.
+
 ## S1 -> S2 Rotation Prediction: June 2030
 
 Nobulart prediction: Worst case S1 -> S2 as early as mid-2030, with S2 -> S1 in 2042/3.

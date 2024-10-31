@@ -34,3 +34,23 @@ The observations are as follows, from weakest to strongest:
 10. Deep ocean levels are absorbing lots of heat. Tremendous amounts of heat.
 
 So, conclusion? The Earth's core undergoes state change, releasing heat, which warm the deep oceans through deepwater sea vents, which warm the entire oceans, which warms the atmosphere.
+
+## Summary v2
+
+Observation 1: Carbon PPMs are not mainly derived from human activity. Carbon variance exhibits a regular seasonal cyclicity which is not explained by man's activity. This is further supported by anecdotal Covid data which showed that during lockdown and lower human carbon consumption, we still experienced a record carbon PPM increase. This demonstrates a need for an alternative explanation as to what drives (changes in) carbon PPM levels.
+
+Observation 2: Carbon PPM increase is accelerating, while temperature is increasing linearly. Anecdotal data points also don't support the idea that human activity is creating this carbon PPM increase - human activity is growing linearly, and the economic depression in 2008-2012 didn't slowdown carbon PPM increase. Finally, there is no corresponding acceleration in the temperature increase, which implies that it is not carbon increasing that is driving the temperature increase.
+
+Observation 3: If global warming was caused by the Earth's atmosphere capturing more solar radiation from the Sun, then we should see a corresponding decrease in the radiation expelled from Earth as is trapped. This is not evidenced by the data, which measures slightly less than half the required capture in practice.
+
+![](../hard-copies-markdown/p1/img/8.webp)
+
+Observation 4: Mean sea level is rising, but mean sea level variance is also rising (and should not be). Additionally, global ocean current speed has increased by 15% over that same timeframe, indicating that this may causing the sea level variance. If ocean currents are indeed increasing, there is only one thing that possesses enough energy to do so, and it is not atmospheric wind. It must come from underneath.
+
+Observation 5: Schumann Resonance banding-power has ranged upwards, indicating a weakening in the Earth's magnetic moment. This is commensurate with a dramatic wandering of the geomagnetic north pole. This is happening at the same time as global temperature increase.
+
+Observation 6: This part seems to contradict itself. It may be a bit of sloppy work by TES not cleaning up the old version of his thesis when he updated it for new information. In the end he seems to be arguing that Earth's ORB is slowing down due to added mass through the LLVP structures. But the contradiction remains. He posts a graphic showing leap seconds added over the last century which implies slowing down. Then he posts a graphic showing shorter days which implies faster rotation. Anyways the point he seems to be trying to make is that there are currently variations in Earth's rotation which are conveniently not worked into current climate models.
+
+Observation 7: Anecdote: Spring 2023 brought a heat surge in ocean sea surface temperature. This happened too fast for humans to have been the driving factor. This also coincided with a record Antarctic ice melt-off. The Earth's core stands as the only possible energy source capable of generating this massive heat surge.
+
+Observation 8: Recent rise in earthquakes and volcanic activity, indicating increasing activity of Earth's upper mantle
