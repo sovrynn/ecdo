@@ -12,34 +12,34 @@ Kp-index
 Aurora data
 ```
 
-## Rainfall
+## Rainfall (1950 - now)
 
 ![](img/SAVE-cumulative-prcp-1950-2020.png)
 
-## Polar nutation
+## Polar nutation (1846 - now)
 
 ![](img/SAVE_calculated_deltax.png)
 ![](img/SAVE_calculated_deltay.png)
 
-## North pole wander
+## North pole wander (1600 - now)
 
 ![](img/landscheidt-rosetta.jpg)
 
 https://github.com/user-attachments/assets/7e944cb3-9ccd-45a8-a217-8136d9bc2465
 
-## SSB path
+## SSB path (1945 - 1994)
 
 ![](img/1824455551939662016-GVHDXVvX0AA6gdb.png)
 
-## Landscheidt minimum/maximum
+## Landscheidt minimum/maximum (900 - now)
 
 ![](img/double-am-derivative.png)
 
-### AMP (angular momentum perturbations)
+### AMP (angular momentum perturbations) (1620 - now)
 
 ![](img/carl-smith.jpg)
 
-## Kp-index
+## Kp-index (1930 - now)
 
 ![](img/SAVE-1932-2024-ap-daily-average.png)
 
