@@ -1,0 +1,55 @@
+			"UNIVERSAL" IERS FORMAT 
+			
+			
+ Field Contents (fields separated by blanks)
+
+ N.B. : d = day
+        celestial pole offset (precession-nutation correction) are 
+	parametrised in two different ways:
+	 - (dPsi,dEps) referred to IAU 1980 precession-nutation model 
+	 - (dX,dY)              to IAU 2000 
+
+  1  Modified Julian Date (MJD) of the measurement
+ 	
+    EARTH ORIENTATION PARAMETERS (EOP)
+  2  x pole coordinate (")
+  3  y pole coordinate (")
+  4  UT1-UTC or UT1-TAI (s)
+  5  celestial pole offset dpsi or dX  (")
+  6  celestial pole offset deps or dY  (")
+  
+    UNCERTAINITY OF EARTH ORIENTATION AND NUTATION
+  7  uncertainty on x (")
+  8  uncertainty on y (")
+  9  uncertainty on UT (s)
+ 10  uncertainty on dpsi or dX (")
+ 11  uncertainty on deps or dY (")
+ 12  rms residual of the least squares solution providing the EOP in ps
+ 
+    CORRELATION
+ 13  correlation coefficient : x/y
+ 14  correlation coefficient : x/UT1
+ 15  correlation coefficient : y/UT1
+ 16  correlation coefficient : dX/dY or dPsi/dEps
+   
+     			 INDICATORS
+  ____________________________________________________________________
+  	FOR VLBI AND SLR	|   		FOR GPS
+				|
+ 17  number of observation	|   number of receivers in the solution
+ 18  span of the observation	|   number of receivers with "fixed" solution
+ 19  not used		        |   number of satellites (transmitters) in the solution
+ 
+    EOP RATES
+ 20  x rate of the pole   ("/d)
+ 21  y rate of the pole   ("/d)
+ 22  LOD                  (s) (N.B.: LOD/D = -dUT1/dt where D=86400 s SI) 
+ 23  dPsi rate or dX rate ("/d)
+ 24  dEps rate or dY rate ("/d)
+ 
+    UNCERTAINITY OF EOP RATES 
+ 25  uncertainty on x rate ("/d)
+ 26  uncertainty on y rate ("/d)
+ 27  uncertainty on LOD (s/d)
+ 28  uncertainty on dPsi rate or dX rate ("/d)
+ 29  uncertainty on dEps rate or dY rate ("/d)

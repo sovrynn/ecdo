@@ -31,6 +31,7 @@ def read_data(filename):
     print(f'Y: max {max(pm_y)} min {min(pm_y)}')
     print(f'Date: max {max(mjd)} min {min(mjd)}')
 
+    # deltas are manually calculated. Remove this to plot the original values
     pm_x = calculate_differences(pm_x)
     pm_y = calculate_differences(pm_y)
     mjd = mjd[1:]
@@ -94,9 +95,9 @@ def plot_timeseries(a, b, c):
     cbar.set_label('Date (MJD)')
 
     # Set labels and title
-    ax.set_xlabel('X Coordinate')
-    ax.set_ylabel('Y Coordinate')
-    ax.set_title('2D Timeseries Curve with Date Gradient')
+    ax.set_xlabel('Delta X Pole-Coordinate')
+    ax.set_ylabel('Delta Y Pole-Coordinate')
+    ax.set_title('Delta Pole-Coordinates Timeseries Curve with Date Gradient')
 
     # Center the plot on (0,0)
     ax.set_xlim(XS, XL)
@@ -113,9 +114,9 @@ def plot_numbers(lst):
     # Plot the values
     plt.figure(figsize=(8, 6))  # Optional: set the figure size
     plt.plot(x_values, lst, marker='o')  # 'o' is to plot the points
-    plt.xlabel('Index (Order)')
-    plt.ylabel('Values')
-    plt.title('Plot of Values by Index')
+    plt.xlabel('Year Index (Order)')
+    plt.ylabel('Delta X Pole-Coordinate')
+    plt.title('Delta X Pole-Coordinate Over Time')
     plt.grid(True)  # Optional: add grid for better readability
     plt.show()
 
@@ -125,7 +126,10 @@ def main():
         sys.exit(1)
     filename = sys.argv[1]
     mjd, pm_x, pm_y = read_data(filename)
-    plot_numbers(pm_y)
+
+    # Plots
+    # plot_numbers(pm_x)
+    plot_numbers(pm_x)
     plot_timeseries(mjd, pm_x, pm_y)
 
 if __name__ == "__main__":

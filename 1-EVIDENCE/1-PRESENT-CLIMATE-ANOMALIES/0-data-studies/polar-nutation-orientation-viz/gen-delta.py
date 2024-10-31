@@ -1,3 +1,5 @@
+# I think this is deprecated, don't use it
+
 import sys
 import numpy as np
 import matplotlib.pyplot as plt

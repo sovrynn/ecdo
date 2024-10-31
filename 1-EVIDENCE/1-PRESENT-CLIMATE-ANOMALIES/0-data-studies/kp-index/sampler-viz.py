@@ -33,9 +33,9 @@ for filename in os.listdir(data_directory):
                 # Extract characters 56-58, convert them to an integer
                 try:
                     # 55:58 : cumulative Ap
-                    # value = int(line[55:58])
+                    value = int(line[55:58])
                     # 28:31 : Daily Kp sum 
-                    value = int(line[28:31]) / 10
+                    # value = int(line[28:31]) / 10
                     
                     values.append(value)
                 except ValueError:
@@ -64,8 +64,8 @@ plt.plot(years, intercept + slope * years, 'r--', label=f'Linear Fit (slope={slo
 
 # Customize plot
 plt.xlabel("Year")
-plt.ylabel("Average Value")
-plt.title("Kp yearly average of daily sum")
+plt.ylabel("Yearly average of daily Ap average")
+plt.title("Ap: Yearly average of daily average")
 plt.legend()
 plt.grid(True)
 
