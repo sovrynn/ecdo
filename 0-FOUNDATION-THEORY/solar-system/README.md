@@ -59,6 +59,10 @@ Many lines of evidence suggest more than one planetary explosion in the solar sy
 
 Predicting how this might play out is an example of the n-body problem, a special case of the three-body problem (which plagued Newton with regards to the Earth, Sun and Moon). [1] https://t.co/kKRrgyBR3h [2] https://t.co/1JMPBFuSx4
 
+## Venus facts
+
+![](img/venus-facts.jpg)
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Solar_cycle#Patterns

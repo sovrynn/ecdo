@@ -45,10 +45,6 @@ So far as I'm aware its currently impossible, and its rooted in the n-body probl
 
 The further back or forward in time we look, the greater the error becomes. Jupiter is the main problem because it exerts a noticeable effect on every object in the system.
 
-## Venus facts
-
-![](img/venus-facts.jpg)
-
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
