@@ -33,6 +33,8 @@ Volcanism rise
 
 ![](img/landscheidt-rosetta.jpg)
 
+![](img/nmp2.jpg)
+
 https://github.com/user-attachments/assets/7e944cb3-9ccd-45a8-a217-8136d9bc2465
 
 ## SSB path (1945 - 1994)
