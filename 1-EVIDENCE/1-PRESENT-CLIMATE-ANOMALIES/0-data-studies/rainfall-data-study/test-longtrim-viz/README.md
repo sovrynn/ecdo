@@ -1,0 +1,1 @@
+Testing the longtrim aggregator/visualizer. You can modify the input test values using the test data replacement script.

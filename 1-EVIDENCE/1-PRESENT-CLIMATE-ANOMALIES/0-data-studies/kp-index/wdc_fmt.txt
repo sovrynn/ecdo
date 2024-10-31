@@ -1,0 +1,165 @@
+Format Documentation of kpyymm.wdc Files
+----------------------------------------------------------------------------
+
+
+
+
+DOI and licence of the Kp dataset
+
+Data in the kpyymm.wdc files is based on the Kp dataset.
+DOI of the Kp dataset: https://doi.org/10.5880/Kp.0001
+Kp dataset described in:
+Matzka, J., Stolle, C., Yamazaki, Y., Bronkalla, O. and Morschhauser, A.,
+2021. The geomagnetic Kp index and derived indices of geomagnetic activity.
+Space Weather, https://doi.org/10.1029/2020SW002641
+Kp dataset publication:
+Matzka, J., Bronkalla, O., Tornow, K., Elger, K. and Stolle, C., 2021.
+Geomagnetic Kp index. V. 1.0. GFZ Data Services, https://doi.org/10.5880/Kp.0001
+
+Licence of the dataset and plots: CC BY 4.0
+
+
+
+
+Important Note: DOI and reference publications in March 2021
+
+In March 2021, the Kp dataset was published with a DOI and described in a 
+publication.
+
+
+
+
+Important Note: Filename Ambiguity in 2020
+
+Since January 2020, the conventional filenames for the Kp index in the WDC
+format would have become ambiguous, as Kp2001.wdc could mean a monthly file for
+January 2020 or a yearly file for the year 2001. From January 2020, all yearly
+files are moved to a subdirectory called 'yearly'. Please find the updated
+format description below that takes into account this change.
+
+Despite the fact that each line in these WDC files has its own, correct time
+stamp, we noticed that some of our users, depending on how they reformat the
+downloaded data files, have produced corrupted files on their side as a
+consequence of the filename ambiguity and our mitigation step. 
+
+We recommend our users to check their reformatted files when downloading our WDC
+files, especially for the early 2000s and the early months of 2020 and
+especially if they are not sure how their downloading and reformatting algorithm
+deals with the filename ambiguity. Our other file formats (e.g. *.tab) are not
+affected. We recommend using daily files, which are updated at the same time as
+the monthly files.
+
+
+
+
+Availability
+
+The most recent kpyymm.wdc (yymm stands for year and month, each expressed by
+two digits) files are distributed half-monthly by the email:
+
+     kp_index@gfz-potsdam.de
+
+Both recent and past files since January 2001 (0101) are distributed from the
+FTP server:
+
+     ftp://ftp.gfz-potsdam.de/pub/home/obs/kp-ap/wdc/
+
+FROM 2020 ONWARDS: The yearly files kpyyyy.wdc (yyyy stands for year expressed
+by four digits) since 1932 are distributed from the FTP server:
+
+     ftp://ftp.gfz-potsdam.de/pub/home/obs/kp-ap/wdc/yearly/
+
+A description of the FTP server, nowcast indices and background information on
+geomagnetic indices and the classification of days can be found on the webpage:
+ 
+     http://www.gfz-potsdam.de/en/kp-index/ 
+
+Alternative sources for Kp are:
+     http://www-app3.gfz-potsdam.de/kp_index/qlyymm.wdc (WDC-format in near-
+     real time)
+     tp://ftp.gfz-potsdam.de/home/obs/Kp_ap_Ap_SN_F107 (convenient ASCII format, 
+     both archive and near real-time files, near real-time also on:)
+     http://www-app3.gfz-potsdam.de/kp_index/Kp_ap_Ap_SN_F107_nowcast.txt
+     http://www-app3.gfz-potsdam.de/kp_index/Kp_ap_nowcast.txt
+
+
+
+
+Preliminaries
+
+We use a format similar to the standard format previously used by the National
+Geophysical Data Center (NGDC) in Boulder, Colorado.
+
+Caution:
+
+   * the columns for the solar radio flux (columns 66-71) are not reported from
+     2007 onwards
+   * the list of most quiet and most disturbed days is not contained in this
+     format; if you need those, please refer to the other tables
+     (kpyymm.tab)
+   * we do not guarantee the correctness of the international sunspot number
+     R; these values are published separately (Brussels, Belgium)
+   * note that the sunspot number calculation has been changed by WDC-SILSO,
+     Royal Observatory of Belgium, on July 2015, affecting sunspot numbers from
+     January 2015.
+   * sunspot numbers are not reported from 2015 onwards
+
+The following format documentation is adapted from:
+
+ftp://ftp.ngdc.noaa.gov/STP/GEOMAGNETIC_DATA/INDICES/KP_AP/kp_ap.fmt
+
+
+
+
+WDC-Format Description
+
+The missing data symbol for Kp is 99, the missing data symbol for all other
+parameters are blanks.
+
+Column  Format  Description
+======  ======  ===========
+ 1- 2     i2    yy, last two digits of year
+ 3- 4     i2    mm, month (1-12)
+ 5- 6     i2    dd, day of month (1-31)
+
+ 7-10     i4    Bartels solar rotation number - a sequence of 27-day
+                  intervals counted continuously from February 8, 1832
+11-12     i2    Number of day within the Bartels 27-day cycle
+
+13-28    8i2    3-hourly Kp indices (0-3, 3-6, 6-9, 9-12, 12-15,
+                                     15-18, 18-21, 21-24 UT)
+29-31     i3    Daily Kp sum rounded to thirds, but Ap instead of the daily sum
+                of Kp is recommended for scientific purposes
+                (supplied only for tradition, use Ap scientific purposes!)
+
+32-55    8i3    3-hourly ap indices (0-3, 3-6, 6-9, 9-12, 12-15,
+                                     15-18, 18-21, 21-24 UT)
+56-58     i3    Ap equivalent daily amplitude, the arithmetic mean
+                  of the day's eight ap values rounded to integer
+
+59-61     f3.1  Cp or Planetary Daily Character Figure - a qualitative estimate
+                  of overall level of magnetic activity for the day determined
+                  from the sum of the eight ap amplitudes.  Cp ranges, in steps
+                  of one-tenth, from 0 (quiet) to 2.5 (highly disturbed)
+
+62-62     i1    C9 - a conversion of the 0 to 2.5 range of the Cp index to one
+                  digit between 0 and 9
+
+
+
+Note that sunspot number, which was reported by the Kp service until 2014, and 
+solar radio flux, which was reported until 2006, are not provided for download
+in this WDC-format. These solar indices are provided through the format 
+selection 'Geomagnetic and solar indices' on https://kp.gfz-potsdam.de/en/data
+
+
+
+
+----------------------------------------------------------------------------
+For questions concerning the data or content of this page, please
+contact:
+
+Juergen Matzka, contact details on http://www.gfz-potsdam.de/en/kp-index/
+
+Last modified: March 15, 2021
+Previous modifications: October 8, 2015; April 15, 2020; September 19, 2020

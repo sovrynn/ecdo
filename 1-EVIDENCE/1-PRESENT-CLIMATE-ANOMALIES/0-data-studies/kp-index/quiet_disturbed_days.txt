@@ -1,0 +1,32 @@
+The International Quiet and Disturbed Days are determined from the Kp values of the respective
+month based on a combination of criteria like the sum of the Kp values for a day, the sum of their
+squares, and the maximum Kp. The 10 quiet days are selected and ordered, with the quietest day 
+being labelled Q1 and the least quiet day of these 10 days being labelled Q10. Any of these days 
+can be assigned the letter A if Ap exceeds 6 for this day or the letter K if Ap is smaller or equal 
+6, but one Kp value exceeds 3, or two Kp values exceed 2+. The 5 disturbed days are selected and 
+ordered from D1 (the most disturbed day) to D5. An asterisk (*) is assigned to a disturbed day if 
+Ap is smaller 20. The Kp index was introduced by Bartels (1949) and is produced by Geomagnetic
+Observatory Niemegk, GFZ German Research Centre for Geosciences.
+
+
+DOI, license and references are given here:
+# DOI: https://doi.org/10.5880/Kp.0001
+# LICENSE: CC BY 4.0, please cite:
+# Matzka, J., Bronkalla, O., Tornow, K., Elger, K. and Stolle, C., 2021.
+# Geomagnetic Kp index. V. 1.0. GFZ Data Services,
+# https://doi.org/10.5880/Kp.0001
+# Matzka, J., Stolle, C., Yamazaki, Y., Bronkalla, O. and Morschhauser, A.,
+# 2021. The geomagnetic Kp index and derived indices of geomagnetic activity.
+# Space Weather, https://doi.org/10.1029/2020SW002641
+
+The strucutre of the dowmloaded data is:
+
+  International           Quietest Days                 Most Disturbed Days
+  Month
+            Q1  Q2  Q3  Q4  Q5    Q6  Q7  Q8  Q9  Q10   D1  D2  D3  D4  D5
+
+with the first two columns giving minth and year,
+the next 10 columns giving the 10 quietest days of the month Q1 to Q10,
+with Q1 being the most quiet day, Q2 being the second-most quiet days etc.,
+and the last 5 columns giving the 5 most disturbed days D1 to D5,
+with D1 being the most disturbed day, D2 being the escond-most disturbed day etc.

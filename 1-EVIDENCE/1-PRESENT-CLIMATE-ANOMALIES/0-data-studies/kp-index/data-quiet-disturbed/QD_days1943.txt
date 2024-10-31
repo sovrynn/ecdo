@@ -1,0 +1,26 @@
+# DOI: https://doi.org/10.5880/Kp.0001
+# LICENCE: CC BY 4.0, please cite:
+# Matzka, J., Bronkalla, O., Tornow, K., Elger, K. and Stolle, C., 2021.
+# Geomagnetic Kp index. V. 1.0. GFZ Data Services,
+# https://doi.org/10.5880/Kp.0001
+# Matzka, J., Stolle, C., Yamazaki, Y., Bronkalla, O. and Morschhauser, A.,
+# 2021. The geomagnetic Kp index and derived indices of geomagnetic activity.
+# Space Weather, https://doi.org/10.1029/2020SW002641
+# The Kp index was introduced by Bartels (1949) and is produced by Geomagnetic
+# Observatory Niemegk, GFZ German Research Centre for Geosciences.
+  International           Quietest Days                 Most Disturbed Days
+  Month
+            Q1  Q2  Q3  Q4  Q5    Q6  Q7  Q8  Q9  Q10   D1  D2  D3  D4  D5
+
+ Jan 1943   14  15   7  13  11    25  29   1K 31  16    20   4  21  22  17 
+ Feb 1943   21  10  16  28  22    15  12  20   7   2    17  26   4* 18* 13*
+ Mar 1943   15  28  13  10  25K   26  27   7   1K 18    29  23  16  30  20 
+ Apr 1943   24  23  14  13   9    12  19  18K 28A  8A   11   3  26   6   5 
+ May 1943    8   9  22  21  31    20   6  10   7  11A    1  18  24  28  15 
+ Jun 1943   17  18  16  30  15     4   3  26   5   2A    8  24   9  21  20 
+ Jul 1943   25   1  14  29  28    24   2  23A 15A 26A    5   6   9   4  10 
+ Aug 1943   22  27  11  12A 10A   23A  6A 21A  7A 25A   31  30   8   9  13 
+ Sep 1943   24A 20A  7A 18A 17A    6A 16A 19A 25A 23A   30  29   3  28   9 
+ Oct 1943   15  14  16   6  13A   18A 21A  5A 19A 23A   26   9   1   2  28 
+ Nov 1943   17  11  15  13   4     3  14  12   2  30A   19  25  27  20  23 
+ Dec 1943    6  11  12   7  28    30   8  13K 27  15A   19  16  17  20   3 
