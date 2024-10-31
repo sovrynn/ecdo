@@ -9,7 +9,14 @@ North pole wander
 SSB path
 Landscheidt minimum/maximum (impulses of torque)
 Kp-index
-Aurora data
+Atmospheric CO2 concentration
+Global temperature rise
+Mean Sea Level (and variance) increase
+Sea surface temperature increase
+Rotational speed change
+Polar sea ice decrease
+Mid-ocean seismicity rise
+Volcanism rise
 ```
 
 ## Rainfall (1950 - now)
