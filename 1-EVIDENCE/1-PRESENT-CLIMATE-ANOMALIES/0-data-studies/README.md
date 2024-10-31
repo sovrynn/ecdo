@@ -13,7 +13,7 @@ Atmospheric CO2 concentration
 Global temperature rise
 Mean Sea Level (and variance) increase
 Sea surface temperature increase
-Rotational speed change
+Rotational speed increase is reversing
 Polar sea ice decrease
 Mid-ocean seismicity rise
 Volcanism rise
@@ -69,7 +69,7 @@ https://github.com/user-attachments/assets/7e944cb3-9ccd-45a8-a217-8136d9bc2465
 ![](img/18.webp)
 ![](img/27.webp)
 
-## Rotational speed change (contradiction)
+## Rotational speedup is reversing; slowing down
 
 ![](img/12.webp)
 ![](img/13.webp)
