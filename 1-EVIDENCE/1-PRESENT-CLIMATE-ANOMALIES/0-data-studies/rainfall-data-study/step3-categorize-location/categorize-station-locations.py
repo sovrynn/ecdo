@@ -1,7 +1,6 @@
 import os
 import sys
 import openai
-import pandas as pd
 
 # Check if directory and prompt file arguments are provided
 if len(sys.argv) != 3:
@@ -20,19 +19,19 @@ except FileNotFoundError:
     print(f"Prompt file {prompt_filename} not found.")
     sys.exit(1)
 
-# Function to read CSV content and convert it to string format for the prompt
-def get_csv_content_as_string(filepath):
-    df = pd.read_csv(filepath)
-    return df.to_string(index=False)
+# Function to read .txt file content as a string
+def get_text_content_as_string(filepath):
+    with open(filepath, 'r') as file:
+        return file.read().strip()
 
-# Process each CSV file in the directory
+# Process each .txt file in the directory
 for filename in os.listdir(directory):
-    if filename.endswith('.csv'):
-        csv_filepath = os.path.join(directory, filename)
+    if filename.endswith('.txt'):
+        txt_filepath = os.path.join(directory, filename)
         
-        # Generate the full prompt by appending CSV content to the base prompt
-        csv_content = get_csv_content_as_string(csv_filepath)
-        full_prompt = f"{base_prompt}\n\n{csv_content}"
+        # Generate the full prompt by appending text file content to the base prompt
+        txt_content = get_text_content_as_string(txt_filepath)
+        full_prompt = f"{base_prompt}\n\n{txt_content}"
         
         # Send the prompt to OpenAI ChatCompletion
         try:
