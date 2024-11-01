@@ -61,11 +61,15 @@ Work by Carl Smith, showing AMPs of the Sun.
 
 ![](img/carl-smith.jpg)
 
-## Kp-index (1930 - now)
+## Kp-index trending down, indicating less geomagnetic disturbances (1930 - now)
 
 Kp-index, used to measure disturbances in the geomagnetic field, and also used for aurora sightings, over the last century.
 
 ![](img/SAVE-1932-2024-ap-daily-average.png)
+
+Data trend verified by the same institute the data is from:
+
+![](img/Kp-all-histo.png)
 
 # TES
 
