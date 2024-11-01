@@ -9,8 +9,8 @@ def main(filename):
 
     # Extract values
     years = data['DATE'].values
-    tmax_values = data['TMAX'].values / 10
-    tmin_values = data['TMIN'].values / 10
+    tmax_values = data['TMAX'].values
+    tmin_values = data['TMIN'].values
 
     # Perform linear regression for TMAX and TMIN
     coeffs_tmax = np.polyfit(years, tmax_values, 1)

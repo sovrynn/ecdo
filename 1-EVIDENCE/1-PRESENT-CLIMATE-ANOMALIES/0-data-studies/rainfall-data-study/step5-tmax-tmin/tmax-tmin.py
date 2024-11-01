@@ -7,7 +7,7 @@ import numpy as np
 from tqdm import tqdm
 
 # Initialize data structures
-years = list(range(1950, 1953))
+years = list(range(1950, 2021))
 tmax_values_per_year = {year: [] for year in years}
 tmin_values_per_year = {year: [] for year in years}
 
@@ -72,11 +72,13 @@ for year in years:
     tmax_vals = tmax_values_per_year[year]
     tmin_vals = tmin_values_per_year[year]
     if tmax_vals:
-        average_tmax_per_year[year] = sum(tmax_vals) / len(tmax_vals)
+        # divide by 10 because the data is in tenths of celsius
+        average_tmax_per_year[year] = sum(tmax_vals) / len(tmax_vals) / 10
     else:
         average_tmax_per_year[year] = None
     if tmin_vals:
-        average_tmin_per_year[year] = sum(tmin_vals) / len(tmin_vals)
+        # divide by 10 because the data is in tenths of celsius
+        average_tmin_per_year[year] = sum(tmin_vals) / len(tmin_vals) / 10
     else:
         average_tmin_per_year[year] = None
 

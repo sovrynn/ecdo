@@ -69,14 +69,19 @@ Kp-index, used to measure disturbances in the geomagnetic field, and also used f
 
 # TES
 
-## CO2 PPM and Global Temperature Rise
+## Global Temperature Rise, along with CO2 PPM increase
 
 ![](img/7.webp)
 ![](img/25.webp)
 
+Independently verified through my own studies, which show about 0.7 degrees Celsius increase in daily peak temperature,  and 1.34 degrees Celsius increase for daily low temperature, over 70 years.
+
+![](img/SAVE_TMAX_plot.png)
+![](img/SAVE_TMIN_plot.png)
+
 ## Mean Sea Level Increase, MSL variance increase
 
-I believe this data is handpicked from a single local cluster of stations. In other words, it could be cherry picked (intentionally or unintentionally).
+I believe this data comes from a single local cluster of stations. In other words, it might not be a good global representation.
 
 ![](img/9.webp)
 
