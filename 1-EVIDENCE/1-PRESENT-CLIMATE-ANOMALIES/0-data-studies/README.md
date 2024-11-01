@@ -19,6 +19,13 @@ Mid-ocean seismicity rise
 Volcanism rise
 ```
 
+Further investigation:
+- Arctic sea ice
+- Auroras
+- Heliobiology:
+	- Social unrest
+	- Health factors
+
 ## Rainfall (1950 - now)
 
 A study I did across more than 100k original stations, reduced to 4375 stations spread worldwide, suggests that aggregate global rainfall is increasing slightly (few percent) over the last several decades.
