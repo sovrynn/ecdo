@@ -49,8 +49,12 @@ Observation 4: Mean sea level is rising, but mean sea level variance is also ris
 
 Observation 5: Schumann Resonance banding-power has ranged upwards, indicating a weakening in the Earth's magnetic moment. This is commensurate with a dramatic wandering of the geomagnetic north pole. This is happening at the same time as global temperature increase.
 
-Observation 6: This part seems to contradict itself. It may be a bit of sloppy work by TES not cleaning up the old version of his thesis when he updated it for new information. In the end he seems to be arguing that Earth's ORB is slowing down due to added mass through the LLVP structures. But the contradiction remains. He posts a graphic showing leap seconds added over the last century which implies slowing down. Then he posts a graphic showing shorter days which implies faster rotation. Anyways the point he seems to be trying to make is that there are currently variations in Earth's rotation which are conveniently not worked into current climate models.
+Observation 6: The Earth's rotation is speeding up, but the rate at which it is speeding up is slowing down and reversing, indicating a force that is slowing down Earth's rotation.
 
 Observation 7: Anecdote: Spring 2023 brought a heat surge in ocean sea surface temperature. This happened too fast for humans to have been the driving factor. This also coincided with a record Antarctic ice melt-off. The Earth's core stands as the only possible energy source capable of generating this massive heat surge.
 
-Observation 8: Recent rise in earthquakes and volcanic activity, indicating increasing activity of Earth's upper mantle
+Observation 8: Recent rise in earthquakes and volcanic activity, indicating increasing activity of Earth's upper mantle.
+
+Observation 9: Heat anomalies are not random - rather they follow specific patterns and arise from specific crustal locations (mid-Atlantic rise, El Nino/ULVZ/LLVP currents). Additionally, the heating from El Nino seems to accumulate persistently, and as such the heat increases of the last few decades has happened within only a few weeks of rapid temperature rise, something that is too rapid to be explained by atmospheric changes. There's also evidence of heat plumes in ANtarctica, which could seemingly only be explained by the mantle.
+
+Observation 10: Deep oceans are absorbing excessive amounts of heat.
