@@ -6,6 +6,7 @@ Going to compile all kinds of data in here.
 Rainfall
 Polar nutation
 North pole wander
+True polar wander
 SSB path
 Landscheidt minimum/maximum (impulses of torque)
 Kp-index
@@ -42,13 +43,17 @@ Polar nutation seems to be narrowing leading up till today.
 
 ## North pole wander (1600 - now)
 
-North Pole wander really kicked into high gear around 1975, when it began to SPRINT in a path it hasn't really left yet.
+North Pole wander really kicked into high gear around 1975, when it began to SPRINT in a path it hasn't really left https://www.iers.org/IERS/EN/DataProducts/EarthOrientationData/eop.htmlyet.
 
 ![](img/landscheidt-rosetta.jpg)
 
 ![](img/nmp2.jpg)
 
 https://github.com/user-attachments/assets/7e944cb3-9ccd-45a8-a217-8136d9bc2465
+
+## True polar wander (average rotational axis movement)
+
+![](img/polar-motion-drift.jpg)
 
 ## SSB path (1945 - 1994)
 
