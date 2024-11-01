@@ -21,15 +21,21 @@ Volcanism rise
 
 ## Rainfall (1950 - now)
 
+A study I did across more than 100k original stations, reduced to 4375 stations spread worldwide, suggests that aggregate global rainfall is increasing slightly (few percent) over the last several decades.
+
 ![](img/SAVE-cumulative-prcp-1950-2020.png)
 
 ## Polar nutation (1846 - now)
+
+Polar nutation seems to be narrowing leading up till today.
 
 ![](img/SAVE_timeseries.png)
 ![](img/SAVE_calculated_deltax.png)
 ![](img/SAVE_calculated_deltay.png)
 
 ## North pole wander (1600 - now)
+
+North Pole wander really kicked into high gear around 1975, when it began to SPRINT in a path it hasn't really left yet.
 
 ![](img/landscheidt-rosetta.jpg)
 
@@ -39,17 +45,25 @@ https://github.com/user-attachments/assets/7e944cb3-9ccd-45a8-a217-8136d9bc2465
 
 ## SSB path (1945 - 1994)
 
+A visual of the SSB's path around the Sun in the late 1900s.
+
 ![](img/1824455551939662016-GVHDXVvX0AA6gdb.png)
 
 ## Landscheidt minimum/maximum (900 - now)
+
+A rough graph showing the Landscheidt minimum/maximum's, derived from impulses of the torque.
 
 ![](img/double-am-derivative.png)
 
 ### AMP (angular momentum perturbations) (1620 - now)
 
+Work by Carl Smith, showing AMPs of the Sun.
+
 ![](img/carl-smith.jpg)
 
 ## Kp-index (1930 - now)
+
+Kp-index, used to measure disturbances in the geomagnetic field, and also used for aurora sightings, over the last century.
 
 ![](img/SAVE-1932-2024-ap-daily-average.png)
 
@@ -62,6 +76,8 @@ https://github.com/user-attachments/assets/7e944cb3-9ccd-45a8-a217-8136d9bc2465
 
 ## Mean Sea Level Increase, MSL variance increase
 
+I believe this data is handpicked from a single local cluster of stations. In other words, it could be cherry picked (intentionally or unintentionally).
+
 ![](img/9.webp)
 
 ## Sea Surface Temperature Rise
@@ -69,7 +85,7 @@ https://github.com/user-attachments/assets/7e944cb3-9ccd-45a8-a217-8136d9bc2465
 ![](img/18.webp)
 ![](img/27.webp)
 
-## Rotational speedup is reversing; slowing down
+## Rotational speedup trend is reversing; slowing down
 
 ![](img/12.webp)
 ![](img/13.webp)
