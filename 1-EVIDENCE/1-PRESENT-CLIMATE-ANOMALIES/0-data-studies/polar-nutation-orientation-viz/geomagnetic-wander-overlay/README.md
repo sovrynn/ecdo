@@ -35,16 +35,9 @@ Then plot both the datasets on a 2d axis centered at the origin going from -1 to
 
 Save the plot to output.png.
 
-## PRompt 2
-
-Several changes needed.
-
-1. Add two color gradients, one for each line, and make them completely different gradients, as in the colors making them up are different, so I can distinguish them.
-
-2. Print out the yearly data for both to the console, one row per line, in the format "Y X Y" where Y is the 4 digit year, X is the x offset (before the axis modifications), and Y is the y offset (before the axis modifications)
-
 # Data
 
+```
 ## Dataset X:
 
 1845 263.301 69.42
@@ -411,6 +404,7 @@ Several changes needed.
 2022 0.233064 0.459786
 2023 0.187126 0.507931
 2024 0.091817 0.47807
+```
 
 # TODO
 
