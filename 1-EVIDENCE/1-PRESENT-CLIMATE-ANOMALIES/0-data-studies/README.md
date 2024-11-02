@@ -27,11 +27,7 @@ Further investigation:
 	- Social unrest
 	- Health factors
 
-## Rainfall (1950 - now)
-
-A study I did across more than 100k original stations, reduced to 4375 stations spread worldwide, suggests that aggregate global rainfall is increasing slightly (few percent) over the last several decades.
-
-![](img/SAVE-cumulative-prcp-1950-2020.png)
+# Poles, Cosmic, Geomagnetic
 
 ## Polar nutation (1846 - now)
 
@@ -83,7 +79,25 @@ Data trend verified by the same institute the data is from:
 
 ![](img/Kp-all-histo.png)
 
-# TES
+## Solar cycle
+
+Consistent with the Kp data.
+
+![](img/solar-cycle1.jpg)
+![](img/solar-cycle2.jpg)
+
+## Rotational speedup trend is reversing; slowing down
+
+![](img/12.webp)
+![](img/13.webp)
+
+# Weather
+
+## Rainfall (1950 - now)
+
+A study I did across more than 100k original stations, reduced to 4375 stations spread worldwide, suggests that aggregate global rainfall is increasing slightly (few percent) over the last several decades.
+
+![](img/SAVE-cumulative-prcp-1950-2020.png)
 
 ## Global Temperature Rise, along with CO2 PPM increase
 
@@ -105,11 +119,6 @@ I believe this data comes from a single local cluster of stations. In other word
 
 ![](img/18.webp)
 ![](img/27.webp)
-
-## Rotational speedup trend is reversing; slowing down
-
-![](img/12.webp)
-![](img/13.webp)
 
 ## Antarctic Sea Ice Decrease
 
