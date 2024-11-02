@@ -86,6 +86,8 @@ Consistent with the Kp data.
 ![](img/solar-cycle1.jpg)
 ![](img/solar-cycle2.jpg)
 
+Source: https://swpc.noaa.gov/products/solar-cycle-progression
+
 ## Rotational speedup trend is reversing; slowing down
 
 ![](img/12.webp)
