@@ -8,6 +8,14 @@ https://www.ncei.noaa.gov/products/wandering-geomagnetic-poles
 
 Second arg: Polar nutation data (MJD, 1845 - now)
 
+Earth rotation: https://www.iers.org/IERS/EN/Science/EarthRotation/EOP.html
+
+Polar motion: https://www.iers.org/IERS/EN/Science/EarthRotation/PolarMotion.html-1.htm?nn=12932
+
+1962 1997 mean rotation axis: https://www.iers.org/IERS/EN/Science/EarthRotation/CoordinatesMeanRotationAxis.html?nn=12932
+
+I could try taking the MJD data and forming a 
+
 ## Prompt
 
 Write a python script that does the following. IT should take two input args, relative filenames X and Y. IT should read X's contents into code. The data is one row per line, in the format "LON LAT YEAR", where LON is the longitude (float) LAT is the latitude (float) and YEAR is a 4 digit integer, year, although it has 2 decimal points (always 0) in the file. It should also read Y's contents into code. Starting at the 14th line (inclusive), it should parse each line as a series of words (separated by spaces, potentially multiple). Each line represents one data point. The first "word" in each line is a float, date, MJD format, days since November 17, 1858, potentially negative. The second is the x coordinate, and the third is the y coordinate.
@@ -16,8 +24,8 @@ I want you to graph both of these on the same 2d axis, but they both have to be 
 
 The firts data needs to be modified in the following steps:
 
-1. First of all, all rows with YEAR (third column) before year 1846 should be discarded.
-2. Then the data should be normalized so that rather than an absolute lat/lon, it's shifted so that the first data point (year 1845) is considered 0,0, and all the other coordinates become offsets from that point.
+1. First of all, all rows with YEAR (third column) before year 1850 should be discarded.
+2. Then the data should be normalized so that rather than an absolute lat/lon, it's shifted so that the first data point (year 1850) is considered 0,0, and all the other coordinates become offsets from that point.
 3. Again the data needs to be changed so that instead of lat/lon, the lat/lon offsets are converted to coordinate offsets. The longitude offset should give the bearing, with positive x axis being 90 east, negative x axis being 270 east, and so on. The latitude offset will give the distance traveled along the bearing. You'll probably have to use trig to do this.
 4. Finally the data again needs to be normalized so the biggest x/y absolute value has a value of 1, bringing all the x/y values within the scale [-1,1].
 
@@ -25,9 +33,8 @@ Print out all the yearly values for each step in this process. This should be do
 
 The second data needs to be filtered and the date needs to be scaled:
 1. First off, convert all the dates (first column) to AD format, including month and day. THen, starting from the earliest date, only include the date that is 365.25 days after it, or whichever is closest. Discard the rest.
-2. Then, replace the data with a past 1-year average. So the value for date X should be the average of all data points in the 12 months prior to date X.
-3. Then I need you to switch the x and y values.
-4. Then, I need the resulting y values (previously x) to be multiplied by -1.
+2. Then, replace the data with a 5-year moving average so it starts from 1850.
+3. Then I need you to switch the x and y values and multiply them both by -1.
 
 Print out all the yearly values for each step in this process, in the same format as the first file.
 
