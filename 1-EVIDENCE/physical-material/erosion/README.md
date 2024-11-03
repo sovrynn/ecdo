@@ -79,6 +79,14 @@ More images from  the Chad area    https://www.naturalarches.org/gallery-ChadPor
 
 ![](img/bighorn-mountains.jpg)
 ![](img/bighorn-mountains2.png)
+
+![](img/bighorn1.png)
+![](img/bighorn2.png)
+![](img/bighorn3.png)
+![](img/bighorn4.png)
+![](img/bighorn5.png)
+![](img/bighorn6.png)
+
 ![](img/devils-canyon.jpg)
 ![](img/devils-canyon2.jpg)
 
