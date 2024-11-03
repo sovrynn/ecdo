@@ -50,6 +50,8 @@ https://github.com/user-attachments/assets/7e944cb3-9ccd-45a8-a217-8136d9bc2465
 ## True polar wander (average rotational axis movement)
 
 ![](img/polar-motion-drift.jpg)
+![](img/iers-pole-x-motion.gif)
+![](img/iers-pole-y-motion.gif)
 
 ## SSB path (1945 - 1994)
 
