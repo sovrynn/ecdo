@@ -172,9 +172,9 @@ def plot_time_series(filenames):
     ax.axvline(0, color='black', linewidth=0.5)
 
     # Labels and title
-    ax.set_xlabel('X Value')
-    ax.set_ylabel('Y Value')
-    ax.set_title('2D Time Series Plot with 20-Year Intervals')
+    ax.set_xlabel('X Coord (90 West -> 90 East)')
+    ax.set_ylabel('Y Coord (0 Longitude -> 180 Longitude)')
+    ax.set_title('True Polar Wander (left) and North Magnetic Pole Wander (right)')
 
     # Save the plot to output.png
     plt.savefig('output.png', bbox_inches='tight')
