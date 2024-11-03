@@ -10,13 +10,15 @@ He provides plenty of sources, I encourage you to look at his original work.
 
 ## Earth's geomagnetic dipole weakening
 
-### Changes in earth’s dipole
+This seems fairly well documented in the research papers and books.
+
+### Paper: Changes in earth’s dipole
 
 "The dipole moment of Earth’s magnetic field has decreased by nearly 9% over the past 150 years and by about 30% over the past 2,000 years according to archeomagnetic measurements. Here, we explore the causes and the implications of this rapid change. Maps of the geomagnetic field on the core–mantle boundary derived from ground-based and satellite measurements reveal that most of the present episode of dipole moment decrease originates in the southern hemisphere. Weakening and equatorward advection of normal polarity magnetic field by the core flow, combined with proliferation and growth of regions where the magnetic polarity is reversed, are reducing the dipole moment on the core–mantle boundary. Growth of these reversed flux regions has occurred over the past century or longer and is associated with the expansion of the South Atlantic Anomaly, a low-intensity region in the geomagnetic field that presents a radiation hazard at satellite altitudes. We address the speculation that the present episode of dipole moment decrease is a precursor to the next geomagnetic polarity reversal. The paleomagnetic record contains a broad spectrum of dipole moment fluctuations with polarity reversals typically occurring during dipole moment lows. However, the dipole moment is stronger today than its long time average, indicating that polarity reversal is not likely unless the current episode of moment decrease continues for a thousand years or more."
 
 https://link.springer.com/article/10.1007/s00114-006-0138-6
 
-### Future Inversion of the Magnetic Field and Possible Changes in the Structure of the Magnetosphere
+### Paper: Future Inversion of the Magnetic Field and Possible Changes in the Structure of the Magnetosphere
 
 "IGRF-12 model data have been used to analyze the change in the global structure of internal sources of the Earth’s magnetic field. A decrease in the dipole magnetic moment is accompanied by a rapid growth of multipole moments. This justifies the theoretical model of the magnetic field inversion as a gradual decrease in the dipole field with general conservation of its direction and amplification of multipole moments. Paleo- and archeomagnetic data indicate that this process has already been taking place for almost 2.5 thousand years and has occurred repeatedly many times in the past. A decrease in the dipole magnetic moment leads the magnetopause to approach the Earth to disappear completely in almost 1.5 thousand years."
 
@@ -51,7 +53,7 @@ It's very hard to read this one.
 It's nice data; I just wish it went back further. From what's given, there isn't much that can be gleaned from a linear trend outside of the small blip around 1999.
 
 ![](img/saa-centroid.png)
-![](img/saa-over-time)
+![](img/saa-over-time.png)
 
 "At present the strength of the Earth's magnetic ﬁeld is decreasing by about 5% every hundred years (Merrill and McElhinny, 1983); in the SAA, the strength of the magnetic ﬁeld is decreasing ten times as fast."
 
