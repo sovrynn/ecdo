@@ -174,7 +174,7 @@ def plot_time_series(filenames):
     # Labels and title
     ax.set_xlabel('X Coord (90 West -> 90 East)')
     ax.set_ylabel('Y Coord (0 Longitude -> 180 Longitude)')
-    ax.set_title('True Polar Wander (left) and North Magnetic Pole Wander (right)')
+    ax.set_title('True Polar Wander (left) and North Magnetic Pole Wander (right)\nBoth normalized to [-1,1]')
 
     # Save the plot to output.png
     plt.savefig('output.png', bbox_inches='tight')
