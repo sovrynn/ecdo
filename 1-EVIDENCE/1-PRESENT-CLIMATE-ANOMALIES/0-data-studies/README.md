@@ -47,6 +47,10 @@ North Pole wander really kicked into high gear around 1975, when it began to SPR
 
 https://github.com/user-attachments/assets/7e944cb3-9ccd-45a8-a217-8136d9bc2465
 
+Here it is overlaid with true polar wander:
+
+![](img/SAVE_polar_wander_overlay.png)
+
 ## True polar wander (average rotational axis movement)
 
 ![](img/polar-motion-drift.jpg)
