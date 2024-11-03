@@ -415,4 +415,10 @@ Save the plot to output.png.
 
 # TODO
 
-Looks like I might be trying to do too many things in one script. Need to break down the processing steps separately and then plot the data together.
+So I want to add the labels back, with offsets in the code
+
+Then add the ability to plot two at the same time
+
+## Prompt
+
+write a python script htat takes one or two input args, a relative filename(s). For the first one, it should read the data at that filename. it has one row per line. The first word is date in YYYY-MM-DD format. Second word is x value. Third word is y value. It should plot the points as a 2d timeseries on a 2d cartesian coordinate plane. Center the coordinate system at the origin on the plot.  Instead of plotting points, plot a thin line between them all. Split every 20 years into an interval. Color the line that color, and plot a labeled point at the end of each of these intervals on the plot, in the same color. The point should be labeled with the end date of the interval. Parameterize the color list so it's easily modifiable in the script. Also add x/y plot positional offsets to the LABELS of the points, for every single one, one per dot, that I can modify individually in the code. So, parameterize it. Add a legend for the color intervals on the plot. Do the same process for the second file input arg, EXCEPT, the data must be parsed differently from the input file. For the second file, the date for each line is in the form "X Y DATE", and DATE is only the year value. Do the rest the same - split it into colored intervals, plot it ON THE SAME PLOT, add a legend for the color intervals. Save the single output plot to output.png.
