@@ -45,11 +45,12 @@ Cataclysm evidence, physical markers:
 - Sir arthur evans: Crete palace
 - Tollmann: 7400 comet hypothesis
 - Buckland: flood biomass
+- Wright: human artifacts under hardened lava deposits
 
 Geo/paleomagneticism:
 - Laj
 - Morner
-- McElhinny - Paleomagnetism
+- McElhinny - Geo/paleo-magnetism, weakening magnetic field
 
 Atlantis:
 - flem-ath
