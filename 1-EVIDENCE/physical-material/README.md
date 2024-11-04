@@ -6,6 +6,12 @@ Like all fine things, gem opal is exceedingly rare. Much of the world's precious
 
 https://www.opalsdownunder.com.au/learn/australian-opal-mining-fields/
 
+## Carolina Bays
+
+"Carolina bays are elliptical to circular depressions concentrated along the East Coast of the United States within coastal New York, New Jersey, Delaware, Maryland, Virginia, North Carolina, South Carolina, Georgia, and north Florida.[1][2][3] In Maryland, they are called Maryland basins.[4] Within the Delmarva Peninsula, they and other coastal ponds are also called Delmarva bays."
+
+https://en.wikipedia.org/wiki/Carolina_bays
+
 # TODO
 
 Tibet:

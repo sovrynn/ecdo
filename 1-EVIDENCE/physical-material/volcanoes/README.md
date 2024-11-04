@@ -44,11 +44,15 @@ In 1889, on the occasion of the boring of an artesian well at Nampa, Idaho, on t
 
 Before the last lava sheets spread over the Columbia Plateau there were human abodes in the area." - Excerpt from Earth in Upheaval, Velikovsky (1955 edition)
 
+1. https://archive.org/details/EarthInUpheavalVelikovsky
+2. https://annas-archive.org/md5/1db6b83a3efd5299af60671561a5b515
+
+### Nampa Image
+
 ![](img/nampa-image1.jpg)
 ![](img/nampa-image2.jpg)
 
-1. https://archive.org/details/EarthInUpheavalVelikovsky
-2. https://annas-archive.org/md5/1db6b83a3efd5299af60671561a5b515
+https://m.youtube.com/watch?v=xWfff8f3-AQ
 
 ## Citations
 
