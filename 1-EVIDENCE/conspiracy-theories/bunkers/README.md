@@ -101,3 +101,4 @@ https://web.archive.org/web/20220313140055/https://www.zerohedge.com/geopolitica
 ![](img/saudi-profile2.jpg)
 ![](img/saudi-profile3.jpg)
 ![](img/saudi-profile4.jpg)
+![](img/saudi6.png)
