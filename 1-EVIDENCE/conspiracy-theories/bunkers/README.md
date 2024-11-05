@@ -93,3 +93,11 @@ Found Bunker: https://youtu.be/sKWFx0QAW2w
 ## Bunker Down: Why Switzerland Is Prepared For The Big One
 
 https://web.archive.org/web/20220313140055/https://www.zerohedge.com/geopolitical/bunker-down-why-switzerland-prepared-big-one
+
+## Saudi doesn't know?
+
+![](img/saudi2030.png)
+![](img/saudi-profile.jpg)
+![](img/saudi-profile2.jpg)
+![](img/saudi-profile3.jpg)
+![](img/saudi-profile4.jpg)

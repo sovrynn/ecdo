@@ -264,6 +264,11 @@ Mauritania: Mega Current Ripples? [1] For visual comparison: The largest sand du
 
 ![](img/1809353377723158949-GRwVdb-XUAA5xn1.jpg)
 
+## Pakistan Mega-flow structures?
+
+![](img/pakistan.jpg)
+![](img/pakistan2.jpg)
+
 ## Citations
 
 1. ScholarAI
