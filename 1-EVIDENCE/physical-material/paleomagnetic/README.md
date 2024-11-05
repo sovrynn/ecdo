@@ -16,7 +16,7 @@ What the evidence seems to suggest is that the Earth has, in times long ago, exp
  
 From Paleomagnetism - Continents and Oceans, McElhinny & McFadden (2000) [red additions by me]
 
-## Laj: An impending geomagnetic transition? Hints from the past
+## Laj: An impending geomagnetic transition? Hints from the past (hard copy in `LITERATURE`)
 
 We find that some aspects of the present-day geomagnetic field have some similarities with those documented for the Laschamp excursion 41 kyr ago. Under the assumption that the dynamo processes for an eventual future reversal or excursion would be similar to those of the Laschamp excursion, we tentatively suggest that, whilst irreversible processes that will drive the geodynamo into a polarity change may have already started, a reversal or an excursion should not be expected before 500–1000 years.
 

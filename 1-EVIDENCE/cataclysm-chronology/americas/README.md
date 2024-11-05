@@ -116,6 +116,27 @@ Roraima is the western pivot in the ECDO model.
 
 https://hot-facts.blogspot.com/2011/04/facts-about-mount-roraima-strangefacts.html
 
+## This is the legend of the Comanches.
+
+"Innumerable moons ago, a race of white men, ten feet high, and far more rich and powerful than any white people now living, here inhabited a large range of country, extending from the rising to the setting sun. 
+
+Their fortifications crowned the summits of the mountains, protecting their populous cities situated in the intervening valleys. They excelled every other nation which has flourished, either before or since"
+
+![](img/comanches1.jpg)
+![](img/comanches2.jpg)
+![](img/comanches3.jpg)
+![](img/comanches4.jpg)
+![](img/comanches5.jpg)
+![](img/comanches6.jpg)
+
+Book names and links to the full versions👇
+
+Three years among the Comanches: the narrative of Nelson Lee
+https://archive.org/details/threeyearsamongc0000leen
+
+To the American Indian: Reminiscences of a Yurok Woman by Lucy Thompson
+https://archive.org/details/toamericanindia00thomgoog
+
 ## Citations
 
 1. https://zsitchinindex.wordpress.com/the-earth-chronicles-index/book-4-the-lost-realms/chapter-7-the-day-the-sun-stood-still/

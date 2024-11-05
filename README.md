@@ -23,6 +23,7 @@ Auxiliary folders:
 - `5-TOOLS-DEV`: Technical resources for ECDO.
 - `6-LITERATURE-MEDIA`: Literature and media related to the ECDO, organized by author.
 - `7-TRANSLATIONS`: Non-English ECDO writeups.
+- `8-FAQS`: FAQs.
 
 ## ECDO Newcomer Guide
 

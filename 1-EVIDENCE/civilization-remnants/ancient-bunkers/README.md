@@ -16,6 +16,11 @@ A rare image of an "undisturbed' neolithic burial chamber. Shaken and stirred by
 
 https://sci-hub.ru/10.1017/s0079497x00021150
 
+### Quotes
+
+![](img/lanhill1.jpg)
+![](img/lanhill2.jpg)
+
 ## West Kennet long barrow
 
 West Kennet Long Barrow. This one looks like a neolithic bunker for the elite. They had the door facing the right direction. Bodies and bones of dozens scattered around on the floor everywhere.  Some rather strange burial practices. Image shows the sediment layers which filled the space before excavation - it was loaded with broken shards of pottery and textile and various other materials of human origin.

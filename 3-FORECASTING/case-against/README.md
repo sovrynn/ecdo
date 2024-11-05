@@ -1,0 +1,15 @@
+# Case Against an Impending Rotation
+
+Some research papers I have read, specifically on hypothetical geomagnetic reversals, explicitly state that an impending shift is unlikely. I include those excerpts here.
+
+Other than that, most of what I've come across actually supports the ECDO/cataclysm theory, so not much else.
+
+## Laj: An impending geomagnetic transition? Hints from the past (hard copy in `LITERATURE`)
+
+"The rapid decrease of the geomagnetic field intensity in the last centuries has led to speculations that an attempt to a reversal or an excursion might be under way. Here we investigate this hypothesis by examining past records of geomagnetic field intensity obtained from sedimentary cores and from the study of cosmogenic nuclides. The selected records describe geomagnetic changes with an unprecedented temporal resolution between 20 and 75 kyr B.P. We find that some aspects of the present-day geomagnetic field have some similarities with those documented for the Laschamp excursion 41 kyr ago. Under the assumption that the dynamo processes for an eventual future reversal or excursion would be similar to those of the Laschamp excursion, we tentatively suggest that, whilst irreversible processes that will drive the geodynamo into a polarity change may have already started, a reversal or an excursion should not be expected before 500–1000 years."
+
+## Paper: Changes in earth’s dipole (`PRESENT-CLIMATE-ANOMALIES/dipole-strength`)
+
+"The dipole moment of Earth’s magnetic field has decreased by nearly 9% over the past 150 years and by about 30% over the past 2,000 years according to archeomagnetic measurements. Here, we explore the causes and the implications of this rapid change. Maps of the geomagnetic field on the core–mantle boundary derived from ground-based and satellite measurements reveal that most of the present episode of dipole moment decrease originates in the southern hemisphere. Weakening and equatorward advection of normal polarity magnetic field by the core flow, combined with proliferation and growth of regions where the magnetic polarity is reversed, are reducing the dipole moment on the core–mantle boundary. Growth of these reversed flux regions has occurred over the past century or longer and is associated with the expansion of the South Atlantic Anomaly, a low-intensity region in the geomagnetic field that presents a radiation hazard at satellite altitudes. We address the speculation that the present episode of dipole moment decrease is a precursor to the next geomagnetic polarity reversal. The paleomagnetic record contains a broad spectrum of dipole moment fluctuations with polarity reversals typically occurring during dipole moment lows. However, the dipole moment is stronger today than its long time average, indicating that polarity reversal is not likely unless the current episode of moment decrease continues for a thousand years or more."
+
+https://link.springer.com/article/10.1007/s00114-006-0138-6

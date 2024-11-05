@@ -1,6 +1,13 @@
 # Recent Climate Anomalies
 
-TLDR - rainfall, storms, earthquakes, auroras, volcanoes.
+The Earth is experiencing changes as of late:
+- Global temperatures are increasing, and so are CO2 ppm levels and rainfall.
+- Sea surface temperatures are increasing, along with sea level and sea level variance. This is accompanied by excess heat anomalies in the abyssal oceans.
+- Earth's geomagnetic field is weakening, and the magnetic north pole is rapidly changing location, tightly correlated to the direction of true polar wander rotational changes. This is accompanied by a movement of the Schumann Resonances into the higher frequencies
+- Earth's outer body rotation is slowing down
+- There is a rise in mid-ocean seismicity and volcanism
+- Earth's kp-index is falling
+- Polar sea ice is decreasing
 
 ## Ethical Skeptic
 

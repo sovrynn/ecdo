@@ -9,6 +9,7 @@ Goal is to predict when the next ECDO will happen.
 ## Contents
 
 - `date-and-triggers`: Date and triggers for the next ECDO event.
+- `case-against`: The best **counterarguments** for why we won't have an impending ECDO event.
 - (Speculative) `shudder`: A vague potential imminent phenomenon that Ethical Skeptic referred to on social media.
 
 ## Evidence for an impending ECDO

@@ -44,6 +44,30 @@ https://en.wikipedia.org/wiki/Hittites
 
 https://en.wikipedia.org/wiki/K%C3%BCltepe
 
+### References to Destruction Layers in _Kültepe-Kaneš: A Second Millennium B.C.E. Trading Center on the Central Plateau_ (hard copy here)
+
+"Kaneš suffered a great disaster of fire in approximately 1836 B.C.E., corresponding to the reign of King Narām-Sīn of Assur, but was inhabited again a few years later. It was resettled as Building Level Ib, but this period eventually came to an end a short time after 1719 B.C.E. (Günbattı 2008; Veenhof 2003). The kārum of Kaneš was in complete decline during Level Ia."
+
+#### GPT
+
+1. **Section on "The Kārum of Kaneš"**:
+   - **Page 10 (Kārum Level II and Level Ib)**: 
+     - Discusses the major fire around 1836 B.C.E., attributed to the reign of King Narām-Sīn of Assur, which caused significant damage to Kaneš.
+     - Describes the resettlement in Level Ib after the disaster and the eventual decline after 1719 B.C.E.
+   - **Page 11**: 
+     - Details how the sudden fire led to the abandonment of items by merchants, with numerous items left behind as a result of the haste during the evacuation.
+
+2. **Section on "The Mound"**:
+   - **Pages 5-7 (Building Levels 7 and 8)**:
+     - Describes the destruction of monumental buildings, such as "The Palace of Waršama," by fire, resulting in abandonment.
+     - Details structures built over previous levels following destruction events.
+
+3. **Section on "Other Material Culture"**:
+   - **Page 15 (Discussion on lead figurines and gold folio)**:
+     - Notes items like the gold folio discovered in Building Layer Ib that survived in fire debris, indicating the effects of the destruction layers.
+
+These sections provide the primary references to the destruction layers and impacts of fire across the different occupational phases in Kültepe-Kaneš.
+
 ## Tall el-Hammam city melted 1650 BC
 
 Evidence that a "cosmic impact" destroyed ancient city in the Jordan Valley:

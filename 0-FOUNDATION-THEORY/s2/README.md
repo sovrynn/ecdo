@@ -66,6 +66,10 @@ The fact that Mesoamerican myths of 2000 BC indicate that the Sun rose from the 
 
 "Wildfire is also recorded as blowing the great rivers out of their beds, as the oral histories of the Indians of California and the traditions in the Near East around the Euphrates record. The Aborigines in southern Australia gave an account of the horrible heat descending from a red-hot sky. The heat was so extreme that people could not endure it, and the men killed their children and wives, and finally themselves (Walk, 1931, p. 76)." - Tollmann
 
+I think that there will be a period in which it is unbearable, but then a quick shift back to elevated, but survivable, conditions. You have a city, Kanesh that was burned, but then rehabitated for a *short while*, and then destroyed again. So perhaps right in the flip and the days/months surrounding it, it'll be unbearable, but then it'll be alright again.
+
+The fact that we don't see burned remains makes me think it's gradual enough where people can flee somewhere rather than getting caught in it.
+
 ## Length of year
 
 ![](img/360days.jpg)
