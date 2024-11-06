@@ -15,3 +15,9 @@ This paper describes a record of two consecutive tsunami's  affecting Japan circ
 ![](img/sukumo-earthquake.jpg)
 
 [1] https://sci-hub.ru/10.1111/iar.12422
+
+## Cape Kidnappers, New Zealand
+
+![](img/cape-kidnappers-pics.jpg)
+![](img/cape-kidnappers.png)
+![](img/new-zealand-tectonic.png)
