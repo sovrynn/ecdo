@@ -26,7 +26,7 @@ The Pacific Ocean, ranging from 4-6km deep, is going to get displaced onto a coa
 
 Saltwater lakes in red, freshwater lakes in green, and brackish lakes in orange.
 
-![](img/salt-lakes.jpg)
+![](img/asia-lakes.jpg)
 
 ## Tectonic Plates
 
