@@ -18,3 +18,14 @@ https://x.com/daiddosnadad/status/1846470497514803281
 ![](img/caccamo3.jpeg)
 
 https://x.com/daiddosnadad/status/1855504753008214085/photo/1
+
+## Castello di Bauso
+
+![](img/castello-bauso.jpeg)
+![](img/castello-bauso2.jpeg)
+
+## Castello di Bivona
+
+Yakimochi wall.
+
+![](img/castello-bivona.jpeg)

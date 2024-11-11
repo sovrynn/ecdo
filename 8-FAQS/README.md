@@ -1,6 +1,6 @@
 # FAQs
 
-A compilation of very specific predictions about the ECDO, based on (sometimes) quite obscure evidence.
+A compilation of very specific questions about the ECDO.
 
 ## How do we know wind could be extreme, along with debris?
 
@@ -14,15 +14,12 @@ Yes, in a "burial site" in Dublin. Not widespread though, settlements without bu
 
 ## Will the Sun burn us during the flip?
 
-Yes. Cataclysm literature is rife with accounts of heavenly fire and burning. For example, an Australian myth tells of heat so intense that fathers killed their family and then themselves. From Tollmann.
-
-South America: "After a time they began to go into the mountains; fortunately, they provoked the wrath of the Great God and he destroyed them with a heavenly fire."
-
-Fire from the sky is also mentioned in the days of Exodus/Joshua, where the Sun burned the land through the gaps in the clouds.
-
-You also have mentions from Emperor Yahou about fires that burned forests. Trees burn at 300 to 400 Celsius, and bricks melt at around 1000 to 1500 Celsius.
-
-Bellamy and Delair's compilations cover this.
+Most likely. Cataclysm literature is rife with accounts of heavenly fire and burning:
+- An Australian myth tells of heat so intense that fathers killed their family and then themselves. From Tollmann.
+- South America: "After a time they began to go into the mountains; fortunately, they provoked the wrath of the Great God and he destroyed them with a heavenly fire."
+- Fire from the sky is also mentioned in the days of Exodus/Joshua, where the Sun burned the land through the gaps in the clouds.
+- You also have mentions from Emperor Yahou about fires that burned forests. Trees burn at 300 to 400 Celsius, and bricks melt at around 1000 to 1500 Celsius.
+- Bellamy and Delair's compilations cover this as well.
 
 ## Will heavenly fire be immediate?
 
@@ -32,6 +29,6 @@ I assume the build-up will be gradual enough not to "catch everyone by surprise"
 
 I believe not. Kultepe, a city that faced two consecutive destructions in quick succession, had a period between where it was rehabited for a short time, indicating that external conditions may return to survivable conditions when the Earth isn't immediately spinning around in new directions.
 
-## Will ground-to-surface lightning be a hazard? Will it melt things?
+## What explains melted bricks in old cities?
 
-Very possible.
+Either ground-to-surface lightning, caused by increased charge in the ground, or "heavenly fire".
