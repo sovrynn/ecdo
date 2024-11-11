@@ -23,6 +23,12 @@ Highly unlikely:
 
 The scale is key here. We aren't looking for droughts, or floods, or famines. We are looking for a convergence of the land burning, decade and century long famines, water flowing over mountains, civilizations wiped out, all at once.
 
+A Google spreadsheet of all these events has been compiled [here](https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=drive_link).
+
+## Harmonic Visualization
+
+![](img/timeline-harmonic.jpg)
+
 ## Human timelines vs physical marker dating
 
 Obviously we are looking for a great convergence of both, but in terms of preference I would say I have to prefer human timelines. When well-kept, they are more trustworthy than reconstructions from physical markers.
