@@ -13,6 +13,9 @@ https://x.com/daiddosnadad/status/1846470497514803281
 ## Castello di Caccamo (Italy)
 
 ![](img/melted-bricks.jpeg)
+
+They have morphed - what's weird is that some morphed and some didn't. It must depend on the ratio of brick ingredients affecting the blooming.
+
 ![](img/caccamo1.jpeg)
 ![](img/caccamo2.jpeg)
 ![](img/caccamo3.jpeg)
