@@ -2,6 +2,10 @@
 
 You don't necessarily need an ECDO-trained LLM to do translations, as you can either generate or write a summary in English, and then feed it into an ECDO-unfamiliar LLM and ask it to translate it.
 
+## ChatGPT API
+
+https://platform.openai.com/docs/quickstart?language-preference=python
+
 ## Preexisting ECDO LLMs
 
 1. ECDO v1 textual model (updated Sep 25, 2024): https://chatgpt.com/g/g-7TBwEWlWT-ecdo-v1
