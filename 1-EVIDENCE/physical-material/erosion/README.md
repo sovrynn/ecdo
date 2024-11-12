@@ -59,7 +59,7 @@ More images in `img/`.
 
 ## Serra da Capivara, Brazil
 
-![](img/capivara1.JPG)
+![](img/capivara1.png)
 ![](img/capivara2.jpg)
 ![](img/capivara3.jpg)
 

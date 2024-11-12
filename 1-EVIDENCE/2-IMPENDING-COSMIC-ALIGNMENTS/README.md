@@ -1,6 +1,6 @@
 # Future Alignments
 
-This folder focuses on the impending cosmic alignments that may potentially be a trigger for an ECDO event, centered around June 2030.
+This folder focuses on the impending cosmic alignments that may potentially be a trigger for an ECDO event, focusing on January-June 2030.
 
 ## Solar system triggers [1]
 
