@@ -27,6 +27,8 @@ The scale is key here. We aren't looking for droughts, or floods, or famines. We
 
 A Google spreadsheet of all these events has been compiled [here](https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=drive_link).
 
+Snapshot peek of the spreadsheet (links to the spreadsheet):
+
 [<img src="img/event-spreadsheet.png">](https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=drive_link)
 
 ## Harmonic Visualization [2]
