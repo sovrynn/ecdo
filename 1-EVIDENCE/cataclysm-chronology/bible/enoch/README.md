@@ -26,6 +26,20 @@ Robert Henry Charles, an eminent British theologian and scholar, was instrumenta
 
 https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/enoch-ethiopic-book
 
+## Quote
+
+"Metatron, the Angel, the Prince of the Presence, said to me: At the time, when the ministering angels sing (the Thrice) Holy, then all the pillars of the heavens and their sockets shake, and the gates of the Halls of Araboth (the highest heaven) of Raqia (heaven) are shaken and the foundations of Shechaqim and the universe are moved, and the orders (secrets) of Maon and the chambers of Makon quiver, and all the orders of Raqia (heaven) and the constellations and the planets are distressed. The orbs of the sun and the moon rush away and run out of their pattens and run 12,000 parasangs and the wish to throw themselves down from heaven, because of the roaring voice (sound) of their song, and the noise of their praise and the sparks and lightning that proceed from their faces."
+- The Book of Enoch, Book III : Chapter XXXVIII
+[1] https://ia801607.us.archive.org/29/items/HebrewBookOfEnochenoch3/BookOfEnoch3.pdf
+
+METATRON *spoken with a booming voice* - probably the coolest name ever in ancient literature 😉
+
+Metatron, Melchizedek, and Michael are the 3 M's that mysticism likes to discuss.
+
+I'm not quite sure what to do with 3 Enoch, it seems to be at the earliest a 2nd century text from the falls in the realm of rabbinical jewish mysticism.  Probably composed during the same period as the assembly of the Mishnah.
+
+It has some crazy imagery going on, that's for sure.
+
 ## Resources
 
 https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html

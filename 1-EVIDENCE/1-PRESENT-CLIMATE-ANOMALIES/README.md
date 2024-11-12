@@ -121,6 +121,10 @@ RT Ridiculous Solar Storm Effect, Shocking Mantle Action: https://t.co/S18OkqDSe
 
 See img/1802608421755085038-Tt0afcynx60wVrHI.mp4.
 
+## Three fireballs light up the skies over the Great Lakes, AMS receives hundreds of reports
+
+https://watchers.news/2024/10/22/three-fireballs-light-up-the-skies-over-the-great-lakes-ams-receives-hundreds-of-reports
+
 # TODO
 
 Adding to TES's thesis part 1:

@@ -31,6 +31,18 @@ NOAA have not updated the publicly available magnetic pole data [1] since 2020. 
 [1] https://ngdc.noaa.gov/geomag/data/poles/pole_locations.txt
 [2] https://ngdc.noaa.gov/geomag/data/WMM/WMMReports/WMM_Annual_Report_2023.pdf
 
+## St. Elmo's Fire, Blue Jets and Red Sprites are indicative of ground-ionosphere field reversals. Visible evidence of the ongoing geomagnetic excursion. 
+
+![](img/elmo1.jpg)
+![](img/elmo2.jpg)
+
+See elmo3.mp4 and elmo4.mp4 in img.
+
+1. Red Sprite, Central Africa. https://x.com/dominickmatthew/status/1847994957878927418
+2. St. Elmo's fire, Jabal Al Nour, Saudi Arabia https://x.com/gunsnrosesgirl3/status/1740306315841589668
+3. Blue Jets, South Pacific https://x.com/nobulart/status/1802694357952168221
+4. https://chatgpt.com/share/671775d5-dc9c-8005-800d-1d8a043ae0c7
+
 ## Citations
 
 1. Craig Stone

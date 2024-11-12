@@ -46,6 +46,12 @@ Reminds me of the anno mundi and "thema mundi" https://en.wikipedia.org/wiki/The
 
 Attached has a lot of material to digest, but there are some quotes from Berossos, Cicero, Seneca, Heraclitus Stoicus, Macrobius, and Nemesius.
 
+## Resources
+
+Lots of articles on the topic here, some are free: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=%22The+great+year%22&btnG=
+
+What you can't find free, you might find here: https://www.sci-hub.se/
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Great_Year

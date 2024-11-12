@@ -54,6 +54,18 @@ Erratic Boulders. Only water could have carried these behemoths OVER the Alps an
 
 ![](img/1804942708898988081-GQxxbpbWAAEses5.jpg)
 
+## Volcanic erratic
+
+Found a strange broken stone today in a field today on the farm.
+
+Cool rock!  I'm no geologist but I have a friend who is (google images 🤪), looks like it may be porphyry with feldspar phenocrysts: https://www.sandatlas.org/porphyry/
+
+Cool thanks! I will file that under "erratic"! As I understand it, as the crystals are large they would have formed quickly during a volcanic event a long way north from where it was found.
+
+![](img/volcanic-erratic.jpg)
+
+A geologist would tell you it was transported there by the ice sheets during the last ice age of course...
+
 # TODO Potential Leads
 
 - Rudston Monolith
