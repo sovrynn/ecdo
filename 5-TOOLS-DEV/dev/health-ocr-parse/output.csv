@@ -59,7 +59,7 @@ DATE,CO2 PPM, Oxygen Percent, NPLat, NPLon, Radiation, Volcanos, Earthquake, Muo
 2020-12-31,436,21.35,83.24.20.59 N,124.15.39.01 E,00.13,27,5.1 26 Km SE of Maumere indon,548,,2,quiet,Normal,Unstable,stable,Unstable,stable,stable,stable,50uT
 2021-09-06,442,20.46,82.57.51.82 N,121.22.14.14 E,00.16,26,5.9 87 km of Ohon Tuonags,531,866,4,quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
 2021-09-27,410,20.50,82.55.3.19 N,120.57.43.95 E,00.15,25,6.0 7 km NNW of Tarapsan Gorne,518,146,4,quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
-2021-12-09,426,204.1,82.51.40.04 N,120.36.30.82 E,00.15,26,6.0 1 Km 9 of Naze Japan,512,919,0,quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
+2021-12-09,426,20.11,82.51.40.04 N,120.36.30.82 E,00.15,26,6.0 1 Km 9 of Naze Japan,512,919,0,quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
 2022-09-28,422,20.95,82.11.56.26 N,117.12.40.23 E,00.15,27,5.4 61 km Eof6mulege Mexico,522,764,5,unsetled,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
 2021-03-04,430,21.18,83.18.34.56 N,123.34.21.11 E,00.12,26,5.111 Km NNE Grizano Greece,512,,2,unsettled,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
 2022-07-27,439,20.79,82.19.19.99 N,117.52.12.43 E,00.16,23,7.0 1o3fDkolormesSPhilEipp,518,833,7,Quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
@@ -77,7 +77,7 @@ DATE,CO2 PPM, Oxygen Percent, NPLat, NPLon, Radiation, Volcanos, Earthquake, Muo
 2021-05-22,421,20.92,83.7.35.46 N,122.33.59.29 E,00.15,27,7.3 50uT qunghai china,528,780,1,Quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
 2023-07-15,422,20.68,81.52.37.97 N,114.51.9.57 E,00.15,29,6.8 km8SWofElpalmarcito,519,847,9,Quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
 2021-04-20,439,21.26,83.11.05.93 N,123.57.14.71 E,00.15,29,6.0 253 Km of sin Sabagindon,521,,2,Unsetled,Normal,Unstable,stable,Unstable,stable,stable,stable,50uT
-2021-04-06,431,aaa,83.15.08.25 N,123.34.42.91 E,00.12,28,5.3 Kermadec islands region,519,,1,quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
+2021-04-06,431,21.14,83.15.08.25 N,123.34.42.91 E,00.12,28,5.3 Kermadec islands region,519,,1,quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
 2021-05-15,428,20.91,83.11.05.93 N,123.57.14.71 E,00.15,25,5.5 231 km E Tadine New Cal..,523,829,2,Quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
 2022-08-16,432,20.61,82.19.19.99 N,117.52.12.43 E,00.15,26,5.2 macaarie island region,528,758,5,Quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
 2021-05-05,436,18.47,83.11.05.93 N,123.57.14.71 E,00.15,28,5.7 137Km SSW Padang Indo.,503,,0,Quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
@@ -86,12 +86,12 @@ DATE,CO2 PPM, Oxygen Percent, NPLat, NPLon, Radiation, Volcanos, Earthquake, Muo
 2022-01-26,462,20.24,82.41.6.98 N,119.44.30.64 E,00.13,25,5.3 southern sandwich island region,531,878,4,quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
 2023-09-28,422,20.64,81.53.20.43 N,114.55.58.84 E,00.15,29,5.4 of the west coast of N Sumatra,493,764,8,quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
 2023-10-11,439,20.46,81.53.20.43 N,114.55.58.84 E,00.16,29,6.3 western Afghanistan,511,819,8,quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
-2020-08-19,422,2098,93.34.43.79 N,125.33.50.16 E,00.10,25,6.9 WSW of Bengtulu,477,64,0,quiet,Normal,Unstable,stable,Unstable,stable,stable,stable,50uT
+2020-08-19,422,20.99,93.34.43.79 N,125.33.50.16 E,00.10,25,6.9 WSW of Bengtulu,477,64,0,quiet,Normal,Unstable,stable,Unstable,stable,stable,stable,50uT
 2023-07-08,438,20.43,81.52.37.97 N,114.51.9.57 E,00.15,28,5.0 South of Tonga,533,847,9,quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
 2022-07-12,446,20.23,82.23.3.80 W,118.14.31.13 E,00.19,25,6.0 84KmESE of port-vila Vanu,530,864,7,Unsetled,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
 2021-01-27, 444, 21.05, 83.21.28.14 N, 123.53.1.45 E, 00.13, 26, 5.2 31 km ESE of Chitose Japan, 546, ,2, quiet, Normal, Unstable, stable, Unstable, stable, stable, stable, 50uT
 2023-05-25,430,20.40,81.58.1.5 N,115.41.39.39 E,00.15,25,6.6 panama Colombia border,511,802,6,Quite,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
-2021-12-09,426,204.1,82.51.40.04 N,120.36.30.82 E,00.15,26,6.0 1 Km1 N 9 of Naze Japan,512,919,0,quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
+2021-12-09,426,20.11,82.51.40.04 N,120.36.30.82 E,00.15,26,6.0 1 Km1 N 9 of Naze Japan,512,919,0,quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
 2023-01-16,401,20.07,82.0.51.42 N,116.7.24.80 E,00.16,26,6.3 bonin island Japan region,578,954,9,quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
 2021-01-06,430,21.30,83.24.20.59 N,124.15.39.01 E,00.15,27,6.2 Kermadec islands region,481,,0,unsettled,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
 2020-10-14,409,21.22,83.32.47.94 N,125.11.31.63 E,00.13,21,5.0 mid-indian ridge,488,,0,Quiet,Normal,Unstable,Stable,Unstable,Stable,Stable,Stable,50uT
