@@ -27,7 +27,9 @@ The scale is key here. We aren't looking for droughts, or floods, or famines. We
 
 A Google spreadsheet of all these events has been compiled [here](https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=drive_link).
 
-## Harmonic Visualization
+[<img src="img/event-spreadsheet.png">](https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=drive_link)
+
+## Harmonic Visualization [2]
 
 ![](img/timeline-harmonic.jpg)
 
@@ -65,6 +67,7 @@ Nobulart's planetary harmonic and cataclysm chronology timeline in `timeline.xls
 ## Citations
 
 1. https://en.wikipedia.org/wiki/4th_century_BC
+2. Craig Stone
 
 # TODO
 
