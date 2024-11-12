@@ -1,0 +1,1 @@
+Birkeland currents: https://clifhigh.substack.com/p/when-birkeland-currents-collide?utm_source=post-email-title&publication_id=681568&post_id=150736334&utm_campaign=email-post-title&isFreemail=true&r=poi8h&triedRedirect=true&utm_medium=email

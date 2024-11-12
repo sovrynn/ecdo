@@ -18,6 +18,10 @@ A study of 63 million death records spanning 34 years revealed a clear relations
 
 https://www.sciencedirect.com/science/article/abs/pii/S1011134418305505
 
+## ORDINAL NUMBERS OF YEARS OF SOLAR CYCLES (1960-2022) AND GROSS WORLD PRODUCT WITH A LAG OF 1 YEAR (1961-2023): EVIDENCE OF VERY STRONG CORRELATIONS
+
+Hard copy here.
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

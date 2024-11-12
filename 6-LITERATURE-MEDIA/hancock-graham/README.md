@@ -83,3 +83,15 @@ Chapter 8:
 	- "black mat" sediment layer - extinction layer. Many megafauna fossils below that layer but none above. Also 50-60% of people in Northern Hemisphere died around this time
 	- dated to onset of Younger Dryas
 	- huge amount of black mat layers all over the Northern Hemisphere - Younger Dryas Impact hyothesis
+
+## Podcasts
+
+This is an interesting commentary on Hancock
+Vs Orthodox Anthropology
+Vs Indigenous people.
+
+c.f previous comments about how Archaeological research is paid to move in a certain direction. Or to help cover up pertinent or unbiased research.
+
+This particular angle merely limited the filming at a certain site in USA for Hancock's Netflix series. But the concepts can be extended to other areas, with more insidious agendas, I'd expect
+
+https://youtu.be/lWRvf982iMw?si=DICVtDrfgKDRY2a4

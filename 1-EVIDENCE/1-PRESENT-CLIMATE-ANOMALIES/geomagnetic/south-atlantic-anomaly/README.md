@@ -32,3 +32,12 @@ It's nice data; I just wish it went back further. From what's given, there isn't
 ![](img/saa-over-time.png)
 
 "At present the strength of the Earth's magnetic ﬁeld is decreasing by about 5% every hundred years (Merrill and McElhinny, 1983); in the SAA, the strength of the magnetic ﬁeld is decreasing ten times as fast."
+
+## SAA Frontiers
+
+"Statistical calculations show that the average time between [geomagnetic] reversals is 400 kyear and the last reversal occurred 780 kyear ago.  ...we can conclude that the [observed] patterns agree with an upcoming transition of the Earth’s magnetic field." - The South Atlantic Anomaly: The Key for a Possible Geomagnetic Reversal (2016)
+The observations cited in this paper have only intensified since its publication 8 years ago.
+
+![](img/saa-frontiers.jpg)
+
+[1] https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2016.00040/full
