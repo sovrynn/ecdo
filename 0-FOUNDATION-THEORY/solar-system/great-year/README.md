@@ -52,6 +52,8 @@ Lots of articles on the topic here, some are free: https://scholar.google.com/sc
 
 What you can't find free, you might find here: https://www.sci-hub.se/
 
+Good book on it, hard copy here.
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Great_Year

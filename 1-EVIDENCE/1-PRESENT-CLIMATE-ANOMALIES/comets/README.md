@@ -38,6 +38,12 @@ RT JUST IN: Strange Fireball recorded entering the atmosphere over Tampa, Florid
 
 RT This was seen from various locations in Chihuahua, Mexico last night.....Space junk? Meteor? Rocket? 🤷‍♀️ https://t.co/6km…
 
+## Either our detection technology just became orders of magnitude better this year, or we are seeing an exponential increase in impacts. 
+
+![](img/a11dc6d.jpg)
+
+https://watchers.news/2024/10/23/asteroid-a11dc6d-impacts-earth-over-eastern-pacific-ocean-october-22-2024/
+
 ## Citations
 
 1. Craig Stone

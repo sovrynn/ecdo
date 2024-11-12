@@ -78,6 +78,12 @@ https://youtu.be/JKHUaNAxsTg
 
 We have to start re-framing everything into a context in which the controllers of this world know what is coming.
 
+## Intentionally covering up the event?
+
+I had quite a long interaction with GPT on this topic a few hours ago. 
+
+https://chatgpt.com/share/67188e68-14fc-8005-aa32-d02d61cb71a8
+
 ## Citations
 
 1. Craig Stone

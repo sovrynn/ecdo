@@ -97,6 +97,13 @@ https://x.com/wef/status/1061846182094401536
 ## See C7... mp4.
 
 Methods of conquest
+
+## 5D Chess?
+
+[1] is probably a nothing-burger because extradition would require that the US government are in agreement that a crime has been committed [2].  This class action suit it probably the real deal but it’s doubtful that it will go anywhere. 
+
+1. https://www.petersweden.org/p/it-begins-court-rules-bill-gates
+2. https://chatgpt.com/share/671b2e7d-94fc-8005-9c7d-7274dc719321
 .
 ## Citations
 

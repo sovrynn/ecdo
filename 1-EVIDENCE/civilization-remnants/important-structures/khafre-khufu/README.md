@@ -166,6 +166,16 @@ The corbel roof above the upper chamber in the pyramid bears an architectural re
 
 I think the evolution of GT may be seen in the design and construction of the great pyramid. Build the observatory to withstand the effects of that which it observes. [1] https://t.co/gUnEETsDPO .
 
+## Symbolism?
+
+An interesting observation. I’d add my own that the boats appear to be in somewhat of a watery predicament outside.
+
+![](img/khufu-symbolism.jpg)
+
+https://x.com/isjuustadream/status/1848495895886655895?s=46
+
+https://x.com/YoumotherFUDer/status/1848905718671544758 this post is an interesting observation. I have only just been looking into the hellfire club this week which is why I flag it. An 18th century epstein island with Benjamin Franklin amongst others on the flight logs...
+
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/

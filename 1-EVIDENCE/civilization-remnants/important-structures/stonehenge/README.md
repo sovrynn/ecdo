@@ -41,6 +41,10 @@ Where's my pills ...
 Best,
 Neil
 
+## Nice photo
+
+![](img/stonehenge-aerial.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

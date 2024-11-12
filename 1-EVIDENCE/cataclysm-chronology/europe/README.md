@@ -109,6 +109,31 @@ The Tysilio chronology published by Petrie in his Neglected British History Essa
 
 Ville III, Delos, Greece was destroyed 1759 BCE, the same time that Crete was deluged: "great tidal waves moved towards the island from the north and swept over it". [1] https://t.co/NXVluAkkl4 [2] https://t.co/rwmdPSInRY
 
+## Nordic myths
+
+The Serpent at the North Pole:
+
+During Ragnarök, the Nordic apocalypse [excursion event?], Jörmungandr the serpent will rise from the sea, unleashing chaos and destruction. 
+
+Breaking free the serpent will release its tail from its mouth, causing the oceans to swell and flood the land. This act marks one of the signs of Ragnarök's onset.(2/10)🧵
+
+https://x.com/OMApproach/status/1849409762183586129?s=35
+
+A 🧵 worth reading:
+
+The position of the serpent in the ocean is very strange because it’s at the North Pole and coincides with the shifting of the poles and the geomagnetic excursion, which could eventually lead to rapid climate change and possibly cause changes in the Earth's rotation, resulting in global floods—just like Jörmungandr.
+
+This event is cyclical; it happened in the past, it is described in all ancient religions, and we know it as the Great Flood.
+
+The North Pole is moving like a serpent toward Russia. The serpent beneath the ocean is in the same position. (3/10) 🧵
+
+The cosmic egg motif is a major symbol in creation myths, occurring in all parts of the world.
+
+Ancient Egyptians saw the cosmic egg as the soul of the primeval waters out of which creation arose. In one story the sun god emerged from the primeval mound, itself a version of the cosmic egg resting in  the original sea.
+
+![](img/nord1.jpg)
+![](img/nord2.jpg)
+
 ## Citations
 
 1. Minoan: http://www.minoancrete.com/chron.htm
