@@ -139,3 +139,7 @@ I believe this data comes from a single local cluster of stations. In other word
 ## Volcanism rise
 
 ![](img/20.webp)
+
+## More volcanism
+
+![](img/volcano-trend.jpg)

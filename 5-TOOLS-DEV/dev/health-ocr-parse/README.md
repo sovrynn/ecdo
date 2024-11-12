@@ -1,5 +1,16 @@
 # Health OCR Data Parsing (hard copy here)
 
+Source: https://www.poleshiftnews.com/earths-health-at-a-glance.html
+
+The data has been parsed from the PDF text into csv by GPT, and then manually verified:
+
+- Atmospheric CO2 PPM and oxygen % verified to be within a tight range
+- radiation background count, volcanos, and largest earthquake verified manually to match the data
+- muons per hour normalized, (it is either 2 values split into UK or Canada, or just a single value, net heuristic. When there is only one number, the second row is empty) and sunspot number verified manually to match the data
+- rest unverified
+
+Volcanoes show clear up-trend. Rest noisy.
+
 ## Columns
 
 Atmospheric CO2 PPM
