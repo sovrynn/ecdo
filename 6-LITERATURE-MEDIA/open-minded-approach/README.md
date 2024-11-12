@@ -14,3 +14,7 @@ https://x.com/OMApproach/status/1848685902488359000?s=35
 ## A geophysical event
 
 https://x.com/omapproach/status/1848137139768508779?t=A9kmumoD5eleCfzYoQtrRQ
+
+## North pole serpent symbolism
+
+https://x.com/OMApproach/status/1849409762183586129
