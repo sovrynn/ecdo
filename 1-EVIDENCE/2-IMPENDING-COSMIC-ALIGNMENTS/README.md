@@ -18,6 +18,11 @@ The steady narrowing of real polar nutation [1] in apparent lockstep with the ap
 
 The data for the fourth chart is obtained from JPL's Ephemeris software: https://ssd.jpl.nasa.gov/horizons/app.html
 
+## Small Planet Alignments
+
+![](img/SUN-Venus-Encke-Mercury.jpeg)
+![](img/venus.jpeg)
+
 ## Solar system triggers v2 [1]
 
 I think there is certainly enough energy involved between the sun and the earth for a field inversion in the sun during a gravitational lull to be the trigger for the decoupling. As we progress towards the slip the progression must manifest as accelerated magnetic polar wander and a narrowing of average real polar nutation (due to the drift occurring between core and mantle). The heat is rising and water is an excellent medium to draw it out.
