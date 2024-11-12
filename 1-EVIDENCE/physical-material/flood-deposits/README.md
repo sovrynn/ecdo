@@ -1,100 +1,5 @@
 # Sediment Deposits
 
-## Scablands flood deposits
-
-The Channelled Scablands. 
-
-Evidence of a deluge which has been put on ice. A widely accepted thesis, published exactly 100 years after Reliquoæ Diluvianæ, relegated to the deepfreeze along with every other item of non-uniforitarium evidence. Giant Current Ripples 60m wide and 2m high, created by water flows 50m deep, which carried boulders the size of churches kilometers across the landscape. Not once, but at least five times.
-
-![](img/scablands1.jpg)
-![](img/scablands2.jpg)
-![](img/scablands3.jpg)
-![](img/scablands4.jpg)
-
-https:// (https://t.co/KT2XAP4jWl)geo.umass.edu/climate/papers (https://t.co/KT2XAP4jWl)2/Baker_retrospective_2009.pdf (https://t.co/KT2XAP4jWl)
-
-The Mount St. Helens S-Set [red line] in the gravel bar illustration was laid down just before the Younger Dryas Boundary, so we have three lesser floods before then, and at least two major ones since the YDB.
-
-![](img/scablands-deposits.jpg)
-
-Potential explanation for the Scablands flood deposits based on the ECDO. The "Set S" tephta is an ash layer from Mt. Saint Helens and is a temporal marker for the termination of the Younger Dryas.
-
-https://www.geo.umass.edu/climate/papers2/Baker_retrospective_2009.pdf
-
-Video: https://youtu.be/NYA6GF1uAa8
-
-### Revisiting the Channelled Scablands flood...
-
-Revisiting the Channelled Scablands flood deposit sequence through the lens of the 3,700-year cycle. The "Set S" tephta is an ash layer from Mt. Saint Helens and is a temporal marker for the termination of the Younger Dryas. [1] https://t.co/lKpgDHwlWx [2] https://t.co/yE2ML0rhdX… https://t.co/VPioThnB8S https://t.co/7nhRmPhhYO
-
-![](img/1827745832034054629-GV1yFIzXoAAEcKB.jpg)
-
-![](img/1827745832034054629-GV1yOk3WgAA7HYy.jpg)
-
-### "Scabland channel ways [..] experienced...
-
-"Scabland channel ways [..] experienced very deep flood flows. As a consequence, scabland bars are tens of meters in height, with an internal structure of foreset bedding. Some of the bars display an accretionary internal structure that indicates a history of multiple emplacing… https://t.co/COpwC2tbhO
-
-![](img/1807885650550571152-GRblxiCaYAE9Rnc.jpg)
-
-### The Channelled Scablands. Evidence of...
-
-The Channelled Scablands. Evidence of a deluge which has been put on ice. A widely accepted thesis, published exactly 100 years after Reliquoæ Diluvianæ, relegated to the deepfreeze along with every other item of non-uniforitarium evidence. https://t.co/lKpgDHwlWx https://t.co/OqKe6brzU4
-
-![](img/1807412035807781120-GRU159dXMAA-6EB.png)
-
-### https://t.co/lKpgDHwlWx https://t.co/WxP3h5f86c
-
-https://t.co/lKpgDHwlWx https://t.co/WxP3h5f86c
-
-![](img/1807412891827466618-GRU4UodWsAAqPEh.png)
-
-### We're going to take a...
-
-We're going to take a look at these next. "In recent years, however, cataclysmic flood landscapes with many similarities to the Channeled Scabland have increasingly been documented in many parts of the world (Baker 1997, 2002, 2007). Spectacular examples of GCRs [Giant Current…
-
-## Shetland
-
-The Tsunami Sands of Scotland. "Recent evidence has suggested one such major event which took place some 7000 years ago. As a result of a massive under-sea landslide close to Norway a huge tidal wave, a tsunami, seems to have advanced southwards from Shetland along the east coast of Scotland. The height of the wave has been estimated at 8m (25ft), and this would clearly devastate the coastal areas that it hit."
-- Scotland's First Settlers, Wickham-Jones (1994)
-
-![](img/shetland1.jpg)
-![](img/shetland2.jpg)
-
-[1] https://archive.org/details/scotlandsfirstse0000wick
-
-Found the precise unadjusted dating obtained from the Scottish tsunami sands - 5325 BC, or 7400 BP.  An exact match to the Noahic deluge on the harmonic timeline. The calibration they applied was to compensate for the presumed changes which the comet (or comets) would have caused to the ozone and C14 levels. If there was no comet, their adjustment would be unnecessary. [1,2]
-
-![](img/shetland3.jpg)
-
-Regarding the book's mention of flood elevation: "Says Castle Street, Inverness. Inverness lies between sea level and about 130m. Castle street must be about half that - around 50-60m asl at least." [2]
-
-See `LOCATION-MAPPING/europe/great-britain` for flood analysis.
-
-## A Minoan and a Neolithic tsunami recorded in coastal sediments of Ios Island, Aegean Sea, Greece
-
-"In this work, we document two distinct tsunami deposits on the coasts of Ios Island, Aegean Sea, Greece. The younger tsunami deposit, dated 1831–1368 cal. BCE, includes both marine sediments and pumices from the ∼1600 BCE Minoan eruption of Santorini volcano. This is the first evidence of the Minoan tsunami in the Cycladic Islands North of Santorini. Tsunami waves inundated the Manganari coastal plain, southern coast of Ios, over a distance >200 m (>2 m a.s.l.). The second tsunami deposit reworks pumice from the 22 ka Cape Riva eruption mixed with marine sediment. We assume a Neolithic age for this major tsunami, with a wave runup >13 m a.s.l. on the southern and eastern coasts of Ios. The source of this tsunami - volcanic eruption, landslide, or earthquake - remains unknown. Additionally, we provide the first on-land evidence of Cape Riva deposits outside Santorini, thus questioning previous estimates on the magnitude of this eruption."
-
-![](img/minoan-tsunami.jpg)
-
-https://www.sciencedirect.com/science/article/abs/pii/S0025322722001797
-
-## 1350 BC Crete Tsunami
-
-Palaikastro. Crete Tsunami.
-
-![](img/minoan-tsunami2.jpg)
-
-https://sci-hub.ru/10.1017/s003382220005579x
-
-## 1350 BC Crete Tsunami
-
-Another one from Crete.
-
-![](img/minoan-tsunami3.jpg)
-
-https://sci-hub.ru/10.1177/0959683617752840
-
 ## East Mediterranean Flood Deposits
 
 Another paper exploring mega tsunami evidence from cores across the eastern Med, with some special attention given to the wave that hit the north coast of Africa.
@@ -213,6 +118,10 @@ If the water retreats away from you during the initial move, then its almost cer
 "Have you ever heard of a desert with more water than sand?"
 
 https://x.com/AMAZlNGNATURE/status/1815397395435278535?t=tAntSVsUEkdtxMZH0EzQOQ&s=19
+
+## TWO "marine incursion" events in southwestern Australia at 7340 and 3550 YBP.
+"In early 2021 several tree stumps embedded in a remnant peat deposit were found in the intertidal zone of Wharton Beach, southwestern Australia by Esperance Tjaltjraak Rangers. Attempts were made to identify the tree using both dendrochronological and anthracological methods but were limited by the lack of reference information from tree species in the southwestern Australia. Radiocarbon dates from one stump indicates the tree lived for approximately 200years, growing into the peaty sediments sometime before ca. 7340 cal yrs BP and died directly or indirectly as a result of marine transgression. The peat deposit is dated to 7608–7429 cal yrs BP but its exposed seaward edge was unconformably underlain by younger sand, dated by OSL to around 3550 years, which may have intruded as a result of a storm event."
+[1] https://journals.sagepub.com/doi/pdf/10.1177/09596836231157067
 
 ## Citations
 

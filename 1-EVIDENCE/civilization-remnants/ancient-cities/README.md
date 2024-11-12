@@ -133,15 +133,6 @@ https://www.cambridge.org/core/journals/iraq/article/abs/physical-evidence-for-n
 ![](img/mallowan3.png)
 ![](img/mallowan4.png)
 
-## Vitrified forts in Scotland
-
-![](img/scotland-burned.jpg)
-
-Dates to around 150 AD.
-
-1. https://www.sciencedirect.com/science/article/abs/pii/S2352409X19304080
-2. https://en.wikipedia.org/wiki/Vitrified_fort
-
 ## Ugarit (Apparently Destroyed 1200 BC) [4]
 
 "The polity was at its height from c. 1450 BC until its destruction in c. 1185 BC;[5] this destruction was possibly caused by the purported Sea Peoples, or an internal struggle."
