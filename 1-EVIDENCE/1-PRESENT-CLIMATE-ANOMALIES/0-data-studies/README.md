@@ -27,6 +27,8 @@ Further investigation:
 	- Social unrest
 	- Health factors
 
+Promising data source: https://www.poleshiftnews.com/
+
 # Poles, Cosmic, Geomagnetic
 
 ## Polar nutation (1846 - now)
