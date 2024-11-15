@@ -8,7 +8,7 @@ https://platform.openai.com/docs/quickstart?language-preference=python
 
 ## Preexisting ECDO LLMs
 
-1. ECDO v1 textual model (updated Sep 25, 2024): https://chatgpt.com/g/g-7TBwEWlWT-ecdo-v1
+1. ECDO v1 textual model (updated Nov 15, 2024): https://chatgpt.com/g/g-7TBwEWlWT-ecdo-v1
 2. Edgar's model (Oldest, updated Sep 16, 2024): https://chatgpt.com/g/g-B3wax7hqy-ecdo-zone-safety-analyst
 	- All ECDO content pasted in as text or uploaded as file
 	- After uploading more than 15-20 documents the GPT started to give errors and the process had to be restarted

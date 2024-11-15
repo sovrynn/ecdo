@@ -44,6 +44,10 @@ I can't help but wonder whether the decreasing altitude of the Alps as we move n
 
 ![](img/1805051706230649064-GQzU8-mWkAA0jyN.jpg)
 
+## Portugal: Serra da Estrela
+
+Interesting mountain range in Portugal at high elevation and with some potential observatory ruins potentially.
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
