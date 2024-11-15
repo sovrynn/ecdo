@@ -1,5 +1,13 @@
 # Storm and Rain Anomalies
 
+## EXPLAINING EXTREME EVENTS OF 2018 From a Climate Perspective
+
+Source (Cover Bulletin of the American Meteorological Society): https://journals.ametsoc.org/view/journals/bams/101/1/bams-explainingextremeevents2018.1.xml
+
+Hard copy here.
+
+"Table 1 shows return period and risk ratio of the 2018 extreme flooding under different scenarios. Without any anthropogenic influence (NAT scenario), this extreme event occurs frequently with a 5-yr (95% CI: 3–10 yr) return period. When anthropogenic cli- mate change, land cover change, and reservoir opera- tion are gradually considered, the risk ratio decreases to 0.66 (95% CI: 0.56–0.82), 0.55 (95% CI: 0.44–0.68), and 0.1 (95% CI: 0.04–0.17) respectively. The risk ratio decreases significantly by 0.34 (95% CI: 0.18–0.44) from NAT to FIXED_CSSPv2, by 0.11 (95% CI: 0.08–0.21) from FIXED_CSSPv2 to LUCC_CSSPv2, and by 0.45 (95% CI: 0.34–0.57) from LUCC_CSSPv2 to YRCC observed streamflow scenarios."
+
 ## US Rainfall increasing
 
 "On average, total annual precipitation has increased over land areas in the United States and worldwide (see Figures 1 and 2). Since 1901, global precipitation has increased at an average rate of 0.03 inches per decade, while precipitation in the contiguous 48 states has increased at a rate of 0.18 inches per decade." https://www.epa.gov/climate-indicators/climate-change-indicators-us-and-global-precipitation
