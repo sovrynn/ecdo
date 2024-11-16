@@ -44,6 +44,8 @@ We have evidence of a rotation of the continents from paleomagnetic data that is
 
 ## Geological Evidence
 
+The strongest evidence would be direct evidence of flow. In my opinion, mega current ripples, which have a clear direction, would be the best evidence for this.
+
 We have evidence of:
 - water flows into North Africa from the Mediterranean
 - water flows into France from the Arctic

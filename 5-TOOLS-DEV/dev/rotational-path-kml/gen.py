@@ -350,6 +350,8 @@ points = add_to_kml(a, b, x, y, right, 0, kml, BO, THICK) # main location
 add_to_kml(a, b, x, y, 0, left, kml, LB, WTHICK) # backwards
 add_to_kml(a, b, points[-1][0], points[-1][1], right, 0, kml, GREEN, WTHICK)
 for i in range(1, j + 1):
+    print(f'Adding concentric line pair number {i}')
+    
     # towards pivot
     center1 = move_point_closer(a, b, x, y, k * i)
     points = add_to_kml(a, b, center1[0], center1[1], right, 0, kml, RED, THIN) # forward lines
