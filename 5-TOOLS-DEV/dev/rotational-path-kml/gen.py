@@ -273,7 +273,7 @@ try:
         print(f"Rotating point ({x}, {y}).")
         j = int(file.readline().strip().split()[0])
         print(f"Adding {j} pairs of extra lines.")
-        k = int(file.readline().strip().split()[0])
+        k = float(file.readline().strip().split()[0])
         print(f"Spacing the lines at {k} km.")
         t = float(file.readline().strip().split()[0])
         print(f"Using a line thickness of {t}.")
