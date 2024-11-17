@@ -24,6 +24,7 @@ Cataclysm compilations, history:
 Cataclysm history theories:
 - Sitchin: Ancient Peru, Mesopotamian Sumerian tablet translations
 - Uriel: Enoch
+- Victor Clube: Taurid (meteors), cataclysm theory
 
 Theories:
 - laplace
