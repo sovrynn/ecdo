@@ -14,6 +14,9 @@ Physical markers:
 - 7300 BC Lake Sidi, Western Mediterranean/North Africa core O18 spike
 - 7527–7498 BC Kofels landslide: https://www.sciencedirect.com/science/article/abs/pii/S0169555X15002548
 
+New additions:
+- Tower of Jericho buried
+
 ## Dvaravati Sinking
 
 This dating comes from Vedveer Arya, who compiled a lengthy timeline of India, placing the Manu deluge at the same time as the Atlantis sinking.
