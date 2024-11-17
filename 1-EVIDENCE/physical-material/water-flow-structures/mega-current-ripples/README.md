@@ -1,5 +1,7 @@
 # Mega Current Ripples
 
+Have some mega-current ripples in North Sudan, Altai mountains (Russia), France, Argentina, and Chile.
+
 ## Nebraska
 
 In Nebraska, some 400km northeast of Pike's Peak is an area of more than 16,000 square miles of what appear to be mega current ripples, averaging 1.6km between peaks, and 50-60m depth (30km sample). These are of similar size to those seen in Sudan and Mauritania.
@@ -62,3 +64,8 @@ Mauritania: Mega Current Ripples? [1] For visual comparison: The largest sand du
 ![](img/1809353377723158949-GRwTxRracAQEweY.jpg)
 
 ![](img/1809353377723158949-GRwVdb-XUAA5xn1.jpg)
+
+1. https://t.co/9SxSIuby6F
+2. https://t.co/FkjZs2yndq
+3. https://t.co/2HIBPQGno1
+4. https://t.co/rGwV5HtZSx

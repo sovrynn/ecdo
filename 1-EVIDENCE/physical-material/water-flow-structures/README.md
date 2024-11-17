@@ -1,7 +1,5 @@
 # Water flow structures
 
-Have some in North Sudan, Altai mountains (Russia), France, Argentina, and Chile.
-
 ## English channel megafloods
 
 Beneath the water of the English Channel lies evidence of two megaflood events.
