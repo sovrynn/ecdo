@@ -1,5 +1,7 @@
 # Zecharia Sitchin
 
+This guy translated Sumerian tablets. Very good stuff.
+
 The Earth Chronicles Index
 
 Book 4: The Lost Realms

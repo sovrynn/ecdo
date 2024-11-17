@@ -22,7 +22,7 @@ Cataclysm compilations, history:
 - Mclachlan
 
 Cataclysm history theories:
-- Sitchin: Ancient Peru
+- Sitchin: Ancient Peru, Mesopotamian Sumerian tablet translations
 - Uriel: Enoch
 
 Theories:
