@@ -38,6 +38,12 @@ Jericho was again destroyed at the end of the Middle Bronze Age. The ash of the 
 ![](img/walls-jericho4.jpg)
 ![](img/walls-jericho5.jpg)
 
+## 7400 BC, Tower of Jericho buried
+
+Hard copy here.
+
+https://web.archive.org/web/20180719110651id_/https://dash.harvard.edu/bitstream/handle/1/12211567/2742981.pdf?sequence=2
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Jericho

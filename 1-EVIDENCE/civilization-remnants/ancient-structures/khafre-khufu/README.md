@@ -4,6 +4,9 @@ Arguably the centerpoints of TES's ECDO theory. Many of his comments cited below
 
 Great Pyramid of Giza refers to the Khufu pyramid, which has the shafts. Khafre pyramid is the one with the erosion line.
 
+![](img/khufu-plain.jpg)
+![](img/khufu-shafts-3d.jpg)
+
 ### Khufu Pyramid Function - Tripartite Observatory [1]
 
 This pyramid is hypothesized by TES to be a tripartite observatory designed to monitor the ECDO.
@@ -30,7 +33,7 @@ This pyramid is hypothesized by TES to be a tripartite observatory designed to m
 
 *"More importantly, the two angles defined by these sets of shafts (King and Queen’s shaft sets), match an alignment to the Dzhanibekov rotation as viewed from the the two critical locations defined in Exhibit H2: The Giza Plateau and the Geographic Center of the World... What the duplication in shafts and offset chambers serve to communicate, is an authentication of the change in celestial north pole location, during two different time periods. An intelligence which cannot be communicated by a single set of shafts, nor certainly by shaft combinations which do not agree."*
 
-![](img/khafre-shafts.jpg)
+![](img/khufu-shafts.jpg)
 
 ### Khufu construction timeframe - 9600 to 9200 BC [1]
 
