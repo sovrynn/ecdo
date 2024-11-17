@@ -1,18 +1,18 @@
 # The Cosmic Winter GPT Summary
 
-## Epilogue
+## Prologue
 
-The epilogue describes a catastrophic vision of Earth's future, highlighting a recurring cosmic threat: a swarm of space debris that intersects Earth's orbit every few thousand years. This debris causes devastating impacts, akin to nuclear explosions, leading to widespread destruction across the planet. Cities are obliterated, fires spread uncontrollably, and seismic events destabilize the environment. The aftermath includes a "cosmic winter," characterized by blocked sunlight, plummeting temperatures, and a new ice age. Society collapses as civilization regresses into survivalist groups, with infrastructure and agriculture destroyed.
+The prologue describes a catastrophic vision of Earth's future, highlighting a recurring cosmic threat: a swarm of space debris that intersects Earth's orbit every few thousand years. This debris causes devastating impacts, akin to nuclear explosions, leading to widespread destruction across the planet. Cities are obliterated, fires spread uncontrollably, and seismic events destabilize the environment. The aftermath includes a "cosmic winter," characterized by blocked sunlight, plummeting temperatures, and a new ice age. Society collapses as civilization regresses into survivalist groups, with infrastructure and agriculture destroyed.
 
 Key themes include:
 
-- **Historical Evidence**: The epilogue references several past cosmic events, such as the Tunguska explosion of 1908, an impact on the Moon on June 25, 1178, with energy greater than the combined nuclear arsenals of the world, and a swarm of boulders striking the Moon in June 1975.
+- **Historical Evidence**: The prologue references several past cosmic events, such as the Tunguska explosion of 1908, an impact on the Moon on June 25, 1178, with energy greater than the combined nuclear arsenals of the world, and a swarm of boulders striking the Moon in June 1975.
 
 - **Institutional Blindness**: Modern science and political authorities are criticized for ignoring these cosmic threats, dismissing ancient knowledge and warnings as myths.
 
 - **Collapse of Civilization**: The loss of infrastructure, mass fires, and a prolonged blackout lead to the breakdown of society, with surviving human populations reduced to scattered, nomadic groups.
 
-The epilogue concludes with a grim outlook, suggesting that humanity's ignorance of cosmic dangers, fostered by institutional complacency, may ultimately lead to a new Dark Age. It warns that the illusion of cosmic security must be shattered if civilization is to prepare for, or survive, future encounters with the debris swarm.
+The prologue concludes with a grim outlook, suggesting that humanity's ignorance of cosmic dangers, fostered by institutional complacency, may ultimately lead to a new Dark Age. It warns that the illusion of cosmic security must be shattered if civilization is to prepare for, or survive, future encounters with the debris swarm.
 
 # Chapter 1 Summary: "The Labyrinth of History"
 
