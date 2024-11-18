@@ -22,6 +22,8 @@ In the last place we shall attack the hardest problem of all, the explanation of
 the granite layer. So we are bound to assume that these differences, at least for the correlated shelf edges, came Into being after the shearing had taken place. The problem Is how this can have taken place. In examining this problem we shall see that practically the only possible solution is given by tho supposition that the course of a great part, if not all of the continental edges, Is of a more recent date than tho granite blocks of the continents themselves and that thus their formation
 can be posterior to the shearing catastrophe and can be correlated to its net of lines. This is Immediately clear for those shelf edges where the trend is determined by recent orogeny, as, for example, la tho caso for the west coast of North and South America and the east coast of ABia.
 
+The main evidence in Chapter III favorable to the existence of a world-wide shearing net in the Earth's crust is tho correlation tho topography shows with our Not over a great part of the Earth's surface. In order to make this evidence valid, It is necessary to indicate how tho presence of shear planes In the crust may bring about topographic features—the problem investigated in this Chapter,
+
 # GPT: Summary of "Shear Patterns of the Earth's Crust" by F. A. Vening Meinesz
 
 ## **Chapter I: Introduction and Summary**
@@ -47,7 +49,7 @@ The chapter examines topographical and geophysical evidence supporting the shear
 
 The findings suggest a strong connection between the proposed shear net and major geological features, reinforcing the hypothesis of a polar shift.
 
-## **Chapter IV: Topographic Features and Tectonic Implications**
+## **Chapter IV: Tho Effect on the Topography of Fault Planes in the Crust**
 This chapter explores the geological impact of shear patterns on Earth's surface features:
 - **Formation of Fault Planes:** Shear zones may have contributed to volcanic activity and shaped continental coastlines.
 - **Influence on Tectonics:** Suggests that subcrustal currents might have driven early polar shifts, creating the existing fault systems.

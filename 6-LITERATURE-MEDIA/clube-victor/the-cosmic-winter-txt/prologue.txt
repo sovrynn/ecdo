@@ -1,0 +1,471 @@
+Prologue
+It is 7.17 am. Eastern Standard Time, on the thirtieth of June 1994.
+Suddenly the power fails.
+The basement centre of the Defense Communication Operations Unit
+adjoining the White House is plunged into darkness, and only the
+distant rumble of early morning traffic reminds the duty officer that
+another day has already begun. There have been power failures
+before, however, and there is no hint of impending crisis.
+Almost immediately, an automatic switch brings in the emergency
+supply. But now the duty officer observes that something is wrong.
+Telephone links to the outside world have gone. These include the
+open links, via commercial cables, to NORAD’s bunker a thousand
+feet under Cheyenne Peak in Colorado, and to the Offutt command
+post near Omaha.
+Within seconds it is ascertained that neither the President nor
+VicePresident, both of whom are out of town, can be contacted: radio
+communications are blacked out, on all frequencies. Further,
+because of the telephone failure, none of the Presidential stand-ins
+scattered around town and country can be expected to call in to give
+their exact locations, as they would normally if there were a
+recognized national emergency. However, the Secretary of Defense,
+third in the chain of command, is at breakfast somewhere in the
+White House.
+It has taken 45 seconds to confirm the general breakdown of
+communications; it takes another 45 seconds to locate the Secretary
+of Defense and inform him of the problem; and it is another 90
+seconds before the Secretary finds himself in the cramped underground Situation Room along with his advisors. He is aware that the
+travel time of a missile from a hostile submarine off the Atlantic
+coast to Washington is just over fifteen minutes; three of these
+minutes have gone.
+Emergency procedures for transferring authority are now in hand
+and the Secretary of Defense becomes in effect the new President.
+The ‘gold codes’, which would enable him to initiate a nuclear
+response, are placed before him. The black STOP books with their
+theoretical scenarios are produced. The ‘Mystic’ and ‘Nationwide’
+communication systems are successfully activated utilizing deeply
+buried, protected cables. He now has control of the National
+Command Authority, the channel of communication for execution of
+a nuclear strike; and another two minutes have gone.
+The underground cables to Cheyenne, Offutt and other SAC bases are
+now open with secure links to the radar lines covering northern
+approaches. None of them — Dew Line, the 55th Parallel or Pine
+Tree — is functioning properly, however; their screens are strongly
+upset with many spurious signals: there seem to be huge scattering
+modes in the ionosphere. Satellite communication with military
+forces abroad is impaired. No information is coming from the big
+synchronous DSP satellites over South America, the central Pacific or
+the Indian Ocean; nothing is arriving from the relay stations near
+Aurora in Colorado or Pine Gap in Australia. And the ‘hot line’ is
+dead. On the other hand in the minutes before the confusion they
+had reported no anomalous infrared emissions and hence no
+evidence of heat from the exhausts of rising missiles. At the moment
+all that can be said is that there is a very unusual atmospheric
+disturbance, that telephone lines are dead and that there are
+widespread power failures. The disturbed atmosphere might just be
+some strange effect due to sunspots or the like, but the telephone and
+power failures are ominous. On such a scale, the only plausible
+explanation is an electromagnetic pulse caused by nuclear fireballs.
+Eight minutes into the emergency — if it is an emergency — the
+Secretary issues a number of precautionary orders. His deputy is
+ordered upstairs to await the arrival of a helicopter from Quantico
+Marine Corps base about 30 miles away. This will transport the
+deputy to the waiting ‘Nightwatch’, a Boeing 747 which functions as
+an airborne command post. Another helicopter is dispatched to
+retrieve the President. A ‘flash alert’ is sent to Hawaii, to get a second
+command post aloft, but the message goes unacknowledged. SAC
+missile silos and bomber bases are put on full alert.
+Nine minutes on, information begins to flood in from sensors and
+antennae in orbit, at sea and scattered round the Earth. Much of it is
+reassuring: there are no patterns of activity on land, sea or air
+consistent with hostile intentions, no evacuations of barracks or the
+like are in progress. But now something deeply disturbing is coming
+in from one of the DSP satellites. A television screen shows a brilliant
+patch over south-east Nevada, bright enough to saturate the lead
+sulphide cells in the satellite. Intense heat is radiating from an area
+of about ten thousand square kilometers. Distant ground sensors are
+reporting large tremors emanating from the same
+area — unnecessarily, as the Situation Room has begun to sway and
+vibrate, and loud rumblings are coming up from deep under the
+ground. Then, from Offutt, comes devastating news. Air Force pilots
+are reporting a huge explosion in the desert area close to Boulder
+City. The city itself has gone, reduced to rubble. Las Vegas and other
+towns within 100 miles are enveloped in huge firestorms. The
+Hoover Dam has disintegrated. A column of dust and rubble has
+been sucked up to great altitude and a mushroom cloud is spreading
+outwards. Huge amounts of smoke are blanketing the state of
+Arizona and spreading into New Mexico itself. The Secretary and his
+advisors can see it all on their television screens.
+The Secretary now has a maximum of five minutes in which to
+discuss and evaluate the information, make any decisions and
+implement them. He is informed that the damage corresponds to
+explosions amounting to at least twenty megatons, and must have
+been caused by more than one bomb. The possibility of accidental
+detonations is quickly ruled out, because of its technical
+improbability and the magnitude of the explosion. Further, he is told
+that both ground and air bursts must have been involved to disrupt
+both cable and ionospheric communications. The conclusion seems
+unavoidable that for some reason the Soviets have targeted bombs
+on to American territory giving somehow circumvented military
+radars. Perhaps armed satellites with low radar cross-section have
+suddenly been diverted downwards; or perhaps submarine-launched
+cruise missiles have been fired; or perhaps bombs had already been
+smuggled into the area. But why? The desert is a bizarre choice of
+target, Boulder, Las Vegas and the Hoover Dam of low strategic
+value. No sense can be made of the attack. Perhaps, it is suggested,
+they were chosen because they have little value. The attack may be a
+prelude to some major military adventure and may be a warning,
+‘keep out’ notice pitched at a level low enough that the risks of
+nuclear response are not justified and yet high enough to
+demonstrate deadly earnest. Or, the impacts may be intended to
+disrupt radar and communications for reasons which can only be
+guessed at.
+Whatever the merits of such speculations, the Secretary cannot
+responsibly rule out the possibility that further bombs may follow,
+completely jamming command and control over nuclear weapons, or
+even that Washington is an imminent target whose destruction
+might for example be awaiting only the positioning of armed
+satellites, already in orbit, over the city, or the arrival of cruise
+missiles. Twelve minutes into the emergency, the Secretary’s deputy
+is still on the White House lawn waiting for a helicopter, there is no
+communication with the President and the only information still
+coming in confirms that towns over several thousand square miles
+have been destroyed in nuclear blasts. He has no time left and must
+come to an immediate decision.
+He could initiate the dreaded ‘Major Attack Option’. This is quickly
+ruled out because it is beyond reason, leading only to mutual
+annihilation. He could choose to do nothing. But it is pointed out
+that in the present situation paralysis could also lead to holocaust.
+Whether the National Command Authority is ‘decapitated’ in the
+next few minutes depends on whether further missiles are about to
+land. If they are, then all control over the counter-strike force may be
+lost and, with bombs falling on the USA, a full-scale attack on the
+Soviet Union will, following standing instructions, be unleashed by
+individual submarine commanders, and by the one star generals
+aboard their Cover All airborne command posts. It is therefore vital
+to forestall any further nuclear attacks by calling the bluff, that is by
+retaliating at a similar level. All the options are dangerous. The least
+dangerous is an immediate ‘controlled response’.
+The discussions are interrupted by confused reports of a storm of
+missiles, a cataract of fire pouring in over the states of the western
+seaboard and Canada. But the reports go unconfirmed; again,
+communications are failing over the whole of the United States.
+It is 7:30 am. Eastern Standard Time, on the thirtieth of June, in the
+revamped over-the-horizon radar base near Gomel in Byelo-Russia
+officers are horrified to see, through the confusion of the still
+disturbed ionosphere, a dozen missile tracks appealing on their
+screens. Peacekeepers are rising over the plains of Kansas ...
+Even as they look, however, another unheralded missile is
+encountering the atmosphere high over the Bernese Oberland.
+Coming in at sixty thousand miles an hour, a hundred kilometers
+above Interlaken, the missile is gathering around itself a narrow skin
+of compressed air whose temperature surges up to about half a
+million degrees. Waves ripple within the hot air-turned-plasma;
+atoms, scattering off the waves, reach huge speeds, collide violently,
+and are stripped to their nuclei; electrons, torn from the atoms.
+Accelerate violently and radiate fiercely at all wavelengths. For the
+most part this fierce emission is invisible, hard ultraviolet light or
+soft X-rays, and the atmosphere absorbs these at altitude, 50 to 90
+kilometers up. Only a tiny fraction of the radiation reaches the
+ground as visible light. Even so, Europe is lit up as if with a
+flashbulb: survivors from Ireland to Austria and from Denmark to
+Italy later describe’ a bluish white light, too bright for the naked eye’,
+or ‘a fire brighter than the Sun’, or ‘a thunderbolt ... blinding in its
+intensity’. Approaching from the south east, the missile passes on a
+long, shallow trajectory, throwing moving shadows over the
+Jungfrau, Berne and Basle. It crosses the sky in a few seconds,
+leaving a wake of hot, luminous debris and air surrounded by a
+rapidly expanding red trail. Ten seconds after its first encounter with
+the atmosphere, the missile has penetrated the ionosphere, passed
+though the stratosphere and is moving rapidly into the lower
+atmosphere.
+Here at an altitude between 10 and 15 kilometers, the missile hits
+scientifically denser air and suddenly disintegrates. It never reaches
+the ground therefore and instead unloads its stored-up power, 200
+megatons of impact energy, into the air over Louvain, a mediumsized town in central Belgium. The missile vaporizes in a third of a
+second. It is now, momentarily, an incandescent cylinder a few
+kilometers long and a few hundred meters across. The temperature
+within the cylinder is over 100, 000° C. The pressure for an instant
+reaches some tens of thousands of tons per square inch; the missile
+blows up into a ball of fire radiating X-rays of huge intensity. These
+are absorbed within a few meters by the surrounding air, but, in
+doing so, the envelope of atmospheric gas acquires their energy.
+Simultaneously, hot, compressed material is thrusting rapidly
+outwards from the point of disintegration and snowploughing the air
+ahead of it. A blast wave develops; the fireball expands. From the
+first trace of incandescent tail high over Interlaken, to the beginnings
+of the fireball over Louvain, less than eleven seconds have elapsed.
+When the fireball has reached about four miles in diameter the shock
+wave breaks away and races ahead of it. The corresponding blast
+brings a wind speed of over a thousand miles an hour. Survival at
+this distance is impossible; Louvain, directly under the fireball,
+disappears in less than a second. The fireball meanwhile inflates and
+soars rapidly upwards for several kilometers until, in the
+stratosphere; it flattens out and takes the classical mushroom shape.
+The cloud is seen from Copenhagen to Florence, from Edinburgh to
+Budapest. And over the whole of Europe, the ground shakes and
+buildings sway dangerously. Trains are derailed in southern England
+and beneath the Channel. The mushroom cloud is quickly broken up
+by jet streams at about 60 kilometers altitude and is subsequently
+dispersed around the globe.
+Within 25 kilometers of Louvain, all buildings are reduced to rubble.
+A few girder bridges survive due to accidental cancellation of
+pressure waves from above and below. The shock wave reaches
+Brussels to the west and Liege to the east. The buildings within these
+cities collapse, domino-like, as the wave sweeps through; and all
+traces of roads are immediately erased by rubble. Beyond 25
+kilometers, some structures survive, although few houses remain
+intact. Throughout Antwerp, for example, about 50 kilometers from
+ground zero, roofs are stripped bare of tiles and window frames and
+doors are blown in. Beyond this the damage becomes lighter: about
+100 kilometers to the north the blast, sweeping through Eindhoven,
+blows tiles off roofs and shatters windows.
+People out of doors and 25 kilometers from Louvain are hurled about
+10 meters and are usually killed. Flying glass, though, is the greatest
+hazard. Shopping precincts and office complexes within 50
+kilometers find themselves swept without warning by lethal blizzards
+of flying glass. Indeed, shards of glass account for most of the loss of
+life in these areas. Even 100 kilometers from the epicenter of the
+explosion, the blast is still strong enough to flatten forests.
+Nuclear reactors within reach of the ground tremors and air waves
+are damaged, their coolant pipes snapped and containment vessels
+cracked. Some begin the process of meltdown. Already, swathes of
+radioactive debris are pouring into the atmosphere, mingling with
+the dense chemical smog, drifting into Germany, and destined for
+Poland and Scandinavia.
+Immense destruction is caused by fire as well as blast. Serious flash
+burns from the thermal pulse of the fireball are sustained over an
+area of several thousands square kilometers, and virtually all
+exposed individuals within about 50 kilometers of ground zero
+receive third degree burns (charred skin) requiring labour-intensive
+hospital treatment, but in the hours and days following the impact it
+is impossible for medical services from outside to reach, let alone
+cope with, the seriously burned, and many of the injured die
+untreated from shock within twelve hours.
+The intense heat from the rising fireball sets off fires at a range of 70
+kilometres or more. Fanned by the updraft of air sucked in behind
+the rising ball, these merge into a mass fire, a single all-consuming
+conflagration. Such fire services as have survived are immobilized in
+a sea of debris, deprived of water and overwhelmed by the extent of
+the raging fire. The Sun eventually sets, but Europe is already dark,
+only the light from raging fires penetrates the smoke.
+Sixteen hours after the event the Sun rises again, but it shines down
+only on a dense, choking smog created by blazing cities and
+petrochemical complexes. Aerial survey is impossible. Within a circle
+of radius 50 kilometres, the dead greatly outnumber the living. Even
+without the mass fire which is still blazing, penetration of the area is
+impossible as roads are strewn by debris and wrecked vehicles. It will
+be several days before the fires burn themselves out and the smog
+disperses enough to reveal the flattened cities and towns, villages
+and farms. Belgium, it will turn out, has been obliterated. And
+several weeks would need to pass before French, German and Dutch
+forces have the capacity to clear the roads, shelter the living and bury
+the dead.
+Belgium, however, will wait in vain ...
+For the Earth has encountered a cosmic swarm. Twelve hours late,
+the death-dealing fusillade is peppering the other side of the globe.
+Indeed, the bombardment continues for nearly a night and day, the
+planet rotating all the while, first presenting one face, then the other,
+until eventually it emerges on the far side of the swarm. Compared
+with the fireball over Hiroshima at the end of the Second World War,
+that over Boulder was a thousand times greater whilst that over
+Louvain was ten times bigger again, but they are just two of the
+several hundred pieces of grape-shot that meet the Earth, and they
+are trivial compared larger pieces of ordnance in train. These rarer
+missiles are each capable of unloading as much energy as would be
+unleashed in a major nuclear war, and in their case the atmosphere
+provides relatively little protection. Thus unlike their smaller
+counterparts, these larger bodies get through to the surface of the
+Earth, an ocean impact generating a tsunami, a land impact
+generating a small crater. There is another difference: each huge
+fireball is now too energetic to be properly contained by the
+atmosphere. As before, it ascends, laden with dust, but now it breaks
+though generating a vacuum in its wake which is filled by a cast
+stream of air. Thus, on the ground, once the initial blast has swept
+past, there is a counter flowing hurricane, itself sweeping up dust
+thrown up by the impact, and blowing it upwards after the rapidly
+receding fireball. Within minutes the fireball has reached an altitude
+of several hundred kilometers, in the high stratosphere. Here it
+stabilizes, and the dust begins to spill outwards over the top of the
+atmosphere.
+Closer to the ground, the intense heat of impact from one large
+fireball has generated hundreds of fires over an area about the size of
+France. Essentially everything combustible along the line of sight of
+the rising fireball has caught fire. Loss of life over this area, already
+massive from the prompt effects of blast and heat, becomes almost
+complete when these fires merge into a single, all-consuming
+conflagration. About fifty million tons of smoke pour upwards, in
+dense plumes rising to kilometers into the atmosphere.
+Within a few days, the wildfires are almost global in extent. Tens of
+millions of tons of fine dust lofted into the stratosphere, have spread
+over the northern hemisphere and are beginning to cross into the
+southern one. At ground level, sunlight is blocked from reaching the
+ground, and all activity takes place in a black, choking smog. There is
+no question of mounting any rescue operation to save the devastated
+areas: the damage is so widespread that communications around the
+globe have now effectively ceased to exist; individual regions are
+virtually isolated; devastated populations are thrown back on their
+own resources; dozens of cities are reduced to smouldering rubble;
+river pollution is rife; and forests throughout the world are ablaze.
+Life as we know it is drawing to a close.
+The cosmic encounter is over. Our planet has finally emerged from
+the swarm. Both continue, of course, along their predestined paths,
+the swarm merely a few missiles less, the Earth now charred and
+encased in a lingering veil of dust and smoke. With the destruction of
+cities and urban areas, the infrastructure of civilization has already
+gone; with the loss of sunlight, continental land temperatures have
+already plummeted to those of a Siberian winter; thick ice covers
+rivers and lakes; storms of unprecedented intensity rage along the
+continental margins, with animal and plant life devastated, farming
+and agriculture have already collapsed. Soon, the disrupted weather
+patterns will cause the continental land masses to be blanketed in a
+thick covering of snow.
+After several months, the Sun begins to be seen trough a hazy sky.
+When, eventually, the dust clears, the land masses of the northern
+hemisphere are covered in a snowfield which, reflecting sunlight
+back into space, has become permanent. The snowfield is added to
+each year, centimeters at a time. A thousand years on, North America
+and Europe are covered in ice sheets half a mile thick and the ocean
+level has dropped by about fifty meters. The Earth is locked into a
+new ice age. Mankind has survived, but human population has
+crashed and society has dissolved into hungry marauding bands. A
+new ecological balance is being worked out on the blasted landscape:
+indeed the struggle for survival has only just begun ...
+What is to be made of a future that turns out this way? First and
+foremost, of course, it must be established whether a true prognosis
+has been given; and if not in exact detail, at least in general terms.
+Next, should the future be as bleak as it appears, perhaps it must be
+recognized that very little can at present be done to remove personal
+risk except by fostering such stoical reserves as are necessary to face
+the slings and arrows of outrageous fortune. But what of culture,
+society and civilization? For these also appear to be at risk from the
+course of events we describe. Does one perhaps comfort oneself with
+the thought that not all would be lost since it is a reasonable
+expectation that some archaeologist, thousands of years hence, is
+bound to recover the essential achievements of our civilization,
+preserved in London, say, beneath a silted-up Thames? Alternatively,
+does one perhaps take strength from the known capabilities of the
+human race, on the basis, for example, that an engineer or physicist,
+also thousands of years hence, is bound once again to invent the
+internal combustion engine? Or does one picture a world peopled by
+then with a race of Frankenstein monsters, indifferent to all but
+themselves? That is, should one envisage a swarm in the sky which is
+also the bearer of a cosmic imprint capable of affecting cellular life
+and marking out a new small branch in the evolutionary tree? Is
+civilization, indeed, simply a cul-de-sac, a diversion before a new
+dominant species — ‘homo unsapiens’ we might suppose — inherits
+the earth?
+Science has no answer to these questions. Indeed, those who might
+be expected to contribute to the answer are not at the moment
+interested. The environment in which our planet moves is supposed
+to be empty, and to pose little threat. We shall show, however, that
+the reality is different; that an unrecognized hazard is out there; and
+that at a stroke, civilization could be plunged into a new Dark Age.
+The future shocks described herein are the logical consequence of
+new discoveries which have been emerging over the past few years.
+Some preliminary findings were described in an earlier book, The
+Cosmic Serpent, but the analysis has since been greatly extended,
+and we did not there deal with the implications for the future. That
+omission is here rectified. As we anticipated, some ‘authorities’
+reacted to the book with outrage, and indeed the reader should be
+warned: much of what he may have regarded as established truth will
+in these pages also turn a somersault.
+In June 793, ‘fierce foreboding omens came over the land and
+wretchedly terrified the people’, signs that are said to have been
+followed by great famine. On 25 June 1178, the Moon, more or less in
+line with the Earth, was apparently struck by a missile whose energy
+was ten times that of the combined nuclear arsenals of the world. On
+30 June 1908, an object from space exploded above a remote area of
+Siberia with the energy of a large hydrogen bomb. More recently,
+during five days in late June 1975, an unexpected swarm of boulders
+the size of motor cars struck the Moon at a speed of 67,000 miles an
+hour. And then again, on 30 June 1994, there came an unheralded
+explosion with the strength of a 20-megaton bomb ...
+Why late June? What is the nature of these events? And what is the
+actual threat they pose for mankind? Such are the questions we
+address in this book. For within these last few years, it has been
+found that there is a great swarm of cosmic debris circulating in a
+potentially dangerous orbit, exactly intersecting the Earth’s orbit in
+June (and November) every few thousand years. More surprisingly,
+perhaps, it has been found that the evidence for these facts was in the
+past deliberately concealed. When the orbits exactly intersect
+however, there is a greatly increased chance of penetrating the core
+of the swarm, a correspondingly enhanced flow of fireballs reaching
+the Earth, and a greatly raised perception that the end of the world is
+nigh. This perception is liable to arise at other times as well,
+whenever fresh debris is formed, but deep penetrations occurred
+during the fourth millennium BC, again during the first millennium
+to come.
+Christian religion began appropriately enough therefore, with an
+apocalyptic vision of the past, but in the aftermath of the last deep
+penetrations, once the apparent danger had passed, truth was
+converted to mythology in the hands of a revisionist church and such
+prior knowledge of the swarm as existed, which now comes to us
+through the works of Plato and others, was later systematically
+suppressed. Subsequently the Christian vision of a permanent peace
+on Earth was by no means universally accepted, and it was to
+undergo several stages of ‘enlightenment’ before it culminated with
+our present secular version of history, to which science itself
+subscribes, perceiving little or no danger from the sky. The lack of
+danger is an illusion however, and the long arm of an early Christian
+delusion still has its effect. The Cosmic Winter, then, is a
+kaleidoscope of history and science, reviving the basis of an old and
+largely misunderstood pagan view of the world.
+The idea of a terrible sanction hanging over mankind is not, of
+course, new. Armageddon has been widely feared in the past and it
+was a common belief that it would arrive with the present
+millennium. During the last thousand years, moreover, it has usually
+been the reforming church that revived the fear. But such ideas,
+whenever they have arisen, have always met with fierce opposition.
+Sometimes the proponents of such ideas escape to new found lands
+where in due course they meet opposition of a homegrown kind. In
+the United States for example, despite freedom of speech, old
+traditions of cosmic catastrophe have recurred from time to time,
+even in the present century, only to be confronted by pavlovian
+outrage from authorities. That being the case, it is perhaps ironic
+that elections in the United States are generally held in November
+following the tradition of an ancient convocation of tribes at that
+time of the year, which probably had its roots in a real fear of worldend as the Earth coincided with the swarm.
+In Europe the millennium was finally dispensed with when an
+official ‘providential’ view of the world was developed as a counter to
+ideas sustained during the Reformation. Indeed to hold anything like
+a contrary view at this time became something of a heresy and those
+who were given to rabble-rousing for fear of the millennium were
+roundly condemned. To the extent that a cosmic winter and
+Armageddon gave aspects in common, therefore, authoritarian
+outrage is nothing new.
+More to the point perhaps, the way in which the British parliament
+handles its affairs seems to have its roots in the condemnation of the
+heresy. Thus the mother of parliaments, once its present charge was
+assumed, began by turning against the founding sect known as
+Ranters. Ranters rose to prominence in the period immediately
+following the execution of the English king and the foundation of the
+Protectorate. But they are heard of very little these days and it is not
+commonly known that Ranters took their lead in 1649 from one
+Gerrard Winstanley who was moved by ‘super-natural illuminations’,
+along with many others, to anticipate the millennium.
+In the event, the ‘destroying angel’ failed to materialize, the ranting
+parliamentarians came to look foolish and it was only a matter of
+time before the reins of power passed to others of a more
+sophisticated persuasion whose vision of the world embodied the
+kind of ‘enlightenment’ that has sustained western civilization ever
+since. Enlightenment, of course, builds on the providential view and
+treats the cosmos as a harmless backdrop to human affairs, a view of
+the world which Academe now often regards as its business to
+uphold and to which the counter-reformed Church and State are only
+too glad to subscribe. Indeed it appears that repeated cosmic
+stress — supernatural illuminations — have been deliberately
+programmed out of Christian theology and modern science, arguably
+the most influential contributions of western civilization to the
+control and well-being of humanity.
+As a result, we have now come to think of global catastrophe,
+whether through nuclear war, ozone holes, the greenhouse effect or
+whatever, as a prospect originating purely with ourselves; and
+because of this, because we are faced with ‘authorities’ who never
+look higher than the rooftops, the likely impact of the cosmos figures
+hardly at all in national plans. Indeed, even those who do look higher
+are mostly content simply to weave plausible hypotheses from the
+harmony they observe in the visible spheres, and eschew any
+reference to cosmic hazards in the process.
+And if the overall climate of our globe should once again improve, as
+it is doing during this century, and has done every few centuries
+since the end of the last ice age, there may be unaware that the
+cosmos is simply delaying the next input of dusty debris, alarm,
+destruction and death. A great illusion of cosmic security thus
+envelopes mankind, one that the ‘establishment’ of Church, State and
+Academe do nothing to disturb. Persistence in such an illusion will
+do nothing to alleviate the next Dark Age when it arrives. But it is
+shattered; one simply has to look at the sky.
+The outrage, then, springs from a singularly myopic stance which
+may now place the human species a little higher than the ostrich,
+awaiting the fate of the dinosaur.

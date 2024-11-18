@@ -47,6 +47,7 @@ Cataclysm evidence, physical markers:
 - Tollmann: 7400 comet hypothesis
 - Buckland: flood biomass
 - Wright: human artifacts under hardened lava deposits
+- Meinesz: shear plane patterns in tectonic plates implying rapid pole shift rather than gradual continental drift
 
 Geo/paleomagneticism:
 - Laj

@@ -1,0 +1,242 @@
+
+10 — Cosmic Swarms
+Between 3 and 15 November each year, the Earth runs through a
+meteor stream coming from a small area in the constellation of
+Taurus the bull. A young stream, made up of meteors not long
+released from their parent comet, would be narrow and probably
+strong, and the Earth would pass through it in half a day or so. The
+Geminid meteor stream is one such, the Earth encountering it on the
+December each year and the shower being over by 12 December The
+Taurid meteor stream, on the other hand, takes the Earth 12 days to
+cross, and it is not very intense; it ‘looks old’. It has two main
+branches, northern and southern, emerging from slightly different
+parts of the constellation, the branches being of about equal
+intensity.
+The Earth runs into the same meteor complex in the summer but the
+meteors, striking the day-time hemisphere of the planet, are not then
+visible to the naked eye. This day-time stream, the so-called Beta
+Taurids, was discovered with radar using the Jodrell Bank radio
+telescope in the 1950's. The Beta Taurids come in between 24 June
+and 6 July with a sharp peak on 30 June each year. The orbits of
+these daytime Taurids match those of the southern Taurids closely.
+At first sight it seems that there is nothing exceptional about the
+Taurids; they are only one of seven or eight strong meteor streams
+which occur at various times throughout the year, and they are not
+particularly intense. To the casual observer the only noticeable
+feature of the stream is the high proportion of fireballs it produces,
+bright meteors which light up the landscape. Again, this is an
+indication of age, smaller meteors in the stream having long ago
+been destroyed in interplanetary space by processes of erosion.
+Orbiting with the Taurid meteor stream is a small comet, discovered
+in 1818 by Pons. An orbit was calculated for this comet by Johann
+Encke, a pupil of the famous mathematician Gauss who had
+developed a method for calculating the orbits of bodies from their
+movement across the sky. Encke not only found an orbit, he showed
+that the comet was the same as one detected by Mechain in 1786,
+Caroline Herschel in 1795 and Pons himself in 1805. Encke predicted
+that the comet would return in May 1822 and in due course its return
+was observed, from Australia. There are interesting historical
+parallels with Halley’s Comet; in both cases the comet is named, not
+after the discoverer, but after the man who calculated the orbit;
+Encke’s Comet was the first instance after Halley of the recognized
+return of a comet; and, like Halley’s Comet, it established the
+existence of a new class of object. Its orbit, in fact, is unique amongst
+the known comets.
+There are about a hundred known short-period comets (say with
+orbital periods less than about 12 years as against a few million years
+for the long-period ones). All of these, with the sole exception of
+Encke’s Comet, are in orbits which sooner or later lead to a close
+encounter with Jupiter and ejection from the Solar System by the
+powerful gravitational pull of that planet. But Encke’s Comet has
+somehow established itself in a stable orbit such that it never comes
+within the Jovian sphere of influence. It does however come close to
+the Earth. In addition there may be one or two thousand asteroids
+over a kilometer across in orbits which make them a potential
+collision hazard with the Earth. None is more than about 10
+kilometres across, their surfaces are extremely dark, and fewer than
+fifty have been discovered. They are known as Apollo asteroids after
+the prototype discovered in 1932. Encke’s Comet is in fact the sole
+example of an active comet in an Apollo orbit. Without decay or
+collision, the comet would probably continue in orbit for tens of
+millions of years. The orbit is highly elongated (figure 7) and the
+comet may approach to within 0.34 astronomical units of the Sun,
+when its surface temperature reaches 450 degrees centigrade, and go
+out to 4.1 astronomical units, when its temperature is -120 degrees
+centigrade. The comet’s orbit is inclined at only 12 degrees to that of
+the Earth’s. This low inclination and the shortness of the orbital
+period, ensure that there is frequent interaction between the Earth
+and the material of the Taurid stream, with the potential for
+occasional very close encounters with Encke’s Comet. On the face of
+it, then, the Taurids seem to be an elderly, diffuse meteor stream
+with no peculiar characteristics other than their association with a
+comet, in an unusual orbit, and just too faint to be seen with the
+naked eye. There is much more to the Taurid stream, however, than
+this.
+In a study of fireball records from the first to the fifteenth centuries
+AD, the astronomers Astapovic and Terenteva 78 found that the
+fireball flux from the Taurids was much more intense a thousand
+years ago (see figure 4 (b)), indeed the northern stream was then the
+stronger of the two. The Soviet astronomers found that ‘Taurids were
+the most powerful shower of the year in the eleventh century (with
+42 fireballs belonging to them) and no shower, not even the great
+ones, could be compared with them as to activity’. In the not too
+distant past, therefore, the Taurids were revealing themselves as
+outstanding performers in the night sky.
+Two recent discoveries confirm the suspicion that the stream is a
+remarkable one. The first of these is that, amongst the 80 or so
+known Apollos, 6 or 7 are orbiting within the Taurid meteor stream
+(table 6). There are some interesting object in table 6. Hephaistos,
+for example, is the largest known Apollo asteroid, being about 10
+kilometres in diameter. Its orbit closely resembles that of the comet’s
+in every respect but one: the long axis is roughly at right angles to
+that of the Encke orbit. The orientations of these orbits change very
+slowly, only a few degrees in a millennium. It could be that Encke’s
+Comet and Hephaistos were once one body, but if so they must have
+separated over 20,000 years ago. Then there is Oljato, a dark
+asteroid about 1.5 kilometres across. This body shows visual
+evidence, through the telescope, of slight outgassing. Further, when
+the Pioneer Venus probe passed near the asteroid on several
+occasions in 1982 and 1983, magnetometers on board recorded
+sudden changes in the magnetic field, as if the probe were passing
+through magnetized gas in the wake of the asteroid. 79 It looks as if
+the ‘asteroid’ is in fact an almost defunct comet. Each of these bodies
+pursues an elliptical orbit around the Sun, but because of the
+influence of the planets, Jupiter and Saturn in particular, these orbits
+slowly evolve. The size and shape do not change greatly but the
+orientation of the orbit in space does. First, relative to the mean
+plane of the Solar System, the inclination of the orbit slowly
+oscillates up and down; but more significant is the orientation, in the
+Earth’s orbital plane, of the orbit’s long axis. If the asteroids were
+unconnected with each other and with Encke’s Comet their long axes
+would be orientated randomly; but they are on the whole closely
+bunched. It can be shown that these is less than one chance in a
+million that even three asteroids would lie so close to the orbital
+track of Encke’s Comet by chance. Now it is very unlikely that these
+bodies are the only ones orbiting within the Taurid meteors:
+discovery of the Apollo asteroids as a whole is only about 5 per cent
+complete. We are therefore led to the remarkable conclusion that
+there are between one and two hundred asteroids of more than a
+kilometer diameter orbiting within the Taurid meteor stream. It
+seems clear that we are looking at debris from the breakup of an
+extremely large object. The disintegration, or sequence of
+disintegrations, must have taken place within the past twenty or
+thirty thousand years as otherwise the asteroids would have spread
+around the inner planetary system and be no longer recognizable as a
+stream.
+The second discovery, due mainly to the Czechoslovakian
+astronomer Stohl, 80 is that enveloping the Taurids, Comet Encke
+and these particular asteroids is a broad tube of meteoric debris. The
+Earth enters this tube in April and does not emerge again until about
+the end of June, entering again in October and re-emerging in
+December. It seems that about half the ‘sporadic’ meteors one sees —
+random shooting stars which do not seem to belong to any specific
+meteor stream — are not sporadic at all, but are part of this immense
+swathe of material, of which the Taurids and the bodies within it are
+the core. The Stohl stream is apparently double (figure 7) due
+probably to an exceptional fragmentation which, if the orbital
+backtracking of several Taurid meteors by Whipple and Hamid 81 is
+accepted, occurred around 2700 BC when the primary body
+encountered a stray body in the asteroid belt between Mars and
+Jupiter. This pronounced splitting into two streams could be
+significant in view of the dual character of divinity generally
+discussed in earlier chapters.
+The mass of the meteoric material within the Stohl stream is 10 or 20
+trillion grammes (we use trillion in the American sense of a million
+million times a million). The mass of the co-orbiting asteroids is
+likely to be about the same. Adding in the mass of gas and very fine
+dust which must have been blown away subsequently, we find that
+the original body must have been about 100 kilometres across. We
+have found our giant comet!
+Figure 7. Diagram showing the orbit of Comet Encke (thick line
+corresponding also to the orbit of the Beta Taurids) and the two
+broad meteoroidal swarms discovered by the Czechoslovakian
+astronomer Stohl. The similarities between these orbits and the
+general merging of these streams with the meteoroidal complex
+and zodiacal cloud in the plane of the ecliptic suggest a common
+origin in the past from a single giant progenitor comet.
+The existence, in the not too distant past, of a giant comet in an
+Apollo orbit also explains the existence of the zodiacal light. In the
+early evening, or just before sunrise, this delicate, beautiful pyramid
+of light can be seen rising out of the horizon, lying along the line of
+the zodiacal constellations. It is best seen in the tropics, where it
+rivals the Milky Way, but unlike the Milky Way it has a more regular,
+smooth appearance. We have seen that the zodiacal light is made up
+of light scattered from myriads of bodies orbiting between the inner
+planets. It is brightest close in to the Sun, and it could be that ancient
+Egyptian portrayals of the Sun as a winged disc refer to the zodiacal
+‘wings’ extending from it. From the rate at which the Earth sweeps
+up meteors one finds that the mass of small meteoric material in the
+zodiacal cloud, say particles less than a millimeter diameter, is
+perhaps 20 to 40 billion tons. About half of this belongs to the Stohl
+stream. Now the particles orbiting within the cloud collide at a few
+kilometers persecond, and break up, the microscopic debris
+eventually spiraling into the Sun. The zodiacal cloud loses between
+10 and 40 tons of mass every second in this way, and without
+replenishment it would vanish in about fifty or a hundred thousand
+years. And yet, there are no adequate sources of replenishment for
+this dust at the present time. 82 Encke’s Comet is the major known
+supplier of dust in the inner planetary system at present, but even so,
+it loses only an average of a ton a second of material over an orbit,
+only 0.3 tons per second of which is dust; it cannot even remotely
+resupply either Stohl stream or zodiacal cloud. Once more, there
+seems to be no avoiding the conclusion that the progenitor of Comet
+Encke and the Stohl stream must have been a truly exceptional body,
+in the same class as the great historical comets. And it must have
+been pouring out dust copiously in the not too distant past, since the
+Stohl stream, diffusing into the zodiacal cloud as a whole, would not
+stay recognizable for more than twenty thousand years or so.
+Backtracking the orbits of Encke and Oljato, we find that 9.500 years
+ago the orbits were nearly identical. It is possible there was a major
+disintegration of the prime body then, with much debris created of
+which Comet Encke and Oljato are the largest known bodies,
+followed by similar disintegrations of the other comets and asteroids
+of the stream. Oljato itself is in an orbit which brought it virtually
+into the Earth’s orbital plane for some centuries around 3000-3500
+BC, ensuring a series of very close encounters with the Earth over the
+period. If, as is very likely, it was then an active comet, it must have
+been a spectacular zodiacal traveler, whose cycles of coming and
+going, flaring and fading, must have made it a perplexing object in its
+own right, even if overshadowed by the more formidable Encke. The
+meteor orbits, traced back in time, seem also to come together at
+particular epochs. The present-day northern Taurids, for example,
+may have broken away from Encke’s Comet or a Taurid asteroid
+about a thousand years ago, consistently with the surge of activity
+recorded in the sky around that time, particularly by the Chinese
+astronomers (figure 4). The whole complex therefore seems to be
+undergoing an avalanching self-destruction as the debris accumulate
+and collide. Orbital backtracking of the Taurid meteors and asteroids
+thus reveals a system which has been evolving actively within the
+timescale of civilization.
+Thus unique complex of debris is undoubtedly the greatest collision
+hazard facing the Earth at the present time. It is likely that hundreds
+of thousands of bodies, each capable of yielding a multi-megaton
+explosion on Earth, are orbiting within the stream. Such bodies are
+expected from the progressive disintegration of the asteroids —
+inactive comets — with it. From time to time collisions will remove
+some proportion of the dusty crust from an asteroid, exposing its icy
+interior. It will then become a comet for a few centuries. Probably,
+also, there are one or more concentrations of material — temporary
+swarms — arising from the rapid disintegration of one or two
+dominant but yet undiscovered bodies within the Taurid stream. The
+Moon, as we have noted already, ran through such a swarm between
+22-26 June 1975. Lunar seismometers left by the Apollo astronauts
+recorded the impacts of a swarm of ton-sized boulders, as many
+hitting the Moon over those five days as had struck it over the
+previous five years (figure 6).
+We seem to have found, then, the vital element missing form the
+works of the early Biblical catastrophists — Whiston, Radlof,
+Donnelly, Velikovsky and the rest — namely, a scientific rationale, a
+relatively secure astronomical framework. Biblical and geological
+catastrophism are, after all, inextricably linked. While this clearly
+justifies an urgent reappraisal of the ancient tales of celestial
+catastrophe, the new information is extremely awkward for a
+generation of astronomers who insisted that Velikovsky was no more
+than an erudite charlatan. Astronomers, indeed scientists generally,
+like to think themselves as tolerant judges and very adaptable to
+fresh discoveries. The evidence in this instance is however mostly the
+other way. One may therefore expect that in some circles the data
+now emerging from the Taurid meteor stream will be ignored in the
+hope that something reassuring will turn up. While this is a timehonoured scholarly ploy for the handling of discordant new facts,
+there is a moral dimension in this instance: the swarm has teeth. As
+to how sharp these teeth can be, we shall now see by looking at two
+impacts which have taken place during the present millennium.

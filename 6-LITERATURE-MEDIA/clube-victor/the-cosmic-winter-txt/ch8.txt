@@ -1,0 +1,416 @@
+
+8 — Felony Compounded
+The road from Ptolemy to Copernicus was thirteen hundred years
+long, and in all that time scarcely a new idea found its way into
+astronomy. The Academy at Athens was closed whilst that at
+Alexandria was stultified by ideology, the Great Library eventually
+being burned to the ground, either by Christian fanatics or Arab
+conquerors. The goal of unifying physics and astronomy, already
+something of a charade in Ptolemy’s time, had become a remote
+prospect. However, following centuries of which it could be said ‘All
+curiosity is at an end after Jesus, all research after the Gospel. Let us
+have Faith, and wish for nothing more’, the opportunity to rethink
+seems again to have been at hand.
+Remnants of Greek science eventually found their way to the new
+medieval universities of Europe by way of the Arab kingdoms of
+Spain and Sicily (plate 10), and something of the way in which the
+Greeks first came to study the planets seems to have been
+reconstructed. More significantly perhaps, through institutions
+provided by the medieval Church, a tradition of scholarly teaching
+and study came to be revived. By the middle of the thirteenth
+century, indeed, Thomas Aquinas was arranging that the Aristotelian
+system was once again theoretically wedded to Christian theology, so
+ensuring that any future reconstruction of physics outside
+Aristotelian or Ptolemaic lines would not be a task for the fainthearted.
+Despite this, there were aspects of Aristotelian cosmology that
+continued to worry the purists; particularly the central position of
+the Earth and the location and status of comets. For example in the
+fifteenth century the German cardinal Nicolas of Cusa, in his treatise
+On Learned Ignorance, disputed the Aristotelian idea that space
+could be bounded by an outermost sphere; and if there was no
+boundary to space, how could there be a centre? Earth, Sun or Moon
+could be imagined at the centre of the universe arbitrary. And if the
+universe had no centre to which motions could be referred, why
+should the Earth not be considered in motion?
+Plate 10. A Muslim astronomer observing a comet with a
+quadrant (Topkapi Sarayi Museum Library).
+Such questions had not been properly settled and around the middle
+of the second millennium AD, Copernicus (1473-1543) indicated that
+perhaps the Sun should be placed in the middle. The concept of a
+central Sun should be placed in the middle. The concept of a central
+Sun was at first deflected by the Church: thus an arrangement by one
+Osiander ensured that Copernicus’ work was prefaced with an
+unsigned disclaimer stating that the new idea was merely a
+mathematical device for the purposes of easy computation, and not
+the physical truth. The Church, Roman and Protestant, had little
+difficulty therefore in suppressing this new idea and later attempts to
+revive it led to Bruno (1548-1600), in the hands of the Inquisition,
+being burned at the stake and Galileo (1564-1642) being placed
+under house-arrest. However, within a century of the death of
+Copernicus, the simplicity of the new system as against the
+complexity of the old was beginning to tell. 67
+It was the careful observations of the Danish astronomer Tycho
+Brahe which eventually rendered necessary a radical change. The
+ground had been prepared by the appearance, in 1572, of a brilliant
+star in the sky (known now to have been a supernova), which was
+hard to reconcile with the perfect, unchanging sky of Aristotle. A
+great comet then appeared in 1577 and Tycho, by careful
+observations, was able to show that even at its nearest approach to
+Earth, the comet was still well beyond the Moon, contrary to the
+Aristotelian view that comets were mere atmospheric phenomena. It
+was still conceivable, of course, that comets were indicators of divine
+intention, and indeed the appearance of this comet unleashed much
+sermonizing and writing of blood-curdling tracts, but those of the
+time who were less eshatologically inclined were now able to take a
+more prosaic view. 68 Kepler, for example, simply assumed comets
+were sweeping past the Solar System in straight lines while Galileo
+treated them as mere optical illusions!
+The latter was not a particularly tenable point of view on any account
+and we find Newton (1642-1726), somewhat later, preferring the
+Keplerian assumption: not out of conservatism, as it happens, but
+because he wished to avoid comet encounters doing any damage to
+the Solar System as he perceived it. Thus Newton (plate 11), like
+Aristotle before him, considered the Solar System to be a divine
+creation, set to run like a clockwork machine; and stray comets
+passing through obviously put the system very much at risk. 69
+Plate 11. Sir Isaac Newton (Mansell Collection
+In 1680, however, another important comet was observed. Its path
+across the sky was accurately tracked by the Astronomer Royal,
+Flamsteed, at Greenwich. The orbit of this comet was shown to be,
+not a straight line, but a parabola coming within the planetary
+system. It says something for Newton’s understanding of gravity at
+this stage that he did not treat the parabola as an illustration of his
+gravitational law. In fact, he at first refused to believe Flamsteed’s
+observation and only later came to regard the orbits of comets as
+another aspect of the divinely ordained law of gravity, and the latter
+as universal. But with a subtle change of emphasis, Newton now
+insisted that encounters of comets with planets should be seen as
+providential rather than catastrophic events, the means whereby the
+planets were occasionally revitalized. Very little attention has been
+paid to this interesting circumvention of Newton’s but its impact on
+science has in some respects been almost as significant as that of his
+law of gravity. Let us follow the matter a little further.
+Newton was, of course, not alone in reflecting on these questions and
+by this time the possibility of a disaster through cometary impact on
+the Earth had become a matter for general debate. That the Earth’s
+axis had shifted in the past due to the close approach of a comet was
+accepted as a serious proposition. A future encounter, it was thought,
+might bring the world to an end through overheating it. Scholars
+seriously discussed whether the conflagration of Phaethon and the
+flood of Duecalion or Ogyges had been caused by a celestial body.
+The flood of Ogyges was noted for example as having been attributed
+to the arrival of a comet Typhon, and there was also a Biblical
+connection for Roman historians had declared the plagues of Egypt
+to be a contemporary event. Such issues as whether the floods of
+Noah. Ogyges and Deucalion were one and the same were also
+raised, and the outcome of all these enquiries was a growing interest
+in terrestrial catastrophism and ancient chronology. On the one
+hand, it seemed that historical studies might help to determine the
+periods of recurring comets, and on the other, it seemed that
+periodic returns might be used as a celestial clock to plot the course
+of major historical events, the epochs for example of Abraham,
+Moses and Christ.
+Then, by chance, another comet appeared in 1682. Halley was one of
+the first to note that its orbit was that of the comets of 1531 and 1607:
+a celestial clock had been found. This particular comet was to take
+Halley’s name in due course (following its predicted return in 1758)
+but Halley’s more immediate interest was in deriving a period for the
+1680 comet. A value of 575 years was obtained, incorrect as it
+happens, which William Whiston (Newton’s successor in the chair of
+mathematics at Cambridge) made use of in calculating earlier
+apparitions. This quite fictitious orbital period had the comet
+returning at the time of Caesar’s death in 44 BC, and an earlier
+return was supposed also to coincide with Noah’s flood in 2342 BC.
+Whiston’s book describing these researches, dedicated to Newton,
+rapidly came to be seen by clerics and nature philosophers alike as a
+major step forward in the advancement of knowledge. Seemingly for
+the first time, observational science and received Biblical knowledge
+were in excellent accord. It was a history of catastrophe moreover,
+and the day of judgement could even be at hand.
+Whiston did not rest on his laurels, however. He thought the course
+of events simply requited a more matter-of-fact interpretation of the
+Bible, and he tended to play down the role played by Christ. Thus,
+although Jesus’s standing as a prophet could be secure, his divine
+attributes seemed again open to question. This was too much for
+most of Whiston’s contemporaries, who saw this as an attempted
+revival of the heretical doctrine known as Arianism, and the clerical
+establishment soon sought to distance itself from Whiston. In the
+meantime Newton, boxed in by these new implications of comets,
+took it upon himself to emphasize again what he now claimed to be
+the fundamental role of comets, namely their ability to deposit new
+material on the stars and planets and their potential for doing good
+to the Earth. The calm voice of reason was speaking. Scaremongering
+was naturally added to the list of Whiston’s faults and it was not long
+before he was dismissed from his post. The message was clear: the
+Earth was not to be disturbed.
+There is evidence that Newton was in fact well aware of the
+catastrophic potential of comet impacts. These did not, however, fit
+easily into his clockwork, predetermined universe, and he never
+publicly raised the issue. Whether we should accuse Newton of
+dissembling over the issue is perhaps uncertain but there is no
+question that many who followed Newton, in England especially,
+were soon eagerly endorsing the harmless role of comets, now that
+they were seen to obey mechanical laws and could no longer be
+regarded as signs from Heaven.
+The return of Halley’s Comet in due course, in accord with
+gravitational law, merely served to reinforce the new paradigm — as
+also did Lexell’s comet years later. This comet passed the Earth
+without exerting any noticeable change on the planet’s orbit. This
+was good evidence that comets were very much smaller than planets,
+thereby diminishing still further any lingering concern over their
+menace. By the end of the eighteenth century, then, Newton’s public
+view of comets had gained considerably in strength and we find
+William Herschel, George III’s astronomer, putting forward the
+opinion that comets were to be taken as interstellar objects purposely
+weaving their way among the stars including the Sun. with the
+specific intention of replenishing their fuel, and if necessary,
+planetary life as well. Newton’s theory had therefore developed
+rather successfully into an all-embracing cosmological view of some
+permanence and continuity.
+The new discoveries of meteorites and asteroids at the beginning of
+the nineteenth century might have disturbed the status quo by
+raising the spectre of celestial hazard. In the early decades of the
+nineteenth century also, Comet Biela was seen to break up and
+intense meteor showers appeared in 1832 and 1833. The latter
+shower, seen in North America, led to surprise, panic, terror and a
+widespread belief that the Day of Judgement was near. 70 There was
+at this time also a revival of catastrophist views especially among
+scientists of the French Academy.
+However, the revival was short-lived. The generally small sizes of the
+meteorites and the apparent confinement of the asteroids to a belt
+between the orbits of Mars and Jupiter must have allayed any fears.
+Further, by the middle of the nineteenth century, there was a
+growing realization that many comets in short-period orbits rapidly
+decayed under the influence of heat from the Sun into harmless
+streams of dust. Indeed it seemed that Nature was able to cooperate
+with Man by turning comets into dust which fed into the atmosphere
+to be witnessed always as shooting stars. Comets were thus harmless
+again and there was even a growing appreciation that they were
+probably not interstellar, as Herschel had supposed, but had always
+belonged to the Solar System.
+The Universe was thus beginning to seem again a rather cosy affair,
+the Sun pre-eminent in space and the Earth on a sort of eternal
+merrygo-round, with the good fortune to be entertained from time to
+time by firework displays against the background of more permanent
+stars. By the middle of the last century, therefore, Newton’s longestablished theory of comets appeared to have been vindicated:
+celestial portents had been well and truly tamed, and the benevolent
+cosmos of Aristotle and Paul had been reconstructed.
+Within about a hundred years of the period which we now call the
+Enlightenment, a situation had emerged in which simple
+mathematical laws (those of motion and gravity) appeared to govern
+absolutely the forces of Nature. Such a situation was unprecedented
+and was the basis of the singular confidence of nineteenth-century
+physical scientists and Victorian society generally. Admittedly, if one
+were to examine the details, there were difficulties with the
+mechanical aether which was supposed to transmit waves of light as
+well as the forces of gravity, but the solution of these particular
+difficulties was widely assumed to be just a matter of patience and
+time. The mechanisms involved were, it was thought, likely to be
+simple and could fall easily into place once there was a proper grasp
+of all the experimental phenomena. With our knowledge today of all
+the surprises yet in store and of all the great upheavals in physics
+that were to come, 71 it is difficult perhaps to grasp the real feeling of
+mastery over the forces of Nature that prevailed in the nineteenth
+century. This feeling also extended to the astronomical environment
+in view of the latter’s presumed harmless character arising from
+Newton’s theories. Thus, while gravity could be seen to pervade the
+universe and provide a smooth undercurrent of physical control over
+the behavior of matter, it was also possible so far as comets were
+concerned to draw a clear demarcation between the unharmed Earth
+on the one hand and the non-interventionist cosmos on the other.
+The impact of this revitalized Aristotelian arrangement was far
+greater than is often realized these days; for never before had there
+been created such an impression of security in relation to the
+astronomical surroundings. The new benevolent cosmos
+underwritten by Newtonian laws could even now be interpreted as
+the ultimate triumph of a tranquil Christian tradition over fiercer
+Judaic ones and those of presumed lessenlightened faiths.
+There are tempting parallels here between the British Empire at its
+zenith and its Hellenic predecessor. In both cases the world was, in
+some sense, under control. Certainly Victorian society had its
+chartist movement, an unpopular monarchy, great inequality of
+wealth and so on, whilst the Hellenic kingdoms were frequently at
+war with each other; nevertheless in both cases a sense of confident
+control over destiny seems to have pervaded these societies. And in
+both cases the universe was understood as a more or less noninterventionist backdrop to the affairs of the Earth. It may be no
+accident that, like its Hellenic predecessor, an empire at its zenith
+should have provided the setting within which the universe was to be
+so understood, and no suiprise that earth scientists and biologists
+now felt free to explain terrestrial and biological evolution
+unhindered by any thought of external interference.
+In like manner, historians and sociologists began to look to purely
+human factors dominating the course of historical events. The belief
+can also be found in classical times, being held for example by the
+ancient historian Thucydides. But now a sharp division of interest
+emerged between those who explored the human one, the latter
+secure in the knowledge that, apparently, any external influence had
+finally been removed. This division into ‘two cultures’ evidently has
+no valid foundation and there is some awareness that it causes
+substantial damage in the educational and economic spheres at least.
+What is not understood is that in addition, by supposing the affairs
+of Earth to take place in splendid isolation, in an irrelevant cosmos,
+the massive hazards which mankind may face from the astronomical
+environment have in effect been programmed out of public
+consciousness.
+Of course, this argument is a gross simplification and a partial
+caricature, but it is possible to wonder nevertheless whether our
+distorted view of history today has not unleashed on western
+civilization such a sense of superiority that we spurn the sky and put
+our future in peril. Certainly we cannot escape the fact that the loss
+of a cosmic perspective arising out of Newton’s fundamental thinking
+has now penetrated more or less every branch of learning to the
+extent that it goes largely unrecognized. For example, there is a
+widespread and mistaken view nowadays, especially among earth
+scientists and Biblical fundamentalists, that the issue of
+catastrophism in Earth history was decided at this epoch, the middle
+of the nineteenth century, by geologists and biologists debating the
+forces of natural selection and the nature of geological change. In
+fact, the uniformitarian framework had already been agreed by
+astronomers, as we have seen, and it had simply become a matter of
+convincing oneself that contemporary terrestrial processes were
+enough to explain evolutionary change, as revealed for example by
+the fossil record. Admittedly catastrophists like Buckland and Cuvier
+opposed the trend but the debate was short-lived. As it happens, the
+geologist Lyell and the natural historian Darwin, and their followers,
+took the lead over this issue because they were not particularly
+bound by any Biblical or physical conventions regarding the age of
+the Earth; but insofar as they needed support for the slow action of
+virtually undetectable forces, the physical scene had already been set.
+Over the century or so following the publication of Darwin’s theory of
+evolution, catastrophism lost all respectability. From time to time,
+attempts were made to revive what might be called ‘Biblical’
+catastrophism, the idea that astronomical disasters have occurred on
+Earth in historical times. One such attempt was published in 1823 by
+the German linguist Radlof (plate 12). This was 127 years after
+Whiston’s New Theory of the Earth, and 36 years before Darwin’s
+Origin of Species. At the time Radlof wrote, only four asteroids had
+been discovered in the large gap between the orbits of Mars and
+Jupiter, but it was widely thought that they were the remnants of a
+planet which had exploded and that numerous fragments would
+eventually be found. Radlof developed a hypothesis which was both
+consistent with the scientific knowledge of the day and also seemed
+to account for the ancient tales of catastrophe. According to him, a
+large planet in orbit between Mars and Jupiter was shattered by
+collision with a comet. One fragment, Phaethon, struck the Earth,
+giving rise to tales of celestial battle in which the monster Typhoeus
+was hurled to Earth. Another fragment became the planet Venus,
+undergoing close encounters with Mars on its way in to its present
+orbit.
+Sixty years later, world end traditions were again similarly
+interpreted by the Irish American politician Donnelly. His book
+Ragnarok: the Age of Fire and Gravel , published in 1883, created a
+considerable stir when it came out. In it, Donnely argued that the
+Earth had had a close encounter with a comet, which had left its
+mark in the form of extensive gravel and till deposits in America and
+Europe.
+The most famous (or notorious) of the ‘Biblical’ catastrophists, again
+in America, was Velikovsky, the author of Worlds in Collision, who in
+1950, from his studies of ancient tales, revived the old notion that a
+comet had shifted the Earth’s axis, and even resurrected Radlof s
+notion that the planet Venus had hurtled past the Earth around 1500
+BC, flinging Mars around in the process. There were differences of
+detail: whereas Radolf had Venus as a planetary fragment flung out
+of the asteroid belt, Velikovsky had it thrown out of Jupiter. Time,
+however, had marched on: what was perhaps seen as tenable in 1823
+was now patently absurd in 1950. The decline of catastrophism, as a
+serious proposition, was complete.
+Plate 12. Frontispiece of Radlof’s book, published in 1823.
+Hesperus and Phaethon, in which historical catastrophes were
+related to the fragmentation of an asteroid (by kind permission
+of the Royal Observatory, Edinburgh).
+It is interesting to note that the Biblical catastrophists were all
+‘outsiders’ of one sort or another. Radlof was at first regarded by his
+contemporaries as a brilliant linguist, but as his ideas departed more
+and more from the mainstream so he became more and more
+isolated, and he died in obscurity, even the date of his death being
+unknown. Donnelly was regarded as a talented orator and statesman,
+but he seemed unable to toe any party line for long and his
+increasingly maverick opinions ensured that his political career was
+ultimately a failure. Velikovsky was a psychiatrist who had studied
+under Freud, but whose incursion into the domain of astronomers
+was to prove an intellectual disaster.
+What is significant in the Velikovsky affair is not so much his
+scientific proposition, which is an easy target, as the vitriolic reaction
+of the American astronomical community to it. Little attempt was
+made by the critics to evaluate the historical information; that there
+might be more things in heaven and earth than was apparent in the
+astronomy of 1950, that Velikovsky and his predecessors might
+however dimly have been detecting the signal of real events in the
+noise of ancient myths, does not seem to have occurred to them:
+celestial portents had been more than just tamed, they had become
+unthinkable.
+We have now traced the labyrinthine story of mankind’s reactions to
+the events in the sky. We have seen how preoccupation with the sky,
+and fear of it, was an integral part of the earliest civilizations. There
+was a clear perception that catastrophe might from time to time be
+visited on the Earth from above. But as the gods faded from the
+zodiac there was, inevitably, a shift of perception. A downgrading of
+comets as celestial portents was both politically opportune, and
+philosophically necessary if the theory of a perfect sky was to hold.
+Of course, the linkages between religion, government and philosophy
+are part of the complex stuff of history, and our working out of the
+above view in earlier chapters is inevitably simplistic. But if there is a
+kernel of truth in the proposition that environments
+interact — natural, intellectual and political — then it cannot be
+avoided that exciting performances from the sky, occasionally
+associated with something like a nuclear impact, will generate a
+particular view of the world, and that the decay of these
+performances will leave that world-view high and dry. Likewise, if
+there is a kernel of truth in the proposition that meteors were once
+frequently recognized demons, with a not wholly unpredictable role
+to play in the incidence of weather and disease as well as in the
+survival of ‘chosen people’, then, nor can it be avoided that a
+particular, seemingly plausible, view of the world will in due course
+be seen as dealing only in natural magic and occult virtues. The
+surprise, of course, is that there may be more realism in the hidden
+forces of medieval magic than there may be in some of the physical
+concepts now advanced within a modern scientific rationale.
+We have seen how an ancient belief in swarms of wandering bodies
+that would sometimes emerge to strike the Earth gave way in postAristotelian times to the nonsensical idea that planetary
+conjunctions were of significance for life on Earth. Modern
+newspapers, presumably guided by editors with a preponderantly
+classical education, sublimely unaware of both earlier and later
+developments, still persist in presenting this perverse from of
+astrology, involving horoscopes, to the twentieth-century public. We
+have seen how in the eyes of Christian apologists determined to root
+out apocalypse, comets ceased to be material objects and became
+celestial signs free for the expert to interpret. Several times over the
+last two millennia, phenomena from the sky were seen to threaten
+world-end: once at the beginning of the present era (2000 BC-AD
+100), again during the first millennium (AD 350-450, AD 550-650,
+AD 800-1100) and then again, albeit less impressively, perhaps three
+times during the present one (around AD 1350-1450, AD 1650 and
+the early decades of the last century). Several times, the apparent
+threat lingered for centuries, paradoxically adding weight to the
+Christian myth. Then, towards the end of the medieval period, as the
+Christian logic appeared to falter, there was an opportunity to
+reassess the question of the interaction between the Earth and its
+environment. But the Christian grip was strong and Newton, like
+Aristotle, had his subtle vision of perfection which carried great
+influence. He claimed not to ‘deal in conjecture’; and the way
+forward, perceived as such to the present day, was to build on the
+secure mathematical foundation of his laws. We have seen how his
+revelations of cosmic security and cosmic law were to be the lynchpins around which twentieth-century science revolved.
+But now, the space age has arrived, riding on scientific laws, and the
+importance of past impact cratering on planetary surfaces has been
+recognized. The extent of the asteroidal population is also now being
+revealed. These and other discoveries are now being put together as
+cause and effect. Most the evidence, as we shall see, indicates that
+asteroids are probably defunct cometary material and that their
+supply into the central region of the Solar System is maintained by
+the intermittent flux of giant comets from a comet cloud surrounding
+the planetary system. 72 The implication is that swarms of asteroids
+periodically exist in Earth-crossing orbits and that these are
+responsible for producing an erratic sequence of cosmic winters
+sudden coolings of the globe.
+There have in fact probably been at least two successful and several
+more aborted cosmic winters during the last five thousand years. The
+strength and epoch of the next such global cooling cannot be
+calculated at the moment because the celestial body or bodies likely
+to cause it has (or have) not yet been detected by astronomers. In
+fact there is little interest in a search, although the effects of such an
+encounter may be broadly as horrific as those of a nuclear war. As
+always, the unthinkable becomes the excuse for not looking.
+Some lemmings, a story has it, rush over cliffs. Others, with the
+successful breeding of two thousand years, just sit on a globe and
+wait.
