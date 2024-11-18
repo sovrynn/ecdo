@@ -1,3 +1,24 @@
+# GPT Summary: Table of Contents
+
+- [Summary of Introduction - *Slave Species of God* by Michael Tellinger](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#summary-of-introduction---slave-species-of-god-by-michael-tellinger)
+- [Summary of Chapter 1: **Animal Behaviour**](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#summary-of-chapter--animal-behaviour)
+- [Summary of Chapter 2: The Cell](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#summary-of-chapter--the-cell)
+- [Chapter 3 Summary: The Brain](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#chapter--summary-the-brain)
+- [Chapter 4: A Journey Back in Time](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#chapter--a-journey-back-in-time)
+- [Summary of Chapter 5: The Genome - Human Software](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#summary-of-chapter--the-genome---human-software)
+- [Summary of Chapter 6: Panspermia](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#summary-of-chapter--panspermia)
+- [Chapter 7 Summary: Planet X](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#chapter--summary-planet-x)
+- [Chapter 8: Human Nature](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#chapter--human-nature)
+- [Summary of Chapter 9: Gold - The Endless Obsession](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#summary-of-chapter--gold---the-endless-obsession)
+- [Summary of Chapter 10: Instant Civilisation and Sumer](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#summary-of-chapter--instant-civilisation-and-sumer)
+- [Chapter 11 Summary: Wrath of God](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#chapter--summary-wrath-of-god)
+- [Chapter 12: Slaves and Spies](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#chapter--slaves-and-spies)
+- [Summary of Chapter 13: World Religions - The Great Slave Maker](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#summary-of-chapter--world-religions---the-great-slave-maker)
+- [Summary of Chapter 14: Myths & Lies - The Living Gods](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#summary-of-chapter--myths--lies---the-living-gods)
+- [Chapter 15 Summary: The Mystery of Jesus and Other Prophets](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#chapter--summary-the-mystery-of-jesus-and-other-prophets)
+- [Chapter 16: Story of Humankind](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#chapter--story-of-humankind)
+- [Summary of Chapter 17: Food for Thought - In Bite-Size Chunks](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/tellinger-michael/slave-species-gpt-summary.md#summary-of-chapter--food-for-thought---in-bite-size-chunks)
+
 # Summary of Introduction - *Slave Species of God* by Michael Tellinger
 
 In *Slave Species of God*, Michael Tellinger sets out to explore the fundamental questions of human existence: **Who are we?**, **How did we get here?**, and **Why are we here?** Despite significant scientific advancements, Tellinger argues that humanity remains ignorant of its true origins, plagued by arrogance and misguided beliefs. He critiques religious dogma and claims that much of the narrative found in the Bible is derived from earlier, more detailed ancient clay tablets.

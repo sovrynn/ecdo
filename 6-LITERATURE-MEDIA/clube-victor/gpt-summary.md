@@ -1,6 +1,26 @@
-# The Cosmic Winter GPT Summary
+# GPT Summary: Table of Contents
 
-## Prologue
+- [Prologue](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#prologue)
+- [Chapter 1 Summary: "The Labyrinth of History"](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#chapter--summary-the-labyrinth-of-history)
+- [Chapter 2 Summary: Forces of Evil](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#chapter--summary-forces-of-evil)
+- [Chapter 3: The Heraclids and the Collapse of Early Civilizations](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#chapter--the-heraclids-and-the-collapse-of-early-civilizations)
+- [Chapter 4 Summary: The Sky Gods](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#chapter--summary-the-sky-gods)
+- [Chapter 5 Summary: Renaissance](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#chapter--summary-renaissance)
+- [Summary of Chapter 6 — Enlightenment](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#summary-of-chapter---enlightenment)
+- [Chapter 7 Summary: Doomsday](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#chapter--summary-doomsday)
+- [Summary of Chapter 8: Felony Compounded](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#summary-of-chapter--felony-compounded)
+- [Chapter 9: Celestial Mechanics](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#chapter--celestial-mechanics)
+- [Chapter 10 Summary: Cosmic Swarms](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#chapter--summary-cosmic-swarms)
+- [Chapter 11 Summary: Close Encounters](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#chapter--summary-close-encounters)
+- [Summary of Chapter 12 — "Ancient Echoes"](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#summary-of-chapter---ancient-echoes)
+- [Summary of Chapter 13: "World Ends"](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#summary-of-chapter--world-ends)
+- [Summary of Chapter 14: Galactic Imprint](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#summary-of-chapter--galactic-imprint)
+- [Chapter 15 Summary: Terrestrial Catastrophism](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#chapter--summary-terrestrial-catastrophism)
+- [Chapter 16 Summary: "The Naked Ape"](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#chapter--summary-the-naked-ape)
+- [Summary of Chapter 17: A Risk Assessment](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#summary-of-chapter--a-risk-assessment)
+- [Summary of the Epilogue](https://github.com/sovrynn/ecdo/6-LITERATURE-MEDIA/clube-victor/gpt-summary.md#summary-of-the-epilogue)
+
+# Prologue
 
 The prologue describes a catastrophic vision of Earth's future, highlighting a recurring cosmic threat: a swarm of space debris that intersects Earth's orbit every few thousand years. This debris causes devastating impacts, akin to nuclear explosions, leading to widespread destruction across the planet. Cities are obliterated, fires spread uncontrollably, and seismic events destabilize the environment. The aftermath includes a "cosmic winter," characterized by blocked sunlight, plummeting temperatures, and a new ice age. Society collapses as civilization regresses into survivalist groups, with infrastructure and agriculture destroyed.
 
