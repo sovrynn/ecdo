@@ -1,5 +1,7 @@
 # Script
 
+Requirement is that all of, the table of content links you want to generate, are in H1 Markdown headers, and there are no other headers.
+
 ## Prompt
 
 Write a python script that does the following. It should take one input arg, a relative filename.

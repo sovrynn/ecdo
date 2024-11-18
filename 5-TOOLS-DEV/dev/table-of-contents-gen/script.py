@@ -26,8 +26,8 @@ def main():
         print("Could not find 'ecdo' folder in the directory hierarchy.")
         sys.exit(1)
 
-    parent_of_ecdo = os.path.dirname(ecdo_path)
-    X = os.path.relpath(file_path, parent_of_ecdo).replace(os.sep, '/')
+    # Compute path relative to 'ecdo' directory
+    X_relative_to_ecdo = os.path.relpath(file_path, ecdo_path).replace(os.sep, '/')
 
     headers = []
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -43,7 +43,7 @@ def main():
         header_text_processed = re.sub(r'[^A-Za-z\s-]', '', header_text)
         header_text_processed = header_text_processed.lower()
         Y = header_text_processed.replace(' ', '-')
-        link_url = f"https://github.com/sovrynn/{X}#{Y}"
+        link_url = f"https://github.com/sovrynn/ecdo/blob/master/{X_relative_to_ecdo}#{Y}"
         link_text = header_text
         markdown_link = f"[{link_text}]({link_url})"
         markdown_links.append(markdown_link)
