@@ -11,7 +11,7 @@ High-likelihood ECDO cataclysms:
 - ~9700 BC, end of Younger Dryas, Atlantis
 
 High potential:
-- 7400 BC, Tollman impact hypothesis, sinking of Dvaravati
+- 7400 BC, Tollman impact hypothesis, sinking of Dvaravati, Tower of Jericho buried
 
 Unlikely:
 - 550 AD, Baillie comet debris hypothesis, tree ring anomalies (might genuinely be a comet debris event, see paper in `biology`)
