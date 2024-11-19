@@ -1,8 +1,8 @@
-# Channelled Scablands
+# Channeled Scablands
 
 ## Scablands flood deposits
 
-The Channelled Scablands. 
+The Channeled Scablands. 
 
 Evidence of a deluge which has been put on ice. A widely accepted thesis, published exactly 100 years after Reliquoæ Diluvianæ, relegated to the deepfreeze along with every other item of non-uniforitarium evidence. Giant Current Ripples 60m wide and 2m high, created by water flows 50m deep, which carried boulders the size of churches kilometers across the landscape. Not once, but at least five times.
 
@@ -23,9 +23,9 @@ https://www.geo.umass.edu/climate/papers2/Baker_retrospective_2009.pdf
 
 Video: https://youtu.be/NYA6GF1uAa8
 
-### Revisiting the Channelled Scablands flood...
+### Revisiting the Channeled Scablands flood...
 
-Revisiting the Channelled Scablands flood deposit sequence through the lens of the 3,700-year cycle. The "Set S" tephta is an ash layer from Mt. Saint Helens and is a temporal marker for the termination of the Younger Dryas. [1] https://t.co/lKpgDHwlWx [2] https://t.co/yE2ML0rhdX… https://t.co/VPioThnB8S https://t.co/7nhRmPhhYO
+Revisiting the Channeled Scablands flood deposit sequence through the lens of the 3,700-year cycle. The "Set S" tephta is an ash layer from Mt. Saint Helens and is a temporal marker for the termination of the Younger Dryas. [1] https://t.co/lKpgDHwlWx [2] https://t.co/yE2ML0rhdX… https://t.co/VPioThnB8S https://t.co/7nhRmPhhYO
 
 ![](img/1827745832034054629-GV1yFIzXoAAEcKB.jpg)
 
@@ -37,9 +37,9 @@ Revisiting the Channelled Scablands flood deposit sequence through the lens of t
 
 ![](img/1807885650550571152-GRblxiCaYAE9Rnc.jpg)
 
-### The Channelled Scablands. Evidence of...
+### The Channeled Scablands. Evidence of...
 
-The Channelled Scablands. Evidence of a deluge which has been put on ice. A widely accepted thesis, published exactly 100 years after Reliquoæ Diluvianæ, relegated to the deepfreeze along with every other item of non-uniforitarium evidence. https://t.co/lKpgDHwlWx https://t.co/OqKe6brzU4
+The Channeled Scablands. Evidence of a deluge which has been put on ice. A widely accepted thesis, published exactly 100 years after Reliquoæ Diluvianæ, relegated to the deepfreeze along with every other item of non-uniforitarium evidence. https://t.co/lKpgDHwlWx https://t.co/OqKe6brzU4
 
 ![](img/1807412035807781120-GRU159dXMAA-6EB.png)
 

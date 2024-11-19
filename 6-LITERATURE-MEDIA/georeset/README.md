@@ -6,7 +6,7 @@ The basic idea is that geological features such as mountains are not created by 
 
 He estimates waves of 10-15 km or more in height from today's sea level.
 
-![](img/mammoth.jpg)
+![](img/georeset-mammoth.jpg)
 
 Believes these late mammoths were frozen in after event conditions - "instant" drop of temperature.
 

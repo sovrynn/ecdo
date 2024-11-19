@@ -22,6 +22,10 @@ Sulawesi used to be called Celebes. It appears to have quite a rich deluge mytho
 
 ![](img/1803498500312768725-GQdQUOKXYAAGBbd.jpg)
 
+## Tibet [1]
+
+"Tibet was almost totally inundated, until the god Gya took compassion on the survivors, drew off the waters through Bengal, and sent teachers to civilize the people, who until then had been little better than monkeys. Those people repopulated the land."
+
 ## Citations
 
 1.  https://talkorigins.org/faqs/flood-myths.html#Asia

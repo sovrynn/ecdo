@@ -22,12 +22,6 @@ The oceanic displacement for Asia, particularly east Asia, begins with its land 
 
 The Pacific Ocean, ranging from 4-6km deep, is going to get displaced onto a coastline ranging from -2000m to 0m in height. Depending on the rotation speed and the chokepoint topography, you could see very high water surges.
 
-## Saltwater Lakes
-
-Saltwater lakes in red, freshwater lakes in green, and brackish lakes in orange.
-
-![](img/asia-lakes.jpg)
-
 ## Tectonic Plates
 
 Asia has one of the most fractured tectonic plate regions in the world.

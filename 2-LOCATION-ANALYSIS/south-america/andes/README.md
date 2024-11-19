@@ -10,18 +10,6 @@ The Andes have to deal with the Pacific hitting them from the west at speeds pro
 
 Mountainous regions like the Andes will be less susceptible to water, but will be dangerous due to falling debris and renewed orogeny (mountain building).
 
-## Uyuni Salt Flat (3656m) [2]
-
-Coords (-20, -67.3). Supposedly part of a large former saline lake in the Altiplano of Bolivia - Lake Tauca.
-
-![](img/uyuni.jpg)
-
-Viz from -500m to 4000m:
-
-![](img/uyuni2.png)
-
-Significant ocean isn't directly on the rotation path, but as you can see, the land in front of it on the rotation path is a flat plain offering little resistance for water. It wouldn't take much of an extra jolt to splash the water above the Andes. Alternatively, it may have been inundated on a potential quick rotation from S2 back to S1.
-
 ## Toctuca
 
 ![](img/toctuca1.jpg)
@@ -35,5 +23,5 @@ Richest spot appears to be almost exactly near Toctuca.
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
-2. https://en.wikipedia.org/wiki/Salar_de_Uyuni
+2. 
 3. https://en.wikipedia.org/wiki/Lake_Tauca#Lake_Minchin

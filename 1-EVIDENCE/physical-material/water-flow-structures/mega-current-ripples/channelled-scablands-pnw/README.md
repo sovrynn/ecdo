@@ -2,7 +2,7 @@
 
 ## These GCR's (Giant Current Ripples)...
 
-These GCR's (Giant Current Ripples) in the Channelled Scabland (WA) are up to 60m wide, and stand 2m tall. 47°25'25.18" N 118°59'41.73" W https://t.co/3GAGFvDHDN https://t.co/lSn5Yl2b8A
+These GCR's (Giant Current Ripples) in the Channeled Scabland (WA) are up to 60m wide, and stand 2m tall. 47°25'25.18" N 118°59'41.73" W https://t.co/3GAGFvDHDN https://t.co/lSn5Yl2b8A
 
 ![](img/1807487002453127303-GRV6WXSWAAAdNMa.jpg)
 
