@@ -1,6 +1,6 @@
 # 7400 BC Event
 
-Pretty standard set of evidence here. Nothing extremely compelling. Perhaps I should put more stock in the Dvaravati dating.
+One potential cataclysm account, an excellent archaeological piece of evidence in the burying of the Tower of Jericho, and a standard set of physical markers leads me to believe there is a strong potential of a past ECDO event around this date.
 
 Cataclysm accounts:
 - 7400 BC: Sinking of Dvaravati, Rohini Sakata Bheda cosmic alignment
