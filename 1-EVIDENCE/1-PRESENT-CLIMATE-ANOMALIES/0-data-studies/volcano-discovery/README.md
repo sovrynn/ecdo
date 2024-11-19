@@ -4,6 +4,8 @@ Source: https://www.volcanodiscovery.com/volcanoes/eruptions/statistics/2008.htm
 
 So they have two sources for volcano reports, "News" and "VAAC" (Volcanic Ash Advisory Center).
 
+From what I can tell the data is sparse and usually doesn't span over very many years, making it not-that-useful. The progression from no VAAC reporting to more and more VAAC reporting also indicates that the data may be skewed from more extensive reporting and data-gathering efforts in recent years compared to older years.
+
 # Prompt: parse from html
 
 I want to parse some online table data into csv files.
