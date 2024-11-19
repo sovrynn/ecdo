@@ -42,6 +42,8 @@ Jericho was again destroyed at the end of the Middle Bronze Age. The ash of the 
 
 Hard copy here.
 
+![](img/jericho-tower.jpg)
+
 https://web.archive.org/web/20180719110651id_/https://dash.harvard.edu/bitstream/handle/1/12211567/2742981.pdf?sequence=2
 
 ## Citations
