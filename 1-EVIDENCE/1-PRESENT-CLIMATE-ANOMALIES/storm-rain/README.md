@@ -37,10 +37,8 @@ See 1813156539831656464-bTThM8oEoy6TGkQF.mp4.
 
 Where did all the water go? Further examples of altered rainfall data from 16 different cities around the world. Unusually high rainfall records for the past three years have been erased from the record.
 
-![](img/rainfall1.jpg)
-![](img/rainfall2.jpg)
-
 ![](img/anti-diluvian1.jpg)
+![](img/anti-diluvian2.jpg)
 
 High resolution images available here:
 - https://nobulart.com/media/anti-diluvian-1.jpg
