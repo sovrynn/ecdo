@@ -8,10 +8,8 @@ Almost certainly ECDO-like cataclysms:
 
 High-likelihood ECDO cataclysms:
 - ~5500 BC, Biblical Creation, 6200 BC climate change event, black sea refilling
-- ~9700 BC, end of Younger Dryas, Atlantis
-
-High potential:
 - 7400 BC, Tollman impact hypothesis, sinking of Dvaravati, Tower of Jericho buried
+- ~9700 BC, end of Younger Dryas, Atlantis
 
 Unlikely:
 - 550 AD, Baillie comet debris hypothesis, tree ring anomalies (might genuinely be a comet debris event, see paper in `biology`)
