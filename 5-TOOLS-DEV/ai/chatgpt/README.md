@@ -2,7 +2,7 @@
 
 ## Contents
 
-- `gen1.py`: Script for accumulating repo content into textual input files for use in making custom GPTs.
+- `gen-repo-text.py`: Script for accumulating repo content into textual input files for use in making custom GPTs.
 - `prompts.md`: Various ChatGPT ECDO-related prompts.
 
 ## ChatGPT File uploads [1]
