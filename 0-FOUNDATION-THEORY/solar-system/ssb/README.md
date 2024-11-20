@@ -1,5 +1,13 @@
 # Planetary Harmonics
 
+## Correlation with sunspot activity
+
+Interestingly, the SSB movements of the Sun seem to be correlated with solar activity. When the Sun is on a wide arc around the SSB, that's when it has a heightened period of solar activity, and when it's a tight arc, there is low solar activity.
+
+![](img/1824455551939662016-GVHDXVvX0AA6gdb.png)
+![](img/solar-cycle1.jpg)
+![](img/solar-cycle2.jpg)
+
 ## Planetary effects on the Sun's activity
 
 Landscheidt (see `LITERATURE-MEDIA/landscheidt`) proposes that the planets affect the Sun's activity. Particularly, the positions of the gas giants (Jupiter, Uranus, Neptune, Saturn), which are the planets with the most mass, determine the Sun's trajectory around the center of mass of the solar system:
