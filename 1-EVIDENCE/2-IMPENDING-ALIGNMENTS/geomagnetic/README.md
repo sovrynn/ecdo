@@ -2,10 +2,10 @@
 
 ## De Santis, Qamili - Geosystemics: a systemic view of the Earth’s magnetic field and possibilities for an imminent geomagnetic transition (Hard copy here)
 
-![](img/desantis1.png)
+<!-- ![](img/desantis1.png)
 ![](img/desantis2.png)
 ![](img/desantis3.png)
-![](img/desantis4.png)
+![](img/desantis4.png) -->
 
 An interesting question concerns with the best temporal function that fits the SAA surface area change in time. We will see that this function follows the typical behaviour in time of critical systems, i.e. those complex systems approaching a critical transition. The deformation (or energy release) y(t) of a material that approaches a failure satisfies the following empirical equation (Voight, 1989): y ayα =ɺɺ ɺ (12) where a and α are two empirical constants. The latter is an exponent that measures the degree of nonlinearity and normally takes values between 1 and 2. We can extend the concept of the failure of a material to critical systems approaching their tipping point, i.e. the time when the system undergoes a dramatic (usually abrupt) change of its dynamical properties. In this way, eq. (12) assumes a more universal importance. Indeed, the solutions of equation (12) have been largely applied for the prediction of different critical systems like volcanic eruptions (Voight, 1988), earthquake main failure (Bufe and Varnes, 1993), financial crashes (Sornette, 2003), magnetic storms (Balasis et al., 2011), etcetera.
 
