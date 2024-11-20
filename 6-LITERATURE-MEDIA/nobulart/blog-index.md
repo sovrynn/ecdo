@@ -7,6 +7,7 @@
   - The article delves into predictions and prophecies about massive Earth changes, involving natural disasters like earthquakes, volcanic eruptions, and floods. These transformations are said to be part of a natural cosmic cycle, potentially worsened by human intervention. The post emphasizes that humanity’s collective choices, particularly around consciousness and behavior, could influence the severity of these changes.
 - [The Flip of the Earth](https://nobulart.com/the-flip-of-the-earth/)  
   - This article investigates the possibility of a sudden geographic or magnetic pole shift on Earth. Such an event could lead to massive natural disasters, such as earthquakes and floods, disrupting life across the globe. The post draws from historical records, geological evidence, and scientific theories to suggest that this pole shift may be overdue, and when it happens, it could dramatically alter human civilization.
+  - Ken White. Very good article
 - [The Perfect Storm](https://nobulart.com/the-perfect-storm/)  
   - The article presents a theory about multiple crises converging to create a global catastrophe, dubbed "The Perfect Storm." It combines discussions on economic instability, climate disasters, and societal collapse, suggesting that these events are not random but orchestrated by global elites aiming for a "Great Reset." The post implies that these elites seek to reshape world governance, economics, and societal structures in the aftermath of the storm.
 - [Wrath of the Sun](https://nobulart.com/wrath-of-the-sun/)  
@@ -35,6 +36,7 @@
   - This post wraps up the "Adam and Eve" series, focusing on the aftermath of global cataclysms. It discusses the CIA's classified involvement in hiding knowledge about cyclical planetary disasters and the implications for human survival. The article suggests that humanity has faced and will continue to face these cataclysmic resets.
 - [Aftermath Part 1 – Our Precursor](https://nobulart.com/aftermath-our-precursor/)  
   - This post discusses the precursor years leading to catastrophic events like those described in "The Adam and Eve Story." It posits that cataclysms drastically impact evolution and human history, leaving only a small fraction of life on Earth. The author also touches on the influence of Jesus' teachings and the physiological effects of magnetic fields on humans, drawing connections between spirituality, science, and disaster preparedness.
+  - This is where they had the mice experiment
 - [Aftermath Part 2 – Evolution](https://nobulart.com/aftermath-evolution/)  
   - This article is the second part of the "Aftermath" series, exploring how cataclysms affect evolution. The post highlights the controversy surrounding the theory of evolution, specifically criticizing the mutation hypothesis. It suggests that mutational offspring often degrade rather than improve, challenging the notion that humans evolved through upgrading mutations.
 - [Aftermath Part 3 – Jesus as History](https://nobulart.com/aftermath-jesus-as-history/)  

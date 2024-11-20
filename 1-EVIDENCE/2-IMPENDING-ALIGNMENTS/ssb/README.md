@@ -12,6 +12,8 @@ Interestingly, the SSB movements of the Sun seem to be correlated with solar act
 
 ![](img/ssb-sunspot.svg)
 
+![](img/1799105814235660707-GPe1A9qXcAASHB1.png)
+
 ## Citations
 
 1. Craig Stone
