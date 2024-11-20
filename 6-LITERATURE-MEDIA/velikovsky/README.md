@@ -1,8 +1,10 @@
 # Velikovsky
 
-Worlds in Collision, Earth in Upheaval
+Worlds in Collision, Earth in Upheaval, Mankind in Amnesia
 
 Earth in Upheaval seems more scientific, whereas Worlds in Collision more a compilation of cataclysm accounts.
+
+Mankind in Amnesia: https://archive.org/details/mankindinamnesia0000veli
 
 ## Page markers
 

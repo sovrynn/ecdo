@@ -36,6 +36,14 @@ Other:
 - Cursor AI software development: https://www.cursor.com/
 - Afforai - AI Research assistant and chatbot: https://afforai.com
 
+## Open Source
+
+- Llama 3.1
+- best coding model (Deepseek)
+- best open-source Multimodal language model (Qwen2-VL)
+	- Qwen2-VL 72B: https://huggingface.co/Qwen/Qwen2-VL-72B-Instruct
+- two of best open-source anything models (Yi-lightning and also Qwen again)
+
 ## Sample ECDO v1 textual model response
 
 Prompt: Why does the ECDO happen?
