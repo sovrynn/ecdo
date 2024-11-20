@@ -38,3 +38,9 @@ Yakimochi wall.
 ## Madeira (West Tip, Tidepool)
 
 ![](img/madeira.jpg)
+
+## New Mexico, Gila Cliff Dwellings National Monument
+
+![](img/new-mexico1.jpeg)
+![](img/new-mexico2.jpeg)
+![](img/new-mexico3.jpeg)
