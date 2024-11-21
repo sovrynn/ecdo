@@ -1,5 +1,7 @@
 # Magnetic North Pole Wander
 
+![](img/npw-wikipedia.png)
+
 ## North Magnetic Pole and Planetary Harmonics (1600-2024) [1]
 
 https://github.com/user-attachments/assets/7e944cb3-9ccd-45a8-a217-8136d9bc2465
