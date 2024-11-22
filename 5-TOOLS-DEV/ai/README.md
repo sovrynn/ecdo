@@ -44,6 +44,8 @@ Other:
 	- Qwen2-VL 72B: https://huggingface.co/Qwen/Qwen2-VL-72B-Instruct
 - two of best open-source anything models (Yi-lightning and also Qwen again)
 
+Deepseek has recently announced a model that outperforms o1-preview, open source. That'll be wonderful to check out.
+
 ## Sample ECDO v1 textual model response
 
 Prompt: Why does the ECDO happen?
