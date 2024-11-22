@@ -1,3 +1,16 @@
+# GPT Summary: Table of Contents
+
+- [Summary of "Seneca and His World"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/senecae/natural-questions-gpt-summary.md#summary-of-seneca-and-his-world)
+- [Summary of the Translator's Introduction to "Natural Questions"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/senecae/natural-questions-gpt-summary.md#summary-of-the-translators-introduction-to-natural-questions)
+- [Summary of "On Terrestrial Waters" (Book 3 of Natural Questions)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/senecae/natural-questions-gpt-summary.md#summary-of-on-terrestrial-waters-book-3-of-natural-questions)
+- [Summary of Book 4a (Originally Book 2) - On the Nile](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/senecae/natural-questions-gpt-summary.md#summary-of-book-4a-originally-book-2---on-the-nile)
+- [Comprehensive Summary of Book 4b: On Clouds, Rain, Hail, and Snow](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/senecae/natural-questions-gpt-summary.md#comprehensive-summary-of-book-4b-on-clouds-rain-hail-and-snow)
+- [Summary of Book 5: On Winds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/senecae/natural-questions-gpt-summary.md#summary-of-book-5-on-winds)
+- [Summary of "On Earthquakes" (Book 6 of Natural Questions by Seneca)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/senecae/natural-questions-gpt-summary.md#summary-of-on-earthquakes-book-6-of-natural-questions-by-seneca)
+- [Summary of Book 7 (Originally Book 6) - On Comets](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/senecae/natural-questions-gpt-summary.md#summary-of-book-7-originally-book-6---on-comets)
+- [Comprehensive Summary of Book 8: On Fires and Celestial Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/senecae/natural-questions-gpt-summary.md#comprehensive-summary-of-book-8-on-fires-and-celestial-phenomena)
+- [Summary of Book 2 (Originally Book 8): On Lightning and Thunder](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/senecae/natural-questions-gpt-summary.md#summary-of-book-2-originally-book-8-on-lightning-and-thunder)
+
 # Summary of "Seneca and His World"
 
 ## 1. **Life and Death of Seneca**
