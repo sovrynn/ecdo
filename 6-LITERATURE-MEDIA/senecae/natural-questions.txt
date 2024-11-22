@@ -1,0 +1,1638 @@
+Notes
+Introduction
+1. Book 4, which in some manuscripts and in the early printed editions
+is presented as a single book, in fact contains the fragments of two separate,
+incomplete books: the beginning of 4a and the end of 4b.
+2. The main evidence for the original order is as follows: the archetype of
+the manuscripts had the order 4b, 5, 6, 7, 1, 2, 3, 4a; some early manuscripts
+number book 4b as the third book, book 5 as the fourth, and so on; and several
+features of the preface to book 3 suggest that it was originally the first book.
+Hence it appears that 3 and 4a were originally the first and second books, but
+became physically detached and displaced after a manuscript broke in two,
+resulting in the loss of parts of books 4a and 4b. See Codoñer Merino 1979,
+xii–xxi; Hine 1981, 4–23; Gauly 2004, 53–67.
+3. See 3.1.2; 3.26.1; 4a.1.1; 5.14.4; 1.15.4.
+4. The surviving part of book 4b shows that clouds and rain had been
+discussed in the lost first part.
+5. In Stoicism, the “world” (kosmos, mundus) consists of the celestial sphere
+with the fixed stars; the planets, sun, and moon circling below them; and the
+earth at the center. The “universe” or “whole” also includes the infinite void
+surrounding the world (SVF, 2.522–5). Seneca does not always observe this
+distinction, for he can use the words world and universe as synonyms (2.4.2)
+and can talk about the “whole world” (5.17.5).
+6. In psychological contexts, however, I translate “spirits.”
+7. On breath, see LS, 1.278, 280–89, 292–94; CCS, 134–36, 185–86. Different
+Stoics emphasized its closeness to fire or to air, and Seneca is in the latter
+camp. Again, he does not always observe the niceties of Stoic terminology, for
+in 2.6–11 he sometimes uses “air” interchangeably with “breath.”
+8. See SVF, 2.633–45; LS, 1.275–76, 319.
+9. On ancient meteorology, see Taub 2003.
+10. On the sources, see Hall 1977; Setaioli 1988, 375–452; Gross 1989.
+11. In the Meteorologica and elsewhere, Aristotle characteristically begins
+discussion of a new topic with consideration of the views of his predecessors;
+see Freeland 1990.
+12. Seneca’s expectations in book 7 were fulfilled by Newton, who first
+explained the orbits of comets.
+13. Book 7 refers several times to a comet that appeared in Nero’s reign:
+this must be the one known to have appeared in 60 ce, and Seneca must have
+193no t e s t o page s 1 1– 2 7
+194
+been writing book 7 before the appearance of another comet in 64, or else he
+would surely have mentioned it. Book 6 opens with a description of a recent
+earthquake in Campania, during the consulship of Regulus and Verginius,
+that is, 63. However, Tacitus dates a major earthquake in Campania to 62.
+There cannot have been two major earthquakes, for Seneca is emphatic that
+Campania had never been seriously affected by earthquakes before the one he
+records. So it seems that either Tacitus or Seneca is mistaken about the date.
+The problem has been much debated, but in the translation I accept the view
+that the consular date is interpolated in Seneca’s manuscripts. See Hine 2006,
+68–72, with earlier bibliography.
+14. See Hine 2006, 63–67. Some scholars, notably Gauly (2004), have ar-
+gued that there is implicit criticism of the emperor elsewhere in the Natural
+Questions, where Seneca attacks vices that later writers associate with Nero.
+But it is difficult to be certain that such innuendo is present, and in any case it
+is compatible with due praise being given to Nero elsewhere.
+15. See LS, 1.232–33, 259–66.
+16. See Berno 2003; Williams 2005a; 2005b; 2006; 2007.
+17. On the power of the writing, see Hutchinson 1993, 128–31, 234–39,
+284–87.
+18. Of course we cannot assert this of books 4a and 4b, which are
+incomplete.
+19. Obeli († . . . †) enclose Latin that is incurably corrupt in the
+manuscripts.
+20. The second half of the book is lost in our manuscripts, but some indica-
+tion of its contents may be found in John the Lydian; see pp. 63–64.
+21. The first part of the book is lost in our manuscripts, but references in
+the surviving later part show that clouds and rain had been discussed, and the
+discussion of hail and snow is already in full swing when our texts begin.
+Book 3 [originally Book 1]
+The title of this book is supplied from 3.1.1. Angle brackets indicate an
+editorial insertion.
+1. It is uncertain who this poet is. He is now generally supposed to be the
+Vagellius quoted at 6.2.9 (Vagellius frag. 2 Buechner = 2 Courtney), but earlier
+guesses include Lucilius, Lucan, and Nero.
+2. That is, after the destruction of Carthage by the Romans in 146 Bce.
+3. That is, to study ethics.
+4. That is, good and bad fortune.
+5. That is, being prepared to die at any moment.
+6. “Quirites” was the traditional title of the Roman people, still used in Sen-
+eca’s days in formal contexts. Seneca contrasts Roman civic law with the law195
+notes to pages 27 –33
+of nature. The Stoics believed that the world is controlled by divine reason and
+so conforms to universal laws (see, e.g., LS, 1:267, 327); in Seneca compare, for
+example, 3.15.3; 3.16.4; 3.29.3; 1.praef.3; 2.35.2; see also Inwood 2005, 224–48.
+7. The Stoics said that only the wise man is free; vice is a form of slavery.
+See SVF 3.589–603 (cited by volume number and passage numbers).
+8. That is, “Why am I exhausting myself with farming, or in public life?”
+9. Some think this refers to what has been said above, not to what
+follows.
+10. That is, rivers, springs, lakes, and so forth, as opposed to “celestial” wa-
+ters, that is, clouds, rain, snow, and so forth.
+11. Ovid Met. 3.407. Seneca uses the quotation to represent the theory that
+rivers come from underground via springs.
+12. Virgil Aen. 1.245–6, from a passage referring to the River Timavus, near
+Trieste, a very short but fast-flowing river whose waters were said in antiquity
+to taste of salt. The quotation represents the theory that rivers ultimately get
+their water from the sea.
+13. Here and at 4a.praef.9 Seneca actually addresses Lucilius by his cogno-
+men Iunior: his full name was Gaius Lucilius Iunior.
+14. Lucilius Iunior frag. 4 Buechner = 4 Courtney. This fragment repre-
+sents the theory that rivers can flow underground for part of their course, for
+it alludes to the traditional belief that the River Alpheus went underground
+near Elis in the Peloponnese and reappeared in the spring of Arethusa in
+Syracuse in Sicily.
+15. The Nile is the subject of book 4a.
+16. In the manuscripts this sentence is the second sentence of chap. 2.1;
+it was transferred here by Codoñer Merino. Rain water is “collected,” spring
+water is regularly described as emerging from “veins” in the earth; see espe-
+cially 3.15.
+17. Here “breath” (see the introduction, on ‘The Natural Questions and Stoic
+Physics’) is virtually equivalent to “wind.”
+18. From the Presocratics onward, philosophers had speculated about
+how one element can change into another. Aristotle discussed the matter in
+De Generatione et Corruptione. For Stoic views, see LS, 1:280; 286–87; CCS,
+135–36.
+19. That is, earth and water both sink toward the center of the world, which
+is one of the extremities of the world because it is the furthest point from the
+outer heavens, the other extremity.
+20. Theophrastus frag. 216 Fortenbaugh.
+21. Cassander was king of Macedon from 316 to 297 Bce.
+22. Greek philosopher of the early sixth century Bce.; see DK11A12.
+23. Referring to the Stoic doctrine of ecpyrosis, in which the whole cosmos
+is consumed in fire at the end of each cosmic cycle. See LS, 1:274–79.no t e s t o page s 3 3 –4 4
+196
+24. DK11A15.
+25. Asterisks indicate that something is missing from the Latin text. Here
+Seneca may have written something like “<it is not likely that the earth floats
+on water,> and . . . ”
+26. Seneca here uses the language of senatorial procedure.
+27. Referring to igneous rocks formed from lava, but also to various miner-
+als and precious stones (see, e.g., 3.25.12).
+28. See 3.10.
+29. An illness that (supposedly) produced bouts of intense fever every three
+days.
+30. Theophrastus frag. 217 Fortenbaugh.
+31. In the expectation of inheriting the father’s wealth.
+32. The text and interpretation of this sentence is very uncertain.
+33. Ovid Met. 15.313–4. This and the two quotations of Ovid that follow are
+all taken from the long speech on the topic of change delivered by Pythagoras
+in Met. 15, from a section on remarkable rivers, lakes, and springs.
+34. A volcanic ash that was quarried at Puteoli (modern Pozzuoli) and used
+to make a concrete that sets under water.
+35. The name of the lake is incurably corrupt in the manuscripts.
+36. Ovid Met. 15.320–21.
+37. Ovid Met. 15.329–31. Ovid wrote “the river of the Lyncestae,” a Mace-
+donian tribe; Seneca, or maybe a scribe, got the name wrong.
+38. A philosopher from Sicily, c. 492–432 Bce; see DK31A68.
+39. Melas is Greek for “black.” The other river is the Cephisus.
+40. Theophrastus frag. 218D Fortenbaugh.
+41. The name of the river is missing from the manuscripts but supplied by
+Gercke from Pliny HN 31.14.
+42. Square brackets indicate words that are interpolated in the Latin
+manuscripts.
+43. Theophrastus frag. 206 Fortenbaugh.
+44. “Rock-crystal” here refers to clear quartz.
+45. In book 4a.
+46. Theophrastus frag. 211D Fortenbaugh.
+47. On the stars feeding on exhalations, see 2.5.
+48. Ovid Met. 15.273–76 (with some changes of wording; e.g., the last word
+in Ovid is not “waves” but “fields”). This is another passage from the speech of
+Pythagoras (see above at 3.20.3).
+49. See the quotation from Lucilius in 3.1.1 and the note there.
+50. Virgil Ecl. 10.4–5. Arethusa is here treated as a nymph. Doris is a sea-
+goddess.
+51. On some issues Seneca admits only a single explanation: for instance,
+body is a continuum, and not composed of atoms and void (see 2.6–7); and theBook 4a [originally Book 2]
+1. Imperiosi (sumus), translated “we bully,” is related to imperium in (1) above,
+translated as “governorship.”
+2. Here and in what follows Seneca uses several metaphors from gladiato-
+rial or military combat.
+3. One branch of the manuscripts here adds “Perhaps he is attacked pre-
+cisely because he is exposed.”
+4. It is not certain which Plancus is meant: possibly Lucius Munatius
+197
+no tes t o pages 45–5 3
+world is controlled by fate, not the product of chance (see, e.g., 1.praef.14–15).
+But on some of the topics discussed in the Natural Questions he allows that
+there may be multiple explanations, sometimes operating simultaneously,
+sometimes separately on different occasions (see, e.g., 4b.8; 5.5.1). Epicurus and
+Lucretius had insisted that multiple explanations were appropriate in physics;
+see 6.20.5–7; LS, 1:92–93, 95–96.
+52. This phrase, “According . . . think,” should perhaps be attached to the
+end of the previous sentence. Papirius Fabianus, a declaimer and philosopher
+active in Rome in the early imperial period, was one of Seneca’s teachers.
+53. By people trying to make the acorns fall off.
+54. Ovid Met. 2.264, where the context is very different, not a flood, but the
+seas are being dried up as Phaethon flies the sun’s chariot too close to earth.
+55. Ovid Met. 1.292. This and the following quotations are from Ovid’s
+description of the mythical flood that destroyed all mankind except for Deu-
+calion and his wife Pyrrha.
+56. Ovid Met. 1.304.
+57. Ovid Met. 1.285–88a; 289b–290; Seneca (or the manuscript tradition)
+omits two half-lines.
+58. Ovid Met. 1.272–73.
+59. For the Stoics, aether (a Greek loan-word in Seneca) was the pur-
+est form of fire, found in the heavens (whereas for Aristotle, it was a fifth
+element).
+60. See 3.13.1 on ecpyrosis.
+61. Beros(s)us was a third-century Bce Babylonian who wrote in Greek
+on Babylonian history. Belus here is a legendary early Babylonian, though the
+name is originally a Greek form of the name of the god Bel or Baal.
+62. That is, the planets.
+63. The Stoics.
+64. See 3.9.3–10.1.
+65. Charybdis and Scylla were mythical sea-monsters, identified with a
+whirlpool and a rock in the straits of Messina, between Italy and Sicily.
+66. See 3.27.2.no t e s t o page s 5 3 – 5 7
+198
+Plancus, a prominent military and political figure in the late Republican and
+Augustan period (consul in 42 Bce); or his son (consul in 13 Bce).
+5. Probably Lucius Vitellius (consul in 34, 43, and 47 ce, father of the future
+emperor Vitellius; probably died in the 50s); Tacitus says he became notorious
+for “shameful flattery” (Ann. 6.32).
+6. A friend of Seneca’s; an orator and prominent public figure (consul in 27
+and 44 ce; died by 47; latterly married to Agrippina, mother of Nero).
+7. A Cynic philosopher, Seneca’s contemporary and friend.
+8. Annaeus Fidus and Apollonius are not otherwise known (but the name
+Annaeus suggests perhaps a freedman of Seneca’s or someone in his family—
+and Fidus, ironically in this context, means “faithful”). A Thracian was a gladi-
+ator armed like a Thracian, with a small, round shield and curved sword.
+9. See 3.1.1.
+10. Seneca’s elder brother, Annaeus Novatus, later, after adoption, called
+Lucius Iunius Gallio Annaeanus.
+11. The official attendants of senior Roman magistrates.
+12. Gaius, emperor 37–41 ce, had Gnaeus Cornelius Lentulus Gaetulicus,
+legate of Upper Germany, executed on a charge of conspiracy in 39. Valeria
+Messal(l)ina was wife of the emperor Claudius, until she was forced to sui-
+cide in 48. Narcissus, a freedman of Claudius, was forced to suicide just after
+Claudius’s death in 54.
+13. That is, suicide.
+14. Virgil Aen. 4.373 (where Dido is speaking to Aeneas about his betrayal
+of her).
+15. Ovid Met. 1.241–42 (where Jupiter is speaking about the wickedness of
+the human race). Erinys is another name for Fury.
+16. Menander frag. 931 Koerte. The original context of the passage of Me-
+nander here referred to is unknown, though some attribute it to a comedy
+called The Rustic (Agroikos). When Seneca says, “the poet has leaped onto
+the stage like a rustic,” he probably means that the words spoken by a rustic
+character sound as though they express the poet’s own feelings, but the pas-
+sage is difficult.
+17. A legal phrase describing the procedure for laying claim to something
+that belongs to you.
+18. The “best part of us” is the mind.
+19. The first Punic war between Carthage and Rome (264–41 Bce) was
+fought mainly for control of Sicily.
+20. From 43 Bce onward, Sextus Pompeius, the son of Pompey the Great,
+controlled Sicily with a navy and fought off attacks by the members of the sec-
+ond triumvirate, Antony, Octavian, and Lepidus, until his defeat at the battle
+of Naulochus in 36. Caesar here is Octavian, the later Augustus. Lepidus’s
+forces deserted him and went over to Octavian.2
+199
+notes to pages 57 –62
+21. An allusion to Sicily’s large-scale corn production, on which Rome
+depended.
+22. See 3.1.2; 3.26.1.
+23. Unless “not” is inserted, Seneca flatly contradicts all the other ancient
+evidence about the rising of the Nile, and his argument is inconsistent. The
+Dog Star (Sirius) was generally said to rise in late July.
+24. “My favorite poet” is probably Lucilius; it seems that the preceding
+quotation is a deliberate alteration of what Lucilius wrote.
+25. These words occur not in our texts of Ovid, but in Tibullus 1.7.26, a
+passage about Egypt and the Nile; Seneca’s memory seems to have let him
+down about the author.
+26. Philae was near Aswan (the original island is now submerged), but here
+Seneca confuses it with Meroe, much further south, where the Atbara flows
+into the Nile.
+27. In Greek this means “not to be trodden on.”
+28. Or “in many nameless branches.”
+29. Balbillus was prefect of Egypt from 55 to 59 ce. It is disputed whether
+he was identical with Tiberius Claudius Balbillus, a prominent military and
+political figure under Claudius, and with a Balbillus who wrote on astrology.
+30. Theophrastus frag. 214B Fortenbaugh.
+31. 42 and 41 Bce. Antony and Cleopatra both died in 30 Bce, the year after
+the battle of Actium.
+32. Callimachus frag. 44 Pfeiffer.
+33. Greek philosopher of the fifth century Bce; see DK59A91.
+34. Aeschylus Supp. 559, inc. fab. frag. 300.4–5 Radt; Sophocles, inc. fab. frag.
+882 Radt; Euripides Hel. 3, Archelaus frag. 228.3–5 Nauck = 228.3–5 Kannicht.
+35. The text and translation here are uncertain. With the above rendering,
+there is the problem that the Cayster and Mount Tmolus are in Asia Minor,
+and so not really “northerly.” This could be an oversight of Seneca’s, or there
+could be corruption in the text.
+36. Cf. DK11A16. See also 3.13.1.
+37. Etesian (Greek for “annual”) winds were any regular, seasonal winds,
+particularly north or northwesterly winds that blow in the Mediterranean
+during summer.
+38. Greek explorer and geographical writer of the sixth to fifth centuries
+Bce. See FHG, 4:408 (cf. Jacoby, in RE 6:1509–11).
+39. Euthymenes, despite Seneca’s objections below, was presumably speak-
+ing of etesian winds that blew from the west or southwest, forcing more water
+from the Atlantic down the Nile toward Egypt.
+40. Seneca presupposes the widely held theory that the saltiness of the sea
+is caused by the impurities left behind when the pure water is evaporated by
+the sun.no t e s t o page s 62 – 6 8
+200
+41. Greek astronomer and mathematician of the late fifth century Bce;
+see DK41A11.
+42. Greek philosopher of the late fifth century Bce; see DK64A18 = Dio-
+genes T35a Laks.
+43. Lydus, De mensibus, ed. R. Wünsch (Leipzig: Teubner, 1898) 4.107,
+pp. 146.3–147.6.
+44. See Herodotus 2.24–27.
+45. Greek historian of the fourth century Bce; see FGH, 70F65b.
+46. Greek philosopher of the fifth century Bce; see DK35A1.
+47. Greek historian of the fourth century Bce, a nephew of Aristotle; see
+FGH, 124F12(a).
+48. Greek writer of the fourth century Bce who wrote on history, philoso-
+phy, and geography, and was a student of Aristotle’s. See Dicaearchus frag.
+113 Wehrli.
+Book 4b [originally Book 3]
+1. That is, they can report only what they have heard from others.
+2. Ovid Ars 1.475–76.
+3. Lucretius 1.313. This is the only quotation from Lucretius in the Natural
+Questions.
+4. One may infer that Anaxagoras was ridiculed in the lost part of the book,
+perhaps because of his assertion that snow is really black (see Harry M. Hine,
+“Seneca and Anaxagoras on Snow,” Hermes 108, no. 4 [1980]: 503; Gross [1989],
+195). See also 4a.2.17.
+5. This was presumably said in the lost first part of the book.
+6. Virgil G. 1.313 (“our” Virgil because he was a fellow Roman).
+7. There was a Greek proverb that said “Run risks with a Carian” (i.e., in-
+stead of taking risks yourself ). Many Carians were slaves or mercenaries.
+8. Seneca quotes the Greek word, which means “hail-guards.”
+9. It was a proverbial idea in Greek and Latin that the gods are susceptible
+to gifts.
+10. A Roman law code of the fifth century Bce. See M. H. Crawford, ed.,
+Roman Statutes, vol. 2 (London: Institute of Classical Studies, University of
+London, 1996), 682–84.
+11. As at the end of a play in the theatre.
+12. Greek philosopher of the fifth century Bce, one of the first atomists.
+(This passage is not in DK.)Book 5 [originally Book 4]
+201
+no t e s t o page s 7 3 –8 0
+1. Virgil Ecl. 2.26.
+2. The phrase “form of words,” formula, alludes to the legal use of the word
+to describe the formal statement of the nature of the dispute drawn up by
+the plaintiff and the defendant together with the judge. Slipshod drafting of
+the formula might lead to one’s losing a case; likewise Seneca has treated the
+definition of wind as something that needs careful drafting to avoid accusa-
+tions of error.
+3. DK68A93a. See also 4b.9.
+4. It was said that certain flies were generated from fire; see, e.g., Aristotle
+Hist. an. 5.19, 552b10 ff.
+5. This sentence appears to be out of place. Codoñer Merino suggested
+deleting it.
+6. Meaning “produced in or from a bay.”
+7. The Stoics adopted the much older idea that the heavenly bodies have
+their fire constantly “fed” by exhalations from the earth, and regarded the
+whole world as a rational animal; see LS, 1:274–79.
+8. 5.8.2.
+9. See 4a.2.22.
+10. As it stands in the manuscripts, this statement that the etesians “do
+not last” beyond the rising of the Dog Star (Sirius) conflicts with all the other
+ancient evidence and with the logic of the passage (see next note). Seneca per-
+haps wrote something like “and are still [or: are just as] strong beyond. . . . ”
+11. A difficult sentence, but the sense seems to be that after the solstice,
+when the sun is moving south along the ecliptic toward the equator (the re-
+gion “where it is more directly overhead”), it is pushing air southward ahead
+of it—air that constitutes the etesian winds—and pulling other air toward it
+from the north. This pulling process is not explained, but compare 2.20.3 for a
+similar process in a different context.
+12. See 5.8. Seneca here reverts to discussing the encolpias.
+13. See 4a.praef.10.
+14. Meaning “from a cloud”; that is, a cloudburst.
+15. That is, by thunder and lightning.
+16. See 5.4.
+17. Ovid Met. 1.388; but Seneca misquotes or misremembers the phrase and
+takes it out of context, for Ovid wrote “obscure with dark hiding-places,” a
+metaphorical description of the riddling words of an oracle.
+18. See 6.12 ff.
+19. Asclepiodotus’s views on scientific topics are known only from Sen-
+eca, but he was very likely also the author of the extant Tactica, a treatise on
+military tactics.no t e s t o page s 8 0 – 85
+202
+20. Most likely Philip II (382–336 Bce), king of Macedon and father of
+Alexander the Great. See 3.praef.5.
+21. “Their ruin”: that is, the earth above threatened to collapse on them; but
+also a symbol of the moral ruin of greed.
+22. Seneca here, and just below, draws on the idea, much exploited by an-
+cient philosophers, that man alone of the animals stands upright, being de-
+signed to look up to heaven, not down at the earth.
+23. Roman tombstones regularly said “May the earth lie lightly on you” (sit
+tibi terra leuis) or something similar.
+24. That is, gold.
+25. The constellation of the Plough, or Ursa Major, or the Great Bear; a
+northern constellation, so used as a metonymy for the northern regions of
+the earth.
+26. Ovid Met. 1.61–66; part of Ovid’s description of the creation.
+27. Virgil Aen. 1.85–86, from the description of the storm that wrecked
+Aeneas’s fleet near Carthage. The African wind was southwesterly (see 5.16.5
+below) but here does duty for the west wind.
+28. M. Terentius Varro (116–27 Bce), public figure, scholar, and prolific
+writer. His On Agriculture and part of his On the Latin Language survive, and
+there are fragments of many other works.
+29. That is, at the same point on the horizon in any given location.
+30. In this chapter it seems best to transcribe the Latin and Greek names,
+although elsewhere some of them have been translated (e.g., eurus as “east
+wind,” auster as “south wind,” etc.).
+31. The historian Livy (probably 59 Bce to 17 ce). Seneca refers to the battle
+of Cannae in 216 Bce. In Livy’s account of it the wind is named twice (Livy
+22.43.10; 46.9).
+32. Seneca writes as though the winds occupied places at a Roman dining
+table: the “most important” place is on the right (i.e., NNE); the lowest on
+the left (NNW).
+33. That is, “the Thracian wind.”
+34. That is, grammatical cases.
+35. The Greek word horizon means “separating” (i.e., separating the visible
+hemisphere from the invisible). In this case Seneca is happy to use the Greek
+loan-word rather than the Latin versions.
+36. C. Marius (c. 157–87 BCE), a highly successful general, but also promi-
+nent in the political violence and civil war of the early first century. Livy
+wrote about him in book 80, which does not survive (see Per. 80; frag. 48
+Weissenborn-Müller = 20 Jal).
+37. That is, while still at sea or after we have landed.
+38. Xerxes, who invaded Greece in 480 Bce. His forces were defeated at
+Salamis and Plataea.Book 6 [originally Book 5]
+1. See the introduction, note 13, for the argument that the names of the con-
+suls of 63 ce have been interpolated, and the earthquake occurred in 62 ce.
+2. Seneca returns to these phenomena below at 6.27–30.
+3. The sudden collapse of old or badly constructed buildings was a regular
+hazard in the Roman world; cf. 6.1.12; 2.59.3.
+4. “Threats from heaven” is a Virgilian phrase for lightning (Aen. 6.113;
+10.695); cf. 2.59.11.
+5. Virgil Aen. 2.354, spoken by Aeneas to his men during the fall of Troy.
+6. That is, we can choke to death on our own phlegm.
+7. Vagellius frag. 1 Buechner = 1 Courtney. The poem of Vagellius does not
+survive, but the quoted words may well have been spoken by Phaethon, when,
+in the myth, he was pleading with his father, the Sun-god, to be allowed to
+drive his chariot, despite the risks involved.
+8. For Epicurus and Lucretius, the main reason for studying physics was to
+free people from fears based on the false belief that the gods were the cause of
+frightening natural phenomena; see LS, 1:155–57. In Seneca, see also 2.41–46.
+9. These phenomena were all treated as prodigies in Roman religion. They
+are discussed by Seneca in book 7 (“long-haired stars,” or comets) and book 1
+(the other phenomena).
+10. Cf. DK, 1:486.34–35. See also 3.13.1.
+11. Seneca appears to confuse the Danube with the Tanais (Don), which
+was generally regarded as dividing Europe from Asia. There is the same confu-
+sion in one of Seneca’s tragedies, Troades 9. (Some regard “and forming . . . and
+Asia” as an interpolation.)
+12. It is debatable whether this paragraph should be punctuated as a con-
+tinuation of the theory in the previous paragraph, or as Seneca’s own words.
+13. See 3.1.1.
+14. DK59A89. See also 4a.2.17.
+203
+notes to pages 85–96
+39. That is, the ocean.
+40. M. Licinius Crassus, member of the first triumvirate, who invaded
+Parthia in 55 Bce and was killed after the battle of Carrhae in 53. The tribune
+in question was C. Ateius Capito.
+41. See 5.18.5.
+42. In a Roman trial the witnesses were called at a late stage, after all the
+advocates for the prosecution and defense had delivered their speeches; hence
+“near the end.” Nothing in Plato’s surviving works corresponds closely to what
+Seneca says, though there is some resemblance to Resp. 520c, 586a–b.
+43. Or perhaps, reading uita parari, “ . . . reflect that people pay with their
+lives for the acquisition of things on which life is wasted.”no t e s t o page s 9 6 –10 5
+204
+15. A reference to volcanic fire within the earth.
+16. Greek philosopher of the sixth century Bce; see DK13A21.
+17. Greek philosopher of the fifth century Bce; see DK60A16a.
+18. See Aristotle Mete. 2.8; Theophrastus frag. 195 Fortenbaugh. The name
+Theophrastus in Greek means “divinely eloquent.”
+19. Strato of Lampsacus was head of the Peripatetic school after Theo-
+phrastus (c. 287–269 Bce). See Strato frag. 89 Wehrli, and frag. 47.
+20. Virgil Aen. 6.256, from a description of the arrival of the goddess
+Hecate.
+21. It seems that the rest of this sentence is missing from the manuscripts.
+22. The Stoics said that even inanimate objects are permeated by
+breath (pneuma, spiritus), which they need to give them coherence; see the
+introduction.
+23. See 5.8.1.
+24. Virgil Aen. 8.728; this line, from the description of the shield of Aeneas,
+describes the river Araxes (modern Aras), a river in Armenia that was bridged
+by Augustus.
+25. The phrase as it stands, and as translated literally above, is highly prob-
+lematic, and it is here regarded as an interpolation. Others think the phrase
+gives the title of Asclepiodotus’s work, in corrupt form. On Asclepiodotus,
+see 5.15.1.
+26. Virgil Aen. 1.55–56, where the verb is plural, and the line refers to the
+winds that the god Aeolus keeps imprisoned in his island home.
+27. Virgil Aen. 1.53–54, from the same passage about Aeolus and the
+winds.
+28. A fourth century Bce atomist philosopher, follower of Democritus;
+see DK70A21.
+29. DK68A98. See also 4b.9.
+30. 341–270 Bce; atomist philosopher and founder of the Epicurean school.
+See Epicurus frag. 351 Usener = 173 Arrighetti2.
+31. Thera, or Santorini, and the smaller island of Therasia were remnants
+of a large volcano in the southern Aegean. The recently formed island was
+called Thia (modern Aspronisi). See also 2.26.4–6. “Sailors” is a conjecture; the
+manuscripts have “as we watched,” but it is unlikely that Seneca claimed that
+the eruption was widely observed.
+32. Posidonius frag. 230 Edelstein-Kidd = 320 Theiler.
+33. That is, a Latin term.
+34. Something is missing, perhaps “just as <I have said>,” or “just as <we
+experienced recently>“ (cf. 6.1.2).
+35. On Asclepiodotus, see 5.15.1.
+36. Virgil Aen. 8.525; part of a description of a bolt of lightning.
+37. See 6.12 ff.Book 7 [originally Book 6]
+1. That is, of the world.
+2. The moon “struggling” is a Latin idiom for the moon being eclipsed.
+To stop eclipses, people traditionally made a loud noise, either shouting or
+clanging metal objects.
+3. That is, every day the sun rises and sets at a different point on the horizon
+from the previous day.
+4. Referring to the fact that (in the northern hemisphere) from the summer
+solstice to the winter solstice the sun rises less high in the sky each day, making
+the days shorter and the nights longer.
+5. DK68A92. See 4b.9.
+6. That is, the five then-known planets, Venus, Mercury, Mars, Saturn, and
+Jupiter.
+7. Eudoxus of Cnidus (c. 390–c. 340 Bce), Greek mathematician, astrono-
+mer, and geographer.
+205
+n o t e s t o pa g e s 1 0 5 –1 1 7
+38. See book 4a, note 47.
+39. Helice and Buris (also called Bura) were towns in Achaea, on the south
+of the Gulf of Corinth. See FGH, 124F19.
+40. See 6.15.
+41. The Greek word means “Earth-shaker,” a regular epithet of Poseidon
+(the Greek counterpart of Neptune) in Homer.
+42. But Thucydides 3.89.3 says only that the island was damaged.
+43. Posidonius frag. 232 Edelstein-Kidd = 321 Theiler.
+44. Homer Od. 354–57. Pharos in Seneca’s day was on the coast of Egypt.
+45. Virgil Aen. 3.77; “he” is Apollo.
+46. Pindar frag. 33c–d Snell-Maehler.
+47. Thucydides 2.8.3.
+48. FGH, 124F20.
+49. Seneca has not in fact said this in our text of the Natural Questions: his
+memory may let him down; or the passage where he said it could be missing
+from our manuscripts; or some think there must be something wrong with
+the text at this point.
+50. A poetic name for Italy.
+51. Virgil Aen. 3.414–19.
+52. In Seneca’s day there were three Spanish provinces: Hispania Tarracon-
+ensis, Baetica, and Lusitania.
+53. A reference to Stoic ecpyrosis; see 3.13.1.
+54. C. Laelius (c. 190–after 129 Bce) was a prominent political figure who
+acquired the nickname “Wise” (Sapiens) because of his close association with
+Greek philosophers.no t e s t o page s 1 1 7 –1 2 6
+206
+8. Greek mathematician and astronomer of the third century Bce.
+9. The Chaldaeans were a people of southern Mesopotamia, associated
+particularly with astrology. Epigenes and Apollonius of Myndus are of un-
+certain date, and most of what we know about them comes from this book by
+Seneca. Here “horoscope” has the ancient sense: a prediction about a person’s
+life based on the configuration of the stars and planets at the moment of
+conception or birth.
+10. Sublimium is normally taken to mean “of the heavenly bodies,” but
+see J. R. Bravo Díaz, “ ‘Aer, aether, caelum, sublimis’: Del vocabulario técnico
+utilizado para designar el “cielo” en las Naturales Quaestiones de Séneca y otros
+escritores científicos,” Voces 6 (1995): 9–39, at 23.
+11. Here and in chap. 5 below, the word beam, applied to bright objects seen
+in the sky, literally denotes a wooden beam, not a beam of light; see also 1.1.5.
+12. Unknown apart from this passage.
+13. DK59A83. See also 4a.2.17.
+14. FGH, 124F21. See also book 4a, note 47.
+15. See 6.23.4.
+16. Aristotle Mete. 1.6, 343b1–25.
+17. In 54 and 60 ce. The punctuation assumes that this is a comment in-
+serted by Seneca in his account of Epigenes’ ideas.
+18. Sallust Hist. 4, frag. 28.
+19. Ovid Met. 2.71.
+20. Presumably, people with weaker eyesight can see only the “hairs” con-
+centrated in the tail of the comet, but those with sharper eyesight can also see
+“hairs” spreading out from the comet’s body; but text and interpretation are
+uncertain.
+21. Presumably the same as the Artemidorus of Parium in 1.4.3, but not
+otherwise known.
+22. This passage is very obscure, and there seems to be something missing
+here.
+23. Demetrius I of Syria lived from 187–150 Bce, and the war between the
+Achaean confederacy and Rome was in 146–145. The comet appeared in 147
+according to Obsequens 20.
+24. Attalus III was king of Pergamum from 138 to 133 Bce.
+25. FGH, 70T14b, F212. See book 4a, note 45.
+26. See 7.4.1.
+27. The four comets here referred to appeared, respectively, in 54 ce, 14 ce,
+60 ce, and 44 Bce. The word departure was applied to the deaths of Roman
+rulers who were declared to be gods after their death; see 1.16.3.
+28. This refers to the planets, whose distance from the earth varies as they
+and the earth orbit the sun, producing variations in their visible size and
+brightness.207
+n o t e s t o pa g e s 1 2 6 –1 3 5
+29. Zeno of Citium, the founder of Stoicism; SVF 1.122.
+30. Virgil G. 1.367; also quoted at 1.14.2 (with a different word order).
+31. Posidonius frag. 132 Edelstein-Kidd = 322 Theiler.
+32. Virgil Aen. 9.20–21; Turnus is describing what he sees in broad
+daylight.
+33. Posidonius frag. 132 Edelstein-Kidd = 322 Theiler.
+34. Seneca runs through the principal philosophical theories about the
+mind (or soul): the Stoics said that it was breath and a portion of god (see LS,
+1:313–23); the view that it was a harmony was particularly associated with the
+Pythagoreans (cf. DK44A23, 53.4); the Epicureans said it was the finest part of
+the soul (see LS, 1:65–72); the view that it was incorporeal was particularly as-
+sociated with Aristotle (cf. De an. 2.1, 412a27–28); Empedocles said it was blood
+(DK31B105); and various Presocratic philosophers said it was heat (DK67A28,
+68A102). See also CCS, 295–301.
+35. Virgil G. 1.137.
+36. Saturn, which has the longest orbit of the planets known in antiquity.
+37. Venus.
+38. Aristotle Mete. 1.7, 344b18–20; Aristotle in fact says that comets indicate
+wind and dry weather.
+39. Virgil Georg. 1.392; the passage includes the behavior of an oil lamp in
+a list of weather signs.
+40. Virgil G. 1.362–64.
+41. See 7.4.1.
+42. 60 ce.
+43. Theophrastus frag. 193 Fortenbaugh.
+44. Aristotle frag. 14 Rose = 943 Gigon.
+45. Panaetius was a Stoic philosopher, c. 185–109 Bce, head of the school
+from 129–109; see Panaetius frag. 75 Van Straaten.
+46. The sanctuary of Demeter and Kore at Eleusis in Attica was the site of
+the Eleusinian mysteries, which were still celebrated in Seneca’s day.
+47. In the gladiatorial schools effeminate men were segregated from the rest
+and had their own kind of armor (see Juvenal Satire 6.365.O7–13).
+48. The Academy was the school founded by Plato in the fourth century
+Bce. From the mid-third century to the first half of the first century Bce,
+known as the period of the New Academy, Skepticism was prevalent in the
+school.
+49. Pyrrho of Elis (c. 365–275 Bce); Greek philosopher, founder of
+Skepticism.
+50. Q. Sextius (Augustan period), founder of the school, and his son, prob-
+ably Sextius Niger.
+51. Pantomime actors of the Augustan period.
+52. That is, from acting (wearing a mask), they turn to gladiatorial fights.Book 1 [originally Book 7]
+no t e s t o page s 1 36 –1 38
+208
+Late manuscripts and editors supply various titles, such as “On Celestial
+Fires.”
+1. Hellenistic philosophers distinguished three branches of philosophy:
+logic, ethics, and physics. Seneca here ignores logic, contrasting ethics and
+physics—but he concentrates on theology, which in this scheme was one
+branch of physics.
+2. The Epicureans said that the gods take no notice of human beings; see
+LS, 1:57–65.
+3. The Stoics identified god with nature, providence, fate, and necessity; see
+2.45.2; LS, 1:275, 323–33; CCS, 133–38, 153–78.
+4. That is, philosophy.
+5. The earth was commonly said to be the size of a dot or pinprick in rela-
+tion to the entire universe, but Seneca is here thinking particularly of a famous
+passage in Cicero’s Republic, the “Dream of Scipio,” where Scipio dreams that
+he is taken up to the Milky Way and looks down at the Roman empire, which
+seems to be the size of a pinprick (Cicero Rep. 6.16).
+6. Seneca here speaks ironically, as though he is dictating where the bound-
+aries should lie both between the Roman empire and its neighbors, and be-
+tween provinces within the empire. The Dacians, north of the lower Danube,
+the Parthians, east of the Euphrates, the Sarmatians, northwest of the upper
+Danube, the Germans, east of the Rhine, and the Ethiopians, to the south of
+Egypt, were all beyond the empire’s boundaries. The Haemus mountain range
+in Seneca’s day separated the provinces of Thrace and Moesia, and the Pyr-
+enees separated Aquitania and Gallia Narbonensis, two of the Gallic provinces,
+from the Spanish provinces (see 6.30.3).
+7. Virgil Aen. 4.404, from a simile in which the Trojans are compared to
+ants; the word narrow occurs in the next line of Virgil, as in Seneca.
+8. That is “even if your kingdoms stretch from one side of the inhabited
+world to the other.” The Greeks and Romans thought that the whole inhabited
+landmass, including Europe, Asia and Africa, was surrounded on all sides by
+the ocean.
+9. That is, the mind observes the point on the horizon at which the star
+rises, the highest point of its course across the sky, and the point on the hori-
+zon at which it sets. The phrase “the highest part of its course” seems to be an
+interpolated explanation of “zenith.”
+10. Seneca is probably thinking of the journey eastward from Spain to
+India (which involved crossing Egypt by land, from the Mediterranean to
+the Red Sea). But in the Renaissance Columbus and others thought he was
+talking about a voyage from Spain westward; see D. Clay, “Columbus’ Senecan
+Prophecy,” American Journal of Philology 113, no. 4 (1992): 617–20.209
+n o t e s t o pa g e s 1 3 8 –1 4 2
+11. Saturn; see 7.27.4.
+12. This sentence, which appears in some brief excerpts from the Natural
+Questions in a ninth-century manuscript from the circle of Alcuin, may have
+been known to Anselm and may have influenced the phrasing of his argu-
+ments for the existence of god in the Proslogion. See Harry M. Hine, Classical
+Quarterly 42, no. 2 (1992): 558–62, at 560–61, with bibliography.
+13. Seneca is referring to the world.
+14. Principally the Epicureans.
+15. This section deals with meteors, commonly called shooting or falling
+stars. An unusually large meteor is today called a fireball or bolide.
+16. Aristotle Mete. 1.4 talks about “shooting stars and what are called
+‘torches’ and ‘goats’ by some people” (341b3–4), and later says that the “goat”
+gives off sparks as it burns (341b30–3); Seneca does not give these details.
+17. The Kids were two stars (modern astronomy counts three) close to Capella
+(“the She-Goat”) in the constellation Auriga. (Probably Seneca employs the
+name in this familiar way; it has also been suggested that kids is another term
+for a type of meteor, but that use of this word is not otherwise attested.)
+18. The third Macedonian war, 171–168 Bce.
+19. 14 ce. On the use of the word departure, see 7.17.2.
+20. Sejanus, a powerful Praetorian prefect under Tiberius, was executed
+for treason in 31 ce.
+21. Germanicus, adopted son of Tiberius, died in 19 ce; it was widely be-
+lieved that he was poisoned.
+22. Seneca again discusses the issue of how some events can be signs of
+others in 2.32–51, particularly 41–42.
+23. See 7.4.3.
+24. Virgil Aen. 5.528. Seneca is distinguishing normal meteors from larger
+fireballs or bolides.
+25. Aristotle Mete. 1.4, 341b6–10. Seneca gives a very brief and free account
+of Aristotle’s ideas.
+26. Sirius, in Canis Major.
+27. St. Elmo’s fire, an electro-luminescent phenomenon.
+28. Gylippus was a Spartan general during the Peloponnesian war with
+Athens; he was sent to Syracuse, in Sicily, in 414 Bce.
+29. This chapter deals with what in modern meteorology are still called
+coronae (this Latin word is here translated “garlands,” to preserve the basic
+meaning). Coronae are a series of concentric rings of different-colored light
+formed round the sun or moon by diffraction of light in water droplets in the
+atmosphere.
+30. April or May, 44 Bce.
+31. Note that the modern scientific term halo describes a different phenom-
+enon from the ancient Greeks’ halo, which in modern terminology is a corona:no t e s t o page s 1 4 4 –15 4
+210
+haloes are single rings of light round the sun or moon, produced by refraction
+in ice crystals in the upper atmosphere.
+32. “They” could refer to the clouds, but more likely it refers to unnamed
+writers who are said to “generate” the rainbow.
+33. Ovid Met. 6.65–67.
+34. See 1.12.1, 1.17.2–3 on the use of bowls of oil or pitch to observe the sun.
+The thousand bowls are of course a rhetorical “thought experiment.”
+35. Aristotle Mete. 3.4, 373a35–b28.
+36. Heraclitus (DK22B3) and Epicurus (frag. 345 Usener) held this view.
+37. Saturn, though its perceived motion is very slow, has to cover vast dis-
+tances, so it moves very fast (see 7.27.4; 1.praef.13); there is a progression from
+the sun to Saturn to the heavens. Parroni (2002) prints the conjecture omnes
+for omnium, by A. Mele, giving a reference to the sun: “none of us sees its (sc.
+the sun’s) motion, but we all know it is very fast.”
+38. This clause is obscure: perhaps Seneca assumes (though he nowhere
+states) that the sun, the observer, and the cloud need to be in a straight line (or,
+more precisely, on the same vertical plane) for a rainbow to be visible.
+39. Aristotle does give a geometrical account of the formation of the rain-
+bow (Mete. 3.5).
+40. That is, proofs that are accessible to everybody: in Roman law there
+was a difference between the raised platform (tribunal) on which magistrates
+and legal experts sat and acted in an official capacity, and ground level, where
+ordinary people stood. Seneca seems to have thought that Roman readers
+could not cope with the geometry.
+41. Artemidorus is of unknown date. He is usually identified with the Ar-
+temidorus of book 7 (7.13), and outside Seneca is only encountered in a Byz-
+antine astrological treatise (Catalogus Codicum Astrologorum Graecorum 1.80,
+5.204).
+42. A line from a lost poem by Nero, describing the iridescence of the
+feathers on a dove’s or pigeon’s neck (frag. 2 Buechner = 2 Courtney). The
+Cytheran is Venus, who was associated with the Aegean island of Cythera.
+43. Posidonius frag. 134 Edelstein-Kidd = 323 Theiler.
+44. Virgil G. 1.380–81, from a passage describing various signs of rain; the
+Greeks and Romans thought of rainbows as signs that rain was on the way (as
+opposed to the biblical use of the rainbow as a sign that the rain is over). The
+rainbow “drinking” was a traditional Roman idea.
+45. The brief discussion of rainbows as weather signs in this paragraph
+starts very suddenly and seems to interrupt the surrounding arguments about
+the causes of rainbows. It does not fit very well at any other point in the book
+either, so it may be an afterthought of Seneca’s inserted in an awkward place.
+46. See 1.5.6.
+47. See 1.2, on garlands. This short section, which poses questions without211
+n o t e s t o pa g e s 1 5 4 –1 5 9
+giving answers, reads like a brief note that is not developed or integrated into
+the context.
+48. Aristotle Mete. 3.5, 377a11–28.
+49. “Rods,” nowadays called sun pillars, are not related to rainbows, but
+are caused by reflection of sunlight from ice-crystals in the atmosphere. As
+Seneca says, they appear next to the sun, not opposite it: a column of light
+appears above the sun, usually when it is near the horizon; the color can vary,
+but there are no spectral colors.
+50. Already discussed in 1.2.
+51. Seneca alludes to two possible explanations of the Greek compound
+par-helion, “beside the sun,” or “equivalent to the sun.” The modern name is
+parhelia (sing. parhelion), or sun dogs. They appear on either side of the sun
+at an angle of about 22° from it, and are caused by ice crystals in the upper
+atmosphere.
+52. Virgil G. 2.95–96. But Seneca misquotes Virgil, who wrote not “by
+what name” but “with what poetry,” that is, “How can I praise you highly
+enough?”—which makes more sense of the second sentence quoted by Seneca.
+Falernian was one of the best Italian wines; Rhaetian came from the Alps.
+53. The final phrase of the sentence is incurably corrupt in the manuscripts:
+there have been numerous conjectures, making Seneca say that the cloud re-
+sembles the sun, or is close to the sun, or is capable of reflecting the sun, or
+something similar.
+54. See 1.11.2.
+55. Aratus was a Greek poet of the fourth to third centuries Bce, whose
+major work was the Phaenomena, a poem about the constellations and weather
+signs. Parhelia are mentioned at lines 884–86. Aratus’s Stoicism is evident in
+the poem, especially in its treatment of Zeus as the Stoic supreme deity. The
+poem was very popular in Rome, and by Seneca’s time there were Latin ver-
+sions by Varro of Atax, Cicero, and Germanicus.
+56. In modern terms, this paragraph very likely brings together very diverse
+phenomena: at the start, and in the following paragraph, are meteors and fire-
+balls (already dealt with in 1.1), but “wells,” “jars,” and “chasms” could possibly
+be comets (discussed in book 7), or novae, or supernovae, or displays of the
+northern aurora (which is occasionally visible as far south as Italy).
+57. Virgil G. 1.367. The same line is quoted (with slightly different word
+order) at 7.20.1.
+58. Greek sela means “lights,” “flames,” another term applied to meteors and
+other bright objects in the sky.
+59. In book 7.
+60. See 1.5.14.
+61. Criminals could be thrown to the wild beasts: the suggestion is that
+Hostius is a wild beast himself. There may also be a suggestion of the mytho-no t e s t o page s 159 –1 6 7
+212
+logical Erysichthon, who, when punished by Ceres with insatiable hunger,
+finally ate himself.
+62. Virgil Ecl. 2.25–26, spoken by the shepherd Corydon. The second line
+is quoted at 5.1.1 as well.
+63. That is, other, more precious metals.
+64. “Fragile” is puzzling; it suggests pottery (but pottery mirrors are not
+attested) or glass (Parroni [2002] ad loc. refers to Pliny HN 36.193), though in
+the context one might expect a cheaper metal to contrast with silver.
+65. Dowries were handed back when there was a divorce.
+66. The Latin is here corrupt, and the exact wording cannot be restored
+with certainty, but again the reference is to the dowry given by the senate.
+Book 2 [originally Book 8]
+1. Seneca is probably thinking of the question whether the heavens rotate
+while the earth stands still at the center of the universe (the usual view in
+antiquity), or the heavens stand still while the earth rotates; see also 7.2.3.
+2. Referring to the solstices: before the summer solstice, the sun ascends
+higher in the sky each day; at the solstice it “turns back” and reaches a lower
+height each day; the opposite happens at the winter solstice.
+3. Ovid Met. 1.55.
+4. “High up” represents the Greek meteora, the subject matter of meteorol-
+ogy (see the introduction).
+5. The Stoics and others sometimes regarded the earth as a living creature;
+Seneca has developed the idea at 3.15 and 6.14.
+6. “Matter” here covers both “subject matter” and “physical matter.”
+7. On the Stoic theory of continuity and composite bodies, see LS, 1:170,
+280–94.
+8. See 5.8.1.
+9. The atomists.
+10. A reference to the water organ, which used a hydraulic system to main-
+tain a constant air pressure.
+11. The atomists again.
+12. Seneca does not return to the topic in the surviving books; but in any
+case, this is a standard kind of transitional formula that need not constitute
+a firm promise to return to the topic. The theory of antiperistasis is found in
+Plato (Ti. 79a5–80c8, where it is called periôsis), and may go back to the Pre-
+socratics. Lucretius argued against it (1.370–97).
+13. This is a brief statement of the argument for the existence of “self-moved
+movers,” first found in Plato Phdr. 245c–246a, and Leg. 10, 894b ff.
+14. Seneca could be drawing on the Stoic doctrine of “total blending,” krasis213
+n o t e s t o pa g e s 1 6 7 –1 7 8
+di’ olôn, the complete interpenetration of two substances in a mixture (see LS,
+1:288–94); or he may simply regard walls and so on as porous to air.
+15. See 2.1.1.
+16. This refers to the motion of the planets, which, in the ancient geocentric
+system, seemed to travel through the zodiac from west to east at the same time
+as being carried round with the heavens and fixed stars from east to west.
+17. Lightning-bolts, fulmina, are, in modern terms, cloud-to-ground light-
+ning, and lightning-flashes, fulgura, are intracloud, or sheet lightning.
+18. DK59A84. See 4a.2.17.
+19. Aristotle Mete. 2.9, 369a10–14, 25–b11.
+20. Two standard pieces of Roman artillery.
+21. DK13A17. See 6.10.1.
+22. Greek philosopher of the sixth century Bce; see DK12A23.
+23. The process of “rushing together again” is not paralleled elsewhere in the
+book. Perhaps it should be emended to “struggling” or “whirling.”
+24. No philosopher of this name is known; the name has been variously
+emended to “Anaximander,” or “Anaxagoras” (though both of these have al-
+ready been mentioned in the book), or “Archelaus.”
+25. DK64A16 = Diogenes T31b Laks. See 4a.2.28.
+26. That is, forms a pointed flame.
+27. Posidonius frag. 228, T41a Edelstein-Kidd = frag. 324, frag. 329, T21a
+Theiler. Other sources date this eruption, which produced the island of Hiera
+in the Santorini bay, to about 197 Bce.
+28. In 46 ce.
+29. See 5.15.1.
+30. Inflated bladders were used as balls.
+31. “Properly,” because the Latin word fragor, translated “crash,” is con-
+nected with the verb frangere, “to break, burst.”
+32. Cambyses was king of Persia from 530 to 522 Bce.
+33. See 2.12.4.
+34. See 2.26.1.
+35. No other ancient writer alleges that lightning solidifies wine. Seneca
+returns to the topic at 2.53.
+36. It was commonly believed that after a lightning-bolt struck something,
+it then flew back up into the air again, normally by a different path.
+37. Seneca believes in the spontaneous generation of worms in corpses. The
+phrase can refer both to the bodies of poisonous creatures and to corpses of
+creatures killed by poison.
+38. Seneca presumably refers to written oracles, which were notoriously
+obscure.
+39. On Stoic views of divination and fate, see LS, 1:232–33, 259–66.no t e s t o page s 1 7 8 –1 8 9
+214
+40. It was widely held among Stoics and others that god is not concerned
+with the trivial details of the universe.
+41. In Roman augury, omens were not valid unless formally acknowledged
+by the appropriate person.
+42. See 7.4.1.
+43. Aspect, in astrology, is the angular relationship between planets or
+constellations.
+44. That is, the type of lightning. The interpretation of this word ( formula)
+in the context is uncertain, as are the text and interpretation of the preceding
+sentence.
+45. Seneca refers to the Stoic doctrine of “co-fated” events, where both a
+result and the cause of that result are fated. See LS, 1:339–40, 389.
+46. Aulus Caecina, a public figure and writer of the late Republican period,
+and a friend of Cicero’s. His family was of Etruscan origin.
+47. The exact interpretation of these and some other technical terms of
+Etruscan religion used by Seneca is uncertain.
+48. Something is missing (e.g., “by enemies”).
+49. This Latin word normally means “booty” or “the proceeds of selling
+booty,” senses whose relevance to the kinds of lightning here distinguished is
+not immediately apparent.
+50. In Roman religion the twelve (chief ) gods were Jupiter, Juno, Neptune,
+Minerva, Mars, Venus, Apollo, Diana, Vulcan, Vesta, Mercury, and Ceres.
+51. Nothing more is known for certain about these deities.
+52. Ovid Met. 3.305–7.
+53. A reference to cult statues.
+54. See 1.praef.3.
+55. A Stoic philosopher in the early principate, one of Seneca’s philosophi-
+cal mentors.
+56. If the Latin word dentanea is correct, it is obscure, though it presum-
+ably is related to dens, “tooth,” or “prong”; it should be perhaps be corrected to
+ostentanea, “ostensible.”
+57. The manuscripts have the unintelligible atertanea. Thulin suggested op-
+ertanea, “concealed,” or “secret.”
+58. The Latin is probably either imprecise or corrupt, for Seneca probably
+refers to sacrifices used to call down lightning, and Jupiter with it.
+59. See 2.31.1.
+60. At the start of this chapter.
+61. See 2.31.1 and note 35.
+62. Posidonius frag. 135 Edelstein-Kidd = 325 Theiler. Although Seneca
+has mentioned Posidonius earlier (2.26.4), he has not previously referred to
+his views about thunder and lightning.
+63. A philosopher of disputed date, either late fifth or fourth century Bce.215
+n o t e s t o pa g e s 1 8 9 –1 9 2
+Some identify him with the Atthidographer Clidemus. See DK62.1; FGH,
+323F31.
+64. Greek philosopher of the sixth to fifth centuries Bce; see DK,
+1:492.6–8.
+65. Fulgetrum (or the feminine fulgetra) is indeed found mainly in earlier
+writers, as is fulgěre. Tonus is not otherwise attested in the sense “thunder”;
+tonitrua was a more recent form, but Seneca is misleading in implying that
+tonitrus was no longer in use, for he occasionally uses the form himself.
+66. See 2.40.1–2.
+67. In Roman religion there were rituals to be performed at any spot struck
+by lightning, including sacrifices and the burial of the lightning-bolt (some-
+times, perhaps, what we call a meteorite).
+68. See 6.1.6.References
+Recent Editions of the Latin Text
+Codoñer Merino, C., ed., trans. 1979. L. Annaei Senecae, “Naturales quaestiones.”
+2 vols. Colección hispánica de autores griegos y latinos. Madrid: Consejo
+Superior de Investigaciones Científicas.
+Hine, H. M., ed. 1996. L. Annaei Senecae “Naturalium quaestionum” libri. Bib-
+liotheca Scriptorum Graecorum et Romanorum Teubneriana. Stuttgart:
+B. G. Teubner.
+Parroni, P., ed., trans. 2002. Seneca, “Ricerche sulla natura.” Scrittori Greci e
+Latini. Milan: Fondazione Lorenzo Valla/Arnoldo Mondadori Editore.
+Vottero, D., ed., trans. 1989. Seneca, “Questioni naturali.” Classici latini UTET.
+Turin: Unione Tipografico-Editrice Torinese.
+(Vottero’s and Parroni’s editions both contain detailed notes in Italian.)
+Books and Articles
+This bibliography concentrates on work in English. Berno and Gauly give ex-
+tensive recent bibliographies.
+Berno, F. R. 2003. Lo specchio, il vizio e la virtù: Studio sulle “Naturales
+Quaestiones” di Seneca. Bologna: Pàtron.
+Freeland, C. A. 1990. “Scientific Explanation and Empirical Data in Aristotle’s
+Meteorology.” Oxford Studies in Ancient Philosophy 8:67–102.
+Gauly, B. 2004. Senecas “Naturales Quaestiones”: Naturphilosophie für die
+römische Kaiserzeit. Zetemata 122. Munich: C. H. Beck.
+Griffin, M. 1992. Seneca: A Philosopher in Politics. 2nd ed., enlarged. Oxford:
+Clarendon Press. (Orig. pub. 1976.)
+Gross, N. 1989. Senecas “Naturales Quaestiones”: Komposition, naturphil-
+osophische Aussagen und ihre Quellen. Palingenesia 27. Wiesbaden: Franz
+Steiner.
+Hall, J. J. 1977. “Seneca as a Source for Earlier Thought (Especially Meteorol-
+ogy).” Classical Quarterly 27, no. 2:409–36.
+Hine, H. M. 1981. An Edition with Commentary of Seneca, “Natural Ques-
+tions,” Book Two. New York: Arno Press.
+———. 2006. “Rome, the Cosmos, and the Emperor in Seneca’s Natural
+Questions.” Journal of Roman Studies 96:42–72.
+———. 2009. “Seneca’s Naturales Quaestiones 1960–2005 (Part 1).” Lustrum
+51:253–329.
+217references
+218
+———. Forthcoming, 2010. “Seneca’s Naturales Quaestiones 1960–2005
+(Part 2)—with Addenda covering 2006.” Lustrum 52:7–160.
+Hutchinson, G. O. 1993. Latin Literature from Seneca to Juvenal: A Critical
+Study. Oxford: Clarendon Press.
+Inwood, B. 1992. “God and Human Knowledge in Seneca’s Natural Ques-
+tions.” In Traditions of Theology: Studies in Hellenistic Theology, Its
+Background and Aftermath, ed. D. Frede and A. Laks, 119–57. Philosophia
+Antiqua 89. Leiden: Brill. Reprinted in Inwood 2005, 157–200.
+———. 2005. Reading Seneca: Stoic Philosophy at Rome. Oxford: Clarendon
+Press.
+Kidd, I. G. 1988. Posidonius. Vol. 2. The Commentary. 2 vols. Cambridge:
+Cambridge University Press.
+Leitão, D. D. 1998. “Senecan Catoptrics and the Passion of Hostius Quadra
+(Sen. Nat. 1).” Materiali e Discussioni 41:127–60.
+Rosenmeyer, T. G. 2000. “Seneca and Nature.” Arethusa 33, no. 1:99–119.
+Scott, J. 1999. “The Ethics of the Physics in Seneca’s Natural Questions.”
+Classical Bulletin 75, no. 1:55–68.
+Setaioli, A. 1988. Seneca e i Greci: Citazioni e traduzioni nelle opere filoso-
+fiche. Bologna: Pàtron.
+Sørensen, V. 1984. Seneca: The Humanist at the Court of Nero. Trans. W. G.
+Jones. Edinburgh: Canongate.
+Stahl, W. H. 1962. Roman Science: Origins, Development, and Influence to
+the Later Middle Ages. Madison: University of Wisconsin Press.
+Taub, L. 2003. Ancient Meteorology. London: Routledge.
+Williams, G. 2005a. “Interactions: Physics, Morality, and Narrative in Seneca
+Natural Questions 1.” Classical Philology 100, no. 2:142–65.
+———. 2005b. “Seneca on Winds: The Art of Anemology in Natural Ques-
+tions 5.” American Journal of Philology 126, no. 3:417–50.
+———. 2006. “Greco-Roman Seismology and Seneca on Earthquakes in
+Natural Questions 6.” Journal of Roman Studies 96:124–46.
+———. 2007. “Seneca on Comets and Ancient Cometary Theory in Natural
+Questions 7.” Ramus 36, no. 2: 97–117.
+———. 2008a. “Reading the Waters: Seneca on the Nile in Natural Ques-
+tions, Book 4A.” Classical Quarterly 58, no. 1:218–42.
+———. 2008b. “Cold Science: Seneca on Hail and Snow in Natural Ques-
+tions 4B.” Cambridge Classical Journal (Proceedings of the Cambridge
+Philological Society) 54:209–36.Index
+Abaton, 59, 199n27
+Academics, xiii, xv, 135, 207n48
+Accius, Lucius, xx
+Achaea, 43, 89, 95, 124, 132, 205n39,
+206n23
+Actium, 199n31
+Adriatic, 50
+Aegean, 104, 175, 204n31, 210n42
+Aegium, 107
+Aeneas, 198n14, 202n27, 203n5,
+204n24
+Aeolus, 204nn26–27
+Aeschylus, 61, 199n34
+Africa, 29, 81, 82, 83, 110, 202n27,
+208n8
+Agrippina, viii, 198n6
+Akalaitis, Joanne, xxv
+Albulae, 39
+Alcuin, 208n12
+Alexander, king of Macedon, 26, 64,
+85, 105, 202n20
+Alexandria, 61
+Alpheus, 28, 43, 95, 195n14
+Alps, 26, 61, 69, 211n52
+Ambracia, 50
+America, xiv–xv
+Ammon, 177
+Anaxagoras, 61, 65, 66, 96, 118, 169,
+199n33, 200n4, 213n24
+Anaxander, 172, 213n24
+Anaximander, 171, 213n22, 213n24
+Anaximenes, 96, 171, 204n16
+Annaeus Fidus, 54, 198n8
+Annaeus Mela, vii
+Annaeus Novatus. See Gallio,
+Lucius Iunius
+219
+Annaeus Seneca. See Seneca,
+Lucius Annaeus (the elder);
+Seneca, Lucius Annaeus (the
+younger)
+Anselm, 209n12
+Antiochus, 124
+Antony, Mark, 61, 198n20, 199n31
+Apennines, 69
+Apollo, 205n45, 214n50
+Apollonia, 142
+Apollonius (a boxer), 54, 198n8
+Apollonius of Myndus, 5, 6–7, 9–10,
+21, 117, 125, 206n9
+Apulia, 83
+Aquarius, 131
+Aquitania, 208n6
+Aratus, 156, 211n55
+Araxes, 101, 204n24
+Arcadia (city in Crete), 32
+Arcadia (region of the
+Peloponnese), 40
+Archelaus, 97, 204n17, 213n24
+Arethusa, 43–44, 95, 195n14,
+196n50
+Argos, xxi, 43
+Aries, 131
+Aristotelians, xi, xv. See also
+Peripatetics
+Aristotle, xiv, 2–7, 98, 99, 118,
+132, 133, 139–40, 145–46, 154,
+169–70, 193n11, 195n18, 197n59,
+200nn47–48, 201n4, 204n18,
+206n16, 207n34, 207n38, 207n44,
+209n16, 209n25, 210n35, 210n39,
+211n48, 213n19
+Armenia, 204n24Index
+220
+Artemidorus, 5, 21, 123–24, 148,
+206n21, 210n41
+Asclepiodotus, 5, 20, 80, 101, 105, 175,
+177, 201n19, 204n25
+Asia, 11, 89, 94, 199n35, 203n11,
+208n8
+Aspronisi, 204n31
+Astyanax, xxiii
+Aswan, 199n26
+Atalante, 106
+Atbara, 199n26
+Ateius Capito, Gaius, 203n40
+Athens, 83, 209n28
+Atlantic, 62, 64, 199n39
+Atreus, xxi, xxii, xxiii
+Attalus (king of Pergamum), 124,
+206n24
+Attalus (philosopher), 186, 187,
+214n55
+Attica, 207n46
+Augustine, xiv
+Augustus Caesar, 57, 83, 125, 140, 142,
+159, 198n20, 204n24
+Baal, 197n61
+Babylonia, 197n61
+Bactrians, 85
+Baetica, 205n52
+Baiae, 40
+Balbillus, 9, 60, 199n29
+Balearic Islands, ix
+Bathyllus, 135
+Belus, 49, 197n61
+Berosos, 49, 197n61
+Black Sea, 43, 50, 63, 66
+Boeotia, 41
+Boethius, xxiv
+Borysthenes, 61
+Britannicus, viii
+Brutus, Marcus Iunius, xiii
+Bura. See Buris
+Buris, 106, 107, 108, 113, 118, 125,
+205n39
+Burrus, Sextus Afranius, viii, 10
+Caecina, Aulus, 182, 186–87, 189,
+214n46
+Caesar. See Augustus Caesar; Julius
+Caesar; Nero Caesar; Tiberius
+Caesar
+Calabria, 83
+Caligula. See Gaius Caligula
+Callimachus, 61, 199n32
+Callisthenes, 64, 105–6, 108, 118,
+200n47
+Cambyses, 177, 213n32
+Campania, 9, 20, 21, 87, 89, 97, 107,
+108, 111, 194n13
+Cancer, 49, 82
+Cannae, 202n31
+Capitol, 185
+Cappadocia, 41
+Capricorn, 49, 82
+Caria, 38, 67, 200n7
+Carrhae, 203n40
+Carthage, 26, 57, 194n2, 198n19,
+202n27
+Caspian Sea, 50
+Cassander, 32, 195n21
+Cassandra, xx
+Castor, 141
+Cataracts, 58
+Cato, Marcus Porcius, the younger,
+xviii
+Caucasus, 61
+Cayster, 61, 199n35
+Cephisus, 196n39
+Ceres, 211n61, 214n50
+Chalcis, 101, 107
+Chaldaeans, 9, 117, 132, 179, 206n9
+Charmander, 118, 206n12
+Charybdis, 10, 50, 197n65Dacians, 137, 208n6
+Danube, 39, 46, 57, 61, 94, 137, 138,
+203n11, 208n6
+Darius, 105
+Delos, 108
+Delrio, Martín Antonio, xxv
+Demeter, 207n46
+Demetrius (Cynic philosopher), 54,
+198n7
+Demetrius (king of Syria), 124,
+206n23
+Demetrius (son of preceding), 124
+Democritus, 68, 73, 103, 116, 200n12,
+204n28
+Descartes, xiv
+Deucalion, 197n55
+Diana, 214n50
+Dicaearchus, 64, 200n48
+Diderot, xx
+Dido, 198n14
+Dio Cassius, vii
+Diogenes Laertius, x
+Diogenes of Apollonia, 19, 63, 172,
+200n42, 213n25
+Diogenes the Cynic, xiv
+Dog Star, 57, 77, 140, 199n23, 201n10,
+209n26
+Doris, 44, 196n50
+Dryden, John, xxv
+Egypt, 9, 57–64, 107–8, 117, 138,
+199n25, 199n29, 199n39, 205n44,
+208n6, 208n10
+Egyptians, 9, 34, 64, 117
+Eleusis, 134, 207n46
+Eliot, T. S., xxiv
+Elis, 28, 107, 195n14
+Emerson, xv
+Empedocles, 40, 207n34
+England, xxiv; English (language),
+xx, 16–17
+Enlightenment, xii
+Ephorus, 64, 125, 200n45
+Epictetus, x, xii, xxi, xxii
+Epicureans, xv, 4, 5, 11, 204n30,
+207n34, 208n2, 209n14
+Epicurus, 4, 6, 12, 103, 197n51, 203n8,
+204n30, 210n36
+Epigenes, 5, 21, 117–21, 206n9,
+206n17
+221
+Index
+Chersonese, Rhodian, 44
+Christians, ix, xiv, xxv, xxvi
+Chrysippus, x
+Cicero, Marcus Tullius, x, xiii, xiv,
+xv, 189, 208n5, 211n55, 214n46
+Cicones, 38
+Claudius, vii, viii, xvi, 125, 127, 133,
+198n12, 199n29
+Cleanthes, x, xvii
+Clement of Alexandria, xiv
+Cleonae, 67
+Cleopatra, 60–61, 199n31
+Clidemus, 189, 214n63
+Clytemnestra, xx, xxi
+Columbus, 208n10
+Conon, 117, 206n8
+Corduba, vii
+Corinth, Gulf of, 205n39
+Corneille, xxv
+Corsica, vii
+Corycus, 32
+Corydon, 212n62
+Crassus, Marcus Licinius, 85,
+203n40
+Creon, xxi, xxii
+Crete, 32, 50
+Cutiliae, 42
+Cyclades, 47
+Cyclops, 184
+Cyprus, 108
+Cythera, 149, 210n42Index
+222
+Erasinus, 43
+Erasmus, xx
+Erinys, 56, 198n15
+Erysichthon, 211n61
+Ethiopia, 29, 58, 61, 64, 83, 95, 138,
+208n6
+Etna, 10, 177
+Etruscans, 22, 178–87, 214nn46–47
+Eudoxus, 117, 205n7
+Euphrates, 85, 137, 208n6
+Euripides, xxiv, xxv, 61, 199n34
+Europe, 94, 203n11, 208n8
+Euthymenes of Massilia, 19, 62,
+199nn38–39
+Fabianus, Papirius, 45, 197n52
+Falernian, 155, 211n52
+France, xxiv
+Fucine lake, 29
+Gaetulicus, Gnaeus Cornelius
+Lentulus, 55, 198n12
+Gaius Caligula, vii, xx, 55, 56,
+198n12
+Galatia, 41
+Gallio, Lucius Iunius, 54, 77, 198n10
+Gaul, 30, 32, 83, 138, 208n6
+Germanicus, viii, 140, 209n21,
+211n55
+Germany, 30, 57, 94, 138, 198n12,
+208n6
+Greece, 85, 116–17, 130, 202n38
+Greeks, ix–x, xv, xx–xxiv, 2–4, 9, 11,
+72, 98, 121, 143, 187, 205n54, 208n8,
+210n44; Greek terms, 2, 3, 16,
+42, 59, 75, 78, 79, 82, 142, 155, 157,
+158, 166, 196n39, 197n59, 199n27,
+199n37, 200n8, 202n35, 205n41,
+209n31, 211n51, 211n58, 212n4
+Greene, John, xxiv
+Grotius, Hugo, xiv
+Gylippus, 141, 209n28
+Haemus, 32, 137, 208n6
+Haliacmon, 41, 196n41
+Hannibal, 26, 82
+Hecate, 204n20
+Helice, 106, 107, 108, 113, 118, 125,
+205n39
+Helvia, vii, viii, xvi
+Helvidius Priscus, viii
+Heracleotic mouth (of the Nile), 60
+Heraclitus, 189, 210n36, 214n64
+Herculaneum, 87, 108
+Herodotus, 63, 200n44
+Hesperia, 110, 205n50
+Heywood, Jasper, xxiv
+Hiera, 213n27
+Homer, 106, 107, 205n41, 205n44
+Hostius Quadra, 13, 21, 159–60,
+211n61
+Idymus, 38
+India, 58, 83, 85, 138, 208n10
+Italy, ix, xxiv, 26, 30, 38, 83, 109, 110,
+197n65, 205n50, 211n52, 211n56
+Jason, xxii
+John the Lydian, 63, 194n20, 200n43
+Julia Livilla, vii
+Julius Caesar, xiii, xviii, 125
+Juno, 214n50
+Jupiter (god), 58, 183–85, 186, 198n15,
+214n50, 214n58. See also Zeus
+Jupiter (planet), 122, 130, 140, 205n6
+Juvenal, 207n47
+Kane, Sarah, xxv
+Kant, Immanuel, xi, xiv
+Kids (constellation), 139, 209n17
+Kore, 207n46
+Kyd, Thomas, xxv
+Lacedaemonians, 71. See also Sparta
+Ladon, 107Macedonia, 13, 41, 64, 80, 89,
+132, 195n21, 196n37, 202n20,
+209n18
+Magnesia, 32
+Marcus Aurelius, x, xii, xv
+Marius, Gaius, 83–84, 202n36
+Marlowe, Christopher, xxv
+Mars (god), 214n50
+Mars (planet), 117, 122, 140, 205n6
+Marston, John, xxv
+Medea, xxi, xxii, xxiii
+Mediterranean, 63, 199n37, 208n10
+Megalopolis, 107
+Melas, 41, 196n39
+Memphis, 59
+Menander, 56, 198n16
+Mercury (god), 214n50
+Mercury (planet), 122, 205n6
+Meroe, 199n26
+Mesopotamia, 206n9
+Messallina, 55, 198n12
+Messene, 44
+Messina, straits of, 197n65
+Metrodorus of Chius, 102, 204n28
+Milky Way, 124, 208n5
+Minerva, 214n50
+Moesia, 208n6
+Musonius Rufus, Gaius, ix, x, xiii
+Mussato, Albertino, xxiv, xxv
+Mylae, 44
+Nabataeans, 81
+Naples, 87
+Narcissus, 55, 198n12
+Naulochus, 198n20
+Neptune, 106, 205n41, 214n50
+Nero Caesar, vii, viii, ix, xiii–xiv,
+xvi, 10–11, 95, 125, 127, 149, 193n13,
+194n14, 194n1, 198n6, 210n42
+Newton, Isaac, 193n12
+Newton, Thomas, xxiv
+Nicopolis, 108
+Nile, 1, 7, 10, 11, 19, 28, 39, 42, 43, 53,
+57–64, 94, 95, 107, 195n15, 199n23,
+199nn25–26, 199n39
+Nonacris, 40
+Nuceria, 87
+Obsequens, 206n23
+Octavian. See Augustus Caesar
+Oedipus, xxi, xxii, xxiii
+Oenopides of Chius, 19, 62,
+200n41
+Olympics, 43
+Olympus, 107
+Ossa, 107
+Ostia, 158
+223
+Index
+Laelius, Gaius, 114, 205n54
+Laius, xxii
+Latin, xxv, 3–6, 16–17, 82, 202n35,
+204n33, 205n2, 209n29, 211n55,
+213n31, 214n49
+Leibniz, xi, xiv
+Leo (constellation), 131
+Leo, Friedrich, xxiii
+Lepidus, Marcus Aemilius, 57,
+198n20
+Libra, 131
+Livius, Titus. See Livy
+Livy, 82, 83–84, 202n31, 202n36
+Lucan, vii, ix, xiv, xv, 194n1
+Lucilius Iunior, Gaius, 10, 19, 25, 28,
+44, 53–57, 86, 87, 112, 113, 114, 136,
+191, 194n1, 195nn13–14, 196n49,
+199n24
+Lucretius, xvii, 4–5, 6, 11, 12, 65,
+197n51, 200n3, 203n8, 212n12
+Lusitania, 205n52
+Lycia, 42
+Lycus, river, 43
+Lydia, 42
+Lynceii, 39
+Lyncestae, 196n37Index
+224
+Ovid, 15–16, 28, 38, 39, 47, 48, 56, 58,
+65, 79, 81, 121, 145, 163, 184, 195n11,
+196n33, 196nn36–37, 196n48,
+197nn54–58, 198n15, 199n25,
+200n2, 201n17, 202n26, 206n19,
+210n33, 212n3, 214n52
+Pacuvius, Marcus, xx
+Padua, xxiv
+Pamphylia, 83
+Panaetius, x, xv, 133, 207n45
+Paphos, 108
+Parthia, 85, 137, 203n40, 208n6
+Passienus Crispus, 54, 198n6
+Paterculus, Lucius Velleius, 132
+Patrae, 107
+Paul, St., ix
+Paulus, Lucius Aemilius, 140
+Peloponnese, 106, 108, 195n14,
+209n28
+Peneus, 41, 107
+Pergamum, 206n24
+Peripatetics, 64, 204n19. See also
+Aristotelians
+Perseus, 140
+Persia, 81, 85, 213n32
+Persians, 58, 105
+Petrarch, xxiv
+Phaedra, xxi, xxii
+Phaethon, 197n54, 203n7
+Pharos, 107, 205n44
+Phasis, 61
+Philae, 58, 59, 199n26
+Philip (king of Macedon), 13, 20,
+26, 80, 202n20
+Pindar, 108, 205n46
+Piso, Gaius Calpurnius, ix
+Plancus, 53–54, 197n4
+Plataea, 202n38
+Plato, xi, xiv, xix, 86, 203n42, 207n48,
+212nn12–13
+Platonists. See Academics
+Plautus, xxv
+Pliny, the Elder, 1, 2, 196n41, 212n64
+Plough (constellation), 81, 202n25
+Plutarch, xiii
+Pollux, 141
+Polybius, viii, xvi
+Polyxena, xx
+Pompeia Paulina, ix
+Pompeii, xx, 87, 108
+Pompeius, Sextus, 57, 198n20
+Pompeius Magnus (the Great),
+Sextus, 198n20
+Poseidon, 205n41
+Posidonius, x, xv, 4, 5, 6, 7, 65, 101,
+104, 106–7, 126–27, 150, 174–75,
+188, 204n32, 205n43, 207n31,
+207n33, 210n43, 213n27, 214n62
+Presocratics, xvii, 4, 8, 195n18,
+207n34, 212n12
+Propontis, 50
+Punic wars, 198n19
+Puteoli, 196n34
+Pylades, 135
+Pyrenees, 138, 208n6
+Pyrrha, 197n55
+Pyrrho, 135, 207n49
+Pythagoras, 196n33, 196n48
+Pythagoreans, 135, 207n34
+Quirites, 27, 194n6
+Racine, Jean, xxv
+Red Sea, 26, 50, 208n10
+Regulus, Gaius Memmius, 87,
+194n13
+Rhaetia, 155, 211n52
+Rhine, 46, 61, 94, 138, 208n6
+Rhodes, 44
+Rhone, 46, 61
+Romans, vii–xxv, 9–16, 26, 57, 82,
+141, 194n2, 194n6, 198n11, 200n6,
+202n23, 202n32, 203n42, 203n9,Salamis, 202n38
+Sallustius Crispus, Gaius, 119,
+206n18
+Salutati, xxiv
+Santorini. See Thera
+Sarmatians, 94, 138, 208n6
+Saturn, 117, 122, 132, 205n6, 207n36,
+208n11, 210n37
+Scaliger, xxiv
+Scipio, 162, 208n5
+Scylla, 50, 197n65
+Scythia, 66, 81
+Sejanus, Lucius Aelius, 140, 209n20
+Seneca, Lucius Annaeus (the elder),
+vii
+Seneca, Lucius Annaeus (the
+younger): autopsy, 30, 42; life
+and career, vii–ix, xiii–xiv, 10;
+Natural Questions, xvii, 1–22,
+193–215; philosophical writings,
+vii, viii, ix, xii, xiii, xv–xviii, 6, 10;
+Stoic philosophy of, x, xii, xiii,
+xv–xxiv, 2–3, 4, 5, 193n5, 193n7,
+196n51, 202n22; style, 14–16;
+tragedies, xix–xxvi
+Sextii, vii, 135, 207n50
+Sextus Empiricus, x
+Shakespeare, xxv
+Sicily, 10, 28, 41, 43, 44, 50, 53, 57,
+95, 110, 195n14, 196n38, 197n65,
+198–99nn19–21, 209n28
+Sidon, 107
+Sidonius Apollinaris, xx
+Sirius. See Dog Star
+Skeptics, x, 207nn48–49
+Smith, Adam, xiv
+Socrates, vii, ix
+Sophocles, xx, xxi–xxii, 61, 199n34
+Spain, vii, xxiv, 26, 110, 138, 205n52,
+208n6, 208n10
+Sparta, 209n28. See also
+Lacedaemonians
+Spinoza, xiv
+Stabiae, 87
+Statonia, 42
+Stoics, ix–xxiv, 2–7, 9, 12, 21, 22,
+49, 66, 67, 126–28, 153, 158, 171,
+193n5, 193n7, 194n6, 195n7, 195n18,
+195n23, 197n59, 201n7, 204n22,
+205n53, 207n29, 207n34, 207n45,
+208n3, 211n55, 212n5, 212n7,
+212n14, 213nn39–40, 214n45. See
+also Attalus (king of Perga-
+mum); Chrysippus; Cleanthes;
+Epictetus; Helvidius Priscus;
+Marcus Aurelius; Musonius
+Rufus, Gaius; Panaetius; Posi-
+donius; Seneca, Lucius Annaeus
+(the elder); Seneca, Lucius
+Annaeus (the younger); Zeno of
+Citium
+Strato, 4, 98, 204n19
+Styx, 40
+Suetonius, vii
+Suillius, Publius, ix
+Sun (god), 44, 203n7
+Surrentum, 87
+Syracuse, 43, 141, 195n14, 209n28
+Syria, 41, 124, 206n23
+Tacitus, vii, ix, 10, 11, 194n13, 198n5
+Tanais, 203n11
+Tarraconensis, 205n52
+Tempe, 40
+225
+Index
+206n27, 208nn5–6, 208n8,
+210n40, 210n44, 213n20, 213n41,
+214n50, 215n67
+Rome, vii, viii, 10, 11, 57, 135, 138,
+197n52, 198n19, 199n21, 200n10,
+206n23, 211n55
+Rousseau, xiv
+Rubellius Plautus, 11
+Rutenberg, Michael Elliot, xxvIndex
+226
+Tentyra, 60
+Thales of Miletus, 19, 33–34, 61, 93,
+195n22
+Thebes, xxii, 107
+Theophrastus, 4, 32, 36, 41, 42, 43,
+60, 98, 132, 195n20, 196n30,
+196n40, 196n43, 196n46, 199n30,
+204nn18–19, 207n43
+Thera, 104, 204n31, 213n27
+Therasia, 104, 204n31
+Thessaly, 40, 107
+Thia, 204n31
+Thoreau, xv
+Thrace, 54, 61, 105, 137, 198n8,
+202n33, 208n6
+Thrasea Paetus, viii
+Thrasyalces, 64, 200n46
+Thucydides, 106, 108, 205n42,
+205n47
+Thyestes, xxi, xxii, xxiii
+Tiberius Caesar, vii, 158,
+209nn20–21
+Tibullus, Albius, 199n25
+Tigris, 43, 95
+Timavus, 195n12
+Tmolus, 61, 199n35
+Trevet, Nicholas, xxiv, xxv
+Trieste, 195n12
+Trogodytae, 61
+Troy, 203n5, 208n7
+Turnus, 207n32
+Twelve Tables, 68, 200n10
+Tyre, 89, 108, 150
+Ulysses, xx
+Vadimon, lake, 42
+Vagellius, 91, 194n1, 203n7
+Valerius Asiaticus, 175
+Varro, Marcus Terentius, 81–82,
+202n28
+Varro of Atax, 211n55
+Venus (goddess), 125, 149, 210n42,
+214n50
+Venus (planet), 122, 205n6,
+207n37
+Verginius Rufus, Lucius, 87,
+194n13
+Verona, xxiv
+Vesta, 214n50
+Vesuvius, xx
+Virgil, xv, 15–16, 28, 44, 56, 66, 73, 81,
+90, 98, 101, 102, 105, 108, 110, 127,
+130, 132, 138, 140, 151, 155, 157, 161,
+195n12, 196n50, 198n14, 200n6,
+201n1, 202n27, 203nn4–5, 204n20,
+204n24, 204nn26–27, 204n36,
+205n45, 205n51, 207n30, 207n32,
+207n35, 207nn39–40, 208n7,
+209n24, 210n44, 211n52, 211n57,
+212n62
+Vitellius, Lucius, 53, 198n5
+Voltaire, xi
+Vopiscus, Marcus Manilius, 132
+Vulcan, 214n50
+Xerxes, 202n38
+Zeno of Citium, ix, 5, 126, 207n29
+Zeus, xi, 211n55. See also Jupiter
+(planet)

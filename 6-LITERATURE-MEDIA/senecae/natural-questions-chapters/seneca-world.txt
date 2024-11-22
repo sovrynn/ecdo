@@ -1,0 +1,757 @@
+Seneca and His World
+E l i z a be t h A sm is, Sh a di B a r t s ch, a n d M a r t h a C. N ussb au m
+Seneca once remarked of Socrates that it was his death by hem-
+lock that made him great (Letter 13.14). With reason: Socrates’ death
+demonstrated the steadfastness of his philosophical principles and
+his belief that death offered nothing to fear. When Seneca himself,
+then, was ordered to commit suicide by Nero in 65 ce, we might well
+believe Tacitus’s account in his Annals (15.63) that the Roman Stoic
+modeled his death on that of Socrates, discoursing calmly about phi-
+losophy with his friends as the blood drained out of his veins. In
+Tacitus’s depiction we see, for once, a much-criticized figure living
+up to the principles he preached.
+Seneca’s life was mired in political advancement and disappoint-
+ment, shaped by the effects of exile and return, and compromised
+by his relationship with the emperor Nero—first his pupil, then his
+advisee, and finally his murderer. But his many writings say little
+about his political career and almost nothing about his relationship
+with Nero except for what can be gleaned from his essay On Clem-
+ency, leaving us to turn to later sources for information—Tacitus,
+Suetonius, and Dio Cassius in particular. We know that Seneca was
+born to a prominent equestrian family in Corduba, Spain, some time
+between 4 and 1 bce. He was the second of three sons of Helvia and
+Lucius Annaeus Seneca (the youngest son, Annaeus Mela, was the
+father of the poet Lucan). The elder Seneca had spent much of his
+life in Rome, and Seneca himself was brought to Rome as a young
+boy. There he was educated in rhetoric and later became a student of
+the philosopher Sextius. But his entry into political life was delayed,
+and when he did enter upon the cursus honorum late in Tiberius’s
+reign, his ill health (he had asthma and possibly tuberculosis) was
+a source of difficulty. In any case his career was cut short. He sur-
+vived Caligula’s hostility, which the sources tell us was thanks to his
+talents in oratory, but was sent into exile on Corsica by Claudius
+shortly after Caligula’s death in 41 ce. The charge, almost certainly
+false, was adultery with Caligula’s younger sister, Julia Livilla. Seneca
+spent his time in exile in philosophical and natural study and wrote
+viiseneca and his world
+viii
+the Consolations to Helvia (his mother) and to Polybius (Claudius’s
+freedman secretary), revealing in the latter how desperately he hoped
+to be recalled to Rome.
+When Seneca did return in 49 ce, it was under different auspices.
+Claudius had recently remarried, to Germanicus’s daughter Agrip-
+pina, and she urged him to recall Seneca as tutor to her son, the
+twelve-year-old Nero. Claudius already had a younger son, Britan-
+nicus, but it was clear that the wily Agrippina wished to see her own
+flesh and blood on the throne. When Claudius died five years later,
+Agrippina was able to maneuver Nero into position as emperor—and
+Britannicus was dispatched by poison shortly after, in 55 ce.
+From 54 until his influence waned at the end of the decade, Seneca
+acted as Nero’s advisor, together with the praetorian prefect Sextus
+Afranius Burrus. We know he wrote a speech on clemency for Nero
+to deliver to the Senate soon after his accession, and Seneca’s own
+essay On Clemency may contain some inkling of his strategy to keep
+the young emperor from running amok. Seneca’s use of the term rex,
+or king, applied to Nero by analogy in this piece, is surprising from
+a Roman senator, but he seems to have hoped that flattering Nero
+by pointing to his limitless power and the value of clemency would
+be one way to keep him from abusing that power. Both Seneca and
+Burrus also helped with the civil and judicial administration of the
+empire.
+Many historians, ancient and modern, feel that this early part of
+Nero’s reign, moderated by Seneca and Burrus, represented a period
+of comparative good rule and harmony (the “quinquennium Nero-
+nis”). The decline started in 59 ce with Nero’s murder of Agrippina,
+after which Seneca wrote the emperor’s speech of self-exculpation—
+perhaps the most famous example of how the philosopher found
+himself increasingly compromised in his position as Nero’s chief
+counsel. Certainly as a Stoic, Seneca cuts an ambiguous figure next
+to the others who made their opposition to Nero clear, such as Thra-
+sea Paetus and Helvidius Priscus. His participation in court politics
+probably led him to believe that he could do more good from where
+he stood than by abandoning Nero to his own devices—if he even
+had this choice.
+In any case, Seneca’s influence over Nero seems to have been
+considerably etiolated after the death of Burrus in 62. AccordingA Short Introduction to Stoicism
+Stoicism is one of the world’s most influential philosophical move-
+ments. Starting from the works and teaching of the three original
+heads of the Greek Stoic school—Zeno of Citium (335–263 bce),
+ix
+seneca and his world
+to Tacitus, Seneca tried to retire from his position twice, in 62 and
+64. Although Nero refused him on both occasions, Seneca seems
+to have largely absented himself from the court after 64. In 65 ce
+came the Pisonian conspiracy, a plot to kill Nero and replace him
+with the ringleader, C. Calpurnius Piso. Although Seneca’s nephew
+Lucan was implicated in this assassination attempt, Seneca himself
+was probably innocent. Nonetheless, Nero seized the opportunity to
+order his old advisor to kill himself. Seneca cut his own veins, but (so
+Tacitus tells us) his thinness and advanced age hindered the flow of
+blood. When a dose of poison also failed to kill him, he finally sat in
+a hot bath to make the blood flow faster. His wife, Pompeia Paulina,
+also tried to commit suicide but was saved on orders from Nero.
+Because of his ethical writings, Seneca fared well with the early
+Christians—hence the later forging of a fake correspondence with
+St. Paul—but already in antiquity he had his fair share of critics,
+the main charge arising from the apparent contradiction between
+his Stoic teachings on the unimportance of “externals” and his own
+amassing of huge wealth. Perhaps for this reason he never gained
+the respect accorded the “Roman Socrates,” the Stoic C. Musonius
+Rufus, banished by Nero in 65, even though Seneca’s writings have
+had far more influence over the centuries. In Seneca’s own lifetime
+one P. Suillius attacked him on the grounds that, since Nero’s rise
+to power, he had piled up some 300 million sesterces by charging
+high interest on loans in Italy and the provinces—though Suillius
+himself was no angel and was banished to the Balearic Islands for
+being an embezzler and informant. In Seneca’s defense, he seems
+to have engaged in ascetic habits throughout his life and despite
+his wealth. In fact, his essay On the Happy Life (De vita beata) takes
+the position that a philosopher may be rich as long as his wealth
+is properly gained and spent and his attitude to it is appropriately
+detached. Where Seneca finally ranks in our estimation may rest on
+our ability to tolerate the various contradictions posed by the life of
+this philosopher in politics.seneca and his world
+x
+Cleanthes (331–232 bce), and Chrysippus (ca. 280–207 bce)—it be-
+came the leading philosophical movement of the ancient Greco-
+Roman world, shaping the development of thought well into the
+Christian era. Later Greek Stoics Panaetius (ca. 185–109 bce) and
+Posidonius (ca. 135–51 bce) modified some features of Stoic doctrine.
+Roman thinkers then took up the cause, and Stoicism became the
+semiofficial creed of the Roman political and literary world. Cicero
+(106–43 bce) does not agree with the Stoics on metaphysical and
+epistemological matters but his ethical and political positions lie close
+to theirs, and even when he does not agree, he makes a concerted
+effort to report their positions sympathetically. Roman Stoics Seneca,
+Epictetus (mid-first to early second century ce), Musonius Rufus
+(ca. 30–ca. 102 ce), and the emperor Marcus Aurelius (121–80 ce,
+emperor 161–80) produced Stoic works of their own (the last three
+writing in Greek).
+The philosophical achievement of the Greek Stoics, and especially
+that of Chrysippus, was enormous: the invention of propositional
+logic, the invention of the philosophy of language, unprecedented
+achievements in moral psychology, distinction in areas ranging from
+metaphysics and epistemology to moral and political philosophy.
+Through an accident of history, however, all the works of all the ma-
+jor Greek Stoics have been lost, and we must recover their thoughts
+through fragments, reports (particularly the lengthy accounts in
+Diogenes Laertius’s Lives of the Philosophers, in Cicero, and in Sextus
+Empiricus’s skeptical writings since the Stoics are his primary target),
+and the works of the Roman thinkers—who often are adjusting Stoic
+doctrines to fit Roman reality and probably contributing creative
+insights of their own. This also means that we know somewhat less
+about Stoic logic or physics than about Stoic ethics, since the Ro-
+mans took a particular interest in the practical domain.
+The goal of Stoic philosophy, like that of other philosophical
+schools of the Hellenistic era, was to give the pupil a flourishing
+life free from the forms of distress and moral failure that the Stoics
+thought ubiquitous in their societies. Unlike some of their competi-
+tor schools, however, they emphasized the need to study all parts of
+their threefold system—logic, physics, and ethics—in order to un-
+derstand the universe and its interconnections. To the extent that a
+Roman such as Cicero believed he could uphold the moral truths ofxi
+seneca and his world
+Stoicism without a confident belief in a rationally ordered universe,
+he held a heretical position (one shared many centuries later by Im-
+manuel Kant).
+Stoic physics held that the universe is a rationally ordered whole,
+and that everything that happens in it happens for the best of rea-
+sons. (It is this position, in its Leibnizian incarnation, that is pilloried
+in Voltaire’s Candide.) Rejecting traditional anthropomorphic reli-
+gion, the Stoics gave the name Zeus to the rational and providential
+principle animating the universe as a whole, and they could find even
+in the most trivial or distressing events (such as earthquakes and
+thunderbolts) signs of the universe’s overall good order. This order
+was also a moral order based on the inherent dignity and worth of
+the moral capacities of each and every rational being. The Stoics
+believed that this order was deterministic: everything happens of ne-
+cessity. But they were also “compatibilists,” believing that human free
+will was compatible with the truth of determinism. They engaged in
+spirited debates with “incompatibilist” Aristotelians, making lasting
+contributions to the free will controversy.
+Stoic ethics begins from the idea of the boundless worth of the
+rational capacity in each and every human being. The Roman Stoics
+understood this capacity to be centrally practical and moral. (Thus,
+unlike Plato, they did not think that people who had a natural tal-
+ent for mathematics were better than people who didn’t, and they
+became more and more skeptical that even the study of logic had
+much practical value.) They held that all human beings were equal
+in worth by virtue of their possession of the precious capacity to
+choose and direct their lives, ranking some ends ahead of others. This,
+they said, was what distinguished human beings from animals: this
+power of selection and rejection. (Unlike most other ancient schools,
+they had little concern for the morality of animal treatment, since
+they thought that only moral capacity entitled a being to respect
+and good treatment.) Children, they said, came into the world like
+little animals, with a natural orientation toward self-preservation but
+no understanding of true worth. Later, however, a remarkable shift
+would take place, already set up by their possession of innate hu-
+man nature: they would become able to appreciate the beauty of the
+capacity for choice and the way in which moral reason had shaped
+the entire universe. This recognition, they said, should lead people toseneca and his world
+xii
+respect both self and others in an entirely new way. Stoics were seri-
+ous about (human) equality: they urged the equal education of both
+slaves and women. Epictetus himself was a former slave.
+Stoicism looks thus far like an ethical view with radical political
+consequences, and so it became during the Enlightenment, when its
+distinctive emphases were used to argue in favor of equal political
+rights and more nearly equal economic opportunities. However, the
+original Stoics maintain a claim of great significance for politics:
+moral capacity is the only thing that has intrinsic worth. Money,
+honor, power, bodily health, and even the love of friends, children,
+and spouse—all these are held to be things that one may reasonably
+pursue if nothing impedes (they are called “preferred indifferents”),
+but they have no true intrinsic worth. They cannot rightly even be
+commensurate with moral worth. So when they do not arrive as one
+wishes, it is wrong to be distressed.
+This was the context in which the Stoics introduced their famous
+doctrine of apatheia, freedom from the passions. Defining the major
+emotions or passions as all involving a high valuation of “external
+goods,” they argue that the good Stoic will not have any of these dis-
+turbances of the personality. Realizing that chance events lie beyond
+our control, the Stoic will find it unnecessary to experience grief,
+anger, fear, or even hope: all of these are characteristic of a mind
+that waits in suspense, awestruck by things indifferent. We can have
+a life that truly involves joy (of the right sort) if we appreciate that
+the most precious thing of all, and the only truly precious thing, lies
+within our control at all times.
+Stoics do not think that it is at all easy to get rid of the cultural
+errors that are the basis of the rejected passions: thus a Stoic life is a
+constant therapeutic process in which mental exercises are devised to
+wean the mind from its unwise attachments. Their works depict pro-
+cesses of therapy through which the reader may make progress in the
+direction of Stoic virtue, and they often engage their reader in just
+such a process. Epictetus and Marcus Aurelius describe processes of
+repeated meditation; Seneca (in On Anger) describes his own nightly
+self-examination. Seneca’s Letters show the role that a wiser teacher
+can play in such a therapeutic process, but Seneca evidently does not
+think that even he himself is free from erroneous attachments. The
+“wise man” is in that sense a distant ideal, not a worldly reality, par-xiii
+seneca and his world
+ticularly for the Roman Stoics. A large aid in the therapeutic process
+is the study of the horrible deformities that societies (including one’s
+own) suffer by caring too much about external goods. If one sees the
+ugly face of power, honor, and even love clearly enough, this may as-
+sist one in making the progress toward true virtue. Thus Seneca’s On
+Anger is an example of a genre that we know to have been common
+in Stoicism.
+Because of their doctrine of value, the Stoics actually do not pro-
+pose radical changes in the distribution of worldly goods, as one
+might suppose equal regard for the dignity of all human beings
+would require. They think that equal respect does require dignified
+treatment of each person; thus Seneca urges masters not to beat their
+slaves or use them as sexual tools. About the institution of slavery,
+however, there is silence, and worse than silence: Seneca argues that
+true freedom is internal freedom, so the external sort does not re-
+ally matter. Musonius, similarly, advocates respectful treatment for
+women, including access to a Stoic education. But as for changes in
+the legal arrangements that confined women to a domestic role and
+gave males power of life and death over them, he too is silent, arguing
+that women will manifest their Stoic virtue in the domestic context.
+Some Roman Stoics do appear to have thought that political liberty
+was a part of dignity, and thus died supporting republican institu-
+tions, but whether this attention to external conditions was con-
+sistent with Stoicism remains unclear. (Certainly Cicero’s profound
+grief over the loss of political freedom was not the attitude of a Stoic,
+any more than was his agonizing grief over his daughter’s death.)
+There was also much debate about whether the Stoic norm of
+apatheia encouraged people to detach themselves from bad political
+events in a way that gave aid and comfort to bad politics. Certainly
+Stoics were known to counsel retirement from politics (a theme in
+Seneca’s own life as he sought Nero’s permission for retirement, un-
+successfully), and they were thought to believe that upheaval was
+worse than lawless tyranny. Plutarch reports that Brutus (a Platonist)
+questioned potential coconspirators in the assassination of Julius
+Caesar by trying to determine whether they accepted that Stoic
+norm or believed, with him, that lawless tyranny was worse than
+civil strife; only non-Stoics were selected for the group of assassins.
+During Nero’s reign, however, several prominent Stoics—includingseneca and his world
+xiv
+Seneca and his nephew Lucan—joined republican political move-
+ments aimed at overthrowing Nero, and lost their lives for their ef-
+forts, by politically ordered suicide.
+Stoics believed that from the moral point of view, national bound-
+aries were as irrelevant as honor, wealth, gender, and birth. They held
+that we are, first and foremost, citizens of the universe as a whole.
+(The term kosmou polites, citizen of the universe, was apparently first
+used by Diogenes the Cynic, but the Stoics took it up and were the
+real forefathers of modern cosmopolitanism.) What cosmopolitan-
+ism meant in practical terms was unclear, for the reasons already
+given—but Cicero thinks, at any rate (in On Duties, a highly Stoic
+work), that our common human dignity entails some very strict lim-
+its on the reasons for going to war and the sort of conduct that is
+permissible in it. He thus adumbrated the basis of the modern law
+of war. Cicero denied, however, that our common humanity entailed
+any duty to distribute material goods beyond our own borders, thus
+displaying the unfortunate capacity of Stoic doctrine to support the
+status quo. Cicero’s On Duties has had such an enormous influence on
+posterity in this that it is scarcely an exaggeration to blame the Stoics
+for the fact that we have well worked-out doctrines of international
+law in the area of war and peace, but no well-established understand-
+ing of our material duties to one another.
+Stoicism’s influence on the development of the entire Western
+intellectual tradition cannot be underestimated. Christian thought
+owes it a large debt. Clement of Alexandria is just one example of a
+Christian thinker steeped in Stoicism; even a thinker such as Augus-
+tine, who contests many Stoic theses, finds it natural to begin from
+Stoic positions. Even more strikingly, many philosophers of the early
+modern era turn to Stoicism for guidance—far more often than they
+turn to Aristotle or Plato. Descartes’ ethical ideas are built largely on
+Stoic models; Spinoza is steeped in Stoicism at every point; Leib-
+niz’s teleology is essentially Stoic; Hugo Grotius bases his ideas of
+international morality and law on Stoic models; Adam Smith draws
+more from the Stoics than from other ancient schools of thought;
+Rousseau’s ideas of education are in essence based on Stoic models;
+Kant finds inspiration in the Stoic ideas of human dignity and the
+peaceful world community; and the American founders are steeped
+in Stoic ideas, including the ideas of equal dignity and cosmopoli-Seneca’s Stoicism
+Seneca identifies himself as a Stoic. He declares his allegiance by
+repeatedly referring to “our people” (nostri)—the Stoics—in his writ-
+ings. Yet he exercises considerable independence in relation to other
+Stoics. While he is committed to upholding basic Stoic doctrines,
+he recasts them on the basis of his own experience as a Roman and
+a wide reading of other philosophers. In this respect he follows a
+tradition of Stoic philosophical innovation exemplified most clearly
+by Panaetius and Posidonius, who introduced some Platonic and Ar-
+istotelian elements while adapting Stoicism to Roman circumstances.
+Seneca differs from previous Stoics by welcoming some aspects of
+Epicurean philosophy along with other influences.
+Seneca is concerned above all with applying Stoic ethical prin-
+ciples to his life and to the lives of others like him. The question
+that dominates his philosophical writings is how an individual can
+achieve a good life. In his eyes, the quest for virtue and happiness is
+a heroic endeavor that places the successful person above the assaults
+of fortune and on a level with god. To this end, Seneca transforms the
+sage into an inspirational figure who can motivate others to become
+like him by his gentle humanity and joyful tranquility. Key topics are
+how to reconcile adversity with providence, how to free oneself from
+passions (particularly anger and grief ), how to face death, how to dis-
+xv
+seneca and his world
+tanism, which also deeply influence the American transcendentalists
+Emerson and Thoreau. Because the leading works of Greek Stoicism
+had long been lost, all these thinkers were reading the Roman Stoics.
+Because many of them read little Greek, they were primarily reading
+Cicero and Seneca.
+The Stoic influence on the history of literature has also been im-
+mense. In the Roman world, all the major poets, like other educated
+Romans, were acquainted with Stoic ideas and alluded to them often
+in their work. Virgil and Lucan are perhaps particularly significant
+in this regard. Later European literary traditions also show marked
+traces of Stoic influence—in part via the influence of Roman litera-
+ture, and in part through the influence of philosophers in their own
+time who were themselves influenced by Stoic thought, but often
+also through their own reading of the influential works of Cicero,
+Seneca, and Marcus Aurelius.seneca and his world
+xvi
+engage oneself from political involvement, how to practice poverty
+and use wealth, and how to benefit others. All of these endeavors are
+viewed within the context of a supreme, perfectly rational and virtu-
+ous deity who looks with favor on the efforts of humans to attain the
+same condition of virtue. In the field of politics, Seneca argues for
+clemency on the part of the supreme ruler, Nero. In human relations,
+he pays special attention to friendship and the position of slaves.
+Overall, he aims to replace social hierarchies, with their dependence
+on fortune, with a moral hierarchy arranged according to proximity
+to the goal of being a sage.
+Seneca’s own concerns and personality permeate his writings. The
+modern reader learns much about the life of an aristocrat in the time
+of Claudius and Nero, and much about Seneca’s personal strengths
+and weaknesses. At the same time, there is also much in the work
+that transcends the immediate concerns of Seneca and his period.
+Some topics that resonate especially with a modern audience are his
+vision of humans as members of a universal community of mankind,
+the respect he demands for slaves, his concern with human emo-
+tions, and, in general, his insistence on looking within oneself to find
+happiness. What is perhaps less appealing to the modern reader is
+the rhetorical elaboration of his message, which features an undeni-
+able tendency toward hyperbole. Most of all, Seneca’s own character
+strikes many readers as problematic. From his own time on, he was
+perceived by some as a hypocrite who was far from practicing what
+he preached. Some of Seneca’s writings (in particular, his Consolations
+to Polybius and his mother Helvia, and his essay On the Happy Life)
+are obviously self-serving. As Seneca himself suggests (Letters 84), he
+has transformed the teachings he has culled, in the manner of bees,
+into a whole that reflects his own complex character.
+The Stoics divided logic into dialectic (short argument) and rhet-
+oric (continuous exposition). There is not much to be said on dialectic
+in Seneca’s writings except that he shuns it, along with formal logic
+in general. Every so often, however, he engages in a satirical display
+of fine-grained Stoic-type reasoning. The point is that carrying logi-
+cal precision to excess is futile: it does not make a person any bet-
+ter. Quibbles of all kinds should be avoided, whether they involve
+carrying through a minute line of argument, making overly subtle
+verbal distinctions, or indulging in abstruse philological interpreta-xvii
+seneca and his world
+tion. While making the point, Seneca makes sure the reader knows
+he could beat the quibbler at his own game if he wanted to.
+We have only sparse details about how the Stoics viewed rhetoric.
+What is clear about Seneca, however, is that he used the full panoply
+of Roman rhetorical methods to persuade readers of his philosophi-
+cal message. His writings are full of vivid examples, stunning meta-
+phors, pointed sayings, ringing sound effects. He knows how to vary
+his tone, from casual conversation to soaring exhortation and bitter
+denunciation. He peoples his text with a varied cast of characters:
+the addressee, the implied audience, hypothetical objectors, friends,
+opponents, historical figures. He himself hovers over the proceedings
+as watchful friend and sometime foe. Following Cleanthes, he inter-
+sperses poetry into his prose to impel the reader even more forcefully
+toward the task of self-improvement.
+Given Seneca’s ethical aims, it is perhaps surprising that he de-
+votes a large work, Natural Questions, to physics. Yet the entire work
+has an overarching ethical aim. As Seneca insists repeatedly, the mind
+is uplifted by venturing beyond narrowly human concerns to survey
+the world as a whole. The contemplation of the physical world com-
+plements moral action by showing the full context of human action:
+we see god in his full glory, caring for human lives as he administers
+the world as a whole. In the spirit of Lucretius (who championed a
+rival philosophy), Seneca also intersperses ethical messages through-
+out his physical inquiries. Thus he emphasizes that humans must
+confront natural events, such as death and natural disasters, with
+courage and gratitude to god; and he warns against human misuse
+of natural resources and the decadence that accompanies progress.
+Of all areas of inquiry, physics affords Seneca the greatest scope for
+making additions and corrections to Stoic doctrine. He ranges over
+the whole history of physical inquiries, from the Presocratics to his
+own time, to improve upon the Stoics.
+Seneca writes (Letters 45.4) that while he believes “in the judgment
+of great men,” he also claims something for his own judgment: previ-
+ous philosophers left some things to be investigated by us, which they
+might indeed have discovered for themselves if they hadn’t engaged
+in useless quibbles. Granted that Seneca shows special investigative
+fervor in his cosmological inquiries, his moral teachings too are a
+product of his own judgment and innovation. What he contributesseneca and his world
+xviii
+is a new vision rather than new theories. Using certain strict Stoic
+distinctions as a basis, he paints a new picture of the challenges that
+humans face and the happiness that awaits those who practice the
+correct philosophy. In agreement with Stoic orthodoxy, Seneca is un-
+compromising about differentiating between external advantages and
+the good, about the need to eradicate the passions, about the perfect
+rationality of the wise person, about the identity of god with Fate.
+What he adds is a moral fervor, joined by a highly poetic sensibility,
+that turns these distinctions into springboards for action.
+The Stoic sage was generally viewed by critics as a forbidding
+figure, outside the reach of human capabilities and immune to hu-
+man feeling. Seneca concedes, or rather emphasizes, that the sage
+is indeed rare; he remarks that the sage is like a phoenix, appearing
+perhaps every five hundred years (Letters 42.1). As he sees it, the sage’s
+exceptional status is not a barrier to improvement; it inspires. Seneca
+gives real-life immediacy to the sage by citing the younger Cato, op-
+ponent of Julius Caesar, as an example. Cato, indeed, is not just any
+sage; Seneca says he is not sure whether Cato might even surpass
+him (On Constancy 7.1). In this he is not blurring Stoic distinctions,
+but highlighting the indomitable moral strength of a sage. Through
+Cato and numerous other examples from the Roman past, Seneca
+fuses the Stoic sage with the traditional image of a Roman hero,
+thus spurring his Roman readers to fulfill their duties by emulating
+both at once.
+Below the level of sage, Seneca outlines three stages of moral
+progress, demarcated according to our vulnerability to irrational emo-
+tions (Letters 75). There is the condition very near to that of being a
+sage, in which a person is not yet confident of being able to withstand
+irrational emotions (the so-called passions, pathê). Just below it is the
+stage in which a person is still capable of lapsing, and at the lowest
+level of progress a person can avoid most irrational emotions, but not
+all. Below these are the innumerable people who have yet to make
+progress. Seneca has nothing to say to them; he wants to avoid them,
+lest he be contaminated. What he does allow is that persons who are
+still struggling to become good may give way to grief initially; but
+he insists that this period must be brief. The Stoics talk “big words,”
+he says, when they forbid moans and groans; he’ll adopt a more gentle
+tone (Letters 23.4). Still, he insists, these words are “true”; and his aimSenecan Tragedy
+From Seneca’s hand there survive eight tragedies (Agamemnon, Thyes-
+tes, Oedipus, Medea, Phaedra, Phoenissae, Troades, Hercules Furens),
+not including the spurious Octavia and the probably spurious Her-
+cules Oetaeus; of the Phoenissae there remain only fragments. These
+dramas have undergone many vicissitudes in fortune throughout
+the centuries; however, they are no longer criticized as being mere
+xix
+seneca and his world
+is to lead, as much as he can, to the goal of a dispassionate attitude
+toward externals. Like everyone, the wise person is prone to initial
+shocks—reactions that look momentarily like irrational emotions—
+but these are involuntary responses to be succeeded immediately by
+the calmness of judgment. Seneca’s sage is kind to others and is filled
+with a serene joy that has nothing to do with the ephemeral pleasure
+that other people take in externals.
+Looking toward Roman heroism, Seneca portrays moral progress
+as an arduous struggle, like a military campaign or the uphill storm-
+ing of an enemy’s position. The enemy is fortune, viciously attacking
+her victim in the form of the most cruel disasters. Her opponent
+may succumb, but he will have conquered fortune if he resists to the
+end. In reality, the disasters come from other people or simply from
+circumstances. Seneca commonly cites death (whether one’s own or
+that of a loved one), exile, torture, and illness. His own life is rich
+with examples. He goes so far as to advocate adversity as a means of
+making moral progress, but he also allows (with a view to his own
+wealth) that favorable circumstances are a help to the person who is
+still struggling to make progress.
+To make progress, a person must not only confront externals but
+also, above all, look within oneself. Drawing inspiration from Plato,
+Seneca tells us there is a god inside; there is a soul that seeks to free
+itself from the dross of the body. Seneca invites the reader to with-
+draw into this inner self, so as to both meditate on one’s particular
+condition and take flight in the contemplation of god. This with-
+drawal can occur in the press of a very active life. But it’s easier when
+one is no longer fully caught up in politics, and so Seneca associates
+moral withdrawal with his own attempt to withdraw from politics
+toward the end of his life. He insists that he will continue to help
+others through his philosophical teachings, like other Stoics.seneca and his world
+xx
+flawed versions of the older Greek dramas in which much of Seneca’s
+subject matter had already been treated. While Seneca’s plays were
+once mined only for the light they shed on Roman Stoic philosophy,
+for examples of rhetorical extravagance, or for the reconstruction
+of missing plays by Sophocles and his fellows, the traits that once
+marked the dramas as unworthy of critical attention now engage
+us in their own right. Indeed, they are the only extant versions of
+any Roman tragedy, the writings of other dramatists such as Marcus
+Pacuvius (ca. 220–130 bce) and Lucius Accius (ca. 170–86 bce) hav-
+ing been lost to posterity. It is thus only Seneca’s version of Roman
+drama, translated into English as the Tenne Tragedies in 1581, that so
+influenced the tragedians of the Elizabethan era.
+Seneca may have turned his hand to writing drama as early as the
+reign of Caligula (37–41 ce), although there is no way of determin-
+ing exactly when he began. Our first reference to the plays comes
+from a famous graffito from the Agamemnon preserved on a wall in
+Pompeii, but we can only deduce that this was written before the
+eruption of Vesuvius in 79 ce; it is of little actual use in trying to date
+the dramas. Stylistic analysis has not provided us with a sure order
+of composition, though scholars seem to agree that the Thyestes and
+the Phoenissae are late efforts. Certainly we are unable to make claims
+about their dating with respect to the Essays and Letters, despite the
+very different tones of Seneca’s prose and his poetry—a difference
+that led some readers, including the fifth-century churchman and
+orator Sidonius Apollinaris and after him Erasmus and Diderot, to
+speculate (erroneously) that there might have been two Lucius An-
+naeus Senecas at work on them rather than one.
+This confusion about the authorship of Seneca’s writing may
+seem natural, given the argument that Stoicism fails as a way of life
+in the dramas. Whether it fails because its adherents are too weak to
+resist the pull of desire or emotion, because Stoicism itself is too dif-
+ficult to practice successfully, because the universe is not the locus of
+a divine Providence, or because the protagonists are so evil that they
+fail to see Providence in action, is open to argument; a metaliterary
+view might even suggest that plotlines inherited from mythology
+provide the force that condemns a Cassandra or a Polyxena to death
+at the hands of a Clytemnestra or a Ulysses, with Seneca taking
+advantage of this dramatic fact to suggest the inexorable workingsxxi
+seneca and his world
+of Fate and the futility of struggle against it. Consider the Thyestes (a
+topic often dramatized in the Late Republic, though Seneca’s ver-
+sion is the only one we have). We meet the eponymous exile as he
+praises the pauper’s life to his children—only the man who drinks
+out of earthenware cups can be truly happy and without fear, he
+reminds them—but when invited to return to the palace at Argos
+by his conniving brother Atreus, the source of his exile, he allows
+himself to be lured back after only a token hesitation about giving
+up his newfound equanimity. “Sequor,” he says to his son, “I follow
+you”; but in following his appetite for the luxurious life he does the
+opposite of the good Stoic.
+The rest is, well, the stuff of myth. Dressed in royal regalia, Thyes-
+tes sits down to enjoy a hearty stew and some fine red wine, but
+his satiated belches soon turn into howls of horror as the delighted
+Atreus informs him of his dinner’s provenance: the meal is made up
+of the dismembered bodies of Thyestes’ own sons. Is there an explicit
+ethical or philosophical message here? If we followed the view of
+another Stoic, Epictetus (ca. 55–ca. 135 ce), who defined tragedy as
+what happens “when chance events befall fools” (Discourses 2.26.31 ),
+we might conclude that the story of Thyestes precisely illustrates the
+folly of giving in to a desire for power (or haute cuisine). In Seneca’s
+treatment, however, such a clear object lesson seems undermined
+by a number of factors: the fact that Atreus reigns triumphant as
+the drama ends; the undeniable echoes of Stoic exhortation in the
+impotent counsels of Atreus’s adviser; and the fragility of civic and
+religious values—the hellish scene in which Atreus sacrifices the
+children represents precisely a travesty of sacrifice itself, while xenia
+(the ancient tradition of hospitality) fares still worse. The adviser or
+a nurse mouthing Stoic platitudes without effect is featured in many
+of the plays: Phaedra, Clytemnestra, and Medea all have nurses to
+counsel them against their paths of action, even though their advice
+is invariably distorted and thrown back in their faces. Creon plays a
+similar role in the Agamemnon.
+Other Senecan protagonists have more lasting doubts than
+Thyestes about the value of earthly success. Oedipus asks: “Joys any
+man in power?” And unlike his more confident Sophoclean mani-
+festation, he feels the answer is clearly no. From the beginning of
+the play, the Oedipus provides striking contrasts to its Greek prec-seneca and his world
+xxii
+edent, whose emphasis on the discovery of identity yields here to
+the overwhelming sense of pollution affecting Oedipus. The king,
+anxious even as the drama opens, worries that he will not escape
+the prophecy of his parricide, and suspects he is responsible for the
+plague ravaging Thebes. Despondent, he hopes for immediate death;
+his emotional state is far different from that of the character at the
+center of Sophocles’ play. Seneca’s version also features Creon’s report
+of the long necromantic invocation of Laius’s ghost in a dark grove,
+something absent in Sophocles. Even the sense that the characters’
+interaction onstage fails to drive the drama makes sense in the con-
+text of Seneca’s forbidding and inexorable dramatic world. Causality
+and anagnorisis (dramatic recognition) are put aside in favor of the
+individual’s helplessness before what awaits him, and the characters’
+speeches react to the violence rather than motivate it.
+The pollution of the heavens by humans goes against Stoic phys-
+ics but finds its place in the plays. The Stoics posited a tensional
+relationship between the cosmos and its parts; according to this view,
+the pneuma or vital spirit that subtends all matter results in a cos-
+mic sympathy of the parts with the whole. “All things are united
+together . . . and earthly things feel the influence of heavenly ones,”
+as Epictetus (Discourses 1.4.1) puts it. But what we see in the dramas
+is a disquieting manifestation of this sympatheia: the idea that the
+wickedness of one or a few could disrupt the rational and harmonic
+logos of the entire cosmos represents a reversal of the more orthodox
+Stoic viewpoint that the world is accessible to understanding and to
+reason. Thus we see the universe trembling at Medea’s words, and
+the law of heaven in disorder. In the Thyestes, the sun hides its face
+in response to Atreus’s crime; in the Phaedra, the chorus notes an
+eclipse after Phaedra’s secret passion is unveiled. Horrific portents
+presage what is to come in the Troades. In Seneca’s dramas, unlike
+in Greek tragedy, there is no role for civic institutions or the city to
+intervene in this relationship. The treatment of the gods is similarly
+unorthodox. Although Jason calls upon Medea to witness that there
+are no gods in the heavens, the very chariot in which she flies away
+is evidence of the assistance given her by her divine father. The gods
+are there; the problem is that they are unrecognizable.
+Seneca’s great antiheroes like Medea and Thyestes are troubling
+not only because they often triumph, but because the manner ofxxiii
+seneca and his world
+their triumph can resemble the goal point of the aspiring Stoic: in
+exhorting themselves to take up a certain stance towards the world,
+in abandoning familial and social ties, in rejecting the moral order
+of the world around them, and in trying to live up to a form of self-
+hood they have judged to be “better,” Seneca’s tyrants, just like his
+sages, construct a private and autonomous world around themselves
+which nothing can penetrate. Not only do they borrow the self-
+exhortations and self-reproving of the Stoic’s arsenal, in which the
+dialogue conducted with the self suggests a split between a first-order
+desiring self and a second-order judging self, but they also adopt
+the consideration of what befits or is worthy of them as a guiding
+principle—always with a negative outcome.
+This leads in turn to a metatheatrical tinge in several of the plays.
+In the Medea, for example, Medea seems to look to prior versions of
+her own story to discover what exactly is appropriate for her persona,
+in the same way that Oedipus, after putting out his eyes, remarks that
+“This face befits (an) Oedipus” (Oedipus 1000) or that Atreus says of
+his recipe, “This is a crime that befits Thyestes—and befits Atreus”
+(Thyestes 271). Such metatheatricality seems to draw upon the concern
+of the traditional Roman elite to perform exemplary actions for an
+approving audience, to generate one’s ethical exemplarity by making
+sure that spectators for it exist.
+And spectators do exist—we, the theater audience or the recita-
+tion audience. Scholars have long debated the question of whether
+Seneca’s dramas were staged in antiquity. It is possible, as argued by
+the nineteenth-century German scholar Friedrich Leo, the tragedies
+were written for recitation only; inter alia, it would be unusual (but
+not impossible) to represent animal sacrifice and murder on stage.
+The question is unresolvable, but whether the original audiences were
+in the theater or in the recitation room, they shared with us the full
+knowledge of how the story would turn out, and in this they un-
+comfortably resembled some of the plotting antiheroes themselves.
+Indeed, our pleasure in watching Senecan tragedy unfold might seem
+to assimilate us to the pleasure these characters take in inflicting
+suffering on one another. In a famous line from the Troades, the mes-
+senger who brings news of Astyanax’s murder reports of the scene of
+his death—which he has already compared to a theater—that “The
+greater part of the fickle crowd abhors the crime—and watches it”(1128–29). Here, in the tension between sadistic voyeurism and hor-
+ror at what the drama unfolds, we can recognize the uncomfortable
+position of the spectator of Seneca’s despairing plays.
+xxiv
+seneca and his world
+Senecan Drama after the Classical Period
+The fortunes of Senecan drama have crested twice: once during the
+Elizabethan period, and again in our own day. Although Seneca him-
+self never refers to his tragedies, they were known in antiquity at
+least until Boethius (ca. 480–524 ce), whose Consolation of Philosophy
+draws on the themes of Seneca’s choral odes. The dramas then largely
+dropped from sight, to reemerge in 1300 in a popular edition and
+commentary by Nicholas Trevet, a Dominican scholar at Oxford.
+Trevet’s work was followed by vernacular translations in Spain, Italy,
+and France over the next two centuries. In Italy, an early imitator was
+Albertino Mussato (1261–1329), who wrote his tragic drama Ecerinis
+to alert his fellow Paduans to the danger presented by the tyrant
+of Verona. In England, the Jesuit priest and poet Jasper Heywood
+(1535–1598) produced translations of three of the plays; these were
+followed by Thomas Newton’s Seneca His Tenne Tragedies Translated
+into English in 1581—of which one tragedy was Newton’s own The-
+bais. The dramas were considered to be no mere pale shadow of their
+Greek predecessors: Petrarch, Salutati, and Scaliger all held Seneca
+inferior to none on the classical stage. In Scaliger’s influential treatise
+on poetry, the Poetices libri septem (1561), he ranks Seneca as the equal
+of the Greek dramatists in solemnity and superior to Euripides in
+elegance and polish (6.6).
+The Elizabethan playwrights in particular took up Seneca as
+a model for translation or imitation. T. S. Eliot claimed that “No
+author exercised a wider or deeper influence upon the Elizabethan
+mind or upon the Elizabethan form of tragedy than did Seneca,” and
+the consensus is that he was right. It is perhaps little wonder that
+Seneca appealed to an age in which tragedy was seen as the correct
+vehicle for the representation of “haughtinesse, arrogancy, ambition,
+pride, iniury, anger, wrath, envy, hatred, contention, warre, murther,
+cruelty, rapine, incest, rovings, depredations, piracyes, spoyles, robber-
+ies, rebellions, treasons, killings, hewing, stabbing, dagger-drawing,
+fighting, butchery, treachery, villainy, etc., and all kind of heroyicke
+evils whatsoever” ( John Greene, A Refutation of the Apology for Ac-xxv
+seneca and his world
+tors, 1615, p.56). Kyd, Marlowe, Marston, and Shakespeare all read
+Seneca in Latin at school, and much of their drama shows his in-
+fluence in one form or another. The itinerant players at Elsinore in
+Shakespeare’s Hamlet famously opine that “Seneca cannot be too
+heavy nor Plautus too light” (2.2.400–401), but it is Shakespeare’s
+Titus Andronicus that shows the greatest Senecan influence with its
+taste for revenge, rape, decapitation, human cookery, and insanity.
+Richard III and Macbeth, on the other hand, exemplify the presence
+of unrestrained, brooding ambition in the power-hungry protago-
+nist. Similarly, in such plays as Thomas Kyd’s The Spanish Tragedy
+and John Marston’s Antonio’s Revenge we see the influence of such
+Senecan fixtures as ghosts speaking from beyond the grave, graphic
+violence, obsession with revenge, and even structural features such as
+choruses, use of stichomythia, and division into five acts.
+The bleak content of the dramas was often tied to the notion of a
+moral lesson. Already Trevet’s preface to the Thyestes argued that the
+play taught the correction of morals by example, as well as simply
+offering the audience enjoyment. The Jesuit Martín Antonio Delrio
+(1551–1608) defended the use of Roman drama in a Christian educa-
+tion by suggesting that it provided a masked instruction in wisdom,
+as did Mussato before him. Nonetheless, after the middle of the
+seventeenth century Seneca’s drama fell largely into disrepute. The
+Restoration poet John Dryden (1631–1700) took the opportunity in
+the preface to his own Oedipus to criticize both Seneca’s and Cor-
+neille’s versions; of the former, he wrote that “Seneca [ . . . ] is always
+running after pompous expression, pointed sentences, and Philo-
+sophical notions, more proper for the Study than the Stage.” The
+French dramatist Jean Racine (1639–1699) used Seneca as a model
+for his Phèdre, but at the same time claimed that his main debt was
+to Euripides. Not surprisingly, the Romantics did not find much
+to like in Seneca. Recently, however, an efflorescence of interest in
+both the literary and the performance aspects of Senecan drama
+has produced new editions, scholarly monographs, and the staging
+of some of the plays. Noteworthy here are Sarah Kane’s adaptation
+Phaedra’s Love, performed in New York in May 1996; Michael Elliot
+Rutenberg’s May 2005 dramatization of a post-holocaust Oedipus at
+Haifa University in Israel; and a 2007 Joanne Akalaitis production
+of the Thyestes at the Court Theater in Chicago.seneca and his world
+xxvi
+A note on the translations: they are designed to be faithful to
+the Latin while reading idiomatically in English. The focus is on
+high standards of accuracy, clarity, and style in both the prose and
+the poetry. As such, the translations are intended to provide a basis
+for interpretive work rather than to convey personal interpretations.
+They eschew terminology that would imply a Judeo-Christian moral
+framework (e.g., “sin”). Where needed, notes have been supplied to
+explain proper names in mythology and geography.
+For further information
+On Seneca’s life: Miriam T. Griffin, Seneca: A Philosopher in Politics
+(Oxford: 1976) and Paul Veyne, Seneca: The Life of a Stoic, translated
+from the French by David Sullivan (New York: 2003). On his phil-
+osophical thought: Brad Inwood, Seneca: Stoic Philosophy at Rome
+(Oxford: 2005), and Shadi Bartsch and David Wray, Seneca and the
+Self (Cambridge: 2009). On the dramas: A. J. Boyle, Tragic Seneca:
+An Essay in the Theatrical Tradition (New York and London: 1997);
+C. A. J. Littlewood, Self-Representation and Illusion in Senecan Trag-
+edy (Oxford: 2004); and Thomas G. Rosenmeyer, Senecan Drama
+and Stoic Cosmology (Berkeley: 1989). On Seneca and Shakespeare:
+Robert S. Miola, Shakespeare and Classical Tragedy: The Influence of
+Seneca (Oxford: 1992) and Henry B. Charlton, The Senecan Tradition
+in Renaissance Tragedy (Manchester: 1946).

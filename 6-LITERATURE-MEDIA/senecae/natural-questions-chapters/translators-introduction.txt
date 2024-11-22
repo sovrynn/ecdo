@@ -1,0 +1,882 @@
+Abbreviations
+For the titles of works by Greek and Roman authors I use the abbre-
+viations given in S. Hornblower and A. Spawforth, eds., The Oxford
+Classical Dictionary, 3rd ed. revised (Oxford: Oxford University Press,
+2003), xxix–liv. I have cited early Greek philosophers according to the
+standard numbering system of Hermann Diels and Walther Kranz.
+B. Inwood, ed. The Cambridge Companion to the Stoics. Cam-
+bridge: Cambridge University Press, 2003.
+DK H. Diels and W. Kranz. Fragmente der Vorsokratiker.
+6th ed. 3 vols. Zurich: Weidmann, 1951–52.
+FGH F. Jacoby. Die Fragmente der griechischen Historiker. Berlin:
+Weidmann, 1923–.
+FHG C. Müller. Fragmenta Historicorum Graecorum. 4 vols. Paris:
+Ambrosio Firmin-Didot, 1841–70.
+LS
+A. A. Long and D. N. Sedley. The Hellenistic Philosophers.
+Vol. 1. Translations of the Principal Sources, with Philosophical
+Commentary. Vol. 2. Greek and Latin Texts with Notes and
+Bibliography. Cambridge: Cambridge University Press, 1987.
+RE
+A. Pauly, G. Wissowa, and W. Kroll, eds. Real-Encyclopädie
+der classischen Altertumswissenschaft. Stuttgart: Metzler,
+1894–1978.
+SVF J. von Arnim. Stoicorum Veterum Fragmenta. 4 vols. Leipzig:
+Teubner, 1903–24; repr. Stuttgart: Teubner, 1964.
+CCS
+xxviiTranslator’s Introduction
+The Structure and Content of the Natural Questions
+Natural Questions is the traditional English translation of the Latin
+title Naturales Quaestiones. A better translation might be Natural In-
+quiries or Inquiries into Nature, but I use the traditional title here. This
+is the first translation to present the eight books of the Natural Ques-
+tions in what is now widely agreed to have been the order in which
+Seneca originally wrote them. Analysis of the medieval manuscript
+tradition, in which the books are presented in various orders and
+numerations, and of the passages in the work that have a bearing on
+the book order, indicates that Seneca wrote the books in the order
+3, 4a, 4b, 5, 6, 7, 1, 2, whereas in many manuscripts, and in all printed
+editions and earlier translations, books 1 and 2 come at the start.1
+This translation follows the original order, but I use the traditional
+numeration of the books to facilitate reference to other translations,
+editions, and scholarly literature.2 The individual books are for the
+most part self-contained, with few clear cross-references between
+books (only between 3 and 4a, 5 and 6, and 1 and 7).3
+The title Natural Questions suggests investigations of nature quite
+generally, and the opening of the work announces Seneca’s intention
+to “traverse the world” and “investigate nature” without restriction
+(3.praef.1, 18). But the work as we have it covers a very specific range
+of topics. There is no extended treatment of cosmology, or astronomy,
+or biology, for example, all of which might be expected in a work on
+nature (they are treated in the elder Pliny’s Natural History, written
+not many years after Seneca’s death). We may summarize the top-
+ics covered by the Natural Questions as follows (for a more detailed
+analysis of the contents of each book see below):
+Book 3
+Book 4a
+Book 4b
+Book 5
+Book 6
+Rivers
+The Nile River
+Clouds, rain,4 hail, snow
+Winds
+Earthquakes
+1Comets
+Meteors, rainbows, and other optical
+meteorological phenomena
+Lightning and thunder
+2Book 2
+t r a n sl at or’s i n t r o d u c t io n
+Book 7
+Book 1
+We know that parts of books 4a and 4b have been lost (see n. 1).
+Nothing at the end of book 2 expressly indicates that it is the con-
+clusion of the work, so it is possible that Seneca wrote further books
+that have not survived, or that he intended to write more books but
+left the work unfinished at his death; however, we have no evidence
+of this.
+Ancient Meteorology
+Today’s reader will be struck by the range of modern disciplines
+that Seneca touches on—geography, meteorology, seismology, and
+astronomy—but the ancient reader would have seen that his work
+deals with what the Greeks called meteorologia, “meteorology.” An-
+cient meteorology covered a much broader field than its modern
+counterpart. So far as we know, Aristotle had first identified meteo-
+rology as a separate branch of knowledge, distinct from astronomy, in
+his Meteorologica. In this work he deals with events occurring in the
+atmosphere, including clouds, rain, snow, hail, thunder and lighting,
+rainbows, and other optical phenomena, all of them topics covered
+in modern meteorology and meteorological optics; but he also dis-
+cusses meteors and comets, which, he argues, originate and persist in
+the atmosphere (though today we know that comets orbit in space,
+and meteors appear when objects enter the earth’s atmosphere from
+space); and he also includes the sea, rivers, and earthquakes, because,
+even though they do not occur in the atmosphere, in his view they are
+caused by the same physical forces that operate in the atmosphere.
+The Natural Questions and Stoic Physics
+Although the topics that are covered in detail in the Natural Ques-
+tions fall within the scope of ancient meteorology, the title suggests
+investigations of nature quite generally. Furthermore, throughout the
+work Seneca’s discussions are conducted within the framework of
+Stoic physics. He assumes that the world is controlled by a rational
+deity, who can be identified with reason, nature, providence, and fateSeneca’s Knowledge of Earlier Meteorological Writing
+Nevertheless, each of the surviving books of the Natural Questions
+is devoted to a problem or problems that fell within the scope of
+ancient meteorology. Meteorological phenomena had been discussed
+by philosophers before Aristotle, even if they did not demarcate
+meteorology as a separate discipline. None of their works survives
+3
+tr a nsl ator’s introduc tion
+(see, e.g., 2.45).5 There are no chance or random events in the world,
+for everything is controlled by the divinely ordained chain of cause
+and effect (see, e.g., 1.praef.14; 2.45.2). Everything, including god, is
+corporeal, and matter is continuous, with no void within the world.
+The whole world is composed of the four elements—earth, water, air,
+and fire—which are constantly interacting and changing into one an-
+other. But also—and this is a distinctively Stoic doctrine—the energy
+that gives everything its coherence and its vitality, its ability to move
+and change, comes from what in Greek is called pneuma, in Latin
+spiritus, which is here translated as “breath.”6 “Breath” in Stoicism is
+not another element, but a combination of air and fire, and it pos-
+sesses “tension,” which gives coherence and dynamism to everything
+in the world, animate or inanimate, as Seneca explains in detail in
+2.6–11.7 The attribution of breath to inanimate objects, and also to
+the whole cosmos, is one aspect of the correspondences that exist be-
+tween microcosm and macrocosm, between the human body, and the
+body of the earth, and the body of the world—correspondences that
+Seneca exploits (see, e.g., 3.15; 6.14; 1.praef.15). In fact in Stoicism the
+earth is a living creature, and the whole world is a living creature with
+a soul.8 Seneca also presupposes the main tenets of Stoic ethics, that
+the best life is one lived according to nature, or reason, or virtue.
+Such doctrines are rarely discussed at length, except in the last
+two books, for in the preface to book 1 he speaks about Stoic theol-
+ogy, and in book 2 he discusses the nature of air and breath (2.2–11)
+and problems connected with divination (2.32–51). In addition, he
+discusses a number of specific ethical issues throughout the work, all
+of them hinging on right and wrong attitudes to nature (see further
+below). The constant presence of Stoic physics in the background
+and these extended discussions of specific issues give substance to his
+claim that this is a work about nature generally, not just a textbook
+on meteorology.t r a n sl at or’s i n t r o d u c t io n
+4
+complete, but there are numerous reports of their ideas from later
+writers, including Seneca himself. Aristotle had many successors in
+the field. His pupil Theophrastus was one of the earliest of them. His
+Greek work on meteorology did not survive, but in the twentieth
+century extensive Syriac and Arabic versions were discovered. Epi-
+curus, the founder of the Epicurean school, wrote on the subject, and
+a substantial summary of his views survives. Posidonius, the leading
+Stoic philosopher of the first century BCE also wrote on meteorol-
+ogy. In Latin, the philosophical poem of Lucretius contains detailed
+discussions of meteorological phenomena, following Epicurus in its
+ideas though not in its poetic format. Seneca’s work is the longest
+and most detailed meteorological work surviving from the period
+after Aristotle. Not long after Seneca, Pliny the Elder dealt with
+meteorological topics in book 2 of his surviving Natural History, and
+from late antiquity there survive Greek commentaries on Aristotle’s
+Meteorology, as well as other briefer treatments in Greek.9
+Seneca’s predecessors regularly appear by name in his work, but
+they do not all get the same amount of coverage. The Presocratics
+feature fairly frequently, though no single philosopher appears more
+than half a dozen times. Aristotle is mentioned quite often, and his
+followers Theophrastus and Strato a few times. The Epicureans, how-
+ever, are rarely on view: Epicurus is mentioned only once (6.20.5),
+and Lucretius is quoted once without being named (4b.3.4). How-
+ever, the atomic theory of matter is criticized in some detail (2.6–7),
+and there is passing criticism of the view that the whole world is the
+product of chance (1.praef.15), but all without the Epicureans needing
+to be named. There is an interesting contrast with Seneca’s Letters,
+where the moral teachings of Epicurus, or at least carefully selected
+aspects of them that are acceptable to Seneca, receive considerable
+prominence in the earlier part of the collection. But despite the rarity
+of explicit references to Epicurus or Lucretius, the work shares im-
+portant characteristics with Lucretius’s poem: like Lucretius, Seneca
+offers a rational explanation of events that were often attributed to
+the action of malevolent or arbitrary gods, and he offers freedom
+from fear of the frightening aspects of nature (see further discus-
+sion below). But Seneca is a Stoic, and it is possible to see his work,
+with its vision of the world under the control of a rational deity, not5
+tr a nsl ator’s introduc tion
+governed by blind chance, as, among other things, a Stoic riposte to
+Lucretius’s Epicurean vision of the world.
+As we have seen in the preceding section, Seneca’s worldview is
+Stoic. When it comes to the details of meteorological theory, Posi-
+donius receives a number of mentions, and his pupil Asclepiodotus
+a few; but of the earlier Stoics, only Zeno is mentioned, just once,
+by name (7.19.1). On the other hand, there are some references to the
+Stoics collectively, though they are always referred to as “our people”
+(nostri), not “Stoics.” Sometimes people are mentioned who are not
+known to have belonged to the main philosophical schools, and in
+book 7 in particular considerable prominence is given to three men
+who are virtually unknown outside the writings of Seneca, Apol-
+lonius of Myndus, Artemidorus, and Epigenes.
+In the late nineteenth and early twentieth centuries there was
+much debate about the sources of the Natural Questions: which ear-
+lier works did Seneca rely on? The answer then given was often that
+he relied heavily on a single lost Greek work on meteorology, which
+was either by Posidonius or was a later work summarizing Posido-
+nius’s ideas. In the later twentieth century, scholars were readier to
+allow that Seneca’s reading on the subject was most probably broader,
+and his own acquaintance with the field rather more assured, than
+the earlier scholars had allowed, and that there was no need to think
+he was following a single source closely. Definitive conclusions will
+never be reached because of the loss of most of the original works
+of writers to whom Seneca referred. In the case of Aristotle, we are
+in the unique position of being able to set the original work along-
+side Seneca’s reports of his ideas, yet even so scholars reach different
+conclusions. It is clear that Seneca often gives a summary version of
+a longer treatment by Aristotle, and that the summaries are often
+loose, sometimes inadequate or distorted. On the other hand, oc-
+casionally Seneca’s Latin seems to follow Aristotle’s wording pretty
+closely. These characteristics are largely agreed upon, but scholars
+disagree about how to explain them: for some, they demonstrate that
+Seneca could not have read Aristotle’s original text but must have
+read a later report of his views; but others allow that Seneca may
+well have had access to a text of Aristotle, but did not use and report
+it as carefully as a modern scholar would be expected to. Similart r a n sl at or’s i n t r o d u c t io n
+6
+problems arise with other Latin writers. We know that this was not
+Seneca’s first work on a meteorological topic, for he refers to a work
+on earthquakes that he had written in his early years (6.4.2), and
+we know from elsewhere of other works on scientific topics that do
+not survive. So he is likely to have had a good general knowledge of
+ancient science, though naturally he is likely to have read or reread
+particular works when writing the Natural Questions.10
+Critical Doxography
+Seneca includes a lot of information about the views of earlier writ-
+ers and engages critically with their ideas. Writers on meteorology
+did not always do this. Epicurus and Lucretius never, or hardly ever,
+discussed the ideas of their predecessors on meteorology. On the
+other hand there were works—called doxographical works—that did
+no more than offer bald summaries of the views of a range of earlier
+writers. But Seneca engages in critical doxography, not just describ-
+ing, but also criticizing the ideas of his predecessors, as part of the
+process of arriving at his own views. The method goes back to Aris-
+totle, and had very likely been used by Posidonius as well.11 Argument
+about rival explanations is vital to Seneca’s work. He is not, however,
+writing a history of the subject: the order in which philosophers
+appear is not chronological but usually follows the dynamics of the
+argument; and theories are regularly presented anonymously. Book 6
+is a good example, where the discussion of the causes of earthquakes
+begins at 6.5.1 by saying that people have explained earthquakes as
+caused by water, or fire, or earth, or air, or more than one of these, or
+all of them. The discussion that follows keeps to that order of topics,
+with the holders of particular views sometimes being named, but
+not always.
+Another characteristic of Seneca’s argumentative exposition is
+that he sometimes keeps his cards to his chest and reveals his own
+opinion only at a later stage of the book. It can be disconcerting
+when, early on, he criticizes a view that he will later advocate himself,
+or defends a view that he will later repudiate. For example, in book 7
+on comets, the view of Apollonius of Myndus that comets are planets
+is introduced at 7.4.1, described in more detail in 7.17, and then criti-
+cized in 7.18. But the view that Seneca later advocates in 7.24–27 has
+strong similarities to that of Apollonius, and he there answers someMethodology
+Should the Natural Questions be described as scientific? Should any
+work of ancient meteorology be described in that way? Few of the
+explanations of phenomena accepted by Seneca bear much resem-
+blance to the modern scientific explanations. The main exception
+is in book 7 on comets, where he rejects the well-entrenched view
+of Aristotle and Posidonius, among others, that they are temporary
+atmospheric phenomena, and argues that they are celestial bodies
+like planets, though their orbits are as yet not understood. Signifi-
+cantly, it is in the book that comes closest to astronomy that Seneca
+is most accurate, for in the case of comets, naked-eye observation
+could achieve some progress. But with most of the topics Seneca
+discusses, naked-eye observation was never going to achieve much.
+True, if expeditions had succeeded in reaching the sources of the Blue
+and White Nile and studied the climate there, the causes of the Nile’s
+flooding could have been better understood. But there was no way
+that observation of thunderclouds from the ground would reveal the
+electrical properties of lightning, or that observation of the visible
+effects of earthquakes would lead directly to plate tectonics. Even
+the most basic concepts of modern meteorology were lacking, or ex-
+tremely vague and totally unquantifiable. Notions of air pressure were
+confined to the idea of the pressure exerted by air or wind in motion,
+which is rather different from the modern meteorologist’s under-
+standing of air pressure; and there were no barometers. When talking
+about heat and cold, ancient writers did not distinguish as a mod-
+ern physicist would between heat energy and temperature, and there
+were no objective means of measuring temperature. As noted above,
+Seneca, like most ancient scientific writers, takes for granted the
+theory of four elements—fire, air, water, earth. They can all change
+into each other, but there are no precise rules governing when and
+how they can do so, and no experiments to test hypotheses about how
+7
+tr a nsl ator’s introduc tion
+of the objections he had earlier made to Apollonius’s theory. On the
+other hand, in 7.21.2–4 he defends the Stoic view of comets against
+various objections, but then at 7.22.1 tells us that he rejects that view.
+He is clearly trying to tease out the strengths and weaknesses of each
+theory with a degree of impartiality, instead of making his own views
+clear at the outset.t r a n sl at or’s i n t r o d u c t io n
+8
+such changes occur. Nevertheless, Seneca and other ancient writers
+on meteorology were performing a service to later science in their
+restless exploration of the linguistic and logical possibilities of key
+terms like element, hot, cold, dense, and rarefied by laying conceptual
+groundwork for a time in the distant future when experiments could
+clarify such concepts and measure such properties.
+On the other hand, what Seneca does is akin to science in that
+he seeks explanations in purely physical terms, without any divine
+intervention at the local level (and at the cosmic level, divine activity
+follows its own regular laws; e.g., see 1.praef.3). He employs obser-
+vation in his arguments and sometimes recognizes the necessity of
+collecting data over a long period of time (7.3.1). And, as we shall see,
+he recognizes that progress comes only from a painstakingly long,
+collaborative effort by generations of scholars.
+At the heart of Seneca’s arguments and explanations lies anal-
+ogy. The use of analogy in meteorology had a long history, going
+back to the Presocratics. Seneca does not merely use analogy, but is
+self-conscious and reflective about it, recognizing that it yields only
+a possible explanation, not a certain one (see 2.22–23). By contrast,
+geometry can give “arguments that are not just persuasive but com-
+pelling” about the formation of the rainbow (1.4.1). Seneca does not
+give us these geometrical proofs—he sticks to less taxing types of
+argument—but the assumption is that geometry can give a level of
+proof that is not available to the arguments and analogies that Seneca
+normally uses, which are persuasive rather than compelling.
+Debate is a primary vehicle of persuasion, and much of the argu-
+ment of the Natural Questions takes the form of debate with earlier
+thinkers and earlier theories. A good example of sustained debate
+is the discussion of the rainbow in 1.3–8. The debates in the Natural
+Questions repeatedly come back to the evidence of the senses and
+of experience. There are dozens of references to what can be seen
+and occasional references to what can be heard, smelled, tasted, and
+touched (e.g., 3.2; 3.24–25; 2.21.2; 2.27). Yet at the same time Seneca
+regularly stresses the unreliability of the senses. It is not just that
+different people report differently on the same phenomenon (see
+7.11.3; 1.3.7–8), or that some things are too small to be seen at all (4b.9;
+6.24.1; 7.30.4), but in some circumstances we are all equally prone to
+be misled by what we can see. He refers to well-known optical illu-The Community of Scholars
+Seneca’s practice exemplifies his conviction that progress can best
+be made by critical dialogue with the thinkers of the past. He has
+a clear vision of meteorology as a collaborative effort by numerous
+investigators over many centuries, a process that will continue far
+into the future. Progress depends on the patient collection of infor-
+mation about the phenomena in question and on critical probing of
+the theories of one’s predecessors. He warns against dismissing the
+theories of the earliest thinkers as crude or silly, because they took the
+essential first steps, and later thinkers were building on their efforts
+(6.5.2–3). And just as their ideas seemed antiquated by Seneca’s day,
+so Seneca is sure that his ideas will seem just as antiquated to people
+far in the future (7.25.4–7; 7.30.5).12 Here is an implicit signal to us
+later readers to be as critical of his ideas as he is of the ideas of his
+predecessors.
+In effect Seneca pictures a community of scholars stretching
+across time and across national and philosophical boundaries. Most
+of the thinkers he mentions are Greeks, but there are occasionally
+Egyptians, Chaldaeans, and Romans too, and all are treated on the
+merits of their ideas. We have already seen the range of philosophers
+he refers to, and he shows no favoritism to his own Stoic school; in
+fact some of his most stinging criticism targets fellow Stoics (e.g.,
+4b.3.1–2; 4b.6–7). But although he looks far into the past and into the
+future, there is little trace in the work of a contemporary intellectual
+context. Occasionally he does give information from contemporary
+informants: Balbillus, prefect of Egypt, provides a story about a battle
+between crocodiles and dolphins (4a.2.13–15); we hear about the ex-
+periences of an unnamed man during the recent Campanian earth-
+quake (6.31.3); and some scholars have argued that the Apollonius
+9
+tr a nsl ator’s introduc tion
+sions (1.3.9–10; 1.6.5; 1.14.3; 1.17.1) and to the weakness of our sight and
+other senses (3.25.1; 3.28.5; 1.15.6–8). The remedy for the weaknesses of
+our senses is to use our reason as well, a lesson that Seneca sometimes
+spells out (6.3.2; 6.7.5) and constantly exemplifies in the ceaseless
+probing of his arguments, which display reason in action. In addition,
+there are some things that are in principle inaccessible to our senses
+and available only to reason, notably knowledge of god, which can be
+achieved through study of the natural world (7.30.3; 1.praef.).t r a n sl at or’s i n t r o d u c t io n
+10
+of Myndus who appears in Book 7 was a contemporary of Seneca’s.
+But this is not certain, and at the end of the book we find Seneca
+lamenting the current neglect of philosophy in a society that is more
+interested in dancers and mime-actors (7.31–32).
+The Contemporary Context
+The Natural Questions can be firmly dated to the early 60s CE. Refer-
+ences to Nero as emperor (see below) show that the Natural Ques-
+tions was written after Nero’s accession (54 CE), and references to a
+recent earthquake and comet in books 6 and 7 help date the book
+to the early 60s, in the last years of Seneca’s life.13 Tacitus describes
+how Seneca effectively withdrew from Nero’s court in 62, after the
+death of Burrus (Ann. 14.52–56). We cannot be certain that he began
+the Natural Questions after, rather than before, this withdrawal, but
+the preface to book 3, with its talk of his old age, of “having used
+up my years in fruitless pursuits” and “the losses of a misspent life,”
+seems obliquely to express regrets about his political career. At vari-
+ous points he seems to distance himself from the Roman political
+world—notably in his denunciation of writing history (3.praef.5–6)
+and in his disparagement of military conquests and imperial power
+(3.praef.9–10; 5.18.12; 1.praef.8–10)—all within the context of his ap-
+peal to the reader to seek understanding of the entire cosmos in all
+its splendor, compared to which the earth and earthly achievements
+are insignificant (1.praef ).
+But at the same time, Seneca cannot escape the gravitational pull
+of his Roman context. One contemporary who features prominently
+in the work is its dedicatee, Lucilius, who is also the dedicatee of the
+dialogue On Providence (Dial. 1) and of the Letters. In Letter 79 Sen-
+eca asks him to investigate certain questions about Charybdis and
+Etna, but there is no suggestion in the Natural Questions that Lucilius
+is interested in pursuing scientific questions for himself. What we do
+hear about is his past career and his current post, a procuratorship in
+Sicily; yet Seneca’s message in the preface to book 4a is that Lucilius
+must resist the dangers of his social and political environment, where
+flattery is rife, and he offers the discussion of the Nile as a means of
+drawing him away from Sicily.
+Another contemporary who is mentioned more than once is the
+emperor Nero. A line of his poetry is quoted approvingly (1.5.6), and11
+tr a nsl ator’s introduc tion
+his principate is referred to in passing as “most fortunate” (7.21.3).
+In book 6 he appears as a sponsor of geographical and scientific in-
+vestigation when Seneca says that he sent two centurions to search
+for the sources of the Nile (6.8.3–5). They remained unknown to the
+Greeks and Romans, which hampered attempts to explain the river’s
+annual flooding, the topic of book 4a. Other ancient writers speak
+of military motives for Nero’s expedition, but there is no reason to
+doubt that geographical exploration was one motive. In the passage
+Seneca describes Nero as “[a] great lover of truth.” This is sometimes
+taken to be conventional flattery, even ironic, but it may well be that
+Nero, like other ancient rulers, took steps to promote various kinds
+of intellectual activity, though any such efforts hardly register in the
+hostile ancient historical tradition.14
+In Rome, natural events could assume immense political sig-
+nificance. The appearance of a comet in 60 CE was one example,
+for comets were widely believed to portend the death of a ruler. It
+was rumored that Nero would be succeeded by Rubellius Plautus, so
+Nero asked him to move to Asia to quell the rumors (Ann. 14.22).
+Seneca refers to this comet as one that “did away with the ill repute of
+comets” (7.17.2). But there were serious philosophical issues at stake:
+the Natural Questions refers to the debate about whether comets,
+ominous lightning strikes, and so on are divinely sent signs indicating
+the displeasure of the gods or ordinary natural events with the same
+sorts of causes as other events (see, e.g., 2.32.2–4). Seneca strongly
+advocates the second view. But we know that other views about com-
+ets were available in Rome in the 60s, so that Seneca’s treatment of
+the topic, which resolutely treats them as ordinary—and in principle
+predictable—natural phenomena, has political implications.
+More generally, much of the Natural Questions is about phenom-
+ena that featured prominently in the Roman religious system, with
+its careful attention to signs and omens sent by the gods. Lightning
+that caused death or destruction, earthquakes, and unfamiliar bright
+objects in the sky, as well as comets, were traditionally regarded as
+portents or prodigies, that is, as signs of the gods’ displeasure, and
+there were traditional forms of religious expiation. But Seneca puts
+forward natural explanations of these events, just as Lucretius had
+done before him from an Epicurean standpoint. By contrast, it may
+seem that in book 2 Seneca does adopt the traditional religious ap-t r a n sl at or’s i n t r o d u c t io n
+12
+proach, when he has a long discussion of divination from thunder
+and lightning (2.32–51). But throughout this discussion he follows the
+orthodox Stoic line that while such phenomena can indeed predict
+future events, this is not because any god directly causes the phenom-
+enon; rather, the predictive power is the result of a chain of natural
+cause and effect linking the phenomenon and the consequence. One
+might say that, for Seneca and the Stoics, divination from lightning
+was in principle no different from, and just as scientific as, weather
+forecasting; though they acknowledged that they were both as yet
+very inexact sciences.15
+The Ethical and Religious Context of Science
+The traditional Roman ways of dealing with portents and prodi-
+gies can be seen, at least in part, as a means of handling the public
+anxiety that was often occasioned by unfamiliar events such as the
+appearance of a comet or damage to a temple by lightning. One may
+therefore see Seneca as offering a philosophical alternative to the
+traditional religious means of handling such anxieties. At certain
+points in the Natural Questions he directly addresses the fears that
+people have of earthquakes or lightning, and in this he follows a
+long philosophical tradition. Epicurus had gone so far as to say that
+one needs to study the physics of the world only in order to remove
+the fear of death and the fear of the gods; Lucretius follows him in
+preaching freedom from fear; and that is one of the motifs running
+through Seneca’s work.
+Scholars have debated whether the ethical lessons derived from
+science are the main motivation of the Natural Questions. The debate
+starts from the fact that, though the work is on meteorology, the
+majority of the books contain prefaces, conclusions, or digressions on
+topics that ostensibly have nothing to do with meteorology. Some of
+these, as just mentioned, tackle human fear of unfamiliar phenomena
+(6.32; 2.59). Some tackle then fashionable forms of luxurious and
+decadent living that abuse the gifts provided by nature: the craze for
+cooling drinks with snow (4b.13); the use of winds for sea-travel not
+to increase knowledge but to wage war (5.18); the use of mirrors by
+a man whose sexual antics were notorious (1.16); and the contempo-
+rary insistence on watching fish die at the dinner table before eating
+them (3.18). Some tackle broader scientific and philosophical issuesMastery of the World
+The preface to book 1 outlines Seneca’s ideal of the virtuous person
+who relies not only on sight but on the proper use of reason and thus
+attains to knowledge of god and of the entire world. Hostius Quadra,
+whom Seneca castigates at the end of the book for performing his
+versatile sexual acts surrounded by magnifying mirrors, is the antith-
+esis of this virtuous person; among other faults, he is too attached to
+what his eyes can see (1.16.3–4). So too are the diners who demand
+to watch a fish dying on the table before they will eat it (3.18.7).
+Such people, in Seneca’s descriptions, are just as single-minded as the
+philosopher, but they never go beyond what their eyes can tell them.
+Then there are the people whom Philip of Macedon sent under-
+ground to explore old mine workings and see if there was anything
+left: they may be investigating parts of the physical world that the
+13
+tr a nsl ator’s introduc tion
+(7.30–32; 1.praef; 2.1–10). These sections of the work have been viewed
+in different ways: as interludes extraneous to the main scientific ma-
+terial, more accessible and entertaining than the technical arguments,
+and used like sugar to help the scientific medicine go down; or as
+the real point of the work, with the scientific sections there only to
+support the moral and religious inferences. But either of these views
+taken to extremes is unnecessarily reductive.
+Sometimes within the work itself voices are raised questioning
+the value of technical scientific discussions, and sometimes Seneca
+stresses that scientific understanding will produce moral benefit (e.g.,
+3.praef.18; 4b.13.1; 6.4.2; 6.32.1; 2.59.2). Here he is following a strong
+philosophical tradition that sees ethics as ultimately more important
+for human beings than physics, and he is also addressing traditional
+Roman doubts about the usefulness of theoretical philosophy. But
+such passages should not be taken as a key to unlocking the whole
+structure and purpose of the Natural Questions, as though the only
+reason for all this scientific discussion is the moral lessons to be
+drawn from it. It is clear enough that for Seneca there are other
+motivations: apart from the intrinsic interest of the natural world,
+he repeats the theme of wonder at the beauty of the world (see es-
+pecially 6.4.2) and the assurance that study of the world will lead to
+the ultimate goal—knowledge of the divine ordering of the world
+and of god himself (1.praef.).t r a n sl at or’s i n t r o d u c t io n
+14
+eye cannot immediately see, but their motives are completely wrong,
+being focused on the hoped-for wealth beneath their feet rather than
+on the heavens above (5.15). There are different ways of seeking to
+master the physical world: these people exploit its resources and seek
+to master it for the sake of their own pleasure and greed, while the
+philosopher seeks reverently to understand the natural world and the
+deity who controls it (7.30). Seneca contrasts the vigorous pursuit of
+immoral pleasures by his contemporaries with their complete neglect
+of philosophy (7.31–32).16
+There is another way of seeking to master the world that is anti-
+thetical to the philosopher’s, and that is military and political mastery.
+The preface to book 1 speaks disparagingly of the insignificance of
+earthly empires when they are compared with the immensity of the
+heavens. At the end of book 5 the misuse of the winds to send fleets
+off in search of conquests and wars is contrasted with the use of the
+winds to travel in search of new knowledge of the world (5.18). This
+implies a rather negative view of Roman imperialism, but Seneca’s
+main concern is to emphasize the difference between understanding
+and controlling the world for the sake of power or pleasure, and the
+desire to understand it out of philosophical motives.
+The Natural Questions as a Work of Literature
+There were many different forms of writing about scientific topics
+in the ancient world, including technical treatises written for the
+expert or professional, literary dialogues, letters, doxographical works
+cataloguing the views of earlier writers, and didactic poems. Seneca’s
+prose treatise contains a good deal of detailed and intricate argument,
+but at the same time, just as in all his philosophical works, he uses all
+his literary skill to create something that will be lively and enjoyable
+to read, and the result is very different from the average modern sci-
+entific textbook. There are passages of dense argument and detailed
+lists and classifications of phenomena, but there also are passages
+of vivid description of nature’s power; there are scathing, satirical
+denunciations of contemporary lifestyles, along with exhortations to
+face death without fear and to take seriously the kind of philosophy
+that Seneca is offering.17
+The relative independence of the individual books has already
+been mentioned, but each book is a carefully crafted unity.18 The15
+tr a nsl ator’s introduc tion
+patterning of introductions, interludes, and conclusions is carefully
+done, and even when the transitions seem at first arbitrary, we can
+find subtle links. The last two books to be written show a kind of
+ring-compositional architecture that is more usually associated with
+poetic works: in book 1 the chapters on optical meteorological phe-
+nomena (2–13) are framed by two discussions of meteors (1, 14–15);
+in book 2 a long central discussion of divination (32–51) is framed
+by two sections on the marvelous effects of lightning (31, 52–53), and
+by scientific discussions that move deliberately from doxographical
+discussion to presentation of Seneca’s own views (see the analytical
+table of contents below).
+The scientific sections are enlivened in all sorts of ways. Terse,
+economical phrasing, sharp antitheses, and vivid imagery are de-
+ployed throughout. Seneca addresses the reader directly, sometimes
+asking questions or giving orders (e.g., 3.16.4; 5.14.2; 6.24.6). He
+makes periodic use of the trope by which the theorist himself ap-
+pears to be “doing” what he actually describes as happening in nature;
+for instance, at 2.7.1: “Some people tear air apart and divide it into
+particles, mixing void with it” (referring to atomists). He is fond of
+saying the same thing twice, even three times, in a slightly different
+way (e.g., 2.9.4; 6.1.4; more extensively, 4b.11)—so fond that he once
+explains (not altogether convincingly) that this is not just stylistic
+showmanship but reinforcement of an essential point (2.21.4). We
+have already seen that the scientific discussion regularly takes the
+form of a vigorous debate between Seneca and other thinkers. This is
+sometimes described in the language of Roman legal procedure (e.g.,
+4b.4.1; 4b.5.1; 2.46) or senatorial procedure (e.g., 3.15.1; 6.19.1), which
+draws attention not only to the adversarial texture of the Natural
+Questions, but also to its aspirations to impartial fairness; at the same
+time, such language may appeal to the Roman reader. Sometimes
+the reader may get the distinct impression that Seneca is thinking
+out loud, speculating “on the hoof,” as it were (e.g., 5.13.4; 2.39.2–4;
+2.53.1); but of course this may be a carefully contrived impression—
+and another lesson in thinking for ourselves.
+Quotations from the poets are frequent in the Natural Questions,
+the majority from Virgil and Ovid. The quotations vary the literary
+texture, but they are often there to illustrate a scientific point as
+well, for ancient poets were expected to know about the workingst r a n sl at or’s i n t r o d u c t io n
+16
+of the physical world. By the same token, they could be criticized
+for getting it wrong. Seneca ticks Virgil off in passing for making
+more than one wind blow at once (5.16.2); this is tongue-in-cheek,
+for poets were allowed to exaggerate. But he is more serious in his
+criticisms of Ovid’s lack of decorum in his description of the great
+flood (3.27.13–15).
+Some Features of Seneca’s Worldview and Scientific Terminology
+Seneca takes for granted certain features of the physical world and
+uses certain terms to describe it that were commonplace in his own
+day but may be unfamiliar to the modern reader. Some concepts
+of Stoic physics have already been described above. Seneca takes
+for granted that the cosmos is spherical, with the spherical earth
+stationary at the center, and the moon, sun, planets, and fixed stars
+rotating round it. They rotate at different speeds: the speeds of the
+moon, sun, and fixed stars are constant (though slightly different
+from each other), whereas the planets slightly vary their speed and
+their direction, sometimes accelerating, slowing down, going into
+reverse, or veering sideways in relation to the background of fixed
+stars. (In Greek the word planet meant “wandering.”) The earth is
+at the center, but Seneca also describes it as being at the bottom of
+the cosmos, because heavy things all sink towards it, and the lightest
+materials rise to the highest part of the cosmos, its outer sphere of
+the fixed stars. The fire of the stars and planets is fed by vapors or
+exhalations that constantly rise from the surface of the earth. Seneca
+accepts that human vision involves rays going out from the eye to
+the seen object.
+Modern English has a quite clear distinction between planet,
+star, and constellation, but Seneca’s Latin terminology does not (even
+though he makes a clear distinction between planetary and stellar
+motion): there are two words (sidus and stella), but each could be used
+in any of these senses. Seneca can add an adjective, “wandering” or
+“erratic,” to make it clear that he is referring to a planet, but without
+such an epithet, the sense of the words is often indeterminate or
+ambiguous. In book 1 Seneca refers to phenomena of reflection and
+of refraction, but his terminology makes no systematic distinction
+between the two, nor does his argument, so I sometimes avoid theThe Text of the Natural Questions
+The text of our work is less well preserved than that of most of Sen-
+eca’s other works. The earliest surviving manuscripts of the Natural
+Questions date from the twelfth century (though there are some brief
+excerpts of earlier date), and their text is frequently corrupt, so that
+it is sometimes uncertain exactly what Seneca wrote. In the transla-
+tion, the following typographic signs are used to indicate some of the
+major problems and uncertainties:
+< > Angle brackets enclose the translation of Latin words that are
+not in the manuscripts but are added by the editor (but minor
+supplements that are uncontroversial or do not substantially
+affect the sense are ignored).
+[ ] Square brackets enclose the translation of Latin words that
+are in the manuscripts but are regarded as later interpolations,
+not Seneca’s own words.
+*** Asterisks within angle brackets indicate that something is
+missing from the manuscripts, but no supplement is offered
+in the translation. Asterisks without brackets indicate that the
+Latin is badly corrupt and I have left it untranslated.
+I have usually translated the text of my Teubner edition (1996), except
+that I translate a different text at the places listed below. In most cases
+the differences consist in adopting a supplement or conjecture that is
+less than certain but at least gives plausible and intelligible sense.
+1.3.8: The direct speech is ended after atque continuae instead of
+aciem repellendam.
+1.6.3: subito <nascatur, et subito> desinat, cum omnes fulgores <et
+paulatim fiant>.
+17
+tr a nsl ator’s introduc tion
+terms reflect and refract in the translation in favor of more neutral
+(though less natural) phrases like bend back. Sometimes Latin is ca-
+pable of greater precision than English: in book 3 on rivers, Seneca
+can exploit the difference between amnis, which is normally a very
+large, grand river, and flumen and fluuius, which normally denote
+rivers of more average size; but while English has various words for
+smaller streams, it has no word like amnis to denote a large river.t r a n sl at or’s i n t r o d u c t io n
+18
+1.6.6: iam <paene> eius naturae est.
+2.2.4: quorsus istud.
+2.12.5: nec <extingui nec>.
+2.23.2: sit et (in place of †his†).19
+2.24.1: aut <falsum est hoc aut>.
+2.35.1: <risu> excipiunt.
+2.50.1: <quaedam significant id quod ad nos non pertinet,>.
+2.51: eidem homini <idem>.
+2.53.2: adflata <uitiantur>.
+2.59.4: alia uarie fortuna disponit.
+2.59.7; peteret <ut praeberet>.
+2.59.11: extimescis.
+3.16.4: sunt ingentes[que].
+3.18.3: ipse oportet mihi credam.
+3.19.4: <alii aliquatenus in aperto fluunt,>.
+Ibid.: sicut fluminum fontes.
+3.20.5: [et] habens.
+3.25.10: <ora>.
+3.27.2: †his† is omitted.
+3.27.5: iam nec gramina aut pabula laeta <laxatum> aquis sustinet.
+5.13.3: et (in place of †haec†).
+5.18.2: niues is a misprint for nubes.
+6.1.5: agit, et (instead of agitat,; see N. Holmes, Classical Quar-
+terly 54, no. 1 [2004]: 311–12).
+6.2.9: The direct speech is ended after orbe concusso instead of
+uidere mortalem.
+6.7.6: redundare (in place of †reicere†).
+6.9.1: et <ii> quidem non <indocti>.
+6.12.1: inquisitor.
+6.13.3: <frigido autem aeri qui iam sub terra collectus est> hic calidus
+(in place of †huic alius†).
+7.1.3: <nisi adiacentem>.
+7.11.2: forma eis non est una, <sed eiusdem notae sunt>.
+7.14.4: in alias incident.
+7.27.1: exhibeat (in place of †accipiat†).Analytical Table of Contents of Individual Books
+This table follows the original order in which the books were com-
+posed, but with the traditional numbering (see above).
+Praef. Introduction: The importance of studying the physical
+world.
+1–3
+Announcement of topic: where rivers come from; the
+varied properties of water.
+4–5
+Why rivers do not raise the sea level.
+6–7
+Rain as a cause of rivers.
+8–10
+Underground water as a cause of rivers.
+11
+Why some rivers dry up periodically.
+12–13 Water is one of the four elements, so in plentiful
+supply.
+14
+Other theories.
+15
+The earth has veins and arteries like the human body.
+16.1–3 Periodic springs and rivers.
+16.4–5 Underground caves with living creatures.
+17–18 Moral excursus: the craze for watching mullets die at the
+dining table.
+19
+Underground fish and underground rivers.
+20
+The causes of different flavors of water.
+21
+Lethal exhalations from caves.
+22
+Primeval water and recently formed water.
+24
+Hot springs.
+25–26 Various unusual properties of springs and rivers.
+27–30 Epilogue: the great flood that periodically destroys the
+earth and purifies humankind.
+Book 4 a: On the Nile
+Praef. Advice to Lucilius on combating flattery.
+1
+The puzzle of the Nile’s source and its annual flooding.
+2.1–16 Description of the known course of the Nile.
+2.17–30 Different theories of the flooding of the Nile (Thales,
+Euthymenes, Oenopides, Diogenes of Apollonia).20
+tr a nsl ator’s introduc tion
+Book 3: On Terr estr ial Waters
+19Book 4 b On Cl ouds, <R a in, H a il , Snow> 21
+t r a n sl at or’s i n t r o d u c t io n
+20
+3–5
+6–7
+8–12
+13
+The formation of hail.
+The prediction of hailstorms.
+Factors that determine whether snow or hail is formed.
+Epilogue: the misuse of snow to produce ever-colder
+drinks.
+Book 5: On W inds
+1
+2–6
+7
+8–11
+10
+12
+13
+14
+15
+Definitions of wind.
+Causes of wind.
+Pre-dawn breezes.
+Coastal breezes.
+The etesian winds.
+Winds from a cloud.
+Whirlwinds.
+Winds are produced from underground caves.
+Excursus: Asclepiodotus’s story of people sent under-
+ground by Philip of Macedon.
+16–17.4 The twelve principal winds.
+17.5
+Local winds.
+18
+Epilogue: nature’s gift of winds has been abused by
+humans.
+Book 6: On E arthquak es
+1–4
+Introduction: the recent Campanian earthquake. The need
+to free people from fear of earthquakes by enabling them
+to understand them.
+5
+Earthquakes have variously been thought to be caused by
+water, fire, earth, air, or a combination.
+6–8
+Water as cause.
+9
+Fire as cause.
+10
+Earth as cause.
+11
+Fire as cause.
+12–19 Air as cause.
+20–21.1 All four elements as causes, but chiefly air.
+21.2–25 Different kinds of earthquakes and their causes.
+26
+Earthquakes can occur everywhere.27–31
+32
+Explanations of unusual events associated with the Cam-
+panian earthquake.
+Epilogue: how to be free from fear of earthquakes.
+21
+Book 7 : On Comets
+Introduction: rare phenomena like comets attract more
+attention than regular phenomena.
+2
+Questions concerning comets.
+3–4.1 Brief history of the study of comets.
+4.2–10 Epigenes’ theory: comets form in the atmosphere.
+11
+Properties of comets.
+12
+The theory that comets are the conjunction of two planets.
+13–16 Artemidorus’s theory: comets are the conjunction of two
+planets, many of them unknown.
+17–18 Apollonius of Myndus’s theory: comets are unknown
+planets.
+19–21 Stoic theories: comets form in the atmosphere.
+22–29 Arguments that comets are akin to planets.
+30
+Epilogue: the need for reverence when investigating
+nature.
+31–32 Contemporary neglect of philosophy and pursuit of luxury
+and vice.
+Book 1: On . . . Fir es
+Praef. Introduction: the highest form of philosophy is the study
+of god and the cosmos.
+1
+Meteors.
+2
+Coronae.
+3–8
+Rainbows.
+9–10 Rods.
+11–13 Parhelia.
+14–15 Meteors.
+16
+Epilogue: Hostius Quadra and the misuse of mirrors.
+17
+The proper uses of mirrors.
+Book 2: On Lightning and Thunder
+1
+Introduction: the branches of physical science: astronomy,
+meteorology and earth sciences.
+tr a nsl ator’s introduc tion
+12–11
+12–20
+t r a n sl at or’s i n t r o d u c t io n
+22
+The properties of air.
+Thunder, lightning-flash and lightning-bolt: review of
+earlier theories.
+20–26 The theory accepted by Seneca.
+27–29 Different kinds of thunder.
+30
+Formation of thunder and lightning from dry clouds.
+31
+Marvelous effects of lightning.
+32–51 Divination from lightning: comparison of the Etruscan
+and Stoic views.
+52–53 Marvelous effects of lightning.
+54–56 Review of earlier theories of thunder and lightning.
+57–58 The theory accepted by Seneca.
+59
+Epilogue: Removing the fear of lightning.
