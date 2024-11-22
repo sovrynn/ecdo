@@ -1,4 +1,4 @@
-# Senecae
+# Seneca
 
 Greek philosopher.
 
