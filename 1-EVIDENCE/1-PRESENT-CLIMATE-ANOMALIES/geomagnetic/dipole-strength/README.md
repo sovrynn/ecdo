@@ -9,6 +9,70 @@
 Pretty severe drop since around 700 AD
 https://sci-hub.ru/10.1038/scientificamerican1289-68
 
+### Quotes
+
+![](img/bloxham1.png)
+
+If the magnetic field at the core
+were a simple dipole aligned with the
+earth's rotational axis, the map would
+become bluer toward the North Pole
+and redder toward the South Pole.
+Such a coloring would indicate that
+the most intense flux is at the geo­
+graphic poles. In addition, the equator
+of the core surface would coincide
+with the boundary between red and
+blue shades, because the magnetic
+equator would coincide with the geo­
+graphic equator.
+
+Our group found that the great­
+est contribution to the dipole
+field comes from four patches
+on the core surface [see illustration
+below). These patches are symmet­
+rically displaced about the Equator.
+( Their centers lie at the intersection
+of the lines 60 degrees north, 60
+degrees south, 120 degrees east and
+120 degrees west.) 1:he locations of
+the patches have not changed much
+throughout historical time, which
+suggests that they have a long-term
+role in shaping the earth's magnet­
+ic field.
+
+![](img/bloxham2.png)
+
+Some features of the field move and
+form at a rapid pace whereas others
+remain stationary. This phenomenon
+suggests some external influence. As
+long ago as 1967, Hide proposed that
+inverted mountains protruding from
+the mantle into the core could affect
+fluid flow at the core surface. Hence,
+the inverted mountains could influ­
+ence the magnetic field in a manner
+similar to the way that mountains at
+the earth's surface affect the weather.
+
+Evidence is mounting that the
+present dramatic fall in the di­
+pole component of the field is
+caused by the growth and propagation
+of the reverse-flux features beneath
+Africa and the Atlantic Ocean. It seems
+that the present reduction in the di­
+pole component of the field is caused
+by the growth of the African core spot
+and the southward movement of the
+Atlantic core spot.
+
+![](img/bloxham3.png)
+![](img/bloxham4.png)
+
 ## Earth's geomagnetic dipole weakening
 
 This seems fairly well documented in the literature.
