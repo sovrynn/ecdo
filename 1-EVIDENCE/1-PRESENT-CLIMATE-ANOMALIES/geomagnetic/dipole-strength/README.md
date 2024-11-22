@@ -1,5 +1,14 @@
 # Dipole Strength
 
+## Falling since 700 AD
+
+![](img/bloxham.jpg)
+
+"The magnetic field has reversed polarity at different intervals during different geological periods. During the Cretaceous period 90 million years ago and the Permian period 170 million years ago, we know that no reversals occurred because the rocks that formed during those periods share the same polarity. During the past 90 million years reversals have steadily become more frequent. The core changes too rapidly to account easily for such long-term behavior. /// Some features of the field move and form at a rapid pace whereas others remain stationary. This phenomenon suggests some external influence. ///  If the temperature increased in the deep mantle, particularly beneath southern Africa or Indonesia, the formation of the reverse-flux features could accelerate, thereby precipitating reversals."
+
+Pretty severe drop since around 700 AD
+https://sci-hub.ru/10.1038/scientificamerican1289-68
+
 ## Earth's geomagnetic dipole weakening
 
 This seems fairly well documented in the literature.
