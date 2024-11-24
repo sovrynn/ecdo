@@ -10,7 +10,7 @@ Anna's Archive: https://annas-archive.org/llm
 
 https://platform.openai.com/docs/quickstart?language-preference=python
 
-## Preexisting ECDO LLMs
+## ECDO GPTs
 
 1. ECDO v1 textual model (updated Nov 15, 2024): https://chatgpt.com/g/g-7TBwEWlWT-ecdo-v1
 2. Edgar's model (Oldest, updated Sep 16, 2024): https://chatgpt.com/g/g-B3wax7hqy-ecdo-zone-safety-analyst
@@ -18,7 +18,7 @@ https://platform.openai.com/docs/quickstart?language-preference=python
 	- After uploading more than 15-20 documents the GPT started to give errors and the process had to be restarted
 	- Useful for an overview of the theory and the possible safe zones, but still better to read the original content for proper understanding
 
-## List of AI Models
+## List of proprietary AI LLM services
 
 Good:
 - ChatGPT
@@ -35,16 +35,6 @@ Other:
 - Gab, Grok
 - Cursor AI software development: https://www.cursor.com/
 - Afforai - AI Research assistant and chatbot: https://afforai.com
-
-## Open Source
-
-- Llama 3.1
-- best coding model (Deepseek)
-- best open-source Multimodal language model (Qwen2-VL)
-	- Qwen2-VL 72B: https://huggingface.co/Qwen/Qwen2-VL-72B-Instruct
-- two of best open-source anything models (Yi-lightning and also Qwen again)
-
-Deepseek has recently announced a model that outperforms o1-preview, open source. That'll be wonderful to check out.
 
 ## Sample ECDO v1 textual model response
 
