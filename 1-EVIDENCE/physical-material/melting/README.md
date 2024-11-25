@@ -44,3 +44,7 @@ Yakimochi wall.
 ![](img/new-mexico1.jpeg)
 ![](img/new-mexico2.jpeg)
 ![](img/new-mexico3.jpeg)
+
+## Royal Tomb, Machu Picchu
+
+![](img/royal-tomb-machu-picchu.jpeg)
