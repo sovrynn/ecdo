@@ -63,5 +63,13 @@ def main():
     print(markdown_output)
     print("```")
 
+        # Read the existing contents of the file
+    with open(file_path, 'r') as file:
+        original_content = file.read()
+    
+    # Write the new content (prepend) followed by the original content
+    with open(file_path, 'w') as file:
+        file.write(markdown_output + '\n' + original_content)
+
 if __name__ == "__main__":
     main()
