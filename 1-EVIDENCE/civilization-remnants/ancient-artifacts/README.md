@@ -44,12 +44,6 @@ They appear in various numbers of turns in many neolithic sites. The number of t
 2. https://www.landesmuseum-vorgeschichte.de/en/nebra-sky-disc/the-place-of-discovery
 3. https://www.tandfonline.com/doi/pdf/10.1080/1751696X.2024.2373876
 
-## Imago Mundi
-
-![](img/imago-mundi.jpg)
-
-https://ubique.americangeo.org/map-of-the-week/map-of-the-week-the-imago-mundi/#:~:text=A%20circular%20%E2%80%9Cbitter%20river%E2%80%9D%20or,that%20extend%20beyond%20the%20sea.
-
 ## Pyramid symbolism?
 
 The geometric theme of a pyramid and butterfly vortices seems quite common in ancient art across the world. Top left was not necessarily art though - it's part of a suspected deluge bunker (Newgrange), so I think of it as having been placed there by someone who was a part of the Enochian/Deluge tradition, which seems to arise in many other parts of the world in various forms as well. [4]

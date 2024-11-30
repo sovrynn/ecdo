@@ -131,6 +131,15 @@ Those whom are members of the brotherhood, especially those more highly placed, 
 
 See `img/1801776691427123711-EPnvs8GmbDz4P4qc.mp4`.
 
+## Kamala Harris Name
+
+![](img/kamala-harris.jpg)
+
+Confirmed:
+
+![](img/kamala-harris2.jpg)
+![](img/kamala-harris3.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
