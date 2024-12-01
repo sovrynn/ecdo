@@ -74,7 +74,7 @@ def filter_lines_under_h1(lines, h1_start_idx, h1_end_idx):
     
     # Filter to keep only list entries (lines starting with '-', possibly preceded by whitespace)
     filtered_under_h1 = [
-        line for line in under_h1 if line.lstrip().startswith("- ") or line == '\n'
+        line for line in under_h1 if line.lstrip().startswith("- [")
     ]
     
     # Lines after the first H1 header remain unchanged
