@@ -1,598 +1,302 @@
 # GPT Summary: Table of Contents
 
 - [Chapter 1: THE ENGINEERING STRUCTURES OF ANCIENT MAN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-1-the-engineering-structures-of-ancient-man)
-Ancient engineering structures, including standing stones and dolmens found globally, suggest advanced societal organization and possibly shared ancient cultural knowledge, challenging current anthropological theories.
 - [ON THE CELTIC ANTIQUITIES OF AMERICA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#on-the-celtic-antiquities-of-america)
-The text explores mysterious ancient structures in America and Guatemala, including rocking stones and giant monoliths of Quiragua, whose origins and purposes remain enigmatic.
 - [STANDING STONES AND DOLMENS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#standing-stones-and-dolmens)
-Dolmens, stone structures featuring a large flat stone supported by smaller ones, may predate the Chamorro people and hint at a forgotten era of skilled builders.
 - [MEGALITHIC MONUMENTS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#megalithic-monuments)
-The Lat'te Monuments, featuring distinctive stone pillars topped with hemispherical stones, dot the Marianas Islands and signify a sophisticated ancient society, though their precise origins are still unknown.
 - [Megalithic Structures in Indonesia](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#megalithic-structures-in-indonesia)
-Indonesia's megalithic structures, including menhirs, dolmens, and rock-cut tombs, showcase diverse cultural and spiritual significances across various regions, from West Seran's arranged stone offerings to North Celebes' hewn stone tombs.
 - [Korean Megalithic Structures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#korean-megalithic-structures)
-The text describes diverse stone structures and megalithic monuments in Indonesia and Korea, highlighting their varied forms, cultural significances, and potential ties to burial practices.
 - [Khasi Hills Megaliths](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#khasi-hills-megaliths)
-Korean dolmens, distinguished by regional variations in construction between northern and southern types, have suffered significant damage due to local curiosity, looting, and repurposing.
 - [Tridents and Triliths in West Africa](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#tridents-and-triliths-in-west-africa)
-The Khasi Hills Megaliths are ancient stone structures erected by the Khasi people in the hilly regions of Northeast India, serving as monuments for various cultural and religious purposes.
 - [THE MENHIRS OF MADAGASCAR](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-menhirs-of-madagascar)
-Stone arrangements in Khasi hills symbolize fertility and familial heritage, while in West Africa, tridents mark historical events and in Madagascar, menhirs serve as sacred objects for women's fertility prayers.
 - [STANDING STONES AND DOLMENS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#standing-stones-and-dolmens)
-The text describes triliths as triangular arrangements of stones used for prayer orientation in Islam and mentions Ralambo, a 16th-century king who erected a notably small menhir to commemorate his victory over a village.
 - [ANTIQUITIES ON THE ISLAND OF MINORCA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#antiquities-on-the-island-of-minorca)
-A uniquely shaped stone, deemed sacred and symbolic of unity between ruler and people, undergoes a ritual involving the sprinkling of sacrificial blood, a practice independently observed in various cultures including documentation by Colonel Forbes Leslie in India.
 - [GRAVES AND SMALL MOUNDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#graves-and-small-mounds)
-Numerous dolmen groups in northern Galilee exhibit varied orientations, are often constructed from roughly hewn limestone slabs, and may be partially submerged in the earth, with their conditions ranging from poor to good.
 - [Graves and Small Mounds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#graves-and-small-mounds)
-Dolmen chambers exhibit advanced stonework with narrow, elongated designs, while megalithic monuments on Minorca, including talayots and dolmens, reflect early prehistoric culture and techniques, indicating significant historical practices and architectural evolution.
 - [NOTES ON THE ANTIQUITIES OF TONGA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#notes-on-the-antiquities-of-tonga)
-The stone graves of Tennessee, characterized by their unique use of local thin stone slabs and distinctive pottery, represent a culturally significant burial practice that differs from other anomalies like the small graves误解出现在“小坟墓”的解释上，原文提到的是对小型墓葬的最初解释认为是矮人种族的墓葬，但进一步的研究表明这些墓葬多数埋葬的是儿童。因此，可以这样总结：
 
-田纳西州的石墓因其使用当地薄石板的独特建筑风格和别具一格的陶器而引人注目，代表了一种具有文化意义的葬礼习俗，与其他异常现象（如小坟墓）有所不同，后者最初被认为是矮人种族的墓葬，但后来发现多数埋葬的是儿童。 
 
-如果需要更简洁的版本：
 
-田纳西州的石墓以其独特的建筑风格和陶器反映了重要的文化葬礼习俗，与被认为埋葬矮人的小型墓葬等其他葬礼实践形成对比。
 - [PREHISTORIC JAPAN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#prehistoric-japan)
-This text explores various archaeological findings including stone-covered graves in Pennsylvania, small graves misinterpreted as dwarf remains, burnt rock mounds in Texas, and Huastec mounds in Mexico, highlighting the diverse constructions and ongoing investigations into their purposes and origins.
 - [Chapter 1: Anomalies in Dolmen Centers](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-1-anomalies-in-dolmen-centers)
-The Haamonga Stones, whose exact age is unknown, are associated with local legends attributing their creation to the mythical figure Maui, adding complexity to their historical importance.
 - [Chapter 2: Tumuli Fields and Their Characteristics](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-2-tumuli-fields-and-their-characteristics)
-The text describes an artificial hill near Holeva with mysterious origins and megalithic monuments near Mua whose purposes are largely speculative.
 - [Chapter 3: Bahrein Tumuli](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-3-bahrein-tumuli)
-The misasagi, large dolmen-like imperial grave mounds in prehistoric Japan, indicate a sophisticated level of craftsmanship and social organization through their intricate construction and community involvement.
 - [Chapter 4: Burial Monuments of North Africa](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-4-burial-monuments-of-north-africa)
-The twin mounds of the dolmen period in Japan, characterized by their trapezoidal shape and surrounding moats, suggest a combination of practical burial purposes and ritualistic significance indicative of a complex social structure.
 - [Chapter 5: Bee-Hive Tombs of Mezek](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-5-bee-hive-tombs-of-mezek)
-The distribution of dolmens in Japan reveals insights into ancient political structures, social hierarchies, and cultural practices through variations in size and location.
 - [Chapter 1: Anomalous Dates and Structures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-1-anomalous-dates-and-structures)
-The discovery of advanced dolmen centers in Bizen and the historically significant Gokinai region of ancient Japan indicates the presence of sophisticated societal structures and construction techniques.
 - [Chapter 2: Sunlight and Tomb Orientation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-2-sunlight-and-tomb-orientation)
-Japanese tumuli, unique to the iron age and characterized by megalithic structures, reflect a distinct cultural and technological evolution compared to earlier ages and neighboring regions like Korea.
 - [Chapter 3: Architectural Features and Artistic Elements](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-3-architectural-features-and-artistic-elements)
-The close grouping of mounds on sloping terrain in Bahrein suggests a communal burial practice or hierarchical ranking among the deceased, reflecting potential social structures.
 - [Chapter 4: Fortifications and Earthworks](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-4-fortifications-and-earthworks)
-The Bahrein tumuli, characterized by their numerous burial mounds varying in size and featuring oblong tomb chambers with corner recesses, suggest a sophisticated societal structure and possible ritualistic practices.
 - [Chapter 5: Undefined Functionality of Structures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-5-undefined-functionality-of-structures)
-The burial tumuli in North Africa showcase advanced architectural complexity and cultural significance in funerary practices, predating Roman influence and reflecting long-standing traditions.
 - [Anomalies in Fort Mountain Description](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-fort-mountain-description)
-The archaeological findings from various chapters highlight the sophisticated architectural designs, cultural significance of light and solar events, and the artistic expressions in ancient tombs, reflecting both practical and spiritual considerations in their construction.
 - [Vitrified Forts on the West Coast of Scotland](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#vitrified-forts-on-the-west-coast-of-scotland)
-Chapters 4 and 5 explore anomalous fortifications, earthworks, and stone structures in North America that suggest pre-colonial societies had more advanced defensive, organizational, and possibly ceremonial capabilities than previously thought.
 - [Tower of Babel](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#tower-of-babel)
-The uniquely designed southwestern covered way, characterized by its walls with strictly parallel sides that diverge at one end, suggests intentional planning and a sophisticated understanding of spatial integration within the landscape.
 - [Section of Wall at Vitrified Fort](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#section-of-wall-at-vitrified-fort)
-The zigzag construction of the wall at Fort Mountain, designed to strategically thwart direct assaults, presents an unusual fortification method that differs from traditional straight walls, yet lacks clear historical documentation within indigenous knowledge.
 - [Examination of Vitrified Forts in France](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#examination-of-vitrified-forts-in-france)
-The mysterious origins of the fort, coupled with its deterioration over time due to human activity, highlight gaps in historical knowledge and preservation efforts.
 - [Remarkable Feature in the Entrenchments of Knap Hill Camp](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#remarkable-feature-in-the-entrenchments-of-knap-hill-camp)
-The ancient wall, once towering and majestic, has been reduced in height due to erosion and human activity, while its sole entranceway remains shrouded in mystery, uncertainly dating from either its construction or a later period.
 - [Chapter 1: Anomalies in Defense Structures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-1-anomalies-in-defense-structures)
-The unique zigzag-shaped wall of Fort Mountain, differing from other aboriginal constructions, suggests specialized defensive strategies, while its cultural significance is enhanced by legendary associations, highlighting the interplay between history and folklore at this site.
 - [Chapter 2: Earthworks in Eastern Massachusetts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-2-earthworks-in-eastern-massachusetts)
-The internal part of the upper vitrified wall remained untouched by fire, suggesting a construction method involving layered stones and an externally applied intense heat, while its foundation is made of water-worn boulders.
 - [Chapter 3: Coast and Maritime Structures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-3-coast-and-maritime-structures)
-Excavations revealed a foundation of shoreline boulders at the base of the vitrified wall, indicating a deliberate choice for stability.
 - [Chapter 4: Mysterious Walls in the Berkeley and Oakland Hills](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-4-mysterious-walls-in-the-berkeley-and-oakland-hills)
-The expansive ruins, encompassing a base circuit of 3,082 feet with notable cliffs and ravines, feature vitrified walls of varying thicknesses, prompting inquiries into their original function and construction methods.
 - [Chapter 5: Ancient Works in Florida](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-5-ancient-works-in-florida)
-The fort's walls, reaching up to 7 feet in height and 6 feet in thickness, along with the presence of multiple walls in differing conditions, indicate a robust defensive structure with a layered history of construction and maintenance.
 - [Walls, Embankments, and Ditches](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#walls-embankments-and-ditches)
-The analysis of vitrified materials and excavations at various historical sites reveals intentional design and sophisticated construction techniques, challenging previous theories and highlighting the strategic and complex nature of ancient fortifications and earthworks.
 - [A TRINCHERA NEAR QUITOVAQUITA, SONORA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#a-trinchera-near-quitovaquita-sonora)
-The shell walls, or "shell keys," found off the Florida coast represent advanced and sophisticated coastal structures that likely served as protective barriers for ancient settlements, showcasing a higher level of construction than other local archaeological discoveries.
 - [THE "GREAT WALL OF PERU"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-great-wall-of-peru)
-The mysterious stone walls in the Berkeley and Oakland Hills, whose construction purposes remain speculative for over a century, feature segments that hint at possible defensive roles while others appear to have no clear utility.
 - [Chapter 1](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-1)
-Ancient walls in Florida, showing variability in height and construction, along with discovered artifacts like pottery and tools, suggest a complex societal structure and historical significance dating back to ancient fortifications.
 - [Chapter 2](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-2)
-The ancient site reveals possible garden plots on raised terraces, chipped and bored stones within its walls, and various theories about its structure's purpose, showcasing the sophisticated interaction between its builders and their environment.
 - [Chapter 3](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-3)
-The purpose of the stone walls remains ambiguous, with theories ranging from military fortifications to hunting structures or glacial remnants, and they exhibit anomalies such as lacking correlation with boundary lines and featuring circular and irregular structures.
 - [SHEBIB'S WALL IN TRANSJORDAN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#shebibs-wall-in-transjordan)
-The unique circular designs and irregular wall layouts of the enclosures complicate their functional understanding and historical origins, with even local residents offering no definitive insights into who constructed them.
 - [DELTA OF EXCAVATIONS AT BIGO, UGANDA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#delta-of-excavations-at-bigo-uganda)
-The discovery of distinct earthworks in British Columbia attributed to the Haida Indians opens new insights into their prehistoric land use and habitation.
 - [LYONESSE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#lyonesse)
-The Rose Point earthworks, appearing disordered and potentially predating current dunes, along with the growth of large trees among them, suggest an ancient origin and unknown purpose, similar to the enigmatic functions of Tikal's earthworks.
 - [DORSET CURSUS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#dorset-cursus)
-The earthworks near Tikal, initially thought to be natural formations, might have served a defensive purpose given their distance from the central area, similar to how a trench near Quitovacita in Sonora could have impeded passage due to the presence of frequent causeways suggesting an inhospitable environment.
 - [DURRINGTON WALLS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#durrington-walls)
-Though there is no conclusive evidence of habitation, the Quitovaquita trench structures, possibly serving religious purposes as suggested by Lumholtz, stand in strategically significant yet potentially impractical locations.
 - [Anomalies in the Book Excerpt](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-the-book-excerpt)
-The "Great Wall of Peru" and the artificial islands of the region present mysteries in their construction and purposes, challenging our understanding of ancient engineering and suggesting sophisticated social structures and labor efforts.
 - [POSSIBLE MEGALITHIC ASTRONOMICAL ALIGNMENTS IN NEW ENGLAND](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#possible-megalithic-astronomical-alignments-in-new-england)
-The chapter highlights that the complex defensive walls, though showing signs of deterioration, were primarily constructed to protect against external threats rather than internal conflicts.
 - [THE TIPI RINGS OF THE HIGH PLAINS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-tipi-rings-of-the-high-plains)
-Cultural monuments like cairns and structures referred to as "kites" in various regions highlight diverse historical uses beyond simple memorialization or burial, serving as markers, commemorations, or functional elements in ancient societies.
 - [A WHEEL-SHAPED STONE MONUMENT IN WYOMING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#a-wheel-shaped-stone-monument-in-wyoming)
-The 'Khat Shebib', a wall stretching from Ail JeBeL Jiththa to the El'AsHaRA: Ma'an edge in Jordan, was constructed by Amir Shebib el Tubba'i and likely functioned as a visible boundary line rather than a defensive structure.
 - [MEDICINE WHEELS AND PLAINS INDIAN ASTRONOMY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#medicine-wheels-and-plains-indian-astronomy)
-The excavations at Bigo, Uganda, revealed a deeply silted ditch cut into solid rock, which was used as a rubbish tip and demonstrates the advanced construction techniques of the Bachwezi.
 - [STONE CIRCLES AND UPRIGHT STONES IN NEW MEXICO](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#stone-circles-and-upright-stones-in-new-mexico)
-The legend of Lyonesse, a fertile land now submerged between the Scilly Isles and Cornwall, is supported by archaeological discoveries of underwater walls.
 - [STONE CIRCLES, ALIGNMENTS, AND HENGES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#stone-circles-alignments-and-henges)
-The text highlights various prehistoric sites and anomalies, including the line of stones in Lyonesse, the extensive Dorset Cursus, the underappreciated Durrington Walls, and the intriguing Dewlish Trench, all suggesting significant human activity and ceremonial importance in ancient landscapes.
 - [RIDDLE OF COSTA RICA'S JUNGLE SPHERES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#riddle-of-costa-ricas-jungle-spheres)
-Ohio's ancient earthworks, featuring circular enclosures and mounds with religious significance, alongside the stone markings at the Raymond site, indicate sophisticated social and ceremonial practices among the mound builders.
 - [THE PRIMEVAL MONUMENTS OF PERU COMPARED](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-primeval-monuments-of-peru-compared)
-A series of monoliths on Ragged Island are aligned in a way that suggests intentional placement by a past civilization.
 - [STONE CIRCLES IN TONGAREVA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#stone-circles-in-tongareva)
-The strategic alignment of a monolith with other boulders on Ragged Island suggests it was purposefully used by ancient peoples to mark astronomical events like solstices for calendrical or ceremonial functions.
 - [ORDERED ARRANGEMENT OF STONES IN AUSTRALIA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#ordered-arrangement-of-stones-in-australia)
-The observation of another monolith on Sandy Island suggests potential ritualistic and astronomical significance through aligned sightlines and cup marks, adding complexity to its initial functionality.
 - [The Stone Circles of Oyu](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-stone-circles-of-oyu)
-Cup-marked stones in the British Isles and Western Europe, stone circles and dolmens in New England, and tipi rings on the High Plains all suggest that ancient and indigenous peoples intentionally constructed or utilized these sites for astronomical, practical, or residential purposes.
 - [Stone Circles, Alignments, and Henges](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#stone-circles-alignments-and-henges)
-Tipi rings primarily serve domestic functions, though excavations hint at potential astronomical orientations, paralleled by a wheel-shaped stone monument in Wyoming that points towards the summer solstice sunrise, raising questions about its purpose in a remote location.
 - [Note on Stone Circles in Gambia](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#note-on-stone-circles-in-gambia)
-The diverse designs and purposes of medicine wheels in Canada and the lesser-known stone circles in New Mexico highlight the varied astronomical and ceremonial practices among Indigenous peoples.
 - [Broken Megalithic Rings](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#broken-megalithic-rings)
-Major George H. Pradt discovered stone circles in New Mexico during a government survey, revealing a previously unnoticed ancient structure that raises questions about its purpose and origin.
 - [Stone Circles, Alignments, and Henges](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#stone-circles-alignments-and-henges)
-Various archaeological anomalies across North America and the Dominican Republic, including stone arrangements, mounds, and circular monuments, suggest advanced ancient civilizations capable of sophisticated geometric and astronomical alignments.
 - [The Caithness Fan-Shaped Arrays](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-caithness-fan-shaped-arrays)
-Excavations in Uaxactun and analyses of the Caracol Observatory at Chichen Itza reveal the ancient Mayans' advanced use of architecture for precise astronomical observations, aligning structures with solar and lunar phenomena.
 - [Page 87](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-87)
-Various ancient stone formations, including spheres in Costa Rica, chulpas and sun circles in Peru, limestone pillars in Tongareva, stone pathways in Australia, and fire-marked stone piles, suggest ceremonial or astronomical significance despite varied and sometimes obscure purposes.
 - [Page 88](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-88)
-Stone circles such as the Nonakado and Manza exhibit shared significant features like sun-dial constructions and demonstrate mathematically precise alignments with square and diagonal arrangements, suggesting deliberate design choices and cultural importance.
 - [Page 89](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-89)
-The stone circles at Maka, potentially indicating complex social or ceremonial purposes, along with the varied designs and debated construction techniques of European megalithic structures, showcase the richness and diversity of ancient stone construction practices.
 - [Page 90](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-90)
-Stone circles, including Type A Rings, Type B Circles, Oblate Circles, and Type I Egg-shaped Rings, showcase the megalithic builders' advanced understanding and application of geometric principles in creating structurally and mathematically significant monuments.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies)
-The text explores various ancient stone structures, including egg-shaped rings and fan-shaped arrays, highlighting the builders' sophisticated use of geometry and astronomy, while noting the challenges in interpreting these structures due to regional variations and complexities in their design.
 - [Anomalies in Stonehenge Analysis](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-stonehenge-analysis)
-Stone rows serve uncertain purposes ranging from processional paths to symbolic representations of ancestors, vary widely in length, and like Stonehenge, exhibit complex orientations that suggest significant ceremonial importance and evolving construction techniques over time.
 - [ANCIENT STONEWORKS FOUND IN LOCH NESS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#ancient-stoneworks-found-in-loch-ness)
-The dating and understanding of ancient structures' orientations, like those of Greek and Egyptian temples, rely on accounting for precession and astronomical variability, while facing challenges such as twilight brightness and erosion.
 - [THE ASTRONOMICAL SIGNIFICANCE OF THE CRUCUNO STONE RECTANGLE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-astronomical-significance-of-the-crucuno-stone-rectangle)
-Stonehenge shows signs of structural decline with many fallen stones, while the local horizon's elevation at the sunrise point measures around 35' 30", increasing to about 37' 30" when considering the sun’s upper limb.
 - [THE ASTRONOMICAL SIGNIFICANCE OF THE LARGE CARNAC MENHIRS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-astronomical-significance-of-the-large-carnac-menhirs)
-Adjustments for refraction parallax (27' 20") and the sun's semidiameter (15' 45") are crucial for enhancing the accuracy of celestial observations and measurements.
 - [THE OTHER PYRAMIDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-other-pyramids)
-The text covers the precise measurement of the sun's azimuth critical for determining its position, notes the potential 200-year error in dating astronomical events due to the obliquity of the ecliptic, and alludes to cycles of moonrise.
 - [THE GREAT CAHOKIA MOUND](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-great-cahokia-mound)
-The 19-year cycle of moonrise over specific stones, with observed irregularities, is crucial for understanding lunar periodicity and, alongside the predictable patterns of solar and lunar eclipses, suggests that ancient structures like the Aubrey holes may have been used for tracking time and celestial events.
 - [The Other Pyramids](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-other-pyramids)
-Stonehenge is suggested to function as an ancient computing mechanism capable of tracking lunar cycles and predicting lunar eclipses with high precision, demonstrating the sophistication of its builders' understanding of celestial mechanics.
 - [Page 108 Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-108-anomalies)
-While Stonehenge's computations for predicting eclipses indicate a sophisticated astronomical understanding, analyses also reveal inaccuracies in its predictive capabilities and suggest that some of its significant alignments may occur by chance.
 - [Page 110 Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-110-anomalies)
-Critics argue that the Aubrey holes' proposed use for counting 56-year cycles is impractical and poorly calibrated, with limited capabilities for predicting eclipses beyond the builders' lifetime.
 - [Chapter 1: Anomalies in Dating and Structure](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-1-anomalies-in-dating-and-structure)
-Scientists exploring Loch Ness have uncovered submerged prehistoric stoneworks, including cairns, revealing significant changes in water levels over centuries and offering new insights into ancient inhabitants.
 - [Page 116: The Other Pyramids](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-116-the-other-pyramids)
-The Cromlech de Crucuno, potentially serving as a symbolic observatory for marking calendar dates through lunar observations, presents an anomalous geometric configuration that suggests its effectiveness hinged on the presence of distant foresights, later confirmed.
 - [Page 117: Unusual Ancient Buildings](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-117-unusual-ancient-buildings)
-The transportation of the Er Grah menhir, weighing over 340 tons, poses significant logistical challenges that make both land and sea transport theories seem implausible given historical contexts.
 - [Page 118: A Deserted Haunt of Unknown Origin](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-118-a-deserted-haunt-of-unknown-origin)
-Er Grah, used as a universal tool for foresight, suggests a systematic method for long-distance astronomical observations, though its effectiveness depended on having a controlled site for accurate standardization and positioning.
 - [Page 119: The Sandyston Stone Chamber in New Jersey](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-119-the-sandyston-stone-chamber-in-new-jersey)
-The literature tends to underrepresent the Great Pyramid and other Egyptian pyramids compared to pyramids worldwide, often overlooking the effort in their precise positioning.
 - [Page 120: Fire Swept City of Ancient Man in Tennessee](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-120-fire-swept-city-of-ancient-man-in-tennessee)
-The existence of truncated pyramids across different regions suggests a possible universal motif influenced by shared cultural traditions.
 - [Unusual Ancient Buildings](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#unusual-ancient-buildings)
-The Cahokia Mound complex, uniquely situated on Cahokia Creek, showcases diverse prehistoric architectural styles and cultural interactions, featuring extensive earthworks and geometrically arranged mounds that reflect sophisticated ancient societies.
 - [Unusual Ancient Buildings](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#unusual-ancient-buildings)
-The underwater pyramids in Rock Lake challenge conventional archaeological understanding due to their unexpected location in a young glacial lake, while anomalies at the Cuicuilco site, including irregular dating and structure, further complicate the narrative of ancient American civilizations.
 - [THE ANCIENT RUINS OF TIAHUANACU](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-ancient-ruins-of-tiahuanacu)
-Various anomalies, including irregular shapes, natural cave-tunnels, and culturally influenced artifacts, complicate the understanding of ancient structures like pyramids and stone figures across different regions, suggesting complex cultural and technological motivations in their construction and use.
 - [PREHISTORIC STRUCTURES ON PONAPE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#prehistoric-structures-on-ponape)
-The text explores mysterious man-made structures, from the advanced architectural wonders of deserted ancient cities in Asia Minor and the Andes to the enigmatic granite huts found in the woods of New England, highlighting the enduring mysteries surrounding their origins and purposes.
 - [NAN MATOL: ANCIENT VENICE OF MICRONESIA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#nan-matol-ancient-venice-of-micronesia)
-Beehive-like beehive huts, including the Sandyston Stone Chamber in New Jersey, have sparked interest due to their unique construction, mysterious origins, and potential archaeological significance, offering insights into possible ancient habitation.
 - [UNNOTICED ANCIENT METROPOLIS OF ASIA MINOR](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#unnoticed-ancient-metropolis-of-asia-minor)
-An ancient prehistoric Indian city in Tennessee, notable for its sophisticated architectural features such as terraced constructions and earth lodges, was devastated by fire, leaving behind extensive ruins that provide insight into the advanced societal organization of its inhabitants prior to European contact.
 - [THE GERMAN EXCAVATIONS AT BAALBEK](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-german-excavations-at-baalbek)
-Ancient wooden palisades, featuring a plastered exterior to hinder enemy ascension, were part of a defensive structure overlooking the Kanawha River.
 - [RECENTLY DISCOVERED RUINS IN RHODESIA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#recently-discovered-ruins-in-rhodesia)
-Dr. Thomas describes conical stone chambers found on Rev. T. F. Nelson's farm in North Carolina, which were used as burial places and provide traces of ancient inhabitants.
 - [Unusual Ancient Buildings](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#unusual-ancient-buildings)
-Ancient structures across various locations exhibit unique architectural features and construction techniques, from dry-laid masonry towers in South Dakota to subterranean chambers in Chiapas and pavement-like stones in Bimini, each providing insights into prehistoric building methods and cultural practices.
 - [Anomalies in Ancient Structures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-ancient-structures)
-The ancient sites of Chulpas in Peru and Tiahuanacu showcase the architectural sophistication and cultural significance of pre-Columbian civilizations through their distinctive burial monuments, use of the true arch principle, and the enduring legacy of stone structures despite facing deterioration and vandalism.
 - [Anomalies in Ancient Structures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-ancient-structures)
-The ancient sites of Tiahuanacu and Ponape showcase remarkable architectural and engineering skills, including precise stone cutting, massive stone structures, and sophisticated construction techniques, reflecting the capabilities of advanced yet enigmatic civilizations.
 - [Prehistoric Roads](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#prehistoric-roads)
-The submerged structures near Nan Matol and the silent, sprawling ancient metropolis of Asia Minor both showcase mysterious, advanced civilizations whose origins and histories remain largely unknown, evidenced by their impressive construction and extensive enclosure walls.
 - [The Azanian Civilization of Kenya](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-azanian-civilization-of-kenya)
-The German excavations at Baalbek uncovered massive retaining walls and arched vaults, indicating the advanced construction techniques used in the temple complex's engineering.
 - [Egypt and the Suez Isthmus](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#egypt-and-the-suez-isthmus)
-The temple complex features some of the largest stones ever used in construction, with one stone weighing over a thousand tons, leaving the methods of their transportation and placement as enduring mysteries.
 - [THE CART-RUTS OF MALTA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-cart-ruts-of-malta)
-Recent discoveries in Rhodesia reveal ancient ruins with diverse architectural styles and intricate ornamental features, suggesting an evolution in building techniques and cultural sophistication among the ancient builders.
 - [PREHISTORIC ROADS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#prehistoric-roads)
-The text describes unique architectural features and artifacts found in ancient structures, including a distinctive stone and cement floor pattern, interior wall compartments, and diverse cultural artifacts suggesting external trade contacts.
 - [RADIOCARBON DATING OF PREHISTORIC WOODEN TRACKWAYS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#radiocarbon-dating-of-prehistoric-wooden-trackways)
-The extensive fifty-square-mile Niekerk ruins, composed of walls and structures made from irregular stones, showcase both the massive scale of construction and the advanced level of the community responsible for it.
 - [CANALS, DAMS, AND OTHER WATERWORKS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#canals-dams-and-other-waterworks)
-The ruins feature sequentially layered walls indicating methodical fortification or community planning, while excavations in the Dhlo Dhlo region revealed remnants of ceremonial feasts involving antelope, suggesting cultural rituals or communal gatherings.
 - [ANCIENT GARDEN BEDS OF MICHIGAN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#ancient-garden-beds-of-michigan)
-The alternating layers of stone and decorative patterns, such as chevrons, in Anomaly 8's walls reflect a sophisticated grasp of design and materials by its builders.
 - [A STONE DAM IN IOWA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#a-stone-dam-in-iowa)
-The builders ingeniously used local geographical features to create height-adjusted terraced platforms, enhancing structural stability.
 - [Canals, Dams, and Other Waterworks](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#canals-dams-and-other-waterworks)
-The ancient structures of Dhlo Dhlo showcase skilled stone-fitting techniques without mortar, while exhibiting unique features such as tiered walls, zigzag patterns, and a circular clay wall with a central hole, suggesting both decorative craftsmanship and potential restoration efforts.
 - [A Gigantic Earthwork in New Mexico](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#a-gigantic-earthwork-in-new-mexico)
-The Dhlo-Dhlo ruins puzzle archaeologists with their lack of dwelling and burial site remains, while in northern Africa, the recent discovery of thousands of dolmens challenges previous estimations, highlighting the need for more detailed mapping to understand their distribution.
 - [Rock Piles and Ancient Dams in the Klamath Valley](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#rock-piles-and-ancient-dams-in-the-klamath-valley)
-The chouchas near Bazinas, characterized by their 5 to 10-foot high stone layers, alongside Algeria's mysteriously connected tumuli and circles by double lines of stones, suggest significant archaeological and cultural importance and possibly ancient ritualistic symbolism.
 - [Maya Lowland Hydraulic Systems](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#maya-lowland-hydraulic-systems)
-The report highlights the varied construction qualities and potential hierarchical evolution in megalithic monument building techniques, while also noting the challenges and revelations in discovering these structures, such as the Tarxien Groups, which remained hidden until 1914.
 - [The "Ancient Stone Fish Traps" of the Coachella Valley](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-ancient-stone-fish-traps-of-the-coachella-valley)
-Talayots and Taulas, mysterious ancient structures found on the Balearic Islands, exhibit unique architectural anomalies that continue to puzzle archaeologists regarding their exact purpose and methods of construction.
 - [ANOMALIES IN SOUTH AMERICAN ANCIENT IRRIGATION](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-south-american-ancient-irrigation)
-The text explores the cultural and architectural significance of ancient structures, suggesting that talayots and taulas were linked to funereal practices and rituals, brochs in Scotland may have served defensive purposes, and large-scale geometric patterns in ancient constructions indicate early fascination with geometry.
 - [ANOMALIES IN FIKA EMIRATE WELLS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-fika-emirate-wells)
-The Maya civilization featured a sophisticated territorial organization structured in hexagonal patterns around hamlets and ceremonial-civic centers, reflecting a complex sociopolitical hierarchy and functional inter-relations among monuments.
 - [ANOMALIES IN RHODESIAN TERRACES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-rhodesian-terraces)
-Stonehenge and its surrounding sites showcase intentional alignments that suggest a sophisticated understanding of spatial and astronomical orientations, indicative of its use as an observatory for ritualistic purposes linked to seasonal cycles.
 - [ANOMALIES IN KENYAN WATER SUPPLY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-kenyan-water-supply)
-Watkins' discovery of ley lines and the sacred geometry in Melbury Park's layout reveal ancient connections between geographic features and cultural practices, highlighting strategic alignments with solar events.
 - [ANOMALIES IN JOSEPH'S CANAL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-josephs-canal)
-Teobert Maler, residing in Ticul and acquainted with Don Antonio, possibly acquired knowledge about the ancient ruins at Coba from his neighbor but intriguingly kept this information private, underscoring the mysterious nature of knowledge dissemination in that era.
 - [Excavations at Abydos](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#excavations-at-abydos)
-Prehistoric roads, including enigmatic features like the Maltese cart ruts, served various purposes beyond simple transportation,展示了史前道路，包括马耳他手推车轨道等神秘特征，其用途超出了简单的交通功能。 
 
-(Note: The original sentence structure was adjusted to fit natural Chinese expression.)
 
-Translation back to English:
-Prehistoric roads, including enigmatic features like the Maltese cart ruts, served various purposes beyond simple transportation, suggesting complex engineering and functional diversity.
 - [Prehistoric Engineering at Copais](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#prehistoric-engineering-at-copais)
-Prehistoric roads, including enigmatic features like the Maltese cart ruts, served various purposes beyond simple transportation and exhibited complex engineering, such as significant height variations, though many of their functions remain uncertain.
 - [Dew-Ponds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#dew-ponds)
-The Azanian Civilization of Kenya employed intricate construction techniques, utilizing nearly a million tons of stone for their ancient roads and revealing advanced commerce and labor organization through the discovery of well-preserved wooden trackways.
 - [Ancient Mines and Quarries](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#ancient-mines-and-quarries)
-The text explores various ancient earthworks and transportation systems, including linear earthworks in Africa with unique features, an ancient Egyptian ship railway suggesting advanced logistics, and the mysterious cart-ruts of Malta that question their natural or man-made origins.
 - [ANCIENT MINING IN AMERICA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#ancient-mining-in-america)
-The text describes varied-depth ruts, sharp turns, and cultural overlays of ancient tracks, highlighting challenges in dating and understanding their functionality, alongside the sophisticated engineering of ancient canals for water management.
 - [ABORIGINAL NOVACULITE QUARRIES IN GARLAND COUNTY, ARKANSAS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#aboriginal-novaculite-quarries-in-garland-county-arkansas)
-Recent discoveries along the Florida coast, including eroded palm stumps and canals seemingly oriented for shipping, suggest significant geographical transformations and raise questions about prehistoric water management.
 - [PITS IN CERTAIN SITES NEAR DALLAS, TEXAS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#pits-in-certain-sites-near-dallas-texas)
-The ancient garden beds of Michigan, characterized by their ordered symmetry and varied dimensions, showcase a sophisticated level of design and cultivation that differs markedly from conventional horticultural practices.
 - [THE ALIBATES FLINT QUARRY, TEXAS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-alibates-flint-quarry-texas)
-A stone dam in Ringgold County, Iowa, is believed to be a prehistoric construction due to its meticulous arrangement and lack of association with modern mills or constructions, supported by old settlers' observations of its presence during sparse population times.
 - [Ancient Mines and Quarries](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#ancient-mines-and-quarries)
-The text highlights anomalies in ancient waterworks and earthworks, including inconsistent clay linings, varied canal profiles, difficulties in dating canal constructions, and the巨大地工的不匹配规模，提出了这些工程可能是自然形成而非人类建造的疑问。 
 
-Translated back to English:
-The text highlights anomalies in ancient waterworks and earthworks, including inconsistent clay linings, varied canal profiles, difficulties in dating canal constructions, and the unmatched scale of earthworks that raise questions about whether these structures are of natural formation rather than anthropogenic origin.
 - [Study of the Spanish Diggings](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#study-of-the-spanish-diggings)
-The Klamath Valley's anomalies include earthworks of unmatched scale raising questions about human capability in their construction and unexplained rock piling practices with culturally significant or practical purposes that remain speculative.
 - [Ancient Salt Mines of the Indians](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#ancient-salt-mines-of-the-indians)
-The shift at Edzna from drilling deep for groundwater to utilizing surface water aquifers and aguadas highlights potential cultural or technological influences on ancient Maya water harvesting techniques in the lowlands.
 - [Puzzle of Mines](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#puzzle-of-mines)
-The ambiguous nature of fish traps in North America and the ancient tanks in South America both highlight the advanced engineering capabilities of prehistoric civilizations and challenge our understanding of their technological sophistication.
 - [RECENT DISCOVERIES IN MEXICO AND GUATEMALA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#recent-discoveries-in-mexico-and-guatemala)
-The transition from sophisticated engineering and agricultural societies to the primitive lifestyles of the wild Veddahs and uncivilized peasants highlights a notable decline in societal complexity and the abandonment of advanced agricultural systems.
 - [STONE FORT AND PITS ON THE INYANGA ESTATE, RHODESIA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#stone-fort-and-pits-on-the-inyanga-estate-rhodesia)
-Rock-cut wells in Fika Emirate and terraces in Southern Rhodesia showcase advanced ancient engineering skills, now shrouded in mystery and legend, pointing to sophisticated past cultures that have largely faded from memory.
 - [PREHISTORIC FLINT MINING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#prehistoric-flint-mining)
-Ancient engineering marvels such as the wells in Kenya Colony, Joseph's Canal in Egypt, and the reservoir at Abydos highlight sophisticated water management and societal organization in early civilizations, challenging our understanding of their technical capabilities.
 - [THE WILSFORD SHAFT](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-wilsford-shaft)
-Ancient engineering feats at Copais, including uncredited wells designed for efficient katabothra clearance and unfinished tunnels indicative of ambitious water management plans, showcase the prehistoric expertise in civil planning, contrasting with the incomplete complex drainage systems aimed at flood prevention.
 - [THE SALTING MOUNDS OF ESSEX](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-salting-mounds-of-essex)
-The text explores misconceptions about dew-ponds in Southern England, their potential historical origins, and describes an enigmatic underground stone structure in Goshen, Massachusetts, along with the debated ancient iron-smelting furnaces in Southern Ohio.
 - [SMALL STONE ARTIFACTS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#small-stone-artifacts)
-Ancient American mining sites reveal misinterpreted iron-smelting furnaces, abandoned galena mines, oil collection for medicinal uses, and the use of shallow depressions and wells for resource collection, offering insights into early working techniques and resource utilization.
 - [Antiquity of American Man](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#antiquity-of-american-man)
-Various sites across the United States have revealed evidence of ancient mining operations, ranging from deep shafts containing human remains in California to crude mining attempts for salt and iron in Indiana and Illinois, all marked by rudimentary tools and suggesting early human activity.
 - [Small Stone Artifacts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#small-stone-artifacts)
-Ancient miners extensively excavated ore bodies, creating complex passageways, as evidenced by the discovery of rudimentary stone tools in Missouri and aboriginal novaculite quarries in Arkansas.
 - [Man and the Glacial Period](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#man-and-the-glacial-period)
-Extensive digging on the east side of a ridge near Dallas, Texas, has resulted in a pit with a broken rim and varying depths up to 25 feet, surrounded by heaps of partially shaped novaculite fragments from prehistoric quarrying activities.
 - [Anomalies in Palaeolithic Implement Discoveries](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-palaeolithic-implement-discoveries)
-Circular pits of varying characteristics but consistent size and shape found at village sites along the East Fork of the Trinity and the Alibates flint quarry in Texas indicate extensive ancient extraction activities, with the latter showing signs of systematic emergency digging practices due to flint quality and accessibility.
 - [Page 200](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-200)
-Circular depressions of notable uniformity and size, likely used for collection or storage, alongside unusually large and crudely made implements, suggest a rudimentary level of craftsmanship and functionality among the users.
 - [Page 201](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-201)
-The quarry site's lack of refuse heaps and the presence of a peculiar stone figure suggest unique quarrying practices and possible ritualistic activities by prehistoric miners.
 - [Page 202](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-202)
-The Spanish Diggings site shows continuous use from the Clovis culture onwards, indicating long-term human activity and systematic mining operations.
 - [Page 203](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-203)
-Evidence suggests that the Spanish Diggings quartzite was preferred for making projectile points, showcasing advanced resource management through systematic mining practices.
 - [Anomalies in Cremation and Burial Practices](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-cremation-and-burial-practices)
-The salt mines present a puzzle with mysterious circular carvings, varied implement sizes suggesting a complex society, uniquely constructed small tunnels defying conventional use, and the presence of skeletons indicating potential multi-functional spaces.
 - [COLLARS AND ELBOW STONES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#collars-and-elbow-stones)
-Excavations at Monte Alban in Oaxaca, Mexico, have uncovered significant archaeological insights into the ancient Zapotec civilization. 
 
-(Note: The sentence provided a context related to Mexico but the initial bullet point was about a site in Zambia. Since the title specifies discoveries in Mexico and Guatemala, I focused on providing a relevant summary related to Mexico.)
 - [SMALL STONE ARTIFACTS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#small-stone-artifacts)
-Excavations at Monte Alban in Oaxaca, Mexico, resumed by Alfonso Caso, uncovered important treasures and ornaments that shed light on ancient mining techniques, while stone fort and pits on the Inyangana Estate in Rhodesia were also subjects of archaeological interest. 
 
-(Note: The sentence encompasses both provided points, but due to the limited context given for the Inyangana Estate, the focus leans more towards Monte Alban.)
 - [ON THE DISCOIDAL STONES OF THE INDIAN MOUNDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#on-the-discoidal-stones-of-the-indian-mounds)
-Stone-mining tools were discovered across different layers at the Stone Fort and Pits on the Inyanga Estate, Rhodesia.
 - [A PRELIMINARY REPORT ON THE SO-CALLED "BANNER STONES"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#a-preliminary-report-on-the-so-called-banner-stones)
-Excavations uncovered a long history of sophisticated mining and agricultural activities, evidenced by ancient stone tools, engineered mining pits, extensive aqueduct systems, and constructed hill terraces, with a notable anomaly being well-preserved prehistoric flint implements.
 - [PREHISTORIC ROCK BASINS IN THE SIERRA NEVADA OF CALIFORNIA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#prehistoric-rock-basins-in-the-sierra-nevada-of-california)
-The Wilsford Shaft examines unusual archaeological findings including well-preserved artifacts with visible fingerprints from Grime's Graves, non-native flora in South-East Africa, flint tools spanning Neolithic and Palaeolithic periods, and sophisticated Denehole mining networks in Kent and South Essex, highlighting complex human activities and ecological histories.
 - [ANOMALIES IN BASINS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-basins)
-The Wilsford Shaft, an ancient excavation nearly 100 ft deep, displays unique antler-pick markings and signs of natural weathering, along with an unfinished bottom section, raising questions about its construction techniques and abandonment, similar to the mysterious purposes of the ancient mounding structures found in Essex.
 - [ANOMALIES IN STONE ARTIFACTS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-stone-artifacts)
-Mounds in Essex, composed of burnt earth, pottery, wood ashes, and charcoal, hint at significant human activity and cultural rituals, yet remain largely unexplored by formal archaeology, suggesting a potential gap in our understanding of ancient practices.
 - [ROMAN COINS DISCOVERIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#roman-coins-discoveries)
-Despite their similar appearances, the mounds exhibit variability in height and contents, indicating a diverse range of potential functions or significances that remain largely unexplored by modern archaeologists.
 - [Out-of-Place Metallic Artifacts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#out-of-place-metallic-artifacts)
-Small stone artifacts, known as "pigmy flints," and their intricate arrangements suggest complex ceremonial significance and challenge our understanding of prehistoric tool-making and cultural practices.
 - [High Technology Artifacts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#high-technology-artifacts)
-The discovery of small stone artifacts in much older geological deposits than previously accepted and the doubtful identification of ancient leaf impressions challenge and expand our understanding of human evolution and ancient flora.
 - [High Technology Artifacts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#high-technology-artifacts)
-The discovery of stone mortars in undisturbed gravel deposits at the Spring Valley Gold Mine, along with crude flints found at the Calico Hills site, challenges established views on the antiquity of human presence and artifact dating in North America.
 - [Ancient Indian Iron](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#ancient-indian-iron)
-The text discusses the credibility and origins of ancient artifacts and implements found in glacial gravels, highlighting both the controversy over人为因素和地质过程对这些发现的影响，以及地质学家对这些工具存在及其历史背景的支持。
 - [Mayan Dentistry](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#mayan-dentistry)
-The Trenton, NJ findings, verified by both amateur and professional geologists including Dr. Abbott, highlight well-preserved implements significant in archaeological history, while the New Comerstown, Ohio discovery questions the implement's undisturbed context due to its unique positioning among gravel deposits.
 - [High Technology Artifacts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#high-technology-artifacts)
-Recent discoveries and examinations, including implements at Trenton Bluff, the authenticity争议的Calaveras颅骨，伊利诺伊州西部中心的文物，以及圣罗莎岛上的红色火区，都为北美早期人类活动的时间线提供了新的见解和挑战。
 - [The Metallurgy of Gold and Platinum in Pre-Columbian Ecuador](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-metallurgy-of-gold-and-platinum-in-pre-columbian-ecuador)
-Trenching studies and radiocarbon dating have revealed artifacts much older than surrounding glacial deposits, suggesting a greater age for cultural developments than previously thought, as evidenced by discoveries like the Point Peninsula artifacts and ancient boulder pavings beneath meltwater deposits.
 - [Ancient Metallurgy in Rhodesia](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#ancient-metallurgy-in-rhodesia)
-The discovery and classification of "pigmy flints," artifacts found at varied elevations, and unique stone implement deposits in the Mississippi Valley provide insights into the skillfulness, adaptability, and cultural practices of early humans.
 - [High Technology Artifacts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#high-technology-artifacts)
-The discovery and analysis of diverse flint implements and unusual burial practices provide insights into the complex religious and ceremonial life of prehistoric peoples, challenging conventional understandings of tool use and ritual significance.
 - [Exploration of the Zapotecan Tombs in Southern Mexico](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#exploration-of-the-zapotecan-tombs-in-southern-mexico)
-Unusual collections of "eccentric flints" in Oklahoma and mysterious stone yokes in Mexico and Central America both perplex archaeologists with their distinct shapes, unknown purposes, and limited historical context.
 - [Unworldly Mechanics](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#unworldly-mechanics)
-Theories surrounding stone yokes suggest they may have served as mortuary offerings for significant individuals, though their exact role in ancient death and sacrificial practices remains speculative.
 - [Electric Batteries of 2,000 Years Ago](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#electric-batteries-of-2000-years-ago)
-Middle American stone yokes, featuring anomalous collar and elbow stones with varied designs, may have originated from wooden ceremonial belts worn around the waist, as suggested by certain archaeological evidence.
 - [The Little Wooden Airplane](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-little-wooden-airplane)
-The perforated sherds found in central Nevada challenge previously suggested functions and indicate a unique use distinct from those of riverine cultures.
 - [Prehistoric Salt Boiling](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#prehistoric-salt-boiling)
-The perforated vessels, showing no signs of cooking use and lacking fire blackening or food remains, suggest alternative designs and possibly independent developments similar to Roman dolia for housing small animals or food, challenging conventional interpretations across different cultures.
 - [INTRODUCTION](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#introduction)
-This text discusses the discoidal stones found within Indian mounds, exploring their potential uses and significance in Native American cultures.
 - [STRANGE PICTOGRAPHS AND STATUARY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#strange-pictographs-and-statuary)
-Skepticism surrounds the authenticity and usage of discoidal stones and bannerstones in ancient Indian mounds, suggesting modern interference and ceremonial purposes over practical uses.
 - [THE IDAHO FIND](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-idaho-find)
-The lack of historical record hinders the comprehensive understanding and verification of past events and their impacts.
 - [THE CRYSTAL SKULL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-crystal-skull)
-While no records from early explorers or Indian mythology mention bannerstones, archaeologists theorize they served as specialized ceremonial items for prehistoric peoples, though consensus on their function remains elusive.
 - [Strange Pictographs and Statuary](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#strange-pictographs-and-statuary)
-The artificially crafted rock basins in the Sierra Nevada of California, found at significant altitudes with little wear and no clear evidence of specific functions like gold extraction or tanning, remain a mysterious feature of prehistoric human activity.
 - [Anomalous Discoveries in North America](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalous-discoveries-in-north-america)
-Observations of unfinished basins, depth variations, smooth interiors, volcanic ash deposits, unusual vat shapes, and decorative carvings provide insights into the construction methods, usage, and cultural significance of ancient stone artifacts.
 - [Strange Pictographs and Statuary](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#strange-pictographs-and-statuary)
-Recent discoveries of Roman and Chinese coins in unexpected locations across the Americas challenge conventional views on early exploration, trade, and cultural interactions.
 - [Strange Pictographs and Statuary](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#strange-pictographs-and-statuary)
-Archaeological discoveries including a European-style artifact-containing mound near Washburn, mysterious ancient cement cylinders in New Caledonia, and a large glass slab from Galilee, all suggest advanced technological capabilities in ancient times.
 - [THE ANCIENT ARTISTS OF SOUTHWESTERN EUROPE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-ancient-artists-of-southwestern-europe)
-Mysterious high technology artifacts such as the New Caledonia tumuli, a large buried slab in an ancient cistern, and capped stone pillars on Tinian Island intrigue archaeologists with their unknown purposes and constructions.
 - [LARGE-SCALE DRAWINGS, EFFIGIES, AND MOSAICS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#large-scale-drawings-effigies-and-mosaics)
-Laboratory analyses have determined that a slab found on Tinian is a man-made optical lens rather than a decorative piece, while decomposed glass specimens show iron-rich oxides and signs of advanced ancient manufacturing techniques.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies)
-Ancient Indian iron pillars showcase advanced construction techniques and durability, while Mayan dentistry reveals sophisticated medical practices including the use of metals in dental work.
 - [ANOMALIES IN THE STUDY OF ANCIENT PERUVIAN CULTURE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-the-study-of-ancient-peruvian-culture)
-The text explores various metallurgical observations and techniques, ranging from the transformation and corrosion patterns of iron structures to the advanced electroplating methods used by pre-Columbian Indians, highlighting the sophistication of ancient metalworking.
 - [ANOMALIES IN AUSTRALIAN GROUND DRAWINGS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-australian-ground-drawings)
-Ancient Ecuadorian artisans utilized sintering to create gold and platinum artifacts, showcasing advanced metallurgical techniques, while the history of iron smelting in Northern Rhodesia remains uncertain despite some archaeological findings.
 - [Page 258:](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-258)
-The M-160 artifact, a highly polished Olmec discovery, suggests ancient advancements in geomagnetic understanding and technology, potentially predating Chinese compasses, through its use and interaction with liquid mercury.
 - [Page 259:](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-259)
-The M-160 artifact, discovered during the exploration of Zapotecan tombs in southern Mexico, features an unusual groove suggestive of advanced alignment capabilities not seen in other Mesoamerican artifacts, alongside the discovery of terra-cotta tubing.
 - [Page 260:](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-260)
-A unique terra-cotta tubing found at a mound in Oaxaca hints at the complex constructions of the ancient Zapotec culture, much like how the Antikythera Mechanism reveals the sophisticated astronomical knowledge of ancient civilizations.
 - [Page 261:](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-261)
-Evidence suggests that ancient Parthians may have developed electric batteries utilizing a copper cylinder filled with an electrolyte, indicating advanced technological capabilities from 2,000 years ago.
 - [Chapter 1: The Elephants and the Serpent](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-1-the-elephants-and-the-serpent)
-A wooden model resembling a modern pusher-glider found in an Egyptian tomb from around 200 B.C. indicates that ancient engineers possessed advanced aerodynamic knowledge, suggesting potential early technological sophistication.
 - [Chapter 2: The Man and Woman Mosaics](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-2-the-man-and-woman-mosaics)
-The Red Hills of Essex, composed of burnt clay and dating back to prehistoric times, along with anomalous bar-like objects found in the Seille valley and Essex, prompt investigations into ancient practices and cultural development.
 - [Chapter 3: Dakota Boulder Monuments](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-3-dakota-boulder-monuments)
-Ancient discoveries such as a submerged statue in Idaho, representations of elephant-like creatures in the Americas, and anthropoid figurines from the Northwest challenge conventional views on human history and geographical distribution.
 - [Chapter 4: The "Turtle" and the "Snake"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-4-the-turtle-and-the-snake)
-Mysterious cave markings and intricately carved stone spheres found in Idaho prompt speculation about their artistic or ritualistic significance from ancient cultures.
 - [UNUSUAL SYMBOLS AND NOTATION](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#unusual-symbols-and-notation)
-Ancient artifacts such as the Nampa Image, Mitchell-Hedges Crystal Skull, and Easter Island statues challenge conventional views on human evolution and the technological sophistication of ancient cultures, while items like the Lenape stone and Holly Oak pendant offer intriguing, though contested, insights into early human history.
 - [Anomalies in Rock Carvings](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-rock-carvings)
-Anomalous discoveries such as the Lenape stone, Charles Abbott's site, Cresson's artifacts, the Holly Oak pendant, the Elephant Pipe, and a Pleistocene carved bone offer insights into early human presence and activity in North America, though their authenticity and contexts remain subjects of debate.
 - [Anomalies in Ancient Studies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-ancient-studies)
-Pre-Columbian elephant representations, ape-like sculptures, legends of the Great Manitou and Piasa Bird, controversial clay figurines from Acambaro, and the anomalous Thruston Tablet all contribute to the rich tapestry of mysterious cultural and historical artifacts that challenge conventional timelines and origins.
 - [Supposed Calendars](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#supposed-calendars)
-The round or oval paddle ends of the oars, similar to those depicted in iron-age Viking rock carvings, suggest a cultural exchange or continuity in maritime practices among ancient southwestern European communities.
 - [Unusual Symbols and Notation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#unusual-symbols-and-notation)
-Prehistoric artistic expressions in Europe, such as Azilian-style signs in Salamanca, fingerprint-like carvings in Brittany, and red bands in caves, suggest symbolic representations of cultural identity and individuality.
 - [Rock Inscriptions in Brazil](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#rock-inscriptions-in-brazil)
-Vast creations like the Nazca lines in Peru and giant drawings in California showcase large-scale human artistry with mysterious purposes, often best appreciated from elevated viewpoints.
 - [American Museum of Natural History](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#american-museum-of-natural-history)
-Mysterious desert etchings near Blythe, California, featuring human and animal shapes alongside geometric figures, remain shrouded in mystery due to a lack of historical documentation and local legend.
 - [Inscribed Tablet Found in Iowa](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#inscribed-tablet-found-in-iowa)
-The Nazca lines, while sometimes thought to be ancient irrigation canals, likely held ceremonial or astronomical significance, as evidenced by their alignment with solstitial events.
 - [Unusual Symbols and Notation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#unusual-symbols-and-notation)
-Preliminary findings suggest that ancient markings, potentially used as recording devices for celestial events, now complicated by natural depressions, offer insights待我纠正一下这个翻译以确保它准确无误。以下是修正后的句子：
 
-初步研究表明，可能用于记录天象的古代标记，如今因自然形成的凹陷而变得复杂，提供了见解。 
 
-为了更贴合英文原文的结构和含义，这里是一个更简洁的翻译版本：
 
-初步研究显示，可能用于记录天象的古代标记，因自然侵蚀形成凹陷而复杂化，提供了有价值的见解。
 
-这样翻译更能体现原文中关于“Recording Devices”和“Films of Depression”的要点，并且保留了原始文本中的研究性质。不过，根据需要，可以使用上述任意一个版本。如果需要纯英文的单句总结，可以考虑如下表达：
 
-Ancient markings, possibly serving as celestial event recording devices, have become complicated for analysis due to natural depressions forming over time.
 - [The Davenport Tablets](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-davenport-tablets)
-The lack of historical documentation by Spanish conquerors and the absence of local legends among current inhabitants make it challenging to understand the significance of the mysterious markings in the region.
 - [THE DAVENPORT TABLET](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-davenport-tablet)
-The Nazca lines, featuring geometric shapes and alignments with astronomical events, suggest a blend of ancient ceremonial practices and advanced knowledge of celestial patterns, though their precise functions remain subjects of ongoing research.
 - [DECIPHERING THE DAVENPORT TABLETS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#deciphering-the-davenport-tablets)
-The discovery of double lines, overlapping constructions, and the potential use of astrological measurements in ancient Peruvian culture suggest a complex ceremonial and astronomical significance in the Nazca lines.
 - [INSCRIBED STONE OF GRAVE CREEK MOUND](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#inscribed-stone-of-grave-creek-mound)
-The text explores the discrepancy between the resources of impoverished regions like Nazca and their cultural achievements, questions the complexity of ancient astronomical observations, and highlights the absence of centralized authority in these societies.
 - [THE MILL RIVER INSCRIPTION](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-mill-river-inscription)
-The text suggests that the Nazca society's decentralized power structure may have facilitated significant astronomical research by a powerful priesthood, while also describing the complexity and layered nature of their recorded observations as a "chaotic maze of superimposed lines, figures, and centers."
 - [AN ANCIENT JUDEAN INSCRIPTION FROM TENNESSEE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#an-ancient-judean-inscription-from-tennessee)
-The proposed irrigation plans highlight the conflict between modern development and heritage preservation by threatening to erase ancient markings and inscriptions, illustrating the cost of progress on historical sites.
 - [THE WILSON-BRAXTON TABLET](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-wilson-braxton-tablet)
-The undocumented ancient astronomical knowledge of Peru, largely overlooked by Spanish chroniclers, presents a significant gap in comprehending the extent of Peruvian astronomical achievements.
 - [THE MONHEGAN INSCRIPTION](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-monhegan-inscription)
-The text highlights the diverse drawing techniques used by aboriginal communities, ranging from employing loose earth to utilizing sticks and bark for outlines, suggesting regional cultural variations and a lack of standardized methods.
 - [AN AEGEAN SCRIPT STONE FROM GEORGIA?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#an-aegean-script-stone-from-georgia)
-The large communal drawings at Gundabloui suggest a collaborative artistic process reflecting shared cultural values and social dynamics within the community.
 - [SOME ENIGMAS OF ANCIENT WRITING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#some-enigmas-of-ancient-writing)
-Indigenous art forms, marked by misaligned purposes, threats to sustainability from modern agriculture, and gaps in historical records, reveal complex narratives and cultural expressions through anomalous large human effigies and mythological representations like the legendary monster Wahwee.
 - [Some Enigmas of Ancient Writing](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#some-enigmas-of-ancient-writing)
-The dual staffs of the Long Man and the characteristics of bird-shaped mounds both offer insights into the symbolic significance and cultural roles of these ancient structures.
 - [ENIGMAS IN LEAD](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#enigmas-in-lead)
-The Great Serpent Mound was constructed as an ancient earthwork resembling a serpent, likely holding significant cultural and astronomical importance for its builders.
 - [INTERESTING HEBREW RELIC](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#interesting-hebrew-relic)
-The Great Serpent Mound and the eagle-shaped tumulus both exemplify the artistic and spiritual sophistication of ancient civilizations through their intricate designs and enduring symbolic significance.
 - [THE KEKIP-SESOATORS; OR ANCIENT SACRIFICIAL STONE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-kekip-sesoators-or-ancient-sacrificial-stone)
-The Great Serpent embodies an inherent mystique that captivates and intrigues those who ponder its essence and significance.
 - [RUNIC PARK IN OKLAHOMA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#runic-park-in-oklahoma)
-The Great Serpent, crafted through intricate construction techniques, inspires awe and cultural curiosity with its sinuous form, symbolizing a profound, possibly sacred bond with the land's history.
 - [Runestones - Anomalies in Oklahoma's History](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#runestones---anomalies-in-oklahomas-history)
-This text explores various earthwork constructions, including serpent and elephant effigies, man and woman boulder mosaics, and Dakota boulder monuments, highlighting their symbolic meanings and cultural significance across different Native American tribes.
 - [Some Enigmas of Ancient Writing](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#some-enigmas-of-ancient-writing)
-Various ancient symbols and figures, such as the "Turtle" and "Snake" figures, cup and ring symbols, painted pebbles, calendric notations, engraved figures on the Great Idol of Tiahuanaco, and Churinga stones, showcase cross-cultural similarities and raise questions about their historical and communicative purposes.
 - [Some Enigmas of Ancient Writing](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#some-enigmas-of-ancient-writing)
-Ancient rock art, including cup markings and concentric rings, found across diverse cultures from Scotland to India and Panama, suggests a universal form of communication and cultural expression, while also highlighting the multifunctional use of stones in rituals and possibly even as early forms of writing.
 - [Some Enigmas of Ancient Writing](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#some-enigmas-of-ancient-writing)
-Ancient civilizations demonstrated sophisticated geometrical and astronomical knowledge, as evidenced by precise cup-mark constructions in South India and complex coded quipus, challenging modern perceptions of prehistoric mathematical abilities.
 - [Chapter 1: The Glozel Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-1-the-glozel-anomalies)
-The text explores various ancient calendrical notations, unusual symbols, and rock inscriptions found across different regions, suggesting possible astronomical and cultural significances while raising questions about their authenticity and interpretations.
 - [The Glozel Affair](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-glozel-affair)
-Archaeologists discovered the monumental red sandstone Great Idol of Tiahuanaco in Tiahuanaco, faced challenges in its preservation and excavation, while separate findings in Iowa hinted at an earlier civilization through pottery and tools, and unusual symbols suggested advanced astronomical knowledge.
 - [Recent Discoveries Bearing on the Antiquity of Man in Europe](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#recent-discoveries-bearing-on-the-antiquity-of-man-in-europe)
-The Davenport Tablets, two clay tablets depicting funeral and hunting scenes from a pre-Columbian society in Iowa, spark debates regarding their authenticity and the independent development or ancient transportation of similar symbols across continents.
 - [Fossil Human Footprints](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#fossil-human-footprints)
-The authenticity of the limestone tablet and related relics found in the Empty Vault is questioned due to anomalies like the absence of accumulated dirt, fraud claims by Tiffany regarding potential manufacturing by the discovery team, Bollinger's alleged involvement in creating the tablets, and the similarity of fingerprints on other artifacts, suggesting possible forgery.
 - [Human Footprints in Nicaragua](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#human-footprints-in-nicaragua)
-The Davenport Tablets, featuring inscriptions in Egyptian, Iberian Punic, and Libyan, raise questions about their origin and authenticity, with theories suggesting they might be a locally manufactured artifact rather than an ancient relic.
 - [Prehistoric Footprints from El Salvador](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#prehistoric-footprints-from-el-salvador)
-The dating of the Stele from the Grave Creek Mound is likely no older than 800 B.C., casting doubt on claims of it being an ancient inscription from as early as 1400 B.C.
 - [646 Fossil Human Footprints](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#646-fossil-human-footprints)
-The inscription's alphabetical nature is questioned as it does not correspond to any known language, raising doubts about its validity.
 - [647 Fossil Human Footprints](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#647-fossil-human-footprints)
-The simple design and ambiguous characters of the inscription suggest it might be an ingenious forgery rather than a genuine historical relic, raising questions about its cultural significance.
 - [648 Fossil Human Footprints](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#648-fossil-human-footprints)
-The Mill River Inscription's authenticity as a significant artifact related to ancient mound builders is questioned due to concerns over the initial examination's thoroughness in determining its age.
 - [649 Fossil Human Footprints](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#649-fossil-human-footprints)
-The Mill River stele, featuring a phraseology akin to a Portuguese inscription and a distinctive "B" suggesting Arabian influence, shows preserved granite markings despite some wear, highlighting its enduring yet fragile condition.
 - [650 Fossil Human Footprints](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#650-fossil-human-footprints)
-A stone discovered in Tennessee in 1885 initially thought to contain ancient Cherokee letters was later interpreted as an ancient Judean inscription, potentially referencing a leader associated with the Jewish Revolt against Rome.
 - [651 Fossilized Technology](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#651-fossilized-technology)
-The stone, housed at the Smithsonian and discovered alongside nine skeletons in a burial mound, may indicate ancient maritime connections between the Old and New Worlds, with its inscription dating around 100 A.D. aligning with records of Jewish migrations.
 - [652 Fossilized Technology](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#652-fossilized-technology)
-The Wilson-Braxton tablet, a fine sandstone artifact discovered in 1931, has sparked debates over its authenticity with some viewing it as a fake imitation of the Grave Creek Tablet, while others believe it bears genuine old Norse inscriptions.
 - [COIN IN LUMP OF COAL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#coin-in-lump-of-coal)
-The inscription on the stone is proposed to be a well-structured example of old Norse language using typical runes of that era, complicating its interpretation and challenging assertions of it being a forgery.
 - [EVE'S THIMBLE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#eves-thimble)
-"The Monhegan Inscription" refers to a mysterious engraving discovered on an island off the coast of Maine, whose origin and meaning continue to puzzle historians and archaeologists.
 - [MOLDED METALLIC OBJECTS FOUND IN CHALK BED](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#molded-metallic-objects-found-in-chalk-bed)
-Dr. Augustus E. Hamlin discovered an inscription on Manana Island in 1855, which was believed to be of Viking origin, reflecting the scholarly community's enthusiasm for attributing Norse origins to new findings without rigorous examination.
 - [A CURIOSITY FROM COAL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#a-curiosity-from-coal)
-The markings in question may have resulted from natural surface erosion rather than ancient writing, highlighting the necessity for careful interpretation of historical inscriptions.
 - [SINGULAR IMPRESSION IN MARBLE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#singular-impression-in-marble)
-The Metcalf Stone, found in Georgia, bears symbols akin to early Aegean scripts, potentially indicating ancient Mediterranean commercial ties predating Columbus.
 - [PREHISTORIC SURGERY - A NEOLITHIC SURVIVAL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#prehistoric-surgery---a-neolithic-survival)
-Please provide the text to summarize.
 - [Curious Human Skeletons](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#curious-human-skeletons)
-The text explores enigmatic ancient writings, including the Metcalf Stone's symbols that hint at a broader linguistic influence distinct from known Aegean languages, the Elephant Slabs which may contain the only written example north of Mexico of an ancient language, and an ancient inscription in Chatata, Tennessee.
 - [On the Probable Existence of Man During the Miocene Period](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#on-the-probable-existence-of-man-during-the-miocene-period)
-Archaeological findings include a natural red sandstone ridge mistaken for an ancient wall, skeletons with copper bracelets and an engraved stone found in excavated mounds, and a layer of charcoal and ashes indicating sophisticated burial practices.
 - [The Case of the Bones in Stone](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-case-of-the-bones-in-stone)
-Notable ancient artifacts such as the Richardson Tablet and the engraved Waverly Sandstone stone offer glimpses into sophisticated past cultures and their complex social structures through detailed craftsmanship and mysterious inscriptions.
 - [Early Man in the New World](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#early-man-in-the-new-world)
-The potential use of a mica mirror and the symbolic representation of a Crotalus horridus rattlesnake offer insights into the cultural and spiritual significances of these artifacts in ancient times.
 - [ANOMALIES IN HUMAN ANTIQUITY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-human-antiquity)
-Various archaeological discoveries, including the Cincinnati Tablet, Welch Butterfly Relic, Tucson Artefacts, New Jersey Alphabetical Stones, Pottawatomie Parchments, Kekip-Sesoators Stone, and Heavener Rune Stone, offer intriguing insights and raise numerous questions about prehistoric and ancient human communications, cultural practices, and historical migrations in North America.
 - [ANCIENT SKULLS DISCOVERED NEAR SANTA BARBARA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#ancient-skulls-discovered-near-santa-barbara)
-The dynamiting of runestones by treasure hunters in the 1920s has obscured valuable historical evidence, raising concerns about the preservation of artifacts crucial to understanding early explorations in North America.
 - [GLACIAL MAN IN KANSAS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#glacial-man-in-kansas)
-The Inscriptions Age and Origin refer to the historical period and place from which a set of written symbols or texts were derived, providing insights into ancient cultures and languages.
 - [PREHISTORIC REMAINS IN FLORIDA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#prehistoric-remains-in-florida)
-While one group argues that inscriptions in Oklahoma indicate a Viking presence from around 900 years ago, skeptics contend that some may be recent forgeries, casting doubt on their authenticity as historical evidence.
 - [THE UBIQUITOUS NEANDERTHALS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-ubiquitous-neanderthals)
-The runestones have sparked notoriety due to contentious debates over their ages and origins, dividing experts into factions that either support the Viking narrative or view them as forgeries.
 - [DISCOVERY OF AN EARLY TYPE OF MAN IN NEBRASKA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#discovery-of-an-early-type-of-man-in-nebraska)
-The text covers a range of challenges related to environmental degradation and geological phenomena that impact ecosystems and human societies.
 - [NEW EVIDENCE FOR THE ANTIQUITY OF MAN IN NORTH AMERICA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#new-evidence-for-the-antiquity-of-man-in-north-america)
-The authenticity of the stones is questioned due to the possibility that they may have been transported from different geological regions, raising doubts about their origin and the conditions of the inscriptions.
 - [NEANDERTHAL MAN IN CENTRAL ASIA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#neanderthal-man-in-central-asia)
-The questionable quality and often nonsensical translations of the inscriptions into English complicate assertions of their Norse origins, suggesting potential illiteracy or cultural misinterpretation among those who created them.
 - [NEANDERTHAL MAN IN PALESTINE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#neanderthal-man-in-palestine)
-The text explores various interpretations within the field of cryptology, focusing on the analysis and understanding of cryptographic techniques and their applications.
 - [CRIMEAN NEANDERTHAL REMAINS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#crimean-neanderthal-remains)
-While supporters of the Viking origin theory argue that cryptographic methods reveal significant dates in the inscriptions, suggesting a Norse connection, critics doubt the credibility of these codes as evidence of an ancient Norse presence.
 - [LATE SURVIVAL OF NEANDERTHAL TYPE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#late-survival-of-neanderthal-type)
-The text highlights the geological similarities among various stones, emphasizing their shared characteristics and origins.
 - [ANOMALIES IN THE HUMAN SKELETON](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-the-human-skeleton)
-The enigmatic ancient writings, including the Heavener and Poteau inscriptions, along with the Shawnee and Kensington stones, exhibit inconsistencies in style, weathering, and dating that challenge their uniformity and authenticity, suggesting a complex interplay of influences and potential recent origins.
 - [Annual Report; 1894](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#annual-report-1894)
-Archaeological assessments of inscriptions in Oklahoma suggest that recent inscriptions, such as the Poteau and Shawnee, show notable differences in age and weathering compared to the ancient Heavener No. 1, casting doubt on claims of Viking presence.
 - [Elephant Remains in Mexico](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#elephant-remains-in-mexico)
-The Kensington inscription's characters and language deviate from the established Scandinavian runic tradition, suggesting a modern fabrication rather than a genuine medieval artifact.
 - [Anthropological Evidence](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anthropological-evidence)
-The Kensington Stone, dated 1366, features a j-rune that was invented centuries later, showcasing an anachronistic inventiveness in its engraving.
 - [ANTHROPOLOGICAL EVIDENCE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anthropological-evidence)
-The text discusses various anomalies and challenges in verifying historical artifacts, including anachronistic language on inscriptions, debates over patina formation, discrepancies in copies, and the undeciphered nature of the Indus script.
 - [Anthropological Evidence](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anthropological-evidence)
-The challenges in tracing the evolution of Indus scripts due to chronology issues and limited sign variety complicate efforts to understand their linguistic significance, similar to the complexities faced with Easter Island and Indian scripts.
 - [The Yellow Men of Central Africa](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-yellow-men-of-central-africa)
-The potential connections between prehistoric Indian script and Easter Island tablets hint at shared ancient elements, while the consistent similarities in Harappan inscribed sticks and the presence of Harappan script on baked cones offer intriguing anomalies in the study of ancient writing.
 - [Origin of the Indians](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#origin-of-the-indians)
-Baked, shell-like cones with flattened tips suggest functional uses such as writing, while numerous faked Easter Island tablets confuse collections, and Mr. de Hevezy's comparisons of Mohenjo-daro and Easter Island scripts face criticism for inaccuracies and reliance on isolated cases.
 - [Anthropological Evidence](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anthropological-evidence)
-The text explores various historical anomalies, including similarities between the Rejang alphabet and Phoenician characters, Egyptian relics found in Australia, a blended Egyptian-Libyan inscription on Pitcairn Island, and the controversial Glozel artifacts, each challenging established historical narratives and sparking academic debates.
 - [Anthropological Evidence](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anthropological-evidence)
-The Glozel Affair highlights the争议围绕着Glozel遗址的发现，国际委员会最终认定大多数文物是伪造的，而不仅仅是史前物品，这一结论进一步加剧了对该遗址真实性的怀疑。
 - [MUSICAL INSTRUMENTS OF MALAYSIA AND THE WEST COAST OF SOUTH AMERICA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#musical-instruments-of-malaysia-and-the-west-coast-of-south-america)
-The curious human footprints, measuring 10-1/2 inches in length with a varying width and set in a smoothly polished rock, raise questions due to their isolated appearance without leading or trailing tracks, challenging their authenticity as genuine human impressions.
 - [ANTHROPOLOGICAL EVIDENCE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anthropological-evidence)
-Mysterious footprints found in Nicaragua and El Salvador exhibit anomalies including scroll-like figures interpreted as Native American imagery, depth and sediment layering suggesting ancient origins linked to volcanic activity, and varied stride lengths without signs of haste, raising questions about their prehistoric origins.
 - [THE LANGUAGE AND ORIGIN OF THE BASQUES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-language-and-origin-of-the-basques)
-Fossilized human and animal footprints discovered in La Carrera provide insights into a diverse prehistoric environment and the timing of these impressions, with a notable half track suggesting a perilous stance near a precipice.
 - [JEWISH AND ZULU CUSTOMS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#jewish-and-zulu-customs)
-Fossilized footprints found in Tennessee rocks, which resemble human bipedal tracks and are alongside Pliocene mammal tracks, complicate the fossil evidence but cannot be confirmed as hominid without additional skeletal evidence.
 - [A POSSIBLE HINDU INFLUENCE AT TEOTIHUACAN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#a-possible-hindu-influence-at-teotihuacan)
-The discovery of human-like footprints in a quarry that were actually made by large Edentate species like Mylodon or Morotherium emphasizes the challenges and contextual importance in accurately identifying fossilized tracks.
 - [PLANT EVIDENCE FOR EARLY CONTACTS WITH AMERICA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#plant-evidence-for-early-contacts-with-america)
-A series of well-defined footprints found in Hadley, Massachusetts, challenge previous assumptions due to their detailed arches and toes, suggesting they were left by a person running on alluvial clay.
 - [Biological Evidence](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#biological-evidence)
-Curious human footprints, possibly made by a young individual, discovered in Dakota Territory's "medicine rock" geological formation, hint at the activities of ancient inhabitants.
 - [Biological Evidence](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#biological-evidence)
-Recent discoveries, including footprints in ancient volcanic ash in Turkey, a nail embedded in stone at Kingoodie Quarry, and a 14th-century coin found in a lump of coal, challenge conventional views on human history and the interaction between human artifacts and geological processes.
 - [Myths and Legends](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#myths-and-legends)
-A metallic thimble discovered in a coal mining area, displaying modern-like markings, has gradually crumbled, questioning its preservation condition and origin.
 - [The Historical Existence of Fairies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-historical-existence-of-fairies)
-Recent discoveries, including a meticulously molded iron thimble, a uniquely inlaid metallic vessel, an indentation with raised characters in marble, and evidence of surgical operations in Neolithic skulls, challenge our understanding of prehistoric human craftsmanship and medical knowledge.
 - [Ethnological Characteristics of Sidhe](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#ethnological-characteristics-of-sidhe)
-Human skeletons found in unexpected geological layers and exhibiting unusual sizes challenge conventional timelines and models of human evolution, suggesting a more complex history than currently accepted.
 - [Lappish Connections](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#lappish-connections)
-Recent discoveries of human remains in ancient geological layers challenge established timelines of human evolution, raising questions about dating methods and suggesting a potentially more complex evolutionary history.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies)
-The study of early human presence in the Americas is marked by controversies and anomalies, such as disputed archaeological sites and ancient skulls, which challenge traditional timelines of human migration and antiquity.
 - [GIANTS AND DWARFS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#giants-and-dwarfs)
-Recent archaeological discoveries in various locations across North America and Central Asia have provided new insights into the coexistence of early humans with prehistoric animals, the diversity of prehistoric human types, and the antiquity of human presence in these regions, challenging previous timelines and expanding our understanding of human evolution and migration.
 - [TRADITIONS OF PRECOLUMBIAN LANDINGS ON THE WESTERN COAST OF SOUTH AMERICA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#traditions-of-precolumbian-landings-on-the-western-coast-of-south-america)
-The discovery of Neanderthal remains in Palestine expands their known geographical range and illustrates early humans' adaptation to colder climates as they retreated into the Crimean region.
 - [Chapter 1](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-1)
-Recent discoveries of Neanderthaloid skulls near Simferopol and evidence of their late survival in isolated areas are expanding our understanding of Neanderthal geographic distribution and challenging previous timelines of their extinction.
 - [Chapter 2](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-2)
-A Neanderthal-like skull discovered in a historic tomb at Nowosiolka exhibits prominent supra-orbital ridges, suggesting a close affinity with Neanderthals, while pygmy skeletons have also been found in Eastern Europe.
 - [Chapter 3](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#chapter-3)
-Recent findings in Ohio suggest a tribe of pygmies, while Dr. R. B. Bean reported discovering a Neanderthal-like specimen in Luzon with distinctive anatomical features.
 - [Myths and Legends](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#myths-and-legends)
-Various discoveries across different locations have unearthed anomalous skeletal remains featuring extraordinary sizes, unique rib configurations, and distinct anatomical features, suggesting diverse evolutionary pathways in ancient populations.
 - [The Land of Fu-Sang](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#the-land-of-fu-sang)
-Studies on humeral foramina reveal varying prevalence rates across different populations and collections, challenging previous assumptions about their distribution and evolutionary significance.
 - [Did the Vikings Reach the Pacific Coast?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#did-the-vikings-reach-the-pacific-coast)
-Excavations near Paredon revealed an ancient city's sudden destruction with human and elephant remains entombed in debris, while historical accounts suggest the Mandan Indians exhibited unusual blond physical traits indicative of potential European ancestry.
 - [Anomalies in Historical Accounts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies-in-historical-accounts)
-The text explores various instances of unusual pigmentation and physical traits among different indigenous populations, suggesting complex genetic histories and adaptations that challenge traditional racial classifications.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#anomalies)
-Ocean currents, historical shipwrecks, and anthropological findings, including the discovery of Japanese junks and driftwood on Hawaiian shores, suggest interconnected migrations and cultural exchanges between Asia and the Americas over centuries.
 - [Page 397](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-397)
-Theories suggesting ancient cultural exchanges between Asia and Central America, such as the Asiatic origin of jade ornaments and the existence of Fusang, face质疑，因为缺乏确凿的考古证据来支持这些联系，同时墨西哥地区未发现前哥伦布时期的瓦片等先进陶器技术也提出了疑问。
 - [Page 398](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-man-engineering-structures.md#page-398)
-The text explores various anomalies and cultural exchanges between Asia and the Americas, highlighting discrepancies in the presence of similar artifacts, languages, and biological evidence that suggest both connections and separations between ancient civilizations.
 
 
-# Chapter 1: THE ENGINEERING STRUCTURES OF ANCIENT MAN
+# Chapter 1: THE ENGINEERING STRUCTURES OF ANCIENT MAN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Ancient Engineering Structures**
   The existence of large ancient structures indicates the possible presence of advanced engineering skills and societal organization. The anomalies suggest both precocious technology and the existence of ideas that may spread globally, contrary to established anthropological theories.
@@ -611,21 +315,21 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 
 - **The Quista Dolmen**
   This unique structure on Martha's Vineyard has no clear historical purpose, raising questions about its intention and the identity of its builders. Its design bears resemblance to ancient European burial sites, suggesting it could be a grave or some other significant marker.
-# ON THE CELTIC ANTIQUITIES OF AMERICA
+# ON THE CELTIC ANTIQUITIES OF AMERICA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Rocking Stones**: These are memorials raised by a former race, characterized by an enormous stone that is nearly balanced and can be easily moved. While some examples exist in America, the origins and specifics of these stones remain largely uncertain.
 
 - **Giant Monoliths of Quiragua**: In thick jungles near Guatemala, large carved monoliths can be found, covered in intricate designs and glyphs. However, the origins and purposes of these monumental structures are still mysterious, a testament to a once powerful civilization.
 
-# STANDING STONES AND DOLMENS
+# STANDING STONES AND DOLMENS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Dolmens**: Stone structures, reportedly seen in various locations, consist of a large flat stone supported by several smaller stones. These may date back to a time before the arrival of the Chamorros, suggesting a lost heritage of advanced builders.
 
 - **Lat'te Monuments**: These imposing structures found across the Marianas Islands consist of intricate stone pillars resting below hemispherical stones. The cultural implications of these monuments indicate a sophisticated society, yet their exact origins remain undisclosed.
 
-# MEGALITHIC MONUMENTS
+# MEGALITHIC MONUMENTS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Megalithic Structures in Indonesia**: The existence of stone monuments throughout Indonesia has often been overlooked, with many stones being partially worked or unadorned. The broad definition of megalithic structures includes various formations that may not conform to traditional archaeologist perspectives.
 
 - **Menhirs in West Seran**: These offerings consist of a large stone placed atop several others, signifying potential dolmens or menhirs based on their arrangement. The context of these structures suggests spiritual or ritualistic significance within the local cultures.
-# Megalithic Structures in Indonesia
+# Megalithic Structures in Indonesia [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Dolmen with Cromlech Association**: The excerpt describes a dolmen formed by four stones placed on edge with a slab covering them, suggesting a structure associated with a cromlech. Colonel Shakespear's photograph highlights the absence of megalithic structures in the Philippines, contrasting the findings in Halmahera.
 
@@ -635,7 +339,7 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 
 - **Pyramidal Mausoleum**: The Sarasin cousins observed a pyramidal mausoleum of a chief on the Paloppo river, which featured a porcelain pot on top. Similar rock-cut tombs were noted in the Simbuang-Mapak valley, indicating a regional practice.
 
-# Korean Megalithic Structures
+# Korean Megalithic Structures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Menhirs of Distinct Types**: Menhirs in northern Korea, particularly noted for their "mushroom" shape, are believed to possess cultural fertility significance among local women. Legends about menhirs describe various origins, from ancient strong men to witches being turned into stone.
 
@@ -643,16 +347,16 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 
 - **Destruction of Dolmens**: Han Hung Su notes that local curiosity, looting, and repurposing for everyday objects have led to much destruction of dolmens over time. Elder villagers reported witnessing intact dolmens during their lifetimes before this degradation occurred.
 
-# Khasi Hills Megaliths
+# Khasi Hills Megaliths [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Monumental Stone Arrangements**: The Khasi hills feature upright and horizontal slabs categorized into various types, with arrangements often symbolically significant. These stones, sometimes displaying geometric designs, are thought to embody phallic principles linked to fertility.
 
 - **Cultural Practices**: Many Khasi families retain historical knowledge of their family's monuments, which can be repaired or rebuilt over time. The act of erecting large stones is costly and signifies the importance of familial heritage within the community.
 
-# Tridents and Triliths in West Africa
+# Tridents and Triliths in West Africa [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cultural Significance of Tridents**: In northern equatorial Africa, the trident symbol predates Islam and is linked to non-Semitic origins. Tradition states that the earliest tridents were erected to commemorate victories in war, evolving over time into a practice of signaling village foundations and honoring the dead.
-# THE MENHIRS OF MADAGASCAR
+# THE MENHIRS OF MADAGASCAR [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Stones become sacred objects and instruments of a cult, especially for women desiring children or seeking an easy delivery. The practices involve rubbing the stone with grease and throwing gravel at it as a form of prayer for success.
 
 - The triliths are described as pillars topped with a stone, with the common form consisting of three upright pillars in an equilateral triangle. The stone is thought to be placed to indicate places of prayer, particularly for Moslems facing towards Mecca.
@@ -663,21 +367,21 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 
 - The practice of sprinkling sacrificial blood on stones was also documented by Colonel Forbes Leslie in India, suggesting possible independent emergence of the ritual across different cultures. The significance of special stones marked by animal sacrifices may have evolved separately rather than connected by cultural exchange.
 
-# STANDING STONES AND DOLMENS
+# STANDING STONES AND DOLMENS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Numerous groups of dolmens are known in northern Galilee, with orientations varying among different sites. The condition of dolmens can be poor, often built from roughly hewn limestone slabs, and sometimes they are partially sunk into the earth.
 
 - Dolmen chambers typically have a narrow, elongated design, broader at one end and frequently using multiple slabs for walls. The configurations of these chambers show signs of relatively advanced stonework compared to simpler constructions.
 
-# ANTIQUITIES ON THE ISLAND OF MINORCA
+# ANTIQUITIES ON THE ISLAND OF MINORCA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The megalithic monuments on Minorca, such as talayots and dolmens, showcase a style that suggests an early prehistoric culture. Their construction techniques and orientations hint at significant historical practices, although many remain unexplored due to lack of excavation.
 
 - A dolmen on the eastern slopes of the Galilean highlands has distinct features that denote specific architectural stages of development. Its unique structure, orientation, and construction materials provide evidence of the working methods and cultural practices of early inhabitants. 
 
-# GRAVES AND SMALL MOUNDS
+# GRAVES AND SMALL MOUNDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - There are distinctive structures in Minorca known as sacrificial altars or tables, which may have astronomical alignments and architectural features resembling larger pyramids. Some structures display unique qualities that differentiate them from more common burial site features.
 
 - The stone graves of Tennessee are notable for their unique architectural style using thin stone slabs abundant in the area. Their contents often feature unusual pottery, displaying distinct sculptural decorations that reflect a culturally specific approach to burial practices.
-# Graves and Small Mounds
+# Graves and Small Mounds [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomalies in Burial Practices**: The ancient race of Tennessee engaged in burial practices that involved rude stone coffins made of flat limestone or sandstone. The extensive graveyards suggest a significant cultural practice involving close-knit burials.
 
@@ -688,7 +392,7 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 - **Burnt Rock Mounds**: Burnt rock mounds in Texas have been debated regarding their origin and purpose without conclusive explanations. These mounds are primarily kitchen middens, consisting of hearthstone remnants and debris from cooking activities.
 
 - **Huastec Mounds**: In the Tampico region of Mexico, Huastec civilization mounds display a variety of construction materials, including shells and limestone. The alignment and relationships between the mounds remain a subject of ongoing archaeological investigation.
-# NOTES ON THE ANTIQUITIES OF TONGA 
+# NOTES ON THE ANTIQUITIES OF TONGA  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **The Haamonga Stones**
   The Haamonga stones are described as having been moved and arranged by ancient natives, yet their exact antiquity remains uncertain. Local traditions attribute their construction to the Maui, a legendary figure in Polynesian mythology, further complicating their historical significance.
@@ -699,7 +403,7 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 - **Megalithic Monuments near Mua**
   The megalithic structures in the region are noted for their substantial stone blocks, which were difficult for the natives to transport and arrange. Investigations suggest that these monuments had a distinct purpose, but the details surrounding their usage are largely speculative and lack definitive explanations. 
 
-# PREHISTORIC JAPAN 
+# PREHISTORIC JAPAN  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Grave Mounds (Misasagi)**
   The misasagi, or imperial graves, represent a significant feature of prehistoric Japan, characterized by large dolmen-like structures. These graves suggest a sophisticated level of craftsmanship and social organization, as their construction involved considerable labor and community involvement.
@@ -709,57 +413,57 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 
 - **Distrubution of Dolmens**
   The geographical distribution of dolmens across Japan indicates varying political and social structures, particularly in relation to territory controlled by feudal princes. The varying sizes of structures and their locations on plains versus hills reflect diverse cultural practices and hierarchical organization within ancient Japanese societies.
-# Chapter 1: Anomalies in Dolmen Centers
+# Chapter 1: Anomalies in Dolmen Centers [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly 1**: The first dolmen center is situated in the province of Bizen, indicating advanced construction techniques during the period. This suggests a complex society capable of monumental architecture in ancient Japan.
 
 - **Anomaly 2**: The largest of the dolmen centers was discovered in the Gokinai region, which became the seat of imperial rule for over two thousand years. This points to a significant historical importance of this area concerning governance and social structure in ancient Japan.
 
-# Chapter 2: Tumuli Fields and Their Characteristics
+# Chapter 2: Tumuli Fields and Their Characteristics [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly 3**: Tumuli are unique to the iron age in Japan, absent in the stone and bronze ages. This suggests a cultural and technological shift during the iron age that led to new burial practices.
 
 - **Anomaly 4**: The structure of the tumuli is notably megalithic, constructed primarily from stone with no simpler cist-like tombs found in Japan. This contrasts with archaeological findings from Korea, hinting at distinct cultural or technological developments in funerary practices.
 
 - **Anomaly 5**: The grouping of the mounds, often found closely together on slightly sloping terrain, suggests a communal practice in burial or perhaps a hierarchical ranking among the deceased. Such spatial organization reflects social structures that could have existed at that time.
 
-# Chapter 3: Bahrein Tumuli
+# Chapter 3: Bahrein Tumuli [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly 6**: The Bahrein tumuli, numbering over fifty thousand, feature burial mounds that vary in height and size, with some resembling small pyramids. The sheer magnitude indicates a complex societal structure that necessitated extensive burial practices.
 
 - **Anomaly 7**: The tomb chambers in Bahrein typically have a distinctive oblong shape with corner recesses, raising questions about their intended use and significance. The consistent placement of recesses suggests a ritualistic or ceremonial aspect that may not be fully understood.
 
-# Chapter 4: Burial Monuments of North Africa
+# Chapter 4: Burial Monuments of North Africa [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly 8**: The burial tumuli in North Africa are characterized by their monumental structures built prior to Roman influence, indicating long-standing traditions of funerary practices. Their architectural complexity points to a society with advanced construction techniques and cultural significance placed on burial rites.
 
 - **Anomaly 9**: The presence of sliding stone doors and chambers with primitive carvings suggests a blend of functional construction and artistic expression in the tomb design. This combination reflects not only the practical considerations of burial spaces but also the cultural beliefs tied to the afterlife.
 
-# Chapter 5: Bee-Hive Tombs of Mezek
+# Chapter 5: Bee-Hive Tombs of Mezek [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly 10**: The tholos-tombs or bee-hive tombs in Mezek show a striking resemblance to Mycenaean architecture, indicating cultural exchanges between different civilizations. Their similarity suggests that architectural knowledge traveled across regions, influencing burial traditions.
 
 - **Anomaly 11**: Excavations revealed that the bee-hive tombs were originally filled with artifacts and offerings, but many were removed or destroyed, hinting at the tombs' historical significance. This variation in preservation poses questions about the historical practices of pillaging and the value placed on grave goods.
-# Chapter 1: Anomalous Dates and Structures
+# Chapter 1: Anomalous Dates and Structures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The dating of the roof slabs yielded results of 2475 + 45 b. € and 2465 + 40 b. C., indicating a timeline for the construction of the tomb that may reach back 3100 years before Christ. These results suggest sophisticated methods of chronology being employed in understanding the tomb's origins.
 
 - The passage leading to the chamber has an elevation that allows sunlight to illuminate at specific angles, with the floor of the chamber being notably lower than the roof box. This architectural design points to an intentional alignment with solar events, which raises questions about the cultural significance of light in ancient Irish tomb construction.
 
-# Chapter 2: Sunlight and Tomb Orientation
+# Chapter 2: Sunlight and Tomb Orientation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Excavations in 1967 revealed burnt bone fragments alongside grave goods, suggesting that the burial practices were elaborate and perhaps ritualistic in nature. The continuous visibility of sunlight in the chamber since its construction indicates a persistent cultural reverence for solar phenomena.
 
 - The kerb stones around the mound were initially austere, but weathering has caused some to lean inwards, affecting sunlight's entry into the structure. The original alignment of the stones produced a beam of light that would have been significantly wider at construction than it is today.
 
-# Chapter 3: Architectural Features and Artistic Elements
+# Chapter 3: Architectural Features and Artistic Elements [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Entrance Stone at Newgrange is noted for its impressive Megalithic carvings, which are thought to be unique in Europe. The stone's intricate designs, such as the three-spiral, showcase the artistic prowess of the ancient people and reflect a connection to their spiritual beliefs.
 
 - The roof box is an extraordinary architectural feature that supports the hypothesis of deliberate astronomical alignment in Megalithic structures. This suggests a complex understanding of solar movements among the early inhabitants and a cultural tradition of linking such knowledge to ceremonial practices.
 
-# Chapter 4: Fortifications and Earthworks
+# Chapter 4: Fortifications and Earthworks [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The structures built on hilltops in Great Britain and America are considered anomalous due to their defensive characteristics, which seem out of place given the historical context of indigenous cultures. These fortifications challenge perceptions of pre-colonial societies, suggesting they possessed advanced strategies for defense and community organization.
 
 - Earthworks in Greenup County, Kentucky, exhibit unusual dimensions and construction techniques not typically associated with the Native American tribes known in the region. The detailed survey conducted reveals geometric precision that may indicate a sophisticated understanding of land use and fortification.
 
-# Chapter 5: Undefined Functionality of Structures
+# Chapter 5: Undefined Functionality of Structures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The analysis of pre-Columbian stone structures in southern Illinois indicates potential uses beyond mere habitation or defense, suggesting ritualistic or ceremonial significance. The varying sizes and arrangements of these structures, which share traits with earthworks, hint at complex societal functions and community priorities.
 
 - The walls of the southwestern covered way present an unusual design, with strictly parallel sides that diverge at one end. The engineering choices made in their construction suggest intentional planning and could indicate a layered understanding of spatial definitions within the landscape.
-# Anomalies in Fort Mountain Description
+# Anomalies in Fort Mountain Description [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Intricate Construction of the Wall**  
   The wall at Fort Mountain is constructed in zigzag lines, which is unusual and seemingly designed to thwart direct assaults by an enemy force. Its irregular angles and varying zigzag lengths suggest a strategic approach to fortification unlike typical straight walls.
@@ -781,7 +485,7 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 
 - **Cultural Significance of Fort Mountain**  
   Fort Mountain has been linked to historical figures and events, particularly associated with legends surrounding De Soto, despite the lack of solid evidence of his presence in the area. This blending of lore and archaeology highlights how cultural narratives can shape our understanding of historical sites.
-# Vitrified Forts on the West Coast of Scotland
+# Vitrified Forts on the West Coast of Scotland [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Vitrified Masses Confusion**  
   The internal part of the upper vitrified wall was untouched by the fire, indicating that the heat did not extend far enough to fuse the stones. This suggests a method of construction that involved layering and external application of fierce heat.
@@ -789,29 +493,29 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 - **Foundation of Water-Worn Boulders**  
   Excavation at the base of the vitrified wall uncovered a foundation made of boulders that were evidently brought up from the shore. This indicates a deliberate selection of materials to create a stable base for the structure.
 
-# Tower of Babel
+# Tower of Babel [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Massive Pile of Ruins**  
   The site presents a vast expanse of ruins, with its base measuring 3,082 feet in circuit and including features such as abrupt cliffs and deep ravines. Such dimensions raise questions about the nature of its original purpose and construction techniques.
 
-# Section of Wall at Vitrified Fort
+# Section of Wall at Vitrified Fort [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Vitrified Walls with Varied Thickness**  
   The wall reached heights of up to 7 feet and a thickness of 6 feet at certain points, showcasing the fort's defensive design. The presence of multiple walls in varying conditions suggests a complex history of construction and repair.
 
-# Examination of Vitrified Forts in France
+# Examination of Vitrified Forts in France [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Materials Fused by Heat**  
   Analysis of vitrified materials indicates they were fused together by fire through an external application, disproving the theory that heat came solely from internal sources. The discovery of specific minerals highlighted the process's sophistication and intentionality.
 
-# Remarkable Feature in the Entrenchments of Knap Hill Camp
+# Remarkable Feature in the Entrenchments of Knap Hill Camp [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Intentional Gaps in Ramparts**  
   Excavations revealed that the gaps in the ramparts were part of the original construction, not accidental wear. This suggests a complex understanding of design and purpose behind the fortifications.
 
 - **Causeways Indicating Design**  
   The causeways positioned at oblique angles to the ramparts indicate an intentional architectural feature rather than an unfinished construction. Their consistent width across openings strongly supports the idea of a planned layout with a specific purpose.
-# Chapter 1: Anomalies in Defense Structures
+# Chapter 1: Anomalies in Defense Structures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Unfinished Entrenchments**: The breaks in the entrenchment are not simply due to an unfinished undertaking, suggesting that they serve a distinct purpose in the defense strategy. This aligns with the notion that these features could strengthen rather than weaken the site's defense.
 
@@ -819,30 +523,30 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 
 - **Fluctuating Dimensions of Ditch Sections**: The ditch of the main entrenchment is divided into seven sections with significant variations in size and length. This variation might serve strategic purposes, allowing for both wide areas and tighter defensive positions depending on the needs during an attack.
 
-# Chapter 2: Earthworks in Eastern Massachusetts
+# Chapter 2: Earthworks in Eastern Massachusetts [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Irregular Earthwork Formations**: The described earthworks are extensive and irregularly shaped enclosures, likely used for defense and housing. Over time, some sections have been obliterated by cultivation, yet the remaining embankments indicate their significant size and purpose.
 
 - **Destruction from Cultivation**: Portions of the earthworks have been levelled and filled in due to agricultural activities, obscuring their original design. Despite this, enough remains to showcase the construction techniques and intentions of the builders.
 
-# Chapter 3: Coast and Maritime Structures
+# Chapter 3: Coast and Maritime Structures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Unknown Purpose of Shell Walls**: The "shell keys" discovered off the Florida coast are walls believed to be part of an ancient stronghold, but their purpose remains incomprehensible. They comprise structures that appear to have served as protective barriers around habitation sites.
 
 - **Advanced Coastal Structures**: The coast structures show a higher stage of construction compared to other archaeological findings in Florida, indicating a sophisticated approach by the prehistoric people. These walls appear to be strategically placed to protect against potential threats while facilitating community life.
 
-# Chapter 4: Mysterious Walls in the Berkeley and Oakland Hills
+# Chapter 4: Mysterious Walls in the Berkeley and Oakland Hills [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Unusual Stone Walls**: The stone walls found in the Berkeley Hills offer little information regarding their construction purpose, leaving them a subject of speculation for over a century. While some segments suggest possible defensive roles, others lack any clear utility.
 
 - **Variability in Wall Structure**: The walls exhibit variability in height and construction, with some sections substantially lower than originally constructed. This suggests significant alterations over time, yet the original purpose of their design remains elusive. 
 
-# Chapter 5: Ancient Works in Florida
+# Chapter 5: Ancient Works in Florida [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Excavation Discoveries**: Excavations in Florida have revealed a defined wall composed of sandstone, leading to the belief of it being part of an ancient fortification. The presence of various artifacts, including pottery and tools, hints at the area's historical significance and a complex societal structure.
 
 - **Garden Plat Speculation**: Certain raised edges and terraces appear to have been cultivated, indicating they might have served as garden plots. This agricultural implication adds another layer to the understanding of the relationship between the ancient inhabitants and their environment.
-# Walls, Embankments, and Ditches
+# Walls, Embankments, and Ditches [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1: Chipped and Bored Stones**
   Some stones within the walls were found to be chipped and fitted, indicating they had been deliberately worked on. A specific stone discovered near Vollmer Peak was even bored through, suggesting advanced manipulation by unknown builders.
@@ -867,18 +571,18 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 
 - **Anomaly 8: Tikal's Earthworks and Their Functions**
   The 9.5 km long earthworks near Tikal were initially mistaken for a natural formation before their man-made origin was acknowledged. Questions surrounding their functions remain, particularly why they were placed so far from Tikal's central area, suggesting their purpose may have been defensive rather than practical.
-# A TRINCHERA NEAR QUITOVAQUITA, SONORA
+# A TRINCHERA NEAR QUITOVAQUITA, SONORA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The trench was possibly impassable, supported by evidence that at several points along its length, causeways appeared more frequently than expected. This suggests the area was inhospitable, with little to offer in terms of accessibility or utility.
 
 - There is no conclusive evidence of habitation at the Quitovaquita trench, indicating that the structures may have lacked purpose or function for the communities in the area. The suggestion made by Lumholtz that these trincheras were religious structures brings some merit considering their strategic but potentially impractical locations.
 
-# THE "GREAT WALL OF PERU"
+# THE "GREAT WALL OF PERU" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The wall's purpose remains unclear, with locals unable to provide historical context or function, leaving significant gaps in our understanding. Its existence has generated various hypotheses, including being a potential inter-tribal defense mechanism or a fortification against potential invaders.
 
 - Despite thorough aerial surveys, none of the initial photographs clearly depict associated forts, raising concerns about the wall's preservation and documentation. Notably, the wall's state of disrepair emphasizes the need for further archaeological exploration to uncover its origins and confirm its intended use.
-# Chapter 1
+# Chapter 1 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Artificial Islands:** The artificial islands in the lagoon are primarily built from basalt columns, which are not naturally found nearby. This suggests that ancient builders transported these materials from quarries located thirty miles away.
 
@@ -886,7 +590,7 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 
 - **Discovery of Carolines' Structures:** The significant findings on Ponape Island, including walls and breakwaters extending three miles, demonstrate advanced engineering techniques. These massive constructions, believed to be for defense, point to a well-organized labor force capable of monumental tasks.
 
-# Chapter 2
+# Chapter 2 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Lack of Tool Marks:** Despite the presence of colossal basalt columns, there is a notable absence of tool marks on the rocks, questioning the means by which these stones were shaped. The treatment of the columns, akin to logs, raises further questions about the methods used to transport and arrange them.
 
@@ -894,38 +598,38 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 
 - **Large-scale Labor Efforts:** The construction process likely required a large workforce operating under a coordinated effort to move and stack heavy materials. These immense projects suggest that ancient civilizations had both the manpower and social structures necessary to undertake such endeavors.
 
-# Chapter 3
+# Chapter 3 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Fortifications Built for Defense:** The elaborate walls of fortification facing outward indicate that they were built for defense against external threats rather than internal strife. The aging masonry also suggests that while originally impressive, much of it has deteriorated over time.
 
 - **Cairns in Diverse Cultures:** The presence of cairns, or piles of stones in different regions, serves as a testament to varied cultural practices surrounding memorialization. These structures might have served multiple purposes beyond burial, including boundary markers or the commemoration of significant events.
 
 - **Misinterpretations of Structures:** The structures termed "kites" in the Middle East have been speculated to serve many functions from fortifications to animal traps. The lack of archeological evidence for burials leads to further speculation about their unique roles in ancient societies.
-# SHEBIB'S WALL IN TRANSJORDAN
+# SHEBIB'S WALL IN TRANSJORDAN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The wall, known locally as 'Khat Shebib', runs across country from Ail JeBeL Jiththa to the El'AsHaRA: Ma'an edge. It is reported to have been constructed by the Amir Shebib el Tubba'i, a ruler of the Himyarite dynasty.
 
 - The structure of the wall suggests that it was not defensive and served as a boundary line instead. The alignment and the presence of upright stones indicate it was visible across considerable distances.
 
-# DELTA OF EXCAVATIONS AT BIGO, UGANDA
+# DELTA OF EXCAVATIONS AT BIGO, UGANDA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Bigo earthworks are theorized to have been created by the Bachwezi, a cattle-owning aristocracy. These earthworks enclose a vast area with a remarkable ditch system, indicating advanced construction techniques.
 
 - A surprising discovery at Bigo was a silted ditch extending to a depth of twelve feet, cut into solid rock, showcasing the builders' capabilities. It has been noted that this portion of the ditch was used as a rubbish tip, containing a mixture of pottery and animal bones.
 
-# LYONESSE
+# LYONESSE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The legend of Lyonesse suggests a once-fertile land that has sunk below sea level, connecting the Scilly Isles and Cornwall. Archaeologists found evidence of walls submerged under water, corroborating claims of human construction.
 
 - One remarkable feature is the line of stones observed on the sands, indicating the existence of prehistoric walls. The presence of flint flakes and other artifacts suggests a significant historical basis for the legend of Lyonesse.
 
-# DORSET CURSUS
+# DORSET CURSUS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Dorset Cursus is noted for being the largest of its kind in Britain, stretching six miles and comprising a substantial earthwork. Its dimensions far exceed other significant prehistoric sites like Avebury and Stonehenge, making it a unique construction.
 
 - The earthwork displays irregularities, hinting at human labor and skill in its creation. The course of the Cursus runs through undulating terrain, suggesting a careful selection of its path across the landscape. 
 
-# DURRINGTON WALLS
+# DURRINGTON WALLS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Durrington Walls remains largely unnoticed by the public, despite being a significant archaeological site. The earthen ramparts have been altered through years of ploughing, making them difficult to recognize in their original form.
 
 - The configuration of the Durrington Walls consists of a round enclosure which has been divided by the road. Its proximity to major routes indicates it may have held important ceremonial or functional significance in the prehistoric landscape.
-# Anomalies in the Book Excerpt
+# Anomalies in the Book Excerpt [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Durrington Walls' Ditch and Rampart**  
   Durrington Walls is characterized by a rampart and an inside ditch, which deviates from typical defensive structures that have a ditch outside a rampart. Its unique layout suggests a link to the cult of the dead and practices aimed at ensuring their influence is transmitted to the living.
@@ -947,31 +651,31 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 
 - **Sandy Island Monolith Observation**  
   Another monolith on Sandy Island has potential sightlines through tree removal that align with specific horizon points. The cup marks on the initial monolith add another layer of complexity, possibly pointing to ritualistic significance beyond mere functionality.
-# POSSIBLE MEGALITHIC ASTRONOMICAL ALIGNMENTS IN NEW ENGLAND
+# POSSIBLE MEGALITHIC ASTRONOMICAL ALIGNMENTS IN NEW ENGLAND [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The cup-marked stones in the British Isles and Western Europe are thought to have potential astronomical significance, possibly representing constellations. Some researchers believe they may be crude maps or diagrams for other sites or structures.
 
 - The stone circles and dolmens in New England may have indicated solstitial sun positions as well as other astronomical markers throughout the year. The interaction between these structures suggests they were intentionally arranged and carefully considered by their builders.
 
-# THE TIPI RINGS OF THE HIGH PLAINS
+# THE TIPI RINGS OF THE HIGH PLAINS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Tipi rings are common among the Northern and Northwestern Plains in North America and are often found near water and hunting areas. Despite limited excavations, these sites are generally believed to be remnants of camps or villages associated with conical, skin-covered lodges.
 
 - The primary function of tipi rings is considered domestic rather than ceremonial, with few exceptions for large or unique structures. Excavated collections reveal house complexes with distinct orientations, suggesting potential astronomical purposes, especially related to solstitial events.
 
-# A WHEEL-SHAPED STONE MONUMENT IN WYOMING
+# A WHEEL-SHAPED STONE MONUMENT IN WYOMING [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - An intriguing rock alignment resembling a primitive wheel has been identified in Colorado, with two spoke-like lines pointing towards the summer solstice sunrise. The structure appears ancient, marked by its weathered stones and surrounding mountainous terrain.
 
 - Despite its possible astronomical function, the site's location raises questions about why anyone would mark the solstice in such a remote and harsh environment. The lack of nearby habitation evidence complicates interpretations, suggesting alternative motives might have influenced its creation.
 
-# MEDICINE WHEELS AND PLAINS INDIAN ASTRONOMY
+# MEDICINE WHEELS AND PLAINS INDIAN ASTRONOMY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Most Canadian medicine wheels differ significantly from the Big Horn Medicine Wheel in design and structure, with a notable absence of mountain-related features near these sites. Many Alberta cairns and wheels lack the spokes associated with astronomical functions, suggesting a diversity of purposes across different cultures and time periods.
 
 - The analysis of spokes and structural similarities indicates that some wheels may be tied to solstitial events, while others appear to have served different roles. The distinction between ceremonial and functional structures underscores the varying interpretations of building motives among Indigenous peoples.
 
-# STONE CIRCLES AND UPRIGHT STONES IN NEW MEXICO
+# STONE CIRCLES AND UPRIGHT STONES IN NEW MEXICO [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - There is a notable absence of documented circles and lines of upright stones in New Mexico, suggesting their significance has gone largely unnoticed. Localities with remarkable systems of upright stones hint at ancient practices possibly related to astronomy or ceremonial use.
 
 - Major George H. Pradt discovered one of these stone systems during a government survey, indicating a historical lack of awareness among contemporary scientists. The unique arrangement of these stones raises questions about their original purpose and temporal context within the region's archaeological narrative.
-# STONE CIRCLES, ALIGNMENTS, AND HENGES
+# STONE CIRCLES, ALIGNMENTS, AND HENGES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1: Stone Circles in New Mexico**  
   Major Pradt observed stone circles that were similar in layout but varied in size depending on the location, suggesting a common origin. The central circle contained upright stones and others that had fallen, with some stones forming a table or altar.
@@ -996,22 +700,22 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 
 - **Anomaly 8: Caracol Observatory**  
   The Caracol Observatory at Chichen Itza displays a precise arrangement for astronomical observations related to celestial events like equinoxes and lunar phases. These constructions highlight the ancient Mayans' advanced understanding of the cosmos, reflected in their architectural designs.
-# RIDDLE OF COSTA RICA'S JUNGLE SPHERES
+# RIDDLE OF COSTA RICA'S JUNGLE SPHERES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Stone Spheres:** Workmen in Costa Rica discovered large, smooth, and round stone spheres in a jungle clearing while searching for land to plant bananas. Despite theories suggesting their significance, including the possibility of marking Indian chiefs' graves, excavations revealed no graves beneath them.
 
 - **Groupings and Arrangements:** Many of the stone spheres were found in groups, with some arranged in straight lines, circles, or triangles. Scientists noted that the stones pointed in specific geographic orientations, suggesting they may have been used for astronomical tracking.
 
-# THE PRIMEVAL MONUMENTS OF PERU COMPARED
+# THE PRIMEVAL MONUMENTS OF PERU COMPARED [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Chulpas and Sun Circles:** Near the chulpas at Sillustani, Peru, a tradition exists linking certain stone circles to the Quichua name "Intihuatana," meaning "where the sun is tied up." Some circles were elaborately designed, with stone platforms and grooves, indicating they may have served specific ceremonial functions.
 
-# STONE CIRCLES IN TONGAREVA
+# STONE CIRCLES IN TONGAREVA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Limestone Pillars:** Two roughly circular arrangements of limestone pillars on Tongareva island are believed to lack any known purpose or local name, suggesting their use is obscured by time. Stone circles resembling Stonehenge have been misinterpreted in descriptions, as the actual structures were rectangular.
 
-# ORDERED ARRANGEMENT OF STONES IN AUSTRALIA
+# ORDERED ARRANGEMENT OF STONES IN AUSTRALIA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Stone Pathways:** In the Tattiara country of Victoria, stone walls radiating from a cave were thought to serve ritualistic purposes by Aboriginal inhabitants. These walls occasionally showed signs as if they were paths for ceremonial activities, although the exact usage remains speculative.
 
 - **Durham Downs Structure:** At Durham Downs station, remarkable arrangements of stones form pathways, suggesting special significance to the Aboriginal people. This structure includes sections where paths are convoluted, which may relate to cultural practices or rituals performed by Aboriginal ancestors.
-# The Stone Circles of Oyu
+# The Stone Circles of Oyu [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Appearance of Fires Around Stone Piles**  
   Some stone piles exhibit signs of having had fires built around their bases, suggesting that these structures may have been intentionally placed for some functional purpose. The weathering of these piles could provide insights into the age of the relics associated with them.
@@ -1019,7 +723,7 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 - **Identical Features in Stone Circles**  
   Both the Nonakado and Manza stone circles feature an anomalous sun-dial construction isolated in the northwestern sector of each circle. Despite their proximity, the specific positioning of the features in both circles indicates a shared significance, which may yield further archaeological understanding.
 
-# Stone Circles, Alignments, and Henges 
+# Stone Circles, Alignments, and Henges  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Mathematical Precision in Alignments**  
   The alignments of standing stones are noted for their mathematical precision, uniform spacing, and orientation along cardinal points. Previous surveys suggest remarkable consistency in the dimensions and arrangements of these stones.
@@ -1027,7 +731,7 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 - **Types of Stone Arrangements**  
   Two main arrangements, square and diagonal, have been identified among the stone alignments. This categorization implies a deliberate design choice, possibly related to the storied cultural significance of alignment patterns in these regions.
 
-# Note on Stone Circles in Gambia
+# Note on Stone Circles in Gambia [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Larger Stone Circles at Maka**  
   At Maka, investigators noted the existence of large stone circles positioned next to one another, possibly indicating a complex social structure or ceremonial purpose. Notably, there are suggestions of a larger outer segment of a circle that remains partially hidden or unexplored.
@@ -1035,14 +739,14 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 - **Local Significance of Stone Circles**  
   The local inhabitants have little to no historical knowledge regarding the origins of the stone circles, merely attributing them to "the olden people." This lack of cultural memory raises questions about the continuity of significance given to these structures over time. 
 
-# Broken Megalithic Rings
+# Broken Megalithic Rings [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Various Categories of Design**  
   The megalithic structures in Europe have been categorized into four design groups, reflecting diverse functionalities such as astronomical observations or burial sites. The myriad shapes—circles, flattened circles, ellipses, and eggs—indicate a rich tradition of stone construction practices.
 
 - **Debate on Construction Techniques**  
   A debate exists regarding the geometric precision of these megalithic designs and the methods used to scribe them. The investigation highlights differences in techniques, such as the use of ropes versus rods, and suggests that varying methods might have influenced the final shapes of these ancient constructions.
-# Stone Circles, Alignments, and Henges
+# Stone Circles, Alignments, and Henges [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Type A Rings**  
   The type A ring was constructed using a rope tied to a stake, allowing the designer to inscribe the figure nearly perfectly by rounding pivot stakes. The builders' obsession with perfection led them to layout their measures in integral units, with the circular megalith appealing due to its simple, radial symmetry.  
@@ -1059,14 +763,14 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 - **Type II Egg-shaped Rings**  
   The design of type II egg-shaped rings involved subtle manipulation of the anchor line to explore new shapes and configurations. This shifting of the anchor line illustrated an advanced understanding of geometric principles as those involved in its construction incorporated lessons learned from previous designs.  
 
-# The Caithness Fan-Shaped Arrays 
+# The Caithness Fan-Shaped Arrays  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Fan-shaped Stone Arrays**  
   The fan-shaped stone arrays in Caithness were interpreted as primitive stone computers, reflecting a sophisticated understanding of astronomy. These arrays were theorized to aid in calculating lunar positions, showcasing the depth of knowledge possessed by the megalithic builders regarding lunar cycles and declinations.  
 
 - **Surveyed Stone Rows**  
   The stone rows of Caithness differed from those in other regions by being either parallel or splayed, complicating their interpretation. The unique layout prompted further analysis regarding their purpose, indicating advanced planning and alignment by their creators.
-# Page 87
+# Page 87 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Astronomical Fix Error**  
   Without using some extrapolation method, astronomers could encounter an error up to 10' of arc in an azimuthal fix. This issue highlights the challenges faced by astronomer-priests during their observations.
@@ -1086,7 +790,7 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 - **Local Variants**  
   Each region appears to have developed its own local variants of stone structures, resulting in diverse architectural styles. As a result, stone monuments across Britain share only general similarities.
 
-# Page 88
+# Page 88 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Blocking Stone Configuration**  
   The blocking stones in the Erme Valley group exhibit peculiar positioning, with some placed transversely along the row. The variability in stone height and alignment suggests a complex purpose behind their arrangement.
@@ -1100,7 +804,7 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 - **Symbolism in Stone Rows**  
   The practice of erecting stone rows continues in certain cultures, where they symbolize ancestors and play a role in religious rites. This ongoing tradition reflects the enduring significance of these structures in cultural memory.
 
-# Page 89
+# Page 89 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Orientation Studies of Stonehenge**  
   Attempts to determine Stonehenge's construction date have involved studying its orientation in relation to celestial events. Different authorities have produced conflicting estimates, highlighting the complexity of the issue.
@@ -1114,7 +818,7 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 - **Stone Condition and Relationship**  
   Many of the original stones have collapsed, and their current positions further complicate understanding the structure's orientation. Despite this, analyses continue to reveal significant correlations between the avenue and the inner structure of Stonehenge.
 
-# Page 90
+# Page 90 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Precession's Impact on Dates**  
   The effects of precession were noted as a crucial factor in determining the dates of ancient structures, such as the temples of Greece and Egypt. However, similar methods face challenges with the brightness of twilight during important solar events.
@@ -1127,7 +831,7 @@ The text explores various anomalies and cultural exchanges between Asia and the 
 
 - **Structural Integrity of Stonehenge**  
   The current form of Stonehenge indicates significant decline, with many stones fallen from their original positions. Understanding the original structure's integrity is essential for interpreting its historical and archaeological significance.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Elevation of the local horizon**  
 The measurement taken for the elevation of the local horizon at the sunrise point is approximately 35' 30". When accounting for the sun’s upper limb, this figure increases to about 37' 30".
@@ -1164,7 +868,7 @@ Changes in the obliquity of the ecliptic and the moon's orbit were shown to have
 
 - **Eclipse predictions**  
 The computations around eclipses showed that the lunar eclipse of a given date was frequently revisited in subsequent years, suggesting a systematic method of tracking these events using Stonehenge. This insight helps illustrate the complex interplay between astronomy and cultural practices during that era.
-# Anomalies in Stonehenge Analysis
+# Anomalies in Stonehenge Analysis [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Inaccurate Predictions**  
   Hawkins's analysis shows that a complete examination reveals the stone computer's accuracy is valid only for approximately three centuries. Furthermore, lunar and solar phenomena are predicted to occur a year earlier than actual events, which could have been corrected by the builders if noticed.
@@ -1192,7 +896,7 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 
 - **Bias in Statistical Data**  
   The published surveys of stone circles have been criticized for their potential bias and lack of accuracy, which could hinder any statistical analysis of their astronomical significance. This presents challenges in ensuring that the data used in studies accurately represents the original structures.
-# ANCIENT STONEWORKS FOUND IN LOCH NESS
+# ANCIENT STONEWORKS FOUND IN LOCH NESS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Discovery of Submerged Structures**  
   Scientists searching for the Loch Ness monster have discovered several large prehistoric manmade stoneworks submerged in the lake. The presence of these structures indicates that the water level has risen sharply over the centuries, altering the landscape significantly.
@@ -1200,7 +904,7 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 - **Impressive Cairns**  
   The cairns found in Loch Ness consist of piled stones, varying in size and presumably built as burial and religious mounds. Despite many being pillaged, the discovery of several apparently intact structures offers new opportunities for archaeologists to learn about ancient inhabitants.
 
-# THE ASTRONOMICAL SIGNIFICANCE OF THE CRUCUNO STONE RECTANGLE
+# THE ASTRONOMICAL SIGNIFICANCE OF THE CRUCUNO STONE RECTANGLE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Symbolic Observatories**  
   The Cromlech de Crucuno could have functioned only as a symbolic observatory unless it had foresights from a distance. During precise lunar observations, it would be possible to mark calendar dates corresponding to equinoxes.
@@ -1208,7 +912,7 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 - **Geometric Configuration Anomaly**  
   The unusual geometric configuration of the megaliths at Crucuno raises questions about its use as a scientific observatory. Despite the possibility of precise lunar observations, its functionality depended on the existence of foresights, which were only confirmed on a subsequent visit.
 
-# THE ASTRONOMICAL SIGNIFICANCE OF THE LARGE CARNAC MENHIRS
+# THE ASTRONOMICAL SIGNIFICANCE OF THE LARGE CARNAC MENHIRS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Transportation Challenges**  
   The transportation of the Er Grah menhir, estimated to weigh over 340 tons, presents an anomaly due to the immense effort required to move such a colossal stone. Suggestions regarding its movement by sea do not account for historical sea levels, making the logistics seem implausible.
@@ -1216,7 +920,7 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 - **Foresight Usage**  
   If Er Grah was used as a universal foresight, it indicates a systematic approach to astronomical observations across long distances. However, the necessity of a controlled site for standardizing units and ensuring precise positioning complicates the understanding of its function.
 
-# THE OTHER PYRAMIDS
+# THE OTHER PYRAMIDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **De-emphasis of Egyptian Pyramids**  
   There is a noted anomaly in the literature regarding the underrepresentation of the Great Pyramid and other Egyptian pyramids compared to other pyramid structures worldwide. While the labor involved in placing Er Grah is acknowledged, the effort involved in establishing the site’s positioning is often overlooked.
@@ -1224,14 +928,14 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 - **Universal Motif of Pyramids**  
   The discussion surrounding pyramid construction leads to the question of whether building pyramids was a global motif linked by cultural traditions. The existence of truncated pyramids across various regions raises intriguing questions about the motivations and significance behind such structures.
 
-# THE GREAT CAHOKIA MOUND
+# THE GREAT CAHOKIA MOUND [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Unique Location**  
   The Cahokia Mound's unique position on the banks of Cahokia Creek contrasts with other mound structures in the northern regions. This anomaly highlights the diversity of prehistoric architectural styles and cultural practices within a relatively concentrated geographic area.
 
 - **Complex Interactions of Cultures**  
   The concentration of various mound types within the vicinity of Cahokia reflects the interactions between semi-civilized agricultural societies and more primitive cultures. This juxtaposition provides a rich context for studying the evolution of societal structures in prehistoric times.
-# The Other Pyramids
+# The Other Pyramids [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cahokia Mounds**: The mounds are described as a semi-circle a mile in extent, hinting at a highly structured ancient landscape. Early explorers and travelers noted the mounds' significance but lamented their destruction in modern times.
 
@@ -1242,7 +946,7 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 - **Everglades Discoveries**: Recent explorations in the Everglades have uncovered extensive earthworks that rival known prehistoric sites, suggesting a larger network of mound-building cultures than previously recognized. Stirling's findings raise questions regarding the purpose and significance of these structures within the ancient tribal societies.
 
 - **Rock Lake Pyramids**: Divers claim to have discovered the "Lost Pyramids" of Rock Lake, hinting at sophisticated construction methods similar to those seen at Cahokia. Despite exhaustive searches, definitive evidence of the pyramids' existence has proven elusive, igniting debate and curiosity regarding their true nature.
-# Page 108 Anomalies
+# Page 108 Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The pyramids in Rock Lake are considered illogical; they are located underwater in a glacial lake that formed only 10,000 years ago, and thus it raises questions about who could have built them while the lake existed. Archaeologists note that nobody knows of any civilization building pyramids in such conditions, making their existence perplexing.
 
@@ -1253,7 +957,7 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 - During excavations at the Cuicuilco site, archaeologist Byron Cummings witnessed unidentified lights over the structure, which fueled local myths of hidden Aztec treasure beneath it. The unexplained light added to the site’s mysterious allure, emphasizing the intersection of folklore and archaeological inquiry.
 
 
-# Page 110 Anomalies
+# Page 110 Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Cummings found that the layers of volcanic ash surrounding the Cuicuilco pyramid suggested significant time periods of occupation by ancient cultures, yet the true extent beneath remains largely unexplored. The varying stratifications complicate the narrative of the pyramid's history and the surrounding ancient civilizations.
 
@@ -1262,7 +966,7 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 - The construction and design of Cuicuilco's pyramid raise questions about its intended use versus the more commonly understood ceremonial purposes of traditional pyramids. The site's potential for religious significance or urban dwelling patterns remain ambiguous and unquantified in archaeological studies.
 
 - The difficulties in excavating through thick layers of lava surrounding Cuicuilco complicate the retrieval of concrete data, hindering the understanding of the site’s historical relevance. As ongoing efforts to explore the area continue, the enigma of what lies beneath this hardened mass persists, making it a focus for future inquiries.
-# Chapter 1: Anomalies in Dating and Structure
+# Chapter 1: Anomalies in Dating and Structure [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1: C-14 Dating Discrepancies**  
   There are anomalous dates in the C-14 dating series that do not fit the general expectations of archaeologists. The usual trend is that older materials are found deeper; however, in this case, the material dated at the level of the pyramid pavement suggests a minimum age of over 4,000 years, indicating it could be much older than previously thought.
@@ -1284,7 +988,7 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 
 - **Anomaly 7: Artificial and Natural Combination**  
   Many American pyramids, particularly those in Peru, exhibit characteristics that blend natural and artificial features, creating a hybrid architectural form. This raises questions about the cultural motivations and technological capabilities of the builders, suggesting they combined landscape and construction practices in unique ways.
-# Page 116: The Other Pyramids
+# Page 116: The Other Pyramids [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Colossal stone figures**: Colossal figures once existed on many islands but have either been destroyed or fallen into ruins. In the Marquesas and Society Islands, stone figures in human form were found that suggest a common origin.
 
 - **Common meaning of stone figures**: Moerenhout posits that these stone figures represented beings called tii, which marked the boundaries of sea and land. This function was intended to maintain harmony between the two elements.
@@ -1293,26 +997,26 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 
 - **Megalithic structures in Polynesia**: Tonga holds megalithic structures that closely resemble those found in other parts of the world, suggesting a common source. The possibility of an intermediate link between the stonework of Tonga and other cultures strengthens the argument for interconnected art forms.
 
-# Page 117: Unusual Ancient Buildings
+# Page 117: Unusual Ancient Buildings [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Mysterious ancient buildings in Scotland**: Scotland’s brochs and Minorca’s talayots are categorized as having obscure purposes. In North America, rough-laid masonry structures spark debate about whether they are colonial root cellars or the remains of ancient civilizations.
 
 - **Deserted ancient cities**: Magnificent ruins of once-great civilizations exist in Asia Minor and the Andes, showcasing advanced architectural skills. The question arises whether classical engineers could have built structures like Tiahuanaco at such high altitudes, challenging the narratives surrounding ancient civilizations.
 
-# Page 118: A Deserted Haunt of Unknown Origin
+# Page 118: A Deserted Haunt of Unknown Origin [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Man-made huts in New England**: Hidden in New England woods are unusual man-made huts made from local granite stones. These constructions are often surrounded by mystery regarding their origin and purpose, leading to various conjectures.
 
 - **Beehive-like structures**: Structures known as beehive huts have ignited interest and debate; they share characteristics of ancient monuments yet lack clear historical documentation. Two varieties exist: underground and above-ground stone huts, each with unique building techniques and materials.
 
-# Page 119: The Sandyston Stone Chamber in New Jersey
+# Page 119: The Sandyston Stone Chamber in New Jersey [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Underground chambers and origins**: The Sandyston stone chamber is formed by natural bedrock features and has been a subject of study for its unusual construction. Its purpose and the identity of its builders remain topics of speculation among historians and archaeologists.
 
 - **Artifacts and archaeological significance**: Excavations near the Sandyston chamber revealed other features suggesting potential ancient habitation. The ongoing investigation into its origins might provide valuable insight into the area's historical narrative.
 
-# Page 120: Fire Swept City of Ancient Man in Tennessee
+# Page 120: Fire Swept City of Ancient Man in Tennessee [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Prehistoric Indian city ruins**: An ancient Indian city in Tennessee, destroyed by fire, covered an expansive area and showcased sophisticated architectural planning. The remains indicate it was fortified with mounds and defensive structures long before European contact.
 
 - **Terraced constructions and earth lodges**: The city's layout included artificial hills with wide terraces that supported various structures, including sacred temples. This urban development reflects the advanced societal organization and building techniques of its ancient inhabitants.
-# Unusual Ancient Buildings
+# Unusual Ancient Buildings [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomalous Wooden Palisades**  
   The excerpt mentions wooden palisades that were originally part of a defensive structure overlooking the Kanawha River. They are described as having a wooden wall plastered on the outside, likely to deter scaling by enemies.
@@ -1334,7 +1038,7 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 
 - **Chiapas Ruins**  
   In Chiapas, Mexico, ruins were discovered that show no discernible connection to ancient Maya civilizations, despite their proximity. These structures, despite their squat design and low height, were built on a significant mound, indicating an advanced understanding of construction and landscape.
-# Unusual Ancient Buildings
+# Unusual Ancient Buildings [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Circular Subterranean Room**  
   The buildings feature a circular subterranean room that varies in size, creasing from 15 to approximately 50 feet. Their construction deviates so significantly from permanent dwellings that there's reason to doubt they were primarily meant as homes.
@@ -1359,7 +1063,7 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 
 - **True Arch in Pre-Columbian America**  
   Evidence of an understanding of the true arch principle was discovered in the ruins of Muneca, despite claims that such architectural features were absent in the New World. This finding contradicts previous assertions by demonstrating the application of arch construction techniques in ancient American civilizations.
-# THE ANCIENT RUINS OF TIAHUANACU
+# THE ANCIENT RUINS OF TIAHUANACU [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Use of Ancient Stones**  
   Over three and a half centuries, the ancient stones of the Tiahuanacu ruins have been utilized as building material for various structures. This practice involves the removal of beautifully carved stones from temples and palaces, leading to the deterioration of historical monuments.
 
@@ -1387,13 +1091,13 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 - **Mystifying Historical Context**  
   The civilization that built Tiahuanacu remains enigmatic, with scant information available from the era, leaving many questions unanswered. The city, once thriving at high altitudes, now lies in ruins, stirring interest among historians and archaeologists regarding the reasons for its decline. 
 
-# PREHISTORIC STRUCTURES ON PONAPE
+# PREHISTORIC STRUCTURES ON PONAPE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Prehistoric Structures in Micronesia**  
   Recent notes on prehistoric buildings in Ponape indicate that American missionaries may contribute more knowledge about these early constructions. These structures, similar to Tiahuanacu's, evoke curiosity about the architectural skills of ancient economies in the Pacific Islands.
 
 - **Architectural Details and Measurements**  
   Detailed descriptions reveal large, elaborately built structures that pose questions about the social organization and capabilities of the populations in this area. Efforts to study these sites further may yield insights into the cultural and historical developments of the region's early inhabitants.
-# NAN MATOL: ANCIENT VENICE OF MICRONESIA
+# NAN MATOL: ANCIENT VENICE OF MICRONESIA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Submerged Structures**: The walls of several islands near Nan Matol are a foot or more below water. These structures were initially built above water and have gradually sunk as the sea level rose.
 
@@ -1401,24 +1105,24 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 
 - **Quarry Issues**: There is an active quarry in the mountains that contains the same stone used for the structures, with blocks prepared for transport. However, there is no local recollection of who worked there, when it was active, or why the quarrying eventually stopped.
 
-# UNNOTICED ANCIENT METROPOLIS OF ASIA MINOR
+# UNNOTICED ANCIENT METROPOLIS OF ASIA MINOR [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Silent City**: The ancient metropolis mentioned is a vast site, known but never described, that once was a major city in the Hittite Empire. Despite its grandeur, the site now lies mute and barren with only scraggly vegetation marking its presence.
 
 - **Enclosure Walls**: The city is surrounded by walls that appear as piles of rocks from a distance and enclose a significantly larger area than the well-known ancient Hittite capital, Boghaz Koi. These walls, now in a state of desolation, are remnants of a once-bustling cultural and political center.
 
-# THE GERMAN EXCAVATIONS AT BAALBEK
+# THE GERMAN EXCAVATIONS AT BAALBEK [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Massive Retaining Walls**: The temple complex at Baalbek includes massive retaining walls built on a raised platform, designed to support the structures above. Ingenuitive use of arched vaults for storage suggests an advanced understanding of construction techniques.
 
 - **Gigantic Stones**: The temple complex boasts some of the largest stones ever used in construction, with one stone estimated to weigh over a thousand tons still remaining at the quarry. The methods by which these titanic blocks were transported and raised to their heights remain unsolved mysteries.
 
-# RECENTLY DISCOVERED RUINS IN RHODESIA
+# RECENTLY DISCOVERED RUINS IN RHODESIA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Diverse Architectural Styles**: The ruins span a considerable area, showcasing various architectural forms that raise questions about their purpose and builders. The presence of round and non-rectangular shapes in contrast to the later square designs indicates an evolution in building practices.
 
 - **Ornamental Features**: Reports detail intricate ornamental work found in over one hundred and twenty distinct locations, including patterns such as herring-bone and chevron designs. These elements suggest a significant amount of craftsmanship and cultural sophistication in the ancient builders.
-# Unusual Ancient Buildings
+# Unusual Ancient Buildings [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1**
   The walls of the huts at Zimbabwe exhibit the clear impress of wooden stakes against which the cement had been plastered. These stakes were also used for structural support during the construction phase, indicating a unique building technique.
@@ -1449,7 +1153,7 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 
 - **Anomaly 10**
   The remains of structures at Dhlo Dhlo show signs of having been fashioned without mortar, relying instead on the careful fitting of stones. This method emphasizes the skill and craftsmanship of the builders as they achieved stability through precision rather than adhesive means.
-# Anomalies in Ancient Structures
+# Anomalies in Ancient Structures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Wall Structure and Restoration:** The walls attain greater height in three tiers, with the top reaching 16 feet above the base. Some sections are ornamented with a row of chevrons made of dark and white blocks, but the walls are partially filled with rubbish.
 
@@ -1470,7 +1174,7 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 - **Differences in Building Styles:** The report outlines varying degrees of construction quality among megalithic monuments, suggesting a potential hierarchy or evolution in building techniques over time. The relationship between different types of structures, like the talayot and taula, indicates a complexity in the cultural practices of the time.
 
 - **Discovery and Excavation Challenges:** The Tarxien Groups of megalithic buildings were completely buried and remained unknown until 1914, indicating how archaeological exploration can uncover significant historical artifacts. Their systematic arrangement suggests a society with organized architectural intentions, yet much of it remains unexamined due to surface obscurity.
-# Anomalies in Ancient Structures
+# Anomalies in Ancient Structures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Talayots and Taulas**
   Budge has suggested that the talayots are pyramids of a funereal nature, supported by the discovery of silt covering the temple floors. The taulas, used as altars for sacrifices, also indicate a significant cultural practice related to death and ritual.
@@ -1495,7 +1199,7 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 
 - **Melbury Park Connections**
   The sacred geometry present in the arrangement of roadways and drives in Melbury Park denotes an ancient significance tied to solar events. This planned connectivity among various sites highlights a societal strategy that linked landscape features with cultural practices.
-# Prehistoric Roads
+# Prehistoric Roads [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Knowledge Transfer**: Teobert Maler, living in Ticul and on friendly terms with Don Antonio, likely learned about the ancient ruins at Coba from his neighbor. Despite his findings, Maler chose to keep the knowledge to himself, highlighting the enigmatic nature of the communication channels of that time.
 
@@ -1507,16 +1211,16 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 
 - **Unusual Construction Techniques**: The method of building these ancient roads involved quarrying, transporting, and constructing with nearly a million tons of stone, leading to the realization that such projects required immense time and labor. The discovery of well-preserved wooden trackways in Europe indicates a surprisingly sophisticated level of commerce and labor organization much earlier than previously assumed.
 
-# The Azanian Civilization of Kenya
+# The Azanian Civilization of Kenya [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Linear Earthworks**: The term covers both artificial roads and ditches that show signs of human activity; however, the distinction is sometimes unclear. Some sections of these roads feature graded embankments and cuttings, resembling modern railway constructions, indicating advanced engineering skills.
 
 - **Roads with Unique Features**: In some areas of Kenya and Tanganyika, roads incorporate unique earthen features like higher banks on one side, showcasing a deliberate grading approach to the landscape. The apparent purpose of these roads was not solely for transportation but potentially for agricultural or ceremonial uses as well.
 
-# Egypt and the Suez Isthmus
+# Egypt and the Suez Isthmus [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Ship Railway Tradition**: Evidence suggests that ancient Egyptians might have transported vessels overland across the Isthmus of Suez, which implies an advanced understanding of logistics in vessel movement. Historical records indicate that a true ship railway, utilizing polished granite for rails, existed over two thousand years ago, demonstrating sophisticated engineering capabilities.
-# THE CART-RUTS OF MALTA
+# THE CART-RUTS OF MALTA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Origin**: The ancient wheel-tracks in Malta raise questions about their origin—whether they are natural formations or man-made. While parallel fissures can occur naturally in limestone, the consistent depth and curvature of the ruts suggest a deliberate construction process.
 
@@ -1528,7 +1232,7 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 
 - **Cultural Context**: The existence of tracks over Punic graves indicates a continuity of use beyond the initial construction phase. This layering of different historical periods complicates the dating and understanding of the tracks’ significance.
 
-# PREHISTORIC ROADS
+# PREHISTORIC ROADS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cart Track Functionality**: The ruts observed indicate that they were likely designed for wheeled vehicles, which required a substantial wheel diameter to navigate the depths effectively. The consistencies in rut size suggest repeated use by similar vehicles.
 
@@ -1536,28 +1240,28 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 
 - **Curation of History**: Despite various theories, there remains a lack of consensus on the age and purpose of the cart tracks, leading to a plethora of interpretations. This ambiguity reflects the broader challenges faced by archaeologists in reconstructing past practices with limited evidence.
 
-# RADIOCARBON DATING OF PREHISTORIC WOODEN TRACKWAYS
+# RADIOCARBON DATING OF PREHISTORIC WOODEN TRACKWAYS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Dating Challenges**: The wooden trackways present significant dating challenges due to their depth beneath peat layers that have undergone numerous changes. Radiocarbon dating efforts have yielded results that suggest these structures were built during a climatic period marked by increased flooding.
 
 - **Preservation Issues**: The construction of wooden tracks appears to have been a response to flooding, thus preserving them under layers of peat. This association with environmental conditions complicates the understanding of their historical context and longevity.
-# CANALS, DAMS, AND OTHER WATERWORKS
+# CANALS, DAMS, AND OTHER WATERWORKS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Ancient canals in Florida**: The canals examined are ancient and their purpose seems inexplicable, existing in a prehistoric context. Their construction indicates a significant level of engineering sophistication, with evidence suggesting they were intended for water management.
 
 - **Erosion evidence**: Erosion along the Florida coast has revealed stumps of dead palms, indicating significant changes in the landscape over time. This erosion implies that the geography of the region has undergone dramatic transformations during the preceding years.
 
 - **Unexplained canal orientation**: The canals in Florida appear oriented towards shipping rather than agricultural needs, contradicting typical ancient waterworks observed elsewhere. The purpose of such extensive excavation remains a mystery and challenges existing theories about prehistoric water management.
 
-# ANCIENT GARDEN BEDS OF MICHIGAN
+# ANCIENT GARDEN BEDS OF MICHIGAN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Garden Beds in Michigan**: These garden beds were found in fertile valleys and significantly differ from typical agricultural practices. The arrangement shows high levels of order and symmetry that are not recognized in conventional horticultural art.
 
 - **Variation in dimensions**: The dimensions of the beds vary widely, revealing a complex structure and intentional design in the cultivation methods. The dimensions and formations raise questions about the technological capabilities and agricultural practices of ancient inhabitants.
 
-# A STONE DAM IN IOWA
+# A STONE DAM IN IOWA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Stone dam construction**: The dam in Ringgold County is believed to be a prehistoric construction, clearly not of natural origin due to the meticulous arrangement of stones. Local residents assert that there was no mill or modern construction, lending credence to its ancient origins.
 
 - **Old settler observations**: Long-time residents recall a time when the area was sparsely populated, suggesting the dam predates modern settlement. This historical insight implies the dam's existence has survived through significant changes in the local environment and demographics.
-# Canals, Dams, and Other Waterworks
+# Canals, Dams, and Other Waterworks [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1: Inconsistent Clay Lining of the North Canal**
   - The North Canal features a substantial clay lining that suggests artificial construction, as it rests on sandy fills and is composed of a homogeneous layer of clay. However, the lack of lamination or horizon structure within the clay raises questions regarding its natural deposition and construction methods.
@@ -1568,26 +1272,26 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 - **Anomaly 3: Difficulty in Dating Canal Construction**
   - The dating of the canals has proved complicated due to limited evidence of construction stages, implying they may have been remodeled or reused at various points in history. While some ceramics suggest activity during the 12th to 14th centuries, the evidence doesn't conclusively support a timeline prior to or following this period.
 
-# A Gigantic Earthwork in New Mexico
+# A Gigantic Earthwork in New Mexico [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 4: Unmatched Scale of Earthworks**
   - The earthwork described spans 5.5 miles in length and poses questions about its construction pace as it seems highly improbable that it was created solely by human hands given the massive volume of material required. The anomaly lies in the detailed engineering versus the sheer size that might suggest natural formation rather than an anthropogenic origin.
 
-# Rock Piles and Ancient Dams in the Klamath Valley
+# Rock Piles and Ancient Dams in the Klamath Valley [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 5: Unexplained Rock Piling Practices**
   - The rock piles in the Klamath Valley are positioned in seemingly deliberate, but bizarre configurations, leading to speculation about their origins, with local lore attributing them to children's bravery rituals. This enigmatic aspect challenges our understanding of the cultural significance or practical purpose behind these formations.
 
-# Maya Lowland Hydraulic Systems
+# Maya Lowland Hydraulic Systems [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 6: Abandonment of Traditional Water Harvesting Techniques**
   - At Edzna, the choice to utilize surface water aquifers instead of drilling through deep soil layers for groundwater raises questions about the environmental considerations of its early inhabitants. The significant reliance on aguadas over the more accessible groundwater suggests cultural or technological factors that may have influenced water-harvesting decisions.
 
-# The "Ancient Stone Fish Traps" of the Coachella Valley
+# The "Ancient Stone Fish Traps" of the Coachella Valley [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 7: Ambiguous Nature of the Fish Traps**
   - The stone enclosures, deemed either natural features or human-made constructs, illustrate a continuing debate about the technological capabilities of ancient peoples in the region. The formations’ specific arrangement and function remain unclear and challenge existing narratives about prehistoric engineering in North America.
-# ANOMALIES IN SOUTH AMERICAN ANCIENT IRRIGATION
+# ANOMALIES IN SOUTH AMERICAN ANCIENT IRRIGATION [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Ancient Tanks**: The tanks found in lowland South America are partly in ruins with a massive breach that appears to have been made centuries ago. These structures indicate advanced engineering by a civilization that has long since vanished.
 
@@ -1595,47 +1299,47 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 
 - **Peasantry Transition**: The text notes that ambitious marshland reclamation was left in ruins, now solely inhabited by buffalo and uncivilized people. It raises questions about the societal collapse that led to the abandonment of these once-thriving agricultural efforts.
 
-# ANOMALIES IN FIKA EMIRATE WELLS
+# ANOMALIES IN FIKA EMIRATE WELLS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Rock-Cut Wells**: The wells in Fika Emirate were cut from solid rock and show no evidence of their origins, with current inhabitants unaware of their construction methods. Their categorization into systems of cisterns and single wells highlights a level of engineering knowledge that has seemingly been lost.
 
 - **Legendary Races**: Various legends attribute the creation of these wells to giants or mythical figures, suggesting a cultural need to explain the advanced technology. This could indicate a distortion of historical reality where actual achievements by ancestors are mythologized.
 
-# ANOMALIES IN RHODESIAN TERRACES
+# ANOMALIES IN RHODESIAN TERRACES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Construction of Terraces**: The terraces built on steep slopes in Southern Rhodesia display remarkable engineering capabilities that would be daunting even with modern tools. Current archaeological understanding suggests that such undertakings required enormous labor and planning beyond what is typical in rudimentary agriculture.
 
 - **Abandoned Infrastructure**: Despite their complexity, the functioning of these terraces and their original purposes remain unclear, raising questions about the socio-economic structures that supported their construction. They hint at a once-thriving culture that has faded into obscurity, leaving little trace behind.
 
-# ANOMALIES IN KENYAN WATER SUPPLY
+# ANOMALIES IN KENYAN WATER SUPPLY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Wells and Cairns**: The wells in Kenya Colony are structurally identical yet exhibit advanced engineering, leading to speculation about the civilizations that could have constructed them. The existence of numerous wells across the region indicates a sophisticated understanding of water management likely lost to time.
 
 - **Debate on Origin**: There is contention among officials about whether these structures are the result of ancient civilization or volcanic activity, highlighting a lack of consensus in archaeological interpretation. The absence of artifacts pertaining to the builders emphasizes the enigmatic nature of the societies that created these impressive waterworks.
 
-# ANOMALIES IN JOSEPH'S CANAL
+# ANOMALIES IN JOSEPH'S CANAL [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Canal Structure**: The canal, attributed to Joseph of the Biblical narrative, is found to be a significant engineering feat that has persisted for over 4,000 years. Its discovery challenges commonly held views about ancient water management in Egypt, suggesting complexity beyond what was previously understood.
 
 - **Subterranean Reservoirs**: Excavations reveal a subterranean reservoir integral to agriculture in ancient Egypt, which raises questions about its construction and the socio-political organization required for such a large-scale project. The stories around this canal strengthen the notion of early advanced civilizations capable of lasting infrastructural achievements.
-# Excavations at Abydos
+# Excavations at Abydos [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Reservoir Functionality**: The reservoir at Abydos is noted for its unusual purpose, as it is neither a temple nor a tomb but rather a hydraulic work. This indicates that the ancient civilizations had a profound understanding of subterranean water flow and possibly utilized it in the worship of Osiris.
 
 - **Uncredited Wells**: Sixteen ancient wells have been discovered, and their construction is not mentioned in any ancient texts. Explorations show these wells were carefully designed to facilitate the clearing of the katabothra, contradicting previous beliefs that they were solely for water extraction.
 
-# Prehistoric Engineering at Copais
+# Prehistoric Engineering at Copais [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Unfinished Tunnels**: An ancient tunnel system was found, which historical examinations have confirmed remains unfinished. This suggests that the engineers of the time may have had ambitious plans for the water management system around Lake Copais, which were ultimately unfulfilled.
 
 - **Complex Drainage System**: The engineers sought to prevent flooding by designing a complex of cuttings and tunnels, indicating a high level of expertise in civil planning. However, these works were not completed, leaving modern engineers to attempt similar drainage solutions.
 
-# Dew-Ponds
+# Dew-Ponds [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Misconceptions About Dew**: The text discusses misconceptions surrounding dew-ponds, particularly the distinction between true dew and other forms of moisture collection. These dew-ponds, often found in Southern England, have become surrounded by myths regarding their ability to retain water despite their dry surroundings.
 
 - **Historical Use of Dew-Ponds**: There are theories suggesting that neolithic man might have been the first to create these ponds, which served as vital water sources. However, the evidence for their creation by early humans is inconclusive, and the existence of current dew-ponds does not necessarily indicate direct lineage to ancient practices.
-# Ancient Mines and Quarries
+# Ancient Mines and Quarries [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Enigmatic Underground Structure**: In Goshen, Massachusetts, there is an extraordinary underground structure made of unmortared, closely-fitting fieldstones. It is traditionally known as Counterfeiters Den, but there is no evidence linking it to that story or the pre-Civil War Underground Railroad.
 
@@ -1650,7 +1354,7 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 - **Oil Wells and Medicinal Uses**: Historical accounts suggest that ancient peoples of the Ohio valley might have collected oil in a manner similar to modern methods, using primitive tools and techniques. This oil potentially served medicinal or fueling purposes, indicating an early understanding of natural resources.
 
 - **Ancient Working Techniques**: The methods used in ancient mines included the sinking of wells and collection of resources through shallow depressions. The finding of artifacts such as antlers within these sites signifies their use and the subsequent abandonment of the wells over time.
-# ANCIENT MINING IN AMERICA
+# ANCIENT MINING IN AMERICA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Mining Operations in California**  
   A shaft discovered in California in 1849 was two hundred and ten feet deep and contained the bones of a human skeleton. An altar found at the bottom indicated that this mine was associated with the Indian period rather than the early Spanish adventurers.
@@ -1672,24 +1376,24 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 
 - **Rude Nature of Mining Tools Found in Missouri**  
   Various rudimentary stone tools were discovered in the debris of old excavations, suggesting extensive operations by the ancients. The tools were primarily designed for breaking up solid masses of ore for further use.
-# ABORIGINAL NOVACULITE QUARRIES IN GARLAND COUNTY, ARKANSAS
+# ABORIGINAL NOVACULITE QUARRIES IN GARLAND COUNTY, ARKANSAS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The pit located on the east side of the ridge has been significantly altered due to extensive digging, resulting in a broken rim. This alteration has led to irregular depths, with the greatest recorded depth being approximately 25 feet.
 
 - Refuse from the quarrying process has accumulated around the excavation, consisting of partially shaped novaculite fragments. These heaps indicate the efforts made by prehistoric peoples to extract and shape the desired rock into tools.
 
-# PITS IN CERTAIN SITES NEAR DALLAS, TEXAS
+# PITS IN CERTAIN SITES NEAR DALLAS, TEXAS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The purpose of the large circular pits found at village sites along the East Fork of the Trinity remains a mystery. Despite their somewhat diminished visibility due to cultivation and river overflows, these pits are still recognizably circular and centrally located within each site.
 
 - Test trenching conducted at a typical site revealed that these pits, while similar in general appearance, also showed varied characteristics that warranted further examination. The observations noted that the pits have maintained consistent size and shape across multiple locations.
 
-# THE ALIBATES FLINT QUARRY, TEXAS
+# THE ALIBATES FLINT QUARRY, TEXAS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The Alibates flint quarry, located at a significant elevation and subject to annual flooding, has undergone substantial erosion affecting its rim and interior measurements. Excavations indicated emergency digging practices due to the quality and accessibility of the flint.
 
 - The quarry's distinct landscape features pitted depressions which vary from shallow to deep workings. These depressions suggest a systematic approach adopted by the quarrymen, contrasting with irregular practices commonly observed in other types of stone extraction sites.
-# Ancient Mines and Quarries
+# Ancient Mines and Quarries [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly: Vast Amount of Work Done**  
   The quarries exhibited a significant amount of work, indicating extensive extraction activities. However, the absence of chip heaps suggests that the quartzite was removed rather than extensively processed on site.
@@ -1706,7 +1410,7 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 - **Anomaly: Peculiar Figure Made with Stones**  
   A peculiar figure made by arranging fragments of stone was left by workers near the largest quarry. Its specific orientation and design raise questions about its purpose, possibly indicating ritualistic or communicative uses.
 
-# Study of the Spanish Diggings
+# Study of the Spanish Diggings [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly: Input of Materials**  
   The Spanish Diggings materials appear to have been utilized continuously from the Clovis culture onward, suggesting extensive and long-term usage of the site. This implies a significant cultural and technological connection to early inhabitants.
@@ -1714,7 +1418,7 @@ The computations around eclipses showed that the lunar eclipse of a given date w
 - **Anomaly: Evidence of Systematic Mining**  
 Evidence was found that the Spanish Diggings quartzite was a favored material for projectile point manufacture, indicating specific criteria for material selection. The systematic nature of the mining practices revealed sophisticated understanding of resource management.
 
-# Ancient Salt Mines of the Indians
+# Ancient Salt Mines of the Indians [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly: Circles and Ovals in Salt**  
 The discovery of circles and ovals carved into the walls of the salt mines remains a mystery with no clear parallels found in traditional rock art. This suggests a culturally significant practice that has yet to be understood in the context of existing archeological records.
@@ -1722,14 +1426,14 @@ The discovery of circles and ovals carved into the walls of the salt mines remai
 - **Anomaly: Varied Size of Implements**  
 Numerous stone picks and hammers of various sizes were found scattered throughout the mining refuse. The size disparity indicates a broad range of laborers or different purposes associated with the mining activities, hinting at a complex social structure.
 
-# Puzzle of Mines
+# Puzzle of Mines [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly: Dimensions of the Tunnels**  
 The series of stone-lined tunnels discovered were too small to serve as traditional passageways and had unique construction features, which led to speculation about their intended use. This unusual design prompts questions about their purpose and the activities that took place within.
 
 - **Anomaly: Presence of Skeletons**  
 The discovery of skeletons within the tunnels suggests that these locations may have served multi-functional roles, including possible burial sites. The context in which these remains were found hints at ritualistic or emergency scenarios surrounding their interment.
-# RECENT DISCOVERIES IN MEXICO AND GUATEMALA
+# RECENT DISCOVERIES IN MEXICO AND GUATEMALA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Ancient manganese mine at Chowa near Broken Hill, Zambia**  
   This site is notable for being the only documented ancient manganese mine in southern Africa. The rubble found there included primitive mining tools made from manganese, indicating early human activity in the region.
@@ -1737,7 +1441,7 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 - **Excavations at Monte Alban, Oaxaca, Mexico**  
   Resumed by Senor Alfonso Caso after a hiatus, these excavations revealed remarkable treasures and ornaments, central to the study of ancient mining techniques. The discoveries were significant enough to warrant further exploration of the site.
 
-# STONE FORT AND PITS ON THE INYANGA ESTATE, RHODESIA
+# STONE FORT AND PITS ON THE INYANGA ESTATE, RHODESIA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Stone-mining tools found in various strata**  
   Excavations revealed stone-mining tools at different depths, suggesting a long history of mining activity in the area. The findings included an atypical assemblage of stone artifacts, primarily quartzite and quartz, indicating the complexity of the ancient mining industry.
@@ -1750,7 +1454,7 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 
 - **Hill terraces found throughout the region**  
   The hill terraces are a striking feature of the landscape, with many found on the northern slopes of the hills. Their construction suggests sophisticated agricultural practices that allowed for effective land use in a rugged terrain.
-# PREHISTORIC FLINT MINING
+# PREHISTORIC FLINT MINING [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Anomaly: Presence of well-preserved prehistoric flint implements.
   The numerous pits in Grime's Graves attracted attention for their unusually intact artifacts. Fingerprints can even be observed on the adherent mud, indicating careful preservation.
@@ -1764,7 +1468,7 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 - Anomaly: Deneholes in Kent and South Essex.
   The deep vertical shafts connected by chambers dug into chalk highlight advanced mining techniques. The presence of multiple pits indicates a sophisticated network of prehistoric mining operations.
 
-# THE WILSFORD SHAFT
+# THE WILSFORD SHAFT [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Anomaly: Measurement and technique of shaft excavation.
   The Wilsford Shaft, measuring nearly 100 ft in depth, reveals signs of careful engineering without any positive trace of how prehistoric engineers ascended and descended. The presence of distinct antler-pick marks suggests a specific method of excavation not commonly seen.
@@ -1775,7 +1479,7 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 - Anomaly: Unfinished work at the shaft's bottom.
   The narrow, honeycombed bottom section adorned with pick marks points to potentially unfinished or abandoned work. This signifies a sudden halt in the excavation process, potentially due to external conditions.
 
-# THE SALTING MOUNDS OF ESSEX
+# THE SALTING MOUNDS OF ESSEX [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Anomaly: Existence of ancient mounds without clear purpose.
   Mounds of burnt earth, mixed with broken pottery, wood ashes, and charcoal, suggest significant human activity but lack a clear understanding of their function. The peculiar positioning and content create a mystery about their intended use or cultural significance.
@@ -1786,7 +1490,7 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 - Anomaly: Variability in mound structure and contents.
   Despite resembling each other, the mounds greatly differ in height and contents across the region. This suggests a range of functions or significances that have yet to be fully understood or explored by modern archaeologists. 
 
-# SMALL STONE ARTIFACTS
+# SMALL STONE ARTIFACTS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Anomaly: Unusual form and size of small stone artifacts.
   Some artifacts appear too small to have practical utility for average individuals, leading to speculation about their purpose. Known as "pigmy flints," their existence challenges preconceived notions of tool-making needs among prehistoric populations.
@@ -1796,7 +1500,7 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 
 - Anomaly: Discrepancies in the timeline of human presence.
   The discovery of small stone artifacts in geological deposits that date back much further than traditionally accepted human arrival in regions such as America creates doubt about established timelines of human evolution and dispersal. This discrepancy invites further investigation into the deeper history of human activity.
-# Antiquity of American Man
+# Antiquity of American Man [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Impressions of Leaves:** Impressions of leaves are sometimes obtained in a sandy loam rich in black vegetable matter. These impressions have been very doubtfully referred to various modern tree species but may represent an ancient form of Populus.
 
@@ -1812,7 +1516,7 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 
 - **Age of the Gravels:** The presence of mortars in younger gravels challenges geologists' previous beliefs about the dating of these layers. Estimates for the age of the gravels range from pre-Wisconsinan to over 500,000 years, further complicating their historical significance.
 
-# Small Stone Artifacts
+# Small Stone Artifacts [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Calico Hills Artifacts:** At the Calico Hills site, crude flints reported to be artifacts have been found in Pleistocene-age alluvial-fan gravels. This site illustrates the complexities faced by archaeologists when attempting to date and validate early human artifacts.
 
@@ -1820,14 +1524,14 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 
 - **Conclusions on Mortars:** The study concludes that the stone mortars are undoubtedly artificial, suggesting they were transported from their original locations within the gravels. This transportation is attributed to natural processes, challenging assumptions about their intended use.
 
-# Man and the Glacial Period
+# Man and the Glacial Period [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Genuineness of Implement Discoveries:** The credibility of the discovered implements in undisturbed glacial gravels has been a subject of intense scrutiny. Evidence shows that implements were indeed found mingled with the glacial deposits, affirming their historical relevance.
 
 - **Testimony of Geologists:** Many geologists at the time endorsed the findings of implements in the gravel, claiming they were in a preserved state without disturbance. This consensus from various professionals supports the idea of a deeper historical context for these tools.
 
 - **Trenton, NJ Findings:** The implements found in Trenton, NJ, were particularly notable as they were verified through the testimony of both amateur and professional geologists. Dr. Abbott's extensive examination of the area adds weight to the claims of the findings being well preserved and significant in archaeological history.
-# Anomalies in Palaeolithic Implement Discoveries
+# Anomalies in Palaeolithic Implement Discoveries [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of New Comerstown Implement**  
   The discovery of a palaeolithic implement at New Comerstown, Ohio, was found surrounded by large cobble stones nearly seven feet below the surface. The implement's position raises questions about its disturbance, as it was located within undisturbed gravel deposits.
@@ -1843,34 +1547,34 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 
 - **Fire Areas on Santa Rosa Island**  
   Approximately 100 red fire areas on Santa Rosa Island have been dated, revealing activities potentially related to early human inhabitants in America. These findings challenge existing timelines regarding human migration into North America, linking fire areas to a much earlier period than previously considered.
-# Page 200
+# Page 200 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly of the Santa Rosa Fire Areas**  
   During investigations, numerous fire areas were found containing various bones, including bird and dwarf mammoth bones. The results indicated that over one-third of the sampled sites contained such bones, suggesting a significant prehistoric presence in these areas.
 
 - **Glacial Till and Artifact Aging**  
   A trenching study revealed the presence of sorted artifacts located beneath glacially-deposited gravels, with a radiocarbon date obtained from a peat layer indicating a surprising age discrepancy. This suggested that the artifacts were far older than the surrounding glacial deposits, challenging established theories about the impact of glaciers on archaeological preservation.
 
-# Page 201
+# Page 201 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Point Peninsula Evidence**  
   Only three to four specimens related to Point Peninsula were discovered during extensive excavations, prompting heated debates among experts. Despite support from key geologists, this evidence faced skepticism, jeopardizing funding for further research due to intense criticism.
 
 - **Meltwater Deposits and Boulders**  
   Beneath meltwater deposits lay a boulder paving of undisclosed age, with some estimates dating it to a major geologic event. This paved section provided unique insights that could trace cultural developments back significantly further than initially believed.
 
-# Page 202
+# Page 202 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Pigmy Flints and Early Classification**  
   The classification of small flint implements, dubbed "pigmy flints," raised questions regarding their authenticity and purpose in prehistoric times. This collection underscores the complexity of early tool-making practices, illustrating that such minute artifacts required extensive skill in their creation.
 
 - **Geological Context of Artifacts**  
   Artifacts found beneath peat at significant elevations contributed to a broader understanding of human habitation patterns. This juxtaposition of tools found at varying altitudes highlighted the adaptability of early humans across different geographical landscapes. 
 
-# Page 203
+# Page 203 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Strange Deposits in the Mississippi Valley**  
   Unique deposits of stone implements uncovered were distinct from typical caches, indicative of sacrificial practices among early moundbuilders. These findings prompted a reevaluation of the religious and cultural significance attributed to these archaeological sites. 
 
 - **Various Flint Implement Types**  
   The identification of small flint implements from regions such as Bungay added depth to the understanding of prehistoric tool use and interment practices. The varied motives behind these deposits challenge traditional narratives surrounding the use and significance of stone tools in ancient religions.
-# Anomalies in Cremation and Burial Practices
+# Anomalies in Cremation and Burial Practices [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The heaping of earth associated with cremation indicates a relationship between the burial mound's structure and the acts of propitiation or devotion. The peculiar layering of sand and gravel further complicates the classification of the associated relics, making it challenging to date them accurately.
 
@@ -1883,25 +1587,25 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 - The stone yokes found across Mexico and Central America are perplexing due to their seemingly defined shape and function that remain unidentified. Their scarcity in excavated contexts and ambiguous representations in historical records enhance the enigma surrounding their intended use.
 
 - The deposit of stone yokes suggests connections to death and sacrifice, yet their precise role in these practices is uncertain. The evolving theories about their symbolism lead to intriguing but speculative interpretations about their socio-religious significance in ancient cultures.
-# COLLARS AND ELBOW STONES
+# COLLARS AND ELBOW STONES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly 1:** Stone yokes may have been mortuary offerings made for important persons, based on archaeological finds such as a grave with an open yoke around a skull. This theory, proposed by Genin, raises questions about the intended primary use of such artifacts.
 
 - **Anomaly 2:** The so-called collars and elbow stones of Middle American stone yokes do not have a satisfactory explanation, despite exhaustive descriptions by various writers. The collar shapes, resembling horse collars, are puzzlingly varied as massive or slender.
 
 - **Anomaly 3:** Some believe that the markings on the surface of stone collars suggest their origin in wooden forms worn around the waist for ceremonial purposes. Evidence from a vessel in the American Indian Museum supports this idea, illustrating a figure reclining with a belt at the waist.
 
-# SMALL STONE ARTIFACTS
+# SMALL STONE ARTIFACTS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly 4:** The existence of the perforated sherds from central Nevada challenges their previously suggested functions based on other cultural comparisons. These sherds differ from those of riverine cultures, indicating a unique use at their specific sites.
 
 - **Anomaly 5:** The perforated vessels do not show signs of cooking use, leading to speculation that they may have been designed for other purposes. The sherds lack fire blackening or food remains, thus straying from conventional interpretations of perforated pottery.
 
 - **Anomaly 6:** The similarity of the Shoshonean perforated vessel to Roman dolia suggests they may have served similar functions despite cultural differences. This raises questions about the independent development of similar solutions to housing small animals or food.
 
-# ON THE DISCOIDAL STONES OF THE INDIAN MOUNDS
+# ON THE DISCOIDAL STONES OF THE INDIAN MOUNDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly 7:** There is skepticism about the existence of discoidal stones in Indian mounds, as many are believed to have been placed there by modern descendants rather than dating back to prehistoric peoples. The stones referenced do not match those found in mounds, indicating possible misclassification or modern interference.
 
 - **Anomaly 8:** The documented uses of discoidal stones by various tribes, particularly for gameplay, contrasts with the assumed origins within ancient burial contexts. Accounts from indigenous leaders suggest these stones were widely used for entertainment rather than funerary purposes.
-# A PRELIMINARY REPORT ON THE SO-CALLED "BANNER STONES"
+# A PRELIMINARY REPORT ON THE SO-CALLED "BANNER STONES" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Usage**  
   The use of certain polished stone objects, referred to as bannerstones, is surrounded by significant doubt regarding their intended purpose. Many believe these artifacts were used ceremonially rather than for practical purposes due to their delicate and ornate craftsmanship.
@@ -1915,7 +1619,7 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 - **Theories of Function**  
   Multiple theories about the function of bannerstones exist, yet consensus remains elusive among archaeologists. A predominant belief is that they were specialized ceremonial items, reflecting the cultural practices of prehistoric peoples.
 
-# PREHISTORIC ROCK BASINS IN THE SIERRA NEVADA OF CALIFORNIA
+# PREHISTORIC ROCK BASINS IN THE SIERRA NEVADA OF CALIFORNIA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Artificial Origin of Basins**  
   The basins found in the Sierra Nevada were determined to be of artificial origin, contradicting initial beliefs they were formed by natural erosion. Their regular and uniform shape supports the idea of crafted function rather than the result of natural phenomena.
@@ -1928,7 +1632,7 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 
 - **Lack of Wear Evidence**  
   Examination of the basins revealed little to no wear on many of the surfaces, suggesting they may not have seen practical use. This lack of evidence adds to the mystery of their intended purpose, prompting further research and inquiry.
-# ANOMALIES IN BASINS
+# ANOMALIES IN BASINS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Absence of Gold**: Debris from the bottom of some basins has been examined without revealing any traces of gold. This is significant since the basins are remote from quartz veins, which typically yield gold, suggesting they were not used for gold extraction.
 
@@ -1942,18 +1646,18 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 
 - **Volcanic Ash Deposits**: Volcanic ash located within basins shows remarkable preservation, indicating the basins were clear before the volcanic eruption. The lack of material beneath the ash supports the theory that these basins were unutilized just prior to the eruption.
 
-# ANOMALIES IN STONE ARTIFACTS
+# ANOMALIES IN STONE ARTIFACTS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Unusual Shape of Vats**: The stone vats found near Besoa exhibit a unique concave shelf feature, which is not commonly seen in similar objects. This variant raises questions about their utilization and the technological capabilities of the people who created them.
 
 - **Presence of Decorative Faces**: Several stone vats have faces carved into them, suggesting a cultural significance that remains unexplained. This stylistic choice invokes further investigation into the artistic practices of the builders.
 
-# ROMAN COINS DISCOVERIES
+# ROMAN COINS DISCOVERIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Roman Coins in Iceland**: The discovery of Roman coins in Iceland raises intriguing questions about early exploration and trade. These findings suggest that Roman or pre-Columbian explorers may have reached the Americas, contrary to widely held historical beliefs.
 
 - **Intrusive Artifacts**: The presence of iron artifacts in American Indian mounds is generally classified as intrusive, which implies they were introduced after indigenous cultures had developed. This perspective invites alternative hypotheses regarding interactions between European explorers and Native Americans.
-# Out-of-Place Metallic Artifacts
+# Out-of-Place Metallic Artifacts [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Roman coin found in Oshkosh**: A strange Roman coin, an Antoninianus of Diocletian, was discovered in Oshkosh while digging a garden in 1883. The coin, which has inscriptions in ancient Greek, is believed to indicate some form of early intercommunication between Wisconsin and Rome.
 
@@ -1961,14 +1665,14 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 
 - **Chinese coins in British Columbia**: A miner's discovery of thirty Chinese coins in British Columbia in 1882 led to speculation about their origins. The coins, found deep in auriferous sand, suggest a historical presence of Chinese culture in North America long before accepted timelines.
 
-# High Technology Artifacts
+# High Technology Artifacts [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Mound containing wrought iron nail and brass buckle**: An archaeological find near Washburn revealed a wrought iron nail and brass buckle within a burial mound that resembled European artifacts. The nail's craftsmanship indicates it was likely made by civilized men, suggesting early European contact with the area.
 
 - **Mysterious cement cylinders of New Caledonia**: In New Caledonia, lime-mortar cylinders of unusual origin were discovered, with radiocarbon dating them to between 5,120 and 10,950 B.C. The cylinders' hard composition and the context of their discovery challenge conventional timelines of human habitation in the region.
 
 - **Great glass slab from ancient Galilee**: A large slab of glass, found in Galilee, highlights the region’s historical significance as a center for glassmaking. The slab raises questions about the technological capabilities of ancient peoples in producing such intricate materials.
-# High Technology Artifacts  
+# High Technology Artifacts   [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **New Caledonia Tumuli and Cement Cylinders**  
   The New Caledonia tumuli and cement cylinders present a mystery as there are no visible traces of their ancient launching mechanisms. Without imaginative solutions, these artifacts may be overlooked by modern science and face the risk of destruction.
@@ -1985,7 +1689,7 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 - **Decomposed Glass Specimens**  
   Examination of decomposed glass confirmed that it is composed of iron-rich oxides, revealing a history of unusual manufacturing techniques. The glass exhibits signs of age and damage typical of ancient artifacts, yet its sophisticated production poses further questions.
 
-# Ancient Indian Iron  
+# Ancient Indian Iron   [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Delhi Pillar and Its Inscriptions**  
   The Delhi pillar is constructed from wrought iron, believed to have been built around A.D. 310. Despite its robust appearance, the pillar exhibits corrosion signs, raising questions about its longevity and the techniques used in its construction.
@@ -1996,14 +1700,14 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 - **Iron Wedges Supporting the Pillar of Heliodorus**  
   The Pillar of Heliodorus is supported by iron wedges, which have remained partially preserved even though the pillar itself is stone. This relic is believed to date back to around 125 B.C., but questions remain about the origins of the iron used in its construction.
 
-# Mayan Dentistry  
+# Mayan Dentistry   [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Mayan Dental Practices**  
   Evidence suggests that Mayan culture practiced dentistry over 1,000 years ago, with techniques that included drilling teeth and filling cavities with metal. Two discovered teeth from a burial chamber showcase this dental knowledge, posing implications about the sophistication of their medical practices.
 
 - **Iron Pyrites in Dental Excavations**  
   The use of iron pyrites in dental fillings discovered among Mayan artifacts indicates advanced knowledge of materials for medical purposes. This unexpected finding highlights cultural practices that have long been underestimated in early Mesoamerican civilizations.
-# High Technology Artifacts
+# High Technology Artifacts [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Pearlitic Structures**  
   The structure was identified as pearlitic, but over time, it became partially tempered, exhibiting elongated and irregularly disposed crystals of sorbitic pearlite. A significant observation was that after quenching at high temperatures, the material demonstrated martensitic transformations.
@@ -2020,7 +1724,7 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 - **Electroplating Techniques of Pre-Columbian Indians**  
   Research revealed that certain pre-Columbian Indians demonstrated advanced methods of electroplating, using solutions that included mercury for gilding copper objects. The knowledge of these techniques indicates a sophisticated understanding of metallurgy far ahead of their time.
 
-# The Metallurgy of Gold and Platinum in Pre-Columbian Ecuador
+# The Metallurgy of Gold and Platinum in Pre-Columbian Ecuador [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Sintering Techniques for Alloy Creation**  
   Ancient artisans in Ecuador are believed to have used sintering to create compact masses of gold and platinum by alternating layers of both materials under heat. This method allowed them to forge these metals into thin sheets, showcasing their advanced metallurgical skills.
@@ -2031,7 +1735,7 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 - **Uncertain Origins of Platinum Objects**  
   The existence of platinum artifacts raises questions about how these materials were integrated, as the ancient smiths lacked free silver for creating standard alloys. The absence of silver points to a unique approach to metallurgy among the Ecuadorian artisans.
 
-# Ancient Metallurgy in Rhodesia
+# Ancient Metallurgy in Rhodesia [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Skepticism regarding Iron Smelting History**  
   Prof. Dart's claim of iron fabrication in Northern Rhodesia 3000 to 4000 years ago is met with skepticism due to the lack of evidence supporting such an early development of metallurgy. The oldest known man-made iron dates only to 1400 B.C., suggesting that prior reports might have misrepresented the timeline.
@@ -2041,7 +1745,7 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 
 - **Magnetic Compass Utilization**  
   The artifact M-160, discovered in an Olmec site, was determined to function as a magnetic compass, suggesting a potential understanding of geomagnetism among ancient cultures. This challenges previous notions about the timeline of such technological advancements, indicating the Olmec might have developed it before the Chinese.
-# High Technology Artifacts
+# High Technology Artifacts [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **M-160 Artifact**  
   M-160 is a unique artifact from the Olmec civilization, shaped and highly polished, measuring approximately 34 by 9 by 4 mm. Its manufacturing techniques and purpose are not fully understood but suggest advanced knowledge in working with iron ore minerals.
@@ -2052,34 +1756,34 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 - **Unusual Morphology**  
   The M-160 exhibits a purposeful groove that likely played a role in its alignment capabilities akin to a compass. Such unique morphology has not been observed in other Mesoamerican artifacts, hinting at advanced technology.
 
-# Exploration of the Zapotecan Tombs in Southern Mexico  
+# Exploration of the Zapotecan Tombs in Southern Mexico   [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Terra-Cotta Tubing Discovery**  
   A peculiar terra-cotta tubing found at a mound in Oaxaca represents a unique archeological find, with no similar artifacts discovered elsewhere in Mexico. The exact function of this tubing remains undetermined, but it suggests complex constructions of the ancient Zapotec culture.
 
-# Unworldly Mechanics  
+# Unworldly Mechanics   [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Antikythera Mechanism**  
   Discovered in a shipwreck off Antikythera, this ancient mechanism resembles a modern mechanical clock and indicates a sophisticated understanding of astronomy. The complexity of its gears and dials suggests that it was capable of calculating astronomical positions.
 
-# Electric Batteries of 2,000 Years Ago  
+# Electric Batteries of 2,000 Years Ago   [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Ancient Electric Batteries**  
   Evidence shows that ancient Parthians may have created electric batteries, using a simple copper cylinder filled with an electrolyte. This discovery points towards advanced technological capabilities far earlier than previously assumed.
 
-# The Little Wooden Airplane  
+# The Little Wooden Airplane   [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Model of Ancient Aircraft**  
   A wooden model resembling a modern pusher-glider found in an Egyptian tomb from around 200 B.C. suggests that ancient engineers had advanced aerodynamic knowledge. Its design closely parallels modern aircraft, raising questions about ancient technological advancements.
 
-# Prehistoric Salt Boiling  
+# Prehistoric Salt Boiling   [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **The Red Hills of Essex**  
   These human-made mounds constructed of burnt clay date back to prehistoric times and present a mystery regarding their purpose. The meticulous construction of these hills prompts investigations into the prehistoric practices of salt boiling and other activities in England.
-# INTRODUCTION
+# INTRODUCTION [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomalous Objects**: In the Seille valley and Essex, unusual bar-like ments made of clay and chaff are found. The connection of these finds with the culture's development raises questions about their significance.
 
-# STRANGE PICTOGRAPHS AND STATUARY
+# STRANGE PICTOGRAPHS AND STATUARY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Nampa Image**: A statue was discovered at a depth of 300 feet beneath a lava flow while boring an artesian well in Idaho. This ancient image presents challenges in its explanation, as it seems inconsistent with current understanding of human history and geographical distribution.
 
 - **Accurate Representations of Elephants**: Numerous ancient representations of elephant-like creatures have been uncovered in the Americas. This suggests either an ancient knowledge of elephants from Asia or that mammoths survived longer than previously thought.
@@ -2090,16 +1794,16 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 
 - **Strangely Carved Stone Spheres**: The carved stone spheres found in various locations suggest advanced artistic capabilities or purposes not yet understood. Their creation may connect to rituals or messages from ancient cultures.
 
-# THE IDAHO FIND
+# THE IDAHO FIND [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Age of the Nampa Image**: The age of the Nampa Image remains undetermined but is suggested to be linked with ancient deposits. It adds credibility to the archaeological discoveries contradicting previous beliefs about human evolution.
 
-# THE CRYSTAL SKULL
+# THE CRYSTAL SKULL [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Mitchell-Hedges Crystal Skull**: The crystal skull, allegedly found in a Mayan ruin, is controversial due to the lack of substantial proof regarding its origin. Its artistry and craftsmanship suggest it may not have been made in a time when technology for such detailed work was believed to be lacking. 
 
 - **Technological Feats of Ancient Artisans**: The creation of such detailed artifacts from quartz crystal suggests that ancient cultures may have had advanced techniques that are not documented. This challenges existing beliefs about the technological capabilities of ancient peoples, leading to further intrigue and debate.
 
 - **The Tibetan Crystal Mask**: A crystal mask believed to be ancient indicates that artisans in the past were capable of intricate design work. Its unique features suggest the use of early rotary tools, hinting at a level of craftsmanship that is surprisingly sophisticated for the era.
-# Strange Pictographs and Statuary
+# Strange Pictographs and Statuary [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Easter Island Remains**  
   The prehistoric remains found on Easter Island are intriguing to archaeologists, particularly the striking stone images. These images, designed as monuments, total 555 and are primarily cut from tufa, with most found near platforms but many others left incomplete or abandoned.
@@ -2118,7 +1822,7 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 
 - **Holly Oak Pendant Origins**  
   Discovered in 1864, the Holly Oak pendant featuring a woolly mammoth incised on fossil shell raised significant excitement about early man's presence in North America. However, uncertainties about its discovery context and authenticity continue to shadow its significance in archaeological records.
-# Anomalous Discoveries in North America
+# Anomalous Discoveries in North America [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Lenape Stone**: The discovery of the Lenape stone featuring a carving of a mammoth chased by hunters suggests the presence of early man in North America during the Ice Age. Found in 1872, its interpretation has sparked debate about its authenticity and the context of its creation.
 
@@ -2133,7 +1837,7 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 - **Pleistocene Carved Bone**: A carved bone from near Tequixquiac was among the first evidence suggesting humans coexisted with extinct animals in the New World, although its authenticity has been debated. Recent rediscovery and validation of the bone highlight its significance in Paleo-Indian studies.
 
 - **Pre-Columbian Elephant Representations**: The representation of elephants in pre-Columbian America has spurred discussions about cultural exchanges and the artistic understanding of extinct fauna. The inconsistencies in depictions suggest a mixture of direct observation and imaginative reconstruction, complicating interpretations of these artifacts.
-# Strange Pictographs and Statuary
+# Strange Pictographs and Statuary [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of the Ape-like Sculptures**: The stone carvings in question depict heads that strongly resemble those of apes, raising questions about their origins and purpose. The striking resemblance prompts speculation about who created these sculptures and when, especially given their distinct differences from known anthropoid apes.
 
@@ -2148,7 +1852,7 @@ The discovery of skeletons within the tunnels suggests that these locations may 
 - **The Thruston Tablet's Anomalous Presentation**: Found among genuine artifacts, the Thruston Tablet's claims of age and authenticity have been called into question since its discovery in Tennessee. Analysis of the tablet revealed it to be an irregular piece of limestone with engravings depicting a highly significant but likely anachronistic event.
 
 - **Depiction of Viking Influence**: A surprising element among the engravings on the Thruston Tablet appears to depict a Viking-style boat, suggesting connections to cultures from a time period that significantly postdates the supposed origin of the tablet. This association of Viking craftsmanship with indigenous American artifacts unveils a remarkable historical anomaly in cultural interchange.
-# Strange Pictographs and Statuary
+# Strange Pictographs and Statuary [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1: Unusual Shield Design**  
 The shield on the boat is not of an American type, both in its shape and decoration, suggesting a non-native influence. It may carry significant meaning, potentially representing a fortified location or a figure known as the Holder-of-the-Fort.
@@ -2156,7 +1860,7 @@ The shield on the boat is not of an American type, both in its shape and decorat
 - **Anomaly 2: Oar Types**  
 The paddle ends of the oars used by the oarsmen are described as round or oval, resembling those found in iron-age Viking rock carvings. This suggests a cultural exchange or continuity in maritime practices between different regions.
 
-# THE ANCIENT ARTISTS OF SOUTHWESTERN EUROPE
+# THE ANCIENT ARTISTS OF SOUTHWESTERN EUROPE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 3: Azilian Signs at Salamanca**  
 The signs observed at Salamanca are noted to resemble colored pebbles and pictographs from prehistoric Spain, hinting at artistic degradation over time. These representations may indicate the presence of a specific culture, the Azilian, influencing depictions in the region.
@@ -2167,14 +1871,14 @@ Representations found in Brittany exhibit lines incised into stone that resemble
 - **Anomaly 5: Red Bands in Caves**  
 The red bands observed in various caves have drawn interpretations suggesting they are imitative of natural finger-prints. This artistic decision may have aimed to reflect on identity and signify the presence of ancient individuals. 
 
-# LARGE-SCALE DRAWINGS, EFFIGIES, AND MOSAICS
+# LARGE-SCALE DRAWINGS, EFFIGIES, AND MOSAICS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 6: Nazca Lines**  
 The Nazca lines, comprising vast geometric patterns in the desert of Peru, are barely distinguishable from the ground yet reveal immense shapes when viewed from above. Their purpose remains a mystery, potentially serving religious or astronomical functions in ancient cultures.
 
 - **Anomaly 7: Giant Drawings in California**  
 Giant etchings in the desert sands near Blythe, California, resemble intricate designs that some attribute to tribal legends. The carvings are noted to closely simulate human and animal shapes, leading to theories connecting them to cultural practices and beliefs.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Geometric Figures:** The geometric figures found in the area consist of triangles, rectangles, and trapezoids alongside the outlines of serpents and four-legged animals with tails. Despite their various sizes, they were all created in a similar manner, but their true purpose remains unclear.
 
@@ -2195,7 +1899,7 @@ Giant etchings in the desert sands near Blythe, California, resemble intricate d
 - **Overlapping Construction:** Analysis of the lines indicates that certain figures were constructed over previous markings, hinting at changes in construction techniques and purposes over time. This overlapping suggests different cultural or astronomical significances were assigned throughout various periods. 
 
 - **Astrological Measurements:** The hypothesis that the markings served as astrological devices for determining celestial movements posits a sophisticated understanding of astronomy within Nazca culture. This insight opens avenues for future research into similar ancient practices globally.
-# ANOMALIES IN THE STUDY OF ANCIENT PERUVIAN CULTURE
+# ANOMALIES IN THE STUDY OF ANCIENT PERUVIAN CULTURE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Expectation vs. Reality of Production**  
   The text questions whether such an impoverished region like Nazca could have produced elaborate and peculiar forms of art and architecture. This suggests a disconnect between resources and cultural development that necessitates further investigation.
@@ -2215,7 +1919,7 @@ Giant etchings in the desert sands near Blythe, California, resemble intricate d
 - **Lack of Astronomical Knowledge Documentation**  
   Much of the ancient astronomical knowledge remains undocumented due to a lack of interest from Spanish chroniclers. This absence of records creates a considerable gap in understanding the full extent of ancient Peruvian astronomical achievements.
 
-# ANOMALIES IN AUSTRALIAN GROUND DRAWINGS
+# ANOMALIES IN AUSTRALIAN GROUND DRAWINGS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Variability in Drawing Techniques**  
   The text lists several techniques for creating drawings from loose earth to outlines using sticks and bark, indicating a lack of standardized methods. This variety may reflect regional differences in cultural practices among aboriginal communities.
@@ -2231,7 +1935,7 @@ Giant etchings in the desert sands near Blythe, California, resemble intricate d
 
 - **Lack of Detailed Descriptions in Records**  
   Not all historical accounts provide comprehensive or detailed descriptions of the figures, which complicates efforts to study and interpret these drawings. This absence points to a critical gap in the archaeological understanding of the significance of these markings.
-# Page 258: 
+# Page 258:  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Large Human Effigies**  
 The effigies described are characterized by their enormous size, specifically a figure measuring 10 feet in length, 8 feet in width, and similarly massive proportions. The carvings in the ground are inconsistent, embodying different geometric patterns that significantly deviate from ordinary expectations.
@@ -2242,7 +1946,7 @@ Cut into the soil, these designs on Wiradthuri Burbung Ground showcase a general
 - **Representation of the Legendary Monster Wahwee**  
 A significant figure known as Wahwee reportedly stretches 59 feet long, with distinctive physical characteristics akin to a large snake. This representation, complete with an intricately designed tail, suggests a blend of mythological storytelling and artistic expression in ancient cultures.
 
-# Page 259: 
+# Page 259:  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Dual Staffs of the Long Man**  
 The Long Man, carved with two staffs, raises questions about the symbolism and purpose of this double representation in its context. This feature complicates our understanding of what role the Long Man may have played among ancient travellers or as a cultural symbol.
@@ -2250,7 +1954,7 @@ The Long Man, carved with two staffs, raises questions about the symbolism and p
 - **Characteristics of Bird-Shaped Mounds**  
 Among the mounds, a bird-shaped structure is particularly notable, spanning approximately 102 feet and composed entirely of rocks. Its design reflects a meticulous effort to create a significant cultural emblem, suggesting deep meaning associated with avian symbolism in prehistory.
 
-# Page 260: 
+# Page 260:  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Construction of the Great Serpent Mound**  
 The Great Serpent Mound exemplifies impressive scale and curvature, representing the artistic and spiritual endeavors of ancient societies. Its measurements and the intricacy of its design raise intriguing questions about its purpose and the civilization behind its construction.
@@ -2258,41 +1962,41 @@ The Great Serpent Mound exemplifies impressive scale and curvature, representing
 - **Eagle-Shape Tumulus Observations**  
 The eagle-shaped tumulus showcases deliberate construction techniques, symbolizing power and nobility among primitive societies. Its enduring form continues to attract fascination, reflecting the values and beliefs of the people who created it.
 
-# Page 261: 
+# Page 261:  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Inherent Mystique of the Great Serpent**  
 Represented in a breathtaking formation, the Great Serpent has sparked awe and speculation about its original significance to indigenous cultures. Its long, sinuous body and the position of its curves suggest a deep, perhaps sacred connection with the land and its history.
 
 - **Construction Techniques of Serpent Effigies**  
 Crafted with great attention to detail, the serpent's body combines various shapes that create a lifelike appearance. This construction not only exemplifies advanced skills in earthworks but also signifies a strong relationship with the natural elements, forming a bridge between the mundane and the spiritual.
-# Chapter 1: The Elephants and the Serpent
+# Chapter 1: The Elephants and the Serpent [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Elephant Effigies and their Significance**
   Each of the elephant figures found in Campbell's Coolie has a circular enclosure with an altar, suggesting a connection to ancient rituals. The presence of these mounds alongside the serpent suggests that they may carry a similar symbolic meaning of an ancient faith.
 
 - **Camel Association**
   Prof. Putnam raises the hypothesis that the "camel" may have a different origin than the "elephant" figures, suggesting a lack of local knowledge about their existence. This anomaly raises questions about the trade of ideas and symbols in ancient cultures.
 
-# Chapter 2: The Man and Woman Mosaics
+# Chapter 2: The Man and Woman Mosaics [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Man Boulder Mosaic**
   The male figure in the boulder mosaic is represented lying on his back with uplifted arms, composed of 104 boulders, each varying in size. Its position near a knoll and the precision in arrangement may indicate a significant cultural meaning.
 
 - **Woman Boulder Mosaic**
   The female figure is located 42 feet from the male, also on her back, but is described as having a much ruder outline and constructed from 92 boulders. The differences in craftsmanship between the male and female figures suggest distinct cultural values or roles attributed to each gender.
 
-# Chapter 3: Dakota Boulder Monuments
+# Chapter 3: Dakota Boulder Monuments [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Bowlder Outline Figures**
   The boulder outline figures exhibit a variety of shapes and sizes and are believed to represent human figures and animals, reflecting the spiritual and historical significance attached to them. Their scattered locations from Southern Iowa to Manitoba indicate a widespread cultural practice among Native American tribes.
 
 - **Punished Woman's Hill Tradition**
   The local Dakota tradition tells of a tragic love story associated with the bowlder outlines on Punished Woman's Hill, representing the places where significant events in the legend took place. This connection to a historical narrative lends a deeper cultural context to the site.
 
-# Chapter 4: The "Turtle" and the "Snake"
+# Chapter 4: The "Turtle" and the "Snake" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **The Turtle Representation**
   The "Turtle" figure is described as possibly a representation of a tortoise or beetle, with a trail of boulders marking the path of a woman. Its ambiguous origin and construction challenge the understanding of symbolic representations in indigenous cultures.
 
 - **The Snake Figure**
   The snake figure is constructed with a variety of boulders and is linked to an Arikara chief's escape from the Dakotas, signifying its historical relevance. Its large size and the craftsmanship involved suggest a monumental purpose intended to commemorate important events in Dakota history.
-# UNUSUAL SYMBOLS AND NOTATION
+# UNUSUAL SYMBOLS AND NOTATION [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cup and Ring Symbols**  
   The "cup and ring" symbol is found in various ancient cultures, including Mediterranean civilizations and the Americas. This symbol's origins remain uncertain, as it raises questions about how these motifs spread globally and whether they served a communicative purpose.
@@ -2320,7 +2024,7 @@ Crafted with great attention to detail, the serpent's body combines various shap
 
 - **Construction of Cup Markings**  
   Cup marks on stones often exhibit artificial characteristics, indicating intentional sculpturing by ancient peoples. The presence of these markings across diverse cultures suggests a commonality in expression or belief among ancient civilizations globally.
-# Anomalies in Rock Carvings
+# Anomalies in Rock Carvings [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Sculptured Rock Surfaces at Auchnabreach**: The site features a variety of simple cups, rings, and designs that appear together, suggesting a rich interrelation among different types of rock carvings. This mix of elements includes isolated and connected cups, indicating a complex cultural significance tied to the region of Argyleshire, Scotland.
 
@@ -2335,7 +2039,7 @@ Crafted with great attention to detail, the serpent's body combines various shap
 - **Musical and Ritual Functions of Stones**: Descriptions of ringing rocks suggest they have been utilized for various functions, such as rain-making and warding off evil spirits. This functional variability indicates that such stones likely held multifaceted roles in the societies that crafted and used them throughout history.
 
 - **Isolated Stones Near Balvraid**: A stone near Balvraid, Scotland, with five pairs of cups connected by grooves features a unique design element. These connections prompt speculation about the possible rituals or meanings behind the specific arrangements and the cultural significance they may hold.
-# Anomalies in Ancient Studies
+# Anomalies in Ancient Studies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cup-Marks in South India**  
   The cup-marks found in South India suggest a geometrical sophistication that may not have been recognized earlier. Their discovery in the Shorapur Doab highlights a possible connection with megalithic structures across regions.
@@ -2357,13 +2061,13 @@ Crafted with great attention to detail, the serpent's body combines various shap
 
 - **Astronomical Hypothesis**  
   The suggestion that quipus encode astronomical information has led scholars to revisit earlier hypotheses regarding their significance. This perspective offers intriguing insights about how ancient cultures may have understood and recorded time and celestial events through knot patterns.
-# Supposed Calendars
+# Supposed Calendars [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Discrepancy in Group B**: The investigation revealed a discrepancy concerning the numerical values involved in the pendants of group B, where 1,417 was knotted instead of 1,517, suggesting potential miscommunication or miscalculation. This anomaly raised questions about the intention behind the numbers and the methods used in calculating them, particularly regarding their astronomical implications.
 
 - **The Sum of Pendants**: The sum of the pendants in groups A, B, C, and E is noted to be 2,997, which can be factored into several combinations that exhibit relationships to the number 365. This raises further discussions about the interpretations of these numbers in relation to astronomical events, indicating a potential system of calendrical notation.
 
-# Unusual Symbols and Notation
+# Unusual Symbols and Notation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Rock Recovery by Bernard W. Powell**: Powell discovered a lightly incised tabular piece of rock with concentric circles and ticks, which adds to the understanding of ancient notational systems. The resemblance of this stone to other similar finds prompts further analytical investigations into its meaning and purpose.
 
@@ -2373,35 +2077,35 @@ Crafted with great attention to detail, the serpent's body combines various shap
 
 - **Drilled Pits on Steatite Slab**: An unusual steatite slab features conically drilled pits possibly mimicking a natural hole, questioning the techniques used in its creation. This leads to discussions about its intended function, with suggestions that it may have served as a timekeeping device.
 
-# Rock Inscriptions in Brazil
+# Rock Inscriptions in Brazil [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Inscription Investigation**: The inscriptions discovered in Pernambuco include markings that have yet to be deciphered, indicating an inability to read the ancient symbols. These findings suggest the potential for a lost language or a system of notation that remains unexplained in the current archaeological context.
 
 - **Polished and Engraved Stones**: The markings on various rocks near streams show signs of pecking and grinding, and the effects of weathering indicate a long history of exposure. The preservation state of these inscriptions raises questions about their original meanings and the factors contributing to their current condition.
 
 - **Noteworthy Concentric Designs**: Similar patterns found across different sites, such as asterisks and spirals, propose possible cultural exchanges or shared traditions among prehistoric people. The resemblance of these designs to others in the Amazon region suggests a broader interconnectedness in their use and symbolism.
-# American Museum of Natural History
+# American Museum of Natural History [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Discovery of The Great Idol of Tiahuanaco**: Archaeologists encountered a monumental statue known as The Great Idol of Tiahuanaco while excavating in the Old Temple area. The statue, cut from a single block of red sandstone, measures 24 feet and weighs approximately 20 tons.
 
 - **Destruction of Archaeological Evidence**: Careless visitors began to damage the surface of the statue, threatening its preservation. This destruction was noted despite the authorities’ awareness of the statue's immense significance.
 
 - **Excavation Challenges and Environmental Factors**: The statue was precariously positioned on a scaffold during excavation, which contributed to the risk of damage. The porous sandstone composition of the idol also complicated the excavation due to its brittleness when wet.
 
-# Inscribed Tablet Found in Iowa
+# Inscribed Tablet Found in Iowa [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Traces of Former Civilization**: The discovery of pottery and relics on premises in Iowa indicated that civilization existed in the region before the modern Native American tribes. This finding suggests a rich pre-Columbian history tied to the artifacts uncovered.
 
 - **Pottery and Tools as Evidence**: The excavation revealed broken stone axes and various fragments of pottery, leading to questions about cultural practices and technological development prior to known indigenous populations. The distinction of the pottery's hard burn and distinct color contribute to this inquiry.
 
-# Unusual Symbols and Notation
+# Unusual Symbols and Notation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Astronomical Chart Comparison**: An engraving resembling the Great Bear and other constellations was found, aligning closely with classical astrological representations. This suggests the possibility of advanced astronomical knowledge among ancient cultures.
 
 - **Discussion of Symbols' Origins**: The existence of similar symbols in different continents creates a debate over whether they developed independently or were transported through ancient migration. This debate highlights the complexities of ancient writing systems and their potential meanings.
 
-# The Davenport Tablets
+# The Davenport Tablets [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Description and Context of the Discoveries**: Two clay tablets depicting funeral and hunting scenes were uncovered, which may shed light on the cultural practices of a pre-Columbian society in Iowa. The significance of these tablets goes beyond mere artistry to provide insights into rituals and social structures.
 
 - **Authenticity Concerns**: Debate surrounds the genuine nature of the symbols and inscriptions on the tablets, as scholars question whether they are authentic artifacts or modern forgeries. The complexity of the signs and the archaeological context in which they were found continue to fuel discussions about their origins.
-# THE DAVENPORT TABLET
+# THE DAVENPORT TABLET [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of the Empty Vault**: The flat stone covering the limestone tablet was raised, exposing it to view, revealing that the vault beneath was empty except for the relics. This absence of dirt in a pile of loose stones supposedly sitting for centuries raises serious questions about the authenticity and age of the find.
 
@@ -2411,7 +2115,7 @@ Crafted with great attention to detail, the serpent's body combines various shap
 
 - **Unique Fingerprints**: The elephant pipe also found by Mr. Gass bears similar finger-marks as the original, leading to speculation that it too could be an imitation or plant. The consistent design elements connected with observed manufacturing processes only heighten the concerns over the authenticity of the finds.
 
-# DECIPHERING THE DAVENPORT TABLETS
+# DECIPHERING THE DAVENPORT TABLETS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Multilingual Inscription**: The Davenport stele features inscriptions in three languages (Egyptian, Iberian Punic, and Libyan), each presented in its unique script. The claim that this stone provides calendrical information raises questions about how an object of such complexity ended up in Iowa and whether it is genuinely ancient.
 
@@ -2419,7 +2123,7 @@ Crafted with great attention to detail, the serpent's body combines various shap
 
 - **Dating Concerns**: The potential dating of the stele suggests it is unlikely older than 800 B.C., a time frame that complicates claims of ancient origins. Without solid evidence of earlier Libyan or Iberian inscriptions, assertions of its dating as far back as 1400 B.C. remain speculative.
 
-# INSCRIBED STONE OF GRAVE CREEK MOUND
+# INSCRIBED STONE OF GRAVE CREEK MOUND [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Alphabetic Nature of the Inscription**: The inquiry into whether the inscription is alphabetical or not suggests it might not represent a known writing system. If it is indeed alphabetical, it fails to correspond to any recognized language, casting doubt on its legitimacy.
 
@@ -2428,31 +2132,31 @@ Crafted with great attention to detail, the serpent's body combines various shap
 - **Speculative Historical Context**: The written characters bear resemblance to various ancient alphabets yet lack definitive classification, suggesting an attempt to create a puzzling artifact. This leads to the conclusion that the inscription may be an ingenious forgery rather than a relic of true historical value.
 
 - **Need for Scrutiny**: Concerns remain regarding the thoroughness of the examination conducted at the time of discovery, which may have failed to establish whether the item was of recent creation. Until concrete evidence is provided, the inscription should not be considered a significant artifact pertaining to the ancient mound builders.
-# THE MILL RIVER INSCRIPTION
+# THE MILL RIVER INSCRIPTION [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Mill River stele has a particular phraseology that resembles an inscription from Portugal. The letter styles between the two steles, however, highlight a difference, with the peculiar letter “B” on the Mill River stele suggesting Arabian influence.
 
 - Damage on the Mill River stele was avoided in the seven years since the last visit. The stone’s markings are carved into granite, measuring 6 feet by 18 inches, though some markings are worn away and barely visible.
 
-# AN ANCIENT JUDEAN INSCRIPTION FROM TENNESSEE
+# AN ANCIENT JUDEAN INSCRIPTION FROM TENNESSEE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - An inscribed stone found in 1885 during a Smithsonian excavation in Tennessee was identified as ancient Cherokee letters, but later interpretations noted its resemblance to ancient Phoenician-Hebrew characters. This led to a reading indicating it as a Judean inscription, possibly referring to a leader linked to the Jewish Revolt against Rome.
 
 - The stone is kept at the Smithsonian and was found in a burial mound with nine skeletons, leading experts to reinterpret its significance with possible implications for ancient seafaring connections between the Old and New Worlds. The dating of the inscription suggests it could be from around 100 A.D., corresponding closely with historical references to Jewish migrations.
 
-# THE WILSON-BRAXTON TABLET
+# THE WILSON-BRAXTON TABLET [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Wilson-Braxton tablet, discovered by a schoolboy in 1931, is made of fine sandstone and exhibits considerable weathering, causing debate over its authenticity. Some scholars consider it a fake that imitates the Grave Creek Tablet, while experts argue it reflects actual old Norse inscriptions.
 
 - The inscription is suggested to have been properly structured using the old Norse language, with claims brought forth by historical analysis showing that it employs runes characteristic of that period. The stone’s unique combination of signs adds complexity to its interpretation and challenges its dismissal as merely a forgery. 
 
-# THE MONHEGAN INSCRIPTION
+# THE MONHEGAN INSCRIPTION [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Dr. Augustus E. Hamlin found an inscription in 1855 on Manana Island, thought to be the work of an illiterate Scandinavian. The scholarly community had a keen interest in Norse inscriptions during this time, often attributing new markings to Viking origins without thorough investigation.
 
 - Further analysis revealed that the markings might have derived from natural surface erosion rather than intentional ancient writing. This underscores the need for cautious interpretation of inscriptions, with many historical claims lacking substantial evidence.
 
-# AN AEGEAN SCRIPT STONE FROM GEORGIA?
+# AN AEGEAN SCRIPT STONE FROM GEORGIA? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Metcalf Stone, discovered in Georgia, features symbols that closely resemble early Aegean scripts, suggesting a connection to ancient Mediterranean cultures. This inscription is thought to represent an inventory of goods, linking it to commercial activities that may predate Columbus.
 
 - Despite the intriguing implications, there is no definitive linguistic match between the symbols on the Metcalf Stone and known Aegean languages, indicating the symbols may have been used in a broader context. This could mean the influences were far-reaching but fundamentally distinct from the known languages of antiquity.
-# SOME ENIGMAS OF ANCIENT WRITING
+# SOME ENIGMAS OF ANCIENT WRITING [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Elephant Slabs**  
 If genuine, the Elephant Slabs preserve the only written examples found north of Mexico of an ancient language, ranking them high among our most important historical relics. The slabs may truly record an Indian written account of elephants.
@@ -2471,7 +2175,7 @@ This notable object discovered by J. M. Richardson is characterized by a figure 
 
 - **Waverly Sandstone as an Artifact**  
 The engraved stone made of Waverly sandstone featured inscriptions still open to interpretation, hinting at lost languages and civilizations. This relic raises profound questions about the cultural significance and historical context of the Mound Builders' society.
-# Some Enigmas of Ancient Writing
+# Some Enigmas of Ancient Writing [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Mica Mirror**: The object placed in front of the recumbent figure may possibly be a mica mirror. This raises questions about the significance and use of such artifacts in ancient cultures.
 
 - **Rattlesnake Representation**: The reptile depicted behind the female figure is identified clearly as a rattlesnake, specifically the Crotalus horridus species. This choice of symbolism may indicate a cultural or spiritual significance attached to this creature.
@@ -2480,26 +2184,26 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 
 - **Welch Butterfly Relic**: Mr. Richardson named a particular relic the "Welch Butterfly" due to its resemblance to an alphabetical symbol and its unique scratching technique. This artifact claims to be one of the first found in U.S. territory and has prompted a need for further investigation.
 
-# ENIGMAS IN LEAD
+# ENIGMAS IN LEAD [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Tucson Artefacts Discovery**: The Tucson Artefacts were discovered accidentally in 1924 by Mr. Charles E. Manier, setting off discussions about their origins. Their alleged historical significance has incited speculation ranging from mundane to the fantastical.
 
 - **New Jersey Alphabetical Stones**: Several flat, water-worn pebbles unearthed in New Jersey bore inscriptions leading to dates ranging from 560 A.D. to 800 A.D. This phenomenon fuels debates about the historical presence of Romans or other civilizations in North America.
 
-# INTERESTING HEBREW RELIC
+# INTERESTING HEBREW RELIC [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Caliche Deposits**: Caliche refers to a hard, crust-like layer that forms in desert soils, often accumulating around buried relics. The presence of this caliche suggests that the artifacts found may be significantly old, perhaps buried for centuries.
 
 - **Pottawatomie Parchments**: Dr. Lykins found four small rolls of parchment inscribed with parts of the Pentateuch made from caliche-rich surroundings. This remarkable find raises questions about its origins and the cultural context in which it was used.
 
-# THE KEKIP-SESOATORS; OR ANCIENT SACRIFICIAL STONE
+# THE KEKIP-SESOATORS; OR ANCIENT SACRIFICIAL STONE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Kekip-Sesoators Stone**: The Kekip-kip Sesoators is a notable ancient sacrificial stone located in Canada, characterized by a hemispherical boulder with intricate sculptures. Its carvings, particularly the crescent moon and star, could suggest ritualistic significance.
 
 - **Nahua Traditions**: The traditions of the Nahua tribes indicate that these stones were once central to their worship practices, involving sacrifices. These practices not only reflect cultural beliefs but also hint at the historical migrations and settlements of the Nahuas.
 
-# RUNIC PARK IN OKLAHOMA
+# RUNIC PARK IN OKLAHOMA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Heavener Rune Stone**: A 12-foot high stone with runic inscriptions is located in Heavener, Oklahoma, raising questions about its historical origins. The interpretation of these runes as potentially linking to Viking explorers has created controversy among scholars.
 
 - **Dynamiting of Runestones**: Many runestones were reportedly destroyed by treasure hunters in the 1920s, obscuring valuable historical evidence. This destruction raises concerns about the preservation of artifacts critical to understanding early explorations in North America.
-# Runestones - Anomalies in Oklahoma's History 
+# Runestones - Anomalies in Oklahoma's History  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Inscriptions Age and Origin**  
   One faction claims the inscriptions were made by Norse explorers around 900 years ago, suggesting a historical Viking presence in Oklahoma. In stark contrast, skeptics argue that some inscriptions could have been made within the past century, undermining their validity as evidence for Viking exploration.
@@ -2524,7 +2228,7 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 
 - **Consistency of Weathering**  
   The stones purported to be of the same geological composition exhibited inconsistent weathering patterns, indicating they might not have been inscribed around the same time. This anomaly challenges the narrative of a singular Viking influx in the area, suggesting variability in the timing and method of inscription.
-# Some Enigmas of Ancient Writing
+# Some Enigmas of Ancient Writing [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Poteau inscription characteristics**
   The runes exhibit sharp lateral edges and high ridges from a metal tool, suggesting a recent crafting method. Furthermore, the interior color of the stone stays intact, contrasting with its weathered exterior.
@@ -2549,7 +2253,7 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 
 - **Kensington stone vs. Scandinavian runic tradition**
   The Kensington inscription's forms do not fit the established Scandinavian linguistic continuum typical of its era. Scholars argue that its characters and language reflect a modern creation rather than an authentic medieval artifact.
-# Some Enigmas of Ancient Writing
+# Some Enigmas of Ancient Writing [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Invented Letters**  
   The Kensington Stone features the inventiveness attributed to its engraver, who created a j-rune that was not in use until the 16th century. This is significant, as it means that the stone, which is dated 1366, utilizes letters that were actually invented centuries later.
@@ -2574,7 +2278,7 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 
 - **Easter Island and Indian Scripts**  
   Connections between the signs of the prehistoric Indian script and those found on Easter Island tablets suggest shared elements, yet definitive conclusions remain elusive. The idea of any specific ties or influences between these geographically distant cultures adds another layer of intrigue to the study of ancient writing.
-# Some Enigmas of Ancient Writing
+# Some Enigmas of Ancient Writing [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1: Similarity Among Inscribed Sticks**
    The inscribed sticks found at Harappan sites exhibit striking similarities in their inscriptions, with the last two symbols consistently identical across different examples. This raises the question of whether there is a definitive correlation between the type of object, its material, or its intended use.
@@ -2596,7 +2300,7 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 
 - **Anomaly 7: The Pitcairn Inscription**
    An inscription found on Pitcairn Island appears to blend Egyptian and Libyan writing styles, presenting a complex linguistic puzzle. While previous attempts at deciphering the text yielded little clarity, recent examinations suggest it could provide insights into ancient interactions across cultures.
-# Chapter 1: The Glozel Anomalies
+# Chapter 1: The Glozel Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of the Glozel Alphabet**  
   The claim that an alphabet discovered at Glozel predates every known alphabet has sparked significant interest. Critics argue that the Glozel script lacks clear linguistic connections and may simply be a fabrication.
@@ -2621,7 +2325,7 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 
 - **International Commission's Verdict**  
   An International Commission ultimately concluded that most artifacts at Glozel were fabricated and not prehistoric. This unanimous report further fueled skepticism about the legitimacy of the Glozel excavations.
-# The Glozel Affair
+# The Glozel Affair [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **First Anomaly**: The first anomalies revolve around Professor Tricot-Royer's quick remarriage after vehemently declaring that he would not remarry. This contradiction suggests a personal conflict with his public persona and raises questions about his credibility.
 
@@ -2635,7 +2339,7 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 
 - **Sixth Anomaly**: Some artifacts showed signs of having been made from previously fired materials which could complicate their dating and authenticity. The duality of their origins could suggest a more complex fabrication process than simply ancient production techniques.
 
-# Recent Discoveries Bearing on the Antiquity of Man in Europe
+# Recent Discoveries Bearing on the Antiquity of Man in Europe [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **First Anomaly**: Fossil human footprints have been discovered in geological contexts much older than what modern anthropology permits, leading to skepticism from the scientific community. Such anomalies challenge established timelines and bring into question the fossil record’s interpretation.
 
@@ -2644,7 +2348,7 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 - **Third Anomaly**: The existence of human or near-human skeletons found in coal beds and other very ancient strata contradicts accepted narratives of human evolution timelines. Such finds indicate that current theories may need revising to account for these potentially ancient counterparts.
 
 - **Fourth Anomaly**: Prints of human feet identified in limestone rock suggest human presence in geological contexts that are often dismissed due to biases in scientific acceptance. The extraordinary nature of such claims often leads to them being categorized as "background noise" rather than worthy of investigation.
-# Fossil Human Footprints
+# Fossil Human Footprints [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1**: The prints are alleged to be the sacred impress of the feet of our Saviour, leading to various debates about their authenticity. Geologists express skepticism about the possibility of human footprints existing in rocks that are millions of years old, deeming it "impossible."
 
@@ -2654,62 +2358,62 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 
 - **Anomaly 4**: There is a peculiar scroll-like figure on the rock's surface that some interpret as possible Native American imagery, though others dismiss this idea as unsubstantiated. The prints are said to show a natural human stance, reinforcing the impression that they were made by a bipedal creature.
 
-# Human Footprints in Nicaragua
+# Human Footprints in Nicaragua [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 5**: The depth and arrangement of various layers of sediment and rock surrounding human footprints found at a quarry contribute to the debate about their age. The presence of volcanic deposits suggests that these prints could be ancient, dating back to a period when such volcanic activity was prevalent.
 
 - **Anomaly 6**: The contrasting measurements of the footprints uncovered, ranging from 11 to 17 inches in stride length without surface signs of haste, raise questions about their origin. The layers above the footprints include various compositions of sediment, affecting the visibility and clarity of the prints themselves.
 
-# Prehistoric Footprints from El Salvador
+# Prehistoric Footprints from El Salvador [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 7**: Footprints discovered in La Carrera were found alongside animal tracks, specifically from the cat family, indicating a diverse prehistoric environment. The human footprints, measuring 26 cm on one slab, suggest a close association between human and animal activity in the area.
 
 - **Anomaly 8**: The stratigraphic context of the footprints, including soil layers and volcanic ash deposits, suggests they may not be extremely old but rather formed during a specific geological event. The evidence supports a timeline indicating that the footprints are positioned between two to five meters below the surface, adding another layer of complexity to their dating.
-# 646 Fossil Human Footprints
+# 646 Fossil Human Footprints [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Anomaly: **Half Track on Precipice**
   - The half track represents the heel and hinder half of the foot, indicating that the toes projected over the edge of the precipice, suggesting a precarious position. Its large size implies a foot of an adult person, which raises questions about the conditions under which it was formed.
 
-# 647 Fossil Human Footprints
+# 647 Fossil Human Footprints [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Anomaly: **Alleged Human Footprints in Tennessee Rocks**
   - The discovery of bipedal tracks resembling human footprints alongside Pliocene mammal tracks adds to the complexity of fossil evidence in the region. These tracks cannot be definitively attributed to a member of the Hominidae family without further evidence from bones or teeth.
 
-# 648 Fossil Human Footprints
+# 648 Fossil Human Footprints [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Anomaly: **Tracks Made by Large Edentates**
   - Human-like footprints were found in a quarry, which were later determined to be made by large Edentate species, such as Mylodon or Morotherium, rather than by humans. This misattribution highlights the complexities in identifying fossilized tracks and underscores the importance of the context in which they are found.
 
-# 649 Fossil Human Footprints
+# 649 Fossil Human Footprints [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Anomaly: **Impressions on Alluvial Clay in Hadley, Mass.**
   - A series of footprints, reportedly made by a person running, suggest they were imprinted in a soft substrate that later solidified. The well-defined arches and distinct toes challenge previous assumptions about the age and significance of such impressions.
 
-# 650 Fossil Human Footprints
+# 650 Fossil Human Footprints [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Anomaly: **Ancient Human Footprints in Dakota Territory**
   - In Dakota Territory, curious indentations resembling human feet were discovered in a unique geological formation called "medicine rock." The size and depth of the prints suggest they were made by a young person, fostering speculation about the activities of early inhabitants.
 
-# 651 Fossilized Technology
+# 651 Fossilized Technology [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Anomaly: **Footprints Found in Volcanic Ash in Turkey**
   - Footprints discovered in volcanic ash, dating back approximately 250,000 years, present an intriguing possibility of human existence during a time previously thought impossible. The accompanying evidence of volcanic activity suggests a unique interaction between early humans and geological events.
 
-# 652 Fossilized Technology
+# 652 Fossilized Technology [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Anomaly: **Nail Found in Kingoodie Quarry**
   - The discovery of a nail embedded in a block of stone presents questions regarding its age and origin, especially given the surrounding geological context. The circumstances of the finding challenge conventional views of artifact placement in geological timelines, raising further inquiries into the interaction of human technologies with geological processes.
-# COIN IN LUMP OF COAL
+# COIN IN LUMP OF COAL [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A coin dated 1397 was discovered embedded in a lump of coal, found by Mr. R.C. Hardman in a load of coal bought for heating a smelter. This discovery raises questions about the historical timeline of human technological use of metal.
 
-# EVE'S THIMBLE
+# EVE'S THIMBLE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A thimble, appearing to be made of iron and marked similarly to modern thimbles, was discovered in a coal mining area. Despite being found intact, it has crumbled over time, challenging the assumptions about its preservation and origin.
 
-# MOLDED METALLIC OBJECTS FOUND IN CHALK BED
+# MOLDED METALLIC OBJECTS FOUND IN CHALK BED [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A thimble made of iron was recently described, showcasing intricate details suggesting it was molded rather than forged. This raises concerns about the definition of manufactured items in prehistoric contexts.
 
-# A CURIOSITY FROM COAL
+# A CURIOSITY FROM COAL [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A metallic vessel, discovered after a blast in a rock, was found to be beautifully inlaid with silver and resembling a unique composition metal. This artifact raises questions about the sophistication and metallurgical skills of the people during the time it was created.
 
-# SINGULAR IMPRESSION IN MARBLE
+# SINGULAR IMPRESSION IN MARBLE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - An indentation with raised characters was found in a marble block, leading to witness testimonies confirming its authenticity. The discovery challenges perceptions of ancient writing systems and the chronology of human civilization.
 
-# PREHISTORIC SURGERY - A NEOLITHIC SURVIVAL
+# PREHISTORIC SURGERY - A NEOLITHIC SURVIVAL [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Evidence of surgical operations from the Neolithic period, including trepanation, was discovered in crania from dolmens in France. The findings suggest an advanced understanding of surgery and medical practices among prehistoric humans.
-# Curious Human Skeletons
+# Curious Human Skeletons [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Skeletons Found in Wrong Geological Layers:** Some human skeletons have been discovered in rocks that are much older than previously believed possible for human beings. The evidence challenges conventional timelines and suggests humans may have existed much earlier than the accepted historical narrative.
 
@@ -2717,7 +2421,7 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 
 - **Graves of Giants and Pygmy Cemeteries:** Reports of giant graves alongside extensive pygmy cemeteries have sparked skepticism about their authenticity. Such discoveries contradict established understandings of human size variation in historical populations.
 
-# On the Probable Existence of Man During the Miocene Period
+# On the Probable Existence of Man During the Miocene Period [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Skeletons Too Old for Accepted Human Timeline:** Skeletons have been found in Miocene rock formations, suggesting human existence far earlier than the accepted timeline. This raises questions about the validity of current anthropological models and the accepted age of human ancestry.
 
@@ -2725,7 +2429,7 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 
 - **Anomalous Findings in the Miocene Area:** A discovery of a human tooth amidst Miocene geological layers raises the possibility of a much older human presence than previously thought. Evidence like this necessitates a reconsideration of our understanding of humanity's timeline.
 
-# The Case of the Bones in Stone
+# The Case of the Bones in Stone [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Human Bones Found in Ancient Rock Strata:** Human bones discovered in rock formations estimated to be over 100 million years old pose significant challenges to established scientific theories regarding human antiquity. Such a contradiction suggests that there may be much more complexity to human evolutionary history than currently understood.
 
@@ -2733,12 +2437,12 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 
 - **Observations of Burial Practices:** The discovery of remains in what appears to be a customary burial pose further questions about the cultural and temporal context of these skeletons. The fact that different bodies seem to have been placed in various manners complicates the narrative surrounding their age and identity.
 
-# Early Man in the New World
+# Early Man in the New World [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Controversy Over the Age of Indigenous Peoples:** The question of when humans first arrived in the Americas has sparked intense debate, with some arguing for a much earlier presence than traditionally accepted. This ongoing controversy continues to shape the study of anthropology and human migration patterns.
 
 - **Residual Skepticism in Evidence of Early Man:** Despite emerging evidence of early human occupation in the New World, skepticism persists within the scientific community. This hesitance reflects long-standing biases in understanding human origins and migration theories that require reevaluation in light of new findings.
-# ANOMALIES IN HUMAN ANTIQUITY
+# ANOMALIES IN HUMAN ANTIQUITY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Human Skull in Mexico**: The facial and mandibular parts of a human skull were discovered in hard rock near Mexico City, prompting debate about the antiquity of man in the Western Hemisphere. This skull remains one of the few early sites where tools and human remains are associated.
 
@@ -2761,36 +2465,36 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 - **Santa Barbara Skull Analysis**: New skulls from Santa Barbara attributed to supposed ancient populations have been examined against their cultural backdrop. Skepticism remains regarding how these findings fit into the broader context of human development and migration.
 
 - **Stanford Campus Skull Report**: A human skull found 22 feet below the ground near Stanford University is thought to be associated with various extinct species. The connection to early human life in America posits questions surrounding cultural development and technological complexity.
-# ANCIENT SKULLS DISCOVERED NEAR SANTA BARBARA
+# ANCIENT SKULLS DISCOVERED NEAR SANTA BARBARA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Two human skulls claimed to be of high antiquity were discovered in California, with a suggested age far earlier than that of Neanderthal man. These skulls exhibit a low forehead, pronounced eyebrow ridges, and thick walls, suggesting they belong to a much older era.
 
-# GLACIAL MAN IN KANSAS
+# GLACIAL MAN IN KANSAS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A human skeleton was found in Kansas, leading researchers to consider it possibly twice or three times as ancient as current traces of man. Examination revealed significant details, including the low position of the mandible and the skeleton's disjointed fragmented state.
 
-# PREHISTORIC REMAINS IN FLORIDA
+# PREHISTORIC REMAINS IN FLORIDA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Florida, remains of prehistoric humans were found alongside extinct elephants, suggesting man coexisted with these ancient animals. The burial context of the human remains indicates they were interred during the same geological epoch as the mammoths.
 
-# THE UBIQUITOUS NEANDERTHALS
+# THE UBIQUITOUS NEANDERTHALS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The crushed skull discovered in Melbourne is being analyzed to determine if it shares similarities with modern Indians or reflects more primitive characteristics. This analysis could provide insights into the cranial variations among prehistoric humans.
 
-# DISCOVERY OF AN EARLY TYPE OF MAN IN NEBRASKA
+# DISCOVERY OF AN EARLY TYPE OF MAN IN NEBRASKA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A mound in Nebraska revealed multiple human skulls of a primitive type, with evidence suggesting an intentional burial of earlier human remains. The skulls from lower layers are notably different and possibly indicative of a distinct ancestral lineage.
 
-# NEW EVIDENCE FOR THE ANTIQUITY OF MAN IN NORTH AMERICA
+# NEW EVIDENCE FOR THE ANTIQUITY OF MAN IN NORTH AMERICA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Evidence suggests humans were present in North America much earlier than the previously accepted timeline based on migratory patterns. Challenging the idea of late entry, findings hint at the presence of early humans up to 100,000 years ago.
 
-# NEANDERTHAL MAN IN CENTRAL ASIA
+# NEANDERTHAL MAN IN CENTRAL ASIA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Remains of Neanderthal man were discovered in a cave in Central Asia, marking the first example of this type recorded east of Europe. The skeletal differences suggest an overlap in characteristics between early human ancestors and modern humans.
 
-# NEANDERTHAL MAN IN PALESTINE
+# NEANDERTHAL MAN IN PALESTINE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A significant discovery in Palestine revealed fossilized remains of Neanderthal individuals, extending the known range of the species considerably. This find demonstrates the cold weather adaptations of early humans retreating into what is now the Crimea.
 
-# CRIMEAN NEANDERTHAL REMAINS
+# CRIMEAN NEANDERTHAL REMAINS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Two Neanderthaloid skulls were uncovered near Simferopol, further expanding the geographical understanding of early human species. This discovery, arising from systematic exploration, provides critical data to assess the Neanderthal presence in Eastern Europe. 
 
-# LATE SURVIVAL OF NEANDERTHAL TYPE
+# LATE SURVIVAL OF NEANDERTHAL TYPE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The discovery of late survival patterns among Neanderthal types in isolated pockets has incited discussions regarding their longevity. These findings challenge established timelines of extinction and suggest that Neanderthals may have persisted longer than previously thought.
-# ANOMALIES IN THE HUMAN SKELETON
+# ANOMALIES IN THE HUMAN SKELETON [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Neanderthal-Skull Anomaly**  
   Stolyhwo describes a human skull with strong indications of close affinity with the Neanderthal type, found in a historic tomb alongside iron spear-heads. This skull, discovered at Nowosiolka, shows significant development of the supra-orbital ridges and approximates the Neanderthal morphology.
@@ -2815,23 +2519,23 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 
 - **Olecranon Perforation**  
   Among the prehistoric skeletons examined, a significant percentage exhibited an olecranon perforation in the humeri. This anatomical anomaly, characterized by an abnormal union of the first and second ribs, is rare and suggests unique evolutionary pathways in this population.
-# Annual Report; 1894
+# Annual Report; 1894 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Structural Alteration in Humeri**: Thirty right humeri showed two foramina, representing a prevalence of 7 percent, while thirty-one left humeri exhibited ten foramina, or 32 percent. In a third collection of Indian bones from mounds across various states, sixty-two humeri resulted in a total of seventeen foramina, indicating 20 percent.
 
 - **Evolution and Extinction**: Structural peculiarities in the elbow joint have dissipated in Europe, where civilization and mixed races have accelerated evolutionary processes. An interesting note is the notable survival of these traits among the Guanches, whose descendants exhibit a much higher frequency of such foramina.
 
 - **Presence of Foramina in Various Skeletons**: Among skeletons in the Army Medical Museum, out of 298 humeri, 22 foramina were observed—approximately 7.5 percent. This included 160 right humeri with six foramina (4 percent) and 138 left humeri with sixteen foramina (12 percent), dispelling the myth that foramina are limited to female skeletons.
 
-# Elephant Remains in Mexico
+# Elephant Remains in Mexico [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Findings from the Excavations**: The ancient city near Paredon was destroyed suddenly, leading to the entrapment of human and animal skeletons within sixty feet of debris. This debris was found to contain the remains of elephants alongside human skeletons, indicating their coexistence with ancient city inhabitants.
 
 - **Significance of Elephant Remains**: The fact that elephants were made to work by the ancient inhabitants of these Mexican cities indicates their significance beyond just skeletal remains. The tusks and bones found suggest a practical and cultural integration of elephants into their society, marking a notable aspect of their civilization.
 
-# Anthropological Evidence
+# Anthropological Evidence [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Blond Mandan Physical Traits**: Accounts from explorers in the 18th and 19th centuries noted the unusual physical traits of the Mandan Indians, including blondism and non-Indian features, leading to speculations of European ancestry. These observations highlight a compelling blend of cultural traits that seemed out of place in the northern Plains.
 
 - **Mixed Descent Theories**: Theories regarding the mixed descent of the Mandan people arose, suggesting links with European nations through potential pre-Columbian contact. Explorers described the Mandan as tall and well-made, with a complexion that often appeared lighter than that of other tribes, reinforcing the idea of diverse ancestry.
-# ANTHROPOLOGICAL EVIDENCE
+# ANTHROPOLOGICAL EVIDENCE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Anomaly of Dark Pigmentation in Mandans: The Mandan tribe exhibits a unique hereditary phenomenon of individuals possessing silvery-grey hair from childhood to old age, which suggests a genetic characteristic rather than a result of disease or habit. This observation was supported by both Lewis and Clark, who acknowledged the lighter pigmentation among some Mandan individuals as contrasting with the typical darker hues found in other Native American tribes.
 
@@ -2844,7 +2548,7 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 - White Indians in Darien: The Tarifuroro of Darien present a case of an advanced indigenous culture reportedly exhibiting lighter skin tones compared to neighboring tribes. The findings suggest a complex history of intermixing and adaptation to their environment, prompting further interest in their ethnogenesis.
 
 - Racial Variety Among Koreans: Koreans exhibit three distinct physical strains, with some showing similarities to white individuals, specifically in their lighter skin and variations in hair texture. These observations highlight an intricate interplay of genetic factors across the Korean population, influencing physical features in ways that may defy traditional classifications.
-# Anthropological Evidence
+# Anthropological Evidence [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Koreans and Albinism**: The anthropologists believe that the blonde strain found among Koreans is a distinct anomaly rather than typical albino characteristics. This is supported by Dr. Hrdlicka's suggestion that the physical traits observed may indicate a larger form of Asiatic origin in Korean ancestry.
 
@@ -2852,7 +2556,7 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 
 - **Behavioral Misinterpretations of Native Children**: During inspections, the timid demeanor and behaviors of the children led to misleading conclusions about their mental capabilities. Despite seeming shy, these children exhibit sharp intelligence and are rapidly learning new languages, undermining the unfounded claims of mental deficiency.
 
-# The Yellow Men of Central Africa
+# The Yellow Men of Central Africa [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Transmissible Albinism Hypothesis**: The first explanation offered for the yellow people of Central Africa is a peculiar transmissible albinism that does not align with traditional understandings of albinism. This hypothesis points to the possibility of a unique genetic condition affecting pigmentation within these populations.
 
@@ -2860,7 +2564,7 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 
 - **Biologic "Sports" Concept**: There is a proposition that the blond-haired individuals in Central Africa might be seen as biologic "sports" that indicate a new variety of human species. This view raises intriguing questions on biodiversity and human adaptation.
 
-# Origin of the Indians
+# Origin of the Indians [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Current's Influence on Peopling**: The narrative surrounding the peopling of North America from Asia highlights the influence of ocean currents like the northern equatorial current and Kuro-shiwo. These currents facilitated the movement of populations, suggesting a natural migration path from Asia to the Americas.
 
@@ -2869,7 +2573,7 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 - **Wrecks and Human Migration**: Historical accounts of Japanese shipwrecks on North American shores detail a phenomenon that supports the idea of trans-Pacific interactions prior to documented history. These shipwrecks reveal a complex tapestry of migration and connection between distant peoples.
 
 - **Hawaiian Islands Connection**: The Hawaiian tradition hints at historical links to Japan through castaways and shipwrecks, suggesting a deeper cultural and ancestral connection rather than isolation. This phenomenon indicates that coastal currents played an essential role in shaping the demographics of the Pacific islands.
-# Anthropological Evidence
+# Anthropological Evidence [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Japanese Junk Drifted into Hilo Bay**  
   In 1880, a Japanese junk was reported drifting into Hilo Bay, which is unique to the northwest coast of the world. At about the same time, another junk was wrecked on the island of Oahu, indicating unusual maritime activity in the region.
@@ -2900,7 +2604,7 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 
 - **Variation in Historical Beliefs About Chinese Influence**  
   Many scholars have developed theories linking the architectural and cultural remnants in Mexico and Peru to Asiatic contact. Yet, opponents point out that the independence of these regional developments challenges the notion of a singular origin for significant indigenous achievements.
-# Anthropological Evidence
+# Anthropological Evidence [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Fusang's Location**  
   The historical accounts question whether the land of Fusang, believed to be either Japan, Saghalin, or Mexico, could have been reached by ancient explorers from Asia. This anomaly raises doubts about the credibility of the claims regarding early migrations across the Pacific.
@@ -2931,12 +2635,12 @@ The engraved stone made of Waverly sandstone featured inscriptions still open to
 
 - **Patterns of Sociocultural Exchange**  
   The expected exchange of social commodities like food plants between Asia and the Americas did not materialize suggests a lack of significant contact. This conclusion raises further questions about the nature and extent of any hypothesized migrations across the Pacific.
-# MUSICAL INSTRUMENTS OF MALAYSIA AND THE WEST COAST OF SOUTH AMERICA
+# MUSICAL INSTRUMENTS OF MALAYSIA AND THE WEST COAST OF SOUTH AMERICA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly: Similarity of Chinese and Indian Languages**  
   Dr. Edward Sapir's research has suggested an identity between certain Indian tribes' languages and primitive Chinese. His findings indicate a cultural wedge from Asia into the Americas based on linguistic distribution.
 
-# ANTHROPOLOGICAL EVIDENCE
+# ANTHROPOLOGICAL EVIDENCE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly: Comparison of Minoan and Shang Cultures**  
   Minoan Linear A script and inscriptions on Shang oracle bones exhibit peculiar similarities, hinting at potential cultural exchanges. This suggests a pattern of interconnectedness among ancient civilizations, bridging vast geographical distances.
@@ -2947,7 +2651,7 @@ Instruments like the flageolet from the Murut tribe in Borneo closely resemble N
 - **Anomaly: Cultures of the Olmec and Shang**  
 Both the Olmec and Shang cultures demonstrated advanced societal features, including a writing system and an organized religion. Such parallels raise questions about possible interactions or convergent evolution of societal structures across different regions.
 
-# THE LANGUAGE AND ORIGIN OF THE BASQUES
+# THE LANGUAGE AND ORIGIN OF THE BASQUES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly: Distinct Linguistic Traits**  
 The Basque language presents an agglutinative structure unlike any known European tongue, resulting in unique grammatical complexities. This distinctiveness prompts theories about its ancient origins and deep historical roots within the region.
@@ -2955,28 +2659,28 @@ The Basque language presents an agglutinative structure unlike any known Europea
 - **Anomaly: Physical Variety Among Basques**  
 Studies indicate the Basques display varied physical traits, suggesting a complex ancestry with influences from distinct groups. These characteristics challenge conventional classifications and highlight the region's diverse genetic history.
 
-# JEWISH AND ZULU CUSTOMS
+# JEWISH AND ZULU CUSTOMS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly: Similarity of Customs**  
 Rev. Josiah Tyler's observations note striking parallels between Jewish and Zulu customs, such as feasts of first fruits and the right of circumcision. This raises intriguing questions about cultural transmission and shared historical practices.
 
 - **Anomaly: Exotic Finds in Indian Graves**  
 The discovery of Babirussa tusks in an Indian grave in British Columbia poses unresolved questions about trade patterns or migration routes. It suggests ancient connections between distant cultures that had yet to be fully understood by contemporary societies.
-# A POSSIBLE HINDU INFLUENCE AT TEOTIHUACAN
+# A POSSIBLE HINDU INFLUENCE AT TEOTIHUACAN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Conch Shell and Sacred Chank**: The introduction of the West Indian Chank, known as Turbinella angulata, into Teotihuacan suggests cultural exchanges between India and Mesoamerica. The shell's significance in Hindu mythology indicates transpacific connections that could have shaped prehistoric Mesoamerican culture.
 
-# PLANT EVIDENCE FOR EARLY CONTACTS WITH AMERICA
+# PLANT EVIDENCE FOR EARLY CONTACTS WITH AMERICA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Sweet Potato in Polynesia**: The sweet potato, indigenous to America, was known in Polynesia by the Quechua name "kumar" before 1864. This linguistic evidence, along with its primary role in the diet of natives in the Hawaiian Islands, implies early human transportation of the crop across the Pacific.
 
 - **Linguistic Evidence of Sweet Potato**: The similarities between the names for sweet potato in different regions, such as "Uala" in Hawaii and "Kumara" in New Zealand, support transpacific contact. The existence of these variations hints at an ancient exchange of agricultural knowledge and practices.
 
-# Biological Evidence
+# Biological Evidence [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Adaptation of Goard and Yam**: The yam, likely domesticated in Java, may have spread to Polynesia with early migrants, indicating significant plant transportation. Although the gourd might have floated across oceans, evidence suggests that its arrival in America was likely facilitated by human agency rather than natural means.
 
 - **Cotton's Genetic Study**: Genetic research categorizes global cotton into various groups, indicating a complex history of interbreeding following human introduction to new environments. The identification of both American and Asiatic chromosomes in cotton suggests that this plant crossed oceans before the Columbian era due to human cultivation.
 
 - **Bottle Gourd Origins**: Archaeological documentation confirms the presence of the bottle gourd in ancient Peru, dated possibly as early as 3000 BC. Its connection to India and potential transpacific movements hints at early agricultural exchanges between diverse cultures.
-# Biological Evidence
+# Biological Evidence [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1**: There is uncertainty regarding the introduction of cotton into Peru and its connection with the wild cotton species. It is suggested that these cotton varieties were created through an unusual hybridization with the wild cotton present in the region.
 
@@ -2986,12 +2690,12 @@ The discovery of Babirussa tusks in an Indian grave in British Columbia poses un
 
 - **Anomaly 4**: The historical timeline flexibilities surrounding the dating of plant types denote a substantial time for species differentiation, which could suggest far-reaching connections. Assertions that crops like cotton were introduced underestimating the challenges posed by climatic and environmental factors is an area requiring further scrutiny.
 
-# Myths and Legends
+# Myths and Legends [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 5**: The sidhe-mounds are seen as entrances to an underground realm, which may reflect ancient experiences or beliefs concerning the afterlife and otherworldly existence. The transition of these mounds from mere burial sites to mystical realms shows a cultural evolution in beliefs over time.
 
 - **Anomaly 6**: Myths of extraordinary technical capabilities and insights into nature possessed by ancients pose questions about the technological understanding of previous civilizations. Without physical artifacts to support these stories, their validity remains uncertain, blurring the line between mythological truth and historical fact.
-# The Historical Existence of Fairies
+# The Historical Existence of Fairies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Sidhe as Real People**  
   Early Irish fiction depicted the dwellers of the sidhe as not merely mythical beings, but real individuals with supernatural powers. This notion persisted even into the time of the first Christian missionaries.
@@ -3002,7 +2706,7 @@ The discovery of Babirussa tusks in an Indian grave in British Columbia poses un
 - **Sidhe’s Observations by Saints**  
   In a medieval account, Saint Patrick encountered two maidens who thought him and his fellow clergy were fairies. Their curiosity about his origins speaks to the common belief in the sidhe as beings capable of entering the human sphere.
 
-# Ethnological Characteristics of Sidhe
+# Ethnological Characteristics of Sidhe [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Prehistoric Existence of Races**  
   Modern archaeology supports the existence of non-Aryan races in prehistoric Europe. Two distinct types, the Iberians and Ligurians, are highlighted as potential connections to the fairy folk of Celtic lore.
@@ -3016,7 +2720,7 @@ The discovery of Babirussa tusks in an Indian grave in British Columbia poses un
 - **Connection Between Fairies and Iberians**  
   Allegations connecting the sidhe to the Iberian aborigines focus on the geographical distribution of fairy beliefs in areas with significant Iberian influence. These regions also retain tales of fairies' mischievousness, particularly their capacity to harm livestock and cause illness.
 
-# Lappish Connections
+# Lappish Connections [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Potential Links to the Lapps**  
   A significant argument is presented linking fairies with the ancient Lapps, noting similarities in their descriptions and behaviors. The fairies and Lapps share characteristics like diminutive stature and magical reputations.
@@ -3029,7 +2733,7 @@ The discovery of Babirussa tusks in an Indian grave in British Columbia poses un
 
 - **Worship Practices**  
   The Lapps practiced rituals at sacred sites, which resonates with fairy tales of worship and magic. These shared cultural elements strengthen the argument for a connection between the sidhe and various non-Aryan races in prehistoric Europe.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Ability to Render Themselves Invisible**  
   These beings are reputed to possess a supernatural ability to render themselves invisible at will. They are also said to have the capability to transport themselves instantaneously from one location to another.
@@ -3063,7 +2767,7 @@ The discovery of Babirussa tusks in an Indian grave in British Columbia poses un
 
 - **Asamanukpai of Gold Coast**  
   The Asamanukpai are dwarf-like entities known in the Gold Coast folklore, described as beings with backward-facing feet. They are viewed through a lens of abnormality, often seen only by individuals experiencing visions or psychological disturbances.
-# GIANTS AND DWARFS
+# GIANTS AND DWARFS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly of the Asamanukpa People**: The Asamanukpa people are said to have been extremely abundant, to the point that a specific day was designated for them, during which no one could visit their coastal areas. This abundance suggests a strong cultural reverence for these beings, which were defined as a type of giant or supernatural entity within local lore.
 
 - **Giant of Bashan**: Og of Bashan is described as a giant whose enormous stature was marked by an oversized iron bed, purportedly measuring approximately 13.5 feet long. The text hints at a historical basis for such legends, connecting them to recollections of real pygmy tribes that have seemingly evolved into fairy tales over time.
@@ -3078,30 +2782,30 @@ The discovery of Babirussa tusks in an Indian grave in British Columbia poses un
 
 - **Tennessee's Miniature Burials**: In Tennessee, small burial grounds with skeletons measuring only 19 inches have been documented, further adding to the folklore of individuals of unusual size. The construction of their graves from stone suggests a degree of civilization despite their diminutive stature. 
 
-# TRADITIONS OF PRECOLUMBIAN LANDINGS ON THE WESTERN COAST OF SOUTH AMERICA
+# TRADITIONS OF PRECOLUMBIAN LANDINGS ON THE WESTERN COAST OF SOUTH AMERICA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Bochica's Historical Account**: Bochica, a figure described as having preached to indigenous populations, is attributed with miracles similar to those found in Christian narratives. His character represents the amalgamation of indigenous lore and later European religious influences.
 
 - **The Journey of Tonapa**: The story of Tonapa, sometimes equated with Viracocha, includes accounts of white travelers landing on the shores of South America, preaching to the natives. This narrative echoes early European perspectives of the indigenous populations and their interactions with mysterious outsiders.
 
 - **Pizarro’s Era Influence**: The descriptions of the peopling of South America associated with Pizarro's era highlight the intersection of myth and historical context. The accounts of mysterious men arriving from the east convey a sense of cultural exchange, migration, and the mystique surrounding early colonizers.
-# Chapter 1
+# Chapter 1 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Catari**: The term "Catari," signifying a venomous serpent, implies the presence of ancient lore among the Aymara. However, this lore may have become distorted over time, making it difficult to ascertain its original meaning.
 
 - **Landing of Giants**: The report of a landing of "giants" at Santa Elena presents a tale distinct from that of the "Tonapa legend." This myth suggests a narrative of cultural interaction that lacks clear historical documentation, raising questions about its authenticity.
 
-# Chapter 2
+# Chapter 2 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Migrations of Tribes**: The text claims that tall giants or a warrior named Naymlap led a fleet of concubines to found settlements in Peru, illustrating a potential pre-Columbian narrative. However, the portrayal of these giants and their subsequent fate remains unverified and potentially mythical.
 
 - **Discovery of Fossil Remains**: Balboa attributes the settlement of southern Chile to pirates from the East Indies and describes large fossil bones found in the area. These remains, while implying prehistoric events, also suggest the possibility of later myth-making influenced by European narratives.
 
-# Chapter 3
+# Chapter 3 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Giant’s Destruction by Fire**: Cieza recounts a story where giants indulged in unnatural vices, leading to their destruction by a divine entity in fire. This fantastical account combines ancient cultural beliefs with potentially actual events, reflecting a blend of myth and reality.
 
 - **Tradition of Quetzalcoatl**: The figure of Quetzalcoatl, described as a white man from across the Atlantic who taught Christianity, presents an intriguing but contentious intersection of mythology and potential historical reality. His story is steeped in cultural interpretation, and the origins of such a character remain ambiguous.
-# Myths and Legends
+# Myths and Legends [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomalous Origin of Quetzatcoatl**  
 The strange beings attributed to the traits of Quetzatcoatl appeared to have an extra-American origin based on their marked differences from local coast Indians. This raises questions about their lineage and the potential influence of other cultures on the Mexican religious narrative.
@@ -3118,7 +2822,7 @@ Spaniards noticed substantial parallels between the Mexicans' religious practice
 - **The Transformation of Quetzatcoatl into a Monster**  
 Over time, various legends evolved that portrayed Quetzatcoatl as a morally and physically monstrous figure, diverging from initial descriptions of him as beneficent. This transformation reflects how mythologies can alter in response to cultural disruptions and historical events encompassing fear and hostility.
 
-# The Land of Fu-Sang
+# The Land of Fu-Sang [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Fu-Sang as a Historical Anomaly**  
 Fu-Sang, referenced in ancient Chinese texts, is seen as an enigmatic land that some scholars have attempted to tie to the Americas. The confusion surrounding its true identity highlights the difficulties in linking historical records from disparate cultures.
@@ -3126,7 +2830,7 @@ Fu-Sang, referenced in ancient Chinese texts, is seen as an enigmatic land that 
 - **Jacobian Speculations of Geography**  
 Jacob of Edessa’s writings hint at an unexplored land east of China, which raises suspicion of a connection to the Americas. His observations suggest the possibility of early knowledge of territories not yet fully acknowledged by mainland civilizations.
 
-# Did the Vikings Reach the Pacific Coast?
+# Did the Vikings Reach the Pacific Coast? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Seri Legends of 'Come-From-Afar-Men'**  
 The Seri Indians recount tales of white-bearded strangers who arrived in a long boat with characteristics similar to Viking ships. These legends illustrate the possibility of Viking contact with Native Americans long before recorded history, suggesting extensive exploration of the region.
@@ -3136,7 +2840,7 @@ Reports of ancient ships and artifacts potentially linked to Viking explorers le
 
 - **Vikings Traveling Down the American Coast**  
 The narrative proposes that Norse ships may have traversed the challenging Pacific coastlines, hinting at an ambitious journey around North America. Such explorations would challenge mainstream understanding of Viking navigation and their maritime capabilities during that era.
-# Anomalies in Historical Accounts
+# Anomalies in Historical Accounts [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Dragon prow of a ship**  
 A dragon prow of a ship was found projecting from a canyon wall near Ague Caliente Springs in the U.S. This find intersects with early Buddhist missions, potentially linking to Chinese historical traditions.
@@ -3164,7 +2868,7 @@ The Dogon tribe possesses elaborate beliefs about Sirius, including the existenc
 
 - **Egyptian significance of Sirius**  
 Ancient Egyptians attributed great significance to the heliacal rising of Sirius, linking it to their agricultural practices. This illustrates how various civilizations have observed and made connections to celestial bodies throughout history.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Maine Anforetas**  
 The mention of Anforetas in Maine presents a challenge for archaeological dating and origin tracing, raising doubts about their chronological accuracy. This could indicate a broader issue with establishing timelines for ancient artifacts.
@@ -3198,7 +2902,7 @@ The Nazca markings are intriguing due to their scale and purpose, leading to var
 
 - **Fingerprints in Stone**  
 The discovery of fingerprints in stone presents a unique anomaly regarding ancient human activity and interaction with their environment. This discovery could offer insights into the daily lives and practices of prehistoric peoples.
-# Page 397
+# Page 397 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Oklahoma runestones**: These runestones are believed to possess ancient markings that suggest a connection between Native American tribes and early European settlers. Their origins and meanings remain subjects of debate among historians and archaeologists.
 
@@ -3218,7 +2922,7 @@ The discovery of fingerprints in stone presents a unique anomaly regarding ancie
 
 - **Whit travelers in South America**: The historical presence of white travelers in South America has raised questions regarding early European exploration and interactions with indigenous populations. This phenomenon exemplifies the complexities of cross-cultural encounters throughout history.
 
-# Page 398
+# Page 398 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Kensington Stone**: This controversial artifact has been claimed to depict a Norse expedition to North America, dating back to the 14th century. Its authenticity continues to be hotly debated among historians and archaeologists.
 

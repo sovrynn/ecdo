@@ -21,3 +21,15 @@ Then, create a markdown code block like:
 Write this to output.txt in the same folder as the script
 
 And return it in a markdown code block.
+
+# Script 2
+
+Write a python script that does the following. It takes one input arg, a relative filename. It is in markdown format. It should add a link with text "(top)" and URL u (parameterized in the code) to every h1 markdown header, separated by a space, except the first one.
+
+# Script 3
+
+Write a python script that does the following. It takes one input arg, a relative filename. It should remove every line that is not a list entry (starting with a dash) in the content of the first markdown header (the file is in markdown format), modifying the original file.
+
+# give me a command that runs python X Y, where X is a script and Y is a local directory, and runs it for every .md file except README.md in Y
+
+find Y -maxdepth 1 -type f -name "*.md" ! -name "README.md" -exec python X {} \;

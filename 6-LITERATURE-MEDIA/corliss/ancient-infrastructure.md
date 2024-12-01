@@ -1,388 +1,186 @@
 # GPT Summary: Table of Contents
-
 - [ANCIENT INFRASTRUCTURE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#ancient-infrastructure)
-Ancient engineering feats such as roads, mines, walls, mounds, and stone circles showcase remarkable sophistication and technological prowess, challenging modern perceptions of early civilizations' capabilities.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies)
-The text explores various archaeological anomalies, including structures with unclear purposes, Viking exploration beyond Newfoundland, pre-Columbian transatlantic contacts, and the possibility of highly advanced prior civilizations.
 - [MSC3 Tunnel-Well Systems](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msc3-tunnel-well-systems)
-The discovery of similar tunnel-well technology in pre-Spanish Peru challenges conventional views on the diffusion of technology between the Old and New Worlds, much like evidence of advanced ancient civilizations can reshape our understanding of historical human progress.
 - [MSC4 Water Condensers](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msc4-water-condensers)
-Ancient Greek engineers attempted to control flooding at Lake Copais through a 14-mile tunnel system, but the project was abandoned, offering insights into the challenges of ambitious ancient engineering.
 - [MSC5 Ancient Irrigation Systems](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msc5-ancient-irrigation-systems)
-Ancient Greeks ingeniously constructed stone pyramids to catch and condense water, demonstrating early engineering prowess in utilizing natural resources in dry environments.
 - [Anomalies in Ancient Agricultural Engineering](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-ancient-agricultural-engineering)
-Ancient civilizations across different regions exhibited remarkable engineering skills in agriculture, constructing intricate systems like the geometric garden beds in Michigan, the extensive Hohokam canals in Arizona, the raised-field systems around Lake Titicaca, and mysterious structures such as the Norse pond dam in Maine and the stone wall along the Connecticut River, all highlighting sophisticated prehistoric agricultural and construction techniques.
 - [X2. Mesoamerica](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x2-mesoamerica)
-The alleged ancient Egyptian dam across the Nile, though grand in scale, remains unsubstantiated, while the Sadd-el-Kafara dam, considered one of the world's oldest, showcases advanced engineering but suffered a significant failure shortly after its construction, halting further developments in Egyptian dam-building for a considerable time.
 - [X3. Asia](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x3-asia)
-Ancient Mesoamerican civilizations, such as those in the Yucatan and Tikal, demonstrated remarkable ingenuity in managing water resources through the construction of subterranean structures and extensive rainwater collection systems, respectively.
 - [X4. Africa](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x4-africa)
-The Great Bath at Mohenjo-Daro showcases sophisticated engineering and cultural significance, while the Shringaverapura Tank in India served as a vital water supply and ritual site, highlighting advanced hydraulic knowledge.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies)
-Ancient civilizations across the world, from Sri Lanka to Egypt and China, developed sophisticated water management systems including large-scale tanks, complex canals, and intricate irrigation networks, showcasing advanced engineering and hydraulic knowledge.
 - [Enigmatic Menhirs](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#enigmatic-menhirs)
-From ancient Egypt to New Zealand, historical canals built by Pharaohs, unknown engineers in the Nile Delta, and the Maori civilization demonstrate early human ingenuity in constructing waterways for connectivity and transportation.
 - [Four Remarkable Menhirs](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#four-remarkable-menhirs)
-The erection of menhirs by megalithic peoples raises several anomalies, including the substantial effort required to transport and erect them, the prostrate positions and broken states of the two largest menhirs, and the uncertain timeline of their toppling and breaking, all of which challenge our understanding of ancient technological capabilities and organizational skills.
 - [Transportation of Very Large Menhirs](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#transportation-of-very-large-menhirs)
-Er Grah, formerly Brittany's largest menhir, now lies in four segments, prompting questions about its original use, the reasons for its fall, and the transportation methods used by ancient people, while the reconstruction of a nearby menhir has added to the mysteries surrounding these megalithic structures.
 - [Probable Purposes of Menhirs](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#probable-purposes-of-menhirs)
-The Menhir du Champ Dolent and Rudston Monolith exemplify the astronomical and historical significance of megaliths, respectively, offering insights into ancient observational practices and cross-cultural monument building.
 - [Menhirs in Unexpected Places](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#menhirs-in-unexpected-places)
-The transportation and construction of large menhirs showcase ancient human ingenuity, while the diverse purposes and unexpected locations of these megaliths across the globe challenge our understanding of prehistoric intelligence and cultural practices.
 - [Er Grah as a Foresight](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#er-grah-as-a-foresight)
-Limestone standing stones in Poughkeepsie, Burnt Hill in Massachusetts, and Calendar Site II in Vermont raise questions about their original heights, buried sections, and potential astronomical or calendrical significance, highlighting their complex historical and archaeological importance.
 - [Dolmens](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#dolmens)
-The anomalies of phallic menhirs in New Hampshire and towering standing stones in North Carolina raise questions about their cultural significance and origins in prehistoric times.
 - [X1. Dolmens in Asia and Oceania](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x1-dolmens-in-asia-and-oceania)
-The giant Er Grah menhir in Brittany, larger than needed for typical astronomical alignments, is proposed by A. Thom to have functioned as a foresight in an ancient astronomical observatory, suggesting advanced megalithic capabilities.
 - [Jordan](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#jordan)
-Er Grah's significant height implies that megalith builders had a sophisticated understanding of the lunar cycle, suggesting they were capable of large-scale scientific projects that might be underestimated by modern researchers.
 - [Northern Caucasus](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#northern-caucasus)
-Dolmens, ancient megalithic structures, typically consist of two or more vertical stones supporting a large horizontal slab, and are found across Europe, Asia, and North Africa, serving as tombs or ritual sites dating back to prehistoric times.
 - [India](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#india)
-The discovery of dolmen-like structures in northeastern North America challenges their origin and construction timeline due to the lack of accompanying artifacts and dating materials.
 - [X2. Purported dolmens in North America](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x2-purported-dolmens-in-north-america)
-The discovery of dolmen-like structures in North America suggests potential ancient long-distance travels and pre-Viking contacts, highlighting the need to重新评估对古代人类能力和互动的误解。 
-
-*Note: The last part of the sentence is in Chinese due to the character limit and to maintain the conciseness requested. A fully English version would be: "The discovery of dolmen-like structures in North America suggests potential ancient long-distance travels and pre-Viking contacts, highlighting the need to reevaluate misconceptions regarding ancient human capabilities and interactions."*
 - [MSD5 Rocking Stones](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msd5-rocking-stones)
-Dolmen structures vary globally in purpose and construction, from the small Damiya dolmens in Jordan to the sophisticated Caucasian dolmens, recent Khasi Hills monuments in India, and the debated natural or human-made formations in North America.
 - [X0. Introduction](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x0-introduction)
-Large boulders resting on smaller stones on the Melville Peninsula in Arctic Canada pose a mystery, with speculation suggesting they may have been elevated by primitive peoples, though evidence is limited.
 - [X1. Possible origins of rocking stones](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x1-possible-origins-of-rocking-stones)
-A Colorado dolmen with a capstone inscribed in Celtiberian culture sparks intrigue about ancient trans-oceanic connections, though its origins remain unverified by mainstream archaeology.
 - [X2. Distribution of rocking stones](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x2-distribution-of-rocking-stones)
-Delicately balanced multi-ton boulders, capable of rocking with minimal force, are predominantly found in regions previously glaciated by Pleistocene ice sheets.
 - [X3. Humans and rocking stones](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x3-humans-and-rocking-stones)
-Rocking stones, frequently documented in British and American science journals of the 1700s and 1800s, became notably scarce in the literature of the 1900s, shifting their discussion primarily to amateur archeologists.
 - [X4. Remarkable rocking stones](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x4-remarkable-rocking-stones)
-Determining whether rocking stones were formed naturally or by human intervention is difficult due to the absence of dating artifacts, especially in North America.
 - [MSE1 Lines of Pits](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mse1-lines-of-pits)
-The debate over whether rocking stones were naturally formed or deliberately manipulated by humans suggests potential early transatlantic cultural connections and is highlighted by the intentional alignment of rock formations.
 - [X1. North America](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x1-north-america)
-Rocking stones, such as Rolling Rock in Massachusetts and the Peekskill rocking stone, are often positioned in notable locations that suggest human placement rather than natural glacial movement.
 - [X2. South America](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x2-south-america)
-The lack of robust statistical studies on rocking stones, coupled with their concentrated distribution in certain regions like Britain and parts of North America, hints at both natural formation uncertainties and potential historical connections among ancient cultures.
 - [X3. Europe](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x3-europe)
-Rocking stones, large boulders that move with minimal force due to their precise balance, fascinate people with their seemingly supernatural qualities.
 - [MSE2 Puzzling Pits](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mse2-puzzling-pits)
-The possible origins of rocking stones are debated, with some attributing them to natural geological processes like glacial activity, while others suggest human intervention may have played a role in facilitating their rocking motion.
 - [ANOMALIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies)
-Rocking stones, predominantly found in Britain and the northeastern United States, hold cultural significance and unique properties, while pit alignments across North America, South America, and Europe remain mysterious features with uncertain purposes, largely neglected by archaeology.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies)
-Pits across various locations worldwide, ranging from mortars near Salt Creek to stone-lined pits in Zimbabwe, exhibit unique characteristics and depths but remain shrouded in mystery due to general neglect and a lack of comprehensive studies, leaving their purposes largely undefined.
 - [The Chronicle of Akakor](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-chronicle-of-akakor)
-The mystery craters in Queensland, Australia, discovered in the mid-1980s, have puzzled scientists and locals for decades with their potential age of 25 million years and ambiguous origins, ranging from natural formations to possible extraterrestrial causes.
 - [Europe](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#europe)
-Several mysterious subterranean structures across the northeastern United States, including the Goshen shaft-tunnel complex, the Montville Souterrain, an Ohio tunnel-chamber, an Indiana burial chamber, and a Mississippi subterranean chamber, challenge conventional archaeological views due to their unknown origins and sophisticated construction techniques.
 - [France](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#france)
-A subterranean chamber of high masonry quality, lacking identifiable Indigenous traditions, was discovered in Mississippi, adding to the mystery surrounding ancient subterranean structures in North America.
 - [Italy](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#italy)
-Archaeological discoveries, such as the ancient artifacts found in California's gold mines challenging geological timelines and the ritualistic tunnel under Teotihuacan's Pyramid of the Sun, offer intriguing insights into historical and cultural practices.
 - [Middle East](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#middle-east)
-Mysterious miniature tunnels at Monte Alban, an extensive tunnel system in Guatemala potentially connecting ancient sites, and rumored vast subterranean networks in South America highlight the architectural complexities and unknown purposes of ancient civilizations.
 - [Asia](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#asia)
-E. von Daniken's claim about extensive tunnel networks in South America remains unsubstantiated by professional literature, though natural caves do exist but to a lesser extent than claimed.
 - [Africa](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#africa)
-Dene holes, mysterious chalk-carved chambers with geometrically arranged shafts found in Essex, Kent, and Durham, continue to puzzle archaeologists regarding their builders and purposes.
 - [Oceania](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#oceania)
-Both the dene holes in Hangman's Wood, characterized by their intricate chalk chambers, and the deep, sophisticated Wilsford Shaft near Stonehenge, indicate complex construction processes from ancient times, yet their purposes remain unclear.
 - [Oak Island Shaft](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#oak-island-shaft)
-Notable underground structures including the complex filled shafts near Ipswich, the mysterious chalk-carved "gueriments" in France, the underworld-like tunnel under the Isle of Capri in Italy, and the precisely engineered Samos tunnel highlight the diverse and often enigmatic achievements of ancient subterranean architecture across Europe.
 - [Remarkable Ancient Mines and Quarries: A Survey](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#remarkable-ancient-mines-and-quarries-a-survey)
-Archaeological sites in the Middle East and Asia, including a deep shaft at Tell Duweir, extensive qanat systems in Iran, a deep well near Shiraz, and elaborate rock-cut tunnels at Ellora, showcase advanced ancient engineering and craftsmanship with some purposes still mysterious.
 - [Chapter 1: Anomalies in Mining History](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-1-anomalies-in-mining-history)
-Mysterious underground structures and shafts, such as Campbell's Well in Africa, tunnels in Micronesia and Easter Island, and the Oak Island Shaft, showcase enigmatic engineering and historical significance that continue to puzzle researchers and attract tourists.
 - [Chapter 2: Notable Discoveries in Early European Mining](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-2-notable-discoveries-in-early-european-mining)
-The Oak Island site's transformation into a popular tourist destination has complicated scientific studies due to heightened advertising and sensationalism, while remarkable ancient mines and quarries showcase unexpectedly large dimensions, hinting at extensive prehistoric mining efforts and societal reliance on these resources.
 - [Chapter 3: Ancient Mining Practices in Asia](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-3-ancient-mining-practices-in-asia)
-Ancient mining operations dating back over 10,000 years challenge our understanding of early human technological capabilities and suggest that humans targeted a variety of minerals beyond what was previously expected.
 - [Chapter 4: Mining Activities in Africa](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-4-mining-activities-in-africa)
-The selection of target minerals and evidence of advanced mining techniques in ancient cultures suggest more sophisticated and trade-intensive societies than previously thought, challenging our views on the technological capabilities of early civilizations worldwide.
 - [MSE5 Mines and Quarries](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mse5-mines-and-quarries)
-Evidence of advanced mining activities across various sites in North America challenges the conventional view of isolated ancient cultures, suggesting possible early global interactions and raising questions about the origins of some mining operations.
 - [MSE6 Lake Superior Copper Mining](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mse6-lake-superior-copper-mining)
-Prehistoric sites across North America, including Flint Hill, Alibates Flint Quarries, Hopi coal mines, ancient tunnels in Utah, and salt mines in Nevada, reveal diverse and extensive mining activities by early peoples, highlighting their resourcefulness and the scale of their operations.
 - [Sculpted Hills and Mountains](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#sculpted-hills-and-mountains)
-Prehistoric mining practices across Europe and Asia, from flint extraction by Cro Magnons to the sophisticated Bronze Age gold mines in Kazakhstan, highlight significant advancements in early mining technologies and organizational skills.
 - [MSE8 Terrestrial Zodiacs](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mse8-terrestrial-zodiacs)
-Chapter 4 explores ancient mining activities in Africa, highlighting the longstanding iron mining traditions at Ngwenya in Swaziland and the extensive gold mines in Zimbabwe, while noting the absence of direct evidence for ancient gold use in South Africa.
 - [X2. Europe](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x2-europe)
-Artifacts and mineral discoveries in Zimbabwe and South Africa, along with a copper production-consumption discrepancy in Lake Superior, suggest extensive and sophisticated ancient mining activities influenced by diverse cultural interactions.
 - [X3. Africa](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x3-africa)
-The mysterious absence of numerous artifacts and the unaccounted-for volumes of copper extracted by prehistoric miners from Lake Superior, coupled with evidence of rudimentary mining techniques, suggest complex trade relationships and raise questions about the ultimate destination and use of the mined copper.
 - [Anomaly Evaluation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomaly-evaluation)
-The text explores enigmatic sculpted sites like El Fuerte, Kenko, and Marcahuasi, which feature mysterious stone structures and carvings that challenge conventional archaeological understanding and timelines.
 - [Similar and Related Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#similar-and-related-phenomena)
-From ancient carvings in Petra to terraced earthworks in Babeldaob and sculpted defensive hills in Rapa, these sites showcase diverse human adaptations to their environments, while the terrestrial zodiac anomalies suggest intentional astronomical alignments in their construction.
 - [MSH3 Double Stone Rows](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh3-double-stone-rows)
-The intentional design of the site is highlighted by the correlation between the positioning of bird and bear mounds with celestial patterns and the chronological order of the effigies' construction.
 - [MSH4 Multiple Stone Lines](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh4-multiple-stone-lines)
-The Glastonbury Zodiac proposes that ancient roads and watercourses, including the River Cary forming a lion’s shape, may outline zodiac signs, suggesting a blend of natural and human-made elements to create a terrestrial astronomical design.
 - [Anomalies in Stone Arrays and Mazes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-stone-arrays-and-mazes)
-The text discusses various anomalies related to supposed astronomical alignments and representations in geological formations and ancient structures, raising questions about their intended celestial significance and the extent of ancient peoples' astronomical knowledge.
 - [Stone Meanders MSHG6](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stone-meanders-mshg6)
-Long stone rows in North America and Western Europe are often categorized as ritual structures, though the evidence is tenuous, while shorter stone rows and avenues offer different insights into megalithic cultural practices.
 - [Stone Circles MSH7](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stone-circles-msh7)
-Avenues, double stone rows, and multiple stone rows (fans) reflect the ritualistic behaviors and cultural significance of the societies that built them through their intricate designs and arrangements.
 - [MSH15](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh15)
-The Meandering Stone Rows are serpentine pathways composed of meticulously arranged stones that wind through the landscape, creating both navigational aids and cultural landmarks.
 - [MSH16](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh16)
-Meandering stone rows, showcasing diverse layouts in megalithic structures, may symbolize cultural significance associated with journeys or pilgrimages.
 - [MSH17](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh17)
-Boulder Trains are natural geological formations that, due to their alignment and layout, are often compared to human-constructed stone rows.
 - [MSH17](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh17)
-The curved avenues of Avebury, characterized by their large upright stones and lengthy structure, suggest a primary function as a processional route for worshippers rather than for astronomical alignment.
 - [MSH19](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh19)
-The funnel-like avenue at Callanish, wider at the entrance and narrower at the end, suggests it was designed for large gatherings and rituals, despite theories about its astronomical alignments.
 - [MSH8](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh8)
-The Dartmoor rows exhibit varying widths and uncertain astronomical alignments, casting doubt on their intentional design.
 - [MSH9](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh9)
-MSH4 refers to a condition characterized by the presence of multiple stone lines in archaeological contexts, indicating repeated use and heating of stones.
 - [MSH10](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh10)
-The similar stone rows found in Brittany and northern Scotland, despite being 750 miles apart, suggest possible cultural exchanges or shared practices among ancient peoples.
 - [Stone-Circle Geometry](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stone-circle-geometry)
-Stone rows and mazes, such as those at Menec, exhibit anomalies like irregular alignments and large enclosures without clear astronomical significance, suggesting their purposes likely extended beyond mere astronomical observations to include ritualistic or communal activities.
 - [Occult Influences on the Design of Stonehenge](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#occult-influences-on-the-design-of-stonehenge)
-Stone formations such as the Ashdown stone rows, Swedish stone mazes, Russian subterranean labyrinths, and the Topock Maze present varying degrees of mystery regarding their original purposes, blending archaeological speculation with cultural significance.
 - [Physical Phenomena Associated with Stone Circles](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#physical-phenomena-associated-with-stone-circles)
-Recent discoveries of stone arrays in New Mexico resembling European styles, an intricate circular maze in Arizona, and precisely geometric megaliths in southern Hyderabad challenge our understanding of ancient civilizations' capabilities and cultural exchanges across continents.
 - [171 Stonehenge Physical Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#171-stonehenge-physical-phenomena)
-Megalithic structures and stone meanders across various regions including Korea, Palau, North America, and Australia showcase diverse cultural practices and spiritual significances, often defying straightforward explanations and highlighting complex historical contexts.
 - [MSH13 Psychical Phenomena Concentration at Stone Circles](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh13-psychical-phenomena-concentration-at-stone-circles)
-Stone circles, distinguished by their circular or slightly elliptical arrangements and significant historical importance, continue to pose intriguing questions about their purposes and construction methods despite no known anomalies in their conventional understanding.
 - [Stonehenge Psychical Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stonehenge-psychical-phenomena)
-The text explores various questions about stone circles, including their possible alignments, cultural connections, astronomical applications, and unrecognized associations, highlighting the diverse theories surrounding these structures.
 - [Stone Circles and the Environment](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stone-circles-and-the-environment)
-Stone circles exhibit varied geometrical forms including nearly perfect circles, flattened circles, and ellipses, raising questions about the geometrical knowledge and construction techniques of Neolithic and Bronze Age peoples.
 - [Large-Scale Organization of Stone Circles](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#large-scale-organization-of-stone-circles)
-The discovery of 50 egg-shaped stone circles and peculiar distortions in Pythagorean relationships within some circles suggests advanced geometric knowledge and raises questions about the precision and methods used in their construction.
 - [Anomaly Evaluation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomaly-evaluation)
-The design of Stonehenge was potentially influenced by occult beliefs, reflecting its use as a ceremonial or ritual site.
 - [Possible Explanations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-explanations)
-The design of Stonehenge may have been shaped by numerological and astrological beliefs, indicating a profound integration of ancient occult concepts into its architectural blueprint.
 - [Possible British Leys](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-british-leys)
-Stone circles exhibit frequent luminous, magnetic, and acoustic phenomena, though these occurrences lack substantial scientific validation, similar to the scientifically unbacked influence of occultism in architecture.
 - [Possible Leys Outside of Britain and Ireland](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-leys-outside-of-britain-and-ireland)
-The concentration of luminous phenomena and UFO sightings around stone circles, like Stonehenge and Avebury, fuels New Age theories about "earth energies" despite lacking a scientifically defensible basis.
 - [Critiques of the Ley Concept](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#critiques-of-the-ley-concept)
-While there is no conclusive evidence that humans can consciously sense geomagnetic fields, magnetometer surveys around the Rollright Stones have shown fluctuating magnetic intensities, which some New Agers believe suggest the stones were intentionally placed based on magnetic properties.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies)
-Stone circles exhibit various unexplained phenomena, including anomalous radioactivity, regular ultrasound signals, physiological effects on individuals, and diverse dowsing observations, suggesting complex interactions between geology, energy fields, and human perception.
 - [MSH16 Stone Circles Worldwide](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh16-stone-circles-worldwide)
-Stone circles, including Stonehenge, exhibit intentional placements related to geologic features, water sources, topography, and possibly atmospheric phenomena, while their large-scale organization into clusters or leys reflects cultural efficiency and remains subject to debate over intentional versus chance alignments.
 - [Stone Circles as Eclipse Predictors](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stone-circles-as-eclipse-predictors)
-The text explores the skepticism surrounding intentional leys in archaeology, highlighting specific examples like the Stonehenge Ley Triangle, Boscawen-un Complex, and a potential Exmoor ley, while noting the争议主要来自于通俗文学中的主张与考古证据之间的差异。
 - [Stonehenge’s Rectangle](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stonehenges-rectangle)
-While European and Bolivian geographical features exhibit linear alignments similar to ley lines, they lack stone circle inclusions, and the Anasazi sites in North America show potential alignments that are statistically likely coincidental.
 - [Did the French Build Stonehenge?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#did-the-french-build-stonehenge)
-Critics challenge the validity of ley lines, arguing that the high number of potential markers leads to statistically likely chance alignments, thus questioning the intentional nature claimed by enthusiasts and fostering skepticism similar to that surrounding UFO phenomena.
 - [Geometrical and Geographical Anomalies of Stone Rectangles](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#geometrical-and-geographical-anomalies-of-stone-rectangles)
-Stone circles, found across continents and varying in age and purpose, also exist in Europe outside Britain and Ireland, with some showing similarities or potential influences from British designs.
 - [The Old World](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-old-world)
-Ale's Stones in Sweden, arranged in a ship-like formation serving as a giant calendar, may be significantly older than traditionally believed, suggesting potential cultural or astronomical importance.
 - [Possible Explanations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-explanations)
-Spain, a country renowned for its rich cultural heritage, vibrant festivals, and diverse landscapes, is located on the Iberian Peninsula in southwestern Europe.
 - [North America](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#north-america)
-The stone circles in the Basque region uniquely employ a base-7 counting system, distinguishing them by size, layout, and cultural significance.
 - [Vermont](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#vermont)
-A unique stone circle on the Bilgiri hills in India, distinguished by its unusual size, arrangement, and lack of associated burials, presents an enigmatic structure whose purpose remains undefined.
 - [New Hampshire](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#new-hampshire)
-Japan, an island nation in East Asia, is known for its unique culture, advanced technology, and historical heritage.
 - [Massachusetts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#massachusetts)
-The stone circles in Japan, featuring identically positioned sun-dial constructions in both sets, suggest a sophisticated ancient understanding of astronomy through their alignment with celestial movements.
 - [Wisconsin](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#wisconsin)
-The origins and purposes of ancient stone circles in North America, such as those found in New England, remain mysterious and subject to debate over whether they resulted from transoceanic diffusion or independent invention, with some suggesting possible astronomical alignments.
 - [New Mexico](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#new-mexico)
-Michigan, a state in the Great Lakes region of the United States, is known for its extensive freshwater coastline and significant automotive industry.
 - [South and Central America](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#south-and-central-america)
-A large stone circle on Beaver Island, potentially built by ancient sun worshippers, is theorized to have calendrical purposes and possible astronomical alignments, underscoring its cultural importance.
 - [Honduras](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#honduras)
-Stone circles discovered in Iowa have prompted archaeologists to consider their potential ceremonial significance, challenging the common assumption that they were merely used for practical purposes such as anchoring tents.
 - [Argentina](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#argentina)
-New Mexico is a state in the southwestern region of the United States, known for its diverse culture, desert landscapes, and rich historical heritage.
 - [Peru](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#peru)
-A stone circle featuring upright stones in a square formation and a broad stone altar-like structure has been discovered in Socorro County, exhibiting a notable inner circle that has yet to receive extensive scholarly examination.
 - [Africa](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#africa)
-Zodiac Ridge in Arizona is a circular arrangement of over 800 granitic stones, approximately 40 meters in diameter, featuring a central east-west aligned group of larger stones that may hold astronomical importance.
 - [Kenya](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#kenya)
-Thousands of ancient "sleeping circles," attributed to the San Dieguito culture, are found in southern California and vary in shape while being only a few inches in diameter.
 - [Oceania](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#oceania)
-A 15-meter diameter stone circle located in the Santa Cruz Mountains features two stones aligned with the sunrise on the winter solstice, with its age unspecified amidst now-forested surroundings.
 - [Tonga](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#tonga)
-Ancient cairns and stone circles found on Vancouver Island, referred to by local Indians as belonging to the "old people," may be remnants of ancient dwellings.
 - [Easter Island](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#easter-island)
-Please provide the text to summarize.
 - [Medicine Wheels](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#medicine-wheels)
-From Quebec to Yemen, ancient stone circles and megalithic structures showcase diverse cultural significances, astronomical alignments, and construction techniques across various regions and time periods.
 - [Anomaly Evaluation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomaly-evaluation)
-Stone circles, found in diverse locations such as Arabia, Tongareva, and Easter Island, exhibit varied origins and purposes, with those on Easter Island potentially used for ceremonial celestial observations.
 - [Possible Explanations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-explanations)
-While Stonehenge's design hints at potential Neolithic eclipse prediction capabilities, suggesting advanced intellectual sophistication, many archaeologists remain skeptical due to insufficient astronomical alignments and the lack of written records.
 - [Similar and Related Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#similar-and-related-phenomena)
-The diverse structural interpretations of Stonehenge and technical objections to its alignment accuracy challenge the theory that it served primarily as an eclipse predictor.
 - [General Observations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#general-observations)
-Skepticism surrounds the notion that Neolithic cultures could predict eclipses, yet Stonehenge's unique latitude and its alignment with astronomical features continue to fascinate scholars as either an astounding coincidence or an intentional design for eclipse prediction.
 - [China Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#china-anomalies)
-The precise alignment of stones at Stonehenge indicates either a remarkable coincidence or an intentional design by skilled Neolithic astronomers, showcasing their impressive observational capabilities. 
-
-(Note: The title "Did the French Build Stonehenge?" seems to be a separate element and wasn't reflected in the content provided for summarization. Therefore, it was not included in the summary.)
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies)
-The text explores various theories and findings related to ancient megalithic structures and calendar sites across different regions, suggesting sophisticated astronomical knowledge and possible cross-cultural influences among ancient civilizations.
 - [Anomalies in Burnt Rock Mounds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-burnt-rock-mounds)
-The El Mollar site in Argentina features intricately carved standing stones with significant solar and lunar alignments, offering mysteries about their ancient builders and historical uses.
 - [Anomalies in Fused Forts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-fused-forts)
-The Incas in Peru used pillars, some of which can still be seen near Lake Titicaca, to mark seasonal changes, particularly the summer solstices, as recorded by Spanish chronicles.
 - [Anomalies in Kitchen Middens](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-kitchen-middens)
-Abundant megalithic calendar sites across Sub-Saharan Africa suggest that their purposes extend beyond astronomical functions, reflecting deep cultural and traditional significance.
 - [Anomalies in Conical Piles](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-conical-piles)
-The Namoratunga site in northwestern Kenya, featuring basalt pillars aligned with stars dating back to around 300 B.C., demonstrates the advanced astronomical knowledge of its ancient inhabitants.
 - [Anomalies in Cairn Alignments](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-cairn-alignments)
-Polynesian cultures in Oceania, such as those in Tonga and Easter Island, integrate astronomical symbolism into their practices, exemplified by structures like the Haamonga trilithon and the Orongo pits, to reflect their cultural identity and calendar systems.
 - [Anomalies in Submerged Cairns](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-submerged-cairns)
-The Haamonga trilithon in Tonga, with its surrounding stones, serves calendrical functions, highlighting the importance of such structures in Polynesian culture and their possible links to ancient astronomical practices.
 - [Anomalies in Cairn Complexes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-cairn-complexes)
-Easter Island's Orongo site features meticulously arranged holes for astronomical observations, while the limited historical records of medicine wheels, with the earliest known reference dating back to 1903, suggest a神秘的起源和功能尚待发现。 
-
-(Note: The last part "神秘的起源和功能尚待发现" means "mysterious origins and functions await discovery," which might not be directly from the text but is inferred as a summary of the speculative nature mentioned regarding the medicine wheels.)
-
-For a more direct translation focusing on the summary without inference:
-
-Easter Island's Orongo site features meticulously arranged holes for astronomical observations, while the earliest known reference to medicine wheels dates back to 1903, indicating a possible underdocumentation of their historical significance and function.
 - [Anomalies in Ring Cairns](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-ring-cairns)
-Thor Heyerdahl discovered four astronomically aligned holes at the Orongo site on Easter Island, indicating the ancient inhabitants' sophisticated methods for astrological observations.
 - [Earthen Mounds MSM5](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#earthen-mounds-msm5)
-Medicine wheels, with their varied designs, geographical distribution, and potential astronomical alignments, present a complex puzzle of historical and cultural significance that is largely speculative due to limited records and modern cultural disconnect.
 - [Mesoamerica](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mesoamerica)
-Contemporary skepticism towards the astronomical alignments of medicine wheels coexists with speculative suggestions of transatlantic cultural connections, while woodhenges mostly served structural rather than observational purposes, except for the notable American woodhenge at Cahokia, Illinois.
 - [South America](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#south-america)
-Though American and British woodhenges share some similarities, their purposes and the up to 3,000-year temporal gap between them suggest they do not indicate early cultural diffusion across the Atlantic.
 - [Europe](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#europe)
-Woodhenges, potentially predating and serving as precursors to stone circles, were mostly functional structures rather than astronomical observatories, indicating they are not exceptional in their purpose.
 - [Chapter 1: Anomalies of Saint Michel](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-1-anomalies-of-saint-michel)
-The original British Woodhenge, aligned with the summer solstice, was likely a timber temple or meeting hall rather than an astronomical observatory due to its structural design that included posts supporting a roof which hindered sky observations.
 - [Chapter 2: Asia Minor Burial Mounds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-2-asia-minor-burial-mounds)
-The wooden structures, such as the woodhenge at Cahokia in Illinois, were independently invented calendrical tools in the New World, lacking the sophistication to suggest trans-Atlantic influences.
 - [Chapter 3: Mounds in China](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-3-mounds-in-china)
-The similarities between American Indian and British timber structures are likely due to independent invention rather than cultural exchange, while the consistent nature of woodhenge structures minimizes the need for in-depth analysis, shifting focus to curious wooden structures in Lop Nur, China.
 - [Chapter 4: Japanese Imperial Graves](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-4-japanese-imperial-graves)
-Curious wooden structures with concentric rings of short wooden pillars found in the Lop Nur Desert are related to, but not classified as, woodhenges, while Muscle Shoals' name derives from the fresh-water mussel shells left by indigenous peoples, highlighting the area's historical use of local resources.
 - [Chapter 5: Polynesian Mounds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-5-polynesian-mounds)
-The enormous shell mound at San Pablo, spanning nearly a mile long and over 20 feet thick, alongside the massive shell deposits in the Aleutians, highlights the extensive cultural and social practices of indigenous groups in utilizing and burying shells.
 - [Chapter 6: Tonga's Pigeon-Snaring Mounds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-6-tongas-pigeon-snaring-mounds)
-Shell deposits in the Aleutians and sambaquis along Brazil's coast provide insights into ancient diets and cultural practices through their layers of shells, animal bones, and human burials accumulated over millennia.
 - [Chapter 7: The Giant Grave in the Caroline Islands](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-7-the-giant-grave-in-the-caroline-islands)
-Studies highlight the remarkable engineering skills of ancient cultures through the construction of towering sambaquis in South America and the complex shell structures of Florida's Shell Keys.
 - [Chapter 8: Hawaii's Kukii Hill](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-8-hawaiis-kukii-hill)
-This collection highlights curious cairns with unusual sizes and arrangements that serve practical purposes but also leave their origins and functions open to speculation.
 - [Mound Lines and Arrays](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mound-lines-and-arrays)
-Notable stone structures in North America, such as the towering cairns in New England's Indian cemeteries, Ohio's once 50-foot high Great Stone Mound, and an alleged 200-foot-high cairn near Fort Laramie, highlight the significant construction capabilities and cultural importance of indigenous peoples.
 - [Enigmatic Mound Complexes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#enigmatic-mound-complexes)
-The text discusses various cairns around the world, highlighting their unique characteristics, such as the potential enormity of a cairn near Fort Laramie, the mysterious Knocknarea cairn in Ireland, the architecturally complex Barnenez cairn in Brittany, and the culturally significant effigy cairns in North America.
 - [Mound Complexes MSM7](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mound-complexes-msm7)
-Burnt rock mounds in Texas, theorized to be ancient kitchen middens, feature densely packed angular rock fragments and suggest significant cultural and utilitarian practices among past societies.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies)
-Various archaeological anomalies, including Scottish fused forts, kitchen middens in Botswana, conical piles in Belize, solar-aligned cairn lines in Massachusetts, submerged "pyramids" in Wisconsin, and complex cairn formations, present intriguing mysteries regarding their origins, purposes, and methods of construction.
 - [MSO4 Curious Arrays and Groupings of Stone or Wooden Columns](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso4-curious-arrays-and-groupings-of-stone-or-wooden-columns)
-Several sites across the northeastern United States and California feature intricate and numerous cairn complexes, suggesting deliberate construction and possible ceremonial significance.
 - [MSO5 Latte Stones](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso5-latte-stones)
-The ring cairns at Clava, Scotland, consist of fifty structures distinguished by their large size, specific orientation with south-southwest facing entrances, and an ambiguous purpose that remains a mystery alongside their connection to nearby passage graves and stone circles.
 - [MSO6 Delhi Iron Pillar](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso6-delhi-iron-pillar)
-The fluted pyramid at La Venta, constructed from clay with an unknown purpose, has revealed a possible underlying platform through magnetometer surveys, adding to the mysteries surrounding Olmec civilization practices.
 - [MSO7 New Caledonia Cylinders](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso7-new-caledonia-cylinders)
-Recent discoveries at Monks Mound challenge previous construction theories, while the uniquely aligned Akapana and the artifact-rich Etowah Mound each offer insights into the advanced architectural and cultural practices of their respective civilizations.
 - [MSO8 Unusual Gnomons](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso8-unusual-gnomons)
-Cuicuilco's mysterious construction under a lava flow challenges established timelines, while Cholula stands as a vast, human-built earthen mound containing extensive tunnels that reflect a mix of religious influences over time.
 - [MSO9 Stone Chairs](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso9-stone-chairs)
-The texts describe how San Lorenzo's large mound reflects the Olmec culture's advanced earthwork techniques, while El Panecillo, a hill in Quito, raises questions about its possible artificial construction due to its unusual formation.
 - [MSO10 Large Stone Jars](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso10-large-stone-jars)
-Silbury Hill, the largest human-made mound in Europe, challenges conventional notions of kinship burial mounds due to its lack of burials, intricate engineering, and substantial labor investment, suggesting a deeper cultural significance.
 - [Anomalies in Stone Jars and Configured Rocks](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-stone-jars-and-configured-rocks)
-The Tumulus Saint Michel, a burial site with small chambers indicative of ancestor veneration, stands as part of Brittany's megalithic complex, while other notable mounds like the Tomb of Alyattes and Midas Mound in Asia Minor and terraced structures in China showcase diverse cultural approaches to monumental burial sites across ancient civilizations.
 - [X0. Introduction](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x0-introduction)
-The Chou period's sacrificial altar, dating from around 700-500 B.C., features large pyramidal mounds measuring up to 250 meters square that served as princely graves, highlighting the architectural sophistication of ancient China.
 - [X1. General observations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x1-general-observations)
-Japanese pyramidal earthen mounds, similar in structure and dimensions to those in China, feature large double mounds with surrounding moats and ditches, echoing the scale and design of British henges.
 - [The Gateway of the Sun](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-gateway-of-the-sun)
-The Pulemelei mound, a notable part of Samoa's ancient ceremonial centers, stands as a significant geometric structure among the star-shaped mounds, highlighting the communal importance of these sites.
 - [MSR ANCIENT ROADS AND BRIDGES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msr-ancient-roads-and-bridges)
-Tonga's indigenous communities crafted large, strategically placed mounds for pigeon hunting, featuring beehive-shaped concealing structures, while an enormous mound in the Caroline Islands, known as the Giant Grave, is steeped in local mythology about a buried giant.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies)
-This text explores various ancient mound structures across different regions, examining their potential purposes, construction techniques, and cultural significance, while highlighting the mysteries surrounding their origins and uses.
 - [Chaco Canyon “Roads”](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chaco-canyon-roads)
-The cultural disconnection between Wheeler and Watson Brake is highlighted by their significantly different artifacts, while the Hanukkah Mound in Ohio, though its existence is debated, is suggested to resemble a nine-branched menorah, adding a layer of cultural intrigue to ancient mound complexes.
 - [The Bimini “Road”](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-bimini-road)
-The Portsmouth Works complex is believed to reflect celestial bodies in its design, while the Mosier Mounds in Oregon consist of enigmatic rock walls and lithic structures that likely held ritualistic or practical importance for their creators.
 - [The Bimini “Road”](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-bimini-road)
-Various theories, including human intervention, natural weathering, and geological anomalies, attempt to explain the origins of holed boulders, cam-wedged shafts, crystal-cavity formations, and Costa Rican stone spheres, but many questions remain unanswered.
 - [Other "Biminis"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#other-biminis)
-The precise purpose and methods behind the creation of the stone spheres remain mysterious, with natural geological processes proposed as one potential explanation despite the spheres' remarkable sphericity.
 - [The Maltese “Cart Ruts”](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-maltese-cart-ruts)
-A nearly perfect stone sphere discovered in North Dakota by a construction crew has raised questions about its origin, as its shape suggests artificial creation but lacks nearby human artifacts to confirm it.
 - [MSR5 Ancient Bridges](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msr5-ancient-bridges)
-Mysterious carved stone columns found at great ocean depths raise questions about their origin, age, and creators, leaving more puzzles unsolved.
 - [MSW WALLS, EMBANKMENTS, DITCHES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msw-walls-embankments-ditches)
-Mysterious arrays of large stone or wooden columns in South America puzzle researchers, as their exact structural or ornamental purposes remain unclear due to limited information.
 - [MSW1 Notable Linear Earthworks, a Survey](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msw1-notable-linear-earthworks-a-survey)
-Tall limestone pillars topped with hemispherical carved stones, found mostly in the Mariana Islands, were simply used to support houses, according to scientific consensus, while the Rust-Free Iron Pillar stands as another notable architectural feature.
 - [Linear Earthworks](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#linear-earthworks)
-The Delhi Iron Pillar, dating from 300-400 AD, is renowned for its rust-resistant properties, which are attributed to its metallurgical characteristics rather than advanced ancient forging techniques, while curious cement-like cylinders in New Caledonia suggest earlier human presence and use of cement, Machu Picchu's intihuatana stone poses questions about Incan astronomical methods, and mysterious stone chairs found in various locations hint at unknown purposes in ancient cultures.
 - [Data Evaluation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#data-evaluation)
-The text highlights the cultural importance of an unspecified element, which significantly influences societal practices and traditions. 
-
-(Note: Since the original text provided only the heading "Cultural Importance" without specific details, the summary is formulated based on a general interpretation of what such a topic might cover.)
 - [Anomaly Evaluation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomaly-evaluation)
-The text highlights the significance of cultural importance.
 - [Possible Explanations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-explanations)
-Stone chairs found in isolated areas might have held significant cultural or ritualistic importance in ancient societies.
 - [Similar and Related Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#similar-and-related-phenomena)
-The MSO10 Large Stone Jars are notable archaeological artifacts found in Laos, believed to be used for burial purposes by an ancient civilization.
 - [North America](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#north-america)
-The widespread presence of similar large stone jars across distant sites indicates a cultural connection among ancient peoples.
 - [New York (Ramapo)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#new-york-ramapo)
-The text explores the distinction between independent invention and cultural propagation in the development of similar ideas or technologies across different cultures.
 - [West Virginia (Mt. Carbon)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#west-virginia-mt-carbon)
-The debate over whether stone jars are due to independent invention or a widespread cultural practice highlights intriguing similarities that remain more curious than conclusive as anomalies.
 - [Idaho](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#idaho)
-The stone jars in Laos, discovered by French archaeologist M. Colani in the 1930s, are large funerary urns made from local softer stones and can weigh up to fourteen metric tons.
 - [Labrador](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#labrador)
-Large stone jars similar to those found in Laos were discovered in Celebes alongside large stone statues, with both their origins and purposes remaining mysterious.
 - [Greenland](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#greenland)
-Explorers discovered large stone jars in northeastern India's North Cachar Hills in 1929, featuring variations in craftsmanship that include cavities in unworked boulders, similar to some found in Laos and Celebes.
 - [California](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#california)
-Curious, vat-like pits over 5 feet deep and 34 feet in diameter found on Easter Island contribute to discussions about cultural diffusion or independent invention among ancient civilizations.
 - [Point Reyes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#point-reyes)
-The Sayhuiti site in Peru boasts a mysterious Great Monolith featuring intricate carvings that may represent a scaled-down version of an unknown location,增添了一丝失落城市的魅力，其用途至今仍是个谜。 
-
-(Note: The last part "增添了一丝失落城市的魅力，其用途至今仍是个谜。" means "adding an air of allure associated with lost cities, with its purpose remaining a mystery to this day." It was added to maintain the flow and meaning in Chinese.) 
-
-If a strictly one-sentence English summary is preferred:
-
-The Sayhuiti site in Peru boasts a mysterious Great Monolith featuring intricate carvings that may represent a scaled-down version of an unknown location, adding an air of allure associated with lost cities, with its purpose remaining a mystery to this day.
 - [Mesoamerica](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mesoamerica)
-Explorers discovered large stone jars in northeastern India's North Cachar Hills in 1929, featuring variations in craftsmanship that include cavities in unworked boulders, similar to some found in Laos and Celebes.
 - [Mexico](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mexico)
-Please provide the text to summarize.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies)
-Various ancient sites across the world, including Easter Island, Peru, Colombia, Tonga, and Bolivia, feature uniquely configured rocks and carvings that offer intriguing insights into the cultural practices, astronomical knowledge, and advanced craftsmanship of their creators.
 - [MSW3 Precision-Fit Stone Walls](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msw3-precision-fit-stone-walls)
-The Gateway of the Sun, a monolithic structure renowned for its precise stonework and exceptional craftsmanship, presents structural anomalies like a broken top that incline its doorway sides towards each other, raising questions about its historical integrity.
 - [MSW4 Cyclopean Walls](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msw4-cyclopean-walls)
-The Gateway's construction showcases an extraordinary precision in stone cutting that outmatches modern capabilities, while ancient civilizations like the Romans and Incas built extensive road systems highlighting impressive engineering feats.
 - [MSW5 Deceptive Natural Walls](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msw5-deceptive-natural-walls)
-Ancient road constructions, including macadamized roads in Virginia, Mayan sacbeob, and North American pathways, showcase sophisticated engineering skills from early civilizations, with possible influences diffusing across continents.
 - [Deceptive Natural Walls](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#deceptive-natural-walls)
-The ancient civilizations of the Maya, Incas, and early Britons demonstrated remarkable engineering skills in constructing extensive road networks, adapting to diverse geographical challenges and showing advanced understanding in road construction techniques.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies)
-Ancient road systems, ranging from Europe's Sweet Track to Chaco Canyon's purposefully engineered pathways, showcase varying degrees of technological sophistication and societal complexity, often raising questions about their specific purposes and the civilizations that constructed them.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies)
-The Bimini Road, a submerged stone formation off the coast of the Bahamas, sparks debate over whether it is a natural geological curiosity or an artificial construct created by ancient civilizations, marked by its straight alignment, unusual geometric features, and cultural significance.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies)
-The text discusses various ancient walls, earthworks, and stone structures found globally, highlighting their diverse purposes, construction techniques, and the mysteries surrounding their origins and uses, while also noting the challenges in determining their exact functions and the cultural significance attributed to them.
-
-
-# ANCIENT INFRASTRUCTURE
+# ANCIENT INFRASTRUCTURE [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Remarkable Roads**  
   The roads from ancient times display extraordinary engineering skills that challenge current understandings of early civilization capabilities. Some of these roads extend over vast distances and connect significant cultural sites, indicating a level of sophistication that warrants further investigation.
@@ -398,7 +196,7 @@ The text discusses various ancient walls, earthworks, and stone structures found
 
 - **Stone Circles**  
   Stone circles exhibit patterns that often hold astronomical significance, indicating that ancient peoples possessed sophisticated cosmological knowledge. Their persistent appearance across various cultures suggests a shared understanding or practice that transcends geographic boundaries.
-# Anomalies
+# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Apparent lack of purpose**  
   This anomaly refers to structures whose functions and intentions remain unclear. Such properties typically receive only modest anomaly ratings as they do not challenge established knowledge.
@@ -414,22 +212,22 @@ The text discusses various ancient walls, earthworks, and stone structures found
 
 - **Vastly superior civilizations preceded our own**  
   The idea of advanced civilizations, such as Atlantis or the Golden Age, challenges contemporary understandings of societal development. If substantiated, this would lead to a reevaluation of historical human progress.
-# MSC3 Tunnel-Well Systems
+# MSC3 Tunnel-Well Systems [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Peruvian Qanats**: The appearance of virtually identical tunnel-well technology in Peru before the Spanish Conquest is potentially highly anomalous. This challenges traditional narratives about technological diffusion between the Old World and the New World.
 
 - **Aborted Copais Tunnel-Well System**: The ancient Greek engineers' efforts to control flooding at Lake Copais led to an unfinished 14-mile tunnel system, which was ultimately not completed despite significant labor. These false starts in construction raise intriguing questions about the challenges faced by ancient engineers in realizing such ambitious projects.
 
-# MSC4 Water Condensers
+# MSC4 Water Condensers [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Ancient Greek Water-Catching Pyramids**: The construction of stone pyramids by ancient Greeks for water condensation is unusual but not entirely unexplained. Despite limited evidence supporting this phenomenon, it showcases the ingenuity of early engineering to harness natural resources in arid climates.
 
-# MSC5 Ancient Irrigation Systems
+# MSC5 Ancient Irrigation Systems [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Michigan's Garden Beds**: These prehistoric "garden beds" in Michigan are notable for their unique geometrical design, differing from common agricultural practices. The complete obliteration of their remains due to modern activities adds to the mystery of their existence and functionality.
 
 - **Hohokam Canals**: The sophisticated irrigation infrastructure created by the Hohokam Indians in the Salt River Valley serves as an exceptional example of ancient hydraulic engineering. Despite their current erasure, the recorded extent of over 500 kilometers of canals demonstrates the impressive scale of this civilization's agricultural capabilities.
-# Anomalies in Ancient Agricultural Engineering
+# Anomalies in Ancient Agricultural Engineering [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Hohokam Irrigation Canals**
   The Hohokam civilization in Arizona is recognized for its extensive canal-digging efforts, which were unparalleled among Native Americans north of Mexico. Their ability to coordinate such a large-scale irrigation system illustrates an impressive level of leadership and organization.
@@ -457,13 +255,13 @@ The text discusses various ancient walls, earthworks, and stone structures found
 
 - **Sadd-el-Kafara Dam in Egypt**
   The Sadd-el-Kafara, recognized as potentially the oldest dam in the world, experienced catastrophic failure soon after its construction. This structure's significant dimensions and complex design indicate an advanced level of engineering, but its downfall led to a long hiatus in Egyptian dam-building efforts.
-# X2. Mesoamerica
+# X2. Mesoamerica [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Chaltunes (subterranean structures) in Mexico**: Believed to be primarily for water storage, these unique features were characteristic of the Yucatan region. They highlight the innovative approaches of the ancient inhabitants to manage water resources in a challenging environment.
 
 - **Water collection at Tikal, Guatemala**: Tikal's inhabitants constructed an extensive system of water-collection and storage structures, relying solely on rainwater throughout the year. Their sophisticated planning included five different types of reservoirs, capable of holding a substantial annual water supply.
 
-# X3. Asia
+# X3. Asia [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Great Bath at Mohenjo-Daro, Pakistan**: Often interpreted as a bath rather than a cistern, the Great Bath's engineering was a remarkable feat for its time. Though it wasn't a reservoir, its sophisticated construction and purpose suggest significant cultural importance.
 
@@ -471,12 +269,12 @@ The text discusses various ancient walls, earthworks, and stone structures found
 
 - **Ancient Tanks in Sri Lanka**: The "tanks" of Sri Lanka, much larger than others mentioned, were primarily for agricultural irrigation rather than domestic use. Their extensive construction involved simple but large earthen embankments and evidences a dedication to managing water resources on a grand scale.
 
-# X4. Africa
+# X4. Africa [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Osireion at Abydos, Egypt**: Initially thought to be a reservoir, further excavations revealed the Osireion's complexity, showcasing structures that served functions beyond mere water storage. Its intricate design indicates that it was an important site for the ancient Egyptians, challenging the traditional understanding of reservoir architecture.
 
 - **Strabo’s exploration of Abydos**: Strabo's observation of an underground structure later excavated by Naville emphasized its significance as a water-storage facility. The realization that such a significant architectural form originated from a water works instead of temples or tombs highlights the advanced understanding of hydraulics in ancient Egypt.
-# Anomalies
+# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Tumi Chucua Earthworks**  
 The ancient settlement of Tumi Chucua showcases earthworks and ditches constructed by its inhabitants. These earthworks served multiple purposes, including navigation by canoe to a nearby river, reminiscent of modern canal systems.
@@ -501,7 +299,7 @@ A geological survey in 1975 uncovered two abandoned waterways in the Nile delta,
 
 - **Ancient Maori Canals**  
 In New Zealand, ancient Maori constructed canal systems near the Wairau River for efficient transportation. Noteworthy is a large canal that spans over four miles, highlighting the industrious nature and engineering skills of the Maori civilization.
-# Enigmatic Menhirs
+# Enigmatic Menhirs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Purpose of Erecting Menhirs**: An anomaly arises from questioning why megalithic peoples expended considerable resources on erecting large menhirs. The effort to transport and erect stones necessitated significant physical power and organization, which seems unusual given their size.
 
@@ -513,7 +311,7 @@ In New Zealand, ancient Maori constructed canal systems near the Wairau River fo
 
 - **Transportation of Multi-Ton Menhirs**: Questions arise regarding how these massive menhirs were transported for miles and erected at their sites. Transporting such monumental objects challenges our understanding of ancient technology and capabilities.
 
-# Four Remarkable Menhirs
+# Four Remarkable Menhirs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Er Grah's Prostrate State**: Er Grah, once the largest menhir in Brittany, now lies in four segments, raising anomalies concerning its original use and what led to its disassembly. The date when it fell and the reasons behind its current prostrate condition remain elusive.
 
@@ -525,7 +323,7 @@ In New Zealand, ancient Maori constructed canal systems near the Wairau River fo
 
 - **Rudston Monolith's Historical Context**: The Rudston monolith, the tallest in Britain, serves as a reminder of how megalithic structures extend beyond Brittany. Its existence challenges the conventions of historical monument construction, raising questions about geographic and cultural connections.
 
-# Transportation of Very Large Menhirs
+# Transportation of Very Large Menhirs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Incredible Human Efforts for Massive Stones**: The accomplishment of moving menhirs such as Er Grah and others raises anomalies on the capabilities of ancient builders without modern tools. Comparisons to modern attempts at moving massive structures highlight the ingenuity and effort required from ancient peoples.
 
@@ -533,12 +331,12 @@ In New Zealand, ancient Maori constructed canal systems near the Wairau River fo
 
 - **Construction Techniques of Ancient Builders**: Various methods involving sledges and human power indicate that, rather than supernatural forces, ancient human engineering was pivotal. The successful raising of large menhirs using simple tools and collective effort differentiates between legend and reality.
 
-# Probable Purposes of Menhirs
+# Probable Purposes of Menhirs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Diverse Functions of Menhirs**: The potential uses of menhirs for commemoration, navigation, or astronomical purposes indicate a blend of cultural significance. Understanding which purposes were prioritized by ancient builders remains a fascinating anomaly.
 
 - **Intelligence Implications**: If menhirs had astronomical functions, that implies a high level of prehistoric intelligence. Such a concept deviates from the beliefs surrounding the capabilities of early civilizations, posing interesting questions about historical assessments.
-# Menhirs in Unexpected Places
+# Menhirs in Unexpected Places [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1: Monolith in Male Kula**  
   At Male Kula in New Guinea, a 12-foot high monolith stands isolated in the tropical jungle. Its origin, age, and purpose remain a mystery, which adds to its intrigue as an anomaly.
@@ -567,7 +365,7 @@ In "Bronze Age America," a striking photograph shows a collection of phallic men
 - **Anomaly 9: Standing Stones in North Carolina**  
 Three towering standing stones in western North Carolina, with the tallest reaching approximately 15 feet, could easily be mistaken as megalithic if found elsewhere. The isolation of these stones, however, raises inquiries about their natural origins versus human intervention.
 
-# Er Grah as a Foresight
+# Er Grah as a Foresight [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 10: Giant Menhir Er Grah**  
   The massive Er Grah menhir in Brittany is significantly larger than necessary for typical astronomical alignments, prompting speculations about its purpose. A. Thom proposes it may have been used as a foresight in an astronomical observatory, challenging conventional understandings of megalithic capabilities.
@@ -575,32 +373,32 @@ Three towering standing stones in western North Carolina, with the tallest reach
 - **Anomaly 11: Implications of Er Grah’s Size**  
   Er Grah’s height suggests advanced planning and insight into the lunar cycle, indicating megalith builders possessed knowledge that modern researchers may underestimate. If A. Thom's theory holds, it suggests ancient societies were capable of organizing large-scale scientific projects with considerable foresight.
 
-# Dolmens
+# Dolmens [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 12: Dolmen-Like Structures in North America**  
   The existence of dolmen-like structures in northeastern North America raises questions regarding their origins, as they appear far from the cultural epicenter of megalithism in Western Europe. The ambiguity surrounding their construction remains due to the absence of artifacts and organic materials for dating.
 
 - **Anomaly 13: Potential Evidence of Ancient Voyages**  
   If North American dolmens were indeed built by ancient humans, it may imply long-distance travels, suggesting pre-Viking contacts with the New World. This consideration of anomalous connection underscores the need to reevaluate misconceptions regarding ancient human capabilities and interactions.
-# X1. Dolmens in Asia and Oceania
+# X1. Dolmens in Asia and Oceania [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **North American "dolmens":** There are dolmen-like structures in North America, particularly in the northeast, which raises questions about their origins. If these are human-made, it could suggest pre-Viking contacts with European peoples or an independent cultural development.
 
 - **True dolmens distribution:** Archeologists suggest that true dolmens, which are human-built, are found beyond western Europe. This includes parts of North Africa, the Levant, Asia, and some Pacific Islands, where they are often younger and reflect a potential human urge for dolmen construction.
 
-# Jordan
+# Jordan [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Damiya dolmens:** Jordan's dolmens, particularly in Damiya, number around two hundred and are notably smaller than those in western Europe. While these structures are likely grave sites, there are no associated artifacts to confirm this.
 
-# Northern Caucasus
+# Northern Caucasus [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Sophisticated dolmens:** Over 1,500 dolmens have been counted in the Caucasus, showcasing a high degree of sophistication in their construction. They often include Bronze Age tools and are well-fitted with precision, hinting they might have served as shelters for nomadic herders.
 
-# India
+# India [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Khasi Hills structures:** In India's Khasi Hills, dolmen-like structures were constructed relatively recently, even continuing into the nineteenth century. These arrangements serve as monuments to the dead, highlighting a diversity in the purposes of dolmen constructions.
 
-# X2. Purported dolmens in North America
+# X2. Purported dolmens in North America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cromlech type:** The so-called dolmens in North America are primarily of the cromlech variety, with rounded capstones that resemble natural glacial erratics rather than traditional flat dolmens. Most of these structures appear to lack the definitive human-created characteristics, leading some to view them as natural formations.
 
@@ -613,7 +411,7 @@ Three towering standing stones in western North Carolina, with the tallest reach
 - **Melville Peninsula boulders:** On the Melville Peninsula in Arctic Canada, large boulders are found resting on smaller stones, with the origin and placement of these structures remaining a mystery. There is speculation that they may have been elevated by primitive peoples, though evidence supporting this theory is scarce.
 
 - **Colorado dolmen with inscription:** A notable dolmen in Colorado features a capstone with a purported inscription from the Celtiberian culture, suggesting an advanced understanding of dolmen construction and possible ancient trans-oceanic connections. This structure piques interest due to its potential historical significance, although mainstream archaeology has yet to verify the claims regarding its origins.
-# MSD5 Rocking Stones
+# MSD5 Rocking Stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Existence of multi-ton boulders**: Multi-ton boulders are delicately balanced so they rock back and forth with a gentle shove. Most of these rocking stones are located in areas that were once covered by Pleistocene ice sheets.
 
 - **Absence from professional publications**: While British and American science journals of the 1700s and 1800s documented numerous rocking stones, they are nearly absent in the literature of the 1900s. This has led to discussions about these phenomena largely being limited to amateur archeologists' works.
@@ -634,47 +432,47 @@ Three towering standing stones in western North Carolina, with the tallest reach
 
 - **Distribution of rocking stones**: The prevalence of rocking stones in specific regions, particularly in Britain and parts of North America, draws attention to the cultural significance attributed to them. This distribution pattern suggests a possible historical connection between various ancient societies.
 
-# X0. Introduction
+# X0. Introduction [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Definition and fascination with rocking stones**: Rocking stones are described as large, precisely balanced boulders that can move with minimal force, engendering a sense of wonder. The supernatural implications surrounding the construction and function of these stones continue to captivate people's interests.
 
-# X1. Possible origins of rocking stones
+# X1. Possible origins of rocking stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Natural origins debated**: The argument exists that many rocking stones are merely products of natural geological processes, particularly those formed by glacial activity. Still, there is a potential for human interaction, as smaller stones may have been removed to allow for rocking motion.
 
-# X2. Distribution of rocking stones
+# X2. Distribution of rocking stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Geographic concentration**: Rocking stones are predominantly found in Britain and the Northeastern United States, linked by their glacial pasts. Despite this, regions like Canada and the Rocky Mountains lack documented occurrences, suggesting a need for further exploration.
 
-# X3. Humans and rocking stones
+# X3. Humans and rocking stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Cultural significance of rocking stones**: The association of rocking stones with ancient rituals suggests they held significance for megalith builders, who likely revered these formations. The presence of artifacts like carved chairs and basins near some sites hints at their usage in ceremonial contexts.
 
-# X4. Remarkable rocking stones
+# X4. Remarkable rocking stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Unique properties of specific rocking stones**: Stones like The Drum Rock in Rhode Island and the oscillating Petra in Greece illustrate the fascinating characteristics of rocking stones. The strange properties of these rock formations provoke curiosity and speculation about their origins and purpose.
-# MSE1 Lines of Pits
+# MSE1 Lines of Pits [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Pit Alignments**: Hundreds, even thousands, of empty pits constitute this enigmatic phenomenon. These pits are aligned over distances ranging from a few hundred feet to many miles, raising numerous questions about their purpose.
 
 - **Neglected by Archeology**: Pit alignments, even those of great extent, have been largely ignored by archeologists. Consequently, most information about them is derived from popular sources rather than scholarly research.
 
 - **Unconvincing Explanations**: Several explanations for the existence of pit alignments have been proposed, but none convincingly account for the grander examples of the phenomenon. Despite the neglect by professionals, pit alignments are still considered among the most perplexing of ancient engineering structures.
 
-# X1. North America
+# X1. North America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Oregon Pits**: An enigmatic system of pits near the Sandy River suggests they were the work of a race more ancient than the current Indigenous peoples. These shafts are arranged in a straight line, with their longest axes perpendicular to the line of excavations.
 
 - **California Fish Traps**: The depressions in the Coachella Valley, nicknamed "Ancient Fish Traps," lack archeological evidence to support their purported purpose. Various hypotheses about the pits being remnants of Indian dwellings or hunting blinds have been met with skepticism due to their arrangement and size variation.
 
-# X2. South America
+# X2. South America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Peruvian Pockmarks**: A regimented formation of "pockmarks" stretching for miles near the Pisco Valley remains largely uninvestigated by mainstream archeologists. Initial aerial surveys suggested they might be excavated graves, but further exploration raised more questions about their purpose.
 
 - **Cajamarquilla Holes**: A straight line of 209 holes near Lima pits their purpose in obscurity despite being cut into solid rock. The consistent characteristics and arrangement of these pits suggest significant effort was made in their construction, yet their function remains unknown.
 
-# X3. Europe
+# X3. Europe [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **British Pit Alignments**: Aerial archaeology has revealed bizarre pit alignments in Britain, with some measuring up to 3000 feet long. The date and purpose of these pits are unknown, though some hypotheses suggest they may relate to river navigation due to their positioning.
 
 - **Allerston and Ebberston Moors**: Ground surveys indicated troubling variations in spacing and shape among the pits, suggesting that they may have been the initial phase of trench construction. Some pits are considered remnants of habitation, yet their small size and linear arrangement complicate this interpretation.
 
-# MSE2 Puzzling Pits
+# MSE2 Puzzling Pits [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Uncertain Purposes**: Depressions etched into soil or rock for uncertain reasons highlight the ambiguity surrounding many pit structures. With diameters ranging from 200 feet down to mere inches, their depths are generally less than 20 feet, and their functions remain fiercely debated.
 
 - **General Disdain and Neglect**: Pits are often overlooked due to their mundane nature, resulting in a lack of authoritative studies and emphasis from archeologists. Consequently, many potential anomalies connected with these pits are left unexplored and poorly understood.
-# ANOMALIES
+# ANOMALIES [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Mortars**  
   Located near Salt Creek, these mortars average three feet in diameter and five to seven feet in depth. They are too large to be considered typical mortars or pot holes, leading to speculation about their actual use.
@@ -708,7 +506,7 @@ Three towering standing stones in western North Carolina, with the tallest reach
 
 - **Mystery Craters in Queensland (Australia)**  
   Discovered in the mid-1980s, these craters are thought to be at least 25 million years old and have sparked various theories regarding their origins, from natural formations to extraterrestrial activity. Initially dismissed as sinkholes, their unusual markings continue to baffle scientists and locals alike.
-# Anomalies
+# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Goshen Shaft-Tunnel Complex**  
 The age of the Goshen shaft-tunnel complex has been difficult to determine, with a stone disk recovered indicating it may date back about 5,000 years. This is puzzling since New England Indians are not known to have built such subterranean structures, raising questions about who could have built it during that time.
@@ -742,12 +540,12 @@ In Guatemala, a large tunnel system was explored, with side passages believed to
 
 - **South American Tunnel Networks**  
 In South America, rumors of vast subterranean tunnel networks persist, with claims these tunnels stretch hundreds of miles. Despite widespread belief among local populations, such structures are seldom acknowledged by mainstream archaeology.
-# The Chronicle of Akakor
+# The Chronicle of Akakor [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Tunnel Networks in South America**  
   E. von Daniken claims the existence of great tunnel networks in South America, but there is no professional literature confirming their reality. While natural caves exist, their extent is likely exaggerated.
 
-# Europe
+# Europe [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Dene Holes in Britain**  
   Hundreds of shafts leading to geometrically arranged chambers carved from chalk exist in Essex, Kent, and Durham, called "dene holes." Their builders and purposes remain subjects of debate among archeologists.
@@ -761,12 +559,12 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Ipswich Shafts**  
   Three deep, deliberately filled shafts were found near Ipswich, differing from dene holes as they were filled in complexly, suggesting a possible connection to the Oak Island "Money Pit." The meticulous filling and varied materials used in these shafts raise questions about their function.
 
-# France
+# France [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Gueriments in France**  
   Complexes of tunnels, galleries, and chambers, known as "gueriments," are found in France and resemble intricate ants' nests carved from solid chalk. Their construction methods and purposes are not well understood, adding to the mystery of these subterranean structures.
 
-# Italy
+# Italy [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Underworld Tunnel in Italy**  
   An underground river located in a tunnel found under a temple near the Isle of Capri closely resembles the legendary River Styx. The complex contains 290 yards of tunnels, presenting a striking version of the underworld described in Virgil's Aeneid.
@@ -774,7 +572,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Samos Tunnel**  
   The Samos tunnel, created under the direction of Eupalinus, is an engineering marvel, as its two ends joined almost perfectly despite being excavated from opposite sides of a hill. This remarkable feat raises questions about ancient survey methods used.
 
-# Middle East
+# Middle East [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Shaft at Tell Duweir**  
   A 90-foot deep shaft discovered at Tell Duweir demonstrates significant dimensions and craftsmanship, but its unfinished state leaves its purpose uncertain. Dating back to the Sixth Century B.C., it continues to intrigue archeologists.
@@ -785,24 +583,24 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Well near Shiraz**  
   A perfectly rectangular well found near Shiraz descends nearly 400 feet into the mountain without any masonry. The local tradition suggests that the three similar wells in the vicinity may be connected underground, but their exact functions remain elusive.
 
-# Asia
+# Asia [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Rock-cut Tunnels in India**  
   Elaborate rock-cut tunnels exist at Ellora, dating between A.D. 200 and 600, showcasing stunning architecture with rich sculptures. Curiously, the oldest examples from the Second Century B.C. appear highly advanced, lacking signs of progressive development.
 
-# Africa
+# Africa [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Campbell's Well**  
   Campbell's Well, located on the Giza plateau, is a blocked shaft about 100 feet deep featuring numerous tunnels and doors cut into solid rock. Its association with the legendary underground rooms beneath the pyramids contributes to its intrigue.
 
-# Oceania
+# Oceania [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Tunnels in Micronesia**  
   A rumored tunnel on the island of Paata is said to have been constructed before Japanese occupation, but no detailed information is available. This adds to the lore surrounding underground structures in the region.
 
 - **Easter Island Tunnels**  
   Tunnels and galleries near the Rano-Raraku quarry on Easter Island exhibit human handiwork, leading to speculations regarding their function. The features of these tunnels raise questions about their possible use as lookout posts or for solar observations.
-# Oak Island Shaft
+# Oak Island Shaft [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomalous Engineering**  
   The Oak Island "Money Pit" is a complex of a very deep shaft and tunnels that flood with seawater, representing an incredible engineering accomplishment. Even if constructed within the last few hundred years, it raises questions about the techniques and labor involved.
@@ -819,7 +617,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Tourist Destination Complications**  
   The site has transformed into a tourist attraction, complicating efforts for scientific studies due to advertising hype and sensationalism. Consequently, factual information may be submerged beneath layers of myth and speculation surrounding the Oak Island mystery.
 
-# Remarkable Ancient Mines and Quarries: A Survey
+# Remarkable Ancient Mines and Quarries: A Survey [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Surprising Dimensions**  
   Ancient mines and quarries exceeding expectations in size are noted, indicating that prehistoric cultures engaged in extensive mining activities. Their scale suggests not only a vast human effort but also potential societal implications regarding the need for these resources.
@@ -835,7 +633,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Ancient Worldwide Commerce**  
   The idea of a pre-Christian era worldwide commerce in metals based on the mining activities detected raises intriguing possibilities about early global interactions. This contrasts sharply with the mainstream understanding of isolated ancient cultures.
-# Chapter 1: Anomalies in Mining History
+# Chapter 1: Anomalies in Mining History [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Iron Implements Found in North Carolina Mica Mine**  
   The discovery of iron relics, such as an ax head, in a North Carolina mine is puzzling, as prehistoric American Indians did not use iron. This suggests that some mining activities attributed to ancient natives could actually have European origins.
@@ -864,7 +662,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Salt Mining in Nevada**  
   Evidence suggests that North American Indians mined salt deposits in Nevada over 2,000 years ago without needing complex excavation techniques. This ancient salt mine underscores the resourcefulness of prehistoric peoples in utilizing natural caverns.
 
-# Chapter 2: Notable Discoveries in Early European Mining
+# Chapter 2: Notable Discoveries in Early European Mining [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Prehistoric Flint Mining in Europe**  
   Early European miners, particularly Cro Magnons, are noted for extracting flint from chalk deposits, which showcases a significant advancement in mining technology. This long history helps contextualize the mining practices observed in the New World.
@@ -872,19 +670,19 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Gallery Mining in Northern Ireland**  
   In Antrim, Northern Ireland, miners accidentally uncovered a vast gallery, indicating sophisticated mining practices not previously recorded in the region. This discovery invites speculation on the extent of ancient mining knowledge and practices in prehistoric Britain.
 
-# Chapter 3: Ancient Mining Practices in Asia
+# Chapter 3: Ancient Mining Practices in Asia [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Ancient Gold Mine in Kazakhstan**  
   A discovery of a Bronze Age gold mine in Central Asia revealed mining techniques that were considerably advanced for their time, involving the use of bronze and stone tools. The excavation of this site showcases an early example of organized mining operations.
 
-# Chapter 4: Mining Activities in Africa
+# Chapter 4: Mining Activities in Africa [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Ngwenya Iron Mine in Swaziland**  
   Archaeological excavations at Ngwenya revealed ancient iron mining that dates back at least 28,000 years, demonstrating a long tradition of extracting valuable minerals. The findings suggest the involvement of foreign peoples knowledgeable in mining.
 
 - **Gold Mines of Zimbabwe**  
   The extensive gold mines in Zimbabwe raise questions about ancient trade and commerce, as they are believed to have produced more gold than medieval times. This notion of significant ancient commerce complicates our understanding of African mining history.
-# MSE5 Mines and Quarries
+# MSE5 Mines and Quarries [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **No evidence of gold use in South Africa**  
   There is a lack of direct evidence supporting the use of gold in South Africa during ancient times. The historical record indicates that countries like Ancient Egypt and Chaldea were significant importers of gold.
@@ -901,7 +699,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Ancient miners identified kimberlite**  
   Dr. Wagner recorded evidence of ancient miners at the Monastery mine, revealing that they could identify kimberlite, which today is known to be barren of diamonds. Their excavation efforts at significant depths hint at a sophisticated understanding of mining techniques.
 
-# MSE6 Lake Superior Copper Mining
+# MSE6 Lake Superior Copper Mining [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Copper production-consumption discrepancy**  
   There is a vast disparity in the estimated volume of copper produced in Lake Superior and the amount believed to have been consumed by North American Indians. Even conservative estimates suggest that prehistoric miners extracted vastly more copper than has historically been documented.
@@ -917,7 +715,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Questions regarding the timeline of mining activity**  
   Dating of the mining operations suggests they occurred long before known historical accounts, indicating an extensive but undocumented mining history. This chronology positions the Lake Superior miners alongside European Neolithic and Bronze Age cultures, further complicating established narratives in archaeology.
-# Sculpted Hills and Mountains
+# Sculpted Hills and Mountains [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **El Fuerte (Bolivia)**: This site features a series of whimsical, large stone structures that lack military function and whose purpose remains largely unknown. The carvings are deep, weathered, and suggest extensive human manipulation of the natural rock.
 
@@ -930,7 +728,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Babeldaob (Palau)**: The island showcases extensive terraced earthworks that indicate significant prehistoric architectural activity, with the primary goal being agriculture. However, it's suggested that upper terraces might have also served as refuge spaces amidst the natural landscape.
 
 - **Rapa (Polynesia)**: The sculpted hills on Rapa are distinctive, appearing somewhat like castles, and were enhanced by stonework to serve defensive purposes. Exploration has confirmed these structures' artificiality, matching them with similar defensive constructions observed in other Polynesian islands.
-# MSE8 Terrestrial Zodiacs
+# MSE8 Terrestrial Zodiacs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1**: The effigies' marching line is aligned with the expected movement of Ursa Major around Polaris. This alignment suggests an intentional design rather than a random arrangement.
 
@@ -944,7 +742,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Anomaly 6**: The limited dating evidence aligns with the expected chronological order of the effigies' construction. This alignment gives additional credence to the intentional nature of the designs.
 
-# X2. Europe
+# X2. Europe [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1**: The Glastonbury Zodiac allegedly outlines twelve zodiac signs through ancient roads and watercourses. This identification connects significant cultural myths to potential astronomical designs in the landscape.
 
@@ -960,7 +758,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Anomaly 7**: The representation of certain zodiac signs is claimed to lack identifiable features without significant imagination. This subjective interpretation casts doubt on the evidence for a structured zodiac.
 
-# X3. Africa
+# X3. Africa [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1**: The arrangement of the three largest Giza pyramids mirrors the configuration of stars in Orion’s Belt. This correlation leads to speculation about intentional design related to celestial navigation.
 
@@ -971,7 +769,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Anomaly 4**: The alignment of the southern shaft of the King’s chamber with Orion’s Belt during the Pyramid Age indicates deliberate astronomical orientation. This evidence points to the Egyptians’ skilled astronomical capabilities.
 
 - **Anomaly 5**: The ancient Egyptians’ familiarity with the zodiac concept could imply a wider understanding of celestial mapping. However, further evidence is necessary to substantiate this connection.
-# Anomaly Evaluation
+# Anomaly Evaluation [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Astronomically Oriented Long Stone Rows**
   Some long stone rows in North America appear to have astronomical alignments, suggesting potential purposes linked to celestial events. This phenomenon raises questions about their uses compared to similar structures in Europe.
@@ -982,7 +780,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Categorization as Ritual Structures**
   Many long stone rows in both North America and Western Europe have been conventionally classified as ritualistic. However, the evidence to support this categorization remains tenuous, leading scholars to challenge the accepted purposes of these structures.
 
-# Similar and Related Phenomena
+# Similar and Related Phenomena [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Short Stone Rows**
   Short stone rows differ significantly from long rows, both in form and likely function. These structures provide insight into various cultural practices surrounding megalithic construction.
@@ -998,20 +796,20 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Boulder Trains**
   Boulder trains, categorized as geological rather than anthropogenic anomalies, highlight the intersection of natural formations and human interpretation. These structures often invoke comparisons to constructed stone rows in terms of alignment and layout.
-# MSH3 Double Stone Rows
+# MSH3 Double Stone Rows [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Avebury**: The main anomaly of Avebury lies in the curved nature of both of its avenues, which militates against any clear astronomical alignment. Additionally, the impressive size of the upright stones and lengthy structure suggest it served primarily as a processional way for worshippers rather than for celestial navigation.
 
 - **Callanish**: The avenue at Callanish is notably funnel-like, being wider at the entrance than at its end, which adds a layer of uniqueness to its layout. Despite suggestions of astronomical alignments concerning the stars and moon, the avenue's overall design indicates it was intended for large gatherings and rituals.
 
 - **Dartmoor**: Anomalies present in the Dartmoor rows include their varying widths; some are extremely narrow, forcing processions to proceed one by one. Furthermore, despite claims of possible astronomical significance, the various orientations of the rows lead many to doubt that any alignments were intentional or meaningful.
 
-# MSH4 Multiple Stone Lines
+# MSH4 Multiple Stone Lines [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **General Observations**: A key anomaly found in multiple stone rows is their confined geographic distribution, primarily existing only in Brittany and northern Scotland. The striking similarities between the structures across such vast distances (750 miles apart) raise questions about cultural exchange or shared practices among ancient peoples.
 
 - **Menec**: The Menec rows present a puzzling alignment change, occurring halfway between their starting and ending points, which deviates from expected regularity in such constructions. These irregularities challenge the assumption that these rows were purely intended for precise astronomical usage and suggest a more complex purpose involving rituals or gatherings.
 
 - **Thom's Extrapolation Theory**: A notable anomaly in the interpretation of multiple stone rows is Thom's theory that they functioned as stone "graph paper" for projecting lunar positions, an advanced concept for the time. However, this hypothesis raises doubts about the practicality and labor demands needed for such precise astronomical endeavors, leading to further inquiries about the true intentions behind these megalithic structures.
-# Anomalies in Stone Arrays and Mazes
+# Anomalies in Stone Arrays and Mazes [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Crooked and Splayed Rows**: Most multiple stone rows exhibit a somewhat crooked and/or splayed configuration. This irregularity raises questions about their intended purpose, especially in the context of astronomical applications proposed by certain researchers.
 
@@ -1040,7 +838,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Megaliths in Korea**: The discovery of megalithic arrays in Korea suggests that this architectural impulse extended beyond western influences. Their recent dating further complicates the understanding of megalithic practices as they do not appear to be derived from older traditions observed in Europe. 
 
 - **Palau's Megalithic Structures**: The standing stones at Badrulchau in Palau, believed to have once supported buildings, present an intriguing anomaly in their construction and arrangement. The grooves found at the top of the stones hint at their intended use, yet much about their historical context remains speculative.
-# Stone Meanders MSHG6
+# Stone Meanders MSHG6 [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Stone Meanders**: Stone lines that curve, wander, and intertwine. These arrangements have been collected from the North American Southwest and Australia, indicating a rich history, although there are gaps in available data about their existence elsewhere.
 
@@ -1050,35 +848,35 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Australia - Sacred Sites**: In Australia, particularly at Kunturu, stone meanders show similar characteristics as those in North America, despite geographical separation. The serpent-like alignment at this site represents totemic figures, indicating that these structures served as more than just spirit paths.
 
-# Stone Circles MSH7
+# Stone Circles MSH7 [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description**: Stone circles are characterized by their circular arrangements, which can slightly deviate into ellipses. Excluded from this category are more mundane formations like tipi rings and council rings, focusing on those rich in historical and cultural significance.
 
 - **Anomaly Evaluation**: Current understanding shows that no anomalies exist within the baseline conventions surrounding stone circles. However, many questions arise as archeological evidence continues to challenge established narratives, particularly regarding their purposes and construction methods.
-# MSH15 
+# MSH15  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Are any stone circles intentionally aligned with other stone circles or other structures? This question explores the possibility that stone circles might play a role in "leys," which are alignments of geographical features. 
 
-# MSH16 
+# MSH16  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Are the stone circles of Britain and Ireland culturally related to the stone circles seen elsewhere in the world? This relates to claims of ancient cultural diffusion across oceans which could suggest a broader connection among disparate cultures. 
 
-# MSH17 
+# MSH17  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Do any stone circles have sophisticated astronomical applications, such as eclipse prediction? Stonehenge serves as a focal point for this inquiry, drawing attention to its potential astronomical significance. 
 
-# MSH17 
+# MSH17  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Do any stone circles have applications other than in rituals and rudimentary astronomy? Tide prediction has been proposed as an example of alternative uses that these structures might have served. 
 
-# MSH19 
+# MSH19  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Do the characteristics of any stone circles suggest unrecognized cultural associations? A recent assertion claims that notable sites, especially Stonehenge, were "invented" by the French, indicating a potential cultural misunderstanding. 
 
-# MSH8 
+# MSH8  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Recumbent stone circles (RSCs) are characterized by a single prostrate stone flanked by large standing stones. The specific positioning of the recumbent stone raises questions about its astronomical significance and ritual purpose, which remain largely speculative. 
 
-# MSH9 
+# MSH9  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The proposed existence of a "megalithic yard" suggests Neolithic and Bronze Age peoples in Western Europe had a standard unit of length. Validation of this claim is contentious, as some researchers find evidence for quantized measurements while others do not. 
 
-# MSH10 
+# MSH10  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The supposed use of sophisticated geometrical relationships in stone circles suggests that ancient builders might have recognized advanced geometrical principles. However, mainstream science mostly does not accept the notion of such geometric sophistication by Neolithic and Bronze Age peoples of the British Isles, leading to a high anomaly rating.
-# Stone-Circle Geometry 
+# Stone-Circle Geometry  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Nearly Perfect Circles**  
   Approximately 600 stone circles are described as nearly perfect circles, which were easier to construct using long cords or megalithic yardsticks. These nearly perfect circles provide little for statistical analysis compared to the divergent shapes of other circles.
@@ -1095,7 +893,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Peculiar Distortion of Pythagorean Relationships**  
   Thom identified anomalies in what should have been standard Pythagorean relationships in some circles, which raised questions about the accuracy of such measurements. These oddities are intriguing and cast doubt on the validity of Thom's findings regarding Pythagorean triangles used in construction.
 
-# Occult Influences on the Design of Stonehenge
+# Occult Influences on the Design of Stonehenge [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Influence of Occult Concepts**  
   The design of Stonehenge might have been influenced by numerological and astrological ideas, suggesting a complex relationship between ancient beliefs and architectural choices. Despite being non-scientific, these occult concepts could have had a significant effect on the structure's design.
@@ -1103,14 +901,14 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Rated Lack of Scientific Anomaly**  
   The apparent influence of occultism in architecture lacks scientific backing, leading to the rating of 1 in terms of an anomaly. This indicates that while the influence is evident, it does not uphold the criteria for scientific anomaly.
 
-# Physical Phenomena Associated with Stone Circles
+# Physical Phenomena Associated with Stone Circles [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **High Frequency of Luminous and Magnetic Phenomena**  
   Stone circles are reported to exhibit a high frequency of certain luminous, magnetic, and acoustic phenomena. Despite anecdotes supporting these occurrences, they lack substantial scientific validation and remain a topic for fringe archaeology.
 
 - **Concentration of Physical Phenomena**  
   Although the phenomena themselves are natural, their concentration around stone circles raises concerns as this effect lacks a defensible scientific basis. This concentration leads to speculation regarding the existence of "earth energy," which has become associated with ancient architectural sites.
-# 171 Stonehenge Physical Phenomena
+# 171 Stonehenge Physical Phenomena [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Luminous phenomena**  
   New Age thinking posits that stone circles and other sacred sites are locations where "earth energies" manifest. UFOs are frequently reported in these areas, with anecdotal accounts of strange light phenomena, such as a sighting in Avebury where a light descended without a sound and left no trace.
@@ -1127,11 +925,11 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Physiological phenomena**  
   Many individuals report physiological reactions, such as tingling sensations, upon contact with ancient standing stones, with some stones nicknamed for these effects. While such experiences are often linked to New Age beliefs, there remains a question of their origins and whether they can be scientifically validated. 
 
-# MSH13 Psychical Phenomena Concentration at Stone Circles
+# MSH13 Psychical Phenomena Concentration at Stone Circles [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Dowsing phenomena**  
   Dowsing is claimed to detect subterranean "earth energy" lines converging beneath stone circles, resembling phenomena typically associated with water. However, scientific scrutiny is scant, as results vary widely and often depend on the dowsers' subjective experiences, raising questions about the validity of the claims.
-# Stonehenge Psychical Phenomena
+# Stonehenge Psychical Phenomena [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Blind Springs**  
   Dowsers observed that certain locations around megalithic monuments, termed "blind springs," exhibit mysterious influences similar to those created by springs, even though excavations revealed no water sources. These phenomena intrigue researchers, suggesting an intricate relationship between geology and ancient structures.
@@ -1148,7 +946,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Energy Leys**  
   S. Lonegren described "energy leys," which are believed to be beams of energy that vary in width depending on various environmental factors. These ley lines supposedly exhibit a directional flow, estimated using a pendulum, which could signify their alignment with spiritual or natural forces.
 
-# Stone Circles and the Environment
+# Stone Circles and the Environment [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Geologic Faults**  
   The relationship between active geologic faults and the locations of stone circles remains largely hypothetical with little scientific backing. However, there are indications that sacred sites may be situated near faults due to the phenomena these locations produce, suggesting a connection between natural forces and ritual practices.
@@ -1167,21 +965,21 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Halos and Design Influence**  
   The hypothesis that solar and lunar haloes may have influenced the design of Stonehenge posits a connection between atmospheric phenomena and ritual architecture. While skeptics challenge this theory, the possibility that natural phenomena shaped cultural expressions of the Bronze Age invites further exploration into ancient worldviews.
-# Large-Scale Organization of Stone Circles
+# Large-Scale Organization of Stone Circles [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Organizational Structure**: The arrangement of stone circles into clusters or linear alignments, known as "leys," alongside other megalithic sites. The literature acknowledges the existence of clusters but debates the intentionality behind leys, asserting they are often chance alignments.
 
 - **Controversy Regarding Leys**: While some scholars suggest certain alignments were constructed for astronomical purposes, popular literature claims extensive leys that are dismissed by professionals. The main anomaly arises from the dispute over whether these leys were created intentionally or if they occurred by chance.
 
-# Anomaly Evaluation
+# Anomaly Evaluation [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cultural Efficiency**: It is reasonable to believe the megalithic culture organized their ritual sites for efficiency. The concept of alignment is common in human behavior; thus, the lack of archaeological anomaly suggests that professional skepticism is what's truly anomalous.
 
-# Possible Explanations
+# Possible Explanations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Skepticism of Intentionality**: The consensus among professional archaeologists is that there are no intentional leys, which raises the need for catalog entries documenting alleged cases. The controversy mainly stems from assertions in popular literature versus archaeological evidence.
 
-# Possible British Leys
+# Possible British Leys [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Stonehenge Ley Triangle**: Lockyer identified an equilateral triangle formed by Stonehenge, Grovely Castle, and Old Sarum, which aligns with solstice events. The straightness of this triangle and its astronomical connections fuel speculation of intentional design.
 
@@ -1189,7 +987,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Exmoor Ley?**: A potential ley identified on Exmoor connects three stone circles over a 63-mile line, although purists argue that at least five elements are needed to ensure statistical significance. The non-intervisibility of these circles adds to the intrigue surrounding their arrangement.
 
-# Possible Leys Outside of Britain and Ireland
+# Possible Leys Outside of Britain and Ireland [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **European Alignments**: Many sites in Western Europe could potentially connect through straight lines, but evidence of stone circle leys is virtually nonexistent. Notable attempts to find such alignments have not yet centered on stone circle arrangements.
 
@@ -1197,12 +995,12 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Anasazi Sites in North America**: The alignment of three Anasazi sites in New Mexico might seem significant, but the lack of additional sites suggests it is likely a coincidence. Statistical definitions of leys undermine claims of intentional connection among the sites.
 
-# Critiques of the Ley Concept
+# Critiques of the Ley Concept [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Statistical Challenges**: Critics argue that the existence of many potential ley markers makes the likelihood of chance alignments substantial, as elaborate networks can emerge from random distributions. This challenges ley enthusiasts' claims of intentionality, suggesting that discerned alignments often stem from coincidence.
 
 - **Public Perception and Acceptance**: The dichotomy in belief regarding ley lines resembles the UFO phenomenon, with persistent disagreements between passionate believers and the academic community. Many remain unconvinced, adhering to the notion that most alignments are simply accidental, contributing to the overall skepticism toward ley phenomena.
-# Anomalies
+# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Stone Circles Outside Britain and Ireland**
   The presence on all continents, except Antarctica, of stone circles of various sizes, compositions, and ages is noted. Some of these circles have unexpected ages and geographical locations, and, while simple geometric figures, they serve various cultural functions.
@@ -1233,7 +1031,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **New Mexico**
   A stone circle discovered in Socorro County includes upright stones forming a square and a broad stone potentially serving as an altar. The inner circle's structure appears significant but lacks further scholarly attention or detailed investigation.
-# MSH16 Stone Circles Worldwide
+# MSH16 Stone Circles Worldwide [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Zodiac Ridge, Arizona**: The circular alignment, known as Zodiac Ridge, measures approximately 40 meters in diameter and features over 800 granitic stones. An alignment of about 30 large stones oriented true east-west is located near the center, suggesting potential astronomical significance.
 
@@ -1264,7 +1062,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Tongareva, Oceania**: On this remote island, circular arrangements of limestone pillars were noted, although their origin is not ancient. Current knowledge about the site is limited, and further investigation is necessary.
 
 - **Easter Island Stone Circles**: While primarily recognized for its giant statues, Easter Island also houses significant stone circles laid before the statues. These circles are suggested to have been used for ceremonial practices related to celestial observations, although they are not particularly elevated.
-# Stone Circles as Eclipse Predictors
+# Stone Circles as Eclipse Predictors [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1**: The intentional design of Stonehenge for eclipse prediction by Neolithic cultures suggests advanced intellectual capabilities. Despite the ongoing debate, many archaeologists agree that the astronomical alignments do not sufficiently support the idea that it was used for such purposes. 
 
@@ -1277,7 +1075,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Anomaly 5**: Skepticism exists not only among archaeologists but also among astronomers regarding the possibility that Neolithic cultures could accurately predict eclipses. The idea necessitates a significant understanding of astronomy that seems implausible for the time. 
 
 - **Anomaly 6**: Despite criticisms, certain astronomers have maintained that compelling astronomical features exist within Stonehenge, making it a topic of fascination among those who study archaeoastronomy. The ongoing intrigue lies in the possibility that the very design of Stonehenge might have facilitated eclipse prediction despite the doubts surrounding its actual application.
-# Stonehenge’s Rectangle
+# Stonehenge’s Rectangle [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Positioning at Unique Latitude**
   - Stonehenge is situated at a latitude where its markers align with significant astronomical features, forming corners of a rectangle. This positioning is unique, allowing the phenomenon to only occur at specific latitudes in the Northern Hemisphere and the Southern Hemisphere.
@@ -1285,7 +1083,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Astounding Coincidence or Intentional Design**
   - The ability of the builders to align these stones precisely suggests either a remarkable coincidence or an intentional design by skilled astronomers. If intentional, this reflects the impressive observational capabilities of Neolithic humans.
 
-# Did the French Build Stonehenge?
+# Did the French Build Stonehenge? [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cross-Channel Influence**
   - Some characteristics of Stonehenge suggest a strong cultural influence from Brittany, challenging the notion that it is uniquely British. The similarities between stone structures across Britain, Ireland, and Brittany indicate the possibility of a cross-Channel connection in megalithic culture.
@@ -1293,64 +1091,64 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Symbol on Stone 57**
   - The box-like symbol carved on stone 57 bears resemblance to megalithic art found in Brittany, hinting at a connection between the two regions. This suggests that Stonehenge may have been influenced by or even built by those from Brittany, contradicting the traditional view of its purely British origins.
 
-# Geometrical and Geographical Anomalies of Stone Rectangles
+# Geometrical and Geographical Anomalies of Stone Rectangles [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Use of 3-4-5 Right Triangles**
   - The geometrical features of certain stone rectangles include the use of 3-4-5 right triangles, implying advanced knowledge of geometric principles. This understanding suggests a level of sophistication comparable to that found in stone circles and reveals insights into the builders' capabilities.
 
 - **Astronomical Alignments at Unique Latitudes**
   - Some stone rectangles are located at latitudes where specific astronomical alignments occur, indicating a comprehension of the celestial relationships between the earth, sun, and moon. This anomaly further highlights the builders' advanced knowledge and may challenge expectations of their technological skills.
-# The Old World
+# The Old World [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Calendar sites are highly anomalous structures built by early settlers in northeastern North America, with their alignments often considered fortuitous by conservative archeologists. Critics argue that the region's hilly and rocky terrain could explain the alignments without human intervention.
 
-# Possible Explanations
+# Possible Explanations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - None of the calendar sites necessarily require specific explanations, but some amateur archeologists propose these sites as proof of pre-Columbian visits by Europeans. Mainstream archeologists counter that the absence of essential artifacts diminishes these claims.
 
-# North America
+# North America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Claims of calendar sites in North America involve alignments of natural and artificial objects with astronomical significance. Some members of NEARA have sought alignment sites with features indicative of intentional human design, despite skepticism from critics.
 
-# Vermont
+# Vermont [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Vermont-I and Vermont-II are the most well-researched calendar sites in northeastern North America, exhibiting compelling features like stone chambers and markings. The debate surrounding the age and origin of these sites highlights both their potential significance and the controversy in archeological interpretation.
 
-# New Hampshire
+# New Hampshire [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A potential calendar site near North Salem features numerous walls and a significant stone circle. Observations of solstices and equinoxes are claimed, but the legitimacy of these alignments remains in dispute due to the lack of supporting artifacts.
 
-# Massachusetts
+# Massachusetts [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - At Burnt Hill in the Berkshires, a remarkable astronomical alignment involving a setting sun and standing stones has been documented. Comparable alignments in Western Europe would be more readily accepted as significant by professional archeologists, raising questions about the evaluation of American sites.
 
-# Wisconsin
+# Wisconsin [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - J. Scherz has identified a calendar site in Wisconsin with unusual artificial islands that allow for predictions of solstices and equinoxes based on their alignments. The proximity to significant prehistoric mining activities adds another layer of intrigue to the findings.
 
-# New Mexico
+# New Mexico [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A potential Indian calendar site north of Chaco Canyon features natural pillars aligned with specific seasonal observations. The presence of a Zuni sun symbol at the site suggests a cultural significance tied to calendrical practices.
 
-# South and Central America
+# South and Central America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Incas and Maya engaged in advanced astronomy and architecture, utilizing complex structures for astronomical observations. While only a few calendar sites exist in South America, their sophistication indicates the importance of astronomy in these cultures.
 
-# Honduras
+# Honduras [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The sundial-like structure at Copan serves as a calendar site rather than a conventional timekeeper, with two large stelae forming a vast astronomical marker. This finding emphasizes the cultural significance of such structures in agricultural cycles.
 
-# Argentina
+# Argentina [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The El Mollar site showcases intricately carved standing stones with significant solar and lunar alignments used by ancient civilizations. The limited knowledge regarding these structures poses questions about the builders and functions throughout history.
 
-# Peru
+# Peru [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Spanish chronicles noted that the Incas utilized pillars to gauge seasonal changes in Cuzco, some of which still exist today on Lake Titicaca. The remaining pillars frame the summer solstices, emphasizing their significance in ancient calendrical practices.
 
-# Africa
+# Africa [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Megalithic calendar sites are abundant across Sub-Saharan Africa, though many do not prioritize astronomical functions. Traditional practices and the cultural context of these structures could provide insights into their purposes beyond mere astronomy.
 
-# Kenya
+# Kenya [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Namoratunga site in northwestern Kenya features an alignment of basalt pillars dated to approximately 300 B.C. The precise alignments with prominent stars indicate that the ancient inhabitants possessed advanced astronomical knowledge.
 
-# Oceania
+# Oceania [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Polynesian cultures have incorporated astronomical symbolism into their practices, with J. Bianco identifying probable calendar sites in Tonga and Easter Island. Structures like the Haamonga trilithon and the pits at Orongo symbolize the connection between astronomy and cultural identity.
 
-# Tonga
+# Tonga [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Haamonga trilithon and its surrounding stones have been identified as serving calendar purposes, underscoring the significance of similar constructions in Polynesian culture. This site is of interest for its potential connections to ancient astronomical practices.
 
-# Easter Island
+# Easter Island [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - T. Heyerdahl discovered four holes at the Orongo site arranged to align with seasonal astronomical events, suggesting their use for astrological observation. The dimensions of these pits reveal a meticulous approach to celestial tracking by the island's ancient astronomers.
-# Medicine Wheels
+# Medicine Wheels [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Limited Historical Records**: The earliest reference to medicine wheels was published in 1903, suggesting there may be earlier mentions yet to be discovered. This scarcity of documentation leads to speculation about the true historical significance and function of these structures.
 
@@ -1367,7 +1165,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Skepticism of Astronomical Theories**: Some contemporaries express doubts regarding the utility of the alignments suggested for the Big Horn and Moose Mountain medicine wheels, criticizing the accuracy and reliability of their measurements. This skepticism highlights the ongoing debate within academia about interpreting ancient structures and their purposes.
 
 - **Potential European Connections**: A reported stone wheel in Portugal with significant similarities to North American medicine wheels invites speculation about transatlantic cultural connections. Such claims are controversial and have not been widely accepted in archaeological circles, suggesting a need for further evidence to support or disprove these theories.
-# Anomaly Evaluation
+# Anomaly Evaluation [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Woodhenges**  
   With the exception of the single recognized American woodhenge, astronomy was probably not the main objective of woodhenges; most seem to have been supports for large roofed buildings of some sort. The American woodhenge, at Cahokia, Illinois, was apparently only a simple calendar site and is, therefore, not anomalous.
@@ -1375,16 +1173,16 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Suggestions of Trans-Atlantic Cultural Diffusion**  
   Despite some similarities between the American and British woodhenges, they are separated in time by up to 3 millennia and also in purpose. Therefore, they cannot be considered evidence for early cultural diffusion across the Atlantic.
 
-# Possible Explanations
+# Possible Explanations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **None Required**
 
-# Similar and Related Phenomena
+# Similar and Related Phenomena [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Stone circles (MSH7)**  
   Woodhenges may be older than stone circles—perhaps they were even their precursors. Most British woodhenges were simply buildings and not observatories, suggesting they are not anomalous in any respect.
 
-# General Observations
+# General Observations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Astronomy and Woodhenge Structures**  
 The axis of the original British Woodhenge was aligned with the summer Solstice, but the structure was not used for astronomy. Its posts probably supported a roof that precluded observations of the sky, indicating that it was a timber temple or meeting hall.
@@ -1395,11 +1193,11 @@ The woodhenge at the American Cahokia site in Illinois was almost certainly devo
 - **Independent Invention**  
 Despite noted similarities between American Indian timber structures and those in Britain, this is likely a case of independent invention due to the time gap. The absence of anomalies across woodhenge structures removes the need for detailed analysis. 
 
-# China Anomalies
+# China Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Curious Wooden Structures in Lop Nur**  
 Curious wooden structures discovered in the Lop Nur Desert in northwestern China consist of concentric rings of short wooden pillars. These structures are not classified as woodhenges but their geometric features allow them to be cataloged in relation to the subject.
-# Anomalies
+# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Fresh-water mussels at Muscle Shoals**  
 Muscle Shoals got its name from fresh-water mussels deposited by Indians, revealing a direct link between the area's natural features and its indigenous history. The presence of these shells showcases the utilization of local resources by early inhabitants.
@@ -1445,31 +1243,31 @@ These cairns, meticulously constructed from selected stones, showcase unique arc
 
 - **Burnt rock mounds in Texas**  
 In Texas, burnt rock mounds display a specialized construction with densely packed angular rock fragments, possibly related to ancient cooking or ritual practices. The presence of soil and burnt remains suggests a particular cultural significance and utilitarian function.
-# Anomalies in Burnt Rock Mounds
+# Anomalies in Burnt Rock Mounds [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Burnt rock mounds**: These features are theorized to be Indian kitchen middens, formed from fragmented stones used to contain cooking fires. The thickness of deposits varies significantly, but rarely exceeds six to eight feet even in larger mounds.
 
-# Anomalies in Fused Forts
+# Anomalies in Fused Forts [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Scottish "fused forts"**: These structures consist of large boulders that were fused together by intense heat, presumably from massive wood fires used by the ancient Scots. Their formation poses significant questions for archaeologists, as the purpose and methodology remain unclear.
 
-# Anomalies in Kitchen Middens
+# Anomalies in Kitchen Middens [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Kitchen middens in Botswana**: These resemble Texas burnt rock mounds, containing layers of glassy refuse over several hundred square meters. The source of the high temperatures needed to fuse the debris is disputed, with theories including lightning, despite the glassy layers not resembling fulgerites.
 
-# Anomalies in Conical Piles
+# Anomalies in Conical Piles [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Unique conical pile in Belize**: Discovered in 1954 during construction, this structure consists of two conical piles of boulders, the outer of which is coated with lime. Its resemblance to Mayan pyramids is notable, although it appears structurally unique and generically related to later pyramids.
 
-# Anomalies in Cairn Alignments
+# Anomalies in Cairn Alignments [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Solar-aligned cairn lines in Massachusetts**: Two cairn lines display apparent solar alignments with the winter-solstice sunrise and the equinox sunset. These stacks of rocks, consisting of a few rocks each, may be of recent origin, lacking solid geological foundations.
 
-# Anomalies in Submerged Cairns
+# Anomalies in Submerged Cairns [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Submerged "pyramids" in Rock Lake, Wisconsin**: These reputed structures have been spotted by fishermen and reported by divers, who claim to have seen a 29-foot-high pyramid beneath the water. The visibility issues complicate definitive identification, leaving the possibility of their man-made nature in question.
 
-# Anomalies in Cairn Complexes
+# Anomalies in Cairn Complexes [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cairn complex near Coventry, Rhode Island**: A perplexing site with 120 stone piles, many of which meet specific criteria for conical cairns. These structures present unique geometric arrangements and their construction appears deliberate rather than incidental.
 
@@ -1477,10 +1275,10 @@ In Texas, burnt rock mounds display a specialized construction with densely pack
 
 - **Ceremonial mesa in California**: Photographic evidence highlights a fabric of 28 abutting gravel cairns arranged in a two-dimensional pattern, indicating a deliberate layout. While dimensions are not detailed, the complexity of the arrangement hints at a potential ceremonial function.
 
-# Anomalies in Ring Cairns
+# Anomalies in Ring Cairns [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Ring cairns at Clava, Scotland**: This concentration of 50 ring cairns is notable for their significant diameter and orientation, with entrances facing south-southwest. The purpose of these structures, along with their relationship to nearby passage graves and stone circles, remains a mystery to archaeologists.
-# Earthen Mounds MSM5
+# Earthen Mounds MSM5 [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **La Venta**  
 The fluted pyramid at La Venta is a unique structure made of clay, yet its specific purpose remains a mystery. Magnetometer surveys uncovered a possible platform buried beneath the mound, raising further questions about the Olmec civilization's practices.
@@ -1494,7 +1292,7 @@ The Akapana is a pyramidal hill at Tiahuanaco, uniquely aligned with the cardina
 - **Etowah Mound**  
 Etowah Mound boasts a height of 60 feet and features unusual artifacts, including copper plaques with unique designs. The mound's broad ramp and flat top further set it apart, suggesting a sophisticated understanding of structure among its builders.
 
-# Mesoamerica
+# Mesoamerica [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cuicuilco**  
 Cuicuilco's construction raises questions due to its location beneath a lava flow, with earlier archaeological theories placing its creation long before established timelines. Despite later validation of its dates, Cummings' revolutionary impact never materialized, leaving further exploration into its past.
@@ -1505,66 +1303,66 @@ Cholula is a massive human-built structure distinguished by its volume, yet it r
 - **San Lorenzo**  
 San Lorenzo presents as an impressive mound, but its immense size signals a deeper complexity associated with its construction. The mound's length and width speak to an advanced understanding of earthworks within the Olmec culture.
 
-# South America
+# South America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **El Panecillo**  
 El Panecillo is a prominent hill in Quito, raising speculation of its artificial nature despite the absence of professional archaeological acknowledgment. Its unusual formation and the lack of stratification suggest it might have been modified or constructed rather than being wholly natural.
 
-# Europe
+# Europe [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Silbury Hill**  
 Silbury Hill stands as the largest human-made mound in Europe, yet it lacks any burials, contrary to typical kinship burial mounds. Its precise engineering and massive labor investment prompt inquiries about its cultural significance beyond mere burial practices.
 
 - **Tumulus Saint Michel**  
 The Tumulus Saint Michel is a burial site that incorporates small chambers, indicating a blend of mound-building and ancestor veneration. Its connection to the broader megalithic complex in Brittany reflects the intricate relationship between constructed mounds and rituals in ancient cultures.
-# Chapter 1: Anomalies of Saint Michel
+# Chapter 1: Anomalies of Saint Michel [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Menec are clearly visible but today, Saint Michel is only about 40 feet high, significantly lower than its past height. The Romans leveled it for building purposes, leaving us to speculate about its original flat top which likely served ceremonial functions.
 
 - The graves surrounding Saint Michel date back to before 4,000 BC, which predates various other archaeological sites. This suggests that Tumulus Saint Michel could be older than its burials and may have had different purposes.
 
-# Chapter 2: Asia Minor Burial Mounds
+# Chapter 2: Asia Minor Burial Mounds [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The Tomb of Alyattes is noted for its immense size, with a diameter of 1,180 feet, nearly double that of Silbury Hill. This structure dates to before 561 B.C. and was thoroughly explored, reaffirming the descriptions provided by Herodotus about its considerable dimensions.
 
 - Midas Mound, dated around 718 BC, is another significant burial mound located 100 kilometers southwest of Ankara. At 175 feet high, this mound was built for a wealthy individual and features considerable dimensions, although it is unnamed.
 
-# Chapter 3: Mounds in China
+# Chapter 3: Mounds in China [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Chinese mounds, often burial sites, are characterized by their terraced structure and resemblance to Mesoamerican pyramids. Researchers point out that these mounds, with elaborate interiors and grave goods, remain largely unexplored due to the challenges of conducting archaeology in the region.
 
 - The sacrificial altar of Chou dates back to approximately 700-500 B.C., showcasing the existence of large mounds in ancient China. Some of these pyramidal mounds measure up to 250 meters square, serving as princely graves from the Chou period.
 
-# Chapter 4: Japanese Imperial Graves
+# Chapter 4: Japanese Imperial Graves [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Japanese pyramidal earthen mounds exhibit similarities to those found in China, particularly in their dimensions and structure. The imperial graves of the dolmen period, often associated with feudal princes, feature large double mounds with distinctive shapes and surrounding moats.
 
 - The dimensions of these imperial graves underscore their immense scale, with some mounds estimated to be in the tens of millions of cubic feet. The presence of surrounding ditches also draws parallels with British stone circles known as "henges."
 
-# Chapter 5: Polynesian Mounds
+# Chapter 5: Polynesian Mounds [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - In Samoa, the ancient inhabitants constructed various geometrically interesting mounds, including star-shaped mounds made of earth and stone. These mounds lack precise measurements but are distinctive enough to warrant attention.
 
 - The Pulemelei mound in Samoa, with dimensions of 60 by 50 meters and a height of 12 meters, is part of a significant ceremonial center. Its uncertain function and surrounding structures suggest a site of communal importance within the region.
 
-# Chapter 6: Tonga's Pigeon-Snaring Mounds
+# Chapter 6: Tonga's Pigeon-Snaring Mounds [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Tonga's native peoples created large mounds for the specific purpose of pigeon snaring, utilizing a method that involved the strategic placement of earth piles. Although smaller in size, these mounds serve an intriguing cultural narrative revolving around royal hunting practices.
 
 - The pigeon-snaring mounds have a diameter of up to 115 feet and feature smaller beehive-shaped structures on top for concealment. This unique method of hunting highlights the ingenuity of the local population in adapting to their environment.
 
-# Chapter 7: The Giant Grave in the Caroline Islands
+# Chapter 7: The Giant Grave in the Caroline Islands [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - An unusual mound, referred to as the Giant Grave, is located on an unnamed island in the Caroline Islands and is set apart by its size and shape. Local tradition holds that a giant is buried here, adding a layer of myth to the site.
 
 - The mound measures approximately ten feet high and stretches a quarter mile long, with speculation that it served dual purposes as both a grave and a defensive wall according to historical texts. This blend of fact and myth serves to enhance the cultural significance of the mound. 
 
-# Chapter 8: Hawaii's Kukii Hill
+# Chapter 8: Hawaii's Kukii Hill [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The Hill of Kukii in Hawaii, notable for its regular outline, draws comparisons to the pyramid of Cholula in Mexico. Observers noted the absence of volcanic material, suggesting that this could be a significant artificial structure.
 
 - Some features of the Kukii Hill include terracing and hewn stone blocks that hint at advanced construction techniques. However, the origins and purpose of the structure remain enigmatic, marking it as an anomaly within the region.
-# Mound Lines and Arrays
+# Mound Lines and Arrays [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Earthen Mounds**  
   Large numbers of earthen mounds are arranged in long lines or geometrical arrays, and these formations appear to be very rare. The only known example is rectilinear, although other geometric shapes like circular or hexagonal could theoretically fit in this category.
@@ -1572,7 +1370,7 @@ The Tumulus Saint Michel is a burial site that incorporates small chambers, indi
 - **Mound Arrays Origins**  
   There are suggestions that some mound arrays might have natural origins, such as Mima mounds taking on a hexagonal shape when closely packed. Alternatively, they may have arisen from agricultural practices like raised-field agriculture or been designed for ritualistic purposes similar to stone mazes.
 
-# Enigmatic Mound Complexes
+# Enigmatic Mound Complexes [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Poverty Point Anomalies**  
   Poverty Point is an early archeological site that flourished between 1200 and 800 B.C., but its artifacts show no relation to later Moundbuilder cultures. The sudden collapse of the Poverty Point culture draws questions about the origins and subsequent fate of its people.
@@ -1585,7 +1383,7 @@ The Tumulus Saint Michel is a burial site that incorporates small chambers, indi
 
 - **Cultural Disconnection**  
   While Wheeler and Watson Brake are closely located, the two cultures do not appear to be related, with their artifacts differing significantly. This lack of connection raises further questions about the reasons for their construction and the lifestyle of their respective builders.
-# Mound Complexes MSM7 
+# Mound Complexes MSM7  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Hanukkah Mound (Ohio)**
   - The East Fork Works, a mound complex near Milford, Ohio, displayed an improbable geometry and has long since disappeared, making confirmation difficult. Some researchers, like J.H. McCulloch, assert the site's existence despite earlier dismissals by others, suggesting that its configuration resembles a nine-branched menorah associated with Jewish culture.
@@ -1595,7 +1393,7 @@ The Tumulus Saint Michel is a burial site that incorporates small chambers, indi
 
 - **Mosier Mounds (Oregon)**
   - Located near Mosier, Oregon, the 30-acre complex consists of rock walls and various lithic structures, showing a unique configuration that anthropologists believe served several ritualistic or practical purposes. The specific functions of these mounds remain uncertain, but they seem to predate European contact and involve a complex social or spiritual significance.
-# Anomalies
+# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Holed Boulders as Bench Marks**  
   The proposition that the holed boulders were benchmarks made by surveyors was dismissed by J.J. Olson, who argued that surveyors would never place benchmarks so close together. This challenges the idea that human intervention was responsible for these anomalies.
@@ -1617,7 +1415,7 @@ The Tumulus Saint Michel is a burial site that incorporates small chambers, indi
 
 - **North Dakota Stone Sphere Discovery**  
   A construction crew discovered a near-perfect stone sphere in North Dakota, posing questions about its origins. Despite its spherical dimensions suggesting artificiality, the absence of human artifacts nearby leaves its classification in limbo.
-# MSO4 Curious Arrays and Groupings of Stone or Wooden Columns
+# MSO4 Curious Arrays and Groupings of Stone or Wooden Columns [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Carved Stone Columns**  
   Carved stone columns photographed at great depths in the ocean have led to numerous questions regarding their origin. The age and makers of these columns remain unknown, and their presence in a deep-sea trench raises more mysteries than it solves.
@@ -1625,16 +1423,16 @@ The Tumulus Saint Michel is a burial site that incorporates small chambers, indi
 - **Arrays of Ancient Columns**  
 Four puzzling arrays of large stone or wooden columns have been identified in South America, yet scant details exist on these structures. These arrays are thought to potentially serve structural or ornamental purposes, but due to the lack of information, their true uses remain largely a mystery. 
 
-# MSO5 Latte Stones
+# MSO5 Latte Stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Tall Limestone Pillars**  
 Tall limestone pillars capped by hemispherical carved stones are mostly located in the Mariana Islands. Although they were initially perceived as enigmatic structures, scientists universally agree that they were primarily used just to support houses, negating their classification as anomalies.
 
-# MSO6 Delhi Iron Pillar
+# MSO6 Delhi Iron Pillar [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Rust-Free Iron Pillar**  
 The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for its rust-resistant condition. While some claim it reflects an advanced iron-working capability, studies indicate that the pillar was not forged as a single piece and that its rust-resistant properties are due to metallurgical characteristics rather than lost technology.
-# MSO7 New Caledonia Cylinders
+# MSO7 New Caledonia Cylinders [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cement-Like Cylinders of New Caledonia**  
   Curious cement-like cylinders, several feet in height, have been discovered buried in large sandy mounds on New Caledonia and the adjacent Isle of Pines. Radiocarbon dates associated with these cylinders suggest human presence in the Pacific much earlier than previously accepted timelines.
@@ -1645,7 +1443,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **Purpose of the Structures**  
   The purpose of the large artificial mounds with cement cores remains enigmatic. These characteristics collectively present a significant archaeological anomaly, raising questions about their origin and function.
 
-# MSO8 Unusual Gnomons
+# MSO8 Unusual Gnomons [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **General Characteristics of Gnomons**  
   Gnomons are vertical structures used to cast shadows for the purpose of time measurement and understanding seasonal changes. Although they are not as famous as other structures like Stonehenge, numerous studies have shown their importance in ancient civilizations.
@@ -1653,7 +1451,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **Machu Picchu's Intihuatana**  
   The intihuatana at Machu Picchu is a uniquely carved rock structure that is often considered a gnomon. However, its precise purpose and the methods employed by the Incas for astronomical observations remain unclear, contributing to its enigmatic reputation.
 
-# MSO9 Stone Chairs
+# MSO9 Stone Chairs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description of Stone Chairs**  
   Stone chairs, hewn from solid rock, are found in various locations but often go unmentioned in mainstream archaeology. Their occurrences in strange places and mysterious contexts raise questions about their purpose and significance in ancient cultures.
@@ -1661,14 +1459,14 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **Cultural Importance**  
   While stone chairs may not seem anomalous at first, their prevalence in isolated locales suggests a potential cultural importance. Possible explanations include their use in rituals or significant events, indicating they played a more substantial role in ancient societal activities.
 
-# MSO10 Large Stone Jars
+# MSO10 Large Stone Jars [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Curious Distribution of Large Stone Jars**  
   Similar large stone jars appear at different sites across vast distances, suggesting a cultural connection despite being separated by hundreds or even thousands of miles. These jars, carved out of solid rock, are distinctive and imply shared practices or interactions among ancient peoples.
 
 - **Independent Invention vs. Cultural Propagation**  
   The question of whether these jars are the result of independent invention or a widespread cultural practice remains a point of contention. Research indicates that the similarities are intriguing, but they may ultimately be relegated to the realms of curiosity rather than established anomalies.
-# Anomalies in Stone Jars and Configured Rocks
+# Anomalies in Stone Jars and Configured Rocks [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Laos Stone Jars**: The best-studied stone jars in Laos were discovered by French archaeologist M. Colani in the 1930s at the famed Plain of Jars. These jars, mostly made from softer local stones, vary in size with some weighing around fourteen metric tons and possibly serve as funerary urns.
 
@@ -1687,24 +1485,24 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **Haamonga Stones in Tonga**: This trilithon, resembling Stonehenge, consists of three massive slabs and is thought to have astronomical applications, though no studies have confirmed this. The significance of its grooves and basin atop the lintel prompts speculation about its ritualistic use or function in ancient Tonga.
 
 - **Tiahuanaco's Gateway of the Sun**: This intricately carved gateway from a single piece of volcanic rock demonstrates exceptional craftsmanship despite the claim of possession only of stone tools. Its precision invites queries about the techniques employed by the artisans of Tiahuanaco, highlighting the patience and skill of ancient creators.
-# X0. Introduction
+# X0. Introduction [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Haamonga Stones (MSO12):** The Haamonga Stones in Tonga are thought to have been a type of gateway for processions. Their precise purpose remains unclear, yet they contribute to the understanding of ancient ceremonial practices.
 
 - **Gateway of the Sun:** Located high above Lake Titicaca in Bolivia, the Gateway of the Sun is renowned for its sophisticated stonework carved without the use of metal tools. This gateway stands as a testament to the ancient craftsmanship of the Tiahuanaco civilization around 600-1,000 AD.
 
-# X1. General observations
+# X1. General observations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Designs and Symbols:** The Gateway of the Sun features intricate designs, intricate symbols, and niches that fuel speculation about their significance. These artistic choices are explored in depth in later discussions, highlighting their cultural importance.
 
 - **Precision Stonework:** The high precision of the stonework of the Gateway of the Sun showcases an exceptional level of craftsmanship. This remarkable feature is not only historically significant but also highlights the advanced techniques utilized by ancient builders.
 
-# The Gateway of the Sun
+# The Gateway of the Sun [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Monolithic Structure:** The Gateway of the Sun is a monolithic structure, presenting a single piece of carved stone that measures 15 feet 5 inches long, 7 feet 2 inches high, and 18 inches thick. The stone displays four deep, rectangular niches and a central sculptured figure above its doorway.
 
 - **Structural Anomalies:** The top of the monolith is broken, resulting in the sides of the doorway inclining toward each other. This break raises questions about its history, with some attributing the damage to natural events such as lightning or earthquakes.
 
 - **Precise Construction:** The stone of the Gateway is noted for its extraordinary precision—an accuracy that exceeds modern geometric capabilities. Despite some damage, it remains a prime example of superior stonecutting techniques, unparalleled in either ancient or contemporary craftsmanship.
 
-# MSR ANCIENT ROADS AND BRIDGES
+# MSR ANCIENT ROADS AND BRIDGES [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 ## MSRO
 - **Great Ancient Road Systems:** Ancient civilizations like the Romans and Incas constructed extensive road systems surpassing 10,000 miles in length. Despite their remarkable scale, these developments primarily exemplify impressive engineering rather than anomalous technology.
 
@@ -1714,7 +1512,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **Mayan Sacbe System:** The Maya developed an extensive network of raised roads, known as "sacbeob," crafted with significant engineering skill. The unique structure of these causeways is reflected in the building methods and materials utilized, highlighting the ingenuity of Mesoamerican civilizations.
 
 - **Ancient Pathways and Trails:** Evidence suggests a complex network of ancient pathways in North America, possibly predating historic Native American tribes. Excavations and radiocarbon dating indicate these trails were systematically used for thousands of years, challenging contemporary understandings of early American civilizations.
-# Anomalies
+# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Diffusionism Influence**: E. Smith noted a resemblance between the Maya's sacbe system and road construction seen in Southeast Asia, indicating a potential diffusion of techniques. This observation suggested an early oriental influence in Mesoamerica, although the direct connection remains debated.
 
@@ -1741,7 +1539,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **Ara Metua in Cook Islands**: The Ara Metua road, encircling Raratonga, showcases advanced road construction techniques in Polynesia, using fitted basalt slabs and other materials. Its historical significance and age suggest a complex society capable of sophisticated infrastructure development.
 
 - **Great Road of Toi**: The Great Road of Toi in New Zealand is an ancient path paved with volcanic stones, illustrating early Pacific Island road-building techniques. This remnant offers insights into the social and communal activities that took place along these trade routes.
-# Chaco Canyon “Roads” 
+# Chaco Canyon “Roads”  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Purpose**: The Chaco Canyon roads present a significant anomaly due to our lack of understanding regarding their purpose. While many archeologists theorize that they were ceremonial highways, others speculate they served multiple functions such as commerce and military applications.
 
@@ -1751,14 +1549,14 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 
 - **Parallel Road Segments**: The occurrence of parallel or quadruple road segments raises questions about the necessity of multiple pathways when a single wide road could suffice. This duplication suggests either an unexplained preference for redundancy or distinct uses that differ from conventional road systems.
 
-# The Bimini “Road”
+# The Bimini “Road” [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Debate over Artificiality**: The Bimini Road is surrounded by controversy regarding its origins, with some arguing it is man-made while others assert it is a natural formation. The claims of its construction by ancient civilizations, like the Atlanteans, have fueled passionate discussions without definitive proof due to the lack of excavations.
 
 - **Geological Curiosity**: Even if considered a natural formation, the Bimini Road presents unusual features that intrigue geologists. Notable characteristics include a sharp bend, unusual alignment with ancient beach lines, and a high degree of regularity that stand out against typical geological patterns, making it a topic of interest in geological studies.
 
 - **Complex Historical Context**: Enthusiasts and skeptics alike have recognized the cultural significance surrounding Bimini, with claims linked to ancient prophecies and explorations. This blending of science and speculative narratives complicates the straightforward classification of the site as solely geological or archaeological in nature.
-# The Bimini “Road”
+# The Bimini “Road” [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of the Bimini Road's Construct**: The Bimini Road is often claimed to be artificially constructed due to its straight alignment over a length of 1900 feet. This straightness, combined with the ordered rows of blocks not attached to the seabed, suggests the possibility of human engineering, a notion disputed by scientific evidence of natural formation.
 
@@ -1772,35 +1570,35 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 
 - **Geometric Patterns Detected from Aerial Photos**: Richards' study of Landsat photos revealed geometric patterns in the seabed, such as triangles and sharp angles, contributing to the debate about the presence of artificial structures beneath. While these patterns appear superficial due to natural elements like sea grass, they provoke further investigation into possible undiscovered man-made features.
 
-# Other "Biminis"
+# Other "Biminis" [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Beachrock Formations in Australia**: Similar formations observed in Heron Island and north of Sydney exhibit beachrock structures that bear a resemblance to the Bimini Road. The presence of these formations serves to support skeptics who argue for the natural origins of the Bimini structure.
 
 - **Submerged Structures in Lanzarote, Canary Islands**: In Lanzarote, blocks of stone arranged in a staircase-like manner at a depth of 22 meters have prompted speculation about their purpose, whether as a pier or altar. The existence of an Olmec-style statuette nearby adds to the intrigue, though uncertainties about the rock type and depth leave many questions unanswered.
 
-# The Maltese “Cart Ruts”
+# The Maltese “Cart Ruts” [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Presence of Parallel Grooves**: The parallel grooves known as cart ruts, worn into solid rock on Malta, raise questions about their origins and the actions of the vehicles that created them. The controversy surrounds their age, purpose, and the nature of the means used for their formation.
 
 - **Diverse Explanations for Grooves**: Various theories assert that these grooves were made by either wheeled carts or slide-cars pulled by draft animals. The debate includes inconsistencies in age and purpose, indicating that reaching a consensus on this archaeological mystery remains challenging.
-# MSR5 Ancient Bridges
+# MSR5 Ancient Bridges [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Precocious Suspension Bridges**  
   The Maya and Inca developed long, sophisticated suspension bridges, surpassing Old-World technology by several centuries. This advanced engineering illustrates their high levels of civil engineering skills in the Precolumbian New World, qualifying as remarkable rather than anomalous.
 
-# MSW WALLS, EMBANKMENTS, DITCHES
+# MSW WALLS, EMBANKMENTS, DITCHES [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Transoceanic Distribution of Precision-Fit Stone Walls**  
   The precision-fit ahu at Vinapu on Easter Island closely matches Incan masonry, leading to the contentious theory that the Inca reached it before Polynesians arrived. Mainstream science rejects this diffusionist claim, emphasizing that ancient walls' characteristics, while impressive, do not suggest unusual cultural exchanges.
 
-# MSW1 Notable Linear Earthworks, a Survey
+# MSW1 Notable Linear Earthworks, a Survey [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Raised Earthen Embankments and Ditches**  
   These earthworks can be defined by characteristics such as high embankments, deep trenches, and complex networks. Although they offer significant curiosity value due to their size and engineering, they are not considered anomalous for the cultures that created them.
 
 - **Unusual Earthworks in British Columbia**  
   An unusual prehistoric earthwork near Graham Island consists of neatly arranged earthen ridges forming long rectangles with equal lengths, which provoke curiosity among archaeologists due to their precision. The purpose of these structures remains obscure, suggesting potential links to past agricultural practices or buildings.
-# Linear Earthworks 
+# Linear Earthworks  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Mayan Defensive Earthworks**  
   The discovery of a 9.5-km long defensive earthwork north of Tikal was an unexpected find for archeologists investigating the area. The magnitude of this barrier suggests it was an extensive undertaking, contrasting with the expected findings in the region.
@@ -1825,48 +1623,48 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 
 - **Poike Ditch on Easter Island**  
   The Poike Ditch, a peculiar trench on Easter Island, comprises sections believed to have served defensive purposes during tribal conflicts. Despite traditions suggesting its use in battle, some analyses suggest it may have originally served agricultural functions instead.
-# Data Evaluation
+# Data Evaluation [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Ancient rude stone walls have not received the professional attention they deserve. This is particularly true in North America where these walls are often dismissed as the products of colonial farmers.
 
-# Anomaly Evaluation
+# Anomaly Evaluation [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Wall size is not considered anomalous, even when extending over difficult terrain. However, some "Great Walls" are included due to their remarkable engineering, while smaller walls are more mysterious due to their unclear purposes.
 
-# Possible Explanations
+# Possible Explanations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The majority of cataloged walls were constructed for defense or to mark property lines. Some walls without clear purposes may have been built for rituals, similar to certain stone rows.
 
-# Similar and Related Phenomena
+# Similar and Related Phenomena [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Cyclopean walls and precision-fitted Inca-style walls are noted as related phenomena. Other related structures include natural stone walls, stone arrays, and cairn lines, indicating a variety of stone constructions.
 
-# North America
+# North America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Stone walls are prevalent in North America, marking boundaries in glaciated areas. Low stone walls, used by native peoples in game drives, add intrigue, especially those without discernible purposes.
 
-# New York (Ramapo)
+# New York (Ramapo) [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Ramapo walls are described as carefully laid structures spanning 200 acres, yet no artifacts are found to explain their origin. Despite theories of property lines or colonial clearing, the rugged terrain suggests they serve a different purpose.
 
-# West Virginia (Mt. Carbon)
+# West Virginia (Mt. Carbon) [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The 10-mile-long wall at Mt. Carbon remains mysterious, as local lore points to ancient white warriors as its builders. This wall displays sophisticated engineering, including foundational designs that imply a significant construction effort without a clear historical record.
 
-# Idaho
+# Idaho [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Initial impressions of a boulder-structure complex in Idaho categorized it as a fortification, but it turned out to be a game-drive fence. This structure showcases the intentional design to control bison movements, but it also highlights the presence of many similar sites.
 
-# Labrador
+# Labrador [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Labrador, prehistoric game-drive fences guided caribou into specific areas, showcasing another facet of ancient structures. Unlike structures found elsewhere, these fences demonstrate the adaptability of hunter-gatherer societies to their environments.
 
-# Greenland
+# Greenland [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Greenland features game-drive fences built by Eskimos to strategically funnel caribou. Similar to those in Labrador, these structures reflect cultural practices linked to hunting.
 
-# California
+# California [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The mysterious walls in California's San Francisco Bay Area have puzzled residents for over a century, stretching many miles and constructed from large boulders. Histories of property records provide no hints about their builders, leading to speculation about their age and purpose.
 
-# Point Reyes
+# Point Reyes [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The "wall" in Point Reyes is a careful arrangement of stones, seemingly serving as a boundary marker rather than a practical enclosure. Its low height and straight alignment raise questions about its significance, with no clear origin or purpose identified.
 
-# Mesoamerica
+# Mesoamerica [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Isolated stone walls known as "trincheras" near the Arizona-Sonora border have puzzled archaeologists due to their seemingly purposeless nature. Examples like the Quitovaquita trinchera lack artifacts or strategic value, fostering theories about their possible religious significance.
 
-# Mexico
+# Mexico [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Mayan city walls, while defensively impressive, lack the anomalous intrigue found in other structures like the walls in Chiapas. Constructed with significant labor and stonework, these walls reflect the militaristic culture of the Maya but are less enigmatic compared to other ancient wall constructions.
-# Anomalies
+# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Great North Wall, Chiapas, Mexico**  
   This complex is built on a large foundation mound of piled field rock and is oriented almost east-west. The supporting wall is constructed of large boulders, some multiton, and increases in height from 15 to approximately 50 feet over its 650-foot length.
@@ -1885,7 +1683,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 
 - **Patterns of "keyholes" or "kites" in the Middle East**  
   Noticed by pilots in the 1920s, these stone patterns resemble aerial kites with tails extending for up to 18 miles. Constructed primarily from ancient basalt rocks, they suggest a complex method for driving wild animals towards their ends for slaughter.
-# MSW3 Precision-Fit Stone Walls
+# MSW3 Precision-Fit Stone Walls [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Polygonal stonework in Greece**: Polygonal stonework at an ancient fortified site in northeastern Greece bears a superficial resemblance to Incan stonework. Given the lack of connection, it appears more likely that these similarities arose through independent invention rather than ancient interactions between the Greeks and Incans. 
 
 - **Easter Island masonry**: T. Heyerdahl suggests that the earliest colonists of Easter Island came from South America and points to the platform (ahu) at Vinapu as evidence due to its striking similarities to Incan stonework. Despite initial interpretations favoring Heyerdahl's view, later evaluations reveal that the wall's construction technique likely differs from authentic Incan masonry, undermining his theory.
@@ -1894,14 +1692,14 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 
 - **Tonga's Langi Tauhala**: At Tonga, the Langi Tauhala platform features large cut stones reminiscent of those at Baalbek in Lebanon. This structure demonstrates fascinating engineering and may suggest knowledge of seismic activity, yet its remoteness from South America precludes any direct association with Incan builders.
 
-# MSW4 Cyclopean Walls
+# MSW4 Cyclopean Walls [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Tarragona, Spain**: The walls at Tarragona showcase classic cyclopean architecture, remaining largely undamaged over thousands of years. While impressive in size, their crude construction style does not warrant consideration as an anomaly in architectural history.
 
 - **Wall of the Dymaeans in Greece**: Another example of cyclopean architecture exists at the ancient acropolis near Paralimni, built between 2,500 and 2,000 B.C. This wall, made from massive blocks hastily stacked, resembles the Tarragona wall closely and similarly lacks remarkable features relative to other forms of ancient masonry.
 
 - **Underwater wall off Morocco**: Divers discovered a reported cyclopean wall submerged at a depth of 14 meters off the Moroccan coast, supposedly stretching for 9 miles. However, skepticism remains due to the lack of confirmation from credible scientific sources, casting doubt on the wall's existence and authenticity.
 
-# MSW5 Deceptive Natural Walls
+# MSW5 Deceptive Natural Walls [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Natural rock formations**: There are various natural formations that appear to be artificial walls, often resulting from common geological processes. A comprehensive evaluation indicates that most instances attributed to ancient masonry are, in fact, natural rock outcroppings misidentified by non-experts.
 
 - **Chatata Wall in Tennessee**: The ancient "inscribed wall" at Chatata was initially thought to be human-made due to its peculiar surface features. Geological studies eventually indicated that both the wall and its supposed inscriptions likely arose from natural phenomena rather than intentional human design, rendering it more a geological curiosity.
@@ -1911,7 +1709,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **Paraguayan wall**: A report exists of a massive wall hidden within the mountain ranges of Paraguay, said to contain drawings and symbols. However, the lack of scientific validation and documentation raises serious doubts about its authenticity, leading to suspicions that it may not exist at all.
 
 - **New Zealand wall hypotheses**: An enigmatic stone formation in New Zealand is speculated to be either an ancient structure built by settlers or a remnant of a modern sawmill. Alternatively, it may simply be a natural rock formation, demonstrating the complexities in distinguishing human-made structures from geological phenomena.
-# Deceptive Natural Walls
+# Deceptive Natural Walls [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Kaimanawa Wall Characteristics**: The Kaimanawa Wall in New Zealand is marked by stone blocks that seem to be manmade. The stones are 4-ton blocks of ignimbrite with a composed structure that raises questions about their origins.
 
@@ -1922,7 +1720,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **Kiore Bones Evidence**: The presence of kiore bones, a rat species not native to New Zealand, supports the argument for a pre-Maori population in the region. Some of these bones are dated to be 2,000 years old, predating the arrival of the first Maoris. 
 
 - **Skepticism from Experts**: New Zealand archaeologists are hesitant to change their understanding of the region's history, which primarily attributes the discovery and colonization to the Maoris. The skepticism remains that the wall suggests connections to a pre-Polynesian culture with similar structures across the Pacific and South America.
-# Anomalies
+# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **MSM5-R2**: This anomaly is associated with an unclear text reference but can typically be interpreted as a citation for a study concerning ancient mysteries. It hints at possible links to various archaeological findings highlighting enigmatic historical events.
 
@@ -1947,7 +1745,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **MSD3-R1**: Denotes a citation that possibly tackles anomalies related to geological findings or their implications on human history. This ambiguity raises interesting questions about the relationship between the earth’s history and human civilization.
 
 - **MSE3-R25**: Represents an anomaly found within archaeological discussions, hinting at potential discoveries that yield inconsistent data with established narratives. This inclusion sparks an academic investigation into archaeological methods and interpretations.
-# Anomalies
+# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Smithsonian Institution**  
   The Smithsonian Institution has been associated with various archaeological and anthropological studies, yet its role in some findings has led to skepticism. Controversies often arise about the organization's handling and interpretation of artifacts.
@@ -1978,7 +1776,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 
 - **Great Stone Mound**  
   The Great Stone Mound is known for its impressive size and strange construction techniques attributed to prehistoric peoples. The functions and methods of creation continue to bewilder archaeologists studying ancient cultures.
-# Anomalies
+# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Lorenzo**: This anomaly includes various designations such as MSE1-X2, MSM4-X1, and many more. Each code may represent a distinct site of interest or geological formation linked to the anomalies.
 

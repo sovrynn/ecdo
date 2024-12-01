@@ -1,207 +1,107 @@
 # GPT Summary: Table of Contents
 
 - [CATALOG OF GEOLOGICAL ANOMALIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#catalog-of-geological-anomalies)
-The Earth's interior presents numerous chemical and physical anomalies, including surprising geological formations, gravitational and heat-flow discrepancies, and anomalous seismic signals, challenging current scientific theories and models of the planet's structure and processes.
 - [EC MISCELLANEOUS CHEMICAL AND PHYSICAL ANOMALIES ASSOCIATED WITH INNER EARTH](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#ec-miscellaneous-chemical-and-physical-anomalies-associated-with-inner-earth)
-The observed anomalous abundances of noble gases in the Earth challenge current theories about the planet's chemical makeup, thermal history, and atmospheric processes.
 - [ECC CHEMICAL ANOMALIES ASSOCIATED WITH INNER EARTH](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#ecc-chemical-anomalies-associated-with-inner-earth)
-The Earth exhibits chemical anomalies such as a shortage of atmospheric helium-4, an unexplained source of helium-3, and missing xenon, suggesting complex internal processes and potential primordial contributions.
 - [ECD SURPRISING DISCOVERIES FROM DEEP DRILLING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#ecd-surprising-discoveries-from-deep-drilling)
-Deep drilling projects have revealed surprising findings such as higher-than-expected temperatures, variable rock densities, and the presence of circulating fluids at great depths, challenging current geological models and assumptions about Earth's inner conditions.
 - [Anomalies in Geological Studies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#anomalies-in-geological-studies)
-Geological studies across various regions have uncovered numerous anomalies, including elusive discontinuities, buried magnetic anomalies, deep life forms, and gravity variations, challenging existing models of Earth's geological formations and processes.
 - [ECH HEAT-FLOW ANOMALIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#ech-heat-flow-anomalies)
-The Earth's mantle exhibits significant inhomogeneities possibly due to extraterrestrial accretion, while post-earthquake gravity variations and mid-plate volcanism, such as in Hawaii, challenge conventional geological models, indicating complex internal dynamics and thermal processes.
 - [Correlations with Thermal-Plume Activity](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#correlations-with-thermal-plume-activity)
-The anomalies related to hot spots, including their dearth on continental plates, non-random distribution, concentration along geoid highs, and correlation with other geophysical phenomena, challenge existing theories of continental drift and thermal-plume activity, while also raising questions about the periodicity of terrestrial catastrophes.
 - [EQ SEISMIC PROBING OF INNER EARTH](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#eq-seismic-probing-of-inner-earth)
-Research indicates that volcanic episodes linked to thermal plumes may correlate with significant geophysical and biological impacts, while seismic probing reveals complex structures and stratifications within the Earth's core, mantle, and basement rocks, challenging existing geological models and theories.
 - [Anomalies in the Earth's Mantle](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#anomalies-in-the-earths-mantle)
-Recent findings reveal that the Earth's mantle exhibits significant variations in material composition and structure, challenging previous assumptions and highlighting the complexity of its dynamics and geological processes.
 - [Anomalous Structures at the Core-Mantle Boundary](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#anomalous-structures-at-the-core-mantle-boundary)
-Elastic lenses with dimensions of at least 6-8 km can create focusing effects mistaken for local structures, while seismic tomography provides insights into mantle lateral inhomogeneities by mapping the Earth's interior using seismic waves.
 - [FRAIL EE SS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#frail-ee-ss)
-Seismic tomography studies reveal insights into geological formations, suggesting mantle dynamics influence mountain building under the San Andreas fault and indicating potential ancient subduction zones beneath North America and Siberia.
 - [EQA6 Seismic Reflectors in the Lower Crust and Upper Mantle](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#eqa6-seismic-reflectors-in-the-lower-crust-and-upper-mantle)
-Seismic studies reveal anomalous structures, including mountain-like features up to 10 kilometers high, at the core-mantle boundary, though discrepancies among different seismic tomographic models suggest these may be influenced by data interpretation.
 - [EQD1 Velocity Discontinuities in the Upper Mantle](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#eqd1-velocity-discontinuities-in-the-upper-mantle)
-Seismic studies reveal an anomalous concentration of reflective regions in the lower crust compared to the upper crust, prompting inquiries into the geophysical properties distinguishing these Earth layers.
 - [EQD2 Channels and Zones](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#eqd2-channels-and-zones)
-Strong laminated reflections in the crust, initially expected to represent layered rock compositions, can sometimes prove deceptive, as seen in Arizona where drilling revealed a fault zone instead, highlighting mismatches between seismic readings and actual geological structures.
 - [Possible Anomalies of the Earth's Mantle](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#possible-anomalies-of-the-earths-mantle)
-Recent seismic studies have revealed complex and varied structures within the Earth's mantle, including abnormally reflective patches, fuzzy Moho boundaries, and several velocity discontinuities, challenging traditional understandings of mantle composition and dynamics.
 - [Possible Structural Anomalies of the Inner Core](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#possible-structural-anomalies-of-the-inner-core)
-The Earth's mantle presents anomalies such as the unexpected absence of the Low-Velocity Zone under continents and the enigmatic D" layer with unusual seismic velocities near the core-mantle boundary.
 - [Anomalies Associated with Mantle Convection Cells](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#anomalies-associated-with-mantle-convection-cells)
-Distinct geographically limited zones in the Earth's mantle, notably in the northwestern Pacific and French Polynesia, exhibit unusual seismic velocities and anisotropic properties that challenge current scientific explanations.
 - [Anomalous Seismic Signals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#anomalous-seismic-signals)
-The inner core of the Earth may exhibit a prolate shape, resembling a slightly elongated sphere.
 - [Catalog of Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#catalog-of-anomalies)
-The inner core of the Earth may have a prolate shape and exhibit heterogeneities, challenging our understanding of its structure, while anomalies in mantle convection, deep-focus earthquakes, and geological time scales raise questions about the mechanisms driving Earth's geological processes and the accuracy of our current models.
 - [AN UNCONFORMITY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#an-unconformity)
-The succession of geological periods based on fossil records may be inaccurate, hinting at a more complex history of life on Earth than currently understood.
 - [REDWALL FORMATION - TEMPLE BUTTE FORMATION](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#redwall-formation---temple-butte-formation)
-The absence of evidence in paraconformities and the missing Precambrian crust with ophiolites challenge our understanding of geological continuity and Earth's stratification processes.
 - [X5. The Colorado Plateau](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#x5-the-colorado-plateau)
-The missing Precambrian geological record, particularly the absence of expected oceanic crust pieces before 2 billion years ago, along with significant time gaps noted by early geologists between rock formations, challenges our understanding of Earth's early crust and its geological history.
 - [X6. The Salt Range, Pakistan](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#x6-the-salt-range-pakistan)
-A striking paraconformity in the Appalachians reveals a significant gap in the geological record where layers of rock appear continuous but are actually separated by a considerable time interval, showcasing the complex geological history of the region.
 - [X7. Two important Canadian paraconformities](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#x7-two-important-canadian-paraconformities)
-A paraconformity in Kentucky challenges geological time understanding by showing an absence of unconformity evidence between strata of different ages, while the Grand Canyon's stratigraphic anomalies offer critical insights into geological processes and timelines.
 - [X8. Indian Ocean sediments](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#x8-indian-ocean-sediments)
-The Grand Canyon exhibits significant temporal gaps, notably missing rocks from the Ordovician and Silurian periods, as well as an additional gap higher in the strata, evidenced by the scattered Temple Butte Limestone and the Supai formation's placement above the Redwall limestone without angular discordance.
 - [X9. The incompleteness of the Stratigraphic Record: The Sedimentation Rate argument](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#x9-the-incompleteness-of-the-stratigraphic-record-the-sedimentation-rate-argument)
-The Redwall Formation consists of 550 feet of Mississippian limestone conformably overlaying Cambrian Muav limestone, with an estimated 20 million years of Pennsylvanian time missing from its strata.
 - [X10. The incompleteness of the Stratigraphic Record: The Missing Period argument](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#x10-the-incompleteness-of-the-stratigraphic-record-the-missing-period-argument)
-The Colorado Plateau shows a gap of over 200 million years in its geological record, with the Ordovician, Silurian, and Lower Devonian periods notably absent.
 - [Lateral Variations in Strata](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#lateral-variations-in-strata)
-The text discusses how various geological sites around the world, including the Colorado Plateau, Salt Range in Pakistan, and locations in Canada, showcase complex transitions between geological periods marked by significant biological changes and minimal physical breaks, challenging straightforward interpretations of the Earth's historical timeline.
 - [Inverted Strata](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#inverted-strata)
-The geological sedimentary record, as revealed by deep-sea drilling projects and stratigraphic analyses, is highly incomplete, showcasing significant temporal gaps and lateral variations that challenge the continuity of the Earth's geological history.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#anomalies)
-Sedimentary strata exhibit anomalies through radical lateral facies changes and fossil-content variations, challenging conventional notions of stratigraphic law and temporal consistency.
 - [Anomalies in Geology](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#anomalies-in-geology)
-Geological anomalies, including large-scale splitting and interfingering of strata, as well as inverted strata with sharp fault contact zones, challenge traditional interpretations of sediment deposition and rock formation.
 - [ESR3 Inverted Strata](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#esr3-inverted-strata)
-The survival of distinct fault contact zones and massive outlier formations like Chief Mountain challenges geological understanding and highlights the complex tectonic forces and processes at play.
 - [ESR4 Near-Global Unconformities](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#esr4-near-global-unconformities)
-The Heart Mountain phenomenon showcases a geological complexity involving older sedimentary rock blocks positioned atop younger surfaces, challenging previous understandings of overthrust faulting.
 - [ESR5 Anomalies of Rhythmites and Cyclothems](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#esr5-anomalies-of-rhythmites-and-cyclothems)
-The Lewis Overthrust, featuring significant geological implications for inverted strata, involves older rocks thrust over younger formations along the eastern front of the Rocky Mountains, while other overthrusts like the Moine and Glarus provide varied evidence and interpretations of tectonic activity.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#anomalies)
-The text explores various geological puzzles including the mechanical paradox of thrust faulting, the challenges in explaining near-global unconformities, and the unexplained cyclicity in rhythmites and cyclothems, highlighting ongoing efforts to refine geological theories and models.
 - [g lithological types: (A)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#g-lithological-types-a)
-Geological anomalies, including incompatible cyclothem members, discrepancies in duration estimates, intact thin laminae, and perfectly preserved fish fossils, challenge established theories and suggest the need for reevaluation of geological processes and timelines.
 - [The Carboniferous Period](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#the-carboniferous-period)
-L.D. Stamp's estimation of the Oligocene and half of the Miocene period being around 23 million years, along with the significant sediment deposition in Burma over a million years, underscores the complexities in measuring geological time, where the meticulous counting of sediment laminae may offer more precise temporal determinations than currently overshadowed by radiometric dating methods.
 - [The "fireclays" or "underclays" of the coal measures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#the-fireclays-or-underclays-of-the-coal-measures)
-The study of sedimentary cycles in both the Eocene period of the Gulf Coast and the Jurassic period in New Jersey provides insights into the complex interplay of marine, continental, and climatic factors influencing sediment deposition over time.
 - [The great coal-bearing cyclothems of the U.S. interior](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#the-great-coal-bearing-cyclothems-of-the-us-interior)
-The Triassic period displays rhythmic sediment patterns indicative of climatic changes without glaciation evidence, while the Permian Castile Formation features calcite-anhydrite laminations interpreted as seasonal varves, though both interpretations face uncertainties.
 - [A marine-nonmarine thickness cycle in Great Britain](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#a-marine-nonmarine-thickness-cycle-in-great-britain)
-The identified strata showcase a gradation from pebbly, very coarse sandstone indicative of high-energy environments, through coarse to medium sandstone suggesting variable energy conditions, to fine sandstone reflecting quieter depositional settings.
 - [Carboniferous cyclothems without coal members](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#carboniferous-cyclothems-without-coal-members)
-The sedimentary anomaly features interbedded sandstone, siltstone, and shale, with carbonaceous components suggesting organic-rich environments like marshes or deltas.
 - [The Devonian Period](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#the-devonian-period)
-The Carboniferous Period is characterized by the presence of coal, indicating past swampy environments with high organic productivity, and cyclic sedimentary sequences that reflect climatic changes and alternating transgressive and regressive cycles.
 - [The Silurian Period](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#the-silurian-period)
-The cyclothems in Illinois, Kansas, and the Appalachian basin exhibit distinct cycles, highlighting variations in geological processes and depositional environments among these regions.
 - [The Ordovician Period](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#the-ordovician-period)
-The identification of Milankovitch cycles in Kansas cyclothems highlights the enduring influence of Earth's orbital mechanics on climate, while the widespread presence of Carboniferous cyclothems globally hints at unified climatic or catastrophic processes shaping these geological formations.
 - [The Cambrian Period](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#the-cambrian-period)
-The "fireclays" or "underclays" of the coal measures refer to specific sedimentary rock layers found beneath coal seams, which are notable for their heat-resistant properties and historical use in the manufacture of ceramics and refractory materials.
 - [X12. The Precambrian Period](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#x12-the-precambrian-period)
-The debate surrounding coal seams and fireclays highlights their frequent but not inevitable coexistence, alongside questioning the depositional origins of the unusually thick fireclay formations.
 - [ESR5  Rhythmites and Cyclothems](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#esr5--rhythmites-and-cyclothems)
-The presence of marine fossils in the underlying sediments of modern peat bogs contradicts the absence of such fossils in ancient fireclay deposits associated with coal, challenging current theories on coal formation.
 - [X13. Theories of cyclic sedimentation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#x13-theories-of-cyclic-sedimentation)
-The cyclothem concept, developed in the American interior, signifies the recognition of cyclic patterns in Pennsylvanian sedimentation, highlighting key geological processes from that era.
 - [Anomalies in Geological Deposits](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#anomalies-in-geological-deposits)
-The diverse theories on cyclothem origins and their varied characteristics across regions, such as the 145-foot thickness cycle in Britain and coal-less cyclothems in New Mexico, highlight the complex interplay of marine, nonmarine, and isostatic factors in shaping Carboniferous sedimentary records.
 - [Continental Rocks in the Ocean Deeps](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#continental-rocks-in-the-ocean-deeps)
-Cyclic sedimentation patterns across various geological periods, from the Precambrian to the Devonian, reveal insights into the climatic, tectonic, and astronomical influences shaping Earth's geological history.
 - [Exotic Terranes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#exotic-terranes)
-Anomalies in geological deposits, such as undisturbed ancient sediments, unconsolidated materials, uniquely distributed hydrocarbon deposits, and vertically stacked sandstones, challenge conventional understandings of geological processes and timelines.
 - [The Interior of North America](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#the-interior-of-north-america)
-The discovery of continental rocks such as granite and limestone in deep ocean waters challenges existing geological theories and prompts reconsideration of their origin and transportation mechanisms.
 - [Asia](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#asia)
-The North Brazilian Submarine Ridge showcases continental rocks found deep within the ocean, highlighting unique geological features beneath the sea.
 - [South America](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#south-america)
-The Rio Grande Rise features Miocene ooze, approximately 10 million years old, resting on weathered shallow-water limestone at significant depths, providing crucial insights into the geological history of Brazilian waters.
 - [Europe](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#europe)
-A lithified shallow-water coquina significantly older than 72 million years, found far from the South American coast, along with terrestrial materials like anthracite coal from the Blake Plateau and Orphan Knoll, suggests complex movements and transformations of continental shelf materials over time.
 - [Other Continents](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#other-continents)
-The Galicia Bank, a flat-topped underwater structure composed of metamorphic rocks of continental origin, offers insights into the historical processes of continental drift and geological faulting.
 - [Anomalies Related to Geological Events](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#anomalies-related-to-geological-events)
-Various geological findings across different regions, including sedimentary rocks on the Rockall-Faeroe Plateau, late Jurassic sediment on the Demerara Plateau, granite pebbles in the Caribbean Basin, atypical rock compositions on the Mid-Atlantic Ridge, and sunken continental fragments in the Mediterranean, suggest complex interactions and transformations between continental and oceanic crusts over geological timescales.
 - [Local Compass Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#local-compass-anomalies)
-This text explores the diverse geological histories of various terranes across North America, challenging traditional views on the formation and movement of landmasses, and highlights the complex geological processes involved in the creation of these regions.
 - [Magnetized Geological Features](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#magnetized-geological-features)
-Geological studies in Asia and South America highlight unique formations and movements, with the Tokoro Belt in Japan indicating an equatorial origin in the early Cretaceous and the Lancones basin in Peru showing signs of a distinct continental terrane accretion during the Early to Late Cretaceous.
 - [Oceanic Magnetic Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#oceanic-magnetic-anomalies)
-The text explores diverse geological features and anomalies across various regions, including the complex terrains of the Caledonian and the Adria microplate in Europe, the unknown terranes of other continents, and specific geological formations like the anorthosite belts, Andesite Line, greenstone belts, red granite-rhyolite belt, and Dupal anomaly, highlighting the intricate history and ongoing mysteries of Earth's geological evolution.
 - [Anomalies in Magnetic Profiles](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#anomalies-in-magnetic-profiles)
-Various locations around the world have experienced significant local magnetic disturbances, affecting compass readings, which can be attributed to geological features, human activities, and natural phenomena.
 - [EzZC4 Geomagnetic-Field Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#ezzc4-geomagnetic-field-anomalies)
-Oceanic magnetic anomalies exhibit complexities such as asymmetry, varying amplitude with distance, and fine structural details that challenge and refine our understanding of sea-floor spreading and plate tectonics.
 - [EZC5 Electrical Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#ezc5-electrical-anomalies)
-Magnetic anomaly studies in various oceanic regions challenge established geological theories through discrepancies in patterns and amplitudes, prompting ongoing investigations and debates about sea-floor spreading and the expanding Earth hypothesis.
 - [CONFIGURATION ANOMALIES AND ME SECULAR VARIATIONS OF THE GEOMAGNETIC FIELD](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#configuration-anomalies-and-me-secular-variations-of-the-geomagnetic-field)
-Detailed magnetic studies of the seafloor reveal varying magnetization depths, dating uncertainties, continuity gaps, localized anomalies, and skewed patterns that challenge uniform theories of sea-floor spreading and magnetic field behavior.
 - [Secular Variations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#secular-variations)
-Deep subsurface sources of magnetic anomalies, such as the Canadian and Bangui anomalies, challenge traditional geological understanding and highlight the complexity of geomagnetic field variations, while sea-floor spreading adds debate to Earth's expansion theories.
 - [Drift and changing structure of the non-dipole field](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#drift-and-changing-structure-of-the-non-dipole-field)
-Historical geomagnetic data reveals stationary high magnetic flux lobes that challenge traditional drift theories, while a strong magnetic anomaly in the Paris Basin remains unexplained despite extensive drilling efforts.
 - [Correlation of geomagnetism and climate](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#correlation-of-geomagnetism-and-climate)
-The text highlights the discovery of 16 symmetrical eddies in earth currents raising unanswered questions about their solar fixation and seasonal changes, alongside a notable "hot spot" under the Andes suggesting a connection to crustal movements and exhibiting currents strong enough to surpass nearby oceanic influences.
 - [Geomagnetic fluctuations potentially correlated with weathering processes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#geomagnetic-fluctuations-potentially-correlated-with-weathering-processes)
-Magnetic field variations along the Northern France and Channel Coasts indicate the presence of conductive channels, whose origins are uncertain but are influenced by both surface and deeper geological layers, while similar studies in Australia explore electrical conductivity patterns.
 - [Historical measurements of polar wandering](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#historical-measurements-of-polar-wandering)
-Geophysicists have discovered high electrical conductivity channels linked to seismic activity in Australia, including a large underground circuit in New South Wales, while an immense current of terrestrial electricity flows through the Pacific Northwest, though its origin and magnitude are still unknown.
 - [Secular variation impulses or magnetic "jerks"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#secular-variation-impulses-or-magnetic-jerks)
-Research in Arizona and North America's Central Plains reveals geomagnetic variations and conductivity anomalies suggesting complex subsurface structures influenced by regional geology and tectonic activity.
 - [EZF3 Problems of Geomagnetic-Field Generation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#ezf3-problems-of-geomagnetic-field-generation)
-Deep global conductivity channels, contrary to earlier beliefs, indicate the presence of significant aqueous fluids in the lower crust, as observed in deep boreholes like those on the Kola peninsula, while also highlighting complexities in geomagnetic field configurations and secular variations.
 - [EZP1 Problems in Measuring and Interpreting Paleomagnetism](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#ezp1-problems-in-measuring-and-interpreting-paleomagnetism)
-The geomagnetic field's complexity, characterized by its axial tilt, significant non-dipole nature, and unpredictable secular changes, challenges the conventional understanding and models of the geodynamo theory.
 - [Problems of Paleomagnetism](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#problems-of-paleomagnetism)
-The Earth's geomagnetic field, influenced by an offset geomagnetic axis, large-scale non-dipole aspects, and complex core circulation patterns, exhibits secular variations including a historical decay of its dipole component, compensated by an increase in the non-dipole component, and has practical implications such as acting as a protective shield against cosmic rays and solar wind.
 - [Anomalies in Paleomagnetism](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#anomalies-in-paleomagnetism)
-The Earth's geomagnetic field exhibits complex behaviors including a westward drift, ephemeral features, and sudden accelerations known as "jerks," while its generation, influenced by the geodynamo theory, remains a subject of scientific investigation involving energy sources and initial magnetic field requirements.
 - [The Lake Mungo Paleomagnetic Excursion](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#the-lake-mungo-paleomagnetic-excursion)
-Paleomagnetic studies face significant challenges due to measurement inaccuracies, geological disturbances affecting natural remanent magnetization, and the coexistence of normal and reversed magnetizations in samples, which complicate the interpretation of Earth's historical magnetic field.
 - [The Imuruk Lake Excursion](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#the-imuruk-lake-excursion)
-New drilling data suggests the ocean floor is composed of a complex mosaic of differently magnetized regions, potentially challenging current theories on sea-floor spreading and plate tectonics, while mechanisms to explain geomagnetic field reversals remain under investigation.
 - [The Blake Event: 108,000-114,000 years ago](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#the-blake-event-108000-114000-years-ago)
-Warlow's theory proposes that cosmic events can cause the Earth to flip upside down every few hundred thousand years, leading to geomagnetic reversals and drastic changes to its magnetic field.
 - [Reversed magnetization in recent pyroclastics from Colombia](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#reversed-magnetization-in-recent-pyroclastics-from-colombia)
-The self-reversing properties of certain minerals have occasionally raised concerns over the accuracy of paleomagnetic measurements, though such occurrences are rare.
 - [Possible rapid field changes recorded by historical lava flows in Hawaii](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#possible-rapid-field-changes-recorded-by-historical-lava-flows-in-hawaii)
-Titanohematite, once thought to be rare, has been found more frequently, complicating the analysis of magnetic orientations in geological samples and thus affecting the dating of lava beds, while also highlighting the potential influence of magnetostriction on paleomagnetic studies.
 - [Episode of steep geomagnetic field inclination about 120,000 years ago](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#episode-of-steep-geomagnetic-field-inclination-about-120000-years-ago)
-Research suggests that both physical pressure on magnetized rocks and the geochemical properties of rocks can alter their magnetic characteristics, challenging the accuracy of traditional paleomagnetic interpretations.
 - [Possible periodicity in the excursions of the geomagnetic field](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#possible-periodicity-in-the-excursions-of-the-geomagnetic-field)
-Scientists are challenged to reconcile the increasing number of observed correlations between magnetic polarity and rock properties with existing theories of paleomagnetism, complicating the understanding of geomagnetic reversals.
 - [Claims for a 30-million-year periodicity](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#claims-for-a-30-million-year-periodicity)
-Recent studies indicate that certain ferromagnetic minerals can exhibit an "instantaneous self-reversal" during formation, acquiring magnetization that opposes the external magnetic field, thus challenging previous assumptions about magnetization in mineralogy.
 - [The varying rate of reversals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#the-varying-rate-of-reversals)
-The discovery that magnetic field strength fluctuates over time when measured above an electrochemical cell indicates that corrosion currents can reverse direction, hinting that the Earth could function similarly to a vast electrochemical cell.
 - [Possible Anomalous Phenomena During Reversals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#possible-anomalous-phenomena-during-reversals)
-Various factors including magnetofossils, biologically induced magnetization, lightning effects, and sedimentation processes complicate the interpretation of natural remanent magnetization in geological studies.
 - [Anomalies in Permian Brachiopods](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#anomalies-in-permian-brachiopods)
-A.A. Meyerhoff challenged key assumptions of paleomagnetism, especially concerning the dynamo theory of Earth's magnetic field, impacting the foundations of modern plate tectonics theory.
 - [Paleomagnetic Measurements of Ancient Earth Radii](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#paleomagnetic-measurements-of-ancient-earth-radii)
-The text explores the themes of journeys outward and inward, capturing the essence of movement and reflection in human experience.
 - [Paleopole Overshoot](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#paleopole-overshoot)
-Geomagnetic excursions and reversals, with their irregular occurrences and potential unexplained mechanisms, challenge scientific understanding and drive further research beyond the geodynamo theory.
 - [Paucity of Precambrian High-Latitude Poles](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#paucity-of-precambrian-high-latitude-poles)
-Recent anomalous excursions in the geomagnetic field during the Brunhes normal polarity interval highlight the field's volatility and geographic variability, challenging the creation of a reliable geodynamo model.
 - [Excessive Polar Wander and Slippage of the Crust and Mantle](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#excessive-polar-wander-and-slippage-of-the-crust-and-mantle)
-Archaeomagnetic measurements involve analyzing the magnetic orientation of ancient materials to determine their age and the past Earth's magnetic field characteristics.
 - [True Polar Wandering and Crustal Slippage](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#true-polar-wandering-and-crustal-slippage)
-Ancient bricks and pottery reveal fluctuations in geomagnetic intensity over 10,000 years, suggesting non-linear behaviors in magnetic field changes and posing challenges for paleomagnetic research due to geographical variations.
 - [Inconsistencies in Paleomagnetic Measurements](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#inconsistencies-in-paleomagnetic-measurements)
-The Gothenburg Excursion, a significant paleomagnetic event, may correlate with climate changes, indicating that Earth's magnetic disturbances can have global implications and highlighting the complex interactions between geological and climatic systems.
 - [Common Precambrian Polar Wandering](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#common-precambrian-polar-wandering)
-Please provide the text to summarize.
 - [EZP4 Paleomagnetic inconsistencies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#ezp4-paleomagnetic-inconsistencies)
-Recent studies suggest that the Earth's magnetic field can undergo rapid reversals or transitions, occurring potentially within centuries, as indicated by findings from historical artifacts, subglacial lavas, and paleomagnetic excursions.
 - [EZP5 Correlations of Polarity Reversals with Other Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#ezp5-correlations-of-polarity-reversals-with-other-phenomena)
-The discoveries at Lake Mungo, Australia, reveal an unusual geomagnetic event characterized by a high remanent magnetization and field intensity around 30,000 years ago, while anomalous magnetic fabric in Imuruk Lake sediments indicates another significant geomagnetic excursion.
 - [Reversals Correlated with Other Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#reversals-correlated-with-other-phenomena)
-Researchers caution that recorded geomagnetic field excursions may reflect geological distortions rather than genuine short-term changes, while various anomalies and potential periodicities in the field's behavior over different time scales challenge our understanding of Earth's magnetic dynamics.
 - [Anomalies Related to Geomagnetic Reversals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#anomalies-related-to-geomagnetic-reversals)
-Research and observations on Earth's magnetic field reversals reveal irregular patterns, extreme changes in field intensity and direction, and anomalies such as fluctuating pole positions and brachiopod diversity that challenge traditional views of Earth's geological history and dynamics.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#anomalies)
-The text explores various anomalies and findings in paleomagnetic studies, including the paucity of high-latitude poles in the Precambrian, inconsistencies in paleomagnetic measurements, and correlations between geomagnetic reversals and other geological phenomena, highlighting the complexity and ongoing research in understanding Earth's magnetic history.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#anomalies)
-Various regions across the United States, each with unique geological features and formations, warrant thorough exploration and analysis to enhance our understanding of geological processes and histories.
 - [Theory](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#theory)
-Both the U.S.-Utah ESR3-X0 and U.S.-Vermont regions offer significant geological richness that could provide valuable insights and enhance seismic knowledge through further research.
 - [Subject Index](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/inner-earth.md#subject-index)
-The text summarizes various geological sites and anomalies across the United States, highlighting their significance for enriching our understanding of geological processes, ecological insights, and historical events through continued research and exploration.
 
-# CATALOG OF GEOLOGICAL ANOMALIES
+# CATALOG OF GEOLOGICAL ANOMALIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Chemical and Physical Anomalies Associated with Inner Earth**  
   This category encompasses various unexplained chemical and physical phenomena observed in the Earth's interior. These anomalies challenge prevailing scientific theories and observations regarding material composition and physical processes.
@@ -247,12 +147,12 @@ The text summarizes various geological sites and anomalies across the United Sta
 
 - **Neglected Geological Anomalies**  
   A number of geological anomalies have been overlooked or insufficiently studied, potentially offering fruitful avenues for future research. Addressing these neglected areas could enhance the scientific community's understanding of geological processes.
-# EC MISCELLANEOUS CHEMICAL AND PHYSICAL ANOMALIES ASSOCIATED WITH INNER EARTH
+# EC MISCELLANEOUS CHEMICAL AND PHYSICAL ANOMALIES ASSOCIATED WITH INNER EARTH [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomalous Abundances of Some Noble Gases**  
   The noble gases exhibit abundances that are either unexpectedly high or low when related to established theories regarding the Earth's origin and evolution. This inconsistency raises questions about the accuracy of our understanding of the Earth's chemical constitution, thermal history, and atmospheric processes.
 
-# ECC CHEMICAL ANOMALIES ASSOCIATED WITH INNER EARTH
+# ECC CHEMICAL ANOMALIES ASSOCIATED WITH INNER EARTH [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Dearth of helium-4 in the Earth's atmosphere**  
   Observations indicate that the existing levels of helium-4 in the atmosphere are significantly lower than predictions based on geological and astronomical data. This anomaly has prompted hypotheses suggesting possible catastrophic events or other mechanisms causing the helium-4 escape.
@@ -263,7 +163,7 @@ The text summarizes various geological sites and anomalies across the United Sta
 - **Where is the Earth's missing xenon?**  
   The abundances of xenon in the Earth's atmosphere are significantly depleted relative to expectations based on meteorite comparisons. This "missing" xenon poses challenges for understanding Earth's chemical composition and suggests that our assumptions about planetary materials may need reevaluation.
 
-# ECD SURPRISING DISCOVERIES FROM DEEP DRILLING
+# ECD SURPRISING DISCOVERIES FROM DEEP DRILLING [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Drilling Truth Confounds Surface Science**  
   The deep drilling projects reveal data that contradict surface geological models, highlighting the inadequacy of surface instrumentation to accurately reflect inner Earth conditions. The discrepancies, including unexpected temperature and density profiles, challenge conventional geological understanding.
@@ -279,7 +179,7 @@ The text summarizes various geological sites and anomalies across the United Sta
 
 - **Elusive discontinuities and reflectors**  
   Drilling results have revealed that certain expected seismic reflectors, such as the Conrad discontinuity, do not correspond to previously identified geological transitions. This challenges the notion of a straightforward layer of basalt underlying acidic rocks, suggesting more complex geological formations below the surface.
-# Anomalies in Geological Studies
+# Anomalies in Geological Studies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Laurentian Rock Anomaly**  
   The discovery of vast amounts of Laurentian granite and rhyolite beneath North America raises significant questions about geological processes 1.3-1.6 billion years ago. These rocks, while chemically identical, have different formation processes, suggesting mysterious thermal activity in the continent's past.
@@ -319,7 +219,7 @@ The text summarizes various geological sites and anomalies across the United Sta
 
 - **Anomalous Gravity Signals Following Earthquakes**  
   Variations in gravitational fields post-earthquake present intriguing phenomena, likely linked to fluid motions initiated by seismic activity. These anomalies might not threaten existing scientific laws but invite further investigation into the inner workings of Earth's geology following large seismic events.
-# ECH HEAT-FLOW ANOMALIES
+# ECH HEAT-FLOW ANOMALIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly: Origin of Mid-Plate Volcanism**
   The emergence of hot spots and associated volcanism in oceanic and continental plates far from spreading and subduction zones presents a significant anomaly. Plate tectonics fails to explain how volcanism can occur in these mid-plate locations.
@@ -332,7 +232,7 @@ The text summarizes various geological sites and anomalies across the United Sta
 
 - **Anomaly: Non-Random Distribution of Hot Spots**
   Hot spots exhibit a non-random distribution across distinct areas of the crust, which raises questions about their origins. This phenomenon could imply either that geoid highs facilitate upwelling mantle or that the hot spots are located in regions where magma material can penetrate more easily.
-# Correlations with Thermal-Plume Activity
+# Correlations with Thermal-Plume Activity [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Dearth of continental hot-spot tracks (ECH3)**  
   This anomaly points to a scarcity of documented hot-spot tracks across continents which brings into question the expected distribution of thermal-plume activity. It challenges existing theories about how these geological features should manifest on land.
@@ -352,7 +252,7 @@ The text summarizes various geological sites and anomalies across the United Sta
 - **Possible mechanism for creating periodic thermal plumes (X2)**  
   Some theorists propose that regular asteroid and comet movements could account for the periodicity of thermal-plume activity. Others suggest that heat dynamics in the Earth's mantle, particularly the behavior of the D" layer, play a key role in this periodic phenomenon.
 
-# EQ SEISMIC PROBING OF INNER EARTH
+# EQ SEISMIC PROBING OF INNER EARTH [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Localized structures in the core and mantle (EQA)**  
   There is evidence of intricate localized structures within the Earth's core and mantle, challenging the view of a uniform interior. These findings present a complex geological picture that could redefine our understanding of Earth's internal composition.
@@ -374,7 +274,7 @@ The text summarizes various geological sites and anomalies across the United Sta
 
 - **Seismic reflectors in the lower crust and upper mantle (EQA6)**  
   The presence of unexpected seismic reflectors in the lower crust and upper mantle suggests that these regions have undergone complex geological processes. These reflectors, often not detected earlier, hint at the intricacies of Earth's subsurface geology.
-# Anomalies in the Earth's Mantle
+# Anomalies in the Earth's Mantle [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **X1**: Recognition of lateral inhomogeneities in the lower mantle. As the science of seismology progressed, strong lateral variations of about 5% in the elastic properties of rocks were detected, even below 700 kilometers. By the early 1980s, irregular features in the lower mantle were beginning to be understood through seismic tomography.
 
@@ -386,16 +286,16 @@ The text summarizes various geological sites and anomalies across the United Sta
 
 - **X5**: Tomograms of ancient subduction zones. High-velocity seismic channels have been identified stretching from Siberia across North America, possibly remnants of ancient subduction zones. However, some scientists argue that these anomalies could be explained by chemical phase changes in shallower structures, meriting further investigation. 
 
-# Anomalous Structures at the Core-Mantle Boundary
+# Anomalous Structures at the Core-Mantle Boundary [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **X1**: Seismic tomography and core-mantle topography. Presentations introduced the idea of "mountains" at the core-mantle boundary, where the boundary exhibits both upward and downward features of up to 10 kilometers. These variations may represent patterns of circulation in the viscous mantle, influencing the Earth's rotation and geomagnetic field.
 
 - **X2**: Discrepancies in seismic tomograms. Different tomographic models from geophysicists produce significantly varying interpretations of the core-mantle boundary features, indicating that these structures may be artifacts of data processing. The core-mantle boundary could contain actual physical structures or merely represent varying calculations and interpretations of seismic data.
-# FRAIL EE SS
+# FRAIL EE SS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Core-mantle irregularities**: Analysis of whole-earth vibrations suggests irregularities in the outer core at the core-mantle boundary. These imperfections cause additional tones in seismic waves, indicating the presence of what can be conceptualized as "mountains" and "valleys" detected by seismic tomography.
 
-# EQA6 Seismic Reflectors in the Lower Crust and Upper Mantle
+# EQA6 Seismic Reflectors in the Lower Crust and Upper Mantle [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Seismic reflectors**: Reflective regions have been found in the lower crust and upper mantle, with sizes of about 1-10 kilometers. These common reflections prompt questions regarding their physical nature and why they are confined to specific layers of the Earth's structure.
 
@@ -405,7 +305,7 @@ The text summarizes various geological sites and anomalies across the United Sta
 
 - **Reflectors in the mantle**: Recent artificial seismic profiling has uncovered abnormally reflective patches down to 100 kilometers in the upper mantle. The nature of these reflectors remains uncertain, similar to those found in the crust.
 
-# EQD1 Velocity Discontinuities in the Upper Mantle
+# EQD1 Velocity Discontinuities in the Upper Mantle [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **The Moho's anomalies**: The Moho, marking the transition from crust to mantle, displays unpredictable characteristics contrary to its traditional understanding. Recent studies reveal the Moho can be fuzzy, exhibit several layers, and exist in multiple forms across different geological settings.
 
@@ -413,10 +313,10 @@ The text summarizes various geological sites and anomalies across the United Sta
 
 - **Other velocity discontinuities in the upper mantle**: There are several recognized velocity discontinuities, including features at 220, 400, and 520 kilometers depths. While their existence is subject to study, these layers do not necessarily represent true anomalies given the reasonable geological explanations associated with pressure-induced phase changes. 
 
-# EQD2 Channels and Zones
+# EQD2 Channels and Zones [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Channels and zones**: Unlike the abrupt changes seen in discontinuities, channels and zones in the mantle present smoother variations in seismic velocities. These features may indicate temperature changes within the mantle, though their exact nature remains elusive and not well understood in geological studies.
-# Possible Anomalies of the Earth's Mantle
+# Possible Anomalies of the Earth's Mantle [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Absence of the Low-Velocity Zone (LVZ) under the continents**
   The LVZ is expected to exist in the upper mantle, between 50 and 150 kilometers deep, where seismic velocities do not increase as they should. Its absence under the continents contradicts the theory of continental drift, as it is found primarily under ocean basins and tectonically active continental areas.
@@ -430,7 +330,7 @@ The text summarizes various geological sites and anomalies across the United Sta
 - **Seismic-velocity anisotropy**
   Measurements indicate that seismic waves travel faster in a north-south direction compared to an east-west direction, which is not easily explained. This discrepancy in wave speed has puzzled scientists and offers no straightforward solution from existing theories.
 
-# Possible Structural Anomalies of the Inner Core
+# Possible Structural Anomalies of the Inner Core [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Apparent prolate shape of the inner core**
   The inner core may exhibit a prolate shape rather than the expected oblate spheroid, raising significant questions about its structural integrity and formation. This anomaly deviates from the expected spherical symmetry in planetary bodies.
@@ -438,7 +338,7 @@ The text summarizes various geological sites and anomalies across the United Sta
 - **Other suggested features of the inner core**
   Suggestions include the possibility of heterogeneity within the inner core and even hexagonal symmetry, both of which are not universally accepted and remain speculative. These proposed features challenge the current understanding of the inner core's composition and behavior.
 
-# Anomalies Associated with Mantle Convection Cells
+# Anomalies Associated with Mantle Convection Cells [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Descending convection currents are continuous throughout the whole mantle**
   There is skepticism about the two-zone mantle model as seismic tomography suggests that descending currents may be continuous from the surface to the core-mantle boundary. This continuity contradicts the notion of a clear separation within the mantle's convective behavior.
@@ -446,11 +346,11 @@ The text summarizes various geological sites and anomalies across the United Sta
 - **Lack of convection-cell surface signatures**
   The absence of recognizable surface features that can be attributed to convection cells poses a dilemma for geologists. It raises questions about the long-term stability of these cells and the potential for their influences on the Earth's surface to remain unrecorded.
 
-# Anomalous Seismic Signals
+# Anomalous Seismic Signals [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Deep-focus earthquakes**
   These seismic events occur at depths exceeding 70 kilometers, where conventional mechanisms for earthquakes, based on rock failure, do not seem applicable. Their existence at such depths suggests alternative processes are at play, making them a significant puzzle in geophysics.
-# Catalog of Anomalies
+# Catalog of Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Catastrophic Events vs. Uniformity**
   Many doubts have been expressed regarding whether the earth's history has been shaped more by catastrophic events than by a uniform process. This question challenges the conventional understanding of geological time and events.
@@ -490,44 +390,44 @@ The text summarizes various geological sites and anomalies across the United Sta
 
 - **Grand Canyon's Stratigraphic Anomalies**
   The Grand Canyon presents numerous anomalies within its stratigraphic record, making it a critical site for understanding geological history. Investigating these discrepancies can provide insights into broader geological processes and timelines.
-# AN UNCONFORMITY
+# AN UNCONFORMITY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Rocks of Ordovician and Silurian periods are missing in the Grand Canyon, with over 200 million years of sediment lost at this spot. The Temple Butte Limestone appears in scattered pockets, providing evidence of significant temporal gaps.
 
 - An additional 20 million years are absent higher up in the strata. The Supai formation, lying conformably upon the Redwall limestone, suggests that no apparent angular discordance exists despite the long absence of Pennsylvanian fossils.
 
-# REDWALL FORMATION - TEMPLE BUTTE FORMATION
+# REDWALL FORMATION - TEMPLE BUTTE FORMATION [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - As one descends deeper, one encounters 550 feet of Redwall Mississippian limestone that appears conformably laid upon the Cambrian Muav limestone. Despite this conformity, an estimated 20 million years of Pennsylvanian time is suggested to be missing.
 
 - The Ordovician, Silurian, and Lower Devonian are missing at this location, which points to an absence of around 100 million years of geological history. Mainstream geologists concur that there are over 200 million years unaccounted for in this region.
 
-# X5. The Colorado Plateau
+# X5. The Colorado Plateau [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - An extensive unconformity separates the Permian and Triassic ages on the Colorado Plateau, representing a major turning point in the history of life. This 245-million-year-old unconformity does not mark a straightforward omission of sediment but is notable for the significant mass extinctions that occurred during this period.
 
 - Evidence suggests that geological characteristics of the Permo-Triassic transition show that the two periods blend together, despite the biosphere's turmoil during this time. The geologic record in some areas is very poorly marked, obscuring the boundaries between these significant geological epochs.
 
-# X6. The Salt Range, Pakistan
+# X6. The Salt Range, Pakistan [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Salt Range in Pakistan exemplifies an analogous situation to the Colorado Plateau, where striking faunal changes occur across the Permo-Triassic boundary. Nonetheless, there is no evident physical break between the Permian and Triassic rocks.
 
-# X7. Two important Canadian paraconformities 
+# X7. Two important Canadian paraconformities  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Banff, Alberta, the Lower Carboniferous is overlaid by beds of Lower Cretaceous age, with no perceptible break despite the age difference. Fossil evidence is needed to determine that these formations, which lithologically resemble one another, are distinct.
 
 - Near Lake Athabaska, Alberta and Saskatchewan, a Devonian limestone is conformably covered by Cretaceous beds over an area extending for 150 miles. The vast interval of time between these formations appears unrepresented either by deposition or erosion, suggesting an unusual continuity.
 
-# X8. Indian Ocean sediments
+# X8. Indian Ocean sediments [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Until the 1970s, a continuous sedimentation model defined oceanic geology, but cores from the Deep Sea Drilling Project revealed numerous missing sediments. In the Indian Ocean, for instance, gaps spanning up to 50 million years are found in many areas, indicating significant sedimentary absences.
 
 - This gap in sedimentary record is noted in several drilling locations in the Indian Ocean, correlating with patterns from climatic events that disturbed previous sedimentation processes. Similar gaps have been documented in other oceans, such as the South Atlantic, complicating the overall understanding of sediment history.
 
-# X9. The incompleteness of the Stratigraphic Record: The Sedimentation Rate argument
+# X9. The incompleteness of the Stratigraphic Record: The Sedimentation Rate argument [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The geological record, assessed through sedimentation rates, suggests that existing strata represent only a small fraction of the geological time span. This realization raises questions about the completeness of the geological record we encounter, often showing that only a tiny percentage of time is captured.
 
 - Geological research has shown consistently that the sedimentary records are exceedingly incomplete, particularly over shorter time spans. This understanding posits that actual geological history is a mosaic of rare events, punctuated by extensive periods of missing data.
 
-# X10. The incompleteness of the Stratigraphic Record: The Missing Period argument
+# X10. The incompleteness of the Stratigraphic Record: The Missing Period argument [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The argument regarding missing sediments highlights not only the physical thickness of strata but also their geographical extent and fossil content. When examining global geological formations, one discovers a striking patchwork with considerable gaps in representation of various geologic periods.
 
 - Woodmorappe’s work reveals that over two-thirds of the Earth’s land surface hosts five or fewer geological periods, with only a small fraction exhibiting an uninterrupted sequence of strata. The implications of such findings challenge the notion of a complete and orderly geological record, inviting further investigation into the nature of these gaps.
-# Lateral Variations in Strata
+# Lateral Variations in Strata [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1: Radical Changes of Facies**
   There are instances where sedimentary strata exhibit radical and/or incompatible changes of facies laterally. Such variations challenge the conventional notion that lithological changes should occur vertically in accordance with the law of superposition.
@@ -541,7 +441,7 @@ The text summarizes various geological sites and anomalies across the United Sta
 - **Anomaly 4: Interfingering of Diverse Strata**
   The interfingering of different types of sediments is not uncommon, yet some instances lack straightforward explanations. When strata from significantly different geological periods exhibit interfingering, it casts doubt on the standard chronology of sediment deposition.
 
-# Inverted Strata
+# Inverted Strata [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1: Superimposed Older Rocks**
   Inverted strata where older rocks lie atop younger ones contradict the Law of Superposition, which states that younger strata should overlie older ones. The existence of these inverted sequences challenges established geological theories, prompting various interpretations from mainstream science.
@@ -557,14 +457,14 @@ The text summarizes various geological sites and anomalies across the United Sta
 
 - **Anomaly 5: Survival of Massive Outliers**
   The preservation of large outlier formations, like Chief Mountain, amid significant erosion of surrounding strata raises critical questions. These anomalies prompt further investigation into the tectonic forces and geological processes that could lead to such unique preservation.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Heart Mountain Phenomenon**  
   The Heart Mountain phenomenon, originally classified as an overthrust fault, is now viewed as a complex combination of several types of faults. It features older sedimentary rock blocks (Mississippian to Ordovician) resting upon a younger land surface (Paleozoic to Tertiary), raising questions about the processes that led to this arrangement.
 
 - **Lewis Overthrust and Chief Mountain**  
   The Lewis Overthrust, located along the eastern front of the Rocky Mountains, consists of older rocks thrust over younger formations. Unlike Heart Mountain, it is accepted as a classical low-angle thrust fault, with significant geological implications for the inverted strata phenomenon.
-# Anomalies in Geology
+# Anomalies in Geology [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Chief Mountain Contact Zone**
   There is a contact zone at Chief Mountain where Precambrian rocks rest on Cretaceous rocks, which many geologists do not endorse. Although the contact may appear conformable, substantial evidence indicates that tectonic forces caused significant deformation along the fault plane.
@@ -583,18 +483,18 @@ The text summarizes various geological sites and anomalies across the United Sta
 
 - **Mechanical Paradox of Thrust Faulting**
   The "mechanical paradox" suggests that strata should crush under force before they can overcome static friction. However, the Hubbert-Rubey hypothesis proposes that pore-water pressure could reduce friction, allowing strata to slide, but criticisms of this hypothesis suggest trapped pore-water conditions are implausible.
-# ESR3 Inverted Strata
+# ESR3 Inverted Strata [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The Hubbert-Rubey pore-water-pressure model may not function universally, particularly due to challenges in maintaining adequate pressure along the entire thrust plane. Nonetheless, it remains applicable in oceanic sediments and presents a significant improvement over previous models.
 
 - Price's dislocation model has potential advantages but also faces skepticism, as it is a newer concept that has not yet been widely critiqued. The mechanistic understanding of thrust faults is still evolving and shows promise for addressing historical geological anomalies.
 
-# ESR4 Near-Global Unconformities
+# ESR4 Near-Global Unconformities [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Unconformities are generally common and understandable phenomena in geology, but an unconformity that exists worldwide poses a greater challenge. Such global unconformities suggest necessitated mechanisms like significant tidal forces, catastrophic tsunamis, or dramatic changes in climate and sea level.
 
 - The Cambrian-Precambrian unconformity is a critical example where a profound break in rock layers indicates possible catastrophic events, such as massive tidal forces due to the moon's historical proximity. This unconformity serves as a dividing line in Earth's history and raises questions about the lack of transitional fossil records.
-# ESR5 Anomalies of Rhythmites and Cyclothems
+# ESR5 Anomalies of Rhythmites and Cyclothems [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cyclicity Unrelated to Natural Cycles**  
   There exists cyclicity in rhythmites and cyclothems that cannot be correlated with any known natural cycles. This presents a significant challenge to prevailing geological theories, as it suggests that current understanding of geological timeframes and processes may be incomplete.
@@ -613,7 +513,7 @@ Certain cyclothem members, particularly fireclays, present contradictions to est
 
 - **Discrepancies in Duration Estimates of Geological Periods**  
 Rhythmite counts and thickness measurements yield geological period durations that are significantly shorter than those derived from standard radiometric methods. This finding challenges the reliability of radiometric dating and implies a need for further investigation into sedimentary timelines.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Thin Laminae Integrity**  
   The question arises about how such thin laminae could maintain their thickness and integrity across vast areas over millennia. The expected disturbances from earthquakes, storms, and volcanic eruptions challenge the idea of long-term stability, leading to the hypothesis that the couplets resulted from short-term chemical reactions in the lake waters.
@@ -641,7 +541,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 
 - **Castile Formation Evaporite Laminations**  
   In the Permian Castile Formation, researchers identified a complex system of laminations consisting of couplets of calcite and anhydrite. Although these are interpreted as varves linked to seasonal alternations, this interpretation lacks definitive proof, contributing to uncertainties in the geological narrative.
-# g lithological types: (A)
+# g lithological types: (A) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Pebbly, very coarse sandstone**: This lithological type represents a prominent composition in the identified strata. It is typically associated with high-energy depositional environments.
 
@@ -655,7 +555,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 
 - **Coal, shaly coal**: The presence of coal indicates extensive organic material accumulation, representing past swampy environments. It suggests periods of high productivity and low decomposition in the sedimentary basin.
 
-# The Carboniferous Period
+# The Carboniferous Period [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cyclic sequences distinguished in the Carboniferous System**: Various sediment types alternate in defined patterns, highlighting climatic changes. These sequences reflect both transgressive and regressive cycles in sedimentation.
 
@@ -665,7 +565,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 
 - **Wide geographic distribution of cyclothems**: The global occurrence of Carboniferous cyclothems presents a geological mystery. Geologists suggest that shared catastrophic mechanisms or broad climatic controls may have influenced these formations.
 
-# The "fireclays" or "underclays" of the coal measures
+# The "fireclays" or "underclays" of the coal measures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Debate regarding coal seams and fireclays**: There is significant discussion about the relationship between coal seams and their underlying fireclays. Evidence suggests that while they often coexist, they are not always found together.
 
@@ -673,7 +573,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 
 - **Contradictions with modern coal formation**: Present-day peat bogs, often cited as analogs for coal formation, typically contain marine fossils in their underlying sediments. The lack of such fossils in ancient fireclay deposits poses a contradiction to established ideas about coal genesis.
 
-# The great coal-bearing cyclothems of the U.S. interior
+# The great coal-bearing cyclothems of the U.S. interior [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Recognition of cyclic patterns in Pennsylvanian sedimentation**: The cyclothem concept was developed primarily in the American interior. Its identification signifies critical geological processes influencing sedimentation during this period.
 
@@ -681,50 +581,50 @@ Rhythmite counts and thickness measurements yield geological period durations th
 
 - **Variation in Pennsylvanian cyclothems**: Differences in cyclothem characteristics across regions illustrate the complexity of geological processes. Each region's unique combination of marine and nonmarine deposits shapes its cyclothem profile.
 
-# A marine-nonmarine thickness cycle in Great Britain
+# A marine-nonmarine thickness cycle in Great Britain [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Detection of a 145-foot thickness cycle**: Research in Dumfriesshire reveals a significant vertical change in sea level during the Lower Carboniferous. This finding suggests distinct marine and nonmarine influences shaping the sedimentary record.
 
 - **Isostatic mechanisms proposed for cycle formation**: The exploration of the cyclical trends raises intriguing questions about geological processes. The study suggests that geological adjustments might be responsible for the observed periodicity.
 
-# Carboniferous cyclothems without coal members
+# Carboniferous cyclothems without coal members [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Distinct cyclicity in New Mexico's Pennsylvanian lime- stones**: Here, cyclothems exhibit defined thicknesses and lithologic characteristics without the presence of coal. This indicates regional variations in sedimentation patterns during the Carboniferous.
 
 - **Oil-bearing shales in Scotland's cyclothems**: The presence of oil shales in Scotland raises questions about the genesis of the oil. Understanding whether it formed in situ or migrated from different geological contexts is critical for further research.
 
-# The Devonian Period
+# The Devonian Period [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cyclic sedimentation in the Upper Devonian Catskill Delta**: A 100,000-year cycle associated with climatic variations has been observed in this region. This offers insights into how Earth's climatic patterns affected sediment deposition.
 
 - **Cyclic character of Lower Old Red Sandstone deposits**: The study of South Wales's Old Red Sandstone reveals cyclical patterns consistent with ancient river dynamics. Various scenarios, including wandering rivers and tectonic activity, may explain these sedimentary features.
 
-# The Silurian Period
+# The Silurian Period [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cyclic units in the Silurian Clinton Formation**: The distinct red-striped rhythmite observed reflects the intertidal conditions influencing sediment deposition. Alternating tidal environments significantly shape the characteristics of the identified cyclic units.
 
-# The Ordovician Period
+# The Ordovician Period [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cyclic repetition of limestone and dolomite in Maryland**: The recognition of these cycles provides insights into the tectonic influences shaping the region's geology. The structural formation has implications for understanding the broader stratigraphic context.
 
-# The Cambrian Period
+# The Cambrian Period [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Identification of "Grand Cycles" in North America**: These large-scale sedimentary cycles illustrate the dynamic geological processes acting on passive continental margins. Characterized by abrupt cycle boundaries, they underscore the complexities of Cambrian sedimentation.
-# X12. The Precambrian Period
+# X12. The Precambrian Period [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Anomaly of sunspot-cycle signal detected in Late Precambrian rhythmites. This finding was based on varves from a periglacial lake in South Australia.
 
 - Transition from interpreting laminae as annual varves to recognizing them as records of lunar tidal cycles. This reinterpretation was influenced by subsequent analyses showing a fortnightly cycle.
 
-# ESR5  Rhythmites and Cyclothems
+# ESR5  Rhythmites and Cyclothems [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Cyclic sedimentation observed in the Solor Church Formation suggests interactions between sedimentary processes and tectonics. The periodic nature of these processes raises questions regarding the timing and causes of sediment deposition.
 
 - Banded iron formations present challenges regarding their persistence over vast distances and their origin. These formations have recurred in research as a geological anomaly, reflecting complex sedimentary conditions.
 
-# X13. Theories of cyclic sedimentation
+# X13. Theories of cyclic sedimentation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The debate surrounding the mechanisms of cyclic sedimentation often focuses on climatic and tectonic controls, frequently neglecting catastrophic events. There is a growing recognition of the impact of astronomical cycles and terrestrial forces that may have contributed to sedimentary patterns.
 
 - If new evidence were to correlate coal-bearing cyclothems with a shorter rhythm, this would represent a significant anomaly in geological understanding. Similarly, if cyclothems were linked to periodic tsunamis from impacts, that would challenge existing sedimentary paradigms as well.
-# Anomalies in Geological Deposits
+# Anomalies in Geological Deposits [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Undisturbed ancient sediments**  
   Sediments that are supposedly hundreds of millions of years old appear to be undisturbed and unmodified by time. This raises questions about how extensive geological processes could have not affected these sediments, leading to skepticism regarding their actual age.
@@ -740,7 +640,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 
 - **Continent-type rocks in the ocean**  
   The discovery of continental rocks like granite and limestone located in deep ocean waters suggests a mechanism for their presence is needed. Common theories include iceberg transport and ballast from ships, but the proposal of these rocks originating from the ocean floor poses a significant challenge to existing geological theories.
-# Continental Rocks in the Ocean Deeps
+# Continental Rocks in the Ocean Deeps [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **North Brazilian Submarine Ridge**  
   Miocene ooze about 10 million years old rests on weathered shallow-water limestone at a significant depth. This site is critical in understanding the geological history and changes over millennia in Brazilian waters.
@@ -771,7 +671,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 
 - **Gulf of Mexico**  
   The presence of petroleum at considerable depths raises questions about the geological processes that have influenced its migration. This challenge poses significant implications for understanding oil formation and distribution in marine geology.
-# Exotic Terranes
+# Exotic Terranes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Alaska's terranes**: Alaska comprises approximately 29 major terranes, which are distinct rock masses. Together with the other geological features, Alaska is estimated to have around 50 unique terranes.
 
@@ -787,28 +687,28 @@ Rhythmite counts and thickness measurements yield geological period durations th
 
 - **Florida as an exotic terrane**: Geological studies suggest Florida was part of Gondwana and later became an exotic terrane attached to North America. Paleomagnetic data shows a significant difference in the expected ancient latitudes of Florida's rocks.
 
-# The Interior of North America
+# The Interior of North America [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **North America's core**: Contrary to long-standing beliefs, North America's core is not a singular ancient stable landmass. Instead, it appears to be a collage of several smaller cratons that are each older than 2.5 billion years, previously drifting independently before merging.
 
-# Asia
+# Asia [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Tokoro Belt**: The Tokoro Belt in Hokkaido, Japan, contains significant geological evidence indicating an equatorial origin in the early Cretaceous period. It comprises complex structures but lacks a melange matrix, suggesting a different formation process.
 
-# South America
+# South America [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Northwestern Peru**: Studies of the Lancones basin in northern Peru reveal a distinct paleomagnetic signature that differs significantly from stable South American formations. This suggests that during the Early to Late Cretaceous, a continental terrane was accreted, revealing complex geological activities.
 
-# Europe
+# Europe [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Caledonian terrains**: The Caledonian terrains underlying parts of the Grampian Mountains and the Southern Uplands showcase extreme geological diversity. It points towards a complex history of terrane accretion that has shaped the current geological landscape of the region.
 
 - **Microplate Adria**: The Adria microplate in northern Italy is hypothesized to be a former part of Africa. This geographic puzzle highlights the complex tectonic interactions that have occurred over millions of years in the European landscape.
 
-# Other Continents
+# Other Continents [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Unknown terranes**: No significant terrane data have been collected from Australia, Africa, or Antarctica, leading to questions about the geological history of these regions. This absence of data underlines the limited understanding of terrane distributions globally.
-# Anomalies Related to Geological Events
+# Anomalies Related to Geological Events [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anorthosite Belts Eruption**  
   The theorized proximity of the moon to the earth resulted in intense tidal action and heat production deep within, leading to the eruption of the two anorthosite belts. This phenomenon is speculated to be connected to the close approach of the moon and the resulting geological impacts from 700 to 1,000 million years ago.
@@ -824,7 +724,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 
 - **Dupal Anomaly**  
   The Dupal anomaly highlights the existence of two geological belts featuring anomalous isotope ratios, particularly in oceanic islands. Its geographical distribution suggests potential influences from lower mantle features, which may impart geochemical signatures on the earth's surface.
-# Local Compass Anomalies
+# Local Compass Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Central Russia**  
   The investigations into the extraordinary deflection of the magnetic needle in Central Russia revealed significant aberrations, with the most pronounced deflection found around Kursk. At some locations, the needle nearly pointed vertical, indicating a powerful local magnetic disturbance.
@@ -847,7 +747,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 - **Soviet Arctic**  
   In 1937, Soviet scientist B. Weinberg posited the existence of two magnetic north poles, with confirmation predicted in 1940. A British expedition in 1945 noted compass deviations as substantial as 89 degrees, suggesting a shift in the magnetic pole's location.
 
-# Magnetized Geological Features
+# Magnetized Geological Features [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Rock Pinnacles and Exposed Points**  
   Lightning often strikes prominent geological features, creating local magnetic anomalies that can significantly deflect compass needles. Reports from Great Britain noted compass deviations near serpentine and hornblende schist rocks, suggesting localized magnetic influences.
@@ -858,7 +758,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 - **Buried Impact Structures**  
   Patterns of gravity anomalies can hint at buried impact structures, potentially accompanied by corresponding magnetic anomalies. A pattern found in Mexico suggests that an impact feature related to the extinction event that killed the dinosaurs could also be detected through concentric magnetic rings beneath the surface. 
 
-# Oceanic Magnetic Anomalies
+# Oceanic Magnetic Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Asymmetry of the Magnetic Stripes**  
   Critiques of the idealized symmetry of magnetic stripes on either side of mid-ocean ridge axes suggest that this portrayal may be misleading. Observations indicate that the magnetic profiles do not always conform to expectations based on current plate tectonic theories. 
@@ -886,7 +786,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 
 - **Sea-Floor Spreading and the Expanding Earth Hypothesis**  
   Examination of magnetic anomalies has sparked debate over the validity of both sea-floor spreading and the expanding Earth hypothesis. Ongoing research into these anomalies could lead to profound shifts in geological paradigms.
-# Anomalies in Magnetic Profiles 
+# Anomalies in Magnetic Profiles  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Lack of symmetry in magnetic profiles**  
   Magnetic profiles across the mid-ocean ridges exhibit vague symmetry but are derived from a narrow central zone. The further a profile extends from the ridge axis, the greater the asymmetry, questioning the assumption of expected symmetry in sea-floor spreading.
@@ -917,7 +817,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 
 - **Sea-floor spreading and the expanding-earth hypothesis**  
   Some interpretations of magnetic striping suggest a modest expansion of the Earth, contrasting with traditional plate tectonics which disallow such rapid changes. Although detailed mapping links ocean spreading with relative crust generation rates, the significance of such expansion remains a topic of contention in geological discussions.
-# EzZC4 Geomagnetic-Field Anomalies
+# EzZC4 Geomagnetic-Field Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Canadian Magnetic Anomaly**  
   Discovered first at Alert in 1957, this anomaly reaches depths of 18 miles and stretches 43 miles wide along a 450-mile path. It shows a higher magnetic reading than expected and is surrounded by uncertainty regarding its cause, as it does not align with recognized earthquake zones.
@@ -931,7 +831,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 - **Paris Basin Magnetic Anomaly**  
   A strong magnetic anomaly spans the Paris Basin, thought to originate from buried magnetic rock. However, expectations were unmet when drilling to 3.5 kilometers failed to acquire any samples of this hypothesized magnetized body.
 
-# EZC5 Electrical Anomalies
+# EZC5 Electrical Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Superficial Eddies of Earth Currents**  
   Discovered through direct earth-current measurements, this phenomenon consists of 16 extensive eddies, eight of which are situated symmetrically about the equator. O.H. Gish raised questions regarding their fixing with the sun, intensity patterns, and seasonal variations without providing answers.
@@ -956,7 +856,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 
 - **General Observation of Conductivity Regions**  
   Numerous high-conductivity channels exist globally at substantial depths, challenging previous notions that the lower crust must be dry. Findings from deep boreholes, such as those on the Kola peninsula, reinforce the idea of unexpectedly persistent aqueous fluids.
-# CONFIGURATION ANOMALIES AND ME SECULAR VARIATIONS OF THE GEOMAGNETIC FIELD
+# CONFIGURATION ANOMALIES AND ME SECULAR VARIATIONS OF THE GEOMAGNETIC FIELD [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Tilting of the Geomagnetic Axis**  
   The geomagnetic field's axis does not lie parallel to the axis of rotation, which raises questions about the validity of the geodynamo theory. This axial tilt remains an anomaly, also observed on other solar-system planets.
@@ -975,7 +875,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 
 - **Complex Circulation Patterns in the Core**  
   The potential for complex circulation patterns within the Earth's liquid core raises questions about their role in geomagnetic anomalies. Such patterns could explain disturbances to the basic dipole field, although the mechanisms behind these patterns remain poorly understood.
-# Secular Variations
+# Secular Variations [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **The historical decay of the geomagnetic field.**  
   Measurements of the magnetic moment of the dipole component of the geomagnetic field since 1835 show a steady decrease of about 0.05% per year. This trend raises questions about the future stability of the earth's magnetic field.
@@ -989,7 +889,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 - **Practical consequences of a zero geomagnetic field.**  
   The geomagnetic field acts as a protective shield against harmful cosmic rays and solar wind. Without this shield, scientists suggest that biological extinctions could be linked to episodes of zero geomagnetic field during pole reversals.
 
-# Drift and changing structure of the non-dipole field
+# Drift and changing structure of the non-dipole field [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **The westward drift of some features of the non-dipole field.**  
   Observations have shown that the magnetic declination and inclination at specific locations change rapidly, indicating an overall westward drift of the non-dipole field. This drift rate is significant and suggests internal mechanisms within the earth are at play.
@@ -997,7 +897,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 - **Ephemeral features of the non-dipole field.**  
   Some patterns in the non-dipole field undergo rapid changes on a timescale of hundreds of years, indicating a complex and dynamic geomagnetic environment. Noteworthy findings include drifting flux spots and static patches with near-zero flux.
 
-# Correlation of geomagnetism and climate
+# Correlation of geomagnetism and climate [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Causal connections between geomagnetism and climate.**  
   The relationship between the earth's magnetic field and climate is not straightforward, leading to skepticism among scientists regarding proposed correlations. However, intriguing links have been found between historical geomagnetic data and climatic variables, both in recent and ancient times.
@@ -1005,31 +905,31 @@ Rhythmite counts and thickness measurements yield geological period durations th
 - **The "recent" correlation.**  
   G. Wollin found a correlation between the rate of change of magnetic intensity and sea-surface temperature, though it required assuming a three-year delay in the response. This complex interaction proposes a feedback loop connecting magnetic changes with climatic variations.
 
-# Geomagnetic fluctuations potentially correlated with weathering processes
+# Geomagnetic fluctuations potentially correlated with weathering processes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Geomagnetic fluctuations and organic weathering.**  
   There is a weak possibility of correlation between geomagnetism and organic weathering patterns, with life forms potentially sensitive to magnetic forces. Changes in these conditions could lead to significant variations in weathering products and processes.
 
-# Historical measurements of polar wandering
+# Historical measurements of polar wandering [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Historical changes in polar positions.**  
   The location of the earth's magnetic poles has changed rapidly in the last 150 years, with substantial movements of the dip poles observed. This phenomenon poses a challenge for existing geodynamo theories, necessitating an explanation for such rapid changes.
 
-# Secular variation impulses or magnetic "jerks"
+# Secular variation impulses or magnetic "jerks" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Sudden accelerations in the geomagnetic field.**  
   The geomagnetic field has exhibited rapid accelerations, termed "jerks," that occur superimposed on the general westward drift. These events challenge prior assumptions about the stability of geomagnetic signals emerging from the earth's core.
 
 - **Doubts about the 1969 jerk phenomenon.**  
   Some skepticism surrounds the 1969 jerk, as it was not universally observed in all magnetic records and appeared distinctly only in certain locations. This raises questions about the consistency of geomagnetic observations and the underlying processes responsible for these rapid changes.
-# EZF3 Problems of Geomagnetic-Field Generation
+# EZF3 Problems of Geomagnetic-Field Generation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **The geodynamo theory**: Most scientists believe the geodynamo theory is the only viable explanation for Earth's magnetic field. This consensus exists despite the unease about the lack of reasonable alternatives and the fact that many dynamo models remain unproven for the Earth.
 
 - **Initial magnetic field requirement**: A self-excited dynamo needs a magnetic field supplied from an external source to initiate its process. Two potential sources for this necessary field are thermoelectric currents in the mantle and the solar magnetic field.
 
 - **Energy source for the geodynamo**: A geodynamo requires approximately 8 x 10^8 watts of power to sustain its operation, which manifests as heat in the Earth's core. The source of this energy is debated among scientists, with several potential contributors such as convection currents, seismic energy, and radioactive decay.
 
-# EZP1 Problems in Measuring and Interpreting Paleomagnetism
+# EZP1 Problems in Measuring and Interpreting Paleomagnetism [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Measurement problems in paleomagnetism**: The accuracy of paleomagnetic studies can be severely impacted by the methods used to collect and prepare samples. Disturbances from geological processes, as well as imperfections in collection techniques, complicate data accuracy significantly.
 
 - **Issues with natural remanent magnetization (NRM)**: Ocean sediments are subject to various geological disturbances that can impact their magnetic properties after initial magnetization. The uncertainty surrounding these disturbances highlights the challenge of ensuring that collected samples reflect the true magnetic field conditions at the time of deposition.
@@ -1037,7 +937,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 - **Coexistence of normal and reversed NRM**: The discovery of both normal and reversed NRM in geological samples raises questions about the behavior of the Earth's magnetic field during different geological epochs. This phenomenon suggests the possibility of self-reversal of magnetization, complicating interpretations of historical geomagnetic activities.
 
 - **Heterogeneous deep-sea magnetic stripes**: Drilling data indicates that the ocean floor may not consist of uniform magnetic stripes but rather a complex mosaic of differently magnetized regions. If proven widespread, this heterogeneity could fundamentally challenge existing theories regarding sea-floor spreading and plate tectonics.
-# Problems of Paleomagnetism
+# Problems of Paleomagnetism [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly X2: Mechanisms for explaining reversals of the geomagnetic field.**  
   A significant portion of measurements showed reversed polarity, which originally surprised earth scientists due to the implication of rapid geological changes. The search for physical mechanisms has led to modifications of the geodynamo theory, as well as fringe theories about crustal slipping and planetary flipping.
@@ -1062,7 +962,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 
 - **Anomaly: Instantaneous self-reversal in mineralogy.**  
   Recent studies suggest that certain ferromagnetic minerals can acquire magnetization that opposes the external magnetic field during their formation. Reports from volcanic eruptions indicated occurrences of "instantaneous" self-reversal, suggesting that the mineralogical characteristics could dictate the magnetic polarity when the rock was formed, contradicting earlier assumptions about magnetization.
-# Anomalies in Paleomagnetism
+# Anomalies in Paleomagnetism [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Electrochemical Cells**  
   Researchers at MIT discovered that when a magnetometer was left stationary over an electrochemical cell, the magnetic field strength dropped dramatically after 20 minutes, then reversed after a period. This phenomenon suggests that corrosion currents can change direction, raising the possibility that the Earth might behave like a large electrochemical cell.
@@ -1102,7 +1002,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 
 - **Rapid Flip-Flops of the Field**  
   Recent research indicates that polarity switches in the Earth's magnetic field may occur much faster than previously believed, with some reversals potentially happening in a matter of centuries. This rapid change calls into question the timeframes typically associated with geomagnetic reversals and their implications for geological processes.
-# The Lake Mungo Paleomagnetic Excursion
+# The Lake Mungo Paleomagnetic Excursion [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly:** High remanent magnetization at Lake Mungo, Australia  
   R.S. Coe details this event, indicating large and rapid excursions in the direction of the ancient geomagnetic field. The sequence of findings has sparked excitement and debate, as the extraordinary excursion is dated to about 30,000 years ago.
@@ -1110,46 +1010,46 @@ Rhythmite counts and thickness measurements yield geological period durations th
 - **Anomaly:** Unusually high field intensity during the Lake Mungo excursion  
   The intensity estimates reached as high as 1.83 Oe, roughly twice that of anywhere on Earth today. This highlights an abnormality since the accompanying directional changes deviated significantly from typical geomagnetic behavior.
 
-# The Imuruk Lake Excursion
+# The Imuruk Lake Excursion [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly:** Anomalous magnetic fabric in Imuruk Lake sediments  
   R.Jd. Marino and B.B. Ellwood caution that some recorded geomagnetic field excursions may not reflect genuine short-term changes. Their observations suggest that the unnatural magnetic fabric indicates potential distortion caused by various geological processes.
 
-# The Blake Event: 108,000-114,000 years ago
+# The Blake Event: 108,000-114,000 years ago [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly:** Short interval of reversed polarity in the Blake event  
   The magnetic stratigraphy of deep-sea sediments established this event's occurrence, correlating well with paleontological boundaries. This interval emphasizes the complex behavior of Earth's magnetic field during specific geological time periods.
 
-# Reversed magnetization in recent pyroclastics from Colombia
+# Reversed magnetization in recent pyroclastics from Colombia [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly:** Self-reversal in pyroclastics during NRM acquisition  
   The 1985 eruption of Nevado del Ruiz demonstrated for the first time that self-reversal can occur during natural remanent magnetization acquisition. This was a significant finding that challenged previous assumptions about NRM behavior.
 
-# Possible rapid field changes recorded by historical lava flows in Hawaii
+# Possible rapid field changes recorded by historical lava flows in Hawaii [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly:** Inconsistent paleomagnetic directions in Hawaiian lava flows  
   Recent studies showed deviations in paleomagnetic directions from expected geomagnetic field directions in lava flows from Mauna Loa and Kilauea. This raises questions about the processes affecting magnetic recording during these eruptions.
 
-# Episode of steep geomagnetic field inclination about 120,000 years ago
+# Episode of steep geomagnetic field inclination about 120,000 years ago [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly:** Steep inclination of geomagnetic field observed in the Riverbank Formation  
   K.L. Verosub found evidence that the geomagnetic field exhibited steep episodes for tens of thousands of years, suggesting a more complex behavior than previously assumed. This challenges assumptions about the duration of shallow magnetic field states.
 
-# Possible periodicity in the excursions of the geomagnetic field
+# Possible periodicity in the excursions of the geomagnetic field [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly:** Detection of periodicities in geomagnetic field intensity fluctuations  
   Several scientists reported potential periodicities in geomagnetic reversals, suggesting a regular occurrence akin to solar cycles. However, whether these periodicities are intrinsic to the geodynamo or driven by external forces remains an open question.
 
-# Claims for a 30-million-year periodicity
+# Claims for a 30-million-year periodicity [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly:** Claims for regularity in magnetic field reversals  
   In the mid-1980s, researchers contested that reversals of the Earth's magnetic field may occur with a regularity around 30 million years. This claim, however, led to much debate regarding the validity and consistency of periodicities in the geological record. 
 
-# The varying rate of reversals
+# The varying rate of reversals [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly:** Fluctuation in the rate of geomagnetic reversals over time  
   R.T. Merrill and P.L. McFadden doubted the existence of any consistent periodicity in geomagnetic reversals, suggesting instead that observed patterns might be random. This inconsistency complicates the understanding of the geomagnetic field and its historical dynamics.
-# Possible Anomalous Phenomena During Reversals
+# Possible Anomalous Phenomena During Reversals [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Apparent Lack of Strongly Periodic Behavior**  
   The geomagnetic field's apparent lack of strongly periodic behavior contrasts with expectations of a field-generating mechanism with periodicity as an intrinsic feature. This absence is considered very anomalous.
@@ -1162,30 +1062,30 @@ Rhythmite counts and thickness measurements yield geological period durations th
 
 - **Confinement of VGP Paths in Longitude Bands**  
   Observations suggest virtual geomagnetic pole paths are frequently confined to narrow bands of longitude during different reversals. This confinement raises questions about the interpretation of this phenomenon, as westward drift should have allowed for more varied paths.
-# Anomalies in Permian Brachiopods
+# Anomalies in Permian Brachiopods [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The diversity of Permian brachiopod families does not follow the expected quadratic relationship with palaeomagnetic latitude. Instead, when plotted on the Permian palaeolatitude grid, their diversity shows no clear relationship to latitude.
 
-# Paleomagnetic Measurements of Ancient Earth Radii
+# Paleomagnetic Measurements of Ancient Earth Radii [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Paleomagnetic measurements of ancient Earth radii conflict with the mainstream belief that Earth's radius has remained constant over geological time. A minority of scientists advocating for an expanding Earth consider these measurements to be anomalous.
 
-# Paleopole Overshoot
+# Paleopole Overshoot [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - When combining positions of the magnetic pole from the last 2 million years, studies show a paleopole that is slightly beyond the expected mean. This observation supports the expanding Earth hypothesis, as it aligns with predictions that angular distances increase with radius.
 
-# Paucity of Precambrian High-Latitude Poles
+# Paucity of Precambrian High-Latitude Poles [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Recent analyses of apparent polar paths from the Precambrian reveal a striking bias toward the equatorial zone and a lack of data from high latitudes. This raises questions about the existence of high latitude poles or whether they are simply underreported, indicating a potential anomaly in paleomagnetic records.
 
-# Excessive Polar Wander and Slippage of the Crust and Mantle
+# Excessive Polar Wander and Slippage of the Crust and Mantle [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Initial paleomagnetic measurements suggested that the poles had only wandered slightly, but further research revealed that the distances traveled by paleopoles were too great for this explanation. Consequently, the mainstream scientific community began to consider crustal slippage as a plausible explanation for excessive polar wander.
 
-# True Polar Wandering and Crustal Slippage
+# True Polar Wandering and Crustal Slippage [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - "True polar wandering" suggests a shift in the Earth’s position as a whole, potentially impacting plate motion and paleoclimatic conditions. The recognition of true polar wandering complicates the reconstruction of ancient continents and challenges conventional geological models.
 
-# Inconsistencies in Paleomagnetic Measurements
+# Inconsistencies in Paleomagnetic Measurements [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Magnetostratigraphy assumes that polarity reversals are consistently detectable globally, but inconsistencies in the data raise questions about this assumption. Such anomalies could undermine the reliability of magnetostratigraphy as a method for establishing dating correlations in geological studies.
 
-# Common Precambrian Polar Wandering  
+# Common Precambrian Polar Wandering   [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The nearly coinciding Precambrian polar wander paths suggest that continents were largely fixed during that time. This challenges the assumption of continual continental drift throughout geological history and implies that other mechanisms may have been at play.
-# EZP4 Paleomagnetic inconsistencies
+# EZP4 Paleomagnetic inconsistencies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Lack of internal consistency of excursions in limited geographical areas.**  
   Studies show that paleomagnetic excursions should exhibit internal consistency across sedimentary basins of substantial size. However, results from multiple cores taken from areas such as the Gulf of Mexico often reveal inconsistencies in magnetic signatures.
@@ -1196,7 +1096,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 - **High-latitude heterochroneity.**  
   Instances of life forms appearing much earlier in polar regions compared to mid-latitudes have raised concerns regarding the credibility of magnetostratigraphic dating methods. A specific case highlighted involves late Cretaceous plant fossils identified in the Arctic predating their counterparts in more temperate zones by up to 18 million years.
 
-# EZP5 Correlations of Polarity Reversals with Other Phenomena
+# EZP5 Correlations of Polarity Reversals with Other Phenomena [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Correlations of reversals with biological explosions.**  
   Some studies suggest that geomagnetic polarity reversals have coincided with episodes of heightened biological diversification or explosions. However, the idea is contentious as higher radiation levels, linked with these reversals, have historically been associated with biological extinctions rather than explosions.
@@ -1206,7 +1106,7 @@ Rhythmite counts and thickness measurements yield geological period durations th
 
 - **Correlations between geomagnetic reversals and tektite deposits.**  
   Research conducted in various oceanic regions has uncovered cores containing microtektites, linking them to geomagnetic reversals. However, the precise relationship between these deposits and reversals remains uncertain and requires further investigation for clarity on their connections.
-# Reversals Correlated with Other Phenomena
+# Reversals Correlated with Other Phenomena [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Australasian Tektites**  
   The microscopic glassy objects found in sediments from the Australasian area are believed to be tektites. They were formed and deposited around the same time as the last magnetic field reversal, suggesting a potential common cause for both events.
@@ -1237,7 +1137,7 @@ M.A. Whyte discusses connections between the Earth's spin rate changes, magnetic
 
 - **Orbital Eccentricity Influences**  
 Research on the earth's orbital eccentricity indicates that variations in solar radiation and gravitational forces might impact geomagnetic reversals. The Milankovitch eccentricity cycle, which is believed to affect the global climate, provides a potential mechanism for understanding these correlations.
-# Anomalies Related to Geomagnetic Reversals
+# Anomalies Related to Geomagnetic Reversals [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Correlation between eccentricity and geomagnetic reversals**
   - G. Wollin et al and M.R. Rampino propose that high eccentricity of the Earth's orbit, low magnetic field intensity, and warm climate consistently occur together. This suggests that eccentricity may be significant in modulating both climate and magnetism for over 2 million years.
@@ -1265,7 +1165,7 @@ Research on the earth's orbital eccentricity indicates that variations in solar 
 
 - **Geomagnetic reversals and sea level changes**
   - A negative correlation and phase difference between long-term sea-level changes and geomagnetic reversal rates have been suggested. This indicates a potential synchronization between seafloor creation and magnetic events, suggesting internal processes drive both changes.
-# Anomalies 
+# Anomalies  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **ESR6-X2**: This anomaly is referenced multiple times throughout the text, indicating its significance in the context. It may relate to geological findings from specific strata or locations.
 
@@ -2070,7 +1970,7 @@ Research on the earth's orbital eccentricity indicates that variations in solar 
 - **ESR5-X8**: The presence of this entry indicates notable geological features requiring further exploration. Its implications can inform broader geological studies.
 
 - **ESR3-X0 (again)**: The ongoing mention of this anomaly signifies its geological importance. Further investigation is essential for uncovering its hidden implications.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Andesite Line**: This anomaly is associated with the distribution of andesitic volcanic rocks. It marks a significant geological boundary in relation to tectonic activity.
 
 - **Anorthosite belts**: These geological formations are indicative of specific magmatic processes. Their distribution can reveal insights about the Earth's crustal evolution.
@@ -2126,12 +2026,12 @@ Research on the earth's orbital eccentricity indicates that variations in solar 
 - **Tectonic plate interactions**: These are the effects of forces acting among the Earth's lithospheric plates. They shape geological features and influence seismic activity globally.
 
 - **Volcanic activity**: This includes all events related to the eruption of magma. The impact of such activities can significantly alter surrounding ecosystems and land formation.
-# Theory
+# Theory [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Sealevel changes**: There are various references to anomalies related to sealevel changes. These changes can have significant geological and ecological impacts over time.
 
 - **Seamounts, Emperor near Hawaii**: The Emperor seamounts are a chain of underwater volcanoes that provide insights into tectonic plate movements. Their formation and positioning also contribute to the understanding of oceanic processes.
 
-# Subject Index
+# Subject Index [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Secular variation**: This refers to the long-term changes in the Earth's magnetic field. Such variations can affect navigation and have implications for geological interpretations.
 
 - **Seismic tomography**: This technique is crucial for understanding the Earth's internal structure through the analysis of seismic waves. It helps in identifying anomalies in the Earth's crust and mantle.

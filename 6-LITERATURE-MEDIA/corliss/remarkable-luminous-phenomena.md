@@ -1,500 +1,250 @@
 # GPT Summary: Table of Contents
 
 - [REMARKABLE LUMINOUS PHENOMENA IN NATURE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#remarkable-luminous-phenomena-in-nature)
-The text explores various anomalous natural phenomena, including aurora-like displays, electrical discharges, low-level meteor phenomena, marine phosphorescence, anomalous precipitation, rare optical effects, and unidentified sounds, each challenging current scientific understanding and inviting further investigation.
 - [INTRODUCTION TO LUMINOUS PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#introduction-to-luminous-phenomena)
-This text explores various mysterious luminous phenomena, from unknown energy sources and prankish behaviors of ghost lights to descending auroras and perplexing geometrical patterns, while also considering the complexities of human perception in observing them.
 - [GLA AURORA-LIKE PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gla-aurora-like-phenomena)
-Aurora-like phenomena exhibit mysterious and varied manifestations, including unusual formations, low-altitude occurrences, connections to other atmospheric events, and enigmatic electric-blue flashes, challenging our understanding of their origins and behaviors.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-The text explores various anomalous celestial phenomena, including auroral pillars, zodiacal light, auroral arches, and other luminous displays, highlighting their unique characteristics and the scientific interest they generate.
 - [GLA3 Auroral Meteors](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gla3-auroral-meteors)
-The Okanagan Arc, a horizon-to-horizon auroral display in British Columbia, challenges traditional auroral behavior with its unusual orientation, while historical records document various spectacular and anomalous auroral phenomena, including rapidly moving meteors, whitish flecks, and elliptical stationary formations.
 - [GLA4 Low-Level Auroras](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gla4-low-level-auroras)
-The text describes various observations of auroras and comet-like phenomena, showcasing their diverse appearances and challenging conventional views on their altitudinal limits and occurrences.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-Observations and anecdotes from various locations and times suggest that auroras can occur at surprisingly low altitudes, challenging traditional views of their height and creating awe-inspiring and sometimes alarming visual spectacles.
 - [GLA6 Artificial Low-Level Auroras](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gla6-artificial-low-level-auroras)
-Recent spectral observations in Finland and historical accounts from the Parry Expedition provide evidence supporting the existence of low-level auroras.
 - [GLA7 Geographically Displaced Auroras](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gla7-geographically-displaced-auroras)
-G.C. Simpson expressed skepticism about low-level auroras in 1933, while artificial low-level auroras have been occasionally produced by man-made means, including attempts by Selim Lemstrom in the late 19th century and through nuclear detonations and electron accelerators at normal heights.
 - [GLA8 Auroras with Unusual Geometries](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gla8-auroras-with-unusual-geometries)
-Artificial low-level auroras, much like their natural counterparts, may indicate a connection between intense auroral activities and large-scale terrestrial electrical discharges into space.
 - [GLA9 Auroras and Thunderstorms](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gla9-auroras-and-thunderstorms)
-Geographically displaced auroras appearing predominantly in the south within the North Temperate Zone highlight extreme instances of auroral activity caused by exceptionally powerful magnetic storms pushing the lights towards the Equator.
 - [Auroras Correlated with Thunderstorms](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#auroras-correlated-with-thunderstorms)
-Auroras with unusual geometries, featuring diverse and often unexplained configurations such as glowing red bands and comet-like streaks, challenge existing theories and highlight the complexity of auroral phenomena.
 - [Auroras Correlated with Earthquakes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#auroras-correlated-with-earthquakes)
-A reciprocal relationship between auroras and thunderstorms suggests that their occurrences can influence each other's frequency and visibility, with auroras potentially reducing thunderstorm activity and vice versa, under specific conditions.
 - [Auroras Correlated with Meteors](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#auroras-correlated-with-meteors)
-The correlation between auroras and thunderstorms, influenced by solar activity, highlights their roles in transferring electrical charges between the Earth and ionosphere, suggesting a potential increase in both phenomena's frequency.
 - [The Close Relationship between Auroral Displays and Clouds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#the-close-relationship-between-auroral-displays-and-clouds)
-The observed statistical association between auroral phenomena and earthquake activities, potentially linked to solar activity, highlights an anomalous area lacking rigorous investigation.
 - [GLA12 Auroras and Clouds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gla12-auroras-and-clouds)
-The text explores various anomalies related to auroras, including their correlation with earthquakes, meteors, and clouds, suggesting complex interactions and potential explanations involving physical processes and atmospheric phenomena.
 - [GLA13 Glowing Night Skies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gla13-glowing-night-skies)
-Observations of auroral lights and unusual atmospheric phenomena across various locations and years highlight the complex interactions between auroras, clouds, and light, contributing to our understanding of atmospheric activity and its visual manifestations.
 - [GLA14 — Sky Brightenings](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gla14--sky-brightenings)
-Historical records and eyewitness accounts document various instances of unusually bright nights and sudden sky illuminations across different regions and periods, often attributed to meteorological phenomena, celestial events, or other atmospheric conditions.
 - [Luminous Horizon Patches GLA15](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#luminous-horizon-patches-gla15)
-Various locations around the world have witnessed unusual luminous phenomena, including prolonged glows, colorful flashes, and patches of light, often without clear explanations or accompanying sounds.
 - [Weather Lights GLA16](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#weather-lights-gla16)
-Various luminous phenomena, ranging from expanding arches and semicircles of light to jellyfish-like flares and spirals, have been observed in different locations and times, often coinciding with space launches or preceding storms.
 - [Anomalies Related to Auroras](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies-related-to-auroras)
-Observations across various times and cultures suggest a correlation between unusual lights in the sky, such as auroras and weather lights, and the subsequent onset of stormy or severe weather conditions.
 - [Correlation with Lunar Phase](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#correlation-with-lunar-phase)
-Major auroral displays were consistently observed to be followed by gales within 48 hours, indicating a potential link between the two phenomena.
 - [Auroras and Lunar Halos](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#auroras-and-lunar-halos)
-Auroras often precede wind and rain events, while gelatinous meteor events, known as pwdre ser, add to the mystique with their luminous displays and the deposition of unusual substances under uncommon atmospheric conditions.
 - [Auroral Electrical Effects](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#auroral-electrical-effects)
-Folk tales and historical beliefs link the anomalous appearance of fibers and silken threads, often associated with auroral displays, to seismic activities, suggesting a complex interplay between earthly and atmospheric phenomena.
 - [Auroral Fogs and Mists](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#auroral-fogs-and-mists)
-Scientists previously误译了这一句，正确的翻译应该是："科学家们过去认为极光是实质性的实体，而非仅仅是光学现象；观测表明极光的发生频率在满月时较低，这建立了一个与月相周期相关的联系，邀请进一步探究天体与大气现象之间的联系。"
 
-修正后的总结句子为：
-观测表明极光的发生频率在满月时较低，这建立了一个与月相周期相关的联系，邀请进一步探究天体与大气现象之间的联系。 
 
-为了更贴合英文原句的简洁性，可以进一步简化为：
-观测显示极光出现频率与月相相关，满月时较少见。
 - [Black Auroras](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#black-auroras)
-Auroras, once thought to be substantial entities, are now understood to interact with lunar phases and halos, showing less frequency during full moons and enhancing luminosity when overlapping with halos, indicating complex atmospheric phenomena influenced by celestial bodies.
 - [Examples of Black Auroras](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#examples-of-black-auroras)
-Auroral phenomena exhibit complex interactions with earthly environments, inducing electrical effects on the surface and influencing radio communications, while their interactions with halos remain poorly documented, and they are also associated with luminous fogs and mists.
 - [Banded Skies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#banded-skies)
-Auroral fogs, where light from auroras reflects off non-luminous mists, and black auroras, characterized by dark arches and streamers, challenge traditional views on auroral altitude and composition, suggesting complex atmospheric interactions and potential optical illusions.
 - [Examples of Banded Skies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#examples-of-banded-skies)
-The text describes various observations and phenomena related to black auroras and banded skies, including their visual characteristics, historical sightings, and potential explanations involving auroral and cloud formations.
 - [Millisecond Brightness Pulsations of the Night Sky](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#millisecond-brightness-pulsations-of-the-night-sky)
-Unusual atmospheric phenomena observed in Honeymeadbrook Station, New York, included unique bands near the moon in 1892 and moonlit cirrus clouds mistaken for auroras in 1903.
 - [False Dawn](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#false-dawn)
-Observations ranging from 1921 to 1932 noted various atmospheric phenomena including fan-shaped white clouds, faint parallel bands of luminosity, and irregular luminous patches interspersed with dark areas, all enhancing the night sky's ethereal quality.
 - [Auroras Following Coastlines](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#auroras-following-coastlines)
-On February 1, 1950, three distinct vertical bands of light were observed in the North Atlantic, resembling unusual aurora-like phenomena without the typical magnetic disturbances.
 - [Challenges to the Theory of Aurora Origin](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#challenges-to-the-theory-of-aurora-origin)
-Observations include long, slowly moving self-luminous strips in the sky akin to haze (X9), non-polar aurora-like phenomena potentially caused by atmospheric waves (X10), and a notable display of luminous cirri with shooting streaks observed on March 14, 1841 (X11).
 - [Flash Auroras](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#flash-auroras)
-Mysterious light phenomena, including white streamers and beams radiating from points in the sky, were observed in 1894 and 1897.
 - [Possible Atmospheric-Laser Emission Accompanying Auroras](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#possible-atmospheric-laser-emission-accompanying-auroras)
-Unusual luminous bands and streaks with unique atmospheric phenomena were observed in England and Germany in 1920 and 1921, respectively, coinciding with a mysterious bright object near the sun sighted from California.
 - [Mysterious Bright Streaks in the Sky](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#mysterious-bright-streaks-in-the-sky)
-Unusual sightings of steady white light phenomena were recorded in the equatorial Pacific in 1956 and in Stowmarket, England in 1914, under unexpected atmospheric conditions.
 - [Sky Streaks](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#sky-streaks)
-The millisecond brightness pulsations observed in the night sky represent an unidentified phenomenon that could have terrestrial or solar origins.
 - [Cloud-Like Patches](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#cloud-like-patches)
-False Dawn refers to a brief brightening of the eastern sky occurring one to two hours before actual dawn.
 - [“Ordinary” Ball Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#ordinary-ball-lightning)
-The text suggests that if the false dawn is attributed to zodiacal light, it doesn't present an anomaly unless it unexpectedly vanishes entirely before the true dawn, linking to a discussion on auroras following coastlines. 
 
-(Note: The summary includes a mention of auroras following coastlines as per the instruction, although this part seems less directly connected to the main point about the false dawn and zodiacal light.)
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-The text explores various anomalies and lesser-known aspects of auroras and atmospheric phenomena, including their alignment with coastlines, short-lived flash auroras, potential laser emissions, mysterious sky streaks, cloud-like patches, and the elusive nature of ball lightning, challenging established theories and offering intriguing mysteries for further investigation.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-The text details various anomalies involving ball lightning and fireballs, showcasing their diverse appearances, behaviors, and impacts, ranging from minor disturbances to significant destruction and fatalities.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-The diverse accounts of ball lightning and related phenomena showcase their mysterious and varied appearances, behaviors, and impacts across different locations and times, contributing to the ongoing scientific investigation into these atmospheric electrical activities.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-Various historical accounts describe unusual sightings and impacts of ball lightning, ranging from colorful, floating orbs causing minimal disturbance to explosive events resulting in significant damage.
 - [Complex Events](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#complex-events)
-A sighting in 1948 described an intense white light, similar to the sun in appearance, descending with an undulating motion and ending in a violent explosion, which is suggestive of ball lightning phenomena.
 - [Anomalous Sphere Observation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalous-sphere-observation)
-A six-inch diameter sphere of ball lightning bounced silently towards a witness after a lightning strike, leaving puffs of greyish smoke, while a phosphorescent ball was observed near a vehicle.
 - [Critiques on Ball Lightning Claims](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#critiques-on-ball-lightning-claims)
-A bright green, phosphorescent ball fell from the sky and rolled towards a car, shocking it and illuminating the surroundings without causing physical damage, while in another incident, lightning struck a USAF jet, leading to vapors forming around it and a blue-white ball entering and exiting a factory with sparks and a loud bang.
 - [General Observations on Ball Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#general-observations-on-ball-lightning)
-Observers reported unusual atmospheric phenomena during storms, including a ball of white fire that moved along a drive and exploded upon hitting an oak tree, and a luminous bluish vertical column followed by a rapidly moving, undulating spherical object.
 - [Surveys of Ball Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#surveys-of-ball-lightning)
-A silver-colored ball, accompanied by a ribbon of light and a 'swoosh' sound, shot across the sky, exploded upon impact without leaving a mark, leaving a lasting impression on witnesses, while also being described as a floating ball of lightning with rings.
 - [Theoretical Approaches to Ball Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#theoretical-approaches-to-ball-lightning)
-Campers witnessed a floating, growing ball of lightning that vanished leaving two concentric rings and a red glow, while during a thunderstorm, a translucent ball of light moved indoors, creating a groove and an ozone smell before exploding near a stove.
 - [Chapter 2:80, July 1952](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#chapter-280-july-1952)
-Various observations of ball lightning describe it as a luminous, often colorful, spherical phenomenon that can move rapidly, produce sounds and smoke, and exhibit unusual behaviors such as passing through solid objects without causing significant damage, during thunderstorms.
 - [Chapter GLB1 Ordinary Ball Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#chapter-glb1-ordinary-ball-lightning)
-S. Campbell critiques ball lightning claims, arguing that observed phenomena like a dull-red, toroidal object with eight-fold symmetry could be explained by camera effects and are primarily supported by anecdotal evidence rather than instrumental confirmation.
 - [Chapter GLB2 Spiked Ball Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#chapter-glb2-spiked-ball-lightning)
-Ball lightning remains a mysterious phenomenon with varying interpretations and credibility, as highlighted by differing surveys and theoretical approaches from researchers like Uman, Turner, Stenhoff, and Bychkov.
 - [Rayed Ball Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#rayed-ball-lightning)
-Ball lightning, an anomalous and enigmatic phenomenon, has been the subject of numerous observations and theoretical explanations, ranging from magnetic loops and electromagnetic knots to complex onion-like structures, highlighting its mysterious nature and the scientific curiosity it evokes.
 - [Miniature Ball Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#miniature-ball-lightning)
-The texts explore various aspects of ball lightning through scientific investigations and historical events, highlighting its mysterious nature and the efforts to understand it through detection methods and anecdotal evidence.
 - [Giant Ball Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#giant-ball-lightning)
-The texts explore various anomalous luminous phenomena, including nocturnal tornado lights, fireballs that disrupt electrical systems, and the complex characteristics of ball lightning with projections, contributing to the scientific understanding of these atmospheric电气现象。  
 
-(Note: The last part "电气现象" means "electrical phenomena" in Chinese. If you prefer it in English, the sentence would be: "The texts explore various anomalous luminous phenomena, including nocturnal tornado lights, fireballs that disrupt electrical systems, and the complex characteristics of ball lightning with projections, contributing to the scientific understanding of these atmospheric electrical phenomena.")
 - [Transparent Ball Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#transparent-ball-lightning)
-Ball lightning displays luminous spheres with long, radial rays during explosive events, and sometimes shows a distinct cleavage pattern as it disintegrates, offering insights into its internal structure and behavior.
 - [Examples of Transparent Ball Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#examples-of-transparent-ball-lightning)
-The fragmentation of ball lightning, characterized by its disintegration and structural instability, adds complexity to the phenomenon.
 - [Examples of Fragmenting Ball Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#examples-of-fragmenting-ball-lightning)
-Various historical accounts describe diverse ball lightning phenomena, ranging from miniature to giant sizes, exhibiting different colors and behaviors, and often occurring during thunderstorms.
 - [Ball Lightning Materialization GLB10](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#ball-lightning-materialization-glb10)
-Various sightings of anomalous luminous phenomena, including balls of light with diverse colors, shapes, and behaviors, have been reported across different locations and times, raising questions about their nature and origin.
 - [Electromagnetic Effects](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#electromagnetic-effects)
-Witnesses observed spectacular atmospheric phenomena involving fireballs that exhibited behaviors such as dividing into multiple parts, leaving meteoric tails, and recombining, showcasing the dynamic nature of these celestial events.
 - [Ball Lightning with Apparent Internal Structure](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#ball-lightning-with-apparent-internal-structure)
-Unusual sightings of fragmented lightning in Connersville, Indiana, and glowing globules in Amiens, France, contribute to the mystery and fascination surrounding the phenomena of ball lightning.
 - [Unusual Physiological Effects of Ball Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#unusual-physiological-effects-of-ball-lightning)
-Mysterious fireballs, observed in Woodstock in 1891 and Kingstown in 1893, exhibited unusual behaviors including bursting into fragments and leaving smaller balls behind, contributing to the enigma of ball lightning phenomena.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-Various historical accounts from different locations and times describe diverse manifestations and impacts of ball lightning, including its tendency to fragment, explode, and interact unpredictably with objects and people.
 - [Similar and Related Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#similar-and-related-phenomena)
-Two anomalous events, Anomaly X4 and Anomaly X5, involve spheres of light appearing after a lightning strike and penetrating enclosed spaces without causing damage, respectively creating a loud explosion with an electrical odor and silently traversing an aircraft cabin before exiting into the night.
 - [Examples of the Correlation of Ball Lightning with Solar Activity](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#examples-of-the-correlation-of-ball-lightning-with-solar-activity)
-Two anomalous sightings, Anomaly X6 and Anomaly X7, occurred in 1963, featuring unusual glowing objects with distinct shapes and colors that exhibited peculiar behaviors, including changing forms and producing sounds, in the United States and England respectively.
 - [Ball Lightning External to Aircraft (Foo Fighters?)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#ball-lightning-external-to-aircraft-foo-fighters)
-Ball lightning, observed in various forms and locations across different centuries, has exhibited unusual behaviors such as appearing indoors, emitting sounds akin to explosions, and causing physical damage, highlighting its mysterious and unpredictable nature.
 - [Examples of Ball Lightning External to Aircraft](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#examples-of-ball-lightning-external-to-aircraft)
-Ball lightning exhibits diverse and anomalous behaviors, including explosive flashes in enclosed spaces, appearances in various environments, interactions with aircraft and machinery, and causing unusual physiological effects in witnesses, while also potentially leaving minimal physical damage.
 - [Repeating Ball Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#repeating-ball-lightning)
-Various anomalies involving unusual forms of lightning, such as fuzzy blobs, dome-shaped bulbs, flat formations, and fireballs with tails, have been observed across different locations and times, challenging traditional understandings of electrical phenomena.
 - [Penetration of Physical Barriers by Ball Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#penetration-of-physical-barriers-by-ball-lightning)
-Solar activity is correlated with thunderstorm frequency, aurora incidence, and potentially with the occurrence of ball lightning, as evidenced by historical observations linking solar cycles to an increase in ball lightning reports in Holland from 1880 to 1956.
 - [Anomalies Observed in Ball Lightning Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies-observed-in-ball-lightning-phenomena)
-Foo Fighters, mysterious fireballs observed near aircraft, have puzzled scientists since World War II, with phenomena like St. Elmo's Fire providing partial explanations but leaving many aspects unaccounted for.
 - [Mountain-Top Glows (GLD1)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#mountain-top-glows-gld1)
-Lieutenant Meiers observed distinct types of aerial lights, including red balls and fireballs, while an unspecified aircraft encountered ball lightning during a turbulent thunderstorm, highlighting unusual atmospheric phenomena around airplanes.
 - [Intermountain Electric Discharges (GLD2)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#intermountain-electric-discharges-gld2)
-Observations of ball lightning, such as a 20 cm ball of light near an aircraft's trailing edge and a blue orb appearing briefly in Bedford, England, highlight the phenomenon's mysterious and unpredictable characteristics, raising questions about its physical properties.
 - [Large-Scale St. Elmo’s Fire (GLD3)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#large-scale-st-elmos-fire-gld3)
-A bright ball exhibiting rapid, airflow-independent movements on an aircraft wing challenges the notion that ball lightning could be made of vaporized metal,不同于圣埃洛火的描述。  
 
-(Note: The last part "不同于圣埃洛火的描述" means "unlike the description of St. Elmo's Fire," but it doesn't fit smoothly in English. If a smoother translation is preferred, we can adjust to: "unlike the characteristics of St. Elmo's Fire.")
 
-For a purely English version:
-"A bright ball exhibiting rapid, airflow-independent movements on an aircraft wing challenges the notion that ball lightning could be made of vaporized metal, unlike the characteristics of St. Elmo's Fire."
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-Reports from various dates and locations during World War II describe mysterious fireballs, or foo fighters, that followed aircraft, exhibited unusual behaviors like matching altitude and trajectory, and remained largely benign and unexplained.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-The text explores various anomalies and observations related to ball lightning, including its ability to penetrate physical barriers like glass and metal screens without causing damage, its recurring appearances in specific locations, and unusual encounters documented through eyewitness accounts and meteorological journals.
 - [Curiosities of St. Elmo’s Fire](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#curiosities-of-st-elmos-fire)
-Mountain-top glows and intermountain electric discharges are atmospheric phenomena characterized by colorful lights and electrical discharges observed over mountain ranges, with mountain-top glows showing undulating streamers and flashes often in yellowish white, green, and orange, while intermountain electric discharges involve luminous events between peaks, both still largely unexplained scientifically.
 - [Luminous Aerial Bubbles](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#luminous-aerial-bubbles)
-Large-scale St. Elmo's Fire is a phenomenon where people and landscapes are enveloped by transient, flame-like electrical discharges during thunderstorms, causing minor electrical sensations and breathing difficulties, as evidenced by various historical anomalies.
 - [Strange Bubble Phenomenon](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#strange-bubble-phenomenon)
-The text describes two anomalies: the constant silent lightning in Lake Maracaibo, Venezuela, known as the Faro of Maracaibo, and blue sparks caused by wind-driven sand observed in Sudan and Nigeria.
 - [Mekong River Lights](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#mekong-river-lights)
-On June 7, 1882, St. Elmo's Fire illuminated a researcher on Pike's Peak, while fireballs crackled along wire fences near a farmer's private road, showcasing unique atmospheric electrical phenomena.
 - [Earthquake Lights](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#earthquake-lights)
-A man in Worcester, Massachusetts observed a slowly moving ball of light along a railroad track that disappeared with a clap of thunder, suggesting unusual electrical phenomena.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-Various historical observations and curiosities surrounding electrical phenomena such as St. Elmo's fire and corposants illustrate the diverse and often mesmerizing ways atmospheric electricity manifests across different environments and contexts.
 - [Volcano Lights](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#volcano-lights)
-Luminous aerial bubbles, observed in various locations across Europe from 1808 to 1880, appeared as colorful, floating spheres that exhibited vibrant, iridescent displays before vanishing.
 - [Tornado Lights](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#tornado-lights)
-Observations across various locations and times describe a range of luminous phenomena, including floating spheres, fiery displays, and earthquake lights, showcasing the diversity and mystery of atmospheric and seismic optical anomalies.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-The text describes various instances of mysterious luminous phenomena associated with seismic, volcanic, and tornado activities, highlighting the complexity and多样性 of these natural light displays. 
 
-(Note: The last part "多样性" is Chinese for "diversity," which I used to maintain the brevity of the sentence. If you prefer an English word, it would be "diversity".) 
 
-Revised: 
-The text describes various instances of mysterious luminous phenomena associated with seismic, volcanic, and tornado activities, highlighting the complexity and diversity of these natural light displays.
 - [Anomaly Evaluation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomaly-evaluation)
-The text describes various instances of luminous phenomena accompanying tornadoes and volcanic activities, showcasing the dynamic interplay of electrical energy in nature.
 - [Luminous Phenomena in Water and Ice](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#luminous-phenomena-in-water-and-ice)
-Tornadoes observed in Miami, Florida (1959) and Toledo, Ohio (1965) displayed unusual luminous phenomena, including blue-green and electric blue lights, accompanied by glowing shapes and disrupted power lines, while a tornado in Huntsville, Alabama, on April 3, 1974, is mentioned without specific details.
 - [Dazzling Lights in Clouds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#dazzling-lights-in-clouds)
-Various observations describe unusual luminous phenomena accompanying tornadoes, including green spikes, blue flashes, white funnels emitting light, and phosphorescent glows.
 - [Luminous Patches Moving on Clouds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#luminous-patches-moving-on-clouds)
-On October 17, 1909, a waterspout in the Mediterranean Sea was accompanied by a streak of light along its axis and vivid lightning, showcasing intense electrical activity.
 - [Ground-Level Light Flashes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#ground-level-light-flashes)
-On March 23, 1913, observers in Omaha, Nebraska noted that the lower end of the tornado appeared as a vivid, fiery mass, with its fierce light being a significant feature.
 - [Luminous Phenomena above Thunderclouds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#luminous-phenomena-above-thunderclouds)
-From the late 19th century to the mid-20th century, eyewitnesses across different locations reported various luminous phenomena accompanying tornadoes, ranging from blue flashes and green neon-like lights to white vapor and intense lightning.
 - [GLL1 Luminous Phenomena above Thunderclouds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll1-luminous-phenomena-above-thunderclouds)
-Witnesses on different occasions observed various forms of electrical phenomena accompanying tornadoes, including lightning discharges, bright cores, violet flames, and bluish lights, highlighting the complex electrical nature of these storms.
 - [GLL2 Bead Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll2-bead-lightning)
-Reports from various locations in England describe unusual atmospheric phenomena, including luminous whirlwinds and tornadoes with electrical discharges, observed by different witnesses over time.
 - [GLL2 Bead Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll2-bead-lightning)
-The luminosity in tornadoes may be explained by electrical discharges, the collection of combustible materials, or the formation of ball lightning.
 - [GLL3 Colored Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll3-colored-lightning)
-Two anomalous atmospheric events in France, one involving a destructive blackish vapor waterspout in 1823 and another a fiery, sulfurous cloud with significant damage, showcase rare meteorological phenomena.
 - [GLL4 Silent Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll4-silent-lightning)
-Witnesses travelling in a phaeton observed three tall and wide columns of fire emerging from the ground in Lancashire, an event dubbed "Anomaly X3: Pillars of Fire in Lancashire."
 - [GLL5 Horizontal Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll5-horizontal-lightning)
-In 1869, a flaming whirlwind in Tennessee, witnessed by over 200 people, carried burning tree branches and ignited buildings in its path, causing an extensive inferno.
 - [Lightning from a Clear Sky](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#lightning-from-a-clear-sky)
-The text describes various anomalous phenomena involving fire, light, and sound observed across different locations and times, ranging from pillars of fire and balls of fire to luminous rocks and electrical storms with phosphorescence.
 - [Crown Flash](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#crown-flash)
-Phosphorescent phenomena observed during storms, in waterfalls, and in sea ice suggest complex interactions between natural elements, intriguing researchers with their luminous displays and potential correlations with environmental factors.
 - [The Preference of Lightning for Certain Trees](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#the-preference-of-lightning-for-certain-trees)
-The text describes various observations of luminous phenomena in the sky, including stationary glowing lights and moving patches of light on clouds, which were often associated with electrical storms and displayed unique characteristics like pulsing and silent discharges.
 - [Lightning Figures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#lightning-figures)
-Witnesses in Alliance, Ohio observed quick, blue-green flashes of light at ground level in 1953, while rocket lightning describes upward electrical discharges from thunderclouds that burst into bright fingers.
 - [General Observations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#general-observations)
-Sprites are fleeting optical phenomena that occur above thunderstorm clouds, typically characterized by red and blue flashes.
 - [1595 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#1595-incident)
-Red sprites are short-duration, reddish flashes with tendrils that occur above thunderstorms in the ionosphere.
 - [1812 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#1812-incident)
-Blue jets are narrowly collimated, bluish beams of light that shoot upwards from thunderclouds, potentially explaining some reports of rocket lightning.
 - [1828 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#1828-incident)
-Elves are mythical beings often depicted in folklore and fantasy literature as graceful, long-lived creatures with magical powers and keen senses.
 - [July 1851 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#july-1851-incident)
-Toroidal flashes observed in the outer ionosphere add complexity to the understanding of atmospheric phenomena due to their unique shape and behavior.
 - [November 2, 1861 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#november-2-1861-incident)
-Blue Starters are bright-blue flashes occurring just above thunderclouds, adding to the variety of luminous phenomena observed in the skies.
 - [June 9, 1883 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#june-9-1883-incident)
-GLL1 refers to a type of luminous phenomenon observed above thunderclouds, showcasing intriguing atmospheric electrical activities.
 - [June 17, 1896 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#june-17-1896-incident)
-Sprites are brief, reddish flashes observed in the ionosphere above thunderclouds, often accompanying blue jets.
 - [September 14, 1919 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#september-14-1919-incident)
-Blue jets are narrowly collimated beams of blue light shooting upwards from thunderstorms at approximately 100 km/s, reaching altitudes of 40-50 km.
 - [General Observation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#general-observation)
-Elves are fleeting, doughnut-shaped flashes of light that occur in Earth's upper atmosphere, lasting less than a millisecond and often accompanying sprites.
 - [General Observation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#general-observation)
-Blue starters are bright blue flashes observed above thunderstorms, originating from cloud tops and reaching a maximum altitude of around 25.5 km, distinguishing them from blue jets by their lower altitude.
 - [General Observation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#general-observation)
-Luminous atmospheric phenomena like sprites and elves may occur more frequently due to electrical disturbances from powerful thunderstorms, potentially triggered by external factors such as meteors or cosmic rays.
 - [No Date Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#no-date-incident)
-GLL2 Bead Lightning is a type of lightning that creates bead-like luminous segments along its channel.
 - [Lightning Sounds Description](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#lightning-sounds-description)
-Bead lightning, also known as pearl or segmented lightning, is characterized by luminous segments that transform into spherical or rectangular shapes as the lightning fades, lasting from 1 to 2 seconds.
 - [Lightning Sounds Examples](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#lightning-sounds-examples)
-Despite historical skepticism and doubts attributing bead lightning to an afterimage effect, numerous visual accounts and photographs support its existence as a genuine physical phenomenon.
 - [July 30, 1921 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#july-30-1921-incident)
-The rectangular segments of bead lightning present a scientific puzzle as their formation remains unexplained despite potential plasma physics explanations for the spherical parts.
 - [June 8, 1972 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#june-8-1972-incident)
-Bead lightning may form due to longitudinal waves during a lightning stroke influenced by perturbations,不同于早期认为的发光珠是闪电后残留的燃烧物质。
 - [Lightning's Pranks Description](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#lightnings-pranks-description)
-Bead lightning has been historically observed in various forms, including dramatic sightings of luminous beads streaking towards the ground during thunderstorms and forming trail-like patterns when striking bodies of water.
 - [Circa 1872 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#circa-1872-incident)
-On February 17, 1988, in Abu Dhabi, a unique horizontal lightning strike was accompanied by a series of 20 transient luminous balls of light observed in the sky.
 - [June 15, 1873 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#june-15-1873-incident)
-GLL3 Colored Lightning is a variant of lightning that appears in vibrant colors due to specific atmospheric conditions and chemical compositions.
 - [June 8, 1878 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#june-8-1878-incident)
-In August 1890, England witnessed an unusual display of multicolored lightning, featuring red, yellow, and blue hues, with one flash notably yellow and拥有蓝色中心，展示了这一现象的不同寻常之处。
 
-To provide a more natural English sentence:
-In August 1890, England witnessed an unusual display of multicolored lightning, featuring red, yellow, and blue hues, with one flash notably yellow with a blue center, highlighting the phenomenon's unusual nature.
 - [No Date Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#no-date-incident)
-In August 1890, England witnessed an extraordinary display of colored lightning, featuring red, yellow, and blue hues, with one flash notably yellow and possessing a blue center, indicative of variations in atmospheric composition or lightning temperatures.
 - [June 24, 1935 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#june-24-1935-incident)
-On May 13, 1906, unusual dull, nonluminous red lightning was observed同步到伴随的雷声中的Somerset, England, alongside normal lightning. 
 
-Note: There seems to be a mix-up with the translation of "synchronization to the accompanying thunder" as "同步到伴随的雷声中" appears in the middle of the sentence. A more accurate translation would be:
 
-"On May 13, 1906, unusual dull, nonluminous red lightning, not synchronized with the accompanying thunder, was observed in Somerset, England, alongside normal lightning."
 - [June 8, 1972 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#june-8-1972-incident)
-In August 1890, England witnessed an unusual display of colored lightning, featuring red, yellow, and blue hues, with one flash notably yellow and拥有蓝色中心，展示了这一现象的不寻常之处。
 
-To provide a more natural English sentence:
-In August 1890, England witnessed an unusual display of colored lightning, featuring red, yellow, and blue hues, with one flash notably yellow with a blue center, highlighting the phenomenon's peculiar nature.
 - [January 5, 1890 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#january-5-1890-incident)
-GLL3 Colored Lightning is an advanced lighting technology that projects vibrant, adjustable color hues to enhance visual environments dynamically.
 - [X9 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x9-incident)
-In August 1890, England witnessed an unusual display of multicolored lightning, featuring red, yellow, and blue hues, with one flash notably yellow and possessing a blue center, indicating variations in atmospheric conditions or lightning temperatures.
 - [July 1907 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#july-1907-incident)
-On May 13, 1906, unusual dull, nonluminous red lightning was observed in Somerset, England, occurring concurrently with normal lightning but without synchronizing with the thunder.
 - [July 17, 1988 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#july-17-1988-incident)
-On October 6, 1927, in Brantford, Ontario, a lightning flash exhibited an unusual color pattern, starting white at the top and changing to vivid green at the bottom.
 - [March 17, 1990 Incident](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#march-17-1990-incident)
-GLL4 Silent Lightning is a model known for its stealthy operation, likely referring to a type of appliance or vehicle designed to minimize noise during use.
 - [Hot-Air Blasts Following Lightning Strokes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#hot-air-blasts-following-lightning-strokes)
-In Shanghai, China, unusual silent lightning phenomena occurred on July 19 and August 10 of 1899, featuring continuous light displays in the northern sky without significant thunder.
 - [Unusual Geographical Preferences of Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#unusual-geographical-preferences-of-lightning)
-On October 3, 1927, Paraguay witnessed an extraordinary silent atmospheric event featuring swift, orange cylindrical masses of glowing gas without accompanying thunder or wind.
 - [Black Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#black-lightning)
-On July 16, 1873, in Hereford, England, a horizontal lightning strike traveled approximately five miles through clear skies, resembling a horizontally-fired rocket as it struck a house.
 - [Slow or Prolonged Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#slow-or-prolonged-lightning)
-On May 14, 1965, in the Malacca Strait, a lightning bolt exhibited anomalous behavior by emerging from a cloud and taking a horizontal, curving path downwards before striking the earth, deviating from the usual vertical pattern.
 - [Correlation of Lightning and Cosmic Rays](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#correlation-of-lightning-and-cosmic-rays)
-"Lightning from a Clear Sky" depicts an unexpected event or situation that occurs when least anticipated.
 - [Lightning Superbolts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#lightning-superbolts)
-"Lightning from a Clear Sky" vividly illustrates an unexpected event or occurrence that happens when least anticipated.
 - [GLL19 Dual Lightning Discharges](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll19-dual-lightning-discharges)
-Clear-sky lightning discharges, characterized by well-defined or diffuse bolts often accompanied by thunder, were observed on September 10, 1909.
 - [GLL20 Abnormally Long Lightning Strokes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll20-abnormally-long-lightning-strokes)
-On July 2, 1927, an observer in Cyprus witnessed a clear-sky lightning event characterized by a distinct flash and sharp thunderclap amidst forming heavy thunderclouds.
 - [GLL21 Anomalous Electrical Fields and Currents during Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll21-anomalous-electrical-fields-and-currents-during-lightning)
-Mapmakers in Montana witnessed unusual vertical lightning strikes descending from a clear sky, igniting a forest fire on July 21, 1952.
 - [GLL22 Lightning Shadowgraphs](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll22-lightning-shadowgraphs)
-On October 17, 1956, an observer flying at 5,000 feet reported a lightning strike on their plane that burned a trailing cable, despite the absence of nearby clouds or precipitation.
 - [GLL23 Wisps of Flame Left by Lightning Strokes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll23-wisps-of-flame-left-by-lightning-strokes)
-Observers in Dominica noted unusual lightning emerging from high cirrus clouds, moving in a straight line toward a lower cumulus cloud, seemingly entering it before reappearing.
 - [GLL24 Tubular Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll24-tubular-lightning)
-A local resident observed that lightning, appearing as sheet lightning or single flashes at intervals, frequently occurs in the clear skies of the West Indies without being tied to specific sky areas or meteor activity.
 - [GLL25 Meandering Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll25-meandering-lightning)
-On May 28, 1853, a flash of lightning entered an open window in Portsmouth, New Hampshire, injuring someone despite the clear skies outside.
 - [GLL26 Ribbon Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll26-ribbon-lightning)
-Witnesses in Weld, Maine reported seeing numerous bright lightning flashes in a clear, cloudless sky, prompting curiosity about the atmospheric conditions that enabled this phenomenon.
 - [GLL26 Ribbon Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll26-ribbon-lightning)
-In 1867, three people in South Killingly, Connecticut, were struck by lightning on a mostly clear day, accompanied by unusually loud thunder.
 - [GLL27 Spider Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll27-spider-lightning)
-Crown Flash is a phenomenon where the top of a thundercloud illuminates, creating aurora-like streamers in the clear atmosphere above, often synchronized with lightning strokes, as observed in notable instances in Michigan and Texas.
 - [GLL28 Bipolar Storms](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll28-bipolar-storms)
-Lightning demonstrates a notable preference for striking oak trees over beeches, a phenomenon supported by both folklore and scientific studies.
 - [GLL29 Gamma-Ray Flashes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll29-gamma-ray-flashes)
-Studies and observations indicate that oak trees are more frequently struck by lightning than beech trees, suggesting it is safer to take shelter under a beech tree during a thunderstorm.
 - [GLL30 Thunderstorm Neutrons](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll30-thunderstorm-neutrons)
-A cypress tree in Virginia Beach frequently acted as a natural lightning rod in the 1950s, with one strike producing an unusual sighting of ball lightning.
 - [GLL31 Lightning and Humans](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gll31-lightning-and-humans)
-Lightning Figures refer to quick, ephemeral artistic representations or impressions of individuals that capture their essence in a swift, dynamic manner.
 - [Lightning Strikes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#lightning-strikes)
-Tree-like patterns appearing on the skin of lightning strike victims, such as distinct marks or dendritic patterns, suggest that lightning can imprint unique images on human skin.
 - [Vehicle Engine Stalling](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#vehicle-engine-stalling)
-Lightning prints, which include mysterious impressions of objects and shapes on bodies as observed by Prof. Poey and exemplified by cross-shaped marks on worshippers in a 1595 England church incident, remain poorly understood.
 - [Low-Level Meteor-Like Objects](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#low-level-meteor-like-objects)
-Unusual incidents in 1812 and 1828 revealed that lightning could imprint environmental images onto the skins of its victims, suggesting an unexpected link between natural phenomena and their surroundings.
 - [Anomalies from the Excerpt](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies-from-the-excerpt)
-Throughout history, lightning has been observed to create mysterious images and cause unusual phenomena, ranging from imprinting tree-like figures on various surfaces to producing strange sounds and leaving lasting environmental impacts, thereby challenging our conventional understanding of its effects.
 - [GLM2](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#glm2)
-Lightning strikes across various locations and times have caused a range of unusual phenomena, from creating fused clay holes and breaking eggs without damaging their membranes to generating hot-air blasts and exhibiting geographical preferences, highlighting the diverse and often peculiar effects of electrical discharges.
 - [GLN1](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#gln1)
-The text describes various anomalies related to lightning, including black lightning, prolonged flashes, correlations with cosmic rays, super-powerful superbolts, dual discharges, abnormally long strokes, and anomalous electrical fields, highlighting phenomena that challenge current scientific understanding.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-The text describes various lightning-related phenomena and anomalies, ranging from shadowgraphs and tubular lightning to spider lightning and bipolar storms, each evaluated for their scientific curiosity and unusual characteristics.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-The text describes a series of unusual celestial events observed between 1956 and 1997, ranging from colorful meteor-like objects and fireballs to UFO sightings, each presenting unique characteristics that challenge typical classifications.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-Unusual celestial observations, characterized by either unusually slow, long-lasting trails or extremely swift, brief flashes of light, have puzzled observers across various locations and dates, deviating significantly from typical meteor phenomena.
 - [X71. Yakima Lights](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x71-yakima-lights)
-Observers were astonished by the swift and close light phenomena lacking tails, distinguishing them from regular meteors, as exemplified by an incident in 1929 where a descending orange object in the Caribbean vanished into the sea silently.
 - [X72. Hessdalen Valley Lights](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x72-hessdalen-valley-lights)
-An observer in London, England, in 1970 described an anomalous bright streak of light that moved unusually, starting below the ceiling and disappearing before reaching the floor, questioning its nature and movement.
 - [X73. Mekong River Lights](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x73-mekong-river-lights)
-Observers reported nebulous wisps of light that resembled meteors but exhibited unusual behavior, raising questions about perceptions.
 - [X74. Changkat Asah Lights](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x74-changkat-asah-lights)
-Low-level nocturnal lights, characterized by their pale white, blue, or yellow flames and glowing globes drifting erratically beneath tree-tops, frequently vanish upon close approach, adding to their mysterious allure.
 - [X75. Himalayan Glowing Complexes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x75-himalayan-glowing-complexes)
-Despite historical attributions to spontaneously ignited marsh gases, the observed phenomena of will-o’-the-wisps, such as their cold temperature and maneuverability, challenge conventional explanations.
 - [X76. Lake Neovi Lights](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x76-lake-neovi-lights)
-The Faro of Maracaibo, a spectacular and frequent luminous event over Lake Maracaibo in Venezuela, is believed to be caused by ignited natural gas, fascinating both locals and scientists with its spontaneous appearances.
 - [X77. Kamaisi Tsunami Lights](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x77-kamaisi-tsunami-lights)
-In Minden, Germany, in 1814, blue flames were observed retreating as observers approached, complicating studies of the phenomenon associated with ferruginous marshy water.
 - [X78. Kamaisi Bay Fireball](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x78-kamaisi-bay-fireball)
-Fishermen observed a prolonged, furnace-like light with ascending beams on the water's surface, suggesting potential auroral activity and adding to atmospheric mysteries.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-The text describes various observations of anomalous lights and flames, showcasing their diverse appearances, movements, and locations, from marshy fields and lakes to seas and bogs, often attributed to phenomena like will-o'-the-wisps.
 - [Low-Level Nocturnal Lights GLN1](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#low-level-nocturnal-lights-gln1)
-Various sightings of mysterious lights, from a phantom ship off Montauk Point to flickering lights in Italian rice fields, echo local legends and offer glimpses of the unexplained in different parts of the world.
 - [High-Level Nocturnal Lights GLN2](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#high-level-nocturnal-lights-gln2)
-Flickering lights over water-covered rice fields create an illusion of a faintly luminous mist, a flame-like light moves against the wind in a graveyard, a red light at sea near Sydney sparks phantom ship theories, and an unspecified evening light is observed in Sussex,England. 
 
-To refine into a single sentence as requested:
 
-Mysterious lights manifest in various forms across different locations: flickering over rice fields, a flame-like apparition in a graveyard, a red enigma at sea near Sydney, and an unnamed evening light in Sussex, England.
 - [X10. 1948-1949. U.S. Southwest](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x10-1948-1949-us-southwest)
-A mysterious red light observed at sea near Sydney, Australia, sparked curiosity and speculation about it being a phantom ship among witnesses.
 - [X11. November 28, 1958. North Pacific Ocean](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x11-november-28-1958-north-pacific-ocean)
-The serene evening light bathes Sussex, England, in a warm and tranquil glow.
 - [X12. February 25, 1959](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x12-february-25-1959)
-A gracefully sweeping light frequently seen at night often signaled impending bad weather by rising to great heights.
 - [X13. April 4, 1959. Caribbean Sea](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x13-april-4-1959-caribbean-sea)
-On February 24, 1893, ship officers near Mount Auckland in the North Pacific Ocean observed unusual, globular lights that shifted in formation, hinting at otherworldly qualities.
 - [X14. February 25, 1964. North Atlantic Ocean](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x14-february-25-1964-north-atlantic-ocean)
-Mysterious pale balls of light have been observed in the Bay of Islands, New Zealand, captivating onlookers and sparking curiosity about their origin.
 - [X15. February 16, 1967. Caribbean Sea](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x15-february-16-1967-caribbean-sea)
-Mysterious balls of pale light observed near the ground and on pointed objects in the region have fueled local legends of unusual phenomena.
 - [X16. October 4, 1967. North Atlantic Ocean](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x16-october-4-1967-north-atlantic-ocean)
-In April 1897, a居民于密歇根州李市看到一个类似鸡蛋大小的光球以之字形轨迹在空中飘浮，其特征暗示可能与球状闪电现象有关。 
 
-(Note: The translation provided is a direct rendering into Chinese. Given the instruction, here is an English sentence summary as requested:)
-A ball of light, resembling a hen's egg and moving in a zigzag pattern, was observed in Lee, Michigan in April 1897, suggesting a potential link to ball lightning.
 - [X17. May 13, 1960. Caribbean Sea](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x17-may-13-1960-caribbean-sea)
-A ball of light was observed in Lee, Michigan, captivating local residents and sparking curiosity about its origin.
 - [X18. September 21, 1961. North Pacific Ocean](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x18-september-21-1961-north-pacific-ocean)
-A zigzag-moving ball of light,类似鸡蛋大小,在1897年4月被看到，其特征暗示了与球状闪电现象的可能联系。 
 
-Note: The phrase "resembling a hen's egg" is translated as "类似鸡蛋大小" which literally means "similar in size to an egg" to make it more natural in Chinese. If you prefer a more literal translation, it can be adjusted accordingly.
 - [X19. October 16, 1976. Barents Sea](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x19-october-16-1976-barents-sea)
-A zigzagging ball of light, similar in size to a hen's egg, observed in April 1897, exhibited characteristics suggestive of ball lightning.
 - [X20. January 17, 1980. Santiago, Chile](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x20-january-17-1980-santiago-chile)
-In August 1897, numerous bright bubbles of light emerged from the waters in the port of Croisic, France, adding to the documented series of mysterious light phenomena.
 - [X21. March 13, 1989. North Pacific Ocean](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x21-march-13-1989-north-pacific-ocean)
-Rapidly moving lights were observed in the Scottish sky, intriguing both locals and visitors.
 - [X22. January 14, 1993. Eastern North Pacific](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x22-january-14-1993-eastern-north-pacific)
-In August 1900, locals observed and reported swiftly moving lights that climbed hills and approached a loch, fueling superstitions about mysterious lights in the area.
 - [X23. November 20, 1995. North Atlantic](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x23-november-20-1995-north-atlantic)
-In 1902, flames with a strong sulphurous odor erupted from a mud flat in a shallow canal in England, growing more intense upon interaction.
 - [X24. August 21, 1996. Sarpy County, Nebraska](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x24-august-21-1996-sarpy-county-nebraska)
-A pestilential vapour emerged in Harlech, Wales, affecting the area.
 - [X25. May 25, 1997. Near Loco, Oklahoma](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x25-may-25-1997-near-loco-oklahoma)
-In winter 1694, a weak, blue flame emerged from a marsh, igniting nearby structures and impacting local plants and animals.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-Reports from various locations include sightings of mysterious lights and flames, such as psychogenic Egryn Lights in Wales during the 1904-1905 revival, moving colored lights in the Dysynni Estuary in 1877, and flames with a sulphurous odor rising from Kittery Point, Maine, in 1905, all contributing to investigations into unusual luminous phenomena.
 - [Moving Phosphorescent Bands GLW2](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#moving-phosphorescent-bands-glw2)
-Various locations around the world report mysterious light phenomena, often described with similar characteristics such as hemispherical shapes, erratic movements, and lack of heat, contributing to both local legends and scientific inquiries into their origins.
 - [Aerial Phosphorescent Displays](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#aerial-phosphorescent-displays)
-Nocturnal lights, observed both in the southern Himalayas of Nepal as amorphous glowing complexes and at Lake Neovi in Western Africa as violet balls, showcase unusual behaviors and suggest a broader, underexplored phenomenon potentially linked to luminescent organisms.
 - [Phosphorescent Wheels](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#phosphorescent-wheels)
-Unusual luminous phenomena, including bluish-purple lights and a large fireball, were observed during a 1933 tsunami in Kamaisi, suggesting a potential link between seismic activity and luminous anomalies.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-Various mysterious lights and phenomena, ranging from floating orbs along railroad tracks to bluish flames issuing from caves, have been observed in different parts of the world, often defying immediate scientific explanation.
 - [X65](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x65)
-Unusual luminous phenomena, such as swiftly moving nocturnal lights in Moravia and rotating luminous rings with rapid sparks in Sweden, challenge conventional explanations and suggest complex electrical origins.
 - [X66](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x66)
-In September 1991, a luminous and mobile mass of mist emitting rain-like sounds was observed in Winchester, while a light ball phenomenon was noted in Wales.
 - [X67](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x67)
-In Green River Canyon, Washington, a cold, salty water pool erupts with natural gas, creating spectacular flames up to 100 feet high and持续的发光水面展示。
 - [X68](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x68)
-Beachgoers witness bioluminescent blue lights dancing around their feet due to pressure-activated glowing organisms in the sand, while historical records from 1889 describe unexplained oscillatory nocturnal lights termed "Infernito."
 - [X69](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x69)
-Reports from the late 19th century describe ghostly lights, known as Ignis Fatuus or Will-o'-the-Wisps, which were often linked to folklore and local legends of supernatural phenomena, leading to their mysterious and elusive characterization in marshlands.
 - [X70](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x70)
-The texts describe observations of mysterious nocturnal lights, with Penhallow reporting on puzzling beach lights in 1905 and an anonymous observer noting a moving, rose-colored light from a train in Iowa during the summer of 1896.
 - [X71](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x71)
-In July 1952, both Florida and New Mexico reported sightings of unconventional aerial objects characterized by erratic movements, including abrupt halts, directional changes, and rapid accelerations, defying easy classification.
 - [X72](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x72)
-Reports from 1978 document unusual aerial phenomena, including military-confirmed hovering lights in Florida's Ocala National Forest and cone-shaped lights in the North Atlantic, while in 1948-1949, the U.S. Southwest witnessed fast-moving green "meteors" that puzzled observers.
 - [X73](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#x73)
-On November 28, 1958, a bright, pulsating white light, varying in brightness and descending vertically, was observed over the North Pacific Ocean from the S.S. Alameda.
 - [Anomalies in Marine Light Displays](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies-in-marine-light-displays)
-Various sightings over different seas and oceans describe unusual aerial phenomena, ranging from moving lights and glowing bodies to objects with tails and halos, that exhibit behaviors inconsistent with conventional aircraft or natural phenomena.
 - [GLW6 Phosphorescent Patches Moving in Circles](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#glw6-phosphorescent-patches-moving-in-circles)
-On January 17, 1980, in Santiago, Chile, an astronomer observed a slowly moving, point-shaped luminous object that vanished suddenly, followed by a formation of 30 lights in a V-shape, both perplexing the witnesses.
 - [GLW7 Phosphorescent Spinning Crescents](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#glw7-phosphorescent-spinning-crescents)
-Unusual sightings of bright lights and a conical-shaped light led to speculation about potential spacecraft reentries or other celestial phenomena, as their behaviors did not align with typical aircraft or natural occurrences.
 - [GLW8 Zigzag Phosphorescent Flashes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#glw8-zigzag-phosphorescent-flashes)
-On November 20, 1995, in the North Atlantic, a reliable observer reported seeing a very bright light that swiftly vanished, succeeded by two fast-moving, navigation-light-less objects, prompting speculation about the origin of the initial intense light.
 - [GLW9 Milky Seas](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#glw9-milky-seas)
-On August 21, 1996, in Sarpy County, Nebraska, a fast-moving luminous phenomenon captured on video was speculated by researchers to potentially represent a new type of electrical discharge emerging from a thundercloud.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-Various anomalous observations, including high-speed objects in storms, pulsating lights, and rapidly moving phosphorescent bands across the sea, highlight mysterious luminous phenomena with unclear mechanisms and diverse historical records.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-Various maritime observations across different dates and locations showcase the diverse and dynamic nature of bioluminescent phenomena in the world's oceans, including moving bands, wheels, and expanding circles formed by light-emitting marine organisms.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies)
-Various observations of maritime luminescence across different dates and locations, including the Persian Gulf, Gulf of Siam, South China Sea, and Indian Ocean, highlight the consistent and complex nature of these phenomena.
 - [Proceedings](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#proceedings)
-The observations of rapidly moving luminous bands in the Indian Ocean in 1938 and a strange dawn-like light during a voyage in 1963 provide insights into the geographical fluctuation and nature of maritime luminescence.
 - [American Scientist](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#american-scientist)
-Marine bioluminescent displays, observed both on and just above the water's surface, continue to fascinate researchers, as evidenced by the 1985 sighting near the Java Sea, highlighting the enduring mystery surrounding these aerial phosphorescent phenomena.
 - [Annals of Philosophy](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#annals-of-philosophy)
-The aerial phosphorescent displays, rated with limited credibility, likely result from either suspended bioluminescent organisms or light reflections off mist or fog from underwater sources, though both explanations face skepticism.
 - [Astronomical Society of the Pacific, Publications](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#astronomical-society-of-the-pacific-publications)
-The displays share similarities with low-level auroras and luminous fogs, captivating observers with their wave-like structures.
 - [British Meteorological Society files](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#british-meteorological-society-files)
-Phosphorescent Wheels refers to wheels that emit light after being charged by a source of illumination, creating a glowing visual effect when in motion.
 - [Monthly Weather Review](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#monthly-weather-review)
-Phosphorescent wheels exhibit spoke-like bands of light that rotate around a central point with varying shapes and directions, often seen stationary or in motion in the Indian Ocean regions.
 - [Journal of Science](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#journal-of-science)
-The geometric light patterns, likely caused by bioluminescence potentially triggered by earthquake activity, remain unexplained due to their sustained intricate geometries that do not consistently correlate with ship wakes or seismic events.
 - [Miscellaneous Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#miscellaneous-anomalies)
-The marine phosphorescent wheels are connected to other glowing sea phenomena and minor auroras, suggesting a potential area for deeper exploration into their electrical causes.
 - [Pulse of the Planet](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#pulse-of-the-planet)
-Historical accounts vividly describe awe-inspiring anomalous wheel-like lights appearing over bodies of water, as exemplified by the 1929 sightings in the Malacca Strait and the North Indian Ocean, which featured spectacular light displays and unusual effects on nearby ships.
 - [Royal Astronomical Society, Journal](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#royal-astronomical-society-journal)
-Unusual maritime phenomena, including synchronized moving wheels, fast-forming rotating lights, and oscillating intensive rays, were observed in different seas during the early 1950s.
 - [Royal Meteorological Society, Quarterly Journal](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#royal-meteorological-society-quarterly-journal)
-Between 1953 and 1955, observers reported unusual sightings of rotating, phosphorescent wheels with distinct properties and behaviors in various seas, suggesting complex interactions of light and environmental factors.
 - [Science (Old series)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#science-old-series)
-Various maritime observations ranging from rotating light wheels with bright flashes to pulsating bioluminescent bands have been documented in different seas, showcasing mesmerizing and unusual light phenomena.
 - [Scientific American (Old series)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#scientific-american-old-series)
-The report details unusual pale green and blue-green lights, as well as large flashing wheels of light observed over the water in the Gulf of Oman, whose patterns and behavior near the m.v. Mahsuri suggest phenomena beyond typical bioluminescence.
 - [Scientific Study of Unidentified Flying Objects (book)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#scientific-study-of-unidentified-flying-objects-book)
-On April 30, 1981, a rare geometrically organized display of bioluminescent spirals, appearing above the water, was observed in the North Atlantic Ocean.
 - [Seismological Society of America, Bulletin](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#seismological-society-of-america-bulletin)
-On April 29, 1982, the m.v. Siam witnessed mysterious marine phosphorescence forming rotating wheels, with the phenomenon appearing unaffected by radar or visible light, complicating its source.
 - [Society for Psychical Research, Journal](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#society-for-psychical-research-journal)
-On May 6, 1991, the m.v. Zidona witnessed a mesmerizing and complex display of fast-moving, blue-white lights featuring pulsing rings and spiraling points that gradually diminished.
 - [Anomalies List](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies-list)
-Marine vessels have reported various anomalous bioluminescent phenomena, including rotating wheels, pulsating lights, and extensive milky seas, which challenge current scientific understanding and showcase the complexity of marine bioluminescence.
 - [Catalog of Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#catalog-of-anomalies)
-The milky sea phenomenon, characterized by extensive areas of glowing ocean water, is a relatively common occurrence in the northwest Indian Ocean, though its exact cause remains unclear, while various anomalies related to light and bioluminescence continue to intrigue scientists across different maritime regions.
 - [ANOMALIES IN GEOLOGY: PHYSICAL, CHEMICAL, BIOLOGICAL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#anomalies-in-geology-physical-chemical-biological)
-The text provides a catalog of anomalies, each marked with a unique designation, highlighting unexpected outcomes and phenomena requiring further investigation across various fields including cosmic rays, atmospheric effects, and geographical patterns.
 - [NEGLECTED GEOLOGICAL ANOMALIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/remarkable-luminous-phenomena.md#neglected-geological-anomalies)
-The text summarizes a wide array of atmospheric and geological phenomena, their classifications, and the scientific importance of studying each for a deeper understanding of natural processes and anomalies.
 
-# REMARKABLE LUMINOUS PHENOMENA IN NATURE
+# REMARKABLE LUMINOUS PHENOMENA IN NATURE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Aurora-Like Phenomena**  
 These phenomena exhibit characteristics similar to auroras but may not fit traditional explanations. They often challenge existing scientific paradigms and invite further investigation into their causes and implications.
@@ -516,7 +266,7 @@ These optical phenomena challenge conventional theories of light refraction and 
 
 - **Unidentified Sounds**  
 Reports of inexplicable or unidentified sounds in nature have puzzled scientists and laypeople alike. These sounds raise important questions regarding environmental acoustics and the potential sources of unexplained auditory phenomena.
-# INTRODUCTION TO LUMINOUS PHENOMENA
+# INTRODUCTION TO LUMINOUS PHENOMENA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Unknown energy sources**  
   The precise energy sources of some luminous phenomena remain unknown. This lack of clarity challenges current scientific understanding and inquiry into these phenomena.
 
@@ -532,7 +282,7 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 - **Human perception issues**  
   The strange lights associated with ghost lights, ball lightning, and marine displays involve complex problems related to human perception. It is known that some lights experienced by astronauts do not exist in physical reality, complicating the study of these phenomena.
 
-# GLA AURORA-LIKE PHENOMENA
+# GLA AURORA-LIKE PHENOMENA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomalous auroras' origins**  
   Anomalous auroras exhibit uncommon formations that are difficult to explain, such as misty parallel bands in the sky. The reasons for their geometric arrangement pose significant questions about solar and gravitational influences.
 
@@ -547,7 +297,7 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 
 - **Auroral pillars' origins**  
   Long-lived auroral pillars, appearing well away from typical auroral activity zones, may originate from different mechanisms. While their formation is related to charged particles, the exact origins remain contentious among scientists.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Zodiacal Light**: This phenomenon is described as a faint, diffuse light that appears in the night sky, generally in the vicinity of the ecliptic plane. Observed mainly near sunrise or sunset, it is caused by sunlight scattering off tiny dust particles and is not consistently visible in all locations.
 
@@ -572,7 +322,7 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 - **Okanagan Arc**: This phenomenon in British Columbia, noted for extending horizon to horizon, challenges conventional understandings of auroral behavior since such arcs do not typically follow a north-south orientation. The unique observable characteristics suggest that not all auroral displays conform to recognized patterns.
 
 - **Early Observation of Auroral Arc**: The earliest recorded instance of a complete auroral arc dates back to March 27, 1781, illustrating the historical continuity of phenomena often thought to be modern. The description indicates a striking visibility and clearly defined boundaries uncommon in typical auroras.
-# GLA3 Auroral Meteors
+# GLA3 Auroral Meteors [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Rapidly Moving Auroral Meteor (November 17, 1882)**  
   This phenomenon involved a long beam of detached, bright light observed crossing the southern horizon. It emitted a glowing pearly white light, which created feelings of wonder and awe among observers.
@@ -604,7 +354,7 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 - **Comet-Like Beam (August 18, 1905)**  
   A comet-like beam measuring 1° by 80° moved south by east in England. Its appearance was striking and contributed to the documentation of unusual celestial events.
 
-# GLA4 Low-Level Auroras
+# GLA4 Low-Level Auroras [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Dancing Streamers in Eagle, Alaska (Winter 1901)**  
   Witnesses described an array of prismatic streamers that appeared to dance below a high bluff. The display was accompanied by a swishing sound, adding to its captivating nature.
@@ -635,7 +385,7 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 
 - **Auroral Streamers Descending (May 23, May 31, June 21, unnamed year)**  
   During the First Scott Expedition, observations revealed auroral streamers descending below Mount Erebus in Antarctica. Although some skeptics viewed this as illusory, it remains a remarkable entry in auroral phenomena history.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Reddish fluorescent glow and glowing roadside plants:** The two witnesses saw a reddish, fluorescent glow along with streams of light coming down from the sky toward the glowing region. Grass and weeds along the roadside were standing straight up and glowing, suggesting some extraordinary event.
 
@@ -666,26 +416,26 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 - **Darting streamers during Parry Expedition (No date):** During a historical expedition, an observer noted an aurora streamer that appeared between their ship and land at a notable distance. This incident contributed to the historical context of reported low-level auroras.
 
 - **Simpson's skepticism on low-level auroras (1933):** Despite numerous reports suggesting low-level auroras, G.C. Simpson concluded that the evidence was weak and lacked robust scientific validation. He advised caution in accepting anecdotal claims that oppose the established understanding of auroras' altitudes.
-# GLA6 Artificial Low-Level Auroras
+# GLA6 Artificial Low-Level Auroras [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Artificial Low-Level Auroras**: Terrestrial pillars or streamers of aurora-like light are created by man-made electrodes along with natural auroras. While inducing artificial low-level auroras has only been attempted by Selim Lemstrom in 1881-1882, several artificial auroras at normal heights have been produced through nuclear detonations and electron accelerators.
 
 - **Significance and Explanation**: The relevance of artificial low-level auroras mirrors natural ones, illuminating potential links between highly active auroras and terrestrial electrical discharges. A probable cause for these phenomena is large-scale terrestrial electrical discharges into space.
 
-# GLA7 Geographically Displaced Auroras
+# GLA7 Geographically Displaced Auroras [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Geographically Displaced Auroras**: This anomaly describes auroras appearing predominantly in the south within the North Temperate Zone, despite traditional observations being directed toward the north. Southward auroras are notably rare in the United States, indicating that this occurrence does not challenge but highlights extreme instances of auroral activity.
 
 - **Possible Causes**: Exceptionally powerful magnetic storms may force visible auroras towards the Equator, altering their expected positions. Similar occurrences can be observed in auroral pillars and arches drifting southward while “normal” auroras persist in polar areas.
 
-# GLA8 Auroras with Unusual Geometries
+# GLA8 Auroras with Unusual Geometries [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Auroras with Unusual Geometries**: This anomaly encompasses auroras displaying geometries that defy current explanations, showcasing unique and often bizarre configurations. These observations predominantly feature singular instances without corroborating evidence, urging theorists to reassess existing auroral models.
 
 - **Variety of Observations**: Numerous historical examples illustrate the diversity of auroral shapes, such as glowing red bands and comet-like streaks. Such irregularities are seen as challenge points for aurora theorists, demonstrating the complexities of auroral phenomena.
 
-# GLA9 Auroras and Thunderstorms
+# GLA9 Auroras and Thunderstorms [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Auroras Correlated with Thunderstorms**: This anomaly involves auroras manifesting over thunderstorms, coinciding temporally and spatially, or displaying a statistical relationship wherein auroras and thunderstorms appear to trade frequency. Despite the vastly different environments of auroras and thunderstorms, the possibility of coupling forces between the two phenomena remains an area of interest.
 
 - **Observational Evidence**: Cases exist that hint at such correlations, yet most are anecdotal rather than extensively documented. Observations suggest that the occurrence of thunderstorms could reduce auroral visibility, indicating a reciprocal relationship where one event can influence or replace the other under specific conditions.
-# Auroras Correlated with Thunderstorms 
+# Auroras Correlated with Thunderstorms  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Anomaly: The immediate increase in thunderstorms in lower latitudes and probably auroras in higher latitudes when dark spots appear on the sun is noted. Conversely, when auroras become visible nearer the equator, there is a temporary decrease in thunderstorms, suggesting a reciprocal relationship between these phenomena.
 
@@ -693,7 +443,7 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 
 - Anomaly: The implication that increased solar activity demands a higher rate of charge transfer may result in a rise in the frequency of both auroras and thunderstorms. This correlation (X11) and anticorrelation (X12) suggests that the two phenomena are interconnected rather than contradictory.
 
-# Auroras Correlated with Earthquakes 
+# Auroras Correlated with Earthquakes  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Anomaly: The direct observation of auroral phenomena around earthquake epicenters raises questions about their relationship. The statistical association of auroral and earthquake activities hints at a deeper linkage, possibly triggered by solar activity.
 
@@ -701,18 +451,18 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 
 - Anomaly: Potential explanations include earthquake lights being caused by piezoelectricity or gas releases, indicating a physical process that may explain the observed correlations. Another possibility is that a common cause—such as solar activity—links auroras and earthquakes.
 
-# Auroras Correlated with Meteors 
+# Auroras Correlated with Meteors  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Anomaly: The enhancement of auroral activity by meteor passage is observed, suggesting that meteors can intensify auroral displays. Instances where meteors seem to emerge from already formed auroral structures may require a distinct explanation if confirmed.
 
 - Anomaly: The general association of meteor activity with auroral displays, particularly during significant meteor showers, suggests a relationship that needs further investigation. Notably, the coinciding presence of large meteor showers and significant auroras has been documented repeatedly.
 
-# The Close Relationship between Auroral Displays and Clouds 
+# The Close Relationship between Auroral Displays and Clouds  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Anomaly: Observations suggest that auroras can seem to convert into cloud formations at daybreak and vice versa during nightfall. This raises questions since conventional wisdom places auroras much higher in the atmosphere than clouds.
 
 - Anomaly: The association between auroras and high-altitude clouds indicates that the particles initiating auroras may influence cloud formation. If particles from auroras can act as condensation nuclei, this could lead to visually similar cloud formations, creating ambiguity in the observed phenomena.
-# GLA12 Auroras and Clouds
+# GLA12 Auroras and Clouds [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Auroral phenomenon in England, 1881**: A small cloud of bright golden hue emitted brilliant streamers over England. This occurrence was designated an "auroral phenomenon" in Nature, but its classification remains debatable.
 
 - **Azure arch and pale streaks in Canonmills, 1827**: A remarkable azure arch became visible in the morning sky after the clouds cleared, with faint milky streaks detected. Later that evening, a brilliant aurora borealis confirmed that the morning's phenomena were likely connected.
@@ -737,7 +487,7 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 
 - **Directional behavior of auroral streamers**: Famed explorer F. Nansen observed that auroral streamers tend to follow prevailing wind directions. This link between meteorological phenomena and auroras warrants further exploration.
 
-# GLA13 Glowing Night Skies
+# GLA13 Glowing Night Skies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Bright night in Essex, England, 1929**: On a clear moonless night, the sky exhibited an exceptional brightness, making it difficult to see the Milky Way. Lord Rayleigh's measurements indicated that the sky was four times brighter than normal, despite no recorded magnetic disturbances.
 
 - **Misty light in northern horizon, 1931**: A misty white light filled the northern horizon, obliterating the Zodiacal Band limit and nearly drowning out the Galaxy. Stars shone through, but the white mist greatly diminished the typical contrast of the night sky.
@@ -759,7 +509,7 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 - **Reddish haze over Kilkenny, 1737**: An unusual reddish haze engulfed much of Southern Europe, described as a globe of fire that burst into pieces after an hour. This vivid description captures an extraordinary atmospheric phenomenon that merits further scientific inquiry.
 
 - **Bright nights in Europe after Tunguska event**: Reports of bright night skies in July 1908 led to speculation that the Tunguska blast injected water vapor into the atmosphere, creating noctilucent clouds. This theory exemplifies the potential for significant geological events to alter atmospheric conditions dramatically.
-# GLA14 — Sky Brightenings
+# GLA14 — Sky Brightenings [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **May 15, 1972, Western Alaska**
   Eyewitnesses reported a sudden brightening of the sky to daylight intensity for approximately two seconds. The light appeared like a flashbulb, changing colors from bluish to green to white, finally fading to orange or reddish.
@@ -796,7 +546,7 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 
 - **March 22, 1999, South Atlantic Ocean**
   A momentary and bright flash illuminated the eastern sky for up to three seconds, allowing observers to see distant mountain peaks clearly. This unusual event left the observers unsettled, as they could not recall a similar occurrence in their experience.
-# Luminous Horizon Patches GLA15
+# Luminous Horizon Patches GLA15 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **X5. March 1, 1941 - North Carolina**  
   A sky phenomenon drew considerable attention, visible from 7:00 to 9:00 P.M. It resembled the Zodiacal Light and appeared as a triangular shaped luminous patch just above the horizon.
@@ -846,7 +596,7 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 - **X20. December 1, 1959 - North Atlantic**  
   A bright diffused light was observed, appearing and disappearing very slowly over time. This event contributes to a broader classification of luminous occurrences.
 
-# Weather Lights GLA16
+# Weather Lights GLA16 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **X1. General observation**  
   Before storms, luminous spots near the horizon appeared, leading people to believe there were great fires. These lights often preceded storms by just a few hours.
@@ -871,7 +621,7 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 
 - **X8. General observation**  
   Auroras frequently coincide with subsequent wind and rain events. This observation further maps out a connection between luminous displays and changing weather conditions.
-# Anomalies Related to Auroras
+# Anomalies Related to Auroras [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Gelatinous meteors or pwdre ser events**  
   Involve luminous phenomena and the fall of strange substances, often accompanied by unusual atmospheric conditions. These phenomena interrupt the regular perception of auroras and add to the mystery surrounding them.
@@ -885,12 +635,12 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 - **Historical belief in auroras as "material" things**  
   Some scientists formerly theorized that auroras were substantial entities, rather than mere optical phenomena. This belief reflects a misunderstanding of natural light displays and their interactions with the environment.
 
-# Correlation with Lunar Phase
+# Correlation with Lunar Phase [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Dependence of auroral frequency on lunar phase**  
   Observations suggest that the occurrence of auroras is less frequent during full moons, establishing a correlation that aligns auroral activity with lunar cycles. This relationship invites further investigation into the connections between celestial bodies and atmospheric phenomena.
 
-# Auroras and Lunar Halos
+# Auroras and Lunar Halos [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Interactions between auroras and lunar halos**  
   Observed cases include an enhanced luminosity at the overlap of these two phenomena, as well as unusual halo appearances during auroral displays. These interactions raise questions about the physical processes at play in the high atmosphere affecting visible lights.
@@ -898,7 +648,7 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 - **Limited observations of auroral-halo interactions**  
   While a few observations support these interactions, they remain vague and not well-documented. The lack of substantive evidence leaves an intriguing gap in the understanding of how these phenomena might truly interact.
 
-# Auroral Electrical Effects
+# Auroral Electrical Effects [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Surface electrical phenomena during auroral activity**  
   Reports include physiological effects, interference with radio reception, and fluorescence of minerals during occurrences of strong auroras. The existence of induced currents during such events signals the potential for electrical interactions at ground level, further complicating the picture of auroras' impact on the environment.
@@ -906,14 +656,14 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 - **Induced currents in terrestrial conductors**  
   Auroral activity has been shown to generate electric currents in long transmission lines, highlighting the connection between high-altitude phenomena and surface effects. This phenomenon complicates understanding of how auroras influence both natural and human-made systems.
 
-# Auroral Fogs and Mists
+# Auroral Fogs and Mists [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Luminous fogs and mists associated with auroral activity**  
   Observations indicate that these fogs may result from light emitted by auroras reflecting off non-luminous mists. Such occurrences challenge the notion that auroral effects only manifest at high altitudes and suggest more complex interactions between atmospheric conditions and auroral displays.
 
 - **Experiences of observers immersed in luminous fog**  
   Documented accounts describe individuals enveloped in glowing fogs during auroral displays, providing anecdotal evidence of these phenomena at lower altitudes. The sensations and visual effects reported during these events raise the possibility that observers were closer to an aurora than previously understood.
-# Black Auroras
+# Black Auroras [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description**: Intensely black, well-defined arches and streamers analogous to the normal luminous features of auroral displays. Occasionally, black patches appear in auroral displays, but "negative" displays are very rare and may not be objective phenomena.
 
@@ -925,7 +675,7 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 
 - **Similar and Related Phenomena**: Banded skies, the relationships between auroras and clouds, halo phenomena, polar-aligned cirrus clouds, and some of the strange sunset band effects.
 
-# Examples of Black Auroras
+# Examples of Black Auroras [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **X1**: On March 25, 1894, Croydon, England, five dark rays emerged from the northern horizon, resembling the spokes of a wheel. The rays appeared against a hazy sky and were compared to streaks made by a hair pencil dipped in Chinese ink.
 
@@ -941,7 +691,7 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 
 - **X7**: It has been proposed that black auroras are distinct phenomena rather than mere non-luminous parts of a visible aurora. Low-light TV systems detected characteristics associated with upward electron beams in these dark bands.
 
-# Banded Skies
+# Banded Skies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description**: Arrays of luminous stripes or bands radiating from one horizon to another, appearing filmy and hazy with widths ranging from 2° to 5°. The bands may be oriented in any direction and slow movement perpendicular to their lengths is often observed.
 
@@ -955,7 +705,7 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 
 - **Similar and Related Phenomena**: Related phenomena include auroral pillars, auroral arches, and the possible identity of auroral displays with daytime clouds.
 
-# Examples of Banded Skies
+# Examples of Banded Skies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **X1**: On July 10, 1874, long lines of dark and luminous clouds were observed forming diverging bands across the sky. Bright bands changed in brightness, creating a delicate lattice effect as they crossed dark spaces.
 
@@ -992,65 +742,65 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 - **X17**: On October 7, 1956, streaks of milky-white light were documented across the equatorial Pacific, despite a completely overcast sky. 
 
 - **X18**: In Stowmarket, England, beams of white light projected steadily into the sky on July 7, 1914, remaining visible while the sun was still below the horizon.
-# Millisecond Brightness Pulsations of the Night Sky
+# Millisecond Brightness Pulsations of the Night Sky [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description**: Flickers of light in the night sky in the millisecond range. This category may include more than one distinct phenomenon.
 
 - **Anomaly Evaluation**: The origin(s) of the millisecond brightness pulsations are unknown. Their sources are likely terrestrial, but solar activity could be involved, too.
 
-# False Dawn
+# False Dawn [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description**: A transient brightening of the eastern sky one to two hours before the true dawn. Perhaps related is the popular observation that the night is darkest just before dawn.
 
 - **Anomaly Evaluation**: If, as some maintain, the false dawn is simply the zodiacal light, there is no real anomaly. However, one would not expect the zodiacal light to disappear suddenly and completely before the true dawn.
 
-# Auroras Following Coastlines
+# Auroras Following Coastlines [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description**: The tendency of auroras to align with seacoasts. This challenges the mainstream view that auroras are decoupled from influences of the Earth's surface by distances greater than 70 kilometers.
 
 - **Anomaly Evaluation**: The claimed influence of terrestrial topography upon auroral shapes severely undermines the belief that auroras are independent of surface structures. Some auroras, particularly intense ones, involve a flow of electrical charge influenced by mountains and coastlines.
 
-# Challenges to the Theory of Aurora Origin
+# Challenges to the Theory of Aurora Origin [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description**: Satellite observations that deny the existence of the long-accepted charge-accelerating mechanism for aurora production. These observations also challenge the assumed positive correlation of auroras with solar activity.
 
 - **Anomaly Evaluation**: The accepted origin of auroral displays is severely challenged. Most auroras are slow electrical discharges between the Earth and ionosphere, suggesting a need for reevaluation.
 
-# Flash Auroras
+# Flash Auroras [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description**: Short-lived, aurora-like luminous phenomena in the night sky that appear randomly and last only a few seconds. Despite being common, flash auroras are rarely reported in the literature.
 
 - **Anomaly Evaluation**: The cause of flash auroras is unknown and considered to be a minor mystery in the field of auroral science. They appear as "noise" in the auroral record without a clear explanation.
 
-# Possible Atmospheric-Laser Emission Accompanying Auroras
+# Possible Atmospheric-Laser Emission Accompanying Auroras [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description**: Strong electromagnetic emissions in the micron range associated with auroras. These emissions raise questions about their source and why they correlate with auroral occurrences.
 
 - **Anomaly Evaluation**: The most probable source of the microwave emission would be a laser; however, such a laser has not been found. There might be another unsuspected source responsible for these emissions.
 
-# Mysterious Bright Streaks in the Sky
+# Mysterious Bright Streaks in the Sky [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description**: Roughly parallel streaks on the horizon consisting of luminous dashes all moving in the same direction. This phenomenon was observed over several nights during a flight over the Pacific.
 
 - **Anomaly Evaluation**: This observation is unique and bizarre, completely at odds with all other luminous phenomena documented. The explanation could involve various factors, including possible defects in the aircraft or condensation on the cockpit windows.
-# Sky Streaks
+# Sky Streaks [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The display appeared as a series of dashes on the horizon, flowing from south to north. It had an immense magnitude that made the observer think that if it collided with Earth, life as they knew it would cease to exist.
 
 - On subsequent nights, the same phenomenon reappeared, while the aircraft's heading changed. By the fifth night, traveling from California to Washington, D.C., the display was completely absent.
 
-# Cloud-Like Patches
+# Cloud-Like Patches [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Bright patches high in the sky that appear suddenly and dissipate within minutes were observed. These patches are believed to be related to rocket launches or satellite operations, rather than being classified as anomalous.
 
 - One observed event consisted of a bright light-blue circle that appeared to be transparent with a trail resembling a track. This phenomenon dissipated in about five minutes and may be linked to a barium release from a satellite. 
 
-# “Ordinary” Ball Lightning
+# “Ordinary” Ball Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Ball lightning is described as luminous spheres or near-spheres moving through the atmosphere, often associated with thunderstorms. It can exhibit a variety of colors and may explode with significant force, leaving behind a distinctive smell.
 
 - The phenomenon is well-documented yet remains elusive in terms of explanation. Theories regarding ball lightning involve unique plasma physics and electromagnetic forces that are still not fully understood.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly R1**: Capt. Grace of the schooner Rebecca Smith witnessed a ball lightning fall from the sky during a thunderstorm. After it struck the water, a thin blue smoke was observed rising for at least five minutes without disturbing the water's surface. 
 
@@ -1097,7 +847,7 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 - **Anomaly R68**: In Martinique, many instances of ball lightning were recorded during a hurricane. Witnesses noted several instances where the lightning persisted for several minutes, signaling the phenomenon's unpredictable nature.
 
 - **Anomaly R75**: A boy was injured by ball lightning in Donegal, Ireland. This incident highlights the dangers associated with ball lightning and its potential for harm.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Fireball travels against the wind**: A fireball travels against the wind, kills a man, and tears up the ground for upwards of 100 yards. This incident demonstrates the unpredictable nature of such phenomena and their potential for destruction.
 
@@ -1170,7 +920,7 @@ Reports of inexplicable or unidentified sounds in nature have puzzled scientists
 - **Ball of fire explodes over Edinburgh**: In November 1868, a ball of fire exploded over the city of Edinburgh, capturing the attention of many spectators. The public nature of such events may amplify the fascination with spontaneous electrical phenomena.
 
 These entries showcase the diversity and mysterious qualities of ball lightning and related phenomena throughout history, contributing to a broader understanding of atmospheric electrical activity.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **A fireball passed in front of a window**  
   A woman observed a fireball of child-sized dimensions, glowing yellow, traverse from south to north. It ascended towards the roof of a house with a lightning conductor but left no trace of its passage.
@@ -1246,7 +996,7 @@ On May 18, 1983, a misty, golden ball floated slowly across a lawn before disapp
 
 - **A dramatic fireball sighting occurred in Lubeck**  
 In the summer of 1948, an unusual sight of a fireball was reported amid hot and humid conditions. Details from this experience hinted at common themes of ball lightning phenomena, reflecting the consistent patterns across different geographical locations.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Intense white light under cloud**  
 An intense white light appeared under the cloud at about a kilometer distance, resembling the sun in color and size. The light descended with an undulating motion and was lost from sight behind a building before a violent explosion occurred.
@@ -1295,42 +1045,42 @@ A research team recorded video of a lightning strike that resulted in a ball-sha
 
 - **Large ball of lightning discharging**  
 A large ball of lightning was reported to have discharged towards a drilling platform during a storm. This occurrence was part of an impending squall, showcasing the unpredictable nature of ball lightning in extreme weather conditions.
-# Complex Events
+# Complex Events [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - A possible lightning strike on the drilling platform was reported when a luminous ball seemingly passed through the legs of the platform. Upon inspection, it was found that no damage had occurred.
 
 - The luminous phenomenon was circular, emerging from a low cloud base and comparable in size to a dust bin lid. Its velocity was remarkable, estimated at about 100 miles per hour, which is unusual for typical ball lightning.
 
-# Anomalous Sphere Observation
+# Anomalous Sphere Observation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - R. Cahill captured an image of a luminous sphere that appeared to be ball lightning during a lightning storm. The sphere entered the camera's field of view shortly after a lightning flash and traversed the screen diagonally in about 1.5 seconds.
 
 - The characteristics of the observed sphere were summarized as a dull-red, toroidal object. Experiments in slow motion revealed its coherent structure, exhibiting eight-fold symmetry and a small, non-luminous inner radius.
 
-# Critiques on Ball Lightning Claims
+# Critiques on Ball Lightning Claims [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - S. Campbell, a critic of ball lightning claims, examined the video capturing the luminous sphere and posited that it was merely the camera’s stop-plane illuminated by distant car lights. He successfully replicated the supposed ball lightning image, suggesting that it lacked credibility.
 
 - Campbell challenges the validity of the claims made by Jennison et al., stating that ball lightning reports are primarily anecdotal. He posits that there is insufficient instrumental evidence to confirm the phenomenon's reality.
 
-# General Observations on Ball Lightning
+# General Observations on Ball Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - A general treatment of ball lightning by M.A. Uman describes it as "wild and wonderful," indicating a need for further theoretical constraints correlating with its apparent properties. Uman’s overview emphasizes the unresolved nature of ball lightning in scientific discourse.
 
 - D.J. Turner extensively reviews the characteristics and literature of ball lightning, proposing his own theory. This ongoing exploration highlights the diverse interpretations and understanding of ball lightning phenomena in recent studies.
 
-# Surveys of Ball Lightning
+# Surveys of Ball Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - M. Stenhoff's survey of about 200 ball lightning reports concluded that approximately 80% of sightings could be explained by other means. His work raises doubts about the credibility of ball lightning and calls into question the reliability of earlier statistical studies.
 
 - In contrast, V.L. Bychkov and colleagues report on over 2,000 ball lightning accounts, though their findings lack scrutiny regarding the observations' validity. This disparity among researchers underscores the complexities and differing opinions surrounding ball lightning's existence.
 
-# Theoretical Approaches to Ball Lightning
+# Theoretical Approaches to Ball Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Various hypotheses about ball lightning have emerged over the years, including linked magnetic loops and electromagnetic knots. These theories point to the diverse explanations sought by scientists and laymen trying to understand this anomalous phenomenon.
 
 - D.J. Turner proposes that ball lightning possesses an onion-like structure, suggesting complexity in its formation. This adds to the growing list of speculative theories attempting to elucidate the nature of ball lightning.
-# Chapter 2:80, July 1952
+# Chapter 2:80, July 1952 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly: Ball Lightning Observed by Nebraska Family**  
   This phenomenon was recorded by a family in Nebraska in July 1952. The unusual sighting involved a glowing sphere that defied conventional explanation, captivating those who witnessed it.
@@ -1362,7 +1112,7 @@ A large ball of lightning was reported to have discharged towards a drilling pla
 - **Anomaly: A Report on Ball Lightning**  
   This 1972 research document presents a comprehensive investigation into ball lightning. It synthesizes various observations and theories, contributing to the broader understanding of electrical phenomena.
 
-# Chapter GLB1 Ordinary Ball Lightning
+# Chapter GLB1 Ordinary Ball Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly: Not Ball Lightning**  
   A 1899 review in Monthly Weather Review dismisses certain phenomena as non-ball lightning. This classification and inquiry into what constitutes ball lightning serve to clarify the distinctions within atmospheric electrical events.
@@ -1373,7 +1123,7 @@ A large ball of lightning was reported to have discharged towards a drilling pla
 - **Anomaly: Fireballs**  
   A report from 1909 details experiences with fireballs, adding to the existing body of literature on similar phenomena. The recorded accounts suggest wide-ranging manifestations that may relate to ball lightning.
 
-# Chapter GLB2 Spiked Ball Lightning
+# Chapter GLB2 Spiked Ball Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly: Ball Lightning with Projections or Spikes**  
   A unique description of ball lightning adorned with spikes or protuberances highlights its complex nature. The spike formation suggests potential internal forces at play, raising further questions about stability and detonation risks.
@@ -1386,7 +1136,7 @@ A large ball of lightning was reported to have discharged towards a drilling pla
 
 - **Anomaly: Ball Lightning with Fragmentation**  
   The occurrence of fragmenting ball lightning introduces an additional layer of complexity. This illustrates that ball lightning can undergo disintegration, aligning with observations of instability in its structure.
-# Rayed Ball Lightning
+# Rayed Ball Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **X4.** On Mt. Bohul, Russia, a geodesic party reported seeing an extremely bright violet ball surrounded by rays about two yards long, which struck the peak. This phenomenon repeated with a second and third ball, flooding the summit in an electric light for no less than four hours.
 
@@ -1405,7 +1155,7 @@ A large ball of lightning was reported to have discharged towards a drilling pla
 - **X11.** In 1980, an unusual occurrence at Shotton steelworks in England involved a large ball of lightning bouncing around a yard, creating an impressive spectacle. The description highlighted the strange physical effects left behind, including a clear pattern resembling a dartboard on the shed where it had struck.
 
 - **X12.** On January 8, 1992, at Minneapolis-St. Paul Airport, a pilot reported encountering a small incandescent sphere surrounded by a bluish-white plasma cloud. The sharp bang upon contact with the aircraft prompted an immediate investigation of the phenomenon.
-# Miniature Ball Lightning
+# Miniature Ball Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **X1. August 17, 1921. Eastbourne, England.** Two ladies witnessed a ball of light flash past a knife on the table, traveling about 9 inches away and 3 inches high. The ball extinguished with a spitting sound upon touching the tablecloth, leaving no trace.
 
@@ -1413,7 +1163,7 @@ A large ball of lightning was reported to have discharged towards a drilling pla
 
 - **X3. August 1885. Sotteville, France.** Several small balls about the size of peas fell to the ground during a storm, igniting upon contact and emitting violet flames. Witnesses reported more than twenty such fireballs during this event.
 
-# Giant Ball Lightning
+# Giant Ball Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **X1. November 1, 1864. Florence, Italy.** Witnesses saw a white globe of fire larger than the full moon hanging motionless in the air, shifting colors before suddenly disappearing. The immense light illuminated the area around it, creating the illusion of moonlight.
 
@@ -1443,17 +1193,17 @@ A large ball of lightning was reported to have discharged towards a drilling pla
 
 - **X14. July 26, 1995. Ruislip, Middlesex, England.** An enormous fireball spotted across the road from a couple in their car displayed an orange-yellow hue before exploding violently. This incident caused damage to electrical equipment nearby, underscoring its impact.
 
-# Transparent Ball Lightning
+# Transparent Ball Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description:** Transparent masses that resemble ordinary ball lightning but exhibit low energy density, allowing them to be seen through. This phenomenon may share characteristics with nocturnal lights, blurring the line between different types of luminous phenomena.
 
 - **Background:** The origins and nature of transparent ball lightning remain obscure, as it can be confused with will o' the wisps and other ghost lights. Comparisons between the two illuminate the complexity of classifying such phenomena and their related characteristics.
-# Examples of Transparent Ball Lightning
+# Examples of Transparent Ball Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **X1. September 1910. Mazoc, South Rhodesia.** A luminous and transparent ball of fire, resembling an electric light, was observed hovering over a road for several minutes. It cast no light beyond itself and emitted no noise or detectable smell, disappearing without a trace afterward.
 
 - **X2. June 1, 1984. Nottingham, England.** A glass-like ball of fire was seen floating in a bowl of water in a closed kitchen. It produced a 'boiling noise' followed by a crash sound, and after the witness fled, an explosion occurred, leaving no damage behind.
 
-# Examples of Fragmenting Ball Lightning
+# Examples of Fragmenting Ball Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **X1. November 16, 1857. Charleston, South Carolina.** A red, fiery ball was observed slowly descending and striking a wooden fence, where it split into three parts before disappearing. This occurrence happened in a very controlled manner, giving witnesses time to observe the strange event unfold.
 
 - **X2. July 17, 1890. Surbiton, England.** A large ball of reddish-yellow fire was suspended in mid-air, which suddenly changed color and exploded, releasing dozens of smaller fiery splashes. The intense brightness experienced left the observer dazed for several moments afterward.
@@ -1495,7 +1245,7 @@ A large ball of lightning was reported to have discharged towards a drilling pla
 - **X20. April 21, 1964. Stockton-on-Tees, England.** A shimmering sphere was seen falling from a cloud, changing direction before causing an explosion upon landing. The aftermath resulted in significant damage to a house's roof.
 
 - **X21. August 24, 1895. No place given.** A whitish globe observed during a storm touched the ground and split into two smaller globes before disappearing. The phenomenon resulted in peculiar occurrences affecting nearby sheep, which were found alive but distressed.
-# Ball Lightning Materialization GLB10
+# Ball Lightning Materialization GLB10 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly X3**: On August 7, 1951, an aircraft over Southern England experienced a loud bang and an intense flash of light. Observers reported seeing a white floating ball of fire in different locations within the cockpit, with simultaneous disappearance and explosion.
 
@@ -1532,24 +1282,24 @@ A large ball of lightning was reported to have discharged towards a drilling pla
 - **Anomaly X19**: On July 24, 1994, Mr. and Mrs. Langer witnessed a large white ball, initially appearing in a sitting room, that bounced and exploded with a loud noise. The phenomenon's rapid brightness change and resulting minor marks on the carpet indicate a non-destructive incident.
 
 - **Anomaly X20**: On July 3, 1982, during a thunderstorm in Berkshire, England, Mr. Bell saw a glowing sphere materialize before him and move around the room. Its subsequent exit through a bathroom window caused a loud bang and the explosion of a nearby television, demonstrating ball lightning's potential for destructive encounters.
-# Electromagnetic Effects 
+# Electromagnetic Effects  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1**: Ordinary lightning often causes electromagnetic effects, whereas electromagnetic effects from ball lightning are rarely documented. The scarcity of reports on ball lightning’s expected electromagnetic effects may make it an anomaly.
 
 - **Anomaly 2**: The energy of ball lightning might be temporarily stored within an electromagnetic bottle, which also confines its electromagnetic fields. This theoretical idea remains unexplained as it does not align with conventional understandings of physical phenomena.
 
-# Ball Lightning with Apparent Internal Structure 
+# Ball Lightning with Apparent Internal Structure  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1**: Reports of ball lightning exhibiting internal structures, such as snake-like fibers of light, are rare yet consistent. The lack of any established theory to explain these bizarre snake-like features further marks their anomalous nature.
 
 - **Anomaly 2**: The luminous fibers observed in some ball lightning phenomena could be transitory plasma currents or wave-like structures on the surface of a plasma sphere. This remains a speculation as no established theories currently account for such structures in ball lightning. 
 
-# Unusual Physiological Effects of Ball Lightning 
+# Unusual Physiological Effects of Ball Lightning  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1**: Encountering ball lightning has been reported to cause symptoms such as headache, nausea, neck pain, memory loss, and disorientation. These symptoms, although typical of electrical shock, raise questions regarding potential nuclear origins of ball lightning due to their similarity to radiation sickness.
 
 - **Anomaly 2**: The peculiar occurrence where multiple individuals experience extensive swellings and skin reactions without any visible damage to their surroundings suggests a phenomenon not completely understood. The symptoms reported in certain historical encounters closely resemble those associated with overexposure to nuclear radiation, despite occurring before the establishment of known radiation science.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1**: Seven wounds were discovered on the narrator's body, worse than burns, with pieces of muscle torn out to the bone. Similar injuries were reported for Shigin, Kaprov, and Bashkirov, indicating a potential violent event or unnatural cause.
 
@@ -1570,17 +1320,17 @@ A large ball of lightning was reported to have discharged towards a drilling pla
 - **Anomaly 9**: During a storm, fireballs were seen to fall repeatedly from clouds, with descriptions noting their blunt ends and extended tails. These observations painted a picture of a previously undocumented aspect of lightning.
 
 - **Anomaly 10**: Various sightings in England during the late 19th century recount segments of lightning balls with tails that moved across fields in a wriggling manner. These sightings hint at a complexity of forms associated with ball lightning that deviates from typical depictions of electrical phenomena.
-# Similar and Related Phenomena
+# Similar and Related Phenomena [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Correlation of Solar Activity with Thunderstorm Frequency and Auroras**  
   There is a noted correlation between solar activity and the frequency of thunderstorms, as well as the incidence of auroras. This connection highlights the potential influence of solar phenomena on atmospheric electrical occurrences.
 
-# Examples of the Correlation of Ball Lightning with Solar Activity
+# Examples of the Correlation of Ball Lightning with Solar Activity [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **General Observation of Ball Lightning in Holland**  
   A study from 1880 to 1956 indicated that the annual number of ball lightning reports increased with the intensity of solar activity, measured by Wolf average annual numbers. This suggests a possible relationship between solar cycles and ball lightning occurrences.
 
-# Ball Lightning External to Aircraft (Foo Fighters?)
+# Ball Lightning External to Aircraft (Foo Fighters?) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description of Foo Fighters**  
   Foo Fighters are described as fireballs that appear singly or in formation, pacing aircraft despite high relative air speeds. Reports from World War II pilots across various theaters highlight numerous sightings, which have solidified their place in UFO lore, although many occurrences seem to have a tangible basis.
@@ -1594,7 +1344,7 @@ A large ball of lightning was reported to have discharged towards a drilling pla
 - **Possible Explanation of Foo Fighters**  
   St. Elmo's Fire may account for some observations of fireballs, yet it fails to explain instances where fireballs were situated well away from aircraft surfaces. The lack of definitive explanations continues to make this a subject of intrigue.
 
-# Examples of Ball Lightning External to Aircraft
+# Examples of Ball Lightning External to Aircraft [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **General Observation from Lieutenant Donald Meiers**  
   Lieutenant Meiers identified three types of lights referred to as 'Foo Fighters'; these include a red ball flying alongside the aircraft and vertical rows of fireballs. His descriptions underscore the distinct visual characteristics associated with these phenomena.
@@ -1635,7 +1385,7 @@ A large ball of lightning was reported to have discharged towards a drilling pla
 - **General Observations of War-Time Foo Fighters**  
   The relatively low public attention to foo fighters, aside from UFO literature, contrasts with the extensive reports by pilots. Exclusive references in both the New York Times and Herald Tribune highlight the mystery surrounding these encounters.
 
-# Repeating Ball Lightning
+# Repeating Ball Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description of Repeating Ball Lightning**  
   This anomaly involves the repeated occurrence of ball lightning in specific geographical locations, often within short timeframes. The phenomenon is not fully understood and elicits questions about what conditions contribute to its recurrence.
@@ -1649,7 +1399,7 @@ A large ball of lightning was reported to have discharged towards a drilling pla
 - **Example from July 1956, Great Australian Bight**  
   A fishing vessel observed numerous large balls of lightning occurring every few seconds, with a total of over a thousand displays noted. The unusual characteristics of this storm raise questions about the differentiating factors contributing to such a prolific event.
 
-# Penetration of Physical Barriers by Ball Lightning
+# Penetration of Physical Barriers by Ball Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description of Penetration of Barriers**  
   This anomaly describes the phenomenon in which ball lightning penetrates physical barriers like metal screens or glass without necessarily causing damage. Understanding the mechanisms that allow for such penetration adds to the complexity of studying ball lightning.
@@ -1659,7 +1409,7 @@ A large ball of lightning was reported to have discharged towards a drilling pla
 
 - **Example from Lake Victoria, Uganda**  
   During a thunderstorm, several balls of blue light reportedly entered a room through a window and moved within. This account exemplifies the intriguing interactions and behaviors of ball lightning as it relates to enclosed spaces.
-# Anomalies Observed in Ball Lightning Phenomena
+# Anomalies Observed in Ball Lightning Phenomena [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **X2. March 21, 1983, Kingsley, North Staffordshire, England.**
   A large white luminous ball entered a factory workshop, blasting through a steel-mesh-reinforced window without fusing the glass. The ball then passed quickly through the processing shop, creating a significant hole in a wall made of 6 mm corrugated asbestos and scattering fragments up to 30 meters away.
@@ -1675,7 +1425,7 @@ A large ball of lightning was reported to have discharged towards a drilling pla
 
 - **X6. No date given, New South Wales, Australia.**
   Among 5315 descriptions of ball-lightning events collected by D.J. Turner, there were instances where balls bored holes in glass window panes or passed through them as if no barrier existed. This led to speculation about electromagnetic induction, raising questions about how ball lightning can traverse solid glass without damage.
-# Mountain-Top Glows (GLD1)
+# Mountain-Top Glows (GLD1) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Mountain-top glows** are characterized by rays, undulating streamers of light, flashes, and steady glows appearing along mountain crests and ridges. These displays usually exhibit a color spectrum dominated by yellowish white, green, and orange, and have been observed in regions such as the Andes, Alps, and Rockies.
 
@@ -1683,18 +1433,18 @@ A large ball of lightning was reported to have discharged towards a drilling pla
 
 - Anomalous aspects include the very large scale of the phenomenon, heightened displays during earthquakes, possible periodicity of flashes, and resemblance to auroras, which suggests a reality of low-level auroras. 
 
-# Intermountain Electric Discharges (GLD2)
+# Intermountain Electric Discharges (GLD2) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Intermountain electric discharges** refer to luminous discharges or lightning observed between mountain peaks, typically accompanied by sound akin to thunder. Testimonies and anecdotes primarily back these claims, although some of this evidence is questionable regarding its scientific validity.
 
 - The phenomenon remains elusive, with ball lightning noted as a possible explanation, but the actual conditions needed for its presence remain unclear. Local geological factors, such as the presence of ore bodies, may contribute to these discharges, but confirmation through scientific observation is lacking.
 
-# Large-Scale St. Elmo’s Fire (GLD3)
+# Large-Scale St. Elmo’s Fire (GLD3) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Large-scale St. Elmo’s Fire** manifests as the enveloping of people, buildings, and landscapes by transient, flame-like electrical discharges, often preceded by thunder. Individuals surrounded by this phenomenon do not experience physical harm, though they may encounter minor electrical sensations and breathing difficulties.
 
 - This phenomenon fills a niche between regular St. Elmo's Fire and brush discharge, yet is primarily supported by old reports, leading to a lower confidence rating. The consensus suggests that strong potential gradients during electrical storms are the primary cause, despite the extensive areas involved.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly X1 (1837, Orkney)**  
   The phenomenon involved a blood-red flame extending along the shore, surprised observers by its brilliance and the four occurrences of flame in quick succession. It was connected to an iron chain and appeared to float above the water without contact.
@@ -1719,7 +1469,7 @@ A large ball of lightning was reported to have discharged towards a drilling pla
 
 - **Anomaly X8 (May 30, 1869, Greiffenberg)**  
   People caught outside in a thunderstorm found themselves seemingly wrapped in flames that deprived them of air. This bizarre and alarming experience left observers baffled regarding the nature of the fire.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly X4**: Long sparks were observed rising from the gypsum dunes in White Sands National Monument during a thunderstorm. These sparks extended straight up from the tops of several dunes, with no branches observed, indicating a unique electrical activity under specific weather conditions.
 
@@ -1764,7 +1514,7 @@ A large ball of lightning was reported to have discharged towards a drilling pla
 - **Anomaly X14**: A contagious example of St. Elmo's fire was recorded on February 8, 1999, in the North Sea, where observers experienced short flames appearing at their fingertips. The shared electric sensations created remarkable interactions in the absence of electrical storms.
 
 - **Anomaly X15**: On May 8, 1998, during a violent lightning storm, green St. Elmo's fire was noted glowing on the aerials of a ship. Accompanied by distinct crackling sounds, this electrical manifestation illustrated the dynamic interplay of weather and atmospheric electricity.
-# Curiosities of St. Elmo’s Fire
+# Curiosities of St. Elmo’s Fire [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Corposant Phenomenon**  
 The corposant's six-fold symmetry resembles that of snowflakes, suggesting a speculative connection between these phenomena. It's believed that electrical forces may control the symmetry of both snowflakes and corposants.
@@ -1778,7 +1528,7 @@ The Zeitoun phenomenon, associated with luminous electrical discharge, often occ
 - **Association of Luminous Phenomena and Earthquakes**  
 Data indicates an increase in luminous phenomena in Zeitoun correlates with heightened seismic activity. This supports the hypothesis that luminous phenomena can be associated with tectonic strain in the Earth's crust.
 
-# Luminous Aerial Bubbles
+# Luminous Aerial Bubbles [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Biskopsberga, Sweden (1808)**  
 Observers reported numerous spherical bodies drifting across the sky, appearing dark brown until they neared the sun. As they approached the ground, they transformed into colorful, invisible bubbles before vanishing.
@@ -1821,21 +1571,21 @@ A multitude of round objects traversed the sky in an orderly west-east pattern, 
 
 - **South Atlantic Ocean (September 1943)**  
 An observer noted a multicolored object, about the size of a basketball, moving slowly across the water during a voyage. Its appearance, characterized by its membranous structure, intrigued the ship's crew.
-# Strange Bubble Phenomenon
+# Strange Bubble Phenomenon [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In August 1984, H. Curtis witnessed a tennis ball-sized bubble in Winchester, England, which sailed horizontally without disintegrating. This event was puzzling, as it seemed to reflect the tarmac road, despite the fact that bubble mixtures do not produce such discernible reflections.
 
 - The bubble continued to travel at a consistent speed before ascending towards a six-foot wall, eventually drifting out of sight into a public park. Curtis found it incredible that the bubble remained intact for such a duration.
 
-# Mekong River Lights
+# Mekong River Lights [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In October 1994, in the Mekong River near Nongkhai, Thailand, observers reported seeing lights rising from the river's bottom, which then shot into the sky like missiles. Local lore attributed the phenomenon to a serpent releasing her eggs, and it was said to occur annually during the full moon.
 
 - A. Pentecost related these occurrences to the will-o'-the-wisp, traditionally explained by marsh gas igniting. However, the lights originate underwater, which raises questions about this explanation and led to hypotheses involving phosphorescent bacteria or phosphorus vapor.
 
-# Earthquake Lights
+# Earthquake Lights [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Earthquake lights manifest as various luminous phenomena, such as flashes in the sky, ball lightning, and aurora-like rays, seen near earthquakes. They can occur before, during, or after seismic events and have been recorded throughout history despite doubts about their legitimacy by some scientists.
 
 - Observations of earthquake lights have shown extensive variety, many of which may be misattributed to commonplace electrical disturbances or psychological effects stemming from earthquakes. Evidence persists that suggests an underlying electrical phenomenon may contribute to their occurrence.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **No date given. Derby, England.**  
   A black aurora was observed at the time of the quake, which is referenced as GLA22. This unusual phenomenon indicates a possible connection between seismic activity and atmospheric anomalies.
@@ -1872,7 +1622,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 
 - **September 16, 1931. Yamanasi Prefecture, Japan.**  
   Intense luminosity was reported during the Yamanasi earthquake, with a wide variety of luminous phenomena recorded. The diversity of observed lights points to multiple potential mechanisms involved in the generation of such phenomena.
-# Volcano Lights
+# Volcano Lights [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **April 7, 1906 - Mount Vesuvius, Italy**  
   During a vigorous eruption, the frequency of explosions ranged from one every three to three per second. Each explosion was accompanied by a thin, luminous arc that flashed upward and outward from the crater before the explosion could be sensed.
@@ -1886,7 +1636,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 - **1902 - Mont Pelee, Martinique**  
   At 11 p.m., lightning shot from the mountain in all directions, zigzagging, accompanied by reddish globes that ascended and exploded. Another focus of electrical energy was observed about forty miles south-west of the volcano, suggesting an atmospheric connection between the two active centers.
 
-# Tornado Lights
+# Tornado Lights [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **December 12, 1846 - St. Just, England**  
   During the passage of powerful whirlwinds, a vivid pillar of fire rose from the sea, illuminating the tornado's center. The phenomenon rendered the electric fluid's passage from the earth to the clouds visible through constant lightning flashes.
@@ -1950,7 +1700,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 
 - **July 21, 1992 - Hill Deverill, Wiltshire, England**  
   A couple reported potentially luminous whirlwinds while driving home, indicating extraordinary meteorological phenomena. Such sightings evoke the mysterious intersections of tornadoes and electrical displays.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly X23: Tornado Encounter**  
   D. McGown witnessed a massive, twisting funnel while fishing, described as spinning rapidly outside but lazily inside. The tornado exhibited tiny fingers of lightning and passed over him, causing destruction but leaving the luminous activity unexamined.
@@ -1987,7 +1737,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 
 - **Anomaly X9: Strange Noise and Fire in Spain (1934)**  
   A black cloud appeared accompanied by an overwhelming fire, leading to the destruction of a hut and surrounding area. The sounds and aftermath were shocking to those present, with significant adverse effects observed.
-# Anomaly Evaluation
+# Anomaly Evaluation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Luminous Rocks and Other Solid Materials (X1)**
   The appearance of luminous emanations has been documented at sites above extensive ore deposits since at least 1747, especially before or during thunderstorms. While some reports may stem from superstition or observational errors, recent investigations have confirmed these phenomena and suggest they are linked to electric emissions in conductive areas.
@@ -2004,7 +1754,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 - **Phosphorescence Related to Storms (X5)**
   The phenomenon of phosphorus becoming luminous during storms has been observed, along with a noticeable increase in certain diseases during the same period. This correlation has intrigued researchers but remains only suggested rather than fully understood.
 
-# Luminous Phenomena in Water and Ice
+# Luminous Phenomena in Water and Ice [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Light Production in Waterfalls and Ice (X1)**
   Giant rollers breaking over obstructions can produce blinding white flashes of light, which might originate from reflection, particularly in bright moonlight. Observations have also reported strange flashes of light at the bases of waterfalls.
@@ -2012,7 +1762,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 - **Phosphorescence in Sea Ice (X38)**
   Observations of phosphorescence, sparks, and light flashes have been noted in sea ice, especially when broken by ships. Cracking and deforming glacier ice can similarly emit sparks, indicating a complex interaction between ice and electromagnetic phenomena.
 
-# Dazzling Lights in Clouds
+# Dazzling Lights in Clouds [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Brilliant Lights on Clouds (X1)**
   On February 29, 1936, a stationary glowing light was witnessed among clouds in New Zealand during an electrical storm. The observer described the light as a molten ball that illuminated everything beneath it, displaying pulsing characteristics before disappearing.
@@ -2020,16 +1770,16 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 - **Intense Light Seen in Leiden (X2)**
   An intense, stationary light was observed at a height of 30° in Leiden, Holland, on September 5, 1936. The observer noted the light's great intensity, leading to the conclusion that it was an electrical phenomenon, distinct from the known mock suns or halos.
 
-# Luminous Patches Moving on Clouds
+# Luminous Patches Moving on Clouds [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Moving Light Patches (X1)**
   In Wellington, New Zealand, on April 12, 1939, observers reported patches of light moving across the undersides of clouds, resembling a searchlight effect. The phenomenon involved silent discharges that moved slowly across cloud surfaces, leading to speculation about their electrical nature. 
 
-# Ground-Level Light Flashes
+# Ground-Level Light Flashes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Quick Flashes of Light (X1)**
   On October 21, 1953, witnesses in Alliance, Ohio, experienced rapid blue-green flashes of light at ground level, occurring in mid-air without any apparent source. These fleeting flashes astonished the observers, who noted the absence of sound and any visible cause for the phenomenon.
-# Luminous Phenomena above Thunderclouds
+# Luminous Phenomena above Thunderclouds [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Rocket Lightning**  
   Upwardly directed electrical discharges, usually originating in thunderclouds. These strokes can resemble normal cloud-to-earth lightning, but some ascend in columns that burst into bright fingers.
@@ -2045,7 +1795,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 
 - **Blue Starters**  
   Bright-blue flashes that occur just above thunderclouds, similar to blue jets but at a lower altitude. These flashes add to the diversity of luminous phenomena observed above thunderclouds.
-# GLL1 Luminous Phenomena above Thunderclouds 
+# GLL1 Luminous Phenomena above Thunderclouds  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Sprites**: Sprites are short-duration reddish flashes in the ionosphere that can extend down into thunderclouds. They are often observed in conjunction with a second type of upwardly directed discharge called blue jets.
 
@@ -2058,7 +1808,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 - **Potential Triggering Phenomena**: The appearances of sprites, blue jets, elves, and blue starters might be influenced by external factors such as meteors or cosmic rays creating ionization in the upper atmosphere. This suggests a mechanism where luminous phenomena occur more frequently amidst electrical disturbances from powerful thunderstorms.
 
 
-# GLL2 Bead Lightning
+# GLL2 Bead Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Bead Lightning Description**: Bead lightning appears as luminous segments that dissolve into spherical forms or sometimes rectangular shapes as the lightning stroke fades. This phenomenon can persist for 1 to 2 seconds and has various names, including pearl lightning and segmented lightning.
 
@@ -2069,26 +1819,26 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 - **Potential Explanations**: Bead lightning formation might occur due to longitudinal waves set up during an ordinary lightning stroke, influenced by some perturbation. An earlier belief held that the glowing beads were burnt pieces of matter left behind after the lightning stroke.
 
 - **Example Observations**: Historical accounts describe dramatic sightings of bead lightning, such as during a thunderstorm in Paris where lightning appeared as a string of brilliant grains streaking towards the ground. In another instance, observers saw luminous beads form a trail resembling a spinal column due to lightning hitting the sea.
-# GLL2 Bead Lightning
+# GLL2 Bead Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - On February 17, 1988, in Abu Dhabi, UAE, a particular lightning stroke passed horizontally between clouds, followed by a string of bright balls of light visible in the sky. About 20 balls remained before disappearing simultaneously, while a colleague nearby reported a similar observation with a slight displacement from the lightning's path.
 
-# GLL3 Colored Lightning
+# GLL3 Colored Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In August 1890, England experienced red, yellow, and blue lightning in the same area of the sky, suggesting variations in atmospheric composition or lightning temperatures. One flash was noted to be yellow with a blue center, highlighting the unusual nature of the phenomenon.
 
 - On May 13, 1906, dull, 'nonluminous' red lightning was observed in Somerset, England, with no synchronization to the accompanying thunder. This was notable as normal lightning occurred simultaneously.
 
 - On October 6, 1927, in Brantford, Ontario, a lightning flash started white at the top and transitioned to vivid green at the bottom, demonstrating unusual color patterns in lightning phenomena.
 
-# GLL4 Silent Lightning
+# GLL4 Silent Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - On July 19, 1899, in Shanghai, China, silent lightning created a constant blaze of light in the northern sky, with flashes appearing from multiple centers but accompanied by only faint rumbling. A similar display occurred on August 10, with numerous streamers illuminating the sky without accompanying thunder.
 
 - On October 3, 1927, in Paraguay, an immense display included quickly moving orange-colored discharges resembling cylindrical masses of glowing gas, occurring without thunder and amidst an overwhelming visual spectacle. The situation exemplified a ghastly quiet state with no wind.
 
-# GLL5 Horizontal Lightning
+# GLL5 Horizontal Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - On July 16, 1873, in Hereford, England, lightning traveled horizontally for about five miles through clear blue sky, striking a house rather than taller nearby structures. Observers noted the flash’s appearance was almost straight and resembled a rocket fired horizontally.
 
 - On May 14, 1965, in the Malacca Strait, a flash of lightning emerged from a cloud and took a horizontal path, curving downwards to strike the earth at a distance away from the cloud. This departure from typical vertical lightning patterns highlighted its anomalous behavior.
-# Lightning from a Clear Sky
+# Lightning from a Clear Sky [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Lightning from a Clear Sky**  
   Lightning discharges that appear to originate in clear portions of the sky, often followed by thunder, although not always. Most examples involve well-defined bolts, but some are more diffuse, akin to heat lightning.
@@ -2117,7 +1867,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 - **Observation circa 1867**  
   Three individuals in South Killingly, Connecticut, were struck by lightning during an otherwise clear day. The incident was notable not just for the strikes, but also for the heavy clap of thunder that followed.
 
-# Crown Flash
+# Crown Flash [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Crown Flash Description**  
   A phenomenon wherein the crown of a thunderhead brightens, leading to aurora-like streamers appearing in the clear atmosphere. This effect seems synchronized with lightning strokes, suggesting an intriguing electrical discharge event.
@@ -2128,7 +1878,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 - **Observation on April 30, 1885**  
   In Denison, Texas, a glowing region was seen traveling along the tops of clouds, giving the appearance of an electrical phenomenon. This occurrence contributed to the understanding of how crown flashes might manifest in thunderstorms.
 
-# The Preference of Lightning for Certain Trees
+# The Preference of Lightning for Certain Trees [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Preference of Lightning for Trees**  
   Lightning shows a marked preference for specific trees, with oaks frequently struck while beeches are rarely hit. This has been supported by folklore and scientific observations, leading to a curious exploration of the reasons behind this trend.
@@ -2142,7 +1892,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 - **Personal Account from Virginia Beach in the 1950s**  
   A cypress tree was repeatedly struck by lightning, illustrating its role as a natural lightning rod. This account highlighted not just the frequency of strikes, but the unusual phenomenon of ball lightning observed near the struck tree. 
 
-# Lightning Figures
+# Lightning Figures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description of Lightning Figures**  
   Patterns resembling tree-like images appear on the skin of individuals struck by lightning, attributed to electrical discharges. While historically dismissed as shadows, some instances indicate unique dendritic patterns that are not merely coincidental reflections.
@@ -2152,145 +1902,145 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 
 - **Observation on July 12, 1875**  
   Following a lightning strike that severed a tree, several witnesses reported distinct impressions of the tree on their bodies. This phenomenon reinforces the notion that lightning can imprint images, albeit in a mysterious and poorly understood manner.
-# General Observations
+# General Observations [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The phenomenon of lightning prints is not well understood, but it includes impressions made on the bodies of men and animals. Prof. Poey documented twenty-four cases, including various objects and shapes like trees, animals, and letters.
 
-# 1595 Incident
+# 1595 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Wells, England, some worshippers in a church struck by lightning were imprinted with crosses. This event illustrates the unusual nature of the impressions made by lightning strikes.
 
-# 1812 Incident
+# 1812 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Bath, England, the skins of six sheep killed by lightning were discovered to have images of the surrounding countryside on them. This suggests an eerie connection between the environment and the phenomena of lightning.
 
-# 1828 Incident
+# 1828 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Cuba, a man who was killed by lightning had the image of a passing railroad engine imprinted on his body. This case highlights the peculiarities of lightning-induced impressions.
 
-# July 1851 Incident
+# July 1851 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Washington County, Maryland, a sheep killed by lightning had an image of a robin on a branch. The detail captured in the feather edges of the impression adds to the enigma of lightning phenomena.
 
-# November 2, 1861 Incident
+# November 2, 1861 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Lappion, France, a tree image was observed following a lightning strike. The exact reproduction of the tree without direct contact raises questions about the process involved.
 
-# June 9, 1883 Incident
+# June 9, 1883 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Berwickshire, England, a boy who was hurt by lightning had an image of a nearby yew tree imprinted on him that faded later. This case emphasizes the transitory nature of such impressions.
 
-# June 17, 1896 Incident
+# June 17, 1896 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Pertuis, France, a lightning strike left a tree image on the victim, but further investigation revealed little resemblance to the actual tree. This discrepancy underlines the mystery behind lightning imagery.
 
-# September 14, 1919 Incident
+# September 14, 1919 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In London, England, a lightning event imprinted leaves and branches on a victim. This shows a recurring theme of nature being captured through lightning strikes.
 
-# General Observation
+# General Observation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Electrical discharges can produce tree-like figures on glass plates with conducting films. This observation suggests a potential method for replicating such phenomena artificially.
 
-# General Observation
+# General Observation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Conditions required for image formation, such as lens and light-sensitive surfaces, were absent in all documented examples of lightning figures. This absence adds to the perplexity of these occurrences.
 
-# General Observation
+# General Observation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The tree-like images produced are noted to not truly resemble the surrounding foliage. This points towards an atypical representation of the natural environment by lightning.
 
-# No Date Incident
+# No Date Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Zante, Greece, the number 44 appeared imprinted on a sailor struck by lightning, coinciding with a metallic number attached to the rigging. This case exemplifies the strange relationship between objects and impression phenomena.
 
-# Lightning Sounds Description
+# Lightning Sounds Description [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Unusual sounds such as "vits" or "clicks" are heard just prior to and during lightning strikes. These sounds may result from electrical discharges or electromagnetic energy interacting with the atmosphere.
 
-# Lightning Sounds Examples
+# Lightning Sounds Examples [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - On April 24, 1925, in Petersfield, England, witnesses heard a loud swishing sound in a holly tree at the moment of a lightning flash. Such audio phenomena suggest an interaction of light and sound during storms.
 
-# July 30, 1921 Incident
+# July 30, 1921 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - An individual reported a sound resembling violently ripped canvas right before a lightning flash. This auditory feedback adds an additional layer of phenomena linked to lightning.
 
-# June 8, 1972 Incident
+# June 8, 1972 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - An incident in Edinburgh, Scotland, revealed a near-circular hole in a ceiling and a broken window during a violent thunderstorm. This event illustrates the physical effects lightning can have on structures, extending beyond mere sound.
 
-# Lightning's Pranks Description
+# Lightning's Pranks Description [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Lightning's pranks encompass a range of bizarre actions that challenge conventional understanding, such as excising glass or selectively damaging materials. These instances are too varied to fit neatly into a single category.
 
-# Circa 1872 Incident
+# Circa 1872 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - At a property in Vernon, France, lightning created a deep hole in a garden with plants dying in a growing circle. This anomaly indicates that lightning can have lingering effects on the environment.
 
-# June 15, 1873 Incident
+# June 15, 1873 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Kansas City, a young couple was struck by lightning, resulting in combustion of the young lady’s body. This shocking incident raises discussions about the potential dangers of lightning strikes.
 
-# June 8, 1878 Incident
+# June 8, 1878 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A workman sheltered under a tree in Ashford, England, while his companions found him unconscious several yards away, stripped of clothing. Such strange occurrences push the boundaries of understanding lightning's impact on living beings.
 
-# No Date Incident
+# No Date Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Ribnitz, Germany, lightning broke a window, causing a jet of water to emerge. This surreal action exemplifies the unpredictable behavior associated with lightning strikes.
 
-# June 24, 1935 Incident
+# June 24, 1935 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Dodge, Nebraska, a strange hole with fused clay was created by lightning, showcasing the powerful effects of electrical discharge on the earth. This physical alteration of the landscape indicates a dramatic interaction.
 
-# June 8, 1972 Incident
+# June 8, 1972 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Edinburgh, a lightning strike resulted in an almost circular hole in the ceiling and significant water damage. This case illustrates the complexity of effects lightning can have beyond the immediate moment of impact.
 
-# January 5, 1890 Incident
+# January 5, 1890 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Lightning struck a house in County Mayo, Ireland, causing eggs to shatter without breaking their inner membranes. Such occurrences demonstrate the peculiar effects lightning can have on everyday objects.
 
-# X9 Incident
+# X9 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Jefferson, Iowa, after lightning struck a house, every other dinner plate from a pile was found broken. This peculiar pattern suggests that lightning may induce effects based on underlying electrical principles.
 
-# July 1907 Incident
+# July 1907 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A heavy thunderstorm in Ireland resulted in a strangling of vegetation, impacting only one side of some plants. This selective damage highlights the unusual outcomes of lightning disturbances. 
 
-# July 17, 1988 Incident
+# July 17, 1988 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Hannacroix, New York, a lightning strike caused a series of unusual phenomena including trenches and tracks leading from a hickory tree. The event presents questions about current paths and lightning's interaction with the environment.
 
-# March 17, 1990 Incident
+# March 17, 1990 Incident [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Phoenix, Maryland, a woman experienced a combination of bizarre events following a lightning strike, including her bedside lamp exploding. The interconnectedness of lightning effects demonstrates its chaotic and destructive potential.
-# Hot-Air Blasts Following Lightning Strokes
+# Hot-Air Blasts Following Lightning Strokes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly: Blasts of hot air observed during thunderstorms.** These blasts are synchronized with the lightning strokes and follow the peals of thunder. They possess ample energy from the lightning strikes, although the accelerating mechanism is still uncertain.
 
-# Unusual Geographical Preferences of Lightning
+# Unusual Geographical Preferences of Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly: Much higher incidence of lightning over land than sea.** This distribution demonstrates that certain areas, such as specific trees and rocky outcrops, are more prone to lightning strikes, which may be linked to uncharted moisture and mineral concentrations.
 
-# Black Lightning
+# Black Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly: Lightning strokes that appear black or dark rather than bright.** This phenomenon is attributed to film reversal in photography and retina fatigue in visual observations, suggesting that no actual anomaly exists.
 
-# Slow or Prolonged Lightning
+# Slow or Prolonged Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly: Lightning flashes that persist for one or more seconds.** These long-lasting flashes pose significant explanatory challenges, as typical lightning flashes last only a fraction of a second.
 
-# Correlation of Lightning and Cosmic Rays
+# Correlation of Lightning and Cosmic Rays [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly: Increases in cosmic-ray intensity correlated with increases in lightning frequency.** This suggests a potential causal relationship, although extraterrestrial influences on weather are still widely debated in the scientific community.
 
-# Lightning Superbolts
+# Lightning Superbolts [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly: Lightning bolts approximately 100 times more powerful than ordinary lightning.** Observations indicate that these superbolts most commonly occur in winter storms over Japan and the northeast Pacific, raising questions about their generation mechanisms.
-# GLL19 Dual Lightning Discharges
+# GLL19 Dual Lightning Discharges [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Description:** Two or more lightning discharges that occur essentially simultaneously several miles apart. The discharge channels are not usually connected in any way.
 - **Anomaly Evaluation:** No interconnecting mechanism for producing simultaneous lightning discharges has been found as yet. Electrostatic induction seems a likely prospect; and this process is well-understood.
 
-# GLL20 Abnormally Long Lightning Strokes
+# GLL20 Abnormally Long Lightning Strokes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Description:** Lightning strokes on the order of 100 miles long. 
 - **Anomaly Evaluation:** Current theories of lightning discharges cannot easily account for lightning strokes 100 miles long. Rating: 2.
 
-# GLL21 Anomalous Electrical Fields and Currents during Lightning
+# GLL21 Anomalous Electrical Fields and Currents during Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Description:** Measurements of near-zero electrical currents and fields during strong lightning strokes. 
 - **Anomaly Evaluation:** Large electrical currents and strong fields would normally be expected during a lightning stroke. Rating: 2.
 
-# GLL22 Lightning Shadowgraphs
+# GLL22 Lightning Shadowgraphs [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Description:** The production of shadowgraphs of objects on exposed surfaces by bright lightning flashes. The images often fade within a few minutes. 
 - **Anomaly Evaluation:** Although the precise photochemical reactions are not known, the reproduction of images on surfaces, particularly chemically treated surfaces, does not seem unreasonable. Rating: 3.
 
-# GLL23 Wisps of Flame Left by Lightning Strokes
+# GLL23 Wisps of Flame Left by Lightning Strokes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Description:** Residual wisps of flame, resembling ignited material, left in lightning discharge channels. The wisps may seem to drift with the wind. 
 - **Anomaly Evaluation:** The persistence of "ignited material" (probably incandescent gases) is curious as is their tendency to drift away from the discharge channel. Rating: 2.
 
-# GLL24 Tubular Lightning
+# GLL24 Tubular Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Description:** Very broad lightning discharge channels possessing a tubular appearance. Channels up to 18 feet in diameter have been measured in photographs. 
 - **Anomaly Evaluation:** Normal lightning channels are typically 5 inches in diameter, so that channels many feet in thickness sorely try prevailing models of lightning discharges. Rating: 2.
 
-# GLL25 Meandering Lightning
+# GLL25 Meandering Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Description:** Intricate, looping, reversing, wandering lightning strokes. Such discharge channels often approach the ground closely but do not touch seemingly inviting objects.
 - **Anomaly Evaluation:** It is difficult to conceive, in the framework of current thinking about the formation of lightning discharge channels, how such long, tortuous paths close to grounded objects could occur. It would seem that a multitude of paths of much lower resistance exists but are "ignored" by the lightning for some undetermined reason. Rating: 2.
 
-# GLL26 Ribbon Lightning
+# GLL26 Ribbon Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Description:** Multiple, nearly simultaneous, parallel lightning strokes that are so close together and so arranged geometrically that they resemble a ribbon. The regions between the several parallel flashes involved may be filled with bright horizontal and curved lines. 
 - **Anomaly Evaluation:** It is curious that so many lightning channels should develop very close and parallel to one another, but there does not seem to be anything anomalous in ribbon lightning. Rating: 3.
-# GLL26 Ribbon Lightning
+# GLL26 Ribbon Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - A ribbon of light approximately eight feet wide was observed, containing six lines of unequal brightness. The observed structure was found to be curved and at an angle to the observer, suggesting it could be wider than originally thought, possibly fifteen or twenty feet.
 
-# GLL27 Spider Lightning
+# GLL27 Spider Lightning [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Spider lightning displays horizontal, radial patterns that emerge parallel to thundercloud bases. This type of lightning is scientifically recognized and documented, but the specifics of spoked lightning remain largely unknown.
 
@@ -2304,26 +2054,26 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 
 - General observations in Florida described spider lightning as discharges propagating over large distances near the cloud base. These spectacular discharges have the ability to "crawl" along the cloud base at a visually detectable speed.
 
-# GLL28 Bipolar Storms
+# GLL28 Bipolar Storms [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Large electrical storms exhibit a bipolar nature, with rare positive lightning flashes concentrated at the northeastern end of the storm. This phenomenon defies expectations of an even distribution of positive and negative strokes, indicating some unknown influence at a large scale.
 
-# GLL29 Gamma-Ray Flashes
+# GLL29 Gamma-Ray Flashes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Bursts of gamma rays originating from thunderstorms were detected starting in the 1990s, leading to increased scientific scrutiny. This phenomenon, once an anomaly, is now better understood as part of the runaway mechanism producing high-energy emissions.
 
 - Early reports linked mysterious light flashes above thunderstorms with gamma rays detected by the Compton Gamma Ray Observatory, which indicated that these flashes originated from significant altitudes to evade atmospheric absorption.
 
-# GLL30 Thunderstorm Neutrons
+# GLL30 Thunderstorm Neutrons [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Neutrons generated in thunderstorms present an unexplained phenomenon, with speculation hinting at their origins from thermonuclear reactions or nuclear processes triggered by gamma rays. The source of these neutrons remains unknown despite potential associations with lightning events.
 
-# GLL31 Lightning and Humans
+# GLL31 Lightning and Humans [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - An electrician's bizarre experience after being struck by lightning resulted in unusual physical changes, such as an insensitivity to cold. This incident underscores the unpredictable and often bizarre effects of lightning on human beings.
 
 - In mountainous areas, healthy hikers sometimes die without any visible signs of injury, suggesting the influence of magnetic pulses produced by nearby lightning strikes. These mysterious fatalities add to the strange interactions between lightning and humans.
-# Lightning Strikes
+# Lightning Strikes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Tornado currents**: Ground currents can cause fatal electrocutions by passing through the body. Cows, due to their multiple points of ground contact, are particularly vulnerable to this phenomenon.
 
@@ -2331,20 +2081,20 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 
 - **Sex disparity in fatalities**: Analysis of lightning fatalities in England and Wales from 1974 to 1989 reveals that men are disproportionately affected. The data suggest this may be due to more outdoor activities among males, leading to higher exposure.
 
-# Vehicle Engine Stalling
+# Vehicle Engine Stalling [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Electromagnetic interference**: Anomalous incidents have been reported where vehicle engines stall near thunderstorms, attributed to strong electrostatic fields. Despite anecdotal evidence, scientific validation of this phenomenon remains scarce.
 
 - **Coincidence of events**: The association between stalled vehicles and thunderstorm conditions appears coincidental rather than causal. The rarity of such occurrences casts doubt on their significance.
 
-# Low-Level Meteor-Like Objects
+# Low-Level Meteor-Like Objects [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Unusual meteor behavior**: Low-level luminous objects behave abnormally by not disintegrating or impacting the ground like typical meteors. The peculiar appearance of clouds before these phenomena and their extended duration raise important questions.
 
 - **Physical characteristics of objects**: Reports describe bright, noise-emitting objects exhibiting long-lasting appearances, unusual for classical meteors. Anomalous traits such as sudden brightness and extensive trails are common.
 
 - **Lack of scientific explanation**: Various sightings of unusual meteor-like phenomena suggest confusion with other natural events, but clear explanations remain elusive. Some of these may involve electrical phenomena misidentified as meteors, blurring the lines between known and unknown events.
-# Anomalies from the Excerpt
+# Anomalies from the Excerpt [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **X9. September 1977, Solomon Islands**  
   A mysterious flying object was sighted in the Santa Cruz Island on three separate nights, described as a "very bright light" or "ball of fire." It traveled at high speed just below cloud level, illuminating the ground underneath but left no trace when it supposedly landed.
@@ -2399,7 +2149,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 
 - **X26. April 9, 1983, North Atlantic Ocean**  
   Observations of a bright object leaving a trail were recorded, characterized as unusually large and sluggish for a meteor. Its long duration of visibility, around 20 seconds, further complicates its classification.
-# GLM2
+# GLM2 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Darting Gleams of Light**  
   Very swiftly moving streaks or wisps of white or bluish-white light that appear suddenly and very close to the observer. Most have been reported by expert meteor observers as a rare but persistent phenomenon.
 
@@ -2427,7 +2177,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 - **General observation**  
   Faint wisps of light that startled observers into believing they had seen meteors were reported. The lights were described as nebulous and did not conform to expected meteor behavior, leading to psychological questions regarding perceptions.
 
-# GLN1
+# GLN1 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Low-Level Nocturnal Lights**  
   These lights exhibit pale flames and glowing globes, drifting erratically below tree-top level, with colors mostly being white, blue, or yellow. These lights often vanish when approached closely, creating an elusive atmosphere that intrigues observers.
 
@@ -2451,7 +2201,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 
 - **Example: November 1818, Germany**  
   An observer noted numerous reddish-yellow flames appearing and disappearing rapidly across a boggy meadow. With an observed distance of flames extending over half a mile within a second, this event showcased the erratic nature of low-level nocturnal lights.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Bologna, Italy Light**  
   A light with the form and colour of an ordinary flame was observed near a pool, moving slowly from south to north. It changed direction when approached and eventually disappeared after ascending a few feet.
@@ -2539,7 +2289,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 
 - **Bay Chaleur Fireship Observations**  
   Observations of a physical light frequently occurred over Bay Chaleur waters, typically preceding storms. The lights consistently took a hemispherical shape, contributing to local legends about maritime lights.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **X43. Norfolk, England.** The marshmen and wherrymen fire guns at the will-o'-the-wisps, which typically extinguish after being shot at. This suggests a direct supernatural connection to the mysterious lights perceived in the marshlands.
 
@@ -2582,7 +2332,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 - **X62. Esperanza Creek, Texas.** An elusive light resembling an automobile headlight has been observed hovering just above the ground, interacting with travelers in various conditions. The behavior of this light follows familiar folklore, adding to a rich tapestry of similar reported encounters.
 
 - **X63. Northeastern Oklahoma.** The Tri-State or Hornet 'spooklight' draws tourists who observe its odd movements along a country road. The varying descriptions of its appearance and behavior confound scientific explanations, despite attempts to attribute it to known sources like headlights.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Unidentified Light**: Witnesses observed a basketball-sized, orange-yellow light approximately 30 feet away on the road. The light rose to ten feet, split into two sections, and fled into the woods after reacting to nearby sounds.
 
@@ -2603,46 +2353,46 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 - **Traveler Reports of Min-Min Light**: The Min-Min Light in Queensland, Australia, has been sighted by numerous individuals, often described as a luminous oval that behaves unpredictably. Accounts include experiences of being chased or taunted by the light, indicating a possible conscious presence.
 
 - **Erratic Behavior of Min-Min Light**: Witness accounts illustrate the erratic movement of the Min-Min Light, which appeared to maintain a constant distance from those pursuing it. This behavior raises speculation about its nature and connection to unexplainable phenomena in Australian lore.
-# X71. Yakima Lights  
+# X71. Yakima Lights   [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Yakima Lights are regularly observed by trained fire-lookouts situated in a heavily forested area. These sightings are logged, and the phenomenon has been documented with good distance data and photographs, which mainstream science tends to overlook.
 
 - There were over 100 observations recorded between July 1972 and July 1981, providing a unique dataset. Two scientists, J.S. Derr and M.A. Persinger, studied these lights and investigated possible relationships between the Yakima Lights and seismic activity in the region.
 
-# X72. Hessdalen Valley Lights  
+# X72. Hessdalen Valley Lights   [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Since December 1981, the inhabitants of Hessdalen Valley in Norway have frequently reported strange lights, with sightings peaking in the early 1980s. The Hessdalen Project was initiated to scientifically investigate the phenomenon using modern instruments when hundreds of lights were observed.
 
 - Witnesses reported three distinct categories of lights and associated various light behaviors, including flashes and stationary or moving lights. The Project utilized various high-tech instruments, yet the results were still puzzling, leading to the conclusion that nocturnal lights are a more complex phenomenon than previously realized.
 
-# X73. Mekong River Lights  
+# X73. Mekong River Lights   [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In October 1994, luminous phenomena were observed rising from the Mekong River in Thailand, described as beach ball-sized lights that shot into the sky. Locals attribute these occurrences to a serpent releasing her eggs, and this event has become an annual spectacle.
 
 - The lights have been scientifically speculated to involve phosphorescent bacteria or phosphorus vapor, given their underwater origin where combustion cannot occur. These phenomena, now officially known as the Nekha Lights, last about 30 minutes during the October full moon.
 
-# X74. Changkat Asah Lights  
+# X74. Changkat Asah Lights   [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In 1895, Sir G. Maxwell reported witnessing two balls of light that suddenly flew towards him while attempting to hunt a tiger in Malaysia. Initially mistaken for the lights of miners, the orbs were later identified as natural phenomena, possibly related to chemical gases or electric fluids.
 
 - The lights were observed drifting from the marshes and were thought to be the "spooks" known traditionally as "penanggal." Their behavior and appearance suggest similarities to other luminous phenomena recorded in connection with water bodies, like the Nekha Lights.
 
-# X75. Himalayan Glowing Complexes  
+# X75. Himalayan Glowing Complexes   [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In the southern Himalayas of Nepal, "amorphous glowing complexes" have been reported to move erratically over hillsides. Local children are known to chase these phenomena, showcasing a cultural engagement with the lights.
 
 - This occurrence suggests that nocturnal lights might be more widespread than documented, presenting an area for future research into their nature and origin.
 
-# X76. Lake Neovi Lights  
+# X76. Lake Neovi Lights   [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In 1895, M. Kingsley described encountering nocturnal lights at Lake Neovi in Western Africa, encountering violet balls that floated along the beach. These lights exhibited behavior typical of luminescent organisms, flitting above and below the lake surface.
 
 - As Kingsley interacted with the lights, they disappeared into the depths of the water, prompting speculation about their nature and origin. The sighting raises questions about organisms capable of both flying and swimming, challenging conventional understanding of luminous entities.
 
-# X77. Kamaisi Tsunami Lights  
+# X77. Kamaisi Tsunami Lights   [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Following a devastating tsunami in March 1933, unusual luminous phenomena were reported to have appeared associated with the waves. Observers noted well-defined, round-shaped luminous bodies within the crest of the tsunami, which illuminated their surroundings.
 
 - The bluish-purple color of the lights resembled an electric discharge, indicating they may not simply be bioluminescent organisms but rather something extraordinary occurring with tsunami activity.
 
-# X78. Kamaisi Bay Fireball  
+# X78. Kamaisi Bay Fireball   [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - On the same day as the tsunami in March 1933, a fisherman reported seeing a large fireball above the sea while aboard his boat. This luminous sphere, described as being the size of a full moon, appeared suddenly and at a low altitude above the water, capturing the fisherman's attention.
 
 - This sighting, occurring simultaneously with significant seismic activity, raises questions about the relationship between natural disasters and unexplained luminous phenomena. Observations of such bright lights during catastrophic events suggest a possible connection between seismic activity and occurrences of luminous phenomena.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Fireball**  
   The fireball was the color of live charcoal and was not accompanied by any sound. Despite advancing toward it, the vessel did not collide with the fireball, which ultimately diminished in size and disappeared.
@@ -2682,7 +2432,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 
 - **Bioluminescence on Ocean Beaches**  
   Beach walkers report seeing strange blue lights around their feet, resembling lightning as they step on the sand. This phenomenon, caused by bioluminescent organisms, lights up when pressure is applied, demonstrating an intriguing ecological interaction.
-# Low-Level Nocturnal Lights GLN1
+# Low-Level Nocturnal Lights GLN1 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Infernito**: Observations from 1889 suggest an unusual atmospheric phenomenon documented in "Nature." The lights exhibited oscillatory movements that defied normal explanation at the time.
 
 - **Ghostly Lights**: Documented in 1894 by Walhouse, these lights featured characteristics reminiscent of spectral phenomena in folklore. The descriptions involve their erratic behavior and unclear origins.
@@ -2693,7 +2443,7 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 
 - **A Blazing Beach**: Penhallow's 1905 report of lights on the beach indicates phenomena that baffled observers. The documentation included eyewitness accounts that contributed to the ongoing discourse on anomalous lights.
 
-# High-Level Nocturnal Lights GLN2
+# High-Level Nocturnal Lights GLN2 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Observation from Iowa, Summer 1896**: An observer on a train noted a round, dull rose-colored light that moved in an oscillatory manner low on the horizon. The phenomenon intrigued both passengers and was characterized by significant variability in speed and location.
 
 - **Florida Sightings, July 1952**: Airmen reported observing a light that approached, halted overhead, then abruptly reversed direction. Independent accounts framed this light as ambiguous and without discernible shape or proper classification.
@@ -2703,54 +2453,54 @@ An observer noted a multicolored object, about the size of a basketball, moving 
 - **1978 Ocala National Forest Sighting**: Military personnel confirmed the tracking of unexplained lights on radar, with one light reportedly hovering mid-air. This incident draws attention to repeated instances of strange lights documented in both military records and civilian reports. 
 
 - **North Atlantic Observation, April 11, 1978**: Observers noted three cone-shaped lights emerging from a larger glow, traveling at very high speeds. Their sudden fading and disappearance added to the cumulative evidence of anomalous aerial phenomena throughout the years.
-# X10. 1948-1949. U.S. Southwest
+# X10. 1948-1949. U.S. Southwest [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A series of vivid green "meteors" streaked across the U.S. Southwest, raising questions about their nature. Witnesses, including highly credible ones, observed the "fireballs," which traveled at an average speed of 27,000 miles per hour, mainly on an east-west line.
 
-# X11. November 28, 1958. North Pacific Ocean 
+# X11. November 28, 1958. North Pacific Ocean  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A bright pulsating white light was seen from the S.S. Alameda. The light descended vertically to the horizon over several minutes, pulsating from the brightness of a first magnitude star to a third magnitude star.
 
-# X12. February 25, 1959
+# X12. February 25, 1959 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - During a flight between Pennsylvania and Michigan, an American Airlines DC-6 was accompanied by three bright, whitish lights for 45 minutes. These lights occasionally moved closer to the plane before retreating, reminiscent of World War II's "foo fighters."
 
-# X13. April 4, 1959. Caribbean Sea 
+# X13. April 4, 1959. Caribbean Sea  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Four stationary pale white lights were observed in a straight line, which maneuvered into formation before disappearing. The lowest light slowly moved away, gaining speed, and a brilliant blue-white flash was seen from behind a cloud.
 
-# X14. February 25, 1964. North Atlantic Ocean 
+# X14. February 25, 1964. North Atlantic Ocean  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A glowing body emitting a pinwheel-like glow was seen in the sky, which could indicate a missile test. The body was in motion, reaching an altitude of 13 degrees before disappearing from view.
 
-# X15. February 16, 1967. Caribbean Sea 
+# X15. February 16, 1967. Caribbean Sea  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A bright white circular object with a comet-like tail was observed, disappearing and reappearing at regular intervals. The phenomenon's precise repetition made it noteworthy, suggesting it might be more than a missile test.
 
-# X16. October 4, 1967. North Atlantic Ocean 
+# X16. October 4, 1967. North Atlantic Ocean  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Two bright-white patches of light changed shape and brightness for 30 minutes while maintaining the same position. They appeared uninfluenced by the wind and showed no echoes on radar, raising questions about their nature.
 
-# X17. May 13, 1960. Caribbean Sea 
+# X17. May 13, 1960. Caribbean Sea  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Two large bright objects with long smoky luminous trails were observed; one disappeared sharply while the other gradually faded away. The presence of a quick-flashing red light below one object added to the anomaly’s mystery.
 
-# X18. September 21, 1961. North Pacific Ocean 
+# X18. September 21, 1961. North Pacific Ocean  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A white opaque mass appeared, growing larger and eventually resembling a huge halo with a satellite in the center. This phenomenon faded away after 8-10 minutes, leaving observers puzzled.
 
-# X19. October 16, 1976. Barents Sea 
+# X19. October 16, 1976. Barents Sea  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A brilliant light was seen flying across the sky, leaving a bright V-shaped trail before seemingly reversing its course. The object's shape changed as it lost altitude and eventually vanished within a glowing halo.
 
-# X20. January 17, 1980. Santiago, Chile 
+# X20. January 17, 1980. Santiago, Chile  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - An astronomer reported observing a point-shaped luminous object moving slowly, resembling an artificial satellite but disappearing abruptly without obstruction. Shortly after, a group of 30 lights in a V-formation was seen, puzzling observers.
 
-# X21. March 13, 1989. North Pacific Ocean 
+# X21. March 13, 1989. North Pacific Ocean  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A group of bright lights was observed, initially thought to be flares or aircraft lights, but their sudden disintegration raised suspicion. The sequence was brief but vivid, leading to speculation about a spacecraft reentry.
 
-# X22. January 14, 1993. Eastern North Pacific 
+# X22. January 14, 1993. Eastern North Pacific  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A conical-shaped light was seen above the horizon, initially thought to be an aircraft spotlight but grew in size and changed shape. The observers found the shape too regular to be a cloud, leaving its origin unknown.
 
-# X23. November 20, 1995. North Atlantic 
+# X23. November 20, 1995. North Atlantic  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A very bright light was observed, which quickly disappeared, followed by two smaller lights traveling at high speed with no apparent navigation lights. This sighting from a reliable source left questions about the initial bright light's cause.
 
-# X24. August 21, 1996. Sarpy County, Nebraska 
+# X24. August 21, 1996. Sarpy County, Nebraska  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A luminous phenomenon captured on video appeared to emerge from a thundercloud, moving extremely fast. Commenting on it, the researchers speculated it might be a new kind of electrical discharge phenomenon.
 
-# X25. May 25, 1997. Near Loco, Oklahoma 
+# X25. May 25, 1997. Near Loco, Oklahoma  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A fast-moving "object" was recorded near a tornado-spawning storm, resembling the phenomenon noted previously. The quick movement and nature of the sighting added to the intrigue surrounding electrical phenomena above storm systems.
-# Anomalies 
+# Anomalies  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Anomaly: High-speed object observed in storm  
   The object was well-defined and well-lit but briefly obscured by clouds. It dipped and bobbled in its trajectory before flying into a storm with baseball-sized hail, then reemerged apparently undamaged.
@@ -2760,7 +2510,7 @@ At 0443 UTC, a light resembling a satellite was sighted above the ship for about
 
 - Anomaly: Erratic motion of the light  
 The light's erratic motion and use of a searchlight resemble reports of UFOs in popular publications. However, the Marine Observer's report provides sound scientific credentials, suggesting the phenomenon is noteworthy beyond typical explanations.
-# Moving Phosphorescent Bands GLW2
+# Moving Phosphorescent Bands GLW2 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly Description:** Long, parallel bars or ripples of light moving swiftly across the sea, usually at speeds of 60-100 miles per hour. The bands are generally 10-30 feet wide and can extend from a few feet to several miles in length, with significant variation in their dimensions.
 
@@ -2849,7 +2599,7 @@ The light's erratic motion and use of a searchlight resemble reports of UFOs in 
 - **Example X39:** A strange dawn-like light reported on April 23, 1963, during a voyage from Singapore to Japan, uniquely describes the nature of maritime luminescence encountered. 
 
 - **Example X40:** On May 29, 1985, the bioluminescent display observed near the Java Sea indicates the continuing relevance and fascination with such phenomena, connecting to the historical documentations.
-# Aerial Phosphorescent Displays
+# Aerial Phosphorescent Displays [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Display Description**: Marine phosphorescent displays observed in the air well above the water's surface appear as luminous phenomena. These displays are believed to be caused by bioluminescent organisms, though some situations create uncertainty over whether the display is on the surface or just above it.
 
@@ -2859,7 +2609,7 @@ The light's erratic motion and use of a searchlight resemble reports of UFOs in 
 
 - **Similar and Related Phenomena**: The displays have similarities with low-level auroras and luminous fogs, which are intriguing due to their wave structures.
 
-# Phosphorescent Wheels
+# Phosphorescent Wheels [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Display Characteristics**: Phosphorescent wheels are characterized by spoke-like bands of light rotating around a center that can change rotational direction. The spokes may vary in shape, and the displays can be stationary or in motion, often observed in Indian Ocean regions.
 
@@ -2870,7 +2620,7 @@ The light's erratic motion and use of a searchlight resemble reports of UFOs in 
 - **Similar and Related Phenomena**: The wheels are linked to other marine phosphorescent displays and low-level auroras, presenting an area for further investigation regarding electrical origins. 
 
 - **Imagery of Observation**: The phenomenon has been vividly described through various historical accounts, often highlighting their breathtaking and awe-inspiring nature, with reports of wheels appearing both above the water and in unique configurations that strengthen interest in their study.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly X16:** On September 9, 1929, in the Malacca Strait, bands of light were seen wheeling over the sea for a duration of 1 hour. The display was combined with vivid lightning, adding to the spectacle.
 
@@ -2893,60 +2643,60 @@ The light's erratic motion and use of a searchlight resemble reports of UFOs in 
 - **Anomaly X56:** On November 6, 1978, in the South China Sea, bioluminescence appeared as rotating bands without a central hub. These luminous bands pulsated at a rate of two to three flashes every second, creating a mesmerizing light show.
 
 - **Anomaly X64:** On November 14, 1949, in the Indian Ocean near Iran, the vessel entered a classic marine light wheel, characterized by pulsating light patterns. These lights revolved around the ship in a circular motion, resembling searchlight beams radiating outward from a central point.
-# X65
+# X65 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The report by P. Newton on the m.v. Mahsuri describes pale green glow and blue-green light bands over the water in the Gulf of Oman. These lights appeared to be above the water surface and showed a pattern that raised doubts about bioluminescence as their origin.
 
 - The wheels of light observed had diameters ranging from ten to over 600 feet, continuously flashing with successively diminishing intervals between flashes. It was noted that these wheels seemed to follow the ship, suggesting a potential influence of the vessel on the luminous display.
 
-# X66
+# X66 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - On April 30, 1981, a report from the North Atlantic Ocean detailed a white sea-smoke type mist combined with a large area of bioluminescence formed into defined spirals. The spinning bands of light were of great dimension, marking a rare occurrence of geometrically organized displays in the Atlantic.
 
 - Despite the commonality of bioluminescence in the region, the observed geometrically organized displays were highly unusual. Once again, the luminous features appeared to be above the water, adding complexity to existing theories.
 
-# X67
+# X67 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The encounter on April 29, 1982, aboard the m.v. Siam included perplexing displays of marine phosphorescence that featured multiple rotating wheels with their hubs positioned away from the ship. The luminous bands began rushing toward the ship and transformed into three counterclockwise wheels.
 
 - After a gap in the display, additional parallel bands arrived, eventually resulting in more rotating wheels appearing. The phenomena associated with the ship did not seem to be influenced by radar or visible light, further complicating the understanding of the display's source.
 
-# X68
+# X68 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - On May 6, 1991, the m.v. Zidona observed a complex blue-white pattern of fast-moving light around the ship. This display featured pulsing rings and spiraling points of light, creating a mesmerizing mass of illumination that surrounded the vessel.
 
 - Distinctive centralized points of spiraling patterns and rapidly increasing rings added to the chaotic visual experience. The phenomenon concluded after a series of changes, culminating in a gradual reduction of observed light.
 
-# X69
+# X69 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - On October 7, 1991, the m.v. Wiltshire reported a glow of bioluminescence illuminating the hull above the waterline. This included observations of large wheels passing the vessel, with both large and small wheels reported to be present.
 
 - Despite various attempts to elicit a response from the bioluminescence, including shining an Aldis lamp, there was no significant change noted. The absence of typical radial spokes and the slower speed of the wheels remained notable features of this occurrence.
 
-# X70
+# X70 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The April 30, 1994 report from the m.v. BP Argosy described an incredible mix of luminous phenomena observed in the Indian Ocean. As the vessel approached, the patterns rapidly transitioned from random movements to spinning spirals and concentric circles moving outwards.
 
 - The entire area around the ship became encompassed by overlapping luminous displays. The complexity of the overlapping patterns further challenged existing theories concerning the source of the observed lights.
 
-# X71
+# X71 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - During an encounter on April 17, 1995, the m.v. British Reliance reported a phenomenon of multiple rotating wheels in blue phosphorescence. This included a variety of wheels spinning in various directions, creating a captivating visual spectacle surrounding the vessel.
 
 - The interplay of randomness in the wheels' movement and the related atmospheric phenomena has spurred intrigue among observers and scientists alike, especially considering the unprecedented confluence of multiple features reported. 
 
-# X72
+# X72 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - On November 3, 1997, N. Fraser reported synchronous lighting patches around an oil-rig supply ship in the Andaman Sea. The brightly glowing patches seemed to pulse like reflections of disco lights, fascinating the observers and leaving them puzzled about their origin.
 
 - Intriguingly, a concurrent comparison to strobe lights led to the interpretation of these pulsating patterns as spokes of a giant wheel. The brief duration of the display heightened the curiosity regarding the phenomenon's cause.
 
-# X73
+# X73 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Scientist P.J. Herring noted that many marine light wheel observations stem from steel-hulled vessels, but earlier reports from wooden ships indicate that engine vibrations are not the sole contributor to the phenomenon. An ironic contrast exists in the early occurrence reports from regions where light wheels are less common, suggesting prominence in the Indo-Pacific region.
 
 - Herring's review indicated a geographical restriction where marine light wheels are primarily observed between certain latitudes, sparking inquiry into why significant portions of the ocean remain unreported. The bioluminescent origin of the lights is widely accepted, yet the patterns they form continue to be a mystery in marine sciences.
-# Anomalies in Marine Light Displays
+# Anomalies in Marine Light Displays [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Bioluminescent Organisms Emitting Light**
   - The disturbance caused by seismic waves is challenging to comprehend, particularly when considering the complex patterns observed, such as spoked wheels. An interesting observation is that in seismically quiet areas, such as the Gulf of Thailand, marine light wheels are still relatively common.
@@ -2971,26 +2721,26 @@ The light's erratic motion and use of a searchlight resemble reports of UFOs in 
 
 - **Complex Bioluminescent Displays**
   - Observations of bioluminescent displays have revealed instances of expanding concentric rings that exhibit unique patterns and colors, adding to the complexity of marine bioluminescence. The simultaneous appearance of varying displays raises questions about the mechanisms driving these phenomena.
-# GLW6 Phosphorescent Patches Moving in Circles
+# GLW6 Phosphorescent Patches Moving in Circles [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Circular patches of light are observed moving in large circular patterns. Several displays can be active at the same time, suggesting a unique display of marine luminosity.
 
 - The phenomenon may be related to the phosphorescent wheel but is more complex due to the difficulty in explaining how seismic waves could create these patterns of light. Observations show that this event has only been recorded once with a quality rating of 2.
 
-# GLW7 Phosphorescent Spinning Crescents
+# GLW7 Phosphorescent Spinning Crescents [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Spinning crescents of light have been observed rotating around a ship, often reversing their direction of rotation while displaying bilateral symmetry. The origins of this phenomenon may be influenced by ship-created forces, like radar or engine noise, but the exact cause remains unclear.
 
 - Many observations of this display do not show a typical ship-centered pattern, indicating a potential stimulation mechanism from the vessel itself. These patterns are variable and exhibit enough similarities to be classified under the same anomaly, earning a rating of 2.
 
-# GLW8 Zigzag Phosphorescent Flashes
+# GLW8 Zigzag Phosphorescent Flashes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - This phenomenon consists of zigzag flashes of phosphorescence moving across the sea's surface in a manner reminiscent of lightning. It has only been observed once, leading to a low rating of 3 due to the rarity of observations.
 
 - The appearance of these well-defined zigzag patterns raises questions about their origin, as bioluminescent organisms typically produce simpler light patterns. The most plausible explanation is that this behavior results from cooperative bioluminescent activity or perhaps an unusual environmental stimulus.
 
-# GLW9 Milky Seas
+# GLW9 Milky Seas [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Milky seas manifest as extensive, brilliant phosphorescent displays that can cover vast ocean areas, resembling a field of snow at night. Sometimes lit from below or creating a luminous mist above the surface, milky seas can appear suddenly and last for hours.
 
 - The phenomenon is assumed to arise from bioluminescent organisms, like bacteria, although no specific species has been identified. Observations show that despite extensive reporting of milky seas, water drawn from them frequently reveals no bioluminescence, indicating that much is still unknown regarding its causes and mechanisms.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **X35. September 16, 1977. Arabian Sea.**
   The phenomenon involved a reduction in bioluminescence intensity, disappearing entirely within half an hour. A sample of seawater taken was observed to be clear and normal, showing no response to fluorescent ultraviolet light.
@@ -3054,7 +2804,7 @@ The light's erratic motion and use of a searchlight resemble reports of UFOs in 
 
 - **X56. Overview. Milky sea phenomenon.**
   This phenomenon is relatively common, particularly in the northwest Indian Ocean. Despite numerous reports and observations, a clear explanation for its occurrence remains elusive, with most bioluminescent organisms being unable to produce the sustained glow characteristic of milky seas.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Radar and Phosphorescence Observations**
   Observations indicated a progressive form of phosphorescence around the ship, with radar in use at various times showing no visible effects on the radar screen. The strongest flashes of light were in patches approximately 50 feet long, but diminishing over time.
@@ -3076,7 +2826,7 @@ The light's erratic motion and use of a searchlight resemble reports of UFOs in 
 
 - **Deep-Sea-Vent Glows**
   Non-thermal radiation emitted from hydrothermal vents was documented by scientists using advanced instruments. The existence of light in a dark environment raises questions about its sources; chemiluminescence is considered the most likely explanation among several possibilities.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Chemiluminescence**  
   Chemiluminescence, specifically sulfide oxidation, is considered a likely candidate for some underwater phenomena. However, the scientific community has not yet reached a consensus on this subject.
@@ -3089,95 +2839,95 @@ The light's erratic motion and use of a searchlight resemble reports of UFOs in 
 
 - **Light at the Bottom of the Ocean**  
   Anomalies regarding the light found at the bottom of the ocean continue to baffle scientists. This phenomenon raises questions about the types of biological processes and chemical reactions that might contribute to the generation of light in such depths.
-# Proceedings 
+# Proceedings  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **GLA13-R25**: This anomaly appears in the context of the Proceedings journal. Its specific implication or observation isn't detailed further in the text provided.
 
 - **GLA23-R11**: Listed along with a couple of other anomalies, but it also lacks additional context or detail about its significance.
 
-# American Scientist 
+# American Scientist  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **GLB1-R152**: An anomaly recorded in the American Scientist edition. As with other entries, the provided excerpt does not elaborate on the nature of this anomaly.
 
 - **GLD10-R16**: This entry also lacks contextual detail in the excerpt, representing yet another listing of an anomaly with no accompanying description.
 
-# Annals of Philosophy 
+# Annals of Philosophy  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **GLA2-R10**: Found in the Annals of Philosophy, this anomaly is similarly unexplained in the text. It is mentioned alongside others but with no elucidation.
 
 - **GLA14-R6**: Another entry from this publication, this anomaly is presented without further explanation or context in the provided text.
 
-# Astronomical Society of the Pacific, Publications 
+# Astronomical Society of the Pacific, Publications  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **GLA4-R1**: This anomaly marks its presence in the publications of the Astronomical Society of the Pacific. Additional specifics about its relevance are omitted.
 
-# British Meteorological Society files 
+# British Meteorological Society files  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **GLA14-R13**: Documented under the British Meteorological Society files, this anomaly is simply listed as is with no clarifications or implications.
 
-# Monthly Weather Review 
+# Monthly Weather Review  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **GLD11-R10**: Noted within the Monthly Weather Review, this anomaly appears without any further commentary or descriptions offered in the text extract. 
 
-# Journal of Science
+# Journal of Science [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **GLW9-R33**: This anomaly is recorded in the Journal of Science. Like previous entries, it lacks additional elaboration regarding its significance.
 
 - **GLN1-R21**: Another anomaly in the Journal of Science, noted but without further detail in the provided text, indicating a gap in information.
 
-# Miscellaneous Anomalies 
+# Miscellaneous Anomalies  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **GLB15-R7**: This anomaly appears in a variety of sources throughout the excerpt. Again, it is presented without explanations regarding its context or implication.
 
 - **GLB19-R2**: Found scattered throughout multiple listings, this anomaly follows the pattern of being cited without significant context or exploration of its relevance.
-# Pulse of the Planet
+# Pulse of the Planet [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **GLA14-R4**  
   This entry references an occurrence noted in the text without providing details concerning its significance or implications. It possibly indicates a measurement or observation that contributes to the overall theme.
 
 - **GLW4-R70**  
   Another anomaly that appears in the list, likely representing a specific finding or statement from the text. The details surrounding its context are absent, leaving its meaning open for interpretation.
 
-# Royal Astronomical Society, Journal
+# Royal Astronomical Society, Journal [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **GLL17-R5**  
   This anomaly suggests a data point that may relate to astronomical observations or calculations as suggested by the source. However, the underlying details or findings associated with this reference remain unspecified.
 
 - **GLL12-R4**  
   Similar to the previous entry, this anomaly alludes to a study or a report in the field of astronomy. The information linked to this reference is not elaborated upon, creating ambiguity about its relevance.
 
-# Royal Meteorological Society, Quarterly Journal
+# Royal Meteorological Society, Quarterly Journal [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **GLB1-R36**  
   The significance of this anomaly is not detailed, making it difficult to ascertain its implications in meteorology. It may refer to a climate measurement or research study.
 
 - **GLB1-R40**  
   Listed alongside other records, this anomaly lacks explanation, which limits understanding of its role or findings in meteorological contexts. Its inclusion suggests relevance but leaves out necessary background information.
 
-# Science (Old series)
+# Science (Old series) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **GLA6-R3**  
   This entry appears to represent a topic or anomaly discussed within the Science journal but lacks contextual details. The absence of further information prevents full appreciation of its significance.
 
 - **GLB1-R141**  
   An unspecified anomaly tied to scientific discussions or research, highlighting a potential observation or study. The lack of detail introduces uncertainty regarding its importance or conclusion.
 
-# Scientific American (Old series)
+# Scientific American (Old series) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **GLA13-R23**  
   Referenced without accompanying details, this anomaly likely points to a notable scientific claim or observation. Its lack of context may limit comprehension of its relevance.
 
 - **GLB1-R26**  
   This anomaly suggests a scientific principle or phenomenon under review but does not provide specifics. As such, it opens questions about the kinds of investigations or theories it relates to.
 
-# Scientific Study of Unidentified Flying Objects (book)
+# Scientific Study of Unidentified Flying Objects (book) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **GLD10-R9**  
   Within the context of studying unidentified flying objects, this anomaly implies a significant observation or report. Further detail could enhance understanding of its implications in the realm of ufology.
 
 - **GLB1-R11**  
   Another reference pointing to findings related to unidentified flying objects, this entry also lacks detailed descriptions. This brevity restricts the exploration of its thematic connections within the text.
 
-# Seismological Society of America, Bulletin
+# Seismological Society of America, Bulletin [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **GLD8-R8**  
   This anomaly likely references seismological data or studies without offering additional context. The significance of this entry is rendered vague due to the lack of elaboration.
 
 - **GLD8-R19**  
   Appearing as another mention in seismology, this reference again lacks important details for understanding. It hints at relevant data or findings in geological studies but remains conceivably ambiguous.
 
-# Society for Psychical Research, Journal
+# Society for Psychical Research, Journal [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **GLN1-R41**  
   This entry refers to topics perhaps related to psychical phenomena or research in that field. The absence of context prompts speculation regarding its importance or findings.
 
 - **GLN1-R37**  
   Similar to the previous anomaly, this mention lacks context. It suggests involvement in studies of psychical matters but does not explicate its relevance or conclusions within that discourse.
-# Anomalies List
+# Anomalies List [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **GLA23-R14**  
   This anomaly refers to a specific observation identified as GLA23-R14. It is associated with unexplained atmospheric phenomena that often require further investigation.
@@ -3292,7 +3042,7 @@ The light's erratic motion and use of a searchlight resemble reports of UFOs in 
 
 - **GLN2-R2**  
   With GLN2-R2, researchers face a data anomaly challenging standard practices. Clarifying this will enhance the overall reliability of the study.
-# Catalog of Anomalies
+# Catalog of Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cosmic rays**: Anomalies related to cosmic rays, specifically GLL16, suggest potential interactions with various atmospheric phenomena. These cosmic rays are fundamental to understanding high-energy particles and their sources in the universe.
 
@@ -3527,7 +3277,7 @@ The light's erratic motion and use of a searchlight resemble reports of UFOs in 
 - **Zodiacal light**: GLA1-X3 and GLA15-X5 reference this astronomical phenomenon that involves a faint glow along the ecliptic plane, providing insights into solar system dynamics. Zodiacal light is essential for understanding dust and light interactions in space.
 
 - **False dawn**: GLA25 highlights occurrences linked to atmospheric conditions creating pre-dawn light displays similar to dawn. This phenomenon challenges the understanding of the horizon and light dispersion.
-# ANOMALIES IN GEOLOGY: PHYSICAL, CHEMICAL, BIOLOGICAL
+# ANOMALIES IN GEOLOGY: PHYSICAL, CHEMICAL, BIOLOGICAL [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Biological-extinction events**  
   These events raise questions about the rate and causes of species disappearance. They challenge our understanding of biological resilience and the factors leading to mass extinctions.
@@ -3574,7 +3324,7 @@ The light's erratic motion and use of a searchlight resemble reports of UFOs in 
 - **Prismatic sandstone from Missouri**  
   The unique formations of prismatic sandstone capture interest due to their striking visual properties and origins. Studying them assists in unraveling the geological processes that shaped them.
 
-# NEGLECTED GEOLOGICAL ANOMALIES
+# NEGLECTED GEOLOGICAL ANOMALIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Concretions and geodes**  
   The formation processes of these structures are not fully understood, posing questions about mineral deposition. Their diversity can provide insights into geological environments.

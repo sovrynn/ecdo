@@ -1,979 +1,493 @@
 # GPT Summary: Table of Contents
 
 - [SCIENTIFIC ANOMALIES AND OTHER PROVOCATIVE PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#scientific-anomalies-and-other-provocative-phenomena)
-Various scientific paradigms, including the expanding universe, the Big Bang origin, Neo-Darwinism, genomes as complete blueprints, plate tectonics, and Einstein's relativity theories, face anomalies that challenge their completeness and suggest the need for further refinement or new understandings.
 - [Conjunctions that Influenced Human History](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#conjunctions-that-influenced-human-history)
-The suggestion of a "missing" planet in the solar system, based on the orbital period ratios of Jupiter and Saturn, highlights an astronomical anomaly noted in the Sky & Telescope publication.
 - [Orbital Anomalies of Comets](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#orbital-anomalies-of-comets)
-Observations of comets reveal various anomalies including nonrandom approaches to the Sun, nearly critical velocities, distinct behaviors of sun-grazing comets, changing orbital periods, peculiarities in Jupiter's family of comets, an excess of retrograde long-period comets, and the recognition of the Trans-Neptune region as an additional source of comets, challenging current astronomical models and understanding.
 - [Anomalies in the Earth’s Rotation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-in-the-earths-rotation)
-The potential of the Trans-Neptune region as a comet source challenges earlier assumptions about comet origins, while the Chandler Wobble indicates unexplained variations in Earth's axial movement, highlighting anomalies in our understanding of both solar system formation and Earth’s rotation.
 - [Mercury's Orbital and Spin Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#mercurys-orbital-and-spin-anomalies)
-The origin of Earth's spin is still not fully understood, while Mercury's high orbital eccentricity and inclination suggest it has undergone significant past encounters or captures that shaped its evolution.
 - [Jovian Orbital Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#jovian-orbital-anomalies)
-The text discusses the orbital instability of Mercury, which could lead to its ejection from the solar system, and the cyclic disturbances in Jupiter's orbit that occur every 12.4 years, highlighting complexities in planetary dynamics.
 - [Anomalous Telescopic and Visual Observations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalous-telescopic-and-visual-observations)
-Jupiter exhibits ongoing geological activity indicated by its internal heat and shows variable atmospheric phenomena, such as the Great Red Spot, challenging our understanding of giant planet dynamics.
 - [LUNAR ANOMALIES GEOLOGY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#lunar-anomalies-geology)
-The Moon exhibits a variety of anomalies, including geological asymmetries, peculiar surface features, and unexpected compositional differences, which challenge current understandings of its formation and history.
 - [CHEMICAL ANOMALIES AND THEORIES OF LUNAR ORIGIN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#chemical-anomalies-and-theories-of-lunar-origin)
-Recent observations reveal that the Moon's geological activity, thicker crust on the far side, possibly molten interior, and chemical anomalies challenge existing theories about its formation and ongoing evolution.
 - [ANOMALOUS TELESCOPIC AND VISUAL OBSERVATIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalous-telescopic-and-visual-observations)
-Various transient and anomalous observations on the Moon, including luminescence, meteor impacts, and optical phenomena, continue to challenge and expand our understanding of lunar dynamics and surface activities.
 - [ANOMALOUS ION CLOUDS DETECTED ON THE LUNAR SURFACE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalous-ion-clouds-detected-on-the-lunar-surface)
-The historical concept of a second, non-reflective moon and the unusual brightness of some full moons highlight the complexities and variables involved in celestial observations.
 - [NEPTUNE'S ANOMALOUS MAGNETIC FIELD](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#neptunes-anomalous-magnetic-field)
-Potential artificial formations, vegetation-like features, and anomalous ion clouds detected on the lunar surface challenge current understanding and suggest the need for further investigation into the moon's characteristics.
 - [Halo](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#halo)
-The text explores various astronomical anomalies, ranging from lunar atmospheric phenomena and Neptune's magnetic field to mysterious stellar behaviors and galactic structures, highlighting the complexity and ongoing mysteries in astrophysics.
 - [SATURN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#saturn)
-Galactic structures, such as the North Polar Radio Spur and Bok Globules, along with phenomena like the triangular appearance of stars and jets from young stars, continue to offer complex puzzles that deepen our exploration of cosmic dynamics and stellar formation.
 - [THE SUN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-sun)
-Insights into star formation are provided by jets from newborn stars, while Saturn's intrinsic radiation and its anomalous rings continue to puzzle scientists and challenge current models.
 - [Anomalies in Eclipses on Atomic Clocks](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-in-eclipses-on-atomic-clocks)
-The Sun moves through the Milky Way galaxy, completing an orbit approximately every 225 to 250 million years.
 - [Solar and Interplanetary Magnetic-Field Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#solar-and-interplanetary-magnetic-field-anomalies)
-The Sun's unique orbital characteristics, radiation fluctuations, and visual anomalies challenge our understanding of its dynamics and raise questions about solar system formation and solar processes.
 - [Cosmic Anomalies Detected Through Radiation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#cosmic-anomalies-detected-through-radiation)
-Unusual occurrences during solar eclipses, such as the disappearance of the white light corona, continue to prompt examinations of their effects on terrestrial phenomena and solar-terrestrial relations.
 - [Uranian Magnetic Field Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#uranian-magnetic-field-anomalies)
-The interplanetary magnetic field experiences sudden, unexplained enhancements, and there appears to be an absence of a distinct south magnetic pole in the Sun, challenging current solar dynamics theories.
 - [Venusian Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#venusian-anomalies)
-The absence of a discernible south solar magnetic pole and the notable lack of antimatter in the observable universe challenge existing models of solar magnetism and matter-antimatter asymmetry, respectively, prompting a reevaluation of cosmic phenomena.
 - [Galaxy Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#galaxy-anomalies)
-An unprecedented increase in cosmic-ray intensity reported in 1942 presents significant challenges for detection and modeling, while the anomalous inclination of Uranus's axis adds complexity to understanding Uranian magnetic field anomalies. 
 
-(Note: The provided text seems to be two separate points. I combined them into one sentence as requested.)
 - [Origin and Persistence of Double Radio Sources](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#origin-and-persistence-of-double-radio-sources)
-The text explores various anomalies in the solar system and beyond, including Uranus's tilted axis and magnetic field, Venus's weak magnetic field and peculiar behavior during lunar eclipses, and cosmic mysteries like galactic clusters, dark matter, and unique galaxy formations, challenging current scientific understanding.
 - [GALACTIC MAGNETIC FIELDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#galactic-magnetic-fields)
-Recent astronomical observations challenge existing theories by revealing unexpected phenomena such as the ejection of quasars, gas in elliptical galaxies, counter-rotating spiral arms, early-forming spirals, whole-galaxy oscillations, string-shaped galaxies, and dark, massive objects in galactic nuclei.
 - [AX PLANET X](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#ax-planet-x)
-Recent astronomical observations, including quasar-like activities at the edges of radio galaxies, a shortage of dwarf galaxies, and the presence of central filaments in galaxies, suggest complexities in galaxy interactions, formations, and structures that challenge current models and could lead to significant advancements in our understanding of cosmic evolution.
 - [AY METEORS AND METEORITES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#ay-meteors-and-meteorites)
-Spiral galaxy bulges, galactic magnetic fields, and potential hidden celestial bodies like Planet X present intriguing mysteries that challenge our understanding of cosmic mechanics and galactic evolution.
 - [ANOMALIES IN METEORITE COMPOSITION AND STRUCTURE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-in-meteorite-composition-and-structure)
-Modern infrared and radio observations continue to refine the search for Planet X, while anomalies in meteor and meteorite behaviors, including unexpected compositions, flight patterns, and sizes, challenge existing models of atmospheric and celestial phenomena.
 - [ENIGMAS POSED BY METEORS IN FLIGHT](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#enigmas-posed-by-meteors-in-flight)
-The study of meteorites reveals a variety of anomalies, including isotopic and chemical peculiarities, organic compounds suggesting extraterrestrial life, and magnetic properties that challenge current theories, highlighting the need for continued exploration into cosmic phenomena.
 - [AZ THE ZODIACAL LIGHT](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#az-the-zodiacal-light)
-The study of meteors presents numerous enigmas, from the scarcity of meteorite samples in terrestrial sediments to erratic flight patterns, anomalous craters, in-flight collisions, and unusual atmospheric interactions, all of which challenge and refine our understanding of meteor behavior and atmospheric dynamics.
 - [Anomalies in Evolution](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-in-evolution)
-The text explores various anomalies and lesser-known aspects of zodiacal light and evolutionary adaptations, highlighting the complexities and mysteries in celestial observations and biological diversifications.
 - [olymorphic Sperm](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#olymorphic-sperm)
-Insects employ advanced defense mechanisms such as emitting clicks to jam bat sonar and utilizing infrared vision to detect forest fires for prey location, showcasing their sophisticated sensory adaptations.
 - [Female Selection of Sperm](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#female-selection-of-sperm)
-From vampire moths feeding on mammalian blood to spiders engaging in matriphagy and queen murder among social insects, these unusual behaviors highlight the extreme survival strategies employed by various species.
 - [Male Pierces Special Spot on Female Abdomen](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#male-pierces-special-spot-on-female-abdomen)
-Spiny lobsters exhibit strange collective behavior by forming defensive trains during migration, showcasing complex social interactions among arthropods.
 - [Rabbit Fleas Produce Fertile Eggs Only When Feeding on Pregnant Rabbit](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#rabbit-fleas-produce-fertile-eggs-only-when-feeding-on-pregnant-rabbit)
-Monarch butterflies demonstrate sophisticated migratory behavior through their long-distance migrations that span multiple generations.
 - [Mites Hatch Inside Mother](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#mites-hatch-inside-mother)
-Crickets exhibit vocal synchrony, showcasing unified collective behaviors over large areas through their communication.
 - [Tse-tse Flies Born Alive in a Hull Half the Size of Female](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#tse-tse-flies-born-alive-in-a-hull-half-the-size-of-female)
-Ant-lion larvae exhibit digging activities that correlate with lunar phases, indicating a connection between insect behaviors and environmental cycles.
 - [Some Insects Can Switch to Parthenogenesis](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#some-insects-can-switch-to-parthenogenesis)
-Eusocial arthropods exemplify the concept of super-organisms through their intricate cooperative behaviors and complex social structures that span vast geographical areas, showcasing the potency of collective action.
 - [Succoring of Young](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#succoring-of-young)
-From underground mosquitoes to nerve gas-wielding ants, these examples illustrate the remarkable adaptability and complex survival strategies of insects, highlighting their use of chemistry and environment in unique ways.
 - [Complexity of Metamorphosis](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#complexity-of-metamorphosis)
-The evolution of spider silk and spinnarets prior to the emergence of insects showcases instances of preadaptation in arthropods, challenging linear views of evolutionary progression.
 - [Puzzles of Periodical Cicadas](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#puzzles-of-periodical-cicadas)
-Arthropod species exhibit varying evolutionary patterns, from remarkable stasis in creatures like horseshoe crabs to dynamic sperm polymorphisms influencing reproductive strategies and female selection mechanisms in insects.
 - [Ability to Survive Near-Complete Dehydration](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#ability-to-survive-near-complete-dehydration)
-Males pierce a specific spot on the female abdomen to introduce sperm directly into her body fluids, aiding in sperm transport to the eggs, and this behavior can also occur during homosexual interactions.
 - [Ability to Survive Complete Loss of Oxygen for Years](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#ability-to-survive-complete-loss-of-oxygen-for-years)
-Rabbit fleas can only produce fertile eggs when feeding on pregnant rabbits.
 - [Ability to Survive Freezing Temperatures by Synthesizing Antifreeze](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#ability-to-survive-freezing-temperatures-by-synthesizing-antifreeze)
-Fleas ensure their newly hatched offspring have immediate access to a suitable host, such as baby rabbits, though the exact mechanism by which they detect their host's pregnancy remains unknown.
 - [The Only Sweating Insect](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-only-sweating-insect)
-Male mites are born in low numbers among many sisters, fertilize all their sisters during their lifespan, showcasing an unusual life cycle with significant parental investment.
 - [Nonbreeding Insects Live Longer](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#nonbreeding-insects-live-longer)
-Tse-tse flies are uniquely born alive from a uterus-like structure in their mother's body, which is notably half the size of the female fly.
 - [Death Rates Increase with Age](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#death-rates-increase-with-age)
-The unique birthing process of tse-tse flies, which involves their infants burrowing into the ground for development in a protected environment, may be an evolutionary adaptation to improve survival rates.
 - [Lifespan Doubled by "Slightly" Disabling a Gene](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#lifespan-doubled-by-slightly-disabling-a-gene)
-Some female insects have the rare ability to reproduce without males through parthenogenesis, allowing them to take advantage of available resources when male encounters are scarce.
 - [Evolutionary Paradox: Natural Selection Should Increase Longevity But It Does Not](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#evolutionary-paradox-natural-selection-should-increase-longevity-but-it-does-not)
-The succoring of young refers to the act of assisting or providing aid and support to children or younger individuals as they grow and develop.
 - [Electrical Charges on Bees and Beehives Varies in Circadian and Annual Cycles](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#electrical-charges-on-bees-and-beehives-varies-in-circadian-and-annual-cycles)
-Mason bees provide "bee-bread" to their offspring, highlighting a sophisticated parental care system that underscores the significance of proper nutrition during early development.
 - [Insect Vampirism](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#insect-vampirism)
-Cockroaches display nurturing behaviors towards their young through "suckling," highlighting the complexity and diversity of parental investment strategies in insects.
 - [Claim that Crab Metabolism Is Correlated with Cosmic-Ray Intensity](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#claim-that-crab-metabolism-is-correlated-with-cosmic-ray-intensity)
-Many arthropods exhibit active defense mechanisms to protect their young or eggs, highlighting the evolutionary importance of parental care in increasing the survival rate of their offspring.
 - [Spawning Correlated with Full and New Moons](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#spawning-correlated-with-full-and-new-moons)
-The opossum shrimp's brood pouch is an evolutionary adaptation that protects its young during early development, thereby minimizing predation risks.
 - [Larval Transformation Triggered by Full and New Moons](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#larval-transformation-triggered-by-full-and-new-moons)
-Insect metamorphosis showcases a complex evolutionary strategy through its three radically transformative stages—larval, pupal, and adult—each exhibiting distinct characteristics crucial for survival and adaptation.
 - [Ant Lions Have No Anus](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#ant-lions-have-no-anus)
-Periodical cicadas present intriguing puzzles in their precise synchronization of life cycles that span either 13 or 17 years, baffling scientists with the evolutionary advantages and mechanisms behind such periodic emergences.
 - [Krill Can Molt "Backwards”](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#krill-can-molt-backwards)
-The long 13- and 17-year life cycles of cicadas pose an intriguing biological mystery, highlighting questions about genetic regulation of their life spans.
 - [Recapitulation Does Not Occur in Insect Embryos](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#recapitulation-does-not-occur-in-insect-embryos)
-The genetic evidence suggesting that 13-year cicada broods are a mutation of 17-year cicadas reveals a nuanced evolutionary relationship within cicada populations.
 - [Soldier-Production Increases When Ant Colony Threatened](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#soldier-production-increases-when-ant-colony-threatened)
-Brief life cycle shifts observed in 17-year cicada broods indicate their adaptability and highlight how environmental factors influence their reproductive strategies.
 - [Lack of Cilia](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#lack-of-cilia)
-The rare occurrence of one-year decelerations in life cycles prompts questions about their evolutionary benefits and suggests that fluctuating ecological pressures may influence population dynamics.
 - [Promiscuous Insects Evolve Faster](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#promiscuous-insects-evolve-faster)
-The evolution of long cycles in cicadas from annual patterns highlights adaptive traits that enhance competitive edge and survival, revealing intriguing evolutionary stories.
 - [Insect Globin Genes Lack Introns](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#insect-globin-genes-lack-introns)
-The discovery of an 11-year brood in Arizona insects highlights unique evolutionary adaptations and intriguing ecological patterns associated with prime-numbered life cycles.
 - [Unusually High Frequency of Fertile Hybrids and Cross-Species Gene Flow](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusually-high-frequency-of-fertile-hybrids-and-cross-species-gene-flow)
-Tardigrades and chironomid flies demonstrate exceptional survival skills by withstanding near-complete dehydration, showcasing evolutionary adaptations to harsh environments.
 - [Extravagant Morphological Traits](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#extravagant-morphological-traits)
-Certain organisms possess the remarkable ability to survive a complete loss of oxygen for years by entering a state of suspended animation.
 - [Presence of An Extra Chromosome That Destroys Paternal Chromosomes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#presence-of-an-extra-chromosome-that-destroys-paternal-chromosomes)
-Brine shrimp can survive for years without oxygen, hinting at unique metabolic processes and evolutionary adaptations in aquatic life.
 - [Insects with Few Chromosomes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#insects-with-few-chromosomes)
-Certain species can survive freezing temperatures by synthesizing antifreeze proteins, while an exceptional insect stands out as the only sweating insect, highlighting unique adaptations in nature.
 - [Butterfly Wing Patterns Are Varied by Genes That Served Other Purposes during Development](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#butterfly-wing-patterns-are-varied-by-genes-that-served-other-purposes-during-development)
-Desert-dwelling cicadas possess a unique sweating capability that aids in thermoregulation and survival, highlighting how environmental pressures shape physiological traits.
 - [At Least Seventeen Species of Insects Defeat All Insecticides](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#at-least-seventeen-species-of-insects-defeat-all-insecticides)
-Nonbreeding Drosophila exhibit longer lifespans, indicating that reproductive activities may influence the aging process in different species.
 - [In Social Insects, Queens Are Isolated from Environmental and Other Influences](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#in-social-insects-queens-are-isolated-from-environmental-and-other-influences)
-Death rates rise as individuals get older.
 - [Internal Structures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#internal-structures)
-Studies in ants and fruit flies show that aging increases mortality risk, while genetic modifications in Drosophila have doubled lifespans, highlighting the complex interplay of genetics and environment in aging processes across species.
 - [Arthropod Organs](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#arthropod-organs)
-Insect vampirism in Adetomyrme colonies, speculative links between crab metabolism and cosmic rays, and lunar phase influences on spawning in crustaceans highlight diverse survival and reproductive strategies in wildlife.
 - [Some Insects Are Eyeless](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#some-insects-are-eyeless)
-Certain species undergo larval transformations that are synchronized with the phases of the moon, highlighting the influence of lunar cycles on biological development.
 - [Some Insects, Especially Bees, Can See into the Ultraviolet](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#some-insects-especially-bees-can-see-into-the-ultraviolet)
-Ant lions, despite their name, lack an anus and thus expel waste matter only while molting.
 - [Mantis Shrimp Eyes Possess 16 Visual Pigments](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#mantis-shrimp-eyes-possess-16-visual-pigments)
-Ant lions have evolved to rely solely on liquefied food sources, showcasing a distinctive digestive adaptation that optimizes their predatory lifestyle.
 - [Unique Sense Organs Permit Detection of Infrared Signals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unique-sense-organs-permit-detection-of-infrared-signals)
-Krill possess the remarkable ability to revert to juvenile stages through a reverse molting process, offering insights into developmental biology and adaptive responses to environmental shifts.
 - [Eye Sensitivity Follows Circadian Rhythm in Some Species](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#eye-sensitivity-follows-circadian-rhythm-in-some-species)
-Insect embryos do not undergo recapitulation during their development.
 - [Shrimp with Two Infrared-Sensitive Organs on Back](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#shrimp-with-two-infrared-sensitive-organs-on-back)
-Insect embryos differ from mammalian embryos by lacking recapitulation, which challenges current evolutionary theories and prompts a reevaluation of developmental constraints across different taxa.
 - [Crustaceans with Usual Facet-Type Eyes Plus A Giant Facet on Back](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#crustaceans-with-usual-facet-type-eyes-plus-a-giant-facet-on-back)
-Ant colonies increase soldier production as a strategic response to threats, highlighting the intricate dynamics of resource allocation within their social structures.
 - [Eyes Sensitive to Polarization of Sunlight](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#eyes-sensitive-to-polarization-of-sunlight)
-The absence of cilia can significantly impair cellular functions, including movement and sensory perception, affecting organisms at both the individual cell and whole-body level.
 - [Some Female Insects' Eyes Are Infrared-Sensitive](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#some-female-insects-eyes-are-infrared-sensitive)
-The absence of cilia in species like spiders and nematodes suggests unique evolutionary adaptations and raises questions about their developmental pathways.
 - [Insect Genital Organs Are Extraordinarily Complex and Bizarre](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#insect-genital-organs-are-extraordinarily-complex-and-bizarre)
-Insect species that engage in promiscuous mating with multiple partners may experience accelerated evolutionary changes, enhancing genetic diversity and adaptive potential.
 - [Some Bees Have Helical Photo-receptors](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#some-bees-have-helical-photo-receptors)
-Insect globin genes are characterized by the absence of introns.
 - [Honeybees Can Be Fooled by Optical Illusions](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#honeybees-can-be-fooled-by-optical-illusions)
-The absence of introns in insect globin genes, unlike in other animals, offers unique genomic insights and indicates distinct evolutionary pressures on genetic architecture.
 - [Genital "Eyes"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#genital-eyes)
-Flexible reproductive barriers in certain butterfly species, evidenced by unusually high frequencies of fertile hybrids and cross-species gene flow, offer insights into speciation processes.
 - [Some Insects Possess Additional 3 Frontal, Single-Lens Eyes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#some-insects-possess-additional-3-frontal-single-lens-eyes)
-Extravagant morphological traits refer to notably elaborate physical characteristics in organisms that often serve specific evolutionary advantages, such as attracting mates or deterring predators.
 - [Male Parasitic Insect Has about 1000 "Eyelets"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#male-parasitic-insect-has-about-1000-eyelets)
-The influence of "selfish" genes on morphological traits challenges traditional views of natural selection and sexual dimorphism in evolutionary biology.
 - [Some Crustaceans Have "Mirror" Eyes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#some-crustaceans-have-mirror-eyes)
-The wasp Nasonia vitripennis exhibits a perplexing genetic anomaly where the presence of an extra chromosome destroys paternal chromosomes, raising questions about its impact on reproduction and genetic stability.
 - [Eyes with Combination Lens and Mirror](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#eyes-with-combination-lens-and-mirror)
-This section discusses insects that possess a notably low number of chromosomes, highlighting their genetic simplicity compared to other species.
 - [Insects with Bat-Sonar Detectors](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#insects-with-bat-sonar-detectors)
-The ant species Myrmecia pilosula exhibits an exceptionally low chromosome number, challenging traditional views on genetic complexity and stability in insects.
 - [Unique, Hyperacute Directional Hearing Organs](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unique-hyperacute-directional-hearing-organs)
-The existence of insects, such as the false spider mite, with only a single chromosome offers unique insights into genome evolution and biological diversity.
 - [Some Caterpillars Possess Lungs](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#some-caterpillars-possess-lungs)
-Butterfly wing patterns, influenced by genes that serve different functions during development, showcase the intricate mechanisms of genetic regulation and adaptation, prompting intriguing evolutionary questions.
 - [Some Insects Dwelling Underwater Possess Tracheal Gills](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#some-insects-dwelling-underwater-possess-tracheal-gills)
-At least seventeen insect species have developed resistance to all insecticides.
 - [Claim That Some Crustaceans Have Electric Organs](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#claim-that-some-crustaceans-have-electric-organs)
-The remarkable resistance of insects to chemical controls highlights their extraordinary adaptive mechanisms, which can inform more effective pest management strategies.
 - [Unusual Capabilities of Arthropods](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-capabilities-of-arthropods)
-This text explores various intriguing aspects of arthropod biology, including the isolated lifestyle of social insect queens, the presence of magnetite in species like honeybees, lunar-aligned circadian rhythms in some arthropods, the mystery of collective immunity transfer in social insects, similarities in body plans between arthropods and vertebrates, punctual foraging behaviors, and the complexity and early appearance of arthropod eyes.
 - [Controversial Origins of Insect Wings and Power of Flight](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#controversial-origins-of-insect-wings-and-power-of-flight)
-Arthropods exhibit diverse visual adaptations, from the apposition and superposition eyes in insects and crustaceans to the infrared detection in beetles and the 16 visual pigments in mantis shrimp eyes, highlighting the range of evolutionary responses to environmental stimuli.
 - [Some Interesting Examples of Arthropod Acoustical Communication](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#some-interesting-examples-of-arthropod-acoustical-communication)
-Circadian rhythms influence eye sensitivity in some species, vent shrimp have evolved to possess infrared-sensitive organs, and certain crustaceans exhibit convergent evolution with giant facets offering advanced vision, highlighting diverse adaptations in marine life.
 - [Existence of Elaborate Distributed Communication Networks](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#existence-of-elaborate-distributed-communication-networks)
-The sensitivity of bees, Drassodes cupreus, and some female insects' eyes to polarization and infrared light respectively, aids in navigation and mate selection, highlighting adaptations in sensory biology.
 - [Arthropod Use of Tools](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#arthropod-use-of-tools)
-Insects exhibit remarkable adaptations ranging from complex genital organs that aid species identification to helical photoreceptors in bees that enhance color perception, while also displaying cognitive quirks like being susceptible to optical illusions, showcasing the sophistication and intricacies of their evolutionary developments.
 - [Unusual Arthropod Structures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-arthropod-structures)
-Various arthropods exhibit unique visual adaptations such as rear-mounted photoreceptors in butterflies, frontal single-lens eyes in some insects, numerous eyelets in male parasitic insects, and mirror eyes in certain crustaceans, highlighting the diverse evolutionary paths of sensory systems.
 - [Fungal Gardens](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#fungal-gardens)
-A combination lens and mirror system designed for eyes enhances visual clarity by integrating both refractive and reflective optical technologies.
 - [Ability to Tunnel through Metal](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#ability-to-tunnel-through-metal)
-The complex evolutionary adaptations seen in species like Macropipus, which feature both lens and mirror structures in their eyes, offer insights into the development of visual systems in arthropods.
 - [Construction of Fog-Catchment Trenches in Desert](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#construction-of-fog-catchment-trenches-in-desert)
-Nocturnal insects such as specific moths and butterflies have developed bat-sonar detecting abilities, showcasing adaptive survival strategies in response to ecological challenges.
 - [Construction of Bridges from Surrounding Materials to Reach Food](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#construction-of-bridges-from-surrounding-materials-to-reach-food)
-This text discusses specialized hearing organs that provide unique and highly acute directional hearing capabilities.
 - ["Decorated" Spider Webs](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#decorated-spider-webs)
-Hyperacute hearing in organisms such as Ormia ochracea and Gryllus bimaculatus demonstrates remarkable evolutionary adaptations for predator evasion, highlighting the complexities of auditory evolution within particular ecological settings.
 - [Construction of Underwater Nets to Trap Prey](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#construction-of-underwater-nets-to-trap-prey)
-Some caterpillars have evolved lung-like structures, showcasing the diverse respiratory adaptations within insects.
 - [Construction of Silken Rafts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#construction-of-silken-rafts)
-Certain insects that live underwater have evolved tracheal gills to extract oxygen from water.
 - [Ability to Generate Sounds Powerful Enough to Stun or Kill Prey](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#ability-to-generate-sounds-powerful-enough-to-stun-or-kill-prey)
-Underwater insects have evolved tracheal gills to efficiently extract oxygen from water, showcasing the intricate adaptations of life in varied ecosystems.
 - [Acoustic Jamming of Bat Radar](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#acoustic-jamming-of-bat-radar)
-Recent findings confirm the presence of electric organs in some crustaceans, though their exact functions are still under investigation, potentially revealing new insights into ecological adaptations.
 - ["Singing" Ants](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#singing-ants)
-Arthropods possess a variety of unusual capabilities, including the ability to regenerate limbs and see in multiple directions due to their complex exoskeleton structures and segmented bodies.
 - [Sensitivity to Electric Fields](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#sensitivity-to-electric-fields)
-Insects including bees, termites, and butterflies possess a mysterious ability to sense magnetic fields, offering intriguing insights into their navigational capabilities.
 - [Claim That Some Insects Produce Effect Similar to Electric Shock](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#claim-that-some-insects-produce-effect-similar-to-electric-shock)
-The sensitivity of ants like Formica integra to gamma rays indicates potential significant biological and ecological implications in their environmental interactions.
 - [Ability to Interpret Weak Acoustic Signals in a Noisy Environment Using Stochastic Resonance](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#ability-to-interpret-weak-acoustic-signals-in-a-noisy-environment-using-stochastic-resonance)
-Honeybees exhibit a sophisticated kin-recognition sense within their colonies, indicating complex social structures through intricate chemical signaling and scent recognition.
 - [Apparent Mysterious Transfer of Huge, Helpless Ant Queen to New Cell](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#apparent-mysterious-transfer-of-huge-helpless-ant-queen-to-new-cell)
-Mites exhibit anticipatory adaptations by moving to new bird feathers preemptively, showcasing an intricate ecological relationship with their hosts.
 - [Survival of Huge Doses of Nuclear Radiation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#survival-of-huge-doses-of-nuclear-radiation)
-Ichneumon flies demonstrate an uncanny ability to locate and lay their eggs on prey deep inside trees, showcasing remarkable adaptations for enhancing offspring survival that warrant further study.
 - [Unusual Interfaces Between Arthropods and Other Species](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-interfaces-between-arthropods-and-other-species)
-The remarkable homing abilities of far-foraging arthropods like ants, honeybees, and spiny lobsters, as well as the precise migratory feats of monarch butterflies returning to specific Mexican trees, highlight sophisticated navigational skills and adaptive environmental cue utilization.
 - [Other Mammals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#other-mammals)
-Cabbage butterflies migrating southward in Florida during spring and deep-sea-vent crustaceans appearing at newly opened vents highlight intriguing ecological adaptations and dispersal capabilities in nature.
 - [Birds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#birds)
-The varied structures of insect wings suggest multiple evolutionary paths to achieving powered flight, highlighting complex evolutionary pressures.
 - [Hearing](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#hearing)
-Experts claim that insect flight defies conventional aerodynamic principles, challenging current models and inviting further investigation into the mechanics of their flight.
 - [Antbutterflies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#antbutterflies)
-The sudden appearance of well-developed flight capabilities in insects within the fossil record challenges evolutionary theories and offers insights into broader evolutionary trends.
 - [Mites and Drosophila](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#mites-and-drosophila)
-Some insects like midges exhibit remarkably rapid wing beats that highlight their specialized adaptations for sound production and maneuverability, illustrating the complexities of insect locomotion.
 - [Cuckoo Bees and Red-Tailed Bumblebees](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#cuckoo-bees-and-red-tailed-bumblebees)
-Crustaceans with fan-shaped legs exhibit adaptations that resemble flight mechanisms, showcasing an intriguing evolutionary convergence in locomotion.
 - [Parasitic Wasps and Many Insects](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#parasitic-wasps-and-many-insects)
-The vast array of communication chemicals synthesized by insects offers fascinating insights into their evolutionary history and could enhance our understanding of insect behavior and ecology.
 - [Deaths-Head Hawkmoth and Honeybees](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#deaths-head-hawkmoth-and-honeybees)
-The debate over the cognitive abilities of bees in developing dance languages challenges our understanding of their complexity in communication and highlights the intersection of cognition and behavior in social insects.
 - [Plants and Fungi](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#plants-and-fungi)
-The dance patterns of certain bee drones remain enigmatic, suggesting untapped insights into their social and ecological roles that merit further investigation.
 - [Wasps and Figs](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#wasps-and-figs)
-The integration of acoustical and vibrational signals with honeybee dances adds complexity to their communication, potentially enhancing social cohesion within colonies.
 - [Moths and Yucca](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#moths-and-yucca)
-Unpalatable moths emit acoustical warnings to deter bats, showcasing an evolutionary auditory defense mechanism.
 - [Ants and Trees](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#ants-and-trees)
-Ants utilize sound to transmit high-priority signals across their colonies, highlighting the sophisticated social communication and organizational complexity within these insect societies.
 - [Barnacles and Bryzoans](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#barnacles-and-bryzoans)
-Butterfly caterpillars employ acoustical and vibrational signals to attract ants as protective guardians, showcasing an adaptive interspecies symbiotic relationship.
 - [Crabs and Sea Anemones](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#crabs-and-sea-anemones)
-Hooktip-moth caterpillars and other insects use sounds to mark their territorial boundaries, highlighting the role of auditory communication in insect social dynamics and resource control.
 - [Copepods and Salps](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#copepods-and-salps)
-Water striders employ a unique method of communication through wavelet vibrations on the water's surface, showcasing the diverse sensory adaptations of aquatic arthropods.
 - [Bacteria and Fungus-Growing Ants](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#bacteria-and-fungus-growing-ants)
-Elaborate distributed communication networks exist, facilitating complex interactions and information exchange across various nodes.
 - [Protist (Mixotricha paradoxa)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#protist-mixotricha-paradoxa)
-Foraging ants utilize sophisticated communication networks to immediately and coordinately respond to food discoveries, optimizing resource exploitation within their colonies.
 - [Bacterium (Wolbachia)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#bacterium-wolbachia)
-Observations at honey-feeding stations indicate that butterflies engage in complex communications, showcasing social interactions that go beyond mating and highlighting the intricacies of their ecological relationships.
 - [Sea Snails and Amphipods](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#sea-snails-and-amphipods)
-Termites use acoustic signals to communicate with each other while consuming wood, offering insights into their social and cooperative behaviors.
 - [Other Arthropods](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#other-arthropods)
-Ant lions utilize grains of sand as tools to enhance their predatory success against captive ants, showcasing the adaptive hunting strategies and cognitive evolution in arthropods.
 - [Sheep-Liver Trematode](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#sheep-liver-trematode)
-Weaver ants utilize their silk-producing larvae to stitch leaves together for their nests, showcasing sophisticated behavioral adaptations and cooperative social structures.
 - [Birds and Evolution](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#birds-and-evolution)
-Myrmicina ants exhibit an innovative foraging strategy by using pieces of leaves to transport soft food back to their nests, highlighting their adaptability in resource utilization.
 - [Anomalies and Curiosities in the Avian World](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-and-curiosities-in-the-avian-world)
-Ants exhibit resourceful foraging by transporting prey body fluids to their nests using naturally spongy material, offering insights into ecological interactions.
 - [External Appearance and Morphology](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#external-appearance-and-morphology)
-Digger wasps utilize small stones to tamp and fortify the earthen entrances of their burrows, showcasing their ability to use tools and manipulate their environment.
 - [Remarkable External Asymmetries](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#remarkable-external-asymmetries)
-This section explores unique structural adaptations in arthropods that distinguish them in the realm of biology.
 - [Left Ovaries Only](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#left-ovaries-only)
-Termite mounds are giant, air-conditioned structures oriented to minimize solar heating, showcasing an intelligent approach to thermoregulation that highlights ecological engineering across species.
 - [Owl Ear Tufts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#owl-ear-tufts)
-Australian Spinifex ants build protective shelters for "domesticated" insects and paralyzed prey, highlighting complex interdependent relationships and mutualism among species.
 - [Bright Plumage Correlated with Parasite Control](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#bright-plumage-correlated-with-parasite-control)
-The mysterious presence of ilmenite crystals on hornet-comb cells offers intriguing insights into the evolutionary significance and architectural capabilities of insects.
 - [Peacock's Tail](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#peacocks-tail)
-The intricate sea-floor tunnels constructed by shrimp like Callianassa truncata showcase sophisticated burrowing behaviors and provide insights into the ecosystem interactions beneath the ocean floor.
 - [Plumage Polymorphism](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#plumage-polymorphism)
-The kilometer-long ridges created by African termites highlight their substantial environmental impact and raise questions about their ecological effects on the landscape.
 - [Feathers Complexity](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#feathers-complexity)
-The intricate mutualistic relationship between leaf-cutter ants, some termites, and their fungal gardens exemplifies a remarkable evolutionary adaptation, providing valuable insights into complex ecological dynamics.
 - [Albinism](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#albinism)
-The ability to tunnel through metal refers to a phenomenon or skill where an entity can pass through metallic objects without causing damage to itself or the metal.
 - [Silent Feathers](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#silent-feathers)
-The metal-tunneling ability of wasps such as Silex gigas highlights their remarkable adaptability and offers insights into the physical limits of arthropods.
 - [Neoteny in Feathers](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#neoteny-in-feathers)
-Desert beetles like Lepidochora build trenches to efficiently capture fog water, showcasing evolutionary adaptations for survival in dry climates.
 - [Handedness in Birds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#handedness-in-birds)
-Creatures construct bridges using materials from their surroundings to access food sources.
 - [Curious Unexplained Automatisms](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#curious-unexplained-automatisms)
-The bridge-building behavior of ants, such as Formica rubra, demonstrates their sophisticated social organization and problem-solving skills in adapting to environmental challenges.
 - [Anomalies in Avian Behavior and Biology](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-in-avian-behavior-and-biology)
-This text explores various fascinating adaptations and behaviors in arthropods, highlighting their evolutionary strategies in predation, communication, and survival across diverse environments.
 - [Ramparts for Wind Protection (e.g.; Bar-tailed Larks)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#ramparts-for-wind-protection-eg-bar-tailed-larks)
-Various species exhibit unique parasitic behaviors, including cuckoo bees invading bumblebee nests, parasitic wasps utilizing hosts for larval nourishment, deaths-head hawkmoths exploiting honeybees for food, and complex relationships between plants and fungi.
 - [Communication between Chick Embryos](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#communication-between-chick-embryos)
-Moths and yucca have a mutually dependent relationship where the yucca moth pollinates the yucca plant and lays its eggs in its flowers, illustrating a classic example of co-evolution between an insect and a flowering plant.
 - [Songs of Darwin's Finches](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#songs-of-darwins-finches)
-The specialized symbiotic relationship between moths and yucca plants involves moths pollinating the plants while the plants nourish moth larvae, showcasing the intricate adaptations in nature for mutual advantage.
 - [Buried Food Detected by Back-Pressures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#buried-food-detected-by-back-pressures)
-Ants and trees engage in a mutually beneficial relationship where trees provide food to ants, which in turn protect the trees, highlighting the advantages and evolutionary strategies of mutualism in ecosystems.
 - ["Wing-Singing"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#wing-singing)
-Barnacles and bryozoans engage in an unusual symbiotic relationship where the hard-shelled barnacle offers camouflage, while the soft-bodied bryozoan stays above the ocean bed, showcasing the diverse evolutionary adaptations in marine life.
 - [Vocal Beat Phenomenon](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#vocal-beat-phenomenon)
-Crabs and sea anemones engage in a mutualistic relationship where crabs receive camouflage and protection while sea anemones gain access to food particles from the crabs' leftovers.
 - [Serious Attacks on Humans by Birds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#serious-attacks-on-humans-by-birds)
-Copepods clean salps, aiding their survival by removing food particles that clog them, showcasing an interdependent relationship between marine species.
 - [Unusual Predators of Birds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-predators-of-birds)
-Bacteria and fungus-growing ants employ antibiotic-producing bacteria to manage parasites in their fungus gardens, showcasing the intricate microbial relationships within insect communities.
 - [Unusual Bird-Animal Psychological Interfaces](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-bird-animal-psychological-interfaces)
-Mixotricha paradoxa, a microorganism living in termite guts, exemplifies the complexity of gut microbiomes through its symbiotic relationship with bacteria that aid in wood digestion for termites.
 - [Curious Associations of Birds with Other Animals and Plants](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#curious-associations-of-birds-with-other-animals-and-plants)
-Various parasites manipulate their hosts in unique ways, from altering sex ratios and reproductive behaviors to controlling specific actions that ensure the parasites' survival and transmission across different species.
 - [Unusual Piscine Behavior](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-piscine-behavior)
-Birds showcase a range of evolutionary adaptations and anomalies, from the transition from dinosaurs to modern forms with specialized features like feather development and respiratory systems, to curious traits such as gynandromorphism, single left ovaries in some species, and the enigmatic ear tufts of owls, highlighting the complexity and diversity of avian biology.
 - [Unusual Hunting Techniques](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-hunting-techniques)
-This text explores how bright plumage in birds is linked to lower parasite levels and favored by mates, exemplified by the peacock's elaborate tail, while also noting the complexity added by plumage polymorphism where females can display male-like features.
 - [Claims of Regular Cycles of Activity](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#claims-of-regular-cycles-of-activity)
-The complexity of feather characteristics, including pigment production, albinism, silent flight adaptations, and neotenic traits, showcases diverse evolutionary strategies and genetic influences in birds.
 - [ANOMALIES IN FISH](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-in-fish)
-Birds exhibit a diverse range of unique behaviors and biological anomalies, from handedness and unexplained automatisms to complex mating systems and social behaviors, offering deep insights into avian cognition, ecology, and evolution.
 - [PISCINE BODILY FUNCTIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#piscine-bodily-functions)
-Birds exhibit a range of sophisticated adaptations including ultraviolet vision, infrasound detection, complex eye structures, tool usage, and embryonic communication, highlighting their evolutionary innovations and ecological roles.
 - [FISH GENETICS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#fish-genetics)
-Darwin's Finches showcase the adaptive relationship between beak morphology and song, Red Knots use Herbst corpuscles to detect buried food, manakins perform "wing-singing" as a complex courtship ritual, illustrating diverse avian adaptations and behaviors.
 - [INTERNAL STRUCTURES OF FISH](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#internal-structures-of-fish)
-Emperor penguins use a two-voice capability to locate their chicks in large colonies, while ostriches and cassowaries can seriously attack humans, unexpected predators like frogs and fish prey on birds, and birds exhibit intriguing psychological interactions with other animals and plants.
 - [FISH ORGANS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#fish-organs)
-Various species exhibit complex mutualistic relationships and unique behavioral adaptations, such as guiding, cleaning, protection, and specialized movements, which highlight the intricate interdependence and evolutionary diversity within ecosystems.
 - [FISH TALENTS AND CAPABILITIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#fish-talents-and-capabilities)
-Electric fish swim backwards to evade predators or hunt, fresh-water eels spin rapidly to capture prey, fish exhibit social behaviors in moon-initiated spawning aggregations, anglerfish use lures to attract prey, some fish play dead to catch prey off guard, archer fish spit water to shoot insects, and Amazon angelfish engage in light-fights using reflections from their flanks.
 - [UNUSUAL INTERFACES BETWEEN FISH AND OTHER SPECIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-interfaces-between-fish-and-other-species)
-This text explores various intriguing behaviors and adaptations in fish, including mating preferences, activity cycles, responses to environmental changes, social interactions, cognitive abilities, and evolutionary adaptations.
 - [Differences between Humans and the Great Apes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#differences-between-humans-and-the-great-apes)
-Reports of trout and other fish appearing in artesian wells challenge conventional understanding of fish distribution, suggesting unexpected ecological connectivity.
 - [Sports, Monsters, Terata](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#sports-monsters-terata)
-The text about Seamount Populations discusses the diverse marine life supported by underwater mountains, highlighting their role in biodiversity and ecological significance. 
 
-(Note: Since the actual content of the text wasn't provided, I've made reasonable assumptions based on the title "Seamount Populations" to create the summary.)
 - [Two Separate Populations of Pygmies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#two-separate-populations-of-pygmies)
-Seamounts support diverse and unique marine populations, including various fish, corals, and other sea life that thrive in the nutrient-rich waters swirling around these underwater mountains.
 - [Birth Weight Varies with Month of Birth](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#birth-weight-varies-with-month-of-birth)
-The orange roughy exhibits biological distinctions from its open ocean counterparts, indicating unique evolutionary developments in isolated environments.
 - [Human Sexual Dimorphism](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#human-sexual-dimorphism)
-The curious disappearances of mature North American and European eels, which have failed to reappear after migration, suggest potential environmental or biological issues affecting these species.
 - [Sex-Ratio Variations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#sex-ratio-variations)
-The ecosystem experienced massive kill-offs followed by eventual recovery, showcasing nature's resilience in the face of significant disruptions.
 - [The Soldier Effect](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-soldier-effect)
-The 1882 North Atlantic tilefish kill-off event demonstrates that fish populations can experience significant declines and subsequent recoveries, highlighting the resilience of marine ecosystems.
 - [Fathers Working at Nuclear Plants Produce More Sons](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#fathers-working-at-nuclear-plants-produce-more-sons)
-The widely separated yet closely related species like Amiuridae catfish and coelacanths highlight the intricate dynamics of evolutionary biology and biogeography.
 - [Dominance of Sons in Some Families](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#dominance-of-sons-in-some-families)
-Pelagic fish populations often experience natural abundance cycles that typically span around 50 years.
 - [Gradations between Male and Female](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#gradations-between-male-and-female)
-The complex population dynamics indicated by long abundance cycles in pelagic fish species offer insights into ecological balance and fluctuations.
 - [The Sacral Spot](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-sacral-spot)
-The differing times it takes for American and European eel larvae to reach their destinations in the Atlantic Ocean highlight variations in larval development and environmental impacts, prompting further research.
 - [Presence of a Linear Pigmentation Peculiarity on the Upper Arms of Some Blacks](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#presence-of-a-linear-pigmentation-peculiarity-on-the-upper-arms-of-some-blacks)
-Recent times have witnessed extremely rapid speciation, showcasing how quickly new species can emerge under favorable conditions.
 - [Spotted or Piebald People](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#spotted-or-piebald-people)
-Rapid speciation events in organisms like cichlids and pupfish indicate that new species can evolve much faster than previously thought under particular environmental conditions.
 - [Visible Radiation Emitted by the Human Body](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#visible-radiation-emitted-by-the-human-body)
-Certain species, such as lungfish, coelacanths, and hagfish, exemplify evolutionary stasis by remaining largely unchanged over millions of years, suggesting a unique form of adaptability.
 - [Unidentified, Problematical Radiation Emitted by the Human Body](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unidentified-problematical-radiation-emitted-by-the-human-body)
-The sudden appearance of the first 100 fish species marks a significant milestone during the Cambrian Explosion, highlighting a rapid diversification of life forms in Earth's history.
 - [The Supposed Human Aura](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-supposed-human-aura)
-The sudden appearance of fish during the Cambrian explosion, with few known ancestral forms, indicates a burst of evolutionary innovation.
 - [Excessively Hairy Humans](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#excessively-hairy-humans)
-The uncertain timing and mechanism of the appearance of cartilaginous fish, such as sharks and rays, complicate our understanding of fish evolution.
 - [Gradations between Male and Female (continued)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#gradations-between-male-and-female-continued)
-The transition from jawless to jawed fishes is described as "uncertain," highlighting the complexities and ambiguities in understanding this evolutionary step.
 - [Sudden Loss of Hair and (Sometimes) Regrowth](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#sudden-loss-of-hair-and-sometimes-regrowth)
-The insufficient fossil record makes it challenging to clearly trace the evolutionary changes in respiratory systems and feeding strategies.
 - [Baldness among Musicians](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#baldness-among-musicians)
-The transition from fish to tetrapods is complicated by the unusual characteristics of Ichthyostega, such as its digit count, challenging the straightforward evolution narrative.
 - [Human Hairlessness](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#human-hairlessness)
-The text focuses on bone beds that predominantly contain fish remains.
 - [Curious Human Hair Patterns](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#curious-human-hair-patterns)
-The discovery of massive fish bone deposits in sites such as the Ohio Devonian bone beds provides insights into ancient ecological conditions and fish populations.
 - [Sudden Blanching of the Hair](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#sudden-blanching-of-the-hair)
-A periodicity in extinction events, occurring approximately every 26 million years, has been proposed based on fossil records, suggesting a potential link between biological and geological phenomena.
 - [Sudden Color Changes in Human Hair](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#sudden-color-changes-in-human-hair)
-Fins, a crucial evolutionary adaptation, emerged independently on multiple occasions among early fish species.
 - [Claims that Hair Color Is Correlated with Eminence](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#claims-that-hair-color-is-correlated-with-eminence)
-The independent development of fins across different fish lineages exemplifies convergent evolution, showcasing how similar environmental roles lead to comparable adaptive traits.
 - [Hair Color Correlated with Strength and Vitality](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#hair-color-correlated-with-strength-and-vitality)
-"PISCINE BODILY FUNCTIONS" refers to the biological waste produced by aquatic creatures in a pool or pond environment. 
 
-However, given the phrase "PISCINE BODILY FUNCTIONS," it seems more context is needed for a precise summary. If this phrase is meant to be humorous or literal, it could be summarized as:
 
-Aquatic creatures perform essential life processes that contribute to the ecosystem of their water environments. 
 
-For a more tailored summary, additional context about the specific content or focus would be beneficial.
 - [Remarkable Persistence of Hair Growth after Death](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#remarkable-persistence-of-hair-growth-after-death)
-Fins, a crucial evolutionary adaptation, emerged independently on multiple occasions among early fish species, showcasing the versatility of aquatic locomotion mechanisms.
 - [Voluntary Erection of Body Hair](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#voluntary-erection-of-body-hair)
-The independent development of fins across different fish lineages exemplifies convergent evolution, showcasing how similar environmental roles lead to comparable adaptive traits.
 - [Night-Shining in Human Eyes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#night-shining-in-human-eyes)
-"PISCINE BODILY FUNCTIONS" refers to the biological processes, such as excretion and digestion, that aquatic animals perform in or around pools or bodies of water. 
 
-Note: The provided phrase "PISCINE BODILY FUNCTIONS" seems to be a play on words, combining "piscine," which relates to fish, with bodily functions, typically referring to human physiological activities. Without additional context, the summary assumes a general interpretation.
 - [Eye Color Correlated with Athletic Capability](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#eye-color-correlated-with-athletic-capability)
-"PISCINE BODILY FUNCTIONS" refers to the biological waste produced by aquatic creatures in a pool or aquarium, affecting water quality and clarity. 
 
-Note: The sentence provided is quite succinct and seems to be a title or heading rather than a full text with detailed information. The summary assumes context around the topic of bodily functions in relation to piscine (fish-related) environments.
 - [Inherited Ear Pits](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#inherited-ear-pits)
-"PISCINE BODILY FUNCTIONS" refers to the biological processes, such as urination and defecation, that occur in swimming pools by users.
 - [Supernumerary Ears and So-Called Gill-Slits](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#supernumerary-ears-and-so-called-gill-slits)
-Certain fish like tuna and mackerel sharks are endothermic, meaning they maintain their body heat, which boosts their predatory effectiveness in cold waters.
 - [Nostril Downward Orientation and Associated Musculature](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#nostril-downward-orientation-and-associated-musculature)
-Some fishes exhibit unusual respiration methods, such as breathing through the skin or using lungs-like organs, allowing them to survive in diverse aquatic environments.
 - [Differences and Similarities between Human and Primate Teeth](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#differences-and-similarities-between-human-and-primate-teeth)
-Some fish, like the climbing perch, have developed unique respiratory adaptations that allow them to breathe air through their lungs or skin.
 - [Racial Dental Differences](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#racial-dental-differences)
-Bottom-dwelling rays employ reverse breathing, inhaling water from above and exhaling through their gills below to minimize sand intake during respiration.
 - [Historical Shrinkage of Human Teeth](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#historical-shrinkage-of-human-teeth)
-"Suspended Animation" refers to a technique that slows down biological functions, often used in medical scenarios to extend the window for life-saving treatments.
 - [Unusual Dentitions](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-dentitions)
-Some fish can enter a state of suspended animation, suggesting an evolutionary advantage for surviving extreme conditions.
 - [Human "Horns"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#human-horns)
-African lungfish employ estivation during dry periods to conserve energy and water, demonstrating their adaptability to environmental stresses.
 - [Unusual, Inherited Characteristics of Feet](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-inherited-characteristics-of-feet)
-This text likely discusses the process by which nerve cells repair and regrow after an injury, focusing on the mechanisms and factors that influence their recovery and functionality. 
 
-Note: Since the provided text is just a title "Nerve Regeneration," the summary is based on common contextual understanding of what the topic entails.
 - [Progressive Loss of the Little Toe](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#progressive-loss-of-the-little-toe)
-Nerve regeneration refers to the process by which damaged nerve fibers repair and re-grow, restoring function to affected areas of the body.
 - [Webbed Hands and Feet](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#webbed-hands-and-feet)
-Lampreys show impressive nerve regeneration capabilities when aided by electrical stimuli, offering promising insights for human medical applications.
 - [Alleged Primitive Character of Human Hands and Feet](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#alleged-primitive-character-of-human-hands-and-feet)
-Mouth-breeding cichlids and pouch-breeding seahorses showcase unique nurturing behaviors that highlight the diverse strategies fish use to enhance their offspring's survival.
 - [Large Size of Female Breasts and Buttocks](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#large-size-of-female-breasts-and-buttocks)
-The text describes phenomena related to spawning, which typically involves the production or release of eggs and sperm by aquatic organisms for reproduction.
 - [The Unusual Location of Human Breasts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-unusual-location-of-human-breasts)
-Fish species exhibit diverse and complex spawning behaviors, including lunar timing and interspecies mating, highlighting the adaptability of aquatic reproduction.
 - [Human Tails](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#human-tails)
-Some fish exhibit unique digestion phenomena by preserving food in their stomachs for long periods or absorbing nutrients through their skin, challenging conventional views on fish physiology.
 - [Concordance of Human Embryo Growth and Evolutionary Developments](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#concordance-of-human-embryo-growth-and-evolutionary-developments)
-Some fish continue to grow throughout their lives, showing that growth never ceases for these aquatic creatures.
 - [The Production of Anomalous Human Odors](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-production-of-anomalous-human-odors)
-Carp and certain species exhibit indeterminate growth, continually growing throughout their lives, which prompts inquiries into the boundaries of fish growth patterns.
 - [Natural Human Vibrations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#natural-human-vibrations)
-This section covers the genetic aspects and variations within fish species, exploring how genetics influence their evolution, adaptation, and diversity.
 - [Breast Growth Enhanced by Hypnosis](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#breast-growth-enhanced-by-hypnosis)
-A mtDNA study reveals that coelacanths are genetically distinct from tetrapods, challenging their status as direct transitional species in vertebrate evolution.
 - [Presidential Stature Correlated with Competence](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#presidential-stature-correlated-with-competence)
-Despite their diverse appearances and behaviors, cichlids inhabiting African lakes exhibit remarkably little genetic divergence from one another.
 - [Origin of the Brown Line on Pregnant Women](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#origin-of-the-brown-line-on-pregnant-women)
-Genetic studies show that despite their extensive morphological diversity, cichlids exhibit little genetic divergence, challenging our understanding of diversity mechanisms in isolated ecosystems.
 - [Humans as Robots](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#humans-as-robots)
-The extensive variety of ray-finned fish species suggests that gene doubling and other non-Darwinian evolutionary mechanisms may play significant roles, challenging traditional evolutionary theories.
 - [Reproductive Success Correlated with Male Height](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#reproductive-success-correlated-with-male-height)
-Some fish species have remained largely unchanged over long periods of evolutionary time, showcasing evolutionary stasis.
 - [Human Proportions Reflect the Golden Ratio](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#human-proportions-reflect-the-golden-ratio)
-The evolutionary stasis in some fish species, attributed to "linked genes," suggests that genetic constraints can limit adaptability, highlighting the varied nature of evolutionary processes across different lineages.
 - [Humans Nurturing Large Fetuses of Unborn Twins](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#humans-nurturing-large-fetuses-of-unborn-twins)
-The internal structures of fish include vital organs such as the heart, gills, liver, pancreas, and various systems that enable respiration, circulation, digestion, and reproduction underwater.
 - [Female Hormone Production Rate Correlated with Perceived Beauty](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#female-hormone-production-rate-correlated-with-perceived-beauty)
-Swordfish possess brain-heater elements that maintain optimal brain function during deep dives, showcasing a sophisticated physiological adaptation for effective predation.
 - [Small People with Elfin Features](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#small-people-with-elfin-features)
-The text highlights a condition characterized by the near-total breakdown of the skeletal structure.
 - [Change of Eye Color with Age](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#change-of-eye-color-with-age)
-The gulper eel exhibits notable skeletal degeneration with a flexible, fluid-filled body, highlighting intriguing evolutionary trade-offs in resource allocation.
 - [Cases of Skin Color Correlated with Atmospheric Conditions](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#cases-of-skin-color-correlated-with-atmospheric-conditions)
-Some flounders show a correlational increase in the number of vertebrae with increasing geographical latitude, a phenomenon whose cause is still under investigation.
 - [Sexual Characteristics Correlated with Lengths of Fingers](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#sexual-characteristics-correlated-with-lengths-of-fingers)
-Recent findings suggest that sophisticated immune systems in ancient organisms emerged abruptly, challenging previous evolutionary timelines.
 - [Anomalous Sound Production](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalous-sound-production)
-The challenge in pinpointing when advanced immune systems emerged in fish highlights the complexities and significant evolutionary advancements in immune evolution.
 - [The Devil's Spots](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-devils-spots)
-Certain fish species possess magnetite, which may aid in navigation, offering intriguing insights into the sensory abilities of aquatic organisms.
 - [Pinnas of Ears Help Brain Form Acoustical Maps of One's Surroundings](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#pinnas-of-ears-help-brain-form-acoustical-maps-of-ones-surroundings)
-This section discusses the various organs of fish and their functions in aquatic life.
 - [Skull Shapes Correlated with Geographical Origin](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#skull-shapes-correlated-with-geographical-origin)
-Certain fish species possess unusually large brains relative to their body size, suggesting advanced cognitive abilities in aquatic environments.
 - [Neanderthal Characteristics Claimed to Exist in Some Modern Humans](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#neanderthal-characteristics-claimed-to-exist-in-some-modern-humans)
-The elephant fish boasts a brain size relative to its body weight that exceeds that of humans, highlighting an evolutionary adaptation geared towards enhanced sensory processing.
 - [Apparently Irrational Human Behavior](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#apparently-irrational-human-behavior)
-Fish living in dark environments frequently undergo reversible programmed eye degeneration, illustrating the adaptive interplay between their habitat and evolutionary processes.
 - [Similarities in the Behaviors of Identical Twins Reared Apart](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#similarities-in-the-behaviors-of-identical-twins-reared-apart)
-The text describes a process or phenomenon related to significant transformation or change in the eye.
 - [Correlation of Disturbed Human Behavior and Solar Activity](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#correlation-of-disturbed-human-behavior-and-solar-activity)
-The migratory eye development in flatfish exemplifies adaptive evolution and highlights the remarkable anatomical flexibility in fish to meet ecological needs.
 - [Correlation of Disturbed Human Behavior and Lunar Phase](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#correlation-of-disturbed-human-behavior-and-lunar-phase)
-Mudskippers, similar to chameleons, possess the ability to move their eyes independently, which significantly enhances their environmental awareness and monitoring capabilities.
 - [Correlations of Disturbed Human Behavior, Stormy Weather, and Infrasound](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#correlations-of-disturbed-human-behavior-stormy-weather-and-infrasound)
-Certain animals have evolved unique eye modifications that allow them to see clearly in both air and water.
 - [Correlation of Human Behavior and Climate and/or Season of the Year](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#correlation-of-human-behavior-and-climate-andor-season-of-the-year)
-Some fish, like Anableps, have specialized eye structures that allow them to see effectively in both air and water.
 - [Unusual Behavior Induced by Rhythmic Stimuli](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-behavior-induced-by-rhythmic-stimuli)
-The presence of three-eyed fish, usually categorized as terata, sheds light on the intricate aspects of developmental biology and genetic anomalies within fish morphology.
 - [Cyclicity of Violent Collective Behavior](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#cyclicity-of-violent-collective-behavior)
-Remarkable fish retinas and visual pigments enable exceptional underwater vision适应不同语言的习惯。以下是中文的翻译：
 
 - **非凡的鱼视网膜和视觉色素**  
-非凡的鱼视网膜和视觉色素使鱼类在水下具有卓越的视觉能力。
 - [The Curious Relationship between the Number of Wars and the Number Killed in Them](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-curious-relationship-between-the-number-of-wars-and-the-number-killed-in-them)
-Fish with three eyes challenge our understanding of developmental biology and genetic anomalies, showcasing the complexities in fish morphology.
 - [Correlation of Economic Activity with Solar Activity](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#correlation-of-economic-activity-with-solar-activity)
-Conger eels and some fish have evolved tiered retinas with multiple layers of visual receptors, significantly enhancing their vision and highlighting the evolutionary pressures on their sensory functions.
 - [Correlation of Economic Activity with Lunar Tidal Forces](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#correlation-of-economic-activity-with-lunar-tidal-forces)
-Fish possess a variety of talents and capabilities that enable them to thrive in diverse aquatic environments, from camouflaging and electric communication to long-distance migration.
 - [Correlation of Economic Activity with Solar-System Configurations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#correlation-of-economic-activity-with-solar-system-configurations)
-The presence of a magnetic sense in various organisms allows them to navigate using the Earth's magnetic field.
 - [Periodicities in Various Economic Parameters](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#periodicities-in-various-economic-parameters)
-Laboratory studies suggest that some fish possess a magnetic sense which could significantly enhance our understanding of how they navigate.
 - [Cycles of Religiousness](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#cycles-of-religiousness)
-Some fish have evolved specialized sensors to detect electrical signals from prey, showcasing their advanced hunting abilities in response to environmental needs.
 - ["Flock Behavior" in Human Groups](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#flock-behavior-in-human-groups)
-Active weakly-electric fish use electric fields to navigate, communicate, and sense their environment.
 - [Evolution and Persistence of Altruism and "Team Playing"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#evolution-and-persistence-of-altruism-and-team-playing)
-Fish like the knife fish use weak electrical signals for communication and navigation, showcasing the ecological importance of electrical abilities in various habitats.
 - [Evolution and Persistence of Homosexuality](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#evolution-and-persistence-of-homosexuality)
-Electric eels utilize their ability to generate strong electrical pulses as both a defense mechanism and a hunting strategy, showcasing an evolutionary adaptation for survival.
 - [Unusual Human Sexual Activity](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-human-sexual-activity)
-This section discusses the fundamental principles and applications of electrical sensors and sources in measuring and generating electrical signals.
 - [The Puzzle of Highly Asymmetric Human Handedness](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-puzzle-of-highly-asymmetric-human-handedness)
-Various fish species have evolved electrical sensing abilities, raising questions about whether these adaptations developed independently or through convergent evolution, highlighting areas for further study in evolutionary biology.
 - [Handedness Correlated with Longevity](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#handedness-correlated-with-longevity)
-This section explores unique interactions and relationships between fish and other species, highlighting the diverse ecological connections within aquatic environments.
 - [Handedness Correlated with Health](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#handedness-correlated-with-health)
-The Candiru, a tiny catfish, invades the urogenital tracts of swimmers, illustrating the intricate and sometimes perilous relationships within aquatic ecosystems.
 - [Handedness Correlated with Mathematical and Verbal Abilities](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#handedness-correlated-with-mathematical-and-verbal-abilities)
-The great white shark is a large macropredatory fish known for its size, power, and role in marine ecosystems.
 - [The Uniqueness of Human Bipedalism](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-uniqueness-of-human-bipedalism)
-Great white sharks frequently release humans unharmed, highlighting intricate predator-prey interactions and prompting inquiries into their behavioral patterns and the position of humans in oceanic environments.
 - [Human Asymmetry in Locomotion](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#human-asymmetry-in-locomotion)
-Remoras, known for their adhesive attachment to larger fish, exemplify a unique symbiotic relationship in aquatic environments that provides them with both transportation and enhanced access to food resources.
 - [Wolf-Children](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#wolf-children)
-Various species of cleaner fish play a crucial role in maintaining the health of marine ecosystems by removing parasites and dead tissues from other fish.
 - [Eminence Correlated with Time of Birth](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#eminence-correlated-with-time-of-birth)
-Cleaner fish significantly contribute to aquatic ecosystems by removing parasites from larger fish, exemplifying the importance of mutualistic relationships.
 - [General Eminence Correlated with Planetary Position](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#general-eminence-correlated-with-planetary-position)
-Certain catfish employ brood parasitism by depositing their eggs in the mouths of cichlid hosts, showcasing a complex reproductive strategy in Lake Tanganyika.
 - [Eminence in Sports Champions Correlated with Mars Position](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#eminence-in-sports-champions-correlated-with-mars-position)
-Sea cucumbers and pearlfish exhibit a unique symbiotic relationship where pearlfish use the sea cucumber's anus as an entrance and exit to find shelter and sometimes feed.
 - [Cultural Creativity Correlated with Increases in Solar Activity](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#cultural-creativity-correlated-with-increases-in-solar-activity)
-Pearlfish and sea cucumbers exhibit a form of protective symbiosis in marine environments, with pearlfish using the sea cucumbers' bodies for shelter, highlighting an interesting area for ecological research.
 - [Cultural Flowering Correlated with Climate Cooling](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#cultural-flowering-correlated-with-climate-cooling)
-Despite having nearly identical genomes, humans display notable distinctions from great apes, prompting inquiries into the evolutionary mechanisms responsible for these differences.
 - [Eminence and Order of Birth](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#eminence-and-order-of-birth)
-Siamese twins and similar conditions challenge traditional understandings of human biology and genetics by existing outside the realm of normal anomalies.
 - [Periodicity in the Population of Living Eminent People](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#periodicity-in-the-population-of-living-eminent-people)
-The text discusses two distinct populations of Pygmies, highlighting their separate characteristics or histories.
 - [Eminence Correlated with Longevity](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#eminence-correlated-with-longevity)
-The significant genetic and geographical differences between African Pygmies and Asian Negritos suggest they may have evolved independently, offering insights into human migration and evolution.
 - [Intelligence Correlated with Season of Birth](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#intelligence-correlated-with-season-of-birth)
-Birth weights peak in May in the Northern Hemisphere and in December in the Southern Hemisphere, potentially due to seasonal environmental influences on fetal development.
 - [Intelligence Correlated with Birth Order](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#intelligence-correlated-with-birth-order)
-Human sexual dimorphism refers to the distinct differences in characteristics between males and females of the human species, which can include physical attributes, behavior, and physiological functions.
 - [A Relationship between Intelligence and Flicker-Frequency Response](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#a-relationship-between-intelligence-and-flicker-frequency-response)
-Human sexual dimorphism stands out as unusual among primates, especially in comparison to great apes, prompting intriguing questions about the evolutionary pressures that influenced human evolution.
 - [Increasing Intelligence with Vitamin Intake](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#increasing-intelligence-with-vitamin-intake)
-Geographical variations in sex ratios, exemplified by the disproportionate number of sons among U.S. presidents' children, suggest possible social or environmental influences.
 - [The Similar Intelligences of Identical Twins Reared Apart](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-similar-intelligences-of-identical-twins-reared-apart)
-"The Soldier Effect" explores the profound impact soldiers have on both battlefield dynamics and societal structures through their experiences and sacrifices.
 - [Likelihood of College Matriculation Correlated with Season of Birth](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#likelihood-of-college-matriculation-correlated-with-season-of-birth)
-"The Soldier Effect" refers to the observed increase in male births after wars, potentially reflecting biological responses to wartime stress.
 - [Sex Differences on Various Intelligence Tests](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#sex-differences-on-various-intelligence-tests)
-Studies suggest that fathers working at nuclear plants are more likely to have sons, indicating a possible link between environmental conditions and the sex ratio of their offspring.
 - [Intelligence Correlated with Stature](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#intelligence-correlated-with-stature)
-Some families exhibit a notable prevalence of sons over daughters, highlighting an uneven gender ratio in their lineage.
 - [Claims That Personality Is Correlated with Astronomical Factors](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#claims-that-personality-is-correlated-with-astronomical-factors)
-The historical preponderance of sons over daughters in some families over generations raises questions about the influence of familial structures and cultural gender preferences.
 - [Genetic Influence on Cognitive Abilities](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#genetic-influence-on-cognitive-abilities)
-The complexity of gradations between male and female characteristics, compounded by the decreasing size of the male Y-chromosome, has rendered the Y-chromosome theory insufficient in fully explaining sexual diversity.
 - [General, Long-Term Worldwide Changes in IQs](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#general-long-term-worldwide-changes-in-iqs)
-The sacral spot, located near the base of the spine, is an area significant in various therapeutic practices and can influence lower body functions and sensations.
 - [Human Intelligence Spurts Correlated with Environmental Cataclysms](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#human-intelligence-spurts-correlated-with-environmental-cataclysms)
-The colored spot appearing in infancy and notable in populations such as Japanese, Eskimos, and Mayans offers insights into theories of human migration and settlement patterns in the New World.
 - [Lefties Superior to Righties in One-to-One Combat](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#lefties-superior-to-righties-in-one-to-one-combat)
-A distinct linear pigmentation pattern observed on the upper arms of some black individuals highlights genetic variation and potential environmental adaptations within specific populations.
 - [Babies Prefer Foods Eaten by Mother during Pregnancy](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#babies-prefer-foods-eaten-by-mother-during-pregnancy)
-Spotted or piebald people exhibit a unique genetic condition characterized by patches of skin that lack pigment, resulting in a spotted or mottled appearance.
 - [Imitative Learning Unique in Humans](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#imitative-learning-unique-in-humans)
-Spotted or piebald traits, marked by inheritable white spots, offer insights into human genetic diversity and serve as a fascinating subject for genetic studies.
 - [Impossibility of Tickling One's Self](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#impossibility-of-tickling-ones-self)
-Visible radiation emitted by the human body, such as luminous wounds caused by bacteria, offers intriguing insights into human physiology and health.
 - [Female Preference for Male Faces Changes during Menstrual Cycle](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#female-preference-for-male-faces-changes-during-menstrual-cycle)
-The human body emits unidentified and problematical radiation, posing mysteries and challenges in scientific research.
 - [Unusual Crowd Behavior](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-crowd-behavior)
-The study of alleged human-emitted radiations like N-rays and I-rays focuses on investigating these speculative and scientifically unfounded claims to unravel their mysteries.
 - [Human Habit of Sticking Out the Tongue While Concentrating](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#human-habit-of-sticking-out-the-tongue-while-concentrating)
-The concept of a human aura, often claimed by psychics as a luminous fringe around humans, sparks debate about its validity in relation to perception and consciousness.
 - [Intelligence as a Pathogen](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#intelligence-as-a-pathogen)
-This text discusses individuals with an unusually high amount of body hair.
 - [Claim That Behavioral Characteristics Can Be Transferred via Organ Transplants](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#claim-that-behavioral-characteristics-can-be-transferred-via-organ-transplants)
-Research on individuals with excessive body hair highlights the interplay of genetic and environmental factors while questioning societal norms of physical appearance.
 - [Meme Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#meme-phenomena)
-The text highlights the complex genetic relationship between inheritance patterns of excessive hairiness and dental abnormalities, showcasing the gradations between male and female traits.
 - [Claim that Music Improves Mental Performance](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#claim-that-music-improves-mental-performance)
-Sudden hair loss, sometimes followed by regrowth, can be a symptom of various underlying health conditions or stressors.
 - [Motherhood Improves Learning and Memory](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#motherhood-improves-learning-and-memory)
-Sudden hair loss, possibly triggered by fear or stress, along with its occasional regrowth, presents a complex physiological response that requires further investigation to understand its underlying mechanisms.
 - [Subconscious Inclination of Artists to Employ the Golden Ratio in Their Work](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#subconscious-inclination-of-artists-to-employ-the-golden-ratio-in-their-work)
-Observations indicate a notable prevalence of baldness among musicians, particularly brass instrument players, suggesting a potential link值得探究音乐职业中的健康和生活方式因素。 
 
-Translated back to English:
-Observations indicate a notable prevalence of baldness among musicians, particularly brass instrument players, suggesting a potential link worth investigating in terms of health and lifestyle factors in the music profession.
 - [Humans Are the Greatest Force for Evolution](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#humans-are-the-greatest-force-for-evolution)
-Musicians are not exempt from experiencing baldness, a condition that affects individuals across various professions.
 - [Baby Hand-Babbling](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#baby-hand-babbling)
-Baldness appears to be notably common among musicians, particularly those who play brass instruments, suggesting a potential link worth exploring through health and lifestyle factors specific to their profession.
 - [Mathematical Ability Is Divorced from Social Skills](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#mathematical-ability-is-divorced-from-social-skills)
-Human hairlessness, distinct from other primates, indicates potential evolutionary adaptations and unique survival strategies in human evolution.
 - [Intelligent People Have Fewer Offspring](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#intelligent-people-have-fewer-offspring)
-This section explores intriguing patterns and characteristics found in human hair, ranging from growth directions to genetic influences.
 - [Humans Are Entranced by Music](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#humans-are-entranced-by-music)
-Peculiar hair patterns in humans, like flow patterns and sacral whorls, may offer insights into early human adaptation and development.
 - [Pareto's Law Invariant in All Cultures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#paretos-law-invariant-in-all-cultures)
-Sudden hair blanching, which can occur right after an injury or a fearful event, indicates a possible link between emotional states and physical reactions, although the exact physiological mechanisms are not yet fully understood.
 - [Homosexuals More Likely to be Lefties](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#homosexuals-more-likely-to-be-lefties)
-Sudden color changes in human hair can be caused by genetic factors, hormonal changes, or environmental influences, leading to variations in melanin production.
 - [Cognitive Powers and Alertness Increase in Winter](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#cognitive-powers-and-alertness-increase-in-winter)
-Sudden changes in hair color, like blanching, spark curiosity due to their intriguing timing and context, highlighting interesting underlying biological processes.
 - [The Assertion That Intellect, Being Nonmaterial, Can Not Have Evolved in the Darwinian Sense](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-assertion-that-intellect-being-nonmaterial-can-not-have-evolved-in-the-darwinian-sense)
-Studies suggest a potential correlation between hair color and the prominence of individuals, such as political reformers often being fair-haired, though this relationship requires further investigation to understand societal perceptions and stereotypes better.
 - [Human Social Characteristics Are Evolvable in the Guise of "Memes"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#human-social-characteristics-are-evolvable-in-the-guise-of-memes)
-The text suggests a connection between hair color and attributes of strength and vitality.
 - [Behavior Affected by Very Low-Frequency Atmospherics](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#behavior-affected-by-very-low-frequency-atmospherics)
-Studies suggesting a link between darker hair and greater strength have sparked discussions on cultural biases in perceptions of attractiveness and ability.
 - [Electric People](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#electric-people)
-Reports suggest hair can continue to grow for up to a year after death, challenging conventional views on decomposition and warranting further scientific examination.
 - [Magnetic People](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#magnetic-people)
-Voluntary erection of body hair refers to the ability to consciously control the piloerection response, commonly known as "goosebumps," which typically involves the hair on the skin standing up.
 - [Body Electric Potentials Correlated with Lunar Phase](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#body-electric-potentials-correlated-with-lunar-phase)
-Individuals have the voluntary ability to erect hair on parts of their body, such as the arms, which may be linked to emotional states or physical stimuli and requires further study.
 - [Brain Electricity (EEGs)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#brain-electricity-eegs)
-A rare and poorly understood phenomenon known as "night-shining" in human eyes requires further research to determine its causes and implications.
 - [Survival of Very High Body Temperatures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#survival-of-very-high-body-temperatures)
-Research suggests a surprising correlation between eye color and athletic capability, indicating that individuals with lighter eye colors may have a slight advantage in certain physical activities.
 - [Unusual Body-Temperature Cycles](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-body-temperature-cycles)
-Some studies suggest darker eye color may offer slight advantages in athletic performance, though these claims are viewed with skepticism and need further validation.
 - [Anomalous Human Combustion (SHC)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalous-human-combustion-shc)
-Inherited ear pits, occurring at typical piercing sites, offer insights into genetic expressions and human anatomical diversity.
 - [Retarded Decay of the Human Body](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#retarded-decay-of-the-human-body)
-Supernumerary ears and so-called gill-slits refer to rare congenital anomalies where individuals may have additional ear-like structures and clefts that resemble the gill slits found in fish, though they serve no aquatic respiratory function.
 - [Imbalances in Element Ingestion and Excretion](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#imbalances-in-element-ingestion-and-excretion)
-The presence of supernumerary ears and gill-like structures in humans challenges conventional anatomical understanding and highlights intriguing genetic anomalies.
 - [The Human Inability to Synthesize Ascorbic Acid](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-human-inability-to-synthesize-ascorbic-acid)
-The unique orientation and musculature of human nostrils, differing from most primates, support theories related to human evolutionary diversification, including aquatic ape hypotheses.
 - [Blood-Chemistry Variations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#blood-chemistry-variations)
-Human and primate teeth share similarities in structure and function but differ in size, shape, and the specific adaptations to their diets and evolutionary environments.
 - [The Existence of Blood Polymorphisms](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-existence-of-blood-polymorphisms)
-Dental anomalies in canine size and enamel thickness highlight significant evolutionary changes in human feeding habits and social behaviors compared to primates.
 - [The Complexity, Variability, and Ubiquity of Hemoglobin in Animals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-complexity-variability-and-ubiquity-of-hemoglobin-in-animals)
-Populations of Celtic descent exhibit dental structural variations, such as the loss of lateral incisors, illustrating the effects of genetic drift and adaptation.
 - [Geographical Anomalies in the Distribution of Blood Groups](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#geographical-anomalies-in-the-distribution-of-blood-groups)
-Human teeth have gradually become smaller over time due to changes in diet and chewing habits.
 - [Blood Chimeras](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#blood-chimeras)
-Human teeth have been decreasing in size over the past 100,000 years, potentially due to dietary changes linked to agricultural advancements and lifestyle modifications.
 - [Female Hormones Increase in Fathers after the Birth of their Children](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#female-hormones-increase-in-fathers-after-the-birth-of-their-children)
-Unusual dentitions, such as the occurrence of extra teeth or full sets present at birth, challenge typical understandings of human dental development.
 - [Remarkable New Hominid Skeletal Finds](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#remarkable-new-hominid-skeletal-finds)
-Human "horns" refer to protrusions that can appear on humans due to various conditions, resembling horns found on other animals.
 - [Absence of Transitional Fossils](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#absence-of-transitional-fossils)
-Certain skin outgrowths, classified as "human horns," have sparked investigations into genetic mutations and developmental anomalies, despite not being true horns.
 - [Abrupt Changes in Hominid Morphology](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#abrupt-changes-in-hominid-morphology)
-Some people inherit prehensile capabilities in their feet, showcasing genetic variations that may indicate evolutionary adaptations.
 - [Hominid Evolutionary Stasis](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#hominid-evolutionary-stasis)
-The progressive loss of the little toe involves a gradual degeneration or reduction in the functionality and structure of the smallest toe on the human foot.
 - [Hominid Devolution](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#hominid-devolution)
-The gradual loss of the little toe in certain populations suggests evolving patterns of human locomotion and adaptation over time.
 - [The Sudden, Unexplained Disappearance of the Neanderthals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-sudden-unexplained-disappearance-of-the-neanderthals)
-Webbed hands and feet, particularly webbed toes, are more common in humans than perceived, offering insights into genetic diversity and adaptive traits.
 - [Taxon Variability or "Fuzz"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#taxon-variability-or-fuzz)
-The text discusses the supposed primitive characteristics observed in human hands and feet.
 - [Hominid Gracilization](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#hominid-gracilization)
-Comparative analysis of the structure of human hands and feet suggests they retain primitive characteristics that provide insights into evolutionary transitions compared to other vertebrates.
 - [Discoveries of Giant Hominid Skeletons](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#discoveries-of-giant-hominid-skeletons)
-Human females have notably larger breasts and buttocks compared to other primates, which may indicate evolutionary adaptations related to reproductive strategies or social communication.
 - [Discoveries of Very Small Hominid Skeletons](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#discoveries-of-very-small-hominid-skeletons)
-Human breasts are uniquely located on the chest, a position not shared by other mammals, highlighting an evolutionary peculiarity.
 - [Some Hominid Skeletal Curiosities](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#some-hominid-skeletal-curiosities)
-The unique positioning of human breasts, similar to that of sirenians and elephants, suggests intriguing evolutionary implications distinct from other mammals.
 - [Hominid Fossil-Sequence Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#hominid-fossil-sequence-anomalies)
-Rare occurrences of small, fleshy tails in humans, occasionally containing vertebrae, highlight unique genetic variations and offer insights into embryonic development and human anatomy.
 - [Evidence That H. sapiens Did Not Evolve on the African Savannahs](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#evidence-that-h-sapiens-did-not-evolve-on-the-african-savannahs)
-The concordance of human embryo growth reflects evolutionary developments through the sequential appearance of ancestral traits during prenatal development.
 - [Evidence of Hybridization between H. sapiens and H. neanderthalis](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#evidence-of-hybridization-between-h-sapiens-and-h-neanderthalis)
-The developmental stages of human embryos reflect evolutionary history, offering insights into the link between embryonic growth and ancestral characteristics.
 - [Anomalies in Hominid Evolution](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-in-hominid-evolution)
-This text explores various intriguing aspects of human biology and physiology, including anomalous odors related to health, natural body vibrations, the impact of hypnosis on physical attributes, correlations between physical traits and social perceptions, pregnancy-related body changes, philosophical musings on human nature, reproductive success linked to male height, and the presence of the golden ratio in human proportions.
 - [Anomalies in Human Bodily Functions](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-in-human-bodily-functions)
-The text explores various biological curiosities and correlations, such as twin development, hormonal beauty links, genetic syndromes, and evolutionary adaptations, shedding light on the intricate relationships between human physiology, genetics, and environmental factors.
 - [Anomalies in Human Genetic Tendencies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-in-human-genetic-tendencies)
-The text explores various aspects of human behavior, from the influence of Neanderthal ancestry on physical traits to the impact of external factors like solar activity, lunar phases, weather, and rhythmic stimuli on individual and collective behaviors, highlighting the complex interplay between genetics, environment, and societal dynamics.
 - [Anomalies in Human Health](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-in-human-health)
-The text explores various correlations between celestial phenomena and economic or social parameters, highlighting how cycles in solar activity, lunar tides, planetary alignments, and war scales reflect intricate connections between cosmic forces and human activities.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies)
-This text explores various patterns and correlations in human traits and behaviors, including religious cycles, group dynamics, sexual behaviors, handedness, bipedalism, birth timing, and intelligence, offering insights into the complex interplay of genetics, environment, and social factors.
 - [Healthful Effects of Tape-worms](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#healthful-effects-of-tape-worms)
-Research suggests that cataclysmic environmental events may have spurred increases in human intelligence and adaptability throughout history, offering insights into human resilience.
 - [Anomalous Animal Interactions](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalous-animal-interactions)
-This text explores various intriguing human characteristics and phenomena, ranging from the advantages of left-handedness in combat to the potential transfer of behavioral traits through organ transplants, offering insights into biology, psychology, and social behavior.
 - [Unusual Mammalian Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-mammalian-phenomena)
-The text explores various aspects of human cognition, cultural phenomena, and societal influences through lenses of psychology, sociology, and evolutionary theory, highlighting the complexity of human behavior and understanding.
 - [Anomalies in Mammalian Behavior and Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-in-mammalian-behavior-and-phenomena)
-Research suggests a higher likelihood of left-handedness among homosexuals and an increase in cognitive powers during winter, highlighting the need for further exploration into these intriguing correlations.
 - [Mammalian Chemical and Physical Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#mammalian-chemical-and-physical-phenomena)
-The text explores the evolution of human intellect and social characteristics, suggesting that while the non-material nature of intellect poses challenges to Darwinian evolution, social behaviors evolve through cultural transmission akin to "memes," and both can be influenced by environmental factors such as low-frequency atmospherics.
 - [Some Biochemical Curiosities in Mammals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#some-biochemical-curiosities-in-mammals)
-The text explores the mysterious effects of electromagnetic influences on humans, touching on both the environmental impacts on psychology and unusual physiological traits in individuals related to electrostatic and magnetic potentials.
 - [The Inability of Some Mammals to Synthesize Ascorbic Acid](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-inability-of-some-mammals-to-synthesize-ascorbic-acid)
-The text examines how body electric potentials vary with lunar phases, suggesting a link between environmental factors and human biological rhythms.
 - [Miscellaneous Blood and Biochemical Differences among Mammals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#miscellaneous-blood-and-biochemical-differences-among-mammals)
-Research into brain electricity via EEGs and the survival of extreme body temperatures highlights the profound insights and undiscovered mechanisms within human physiological and cognitive processes.
 - [Remarkable Biochemical Convergences](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#remarkable-biochemical-convergences)
-Investigations into atypical body temperature cycles, spontaneous human combustion, and retarded decay of the human body offer insights into human biological processes and challenge conventional understandings of combustion and decomposition.
 - [Distribution of Mammals in Space and Time](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#distribution-of-mammals-in-space-and-time)
-The text explores how humans differ from other animals in their internal chemical processes, such as the inability to synthesize vitamin C, while also touching on speculative ideas about internal elemental transmutation in humans.
 - [Claims of Late Survival of Mammoths and Mastadons](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#claims-of-late-survival-of-mammoths-and-mastadons)
-Blood chemistry variations, genetic polymorphisms, and the complexity of hemoglobin across animals highlight the intricate and sometimes mysterious nature of biological diversity.
 - [The Fossil Record of Mammals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-fossil-record-of-mammals)
-The diversity of hemoglobin types across species, the unusual geographical distribution of blood groups, and the occurrence of blood chimeras each offer unique insights into evolutionary adaptations, genetic links among populations, and the complexities of genetic inheritance.
 - [Unusual Faculties and Talents of Mammals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-faculties-and-talents-of-mammals)
-Recent studies show that fathers experience an increase in female hormones after their child's birth, challenging traditional gender roles, while new hominid skeletal findings continue to reshape our understanding of human evolution.
 - [8.2 Mammal "Conferences"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#82-mammal-conferences)
-The absence of transitional fossils challenges the evidence for evolutionary transitions between species.
 - [8.3 Duetting and Chorusing](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#83-duetting-and-chorusing)
-The scarcity of transitional fossils among major hominid species challenges our comprehension of the evolutionary timeline leading to modern humans.
 - [8.4 Elephant and Other Mammals Use Infrasound](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#84-elephant-and-other-mammals-use-infrasound)
-Sudden changes in hominid morphology, such as the transition from H. habilis to H. erectus, suggest intricate evolutionary processes influenced by environmental and adaptive pressures.
 - [8.5 Hippo Mysterious Underwater Clicks](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#85-hippo-mysterious-underwater-clicks)
-Hominid evolutionary stasis refers to periods during which human ancestors exhibited little to no significant anatomical or genetic change over extensive time spans.
 - [Seismic Communication](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#seismic-communication)
-The prolonged stasis of H. erectus over a million years offers significant insights into evolutionary processes and the selective pressures that shape species development.
 - [Mammals That Imitate Human Words](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#mammals-that-imitate-human-words)
-The observed decrease in brain size among H. sapiens challenges the traditional view of human evolution by suggesting unexpected devolutionary changes.
 - [Tool Use and Manufacture](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#tool-use-and-manufacture)
-The sudden and unexplained disappearance of the Neanderthals remains a mystery, intriguing researchers and scientists worldwide.
 - [Mammalian Engineering Works](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#mammalian-engineering-works)
-The study of human evolution is marked by various puzzles including the mysterious disappearance of Neanderthals, taxonomic complexities, shifts in skeletal robustness, discoveries of unusually sized skeletons, and unique skeletal features that collectively highlight the dynamic and diverse nature of human ancestry.
 - [Unrecognized Mammals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unrecognized-mammals)
-The discovery of hominid species appearing prior to their assumed predecessors challenges and refines our understanding of evolutionary sequences in hominid development.
 - [Unusual, Unprovoked Aggression among Mammals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-unprovoked-aggression-among-mammals)
-Fossil evidence suggests that Homo sapiens may have evolved in coastal environments rather than the traditional African savannahs, indicating a significant role of seacoast habitats in human development.
 - [Curious Associations of Mammals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#curious-associations-of-mammals)
-Genetic evidence indicates that hybridization between modern humans and Neanderthals has influenced human ancestry and diversity, while Neanderthal skeletal material suggests a higher level of cultural sophistication than previously thought.
 - [Do Predatory Mammals Kill the Unfit?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#do-predatory-mammals-kill-the-unfit)
-The discovery of flower burials among Neanderthals suggests they possessed a cultural sophistication and emotional depth previously attributed uniquely to modern humans.
 - [Unusual Gut Symbionts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-gut-symbionts)
-The discovery of human bones in North America dating before 25,000 years ago suggests earlier and potentially different migration patterns than previously understood, challenging established timelines and routes.
 - [A Parasite Makes Rats Unafraid of Cats](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#a-parasite-makes-rats-unafraid-of-cats)
-Fossilized hominid skeletal remains have been discovered in ancient geological formations, providing insights into human evolution.
 - [All-Female Populations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#all-female-populations)
-The discovery of the Freiberg coal skull challenges conventional timelines by indicating the presence of hominid remains in unexpected geological layers.
 - [Antibody Diversity Unusually Restricted in Reptiles](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#antibody-diversity-unusually-restricted-in-reptiles)
-Recent findings of modern human skeletons with Neanderthal-like features provide evidence suggestive of interbreeding between modern humans and Neanderthals.
 - [ORGANS OF REPTILES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#organs-of-reptiles)
-The discovery of Neanderthal characteristics in modern and ancient human skeletons across various regions suggests a complex evolutionary history marked by interbreeding and diverse adaptations, while unusual bodily functions like the descended larynx and slow breathing rates highlight unique human physiological traits.
 - [UNUSUAL TALENTS AND CAPABILITIES OF REPTILES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-talents-and-capabilities-of-reptiles)
-This text explores various intriguing anomalies related to human breathing and digestion, including nostril cycling, anomalous breath counts, fiery breaths, rumination, nondigestion of the stomach lining, and the presence of bezoars.
 - [UNRECOGNIZED REPTILES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unrecognized-reptiles)
-Observations and claims about correlations between human bleeding patterns and lunar phases, along with anomalies in human genetic tendencies such as chromosome evolution and genomic differences in identical twins, highlight the complex interplay between celestial influences and genetic variations in human biology.
 - [REPTILE INTERFACES WITH OTHER ANIMALS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#reptile-interfaces-with-other-animals)
-The higher variability of mitochondrial DNA in Sub-Saharan African populations suggests an older and more diverse genetic lineage, supporting theories of regional evolutionary origins.
 - [CHEMICAL REACTIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#chemical-reactions)
-The faster evolution rate of mitochondrial DNA compared to nuclear DNA provides insights into genetic adaptation and highlights the dynamic nature of human genetics.
 - [CAS UNUSUAL CHEMICAL SPECIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#cas-unusual-chemical-species)
-Despite their genetic similarities, humans and chimpanzees exhibit notable physical differences, highlighting the complex mechanisms involved in evolutionary divergence.
 - [UNUSUAL CHEMICAL SPECIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-chemical-species)
-Harmful genes persist in populations despite negative effects, and environmental factors like atmospheric ion density and solar activity may influence human health and disease patterns.
 - [CAS CLAIMED EXTRATERRESTIAL INFLUENCES UPON CHEMICAL REACTIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#cas-claimed-extraterrestial-influences-upon-chemical-reactions)
-The potential link between solar activity and disease outbreaks, like flu pandemics, suggests a need for deeper exploration into how cosmic factors might influence public health.
 - [CAW CHEMICAL WAVES AND OSCILLATIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#caw-chemical-waves-and-oscillations)
-Observations of unexpectedly low fractions of HIV-infected T-cells in AIDS patients challenge current models of infection and immune response, potentially offering new insights into disease progression and treatment.
 - [MISCELLANEOUS CHEMICAL PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#miscellaneous-chemical-phenomena)
-Research shows that a father's exposure to radiation can increase his children's cancer risk, highlighting environmental impacts on genetic inheritance, while various chronic diseases such as schizophrenia and Alzheimer's challenge medical understanding due to their unclear infectious origins.
 - [CC CONSTANTS OF NATURE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#cc-constants-of-nature)
-Modern applications of bloodletting using leeches have rejuvenated interest in this once archaic practice, highlighting its potential medical advantages in specific treatments.
 - [CYES A UNIVERSAL ATTRACTIVE FORCE (SIXTH FORCE)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#cyes-a-universal-attractive-force-sixth-force)
-Acupuncture, an alternative treatment, is increasingly acknowledged for its therapeutic effects in managing pain and enhancing overall health.
 - [COK SELF-ORGANIZING PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#cok-self-organizing-phenomena)
-The text highlights that mental wellbeing, such as coping mechanisms for significant life events, notably impacts physical health outcomes.
 - [CND RADIOMETRIC DATING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#cnd-radiometric-dating)
-Research suggests a potential link between surviving the bubonic plague and the development of AIDS, prompting inquiries into evolutionary immunity responses.
 - [CNR RADIOACTIVITY ANOMALIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#cnr-radioactivity-anomalies)
-Please provide the text to summarize.
 - [ANOMALIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies)
-The text explores diverse biological and health-related phenomena, ranging from demographic patterns of stroke incidence to the complex relationships between immunity, environment, and longevity, highlighting the intricate and sometimes surprising connections within human biology.
 - [ANOMALIES IN THE FOSSIL RECORD](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-in-the-fossil-record)
-The text explores various biological curiosities and adaptations, ranging from the thick soles of infant feet and the correlation between brain size and intelligence, to anomalous animal interactions and the peculiar relationships between humans and parasites like tape-worms and lice.
 - [GEOLOGICAL TIME (MILLIONS OF YEARS)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#geological-time-millions-of-years)
-Studies explore the inverse relationship between human parasites and allergies, viral manipulation of human behavior, genetic-level parasitism, human-Earth interconnectedness, and the impact of technology on human identity.
 - [ANOMALOUS CHEMICAL PHENOMENA IN GEOLOGY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalous-chemical-phenomena-in-geology)
-Mammalian evolution is marked by diverse adaptations and anomalies, such as the influence of ancient viruses on placental development, the complex human-bacteria interface, and unique physiological traits like toothed whales' divergent anatomy and naked mole rats' specialized colony-forming abilities.
 - [PETROLEUM ANOMALIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#petroleum-anomalies)
-Mammals showcase diverse evolutionary adaptations, from inherited traits and electrosensitivity to complex navigational skills and tool use, highlighting the breadth and depth of their evolutionary advancements.
 - [Unusual Geological Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-geological-anomalies)
-Diverse mammalian anomalies, from dogs sensing human seizures to shrews' rapid corpse decay, highlight the complexity and peculiarities of interspecies communication, biochemical processes, and evolutionary traits.
 - [Anomalies in Magnetic and Geophysical Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-in-magnetic-and-geophysical-phenomena)
-The text explores various unique aspects of mammalian biochemistry, physiology, distribution, fossil records, and behaviors, highlighting evolutionary adaptations and raising questions about biodiversity and conservation.
 - [Underwater Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#underwater-anomalies)
-Mammals exhibit diverse communication methods including duetting, infrasound usage, seismic communication, and imitation of human words, alongside showcasing engineering skills through tool use and construction of shelters and dams.
 - [Wave Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#wave-phenomena)
-Various animals, including beavers, elephants, and mice, modify their environments through the creation of canals, mines, and dew-catchers, respectively, showcasing their adaptive behaviors and impacts on their habitats.
 - [Luminous Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#luminous-phenomena)
-Orangutans display advanced spatial skills by building tree bridges, while the existence of unrecognized mammals and instances of unusual aggression in some species highlight the ongoing discoveries and complexities in mammalian behavior and biodiversity.
 - [Dynamic Earthquake Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#dynamic-earthquake-phenomena)
-Mammals such as red foxes, woodchucks, baboons, and bushbucks demonstrate curious associations that involve living together, sharing resources, and enhancing survival through symbiotic relationships for warning and feeding.
 - [Earthquake Cycles](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#earthquake-cycles)
-Predatory mammals typically do not specifically target weaker prey, indicating a more nuanced view of natural selection in predation.
 - [UNUSUAL VIBRATIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-vibrations)
-Unusual gut symbionts in some mammals, like tree kangaroos, play a crucial role in digestion and health, highlighting the complex relationships within mammalian biology.
 - [Exotic Seismic Signals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#exotic-seismic-signals)
-Parasites can alter rats' behavior to reduce fear of cats, showcasing evolutionary adaptability, while some lizard species maintain all-female populations through parthenogenesis, highlighting unique reproductive strategies for survival.
 - [EARTHQUAKE WEATHER](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#earthquake-weather)
-The antibody diversity in reptiles is notably limited compared to other vertebrates, potentially impacting their immune responses and adaptability.
 - [UNUSUAL SOUNDS IN NATURE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-sounds-in-nature)
-The independent mobility of eyes, seen notably in chameleons and sandlance, represents a remarkable evolutionary parallel with unique adaptations like the chameleons' negatively refractive lens, enhancing predatory accuracy.
 - [UNUSUAL CLOUDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unusual-clouds)
-Anoline lizards have translucent eyelids that act as natural sunglasses for sun protection, while sea iguanas can temporarily stop their hearts to avoid detection by predators like sharks.
 - [DARK DAYS, FOGS, AND OTHER OBSCURATIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#dark-days-fogs-and-other-obscurations)
-Crocodiles and alligators possess four-chambered hearts with actively controlled valves, an adaptation that enhances blood oxygenation and flow regulation, similar to mammals and birds.
 - [ANOMALOUS PRECIPITATION](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalous-precipitation)
-Snakes have fish-like eyes that focus through lens movement along the optical axis,不同于其他脊椎动物通过改变晶状体形状来聚焦，并且一些蛇类拥有淋巴心脏，提高了循环效率，这代表了独特的进化优势。
 - [TEMPERATURE ANOMALIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#temperature-anomalies)
-Snakes utilize heat-sensitive organs to detect infrared signals for hunting warm-blooded prey and have evolved with mostly only a right functional lung, showcasing unique adaptations to their environments.
 - [Genetic Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#genetic-anomalies)
-Reptiles exhibit a variety of unique talents and capabilities, such as the navigational prowess of loggerhead turtles, the electrostatic field detection of rattlesnakes, and the vocalizing abilities of geckos, while also fueling mysteries like the existence of the Loch Ness Monster and Mokele-Mbembe.
 - [Anomalous Incidence of Disease](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalous-incidence-of-disease)
-Sightings of large freshwater monsters like the Ogopogo and Chessie reflect humanity's enduring fascination with the unknown and the persistence of mythological elements in contemporary culture.
 - [Cultural Phenomena of Ancient Peoples](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#cultural-phenomena-of-ancient-peoples)
-The text explores various cryptozoological tales of giant reptiles across different environments, highlighting their contributions to folklore and scientific speculation, while also touching on unique animal interactions and unusual chemical phenomena.
 - [Anomalous Hominid Fossils](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalous-hominid-fossils)
-This text explores various unusual chemical species, including unexpected noble-gas compounds, speculative Red Mercury, stable calcium ions with unique configurations, nitrogen compounds with five bonds, supercharged hydrogen, heavy natural ozone, strangely twisted molecules, quasicrystals, and large molecular clusters, all of which challenge conventional chemical theories.
 - [Ancient Farming Practices](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#ancient-farming-practices)
-Solar activity's potential impact on chemical reaction speeds and battery efficiency is explored alongside dynamic chemical processes like Belousov-Zhabotinsky reactions, Liesegang phenomena, and spiral waves in biochemical reactions, which offer insights into non-equilibrium thermodynamics and biological pattern formation.
 - [Dynamics and Inter-Relationships of Ancient Cultures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#dynamics-and-inter-relationships-of-ancient-cultures)
-Various chemical phenomena, including the impact of magnetic fields on reaction rates, the prevalence of even-numbered carbon atoms in organic compounds, and unique polymer motions, highlight complexities and potential advancements in chemical kinetics, molecular stability, and materials science.
 - [Possibly Substantive Myth, Legend, and Tradition](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#possibly-substantive-myth-legend-and-tradition)
-The text explores various scientific mysteries and hypotheses, ranging from the origins of heavy elements post-Big Bang and spontaneous heat bursts in frozen hydrogen to the variability of the speed of light, each challenging established theories and opening new avenues for research.
 - [North American Boulder and Gravel Effigies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#north-american-boulder-and-gravel-effigies)
-CYES represents a proposed universal attractive force, often referred to as the sixth force, which aims to explain phenomena beyond the five known fundamental forces.
 - [Remarkable Calendars and Zodiacs](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#remarkable-calendars-and-zodiacs)
-Data collected from high-altitude towers indicate unusual gravitational behaviors, prompting questions about potential anomalies in gravitational forces.
 - [Maps](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#maps)
-Demonstrations of spontaneously assembling crystal clusters offer new insights into material formation processes and challenge current understandings of inclusivity in crystal chemistry.
 - [Depictions of Exotic Humans](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#depictions-of-exotic-humans)
-CND radiometric dating is a method used to determine the age of rocks and fossils by measuring the decay of radioactive isotopes within them. 
 
-(Note: The term "CND" in the original text isn't standard for radiometric dating and might be a typo or specific notation not widely recognized. The summary assumes it refers to a type or aspect of radiometric dating.)
 - [Scenes Displaying Supposed Advanced Technology](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#scenes-displaying-supposed-advanced-technology)
-CND radiometric dating is a method used to determine the age of rocks and minerals through the measurement of radioactive decay of specific isotopes within them.
 - [Depictions of Exotic Animals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#depictions-of-exotic-animals)
-Disparities in radiocarbon and uranium-series dating methods, evident in subfossil trees and human bones respectively, highlight the need for reevaluating conventional dating techniques and their potential impact on archaeological timelines.
 - [Unrecognized Species and Unclassifiable "Monsters"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#unrecognized-species-and-unclassifiable-monsters)
-CNR Radioactivity Anomalies refers to unusual fluctuations or deviations in radioactivity levels as measured by China National Radio (CNR).
 - [Depictions of Astronomical Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#depictions-of-astronomical-phenomena)
-Research suggests that external conditions such as pressure and temperature can influence the decay rates of radioactive materials, potentially impacting safety and storage protocols.
 - [Sculptures Apparently Products of Precocious Technology](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#sculptures-apparently-products-of-precocious-technology)
-Photinos are theoretical subatomic particles that are the supersymmetric partners of photons in particle physics theories.
 - [Large Accumulations of Art and Sculpture of Dubious Authenticity](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#large-accumulations-of-art-and-sculpture-of-dubious-authenticity)
-Photinos, predicted by supersymmetry and crucial for extending the standard model of particle physics, are theoretical particles that have yet to be detected.
 - [Rock Art Suggesting Precocious Animal Husbandry](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#rock-art-suggesting-precocious-animal-husbandry)
-The discovery of Higgs particles, which are thought to confer mass to elementary particles via the Higgs mechanism, provided significant validation for the standard model of particle physics.
 - [Tattooing and Body Marking](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#tattooing-and-body-marking)
-The decay of antiprotons involves the transformation of these subatomic particles into other particles, typically a neutral pion and a proton, through weak interactions.
 - [Inscriptions Providing Astronomical Information](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#inscriptions-providing-astronomical-information)
-The detection of antiproton decay in experiments offers insights into matter-antimatter asymmetries and challenges our understanding of antimatter stability.
 - [Anomalies in Nongraphic Artifacts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-in-nongraphic-artifacts)
-The text explores various exotic particles and phenomena, including demon deuterons, squarks, WIMPs, gluons, lambda particles, charge-parity violations, muon magnetic moments, cygnets, wimpzillas, and anomalons, each offering unique insights into the complexities of particle physics and potential new physics beyond the standard model.
 - [Anomalies in MMB Bone Artifacts Zealand](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-in-mmb-bone-artifacts-zealand)
-Cosmological mysteries such as the scarcity of antimatter, the origins of mass, and hypothetical forms of matter like strange and Lee-Wick matter, continue to challenge and expand our understanding of the universe's fundamental properties.
 - [Anomalies in Cloth and Textile Artifacts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-in-cloth-and-textile-artifacts)
-These anomalies, ranging from unexpected light beam interactions to annual fluctuations in quartz clocks, challenge our current scientific understanding and highlight areas for further investigation across multiple disciplines.
 - [Anomalies in Fossil Footprints, Tool Marks, and Other Geological Artifacts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-in-fossil-footprints-tool-marks-and-other-geological-artifacts)
-This text explores various anomalies in sonoluminescence and the fossil record, including periodic extinction events, the Cambrian explosion, deep-sea fossils, preserved organic matter, and inland marine organisms, highlighting the complex and sometimes mysterious processes of Earth's natural history.
 - [Anomalous Structures and Infrastructure](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalous-structures-and-infrastructure)
-Recent discoveries in paleontology, including high-altitude marine fossils, growth structures on marine organisms, animals entombed in solid rocks, deep-living bacteria, warm-climate fossils in polar regions, and time-wise anomalous fossils, challenge existing theories on geological timescales, fossilization processes, and ancient climate dynamics.
 - [ne Spheres at Some Temples](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#ne-spheres-at-some-temples)
-The reappearance of species in fossil records or present-day examples highlights the incompleteness of fossil records and challenges our understanding of evolutionary progress.
 - [Baalbek: The Tiahuanaco of the Old World](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#baalbek-the-tiahuanaco-of-the-old-world)
-The rare conditions for fossilization, the orientation of petrified trees in Arizona, the coexistence of terrestrial and marine fossils in single deposits, and the lack of increasing complexity in younger strata challenge traditional views on geological records and evolutionary processes.
 - [Miscellaneous Ancient Structures: Asia](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#miscellaneous-ancient-structures-asia)
-Biological lithification, bacterial mineral creation, dinosaur bones in bauxite, and chemical anomalies in the stratigraphic record highlight the complex interplay between biological and geological processes, prompting deeper investigations into Earth's history.
 - [Miscellaneous Ancient Structures: Oceania](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#miscellaneous-ancient-structures-oceania)
-Recent discoveries in geology, including chemical anomalies in rocks, unique surface films, rapid exothermic reactions, deadly gas pockets, violent lake turnovers, and unusual petrifications, challenge existing understandings and highlight the complexity of Earth's processes.
 - [Miscellaneous Ancient Structures: Africa](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#miscellaneous-ancient-structures-africa)
-The text explores various geological puzzles, including the impacts of natural combustion on coal formation, the debated origins of certain rocks, the potential extraterrestrial source of Earth's water, and the chemical mysteries of lakes and groundwater, highlighting the ongoing evolution of geological understanding.
 - [Musical Buildings](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#musical-buildings)
-The transformation of organic material into oil and the prevalence of odd-carbon atoms in older oils highlight ongoing mysteries and potential paradigm shifts in petroleum geology.
 - [WATER-CONTROL STRUCTURES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#water-control-structures)
-This text explores various geological anomalies including natural radioactive oils, hydrogen saturation in oils, the presence of bacteria in oil reservoirs, unusual striations attributed to ice-sheet action, and anomalous superficial markings, each offering new insights into geological processes and challenging existing assumptions.
 - [Four Notable Ancient Irrigation Systems](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#four-notable-ancient-irrigation-systems)
-Diverse geological anomalies, from dinosaur leather impressions and lengthy fulgerites to missing Antarctic ice shelves and buried boulder beds, continue to puzzle and intrigue researchers, challenging existing theories on Earth's history and geological processes.
 - [Curious Old Dams](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#curious-old-dams)
-Ancient geological formations offer insights into Earth's past, while Tunguska-like events and Mima Mounds present enigmatic features that challenge our understanding of terrestrial and extraterrestrial influences.
 - [MSC DOLMENS, MENHIRS, ROCKING STONES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#msc-dolmens-menhirs-rocking-stones)
-Various geological formations, including potholes with unique features, submarine canyons, and anomalies in the Grand Canyon, present challenges to conventional explanations and suggest complex, potentially undiscovered geological processes, while magnetic polarity reversals may correlate with diverse biological and climatic phenomena.
 - [MSE EXCAVATED STRUCTURES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#mse-excavated-structures)
-Geomagnetic field reversals, unusual natural sounds, offset solar halos, and giant low-sun shadow bands all represent intriguing anomalies that challenge scientific understanding and prompt further investigation.
 - [The Oak Island Shaft and Tunnels](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-oak-island-shaft-and-tunnels)
-This text explores various rare and curious optical and physical phenomena, including mock mirages, long-delayed radio echoes, eclipse shadow bands, curious mountain shadows, and downstream progressive waves, each challenging our conventional understanding of their respective fields.
 - [FORTS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#forts)
-Oceanic density layers cause dead water and slippery seas, large unexplained changes in lake levels challenge current hydrological models, rhythmic geysers at sea exhibit unpredictable eruptions, and unusual rainbows and halos present optical anomalies inviting further investigation.
 - [Notable Ancient Stone Forts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#notable-ancient-stone-forts)
-The text explores various underwater and oceanic anomalies, including foam accumulations, underwater eruptions, anomalous El Niños, long-lived oceanic rings, curious ocean drifts, and remarkable ocean current rips, each offering unique insights into water dynamics and environmental interactions.
 - [STONE ROWS, CIRCLES, AND OTHER SIMPLE STONE CONFIGURATIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#stone-rows-circles-and-other-simple-stone-configurations)
-The text explores diverse oceanic and atmospheric phenomena, ranging from gas-hydrate blowouts and powerful oceanic whirlpools to auroral pillars and ball lightning, highlighting their impacts on marine life, climate, and global circulation patterns.
 - [Claims of Physical Phenomena Associated with Stone Circles](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#claims-of-physical-phenomena-associated-with-stone-circles)
-This text explores various dynamic phenomena associated with earthquakes, including glowing mountain tops, luminous earthquake lights, upward propulsion of objects, gaseous emissions, magnetic effects, seismic gaps, and the correlation with Earth's rotation, highlighting the complex and multifaceted nature of seismic activities.
 - [Claims of Psychical Phenomena Concentrated at Stone Circles](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#claims-of-psychical-phenomena-concentrated-at-stone-circles)
-The study of earthquakes is complicated by chaotic data, unusual vibrations of unknown origin, exotic seismic signals from various sources, and debated connections to weather conditions, all of which challenge the prediction and understanding of seismic events.
 - [Did the French Build Actually Stonehenge?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#did-the-french-build-actually-stonehenge)
-Rainfall correlates with earthquake frequency, indicating a potential influence of weather patterns on seismic activity and prompting an investigation into the interplay between atmospheric and geological processes.
 - [Geometrical and Geographical Anomalies of Stone Rectangles](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#geometrical-and-geographical-anomalies-of-stone-rectangles)
-Unusual sounds in nature, ranging from unidentified aerial detonations to the musical calls of humpback whales, reveal the complexity and richness of natural acoustic environments, while unusual clouds add to the diversity of natural spectacles observed.
 - [Calendar Sites](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#calendar-sites)
-The text explores various atmospheric anomalies, including cloud arches, noctilucent clouds, dark days, and pogonips, highlighting their unique characteristics and implications for meteorology and human life.
 - [ANCIENT FURNACES, SMELTERS, HEARTHS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#ancient-furnaces-smelters-hearths)
-The text explores various anomalies in precipitation, temperature, and genetics, highlighting unusual weather phenomena and the HTLV-1 retrovirus's distribution, which suggests ancient connections between different regions.
 - [CAIRNS, SHELL MOUNDS, EARTHEN MOUNDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#cairns-shell-mounds-earthen-mounds)
-Various genetic studies reveal distinct patterns and anomalies in global populations, suggesting complex histories of ancient migrations and interactions among diverse human groups.
 - [ENIGMATIC MOUND COMPLEXES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#enigmatic-mound-complexes)
-Recent genetic studies challenge the theory of human evolution in China while revealing the extensive reach and isolationist tendencies of Polynesian migrations across the Pacific.
 - [CARVED ROCKS, SPHERES, COLUMNS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#carved-rocks-spheres-columns)
-Genetic, cultural, and fossil evidence from various ancient populations around the world challenge established narratives of human evolution, migration, and cultural development, revealing unexpected connections and anomalies.
 - [PYRAMIDS, ESPECIALLY THE GREAT PYRAMID](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#pyramids-especially-the-great-pyramid)
-Ancient skeletal evidence, farming practices, cultural dynamics, and traditional legends collectively paint a complex picture of human evolution, societal development, and global interconnectivity, challenging previous assumptions and highlighting the adaptability and diversity of early human populations.
 - [Anomalies of Comaicalco's Brick Pyramid and Associated Structures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-of-comaicalcos-brick-pyramid-and-associated-structures)
-Ancient artifacts and depictions across the Americas challenge traditional historical narratives by suggesting complex trans-oceanic connections, advanced calendrical systems, and cultural exchanges involving exotic humans and animals, thereby enriching our understanding of pre-Columbian civilizations.
 - [Anomalies of Palenque's Remarkable Temple of the Inscriptions](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-of-palenques-remarkable-temple-of-the-inscriptions)
-Ancient depictions of celestial events, precisely crafted sculptures hinting at advanced technology, and collections of questionable authenticity like the Crespi Gold artifacts, all contribute to ongoing discussions about the sophistication and mysteries of past civilizations.
 - [Anomalies of Teotihuacan's Pyramid of the Sun](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#anomalies-of-teotihuacans-pyramid-of-the-sun)
-Rock art, tattoos, inscriptions, and anomalies in artifacts challenge conventional timelines and practices, revealing early human sophistication in animal husbandry, cultural exchanges, astronomy, and migration patterns.
 - [The Great Pyramid: Statistics and General Anomalistics](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-great-pyramid-statistics-and-general-anomalistics)
-Various archaeological findings challenge established timelines, revealing earlier-than-expected human achievements in navigation, technology, and cultural development across different regions and epochs.
 - [Enigmatic Structures within the Great Pyramid](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#enigmatic-structures-within-the-great-pyramid)
-Recent findings challenge established timelines and narratives by suggesting earlier technological advancements, human migrations, and cultural exchanges in various parts of the world, including oceanic travel, pre-Clovis human activity, African origins of cattle domestication, and trans-oceanic influences in textile technologies.
 - [The Great Pyramid as an Information Repository](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#the-great-pyramid-as-an-information-repository)
-The text discusses unusual features found in fossil footprints, tool marks, and other geological artifacts that challenge conventional interpretations.
 - [PSYCHOLOGY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#psychology)
-Recent findings challenge conventional views on human impact, ancient technologies, and engineering capabilities, from questioning human responsibility for Australian megafauna extinctions to marveling at the precise stone work of the Incas and the mysterious transportation of massive stones in ancient constructions.
 - [INFORMATION-PROCESSING ANOMALIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#information-processing-anomalies)
-Ancient Indian builders demonstrated advanced metallurgical capabilities through the precocious use of iron beams, while structures in the Maldives showcased remarkable precision-fit stonework.
 - [EIDETIC AND AFTER-IMAGES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#eidetic-and-after-images)
-The precise stone fitting in Maldivian structures, akin to those on Easter Island and among the Incas, demonstrates a sophisticated level of construction skill and resource knowledge.
 - [MYSTERIES OF GENIUS AND CREATIVITY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#mysteries-of-genius-and-creativity)
-The discovery of wooden constructions in Aomori dating back to approximately 10,000 B.C. provides new insights into ancient building materials and techniques.
 - [MEMORY ANOMALIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#memory-anomalies)
-Inca-style masonry observed on Easter Island suggests potential cultural exchanges or migrations across distant regions.
 - [PSYCHIC BIOLOGY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#psychic-biology)
-Large stepped pyramidal temples, similar to the 40-foot-high structure found in Tahiti, exist in multiple locations and continue to intrigue with their design and purpose.
 - [CLAIMS OF POLTERGEIST PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#claims-of-poltergeist-phenomena)
-The use of immense stones weighing between 100 and 150 tons in Tongan construction highlights mysterious logistics behind their transportation and shaping.
 - [CROP-CIRCLE OBSERVATIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#crop-circle-observations)
-The widespread presence of marae across remote islands in Oceania and the使用比吉萨大金字塔中还要大的石块的非洲古代建筑，如吉萨的山谷神庙，这些结构的存在提示了尽管地理隔离，仍存在显著的文化活动，并邀请人们进一步探索古代采石和建筑实践。 
 
-（注：为了保持句子的流畅性，我将两个要点合并到了一个句子中，但保留了原文的主要信息。）
 - [CROP-CIRCLE HOAXES AND DEBUNKING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#crop-circle-hoaxes-and-debunking)
-The ancient construction techniques, featuring stones sometimes larger than those in the Great Pyramid and precision-fit interlocking similar to Incan styles, suggest sophisticated quarrying and building methods worthy of deeper exploration.
 - [PHENOMENA ASSOCIATED WITH CROP-CIRCLES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#phenomena-associated-with-crop-circles)
-Egyptian stone constructions exhibit techniques similar to those of the Incas, prompting inquiries into cross-cultural influences, while the enigmatic Osireion at Abydos continues to baffle historians with its obscure purpose and design.
 - [COINCIDENCES, SERIALITY, SYNCHRONICITY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#coincidences-seriality-synchronicity)
-Ancient structures, ranging from acoustically unique baptistries in Italy to advanced water transportation systems like the Canal of Joseph in Egypt and Peru's complex La Cumbre canal, showcase the remarkable engineering and architectural skills of historical societies.
 - [SEARCH FOR EXTRATERRESTRIAL LIFE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#search-for-extraterrestrial-life)
-Ancient irrigation systems, including Iran's 160,000-mile qanat network and Greece's water-condensing stone pyramids, showcase innovative methods for managing water resources.
 - [CLAIMS OF ALIEN ELECTROMAGNETIC SIGNALS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#claims-of-alien-electromagnetic-signals)
-The garden beds in Michigan and the Hohokan canal system in Arizona both showcase sophisticated agricultural adaptations, indicating advanced knowledge of land and water management by ancient cultures.
 - [CLAIMS OF UNIDENTIFIED AERIAL OBJECTS AND VEHICLES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#claims-of-unidentified-aerial-objects-and-vehicles)
-Ancient civilizations in the High Andes utilized platform agriculture to adapt to mountainous terrains, while massive artificial canal systems in the Amazon demonstrated sophisticated ecological management for irrigation and fisheries.
 - [MISCELLANEOUS AND OFTEN-BIZARRE PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/scientific-anomalies-index.md#miscellaneous-and-often-bizarre-phenomena)
-The text explores various ancient structures and phenomena, examining their engineering techniques, social significance, and the mysteries that surround them, ranging from curious old dams and dolmens to enigmatic pyramids and crop circles.
 
-# SCIENTIFIC ANOMALIES AND OTHER PROVOCATIVE PHENOMENA
+# SCIENTIFIC ANOMALIES AND OTHER PROVOCATIVE PHENOMENA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Expanding Universe:**
   This paradigm suggests that the universe is continuously expanding, a claim supported by redshift observations. However, anomalies challenge this notion, indicating that certain cosmic structures may not conform to this model.
@@ -992,12 +506,12 @@ The text explores various ancient structures and phenomena, examining their engi
 
 - **Special and General Relativity:**
   Einstein's theories revolutionized our understanding of space, time, and gravity. However, certain astronomical observations do not align neatly with predictions made by these theories, suggesting the need for further exploration into our understanding of gravity and light.
-# Conjunctions that Influenced Human History
+# Conjunctions that Influenced Human History [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Missing Planet**  
   One model of the solar system suggests there is a "missing" planet based on the orbital period ratios of Jupiter and Saturn. This anomaly was noted in the Sky & Telescope publication.
 
-# Orbital Anomalies of Comets
+# Orbital Anomalies of Comets [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **ACB2 Nonrandom Direction-of-Approach of Comets to the Sun**  
   Comets appear to approach the Sun in a nonrandom manner, which raises questions about the forces influencing their paths. This observation challenges existing models of comet formation and trajectories.
@@ -1020,7 +534,7 @@ The text explores various ancient structures and phenomena, examining their engi
 - **ACB12 Trans-Neptune Region Also Recognized as a Comet Source**  
   The realization that the Trans-Neptune region may serve as a source for comets questions previous assumptions about the origins of cometary bodies. This complicates our understanding of solar system formation.
 
-# Anomalies in the Earth’s Rotation
+# Anomalies in the Earth’s Rotation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **AGB1 Unexplained Variations in Latitude Measurements**  
   The Chandler Wobble indicates unexplained latitude variations, with an uncertain source still being investigated. This anomaly challenges our understanding of Earth's axial movement.
@@ -1028,7 +542,7 @@ The text explores various ancient structures and phenomena, examining their engi
 - **AGB3 Origin of Earth's Spin**  
   The origin of Earth's spin remains a mystery, encompassing all planetary spins. The forces and factors contributing to this phenomenon are yet to be fully understood.
 
-# Mercury's Orbital and Spin Anomalies
+# Mercury's Orbital and Spin Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **AHB2 Mercury's Anomalously High Eccentricity and Inclination**  
   Mercury's orbital characteristics suggest a history of past encounters or captures that influenced its current state. Such anomalies provoke questions regarding its evolutionary history.
@@ -1036,7 +550,7 @@ The text explores various ancient structures and phenomena, examining their engi
 - **AHB4 Orbital Instability and Possible Future Ejection**  
   Predictions of Mercury's potential ejection from the solar system highlight its unstable orbit. This adds a layer of complexity to the study of planetary dynamics.
 
-# Jovian Orbital Anomalies
+# Jovian Orbital Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **AJB1 Cyclic Disturbances of Jupiter's Orbit**  
   Jupiter exhibits cyclic disturbances that alter its position over a period of 12.4 years. Understanding these patterns is critical to unraveling the influences affecting its orbit.
@@ -1047,14 +561,14 @@ The text explores various ancient structures and phenomena, examining their engi
 - **AJW1 Periodicities of Jovian Atmospheric Features**  
   The variable brightness and motion of the Great Red Spot exhibit periodicities, which remain a subject of investigation. These atmospheric phenomena challenge our understanding of giant planet dynamics.
 
-# Anomalous Telescopic and Visual Observations
+# Anomalous Telescopic and Visual Observations [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **ALB1 Lunar Anomalies**  
   The Moon has exhibited an array of anomalies over the centuries, with many observations yet to be satisfactorily explained. From transient luminous phenomena to surface variations, these aberrations invite further research.
 
 - **ALX Lunar Eclipse Anomalies**  
   Lunar eclipses often lead to unexpected visual phenomena, such as stars appearing to hang on the edge of the Moon. Such anomalies highlight the complexities involved in celestial observations during eclipses.
-# LUNAR ANOMALIES GEOLOGY
+# LUNAR ANOMALIES GEOLOGY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Earth-Moon Intrinsic Instability**: The assumption is that tidal forces cause the moon’s recession, but discrepancies exist in the rates. This leads to questions about the moon’s long-term stability in orbit.
   
@@ -1108,7 +622,7 @@ The text explores various ancient structures and phenomena, examining their engi
 
 - **Moon's Interior May Still Be Molten**: Data from the Clementine lunar satellite indicate possible molten layers within the moon. This revelation raises questions about the moon’s thermal history and evolution over time.
 
-# CHEMICAL ANOMALIES AND THEORIES OF LUNAR ORIGIN
+# CHEMICAL ANOMALIES AND THEORIES OF LUNAR ORIGIN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Flaws in the Impact Theory of Lunar Origin**: Evidence suggesting inconsistencies with the impact theory poses significant challenges to this widely accepted notion. It points towards the necessity for alternate models of lunar formation.
 
@@ -1120,7 +634,7 @@ The text explores various ancient structures and phenomena, examining their engi
 
 - **Neutron Spectra Suggest the Presence of Ice**: Findings of neutron spectra indicating ice presence bolster the notion of complex lunar geology. Further studies of these signatures could provide valuable insight into the moon's resources.
 
-# ANOMALOUS TELESCOPIC AND VISUAL OBSERVATIONS
+# ANOMALOUS TELESCOPIC AND VISUAL OBSERVATIONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Doubling of Lunar Detail**: Increased observations of lunar surface detail present new questions about visibility and atmospheric effects. Such anomalies may indicate changes in composition or surface activity.
 
@@ -1150,20 +664,20 @@ The text explores various ancient structures and phenomena, examining their engi
 
 - **Areas Suggesting Vegetation**: Observations indicating possible vegetation-like features call for significant reevaluation of lunar surface characteristics. This anomaly requires thorough investigation to understand potential biological implications.
 
-# ANOMALOUS ION CLOUDS DETECTED ON THE LUNAR SURFACE
+# ANOMALOUS ION CLOUDS DETECTED ON THE LUNAR SURFACE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Clouds, Mists, and Obscurations**: Reports of clouds and mists on the moon intertwine with lunar optical phenomena. Their observed presence suggests complex interactions between solar activity and the lunar atmosphere.
 
 - **Anomalous Ion Clouds**: The detection of unexpected ion clouds on the moon surfaces implies interactions with the solar wind. This phenomenon may hold keys to understanding lunar atmospheric processes.
 
-# NEPTUNE'S ANOMALOUS MAGNETIC FIELD
+# NEPTUNE'S ANOMALOUS MAGNETIC FIELD [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Tilted Magnetic Field**: The unique inclination of Neptune's magnetic field raises questions about its origin. This anomaly challenges current theories regarding planetary magnetic fields and their generation.
 
 - **Localized Magnetic Spots in Crust**: The presence of these spots suggests uneven magnetization in Neptune's crust. Further studies might yield insights into the planet's geological history.
 
 - **Unexplained Origin of Long Magnetic Stripes**: The existence of these stripes in Neptune's magnetic field challenges existing models. Understanding their formation might lead to a clearer picture of Neptune's internal processes.
-# Halo 
+# Halo  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **The Unexplained Origin of Globular Clusters**  
   The true origin of globular clusters remains a mystery in astrophysics. Despite extensive research, their formation processes are not yet fully understood.  
@@ -1390,7 +904,7 @@ The text explores various ancient structures and phenomena, examining their engi
 - **Jets from Young Stars**  
   The existence of jets emitted by newly formed stars provides insights into their formation and evolution. Understanding these jets is vital for comprehending developmental processes in young stars.  
 
-# SATURN 
+# SATURN  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Saturn's Intrinsic Radiation**  
   The peculiar intrinsic radiation emitted by Saturn raises questions about internal processes. Determining the source of this energy could enhance the understanding of gas giants.  
@@ -1401,7 +915,7 @@ The text explores various ancient structures and phenomena, examining their engi
 - **Saturn Anomalies Seen Through the Telescope**  
   Observations of Saturn through telescopes reveal numerous oddities. These include everything from ring patterns to surface features that remain poorly understood.  
 
-# THE SUN 
+# THE SUN  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **The Sun's Motion within the Galaxy**  
   The unique orbital characteristics of the Sun challenge our understanding of stellar dynamics within the Milky Way. Its less elliptical orbit raises intriguing questions about solar system formation.  
@@ -1414,12 +928,12 @@ The text explores various ancient structures and phenomena, examining their engi
 
 - **Solar Eclipse and Occultation Phenomena**  
   Unusual occurrences during solar eclipses prompt continued examination of their effects on terrestrial phenomena. These eclipses remain vital for studying solar-terrestrial relations.
-# Anomalies in Eclipses on Atomic Clocks
+# Anomalies in Eclipses on Atomic Clocks [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Disappearance of White Light Corona**  
 The disappearance of white light corona during solar eclipses has been noted as a significant anomaly. This phenomenon raises questions about the interaction between solar rays and earthly phenomena.
 
-# Solar and Interplanetary Magnetic-Field Anomalies
+# Solar and Interplanetary Magnetic-Field Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Sudden, Unexplained Enhancements of the Interplanetary Magnetic Field**  
 Sudden enhancements of the interplanetary magnetic field occur without apparent cause, defying existing theories. This anomaly poses questions about the dynamics of solar interactions with cosmic phenomena.
@@ -1427,7 +941,7 @@ Sudden enhancements of the interplanetary magnetic field occur without apparent 
 - **Apparent Lack of a South Solar Magnetic Pole**  
 The absence of a discernible south solar magnetic pole challenges the established magnetic field models of the sun. This anomaly necessitates a reevaluation of our understanding of solar magnetism.
 
-# Cosmic Anomalies Detected Through Radiation
+# Cosmic Anomalies Detected Through Radiation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Absence of Appreciable Antimatter in the Observable Universe**  
 The notable lack of antimatter within the observable universe continues to baffle scientists. This anomaly has implications for our understanding of matter-antimatter asymmetry and cosmic evolution.
@@ -1435,7 +949,7 @@ The notable lack of antimatter within the observable universe continues to baffl
 - **Exceptional Increases in Cosmic-Ray Intensity**  
 An unprecedented increase in cosmic-ray intensity was reported in 1942, which remains poorly understood. This anomaly presents significant challenges for cosmic ray detection and modeling.
 
-# Uranian Magnetic Field Anomalies
+# Uranian Magnetic Field Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomalous Inclination of Uranus's Axis**  
 The unusual tilt of Uranus's rotational axis raises questions about the planet's formation and its magnetic field dynamics. This anomaly suggests the potential for atypical internal structures within the planet.
@@ -1443,7 +957,7 @@ The unusual tilt of Uranus's rotational axis raises questions about the planet's
 - **Highly Tilted Magnetic Field**  
 Uranus exhibits a magnetic field that is significantly tilted in relation to its spin axis, which is not typical among planets. This anomaly suggests complex interactions between the planet's rotation and its magnetic environment.
 
-# Venusian Anomalies
+# Venusian Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **The Negligible Magnetic Field of Venus**  
 Venus’s weak magnetic field, in contrast to those of Mercury and Earth, poses intriguing questions regarding its geological history and atmospheric dynamics. This anomaly has led to hypotheses about the planet's internal structure and atmospheric processes.
@@ -1451,14 +965,14 @@ Venus’s weak magnetic field, in contrast to those of Mercury and Earth, poses 
 - **Sudden Disappearance and Reappearance during Eclipses by the Moon**  
 During lunar eclipses, Venus has been observed to have sudden vanishings and reappearances. This phenomenon challenges conventional understandings of celestial mechanics and atmospheric interactions.
 
-# Galaxy Anomalies
+# Galaxy Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **The Origin and Existence of Galactic Clusters**  
 The formation and persistence of galactic clusters remain areas of debate within cosmology. This anomaly points to unknown physical processes that govern large-scale structure in the universe.
 
 - **The Anomalous Rotation of Matter in Galaxies**  
 The high rotational velocities of matter in the outskirts of galaxies indicate missing mass, contradicting Newtonian dynamics. This anomaly has fueled research into dark matter and its role in galactic structure.
-# Origin and Persistence of Double Radio Sources
+# Origin and Persistence of Double Radio Sources [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomalous Gravitational Distortion of Galactic Images:** This anomaly suggests the existence of missing mass within galaxies, which might indirectly point toward undiscovered forms of matter affecting galactic images. It raises questions about our understanding of gravitational influences in the cosmos.
   
 - **Magellanic-Cloud Anomalies:** Observations indicate that certain star clusters in the Magellanic Clouds are "populous" yet less dense than typical globular clusters. This contradicts existing models of star density and distribution.
@@ -1499,7 +1013,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Origin of the Bulge in Many Spiral Galaxies:** The formation process of bulges in spiral galaxies raises numerous questions about their evolutionary pathways. This anomaly can lead to deeper discussions about galactic mechanics and behavior.
 
-# GALACTIC MAGNETIC FIELDS
+# GALACTIC MAGNETIC FIELDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Magnetic-Field Anomalies in Our Galaxy:** Inconsistencies in the expected magnetic field patterns observed across galaxies suggest the presence of unknown influences. Further research could clarify how these anomalies affect galactic evolution.
 
 - **The Time-of-Generation Paradox:** The paradox stems from theoretical time-of-generation lengths exceeding the universe's age. This raises fundamental questions about our understanding of cosmic timelines.
@@ -1514,14 +1028,14 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Galaxies with Magnetic Spiral Arms:** The presence of magnetic fields in galaxies with spiral arms presents significant questions regarding their formation. This suggests intricate relationships between magnetic phenomena and galactic structures.
 
-# AX PLANET X
+# AX PLANET X [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Visual Observations of Planet X:** Historical visual observations, like the 1924 Ottawa Object, suggest an elusive large celestial body beyond Pluto's orbit. These findings reinforce the idea that there could be hidden astronomical objects affecting planetary dynamics.
 
 - **Claimed Infrared Observations of Planet X:** Modern infrared detection methods have identified potential candidates for Planet X. These candidates, though intriguing, often turn out to be misleading signals or other celestial bodies.
 
 - **Radio Observations of Planet X:** Advancements in radio detection technologies are shedding light on Planet X candidates. These observations contribute to the ongoing quest for understanding distant, undiscovered celestial objects.
 
-# AY METEORS AND METEORITES
+# AY METEORS AND METEORITES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Meteor and Meteorite Flux Anomalies:** Variations in the expected rates of meteor and meteorite occurrences may indicate hidden environmental influences. These anomalies could reshape understanding of atmospheric interactions.
 
 - **Anomalies in Meteorite Composition and Structure:** Studies reveal that meteorites often possess unexpected chemical signatures and structural traits. These discrepancies prompt a re-evaluation of our models for extraterrestrial materials.
@@ -1542,7 +1056,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Meteorites Impacting Humans and Structures:** The occurrence of meteorite strikes on human property presents significant safety concerns. This brings to light the potential hazards posed by space debris.
 
-# ANOMALIES IN METEORITE COMPOSITION AND STRUCTURE
+# ANOMALIES IN METEORITE COMPOSITION AND STRUCTURE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Isotopic and Inorganic Chemical Anomalies:** Meteorite samples often reveal unexpected isotopic compositions that defy current understanding. These anomalies push researchers to reconsider processes governing cosmic material formation.
 
 - **Organic Compounds in Meteorites:** Some meteorites have been found to contain organic materials, provoking discussions about possible extraterrestrial life. This challenges traditional views on the origins of life on Earth.
@@ -1565,7 +1079,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Dearth of Meteorites in Terrestrial Sediments:** The scarcity of meteorite samples found within terrestrial sediment layers presents challenges to geological theories. This anomaly could lead to new investigations into meteorite landing patterns.
 
-# ENIGMAS POSED BY METEORS IN FLIGHT
+# ENIGMAS POSED BY METEORS IN FLIGHT [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Erratic Meteors:** Instances of meteors traveling in zigzag or undulating paths suggest unknown atmospheric dynamics. Understanding these would enhance current models of meteor behavior.
 
 - **Large Meteorites with Negligible Craters:** The phenomenon where large meteorites create surprisingly small craters encourages exploration of impact dynamics. This anomaly raises questions about surface interactions and geological responses.
@@ -1590,7 +1104,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Unusually Intense Meteor Showers:** Intense meteor showers that exceed typical expectations challenge existing models of meteor activity frequency. Investigating these events may yield substantial data on cosmic patterns.
 
-# AZ THE ZODIACAL LIGHT
+# AZ THE ZODIACAL LIGHT [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Irregular and Sporadic Changes in Brightness:** Variability in the brightness of zodiacal light indicates potential influences not fully understood. Investigating these fluctuations may uncover key insights regarding interplanetary dust dynamics.
 
 - **Zodiacal-Light Color Changes:** Unexplained variations in color of the zodiacal light suggest changing conditions in interplanetary dust composition. This presents opportunities to explore the nature of cosmic materials.
@@ -1618,7 +1132,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Jovian Dust Streams:** The existence of dust streams influenced by Jovian gravity showcases the dynamic interplay of celestial forces. These phenomena might clarify the behavior of dust within and around the solar system.
 
 - **Interstellar Dust Encounters by Spacecraft:** Encounters with interstellar dust challenge assumptions on the density and behavior of cosmic materials. This opens new discussions on how spacecraft can contribute to our understanding of the universe.
-# Anomalies in Evolution
+# Anomalies in Evolution [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Decorator Crabs**: Some species of decorator crabs adorn themselves with debris that provides camouflage against predators. This unique adaptation allows them to blend seamlessly into their surroundings, increasing their chances of survival.
 
@@ -1685,32 +1199,32 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Preadaptation among Arthropoda**: The development of spider silk and spinnarets before insects evolved indicates instances of preadaptation in the animal kingdom. Such examples of evolutionary foresight challenge conventional narratives about the linearity of evolutionary processes.
 
 - **Evolutionary Stasis of Many Arthropods**: Species like horseshoe crabs demonstrate little evolutionary change over hundreds of millions of years. This stasis invites inquiry into the mechanisms that lead to stability in evolutionary trajectories.
-# olymorphic Sperm
+# olymorphic Sperm [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Short and Long Forms**: Anomalies observed in the presence of short and long sperm forms in species such as Drosophila. These variations may result in different fertilization efficiencies which can influence reproductive success.
 
 - **Fertilizing and Nonfertilizing Forms**: In certain butterflies and Drosophila, fertilizing sperm can saturate the system, causing delays in remating. This phenomenon raises questions about the evolutionary implications of sperm competition and female polyandry.
 
-# Female Selection of Sperm
+# Female Selection of Sperm [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Largest Selected**: In species like Utetheisa ornatrix, females tend to select the largest sperm as an indicator of male robustness. This selective pressure may impact male reproductive strategies in various species.
 
 - **Selection Depends upon Sperm Genotype**: The process by which females choose sperm based on genotype remains unclear, especially how females detect these differences. Investigating this could unravel mechanisms of post-mating sexual selection.
 
-# Male Pierces Special Spot on Female Abdomen
+# Male Pierces Special Spot on Female Abdomen [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - This behavior allows males to introduce sperm directly into female body fluids, facilitating sperm transport to the eggs. Interestingly, this act can sometimes occur during homosexual interactions, challenging traditional mating role perspectives.
 
-# Rabbit Fleas Produce Fertile Eggs Only When Feeding on Pregnant Rabbit
+# Rabbit Fleas Produce Fertile Eggs Only When Feeding on Pregnant Rabbit [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - This adaptation ensures that newly hatched fleas have immediate access to a suitable host, specifically baby rabbits. However, the mechanism by which fleas detect the pregnancy of their host remains an intriguing mystery.
 
-# Mites Hatch Inside Mother
+# Mites Hatch Inside Mother [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Only one male mite is produced among many siblings, and this male fertilizes all his sisters before dying. Such reproductive strategies highlight extreme parental investment and unusual life cycle patterns.
 
-# Tse-tse Flies Born Alive in a Hull Half the Size of Female
+# Tse-tse Flies Born Alive in a Hull Half the Size of Female [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - This unique birthing process allows infant tse-tse flies to burrow into the ground, where they develop in a protective environment. Such adaptations may represent an evolutionary strategy to enhance survival.
 
-# Some Insects Can Switch to Parthenogenesis
+# Some Insects Can Switch to Parthenogenesis [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Although rare, some female insects can reproduce without males, relying on parthenogenesis. This phenomenon illustrates how female insects can capitalize on available resources despite limited male encounters.
 
-# Succoring of Young
+# Succoring of Young [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **"Bee-bread" for Young**: Mason bees offer "bee-bread" to their young, showcasing a complex parental care system. This resource allocation emphasizes the importance of nutrition in early development.
 
 - **"Suckling" of Young**: Cockroaches exhibit behaviors to nourish their young, reflecting diverse strategies in parental investment among insects. These nurturing actions underscore the complexities of insect reproductive mechanisms.
@@ -1719,10 +1233,10 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Brood pouch for Young**: The opossum shrimp's brood pouch is an evolutionary adaptation that offers protection during early development stages. This structure illustrates a fascinating approach to minimizing predation risks.
 
-# Complexity of Metamorphosis
+# Complexity of Metamorphosis [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Metamorphosis in insects involves three distinct stages—larval, pupal, and adult—that appear almost as different species. The profound changes highlight an intricate evolutionary strategy of development and adaptation.
 
-# Puzzles of Periodical Cicadas
+# Puzzles of Periodical Cicadas [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **How Is Time Kept over the 13- and 17-year Cycles?**: Understanding how cicadas maintain such long life cycles remains a biological enigma. This raises questions about the role of genetics in life cycle regulation.
 
 - **Genetic Evidence that 13-Year Broods Are Mutation of 17-Year Cicada**: This insight implies a complex evolutionary relationship between cicada populations. The genetic connection between broods adds a layer to our understanding of evolutionary mechanisms.
@@ -1735,90 +1249,90 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Odd 11-Year Brood Exists in Arizona**: The existence of an 11-year brood raises intriguing questions about evolutionary pressures on insect life cycles. Notably, prime-numbered cycles demonstrate unusual patterns in ecological distribution.
 
-# Ability to Survive Near-Complete Dehydration
+# Ability to Survive Near-Complete Dehydration [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Tardigrades and chironomid flies exhibit remarkable resilience, surviving extensive dehydration. This ability highlights evolutionary adaptations to extreme environmental conditions.
 
-# Ability to Survive Complete Loss of Oxygen for Years
+# Ability to Survive Complete Loss of Oxygen for Years [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Brine shrimp display a fascinating capability to endure years without oxygen, posing questions about metabolic processes. Their resilience suggests unique evolutionary pathways among aquatic organisms.
 
-# Ability to Survive Freezing Temperatures by Synthesizing Antifreeze
+# Ability to Survive Freezing Temperatures by Synthesizing Antifreeze [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Certain species utilize antifreeze proteins, allowing them to thrive in frigid environments. This adaptation showcases biochemical innovation to cope with extreme conditions.
 
-# The Only Sweating Insect
+# The Only Sweating Insect [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The unique sweating capability of desert-dwelling cicadas facilitates thermoregulation and survival in harsh climates. This adaptation indicates how physiological traits are shaped by environmental pressures.
 
-# Nonbreeding Insects Live Longer
+# Nonbreeding Insects Live Longer [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Nonbreeding Drosophila demonstrate extended lifespans, suggesting reproductive roles may impact longevity. Understanding these patterns could provide insights into aging mechanisms in various species.
 
-# Death Rates Increase with Age
+# Death Rates Increase with Age [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Observations in ants and Drosophila reveal that age correlates with increased mortality risks. This trend aligns with broader biological principles observed across numerous species.
 
-# Lifespan Doubled by "Slightly" Disabling a Gene
+# Lifespan Doubled by "Slightly" Disabling a Gene [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Genetic manipulation in Drosophila has resulted in a notable increase in lifespan, providing a glimpse into the genetic controls of aging. This raises questions about the universality of such genetic influences across organisms.
 
-# Evolutionary Paradox: Natural Selection Should Increase Longevity But It Does Not
+# Evolutionary Paradox: Natural Selection Should Increase Longevity But It Does Not [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The observation that longevity does not consistently rise through natural selection presents a conundrum in evolutionary biology. This paradox invites deeper investigation into the complexities of fitness and survival.
 
-# Electrical Charges on Bees and Beehives Varies in Circadian and Annual Cycles
+# Electrical Charges on Bees and Beehives Varies in Circadian and Annual Cycles [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The circadian and annual variations in electrical charges observed in bees suggest intricate biological rhythms. This phenomenon highlights the multifaceted interactions within ecosystems.
 
-# Insect Vampirism
+# Insect Vampirism [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Adetomyrme colonies, adult ants exhibit vampiric behavior, consuming the larvae's blood for sustenance. This unusual dietary adaptation showcases the diversity of survival strategies in social insects.
 
-# Claim that Crab Metabolism Is Correlated with Cosmic-Ray Intensity
+# Claim that Crab Metabolism Is Correlated with Cosmic-Ray Intensity [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Researchers speculate about the potential correlations between crab metabolic activity and cosmic-ray exposure, prompting questions about environmental interactions. This hypothesis opens avenues for exploration into ecological physiology.
 
-# Spawning Correlated with Full and New Moons
+# Spawning Correlated with Full and New Moons [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Observations in species such as crabs and crayfish suggest lunar phases may influence reproductive cycles. Understanding these correlations could advance our knowledge of environmental cues in spawning behavior. 
 
-# Larval Transformation Triggered by Full and New Moons
+# Larval Transformation Triggered by Full and New Moons [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Certain species' larval transformations appear correlated with lunar cycles, indicating environmental synchronization in developmental processes. This phenomenon underscores the interconnectedness of life stages with celestial events.
 
-# Ant Lions Have No Anus
+# Ant Lions Have No Anus [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Ant lions rely exclusively on liquefied food sources, displaying a unique digestive adaptation. This trait signifies evolutionary optimization for their predatory lifestyle.
 
-# Krill Can Molt "Backwards”
+# Krill Can Molt "Backwards” [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The ability of krill to return to juvenile stages through molting highlights a unique aspect of their life cycle. Such reversibility raises intriguing questions regarding developmental biology and adaptations to environmental changes.
 
-# Recapitulation Does Not Occur in Insect Embryos
+# Recapitulation Does Not Occur in Insect Embryos [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Unlike mammals, insect embryos do not exhibit recapitulation, challenging existing evolutionary paradigms. This divergence prompts reconsideration of the developmental constraints across taxa.
 
-# Soldier-Production Increases When Ant Colony Threatened
+# Soldier-Production Increases When Ant Colony Threatened [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The production of soldier ants in response to perceived threats indicates a fascinating dynamic of resource allocation. This response underscores the complexities of ant social structures and their survival strategies.
 
-# Lack of Cilia
+# Lack of Cilia [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The absence of cilia in certain species, such as spiders and nematodes, raises questions about developmental pathways. Cilia, typically ubiquitous in biology, suggest unique evolutionary adaptations in these taxa.
 
-# Promiscuous Insects Evolve Faster
+# Promiscuous Insects Evolve Faster [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Increased mating with multiple partners may accelerate evolutionary changes in certain insect species. This phenomenon highlights the impact of reproductive strategies on genetic variability and adaptation.
 
-# Insect Globin Genes Lack Introns
+# Insect Globin Genes Lack Introns [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The lack of introns in insect globin genes, contrasting with those in other animals, presents unique genomic insights. This anomaly suggests different evolutionary pressures shaping genetic architecture.
 
-# Unusually High Frequency of Fertile Hybrids and Cross-Species Gene Flow
+# Unusually High Frequency of Fertile Hybrids and Cross-Species Gene Flow [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In some butterfly species, fertile hybrids and gene flow among different species indicate flexible reproductive barriers. Understanding these phenomena could enhance our grasp of speciation processes.
 
-# Extravagant Morphological Traits
+# Extravagant Morphological Traits [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The elaboration of morphological traits believed to be influenced by “selfish” genes raises questions about evolutionary trends. This phenomenon calls into question traditional views of natural selection and sexual dimorphism.
 
-# Presence of An Extra Chromosome That Destroys Paternal Chromosomes
+# Presence of An Extra Chromosome That Destroys Paternal Chromosomes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In the wasp Nasonia vitripennis, the presence of an extra chromosome that eliminates paternal chromosomes is a perplexing genetic anomaly. This situation invites questions about reproduction and genetic stability.
 
-# Insects with Few Chromosomes
+# Insects with Few Chromosomes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some insects exhibit notably reduced chromosome numbers, such as ant Myrmecia pilosula with one pair. Such reductions challenge conventional views of genetic complexity and stability.
 
 - Single Chromosome Only (e.g.; false spider mite): The existence of insects with only a single chromosome raises intriguing questions about genome evolution and biological diversity. This anomaly is an exception that can lead to significant biological insights.
 
-# Butterfly Wing Patterns Are Varied by Genes That Served Other Purposes during Development
+# Butterfly Wing Patterns Are Varied by Genes That Served Other Purposes during Development [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The specificity of butterfly wing patterns, directed by genes with alternative roles during development, raises fascinating evolutionary inquiries. These patterns illustrate the complexities of genetic regulation and adaptation.
 
-# At Least Seventeen Species of Insects Defeat All Insecticides
+# At Least Seventeen Species of Insects Defeat All Insecticides [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The impressive resistance observed in various insect species suggests extraordinary adaptations against chemical controls. Understanding these mechanisms can help inform pest management strategies.
 
-# In Social Insects, Queens Are Isolated from Environmental and Other Influences
+# In Social Insects, Queens Are Isolated from Environmental and Other Influences [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The seclusion of social insect queens from environmental pressures presents a paradox concerning natural selection. Investigating these dynamics could lead to insights into reproductive strategies and evolution.
 
-# Internal Structures
+# Internal Structures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Presence of Magnetite and Possible Magnetoreceptors**: Species like honeybees and butterflies exhibit magnetite presence, suggesting navigational capabilities. Understanding these structures could reveal important information about arthropod behavior and ecology.
 
 - **Circadian Clocks Running on Lunar Times**: Certain intertidal arthropods possess circadian clocks aligned with lunar rhythms, demonstrating another layer of behavioral adaptation. These insights refine our understanding of ecological timing mechanisms.
@@ -1829,7 +1343,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Ability of Some Insects to Return to Feeding Sites Punctually**: The capacity of certain insects to return to feeding sites precisely indicates advanced learning abilities. This behavior emphasizes exciting interactions between sensory processing and foraging strategies.
 
-# Arthropod Organs
+# Arthropod Organs [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Complexity and Sophistication of Arthropod Eyes**: The evolutionary development of arthropod eyes poses questions about the adaptive significance of their complex structures. The intricacies of their visual systems reflect the pressures of survival in diverse environments.
 
 - **Remarkably Early Appearance of Arthropod Eye Complexity**: Trilobite eyes show advanced features without apparent evolutionary precursors, suggesting sudden complexity in their evolutionary history. Such findings intrigue paleontologists and biologists alike.
@@ -1840,73 +1354,73 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Some Insects Respond to Light When All Known Visual Receptors Are Covered**: The potential for undiscovered dermal light sensitivity suggests additional layers of sensory processing in insects. Exploring these adaptations can unveil surprising capabilities in insect biology.
 
-# Some Insects Are Eyeless
+# Some Insects Are Eyeless [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Notable for having lost their eye structures, certain predatory surface-dwelling ants such as Dorylmei army ants illustrate extreme adaptations to their environments. This loss raises intriguing evolutionary questions regarding sensory reliance.
 
-# Some Insects, Especially Bees, Can See into the Ultraviolet
+# Some Insects, Especially Bees, Can See into the Ultraviolet [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The ability of bees to perceive ultraviolet light suggests evolutionary adaptations targeted toward enhancement of flower pollination and foraging behaviors. This sensory evolution indicates the complex relationship between plants and their pollinators.
 
-# Mantis Shrimp Eyes Possess 16 Visual Pigments
+# Mantis Shrimp Eyes Possess 16 Visual Pigments [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The diversity of visual pigments in mantis shrimp eyes exceeds that of humans, prompting inquiries into the ecological advantages of such adaptations. The extraordinary visual capabilities of mantis shrimp reflect unique evolutionary pressures.
 
-# Unique Sense Organs Permit Detection of Infrared Signals
+# Unique Sense Organs Permit Detection of Infrared Signals [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The ability of beetles like Melanophila acuminata to sense infrared signals showcases remarkable adaptations to locate resources. This capability highlights the intersection of ecological needs with evolutionary processes.
 
-# Eye Sensitivity Follows Circadian Rhythm in Some Species
+# Eye Sensitivity Follows Circadian Rhythm in Some Species [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Circadian rhythms affecting eye sensitivity in species like horseshoe crabs emphasize the link between physiological processes and environmental patterns. Understanding these connections enriches our knowledge of biological clocks.
 
-# Shrimp with Two Infrared-Sensitive Organs on Back
+# Shrimp with Two Infrared-Sensitive Organs on Back [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In vent shrimp like Rimicaris exoculata, having infrared-sensitive organs despite being eyeless represents a unique evolutionary adaptation. These adaptations raise questions about sensory evolution in dark aquatic environments.
 
-# Crustaceans with Usual Facet-Type Eyes Plus A Giant Facet on Back
+# Crustaceans with Usual Facet-Type Eyes Plus A Giant Facet on Back [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The presence of a giant facet providing camera-type binocular vision in creatures like Dioptromysis aucispinosa suggests convergent evolution among crustaceans. Such adaptations raise interesting ecological implications for predation and survival strategies.
 
-# Eyes Sensitive to Polarization of Sunlight
+# Eyes Sensitive to Polarization of Sunlight [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The sensitivity of many bees and Drassodes cupreus to polarized sunlight serves as a navigational aid, enhancing foraging efficiency. This feature provides directional information vital for orientation in complex environments.
 
-# Some Female Insects' Eyes Are Infrared-Sensitive
+# Some Female Insects' Eyes Are Infrared-Sensitive [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Certain female insects can detect warmed male bodies through infrared vision, aiding in mate selection. This adaptation exemplifies the interplay between sensory biology and reproductive strategies.
 
-# Insect Genital Organs Are Extraordinarily Complex and Bizarre
+# Insect Genital Organs Are Extraordinarily Complex and Bizarre [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The intricate designs of insect genitalia often lead to species identification, indicating significant evolutionary pressures on reproductive structures. Such complexity emphasizes the role of reproductive competition in evolution.
 
-# Some Bees Have Helical Photo-receptors
+# Some Bees Have Helical Photo-receptors [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Helical photoreceptors in some bees stabilize color perception in varying lighting conditions, presenting intriguing questions regarding their evolutionary development. This adaptation highlights the sophistication of insect sensory systems.
 
-# Honeybees Can Be Fooled by Optical Illusions
+# Honeybees Can Be Fooled by Optical Illusions [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The susceptibility of honeybees to optical illusions invites inquiry into the limits of their cognitive processing abilities. Understanding this phenomenon can enhance our grasp of animal perception and cognition.
 
-# Genital "Eyes"
+# Genital "Eyes" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Certain butterflies possess rear-mounted photoreceptors that assist in copulation, showcasing a fascinating adaptation. These structures illustrate the complex interactions between sensory systems and reproductive behaviors.
 
-# Some Insects Possess Additional 3 Frontal, Single-Lens Eyes
+# Some Insects Possess Additional 3 Frontal, Single-Lens Eyes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Frontal, single-lens eyes in some insects provide crucial orientation information, emphasizing the diverse adaptations among insect vision systems. This specialization showcases the evolutionary pressures on sensory organ development.
 
-# Male Parasitic Insect Has about 1000 "Eyelets"
+# Male Parasitic Insect Has about 1000 "Eyelets" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Male parasitic insects with numerous eyelets represent a unique adaptation for locating eyeless females efficiently. This extraordinary trait provides insight into the evolutionary trade-offs of sensory systems.
 
-# Some Crustaceans Have "Mirror" Eyes
+# Some Crustaceans Have "Mirror" Eyes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Certain crustaceans possess mirror eyes, which lack lenses, offering unique advantages in their ecological niches. This morphological trait invites exploration into the evolution of optical systems.
 
-# Eyes with Combination Lens and Mirror
+# Eyes with Combination Lens and Mirror [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The evolutionary development of eyes combining lens and mirror structures in species like Macropipus presents a complex narrative of adaptations. Understanding these structures can illuminate the evolution of visual systems in arthropods.
 
-# Insects with Bat-Sonar Detectors
+# Insects with Bat-Sonar Detectors [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some nocturnal insects like certain moths and butterflies possess evolved traits that enable sonar detection, reflecting unique adaptations to ecological pressures. This innovative sensory development illustrates the diversity of insect survival strategies.
 
-# Unique, Hyperacute Directional Hearing Organs
+# Unique, Hyperacute Directional Hearing Organs [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Hyperacute hearing in organisms like Ormia ochracea and Gryllus bimaculatus showcases extraordinary adaptations for predator evasion. These traits reveal the intricacies of auditory evolution within specific ecological contexts.
 
-# Some Caterpillars Possess Lungs
+# Some Caterpillars Possess Lungs [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Certain caterpillars exhibit lung-like structures, diverging from the typical respiration method employed by most insects. This adaptation underscores the diversity of respiratory strategies within the insect kingdom.
 
-# Some Insects Dwelling Underwater Possess Tracheal Gills
+# Some Insects Dwelling Underwater Possess Tracheal Gills [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Unique adaptations like tracheal gills in underwater insects enhance oxygen uptake in aquatic environments. This evolutionary trait exemplifies the complexities of life in diverse habitats.
 
-# Claim That Some Crustaceans Have Electric Organs
+# Claim That Some Crustaceans Have Electric Organs [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The existence of electric organs in certain crustaceans has been documented, although their specific purpose remains elusive. Investigating these structures could uncover fascinating ecological adaptations.
 
-# Unusual Capabilities of Arthropods
+# Unusual Capabilities of Arthropods [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Insects with a Magnetic Sense**: Insects such as bees, termites, and butterflies demonstrate an ability to sense magnetic fields, a capability that eludes complete understanding. This sensory adaptation poses intriguing questions about navigation in arthropods.
 
 - **Insects Sensitive to Gamma Rays**: The sensitivity of ants like Formica integra to gamma rays suggests unique environmental interactions. This raises questions about the biological and ecological implications of their exposure.
@@ -1925,7 +1439,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Ability of Deep-Sea-Vent Crustaceans to Appear at Newly Opened Vents**: This phenomenon suggests remarkable dispersal capabilities and ecological adaptability in hydrothermal ecosystems. Understanding these mechanisms could enhance our grasp of life in extreme environments.
 
-# Controversial Origins of Insect Wings and Power of Flight
+# Controversial Origins of Insect Wings and Power of Flight [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The diversity of insect wing structures points to multiple evolutionary pathways leading to powered flight. This complexity raises intriguing questions about the evolutionary pressures shaping these adaptations.
 
 - **Assertion by Experts That Insect Flight Cannot Be Explained by Conventional Aerodynamic Principles**: This assertion invites scrutiny into the mechanics of flight and challenges existing aerodynamic models. Investigating the contradictions provides a rich avenue for exploration.
@@ -1944,7 +1458,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Honeybee Dances Are Accompanied by Acoustical and Vibrational Signals**: The integration of acoustical and vibrational signals with bee dances further complicates our understanding of this communication form. The multifaceted dynamics of this communication may enhance social cohesion among colonies.
 
-# Some Interesting Examples of Arthropod Acoustical Communication
+# Some Interesting Examples of Arthropod Acoustical Communication [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Unpalatable Moths Emit Acoustical Warnings to Bats**: The signaling of unpalatable moths to bats illustrates an evolutionary response to predation pressures. This complex interaction highlights the role of auditory cues in survival.
 
 - **Ants Use Sound for High-Priority Colony-Wide Signals**: Ants employing sound to relay urgent signals within the colony demonstrate the sophistication of social communication. This reliance on auditory cues showcases the complexities of social organization in insects.
@@ -1955,14 +1469,14 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Unusual Use of Water Vibrations for Communication**: Water striders utilizing wavelet vibrations for communication represent unique adaptations in fluid environments. Such strategies highlight the diversity of sensory modalities among aquatic arthropods.
 
-# Existence of Elaborate Distributed Communication Networks
+# Existence of Elaborate Distributed Communication Networks [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Networks Used by Foraging Ants**: The immediate and coordinated responses of foraging ants to food discoveries illustrate intricate communication systems. Such networks optimize resource discovery and exploitation within colonies.
 
 - **Butterfly Communication Networks**: Observations at honey-feeding stations suggest complex communication among butterflies, reflecting social interactions that extend beyond mating. These behaviors illustrate the dynamics of ecological interactions.
 
 - **Termites Consuming a Wood Structure Communicate Acoustically**: The acoustic communication among termites during wood consumption underlines the significance of sound in social behavior. Understanding these cues can provide insights into cooperative strategies.
 
-# Arthropod Use of Tools
+# Arthropod Use of Tools [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Ant Lions Throw Grains of Sand to Better Subdue Captive Ants**: This tool use by ant lions highlights the adaptability of hunting strategies in predation. Investigating such behaviors sheds light on cognitive evolution in arthropods.
 
 - **Weaver Ants Use Their Silk-Producing Larvae to Sew Nest Leaves Together**: The silk manipulation by weaver ants indicates advanced behavioral adaptations in nest construction. Such practices exemplify complex social structures and cooperation.
@@ -1973,7 +1487,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Digger Wasps Tamp Burrow's Earthen Entrance with Small Stones**: The use of stones to fortify burrows demonstrates tool use and environmental manipulation by digger wasps. These adaptations highlight the intersection of behavior and ecology.
 
-# Unusual Arthropod Structures
+# Unusual Arthropod Structures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Giant, Air-Conditioned Termite Mounds Oriented to Minimize Solar Heating**: The architectural adaptations of termite mounds reflect an intelligent approach to thermoregulation. Such structures provoke inquiries into ecological engineering across species.
 
 - **Protective Shelters Built for "Domesticated" Insects and Paralyzed Prey**: The interesting behavior of Australian Spinifex ants in constructing shelters emphasizes the interdependent relationships between species. This complexity invites further investigation into mutualism.
@@ -1984,167 +1498,167 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **"Termite Bands"**: The kilometer-long ridges created by African termites exemplify significant environmental manipulation. These structures raise questions about the ecological impacts of such landscape engineering.
 
-# Fungal Gardens
+# Fungal Gardens [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The mutualism observed in leaf-cutter ants and some termites with fungal gardens presents an incredible evolutionary adaptation. Understanding the co-evolution of these species offers insights into complex ecological interactions.
 
-# Ability to Tunnel through Metal
+# Ability to Tunnel through Metal [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The capability of wasps like Silex gigas to tunnel through metal signifies remarkable adaptability and resourcefulness. Investigating this behavior can reveal more about the physical limits of arthropod capabilities.
 
-# Construction of Fog-Catchment Trenches in Desert
+# Construction of Fog-Catchment Trenches in Desert [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Desert beetles, such as Lepidochora, demonstrate innovative adaptations through trench construction to capture fog water. This ingenuity reflects evolutionary pressures to optimize water acquisition in arid environments.
 
-# Construction of Bridges from Surrounding Materials to Reach Food
+# Construction of Bridges from Surrounding Materials to Reach Food [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The bridge-building behavior of ants like Formica rubra illustrates complex social organization and problem-solving abilities. Such practices underscore the adaptive strategies in overcoming environmental challenges.
 
-# "Decorated" Spider Webs
+# "Decorated" Spider Webs [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Certain spider webs resembling flowers in ultraviolet light highlight sophisticated evolutionary strategies to attract prey. The artistic intricacy underscores the role of sensory perception in predation.
 
-# Construction of Underwater Nets to Trap Prey
+# Construction of Underwater Nets to Trap Prey [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The ability of caddis-fly larvae to build underwater nets showcases remarkable engineering and predatory adaptation. Such innovative hunting strategies reveal the diversity of resource acquisition among aquatic insects.
 
-# Construction of Silken Rafts
+# Construction of Silken Rafts [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some wolf spiders utilize silken rafts as a mechanism to navigate across water, demonstrating resourcefulness in prey capture. This behavior illustrates the intersection of physical adaptations and predatorial strategies.
 
-# Ability to Generate Sounds Powerful Enough to Stun or Kill Prey
+# Ability to Generate Sounds Powerful Enough to Stun or Kill Prey [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Pistol and snapping shrimp generate sounds potent enough to incapacitate prey, showcasing extraordinary adaptations in hunting techniques. This ability emphasizes the evolutionary significance of sound in ecology.
 
-# Acoustic Jamming of Bat Radar
+# Acoustic Jamming of Bat Radar [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The phenomenon of some moths utilizing acoustic jamming strategies against bat sonar indicates remarkable evolutionary adaptations. Understanding these defenses can contribute to insights into predator-prey dynamics.
 
-# "Singing" Ants
+# "Singing" Ants [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The vocalization of ants represents an intriguing aspect of communication and social dynamics within colonies. Exploring the implications of such signals can unveil complexities in insect behavior.
 
-# Sensitivity to Electric Fields
+# Sensitivity to Electric Fields [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Honeybees display agitation in response to electric fields, illustrating sensitive environmental interactions. This capability raises questions about the interfaces between arthropods and their physical surroundings.
 
-# Claim That Some Insects Produce Effect Similar to Electric Shock
+# Claim That Some Insects Produce Effect Similar to Electric Shock [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The phenomenon of electric shock-like effects in organisms such as the West Indies wheelbug presents a unique adaptation for defense or predation. Investigating these effects will elucidate the evolutionary roles of such adaptations.
 
-# Ability to Interpret Weak Acoustic Signals in a Noisy Environment Using Stochastic Resonance
+# Ability to Interpret Weak Acoustic Signals in a Noisy Environment Using Stochastic Resonance [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The ability of crayfish to decode weak acoustic signals in noisy habitats highlights incredible adaptations for communication. Such capabilities showcase the diversity of sensory perception in complex environments.
 
-# Apparent Mysterious Transfer of Huge, Helpless Ant Queen to New Cell
+# Apparent Mysterious Transfer of Huge, Helpless Ant Queen to New Cell [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The peculiar behavior of transferring a massive ant queen into new cells poses intriguing questions regarding colony dynamics. Investigating such phenomena can expand our understanding of social insect behaviors.
 
-# Survival of Huge Doses of Nuclear Radiation
+# Survival of Huge Doses of Nuclear Radiation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The remarkable resilience of cockroaches to nuclear radiation suggests unique biological adaptations to extreme conditions. This phenomenon invites further inquiry into the limits of biological survival.
 
-# Unusual Interfaces Between Arthropods and Other Species
+# Unusual Interfaces Between Arthropods and Other Species [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Botflies**: Once utilized for wound treatment, botfly larvae illustrate intriguing interspecies relationships, showcasing medicinal potentials of certain parasites. Their disinfectant properties provide an insightful look into ecological interactions.
 
 - **Subterranean Mosquitoes**: C. pipens mosquitoes in London's underground tunnels have adapted to prefer humans over other hosts, illuminating behavioral flexibility in urban environments. Understanding these shifts enhances knowledge of host-parasite dynamics.
 
-# Other Mammals
+# Other Mammals [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Fleas**: The behavior of fleas abandoning mammals experiencing elevated body temperatures signifies unique adaptive responses to host conditions. This phenomenon accentuates the intricacies of parasitic relationships.
 
 - **Moths**: Some moth species have evolved to feed on mammalian tears, provoking irritation to encourage secretion. This striking adaptation illustrates unusual feeding strategies among insects.
 
-# Birds
+# Birds [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Praying Mantises**: The predatory relationship between hummingbirds and praying mantises highlights ecological interactions between species. Such dynamics emphasize the complex interplay of predator-prey relationships.
 
 - **Flower Mites**: The unintended transport of flower mites by hummingbirds underscores intricate mutualistic relationships in pollination. This interaction highlights the roles of various organisms in ecosystem functioning.
-# Hearing
+# Hearing [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Organ to Locate Male Crickets**: The ability to locate male crickets through specialized hearing mechanisms reveals interesting adaptations in insect biology. It highlights how different species have evolved unique sensory organs to fulfill reproductive needs. 
 
-# Antbutterflies
+# Antbutterflies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Antbutterflies (Ithomiinae)**: These butterflies have an unusual relationship with army ants, feeding on the droppings associated with the ant birds that attend ant forays. This symbiotic behavior illustrates intricate ecological interactions where species rely on one another for sustenance.
 
-# Mites and Drosophila
+# Mites and Drosophila [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Mites and Drosophila**: There is unexpected evidence showing horizontal gene transfer from mites to fruit flies, demonstrating an unusual method of genetic exchange among organisms. This anomaly raises questions about the evolutionary pathways through which species can acquire new traits.
 
-# Cuckoo Bees and Red-Tailed Bumblebees
+# Cuckoo Bees and Red-Tailed Bumblebees [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Cuckoo Bees (Psithyrus rupestris) and Red-Tailed Bumblebees (Bombus lapidarius)**: Cuckoo bees invade the nests of bumblebees without facing any challenges and lay their eggs there. Their offspring rely on the host bees for rearing, highlighting a fascinating, albeit parasitic, reproductive strategy.
 
-# Parasitic Wasps and Many Insects
+# Parasitic Wasps and Many Insects [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Parasitic Wasps**: These wasps sting their hosts at precise locations to paralyze them before laying their eggs. Their larvae then consume the host, carefully avoiding vital organs to keep the host alive longer for sustenance purposes.
 
-# Deaths-Head Hawkmoth and Honeybees
+# Deaths-Head Hawkmoth and Honeybees [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Deaths-Head Hawkmoth and Honeybees**: This hawkmoth can produce distinctive sounds to enter bee hives without resistance, where it feeds on honey. Such behavior showcases an adaptation that allows this species to exploit bee resources without alarm.
 
-# Plants and Fungi
+# Plants and Fungi [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Plants and Fungi**: Beyond ant and termite gardens, many mutualistic relationships exist that are still poorly understood. The complexity of these specific interactions poses significant evolutionary questions concerning their development over time.
 
-# Wasps and Figs
+# Wasps and Figs [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Wasps and Figs**: Each fig species is pollinated by its respective wasp, which utilizes the fig as a breeding ground for its larvae. This tight co-evolution exemplifies the intricacies of mutualistic relationships among flowering plants and their pollinators.
 
-# Moths and Yucca
+# Moths and Yucca [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Moths and Yucca**: This symbiotic partnership is highly specific, where the yucca provides sustenance to moth larvae while the moths ensure pollination for the plant. Such interactions highlight the remarkable adaptations organisms can develop for mutual benefit.
 
-# Ants and Trees
+# Ants and Trees [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Ants and Trees**: Numerous examples illustrate how trees offer food in exchange for protection from ants, showcasing the benefits of mutualism in ecosystems. This relationship also emphasizes the evolutionary strategies adopted by both ants and trees to thrive.
 
-# Barnacles and Bryzoans
+# Barnacles and Bryzoans [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Barnacles and Bryzoans**: This unusual symbiotic relationship integrates a hard-shelled crustacean with a soft-bodied organism, providing camouflage to the barnacle while allowing the bryzoan to remain above the ocean bed. Such interactions indicate the varied evolutionary paths taken by marine life.
 
-# Crabs and Sea Anemones
+# Crabs and Sea Anemones [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Crabs and Sea Anemones**: Crabs gain camouflage and a stinging defense from their anemone counterparts, who in turn receive nourishment from the crab’s leftover food. This interdependent dynamic showcases how species can benefit mutually in their habitats.
 
-# Copepods and Salps
+# Copepods and Salps [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Copepods and Salps**: Here, copepods assist salps by cleaning them, ensuring their survival as these colonial organisms often become clogged with food particles. This example illustrates a remarkable way in which different marine species rely on one another for health and maintenance.
 
-# Bacteria and Fungus-Growing Ants
+# Bacteria and Fungus-Growing Ants [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Bacteria and Fungus-Growing Ants**: These ants use antibiotic-producing bacteria to control parasites within their fungus gardens, a fascinating example of biological warfare in nature. This relationship highlights the complexity of microbial interactions within insect societies.
 
-# Protist (Mixotricha paradoxa)
+# Protist (Mixotricha paradoxa) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Mixotricha paradoxa**: This intriguing microorganism resides in termite guts and comprises numerous smaller life forms, including bacteria, which facilitate wood digestion for the termites. Its existence underscores the cooperative intricacies of gut microbiomes in larger organisms.
 
-# Bacterium (Wolbachia)
+# Bacterium (Wolbachia) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Wolbachia Bacterium**: This bacterium skews sex ratios in certain insects by killing male embryos, promoting the survival and transmission of the bacteria through female hosts. It raises questions about reproductive strategies and genetic control in evolutionary biology.
 
-# Sea Snails and Amphipods
+# Sea Snails and Amphipods [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Sea Snails and Amphipods**: The amphipods utilize the sea snails as a defense mechanism by grasping them to deter potential predators. This behavior showcases an example of a parasitic relationship where one species can manipulate the survival of another for its own benefit.
 
-# Other Arthropods
+# Other Arthropods [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Rootheads (Rhizocephala)**: These barnacle-related organisms inject themselves into crabs, overtaking control and transforming male crabs into females. This parasitism ultimately influences the reproductive dynamics in crab populations, presenting a unique evolutionary shift.
 
-# Sheep-Liver Trematode
+# Sheep-Liver Trematode [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Sheep-Liver Trematode (Dicrocoelium dendriticum)**: This parasite is known to stage its life cycle within ants, compelling them to climb grass stalks to be eaten by sheep. This manipulation reveals the lengths to which some parasites will go to ensure their transfer to the next host.
 
-# Birds and Evolution
+# Birds and Evolution [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Evolution of Birds**: The transition from small dinosaurs to modern birds involved significant biological changes including feather development, respiratory adaptations, and skeletal modifications. These transformations exemplify the evolutionary adaptability vital for survival in changing environments.
 
-# Anomalies and Curiosities in the Avian World
+# Anomalies and Curiosities in the Avian World [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Remarkable Biological Features**: Birds exhibit several peculiar characteristics such as inheritable callosities, impressive mimicry, and extensive migrations by unassisted fledglings. Such traits provoke discussion on genetic transfer and instinctual behavior in navigational skills.
 
-# External Appearance and Morphology
+# External Appearance and Morphology [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **External Asymmetries**: The phenomenon of males displaying asymmetrical characteristics presents intriguing questions about sexual selection and evolution. Such traits challenge conventional understandings of avian biology and adaptation pressures.
 
-# Remarkable External Asymmetries
+# Remarkable External Asymmetries [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Male on One Side, Female on the Other**: This example of gynandromorphism raises questions about developmental biology and the genetics behind sexual differentiation in birds. The occurrence illustrates the complexities that can arise in sexual dimorphism and genetic expression.
 
-# Left Ovaries Only
+# Left Ovaries Only [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Left Ovaries Only**: Some female birds are known to possess only a left ovary, an unusual characteristic that prompts inquiries into reproductive efficiencies and anatomical evolution. This anomaly underscores the diversity of reproductive systems in avian species.
 
-# Owl Ear Tufts
+# Owl Ear Tufts [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Owl Ear Tufts**: The claimed lack of purpose behind ear tufts in owls poses interesting questions about the evolutionary value of seemingly redundant physical features. These adaptations invite speculation regarding their roles in camouflage, display, or auditory direction.
 
-# Bright Plumage Correlated with Parasite Control
+# Bright Plumage Correlated with Parasite Control [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Birds with Bright Plumage**: Brightly colored males are preferred by females, which correlates with lower parasite prevalence. This insight into sexual selection reveals the potential survival advantages conferred through attractive traits.
 
-# Peacock's Tail
+# Peacock's Tail [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **The Peacock's Tail**: The evolution of the peacock's extravagant tail can be perplexing, considering how it may attract predators. This raises questions regarding the adaptive significance behind such conspicuous traits in mating selection.
 
-# Plumage Polymorphism
+# Plumage Polymorphism [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Plumage Polymorphism**: The phenomenon where some females exhibit male-like plumage in specific contexts adds to the discussion on sexual selection and competition. It demonstrates the complexities of behavior and appearance in avian species.
 
-# Feathers Complexity
+# Feathers Complexity [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Complexity of Feather Characteristics**: The production of various feather pigments and patterns remains a challenging topic for evolutionary biology. Such complexity prompts questions regarding the genetic encoding and development of these remarkable features.
 
-# Albinism
+# Albinism [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Albinism in Birds**: Instances of albinism in species like robins exemplify genetic anomalies that can affect survival and reproduction. These rare mutations often introduce variable ecological interactions for affected individuals.
 
-# Silent Feathers
+# Silent Feathers [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Silent Feathers**: Certain species, like owls, possess specially adapted feathers that allow for silent flight, enhancing their predatory abilities. This demonstrates a remarkable evolutionary adaptation that aids in hunting success rates.
 
-# Neoteny in Feathers
+# Neoteny in Feathers [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Neoteny in Feathers**: Some birds retain juvenile feather characteristics into adulthood, raising discussions about evolutionary reversal and the significance of such traits. For instance, the ostrich exemplifies this characteristic, adding layers to our understanding of bird evolution.
 
-# Handedness in Birds
+# Handedness in Birds [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Handedness in Birds**: Certain avian species display a preference for one foot, akin to handedness in humans, which opens avenues for research into neurological and developmental aspects of avian behavior. This trait further illustrates the richness of animal behavioral diversity.
 
-# Curious Unexplained Automatisms
+# Curious Unexplained Automatisms [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Unexplained Automatisms**: Many bird species exhibit peculiar behaviors like head tics and rocking movements without obvious purpose, presenting puzzles for ethologists. Understanding these might shed light on the neurological underpinnings of instinctive actions in birds.
-# Anomalies in Avian Behavior and Biology
+# Anomalies in Avian Behavior and Biology [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Avian Vampirism**  
   The presence of avian species such as Oxpeckers and Galapagos Mockingbirds exhibiting vampiristic behaviors is insightful. Their interactions with other birds pose significant implications for understanding their ecological roles.
@@ -2202,7 +1716,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Complexity and Sophistication of the Avian Eye**  
   The unique adaptations of avian eyes, such as tubular structures and dual foveae, highlight the evolutionary pressures that have shaped bird vision. These complexities underline the innovative solutions birds have developed to survive and thrive in diverse environments.
-# Ramparts for Wind Protection (e.g.; Bar-tailed Larks)
+# Ramparts for Wind Protection (e.g.; Bar-tailed Larks) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Use of Twigs and Thorns to Reach Prey**: Many bird species use tools like twigs and thorns to extract insects and other prey from hard-to-reach places. This behavior demonstrates a level of intelligence and adaptability in foraging strategies among various species.
 
@@ -2216,39 +1730,39 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Use of Automobiles as Nutcrackers**: American and Carrion Crows demonstrate the ability to drop nuts onto roads for automobiles to crush them. This innovative use of human-made objects exemplifies their adaptability to urban environments.
 
-# Communication between Chick Embryos
+# Communication between Chick Embryos [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Vocal Clicks and Vibrations Synchronizing Hatching**: In some species, embryos communicate using vocalizations or vibrations to synchronize their hatching process. This behavior may promote survival through coordinated emergence.
 
-# Songs of Darwin's Finches
+# Songs of Darwin's Finches [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Change as Beaks Adapt to Environmental Conditions**: The songs of Darwin's Finches adapt alongside changes in their beaks, reflecting a connection between morphology and communication. This adaptability highlights the interplay between physical traits and behavioral strategies.
 
-# Buried Food Detected by Back-Pressures
+# Buried Food Detected by Back-Pressures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Detection by Red Knots Employing Herbst Corpuscles**: Red Knots detect food buried under sand using specialized nerve endings called Herbst corpuscles. This exceptional sensory adaptation illustrates how birds can exploit otherwise hidden resources.
 
-# "Wing-Singing"
+# "Wing-Singing" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Rapid Snapping of Wings Combined with Vocalizations**: Some manakins engage in a behavior called "wing-singing," where they rapidly snap their wings together while vocalizing. This unique combination serves as an intricate form of courtship display.
 
-# Vocal Beat Phenomenon
+# Vocal Beat Phenomenon [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Use of Two-Voice Capability to Locate Chicks**: Emperor Penguins use a unique two-voice vocalization technique that generates a beat frequency. This adaptation helps them locate their chicks in large colonies among many others.
 
-# Serious Attacks on Humans by Birds
+# Serious Attacks on Humans by Birds [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Notably by Ostriches and Cassowaries**: Ostriches and cassowaries have been documented as aggressive toward humans, causing serious injuries. These interactions reveal how birds can perceive threats and react defensively.
 
-# Unusual Predators of Birds
+# Unusual Predators of Birds [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Predation by Unexpected Species**: Species such as frogs, fish, praying mantises, and snapping turtles have been observed preying on birds. This predatory behavior illustrates the unexpected dynamics of food webs in ecosystems.
 
-# Unusual Bird-Animal Psychological Interfaces
+# Unusual Bird-Animal Psychological Interfaces [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Hypnosis or Fascination by Other Animals**: Instances of birds displaying hypnotic interactions with animals like humans, snakes, or weasels reveal fascinating behavioral complexities. These psychological interfaces provide insight into the cognitive abilities of various species.
 
-# Curious Associations of Birds with Other Animals and Plants
+# Curious Associations of Birds with Other Animals and Plants [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Humans (e.g.; honeyguides)**: Honeyguides are known to lead humans to beehives. This mutualistic relationship illustrates the complex social interactions between humans and certain bird species.
 
@@ -2260,7 +1774,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Plants (e.g.; Dodos and the Calvaria tree)**: The Calvaria tree's seeds require abrasion by Dodo birds to germinate. This extinct interaction emphasizes the effect of species loss on ecological relationships.
 
-# Unusual Piscine Behavior
+# Unusual Piscine Behavior [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Body Inflation for Defense**: Some pufferfish species can inflate their bodies for protection against predators. This unique defense mechanism highlights the evolutionary adaptations of fish in response to threats.
 
@@ -2278,7 +1792,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Remarkable Fish Congregations**: Fish exhibitions, such as moon-initiated spawning aggregations, highlight social behaviors and environmental triggers for reproduction. This reflects the importance of timing and collective behavior in spawning success.
 
-# Unusual Hunting Techniques
+# Unusual Hunting Techniques [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Use of Lures**: Anglerfish are known to use lures that resemble small fish to attract prey. This remarkable hunting strategy showcases their adaptation for effective predation.
 
@@ -2290,7 +1804,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Females That Prefer to Mate with Other Species**: Pecos pupfish females often choose males from closely related species, showing preferences that could affect genetic diversity. This behavior sparks interest in the mating dynamics within species boundaries. 
 
-# Claims of Regular Cycles of Activity
+# Claims of Regular Cycles of Activity [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **In About 6-Hour Periods**: Many fish species exhibit patterns of activity that occur in approximately six-hour cycles. This rhythm suggests underlying biological clocks affecting their behavior and ecology. 
 
@@ -2301,7 +1815,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Fish Learning Abilities**: Some species, like goldfish, exhibit annual cycles in their learning abilities. This cognitive adaptability demonstrates the complexities of fish behavior and their environmental responsiveness.
 
 - **Claims of Piscine Altruism**: Various instances of fish displaying altruistic behaviors, such as protecting the young of other species, prompt questions about social structures. Observations of such behaviors challenge traditional views of self-preservation in animal kingdoms.
-# ANOMALIES IN FISH
+# ANOMALIES IN FISH [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Blind Fish in Caves**  
   Many species of fish found in caves exhibit a loss of eyesight due to adaptation to their dark environments. This phenomenon raises questions about the evolutionary pathways of these fish.
@@ -2354,7 +1868,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Fins Evolved Multiple Times in Primitive Fish**  
   The independent evolution of fins in various fish lineages points to convergent evolutionary processes. This illustrates how similar ecological niches can lead to analogous adaptations.  
 
-# PISCINE BODILY FUNCTIONS
+# PISCINE BODILY FUNCTIONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Warm-Blooded Fish**  
   Contrary to common beliefs, certain fish such as tuna and mackerel sharks are endothermic, maintaining body heat. This trait enhances their predatory efficiency in cold waters.
@@ -2386,7 +1900,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Growth Never Ceases in Some Fish**  
   Certain species like carp exhibit indeterminate growth, continuously expanding in size throughout their lives. This trait raises questions about the limitations of growth patterns in fish.  
 
-# FISH GENETICS
+# FISH GENETICS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **mtDNA Study Indicates Coelacanths Genetically Far from Tetrapods**  
   Research suggests that coelacanths are not transitional species, being genetically distinct from tetrapods. This finding has significant implications for understanding vertebrate evolution.
@@ -2400,7 +1914,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Evolutionary Stasis of Some Fish**  
   The evolutionary stasis observed in some fish species, owing to "linked genes," indicates that genetic constraints may limit adaptability. This highlights how evolutionary processes can vary significantly across lineages.  
 
-# INTERNAL STRUCTURES OF FISH
+# INTERNAL STRUCTURES OF FISH [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Presence of Brain-Heater Elements**  
   Certain fish like swordfish possess brain-heater elements to maintain optimal brain function during deep dives. This adaptation demonstrates the intricate physiological mechanisms supporting high-performance predation.
@@ -2417,7 +1931,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Presence of Magnetite**  
   Certain fish species exhibit magnetite, potentially for navigation purposes. This adaptation opens intriguing avenues of research into the sensory capabilities of aquatic organisms.
 
-# FISH ORGANS
+# FISH ORGANS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Fish with Unusually Large Brains**  
   The elephant fish's brain, which accounts for 3.1% of its weight, surpasses that of humans, necessitated by its reliance on sensory data. This exceptional brain size illustrates the evolutionary adaptations related to sensory processing.
@@ -2440,7 +1954,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Remarkable Fish Retinas and Visual Pigments**  
   Some fish, like conger eels, possess tiered retinas with multiple layers of visual receptors, enhancing their visual capabilities. Such adaptations underscore the evolutionary pressures shaping sensory functions in fish.
 
-# FISH TALENTS AND CAPABILITIES
+# FISH TALENTS AND CAPABILITIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Presence of a Magnetic Sense**  
   Certain fish have demonstrated a magnetic sense that may facilitate navigation, as indicated by laboratory studies. Understanding this capability could revolutionize our comprehension of fish navigation mechanisms.
@@ -2457,7 +1971,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Electrical Sensors and Sources**  
   Diverse fish species have developed electrical sensing capabilities, prompting questions about whether these adaptations arose independently or through convergence. This invites further exploration into evolutionary innovations.
 
-# UNUSUAL INTERFACES BETWEEN FISH AND OTHER SPECIES
+# UNUSUAL INTERFACES BETWEEN FISH AND OTHER SPECIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **The Candiru, the Only Vertebrate Parasite of Humans**  
   This small catfish can invade the urogenital tract of vulnerable swimmers, serving as a reminder of the ecological interactions between fish and humans. Such incidents highlight the complexities of aquatic ecosystems and human risks.
@@ -2476,498 +1990,498 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Sea Cucumbers and Pearlfish Symbiosis**  
   The interaction between pearlfish and sea cucumbers, where the fish seek shelter within the cucumber's body, exemplifies protective symbiosis in marine ecosystems. This relationship presents intriguing biotic interactions for further study.
-# Differences between Humans and the Great Apes
+# Differences between Humans and the Great Apes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Despite virtually identical genomes, particularly with chimpanzees, humans exhibit significant differences from great apes. This raises questions about evolutionary processes that have led to such variations.
 
-# Sports, Monsters, Terata
+# Sports, Monsters, Terata [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Siamese twins and similar conditions are often considered outside the realm of normal anomalies. They challenge traditional understandings of human biology and genetics.
 
-# Two Separate Populations of Pygmies
+# Two Separate Populations of Pygmies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Large genetic and geographical separations exist between African Pygmies and Asian Negritos. This suggests the possibility of independent evolutionary paths, which is fascinating in the context of human migration and evolution.
 
-# Birth Weight Varies with Month of Birth
+# Birth Weight Varies with Month of Birth [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Birth weight has been observed to peak in May in the Northern Hemisphere and in December in the Southern Hemisphere. This phenomenon could be linked to environmental factors affecting fetal development during different seasons.
 
-# Human Sexual Dimorphism
+# Human Sexual Dimorphism [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Human sexual dimorphism is atypical among primates, particularly when compared to great apes. This raises interesting questions about the evolutionary pressures that shaped human development.
 
-# Sex-Ratio Variations
+# Sex-Ratio Variations [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - There are notable geographical variations in sex ratios, with U.S. presidents reportedly producing 90 sons and 61 daughters as of 2000. Such trends could indicate underlying social or environmental influences.
 
-# The Soldier Effect
+# The Soldier Effect [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Observations suggest that more boys are born following wars, a phenomenon termed "The Soldier Effect." This correlation may reflect biological responses to wartime stressors.
 
-# Fathers Working at Nuclear Plants Produce More Sons
+# Fathers Working at Nuclear Plants Produce More Sons [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Studies indicate that fathers employed at nuclear plants tend to have more sons. This suggests an intriguing connection between environmental factors and reproductive outcomes.
 
-# Dominance of Sons in Some Families
+# Dominance of Sons in Some Families [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In certain families, sons have historically outnumbered daughters over generations. This enduring trend prompts considerations of familial structures and cultural preferences regarding gender.
 
-# Gradations between Male and Female
+# Gradations between Male and Female [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The diversity of male and female characteristics has led scientists to deem the Y-chromosome theory inadequate for explanation. The shrinking size of the male Y-chromosome adds another layer of complexity to this issue.
 
-# The Sacral Spot
+# The Sacral Spot [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - This colored spot appears in infancy and is notable among populations such as Japanese, Eskimos, and Mayans. Its presence may contribute to theories about human migration and settlement patterns in the New World.
 
-# Presence of a Linear Pigmentation Peculiarity on the Upper Arms of Some Blacks
+# Presence of a Linear Pigmentation Peculiarity on the Upper Arms of Some Blacks [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some individuals exhibit a unique pigmentation pattern on their upper arms, which raises questions about genetic variation and environmental adaptation. This peculiarity is not commonly observed across all populations.
 
-# Spotted or Piebald People
+# Spotted or Piebald People [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Individuals with spotted or piebald traits, characterized by inheritable white spots, present an interesting case for studying genetic diversity. These traits can serve as a window into understanding human genetic variation.
 
-# Visible Radiation Emitted by the Human Body
+# Visible Radiation Emitted by the Human Body [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The phenomenon of visible radiation from the human body, including luminous wounds often caused by bacteria, piques scientific curiosity. Such occurrences may provide insights into human physiology and health.
 
-# Unidentified, Problematical Radiation Emitted by the Human Body
+# Unidentified, Problematical Radiation Emitted by the Human Body [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Claims of various types of radiation emitted by the human body, such as N-rays and I-rays, remain largely speculative and unfounded scientifically. This area of study centers on uncovering the mysteries behind such anomalous claims.
 
-# The Supposed Human Aura
+# The Supposed Human Aura [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Psychics often claim the existence of a luminous fringe around humans, termed the "aura." This notion invites skepticism and discussion regarding perception and consciousness.
 
-# Excessively Hairy Humans
+# Excessively Hairy Humans [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some individuals show a pronounced excess of body hair, drawing attention to genetic and environmental factors influencing this trait. Research into such cases raises questions about societal standards of normalcy.
 
-# Gradations between Male and Female (continued)
+# Gradations between Male and Female (continued) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Notably, inheritance patterns related to excessive hairiness are observed, which may correlate with dental abnormalities in some cases. These possible links highlight the intricate relationship between genetics and physical traits.
 
-# Sudden Loss of Hair and (Sometimes) Regrowth
+# Sudden Loss of Hair and (Sometimes) Regrowth [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Instances of sudden hair loss, potentially triggered by fear or stress, along with occasional regrowth, present a perplexing physiological response. This necessitates further research into the mechanisms behind such phenomena.
 
-# Baldness among Musicians
+# Baldness among Musicians [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Observations suggest that baldness is particularly prevalent among musicians, especially in brass instrument players. This correlation could be worth investigating in terms of health and lifestyle factors in the music profession.
 
-# Human Hairlessness
+# Human Hairlessness [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Humans are notably less hairy compared to other primates, raising questions about evolutionary adaptations. Such hairlessness may suggest unique survival strategies throughout human evolution.
 
-# Curious Human Hair Patterns
+# Curious Human Hair Patterns [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Various peculiar hair patterns, such as flow patterns and sacral whorls, have been documented in humans. These traits may support existing theories about early human adaptation and development.
 
-# Sudden Blanching of the Hair
+# Sudden Blanching of the Hair [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Sudden hair blanching can occur shortly after injury or fear, though the physiological mechanisms remain unclear. This anomaly suggests a connection between emotional states and biological responses.
 
-# Sudden Color Changes in Human Hair
+# Sudden Color Changes in Human Hair [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Besides blanching, sudden changes in hair color have been reported, which invoke curiosity about underlying biological processes. These color shifts are often intriguing in their timing and context.
 
-# Claims that Hair Color Is Correlated with Eminence
+# Claims that Hair Color Is Correlated with Eminence [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some studies suggest a correlation between hair color and the prominence of individuals, such as political reformers tending to be fair-haired. These assertions warrant further exploration regarding societal perceptions and stereotypes.
 
-# Hair Color Correlated with Strength and Vitality
+# Hair Color Correlated with Strength and Vitality [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Controversial studies propose that darker hair is associated with greater strength and vitality. This claim raises questions about the cultural biases underlying attractiveness and perceived abilities.
 
-# Remarkable Persistence of Hair Growth after Death
+# Remarkable Persistence of Hair Growth after Death [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Reports have suggested that hair growth may continue for up to a year after death, challenging traditional understandings of decomposition. This intriguing phenomenon requires scientific investigation to discern its validity.
 
-# Voluntary Erection of Body Hair
+# Voluntary Erection of Body Hair [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Individuals can apparently voluntarily erect hair, such as arm hair. This capability may relate to emotional states or physical stimuli, warranting further examination.
 
-# Night-Shining in Human Eyes
+# Night-Shining in Human Eyes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A rare phenomenon described as "night-shining" in human eyes has been observed, yet it remains poorly understood. This peculiar visual effect requires further study to unpack its causes and implications.
 
-# Eye Color Correlated with Athletic Capability
+# Eye Color Correlated with Athletic Capability [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some studies have proposed that darker eye color could confer slight advantages in athletic performance. While interesting, these claims are met with skepticism and require more rigorous evidence.
 
-# Inherited Ear Pits
+# Inherited Ear Pits [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Inherited ear pits are found where ears are typically pierced, raising questions about genetic expressions of traits. They may reflect broader themes in human anatomical diversity.
 
-# Supernumerary Ears and So-Called Gill-Slits
+# Supernumerary Ears and So-Called Gill-Slits [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The existence of supernumerary ears and gill-like structures in humans invites curiosity about genetic anomalies. These features challenge conventional understandings of human anatomy and development.
 
-# Nostril Downward Orientation and Associated Musculature
+# Nostril Downward Orientation and Associated Musculature [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Humans display distinct nostril orientations and musculature compared to most primates, lending support to aquatic ape theories. Such distinctions underscore the diversity within human evolutionary paths.
 
-# Differences and Similarities between Human and Primate Teeth
+# Differences and Similarities between Human and Primate Teeth [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Anomalies in canine size and enamel thickness between humans and primates have been well documented. These dental variations underscore important evolutionary adaptations in human feeding and social behavior.
 
-# Racial Dental Differences
+# Racial Dental Differences [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Variations in dental structure, such as the loss of lateral incisors, can be seen in populations of Celtic descent. These differences highlight the impact of genetic drift and adaptation on human populations.
 
-# Historical Shrinkage of Human Teeth
+# Historical Shrinkage of Human Teeth [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Over the last 100,000 years, a noted trend of shrinking teeth has been observed in human populations. This phenomenon may reflect dietary changes resulting from agricultural practices and lifestyle shifts.
 
-# Unusual Dentitions
+# Unusual Dentitions [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some individuals may exhibit rare dental phenomena, like extra teeth or the presence of complete sets at birth. Such cases challenge conventional notions of human dental development.
 
-# Human "Horns"
+# Human "Horns" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Though not true horns, certain skin outgrowths have been classified as "human horns," prompting investigation into their origins. Their existence raises questions about genetic mutations and developmental anomalies.
 
-# Unusual, Inherited Characteristics of Feet
+# Unusual, Inherited Characteristics of Feet [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some individuals possess feet with prehensile capabilities, demonstrating genetic variance in foot structure. These unusual characteristics could reflect broader evolutionary adaptations.
 
-# Progressive Loss of the Little Toe
+# Progressive Loss of the Little Toe [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The gradual loss of the little toe in some populations raises questions about human evolution and adaptation. Such development may point to changing locomotion patterns over time.
 
-# Webbed Hands and Feet
+# Webbed Hands and Feet [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The occurrence of webbed toes is surprisingly common among humans, challenging perceptions of normality. This trait invites inquiry into genetic diversity and environmental adaptations.
 
-# Alleged Primitive Character of Human Hands and Feet
+# Alleged Primitive Character of Human Hands and Feet [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The structure of human hands and feet has been argued to retain primitive characteristics compared to other vertebrates. These comparisons may offer insights into evolutionary transitions.
 
-# Large Size of Female Breasts and Buttocks
+# Large Size of Female Breasts and Buttocks [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Humans exhibit notably large breasts and buttocks relative to other primates, prompting questions about evolutionary selection. This distinctive feature may reflect reproductive strategies or social signaling mechanisms.
 
-# The Unusual Location of Human Breasts
+# The Unusual Location of Human Breasts [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The positioning of human breasts is reminiscent of sirenians and elephants rather than typical mammalian placements. This anomaly invites consideration of the evolutionary implications behind such traits.
 
-# Human Tails
+# Human Tails [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Rare and small fleshy tails in humans, with a few cases showing vertebrae, raise questions about genetic variations and embryonic development. These occurrences prompt inquiries into our understanding of human anatomy.
 
-# Concordance of Human Embryo Growth and Evolutionary Developments
+# Concordance of Human Embryo Growth and Evolutionary Developments [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The growth patterns of human embryos align intriguingly with evolutionary timelines. This provides fertile ground for studying the connections between development and ancestral traits.
 
-# The Production of Anomalous Human Odors
+# The Production of Anomalous Human Odors [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Anomalous odors may arise during illnesses like schizophrenia or even before death, implying significant biological processes at play. The implications of these odors on health and social interactions are intriguing.
 
-# Natural Human Vibrations
+# Natural Human Vibrations [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Research into minute vibrations produced by the human body reveals pulsations detectable at low frequencies. Understanding their origins could shed light on aspects of human physiology and health.
 
-# Breast Growth Enhanced by Hypnosis
+# Breast Growth Enhanced by Hypnosis [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Claims suggest that hypnosis can enhance breast growth, requiring exploration into the mind-body connection. This phenomenon challenges traditional understandings of physical growth and psychological impacts.
 
-# Presidential Stature Correlated with Competence
+# Presidential Stature Correlated with Competence [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Studies have indicated a correlation between stature and presidential competence, as seen in figures like Lincoln and Jefferson. These findings prompt discussion about the roles of perception and physicality in leadership.
 
-# Origin of the Brown Line on Pregnant Women
+# Origin of the Brown Line on Pregnant Women [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The brown line, or linea nigra, appearing on the abdomen during pregnancy, may highlight physiological changes during gestation. This observation provides insight into hormonal influences on body changes.
 
-# Humans as Robots
+# Humans as Robots [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The assertion that humans cannot definitively prove their non-robotic nature invites philosophical inquiry about self-awareness and existence. This thought experiment challenges notions of consciousness and identity.
 
-# Reproductive Success Correlated with Male Height
+# Reproductive Success Correlated with Male Height [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Research indicates a connection between reproductive success and height in males, suggesting evolutionary pressures on mate selection. These dynamics add complexity to human social behavior.
 
-# Human Proportions Reflect the Golden Ratio
+# Human Proportions Reflect the Golden Ratio [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Various human proportions have been sensationally linked to the golden ratio, suggesting an aesthetic standard. This idea encompasses art, beauty, and mathematical patterns seen in human anatomy.
 
-# Humans Nurturing Large Fetuses of Unborn Twins
+# Humans Nurturing Large Fetuses of Unborn Twins [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Cases of individuals found with deceased, developed twins inside them reflect on biological intricacies of gestation. Such strange occurrences challenge normative understandings of pregnancy.
 
-# Female Hormone Production Rate Correlated with Perceived Beauty
+# Female Hormone Production Rate Correlated with Perceived Beauty [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Perceptions of beauty may be linked to hormonal production rates in females, which are often subjective. Such connections uncover the interplay between biology and societal standards of attractiveness.
 
-# Small People with Elfin Features
+# Small People with Elfin Features [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Individuals with Williams Syndrome showcase unique physical traits often associated with global myths of "little people." These features prompt curiosity about genetic anomalies and their cultural influences.
 
-# Change of Eye Color with Age
+# Change of Eye Color with Age [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Alterations in eye color throughout a person's life likely stem from genetic influences. Such changes serve as important markers of developmental and biological processes.
 
-# Cases of Skin Color Correlated with Atmospheric Conditions
+# Cases of Skin Color Correlated with Atmospheric Conditions [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Notable changes in skin pigmentation, influenced by atmospheric conditions, highlight environmental adaptability in humans. These variations may underscore the relationship between phenotype and habitat.
 
-# Sexual Characteristics Correlated with Lengths of Fingers
+# Sexual Characteristics Correlated with Lengths of Fingers [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Research suggests a connection between sexual characteristics and the lengths of fingers, illuminating biological markers associated with gender. This area of study opens avenues for understanding sexual dimorphism.
 
-# Anomalous Sound Production
+# Anomalous Sound Production [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Sounds, including ticking in the head or knocking from sleeping individuals, raise fascinating questions about human perception. Such auditory experiences often elude conventional explanations.
 
-# The Devil's Spots
+# The Devil's Spots [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Mysterious spots on the skin, associated with witches, are speculated to evoke historical and cultural implications. The belief in these "devil's spots" invites scrutiny regarding folklore and superstition's impact on human behavior.
 
-# Pinnas of Ears Help Brain Form Acoustical Maps of One's Surroundings
+# Pinnas of Ears Help Brain Form Acoustical Maps of One's Surroundings [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The structure of ear pinnas plays a crucial role in enabling the brain to interpret sound locations. This relationship highlights the interplay between anatomy and sensory perception.
 
-# Skull Shapes Correlated with Geographical Origin
+# Skull Shapes Correlated with Geographical Origin [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Variability in skull shapes has been observed across different geographical regions, hinting at evolutionary adaptations. These changes provide valuable insights into human migration and evolutionary history.
 
-# Neanderthal Characteristics Claimed to Exist in Some Modern Humans
+# Neanderthal Characteristics Claimed to Exist in Some Modern Humans [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Certain modern humans display characteristics suggestive of Neanderthal ancestry, such as skull shapes. The implications of these traits contribute to ongoing discussions about hybridization in human evolution.
 
-# Apparently Irrational Human Behavior
+# Apparently Irrational Human Behavior [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Human behaviors, considered illogical by many, often include war and environmental destruction. This perplexing aspect of human nature invites examination through philosophical and psychological lenses.
 
-# Similarities in the Behaviors of Identical Twins Reared Apart
+# Similarities in the Behaviors of Identical Twins Reared Apart [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Research exploring identical twins raised separately suggests a significant role for genetics in behavior. This phenomenon raises questions about the nature versus nurture debate.
 
-# Correlation of Disturbed Human Behavior and Solar Activity
+# Correlation of Disturbed Human Behavior and Solar Activity [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Patterns in hospital admissions have been linked to solar activity, indicating an unexplored realm of human response to cosmic events. The implications of these correlations challenge our understanding of environmental influences on behavior.
 
-# Correlation of Disturbed Human Behavior and Lunar Phase
+# Correlation of Disturbed Human Behavior and Lunar Phase [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Controversies abound regarding claims that lunar phases influence human behaviors like homicides and suicides. These correlations require rigorous scrutiny to establish or refute their validity.
 
-# Correlations of Disturbed Human Behavior, Stormy Weather, and Infrasound
+# Correlations of Disturbed Human Behavior, Stormy Weather, and Infrasound [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some studies link stormy conditions and infrasound to increased accident rates and absenteeism. These potential connections suggest an intricate relationship between environment and human activity.
 
-# Correlation of Human Behavior and Climate and/or Season of the Year
+# Correlation of Human Behavior and Climate and/or Season of the Year [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Variations in human behavior, including violence, can show seasonal trends, inviting explorations into climatic impacts on mental health. Such observations underline the intertwined nature of biology and environment.
 
-# Unusual Behavior Induced by Rhythmic Stimuli
+# Unusual Behavior Induced by Rhythmic Stimuli [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Certain rhythmic stimuli can induce trance-like states in humans, presenting opportunities to explore consciousness and perception. This area of study holds promise for understanding the human experience.
 
-# Cyclicity of Violent Collective Behavior
+# Cyclicity of Violent Collective Behavior [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Historical patterns suggest that violent behaviors, including wars and revolutions, display cyclical trends. Investigating these cycles can provide insights into socio-political dynamics over time.
 
-# The Curious Relationship between the Number of Wars and the Number Killed in Them
+# The Curious Relationship between the Number of Wars and the Number Killed in Them [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A correlation exists between the frequency of wars and the scales of casualties, prompting inquiries into human conflict motivations. This relationship offers perspectives on the darker aspects of societal behavior.
 
-# Correlation of Economic Activity with Solar Activity
+# Correlation of Economic Activity with Solar Activity [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Studies reveal links between economic cycles and solar activity, including historical correlates outlined by Jevons. Such patterns encourage consideration of cosmic factors influencing human economies.
 
-# Correlation of Economic Activity with Lunar Tidal Forces
+# Correlation of Economic Activity with Lunar Tidal Forces [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Economic patterns may also correlate with lunar cycles, suggesting influences beyond terrestrial factors. These relationships warrant further exploration into the interplay of cosmic forces and economic systems.
 
-# Correlation of Economic Activity with Solar-System Configurations
+# Correlation of Economic Activity with Solar-System Configurations [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The alignment of solar system bodies, like Jupiter, has been linked to economic activity, hinting at broader astronomical influences. This intersection of fields promotes multidisciplinary research.
 
-# Periodicities in Various Economic Parameters
+# Periodicities in Various Economic Parameters [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Notable recurring economic cycles have been documented, including the 3.5-year corn-price cycle. This data invites further analysis into regularities within economic trends and behaviors.
 
-# Cycles of Religiousness
+# Cycles of Religiousness [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some claim a 9-year cycle of religiousness exists, suggesting cyclical patterns in human belief systems. Exploring these patterns could deepen understanding of spirituality and social dynamics.
 
-# "Flock Behavior" in Human Groups
+# "Flock Behavior" in Human Groups [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Observations of synchronized behaviors, such as chorus lines and clapping, reflect collective human responses. Studying these phenomena can offer insights into group dynamics and social interaction.
 
-# Evolution and Persistence of Altruism and "Team Playing"
+# Evolution and Persistence of Altruism and "Team Playing" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Humans exhibit a unique capacity for altruism and collaboration, raising questions about the evolutionary advantages of such traits. Understanding these behaviors requires examining the evolutionary psychology of cooperation.
 
-# Evolution and Persistence of Homosexuality
+# Evolution and Persistence of Homosexuality [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The existence of homosexuality across cultures suggests significant evolutionary implications for understanding sexual diversity. Investigating these phenomena adds layers to concepts of natural selection.
 
-# Unusual Human Sexual Activity
+# Unusual Human Sexual Activity [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Behaviors like continual sexual receptivity or face-to-face copulation present intriguing anomalies in human sexual behavior. These observations highlight the diversity of human reproductive strategies.
 
-# The Puzzle of Highly Asymmetric Human Handedness
+# The Puzzle of Highly Asymmetric Human Handedness [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Approximately 90% of humans are right-handed, posing questions about the evolution of handedness and its implications for cognition. This phenomenon calls for detailed analyses to understand its roots.
 
-# Handedness Correlated with Longevity
+# Handedness Correlated with Longevity [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Research suggests a correlation between right-handedness and increased longevity, raising inquiries about lifestyle factors and biological pathways. Understanding these patterns can deepen insights into health disparities.
 
-# Handedness Correlated with Health
+# Handedness Correlated with Health [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Studies indicate that right-handed individuals often enjoy better health, prompting explorations of lifestyle-induced health outcomes. This correlation provides fertile ground for research into handedness and well-being.
 
-# Handedness Correlated with Mathematical and Verbal Abilities
+# Handedness Correlated with Mathematical and Verbal Abilities [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some studies propose that left-handed individuals may excel in mathematical and verbal tasks, challenging preconceived notions about cognitive abilities. This opens avenues for reconsiderations of educational practices.
 
-# The Uniqueness of Human Bipedalism
+# The Uniqueness of Human Bipedalism [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Human bipedalism exhibits unique characteristics, differentiating us from other primates. The evolutionary advantages and adaptations of this trait continue to be investigated.
 
-# Human Asymmetry in Locomotion
+# Human Asymmetry in Locomotion [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - An unusual tendency for humans to walk in circles when cues are absent indicates intricacies in locomotion. This phenomenon invites examination of sensory and neurological influences on movement.
 
-# Wolf-Children
+# Wolf-Children [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Cases of children raised by wolves, such as the Midnapore wolf-girls, hold essential insights into human development and socialization. These narratives offer profound considerations of nature versus nurture.
 
-# Eminence Correlated with Time of Birth
+# Eminence Correlated with Time of Birth [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Research suggests that revolutionary thinkers often emerge from colder months, leading to inquiries about environmental influences on human potential. Such connections could reshape perceptions of historical figures.
 
-# General Eminence Correlated with Planetary Position
+# General Eminence Correlated with Planetary Position [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Alleged correlations between birth timing and planetary alignments prompt discussions in astrology. This contentious field requires careful scrutiny to evaluate its claims against empirical evidence.
 
-# Eminence in Sports Champions Correlated with Mars Position
+# Eminence in Sports Champions Correlated with Mars Position [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The so-called "Mars Effect" claims that successful athletes' births may correlate with Mars' position. These assertions remain controversial within sports and astrological studies.
 
-# Cultural Creativity Correlated with Increases in Solar Activity
+# Cultural Creativity Correlated with Increases in Solar Activity [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Patterns suggesting a relationship between cultural flourishing and solar activity raise questions about environmental impacts on societal developments. This intersection prompts explorations in cultural history.
 
-# Cultural Flowering Correlated with Climate Cooling
+# Cultural Flowering Correlated with Climate Cooling [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The burst of European culture 40,000 years ago may align with periods of cooling climate, suggesting environmental influences on creativity. Such observations could reshape understandings of societal evolution.
 
-# Eminence and Order of Birth
+# Eminence and Order of Birth [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - First-born individuals are often favored in achieving eminence, with implications for family dynamics and societal roles. This raises questions about the psychological and social factors at play.
 
-# Periodicity in the Population of Living Eminent People
+# Periodicity in the Population of Living Eminent People [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The claim of a roughly 400-year cycle for living eminent individuals offers intriguing perspectives on human achievement. This recurring trend invites interdisciplinary exploration of historical patterns.
 
-# Eminence Correlated with Longevity
+# Eminence Correlated with Longevity [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Notable figures like Humboldt and Galileo demonstrate links between eminence and lifespan. Understanding the factors contributing to this pattern can inform studies of health and success.
 
-# Intelligence Correlated with Season of Birth
+# Intelligence Correlated with Season of Birth [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some studies suggest seasonal patterns of intelligence, with spring months showing preferences in Portugal, while summer in Japan appears favored. These correlations invite further examinations of environmental influences.
 
-# Intelligence Correlated with Birth Order
+# Intelligence Correlated with Birth Order [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Early-born individuals may exhibit higher IQs, suggesting familial roles influence cognitive development. This area raises significant questions regarding educational approaches and expectations.
 
-# A Relationship between Intelligence and Flicker-Frequency Response
+# A Relationship between Intelligence and Flicker-Frequency Response [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Response rates to flicker may yield insights into cognitive function and intelligence levels. Investigations into this relationship could deepen understanding of perceptual processing in humans.
 
-# Increasing Intelligence with Vitamin Intake
+# Increasing Intelligence with Vitamin Intake [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Research suggests that enhanced vitamin intake may correlate with improved non-verbal IQs, underscoring the importance of nutrition in cognitive development. This connection provides a basis for health-related interventions.
 
-# The Similar Intelligences of Identical Twins Reared Apart
+# The Similar Intelligences of Identical Twins Reared Apart [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Similarities in intelligence between separated identical twins suggest a strong genetic component. This observation underscores the profound influence of heredity on intellectual abilities.
 
-# Likelihood of College Matriculation Correlated with Season of Birth
+# Likelihood of College Matriculation Correlated with Season of Birth [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Certain seasons may influence college enrollment, with winter births showing a higher likelihood. This correlation opens discussions about academic readiness and formative experiences.
 
-# Sex Differences on Various Intelligence Tests
+# Sex Differences on Various Intelligence Tests [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Male performance on tests generally surpasses female scores in most areas, except for reading comprehension and associative memory. These differences reflect broader societal themes in education and gender roles.
 
-# Intelligence Correlated with Stature
+# Intelligence Correlated with Stature [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Taller individuals often receive favorable treatment and scores in intelligence assessments. This correlation invites scrutiny of societal biases linked to physical characteristics.
 
-# Claims That Personality Is Correlated with Astronomical Factors
+# Claims That Personality Is Correlated with Astronomical Factors [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some researchers argue for connections between personality traits and astronomical variables, suggesting intriguing outer influences on human development. These claims lie at the intersection of psychology and astrology.
 
-# Genetic Influence on Cognitive Abilities
+# Genetic Influence on Cognitive Abilities [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Evidence suggests a strong genetic influence on intelligence and cognitive capabilities, pointing to inherited factors. This body of research highlights the complexity of nature and nurture.
 
-# General, Long-Term Worldwide Changes in IQs
+# General, Long-Term Worldwide Changes in IQs [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Trends in global IQ changes indicate increases and decreases over time, inviting analyses of educational, environmental, and societal factors. Understanding these shifts can inform policy and educational strategies.
 
-# Human Intelligence Spurts Correlated with Environmental Cataclysms
+# Human Intelligence Spurts Correlated with Environmental Cataclysms [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some propose that cataclysmic events in the past correlate with surges in human intelligence and adaptability. Investigations into these links foster understanding of resilience in human history.
 
-# Lefties Superior to Righties in One-to-One Combat
+# Lefties Superior to Righties in One-to-One Combat [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Observations suggest that left-handed individuals excel in combat situations, prompting questions about the advantages of handedness. This leads to explorations of the dynamics of competition.
 
-# Babies Prefer Foods Eaten by Mother during Pregnancy
+# Babies Prefer Foods Eaten by Mother during Pregnancy [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Babies’ food preferences often reflect maternal dietary choices during pregnancy, highlighting the connections between nutrition and early development. Recognizing these ties can inform understanding of lifelong eating habits.
 
-# Imitative Learning Unique in Humans
+# Imitative Learning Unique in Humans [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The capacity for imitative learning is considered unique to humans, inviting scrutiny regarding cognitive and cultural implications. This aspect may illuminate evolutionary advantages of social learning.
 
-# Impossibility of Tickling One's Self
+# Impossibility of Tickling One's Self [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Humans generally cannot tickle themselves, prompting intrigue about sensory processing and perception. This phenomenon raises questions regarding the thresholds of proprioception and awareness.
 
-# Female Preference for Male Faces Changes during Menstrual Cycle
+# Female Preference for Male Faces Changes during Menstrual Cycle [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Research indicates variations in female preferences for male facial features throughout the menstrual cycle. These fluctuations open pathways for understanding mating behaviors and evolutionary psychology.
 
-# Unusual Crowd Behavior
+# Unusual Crowd Behavior [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Crowd dynamics can lead to erratic behaviors, such as panics during exits or irrational strategies in entering trains. These phenomena warrant inquiry into psychological reactions within group settings.
 
-# Human Habit of Sticking Out the Tongue While Concentrating
+# Human Habit of Sticking Out the Tongue While Concentrating [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The tendency to stick out tongues during concentration illustrates how bodily expressions can reflect cognitive engagement. Such habits prompt exploration into the interactions between body and mind.
 
-# Intelligence as a Pathogen
+# Intelligence as a Pathogen [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some argue that intelligence can lead to adverse outcomes, such as environmental degradation and destruction. This perspective challenges traditional views about intelligence as an unequivocal benefit.
 
-# Claim That Behavioral Characteristics Can Be Transferred via Organ Transplants
+# Claim That Behavioral Characteristics Can Be Transferred via Organ Transplants [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The controversial idea that personality traits might transfer through organ donations invites reflection on the nature of identity and memory. This notion raises profound ethical and biological questions.
 
-# Meme Phenomena
+# Meme Phenomena [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The propagation of ideas, culture, and religion through "memes" offers a lens for examining how societal factors influence human understanding. This concept merges psychology, sociology, and evolutionary theory.
 
-# Claim that Music Improves Mental Performance
+# Claim that Music Improves Mental Performance [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The so-called "Mozart Effect" suggests that classical music enhances cognitive functioning, providing an avenue for research on music's influence on the brain. This connection could inform educational practices and wellness strategies.
 
-# Motherhood Improves Learning and Memory
+# Motherhood Improves Learning and Memory [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Motherhood has been linked to enhanced cognitive functions, inviting investigation into the biological and emotional impacts of childbirth. This aspect widens the understanding of maternal roles in development.
 
-# Subconscious Inclination of Artists to Employ the Golden Ratio in Their Work
+# Subconscious Inclination of Artists to Employ the Golden Ratio in Their Work [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Artists' unconscious tendencies to utilize the golden ratio evoke inquiry into aesthetic principles and psychology. This juxtaposition of art and mathematics prompts fascinating investigations into creativity.
 
-# Humans Are the Greatest Force for Evolution
+# Humans Are the Greatest Force for Evolution [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Human impact on evolutionary processes, such as developing resistance in organisms, highlights the agentic role of humanity in nature. Recognizing this influence fosters awareness of ecological responsibility and stewardship.
 
-# Baby Hand-Babbling
+# Baby Hand-Babbling [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Babies exhibit hand motions mirroring voice babbling, indicating early communication strategies. Understanding these behaviors can lead to insights into developmental milestones.
 
-# Mathematical Ability Is Divorced from Social Skills
+# Mathematical Ability Is Divorced from Social Skills [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Research indicates a divide between mathematical aptitude and social skills, challenging assumptions about cognitive capabilities. This exploration highlights the complexity of intelligence and human behavior.
 
-# Intelligent People Have Fewer Offspring
+# Intelligent People Have Fewer Offspring [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Observations that highly intelligent individuals tend to have fewer children challenge traditional evolutionary theories of fitness. This dynamic invites reflection on social behaviors in modern contexts.
 
-# Humans Are Entranced by Music
+# Humans Are Entranced by Music [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The universal attraction to music, despite its lack of immediate survival value, raises questions about its significance in human culture. Understanding this phenomenon may provide deeper insights into human psychology.
 
-# Pareto's Law Invariant in All Cultures
+# Pareto's Law Invariant in All Cultures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The tendency for wealth distribution to favor the rich persists across cultures, reinforcing theories of inequality. This law reflects societal structures and forces at play in human economies.
 
-# Homosexuals More Likely to be Lefties
+# Homosexuals More Likely to be Lefties [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some research indicates that individuals who identify as homosexual may have a higher probability of left-handedness. These correlations necessitate examinations into the intertwining of sexual orientation and handedness.
 
-# Cognitive Powers and Alertness Increase in Winter
+# Cognitive Powers and Alertness Increase in Winter [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Seasonal patterns of heightened cognitive abilities in winter invite consideration of environmental effects on mental states. This area beckons further exploration of the interplay between seasons and human cognition.
 
-# The Assertion That Intellect, Being Nonmaterial, Can Not Have Evolved in the Darwinian Sense
+# The Assertion That Intellect, Being Nonmaterial, Can Not Have Evolved in the Darwinian Sense [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The claim regarding the non-material nature of intellect challenges traditional evolutionary frameworks. This philosophical contention invites broader discussions about the evolution of consciousness.
 
-# Human Social Characteristics Are Evolvable in the Guise of "Memes"
+# Human Social Characteristics Are Evolvable in the Guise of "Memes" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The concept of memes as vehicles for cultural evolution suggests that human social behaviors are subject to change over time. Such dynamics prompt investigations into the nature of cultural transmission.
 
-# Behavior Affected by Very Low-Frequency Atmospherics
+# Behavior Affected by Very Low-Frequency Atmospherics [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The influence of low-frequency electromagnetic waves on human behavior remains largely uncharted territory. Understanding these relationships could deepen insights into environmental impacts on psychology.
 
-# Electric People
+# Electric People [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Certain individuals claim heightened electrostatic potentials, which raises intriguing questions about human physiology. This still-understood phenomenon challenges traditional understandings of body dynamics.
 
-# Magnetic People
+# Magnetic People [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Reports of individuals deflecting compass needles and producing electric currents suggest unique physiological traits. Such phenomena challenge scientific explanations regarding human capabilities.
 
-# Body Electric Potentials Correlated with Lunar Phase
+# Body Electric Potentials Correlated with Lunar Phase [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Variations in body electric potentials in relation to lunar phases invite examination of biological rhythms. These correlations prompt questions about environmental influences on human physiology.
 
-# Brain Electricity (EEGs)
+# Brain Electricity (EEGs) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Research in brain electricity, as measured by EEGs, provides essential data on cognitive processes and neurological function. Understanding these aspects can yield insights into human behavior.
 
-# Survival of Very High Body Temperatures
+# Survival of Very High Body Temperatures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Remarkable cases of individuals surviving temperatures far exceeding typical lethal levels pose profound questions regarding human physiology. This raises the possibility of yet-undiscovered biological mechanisms.
 
-# Unusual Body-Temperature Cycles
+# Unusual Body-Temperature Cycles [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some individuals exhibit atypical body-temperature cycles, deviating from the normal 24-hour rhythm. Investigating these variations can enhance knowledge of human biological clocks.
 
-# Anomalous Human Combustion (SHC)
+# Anomalous Human Combustion (SHC) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Spontaneous human combustion remains a fringe phenomenon, characterized by nearly complete body combustion without apparent ignition sources. This anomaly poses significant questions about the nature of combustion and life processes.
 
-# Retarded Decay of the Human Body
+# Retarded Decay of the Human Body [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Claims of bodies remaining preserved for centuries, particularly in cases of "incorruptibility," challenge standard notions of biological decay. Such observations prompt inquiries into the intricacies of decomposition.
 
-# Imbalances in Element Ingestion and Excretion
+# Imbalances in Element Ingestion and Excretion [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Theories suggesting that humans may transmute elements internally touch upon fringe scientific discussions. Understanding these claims can blend the lines between science and pseudoscience.
 
-# The Human Inability to Synthesize Ascorbic Acid
+# The Human Inability to Synthesize Ascorbic Acid [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Unlike many animals, humans cannot synthesize vitamin C, highlighting significant evolutionary adaptations. This deficiency raises concerns regarding nutrition and health in human populations.
 
-# Blood-Chemistry Variations
+# Blood-Chemistry Variations [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Notably variable blood chemistry, exemplified by the Takata reaction, has been correlated with astronomical variables. These peculiar patterns invite further investigation into the intersection of biology and cosmology.
 
-# The Existence of Blood Polymorphisms
+# The Existence of Blood Polymorphisms [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Blood polymorphisms present a fascinating case of genetic variability, despite often lacking clear survival advantages. This limited understanding underscores the complexity of genetics in human populations.
 
-# The Complexity, Variability, and Ubiquity of Hemoglobin in Animals
+# The Complexity, Variability, and Ubiquity of Hemoglobin in Animals [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The myriad types and forms of hemoglobin across species raise questions about evolutionary adaptations for oxygen transport. This diversity prompts an inquiry into the mechanisms generating such variations.
 
-# Geographical Anomalies in the Distribution of Blood Groups
+# Geographical Anomalies in the Distribution of Blood Groups [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Unusual distributions of blood groups in various cultures highlight fascinating genetic links between seemingly unrelated populations. Such patterns encourage exploration of migration and societal behaviors.
 
-# Blood Chimeras
+# Blood Chimeras [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Chimerism, the presence of multiple blood types within an individual, often reflects intriguing biological circumstances. These cases warrant exploration into genetic inheritance and its complexities.
 
-# Female Hormones Increase in Fathers after the Birth of their Children
+# Female Hormones Increase in Fathers after the Birth of their Children [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Research indicating that male hormone levels may rise postpartum challenges traditional concepts of parental roles. This phenomenon invites examination of the biological impacts of parenting on fathers.
 
-# Remarkable New Hominid Skeletal Finds
+# Remarkable New Hominid Skeletal Finds [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Ongoing discoveries of new human fossils remind us of the continuously evolving narrative of human ancestry. Each new find may shift previously held understandings of our evolutionary history.
 
-# Absence of Transitional Fossils
+# Absence of Transitional Fossils [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The lack of transitional fossils between major hominid species raises critical questions about the evolution of modern humans. This gap presents challenges for our understanding of anthropological timelines.
 
-# Abrupt Changes in Hominid Morphology
+# Abrupt Changes in Hominid Morphology [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Sudden morphological changes in hominids hint at complex evolutionary processes, like the transition from H. habilis to H. erectus. These shifts prompt examination of environmental and adaptive pressures.
 
-# Hominid Evolutionary Stasis
+# Hominid Evolutionary Stasis [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The observed stasis of H. erectus across a million years suggests intriguing implications for evolutionary theory. Understanding such phenomena could contribute to greater comprehension of selective pressures.
 
-# Hominid Devolution
+# Hominid Devolution [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Unexpected decreases in brain size observed in H. sapiens pose questions about the trajectory of human evolution. This idea challenges conventional narratives of continuous advancement.
 
-# The Sudden, Unexplained Disappearance of the Neanderthals
+# The Sudden, Unexplained Disappearance of the Neanderthals [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The inexplicable absence of Neanderthals from the fossil record incites theories ranging from environmental changes to competition. This gap in understanding invites continued investigation into human evolution.
 
-# Taxon Variability or "Fuzz"
+# Taxon Variability or "Fuzz" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The complexity of intergrading hominid taxa illustrates the challenges in reconstructing human evolution. This variability underscores the necessity for nuanced interpretations of human ancestry.
 
-# Hominid Gracilization
+# Hominid Gracilization [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Observations of lighter, more delicate skeletal developments in human evolution raise questions about physical adaptation strategies. Such trends highlight the dynamic nature of human morphology.
 
-# Discoveries of Giant Hominid Skeletons
+# Discoveries of Giant Hominid Skeletons [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Reports of notably large human skeletons intrigue researchers and spark debates about the limits of human stature. These discoveries challenge existing paradigms about human physicality.
 
-# Discoveries of Very Small Hominid Skeletons
+# Discoveries of Very Small Hominid Skeletons [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Findings of diminutive hominid skeletons suggest a broader range of human physical diversity than previously acknowledged. These cases prompt discussions about the implications of size in human evolution.
 
-# Some Hominid Skeletal Curiosities
+# Some Hominid Skeletal Curiosities [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Unique skeletal features, like absent middle incisors in certain Neanderthals, raise questions about genetic variability within populations. Such anomalies invite deeper exploration into the diversity of hominid evolution.
 
-# Hominid Fossil-Sequence Anomalies
+# Hominid Fossil-Sequence Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Cases where hominid species appear before their presumed predecessors challenge established evolutionary sequences. Scrutinizing this phenomenon can deepen our understanding of hominid development.
 
-# Evidence That H. sapiens Did Not Evolve on the African Savannahs
+# Evidence That H. sapiens Did Not Evolve on the African Savannahs [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Fossils hinting at seacoast evolution suggest a different environmental influence on H. sapiens development, deviating from traditional narratives. This theory positions coastal environments as critical to human evolution.
 
-# Evidence of Hybridization between H. sapiens and H. neanderthalis
+# Evidence of Hybridization between H. sapiens and H. neanderthalis [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Genetic evidence proposes past hybridization events between modern humans and Neanderthals, altering perceptions of human ancestry. Understanding these interactions enhances comprehension of human genetic diversity.
-# Anomalies in Hominid Evolution
+# Anomalies in Hominid Evolution [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Neanderthal Skeletal Material Suggesting Cultural Sophistication**  
   Evidence of burials with flowers indicates that Neanderthals may have exhibited behaviors previously thought to be exclusive to modern humans. This suggests a degree of cultural sophistication and emotional depth among Neanderthals that challenges previous assumptions.
@@ -2993,7 +2507,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Some Living Europeans Possess Some Neanderthal Characteristics**  
   The genetic legacy of Neanderthals persists in modern Europeans, suggesting that interbreeding occurred long ago. This finding has implications for understanding human genetics and the traits carried forward through generations.
 
-# Anomalies in Human Bodily Functions
+# Anomalies in Human Bodily Functions [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Unusual Architecture of the Human Breathing Apparatus**  
   The descended larynx in humans creates a unique breathing structure that can lead to complications. This anatomical arrangement contrasts with those of other mammals and raises questions about its evolutionary advantages.
@@ -3025,7 +2539,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Claim That Spontaneous Hemorrhages Are Correlated with Astrological Factors**  
   Some researchers claim that spontaneous hemorrhages may align with astrological events, raising both curiosity and skepticism regarding the influence of cosmic forces on human health. The investigation into these claims may reveal new perspectives on mind-body connections.
 
-# Anomalies in Human Genetic Tendencies
+# Anomalies in Human Genetic Tendencies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Human Chromosomes Less Evolved Than Ape Chromosomes**  
   Assertions posit that the lesser variation in human chromosomes compared to those of apes implies a more recent evolutionary timeline for humans. This raises compelling questions about the direction of human evolution.
@@ -3051,7 +2565,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Persistence of Some Genes Despite Their Deleterious Effects**  
   Some harmful genes, such as those related to cystic fibrosis, remain prevalent despite negative fitness consequences, highlighting potential gaps in natural selection. This prompts inquiries into the mechanisms that favor gene retention.
 
-# Anomalies in Human Health
+# Anomalies in Human Health [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Health and Environmental Electricity**  
   Correlations between atmospheric ion density and disease rates suggest environmental factors may play a role in health outcomes. These findings encourage exploration into the impacts of natural forces on human biology.
@@ -3067,7 +2581,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Father's Radiation Exposure Increases Cancer Incidence in His Children**  
   Research indicating that paternal radiation exposure may affect cancer risk in offspring presents significant implications for understanding genetic inheritance. This anomaly points to environmental factors in shaping future health risks.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Chronic Diseases without Known Infectious Roots**  
   Various chronic conditions exist that lack clear infectious origins, challenging conventional medical understanding. This category may include serious illnesses like schizophrenia, Alzheimer's, and cancer among others.
@@ -3161,11 +2675,11 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Various, Different Explanations of the "Moon Illusion"**  
   The mechanisms behind the moon illusion are still not fully understood. A range of theories attempts to explain this fascinating optical phenomenon.
-# Healthful Effects of Tape-worms
+# Healthful Effects of Tape-worms [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **The Human-Endosymbiont Interface**: Human cells contain mitochondria and other organelles, suggesting a complex evolutionary history. This has led to speculation that both viruses and bacteria played major roles in the evolution of life.
 
-# Anomalous Animal Interactions
+# Anomalous Animal Interactions [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Distribution of Living Eurasian Hominids**: Claims have been made about the existence and distribution of some living hominids in Eurasia. This remains a contentious and debated topic within anthropological circles.
 
@@ -3195,7 +2709,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **The Intimate Human-Bacteria Interface**: Research shows that 200-500 different species of bacteria coexist in the human mouth alone. This diverse microbial ecosystem highlights the complexity of human health.
 
-# Unusual Mammalian Phenomena
+# Unusual Mammalian Phenomena [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Radical Distortions of Nominal Mammalian Physiology**: Toothed whales present a fascinating case of physiological divergence from typical mammalian traits. This anomaly emphasizes the adaptable nature of mammals to various ecological niches.
 
@@ -3224,7 +2738,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Tool Manufacture and Use**: Some mammals, notably primates and certain cetaceans, exhibit the ability to create and utilize tools. This behavior reflects advanced cognitive functions in non-human species.
 
 - **Peculiar Capabilities in Dogs**: Dogs' ability to sense approaching seizures in humans is a remarkable instance of interspecies communication. This phenomenon signifies the depth of understanding and sensitivity some animals possess.
-# Anomalies in Mammalian Behavior and Phenomena
+# Anomalies in Mammalian Behavior and Phenomena [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Chimps Engage in Trading with Humans (i.e.; bartering)**  
   This behavior reflects a level of cognitive ability in chimpanzees that allows them to negotiate and exchange items with humans. It showcases the complexity of their social interactions and economic understanding.
@@ -3232,7 +2746,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Young-Elephant Rampages (e.g.; attempting to mate with female rhinos)**  
   Such behavior is unusual for young elephants and raises questions about their developmental behaviors and social structures. This anomaly might suggest a misguided understanding of courtship due to lack of parental guidance.
 
-# Mammalian Chemical and Physical Phenomena
+# Mammalian Chemical and Physical Phenomena [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Biochemicals That Challenge an Evolutionary Origin (e.g.; anticoagulants, poisons, toxic-chemical binders, etc.)**  
   These biochemicals raise significant doubts about the adequacy of neodarwinism to explain their complexity. Their sophisticated functionalities could indicate a design rather than random development.
@@ -3240,7 +2754,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Claimed Lunar Effects on Mammalian Biochemistry (e.g.; golden hamster urinary volume and acidity)**  
   This anomaly suggests that lunar cycles may significantly impact biological processes in mammals. Such claims indicate that environmental factors can have unexpected influences on physiological functions.
 
-# Some Biochemical Curiosities in Mammals
+# Some Biochemical Curiosities in Mammals [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Unusually Rapid Corpse Decay (e.g.; shrews)**  
   The rapid decomposition of shrews sets them apart from other mammals and raises questions about their metabolic rates. This phenomenon challenges standard understandings of decay and its relationship with body size and ecological adaptation.
@@ -3248,12 +2762,12 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Crystals in Cells (e.g.; big-eared bats)**  
   The presence of cellular crystals in big-eared bats may suggest unique biochemical processes at work. These structures could have adaptive functions not yet fully understood.
 
-# The Inability of Some Mammals to Synthesize Ascorbic Acid
+# The Inability of Some Mammals to Synthesize Ascorbic Acid [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **This inability seems to link distantly related species (e.g.; humans, birds, and marine mammals)**  
   This points towards an interesting evolutionary trait among groups that do not produce this essential vitamin. It raises questions about common ancestry and the adaptations that have occurred in different species.
 
-# Miscellaneous Blood and Biochemical Differences among Mammals
+# Miscellaneous Blood and Biochemical Differences among Mammals [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Guinea-Pig Biochemistry Differs Sharply from That of Rodents**  
   Despite their similarities in appearance, guinea pigs exhibit significant biochemical differences from true rodents. These discrepancies hint at a complex evolutionary history that is not fully recognized.
@@ -3261,7 +2775,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Camel Family Has Elliptical Erythrocytes (In all other mammals they are round)**  
   The unique shape of camel erythrocytes is an adaptation to their arid environment. This anomaly provides insight into how specific environmental pressures can shape physiological traits.
 
-# Remarkable Biochemical Convergences
+# Remarkable Biochemical Convergences [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Camel and Shark Immune Protein**  
   The similarity in immune proteins between such distant species suggests convergent evolution. This phenomenon raises intriguing questions about the evolutionary pathways that lead to similar functions in diverse taxa.
@@ -3269,7 +2783,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Elephant and Insect Pheromone**  
   The usage of pheromones for communication in both elephants and insects indicates shared chemical signaling strategies across vastly different species. This might suggest an ancient evolutionary mechanism for social interactions.
 
-# Distribution of Mammals in Space and Time
+# Distribution of Mammals in Space and Time [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Apparent Dearths and Absences of Mammals in Specific Areas (i.e.; many examples of shrinking biodiversity)**  
   The decline in mammalian diversity in certain regions highlights critical environmental changes. It raises concerns about conservation and the impacts of human activities on wildlife.
@@ -3277,7 +2791,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Cycles in Mammal Populations (e.g.; lemmings, snowshoe hares, voles)**  
   Fluctuations in mammalian populations reveal complex ecological dynamics. These population cycles underscore the interconnectedness of species and their environments.
 
-# Claims of Late Survival of Mammoths and Mastadons
+# Claims of Late Survival of Mammoths and Mastadons [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Current or Very Recent Survival of Giant Ground Sloths in South America**  
   Claims regarding the survival of giant ground sloths open discussions about the extinction timeline and the persistence of certain species. This raises questions about habitat preservation and unrecognized populations.
@@ -3285,7 +2799,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Claims of the Current Survival of the Thylacine or Marsupial Tiger/Wolf**  
   Sightings of the thylacine challenge the accepted narrative of extinction and suggest possible conservation needs. These claims keep the hope alive for undiscovered or surviving populations.
 
-# The Fossil Record of Mammals
+# The Fossil Record of Mammals [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Searcity of Transitional Fossils in the Class Mammalia (e.g.; claimed reptile-mammal gap, whale-evolution controversies)**  
   The lack of transitional fossils presents a puzzle for evolutionary biology by complicating the vertebrate lineage narratives. This scarcity fuels ongoing debates about evolutionary theory and its mechanisms.
@@ -3293,35 +2807,35 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Anomalously Early Fossils (e.g.; placentals in Australia 55 million years ago)**  
   The presence of early mammal fossils in unexpected locations raises questions about the dispersal and evolution of mammals. These findings may prompt a reevaluation of historical biogeography.
 
-# Unusual Faculties and Talents of Mammals
+# Unusual Faculties and Talents of Mammals [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Magnetic Orientation and Navigation in Mammals (e.g.; experiments with mice)**  
   The ability of some mammals to navigate using Earth's magnetic field suggests advanced sensory capabilities. This anomaly indicates that many animals possess unrecognized methods for orientation.
 
 - **Curious Examples of Soaring and Parachuting Mammals (e.g.; flying squirrels)**  
   The gliding and parachuting abilities in some mammals provide unique adaptations for dispersal. This indicates a creative evolutionary response to environmental challenges.
-# 8.2 Mammal "Conferences" 
+# 8.2 Mammal "Conferences"  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Certain mammals, such as gorillas and dolphins, exhibit behaviors that resemble human social gatherings, termed "conferences." These interactions are believed to facilitate communication and strengthen social bonds among group members.
 
-# 8.3 Duetting and Chorusing 
+# 8.3 Duetting and Chorusing  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Animals like mice, indris, and whales can engage in coordinated vocalizations, known as duetting and chorusing. These forms of communication serve various purposes, including mating calls and establishing territory.
 
-# 8.4 Elephant and Other Mammals Use Infrasound 
+# 8.4 Elephant and Other Mammals Use Infrasound  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Elephants and other mammals are noted for their ability to utilize infrasound, which is sound at frequencies below the human hearing range. This adaptation allows them to communicate over long distances, especially in dense environments.
 
-# 8.5 Hippo Mysterious Underwater Clicks 
+# 8.5 Hippo Mysterious Underwater Clicks  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Hippopotamuses have been reported to produce mysterious underwater clicks that are not primarily used for hunting or navigation. This unusual vocalization raises questions about its purpose in social interactions.
 
-# Seismic Communication 
+# Seismic Communication  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Several mammals, including elephants and rabbits, utilize seismic communication to convey information through ground vibrations. This form of communication is particularly effective in environments where auditory signals may be less reliable.
 
-# Mammals That Imitate Human Words 
+# Mammals That Imitate Human Words  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Certain mammals, such as chimpanzees, dogs, and harbor seals, have shown an ability to imitate human words. This phenomenon highlights the cognitive capabilities of these species and their potential for social interaction with humans.
 
-# Tool Use and Manufacture 
+# Tool Use and Manufacture  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Tool use is documented in a variety of mammals, including apes, monkeys, and sea otters. This behavior indicates advanced problem-solving skills and the ability to manipulate the environment for specific purposes.
 
-# Mammalian Engineering Works 
+# Mammalian Engineering Works  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 ## 12.1 Houses and Shelters 
 - Beavers and certain types of bats are known for constructing houses and shelters. This engineering behavior demonstrates their ability to modify their environment for protection and breeding.
 
@@ -3340,34 +2854,34 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 ## 12.6 Bridges 
 - Orangutans have been observed constructing bridges between trees. This behavior showcases their spatial awareness and ability to navigate complex forest environments.
 
-# Unrecognized Mammals 
+# Unrecognized Mammals  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - There are claims of various unrecognized mammals, such as MacFarlane's Bear and De Loy's Ape, which remain subjects of interest in zoological studies. These entities highlight the potential for undiscovered species and the importance of ongoing research.
 
-# Unusual, Unprovoked Aggression among Mammals 
+# Unusual, Unprovoked Aggression among Mammals  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Instances of unusual aggression have been recorded among species like wolverines and transient orcas. This behavior challenges conventional understanding of social dynamics and aggression in the animal kingdom.
 
-# Curious Associations of Mammals 
+# Curious Associations of Mammals  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 ## 1.1 Living Together 
 - Some species, such as red foxes and woodchucks, exhibit tendencies to live in close proximity. This association raises questions about resource sharing and social structures among different species.
 
 ## 1.2 Warning and Feeding 
 - Certain mammals, like baboons and bush bucks, can display symbiotic relationships for warning and feeding. These interactions enhance survival rates through efficient communication and mutual benefits.
 
-# Do Predatory Mammals Kill the Unfit? 
+# Do Predatory Mammals Kill the Unfit?  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Generally, predatory mammals do not selectively target the unfit among their prey. This finding suggests a more complex understanding of natural selection in predatory behavior.
 
-# Unusual Gut Symbionts 
+# Unusual Gut Symbionts  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Some mammals, such as tree kangaroos, harbor unusual gut symbionts. These relationships can influence digestion and overall health, showcasing the intricacies of mammalian biology.
 
-# A Parasite Makes Rats Unafraid of Cats 
+# A Parasite Makes Rats Unafraid of Cats  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Certain parasites have evolved mechanisms to alter rats' behavior, making them less fearful of cats. This phenomenon illustrates the complex interactions between species and their adaptability for survival.
 
-# All-Female Populations 
+# All-Female Populations  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In some species, notably certain lizards, all-female populations exist, often attributed to parthenogenesis. This reproductive strategy raises intriguing questions about genetic diversity and adaptation in such populations.
-# Antibody Diversity Unusually Restricted in Reptiles
+# Antibody Diversity Unusually Restricted in Reptiles [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The diversity of antibodies in reptiles is notably limited compared to other vertebrates. This unusual characteristic may impact their immune responses and adaptability.
 
-# ORGANS OF REPTILES
+# ORGANS OF REPTILES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Remarkable parallel evolution of independently movable eyes is observed, showcasing significant changes in musculature and information processing. This phenomenon is exemplified by species such as chameleons and sandlance.
 
 - Unique chameleon eye lenses exhibit negative refractive power, a feature that distinguishes them from lenses found in many other animals. This adaptation enhances their predatory capabilities.
@@ -3390,7 +2904,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - Vipers like Causus are distinguished by having round pupils, whereas most other snake species possess slit pupils. This anomaly raises questions about the evolutionary advantages of pupil shape.
 
-# UNUSUAL TALENTS AND CAPABILITIES OF REPTILES
+# UNUSUAL TALENTS AND CAPABILITIES OF REPTILES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Loggerhead turtles have shown remarkable navigational feats, traveling up to 10,000 kilometers from Japan to Baja California. Their ability to return to the same nesting beaches demonstrates extraordinary long-distance navigation skills.
 
 - Green turtles navigate to Ascension Island, which is located 2,200 kilometers from their feeding area. This selective nesting behavior has raised questions about their navigational strategies.
@@ -3409,7 +2923,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - Leatherback turtles display remarkable diving capabilities, capable of descending to depths of 3,000 feet and remaining submerged for up to two hours. This adaptation aids their foraging strategies in deep waters. 
 
-# UNRECOGNIZED REPTILES
+# UNRECOGNIZED REPTILES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Claims for the Loch Ness Monster present ongoing debates, as some suggest it could be a surviving dinosaur-like reptile. This phenomenon continues to captivate public interest in cryptozoology.
 
 - The "Mokele-Mbembe" is reported in Africa as a large dinosaur-like reptile. Similar claims have surfaced in New Guinea, igniting intrigue regarding these unverified species.
@@ -3430,18 +2944,18 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - Reports of an unrecognized reptilian entity in the Himalayas, referred to as "The Buru," contribute to the area's mysterious lore. These narratives challenge our understanding of biodiversity in unexplored regions.
 
-# REPTILE INTERFACES WITH OTHER ANIMALS
+# REPTILE INTERFACES WITH OTHER ANIMALS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The relationship between spur-winged plovers and Nile crocodiles exemplifies mutualism, where plovers remove leeches from crocodiles. In return, crocodiles provide protection for the plovers' nesting sites.
 
 - Sharp-beaked ground finches and marine iguanas on the Galapagos islands demonstrate a cooperative interaction. The finches aid iguanas by removing parasites, showcasing the interconnectedness of species.
-# CHEMICAL REACTIONS
+# CHEMICAL REACTIONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **CA CHEMICAL REACTIONS**: This section describes various chemical anomalies without specific examples being listed. It references a framework for understanding chemical reactions that deviate from standard theories.
 
-# CAS UNUSUAL CHEMICAL SPECIES
+# CAS UNUSUAL CHEMICAL SPECIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **EXTREMELY DILUTE SOLUTIONS**: The concept revolves around solutions that are dilute to a degree where traditional chemical reactions may not occur in expected manners. These solutions often challenge classical understanding of concentration and reaction rates.
 - **CLAIMED EXTRATERRESTRIAL INFLUENCES UPON CHEMICAL REACTIONS**: This refers to the hypothesis that extraterrestrial factors may affect chemical processes on Earth. Specific instances or evidence for such claims are not detailed in this entry.
 
-# UNUSUAL CHEMICAL SPECIES
+# UNUSUAL CHEMICAL SPECIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Some Interesting Noble-Gas Compounds (e.g.; Xe-C)**: This entry highlights compounds formed by noble gases that are unexpectedly reactive. These discoveries could indicate gaps in the traditional understanding of noble gas chemistry.
 - **Red Mercury**: Long rumored to be an exotic explosive, the formula for Red Mercury is notably absent from literature. Its existence continues to be a topic of speculation and conspiracy, lacking scientific validation.
 - **Existence of Stable Calcium Ions**: The implication is that there are calcium ions with an unusual electron configuration, specifically with three electrons in the outer shell. This finding could impact theoretical chemistries that involve calcium.
@@ -3452,16 +2966,16 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Quasicrystals**: Notable for their unusual atomic arrangements, quasicrystals such as the cited example are intriguing to chemists and materials scientists. Their properties could lead to innovations in material design.
 - **Large Molecular Clusters**: This discusses clusters that contain specific "magic" numbers of atoms, which is an area of great interest in atomic physics. The behavior and properties of such clusters could reveal new aspects of atomic interactions.
   
-# CAS CLAIMED EXTRATERRESTIAL INFLUENCES UPON CHEMICAL REACTIONS
+# CAS CLAIMED EXTRATERRESTIAL INFLUENCES UPON CHEMICAL REACTIONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Piccardi Effect**: This claimed influence suggests that solar activity may impact the speed of chemical reactions. The precise mechanisms behind these potential changes remain a subject of investigation.
 - **An Apparent Solar Influence on Storage-Battery Capacity**: Observations have led to questions about whether solar phenomena can affect the efficiency of storage batteries. More research is necessary to substantiate these claims.
 
-# CAW CHEMICAL WAVES AND OSCILLATIONS
+# CAW CHEMICAL WAVES AND OSCILLATIONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Belousov-Zhabotinsky Reactions**: A fascinating example where complex chemical waves and oscillations occur in a liquid medium. These reactions serve as a model for non-equilibrium thermodynamics.
 - **Liesegang Phenomena**: This illustrates how certain gels can rhythmically swell and contract, showcasing dynamic chemical processes. The implications for materials science are significant, potentially affecting gel and emulsification technologies.
 - **Spiral Waves in Biochemical Reactions**: Here, aggregating slime molds showcase a form of chemical wave behavior that is important for understanding biological processes. This could extend to applications in biological pattern formation.
 
-# MISCELLANEOUS CHEMICAL PHENOMENA
+# MISCELLANEOUS CHEMICAL PHENOMENA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Magnetic Field Affects Some Reaction Rates**: This anomaly discusses how external magnetic fields can alter the rates of chemical reactions, a finding that complicates traditional models of reaction kinetics. Further exploration could lead to applications in catalysis and synthetic chemistry.
 - **Even-Odd Carbon-Atom Disparity**: A striking observation that even-numbered carbon atoms outnumber odd ones significantly in a survey of organic compounds. This finding raises questions about molecular stability and formation patterns.
 - **Remarkable Polymer Motion**: This refers to unique forms of polymer motion that appear to allow them to evade physical constraints. Understanding this behavior may lead to advancements in polymer technology and materials science.
@@ -3470,24 +2984,24 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Unexplained, Spontaneous Heat Bursts in Frozen Hydrogen**: This suggests that erratic heating events in frozen hydrogen challenge existing thermodynamic theories. Further studies may be necessary to resolve these anomalies.
 - **Darwinian Chemistry**: The hypothesis that "mutant" molecules compete for survival is a striking parallel to evolutionary biology. This perspective could reshape our understanding of molecular interactions and evolution.
 
-# CC CONSTANTS OF NATURE
+# CC CONSTANTS OF NATURE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Faster-than-Light Claims**: Investigates various claims and experiments suggesting phenomena that might involve superluminal speeds, including experimental evidence of tunneling photons. Such claims challenge foundational physics, notably relativity.
 - **Claimed Historical Decay of the Speed of Light**: This entry discusses various claims regarding changes in the speed of light over time. Evidence is needed to clarify these historical debates in foundational physics.
 - **Possible Variability of the Speed of Light**: This addresses the theory that light's speed may not be constant, which contradicts principles of special relativity. Experimental proof remains critical for this controversial stance.
   
-# CYES A UNIVERSAL ATTRACTIVE FORCE (SIXTH FORCE)
+# CYES A UNIVERSAL ATTRACTIVE FORCE (SIXTH FORCE) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Experimental Observations Made from Towers**: Data collected from high-altitude locations suggest unusual gravitational behaviors. This leads to questions about gravitational forces and their potential anomalies.
   
-# COK SELF-ORGANIZING PHENOMENA
+# COK SELF-ORGANIZING PHENOMENA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Spontaneous Formation of Crystal Clusters**: Demonstrations of how crystal clusters can spontaneously assemble provide insights into material formation processes. Such phenomena challenge existing notions of inclusivity in crystal chemistry.
   
-# CND RADIOMETRIC DATING
+# CND RADIOMETRIC DATING [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Radiocarbon Erroneous Dates**: This indicates significant disparities in radiocarbon dating results, with a specific reference to subfossil trees. Such inconsistencies prompt reevaluation in the dating methodologies and error source examinations.
 - **Uranium-Series Erroneous Dates**: Cases where uranium-series dating has led to inaccurate ages, particularly regarding human bones, reveal flaws in conventional dating techniques. This could alter our understanding of archaeological timelines significantly.
 
-# CNR RADIOACTIVITY ANOMALIES
+# CNR RADIOACTIVITY ANOMALIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Effects of Pressure, Temperature, etc. on Decay Rates**: Research indicates that external conditions can affect the rates at which radioactive materials decay. This insight into nuclear physics could have profound implications for safety and storage protocols regarding radioactive substances.
-# ANOMALIES
+# ANOMALIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Photinos**  
   Predicted by supersymmetry, photinos are a theoretical particle that has not yet been detected. Their existence is essential for some extensions of the standard model of particle physics.
@@ -3557,7 +3071,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Sonoluminescence**  
   Sonoluminescence is the phenomenon of light emission from imploding bubbles in a liquid. Its underlying mechanisms remain a topic of scientific inquiry, straddling fluid dynamics and quantum mechanics.
-# ANOMALIES IN THE FOSSIL RECORD
+# ANOMALIES IN THE FOSSIL RECORD [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Biological Extinction Events**: There is a possible periodicity to extinction events based on studies of 1,000 genera. Such periodicity raises questions regarding the causes and patterns of mass extinctions in Earth's history.
   
 - **Biological Explosion Events**: The Cambrian explosion represents a notable period of rapid diversification in animal life. This rapid increase in complexity challenges standard evolutionary timelines.
@@ -3586,7 +3100,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Common Orientation of Petrified Trees**: The prostrate trees in Arizona’s Petrified Forest correlate with the impact of a past geological event. This connection raises questions about the processes responsible for such orientations in fossilized trees.
 
-# GEOLOGICAL TIME (MILLIONS OF YEARS)
+# GEOLOGICAL TIME (MILLIONS OF YEARS) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Mixed Terrestrial and Marine Fossils in Same Deposits**: The existence of both terrestrial and marine fossils in singular deposits challenges the established ideas about stratification and habitat preservation. Such mixtures pose questions about the depositional environments and timelines.
 
 - **Lack of Increasing Complexity of Fossils in Younger Strata**: This idea of evolutionary stasis highlights a stagnation in perceived complexity over time. Such patterns necessitate a reexamination of evolutionary assumptions.
@@ -3597,7 +3111,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Dinosaur Bones in Bauxite**: The presence of dinosaur fossils embedded within bauxite rock, a metamorphic material, casts doubt on standard fossilization processes. Such anomalies prompt further exploration into the conditions under which these fossils were preserved.
 
-# ANOMALOUS CHEMICAL PHENOMENA IN GEOLOGY
+# ANOMALOUS CHEMICAL PHENOMENA IN GEOLOGY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Chemical Anomalies in the Stratigraphic Record**: Instances of carbon-isotope anomalies and iridium spikes suggest significant geological events that are not typically recorded in the geological timeline. Such anomalies demand further investigation into Earth’s historical interactions.  
 
 - **Chemical Anomalies in Igneous and Metamorphic Rocks**: Discoveries of unexpected chemical compositions challenge standard classifications of rock types. These findings suggest information about the Earth's internal processes could be incomplete or misunderstood.
@@ -3620,7 +3134,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Chemical Anomalies of Lakes and Ground Water**: Observations of lakes, such as Norway's Lake Tokke, containing trapped seawater present challenges to traditional geological understanding. Such findings suggest historical geological interactions that remain to be understood.
 
-# PETROLEUM ANOMALIES
+# PETROLEUM ANOMALIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Conversion of Organic Material into Oil**: The process by which organic substances transform into petroleum is poorly understood. The mechanisms and conditions facilitating the conversion remain a significant area of inquiry.
 
 - **Odd-Carbon Predominance in Older Oils**: The unexpected distribution of carbon types in older petroleum reservoirs raises questions about the processes influencing oil formation. Such anomalies could reshape conventions in petroleum geology.
@@ -3630,7 +3144,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Hydrogen-Saturation of Oils**: The prevalence of hydrogen in specific oil samples opens discussions regarding their formation and degradation. Such chemical characteristics require further exploration of their implications for energy resources.
 
 - **Presence of Bacteria in Oil**: The discovery of living bacteria within oil reservoirs challenges assumptions about environmental isolation. This anomaly may prompt further inquiries into the relationships between life forms and fossil fuels.
-# Unusual Geological Anomalies
+# Unusual Geological Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Unusual Striations Attributed to Ice-Sheet Action**  
   These striations are records that contradict the established motion of ice sheets. Their occurrence raises questions about historical geological processes.
@@ -3664,7 +3178,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Grand Canyon Anomalies**  
   The Conventional canyon-cutting theory does not adequately explain various anomalies observed in and around the Grand Canyon. Specifically, the quantities of sediment typically expected from such a process are not evident.
-# Anomalies in Magnetic and Geophysical Phenomena
+# Anomalies in Magnetic and Geophysical Phenomena [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Correlations of Polarity Reversals with Other Phenomena**
   - Biological explosions, extinctions, tektite falls, climate changes, and volcanism are all phenomena that may correlate with magnetic polarity reversals. These correlations suggest potential relationships between geophysical events and life on Earth.
@@ -3713,7 +3227,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Massive Foam Accumulations**
   - Foam phenomena on water surfaces that form in distinctive patterns represent interesting hydrospheric anomalies. Understanding their formation can enhance our knowledge of water dynamics and environmental interactions.
-# Underwater Anomalies
+# Underwater Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Underwater Eruptions**: Observations of underwater eruptions can reveal significant phenomena, such as the one documented in the Atlantic in 1963. This eruption was noted for creating a hemispherical mound of water measuring a mile across and hundreds of feet high.
 
 - **Anomalous El Ninos**: Certain El Niño events appear to behave unpredictably, deviating from established patterns. These anomalous patterns can lead to extended periods of unusual weather conditions across the globe.
@@ -3738,7 +3252,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Oceanic Dead Zones**: Areas like the Gulf of Mexico have been identified as oceanic dead zones, where oxygen levels are critically low. This phenomenon has devastating effects on aquatic life and marine biodiversity.
 
-# Wave Phenomena
+# Wave Phenomena [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Unexplained Solitary Waves**: Solitary waves, often referred to as "rogue waves," are enormous and unpredictable ocean waves. Unlike tsunamis, these waves can arise without warning, posing risks to vessels.
 
 - **Periodic Bands of Waves**: The best-developed instances of periodic waves occur in the Andaman and Sulu seas. These natural formations showcase the complexities of ocean wave dynamics.
@@ -3749,7 +3263,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Increasing Height of Atlantic Waves**: Research indicates that waves in the Atlantic have been growing taller over time. This increase could imply changes in climate patterns affecting ocean dynamics.
 
-# Luminous Phenomena
+# Luminous Phenomena [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Auroral Pillars**: These are straight-sided, vertical shafts of light observed on the horizon. They contribute to our understanding of auroral activity and its correlation with solar winds.
 
 - **Ball Lightning**: A peculiar phenomenon where mobile yellowish spheres, termed ball lightning, can appear during thunderstorms. These luminous entities pose various mysteries, including their origins and behaviors.
@@ -3758,7 +3272,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Earthquake Lights**: Unexplained phenomena have been observed as luminous displays before and during seismic activity. These lights can encompass various forms, from glowing orbs to flashes of brightness in the sky.
 
-# Dynamic Earthquake Phenomena
+# Dynamic Earthquake Phenomena [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Upward Propulsion of Objects**: Observations reveal that objects can be ejected upward due to seismic disturbances, leading to upthrown rocks. Such phenomena underscore the violent nature of earthquakes and their immediate leverage on the landscape.
 
 - **Gaseous Emissions**: During earthquakes, unusual emissions of gases are often recorded. This phenomenon draws attention to the fluid dynamics occurring beneath the Earth's crust prior to seismic events.
@@ -3766,51 +3280,51 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Earthquake Magnetic Effects**: Disturbances in geomagnetic fields have been linked to seismic occurrences. These anomalies suggest complex interactions between geological movements and magnetic fields.
 
 - **Seismic Gaps**: Locations where earthquakes are anticipated but fail to occur may signal underlying geological processes yet to be understood. This anomaly invites further research into tectonic activity and predictions.
-# Earthquake Cycles
+# Earthquake Cycles [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Earthquakes are correlated with the Earth's rotation, indicating potential cyclical patterns in seismic activity. This relationship suggests that variations in the Earth's spin might influence the occurrence of earthquakes.
 
 - Chaos in earthquake data presents a challenge in predicting seismic events, as data can fluctuate unpredictably. Researchers find anomalies that complicate the understanding of earthquake trends.
 
-# UNUSUAL VIBRATIONS
+# UNUSUAL VIBRATIONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Unidentified vibrations, such as muted ground vibrations, are observed without clear sources. These anomalies raise questions about their origin and potential impacts on the environment.
 
 - Vibrations induced by falling water, like those from vibrating dams, are noted for their unique characteristics. Such phenomena highlight the interconnectedness of physical events and can lead to further studies on water dynamics.
 
-# Exotic Seismic Signals
+# Exotic Seismic Signals [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Exotic seismic signals, including those generated by huge rock falls and bolide impacts, demonstrate the variety of events that can produce seismic waves. These signals contribute crucial data for understanding the Earth’s geology.
 
 - Strong subterranean rumblings, unrelated to seismic activity, pose additional mysteries. Such phenomena challenge conventional definitions of seismicity and necessitate further investigation.
 
-# EARTHQUAKE WEATHER
+# EARTHQUAKE WEATHER [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Earthquake weather attributes specific environmental conditions, such as oppressive weather, to increased seismic activity. This connection is debated, with proponents suggesting such conditions could affect tectonic stress.
 
 - Rainfall is observed to correlate with earthquake frequency, suggesting that weather patterns may play a role in seismic events. This observation prompts an exploration of atmospheric and geological interactions.
 
-# UNUSUAL SOUNDS IN NATURE
+# UNUSUAL SOUNDS IN NATURE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Unidentified aerial detonations, such as those associated with meteors, highlight unexplained acoustic events. This points to a broader range of natural phenomena that contribute to our auditory environment.
 
 - Musical sounds in nature, such as those produced by humpback whales, offer fascinating examples of biological and environmental interactions. These sounds encourage further exploration into the soundscapes of various ecosystems.
 
-# UNUSUAL CLOUDS
+# UNUSUAL CLOUDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Cloud arches that connect far-separated clouds present a visually striking anomaly in meteorological phenomena. Their occurrence invites inquiry into the atmospheric conditions that lead to such formations.
 
 - Noctilucent clouds, which shine in twilight, provide an intriguing glimpse into atmospheric science. Their unique characteristics lead to questions about the dynamics of high-altitude weather patterns.
 
-# DARK DAYS, FOGS, AND OTHER OBSCURATIONS
+# DARK DAYS, FOGS, AND OTHER OBSCURATIONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Dark days, where sunlight is completely obscured, can create a surreal and unexplained atmospheric condition. Such phenomena can have profound effects on local climate and human behavior.
 
 - Pogonips, or ice fogs, are observed in certain conditions and can correlate with historical epidemics. This link between weather phenomena and public health illustrates the complexity of environmental influences on society.
 
-# ANOMALOUS PRECIPITATION
+# ANOMALOUS PRECIPITATION [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Precipitation from a clear sky challenges conventional understandings of meteorological processes. Such instances require deeper investigations into atmospheric anomalies and their implications.
 
 - Giant snowflakes, reported as unusually large, prompt scientific interest given their rarity. Their formation raises questions about the conditions necessary for such extreme meteorological occurrences.
 
-# TEMPERATURE ANOMALIES
+# TEMPERATURE ANOMALIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Temperature flashes that shift dramatically in a short period exemplify unpredictable weather phenomena. Understanding these rapid changes is vital for improving forecasting and climate models.
 
 - The year without a summer (1816) serves as a historical example of climatic anomalies with significant societal impacts. This event illustrates how weather can drastically influence agriculture and livelihood.
-# Genetic Anomalies
+# Genetic Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Blood HTLV-1 (A Retrovirus)**: This retrovirus is prevalent in Japan and found in Chile, Brazil, and Columbia, suggesting possible pre-Columbian contacts. Its unusual geographic distribution raises questions about ancient connections between these regions.
   
 - **The Basques of Spain Have a Very High Frequency of Rh-negative Blood**: The Basques have a distinct genetic profile with higher Rh-negative blood frequency compared to other Europeans. This anomaly raises questions about their origin and potential ancient migrations.
@@ -3837,10 +3351,10 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **mtDNA of Neanderthals Is Unlike That of Modern Humans**: The distinct mtDNA characteristics raise questions about the evolutionary pathways of Neanderthals and modern humans. This suggests that modern humans may have developed with significantly different genetic makeups.
 
-# Anomalous Incidence of Disease
+# Anomalous Incidence of Disease [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **The "Zuni Disease"**: This kidney disease is rare among other Native Americans but unusually prevalent among the Japanese population. This anomaly hints at historical links between the Zuni and Japan.
 
-# Cultural Phenomena of Ancient Peoples
+# Cultural Phenomena of Ancient Peoples [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Existence of Enormous Numbers of Cat and Crocodile Mummies in Egypt**: Although not typically viewed as anomalies, the vast quantity of animal mummies prompts curiosity about ancient Egyptian burial customs. The mummification practices reflect significant cultural beliefs.
 
 - **Unknown Impetus for the European Cultural Explosion circa 40,000 B.P.**: The sudden advancements in cave art and technology remain unexplained, suggesting an obscure catalyst for this transformation. This cultural revolution raises questions about human development during that period.
@@ -3867,7 +3381,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Many Cultural Features Shared by Olmecs and China's Shang Dynasty**: The Olmecs and Shang Dynasty share similarities in infrastructure and art, leading to speculation about ancient contact or diffusion. This connection invites further exploration of early civilizations’ interactions.
 
-# Anomalous Hominid Fossils
+# Anomalous Hominid Fossils [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **New-World Skeletons with Anomalous Old-World Affinities**: Discovering skeletons with European or Polynesian features raises questions about migration patterns. This suggests interactions between distinct populations potentially long before established migration routes.
 
 - **Human Skeletons with Neanderthal Features**: Evidence of hybridization between early humans and Neanderthals can be seen in the skeletal remains of individuals across various locations. This genetic blending complicates our understanding of human evolutionary paths.
@@ -3880,7 +3394,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **South American Affinities**: The presence of South American traits among New Zealand's Maori and other Polynesian populations prompts speculation about ancient maritime connections. This anomaly invites further exploration into Pacific navigation.
 
-# Ancient Farming Practices
+# Ancient Farming Practices [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Crop Cultivation Preceded Human Settlements**: Evidence suggests that agricultural practices began significantly earlier than previously believed, challenging assumptions about the transition from hunting-gathering to farming. This indicates complexities in societal developments.
 
 - **Advent of Agriculture Actually Lowered Life Expectancy**: The rise of agriculture is associated with health declines due to factors like crowded living conditions and nutritional deficiencies. This contradicts notions of a purely positive garden civilization transition.
@@ -3889,12 +3403,12 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Hunter-Gatherers Actually Had an Easy, Healthy Life**: Contrary to popular belief, hunter-gatherer societies may have enjoyed a bountiful lifestyle with ample leisure. This challenges conventional views and raises inquiries into the human condition during that era.
 
-# Dynamics and Inter-Relationships of Ancient Cultures
+# Dynamics and Inter-Relationships of Ancient Cultures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **The Unexplained (Often Sudden) Demise of Cultures**: Various ancient cultures demonstrate abrupt declines without clear explanations, including the Mayan civilization. This continuous occurrence signifies a need for depth in understanding environmental and sociopolitical factors.
 
 - **Apparent Sudden Origin of Some Ancient Cultures**: Instances like the Olmecs and Tiahuanaco indicate unexpected culture emergence, proposing questions about migration and sudden social organization. These patterns provoke studies into ancestral connections or influences.
 
-# Possibly Substantive Myth, Legend, and Tradition
+# Possibly Substantive Myth, Legend, and Tradition [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Claimed Precolumbian Transatlantic Voyages**: Legends of figures like Henry Sinclair and Saint Brendan suggest potential ancient trans-oceanic interactions before established historical records. This raises ideas about cultural exchanges and navigational capabilities.
 
 - **Claimed Precolumbian Transpacific Voyage**: Stories claiming Chinese voyages to "Fu Sang" highlight intriguing narratives suggesting contact between even far-flung civilizations. Such accounts foster discussions about ancient maritime exploration.
@@ -3904,45 +3418,45 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Precolumbian Japanese-Vessel Wrecks and Landfalls in the New World**: Reports of ancient Japanese vessels reaching American shores hint at complex navigational histories and exchanges. These narratives deepen inquiries about transpacific connections and migrations.
 
 - **The Existence of Quetzalcoatl**: Tales of the feathered serpent deity suggest cultural influences or shared mythologies between Scandinavians and Mesoamericans. This phenomenon encapsulates the notion of deities acting as cultural conduits.
-# North American Boulder and Gravel Effigies
+# North American Boulder and Gravel Effigies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Serpent Mound is a notable effigy found in North America, showcasing a unique representation of a serpent in landscape form. Such earthen structures often evoke questions about the cultural significance and construction methods of ancient peoples.
 
-# Remarkable Calendars and Zodiacs
+# Remarkable Calendars and Zodiacs [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The concept of "Precocious Paleolithic Calendric Notation" includes lunar markings found on mammoth bones that suggest a sophisticated understanding of timekeeping. This indicates that even early humans had the capability for astronomical observation and recording.
 
-# Maps
+# Maps [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Claimed precolumbian maps of the New World, like the Vineland map, raise intriguing questions about trans-oceanic exploration and interactions before European contact. The very existence of these maps challenges traditional narratives of geographic knowledge in ancient times.
 
-# Depictions of Exotic Humans
+# Depictions of Exotic Humans [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The depiction of Europeans in precolumbian art, such as Norse figures in North America, presents an anomaly that suggests cultural exchanges that are not widely recognized in mainstream history. These findings compel a reevaluation of historical narratives regarding early contact between disparate cultures.
 
-# Scenes Displaying Supposed Advanced Technology
+# Scenes Displaying Supposed Advanced Technology [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Palenque "Astronaut" sarcophagus presents an interpretation that depicts a figure resembling a modern astronaut. This portrayal challenges the understanding of ancient cultures' technological capabilities and suggests a more complex relationship with the cosmos than previously believed.
 
-# Depictions of Exotic Animals
+# Depictions of Exotic Animals [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The prevalence of elephantine figures in the New World indicates the existence of non-native species representations in ancient art. This raises questions about the influences and interactions between distant cultures that could account for such anachronisms.
 
-# Unrecognized Species and Unclassifiable "Monsters"
+# Unrecognized Species and Unclassifiable "Monsters" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The "Piasa" is a mythical creature depicted in Native American lore that presents as an anomaly not easily categorized within known species. Such representations often imply underlying cultural narratives concerning the interaction between humans and nature.
 
-# Depictions of Astronomical Phenomena
+# Depictions of Astronomical Phenomena [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Star maps found in ancient art suggest that civilizations had an advanced understanding of celestial movements. The consistent depiction of astronomical events across cultures further emphasizes the universal fascination with the heavens.
 
-# Sculptures Apparently Products of Precocious Technology
+# Sculptures Apparently Products of Precocious Technology [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The precision with which South American crystal skulls and statuettes were carved raises questions about the technological capabilities of ancient cultures. These artifacts suggest the possibility of lost techniques or knowledge that has yet to be understood.
 
-# Large Accumulations of Art and Sculpture of Dubious Authenticity
+# Large Accumulations of Art and Sculpture of Dubious Authenticity [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Crespi Gold artifacts have been labeled as possibly fraudulent due to their origins and the context of their discovery. These controversial finds fuel debates on the legitimacy of certain archaeological claims and the narratives built around them.
 
-# Rock Art Suggesting Precocious Animal Husbandry
+# Rock Art Suggesting Precocious Animal Husbandry [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Rock art depicting harnessed ostriches hints at an advanced understanding of animal husbandry that challenges perceptions of early human lifestyles. This artistic evidence suggests that prehistoric societies may have engaged in practices thought to be much later in history.
 
-# Tattooing and Body Marking
+# Tattooing and Body Marking [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The similarity between Maori and ancient Egyptian chin tattooing presents an intriguing connection that may suggest cultural diffusion. Such body markings could imply shared practices or influences that extend across vast distances and time periods.
 
-# Inscriptions Providing Astronomical Information
+# Inscriptions Providing Astronomical Information [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Mayan codices contain extensive records of celestial events, demonstrating the civilization's advanced understanding of astronomy. This knowledge highlights the importance of astronomical observations in ritual and agricultural contexts within ancient cultures.
-# Anomalies in Nongraphic Artifacts
+# Anomalies in Nongraphic Artifacts [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Pre-Clovis diffusion of humans to North America**
   - This challenges the established timeline of human migration to North America, suggesting that humans arrived well before the Clovis culture, traditionally seen as the earliest known inhabitants. It raises questions about how early hunter-gatherer societies were able to traverse vast distances.
@@ -3974,7 +3488,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **The very early construction and use of ocean-going vessels**
   - Findings indicate that ancient civilizations may have had the technology to build ocean-going ships far earlier than noted. This could alter historical narratives regarding seafaring and trade among ancient peoples. 
 
-# Anomalies in MMB Bone Artifacts Zealand
+# Anomalies in MMB Bone Artifacts Zealand [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Claim of Pre-Clovis Bone Tools in the New World**
   - Evidence claiming the existence of bone tools that predate the accepted Clovis limit presents challenges to established archaeological timelines. This suggests a need for reevaluation of early human activity in North America.
@@ -3988,7 +3502,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Horse Domestication in Europe (and Possibly the New World) before 30,000 Years Ago**
   - Evidence of horse domestication several millennia earlier than previously accepted suggests a complex relationship between humans and animals. This raises intriguing questions regarding the social and economic frameworks of early societies.
 
-# Anomalies in Cloth and Textile Artifacts
+# Anomalies in Cloth and Textile Artifacts [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Precolumbian Old-World Cloth in the New World**
   - The discovery of Old-World textiles in precolumbian contexts raises significant implications about trans-oceanic contact between ancient civilizations. It questions the isolationist narratives frequently applied to early cultures.
@@ -4002,7 +3516,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Precolumbian Appearance of Chinese Weaving Technology in Mexico**
   - The discovery of techniques resembling ancient Chinese weaving in Mesoamerica raises questions about the extent of interactions between distant cultures. It suggests complex trade networks that may have existed before recorded history.
 
-# Anomalies in Fossil Footprints, Tool Marks, and Other Geological Artifacts
+# Anomalies in Fossil Footprints, Tool Marks, and Other Geological Artifacts [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Humans Not Responsible for Australian Megafauna Overkill**
   - Some researchers argue that evidence contradicts the theory that humans were solely responsible for the extinction of megafauna in Australia. This challenges the narrative of human impact on ecosystems and ecological extinction events.
@@ -4016,7 +3530,7 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 - **Anomalies Implied by Apparent Metal Tool Marks on Coalified or Petrified Wood**
   - Evidence suggesting the presence of metal tool marks on ancient wood implies a level of technology and interaction that predates established timelines. This challenges the understanding of human development and tool use.
 
-# Anomalous Structures and Infrastructure
+# Anomalous Structures and Infrastructure [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Did the Vikings settle in New England as well as Newfoundland?**
   - Evidence of Viking artifacts in New England raises questions regarding the extent of Norse exploration and settlement in North America. It suggests a need to reassess historical narratives surrounding Viking voyages.
@@ -4029,11 +3543,11 @@ The high rotational velocities of matter in the outskirts of galaxies indicate m
 
 - **Why do Maya pyramids resemble those of Asia so closely?**
   - The similarity between certain Mesoamerican and Asian pyramid structures raises intriguing questions about potential cultural exchange or independent development. This anomaly invites discussions on the nature of architectural design across disparate cultures.
-# ne Spheres at Some Temples
+# ne Spheres at Some Temples [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Unusual Total Lack of Astronomical Alignments**  
 Most ancient cultures were absorbed in astronomy, but some temples do not exhibit any astronomical alignments. This raises questions about the intention and knowledge of the builders.
 
-# Baalbek: The Tiahuanaco of the Old World
+# Baalbek: The Tiahuanaco of the Old World [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Unknown Techniques for Quarrying, Lifting, and Transporting the 610-Ton Trilithons**  
 The methods employed to handle such massive stones remain a mystery. This lack of understanding complicates our view of the engineering capabilities of ancient civilizations.
 
@@ -4043,7 +3557,7 @@ An enormous monolith was left behind in its quarry, which is puzzling given its 
 - **Why Were Such Large Blocks Needed in the Temple Foundation?**  
 The use of such giant blocks implies sophisticated engineering and design choices. However, it is unclear what purpose these immense stones served within the temples.
 
-# Miscellaneous Ancient Structures: Asia
+# Miscellaneous Ancient Structures: Asia [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Precocious Use of Iron Beams in India**  
 Evidence suggests that ancient Indian builders used iron beams long before their widespread adoption in other parts of the world. This early usage indicates advanced metallurgical capabilities.
 
@@ -4053,7 +3567,7 @@ Structures in the Maldives show remarkable precision in stone fitting, similar t
 - **Ancient Wooden Building in Japan**  
 At a site in Aomori, wooden construction dating back to around 10,000 B.C. was discovered. The existence of such structures opens up discussions about ancient building materials and techniques.
 
-# Miscellaneous Ancient Structures: Oceania
+# Miscellaneous Ancient Structures: Oceania [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Examples of Inca-Style Masonry**  
 Inca-style masonry can also be observed on locations such as Easter Island. The similarities raise questions about possible cultural exchanges or migrations across distant regions.
 
@@ -4066,7 +3580,7 @@ In Tonga, immense stones weighing between 100 and 150 tons were utilized in cons
 - **Almost Fanatical Proliferation of Marae**  
 Marae, or sacred communal places, can be found even on remote and uninhabitable islands. The sheer number of these structures hints at significant cultural activity despite geographical isolation.
 
-# Miscellaneous Ancient Structures: Africa
+# Miscellaneous Ancient Structures: Africa [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Use of Stones Sometimes Larger Than Those in Great Pyramid**  
 At places such as the Valley Temple in Giza, stones can exceed those used in the Great Pyramid. This anomaly invites further investigation into ancient quarrying and construction practices.
 
@@ -4076,11 +3590,11 @@ In Egypt, interlocking stones akin to Inca methods have been identified. The app
 - **Obscure Purpose and Enigmatic Design of the Osireion, Abydos, Egypt**  
 The Osireion's design and function remain little understood, complicating its historical context. This structure invites theories and speculation regarding its intended purpose.
 
-# Musical Buildings
+# Musical Buildings [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Musical Buildings**  
 Ancient structures, such as a 500-year-old baptistry in Italy, exhibit properties that create unique acoustical effects. Their design prompts reflections on the intersection of architecture and sound.
 
-# WATER-CONTROL STRUCTURES
+# WATER-CONTROL STRUCTURES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Remarkable Ancient Aqueducts and Water-Delivery Systems**  
 Ancient aqueducts, like the Canal of Joseph in Egypt, demonstrate advanced engineering for water transportation. Their functionality indicates a high regard for hydraulic engineering in historical societies.
 
@@ -4093,7 +3607,7 @@ Known as qanats, these systems stretch over 160,000 miles in Iran. Their intrica
 - **Water-Condensing Structures**  
 In Greece, stone pyramids function as condensers to collect water. This method portrays an innovative approach to overcoming environmental challenges.
 
-# Four Notable Ancient Irrigation Systems
+# Four Notable Ancient Irrigation Systems [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Michigan Ancient "Garden Beds"**  
 The garden beds found in Michigan represent an intriguing agricultural adaptation by ancient cultures. Their organization suggests a sophisticated approach to farming and land use.
 
@@ -4106,14 +3620,14 @@ Ancient civilization in the High Andes implemented platform agriculture to maxim
 - **Amazon Massive Artificial Canal System**  
 These artificial canals served multiple purposes, including irrigation and fishery usage. Their construction signifies a sophisticated understanding of ecological management.
 
-# Curious Old Dams
+# Curious Old Dams [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Curious Old Dams**  
 Dams built by ancient Egyptians, such as those along the Nile, prompt examination of their engineering techniques. Their function and significance within ancient societal structures remain significant points of interest.
 
 - **Unusual Water-Containment Structures**  
 The "Great Bath" in Pakistan, an early form of water containment, illustrates advanced hydraulic techniques. Its design raises questions about its social and religious significance.
 
-# MSC DOLMENS, MENHIRS, ROCKING STONES
+# MSC DOLMENS, MENHIRS, ROCKING STONES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Some Minor Enigmas Concerning Menhirs**  
 Questions arise about why many giant menhirs are found prostrate and broken. Such peculiar placements suggest larger landscape contexts for their construction.
 
@@ -4129,7 +3643,7 @@ Dolmen structures found in places like North Salem, New York, suggest a diffusio
 - **Curious Rocking Stones**  
 Unique rocking stones, such as the Three Breeders in England, create questions regarding their use. Their motion implies an understanding of gravity and balance among ancient peoples.
 
-# MSE EXCAVATED STRUCTURES
+# MSE EXCAVATED STRUCTURES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Lines of Pits**  
 In Cajamarquuilla, Peru, 209 pits exist with an unknown purpose, prompting questions about ancient activities. Their linear arrangement suggests a systematic approach to their construction.
 
@@ -4145,7 +3659,7 @@ In Ipswich, England, shafts reveal unusual materials lining their interiors. The
 - **Ancient Precision Drilling of Tunnels from Both Ends**  
 The Samos tunnel in Greece, extending 5,000 feet, showcases remarkable ancient engineering. Its precision drilling suggests significant knowledge of geology and geology-related methods.
 
-# The Oak Island Shaft and Tunnels
+# The Oak Island Shaft and Tunnels [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **The Oak Island Shaft and Tunnels**  
 Famous for its "Money Pit," this site presents ongoing mysteries regarding treasure and artifacts. The tunnels and shafts signify the possible complexity of ancient engineering pursuits.
 
@@ -4161,7 +3675,7 @@ Sculpted hills in Balbeldoab, Micronesia, reveal human alteration of landscapes.
 - **Terrestrial Zodiacs and Star Maps**  
 In Glastonbury, England, terrestrial zodiacs and star maps exhibit potential ancient astronomical knowledge. Their construction points to possible advanced spiritual or scientific beliefs.
 
-# FORTS
+# FORTS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Walls Are Intentionally Breached by Many Entrances**  
 The design of various ancient forts reveals multiple entrances, questioning their defensive strategies. This feature raises curiosity about their actual purposes in historical narratives.
 
@@ -4174,7 +3688,7 @@ Many fortifications demonstrate an impractical perimeter length, suggesting non-
 - **Some "Forts" Are Remote from Population Centers**  
 Forts located far from habitation, such as Fort Ancient in Ohio, challenge perceptions of military necessity. Their remote locations imply alternative functions beyond defense.
 
-# Notable Ancient Stone Forts
+# Notable Ancient Stone Forts [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Many Are of Doubtful Military Value**  
 Some ancient stone forts do not exhibit signs of military use. Their construction techniques prompt speculation about the motivations of their builders.
 
@@ -4187,7 +3701,7 @@ Forts in Warren County, Ohio, exhibit signs of vitrification, suggesting high-te
 - **The Vitrified Forts of Scotland**  
 Scotland's vitrified forts present a debated method of stone alteration. Investigating their origins and implications may unravel aspects of ancient Scottish society.
 
-# STONE ROWS, CIRCLES, AND OTHER SIMPLE STONE CONFIGURATIONS
+# STONE ROWS, CIRCLES, AND OTHER SIMPLE STONE CONFIGURATIONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Short Stone Rows**  
 Architectural features such as the Devil's Arrows in Britain highlight short stone rows in unique patterns. Their arrangement invites questions regarding the intent behind their placement.
 
@@ -4218,7 +3732,7 @@ The existence of a standard length for megaliths points to sophisticated measure
 - **Geometrical Sophistication of Stone Circles**  
 The use of geometrical principles, such as 3-4-5 triangles in stone circles, demonstrates architectural knowledge. This sophistication implies a grasp of mathematics often unassociated with ancient cultures.
 
-# Claims of Physical Phenomena Associated with Stone Circles
+# Claims of Physical Phenomena Associated with Stone Circles [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Luminous Phenomena**  
 Reports of luminous phenomena surrounding stone circles provoke inquisitiveness about their energy. These accounts challenge scientific understanding of natural versus supernatural occurrences.
 
@@ -4234,7 +3748,7 @@ Unusual auditory effects in stone circles suggest a fascinating link between sou
 - **Psychological Effects**  
 Experiences reported at stone circles evoke psychological and emotional responses among visitors. This connection prompts further studies on the cultural impact of these structures.
 
-# Claims of Psychical Phenomena Concentrated at Stone Circles
+# Claims of Psychical Phenomena Concentrated at Stone Circles [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Integration of Stone Circles and the Environment**  
 Many stone circles are strategically placed near geological features, such as faults and springs. These correlations suggest a holistic understanding of the landscape by ancient peoples.
 
@@ -4250,18 +3764,18 @@ Certain stone circles may have served as tools for tracking celestial events, su
 - **Stonehenge's Remarkable Rectangle**  
 At its unique latitude, Stonehenge's marker alignments form significant geometrical shapes. These characteristics indicate advanced knowledge of astronomy and construction.
 
-# Did the French Build Actually Stonehenge?
+# Did the French Build Actually Stonehenge? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Did the French Build Actually Stonehenge?**  
 Theories suggesting French involvement in Stonehenge’s construction confront established narratives of ancient societies. Such discussions highlight the complexities of cultural exchange and heritage.
 
-# Geometrical and Geographical Anomalies of Stone Rectangles
+# Geometrical and Geographical Anomalies of Stone Rectangles [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Use of 3-4-5 Triangles in their Geometries**  
 The application of geometrical shapes like 3-4-5 triangles in structural design demonstrates a deep understanding of mathematics. This knowledge reflects architectural sophistication as early as ancient times.
 
 - **Location at Unique Latitude Where Significant Astronomical Alignments Are Possible**  
 The positioning of stone rectangles near significant astronomical lines implies deliberate construction planning. These factors underline the connection between location and cosmology in ancient societies.
 
-# Calendar Sites
+# Calendar Sites [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Calendar Sites**  
 Ancient calendar sites, such as those in Vermont, display potential astronomical significance. Their arrangement might reveal ancient techniques used for tracking time and celestial events.
 
@@ -4271,7 +3785,7 @@ The Big Horn Medicine Wheel in Wyoming raises queries about transoceanic connect
 - **Woodhenges**  
 Circular arrangements of post holes known as woodhenges suggest sophisticated approaches to time-keeping and ritual. Their geological counterparts encourage discussions of cultural exchange in prehistoric societies.
 
-# ANCIENT FURNACES, SMELTERS, HEARTHS
+# ANCIENT FURNACES, SMELTERS, HEARTHS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Ohio's Furnace-Like Structures**  
 Surprising early examples of iron-smelting in North America are found in Ohio. This revelation indicates advanced metallurgical practices that predate European settlement.
 
@@ -4284,7 +3798,7 @@ Data indicates iron-smelting activities may have occurred in Subsaharan Africa b
 - **Innovative Iron-Smelting Technology in Subsaharan Africa**  
 Subsaharan regions utilized advanced pre-heating and blowpipe techniques for iron smelting. These technological innovations highlight significant cultural and industrial growth.
 
-# CAIRNS, SHELL MOUNDS, EARTHEN MOUNDS
+# CAIRNS, SHELL MOUNDS, EARTHEN MOUNDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Giant Shell Mounds**  
 Shell mounds, such as those in Crystal River, Florida, can be characterized as truncated pyramids. Their form raises questions about the cultural and ecological practices of ancient societies.
 
@@ -4297,14 +3811,14 @@ The existence of exceptionally large cairns, effigy cairns, and other forms of r
 - **Puzzling Earthen Mounds: A Survey**  
 Locations like Monk's Mound and La Venta feature unexplored structures or ceremonial purposes. Their investigation can yield insights into ancient societal rituals and practices.
 
-# ENIGMATIC MOUND COMPLEXES
+# ENIGMATIC MOUND COMPLEXES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Poverty Point, Louisiana**  
 Unexplored building techniques designated to unknown builders at Poverty Point pose archaeological challenges. Their purposeful design raises curiosity about ancient social organization.
 
 - **Watson Brake, Louisiana**  
 Dating back around 5,000 years, the ancient mound complex of Watson Brake remains enigmatic. The removals of original material prompt fundamental questions about the builders' intent.
 
-# CARVED ROCKS, SPHERES, COLUMNS
+# CARVED ROCKS, SPHERES, COLUMNS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Boulders with Triangular Holes**  
 Triangular holes found in boulders across North America remain unexplained, often dubbed “Viking mooring stones.” Their purpose continues to perplex researchers in the field.
 
@@ -4344,7 +3858,7 @@ The Haamonga Stones in Tonga resemble the trilithons of Stonehenge, constructed 
 - **Tiahuanaco's Gateway of the Sun**  
 Incredible stonework in Tiahuanaco suggests possible messages encoded in its symbols. The intricacies of this architectural treasure invite deeper scrutiny into its origins and significance.
 
-# PYRAMIDS, ESPECIALLY THE GREAT PYRAMID
+# PYRAMIDS, ESPECIALLY THE GREAT PYRAMID [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Pyramids in Improbable Locations**  
 The discovery of pyramids in unusual places, including Tahiti and the Maldives, challenges geographic assumptions about ancient cultures. Their presence raises questions about trade, migration, and architectural exchange.
 
@@ -4375,7 +3889,7 @@ Japanese mini-pyramids encapsulate intriguing speculation regarding their functi
 - **Pyramids with Features Seemingly Beyond Builders’ Engineering Capabilities**  
 Anomalies like Khafre's Pyramid showcase features challenging to explain under traditional engineering paradigms. Their existence necessitates critical support for the perception of ancient capabilities.
 
-# Anomalies of Comaicalco's Brick Pyramid and Associated Structures
+# Anomalies of Comaicalco's Brick Pyramid and Associated Structures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Use of Fired Bricks bearing Roman-Like Symbols**  
 The presence of fired bricks in Comaicalco bearing Roman-like symbols provokes questions about cultural interactions. Their existence suggests complex trade networks extending beyond local boundaries.
 
@@ -4400,7 +3914,7 @@ The lack of a traditional ball court in Comaicalco signifies possible divergence
 - **Discovery of Roman-Like Ceramic Head**  
 Findings of ceramic heads resembling Roman designs raise questions about artistic influence and contact. This discovery serves to complicate existing perspectives on the cultural synchronization during ancient times.
 
-# Anomalies of Palenque's Remarkable Temple of the Inscriptions
+# Anomalies of Palenque's Remarkable Temple of the Inscriptions [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Style and Some Artifacts Similar to Egyptian**  
 Palenque's artifacts show stylistic similarities to Egyptian counterparts, prompting discussions about ancient cultural exchange. Such parallels invite speculation on connections between distant civilizations.
 
@@ -4410,7 +3924,7 @@ The prevalence of the lotus motif suggests possible links to Hindu and Buddhist 
 - **Apparent Use of Egyptian Units of Measure**  
 Artifacts from Palenque display measurements comparable to Egyptian standards, indicating varied influences. This overlap inspires inquiries into the scope of trade networks connecting significant civilizations.
 
-# Anomalies of Teotihuacan's Pyramid of the Sun
+# Anomalies of Teotihuacan's Pyramid of the Sun [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Apparent Incorporation of Pi in Design**  
 The Pyramid of the Sun's design allegedly reflects concepts of Pi, revealing mathematical understanding in ancient civilizations. This feature underscores the sophistication of their architectural practices.
 
@@ -4426,7 +3940,7 @@ The purpose of an extensive tunnel beneath the Pyramid of the Sun remains specul
 - **Strange Use of River Diversion, Canals, Conduits**  
 The engineering employed to manipulate natural water courses in Teotihuacan prompts examination of environmental management practices. Their knowledge of hydrology reveals complex societal dynamics.
 
-# The Great Pyramid: Statistics and General Anomalistics
+# The Great Pyramid: Statistics and General Anomalistics [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Loading and Shipping of 70-Ton Granite Blocks at Aswan**  
 The logistics surrounding the transportation of massive granite blocks from Aswan to the Great Pyramid poses an engineering enigma. Current assessments demand scrutiny of ancient resource management processes.
 
@@ -4451,7 +3965,7 @@ Creases found on the surface of the Great Pyramid call for investigation into th
 - **The Reason for Installing the Largest Blocks near the 35th Tier Instead of Base**  
 The strategic placement of massive stones on the 35th tier rather than at the base of the pyramid raises questions about construction methodologies. The reasoning behind this aspect could reveal insights into building practices.
 
-# Enigmatic Structures within the Great Pyramid
+# Enigmatic Structures within the Great Pyramid [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **The Purpose and Users of the Well-Shaft and Grotto**  
 Both the well-shaft and grotto found within the Great Pyramid invite inquiries about their functions. Speculations regarding their builders and uses enrich the narrative of this iconic structure.
 
@@ -4482,10 +3996,10 @@ The air shafts within the structure invite exploration of their intended purpose
 - **The Purpose of the Sand-Filled Cavities**  
 The cavities filled with sand present questions about their role within the Great Pyramid's structure. Analyzing these elements could provide insight into construction processes or cultural significance.
 
-# The Great Pyramid as an Information Repository
+# The Great Pyramid as an Information Repository [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **The Great Pyramid as an Information Repository**  
 Individuals suggest that the Great Pyramid housed substantial knowledge encoded within its structure, such as references to Pi and the Golden Section. This hypothesis encourages exploration of how ancient cultures recorded and preserved information.
-# PSYCHOLOGY
+# PSYCHOLOGY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **DISSOCIATIVE BEHAVIOR**  
   Dissociative behavior occurs when normal conscious behavior is modified, sometimes overwhelmed, by subsidiary mental activity. A second self seems to control the hand of the automatic writer and the speaker's tongue in glossolalia.
@@ -4525,32 +4039,32 @@ Individuals suggest that the Great Pyramid housed substantial knowledge encoded 
 
 - **ANOMALOUS TRANSFER OF INFORMATION**  
   Telepathy, as a transfer of thoughts between individuals, remains a divisive and challenging topic within parapsychology. Experiments in telepathy often struggle against critiques of methodology and reproducibility.
-# INFORMATION-PROCESSING ANOMALIES
+# INFORMATION-PROCESSING ANOMALIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Idiot Savants**: These are individuals with exceptional skills in specific areas, yet they struggle significantly in other cognitive functions. This anomaly highlights how diverse intelligence can manifest in unexpected ways.
 - **Intellectual Prodigies**: Ordinary individuals who display extraordinary talents from a young age represent a unique anomaly in cognitive processing. Their exceptional abilities often catch the attention of researchers and educators alike.
 - **Subconscious Information Processing**: This phenomenon describes how the human brain can handle and process information without conscious awareness. It can manifest in remarkable ways, such as through subconscious language translation and time reckoning.
 - **Accelerated Mental Processes (Drugs, Hypnosis)**: Under certain conditions, such as drugs or hypnosis, individuals may experience significantly enhanced mental processing. This can lead to post-hypnotic learning and memory, showcasing the brain's adaptability.
 
-# EIDETIC AND AFTER-IMAGES
+# EIDETIC AND AFTER-IMAGES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Eidetic Images**: Individuals exhibiting eidetic imagery can retain detailed visual representations long after viewing an object. This phenomenon raises questions about the nature of memory and perception.
 - **Hallucinations**: Hallucinations often provide insight into the irregularities of human perception, complicating our understanding of consciousness. Personal testimonies reveal the subjective nature of these experiences, making them intriguing yet challenging to validate scientifically.
 
-# MYSTERIES OF GENIUS AND CREATIVITY
+# MYSTERIES OF GENIUS AND CREATIVITY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Genius Associated with Mental Illnesses**: There is a notable connection between genius and mental health issues, indicating that some extraordinary minds may grapple with significant psychological challenges. This association opens dialogue regarding the relationship between creativity and mental health.
 - **Creativity in Dreams**: Many individuals report experiencing heightened creativity during dreaming states. This phenomenon suggests that our subconscious might play a crucial role in the creative process, producing novel ideas and concepts without the constraints of waking logic.
 
-# MEMORY ANOMALIES
+# MEMORY ANOMALIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **False-Memory Syndrome**: This anomaly concerns the inaccuracies of recalled memories, where people remember events that never occurred. The implications of false memories raise concerns about the reliability of eye-witness accounts and personal history.
 - **Hypernesia**: Defined as an unusually acute memory, hypernesia allows individuals to recall details that most would overlook. This condition exemplifies the vast capabilities of human memory under specific circumstances.
 
-# PSYCHIC BIOLOGY
+# PSYCHIC BIOLOGY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Death and the "Birthday" Effect**: There is an observed phenomenon where individuals may experience an uptick in mortality rates around their birthday, termed the "birthday effect." This anomaly elicits discussions regarding psychological influences on physical health and life expectancy.
 - **The Couvade**: Men experiencing sympathy pains during their partner's pregnancy is another intriguing anomaly. This shows the profound psychological connection between partners during significant life events. 
 
-# CLAIMS OF POLTERGEIST PHENOMENA
+# CLAIMS OF POLTERGEIST PHENOMENA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Spontaneous Unexplained Sounds**: Reports of strange noises occurring without a clear source form a core element of poltergeist lore. These phenomena contribute to ongoing discussions about the nature of reality and perceived experiences.
 - **Claimed Movement of Physical Objects**: Accounts of objects moving seemingly on their own captivate the imagination and challenge our understanding of physical laws. These claims suggest the possible existence of unknown forces acting in the environment.
-# CROP-CIRCLE OBSERVATIONS
+# CROP-CIRCLE OBSERVATIONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Claimed Real-Time Observations of Actual Formation**  
   Some individuals claim to have witnessed the formation of crop circles in real-time. These observations often lack substantial evidence and are met with skepticism.
@@ -4558,12 +4072,12 @@ Individuals suggest that the Great Pyramid housed substantial knowledge encoded 
 - **Possible Natural Explanations (e.g.; whirlwinds)**  
 There are theories suggesting that natural phenomena like whirlwinds might account for the sudden appearance of crop circles. However, these explanations do not universally satisfy proponents of the phenomenon.
 
-# CROP-CIRCLE HOAXES AND DEBUNKING
+# CROP-CIRCLE HOAXES AND DEBUNKING [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Claimed Hoaxes**  
 Numerous crop circles have been proven to be deliberate hoaxes by individuals seeking publicity or amusement. These revelations often fuel debates about the authenticity of other circles that remain unexplained.
 
-# PHENOMENA ASSOCIATED WITH CROP-CIRCLES
+# PHENOMENA ASSOCIATED WITH CROP-CIRCLES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Plant Anomalies (e.g.; plant malformations)**  
 Crop circles have been associated with various plant anomalies that occur in and around the formations. These malformations can range from discoloration to unusual growth patterns.
@@ -4571,7 +4085,7 @@ Crop circles have been associated with various plant anomalies that occur in and
 - **Geographical Association with Ancient Sites (e.g.; Wiltshire megalithic sites)**  
 Many crop circles are found near ancient historical sites, particularly in regions like Wiltshire, England. This association raises questions about the connection between these modern phenomena and ancient human activities.
 
-# COINCIDENCES, SERIALITY, SYNCHRONICITY
+# COINCIDENCES, SERIALITY, SYNCHRONICITY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Claims of Coincidences**  
 Observers report coincidental patterns that seem to associate crop circles with specific events or dates. Such claims often lack rigorous analysis and are dismissed by skeptics.
@@ -4582,7 +4096,7 @@ There are assertions that certain types of phenomena, including crop circles, te
 - **Claims of Synchronicity**  
 Some individuals suggest that crop circles manifest alongside significant cultural or spiritual events. This concept of synchronicity implies a deeper connection between coinciding occurrences.
 
-# SEARCH FOR EXTRATERRESTRIAL LIFE
+# SEARCH FOR EXTRATERRESTRIAL LIFE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Claims of Alien Contacts and Artifacts**  
 Reports have surfaced claiming the existence of artifacts left by extraterrestrial beings, fueling speculation about their interactions with humanity. Many of these claims remain unverified and controversial.
@@ -4590,12 +4104,12 @@ Reports have surfaced claiming the existence of artifacts left by extraterrestri
 - **Philosophical Aspects and Statistics**  
 Contrasting views exist regarding the likelihood of alien life, with some asserting we are likely alone in the universe. The debate often centers around statistical expectations based on the vast number of planets.
 
-# CLAIMS OF ALIEN ELECTROMAGNETIC SIGNALS
+# CLAIMS OF ALIEN ELECTROMAGNETIC SIGNALS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Unexplained Signals (e.g., the WOW signal)**  
 The WOW signal is one of the most famous unexplained electromagnetic signals thought to be of extraterrestrial origin. Despite much analysis, its source remains a mystery, leaving room for various interpretations.
 
-# CLAIMS OF UNIDENTIFIED AERIAL OBJECTS AND VEHICLES
+# CLAIMS OF UNIDENTIFIED AERIAL OBJECTS AND VEHICLES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Historical Observations (e.g.; the 1897 airship "wave")**  
 There have been numerous historical reports of unidentified aerial phenomena, with the 1897 airship wave being a notable example. Such accounts continue to be analyzed by researchers seeking to understand their origins.
@@ -4603,7 +4117,7 @@ There have been numerous historical reports of unidentified aerial phenomena, wi
 - **Selected, Difficult-to-Explain Observations**  
 There are cases of aerial phenomena cited as particularly challenging to explain through conventional means. These observations often add to the mystery surrounding unidentified flying objects.
 
-# MISCELLANEOUS AND OFTEN-BIZARRE PHENOMENA
+# MISCELLANEOUS AND OFTEN-BIZARRE PHENOMENA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Disappearances (e.g.; Marie Celeste, ghost ships)**  
 Notable disappearances, such as that of the Marie Celeste, have puzzled researchers and historians alike. These incidents raise questions about the possible unexplainable factors contributing to such occurrences.

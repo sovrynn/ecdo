@@ -1,267 +1,143 @@
 # GPT Summary: Table of Contents
 
 - [HOW THE CATALOG IS ORGANIZED](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#how-the-catalog-is-organized)
-Anomaly types undergo dual evaluations on scales for "validity" and "anomalousness," serving as rough guides that reflect the compiler's opinions.
 - [ANOMALY EXAMPLES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomaly-examples)
-The Catalog designates examples of each anomaly type with the letter X, incorporating direct quotes from witnesses and experts to highlight the significance of the phenomena.
 - [THE REFERENCES AND SOURCES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#the-references-and-sources)
-The section titled "THE REFERENCES AND SOURCES" likely contains a list of citations and materials used to support the information presented in the text.
 - [CATALOG ADDENDA AND REVISIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#catalog-addenda-and-revisions)
-The catalog enhances research rigor by supporting each anomaly with references primarily from reputable scientific literature, supplemented by useful publications across different fields.
 - [Ancient Infrastructure](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#ancient-infrastructure)
-This text explores various ancient infrastructures and anomalies, highlighting innovative technologies, mysterious purposes, unknown builders, and extensive prehistoric contacts that challenge conventional historical narratives.
 - [MSA ANCIENT ASTRONOMICAL OBSERVATORIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#msa-ancient-astronomical-observatories)
-The existence of vastly superior past civilizations, such as the legendary Atlantis, and advanced Subsaharan African cultures challenges conventional linear views of historical progress and highlights a more complex global history.
 - [MSA1 Observatory Buildings](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#msa1-observatory-buildings)
-New World observatories exhibit varying degrees of astronomical sophistication, from the limited capabilities suggested by the lack of eclipse prediction evidence to the advanced alignments observed at sites like Hovenweep Castle and the Big House at Casa Grande.
 - [MSA1 Observatory Buildings](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#msa1-observatory-buildings)
-Ancient observatory buildings such as Casa Rinconada, Zenith tubes, Caracol, and Torreon showcase a blend of astronomical functionality and ritualistic significance, reflecting complex cultural interpretations of celestial events.
 - [MSA2 The Great Pyramid as an Astronomical Observatory](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#msa2-the-great-pyramid-as-an-astronomical-observatory)
-The Kalasasaya's potential as an ancient astronomical observatory, proposed by Posnansky with claims dating back to 15,000 B.C., faces skepticism from modern archaeologists, much like R.A. Proctor's hypothesis that the Great Pyramid temporarily served as an observatory during its construction.
 - [MSB1 Miscellaneous Ancient Structures: North America](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#msb1-miscellaneous-ancient-structures-north-america)
-Proctor theorized that ancient Egyptians aligned the Giza Plateau with the star Alpha Draconis using advanced engineering techniques, including a reflecting pool, while unique and sophisticated ancient structures in North America challenge existing views on historical technological capabilities and timelines.
 - [Pueblo Bonito and the Great Houses](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#pueblo-bonito-and-the-great-houses)
-Ancient structures like those in Chaco Canyon exhibit sophisticated engineering and social organization, as evidenced by their robust construction, massive scale, and the careful transportation of materials over long distances, challenging our understanding of historical capabilities.
 - [Anomalies in Mesoamerica](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies-in-mesoamerica)
-Ancient Mesoamerican structures, including circular underground kivas with mysterious functions and diminutively sized buildings, offer intriguing insights into ceremonial traditions and architectural designs that challenge contemporary understanding.
 - [Anomalies in Mesoamerica](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies-in-mesoamerica)
-Mesoamerican archaeological sites reveal intriguing architectural anomalies, including potential true arches, stone softening techniques, enigmatic building orientations, and encoded astronomical messages, suggesting sophisticated engineering and design principles.
 - [Anomalies in South America](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies-in-south-america)
-The text explores architectural anomalies and astronomical alignments in ancient sites like Lubaantun and Pacatamu, suggesting complex designs and possible influences from earlier cultures.
 - [MSB4 Inca Stone Masonry](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#msb4-inca-stone-masonry)
-Archaeological sites in Peru, including a rare true arch at Pachacamac, a mysterious structure at Grand Chimu, a row of thirteen identical aligned structures near Casma, and a questionable prehistoric ossuary, each offer intriguing insights into the engineering and cultural practices of ancient South American civilizations.
 - [OF THE SUN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#of-the-sun)
-Incan stonemasonry, exemplified by structures like La Olla and sites such as Tiahuanaco and Puma Punku, showcases remarkable precision and logistical prowess, raising questions about the techniques and tools used by the Incas in shaping, transporting, and fitting巨石。
 - [Maltese Temples MSB7](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#maltese-temples-msb7)
-Puma Punku's metal clamps, enigmatically configured stone blocks, uncertain purpose, and potential connections to Egyptian death chambers, alongside submerged ruins in Lake Titicaca and the cultural anomaly of the Maltese temples, collectively highlight the mysteries and technological sophistication of ancient architectural sites.
 - [Baalbek MSB8](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#baalbek-msb8)
-Malta's ancient temples showcase puzzling aspects of agricultural productivity, sophisticated acoustical engineering in the Hypogeum, evidence of mysterious conflagrations, enigmatic stone spheres, and a surprising lack of astronomical alignment, indicating a culture with unique priorities and knowledge.
 - [THE TRILITHONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#the-trilithons)
-The enormous Trilithons and a massive 1,100-ton Monolith at Baalbek raise numerous questions about ancient engineering, including how these colossal stones were transported, raised, and utilized in construction.
 - [Miscellaneous Ancient Structures: Asia](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#miscellaneous-ancient-structures-asia)
-Baalbek's monumental stones, exceeding 600 tons each, present a remarkable engineering feat surpassing those of the Great Pyramid, with their precise construction and transportation posing enduring mysteries despite their relatively short transport distance from the quarry.
 - [Anomaly Evaluation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomaly-evaluation)
-The text explores various aspects of ancient architectural and engineering feats, highlighting the high labor requirements for moving massive stones at Baalbek, the use of advanced iron beams in India, precision-fit stone masonry in the Maldives, and sophisticated wooden structures in Japan.
 - [Possible Explanations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#possible-explanations)
-The extensive presence of large stone structures in Japan with unclear purposes, along with the notable use of immense stones in certain areas, highlights an under-researched aspect of historical architecture that could offer insights into prehistoric and cultural significances.
 - [Anomalies in Ancient Structures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies-in-ancient-structures)
-Polynesian structures featuring large stones, precision-fit masonry, multi-tiered marae, and archaeological sites on remote islets suggest possible cultural exchanges and raise questions about construction methods, though they are moderately rated on the anomaly scale.
 - [Fort Ancient](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#fort-ancient)
-The text highlights anomalies in ancient structures, noting the precision-fit stonework reminiscent of Incan construction techniques and the mysterious purpose of the Osireion, both warranting higher anomaly ratings due to their enigmatic qualities.
 - [British Hillforts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#british-hillforts)
-These ancient structures—the Labyrinth, Valley Temple, and Osireion—each feature massive stone constructions and unique designs that challenge conventional understanding of Egyptian architecture and their original purposes.
 - [Maori "Pas"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#maori-pas)
-Both Fort Hill and Fort Ancient challenge traditional notions of defensive structures with their designs and purposes remaining enigmatic despite their substantial constructions.
 - [Anomaly Evaluation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomaly-evaluation)
-Fort Ancient, with its 74 artificial openings along a 33-mile perimeter, and Hambleton Hill, a Neolithic fortification known for its sophisticated rampart system, both present ambiguities in their primary functions, suggesting possible ceremonial as well as defensive purposes.
 - [Anomalies in Ancient Fortifications](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies-in-ancient-fortifications)
-Ancient fortifications across various regions, including hill camps, Maori pas, and stone forts, exhibit features suggesting multifunctional roles beyond mere defense, such as ceremonial purposes, and showcase diverse construction techniques that highlight cultural and technological complexities.
 - [X3](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x3)
-Ancient fortifications in Clark County and southern Illinois exhibit strategic defensive placements and precise geometric designs, such as an accurate ellipse, suggesting advanced engineering knowledge beyond initially perceived capabilities.
 - [X4](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x4)
-Mysterious fortifications in Oregon, Alaska, and Mexico showcase ancient defensive architectures with sophisticated designs and strategic placements, hinting at advanced military planning and protection against formidable adversaries.
 - [MSF3](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#msf3)
-In South America, ancient structures such as La Fortaleza and Sacsahuaman showcase the Chimu and Inca's advanced engineering skills while serving dual purposes as both defensive fortifications and sites of ritual or symbolic significance.
 - [Vitrified Forts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#vitrified-forts)
-Ollantaytambo's fortress, besides being a military stronghold, was designed to include spiritually significant structures, as evidenced by its sophisticated architectural elements and an unfinished large stone structure, suggesting ambitious but unrealized Incan plans.
 - [Ohio’s Ancient Furnaces](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#ohios-ancient-furnaces)
-Ollantaytambo's wall, featuring massive stones with thin slabs in between, exemplifies the Incan aim to blend architectural grandeur with natural forces, possibly as monuments resilient to cataclysms, much like the complex civilization reflected in Zimbabwe's ancient stone structures.
 - [MSI1 Ohio’s Ancient Furnaces](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#msi1-ohios-ancient-furnaces)
-The stone structures in the Inyanga Range exhibit distinct regional characteristics suggesting a unique, unidentified culture, while their construction is thought to have been carried out by local indigenous peoples, indicating a complex interplay of design and execution.
 - [MSI2 Giant Neolithic Hearths](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#msi2-giant-neolithic-hearths)
-The landscape is dotted with stone-lined pits and structures, suggesting a rich history of human occupation where almost every stone seems to bear the mark of human manipulation.
 - [MSI3 Evidence for Anomalously Early Iron-Smelting in Subsaharan Africa](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#msi3-evidence-for-anomalously-early-iron-smelting-in-subsaharan-africa)
-Approximately 70 stone fort remains in Scotland show signs of vitrification from intense heat, with several hypotheses suggesting either deliberate strengthening by builders or destruction during conflicts, though the exact cause remains uncertain.
 - [MSI4 Innovative Iron-Smelting Technology in Africa](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#msi4-innovative-iron-smelting-technology-in-africa)
-The potential use of a scorched-earth policy by fort defenders and the shared characteristics with other vitrified stone structures globally highlight the complex historical and archaeological significance of Scottish vitrified forts.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies)
-The text explores various archaeological anomalies, including the possible methods of vitrification in Scottish forts, the uncertain purposes and builders of Ohio's ancient furnace-like structures, early iron-smelting evidence in Sub-Saharan Africa, and innovative iron-smelting technologies that challenge established historical narratives.
 - [MSP1 Stone and Brick Pyramids](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#msp1-stone-and-brick-pyramids)
-Pyramids around the world exhibit anomalies such as unusual locations, lost structures, acoustical and light effects, similar designs across continents, and construction techniques, challenging our understanding of ancient civilizations' capabilities and connections.
 - [Anomalies in Ancient Pyramids](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies-in-ancient-pyramids)
-Pyramids across various regions exhibit sophisticated construction techniques, mysterious origins, and cultural significances that challenge our understanding of ancient civilizations' engineering and mathematical prowess.
 - [X2. Excavations and investigations at Comalcalco](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x2-excavations-and-investigations-at-comalcalco)
-Some hypotheses propose that stone blocks in Khafre’s Pyramid were artificially manufactured, as evidenced by uniform dimensions and "lift lines," challenging conventional views on ancient Egyptian construction techniques.
 - [X3. The inscribed bricks](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x3-the-inscribed-bricks)
-Anomalies in ancient pyramids challenge our understanding of historical construction techniques and possible hidden technologies.
 - [X4. Non-Mayan innuendoes in Comalcalco architecture](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x4-non-mayan-innuendoes-in-comalcalco-architecture)
-Khafre's Pyramid showcases a unique opposite tier design and engineered blocks cast to enhance stability and prevent weak vertical joints.
 - [X5. Comalcalco's "erratic mounds"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x5-comalcalcos-erratic-mounds)
-The foundation of Khafre's Pyramid is notable for its massive cyclopean stones, showcasing remarkable ancient engineering and construction techniques.
 - [X6. Comalcalco's unusual burials](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x6-comalcalcos-unusual-burials)
-G. Hancock suggests that the base of Khafre's Pyramid was constructed around 10,000 B.C. by an earlier civilization, implying a two-stage construction process and challenging conventional timelines.
 - [X7. Ceremonially buried bricks](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x7-ceremonially-buried-bricks)
-The Third Pyramid of Menkaure features a distinctive rock-cut chamber made of chocolate-colored granite with large granite slabs, whose unique purpose remains unknown.
 - [X8. Comalcalco units of measure](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x8-comalcalco-units-of-measure)
-The process involves carefully moving large, weighty slabs from one location to another, often requiring specialized equipment and techniques to ensure stability and prevent damage.
 - [X9. The use of Roman-style mortar](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x9-the-use-of-roman-style-mortar)
-The transportation and placement of heavy stone slabs in the narrow passageways of the Menkaure pyramid pose a puzzle due to limited space and the absence of modern machinery.
 - [X10. Comalcalco lacks the usual Mayan ball court](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x10-comalcalco-lacks-the-usual-mayan-ball-court)
-Discoveries of small stone pyramids resembling Mayan architecture and terraced earthen mounds labeled as "pyramids" in Asia have sparked debates on ancient cultural diffusion and the diversity of pyramid construction across different cultures.
 - [X11. Comalcalco's Romanesque ceramic head](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x11-comalcalcos-romanesque-ceramic-head)
-Siberian Funeral Pyramids are ancient, tomb-like structures found in Siberia that serve as burial sites, typically featuring a distinctive pyramidal shape.
 - [X12. Comalcalco's conflicting dates](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x12-comalcalcos-conflicting-dates)
-Archaeologists in Siberia discovered funeral pyramids from the 4th century B.C. that resemble those in Latin America, constructed from ceramic plates and covered with turf and stone, raising questions about cultural connections.
 - [X13. Conclusion](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x13-conclusion)
-The Maldive Pyramids are underwater geological formations found near the Maldives that resemble pyramids and have sparked various theories about their origin.
 - [Palenque's Temple of the Inscriptions](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#palenques-temple-of-the-inscriptions)
-Various small pyramids discovered in Southeast Asia, including those in the Maldives, Thailand, Indonesia, and Japan, exhibit architectural similarities to ancient pyramids but remain shrouded in mystery regarding their age and origins.
 - [Teotihuacan’s Pyramid of the Sun](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#teotihuacans-pyramid-of-the-sun)
-R. Gilroy's claim about the Gympie Pyramid indicating ancient Egyptian and Phoenician expeditions in Australia faces skepticism, similar to the mysteries surrounding the precise construction and purposes of Polynesian "marae" structures.
 - [Teotihuacan’s Pyramid of the Sun](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#teotihuacans-pyramid-of-the-sun)
-Comalcalco, a site of significant archaeological interest, stands out for its unique architectural features, inscribed bricks, enigmatic "erratic mounds," and distinctive burial practices, all of which suggest possible Old World influences and continue to intrigue researchers despite limited extensive studies.
 - [The Great Pyramid: Statistics and Anomalistics](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#the-great-pyramid-statistics-and-anomalistics)
-Comalcalco presents several anomalies, including fired bricks with Roman measurements buried ceremonially, superior mortar similar to Mediterranean styles, the absence of a typical Mayan ball court, and a Mediterranean-looking ceramic head, all contributing to questions about cultural diffusion and the site's historical context.
 - [Anomaly Evaluation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomaly-evaluation)
-The archaeological site of Comalcalco, known for its fired-brick structures and possible Old World influences, challenges conventional Mesoamerican historical timelines and paradigms, while also drawing intriguing comparisons between Mayan, Egyptian, and Asian architectural and measurement practices.
 - [Anomalies in the Great Pyramid Construction](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies-in-the-great-pyramid-construction)
-The Pyramid of the Sun at Teotihuacan exhibits a perimeter-to-height ratio involving pi, aligns shadows with solar positions during equinoxes, contains a mysterious sheet of mica, and features a long tunnel beneath it, suggesting complex astronomical knowledge and intentional design.
 - [Whole-structure enigmas](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#whole-structure-enigmas)
-Teotihuacan's skewed city layout aligned with the Pleiades and its complex water-control systems suggest a mystical significance of water, while the Great Pyramid showcases remarkable precision in its measurements, highlighting the advanced engineering capabilities of the Fourth-Dynasty Egyptians.
 - [Anomaly Evaluation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomaly-evaluation)
-The Great Pyramid of Giza, constructed with about 2.3 million stone blocks and featuring a complex internal structure, presents numerous engineering mysteries, including the logistics of material transportation and the precision of stone shaping, that continue to challenge our understanding of ancient construction methods.
 - [Great Pyramid: Internal Structures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#great-pyramid-internal-structures)
-The construction of the Great Pyramid presents several intriguing anomalies, including rapid drilling capabilities, unusual limestone block characteristics, mysteries surrounding granite tooling, the significance of pyramid creases, strategic use of core blocks, varying workforce estimates, time constraints for block installation, and the precision of stone shaping and fitting, all of which challenge our understanding of ancient Egyptian engineering and technology.
 - [Chapter 1: Anomalies in the King's Chamber](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#chapter-1-anomalies-in-the-kings-chamber)
-The Great Pyramid of Giza exhibits numerous enigmatic features, including precision in construction, anomalous block arrangements, and mysterious internal structures, raising questions about the builders' methods and the pyramid's purposes.
 - [Anomalies in the Great Pyramid](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies-in-the-great-pyramid)
-The Great Pyramid of Giza presents numerous enigmatic features, including a mysterious granite block, an unfinished subterranean chamber with ancient signatures, a notably empty structure, and peculiar designs such as the steep Grand Gallery and the offset King's Chamber, all suggesting complexities in its construction and purposes beyond typical burial functions.
 - [Unusual Cities and Complexes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#unusual-cities-and-complexes)
-The Great Pyramid of Giza presents numerous enigmatic features, including a missing sarcophagus lid, physical disruptions in the King's Chamber, a perplexing "Big Step," construction inconsistencies, missing portcullis slabs, questionable relieving chambers, mysterious black dust, signs of seismic activity, and ambiguous air shafts, all suggesting complex and unexplained historical events or purposes.
 - [Anomalies of the Lost City of Atlantis](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies-of-the-lost-city-of-atlantis)
-Despite historical suspicions and advanced investigations, searches for hidden chambers in the Great Pyramid have yielded inconclusive results, marked by intriguing anomalies and speculative interpretations of its design and orientation.
 - [Gungywamp Complex](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#gungywamp-complex)
-The text explores historical theories and archaeological findings, including the pyramid-inch theory, the mythical Norse city of Norumbega, the debated Norse origins of structures like the Newport Tower, and the discovery of an ancient Indian city in Tennessee.
 - [Mystery Hill](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#mystery-hill)
-Moundbuilders' City, Ancient Nebraska Settlements, Chaco Canyon, and Gran Quivira each offer unique insights into complex ancient North American societies, marked by sophisticated architectural features and mysterious histories that challenge conventional understandings.
 - [X3. Potential anomalies at Mystery Hill](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x3-potential-anomalies-at-mystery-hill)
-Quivira, once thought to be a great city, is now considered a myth by some scholars due to historical expeditions only finding Indian villages; Ipiutak, discovered in 1940, suggests a distinct Eskimo culture possibly linked to the Ainu; El Dorado is a legendary city conflating real Guatavita Indian traditions with mythical gold; Gran Vilaya, discovered by an amateur archaeologist, encompasses thousands of stone structures but lacks professional recognition; Lyonesse, a sunken city in Arthurian lore, maintains its legend through oceanic evidence; and Atlantis, inspiring numerous books, still lacks concrete evidence beyond mythical claims and occasional artifacts.
 - [Anomalies in Great Zimbabwe](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies-in-great-zimbabwe)
-Underwater explorations off Cadiz, Spain, and near the Ampere Seamount have yielded photographs of submerged structures, including rectangular formations and vestiges of walls, which some researchers suggest could be ancient cities or even remnants of Atlantis.
 - [Great Zimbabwe](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#great-zimbabwe)
-Various formations and ruins, including the Bimini Road, ancient Asian cities, the Yonaguni structure, and Tanganyika ruins, showcase how perceptions of ancient civilizations can vary widely between scientific assessments and popular beliefs.
 - [Mohenjo-daro](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#mohenjo-daro)
-The Gungywamp Complex, featuring stone structures of ambiguous origin including stone walls, circles, and chambers, hints at possible early European influence and ritual use, though definitive evidence remains elusive.
 - [Nan Madol](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#nan-madol)
-The Gungywamp Complex features a unique light shaft aligned with equinoxes, suggesting possible European influence, though the predominance of Native American and Colonial artifacts challenges this theory and adds complexity to its historical interpretation.
 - [Anomalies in Geology](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies-in-geology)
-Mystery Hill, a site with stone structures and potential European contacts before the Christian Era, faces credibility disputes and challenges established archaeological paradigms due to conflicting interpretations between amateur and professional archaeologists, complicated by centuries of disturbances.
 - [Anomalies in Urban Arrangement](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies-in-urban-arrangement)
-The discovery of an inscribed tablet at Mystery Hill in 1967 has fueled debates among experts over its authenticity and implications for pre-Christian activity, while the site's profusion of potentially shaped monoliths continues to spark争议于业余考古学家和专业人士之间，关于其与欧洲巨石遗址的相似性。
 - [Large-Scale Order of Cities and Complexes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#large-scale-order-of-cities-and-complexes)
-Mystery Hill, with its corbelled vaulting, sacrificial stone, and speaking tube, presents intriguing features that suggest ritualistic uses, though their true historical contexts and functions remain subjects of debate.
 - [X0. Introduction](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x0-introduction)
-While numerous Native American and Colonial artifacts have been found at Mystery Hill, the lack of clear Precolumbian European artifacts undermines claims of early Irish monastery activity there.
 - [Anomaly Evaluation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomaly-evaluation)
-Radiocarbon dates from charcoal at Mystery Hill indicate possible human activity dating back 2995 years, though the accuracy is questioned due to site disturbances and the amateur nature of sample collection.
 - [Similar and Related Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#similar-and-related-phenomena)
-The authenticity of ancient script-like markings on a triangular stone slab discovered in 1967, which suggest potential pre-Columbian contacts, remains contested among scholars, particularly regarding Barry Fell's translation.
 - [X1. The Newport Tower viewed in 1879](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x1-the-newport-tower-viewed-in-1879)
-In 1975, two inscriptions were discovered on the site, one in ogam dedicated to Bel and another marked "XXXVIIII LA" associated with the Beltane festival, though their authenticity is debated due to potential natural formation explanations.
 - [X2. The Norse Theory](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x2-the-norse-theory)
-The stone circle at Mystery Hill is claimed to function as an astronomical observatory aligned with solstice events, though skeptics doubt its accuracy and suggest the alignments could be coincidental.
 - [X3. The colonial or "Arnold" Theory](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x3-the-colonial-or-arnold-theory)
-Great Zimbabwe, an ancient city in southeastern Africa, exhibits anomalies in its architecture and construction that suggest influences beyond its local Shona culture.
 - [X4. Facts militating against the Arnold Theory](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x4-facts-militating-against-the-arnold-theory)
-Great Zimbabwe's unique nonrectangular structure and the chaotic arrangement of the Valley Ruins suggest a departure from orderly, geometric design principles, reflecting possible cosmological influences or lack of systematic planning.
 - [X0. Introduction](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x0-introduction)
-The Conical Tower at Great Zimbabwe, with its notable size and unique shape, stands as a mysterious architectural feature whose purpose—ranging from a phallic symbol to a cenotaph—remains speculative and undefined.
 - [X1. Character and disposition of the towers](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x1-character-and-disposition-of-the-towers)
-The stonework at Great Zimbabwe demonstrates precise mortarless construction using more manageable stones compared to the larger stones of Incan walls.
 - [X2. Genocide in the Gallina Valley](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x2-genocide-in-the-gallina-valley)
-The Hilltop Fortress houses an acoustically remarkable cave that enhances sound clarity in the valley below and a mysterious sunken passageway in the Audience Chamber whose purpose remains unknown.
 - [X3. The Gallina people and their slayers](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x3-the-gallina-people-and-their-slayers)
-The Hill Fortress faces indefensibility due to its exposed sides and lack of a natural water source, while Great Zimbabwe's paucity of burials suggests it might have been primarily a ritual site rather than a densely populated settlement.
 - [X4. Archeoastronomy cross reference](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x4-archeoastronomy-cross-reference)
-Mohenjo-daro was a major city in the ancient Indus Valley Civilization located in what is now Pakistan, known for its well-planned streets and advanced urban planning.
 - [Anomaly Evaluation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomaly-evaluation)
-The ancient cities of Mohenjo-daro and Nan Madol present enigmatic features such as unburied skeletons, signs of radioactivity, unique black stones, and megalithic constructions, which suggest advanced technological or cultural aspects, but also leave many questions unanswered about their history and societal structures.
 - [Chapter 1: Anthropological Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#chapter-1-anthropological-anomalies)
-Geological and urban anomalies, such as the formation of basalt prisms and the construction of unfinished structures and 92 artificial islets in Nan Madol, continue to puzzle scientists and researchers.
 - [Chapter 2: Anomalies in the Middle East](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#chapter-2-anomalies-in-the-middle-east)
-Mysterious underwater tunnels and megalithic structures near Nan Madol hint at complex ancient engineering, while the Late Classic Lowland Maya's cities show unexpected hexagonal patterns whose intentional design remains uncertain.
 - [Chapter 3: Anomalies of Easter Island Towers](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#chapter-3-anomalies-of-easter-island-towers)
-Theories about earth-energy grids and numerological patterns influencing the location of ancient sites are often dismissed due to a lack of scientific evidence, highlighting a potential misunderstanding of ancient urban planning motivations.
 - [Easter Island Towers](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#easter-island-towers)
-While professional archaeologists support a colonial origin for the Newport Tower, some observations suggest a Norse origin, though this theory is considered highly anomalous due to the prevailing academic consensus against Norse presence in New England.
 - [Northeastern Stone Chambers](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#northeastern-stone-chambers)
-The Newport Tower's origins remain debated, with Norse theories proposed by scholars like C.C. Rafn challenged by mainstream archaeologists who support a colonial construction based on substantial evidence.
 - [Anomalies in the Northeastern Stone Chambers](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies-in-the-northeastern-stone-chambers)
-The Newport Tower's architectural style, potential Norse-linked buried features, and contentious runic inscription suggest a pre-colonial construction, challenging the Arnold Theory.
 - [Anomalies in Northeastern Stone Chambers](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies-in-northeastern-stone-chambers)
-Chapter 1: Anthropological Anomalies explores various ancient structures across Europe whose purposes remain enigmatic, ranging from the defensive Sardinian nuraghi and Scottish brochs to the more puzzling Irish round towers and French mystery tower.
 - [X0. Introduction](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x0-introduction)
-The anomaly of the nuraghi challenges the traditional view of a highly organized society by suggesting they were constructed by loosely organized tribes, thus reinterpreting their significance in anthropology.
 - [MSU2 Passage Graves](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#msu2-passage-graves)
-The architectural structures of Nuraghi, Talayots, Navetas, and Taulas reflect diverse functional purposes and cultural influences in ancient Sardinia and the Balearic Islands, showcasing unique designs and raising questions about their historical and religious significance.
 - [X1. General observations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x1-general-observations)
-Research suggests that talayots, while structurally compared to nuraghi, are distinct monuments with diverse potential purposes beyond just defense, requiring further investigation.
 - [X2. New Grange](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x2-new-grange)
-Chapter 2 explores anomalies in Middle Eastern architecture, highlighting the unexpected similarity between the Tower of Moab and Balearic Islands' styles, and the claim that Jericho's stone tower is the world's oldest, dating back to 7,000 B.C.
 - [X3. Maes Howe](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x3-maes-howe)
-The Tower of Babel, classified as a ziggurat, exhibits unusual vitrification in its bricks, suggesting it may have endured a catastrophic event characterized by extreme heat.
 - [X4. Japanese passage graves](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#x4-japanese-passage-graves)
-The stone towers on Easter Island, often overshadowed by the famous statues, suggest a more comprehensive cultural context that remains underexplored in archaeological discussions.
 - [Implications of the passage graves](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#implications-of-the-passage-graves)
-Easter Island features diverse towers with multifaceted purposes, including the Turtle Cave for observing turtles and fishing, and the Pipi Hereko Tower for ceremonial burials, highlighting the island's rich cultural practices.
 - [Remarkable Acoustical Properties of Neolithic Passage Graves](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#remarkable-acoustical-properties-of-neolithic-passage-graves)
-Northeastern stone chambers in North America, often considered colonial root cellars, present complex archaeological puzzles with their crude construction, astronomical alignments, and similarities to European structures, challenging mainstream historical narratives and suggesting possible ancient trans-Atlantic connections.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies)
-Northeastern stone chambers are associated with local folklore and colonial settlement patterns, suggesting they were likely used by early agricultural settlers rather than as markers for European explorers or shelters for missionaries.
 - [MSF2-R24 Source Index](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#msf2-r24-source-index)
-Stone chambers found across North America challenge traditional narratives of their origins and uses, showing potential Native American influence, transatlantic architectural parallels without definitive connections, and possible roles beyond simple storage, including ritualistic or astronomical purposes, though precolonial artifacts are scarce.
 - [NEARA Transit](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#neara-transit)
-The lack of precolonial artifacts around the stone chambers weakens claims of their ancient origins,尽管附近的古代铭文引发了关于这些结构的起源和用途的讨论，但它们与石室之间的直接联系证据不足。
 - [New England Quarterly](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#new-england-quarterly)
-The stone chambers are often associated with other controversial structures, suggesting links in their mysterious origins and purposes.
 - [New Scientist](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#new-scientist)
-Northeastern stone chambers, characterized by dimensions unsuitable for root cellars, precolonial radiocarbon dates, and potential astronomical alignments, suggest multifaceted purposes beyond simple storage, though their exact origins and connections to other structures remain debated.
 - [New York Archaeological Association Bulletin](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#new-york-archaeological-association-bulletin)
-The Gungywamp chamber features a精心设计的光通道，仅在春分或秋分的日落时让阳光进入，这一精妙的建筑特色与其它古代文化中的天文设计相呼应。 
 
-Note: I've kept the essence of the sentence but translated it into Chinese to maintain the context. If an English version is preferred: 
 
-"The Gungywamp chamber features a precisely designed light channel that admits sunlight only during equinox sunsets, showcasing an intentional astronomical design similar to ancient practices observed in other cultures."
 - [New York Times](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#new-york-times)
-The Gungywamp chamber in Connecticut features a precise light channel aligning with equinox sunsets, suggesting its construction included intentional astronomical design for possible ritual use.
 - [New York Times International](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#new-york-times-international)
-The Upton stone chamber is theorized to function as an ancient astronomical instrument, potentially used for tracking celestial events.
 - [Newport Tower, The (book)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#newport-tower-the-book)
-The Upton chamber, distinguished by its large size and dry-stone construction, was likely aligned with the summer solstice sunset, suggesting a connection to ancient astronomical systems.
 - [Omega Science Digest](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#omega-science-digest)
-Passage graves are long, stone-lined structures terminating in chambers within large mounds, serving primarily as tombs but possibly having additional unresolved purposes.
 - [Origins of Technology (book)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#origins-of-technology-book)
-The Gavr'inis passage grave in Brittany, aligned with the rising sun on the winter solstice, demonstrates that its builders incorporated celestial orientations into their design.
 - [Orion Mystery, The (book)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#orion-mystery-the-book)
-The right-angled passage grave at Gavres, France, and the multi-passage structure of Barnenez on Finisterre highlight unique architectural features and scales in megalithic construction.
 - [Source Index](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#source-index)
-Megalithic structures, such as passage graves, showcase a diverse array of architectural forms and functions developed over 3,500 years, with New Grange standing out for its intricate design and mysterious white quartz façade.
 - [Subject Index](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#subject-index)
-New Grange features a precisely positioned roof box aligning with the winter solstice sun, showcasing advanced solar knowledge, while Maes Howe stands out with its finely finished sandstone slabs and lack of intricate carvings, suggesting a different functional or aesthetic focus.
 - [CATALOG OF ANOMALIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#catalog-of-anomalies)
-Japanese passage graves,虽与欧洲同类建筑相似,但建造时间晚了几千年,主要用作个人墓葬而非集体墓地,这突显了尽管在建筑上相似,但在埋葬习俗上存在显著的文化差异。
 - [GEOLOGY CATALOGS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#geology-catalogs)
-Various sources and references highlight the need for clarification, cross-referencing, and critical review to enhance accuracy and understanding in archival and scholarly investigations.
 - [ANOMALIES IN GEOLOGY: PHYSICAL, CHEMICAL, BIOLOGICAL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies-in-geology-physical-chemical-biological)
-The text discusses various codes and anomalies related to research inconsistencies, genetic variations in twins, unique physical traits, human auras, correlations between baldness and musicianship, and rare human developmental features, highlighting the complexities and challenges in academic and scientific analyses.
 - [NEGLECTED GEOLOGICAL ANOMALIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#neglected-geological-anomalies)
-This text explores various anomalies related to human behavior, ranging from the impact of solar activity on mood to unique phenomena like dermo-optical perception and hearing under anesthesia, highlighting the complexity and intrigue of human psychology and physiology.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-structures.md#anomalies)
-The text explores a variety of human and geological anomalies, ranging from unique human traits and evolutionary trends to mysterious geological formations and phenomena, while also containing sections with outdated computer requirements and nonsensical phrases indicative of potential text corruption.
 
 
-# HOW THE CATALOG IS ORGANIZED
+# HOW THE CATALOG IS ORGANIZED [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Anomaly types are evaluated twice on scales for "validity" and "anomalousness." The assessments are only rough guides and reflect the compiler’s opinions.
 
-# ANOMALY EXAMPLES
+# ANOMALY EXAMPLES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Each anomaly type has examples designated by the letter X in the Catalog. Direct quotes from witnesses and experts are often included to convey the significance of the phenomena effectively.
 
-# THE REFERENCES AND SOURCES
+# THE REFERENCES AND SOURCES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Each anomaly is supported by collected references, making research easier and more rigorous. The catalog primarily utilizes reputable scientific literature while also including useful publications from various domains.
 
-# CATALOG ADDENDA AND REVISIONS
+# CATALOG ADDENDA AND REVISIONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The ongoing collection of reports leads to frequent updates, with over 1200 new anomaly reports gathered yearly. Communication with the Sourcebook Project is encouraged for valuing contributions, ensuring a dynamic and evolving database of anomalies.
-# Ancient Infrastructure
+# Ancient Infrastructure [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **High degrees of innovation**: Early Subsaharan iron smelting demonstrates advanced methods and techniques that were perhaps ahead of their time. This innovation challenges assumptions about the technological capabilities of ancient cultures.
 
@@ -279,13 +155,13 @@ The text explores a variety of human and geological anomalies, ranging from uniq
 
 - **Advanced cultures in Subsaharan Africa**: Discoveries of complex societies in Subsaharan Africa raise questions about historical narratives that often overlook African achievements. This acknowledgment of advanced cultures showcases a wider global history than is often presented. 
 
-# MSA ANCIENT ASTRONOMICAL OBSERVATORIES
+# MSA ANCIENT ASTRONOMICAL OBSERVATORIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Existence of New World observatories**: The presence of these structures becomes anomalous only when their purposes extend beyond basic astronomical marking. The lack of evidence for eclipse prediction among these sites suggests limitations in their scientific capabilities.
 
 - **Kalasasaya at Tiahuanaco**: Claims made for the astronomical alignments at this site have yet to receive professional rebuttals, indicating a potential gap in scholarly discourse. The extreme assertions raise skepticism about the site’s intended use and significance.
 
-# MSA1 Observatory Buildings
+# MSA1 Observatory Buildings [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Hovenweep Castle in Utah**: This castle provided clear evidence of Anasazi astronomical knowledge with its alignment to significant celestial events. The design illustrates a culture deeply connected to agriculture and reliant on precise solar timing for farming practices.
 
@@ -296,7 +172,7 @@ The text explores a variety of human and geological anomalies, ranging from uniq
 - **Zenith tubes in Mesoamerican sites**: These structures, while not fitting modern definitions of observatories, played vital roles in ancient astronomical practices. They allowed priests to observe celestial events, demonstrating a unique interpretation of celestial mechanics in ancient cultures.
 
 - **Caracol at Chichen Itza**: This structure's unusual geometries and asymmetries raise questions about its intended use and the precision of its astronomical observations. The architectural anomalies further suggest potential ritualistic functions, complicating the understanding of its role within Mayan society.
-# MSA1 Observatory Buildings
+# MSA1 Observatory Buildings [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Caracol's Alignments**
   A.F. Aveni and colleagues found numerous alignments in the Caracol's structure, including 8 platform alignments, 9 doorway alignments, and 12 window alignments. While it is probable that not all these alignments were intentional, some may have significant celestial correlations, particularly with Venus.
@@ -316,7 +192,7 @@ The text explores a variety of human and geological anomalies, ranging from uniq
 - **Posnansky's Controversial Claims**
   A. Posnansky claimed that the Kalasasaya could register solstices and equinoxes, suggesting it dates back to 15,000 B.C. His assertions, however, are not widely accepted in contemporary archeology, as the precision of his claims cannot withstand rigorous scrutiny.
 
-# MSA2 The Great Pyramid as an Astronomical Observatory
+# MSA2 The Great Pyramid as an Astronomical Observatory [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **R.A. Proctor's Hypothesis**
   Proctor proposed that the Great Pyramid could have functioned as a temporary astronomical observatory during its construction, supported by the precise alignments of its passages. Despite the lack of historical confirmation for such usage, his ideas account for peculiar characteristics in the pyramid's design.
@@ -329,7 +205,7 @@ The text explores a variety of human and geological anomalies, ranging from uniq
 
 - **Functions of the Grand Gallery**
   The Grand Gallery's unusual height and construction suggest it could have served astronomical purposes rather than merely aiding construction. It may have allowed ancient astronomers a significant view of celestial events, paralleling modern observation techniques.
-# MSB1 Miscellaneous Ancient Structures: North America
+# MSB1 Miscellaneous Ancient Structures: North America [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Structural evidence for Viking visits to New England shores (X1)**  
   Ratings: 3/1. Some early archeologists believed that certain stone structures in Massachusetts were evidence of Viking explorations. However, contemporary archeology largely dismisses these claims, attributing such structures instead to colonial constructions.
@@ -354,7 +230,7 @@ The text explores a variety of human and geological anomalies, ranging from uniq
 
 - **Enigmatic structures in terms of purpose and builders (X2, X8, X9, X10, X11)**  
   Ratings: 1/2. Many ancient structures remain shrouded in mystery regarding their intended use and the cultures responsible for their construction. This ambiguity prompts ongoing investigation and speculation among archeologists.
-# Pueblo Bonito and the Great Houses
+# Pueblo Bonito and the Great Houses [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Strength of Walls**  
 The walls at Pueblo Bonito are significantly stronger than those found in other Anasazi settlements. Constructed from carefully coursed sandstone blocks, they can reach a thickness of up to a meter at ground level.
@@ -374,7 +250,7 @@ The great kiva Casa Rinconada has 28 niches in its walls, possibly linked to lun
 - **Sealed Kiva Niches**  
 Upon the Anasazi’s abandonment of Chaco Canyon, the sealed kiva niches were opened by modern archeologists, revealing strings of beads and turquoise pendants. One notable string of beads measured an impressive 17 feet in length, indicating significant ceremonial traditions.
 
-# Anomalies in Mesoamerica
+# Anomalies in Mesoamerica [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Diminutive Buildings**  
 Certain ancient Mesoamerican structures appear to be miniature, suggesting that they were built for very small inhabitants. These buildings, with doorways only 36 inches high, challenge our understanding of size and proportion in architectural design.
@@ -390,7 +266,7 @@ Building J at Monte Alban exhibits an unusual orientation that disrupts the site
 
 - **Hidden Messages in Design**  
 The Nunnery at Uxmal is noted for its potentially encoded astronomical information within its architectural features. Variations in the arrangement of buildings and ornamental details hint at a deeper meaning, aligning with the meticulous capabilities of Mayan architects.
-# Anomalies in Mesoamerica
+# Anomalies in Mesoamerica [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Peculiar Skewed Arrangement of the Nunnery Buildings**  
   The significance of the skewed asymmetry of the Nunnery buildings is not known. This peculiar arrangement raises questions about its purpose and design choices.
@@ -410,7 +286,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 - **Absence of Typical Mayan Architectural Elements at Lubaantun**  
   The usual Mayan steles, temples, and sculptures are absent from Lubaantun, leading some to question whether it was truly a Mayan city. This discrepancy in expected features suggests the potential for a different cultural or architectural influence.
 
-# Anomalies in South America
+# Anomalies in South America [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Labyrinthine Building at Pacatamu**  
   Pacatamu features a complex labyrinth that may have been designed to psychologically impress worshippers before rituals. Its sheer size and complexity raise questions about its intended purpose.
@@ -429,7 +305,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 
 - **La Olla Structure at El Panecillo**  
   La Olla, shaped like a beehive, may serve as an observatory, but its purpose is still debated. Its unique construction and location on El Panecillo further complicate the understanding of its original intent.
-# MSB4 Inca Stone Masonry
+# MSB4 Inca Stone Masonry [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Testimonies relative to the excellence of Incan stonemasonry.** The precision in fitting the multiton stones used in Incan construction is a remarkable achievement that seems beyond the capabilities of the tools available at that time. No mortar was utilized, yet the blocks fit together so perfectly that not even a blade can be inserted between them.
 
@@ -440,7 +316,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 - **The protuberances.** Many Inca stones feature protuberances that seem to mar the beauty of the masonry and pose questions about their purpose. While some speculate that these stubs were left from larger features used for handling stones, it is unclear how the Incas secured ropes to the stones during transportation and construction.
 
 - **The claim of a stone-softening agent.** Some hypotheses suggest that the Incas may have used a plant-derived agent to soften stones, enabling easier shaping. However, there is little direct evidence to support this, yet some characteristics of the stone surfaces hint at unconventional practices in Incan stonemasonry.
-# OF THE SUN
+# OF THE SUN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **The stones of Tiahuanaco**  
   Tiahuanaco is renowned for its impressive megalithic architecture, featuring rows of intricately shaped stones alongside massive blocks of sandstone and trachyte. Many stones were expertly cut and fitted, raising questions about the technology and labor involved in their transportation and construction.
@@ -462,7 +338,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 
 - **Submerged ruins in Lake Titicaca**  
   Reports of ancient structures discovered beneath Lake Titicaca suggest that the area may have once housed significant constructions resembling those at Tiahuanaco. The claims, though intriguing, raise skepticism regarding the existence and veracity of these submerged ruins as they challenge historical understandings of the region's past.
-# Maltese Temples MSB7
+# Maltese Temples MSB7 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Cultural Disconnect**  
   There is a notable cultural disconnect regarding why the Maltese temple-builders, despite creating an impressive array of structures, seemingly lacked a coherent cultural background or known predecessors. This absence raises questions about the motivations and origins of this advanced society.
@@ -482,7 +358,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 - **Little Interest in Astronomy**  
   Research indicates that the ancient Maltese showed limited interest in astronomy, with very few temple axes aligned with celestial bodies. This lack of astronomical preoccupation is surprising given the prevalence of such alignments in later cultures, pointing to a cultural disconnect in regards to the significance of celestial observations. 
 
-# Baalbek MSB8
+# Baalbek MSB8 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Transport and Construction of Trilithons**  
   The presence of enormous stone blocks (Trilithons) at Baalbek raises questions about how they were transported and constructed, as their sheer size and weight are well above what would be expected for ancient engineering. The identity of the builders and the methods used remain a mystery, creating a compelling anomaly.
@@ -501,7 +377,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 
 - **Choice of Stone Sizes**  
   The rationale behind the decision to quarry such large stones for the Terrace instead of smaller ones raises intriguing questions about the construction preferences and capabilities of those who built it. Understanding the reasons for this anomaly can shed light on the priorities and intentions of the ancient builders at Baalbek.
-# THE TRILITHONS
+# THE TRILITHONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Transportation and Raising of Trilithons**  
   The 600-ton Trilithons at Baalbek pose an unsolved problem regarding their transportation and elevation. Questions arise on how such massive stones were moved and lifted to a height of twenty-six feet.
@@ -527,7 +403,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 - **Philosophical Question of Stone Size**  
   The question of why builders chose such large stones remains, given that smaller stones could have sufficed. This dilemma hints at larger cultural and architectural motivations behind the construction at Baalbek.
 
-# Miscellaneous Ancient Structures: Asia
+# Miscellaneous Ancient Structures: Asia [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Use of Iron Beams in India**  
   The early use of iron beams, such as those seen at the Black Pagoda, represents a significant prehistoric engineering achievement in India. These beams, crafted using forge welding, predate European capabilities by several centuries and indicate advanced metallurgical techniques.
@@ -540,7 +416,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 
 - **Large Stone Buildings in Japan**  
   The prevalence of large stone structures throughout Japan remains largely unexplored, with many classified as having unknown purposes and origins. They reflect a historic architectural tradition that may date back to prehistoric times, meriting further research.
-# Anomaly Evaluation
+# Anomaly Evaluation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Extensive proliferation of ritual structures (marae) on islands (X1, X5)**  
   Some islands exhibit a remarkable number of ritual structures, particularly marae, which may indicate a rich cultural significance. The ratings suggest that this phenomenon is recognized but not deemed highly anomalous.
@@ -557,7 +433,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 - **Archaeological sites on remote, uninhabitable islets (X5)**  
   Some nearly deserted islets contain numerous archaeological sites, including marae, indicating they might have been designated for ritual rather than residential purposes. The anomaly rating reflects the unexpected presence of such structures in seemingly inhospitable locations.
 
-# Possible Explanations
+# Possible Explanations [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Large stones and construction questions (X1-X3)**  
   The use of large building stones poses challenges regarding the logistics of their transport and assembly. This aspect is noteworthy but is rated as only somewhat anomalous.
@@ -567,7 +443,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 
 - **Uncertain purpose of the Osireion (X3)**  
   The obscure function of the Osireion stands out as an enigmatic aspect of ancient architecture, prompting speculation about its original intent or significance. This uncertainty grants it a notable anomaly rating relative to better-understood structures.
-# Anomalies in Ancient Structures
+# Anomalies in Ancient Structures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **The Labyrinth**  
   The Labyrinth, built around 2000 B.C., features a complex layout with 3,000 rooms but is not designed to confuse. Instead, it is an organized structure primarily associated with the burials of kings and numerous sacred crocodiles.
@@ -583,7 +459,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 
 - **Fort Ancient**  
   Fort Ancient is remarkably complex, with extensive earthworks that suggest a significant amount of labor went into its construction, yet its purpose remains puzzling. Its intricate design and massive size do not fit neatly within the traditional understanding of military fortifications, leading researchers to question its intended use.
-# Fort Ancient
+# Fort Ancient [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Artificial Openings:** Fort Ancient features 74 artificial openings within its wall at irregular intervals. Their purpose is unclear, leading to speculation about whether they served military or ceremonial functions.
 
@@ -591,7 +467,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 
 - **Initial Beliefs vs. Later Discoveries:** Early archaeologists initially doubted that the Hopewell lived at Fort Ancient, but new discoveries of tools, animal remains, and earthen stains refuted that belief. Despite the evidence of habitation, many still suggest that the site was primarily for tracking celestial movements.
 
-# British Hillforts
+# British Hillforts [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Hambleton Hill:** This Neolithic fortification features both earth and timber and is significant for its size and engineering sophistication. Its complex rampart system suggests a true military purpose, yet its age raises questions regarding its original function.
 
@@ -601,14 +477,14 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 
 - **Durrington Walls:** Unlike other forts, Durrington Walls features its ditch inside the embankment, aligning it more closely with ceremonial sites. This configuration challenges traditional military logic, prompting considerations of its true purpose.
 
-# Maori "Pas"
+# Maori "Pas" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Fortified Villages:** The Maori fortifications, called pas, show a marked similarity to British hillforts in design and function despite cultural gaps. They were primarily utilized for defense, with elaborate structures serving as both fortifications and living spaces.
 
 - **Dimensions and Structure:** The dimensions of Maori pas illustrate a range of construction achievements made with primitive tools. Even the smaller forts demonstrate considerable height and fortification, indicating a level of sophistication in their design.
 
 - **Comparison to British Earthworks:** The earthworks of Maori pas are reminiscent of British hillforts, showcasing structural similarity despite geographical and temporal separations. Their primary defensive purpose unites them in function, even while cultural contexts differ widely.
-# Anomaly Evaluation
+# Anomaly Evaluation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Ancient stone forts located in unexpected places**: These forts are found in regions where stone construction is not typically associated with the indigenous populations, such as New Hampshire, Washington state, Alaska, and Zimbabwe. Their existence raises questions about the historical context and purpose of such structures in these locations. 
 
@@ -621,7 +497,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 - **Stone forts with labyrinthine entrances and ritual artifacts**: Many forts in locations like New Hampshire, Tennessee, Ohio, and Peru feature complex entrance designs and artifacts indicative of ceremonial use. These characteristics imply that some forts may have served dual purposes—both defensive and ritualistic. 
 
 - **Stone forts exhibiting areas of vitrification**: In Ohio, some forts display areas where intense heat has caused vitrification, a process reminiscent of certain ancient Scottish structures. The presence of vitrified stones raises questions about the methods employed during construction and the potential events that led to such conditions.
-# Anomalies in Ancient Fortifications
+# Anomalies in Ancient Fortifications [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Burnt Material Mound**  
   On the north side of the structure, a low mound measuring nearly one hundred feet long and eighty feet wide contained an unusually large quantity of charcoal and ashes compared to other areas. This suggests significant burning events took place in this particular location, which raises questions regarding its purpose.
@@ -658,7 +534,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 
 - **Ollantaytambo's Ritual Structures**  
   The fortress at Ollantaytambo was not only a military stronghold but also planned to feature structures of significant spiritual or ceremonial importance at its summit. The unusual design elements, including large upright stones with slots for metal clamps, suggest sophisticated architectural intent beyond mere defense.
-# X3
+# X3 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly of the 250-ton stone**: A large stone intended for Ollantaytambo lies at the bottom of a river, indicating a grander architectural ambition of the Inca than what was realized. This anomaly suggests the Inca may have had plans for more extensive structures that were ultimately unbuilt.
 
 - **Unfinished architectural work**: At the top of Ollantaytambo, there exists an incomplete structure that lacks a clear purpose. This raises questions about the intended rituals or functions that were planned but never came to fruition.
@@ -669,7 +545,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 
 - **Purpose of monument construction**: The uncertainty surrounding the real intention behind the structures at Ollantaytambo leads to speculation about preparing for potential cataclysms. This raises the possibility that the Inca were motivated by a desire to create monuments that would withstand apocalyptic events.
 
-# X4
+# X4 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Ancient structures in Zimbabwe**: The region contains numerous ancient stone structures, with Great Zimbabwe being a significant example. These remains showcase a complex civilization with a network of forts, aqueducts, and walls that have remained largely unrecognized.
 
 - **Distinct regional characteristics**: The stone structures found in the Inyanga Range differ significantly from other ancient fortifications in Rhodesia. This uniqueness suggests a highly developed and yet unidentified culture was responsible for their construction.
@@ -678,7 +554,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 
 - **Evidence of ancient occupations**: Remnants of human activity can be seen in the form of stone-lined pits and structures scattered across the landscape. Almost every stone appears to have been manipulated by human hands, indicating a longstanding connection between people and the land.
 
-# MSF3
+# MSF3 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Vitrification of Scottish forts**: Approximately 70 stone fort remains in Scotland exhibit signs of vitrification due to intense heat. This process, while scientifically acknowledged, remains a mystery regarding how and why it occurred.
 
 - **Four main hypotheses of vitrification**: Various theories exist about the vitrification of these forts, including deliberate strengthening by builders or destruction during conflicts. As of now, it is impossible to determine the validity of these scenarios conclusively.
@@ -686,7 +562,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 - **Potential for a scorched-earth policy**: There is a suggestion that fort defenders may have used a scorched-earth approach when faced with retreating from these structures. This approach adds another layer of complexity to the understanding of the forts' historical context.
 
 - **Comparison to other ancient structures**: The phenomena observed in Scottish vitrified forts share similarities with other stone structures, such as those with vitrified areas in North America. Importantly, the vitrification process has elicited broad archaeological interest due to the unique nature of these forts.
-# Vitrified Forts
+# Vitrified Forts [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1**: The forts may not have been intentionally vitrified by their builders, as experiments show that external heat application was inadequate. Instead, it is suggested that wood was deliberately added internally to the walls before the builders vitrified the structures.
 
@@ -694,7 +570,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 
 - **Anomaly 3**: There is uncertainty regarding when the vitrification took place, as it could have happened after the forts had ceased to serve their purpose. This challenges the chronology and intent behind the fortifications, leading to questions about the true motives of the arsonists involved. 
 
-# Ohio’s Ancient Furnaces
+# Ohio’s Ancient Furnaces [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1**: The precise purpose of Ohio’s furnace-like structures remains uncertain, with theories ranging from bog-iron smelters to lime kilns or crematories. The ambiguity surrounding their use raises significant questions about who constructed them and their intended function.
 
@@ -703,26 +579,26 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 - **Anomaly 3**: If the Ohio furnace-like structures were indeed iron-smelters, it would contradict the prevailing view that Native Americans never engaged in iron-smelting. This presents a major anomaly if it were proven that the Moundbuilders or other groups smelted iron in pre-Columbian times. 
 
 - **Anomaly 4**: Radiocarbon dating has produced dates suggesting that the Ohio furnace-like structures are post-Columbian yet predating significant English colonization. This raises questions about the historical timeline of iron production in the region and who was responsible for it.
-# MSI1 Ohio’s Ancient Furnaces
+# MSI1 Ohio’s Ancient Furnaces [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Arledge Iron Furnace #1 is said to be clearly post-Columbian and pre-Revolutionary, challenging existing historical narratives. Its thermoluminescent dates suggest it could either be from an unrecorded French settlement or even an American Indian iron-smelting effort.
 
 - Some supposed iron smelters are covered by Indian mounds, raising questions about their origins. This anomaly indicates that early European settlers would not have buried their furnaces in such a manner.
 
-# MSI2 Giant Neolithic Hearths
+# MSI2 Giant Neolithic Hearths [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The presence of thousands of "pot-boilers" in Neolithic Britain and Ireland suggests large communal kitchens likely used for cooking, possibly during rituals. This phenomenon signifies that Neolithic societies were populous and well-organized, though it doesn't radically change existing paradigms.
 
 - Large communal cooking sites, like those unearthed in Norfolk, indicate a significant scale of social gatherings. The existence of "deer roasts" or "giants’ cinders" adds further complexity to understanding Neolithic culinary practices in the region.
 
-# MSI3 Evidence for Anomalously Early Iron-Smelting in Subsaharan Africa
+# MSI3 Evidence for Anomalously Early Iron-Smelting in Subsaharan Africa [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Findings from a Zimbabwe cavern suggest the presence of a primitive iron-smelting furnace dating back 5,000-6,000 years, which predates the accepted timeline for the onset of the Iron Age in Subsaharan Africa. If confirmed, this would necessitate a significant revision of iron-smelting history.
 
 - The date attributed to the Zimbabwe smelter precedes Mediterranean smelting dates, making it highly anomalous. Skepticism toward this finding persists due to the lack of reliable radiometric dating methods at the time of excavation.
 
-# MSI4 Innovative Iron-Smelting Technology in Africa
+# MSI4 Innovative Iron-Smelting Technology in Africa [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Recent discoveries in Subsaharan Africa reveal ancient iron-smelters that incorporated technological innovations independent of European methods. This overturns previous assumptions that African iron-smelting technology was derived exclusively from Europe.
 
 - The realization of advanced iron-smelting techniques in Africa, such as the use of preheated ore to achieve higher temperatures, significantly changes the narrative surrounding early Subsaharan metallurgy. This suggests a level of technological sophistication that challenges Eurocentric views of history.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Pyramids in Improbable Locations**  
   Some pyramids are found in highly unusual geographical settings, such as the sea floor off the North American coast and some remote Polynesian islands. These placements challenge our understanding of ancient construction and cultural distribution.
@@ -759,7 +635,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 
 - **Structural Features Beyond Engineering Capabilities**  
 	Certain pyramids possess structural features that seem to surpass the known engineering abilities of their builders, like the stone roof slabs in Khafre's Pyramid. Such anomalies challenge the historical narrative of architectural development.
-# MSP1 Stone and Brick Pyramids
+# MSP1 Stone and Brick Pyramids [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Greek Pyramids Construction Dates**  
   It was long assumed that the Greek pyramids were constructed around the Fourth Century B.C., coinciding with the time of Alexander the Great. However, recent thermoluminescent dating reveals they may have been built as early as 2730 B.C. and 2260 B.C., suggesting they were contemporaneous with the Egyptian pyramids, a claim that is highly controversial among historians.
@@ -778,7 +654,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 
 - **Khafre's Pyramid Anomalies**  
   Some hypotheses suggest that certain stone blocks in the Giza pyramids, specifically Khafre’s Pyramid, may have been artificially manufactured rather than quarried. This theory is supported by evidence of uniform block dimensions and the presence of "lift lines," which are typical of poured cement structures, raising questions about traditional beliefs in ancient construction methods.
-# Anomalies in Ancient Pyramids
+# Anomalies in Ancient Pyramids [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Opposite Tiers and Engineering of Khafre's Pyramid**  
   The unusual design of Khafre's Pyramid features tiers that are opposite to those surrounding them, suggesting a deliberate engineering choice. Additionally, the blocks used in its construction were cast to prevent the formation of weak vertical joints, contributing to its impressive stability.
@@ -815,42 +691,42 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 
 - **Polynesian Marae Structures**  
   The Polynesian "marae," which sometimes include pyramid-like structures, present several anomalies regarding their construction and purpose. The precision fitting of stones and their locations on remote, uninhabited islands raise questions about ancient societies' architectural capabilities and motivations.
-# X2. Excavations and investigations at Comalcalco
+# X2. Excavations and investigations at Comalcalco [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The professional, English-language literature on Comalcalco is sparse, despite the site's significant archeological interest. The first major study was conducted in 1966, and to date, it remains the only intensive research published.
 
-# X3. The inscribed bricks
+# X3. The inscribed bricks [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Almost 5,000 inscribed bricks have been photographed at Comalcalco, yet only a small portion of the site has been excavated. Some inscriptions are claimed to derive from the Old World, raising questions about the contact between cultures.
 
-# X4. Non-Mayan innuendoes in Comalcalco architecture
+# X4. Non-Mayan innuendoes in Comalcalco architecture [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Visitors to Comalcalco often sense a difference in architecture that diverges from typical Mayan design, leading to speculation about Old World techniques. Notably, Comalcalco's arches terminate in sharp points, differing from standard Mayan corbelled arches.
 
-# X5. Comalcalco's "erratic mounds"
+# X5. Comalcalco's "erratic mounds" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The "erratic mounds" at Comalcalco cannot be easily categorized by any known geometric shapes, suggesting an enigmatic purpose. These structures are unique in Mayan architecture and may deepen the mysteries surrounding the site.
 
-# X6. Comalcalco's unusual burials
+# X6. Comalcalco's unusual burials [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Burials at Comalcalco differ from traditional Mayan practices, with elites placed face down on oyster shells and covered by inverted pots. This burial method is unlike typical New World customs and has parallels to Etruscan practices, suggesting potential Old World influence.
 
-# X7. Ceremonially buried bricks
+# X7. Ceremonially buried bricks [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Two fired bricks were found buried under a walkway at Comalcalco, leading to speculation about their ceremonial significance due to their placement in oyster shells. The connection between these and other buried bricks remains uncertain, raising intriguing questions.
 
-# X8. Comalcalco units of measure
+# X8. Comalcalco units of measure [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The bricks at Comalcalco feature dimensions that conform more closely to the Roman system of measurement, as opposed to the Mayan standard. Some bricks even bear measuring marks aligning with Roman units, suggesting a possible cultural diffusion.
 
-# X9. The use of Roman-style mortar
+# X9. The use of Roman-style mortar [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The mortar and stucco at Comalcalco are reported to be superior to those found at other Mayan sites, resembling materials used in the Mediterranean. This sudden appearance of advanced mortar technology raises questions about its origins.
 
-# X10. Comalcalco lacks the usual Mayan ball court
+# X10. Comalcalco lacks the usual Mayan ball court [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The absence of a ball court at Comalcalco is notable, as such structures are typically found in major Mayan complexes. This lack further contributes to the anomalies surrounding the site.
 
-# X11. Comalcalco's Romanesque ceramic head
+# X11. Comalcalco's Romanesque ceramic head [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A ceramic head with features suggesting Mediterranean origin, including a moustache and beard, was discovered at Comalcalco. The lack of detailed professional acknowledgment about this object creates uncertainty regarding its archeological significance.
 
-# X12. Comalcalco's conflicting dates
+# X12. Comalcalco's conflicting dates [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Mainstream archeologists propose that the fired-brick structures at Comalcalco were built late in its history, likely after 800 A.D., yet one brick bears a date of 734 A.D. These conflicting archaeological timelines add to the site's mysterious narrative.
 
-# X13. Conclusion
+# X13. Conclusion [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Although the ruins at Comalcalco reveal undeniable Mayan characteristics, they appear to exhibit some Old World influence, potentially hinting at precolumbian cultural contact. The overall mystery surrounding Comalcalco continues to challenge existing paradigms about Mesoamerican history.
-# Palenque's Temple of the Inscriptions
+# Palenque's Temple of the Inscriptions [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Egyptian innuendoes in Palenque architecture.**  
   Diffusionists assert that the Maya may have acquired pyramid construction ideas from the Old World, potentially Egypt or the Orient. However, the Temple of the Inscriptions is unique among Mayan pyramids as it contains a tomb deep inside its structure, distinguishing it from others.
@@ -861,14 +737,14 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 - **Egyptian units of measure?**  
   Measurements of the Temple of the Inscriptions have prompted speculation that ancient Egyptian units were used rather than standard Mayan measurements. Findings indicate that using Egyptian units resulted in a coherent progression of integral measurements, raising questions about potential cultural links.
 
-# Teotihuacan’s Pyramid of the Sun
+# Teotihuacan’s Pyramid of the Sun [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Pi and pyramids.**  
   The Pyramid of the Sun features a perimeter-to-height ratio involving pi, although its slope differs significantly from that of Egyptian pyramids. The construction materials likely influenced this geometry, leading to speculation about any possible connections to ancient Egyptian building practices.
 
 - **The shadow connection.**  
   A unique optical phenomenon occurs at the Pyramid of the Sun, where shadows cast by the structure align with specific solar positions, notably during the equinoxes. This event is linked to the design of the pyramid, showcasing an intricate relationship between architecture and astronomical events.
-# Teotihuacan’s Pyramid of the Sun
+# Teotihuacan’s Pyramid of the Sun [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Pyramid of the Sun as a Clock**
   - The Pyramid of the Sun at Teotihuacan may function as a clock that indicates equinoxes through a specific sunlight strip. This observation raises questions about whether this design was intentional or merely coincidental.
@@ -885,7 +761,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 - **Water-Control Structures**
   - Teotihuacan's city layout is not aligned with cardinal points, suggesting a deliberate skewing associated with the Pleiades, prompting the alteration of the nearby San Juan River. This peculiar alignment and the complexity of the water-control systems indicate a mystical significance attributed to water by the Teotihuacanos. 
 
-# The Great Pyramid: Statistics and Anomalistics
+# The Great Pyramid: Statistics and Anomalistics [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Precision Engineering of the Great Pyramid**
   - The Great Pyramid boasts remarkable precision in its measurements, with each side of the base almost exactly 756 feet long. This extraordinary craftsmanship raises questions regarding the engineering capabilities of Fourth-Dynasty Egyptians.
@@ -901,7 +777,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 
 - **Missing Pyramidion and Inscriptions**
   - The potential absence of a capstone (or pyramidion) raises questions about the pyramid's historical appearance and functions. Additionally, the lack of inscriptions inside the Great Pyramid, unlike many other contemporary structures, adds to the mysteries surrounding its purpose and significance.
-# Anomaly Evaluation
+# Anomaly Evaluation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Granite block loading and transportation:** The loading of 70-ton granite blocks onto barges at Aswan and their transportation 500 miles downstream to Giza is a daunting task that raises questions given the equipment available at the time. The evaluation rating for this anomaly is 3/2.
 
@@ -920,7 +796,7 @@ The Nunnery at Uxmal is noted for its potentially encoded astronomical informati
 - **Significance of pyramid creases:** The significance of the slight creases observed on the pyramid's faces remains an unresolved engineering question that intrigues researchers and historians alike. This anomaly is evaluated at 3/2.
 
 - **Use of core blocks:** The obscure reasoning behind why the largest core blocks were utilized near the 35th tier rather than at the pyramid’s base raises questions about construction strategies employed. This anomaly has a lower evaluation rating of 1/2.
-# Anomalies in the Great Pyramid Construction
+# Anomalies in the Great Pyramid Construction [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Workforce Estimates**  
 Various estimates of the workforce needed to build the Great Pyramid range dramatically, with figures ranging from 10,000 to as high as 50,000. The challenge lies in reconciling these numbers with the practical concerns of logistics, space, and efficiency at the construction site.
@@ -939,7 +815,7 @@ The creation of the King's Chamber, particularly the sarcophagus, highlights inc
 
 - **Poured Pyramid Theory**  
 The radical theory proposed by J. Davidovits posits that many limestone blocks in the Great Pyramid were not quarried but rather cast using a slurry, a claim that contradicts established understandings. Although this theory offers possible solutions to some construction dilemmas, it has been met with skepticism and rejected by much of the scientific community due to lack of convincing evidence.
-# Whole-structure enigmas
+# Whole-structure enigmas [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Precision orientation of the base of the Great Pyramid**: G. Hancock claims that the precise orientation of the Great Pyramid's base is "inexplicable" and "almost supernatural." This precision in alignment with cardinal points is remarkable, yet astronomers suggest it could have been achieved with simple techniques available 4,500 years ago.
 
 - **The crease in the pyramid and the eclair phenomenon**: W.M.F. Petrie's measurements revealed a peculiar indentation in each face of the Great Pyramid, which is not easily visible. The southern face displays an unusual light-and-shadow effect, known as the "eclair" phenomenon, which occurs only at specific times of the year and suggests intentional design.
@@ -948,7 +824,7 @@ The radical theory proposed by J. Davidovits posits that many limestone blocks i
 
 - **High moisture content of the limestone core blocks**: Visitors are often surprised by the high humidity present in the chambers and passageways of the Great Pyramid, contradicting the expectations from Egypt's dry climate. This moisture was noted during scientific probing attempts in 1974, which halted due to electromagnetic waves being absorbed by the wet limestone.
 
-# Anomaly Evaluation
+# Anomaly Evaluation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **The unknown purpose and users of the well-shaft and grotto**: The well-shaft may have been used for looting prior to Al Mamun’s entrance in 820 A.D., but its true purpose remains unclear. This uncertainty raises questions about whether the Great Pyramid was intended as a tomb or served another function entirely.
 
 - **The unknown purpose of the subterranean chamber and pit**: Speculations exist that Khufu's actual tomb may lie deeper beneath the rubble in the subterranean chamber. The purpose of this chamber and the pit itself remains a point of intrigue and conjecture, as it was not designed for gravitational stability.
@@ -970,7 +846,7 @@ The radical theory proposed by J. Davidovits posits that many limestone blocks i
 - **The "real" purpose of the air-shafts**: The air-shafts in the Queen's and King's Chambers serve an unknown purpose, raising questions about their function and design. The existence of doors at the ends of the shafts adds complexity to their intended role.
 
 - **The sand-filled cavities within the pyramid**: The purpose behind the sand-filled cavities located behind the limestone core blocks of the Great Pyramid remains unexamined. This architectural feature adds another depth to the pyramid’s construction anomalies.
-# Great Pyramid: Internal Structures
+# Great Pyramid: Internal Structures [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Well-Shaft Sealing**: If the Great Pyramid had been robbed in ancient times, the well-shaft would not have been sealed with debris. The method of sealing the well-shaft raises questions as to how debris was inserted from below, given that no one remained above to execute this task.
 
@@ -991,7 +867,7 @@ The radical theory proposed by J. Davidovits posits that many limestone blocks i
 - **Steep Step in Passage**: The sudden steep step leading into the Queen's Chamber appears purposeless and poses an inconvenience for access. Its existence contradicts modern sensibilities regarding design and functionality within such an architectural wonder.
 
 - **King's Chamber Offset Location**: The King's Chamber's location, offset from the pyramid's vertical axis, defies the builders' known precision and geometric order. This intentional offset raises questions about the chamber's purpose, particularly given its grandeur and construction from massive granite blocks.
-# Chapter 1: Anomalies in the King's Chamber
+# Chapter 1: Anomalies in the King's Chamber [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Absence of Grave Goods**  
   The King's Chamber was discovered devoid of rich inventory typical of royal tombs, indicating it may have been looted. The lack of a mummy and painted walls raises suspicions about its original use.
@@ -1034,7 +910,7 @@ The radical theory proposed by J. Davidovits posits that many limestone blocks i
 
 - **Microgravity Anomalies**  
   A survey conducted in 1986 detected density anomalies within the pyramid's structure. The discovery of these anomalies led to further investigation, although the nature and significance remain unclear.
-# Anomalies in the Great Pyramid
+# Anomalies in the Great Pyramid [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Sand from Another Part of Egypt**  
   The sand found at the Great Pyramid is not ordinary sand from nearby deserts, but rather, it has been sifted and enriched with extraneous minerals. This bizarre finding raises questions about its significance, which remains unexplained.
@@ -1059,7 +935,7 @@ The radical theory proposed by J. Davidovits posits that many limestone blocks i
 
 - **Historical Models and Pyramid-Inch**  
   C.P. Smyth's pyramid-inch theory suggests that the dimensions of the Great Pyramid encode significant historical dates and events. Despite its fame, this theory has faced substantial criticism and is viewed as more of a curiosity than a validated historical model.
-# Unusual Cities and Complexes
+# Unusual Cities and Complexes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Norumbega**  
   Many archeologists assert that Norumbega, once believed to be a Norse city, never existed. S. Williams from Harvard highlights a "total lack of evidence" for Norse ruins or artifacts in the Charles River Basin.
@@ -1093,7 +969,7 @@ The radical theory proposed by J. Davidovits posits that many limestone blocks i
 
 - **Lyonesse**  
   The legendary sunken city of Lyonesse is intertwined with Arthurian lore, suggesting a once-existing land now lost to the sea. Despite its mythical status, evidence related to submergence and oceanic findings keeps the legend alive among enthusiasts.
-# Anomalies of the Lost City of Atlantis
+# Anomalies of the Lost City of Atlantis [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Leaded Glass and Artifacts**  
   Bits of leaded glass, old coins, and jewelry are washed ashore from the drowned "city of the lions." During a storm in 1750, part of a column was discovered, indicating the remnants of a lost building.
@@ -1121,7 +997,7 @@ The radical theory proposed by J. Davidovits posits that many limestone blocks i
 
 - **Tanganyika Ruins**  
   The discovery of a city near Nguruka in Tanganyika features an extensive layout but is believed to be relatively modern, dating back around five hundred years. Commander Nino del Grande reported remains indicative of an advanced tribe, possibly linking to local ancestors.
-# Gungywamp Complex
+# Gungywamp Complex [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The Gungywamp Complex features stone walls that appear to be of Colonial origin, yet no artifacts from Native American activity have been discovered in the area. This ambiguity raises questions about the purpose of these stone structures and whether they serve any practical function.
 
@@ -1135,7 +1011,7 @@ The radical theory proposed by J. Davidovits posits that many limestone blocks i
 
 - There is a notable absence of pre-Colonial artifacts at the Gungywamp Complex, which raises doubts regarding claims of ancient European involvement. The substantial presence of Native American and Colonial artifacts further complicates the interpretation of the site's architectural similarities to those found in Precolumbian Europe.
 
-# Mystery Hill
+# Mystery Hill [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Mystery Hill is described as a complex of stone structures that includes chambers, passageways, and standing stones dating back as far as 3475 BP, implying potential European contacts before the Christian Era. However, the credibility of the site is disputed, with amateur and professional archeologists presenting conflicting interpretations of the evidence.
 
@@ -1146,7 +1022,7 @@ The radical theory proposed by J. Davidovits posits that many limestone blocks i
 - With numerous disturbances over three centuries, including vandalism and amateur excavations, the integrity of Mystery Hill's original structures has been compromised. The extensive alterations and reconstructions based on various interpretations complicate the effort to understand the site's true history and purpose.
 
 - The discovery of an inscribed tablet at Mystery Hill in 1967 sparked significant interest, suggesting potential evidence of pre-Christian era activity. However, the authenticity and implications of such inscriptions remain contentious among historians and archeologists alike.
-# X3. Potential anomalies at Mystery Hill
+# X3. Potential anomalies at Mystery Hill [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Site Morphology**: Comparing morphologies in archeology is subjective, depending largely on individual beliefs about what should be deemed the truth. While professional archaeologists find few architectural similarities between Mystery Hill and European megalithic sites, amateur archaeologists claim to identify several remarkable resemblances.
 
@@ -1167,7 +1043,7 @@ The radical theory proposed by J. Davidovits posits that many limestone blocks i
 - **Additional Inscriptions**: In 1975, two notable inscriptions were discovered: one in ogam claiming to be dedicated to Bel, and another inscribed with "XXXVIIII LA" linked to the Beltane festival. Critics argue these inscriptions may not be genuine, suggesting natural formations could explain the markings instead.
 
 - **Astronomical Alignments**: A stone circle at Mystery Hill is claimed to serve as an astronomical observatory, with stones aligned to solstice events. Skeptics argue that the accuracy of these alignments is questionable and that they may be coincidental, reducing the credibility of claims concerning ancient astronomical knowledge at the site.
-# Anomalies in Great Zimbabwe
+# Anomalies in Great Zimbabwe [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Nonrectangularity**  
   Great Zimbabwe is unique among ancient ruins as it lacks geometric regularity, contrasting with structures like the Great Pyramid and Stonehenge. This feature may reflect the builders' cosmology and their indifference toward order in alignment with celestial bodies.
@@ -1177,7 +1053,7 @@ The radical theory proposed by J. Davidovits posits that many limestone blocks i
 
 - **The Conical Tower**  
   The Conical Tower captures attention due to its considerable size and solid structure, while appearing to serve no functional purpose. Its unconventional shape and lack of any supporting structure underneath challenge standard architectural interpretations, contributing to its aura of mystery.
-# Great Zimbabwe
+# Great Zimbabwe [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Conical Tower**: The Conical Tower's purpose remains a mystery, with no architectural clues or writings to provide context. Speculations include it being a phallic symbol, an imitation of Islamic minarets, or a cenotaph for a departed leader, yet its true meaning is elusive.
 
@@ -1191,7 +1067,7 @@ The radical theory proposed by J. Davidovits posits that many limestone blocks i
 
 - **Lack of Burials**: The absence of burials at Great Zimbabwe raises questions about the nature of its settlement. With few skeletons found, it is suggested that the site may have served primarily for rituals, housing possibly only a select few residents.
 
-# Mohenjo-daro
+# Mohenjo-daro [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Unburied Skeletons**: Among the few discovered skeletons at Mohenjo-daro, many were found unburied and in contorted positions, implying a violent end to the city. These remains hint at a catastrophic event, yet their nature and the circumstances surrounding their deaths remain unclear.
 
@@ -1201,14 +1077,14 @@ The radical theory proposed by J. Davidovits posits that many limestone blocks i
 
 - **Black Stones**: Thousands of "black stones" found at Mohenjo-daro appear to be fragments of clay vessels that melted together due to extreme heat. This phenomenon, alongside the radioactive skeletons, raises the possibility of a technologically advanced society or catastrophic events, though details remain elusive.
 
-# Nan Madol
+# Nan Madol [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Megalithic Construction**: Nan Madol features a complex of 92 artificial islets constructed from large, undressed basalt prisms without sophisticated stone-working techniques. This unique engineering approach marks it apart from other ancient sites, despite being classified as "crude."
 
 - **Construction Techniques**: The construction methods at Nan Madol consist of stacking multi-ton basalt prisms in a log-cabin style, demonstrating the labor and ingenuity of Micronesian builders. The prevalence of naturally formed basalt as a structural element is notably unique to this region.
 
 - **Cultural Legends**: Nan Madol is steeped in local lore, including tales of underwater ruins and "little people." These stories contribute to a mystical aura around the site, although investigations reveal little factual basis supporting such claims.
-# Anomalies in Geology
+# Anomalies in Geology [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Basalt Prisms Formation**  
 The exact formation of basalt prisms remains a subject of debate among scientists. Although commonly associated with geological processes, there is no consensus on how they are created.
@@ -1216,7 +1092,7 @@ The exact formation of basalt prisms remains a subject of debate among scientist
 - **Anomaly of Unfinished Structures in Nan Madol**  
 Several structures within the Nan Madol complex appear to have been left unfinished, suggesting a lack of completion in the architectural plans. This raises questions about the construction practices and the resources available to the builders.
 
-# Anomalies in Urban Arrangement
+# Anomalies in Urban Arrangement [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of 92 Artificial Islets in Nan Madol**  
 The decision to create 92 artificial islets by the Pohnpeians is particularly puzzling, especially given the availability of solid land. The reasoning behind this unusual choice remains unknown.
@@ -1224,62 +1100,62 @@ The decision to create 92 artificial islets by the Pohnpeians is particularly pu
 - **Anomaly of Potential Tunnels and Megalithic Structures**  
 Reports of mysterious underwater tunnels and offshore megalithic structures near Nan Madol suggest a level of engineering sophistication that contradicts the apparent simplicity of above-ground ruins. This potential complexity is still under investigation.
 
-# Large-Scale Order of Cities and Complexes
+# Large-Scale Order of Cities and Complexes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Hexagonal Patterns in Mayan Cities**  
 The Late Classic Lowland Maya exhibit surprising hexagonal arrangements of their cities, which seem to be neither random nor intentional. While analysis suggests an organizational system, it remains unclear if the Maya consciously designed their settlements in this manner.
 
 - **Anomaly of Earth-Energy Grids and Numerology**  
 Claims regarding the role of earth-energy grids and numerological patterns in the placement of ancient sites lack scientific grounding. These ideas are often dismissed, pointing to a misunderstanding of the actual motivations behind urban planning in ancient civilizations.
-# X0. Introduction
+# X0. Introduction [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The data gathered by professional archeologists strongly supports a colonial origin for the Newport Tower. However, diverse observations and conjectures suggest a potential Norse origin, indicating a notable disparity in the strength of the respective data.
 
-# Anomaly Evaluation
+# Anomaly Evaluation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A Norse origin for the Newport Tower is considered highly anomalous due to the mainstream scientific consensus that denies any Norse presence in New England. This anomaly receives a low rating, indicating strong opposition from established academics.
 
-# Similar and Related Phenomena
+# Similar and Related Phenomena [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Various other structures in New England are claimed to have pre-colonial origins, including Mystery Hill and stone chambers. The existence of these structures along with inscriptions like the Kensington Stone fuels the Norse origin theory despite the lack of solid archaeological evidence.
 
-# X1. The Newport Tower viewed in 1879
+# X1. The Newport Tower viewed in 1879 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Newport Tower, then referred to as the "Old Mill," baffled observers who debated its origins and purpose without conclusive answers. The structure’s imposing and unique design led to various speculative theories regarding its creators.
 
-# X2. The Norse Theory
+# X2. The Norse Theory [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Danish scholar C.C. Rafn argued that the Newport Tower was built by Norse settlers in the Eleventh Century, interpreting its unique architectural features as consistent with medieval structures. Despite this interpretation, the theory lacks concrete evidence and acceptance in contemporary archaeology.
 
-# X3. The colonial or "Arnold" Theory
+# X3. The colonial or "Arnold" Theory [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Mainstream archeologists assert that the Newport Tower was constructed by English colonists, claiming that extensive excavations found no Viking artifacts. This conclusion is bolstered by substantial archaeological evidence that aligns with a colonial narrative, dismissing the Norse theories as lacking physical support.
 
-# X4. Facts militating against the Arnold Theory
+# X4. Facts militating against the Arnold Theory [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The architectural style of the Newport Tower resembles medieval baptistries, suggesting a potential Norse influence despite being circumstantial evidence. Additionally, astronomical and radiocarbon studies bring further questions to the fore, hinting at a pre-colonial timeline for its construction.
 
 - Ground-penetrating radar has revealed buried features around the Newport Tower, which could remain from other structures such as a Norse church. Moreover, a suspected runic inscription discovered in 1946 suggests a link to Norse heritage, though its authenticity and age remain contentious.
 
 - The presence of plaster beneath the column foundations implies potential reinforcement that could date back to when the tower was converted for use as a windmill. This scenario raises the possibility of the tower's construction being significantly earlier than the colonial artifacts found at the site.
 ```markdown
-# X0. Introduction
+# X0. Introduction [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Uncertain origin of the Gallina Valley tower builders.** The exact identity and culture of the people who constructed the towers remain a mystery. This lack of information adds an air of intrigue but does not significantly impact existing paradigms in anthropology. 
 
 - **Identity of their exterminators.** It is unclear who was responsible for the genocide of the Gallina people. This ambiguity raises questions about the cultural context of the region during the period of extermination. 
 
 - **Reason for the unusual ferocity of the attacks on the towers.** The extreme violence exhibited during the assaults on the towers remains unexplained. Understanding the motivations behind such actions could provide deeper insights into social dynamics of the time.
 
-# X1. Character and disposition of the towers
+# X1. Character and disposition of the towers [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Different types and purposes of towers.** Various towers exist across regions, serving multiple functions, primarily as defensive structures. The differences among these towers highlight the diversity of architectural practices in pre-Columbian societies.
 
-# X2. Genocide in the Gallina Valley
+# X2. Genocide in the Gallina Valley [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Universal attacks on Gallina towers.** Each tower in the Gallina Valley experienced aggressive assaults, leading to the complete annihilation of its defenders. The systematic nature of these attacks suggests a coordinated effort to erase the Gallina culture entirely.
 
 - **Destruction and signs of torture.** Evidence of cruel treatment, including mutilation and violent deaths, has been uncovered at various sites. This brutality during the extermination process points to deep-seated animosity between cultures.
 
-# X3. The Gallina people and their slayers
+# X3. The Gallina people and their slayers [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Physical differences from Pueblo people.** Gallina skeletons exhibit notable differences from Pueblo remains, indicating they may have had distinct origins. The unique artifacts associated with the Gallina further highlight their cultural separateness.
 
 - **Questions around the identity of their slayers.** Although arrows found with Gallina remains suggest involvement of the Pueblo peoples, historical context suggests they were generally peaceful. This contradiction poses significant questions regarding the identities and motivations of those involved in the Gallina genocide.
 
-# X4. Archeoastronomy cross reference
+# X4. Archeoastronomy cross reference [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Usage of towers for astronomical observations.** Some towers were likely designed for tracking celestial bodies, indicating a sophisticated understanding of astronomy among ancient cultures. This feature distinguishes them in the archaeological record, hinting at advanced scientific practices in these societies.
 ```
-# Anomaly Evaluation
+# Anomaly Evaluation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Irish Round Towers**  
   The purpose of the 100-plus Irish round towers is controversial. They do not seem suited for defense, belfries, watchtowers, or any other obvious application. (X1) Ratings: 1/2.
@@ -1295,7 +1171,7 @@ Claims regarding the role of earth-energy grids and numerological patterns in th
 
 - **Balearic Islands Talayots**  
   Some of the talayots of the Balearic Islands, like the Sardinian nuraghi, were probably defensive structures, but others do not seem suited to that purpose. (X5) Ratings: 2/2.
-# Chapter 1: Anthropological Anomalies
+# Chapter 1: Anthropological Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Anomaly of the nuraghi**: The traditional view of the nuraghi suggests a highly organized society; however, evidence points to less structure as they were built by loosely organized tribes. This interpretation challenges the prevailing understanding of their significance in anthropology.
 
 - **Comparison to Scottish Brochs**: Nuraghi structures appear similar to Scottish brochs, but they primarily served as both forts and dwellings, unlike other interpretations. This raises questions about their purpose and architectural significance.
@@ -1308,7 +1184,7 @@ Claims regarding the role of earth-energy grids and numerological patterns in th
 
 - **Diverse Purposes of Talayots**: Talayots may have served varied functions, not solely as defensive structures. This ambiguity in purpose calls for more investigation into their true roles in ancient societies.
 
-# Chapter 2: Anomalies in the Middle East 
+# Chapter 2: Anomalies in the Middle East  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Tower of Moab's Architectural Similarity**: The Tower of Moab's design suggests a connection to architectural styles from the Balearic Islands, proposing an unexpected cultural diffusion. Despite the geographical separation, similarities hint at a larger, shared architectural heritage.
 
 - **Jericho's Historical Claims**: Jericho's stone tower is posited to be the world's oldest, with origins tracing back to 7,000 B.C. The remarkable preservation of this structure challenges our understanding of ancient construction techniques and societal organization.
@@ -1317,17 +1193,17 @@ Claims regarding the role of earth-energy grids and numerological patterns in th
 
 - **Vitrification of Babel's Remains**: Vitrification observed in bricks of the Tower of Babel raises questions about the cause of destruction, hinting at an extreme heat source. This anomaly draws attention to the tower's mysterious historical context and potential natural disasters affecting ancient structures. 
 
-# Chapter 3: Anomalies of Easter Island Towers
+# Chapter 3: Anomalies of Easter Island Towers [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Unexpected Presence on Easter Island**: The presence of stone towers on Easter Island is largely overlooked, overshadowed by the island's famous statues. Their existence indicates a broader cultural context that has been neglected in archaeological discourse.
 
 - **Diverse Functions of Easter Island Towers**: Two types of towers, one for watching and another for ceremonial purposes, suggest a multifaceted cultural significance to these structures. The tower's roles in community rituals reflect deeper social practices unique to Polynesian cultures.
-# Easter Island Towers
+# Easter Island Towers [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Turtle Cave or House:** This circular stone structure served as a shelter for observers watching for the rare arrival of turtles on the beach at Anakena Bay. These towers were later adapted for monitoring fish shoals essential for larger game fishing.
 
 - **Pipi Hereko Tower:** Distinct from the turtle observation towers, this solid and high construction was specifically designed to keep navel-strings out of reach. It serves as evidence of unique cultural practices surrounding burial and the care of infant remains.
 
-# Northeastern Stone Chambers
+# Northeastern Stone Chambers [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Stone Chambers:** The stone chambers scattered throughout northeastern North America are crude structures built of unworked stones without mortar, leading to debates about their origins. Despite their simple construction, they raise significant archaeological questions about who built them and for what purpose.
 
@@ -1340,7 +1216,7 @@ Claims regarding the role of earth-energy grids and numerological patterns in th
 - **Amateur Archeology Findings:** Over the years, amateur archaeologists have documented various details about the chambers, some of which challenge the mainstream interpretations. Their discoveries include astronomical alignments and potential ancient inscriptions, providing a counter-narrative to the conventional root-cellar theory.
 
 - **Paranormal and Folklore Associations:** Local folklore often ties these stone structures to mysterious stories, such as “witches’ caves.” These legends add an element of cultural significance to the chambers that transcends mere historical utility.
-# Anomalies in the Northeastern Stone Chambers
+# Anomalies in the Northeastern Stone Chambers [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **White race claim**  
 The sagas recount the discovery of a white race during voyages, raising speculation about possible early visitors to North America, including Irish monks. While these legends are intriguing, they do not substantiate the root-cellar paradigm of the stone chambers.
@@ -1374,7 +1250,7 @@ The existence of ancient markings found near stone chambers fuels debate about t
 
 - **Association of stone chambers with other controversial structures**  
 The geographical association of stone chambers with other enigmatic structures does not equate to shared origins. While some believe this proximity enhances the credibility of both phenomena, academic skepticism prevails, as no definitive evidence supports this connection.
-# Anomalies in Northeastern Stone Chambers
+# Anomalies in Northeastern Stone Chambers [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Dimensions incompatible with root-cellar use**  
   The size of certain stone chambers, such as the Upton chamber in Massachusetts and the Sandy ston chamber in New Jersey, exceeds what would typically be necessary for vegetable storage. This excessive size raises questions about the root-cellar hypothesis, indicating that these structures may have had different purposes.
@@ -1390,36 +1266,36 @@ The geographical association of stone chambers with other enigmatic structures d
 
 - **The Upton stone chamber as an astronomical instrument**  
   The Upton chamber exhibits remarkable size and unique dry-stone construction that suggests it was part of an ancient astronomical system. Evidence indicates that it was oriented towards the summer solstice sunset, offering insights that may link it to precolumbian astronomical knowledge.
-# X0. Introduction
+# X0. Introduction [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Passage graves consist of long, stone-lined passageways that penetrate large artificial mounds or cairns and terminate in chambers, likely serving as tombs for important individuals. However, some of these structures may have had additional purposes beyond being mere graves, a central mystery that remains unresolved.
 
-# MSU2 Passage Graves
+# MSU2 Passage Graves [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Gavr'inis passage grave in Brittany is notable for its alignment with the rising sun on the winter solstice. This alignment suggests that the builders were attuned to solar events, indicating the passage graves were designed with celestial orientations in mind.
 
 - The right-angled passage grave at Gavres, France, stands out from the more traditional straight passages of other graves. This deviation from the norm raises questions about the architectural choices and their meanings in the context of megalithic culture.
 
 - Barnenez, located on Finisterre, is remarkable for being pierced by eleven separate passage graves, making it an impressive accumulation of stones. At 72 meters long and approximately 4,700 years old, it showcases the scale and complexity achieved in megalithic construction.
 
-# X1. General observations
+# X1. General observations [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The megalithic structures, including passage graves, evidence an extensive cultural effort spanning over 3,500 years across Europe and beyond. This long history contributes to the rich variety of forms and functions observed in megalithic architecture.
 
 - The passage graves can be classified into various types, but it appears they do not present any anomalies beyond those found in the passage graves themselves. Thus, the exploration of these structures tends to focus on the unique characteristics and mysteries surrounding the passage graves.
 
-# X2. New Grange
+# X2. New Grange [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - New Grange, while not the oldest or largest passage grave, is celebrated for its impressive architecture, particularly its white quartz façade. Despite its grandeur, much about its construction and the significance of its design remains enigmatic.
 
 - The structural design of New Grange includes a precisely positioned roof box that allows sunlight to illuminate the main chamber during the winter solstice. This notable integration of architectural planning and astronomical alignment indicates a sophisticated understanding of solar movements.
 
-# X3. Maes Howe
+# X3. Maes Howe [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Maes Howe is distinguished by its use of finely finished Old Red Sandstone slabs, contrasting with the rough stones used in other passage graves. This difference reflects advanced stone masonry skills and an emphasis on aesthetic quality in its construction.
 
 - Unlike New Grange and Gavr'inis, Maes Howe appears to lack the intricate carvings found at those sites, raising questions about its purpose. This absence of carvings may indicate that Maes Howe served a different function within the megalithic culture.
 
-# X4. Japanese passage graves
+# X4. Japanese passage graves [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Japanese passage graves, while resembling their European counterparts, were constructed several millennia later and primarily served as individual tombs rather than mass graves. This highlights significant cultural differences in burial practices despite architectural similarities.
 
 - The absence of intricate carvings in Japanese tombs distinguishes them from Irish passage graves, where such motifs are prevalent. This suggests that while the external structures may be similar, the cultural significance and functions diverged considerably between the two regions.
-# Implications of the passage graves
+# Implications of the passage graves [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Orientation Towards the Winter-Solstice Sunrise**: The passage graves of western Europe are oriented toward the winter-solstice sunrise, which raises questions about why this specific alignment was chosen. This suggests a purposeful architectural design that could relate to seasonal or astronomical significance.
 
@@ -1427,7 +1303,7 @@ The geographical association of stone chambers with other enigmatic structures d
 
 - **Enigmatic Carvings**: The presence of mysterious carvings on many megalithic sites remains unexplained, contributing to the overall enigmatic character of these structures. These carvings might hold deeper meanings or represent beliefs that are lost to contemporary understanding.
 
-# Remarkable Acoustical Properties of Neolithic Passage Graves
+# Remarkable Acoustical Properties of Neolithic Passage Graves [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Configuration for Acoustical Phenomena**: Some Neolithic passage graves are thought to be configured intentionally to create acoustical standing waves and Helmholtz resonances. This raises the possibility that ancient humans were not just builders but also sought specific sound experiences during rituals.
 
@@ -1440,7 +1316,7 @@ The geographical association of stone chambers with other enigmatic structures d
 - **Helmholtz Resonance and Infrasound**: Research into Helmholtz resonance indicates that certain passage graves can resonate at frequencies in the infrasound range, potentially influencing participants physiologically. The implications of these inaudible frequencies suggest that ancient rituals could have had powerful, albeit imperceptible, effects on individuals.
 
 - **Eerie Sensations from Acoustical Engineering**: Observers reported peculiar sensations within certain passage graves, such as sound seeming to originate from different directions or within the head. These strange auditory experiences might have complemented ceremonial activities that engaged the supernatural or mystical beliefs of the time.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Acoustical Resonances of Assorted Ancient Structures (R2)**  
   This report discusses how various ancient structures were designed to enhance acoustical properties. It highlights the significance of sound in creating a transcendental experience akin to modern cathedrals.
@@ -1459,7 +1335,7 @@ The geographical association of stone chambers with other enigmatic structures d
 
 - **Sounds of the Spirit World (R7)**  
   The piece discusses how different cultures have historically interpreted auditory phenomena as connections to the spirit world. It suggests that sound might serve as a bridge between the physical and spiritual realms.
-# MSF2-R24 Source Index
+# MSF2-R24 Source Index [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **MSS3-R12**: Recorded at 14:50, this entry indicates potential inconsistency in data handling or archiving practices. It might reflect discrepancies in source referencing methods that could impact further analysis.
 - **MSS3-R13**: Noted at 14:79 with the status 'Spr', this anomaly suggests there may be insufficient documentation regarding temporal or event markers associated with data collection. It raises questions about data integrity in reporting practices.
 
@@ -1471,15 +1347,15 @@ The geographical association of stone chambers with other enigmatic structures d
 
 - **MSS8-R15**: Listed at 17:59 as 'Win', this data point might indicate an achievement or successful outcome. Understanding the implications of this success is essential for evaluating its significance within the study.
 
-# NEARA Transit
+# NEARA Transit [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **MST1-R16**: Captured at 8:11, this referencing incident underscores potential gaps in attribution. The absence of clear metadata could complicate the retrieval of related studies.
 
 - **MST1-R17**: Registered at 9:2 with the label 'Spr', it implies seasonal or temporal categorization that may not have been thoroughly documented. This could hinder temporal analyses in associated research.
 
-# New England Quarterly
+# New England Quarterly [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **MSS3-R1**: Found at 12:429, this number corresponds to a bibliographic entry that lacks contextual engagement. There might be opportunities for deeper exploration of its analytical implications.
 
-# New Scientist
+# New Scientist [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **MSU2-R4**: At 24:801, this entry suggests a multidisciplinary approach to the data but lacks narrative coherence. The implications of this connection need examination to enhance comprehension.
 
 - **MSP1-R27**: Recorded on 38 Oct 17, 1992, this source indicates a potentially relevant timeframe but lacks direct subject correlation. Further investigation of context may help elucidate its role in the study.
@@ -1492,41 +1368,41 @@ The geographical association of stone chambers with other enigmatic structures d
 
 - **MSP1-R39**: Documented on 7 Oct 10, 1998, this anomaly suggests a possible oversight in either source tracking or timing annotations. Reassessing this entry is important to ensure reliability in research outputs.
 
-# New York Archaeological Association Bulletin
+# New York Archaeological Association Bulletin [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **MSS3-R4**: The reference marked #27:2 lacks specific temporal context or clarity, pointing to potential misalignment in recording practices. Clarification here could enhance subsequent investigations.
 
-# New York Times
+# New York Times [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **MSS1-R15**: Recorded on Jul 29, 1973, this entry indicates an instance where thorough archival practices might be scrutinized. There should be further inquiry into its sourcing for accuracy.
 
 - **MSS1-R18**: Documented on Jul 07, 1985, this reference reminds researchers of evolving citation standards over time. Understanding past practices can inform future methodologies adequately.
 
-# New York Times International
+# New York Times International [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **MSB9-R6**: Registered on Apr 02, 1999, this anomaly needs cross-referencing with other sources to ensure accurate representation in the scholarly communication framework. Such discrepancies may affect broader interpretation efforts.
 
-# Newport Tower, The (book)
+# Newport Tower, The (book) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **MST1-R22**: As this source reflects back on contextual anomalies surrounding its record, it may hide deeper meanings behind its data. Comprehensive scrutiny is essential to unveil potential misleading narratives.
 
-# Omega Science Digest
+# Omega Science Digest [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **MSP1-R19**: Dated 22 Nov 1985, this index leads to further questions about the reflections of researchers on established knowledge. A critical review of its assumptions could spark new interpretations.
 
-# Origins of Technology (book)
+# Origins of Technology (book) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **MSI4-R3**: This entry hints at technological implications explored within its framework but also signifies a disconnected line in the data record. Cross-validation could integrate its findings effectively with contemporary scholarship.
 
-# Orion Mystery, The (book)
+# Orion Mystery, The (book) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **MSP5-R5**: This reference presents an opportunity to analyze phenomena that might obscure concrete problem-solving. Its implications about accuracy demand attention within the greater research dialogue.
 
 - **MSP6-R14**: Sum total of resources suggests unevenness in resource allocation, warranting further examination into its data lineage. 
 
 - **MSP7-R8**: Documented without additional context, this entry may signify an oversight in establishing pertinent historical connections. Further scrutiny could yield fruitful insights.
 
-# Source Index
+# Source Index [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **MSB5-R3**: In the context of Pan-American Magazine, a 31:108 index suggests potential indexing irregularities. Exploring such anomalies may benefit data presentation.
 
 - **MSB5-R2**: Registered under the authority of Pan American Union Bulletin, it implies inconsistencies in how certain topics are treated within the resources available. Validation efforts for each reference may benefit the consolidated analysis.
 
 - **MSB5-R5**: Its presence within the subject index might indicate layered complexities in research narratives. Addressing this effectively can lead to a more robust academic framework.
 
-# Subject Index
+# Subject Index [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **MSI3**: The reference concerning iron smelting creates lines of inquiry about historical methodologies. There may be gaps in the literature that need to be filled to enhance clarity.
 
 - **MSS1-X1**: There are inconsistencies in referencing, further reiterating issues with data reliability. Enhancing citation accuracy would improve the overall credibility of research findings. 
@@ -1534,7 +1410,7 @@ The geographical association of stone chambers with other enigmatic structures d
 - **MSU1-X10**: This memo potentially points toward missing documentation. Addressing such concerns is critical to uphold integrity within research presentations.
 
 - **MSFT2-X1**: This encoding might signify semantic inaccuracies within the content described, highlighting the importance of meticulous data interpretation.
-# CATALOG OF ANOMALIES
+# CATALOG OF ANOMALIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Mirror-image twins**  
   This anomaly involves twins who have distinct genetic variations that lead to them appearing as mirror images of each other. Such cases challenge our understanding of genetic expression and randomness in heredity.
@@ -1613,7 +1489,7 @@ The geographical association of stone chambers with other enigmatic structures d
 
 - **Anomalous distribution of human lice**  
   Research into lice populations reveals inconsistencies that may suggest patterns of human migration and variation. Understanding these anomalies enlightens studies of human history and evolution.
-# GEOLOGY CATALOGS
+# GEOLOGY CATALOGS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Carolina bays and oriented lakes**: These circular features have sparked curiosity due to their mysterious formation. Their origins remain debated among geologists, with various theories proposed over time.
 
@@ -1643,7 +1519,7 @@ The geographical association of stone chambers with other enigmatic structures d
 
 - **Submarine canyons**: These steep-sided valleys cut into the sea floor illustrate significant geological processes involving erosion and sediment transport. Their existence helps scientists understand underwater geology.
 
-# ANOMALIES IN GEOLOGY: PHYSICAL, CHEMICAL, BIOLOGICAL
+# ANOMALIES IN GEOLOGY: PHYSICAL, CHEMICAL, BIOLOGICAL [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Biological-extinction events**: These catastrophic events in Earth's history raise questions about causes and effects on biodiversity. Studying them provides insights into how life on Earth adapts or succumbs to major changes.
 
@@ -1673,7 +1549,7 @@ The geographical association of stone chambers with other enigmatic structures d
 
 - **Valleys of death**: These locations, where multiple animal fossils are found, evoke curiosity about the events that led to such mass deaths. Investigating them aids in understanding prehistoric environmental dynamics.
 
-# NEGLECTED GEOLOGICAL ANOMALIES
+# NEGLECTED GEOLOGICAL ANOMALIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Concretions and geodes**: The formation processes of these structures are often unclear, leading to further research into mineral and rock formations. Exploring their origins helps to expand our understanding of sedimentary processes.
 
@@ -1702,7 +1578,7 @@ The geographical association of stone chambers with other enigmatic structures d
 - **Elevated erratics**: These boulders are often found at surprising heights, prompting inquiries into geological processes that would transport them. Their placement sheds light on past glacial movements.
 
 - **Stone rivers, rock glaciers**: These unique formations provide evidence of slow-moving geological processes and glacial action. They offer insights into the dynamics of ancient ice ages.
-# Anomalies
+# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The computer requirements list various operating systems that seem outdated, including Windows 3.1, Windows 95, and Macintosh 68K System 7. This suggests that the technology being referred to may not be compatible with modern systems and applications.
 
