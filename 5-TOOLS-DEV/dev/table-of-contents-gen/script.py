@@ -40,7 +40,7 @@ def main():
     markdown_links = []
     for header_text in headers:
         # Remove all non-textual characters (except dashes and numbers), lowercase, and replace spaces with dashes
-        header_text_processed = re.sub(r'[^A-Za-z0-9\s-]', '', header_text)
+        header_text_processed = re.sub(r'[^A-Za-z0-9\s-]|(?:\s*\[.*?\]\(.*?\)\s*$)', '', header_text)
         header_text_processed = header_text_processed.lower()
         Y = header_text_processed.replace(' ', '-')
         link_url = f"https://github.com/sovrynn/ecdo/blob/master/{X_relative_to_ecdo}#{Y}-top"
