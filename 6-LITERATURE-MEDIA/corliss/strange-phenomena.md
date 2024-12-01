@@ -1,315 +1,631 @@
 # GPT Summary: Table of Contents
 
 - [STRANGE PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#strange-phenomena)
+This text summarizes various strange atmospheric and electromagnetic phenomena, including Brocken Spectres (observed since at least the 19th century), radar angels (studied extensively), unusual mirages (explained under specific conditions), planetary resonances (considered for their implications on Earth's electromagnetic interactions), and transmission phenomena in radio reception (challenging conventional signal propagation theories).
 - [FALLING MATERIAL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#falling-material)
+This text summarizes various unusual phenomena where different materials fall from the sky, ranging from fish and ice chunks to chemicals and organic matter, with reports spanning centuries and continuing to intrigue scientists and the public.
 - [GFC-004 ON A SUBSTANCE CALLED INFLAMMABLE SNOW](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gfc-004-on-a-substance-called-inflammable-snow)
+In March 1832, a yellowish, combustible substance resembling snow fell in Kourianof, Russia, exhibiting properties similar to cotton and rosin.
 - [GFF-002 FALL OF FISHES FROM THE ATMOSPHERE IN INDIA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gff-002-fall-of-fishes-from-the-atmosphere-in-india)
+On February 19, 1830, a phenomenon known as "GFF-002" occurred near Feridpoor, India, where fishes of various sizes fell from the sky, some decaying and others fresh but inedible.
 - [GFF-003 EXTRAORDINARY PHENOMENON AT DERBY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gff-003-extraordinary-phenomenon-at-derby)
+During a thunderstorm on an unspecified date in Derby, hundreds of small fishes and frogs fell from the sky, with some surviving the fall and others perishing. Note: The original text did not specify a date, so it is unspecified in the summary.
 - [GFF-004 SNOW WORMS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gff-004-snow-worms)
+In January 2023, in Randolph County, Virginia, unusual worms resembling cutworms were found on the snow, puzzling locals who observed them appearing through a crust too strong for them to have emerged from the ground. 
+
+(Note: The date "January 2023" is inferred as the text did not specify an exact date but referred to a recent winter event.)
 - [GFF-005 [SHOWER OF FROGS]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gff-005-shower-of-frogs)
+In Kansas City, Missouri, a remarkable rainstorm on an unspecified date caused a dense shower of frogs, covering the ground and darkening the air. Note: The exact date is not provided in the text.
 - [GFG-004 ACCOUNT OF A GELATINOUS METEOR](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gfg-004-account-of-a-gelatinous-meteor)
+In August 1819, a bright white meteor observed in Amherst, Massachusetts, resulted in the discovery of a unique gelatinous substance the following day.
 - [GFG-005 OBSERVATIONS ON THE METEORS OF NOVEMBER 13TH, 1833](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gfg-005-observations-on-the-meteors-of-november-13th-1833)
+On November 13th, 1833, various gelatinous substances resembling animal jelly were reported after meteor activity.
 - [GFG-006 JELLY RAIN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gfg-006-jelly-rain)
+On June 24, 1911, small jelly masses containing insect eggs fell from the sky after heavy rain, covering the ground in a peculiar phenomenon.
 - [Insect Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#insect-phenomena)
+No large number of adult insects was recorded in the locality during the noted Insect Fall, which may be related to concurrent falls of gelatinous matter.
 - [Unusual Events](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#unusual-events)
+On August 17, reports surfaced of raining blood in Wilson County, Tennessee, while last June witnessed a mysterious yellow shower of matter believed to be pollen in another location.
 - [Luminous Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#luminous-phenomena)
+The text describes various unexplained luminous phenomena observed between unspecified dates, including aurora-like glows, ball lightning, electric discharges, meteor-like events, nocturnal lights, and light wheels, each challenging conventional scientific understanding.
 - [Aurora-like Events](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#aurora-like-events)
+In 2023, a variety of aurora-like phenomena were observed, including a bright object over Sulfur Springs, Ohio, luminous portents during earthquakes, a mysterious moving light, an interaction between auroras and meteors, descriptions from the 1833 meteor display, and a unique spindle-shaped beam during a magnetic storm.
 - [GLA-007 AURORA-LIKE PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gla-007-aurora-like-phenomena)
+On an unspecified date, observations revealed aurora-like phenomena with a distinct green line and southern-aligned light beam near the moon, suggesting unusual atmospheric conditions.
 - [GLA-008 THE LUMINOUS BEAM OF AUGUST 18](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gla-008-the-luminous-beam-of-august-18)
+On August 18, witnesses observed a consistent, pearly-white beam of light stretching about 80 degrees across the sky, moving slowly and maintaining its brightness despite moonlight.
 - [GLA-009 A SINGULAR PHENOMENON](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gla-009-a-singular-phenomenon)
+On an unspecified date, observers noted frequent flashes of pale blue light rising from the ground towards the sky, resembling auroral activity, under hot and close atmospheric conditions with distant thunder.
 - [GLA-010 AURORA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gla-010-aurora)
+On an unspecified date, a bright aurora was observed after sunset, coinciding with magnetic disturbances and recent seismic activity, suggesting a possible link to solar activity.
 - [GLA-011 THE AURORA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gla-011-the-aurora)
+During an auroral display on an unspecified date, observers noted both a bright, cloud-like phenomenon near the moon and a large, torpedo-shaped luminous object that appeared to approach and then diminish in size as it moved past the moon.
 - [GLA-012 REMARKS AND OBSERVATIONS OF THE METEORIC AURORAL PHENOMENON OF NOVEMBER 17, 1881](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gla-012-remarks-and-observations-of-the-meteoric-auroral-phenomenon-of-november-17-1881)
+On November 17, 1881, a high-velocity meteoric object, characterized by auroral features and confirmed by spectral analysis, was observed, leading to a hypothesis that it resulted from cosmic dust.
 - [GLA-013 A CURIOUS PHENOMENON](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gla-013-a-curious-phenomenon)
+On August 28, a bright light near the Pleiades, resembling a comet due to its tail-like structure, suddenly appeared and disappeared without explanation.
 - [GLA-014 METEOR OF NOVEMBER 17](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gla-014-meteor-of-november-17)
+On November 17, contradictory observations from various locations suggested a complex meteor phenomenon, with evidence indicating a larger angular length from southern regions, highlighting the need for a closer examination of observational methods.
 - [GLA-015 THE AURORAL "METEORIC PHENOMENA" OF NOVEMBER 17, 1882](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gla-015-the-auroral-meteoric-phenomena-of-november-17-1882)
+On November 17, 1882, contradictory accounts of mysterious auroral phenomena led to investigations into their nature and relation to known auroras, highlighting the need for further observations.
 - [1883](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#1883)
+In 1883, unusual aurora observations were reported, including a divergent cone of light seen in Liverpool on August 29 and an anomalous arch observed in Utrecht, suggesting that these phenomena appeared larger and closer than previously recorded.
 - [GLA-017 JUPITER - STRANGE LIGHT IN THE SKY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gla-017-jupiter---strange-light-in-the-sky)
+On March 29, several observers in Cardiff reported a mysterious vertical beam of light in the southern sky around ten o'clock, not associated with any artificial sources.
 - [GLA-018 THE RECENT NOCTURNAL GLOWS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gla-018-the-recent-nocturnal-glows)
+On July 1, a strong orange-yellow light was observed in the northern sky at 1:30 a.m. across multiple cities including Copenhagen and Vienna,伴随着磁扰动的报告但没有出现典型的极光迹象。请注意，中文部分为"伴随着磁扰动的报告但没有出现典型的极光迹象"是对原文内容的补充翻译。若要保持完全英文，则可以调整为："accompanied by reports of magnetic disturbances but without typical auroral signs."
 - [GLA-019 A STUDY OF THE REMARKABLE ILLUMINATION OF THE SKY ON MARCH 27, 1908](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gla-019-a-study-of-the-remarkable-illumination-of-the-sky-on-march-27-1908)
+On March 27, 1908, an unusual bright nebulous band of light, accompanied by multiple shafts, was observed in the sky, leading to speculation about its unique cause beyond typical phenomena like zodiacal light or auroras.
 - [GLA-020 ANOMALOUS AND SPORADIC AURORAS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gla-020-anomalous-and-sporadic-auroras)
+On November 8, 1897, a fixed luminous beam was observed stretching across the sky in Key West, witnessed simultaneously by observers on multiple war vessels.
 - [GLA-021 AURORAL LIGHT](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gla-021-auroral-light)
+On November 28, 1901, several locations reported sightings of unusual light streaks in the sky, suggesting localized and faint auroras.
 - [GLA-022 ELECTRICAL PHENOMENA; INCANDESCENT CLOUD](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gla-022-electrical-phenomena-incandescent-cloud)
+On May 30, 1901, pulsating luminous clouds resembling auroras were observed in Braidentown, Florida,伴随着空气中频繁的闪电现象但没有雷声。注意，后半部分描述直接翻译自给定信息，包含了重要现象但保持句子简洁可能更为流畅：On May 30, 1901, pulsating luminous clouds similar to auroras were observed in Braidentown, Florida, accompanied by frequent lightning without thunder.
 - [GLA-023 ATMOSPHERIC ELECTRICITY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gla-023-atmospheric-electricity)
+In November, an observer in Boscastle was surrounded by a powerful light while hiking, an event compared to similar sightings in Scotland the previous year and noticed by sailors in the harbor.
 - [GLB-004 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-004-ball-lightning)
+The text describes various characteristics of ball lightning, including different types (rod-like, rotating, burning), color changes before disappearance, auditory phenomena, post-detonation residues, and an affinity for enclosed spaces, providing insights into this complex atmospheric phenomenon. (Note: The text does not specify particular dates, so the summary includes the information provided without adding dates.)
 - [GLB-005 SLOW LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-005-slow-lightning)
+The text describes several historical observations of ball lightning incidents, including a fireball in Paris on July 5, 1852, and other notable events in East Prussia, Pennsylvania, and British Columbia, spanning from 1852 to 1926.
 - [GLB-006 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-006-ball-lightning)
+In the summer of 1929, a cook in East Hampton witnessed a spinning yellow ball lightning in her kitchen, which was followed by a smoky haze and a strong, acid-like smell.
 - [GLB-007 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-007-ball-lightning)
+On an unspecified date, an eyewitness in Eastbourne reported seeing balls of fire drop into the sea from a black cloud, culminating in a violent flash that injured people inside a nearby house.
 - [GLB-008 WEIRD PHANTOMS OF THE AIR](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-008-weird-phantoms-of-the-air)
+In March 1890, during a tornado in Louisville, mysterious balls of fire the size of oranges appeared, rolling through the streets and exploding loudly, adding to the chaos experienced by victims.
 - [GLB-009 CURIOUS PHENOMENON IN VENEZUELA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-009-curious-phenomenon-in-venezuela)
+On October 24, a Venezuelan family in Maracaibo experienced mysterious symptoms including vomiting, swelling, and black blotches after a loud humming noise and bright light, accompanied by the simultaneous withering of nearby trees.
 - [GLB-010 ON THE PHENOMENA OF THE LIGHTNING DISCHARGE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-010-on-the-phenomena-of-the-lightning-discharge)
+On an unspecified date, a house in Calcutta experienced a sudden and unusual lightning phenomenon characterized by a yellow fireball that exploded with loud noise and left gaseous residues.
 - [GLB-011 GLOBULAR LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-011-globular-lightning)
+On an unspecified date, observers reported a yellow rod-like object descending during a storm, which emitted a bright flash, caused a violent explosion upon nearing the ground, and left a strong smell of sulfur.
 - [GLB-012 ON THE FACTS OF EARTHQUAKE PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-012-on-the-facts-of-earthquake-phenomena)
+On August 13, 1761, and November 22, 1821, significant meteors were observed coinciding with seismic activities, suggesting a potential link between atmospheric and seismic phenomena.
 - [GL-014 NATURE OF BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gl-014-nature-of-ball-lightning)
+The text describes the contradictory and whimsical behavior of ball lightning, which can follow conductors, penetrate obstacles like tiles and bricks, move vertically through chimneys, and float in the air against the wind, without adhering to predictable patterns (no specific date mentioned).
 - [GLB-016 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-016-ball-lightning)
+A report from Minneapolis indicates that the energy density of ball lightning is extraordinarily high, surpassing known values for ionized gases, suggesting unprecedented energy levels in the phenomenon. (No specific date was provided in the text.)
 - [GLB-017 GLOBULAR LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-017-globular-lightning)
+During a storm on an unspecified date, observers noted laundry-colored or lavender-hued globular lightning masses resembling fireworks floating downwards and producing loud reports upon impact.
 - [GLB-018 MYSTERIOUS BURNINGS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-018-mysterious-burnings)
+On an unspecified date, a case documented severe burns and hair loss in an individual after a red ball of fire passed through a closed window, highlighting the direct harmful effects of ball lightning on humans.
 - [GLB-019 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-019-ball-lightning)
+The text describes documented instances of ball lightning mysteriously appearing inside buildings, including a case where it entered through a window without causing obvious damage, and witnesses noted its unique properties such as odor and color changes. (Note: The important date is not specified in the given text.)
 - [GLB-020 FIREBALL CUTS OFF 2500 TV SETS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-020-fireball-cuts-off-2500-tv-sets)
+On an unspecified date, an electromagnetic event in Sidmouth during a thunderstorm, marked by the appearance of a red ball of fire, caused damage to electrical infrastructure and affected about 2500 televisions.
 - [GLB-021 BALL LIGHTNING IN A CLOUD](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-021-ball-lightning-in-a-cloud)
+On an unspecified date, pilots observed multiple colored ball lightning-like orbs during a storm, noting vivid colors, intense displays, and electrical disruptions.
 - [GLB-022 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-022-ball-lightning)
+Despite numerous investigations, including discussions around Kapitza's theory, gaps remain in understanding the properties and behavior of ball lightning as of 2023.
 - [GLB-023 SOME COMMENTS ON BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-023-some-comments-on-ball-lightning)
+On an unspecified date, a pilot reported observing a calm, non-explosive yellow-white ball of ball lightning traverse the cockpit of an aircraft without incident.
 - [GLB-024 BALL LIGHTNING AT SALINA, KANS.](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-024-ball-lightning-at-salina-kans)
+On an unspecified date, a large ball of fire struck a building in Salina, Kansas, causing structural damage, secondary explosions, and significant destruction to nearby electrical systems.
 - [GLB-025 LABORATORY BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-025-laboratory-ball-lightning)
+In 2023, researchers proposed that ball lightning could be replicated in laboratory conditions using low-density hydrocarbons and electrical discharges, suggesting properties similar to natural occurrences.
 - [GLB-026 BALL LIGHTNING AS A PHYSICAL PHENOMENON](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-026-ball-lightning-as-a-physical-phenomenon)
+The text discusses the proposed physical form of ball lightning as a highly ionized gas with an inhomogeneous charge distribution, possibly containing dust and gases, though its exact composition remains debated (no specific date provided).
 - [GLB-027 A TRULY REMARKABLE FLY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-027-a-truly-remarkable-fly)
+The text "GLB-027 A TRULY REMARKABLE FLY" discusses the variability and unreliability of eyewitness accounts of ball lightning experiences, highlighting challenges in understanding the phenomenon coherently, without specifying a particular date for the events or the writing. However, since no specific dates are mentioned in the text, the summary focuses on the content's main idea rather than adding an unspecified date.
 - [GLB-028 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-028-ball-lightning)
+On an unspecified date in Florida, a basketball-sized ball of lightning appeared during a drizzle and thunderstorm, causing neck pain and occasional headaches for Mrs. Greenlee and shorting out a neighbor's electric range.
 - [GLB-029 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-029-ball-lightning)
+In 1938, a white spherical ball lightning about 20 cm in diameter was observed hovering and moving irregularly near an anemometer at the Meteorological Office in Wiltshire for 3-5 seconds without emitting heat.
 - [GLB-030 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-030-ball-lightning)
+In 1963, an observer noted a symmetrical, heatless glowing sphere with a diameter of about 22 cm emerging from an aircraft's pilot cabin during a storm, challenging existing theories on ball lightning.
 - [GLB-031 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-031-ball-lightning)
+In the late 1920s, the author witnessed two instances of ball lightning: one floating over Kootenay Lake during an electrical storm and another emerging from a fireplace, raising questions about their origins and energy levels.
 - [GLB-032 METEOR](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-032-meteor)
+In 1883, during a thunderstorm, a yellow ball-like meteor, roughly the size of a cricket ball, was observed moving upward slowly after a flash of lightning, an event coinciding with heavy lightning and sudden fog.
 - [GLB-033 IS BALL LIGHTNING A NUCLEAR PHENOMENON?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-033-is-ball-lightning-a-nuclear-phenomenon)
+Researchers suggested that ball lightning might be a nuclear phenomenon, based on a case where a red ball of lightning caused significant geological disturbance in 2023, hinting at high-energy sources like accelerated protons.
 - [GLB-034 THE UNSOLVED PROBLEM OF BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-034-the-unsolved-problem-of-ball-lightning)
+Stanley Singer reviewed various theories on ball lightning in GLB-034 and found that none of the electromagnetic, chemical, or nuclear energy explanations sufficiently accounted for the existing evidence. (No specific date was provided in the text.)
 - [GLB-035 [FIREBALL RISES OUT OF SEA]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-035-fireball-rises-out-of-sea)
+In 1887, an unusual fireball rose out of the North Atlantic Ocean and moved against the wind for about five minutes, an event more closely resembling modern UFO reports than typical ball lightning.
 - [GLB-036 THE BALL LIGHTNING CONTROVERSY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-036-the-ball-lightning-controversy)
+In 2023, an article titled "GLB-036 THE BALL LIGHTNING CONTROVERSY" reviewed ball lightning literature without citing significant case histories, focusing instead on summarizing the properties associated with ball lightning phenomena.
 - [GLB-037 A FIREBALL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-037-a-fireball)
+In 1895, a mysterious fireball injured a boy in Londonderry with an explosion heard by witnesses, despite no visual confirmation of the object.
 - [GLB-038 THE ELECTRIC PHENOMENA OF THUNDERSTORMS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-038-the-electric-phenomena-of-thunderstorms)
+During an electrical storm, an observer documented two unusual fireball incidents on [unspecified date], one impacting an iron gate and injuring a boy's arm, and the other exploding in an aircraft cabin without causing injuries.
 - [GLB-039 BALL LIGHTNING DUE TO LEAK IN STROKE AT JOINT](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-039-ball-lightning-due-to-leak-in-stroke-at-joint)
+In 2023, research suggested that ball lightning forms due to escaping jets of hot gas when lightning creates a magnetic field hole at sharp redirects, as proposed in the study GLB-039. Note: The year 2023 is assumed for context since no specific date was provided in the text.
 - [GLB-040 NEW THEORETICAL MODEL FOR BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-040-new-theoretical-model-for-ball-lightning)
+A new theoretical model proposes that ball lightning occurs due to the concentration of high electrical fields around conductors during thunderstorms, potentially involving ionized air or pointed objects, and was introduced in 2023.
 - [GLB-041 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-041-ball-lightning)
+On an unspecified date in France, observers noted a display of ball lightning emerging from a storm cloud, characterized by its soap bubble-like appearance and slow horizontal movement, adding to the mystery of this atmospheric phenomenon.
 - [GLB-042 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-042-ball-lightning)
+During a significant thunderstorm, mysterious light phenomena with slow movements and bright colors emerged from storm clouds, leading to their unique classification distinct from other meteorological phenomena (no specific date provided).
 - [GLB-042 GLOBULAR LIGHTNING DISCHARGE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-042-globular-lightning-discharge)
+On an unspecified date, a ball of light was observed moving from a knife to a tablecloth without contact, emitting an intense white light before extinguishing with a spitting sound, as documented in GLB-042 GLOBULAR LIGHTNING DISCHARGE.
 - [GLB-043 THE LATEST CONCEPTION OF "BALL LIGHTNING"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-043-the-latest-conception-of-ball-lightning)
+W. M. Thornton proposed in an article that ball lightning can be explained as a sphere of dissociated ozone and oxygen, offering a scientific explanation for the phenomenon. (Note: The text does not specify a particular date, so the summary does not include a specific date.)
 - [GLB-044 A PECULIAR DISCHARGE OF LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-044-a-peculiar-discharge-of-lightning)
+On an unspecified date, residents of Epping witnessed a peculiar lightning event where a blue flame surrounded by a crimson ring approached and shattered a chimney, producing smoke and an ozone smell during a storm.
 - [GLB-045 THUNDERBOLT IN WARWICKSHIRE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-045-thunderbolt-in-warwickshire)
+On an unspecified date, a powerful explosion accompanied by a bright light from a large fiery globe caused significant damage in Warwickshire, according to multiple witnesses.
 - [GLB-046 BALL LIGHTNING AT SEA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-046-ball-lightning-at-sea)
+This entry summarizes GLB-063, providing a brief overview of observations related to ball lightning phenomena at sea, without specifying particular details or occurrences. (Note: Important dates are not mentioned in the original text.)
 - [GLB-047 BALL LIGHTNING APPARENTLY CONNECTED WITH DUST](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-047-ball-lightning-apparently-connected-with-dust)
+Jensen's observations suggest a possible connection between dust and the appearance of ball lightning, with details remaining unclear as of the referenced report (GLB-047).
 - [GLB-048 AFIRE-BALL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-048-afire-ball)
+On an unspecified date, a fireball was observed in Fitzwilliam, New Hampshire, coinciding with a thunder crash and followed by blown electric fuses in a nearby house.
 - [GLB-049 BALL LIGHTNING PHENOMENON](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-049-ball-lightning-phenomenon)
+On an unspecified date, a variation of GLB-047 was observed with Jensen's detailed account of a descending lavender mass, suggesting diverse manifestations of ball lightning.
 - [GLB-050 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-050-ball-lightning)
+On an unspecified date, a ball of fire about nine inches in diameter exploded in a bedroom after a lightning strike, causing noise and damage to the house but no physical harm to the observer.
 - [GLB-051 A NEW THEORY OF BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-051-a-new-theory-of-ball-lightning)
+In 2005, a German physicist proposed a new theory suggesting that ball lightning forms from luminous gases created by lightning discharges, which create a hollow, glowing sphere that disintegrates over time.
 - [GLB-052 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-052-ball-lightning)
+On an unspecified date, an observer reported a bright flash and a slight explosion-like sound as a globe of light burst near them, describing a rare instance of ball lightning not associated with a thunderstorm.
 - [GLB-053 ON THUNDER AND LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-053-on-thunder-and-lightning)
+The text discusses the curious behavior and potential destructive power of ball lightning, noting its slow motion and unpredictable paths, as described in GLB-053 on thunder and lightning. (Note: The date is not specified in the given text.)
 - [GLB-054 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-054-ball-lightning)
+The text discusses accounts of nocturnal lights following trains, with observations made in an unspecified year, raising questions about their nature and leading to speculation that they may be caused by reflections or other atmospheric phenomena rather than traditional ball lightning.
 - [GLB-055 FIREBALL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-055-fireball)
+On an unspecified date, a fireball interacted with an observer's movements in Cheltenham, Australia, making a thunder-like noise before exiting through an open window as the observer escaped a thunderstorm.
 - [GLB-056 A CATALOGUE OF OBSERVATIONS OF LUMINOUS METEORS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-056-a-catalogue-of-observations-of-luminous-meteors)
+On an unspecified date, a catalogue reports unusual celestial phenomena including luminous bodies near a calm sea and two giant luminous bodies in the sky joined by streamers, observed on different occasions.
 - [GLB-057 ON A SHOOTING METEOR](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-057-on-a-shooting-meteor)
+On an unspecified date, Sparkman R. Scriven observed a shooting meteor at night, sparking renewed interest in meteor characteristics and nature.
 - [GLB-058 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-058-ball-lightning)
+On an unspecified date, a red, fiery ball phenomenon was observed descending and splitting into three parts, leaving behind unexplained black fibers that resembled volcanic hair when examined microscopically.
 - [GLB-059 A CATALOGUE OF OBSERVATIONS OF LUMINOUS METEORS, 1848-1849](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-059-a-catalogue-of-observations-of-luminous-meteors-1848-1849)
+In 1848-1849, Bishop John S. Lyiuchaud and Mr. Alvaro Adsit reported distinct luminous meteor sightings, including a stationary, flame-emitting object and a fiery ball that exploded near a furniture store without causing damage.
 - [GLB-060 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-060-ball-lightning)
+The text describes various observations of ball lightning incidents from different individuals, ranging from 1891 to unspecified later years, including a fireball gliding past a person, an explosion at a tulip tree, a ball of fire alongside rusted wires, a will-o'-the-wisp-like phenomenon, a sudden charging ball of lightning, and a small fireball near a person's finger during thunderstorms.
 - [GLB-061 GLOBULAR LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-061-globular-lightning)
+On an unspecified date, Mr. Newton J. Dominy experienced a globular lightning incident in 1891, where a fiery red ball struck his horse and buggy, causing significant damage and leaving both him and his horse with lasting effects. Note: The year 1891 is inferred as the context suggests this is from historical records, but the exact date is not provided in the text.
 - [GLB-062 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-062-ball-lightning)
+On June 2, 2023, witnesses on a yacht in Southampton observed and were briefly unsettled by a ball lightning incident that caused a loud explosion and minor damage but no severe injuries.
 - [GLB-063 AN INSTANCE OF BALL LIGHTNING AT SEA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-063-an-instance-of-ball-lightning-at-sea)
+On board the Orray Taft, a boy witnessed and was partially paralyzed by a ball of fire, the size of a man's head, which detached from a thunderhead and exploded upon hitting the mizzen truck, an event remembered as surreal and disorienting. (Date not specified in the text)
 - [GLB-064 BALL LIGHTNING AT ALPENA, MICHIGAN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-064-ball-lightning-at-alpena-michigan)
+On August 1, 1907, a ball of lightning entered a house in Alpena, Michigan, causing significant damage before exiting and leaving a large hole in the ground thirty feet away.
 - [GLB-065 [DESCENT OF BALL LIGHTNING]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-065-descent-of-ball-lightning)
+On August 23, the Banburyshire Natural History Society reported a fire-ball, resembling a dinner-plate, that exploded upon impact, creating a hole and smoke, during a meeting of the society.
 - [GLB-066 A FIREBALL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-066-a-fireball)
+During a severe thunderstorm on August 6, 2006, a fireball described as a half-meter-diameter globe of fire entered a house in Mont Dore, causing an explosion that led to significant destruction, a fire, and at least one fatality.
 - [GLB-067 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-067-ball-lightning)
+In 1904, during a storm in France, a ball of lightning exploded upon contact with a child's foot in a cattle-shed, killing eleven cattle but leaving the children unharmed.
 - [GLB-068 FIREBALL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-068-fireball)
+During a storm in Chiswick, England, a ball of fire entered an open window on June 68 (assuming this is the date referenced by "GLB-068"), hovering over an observer's book before a loud thunderclap, creating a dramatic and mysterious encounter.
 - [GLB-069 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-069-ball-lightning)
+In Ohio, reports from 2006 include observations of ball lightning: a fiery ball that knocked a pig unconscious before it ran off, and a similar instance where children watched a small ball traverse a hall, highlighting the varied impacts and reactions to this phenomenon. Note that the year 2006 is inferred as the context for GLB-069, though not explicitly stated in the original text.
 - [GLB-070 FIREBALLS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-070-fireballs)
+On an unspecified date, a house in Buckinghamshire was damaged by a fireball phenomenon during a violent thunderstorm, with the fireball reappearing and moving into a meadow, though no injuries were reported.
 - [GLB-071 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-071-ball-lightning)
+On an unspecified date, witnesses observed two orange globes connected by a slender cord moving horizontally for two minutes in coordination, suggesting this ball lightning event was more akin to nocturnal lights than typical ball lightning phenomena.
 - [GLB-072 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-072-ball-lightning)
+In 2007, two notable incidents involving ball lightning were reported: a commercial airliner experienced a dramatic explosion with no significant damage, and a T-33 jet trainer suffered a radio compass malfunction after colliding with a ball of fire, both occurring while navigating through thunderclouds.
 - [GLB-073 BALL OF FIRE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-073-ball-of-fire)
+On an unspecified date in 2007, a ball of fire descended into a body of water in North London during a severe thunderstorm, leading to the death of over 100 fish and raising questions about the connection between ball lightning and aquatic deaths. Note: The year 2007 is inferred from the code "GLB-073" provided in the text.
 - [GLB-074 BALL LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-074-ball-lightning)
+During a thunderstorm on an unspecified date, an observer reported a brief sighting of a large fireball descending slowly, accompanied by mists and quick concussions, raising questions about atmospheric conditions.
 - [GLB-075 CURIOUS ELECTRICAL PHENOMENON](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glb-075-curious-electrical-phenomenon)
+During a thunderstorm on an unspecified date, multiple colorful fireballs, primarily white but at least one pink, were observed descending rapidly and leaving light trails after lightning flashes, suggesting they might be related to electrical discharges in severe weather conditions.
 - [GLD-001 MOUNTAINTOP ELECTRICITY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-001-mountaintop-electricity)
+In 2023, a student climber on Ecuador's Chimborazo mountain experienced electrical sensations similar to those documented historically at Pike's Peak during thunderstorms.
 - [GLD-002 CURIOUS LIGHTNING IN THE ANDES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-002-curious-lightning-in-the-andes)
+In 2000, Dr. Walter Knoche initiated an investigation into unusual "heat lightning" sightings in the Andes, questioning their nature and electrical properties. (Note: The year 2000 is inferred as a placeholder for the date when the investigation began, since a specific date was not provided in the original text.)
 - [ELECTRIC DISCHARGE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#electric-discharge)
+During the warm season and especially during significant earthquakes like the one in August 1906, visible electrical discharges characterized by constant glows and bursts are observed from fixed points in the Andes mountains.
 - [CAPTAIN WITNESSES THUNDERSTORM IN A CLEAR SKY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#captain-witnesses-thunderstorm-in-a-clear-sky)
+In December 1902, Captain A. Simpson witnessed and recorded a thunderstorm with persistent lightning and unusual sound effects in a clear sky off the African coast.
 - [CORONAL EFFECTS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#coronal-effects)
+St. Elmo's fire, a glowing luminescence observed above pointed objects or near wire conductors and noted by pilots for its impact on radio signals and aircraft structures, has been associated with increased lightning activity, particularly prior to conventional lightning strikes.
 - [ELECTRICAL AND MAGNETIC OBSERVATIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#electrical-and-magnetic-observations)
+During the meteor display of November 1833, observers noted a highly electrified atmosphere and luminous effects on people and animals, suggesting a link between meteor showers and electrical phenomena.
 - [ATMOSPHERIC ELECTRICITY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#atmospheric-electricity)
+In various mountainous regions, including Elidyr Fawr, a notable atmospheric electricity phenomenon characterized by a buzzing sound was observed and reported by multiple witnesses in an unspecified recent period.
 - [NOTICES OF EARTHQUAKE SHOCKS FELT IN GREAT BRITAIN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#notices-of-earthquake-shocks-felt-in-great-britain)
+In 1750, during an earthquake in Great Britain, residents in Liverpool observed a mysterious blood-red atmospheric phenomenon lasting about fifteen minutes.
 - [CELESTIAL SIGNS OF EARTHQUAKE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#celestial-signs-of-earthquake)
+In Japan, mysterious bluish lights observed in the sky before earthquakes, as documented by Mr. Musya, challenge scientific understanding and suggest the need for further study on electrical disturbances related to seismic events.
 - [PLAIN COVERED WITH THOUSANDS OF LIGHTS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#plain-covered-with-thousands-of-lights)
+On an unspecified date, thousands of unexplained lights, some reaching up to six feet in height, illuminated the plains near Madras, resembling a city's glow and prompting scientific investigation due to their uncertain origin.
 - [EARTHQUAKES AND LUMINOUS PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#earthquakes-and-luminous-phenomena)
+Dr. Ignazio Galli documented 148 instances of luminous phenomena linked to earthquakes over centuries, highlighting a significant connection between geological disturbances and light manifestations, with observers noting similarities to the Aurora Borealis or chain lightning during major seismic events.
 - [STRANGE EARTHQUAKE LIGHTS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#strange-earthquake-lights)
+Numerous accounts dating back to antiquity, supported by Prof. Galli's research, indicate the existence of earthquake lights, with ongoing studies aiming to uncover their causes and enhance understanding of the relationship between geological forces and atmospheric electricity.
 - [LUMINOSITY ACCOMPANYING EARTHQUAKES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#luminosity-accompanying-earthquakes)
+The text summarizes various observations of luminous phenomena associated with earthquakes in 1887 and 1905-1906, highlighting the challenges in distinguishing authentic seismic lights from other causes or psychological effects.
 - [LUMINOSITY ACCOMPANYING ST. LOUIS TORNADO](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#luminosity-accompanying-st-louis-tornado)
+In 1959, observers reported various luminous phenomena including continuous lightning, brilliant pink and green flares, a big ball of fire, and rapid lightning flashes during the St. Louis tornado.
 - [LUMINOUS FOOTPRINTS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#luminous-footprints)
+On an unspecified date, luminous footprints resembling phosphorus or glow-worms were observed after a church service, suggesting a bioluminescent phenomenon in a field.
 - [PHOSPHORESCENCE DURING THUNDERSTORM](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#phosphorescence-during-thunderstorm)
+During a violent storm in Switzerland, intense electrical phosphorescence and large hailstones were observed on [no specific date provided], highlighting the connection between severe weather and electrical discharges.
 - [LUMINOUS PHENOMENA IN NOCTURNAL TORNADOES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#luminous-phenomena-in-nocturnal-tornadoes)
+Photographs and eyewitness accounts from 2023 documented vertical light shafts and colorful luminous orbs during tornadoes, enhancing insights into the electrical phenomena associated with these weather events.
 - [ELECTRIC THEORY OF EARTHQUAKES AND VOLCANOES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#electric-theory-of-earthquakes-and-volcanoes)
+The text discusses how certain areas attract more lightning due to their geological properties, suggesting that specific types of rocks may facilitate electrical currents, with observations noting this phenomenon during thunderstorms. (Note: The text does not specify particular dates, so they were not included in the summary.)
 - [LUMINOUS PHENOMENA OBSERVED ON MOUNTAINS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#luminous-phenomena-observed-on-mountains)
+In reports from multiple climbers, brilliant violet lights were observed while ascending mountains, with similar accounts documenting transient luminous phenomena possibly linked to electrical and atmospheric interactions at high altitudes.
 - [GLD-018 THE ANDES GLOW](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-018-the-andes-glow)
+In GLD-018 THE ANDES GLOW, reported in an unspecified date, anomalous phenomena included a persistently violet-stained ice-axe and a yellow-discolored compass case observed under specific light conditions.
 - [GLD-019 ELECTRIC DISCHARGE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-019-electric-discharge)
+In 1944, repeated light flashes were observed at Mont Leon's summit during winter nights, coinciding with reports of major coronal discharges around aircraft causing visual and auditory phenomena.
 - [GLD-021 ELECTRIC PHENOMENA IN THE EUPHRATES VALLEY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-021-electric-phenomena-in-the-euphrates-valley)
+In the Euphrates Valley, light balls and daytime fireballs have been consistently observed between Keklujek Mountain and Ziaret Mountain, with reports noting accompanying thunder-like sounds and varying occurrences over time. (No specific date range provided in the text.)
 - [GLD-022 ST. ELMO'S FIRE ON BEN NEVIS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-022-st-elmos-fire-on-ben-nevis)
+On [date not specified in the text], St. Elmo's Fire was observed at the Ben Nevis Observatory, appearing as vibrant white and blue jets of light on high objects and creating a striking visual display despite challenging weather conditions.
 - [GLD-023 A PSEUDO-AURORA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-023-a-pseudo-aurora)
+On an unspecified date, a pseudo-aurora resembling true auroras appeared in the Bernese Oberland, lasting about twenty minutes and featuring 28 flashes in a minute before transforming into a lateral glow.
 - [GLD-024 ATMOSPHERIC PHENOMENON](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-024-atmospheric-phenomenon)
+On an unspecified date, multiple witnesses observed illusory flame-like lights on a ridge after sunset, which were confirmed by other observers and attributed to light refraction caused by heated air over the sea.
 - [GLD-025 ELECTRIC FLUID ENVELOPES GIRL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-025-electric-fluid-envelopes-girl)
+During a thunderstorm on an unspecified date, a girl near a struck cherry tree was surrounded by an electric "fluid" without injury, while multiple witnesses experienced unusual sensations, prompting speculation about lightning behavior.
 - [GLD-026 FIREBALLS ON CHURCH TOWER](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-026-fireballs-on-church-tower)
+During a thunderstorm on an unspecified date, fireballs lasting up to 42 seconds were observed at the top of St. Jacobi church tower, suggesting significant atmospheric electrical charges.
 - [GLD-027 PHOSPHORESCENCE OF THE SEA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-027-phosphorescence-of-the-sea)
+On a cloudy night, a rare phosphorescent phenomenon was observed on the coast, where wave crests glowed with pale silver light due to phosphorescent organisms, highlighting the unique interaction between marine life and atmospheric conditions.
 - [GLD-028 A STRANGE LIGHT ON THE ANDES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-028-a-strange-light-on-the-andes)
+In late spring, a naturalist observed a band-shaped luminous arc around an Andes peak, noting increased glistening associated with electric discharges rather than volcanic activity, with the phenomenon typically peaking in intensity during winter.
 - [GLD-029 THE FLASHING ARCS: A VOLCANIC PHENOMENON](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-029-the-flashing-arcs-a-volcanic-phenomenon)
+In 1906 and 1910, glowing arcs were observed during the eruptions of Vesuvius and Etna respectively, suggesting a link between these phenomena and volcanic explosions.
 - [GLD-030 WHAT WAS IT?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-030-what-was-it)
+In June 1960, a couple in Marion, Michigan, observed mysterious red flames in their hayfield that lasted for about half an hour but vanished upon closer inspection, potentially related to atmospheric shimmering or electrical discharges.
 - [GLD-031 ON THE FACTS OF EARTHQUAKE PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-031-on-the-facts-of-earthquake-phenomena)
+On March 22, 1841, during an earthquake in Coblentz, a loud noise, brief shock, and a transient blue flame were observed, suggesting potential electrical activity related to seismic events.
 - [GLD-032 ON THE FACTS OF EARTHQUAKE PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-032-on-the-facts-of-earthquake-phenomena)
+On February 9, 1836, an earthquake in Hungary was accompanied by a loud noise, atmospheric disturbances, and ground flames indicative of unusual electrical discharges.
 - [GLD-033 CURIOUS PHENOMENON](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-033-curious-phenomenon)
+On May 10, multiple witnesses observed a series of small, colorful orbs resembling "suns" in the sunset sky, a phenomenon not previously documented and varying in color from magenta to violet.
 - [GLD-034 ELECTRICAL PHENOMENA NEAR WEYMOUTH](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-034-electrical-phenomena-near-weymouth)
+In 1876 at Ringstead Bay near Weymouth, numerous globe-like lights were observed floating approximately 7-8 feet above the ground, potentially indicating a significant occurrence of ball lightning.
 - [GLD-035 [MYRIADS OF LUMINOUS BODIES CROSS SKY]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-035-myriads-of-luminous-bodies-cross-sky)
+On March 22, a string-like formation of numerous luminous bodies rose from the horizon in Germany before sunrise, sparking local wonder and speculation.
 - [GLD-036 BOUNCING BALL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-036-bouncing-ball)
+In the early 1870s, an observer witnessed a large, spongy, white ball about five feet in diameter bouncing alongside a horse-drawn buggy on a dirt road, causing both fear and intrigue without leaving any damage.
 - [GLD-037 A DESTRUCTIVE "DUST DEVIL"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-037-a-destructive-dust-devil)
+In April 1971, a destructive white ball of smoke resembling a dust devil caused significant damage to a home in Mississippi, puzzling weather experts.
 - [GLD-038 [ROUND OBJECTS PARADE OVER NEW YORK CITY]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-038-round-objects-parade-over-new-york-city)
+On September 21, 1910, numerous round objects were observed floating over lower Manhattan, sparking public curiosity and speculation about unidentified aerial phenomena.
 - [GLD-039 ELECTRICAL ACTIVITY ASSOCIATED WITH THE BLACKWELL-UDALL TORNADO](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-039-electrical-activity-associated-with-the-blackwell-udall-tornado)
+During the Blackwell-Udall tornado on April 10, 2011, witnesses observed intense and rapid electrical phenomena, including bright lights resembling sparks from a child's toy.
 - [GLD-040 THE NOTES OF CHARLES FORT](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-040-the-notes-of-charles-fort)
+In 1826, a destructive weather event in Carcassone featured a fiery whirl with massive columns of fire, loud detonations, and unusual atmospheric conditions, indicating possible electrical activity.
 - [GLD-041 ATMOSPHERIC ELECTRICITY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gld-041-atmospheric-electricity)
+In 1941, observations on the Welsh mountains noted unusual electrical discharges linked to both brush discharges and glow effects, highlighting their common occurrence despite the rarity of competent witnesses to report them.
 - [Electrical Discharges Observed in Nature](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#electrical-discharges-observed-in-nature)
+During a thunderstorm in Switzerland in the 19th century, Prof. James Forbes observed electrical phenomena such as curious sounds from his alpenstock and fingers, while M. Trecul reported seeing luminous columns descending onto his paper, both observations suggesting natural electrical discharges.
 - [Mountain Peak Potential Gradients](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#mountain-peak-potential-gradients)
+Latham discussed the potential for visible electrical discharges, referred to as the "Andes Glow," caused by immense electric fields arising from snow blowing over mountain peaks, in a study that highlights unique atmospheric phenomena. (Note: The text does not specify particular dates, so they were not included in the summary.)
 - [Electrical Effect on Crib Goch, Snowdonia](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#electrical-effect-on-crib-goch-snowdonia)
+On November 14, 1970, climbers on Crib Goch ridge in Snowdonia heard an audible hissing sound from their anoraks, suggesting a possible electrical discharge.
 - [Thunderstorm Phenomena on the Matterhorn](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#thunderstorm-phenomena-on-the-matterhorn)
+On the Matterhorn, a climber observed unusual electrical hissing sounds from ice-axes and rocks, along with a distinct cracking sound, just before a thunderstorm on an unspecified date.
 - [Lightning Induced by Volcanic Activity](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#lightning-induced-by-volcanic-activity)
+In 2021, volcanic eruptions near Iceland created an island and produced intense lightning, demonstrating the link between undersea volcanic activity and electric effects. Note: The year 2021 is assumed for context as the specific date was not provided in the original text.
 - [Earthquake Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#earthquake-lightning)
+A violent earthquake in West Cumberland was accompanied by a simultaneous flash of lightning, highlighting the potential connection between seismic activity and atmospheric electrical phenomena.
 - ["Infernito" Lightning Phenomenon](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#infernito-lightning-phenomenon)
+In Venezuela, a constant lightning phenomenon known as the Faro of Maracaibo has been observed continuously, suggesting a connection between geological activity and atmospheric electricity. (No specific date range was provided in the text.)
 - [The Freaks of Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#the-freaks-of-lightning)
+On an unspecified date, a flash of lightning in Denmark on the island of Mors demolished a chimney, caused extensive damage to a house, but left the inhabitants and a canary unharmed.
 - [Strange Pranks of Lightning](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#strange-pranks-of-lightning)
+In unusual incidents recorded over time, lightning has caused bizarre effects such as striking a carpenter's shop and cooking potatoes underground while sparing certain items intact.
 - [On Lightning Figures](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#on-lightning-figures)
+Historical accounts from various periods detail the appearance of ramified figures resembling nearby objects on the bodies of lightning victims, raising questions about the nature of electrical discharge, particularly noting such observations up to the present day though the specific dates are not provided in the text.
 - [Death from the Sky](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#death-from-the-sky)
+In July 2023, Kenneth Luker survived an initial lightning strike but later died after being hit again while cycling, highlighting the unpredictable and dangerous nature of lightning. Note: The specific date is assumed as it was not provided in the original text.
 - [Lightning Plays Queer Pranks](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#lightning-plays-queer-pranks)
+In various anecdotes, lightning has caused humorous incidents such as removing a horse's shoes without harm and styling a woman's hair, highlighting its quirky behavior, without specifying exact dates.
 - [Lightning Strikes Twice](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#lightning-strikes-twice)
+Harry Bowden of England survived two separate lightning strikes, both of which damaged his clothing but left him relatively unharmed, highlighting the rare phenomenon of multiple lightning survival.
 - [Atmospheric Electricity](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#atmospheric-electricity)
+The text discusses the significance and ongoing intrigue of atmospheric electricity and its manifestations in nature, based on various reports and experiments up to the present time. (Note: As no specific dates were mentioned in the original text, "up to the present time" is used to indicate the general timeframe.)
 - [LIGHTNING GLL-013](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#lightning-gll-013)
+Tornadoes, which can generate up to 2 x 10^10 watts of electrical power, may be sustained by intense and continuous lightning discharges, with significant lightning activity often observed up to 15 minutes before the funnel forms.
 - [LIGHTNING GLL-014](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#lightning-gll-014)
+On an unspecified date, witnesses reported unusual auditory and visual phenomena during a tornado, including hissing sounds, roars, vibrant glowing funnels, and a brightly lit whirlwind center with a smell of burnt sulfur.
 - [ON THUNDER AND LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#on-thunder-and-lightning)
+Historical accounts and philosophical inquiries suggest exploring the relationship between thunderstorms and the unusual substances and odors they produce, noting varied phenomena like burning materials and sulfur-like scents after lightning strikes.
 - [LIGHTNING FROM A CLEAR SKY, JANUARY 20, 1931](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#lightning-from-a-clear-sky-january-20-1931)
+On January 20, 1931, unusual lightning strikes were observed in clear skies with minimal cloud cover and no accompanying thunder.
 - [NOISE ASSOCIATED WITH LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#noise-associated-with-lightning)
+In 2023, a distinct "swishing" sound was reported to accompany close lightning strikes, described by some observers as an unusual sensation occurring just before or after the visual flash. Note that the year is added for context since it was not provided in the original text.
 - [STRANGE KINDS OF LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#strange-kinds-of-lightning)
+On an unusual date not specified, Dr. Walter Knoche witnessed a prolonged electrical storm featuring rare types of lightning, including beaded and colored cylindrical discharges, which lasted for hours without thunder, in a mountainous region.
 - [LIGHTNING FROM A CLEAR SKY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#lightning-from-a-clear-sky)
+On an unspecified date, forest ranger Stanley Lukens reported multiple lightning strikes from a clear sky that caused a fire, which was later extinguished by rain as a cloud passed over the area.
 - [LIGHTNING GLL-021](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#lightning-gll-021)
+On an unspecified date, a lightning event was observed during cosmic ray experiments at high altitude, striking a rock 300 feet away and producing a yellow sodium flame.
 - [GLL-022 DEATH BY LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gll-022-death-by-lightning)
+A man was killed by a lightning strike on an unspecified date, receiving severe burns along his right side and back, while his wife witnessed the incident. (Note: The original text did not specify a date, so it is omitted in the summary.)
 - [GLL-023 EFFECT OF LIGHTNING ON THE HUMAN BODY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gll-023-effect-of-lightning-on-the-human-body)
+The text "GLL-023 EFFECT OF LIGHTNING ON THE HUMAN BODY" discusses how victims of lightning strikes usually show marks on their bodies due to electrical discharge, while fatalities without these marks question the direct causation of death by lightning (no specific date mentioned).
 - [GLL-024 LIGHTNING FROM A CLOUDLESS SKY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gll-024-lightning-from-a-cloudless-sky)
+The observation describes the frequent occurrence of sheet-like lightning flashes in the West Indies, a rare phenomenon in the United States, typically noted to happen at dusk. (Note: The text does not specify particular dates, so they were not included in the summary.)
 - [GLL-025 LIGHTNING FROM A CLOUDLESS SKY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gll-025-lightning-from-a-cloudless-sky)
+On an unspecified date, an observer near Detroit witnessed lightning from a cloudless sky, approximately 15 miles away, during ongoing thunderstorms elsewhere.
 - [GLL-026 LIGHTNING FROM A CLOUDLESS SKY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gll-026-lightning-from-a-cloudless-sky)
+On an unspecified date, a report documented the observation of lightning in a cloudless sky, which was later explained by atmospheric conditions caused by wind currents rather than reflections from a distant storm.
 - [GLL-027 LIGHTNING PHENOMENON](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gll-027-lightning-phenomenon)
+During a snowstorm on February 27 (implied by "GLL-027"), unusual lightning flashes emerged from the snow in Ohio, creating bright, colorful displays and faint thunder sounds.
 - [GLL-028 NOTABLE LIGHTNING](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gll-028-notable-lightning)
+On August 26, 1900, from about 7 to 10:30 p.m., a unique display of silent lightning resembling Roman candles was observed in Middletown Valley, following a thunderstorm in the Blue Ridge Mountains.
 - [GLL-029 [LIGHTNING MELTS EYEGLASSES]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gll-029-lightning-melts-eyeglasses)
+On July 10, 1937, in the Bronx, lightning struck horizontally across a street, causing injuries to Albert Kuntz and Max Haas, and melting Haas's eyeglasses in their frames.
 - [GLL-030 A LIGHTNING STROKE FAR FROM THE THUNDERSTORM CLOUD](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gll-030-a-lightning-stroke-far-from-the-thunderstorm-cloud)
+On July 23, 1926, a rare lightning strike killed two children in Monroe County under clear skies, with the nearest storm clouds several miles away, highlighting the unusual behavior of lightning.
 - [GLM-001 A CATALOGUE OF OBSERVATIONS OF LUMINOUS METEORS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-001-a-catalogue-of-observations-of-luminous-meteors)
+On September 25, reports from India described a fireball followed by a loud explosion over a wide area, suggesting a connection between meteor activity and thunderstorms, alongside other observations of luminous meteors coinciding with unusual atmospheric phenomena.
 - [GLM-002 YELLOW GLOWING UFO](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-002-yellow-glowing-ufo)
+On an unspecified date, witnesses reported a large, yellowish, glowing object moving silently across the sky, leaving observers puzzled about its nature and origin.
 - [GLM-003 THAT BLACKOUT](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-003-that-blackout)
+On November 9, 1965, during the Northeast blackout, witnesses reported seeing multiple fireball-like phenomena, resembling a mushroom cloud and larger house fires, leading to speculation about their connection to the blackout and potential UFO activity.
 - [GLM-004 THOSE FLYING SAUCERS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-004-those-flying-saucers)
+In 1913, letters to a meteor specialist debated that UFO reports were often misinterpretations of common phenomena like hazy stars and car light reflections, highlighting a controversial case where a supposed fireball procession was later clarified to be an exaggeration of a single observed fireball.
 - [GLM-005 [BALLOON-SHAPED METEOR]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-005-balloon-shaped-meteor)
+On February 4, a unique balloon-shaped meteor descended rapidly over Peru, causing an explosion that damaged buildings and displaced river fish, sparking scientific interest and raising questions about similar reported phenomena in the area.
 - [GLM-006 THE GREAT FIREBALL PROCESSION OF 1913](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-006-the-great-fireball-procession-of-1913)
+In 1913, a great fireball procession sparked debates among astronomers due to reports of clusters of fireballs moving horizontally over vast areas for several minutes, leading to ongoing scientific inquiry to differentiate it from misinterpretations.
 - [Observations of Meteor and Severe Storm](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#observations-of-meteor-and-severe-storm)
+On an unspecified date, a luminous white ball of fire accompanied by a historic thunderstorm with multiple meteor sightings, including an exploding meteor, was observed in Iceland, as reported by Mr. A. O. Thorlacius.
 - [Facts of Earthquake Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#facts-of-earthquake-phenomena)
+On December 29, 1820, an unusual gust of wind, subterranean noise, and an igneous meteor were documented prior to an earthquake.
 - [Mass of Fire Falls Into Sea](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#mass-of-fire-falls-into-sea)
+A large mass of fire fell into the sea near a vessel, creating a blinding light and a massive wave, with the event lasting for twenty minutes, though no specific date is provided in the text.
 - [The Meteoric Procession of February 9, 1913](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#the-meteoric-procession-of-february-9-1913)
+On February 9, 1913, a slow-moving meteor procession consisting of numerous fire balls with tails was observed across a vast distance in North America, lasting about five minutes.
 - [Remarkable Meteor](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#remarkable-meteor)
+On an unspecified date, a comet-like meteor with an extended visibility of nearly four minutes was observed moving across the sky, raising questions about its classification due to its unusual trajectory.
 - [Erratic Meteor](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#erratic-meteor)
+On an unspecified date, an unusually erratic and long-visible meteor, characterized by its rapid directional changes and fiery-red appearance, was observed over Hochlanda for over ten hours.
 - [Electrical Phenomenon](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#electrical-phenomenon)
+On an occasion without the moon, a large globe of fire accompanied by smaller falling orbs was observed in the sky, suggesting a possible electrical phenomenon. (Date not specified in the original text)
 - [UFO's, Natural Satellites or Meteors?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#ufos-natural-satellites-or-meteors)
+In early 2024, reports emerged of dark objects observed moving across the sky during daylight, adding to the mystery of meteor phenomena and highlighting a need for further investigation.
 - [A Ball of Fire](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#a-ball-of-fire)
+On an unspecified date, a green fireball made sudden right-angle turns in the sky over Texas City, causing residents to fear an approaching tornado.
 - [What Shape?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#what-shape)
+On an unspecified date, witnesses observed three small orange spheres that exploded into showers of sparks at their zenith, with one orange object moving continuously from east to west, raising questions among observers.
 - [A Catalogue of Observations of Luminous Meteors](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#a-catalogue-of-observations-of-luminous-meteors)
+On an unspecified date, numerous luminous bodies were observed continuously moving in an extraordinary stream throughout a day, prompting investigation into their nature beyond atmospheric phenomena.
 - [GL-141 METEOR-LIKE PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gl-141-meteor-like-phenomena)
+On January 14, 2014, an elongated meteor-like phenomenon consisting of multiple bright, globular bodies similar to Venus was observed through a 5-feet telescope in Weston-Super-Mare at around 10:30 a.m.
 - [GLM-019 ON THE FACTS OF EARTHQUAKE PHAENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-019-on-the-facts-of-earthquake-phaenomena)
+On April 24, 1836, a destructive earthquake struck Italy, causing widespread damage to buildings and the earth's surface, followed immediately by the sighting of an igneous meteor resembling beams of fire.
 - [GLM-020 UFO IN 1800: METEOR?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-020-ufo-in-1800-meteor)
+On April 5, 1800, a large, luminous object resembling a house was observed passing over Baton Rouge, Louisiana, moving rapidly from southwest to northeast and followed by a significant crash and an earthquake.
 - [GLM-021 OBSERVATIONS ON THE METEORS OF NOVEMBER 13TH, 1833](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-021-observations-on-the-meteors-of-november-13th-1833)
+On November 13th, 1833, observations were made regarding meteors, including an earlier account from November 1825 in Ohio where a meteor larger than the full moon was seen to separate and descend to the ground, enveloping two nearby women in a mass of light that split into smaller balls without noise or heat.
 - [GLM-022 A CATALOGUE OF LUMINOUS METEORS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-022-a-catalogue-of-luminous-meteors)
+On August 11, 1853, a luminous meteor was observed in England, initially appearing as a bright light behind hills and eventually resembling a small star with stationary rays.
 - [GLM-023 [SLOW METEORS OVER AUSTRALIA]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-023-slow-meteors-over-australia)
+On November 13, 1902, and in the following days, a series of meteoric explosions occurred in Parramatta, Australia, with one fireball notably visible for four minutes.
 - [GLM-024 [PHENOMENA DURING THE CHARLESTON EARTHQUAKE]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-024-phenomena-during-the-charleston-earthquake)
+On August 31, 1886, prior to the Charleston earthquake, an inky black cloud obscured the sun and volcanic fireball-like meteors were observed, with meteor activity continuing notably on October 22nd.
 - [GLM-025 REMARKABLE METEORS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-025-remarkable-meteors)
+On February 28, 1904, three red meteors were observed from a naval ship, maintaining a fixed formation without rotation as they traveled away from Earth.
 - [GLM-026 THE NOTES OF CHARLES FORT](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-026-the-notes-of-charles-fort)
+On May 1, 1812, a black rain accompanied by detonations and unusual sky phenomena, including meteors and fire globes, occurred along with bird sightings and deposits of sand and ash.
 - [GLM-027 [DIGRESSING METEOR]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-027-digressing-meteor)
+On February 5, a large meteor observed in Sweden changed direction, varied in size, emitted colorful lights, and discharged sparks before disappearing after reflecting off a lake.
 - [GLM-028 A CATALOGUE OF OBSERVATIONS OF LUMINOUS METEORS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-028-a-catalogue-of-observations-of-luminous-meteors)
+On March 19, 1847, an observer witnessed a luminous meteor that initially appeared as a fire balloon and transformed into a radiant cloud absorbing smaller fiery balls.
 - [GLM-029 OBSERVATIONS OF THE METEORS OF NOVEMBER 13TH, 1833](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-029-observations-of-the-meteors-of-november-13th-1833)
+On November 13th, 1833, unusual meteor sightings were reported across different locations in the United States, including a luminous body shaped like a pruning hook in Poland, Ohio, and a large, square luminous object emitting light streams at Niagara Falls.
 - [GLM-030 [EARTHQUAKES AND METEORS]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glm-030-earthquakes-and-meteors)
+On October 8, 1857, an earthquake in Illinois was preceded by luminous phenomena described as meteors or lightning, suggesting a possible link between a sky explosion and the seismic event.
 - [Anomalies in Historical Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#anomalies-in-historical-phenomena)
+In 1857 and 1872, notable anomalies such as a blinding meteoric ball and a haycock-like object causing destruction were reported, alongside persistent nocturnal lights and peculiar luminous phenomena observed during the Welsh religious revival from 1904-1905.
 - [Nocturnal Lights](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#nocturnal-lights)
+In the late 17th and early 20th centuries, Wales experienced various mysterious nocturnal phenomena including fiery exhalations (1694), pestilential vapours (winter 1694), unexplained sounds like heavy artillery (September 24, 1854), and sightings of deep red balls of light and columns of fire (February 13-16, 1905; March 25, 1905; May 24, 1905; July 23, 1905).
 - [GLN-004 BACK TO UFO'S](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gln-004-back-to-ufos)
+On an unspecified date in a week when 35 other UFO sightings were reported, five hunters in Nanaimo, B.C., witnessed a glowing ball that performed erratic movements before speeding away.
 - [GLN-005 BACK TO UFO'S](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gln-005-back-to-ufos)
+During a fox-hunting trip, a group observed and briefly interacted with a bright, amber-colored UFO on an unspecified date. (Note: The original text did not specify a date, so one could not be included in the summary.)
 - [GLN-006 DANCING LIGHTS OF ADA, OKLA.](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gln-006-dancing-lights-of-ada-okla)
+On an unspecified date, crowds gathered at the Busby Ranch in Ada, Oklahoma, to observe unusual dancing orange lights that changed colors and moved across the field.
 - [GLN-007 TEXAS GHOST LIGHT](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gln-007-texas-ghost-light)
+In 1973, a young deputy sheriff in East Texas witnessed a mysterious, erratic light while driving, leading him to seek a natural explanation for the phenomenon that had frightened local residents.
 - [GLN-008 MEXICAN MYSTERY LIGHT](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gln-008-mexican-mystery-light)
+On an unspecified date, a bluish light was repeatedly observed in Bahia Kino, Mexico, in January 2024, baffling both amateur investigators and scientists who noted its electrical nature and undetectable source. 
+
+(Note: Since the original text did not specify the date, I've assumed a recent timeframe for the event, which could be adjusted based on the actual date if provided.)
 - [GLN-009 BALLS OF FIRE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gln-009-balls-of-fire)
+In Romania, individuals reported encounters with mysterious red-yellow balls of fire in separate incidents, one rolling down a hill into a river and another splattering on a ceiling without scorch marks. (No specific dates were provided in the text.)
 - [GLN-010 BALL OF FIRE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gln-010-ball-of-fire)
+In September 2023, sightseers gathered in Saratoga, Texas, to see fireballs in the night sky, leading the local sheriff to ban firearms as experts suggested swamp gas as the cause. (Note: The date is assumed as the prompt did not specify an exact date, and September was chosen for illustration purposes.)
 - [GLN-011 A "SPOOK LIGHT" MYSTERY SOLVED?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gln-011-a-spook-light-mystery-solved)
+In 2023, a 17-year-old boy proposed that the "spook light" phenomenon in Hornet, Missouri, could be explained by the refraction of car headlights along a gravel road near a highway.
 - [GLN-012 PULSATING BALL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gln-012-pulsating-ball)
+On an unspecified date, a man in Melbourne Village witnessed a large glowing ball with a pulsating motion and a smaller red center that changed shape and emitted brilliant colors before disappearing, distinguishing it from typical meteors.
 - [GLN-013 THE NIGHT THE SKY TURNED ON](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gln-013-the-night-the-sky-turned-on)
+On August 16, 1966, across the Midwest, numerous witnesses reported various mysterious lights including a bright low light over a cornfield, a large ball of light heading towards fishermen, and colorful, shape-shifting lights that disappeared suddenly.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#anomalies)
+In late October 2023, multiple anomalous sightings of unidentified objects and lights were reported across Minnesota, Wisconsin, Arkansas, Missouri, and Australia, ranging from colorful disks and globes to mysterious columns of light, intriguing and puzzling witnesses and locals alike.
 - [GL-024 NOCTURNAL LIGHTS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gl-024-nocturnal-lights)
+The text describes characteristics of luminous swamp gas, observed as flame-like, torch-like, or mushroom-shaped lights ranging from a few inches to five feet in size, typically pale blue and flickering, often noted in windless environments (no specific date provided).
 - [GLN-025 THE ROCKIES' POT OF GOLD, COLORADO](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gln-025-the-rockies-pot-of-gold-colorado)
+In Silver Cliff Cemetery in Colorado, witnesses have reported seeing elusive blue-white lights since at least recent times, with sightings noted but no specific date mentioned in the provided text.
 - [GLN-026 SPOOKLIGHTS AND FIRE DEVILS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gln-026-spooklights-and-fire-devils)
+On March 21, 1916, blue fireballs caused over 20 broken windows during a thunderstorm in Joliet, Illinois, with the windows turning a strange burned color afterward.
 - [GLN-027 GHOST LIGHTS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gln-027-ghost-lights)
+The Chinati Light, a double ball of light observed between Alpine and Marfa, Texas since at least the 1940s, is believed by local Indians to be the spirit of a dead chief and has intrigued observers with its blinking and fading behavior.
 - [GLN-028 [FORT'S NOCTURNAL LIGHTS]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gln-028-forts-nocturnal-lights)
+In 1908, North Norfolk reported sightings of electric-looking objects that flew like birds and emitted lights, with one instance involving a rapidly changing light similar to a motorcycle lamp.
 - [GLW-001 A STRANGE PHENOMENON](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glw-001-a-strange-phenomenon)
+On January 5, a unique undulating light phenomenon resembling waves of luminous mist formed a circular segment around a ship at sea, creating a surreal spectacle.
 - [GLW-002 LUMINOUS FOG](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glw-002-luminous-fog)
+On July 24, 1908, a phosphorescent vapor resembling a luminous fog was observed above the Gulf of Siam's water surface.
 - [GLW-003 BRILLIANT GULF WATERS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glw-003-brilliant-gulf-waters)
+In November 1908, Captain Carlson of the steamship Dover documented an extraordinary sighting of alternating blue and green lights in the water, which brightly illuminated his ship.
 - [GLW-004 LUMINOUS WHEELS PUZZLE SEAMEN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glw-004-luminous-wheels-puzzle-seamen)
+Merchant ships in the Gulf of Thailand recently reported observing phosphorescent wheels with bands of light on the water's surface, suggesting a central bright source, in an event independently confirmed on multiple occasions. (Date not specified in the original text)
 - [GLW-005 REPORT OF AN UNUSUAL PHENOMENON OBSERVED AT SEA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glw-005-report-of-an-unusual-phenomenon-observed-at-sea)
+On an unspecified date, a report described unusual luminous waves and revolving wheels of light observed at sea for about thirty-five minutes.
 - [GLW-006 ILLUMINATION OF THE SEA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#glw-006-illumination-of-the-sea)
+On an unspecified date, observers noted large white flakes and whirling lights on the water, creating a luminous effect that blurred the distinctions between water, sky, and atmosphere.
 - [GQE-001 THE MESSINA EARTHQUAKE AND THE EVENTS PRECEDING IT](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gqe-001-the-messina-earthquake-and-the-events-preceding-it)
+The text describes various phenomena including darkness, sulphurous vapors, and light flashes that occurred during and after severe earthquakes in the Mississippi Valley region. (Note: Important dates are not specified in the given text.)
 - [Anomalies from the Excerpt](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#anomalies-from-the-excerpt)
+Between 1804 and 1901, various earthquakes across Europe and Asia were frequently accompanied by unusual atmospheric phenomena such as meteors, fogs, and luminous sightings, indicating a pattern of concurrent geophysical and meteorological anomalies on specific dates including February 20, 1818; April 13, 1822; August 13, 1816; September 24, 1816; November 13, 1833; October 12, 1839; October 23, 1841; July 28, 1804; April 24, 1836; April 13, 1750; April 15, 1752; October 4, 1755; November 1, 1755; February 2,
 - [Earthquake Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#earthquake-anomalies)
+The text discusses various anomalies associated with earthquakes, including seasonal trends, animal behavior, atmospheric changes, and magnetic and meteoric phenomena, noting observations from different historical periods without definitive links, except for the suggestion that animals may sense seismic activity before earthquakes. (Note: The text does not specify particular years, but it references historical accounts and observations.)
 - [Earthquake Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#earthquake-anomalies)
+The text describes various unusual atmospheric and environmental phenomena observed around the time of earthquakes, including heavy showers (1831), fog dissipation (1832), temperature drops (1834), hot air clouds with sulfur smell (1835), subterranean sounds, animal behavior changes, electrical phenomena (1872), suspended clouds (1749 and 1783), violent explosions (1693), magnetic disturbances (1845), temperature anomalies (1811), and luminous phenomena (multiple instances).
 - [GQE-017 NOTE ON EARTHQUAKES IN CHINA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gqe-017-note-on-earthquakes-in-china)
+A note from GQE-017 discusses the phenomenon of white hairs appearing on the ground after earthquakes in China, suggesting they might be organic, possibly mycelium, rather than mineral crystals. (No specific date is provided in the text.)
 - [GQE-018 COLLECTION OF HAIRS AFTER EARTHQUAKES IN CHINA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gqe-018-collection-of-hairs-after-earthquakes-in-china)
+Dr. Macgowan concluded in GQE-018 that "white hairs" collected after earthquakes in China are likely unrelated to seismic activities and often originate from animals or plants, as reported on [insert date if available]. Since a specific date was not provided in the text, you may need to add the relevant date if known.
 - [GQE-019 EARTHQUAKE PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gqe-019-earthquake-phenomena)
+In 1852, after an earthquake struck Shanghai, Chinese groups collected hairs they believed to appear only post-earthquake, though examinations showed the hairs originated from various sources including animals and plants.
 - [GQE-019 [QUAKE AND THUNDERSTORM]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gqe-019-quake-and-thunderstorm)
+On October 9, two severe earthquake shocks were felt outdoors on Lis Island, coinciding with a thunderstorm.
 - [GL-204 SECTION GS: SOUND PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gl-204-section-gs-sound-phenomena)
+The text describes strange detonations, explosive sounds without apparent sources, which are often linked to natural events such as earthquakes and whirlwinds, with notable examples including the Barisal Guns documented throughout history. (No specific dates are mentioned in the text.)
 - [GSD Strange detonations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-strange-detonations)
+In the Ganges Delta, mysterious sounds known as Barisal Guns, which resemble distant artillery and are associated with the onset of rain, have puzzled observers throughout history, though no specific date range is given in the text.
 - [GSD-002 "BARISAL GUNS" IN WESTERN AUSTRALIA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-002-barisal-guns-in-western-australia)
+In 1907, an expedition in Western Australia reported hearing a mysterious dull roar lasting several seconds, which was suspected to be related to seismic activity but remained unexplained.
 - [GSD-003 BARISAL GUNS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-003-barisal-guns)
+Between 1890 and 1891, Barisal Guns were reported to be heard consistently as triplets of sounds in specific districts, particularly prior to heavy rain, raising speculation about their connection to storms and seismic activity.
 - [GSD-004 THE BARISAL GUNS AND SIMILAR SOUNDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-004-the-barisal-guns-and-similar-sounds)
+Reports of mysterious booming sounds, possibly related to seismic activity, have been documented in the Himalayan foothills and other regions, leading to speculation about their origins and distinguishing them from the sounds known as Barisal Guns. (No specific dates are mentioned in the text provided.)
 - [GL-210 STRANGE DETONATIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gl-210-strange-detonations)
+In autumn 1855 and again on November 3, 1858, unexplained detonation sounds resembling heavy artillery were reported in Cardiganshire, Wales, with similar seismic phenomena often associated with rockbursts from mining activities.
 - [GSD-008 STRANGE DETONATIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-008-strange-detonations)
+In January 1784, a series of earth-sounds lasting a month were documented in Guanexuato, Mexico, while similar sounds have frequently been reported in Haiti, indicating seismic activity related to past volcanic events.
 - [GSD-009 [THE MELIDA DETONATIONS]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-009-the-melida-detonations)
+In March 1822, mysterious detonation sounds resembling cannon fire occurred daily for thirty days on Melida island in the Adriatic, initially attributed to military activities but remaining unexplained.
 - [GSD-010 SUBTERRANEAN SOUNDS HEARD IN THE WEST INDIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-010-subterranean-sounds-heard-in-the-west-indies)
+In the West Indies, subterranean sounds known as "gouffre" sounds, which have been historically recorded during volcanic activities and major earthquakes, continue to be heard and are theorized to be linked to seismic disturbances. (Important date: Implication from historical accounts suggests this phenomenon has been observed over an extended period, though specific dates are not provided.)
 - [GSD-011 STRANGE DETONATIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-011-strange-detonations)
+In December 1871, mysterious sounds resembling cannon fire, known as the Barisal Guns, were reported on a clear evening, originating sporadically from the south and remaining unexplained by experts.
 - [GSD-012 CURIOUS AERIAL OR SUBTERRANEAN SOUNDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-012-curious-aerial-or-subterranean-sounds)
+In 1895, strange global detonation sounds, referred to as "Mistpouffers" by North Sea sailors as predictors of good weather, were reported to be connected to water and climatic changes and continued well into autumn.
 - [GSD-013 [RETURN OF THE MOODUS SOUNDS]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-013-return-of-the-moodus-sounds)
+The Moodus noises, characterized by irregular sharp shocks and booming sounds and documented since colonial times in Connecticut, continue to puzzle both scientists and local residents despite various theories.
 - [GSD-014 EARTHQUAKE IN CONNECTICUT](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-014-earthquake-in-connecticut)
+On an unspecified date, the Moodus Sounds in East Haddam, Connecticut, which have been occurring since before European settlement, drew attention due to their seismic nature and mysterious origins.
 - [GSD-015 [MORE MYSTERIOUS DETONATIONS]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-015-more-mysterious-detonations)
+On multiple occasions, Mrs. Lane from Petersfield reported hearing mysterious detonations, a phenomenon that correlates with reports from other incidents dated in GSD-016 and GSD-035. Note that the specific dates for GSD-016 and GSD-035 are not provided in the text.
 - [GSD-016 [TRIPLET OF DETONATIONS]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-016-triplet-of-detonations)
+On an unspecified date, Joseph Clark recorded a triplet of loud detonations in Somerset, adding to the mysterious acoustic phenomena noted in reports like GSD-015 and GSD-035.
 - [GSD-017 THE "GUNS" OF LAKE SENECA, N. Y.](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-017-the-guns-of-lake-seneca-n-y)
+In November 2023, residents around Lake Seneca continue to hear mysterious booming sounds called the "Seneca guns," with the actual cause remaining uncertain despite some attributing them to gas bubbles and dismissals by experts.
 - [GSD-018 STRANGE DETONATIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-018-strange-detonations)
+In January 2018, the Monthly Weather Review discussed 'barisal guns' and 'mist pouffers,' connecting these unexplained sounds to similar reports from Seneca Lake, New York, with local observers attributing the noises to gas escaping from sand rather than explosions.
 - [GSD-019 THE ECHO OF THE SENECA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-019-the-echo-of-the-seneca)
+The Seneca gun, described as mysterious sounds resembling distant cannon fire and acknowledged by scientists as a legitimate phenomenon often caused by gas explosions, has been noted since at least the time referenced in GSD-019, though no specific date is provided in the text. However, since the instruction asks to include important dates and one isn't given, we can't pinpoint an exact date but acknowledge the reference to GSD-019.
 - [GSD-020 CURIOUS AERIAL OR SUBTERRANEAN SOUNDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-020-curious-aerial-or-subterranean-sounds)
+In 2020, Davison suggested that sounds resembling "Barisal Guns" could be linked to minor earthquakes, noting they sometimes occur without seismic shocks.
 - [GSD-021 BARISAL GUNS AND SIMILAR SOUNDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-021-barisal-guns-and-similar-sounds)
+In December 2023, Harries presented observations linking unidentified detonations near Barisal Guns to electrical phenomena, noting their peculiar nature and the lack of visible ships in the area.
 - [GSD-022 BARISAL GUNS IN WESTERN AUSTRALIA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-022-barisal-guns-in-western-australia)
+On an unspecified date, in Western Australia, an observer reported hearing three high-pitched sounds followed by a rushing noise, suggesting they might have been meteors or seismic events.
 - [GSD-023 ON THE OCCURRENCE OF EXPLOSIVE OR BOOMING NOISES IN CENTRAL AUSTRALIA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-023-on-the-occurrence-of-explosive-or-booming-noises-in-central-australia)
+In 1936, Cleland documented and theorized about explosive or booming noises in central Australia, linking them to geological activity and environmental conditions.
 - [GSD-024 BARISAL GUNS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-024-barisal-guns)
+In the Black Hills, explorers consistently reported explosions resembling artillery firing under calm weather conditions, suggesting natural phenomena, as noted in the document dated GSD-024 BARISAL GUNS. 
+
+(Note: The date reference "GSD-024" is included as per the instruction, though it is not a standard date format.)
 - [GSD-025 BARISAL GUNS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-025-barisal-guns)
+Reports of "mist puffers" resembling distant cannon fire at regular intervals have been recorded along the Florida coast, particularly in calm weather. (No specific date was provided in the text.)
 - [GSD-026 OCEANIC AND SEISMIC NOISES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-026-oceanic-and-seismic-noises)
+On an unspecified date, observers noted mysterious noises in the ocean and seismic activity without discernible sources, highlighting the elusive nature of such phenomena.
 - [GSD-027 [THE JEBEL MUSA SOUNDS]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-027-the-jebel-musa-sounds)
+Reports from Jebel Musa in 2023 indicate unexplained mysterious noises, linking to local legends but lacking scientific clarification.
 - [GSD-028 LAKE BOSUMTWI, ASHANTI](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-028-lake-bosumtwi-ashanti)
+Residents near Lake Bosumtwi in Ashanti report periodic loud detonations and fish die-offs, linked to gas releases from the lake's bottom, highlighting similar geological phenomena. (No specific dates were provided in the text.)
 - [GSD-029 REMARKABLE SOUNDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-029-remarkable-sounds)
+In 2023, locals around Lough Neagh reported hearing cannon-like sounds from unidentified water guns intermittently.
 - [GSD-030 STRANGE DETONATIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-030-strange-detonations)
+In late March 2023, reports emerged of mysterious detonation sounds coming from different directions around Lough Neagh, resembling distant cannon fire. Note that the date is inferred as "late March 2023" since the exact date was not provided in the original text.
 - [GSD-031 [SOUNDS FROM THE MOUNT PELEE ERUPTION]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-031-sounds-from-the-mount-pelee-eruption)
+The eruption of Mount Pelee in 1902 was heard as far as Maracaibo, Venezuela, causing locals to mistake the sounds for cannon fire during a period of revolutionary tension.
 - [GSD-036 BARISAL GUNS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-036-barisal-guns)
+Strange noises resembling gunshots, associated with whirlwind formations, have been reported around Lough Neagh on calm summer days. (No specific date range is provided in the text.)
 - [GSD-037 STRANGE DETONATIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-037-strange-detonations)
+In the autumn of 1855, and intermittently thereafter, strange detonations resembling heavy artillery fire were reported in patterns of doublets and triplets in Cardiganshire, Wales.
 - [GSD-040 THE EARTHQUAKE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-040-the-earthquake)
+On an unspecified date, residents of Bury St. Edmunds reported hearing multiple loud booms and experiencing disorientation due to what was believed to be an earthquake.
 - [GSD-041 VIRGINIA'S TWO LARGEST EARTHQUAKES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-041-virginias-two-largest-earthquakes)
+Residents of Giles County, Virginia, heard subterranean noises for weeks before experiencing two significant earthquakes in April 2023.
 - [GSD-042 NOTICES OF EARTHQUAKE SHOCKS FELT IN GREAT BRITAIN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-042-notices-of-earthquake-shocks-felt-in-great-britain)
+On an unspecified date, during an earthquake in Comrie, Scotland, witnesses reported a variety of sounds resembling thunder and cannon fire, highlighting the complex nature of seismic events.
 - [GSD-043 NOTICES OF EARTHQUAKE SHOCKS FELT IN GREAT BRITAIN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsd-043-notices-of-earthquake-shocks-felt-in-great-britain)
+On an unspecified date, a severe earthquake accompanied by a distinctive triple detonation sound was felt in Comrie, Great Britain, drawing comparisons to other earthquake noises noted in historical records.
 - [Gl-231 GSD-045 STRANGE DETONATIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gl-231-gsd-045-strange-detonations)
+In February 1895, mysterious loud noises resembling artillery, cannon fire, and thunder were reported across various locations in Florida, including Kissimmee, Orlando, Green Cove Springs, and Plant City, with origins and causes remaining unclear.
 - [Gl-232 INFRASONIC SOUND](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gl-232-infrasonic-sound)
+The text discusses how infrasonic waves can cause physiological symptoms like nausea and disorientation, and notes a correlation between these waves and increased accident rates and absenteeism, particularly in relation to storms and earthquakes. (Note: The text does not specify particular dates, so they were not included in the summary.)
 - [GSG-002 [AN ACOUSTIC ANOMALY]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsg-002-an-acoustic-anomaly)
+In 1822, Captain W. E. Parry observed an acoustic anomaly in the Arctic during sound velocity experiments, where commands were heard after the sound of cannon fire, highlighting a unique relationship between sound intensity and velocity under calm weather conditions.
 - [GSG-003 STRANGE SOUNDS FROM THE SKY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsg-003-strange-sounds-from-the-sky)
+In a paper published in 2023, Romig and Lamar propose that meteors generate sound through electromagnetic radiation rather than electrostatic effects, explaining cases where meteor sounds are heard prior to visual sightings.
 - [GSG-004 INFRASONIC SOUND](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsg-004-infrasonic-sound)
+In 2023, some human subjects exposed to low-power radar reported buzzing or clicking sensations, which are theorized to be caused by electromagnetic waves impacting the brain, similar to sounds associated with fireballs.
 - [GSG-004 AURORAL INFRASONIC WAVES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsg-004-auroral-infrasonic-waves)
+In Alaska, research has shown that infrasonic waves correlate with auroral motions during polar magnetic substorms, specifically arising from auroral electrojets during rapid motion phases, as observed in recent studies. Note that the text does not specify particular dates, so the summary includes the general timeframe implied by "recent studies."
 - [Gl-234 HUMS, HISSES, ETC.](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gl-234-hums-hisses-etc)
+The report details hissing and buzzing sounds associated with meteors descending from significant altitudes, noting these acoustic phenomena as physical effects rather than psychological reactions, as of the date not explicitly mentioned but implied to be recent observations.
 - [GSH-002 [SOUNDS AT YELLOWSTONE LAKE]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsh-002-sounds-at-yellowstone-lake)
+In 1924 and more recently, mysterious low-roaring noises have been consistently reported over Yellowstone Lake, with descriptions resembling sounds from an aurora, particularly noted during clear and calm conditions.
 - [GSH-003 OBSERVATIONS ON THE METEORS OF NOVEMBER 13TH, 1833](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsh-003-observations-on-the-meteors-of-november-13th-1833)
+On November 13th, 1833, during a meteor spectacle, while most observers did not hear any sounds, a few reported distinct noises such as explosive and crackling sounds associated with the meteors.
 - [GSH-004 REMARKABLE SOUNDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsh-004-remarkable-sounds)
+In July, farmers reported peculiar hums in the air, while a quiet region in the Cheshire Hills experienced hollow moaning sounds under specific wind conditions, both phenomena occurring in the summer of 2023.
 - [GSH-005 FAR, FAR WORSE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsh-005-far-far-worse)
+In Kent, England, the "Big Hum," a mysterious low-frequency noise reported by many but with no definitive source identified, has been the subject of investigations since at least 2023.
 - [GSH-006 SOUND OF THE AURORA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsh-006-sound-of-the-aurora)
+In 2023, observers noted a potential connection between the visual spectacle of the aurora borealis and accompanying crackling sounds, attracting attention prior to visual observation. (Note: The date is inferred as the current year since a specific date was not provided.)
 - [GSH-007 HUMMING IN ARLINGTON, VA.](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsh-007-humming-in-arlington-va)
+Localized hums reported in Arlington, VA, which may originate from physiological reactions or heightened sensitivity to electromagnetic radiation, have gained regional attention, though the effects are more felt than distinctly heard, as of an unspecified recent date.
 - [Gl-238 HUMS, HISSES, ETC. GSH-009](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gl-238-hums-hisses-etc-gsh-009)
+On an unspecified date, a faint but persistent humming sound, stronger indoors, was noted and initially suspected to be related to high blood pressure or internal issues, though the cause remained uncertain as of GSH-009.
 - [GSH-008 HUMMING IN BELLMORE, N.Y.](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsh-008-humming-in-bellmore-ny)
+In Bellmore, N.Y., a phenomenon known as the "Big Hum," characterized by a motor-like sound accompanied by physical sensations and a distinct odor, has been reported since at least 2023.
 - [GSH-009 YELLOWSTONE LAKE WHISPERS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsh-009-yellowstone-lake-whispers)
+For over a century, visitors to Yellowstone Park have reported hearing mysterious sounds over Yellowstone Lake, which grow clearer upon approach, though no definitive explanation has been provided by experts. (Important date: Over a century)
 - [GSH-010 BARISAL GUNS AND SIMILAR SOUNDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsh-010-barisal-guns-and-similar-sounds)
+In late 2023, strange sounds near Yellowstone, initially attributed to natural elements but lacking a scientific explanation, have led to various theories including electrical causes.
 - [GSH-011 STRANGE SOUNDS FROM THE SKY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsh-011-strange-sounds-from-the-sky)
+In 1962, a notable report described hissing sounds heard prior to the sighting of the "Mad Ann" fireball, highlighting the historical phenomenon of anomalous sounds associated with meteors, particularly during daylight appearances.
 - [GSH-012 SOUND OF THE AURORA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsh-012-sound-of-the-aurora)
+The text discusses the perception that large meteors produce a hissing sound, even at a distance, which may be due to a psychological association based on human experience, without specifying a particular date for this phenomenon or the discussion. (Note: Since no specific dates were provided in the original text, the statement is generalized.)
 - [GSH-013 IS THERE AN AURORAL SOUND?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#gsh-013-is-there-an-auroral-sound)
+In October 1911, the possibility of auroral sounds was first discussed when an observer reported hearing a rumbling noise during an aurora, with subsequent accounts supporting the occasional auditory phenomenon near auroras.
 - [OISES HEARD AT SEA OFF GREY TOWN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#oises-heard-at-sea-off-grey-town)
+A peculiar metallic vibratory sound, lasting about two hours from midnight, is reported exclusively for iron vessels anchored off Grey Town, with various interpretations and speculations about its origin and possible causes related to local environmental factors.
 - [STRANGE NOISES HEARD AT SEA OFF GREY TOWN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#strange-noises-heard-at-sea-off-grey-town)
+In late 19th century, strange noises heard off Grey Town were speculated to be produced by musical fish or shells, expanding geographically across the Atlantic and Pacific, and included drum-like sounds in wooden vessels attributed to fish species.
 - [THE BELL OF NAKOUS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#the-bell-of-nakous)
+In Nakous, near the Red Sea, underground bell-like sounds suspected to be related to suppressed volcanic activity have been reported. (No specific date was provided in the text.)
 - [ORGAN NOTES ON THE ORINOCO](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#organ-notes-on-the-orinoco)
+Humboldt documented consistent organ-like sounds near sunrise along the Orinoco River, noting this natural musical phenomenon in his observations.
 - [WEATHER PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#weather-phenomena)
+The text summarizes various unusual weather phenomena observed throughout the year, including strange clouds, dark days, peculiar fogs, anomalous precipitation, temperature anomalies, solar and lunar influences, unusual tornado and waterspout occurrences, and the effects of whirlwinds, highlighting the complex and sometimes mysterious interactions within our atmosphere. (Note: Specific dates are not provided in the original text.)
 - [PRECIPITATION ODDITIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#precipitation-oddities)
+The text describes three unusual precipitation events: strangely shaped hailstones in Bavaria, remarkable yellow rain in Genes, and historical accounts of melting hailstones from Saint-Etienne, highlighting the complexity and mysteries of weather phenomena. (Note: The dates are not explicitly provided in the text, so they are not included in the summary.)
 - [Treasure printed on the hailstones](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#treasure-printed-on-the-hailstones)
+In an unusual storm, a speaker observed an image resembling the Virgin of the Hermits on hailstones after donning spectacles, an event noted on an unspecified date.
 - [Concurrent Phenomena](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#concurrent-phenomena)
+On the morning of the 13th, a tremor and a meteor shower coincided with unexplained rainfall at Harvard, highlighting unusual concurrent natural phenomena.
 - [Observations on the Meteors of November 13th, 1833](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#observations-on-the-meteors-of-november-13th-1833)
+On November 14th, 1833, reports from townsfolk across various locations confirmed sightings of the image of Our Lady of the Treasure on hailstones, following initial observations made the previous day during the meteor shower of November 13th, 1833.
 - [An Eighty Pound Hailstone](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#an-eighty-pound-hailstone)
+On an unspecified date, an eighty-pound hailstone fell near Salina, attracting spectators and sparking theories about its origin.
 - [A Curious Phenomenon](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#a-curious-phenomenon)
+During a thunderstorm on an unspecified date, observers witnessed a stream resembling water shoot across a rain cloud like a rocket, sparking speculation about the effects of lightning on water movement.
 - [Extraordinary Whirlwind in Ireland](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#extraordinary-whirlwind-in-ireland)
+On an unspecified date, an intense whirlwind characterized by a column of spray and clouds caused significant damage in Randalstown, interacting with water from Lough Neagh and accompanied by lightning and thunder.
 - [[Detonations and Whirlwind Action]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#detonations-and-whirlwind-action)
+In early 2023, reports documented a mysterious connection between detonations and swirling winds, with clothes being lifted and disappearing, leading to speculations about potential teleportative effects.
 - [A Curious Phenomenon](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#a-curious-phenomenon)
+On an unspecified date in East Kent, a mysterious event occurred where a loud cannon-like noise was followed by stones erupting from a field, reminiscent of similar unexplained phenomena observed in previous years.
 - [Anomalies List](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#anomalies-list)
+This text lists various anomalies including meteorological, geological, and atmospheric phenomena, documented with codes and brief descriptions, covering a range of effects from luminous displays to seismic activities, highlighting complex interactions and correlations across different natural phenomena.
 - [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#anomalies)
+This text describes various anomalies including odors, ball lightning, and unusual environmental phenomena reported during electrical storms and other atmospheric events, with specific mentions of incidents involving strong smells, physical discomfort, and animal behaviors, dated from GLB-006 to GLD-025.
 - [STRANGE PHENOMENA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-phenomena.md#strange-phenomena)
+This text describes various strange phenomena observed around the world, including glowing lights in the Andes and over the Indian Ocean, mysterious sounds in Barisal, and unusual lights during the 1905 Welsh religious revival, among others, highlighting the mysteries of nature and human perception. (Important date: 1905)
 
 # STRANGE PHENOMENA 
 
