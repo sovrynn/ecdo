@@ -1,188 +1,188 @@
 # GPT Summary: Table of Contents
 
-- [ANCIENT INFRASTRUCTURE [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#ancient-infrastructure-top)
-- [Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top)
-- [MSC3 Tunnel-Well Systems [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msc3-tunnel-well-systems-top)
-- [MSC4 Water Condensers [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msc4-water-condensers-top)
-- [MSC5 Ancient Irrigation Systems [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msc5-ancient-irrigation-systems-top)
-- [Anomalies in Ancient Agricultural Engineering [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-ancient-agricultural-engineering-top)
-- [X2. Mesoamerica [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x2-mesoamerica-top)
-- [X3. Asia [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x3-asia-top)
-- [X4. Africa [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x4-africa-top)
-- [Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top)
-- [Enigmatic Menhirs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#enigmatic-menhirs-top)
-- [Four Remarkable Menhirs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#four-remarkable-menhirs-top)
-- [Transportation of Very Large Menhirs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#transportation-of-very-large-menhirs-top)
-- [Probable Purposes of Menhirs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#probable-purposes-of-menhirs-top)
-- [Menhirs in Unexpected Places [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#menhirs-in-unexpected-places-top)
-- [Er Grah as a Foresight [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#er-grah-as-a-foresight-top)
-- [Dolmens [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#dolmens-top)
-- [X1. Dolmens in Asia and Oceania [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x1-dolmens-in-asia-and-oceania-top)
-- [Jordan [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#jordan-top)
-- [Northern Caucasus [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#northern-caucasus-top)
-- [India [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#india-top)
-- [X2. Purported dolmens in North America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x2-purported-dolmens-in-north-america-top)
-- [MSD5 Rocking Stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msd5-rocking-stones-top)
-- [X0. Introduction [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x0-introduction-top)
-- [X1. Possible origins of rocking stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x1-possible-origins-of-rocking-stones-top)
-- [X2. Distribution of rocking stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x2-distribution-of-rocking-stones-top)
-- [X3. Humans and rocking stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x3-humans-and-rocking-stones-top)
-- [X4. Remarkable rocking stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x4-remarkable-rocking-stones-top)
-- [MSE1 Lines of Pits [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mse1-lines-of-pits-top)
-- [X1. North America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x1-north-america-top)
-- [X2. South America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x2-south-america-top)
-- [X3. Europe [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x3-europe-top)
-- [MSE2 Puzzling Pits [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mse2-puzzling-pits-top)
-- [ANOMALIES [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top)
-- [Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top)
-- [The Chronicle of Akakor [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-chronicle-of-akakor-top)
-- [Europe [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#europe-top)
-- [France [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#france-top)
-- [Italy [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#italy-top)
-- [Middle East [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#middle-east-top)
-- [Asia [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#asia-top)
-- [Africa [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#africa-top)
-- [Oceania [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#oceania-top)
-- [Oak Island Shaft [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#oak-island-shaft-top)
-- [Remarkable Ancient Mines and Quarries: A Survey [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#remarkable-ancient-mines-and-quarries-a-survey-top)
-- [Chapter 1: Anomalies in Mining History [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-1-anomalies-in-mining-history-top)
-- [Chapter 2: Notable Discoveries in Early European Mining [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-2-notable-discoveries-in-early-european-mining-top)
-- [Chapter 3: Ancient Mining Practices in Asia [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-3-ancient-mining-practices-in-asia-top)
-- [Chapter 4: Mining Activities in Africa [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-4-mining-activities-in-africa-top)
-- [MSE5 Mines and Quarries [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mse5-mines-and-quarries-top)
-- [MSE6 Lake Superior Copper Mining [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mse6-lake-superior-copper-mining-top)
-- [Sculpted Hills and Mountains [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#sculpted-hills-and-mountains-top)
-- [MSE8 Terrestrial Zodiacs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mse8-terrestrial-zodiacs-top)
-- [X2. Europe [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x2-europe-top)
-- [X3. Africa [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x3-africa-top)
-- [Anomaly Evaluation [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomaly-evaluation-top)
-- [Similar and Related Phenomena [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#similar-and-related-phenomena-top)
-- [MSH3 Double Stone Rows [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh3-double-stone-rows-top)
-- [MSH4 Multiple Stone Lines [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh4-multiple-stone-lines-top)
-- [Anomalies in Stone Arrays and Mazes [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-stone-arrays-and-mazes-top)
-- [Stone Meanders MSHG6 [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stone-meanders-mshg6-top)
-- [Stone Circles MSH7 [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stone-circles-msh7-top)
-- [MSH15  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh15-top)
-- [MSH16  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh16-top)
-- [MSH17  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh17-top)
-- [MSH17  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh17-top)
-- [MSH19  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh19-top)
-- [MSH8  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh8-top)
-- [MSH9  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh9-top)
-- [MSH10  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh10-top)
-- [Stone-Circle Geometry  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stone-circle-geometry-top)
-- [Occult Influences on the Design of Stonehenge [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#occult-influences-on-the-design-of-stonehenge-top)
-- [Physical Phenomena Associated with Stone Circles [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#physical-phenomena-associated-with-stone-circles-top)
-- [171 Stonehenge Physical Phenomena [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#171-stonehenge-physical-phenomena-top)
-- [MSH13 Psychical Phenomena Concentration at Stone Circles [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh13-psychical-phenomena-concentration-at-stone-circles-top)
-- [Stonehenge Psychical Phenomena [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stonehenge-psychical-phenomena-top)
-- [Stone Circles and the Environment [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stone-circles-and-the-environment-top)
-- [Large-Scale Organization of Stone Circles [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#large-scale-organization-of-stone-circles-top)
-- [Anomaly Evaluation [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomaly-evaluation-top)
-- [Possible Explanations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-explanations-top)
-- [Possible British Leys [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-british-leys-top)
-- [Possible Leys Outside of Britain and Ireland [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-leys-outside-of-britain-and-ireland-top)
-- [Critiques of the Ley Concept [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#critiques-of-the-ley-concept-top)
-- [Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top)
-- [MSH16 Stone Circles Worldwide [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh16-stone-circles-worldwide-top)
-- [Stone Circles as Eclipse Predictors [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stone-circles-as-eclipse-predictors-top)
-- [Stonehenge’s Rectangle [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stonehenges-rectangle-top)
-- [Did the French Build Stonehenge? [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#did-the-french-build-stonehenge-top)
-- [Geometrical and Geographical Anomalies of Stone Rectangles [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#geometrical-and-geographical-anomalies-of-stone-rectangles-top)
-- [The Old World [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-old-world-top)
-- [Possible Explanations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-explanations-top)
-- [North America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#north-america-top)
-- [Vermont [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#vermont-top)
-- [New Hampshire [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#new-hampshire-top)
-- [Massachusetts [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#massachusetts-top)
-- [Wisconsin [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#wisconsin-top)
-- [New Mexico [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#new-mexico-top)
-- [South and Central America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#south-and-central-america-top)
-- [Honduras [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#honduras-top)
-- [Argentina [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#argentina-top)
-- [Peru [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#peru-top)
-- [Africa [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#africa-top)
-- [Kenya [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#kenya-top)
-- [Oceania [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#oceania-top)
-- [Tonga [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#tonga-top)
-- [Easter Island [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#easter-island-top)
-- [Medicine Wheels [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#medicine-wheels-top)
-- [Anomaly Evaluation [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomaly-evaluation-top)
-- [Possible Explanations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-explanations-top)
-- [Similar and Related Phenomena [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#similar-and-related-phenomena-top)
-- [General Observations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#general-observations-top)
-- [China Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#china-anomalies-top)
-- [Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top)
-- [Anomalies in Burnt Rock Mounds [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-burnt-rock-mounds-top)
-- [Anomalies in Fused Forts [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-fused-forts-top)
-- [Anomalies in Kitchen Middens [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-kitchen-middens-top)
-- [Anomalies in Conical Piles [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-conical-piles-top)
-- [Anomalies in Cairn Alignments [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-cairn-alignments-top)
-- [Anomalies in Submerged Cairns [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-submerged-cairns-top)
-- [Anomalies in Cairn Complexes [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-cairn-complexes-top)
-- [Anomalies in Ring Cairns [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-ring-cairns-top)
-- [Earthen Mounds MSM5 [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#earthen-mounds-msm5-top)
-- [Mesoamerica [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mesoamerica-top)
-- [South America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#south-america-top)
-- [Europe [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#europe-top)
-- [Chapter 1: Anomalies of Saint Michel [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-1-anomalies-of-saint-michel-top)
-- [Chapter 2: Asia Minor Burial Mounds [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-2-asia-minor-burial-mounds-top)
-- [Chapter 3: Mounds in China [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-3-mounds-in-china-top)
-- [Chapter 4: Japanese Imperial Graves [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-4-japanese-imperial-graves-top)
-- [Chapter 5: Polynesian Mounds [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-5-polynesian-mounds-top)
-- [Chapter 6: Tonga's Pigeon-Snaring Mounds [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-6-tongas-pigeon-snaring-mounds-top)
-- [Chapter 7: The Giant Grave in the Caroline Islands [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-7-the-giant-grave-in-the-caroline-islands-top)
-- [Chapter 8: Hawaii's Kukii Hill [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-8-hawaiis-kukii-hill-top)
-- [Mound Lines and Arrays [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mound-lines-and-arrays-top)
-- [Enigmatic Mound Complexes [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#enigmatic-mound-complexes-top)
-- [Mound Complexes MSM7  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mound-complexes-msm7-top)
-- [Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top)
-- [MSO4 Curious Arrays and Groupings of Stone or Wooden Columns [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso4-curious-arrays-and-groupings-of-stone-or-wooden-columns-top)
-- [MSO5 Latte Stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso5-latte-stones-top)
-- [MSO6 Delhi Iron Pillar [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso6-delhi-iron-pillar-top)
-- [MSO7 New Caledonia Cylinders [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso7-new-caledonia-cylinders-top)
-- [MSO8 Unusual Gnomons [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso8-unusual-gnomons-top)
-- [MSO9 Stone Chairs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso9-stone-chairs-top)
-- [MSO10 Large Stone Jars [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso10-large-stone-jars-top)
-- [Anomalies in Stone Jars and Configured Rocks [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-stone-jars-and-configured-rocks-top)
-- [X0. Introduction [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x0-introduction-top)
-- [X1. General observations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x1-general-observations-top)
-- [The Gateway of the Sun [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-gateway-of-the-sun-top)
-- [MSR ANCIENT ROADS AND BRIDGES [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msr-ancient-roads-and-bridges-top)
-- [Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top)
-- [Chaco Canyon “Roads”  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chaco-canyon-roads-top)
-- [The Bimini “Road” [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-bimini-road-top)
-- [The Bimini “Road” [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-bimini-road-top)
-- [Other "Biminis" [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#other-biminis-top)
-- [The Maltese “Cart Ruts” [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-maltese-cart-ruts-top)
-- [MSR5 Ancient Bridges [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msr5-ancient-bridges-top)
-- [MSW WALLS, EMBANKMENTS, DITCHES [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msw-walls-embankments-ditches-top)
-- [MSW1 Notable Linear Earthworks, a Survey [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msw1-notable-linear-earthworks-a-survey-top)
-- [Linear Earthworks  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#linear-earthworks-top)
-- [Data Evaluation [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#data-evaluation-top)
-- [Anomaly Evaluation [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomaly-evaluation-top)
-- [Possible Explanations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-explanations-top)
-- [Similar and Related Phenomena [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#similar-and-related-phenomena-top)
-- [North America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#north-america-top)
-- [New York (Ramapo) [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#new-york-ramapo-top)
-- [West Virginia (Mt. Carbon) [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#west-virginia-mt-carbon-top)
-- [Idaho [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#idaho-top)
-- [Labrador [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#labrador-top)
-- [Greenland [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#greenland-top)
-- [California [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#california-top)
-- [Point Reyes [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#point-reyes-top)
-- [Mesoamerica [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mesoamerica-top)
-- [Mexico [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mexico-top)
-- [Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top)
-- [MSW3 Precision-Fit Stone Walls [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msw3-precision-fit-stone-walls-top)
-- [MSW4 Cyclopean Walls [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msw4-cyclopean-walls-top)
-- [MSW5 Deceptive Natural Walls [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msw5-deceptive-natural-walls-top)
-- [Deceptive Natural Walls [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#deceptive-natural-walls-top)
-- [Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top)
-- [Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top)
-- [Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top)
+- [ANCIENT INFRASTRUCTURE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#ancient-infrastructure-top)
+- [Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top-top-top)
+- [MSC3 Tunnel-Well Systems (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msc3-tunnel-well-systems-top-top-top)
+- [MSC4 Water Condensers (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msc4-water-condensers-top-top-top)
+- [MSC5 Ancient Irrigation Systems (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msc5-ancient-irrigation-systems-top-top-top)
+- [Anomalies in Ancient Agricultural Engineering (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-ancient-agricultural-engineering-top-top-top)
+- [X2. Mesoamerica (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x2-mesoamerica-top-top-top)
+- [X3. Asia (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x3-asia-top-top-top)
+- [X4. Africa (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x4-africa-top-top-top)
+- [Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top-top-top)
+- [Enigmatic Menhirs (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#enigmatic-menhirs-top-top-top)
+- [Four Remarkable Menhirs (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#four-remarkable-menhirs-top-top-top)
+- [Transportation of Very Large Menhirs (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#transportation-of-very-large-menhirs-top-top-top)
+- [Probable Purposes of Menhirs (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#probable-purposes-of-menhirs-top-top-top)
+- [Menhirs in Unexpected Places (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#menhirs-in-unexpected-places-top-top-top)
+- [Er Grah as a Foresight (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#er-grah-as-a-foresight-top-top-top)
+- [Dolmens (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#dolmens-top-top-top)
+- [X1. Dolmens in Asia and Oceania (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x1-dolmens-in-asia-and-oceania-top-top-top)
+- [Jordan (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#jordan-top-top-top)
+- [Northern Caucasus (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#northern-caucasus-top-top-top)
+- [India (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#india-top-top-top)
+- [X2. Purported dolmens in North America (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x2-purported-dolmens-in-north-america-top-top-top)
+- [MSD5 Rocking Stones (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msd5-rocking-stones-top-top-top)
+- [X0. Introduction (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x0-introduction-top-top-top)
+- [X1. Possible origins of rocking stones (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x1-possible-origins-of-rocking-stones-top-top-top)
+- [X2. Distribution of rocking stones (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x2-distribution-of-rocking-stones-top-top-top)
+- [X3. Humans and rocking stones (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x3-humans-and-rocking-stones-top-top-top)
+- [X4. Remarkable rocking stones (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x4-remarkable-rocking-stones-top-top-top)
+- [MSE1 Lines of Pits (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mse1-lines-of-pits-top-top-top)
+- [X1. North America (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x1-north-america-top-top-top)
+- [X2. South America (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x2-south-america-top-top-top)
+- [X3. Europe (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x3-europe-top-top-top)
+- [MSE2 Puzzling Pits (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mse2-puzzling-pits-top-top-top)
+- [ANOMALIES (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top-top-top)
+- [Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top-top-top)
+- [The Chronicle of Akakor (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-chronicle-of-akakor-top-top-top)
+- [Europe (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#europe-top-top-top)
+- [France (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#france-top-top-top)
+- [Italy (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#italy-top-top-top)
+- [Middle East (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#middle-east-top-top-top)
+- [Asia (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#asia-top-top-top)
+- [Africa (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#africa-top-top-top)
+- [Oceania (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#oceania-top-top-top)
+- [Oak Island Shaft (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#oak-island-shaft-top-top-top)
+- [Remarkable Ancient Mines and Quarries: A Survey (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#remarkable-ancient-mines-and-quarries-a-survey-top-top-top)
+- [Chapter 1: Anomalies in Mining History (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-1-anomalies-in-mining-history-top-top-top)
+- [Chapter 2: Notable Discoveries in Early European Mining (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-2-notable-discoveries-in-early-european-mining-top-top-top)
+- [Chapter 3: Ancient Mining Practices in Asia (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-3-ancient-mining-practices-in-asia-top-top-top)
+- [Chapter 4: Mining Activities in Africa (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-4-mining-activities-in-africa-top-top-top)
+- [MSE5 Mines and Quarries (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mse5-mines-and-quarries-top-top-top)
+- [MSE6 Lake Superior Copper Mining (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mse6-lake-superior-copper-mining-top-top-top)
+- [Sculpted Hills and Mountains (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#sculpted-hills-and-mountains-top-top-top)
+- [MSE8 Terrestrial Zodiacs (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mse8-terrestrial-zodiacs-top-top-top)
+- [X2. Europe (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x2-europe-top-top-top)
+- [X3. Africa (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x3-africa-top-top-top)
+- [Anomaly Evaluation (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomaly-evaluation-top-top-top)
+- [Similar and Related Phenomena (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#similar-and-related-phenomena-top-top-top)
+- [MSH3 Double Stone Rows (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh3-double-stone-rows-top-top-top)
+- [MSH4 Multiple Stone Lines (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh4-multiple-stone-lines-top-top-top)
+- [Anomalies in Stone Arrays and Mazes (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-stone-arrays-and-mazes-top-top-top)
+- [Stone Meanders MSHG6 (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stone-meanders-mshg6-top-top-top)
+- [Stone Circles MSH7 (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stone-circles-msh7-top-top-top)
+- [MSH15  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh15--top-top-top)
+- [MSH16  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh16--top-top-top)
+- [MSH17  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh17--top-top-top)
+- [MSH17  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh17--top-top-top)
+- [MSH19  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh19--top-top-top)
+- [MSH8  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh8--top-top-top)
+- [MSH9  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh9--top-top-top)
+- [MSH10  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh10--top-top-top)
+- [Stone-Circle Geometry  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stone-circle-geometry--top-top-top)
+- [Occult Influences on the Design of Stonehenge (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#occult-influences-on-the-design-of-stonehenge-top-top-top)
+- [Physical Phenomena Associated with Stone Circles (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#physical-phenomena-associated-with-stone-circles-top-top-top)
+- [171 Stonehenge Physical Phenomena (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#171-stonehenge-physical-phenomena-top-top-top)
+- [MSH13 Psychical Phenomena Concentration at Stone Circles (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh13-psychical-phenomena-concentration-at-stone-circles-top-top-top)
+- [Stonehenge Psychical Phenomena (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stonehenge-psychical-phenomena-top-top-top)
+- [Stone Circles and the Environment (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stone-circles-and-the-environment-top-top-top)
+- [Large-Scale Organization of Stone Circles (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#large-scale-organization-of-stone-circles-top-top-top)
+- [Anomaly Evaluation (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomaly-evaluation-top-top-top)
+- [Possible Explanations (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-explanations-top-top-top)
+- [Possible British Leys (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-british-leys-top-top-top)
+- [Possible Leys Outside of Britain and Ireland (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-leys-outside-of-britain-and-ireland-top-top-top)
+- [Critiques of the Ley Concept (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#critiques-of-the-ley-concept-top-top-top)
+- [Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top-top-top)
+- [MSH16 Stone Circles Worldwide (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msh16-stone-circles-worldwide-top-top-top)
+- [Stone Circles as Eclipse Predictors (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stone-circles-as-eclipse-predictors-top-top-top)
+- [Stonehenge’s Rectangle (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#stonehenges-rectangle-top-top-top)
+- [Did the French Build Stonehenge? (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#did-the-french-build-stonehenge-top-top-top)
+- [Geometrical and Geographical Anomalies of Stone Rectangles (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#geometrical-and-geographical-anomalies-of-stone-rectangles-top-top-top)
+- [The Old World (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-old-world-top-top-top)
+- [Possible Explanations (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-explanations-top-top-top)
+- [North America (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#north-america-top-top-top)
+- [Vermont (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#vermont-top-top-top)
+- [New Hampshire (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#new-hampshire-top-top-top)
+- [Massachusetts (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#massachusetts-top-top-top)
+- [Wisconsin (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#wisconsin-top-top-top)
+- [New Mexico (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#new-mexico-top-top-top)
+- [South and Central America (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#south-and-central-america-top-top-top)
+- [Honduras (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#honduras-top-top-top)
+- [Argentina (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#argentina-top-top-top)
+- [Peru (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#peru-top-top-top)
+- [Africa (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#africa-top-top-top)
+- [Kenya (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#kenya-top-top-top)
+- [Oceania (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#oceania-top-top-top)
+- [Tonga (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#tonga-top-top-top)
+- [Easter Island (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#easter-island-top-top-top)
+- [Medicine Wheels (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#medicine-wheels-top-top-top)
+- [Anomaly Evaluation (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomaly-evaluation-top-top-top)
+- [Possible Explanations (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-explanations-top-top-top)
+- [Similar and Related Phenomena (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#similar-and-related-phenomena-top-top-top)
+- [General Observations (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#general-observations-top-top-top)
+- [China Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#china-anomalies-top-top-top)
+- [Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top-top-top)
+- [Anomalies in Burnt Rock Mounds (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-burnt-rock-mounds-top-top-top)
+- [Anomalies in Fused Forts (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-fused-forts-top-top-top)
+- [Anomalies in Kitchen Middens (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-kitchen-middens-top-top-top)
+- [Anomalies in Conical Piles (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-conical-piles-top-top-top)
+- [Anomalies in Cairn Alignments (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-cairn-alignments-top-top-top)
+- [Anomalies in Submerged Cairns (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-submerged-cairns-top-top-top)
+- [Anomalies in Cairn Complexes (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-cairn-complexes-top-top-top)
+- [Anomalies in Ring Cairns (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-ring-cairns-top-top-top)
+- [Earthen Mounds MSM5 (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#earthen-mounds-msm5-top-top-top)
+- [Mesoamerica (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mesoamerica-top-top-top)
+- [South America (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#south-america-top-top-top)
+- [Europe (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#europe-top-top-top)
+- [Chapter 1: Anomalies of Saint Michel (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-1-anomalies-of-saint-michel-top-top-top)
+- [Chapter 2: Asia Minor Burial Mounds (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-2-asia-minor-burial-mounds-top-top-top)
+- [Chapter 3: Mounds in China (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-3-mounds-in-china-top-top-top)
+- [Chapter 4: Japanese Imperial Graves (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-4-japanese-imperial-graves-top-top-top)
+- [Chapter 5: Polynesian Mounds (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-5-polynesian-mounds-top-top-top)
+- [Chapter 6: Tonga's Pigeon-Snaring Mounds (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-6-tongas-pigeon-snaring-mounds-top-top-top)
+- [Chapter 7: The Giant Grave in the Caroline Islands (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-7-the-giant-grave-in-the-caroline-islands-top-top-top)
+- [Chapter 8: Hawaii's Kukii Hill (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chapter-8-hawaiis-kukii-hill-top-top-top)
+- [Mound Lines and Arrays (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mound-lines-and-arrays-top-top-top)
+- [Enigmatic Mound Complexes (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#enigmatic-mound-complexes-top-top-top)
+- [Mound Complexes MSM7  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mound-complexes-msm7--top-top-top)
+- [Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top-top-top)
+- [MSO4 Curious Arrays and Groupings of Stone or Wooden Columns (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso4-curious-arrays-and-groupings-of-stone-or-wooden-columns-top-top-top)
+- [MSO5 Latte Stones (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso5-latte-stones-top-top-top)
+- [MSO6 Delhi Iron Pillar (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso6-delhi-iron-pillar-top-top-top)
+- [MSO7 New Caledonia Cylinders (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso7-new-caledonia-cylinders-top-top-top)
+- [MSO8 Unusual Gnomons (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso8-unusual-gnomons-top-top-top)
+- [MSO9 Stone Chairs (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso9-stone-chairs-top-top-top)
+- [MSO10 Large Stone Jars (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mso10-large-stone-jars-top-top-top)
+- [Anomalies in Stone Jars and Configured Rocks (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-in-stone-jars-and-configured-rocks-top-top-top)
+- [X0. Introduction (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x0-introduction-top-top-top)
+- [X1. General observations (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#x1-general-observations-top-top-top)
+- [The Gateway of the Sun (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-gateway-of-the-sun-top-top-top)
+- [MSR ANCIENT ROADS AND BRIDGES (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msr-ancient-roads-and-bridges-top-top-top)
+- [Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top-top-top)
+- [Chaco Canyon “Roads”  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#chaco-canyon-roads--top-top-top)
+- [The Bimini “Road” (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-bimini-road-top-top-top)
+- [The Bimini “Road” (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-bimini-road-top-top-top)
+- [Other "Biminis" (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#other-biminis-top-top-top)
+- [The Maltese “Cart Ruts” (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#the-maltese-cart-ruts-top-top-top)
+- [MSR5 Ancient Bridges (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msr5-ancient-bridges-top-top-top)
+- [MSW WALLS, EMBANKMENTS, DITCHES (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msw-walls-embankments-ditches-top-top-top)
+- [MSW1 Notable Linear Earthworks, a Survey (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msw1-notable-linear-earthworks-a-survey-top-top-top)
+- [Linear Earthworks  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#linear-earthworks--top-top-top)
+- [Data Evaluation (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#data-evaluation-top-top-top)
+- [Anomaly Evaluation (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomaly-evaluation-top-top-top)
+- [Possible Explanations (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#possible-explanations-top-top-top)
+- [Similar and Related Phenomena (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#similar-and-related-phenomena-top-top-top)
+- [North America (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#north-america-top-top-top)
+- [New York (Ramapo) (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#new-york-ramapo-top-top-top)
+- [West Virginia (Mt. Carbon) (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#west-virginia-mt-carbon-top-top-top)
+- [Idaho (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#idaho-top-top-top)
+- [Labrador (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#labrador-top-top-top)
+- [Greenland (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#greenland-top-top-top)
+- [California (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#california-top-top-top)
+- [Point Reyes (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#point-reyes-top-top-top)
+- [Mesoamerica (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mesoamerica-top-top-top)
+- [Mexico (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#mexico-top-top-top)
+- [Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top-top-top)
+- [MSW3 Precision-Fit Stone Walls (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msw3-precision-fit-stone-walls-top-top-top)
+- [MSW4 Cyclopean Walls (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msw4-cyclopean-walls-top-top-top)
+- [MSW5 Deceptive Natural Walls (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#msw5-deceptive-natural-walls-top-top-top)
+- [Deceptive Natural Walls (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#deceptive-natural-walls-top-top-top)
+- [Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top-top-top)
+- [Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top-top-top)
+- [Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/ancient-infrastructure.md#anomalies-top-top-top)
 
-# ANCIENT INFRASTRUCTURE [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ANCIENT INFRASTRUCTURE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Remarkable Roads**  
   The roads from ancient times display extraordinary engineering skills that challenge current understandings of early civilization capabilities. Some of these roads extend over vast distances and connect significant cultural sites, indicating a level of sophistication that warrants further investigation.
@@ -198,7 +198,7 @@
 
 - **Stone Circles**  
   Stone circles exhibit patterns that often hold astronomical significance, indicating that ancient peoples possessed sophisticated cosmological knowledge. Their persistent appearance across various cultures suggests a shared understanding or practice that transcends geographic boundaries.
-# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Apparent lack of purpose**  
   This anomaly refers to structures whose functions and intentions remain unclear. Such properties typically receive only modest anomaly ratings as they do not challenge established knowledge.
@@ -214,22 +214,22 @@
 
 - **Vastly superior civilizations preceded our own**  
   The idea of advanced civilizations, such as Atlantis or the Golden Age, challenges contemporary understandings of societal development. If substantiated, this would lead to a reevaluation of historical human progress.
-# MSC3 Tunnel-Well Systems [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSC3 Tunnel-Well Systems (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Peruvian Qanats**: The appearance of virtually identical tunnel-well technology in Peru before the Spanish Conquest is potentially highly anomalous. This challenges traditional narratives about technological diffusion between the Old World and the New World.
 
 - **Aborted Copais Tunnel-Well System**: The ancient Greek engineers' efforts to control flooding at Lake Copais led to an unfinished 14-mile tunnel system, which was ultimately not completed despite significant labor. These false starts in construction raise intriguing questions about the challenges faced by ancient engineers in realizing such ambitious projects.
 
-# MSC4 Water Condensers [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSC4 Water Condensers (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Ancient Greek Water-Catching Pyramids**: The construction of stone pyramids by ancient Greeks for water condensation is unusual but not entirely unexplained. Despite limited evidence supporting this phenomenon, it showcases the ingenuity of early engineering to harness natural resources in arid climates.
 
-# MSC5 Ancient Irrigation Systems [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSC5 Ancient Irrigation Systems (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Michigan's Garden Beds**: These prehistoric "garden beds" in Michigan are notable for their unique geometrical design, differing from common agricultural practices. The complete obliteration of their remains due to modern activities adds to the mystery of their existence and functionality.
 
 - **Hohokam Canals**: The sophisticated irrigation infrastructure created by the Hohokam Indians in the Salt River Valley serves as an exceptional example of ancient hydraulic engineering. Despite their current erasure, the recorded extent of over 500 kilometers of canals demonstrates the impressive scale of this civilization's agricultural capabilities.
-# Anomalies in Ancient Agricultural Engineering [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in Ancient Agricultural Engineering (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Hohokam Irrigation Canals**
   The Hohokam civilization in Arizona is recognized for its extensive canal-digging efforts, which were unparalleled among Native Americans north of Mexico. Their ability to coordinate such a large-scale irrigation system illustrates an impressive level of leadership and organization.
@@ -257,13 +257,13 @@
 
 - **Sadd-el-Kafara Dam in Egypt**
   The Sadd-el-Kafara, recognized as potentially the oldest dam in the world, experienced catastrophic failure soon after its construction. This structure's significant dimensions and complex design indicate an advanced level of engineering, but its downfall led to a long hiatus in Egyptian dam-building efforts.
-# X2. Mesoamerica [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# X2. Mesoamerica (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Chaltunes (subterranean structures) in Mexico**: Believed to be primarily for water storage, these unique features were characteristic of the Yucatan region. They highlight the innovative approaches of the ancient inhabitants to manage water resources in a challenging environment.
 
 - **Water collection at Tikal, Guatemala**: Tikal's inhabitants constructed an extensive system of water-collection and storage structures, relying solely on rainwater throughout the year. Their sophisticated planning included five different types of reservoirs, capable of holding a substantial annual water supply.
 
-# X3. Asia [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# X3. Asia (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Great Bath at Mohenjo-Daro, Pakistan**: Often interpreted as a bath rather than a cistern, the Great Bath's engineering was a remarkable feat for its time. Though it wasn't a reservoir, its sophisticated construction and purpose suggest significant cultural importance.
 
@@ -271,12 +271,12 @@
 
 - **Ancient Tanks in Sri Lanka**: The "tanks" of Sri Lanka, much larger than others mentioned, were primarily for agricultural irrigation rather than domestic use. Their extensive construction involved simple but large earthen embankments and evidences a dedication to managing water resources on a grand scale.
 
-# X4. Africa [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# X4. Africa (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Osireion at Abydos, Egypt**: Initially thought to be a reservoir, further excavations revealed the Osireion's complexity, showcasing structures that served functions beyond mere water storage. Its intricate design indicates that it was an important site for the ancient Egyptians, challenging the traditional understanding of reservoir architecture.
 
 - **Strabo’s exploration of Abydos**: Strabo's observation of an underground structure later excavated by Naville emphasized its significance as a water-storage facility. The realization that such a significant architectural form originated from a water works instead of temples or tombs highlights the advanced understanding of hydraulics in ancient Egypt.
-# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Tumi Chucua Earthworks**  
 The ancient settlement of Tumi Chucua showcases earthworks and ditches constructed by its inhabitants. These earthworks served multiple purposes, including navigation by canoe to a nearby river, reminiscent of modern canal systems.
@@ -301,7 +301,7 @@ A geological survey in 1975 uncovered two abandoned waterways in the Nile delta,
 
 - **Ancient Maori Canals**  
 In New Zealand, ancient Maori constructed canal systems near the Wairau River for efficient transportation. Noteworthy is a large canal that spans over four miles, highlighting the industrious nature and engineering skills of the Maori civilization.
-# Enigmatic Menhirs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Enigmatic Menhirs (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Purpose of Erecting Menhirs**: An anomaly arises from questioning why megalithic peoples expended considerable resources on erecting large menhirs. The effort to transport and erect stones necessitated significant physical power and organization, which seems unusual given their size.
 
@@ -313,7 +313,7 @@ In New Zealand, ancient Maori constructed canal systems near the Wairau River fo
 
 - **Transportation of Multi-Ton Menhirs**: Questions arise regarding how these massive menhirs were transported for miles and erected at their sites. Transporting such monumental objects challenges our understanding of ancient technology and capabilities.
 
-# Four Remarkable Menhirs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Four Remarkable Menhirs (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Er Grah's Prostrate State**: Er Grah, once the largest menhir in Brittany, now lies in four segments, raising anomalies concerning its original use and what led to its disassembly. The date when it fell and the reasons behind its current prostrate condition remain elusive.
 
@@ -325,7 +325,7 @@ In New Zealand, ancient Maori constructed canal systems near the Wairau River fo
 
 - **Rudston Monolith's Historical Context**: The Rudston monolith, the tallest in Britain, serves as a reminder of how megalithic structures extend beyond Brittany. Its existence challenges the conventions of historical monument construction, raising questions about geographic and cultural connections.
 
-# Transportation of Very Large Menhirs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Transportation of Very Large Menhirs (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Incredible Human Efforts for Massive Stones**: The accomplishment of moving menhirs such as Er Grah and others raises anomalies on the capabilities of ancient builders without modern tools. Comparisons to modern attempts at moving massive structures highlight the ingenuity and effort required from ancient peoples.
 
@@ -333,12 +333,12 @@ In New Zealand, ancient Maori constructed canal systems near the Wairau River fo
 
 - **Construction Techniques of Ancient Builders**: Various methods involving sledges and human power indicate that, rather than supernatural forces, ancient human engineering was pivotal. The successful raising of large menhirs using simple tools and collective effort differentiates between legend and reality.
 
-# Probable Purposes of Menhirs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Probable Purposes of Menhirs (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Diverse Functions of Menhirs**: The potential uses of menhirs for commemoration, navigation, or astronomical purposes indicate a blend of cultural significance. Understanding which purposes were prioritized by ancient builders remains a fascinating anomaly.
 
 - **Intelligence Implications**: If menhirs had astronomical functions, that implies a high level of prehistoric intelligence. Such a concept deviates from the beliefs surrounding the capabilities of early civilizations, posing interesting questions about historical assessments.
-# Menhirs in Unexpected Places [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Menhirs in Unexpected Places (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1: Monolith in Male Kula**  
   At Male Kula in New Guinea, a 12-foot high monolith stands isolated in the tropical jungle. Its origin, age, and purpose remain a mystery, which adds to its intrigue as an anomaly.
@@ -367,7 +367,7 @@ In "Bronze Age America," a striking photograph shows a collection of phallic men
 - **Anomaly 9: Standing Stones in North Carolina**  
 Three towering standing stones in western North Carolina, with the tallest reaching approximately 15 feet, could easily be mistaken as megalithic if found elsewhere. The isolation of these stones, however, raises inquiries about their natural origins versus human intervention.
 
-# Er Grah as a Foresight [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Er Grah as a Foresight (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 10: Giant Menhir Er Grah**  
   The massive Er Grah menhir in Brittany is significantly larger than necessary for typical astronomical alignments, prompting speculations about its purpose. A. Thom proposes it may have been used as a foresight in an astronomical observatory, challenging conventional understandings of megalithic capabilities.
@@ -375,32 +375,32 @@ Three towering standing stones in western North Carolina, with the tallest reach
 - **Anomaly 11: Implications of Er Grah’s Size**  
   Er Grah’s height suggests advanced planning and insight into the lunar cycle, indicating megalith builders possessed knowledge that modern researchers may underestimate. If A. Thom's theory holds, it suggests ancient societies were capable of organizing large-scale scientific projects with considerable foresight.
 
-# Dolmens [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Dolmens (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 12: Dolmen-Like Structures in North America**  
   The existence of dolmen-like structures in northeastern North America raises questions regarding their origins, as they appear far from the cultural epicenter of megalithism in Western Europe. The ambiguity surrounding their construction remains due to the absence of artifacts and organic materials for dating.
 
 - **Anomaly 13: Potential Evidence of Ancient Voyages**  
   If North American dolmens were indeed built by ancient humans, it may imply long-distance travels, suggesting pre-Viking contacts with the New World. This consideration of anomalous connection underscores the need to reevaluate misconceptions regarding ancient human capabilities and interactions.
-# X1. Dolmens in Asia and Oceania [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# X1. Dolmens in Asia and Oceania (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **North American "dolmens":** There are dolmen-like structures in North America, particularly in the northeast, which raises questions about their origins. If these are human-made, it could suggest pre-Viking contacts with European peoples or an independent cultural development.
 
 - **True dolmens distribution:** Archeologists suggest that true dolmens, which are human-built, are found beyond western Europe. This includes parts of North Africa, the Levant, Asia, and some Pacific Islands, where they are often younger and reflect a potential human urge for dolmen construction.
 
-# Jordan [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Jordan (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Damiya dolmens:** Jordan's dolmens, particularly in Damiya, number around two hundred and are notably smaller than those in western Europe. While these structures are likely grave sites, there are no associated artifacts to confirm this.
 
-# Northern Caucasus [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Northern Caucasus (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Sophisticated dolmens:** Over 1,500 dolmens have been counted in the Caucasus, showcasing a high degree of sophistication in their construction. They often include Bronze Age tools and are well-fitted with precision, hinting they might have served as shelters for nomadic herders.
 
-# India [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# India (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Khasi Hills structures:** In India's Khasi Hills, dolmen-like structures were constructed relatively recently, even continuing into the nineteenth century. These arrangements serve as monuments to the dead, highlighting a diversity in the purposes of dolmen constructions.
 
-# X2. Purported dolmens in North America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# X2. Purported dolmens in North America (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cromlech type:** The so-called dolmens in North America are primarily of the cromlech variety, with rounded capstones that resemble natural glacial erratics rather than traditional flat dolmens. Most of these structures appear to lack the definitive human-created characteristics, leading some to view them as natural formations.
 
@@ -413,7 +413,7 @@ Three towering standing stones in western North Carolina, with the tallest reach
 - **Melville Peninsula boulders:** On the Melville Peninsula in Arctic Canada, large boulders are found resting on smaller stones, with the origin and placement of these structures remaining a mystery. There is speculation that they may have been elevated by primitive peoples, though evidence supporting this theory is scarce.
 
 - **Colorado dolmen with inscription:** A notable dolmen in Colorado features a capstone with a purported inscription from the Celtiberian culture, suggesting an advanced understanding of dolmen construction and possible ancient trans-oceanic connections. This structure piques interest due to its potential historical significance, although mainstream archaeology has yet to verify the claims regarding its origins.
-# MSD5 Rocking Stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSD5 Rocking Stones (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Existence of multi-ton boulders**: Multi-ton boulders are delicately balanced so they rock back and forth with a gentle shove. Most of these rocking stones are located in areas that were once covered by Pleistocene ice sheets.
 
 - **Absence from professional publications**: While British and American science journals of the 1700s and 1800s documented numerous rocking stones, they are nearly absent in the literature of the 1900s. This has led to discussions about these phenomena largely being limited to amateur archeologists' works.
@@ -434,47 +434,47 @@ Three towering standing stones in western North Carolina, with the tallest reach
 
 - **Distribution of rocking stones**: The prevalence of rocking stones in specific regions, particularly in Britain and parts of North America, draws attention to the cultural significance attributed to them. This distribution pattern suggests a possible historical connection between various ancient societies.
 
-# X0. Introduction [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# X0. Introduction (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Definition and fascination with rocking stones**: Rocking stones are described as large, precisely balanced boulders that can move with minimal force, engendering a sense of wonder. The supernatural implications surrounding the construction and function of these stones continue to captivate people's interests.
 
-# X1. Possible origins of rocking stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# X1. Possible origins of rocking stones (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Natural origins debated**: The argument exists that many rocking stones are merely products of natural geological processes, particularly those formed by glacial activity. Still, there is a potential for human interaction, as smaller stones may have been removed to allow for rocking motion.
 
-# X2. Distribution of rocking stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# X2. Distribution of rocking stones (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Geographic concentration**: Rocking stones are predominantly found in Britain and the Northeastern United States, linked by their glacial pasts. Despite this, regions like Canada and the Rocky Mountains lack documented occurrences, suggesting a need for further exploration.
 
-# X3. Humans and rocking stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# X3. Humans and rocking stones (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Cultural significance of rocking stones**: The association of rocking stones with ancient rituals suggests they held significance for megalith builders, who likely revered these formations. The presence of artifacts like carved chairs and basins near some sites hints at their usage in ceremonial contexts.
 
-# X4. Remarkable rocking stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# X4. Remarkable rocking stones (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Unique properties of specific rocking stones**: Stones like The Drum Rock in Rhode Island and the oscillating Petra in Greece illustrate the fascinating characteristics of rocking stones. The strange properties of these rock formations provoke curiosity and speculation about their origins and purpose.
-# MSE1 Lines of Pits [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSE1 Lines of Pits (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Pit Alignments**: Hundreds, even thousands, of empty pits constitute this enigmatic phenomenon. These pits are aligned over distances ranging from a few hundred feet to many miles, raising numerous questions about their purpose.
 
 - **Neglected by Archeology**: Pit alignments, even those of great extent, have been largely ignored by archeologists. Consequently, most information about them is derived from popular sources rather than scholarly research.
 
 - **Unconvincing Explanations**: Several explanations for the existence of pit alignments have been proposed, but none convincingly account for the grander examples of the phenomenon. Despite the neglect by professionals, pit alignments are still considered among the most perplexing of ancient engineering structures.
 
-# X1. North America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# X1. North America (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Oregon Pits**: An enigmatic system of pits near the Sandy River suggests they were the work of a race more ancient than the current Indigenous peoples. These shafts are arranged in a straight line, with their longest axes perpendicular to the line of excavations.
 
 - **California Fish Traps**: The depressions in the Coachella Valley, nicknamed "Ancient Fish Traps," lack archeological evidence to support their purported purpose. Various hypotheses about the pits being remnants of Indian dwellings or hunting blinds have been met with skepticism due to their arrangement and size variation.
 
-# X2. South America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# X2. South America (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Peruvian Pockmarks**: A regimented formation of "pockmarks" stretching for miles near the Pisco Valley remains largely uninvestigated by mainstream archeologists. Initial aerial surveys suggested they might be excavated graves, but further exploration raised more questions about their purpose.
 
 - **Cajamarquilla Holes**: A straight line of 209 holes near Lima pits their purpose in obscurity despite being cut into solid rock. The consistent characteristics and arrangement of these pits suggest significant effort was made in their construction, yet their function remains unknown.
 
-# X3. Europe [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# X3. Europe (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **British Pit Alignments**: Aerial archaeology has revealed bizarre pit alignments in Britain, with some measuring up to 3000 feet long. The date and purpose of these pits are unknown, though some hypotheses suggest they may relate to river navigation due to their positioning.
 
 - **Allerston and Ebberston Moors**: Ground surveys indicated troubling variations in spacing and shape among the pits, suggesting that they may have been the initial phase of trench construction. Some pits are considered remnants of habitation, yet their small size and linear arrangement complicate this interpretation.
 
-# MSE2 Puzzling Pits [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSE2 Puzzling Pits (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Uncertain Purposes**: Depressions etched into soil or rock for uncertain reasons highlight the ambiguity surrounding many pit structures. With diameters ranging from 200 feet down to mere inches, their depths are generally less than 20 feet, and their functions remain fiercely debated.
 
 - **General Disdain and Neglect**: Pits are often overlooked due to their mundane nature, resulting in a lack of authoritative studies and emphasis from archeologists. Consequently, many potential anomalies connected with these pits are left unexplored and poorly understood.
-# ANOMALIES [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ANOMALIES (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Mortars**  
   Located near Salt Creek, these mortars average three feet in diameter and five to seven feet in depth. They are too large to be considered typical mortars or pot holes, leading to speculation about their actual use.
@@ -508,7 +508,7 @@ Three towering standing stones in western North Carolina, with the tallest reach
 
 - **Mystery Craters in Queensland (Australia)**  
   Discovered in the mid-1980s, these craters are thought to be at least 25 million years old and have sparked various theories regarding their origins, from natural formations to extraterrestrial activity. Initially dismissed as sinkholes, their unusual markings continue to baffle scientists and locals alike.
-# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Goshen Shaft-Tunnel Complex**  
 The age of the Goshen shaft-tunnel complex has been difficult to determine, with a stone disk recovered indicating it may date back about 5,000 years. This is puzzling since New England Indians are not known to have built such subterranean structures, raising questions about who could have built it during that time.
@@ -542,12 +542,12 @@ In Guatemala, a large tunnel system was explored, with side passages believed to
 
 - **South American Tunnel Networks**  
 In South America, rumors of vast subterranean tunnel networks persist, with claims these tunnels stretch hundreds of miles. Despite widespread belief among local populations, such structures are seldom acknowledged by mainstream archaeology.
-# The Chronicle of Akakor [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# The Chronicle of Akakor (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Tunnel Networks in South America**  
   E. von Daniken claims the existence of great tunnel networks in South America, but there is no professional literature confirming their reality. While natural caves exist, their extent is likely exaggerated.
 
-# Europe [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Europe (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Dene Holes in Britain**  
   Hundreds of shafts leading to geometrically arranged chambers carved from chalk exist in Essex, Kent, and Durham, called "dene holes." Their builders and purposes remain subjects of debate among archeologists.
@@ -561,12 +561,12 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Ipswich Shafts**  
   Three deep, deliberately filled shafts were found near Ipswich, differing from dene holes as they were filled in complexly, suggesting a possible connection to the Oak Island "Money Pit." The meticulous filling and varied materials used in these shafts raise questions about their function.
 
-# France [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# France (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Gueriments in France**  
   Complexes of tunnels, galleries, and chambers, known as "gueriments," are found in France and resemble intricate ants' nests carved from solid chalk. Their construction methods and purposes are not well understood, adding to the mystery of these subterranean structures.
 
-# Italy [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Italy (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Underworld Tunnel in Italy**  
   An underground river located in a tunnel found under a temple near the Isle of Capri closely resembles the legendary River Styx. The complex contains 290 yards of tunnels, presenting a striking version of the underworld described in Virgil's Aeneid.
@@ -574,7 +574,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Samos Tunnel**  
   The Samos tunnel, created under the direction of Eupalinus, is an engineering marvel, as its two ends joined almost perfectly despite being excavated from opposite sides of a hill. This remarkable feat raises questions about ancient survey methods used.
 
-# Middle East [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Middle East (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Shaft at Tell Duweir**  
   A 90-foot deep shaft discovered at Tell Duweir demonstrates significant dimensions and craftsmanship, but its unfinished state leaves its purpose uncertain. Dating back to the Sixth Century B.C., it continues to intrigue archeologists.
@@ -585,24 +585,24 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Well near Shiraz**  
   A perfectly rectangular well found near Shiraz descends nearly 400 feet into the mountain without any masonry. The local tradition suggests that the three similar wells in the vicinity may be connected underground, but their exact functions remain elusive.
 
-# Asia [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Asia (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Rock-cut Tunnels in India**  
   Elaborate rock-cut tunnels exist at Ellora, dating between A.D. 200 and 600, showcasing stunning architecture with rich sculptures. Curiously, the oldest examples from the Second Century B.C. appear highly advanced, lacking signs of progressive development.
 
-# Africa [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Africa (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Campbell's Well**  
   Campbell's Well, located on the Giza plateau, is a blocked shaft about 100 feet deep featuring numerous tunnels and doors cut into solid rock. Its association with the legendary underground rooms beneath the pyramids contributes to its intrigue.
 
-# Oceania [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Oceania (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Tunnels in Micronesia**  
   A rumored tunnel on the island of Paata is said to have been constructed before Japanese occupation, but no detailed information is available. This adds to the lore surrounding underground structures in the region.
 
 - **Easter Island Tunnels**  
   Tunnels and galleries near the Rano-Raraku quarry on Easter Island exhibit human handiwork, leading to speculations regarding their function. The features of these tunnels raise questions about their possible use as lookout posts or for solar observations.
-# Oak Island Shaft [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Oak Island Shaft (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomalous Engineering**  
   The Oak Island "Money Pit" is a complex of a very deep shaft and tunnels that flood with seawater, representing an incredible engineering accomplishment. Even if constructed within the last few hundred years, it raises questions about the techniques and labor involved.
@@ -619,7 +619,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Tourist Destination Complications**  
   The site has transformed into a tourist attraction, complicating efforts for scientific studies due to advertising hype and sensationalism. Consequently, factual information may be submerged beneath layers of myth and speculation surrounding the Oak Island mystery.
 
-# Remarkable Ancient Mines and Quarries: A Survey [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Remarkable Ancient Mines and Quarries: A Survey (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Surprising Dimensions**  
   Ancient mines and quarries exceeding expectations in size are noted, indicating that prehistoric cultures engaged in extensive mining activities. Their scale suggests not only a vast human effort but also potential societal implications regarding the need for these resources.
@@ -635,7 +635,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Ancient Worldwide Commerce**  
   The idea of a pre-Christian era worldwide commerce in metals based on the mining activities detected raises intriguing possibilities about early global interactions. This contrasts sharply with the mainstream understanding of isolated ancient cultures.
-# Chapter 1: Anomalies in Mining History [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 1: Anomalies in Mining History (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Iron Implements Found in North Carolina Mica Mine**  
   The discovery of iron relics, such as an ax head, in a North Carolina mine is puzzling, as prehistoric American Indians did not use iron. This suggests that some mining activities attributed to ancient natives could actually have European origins.
@@ -664,7 +664,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Salt Mining in Nevada**  
   Evidence suggests that North American Indians mined salt deposits in Nevada over 2,000 years ago without needing complex excavation techniques. This ancient salt mine underscores the resourcefulness of prehistoric peoples in utilizing natural caverns.
 
-# Chapter 2: Notable Discoveries in Early European Mining [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 2: Notable Discoveries in Early European Mining (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Prehistoric Flint Mining in Europe**  
   Early European miners, particularly Cro Magnons, are noted for extracting flint from chalk deposits, which showcases a significant advancement in mining technology. This long history helps contextualize the mining practices observed in the New World.
@@ -672,19 +672,19 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Gallery Mining in Northern Ireland**  
   In Antrim, Northern Ireland, miners accidentally uncovered a vast gallery, indicating sophisticated mining practices not previously recorded in the region. This discovery invites speculation on the extent of ancient mining knowledge and practices in prehistoric Britain.
 
-# Chapter 3: Ancient Mining Practices in Asia [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 3: Ancient Mining Practices in Asia (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Ancient Gold Mine in Kazakhstan**  
   A discovery of a Bronze Age gold mine in Central Asia revealed mining techniques that were considerably advanced for their time, involving the use of bronze and stone tools. The excavation of this site showcases an early example of organized mining operations.
 
-# Chapter 4: Mining Activities in Africa [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 4: Mining Activities in Africa (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Ngwenya Iron Mine in Swaziland**  
   Archaeological excavations at Ngwenya revealed ancient iron mining that dates back at least 28,000 years, demonstrating a long tradition of extracting valuable minerals. The findings suggest the involvement of foreign peoples knowledgeable in mining.
 
 - **Gold Mines of Zimbabwe**  
   The extensive gold mines in Zimbabwe raise questions about ancient trade and commerce, as they are believed to have produced more gold than medieval times. This notion of significant ancient commerce complicates our understanding of African mining history.
-# MSE5 Mines and Quarries [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSE5 Mines and Quarries (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **No evidence of gold use in South Africa**  
   There is a lack of direct evidence supporting the use of gold in South Africa during ancient times. The historical record indicates that countries like Ancient Egypt and Chaldea were significant importers of gold.
@@ -701,7 +701,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Ancient miners identified kimberlite**  
   Dr. Wagner recorded evidence of ancient miners at the Monastery mine, revealing that they could identify kimberlite, which today is known to be barren of diamonds. Their excavation efforts at significant depths hint at a sophisticated understanding of mining techniques.
 
-# MSE6 Lake Superior Copper Mining [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSE6 Lake Superior Copper Mining (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Copper production-consumption discrepancy**  
   There is a vast disparity in the estimated volume of copper produced in Lake Superior and the amount believed to have been consumed by North American Indians. Even conservative estimates suggest that prehistoric miners extracted vastly more copper than has historically been documented.
@@ -717,7 +717,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Questions regarding the timeline of mining activity**  
   Dating of the mining operations suggests they occurred long before known historical accounts, indicating an extensive but undocumented mining history. This chronology positions the Lake Superior miners alongside European Neolithic and Bronze Age cultures, further complicating established narratives in archaeology.
-# Sculpted Hills and Mountains [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Sculpted Hills and Mountains (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **El Fuerte (Bolivia)**: This site features a series of whimsical, large stone structures that lack military function and whose purpose remains largely unknown. The carvings are deep, weathered, and suggest extensive human manipulation of the natural rock.
 
@@ -730,7 +730,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Babeldaob (Palau)**: The island showcases extensive terraced earthworks that indicate significant prehistoric architectural activity, with the primary goal being agriculture. However, it's suggested that upper terraces might have also served as refuge spaces amidst the natural landscape.
 
 - **Rapa (Polynesia)**: The sculpted hills on Rapa are distinctive, appearing somewhat like castles, and were enhanced by stonework to serve defensive purposes. Exploration has confirmed these structures' artificiality, matching them with similar defensive constructions observed in other Polynesian islands.
-# MSE8 Terrestrial Zodiacs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSE8 Terrestrial Zodiacs (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1**: The effigies' marching line is aligned with the expected movement of Ursa Major around Polaris. This alignment suggests an intentional design rather than a random arrangement.
 
@@ -744,7 +744,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Anomaly 6**: The limited dating evidence aligns with the expected chronological order of the effigies' construction. This alignment gives additional credence to the intentional nature of the designs.
 
-# X2. Europe [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# X2. Europe (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1**: The Glastonbury Zodiac allegedly outlines twelve zodiac signs through ancient roads and watercourses. This identification connects significant cultural myths to potential astronomical designs in the landscape.
 
@@ -760,7 +760,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Anomaly 7**: The representation of certain zodiac signs is claimed to lack identifiable features without significant imagination. This subjective interpretation casts doubt on the evidence for a structured zodiac.
 
-# X3. Africa [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# X3. Africa (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1**: The arrangement of the three largest Giza pyramids mirrors the configuration of stars in Orion’s Belt. This correlation leads to speculation about intentional design related to celestial navigation.
 
@@ -771,7 +771,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Anomaly 4**: The alignment of the southern shaft of the King’s chamber with Orion’s Belt during the Pyramid Age indicates deliberate astronomical orientation. This evidence points to the Egyptians’ skilled astronomical capabilities.
 
 - **Anomaly 5**: The ancient Egyptians’ familiarity with the zodiac concept could imply a wider understanding of celestial mapping. However, further evidence is necessary to substantiate this connection.
-# Anomaly Evaluation [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomaly Evaluation (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Astronomically Oriented Long Stone Rows**
   Some long stone rows in North America appear to have astronomical alignments, suggesting potential purposes linked to celestial events. This phenomenon raises questions about their uses compared to similar structures in Europe.
@@ -782,7 +782,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Categorization as Ritual Structures**
   Many long stone rows in both North America and Western Europe have been conventionally classified as ritualistic. However, the evidence to support this categorization remains tenuous, leading scholars to challenge the accepted purposes of these structures.
 
-# Similar and Related Phenomena [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Similar and Related Phenomena (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Short Stone Rows**
   Short stone rows differ significantly from long rows, both in form and likely function. These structures provide insight into various cultural practices surrounding megalithic construction.
@@ -798,20 +798,20 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Boulder Trains**
   Boulder trains, categorized as geological rather than anthropogenic anomalies, highlight the intersection of natural formations and human interpretation. These structures often invoke comparisons to constructed stone rows in terms of alignment and layout.
-# MSH3 Double Stone Rows [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSH3 Double Stone Rows (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Avebury**: The main anomaly of Avebury lies in the curved nature of both of its avenues, which militates against any clear astronomical alignment. Additionally, the impressive size of the upright stones and lengthy structure suggest it served primarily as a processional way for worshippers rather than for celestial navigation.
 
 - **Callanish**: The avenue at Callanish is notably funnel-like, being wider at the entrance than at its end, which adds a layer of uniqueness to its layout. Despite suggestions of astronomical alignments concerning the stars and moon, the avenue's overall design indicates it was intended for large gatherings and rituals.
 
 - **Dartmoor**: Anomalies present in the Dartmoor rows include their varying widths; some are extremely narrow, forcing processions to proceed one by one. Furthermore, despite claims of possible astronomical significance, the various orientations of the rows lead many to doubt that any alignments were intentional or meaningful.
 
-# MSH4 Multiple Stone Lines [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSH4 Multiple Stone Lines (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **General Observations**: A key anomaly found in multiple stone rows is their confined geographic distribution, primarily existing only in Brittany and northern Scotland. The striking similarities between the structures across such vast distances (750 miles apart) raise questions about cultural exchange or shared practices among ancient peoples.
 
 - **Menec**: The Menec rows present a puzzling alignment change, occurring halfway between their starting and ending points, which deviates from expected regularity in such constructions. These irregularities challenge the assumption that these rows were purely intended for precise astronomical usage and suggest a more complex purpose involving rituals or gatherings.
 
 - **Thom's Extrapolation Theory**: A notable anomaly in the interpretation of multiple stone rows is Thom's theory that they functioned as stone "graph paper" for projecting lunar positions, an advanced concept for the time. However, this hypothesis raises doubts about the practicality and labor demands needed for such precise astronomical endeavors, leading to further inquiries about the true intentions behind these megalithic structures.
-# Anomalies in Stone Arrays and Mazes [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in Stone Arrays and Mazes (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Crooked and Splayed Rows**: Most multiple stone rows exhibit a somewhat crooked and/or splayed configuration. This irregularity raises questions about their intended purpose, especially in the context of astronomical applications proposed by certain researchers.
 
@@ -840,7 +840,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Megaliths in Korea**: The discovery of megalithic arrays in Korea suggests that this architectural impulse extended beyond western influences. Their recent dating further complicates the understanding of megalithic practices as they do not appear to be derived from older traditions observed in Europe. 
 
 - **Palau's Megalithic Structures**: The standing stones at Badrulchau in Palau, believed to have once supported buildings, present an intriguing anomaly in their construction and arrangement. The grooves found at the top of the stones hint at their intended use, yet much about their historical context remains speculative.
-# Stone Meanders MSHG6 [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Stone Meanders MSHG6 (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Stone Meanders**: Stone lines that curve, wander, and intertwine. These arrangements have been collected from the North American Southwest and Australia, indicating a rich history, although there are gaps in available data about their existence elsewhere.
 
@@ -850,35 +850,35 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Australia - Sacred Sites**: In Australia, particularly at Kunturu, stone meanders show similar characteristics as those in North America, despite geographical separation. The serpent-like alignment at this site represents totemic figures, indicating that these structures served as more than just spirit paths.
 
-# Stone Circles MSH7 [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Stone Circles MSH7 (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description**: Stone circles are characterized by their circular arrangements, which can slightly deviate into ellipses. Excluded from this category are more mundane formations like tipi rings and council rings, focusing on those rich in historical and cultural significance.
 
 - **Anomaly Evaluation**: Current understanding shows that no anomalies exist within the baseline conventions surrounding stone circles. However, many questions arise as archeological evidence continues to challenge established narratives, particularly regarding their purposes and construction methods.
-# MSH15  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSH15  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Are any stone circles intentionally aligned with other stone circles or other structures? This question explores the possibility that stone circles might play a role in "leys," which are alignments of geographical features. 
 
-# MSH16  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSH16  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Are the stone circles of Britain and Ireland culturally related to the stone circles seen elsewhere in the world? This relates to claims of ancient cultural diffusion across oceans which could suggest a broader connection among disparate cultures. 
 
-# MSH17  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSH17  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Do any stone circles have sophisticated astronomical applications, such as eclipse prediction? Stonehenge serves as a focal point for this inquiry, drawing attention to its potential astronomical significance. 
 
-# MSH17  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSH17  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Do any stone circles have applications other than in rituals and rudimentary astronomy? Tide prediction has been proposed as an example of alternative uses that these structures might have served. 
 
-# MSH19  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSH19  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Do the characteristics of any stone circles suggest unrecognized cultural associations? A recent assertion claims that notable sites, especially Stonehenge, were "invented" by the French, indicating a potential cultural misunderstanding. 
 
-# MSH8  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSH8  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Recumbent stone circles (RSCs) are characterized by a single prostrate stone flanked by large standing stones. The specific positioning of the recumbent stone raises questions about its astronomical significance and ritual purpose, which remain largely speculative. 
 
-# MSH9  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSH9  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The proposed existence of a "megalithic yard" suggests Neolithic and Bronze Age peoples in Western Europe had a standard unit of length. Validation of this claim is contentious, as some researchers find evidence for quantized measurements while others do not. 
 
-# MSH10  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSH10  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The supposed use of sophisticated geometrical relationships in stone circles suggests that ancient builders might have recognized advanced geometrical principles. However, mainstream science mostly does not accept the notion of such geometric sophistication by Neolithic and Bronze Age peoples of the British Isles, leading to a high anomaly rating.
-# Stone-Circle Geometry  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Stone-Circle Geometry  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Nearly Perfect Circles**  
   Approximately 600 stone circles are described as nearly perfect circles, which were easier to construct using long cords or megalithic yardsticks. These nearly perfect circles provide little for statistical analysis compared to the divergent shapes of other circles.
@@ -895,7 +895,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Peculiar Distortion of Pythagorean Relationships**  
   Thom identified anomalies in what should have been standard Pythagorean relationships in some circles, which raised questions about the accuracy of such measurements. These oddities are intriguing and cast doubt on the validity of Thom's findings regarding Pythagorean triangles used in construction.
 
-# Occult Influences on the Design of Stonehenge [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Occult Influences on the Design of Stonehenge (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Influence of Occult Concepts**  
   The design of Stonehenge might have been influenced by numerological and astrological ideas, suggesting a complex relationship between ancient beliefs and architectural choices. Despite being non-scientific, these occult concepts could have had a significant effect on the structure's design.
@@ -903,14 +903,14 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Rated Lack of Scientific Anomaly**  
   The apparent influence of occultism in architecture lacks scientific backing, leading to the rating of 1 in terms of an anomaly. This indicates that while the influence is evident, it does not uphold the criteria for scientific anomaly.
 
-# Physical Phenomena Associated with Stone Circles [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Physical Phenomena Associated with Stone Circles (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **High Frequency of Luminous and Magnetic Phenomena**  
   Stone circles are reported to exhibit a high frequency of certain luminous, magnetic, and acoustic phenomena. Despite anecdotes supporting these occurrences, they lack substantial scientific validation and remain a topic for fringe archaeology.
 
 - **Concentration of Physical Phenomena**  
   Although the phenomena themselves are natural, their concentration around stone circles raises concerns as this effect lacks a defensible scientific basis. This concentration leads to speculation regarding the existence of "earth energy," which has become associated with ancient architectural sites.
-# 171 Stonehenge Physical Phenomena [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# 171 Stonehenge Physical Phenomena (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Luminous phenomena**  
   New Age thinking posits that stone circles and other sacred sites are locations where "earth energies" manifest. UFOs are frequently reported in these areas, with anecdotal accounts of strange light phenomena, such as a sighting in Avebury where a light descended without a sound and left no trace.
@@ -927,11 +927,11 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Physiological phenomena**  
   Many individuals report physiological reactions, such as tingling sensations, upon contact with ancient standing stones, with some stones nicknamed for these effects. While such experiences are often linked to New Age beliefs, there remains a question of their origins and whether they can be scientifically validated. 
 
-# MSH13 Psychical Phenomena Concentration at Stone Circles [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSH13 Psychical Phenomena Concentration at Stone Circles (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Dowsing phenomena**  
   Dowsing is claimed to detect subterranean "earth energy" lines converging beneath stone circles, resembling phenomena typically associated with water. However, scientific scrutiny is scant, as results vary widely and often depend on the dowsers' subjective experiences, raising questions about the validity of the claims.
-# Stonehenge Psychical Phenomena [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Stonehenge Psychical Phenomena (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Blind Springs**  
   Dowsers observed that certain locations around megalithic monuments, termed "blind springs," exhibit mysterious influences similar to those created by springs, even though excavations revealed no water sources. These phenomena intrigue researchers, suggesting an intricate relationship between geology and ancient structures.
@@ -948,7 +948,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Energy Leys**  
   S. Lonegren described "energy leys," which are believed to be beams of energy that vary in width depending on various environmental factors. These ley lines supposedly exhibit a directional flow, estimated using a pendulum, which could signify their alignment with spiritual or natural forces.
 
-# Stone Circles and the Environment [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Stone Circles and the Environment (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Geologic Faults**  
   The relationship between active geologic faults and the locations of stone circles remains largely hypothetical with little scientific backing. However, there are indications that sacred sites may be situated near faults due to the phenomena these locations produce, suggesting a connection between natural forces and ritual practices.
@@ -967,21 +967,21 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Halos and Design Influence**  
   The hypothesis that solar and lunar haloes may have influenced the design of Stonehenge posits a connection between atmospheric phenomena and ritual architecture. While skeptics challenge this theory, the possibility that natural phenomena shaped cultural expressions of the Bronze Age invites further exploration into ancient worldviews.
-# Large-Scale Organization of Stone Circles [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Large-Scale Organization of Stone Circles (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Organizational Structure**: The arrangement of stone circles into clusters or linear alignments, known as "leys," alongside other megalithic sites. The literature acknowledges the existence of clusters but debates the intentionality behind leys, asserting they are often chance alignments.
 
 - **Controversy Regarding Leys**: While some scholars suggest certain alignments were constructed for astronomical purposes, popular literature claims extensive leys that are dismissed by professionals. The main anomaly arises from the dispute over whether these leys were created intentionally or if they occurred by chance.
 
-# Anomaly Evaluation [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomaly Evaluation (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cultural Efficiency**: It is reasonable to believe the megalithic culture organized their ritual sites for efficiency. The concept of alignment is common in human behavior; thus, the lack of archaeological anomaly suggests that professional skepticism is what's truly anomalous.
 
-# Possible Explanations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Possible Explanations (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Skepticism of Intentionality**: The consensus among professional archaeologists is that there are no intentional leys, which raises the need for catalog entries documenting alleged cases. The controversy mainly stems from assertions in popular literature versus archaeological evidence.
 
-# Possible British Leys [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Possible British Leys (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Stonehenge Ley Triangle**: Lockyer identified an equilateral triangle formed by Stonehenge, Grovely Castle, and Old Sarum, which aligns with solstice events. The straightness of this triangle and its astronomical connections fuel speculation of intentional design.
 
@@ -989,7 +989,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Exmoor Ley?**: A potential ley identified on Exmoor connects three stone circles over a 63-mile line, although purists argue that at least five elements are needed to ensure statistical significance. The non-intervisibility of these circles adds to the intrigue surrounding their arrangement.
 
-# Possible Leys Outside of Britain and Ireland [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Possible Leys Outside of Britain and Ireland (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **European Alignments**: Many sites in Western Europe could potentially connect through straight lines, but evidence of stone circle leys is virtually nonexistent. Notable attempts to find such alignments have not yet centered on stone circle arrangements.
 
@@ -997,12 +997,12 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **Anasazi Sites in North America**: The alignment of three Anasazi sites in New Mexico might seem significant, but the lack of additional sites suggests it is likely a coincidence. Statistical definitions of leys undermine claims of intentional connection among the sites.
 
-# Critiques of the Ley Concept [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Critiques of the Ley Concept (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Statistical Challenges**: Critics argue that the existence of many potential ley markers makes the likelihood of chance alignments substantial, as elaborate networks can emerge from random distributions. This challenges ley enthusiasts' claims of intentionality, suggesting that discerned alignments often stem from coincidence.
 
 - **Public Perception and Acceptance**: The dichotomy in belief regarding ley lines resembles the UFO phenomenon, with persistent disagreements between passionate believers and the academic community. Many remain unconvinced, adhering to the notion that most alignments are simply accidental, contributing to the overall skepticism toward ley phenomena.
-# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Stone Circles Outside Britain and Ireland**
   The presence on all continents, except Antarctica, of stone circles of various sizes, compositions, and ages is noted. Some of these circles have unexpected ages and geographical locations, and, while simple geometric figures, they serve various cultural functions.
@@ -1033,7 +1033,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 
 - **New Mexico**
   A stone circle discovered in Socorro County includes upright stones forming a square and a broad stone potentially serving as an altar. The inner circle's structure appears significant but lacks further scholarly attention or detailed investigation.
-# MSH16 Stone Circles Worldwide [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSH16 Stone Circles Worldwide (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Zodiac Ridge, Arizona**: The circular alignment, known as Zodiac Ridge, measures approximately 40 meters in diameter and features over 800 granitic stones. An alignment of about 30 large stones oriented true east-west is located near the center, suggesting potential astronomical significance.
 
@@ -1064,7 +1064,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Tongareva, Oceania**: On this remote island, circular arrangements of limestone pillars were noted, although their origin is not ancient. Current knowledge about the site is limited, and further investigation is necessary.
 
 - **Easter Island Stone Circles**: While primarily recognized for its giant statues, Easter Island also houses significant stone circles laid before the statues. These circles are suggested to have been used for ceremonial practices related to celestial observations, although they are not particularly elevated.
-# Stone Circles as Eclipse Predictors [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Stone Circles as Eclipse Predictors (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly 1**: The intentional design of Stonehenge for eclipse prediction by Neolithic cultures suggests advanced intellectual capabilities. Despite the ongoing debate, many archaeologists agree that the astronomical alignments do not sufficiently support the idea that it was used for such purposes. 
 
@@ -1077,7 +1077,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Anomaly 5**: Skepticism exists not only among archaeologists but also among astronomers regarding the possibility that Neolithic cultures could accurately predict eclipses. The idea necessitates a significant understanding of astronomy that seems implausible for the time. 
 
 - **Anomaly 6**: Despite criticisms, certain astronomers have maintained that compelling astronomical features exist within Stonehenge, making it a topic of fascination among those who study archaeoastronomy. The ongoing intrigue lies in the possibility that the very design of Stonehenge might have facilitated eclipse prediction despite the doubts surrounding its actual application.
-# Stonehenge’s Rectangle [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Stonehenge’s Rectangle (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Positioning at Unique Latitude**
   - Stonehenge is situated at a latitude where its markers align with significant astronomical features, forming corners of a rectangle. This positioning is unique, allowing the phenomenon to only occur at specific latitudes in the Northern Hemisphere and the Southern Hemisphere.
@@ -1085,7 +1085,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Astounding Coincidence or Intentional Design**
   - The ability of the builders to align these stones precisely suggests either a remarkable coincidence or an intentional design by skilled astronomers. If intentional, this reflects the impressive observational capabilities of Neolithic humans.
 
-# Did the French Build Stonehenge? [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Did the French Build Stonehenge? (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cross-Channel Influence**
   - Some characteristics of Stonehenge suggest a strong cultural influence from Brittany, challenging the notion that it is uniquely British. The similarities between stone structures across Britain, Ireland, and Brittany indicate the possibility of a cross-Channel connection in megalithic culture.
@@ -1093,64 +1093,64 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Symbol on Stone 57**
   - The box-like symbol carved on stone 57 bears resemblance to megalithic art found in Brittany, hinting at a connection between the two regions. This suggests that Stonehenge may have been influenced by or even built by those from Brittany, contradicting the traditional view of its purely British origins.
 
-# Geometrical and Geographical Anomalies of Stone Rectangles [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Geometrical and Geographical Anomalies of Stone Rectangles (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Use of 3-4-5 Right Triangles**
   - The geometrical features of certain stone rectangles include the use of 3-4-5 right triangles, implying advanced knowledge of geometric principles. This understanding suggests a level of sophistication comparable to that found in stone circles and reveals insights into the builders' capabilities.
 
 - **Astronomical Alignments at Unique Latitudes**
   - Some stone rectangles are located at latitudes where specific astronomical alignments occur, indicating a comprehension of the celestial relationships between the earth, sun, and moon. This anomaly further highlights the builders' advanced knowledge and may challenge expectations of their technological skills.
-# The Old World [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# The Old World (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Calendar sites are highly anomalous structures built by early settlers in northeastern North America, with their alignments often considered fortuitous by conservative archeologists. Critics argue that the region's hilly and rocky terrain could explain the alignments without human intervention.
 
-# Possible Explanations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Possible Explanations (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - None of the calendar sites necessarily require specific explanations, but some amateur archeologists propose these sites as proof of pre-Columbian visits by Europeans. Mainstream archeologists counter that the absence of essential artifacts diminishes these claims.
 
-# North America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# North America (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Claims of calendar sites in North America involve alignments of natural and artificial objects with astronomical significance. Some members of NEARA have sought alignment sites with features indicative of intentional human design, despite skepticism from critics.
 
-# Vermont [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Vermont (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Vermont-I and Vermont-II are the most well-researched calendar sites in northeastern North America, exhibiting compelling features like stone chambers and markings. The debate surrounding the age and origin of these sites highlights both their potential significance and the controversy in archeological interpretation.
 
-# New Hampshire [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# New Hampshire (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A potential calendar site near North Salem features numerous walls and a significant stone circle. Observations of solstices and equinoxes are claimed, but the legitimacy of these alignments remains in dispute due to the lack of supporting artifacts.
 
-# Massachusetts [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Massachusetts (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - At Burnt Hill in the Berkshires, a remarkable astronomical alignment involving a setting sun and standing stones has been documented. Comparable alignments in Western Europe would be more readily accepted as significant by professional archeologists, raising questions about the evaluation of American sites.
 
-# Wisconsin [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Wisconsin (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - J. Scherz has identified a calendar site in Wisconsin with unusual artificial islands that allow for predictions of solstices and equinoxes based on their alignments. The proximity to significant prehistoric mining activities adds another layer of intrigue to the findings.
 
-# New Mexico [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# New Mexico (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - A potential Indian calendar site north of Chaco Canyon features natural pillars aligned with specific seasonal observations. The presence of a Zuni sun symbol at the site suggests a cultural significance tied to calendrical practices.
 
-# South and Central America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# South and Central America (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Incas and Maya engaged in advanced astronomy and architecture, utilizing complex structures for astronomical observations. While only a few calendar sites exist in South America, their sophistication indicates the importance of astronomy in these cultures.
 
-# Honduras [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Honduras (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The sundial-like structure at Copan serves as a calendar site rather than a conventional timekeeper, with two large stelae forming a vast astronomical marker. This finding emphasizes the cultural significance of such structures in agricultural cycles.
 
-# Argentina [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Argentina (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The El Mollar site showcases intricately carved standing stones with significant solar and lunar alignments used by ancient civilizations. The limited knowledge regarding these structures poses questions about the builders and functions throughout history.
 
-# Peru [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Peru (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Spanish chronicles noted that the Incas utilized pillars to gauge seasonal changes in Cuzco, some of which still exist today on Lake Titicaca. The remaining pillars frame the summer solstices, emphasizing their significance in ancient calendrical practices.
 
-# Africa [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Africa (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Megalithic calendar sites are abundant across Sub-Saharan Africa, though many do not prioritize astronomical functions. Traditional practices and the cultural context of these structures could provide insights into their purposes beyond mere astronomy.
 
-# Kenya [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Kenya (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Namoratunga site in northwestern Kenya features an alignment of basalt pillars dated to approximately 300 B.C. The precise alignments with prominent stars indicate that the ancient inhabitants possessed advanced astronomical knowledge.
 
-# Oceania [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Oceania (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Polynesian cultures have incorporated astronomical symbolism into their practices, with J. Bianco identifying probable calendar sites in Tonga and Easter Island. Structures like the Haamonga trilithon and the pits at Orongo symbolize the connection between astronomy and cultural identity.
 
-# Tonga [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Tonga (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Haamonga trilithon and its surrounding stones have been identified as serving calendar purposes, underscoring the significance of similar constructions in Polynesian culture. This site is of interest for its potential connections to ancient astronomical practices.
 
-# Easter Island [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Easter Island (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - T. Heyerdahl discovered four holes at the Orongo site arranged to align with seasonal astronomical events, suggesting their use for astrological observation. The dimensions of these pits reveal a meticulous approach to celestial tracking by the island's ancient astronomers.
-# Medicine Wheels [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Medicine Wheels (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Limited Historical Records**: The earliest reference to medicine wheels was published in 1903, suggesting there may be earlier mentions yet to be discovered. This scarcity of documentation leads to speculation about the true historical significance and function of these structures.
 
@@ -1167,7 +1167,7 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Skepticism of Astronomical Theories**: Some contemporaries express doubts regarding the utility of the alignments suggested for the Big Horn and Moose Mountain medicine wheels, criticizing the accuracy and reliability of their measurements. This skepticism highlights the ongoing debate within academia about interpreting ancient structures and their purposes.
 
 - **Potential European Connections**: A reported stone wheel in Portugal with significant similarities to North American medicine wheels invites speculation about transatlantic cultural connections. Such claims are controversial and have not been widely accepted in archaeological circles, suggesting a need for further evidence to support or disprove these theories.
-# Anomaly Evaluation [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomaly Evaluation (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Woodhenges**  
   With the exception of the single recognized American woodhenge, astronomy was probably not the main objective of woodhenges; most seem to have been supports for large roofed buildings of some sort. The American woodhenge, at Cahokia, Illinois, was apparently only a simple calendar site and is, therefore, not anomalous.
@@ -1175,16 +1175,16 @@ In South America, rumors of vast subterranean tunnel networks persist, with clai
 - **Suggestions of Trans-Atlantic Cultural Diffusion**  
   Despite some similarities between the American and British woodhenges, they are separated in time by up to 3 millennia and also in purpose. Therefore, they cannot be considered evidence for early cultural diffusion across the Atlantic.
 
-# Possible Explanations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Possible Explanations (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **None Required**
 
-# Similar and Related Phenomena [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Similar and Related Phenomena (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Stone circles (MSH7)**  
   Woodhenges may be older than stone circles—perhaps they were even their precursors. Most British woodhenges were simply buildings and not observatories, suggesting they are not anomalous in any respect.
 
-# General Observations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# General Observations (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Astronomy and Woodhenge Structures**  
 The axis of the original British Woodhenge was aligned with the summer Solstice, but the structure was not used for astronomy. Its posts probably supported a roof that precluded observations of the sky, indicating that it was a timber temple or meeting hall.
@@ -1195,11 +1195,11 @@ The woodhenge at the American Cahokia site in Illinois was almost certainly devo
 - **Independent Invention**  
 Despite noted similarities between American Indian timber structures and those in Britain, this is likely a case of independent invention due to the time gap. The absence of anomalies across woodhenge structures removes the need for detailed analysis. 
 
-# China Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# China Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Curious Wooden Structures in Lop Nur**  
 Curious wooden structures discovered in the Lop Nur Desert in northwestern China consist of concentric rings of short wooden pillars. These structures are not classified as woodhenges but their geometric features allow them to be cataloged in relation to the subject.
-# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Fresh-water mussels at Muscle Shoals**  
 Muscle Shoals got its name from fresh-water mussels deposited by Indians, revealing a direct link between the area's natural features and its indigenous history. The presence of these shells showcases the utilization of local resources by early inhabitants.
@@ -1245,31 +1245,31 @@ These cairns, meticulously constructed from selected stones, showcase unique arc
 
 - **Burnt rock mounds in Texas**  
 In Texas, burnt rock mounds display a specialized construction with densely packed angular rock fragments, possibly related to ancient cooking or ritual practices. The presence of soil and burnt remains suggests a particular cultural significance and utilitarian function.
-# Anomalies in Burnt Rock Mounds [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in Burnt Rock Mounds (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Burnt rock mounds**: These features are theorized to be Indian kitchen middens, formed from fragmented stones used to contain cooking fires. The thickness of deposits varies significantly, but rarely exceeds six to eight feet even in larger mounds.
 
-# Anomalies in Fused Forts [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in Fused Forts (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Scottish "fused forts"**: These structures consist of large boulders that were fused together by intense heat, presumably from massive wood fires used by the ancient Scots. Their formation poses significant questions for archaeologists, as the purpose and methodology remain unclear.
 
-# Anomalies in Kitchen Middens [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in Kitchen Middens (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Kitchen middens in Botswana**: These resemble Texas burnt rock mounds, containing layers of glassy refuse over several hundred square meters. The source of the high temperatures needed to fuse the debris is disputed, with theories including lightning, despite the glassy layers not resembling fulgerites.
 
-# Anomalies in Conical Piles [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in Conical Piles (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Unique conical pile in Belize**: Discovered in 1954 during construction, this structure consists of two conical piles of boulders, the outer of which is coated with lime. Its resemblance to Mayan pyramids is notable, although it appears structurally unique and generically related to later pyramids.
 
-# Anomalies in Cairn Alignments [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in Cairn Alignments (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Solar-aligned cairn lines in Massachusetts**: Two cairn lines display apparent solar alignments with the winter-solstice sunrise and the equinox sunset. These stacks of rocks, consisting of a few rocks each, may be of recent origin, lacking solid geological foundations.
 
-# Anomalies in Submerged Cairns [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in Submerged Cairns (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Submerged "pyramids" in Rock Lake, Wisconsin**: These reputed structures have been spotted by fishermen and reported by divers, who claim to have seen a 29-foot-high pyramid beneath the water. The visibility issues complicate definitive identification, leaving the possibility of their man-made nature in question.
 
-# Anomalies in Cairn Complexes [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in Cairn Complexes (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cairn complex near Coventry, Rhode Island**: A perplexing site with 120 stone piles, many of which meet specific criteria for conical cairns. These structures present unique geometric arrangements and their construction appears deliberate rather than incidental.
 
@@ -1277,10 +1277,10 @@ In Texas, burnt rock mounds display a specialized construction with densely pack
 
 - **Ceremonial mesa in California**: Photographic evidence highlights a fabric of 28 abutting gravel cairns arranged in a two-dimensional pattern, indicating a deliberate layout. While dimensions are not detailed, the complexity of the arrangement hints at a potential ceremonial function.
 
-# Anomalies in Ring Cairns [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in Ring Cairns (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Ring cairns at Clava, Scotland**: This concentration of 50 ring cairns is notable for their significant diameter and orientation, with entrances facing south-southwest. The purpose of these structures, along with their relationship to nearby passage graves and stone circles, remains a mystery to archaeologists.
-# Earthen Mounds MSM5 [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Earthen Mounds MSM5 (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **La Venta**  
 The fluted pyramid at La Venta is a unique structure made of clay, yet its specific purpose remains a mystery. Magnetometer surveys uncovered a possible platform buried beneath the mound, raising further questions about the Olmec civilization's practices.
@@ -1294,7 +1294,7 @@ The Akapana is a pyramidal hill at Tiahuanaco, uniquely aligned with the cardina
 - **Etowah Mound**  
 Etowah Mound boasts a height of 60 feet and features unusual artifacts, including copper plaques with unique designs. The mound's broad ramp and flat top further set it apart, suggesting a sophisticated understanding of structure among its builders.
 
-# Mesoamerica [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Mesoamerica (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cuicuilco**  
 Cuicuilco's construction raises questions due to its location beneath a lava flow, with earlier archaeological theories placing its creation long before established timelines. Despite later validation of its dates, Cummings' revolutionary impact never materialized, leaving further exploration into its past.
@@ -1305,66 +1305,66 @@ Cholula is a massive human-built structure distinguished by its volume, yet it r
 - **San Lorenzo**  
 San Lorenzo presents as an impressive mound, but its immense size signals a deeper complexity associated with its construction. The mound's length and width speak to an advanced understanding of earthworks within the Olmec culture.
 
-# South America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# South America (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **El Panecillo**  
 El Panecillo is a prominent hill in Quito, raising speculation of its artificial nature despite the absence of professional archaeological acknowledgment. Its unusual formation and the lack of stratification suggest it might have been modified or constructed rather than being wholly natural.
 
-# Europe [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Europe (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Silbury Hill**  
 Silbury Hill stands as the largest human-made mound in Europe, yet it lacks any burials, contrary to typical kinship burial mounds. Its precise engineering and massive labor investment prompt inquiries about its cultural significance beyond mere burial practices.
 
 - **Tumulus Saint Michel**  
 The Tumulus Saint Michel is a burial site that incorporates small chambers, indicating a blend of mound-building and ancestor veneration. Its connection to the broader megalithic complex in Brittany reflects the intricate relationship between constructed mounds and rituals in ancient cultures.
-# Chapter 1: Anomalies of Saint Michel [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 1: Anomalies of Saint Michel (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Menec are clearly visible but today, Saint Michel is only about 40 feet high, significantly lower than its past height. The Romans leveled it for building purposes, leaving us to speculate about its original flat top which likely served ceremonial functions.
 
 - The graves surrounding Saint Michel date back to before 4,000 BC, which predates various other archaeological sites. This suggests that Tumulus Saint Michel could be older than its burials and may have had different purposes.
 
-# Chapter 2: Asia Minor Burial Mounds [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 2: Asia Minor Burial Mounds (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The Tomb of Alyattes is noted for its immense size, with a diameter of 1,180 feet, nearly double that of Silbury Hill. This structure dates to before 561 B.C. and was thoroughly explored, reaffirming the descriptions provided by Herodotus about its considerable dimensions.
 
 - Midas Mound, dated around 718 BC, is another significant burial mound located 100 kilometers southwest of Ankara. At 175 feet high, this mound was built for a wealthy individual and features considerable dimensions, although it is unnamed.
 
-# Chapter 3: Mounds in China [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 3: Mounds in China (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Chinese mounds, often burial sites, are characterized by their terraced structure and resemblance to Mesoamerican pyramids. Researchers point out that these mounds, with elaborate interiors and grave goods, remain largely unexplored due to the challenges of conducting archaeology in the region.
 
 - The sacrificial altar of Chou dates back to approximately 700-500 B.C., showcasing the existence of large mounds in ancient China. Some of these pyramidal mounds measure up to 250 meters square, serving as princely graves from the Chou period.
 
-# Chapter 4: Japanese Imperial Graves [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 4: Japanese Imperial Graves (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Japanese pyramidal earthen mounds exhibit similarities to those found in China, particularly in their dimensions and structure. The imperial graves of the dolmen period, often associated with feudal princes, feature large double mounds with distinctive shapes and surrounding moats.
 
 - The dimensions of these imperial graves underscore their immense scale, with some mounds estimated to be in the tens of millions of cubic feet. The presence of surrounding ditches also draws parallels with British stone circles known as "henges."
 
-# Chapter 5: Polynesian Mounds [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 5: Polynesian Mounds (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - In Samoa, the ancient inhabitants constructed various geometrically interesting mounds, including star-shaped mounds made of earth and stone. These mounds lack precise measurements but are distinctive enough to warrant attention.
 
 - The Pulemelei mound in Samoa, with dimensions of 60 by 50 meters and a height of 12 meters, is part of a significant ceremonial center. Its uncertain function and surrounding structures suggest a site of communal importance within the region.
 
-# Chapter 6: Tonga's Pigeon-Snaring Mounds [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 6: Tonga's Pigeon-Snaring Mounds (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - Tonga's native peoples created large mounds for the specific purpose of pigeon snaring, utilizing a method that involved the strategic placement of earth piles. Although smaller in size, these mounds serve an intriguing cultural narrative revolving around royal hunting practices.
 
 - The pigeon-snaring mounds have a diameter of up to 115 feet and feature smaller beehive-shaped structures on top for concealment. This unique method of hunting highlights the ingenuity of the local population in adapting to their environment.
 
-# Chapter 7: The Giant Grave in the Caroline Islands [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 7: The Giant Grave in the Caroline Islands (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - An unusual mound, referred to as the Giant Grave, is located on an unnamed island in the Caroline Islands and is set apart by its size and shape. Local tradition holds that a giant is buried here, adding a layer of myth to the site.
 
 - The mound measures approximately ten feet high and stretches a quarter mile long, with speculation that it served dual purposes as both a grave and a defensive wall according to historical texts. This blend of fact and myth serves to enhance the cultural significance of the mound. 
 
-# Chapter 8: Hawaii's Kukii Hill [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 8: Hawaii's Kukii Hill (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - The Hill of Kukii in Hawaii, notable for its regular outline, draws comparisons to the pyramid of Cholula in Mexico. Observers noted the absence of volcanic material, suggesting that this could be a significant artificial structure.
 
 - Some features of the Kukii Hill include terracing and hewn stone blocks that hint at advanced construction techniques. However, the origins and purpose of the structure remain enigmatic, marking it as an anomaly within the region.
-# Mound Lines and Arrays [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Mound Lines and Arrays (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Earthen Mounds**  
   Large numbers of earthen mounds are arranged in long lines or geometrical arrays, and these formations appear to be very rare. The only known example is rectilinear, although other geometric shapes like circular or hexagonal could theoretically fit in this category.
@@ -1372,7 +1372,7 @@ The Tumulus Saint Michel is a burial site that incorporates small chambers, indi
 - **Mound Arrays Origins**  
   There are suggestions that some mound arrays might have natural origins, such as Mima mounds taking on a hexagonal shape when closely packed. Alternatively, they may have arisen from agricultural practices like raised-field agriculture or been designed for ritualistic purposes similar to stone mazes.
 
-# Enigmatic Mound Complexes [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Enigmatic Mound Complexes (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Poverty Point Anomalies**  
   Poverty Point is an early archeological site that flourished between 1200 and 800 B.C., but its artifacts show no relation to later Moundbuilder cultures. The sudden collapse of the Poverty Point culture draws questions about the origins and subsequent fate of its people.
@@ -1385,7 +1385,7 @@ The Tumulus Saint Michel is a burial site that incorporates small chambers, indi
 
 - **Cultural Disconnection**  
   While Wheeler and Watson Brake are closely located, the two cultures do not appear to be related, with their artifacts differing significantly. This lack of connection raises further questions about the reasons for their construction and the lifestyle of their respective builders.
-# Mound Complexes MSM7  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Mound Complexes MSM7  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Hanukkah Mound (Ohio)**
   - The East Fork Works, a mound complex near Milford, Ohio, displayed an improbable geometry and has long since disappeared, making confirmation difficult. Some researchers, like J.H. McCulloch, assert the site's existence despite earlier dismissals by others, suggesting that its configuration resembles a nine-branched menorah associated with Jewish culture.
@@ -1395,7 +1395,7 @@ The Tumulus Saint Michel is a burial site that incorporates small chambers, indi
 
 - **Mosier Mounds (Oregon)**
   - Located near Mosier, Oregon, the 30-acre complex consists of rock walls and various lithic structures, showing a unique configuration that anthropologists believe served several ritualistic or practical purposes. The specific functions of these mounds remain uncertain, but they seem to predate European contact and involve a complex social or spiritual significance.
-# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Holed Boulders as Bench Marks**  
   The proposition that the holed boulders were benchmarks made by surveyors was dismissed by J.J. Olson, who argued that surveyors would never place benchmarks so close together. This challenges the idea that human intervention was responsible for these anomalies.
@@ -1417,7 +1417,7 @@ The Tumulus Saint Michel is a burial site that incorporates small chambers, indi
 
 - **North Dakota Stone Sphere Discovery**  
   A construction crew discovered a near-perfect stone sphere in North Dakota, posing questions about its origins. Despite its spherical dimensions suggesting artificiality, the absence of human artifacts nearby leaves its classification in limbo.
-# MSO4 Curious Arrays and Groupings of Stone or Wooden Columns [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSO4 Curious Arrays and Groupings of Stone or Wooden Columns (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Carved Stone Columns**  
   Carved stone columns photographed at great depths in the ocean have led to numerous questions regarding their origin. The age and makers of these columns remain unknown, and their presence in a deep-sea trench raises more mysteries than it solves.
@@ -1425,16 +1425,16 @@ The Tumulus Saint Michel is a burial site that incorporates small chambers, indi
 - **Arrays of Ancient Columns**  
 Four puzzling arrays of large stone or wooden columns have been identified in South America, yet scant details exist on these structures. These arrays are thought to potentially serve structural or ornamental purposes, but due to the lack of information, their true uses remain largely a mystery. 
 
-# MSO5 Latte Stones [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSO5 Latte Stones (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Tall Limestone Pillars**  
 Tall limestone pillars capped by hemispherical carved stones are mostly located in the Mariana Islands. Although they were initially perceived as enigmatic structures, scientists universally agree that they were primarily used just to support houses, negating their classification as anomalies.
 
-# MSO6 Delhi Iron Pillar [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSO6 Delhi Iron Pillar (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Rust-Free Iron Pillar**  
 The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for its rust-resistant condition. While some claim it reflects an advanced iron-working capability, studies indicate that the pillar was not forged as a single piece and that its rust-resistant properties are due to metallurgical characteristics rather than lost technology.
-# MSO7 New Caledonia Cylinders [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSO7 New Caledonia Cylinders (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Cement-Like Cylinders of New Caledonia**  
   Curious cement-like cylinders, several feet in height, have been discovered buried in large sandy mounds on New Caledonia and the adjacent Isle of Pines. Radiocarbon dates associated with these cylinders suggest human presence in the Pacific much earlier than previously accepted timelines.
@@ -1445,7 +1445,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **Purpose of the Structures**  
   The purpose of the large artificial mounds with cement cores remains enigmatic. These characteristics collectively present a significant archaeological anomaly, raising questions about their origin and function.
 
-# MSO8 Unusual Gnomons [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSO8 Unusual Gnomons (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **General Characteristics of Gnomons**  
   Gnomons are vertical structures used to cast shadows for the purpose of time measurement and understanding seasonal changes. Although they are not as famous as other structures like Stonehenge, numerous studies have shown their importance in ancient civilizations.
@@ -1453,7 +1453,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **Machu Picchu's Intihuatana**  
   The intihuatana at Machu Picchu is a uniquely carved rock structure that is often considered a gnomon. However, its precise purpose and the methods employed by the Incas for astronomical observations remain unclear, contributing to its enigmatic reputation.
 
-# MSO9 Stone Chairs [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSO9 Stone Chairs (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Description of Stone Chairs**  
   Stone chairs, hewn from solid rock, are found in various locations but often go unmentioned in mainstream archaeology. Their occurrences in strange places and mysterious contexts raise questions about their purpose and significance in ancient cultures.
@@ -1461,14 +1461,14 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **Cultural Importance**  
   While stone chairs may not seem anomalous at first, their prevalence in isolated locales suggests a potential cultural importance. Possible explanations include their use in rituals or significant events, indicating they played a more substantial role in ancient societal activities.
 
-# MSO10 Large Stone Jars [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSO10 Large Stone Jars (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Curious Distribution of Large Stone Jars**  
   Similar large stone jars appear at different sites across vast distances, suggesting a cultural connection despite being separated by hundreds or even thousands of miles. These jars, carved out of solid rock, are distinctive and imply shared practices or interactions among ancient peoples.
 
 - **Independent Invention vs. Cultural Propagation**  
   The question of whether these jars are the result of independent invention or a widespread cultural practice remains a point of contention. Research indicates that the similarities are intriguing, but they may ultimately be relegated to the realms of curiosity rather than established anomalies.
-# Anomalies in Stone Jars and Configured Rocks [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in Stone Jars and Configured Rocks (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Laos Stone Jars**: The best-studied stone jars in Laos were discovered by French archaeologist M. Colani in the 1930s at the famed Plain of Jars. These jars, mostly made from softer local stones, vary in size with some weighing around fourteen metric tons and possibly serve as funerary urns.
 
@@ -1487,24 +1487,24 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **Haamonga Stones in Tonga**: This trilithon, resembling Stonehenge, consists of three massive slabs and is thought to have astronomical applications, though no studies have confirmed this. The significance of its grooves and basin atop the lintel prompts speculation about its ritualistic use or function in ancient Tonga.
 
 - **Tiahuanaco's Gateway of the Sun**: This intricately carved gateway from a single piece of volcanic rock demonstrates exceptional craftsmanship despite the claim of possession only of stone tools. Its precision invites queries about the techniques employed by the artisans of Tiahuanaco, highlighting the patience and skill of ancient creators.
-# X0. Introduction [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# X0. Introduction (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Haamonga Stones (MSO12):** The Haamonga Stones in Tonga are thought to have been a type of gateway for processions. Their precise purpose remains unclear, yet they contribute to the understanding of ancient ceremonial practices.
 
 - **Gateway of the Sun:** Located high above Lake Titicaca in Bolivia, the Gateway of the Sun is renowned for its sophisticated stonework carved without the use of metal tools. This gateway stands as a testament to the ancient craftsmanship of the Tiahuanaco civilization around 600-1,000 AD.
 
-# X1. General observations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# X1. General observations (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Designs and Symbols:** The Gateway of the Sun features intricate designs, intricate symbols, and niches that fuel speculation about their significance. These artistic choices are explored in depth in later discussions, highlighting their cultural importance.
 
 - **Precision Stonework:** The high precision of the stonework of the Gateway of the Sun showcases an exceptional level of craftsmanship. This remarkable feature is not only historically significant but also highlights the advanced techniques utilized by ancient builders.
 
-# The Gateway of the Sun [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# The Gateway of the Sun (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Monolithic Structure:** The Gateway of the Sun is a monolithic structure, presenting a single piece of carved stone that measures 15 feet 5 inches long, 7 feet 2 inches high, and 18 inches thick. The stone displays four deep, rectangular niches and a central sculptured figure above its doorway.
 
 - **Structural Anomalies:** The top of the monolith is broken, resulting in the sides of the doorway inclining toward each other. This break raises questions about its history, with some attributing the damage to natural events such as lightning or earthquakes.
 
 - **Precise Construction:** The stone of the Gateway is noted for its extraordinary precision—an accuracy that exceeds modern geometric capabilities. Despite some damage, it remains a prime example of superior stonecutting techniques, unparalleled in either ancient or contemporary craftsmanship.
 
-# MSR ANCIENT ROADS AND BRIDGES [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSR ANCIENT ROADS AND BRIDGES (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 ## MSRO
 - **Great Ancient Road Systems:** Ancient civilizations like the Romans and Incas constructed extensive road systems surpassing 10,000 miles in length. Despite their remarkable scale, these developments primarily exemplify impressive engineering rather than anomalous technology.
 
@@ -1514,7 +1514,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **Mayan Sacbe System:** The Maya developed an extensive network of raised roads, known as "sacbeob," crafted with significant engineering skill. The unique structure of these causeways is reflected in the building methods and materials utilized, highlighting the ingenuity of Mesoamerican civilizations.
 
 - **Ancient Pathways and Trails:** Evidence suggests a complex network of ancient pathways in North America, possibly predating historic Native American tribes. Excavations and radiocarbon dating indicate these trails were systematically used for thousands of years, challenging contemporary understandings of early American civilizations.
-# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Diffusionism Influence**: E. Smith noted a resemblance between the Maya's sacbe system and road construction seen in Southeast Asia, indicating a potential diffusion of techniques. This observation suggested an early oriental influence in Mesoamerica, although the direct connection remains debated.
 
@@ -1541,7 +1541,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **Ara Metua in Cook Islands**: The Ara Metua road, encircling Raratonga, showcases advanced road construction techniques in Polynesia, using fitted basalt slabs and other materials. Its historical significance and age suggest a complex society capable of sophisticated infrastructure development.
 
 - **Great Road of Toi**: The Great Road of Toi in New Zealand is an ancient path paved with volcanic stones, illustrating early Pacific Island road-building techniques. This remnant offers insights into the social and communal activities that took place along these trade routes.
-# Chaco Canyon “Roads”  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chaco Canyon “Roads”  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of Purpose**: The Chaco Canyon roads present a significant anomaly due to our lack of understanding regarding their purpose. While many archeologists theorize that they were ceremonial highways, others speculate they served multiple functions such as commerce and military applications.
 
@@ -1551,14 +1551,14 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 
 - **Parallel Road Segments**: The occurrence of parallel or quadruple road segments raises questions about the necessity of multiple pathways when a single wide road could suffice. This duplication suggests either an unexplained preference for redundancy or distinct uses that differ from conventional road systems.
 
-# The Bimini “Road” [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# The Bimini “Road” (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Debate over Artificiality**: The Bimini Road is surrounded by controversy regarding its origins, with some arguing it is man-made while others assert it is a natural formation. The claims of its construction by ancient civilizations, like the Atlanteans, have fueled passionate discussions without definitive proof due to the lack of excavations.
 
 - **Geological Curiosity**: Even if considered a natural formation, the Bimini Road presents unusual features that intrigue geologists. Notable characteristics include a sharp bend, unusual alignment with ancient beach lines, and a high degree of regularity that stand out against typical geological patterns, making it a topic of interest in geological studies.
 
 - **Complex Historical Context**: Enthusiasts and skeptics alike have recognized the cultural significance surrounding Bimini, with claims linked to ancient prophecies and explorations. This blending of science and speculative narratives complicates the straightforward classification of the site as solely geological or archaeological in nature.
-# The Bimini “Road” [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# The Bimini “Road” (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Anomaly of the Bimini Road's Construct**: The Bimini Road is often claimed to be artificially constructed due to its straight alignment over a length of 1900 feet. This straightness, combined with the ordered rows of blocks not attached to the seabed, suggests the possibility of human engineering, a notion disputed by scientific evidence of natural formation.
 
@@ -1572,35 +1572,35 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 
 - **Geometric Patterns Detected from Aerial Photos**: Richards' study of Landsat photos revealed geometric patterns in the seabed, such as triangles and sharp angles, contributing to the debate about the presence of artificial structures beneath. While these patterns appear superficial due to natural elements like sea grass, they provoke further investigation into possible undiscovered man-made features.
 
-# Other "Biminis" [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Other "Biminis" (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Beachrock Formations in Australia**: Similar formations observed in Heron Island and north of Sydney exhibit beachrock structures that bear a resemblance to the Bimini Road. The presence of these formations serves to support skeptics who argue for the natural origins of the Bimini structure.
 
 - **Submerged Structures in Lanzarote, Canary Islands**: In Lanzarote, blocks of stone arranged in a staircase-like manner at a depth of 22 meters have prompted speculation about their purpose, whether as a pier or altar. The existence of an Olmec-style statuette nearby adds to the intrigue, though uncertainties about the rock type and depth leave many questions unanswered.
 
-# The Maltese “Cart Ruts” [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# The Maltese “Cart Ruts” (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Presence of Parallel Grooves**: The parallel grooves known as cart ruts, worn into solid rock on Malta, raise questions about their origins and the actions of the vehicles that created them. The controversy surrounds their age, purpose, and the nature of the means used for their formation.
 
 - **Diverse Explanations for Grooves**: Various theories assert that these grooves were made by either wheeled carts or slide-cars pulled by draft animals. The debate includes inconsistencies in age and purpose, indicating that reaching a consensus on this archaeological mystery remains challenging.
-# MSR5 Ancient Bridges [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSR5 Ancient Bridges (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Precocious Suspension Bridges**  
   The Maya and Inca developed long, sophisticated suspension bridges, surpassing Old-World technology by several centuries. This advanced engineering illustrates their high levels of civil engineering skills in the Precolumbian New World, qualifying as remarkable rather than anomalous.
 
-# MSW WALLS, EMBANKMENTS, DITCHES [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSW WALLS, EMBANKMENTS, DITCHES (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Transoceanic Distribution of Precision-Fit Stone Walls**  
   The precision-fit ahu at Vinapu on Easter Island closely matches Incan masonry, leading to the contentious theory that the Inca reached it before Polynesians arrived. Mainstream science rejects this diffusionist claim, emphasizing that ancient walls' characteristics, while impressive, do not suggest unusual cultural exchanges.
 
-# MSW1 Notable Linear Earthworks, a Survey [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSW1 Notable Linear Earthworks, a Survey (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Raised Earthen Embankments and Ditches**  
   These earthworks can be defined by characteristics such as high embankments, deep trenches, and complex networks. Although they offer significant curiosity value due to their size and engineering, they are not considered anomalous for the cultures that created them.
 
 - **Unusual Earthworks in British Columbia**  
   An unusual prehistoric earthwork near Graham Island consists of neatly arranged earthen ridges forming long rectangles with equal lengths, which provoke curiosity among archaeologists due to their precision. The purpose of these structures remains obscure, suggesting potential links to past agricultural practices or buildings.
-# Linear Earthworks  [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Linear Earthworks  (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Mayan Defensive Earthworks**  
   The discovery of a 9.5-km long defensive earthwork north of Tikal was an unexpected find for archeologists investigating the area. The magnitude of this barrier suggests it was an extensive undertaking, contrasting with the expected findings in the region.
@@ -1625,48 +1625,48 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 
 - **Poike Ditch on Easter Island**  
   The Poike Ditch, a peculiar trench on Easter Island, comprises sections believed to have served defensive purposes during tribal conflicts. Despite traditions suggesting its use in battle, some analyses suggest it may have originally served agricultural functions instead.
-# Data Evaluation [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Data Evaluation (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Ancient rude stone walls have not received the professional attention they deserve. This is particularly true in North America where these walls are often dismissed as the products of colonial farmers.
 
-# Anomaly Evaluation [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomaly Evaluation (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Wall size is not considered anomalous, even when extending over difficult terrain. However, some "Great Walls" are included due to their remarkable engineering, while smaller walls are more mysterious due to their unclear purposes.
 
-# Possible Explanations [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Possible Explanations (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The majority of cataloged walls were constructed for defense or to mark property lines. Some walls without clear purposes may have been built for rituals, similar to certain stone rows.
 
-# Similar and Related Phenomena [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Similar and Related Phenomena (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Cyclopean walls and precision-fitted Inca-style walls are noted as related phenomena. Other related structures include natural stone walls, stone arrays, and cairn lines, indicating a variety of stone constructions.
 
-# North America [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# North America (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Stone walls are prevalent in North America, marking boundaries in glaciated areas. Low stone walls, used by native peoples in game drives, add intrigue, especially those without discernible purposes.
 
-# New York (Ramapo) [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# New York (Ramapo) (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Ramapo walls are described as carefully laid structures spanning 200 acres, yet no artifacts are found to explain their origin. Despite theories of property lines or colonial clearing, the rugged terrain suggests they serve a different purpose.
 
-# West Virginia (Mt. Carbon) [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# West Virginia (Mt. Carbon) (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The 10-mile-long wall at Mt. Carbon remains mysterious, as local lore points to ancient white warriors as its builders. This wall displays sophisticated engineering, including foundational designs that imply a significant construction effort without a clear historical record.
 
-# Idaho [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Idaho (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Initial impressions of a boulder-structure complex in Idaho categorized it as a fortification, but it turned out to be a game-drive fence. This structure showcases the intentional design to control bison movements, but it also highlights the presence of many similar sites.
 
-# Labrador [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Labrador (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - In Labrador, prehistoric game-drive fences guided caribou into specific areas, showcasing another facet of ancient structures. Unlike structures found elsewhere, these fences demonstrate the adaptability of hunter-gatherer societies to their environments.
 
-# Greenland [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Greenland (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Greenland features game-drive fences built by Eskimos to strategically funnel caribou. Similar to those in Labrador, these structures reflect cultural practices linked to hunting.
 
-# California [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# California (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The mysterious walls in California's San Francisco Bay Area have puzzled residents for over a century, stretching many miles and constructed from large boulders. Histories of property records provide no hints about their builders, leading to speculation about their age and purpose.
 
-# Point Reyes [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Point Reyes (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The "wall" in Point Reyes is a careful arrangement of stones, seemingly serving as a boundary marker rather than a practical enclosure. Its low height and straight alignment raise questions about its significance, with no clear origin or purpose identified.
 
-# Mesoamerica [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Mesoamerica (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - Isolated stone walls known as "trincheras" near the Arizona-Sonora border have puzzled archaeologists due to their seemingly purposeless nature. Examples like the Quitovaquita trinchera lack artifacts or strategic value, fostering theories about their possible religious significance.
 
-# Mexico [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Mexico (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - The Mayan city walls, while defensively impressive, lack the anomalous intrigue found in other structures like the walls in Chiapas. Constructed with significant labor and stonework, these walls reflect the militaristic culture of the Maya but are less enigmatic compared to other ancient wall constructions.
-# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Great North Wall, Chiapas, Mexico**  
   This complex is built on a large foundation mound of piled field rock and is oriented almost east-west. The supporting wall is constructed of large boulders, some multiton, and increases in height from 15 to approximately 50 feet over its 650-foot length.
@@ -1685,7 +1685,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 
 - **Patterns of "keyholes" or "kites" in the Middle East**  
   Noticed by pilots in the 1920s, these stone patterns resemble aerial kites with tails extending for up to 18 miles. Constructed primarily from ancient basalt rocks, they suggest a complex method for driving wild animals towards their ends for slaughter.
-# MSW3 Precision-Fit Stone Walls [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSW3 Precision-Fit Stone Walls (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Polygonal stonework in Greece**: Polygonal stonework at an ancient fortified site in northeastern Greece bears a superficial resemblance to Incan stonework. Given the lack of connection, it appears more likely that these similarities arose through independent invention rather than ancient interactions between the Greeks and Incans. 
 
 - **Easter Island masonry**: T. Heyerdahl suggests that the earliest colonists of Easter Island came from South America and points to the platform (ahu) at Vinapu as evidence due to its striking similarities to Incan stonework. Despite initial interpretations favoring Heyerdahl's view, later evaluations reveal that the wall's construction technique likely differs from authentic Incan masonry, undermining his theory.
@@ -1694,14 +1694,14 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 
 - **Tonga's Langi Tauhala**: At Tonga, the Langi Tauhala platform features large cut stones reminiscent of those at Baalbek in Lebanon. This structure demonstrates fascinating engineering and may suggest knowledge of seismic activity, yet its remoteness from South America precludes any direct association with Incan builders.
 
-# MSW4 Cyclopean Walls [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSW4 Cyclopean Walls (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Tarragona, Spain**: The walls at Tarragona showcase classic cyclopean architecture, remaining largely undamaged over thousands of years. While impressive in size, their crude construction style does not warrant consideration as an anomaly in architectural history.
 
 - **Wall of the Dymaeans in Greece**: Another example of cyclopean architecture exists at the ancient acropolis near Paralimni, built between 2,500 and 2,000 B.C. This wall, made from massive blocks hastily stacked, resembles the Tarragona wall closely and similarly lacks remarkable features relative to other forms of ancient masonry.
 
 - **Underwater wall off Morocco**: Divers discovered a reported cyclopean wall submerged at a depth of 14 meters off the Moroccan coast, supposedly stretching for 9 miles. However, skepticism remains due to the lack of confirmation from credible scientific sources, casting doubt on the wall's existence and authenticity.
 
-# MSW5 Deceptive Natural Walls [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MSW5 Deceptive Natural Walls (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 - **Natural rock formations**: There are various natural formations that appear to be artificial walls, often resulting from common geological processes. A comprehensive evaluation indicates that most instances attributed to ancient masonry are, in fact, natural rock outcroppings misidentified by non-experts.
 
 - **Chatata Wall in Tennessee**: The ancient "inscribed wall" at Chatata was initially thought to be human-made due to its peculiar surface features. Geological studies eventually indicated that both the wall and its supposed inscriptions likely arose from natural phenomena rather than intentional human design, rendering it more a geological curiosity.
@@ -1711,7 +1711,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **Paraguayan wall**: A report exists of a massive wall hidden within the mountain ranges of Paraguay, said to contain drawings and symbols. However, the lack of scientific validation and documentation raises serious doubts about its authenticity, leading to suspicions that it may not exist at all.
 
 - **New Zealand wall hypotheses**: An enigmatic stone formation in New Zealand is speculated to be either an ancient structure built by settlers or a remnant of a modern sawmill. Alternatively, it may simply be a natural rock formation, demonstrating the complexities in distinguishing human-made structures from geological phenomena.
-# Deceptive Natural Walls [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Deceptive Natural Walls (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Kaimanawa Wall Characteristics**: The Kaimanawa Wall in New Zealand is marked by stone blocks that seem to be manmade. The stones are 4-ton blocks of ignimbrite with a composed structure that raises questions about their origins.
 
@@ -1722,7 +1722,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **Kiore Bones Evidence**: The presence of kiore bones, a rat species not native to New Zealand, supports the argument for a pre-Maori population in the region. Some of these bones are dated to be 2,000 years old, predating the arrival of the first Maoris. 
 
 - **Skepticism from Experts**: New Zealand archaeologists are hesitant to change their understanding of the region's history, which primarily attributes the discovery and colonization to the Maoris. The skepticism remains that the wall suggests connections to a pre-Polynesian culture with similar structures across the Pacific and South America.
-# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **MSM5-R2**: This anomaly is associated with an unclear text reference but can typically be interpreted as a citation for a study concerning ancient mysteries. It hints at possible links to various archaeological findings highlighting enigmatic historical events.
 
@@ -1747,7 +1747,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 - **MSD3-R1**: Denotes a citation that possibly tackles anomalies related to geological findings or their implications on human history. This ambiguity raises interesting questions about the relationship between the earth’s history and human civilization.
 
 - **MSE3-R25**: Represents an anomaly found within archaeological discussions, hinting at potential discoveries that yield inconsistent data with established narratives. This inclusion sparks an academic investigation into archaeological methods and interpretations.
-# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Smithsonian Institution**  
   The Smithsonian Institution has been associated with various archaeological and anthropological studies, yet its role in some findings has led to skepticism. Controversies often arise about the organization's handling and interpretation of artifacts.
@@ -1778,7 +1778,7 @@ The Delhi Iron Pillar is a tall iron structure dated to 300-400 AD, notable for 
 
 - **Great Stone Mound**  
   The Great Stone Mound is known for its impressive size and strange construction techniques attributed to prehistoric peoples. The functions and methods of creation continue to bewilder archaeologists studying ancient cultures.
-# Anomalies [(top)](http://example.com) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies (top) (top) [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
 - **Lorenzo**: This anomaly includes various designations such as MSE1-X2, MSM4-X1, and many more. Each code may represent a distinct site of interest or geological formation linked to the anomalies.
 
