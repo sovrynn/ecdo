@@ -1,38 +1,38 @@
 # GPT Summary: Table of Contents
 
-- [NO BEGINNING, NO END? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#no-beginning-no-end-top)
-- [NO BEGINNING, NO END? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#no-beginning-no-end-top)
-- [NO BEGINNING, NO END? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#no-beginning-no-end-top)
-- [QUASARS—AT THE BRINK OF INFINITY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#quasarsat-the-brink-of-infinity-top)
-- [QUASARS-AT THE BRINK OF INFINITY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#quasars-at-the-brink-of-infinity-top)
-- [MEASURING THE AGE OF THE UNIVERSE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#measuring-the-age-of-the-universe-top)
-- [MEASURING THE AGE OF THE UNIVERSE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#measuring-the-age-of-the-universe-top)
-- [CHECKING OUT EINSTEIN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#checking-out-einstein-top)
-- [CHECKING OUT EINSTEIN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#checking-out-einstein-top)
-- [CHECKING OUT EINSTEIN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#checking-out-einstein-top)
-- [HOW A STAR WORKS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#how-a-star-works-top)
-- [HOW A STAR WORKS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#how-a-star-works-top)
-- [Anomalies and Observations [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#anomalies-and-observations-top)
-- [THE SOLAR SYSTEM’S ELEVEN-YEAR PULSE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-solar-systems-eleven-year-pulse-top)
-- [JUPITER’S WANDERING RED SPOT AND OTHER IDIOSYNCRASIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#jupiters-wandering-red-spot-and-other-idiosyncrasies-top)
-- [Chapter 1: Jupiter's Idiosyncrasies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#chapter-1-jupiters-idiosyncrasies-top)
-- [JUPITER'S WANDERING RED SPOT AND OTHER IDIOSYNCRASIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#jupiters-wandering-red-spot-and-other-idiosyncrasies-top)
-- [THE CANAL QUESTION [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-canal-question-top)
-- [THE CANAL QUESTION [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-canal-question-top)
-- [THE CANAL QUESTION [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-canal-question-top)
-- [THE CASE OF THE MISSING PLANET [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-case-of-the-missing-planet-top)
-- [Chapter 1: The Case of the Missing Planet [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#chapter-1-the-case-of-the-missing-planet-top)
-- [Chapter 2: The Plague of Planetoids [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#chapter-2-the-plague-of-planetoids-top)
-- [THE CASE OF THE MISSING PLANET [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-case-of-the-missing-planet-top)
-- [THOSE LIGHTS ON THE MOON [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#those-lights-on-the-moon-top)
-- [Anomalies in Lunar Theories [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#anomalies-in-lunar-theories-top)
-- [Anomalies Observed on the Moon [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#anomalies-observed-on-the-moon-top)
-- [THE SEARCH FOR LIFE BEYOND THE EARTH [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-search-for-life-beyond-the-earth-top)
-- [Anomalies in the Search for Extraterrestrial Life [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#anomalies-in-the-search-for-extraterrestrial-life-top)
-- [THE SEARCH FOR LIFE BEYOND THE EARTH [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-search-for-life-beyond-the-earth-top)
-- [Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#anomalies-top)
+- [NO BEGINNING, NO END?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#no-beginning-no-end)
+- [NO BEGINNING, NO END?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#no-beginning-no-end)
+- [NO BEGINNING, NO END?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#no-beginning-no-end)
+- [QUASARS—AT THE BRINK OF INFINITY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#quasarsat-the-brink-of-infinity)
+- [QUASARS-AT THE BRINK OF INFINITY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#quasars-at-the-brink-of-infinity)
+- [MEASURING THE AGE OF THE UNIVERSE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#measuring-the-age-of-the-universe)
+- [MEASURING THE AGE OF THE UNIVERSE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#measuring-the-age-of-the-universe)
+- [CHECKING OUT EINSTEIN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#checking-out-einstein)
+- [CHECKING OUT EINSTEIN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#checking-out-einstein)
+- [CHECKING OUT EINSTEIN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#checking-out-einstein)
+- [HOW A STAR WORKS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#how-a-star-works)
+- [HOW A STAR WORKS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#how-a-star-works)
+- [Anomalies and Observations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#anomalies-and-observations)
+- [THE SOLAR SYSTEM’S ELEVEN-YEAR PULSE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-solar-systems-eleven-year-pulse)
+- [JUPITER’S WANDERING RED SPOT AND OTHER IDIOSYNCRASIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#jupiters-wandering-red-spot-and-other-idiosyncrasies)
+- [Chapter 1: Jupiter's Idiosyncrasies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#chapter-1-jupiters-idiosyncrasies)
+- [JUPITER'S WANDERING RED SPOT AND OTHER IDIOSYNCRASIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#jupiters-wandering-red-spot-and-other-idiosyncrasies)
+- [THE CANAL QUESTION](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-canal-question)
+- [THE CANAL QUESTION](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-canal-question)
+- [THE CANAL QUESTION](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-canal-question)
+- [THE CASE OF THE MISSING PLANET](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-case-of-the-missing-planet)
+- [Chapter 1: The Case of the Missing Planet](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#chapter-1-the-case-of-the-missing-planet)
+- [Chapter 2: The Plague of Planetoids](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#chapter-2-the-plague-of-planetoids)
+- [THE CASE OF THE MISSING PLANET](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-case-of-the-missing-planet)
+- [THOSE LIGHTS ON THE MOON](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#those-lights-on-the-moon)
+- [Anomalies in Lunar Theories](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#anomalies-in-lunar-theories)
+- [Anomalies Observed on the Moon](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#anomalies-observed-on-the-moon)
+- [THE SEARCH FOR LIFE BEYOND THE EARTH](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-search-for-life-beyond-the-earth)
+- [Anomalies in the Search for Extraterrestrial Life](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#anomalies-in-the-search-for-extraterrestrial-life)
+- [THE SEARCH FOR LIFE BEYOND THE EARTH](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-search-for-life-beyond-the-earth)
+- [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#anomalies)
 
-# NO BEGINNING, NO END? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# NO BEGINNING, NO END? 
 
 - **Olbers’ Paradox**: Olbers questioned why the night sky appears dark despite the assumption of an infinite number of evenly distributed stars. The paradox suggests that if stars are infinite, the night sky should be filled with light, yet it remains dark, which poses a challenge for any cosmological model.
 
@@ -43,7 +43,7 @@
 - **Hubble's Observation**: Edwin Hubble and Milton Humason discovered a consistent relationship between the distance of galaxies and their recession velocities. This relationship implies a dynamic universe, hinting at a potential beginning and end, fundamentally altering our understanding of cosmic evolution. 
 
 - **Age of the Universe**: The reciprocal of the Hubble constant is interpreted to represent the age of the visible universe, estimated to be around ten billion years. This age estimate, however, is complicated by the finite speed of light, presenting a snapshot of the universe that is subject to change over billions of years.
-# NO BEGINNING, NO END? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# NO BEGINNING, NO END? 
 
 - **Hubble Constant Anomaly**  
   Initial measurements of the Hubble Constant suggested that the age of the universe was less than two billion years, contradicting geological estimates of nearly four billion years. This discrepancy led to a reevaluation of astronomical and geological positions.
@@ -71,7 +71,7 @@
 
 - **Philosophical Lure of Steady-State Theory**  
   The Steady-State Theory's appeal lies in its description of a universe that exists eternally without a beginning or end, presenting a view that contradicts the finite experiences of human life. This philosophical stability draws many to consider this theory attractive despite a lack of overwhelming observational support.
-# NO BEGINNING, NO END? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# NO BEGINNING, NO END? 
 - **Anomaly of the Steady-State Theory**: The Steady-State Theory suggests an unchanging universe with a continuous creation of new matter. This directly contradicts the law of conservation of matter and energy, as recent observations challenge this notion.
 
 - **Expansion and Matter Creation**: There is a theory that the expansion of the universe may actually be pushed by the creation of new matter rather than the universe expanding away from a singular point. This challenges traditional views of universal expansion and raises questions about the nature of matter itself.
@@ -80,13 +80,13 @@
 
 - **Hubble Constant Anomalies**: The assumption that the Hubble Constant should remain unchanged with increasing distance appears to be inaccurate. Current data suggest that the Hubble Constant may actually increase, which contradicts the uniform expansion postulated by the Steady-State Theory.
 
-# QUASARS—AT THE BRINK OF INFINITY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# QUASARS—AT THE BRINK OF INFINITY 
 - **Uncertainty of Quasars**: Quasars remain a mystery, as they exhibit characteristics that do not fit neatly into existing astronomical models. The unknown nature of quasars leads to varied interpretations of their properties, such as their considerable energy emissions.
 
 - **Radio and Optical Discrepancies**: The discoveries of radio astronomy challenged previous assumptions that all radio sources were confined within our galaxy. This inconsistency suggests that astronomers may need to revise their understanding of the universe's structure and the locations of these enigmatic celestial objects.
 
 - **Redshift Interpretations**: The observed redshift of quasars can imply vast distances, suggesting they emit tremendous amounts of energy. Alternatively, if gravitational effects are at play, quasars might actually be much closer and fundamentally different from typical galaxies, leading to significant implications for cosmic models.
-# QUASARS-AT THE BRINK OF INFINITY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# QUASARS-AT THE BRINK OF INFINITY 
 
 - **Quasar Red Shifts**  
   Quasars exhibit large red shifts that contradict previously established ideas about stars. This observation poses the challenge of measuring their distances, as it is assumed that these red shifts indicate a cosmological origin.
@@ -117,7 +117,7 @@
 
 - **Power Generation Theories**  
   Existing models struggle to adequately explain the immense energy output observed from quasars. The two primary mechanisms proposed—nuclear reactions and gravitational collapse—face significant theoretical challenges.
-# MEASURING THE AGE OF THE UNIVERSE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MEASURING THE AGE OF THE UNIVERSE 
 
 - **Variation in Quasar Brightness**  
 The variability of quasar brightness in different portions of the spectrum requires in-depth study. Understanding these variations could provide insights into quasar behavior and their cosmic role.
@@ -154,7 +154,7 @@ Measuring the age of the sun poses unique challenges, especially given that sola
 
 - **Redshift Understanding in Cosmology**  
 The cosmic redshift observed in galaxies is generally linked to recession velocities and might help estimate the universe's age. However, this is based on the assumption that the velocities of all galaxies have remained constant since their formation.
-# MEASURING THE AGE OF THE UNIVERSE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MEASURING THE AGE OF THE UNIVERSE 
 - **Hubble Constant's Assumption**  
 The assumption that the ratio of velocity to distance is constant for all galaxies is fundamental in fixing the age of the universe, inferring it to be between seven and twenty billion years. Despite the data being consistent with stellar theory and radioactive measurements of meteorites, the wide range remains a significant anomaly.
 
@@ -167,7 +167,7 @@ If the Steady-State Theory is correct, the universe's age would be infinite, wit
 - **Oscillating Universe Hypothesis**  
 The existence of an oscillating universe suggests series of Big-Bangs, with astronomer Allan Sandage positing intervals of about 82 billion years between expansions. This idea, along with the inferred age of the universe, limits its age estimates to ten to twenty billion years, aligning with multiple measurements.
 
-# CHECKING OUT EINSTEIN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# CHECKING OUT EINSTEIN 
 - **Failure of the Ether Model**  
 The Michelson-Morley experiment demonstrated that the velocity of light is unaffected by the motion of its source, undermining the ether hypothesis that had persisted since the 19th century. Despite slight variations noted, the overall results invalidated the existence of a luminiferous ether, marking a pivotal change in physics.
 
@@ -179,7 +179,7 @@ The phenomenon of time dilation as predicted by Special Relativity states that f
 
 - **Twin Paradox and Relativistic Effects**  
 The Twin Paradox suggests that astronauts traveling at high speeds will age slower than their Earth-bound counterparts, but this notion is clarified through the understanding that Special Relativity only applies to constant velocity scenarios. The need for acceleration during a round trip complicates the situation, eliminating the paradox and illustrating the relativity of aging.
-# CHECKING OUT EINSTEIN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# CHECKING OUT EINSTEIN 
 
 - **Velocity Misinterpretation**  
   The formula for adding velocities can lead to misconceptions when velocities are not measured in the same inertial frame. In the case of electrons approaching each other at 1.8c, observers on each electron perceive the other traveling at a velocity just under light speed, not exceeding it.
@@ -216,7 +216,7 @@ The Twin Paradox suggests that astronauts traveling at high speeds will age slow
 
 - **Philosophical Implications of Relativity**  
   Both Special and General Relativity challenge materialistic views and spark philosophical debate regarding fate, free will, and the nature of reality. The responses to relativity's implications reveal tension between scientific theory and broader existential questions.
-# CHECKING OUT EINSTEIN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# CHECKING OUT EINSTEIN 
 
 - **Experimental Checks of General Relativity**  
   Experimental checks of General Relativity support the theory to a certain extent, yet most tests remain imprecise. The few differences predicted by General Relativity over Newton’s law of gravitation are slight, indicating a need for more rigorous evaluation.
@@ -224,7 +224,7 @@ The Twin Paradox suggests that astronauts traveling at high speeds will age slow
 - **Philosophical Problems**  
   There are philosophical dilemmas regarding concepts like Mach’s principle, which challenge the understanding of General Relativity. Despite these difficulties, physicists maintain confidence that the theory provides the best description of the universe.
 
-# HOW A STAR WORKS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# HOW A STAR WORKS 
 
 - **Hipparchus' Star Catalog**  
   In 134 B.C., Hipparchus created the first systematic star catalog after observing a nova that appeared where none was before. His catalog included about a thousand stars categorized by brightness, representing a major leap in astronomical classification.
@@ -264,7 +264,7 @@ The Twin Paradox suggests that astronauts traveling at high speeds will age slow
 
 - **The Carbon Cycle Mechanism**  
   The simultaneous discoveries by Bethe and von Weizsacker regarding the carbon cycle opened new paths in understanding stellar fusion. This mechanism illustrated how carbon acts as a catalyst in the fusion of hydrogen into helium, providing a robust energy source for stars.
-# HOW A STAR WORKS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# HOW A STAR WORKS 
 
 - **Anomaly of the H-H Reaction**  
   The H-H reaction, initially deemed of minor importance in stellar energy production, was later recognized for its significant role. This realization led to a reconsideration of the processes powering stars, particularly in cool stars like the sun where the H-H reaction prevails.
@@ -307,7 +307,7 @@ The Twin Paradox suggests that astronauts traveling at high speeds will age slow
 
 - **Increased Conflicts in Stellar Theories**  
   The dynamic nature of astrophysics leads to constant reevaluation of theories as new data emerges. As scientists tread the uncertain waters of astronomical research, the potential for entirely new paradigms remains a pivotal area of exploration.
-# Anomalies and Observations [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies and Observations 
 
 - **Great Black Spot on the Sun**  
   During Charlemagne's reign, a significant black spot on the sun was witnessed by observers in France for eight consecutive days. Early scientists mistakenly identified this spot as Mercury, unaware that it could cross the sun’s face in a matter of hours rather than days.
@@ -338,7 +338,7 @@ Despite advancements in understanding sunspot structure, most physicists agree t
 
 - **Impact of Solar Flares on Earth Communications**  
 Solar flares cause disruptions in long-distance radio communications and display notable temporal correlations with magnetic storms on Earth. These disturbances highlight the interaction between solar emissions and terrestrial technologies, where immediate effects can be observed due to the speed of solar radiation reaching Earth.
-# THE SOLAR SYSTEM’S ELEVEN-YEAR PULSE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# THE SOLAR SYSTEM’S ELEVEN-YEAR PULSE 
 
 - **Slow-Moving Particulate Radiation**
   The anomaly of solar activity is marked by disturbances that travel from the sun at a velocity significantly lower than that of electromagnetic radiation. This suggests the existence of slow-moving particulate radiation, possibly originating from convulsions on the sun's surface.
@@ -364,7 +364,7 @@ Solar flares cause disruptions in long-distance radio communications and display
 - **Solar Activity and Terrestrial Connections**
   Despite established connections between solar cycles and terrestrial phenomena, details of these interactions remain frustratingly elusive. The correlations with factors like plant growth and economic trends hint at deeper relations that lack solid cause-and-effect models.
 
-# JUPITER’S WANDERING RED SPOT AND OTHER IDIOSYNCRASIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# JUPITER’S WANDERING RED SPOT AND OTHER IDIOSYNCRASIES 
 
 - **Understanding Jupiter's Characteristics**
   Jupiter, the largest planet in the solar system, presents a range of anomalies that challenge terrestrial understanding. Its immense size and alien qualities elude models that attempt to explain its nature, despite numerous attempts over the years.
@@ -374,7 +374,7 @@ Solar flares cause disruptions in long-distance radio communications and display
 
 - **Cyclic Features and Radio Emissions**
   While Jupiter shares some characteristics with the sun, such as having cyclical features, it primarily emits radio waves linked to its moons. This discrepancy highlights the need for further exploration into the distinctions between solar and planetary behaviors.
-# Chapter 1: Jupiter's Idiosyncrasies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 1: Jupiter's Idiosyncrasies 
 
 - **Jupiter's Rapid Rotation**  
   Jupiter rotates on its axis in just 9 hours and 55 minutes, making it the fastest rotating planet in the solar system. This rapid rotation results in cloud belts that rotate at different speeds, highlighting the planet's dynamic atmosphere.
@@ -411,7 +411,7 @@ Solar flares cause disruptions in long-distance radio communications and display
 
 - **Modeling the Red Spot**  
   Various models have attempted to explain the mechanics behind the Great Red Spot, including proposals of it being similar to terrestrial weather phenomena like tornadoes. Recent theories emphasize the role of convection columns and atmospheric dynamics, suggesting a complex interaction between solid surface features and atmospheric conditions.
-# JUPITER'S WANDERING RED SPOT AND OTHER IDIOSYNCRASIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# JUPITER'S WANDERING RED SPOT AND OTHER IDIOSYNCRASIES 
 
 - **Radio Emissions Before Recognition**  
   Jupiter was first recognized as a radio emitter in early 1955 when B. F. Burke and F. L. Franklin associated strong periodic bursts of radio noise at wavelengths of 13.5 meters with the planet. Prior to this, radio waves from Jupiter were recorded many times without being recognized as originating from a planetary source, often dismissed as terrestrial noise.
@@ -434,14 +434,14 @@ Solar flares cause disruptions in long-distance radio communications and display
 - **Influence of Io on Radio Emissions**  
   Research by E. K. Bigg indicated a correlation between Jupiter's decameter radio bursts and the position of its moon Io, confirming that Io profoundly influences these emissions. However, the exact mechanisms—whether through magnetic stimulation or gravitational interactions—remain a recent and unexplained field of study.
 
-# THE CANAL QUESTION [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# THE CANAL QUESTION 
 
 - **Controversy Surrounding Martian Canals**  
   The interpretation of Mars' canals has sparked considerable debate among astronomers, akin to the controversy of whether there exist intelligent life forms on Mars. Some observers confirm glimpses of intricate patterns on Mars while others argue that such features are mere illusions, revealing the biases inherent in human perception.
 
 - **Crucial Factors for Observing Canals**  
   Successful observation of the Martian canals relies on high-quality telescopes, optimal viewing conditions, and an observer's acuity. The interplay of skill and imagination often influences the interpretation of what is seen, with some observers embellishing or misjudging the features visible through their lenses.
-# THE CANAL QUESTION [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# THE CANAL QUESTION 
 
 - **Anomaly of Phobos and Deimos:** Phobos and Deimos, discovered in 1877, are so small and unique that some speculate they could be artificial objects created by Martians. The idea suggests that if Martians could launch such satellites, they could easily build the canals recorded at the same time.
 
@@ -456,7 +456,7 @@ Solar flares cause disruptions in long-distance radio communications and display
 - **Lowell's Maps and Observations:** Percival Lowell's detailed maps of Martian canals, based on his observations, suggested a highly organized network that implied artificial construction. His depiction of the canals intertwined with the dark areas of Mars led him to believe in an active hydrological system supporting vegetation.
 
 - **Transformation of Scientific Perception:** By the early 1900s, most educated individuals believed Mars was home to intelligent beings managing their water supply through successful canal systems. This viewpoint was fueled by Lowell's persuasive writing and detailed observations, although many scientists remained skeptical.
-# THE CANAL QUESTION [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# THE CANAL QUESTION 
 
 - **Irregular Break-up of Martian Canals**  
 Audouin Dollfus noted that some Martian canals appear to break into irregular, discontinuous spots. This higher order of detail in observation transcends the original identification of the canals, suggesting a complex structure.
@@ -473,14 +473,14 @@ Japanese astronomers reported rare bright flares on Mars that usually last a few
 - **Linear Features in Mariner Images**  
 Mariner 4 photographs revealed linear features where canals had previously been noted, sparking debate about the nature of these formations. Comparisons between these images and sketches from astronomers suggest possible geological rather than artificial origins.
 
-# THE CASE OF THE MISSING PLANET [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# THE CASE OF THE MISSING PLANET 
 
 - **Bode’s Law and Asteroids**  
 Johann Titius's empirical law suggested a missing planet between Mars and Jupiter, leading to the discovery of the asteroid belt. The absence of a planet in this gap raised questions about the formation of the solar system and whether it was an oversight of early astronomers.
 
 - **Unusual Planetary Gaps**  
 Early astronomers were perplexed by the wide distance between Mars and Jupiter, which implied there should be a planet. This “hole” prompted speculation about an unseen body influencing the orbits of known planets.
-# Chapter 1: The Case of the Missing Planet [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 1: The Case of the Missing Planet 
 
 - The Titius law indicates a pattern in planetary distances but does not directly account for planet sizes, which could mean some planets were too small to be noticed. Alternatively, the perceived order could simply be coincidental, raising questions about the significance of the Titius equation.
 
@@ -502,7 +502,7 @@ Early astronomers were perplexed by the wide distance between Mars and Jupiter, 
 
 - With the increasing number of discoveries, astronomers established a clearinghouse for planetoid data to manage the growing "plague" of minor planets. This collaborative effort aimed to control the influx of discoveries and improve tracking of these celestial objects.
 
-# Chapter 2: The Plague of Planetoids [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 2: The Plague of Planetoids 
 
 - Johann Palisa and Professor Max Wolf significantly contributed to planetoid discoveries with advancements in photographic techniques. Their efforts led to substantial increases in registered planetoids, demonstrating a shift in observational methods in astronomy.
 
@@ -521,7 +521,7 @@ Early astronomers were perplexed by the wide distance between Mars and Jupiter, 
 - Astronomers worked to trace back the orbits of planetoids to discern their origins, believing they stemmed from previous disruptions. The progressive analysis revealed unexpected complexities, leading to the discovery of distinct families of planetoids attributed to different historical events.
 
 - Hirayama’s work provided evidence of several families of planetoids, indicating that their origins weren’t limited to a single cataclysm but rather multiple explosions. This insight deepened the understanding of the asteroid belt's formation and the processes that shaped it.
-# THE CASE OF THE MISSING PLANET [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# THE CASE OF THE MISSING PLANET 
 
 - **Anomaly: 29 Points of Origin**
   - The discovery of 29 separate points of origin for small planetoids challenges the notion of a singular planetary explosion hypothesis. This dispersion suggests alternative explanations involving gravitational interactions and agglutination instead of common descent among these celestial bodies.
@@ -538,7 +538,7 @@ Early astronomers were perplexed by the wide distance between Mars and Jupiter, 
 - **Anomaly: Bode's Law**
   - Bode's Law, which once generated excitement, eventually fell into disrepute after failing to accurately predict the orbits of Neptune and Pluto. The law's arbitrary nature and lack of a physical basis raise questions about its validity, which remains a topic of debate among astronomers.
 
-# THOSE LIGHTS ON THE MOON [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# THOSE LIGHTS ON THE MOON 
 
 - **Anomaly: Lunar Lights**
   - For centuries, bright lights and red patches observed on the moon were ignored under the belief that it was a dead world. Recent studies, however, revive this discussion, suggesting that these phenomena could indicate volcanic activity or other significant changes.
@@ -551,7 +551,7 @@ Early astronomers were perplexed by the wide distance between Mars and Jupiter, 
 
 - **Anomaly: Variable Crater Formations**
   - The presence of varying crater shapes and formations complicates the understanding of their origins, particularly juxtaposing the exaggerated theories with empirical observations. The specific dimensions and physical characteristics of these craters suggest complexities in their formation processes that demand further investigation.
-# Anomalies in Lunar Theories [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in Lunar Theories 
 
 - **Celestial Heavy Artillery Impact**  
   The caldera model suggests that calderas form in areas of the crust that are already cracked due to impacts from celestial objects. This theory contrasts with earlier volcanic hypotheses and adds a layer of complexity to lunar geology.
@@ -591,7 +591,7 @@ Early astronomers were perplexed by the wide distance between Mars and Jupiter, 
 
 - **Spectrum Observations in Alphonsus Crater**  
   Dinsmore Alter's observations of changes in Alphonsus crater's visibility led to further studies on gas emissions from lunar formations. Nikolai A. Kozyrev’s subsequent spectroscopic investigations revealed possible fluorescent gases, adding another layer of confusion about lunar processes.
-# Anomalies Observed on the Moon [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies Observed on the Moon 
 
 - **Glowing red patches**: In October and November 1963, several observers detected glowing red patches near the crater Aristarchus. One significant patch measured twelve miles long and a mile and a half in breadth, persisting for over an hour, suggesting possible volcanic activity.
 
@@ -612,7 +612,7 @@ Early astronomers were perplexed by the wide distance between Mars and Jupiter, 
 - **Fluidized dust hypothesis**: The theory proposed by Thomas Gold posits that solar irradiation could render lunar dust fluid-like, allowing it to flow. However, evidence from lunar probes, which showed solid rocks rather than a landscape of fluidized dust, has led to skepticism regarding this idea.
 
 - **Visual changes and lights**: The presence of visible changes such as lights, red flares, and structural alterations hints at three causative agents on the moon: meteorite impact, volcanism, and sun-induced luminescence. The balance of these factors remains a topic of scientific inquiry regarding lunar activity.
-# THE SEARCH FOR LIFE BEYOND THE EARTH [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# THE SEARCH FOR LIFE BEYOND THE EARTH 
 
 - **No evidence of life**  
   Despite extensive exploration, we currently lack definitive proof of extraterrestrial life. This absence challenges our understanding and emboldens further inquiry into the cosmos.
@@ -661,7 +661,7 @@ Early astronomers were perplexed by the wide distance between Mars and Jupiter, 
 
 - **Determining the nature of extraterrestrial life**  
   Research aims to identify the characteristics of life beyond Earth and how they may differ from Earth-based life forms. Understanding these distinctions is crucial for comprehending life’s potential variety in the cosmos.
-# Anomalies in the Search for Extraterrestrial Life [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in the Search for Extraterrestrial Life 
 
 - **Evidence for Universal Panspermia**  
   The concept of universal panspermia suggests that life could be seeded across the universe, implying a common origin for all life forms. This idea raises questions about the nature of intelligence and the potential for extraterrestrial life.
@@ -692,7 +692,7 @@ Early astronomers were perplexed by the wide distance between Mars and Jupiter, 
 
 - **Project Ozma's Systematic Listening**  
   Project Ozma marked a formalized effort to listen for extraterrestrial signals, utilizing advanced radio telescopes aimed at selected stars. Despite the ambitious goals, the endeavor was met with skepticism within the scientific community, reflecting ongoing debates about the validity of searching for alien communications.
-# THE SEARCH FOR LIFE BEYOND THE EARTH [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# THE SEARCH FOR LIFE BEYOND THE EARTH 
 
 - **Project Ozma's Null Results**  
 Project Ozma listened for conversation-minded extraterrestrials for 150 hours but obtained no significant results. While null results can inform scientific pursuits, critics have taken this as a definitive reason to halt further exploration for alien life.
@@ -708,7 +708,7 @@ A proposal suggests sending self-replicating unmanned messengers through the Mil
 
 - **Low Prospects for Extraterrestrial Life Discovery**  
 Despite ongoing efforts, many scientists believe the chances of finding intelligent alien life are extremely low, leading to calls for increased scrutiny of research investments. Yet, the absence of attempts means the odds of discovery remain resolutely at zero.
-# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies 
 
 - **MHD (magnetohydrodynamics)**: This phenomenon involves the study of the magnetic properties and behavior of electrically conducting fluids. Anomalies in MHD can lead to unexpected plasma behavior in astrophysical contexts.
 

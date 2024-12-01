@@ -1,154 +1,154 @@
 # GPT Summary: Table of Contents
 
-- [ORGANIZATION OF THE SOURCEBOOKS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#organization-of-the-sourcebooks-top)
-- [SECTION EB: BIOLOGICAL EVIDENCE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#section-eb-biological-evidence-top)
-- [EBE-002 SUPERNOVAE AND THE EXTINCTION OF THE DINOSAURS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ebe-002-supernovae-and-the-extinction-of-the-dinosaurs-top)
-- [EBE-003 EXTINCTIONS AND OVERKILL [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ebe-003-extinctions-and-overkill-top)
-- [EBE-004 THE GREAT EXTINCTIONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ebe-004-the-great-extinctions-top)
-- [Chapter 1: Biologic Unconformity and Anomalies in Evolution [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#chapter-1-biologic-unconformity-and-anomalies-in-evolution-top)
-- [Chapter 2: Mammoth Graveyards and Catastrophism [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#chapter-2-mammoth-graveyards-and-catastrophism-top)
-- [Chapter 3: The Mammoth and the Flood [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#chapter-3-the-mammoth-and-the-flood-top)
-- [El-17 EBM-003 MAMMOTH GRAVEYARDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-17-ebm-003-mammoth-graveyards-top)
-- [El-19 EBM-004 MAMMOTH GRAVEYARDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-19-ebm-004-mammoth-graveyards-top)
-- [MAMMOTH GRAVEYARDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#mammoth-graveyards-top)
-- [El-27 EBM-006 MAMMOTH GRAVEYARDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-27-ebm-006-mammoth-graveyards-top)
-- [EBM-007 RIDDLE OF THE FROZEN GIANTS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ebm-007-riddle-of-the-frozen-giants-top)
-- [EBM-008 THE GLACIATED GRAVE OF THE MAMMOTH IN SIBERIA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ebm-008-the-glaciated-grave-of-the-mammoth-in-siberia-top)
-- [MAMMOTH GRAVEYARDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#mammoth-graveyards-top)
-- [MUCH ABOUT MUCK [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#much-about-muck-top)
-- [Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-top)
-- [EL-43 EBS-001 SEALEVEL INDICATORS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-43-ebs-001-sealevel-indicators-top)
-- [EBS-002 CIRCUMPOLAR LAND [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ebs-002-circumpolar-land-top)
-- [EBS-003 [WHALE BONES 330 FEET ABOVE SEA LEVEL] [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ebs-003-top)
-- [EBS-004 FOSSIL WHALE IN THE DRIFT [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ebs-004-fossil-whale-in-the-drift-top)
-- [MYTHS AND LEGENDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#myths-and-legends-top)
-- [CLIMATE CHANGES  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#climate-changes-top)
-- [Lot's Wife [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#lots-wife-top)
-- [The Flood [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-flood-top)
-- [001 THE DELUGE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#001-the-deluge-top)
-- [THE DELUGE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-deluge-top)
-- [THE DELUGE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-deluge-top)
-- [The Irish Sea-beliefs [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-irish-sea-beliefs-top)
-- [Early Sea-tales [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#early-sea-tales-top)
-- [The Most Famous of the Phantom Islands [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-most-famous-of-the-phantom-islands-top)
-- [Columbus and the Mythic Islands [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#columbus-and-the-mythic-islands-top)
-- [Atlantis and Other Lost Lands [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#atlantis-and-other-lost-lands-top)
-- [Distinct Propositions by Ignatius Donnelly [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#distinct-propositions-by-ignatius-donnelly-top)
-- [Chapter 1: Early Knowledge of the Compass [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#chapter-1-early-knowledge-of-the-compass-top)
-- [Chapter 2: Anomalous Discoveries [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#chapter-2-anomalous-discoveries-top)
-- [Chapter 3: Doubts and Speculations [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#chapter-3-doubts-and-speculations-top)
-- [Chapter 4: Geological and Astronomical Speculations [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#chapter-4-geological-and-astronomical-speculations-top)
-- [Chapter 5: Broadening Knowledge [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#chapter-5-broadening-knowledge-top)
-- [El-87 EMA-001 MAGNETIC ANOMALIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-87-ema-001-magnetic-anomalies-top)
-- [EMR-001 COULD PALAEOMAGNETISM BE WRONG? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#emr-001-could-palaeomagnetism-be-wrong-top)
-- [EMR-002 NO CORRELATIONS IN THE CANARIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#emr-002-no-correlations-in-the-canaries-top)
-- [EMR-003 A NEW MAGNETIC REVERSAL AT 12,500 YEARS? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#emr-003-a-new-magnetic-reversal-at-12500-years-top)
-- [EMR-004 VARIATIONS IN MAGNETIC INTENSITY AND CLIMATIC CHANGES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#emr-004-variations-in-magnetic-intensity-and-climatic-changes-top)
-- [El-92 MAGNETIC REVERSALS EMR-005 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-92-magnetic-reversals-emr-005-top)
-- [EMR-005 GEOMAGNETIC POLARITY CHANGE, VOLCANIC MAXIMA AND FAUNAL EXTINCTION IN THE SOUTH PACIFIC [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#emr-005-geomagnetic-polarity-change-volcanic-maxima-and-faunal-extinction-in-the-south-pacific-top)
-- [El-93 EMR-005 MAGNETIC REVERSALS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-93-emr-005-magnetic-reversals-top)
-- [El-94 SECTION EO: ORBITAL AND ASTRONOMICAL EVIDENCE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-94-section-eo-orbital-and-astronomical-evidence-top)
-- [EOA-001 THE LAST GLACIAL PERIOD [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#eoa-001-the-last-glacial-period-top)
-- [EOA-002 ASTRONOMICAL OBSERVATIONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#eoa-002-astronomical-observations-top)
-- [Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-top)
-- [ASTRONOMICAL OBSERVATIONS EOA-002 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#astronomical-observations-eoa-002-top)
-- [IRREGULARITIES IN THE EARTH'S ROTATION - II [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#irregularities-in-the-earths-rotation---ii-top)
-- [ANOMALOUS ROCKS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalous-rocks-top)
-- [ERB-001 PATRICK COUNTY, VA., AND ITS CURIOUS "FAIRY STONES" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-001-patrick-county-va-and-its-curious-fairy-stones-top)
-- [ERB-002 COMMUNICATING WITH LIFE IN SPACE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-002-communicating-with-life-in-space-top)
-- [ERB-003 DATING THE LIBYAN DESERT SILICA-GLASS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-003-dating-the-libyan-desert-silica-glass-top)
-- [ERB-004 A DRY QUICKSAND [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-004-a-dry-quicksand-top)
-- [ERB-005 THE ARABIAN HARRAS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-005-the-arabian-harras-top)
-- [ERB-006 FITTING BOULDERS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-006-fitting-boulders-top)
-- [ERB-007 SOLVING THE MYSTERY OF MEXICO'S GREAT STONE SPHERES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-007-solving-the-mystery-of-mexicos-great-stone-spheres-top)
-- [ERB-008 THE CANYON DIABLO METEORITES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-008-the-canyon-diablo-meteorites-top)
-- [ERB-009 THE CONCRETIONS OF THE CONNECTICUT VALLEY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-009-the-concretions-of-the-connecticut-valley-top)
-- [ERG-001 NOTES CONCERNING A PECULIARLY MARKED SEDIMENTARY ROCK [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erg-001-notes-concerning-a-peculiarly-marked-sedimentary-rock-top)
-- [ERG-002 PERCUSSION FIGURES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erg-002-percussion-figures-top)
-- [ERG-003 MYSTERY IMPRINTS STUMP GEOLOGISTS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erg-003-mystery-imprints-stump-geologists-top)
-- [El-124 METEORITES AND TEKTITES ERM-003 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-124-meteorites-and-tektites-erm-003-top)
-- [ERM-003 TEKTITES ARE TERRESTRIAL [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erm-003-tektites-are-terrestrial-top)
-- [The Age Paradox [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-age-paradox-top)
-- [The Flight [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-flight-top)
-- [Possibility of a Lunar Origin [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#possibility-of-a-lunar-origin-top)
-- [Tektites and Craters [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#tektites-and-craters-top)
-- [The Place [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-place-top)
-- [Origin of Tektites [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#origin-of-tektites-top)
-- [ERM-004 Tektites and Geomagnetic Reversals [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erm-004-tektites-and-geomagnetic-reversals-top)
-- [ERM-005 Meteorites and Tektites [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erm-005-meteorites-and-tektites-top)
-- [ERR-001 Ringing Rocks [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#err-001-ringing-rocks-top)
-- [El-135 ERR-001 RINGING ROCKS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-135-err-001-ringing-rocks-top)
-- [El-138 RINGING ROCKS ERR-002 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-138-ringing-rocks-err-002-top)
-- [El-140 RINGING ROCKS ERR-002 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-140-ringing-rocks-err-002-top)
-- [El-141 ERR-003 RINGING ROCKS ERR-003 MUSICAL STONES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-141-err-003-ringing-rocks-err-003-musical-stones-top)
-- [ERR-004 SOUNDING STONES AT CH'UFU, SHANTUNG [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#err-004-sounding-stones-at-chufu-shantung-top)
-- [ERS-001 MUSICAL SANDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ers-001-musical-sands-top)
-- [ERS-001 RESEARCHES ON SONOROUS SAND IN THE PENINSULA OF SINAI [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ers-001-researches-on-sonorous-sand-in-the-peninsula-of-sinai-top)
-- [ERS-002 THE SINGING BEACH OF MANCHESTER, MASS. [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ers-002-the-singing-beach-of-manchester-mass-top)
-- [ERS-003 MUSICAL SAND, ITS WIDE DISTRIBUTION AND PROPERTIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ers-003-musical-sand-its-wide-distribution-and-properties-top)
-- [ERS-004 A NEW MOUNTAIN OF THE BELL [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ers-004-a-new-mountain-of-the-bell-top)
-- [ERS-005 MUSICAL SAND IN CHINA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ers-005-musical-sand-in-china-top)
-- [ERS-006 MUSICAL SANDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ers-006-musical-sands-top)
-- [ANOMALIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-top)
-- [COAL AND PETROLEUM [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#coal-and-petroleum-top)
-- [A COMET CAUSED THE DRIFT [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#a-comet-caused-the-drift-top)
-- [THE DRIFT [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-drift-top)
-- [SOME DEFECTS OF GLACIAL THEORY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#some-defects-of-glacial-theory-top)
-- [Anomalies in Drumlin Formation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-in-drumlin-formation-top)
-- [Catastrophism and Evolution [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#catastrophism-and-evolution-top)
-- [The Drift [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-drift-top)
-- [THE DRIFT [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-drift-top)
-- [PLEISTOCENE GLACIATION IN THE BLUE RIDGE PROVINCE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#pleistocene-glaciation-in-the-blue-ridge-province-top)
-- [Anomalies in Geological Features [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-in-geological-features-top)
-- [Structural Interpretation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#structural-interpretation-top)
-- [Anomalies in Fault Movement [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-in-fault-movement-top)
-- [Highland Overthrusts  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#highland-overthrusts-top)
-- [Patterned Ground [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#patterned-ground-top)
-- [PATTERNED GROUND [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#patterned-ground-top)
-- [Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-top)
-- [ESP-003 DESCRIPTION OF A SINGULAR CASE OF THE DISPERSION OF BLOCKS OF STONE CONNECTED WITH DRIFT, IN BERKSHIRE COUNTY, MASSACHUSETTS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#esp-003-description-of-a-singular-case-of-the-dispersion-of-blocks-of-stone-connected-with-drift-in-berkshire-county-massachusetts-top)
-- [ESP-004 BOULDER-TRAINS IN BERKSHIRE COUNTY, MASSACHUSETTS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#esp-004-boulder-trains-in-berkshire-county-massachusetts-top)
-- [ESP-005 "ROCK CITIES" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#esp-005-rock-cities-top)
-- [ET: TOPOGRAPHIC EVIDENCE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#et-topographic-evidence-top)
-- [ETB-001 CAROLINA BAYS AND THEIR ORIGIN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etb-001-carolina-bays-and-their-origin-top)
-- [Anomalies Related to Carolina Bays [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-related-to-carolina-bays-top)
-- [Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-top)
-- [Anomalies in the Formation of Lakes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-in-the-formation-of-lakes-top)
-- [Craters and Astroblemes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#craters-and-astroblemes-top)
-- [Meteorite Crater Classifications [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#meteorite-crater-classifications-top)
-- [Arizona Crater Observations [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#arizona-crater-observations-top)
-- [Henbury Craters' Findings [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#henbury-craters-findings-top)
-- [Wabar Craters Description [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#wabar-craters-description-top)
-- [Craters and Astroblemes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#craters-and-astroblemes-top)
-- [Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-top)
-- [El-238 CRATERS AND ASTROBLEMES ETC-006 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-238-craters-and-astroblemes-etc-006-top)
-- [ETC-006 MOON, EARTH IMPACT SIMILARITIES STUDIED [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etc-006-moon-earth-impact-similarities-studied-top)
-- [ETE-001 EMERGENCE AND SUBMERGENCE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ete-001-emergence-and-submergence-top)
-- [ETE-002 RISING OF THE LAND AROUND HUDSON BAY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ete-002-rising-of-the-land-around-hudson-bay-top)
-- [ETE-003 CHIPS OFF THE PLATES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ete-003-chips-off-the-plates-top)
-- [ETE-004 EVIDENCE OF FOUNDERED CONTINENTAL CRUST BENEATH THE CENTRAL TYRRHENIAN SEA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ete-004-evidence-of-foundered-continental-crust-beneath-the-central-tyrrhenian-sea-top)
-- [ETE-005 A NEW PACIFIC CONTINENT FORMING? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ete-005-a-new-pacific-continent-forming-top)
-- [ETE-006 DROWNED ANCIENT ISLANDS OF THE PACIFIC BASIN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ete-006-drowned-ancient-islands-of-the-pacific-basin-top)
-- [ETE-007 POLAR RISE AND EQUATORIAL FALL OF SEA LEVEL [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ete-007-polar-rise-and-equatorial-fall-of-sea-level-top)
-- [ETE-008 MOUNTAINS UNDER THE MEDITERRANEAN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ete-008-mountains-under-the-mediterranean-top)
-- [El-250 MOUNDS AND PIMPLED PLAINS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-250-mounds-and-pimpled-plains-top)
-- [ETM-001 PIMPLED PLAINS OF EASTERN OKLAHOMA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etm-001-pimpled-plains-of-eastern-oklahoma-top)
-- [ETM-002 THE MYSTERY OF THE MIMA MOUNDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etm-002-the-mystery-of-the-mima-mounds-top)
-- [MOUNDS AND PIMPLED PLAINS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#mounds-and-pimpled-plains-top)
-- [THE HILLOCKS OR MOUND-FORMATIONS OF SAN DIEGO, CALIFORNIA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-hillocks-or-mound-formations-of-san-diego-california-top)
-- [ETM-004 THE SAND MOUNDS OF LOUISIANA AND TEXAS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etm-004-the-sand-mounds-of-louisiana-and-texas-top)
-- [ETM-005 "MUD LUMPS" AND MOUNDS NEAR NEW ORLEANS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etm-005-mud-lumps-and-mounds-near-new-orleans-top)
-- [ETM-006 SUBMARINE PINGOS IN THE BEAUFORT SEA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etm-006-submarine-pingos-in-the-beaufort-sea-top)
-- [El-267 ETM-006 MOUNDS AND PIMPLED PLAINS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-267-etm-006-mounds-and-pimpled-plains-top)
-- [ETM-007 PECULIAR EARTH-HEAPS IN MISSOURI [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etm-007-peculiar-earth-heaps-in-missouri-top)
-- [El-270 SUBMARINE CANYONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-270-submarine-canyons-top)
-- [ETS-001 THE UNDERLYING CAUSES OF SUBMARINE CANYONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ets-001-the-underlying-causes-of-submarine-canyons-top)
-- [ETS-002 OUR SHRINKING GLOBE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ets-002-our-shrinking-globe-top)
-- [ETM-002 SUBMARINE CANYONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etm-002-submarine-canyons-top)
-- [Anomalies in Submarine Canyons [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-in-submarine-canyons-top)
-- [Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-top)
+- [ORGANIZATION OF THE SOURCEBOOKS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#organization-of-the-sourcebooks)
+- [SECTION EB: BIOLOGICAL EVIDENCE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#section-eb-biological-evidence)
+- [EBE-002 SUPERNOVAE AND THE EXTINCTION OF THE DINOSAURS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ebe-002-supernovae-and-the-extinction-of-the-dinosaurs)
+- [EBE-003 EXTINCTIONS AND OVERKILL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ebe-003-extinctions-and-overkill)
+- [EBE-004 THE GREAT EXTINCTIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ebe-004-the-great-extinctions)
+- [Chapter 1: Biologic Unconformity and Anomalies in Evolution](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#chapter-1-biologic-unconformity-and-anomalies-in-evolution)
+- [Chapter 2: Mammoth Graveyards and Catastrophism](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#chapter-2-mammoth-graveyards-and-catastrophism)
+- [Chapter 3: The Mammoth and the Flood](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#chapter-3-the-mammoth-and-the-flood)
+- [El-17 EBM-003 MAMMOTH GRAVEYARDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-17-ebm-003-mammoth-graveyards)
+- [El-19 EBM-004 MAMMOTH GRAVEYARDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-19-ebm-004-mammoth-graveyards)
+- [MAMMOTH GRAVEYARDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#mammoth-graveyards)
+- [El-27 EBM-006 MAMMOTH GRAVEYARDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-27-ebm-006-mammoth-graveyards)
+- [EBM-007 RIDDLE OF THE FROZEN GIANTS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ebm-007-riddle-of-the-frozen-giants)
+- [EBM-008 THE GLACIATED GRAVE OF THE MAMMOTH IN SIBERIA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ebm-008-the-glaciated-grave-of-the-mammoth-in-siberia)
+- [MAMMOTH GRAVEYARDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#mammoth-graveyards)
+- [MUCH ABOUT MUCK](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#much-about-muck)
+- [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies)
+- [EL-43 EBS-001 SEALEVEL INDICATORS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-43-ebs-001-sealevel-indicators)
+- [EBS-002 CIRCUMPOLAR LAND](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ebs-002-circumpolar-land)
+- [EBS-003 [WHALE BONES 330 FEET ABOVE SEA LEVEL]](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ebs-003-whale-bones-330-feet-above-sea-level)
+- [EBS-004 FOSSIL WHALE IN THE DRIFT](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ebs-004-fossil-whale-in-the-drift)
+- [MYTHS AND LEGENDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#myths-and-legends)
+- [CLIMATE CHANGES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#climate-changes)
+- [Lot's Wife](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#lots-wife)
+- [The Flood](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-flood)
+- [001 THE DELUGE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#001-the-deluge)
+- [THE DELUGE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-deluge)
+- [THE DELUGE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-deluge)
+- [The Irish Sea-beliefs](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-irish-sea-beliefs)
+- [Early Sea-tales](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#early-sea-tales)
+- [The Most Famous of the Phantom Islands](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-most-famous-of-the-phantom-islands)
+- [Columbus and the Mythic Islands](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#columbus-and-the-mythic-islands)
+- [Atlantis and Other Lost Lands](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#atlantis-and-other-lost-lands)
+- [Distinct Propositions by Ignatius Donnelly](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#distinct-propositions-by-ignatius-donnelly)
+- [Chapter 1: Early Knowledge of the Compass](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#chapter-1-early-knowledge-of-the-compass)
+- [Chapter 2: Anomalous Discoveries](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#chapter-2-anomalous-discoveries)
+- [Chapter 3: Doubts and Speculations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#chapter-3-doubts-and-speculations)
+- [Chapter 4: Geological and Astronomical Speculations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#chapter-4-geological-and-astronomical-speculations)
+- [Chapter 5: Broadening Knowledge](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#chapter-5-broadening-knowledge)
+- [El-87 EMA-001 MAGNETIC ANOMALIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-87-ema-001-magnetic-anomalies)
+- [EMR-001 COULD PALAEOMAGNETISM BE WRONG?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#emr-001-could-palaeomagnetism-be-wrong)
+- [EMR-002 NO CORRELATIONS IN THE CANARIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#emr-002-no-correlations-in-the-canaries)
+- [EMR-003 A NEW MAGNETIC REVERSAL AT 12,500 YEARS?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#emr-003-a-new-magnetic-reversal-at-12500-years)
+- [EMR-004 VARIATIONS IN MAGNETIC INTENSITY AND CLIMATIC CHANGES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#emr-004-variations-in-magnetic-intensity-and-climatic-changes)
+- [El-92 MAGNETIC REVERSALS EMR-005](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-92-magnetic-reversals-emr-005)
+- [EMR-005 GEOMAGNETIC POLARITY CHANGE, VOLCANIC MAXIMA AND FAUNAL EXTINCTION IN THE SOUTH PACIFIC](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#emr-005-geomagnetic-polarity-change-volcanic-maxima-and-faunal-extinction-in-the-south-pacific)
+- [El-93 EMR-005 MAGNETIC REVERSALS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-93-emr-005-magnetic-reversals)
+- [El-94 SECTION EO: ORBITAL AND ASTRONOMICAL EVIDENCE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-94-section-eo-orbital-and-astronomical-evidence)
+- [EOA-001 THE LAST GLACIAL PERIOD](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#eoa-001-the-last-glacial-period)
+- [EOA-002 ASTRONOMICAL OBSERVATIONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#eoa-002-astronomical-observations)
+- [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies)
+- [ASTRONOMICAL OBSERVATIONS EOA-002](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#astronomical-observations-eoa-002)
+- [IRREGULARITIES IN THE EARTH'S ROTATION - II](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#irregularities-in-the-earths-rotation---ii)
+- [ANOMALOUS ROCKS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalous-rocks)
+- [ERB-001 PATRICK COUNTY, VA., AND ITS CURIOUS "FAIRY STONES"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-001-patrick-county-va-and-its-curious-fairy-stones)
+- [ERB-002 COMMUNICATING WITH LIFE IN SPACE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-002-communicating-with-life-in-space)
+- [ERB-003 DATING THE LIBYAN DESERT SILICA-GLASS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-003-dating-the-libyan-desert-silica-glass)
+- [ERB-004 A DRY QUICKSAND](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-004-a-dry-quicksand)
+- [ERB-005 THE ARABIAN HARRAS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-005-the-arabian-harras)
+- [ERB-006 FITTING BOULDERS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-006-fitting-boulders)
+- [ERB-007 SOLVING THE MYSTERY OF MEXICO'S GREAT STONE SPHERES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-007-solving-the-mystery-of-mexicos-great-stone-spheres)
+- [ERB-008 THE CANYON DIABLO METEORITES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-008-the-canyon-diablo-meteorites)
+- [ERB-009 THE CONCRETIONS OF THE CONNECTICUT VALLEY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erb-009-the-concretions-of-the-connecticut-valley)
+- [ERG-001 NOTES CONCERNING A PECULIARLY MARKED SEDIMENTARY ROCK](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erg-001-notes-concerning-a-peculiarly-marked-sedimentary-rock)
+- [ERG-002 PERCUSSION FIGURES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erg-002-percussion-figures)
+- [ERG-003 MYSTERY IMPRINTS STUMP GEOLOGISTS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erg-003-mystery-imprints-stump-geologists)
+- [El-124 METEORITES AND TEKTITES ERM-003](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-124-meteorites-and-tektites-erm-003)
+- [ERM-003 TEKTITES ARE TERRESTRIAL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erm-003-tektites-are-terrestrial)
+- [The Age Paradox](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-age-paradox)
+- [The Flight](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-flight)
+- [Possibility of a Lunar Origin](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#possibility-of-a-lunar-origin)
+- [Tektites and Craters](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#tektites-and-craters)
+- [The Place](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-place)
+- [Origin of Tektites](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#origin-of-tektites)
+- [ERM-004 Tektites and Geomagnetic Reversals](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erm-004-tektites-and-geomagnetic-reversals)
+- [ERM-005 Meteorites and Tektites](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#erm-005-meteorites-and-tektites)
+- [ERR-001 Ringing Rocks](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#err-001-ringing-rocks)
+- [El-135 ERR-001 RINGING ROCKS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-135-err-001-ringing-rocks)
+- [El-138 RINGING ROCKS ERR-002](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-138-ringing-rocks-err-002)
+- [El-140 RINGING ROCKS ERR-002](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-140-ringing-rocks-err-002)
+- [El-141 ERR-003 RINGING ROCKS ERR-003 MUSICAL STONES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-141-err-003-ringing-rocks-err-003-musical-stones)
+- [ERR-004 SOUNDING STONES AT CH'UFU, SHANTUNG](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#err-004-sounding-stones-at-chufu-shantung)
+- [ERS-001 MUSICAL SANDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ers-001-musical-sands)
+- [ERS-001 RESEARCHES ON SONOROUS SAND IN THE PENINSULA OF SINAI](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ers-001-researches-on-sonorous-sand-in-the-peninsula-of-sinai)
+- [ERS-002 THE SINGING BEACH OF MANCHESTER, MASS.](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ers-002-the-singing-beach-of-manchester-mass)
+- [ERS-003 MUSICAL SAND, ITS WIDE DISTRIBUTION AND PROPERTIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ers-003-musical-sand-its-wide-distribution-and-properties)
+- [ERS-004 A NEW MOUNTAIN OF THE BELL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ers-004-a-new-mountain-of-the-bell)
+- [ERS-005 MUSICAL SAND IN CHINA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ers-005-musical-sand-in-china)
+- [ERS-006 MUSICAL SANDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ers-006-musical-sands)
+- [ANOMALIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies)
+- [COAL AND PETROLEUM](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#coal-and-petroleum)
+- [A COMET CAUSED THE DRIFT](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#a-comet-caused-the-drift)
+- [THE DRIFT](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-drift)
+- [SOME DEFECTS OF GLACIAL THEORY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#some-defects-of-glacial-theory)
+- [Anomalies in Drumlin Formation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-in-drumlin-formation)
+- [Catastrophism and Evolution](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#catastrophism-and-evolution)
+- [The Drift](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-drift)
+- [THE DRIFT](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-drift)
+- [PLEISTOCENE GLACIATION IN THE BLUE RIDGE PROVINCE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#pleistocene-glaciation-in-the-blue-ridge-province)
+- [Anomalies in Geological Features](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-in-geological-features)
+- [Structural Interpretation](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#structural-interpretation)
+- [Anomalies in Fault Movement](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-in-fault-movement)
+- [Highland Overthrusts](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#highland-overthrusts)
+- [Patterned Ground](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#patterned-ground)
+- [PATTERNED GROUND](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#patterned-ground)
+- [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies)
+- [ESP-003 DESCRIPTION OF A SINGULAR CASE OF THE DISPERSION OF BLOCKS OF STONE CONNECTED WITH DRIFT, IN BERKSHIRE COUNTY, MASSACHUSETTS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#esp-003-description-of-a-singular-case-of-the-dispersion-of-blocks-of-stone-connected-with-drift-in-berkshire-county-massachusetts)
+- [ESP-004 BOULDER-TRAINS IN BERKSHIRE COUNTY, MASSACHUSETTS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#esp-004-boulder-trains-in-berkshire-county-massachusetts)
+- [ESP-005 "ROCK CITIES"](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#esp-005-rock-cities)
+- [ET: TOPOGRAPHIC EVIDENCE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#et-topographic-evidence)
+- [ETB-001 CAROLINA BAYS AND THEIR ORIGIN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etb-001-carolina-bays-and-their-origin)
+- [Anomalies Related to Carolina Bays](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-related-to-carolina-bays)
+- [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies)
+- [Anomalies in the Formation of Lakes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-in-the-formation-of-lakes)
+- [Craters and Astroblemes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#craters-and-astroblemes)
+- [Meteorite Crater Classifications](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#meteorite-crater-classifications)
+- [Arizona Crater Observations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#arizona-crater-observations)
+- [Henbury Craters' Findings](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#henbury-craters-findings)
+- [Wabar Craters Description](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#wabar-craters-description)
+- [Craters and Astroblemes](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#craters-and-astroblemes)
+- [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies)
+- [El-238 CRATERS AND ASTROBLEMES ETC-006](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-238-craters-and-astroblemes-etc-006)
+- [ETC-006 MOON, EARTH IMPACT SIMILARITIES STUDIED](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etc-006-moon-earth-impact-similarities-studied)
+- [ETE-001 EMERGENCE AND SUBMERGENCE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ete-001-emergence-and-submergence)
+- [ETE-002 RISING OF THE LAND AROUND HUDSON BAY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ete-002-rising-of-the-land-around-hudson-bay)
+- [ETE-003 CHIPS OFF THE PLATES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ete-003-chips-off-the-plates)
+- [ETE-004 EVIDENCE OF FOUNDERED CONTINENTAL CRUST BENEATH THE CENTRAL TYRRHENIAN SEA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ete-004-evidence-of-foundered-continental-crust-beneath-the-central-tyrrhenian-sea)
+- [ETE-005 A NEW PACIFIC CONTINENT FORMING?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ete-005-a-new-pacific-continent-forming)
+- [ETE-006 DROWNED ANCIENT ISLANDS OF THE PACIFIC BASIN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ete-006-drowned-ancient-islands-of-the-pacific-basin)
+- [ETE-007 POLAR RISE AND EQUATORIAL FALL OF SEA LEVEL](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ete-007-polar-rise-and-equatorial-fall-of-sea-level)
+- [ETE-008 MOUNTAINS UNDER THE MEDITERRANEAN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ete-008-mountains-under-the-mediterranean)
+- [El-250 MOUNDS AND PIMPLED PLAINS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-250-mounds-and-pimpled-plains)
+- [ETM-001 PIMPLED PLAINS OF EASTERN OKLAHOMA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etm-001-pimpled-plains-of-eastern-oklahoma)
+- [ETM-002 THE MYSTERY OF THE MIMA MOUNDS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etm-002-the-mystery-of-the-mima-mounds)
+- [MOUNDS AND PIMPLED PLAINS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#mounds-and-pimpled-plains)
+- [THE HILLOCKS OR MOUND-FORMATIONS OF SAN DIEGO, CALIFORNIA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#the-hillocks-or-mound-formations-of-san-diego-california)
+- [ETM-004 THE SAND MOUNDS OF LOUISIANA AND TEXAS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etm-004-the-sand-mounds-of-louisiana-and-texas)
+- [ETM-005 "MUD LUMPS" AND MOUNDS NEAR NEW ORLEANS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etm-005-mud-lumps-and-mounds-near-new-orleans)
+- [ETM-006 SUBMARINE PINGOS IN THE BEAUFORT SEA](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etm-006-submarine-pingos-in-the-beaufort-sea)
+- [El-267 ETM-006 MOUNDS AND PIMPLED PLAINS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-267-etm-006-mounds-and-pimpled-plains)
+- [ETM-007 PECULIAR EARTH-HEAPS IN MISSOURI](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etm-007-peculiar-earth-heaps-in-missouri)
+- [El-270 SUBMARINE CANYONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#el-270-submarine-canyons)
+- [ETS-001 THE UNDERLYING CAUSES OF SUBMARINE CANYONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ets-001-the-underlying-causes-of-submarine-canyons)
+- [ETS-002 OUR SHRINKING GLOBE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#ets-002-our-shrinking-globe)
+- [ETM-002 SUBMARINE CANYONS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#etm-002-submarine-canyons)
+- [Anomalies in Submarine Canyons](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies-in-submarine-canyons)
+- [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/strange-planet.md#anomalies)
 
-# ORGANIZATION OF THE SOURCEBOOKS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ORGANIZATION OF THE SOURCEBOOKS 
 - **Fossil clocks**: Bivalve growth rings and tree rings serve as indicators of various natural time periods, such as the length of months or years. Their utilization challenges standard geological interpretations of time.
 
 - **Extinctions and overkill**: The fossil record often shows immense numbers of animals that seem to have perished within geologically short spans, suggesting possible catastrophic events. These extinctions raise questions about their causes, revealing that they may stem from rapid, catastrophic occurrences or other unknown factors correlated with the environment.
@@ -159,29 +159,29 @@
 
 - **Sealevel indicators**: Fossilized animal and plant remains serve as evidence for previously high sea levels. This anomaly provides insights into past climate conditions and supports discussions around historical geological events influencing biodiversity and habitat.
   
-# SECTION EB: BIOLOGICAL EVIDENCE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# SECTION EB: BIOLOGICAL EVIDENCE 
 - **Fish graveyards**: Vast numbers of fish fossilized in quick succession raise questions about the processes behind their preservation. Observations suggest that these occurrences likely relate to sudden and catastrophic events rather than slow, uniform gradualism.
-# EBE-002 SUPERNOVAE AND THE EXTINCTION OF THE DINOSAURS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# EBE-002 SUPERNOVAE AND THE EXTINCTION OF THE DINOSAURS 
 - **Biological Damage from Radiation**: Early theories suggested that supernovae might cause biological extinctions due to radiation damage. However, calculations indicated that the radiation effects were actually too minimal to account for significant extinction events.
 
 - **Climatic Effects from Nearby Supernovae**: The authors propose that a supernova explosion could have drastic climatic consequences, potentially leading to the extinction of many species, including dinosaurs. This hypothesis is supported by previous discussions on the radiation doses and their correlation with observed mass extinctions.
 
 - **Detection of Supernovae Emissions**: The belief that high-energy cosmic rays and other forms of radiation are generated during supernova outbursts is bolstered by pulsar discoveries. These emissions could lead to significant changes in the atmosphere and impact life on Earth.
 
-# EBE-003 EXTINCTIONS AND OVERKILL [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# EBE-003 EXTINCTIONS AND OVERKILL 
 - **Energy Deposition in the Atmosphere**: The effects of massive energy influx into the atmosphere could result in significant climatic instability and extreme storms. The energy levels involved are comparable to the gravitational binding energy of the upper atmosphere, leading to profound alterations in atmospheric circulation.
 
 - **Long-Term Climatic Changes**: Increased ultraviolet emissions from the Sun could precipitate long-term changes such as ice ages and disrupted greenhouse effects due to ozone layer alterations. Such shifts may result in increased storminess and lower temperatures globally.
 
 - **Other Potential Causes of Extinction**: The mechanisms leading to mass extinction may not be solely linked to supernovae; intense solar outbursts can also be critical factors. This hints at a broader understanding of climatic changes and their impacts on Earth's biota.
 
-# EBE-004 THE GREAT EXTINCTIONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# EBE-004 THE GREAT EXTINCTIONS 
 - **Mass Extinction Events and Their Patterns**: Paleontological records reveal a cyclical pattern of sudden appearances and disappearances of life forms throughout Earth's history. Major extinction events coincide with the emergence of new life forms, suggesting a potential link to external factors like supernovae.
 
 - **The Role of Cosmic Rays**: The theory suggesting that radiations from supernovae may invoke significant mutations and extinctions has sparked considerable debate among scientists. Critics argue that such radiative impacts could have occurred gradually rather than in a sudden event, which necessitates further investigation.
 
 - **Unconformities in Stratigraphy**: Geologists note “unconformities,” where older rock layers show signs of erosion before newer sediments are deposited, indicative of significant time breaks in geological history. These unconformities raise questions about the relationship between ancient and more recent life forms, particularly during transitions between major eras.
-# Chapter 1: Biologic Unconformity and Anomalies in Evolution [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 1: Biologic Unconformity and Anomalies in Evolution 
 
 - **Anomaly of Animal Extinction and Emergence**  
   Whole groups of animal life vanished while new species suddenly appeared or proliferated rapidly. This raises the question of what external influences could have caused such drastic changes in biodiversity.
@@ -192,7 +192,7 @@
 - **Sudden Appearance of Primitive Ungulates**  
   Vast herds of primitive ungulates seemingly emerged abruptly at the beginning of the Tertiary period. The record of only a few inches of sediment deposited during this time underscores a significant gap in our understanding of these developments.
 
-# Chapter 2: Mammoth Graveyards and Catastrophism [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 2: Mammoth Graveyards and Catastrophism 
 
 - **Mammoth Carcasses as Evidence of Catastrophism**  
   Mammoths found in the Arctic Ocean's shores are key evidence suggesting that the Earth has experienced widespread catastrophism in recent history. Uniformitarians interpret these findings differently, leading to ongoing debates surrounding the historical interpretations of these events.
@@ -200,7 +200,7 @@
 - **Contrasting Views of Howorth and Velikovsky**  
   Howorth's theories were more favorably received than Velikovsky's catastrophism, which resulted in significant upheaval in the 1950s. The discourse continues to evolve as new evidence and interpretations emerge.
 
-# Chapter 3: The Mammoth and the Flood [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 3: The Mammoth and the Flood 
 
 - **Preservation of Mammoth Carcasses in Siberia**  
   The preservation state of the mammoth carcasses indicates they must have been frozen shortly after death. This preservation challenges the idea of a gradual environmental change leading to their entombment.
@@ -210,7 +210,7 @@
 
 - **Critique of Uniformitarianism**  
   Critics, including Howorth, argue that uniformitarian views often overlook potential catastrophic influences in geology. They stress the need for a broader investigation into geological phenomena that are not adequately explained by gradual processes.
-# El-17 EBM-003 MAMMOTH GRAVEYARDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# El-17 EBM-003 MAMMOTH GRAVEYARDS 
 
 - **Escape of Carcases from Decomposition**  
   The theory suggests that a flood of exceptional character could have carried mammoth bodies north, potentially burying them before they decomposed. If this occurred during the right season and temperature, the remains might evade rot and become entombed.
@@ -233,7 +233,7 @@
 - **Continued Existence of Flora and Fauna**  
   The remains of trees found alongside mammoths suggest a different climate during their existence. The presence of freshwater shells and rooted trees suggests that the mammoths lived in a lush environment, contradicting the idea that they were merely floated and buried.
 
-# El-19 EBM-004 MAMMOTH GRAVEYARDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# El-19 EBM-004 MAMMOTH GRAVEYARDS 
 
 - **Mr. Howorth's Conclusions**  
   Howorth concludes that a significant catastrophe at the end of the mammoth period involved a universal flood that impacted a wide area. This flood not only led to the death of these mammals but also resulted in their subsequent burial under debris.
@@ -252,7 +252,7 @@
 
 - **Cultural and Temporal Distinction in Human Species**  
   There exists a marked separation between the remains of Palaeolithic and Neolithic humans, with distinct cultural artifacts found within different contexts. The consistent absence of Pleistocene fauna alongside Neolithic tools strongly suggests that these two periods did not overlap in time or habitat.
-# MAMMOTH GRAVEYARDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MAMMOTH GRAVEYARDS 
 
 - **Complete disappearance of one type of man and reappearance of another**  
   The phenomenon describes the complete absence of intermediate forms that would typically link two distinct types of man, fauna, and flora. This raises significant questions regarding the causes of such a sudden transition in the ecological landscape.
@@ -283,7 +283,7 @@
 
 - **Lack of comprehensive studies on frozen mammoths**  
   Despite the existence of various studies, comprehensive analyses focusing specifically on frozen mammoths are lacking. This gap in scientific literature complicates a full understanding of their ecological and evolutionary significance.
-# El-27 EBM-006 MAMMOTH GRAVEYARDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# El-27 EBM-006 MAMMOTH GRAVEYARDS 
 
 - **Frozen Mammoths Population**  
   The frozen mammoths were members of a populous race located in Siberia and not just occasional strays. Contrary to some popular beliefs, many were not found perfectly fresh and undamaged.
@@ -321,7 +321,7 @@
 - **Foraging Habits Before Death**  
   Stomach contents and burial conditions imply that mammoths died in a warmer season when locomotion was difficult. This may have contributed to their entrapment and subsequent preservation.
 
-# EBM-007 RIDDLE OF THE FROZEN GIANTS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# EBM-007 RIDDLE OF THE FROZEN GIANTS 
 
 - **Quick-Freezing Hypothesis**  
   Many woolly mammoths were found remarkably fresh, leading to the hypothesis that they were quick-frozen. The presence of flesh that appeared intact contradicts the idea they were killed by slow, natural processes.
@@ -332,11 +332,11 @@
 - **Diversity of Specimen Conditions**  
   In Alaska, some mammoths were found mangled and still fresh, suggesting a violent death before freezing. Others showed signs of decomposition prior to being frozen, raising concerns about how many conditions existed in their burial environments.
 
-# EBM-008 THE GLACIATED GRAVE OF THE MAMMOTH IN SIBERIA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# EBM-008 THE GLACIATED GRAVE OF THE MAMMOTH IN SIBERIA 
 
 - **Vast Graveyards**  
   Northeast Siberia is described as a graveyard filled with bones of various perished animals, indicating a major death event. This context suggests clustering of remains does not simply imply normal mortality but a significant environmental influence on the population.
-# MAMMOTH GRAVEYARDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MAMMOTH GRAVEYARDS 
 
 - **Anomaly of Abundant Animal Bones**  
   The northern Siberia landscape is described as a vast graveyard abundant with the bones of extinct megafauna such as elephants and rhinoceroses. Although these bones are commonly found in diverse terrains, it remains a mystery how these massive animals perished in such quantities.
@@ -353,7 +353,7 @@
 - **Presence of Beaver Evidence Beyond Forest Limits**  
   The finding of beaver dams and wood beyond current forest limits suggests the existence of tree-covered landscapes in the past. The implications of these findings call into question the shifts in climate and ecology, supporting the idea of a once-lush habitat that has since changed.
 
-# MUCH ABOUT MUCK [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MUCH ABOUT MUCK 
 
 - **Unexpected Tree Trunk Discovery**  
   A drilling project in northern Alaska revealed an 18-inch long frozen tree trunk at a depth of 1,000 feet, surprising even seasoned professionals in the oil industry. This unexpected find raises questions about the history and conditions of the Arctic environment, especially in regions that are currently treeless.
@@ -363,7 +363,7 @@
 
 - **Depth of Frozen Soil Baffles Geologists**  
   Studies show that the frozen muck covers vast areas with astonishing depth, often exceeding 4,000 feet in certain regions without reaching solid rock. This presents a geological enigma, challenging assumptions about soil formation and suggesting that these regions were once at much higher elevations than they are today.
-# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies 
 
 - **Universal Sea Level Change**  
   There are suggestions that universal sea level could have been geologically more than 4000 feet lower than today. This raises questions about the conditions under which early layers of muck were formed, particularly in shallow coastal seas.
@@ -403,7 +403,7 @@
 
 - **Changes in Circumpolar Lands**  
   The debate surrounding changes in sea level in polar regions accentuates the geological significance of upheaval and subsidence. An examination of these phenomena is crucial to comprehending broader patterns of geological activity.
-# EL-43 EBS-001 SEALEVEL INDICATORS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# EL-43 EBS-001 SEALEVEL INDICATORS 
 
 - **Baltic Sea Anomaly**: Testacea found seventy feet above sea level were identical to those in the adjacent sea, indicating unusual geological stability. This could suggest a significant change in sea levels or land elevation in the region over time.
 
@@ -435,7 +435,7 @@
 
 - **Beechey's High Cliffs**: Captain Beechey described high cliffs now separated from the sea by low flats filled with organic remains. This reflects significant geological and ecological shifts potentially linked to regional upheavals.
 
-# EBS-002 CIRCUMPOLAR LAND [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# EBS-002 CIRCUMPOLAR LAND 
 
 - **South America Elevation Evidence**: Mr. Darwin reported that land in South America, particularly from the Rio Plata to Terra del Fuego, has been elevated significantly within the period of existing shells. The documented elevations point to extensive geological processes occurring in recent history.
 
@@ -449,18 +449,18 @@
 
 - **Extensive Australian Uplift**: The evidence from various sources details extensive land uplifts in Australia, with recent geological activity altering coastal geography significantly. Altered drainage patterns and new reefs emphasize persistent geological changes since prior times.
 
-# EBS-003 [WHALE BONES 330 FEET ABOVE SEA LEVEL] [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# EBS-003 [WHALE BONES 330 FEET ABOVE SEA LEVEL] 
 
 - **Swedenborg Whale Discovery**: The skeleton of a whale found in Halland at 50 feet above sea level indicates significant geological or hydrological changes over time. Previous finds of similar whale bones 330 feet above sea level pose questions about historical sea levels or cataclysmic events.
 
 - **Hypotheses Regarding Higher Sea Levels**: The findings offer two possible interpretations, suggesting either a previous higher sea level or a sudden oceanic surge that displaced the whale inland. Both scenarios promise extensive implications for understanding coastal and marine interactions in history.
 
-# EBS-004 FOSSIL WHALE IN THE DRIFT [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# EBS-004 FOSSIL WHALE IN THE DRIFT 
 
 - **Whale Bones in Ontario**: The discovery of whale bones in Ontario indicates significant geographical and climatic developments in the region. This suggests that sediment deposits traditionally viewed as glacial could instead have marine origins.
 
 - **Interpreting Geological Findings**: The identification of whale bones raises questions regarding the historical ecological dynamics of the region and reinforces the need for nuanced interpretations of geological deposits. This could lead to reevaluations of past environmental conditions and species distributions.
-# MYTHS AND LEGENDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MYTHS AND LEGENDS 
 
 - **Climate changes (ELC)**  
   Legends of sharp, extensive changes of climate experienced by ancient man suggest significant environmental transformations over time. These changes are reflected in tales passed down through generations, revealing how climate has impacted human life and culture.
@@ -471,7 +471,7 @@
 - **Phantom lands (ELG)**  
   Legends and stories about islands and great cities that have vanished, as well as currently unidentified lands, highlight the human fascination with lost civilizations. These accounts, appearing across different cultures, often serve as cautionary tales of hubris and the impermanence of human achievements. 
 
-# CLIMATE CHANGES  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# CLIMATE CHANGES  
 
 - **Recent Climatic Changes (ELC-001)**  
   The land is reported to be gaining on the sea at both poles, implying significant geological shifts affecting the Earth's crust. This transformation could explain historical accounts that depicted regions like Scandinavia as archipelagos, influencing our understanding of past climates.
@@ -496,10 +496,10 @@
 
 - **Niobe's Transformation**  
   The story of Niobe, who turns to stone while mourning her children, embodies the intersection of mythology and identified geographical features. This myth serves as a poignant reminder of the cultural significance assigned to natural formations and their stories throughout history.
-# Lot's Wife [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Lot's Wife 
 - Lot's wife is transformed into a pillar of salt, which Josephus claims still exists. Irenaeus suggests this miracle of preservation occurs because it is renewed whenever a part of it dissolves.
 
-# The Flood [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# The Flood 
 - The Flood was a significant topic in geology, with past commentaries attributing fossil shells found in the Apennines to Noah's Flood. Suess in the 19th century proposed an explanation involving a cyclone and earthquake coinciding at the mouth of the Euphrates, challenging the traditional Biblical narrative. 
 
 - Berosus, a Chaldean priest, recounts that the king Xisuthros received a divine warning about an impending flood, commanded to build a vessel and preserve life. After the Flood, Xisuthros was granted immortality and was taken to dwell among the gods, signifying a shift in his status. 
@@ -507,7 +507,7 @@
 - Gilgamos (Nimrod) seeks out Hasisadra (Xisuthros) after losing his friend, and Hasisadra reveals the hidden story of the flood and the divine decision to destroy mankind. The council of gods, including Anu, plans the flood while the god Ea instructs Hasisadra on building a ship and saving life from destruction. 
 
 - The flood lasts six days and six nights, leading to a devastated world where bodies float and all land disappears. After the waters recede, Hasisadra releases a series of birds to find land, ultimately leading to the successful sacrifice made to the gods in gratitude for survival.
-# 001 THE DELUGE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# 001 THE DELUGE 
 
 - **Anomaly of Elevation Changes**  
   The elevation at Old Ninevah is noted to be only 300 m despite being 300 kilometers from the sea. This rapid advancement in land formation challenges traditional perceptions of geographic stability in that region.
@@ -553,7 +553,7 @@
 
 - **Scientific Interpretation of Flood Phenomena**  
   The potential for interpreting flood myths through natural mechanisms, such as earthquake-triggered tsunamis and sudden climatic changes, opens avenues for interdisciplinary studies. This exploration can bridge the gap between scientific evaluation of phenomena and traditional storytelling.
-# THE DELUGE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# THE DELUGE 
 
 - **Anomaly of Global Flood Myths**  
   The narrative of a great cataclysm affecting all of humanity, preserving only a few to re-populate the earth, is astonishingly universal. This theme appears across various cultures, with numerous legends sharing striking similarities yet differing in detail.
@@ -575,7 +575,7 @@
 
 - **Challenges in American Traditions**  
   The fusion of Christian influence with indigenous stories complicates the exploration of original American deluge myths. Notably, many tribes share motifs of survival, with a few individuals escaping the flood, suggesting that themes of cataclysm and rebirth transcend cultural boundaries.
-# THE DELUGE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# THE DELUGE 
 
 - Tezpi sent forth a vulture to ascertain the state of the earth after the ship stranded on Mount Cohuacan, but the vulture did not return after finding carcasses of animals. This act signifies a connection to humanity's quest for knowledge and understanding of their environment.
 
@@ -596,117 +596,117 @@
 - Many traditions reflect a need to connect local floods to a larger narrative, leading to the theory that these stories stem from a singular, monumental event experienced by humankind. Scholars argue that this reinforces a common origin or shared experience among diverse civilizations.
 
 - The overwhelming similarities and themes in Deluge myths across cultures suggest historical connections rather than isolated mythical developments. The persistence of these stories through generations speaks to humanity's collective memory of catastrophe and renewal.
-# The Irish Sea-beliefs [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# The Irish Sea-beliefs 
 
 - The early inhabitants of Ireland were deeply influenced by the mysterious phenomena of their coastal surroundings. They perceived natural occurrences, such as foam and mirages, as magical and often interpreted them as signs of otherworldly islands.
 
 - Irish scholars believed the sea waves themselves were prophetic beings. They narrated tales of how certain waves forewarned of disasters, intertwining their maritime experiences with their mythology.
 
-# Early Sea-tales [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Early Sea-tales 
 
 - The early Gael cherished sea-tales, and although many may have been lost, a few significant narratives have survived. These tales often echoed themes found in classical literature, such as the voyages of Ulysses and the adventures of St. Brendan.
 
 - The "Navigatio" of St. Brendan is a key sea-tale that has had considerable influence, being elaborated upon over the centuries. Its narratives spread beyond Ireland, inspiring explorers and poets alike, illustrating the expansive reach of Irish maritime lore.
 
-# The Most Famous of the Phantom Islands [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# The Most Famous of the Phantom Islands 
 
 - "Brasil," or "Brazil," emerged as a prominent phantom island on early maps, shrouded in mystique and religious significance. Its origins are entwined with reflections and mirages seen by sailors, eventually evolving into a legendary land promised by Christianity.
 
 - The island's existence was sustained on maps for centuries, transforming from a mere reflection of mirages to a cherished locale in navigational charts. Despite its non-physical nature, it was supposedly sighted during explorations, encapsulating the allure of the unknown.
 
-# Columbus and the Mythic Islands [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Columbus and the Mythic Islands 
 
 - Christopher Columbus's ambitions were heavily influenced by mythical beliefs surrounding islands in the Atlantic Ocean. His misconceptions about the size of the world and the existence of these lands propelled him on his fateful voyage across the ocean.
 
 - Columbus's knowledge of legends like the Isle of the Seven Cities and Antilia bolstered his resolve to search for new territories. He interacted with Irish sailors and navigators who passed down tales that fueled the idea of undiscovered islands waiting to be claimed.
 
-# Atlantis and Other Lost Lands [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Atlantis and Other Lost Lands 
 
 - The legend of Atlantis bears striking resemblances to myths recorded in Irish literature, demonstrating a cross-cultural exchange of legendary narratives. Both the Atlantis myth and Irish tales feature fortified islands and significant water deities in their tales.
 
 - The similarities extend to stories of submerged lands across Europe, including the lost land of Lyoness and Avalon in Britain. These narratives reflect a widespread belief in once-prosperous places now lost to the sea, reinforcing the allure and urgency of exploration during their respective periods.
 
-# Distinct Propositions by Ignatius Donnelly [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Distinct Propositions by Ignatius Donnelly 
 
 - Ignatius Donnelly proposed several compelling ideas regarding Atlantis, suggesting it was a significant landmass opposite the Mediterranean, greatly impacting ancient civilizations. He argued that the legendary description by Plato reflected actual historical realities rather than mere fables.
 
 - His assertions connected Atlantis to various elements of human development, proposing that it was the birthplace of civilizations and the cradle of ancient religions. Donnelly's work motivated ongoing discussions and investigations into the potential truths behind this enduring myth.
-# Chapter 1: Early Knowledge of the Compass [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 1: Early Knowledge of the Compass 
 - **Compass Anomaly**  
   The compass was known to Roger Bacon in the thirteenth century and later to Brunetto Latini, Dante's tutor. Sailors regarded it as an "infernal spirit," which led to its delayed popularity until around 1360.
 
 - **Maps of Brasil**  
   Early maps from the 15th century, such as the Venetian map by Andrea Bianco, depicted Brasil near the Azores and a mythic isle to the west of Ireland. This suggests a connection between the making of early maps and the appearance of Brasil as a geographical name.
 
-# Chapter 2: Anomalous Discoveries [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 2: Anomalous Discoveries 
 - **Discovery by Cabot**  
   In 1497, Cabot reportedly found two fertile islands and the "Seven Cities" 400 leagues from England. The Spanish Ambassador confirmed the annual search by Bristol men for Brasil and the Seven Cities, indicating a widespread belief in these lost lands.
 
 - **Survival of Mythic Islands**  
 Despite the exploration of the Americas, the belief in mythic islands like Brasil and Buss persisted for centuries. The islands continued to be represented on maps until well into the 19th century, defying the expectation that geographic interest would eliminate such myths.
 
-# Chapter 3: Doubts and Speculations [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 3: Doubts and Speculations 
 - **Brasil Rock Anomaly**  
 Mapmaking records of Brasil Rock persisted, even as doubts about its existence arose in the 18th century. A sailor from an English merchant ship claimed to have seen the rock in 1791, yet later corrections led to its eventual removal from maps in 1865.
 
 - **Cultural Connections and Collapses**  
 Legends about lost islands often correlate with significant geological events, suggesting these myths may stem from real phenomena. The notion of islands appearing or disappearing could hint at historical subsidence or volcanic eruptions that shaped public belief.
 
-# Chapter 4: Geological and Astronomical Speculations [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 4: Geological and Astronomical Speculations 
 - **Atlantis Catastrophes**  
 The account of Atlantis's destruction due to a grazing planetoid presents a compelling narrative linking geology and mythology. This disaster narrative contributes to theories about the formation of geological features, such as diamond fields in Brazil and Africa.
 
 - **Volcanic Activity and Land Changes**  
 Speculations indicate that a catastrophic collision could lead to significant geological transformations, like the elevation of lands. Such drastic alterations might explain some long-puzzling geological features, including the Sahara desert.
 
-# Chapter 5: Broadening Knowledge [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Chapter 5: Broadening Knowledge 
 - **Interdisciplinary Challenges**  
 There is a call for integrating knowledge across disciplines to derive sound conclusions from various scientific studies. The specialization of academic fields often leads to narrow perspectives that neglect broader contexts, which is crucial for holistic understanding.
 
 - **Sargasso Sea and Legends**  
 The Sargasso Sea might lend credence to the myths of floating islands due to its unique characteristics. Its appearance might generate illusions of islands, intertwining natural phenomena with cultural legends about the sea.
-# El-87 EMA-001 MAGNETIC ANOMALIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# El-87 EMA-001 MAGNETIC ANOMALIES 
 - The asymmetry in the longitudes of the earth's magnetic poles is noted, currently positioned at 96° west and 155° east, only 109° apart. This peculiar placement raises questions about its potential relationship with the birth of the moon and the distribution of magnetic elements within the earth.
 
 - The article suggests that the removal of a mass from what is now the Pacific Ocean may have shifted the axis of rotation of the earth, resulting in the closer proximity of the magnetic poles. It asserts that this removal could have ultimately contributed to the formation of the continents as we know them today.
 
-# EMR-001 COULD PALAEOMAGNETISM BE WRONG? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# EMR-001 COULD PALAEOMAGNETISM BE WRONG? 
 - The assumption that the Earth's magnetic field has always been axially dipolar is questioned, as it is not directly provable. Stehli's analysis indicates that for the Permian period, the axial hypothesis may not hold, as evidenced by inconsistencies in the diversity of brachiopod families when plotted according to palaeomagnetic latitude.
 
 - The conflict between palaeontological and palaeomagnetic evidence suggests that one or the other may be incorrect, necessitating further investigation. If Stehli's conclusions are validated, it would challenge the foundation of many prevailing theories in geology related to continental drift.
 
-# EMR-002 NO CORRELATIONS IN THE CANARIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# EMR-002 NO CORRELATIONS IN THE CANARIES 
 - The phenomenon of self-reversal in rock samples raises doubts about the reliability of paleomagnetism, which underpins modern plate tectonics. Despite extensive evidence supporting field reversal, the observed correlations between magnetic polarity and oxidation state in certain rock samples remain perplexing.
 
 - Ade-Hall and Watkins' study of various lava flows from the Canary Islands found no correlation between polarity and oxidation, emphasizing that negative results can also hold significant weight in scientific inquiries. This non-correlation raises further questions about the statistical nature of the observed relationships and suggests that prior correlations might not be universally applicable.
 
-# EMR-003 A NEW MAGNETIC REVERSAL AT 12,500 YEARS? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# EMR-003 A NEW MAGNETIC REVERSAL AT 12,500 YEARS? 
 - Recent research reports the discovery of reversely magnetized sediment approximately 12,500 years old, located in a well-dated core from Gothenburg, Sweden. While this finding corroborates dating accuracy, the claim that it represents a genuine field reversal remains unproven.
 
 - The lack of reported self-reversal characteristics, combined with no corroborating evidence from other sections, casts doubt on the nature of this alleged reversal. Despite the acknowledgment of possible short magnetic events, such events present challenges in distinguishing genuine signals from noise in the geological record.
 
-# EMR-004 VARIATIONS IN MAGNETIC INTENSITY AND CLIMATIC CHANGES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# EMR-004 VARIATIONS IN MAGNETIC INTENSITY AND CLIMATIC CHANGES 
 - The paper discusses potential links between magnetic reversals, tektite falls, and biological extinctions, suggesting that fluctuations in the Earth's magnetic field might correlate with climatic changes. Prior studies have established connections between magnetic variations, atmospheric radiocarbon activity, and shifts in climate over the past 7,000 years.
 
 - The authors propose that historical magnetic fluctuations could have modulated climate over the last 470,000 years, prompting further exploration into how magnetic events might influence biological and climatic trends. This assertion builds on earlier work advocating for a cause-and-effect relationship between magnetic field reversals and ecological changes.
-# El-92 MAGNETIC REVERSALS EMR-005 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# El-92 MAGNETIC REVERSALS EMR-005 
 - Evidence of climatic changes correlated with variations in magnetic intensity has been observed. Notably, higher magnetic intensity seems to suggest a colder climate, which implies a connection between the Earth’s magnetic field and climate modulation.
 
-# EMR-005 GEOMAGNETIC POLARITY CHANGE, VOLCANIC MAXIMA AND FAUNAL EXTINCTION IN THE SOUTH PACIFIC [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# EMR-005 GEOMAGNETIC POLARITY CHANGE, VOLCANIC MAXIMA AND FAUNAL EXTINCTION IN THE SOUTH PACIFIC 
 - Geomagnetic field reversals have been documented to occur more than twenty times in the past 4 million years. Notably, some microfaunal extinctions and appearances coincided with periods of geomagnetic polarity transitions lasting about 5,000 years, although the reasons for these synchronizations remain unclear.
 
-# El-93 EMR-005 MAGNETIC REVERSALS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# El-93 EMR-005 MAGNETIC REVERSALS 
 - Volcanic activity has been observed alongside geomagnetic polarity changes, suggesting a potential correlation. Specifically, significant volcanic fragments are frequently found close to key polarity boundaries, indicating that volcanic maxima may be linked to changes in geomagnetic states.
 
-# El-94 SECTION EO: ORBITAL AND ASTRONOMICAL EVIDENCE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# El-94 SECTION EO: ORBITAL AND ASTRONOMICAL EVIDENCE 
 - The Earth's climate and geological formations are influenced by its position relative to the solar system. Notably, the concept of "polar flipping" raises the possibility of major catastrophic events resulting from significant axis changes in Earth's rotation.
 
-# EOA-001 THE LAST GLACIAL PERIOD [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# EOA-001 THE LAST GLACIAL PERIOD 
 - Lieutenant Colonel Drayson's theory posits a drastic variation in Earth's obliquity leading to significant climatic shifts during the last glacial epoch. His hypothesis claims that this shifting resulted in widely varying climates, which he believes obligates new glacial epochs every 31,840 years.
 
-# EOA-002 ASTRONOMICAL OBSERVATIONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# EOA-002 ASTRONOMICAL OBSERVATIONS 
 - Critics argue that Drayson’s approach lacks fundamental understanding of dynamics, relying instead on a geometrical explanation. This reductionist view leads him astray from established astronomical principles that account for the complexity of Earth's axial motion and its influences.
-# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies 
 
 - **Inconsistency with Celestial Mechanics**  
   Drayson's hypothesis was rejected due to its lack of support from established theory and observational evidence. This contradiction to the core principles of celestial mechanics created instability in the understanding of astronomical phenomena.
@@ -737,7 +737,7 @@ The Sargasso Sea might lend credence to the myths of floating islands due to its
 
 - **Flaws in Drayson's Dynamic Model**  
   The dynamics of Drayson’s claims about earth's axis movement lacked verification, as they failed to reconcile observational data with his purported geometrical constructions. This inconsistency raised questions about the reliability of his entire climate theory.
-# ASTRONOMICAL OBSERVATIONS EOA-002 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ASTRONOMICAL OBSERVATIONS EOA-002 
 
 - **Miller's Experiments on Ether-Drift**  
   Dayton Miller's experiments concerning ether-drift were assessed and found inadequate, which implies that previous understandings of ether movement are flawed. Despite advances in technology and methods, the attempts to measure relative velocity yielded inconsistent results, suggesting deeper complexities in the phenomena they sought to investigate.
@@ -751,7 +751,7 @@ The Sargasso Sea might lend credence to the myths of floating islands due to its
 - **The Newcomb Formula for Precession**  
   The Newcomb formula's development occurred without effectively considering vital data on planetary perturbations from Laplace and Stockwell, creating doubts about its comprehensive validity. As its effectiveness is claimed to be limited, its acceptance by the scientific community raises questions about the thoroughness of pre-existing theories.
 
-# IRREGULARITIES IN THE EARTH'S ROTATION - II [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# IRREGULARITIES IN THE EARTH'S ROTATION - II 
 
 - **Historical Polar Shift Theories**  
   Many scientists propose that the earth's rotation poles have shifted significantly over geological times, affecting climate and geological records. Evidently, extreme climate changes in regions now considered warm lend weight to these theories, suggesting that understanding historical polar positions is essential for accurate geological interpretations.
@@ -773,7 +773,7 @@ The Sargasso Sea might lend credence to the myths of floating islands due to its
 
 - **Polar Wander vs. Continental Drift**  
   The principles of polar wander can exist independently of continental drift, yet both phenomena likely occurred hand in hand over Earth's history. The evidence gathered shows that to explain the shifts in continents, it is essential to consider interactions between both movements.
-# ANOMALOUS ROCKS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ANOMALOUS ROCKS 
 
 - **Spherical rocks, unusual crystals, odd concretions, vitrified areas, dry quicksands, and sundry other items.**  
 These elements represent a diverse collection of peculiar geological formations. While many entries may only hold curiosity value, some, like tektites, may indicate larger geological phenomena.
@@ -793,68 +793,68 @@ Described as sonorous or whistling, these sands create musical notes under speci
 - **Rocks that move across the surface.**  
 These anomalous rocks appear to shift positions naturally across various landscapes. This phenomenon is attributed to the influence of natural forces like wind and gravity, as well as potentially more mysterious causes.
 
-# ERB-001 PATRICK COUNTY, VA., AND ITS CURIOUS "FAIRY STONES" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERB-001 PATRICK COUNTY, VA., AND ITS CURIOUS "FAIRY STONES" 
 
 - **Curious little crystals known as fairy stones.**  
 Fairy stones are unique to Patrick County and are recognized for their distinct crosses and forms, sparking curiosity among collectors. Their rarity and captivating designs make each find unique, with some stones believed to exhibit intricate natural art.
 
-# ERB-002 COMMUNICATING WITH LIFE IN SPACE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERB-002 COMMUNICATING WITH LIFE IN SPACE 
 
 - **Dr. Gurlt's Cube discovered in Tertiary epoch coal.**  
 This mysterious cube, discovered in a block of coal, has puzzled scientists due to its unusual shape and composition that resemble artificial constructs. Its unexplained nature has led to debates about whether it is a natural entity or evidence of past extraterrestrial activity.
 
-# ERB-003 DATING THE LIBYAN DESERT SILICA-GLASS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERB-003 DATING THE LIBYAN DESERT SILICA-GLASS 
 
 - **Large deposits of natural silica-glass in the Libyan desert.**  
 These glassy materials puzzle geologists regarding their formation and connection to ancient cataclysms. Their occurrence in specific corridors amidst sand dunes suggests unique geological processes at play.
 
-# ERB-004 A DRY QUICKSAND [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERB-004 A DRY QUICKSAND 
 
 - **Mysterious spots in the Arabian desert that swallow objects.**  
 Described as areas covered with fine, gray dust, these quicksand patches create an illusion of solid ground while actively drawing in objects. Local lore adds a layer of mystique, with tales of buried treasures watched by genii.
 
-# ERB-005 THE ARABIAN HARRAS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERB-005 THE ARABIAN HARRAS 
 
 - **Fields of burned and broken stones called harras.**  
 These extensive fields contain densely packed stones that appear scorched but lack volcanic origins, puzzling researchers. The arrangement of these stones suggests they might be remnants of large meteorite showers, challenging typical geological explanations.
 
-# ERB-006 FITTING BOULDERS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERB-006 FITTING BOULDERS 
 
 - **The phenomenon of fitting boulders observed in various locations.**  
 Observed boulders fit together tightly, suggesting geological processes that manipulate their arrangement over time. The precise nature of these processes, whether due to natural forces or other factors, remains a topic of investigation and debate.
-# ERB-007 SOLVING THE MYSTERY OF MEXICO'S GREAT STONE SPHERES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERB-007 SOLVING THE MYSTERY OF MEXICO'S GREAT STONE SPHERES 
 - **Absence of Artifacts:** While excavating the site with the stone spheres, the researchers found no fragments of pottery or any artifacts indicating human occupation, which is unusual for such locations. The near perfection in the form of the spheres, despite the absence of finer surface finishes compared to other known specimens, raised skepticism about their origin.
 
 - **Natural Formation Hypothesis:** The sheer number and variety of the spheres found at Agua Blanca suggested a natural origin rather than human fabrication. Geologists noted that the crystalline formation process of the spheres began with glass particles and continued through an avalanche effect, contradicting the idea of them being human-made.
 
-# ERB-008 THE CANYON DIABLO METEORITES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERB-008 THE CANYON DIABLO METEORITES 
 - **Composition of Shale Balls:** The large quantities of "shale balls" found in the Canyon Diablo area possess an exterior coating of hydrated oxide of iron, often enclosing unoxidized iron centers. This unique composition lends support to the theory of an origin related to meteorites, although they differ chemically from typical Canyon Diablo iron.
 
 - **Chemical Anomalies:** Chemical analysis indicated that the "shale balls" contained chlorine and higher phosphorus levels compared to ordinary Canyon Diablo iron, suggesting a different formation process. The presence of these elements contributes to the hypothesis of their meteoric origin.
 
-# ERB-009 THE CONCRETIONS OF THE CONNECTICUT VALLEY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERB-009 THE CONCRETIONS OF THE CONNECTICUT VALLEY 
 - **Unusual Shapes of Concretions:** The concretions found in the Champlain clays of the Connecticut Valley display a variety of peculiar shapes, from discs reminiscent of coal-money to odd forms resembling animals. Their occurrence is linked to stratified clay beds, and each type is unique to its respective clay layer.
 
 - **Growth Process of Concretions:** The formation of these concretions seems to result from an obscure process of segregation, where mineral materials accumulate in nodular forms rather than crystalline shapes. Concentric structures within some specimens imply a silent growth process, though typically without discernible nuclei.
 
-# ERG-001 NOTES CONCERNING A PECULIARLY MARKED SEDIMENTARY ROCK [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERG-001 NOTES CONCERNING A PECULIARLY MARKED SEDIMENTARY ROCK 
 - **Rectilinear Markings:** The argillaceous sandstone near Glen Canyon features intriguing surface markings that include straight lines intersecting at right angles. The precision of these marks raises questions about their origin, as they could suggest human-made patterns despite being found in an undisturbed sedimentary deposit.
 
 - **Markings on Varied Surfaces:** These markings appear not only on flat surfaces but also on warped and ripple-marked ones, suggesting a pervasive formation process. The regularity of the patterns suggests they might be the result of natural processes, although they resemble artworks at first glance.
 
-# ERG-002 PERCUSSION FIGURES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERG-002 PERCUSSION FIGURES 
 - **Percussion Figures in Geological Context:** The discovery of percussion figures on boulders indicates a natural origin rather than being human-made. These figures, observed by various geologists, arise on rounded boulders through the effects of torrent or wave actions.
 
 - **Historical Observation of Marks:** Early geologists like Albert Helm and F. Muhlberg recognized these percussion marks as resulting from impacts during boulder transport, differing from human-made knapping. Their findings showcased a connection between natural geological processes and peculiar surface markings.
 
-# ERG-003 MYSTERY IMPRINTS STUMP GEOLOGISTS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERG-003 MYSTERY IMPRINTS STUMP GEOLOGISTS 
 - **Mysterious Imprints Resembling Dinosaur Skin:** Imprints resembling fossilized dinosaur skin were found in ancient rocks along a highway, perplexing geological experts. Despite the resemblance to reptilian skin, the rock’s age suggests the marks predate dinosaurs, prompting confusion and further investigation into their origins.
 
 - **Scale of the Imprints:** The hundreds of individual imprints, measuring about one and a half by three feet, collectively form a pattern that exceeds known geological formations. This scale has led to speculation about their nature, particularly in how they align with ancient geological timelines.
-# El-124 METEORITES AND TEKTITES ERM-003 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# El-124 METEORITES AND TEKTITES ERM-003 
 - **Origin Theories**: Dr. Rufus proposes that tektites and the moon's origin are connected through the "fission" theory, suggesting the Pacific Ocean is a scar from the moon's violent separation from Earth. This theory implies that some of the debris formed the glassy tektites found in the Pacific region.
 
-# ERM-003 TEKTITES ARE TERRESTRIAL [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERM-003 TEKTITES ARE TERRESTRIAL 
 - **Terrestrial Catastrophes**: Faul summarizes that the existence of tektites infers multiple large-scale terrestrial catastrophes, though the exact origins remain debated. Despite extensive scientific study over two centuries, the processes that formed tektites still elude precise understanding.
 
 - **Measurement Methods**: Tektites can be aged using various methods, including measuring accumulated argon from potassium decay and counting fission tracks in the glass. Each method provides different insights; for example, potassium-argon ages reflect diffusion times, while fission-track methods establish cooling times.
@@ -875,26 +875,26 @@ Observed boulders fit together tightly, suggesting geological processes that man
 
 - **Ivory Coast Tektite Location**: Ivory Coast tektites, found in recent gravels on an ancient basement, challenge previously held beliefs about their ages and origins. These findings suggest a complex interplay between ancient geological formations and young sediment layers.
 
-# The Age Paradox [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# The Age Paradox 
 - **Paradox of Location**: Tektites are rarely found at their landing sites, a phenomenon attributed to their geological rarity and the dynamics of stream processes. Thus, the notion that tektites are not found in their original locations aligns with geological transport theories.
 
 - **Distribution Patterns**: Tektites often accumulate in gravels due to their size and the influence of running water, making their occurrence in such locations understandable. This also contributes to their rarity in other geological contexts.
 
 - **Cosmic-ray Evidence**: The absence of cosmic-ray interactions in tektite glass implies that they did not remain long in space before atmospheric entry. This suggests that tektites originated locally, rather than from distant celestial bodies.
 
-# The Flight [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# The Flight 
 - **Entry into Atmosphere**: Tecktites, shown to have fallen from the sky, demonstrated specific entry mechanics through aerodynamic experimentation. Testing revealed that these objects commonly entered the atmosphere at high speeds, particularly at low angles, with similar behaviors observed across different tektite types.
 
 - **Pre-Atmospheric History**: Evidence suggests that tektites were not long in space, which limits their potential origins. Their size and mass indicate that they couldn't travel far without being affected by atmospheric conditions during their flight.
 
-# Possibility of a Lunar Origin [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Possibility of a Lunar Origin 
 - **Lunar Composition**: The compositional and morphological characteristics of tektites suggest a connection to the moon, particularly if they were formed in a vacuum. The presence of bubbles and lower water content compared to terrestrial glass further supports this hypothesis.
 
 - **Transport Concerns**: One major objection to the lunar origin theory is the absence of a mechanism to keep tektite ejecta concentrated during their journey. While the Australasian field could potentially fit this category, the evidence suggests an extensive mixing that complicates the idea of a single lunar source.
 
 - **Impact Theories**: Tektites could also originate from significant impacts on Earth, where a comet could create conditions that allowed for tektite formation in a brief explosion of material. Such a process could feasibly eject tektites into the atmosphere from a designated terrestrial impact site.
 
-# Tektites and Craters [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Tektites and Craters 
 - **Moldavite-Crater Association**: The link between moldavites and the Nordlinger Ries crater has gained strength since both were dated at 14.8 million years. Distinct chemical compositions, however, may indicate separate origins of the glass and the moldavites despite their temporal correlation.
 
 - **Ivory Coast Connection to Crater**: Age measurements suggest a synchronous formation between Ivory Coast tektites and the nearby Lake Bosumtwi impact crater. As ages become clearer through repeated testing, this link solidifies, even amidst challenges of lower age determination reliability.
@@ -903,28 +903,28 @@ Observed boulders fit together tightly, suggesting geological processes that man
 
 - **Australasian Tektite Strain**: The Australasian tektite fields raise questions about their connection to crater events, possibly suggesting multiple origin points. The hypothesis includes potential shallow water impacts, though none of the known craters seems to match observed tektite characteristics.
 
-# The Place [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# The Place 
 - **Linking Age with Location**: While radiometric dating links tektites to their associated crater events temporally, geographical associations remain uncertain. Strontium isochron methods may clarify the locations of tektite formation despite uncertainties in measurement and environmental factors affecting their historical mapping.
-# Origin of Tektites [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Origin of Tektites 
 - The American, Australasian, and Czechoslovakian tektites exhibit a curious agreement with a strontium isochron age range of 300 to 400 million years. This suggests a possible common source, but the interpretation is complex and remains explained for now.
 
 - The Ivory Coast tektites and rocks from Lake Bosumtwi suggest a clear relationship with an age of around 2000 million years. The microtektites found in these rocks challenge the idea of extraterrestrial origins, leaning more towards terrestrial formation.
 
-# ERM-004 Tektites and Geomagnetic Reversals [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERM-004 Tektites and Geomagnetic Reversals 
 - Microtektites found in deep-sea sediments are dated to the time of the last geomagnetic reversal, indicating a possible cosmic encounter. The discovery extends over a massive area, suggesting a significant cosmic event that would have had ecological impacts.
 
 - The three forms of Far Eastern tektites indicate different formation processes. The varying shapes and compositions of these tektites raise questions about their origins and suggest distinct atmospheric entry experiences.
 
-# ERM-005 Meteorites and Tektites [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERM-005 Meteorites and Tektites 
 - The origin of tektites remains obscure, with ongoing attempts to define distinct mineralogical types. There is a recognized need for comprehensive data to understand the chemical relationships between microtektites and ordinary tektites properly.
 
 - The lack of symmetry in compositions between microtektites has prompted debates regarding their classification. Some researchers question the distinct identities of these microtektites, suggesting further investigation is necessary.
 
-# ERR-001 Ringing Rocks [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERR-001 Ringing Rocks 
 - The existence of "fields" of ringing rocks intertwined with folklore and myth raises intriguing questions about their origins. The association of these rings with tales of witchcraft and ancient civilizations reflects a historical mystery surrounding these geological formations.
 
 - Scientific investigations into these ringing rocks date back to early 20th century efforts. The ongoing inquiry seeks to explain the unexpected musical properties of specific rock types compared to their surroundings.
-# El-135 ERR-001 RINGING ROCKS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# El-135 ERR-001 RINGING ROCKS 
 
 - **Anomaly of Energetic Rocks**: The rocks were very energetic, exhibiting a spalling fracture type. They resonated at a frequency different from their natural frequency, indicating a unique behavior.
 
@@ -948,7 +948,7 @@ Observed boulders fit together tightly, suggesting geological processes that man
 
 - **Role of Moisture Retention**: Boulders outside the ringing fields are often shaded, leading to rapid weathering and reduced stress equilibrium time. This environmental contrast explains why relocating ringing rocks to shaded areas leads to their cessation of ringing.
 
-# El-138 RINGING ROCKS ERR-002 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# El-138 RINGING ROCKS ERR-002 
 
 - **Circular Features in Rock Fields**: Aerial photography revealed that the rock field at Upper Black Eddy appears circular, suggesting a possible ancient construction site. This raises questions about the historical use of the area and its relation to the ringing rocks.
 
@@ -959,7 +959,7 @@ Observed boulders fit together tightly, suggesting geological processes that man
 - **Variability in Rock Ringing**: The percentage of rocks that ring in the fields fluctuates, indicating that other factors might influence the acoustic properties of the rocks. This variability raises questions about the reliability of generalizing findings across different locations.
 
 - **Locked Ringers Despite Damage**: The ability of smaller sections and pieces of the rocks to continue ringing after being smashed was noted. This suggests that the ringing property might be inherent to the material itself, rather than dependent on the size or context.
-# El-140 RINGING ROCKS ERR-002 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# El-140 RINGING ROCKS ERR-002 
 - **Differing Melting Points**: The melting point of ringers differed markedly from that of non-ringers from both inside and outside the circle. This difference highlights potential unique properties inherent to the ringers as opposed to the non-ringers.
 
 - **Presence of Amorphous Metals**: Amorphous globules of different metals were found in the ringers and non-ringers, with the non-ringers showing signs of copper while the ringers exhibited a white metal with high lustre. The only analysis of the latter identified it as molybdenum, adding another layer of intrigue to their composition.
@@ -974,27 +974,27 @@ Observed boulders fit together tightly, suggesting geological processes that man
 
 - **Unconventional Tree Growth**: Trees that fell onto or attempted to grow over the bare rock demonstrated horizontal growth patterns, defying typical plant growth laws. They developed branches only on the upper side, creating unusual growth forms that challenge established botanical knowledge.
 
-# El-141 ERR-003 RINGING ROCKS ERR-003 MUSICAL STONES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# El-141 ERR-003 RINGING ROCKS ERR-003 MUSICAL STONES 
 - **Musical Properties of Local Stones**: Certain thin, flat weather-beaten stones in the Kendal area produce a distinct musical tone when struck, distinguishing them from ordinary stones. This phenomenon raises questions about the stones' composition and the conditions necessary for their musical qualities.
 
-# ERR-004 SOUNDING STONES AT CH'UFU, SHANTUNG [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERR-004 SOUNDING STONES AT CH'UFU, SHANTUNG 
 - **Resonant Stones in Ch'ufu**: In Ch'ufu, stones known as "sounding stones" give a musical quality when struck, notably a stone cover of an incense dish which rings like bronze. The acoustic properties of surrounding stone pillars and a large tablet further highlight the unique sound-producing attributes of these local materials.
 
-# ERS-001 MUSICAL SANDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERS-001 MUSICAL SANDS 
 - **Global Occurrence of Musical Sands**: Musical sands, also referred to as whistling sands or sonorous sands, produce curious acoustic phenomena. Their occurrence worldwide suggests a commonality in their formation, despite no intricate mysteries surrounding their sounds.
 
-# ERS-001 RESEARCHES ON SONOROUS SAND IN THE PENINSULA OF SINAI [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERS-001 RESEARCHES ON SONOROUS SAND IN THE PENINSULA OF SINAI 
 - **Acoustic Phenomena in Sands**: In Jebel Nagous, a particular slope emits distinct musical sounds when the sand slides down, a phenomenon observed rarely by scientific travelers. The sand here, composed primarily of quartz and sandstone, possesses a unique vibration when disturbed.
 
 - **Bedouin Explanation for Sounds**: Local Bedouins attribute the sounds produced by the sand to a wooden gong within the mountain, believed to be audible only during prayer hours. This folklore adds an anthropological layer to the scientific observations made in the region.
 
 - **Linking Sand Properties to Sound Production**: Examination reveals that certain sandbanks produce no musical sounds due to the presence of silt, which inhibits vibrations. The ideal composition for sound emission is characterized by clean, rounded grains, free from impurities.
 
-# ERS-002 THE SINGING BEACH OF MANCHESTER, MASS. [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERS-002 THE SINGING BEACH OF MANCHESTER, MASS. 
 - **Acoustic Nature of Manchester Beach**: The sandy beach at Manchester produces a subdued crushing sound when walked upon, distinct from ordinary sandy shores. This phenomenon is localized to a specific area of the beach, disappearing below a certain depth likely due to moisture.
 
 - **Comparative Analyses with Other Locations**: Similar acoustic phenomena were observed on the island of Eigg, showcasing a broader pattern of singing sands across geographical locations. Cairns such as these provide insight into the environmental conditions necessary for their musical properties to manifest.
-# ERS-003 MUSICAL SAND, ITS WIDE DISTRIBUTION AND PROPERTIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERS-003 MUSICAL SAND, ITS WIDE DISTRIBUTION AND PROPERTIES 
 - **Sonorous Sand Distribution**: Sonorous sand is found to be widely distributed, contrary to the belief that it is rare. Investigations have revealed reports of sonorous sand from various locations in the United States and abroad, leading to a compilation of localities where it occurs.
 
 - **Acoustic Properties Analysis**: Experiments were conducted to explore the acoustic properties of the sonorous sand at several locations, including Manchester-by-the-Sea and Far Rockaway. The sounds produced by striking the sand in a contained environment could be heard significantly farther than expected, suggesting unique resonant characteristics.
@@ -1003,19 +1003,19 @@ Observed boulders fit together tightly, suggesting geological processes that man
 
 - **Environmental Effects**: The acoustical properties of sand can change based on environmental conditions, including moisture level and atmospheric humidity. Wet sand loses its sonorous qualities and requires specific conditions to regain them, indicating a delicate balance in maintaining acoustic capabilities.
 
-# ERS-004 A NEW MOUNTAIN OF THE BELL [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERS-004 A NEW MOUNTAIN OF THE BELL 
 - **Discovery of Jebel Nagous**: The mountain known as Jebel Nagous is characterized by its ability to produce resonant sounds when the sand slides down its slopes. This phenomenon, believed to be unique, was confirmed through observations and measurements taken during the author's travels in the Sinai desert.
 
 - **Identification of New Nagous**: A second site exhibiting similar acoustical properties was discovered, indicating that such phenomena may not be as rare as previously thought. Observations revealed that the sound produced at this new location, while still present, was not as pronounced as that of the original Jebel Nagous.
 
-# ERS-005 MUSICAL SAND IN CHINA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERS-005 MUSICAL SAND IN CHINA 
 - **Ancient Sandhill Phenomenon**: Historical records from the Tang dynasty mention a significant sandhill in Khotan that produced strange noises under specific conditions. This natural phenomenon garnered enough attention to earn the sandhill the title of the "Thunder Sound Temple."
 
 - **Sound Production Mechanism**: According to descriptions, the sounds of the sandhill could be heard from significant distances, especially when disturbed by foot traffic. Despite its capability of producing loud rumbling noises, the structural integrity of the hill remained unaffected over time.
 
-# ERS-006 MUSICAL SANDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ERS-006 MUSICAL SANDS 
 - **Traveling Mountain of Sand**: In Churchill County, Nevada, there exists a unique moving mountain of sand that resembles a glacier in its continuous motion. This phenomenon is known to create a musical sound as the sands interact, similar to natural sound occurrences linked to other historical myths, like the Sphinx greeting the sun.
-# ANOMALIES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ANOMALIES 
 
 - **Anomaly of the Symmetrical Ridge**  
   The ridge is formed symmetrically in a way that resembles solidified waves but lacks a peak, with a hole created by contrary winds at the top. This hole is dangerous, as those who attempt to climb into it can find themselves rapidly sinking and suffocating in the sands, and several individuals from the local tribe have reportedly vanished without a trace.
@@ -1037,28 +1037,28 @@ Observed boulders fit together tightly, suggesting geological processes that man
 
 - **Coal and Petroleum Formation Anomalies**  
   Many coal deposits worldwide exhibit peculiar features that raise questions about their formation, defying traditional geological theories. The discovery of marine fossils on top of coal seams suggests complex geological processes may have occurred that are inconsistent with the longstanding belief in a gradual evolution of these resources over vast timeframes.
-# COAL AND PETROLEUM [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# COAL AND PETROLEUM 
 - **Anomaly of Tree Positioning**  
 Fossilized trees have been found in a position of growth within coal measures, suggesting rapid sedimentation. The discovery of these upright trees in Lancashire challenges traditional understandings of tree fossilization and sedimentation processes.
 
 - **Surprising Accumulation of Vegetable Matter**  
 The thickness of coal requires a remarkable accumulation of vegetable matter, which is puzzling given the conditions necessary for such formation. This raises questions about the long-term transition of environments from marsh to coal deposits.
 
-# A COMET CAUSED THE DRIFT [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# A COMET CAUSED THE DRIFT 
 - **Instantaneous Planetary Changes**  
 Donnelly's hypothesis suggests that a comet caused an instantaneous increase in Earth’s temperatures, leading to vaporization of seas and massive storms. This theory aims to explain geological changes that ice and water processes struggle to account for.
 
 - **Lack of Fossils in Drift Material**  
 The drift deposits brought by the comet were claimed to lack earthly fossils, suggesting a distinct origin that doesn't align with known geological processes. These materials are described as having unique characteristics not found elsewhere on the planet.
 
-# THE DRIFT [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# THE DRIFT 
 - **Geological Features Across Varied Landscapes**  
 Donnelly questions the glacial theory by observing polished and scratched rock surfaces at unexpected elevations. This occurrence implies that traditional glacier formation cannot adequately explain the geological features observed in different regions.
 
 - **Absence of Drift in Cold Regions**  
 Notably, there is no evidence of Drift deposits in Siberia, a cold region where glacial action would be expected. The lack of such deposits contradicts the idea that glaciation is responsible for the Drift found in other similarly cold areas, suggesting a flawed understanding of glacial impact.
 
-# SOME DEFECTS OF GLACIAL THEORY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# SOME DEFECTS OF GLACIAL THEORY 
 - **Glaciers Moving Boulders Uphill**  
 There is skepticism about the idea that glaciers can move boulders uphill over long distances. This challenges the notion of glacier mechanics, emphasizing the need for deeper scrutiny of how glacial movements are understood in geological contexts.
 
@@ -1070,7 +1070,7 @@ Recent discoveries of fossil craters challenge the idea that glaciers were respo
 
 - **Lack of Distinct Terminal Moraines**  
 The absence of clearly defined terminal moraines in eastern and central North America contradicts established glacial theory. The even distribution of material raises questions about the mechanisms believed to have shaped the landscape during the Ice Age.
-# Anomalies in Drumlin Formation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in Drumlin Formation 
 
 - **Cigar-shaped Lake Basin**: The existence of a cigar-shaped lake basin near Savannah, New York, raises questions about drumlin formation mechanisms. It suggests that the process creating drumlins may not be compatible with the simultaneous excavation of such a lake basin. 
 
@@ -1078,13 +1078,13 @@ The absence of clearly defined terminal moraines in eastern and central North Am
 
 - **Great Lakes Basins**: The question arises regarding the formation of the thousands of drumlins if the Great Lakes basins were not scoured out by glaciers. This presents a challenge to the existing understanding of glacial action in relation to drumlin creation.
 
-# Catastrophism and Evolution [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Catastrophism and Evolution 
 
 - **Doctrine of Catastrophism**: Some scientists in 1877 still adhered to the doctrine of catastrophism, which links sudden geological events to observable changes in the earth’s structure. This belief stems from humanity’s experiential history of dramatic, destructive natural events.
 
 - **Survival of Catastrophism**: The persistence of catastrophism is attributed to profound memories of geological upheavals imprinted in human consciousness. The doctrine’s survival is further reinforced by early observations of geological formations, establishing a narrative of past upheavals.
 
-# The Drift [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# The Drift 
 
 - **Volcanic and Geological Evidence**: Modern volcanic activity is suggested to be a weak remnant of once vast geological upheavals that had catastrophic effects on the planet's structure and life. High-energy events in the past are posited to have caused significant geological changes that present-day local eruptions cannot replicate.
 
@@ -1097,7 +1097,7 @@ The absence of clearly defined terminal moraines in eastern and central North Am
 - **Intellectual Near-sightedness**: A criticism is directed toward individuals who ignore past cataclysms in favor of present phenomena, arguing that this limits the scope of geological understanding and could lead to stagnation in the field. Such a narrow viewpoint neglects the dynamic evolution of earth's history influenced by catastrophic events. 
 
 - **Catastrophe and Life Evolution**: A comparison of geological changes with species evolution suggests that catastrophic events greatly contributed to changes in life forms over time. This highlights the idea that major climatic alterations often coincide with significant evolutionary development, challenging the notion that gradual change was the sole mechanism of evolution.
-# THE DRIFT [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# THE DRIFT 
 
 - **Anomaly 1: Irregular belts in southeastern Johnson county**  
   This anomaly consists of an unusual aggregation in the form of irregular belts, particularly around Nineveh and southern Shelby county. The characteristics of these belts suggest a distinct pattern of deposition unconnected with the surrounding tracts.
@@ -1114,7 +1114,7 @@ The absence of clearly defined terminal moraines in eastern and central North Am
 - **Anomaly 5: Angularity of boulders compared to typical till sheets**  
   The boulders in the belts are predominantly more angular than those commonly found in typical till sheets. The angularity indicates they have not been significantly reworked by glacial activities, contrasting with the smooth, rounded forms typically associated with glacial action.
 
-# PLEISTOCENE GLACIATION IN THE BLUE RIDGE PROVINCE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# PLEISTOCENE GLACIATION IN THE BLUE RIDGE PROVINCE 
 
 - **Anomaly 6: Southern limit of Laurentide Ice sheet**  
   There is a notable absence of reported alpine glaciation south of the Catskill Mountains, suggesting that glacial activity may have been limited in this region. The findings challenge previous assumptions about the southern reach of the Laurentide Ice sheet.
@@ -1130,7 +1130,7 @@ The absence of clearly defined terminal moraines in eastern and central North Am
 
 - **Anomaly 10: Evidence of periglacial activity in North Carolina**  
   The occurrence of frost-river bedrock pinnacles indicates immature erosion processes, suggesting active periglacial conditions. This contrasts with prior expectations regarding the extent of such features in the southern Appalachian region, indicating that similar periglacial phenomena may be more widespread than previously documented.
-# Anomalies in Geological Features [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in Geological Features 
 
 - **Curvature of Grooves**  
   The grooves in the rock are typically parallel, but their trend changes from S80°E to S40°E in the northern part of the valley. This indicates the influence of two separate lobes of ice that once merged, preserving the rock formation.
@@ -1170,26 +1170,26 @@ The absence of clearly defined terminal moraines in eastern and central North Am
 
 - **Erosion Thrust Analysis**  
   As erosion affects the landscape, distinguishing between different types of thrusts becomes necessary. The Heart Mountain thrust showcases varying thrust behaviors, illustrating the complex interplay of geological movements over time.
-# Structural Interpretation [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Structural Interpretation 
 - The "early basic breccia" is in contact with the Grove Creek formation in a manner that cannot be logically attributed to an erosion surface or a plane of intrusion. If this was a fault contact, it would be expected to show some fragments of volcanic rock, which have not been found.
 
 - There is no clear mechanism for replacing the sedimentary strata above the Grove Creek formation with the "early basic breccia." The lack of fault contacts between the two units undercuts the assumption that they were faulted together, suggesting a more complex geological scenario.
 
-# Anomalies in Fault Movement [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in Fault Movement 
 - The presence of Madison limestone on top of Grove Creek suggests a fault contact where younger beds are thrust over older strata, contrary to the usual sequence. Explaining this unusual relationship becomes complex when considering the tight lateral contacts of fault blocks.
 
 - The difficulty in visualizing how blocks of Madison limestone could be thrust into a position over Grove Creek raises questions about fault dynamics. The proposed theory suggests that younger rocks may slide down into gaps between fault blocks, complicating the understanding of stratigraphic relationships.
 
-# Highland Overthrusts  [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Highland Overthrusts  
 - Older strata resting atop younger strata has sparked controversy, leading to questioning of the fossil-dating framework. The explanation of these "reversed strata" as a result of overthrusts challenges conventional geological assessments.
 
 - The journey from a questioned framework in 1819 to a firm rejection of the Murchisonian theory in 1888 encapsulates evolving geological understanding. This journey, bolstered by extensive mapping and observations, reflects how significant geological opinions can shift over time.
 
-# Patterned Ground [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Patterned Ground 
 - The origin of patterned ground remains uncertain, with a variety of hypotheses posited, yet no singular explanation has been universally accepted. The idea that patterned ground forms could be a combination of processes underlying these structures presents compelling questions for further research.
 
 - The classification of patterned ground reveals a lack of standard terminology across different geological studies. With numerous synonymous terms and overlapping definitions, the necessity for a revised, consistent terminology is highlighted for clearer communication in geological literature.
-# PATTERNED GROUND [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# PATTERNED GROUND 
 
 - **Ambiguous Terminology**  
   Elton's suggestion of using "mud-polygons" instead of "fissure-polygons" is problematic due to its ambiguous nature; many forms may consist of sand, gravel, or a nonsorted mixture rather than just mud. The overlapping terms for patterned ground, including ice-wedge polygons and tundra polygons, further complicate classification.
@@ -1229,7 +1229,7 @@ The absence of clearly defined terminal moraines in eastern and central North Am
 
 - **Misleading Ice-wedge Classification**  
   Challenges arise when attempting to classify forms that look similar to ice-wedge polygons but lack clear defining features. This complexity necessitates caution to avoid conflating different types under a singular category incorrectly.
-# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies 
 
 - **Erroneous Conclusion on Nonsorted Polygons**: The text states that the conclusion about nonsorted polygons being restricted to a specific mantle type is incorrect. It highlights that nonsorted polygons can contain a mixture of fine materials and stones, challenging previous misconceptions.
 
@@ -1258,7 +1258,7 @@ The absence of clearly defined terminal moraines in eastern and central North Am
 - **Hypotheses on Patterned Ground Origin**: The text indicates that despite extensive documentation, the origin of patterned ground remains unclear, suggesting a polygenetic origin. This complexity hints at multiple processes contributing to the formation of various patterns.
 
 - **Importance of Research on Patterned Ground**: The conclusion emphasizes the need for further and detailed studies on the genesis and significance of patterned ground. The lack of definitive evidence calls for collaborative research across multiple scientific disciplines.
-# ESP-003 DESCRIPTION OF A SINGULAR CASE OF THE DISPERSION OF BLOCKS OF STONE CONNECTED WITH DRIFT, IN BERKSHIRE COUNTY, MASSACHUSETTS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ESP-003 DESCRIPTION OF A SINGULAR CASE OF THE DISPERSION OF BLOCKS OF STONE CONNECTED WITH DRIFT, IN BERKSHIRE COUNTY, MASSACHUSETTS 
 - Numerous angular blocks of stone, different from the local limestone, are found along a well-marked train in Richmond. This train, about thirty or forty rods wide, exhibits distinct limits, surprising observers with its clarity.
 
 - The main train of blocks pursues a very direct course over varied terrain, extending about fifteen miles from Canaan to Beartown Mountain. However, beyond the ridge in Canaan, no additional blocks are found, indicating a specific origin for these angular stones.
@@ -1275,7 +1275,7 @@ The absence of clearly defined terminal moraines in eastern and central North Am
 
 - The trains display an apparent consistency along a narrow path, contradicting theories that rely solely on water currents for displacement. The orientation and arrangement of the blocks challenge conventional interpretations.
 
-# ESP-004 BOULDER-TRAINS IN BERKSHIRE COUNTY, MASSACHUSETTS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ESP-004 BOULDER-TRAINS IN BERKSHIRE COUNTY, MASSACHUSETTS 
 - In Richmond, seven parallel trains of angular boulders have been identified, some extending over considerable distances. Previous researchers, including Dr. Reid and Sir Charles Lyell, have noted these formations, highlighting their significance in geological studies.
 
 - The boulders originate from two nearly parallel ranges of hills with distinct compositions, including chloritic slate and greenish slate interspersed with limestone. Most boulders can be traced back to their source, underscoring the intricate relationship between local geology and boulder formation.
@@ -1285,7 +1285,7 @@ The absence of clearly defined terminal moraines in eastern and central North Am
 - President Hitchcock and Sir Charles Lyell proposed theories of submergence and transport by coast-ice to explain the boulder-trains. However, the absence of sufficient geological evidence for significant depression during the Glacial Period raises critical questions about these hypotheses.
 
 - As the encompassing ice-sheet receded, formerly submerged elevations from which boulders were derived became exposed. The explanation of their current distribution emphasizes the complex interplay between glacial activity and topography.
-# ESP-005 "ROCK CITIES" [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ESP-005 "ROCK CITIES" 
 - **Anomaly 1: Quartz Conglomerate Formations**  
   Research indicates the presence of five quartz conglomerate formations in a stretch of New York's Southern Tier. These formations stretch from "Little Rock City" in Allegany County to several other notable rock formations in the region.
 
@@ -1310,14 +1310,14 @@ An operating oil derrick was discovered near the highest rock formation, suggest
 - **Anomaly 8: Treacherous Trail Conditions**  
 Access to the rock formations was challenging due to icy conditions along the trail. This posed safety concerns for visitors navigating the steep descent marked by "Indian steps."
 
-# ET: TOPOGRAPHIC EVIDENCE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ET: TOPOGRAPHIC EVIDENCE 
 - **Anomaly 9: Mima Mounds and Other Features**  
 The Mima Mounds, Carolina Bays, and submarine canyons represent topographic features that defy conventional geological explanations. Their existence suggests significant historical geological changes that remain poorly understood.
 
 - **Anomaly 10: Unresolved Theories**  
 The geological community has proposed various theories to explain the topographic evidence, but many remain contentious and unproven. This suggests a need for further research to clarify the causes of such formations.
 
-# ETB-001 CAROLINA BAYS AND THEIR ORIGIN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETB-001 CAROLINA BAYS AND THEIR ORIGIN 
 - **Anomaly 11: Distribution of Carolina Bays**  
 Carolina Bays are found predominantly along the Atlantic Coastal Plain, with variations in size and distribution that are not related to existing geological formations. Their substantial presence raises questions about the geological processes that created them.
 
@@ -1374,7 +1374,7 @@ Curved rims at certain bays suggest interactions with water or sediment movement
 
 - **Anomaly 29: Elevated Rim Patterns**  
 Many bays feature well-defined elevated rims, suggesting that topography significantly influences their shapes. These characteristics hint at the historical processes of shaping these geological features.
-# Anomalies Related to Carolina Bays [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies Related to Carolina Bays 
 
 - **Stratification and Formation**  
   The sand in the rim shows little, if any, stratification. This lack of stratification suggests that the formations beneath the rim are undisturbed, despite rumors of a "pipe" of disturbed ground beneath the bays remaining unverified.
@@ -1408,7 +1408,7 @@ Many bays feature well-defined elevated rims, suggesting that topography signifi
 
 - **Estimates of Bay Numbers**  
   A rough estimate suggests there are about 140,000 moderate to large bays, with the total number, including smaller ones, potentially around half a million. However, accurately assessing the smaller bays remains challenging.
-# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies 
 
 - **Concentration of Oriented Lakes**: The oriented lakes are primarily located north of latitude 70°, specifically between the Kuk and Itkullik rivers. In contrast, the number of such lakes diminishes significantly toward the southern boundary, particularly in areas with higher relief or coarse deposits.
 
@@ -1429,36 +1429,36 @@ Many bays feature well-defined elevated rims, suggesting that topography signifi
 - **Evidence of Former Lake Basins**: The presence of wave-cut shores and the arrangement of vegetation indicate that many current lakes were once much larger. The visible remnants of these former basins can be observed distinctly from the air.
 
 - **Modifications by Environmental Factors**: Oriented lakes are continuously altered by wind patterns, vegetation, and permafrost, leading to diverse erosional and depositional processes. The interaction of these factors contributes to the destruction of certain lake orientations while allowing for new formations.
-# Anomalies in the Formation of Lakes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in the Formation of Lakes 
 
 - **Origin Hypothesis**: Johnson's hypothesis suggests that artesian springs forming lakes may have occurred during significant thawing in Alaska's warmer interglacial periods. However, the possibility of sustained thawing is challenged by the presence of frozen plant and animal remains from the Pleistocene, indicating no long thaw durations.
 
-# Craters and Astroblemes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Craters and Astroblemes 
 
 - **Cratering on Mars and Mercury**: The discovery of craters on Mars and Mercury has led geologists to investigate similar structures on Earth, prompting excitement and controversy over these impact structures. The existence of craters such as Meteor Crater in Arizona is widely accepted, while doubt surrounds others, like Hudson's Bay.
 
 - **Siberian Crater Peculiarities**: The Siberian crater presents ambiguous features that suggest it might not have been formed by meteorite impact but potentially through alternative terrestrial or extraterrestrial mechanisms. This lack of consensus underlines the complexity and novelty of issues associated with meteorite craters.
 
-# Meteorite Crater Classifications [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Meteorite Crater Classifications 
 
 - **Classification of Meteorite Craters**: Meteorite craters are classified into various categories based on their features and the presence of meteoritic material. These classifications reveal that not all crater-like depressions are due to meteoritic impacts, necessitating further evidence for validation.
 
-# Arizona Crater Observations [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Arizona Crater Observations 
 
 - **Meteor Crater Overview**: Meteor Crater in Arizona has been a subject of geological intrigue since its discovery, characterized by significant evidence of meteoric iron fragments. Attempts to mine the crater for potential valuable minerals have yielded high costs but limited tangible results.
 
 - **Theories on Formation**: Various theories have emerged about the formation of the Meteor Crater, with a prevailing view attributing its creation to a giant meteorite impact. Alternate theories involving volcanic activity or sinkhole formation remain contentious due to conflicting evidence regarding the presence of meteoric iron and silica glass.
 
-# Henbury Craters' Findings [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Henbury Craters' Findings 
 
 - **Discovery of Henbury Craters**: The Henbury craters in Central Australia, mapped by A.R. Alderman, include multiple depressions accompanied by significant amounts of meteoric iron. The craters form an intriguing phenomenon in the landscape and suggest a violent origin linked to falling meteorites.
 
 - **Significance of Iron and Glass**: The association of iron, iron shale, and silica glass around the Henbury craters reinforces their proposed impact origins. However, the varying composition of silica glass found raises questions about its genesis compared to other locations like Wabar.
 
-# Wabar Craters Description [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Wabar Craters Description 
 
 - **Characteristics of Wabar Craters**: The Wabar Craters discovered by Mr. Philby are marked by distinct formations and material indicative of past meteor impacts, with evidence suggesting multiple meteorite impacts in the region. Further examination of these features can help elucidate the events that led to their formation.
-# Craters and Astroblemes [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Craters and Astroblemes 
 
 - **Larger Crater**  
   The larger crater is approximately circular in outline with a diameter of 100 meters and a depth of 40 feet. It shows a long gap in the rim on the northern side, indicating potential structural weakness.
@@ -1507,7 +1507,7 @@ Many bays feature well-defined elevated rims, suggesting that topography signifi
 
 - **Variability in Crater Dimensions**  
   A summary of meteorite craters indicates a wide variation in the ratio of width to depth, influenced by environmental factors and geological age. This variability suggests that crater morphology can provide insights into their formation processes.
-# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies 
 
 - **Formation of Iron Shale and Shale Balls**  
   Buried fragments readily oxidize and break up, giving rise to the formation of iron shale and shale balls. These formations may be more persistent than the iron itself, suggesting a durability that contrasts with other materials.
@@ -1559,7 +1559,7 @@ Many bays feature well-defined elevated rims, suggesting that topography signifi
 
 - **Rapid Tree Growth Post-Meteorite Impact**  
   Following the Tungus event, the forest in the impacted area regenerated at an accelerated rate compared to surrounding regions. This phenomenon implies complex ecological explanations for recovery dynamics in post-catastrophic landscapes.
-# El-238 CRATERS AND ASTROBLEMES ETC-006 [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# El-238 CRATERS AND ASTROBLEMES ETC-006 
 
 - The Ghana crater does not now have a central island, but its lake is shallow, and silt may have filled in the original basin. This anomaly suggests that changes in sedimentation or water levels could have obscured the crater's original features.
 
@@ -1569,7 +1569,7 @@ Many bays feature well-defined elevated rims, suggesting that topography signifi
 
 - Dr. Jones reported a small magnetic anomaly detected in an aerial traverse of the Bosomtwe region. This magnetic anomaly could suggest geological activity or differences in material composition compared to surrounding areas.
 
-# ETC-006 MOON, EARTH IMPACT SIMILARITIES STUDIED [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETC-006 MOON, EARTH IMPACT SIMILARITIES STUDIED 
 
 - The appearance of a ray-like structure around Meteor Crater was unexpected. Rays are typically features seen on the Moon, leading to questions about erosion processes on Earth.
 
@@ -1579,48 +1579,48 @@ Many bays feature well-defined elevated rims, suggesting that topography signifi
 
 - The Araguainha Dome in Brazil exhibits a double ring structure, similar to lunar craters. This anomaly may provide vital insights into impact dynamics and geological formations on Earth.
 
-# ETE-001 EMERGENCE AND SUBMERGENCE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETE-001 EMERGENCE AND SUBMERGENCE 
 
 - The evidence of sea level rising and falling within the time of man is notable but not fully understood. Variations in the sea's level suggest dynamic geological processes affecting shorelines.
 
 - The observation of ancient lake shorelines shows different elevation levels, pointing to geological instability. These terraces imply possible rapid geological events that shaped the current landscape.
 
-# ETE-002 RISING OF THE LAND AROUND HUDSON BAY [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETE-002 RISING OF THE LAND AROUND HUDSON BAY 
 
 - Old shorelines around Hudson Bay slope upward, presenting a significant geological anomaly. Variations in elevation across such distances challenge the traditional understanding of shore formation.
 
 - The presence of driftwood at high elevations indicates ongoing land elevation. The consistent levels of driftwood imply gradual geological processes rather than sudden extreme events.
 
-# ETE-003 CHIPS OFF THE PLATES [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETE-003 CHIPS OFF THE PLATES 
 
 - The findings from the Glomar Challenger reveal evidence of foundering continental material. This anomaly suggests that geological activity may have extruded previously stable continental masses.
-# ETE-004 EVIDENCE OF FOUNDERED CONTINENTAL CRUST BENEATH THE CENTRAL TYRRHENIAN SEA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETE-004 EVIDENCE OF FOUNDERED CONTINENTAL CRUST BENEATH THE CENTRAL TYRRHENIAN SEA 
 - The dredging of schists, phyllites, and marbles from the faulted margin of a tilted crystal block indicates that pieces of continental crust may have dropped far below the current sea level. The Neogene subsidence is ongoing, suggesting that the accoustical basement beneath the central Tyrrhenian Sea includes rocks similar to those found in adjacent mountain chains.
 
-# ETE-005 A NEW PACIFIC CONTINENT FORMING? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETE-005 A NEW PACIFIC CONTINENT FORMING? 
 - Edwin Fairfax Naulty suggests that land waves on the bottom of the Pacific Ocean may be creating new land in Hawaii due to geological forces from the surrounding regions. The gradual process is accompanied by unusual activity, leading to shoal formations in areas that were previously deep ocean.
 
-# ETE-006 DROWNED ANCIENT ISLANDS OF THE PACIFIC BASIN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETE-006 DROWNED ANCIENT ISLANDS OF THE PACIFIC BASIN 
 - One hundred sixty flat-topped peaks, or "guyots," have been discovered in the Pacific Basin, rising from the ocean floor with summits generally three to six thousand feet below sea level. Hypothetically, these surfaces may represent ancient marine planation surfaces that have been submerged due to sediment accumulation.
 
-# ETE-007 POLAR RISE AND EQUATORIAL FALL OF SEA LEVEL [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETE-007 POLAR RISE AND EQUATORIAL FALL OF SEA LEVEL 
 - The geological data suggests a significant drop in sea level in the low latitudes and a corresponding rise in the high latitudes since the Cretaceous period. The findings indicate that this gradual change in land and sea areas could potentially have triggered the ice age.
 
-# ETE-008 MOUNTAINS UNDER THE MEDITERRANEAN [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETE-008 MOUNTAINS UNDER THE MEDITERRANEAN 
 - Recent sampling by the Deep Sea Drilling Project has revealed that young sediments are overlain by older deposits in the Mediterranean Basin. The geological history inferred from these cores shows similarities to sedimentary formations found in the Alpine chains of Europe and North Africa, indicating active displacement of geological formations.
-# El-250 MOUNDS AND PIMPLED PLAINS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# El-250 MOUNDS AND PIMPLED PLAINS 
 
 - **Hellenic Trough Anomaly**: In the Hellenic Trough, 120 million year old Lower Cretaceous limestones were found immediately above younger, soft Plio­cene oozes that are only a few million years old. This raises questions about the geological processes that can allow such disparate ages to coexist in such proximity.
 
 - **Nile River Anomaly**: Just north-west of the mouth of the Nile, a significant thickness of abyssal sediments, approximately 1-2 million years old, originating from the Nile River, was found uplifted on the submarine Mediterranean Ridge. This scenario suggests dramatic geological activity and upheaval that challenges existing models of sediment deposition.
 
-# ETM-001 PIMPLED PLAINS OF EASTERN OKLAHOMA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETM-001 PIMPLED PLAINS OF EASTERN OKLAHOMA 
 
 - **Origin of Mima Mounds**: The Mima Mounds, found in North America, display various theories of origin, from Ice Age influences to geological forces yet to be fully understood. These theories highlight the complexity and challenging aspects of determining the genesis of such natural formations.
 
 - **Pocket Gopher Theory Rejection**: Knechtel posits that mound formations are more closely related to the patterned ground of Arctic regions, rejecting the popular pocket gopher theory for their creation. This suggests that the origins of these mounds may involve processes tied to permafrost conditions rather than biological factors.
 
-# ETM-002 THE MYSTERY OF THE MIMA MOUNDS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETM-002 THE MYSTERY OF THE MIMA MOUNDS 
 
 - **Disputed Gopher Theory**: Victor B. Scheffer's "gopher theory" regarding the origin of the Mima Mounds has sparked much debate; many scientists do not agree with his conclusions. This highlights the ongoing uncertainty in establishing a definitive cause for these geological features.
 
@@ -1633,7 +1633,7 @@ Many bays feature well-defined elevated rims, suggesting that topography signifi
 - **Ant-Hill Theory**: J. C. Branner considered the "ant-hill theory" as one of the more plausible explanations for the Western mounds, although he acknowledged its limitations. This highlights the difficulties scientists face when trying to link biological behaviors with geological formations in their investigations.
 
 - **Ground-Water Pressure Hypothesis**: C. C. Nikiforoff's hypothesis regarding the mounds' formation in the Central Valley of California attributed them to ground-water pressure pushing through hardpan layers. This theory invites a reevaluation of common assumptions about the origins of similar geological structures in different regions.
-# MOUNDS AND PIMPLED PLAINS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# MOUNDS AND PIMPLED PLAINS 
 
 - **Anomaly 1**: The Mima-type mounds are inexplicably distributed along the Pacific Coast, coinciding only with the range of the pocket gopher. Notably, both the mounds and the gophers terminate abruptly near Puget Sound, raising questions about their origin.
 
@@ -1649,7 +1649,7 @@ Many bays feature well-defined elevated rims, suggesting that topography signifi
 
 - **Anomaly 7**: The peculiar structure of Mima-type mounds includes unstratified fluffy soil alongside distinctly bedded substratum, which is an anomaly in geological terms. Additionally, features such as "mound roots" and a characteristic depression at the summits of the mounds add complexity to their formation.
 
-# THE HILLOCKS OR MOUND-FORMATIONS OF SAN DIEGO, CALIFORNIA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# THE HILLOCKS OR MOUND-FORMATIONS OF SAN DIEGO, CALIFORNIA 
 
 - **Anomaly 8**: The hillocks and mound-like formations in the San Diego vicinity appear inexplicable as they vary greatly in size and structure across different local conditions. This variability suggests multiple active agencies are involved in their ongoing formation.
 
@@ -1664,7 +1664,7 @@ Many bays feature well-defined elevated rims, suggesting that topography signifi
 - **Anomaly 13**: Unique interactions between vegetation and hydrology impede drainage and allow for the perpetuation of mound structures, complicating the simplistic understanding of mound emergence. This finding indicates the need to consider multiple ecological factors converging to form distinct landforms. 
 
 - **Anomaly 14**: The exclusive presence of these mound phenomena on the Pacific slope can be attributed to a unique combination of ecological and geological factors that rarely occur elsewhere. This spatial limitation raises further questions about the interplay of biotic and abiotic relationships needed to form such mounds.
-# ETM-004 THE SAND MOUNDS OF LOUISIANA AND TEXAS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETM-004 THE SAND MOUNDS OF LOUISIANA AND TEXAS 
 - **Mound Composition Anomaly**  
   The mounds are identical in composition to the adjacent soil, primarily clay loam with varying percentages of sand. However, some mounds may contain slightly more sand than the surrounding area, which suggests a unique soil composition despite their common appearance.
 
@@ -1677,7 +1677,7 @@ Many bays feature well-defined elevated rims, suggesting that topography signifi
 - **Irregular Distribution**  
   The mounds lack regular distribution across the landscape and show no evidence of stratification. Although they range in diameter from 4 to 30 feet, a few larger examples exist, yet their positioning appears highly erratic.
 
-# ETM-005 "MUD LUMPS" AND MOUNDS NEAR NEW ORLEANS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETM-005 "MUD LUMPS" AND MOUNDS NEAR NEW ORLEANS 
 - **Mud Lump Confusion**  
   Initial observations revealed what were assumed to be "Indian mounds" turned out to be "mud lumps" with distinct shapes and materials. These mounds, located significantly above the river mouth, raise questions due to a lack of geological literature on their formation.
 
@@ -1689,10 +1689,10 @@ Many bays feature well-defined elevated rims, suggesting that topography signifi
 
 - **Presence of "Salt Mounds"**  
   Distinction is made with phenomena like "salt mounds" where salt wells have been reported to boil from gas escape, marking another layer of complexity. The associated vibrations and land movements point towards geological processes that challenge conventional notions of mound formation.
-# ETM-006 SUBMARINE PINGOS IN THE BEAUFORT SEA [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETM-006 SUBMARINE PINGOS IN THE BEAUFORT SEA 
 - **Admiral's Finger Shoal**: The shoal in the Beaufort Sea was identified due to a sudden rise and subsequent drop in the ocean floor's elevation. This topographic anomaly prompted further investigation, leading to the discovery of underwater mounds in the area.
 
-# El-267 ETM-006 MOUNDS AND PIMPLED PLAINS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# El-267 ETM-006 MOUNDS AND PIMPLED PLAINS 
 - **Underwater Mounds Similar to Admiral's Finger**: A detailed survey revealed numerous underwater mounds that resembled the "Admiral's Finger" in both size and shape. The mounds were irregular and asymmetric, indicating a unique topographic anomaly on an otherwise smooth sea floor.
 
 - **Random Distribution of Mounds**: There were 78 underwater mounds found with depths above them varying randomly, suggesting that their distribution was not uniform. This randomness raises questions about their formation and the geological processes involved.
@@ -1701,29 +1701,29 @@ Many bays feature well-defined elevated rims, suggesting that topography signifi
 
 - **No Correlation with Geophysical Observations**: The magnetic and gravity fields showed no correlation with the underwater mounds, suggesting that the mounds may not be associated with any notable sub-bottom structures. This finding challenges earlier hypotheses regarding their formation involving geological mechanisms.
 
-# ETM-007 PECULIAR EARTH-HEAPS IN MISSOURI [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETM-007 PECULIAR EARTH-HEAPS IN MISSOURI 
 - **Mounds Along Watercourses**: An observed series of mounds were found all along the watercourses in southern Missouri. These mounds are particularly noteworthy for their abundance in the alluvial soil, which raises questions about their origin and purpose.
 
 - **Attributes of Mounds**: These earth-heaps often measure four feet in height and 30 to 40 feet in diameter, arranged in parallel rows. The lack of human remains found leads to various hypotheses regarding their builders, from animals to ancient human activities.
 
-# El-270 SUBMARINE CANYONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# El-270 SUBMARINE CANYONS 
 - **Indications of Lower Sea Level**: The presence of submarine canyons suggests that sea levels may have been significantly lower in the past. This challenges existing paradigms regarding geographical changes and raises questions about the geological forces that shaped these formations.
 
 - **Erosion by Unknown Forces**: The canyons have properties similar to river valleys, leading to speculation about unrecognized forces responsible for their formation. The continuing study of these features is vital to understanding oceanographic history.
 
-# ETS-001 THE UNDERLYING CAUSES OF SUBMARINE CANYONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETS-001 THE UNDERLYING CAUSES OF SUBMARINE CANYONS 
 - **Characteristics of Submarine Canyons**: The investigation concluded that submarine canyons exhibit traits of river canyons, distinguishing them from fault valleys. The revelation that these canyons extend up to 10,000 feet deep underscores the complexity of their formation.
 
-# ETS-002 OUR SHRINKING GLOBE [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETS-002 OUR SHRINKING GLOBE 
 - **Mystery of Ocean Origins**: The discussion raises important questions regarding the origins of current oceans if past sea levels were much lower. This encompasses potential catastrophic events and their implications for human existence.
 
-# ETM-002 SUBMARINE CANYONS [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# ETM-002 SUBMARINE CANYONS 
 - **Distribution and Characteristics**: Submarine canyons are widespread, cutting through continental slopes and shelves worldwide, which draws attention to their geological significance. Comparisons to river valleys highlight the erosion processes shaping these underwater landscapes.
 
 - **Presence of Different Rock Types**: The canyons expose a variety of rock types, from soft Tertiary material to more durable granite. This variety suggests complex geological history and the influences of both erosion and sedimentation processes.
 
 - **Evidence of Glacial Modification**: High-latitude canyons show signs of having been shaped by glacial action, evidenced by their cross-sectional profiles. This adds a layer of historical significance to the canyons and their formation dynamics.
-# Anomalies in Submarine Canyons [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies in Submarine Canyons 
 
 - **Presence of Beds of Sand Interbedded with Clay**  
   Recent coring in the Atlantic has revealed sand beds between layers of clay at great depths. This challenges traditional notions about abyssal deposits and their dating, particularly with Foraminifera.
@@ -1754,7 +1754,7 @@ Finding shallow-water fauna at significant depths has caused confusion in geolog
 
 - **Extreme Sea-Level Fluctuations**  
 The debate surrounding historical sea levels points to extreme fluctuations potentially reaching thousands of feet. These changes challenge current assumptions about the stability of ocean levels over geological time.
-# Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
+# Anomalies 
 
 - **Legends, all EL**  
   Legends encompass various myths and traditional narratives that often have no scientific basis. They are important cultural artifacts that reflect the beliefs and values of the societies from which they originate.
