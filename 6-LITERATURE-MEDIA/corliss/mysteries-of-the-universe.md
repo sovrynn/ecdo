@@ -1,6 +1,5 @@
 # GPT Summary: Table of Contents
 
-- [GPT Summary: Table of Contents](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#gpt-summary-table-of-contents-top)
 - [NO BEGINNING, NO END? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#no-beginning-no-end-tophttpsgithubcomsovrynnecdoblobmaster6-literature-mediacorliss-top)
 - [NO BEGINNING, NO END? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#no-beginning-no-end-tophttpsgithubcomsovrynnecdoblobmaster6-literature-mediacorliss-top)
 - [NO BEGINNING, NO END? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#no-beginning-no-end-tophttpsgithubcomsovrynnecdoblobmaster6-literature-mediacorliss-top)
@@ -32,40 +31,6 @@
 - [Anomalies in the Search for Extraterrestrial Life [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#anomalies-in-the-search-for-extraterrestrial-life-tophttpsgithubcomsovrynnecdoblobmaster6-literature-mediacorliss-top)
 - [THE SEARCH FOR LIFE BEYOND THE EARTH [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-search-for-life-beyond-the-earth-tophttpsgithubcomsovrynnecdoblobmaster6-literature-mediacorliss-top)
 - [Anomalies [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#anomalies-tophttpsgithubcomsovrynnecdoblobmaster6-literature-mediacorliss-top)
-
-# GPT Summary: Table of Contents
-
-- [NO BEGINNING, NO END?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#no-beginning-no-end)
-- [NO BEGINNING, NO END?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#no-beginning-no-end)
-- [NO BEGINNING, NO END?](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#no-beginning-no-end)
-- [QUASARS—AT THE BRINK OF INFINITY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#quasarsat-the-brink-of-infinity)
-- [QUASARS-AT THE BRINK OF INFINITY](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#quasars-at-the-brink-of-infinity)
-- [MEASURING THE AGE OF THE UNIVERSE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#measuring-the-age-of-the-universe)
-- [MEASURING THE AGE OF THE UNIVERSE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#measuring-the-age-of-the-universe)
-- [CHECKING OUT EINSTEIN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#checking-out-einstein)
-- [CHECKING OUT EINSTEIN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#checking-out-einstein)
-- [CHECKING OUT EINSTEIN](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#checking-out-einstein)
-- [HOW A STAR WORKS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#how-a-star-works)
-- [HOW A STAR WORKS](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#how-a-star-works)
-- [Anomalies and Observations](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#anomalies-and-observations)
-- [THE SOLAR SYSTEM’S ELEVEN-YEAR PULSE](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-solar-systems-eleven-year-pulse)
-- [JUPITER’S WANDERING RED SPOT AND OTHER IDIOSYNCRASIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#jupiters-wandering-red-spot-and-other-idiosyncrasies)
-- [Chapter 1: Jupiter's Idiosyncrasies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#chapter-1-jupiters-idiosyncrasies)
-- [JUPITER'S WANDERING RED SPOT AND OTHER IDIOSYNCRASIES](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#jupiters-wandering-red-spot-and-other-idiosyncrasies)
-- [THE CANAL QUESTION](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-canal-question)
-- [THE CANAL QUESTION](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-canal-question)
-- [THE CANAL QUESTION](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-canal-question)
-- [THE CASE OF THE MISSING PLANET](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-case-of-the-missing-planet)
-- [Chapter 1: The Case of the Missing Planet](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#chapter-1-the-case-of-the-missing-planet)
-- [Chapter 2: The Plague of Planetoids](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#chapter-2-the-plague-of-planetoids)
-- [THE CASE OF THE MISSING PLANET](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-case-of-the-missing-planet)
-- [THOSE LIGHTS ON THE MOON](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#those-lights-on-the-moon)
-- [Anomalies in Lunar Theories](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#anomalies-in-lunar-theories)
-- [Anomalies Observed on the Moon](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#anomalies-observed-on-the-moon)
-- [THE SEARCH FOR LIFE BEYOND THE EARTH](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-search-for-life-beyond-the-earth)
-- [Anomalies in the Search for Extraterrestrial Life](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#anomalies-in-the-search-for-extraterrestrial-life)
-- [THE SEARCH FOR LIFE BEYOND THE EARTH](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#the-search-for-life-beyond-the-earth)
-- [Anomalies](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/mysteries-of-the-universe.md#anomalies)
 
 # NO BEGINNING, NO END? [(top)](https://github.com/sovrynn/ecdo/blob/master/6-LITERATURE-MEDIA/corliss/)
 
