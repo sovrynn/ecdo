@@ -6,13 +6,17 @@ Global Elevation &amp; Population Density source: NOAA:ETOPO1+JRC:GHSL https://t
 
 ![](img/1813171709953876385-GSmuC3tW0AAtGKy.jpg)
 
-## Khufu - Stirling Generator?
+## 12 Foot Giants
 
-Evolution of the Stirling Engine. Ultrasonic waves are generated through the application of heat to a thermoacoustic material. The resonant wavefront drives a piston or vibrates a tellurically active material (possibly quartz) in a resonant chamber. The vibration generates electricity. This is similar to the principal behind the formation of "earthquake lights". With few or no moving parts, these run silently. Any heat source may be used with most designs. They are highly scalable, require little or no maintenance and will run reliably for decades. China's working design produces 102 kilowatts of power from a temperature gradient of 530 degrees Celsius [1]. NASA have been working on a couple of similar projects (at the patent tender stage).[2][3]
+12 Foot Giants found during a project know as The Little River Drainage District. 
 
-![](img/stirling.jpg)
+Clippings from The Hutchinson Gazette published in Hutchinson, Kansas on 12/17/1913 and Monroe County Mail, 18th December 1913.
+X
+https://x.com/HeistingHistory/status/1851275184793096508?t=xP1-AO1GEhJRAwxhgbEgjw&s=19
 
-1. https://www.nextbigfuture.com/2023/11/breakthrough-thermoacoustic-stirling-generator-converts-to-energy-with-no-moving-parts.html
-2. https://technology.nasa.gov/patent/LEW-TOPS-80
-3. https://technology.nasa.gov/patent/LEW-TOPS-106
-4. https://t.me/nobulart/2497
+![](img/photo_5773@29-10-2024_18-52-11.jpg)
+
+![](img/photo_5774@29-10-2024_18-52-12.jpg)
+
+![](img/photo_5775@29-10-2024_18-52-12.jpg)
+

@@ -19,3 +19,15 @@ https://x.com/Culture_Crit/status/1850600512481325493?s=19
 ![](img/imago-mundi.jpg)
 
 https://ubique.americangeo.org/map-of-the-week/map-of-the-week-the-imago-mundi/#:~:text=A%20circular%20%E2%80%9Cbitter%20river%E2%80%9D%20or,that%20extend%20beyond%20the%20sea.
+
+## Noah's Ark Location
+
+Location of 'Noah's Ark' is revealed as scientists decipher world's oldest map on 3,000-year-old Babylonian tablet
+😳😳😳
+
+Read: https://www.dailymail.co.uk/sciencetech/article-14011293/Noahs-Ark-revealed-worlds-oldest-map-Babylonian-tablet.html?ns_mchannel=rss&ns_campaign=1490&ito=1490
+
+https://t.me/LauraAbolichannel
+
+![](img/photo_5772@29-10-2024_18-41-35.jpg)
+

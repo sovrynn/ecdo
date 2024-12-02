@@ -179,6 +179,17 @@ https://x.com/isjuustadream/status/1848495895886655895?s=46
 
 https://x.com/YoumotherFUDer/status/1848905718671544758 this post is an interesting observation. I have only just been looking into the hellfire club this week which is why I flag it. An 18th century epstein island with Benjamin Franklin amongst others on the flight logs...
 
+## Khufu - Stirling Generator?
+
+Evolution of the Stirling Engine. Ultrasonic waves are generated through the application of heat to a thermoacoustic material. The resonant wavefront drives a piston or vibrates a tellurically active material (possibly quartz) in a resonant chamber. The vibration generates electricity. This is similar to the principal behind the formation of "earthquake lights". With few or no moving parts, these run silently. Any heat source may be used with most designs. They are highly scalable, require little or no maintenance and will run reliably for decades. China's working design produces 102 kilowatts of power from a temperature gradient of 530 degrees Celsius [1]. NASA have been working on a couple of similar projects (at the patent tender stage).[2][3]
+
+![](img/stirling.jpg)
+
+1. https://www.nextbigfuture.com/2023/11/breakthrough-thermoacoustic-stirling-generator-converts-to-energy-with-no-moving-parts.html
+2. https://technology.nasa.gov/patent/LEW-TOPS-80
+3. https://technology.nasa.gov/patent/LEW-TOPS-106
+4. https://t.me/nobulart/2497
+
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
