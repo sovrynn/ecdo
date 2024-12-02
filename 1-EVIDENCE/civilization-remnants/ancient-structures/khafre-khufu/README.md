@@ -190,6 +190,28 @@ Evolution of the Stirling Engine. Ultrasonic waves are generated through the app
 3. https://technology.nasa.gov/patent/LEW-TOPS-106
 4. https://t.me/nobulart/2497
 
+## Khufu TES
+
+There' s only 1 sound reason to build an impossibly large structure. Not to produce power, serve as a headstone, make chemicals, beam celestial energies or math-confirm religious works.
+
+Rather to detect the onset of, & warn future generations about, a key threat to our survival.
+
+@EthicalSkeptic
+
+![](img/photo_5828@03-11-2024_22-10-12.jpg)
+
+![](img/photo_5829@03-11-2024_22-10-12.jpg)
+
+![](img/photo_5830@03-11-2024_22-10-12.jpg)
+
+![](img/photo_5831@03-11-2024_22-10-12.jpg)
+
+## Khafre
+
+Has the ethical skeptic made any theories about the Pyramid of Khafre, specifically the interior layout?
+
+![](img/photo_5832@04-11-2024_08-22-58.jpg)
+
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/

@@ -54,6 +54,12 @@ the Earth's magnetic field strength has decreased to a
 critical level. NOW! Take your family and your entire 
 survival storage to your retreat.
 
+## Youtube Video
+
+Adam and Eve Story
+
+https://youtu.be/8OFzKrYBsFc
+
 ## Citations
 
 1. https://nobulart.com/cataclysms-revisited/

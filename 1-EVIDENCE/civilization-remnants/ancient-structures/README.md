@@ -4,6 +4,16 @@ This folder is for important structures humans have built that are potentially r
 
 Khafre/Khufu Pyramids, structures that are central to the ECDO thesis, are in `khafre-khufu`.
 
+## Ancient Megaliths
+
+Ancient megaliths defy modern logic. Even our advanced machinery struggles with 20-40 ton stones. Imagine so-called primitive societies tackling such feats.
+
+Join us now
+∙ Channel
+∙ Chat
+
+See /img for video_471@02-11-2024_07-15-16.mp4.
+
 ## All the pyramids in the world
 
 Map of all the pyramids in the world: https://www.google.com/maps/d/viewer?mid=1a7ESLhx-k-r0zTW22XiENshhHwf-QXM

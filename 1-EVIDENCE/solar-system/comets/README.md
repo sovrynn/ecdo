@@ -32,3 +32,6 @@ Now you are talking! The ancients were highly descriptive in their labeling of c
 
 ![](img/photo_5767@28-10-2024_16-58-04.jpg)
 
+## Tree Ring Comet Evidence
+
+https://youtu.be/Is3w6lnnAiw
