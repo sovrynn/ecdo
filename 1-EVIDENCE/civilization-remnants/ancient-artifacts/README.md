@@ -113,6 +113,10 @@ This is why I think it's curious to find this king select this astral image for 
 
 ![](img/seal-team.jpg)
 
+## The map of Bedolina, Valcamonica Rock Art
+
+https://www.rupestre.net/tracce/?p=2422
+
 ## Citations
 
 1. https://x.com/EthicalSkeptic/status/1832538729275117895?s=19

@@ -25,3 +25,10 @@
 ## A brown dwarf discovered 30 years ago is actually twins circling each other
 
 https://abcnews.go.com/Weird/wireStory/brown-dwarf-discovered-30-years-ago-twins-circling-114854724
+
+## Ancient Comet Excerpt
+
+Now you are talking! The ancients were highly descriptive in their labeling of comets. Embellished with all sorts of symbolism and meaning.
+
+![](img/photo_5767@28-10-2024_16-58-04.jpg)
+

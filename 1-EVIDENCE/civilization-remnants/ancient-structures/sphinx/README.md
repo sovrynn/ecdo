@@ -14,3 +14,7 @@ Excerpt from Mystery of the Sphinx (1993) (in the folder)
 RT Lying is their most consistent prior art. History is not what you have been taught. https://t.co/QVN5zB2yjC
 
 ![](img/1806017250727502216-GRBArV3WUAAOxyu.jpg)
+
+## Indus Valley
+
+Sphinx in Indus Valley Civilization: https://x.com/OMApproach/status/1850335255028289962

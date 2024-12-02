@@ -12,9 +12,9 @@ It reveals just how differently the ancients understood the world — but one de
 
 It sheds light on a VERY ancient story… [Flood & Ark etc]
 
- https://x.com/Culture_Crit/status/1850600512481325493?s=19
+https://x.com/Culture_Crit/status/1850600512481325493?s=19
 
- ## Imago Mundi
+## Imago Mundi
 
 ![](img/imago-mundi.jpg)
 
