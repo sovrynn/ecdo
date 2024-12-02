@@ -127,6 +127,27 @@ Any theories as to why the temperature fluctuations were much more severe prior 
 
 Because the first event was the result of a collision or encounter with a comet or other body/bodies.
 
+## Atlantic Meridonal Overturning Circulation
+
+That AMOC thing again. Strikes me it's all tied in: 
+🟡The Harmonic Convergence timing cycles we reference, 
+🟡the obliquity of the earth,
+🟡the weakening current
+🟡Micronova solar patterns...
+
+
+It's like the planet is slowly applying the brakes to a screeching halt
+
+ coming up circa 2030 to 2040, 
+
+which'll trigger the ECDO event (or be triggered by it)
+
+ & some cognoscenti know it's coming.
+
+![](img/photo_5917@11-11-2024_20-12-01.jpg)
+
+![](img/photo_5918@11-11-2024_20-12-01.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

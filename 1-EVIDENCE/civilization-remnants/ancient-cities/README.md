@@ -161,6 +161,12 @@ https://en.wikipedia.org/wiki/Bubastis
 
 "After the sack of the city, the monument remained abandoned until the reign of Apil Kin, ca. 2100 BCE. "
 
+## Eridu
+
+Ur is interesting to be sure, but Eridu is also in my top 10. Looks like an archeological gold mine that just lays around getting vandalized.
+
+https://m.youtube.com/watch?v=GT5QWaBQqIo
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park
@@ -177,7 +183,7 @@ Cities to investigate:
 - Susa
 - Tell Abu Hureyra
 
-# GPT: Ancient Cities with the Oldest Strata of Rubble
+## GPT: Ancient Cities with the Oldest Strata of Rubble
 
 Jericho is often cited as one of the oldest continuously inhabited cities in the world, with archaeological evidence suggesting settlement layers dating back to **10,000 BCE**. However, there are other ancient cities with deep, multi-layered strata of old rubble indicating previous versions of the city. Here are some key examples, including any contenders that might be as old or older than Jericho:
 

@@ -54,6 +54,24 @@ https://ancient-hebrew.org/studies-verses/genesis-1-1-the-vocabulary-and-mr-benn
 
 ![](img/1801760694028931377-GQEd9ugXoAAmRii.png)
 
+## Year One 3961 BCE
+
+Year One at 3961 BCE, about 200 years earlier than the Jewish calendar, which would place the Messianic age around the year 2039/2040—a time when many catastrophists predict societal collapse. Even the modern mainstream narrative of human-driven climate change suggests that everything could change within the next 10 to 50 years. 
+
+https://x.com/OMApproach/status/1855646852135191011?s=35
+
+That is just one of dozens of different dates biblical chronology attempts to resolve.
+
+![](img/photo_5908@10-11-2024_23-34-02.jpg)
+
+They mostly seem to be in a similar ball park. 3900-ish. Given the length of the timelines (6K to 12K years) for the events we're speculating about, 10 to 50 or even 100 years variance in estimates is still fairly accurate.
+
+100 years is only 1.66% of 6000 years. Potentially 98.4%accurate.
+
+25 years is only 0.41% of 6000 years. Potentially 99.6,% on target.
+
+Ofc if it's measured against a 12K longer time scale it's even more accurate, % wise
+
 ## Citations
 
 1. https://www.historyofinformation.com/detail.php?id=3349

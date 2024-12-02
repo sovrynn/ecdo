@@ -19,4 +19,3 @@ https://x.com/HeistingHistory/status/1851275184793096508?t=xP1-AO1GEhJRAwxhgbEgj
 ![](img/photo_5774@29-10-2024_18-52-12.jpg)
 
 ![](img/photo_5775@29-10-2024_18-52-12.jpg)
-

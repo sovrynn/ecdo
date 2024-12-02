@@ -44,6 +44,34 @@ RT This was seen from various locations in Chihuahua, Mexico last night.....Spac
 
 https://watchers.news/2024/10/23/asteroid-a11dc6d-impacts-earth-over-eastern-pacific-ocean-october-22-2024/
 
+## Meteor Entry USA
+
+Meteor entry seen over Texas and Oklahoma a few hours ago.
+https://x.com/i/status/1855476189395025948
+
+See /img for texas.mp4.
+
+They say it was Starlink 4682 deorbiting, not a meteor.
+
+![](img/photo_5913@11-11-2024_08-40-19.jpg)
+
+![](img/photo_5909@11-11-2024_08-40-19.jpg)
+
+![](img/photo_5910@11-11-2024_08-40-19.jpg)
+
+![](img/photo_5911@11-11-2024_08-40-19.jpg)
+
+Another one over Iran...? Or a missile? 
+https://x.com/Osint613/status/1855756039268036723
+
+Nope. Chinese CZ-4C rocket body  
+
+This decay was expected & anticipated.
+
+![](img/photo_5915@11-11-2024_16-29-39.jpg)
+
+![](img/photo_5914@11-11-2024_16-29-38.jpg)
+
 ## Citations
 
 1. Craig Stone

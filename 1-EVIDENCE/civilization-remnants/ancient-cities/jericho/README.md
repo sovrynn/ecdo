@@ -46,6 +46,23 @@ Hard copy here.
 
 https://web.archive.org/web/20180719110651id_/https://dash.harvard.edu/bitstream/handle/1/12211567/2742981.pdf?sequence=2
 
+## The Problem of Jericho
+
+The Problem of Jericho
+“The biblical narrative and the archaeological finds at Jericho point to the same pattern of events. The archaeological evidence implies a plague, followed shortly by earthquake activity and the total destruction of the city by burning. The biblical narrative gives the same sequence a plague in the Jericho region, followed not long after by what may readily be interpreted as at least two instances of seismic activity (the first stopping the Jordan, the second destroying the city walls), followed by conquest of the city and its eventual destruction by fire.”
+https://nobulart.com/the-problem-of-jericho/
+
+In The Walls of Jericho: An Alternative Interpretation O. Bar-Yosef discusses the tower, the construction of which dates to before 7400 BC. References to evidence of silting, erosion and destruction sequences around this earlier period are notable.
+[1] https://researchgate.net/publication/249178639_The_Walls_of_Jericho_An_Alternative_Interpretation
+
+![](img/photo_5924@12-11-2024_23-51-59.jpg)
+
+![](img/photo_5925@12-11-2024_23-51-59.jpg)
+
+Some of Jericho's pivotal periods as seen on the harmonic event timeline.
+
+![](img/photo_5926@12-11-2024_23-53-38.jpg)
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Jericho

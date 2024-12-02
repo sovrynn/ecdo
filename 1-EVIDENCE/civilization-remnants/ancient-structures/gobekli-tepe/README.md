@@ -63,6 +63,10 @@ Revised and updated with additional research considering Göbleki Tepe as an obs
 
 ![](img/1801231774904631638-GP9CSC5XYAAEU6w.png)
 
+## Pillar 43
+
+https://x.com/OMApproach/status/1855225136841957744?s=35
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

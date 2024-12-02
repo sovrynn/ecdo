@@ -104,6 +104,17 @@ ECDO continues to provide answers, everywhere I look. https://t.co/KGsBYh8aYG ht
 
 See img/1804438514429211112-7bpYSZkgeCeywLgC.mp4.
 
+## Mammoth Frozen Theory
+
+@junhoBTC frozen mammoths found in very close region. Is this sudden ice age like phenonmenon due to ecdo? And how exactly it happens
+
+![](img/photo_5855@05-11-2024_18-52-35.jpg)
+
+I am speculating the antartica winds during flip hits alsaka/siberia causing it to instantly freeze.
+Note that antartica is coldest region in planet and also this region lies in red so fastest winds.
+
+![](img/photo_5856@05-11-2024_19-07-21.jpg)
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Mammoth#Extinction

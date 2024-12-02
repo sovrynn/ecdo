@@ -104,7 +104,55 @@ Methods of conquest
 
 1. https://www.petersweden.org/p/it-begins-court-rules-bill-gates
 2. https://chatgpt.com/share/671b2e7d-94fc-8005-9c7d-7274dc719321
-.
+
+## Murica 2024
+
+[1] https://x.com/elonmusk/status/1854313368401613146
+[2] https://x.com/SpartaJustice/status/1854329701747109934
+
+![](img/photo_5875@07-11-2024_13-15-21.jpg)
+
+![](img/photo_5876@07-11-2024_13-15-21.jpg)
+
+![](img/photo_5877@07-11-2024_13-15-21.jpg)
+
+## Cometstrike Tabletop Exercise
+
+I missed this report of a table top exercise that happened this summer.
+
+What a curious thing to be looking into, I wonder what strikes them to do so... *sarcasm & pun intended*
+
+https://www.nasa.gov/news-release/nasa-partners-conduct-fifth-asteroid-impact-exercise-release-summary/
+
+What is this chart I wonder
+
+![](img/photo_5883@07-11-2024_20-49-59.jpg)
+
+Looking at the report: https://www.nasa.gov/wp-content/uploads/2024/06/ttx5-quicklook-report-final.pdf?emrc=672d0a2c74dba
+
+I wonder if it is trying to illustrate the impact corridor?
+
+👀
+
+"Misinformation and disinformation would have to be dealt with." 
+
+..."public messaging strategies"
+
+"Congress unlikely to act unless
+impact became certain"
+
+"The most important item of the morning was
+the discussion involving the political nature of
+the decision making."
+
+Basically in a real emergency they try not to panic the public.
+
+## Javier Milei Speech
+
+An interesting layer-cake speech. Seems like a wolf in a Judas goat’s clothing. [ai dubbed into english]
+
+https://x.com/headwarriortwm/status/1855372163273863674?s=46
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

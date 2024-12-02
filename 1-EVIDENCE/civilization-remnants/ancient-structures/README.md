@@ -30,19 +30,9 @@ This would very likely have been expunged from recent records. His source would 
 
 https://nobulart.com/the-hermetic-key/
 
-## Arwad
-
-Arwad, an island off the coast of Syria, has been continuously inhabited for about 5,000 years. "Along the entire eastern coast of the Mediterranean, there is only one inhabited island: Arwad. Not much more than a dot of rock off the coast of Tartus, Syria, it once dominated a goodly stretch of that coast, ruling the mainland like an offshore castle. War galleys of Arwad fought on the side of the Egyptians, the Assyrians and even the Persians when the tide turned for Greece in the early fifth century bce. More than a millennium and a half later, the island became the last bastion in the entire Levant for the crusading Knights Templar before their final, dramatic expulsion. Though Arwad today is a quieter place, the remains of its massive stone fortifications have many a tale to tell.
-
-Near the center of the island protrudes the Citadel of Arwad, a rectangular fortress raised sometime in the 13th century but now largely Ottoman, though it retains Mamluk and Crusader features. Two thousand years before its first stones were laid, on this site stood the palace of the Phoenician kings.
-
-The island was once insulated also by a massive outer city wall made of gargantuan stone blocks. As historian Lawrence Conrad describes it, in Byzantine times “the great walls surrounding the island on all but the harbor side were at least 10 meters high in places and were built of tremendous blocks up to six meters long and two meters high.” The walls, according to Conrad, dated at least to the Seleucid era that followed Alexander the Great, and probably even to the Phoenician era before.
-
-Much of this protective structure was razed after the Arab takeover in 650 ce; other parts of the walls were brought down after the Mamluk expulsion of the crusading Knights Templar in the autumn of 1302. Only a few segments of the great wall survive, and they tower dramatically near the water’s edge, relics of a seemingly impossible feat of engineering."
-
-[1] https://aramcoworld.com/Articles/January-2016/Arwad-Fortress-at-Sea
-
 ## 3 Oldest Castle Fortifications
+
+Aleppo, Masada, Arwad.
 
 ### Citadel of Aleppo
 
@@ -60,24 +50,6 @@ Masada. Israel. 1st cenutry BCE. Its boaty.
 ![](img/masada2.jpg)
 
 https://en.wikipedia.org/wiki/Masada
-
-### Citadel of Arwad, Syria
-
-Citadel of Arwad, Syria. 3rd millennium BC. An historic Templar stronghold.
-
-![](img/citadel-of-arwad1.jpg)
-![](img/citadel-of-arwad2.jpg)
-![](img/citadel-of-arwad3.jpg)
-
-https://en.wikipedia.org/wiki/Arwad
-
-## Island of Arwad Megawall
-
-They built a 10m high wall around the entire island. I’m guessing it wasn’t to keep the crabs off the beaches. 
-
-![](img/arwad.jpg)
-
-https://x.com/andtartary2/status/1834082117552406642?s=46
 
 ## Great Circle Artifacts
 
@@ -127,6 +99,36 @@ Has anyone dug into this? It would be interesting to map some of the underwater 
 https://www.express.co.uk/news/world/1961703/archaeology-breakthrough-brazil-stonehenge-amazon
 
 Paywall bypass link https://archive.is/Ko7eP
+
+## Baalbek Ancient Stone Engineering
+
+Terrible. I was in Baalbek in 2007 just after a war ended with Israel and they had started rebuilding Beirut. The Lebanese are lovely people. What I found amazing about the structures in Baalbek is the  small gap between the large cut stones. To create the gap you would need a laser to cut it so precisely. So I don’t believe these structures were constructed by the Romans. It needed some culture with greater technology to do it.
+
+## Men-an-Tol, Cornwall UK
+
+Men-an-Tol is a mysterious monument located in Cornwall, United Kingdom. It is one of Cornwall's most enigmatic and iconic ancient structures. Also known as the "Crick Stone", it is estimated to date back to the Neolithic or early Bronze Age. It undoubtedly served some sort of ceremonial or astronomical purposes and may be the remains of an ancient stone circle. There are many legends associated with it. It is said to represent a portal to the realm of the fey folk. Other legends tell us that it has miraculous healing powers. It is also said that a woman can achieve pregnancy with ease if she crawls through the holed stone seven times backwards on a full moon night.
+
+@europeanvolk
+
+![](img/photo_5886@08-11-2024_09-36-16.jpg)
+
+## Ur, Iraq
+
+Ur, Iraq. 1926.
+
+![](img/photo_5887@08-11-2024_10-57-57.jpg)
+
+I didn't realize how high the mound/pyramid/ziggurat in the middle is.
+
+![](img/photo_5888@08-11-2024_11-09-42.jpg)
+
+https://smarthistory.org/ziggurat-of-ur/
+
+## Silbury Hill
+
+![](img/photo_5921@12-11-2024_14-58-36.jpg)
+
+![](img/photo_5922@12-11-2024_14-58-36.jpg)
 
 # TODO Potential Leads
 

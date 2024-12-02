@@ -108,6 +108,13 @@ What the hell are these??
 
 https://youtu.be/e7MBWcTn-0w?feature=shared
 
+## Erosion?
+
+What are such structures called? I remember some mountain very similiar to this in another country
+Those were probably created from huge water erosion right?
+
+![](img/photo_5881@07-11-2024_17-15-00.jpg)
+
 ## Citations
 
 1. https://nobulart.com

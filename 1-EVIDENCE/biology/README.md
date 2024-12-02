@@ -11,6 +11,14 @@ Speculative:
 - `penguins`: How did penguins survive ECDO events?
 - `sunflowers`: Are sunflowers affected by ECDO events?
 
+## Extinction Map
+
+The paper this is drawn from stretches the possibilities of assumption in attributing all these extinctions to humans, but the map itself is drawn from an external database:
+"The proportion of extinct large mammal species (more than or equal to 10 kg) in each country during the last 132 000 years, only counting extinctions earlier than 1000 years BP." 
+[1] https://royalsocietypublishing.org/doi/epdf/10.1098/rspb.2013.3254
+
+![](img/photo_5919@12-11-2024_09-37-24.jpg)
+
 ## Clam shell analysis - El Nino 3700 year history
 
 ![](img/el-nino-3700.jpg)

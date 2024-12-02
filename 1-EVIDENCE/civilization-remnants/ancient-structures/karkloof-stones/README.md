@@ -20,3 +20,22 @@ Planning is underway for a documented visit to two sites of interest in the Kark
 ![](img/photo_5815@02-11-2024_11-31-46.jpg)
 
 ![](img/photo_5816@02-11-2024_11-31-46.jpg)
+
+## Karkloof Pictures
+
+Some interesting features in dolorite stone during our first Karkloof field trip today. The stones in pics 5 and 6 were a few of several lines aligned to geographic E-W. These areas have been heavily disturbed by decades of commercial forestry, but we chose this site for our first exploration based on the 1960’s paper linked above.
+
+https://t.me/nobulartchat/26499
+
+![](img/photo_5865@06-11-2024_18-21-37.jpg)
+
+![](img/photo_5866@06-11-2024_18-21-37.jpg)
+
+![](img/photo_5867@06-11-2024_18-21-37.jpg)
+
+![](img/photo_5868@06-11-2024_18-21-37.jpg)
+
+![](img/photo_5869@06-11-2024_18-21-37.jpg)
+
+![](img/photo_5870@06-11-2024_18-21-37.jpg)
+

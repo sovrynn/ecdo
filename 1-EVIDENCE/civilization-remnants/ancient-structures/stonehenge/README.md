@@ -51,6 +51,44 @@ Neil
 
 ![](img/stonehenge-aerial.jpg)
 
+## Stone Circle Alignment
+
+Just noticed something. The stone circles of Avebury, Brogar and Stonehenge are separated by over 500 miles and lie perfectly on this longitude.
+
+![](img/photo_5844@05-11-2024_12-43-10.jpg)
+
+![](img/photo_5845@05-11-2024_12-43-10.jpg)
+
+This is what prompted me to look...
+
+![](img/photo_5846@05-11-2024_12-47-41.jpg)
+
+![](img/photo_5847@05-11-2024_12-47-42.jpg)
+
+![](img/photo_5848@05-11-2024_12-47-42.jpg)
+
+Came across this diagram and thought I'd draw a GE line from Khufu to Brodgar...
+
+![](img/photo_5849@05-11-2024_13-00-06.jpg)
+
+Line to Brodgar...
+
+![](img/photo_5850@05-11-2024_13-03-22.jpg)
+
+Line from Khufu...
+
+![](img/photo_5851@05-11-2024_13-04-44.jpg)
+
+![](img/photo_5852@05-11-2024_13-40-36.jpg)
+
+## Stonehenge Elongated Skulls
+
+https://theaveburyexperience.co.uk/articles/the-elongated-skulls-of-stonehenge-and-a-forgotten-goddess-cult/
+
+This shouldn't need any comment from me...
+
+![](img/photo_5923@12-11-2024_20-39-28.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

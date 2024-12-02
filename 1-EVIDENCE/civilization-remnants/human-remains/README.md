@@ -61,6 +61,12 @@ But carbon dating of bones found in the Burton Agnes grave indicates that the st
 
 https://www.smithsonianmag.com/smart-news/an-ornate-5000-year-old-stone-drum-is-the-uks-most-significant-prehistoric-art-find-in-a-century-180979604/
 
+## Caves and Bunkers
+
+Caves=nature's bunker
+
+![](img/photo_5842@05-11-2024_11-37-52.jpg)
+
 ## Citations
 
 1. https://en.m.wikipedia.org/wiki/%C3%96tzi

@@ -17,3 +17,11 @@ This giant ocean conveyor belt is critical for moving heat around the planet, bu
 Without urgent action, the scientists warn that AMOC could fail completely within the next few decades.
 
 https://www.dailymail.co.uk/sciencetech/article-13991003/Gulf-Stream-COLLAPSE-soon-scientists.html
+
+## CO2 increase
+
+Thanks to BD for this article in today's YT video... 
+
+https://eos.org/articles/centennial-scale-jumps-in-co2-driven-by-earths-tilt
+
+7 events over 70ka. Interesting.

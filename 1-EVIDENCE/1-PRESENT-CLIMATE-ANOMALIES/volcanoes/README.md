@@ -28,3 +28,23 @@ RT On 14 June 2024, the Voragine crater, one of the four summit craters of #Etna
 ## Washington
 
 ![](img/wa-volcano.jpg)
+
+## Lewotabi November 5 2024 Eruption
+
+https://watchers.news/2024/11/05/state-emergency-eruption-lewotabi-damage-indonesia/
+
+![](img/photo_5841@05-11-2024_10-03-15.jpg)
+
+## Marapi Volcano 2024 Nov 7
+
+Marapi
+https://watchers.news/2024/11/07/marapi-volcano-eruption-ashfall-sumatra-indonesia/
+
+![](img/photo_5874@07-11-2024_12-01-47.jpg)
+
+## Mud Volcano
+
+https://x.com/soydeituango/status/1856125429712859390
+
+https://watchers.news/2024/11/12/eruption-cacahual-el-aburrido-mud-volcano-antioquia-colombia-injures-eight-damages-homes/
+

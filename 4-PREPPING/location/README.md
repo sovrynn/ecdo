@@ -1,5 +1,17 @@
 # Location
 
+## Relative geographical risk from natural disasters by location
+
+Four rather interesting maps showing relative geographical risk from various natural disasters according to location.
+
+![](img/photo_5889@08-11-2024_11-38-35.jpg)
+
+![](img/photo_5890@08-11-2024_11-38-35.jpg)
+
+![](img/photo_5891@08-11-2024_11-38-35.jpg)
+
+![](img/photo_5892@08-11-2024_11-38-35.jpg)
+
 ## Heuristics
 
 Takes us back to the heuristics we've highlighted before:

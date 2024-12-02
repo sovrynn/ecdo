@@ -1,5 +1,11 @@
 # Mayan Long Count
 
+## Graham Hancock Excerpt
+
+https://x.com/Graham__Hancock/status/1853884543675109513
+
+![](img/photo_5863@05-11-2024_21-40-38.jpg)
+
 ## Mesoamerican long count calendar
 
 "The Mesoamerican Long Count calendar is a non-repeating base-20 and base-18 calendar used by several pre-Columbian Mesoamerican cultures, most notably the Maya. For this reason, it is often known as the Maya Long Count calendar. Using a modified vigesimal tally, the Long Count calendar identifies a day by counting the number of days passed since a mythical creation date that corresponds to August 11, 3114 BCE in the proleptic Gregorian calendar.[a] The Long Count calendar was widely used on monuments."
@@ -27,3 +33,10 @@ The long count is a day count (it does not count years), so it has to be re-cali
 Using the precise year length
 
 ![](img/maya-adjustment2.jpg)
+
+## Mayan count solar year
+
+Interesting that the Mayan count includes a solar year of 360 days.
+
+![](img/photo_5880@07-11-2024_16-53-25.jpg)
+
