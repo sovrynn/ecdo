@@ -6,6 +6,12 @@ Even now it's acknowledged that many of the original lintels are nowhere to be f
 
 It's interesting that, apart from the nearby "Woodhenge" which is older than SH, there is evidence that SH was a built on the site of an even older wooden observatory which was less than 70m away. It's believed that the builders of SH were unaware of the existence of the previous site (evidence all being below ground), and built it there purely for astronomical reasons.
 
+## Altar Stone of Stonehenge
+
+New research shows that the Altar Stone of Stonehenge was transported 700km (450 miles) from northern Scotland
+
+![](img/photo_5794@30-10-2024_20-55-05.jpg)
+
 ## Inconclusive forum analysis
 
 Hi Ric,

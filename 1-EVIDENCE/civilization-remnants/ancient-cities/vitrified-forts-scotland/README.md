@@ -1,5 +1,23 @@
 # Vitrified Forts
 
+## Scottish Structures
+
+Lots of good info in this article on Scottish structures.
+
+![](img/photo_5788@30-10-2024_19-23-04.jpg)
+
+Some brochs had double walls 4 metres wide. Why so thick and dry hollow walled?
+
+![](img/photo_5789@30-10-2024_19-23-04.jpg)
+
+![](img/photo_5790@30-10-2024_19-23-04.jpg)
+
+![](img/photo_5791@30-10-2024_19-23-04.jpg)
+
+![](img/photo_5792@30-10-2024_19-23-04.jpg)
+
+![](img/photo_5793@30-10-2024_19-23-04.jpg)
+
 ## Vitrified forts in Scotland
 
 ![](img/scotland-burned.jpg)
@@ -19,6 +37,10 @@ https://studylib.net/doc/8356181/glass-castles-and-fire-from-the-sky (hard copy 
 Robert Scoch's website is worth a look although he doesn't appear to be an "Earth Flipper" https://www.robertschoch.com/
 
 https://www.robertschoch.com/misc_news.html#bu_master_class
+
+## Nobulart Theory
+
+I consider vitrification to be a product of ground to ionosphere discharge aka plasma, which is a product of geomagnetic excursions, which are a product of the same cycle that causes heating and decoupling of the core.  All one. All connected in time.
 
 ## GPT Summary of the paper in here
 

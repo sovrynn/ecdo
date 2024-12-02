@@ -105,3 +105,22 @@ See img/1797658753481011389-Du1McgH58i3QWsDZ.mp4.
 Devastating floods in Chad’s desert province of Tibesti claim at least 54 lives
 
 https://watchers.news/2024/08/17/devastating-floods-in-chads-desert-province-of-tibesti-claim-at-least-54-lives/
+
+## Valencia Oct 30 2024 Storm
+
+I don't know if you guys know it, but here in Valencia, Spain there has been the biggest storm I have ever experienced in my life. It was crazy, I don't want to imagine what the ECDO will be like...
+
+![](img/photo_5777@30-10-2024_10-57-18.jpg)
+
+See /img for video_467@30-10-2024_10-57-40.mp4.
+
+This has never happened here...
+
+See /img for video_468@30-10-2024_10-58-57.mp4.
+
+See /img for video_469@30-10-2024_10-59-14.mp4.
+
+Last video I send, if you want to see more just search Valencia in X
+
+See /img for video_470@30-10-2024_11-02-31.mp4.
+

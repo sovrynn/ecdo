@@ -16,3 +16,8 @@ Interestingly, what he is modeling here would possibly be even more devastating 
 I found this : https://github.com/kwschultz/TsunamiSquares
 
 and the following publication : https://www.sciencedirect.com/science/article/pii/S259006172100051X
+
+## Video
+
+It is the great flood simulation, although not ecdo
+https://youtu.be/6oT1_j0Am7Y?si=1t9YY8BAFiysFMzB

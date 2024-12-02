@@ -30,3 +30,12 @@ h/t to @Wrongwaythink (https://x.com/Wrongwaythink) for the video.
 ![](img/druid2.jpg)
 ![](img/druid3.jpg)
 ![](img/druid4.jpg)
+
+## Druidism Book
+
+Got a bit further with this book. Main take outs so far it appears the Druids were in Britain long before the celts (No ones quite sure where they came from. Main contenders are the caucusus or Egypt or even North India) and they have their own deluge mythology would you believe?!
+
+![](img/photo_5805@01-11-2024_12-55-17.jpg)
+
+![](img/photo_5806@01-11-2024_14-25-25.jpg)
+

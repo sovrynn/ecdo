@@ -115,6 +115,14 @@ I view this as unlikely; Christian historians all place Creation around this tim
 
 When Noah was 600 years old, on the seventeenth day of the second month, all the underground waters erupted from the earth, and the rain fell in mighty torrents from the sky.
 
+## Noah's Ark Final Location
+
+That is fantastical and fascinating. I had to look into it more and found this that explains a bit more: https://youtu.be/LUxFzh8r384?si=j6J8l5itVzSlykEP
+
+Confirmation of the site that the nation of Turkey recognizes as the resting place of the ark.
+
+Not sure if it matters though, if it was excavated and proven beyond doubt, a large percentage of humanity would refuse to believe because its very existence would shred their world view.
+
 ## Citations
 
 1. https://www.academia.edu/7883319/_Noahs_Flood_WTJ2004_1_

@@ -1,0 +1,553 @@
+
+UtahGeology
+
+    Guided Tours
+    Hiking Guides
+    Road Guides
+    Geologic History
+    Geologic Formations
+    Stratigraphic Columns
+    Geo Imagery
+    More
+
+You are here:
+Home
+/
+Uncategorized
+/ Were the Ice Ages Caused by True Polar Wandering?
+Were the Ice Ages Caused by True Polar Wandering?
+September 21, 2020/19 Comments/in Uncategorized/by Lance Weaver
+
+This is one of those things that once you see, you can’t un-see.
+
+.
+Introduction to the New Theory
+
+It was during my undergraduate or graduate work toward my degree in geology and geophysics that I first noticed that the majority of Northern Russia, Siberia and Northern Alaska were never fully glaciated during recent Ice Ages. In fact the areas where the last continental ice sheets persisted formed a nearly perfect ‘Arctic circle’ around a pole centered over Greenland.
+
+The more I puzzled over this, the odder it seemed to me that the earth could be cold enough during the ice age for arctic ice to extend to 50 degrees south of the present Arctic Circle and into parts of Illinois and Germany (literally half way to the equator), and yet parts of Alaska and Siberia which are within the present arctic circle were never covered by continental ice sheets or glaciers!
+
+How could this be? For years I’ve searched for a believable answer, always finding the same unconvincing response thrown out. “Siberia & Alaska were an arctic desert, and because of their distance from the sea — storm cells could not carry moisture far enough inland to those areas.” A pretty terrible response in my opinion considering the exact same “arctic desert” conditions would have existed over the 8,000 feet of ice in Central Canada during the Pleistocene, and even currently exist in the center of Antarctica and yet there’s still upwards of 10,000 feet of ice there today! (more on that later) If there’s one thing Antarctica teaches us, its that ice sheets still form in ‘Arctic deserts’ or regions where very little snow falls. It seems in the long run, continental ice sheets have a lot less to do with annual snowfall totals, and a lot more to do with temperatures being low enough to limit melting. More sophisticated answers involving anticyclones, Hadley cells in the jet stream driven by particular ocean currents and intercontinental rain shadows have been offered but are all equally implausible when examined closely. Is there perhaps a more convincing explanation for the geometry of the Pleistocene ice caps?
+Ice Age Map of ice caps during the ice age
+
+Ice Cover Visualization. Click on the link to see my Ice Age visualization application which shows the extents of the Pleistocene polar ice sheets in a 3D interactive experience. Slide the time slider to see the ice sheet extents though time as well as the theorized track of the north pole. Toggle on & off current & ancient latitude lines as well as an Antarctica overlay. Note the geometry of the ice sheets suggests an ice age north pole centered over Greenland.
+
+TPW Caused by Crustal Precession & Obliquity Forcing as a Replacement for Milankovitch Cycles
+
+Most scientists are well aware that magnetic north migrates its way along the surface of the earth every year. It’s what makes navigators have to change the declination of their compasses every year. But there’s a big difference between magnetic north and true north. Magnetic north affects only compasses and the earth’s magnetic field, but true north or the geographic north pole is the center of the earth’s spin axis and serves as the center point of all earth’s weather patterns. To most scientists, this is an unchanging bulwark of global geography and climatology–changing only over the span of millions of years.
+
+But unbeknownst to the majority of the world, this stalwart feature actually changes each year just like the magnetic pole. It was Swiss physicist Leonhard Euler who predicted in 1765 that the geographic north poles must change based on astronomical observations, but it wasn’t until almost 100 years later when S.C. Chandler published his 1891 papers, laying out more precise calculations for the annual movement of the geographic north pole. His experiments found that the pole moved in spiral circles with a circumference of as much as 200 feet per year. (a radius of 26-33 feet). These ‘Chandler Wobbles‘ as they were dubbed, have been the source of controversy every since, with scientists actively debating their exact cause. Explanations ranging from changes within the earth’s mantel, to atmospheric friction, to changes in ocean currents, groundwater movements and seismic crustal adjustments. In this paper we’ll explore these explanations and offer our own, but more importantly I’d like to propose that this slow true polar wander of the earths geographic north pole is a FAR better explanation for the ice ages, than the current theory. In fact, if Milutin Milankovitch had known that the geographic north pole actually migrates nearly as many miles every decade as the two degrees (140 miles) obliquity nutation he proposed as the leading cause for earth’s 100,000 year ice ages, perhaps we wouldn’t have to be scratching our heads over why the Pleistocene ice caps don’t match up with our current north pole.
+The Chandler wobble causes the earth’s geographic pole to migrate every few years by about 200 feet in a circle (60 feet laterally). A global network of observatories (shown above) helps modern astronomers & GPS systems correct for this movement.
+
+At present the movement of the geographic north pole is mostly in circular motion, with linear movement totaling only about 31.5 inches since it began to be carefully tracked to a GPS level in 1993. But during that period something strange also happened to its linear motion. It went from apparently heading northward during Chandler’s time, to heading westward in the nineties, to recently turning around and heading to Greenland. This is hugely significant because it may be evidence that an unluckily timing of a slowing, stopping and reversal of the geographic pole wandering that is responsible for the ice ages just happened to coincide with modern precise tracking of the pole, causing us to miss the ‘would-be obvious fact‘ that this is the driving mechanism for long term global glacial and interglacial periods!
+
+In fact, when we do the math to figure out how fast the pole would have to move between each glacial & interglacial period to account for the fact that Pleistocene glaciation appears to be centered over southern Greenland, we find that the change of about 1,700 miles over 50,000 years gives an estimate of about 179.5 feet per year. That’s less than the circular movement of the Chandler wobble, so certainly within the realm of possibility!
+
+So to really explore this likely possibility that the geographic north pole has migrated or nutated between the area of southern Greenland and its present location on a cycle of around 100,000 years lets go over an overview of:
+-What the ice ages are.
+-How they come and go.
+-How we know about them.
+-What we currently believe causes them. (
+-Why geographic polar drift is a FAR better explanation of the data.
+-The driving mechanism for changes in obliquity & why the crust changes at a different rate from the mantle.
+-How it fits into the larger geologic history of True Polar Wander (TPW) and glaciation.
+-Its implications on modern global warming and Climate Change models.
+
+Under construction from this point on….
+What are the Ice Ages
+
+Although it’s well known to most, the Ice Ages refer to periods in Earth’s history when large parts of Europe & North America were covered in continental ice sheets and glaciers. Early scientists assumed these periods were characterized by significant drops in global temperatures which led to the expansion of ice across these continents. The terminal limits to these glaciers left large heaps of earth called terminal moraines which were noticed and mapped out by early geologists Study of these deposits eventually showed that the most recent and prominent ice age, often called the Last Glacial Maximum, occurred approximately 20,000 years ago.
+
+Ice ages are part of Earth’s long-term climate cycles, influenced by various factors such as changes in the Earth’s orbit, axial tilt, and the distribution of continents and oceans. These changes affect the amount of solar energy reaching the Earth’s surface, leading to cycles of glaciation (when ice sheets advance) and interglaciation (when ice sheets retreat). The Milankovitch cycles, which describe the variations in Earth’s orbit and tilt, play a significant role in these processes, causing shifts in climate over tens of thousands of years.
+
+During an ice age, large ice sheets cover much of North America, Europe, and Asia. The growth of these ice sheets significantly impacts the global environment. Sea levels drop as more water is trapped in ice, exposing land bridges that allow species to migrate between continents. The Earth’s climate becomes cooler and drier, with vast areas transformed into tundra and steppe ecosystems. These environmental changes also influence the evolution and distribution of plants, animals, and early human populations.
+
+The current period, known as the Quaternary Period, began around 2.6 million years ago and includes several glacial and interglacial cycles. The Holocene Epoch, which started around 11,700 years ago, marks the end of the last ice age and the beginning of the current interglacial period. Human civilization has developed during this relatively warm and stable climate.
+
+While the Earth is currently in an interglacial period, scientific evidence suggests that future ice ages are possible, depending on long-term climate trends. However, human activities, such as the burning of fossil fuels, are significantly altering the Earth’s climate, potentially delaying or altering the natural cycles of ice ages.
+Scrutinizing the predominate explanation
+
+Central Antarctica really is a frozen desert. The Amundsen-Scott South Pole Station, located in the middle of Antarctica typically records only about 0.5 – 3.1 inches of snow (water equivalent) per year. Most of its snow accumulation there is often blown in from the coastal regions where snow fall can be as high as 15–25 inches a year. (Or it falls as frost-like ice crystals instead of snow) The continent as a whole averages only 6 inches of snow a year, and yet still has managed to accumulate 1 to 3 miles of ice over the last 14 million years (5,000-13,000 feet of ice). Compare that to Fairbanks in the center of Alaska which averages around 45 inches of snow a year but zero glacial accumulation — and you can see how its not impressive snowfall totals that form continental glaciers but consistently cold summer temperatures low enough to facilitate less snow melting than gains.
+
+As anyone whose spent much time in alpine environments knows. Its the night time temperatures that dictate when the snow and ice is about to begin its rapid summer melt. Glacial science is complex, but as a general rule, if you want to grow a glacier, all you need is ANY snow and temperatures which are consistently BELOW freezing in the accumulation zone. Places like Prudhoe Bay or Fairbanks Alaska with summer night time temperatures of 40°F to 50°F are simply not cold enough to grow or maintain glaciers, despite their high snowfall totals. On the other hand places like Casey or Esperanza Base in Antarctica, with summer night time temps of 20°F to 30°F, with smaller snowfall totals are.
+Comparison of Antarctica annual precipitation totals with Siberia. Studies such as Turner et al, or Vaughan et al, the interior High Plateau of Central Antarctica receives less than 24 mm (or less than 1 inch) of precipitation a year! And most of that falls in only a few large storms. Yet this region is still THE THICKEST PART of the Antarctic Ice Sheet!
+
+So how is it then that places like Illinois, New York, Denmark and North Germany with current summer night time temperatures up to 60-70°F, and latitudes of 46° (roughly 5,500 miles from the North Pole), were able to accumulate upwards of 7000-10,000 feet of glacial ice during the supposedly frigid Ice Age. And yet places like North Siberia or Northernmost Alaska, with current summer night time temps as low as 40°F and latitudes within the Arctic Circle (2,500 miles from the North Pole) were not? The current “frozen desert” explanation holds less water than the frozen air that many blame it on. Really, its borderline ridiculous. Especially when you consider places like central Alaska or the Kamachatka region of Eastern Russia. These regions fall at the tail end of strong North Pacific weather cells which massive amounts of moisture from the Pacific to these Northern Latitudes. (Just like Greenland, the North Sea & Scandinavia are at the tail end of the Caribbean Jet Stream which does the same in that hemisphere). To suggest that these coastal regions did not have access to enough moisture to build ice sheets is as unlikely and faulty as the argument that ice sheets need large amounts of snow to build in the first place!
+Average annual modern snow depth for Northern Hemisphere. Note in this figure from Hu et all, 2023 that the spatial distribution of high snow depths for the Northern Hemisphere doesn’t match AT ALL with the logic used by those claiming that Siberia’s lack of glaciation was because of low snow fall totals. Particularly it does not explain why a continental ice sheet did not accumulate in Northern Alaska, Eastern Siberia or the Tunguska Plateau.
+
+As a great example lambasting both these arguments, look at the annual snow accumulation portrayed from time-lapse satellite imagery of the Northern Hemisphere. The annual snow gains and losses follow latitude almost exactly with the only exceptions being high elevation areas like Greenland & the Rockies. The current winter Arctic desert conditions of Central Siberia make little to no difference in the general trend of annual snow cover. Despite the smaller amounts of snow, high latitude regions like Siberia, Northern Alaska and Arctic Canada are the first to gain snow, and the last to lose it each year (or high elevation regions like Greenland & the Northernmost Rocky Mountains which are cold enough to keep ice all year long).
+Image for post
+Current annual snow accumulation and melting occurs almost entirely according to latitude & elevation. Alaska, Siberia and Arctic Canada are the first to gain snow each year and the last to melt. This does not match at all with what we see of glacial accumulation during the Ice Age.
+
+See the same yearly snow and ice accumulation with sea ice added, and note how it corresponds almost entirely to latitude. Only elevation, as already mentioned, and the Gulf Stream current, which brings warm water from the South Atlantic to the North Sea affects the general latitudinal rule of snow accumulation—making areas of northwest Europe slightly warmer, a trend opposite of what we sea during the ice age.
+Image for post
+Earth’s snow and ice cover accumulates almost exactly according to latitude. Regional variations caused by mountains and sea currents tend to be small, when compared to the overall trends.
+
+Glacial geologists sometimes also use processes like the albedo effect, thermohaline oceanic currents and localized microclimates created by ice or large fresh water dumps into constricted oceans to help explain how continental glaciers could have been SO massive and globally lopsided during the Ice Age. As evident in the above snow accumulation maps, every one of these three afore mentioned factors obviously have only little effect on modern day glacial or ice sheet growth. Truly the lack of ice in the North Sea caused by the Gulf Stream is the only real example of a microclimate created by ocean currents which breaks the general latitudinal rule of snowfall and snow/ice persistence. And even its strong effects only change latitudinal snow persistence by around 15 degrees latitude—and even then the effect is restricted primarily to marine ice and coastal environments.
+
+Some have suggested that Greenland’s ice sheet existing at such a southern latitude is another exception to the latitudinal rule of snow persistence, however, I find those who see Greenland as a glacial anomaly, haven’t actually studied the elevation profile of the continent in order to see how the high the mountain ranges which literally surround the continent are (especially the southern tip of the continent which extends out of the arctic circle). These mountains are the obvious explanation for why Greenland has maintained an icecap post-Pleistocene at latitudes farther south than adjacent iso-latitudinal ice sheets. And were the formation of the Greenland ice sheet or its persistence predominately any of the other three reasons (albedo effect, oceanic currents or localized microclimates caused BY the ice) we would SURELY have had a similar Pleistocene ice sheet in the Kamchatka region of Eastern Russia or an existing persistent ice sheet somewhere in Siberia or Eastern Russia since it would have been subject to the same Albedo Effect — and to this day consistently has one of the coldest non-glacial microclimates on earth!
+Elevation profile of Greenland without Ice. Greenland’s average ice elevation (even of the central depression) is over 7,000 ft. Which plays a major role in limiting ice melting. However, even that is not enough to explain why the Greenland icecap has persisted at latitudes outside the arctic circle, while the North American & Scandian ice sheets did not. What DOES explain this phenomena is exceptionally high Mountains which circumvent the continent. Especially the high mountains which essentially fill the south part of the island continent which lies outside of the arctic circle.
+Growth & Melting of Ice Age Ice Sheets
+
+Now let’s compare the above snow accumulation animations to an animation of the glacial ice growth and retreat during the last ice age. Pleistocene snow and ice accumulation and melting followed an entirely different pattern than it currently does. In fact it is striking how obviously the ice sheets seem to point toward a geographic north pole in the region of Greenland.
+Image for post
+Image for postEvolution of the Eurasian ice sheets 20-10 ka as based on the DATED-1 time-slice maps and database. 50 years of Euraisan Glacial data using radiocarbon AND cosmogenic dates from the best available research. Credit Anna Hughes & UofBergen for animation.
+Evolution of the North American ice sheets 20-10 ka as based on large assemblage of radiocarbon dated data points from Stokes, et al (2016). See Reconciling records of ice streaming and ice margin retreat to produce a palaeogeographic reconstruction of the deglaciation of the Laurentide Ice Sheet
+
+There’s a lot of misunderstanding among the unstudied general public on exactly where the great northern Ice Sheets were and were not during the ice age. (There is near total agreement among trained glacial geologists). This public misunderstanding is mostly the result of poor illustrations based on imagination instead of science. Among experts the northern Ice Sheets and their terminal moraines have been well mapped & dated, with the features proving past continental glacier’s locations being well understood. In fact, in addition to the typical continental glacier telltale signs such as bedrock scour, eskers, outwash plains, drumlins and the like—proglacial lakes, which are lakes formed either by the damming action of a moraine during the retreat of a melting glacier, or in the case of continental icecaps, by meltwater trapped against an ice sheet due to bedrock abrasion and major isostatic depression of the crust around the ice are highly visible indicators showing the maximum extent of the thick margins of northern continental glaciers. Look carefully at the following two satellite images noting that the white line marks the average periphery or terminus of the Each of the hemispheric ice sheets, and the white transparent region symbolizes the continental ices sheets themselves. The labeled lakes are terminal “proglacial lakes” formed along the margin of the ice sheet where not only maximum snow fall typically occurs, but also where maximum melting and scouring occur (because weather systems typically drop their moisture most heavily on the peripheries of ice sheets which warm and cold air masses meet).
+Image for post
+North American Proglacial Lakes show the extent of the thick periphery of the Laurentian Ice Sheet during the Last Glacial Maximum of the ‘Ice Age’ (ice periodically extended past these extent in thinner more ephemeral lobes)
+Image for post
+Eurasian Proglacial lakes also show the extent of the thick periphery of the Finoscandian ice sheet during the LGM of the ‘Ice Age’
+A Few Definitions: Glacial Landforms
+
+Before we dive into an explanation of proglacial lakes, lets quickly go over the definitions of a few important glacial features.
+GLACIER: A glacier is any persistent body of dense terrestrial ice which moves under its own weight. The term was created from the Old French “glace” or “ice” with a Savoy dialect ending likely denoting movement. Sea ice and lake ice are not glaciers. Neither is a thin ice layer under a thick snowpack that hasn’t started to move and plastically deform. Really, by definition a glacier needs ice thick enough to begin to shape the earth beneath it.
+ICE SHEET: An ice sheet (which is often used interchangeably with the word ‘Continental Glacier’) is more specifically an area of glacial ice that covers land (not sea) to an extent greater than 50,000 square kilometers (or 20,000 square miles). That’s roughly the size of West Virginia, Costa Rica or Bosnia. This somewhat arbitrary acreage was chosen in order to differentiate Ice Sheets from smaller Ice Caps or alpine glaciers. There are only two Continental “Ice Sheets” on earth—Greenland and Antarctica.
+ICE CAP: An ice cap is a bit of a misnomer and thus often wrongly used. It is not the ice which “caps” the the poles of the earth. It is the ice which “caps” a mountain and usually feeds a series of glaciers around its edges. Ice caps are smaller than 50,000 square miles. However, the term “polar ice cap”, referring to the Antarctic Ice Sheet, Greenland Ice Sheet and Arctic Sea Ice is used so frequently in the media that it is generally recognized as an acceptable use… even though it is technically incorrect.
+APLINE GLACIER: An alpine glacier or mountain glacier is a glacier which persists because of the effects of lower temperature with higher elevation and exists only within the constraints of a canyon, valley or topographic low. Alpine Glaciers often originate from mountain Ice Caps or even Ice Sheets. The peripheries of the Greenland Ice Sheet & Antarctica Ice Sheets are riddled with Alpine Glaciers exiting from mountainous canyons to the sea. However, its important to note that in the context of my articles, Alpine Glaciers are differentiated from the Continental Ice Sheets because without the mountains from which these glaciers originate, they would have never existed. This in contrast to the Continental Glaciers which form at or near sea level as a result of latitude instead of elevation.
+PROGLACIAL LAKE: A proglacial lake is a lake which forms at the downhill termination of a glacier. Proglacial lakes at the terminus of Alpine Glaciers are far smaller than the MASSIVE proglacial lakes formed at the terminus of Continental Ice Sheets. Proglacial lakes form in large depressions caused by glacial scouring. In massive ice sheets proglacial lakes often form as a result of isostatic depression from the weight of the ice.
+GLACIAL SCOUR SURFACE: When ice sheets move over relatively level surfaces, inconsistencies in the hardness of the bedrock create a distinct topography of lakes and linear erosional features called striations. In the case of Alpine Glaciers, these features can be small — ranging in size from a few centimeters to tens of meters. With Ice Sheets, however, these lakes and striations are often hundreds of meters or kilometers long and visible from space. Glacially scoured topography is one of the most obvious ways geologists know where a continental Ice Sheet existed. In places like the Canadian Shield or Scandinavian Shield the glaciers left a VERY distinct topography where nearly ALL topsoil and recent geological layers have been scoured away, leaving behind a distinct landscape of lakes, old bedrock and exposed linear features matching the movement of the ice mass.
+DRUMLIN: A long, low hill of sediments deposited by a glacier. Drumlins often occur in groups which are referred to as drumlin fields. The narrow end of each drumlin points in the direction of an advancing glacier.
+ESKER: A winding ridge of sand deposited by a stream of meltwater flowing underneath the retreating glacier.
+KETTLE LAKES: Lakes which form from chunks of ice left behind from the retreating glacier.
+GLACIAL PLUCKING: Plucking, also referred to as quarrying, is when a moving glacier exploits pockets of poorly consolidated bedrock or sediment, ‘plucking’ out a depression which later often forms a lake or pond in the substrate. Plucking is a process which helps to create distinctive Glacial Scour surfaces.
+THERMOKARST/PERMAFROST LAKE: Often confused with kettle lakes or glacial landforms, Thermokarst lakes ARE NOT glacially formed! Also called a permafrost lake, thaw lake, tundra lake, thaw depression, or tundra pond, it is a body of freshwater, usually shallow, that is formed in a depression formed by thawing ice-rich permafrost in a tundra environment. They are very prevalent in Northern Alaska & Siberia. A key indicator of thermokarst lakes is the occurrence of excess ground ice with soils having an ice content greater than 30% by volume. They commonly form in ancient ‘oxbow lakes’ and deltaic deposits and form as pockets/aquifers of gravel freeze and thaw— both heaving/elevating the surface of area of greater groundwater content (causing surface erosion) and simultaneously collapsing the underlying substrate from the weight of the ice. (Chemical dissolution of underlying soils can also come into play–thus the ‘karst’) When this pocket of ice melts, a thermokarst or tundra/permafrost lake is left in its place. They are differentiated from glacial landforms by their shape, sediment composition and absence of any other accompanying glacial landform.
+
+Once you understand the basics of these glacial features, its easy to simply use Google Earth to explore the regions shown above to make your own conclusions concerning the location of the Pleistocene Ice Sheets. I literally have not shared this with another individual who is even moderately trained in recognizing the preceding glacial landforms who has not come to the same conclusion that the location of Pleistocene Ice Sheets and absence of Glacial landforms in Northern Alaska and Siberia seems hard to explain without evoking some type of True Polar Wandering event. The difficulty and debate comes in when geologist try and decide, how on earth a True Polar Wandering event could have occurred in this short timeframe! These types of events become VERY debatable & problematic for professional scientists when attempting to use any type of catastrophism to explain. Why? I’ll explain in the next section, but first lets look at a satellite images to solidify in our minds the exact location of the Pleistocene ice sheets.
+Close up Google Earth image of the glacial scour surface in Saskatchewan Canada. Linear scour plains, now largely filled with lakes show the direction of movement in the ancient Ice Sheet.
+Zoomed out Google earth image showing the relationship between the glacial scour surface and the extent of the Ice sheet as well as the large proglacial lakes which formed on its periphery.
+
+.
+True Polar Wander as a Mechanism for Rapid Deglaciation
+
+Both gradual and relatively rapid true polar wandering events are well established in paleomagnetic data throughout the geologic record. However, established methods used for dating the paleomagnetic evidence for these events has generally yielded time frames much greater than my hypothesized ~20 degrees of movement in >3000 years.
+
+True polar wander is an known effect of non-symmetrical objects with multiple moments of inertia also known as intermediate axes. Because of the equatorial bulge and large mantle plumes, the mass distribution of the Earth is not spherically symmetric, and the Earth has three different moments of inertia axes. The axis around which the moment of inertia is greatest is closely aligned with the current rotation axis (the axis going through the geographic North and South Poles). A second axis is near the equator through the equatorial bulge. A third is theorized to also cross the equator at a right angle to the second, although mantle plumes and crustal imbalances from mountains or ice could cause it to locate elsewhere. However, if the moment of inertia around one of the two axes close to the equator becomes nearly equal to that around the polar/rotational axis, the constraint on the orientation of the object (the Earth) is relaxed. Even slight imbalances can make the Earth (both the crust and the mantle) slowly reorient until one of the second moments of inertia moves to the rotational axis or North Pole, with the axis of low moment of inertia being kept very near the equator.
+
+This effect is explained in detail in the following Veritasium video on The Bizarre Behavior of Rotating Bodies
+
+Paleomagnetic evidence for True Polar Wander is further explained in relation to paleomagnetic data in this video lecture by Dr. Trond Torsvik (CEED, University of Oslo, Norway) who has worked on paleomagnetics for nearly three decades.(TPW explanations start at minute 38:16)
+
+Note that the above physics principles are remarkably similar to the Larmor Precession of atomic nuclides and might have something to do with the true relationship between true polar wander and the precession of the equinoxes as I explain a bit in my article ‘Is the Orbit of Jupiter related to Solar Cycles‘ .
+
+As mentioned above, earth’s secondary moments of inertia are not only caused by the planets equatorial bulge but also large mass imbalances from plumes in the mantle seen by gravity anomalies in seismic readings. Many studies have been published mapping out and visualizing the structure, shape and location of these mantle plumes.
+See ‘Pulsing Mantle Plumes: causes and Geological Consequences‘, Research School of Earth Sciences, ANU. Or the wiki article on mantle plumes for more info.
+
+Nothing about True polar wandering, is controversial or unaccepted by geologists, geomorphologist and paleomagnetism researches in the mainstream scientific community. What IS controversial is rapid true polar wandering events spanning timeframes of less than a million years or so. Certainly my timeline of a few hundred to a few thousand years for a true polar wandering event will evoke debate. Toward the end of his life Albert Einstein appears to have been thoroughly convinced by many of Charles Hapgood’s arguments regarding rapid pole shift and perhaps even catastrophe. Einstein wrote in the foreword to Hapgood’s book, Earth’s Shifting Crust, “in a polar region there is continual deposition of ice, which is not symmetrically distributed about the pole. The earth’s rotation acts on these unsymmetrically deposited masses and produces centrifugal momentum that is transmitted to the rigid crust of the earth.” For Einstein and Hapgood, the very off-center weight of the northern ice sheet itself seemed a plausible mechanism to cause a rapid pole shift. Geologist (including myself), however, are not convinced. Not only did Hapgood’s brand of catastrophism seem too much like creationism, It simply did not explain the configuration of mid-oceanic spreading ridges, marginal continental subduction zones with their associated volcanic arcs and constant earthquakes, as well as evidence for the slow uplift of so many of earth mountain chains as well as Wagner’s Plate Tectonic Theory did. Nor does it consider the science of True Polar Wandering. Thus Hapgood’s theories were dismissed and discarded to await a future date when a new group of scientist more removed from the nineteenth and twentieth century passionate debates between uniformitarians and creationists, could relook at the evidences of Hapgood & Einstein and see if perhaps there was a combination of uniformitarianism and true polar wander that could explain the many arguments given in Hapgood’s work.
+Left: Illustration from William Sager & Anthony Kopper’s Science Magazine article, ‘Late Cretaceous Polar Wander of the Pacific Plate: Evidence of a Rapid True Polar Wander Event.’ Where they find evidence from 40Ar/39Ar dates suggest a rapid wander event of 3 to 10 degrees per million years during the Late Cretaceous. Another has been proposed for the Jurassic by Muttoni & Kent, 2019. see counterargument) Right. Fascinating paleomagnetic study by William Sager from University of Houston titled ‘Divergence Between Paleomagnetic and Hotspot Model Predicted Polar Wander for the Pacific Plate with Implications for Hotspot Fixity’. (Found here). Using the Hawaii hotspot as a fixed reference point, this paleomagnetic study from the Javan Plateau showed the APW, North Pole moving within the Greenland and North Sea region since at least the Late Cretaceous. (commentary found here)
+Monster TPW Event
+
+(Above. from The drift history of Adria and Africa from 280 Ma to Present, Jurassic true polar wander, and zonal climate control on Tethyan sedimentary facies Muttoni, et al, 2013)
+Apparent polar wander paths (APWPs) for paleomagnetic data from India, Australia & Antarctica. from Wu, et al, 2014
+
+My illustration showing pole locations since the cretaceous.
+
+TO DO: Make a diagram here using the data from the above Sager pole location map, but showing it zig zag its way back and forth a bit better (in a processing 8 pattern like Atum rappelling apep in Egyptian book of Gates) with a proposed track all the way from parallel with England to the Pole.
+
+-the arguments for uniformitarianism are multitudinous and convincing. From the astronomically controlled varves of many formations across the earth. To the timespans likely needed for evolution. To the river systems which are able to continue their way cutting deep passes into raising mountains.
+
+-there are however many scattered instances of limited catastrophism as well though. Extinction events and the likely catastrophic comet impacts that caused them. Rapid climatic events like the younger dryas period and late Holocene climatic optimum/warming.
+
+.
+
+TO ADD/REWRITE INTO PAPER.
+
+-Ice ages are nothing like we’ve supposed. They are not coming and going to any large degree. They began to form at the Eocene/Oligocene transition in BOTH the arctic and Antarctic when the Arctic circle was over Greenland (and possibly a few times before since the Cretaceous) and have persisted ever since with short ‘interglacial’. They were caused and ended by the location of the pole, which slowly wanders as a result of TPW driven by inertial forces caused by changes in polar precession. They began with the opening of the Atlantic when Greenland and Scandinavia separated in ~30 mya.
+Cenozoic Global Reference benthic foraminifer carbon and oxygen Isotope Dataset (CENOGRID) from ocean drilling core sites spanning the past 66 million years. (See Westerhold et al, 2020) (draw lines showing how the pole during this is drifting northward it latitude skewing the values.
+Another oxygen isotope graph showing the recent 5 million years in a bit clearer detail. (Zachos et al, 2001 & From Lisieki et al, 2005) Note the Zachos paper is an incredible resource.
+
+-Occilations for modern time periods also show JUST AS LARGE of delta/changes in oxygen isotope values. Easily showing 2% to 3% changes in isotope variances. See Knudsen et al, 2011. Figure 4
+
+-Oxygen Isotope values CHANGE WITH SEASON & LATITUDE. That means that as the plates move and the pole drifts northward, the oxygen isotope values change slightly as well. Particularly as you approach the Arctic circle (as you can see from this article, Nakamura, et al, 2014) Note that studies like Hutchinson, et al, 2021, show that Oxygen isotope values can vary from 1 to 2.5% depending on latitude. So when episodes of rapid True Polar Wander occur, it shows as an abrupt change in the oxygen isotope values (such as the Eocene/Oligocene Transition) [find an even better illustration with 6 or 7 locations at different latitudes]
+
+-So How ON EARTH did we get convinced that 3-4% benthic oxygen18 isotope ratios means a glacial/interglacial? Look at figure-1 in this article (shown above). Glaciation in Antarctica started at 2%. If you look at the hot house/ ice house transition in the greater geologic record you can see that the benthic oxygen18 isotope ratios for glaciation/deglaciation in the Carboniferous/Permian to the Cretaceous varies from -2% to -5%, not 3 to 4%.
+Close examination of datasets used for Isotope curves shows disparate datasets yielding results FAR less straight foreword than suggested after data corrections/manipulation. (From ‘Ocean temperatures through the Phanerozoic reassessed’, Nature, 2022, Grossman, et al.)
+
+Note the difference between uncorrected ice core data from Volstok or Dome C, vs. corrected data.
+a, δD, averaged over 3.85-m sections. b, Grain radius, measured approximately every 10 m. c, Dust concentration—below 787 m, there is one sample every 5.5 m; above that, one sample every 1.5 m. d, Electrical data (as discussed in the Methods), in 1-m averages. Termination V is marked by an arrow in a
+
+a, Insolation records4. Upper blue curve (left axis), mid-July insolation at 65° N; lower black curve (right axis), annual mean insolation at 75°S, the latitude of Dome C. b, δD from EPICA Dome C (3,000-yr averages). Vostok δD (red) is shown for comparison1 and some MIS stage numbers are indicated; the locations of the control windows (below 800-m depth) used to make the timescale are shown as diamonds on the x axis. c, Marine oxygen isotope record. The solid blue line is the tuned low-latitude stack of site MD900963 and ODP6773; to indicate the uncertainties in the marine records we also show (dashed red line) another record, which is a stack of seven sites for the last 400 kyr but consisting only of ODP site 677 for the earlier period2. Both records have been normalized to their long-term average. d, Dust from EPICA Dome C.
+
+Overview:
+https://www.nature.com/articles/s41598-022-11493-1/figures/1
+https://www.nature.com/articles/s41598-022-11493-1
+Raw Data:
+https://www.researchgate.net/publication/331398373_Seawater_Temperature_and_Dissolved_Oxygen_over_the_Past_500_Million_Years/figures?lo=1
+https://www.researchgate.net/publication/331398373_Seawater_Temperature_and_Dissolved_Oxygen_over_the_Past_500_Million_Years
+
+
+-This precession is the primary cause of plate movement and true polar wander
+-True polar wander is (define)
+-Its a lot like the X principle of a top, or the Y principle of an atom in an electric field.
+-The precession was likely begun and periodically altered by a combination of bolide impacts and electric field variations.
+-random bolide impacts and changes in the solar and galactic field strength change our processional amplitude and timing
+-The Oxygen isotope variations we see in Pliocene and Pleistocene have been misinterpreted at glacial cycles. They are not! The differences seen in pre-Pliocene vs post-Pliocene oxygen18 swings has to do with older/deeper material being compressed to a degree that flattens the curve. Show how summer/winter variations or secular variation like we’ve seen in the last 2000 years match the variation we see in the Pleistocene.
+
+Compare these:
+https://www.nature.com/articles/s41598-022-11493-1
+https://www.science.org/doi/10.1126/science.1221294
+To these: !!!! (make an illustration of this!!
+https://www.sciencedirect.com/science/article/pii/S0277379122005613
+https://www.sciencedirect.com/science/article/pii/S0277379122005613#fig5
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7614327/
+(find a better one from more like 7000 BP to present. Or 20,000 BP to present.
+
+TODO: Put the pole locations at different ages on this image as well as making an outline of North America and showing it move away from Europe and explain how ice age starts when the opening begins, and that the pole hasn’t drifted north hardly at all since 20mya, its just moved mostly west with North America. Show another location with the plate ages and more importantly, the Greenland Transverse Fault (which matches with the San Andréa’s Fault (starting 35-28 million years ago) but really accelerating with the swallowing of the Farallon plate/spreading ridge 20mya (draw spreading ridges on this image!)
+
+-Add a graph showing the likely velocity of change for the pole shift. For instance, if it averaged 0.5 mph then it would take 2000 hours or 83 days to happen. I’m proposing something closer to 200 years. Which would be a speed of 0.00058 mph basically inperceptable.
+
+
+.
+
+.
+
+Thick Atmosphere Theory
+
+This theory doesn’t hold up. First off, because dragonflies and bees would not have been able to evolve with their delicate wings in the Paleozoic like they did. Its more likely that pterosaurs had wings and feathers like modern birds. Although debated there seems to be more and more evidence of this being found. And they weren’t really that big. The biggest full fossil found had a wing span of 8.5 feet. Smaller than a modern condor or albatross. Must have been temp that changed the density of the mantle NOT an ancient thick atmosphere.
+
+UNDER CONSTRUCTION FROM THIS POINT ON:
+
+— add a sat image of Scandinavia scour surface. add a pic of thermokarst and how it is NOT a glacial landform.
+
+NEXT section. Title: The Catastrophism/Uniformitarianism Debate. The debate is well documented. Until the early 1900’s it was the predominate explanation for earth processes. However, with time uniformitarianism won out. Why? Because it did a better job of explaining observed phenomena. However, because deeply held religious beliefs were often involved the debate had a tendency to polarize individuals into extreme camps. Instead of looking objectively at evidence and creating models based solely on logic, many individuals felt that had to take an “all or nothing” approach to their chosen camp. Now that decades have gone by, and people have had a chance to disconnect themselves from the emotion of this debate, a more rational middle ground is emerging. Somewhat catastrophic events such as the asteroid impact hypothesized to have caused the dinosaur extinction or to have caused the Younger Dryas cooling event during the Ice Age are becoming mainstream. Articles on ancient rapid true polar wandering are sprinkled throughout the scientific literature.
+
+I’ll finish this article when I have time. For now the rest is just notes.
+
+TO DO:
+-most true polar wandering events proven in the literature occur on timetables of at least a million years. To rationally suggest a rotational axis change of 25 degrees latitude within just a few thousand years will require not only a believable mechanism, but physical calculations about how this could be accomplished without tearing the earth apart or causing overwhelming catastrophe with the changes in angular momentum & inertia.
+-talk about how this was a debate back in the 50’s and 60’s, especially with charles hapgood’s books (as well of velikovsky). But a believable mechanism for rapid pole shift was not conceived. Even though Einstein himself wrote the foreword to Hapgood’s book, and supported his theory that the weight of the ice itself destabilized the axis, the whole premise was too extreme, and smelled too much of biblical catastrophism for the scientific community to accept.
+
+Talk about the comet impact theory for the Dryas Minima and how this combined with imbalances caused by the iceland mantle plume seem to some of the best explanations for a cause of the TPW
+Image for post
+If earth’s axis were to wobble, this is what it would look like?
+
+Paleomagnetic Reconstructions
+Image for post
+
+Our current understanding of where pole is is based on several points of evidence….. POINT HERE NEEDS TO BE THAT RECONSTRUCTIONS ARE ONLY ACURATE TO 20 DEGREES, GIVES A GREAT BALLPARK FIGURE BUT HORRIBLE EXACT LOCATION. Be sure to reference this page, that shows how off CURRENT measurements are. http://all-geo.org/chris_rowan/2014/01/paleomagnetism-lab-testing-the-gad-hypothesis/
+Image for post
+
+Possible Causes
+
+Some are cyclical, some are random. Make an illustration showing the core slightly off center to show how earth would now wobble, and then stabilize over time.
+
+    Gravitational effects of sun and Jupiter on moon and equatorial bulge (same things that cause precession-go into detail on how this is likely ALSO what creates the earth’s and suns magnetic fields, and same forces cause sun to flip and probably cause earth’s to flip too). There’s a good amount on the correlations between Jupiters 11 year orbit and the suns 11 year solar cycle (with Saturns gravitational effects causing the half year difference in timing). Note this important fact. The moon is NOT orbiting earth’s equatorial plane, its on the SUNS equatorial plane (2–5 deg off), so the combined tidal forces of the moon and sun pull earth’s core double and unevenly.
+    Bolide/asteroid impacts. (this is a big one, partly random and partly cyclical because arms of galaxy hold more debris. The proposed impact for the younger dryas is a great possibility as one of many)
+    Gravitational waves (also a big one, because it literally warps space time and compresses the earth longitudinally. can be both cyclical and random between those coming from center of galaxy and those caused by supernova). Reference my article on how these are responsible for the arms of our Galaxy, and how when we cross these waves every 4000 years or so, it cause slight wobble events. (which if there is enough built up instability triggers a TPW event).
+
+-TPW “excursions” caused by “destabilization events”. The evidence for glaciation in Patagonia and Siberia is a huge problem. It seems to suggest that the pole must have gone from north of present to greenland and back! How is that possible? And it doesn’t match well with any polar wandering data (of course those kinds of anomolous data points are often thrown out of studies). And why is Antarctica’s glaciation so much older than the north hemisphere? South-East Antartica should have the oldest ice. North-East Antartica & the Penensula should have the youngest. Does this match with data? See evidence for each area’s glaciation here:  http://www.science.earthjay.com/instruction/HSU/2015_fall/GEOL_553/literature_sources/ehlers_gibbard_2007_cenozoic_global_glaciation.pdf — — -this what you have to work with. So this idea solves it. THE CORE is more dense, it gets pulled by gravity more and destabilizes the earth. BUT the equatorial bulge resists the dif spin, causing mantle to differentially rotate (making the mag field by the way). but every 100,000 radiocarbon years or so the destabilization hits a tipping point and the SLOW TPW looses balance and the earth goes for a TPW trip. For the last 3 million K/Ar years this has been TOWARD the “North Atlantic gravity anomaly” (there also one north of Australia likely playing a part). And asteroid hitting the moon might just knock its orbit eccentric enough to affect tidal forces on the mantle.
+
+Evidence Against Catastrophism
+
+Be sure to add a whole section here on what I see in river systems and orogenic uplifting and folding on the Colorado Plateau. Its important to see the powerful evidence for uniformitarian orogenesis in earth’s river systems which traverse folded strata. For instance, even the smallest tributaries of the Colorado River cut through massive folds which obviously have risen slow enough over their evolution to avoid rerouting of the river systems. Only a few examples such as the Unaweap Canyon through the Uncompahgre Plateau show evidence of rapid enough uplift to reroute the river. This suggests to me that although these pole shirts are occurring fast in “geologic time”, they are not occurring fast enough to catastrophically reorganize plate motions.
+
+Now this is where it gets crazy
+
+Rapid polar wander events are fairly well documented and accepted in the Scientific literature. Just one of many examples is the Jan 2000 issue of Science which published evidence of “Late Cretaceous Polar Wander of the Pacific Plate: Evidence of a Rapid True Polar Wander Event“. These types of events are typically hypothesized to occur over about a million years. And of course debate will always exist as to whether these perceived rapid polar wandering events are simply movement of the magnetic pole, instead of true polar wandering of the rotational pole or axis (since in the geologic record it is difficult to tell the difference between the two). Debate also rages as to which reference system is the most reliable, as every continent and seamount system gives a different APW (apparent polar wandering) path since the plates all move separately from each other over time. However, to me the most interesting data point is the lack of Paleozoic strata under the entirety of the Pleistocene polar ice sheet! Where did it go? Are we to believe as some suggest that the entirety of the Canadian & Scandian Shields were above sea level for the last 500 million years in a configuration matching exactly with the ice sheet. That seems entirely impossible to me. Or are we to believe that the Pleistocene Ice Sheet removed/eroded essentially ALL Paleozoic strata? Although far more likely than the first possibility, this still seem unlikely to me. So then where did it go? When I see that the seamount reference frame shows an APW (apparent polar wandering) path matching closely with the location of the radiocarbon dated Pleistocene Ice Sheet it simply seems more likely to me that some type of ice sheet actually existed in that area for far longer than the Pleistocene. Perhaps more likely since the Eocene thermal maximum, when the Antarctic ice sheet is known to have began growing (or possible even into the supposedly “hot house” Cretaceous). Looking at the data, I cant get past the most obvious answer, that a Scandian & Canadian Ice Sheet existed in these “ice age” locations for much of the past 45-120 million years, and that this explains why there is essentially ZERO Paleozoic sediment in those locations. And that some kind of mechanism (likely a mantle plume) actually has had the rotational axis shifting back and forth from at least the end Eocene — causing along with it some type of overlap in radiometric dates. (
+(A) Paleomagnetic poles and the Pacific APWP. Small filled circles denote seamount paleomagnetic poles with normal polarity; open circles, reversed polarity. Crosses denote poles from undated, reversed-polarity seamounts, possibly formed during Chron 33r (21). Open squares connected by heavy gray lines show mean paleomagnetic poles defining the APWP (9–11). Ages (Ma) are given in italics, and surrounding ellipses are 95% confidence regions. Arcs labeled “Detroit” (18) and “Wodejebato” (19) are paleo-colatitudes from Chron 33r–age ODP cores. (B) Pacific polar wander path (heavy line) derived from seamount paleomagnetic poles. Ages and confidence regions are shown as in (A); the eastern and western 84-Ma poles are denoted 84E and 84W. Filled circles show the predicted polar wander path, with points at 5-My intervals, derived from a plate versus hot spot motion model (7). TPW is the favored explanation of much of the difference between observed and predicted APWPs. (from Late Cretaceous Polar Wander of the Pacific Plate: Evidence of a Rapid True Polar Wander Event by William W. Sager and Anthony A. P. Koppers. Science 21 Jan 2000. Vol. 287, Issue 5452, pp. 455-459)
+Locations of seamounts used in this study and paleoequator change implied by shift in 84-Ma poles. Filled (normal polarity) and open (reversed polarity) circles show the locations of seamounts used in calculations; crosses show possible Chron 33r–age seamounts dated by magnetic polarity (21). Two transverse circular arcs show paleoequator locations inferred from the two 84-Ma poles. Arrows show the sense of rotation (old to young). The longitudinal circle is the locus of points that describe potential rotation poles that would bring the two paleomagnetic poles (triangles) into coincidence. (from Late Cretaceous Polar Wander of the Pacific Plate: Evidence of a Rapid True Polar Wander Event by William W. Sager and Anthony A. P. Koppers. Science 21 Jan 2000. Vol. 287, Issue 5452, pp. 455-459)
+Figure 1. Pacific apparent polar wander path.  Red stars denote pole positions defining the most likely APWP (Sager, 2006; Beaman et al., submitted), shown by the blue, heavy dashed line.  Poles are surrounded by 95% confidence ellipses and labeled by age in Ma.  Blue star denotes Ontong Java Plateau pole, which is considered anomalous (Sager, 2006).  Green squares show poles determined from magnetic lineation skewness (73, 76, and 81 Ma poles from Petronotis & Gordon (1999), Vasas et al., (1994); 139 and 142 Ma poles from Larson & Sager (1992)).  The Late Cretaceous skewness poles are considered anomalous (Beaman et al., submitted).  Thin dashed lines show the predicted polar wander path from plate/hotspot motion models of Duncan & Clague (1985) (purple with triangles) and Wessel et al. (2006) (blue with dots).  Triangle and dot symbols show predicted pole positions at 5-Ma intervals, labeled every 10 Ma.  Red lines show offset between paleomagnetic and hotspot model predicted poles.  Inset sketch map shows interpreted phases of polar wander.  Plot is an equal area map.  Numbers are pole ages in Ma.  Figure from Sager (in press). Click here or on Figure for enlargement. (From Insight into Motion of the Hawaiian Hotspot from Paleomagnetism)
+Spherical projections with the major continents in their present day configurations and the Apparent Polar Wander Path (APWP) curve of Africa in West African coordinates (McElhinny et al., 2003; Besse and Courtillot, 1993; 2003). The remagnetized pole position for the Enticho Sandstone at Negash is shown by star symbol in the in-situ coordinate and by a full diamond symbol in the tectonic corrected coordinates; the corresponding 95% confidence circle is given as darken shades. The in-situ coordinate has smaller 95 percent confidence circle and the in-situ mean pole position is consistent with the current geomagnetic field position (geographic north). In the tectonic corrected coordinates, the pole gets removed away both from the north geographic pole position and the APWP curve. (from Paleomagnetic dating of Enticho Sandstone at Negash locality Tigrai region, Northern Ethiopia, Implication for Quaternary Remagnetization.)
+Apparent polar wander path (APWP, poles with their A 95 confidence angles) for Gondwana (for 500250 Ma, after Amenna et al., 2014 and for 240210 Ma, after Domeier et al., 2012) and for Africa (for 2000 Ma after Besse and Courtillot, 2002) and Late Carboniferous (Henry et al., 1992; Derder et al., 1994,2001a,b; Amenna et al., 2014) and Early Permian (Derder et al., 1994) African paleomagnetic poles, from the Illizi and Murzuq basins, in North-West African coordinates (Anai pole, obtained in a formation of disputable age, was used for paleomagnetic dating-Henry et al., 2014).
+Bedrock Geology of the regions covered by Pleistocene Ice Sheets.
+
+Unraveling the mystery. A few other really significant pieces of evidence which all seem to come together & support not only rapid true polar wander, but a large enough climatological shift to affect radiocarbon (likely from a changing magnetic field)
+1. The fact that the rise of known civilization occurs completely counter to what modern climate suggest we should see. Modern farming productivity and thus population and settlement is NOTHING like that of the ancient world. Why did civilization rise in Sumer/Akad, Egypt and the Middle East, when modern climates make these HORRIBLE places to grow civilizations?! (compared to the Modern age population centers of Europe, China & the Eastern US.) All sorts of theories abound, but all of them are lacking in common sense. Yet when you look at the latitude lines from the last “Pleistocene Ice Age”, Egypt and the Middle East would have been the “Europe” or temperate region of the ancient world! (30-50 deg latitude). In fact comparing the amount of climate change which would have occurred in different regions of the world corresponds beautifully with where ancient civilizations persisted. Southern Africa & lowland S. America for instance would have suffered enormous devastating climate swings which might explain why no major ancient civilizations seemed to have evolved in those locations. On the other hand the climate change in places like Anatolia, and the Iranian Plateau would have been far more minimal. Which perhaps explains why this is where we find some of the most ancient cities in the world.
+2. Testing this hypothesis we would of course expect to find evidence of radiocarbon anomalies, and this is perhaps the most convincing evidence I see of a TPW event. There is a very strange ‘repeat’ of history seen in the progression of Middle Eastern civilization. (make a bunch of illustrations and timelines of the repeat between radiocarbon dated civilizations— and how crazy obvious it is once you see it.)
+The Ethical Skeptic Article
+
+If you’ve made it through my notes long enough to read this, I highly encourage you to check out the unsigned article done by ‘The Ethical Skeptic‘. Go read his article. Share it on your socials and give him props. His graphics building on similiar ideas as mine are spectacular. As are many of his mechanistic ideas. I’m not one who subscribes to the idea that the pyramids or sphinx pre-date or have been eroded by a regional or global flood, but I am entirely open to the idea that the many cultural flood stories (and especially the pole shift stories) could certainly have a basis in true history. I’m more inclined to believe the casing stone on the Great Pyramid were taken as building materials, and that if anything it was actually built AFTER the time of Ahomse as suggested by Herodutus. For more of my research on this topic, see my article here. I’m copying thise amazing illustrations incase the Ethical Skeptic site gets taken down, and I’d like to build on his ideas some time. (or even collaborate)
+Heat contribution from the core feeds into the mantle, avoiding the red-hued Large Low-Velocity-Shear Provinces under the south African continent (SAC-LLVP) and Pacific ocean (see Exhibits E and E2).6 As a result, these massive structures also become less dense as compared to the surrounding core-fed mantle.
+Moment Map of Earth’s Hidden Gyroscope – Three perspectives of the LLVP structures under Africa and the Pacific, along with a conceptual depiction of the axis of gyroscopic moment (thick yellow line) based upon the South Africa Cusp centroid of the African LLVP.
+South Africa Cusp Radial Center of Mass – 2021 tomography indicating the geographic position of the South Africa Cusp – Large Low-Velocity-Shear Province (SAC-LLVP). Please note that the red lines and annotations ‘Radial Centroid’ and ‘Meridian’ are our added highlights.
+The repeating cycle of core exothermic sloughing followed by subsequent endothermic accretion creates a repeating oscillation based on the variable strength of the geomagnetic moment of the Earth’s core (green annotation in Exhibit J2). This process operates through the Dzhanibekov effect and the Earth’s mantle’s gyroscopic angular momentum. We speculate that the process of moving from State 2, Gyroscopic Priority, back to State 1, Geomagnetic Priority, may involve a viscoelastic-mantle tectonic height readjustment and gradual settle-in process, however involving a relatively sudden cooling event at the point where the core recaptures its HCP-Fe lattice integrity.
+
+
+Mediated Dzhanibekov Oscillation with the rotational north axis cycling between 90° North (State 1) and 14° South (State 2) latitude (104 degrees) along the 31st East Meridian of longitude. The lever driving this cycle is the strength of the core’s magnetic moment. We currently rotate in State 1, with a strong-but-diminishing geomagnetic moment. The only thing in the video which differs from the hypothesis presented in this article is that the core of the Earth would not Dzhanibekov rotate with the outer rotational body (ORB = mantle + crust). It would continue to rotate as it does in State.
+
+Once again… I highly encourage you to check out the unsigned article done by ‘The Ethical Skeptic‘. Go read his article. Share it on your socials and give him props.
+Notes And References
+
+– A significant issue in suggesting smaller time frames to the Last Glacial Maximum lies in the time needed for reforestation of the region. In this article, pollen samples’ suggest trees existed in small pockets or refugia throughout glacial maxima periods.
+.Laura Parducci, et al. Glacial Survival of Boreal Trees in Northern Scandinavia, Science 335, 1083 (2012) https://www.researchgate.net/publication/221882445_Glacial_Survival_of_Boreal_Trees_in_Northern_Scandinavia
+
+-The DATED-1 glacial eurasian database. Probably the best source of exact eruasian ice boundaries available.
+Hughes, Anna, Gyllencreutz, Richard, et al. The last Eurasian ice sheets – a chronological database and time-slice reconstruction, DATED-1. Boreas Volume 45, Issue1. January 2016. Pages 1-45. 2015
+https://onlinelibrary.wiley.com/doi/full/10.1111/bor.12142
+
+– Eurasian glacial reconstructions going back to around 140ka
+John Inge Svendsen, Helena Alexanderson, et al. Late Quaternary ice sheet history of Northern Eurasia. January 2004Quaternary Science Reviews DOI: 10.1016/j.quascirev.2003.12.008
+https://www.researchgate.net/publication/223294900_Late_Quaternary_ice_sheet_history_of_Northern_Eurasia
+
+– Illustration from video of circular plate motion vectors going around an equatorial secondary axis from True Polar Wandering. Steinberger, B. Torsvik, T. Absolute plate Motions and True Polar Wander in the Absense of Hotspot Tracks. Vol 452| 3 April 2008| doi:10.1038/nature06824
+https://www.researchgate.net/profile/Bernhard-Steinberger/publication/5466242_Absolute_plate_motions_and_true_polar_wander_in_the_absence_of_hotspot_tracks/links/0fcfd5122024b06d8e000000/Absolute-plate-motions-and-true-polar-wander-in-the-absence-of-hotspot-tracks.pdf
+
+– Evidence from 40Ar/39Ar dates suggest a rapid wander event of 3 to 10 degrees per million years during the Late Jurassic/Early Tertiary. (see counterargument)
+William Sager & Anthony Kopper. ‘Late Cretaceous Polar Wander of the Pacific Plate: Evidence of a Rapid True Polar Wander Event.’ Science Magazine. Jan 21, 2000, Vol 287, Issue 5452, pp. 455-459. DOI: 10.1126/science.287.5452.45
+https://www.researchgate.net/publication/223779271_A_Late_Cretaceous_pole_for_the_Pacific_plate_Implications_for_apparent_and_true_polar_wander_and_the_drift_of_hotspots
+– Paleomagnetic study using the Hawaii hotspot as a fixed reference point, this paleomagnetic study showed the North Pole moving within the Greenland and North Sea region since at least the Late Cretaceous.
+William Sager. ‘Divergence Between Paleomagnetic and Hotspot Model Predicted Polar Wander for the Pacific Plate with Implications for Hotspot Fixity’. University of Houston, Draft 23 November 2006. Draft here. Published in “Plates, Plumes and Planetery Processses”, found here. http://www.mantleplumes.org/P%5E4/P%5E4Chapters/SagerP4AcceptedMS.pdf
+
+-11 year magnetic reversal of the sun tied to orbits of Jupiter, earth and (venus?) in new study https://www.eurekalert.org/pub_releases/2019-05/hd-tsf052719.php
+
+Best article to cite. Lots of great references. Study it! https://www.sciencedirect.com/science/article/pii/S0012821X1630749X?fbclid=IwAR1Y-bgol8Sd1IzmsfcsFALQ_2xzY_dnrHXnR8CZAJTTEOuAN2V2TeqQiuI#br0170
+
+-This page has some amazing gifs, illustrations, videos and ideas to use. especially the gif of an egg shaped spinning object righting itself, and the evidence of why Venus turned over. and some of the other gyroscope stuff. https://www.plutorules.com/page-41-tilt.html This similar page talks of how ‘rain forest like in new Zealand covered Antarctica at the same time https://www.bbc.com/news/science-environment-12378934
+
+-this wikipedia article talks about how the ‘poles’ were dominated by ‘ deciduous conifers’. whaaat? Conifers like Larch and Cyprus that loose their leaves and live in wet, not-too-cold enviros like Washington state. Its yet more evidence that what they think was artic, was not artic. https://en.wikipedia.org/wiki/Polar_forests_of_the_Cretaceous#Fossilized_forest
+
+-Evidence against current magnetic polar paths . This dinosaur is found in Australia and Antartica in the early cretaceous. scientist think this was in the antarctic circle at the time based on paleomag. This is great proof the paleomag is wrong. https://en.wikipedia.org/wiki/Leaellynasaura
+
+-Younger dryas north hemisphere cooling (mainly europe) didn’t affect new zealand. Glaciers there were retreating with vigo https://www.sciencemag.org/news/2010/09/deep-freeze-didnt-affect-southern-hemisphere. but Radiocarbon dating of this time interval is precarious because of C14 plateaux and, for marine organisms, because of the varying reservoir effects as a consequence of changing ocean circulation (Björck, 2007; Cao et al., 2007). https://www.sciencedirect.com/topics/earth-and-planetary-sciences/younger-dryas (looks to me that they see the younger dryas is regional, so they are guessing the c14 dates must be off and coming up with this ‘reservoir effects’ idea where they compensate…
+
+-evidence for comet impact at younger dryas, this is a great mechanism for what made the pole change direction at that time.. https://wattsupwiththat.com/2012/09/20/support-comet-impact-may-have-triggered-the-younger-dryas-period/
+
+Malankavitch cycle… one of three is ‘precession’ and might cause true polar wander because of gravitational forces of sun and Jupiter. (especially since they are binary system). The moon rotates obliquely so that affects things too. watch this and picture the sun torqueing irregularities in the mantle and equatorial bulge. https://www.youtube.com/watch?v=ty9QSiVC2g0 see also Larmor Precession.
+
+rework malankavitch calcs to show it could NOT give needed cooling, then propose mantle redistribution combined with gravitational pull from sun/Jupiter wobble (chandler wobble) to create true polar wandering as mechanism for both ice ages and plate movement.
+
+younger dryas (north america warming, Bonneville shrinking while Europe cooling lgm)
+
+Explore this: Even in more ancient geologic record, paleomagnetic reconstructions show that at least the magnetic pole (and likely true north pole) is all over the place through time. Comparing magnetic trace readings from different continents and oceanic plates show paths and sudden swings which cannot be accounted for with plate techtonics. These paths suggest that not only are the plates moving and separating over time, but the magnetic north pole (and presumably the true north pole with it) is moving. If we are to assume that the magnetic pole has historically been within 10–13 deg of the true north pole, we
+Share this entry
+
+19 replies
+
+    Larry Howard
+    Larry Howard says:
+    February 23, 2021 at
+
+    WOW OMG…I have always been fascinated by glaciers, and back in 1974 when I should have graduated with a degree in Geology and wanting to discover and prove that Idaho still had a small active mountain glacier! Somebody beat me two it, on Borah Peak; although there are possibly two more in the Pioneer Mountains!
+
+    Your article makes sense! IT JUST PLAIN MAKES SENSE! Someway, somehow the geographical North Pole wandered…some kind of catastrophic event…comet, meteor, massive solar flare….very obvious signs of advanced civilization worldwide!! megaliths structures) capable of carving / molding / moving
+    thousand ton blocks with micrometer precision! Modern science unable to explain or duplicate…WIPED OUT 10s of thousands of years ago!! I have ya bookmarked …your article, an amazing insight…I cannot unsee it because it just makes sense 🤔🤔🤔
+    Reply
+    Derek Cromie
+    Derek Cromie says:
+    February 28, 2021 at
+
+    This is not a mystery of the ancient past but of modern man “The Pole Shift that Sank Atlantis”
+    Reply
+        SteveGinGTO
+        SteveGinGTO says:
+        August 9, 2024 at
+
+        Derek, you are more right than you imagine.
+        Plato was not overimaginative about Atlantis. About 20 years ago a German scientist found it. And it was in a very vulnerable location. This article is on the right track, but it gets particulars wrong. One big question is why Earth had an ice cap that was not at the pole.
+        Reply
+            Derek Cromie
+            Derek Cromie says:
+            October 3, 2024 at
+
+            Hi Steve, thankyou for this. The survivors at the Atlantis outpost at Giza used the stars to determine the change to Earths Axis 10500 BC. The North American ice cap was centered on the old pole, it simply melted when the pole shifted to its current location. Atlantis is there to find :) I hope Lance continues his excellent work as so many academics shy away from this import study and he is so close.
+            Reply
+    JOHN F ALTHOUSE
+    JOHN F ALTHOUSE says:
+    July 22, 2021 at
+
+    If you would like to take a look at my website jfalthouse.com . I have been working the same problem from a different direction. I spent the last 40 years documenting the magnetic orientation of about a hundred ancient sites in the Americas, Europe, and Africa. I noticed that monuments built about the same time, orient towards the magnetic north pole where it was positioned at the time of that construction. Even better, multiple sites triangulate on a particular magnetic north pole position from sites of the same age, spaced thousands of miles apart.
+
+    I like Wesley Patten’s theory on what caused the ice caps to form, vanish, and re-form over the eons. My research seems to agree with his belief that the ice caps were created each time via an ice dump from space, two to five miles deep of ice in about six hours.
+
+    jack althouse RA NCARB
+    Reply
+    Matthew Gianelloni
+    Matthew Gianelloni says:
+    August 29, 2021 at
+
+    So, The crazy thing that my Geology professors tried to convince me of is that there was an ice sheet that covered as far south as Connecticut, but didn’t TOUCH Alaska! What?
+    Reply
+    guest
+    guest says:
+    August 19, 2022 at
+
+    I don’t buy it. You seem to be overthinking it. For a glacier to grow, it just takes a net gain of snow in a year. And for an ice sheet/glacier to remain it just needs to break even with snow gained vs lost. The Ice Age glaciers of North America and NW Europe were made possible by substantial winter precipitation AND low summer temperatures. But the low summer temperatures followed the snow buildup as opposed to the other way around. When you get a massive ice sheet pushing south, it manipulates the climate immediately south of it so that it becomes much colder. When moisture-laden winds blow in, the result is a large amount of snow dumped at the edge of the glacier, causing it to expand further and the process repeats.
+
+    This is important because eastern North America is bound by warm ocean currents in the Atlantic and Gulf of Mexico which bring warm moist air deep into the continent. It’s the same in NW Europe and the northern Pacific coast of Canada/US, all areas that had massive continental ice sheets. Warm moist air flowing into the outer boundaries of ice sheets during winter is necessary for the growth of these glaciers during Ice Ages.
+
+    And by the way, Kamchatka and southern Alaska WERE heavily glaciated back then and still are to a lesser extent now.
+
+    And why not Siberia? It was drier all year round compared to now but similar to now, the aridity was greatest during winter. And since these winters were so dry, no major snowpack built up by the time summer rolled around and it all melted. No snowpack=no large ice sheets in the north that could manipulate the climate and reduce summer temperatures further south=a vast unglaciated area that was a steppe-tundra. If Siberia and by extension East Asia were exposed to wetter winters, you can almost guarantee there would’ve been a large ice sheet extending into northern China and perhaps even Korea.
+
+    Long story short:
+    Cool summers, lots of snow in winter(Kamchatka/southern Alaska mountains)=Good for glaciers to form
+    Cool summers, small amount of snow in winter(central Antarctica)=Ok for glaciers to remain
+    Relatively warm summers, lots of snow in winter(Adirondack mountains, northern Japan)=Bad for glaciers to form
+    Relatively warm summers, very little snow in winter(Siberia)=Terrible for glaciers to form
+    Reply
+        Lance Weaver
+        Lance Weaver says:
+        August 22, 2022 at
+
+        I get how when you see something one way or are taught something your whole life its hard to change your thinking. I’ve been studying the arguments you give most of my life, and they really just don’t add up. They’re certainly possible. But just not very logical.
+
+        In my opinion, its these ‘microclimate’ arguments you are making that are over thinking it. But I address why these are so poor in the article. Hop on my app, and explore the areas and logic about what your saying in relation to both Alaska and EASTERN Siberia. Both these regions have warm moisture-rich currents which bring phenomenal amounts of precipitation into the regions. Yet neither of these regions had anything but mountain glaciers. Your logic on which areas were glaciated and which weren’t is entirely circular (even if only slightly more circular than the actual shape of the lopsided Pleistocene continental glacier ;)
+
+        We know where ice was and wasn’t so you just say “conditions were NOT right in north Japan or Manchuria…”, but if we knew there had been a non-mountain continental glacier there. You’d just say… “conditions WERE right.” But when you look at annual snow accumulation in those regions, you see how poor that circular reasoning is. A predictive model which didn’t already know the answer it wanted would NOT come to the same conclusions. Even central Siberia gets more snow than central Antarctica. Northern & central Alaska gets FAR, FAR more snow. Northeast Manchuria too. Yet none of these regions had substantial non-mountain glaciers and the only reasoning that is employed to explain that is circular reasoning.
+
+        Aaaaand, much like modern Greenland, and unlike New York, Britain or Scandinavia, regions like central Alaska or eastern Siberia have MASSIVE mountain accumulations zones which can serve as nucleation spots for the “glaciers create more glaciers” microclimate argument. But once again… they had NO substantial non-mountain glaciation during the entirely of the Pleistocene.
+
+        If New York and Maine had thousands of feet of ice extending down to sea level, reshaping Long Island and Cape Cod, then surely North Yukon, East Siberia, B.C., Oregon and all the way down to northern California should have too! But instead, the glaciers in those regions stayed up in the mountains and canyons and really didn’t substantially reshape terrain outside of the lower canyon lobes and high elevations. With your reasoning the entire north Sacramento valley should have been one big glacier, leaving substantial landform modifications. I mean SURELY, the cascades (which are north of the Laurentian south lobes) would have created a microclimate which made a truly MASSIVE west coast glacier bigger than the Adirondacks. But no.
+        Reply
+    Guest
+    Guest says:
+    September 6, 2022 at
+
+    This does not appear to be overthinking at all. The shields evidence is quite intriguing as are the positions of the proglacial lakes. I wouldn’t get hung up on the “how” regarding geoshifting of the poles, but more importantly keep focused on what the ice did and where it came from/went. It looks like there are competing thoughts on what was and was not continentally glaciated. That should not be hard to get past. There is no eastern Russian / Kamchatka / Siberian shield. Super odd… If indeed as you claim the north pole was somewhere over Greenland, then your thinking is validated again by the conditions in Antarctica. Greenland is antipodal to eastern Antarctica, but the geoshifting certainly would have had an impact on New Zealand and Southern Austraila? Look into that. Of course what no one mentions is that exposed landmass was nothing like it is today during the last glacial maximum. In fact sea level was 400 feet lower. Huge strike against the microclimate comments. Both the Alaskan and Siberian landmasses were far larger (and connected). Australia was also a much larger landmass – exposed land connected Indonesia and Australia. Simply stated, microclimates were vastly different with greater exposed mass of land. Given that continental glaciation reached as far south as Kansas, I have often thought that Hudson Bay was the geographic north pole. Lastly – back to the shield discussion. At least one member of the Royal Geographical Society was discredited for claiming he had crossed the arctic circle in Northern Canada based on the observation of taiga above the circle in both Alaska and Northwestern Canada (of course in Siberia as well). It would make no sense to me either, but given that the old location of the pole created shield conditions this was actually factual observation of taiga above the circle, but also explains arctic tundra as far south as the southern extent of Hudson Bay. That would make absolutely no sense if the geographic pole was where it is now. So, please take a look at where arctic tundra / taiga is amassed in Canada.
+    Reply
+        SteveGINGTO
+        SteveGINGTO says:
+        August 9, 2024 at
+
+        Guest – Like climate, ice is not a causative agent. It is the tail end of other causes. And ice does not – cannot – move on flat ground more than a handful of kilometers. The academics have got nearly all of it wrong.
+        Reply
+    WILSON, KEITH
+    WILSON, KEITH says:
+    September 17, 2022 at
+
+    Lance: Just superb graphics. Excellent work. Very hard to do. As you likely know there have been a number of others who have used varying methods to determine the last – or even previous – poles. Many normal Geologists started with the theories in the 50’s and you can tell their starting source by where they say (the last one) was: Hudson Bay/Hapgood, Baffin Island/Velikovsky. Since then, a number of others have used various “evidences” to fine tune the exact locations, timings of, and whether they were sudden or slow wandering. Also causation, but that has been a stumper. I have most of their work, and my own “cause”, which differs. I can clearly understand why you blocked your email. Too many “Nattering Nabobs of Negativism” to try to delve into this most important mystery with wide-ranging open-minded thinking. I give you my email and then later perhaps my website if you want to start a discussion. I have not fully digested this piece of yours. That is my next task. Thank you for the work you have done. KW
+    Reply
+    Howard Jones
+    Howard Jones says:
+    March 5, 2023 at
+
+    This is quite impressive and graphics very clearly presented. The idea that the Earth’s Pole may have shifted is not new. In about the 1680’s Edmund Halley suggested that the North Pole could have been in or near Northern Greenland. Halley had spent time as a ships Captain plotting magnetic anomalies in the North Atlantic and noticed that the magnetic North Pole was as near to Greenland and its substantial ice fields as to the North Pole. He suggested an impact with a comet or asteroid might have substantially shifted the Earth’s geographical Poles.
+    The distribution of the great mass of ice in the last Ice Age does appear weird. Canada and the northern States of USA glaciated but parts of Alaska ice free together with much of Siberia. Your animated graphics linked to Winter and Summer present locations for the northern extent of snow and ice show how closely they relate to their latitude. More food for thought as they say.
+    Reply
+    Antonio
+    Antonio says:
+    July 25, 2023 at
+
+    Fascinating idea, which would explain many palaeoclimatic observations in a simple way without resorting to the many over-complications that are adopted in palaeoclimatic models to explain sudden geographical variations. Here the scientific problem would be to investigate the physical mechanism that could explain a super fast true polar wander. Let me add a recent article from science, https://www.science.org/doi/10.1126/science.ade4248 ,the smoking gun?
+    Reply
+    Doug A Morrow
+    Doug A Morrow says:
+    August 3, 2024 at
+
+    Have you or anyone else done any additional research on this? I’m fascinated, because it ties in with another project I’m working on. It focuses on the fairly dramatic ice cover melt in West Antarctica circa 10,000 to 12,000 BP. (https://www.nationalgeographic.com/science/article/west-antarctic-ice-sheet-collapse-climate-change) What’s fascinating is if you plot a new South Pole based on your proposal, it puts West Antarctica fairly far outside the Antarctic Circle, and might explain the interesting results found in the NatGeo article.
+    Reply
+        Lance Weaver
+        Lance Weaver says:
+        August 5, 2024 at
+
+        Yes, I’ve been following that research with interest. I’ve been working on a book which combines all the ideas in this article with the evolution of the Colorado River, and I plan on adding the new Antarctic Peninsula data. Are you working on it in an academic setting?
+        Reply
+    NomadicBeer
+    NomadicBeer says:
+    August 15, 2024 at
+
+    Hey Lance,
+    I scanned through your amazing article and I also listened to some of your interviews.
+    I appreciate your deep independent thinking and your adherence to scientific method.
+
+    But… (there usually is a but) – joking, I don’t see any problems with your reasoning.
+
+    I hope you write your book – this is the kind of scientific idea that is little known or understood but is interesting on both intellectual and emotional level. I mean just think of the possible consequences for humanity if/when this happens again.
+
+    Do you have a list with your papers/interviews/articles I can go through? I enjoy reading your work.
+
+    Thanks!
+    Reply
+        Lance Weaver
+        Lance Weaver says:
+        August 16, 2024 at
+
+        Hey T. Thanks for commenting. :) I’ve got a list of my published articles on my about page. You can also find most of them on my researchgate page (lance weaver – geology & geophysics).
+        I also publish on a more spiritual web page called http://www.gatheredin.one
+        As far as videos, and youtube I’ve done a good number of podcasts, which you can mostly find by searching my name. I’ll start releasing my own youtube videos soon, and hope to finish a book on this topic as well as the evolution of the Colorado Plateau (with a radical theory on the early evolution of the Colorado River) sometime in the next decade.
+        Thanks again. :)
+        Reply
+    Rick Dewhirst
+    Rick Dewhirst says:
+    November 1, 2024 at
+
+    Hey Lance,
+
+    I have just stumbled across your article and was wondering if you have come across The Ethical Skeptics Exothermic Core-Mantle Decoupling – Dzhanibekov Oscillation (ECDO) Theory?
+    https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/
+    This theorises a cyclical 104 degree flip of the earth. This is similar to a cyclical 90 degree flip theory that Charles Hapgood was working on with Albert Einstein following Operation Nanook in the Arctic led by Major Maynard White, the findings of which were published by his son Ken White in the 1994 book World in Peril. I’d also draw your attention to the Adam and Eve Story by Chan Thomas which was classified by the CIA for many years. Also the books Worlds In Collision and Earth in Upheavel by Velikovsky. All provide evidence to support a cyclical flip of the earth’s axis throwing different regions into new climatic zones and causing massive oceanic displacements (Deluge) and geophysical catastrophes. All the indicators are presently flashing red that this is about to occur again in the coming years and it is clear that the elite appear to be preparing for just such an eventuality.
+
+    Please also feel free to join this Telegram group where a group of us are doing a deep dive into this theory and are always unearthing new evidence and investigating planetary harmonics as being the trigger effect for these cataclysms and solar micronova https://t.me/nobulartchat
+    Reply
+        Lance Weaver
+        Lance Weaver says:
+        November 1, 2024 at
+
+        Yep, someone pointed that article out to me (and the way it references my article). I love his illustrations and shier zone ideas. I plan on updating my article and incorporating some of his fantastic ideas & illustrations giving him some props. I also find his historic (Egyptian) pole shift ideas fascinating. Its certainly something I’ve investigated the possibility of. I have a number of differences of opinion though. I talk a little about my ideas of recent earth catastrophism in my interview here. https://youtu.be/cG5K_0DdnAw?t=1285
+        Reply
+
+Leave a Reply
+Want to join the discussion?
+Feel free to contribute!	
+
+Name *
+
+Email *
+
+Website
+
+Welcome
+
+About me
+
+Lance Weaver. about me.
+
+ 
+
+Contact Us
+
+    WHAT ARE MOQUI MARBLES? AND HOW DO THEY FORM?May 14, 2024 -
+    THE HENRY MOUNTAINS OF UTAH (Geology, Features & A...May 14, 2024 -
+    THE FACINATING GEOLOGY OF THE WASATCH PLATEAUMay 14, 2024 -
+    What Makes the Rock Red (in Utah/Arches & Zion National...February 25, 2024 - 
+
+    Ice Age Map of ice caps during the ice age
+
+    Lance Weaver
+    Rick Dewhirst
+    Derek Cromie
+    Lance Weaver
+
+Follow us on Facebook
+UtahGeology
+Logo image
+Go to facebook page
+Join our Facebook community
+Latest Blog Posts
+
+    WHAT ARE MOQUI MARBLES? AND HOW DO THEY FORM?May 14, 2024 -
+    THE HENRY MOUNTAINS OF UTAH (Geology, Features & Attractions)May 14, 2024 -
+    THE FACINATING GEOLOGY OF THE WASATCH PLATEAUMay 14, 2024 - 
+
+Tag Cloud
+are
+cascades falls
+electric universe
+geo jonts
+geologic hiking guide
+geology
+jerold williams
+jupiter
+keeper potholes
+nice
+some
+tags
+these
+utah geology
+Important Pages
+Privacy Policy,    About utahgeology.com,    Contact US
+Relevant Links
+
+    Utah Geological Survey
+    U.S. Geological Survey
+    Arizona Geology Blog
+    Durango Bill
+    Geology.com
+
+Contact Me
+If you would like to contact me, drop me a line from the contact page. Or if you have questions about geology, call me during normal work hours at the Utah Geological Survey.
+© Copyright - UtahGeology - Enfold Theme by Kriesi
+
+Cottonwood Wash of Grand Staircase Escalante National Monument (aka The Cockscomb...
+Is the Orbit of Jupiter related to Solar Cycles and How Gravity Waves &...

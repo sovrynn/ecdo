@@ -102,6 +102,12 @@ This looks towards the northeast. Approximately in the line of the S1 to S2 flip
 
 Hard copy here.
 
+## Devil's Arrows, North Yorkshire Monoliths
+
+What the hell are these?? 
+
+https://youtu.be/e7MBWcTn-0w?feature=shared
+
 ## Citations
 
 1. https://nobulart.com
