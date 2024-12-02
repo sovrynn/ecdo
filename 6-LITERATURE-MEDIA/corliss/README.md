@@ -2,6 +2,8 @@
 
 Has written a number of excellent books covering all kinds of scientific anomalies. Lot of it very likely relevant to the ECDO.
 
+Carolina bays and strange planet have a lot of ECDO related stuff.
+
 ```
 'Ancient Infrastructure_ Remarkable Roads, Mines, Walls.txt',
 'Ancient structures_ remarkable pyramids, forts, towers.txt',
