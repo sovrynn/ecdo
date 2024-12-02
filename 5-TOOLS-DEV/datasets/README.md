@@ -49,6 +49,10 @@ https://t.co/Ps7ghjSQ3e
 
 Varved Sediments Database. https://t.co/Ps7ghjSQ3e
 
+## UK Megalith dataset
+
+https://www.megalithic.co.uk/topics.php?countries=1&kmldown=1
+
 # TODO
 
 Clay proxy magnetic data: https://sci-hub.ru/10.1080/09291017809359640

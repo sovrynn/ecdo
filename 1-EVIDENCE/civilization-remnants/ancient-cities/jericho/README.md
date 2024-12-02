@@ -63,6 +63,22 @@ Some of Jericho's pivotal periods as seen on the harmonic event timeline.
 
 ![](img/photo_5926@12-11-2024_23-53-38.jpg)
 
+## Velikovsky Excerpt on the Biblical Fall of Jericho
+
+Velikovsky
+
+![](img/photo_5927@13-11-2024_09-16-39.jpg)
+
+Not to mention it was a mere 40 years since the previous set of events which included plague, earthquakes, the sun standing still and the retreat of the Red Sea. The earth was still settling from the last upheaval (S1>S2?) when they are guessed to have arrived in the Jordan valley. There would likely have been unsettled periods of aftershocks for decades.
+
+And were the Israelites completely disorientated during the exodus? Or were they fleeing to high ground initially? Or forced onto it. Or a combination of all 3!
+
+![](img/photo_5928@13-11-2024_10-26-36.jpg)
+
+Sure does look like a lot of trying to stay away from the Med and keeping to higher ground. The direct route would have been about a quarter of the distance. Maybe the Bronze Age GPS and Starlink were down for a while due to a system reset.
+
+Looks like they were purposefully hugging areas close to mountains so they could flee up to them if anything untoward happened ? Maybe stuff was happening water-related and they were jittery. Looks like they tracked along mountain foothills as much as possible. Otherwise, as you say, why take such a long, circuitous route? Probably other settlements & hazards as well which modified their journey.
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Jericho

@@ -66,6 +66,12 @@ https://x.com/FoMaHun/status/1846964695330443503?s=35
 
 And there is a Natron source: in the vulcano EMI KOUSSI https://commons.wikimedia.org/wiki/File:Emi_Koussi_crater_natron.jpg
 
+## Ancient Water Pump Casings?
+
+Glanced at these and thought water pump casings... 
+
+http://youtube.com/post/UgkxW6X1ThLzHKYcz8Ijv2mufMoxdMTzTaBK?si=3ti0Shi4b3ivv1vb
+
 # TODO
 
 Khafre/Khufu pyramids

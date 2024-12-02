@@ -212,6 +212,16 @@ Has the ethical skeptic made any theories about the Pyramid of Khafre, specifica
 
 ![](img/photo_5832@04-11-2024_08-22-58.jpg)
 
+## Annunaki Reference, Ningishzidda
+
+Ningishzidda, the builder of the Great Pyramid: "By the Annunaki, with their tools of power, were its stones cut and erected... With galleries and chambers for pulsating crystals he designed it": Slave Species of god by Michael Tellinger
+
+![](img/photo_5934@15-11-2024_14-39-21.jpg)
+
+![](img/photo_5935@15-11-2024_14-39-21.jpg)
+
+![](img/photo_5936@15-11-2024_15-31-59.jpg)
+
 ## Citations
 
 1. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/

@@ -33,6 +33,10 @@ Snapshot peek of the spreadsheet (links to the spreadsheet):
 
 ![](img/timeline-harmonic.jpg)
 
+Harmonic convergence chart updated as the database approaches 300 entries.
+
+![](img/photo_5933@15-11-2024_11-52-04.jpg)
+
 ## Human timelines vs physical marker dating
 
 Obviously we are looking for a great convergence of both, but in terms of preference I would say I have to prefer human timelines. When well-kept, they are more trustworthy than reconstructions from physical markers.

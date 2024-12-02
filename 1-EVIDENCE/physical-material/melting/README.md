@@ -2,6 +2,14 @@
 
 See meltology.mp4.
 
+## Meltology
+
+If Mainstream News Had a Brain
+
+OMR | @MeltedWorld | @Undoctrinate
+
+See /img for OMR If Main stream News had a Brain-(720p).mp4.
+
 ## Red Brick Appreciatoor
 
 ![](img/sunyaragi.jpeg)
@@ -38,6 +46,8 @@ Yakimochi wall.
 ## Madeira (West Tip, Tidepool)
 
 ![](img/madeira.jpg)
+
+Those ballooned rocks have brickwork each side that was not affected, yet the erupting swollen central part was blown right out - very weird how some bricks succumbed and are cooked and others not. A meltology specimen indeed. I've seen some other great examples. Certainly it's an example of the morphing of elements.
 
 ## New Mexico, Gila Cliff Dwellings National Monument
 

@@ -240,6 +240,10 @@ A year was not always 365.2422 days. Velikovsky : https://t.co/oE4E5nShPN https:
 
 30 years ago on this day. https://t.co/0eCecxKwRo
 
+## Mankind in Amnesia Excerpt
+
+https://www.varchive.org/lec/valais/mankind.htm
+
 # TODO
 
 - flood records

@@ -153,6 +153,30 @@ An interesting layer-cake speech. Seems like a wolf in a Judas goat’s clothing
 
 https://x.com/headwarriortwm/status/1855372163273863674?s=46
 
+## Anthropogenic Climate Change Lies
+
+The comments on this. Even though this is X, it represents a large cohort of opinion (possibly the largest), and it’s looking to me as though the game is almost up for the liars. 
+
+https://x.com/cop28_uae/status/1855884872923148311?s=46
+
+![](img/photo_5930@14-11-2024_09-30-55.jpg)
+
+See /img for IMG_2822.MP4.
+
+## Vaccine Lie Propaganda
+
+Divide them. Flip the narrative and subdivide again. Repeat ad nauseam 
+
+https://afru.com/unvaccinated-silence/
+
+![](img/photo_5937@15-11-2024_16-03-05.jpg)
+
+## Club of Rome
+
+Survival strategy of elites released on 1973 same as temperature and magnetic north pole started drifting really fast.
+
+Hard copy here.
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

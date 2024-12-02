@@ -153,6 +153,10 @@ I have also entertained the idea that the pyramid may be connected to this accou
 - **Event**: The **Babylonians** capture **Jerusalem**, destroy **Solomon’s Temple**, and carry many Israelites into exile.
 - **Significance**: Marks the end of the **Kingdom of Judah** and the beginning of the **Babylonian Exile**, a pivotal moment of judgment for persistent idolatry and disobedience.
 
+## Bible Quote Darkness
+
+![](img/photo_5952@18-11-2024_01-33-25.jpg)
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Genesis_flood_narrative

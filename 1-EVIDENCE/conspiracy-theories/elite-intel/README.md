@@ -84,6 +84,14 @@ I had quite a long interaction with GPT on this topic a few hours ago.
 
 https://chatgpt.com/share/67188e68-14fc-8005-aa32-d02d61cb71a8
 
+## CIA Website posts
+
+Are the 3 letter agencies just trolling everyone now ? Mars, a million years ago. + Remote viewing.  https://x.com/Andercot/status/1858005501596111320?s=35
+
+If you dare open a CIA file ofc 😂. 
+
+ https://x.com/Andercot/status/1858008776894460051?s=35
+
 ## Citations
 
 1. Craig Stone

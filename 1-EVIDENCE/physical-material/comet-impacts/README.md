@@ -105,3 +105,10 @@ Sumerian Observation of the Kofels Impact Event:
 https://books.google.co.za/books/about/A_Sumerian_Observation_of_the_K%C3%B6fels_Im.html?id=1v7oLAAACAAJ&source=kp_book_description&redir_esc=y
 
 "The Köfels landslide was a huge mountain rockslide (a SturzstromWikipedia) that occurred in the Austrian Alps about 9800 years ago near the present day village of Köfels. Some of its features mystified geologists for quite some time. One hypothesis was that it had been caused by an asteroid impact — a Köfels impact event — but more recent research has rejected the idea. This didn't stop a pair of British engineers from publishing a book that claims that a) it was an asteroid impact, b) it inspired a lot of myths, and c) it was recorded on an ancient Sumerian clay tablet." [12]
+
+## Lunar Crater
+
+Interesting formation in a lunar crater with an interesting history.
+
+![](img/photo_5941@17-11-2024_10-48-49.jpg)
+

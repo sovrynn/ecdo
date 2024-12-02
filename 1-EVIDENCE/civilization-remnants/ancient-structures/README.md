@@ -130,6 +130,20 @@ https://smarthistory.org/ziggurat-of-ur/
 
 ![](img/photo_5922@12-11-2024_14-58-36.jpg)
 
+## Meteora Monasteries
+
+Apparently these were more common previously: there were over 20 of them, of which 6 remain.
+
+Meteora Monasteries aren't just the only wonder "suspended in the air."
+
+Centuries ago, clifftop architecture was very popular.
+
+Greece even has more monasteries on Mount Athos, arguably more impressive than those at Meteora.
+
+COMMENT: We might've thought they were related to preparation for deluvial events ? Maybe it was just protection from invaders. 
+
+https://x.com/WorldScholar_/status/1857522428353651015?s=35
+
 # TODO Potential Leads
 
 List of religious sites: https://x.com/JeremyTate41/status/1846619542958604547

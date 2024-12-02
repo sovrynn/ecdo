@@ -2,6 +2,12 @@
 
 Hard copy here.
 
+## Ekpyrosis
+
+Ekpyrosis (https://nobulart.com/ekpyrosis/)
+“It is 7.17 am. Eastern Standard Time, on the thirtieth of June 1994. Suddenly the power fails. The basement centre of the Defense Communication Operations Unit adjoining the White House is plunged into darkness, and only the distant rumble of early morning traffic reminds the duty officer that another day has already begun. There have been power failures before, however, and there is no hint of impending crisis.”
+https://nobulart.com/ekpyrosis/
+
 # GPT: The Cosmic Winter - Detailed Summary
 
 ## Title Meaning

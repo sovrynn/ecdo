@@ -60,6 +60,14 @@ Adam and Eve Story
 
 https://youtu.be/8OFzKrYBsFc
 
+## Rotation axis shift theory
+
+From Chan.
+
+https://t.co/2SP3pCVVg4
+
+![](img/photo_5929@14-11-2024_04-03-40.jpg)
+
 ## Citations
 
 1. https://nobulart.com/cataclysms-revisited/

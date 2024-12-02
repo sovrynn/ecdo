@@ -145,3 +145,6 @@ I believe this data comes from a single local cluster of stations. In other word
 ## More volcanism
 
 ![](img/volcano-trend.jpg)
+
+![](img/photo_5932@14-11-2024_21-17-33.jpg)
+
