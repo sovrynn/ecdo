@@ -71,7 +71,7 @@ https://x.com/OMApproach/status/1855225136841957744?s=35
 
 Gobekli Tepe was same culture as Catal Huyuk, all the tepes and huyuk sites, with Jericho and the similarities to Easter Island can not be ignored.  3800-2300 BCE.  Most ancient roots for Paradise in Iranian and Greek means ‘walled enclosure.’ A garden.  Or, as some decoders would say, a den that is guarded.  
 
- The Sumerian E.DINs were places man was banished from.  That history began in 3895 BCE with the Adam and Eve Genesis reset, a worldwide destruction that sent mankind back to Year One.  
+The Sumerian E.DINs were places man was banished from.  That history began in 3895 BCE with the Adam and Eve Genesis reset, a worldwide destruction that sent mankind back to Year One.  
 
 The tepes, like Gobekli tepe, are located where the story began.  
 

@@ -40,6 +40,22 @@ To see what info is in the repo on notable dates, run a grep search: `grep -nr 3
 
 Sometimes the dates are just slightly off (ex: 3650). You'd have to be more thorough with grep to find those.
 
+## Ethical Skeptic First Draft Timeline
+
+https://x.com/EthicalSkeptic/status/1858990639826039040/photo/1
+
+![](img/photo_5964@20-11-2024_00-03-33.jpg)
+
+![](img/photo_5965@20-11-2024_01-15-24.jpg)
+
+Looks to me like he pulled a number out of his ...
+
+https://en.wikipedia.org/wiki/Sumerian_King_List#:~:text=Dating%2C%20redaction%20and%20purpose,-The%20Scheil%20dynastic&text=All%20but%20one%20of%20the,(2084–2037%20BC).
+
+He appears to have based it on the assumption of the precession of the equinoxes / 4 = 6443, selected 2030 and counted backwards.
+
+Besides... it would be 4414 not 4413 because you don't count the year 0
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

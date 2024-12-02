@@ -32,3 +32,7 @@ Einstein's comments on Earth in Upheaval:
 ![](img/EIU1.png)
 ![](img/EIU2.png)
 ![](img/EIU3.png)
+
+## Another Velikovsky Correspondence
+
+This correspondence with Einstein is fascinating...    https://www.varchive.org/cor/einstein/index.htm

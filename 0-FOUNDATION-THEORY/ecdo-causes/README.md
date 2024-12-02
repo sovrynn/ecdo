@@ -41,6 +41,10 @@ This may explain conflagrations of fire, where the magnetic field is weakened, b
 
 Alternatively, a slow rotation from S2 back to S1, not fast enough to cause oceanic displacement, but fast enough to cause a significant magnetic field weakening, could cause a conflagration by fire.
 
+## My own working hypothesis
+
+The Earth is not a static formation, it's dynamic and changes over time, including its inner layers of iron (solid or molten) and outer layers of fluid and gas (ie ocean). The rotational dynamics and planetary electromagnetic perturbations are "causative factors" in the dynamic state of the Earth causing shifts such as inner metal disturbances and ice cap formations. At some point the Earth's core can potentially decouple from the outer crust via a liquid molten inner layer, causing a mediated Dzhanibekov rotation... It happens quasi-periodically due to variance in its input causative factors, and may itself be a meta phase shift from different regimes of quantized geological state change in the past. ECDO-like events have thus potentially happened semi-periodically in the Earth's past, always causing a shift in rotational dynamics of the Earth and related cataclysmic effects.
+
 ## Ice Accumulation unevenly on South Pole [2]
 
 What if the rotational instability is caused by uneven accumulation of ice mass around the rotational axis? My only gripe with this is that the mass of the ice cores relative to the mantle is **extremely** small. The glaciers are also supposed to be melting, although mainly at equatorial high-altitude glaciers.

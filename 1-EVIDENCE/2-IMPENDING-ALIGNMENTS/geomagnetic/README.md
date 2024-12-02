@@ -80,3 +80,7 @@ The authors thank reviewers and contributors for their support and insights, emp
 
 ## References
 Extensive citations include works on entropy, geodynamics, and geomagnetic modeling, providing a robust foundation for the study's findings.
+
+# TODO
+
+A very good next task would be to update the De Santis, Qamili calculations for a tipping point in 2033/2034.

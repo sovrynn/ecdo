@@ -74,6 +74,10 @@ I was kind of hoping that this wasn't going to be at exactly the same time at th
 
 Link for the whole article: https://arvind-bhagwath.medium.com/3000-bce-great-flood-and-rohini-sakata-bhedanam-406f8e810427
 
+### Next one
+
+Next Rohini Sekata Bhednam is around 2031-2032. Corresponds to the earth passing through the thick of the taurid stream sometime around June-July or November-December 2032
+
 ## Rohini 2060 Alignment
 
 Cycle a few days either side of this 2060 alignment and I think you’ll find the triangle there. I remember seeing it.
