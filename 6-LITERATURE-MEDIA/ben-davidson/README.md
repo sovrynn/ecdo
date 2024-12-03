@@ -31,12 +31,12 @@ Ben on this. https://t.co/89SLYsmBNQ
 
 ```
 Tallies of files contributing to each output file:
-earthquake: 2107 files
-geomagnetic: 4026 files
-politics: 177 files
-floods: 840 files
-storm: 2320 files
-volcano: 968 files
 solar system: 4676 files
-cataclysms: 2343 files
+geomagnetic:  4026 files
+cataclysms:   2343 files
+storm:        2320 files
+earthquake:   2107 files
+volcano:      968 files
+floods:       840 files
+politics:     177 files
 ```
