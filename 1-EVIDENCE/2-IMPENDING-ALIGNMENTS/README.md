@@ -72,7 +72,7 @@ From an Earth perspective, they don't appear that close together again until mid
 
 I was kind of hoping that this wasn't going to be at exactly the same time at the Landscheidt Minimum, the Taurids and Encke. Another hit.
 
-Link for the whole article: https://arvind-bhagwath.medium.com/3000-bce-great-flood-and-rohini-sakata-bhedanam-406f8e810427
+Link for the whole article: https://arvind-bhagwath.medium.com/3000-bce-great-flood-and-r`````					ohini-sakata-bhedanam-406f8e810427
 
 ### Next one
 
