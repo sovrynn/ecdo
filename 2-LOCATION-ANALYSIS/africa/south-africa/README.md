@@ -24,6 +24,13 @@ Southern Africa, "The Cradle of Humankind" [1]. Seemingly has no cultural flood 
 7. https://nobulart.com/the-diamond-conspiracy/
 8. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
 
+## Youngest Marine Incursion Evidence
+
+Youngest marine incursion evidence in SA is all along the coastlines at 6-7ka. Inland deposits (north of the Swartberg) are over 6 million years old.
+https://t.me/nobulartchat/17516
+
+There's an additional possibility here. During state 2 the water will retreat from the new polar lands due its centrifugal migration back toward the new equator. A 200ft drop in sea level around the southern part of Africa would expose most of the continental shelf, thereby further buffering the main land mass from the water interface during S2>S1.
+
 ## Saltwater Lakes
 
 Red are saltwater, green are freshwater.
