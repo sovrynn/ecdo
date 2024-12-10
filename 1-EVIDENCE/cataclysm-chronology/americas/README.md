@@ -109,6 +109,10 @@ https://archive.org/details/threeyearsamongc0000leen
 To the American Indian: Reminiscences of a Yurok Woman by Lucy Thompson
 https://archive.org/details/toamericanindia00thomgoog
 
+## Inuit People on Pole Shift
+
+https://youtu.be/F3DCspAN4Xk?si=0bLSPdvim52XI1r3
+
 ## Citations
 
 1. https://zsitchinindex.wordpress.com/the-earth-chronicles-index/book-4-the-lost-realms/chapter-7-the-day-the-sun-stood-still/

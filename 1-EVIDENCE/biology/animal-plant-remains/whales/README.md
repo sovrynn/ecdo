@@ -65,7 +65,8 @@ Dineley and Garret reported in Nature (1959) on the peculiar discovery of a pres
 
 ## Wadi-Al-Hitan (Whale Valley)
 
-Reminds me of:
+Swedonborg Whales reminds me of:
 
 https://youtu.be/q553LpBWaVM?si=rLje3OvVFYSwKR5v
 
+These are still fascinating to me. They’re very old. Completely mineralized and embedded in stone along with many other extinct species from their era. They’re not victims of a recent event, but it sure is interesting that the 40 million year old strata they are in lies exposed at the surface. Earths missing pages. Where did the Sahara’s last 40Ma of pages go?
