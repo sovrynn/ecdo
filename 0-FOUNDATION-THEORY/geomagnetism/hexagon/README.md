@@ -9,3 +9,8 @@ Gubbins & Bloxham observed a persistent six-lobed component of the Earth's magne
 1. https://sci-hub.ru/10.1038/325509a0
 2. https://holographicgalaxy.blogspot.com/2014/10/saturns-polar-hexagonal-vortex-is.html
 3. https://chatgpt.com/share/673f2956-2588-8005-aecc-73a631607793
+
+(i) looks familiar...
+
+![](img/photo_5985@21-11-2024_15-35-40.jpg)
+

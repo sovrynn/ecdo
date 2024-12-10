@@ -48,3 +48,9 @@ https://x.com/soydeituango/status/1856125429712859390
 
 https://watchers.news/2024/11/12/eruption-cacahual-el-aburrido-mud-volcano-antioquia-colombia-injures-eight-damages-homes/
 
+## Iceland Volcano
+
+https://watchers.news/2024/11/21/lava-destroys-blue-lagoon-parking-iceland-november-2024/
+
+![](img/photo_5988@22-11-2024_10-18-15.jpg)
+

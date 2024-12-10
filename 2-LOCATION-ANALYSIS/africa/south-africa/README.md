@@ -24,7 +24,7 @@ Southern Africa, "The Cradle of Humankind" [1]. Seemingly has no cultural flood 
 7. https://nobulart.com/the-diamond-conspiracy/
 8. https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/
 
-## Youngest Marine Incursion Evidence
+## Youngest Marine Incursion Evidence (evidence that South Africa doesn't get inundated?)
 
 Youngest marine incursion evidence in SA is all along the coastlines at 6-7ka. Inland deposits (north of the Swartberg) are over 6 million years old.
 https://t.me/nobulartchat/17516

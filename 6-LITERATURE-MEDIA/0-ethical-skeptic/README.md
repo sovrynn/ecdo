@@ -17,6 +17,10 @@ I consider recreating his proofs to be of the highest priority. That work belong
 
 Hard copies taken September 21, 2024.
 
+## Folder Contents
+
+- `theory-part-[1-3]`: My personal quote compilations and short summaries of Ethical Skeptic's theses.
+
 ## Quotes
 
 *"It is our contention that we are now well past an Indigo Point of exothermic core-mantle decoupling and that we have incorrectly interpreted the heat presented by this phenomenon as being caused solely by human activity. While we don’t conjecture an interval for this catastrophic cycle, and cannot predict when the next instance will occur, we nonetheless cite that there exists an urgent need to consider the possibility and detect the approach of a subsequent Tau Point Dzhanibekov gyroscopic oscillation in Earth’s rotation. Such a rotation will likely reproduce the cataclysmic inundation we see marked into the Tura limestone casing of the Khafre Pyramid and which is contained inside many ancient cultural mythologies."*
@@ -50,6 +54,19 @@ RT The reason why mankind is an ignorant and uncontacted people. https://t.co/XY
 
 ![](img/1811508706888364065-GSPE5VoWEAA2929.png)
 
-## Contents
+## Archaeology Meta
 
-- `theory-part-[1-3]`: My personal quote compilations and short summaries of Ethical Skeptic's theses.
+https://x.com/EthicalSkeptic/status/1859441734716895327
+
+![](img/photo_5986@21-11-2024_15-41-14.jpg)
+
+## Khufu casing stones
+
+I really really really hate being lied to, especially by authority.
+
+A key example: Khufu's casing stones did NOT exist in 1200 CE - in fact, at that time already had ages of human inscriptions on the courses of backing stones, from script older than 3100 BCE. 😡
+
+@EthicalSkeptic
+
+![](img/photo_5987@21-11-2024_18-52-15.jpg)
+

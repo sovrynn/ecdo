@@ -12,6 +12,13 @@ Last century added on. Scale, path and orientation taken from the map here: http
 
 [1] Paleomagnetism, McElhinny & McFadden (2000) https://archive.org/details/paleomagnetismco0000mcel
 
+## Ezekiel, Sterno-Etrussia
+
+Excursions and aurora at low latitudes.
+https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2003EO090001
+
+![](img/photo_5996@22-11-2024_11-43-59.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

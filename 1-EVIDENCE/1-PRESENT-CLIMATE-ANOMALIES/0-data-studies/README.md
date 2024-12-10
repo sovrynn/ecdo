@@ -87,6 +87,10 @@ Data trend verified by the same institute the data is from:
 
 ![](img/Kp-all-histo.png)
 
+Might just be a long-term trend of weakening solar activity occurring at the same time geomagnetic field is weakening. Quoting from something I'm writing: Based on these relationships, Landscheidt predicted a “phase inversion” in the relation between the torque of the Sun around the SSB and solar activity to occur in 1976. After another maximum in 1984, this was to be followed by, “a long period of cool climate with its coldest phase around 2030” corresponding to a longer-wavelength Gleissberg solar minima, a shift in direction in the torque of the Sun around the SSB. This would be followed up by a Gleissberg maxima around 2069.
+
+This could also be consistent with the greator aurora displays we're seeing - lessening solar activity accompanied by a weakened geomagnetic field could produce greater aurora displays despite the weaker solar activity.
+
 ## Solar cycle
 
 Consistent with the Kp data.

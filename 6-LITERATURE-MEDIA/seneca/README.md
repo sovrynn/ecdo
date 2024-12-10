@@ -26,6 +26,12 @@ https://nobulart.com/kataklysmos/
 
 https://naturalesquaestiones.blogspot.com/2009/08/book-iii-tr-john-clarke.html
 
+## Nobulart Kataklysmos Excerpt
+
+Kataklysmos
+“When the fated day of deluge comes, after what fashion will the earth for the most part be over whelmed by the waves? Will it be by the strength of Ocean and the rise of the outer sea against us? Or will the rain descend uninterruptedly, and will summer be cut out of the year while persistent winter bursts its clouds and pours down endless masses of water? Or will earth herself open new reservoirs and shed forth rivers more abundantly? Or will a single cause be insufficient to produce such a catastrophe, and all the methods conspire together, the rains descending and the river floods rising, and the seas hurrying in hot haste from their place all agencies in concert bent upon the one aim, the destruction of the human race? The last is the truth.” – Seneca (65 AD)
+https://nobulart.com/kataklysmos/
+
 # Works of Lucius Annaeus Seneca
 
 Lucius Annaeus Seneca, also known as Seneca the Younger, was a Roman Stoic philosopher, playwright, and advisor to Emperor Nero. His writings span philosophy, tragedy, and natural philosophy, offering insights into ethics, human nature, and the cosmos.
