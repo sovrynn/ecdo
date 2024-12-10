@@ -117,6 +117,13 @@ This is why I think it's curious to find this king select this astral image for 
 
 https://www.rupestre.net/tracce/?p=2422
 
+## Antikythera
+
+The five bodies calculated with the antikythera.
+https://en.wikipedia.org/wiki/Antikythera_mechanism
+
+![](img/photo_6000@22-11-2024_17-47-10.jpg)
+
 ## Citations
 
 1. https://x.com/EthicalSkeptic/status/1832538729275117895?s=19

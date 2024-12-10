@@ -45,6 +45,20 @@ So far as I'm aware its currently impossible, and its rooted in the n-body probl
 
 The further back or forward in time we look, the greater the error becomes. Jupiter is the main problem because it exerts a noticeable effect on every object in the system.
 
+## 2040
+
+On September 8, 2040, the five naked-eye planets (Mercury, Venus, Mars, Jupiter, and Saturn - the only ones that the ancients knew and cared about) will align in the sky. 
+
+I forget what constellation, but it wasn't capricorn. I'd have to search it up again.
+
+You just made me think of The 5 eyes. Wonder if the name is a nod to the planets...   https://ukdefencejournal.org.uk/the-five-eyes-the-intelligence-alliance-of-the-anglosphere/
+
+They always tell you.
+
+Seriously though, why is it always so occultic? *sigh*
+
+![](img/photo_6012@23-11-2024_00-11-43.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

@@ -125,6 +125,11 @@ See img/1802608421755085038-Tt0afcynx60wVrHI.mp4.
 
 https://watchers.news/2024/10/22/three-fireballs-light-up-the-skies-over-the-great-lakes-ams-receives-hundreds-of-reports
 
+## Craziest Nature Videos of the Decade
+
+Great compilation of natural events from recent years. Been a lot going on.
+https://youtu.be/tZPQaihwZRA
+
 # TODO
 
 Adding to TES's thesis part 1:

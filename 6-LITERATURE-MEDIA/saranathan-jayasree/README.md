@@ -2,6 +2,10 @@
 
 https://jayasreesaranathan.blogspot.com/2023/02/inner-core-of-earth-changing-direction.html?m=1
 
+7.4ka
+
+![](img/photo_5999@22-11-2024_14-27-00.jpg)
+
 # Detailed Summary of the Document
 
 The document, authored by Jayasree Saranathan, explores Vedic theories of astronomy and their application to contemporary scientific observations, especially regarding the Earth's and solar system's dynamics. It intertwines Vedic cosmology, historical insights, and modern scientific findings to explain phenomena such as the precession of equinoxes, changes in the Earth’s axis and core, and their implications for global climate and astronomy.

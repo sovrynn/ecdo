@@ -80,6 +80,38 @@ do you know what these are? https://t.co/OmVGmBDwNi
 ![](img/pakistan.jpg)
 ![](img/pakistan2.jpg)
 
+## How Geologists Discovered and Mapped a Great Seaway (North America)
+
+https://www.youtube.com/watch?v=UCPnUAAOuDg
+
+That reminds me of the stories I've heard of sea shells being found on the top of dessert buttes in the south western US.  Sorta like this:
+
+https://www.desertusa.com/desert-california/seashells-in-desert.html
+
+I think they call it the Permian Sea
+
+![](img/photo_6016@24-11-2024_08-39-48.jpg)
+
+The Permian Basin. It’s a very oil rich area. Lots and lots of drilling
+
+Curiously, if the pivot took place the way it’s being modeled, the water would invade the US from the west and probably leave the east with more landmass. Which is what this photo shows.
+
+Yeah, if I remember right, that is what a few other sources suggest as well.  Here is one of them:
+
+https://www.forbes.com/sites/jimdobson/2017/06/10/the-shocking-doomsday-maps-of-the-world-and-the-billionaire-escape-plans/
+
+I think this B&W one is as close as I can find for the original infamous "Navy Map", the color one is who knows what...
+
+Here is an assortment: https://www.bibliotecapleyades.net/profecias/esp_profecia_mapas.htm
+
+https://www.geographicus.com/blog/gordon-michael-scallions-doomsday-maps.html (crazy stuff, been around for decades)
+
+https://www.youtube.com/watch?v=u5m65EPHLg
+
+![](img/photo_6017@24-11-2024_09-18-16.jpg)
+
+![](img/photo_6018@24-11-2024_09-18-17.jpg)
+
 ## Citations
 
 1. ScholarAI

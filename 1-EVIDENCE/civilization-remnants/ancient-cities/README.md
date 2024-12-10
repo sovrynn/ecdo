@@ -167,6 +167,10 @@ Ur is interesting to be sure, but Eridu is also in my top 10. Looks like an arch
 
 https://m.youtube.com/watch?v=GT5QWaBQqIo
 
+## 2500 year old sunken city off the coast of Egypt
+
+https://www.thebrighterside.news/post/2500-year-old-lost-city-found-hidden-off-the-coast-of-egypt/
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park
