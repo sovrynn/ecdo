@@ -33,6 +33,18 @@ https://www.geocentricity.com/astronomy_of_bible/jld/
 
 Lots of footnotes.  Velikovsky and Patten associated with a planetary interaction.
 
+## Joshua Trumpets
+
+Sorry, a go back here. Have you all looked into this trumpet phenomenon before?
+
+https://www.space.com/sounds-of-solar-wind-earth-magnetic-field.html
+
+Also "skyquakes"
+
+https://www.audiology.org/skyquakes-did-you-hear-it/
+
+This concept is all over the Bible, not just Jericho. It is at Sinai and in Revelation most prominently. I think the counterfeit association is with the Mesopotamian "storm gods" such as Baal, Zeus, etc...
+
 ## Citations
 
 1. GPT

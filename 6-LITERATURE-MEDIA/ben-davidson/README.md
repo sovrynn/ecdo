@@ -27,6 +27,14 @@ https://t.co/89SLYsmBNQ
 
 Ben on this. https://t.co/89SLYsmBNQ
 
+## The Next End of the World by Ben Davidson
+
+![](img/photo_6026@25-11-2024_23-37-36.jpg)
+
+![](img/photo_6027@25-11-2024_23-37-36.jpg)
+
+![](img/photo_6028@25-11-2024_23-37-36.jpg)
+
 # LLM Video Transcripts
 
 ```

@@ -43,6 +43,12 @@ See elmo3.mp4 and elmo4.mp4 in img.
 3. Blue Jets, South Pacific https://x.com/nobulart/status/1802694357952168221
 4. https://chatgpt.com/share/671775d5-dc9c-8005-800d-1d8a043ae0c7
 
+## Earth's Magnetic Anomalies
+
+Earth’s Magnetic Anomalies
+“It is accepted that the geomagnetic field resembles that of a dipole (or bar magnet) located at the earth’s center. This theoretical representation accounts for about 90% of the geomagnetic field and provides geophysicists with the familiar diagram showing magnetic lines of force exiting one polar region and entering the other. This neat portrait of the geomagnetic field is marred in practice by several important anomalies that cast doubt upon the almost universally accepted view that the geomagnetic field is a product of dynamo action.”
+https://nobulart.com/earths-magnetic-anomalies/
+
 ## Citations
 
 1. Craig Stone

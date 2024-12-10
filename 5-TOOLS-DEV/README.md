@@ -31,6 +31,8 @@ Ocean mapping:
 The GEBCO 2030 data set. Spectacular detail. Best map of the oceans made to date.
 https://download.gebco.net
 
+In case some data is needed for future (?) tsunamis simulations : https://www.gebco.net/data_and_products/gridded_bathymetry_data/
+
 ## Lat/long tools
 
 Here is a [lat/long distance calculator](https://latlongdata.com/distance-calculator).

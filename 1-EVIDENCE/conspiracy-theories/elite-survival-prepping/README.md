@@ -104,3 +104,30 @@ Another one
 ![](img/tasat.jpg)
 
 [1] https://tasat.org
+
+## Video by Ben Davidson about Bezos "10,000 year clock"
+
+Interesting video by Ben Davidson about Bezos' survival plan, in case you missed it (2019)
+
+See /img for c.mp4.
+
+I don't think Bezos' bolt hole hollowed out mountain [see red marker] is in the fabulous position Ben Davidson thinks. I took the screen shot from Ben's video further up the chat.   https://t.me/nobulartchat/27295
+
+![](img/photo_6036@27-11-2024_11-59-07.jpg)
+
+Sierra Diablo
+
+Wikipedia
+https://en.wikipedia.org › wiki › Sierra_Diablo
+sierra diablo texas elevation from en.wikipedia.org
+Geography. The Sierra Diablo are a high mountainous plateau in West Texas. The highest peak in the range is 6,610 feet in elevation. The surface of the range ...
+
+![](img/photo_6037@27-11-2024_12-19-59.jpg)
+
+## Chinese Communist Party 10 trillion Ark of Doom
+
+CCP's escape plan
+
+https://youtu.be/EDG4GrBL4J8?si=KmjVPQbaUi73njBO
+
+I wouldn’t take the word of this content creator one bit. They’re a Taiwanese intel funded propaganda mouthpiece. Some official Chinese disclosure would be good.

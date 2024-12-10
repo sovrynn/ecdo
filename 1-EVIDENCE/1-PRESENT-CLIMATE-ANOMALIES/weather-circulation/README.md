@@ -25,3 +25,13 @@ Thanks to BD for this article in today's YT video...
 https://eos.org/articles/centennial-scale-jumps-in-co2-driven-by-earths-tilt
 
 7 events over 70ka. Interesting.
+
+## Slowing ocean circulation
+
+I don't think any of the "scientists" have a clue what is going on. This is all new territory, it breaks their models. Some cry warming, some cry cooling. 
+
+TES is just doing what we all do intuitively, trying to connect the dots that supports his own hypotheses.
+
+What do you do when data speaks the contrary? 
+https://phys.org/news/2024-10-cooling-shift-ocean-circulation-temper.html
+

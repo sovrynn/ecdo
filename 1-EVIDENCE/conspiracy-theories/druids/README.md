@@ -39,3 +39,9 @@ Got a bit further with this book. Main take outs so far it appears the Druids we
 
 ![](img/photo_5806@01-11-2024_14-25-25.jpg)
 
+## Druidism Book Excerpt
+
+Still chipping through the Druidism book when I get chance. Also occurred to me that Shakespeare is called the Divine Bard, purportedly written by Francis Bacon the father of modern freemasonry which ancient roots may lie in Druidism.
+
+![](img/photo_6041@28-11-2024_09-25-28.jpg)
+

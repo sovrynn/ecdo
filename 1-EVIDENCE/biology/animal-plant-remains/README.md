@@ -215,6 +215,13 @@ The South American Boneyard [1/3]. "In South America the pleistocene beds are de
 
 The moment Joe Rogan first learned about the Alaskan graveyard containing the chaotically shredded remains of millions of animals and trees frozen solid in the permafrost. https://t.co/xjokjRxMpq
 
+## Elephant Teeth from the Atlantic Continental Shelf
+
+Elephant Teeth from the Atlantic Continental Shelf, Whitmore et al (1967). During the 1960's, the teeth of mammoths and mastodons were recovered from more than 40 sites at depths up to 120m along the Atlantic continental shelf. The material in which they were found was C14 dated in the range 11.4-8.1ka.
+[1]  https://www.science.org/doi/10.1126/science.156.3781.1477
+
+![](img/photo_6039@27-11-2024_21-54-41.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

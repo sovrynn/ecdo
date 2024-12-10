@@ -48,6 +48,13 @@ https://youtu.be/7Pz7pSLrI_M?si=yTuEdZ-BwSW13Ceu
 
 RT Days Growing Shorter - Earth Rotation Speeding Up https://t.co/vkc0cteTHT via
 
+## Earth tilted 31.5 inches
+
+Is there anything they can't spin as being induced by human activity?
+https://www.popularmechanics.com/science/environment/a62995913/why-has-earth-tilted/
+
+![](img/photo_6024@25-11-2024_12-44-51.jpg)
+
 ## Citations
 
 1. https://www.nature.com/articles/s41561-024-01478-2
