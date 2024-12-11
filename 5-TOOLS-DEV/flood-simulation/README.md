@@ -1,5 +1,10 @@
 # Flood Simulation
 
+## Fluid Sim Software
+
+- Splishsplash: https://github.com/InteractiveComputerGraphics/SPlisHSPlasH
+- MESHFREE: https://www.meshfree.eu/
+
 ## Steven Ward simulations
 
 Steven Ward:
