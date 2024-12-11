@@ -58,3 +58,11 @@ Yeah, you found some jpeg artifacts there - well done!
 Sad to say that we are at a point in technology that things look really good, but you just can't trust what you see on a screen these days.  Between some amazing software and people who are hungry for hits, it is the wild west of fakery
 
 Interesting that this artifact is only visible around the sky object. There are no similar geometries to be seen around any of the other object edges (ie. the tree line).
+
+## Fox News Host records drone above her NJ Home 
+
+"They are not up high like an airplane. They're flying low, you can see them and they're huge. These are not hobby drones."
+
+https://x.com/ethicaltruther/status/1866255833421521251?s=46
+
+Psyop soup?

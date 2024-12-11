@@ -72,6 +72,13 @@ This decay was expected & anticipated.
 
 ![](img/photo_5914@11-11-2024_16-29-38.jpg)
 
+## Lunar Impacts 2024 December 8
+
+More impactor activity in our neighborhood.
+[1] https://watchers.news/2024/12/09/two-lunar-impact-flashes-december-2024/
+
+![](img/photo_6172@09-12-2024_21-23-59.jpg)
+
 ## Citations
 
 1. Craig Stone

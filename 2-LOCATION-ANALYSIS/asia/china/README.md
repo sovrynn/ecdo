@@ -17,6 +17,12 @@ Beijing:
 
 Potentially mega current ripples in the Taklamakan Desert.
 
+## State-level ECDO prep
+
+My friend doesn't know how widespread the awareness is in China, but she's been seeing people talk about it on Chinese websites. Also, she mentions that the government has been providing incentives for businesses to move inland, away from the coast,  specifically into Xinjiang and areas of Sichuan.
+
+Of all the cities in China, Xinjiang is definitely looking like one of the best options from a geographical perspective. I second the comments about cities in general - they're not a good place to be during one of these.
+
 ## Ocean Displacement
 
 I predict China will have to deal with water coming from 3 major chokepoints, along with the (shallow) water already in the Yellow Sea. Note that the Yellow Sea bay forms a natural chokepoint in and of itself. If you just look at the shape of the east Asian coastline, it's got several very concave bays.

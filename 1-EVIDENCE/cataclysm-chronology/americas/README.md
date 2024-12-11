@@ -138,6 +138,23 @@ https://youtu.be/F3DCspAN4Xk?si=0bLSPdvim52XI1r3
 
 ![](img/photo_6143@07-12-2024_20-04-58.jpg)
 
+## Mayan account of the destruction of Atlantis
+
+"The year six Kan, on the eleventh Muluc, in the month Zac, there occurred terrible earthquakes, which continued without  intermission until the thirteenth Chuen. The country of the hills of mud, the ‘land of Mu,’ was sacrificed. Being twice upheaved, it suddenly disappeared during the night, the basin being continually shaken by volcanic forces. Being confined, these caused the land to sink and rise several times and in various places. At last, the surface gave way, and the ten countries were torn asunder and scattered into fragments; unable to  withstand the force of the seismic convulsions, they sank with sixty-four millions of inhabitants, eight thousand years before the writing of this book.”  - Maya account of the destruction of Atlantis, from Dr. Augustus Le Plongeon’s rendering of the Troano manuscript (Madrid Codex).
+[1] https:// (https://t.co/SWncJTpk1U)en.wikipedia.org/wiki/Madrid_Co (https://t.co/SWncJTpk1U)dex_(Maya) (https://t.co/SWncJTpk1U)
+[2] https:// (https://t.co/fkg7pEJlFr)nobulart.com/a-story-of-atl (https://t.co/fkg7pEJlFr)
+
+The Madrid Codex. First image is captioned "Rain-bringing snakes"
+https://en.wikipedia.org/wiki/Madrid_Codex_(Maya)
+
+![](img/photo_6176@10-12-2024_10-51-56.jpg)
+
+![](img/photo_6177@10-12-2024_10-51-56.jpg)
+
+400 years is not far off the 406 year average grand solar minimum interval.
+
+![](img/photo_6185@10-12-2024_21-44-12.jpg)
+
 ## Citations
 
 1. https://zsitchinindex.wordpress.com/the-earth-chronicles-index/book-4-the-lost-realms/chapter-7-the-day-the-sun-stood-still/

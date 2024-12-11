@@ -177,6 +177,10 @@ Survival strategy of elites released on 1973 same as temperature and magnetic no
 
 Hard copy here.
 
+![](img/photo_6186@11-12-2024_09-32-20.jpg)
+
+![](img/photo_6187@11-12-2024_09-37-56.jpg)
+
 ## US Dollar decoupling
 
 "The decoupling of the U.S. dollar from gold in 1971, known as the Nixon Shock, fundamentally transformed global monetary policy, enabling unprecedented flexibility in response to systemic challenges. Exploring this transition through the lens of historical evidence and current events, we can see how it allowed the U.S. and global economies to adapt to both economic and geophysical pressures, including potential geomagnetic influences." Excerpt from an interaction discussing USD, BTC, Bretton Woods and the geomagnetic excursion.

@@ -2,6 +2,10 @@
 
 ![](img/em-fractal.jpg)
 
+## Electric Universe, Mega landscape electricity fractal
+
+https://youtu.be/FTHINDwcLCg
+
 ## Nobulart excerpt
 
 Bearing in mind that both the earth and atmosphere are always 'charged' - the only thing that changes is the relative difference in charge between the two, I'd venture that all of humanity doesn't produce enough electrical power to artificially spike voltages 10,000 times higher than the usual between earth and the atmosphere across such a vast area. 

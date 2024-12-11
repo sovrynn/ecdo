@@ -234,6 +234,20 @@ Consider the dragon of Morocco, Mudfossil University.
 
 https://youtu.be/9o54dMS_r3o?si=8cMvgQ65HaP94MtG
 
+I was introduced to the giant fossils La perhaps five years ago.. Mudfossil University, Roger.. a paleontologist does a beautiful, humbl  explanation of his observatioe—and many metal assessments, and do much more!
+
+The satellite view of the Dragon of Morocco (astounding!) Was mind blowing. We gave long been indoctrinatied that fairy tale giants existed in the unrealistic days of old timeless tales…. 
+BUT THIS IS AN AMAZING REALITY SHOCKER. (Surprised that it wasn’t scrubbed.
+
+A few years after checking out Mudfossil University clips- and some others undergoing global geological analysis… In sumner of 2022 I was invited to hike a place in Pennsylvania known for the varicolered rocks I have been a rock collector since I was 8yo. It’s a spiritual journey, I now see.
+
+The lay of the land for both of the fossilized creatures (submitted by volcanic ask, imo) was that ther was massive forests with huge trees (big petrified tree structures here; very old mountains).
+Both the PA and the NC fossil structures were lying on their sides. My gut assessment says they we a fat/dense structured mammal. The PA skeleton was massive.  There was a long rope swing into the cavity..where a swim pond would be in wet summer months.  The sligh waterfall flowed where an esophageal/tracheal structure would have existed.
+Now… how I “SAW” This.. was enjoying the rope swing cool back hiking place.. We chose to hike a steep short climb down 20’ (?). To the bottom where the spring flowed.  There  walking a short distance I cane upon a rock that appeared to be (my description to keep word more condensed). Red-brown liver very finely dissolving. It immediately struck me that this appeared like liver tissue. Crazy, RIGHT!  
+But my anatomy background said— if this is liver, then there must be bile ducts ..  and.. fkg real there wew bile green very small irregularly conversed “tubes” in this massive Righ sided (as determined by the rib cage position). It was a crazy and profound personal discovery. We need to “see” beyond our eyes.
+
+My second “discovery” Granny Burrell falls is similar in structure, smaller, and less defined. The rob structures are well defined. It was a different giant animal  much petrified wood and mica schist (ash) are abundant. As well as many minerals in this smokejumper arena National Forest area. Praying that the residents can be safe here—do many higher aspiring beings here. Praying for safety. 🙏🏽
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

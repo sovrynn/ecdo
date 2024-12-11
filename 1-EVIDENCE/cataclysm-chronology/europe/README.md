@@ -134,6 +134,51 @@ Ancient Egyptians saw the cosmic egg as the soul of the primeval waters out of w
 ![](img/nord1.jpg)
 ![](img/nord2.jpg)
 
+## Nuremburg Chronicle
+
+The Nuremberg Chronicle, also known as Liber Chronicarum or the Chronicle of the World, is a landmark historical work published in 1493 in Nuremberg, Germany. It is renowned for being one of the most ambitious and richly illustrated books of its time, blending historical narrative with a vast collection of woodcut illustrations.
+
+Interesting. This one is "The Destruction of Jerusalem"
+
+![](img/photo_6178@10-12-2024_12-04-50.jpg)
+
+"The Destruction of Jerusalem","The Universe" and "Sodom and Gomorrah" from the Liber Chronicarum ("Book of Chronicles") aka. the Nuremberg Chronicle (1493 CE). Continued in comments...
+[1] https://en.wikipedia.org/wiki/Nuremberg_Chronicle
+
+![](img/photo_6179@10-12-2024_12-28-24.jpg)
+
+![](img/photo_6180@10-12-2024_12-28-24.jpg)
+
+![](img/photo_6181@10-12-2024_12-28-24.jpg)
+
+The concentric rings in the geogentric depiction are labelled (from center):
+
+1. Terra – Earth
+2. Sphaera aquae – Sphere of water
+3. Sphaera aeris – Sphere of air
+4. Sphaera ignis – Sphere of fire
+5. Sphaera Lunae – Sphere of the Moon
+6. Sphaera Mercurii – Sphere of Mercury
+7. Sphaera Veneris – Sphere of Venus
+8. Sphaera Solis – Sphere of the Sun
+9. Sphaera Martis – Sphere of Mars
+10. Sphaera Iovis – Sphere of Jupiter
+11. Sphaera Saturni – Sphere of Saturn
+12. Sphaera stellarum fixarum – Sphere of fixed stars
+13. Cursus planetarum – Course of the planets (outer sphere encompassing the planetary spheres)
+14. Primum Mobile – The "First Mover" or Prime Mover, the outermost sphere in medieval cosmology.
+15. Empyreum mobile – The highest heaven or the "Empyrean," representing the realm of God and the angels.
+
+That is interesting to see their notion of 12, the stellarum fixarum (aka firmament) and 15. Goes to show their medieval understanding of the levels of the heavens.
+
+It has a possible astronomical configuration encoded. The position of each of the listed planets against the ecliptic background.
+
+This is what brought it to my attention. The back of The Cosmic Winter.
+
+![](img/photo_6182@10-12-2024_14-13-23.jpg)
+
+![](img/photo_6183@10-12-2024_14-13-23.jpg)
+
 ## Citations
 
 1. Minoan: http://www.minoancrete.com/chron.htm
