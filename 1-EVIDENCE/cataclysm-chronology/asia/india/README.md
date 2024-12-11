@@ -266,6 +266,152 @@ One guy told shiva(shivaling) as universal consciesness.
 Another aspect of shiva is he is worshiped by gods and demons alike.
 Another aspect of shiva is when things get too evil. He destroys the world for a reset. (Kinda makes sense from earth flip/earth reset perspective).
 
+## Potential Timeline (mainly INdia)
+
+Potential Flip Events:
+
+Flip 2: 3725 YBP / 1700 BCE / 3725 diff : 3.7k/crete volcano
+Flip 1: 3775 YBP / 1750 BCE / 50 diff : crete/Indus valley end
+Flip 2: 5147 YBP / 3122 BCE / 1372 diff : 3rd sangam/dwarika sink/kali yuga
+Flip 1: 7425 YBP / 5400 BCE / 2278 diff : 3.7k/Noah
+Flip 2: 8847 YBP / 6822 BCE / 1422 diff : 2nd sangam
+Flip 1: 11125 YBP / 9100 BCE / 2278 diff : 3.7k/Younger Dryas
+Flip 2: 11375 YBP / 9350 BCE / 250 diff : Dvāravatī sink
+Flip 1: 12975 YBP / 10950 BCE / 1600 diff : saraswati lost
+Flip 2: 13225 YBP / 11200 BCE / 250 diff : 1st sangam/manu flood
+Flip 1: 14825 YBP / 12800 BCE / 1600 diff : 3.7k/Bolling-Allerod
+
+Notes:
+1. This is just version 1 so probably many mistakes, and timeline can be improved alot based on previous observation.
+2. For each event we can basically categorize it into 3: Flip 1, Flip 2 or None. Just include the flips in the data.
+3. Last flip was 2, and chronology of flips is always 1, 2, 1, 2.....
+4. For countries like India where there is huge difference between Flip 1 and Flip 2, can be leveraged to distinguish between both.
+5. Only including high quality data will help us. Like the dates that have been calculated with astrology, or the dates we know really well.
+6. Data for india has been taken from vedveer arya chronology.
+
+## Rivers of India fell south into the ocean
+
+Classifying floos myths into s1>s2 or s2>s1 really helps. 
+This is account of how rivers of india fell to south into the ocean.
+Its an account of s1>s2 as there is little water above India and the rivers momentum goes to south.
+
+![](img/photo_6112@05-12-2024_12-59-18.jpg)
+
+Interesting. I read this as a celstial event occurs initially Possibly a micronova, which is then followed by the earth flip and the deluge of water over the Himalayas that follows the course of the great river channels to the ocean.
+
+How would water comes over himalayas in s1>s2, as there is tibet above. Also, tibet is drained from bengal not himalayas.
+
+Himalayas is like barrier in s1>s2 for India. Indian rivers go south into the sea due to momentum. Causing a drought.
+
+The water mainly is drained through Bengal region of India as mentioned in flood myth. Also, bengal geographically does look like drainage point. 
+I dont think water could get to tibet in s2>s1, so it should be s1>s2 only.
+
+Difference in geography
+
+In tibet s1>s2 cause water deluge.
+In tibet s2>s1 cause drought(not confirm yet)
+
+In india s1>s2 cause drought.
+In india s2>s1 cause water deluge.
+
+## Manu Flood S1 S2 sequence
+
+This is manu flood, here also I can speculate.
+S1>S2: First there was 100 years of drought in India. As rivers were sucked dry and no water from above.
+
+S2>S1: triggered by 7 rays of sun (sunspot cycle+low magnetic field?). mentions very heavy flood deluge. Only himalayan peak was dry. And Manu traveled north via the boat. Its an clear account of S2>S1 as so much water as well the direction of boat of manu.
+
+![](img/photo_6113@05-12-2024_13-08-48.jpg)
+
+## Indian Flood Myth
+
+Found a really detailed indian flood myth.
+ 
+Applied the same method of classifying:
+S1>S2: hundred years of drought, caused by sucking of rivers. Also, mentions 7 blazing sun.
+It mentions ocean coming back and dividing mountains, i suspect its seiche back.
+
+S2>S1: i suspect when it mentions colorful clouds are removed by sudden wind. Thats start of second flip winds.
+
+![](img/photo_6117@05-12-2024_14-22-38.jpg)
+
+7 suns. 7 sisters? The pleiades?
+
+Taurids
+
+The beta Taurids in June arrive on the daylight side of Earth. For this reason the smaller ones are normally invisible in daylight, but large ones - fireballs - would appear as though they are emanating from the Sun because this happens to be the sky region in which they appear.
+
+I don't think the ancients worshiped a bull without reason
+
+![](img/photo_6122@05-12-2024_17-25-40.jpg)
+
+The taurid horns emanating from the sun
+
+## Found  Kalpas/Deluges/New Yuga chronology in skandha puran:
+
+Useful in forming saturn death cult like long chronology from start:
+
+1. Kapila
+2. Prajapati 
+3. Brahma 
+4. Saumya (moon)
+5. Savitra (sun)
+6. Barhaspatya (Jupiter)
+7. Prabhasaka (a Vasu or an attendent on Skanda)
+8. Mahendra ( Indra)
+9. Agnikalpa ( fire)
+10. Jayanta (son of Indra)
+11. Maruta (air )
+12. Vaishmva (Vishnu)
+13. Bahurupa ( maniformed) 
+14. Jyotisha (heavenly bodies)
+15. Mayura (peacock)
+16. Kaurma (tortoise)
+17. Baka ( heron)
+18. Matsya (Vaivasvata manu flood): mentions both s1->s2, s2->s1
+19. Padmit ( lotus)
+20. Vatakalpa ( banyan)
+21. Varaha (boar): mentions mostly s1->s2, not much s2->s1
+Current times
+
+## 7 suns in detail
+
+7 Suns in detail
+What does it correspond to
+
+![](img/photo_6144@08-12-2024_03-59-51.jpg)
+
+## Yuga Geomagnetic Theory
+
+Here tried to simplify it:
+Assume, 
+1. rotational speed of earth in state 1=s1 and state 2=s2.
+2. Difference between mantle and core speed is what determines magnetic field.
+3. Notice how mantle rotation is same as state, but core is lagging behind. As, mantle would drive flip and core would slowly catch up.
+4. Magnetic field is what determines people behaviour etc. Yugas classification the thing mentioned again and again is behaviour/morals/etc. Also, electroculture points out how plants grow immensely in right magnetic field. 
+ I guess yugas must be related to magnetic field.
+
+Kali yuga: magnetic field declining=declining behaviour
+s1>s2
+Ghor kali yuga: magnetic field negative/incompatible= insane/mad max behaviour
+s2>s1
+Satya yuga/golden age: magnetic field positive/compatible=truth full behavior.
+
+It could also explain how there is sudden 180° shift in people behavior from ghor kali yuga to satya yuga. And how there is high growth of plants during satya yuga/golden age.
+
+![](img/photo_6149@08-12-2024_12-06-12.jpg)
+
+### Nobulart comment
+
+The assumption is likely correct. The difficulty with making any determinations of geomagnetic configuration is that its not just the difference of rotation between core and mantle. The field has multiple components, of which some are fixed relative to the crust and others are in flux, and possible external influences on the configuration include the Sun-Earth Birkeland component, planetary harmonics, a galactic current sheet and/or the near passage of other highly charged bodies near to the Earth (including bolides which become highly charged when entering the atmosphere to the point of releasing vast quantities of EM radiation in the X-Ray and Gamma range). The only (slight) possibility of making predictions in such a complex system is by observing and recording in detail all of the influences and effects over two or more previous events in order to generate a predictive model. In other words we are woefully lacking in the comprehensive historic data required to predict the evolution of the Earth's EM field.
+
+## Mahabharata Myth
+
+Found one related myth, pretty sure this new one is s1>s2 corresponding to Manu flood(s2>s1), 11200 BCE(vedveer arya).
+
+How Agastya(wind and fire) drank up the ocean(south indian ocean s1>s2). 
+Indra ruthlessly killed Vṛttrāsura, who had been harassing the Gods, with the help of the Kālakeyas. The frightened Kālakeyas got into the ocean and hid themselves at the bottom. From that hideout they decided to destroy the three worlds. At night they came out on the earth and ate a good deal of Brahmins, and caused much damage to the hermitages of Vasiṣṭha and Cyavana. All the Brahmins on the earth were terribly afraid of the Kālakeyas. The gods went to Viṣṇu and prayed for protection. Viṣṇu informed them that the Kālakeyas could not be caught unless the ocean was dried up, and this task could be performed only by Agastya. So the Gods approached Agastya and told him what Viṣṇu had informed them. With pleasure Agastya accepted the job. Accompanied by the Gods and hermits he neared the swaying and surging ocean. While all were watching unwinkingly Agastya brought the great ocean into his palm and drank it up very easily and subsequently the Kālakeyas were killed. Now the Gods again approached Viṣṇu and made representation about the loss of the ocean. Viṣṇu told them that by the penance of Bhagīratha the divine Gaṅgā would fall into the earth and then the ocean will be filled. In this way the earth regained its lost ocean. (Mahābhārata, Vana Parva, Chapters 101 to 105).
+
 ## Citations
 
 1. https://talkorigins.org/faqs/flood-myths.html#Tamil

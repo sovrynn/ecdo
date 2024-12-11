@@ -1,5 +1,16 @@
 # Human Remains
 
+## France Gravel Pit Remains with Animals
+
+France. "The gravel-pit, in which the human remains were found. is situated about two hundred and ninety feet above the level of the sea, and thirty-six feet above that of the Nori Marne. The bones themselves were buried from nineteen to twenty-three feet deep in the gravel, of which a cut gives full details, and they consist of a lower jaw and a thigh bone, both belonging to quite a young individual. The same gravel-pit yielded at similar depths bones of such well known quarternary fauna as the Ziephas Prinigenius, Bos Primigenius, Rhinoceros Tichorinos; and some six feet deeper there were found three fine flint flakes one of which was more than five inches in length." - The American Antiquarian Vol 6:1 (1884)
+[1] https://archive.org/details/sim_american-antiquarian-and-oriental-journal_1884-01_6_1/page/60/mode/2up
+
+![](img/photo_6133@07-12-2024_18-31-15.jpg)
+
+![](img/photo_6134@07-12-2024_18-31-15.jpg)
+
+![](img/photo_6135@07-12-2024_18-31-15.jpg)
+
 ## Archaeologists Uncover Remains of Two Children and an Adult Believed to be 3,800 Years Old, Linked to Ancient 'Water Cult'
 
 https://www.msn.com/en-gb/news/world/archaeologists-uncover-remains-of-two-children-and-an-adult-believed-to-be-3-800-years-old-linked-to-ancient-water-cult/ar-AA1pgMk4?ocid=winp2fptaskbarhoverent&cvid=fc15d0494a344b7487d8b92d0ab9bd22&ei=14

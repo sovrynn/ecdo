@@ -202,6 +202,25 @@ https://static1.squarespace.com/static/53c4798be4b07557fac30898/t/601bb948d076a0
 
 Amazon is a prime example (Excuse the pun). A major loss making behemoth until it coincidentally took on the role of operating the data processing for the US's intelligence agencies.
 
+## Tactical nukes
+
+https://x.com/realstewpeters/status/1837554098528260560?s=19 potential nuke in Lebanon yesterday
+
+https://x.com/cirnosad/status/1837687124075921598?s=19
+
+https://x.com/cirnosad/status/1837689942006272346?s=19
+
+Last one https://x.com/cirnosad/status/1837698477100302667?s=19
+
+Agree on that, not only observed in Lebanon but also Russia Tver attack impact is more aligned with tactical nukes than the official "drone debris", which is actually absurd as the reinforced ammunition bunkers totalled in large areas.
+
+Some YT from Tver attack:
+https://www.youtube.com/watch?v=7xxwgrcB4uI
+
+The one that took place at toropets was a clear tactical nuke. You can see it from the column rising on pictures-followed by a Shroom. Characteristics of having an ionising column as opposed to a thermobaric which spreads in a non symmetrical way without the column
+
+There are tactical nukes which fission at near 99% which does not spread radiation otherwise common in bigger older and strategic nukes. Lebanon port and toropets are show cases
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

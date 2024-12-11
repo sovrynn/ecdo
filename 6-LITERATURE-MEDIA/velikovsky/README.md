@@ -244,6 +244,17 @@ A year was not always 365.2422 days. Velikovsky : https://t.co/oE4E5nShPN https:
 
 https://www.varchive.org/lec/valais/mankind.htm
 
+## Velikovsky Fan
+
+Enjoyed this comment on the YT copy of this documentary. (Bonds of the Past)
+
+![](img/photo_6152@09-12-2024_08-51-27.jpg)
+
+## Cataclysmic Evolution (https://nobulart.com/cataclysmic-evolution/)
+
+“When, therefore, the earth, covered with mud from the recent flood, became heated up by the hot and genial rays of the sun, she brought forth innumerable forms of life, in part of ancient shapes, and – in part creatures new and strange.” – Ovid, Metamorphoses
+https://nobulart.com/cataclysmic-evolution/
+
 # TODO
 
 - flood records

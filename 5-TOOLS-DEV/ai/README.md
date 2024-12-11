@@ -2,6 +2,8 @@
 
 You don't necessarily need an ECDO-trained LLM to do translations, as you can either generate or write a summary in English, and then feed it into an ECDO-unfamiliar LLM and ask it to translate it.
 
+![](img/photo_6147@08-12-2024_11-34-08.jpg)
+
 ## Data Sources
 
 Anna's Archive: https://annas-archive.org/llm
@@ -59,3 +61,14 @@ In summary, the ECDO is theorized to result from the complex interaction of ther
 GPT Image inputs: https://help.openai.com/en/articles/8400551-image-inputs-for-chatgpt-faq
 
 GPT data analysis: https://help.openai.com/en/articles/8437071-data-analysis-with-chatgpt
+
+## ECDO Modeling
+
+What would it take to create and apply a deep learning model to this ? Has anyone spec'd that out ?
+
+![](img/photo_6114@05-12-2024_13-31-51.jpg)
+
+Weather is now being better predicted by deep learning than by the previous simulation methods. Perhaps we should be applying that to the ECDO situation ? To figure out what might happen, approximations of when, where might be safest and why and what to do about it, objectively speaking.
+
+I expect someone, somewhere has done that already, but I doubt they're making it public.
+

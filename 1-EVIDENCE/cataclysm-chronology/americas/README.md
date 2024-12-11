@@ -1,5 +1,23 @@
 # North and South America Myths
 
+## Makah Indians Account
+
+The Makah Indians, who live at Neah Bay, the northwest corner of the [Washington] Territory, next to the Pacific Ocean, also the Chemakums and Kuilleyutes, whose original residence was near the same region, speak of a very high tide. According to their tradition, "A long time ago, but not at a very remote period, the waters of the Pacific flowed through what is now the swamp and prairie between Waatch village and Neah Bay, making an island of Cape Flattery. The water suddenly receded, leaving Neah Bay perfectly dry. It was four days reaching its lowest ebb, and then rose again without any waves or breakers till it had submerged the Cape, and in fact the whole country except the “tops of the mountains at Clyoquot. The water on its rise became very warm, and as it came up to the houses, those who had canoes put their effects in them, and floated off with the current, “which set very strongly to the north. Some drifted one way, some another; and when the waters assumed their accustomed level, a portion of the tribe found themselves beyond Nootka, where their descendants now reside, and are known by the same name as the Makahs in Classet, or Kwemaitchechat. Many  canoes came down in the trees and were destroyed, and numerous “lives were lost. The water was four days in gaining its accustomed level.” 
+- Traditions of the "Deluge" Among the Tribes of the North-West, Eells, published in The American Antiquarian Vol 1:2 (1878)[1].
+
+This looks very much like a description of a State 1 to State 2 rotation [2] from the coastal region to the west of the Scablands[3], including the duration of the trans-Pacific seiche. 
+
+[1] https://archive.org/details/sim_american-antiquarian-and-oriental-journal_1878-07_1_2/page/70/mode/2up
+[2] https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/ by @EthicalSkeptic 
+[3] https://x.com/search?q=scablands%20from%3Anobulart&src=typed_query
+👀 @randallwcarlson
+
+A little further south in Oregon: "The excavation showed a depth from five to six feet of this debris, and the original dist strata had not yet been reached. I stood by the wall of this seemingly unlimited bed, and with a stick dug into the bank, finding shells of various kinds, some of which are not now found on this coast, all bearing evidences of having been used for food, sometimes calcined; also the bones and vertebra of fish, bones of birds, deer, and other animals, and among them the bones of the human body, sometimes the tiny rib of a little child, and sometimes the arm bones or the shoulder blade of an adult; skulls, too, were not infrequent. The horrible suspicion of cannibalism suggested itself to my mind.   
+
+These remains were scattered indiscriminately, just as one might imagine the garbage of a house might be thrown day. by day and so accumulate in a heap. while earth and stones were mixed with the bones. Of the length of this bed I have no knowledge, and can only imagine the age. It was in shore half a mile and must have, in ancient times, been the beach proper."
+- Shell Beds of Clatsop Beach in Oregon, Clarke, The American Antiquarian Vol 1:4 (1879)
+[1] https://archive.org/details/sim_american-antiquarian-and-oriental-journal_1879-04_1_4/page/210/mode/2up
+
 ## Peru Timeline, Inca Mythology - Montesinos (Spaniard, arrived Peru 1628)
 
 *"According to Montesinos, there were three distinct periods in the history of Peru. First, there was a period which began with the origin of civilization, and lasted until the first or second century of the Christian era. Second, there was a period of disintegration, decline, and disorder, introduced by successful invasions from the east and southeast, during which the country was broken up into small states, and many of the arts of civilization were lost; this period lasted more than a thousand years. Third and last came the period of the Incas, who revived civilization and restored the empire."* [2]
@@ -112,6 +130,13 @@ https://archive.org/details/toamericanindia00thomgoog
 ## Inuit People on Pole Shift
 
 https://youtu.be/F3DCspAN4Xk?si=0bLSPdvim52XI1r3
+
+## Eskimo Mountain Ice Cap Remnant
+
+"The story is, that the waters rose to the top of the mountains, but after they retired they left the mountains covered with a cap of ice." 
+[1] https://archive.org/details/sim_american-antiquarian-and-oriental-journal_1893-11_15_6/page/350/mode/2up
+
+![](img/photo_6143@07-12-2024_20-04-58.jpg)
 
 ## Citations
 

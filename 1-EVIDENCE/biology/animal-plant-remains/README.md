@@ -222,6 +222,12 @@ Elephant Teeth from the Atlantic Continental Shelf, Whitmore et al (1967). Durin
 
 ![](img/photo_6039@27-11-2024_21-54-41.jpg)
 
+## Cave with Mammoth Rhinoceros
+
+[1] https://archive.org/details/sim_american-antiquarian-and-oriental-journal_1884-01_6_1/page/62/mode/2up
+
+![](img/photo_6136@07-12-2024_18-36-37.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

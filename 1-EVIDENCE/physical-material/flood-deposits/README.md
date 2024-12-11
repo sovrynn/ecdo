@@ -132,6 +132,21 @@ Sequential Newfoundland bog outwash deposits dating to the 3700 year planetary h
 
 ![](img/photo_6052@29-11-2024_17-31-42.jpg)
 
+## The Deep (https://nobulart.com/the-deep/)
+
+In July 1947 a Swedish deep-sea expedition left Göteborg on the Albatross for a fifteen-month journey around the world to investigate the bottom of the seas on the seventeen thousand miles of the ship’s course with the help of a newly constructed vacuum core sampler. In the sediment that covers the rocky bottom of the oceans the expedition found, in the words of its leader, H.Pettersson, director of the Oceanographic Institute at Göteborg, “evidence of great catastrophes that have altered the face of the earth.”
+https://nobulart.com/the-deep
+
+Could a micronova account for this meteroric dust?
+
+I had the thought, arising from the SAFIRE experiements, that Nickel is a major byproduct of plasma reactions. Very likely the reason that space debris is nickel-rich. Yes. It could be.
+
+### GPT Summary
+
+Immanuel Velikovsky's Earth in Upheaval explores geological evidence of cataclysmic events that have shaped Earth's oceans and continents. The 1949 expedition to the Mid-Atlantic Ridge led by Professor M. Ewing uncovered prehistoric beach sand miles beneath the ocean, suggesting that land masses had either sunk drastically or the sea level had been far lower in the past. Additionally, the surprisingly thin sediment layers in the ocean basins contradicted assumptions about their accumulation over millions of years, while the thick sediment on the Ridge's flanks indicated more recent geological activity. These findings suggested dramatic upheavals, including volcanic eruptions and tectonic shifts that reshaped the ocean floor.
+
+Further evidence from global expeditions, such as the Swedish Albatross journey, revealed volcanic layers, meteoric dust, and other signs of past catastrophes. The sediments and red clays of ocean floors bore traces of cosmic and terrestrial upheavals, including meteoric showers, volcanic explosions, and massive tectonic movements. These events likely caused tidal waves and dramatic alterations to Earth's surface. Velikovsky connects these findings to a broader pattern of violent disruptions, underscoring the Earth's dynamic and tumultuous history, far from the stable processes often assumed in conventional geology.
+
 ## Citations
 
 1. Uriel's Machine

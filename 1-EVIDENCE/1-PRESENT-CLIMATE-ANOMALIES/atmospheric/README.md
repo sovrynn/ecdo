@@ -24,3 +24,12 @@ https://arxiv.org/abs/2411.08189
 ![](img/photo_6090@02-12-2024_13-54-19.jpg)
 
 Being a ground-based observatory, the increase would also be due, in part at least, to the weakening of the geomagnetic field, especially the migration and expansion of the SAA which extends to southern Africa where the observatory is sited. Knowing this component would allow for the isolation other other parts of the signal.
+
+# Extremely energetic electrons strike Earth from a strange nearby source
+
+Dated:     By Michael Irving
+November 29, 2024            https://newatlas.com/physics/highest-energy-electrons-pulsar/
+
+Could something be approaching earth??
+
+I would think that may be the case.

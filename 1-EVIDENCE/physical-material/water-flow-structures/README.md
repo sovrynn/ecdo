@@ -116,6 +116,16 @@ https://www.youtube.com/watch?v=u5m65EPHLg
 
 Hard copy of 2003.pdf here.
 
+## The Eye of Mexico
+
+The Eye of Mexico. 800km NNW of Mexico City, 1000m above sea level, near a formation similar to the Richat Structure, lie at least three ancient cities destroyed by an overflow of water and mud. Massive walls have been found, but they are covered with a layer of deposited earth 60ft thick containing human skeletons and the tusks of mammoths: 
+
+"The indications are that there were many massive structures in the fallen city, and that they were of a class of architecture not to be found elsewhere in Mexico. ...the city in question had a population of at least 50,000. All the inhabitants of the cities were killed, as well as all the animals. Skeletons of humans and animals are strewn all through the debris, from a depth of three feet from the surface to a depth of sixty feet deep where the largest of the cities stood." - Nicholas Leon, National Museum of Mexico, American Antiquarian (1903)
+
+[1] https://archive.org/details/sim_american-antiquarian-and-oriental-journal_november-december-1903_25_6/page/394/mode/2up
+
+Hard copy of mexico.m4v here (removed because >100 MB).
+
 ## Citations
 
 1. ScholarAI

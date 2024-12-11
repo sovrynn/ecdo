@@ -22,6 +22,25 @@ https://www.sciencedirect.com/science/article/abs/pii/S1011134418305505
 
 Hard copy here.
 
+## Cataclysmic Evolution (https://nobulart.com/cataclysmic-evolution/)
+
+“When, therefore, the earth, covered with mud from the recent flood, became heated up by the hot and genial rays of the sun, she brought forth innumerable forms of life, in part of ancient shapes, and – in part creatures new and strange.” – Ovid, Metamorphoses
+https://nobulart.com/cataclysmic-evolution/
+
+I was looking for a paper I shared a while back linking the step function of evolutionary phases to solar micronova events (Ben shared it)... but I can't find it.
+
+Here is a closely related idea I came across in my search:
+
+https://news.stanford.edu/stories/2024/07/revisiting-the-cambrian-explosion-s-spark
+
+Found it!
+
+https://www.youtube.com/watch?app=desktop&v=IQyvxqrAZVE
+
+https://nobulart.com/cataclysmic-evolution/#gpt
+
+![](img/photo_6148@08-12-2024_11-50-03.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

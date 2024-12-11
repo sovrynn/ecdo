@@ -102,3 +102,15 @@ https://web.archive.org/web/20220313140055/https://www.zerohedge.com/geopolitica
 ![](img/saudi-profile3.jpg)
 ![](img/saudi-profile4.jpg)
 ![](img/saudi6.png)
+
+## Springfield Missouri Underground City
+
+"Truck driver films himself driving into one of America’s underground cities
+
+📍 Springfield, Missouri"
+
+https://x.com/WallStreetApes/status/1865478293861921098
+
+Some more on the Springfield Underground. Stockpiling food. 
+[1] https://www.ozarksfirst.com/news/the-springfield-underground-what-exactly-is-down-there/
+[2] https://en.wikipedia.org/wiki/SubTropolis

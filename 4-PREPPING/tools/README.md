@@ -57,6 +57,24 @@ https://geomag.bgs.ac.uk/education/earthmag.html
 
 Maybe there is an easier way, but if Ben wants the data - he should make a Suspicious0bserver app
 
+## Nuclear Reactor
+
+The end of nuclear waste? In 2023 the SAFIRE team commenced tests on their 3rd-generation reactor (the size of a portable radio), and used it to transmute the radioactive element thorium into non-radioactive elements; accelerating its decay rate from 14 billion years to minutes.
+Video : https://vimeo.com/897600309
+Project: https://aureon.ca
+
+![](img/photo_6108@04-12-2024_11-40-10.jpg)
+
+![](img/photo_6109@04-12-2024_11-40-10.jpg)
+
+![](img/photo_6110@04-12-2024_11-40-10.jpg)
+
+Safire is a plasma reactor based on the electric universe theory of the sun. It doesn’t run on heat from nuclear fission. It uses electrically excited plasma to generate heat. It just so happens that the hydrogen plasma in these reactors can also transmute radioactive materials into other elements. It eats nuclear waste and spits out copper, nickel, lead and other elements. It creates clean energy from a reusable fuel (hydrogen) whilst also solving the nuclear waste problem.
+
+https://x.com/nobulart/status/1864417471807058263?s=46
+
+SAFIRE is, at its heart, a very simple design. The secret to making it work is in finding the right combination of current, frequency and gas mixture. Seeing what the SAF team have achieved in just a few years, its almost a certainty that this tech has already been developed and is already in use. Having the critical fuel components (nuke waste and hydrogen) on hand together makes sense.
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

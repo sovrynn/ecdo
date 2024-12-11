@@ -55,6 +55,13 @@ https://www.popularmechanics.com/science/environment/a62995913/why-has-earth-til
 
 ![](img/photo_6024@25-11-2024_12-44-51.jpg)
 
+## Core-mantle relative angular velocity
+
+Core-mantle relative angular velocity is an inverse relationship. Paper linked from the post provide a deeper explanation. 
+https://x.com/nobulart/status/1858038240277671975
+
+![](img/photo_6146@08-12-2024_10-33-06.jpg)
+
 ## Citations
 
 1. https://www.nature.com/articles/s41561-024-01478-2

@@ -1,5 +1,13 @@
 # Datasets
 
+## Pole shift news
+
+Anyone know anything about this website that plots the magnetic pole position? I used to follow it and kind of forgot about it.        https://www.poleshiftnews.com/earths-health-at-a-glance.html
+
+Their data suggests the pole stopped moving in July 23 for a couple of months and is racing ahead again.
+
+![](img/photo_6131@06-12-2024_14-22-20.jpg)
+
 ## DEM (Digital Elevation Models)
 
 - Google earth engine: https://earthengine.google.com/platform

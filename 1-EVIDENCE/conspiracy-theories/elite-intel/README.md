@@ -98,6 +98,18 @@ For those that may have missed this. I think we're much closer to the real discl
 
 ![](img/photo_6056@30-11-2024_09-43-44.jpg)
 
+## Coverups
+
+Magnetic pole shift coverup hits new level***
+
+“They got to them, we can’t trust MS1 data. I’m sure you are as frustrated as I am.”
+
+- F., D.O.E.
+
+Yes folks… it’s not just nasa mms and esa swarm, but the Chinese Macau science 1 mission is now compromised as well. That makes three billion-dollar magnetic field missions, and three groups hiding the real data.
+
+https://x.com/SunWeatherMan/status/1864398147604431073?t=nHJTUC8FvEY9A3wNgNKTWw&s=19
+
 ## Citations
 
 1. Craig Stone
