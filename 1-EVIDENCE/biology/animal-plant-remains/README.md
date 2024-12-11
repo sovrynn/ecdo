@@ -228,6 +228,12 @@ Elephant Teeth from the Atlantic Continental Shelf, Whitmore et al (1967). Durin
 
 ![](img/photo_6136@07-12-2024_18-36-37.jpg)
 
+## Dragon of Morocco, Mudfossil University
+
+Consider the dragon of Morocco, Mudfossil University.
+
+https://youtu.be/9o54dMS_r3o?si=8cMvgQ65HaP94MtG
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

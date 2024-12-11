@@ -255,6 +255,12 @@ Enjoyed this comment on the YT copy of this documentary. (Bonds of the Past)
 “When, therefore, the earth, covered with mud from the recent flood, became heated up by the hot and genial rays of the sun, she brought forth innumerable forms of life, in part of ancient shapes, and – in part creatures new and strange.” – Ovid, Metamorphoses
 https://nobulart.com/cataclysmic-evolution/
 
+## Micronova Supernova references
+
+As might be expected, he does mention nova and supernovae in his much later work, Mankind in Amnesia.
+
+![](img/photo_6153@09-12-2024_11-21-37.jpg)
+
 # TODO
 
 - flood records
