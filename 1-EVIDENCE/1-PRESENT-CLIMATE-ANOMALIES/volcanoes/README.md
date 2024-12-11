@@ -54,3 +54,7 @@ https://watchers.news/2024/11/21/lava-destroys-blue-lagoon-parking-iceland-novem
 
 ![](img/photo_5988@22-11-2024_10-18-15.jpg)
 
+## Bledug Kesongo Mud Volcano
+
+https://x.com/infomitigasi/status/1863779203059241072
+

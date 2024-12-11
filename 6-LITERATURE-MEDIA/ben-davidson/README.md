@@ -10,6 +10,12 @@ He also has a [Youtube channel](https://www.youtube.com/@Suspicious0bservers/sea
 
 He believes there is a 6000 year "event" cycle. He talks about the crust decoupling from the low velocity zone at the top of the mantle which is basically an electromagnetically charged region that keeps the crust fixed to the liquid mantle. He believes that a coming solar micronova temporarily disrupts this zone enabling the weight of the ice caps to migrate to the equator in a 90 degree flip.
 
+## Chan Thomas
+
+Interesting nugget from the BD transcripts: "By the way, a couple libraries are known to have 
+the 284-page original Chan book, but you can only get the 57-page sanitized version 
+from the CIA."
+
 ## Streams
 
 https://www.youtube.com/live/5u5XC9OKAOY?feature=shared

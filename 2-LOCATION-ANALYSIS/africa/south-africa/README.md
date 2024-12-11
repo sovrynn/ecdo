@@ -122,6 +122,50 @@ Makgadikgadi estimated to have last been wet 16ka BP.
 
 "The region occupies less than 0.5% of Africa's land area but supports approximately 20% of its plant life."
 
+## "Elite" Planning Speculation
+
+Something that's been bothering me... South Africa appears to be a prime location for surviving the flip. Good weather. No inundation. Potentially good weather during S2. Why is it not being utilized for this purpose by the western elite? Why, instead of using it in some way, they encourage the country's self-destruction? Or am I missing anything?
+
+In many respects, it is. 
+
+I heard the family who own a major global food & beverage empire might be setting up places for some of their heirs (in the broader region.)
+
+A number of ZA $ billionaires (like the Oppenheimers, the Ruperts etc) could live anywhere in the world but they still base themselves there. 
+
+ZA's tax system isn't optimal though, so unless you want the ZA govt to tax you on your world wide income, you have to be careful how you base yourself there, as an UHNW. 
+
+It also has other factors to consider like (violent) crime & corruption. Although, given how other western  locations are rapidly deteriorating recently, that may soon be moot. 
+
+The government has also made it harder to emigrate there, for past "colonialist" reasons, especially for Caucasians. You have to have a skill they want etc. Even then, they've been throttling visas lately, to try force the skills transfer to locals. It's impacting foreign companies bringing in staff to run subsidiaries.
+
+Political leaders like Malema vocally calling for the extinction of the (minority) white population also causes perception issues.
+
+I know a foreigner HNW, who lived there for over 7 years but didn't naturalise. They recently messed him around on his visa renewal & he refused to pay exorbitant bribes to sort it out, so even though he owns property there, he can't live there full-time, for some reason.
+
+You need to know where to base yourself too & be willing to live (currently) with the crime rate (can be violent), very high unemployment rates (60% youth unemployment & high poverty) & the social issues it creates, deteriorating infrastructure (electricity with frequent load shedding, water, sewerage, healthcare etc).
+
+Most Westerners don't understand Africa. And they often write it off (in racist ways.) They just can't get their heads around the various risks.
+
+South Africans are also not everyone's cup of tea. It has its own culture. 
+
+But if you can handle all that, psyche yourself up to deal with any S1 potentially barbaric/violent outcomes, it's a great place, decent weather & 👍🏻 S1 (albeit a tad colder than it currently is) and S2 is ok 👍🏻too.
+
+## Wealthy Families
+
+The Oppenheimers have been here for well over a century. DeBeers mining company was founded by Cecil Rhodes and the Rothschilds in the late 1800’s. The Oppenheimer’s assumed control of the company in the early 1920’s.
+
+## South Africa Resource Abundance
+
+Here’s a thought. If the event occurs as anticipated, then SA will be one of the few places which isn’t covered with considerable diluvial deposits during the rotation. It’s also one of the most mineral rich regions on the planet. Many of the essentials for rebuilding are found here. After an ECDO it would be one of the only places where minerals are still abundantly accessible at the surface.
+
+![](img/photo_6068@01-12-2024_10-57-33.jpg)
+
+In the movie 2012 the African continent is the one that was not inundated and the new place for civilization to grow. Highest point on earth was the Drackensberg mountain range. Check it out. Maybe they do tell us after all.
+
+S Africa is immensely rich in mineral wealth. Lesotho is also a prime spot.
+
+No wonder the Jewberg Facebook character built his hideout in hawaii. The antipode of South Africa
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

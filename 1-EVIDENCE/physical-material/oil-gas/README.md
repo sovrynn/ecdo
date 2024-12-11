@@ -11,3 +11,10 @@ The Age of Oil. In Science (24 October 1952), Paul Smith reported on the radioca
 
 ![](img/photo_6051@29-11-2024_16-07-21.jpg)
 
+## Is Oil Organic?
+
+From the Rockefeller University: The document, On the Origins of Oil, authored by D. Mendeleev in 1877, challenges the prevailing biogenic theory of oil formation, which posits that oil originates from the decomposition of ancient organic matter. Mendeleev argues for a mineral origin, proposing that oil is produced through chemical reactions deep within the Earth, particularly involving water and carbonated metals like iron.
+
+Mendeleev disputes the evidence for oil originating from organic material, highlighting inconsistencies such as the absence of sufficient organic remnants in ancient geological layers. He proposes that oil forms when water penetrates Earth's crust through cracks and reacts with carbonated metals, producing hydrocarbons under high pressure and temperature. The association of oil deposits with mountain ranges and straight-line geological features supports his hypothesis. Mendeleev draws parallels from meteorite compositions and the behavior of gases to support the idea of a deep, inorganic origin for oil. [GPT Summary]
+h/t @AristocraticBro 
+[1] https://phe.rockefeller.edu/news/2008/02/11/mendeleev/

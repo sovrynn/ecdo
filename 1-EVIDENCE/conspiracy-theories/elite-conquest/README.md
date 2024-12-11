@@ -177,6 +177,31 @@ Survival strategy of elites released on 1973 same as temperature and magnetic no
 
 Hard copy here.
 
+## US Dollar decoupling
+
+"The decoupling of the U.S. dollar from gold in 1971, known as the Nixon Shock, fundamentally transformed global monetary policy, enabling unprecedented flexibility in response to systemic challenges. Exploring this transition through the lens of historical evidence and current events, we can see how it allowed the U.S. and global economies to adapt to both economic and geophysical pressures, including potential geomagnetic influences." Excerpt from an interaction discussing USD, BTC, Bretton Woods and the geomagnetic excursion.
+[1] https://chatgpt.com/share/674c34e9-ab38-8005-88e1-9818df3761c1
+
+Decoupling the Limits to Growth (https://nobulart.com/decoupling-the-limits-to-growth/)
+“The end of Bretton Woods allowed for an unprecedented ability to manage systemic shocks, including those potentially arising from geomagnetic and planetary cycles. While this connection remains speculative, the timing of the dollar’s decoupling and the NMDP’s acceleration suggests a deeper interrelation between human systems and Earth’s dynamic processes. Could this flexibility be a necessary adaptation for navigating a period of intensified geophysical upheaval?”
+https://nobulart.com/decoupling-the-limits-to-growth/
+
+## World Power Structures
+
+Here you go, somebody (or some agency) spent a lot of time putting this together.  There are a few different flavors of it.
+
+![](img/photo_6074@01-12-2024_20-59-43.jpg)
+
+Here is another flavor of it:
+
+https://static1.squarespace.com/static/53c4798be4b07557fac30898/t/601bb948d076a03f48c35d36/1612429673341/GreatAwakeningMap_11x14_V10_Lotus_Hi-Res_Web.jpg
+
+![](img/GreatAwakeningMap_11x14_V10_Lotus_Hi-Res_Web.jpg)
+
+## Amazon intelligence computing
+
+Amazon is a prime example (Excuse the pun). A major loss making behemoth until it coincidentally took on the role of operating the data processing for the US's intelligence agencies.
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

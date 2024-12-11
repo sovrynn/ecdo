@@ -68,3 +68,10 @@ Yes, into a fifth world and a sixth sun
 Suddenly it hit! - Pole shift"
 
 https://youtu.be/DbVJmSP9-ug
+
+## Midnight Oil - Beds are Burning
+
+How can we dance when our Earth is turning? How can we sleep when a Rothschild is burning?
+
+https://youtu.be/tKzJYSabSW0?si=EB0M7FNYXoW93EGO
+

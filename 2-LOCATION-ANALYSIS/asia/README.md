@@ -12,6 +12,14 @@ https://github.com/user-attachments/assets/490f770f-1b53-44cc-95e4-2f1b290e80a0
 
 See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization. [1]
 
+## Asia Pivot Locations
+
+Sulawesi? What would your suggestions be ?
+
+Yes and the neighbouring Borneo island. The intersection of south, central and West Sulawesi is mountainous is relatively high in elevation. Also plenty of agriculture potential. For Borneo the area bordering between central to north Borneo seems geologically stable (out of the ring of fire potential, extremely abundant in agriculture, fresh water etc).
+
+Central and centre north Borneo is by far the best spot in Indonesia to ride this out.
+
 # Analysis
 
 ## Oceanic Displacement

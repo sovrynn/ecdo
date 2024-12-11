@@ -2,6 +2,10 @@
 
 Evidence of elites preparing for... something.
 
+## Bunker manufacturer location analysis
+
+There are quite a few bunker manufacturers in the world-if one could track where they are building that could provide some on the ground intel as to where the informed people are bolting out
+
 ## Denver, Colorado Airport cult conspiracy theories
 
 Colorado happens to be one of the areas in America that will likely be safe during S1 -> S2.
@@ -131,3 +135,16 @@ CCP's escape plan
 https://youtu.be/EDG4GrBL4J8?si=KmjVPQbaUi73njBO
 
 I wouldn’t take the word of this content creator one bit. They’re a Taiwanese intel funded propaganda mouthpiece. Some official Chinese disclosure would be good.
+
+## Elites Dissapearing (Bunkering down)
+
+De Beers divorcee going back to SA , reducing the price by $100M for a quick escape from LA —-  https://toptenrealestatedeals.com/weekly-ten-best-home-deals/home/de-beers-diamond-heiress-mansion
+
+She's in a hurry to flog it.
+
+Interesting name and architecture. Much like the recently allegedly roasted Rothschild and imploded billionaire, it looks as though the golden geese are returning to their hermetically sealed home roosts. These families would undoubtedly largely take shelter together when the time comes.
+
+![](img/photo_6069@01-12-2024_11-23-09.jpg)
+
+Merkaba . As above so below.
+
