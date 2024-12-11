@@ -152,3 +152,15 @@ I believe this data comes from a single local cluster of stations. In other word
 
 ![](img/photo_5932@14-11-2024_21-17-33.jpg)
 
+## Global Annual Rainfall
+
+Global annual rainfall. Note how most of the low rainfall areas (in blue/green) are a perfect match for the expected levels of inundation during ECDO rotations.
+
+![](img/photo_6048@29-11-2024_08-58-03.jpg)
+
+## Megamap
+
+One big pic comparing dessertification, precipitation, biodiversity and Scallion's inundation prediction.
+
+Hard copy of watermaps.jpeg here.
+

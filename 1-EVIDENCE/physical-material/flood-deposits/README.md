@@ -123,6 +123,15 @@ https://x.com/AMAZlNGNATURE/status/1815397395435278535?t=tAntSVsUEkdtxMZH0EzQOQ&
 "In early 2021 several tree stumps embedded in a remnant peat deposit were found in the intertidal zone of Wharton Beach, southwestern Australia by Esperance Tjaltjraak Rangers. Attempts were made to identify the tree using both dendrochronological and anthracological methods but were limited by the lack of reference information from tree species in the southwestern Australia. Radiocarbon dates from one stump indicates the tree lived for approximately 200years, growing into the peaty sediments sometime before ca. 7340 cal yrs BP and died directly or indirectly as a result of marine transgression. The peat deposit is dated to 7608–7429 cal yrs BP but its exposed seaward edge was unconformably underlain by younger sand, dated by OSL to around 3550 years, which may have intruded as a result of a storm event."
 [1] https://journals.sagepub.com/doi/pdf/10.1177/09596836231157067
 
+## Canada Bog Outwash Deposit Dating
+
+Sequential Newfoundland bog outwash deposits dating to the 3700 year planetary harmonic (V) at 3610±100 BP and 7400±150 BP as reported in Geological Survey of Canada, Radiocarbon Dates I and II (1963) [1][2]. Added to the Events Database [3].
+[1] https://x.com/nobulart/status/1826653555400298541
+[2] https://archive.org/details/31761108187352
+[3] https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/
+
+![](img/photo_6052@29-11-2024_17-31-42.jpg)
+
 ## Citations
 
 1. Uriel's Machine

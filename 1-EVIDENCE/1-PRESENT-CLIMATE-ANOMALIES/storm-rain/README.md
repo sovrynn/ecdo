@@ -124,12 +124,6 @@ Last video I send, if you want to see more just search Valencia in X
 
 See /img for video_470@30-10-2024_11-02-31.mp4.
 
-## South Africa
-
-Experiences first November snowfall in years.
-
-https://africa.businessinsider.com/local/lifestyle/south-africa-experiences-first-november-snowfall-in-years/8ze7w31
-
 ## UK Weather
 
 Dystopian weather in the UK seems to be the norm now. The country's had another terrible harvest with yields about 25% down on average for most crops.

@@ -148,12 +148,6 @@ which'll trigger the ECDO event (or be triggered by it)
 
 ![](img/photo_5918@11-11-2024_20-12-01.jpg)
 
-## Global Annual Rainfall
-
-Global annual rainfall. Note how most of the low rainfall areas (in blue/green) are a perfect match for the expected levels of inundation during ECDO rotations.
-
-![](img/photo_6048@29-11-2024_08-58-03.jpg)
-
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

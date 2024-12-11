@@ -92,6 +92,12 @@ If you dare open a CIA file ofc 😂.
 
  https://x.com/Andercot/status/1858008776894460051?s=35
 
+## Nayib Bukele reading ECDO?
+
+For those that may have missed this. I think we're much closer to the real disclosure than we were two weeks ago.
+
+![](img/photo_6056@30-11-2024_09-43-44.jpg)
+
 ## Citations
 
 1. Craig Stone

@@ -13,3 +13,23 @@ Sitchen reckoned Marduk, "the 12th planet", orbits the sun every 3,600 years. Th
 ## Sources
 
 Sitchen, The 12th Planet
+
+## The Scientific truth about Planet Nine
+
+"The constellation of Taurus is one of the leading candidate locations for the hypothesized Planet Nine. The bright star Aldebaran and the Hyades star cluster are the most easily identifiable objects to the naked eye in Taurus."
+
+https://www.forbes.com/sites/startswithabang/2017/05/09/the-scientific-truth-about-planet-nine-so-far/
+
+From the work of a guy named Konstantin and Mike Brown, AI summation:
+
+"According to current theories, if Planet 9 exists, it is most likely located in the direction of the constellation Taurus, with some estimations placing it near the bright star Aldebaran and the Hyades star cluster, which are visible to the naked eye in that constellation. 
+
+Key points about Planet 9's potential location:
+Based on orbital patterns:
+Scientists have inferred the possible position of Planet 9 by studying the unusual orbits of distant trans-Neptunian objects (TNOs), which suggest a gravitational influence from a large body in that region. 
+
+Observable from Earth:
+While Planet 9 is theorized to be very far away, it could potentially be observed using powerful telescopes if it exists. 
+
+No confirmed sighting:
+As of today, Planet 9 has not been directly observed and its existence remains a hypothesis. "

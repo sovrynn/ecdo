@@ -112,6 +112,10 @@ https://www.youtube.com/watch?v=u5m65EPHLg
 
 ![](img/photo_6018@24-11-2024_09-18-17.jpg)
 
+## An Anomalous Breccia in Mauritania (West Africa) Potential Evidence for an Impact-generated Tsunami
+
+Hard copy of 2003.pdf here.
+
 ## Citations
 
 1. ScholarAI

@@ -115,6 +115,12 @@ Note that antartica is coldest region in planet and also this region lies in red
 
 ![](img/photo_5856@05-11-2024_19-07-21.jpg)
 
+## Frozen Mammoth Death Scenarios Illustrated
+
+Frozen mammoth death scenarios illustrated, from Corliss, "Scientific Anomalies and Other Provocative Phenomena"
+
+![](img/photo_6062@30-11-2024_16-59-52.jpg)
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/Mammoth#Extinction
