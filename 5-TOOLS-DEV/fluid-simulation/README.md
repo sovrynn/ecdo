@@ -1,9 +1,15 @@
-# Flood Simulation
+# Fluid Simulation
 
 ## Fluid Sim Software
 
+### CPU-based:
 - Splishsplash: https://github.com/InteractiveComputerGraphics/SPlisHSPlasH
 - MESHFREE: https://www.meshfree.eu/
+
+### GPU based:
+- Fast Fluid Simulations with Sparse Volumes on the GPU: https://people.csail.mit.edu/kuiwu/gvdb_sim.html
+
+Source: https://developer.nvidia.com/gvdb
 
 ## Steven Ward simulations
 
