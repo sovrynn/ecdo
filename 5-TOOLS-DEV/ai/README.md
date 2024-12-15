@@ -20,6 +20,14 @@ https://platform.openai.com/docs/quickstart?language-preference=python
 	- After uploading more than 15-20 documents the GPT started to give errors and the process had to be restarted
 	- Useful for an overview of the theory and the possible safe zones, but still better to read the original content for proper understanding
 
+## Best Models
+
+- ChatGPT
+- Qwen, open source
+- Gemini, by Google
+- Claude, by Anthropic
+- Llama, open source, by Meta
+
 ## List of proprietary AI LLM services
 
 Good:
