@@ -113,6 +113,16 @@ There is one constant in the diversity of motives and their variation in the mor
 
 The reader should hold in mind that all these fascinating qualities emerge from simple feed-back cycles that can be found, too, in the relative motion of cosmic bodies in the solar system. Beyond the mathematical complexity of the Mandelbrot set its aesthetic appeal should not be forgotten. [86]
 
+## Other Sun Earth Man Quotes
+
+Mesocosmic man lives just on the boundary between the realms of the attractors microcosmos and macrocosmos. This explains man's instability, the dominant quality of all borderlines between chaos and order, but also the unfathomable depths of man's creativity and destructiveness.
+
+Pg 16: When the Sun approaches the centre of mass (CM), or recedes from it, there is a phase when CM passes through the Sun's surface. Usually, this is a fast passage, as the line of motion is steeply inclined to the surface. There are rare instances, however, when the inclination is very weak, CM runs nearly parallel with the Sun's surface, or oscillates about it so that CM remains near the surface for several years. Fixing the epochs of start and end of such periods involves some arbitrariness. The following definition is in accordance with observation and meets all requirements of practice: major solar instability events occur when the centre of mass remains continually within the range
+
+0.9 - 1.1 solar radii for 2.5 to 8.5 years, and additionally within the range 0.8 - 1.2 solar radii for 5.5 to 10 years.
+
+Page 27 is cool.
+
 ## Citations
 
 1. https://nobulart.com
