@@ -1,6 +1,12 @@
 # Graham Hancock
 
-## Season 2
+## Podcast
+
+Mentions 130,000 years ago, humans were butchering mastodons.
+
+https://youtu.be/reLZdrBNzLA?si=5qAK5WrbMz8UfYw4
+
+## Ancient Apocalypse Season 2
 
 "Season 2 of my Netflix docu-series Ancient Apocalypse now released:"
 https://netflix.com/title/81211003

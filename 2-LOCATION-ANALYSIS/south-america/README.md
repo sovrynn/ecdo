@@ -47,6 +47,10 @@ Been looking at this area some more. Being close to the pivot apparently increas
 
 [3/3] "It would seem, that one cause destroyed the terrestrial animals of South America, and that this cause is to be found in great dislocations of the ground caused by the upheaval of the Cordilleras. If not, it is difficult to conceive on the one hand the sudden and fortuitous…
 
+## Tectonic plate map
+
+![](img/sa-tectonic.jpg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
