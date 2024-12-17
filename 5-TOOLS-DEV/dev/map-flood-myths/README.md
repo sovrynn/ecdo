@@ -30,6 +30,7 @@ Copy paste + some finagling
 
 # Tally
 
+```
 europe.txt: 11
 central-america.txt: 24
 middle-east.txt: 9
@@ -39,6 +40,7 @@ north-america.txt: 83
 africa.txt: 17
 south-america.txt: 34
 Total non-empty lines: 267
+```
 
 # Verification
 
