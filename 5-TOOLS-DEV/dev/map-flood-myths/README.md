@@ -34,3 +34,9 @@ north-america.txt: 83
 africa.txt: 17
 south-america.txt: 34
 Total non-empty lines: 267
+
+# Verification
+
+The lat/lon values for each continent were verified to be in the correct range for each.
+
+A handful of locations were selectively verified by hand and also by using separate LLM queries.
