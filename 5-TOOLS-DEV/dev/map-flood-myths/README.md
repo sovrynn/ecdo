@@ -17,7 +17,7 @@ So on that website, you have a list at the start. That's all you need. They're o
 
 # Step 2
 
-Google API best for this I would think.
+Google API best for this I would think. Geocoding.
 
 # Step 3
 
