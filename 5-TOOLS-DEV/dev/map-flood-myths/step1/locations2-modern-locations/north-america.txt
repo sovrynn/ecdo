@@ -1,0 +1,83 @@
+- Nunavut, Canada, North America  
+- Orowignarak, Alaska, United States, North America  
+- Nome, Alaska, United States, North America  
+- Iqaluit, Nunavut, Canada, North America  
+- Tuktoyaktuk, Northwest Territories, Canada, North America  
+- Herschel Island, Yukon, Canada, North America  
+- Taloyoak, Nunavut, Canada, North America  
+- Nuuk, Greenland, North America  
+- Sitka, Alaska, United States, North America  
+- Fairbanks, Alaska, United States, North America  
+- Anchorage, Alaska, United States, North America  
+- Fort Yukon, Alaska, United States, North America  
+- Yellowknife, Northwest Territories, Canada, North America  
+- Fort Nelson, British Columbia, Canada, North America  
+- Kamloops, British Columbia, Canada, North America  
+- Calgary, Alberta, Canada, North America  
+- Stewart, British Columbia, Canada, North America  
+- Haida Gwaii, British Columbia, Canada, North America  
+- Prince Rupert, British Columbia, Canada, North America  
+- Alert Bay, British Columbia, Canada, North America  
+- Cranbrook, British Columbia, Canada, North America  
+- Squamish, British Columbia, Canada, North America  
+- Bella Coola, British Columbia, Canada, North America  
+- Lillooet, British Columbia, Canada, North America  
+- Neah Bay, Washington, United States, North America  
+- Port Angeles, Washington, United States, North America  
+- Shelton, Washington, United States, North America  
+- Mount Vernon, Washington, United States, North America  
+- Forks, Washington, United States, North America  
+- Olympia, Washington, United States, North America  
+- Hood Canal, Washington, United States, North America  
+- Clatskanie, Oregon, United States, North America  
+- Cascade Range, United States, North America  
+- Spokane, Washington, United States, North America  
+- Lewiston, Idaho, United States, North America  
+- Walla Walla, Washington, United States, North America  
+- Yakima, Washington, United States, North America  
+- Warm Springs, Oregon, United States, North America  
+- Ashland, Oregon, United States, North America  
+- Crescent City, California, United States, North America  
+- Redding, California, United States, North America  
+- Oroville, California, United States, North America  
+- Stockton, California, United States, North America  
+- Clearlake, California, United States, North America  
+- Bodega Bay, California, United States, North America  
+- Monterey, California, United States, North America  
+- Ukiah, California, United States, North America  
+- Mount Shasta, California, United States, North America  
+- Santa Rosa, California, United States, North America  
+- Paso Robles, California, United States, North America  
+- Yuma, Arizona, United States, North America  
+- Supai, Arizona, United States, North America  
+- Napa Valley, California, United States, North America  
+- Eureka, California, United States, North America  
+- Calgary, Alberta, Canada, North America  
+- Saskatchewan, Canada, North America  
+- Temagami, Ontario, Canada, North America  
+- Duluth, Minnesota, United States, North America  
+- Ottawa, Canada, North America  
+- Green Bay, Wisconsin, United States, North America  
+- Minneapolis, Minnesota, United States, North America  
+- Yellowstone National Park, Wyoming, United States, North America  
+- Sept-Îles, Quebec, Canada, North America  
+- Halifax, Nova Scotia, Canada, North America  
+- Ottawa River Valley, Ontario, Canada, North America  
+- New York City, New York, United States, North America  
+- Chattanooga, Tennessee, United States, North America  
+- Bismarck, North Dakota, United States, North America  
+- Pine Ridge, South Dakota, United States, North America  
+- Philadelphia, Mississippi, United States, North America  
+- Natchez, Mississippi, United States, North America  
+- Lafayette, Louisiana, United States, North America  
+- Fort Smith, Arkansas, United States, North America  
+- Lincoln, Nebraska, United States, North America  
+- Four Corners, United States, North America  
+- Dulce, New Mexico, United States, North America  
+- Winslow, Arizona, United States, North America  
+- San Juan Capistrano, California, United States, North America  
+- Temecula, California, United States, North America  
+- Tucson, Arizona, United States, North America  
+- Sells, Arizona, United States, North America  
+- Hotevilla, Arizona, United States, North America  
+- Zuni Pueblo, New Mexico, United States, North America  

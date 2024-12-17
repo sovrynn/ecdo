@@ -1,0 +1,52 @@
+This is a list of locations, sometimes historical/ancient, sometimes just referring to a specific culture or religion. Extra details for a certain location are sometimes provided in parentheses. Convert each entry to a modern present-day existing location, in either of 2 formats:
+- city, country, continent (this is the preferred option)
+- country, continent (use this when nothing more than a country is specified)
+
+All results should be present day locations, not ancient ones. Ancient locations, religions, and cultures should be converted to present day locations. If there is no such location provided, you should infer a location of a present day city/country that is closest to the provided location.
+
+Return in an unordered list markdown code block. Here are the (potentially ancient) locations/regions/cultures you should convert to present-day existing locations, one-for-one (the number of output results should be exactly the same as the number of input entries):
+
+- Smith River (northern California coast), United States, North America  
+- Wintu (north central California), United States, North America  
+- Maidu (central California), United States, North America  
+- Northern Miwok (central California), United States, North America  
+- Tuleyome Miwok (near Clear Lake, California), United States, North America  
+- Olamentko Miwok (Bodega Bay, California), United States, North America  
+- Ohlone (San Francisco to Monterey, California), United States, North America  
+- Kato (Mendocino County, California), United States, North America  
+- Shasta (northern California interior), United States, North America  
+- Pomo (north central California), United States, North America  
+- Salinan (California), United States, North America  
+- Yuma (western Arizona, southern California), United States, North America  
+- Havasupai (lower Colorado River), United States, North America  
+- Ashochimi (California), United States, North America  
+- Yurok (north California coast), United States, North America  
+- Blackfoot (Alberta and Montana), Canada/United States, North America  
+- Cree (Canada), North America  
+- Timagami Ojibway (Canada), North America  
+- Chippewa (Ontario, Minnesota, Wisconsin), Canada/United States, North America  
+- Ottawa, Canada, North America  
+- Menomini (Wisconsin-Michigan border), United States, North America  
+- Cheyenne (Minnesota), United States, North America  
+- Yellowstone, United States, North America  
+- Montagnais (northern Gulf of St. Lawrence), Canada, North America  
+- Micmac (eastern Maritime Canada), Canada, North America  
+- Algonquin (upper Ottawa River), Canada, North America  
+- Lenape (Delaware to New York), United States, North America  
+- Cherokee (Great Lakes area; eastern Tennessee), United States, North America  
+- Mandan (North Dakota), United States, North America  
+- Lakota, United States, North America  
+- Choctaw (Mississippi), United States, North America  
+- Natchez (Lower Mississippi), United States, North America  
+- Chitimacha (Southern Louisiana), United States, North America  
+- Caddo (Oklahoma, Arkansas), United States, North America  
+- Pawnee (Nebraska), United States, North America  
+- Navajo (Four Corners area), United States, North America  
+- Jicarilla Apache (northeastern New Mexico), United States, North America  
+- Sia (northeast Arizona), United States, North America  
+- Acagchemem (near San Juan Capistrano, California), United States, North America  
+- Luiseño (Southern California), United States, North America  
+- Pima (southwest Arizona), United States, North America  
+- Papago (Arizona), United States, North America  
+- Hopi (northeast Arizona), United States, North America  
+- Zuni (New Mexico), United States, North America  

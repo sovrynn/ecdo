@@ -1,0 +1,55 @@
+- Khanty-Mansiysk, Russia, Asia  
+- Salekhard, Russia (north Siberia), Asia  
+- Krasnoyarsk, Russia (north-central Siberia), Asia  
+- Petropavlovsk-Kamchatsky, Russia (northeast Siberia), Asia  
+- Ulaanbaatar, Mongolia (central Asia), Asia  
+- Kyzyl, Russia (Tuva Republic, north of Mongolia), Asia  
+- Ulaanbaatar, Mongolia, Asia  
+- Ulan-Ude, Russia (eastern Siberia), Asia  
+- Abakan, Russia (eastern Siberia), Asia  
+- Moscow, Russia, Asia  
+- Varanasi, India, Asia  
+- Bhopal, India (central India), Asia  
+- Raipur, India, Asia  
+- Guwahati, India (Assam), Asia  
+- Chennai, India (southern India), Asia  
+- Gangtok, India (Sikkim), Asia  
+- Lhasa, China (Tibet), Asia  
+- Dibrugarh, India (Assam), Asia  
+- Aizawl, India (Assam/Mizoram), Asia  
+- Lijiang, China (northwest Yunnan), Asia  
+- Kunming, China (southwestern China), Asia  
+- Jinghong, China (southern Yunnan), Asia  
+- Hpa-An, Myanmar (Karen region), Asia  
+- Myitkyina, Myanmar (Upper Burma), Asia  
+- Beijing, China, Asia  
+- Seoul, South Korea, Asia  
+- Ranchi, India (north-central India), Asia  
+- Kolkata, India (Bengal), Asia  
+- Jamshedpur, India (southwestern Bengal), Asia  
+- Pleiku, Vietnam (Cochin China), Asia  
+- Chiang Rai, Thailand (northern Thailand), Asia  
+- Port Blair, India (Andaman Islands, Bay of Bengal), Asia  
+- Nanning, China (Zhuang region), Asia  
+- Guiyang, China (southern Guizhou), Asia  
+- Taunggyi, Myanmar (Shan region), Asia  
+- Nantou, Taiwan (Formosa interior), Asia  
+- Taitung, Taiwan (Formosa interior), Asia  
+- Hualien, Taiwan (eastern Taiwan), Asia  
+- Kuala Lumpur, Malaysia (Malay Peninsula), Asia  
+- Kota Bharu, Malaysia (Kelantan, Malay Peninsula), Asia  
+- Banaue, Philippines (Ifugao), Asia  
+- Kiangan, Philippines (Ifugao), Asia  
+- Bukidnon, Philippines, Asia
+- Davao Oriental, Philippines, Asia
+- Abra, Philippines, Asia
+- Medan, Indonesia (Sumatra), Asia  
+- Nias Island, Indonesia, Asia  
+- Enggano Island, Indonesia, Asia  
+- Kota Kinabalu, Malaysia (British North Borneo), Asia  
+- Pontianak, Indonesia (Borneo), Asia  
+- Palangkaraya, Indonesia (Dutch Borneo), Asia  
+- Palu, Indonesia (Central Sulawesi/Celebes), Asia  
+- Ambon, Indonesia (between Celebes and New Guinea), Asia  
+- Rote Island, Indonesia (southwest of Timor), Asia  
+- Ende, Indonesia (Flores), Asia  

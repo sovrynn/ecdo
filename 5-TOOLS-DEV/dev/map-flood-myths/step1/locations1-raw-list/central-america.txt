@@ -1,0 +1,26 @@
+**Total Number of Locations**: 24
+
+- Tarascan (northern Michoacan), Mexico, North America  
+- Michoacan, Mexico, North America  
+- Yaqui (Sonoran, Northern Mexico), Mexico, North America  
+- Tarahumara (Northern Mexico), Mexico, North America  
+- Huichol (western Mexico), Mexico, North America  
+- Cora (east of the Huichols), Mexico, North America  
+- Tepecano (southeast of the Huichols), Mexico, North America  
+- Tepehua (eastern Mexico), Mexico, North America  
+- Toltec, Mexico, North America  
+- Nahua (central Mexico), Mexico, North America  
+- Tlaxcalan (central Mexico), Mexico, North America  
+- Tlapanec (south central Mexico), Mexico, North America  
+- Mixtec (northern Oaxaca), Mexico, North America  
+- Zapotec (Oaxaca, southern Mexico), Mexico, North America  
+- Trique (Oaxaca, southern Mexico), Mexico, North America  
+- Totonac (eastern Mexico), Mexico, North America  
+- Chol (southern Mexico), Mexico, North America  
+- Tzeltal (Chiapas, southern Mexico), Mexico, North America  
+- Quiché, Guatemala, North America  
+- Maya (southern Mexico and Guatemala), North America  
+- Popoluca (Veracruz), Mexico, North America  
+- Nicaragua, North America  
+- Panama, North America  
+- Carib (Antilles), North America  

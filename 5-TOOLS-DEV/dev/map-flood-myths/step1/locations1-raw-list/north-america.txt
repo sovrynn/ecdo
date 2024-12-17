@@ -1,0 +1,85 @@
+**Total Number of Locations**: 83
+
+- Innuit, North America  
+- Eskimo (Orowignarak, Alaska), United States, North America  
+- Norton Sound Eskimo, United States, North America  
+- Central Eskimo, North America  
+- Tchiglit Eskimo (Arctic Ocean), North America  
+- Herschel Island Eskimo, Canada, North America  
+- Netsilik Eskimo, North America  
+- Greenlander, Greenland, North America  
+- Tlingit (southern Alaska coast), United States, North America  
+- Hareskin (Alaska), United States, North America  
+- Tinneh (Alaska and south), United States, North America  
+- Loucheux (Dindjie) (Alaska), United States, North America  
+- Dogrib and Slave (Tinneh tribes), Canada, North America  
+- Kaska (northern inland British Columbia), Canada, North America  
+- Thompson Indians (British Columbia), Canada, North America  
+- Sarcee (Alberta), Canada, North America  
+- Tsetsaut, Canada, North America  
+- Haida (Queen Charlotte Is., British Columbia), Canada, North America  
+- Tsimshian (British Columbia), Canada, North America  
+- Kwakiutl (British Columbia), Canada, North America  
+- Kootenay (southeast British Columbia), Canada, North America  
+- Squamish (British Columbia), Canada, North America  
+- Bella Coola (British Columbia), Canada, North America  
+- Lillooet (Green River, British Columbia), Canada, North America  
+- Makah (Cape Flattery, Washington), United States, North America  
+- Klallam (northwest Washington), United States, North America  
+- Skokomish (Washington), United States, North America  
+- Skagit (Washington), United States, North America  
+- Quillayute (Washington), United States, North America  
+- Nisqually (Washington), United States, North America  
+- Twana (Puget Sound, Washington), United States, North America  
+- Kathlamet, United States, North America  
+- Cascade Mountains, United States, North America  
+- Spokana, United States, North America  
+- Nez Perce, United States, North America  
+- Cayuse (eastern Washington), United States, North America  
+- Yakima (Washington), United States, North America  
+- Warm Springs (Oregon), United States, North America  
+- Joshua (southern Oregon), United States, North America  
+- Smith River (northern California coast), United States, North America  
+- Wintu (north central California), United States, North America  
+- Maidu (central California), United States, North America  
+- Northern Miwok (central California), United States, North America  
+- Tuleyome Miwok (near Clear Lake, California), United States, North America  
+- Olamentko Miwok (Bodega Bay, California), United States, North America  
+- Ohlone (San Francisco to Monterey, California), United States, North America  
+- Kato (Mendocino County, California), United States, North America  
+- Shasta (northern California interior), United States, North America  
+- Pomo (north central California), United States, North America  
+- Salinan (California), United States, North America  
+- Yuma (western Arizona, southern California), United States, North America  
+- Havasupai (lower Colorado River), United States, North America  
+- Ashochimi (California), United States, North America  
+- Yurok (north California coast), United States, North America  
+- Blackfoot (Alberta and Montana), Canada/United States, North America  
+- Cree (Canada), North America  
+- Timagami Ojibway (Canada), North America  
+- Chippewa (Ontario, Minnesota, Wisconsin), Canada/United States, North America  
+- Ottawa, Canada, North America  
+- Menomini (Wisconsin-Michigan border), United States, North America  
+- Cheyenne (Minnesota), United States, North America  
+- Yellowstone, United States, North America  
+- Montagnais (northern Gulf of St. Lawrence), Canada, North America  
+- Micmac (eastern Maritime Canada), Canada, North America  
+- Algonquin (upper Ottawa River), Canada, North America  
+- Lenape (Delaware to New York), United States, North America  
+- Cherokee (Great Lakes area; eastern Tennessee), United States, North America  
+- Mandan (North Dakota), United States, North America  
+- Lakota, United States, North America  
+- Choctaw (Mississippi), United States, North America  
+- Natchez (Lower Mississippi), United States, North America  
+- Chitimacha (Southern Louisiana), United States, North America  
+- Caddo (Oklahoma, Arkansas), United States, North America  
+- Pawnee (Nebraska), United States, North America  
+- Navajo (Four Corners area), United States, North America  
+- Jicarilla Apache (northeastern New Mexico), United States, North America  
+- Sia (northeast Arizona), United States, North America  
+- Acagchemem (near San Juan Capistrano, California), United States, North America  
+- Luiseño (Southern California), United States, North America  
+- Pima (southwest Arizona), United States, North America  
+- Papago (Arizona), United States, North America  
+- Hopi (northeast Arizona), United States, North America  
+- Zuni (New Mexico), United States, North America  

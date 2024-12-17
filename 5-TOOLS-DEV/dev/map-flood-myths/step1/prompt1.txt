@@ -1,0 +1,22 @@
+Take the following list of locations in south america. THey are comma and line separated.
+
+Return the total number of locations. Then, return an unordered list of each comma/list separated location, followed by the continent.
+
+Here is the list:
+
+Acawai (Orinoco), Arekuna (Guyana), Makiritare (Venezuela), Macusi (British Guyana)
+Muysca (Colombia), Yaruro (southern Venezuela)
+Yanomamö (southern Venezuela)
+Tamanaque (Orinoco), Arawak (Guyana), Pamary, Abedery, and Kataushy (Purus R., Brazil), Ipurina (Upper Amazon)
+Jivaro (eastern Ecuador), Shuar (Andes)
+Murato (eastern Ecuador)
+Cañari (Quito, Ecuador)
+Guanca and Chiquito (Peru)
+Ancasmarca (near Cuzco, Peru), Canelos Quechua, Quechua, Inca (Peru), Colla (high Andes)
+Chiriguano (southeast Bolivia)
+Chorote (Eastern Paraguay)
+Eastern Brazil (Rio de Janiero region), Eastern Brazil (Cape Frio region), Caraya (Araguaia River, central Brazil), Coroado (south Brazil)
+Araucania (coastal Chile)
+Toba (northern Argentina)
+Selk'nam (southern tip of Argentina)
+Yamana (Tierra del Fuego) 
