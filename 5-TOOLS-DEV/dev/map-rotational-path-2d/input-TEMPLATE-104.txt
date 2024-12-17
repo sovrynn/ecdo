@@ -1,0 +1,10 @@
+44  # lat
+88  # lon
+1000     # lat radius of the visualized region
+1000     # lon radius of the visualized region
+10      # number of pairs of extra lines
+300    # km between each line
+104    # Show a 360 visualization ('360') or triple 104 ('104')
+2.4      # thickness of the lines
+y      # 'y' to place a marker at the location, 'n' to not
+10     # size of the marker
