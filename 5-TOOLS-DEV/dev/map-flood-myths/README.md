@@ -4,6 +4,7 @@ Pretty simple - what I'll do is:
 1. programmatically parse the flood myths into a list of locations
 2. use some kind of API to convert the locations to lat/lon
 3. plot the points programmatically
+4. overlaid with rotational path
 
 This is the right approach because it allows me to change map/marker styles easily.
 
@@ -22,6 +23,10 @@ Google API best for this I would think. Geocoding.
 # Step 3
 
 Simple python script.
+
+# Step 4
+
+Copy paste + some finagling
 
 # Tally
 
