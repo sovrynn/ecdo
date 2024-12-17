@@ -22,3 +22,15 @@ Google API best for this I would think. Geocoding.
 # Step 3
 
 Simple python script.
+
+# Tally
+
+europe.txt: 11
+central-america.txt: 24
+middle-east.txt: 9
+australia.txt: 17
+pacific-islands.txt: 17
+north-america.txt: 83
+africa.txt: 17
+south-america.txt: 34
+Total non-empty lines: 267
