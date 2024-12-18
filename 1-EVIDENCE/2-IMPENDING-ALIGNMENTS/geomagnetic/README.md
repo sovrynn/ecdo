@@ -2,6 +2,8 @@
 
 ## De Santis, Qamili - Geosystemics: a systemic view of the Earth’s magnetic field and possibilities for an imminent geomagnetic transition (Hard copy here)
 
+Published August 3rd, 2014, which means it's 10 years outdated: https://link.springer.com/article/10.1007/s00024-014-0912-x
+
 <!-- ![](img/desantis1.png)
 ![](img/desantis2.png)
 ![](img/desantis3.png)
@@ -9,6 +11,12 @@
 ![](img/desantis5.png)
 ![](img/desantis6.png)
 ![](img/desantis7.png)
+
+These guys use SAA surface area and global sea level rise fit to a "tipping point system" equation to come up with a date.
+
+### Quotes
+
+De Santis et al. (2012) found that also another, apparently unrelated quantity, the global sea level rise (GSL; Jevrejeva et al., 2008) has followed the same growing trend during the last three centuries (thin curve in Figure 6). To assess a real correlation between the two time series, some statistical tests have been performed, i.e., Spearman correlation test (Davis, 1986) and Kullback- Leibler Entropy (Kullback and Leibler, 1951). The results taken from the statistics, (both with or without a trend removal) confirm the high correlation between SAA extension area and GSL (see De Santis et al., 2012, 2013b). Although correlation does not always mean causation, we should consider this possibility as a serious hypothesis.
 
 An interesting question concerns with the best temporal function that fits the SAA surface area change in time. We will see that this function follows the typical behaviour in time of critical systems, i.e. those complex systems approaching a critical transition. The deformation (or energy release) y(t) of a material that approaches a failure satisfies the following empirical equation (Voight, 1989): y ayα =ɺɺ ɺ (12) where a and α are two empirical constants. The latter is an exponent that measures the degree of nonlinearity and normally takes values between 1 and 2. We can extend the concept of the failure of a material to critical systems approaching their tipping point, i.e. the time when the system undergoes a dramatic (usually abrupt) change of its dynamical properties. In this way, eq. (12) assumes a more universal importance. Indeed, the solutions of equation (12) have been largely applied for the prediction of different critical systems like volcanic eruptions (Voight, 1988), earthquake main failure (Bufe and Varnes, 1993), financial crashes (Sornette, 2003), magnetic storms (Balasis et al., 2011), etcetera.
 
@@ -22,9 +30,15 @@ GPT summary below.
 
 ## Laj - An impending geomagnetic transition? Hints from the past
 
-See LITERATURE.
+See LITERATURE for hard copy.
 
 "Very recently, De Santis and Qamili (2015 and references therein) have considered the evolution of the South Atlantic Anomaly (SAA) and its progressive extension over the last 400 years. They find that there has been an acceleration in the rate at which the SAA expands. Also, fitting the surface extension of the SAA with power laws or logarithmic functions, in analogy with critical phenomena, they define a critical time tc when the SAA area will reach almost an hemisphere in the very near future (tc = 2034 ± 3 yr AD). They interpret tc not as the exact moment of a geomagnetic reversal or excursion, but rather as the time when irreversible processes that will drive the geodynamo into a polarity change will start."
+
+## Unveiling Geomagnetic Reversals: Insights From Tipping Points Theory
+
+Hard copy here.
+
+https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2023GL105646?utm_source=chatgpt.com
 
 # GPT: Research Paper Summary: "Geosystemics: A Systemic View of the Earth’s Magnetic Field and Possibilities for an Imminent Geomagnetic Transition"
 
