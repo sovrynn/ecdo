@@ -12,3 +12,5 @@ output/
 test
 5-TOOLS-DEV/dev/pdf-gen/
 apikey.txt
+__MACOSX
+pyIGRF14

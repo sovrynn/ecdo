@@ -1,0 +1,1 @@
+Let's say I want to fit this equation (voight's law) to a timeseries. The timeseries is partial - it only covers 1900 to 2025. However, the actual process that its modeling may have occurred over 500 years (1500 - 2000) or even futrher back (0 - 2000). Can I still model it? With the equation?

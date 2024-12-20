@@ -1,0 +1,1 @@
+If they only had declination and inclination, doesn't that mean they didn't know the strength of the field, so they're just inferring the strength?

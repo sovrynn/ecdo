@@ -1,0 +1,1 @@
+so the gufm1 magnetic model covers the time range from 1590 to 1990. How did they know what the geomagnetic field was all the way back in 1590? Are they back-projecting? Or do they have measurements from back then to verify the model?
