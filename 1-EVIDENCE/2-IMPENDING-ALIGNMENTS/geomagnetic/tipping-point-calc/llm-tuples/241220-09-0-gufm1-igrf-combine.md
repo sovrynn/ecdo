@@ -1,0 +1,1 @@
+In this paper, do the authors discuss how they used gufm1 and igrf models? Did they combine them to get the full timeseries from 1590 to 2010 or whatever they had?
