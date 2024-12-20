@@ -7,7 +7,7 @@ I think I should really lean on GPT o1 for this task.
 
 # Questions I still need to answer
 
-Can I use flood fill to lazily calculate the required values? I'll need to answer the above question to know this. I should have enough compute for this though.
+Can I use flood fill to lazily calculate the required values? I should have enough compute not to need this.
 
 So, I still need to figure out whether the original authors combined gufm1 and igrf and if so, whether they needed any special methods to do it properly. Because igrf doesn't go back that far and it seems fitting the voight equation requires lots of data...
 
@@ -28,7 +28,7 @@ IGRF-14 goes from 1900 to present, pretty much. They just released it on Nov 202
 
 ## Getting da raw data
 
-I'll have to combine gufm1 and igrf14 to get a complete record from 1590 to 2025. From what I understand though, it's only using real data till 2020 (IGRf 14) so that's the cutoff. It'll be an extra decade of data than what the original paper used, but still 5 years outdated.
+I'll have to combine gufm1 and igrf14 to get a complete record from 1590 to 2025. From what I understand, its accurate up till the present, which means we would actually get an extra 15 years of data compared to the original calculation.
 
 ## Method for getting the 32,000 isoline timeseries
 
