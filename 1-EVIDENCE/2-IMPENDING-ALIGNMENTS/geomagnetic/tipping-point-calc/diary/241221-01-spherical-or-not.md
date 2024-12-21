@@ -1,0 +1,7 @@
+The gufm1 and International Geomagnetic Reference Field (IGRF) models represent Earth's geomagnetic field using spherical harmonics, which inherently assume a spherical Earth. This mathematical approach simplifies the complex geomagnetic field by expanding it into a series of spherical harmonic functions.
+
+While these models are based on a spherical approximation, they can be adapted to account for Earth's actual oblate spheroid shape. This adaptation involves transforming geodetic coordinates (which consider Earth's ellipsoidal shape) into geocentric coordinates suitable for spherical harmonic analysis. Such transformations enable the models to more accurately represent the geomagnetic field over Earth's true shape.
+
+Regarding the coefficients used in these models, the standard sets are derived based on the spherical harmonic expansion. There aren't separate versions of coefficients specifically tailored for spherical versus oblate spheroid models. Instead, the adaptation to an oblate spheroid is achieved through coordinate transformations and adjustments in the modeling process, rather than by altering the coefficients themselves.
+
+In summary, although gufm1 and IGRF utilize spherical harmonics assuming a spherical Earth, they can be adapted to accommodate Earth's oblate spheroid shape through appropriate coordinate transformations. The coefficients remain consistent, with the adaptations occurring in the application of the models rather than in the coefficients themselves.

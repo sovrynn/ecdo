@@ -1,0 +1,1 @@
+do the gufm1 and igrf models run into "noise" issues where the gradient for nt isn't perfectly smooth? For example, if I use a very basic flood fill approach, will I miss certain patches that should be part of the SAA but don't get included because of some thin "noisy" line where the values aren't smooth and spike on the other side of my threshold?
