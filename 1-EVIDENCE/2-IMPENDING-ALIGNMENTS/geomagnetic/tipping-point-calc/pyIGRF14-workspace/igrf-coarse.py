@@ -140,7 +140,7 @@ def main():
 
     # Loop over each year
     # (If you want exactly 1590..1944 inclusive, use range(1590, 1945))
-    for year in range(2021, 2024):
+    for year in range(2020, 2021):
         cell_coords = []
         cell_area_sum = 0.0
 
