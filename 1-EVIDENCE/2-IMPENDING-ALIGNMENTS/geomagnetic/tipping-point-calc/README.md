@@ -1,7 +1,9 @@
 So there's two basic steps to this.
 
+0. wrangle and get everything setup
 1. Generate a single timeseries dataset for SAA s.a.
 2. Fit that timeseries to the "tipping point" equation
+3. an animation to show the field strength gradient over time
 
 # Key concerns? Strength of geomagnetic field going back till 1590
 
