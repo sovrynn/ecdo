@@ -1,0 +1,1 @@
+Whats the best way to divide up the surface area of the earth into certain areas with an accompanying lat/lon? I need to use this method in some calculations im doing in a python script. I suppose it would be nice if the areas are equal space (although not necessary) and also nice if I can visualize them easily (also in python). I'll be using a spherical earth model.

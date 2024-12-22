@@ -3,19 +3,28 @@ So there's two basic steps to this.
 1. Generate a single timeseries dataset for SAA s.a.
 2. Fit that timeseries to the "tipping point" equation
 
-# Your best friends
+# Key concerns? Strength of geomagnetic field going back till 1590
 
-I think I should really lean on GPT o1 for this task. It's going to be a complete nightmare if I can't test things properly. The issue is - without understanding the source code, when it comes to such complex equations, can I really be sure it's working as intended?
+One of the key concerns here is that prior to 1830, the gufm1 model doesn't actually calculate the strength of the geomagnetic field through any measurements.
 
-It'll really help to stick with INTERFACES rather than manipulating EQUATIONS.
+However, at 1830, the SAA extent is approximately 5% of the Earth's surface, and it's 20% now. These are verified through measurements. Additionally, the weakening dipole field is established on even longer timeframes through archaeomagnetic measurements, which should lead us to believe that anomalies like the SAA must have been less prominent back then as well, since the total energy of the field is constant, as per the late Ned Benton. (See PRESENT-CLIMATE-ANOMALIES/geomagnetic/dipole-strength)
 
-You can pass o1 the documentation, ask it to literally write testing code, and just verify the output
+Read this summary from GPT:
 
-# Questions I still need to answer
+## GPT Summary on how the STRENGTH of the field was calculated for historical periods
 
-Can I use flood fill to lazily calculate the required values? I should have enough compute not to need this.
+Yes, the authors discuss the strength of the geomagnetic field throughout the interval from 1590 to 1990, albeit indirectly. Their model, **gufm1**, is focused on reconstructing the magnetic field morphology (its spatial structure) and temporal variations at the core-mantle boundary (CMB) over this period. However, intensity (strength) of the field is also addressed in their methodology:
 
-So, I still need to figure out whether the original authors combined gufm1 and igrf and if so, whether they needed any special methods to do it properly. Because igrf doesn't go back that far and it seems fitting the voight equation requires lots of data...
+1. **Before 1832 (Scale Factor for Field Strength):**
+   - They acknowledge that measurements before Carl Friedrich Gauss's method of determining absolute field intensities in 1832 lack direct intensity information. Hence, they rely on assumptions about the dipole moment's decay over time to scale the intensity of the reconstructed field. Specifically, they use a decay rate of 15 nT/year (as suggested by Barraclough in 1974) to estimate field strength in earlier times.
+
+2. **Post-1832 (Direct Field Strength Measurements):**
+   - For this period, they incorporate Gauss's method-derived intensity measurements into their dataset. These include horizontal intensity (H), total intensity (F), and the three components (X, Y, Z) of the field vector.
+
+3. **Mathematical Representation of Field Strength:**
+   - The model represents the field as a sum of spherical harmonics, which include coefficients that encapsulate the field's strength and variation in time and space. The strength of the radial magnetic field component \(B_r\) is a primary focus at the CMB.
+
+While their primary goal is to model the field's morphology and secular variation (changes over time), their inclusion of intensity data post-1832 and assumptions about intensity scaling pre-1832 provide indirect insights into the strength of the geomagnetic field from 1590 to 1990.
 
 # Datasets
 
