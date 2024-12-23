@@ -41,3 +41,11 @@ It's the easiest way I think. And you use the midpoint of each bounding box to c
 ## Bounding box? Or global?
 
 Honestly looking at the diagram I found on the earth's surface, I'm thinking I should just do an individual tally for every single box for every single time period. Complete brute force. I don't think I need to do some fancy bounding box; I don't need to exclude anything from the tally. These low values only exist at the SAA.
+
+# Verification
+
+First of all, my data matches the one in the Desantis paper in shape and scale. That itself is good enough.
+
+Any concerns with lack of geomagnetic field strength measurements prior to 1830 should be dispelled, as archaeointensity results show a clear dipole strength reduction on much longer timeframes than back till 1590. Additionally, there is some work cited from NASA that supposedly shows that while dipole strength decreases, the total field energy doesn't, indicating that given a stronger dipole in the past, but fixed energy, we can assume that anomalies like the SAA will have been smaller in extent.
+
+The results are unambiguous to me.

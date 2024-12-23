@@ -39,6 +39,8 @@ def log_periodic(t, A, B, tc, D, f, phi):
     float or array-like
         The model-predicted values y(t).
     """
+    print(f'Derp: {tc}')
+
     return A + B * np.log(tc - t) * (
         1.0 + D * np.cos(2.0 * np.pi * f * np.log(tc - t) + phi)
     )
@@ -73,12 +75,21 @@ def main():
     ]
 
     p0 = [
-        1.0e4,       # A  ~ offset
-        -1.0e3,      # B  ~ scale factor for ln(tc - t)
-        2050,  # tc ~ a bit beyond the last data time
+        250000000,       # A  ~ offset
+        -50000000,      # B  ~ scale factor for ln(tc - t)
+        2031,  # tc ~ a bit beyond the last data time
         1,         # D  ~ amplitude of log-periodic oscillation
-        1,         # f  ~ frequency
+        0.5,         # f  ~ frequency
         1.0          # phi ~ phase shift
+    ]
+
+    p0 = [
+        1,
+        1,
+        2031,
+        1,
+        1,
+        1
     ]
 
     # lb = [-np.inf, -np.inf, 2025.1, -np.inf, -np.inf, -np.inf]
@@ -125,7 +136,7 @@ def main():
     # Compute the model on a dense time grid for plotting
     t_min = np.min(t_data)
     t_max = np.max(t_data)
-    t_fit = np.linspace(t_min, 2030, 200)
+    t_fit = np.linspace(t_min, min(2072,tc_fit - 1), 200)
     y_model = log_periodic(t_fit, *popt)
 
     # 5) Plot and save to output.png

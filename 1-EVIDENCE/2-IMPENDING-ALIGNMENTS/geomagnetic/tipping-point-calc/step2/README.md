@@ -8,3 +8,9 @@ I do think it's ridiculous that they modeled the global sea level using the tipp
 # How to do
 
 I honestly have no idea how to do this I've never really done it before particularly with an equation this complex
+
+# Verification
+
+So I came up with some fits, or rather, a set of parameter start values that optimizes to a reasonable looking fit.
+
+However I want to be sure. Not sure how I can verify this one.
