@@ -73,6 +73,4 @@ Some contact info for the people running this IGRF-14 thing on the site here: ht
 
 # TODO
 
-Calculate 1900 splice timeseries critical times
-
 Recreate the error checking work in which Desantis calculated 2060
