@@ -32,3 +32,15 @@ Square kilometers.
 # Running it
 
 6 threads.
+
+# Post mortem notes
+
+So, I had an interesting way of running it.
+
+Basically, it actually takes a long time to complete the data processing for 1 year - it iterates through every single 1x1 degree lat/lon box, checks the field value, and if its less than the 32000 nt threshold, calculates the surface area and adds it to a sum.
+
+In my scripts, I can denote the range of years I want the script to complete.
+
+Since each script took 1 thread, what I would do is utilize multiple threads by running multiple scripts; each one with a different range of years. They'd all run concurrently.
+
+Then I gathered the output files together.
