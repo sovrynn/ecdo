@@ -81,6 +81,15 @@ def main():
         1.0          # phi ~ phase shift
     ]
 
+    p0 = [
+        250000000,       # A  ~ offset
+        -50000000,      # B  ~ scale factor for ln(tc - t)
+        2011,  # tc ~ a bit beyond the last data time
+        -0.1,         # D  ~ amplitude of log-periodic oscillation
+        1,         # f  ~ frequency
+        2.0          # phi ~ phase shift
+    ]
+
     # lb = [-np.inf, -np.inf, 2025.1, -np.inf, -np.inf, -np.inf]
     # ub = [np.inf, np.inf, 2100,    np.inf,  np.inf,  np.inf]
     popt, pcov = curve_fit(log_periodic, t_data, y_data,

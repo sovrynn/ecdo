@@ -39,7 +39,7 @@ def log_periodic(t, A, B, tc, D, f, phi):
     float or array-like
         The model-predicted values y(t).
     """
-    print(f'Derp: {tc}')
+    print(f'Optimizing tc: {tc}')
 
     return A + B * np.log(tc - t) * (
         1.0 + D * np.cos(2.0 * np.pi * f * np.log(tc - t) + phi)
