@@ -84,7 +84,7 @@ def main():
     p0 = [
         250000000,       # A  ~ offset
         -50000000,      # B  ~ scale factor for ln(tc - t)
-        2011,  # tc ~ a bit beyond the last data time
+        2026,  # tc ~ a bit beyond the last data time
         -0.1,         # D  ~ amplitude of log-periodic oscillation
         1,         # f  ~ frequency
         2.0          # phi ~ phase shift
