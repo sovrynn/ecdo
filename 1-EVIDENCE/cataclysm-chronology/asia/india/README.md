@@ -392,6 +392,14 @@ Found one related myth, pretty sure this new one is s1>s2 corresponding to Manu 
 How Agastya(wind and fire) drank up the ocean(south indian ocean s1>s2). 
 Indra ruthlessly killed Vṛttrāsura, who had been harassing the Gods, with the help of the Kālakeyas. The frightened Kālakeyas got into the ocean and hid themselves at the bottom. From that hideout they decided to destroy the three worlds. At night they came out on the earth and ate a good deal of Brahmins, and caused much damage to the hermitages of Vasiṣṭha and Cyavana. All the Brahmins on the earth were terribly afraid of the Kālakeyas. The gods went to Viṣṇu and prayed for protection. Viṣṇu informed them that the Kālakeyas could not be caught unless the ocean was dried up, and this task could be performed only by Agastya. So the Gods approached Agastya and told him what Viṣṇu had informed them. With pleasure Agastya accepted the job. Accompanied by the Gods and hermits he neared the swaying and surging ocean. While all were watching unwinkingly Agastya brought the great ocean into his palm and drank it up very easily and subsequently the Kālakeyas were killed. Now the Gods again approached Viṣṇu and made representation about the loss of the ocean. Viṣṇu told them that by the penance of Bhagīratha the divine Gaṅgā would fall into the earth and then the ocean will be filled. In this way the earth regained its lost ocean. (Mahābhārata, Vana Parva, Chapters 101 to 105).
 
+## THE FLOOD LEGEND IN SANSKRIT LITERATURE
+
+Hard copy here.
+
+## The Tamil Flood Myths and the Cankam Legend by David Shulman
+
+Hard copy here.
+
 ## Citations
 
 1. https://talkorigins.org/faqs/flood-myths.html#Tamil
