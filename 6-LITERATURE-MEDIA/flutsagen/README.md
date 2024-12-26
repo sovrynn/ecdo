@@ -2,4 +2,4 @@
 
 Wrote a book on flood myths.
 
-Transcription, translation, GPT markdown summary here.
+Transcription, translation, LLM HTML summary here.
