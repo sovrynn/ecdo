@@ -25,7 +25,7 @@ def log_periodic(t, A, B, tc, D, f, phi):
     """
     Log-periodic function y(t):
 
-        y(t) = A + B * ln(tc - t) * [1 + D * cos(2π f ln(tc - t) + phi)]
+        y(t) = A + B * ln(tc - t) * (1 + D * cos(2π f ln(tc - t) + phi))
 
     Parameters
     ----------
@@ -58,53 +58,19 @@ def main():
 
     # 3) Provide an initial guess for the model parameters:
     #    [A, B, tc, D, f, phi]
-    #    Adjust these as needed for your data.
-    #    IMPORTANT: ensure tc is initially > max(t_data) to avoid log(0) or log(negative).
     t_max = np.max(t_data)
 
-    # this one works for the full timeseries
     p0 = [
-        1.0e4,       # A  ~ offset
-        -1.0e3,      # B  ~ scale factor for ln(tc - t)
-        2050,  # tc ~ a bit beyond the last data time
-        1,         # D  ~ amplitude of log-periodic oscillation
-        1,         # f  ~ frequency
-        1.0          # phi ~ phase shift
+        250000000,  # A  ~ offset
+        -50000000,  # B  ~ scale factor for ln(tc - t)
+        2026,       # tc ~ a bit beyond the last data time
+        -0.1,       # D  ~ amplitude of log-periodic oscillation
+        1,          # f  ~ frequency
+        2.0         # phi ~ phase shift
     ]
 
-    p0 = [
-        1.0e4,       # A  ~ offset
-        -1.0e3,      # B  ~ scale factor for ln(tc - t)
-        2050,  # tc ~ a bit beyond the last data time
-        1,         # D  ~ amplitude of log-periodic oscillation
-        1,         # f  ~ frequency
-        1.0          # phi ~ phase shift
-    ]
-
-    p0 = [
-        250000000,       # A  ~ offset
-        -50000000,      # B  ~ scale factor for ln(tc - t)
-        2026,  # tc ~ a bit beyond the last data time
-        -0.1,         # D  ~ amplitude of log-periodic oscillation
-        1,         # f  ~ frequency
-        2.0          # phi ~ phase shift
-    ]
-
-    # lb = [-np.inf, -np.inf, 2025.1, -np.inf, -np.inf, -np.inf]
-    # ub = [np.inf, np.inf, 2100,    np.inf,  np.inf,  np.inf]
-    popt, pcov = curve_fit(log_periodic, t_data, y_data,
-                           p0=p0, maxfev=1000000)
-
-    # # Optional: Use parameter bounds so tc can't drop below max(t_data)
-    # # from scipy.optimize import curve_fit
-    # lb = [-np.inf, -np.inf, t_max + 1, -np.inf, 0, -2*np.pi]
-    # ub = [np.inf, np.inf, t_max + 1000, np.inf, 5, 2*np.pi]
-
-    # # 4) Fit the data
-    # popt, pcov = curve_fit(
-    #     log_periodic, t_data, y_data,
-    #     p0=p0, maxfev=20000
-    # )
+    # 4) Fit the data
+    popt, pcov = curve_fit(log_periodic, t_data, y_data, p0=p0, maxfev=1000000)
 
     # Extract best-fit parameters
     A_fit, B_fit, tc_fit, D_fit, f_fit, phi_fit = popt
@@ -113,7 +79,6 @@ def main():
     y_fit = log_periodic(t_data, *popt)
 
     # 6) Calculate correlation coefficient (Pearson r)
-    #    We'll just do a standard Pearson correlation.
     r_value, p_value = pearsonr(y_data, y_fit)
 
     # Print best-fit parameters and correlation
@@ -129,14 +94,10 @@ def main():
     print(f"p-value for r               = {p_value:.4e}")
     print(f'Critical time {tc_fit}')
 
-    # 7) Now extend the plot up to tc.
-    #    We won't include tc exactly (log would blow up), so we stop slightly before.
+    # 7) Extend the plot up to tc if tc > t_max
     if tc_fit > t_max:
         t_ext = np.linspace(np.min(t_data), tc_fit - 0.001, 400)
     else:
-        # If the fitted tc is not > t_max, we just stick to data range
-        # (or you can skip plotting beyond data).
-        # But usually, we'd expect tc to be beyond max data time.
         print("\nWarning: tc <= max(t_data). Plot is limited to data range.")
         t_ext = np.linspace(np.min(t_data), t_max, 400)
 
@@ -145,19 +106,28 @@ def main():
     # 8) Plot
     plt.figure(figsize=(8, 5))
 
+    # -- MODIFICATION: scale y_data by dividing by 510,100,000 then multiply by 100
+    #    (effectively converting to '% of 510,100,000')
+    y_data = (y_data / 510100000.0) * 100
+    y_ext = (y_ext / 510100000.0) * 100
+
     # Plot the data
-    plt.scatter(t_data, y_data, c='blue', label='SAA Surface Area Extent')
+    plt.scatter(t_data, y_data, c='blue', label='SAA Surface Area Extent (%)')
 
     # Plot the extended model
-    plt.plot(t_ext, y_ext, 'r-', label='Tipping Point System Equation Fit')
+    plt.plot(t_ext, y_ext, 'r-', label='Tipping Point Model Fit')
 
-    # Optionally, mark the tc with a vertical line if it is beyond the data range
+    # Optionally, mark the tc with a vertical line
     if tc_fit > t_max:
-        plt.axvline(tc_fit, color='green', linestyle='--', label=f'Tipping point time = {tc_fit:.1f}')
+        plt.axvline(tc_fit, color='green', linestyle='--',
+                    label=f'Tipping point time = {tc_fit:.1f}')
 
     plt.xlabel("Time")
-    plt.ylabel("SAA ")
-    plt.title("Tipping Point Model based on SAA surface area extent")
+    # Updated label reflecting the scaling
+    ylabel = """SAA Extent (% of Earth's surface area)
+    """
+    plt.ylabel(ylabel)
+    plt.title("Geomagnetic Tipping Point Projection Based on South Atlantic Anomaly Extent\nData Source: GUFM1 (1590-1944), IGRF (1945-2025)")
     plt.legend()
     plt.savefig("output.png", dpi=150)
     plt.close()

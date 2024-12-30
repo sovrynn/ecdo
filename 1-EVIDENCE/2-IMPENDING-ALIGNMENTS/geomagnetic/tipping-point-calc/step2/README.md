@@ -1,3 +1,9 @@
+# How to run
+
+fit4.py is the file. This creates the tipping point line on the side
+
+# Notes
+
 This part is another difficult part. I'll have to:
 - figure out that tipping point equation
 - fit it to the data, also getting confidence intervals

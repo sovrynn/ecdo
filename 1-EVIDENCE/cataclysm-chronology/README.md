@@ -2,6 +2,8 @@
 
 This folder is for compiling a proper chronology of all cataclysms, incorporating myths, stories, and accounts of floods and cataclysms together with history.
 
+![](img/flood-stories-map-cropped.png)
+
 ## Sources
 
 - Massive flood myth compilation: https://talkorigins.org/faqs/flood-myths.html (Hard copy in `hard-copies`)

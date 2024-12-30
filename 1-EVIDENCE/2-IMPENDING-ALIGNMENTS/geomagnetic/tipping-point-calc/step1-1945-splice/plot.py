@@ -52,9 +52,9 @@ def plot_timeseries(years, values, output_filename='output.png'):
     
     plt.figure(figsize=(10, 6))
     plt.plot(years, transformed_values, marker='o', linestyle='-', color='b')
-    plt.title('South Atlantic Anomaly Surface Area Extent Timeseries')
+    plt.title('South Atlantic Anomaly Surface Area Extent 1590-2025 (Data Source: GUFM1, IGRF)')
     plt.xlabel('Year')
-    plt.ylabel('Surface Area Coverage %')
+    plt.ylabel('Earth Surface Area Coverage %')
     plt.grid(True)
     plt.tight_layout()
     try:
