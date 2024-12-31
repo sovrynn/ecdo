@@ -1,0 +1,68 @@
+Acawai (Orinoco), Venezuela, South America  
+5.6614718,-67.58277439999999
+Arekuna, Guyana, South America  
+4.860416,-58.93018
+Makiritare, Venezuela, South America  
+4.0435454,-67.6983481
+Macusi, Guyana, South America  
+3.3731347,-59.80185529999999
+Muysca, Colombia, South America  
+4.710988599999999,-74.072092
+Yaruro (southern Venezuela), Venezuela, South America  
+8.620620599999999,-70.2310676
+Yanomamö (southern Venezuela), Venezuela, South America  
+2.8101413,-65.0957792
+Tamanaque (Orinoco), Venezuela, South America  
+8.0945054,-63.55533449999999
+Arawak, Guyana, South America  
+6.8012793,-58.1551255
+Pamary, Brazil, South America  
+-3.1190275,-60.0217314
+Abedery, Brazil, South America  
+-9.9740249,-67.8098191
+Kataushy (Purus River), Brazil, South America  
+-7.263743099999998,-64.7965427
+Ipurina (Upper Amazon), Brazil, South America  
+-3.3473403,-64.70921
+Jivaro (eastern Ecuador), Ecuador, South America  
+-2.3074378,-78.1202307
+Shuar (Andes), Ecuador, South America  
+-1.4928811,-77.99980339999999
+Murato (eastern Ecuador), Ecuador, South America  
+0.0726839,-76.7336521
+Cañari (Quito), Ecuador, South America  
+-0.2232523,-78.5141064
+Guanca, Peru, South America  
+-12.0686357,-75.21029759999999
+Chiquito, Peru, South America  
+-13.53195,-71.96746259999999
+Ancasmarca (near Cuzco), Peru, South America  
+-13.251667,-71.985278
+Canelos Quechua, Peru, South America  
+-15.2103127,-73.8266591
+Quechua, Peru, South America  
+-13.53195,-71.96746259999999
+Inca, Peru, South America  
+-13.53195,-71.96746259999999
+Colla (high Andes), Peru, South America  
+-15.8402218,-70.0218805
+Chiriguano (southeast Bolivia), Bolivia, South America  
+-21.5177889,-64.72956669999999
+Chorote (Eastern Paraguay), Paraguay, South America  
+-25.2637399,-57.57592599999999
+Eastern Brazil (Rio de Janeiro region), Brazil, South America  
+-22.9068467,-43.1728965
+Eastern Brazil (Cape Frio region), Brazil, South America  
+-22.8868925,-42.0266568
+Caraya (Araguaia River, central Brazil), Brazil, South America  
+-15.7050424,-49.36531489999999
+Coroado (south Brazil), Brazil, South America  
+-25.4268985,-49.2651984
+Araucania (coastal Chile), Chile, South America  
+-38.7383905,-72.59045979999999
+Toba (northern Argentina), Argentina, South America  
+-27.4518622,-58.98555469999999
+Selk'nam (southern tip of Argentina), Argentina, South America  
+-54.8019121,-68.3029511
+Yamana (Tierra del Fuego), Argentina, South America  
+-54.8019121,-68.3029511

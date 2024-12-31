@@ -1,0 +1,110 @@
+Vogul, Asia  
+61.00605700000001,69.0312136
+Samoyed (north Siberia), Asia  
+66.550073,66.6028111
+Yenisey-Ostyak (north central Siberia), Asia  
+56.01528339999999,92.8932476
+Kamchadale (northeast Siberia), Asia  
+53.0583997,158.6320734
+Altaic (central Asia), Asia  
+47.9220509,106.9155007
+Tuvinian (Soyot) (north of Mongolia), Asia  
+51.7150832,94.4574804
+Mongolia, Asia  
+47.9220509,106.9155007
+Buryat (eastern Siberia), Asia  
+51.8335896,107.5840434
+Sagaiye (eastern Siberia), Asia  
+53.7175644,91.4293172
+Russian, Asia  
+55.755826,37.6173
+Hindu, Asia  
+25.3176452,82.9739144
+Bhil (central India), Asia  
+23.2599333,77.412615
+Kamar (Raipur District, Central India), Asia  
+21.2513844,81.62964130000002
+Assam, India, Asia  
+26.1157917,91.7085933
+Tamil (southern India), Asia  
+13.0843007,80.2704622
+Lepcha (Sikkim), Asia  
+27.3313512,88.6138113
+Tibet, Asia  
+29.6526199,91.13775
+Singpho (Assam), Asia  
+27.4705449,94.91246249999999
+Lushai (Assam), Asia  
+23.7307175,92.71731059999999
+Lisu (northwest Yunnan, China), Asia  
+26.8564799,100.2270999
+Lolo (southwestern China), Asia  
+24.8796599,102.83322
+Jino (southern Yunnan, China), Asia  
+22.0000799,100.77163
+Karen (Burma), Asia  
+16.875913,97.64396110000001
+Chingpaw (Upper Burma), Asia  
+25.3867687,97.39392240000001
+China, Asia  
+39.904211,116.407395
+Korea, Asia  
+37.550263,126.9970831
+Munda (north-central India), Asia  
+23.0707247,80.0981869
+Santal (Bengal), Asia  
+22.5743545,88.3628734
+Ho (southwestern Bengal), Asia  
+22.8045665,86.2028754
+Bahnar (Cochin China), Asia  
+13.9718356,108.0150796
+Kammu (northern Thailand), Asia  
+19.9104798,99.840576
+Andaman Islands (Bay of Bengal), Asia  
+11.6233774,92.7264828
+Zhuang (China), Asia  
+22.8167299,108.3669
+Sui (southern Guizhou, China), Asia  
+26.6475899,106.63019
+Shan (Burma), Asia  
+20.7887571,97.0337141
+Tsuwo (Formosa interior), Asia  
+23.9177236,120.6764959
+Bunun (Formosa interior), Asia  
+22.761315,121.1439117
+Ami (eastern Taiwan), Asia  
+23.9871434,121.6014001
+Benua-Jakun (Malay Peninsula), Asia  
+3.1319197,101.6840589
+Kelantan (Malay Peninsula), Asia  
+6.1275396,102.2420979
+Ifugao (Philippines), Asia  
+16.9496263,121.1022942
+Kiangan Ifugao, Philippines, Asia  
+16.7712337,121.0986722
+Atá (Philippines), Asia  
+8.0515054,124.9229946
+Mandaya (Philippines), Asia  
+7.3171585,126.5419887
+Tinguian (Luzon, Philippines), Asia  
+17.5951122,120.7982528
+Batak (Sumatra), Asia  
+3.5951956,98.6722227
+Nias (an island west of Sumatra), Asia  
+1.1255279,97.5247243
+Engano (another island west of Sumatra), Asia  
+-5.3746635,102.2319048
+Dusun (British North Borneo), Asia  
+5.9843644,116.077344
+Dyak (Borneo), Asia  
+-0.0263303,109.3425039
+Ot-Danom (Dutch Borneo), Asia  
+-2.2161048,113.913977
+Toradja (central Celebes), Asia  
+-0.8679099,119.9046594
+Alfoor (between Celebes and New Guinea), Asia  
+-1.8479,120.5279
+Rotti (southwest of Timor), Asia  
+-10.7386421,123.1239049
+Nage (Flores), Asia  
+-8.854053,121.654198

@@ -1,0 +1,22 @@
+Greek, Europe  
+37.9838096,23.7275388
+Arcadian, Europe  
+37.5557825,22.3337769
+Samothrace, Europe  
+40.4476834,25.5917918
+Roman, Europe  
+41.8967068,12.4822025
+Scandinavian, Europe  
+59.3327036,18.0656255
+German, Europe  
+52.52000659999999,13.404954
+Celtic, Europe  
+53.3498053,-6.2603097
+Welsh, Europe  
+51.483707,-3.1680962
+Lithuanian, Europe  
+54.6871555,25.2796514
+Transylvanian Gypsy, Europe  
+46.7712101,23.6236353
+Turkey, Europe  
+41.0082376,28.9783589

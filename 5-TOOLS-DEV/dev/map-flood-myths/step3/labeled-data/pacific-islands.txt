@@ -1,0 +1,34 @@
+Kabadi, Papua New Guinea, Oceania  
+-9.4790043,147.1494164
+Valman (northern New Guinea), Papua New Guinea, Oceania  
+-3.5800229,143.6583166
+Mamberamo River, Indonesia (Irian Jaya), Oceania  
+-2.5916025,140.6689995
+Samo-Kubo (western Papua New Guinea), Papua New Guinea, Oceania  
+-6.1215578,141.2986517
+Papua New Guinea, Oceania  
+-6.314992999999999,143.95555
+Palau Islands (Micronesia), Oceania  
+7.5003835,134.624289
+Western Carolines, Micronesia, Oceania  
+9.5556503,138.1399232
+New Hebrides, Vanuatu, Oceania  
+-17.742979,168.3173027
+Lifou (Loyalty Islands), New Caledonia, Oceania  
+-20.9448472,167.2405153
+Fiji, Oceania  
+-18.1405049,178.4232507
+Samoa, Oceania  
+-13.831609,-171.7689086
+Nanumanga, Tuvalu, Oceania  
+-6.2858019,176.319928
+Mangaia, Cook Islands, Oceania  
+-21.9352313,-157.9165934
+Rakaanga, Cook Islands, Oceania  
+-10.0333333,-161.0833333
+Raiatea (Leeward Group), French Polynesia, Oceania  
+-16.7287218,-151.4449665
+Tahiti, French Polynesia, Oceania  
+-17.5324608,-149.5677151
+Hawaii, United States, Oceania  
+21.3098845,-157.8581401

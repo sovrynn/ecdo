@@ -1,0 +1,55 @@
+Vogul, Asia  
+Samoyed (north Siberia), Asia  
+Yenisey-Ostyak (north central Siberia), Asia  
+Kamchadale (northeast Siberia), Asia  
+Altaic (central Asia), Asia  
+Tuvinian (Soyot) (north of Mongolia), Asia  
+Mongolia, Asia  
+Buryat (eastern Siberia), Asia  
+Sagaiye (eastern Siberia), Asia  
+Russian, Asia  
+Hindu, Asia  
+Bhil (central India), Asia  
+Kamar (Raipur District, Central India), Asia  
+Assam, India, Asia  
+Tamil (southern India), Asia  
+Lepcha (Sikkim), Asia  
+Tibet, Asia  
+Singpho (Assam), Asia  
+Lushai (Assam), Asia  
+Lisu (northwest Yunnan, China), Asia  
+Lolo (southwestern China), Asia  
+Jino (southern Yunnan, China), Asia  
+Karen (Burma), Asia  
+Chingpaw (Upper Burma), Asia  
+China, Asia  
+Korea, Asia  
+Munda (north-central India), Asia  
+Santal (Bengal), Asia  
+Ho (southwestern Bengal), Asia  
+Bahnar (Cochin China), Asia  
+Kammu (northern Thailand), Asia  
+Andaman Islands (Bay of Bengal), Asia  
+Zhuang (China), Asia  
+Sui (southern Guizhou, China), Asia  
+Shan (Burma), Asia  
+Tsuwo (Formosa interior), Asia  
+Bunun (Formosa interior), Asia  
+Ami (eastern Taiwan), Asia  
+Benua-Jakun (Malay Peninsula), Asia  
+Kelantan (Malay Peninsula), Asia  
+Ifugao (Philippines), Asia  
+Kiangan Ifugao, Philippines, Asia  
+Atá (Philippines), Asia  
+Mandaya (Philippines), Asia  
+Tinguian (Luzon, Philippines), Asia  
+Batak (Sumatra), Asia  
+Nias (an island west of Sumatra), Asia  
+Engano (another island west of Sumatra), Asia  
+Dusun (British North Borneo), Asia  
+Dyak (Borneo), Asia  
+Ot-Danom (Dutch Borneo), Asia  
+Toradja (central Celebes), Asia  
+Alfoor (between Celebes and New Guinea), Asia  
+Rotti (southwest of Timor), Asia  
+Nage (Flores), Asia  
