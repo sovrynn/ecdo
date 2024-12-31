@@ -32,7 +32,13 @@ There will be quakes, eruptions and extreme weather due to the disruptions to th
 
 Almost certainly a globally experienced seismic movement in the hours before, and then a short time as the new dominant axis exponentially gains centrifugal dominance.
 
-The concept of a *W-shaped climate event*, as we have seen some potential past evidence of, makes me wonder if we aren't at least 5 years to a few decades out from the actual flip. The caveat being, of course, that the leadup will bring an *intense aridification* probably involving *extreme heat*.
+## W-shaped climate event
+
+The concept of a *W-shaped climate event*, as we have seen some potential past evidence of, makes me wonder if we aren't at least 5 years to a few decades out from the actual flip. The caveat being, of course, that the leadup will bring significantly noticeable climate change - for example, an *intense aridification* probably involving *extreme heat* in certain areas.
+
+"The south-central Levant experienced two phases of dry climate punctuated by a wet interval in between and thus the 4.2 ka event in the region has been termed a W-shaped event."
+
+https://en.wikipedia.org/wiki/4.2-kiloyear_event
 
 ## Citations
 
