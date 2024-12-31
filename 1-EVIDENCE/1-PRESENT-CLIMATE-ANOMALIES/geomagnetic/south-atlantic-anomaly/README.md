@@ -6,6 +6,10 @@
 
 https://earthobservatory.nasa.gov/images/84266/measuring-earths-magnetism
 
+## 1590 - 2025
+
+![](img/saa-plot.png)
+
 ## South Atlantic Anomaly
 
 The South Atlantic Anomaly (SAA) is an area where Earth's inner Van Allen radiation belt comes closest to Earth's surface, dipping down to an altitude of 200 kilometres (120 mi). This leads to an increased flux of energetic particles in this region and exposes orbiting satellites (including the ISS) to higher-than-usual levels of ionizing radiation.
