@@ -1,3 +1,13 @@
+# How to run
+
+gufm1-coarse.py and igrf-coarse.py are the two main ones.
+
+igrf-coarse.py needs to be copied into and run from the pyIGRF14-workspace directory.
+
+It actually takes a surprising amount of time to brute force these values across several centuries. Good luck running it on a consumer computer.
+
+# Genesis
+
 So in this part I'm going to actually calculate the SAA surface area as a scalar for every time value, creating a single-variable timeseries.
 
 This one is a bit confusing. I need to figure out:
