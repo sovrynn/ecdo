@@ -4,8 +4,6 @@ Geomagnetic field strength only began to be measured directly in 1830 by Carl Fr
 
 ## Variations in the geomagnetic dipole moment over the last 12 000 years
 
-Hard copy here.
-
 Shows a definite weakening of the geomagnetic field over the last 2000 years.
 
 ![](img/archaeomagnetic.png)
@@ -22,6 +20,8 @@ than that used by McElhinny & Senanayake (1982). Although there is no major
 difference between our global data and the earlier data, the data for the non-European
 region have been improved and we now have a data set for Asia"
 
+Hard copy here.
+
 ## Depletion of Earth's Magnetic Field (total energy remains constant??)
 
 "The field has been weakening since Carl Friedrich Gauss measured it around 1836, by about 5% per century, recently accelerating to 7%/century. The total energy of the field however is nearly constant, as shown by the late Ned Benton. This means that the field is not really weakening, only reshuffling its energy, reducing the "main dipole" (=north-south bar-magnet pattern, declining as noted by about 7% per century) and reinforcing the more complicated parts."
@@ -30,14 +30,13 @@ https://pwg.gsfc.nasa.gov/earthmag/magnQ&A1.htm
 
 https://pwg.gsfc.nasa.gov/earthmag/gauss.htm
 
-## Falling since 700 AD
+## The Evolution of the Earth's Magnetic Field: Falling since 700 AD
 
 ![](img/bloxham.jpg)
 
 "The magnetic field has reversed polarity at different intervals during different geological periods. During the Cretaceous period 90 million years ago and the Permian period 170 million years ago, we know that no reversals occurred because the rocks that formed during those periods share the same polarity. During the past 90 million years reversals have steadily become more frequent. The core changes too rapidly to account easily for such long-term behavior. /// Some features of the field move and form at a rapid pace whereas others remain stationary. This phenomenon suggests some external influence. ///  If the temperature increased in the deep mantle, particularly beneath southern Africa or Indonesia, the formation of the reverse-flux features could accelerate, thereby precipitating reversals."
 
-Pretty severe drop since around 700 AD
-https://sci-hub.ru/10.1038/scientificamerican1289-68
+Hard copy here: https://sci-hub.ru/10.1038/scientificamerican1289-68
 
 ### Quotes
 
