@@ -1,7 +1,5 @@
 # Magnetic North Pole Wander
 
-![](img/npw-wikipedia.png)
-
 ## North Magnetic Pole and Planetary Harmonics (1600-2024) [1]
 
 https://github.com/user-attachments/assets/7e944cb3-9ccd-45a8-a217-8136d9bc2465
@@ -13,6 +11,14 @@ North Magnetic Pole and Planetary Harmonics (1600-2024). Could the planets be in
 3. https://nobulart.com/the-flip-of-the-earth/
 4. https://nobulart.com/report-from-iron-mountain/
 
+## Alternative Magnetic North Pole Wander Video (1840 - 2019)
+
+Alternate magnetic north pole wander video which also shows a comparison to the scale of the Earth. Original video at `img/npw.mp4`. It is compiled from historic observational and SWARM data. Note the apparent >270° deviation that occurred in the mid-1800's.
+
+https://github.com/user-attachments/assets/de8d7eff-800f-4030-b428-2667cd46179e
+
+Source: https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Magnetic_north_and_the_elongating_blob
+
 ## NOAA Data
 
 ![](img/npw1.jpg)
@@ -22,13 +28,9 @@ Courtesy of NOAA, showing that that the Np has traversed more in the past 25 yea
 
 https://www.ncei.noaa.gov/maps/historical_declination/
 
-## Alternative Magnetic North Pole Wander Video (1840 - 2019)
+## Nice 2d visual (Source: Wikipedia)
 
-Alternate magnetic north pole wander video which also shows a comparison to the scale of the Earth. Original video at `img/npw.mp4`. It is compiled from historic observational and SWARM data. Note the apparent >270° deviation that occurred in the mid-1800's.
-
-https://github.com/user-attachments/assets/de8d7eff-800f-4030-b428-2667cd46179e
-
-Source: https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Magnetic_north_and_the_elongating_blob
+![](img/npw-wikipedia.png)
 
 ## British Geological Survey (2019) https://t.co/xCQNOqlskV...
 
