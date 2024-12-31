@@ -6,7 +6,7 @@
 
 https://earthobservatory.nasa.gov/images/84266/measuring-earths-magnetism
 
-## 1590 - 2025
+## Plotting the size of the SAA from 1590 - 2025
 
 ![](img/saa-plot.png)
 
