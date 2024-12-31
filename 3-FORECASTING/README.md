@@ -6,7 +6,7 @@ Goal is to predict when the next ECDO will happen.
 
 ## Contents
 
-- `date-and-triggers`: Date and triggers for the next ECDO event.
+- `0-DATE-AND-TRIGGERS`: Date predictions and triggers for the next ECDO event.
 - `case-against`: The best **counterarguments** for why we won't have an impending ECDO event.
 - (Speculative) `shudder`: A vague potential imminent phenomenon that Ethical Skeptic referred to on social media.
 
@@ -36,12 +36,12 @@ The concept of a *W-shaped climate event*, as we have seen some potential past e
 
 ## Citations
 
-1. [Craig Stone](https://nobulart.com) (Intro image as well)
+1. [Craig Stone](https://nobulart.com)
 
 # TODO
 
 investigate additional data feeds related to the ECDO that can help with monitoring
+- geomagnetic field
 - temperature
 - storms
 - auroras
-- geomagnetic field
