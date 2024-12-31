@@ -4,8 +4,6 @@ Goal is to predict when the next ECDO will happen.
 - Recent climate and geo-state anomalies are in `EVIDENCE/PRESENT-CLIMATE-ANOMALIES`.
 - Impending cosmic alignments are in `EVIDENCE/IMPENDING-COSMIC-ALIGNMENTS`.
 
-![](img/landscheidt-rosetta.jpg)
-
 ## Contents
 
 - `date-and-triggers`: Date and triggers for the next ECDO event.
@@ -18,9 +16,15 @@ Currently, the strongest piece of evidence we have for an impending ECDO event i
 
 https://github.com/user-attachments/assets/de8d7eff-800f-4030-b428-2667cd46179e
 
+![](img/saa-plot.png)
+
 Past that, there are also exothermic core and temperature anomalies. These are causing climate change, such as increased rainfall.
 
 Finally we have some more emergent evidence in `EVIDENCE/conspiracy-theories` concerning frenzied movements of "elites" in potential preparation for this.
+
+## Best forecast date - next few decades (2030-2060)
+
+There are a host of solar, planetary, and cosmic alignments in 2030. Additionally the geomagnetic field seems to be approaching a tipping point. See `date-and-triggers`.
 
 ## Signals that we are on the brink [1]
 
@@ -29,10 +33,6 @@ There will be quakes, eruptions and extreme weather due to the disruptions to th
 Almost certainly a globally experienced seismic movement in the hours before, and then a short time as the new dominant axis exponentially gains centrifugal dominance.
 
 The concept of a *W-shaped climate event*, as we have seen some potential past evidence of, makes me wonder if we aren't at least 5 years to a few decades out from the actual flip. The caveat being, of course, that the leadup will bring an *intense aridification* probably involving *extreme heat*.
-
-## Best forecast date - 2030
-
-There are a host of solar, planetary, and cosmic alignments in 2030. See `date-and-triggers`.
 
 ## Citations
 

@@ -2,6 +2,16 @@
 
 This folder is for predicting the date of the impending ECDO, along with potential triggers for it. Most notably, there are a host of cosmic alignments in June 2030 - solar minimum, planetary and gas giant alignments, comets, and more. See `EVIDENCE/solar-system`.
 
+## Prediction 1: 2059 (South Atlantic Anomaly tipping point projection)
+
+![](img/fit-2025-1945splice-final.png)
+
+See `EVIDENCE/IMPENDING-ALIGNMENTS/geomagnetic/tipping-point-calc` for source.
+
+## Prediction 2: 2030, based on upcoming cosmic alignments
+
+![](img/landscheidt-rosetta.jpg)
+
 ## When did it start?
 
 Possible destabilization began noticeably around 1973 although contributory processes were likely in place much before. See Ethical Skeptic's first thesis.
