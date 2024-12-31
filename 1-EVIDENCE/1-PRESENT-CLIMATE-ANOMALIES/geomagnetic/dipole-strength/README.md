@@ -1,10 +1,16 @@
 # Dipole Strength
 
+Geomagnetic field strength only began to be measured directly in 1830 by Carl Friedrich Gauss. However, the weakening of the dipole field is well established on much longer timeframes, going back multiple millenia, through archaeomagnetic measurements.
+
 ## Variations in the geomagnetic dipole moment over the last 12 000 years
 
 Hard copy here.
 
-Shows a definite weakening of the geomagnetic field over the last 2000 years. One thing I'm curious about - why don't we see a multi kiloannum decrease leading up to the 2000 BC event? Is the data trustworthy going back that far in time even? Did the most recent flip mess up all the data preceding it? 
+Shows a definite weakening of the geomagnetic field over the last 2000 years.
+
+![](img/archaeomagnetic.png)
+
+One thing I'm curious about - why don't we see a multi kiloannum decrease leading up to the 2000 BC event? Is the data trustworthy going back that far in time even? Did the most recent flip mess up all the data preceding it? 
 
 So, there is only a bit over 3000 data points for 12,000 years, which means the dataset must be very sparse. If you look at the paper you'll see it gets sparser further back in time.
 

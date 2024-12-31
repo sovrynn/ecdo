@@ -1,5 +1,11 @@
 # Recent Geomagnetic Anomalies
 
+All the strong evidence is in subfolders:
+- `north-pole-wander`: The wandering of the geomagnetic north pole.
+- `south-atlantic-anomaly`: An area of weak geomagnetic field strength over the South Atlantic Ocean.
+- `dipole-strength`: The weakening of Earth's geomagnetic dipole.
+- `schumann-resonances`: Global atmospheric electromagnetic resonances.
+
 ## Magnetic field getting weaker
 
 ![](img/mag1.jpg)
