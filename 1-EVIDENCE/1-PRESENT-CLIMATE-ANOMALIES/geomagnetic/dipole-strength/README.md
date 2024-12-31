@@ -100,7 +100,6 @@ and the southward movement of the
 Atlantic core spot.
 
 ![](img/bloxham3.png)
-![](img/bloxham4.png)
 
 ## Earth's geomagnetic dipole weakening
 
