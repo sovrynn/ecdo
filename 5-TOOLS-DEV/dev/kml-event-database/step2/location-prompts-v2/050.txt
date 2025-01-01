@@ -1,0 +1,11 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Taman Peninsula Biomass Deposit
+
+Basic location of event: Russia
+
+Specific data/information/context related to event: Sci-Hub | The Holocene sea level story since 7500 BP – Lessons from the Eastern Mediterranean, the Black and the Azov Seas. Quaternary International, 225(2), 160–179 | 10.1016/j.quaint.2008.11.016
+
+Brückner, H., Kelterbaum, D., Marunchak, O., Porotov, A., & Vött, A. (2010). The Holocene sea level story since 7500 BP – Lessons from the Eastern Mediterranean, the Black and the Azov Seas. Quaternary International, 225(2), 160–179. doi:10.1016/j.quaint.2008.11.016 
+
+10.1016/j.quaint.2008.11.016

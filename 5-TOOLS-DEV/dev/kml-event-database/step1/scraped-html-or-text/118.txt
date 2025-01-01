@@ -1,0 +1,2760 @@
+<!doctype html>
+<html lang="en-US" class="no-js">
+<head>
+    <title>  Climate Change in the Mediterranean: Environmental Impacts and Extreme Events : IEMed</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<meta charset="UTF-8">
+		<meta property="og:url"                content="https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/" />
+	<meta property="og:type"               content="article" />
+	<meta property="og:title"              content="Climate Change in the Mediterranean: Environmental Impacts and Extreme Events" />
+	<meta property="og:description"        content="Mediterranean climate change has been observed at a magnitude exceeding global means, despite the fact that the emission of greenhouse gases (GHGs) in Mediterranean countries lies at relatively low levels." />
+	<meta name="description"        		   content="Mediterranean climate change has been observed at a magnitude exceeding global means, despite the fact that the emission of greenhouse gases (GHGs) in Mediterranean countries lies at relatively low levels." />
+	<meta property="og:image"              content="https://www.iemed.org/wp-content/uploads/2020/12/Water-Security-in-the-Mediterranean-scaled-e1665747509944-770x432.jpg" />
+
+	
+	<link rel="apple-touch-icon" sizes="180x180" href="/wp-content/themes/iemed/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/iemed/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/iemed/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/wp-content/themes/iemed/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/wp-content/themes/iemed/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="/wp-content/themes/iemed/favicons/favicon.ico">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="msapplication-config" content="/wp-content/themes/iemed/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-5124845-2', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<!-- End Google Analytics -->
+
+	<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" hreflang="en" href="https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/" />
+<link rel="alternate" hreflang="ca" href="https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/?lang=ca" />
+<link rel="alternate" hreflang="es" href="https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/?lang=es" />
+<link rel="alternate" hreflang="fr" href="https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/?lang=fr" />
+<link rel="alternate" hreflang="x-default" href="https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.26.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-REPLL5L73E"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '8.26.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/www.iemed.org\/publication\/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events\/"};
+				if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+				}
+
+								var disableStrs = [
+										'ga-disable-G-REPLL5L73E',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+					if ( MonsterInsightsLocations.page_location ) {
+						__gtagTracker('set', MonsterInsightsLocations);
+					}
+										__gtagTracker('config', 'G-REPLL5L73E', {"forceSSL":"true","link_attribution":"true"} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.iemed.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.iemed.org/wp-includes/css/dist/block-library/style.min.css?ver=6.5.5' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpml-blocks-css' href='https://www.iemed.org/wp-content/plugins/sitepress-multilingual-cms/dist/css/blocks/styles.css?ver=4.6.14' type='text/css' media='all' />
+<link rel='stylesheet' id='pb_animate-css' href='https://www.iemed.org/wp-content/plugins/ays-popup-box/public/css/animate.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css' href='https://www.iemed.org/wp-content/themes/iemed/style.css?ver=6.5.5' type='text/css' media='all' />
+<!--n2css--><script type="text/javascript" src="https://www.iemed.org/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.26.0" id="monsterinsights-frontend-script-js"></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/www.iemed.org","hash_tracking":"false","v4_id":"G-REPLL5L73E"};/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.iemed.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.iemed.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="ays-pb-js-extra">
+/* <![CDATA[ */
+var pbLocalizeObj = {"ajax":"https:\/\/www.iemed.org\/wp-admin\/admin-ajax.php","seconds":"seconds","thisWillClose":"This will close in","icons":{"close_icon":"<svg class=\"ays_pb_material_close_icon\" xmlns=\"https:\/\/www.w3.org\/2000\/svg\" height=\"36px\" viewBox=\"0 0 24 24\" width=\"36px\" fill=\"#000000\" alt=\"Pop-up Close\"><path d=\"M0 0h24v24H0z\" fill=\"none\"\/><path d=\"M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z\"\/><\/svg>","close_circle_icon":"<svg class=\"ays_pb_material_close_circle_icon\" xmlns=\"https:\/\/www.w3.org\/2000\/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"36\" alt=\"Pop-up Close\"><path d=\"M0 0h24v24H0z\" fill=\"none\"\/><path d=\"M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z\"\/><\/svg>","volume_up_icon":"<svg class=\"ays_pb_fa_volume\" xmlns=\"https:\/\/www.w3.org\/2000\/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"36\"><path d=\"M0 0h24v24H0z\" fill=\"none\"\/><path d=\"M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z\"\/><\/svg>","volume_mute_icon":"<svg xmlns=\"https:\/\/www.w3.org\/2000\/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"\/><path d=\"M7 9v6h4l5 5V4l-5 5H7z\"\/><\/svg>"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.iemed.org/wp-content/plugins/ays-popup-box/public/js/ays-pb-public.js?ver=4.9.8" id="ays-pb-js"></script>
+<script type="text/javascript" id="wpml-browser-redirect-js-extra">
+/* <![CDATA[ */
+var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_us":"https:\/\/www.iemed.org\/publication\/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events\/","en":"https:\/\/www.iemed.org\/publication\/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events\/","us":"https:\/\/www.iemed.org\/publication\/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events\/","ca":"https:\/\/www.iemed.org\/publication\/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events\/?lang=ca","es_es":"https:\/\/www.iemed.org\/publication\/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events\/?lang=es","es":"https:\/\/www.iemed.org\/publication\/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events\/?lang=es","fr_fr":"https:\/\/www.iemed.org\/publication\/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events\/?lang=fr","fr":"https:\/\/www.iemed.org\/publication\/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events\/?lang=fr"},"cookie":{"name":"_icl_visitor_lang_js","domain":"www.iemed.org","path":"\/","expiration":24}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.iemed.org/wp-content/plugins/sitepress-multilingual-cms/dist/js/browser-redirect/app.js?ver=4.6.14" id="wpml-browser-redirect-js"></script>
+<link rel="https://api.w.org/" href="https://www.iemed.org/wp-json/" /><link rel="alternate" type="application/json" href="https://www.iemed.org/wp-json/wp/v2/publication/19778" /><link rel="canonical" href="https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/" />
+<link rel='shortlink' href='https://www.iemed.org/?p=19778' />
+<link rel="alternate" type="application/json+oembed" href="https://www.iemed.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.iemed.org%2Fpublication%2Fclimate-change-in-the-mediterranean-environmental-impacts-and-extreme-events%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.iemed.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.iemed.org%2Fpublication%2Fclimate-change-in-the-mediterranean-environmental-impacts-and-extreme-events%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.6.14 stt:8,1,4,2;" />
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style>		<style type="text/css" id="wp-custom-css">
+			.header {
+  background: white;
+  width: 100%;
+  top: 0;
+  position: fixed;
+  z-index: 10000;
+}
+.header--transparent {
+	background: rgba(0,0,0,0.4);
+	width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 100000;
+}
+.slider-cast, 
+.slider-eng, 
+.slider-cat, 
+.slider-fra {
+	display:none;
+}
+.page-id-5 .slider-eng {
+	display:block;
+}
+.page-id-41005 .slider-cat {
+	display:block;
+}
+.page-id-41007 .slider-cast {
+	display:block;
+}
+.page-id-41006 .slider-fra {
+	display:block;
+}
+div#n2-ss-2 .n2-ss-slider-4 {
+	height: 80vh;
+}
+div#n2-ss-3 .n2-ss-slider-4 {
+	height: 80vh;
+}
+div#n2-ss-4 .n2-ss-slider-4 {
+	height: 80vh;
+}
+div#n2-ss-5 .n2-ss-slider-4 {
+	height: 80vh;
+}
+
+/*SLIDE 1 CAST*/
+
+div#n2-ss-4 .n2-font-76dcad08645c7e41a83cf14713a7291d-hover {
+	font-family: 'Avenir-Black', sans-serif;
+	margin-bottom: 10px;
+	margin-top: 100px;
+	margin-left: 34.75px;
+	font-size: 60px;
+	line-height: 65px;
+	max-width: 85%;
+}
+
+div#n2-ss-2 .n2-font-9bd02e0c43ff36632fc1df829d5f3e02-hover {
+	font-family: 'GT-America', sans-serif;
+	font-weight: normal;
+	font-size: 19px;
+	line-height: 25px;
+	margin-top: 25px;
+	margin-bottom: 32px;
+	margin-left: 34.75px;
+	max-width: 65%;
+}
+
+div#n2-ss-4 .n2-ss-button-container a div {
+	text-transform: uppercase;
+	font-family: 'GT-America', sans-serif;
+	font-weight: 500;
+	font-size: 13px;
+	color: #ffffff;
+	text-decoration: none;
+	position: relative;
+	margin-left: 12.75px;
+	max-width: 85%;
+}
+
+div#n2-ss-4 .n2-ss-button-container a div:hover {
+	text-transform: uppercase;
+	font-family: 'GT-America', sans-serif;
+	font-size: 13px;
+	text-decoration: none;
+	color: #0047b9;
+	font-weight: 500;
+}
+
+
+/*SLIDE 2, 3 i 4 CAST*/
+
+div#n2-ss-2 .n2-font-968cf3f9db358dc1b951dc2f472264df-hover {
+	font-family: 'Avenir-Black', sans-serif;
+	margin-bottom: 10px;
+	margin-top: 120px;
+	margin-left: 34.75px;
+	font-size: 60px;
+	line-height: 65px;
+	max-width: 85%;
+}
+
+div#n2-ss-2 .n2-font-b870ccf548622567991ac70cdd481482-paragraph a {
+	text-transform: uppercase;
+	font-family: 'GT-America', sans-serif;
+	font-weight: 500;
+	font-size: 13px;
+	color: #ffffff;
+	text-decoration: none;
+	position: relative;
+	margin-left: 32.75px;
+	max-width: 85%;
+	border-bottom: 2px solid;
+}
+
+div#n2-ss-2 .n2-font-b870ccf548622567991ac70cdd481482-paragraph a:hover {
+	text-transform: uppercase;
+	font-family: 'GT-America', sans-serif;
+	font-size: 13px;
+	text-decoration: none;
+	color: #0047b9;
+	font-weight: 500;
+}
+
+
+/*SLIDER 1 CAT*/
+
+div#n2-ss-3 .n2-font-76dcad08645c7e41a83cf14713a7291d-hover {
+	font-family: 'Avenir-Black', sans-serif;
+	margin-bottom: 10px;
+	margin-top: 120px;
+	margin-left: 34.75px;
+	font-size: 60px;
+	line-height: 65px;
+	max-width: 85%;
+}
+
+div#n2-ss-3 .n2-style-f8293b450b12ef15d5c4ff97a617a3e3-heading {
+	font-family: 'GT-America', sans-serif;
+	font-weight: normal;
+	font-size: 19px;
+	line-height: 25px;
+	margin-top: 25px;
+	margin-bottom: 32px;
+	margin-left: 34.75px;
+	max-width: 65%;
+}
+
+div#n2-ss-3 .n2-ss-button-container a div {
+	text-transform: uppercase;
+	font-family: 'GT-America', sans-serif;
+	font-weight: 500;
+	font-size: 13px;
+	color: #ffffff;
+	text-decoration: none;
+	position: relative;
+	margin-left: 12.75px;
+	max-width: 85%;
+}
+
+div#n2-ss-3 .n2-ss-button-container a div:hover {
+	text-transform: uppercase;
+	font-family: 'GT-America', sans-serif;
+	font-size: 13px;
+	text-decoration: none;
+	color: #0047b9;
+	font-weight: 500;
+}
+
+
+/*SLIDER 2,3 i 4 CAT*/
+
+div#n2-ss-3 .n2-font-968cf3f9db358dc1b951dc2f472264df-hover {
+	font-family: 'Avenir-Black', sans-serif;
+	margin-bottom: 10px;
+	margin-top: 120px;
+	margin-left: 34.75px;
+	font-size: 60px;
+	line-height: 65px;
+	max-width: 85%;
+}
+
+div#n2-ss-3 .n2-font-9bd02e0c43ff36632fc1df829d5f3e02-hover {
+	font-family: 'GT-America', sans-serif;
+	font-weight: normal;
+	font-size: 19px;
+	line-height: 25px;
+	margin-top: 25px;
+	margin-bottom: 32px;
+	margin-left: 34.75px;
+	max-width: 65%;
+}
+
+/*SLIDER 1 ENG*/
+
+div#n2-ss-2 .n2-font-76dcad08645c7e41a83cf14713a7291d-hover {
+	font-family: 'Avenir-Black', sans-serif;
+	margin-bottom: 10px;
+	margin-top: 120px;
+	margin-left: 34.75px;
+	font-size: 60px;
+	line-height: 65px;
+	max-width: 85%;
+}
+
+div#n2-ss-4 .n2-style-f8293b450b12ef15d5c4ff97a617a3e3-heading {
+	font-family: 'GT-America', sans-serif;
+	font-weight: normal;
+	font-size: 19px;
+	line-height: 25px;
+	margin-top: 25px;
+	margin-bottom: 32px;
+	margin-left: 34.75px;
+	max-width: 65%;
+}
+
+div#n2-ss-2 .n2-ss-button-container a div {
+	text-transform: uppercase;
+	font-family: 'GT-America', sans-serif;
+	font-weight: 500;
+	font-size: 13px;
+	color: #ffffff;
+	text-decoration: none;
+	position: relative;
+	margin-left: 12.75px;
+	max-width: 85%;
+}
+
+div#n2-ss-2 .n2-ss-button-container a div:hover {
+	text-transform: uppercase;
+	font-family: 'GT-America', sans-serif;
+	font-size: 13px;
+	text-decoration: none;
+	color: #0047b9;
+	font-weight: 500;
+}
+
+
+/*SLIDER 2, 3 i 4 ENG*/
+
+div#n2-ss-4 .n2-font-968cf3f9db358dc1b951dc2f472264df-hover {
+	font-family: 'Avenir-Black', sans-serif;
+	margin-bottom: 10px;
+	margin-top: 120px;
+	margin-left: 34.75px;
+	font-size: 60px;
+	line-height: 65px;
+	max-width: 85%;
+}
+
+div#n2-ss-4 .n2-font-9bd02e0c43ff36632fc1df829d5f3e02-hover {
+	font-family: 'GT-America', sans-serif;
+	font-weight: normal;
+	font-size: 19px;
+	line-height: 25px;
+	margin-top: 25px;
+	margin-bottom: 32px;
+	margin-left: 34.75px;
+	max-width: 65%;
+}
+
+
+/*SLIDER 1 FRA*/
+
+div#n2-ss-5 .n2-font-76dcad08645c7e41a83cf14713a7291d-hover {
+	font-family: 'Avenir-Black', sans-serif;
+	margin-bottom: 10px;
+	margin-top: 120px;
+	margin-left: 34.75px;
+	font-size: 60px;
+	line-height: 65px;
+	max-width: 85%;
+}
+
+div#n2-ss-5 .n2-font-9bd02e0c43ff36632fc1df829d5f3e02-hover {
+	font-family: 'GT-America', sans-serif;
+	font-weight: normal;
+	font-size: 19px;
+	line-height: 25px;
+	margin-top: 25px;
+	margin-bottom: 32px;
+	margin-left: 34.75px;
+	max-width: 65%;
+}
+
+div#n2-ss-5 .n2-ss-button-container a div {
+	text-transform: uppercase;
+	font-family: 'GT-America', sans-serif;
+	font-weight: 500;
+	font-size: 13px;
+	color: #ffffff;
+	text-decoration: none;
+	position: relative;
+	margin-left: 12.75px;
+	max-width: 85%;
+}
+
+div#n2-ss-5 .n2-ss-button-container a div:hover {
+	text-transform: uppercase;
+	font-family: 'GT-America', sans-serif;
+	font-size: 13px;
+	text-decoration: none;
+	color: #0047b9;
+	font-weight: 500;
+}
+
+
+
+/* RESPONSIVE */
+
+@media (max-width:900px) { 
+
+	/* ENG */
+	
+div#n2-ss-2 .n-uc-9P6HNiOmkXRa-inner {
+	padding: 10px 10px 75px 10px;
+}
+
+	div#n2-ss-4 .n2-font-2f4c72b85dcb39e90f661fdf5ff4193c-hover {
+		font-family: 'Avenir-Black', sans-serif;
+		margin-bottom: 10px;
+		margin-top: 100px;
+		margin-left: 34.75px;
+		font-size: 36px;
+		line-height: 40px;
+		max-width: 85%;
+	}
+
+	div#n2-ss-4 .n2-font-9bd02e0c43ff36632fc1df829d5f3e02-hover {
+		font-family: 'GT-America', sans-serif;
+		font-weight: normal;
+		font-size: 14px;
+		line-height: 20px;
+		margin-top: 10px;
+		margin-bottom: 20px;
+		margin-left: 34.75px;
+		max-width: 75%;
+	}
+	
+	div#n2-ss-4 .n2-font-b870ccf548622567991ac70cdd481482-paragraph a {
+		text-transform: uppercase;
+		font-family: 'GT-America', sans-serif;
+		font-weight: 500;
+		font-size: 13px;
+		color: #ffffff;
+		text-decoration: none;
+		position: relative;
+		margin-left: 32.75px;
+		max-width: 85%;
+		border-bottom: 2px solid;
+	}
+	
+	div#n2-ss-4 .n2-font-968cf3f9db358dc1b951dc2f472264df-hover {
+		font-family: 'Avenir-Black', sans-serif;
+		margin-bottom: 10px;
+		margin-top: 100px;
+		margin-left: 34.75px;
+		font-size: 36px;
+		line-height: 40px;
+		max-width: 85%;
+	}
+	
+div#n2-ss-2 .n-uc-sD5rTBihEUsb-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+div#n2-ss-2 .n-uc-Omzg4vhFmZMO-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+div#n2-ss-2 .n-uc-5raXnU91BKiV-inner {
+		padding: 10px 10px 75px 10px;
+	}
+
+div#n2-ss-2 .n-uc-PvZbNRXRao1g-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+div#n2-ss-2 .n-uc-v9nzbknvubLN-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+div#n2-ss-2 .n-uc-TJzhJBaHIV3K-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+		/* CAST */
+	
+div#n2-ss-4 .n-uc-mXDq2NJ0q763-inner {
+		padding: 10px 10px 75px 10px;
+		justify-content: end;
+	}
+	
+	div#n2-ss-2 .n2-font-2f4c72b85dcb39e90f661fdf5ff4193c-hover {
+		font-family: 'Avenir-Black', sans-serif;
+		margin-bottom: 10px;
+		margin-top: 100px;
+		margin-left: 34.75px;
+		font-size: 36px;
+		line-height: 40px;
+		max-width: 85%;
+	}
+	
+	div#n2-ss-2 .n2-font-9bd02e0c43ff36632fc1df829d5f3e02-hover {
+	font-family: 'GT-America', sans-serif;
+		font-weight: normal;
+		font-size: 14px;
+		line-height: 20px;
+		margin-top: 10px;
+		margin-bottom: 20px;
+		margin-left: 34.75px;
+		max-width: 75%;
+	}
+	
+div#n2-ss-4 .n-uc-cnwzdVRNS4V6-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+	div#n2-ss-2 .n2-font-968cf3f9db358dc1b951dc2f472264df-hover {
+		font-family: 'Avenir-Black', sans-serif;
+		margin-bottom: 10px;
+		margin-top: 100px;
+		margin-left: 34.75px;
+		font-size: 36px;
+		line-height: 40px;
+		max-width: 85%;
+	}
+	
+div#n2-ss-4 .n-uc-zL5uEUfDiVhK-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+div#n2-ss-4 .n-uc-4StG84MdjVAH-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+div#n2-ss-4 .n-uc-K07mnmBNtvqC-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+div#n2-ss-4 .n-uc-WAUpV9EXWLYC-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+div#n2-ss-4 .n-uc-9tWM5g4Lc8Zk-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+		/* CAT */
+	
+div#n2-ss-3 .n-uc-gwCDvFECZjqk-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+	div#n2-ss-3 .n2-font-2f4c72b85dcb39e90f661fdf5ff4193c-hover  {
+		font-family: 'Avenir-Black', sans-serif;
+		margin-bottom: 10px;
+		margin-top: 100px;
+		margin-left: 34.75px;
+		font-size: 36px;
+		line-height: 40px;
+		max-width: 85%;
+	}
+	
+	div#n2-ss-3 .n2-font-9bd02e0c43ff36632fc1df829d5f3e02-hover {
+		font-family: 'GT-America', sans-serif;
+		font-weight: normal;
+		font-size: 14px;
+		line-height: 20px;
+		margin-top: 10px;
+		margin-bottom: 20px;
+		margin-left: 34.75px;
+		max-width: 75%;
+	}
+	
+div#n2-ss-3 .n-uc-AuuZ6jdlq0si-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+	div#n2-ss-3 .n2-font-968cf3f9db358dc1b951dc2f472264df-hover {
+		font-family: 'Avenir-Black', sans-serif;
+		margin-bottom: 10px;
+		margin-top: 100px;
+		margin-left: 34.75px;
+		font-size: 36px;
+		line-height: 40px;
+		max-width: 85%;
+	}
+	
+div#n2-ss-3 .n-uc-lO8FMjVxojOq-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+div#n2-ss-3 .n-uc-HVbcSuMdVFwi-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+div#n2-ss-3 .n-uc-5ZvFyhbuN4ys-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+		/* FRA */
+	
+div#n2-ss-4 .n-uc-mXDq2NJ0q763-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+	div#n2-ss-5 .n2-font-968cf3f9db358dc1b951dc2f472264df-hover {
+		font-family: 'Avenir-Black', sans-serif;
+		margin-bottom: 10px;
+		margin-top: 100px;
+		margin-left: 34.75px;
+		font-size: 36px;
+		line-height: 40px;
+		max-width: 85%;
+	}
+	
+	div#n2-ss-5 .n2-font-9bd02e0c43ff36632fc1df829d5f3e02-hover {
+		font-family: 'GT-America', sans-serif;
+		font-weight: normal;
+		font-size: 14px;
+		line-height: 20px;
+		margin-top: 10px;
+		margin-bottom: 20px;
+		margin-left: 34.75px;
+		max-width: 75%;
+	}
+	
+div#n2-ss-5 .n-uc-8AD2hWPa6Fp4-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+div#n2-ss-5 .n-uc-Ht83OEqY8e5E-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+div#n2-ss-5 .n-uc-Z33nHecAyzbU-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+div#n2-ss-5 .n-uc-FgEDqYpPoFgY-inner {
+		padding: 10px 10px 75px 10px;
+	}
+	
+.column.is-8 .yearbook-type.publication {
+  background: white;
+  padding-top: 1px;
+}
+}		</style>
+		    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var serverTime = 01;
+        var adminajax = {"ajaxurl": "https://www.iemed.org/wp-admin/admin-ajax.php", "site_url" : "https://www.iemed.org"};
+        /* ]]> */
+    </script>
+</head>
+<body data-barba="wrapper" class="publication-template-default single single-publication postid-19778">
+<div class="body-wrapper">
+<!-- header -->
+<header class="header   " role="banner">
+	<div class="container header-container">
+		<div class="header-logo">
+			<a href="https://www.iemed.org">
+				<img src="https://www.iemed.org/wp-content/themes/iemed/src/assets/images/logo-iemed-en.svg" class="header-logo__color " alt="iemed logo">
+				<img src="https://www.iemed.org/wp-content/themes/iemed/src/assets/images/logo-iemed-white-en.svg" class="header-logo__white " alt="iemed logo">
+				<img src="https://www.iemed.org/wp-content/themes/iemed/src/assets/images/logo-iemed-black-en.svg" class="header-logo__black show" alt="iemed logo">
+			</a>
+		</div>
+		<div class="header-menu header-menu--hide">
+			<ul id="menu-header" class="menu"><li id="menu-item-5291" class="btn-expand btn-expand--research menu-item menu-item-type-custom menu-item-object-custom menu-item-5291"><a href="#">Research</a></li>
+<li id="menu-item-5292" class="btn-expand btn-expand--action-lines menu-item menu-item-type-custom menu-item-object-custom menu-item-5292"><a href="#">Action lines</a></li>
+<li id="menu-item-5293" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5293"><a href="https://www.iemed.org/events/?past=0">Events</a></li>
+<li id="menu-item-5294" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5294"><a href="https://www.iemed.org/multimedia/">Multimedia</a></li>
+<li id="menu-item-5295" class="btn-expand btn-expand--about menu-item menu-item-type-custom menu-item-object-custom menu-item-5295"><a href="#">About</a></li>
+</ul>		</div>
+		<button class="btn-open-search btn-open-search--hide" aria-label="Open search"></button>
+		<div class="language-switcher language-switcher--hide">
+			<a href="#" class="language-switcher__btn"></a>
+			<ul>
+									<li><a href="https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/">English</a></li>
+									<li><a href="https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/?lang=ca">Català</a></li>
+									<li><a href="https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/?lang=es">Español</a></li>
+									<li><a href="https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/?lang=fr">Français</a></li>
+							</ul>
+		</div>
+				<button class="header-toggle-transparent "></button>
+			</div>
+	<div class="menu-expand ">
+		<div class="container">
+			<div class="menu-container menu-research-container">
+				<h4>Research</h4>
+				<ul id="menu-research-menu" class="menu menu--research"><li id="menu-item-5296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5296"><a href="#">Topics</a>
+<ul class="sub-menu">
+	<li id="menu-item-5297" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5297"><a href="https://www.iemed.org/topic/politics-and-cooperation/">Politics &#038; Cooperation</a></li>
+	<li id="menu-item-10188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10188"><a href="https://www.iemed.org/topic/gender-equality/">Gender Equality</a></li>
+	<li id="menu-item-10189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10189"><a href="https://www.iemed.org/topic/sustainability-energy-climate/">Sustainability, Energy &#038; Climate</a></li>
+	<li id="menu-item-17117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17117"><a href="https://www.iemed.org/topic/youth-society-media-culture/">Youth, Society, Media &#038; Culture</a></li>
+	<li id="menu-item-10190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10190"><a href="https://www.iemed.org/topic/security/">Security</a></li>
+	<li id="menu-item-10191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10191"><a href="https://www.iemed.org/topic/migration-and-mobility/">Migration &#038; Mobility</a></li>
+	<li id="menu-item-10192" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10192"><a href="https://www.iemed.org/topic/governance-political-reform/">Governance &#038; Political Reform</a></li>
+	<li id="menu-item-10193" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10193"><a href="https://www.iemed.org/topic/economy-finance/">Economy &#038; Finance</a></li>
+</ul>
+</li>
+<li id="menu-item-5298" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5298"><a href="https://www.iemed.org/publications/">Publications</a>
+<ul class="sub-menu">
+	<li id="menu-item-5300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5300"><a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2024/">IEMed Mediterranean Yearbook</a></li>
+	<li id="menu-item-10194" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10194"><a href="https://www.iemed.org/euromed-survey/the-future-of-the-european-neighbourhood-policy/">Euromed Survey</a></li>
+	<li id="menu-item-10195" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10195"><a href="https://www.iemed.org/quaderns-issue/qm-36-minority-cultural-roots-in-the-southern-and-eastern-mediterranean/">Quaderns de la Mediterrània</a></li>
+	<li id="menu-item-10196" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10196"><a href="https://www.iemed.org/afkar-edition/la-geopolitica-del-cuerno-de-africa/">afkar/ideas</a></li>
+	<li id="menu-item-10197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10197"><a href="https://www.iemed.org/category/policy-studies-papers-reports/">Policy Studies | Papers | Reports</a></li>
+	<li id="menu-item-10198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10198"><a href="https://www.iemed.org/category/policy-briefs-focus-spot-ons/">Briefs | Focus | Spot Ons</a></li>
+	<li id="menu-item-10199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10199"><a href="https://www.iemed.org/category/books/">Books</a></li>
+</ul>
+</li>
+</ul>			</div>
+			<div class="menu-container menu-action-lines-container">
+				<h4>Action lines</h4>
+				<ul id="menu-action-lines" class="menu menu--action-lines"><li id="menu-item-6345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6345"><a href="https://www.iemed.org/networks/">Networks</a>
+<ul class="sub-menu">
+	<li id="menu-item-5306" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5306"><a href="https://www.iemed.org/source/euromesco/">EuroMeSCo</a></li>
+	<li id="menu-item-6346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6346"><a href="https://www.iemed.org/source/euromed-women-foundation/">Euromed Women Foundation</a></li>
+	<li id="menu-item-6347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6347"><a href="https://www.iemed.org/source/spanish-network-of-anna-lindh-foundation/">Spanish Network of Anna Lindh Foundation</a></li>
+	<li id="menu-item-6348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6348"><a href="https://www.iemed.org/source/medthink-55/">MedThink 5+5</a></li>
+	<li id="menu-item-6349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6349"><a href="https://www.iemed.org/source/medconfederation/">MED Confederation</a></li>
+	<li id="menu-item-10183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10183"><a href="https://www.iemed.org/networks/">Euro-Mediterranean Guarantee Network</a></li>
+</ul>
+</li>
+<li id="menu-item-46951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-46951"><a href="https://www.iemed.org/programmes/">Programmes</a>
+<ul class="sub-menu">
+	<li id="menu-item-10185" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10185"><a href="https://www.iemed.org/aula-edition/aulamed-eleventh-edition-2024-25/">Aula Mediterrània</a></li>
+	<li id="menu-item-59990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59990"><a href="https://www.iemed.org/educating-in-diversity/">Educating in Diversity</a></li>
+	<li id="menu-item-82904" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82904"><a href="https://www.iemed.org/med-dialogues-edition/med-dialogues-2030-2024-edition/">Med Dialogues + 2030</a></li>
+	<li id="menu-item-43818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43818"><a href="https://www.iemed.org/agenda2030med/">Sustainable Development</a></li>
+	<li id="menu-item-43820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43820"><a href="https://www.iemed.org/prevention-of-polarisation-and-violent-extremism/">Prevention of Polarisation and Violent Extremism</a></li>
+	<li id="menu-item-46964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46964"><a href="https://www.iemed.org/media-democracy-and-diversity-2/">Media, Democracy and Diversity</a></li>
+	<li id="menu-item-45331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45331"><a href="https://www.iemed.org/euromed-young-researchers-lab/">Euromed Young Researchers Lab</a></li>
+	<li id="menu-item-45329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45329"><a href="https://www.iemed.org/sea-of-words-edition/a-sea-of-words-the-voice-of-youths-2023/">A Sea of Words. The Voice of Youths</a></li>
+	<li id="menu-item-45330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45330"><a href="https://www.iemed.org/human-development-and-regional-integration/">Human Development &#038; Regional Integration</a></li>
+	<li id="menu-item-45328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45328"><a href="https://www.iemed.org/creative-mediterranean/">Creative Mediterranean</a></li>
+</ul>
+</li>
+<li id="menu-item-5304" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5304"><a href="#">Projects</a>
+<ul class="sub-menu">
+	<li id="menu-item-5305" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5305"><a href="https://www.iemed.org/projects/">All Projects</a></li>
+</ul>
+</li>
+</ul>			</div>
+			<div class="menu-container menu-about-container">
+				<h4>About</h4>
+				<ul id="menu-about-menu" class="menu menu--about"><li id="menu-item-7987" class="hidemenulink menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7987"><a href="#">HIDDEN</a>
+<ul class="sub-menu">
+	<li id="menu-item-10180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10180"><a href="https://www.iemed.org/vision-mission/">Vision/Mission</a></li>
+	<li id="menu-item-7984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7984"><a href="https://www.iemed.org/team/">Team</a></li>
+	<li id="menu-item-7985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7985"><a href="https://www.iemed.org/board-of-governors/">Governance</a></li>
+</ul>
+</li>
+<li id="menu-item-7988" class="hidemenulink menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7988"><a href="#">HIDDEN</a>
+<ul class="sub-menu">
+	<li id="menu-item-10181" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10181"><a href="https://www.iemed.org/vision-mission/#annual-reports">Annual Reports</a></li>
+	<li id="menu-item-107132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107132"><a href="https://www.iemed.org/research-fellows/">Research Fellows</a></li>
+	<li id="menu-item-10182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10182"><a href="https://www.iemed.org/careers/">Careers</a></li>
+	<li id="menu-item-72930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72930"><a href="https://www.iemed.org/logo-and-visual-identity/">Logo and visual identity</a></li>
+</ul>
+</li>
+</ul>			</div>
+		</div>
+	</div>
+	<div class="header-search" style="visibility: hidden">
+		<div class="container">
+			<div class="search-form"><form role="search" method="get" action="https://www.iemed.org/">
+	<input type="text" placeholder="Search" name="s" value="" />
+	<button type="submit" value="Search" aria-label="Search"></button>
+		<button aria-label="close" class="btn-close"></button>
+	<input type='hidden' name='lang' value='en' /></form>
+</div>
+		</div>
+	</div>
+	<div class="header-mobile">
+		<a href="https://www.iemed.org" class="header-mobile__logo">
+			<img src="https://www.iemed.org/wp-content/themes/iemed/src/assets/images/logo-iemed-en.svg" alt="iemed logo">
+		</a>
+		<a href="#" id="mobile-hamburger"></a>
+	</div>
+	</div>
+	<nav class="mobile-menu" style="display: none;">
+		<ul>
+			<li>
+				<span>Research</span>
+				<ul id="menu-research-menu" class="menu menu--research"><li id="menu-item-5296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5296"><a href="#">Topics</a>
+<ul class="sub-menu">
+	<li id="menu-item-5297" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5297"><a href="https://www.iemed.org/topic/politics-and-cooperation/">Politics &#038; Cooperation</a></li>
+	<li id="menu-item-10188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10188"><a href="https://www.iemed.org/topic/gender-equality/">Gender Equality</a></li>
+	<li id="menu-item-10189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10189"><a href="https://www.iemed.org/topic/sustainability-energy-climate/">Sustainability, Energy &#038; Climate</a></li>
+	<li id="menu-item-17117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17117"><a href="https://www.iemed.org/topic/youth-society-media-culture/">Youth, Society, Media &#038; Culture</a></li>
+	<li id="menu-item-10190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10190"><a href="https://www.iemed.org/topic/security/">Security</a></li>
+	<li id="menu-item-10191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10191"><a href="https://www.iemed.org/topic/migration-and-mobility/">Migration &#038; Mobility</a></li>
+	<li id="menu-item-10192" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10192"><a href="https://www.iemed.org/topic/governance-political-reform/">Governance &#038; Political Reform</a></li>
+	<li id="menu-item-10193" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10193"><a href="https://www.iemed.org/topic/economy-finance/">Economy &#038; Finance</a></li>
+</ul>
+</li>
+<li id="menu-item-5298" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5298"><a href="https://www.iemed.org/publications/">Publications</a>
+<ul class="sub-menu">
+	<li id="menu-item-5300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5300"><a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2024/">IEMed Mediterranean Yearbook</a></li>
+	<li id="menu-item-10194" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10194"><a href="https://www.iemed.org/euromed-survey/the-future-of-the-european-neighbourhood-policy/">Euromed Survey</a></li>
+	<li id="menu-item-10195" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10195"><a href="https://www.iemed.org/quaderns-issue/qm-36-minority-cultural-roots-in-the-southern-and-eastern-mediterranean/">Quaderns de la Mediterrània</a></li>
+	<li id="menu-item-10196" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10196"><a href="https://www.iemed.org/afkar-edition/la-geopolitica-del-cuerno-de-africa/">afkar/ideas</a></li>
+	<li id="menu-item-10197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10197"><a href="https://www.iemed.org/category/policy-studies-papers-reports/">Policy Studies | Papers | Reports</a></li>
+	<li id="menu-item-10198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10198"><a href="https://www.iemed.org/category/policy-briefs-focus-spot-ons/">Briefs | Focus | Spot Ons</a></li>
+	<li id="menu-item-10199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10199"><a href="https://www.iemed.org/category/books/">Books</a></li>
+</ul>
+</li>
+</ul>			</li>
+			<li>
+				<span>Action lines</span>
+				<ul id="menu-action-lines" class="menu menu--action-lines"><li id="menu-item-6345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6345"><a href="https://www.iemed.org/networks/">Networks</a>
+<ul class="sub-menu">
+	<li id="menu-item-5306" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5306"><a href="https://www.iemed.org/source/euromesco/">EuroMeSCo</a></li>
+	<li id="menu-item-6346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6346"><a href="https://www.iemed.org/source/euromed-women-foundation/">Euromed Women Foundation</a></li>
+	<li id="menu-item-6347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6347"><a href="https://www.iemed.org/source/spanish-network-of-anna-lindh-foundation/">Spanish Network of Anna Lindh Foundation</a></li>
+	<li id="menu-item-6348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6348"><a href="https://www.iemed.org/source/medthink-55/">MedThink 5+5</a></li>
+	<li id="menu-item-6349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6349"><a href="https://www.iemed.org/source/medconfederation/">MED Confederation</a></li>
+	<li id="menu-item-10183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10183"><a href="https://www.iemed.org/networks/">Euro-Mediterranean Guarantee Network</a></li>
+</ul>
+</li>
+<li id="menu-item-46951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-46951"><a href="https://www.iemed.org/programmes/">Programmes</a>
+<ul class="sub-menu">
+	<li id="menu-item-10185" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10185"><a href="https://www.iemed.org/aula-edition/aulamed-eleventh-edition-2024-25/">Aula Mediterrània</a></li>
+	<li id="menu-item-59990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59990"><a href="https://www.iemed.org/educating-in-diversity/">Educating in Diversity</a></li>
+	<li id="menu-item-82904" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82904"><a href="https://www.iemed.org/med-dialogues-edition/med-dialogues-2030-2024-edition/">Med Dialogues + 2030</a></li>
+	<li id="menu-item-43818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43818"><a href="https://www.iemed.org/agenda2030med/">Sustainable Development</a></li>
+	<li id="menu-item-43820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43820"><a href="https://www.iemed.org/prevention-of-polarisation-and-violent-extremism/">Prevention of Polarisation and Violent Extremism</a></li>
+	<li id="menu-item-46964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46964"><a href="https://www.iemed.org/media-democracy-and-diversity-2/">Media, Democracy and Diversity</a></li>
+	<li id="menu-item-45331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45331"><a href="https://www.iemed.org/euromed-young-researchers-lab/">Euromed Young Researchers Lab</a></li>
+	<li id="menu-item-45329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45329"><a href="https://www.iemed.org/sea-of-words-edition/a-sea-of-words-the-voice-of-youths-2023/">A Sea of Words. The Voice of Youths</a></li>
+	<li id="menu-item-45330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45330"><a href="https://www.iemed.org/human-development-and-regional-integration/">Human Development &#038; Regional Integration</a></li>
+	<li id="menu-item-45328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45328"><a href="https://www.iemed.org/creative-mediterranean/">Creative Mediterranean</a></li>
+</ul>
+</li>
+<li id="menu-item-5304" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5304"><a href="#">Projects</a>
+<ul class="sub-menu">
+	<li id="menu-item-5305" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5305"><a href="https://www.iemed.org/projects/">All Projects</a></li>
+</ul>
+</li>
+</ul>			</li>
+				<li id="menu-item-43023" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43023"><a href="/events/">Events</a></li>
+<li id="menu-item-43024" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43024"><a href="/multimedia/">Multimedia</a></li>
+<li id="menu-item-43026" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-43026"><a href="#">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-43025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43025"><a href="https://www.iemed.org/vision-mission/">Vision/Mission</a></li>
+	<li id="menu-item-43027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43027"><a href="https://www.iemed.org/team/">Team</a></li>
+	<li id="menu-item-43028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43028"><a href="https://www.iemed.org/board-of-governors/">Governance</a></li>
+	<li id="menu-item-43029" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43029"><a href="https://www.iemed.org/vision-mission/#annual-reports">Annual Reports</a></li>
+	<li id="menu-item-43031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43031"><a href="https://www.iemed.org/careers/">Careers</a></li>
+</ul>
+</li>
+		</ul>
+	</nav>
+<div class="mobile-language-switcher" style="display: none">
+	<div class="mobile-language-switcher__lang">
+		<img src="https://www.iemed.org/wp-content/themes/iemed/src/assets/images/icon_world.svg">
+		<span>English</span>
+	</div>
+	<div class="mobile-language-switcher__change">
+		<label for="languages-toggler">Change &rsaquo;</label>
+		<input id="languages-toggler" type="checkbox">
+		<ul>
+							<li><a href="https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/">English</a></li>
+							<li><a href="https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/?lang=ca">Català</a></li>
+							<li><a href="https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/?lang=es">Español</a></li>
+							<li><a href="https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/?lang=fr">Français</a></li>
+					</ul>
+	</div>
+</div>
+</header>
+<!-- /header -->
+<main role="main" aria-label="Content" data-type-publication-survey="1" data-go-to-top="1">
+			<section>
+			<div class="container">
+				<div class="columns">
+					<div class="column is-4 yearbook-title">
+						<h1>IEMed Mediterranean Yearbook 2020</h1>
+					</div>
+					<div class="column is-8 d-flex align-items-center">
+						<button class="btn-toggle-survey-index" aria-label="Open article index"></button>
+					</div>
+				</div>
+			</div>
+						<div class="yearbook-menu yearbook-menu--hide">
+				<div class="container pt-40 pb-30">
+						<h1>Content</h1>
+	<div class="yearbook-list">
+		
+							<div class="yearbook-list-group">
+					<h2>Introduction</h2>
+					<div class="yearbook-list-group__content ">
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>Foreword</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																	<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/foreword-iemed-mediterranean-yearbook-2020/">
+														<strong>Foreword</strong>
+														<span>Senén Florensa</span>
+													</a>
+												</li>
+																													</ul>
+								</div>
+							
+
+
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>Perspectives</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																	<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/perspectives-iemed-mediterranean-yearbook-2020/">
+														<strong>Perspectives</strong>
+														<span>Dr. Ursula von der Leyen </span>
+													</a>
+												</li>
+																													</ul>
+								</div>
+							
+
+
+											</div>
+				</div>
+			
+
+
+
+
+
+
+
+
+		
+							<div class="yearbook-list-group">
+					<h2>KEYS</h2>
+					<div class="yearbook-list-group__content ">
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>Popular Mobilizations in the MENA Region and Beyond</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																	<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/a-decade-of-demonstrations-and-protest-movements-in-the-arab-world/">
+														<strong>A Decade of Demonstrations and Protest Movements in the Arab World</strong>
+														<span>Miguel Hernando de Larramendi</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/the-role-of-the-military-in-middle-east-north-africa-protest-movements-of-2019/">
+														<strong>The Role of the Military in Middle East/North Africa. Protest Movements of 2019</strong>
+														<span>Charles W. Dunne</span>
+													</a>
+												</li>
+																													</ul>
+								</div>
+							
+
+
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>Climate Change in the Mediterranean</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																	<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/">
+														<strong>Climate Change in the Mediterranean: Environmental Impacts and Extreme Events</strong>
+														<span>Manfred A. Lange</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/the-economic-impacts-of-climate-change-in-the-mediterranean/">
+														<strong>The Economic Impacts of Climate Change in the Mediterranean</strong>
+														<span>Marzio Galeotti</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/the-geopolitical-impact-of-climate-change-in-the-mediterranean-region-climate-change-as-a-trigger-of-conflict-and-migration/">
+														<strong>The Geopolitical Impact of Climate Change in the Mediterranean Region: Climate Change as a Trigger of Conflict and Migration</strong>
+														<span>Jürgen Scheffran</span>
+													</a>
+												</li>
+																													</ul>
+								</div>
+							
+
+
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>The Relationship of the EU with Africa</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																	<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/great-expectations-the-eu-africa-partnership-against-the-backdrop-of-covid-19/">
+														<strong>Great Expectations: The EU-Africa Partnership against the Backdrop of Covid-19</strong>
+														<span>Chloe Teevan</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/ten-reasons-why-the-maghreb-pivots-to-africa/">
+														<strong>Ten Reasons Why the Maghreb Pivots to Africa</strong>
+														<span>Eduard Soler i Lecha</span>
+													</a>
+												</li>
+																													</ul>
+								</div>
+							
+
+
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>Mediterranean Conflicts and the Geopolitical Context</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																	<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/proxy-wars-and-spheres-of-influence-in-post-isis-syria/">
+														<strong>Proxy Wars and Spheres of Influence in Post-Isis Syria</strong>
+														<span>Raymond Hinnebusch</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/libya-a-failed-state-in-the-middle-of-the-mediterranean/">
+														<strong>Libya: A Failed State in the Middle of the Mediterranean</strong>
+														<span>Matteo Colombo,Arturo Varvelli</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/tensions-between-the-us-and-iran-and-the-role-of-the-gulf-states/">
+														<strong>Tensions Between the US and Iran and the Role of the Gulf States</strong>
+														<span>Luciano Zaccara</span>
+													</a>
+												</li>
+																													</ul>
+								</div>
+							
+
+
+											</div>
+				</div>
+			
+
+
+
+
+
+
+
+
+		
+							<div class="yearbook-list-group">
+					<h2>Dossier</h2>
+					<div class="yearbook-list-group__content ">
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>An Unexpected Party Crasher: Rethinking Euro-Mediterranean Relations in Corona Times,  25 Years After the Barcelona Process</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																	<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/barcelona-95-25-years-on-some-political-considerations/">
+														<strong>Barcelona 95, 25 Years on: Some Political Considerations</strong>
+														<span>Senén Florensa</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/new-power-struggles-in-the-mediterranean/">
+														<strong>New Power Struggles in the Mediterranean</strong>
+														<span>Marc Pierini</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/the-challenges-of-euro-african-relations-in-the-post-covid-19-era/">
+														<strong>The Challenges of Euro-African Relations in the post-Covid-19 Era</strong>
+														<span>Larabi Jaidi</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/holding-back-the-old-demons-in-the-euro-mediterranean-region-in-post-pandemic-times-populism-and-authoritarianism/">
+														<strong>Holding back the Old Demons in the Euro-Mediterranean Region in Post-pandemic Times: Populism and Authoritarianism</strong>
+														<span>Paolo Magri </span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/from-fragilities-to-resilience-a-strengthened-ufm-in-the-face-of-the-covid-19-pandemic/">
+														<strong>From Fragilities to Resilience: A Strengthened UfM in the Face of the Covid-19 Pandemic</strong>
+														<span>Nasser Kamel</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/a-renewed-migration-contract-post-covid-what-next-for-migration-governance-in-the-mediterranean/">
+														<strong>A Renewed Migration Contract Post-Covid: What Next for Migration Governance in the Mediterranean?</strong>
+														<span>Anna Knoll </span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/uneven-disruption-covid-19-and-the-digital-divide-in-the-euro-mediterranean-region/">
+														<strong>Uneven Disruption: COVID-19 and the Digital Divide in the Euro-Mediterranean Region</strong>
+														<span>Tin Hinane El Kadi</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/rethinking-the-response-to-climate-change-threats-in-the-mediterranean-lessons-from-the-coronavirus-emergency/">
+														<strong>Rethinking the Response to Climate Change Threats in the Mediterranean: Lessons from the Coronavirus Emergency</strong>
+														<span>Zeina Moneer</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/sdgs-localization-in-the-context-of-euro-mediterranean-relations-obstacles-and-options-for-local-and-regional-authorities/">
+														<strong>SDGs Localization in the Context of Euro-Mediterranean Relations: Obstacles and Options for Local and Regional Authorities</strong>
+														<span>Andrea Noferini</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/unequal-gender-relations-and-the-subordination-of-women-in-the-mena-region-what-the-covid-19-pandemic-has-taught-us/">
+														<strong>Unequal Gender Relations and the Subordination of Women in the MENA Region: What the Covid-19 Pandemic Has Taught Us</strong>
+														<span>Lina Abou-Habib</span>
+													</a>
+												</li>
+																													</ul>
+								</div>
+							
+
+
+											</div>
+				</div>
+			
+
+
+
+
+
+
+
+
+		
+							<div class="yearbook-list-group">
+					<h2>Panorama : The Mediterranean Year</h2>
+					<div class="yearbook-list-group__content ">
+						
+							
+															<h3 class="cursive-title">Country Profiles</h3>
+							
+
+							
+
+
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>All countries</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																<li class="column is-4 yearbook-list-groups__item">
+												<a href="https://www.iemed.org/wp-content/uploads/2021/01/IEMed-Mediterranean-Yearbook-2020.pdf" target="_blank">
+													<strong>Albania / Algeria / Bosnia and Herzegovina / Croatia / Cyprus / Egypt / France / Greece / Israel / Italy / Jordan / Lebanon / Libya / Malta / Montenegro / Morocco / North Macedonia / Palestinian Territories / Portugal / Serbia / Slovenia / Spain / Syria / Tunisia / Turkey</strong>
+													<span></span>
+												</a>
+											</li>
+																													</ul>
+								</div>
+							
+
+
+						
+							
+															<h3 class="cursive-title">Geographical Overview</h3>
+							
+
+							
+
+
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>EU Mediterranean Countries</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																	<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/emmanuel-macron-a-mediterranean-leader-french-policy-towards-the-mediterranean/">
+														<strong>Emmanuel Macron: A Mediterranean Leader? French Policy Towards the Mediterranean</strong>
+														<span>Emmanuel Dupuy</span>
+													</a>
+												</li>
+																													</ul>
+								</div>
+							
+
+
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>Western Balkans</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																	<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/the-united-arab-emirates-uae-profile-themselves-as-a-new-global-hub-for-money-laundering-with-implications-for-the-balkans/">
+														<strong>The United Arab Emirates (UAE) Profile Themselves as a New Global Hub for Money Laundering, with Implications for the Balkans</strong>
+														<span>Tena Prelec</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/chinas-belt-and-road-in-the-balkans-in-the-post-covid-19-era/">
+														<strong>China&#8217;s Belt and Road in the Balkans in the Post-COVID-19 Era</strong>
+														<span>Anastas Vangeli</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/a-ship-without-a-rudder-the-eu-strategy-in-the-western-balkans/">
+														<strong>A Ship without a Rudder? The EU Strategy in the Western Balkans</strong>
+														<span>Dr. Srdjan Cvijic</span>
+													</a>
+												</li>
+																													</ul>
+								</div>
+							
+
+
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>Mediterranean Partner Countries Maghreb</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																	<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/towards-a-new-social-pact-in-morocco-the-new-development-model-and-the-covid-19-crisis/">
+														<strong>Towards a New Social Pact in Morocco? The “New” Development Model and the COVID-19 Crisis</strong>
+														<span>Beatriz Tomé-Alonso,Marta García de Paredes</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/algeria-in-2020-a-weakened-power-facing-a-multidimensional-crisis/">
+														<strong>Algeria in 2020: A Weakened Power Facing a Multidimensional Crisis</strong>
+														<span>Laurence Thieux</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/tunisia-general-overview-of-the-country/">
+														<strong>Tunisia: General Overview of the Country</strong>
+														<span>Sarah Yerkes</span>
+													</a>
+												</li>
+																													</ul>
+								</div>
+							
+
+
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>Mediterranean Partner Countries Middle East and Turkey</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																	<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/egypts-struggle-for-stability-in-a-volatile-environment/">
+														<strong>Egypt’s Struggle for Stability in a Volatile Environment</strong>
+														<span>Clément Steuer</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/jordan-an-uncertain-stability/">
+														<strong>Jordan: An Uncertain Stability</strong>
+														<span>Victoria Silva Sánchez</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/lebanon-in-freefall/">
+														<strong>Lebanon in Freefall</strong>
+														<span>Nadim Houry</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/israels-regional-foreign-policies-what-is-at-stake-for-the-new-government/">
+														<strong>Israel’s Regional Foreign Policies: What Is at Stake for the New Government?</strong>
+														<span>Dr. Nimrod Goren</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/israels-annexation-plan-one-state-based-on-equality-and-justice-is-the-only-solution/">
+														<strong>Israel’s Annexation Plan: One State Based on Equality and Justice Is the Only Solution</strong>
+														<span>Samera Ayyad</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/turkey-and-the-corona-crisis-the-instrumentalization-of-the-pandemic-for-domestic-and-foreign-policy/">
+														<strong>Turkey and the Corona Crisis: The Instrumentalization of the Pandemic for Domestic and Foreign Policy</strong>
+														<span>Hürcan Aslı Aksoy</span>
+													</a>
+												</li>
+																													</ul>
+								</div>
+							
+
+
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>The Euro-Mediterranean Partnership and Other Actors</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																	<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/2020-the-yemenite-impasse/">
+														<strong>2020: The Yemenite Impasse</strong>
+														<span>François Frison-Roche</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/the-united-states-and-the-mediterranean-in-an-age-of-shocks/">
+														<strong>The United States and the Mediterranean in An Age of Shocks</strong>
+														<span>Ian O. Lesser</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/the-british-presence-in-the-mediterranean-post-brexit/">
+														<strong>The British Presence in the Mediterranean Post-Brexit</strong>
+														<span>Matthew Graves</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/the-arab-world-and-latin-americalong-standing-migration-an-expanding-south-south-partnership/">
+														<strong>The Arab World and Latin America:Long-standing Migration, an Expanding South-South Partnership</strong>
+														<span>Bichara Khader,Pablo Blesa</span>
+													</a>
+												</li>
+																													</ul>
+								</div>
+							
+
+
+						
+							
+															<h3 class="cursive-title">Strategic Sectors</h3>
+							
+
+							
+
+
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>Security & Politics</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																	<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/the-repatriation-of-jihadist-foreign-fighters/">
+														<strong>The Repatriation of Jihadist Foreign Fighters</strong>
+														<span>Anthony Dworkin</span>
+													</a>
+												</li>
+																													</ul>
+								</div>
+							
+
+
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>Economy & Territory</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																	<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/increased-gender-inequality-in-arab-labour-markets-due-to-covid-19-causes-and-solutions/">
+														<strong>Increased Gender Inequality in Arab Labour Markets due to COVID-19: Causes and Solutions</strong>
+														<span>Doaa Salman Abdou</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/workers-remittances-and-economic-growth-in-mena-countries-the-role-of-financial-development/">
+														<strong>Workers’ Remittances and Economic Growth in MENA Countries: The Role of Financial Development</strong>
+														<span>Héla Miniaoui,Habib Ouni</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/the-chinese-belt-and-road-project-in-the-middle-east-and-north-africa/">
+														<strong>The Chinese Belt and Road Project in the Middle East and North Africa</strong>
+														<span>Dr. Katarzyna W. Sidło</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/mediterranean-medioplasticae-analysis-of-plastic-pollution-in-the-mediterranean-during-the-coronavirus-outbreak/">
+														<strong>Mediterranean, Medioplasticae.  Analysis of Plastic Pollution in the Mediterranean during the Coronavirus Outbreak</strong>
+														<span>Andrés Cózar Cabañas</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/the-airports-of-the-maghreb-face-the-new-century/">
+														<strong>The Airports of the Maghreb Face the New Century</strong>
+														<span>Òscar Oliver i Cristià</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/inflammable-waters-turkeys-strategic-objectives-in-the-eastern-mediterranean-and-the-east-med-gas-pipeline-emgp/">
+														<strong>Inflammable Waters: Turkey’s Strategic Objectives in the Eastern Mediterranean and the East Med Gas Pipeline (EMGP)</strong>
+														<span>Dr. Theodoros Tsakiris</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/nuclear-energy-prospects-in-the-mediterranean-countries/">
+														<strong>Nuclear Energy Prospects in the Mediterranean Countries</strong>
+														<span>Ali Ahmad</span>
+													</a>
+												</li>
+																													</ul>
+								</div>
+							
+
+
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>Culture & Society</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																	<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/eu-borders-and-african-mobility/">
+														<strong>EU Borders and African Mobility</strong>
+														<span>Dr. Irene Schöfberger</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/migrants-and-refugees-in-the-mediterranean-in-times-of-pandemic-socially-distant/">
+														<strong>Migrants and Refugees in the Mediterranean in Times of Pandemic: Socially Distant?</strong>
+														<span>Sarah Wolff</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/demographic-challenges-in-the-mediterranean/">
+														<strong>Demographic Challenges in the Mediterranean</strong>
+														<span>Elena Ambrosetti</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/mapping-the-drivers-of-radicalization-and-violent-extremism-in-mena-and-the-balkans/">
+														<strong>Mapping the Drivers of Radicalization and Violent Extremism in MENA and the Balkans</strong>
+														<span>Lurdes Vidal i Bertran</span>
+													</a>
+												</li>
+																																											<li class="column is-4 yearbook-list-groups__item">
+													<a href="https://www.iemed.org/publication/arab-cinema-in-europe-the-gains-losses-and-challenges-ahead/">
+														<strong>Arab Cinema in Europe: The Gains, Losses and Challenges ahead</strong>
+														<span>Joseph Fahim </span>
+													</a>
+												</li>
+																													</ul>
+								</div>
+							
+
+
+											</div>
+				</div>
+			
+
+
+
+
+
+
+
+
+		
+							<div class="yearbook-list-group">
+					<h2>Appendices</h2>
+					<div class="yearbook-list-group__content yearbook-list-group__content--hide">
+						
+																								<h3><a href="https://www.iemed.org/wp-content/uploads/2021/01/Maps_IEMed_YearBook2020.pdf" target="_blank">Maps    </a></h3>
+															
+							
+
+							
+
+
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>Chronologies</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																<li class="column is-4 yearbook-list-groups__item">
+												<a href="https://www.iemed.org/wp-content/uploads/2021/01/Chronology-of-Major-Conflicts-and-Political-Events.pdf" target="_blank">
+													<strong>Chronology of Major Conflicts and Political Events    </strong>
+													<span></span>
+												</a>
+											</li>
+																																										<li class="column is-4 yearbook-list-groups__item">
+												<a href="https://www.iemed.org/wp-content/uploads/2021/01/Chronology-of-Events-in-Israel-and-Palestine.pdf" target="_blank">
+													<strong>Chronology of Events in Israel and Palestine</strong>
+													<span></span>
+												</a>
+											</li>
+																																										<li class="column is-4 yearbook-list-groups__item">
+												<a href="https://www.iemed.org/wp-content/uploads/2021/01/Euromed-Chronology.pdf" target="_blank">
+													<strong>Euromed Chronology    </strong>
+													<span></span>
+												</a>
+											</li>
+																																										<li class="column is-4 yearbook-list-groups__item">
+												<a href="https://www.iemed.org/wp-content/uploads/2021/01/Other-Cooperation-Initiatives-in-the-Mediterranean.pdf" target="_blank">
+													<strong>Other Cooperation Initiatives in the Mediterranean   </strong>
+													<span></span>
+												</a>
+											</li>
+																													</ul>
+								</div>
+							
+
+
+						
+																								<h3><a href="https://www.iemed.org/wp-content/uploads/2021/01/Mediterranean-Electoral-Observatory.pdf" target="_blank">Mediterranean Electoral Observatory   </a></h3>
+															
+							
+
+							
+
+
+						
+							
+							
+
+															<div class="yearbook-list-groups">
+									<h4>Cooperation in the Mediterranean</h4>
+									<ul class="yearbook-list-groups__content yearbook-list-groups__content--hide columns is-multiline">
+																																<li class="column is-4 yearbook-list-groups__item">
+												<a href="https://www.iemed.org/wp-content/uploads/2021/01/European-Union-Cooperation.pdf" target="_blank">
+													<strong>European Union Cooperation</strong>
+													<span></span>
+												</a>
+											</li>
+																																										<li class="column is-4 yearbook-list-groups__item">
+												<a href="https://www.iemed.org/wp-content/uploads/2021/01/spanish_ccoperation_mediterranean_IEMed_YearBook2020.pdf" target="_blank">
+													<strong>Spanish Cooperation in the Mediterranean    </strong>
+													<span></span>
+												</a>
+											</li>
+																													</ul>
+								</div>
+							
+
+
+						
+																								<h3><a href="https://www.iemed.org/wp-content/uploads/2021/01/Migrations-in-the-Mediterranean.pdf" target="_blank">Migrations in the Mediterranean   </a></h3>
+															
+							
+
+							
+
+
+						
+																								<h3><a href="https://www.iemed.org/wp-content/uploads/2021/01/Commercial-Relations-of-the-Mediterranean-Countries.pdf" target="_blank">Commercial Relations of the Mediterranean Countries   </a></h3>
+															
+							
+
+							
+
+
+						
+																								<h3><a href="https://www.iemed.org/wp-content/uploads/2021/01/Signature-of-Multilateral-Treaties-and-Conventions.pdf" target="_blank">Signature of Multilateral Treaties and Conventions   </a></h3>
+															
+							
+
+							
+
+
+						
+																								<h3><a href="https://www.iemed.org/wp-content/uploads/2021/01/The-Mediterranean-in-Brief.pdf" target="_blank">The Mediterranean in Brief     </a></h3>
+															
+							
+
+							
+
+
+						
+																								<h3><a href="https://www.iemed.org/wp-content/uploads/2021/01/Definitions.pdf" target="_blank">Definitions   </a></h3>
+															
+							
+
+							
+
+
+						
+																								<h3><a href="https://www.iemed.org/wp-content/uploads/2021/01/List-of-the-Organisms-Consulted-for-Drawing-Up-Tables-Graphics-and-Maps.pdf" target="_blank">List of the Organisms Consulted for Drawing Up Tables, Graphics and Maps  </a></h3>
+															
+							
+
+							
+
+
+						
+																								<h3><a href="https://www.iemed.org/wp-content/uploads/2021/01/Country-Abbreviations-in-Graphics-and-Maps.pdf" target="_blank">Country Abbreviations in Graphics and Maps   </a></h3>
+															
+							
+
+							
+
+
+						
+																								<h3><a href="https://www.iemed.org/wp-content/uploads/2021/01/Acronyms-and-Abbreviations.pdf" target="_blank">Acronyms and Abbreviations       </a></h3>
+															
+							
+
+							
+
+
+						
+																								<h3><a href="https://www.iemed.org/wp-content/uploads/2021/01/Index-of-Tables.pdf" target="_blank">Index of Tables   </a></h3>
+															
+							
+
+							
+
+
+						
+																								<h3><a href="https://www.iemed.org/wp-content/uploads/2021/01/Index-of-Charts.pdf" target="_blank">Index of Charts       </a></h3>
+															
+							
+
+							
+
+
+						
+																								<h3><a href="https://www.iemed.org/wp-content/uploads/2021/01/Index-of-Maps.pdf" target="_blank">Index of Maps   </a></h3>
+															
+							
+
+							
+
+
+						
+																								<h3><a href="" target="_blank">Authors  </a></h3>
+															
+							
+
+							
+
+
+											</div>
+				</div>
+			
+
+
+
+
+
+
+
+
+			</div>
+				</div>
+			</div>
+							<div class="yearbook-hero">
+					<img src="https://www.iemed.org/wp-content/uploads/2020/12/Water-Security-in-the-Mediterranean-scaled-e1665747509944-1500x776.jpg" alt="image">
+				</div>
+			
+			<div class="container survey-intro">
+				<div class="columns">
+					<div class="column is-4">
+
+					</div>
+					<div class="column is-8">
+						<div class="single-yearbook-title">
+							<h1 class="toc-ignore">
+								Climate Change in the Mediterranean: Environmental Impacts and Extreme Events							</h1>
+						</div>
+													<div class="authors-list mb-60">
+																	<div class="person-card person-card--yearbook mb-20">
+										<div>
+																							<h3>Manfred A. Lange</h3>
+																							<span class="person-card__description">Energy, Environment and Water Research Center<br />
+The Cyprus Institute<br />
+</span>
+										</div>
+									</div>
+															</div>
+											</div>
+				</div>
+			</div>
+
+			<div class="container">
+				<div class="columns">
+					<div class="column is-4" style="z-index: 4;">
+						<aside>
+							<div class="sharebox">
+			<h4 class="toc-ignore">Share</h4>
+		<ul>
+		<li><a href="#" class="ico ico--t" aria-label="Share on twitter"></a></li>
+		<li><a href="#" class="ico ico--f" aria-label="Share on facebook"></a></li>
+		<li><a href="#" class="ico ico--w" aria-label="Share on whatsapp"></a></li>
+		<li><a href="#" class="ico ico--l" aria-label="Share on linkedin"></a></li>
+		<li><a href="#" class="ico ico--m" aria-label="Share with mail"></a></li>
+	</ul>
+</div>
+														<a href="https://www.iemed.org/wp-content/uploads/2021/01/Climate-Change-in-the-Mediterranean_-Environmental-Impacts-and-Extreme-Events.pdf" class="btn-link btn-link--fullwidth sidebar-width mt-40" target="_blank">Download PDF</a>
+														<div class="toc-container sidebar-width pt-50" style="display: none">
+								<div class="hr-title mb-20">
+									<h2>Table of content</h2>
+									<hr>
+								</div>
+								<div class="toc"></div>
+							</div>
+						</aside>
+					</div>
+					<div class="column is-8">
+						<article id="post-19778" class="yearbook-type post-19778 publication type-publication status-publish has-post-thumbnail hentry category-iemed-mediterranean-yearbook tag-water tag-climate-change-2 topic-sustainability-energy-climate mediterraneanyearbook-iemed-mediterranean-yearbook-2020">
+							
+<h1 class="wp-block-heading">Background and Introduction</h1>
+
+
+
+<p>The Mediterranean Sea represents the largest of the semi-enclosed European seas and occupies a basin of almost 2.6 million&nbsp;km<sup>2</sup>, which corresponds to 6.5 percent of global land area. The length of its coastline amounts to 46,000&nbsp;km. The basin itself measures about 3,800&nbsp;km from east to west and 900&nbsp;km from north to south at its maximum between France and Algeria (UNEP/MAP, 2012). The Mediterranean Sea is surrounded by 23 countries<a href="#_ftn1"><sup>[1]</sup></a> and is home to around 480&nbsp;million people, corresponding to 7.3&nbsp;percent of the global population in 2015. The region is located at the crossroad of three continents: Africa, Asia and Europe (European Environment Agency, 2015). Many of the Mediterranean countries’ economies are largely dependent on natural resources, particularly along the southern rim of the Basin (UNEP/MAP-Plan Bleu, 2009). The overall gross domestic product (GDP) of the Mediterranean countries amounted to 10.4 percent of the global GDP in 2016. The Mediterranean Sea represents one of the world&#8217;s busiest shipping routes with about 30&nbsp;percent of international maritime freight traffic and some 20 to 25&nbsp;percent of maritime oil transport crossing the sea each year (<em>UNEP/MAP-Plan Bleu</em>, 2009).</p>
+
+
+
+<p>The Mediterranean Basin is characterized by significant environmental and geographic gradients from north to south and east to west. The region has a complex morphology of mountain chains and strong land–sea contrasts and lies in a transition zone between mid-latitude and sub-tropical atmospheric circulation regimes.</p>
+
+
+
+<p>Rivers play a major role in the Mediterranean region’s water circulation and geochemistry. Ranked according to annual discharge, the four largest rivers flowing into the Mediterranean Sea are the Rhone, Po, Drin-Bojana and the Nile. Changes in freshwater input due to natural variability, major river regulation and/or climate change lead to altered surface-water salinity of the Mediterranean Sea with consequences for coastal marine ecosystems (UNEP/MAP, 2012).</p>
+
+
+
+<p>Equally important, but of a different nature are the variations in the socio-economic, cultural and societal conditions in the Mediterranean countries. A number of well-developed EU Member States on its northern rim contrast with intermediately developed countries in the eastern Mediterranean and the Middle East and with less developed countries in North Africa.</p>
+
+
+
+<p>A common phenomena, particularly for countries in the eastern Mediterranean and North Africa is the significant growth in populations and an increasing rate of urbanization (see, e.g., Lange, 2019). The combination of changes in lifestyle and demand patterns have resulted in growing demands for water, energy and food in the Mediterranean Basin. The overexploitation of existing water reservoirs and groundwater aquifers and the enhanced utilization of ecosystem services has led to stress on environmental integrity, in addition to already apparent impacts of ongoing climate changes.</p>
+
+
+
+<p>Earlier assessments have shown that climate and environmental changes are already posing significant risks in several of the Mediterranean countries (Cramer et al., 2018). In particular, the observed changes in annual mean temperatures over the last 140&nbsp;years clearly exceed global mean values (Chart&nbsp;2) with basin-wide, annual mean temperatures now about 1.5&nbsp;°C above late 19th-century levels.</p>
+
+
+
+<p>The Mediterranean is vulnerable to climate change impacts in a number of ways, which will be described in more detail below. Water scarcity, a long-known and widespread challenge in many Mediterranean countries is likely to increase in the next decades as a consequence of anticipated climate change. Moreover, agricultural practices, aimed to increase yields, have led to enhanced water use for irrigation. Continued intensification of agricultural practices will result in adverse consequences for water resources, biodiversity and landscape functioning. This is combined with enhanced disturbances of environmental integrity, an overexploitation of ecosystem services and a growing tendency towards desertification in several of the rim countries (Cramer et al<em>.</em>, 2018). Before addressing environmental impacts in more detail, we will first look at past and present climate changes in the Mediterranean, before considering future climate projections and the resulting extreme events.</p>
+
+
+
+<h1 class="wp-block-heading">Climate Change in the Mediterranean</h1>
+
+
+
+<h2 class="wp-block-heading">Past and Present Conditions</h2>
+
+
+
+<p>As mentioned before, Mediterranean climate change has been observed at a magnitude exceeding global means, despite the fact that the emission of greenhouse gases (GHGs) in Mediterranean countries lie at relatively low levels (see below). The recent temperature record reveals a mean annual temperature for the entire basin that lies about 1.5&nbsp;°C above late 19th-century levels and approx. 0.4&nbsp;°C above the global average, with significant inter-annual variability (Chart&nbsp;1). Significant sub-regional manifestations of the warming reveal local increases in mean annual temperatures over the same time span that range from 1.5 to 4&nbsp;°C. The overall change in climatic conditions has resulted in more frequent and more intense heat waves with midday temperatures continuously above 30 to 40&nbsp;°C and increasing periods of drought (i.e., extended periods with negligible rainfall) since the 1950s (see below).</p>
+
+
+
+<p>CHART 1 <strong>Mean Temperature Anomalies</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="770" height="437" src="https://www.iemed.org/wp-content/uploads/2021/01/Chart-1.png" alt="" class="wp-image-19787" srcset="https://www.iemed.org/wp-content/uploads/2021/01/Chart-1.png 770w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-1-550x312.png 550w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-1-768x436.png 768w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-1-180x102.png 180w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-1-519x295.png 519w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-1-380x216.png 380w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-1-387x220.png 387w" sizes="(max-width: 770px) 100vw, 770px" /><figcaption>Note: Temporal distribution of annual mean air temperature anomalies with respect to the period 1880-1899, with the Mediterranean Basin (dark blue/grey) and the globe (light blue/grey) presented with (grey curves) and without (blue curves) smoothing. Source: Cramer et al. (2018); Data from http://berkeleyearth.org/.</figcaption></figure>
+
+
+
+<p>There has also been a rapid change in the water cycle due to increased evaporation and less rainfall causing, e.g., increased fire hazard as well as an enhanced risk of forest pests and parasites. While water scarcity has been a common challenge for Mediterranean societies throughout history, the current situation and anticipated exacerbation due to climate change resulting in severe strain on natural and managed terrestrial ecosystems are cause for serious concern (see below).</p>
+
+
+
+<p>Sea surface temperatures have been rising for the last decades at a rate of about 0.4&nbsp;°C and have led to mean annual temperatures exceeding 20&nbsp;°C for much of the eastern and southeastern Mediterranean (Map&nbsp;1). The increasing sea temperatures have resulted in mean sea level rises of about 3&nbsp;cm per decade and cause significant risks for low-lying coastal regions, e.g., the Nile Delta.</p>
+
+
+
+<p>MAP 1 <strong>Mean surface temperature</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="757" height="430" src="https://www.iemed.org/wp-content/uploads/2021/01/Map-1.png" alt="" class="wp-image-19791" srcset="https://www.iemed.org/wp-content/uploads/2021/01/Map-1.png 757w, https://www.iemed.org/wp-content/uploads/2021/01/Map-1-550x312.png 550w, https://www.iemed.org/wp-content/uploads/2021/01/Map-1-180x102.png 180w, https://www.iemed.org/wp-content/uploads/2021/01/Map-1-519x295.png 519w, https://www.iemed.org/wp-content/uploads/2021/01/Map-1-380x216.png 380w, https://www.iemed.org/wp-content/uploads/2021/01/Map-1-387x220.png 387w" sizes="(max-width: 757px) 100vw, 757px" /><figcaption>Note: Present mean annual surface temperatures of the Mediterranean Sea; Source: UNEP/MAP (2012) and www.grida.no/resources/5919</figcaption></figure>
+
+
+
+<p>What are the main drivers that cause these changes and what lies ahead of us throughout the next decades until the end of the next century? These and other issues will be discussed in the following section.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Mediterranean climate change has been observed at a magnitude exceeding global means, despite the fact that the emission of greenhouse gases (GHGs) in Mediterranean countries lies at relatively low levels</p></blockquote>
+
+
+
+<h2 class="wp-block-heading">Major Drivers of Climate Change in the Mediterranean Basin</h2>
+
+
+
+<p>While the Mediterranean has seen major shifts in climate conditions throughout history, with temperatures on average to be 8&nbsp;°C below current ones at the height of the last ice age (about 20,000 years ago) or 1 – 3&nbsp;°C higher during the mid-Holocene (6,000 years ago), current changes are unprecedented in the region’s climate history. While historic changes took thousands of years to evolve, the current climate develops at a pace of 100 to 150&nbsp;years with significant accelerations during the last few centuries. This has been attributed to various causes. However, there is growing and overwhelming evidence that much of the warming has been caused by anthropogenic forces, most notably the emission of greenhouse gases into the Earth’s atmosphere. As stated in the latest assessment report of the Intergovernmental Panel on Climate Change (IPCC): “Human influence has been detected in warming of the atmosphere and the ocean, in changes in the global water cycle, in reductions in snow and ice, and in global mean sea level rise; and it is extremely likely to have been the dominant cause of the observed warming since the mid-20th century.” (IPCC 2014, 2015). This conclusion does not exclude other, natural causes (e.g., volcanic eruptions, variations in the sun’s energy output, etc.), but emphasizes the role of man in altering major elements of the Earth’s system.</p>
+
+
+
+<p>While the current share of carbon emissions of the Mediterranean countries amounts to no more than 6&nbsp;percent of global emissions (FAO and Plan Bleu, 2018), the expected growth in energy demand by the Mediterranean countries alone will likely increase this fraction in the next few decades until 2050 (Plan Bleu and European Investment Bank, 2008). The underlying cause for this growth lies in the expected continued growth in population (+105 million compared to 2013) and the economies (+2.3% per year on average) in the region (Ben Jannet Allal et al., 2016). As outlined by Ben Jannet Allal et al.(2016), while energy demand and consumption have been steadily increasing since the early 1970s (Chart&nbsp;2a), the final energy consumption is likely to double by 2040 in the southern Mediterranean countries (SMECs<a href="#_ftn2"><sup>[2]</sup></a>). Over the same period, electricity consumption will triple, notably on account of the increased use of space cooling (air conditioning) and new electrical appliances. Since most of the electricity production relies on carbohydrates in the SMECs and carbohydrates and nuclear energy in the Northern Rim Countries (NRCs; Chart&nbsp;2b), the resultant carbon dioxide emissions are expected to increase by 45% for the whole region and more than double in the southern Mediterranean.</p>
+
+
+
+<p>CHART 2 <strong>Energy Demand and Electricity Generation by Source in the Mediterranean Region</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="776" height="436" src="https://www.iemed.org/wp-content/uploads/2021/01/Chart-2.png" alt="" class="wp-image-19795" srcset="https://www.iemed.org/wp-content/uploads/2021/01/Chart-2.png 776w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-2-550x309.png 550w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-2-768x432.png 768w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-2-180x101.png 180w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-2-774x436.png 774w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-2-770x432.png 770w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-2-519x292.png 519w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-2-380x214.png 380w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-2-387x217.png 387w" sizes="(max-width: 776px) 100vw, 776px" /><figcaption>Note: a) Energy demand by source in the Mediterranean region (Mtoe; RE: Renewable Energies); b) Electricity generation by source in the Mediterranean region (TWh); Source: modified after UNEP/MAP-Plan Bleu (2009)</figcaption></figure>
+
+
+
+<p>As mentioned before, the ongoing and anticipated continued growth in population of Mediterranean countries (Chart&nbsp;3) is a major indirect driver of climate and environmental changes. As can be seen, the population in the region increased from 259&nbsp;million in 1960 to 537&nbsp;million in 2015 and is expected to reach 670&nbsp;million by 2025 (UNEP/MAP, 2012). Rates of population growth in the southern Mediterranean countries and, to a lower extent, those of the eastern countries exceed significantly those of the northern countries.</p>
+
+
+
+<p>CHART 3 <strong>Past and Projection of Population Growth in Mediterranean Countries since 1960</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="765" height="445" src="https://www.iemed.org/wp-content/uploads/2021/01/Chart-3.png" alt="" class="wp-image-19799" srcset="https://www.iemed.org/wp-content/uploads/2021/01/Chart-3.png 765w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-3-550x320.png 550w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-3-180x105.png 180w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-3-519x302.png 519w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-3-380x221.png 380w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-3-387x225.png 387w" sizes="(max-width: 765px) 100vw, 765px" /><figcaption>Source: FAO and Plan Bleu. 2018 based on World Bank (2015).</figcaption></figure>
+
+
+
+<p>This growth took place primarily as a result of an increasing urban population with an urbanization rate of 48&nbsp;percent in 1960, reaching 68&nbsp;percent in 2015. Urbanization took place predominantly along the region’s coastlines: cities such as Algiers and Tel-Aviv experienced a five to tenfold increase between 1950 and 2010 (World Bank, 2015). About one third of the Mediterranean population was concentrated in coastal areas totalling less than 12 % of the surface area of the Mediterranean, amounting in total coastal populations of 150 million in 2015 (FAO and Plan Bleu, 2018).</p>
+
+
+
+<p>Given the facts listed above, one wonders how climate will change in the future and what impacts such changes will have that add to the already discernible stresses on the environment and other impacted sectors. The first issue will be addressed in the following section.</p>
+
+
+
+<h1 class="wp-block-heading">Climate Change in the Mediterranean: Future Perspectives</h1>
+
+
+
+<p>As demonstrated before, the Mediterranean Basin has seen a rise in mean annual temperatures that lies well above the global mean (Chart&nbsp;1). Numerical modelling has been established as the most suitable method when aiming to assess prospective future changes in climate parameters, particularly mean annual temperatures and mean annual precipitation. While global climate models (GCMs) provide valuable insights into large-scale developments of climate conditions, addressing the impacts of climate change requires finer, regional to sub-regional scales to enable assessments that are relevant to local communities and ecosystems. This has been achieved through the use of Regional Climate Models (RCMs; e.g., Jacob et al., 2014). Impacts are expected to be particularly severe in regions where increasing temperatures are combined with decreasing precipitation. Such regions have been coined “climate change hotspots” and the Mediterranean is considered one such hot spot (Giorgi, 2006).</p>
+
+
+
+<p>Recent results of ensembles of regional climate models with a spatial resolution of 50&nbsp;km, which have been carried out in the framework of the Coordinated Regional Downscaling Experiment (CORDEX) underline this assignment (Zittis et al., 2019). The study is based on results from 14 global and 17 regional climate models, respectively. The global models provide future climate projections for the period 2006–2100 and are driven by three “future” representative concentration pathways (RCPs), i.e., RCP8.5, RCP4.5 and RCP2.6. The latter scenario has been set in order to reach the main targets set by the Paris Agreement and to keep global warming to well below 2 °C since pre-industrial times (for more details, see Zittis et al., 2019).</p>
+
+
+
+<h2 class="wp-block-heading">Projections of Changing Temperature</h2>
+
+
+
+<p>Map&nbsp;2 presents changes for mean annual temperatures relative to a reference period 1986–2005 for two time slices: mid-century (i.e., 2046–2065) and end-century (i.e., 2081–2100), respectively.</p>
+
+
+
+<p>MAP 2 <strong>Projected Changes of Mean Annual Temperature for Mid and End of 21st century</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="552" height="479" src="https://www.iemed.org/wp-content/uploads/2021/01/Map-2.png" alt="" class="wp-image-19803" srcset="https://www.iemed.org/wp-content/uploads/2021/01/Map-2.png 552w, https://www.iemed.org/wp-content/uploads/2021/01/Map-2-467x405.png 467w, https://www.iemed.org/wp-content/uploads/2021/01/Map-2-180x156.png 180w, https://www.iemed.org/wp-content/uploads/2021/01/Map-2-519x450.png 519w, https://www.iemed.org/wp-content/uploads/2021/01/Map-2-380x330.png 380w, https://www.iemed.org/wp-content/uploads/2021/01/Map-2-387x336.png 387w" sizes="(max-width: 552px) 100vw, 552px" /><figcaption>Note: Projected changes of mean annual temperature for mid (MID 2046–2065) and end (END 2081–2100) of 21st century with respect to the reference period (CTL 1986–2005), for three RCP pathways (RCP2.6: top row, RCP4.5: middle row and RCP8.5: bottom row). Robustness and significance are indicated through different symbols; source Zittis et al. (2019)</figcaption></figure>
+
+
+
+<p>Following the lowest emission scenario (RCP2.6), projected mean annual temperatures remain below 2&nbsp;°C for most of the Mediterranean for the mid-century as well as for the end-century time slice. In contrast, the “business as usual” scenario (i.e., continuing with increasing emissions similar to the recent past), leads to significantly higher temperatures of up to 3.5–4&nbsp;°C for the period 2046–2065 and exceeding 3.5–5.5 °C by the end of the 21st century. Projections for the intermediate RCP4.5 scenario lie between these two extremes. However, achieving emission reductions according to RCP2.6 remains insecure, if not unlikely, given present emission values (see, e.g., Ritchie and Roser, 2017). Focusing on the intermediate RCP4.5-scenario, much of the Mediterranean Basin will experience mean annual temperatures above 2&nbsp;°C and above 2.5-3&nbsp;°C for the mid- and end-century time slices, where the latter is similar to the mid-century projections for the RCP8.5 scenario. Significant sub-regional manifestations of these increases are apparent, particularly for the RCP8.5-model. Such substantial rates of warming will have significant impacts on environments and human communities in the Mediterranean Basin, to be discussed below.</p>
+
+
+
+<h2 class="wp-block-heading">Projections of Changing Precipitation</h2>
+
+
+
+<p>Projections for changes in precipitation are less robust than those for temperatures (<em>Zittis et al.</em>, 2019) and are presented in Map 3. Climate change will lead to enhanced evapotranspiration and reduced rainfall (<em>Cramer et al.</em>, 2018). This will likely result in substantial reductions of water availability by 2–15% for 2&nbsp;°C of warming. This represents one of the largest decreases in the world, which will result in significant increases in the length of meteorological dry spells and droughts (see below).</p>
+
+
+
+<p>Map 3 <strong>Projected changes of mean annual precipitations for mid and end of 21st century</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="552" height="488" src="https://www.iemed.org/wp-content/uploads/2021/01/Map-3.png" alt="" class="wp-image-19807" srcset="https://www.iemed.org/wp-content/uploads/2021/01/Map-3.png 552w, https://www.iemed.org/wp-content/uploads/2021/01/Map-3-458x405.png 458w, https://www.iemed.org/wp-content/uploads/2021/01/Map-3-180x159.png 180w, https://www.iemed.org/wp-content/uploads/2021/01/Map-3-519x459.png 519w, https://www.iemed.org/wp-content/uploads/2021/01/Map-3-380x336.png 380w, https://www.iemed.org/wp-content/uploads/2021/01/Map-3-385x340.png 385w" sizes="(max-width: 552px) 100vw, 552px" /><figcaption>Note: Similar to Map 2 for annual precipitation changes; Source Zittis et al. (2019)</figcaption></figure>
+
+
+
+<p>When considering RCM results for the RCP8.5 scenario (Map&nbsp;8), it becomes clear that drying is affecting most of the Mediterranean coasts and particularly Iberia, parts of Maghreb, southern Italy, the Balkans, southern Turkey, and the Levantine. Decreases in precipitation are projected to reach -30%, while for some parts of the southern Mediterranean, the rainfall decrease will reach or exceed -40% of annual precipitation relative to the reference period (1986–2005).</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>The increase in the heat wave intensity is strongest in the southern and eastern parts of the Mediterranean Basin, as well as in parts of Spain</p></blockquote>
+
+
+
+<p>Concentrating again on the intermediate RCP4.5-scenario, mean annual precipitation will decrease up to -20% in parts of the Mediterranean Basin for the mid- and end-century time slices, respectively. Given the already semi-arid to arid conditions of the southern and eastern rim countries of the Basin, these projections will drastically enhance water scarcity for many communities and for terrestrial ecosystems already under significant stress.</p>
+
+
+
+<p>However, please note that these projections represent mean annual values, which are neither to be equated with projections of seasonal, nor with extreme episodes of climate change in the region (see below). Given that impacts of extreme events will be particularly devastating, the following section will take a look at some of the expected extreme events anticipated for the Mediterranean Basin in the coming decades.</p>
+
+
+
+<h1 class="wp-block-heading">Projected Extreme Climate Events in the Mediterranean Basin</h1>
+
+
+
+<p>Considering all possible extreme events would be beyond the scope of this paper. Thus, we will concentrate on the following issues:</p>
+
+
+
+<ul><li>Heat waves</li><li>Droughts</li><li>Extreme precipitation events.</li></ul>
+
+
+
+<p>As can be seen in Maps 2 and 3, the magnitudes of mean annual temperature- and precipitation changes are maximum in the eastern and southern rim countries of the Mediterranean Sea, which are part of the Middle East North Africa region, also called the MENA region. The paper by Michaelides et al. (2018) provides an extensive summary of extreme climate events in the Mediterranean, their current status and future projections.</p>
+
+
+
+<h2 class="wp-block-heading">Heat Waves</h2>
+
+
+
+<p>According to the World Meteorological Organization (WMO), heat waves are defined as an extreme weather event with marked warming of the air over a large area that usually lasts from a few days to a few weeks (Molina et al., 2020). While numerous slightly differing definitions have been proposed, any accurate heat wave definition should include both the intensity and duration of a heat wave. The HWMId (Heat Wave Magnitude Index daily) for intensity and the WSDI (Warm Spell Duration Index) for duration represent two of the most commonly used indices (Molina et al., 2020).The HWMId takes into account both duration and temperature anomalies of a heat wave in a single number (Russo et al., 2015). The WSDI denotes the number of days each year, which are part of a &#8220;warm spell,&#8221; which is defined as a sequence of six or more days in which the daily maximum temperature exceeds the 90th percentile of daily maximum temperature for a five-day running window surrounding this day during the baseline period (Zhang et al., 2011).</p>
+
+
+
+<p>Heat waves in the Mediterranean Basin have been observed to occur more frequently and at increasing duration since the 1950s (Cramer et al., 2018). The combination of increasing heat waves, droughts (see below) and changing land-use practices have resulted in higher fire risk, longer fire seasons and more frequent, larger and more severe fires.</p>
+
+
+
+<p>Based on the largest available ensemble of RCMs, Molina et al. (2020) present an assessment of future heat wave events over the whole Mediterranean Basin. The assessment is based on Euro-CORDEX simulations driven by RCP4.5 and RCP8.5 greenhouse gas emission scenarios and with both 0.11° and 0.44° spatial resolutions (around 50 and 12 km in size, respectively). Mean values for the increase in the heat wave indices HWMId and WSDI averaged over the Mediterranean Basin for the 2071–2100 period, are significantly larger for models driven by the RCP8.5 scenario compared to the RCP4.5 scenario (Molina e<em>t al.</em>, 2020). Thus, heat waves are more intense and last longer under the RCP8.5 scenario than for the RCP4.5 scenario. According to the scenarios of the spatial distribution of the mean of the HDWMId and the WSDI indices derived from all RCMs for the 2071-2100 period, which are based on the RCP8.5 emission scenario (more details, see: Molina et al., 2020), it can be seen that the increase in the heat wave intensity is strongest in the southern and eastern parts of the Mediterranean Basin, as well as in parts of Spain. The duration of warm spells, as indicated by the WSDI, increases most in the eastern and parts of the southern Mediterranean, where it reaches values of up to 200 days and to a lesser degree in central to southern Spain. This underlines the earlier notion that the Mediterranean countries of the MENA region are particularly affected by climate changes and their impacts.</p>
+
+
+
+<h2 class="wp-block-heading">Droughts</h2>
+
+
+
+<p>Droughts are difficult to quantify and are usually identified by their effects or by their impacts on different types of systems, since no single physical variable can be measured to quantify them (Quintana Seguí et al., 2016). Their temporal scale and duration, as well as their spatial scales and places of occurrence are equally difficult to specify quantitatively. This has led to the definition of drought indices (similar to what has been done for heat waves, see above) that are based on meteorological, hydrological and/or remote sensing data. The standardized precipitation evapotranspiration index (SPEI) represents the most commonly used drought index, which is obtained by using data on precipitation and atmospheric evaporative demand (AED) (for more details, see, e.g., Quintana Seguí et al., 2016).</p>
+
+
+
+<p>Understanding drought processes requires an understanding of the role of soil moisture. Soil moisture determines the availability of water for evapotranspiration. During the hot summer months, water availability is limited since solar radiation is abundant and water is scarce. The projected increase in the duration and intensity of heat waves/warm spells as a result of climate change in the Mediterranean (see above) will exacerbate the impacts of drought. A very dry soil stimulates the sensible heat flux, which can interact with the atmosphere, intensifying heat waves (see, e.g., Zittis et al., 2014). A decrease in soil moisture will lead to increased water stress and will affect natural vegetation and agricultural activities adversely. This will cause an increased demand for irrigation. Pumping water to satisfy this demand will result in the lowering of the water table. This, in turn, will reduce the water available for natural vegetation, thereby amplifying the above-mentioned effect and creating an environment where extreme droughts could thrive (Quintana Seguí et al., 2016).</p>
+
+
+
+<p>However, the data needed to determine the SPEI or the conditions of the soil cover for a given region are not always available. This may be caused by the small number or the entire absence of meteorological stations, or may result from only a short measurement period in a given country, which is typical for many countries in the Mediterranean. The use of satellite remote sensing, employing various optical sensors enables investigations of vegetation dynamics and their variations over time as indicators for drought conditions in a given locale. Soil moisture content can be determined through microwave remote sensing. Thus, the combined use of different remote sensing sensors enables not only the study of drought in areas with few meteorological stations, but also provides information as to how drought propagates to the soil (soil moisture) and the vegetation, and how it impacts agriculture and forestry (for more details, see, e.g., Quintana Seguí et al., 2016).</p>
+
+
+
+<p>In order to assess the future development of droughts in a given region, RCM results and the specification of dry spells, i.e., the number of days with negligible precipitation have been employed(Quintana Seguí et al., 2016). This relates closely to the analysis of heat waves as described above and the results of these investigations will shed light on the occurrence and duration of droughts in the Mediterranean Basin. Considering the RCM results for the Warm Spell Duration Index (WSDI), enhanced droughts are likely to be seen in countries of the eastern Mediterranean (Turkey, Syria, Lebanon, Jordan) as well as in some southern Mediterranean countries (Egypt, Libya, Algeria, Morocco).</p>
+
+
+
+<h2 class="wp-block-heading">Extreme Precipitation Events</h2>
+
+
+
+<p>It has been shown that due to changes in the hydrologic cycle, the incidence of extreme precipitation in a warmer climate can possibly increase even in areas where mean precipitation is projected to decrease. Thus, despite a general decrease in precipitation over most parts of the Mediterranean in the recent past, short and local heavy rainfall events have been recorded in small catchments, many of them near the coast in densely populated areas. This is a common phenomenon in many Mediterranean countries, which are consequently affected by flash floods. In addition, non-climatic factors such as increasingly sealed surfaces in urban areas and ill-conceived storm-water management systems will exacerbate these risks (Cramer et al., 2018). Such hazardous precipitation events lead to major adverse impacts on socio-economic systems and local communities in the region (Cavicchia et al., 2018; Michaelides et al., 2018).</p>
+
+
+
+<p>In an assessment of annual maximum precipitation in an ensemble of high-resolution regional climate model (RCM) simulations, Tramblay and Somot (2018) reach comparable results that indicate significant increasing precipitation trends in northern catchments and conversely decreasing trends in southern catchments of the Mediterranean Basin. Since the same spatial patterns are obtained in most RCM simulations, independent of the emission scenarios considered (RCP4.5 and RCP8.5), the authors suggest that this represents a robust climate change signal.</p>
+
+
+
+<p>Thus, while the overall amount of precipitation will decrease over the Mediterranean, extreme rainstorms will prevail in northern rim countries. Aside from droughts, floods are and will likely remain the most dangerous meteorological hazards affecting the Mediterranean countries. During the period from 1990 to 2006, flash floods have resulted in 4,566 mortalities and have caused a total damage of €29.136 billion in the Mediterranean region (<em>Llasat et al.</em>, 2010). Chart&nbsp;4 presents a compilation of the mean monthly spatial distribution of flood events in selected Mediterranean countries for the same period. As can be seen, floods in all the regions peak in the autumn (September-November), with Catalonia being the most affected with 58 cases during this period.</p>
+
+
+
+<p>CHART 4 <strong>Monthly Distribution of Floods in Selected Mediterranean Countries (1990–2006)</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="723" height="418" src="https://www.iemed.org/wp-content/uploads/2021/01/Chart-4.png" alt="" class="wp-image-19811" srcset="https://www.iemed.org/wp-content/uploads/2021/01/Chart-4.png 723w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-4-550x318.png 550w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-4-180x104.png 180w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-4-519x300.png 519w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-4-380x220.png 380w, https://www.iemed.org/wp-content/uploads/2021/01/Chart-4-387x224.png 387w" sizes="(max-width: 723px) 100vw, 723px" /><figcaption>Source: (Llasat et al., 2010)</figcaption></figure>
+
+
+
+<h1 class="wp-block-heading">Climate Change and Environmental Impacts in the Mediterranean Basin</h1>
+
+
+
+<p>After considering present and future climate change and associated extreme events, we will now take a look at some of their impacts on the environment of the Mediterranean. While looking at individual environmental compartments may be useful, a consideration of combined (synergistic) impacts of climate change on various compartments is even more revealing. In addition, the population growth and an increasing rate of urbanization, pollution, (over-) exploitation of ecosystem services, changes in land use and land degradation as well as intensive agriculture and fisheries leave obvious traces in the Mediterranean environment.</p>
+
+
+
+<h2 class="wp-block-heading">Water Scarcity</h2>
+
+
+
+<p>An issue of paramount importance is the fate of water available for human consumption, agriculture and the environment. As noted above, climate change induced reductions in precipitation, the increase in the number and intensity of drought events, the enhanced pressure on water demand by communities and irrigated agriculture add up to significant water scarcity in many parts of the Mediterranean. As already indicated, the eastern and southern rim countries, as part of the MENA region, will see particularly severe shortages. Already suffering from water stress (i.e., water withdrawal exceeding water renewal) and high inter-annual variability of their water resources these countries are likely to experience chronic water scarcity with per capita water availability falling below 500 to 1,000&nbsp;m<sup>3</sup> yr<sup>−1</sup> (the threshold generally accepted for severe scarcity to water stress) in the near future.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>While the overall amount of precipitation will decrease over the Mediterranean, extreme rainstorms will prevail in northern rim countries. Aside from droughts, floods are and will likely remain the most dangerous meteorological hazards</p></blockquote>
+
+
+
+<p>Other impacts of climate change include a significant reduction in river flow and river discharge amounting to the median reduction in runoff almost doubling from about 9% (likely range: 4.5–15.5%) for a 1.5&nbsp;°C warming to 17% (8–28%) for a 2&nbsp;°C warming (Cramer et al., 2018). In addition, the seasonal distribution of stream flows is very likely to change, resulting in earlier declines of high flows from snowmelt in spring, an intensification of low flows in summer and greater and more irregular discharge in winter.</p>
+
+
+
+<p>As already mentioned, reduced water availability and the inability to satisfy an increasing demand for irrigation water will imply possible risks to food security in parts of the region. The demand for irrigation water, which already represents between 50% to 90% of total water demand in Mediterranean countries (Cramer et al., 2018) is projected to increase by between 4 to 18% by the end of the century as a result of climate change alone (for a 2&nbsp;°C and 5&nbsp;°C warming, respectively). These numbers are exacerbated by the projected growth in population (see above) and may result in water demands that are 22 and 74% higher, respectively, compared to present demands (Cramer et al., 2018).</p>
+
+
+
+<h2 class="wp-block-heading">Land Ecosystems</h2>
+
+
+
+<p>The Mediterranean land ecosystems are rich in biodiversity. Despite the fact that Mediterranean forests represent only 1.8% of the world forest area, the region hosts 290 woody species compared to only 135 species for non-Mediterranean Europe (Cramer et al., 2019). The region is host also to many endemic species (plants and animals that exist only in one geographic region). As already mentioned, land ecosystems are impacted not only by direct consequences of climate change (warming, drought), but also by changes in land use and an increasing rate of urbanization. Pollution, unsustainable tourism, overexploitation of resources and other practices (e.g. overgrazing, forest fires) add to the stress on these ecosystems.</p>
+
+
+
+<p>A warming climate and increasing numbers and intensities of droughts lead to a general increase in aridity and subsequent desertification of many Mediterranean land ecosystems.</p>
+
+
+
+<p>Deserts are likely to expand in southern Spain and Portugal, in northern parts of Morocco, Algeria, Tunisia, Sicily, Cyprus, southern Turkey and parts of Syria (Cramer et al., 2019).</p>
+
+
+
+<p>Forests play an important role as a carbon sink, which means that they absorb more carbon than they release. However, if the anticipated warming exceeds 2&nbsp;°C, forests may lose this role, especially during the drought years (Cramer et al., 2019). Some species in Mediterranean forests are particularly vulnerable to climate change. Forest productivity has decreased and rates of mortality and defoliation (loss of leaves) have increased significantly in holm oak, a species currently dominating Mediterranean forests. In arid and semi-arid countries of the eastern and southern Mediterranean, drought has increased tree mortality and has resulted in degradation and reduced distribution of entire forest ecosystems, such as the Atlas cedar in Morocco or Algeria (Cramer et al., 2019).</p>
+
+
+
+<p>Enhanced droughts and heat waves increase fire risks, which is also affected by changed land management. This implies longer fire seasons, and potentially more frequent large, severe fires. Exceptionally large fire events, triggered by extreme climate events, especially heat waves, have caused record maxima of burnt area in some Mediterranean countries during the last decade (Cramer et al., 2018; Cramer et al., 2019).</p>
+
+
+
+<h2 class="wp-block-heading">Marine Ecosystems</h2>
+
+
+
+<p>Similarly to the terrestrial situation, marine ecosystems comprise a particularly rich biodiversity. While occupying only 0.8% of the global ocean surface, the Mediterranean Sea hosts 4% to 18% of the world’s known marine species (Cramer et al., 2019). The observed as well as the anticipated increase of water temperatures will lead to changes in species composition and abundance. Thus, while cold-water species become less abundant or extinct, warm-water species will become more abundant: this will lead to a continuous homogenization of the Mediterranean biota with warm-water species.</p>
+
+
+
+<p>The Mediterranean is known for its growing number of non-indigenous, invasive species, which enter mostly from the warm Red Sea through the recently widened Suez Canal. More than 700 non-indigenous marine plant and animal species have been recorded so far in the Mediterranean, many of them are favoured by the warmer water temperatures. Consequently, the geographic distribution range of many native species has changed significantly. The eastern Mediterranean (Levantine Sea) is seeing the most severe environmental effects of invasive species (Cramer et al., 2019).</p>
+
+
+
+<p>Favoured by increasing water temperature, the extent and intensity of jellyfish outbreaks have increased over the last several decades. Outbreaks of a purple-striped jellyfish, a planktonic predator of fish larvae and of their zooplankton prey have caused particularly adverse effects (Cramer et al., 2019).</p>
+
+
+
+<p>Higher concentrations of carbon dioxide (CO<sub>2</sub>) lead to an increase in dissolved atmospheric CO<sub>2</sub> in Mediterranean surface waters. This results in a lowering of the water&#8217;s pH and in making the ocean more acidic. These processes are well documented and will likely continue in the future as a result of continued CO<sub>2 </sub>emissions into the atmosphere. Acidification results in various adverse impacts on many pelagic and benthic organisms with calcareous body parts, such as corals, mussels, pteropods, sponges and coccolithophores. Additional effects include biological changes (e.g. reduced early stage survival) as well as altered ecological processes (e.g. loss in biodiversity, changes in biomass and trophic complexity). Modifications in species composition and shifts in abundance from assemblages dominated by calcifying species to non-carbonated species have been reported even under moderate decreases in surface-water pH values (Cramer et al., 2019).</p>
+
+
+
+<p>Rising water temperatures also lead to more extensive and more prolonged impacts on marine ecosystems. This includes mass mortality events, in coralligenous communities, but also in sponges or mollusks. Extensive bleaching of coralligenous organisms under exceptionally warm water temperatures have been reported almost every year since 1999 (see, e.g., Jiménez et al., 2016). Even though recovery is possible, this process takes a long time and may be inhibited by more frequent heat waves or increasing acidity (Cramer et al., 2019).</p>
+
+
+
+<h2 class="wp-block-heading">Coastal Ecosystems</h2>
+
+
+
+<p>Being at the interface between land and sea, coastal ecosystems are particularly sensitive to the impacts of climate and environmental changes. In addition and because of high population densities in coastal regions around the Mediterranean, industrial activities, urbanization and tourism result in, e.g., significant chemical pollution that strongly affects these ecosystems (Map&nbsp;4).</p>
+
+
+
+<p>MAP 4 <strong>Spatial Distribution of Organic Water Pollutant from Point Sources in Countries of the Mediterranean Basin</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="713" height="472" src="https://www.iemed.org/wp-content/uploads/2021/01/Map-4.png" alt="" class="wp-image-19815" srcset="https://www.iemed.org/wp-content/uploads/2021/01/Map-4.png 713w, https://www.iemed.org/wp-content/uploads/2021/01/Map-4-550x364.png 550w, https://www.iemed.org/wp-content/uploads/2021/01/Map-4-180x119.png 180w, https://www.iemed.org/wp-content/uploads/2021/01/Map-4-519x344.png 519w, https://www.iemed.org/wp-content/uploads/2021/01/Map-4-380x252.png 380w, https://www.iemed.org/wp-content/uploads/2021/01/Map-4-387x256.png 387w" sizes="(max-width: 713px) 100vw, 713px" /><figcaption>Source: (UNEP/MAP, 2012)</figcaption></figure>
+
+
+
+<p>Coastal erosion due to sea level rise, extreme events, sedimentation decrease, seawater intrusion in coastal aquifers and degradation of specific habitats (e.g., coastal dunes, coastal cliffs or coastal terraces) adds to the enhanced environmental risks in coastal regions (<em>Cramer et al.</em>, 2019). Coastal wetlands, such as the Camargue (France), the Nile Delta (Egypt) and other similar regions, are particularly affected. In addition, construction activities in coastal regions, sand erosion and instabilities in beaches have destructive effects on fauna and flora and, particularly, on endemic species (e.g., monk seals and loggerhead sea turtles).</p>
+
+
+
+<h2 class="wp-block-heading">Freshwater Ecosystems and Mediterranean Wetlands</h2>
+
+
+
+<p>Decreasing water levels in inland waters and lakes, reduced river flows and deteriorating water quality caused by climate changes and (largely) human activities lead to severe adverse impacts on freshwater ecosystems and Mediterranean wetlands. To enable protection against flooding and variable stream flow, communities and countries have engaged in building dykes and dams, which influence freshwater ecosystems. The responses of stream/river biota to climate change include shifts of organisms to higher latitudes and/or elevations and subsequent changes of community composition (Cramer et al., 2019).</p>
+
+
+
+<p>Inland wetlands are particularly vulnerable to climate change, but also to human activities, which alter flooding regimes and affect the vital rates, abundance and distributions of wetland-dependent species. In semi-arid environments of the eastern and southern Mediterranean, wetlands represent hotspots of biological diversity and productivity; however, climate change causes high risks of species extinction if runoff decreases and the wetland dries out (Zacharias and Zamparas, 2010).</p>
+
+
+
+<h1 class="wp-block-heading">Conclusions</h1>
+
+
+
+<p>As explained in the previous sections, the Mediterranean region is rightly considered a climate change hot spot when compared to other regions of the world (Giorgi, 2006). Thus, the magnitude and extent of changes in major climatic parameters (most notably temperatures and precipitation) exceed present global mean values and are expected to lie above projected mean changes in the next decades. Drivers of these changes are diverse and numerous, including population growth and increasing urbanization, changes in land use and steadily growing emissions of greenhouse gases, to name but a few.</p>
+
+
+
+<p>When looking at future projections of climate change in more detail, it becomes clear that despite a general trend of increasing (summer) temperatures and a decrease in precipitation, significant sub-regional manifestations of these changes are to be expected (see, e.g., Zittis et al., 2019). Impacts of these changes are significant and have a bearing on the occurrence, magnitude and frequency of extreme events as well as on various environmental compartments of the Mediterranean. While heat waves in the Mediterranean Basin have been observed to occur more frequently and at increasing duration since the 1950s, future projections indicate a significant increase, particularly in countries of the eastern and southern Mediterranean. Similar trends have been projected for droughts, which are caused by the extended absence of any precipitation in a given region or locale. Despite its general character as semi-arid to arid, the Mediterranean Basin has seen multiple and severe flooding, following extreme precipitation events. Future floods are expected to be scarcer in the southern and eastern Mediterranean and more frequently observed than at present in the northern rim countries.</p>
+
+
+
+<p>Increasing water scarcity as a result of decreasing precipitation and increasing demand represents the dominant driver for many of the environmental impacts of climate change in the region. Particularly the need for additional irrigation water presents serious threats to food security in many countries and may lead to further enhanced diversion of environmental water to human use. The rich biodiversity of terrestrial and marine ecosystems in the Mediterranean is under threat as a consequence of climate change and increasing human interference. Changes in ecosystem structure and shifts in distribution can be considered as autonomous adaptation, but will leave their traces in the overall health and well-being of Mediterranean ecosystems. Coastal ecosystems, being positioned at the boundary between land and sea, are equally threatened by climate change impacts and the consequences of an ever-increasing rate of urbanization in coastal regions. Droughts and heat waves leave their traces on freshwater ecosystems and inland wetlands, resulting in shifts of organisms to higher latitudes and/or elevations and affecting the vital rates, abundance and distributions of wetland-dependent species.</p>
+
+
+
+<p>It is important to understand that ecosystems are closely interconnected and frequently react to climate and environmental changes through synergistic feedback loops. Thus, to gain a more comprehensive understanding of the impacts of these changes requires holistic, pan-Mediterranean considerations. This is also important at a higher level, when prospective threats to water and food security in the Mediterranean are concerned. Given the role of energy generation and its related emission of greenhouse gases, on the one hand, and the importance of energy provision for the water and food sector as well as for an enhanced demand for space cooling in urban structures, on the other, understanding the nexus between water and energy (and food) becomes obvious and essential (see, e.g., Lange, 2019). Only if we adopt such a comprehensive and holistic approach will we have a realistic chance of reducing or at least adapting efficiently to the adverse impacts of climate change on Mediterranean communities and ecosystems in the coming decades.</p>
+
+
+
+<h1 class="wp-block-heading">Notes</h1>
+
+
+
+<p><a href="#_ftnref1"><sup>[1]</sup></a> The Mediterranean countries are usually grouped in different categories as follows: European Union Mediterranean Group: Croatia, Cyprus, France, Greece, Italy, Malta, Monaco, Slovenia, Spain; Western Balkans and Turkey Group: Albania, Bosnia and Herzegovina, Montenegro, Turkey; European Neighborhood Policy (ENP) South Group: Algeria, Egypt, Israel, Jordan, Lebanon, Libya, Morocco, Palestine, Syria, Tunisia</p>
+
+
+
+<p><a href="#_ftnref2"><sup>[2]</sup></a> In a different categorization, the report by Ben Jannet Allal et al.(2016) introduces the following groups of Mediterranean countries: Southern and Eastern Mediterranean Countries (SEMCs): Algeria, Egypt, Israel, Lebanon, Libya, Morocco, Syria, Palestinian Territories, Tunisia, and Turkey. Northern Mediterranean Countries (NMCs): Bosnia-Herzegovina, Cyprus, Croatia, Spain, France, Italy, Greece, Malta, Monaco, and Slovenia</p>
+
+
+
+<h1 class="wp-block-heading">References</h1>
+
+
+
+<p>Ben Jannet Allal, H.;L. Guarrera;S. Karbuz; E. Menichetti; B. Lescoeur; H. El Agrebi; H. Harrouch; D. Campana; F. Greaume; C. Bedes; C. Bolinches; T. Meraud; D. Tappero; D. Bosseboeuf; B. Lechevin; H. Abaach; M. Damasiotis; M. Darras; M. Hajjaji; A. Keramane; E. Khalfallah; A. Mourtada and N. Osman, <em>Mediterranean energy transition: 2040 scenario Executive summary</em>, France, INIS-FR&#8211;16-0968, 40 pp., 2016. <a href="http://inis.iaea.org/search/search.aspx?orig_q=RN:47106375">http://inis.iaea.org/search/search.aspx?orig_q=RN:47106375</a>.</p>
+
+
+
+<p>Brauch, H. G.; P. H. Liotta; A. Marquina; P. F. Rogers and M. E.-S. Selim (eds.), <em>Security and Environment in the Mediterranean </em>Springer-Verlag Berlin, Heidelberg, Germany, 1134 pp., 2003, doi: 10.1007/978-3-642-55854-2.</p>
+
+
+
+<p>Cavicchia, L.; E. Scoccimarro; S. Gualdi; P. Marson; B. Ahrens; S. Berthou; D. Conte; A. Dell’Aquila; P. Drobinski; V. Djurdjevic; C. Dubois; C. Gallardo; L. Li; P. Oddo; A. Sanna and C. Torma, &#8220;Mediterranean extreme precipitation: a multi-model assessment.&#8221; <em>Climate Dynamics</em>, 51 (3), 901-913, 2018, doi: 10.1007/s00382-016-3245-x.</p>
+
+
+
+<p>Cramer, W.; J. Guiot; M. Fader; J. Garrabou; J.-P. Gattuso; A. Iglesias; M. A. Lange; P. Lionello; M. C. Llasat; S. Paz; J. Peñuelas; M. Snoussi; A. Toreti; M. N. Tsimplis and E. Xoplaki,&#8221;Climate change and interconnected risks to sustainable development in the Mediterranean.&#8221; <em>Nature Climate Change</em>, 8 (11), 972-980, 2018, doi: 10.1038/s41558-018-0299-2.</p>
+
+
+
+<p>Cramer, W.;J. Guiot and K. Marini, <em>Risks associated to climate and environmental changes in the Mediterranean region &#8211; A preliminary assessment by the MedECC Network Science-policy interface</em>, MedECC, Marseille, France, 36 pp., 2019.</p>
+
+
+
+<p>European Environment Agency, <em>Mediterranean Sea region briefing &#8211; The European environment — state and outlook 2015</em>, European Environment Agency, Source: www.eea.europa.eu/soer/2015/countries/mediterranean, Access date: 25.06.2020, 2015.</p>
+
+
+
+<p>FAO and Plan Bleu, <em>State of Mediterranean Forests 2018</em>, Food and Agriculture Organization of the United Nations, Rome and Plan Bleu, Marseille, France, 331 pp., 2018.</p>
+
+
+
+<p>Giorgi, F., &#8220;Climate change Hot-Spots.&#8221; <em>Geophys. Res. Lett.</em>, 33, L08707, 2006, doi: 10.1029/2006GL025734.</p>
+
+
+
+<p>IPCC 2014, <em>Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, R.K. Pachauri and L.A. Meyer (eds.)]</em>; IPCC, Geneva, Switzerland, 151 pp, 2015.</p>
+
+
+
+<p>Jacob, D.; J. Petersen; B. Eggert; A. Alias; O. B. Christensen; L. M. Bouwer; A. Braun; A. Colette; M. Déqué; G. Georgievski; E. Georgopoulou; A. Gobiet; L. Menut; G. Nikulin; A. Haensler; N. Hempelmann; C. Jones; K. Keuler; S. Kovats; N. Kröner; S. Kotlarski; A. Kriegsmann; E. Martin; E. van Meijgaard; C. Moseley; S. Pfeifer; S. Preuschmann; C. Radermacher; K. Radtke; D. Rechid; M. Rounsevell; P. Samuelsson; S. Somot; J.-F. Soussana; C. Teichmann; R. Valentini; R. Vautard; B. Weber and P. Yiou, &#8220;EURO-CORDEX: new high-resolution climate change projections for European impact research.&#8221; <em>Regional Environmental Change</em>, 14 (2), 563-578, 2014, doi: 10.1007/s10113-013-0499-2.</p>
+
+
+
+<p>Jiménez, C.; L. Hadjioannou; A. Petrou; A. Nikolaidis; M. Evriviadou and M. A. Lange, &#8220;Mortality of the scleractinian coral Cladocora caespitosa during a warming event in the Levantine Sea (Cyprus).&#8221; <em>Regional Environmental Change</em>, 16 (7), 1963-1973, 2016, doi: 10.1007/s10113-014-0729-2.</p>
+
+
+
+<p>Lange, M. A., &#8220;Impacts of Climate Change on the Eastern Mediterranean and the Middle East and North Africa Region and the Water–Energy Nexus.&#8221; <em>Atmosphere</em>, 10 (8), 455, 2019, doi: 10.3390/atmos10080455.</p>
+
+
+
+<p>Llasat, M. C.; M. Llasat-Botija; M. A. Prat; F. Porcú; C. Price; A. Mugnai; K. Lagouvardos; V. Kotroni; D. Katsanos; S. Michaelides; Y. Yair; K. Savvidou and K. Nicolaides, &#8220;High-impact floods and flash floods in Mediterranean countries: the FLASH preliminary database.&#8221; <em>Adv. Geosci.</em>, 23, 47-55, 2010, doi: 10.5194/adgeo-23-47-2010.</p>
+
+
+
+<p>Michaelides, S.; T. Karacostas; J. L. Sánchez; A. Retalis; I. Pytharoulis; V. Homar; R. Romero; P. Zanis; C. Giannakopoulos; J. Bühl; A. Ansmann; A. Merino; P. Melcón; K. Lagouvardos; V. Kotroni; A. Bruggeman; J. I. López-Moreno; C. Berthet; E. Katragkou; F. Tymvios; D. G. Hadjimitsis; R.-E. Mamouri and A. Nisantzi,&#8221;Reviews and perspectives of high impact atmospheric processes in the Mediterranean.&#8221; <em>Atmospheric Research</em>, 208, 4-44, 2018, doi: <a href="https://doi.org/10.1016/j.atmosres.2017.11.022">https://doi.org/10.1016/j.atmosres.2017.11.022</a>.</p>
+
+
+
+<p>Molina, M. O.;E. Sánchez and C. Gutiérrez, &#8220;Future heat waves over the Mediterranean from an Euro-CORDEX regional climate model ensemble.&#8221; <em>Scientific Reports</em>, 10 (1), 8801, 2020, doi: 10.1038/s41598-020-65663-0.</p>
+
+
+
+<p>Plan Bleu and European Investment Bank, <em>Climate Change and Energy in the Mediterranean</em>, Sophia Antipolis, France, 572 pp., 2008. <a href="https://www.eib.org/attachments/country/climate_change_energy_mediterranean_en.pdf">www.eib.org/attachments/country/climate_change_energy_mediterranean_en.pdf</a>.</p>
+
+
+
+<p>Quintana Seguí, P.; E. Martin; E. Sanchez; M. Zribi; M. Vennetier; S. M. Vicente-Serrano and J. P. Vidal, &#8220;Drought: Observed trends, future projections.&#8221; in <em>The Mediterranean under climate change</em>, Thiebault, S. and&nbsp; J.P. Moatti (eds.); IRD Editions, Marseille, pp. 123-131, 2016.</p>
+
+
+
+<p>Ritchie, H. and M. Roser, &#8220;CO₂ and Greenhouse Gas Emissions.&#8221; Published online at OurWorldInData.org, Source: <a href="https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions">https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions</a>, Access date: 10.07.2020, 2017.</p>
+
+
+
+<p>Russo, S.;J. Sillmann and E. Fischer, &#8220;Top ten European heatwaves since 1950 and their occurrence in the coming decades.&#8221; <em>Environmental Research Letters</em>, 10, 124003, 2015, doi: 10.1088/1748-9326/10/12/124003.</p>
+
+
+
+<p>Tramblay, Y. and S. Somot, &#8220;Future evolution of extreme precipitation in the Mediterranean.&#8221; <em>Climatic Change</em>, 151 (2), 289-302, 2018, doi: 10.1007/s10584-018-2300-5.</p>
+
+
+
+<p>UNEP/MAP-Plan Bleu, <em>State of the Environment and Development in the Mediterranean</em>, Athens, Greece, 204 pp., 2009. <a href="http://planbleu.org/sites/default/files/publications/soed2009_en.pdf">http://planbleu.org/sites/default/files/publications/soed2009_en.pdf</a>.</p>
+
+
+
+<p>UNEP/MAP, <em>State of the Mediterranean Marine and Coastal Environment</em>, UNEP/MAP – Barcelona Convention, Athens, Greece, 96 pp., 2012. <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/364/sommcer_eng.pdf?sequence=4&amp;isAllowed=y">https://wedocs.unep.org/bitstream/handle/20.500.11822/364/sommcer_eng.pdf?sequence=4&amp;isAllowed=y</a>.</p>
+
+
+
+<p>World Bank, Population estimates and projections in World Bank Open Data [online]. Washington, D.C., USA, Source: <a href="https://datacatalog.worldbank.org/dataset/population-estimates-and-projections">https://datacatalog.worldbank.org/dataset/population-estimates-and-projections</a>, Access date: 20.06.2020, 2015.</p>
+
+
+
+<p>Zacharias, I. and M. Zamparas, &#8220;Mediterranean temporary ponds. A disappearing ecosystem.&#8221; <em>Biodiversity and Conservation</em>, 19 (14), 3827-3834, 2010, doi: 10.1007/s10531-010-9933-7.</p>
+
+
+
+<p>Zhang, X.; L. Alexander; G. C. Hegerl; P. Jones; A. K. Tank; T. C. Peterson; B. Trewin and F. W. Zwiers, &#8220;Indices for monitoring changes in extremes based on daily temperature and precipitation data.&#8221; <em>WIREs Climate Change</em>, 2 (6), 851-870, 2011, doi: 10.1002/wcc.147.</p>
+
+
+
+<p>Zittis, G.; P. Hadjinicolaou; M. Klangidou; Y. Proestos and J. Lelieveld, &#8220;A multi-model, multi-scenario, and multi-domain analysis of regional climate projections for the Mediterranean.&#8221; <em>Regional Environmental Change</em>, 2019, doi: 10.1007/s10113-019-01565-w.</p>
+
+
+
+<p>Zittis, G.;P. Hadjinicolaou and J. Lelieveld, &#8220;Role of soil moisture in the amplification of climate&nbsp;warming in the eastern Mediterranean and&nbsp;the Middle East.&#8221; <em>Climate Research</em>, 59 (1), 27-37, 2014, doi: 10.3354/cr01205.</p>
+						</article>
+						<div class="afkar-actions">
+							<div class="columns">
+								<div class="column">
+																			<a href="https://www.iemed.org/publication/the-role-of-the-military-in-middle-east-north-africa-protest-movements-of-2019/" class="sidebar-links__link">Read previous article</a>
+																	</div>
+								<div class="column">
+																			<a href="https://www.iemed.org/publication/the-economic-impacts-of-climate-change-in-the-mediterranean/" class="sidebar-links__link">Read next article</a>
+																	</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+
+			<aside>
+				<div class="container">
+					<div class="medyearbook-issues">
+						<h2>Other issues</h2>
+					</div>
+					<div class="other-issues other-issues--yearbook" style="opacity: 0">
+						<div class="other-issues__bg-back"></div>
+						<div class="other-issues__bg-forward"></div>
+						<div class="other-issues__list">
+																			<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2024/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2024</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2023/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2023</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2022/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2022</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2021/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2021</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2020/" data-is-current-edition="1" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2020</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2019/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2019</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2018/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2018</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2017/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2017</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2016/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2016</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2015/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2015</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2014/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2014</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2013/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2013</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2012/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2012</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2011/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2011</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2010/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2010</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2009/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2009</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2008/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2008</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2007/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2007</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2006/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2006</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2005/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2005</div>
+								</div>
+							</a>
+													<a href="https://www.iemed.org/med-yearbook/iemed-mediterranean-yearbook-2003/" data-is-current-edition="0" data-slide-index="0">
+								<div class="other-issue-card other-issue-card--yearbook">
+									<div class="other-issue-card__type">IEMed Mediterranean Yearbook Editions</div>
+									<div class="other-issue-card__title">2003</div>
+								</div>
+							</a>
+												</div>
+					</div>
+				</div>
+			</aside>
+		</section>
+		</main>
+<!-- footer -->
+<footer class="footer" role="contentinfo">
+	<div class="footer-social">
+		<div class="container">
+			<div class="footer-top-hr"></div>
+			<div class="columns">
+				<div class="column d-flex align-items-center">
+					<div>
+						<h3>Stay informed</h3>
+<p>Sign up for our newsletter in English and be up-to-date with upcoming events and publications.</p>
+						<!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup">
+	<form action="https://iemed.us6.list-manage.com/subscribe/post?u=7128d75a13&amp;id=1dc75dbe6e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+		<div id="mc_embed_signup_scroll">
+			<div class="footer-mailform mt-20">
+				<div>
+					<input type="text" name="FNAME" class="mailform-input mb-20" placeholder="NAME">
+				</div>
+				<div>
+					<input type="text" name="LNAME" class="mailform-input mb-20" placeholder="SURNAME">
+				</div>
+				<div>
+					<input type="email" name="EMAIL" class="mailform-input mb-20" placeholder="EMAIL">
+				</div>
+				<input type="hidden" value="html" name="EMAILTYPE">
+			</div>
+			<div id="mce-responses" class="clear">
+				<div class="response" id="mce-error-response" style="display:none"></div>
+				<div class="response" id="mce-success-response" style="display:none"></div>
+			</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+			<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7128d75a13_1dc75dbe6e" tabindex="-1" value=""></div>
+			<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn-link btn-link--large btn-link--wide btn-link--black mt-20 mb-30"></div>
+		</div>
+	</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='text';fnames[4]='MMERGE4';ftypes[4]='text';fnames[5]='MMERGE5';ftypes[5]='phone';fnames[6]='MMERGE6';ftypes[6]='phone';fnames[7]='MMERGE7';ftypes[7]='address';fnames[8]='LANG';ftypes[8]='radio';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+						<p>In addition, sign up for our thematic newsletter on <span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">Migrations in the<span class="r-18u37iz"> Euro-Mediterranean regio</span>n:<a href="https://www.iemed.org/euromed-insights-migration/"> EuroMed Insights Migrations</a></span></p>
+					</div>
+				</div>
+				<div class="column d-flex align-items-center">
+<!--					<a href="#" class="btn-link btn-link--white">Sign me up</a>-->
+				</div>
+				<div class="column d-flex align-items-center">
+										<ul class="footer-social-icons">
+												<li>
+														<a href="https://twitter.com/iemed_" target="_blank">
+																<span class="ico ico--t"></span>
+															</a>
+												</li>
+												<li>
+														<a href="https://www.facebook.com/iemed" target="_blank">
+																<span class="ico ico--f"></span>
+															</a>
+												</li>
+												<li>
+														<a href="https://www.youtube.com/user/IEMedBarcelona" target="_blank">
+																<span class="ico ico--y"></span>
+															</a>
+												</li>
+												<li>
+														<a href="https://www.instagram.com/iemed_bcn/" target="_blank">
+																<span class="ico ico--i"></span>
+															</a>
+												</li>
+												<li>
+														<a href="https://www.linkedin.com/company/european-institute-of-the-mediterranean/?originalSubdomain=es" target="_blank">
+																<span class="ico ico--l"></span>
+															</a>
+												</li>
+											</ul>
+									</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer-main">
+
+		<div class="container">
+			<div class="columns">
+
+				<div class="column is-8">
+					<div class="columns">
+						<div class="column is-hidden-mobile">
+							<h4>Research</h4>
+							<ul id="menu-footer-menu-research" class="menu"><li id="menu-item-12104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12104"><a href="https://www.iemed.org/topic/politics-and-cooperation/">Politics &#038; Cooperation</a></li>
+<li id="menu-item-12105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12105"><a href="https://www.iemed.org/topic/gender-equality/">Gender Equality</a></li>
+<li id="menu-item-12106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12106"><a href="https://www.iemed.org/topic/sustainability-energy-climate/">Sustainability, Energy &#038; Climate</a></li>
+<li id="menu-item-12129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12129"><a href="https://www.iemed.org/topic/security/">Security</a></li>
+<li id="menu-item-12130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12130"><a href="https://www.iemed.org/topic/migration-and-mobility/">Migration &#038; Mobility</a></li>
+<li id="menu-item-12131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12131"><a href="https://www.iemed.org/topic/governance-political-reform/">Governance &#038; Political Reform</a></li>
+<li id="menu-item-12132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12132"><a href="https://www.iemed.org/topic/economy-finance/">Economy &#038; Finance</a></li>
+</ul>						</div>
+						<div class="column is-hidden-mobile">
+							<h4>Action lines</h4>
+							<ul id="menu-footer-menu-action-lines" class="menu"><li id="menu-item-12133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12133"><a href="https://www.iemed.org/networks/">Networks</a></li>
+<li id="menu-item-12135" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12135"><a href="https://www.iemed.org/programmes/">Programmes</a></li>
+<li id="menu-item-12134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12134"><a href="https://www.iemed.org/projects/">Projects</a></li>
+</ul>							<ul id="menu-footer-menu-other-links" class="menu"><li id="menu-item-12110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12110"><a href="https://www.iemed.org/events/">EVENTS</a></li>
+<li id="menu-item-12111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12111"><a href="https://www.iemed.org/multimedia/">MULTIMEDIA</a></li>
+<li id="menu-item-12358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12358"><a href="https://www.iemed.org/vision-mission/">ABOUT</a></li>
+</ul>						</div>
+						<div class="column">
+							<h4>More</h4>
+							<ul id="menu-footer-menu-more" class="menu"><li id="menu-item-12136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12136"><a href="https://www.iemed.org/news/">News</a></li>
+<li id="menu-item-101209" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-101209"><a href="https://www.iemed.org/our-podcasts/">Podcasts</a></li>
+<li id="menu-item-12138" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12138"><a href="https://www.iemed.org/pressrelease/">Press</a></li>
+<li id="menu-item-82182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82182"><a href="https://www.iemed.org/touring-exhibitions/">Touring exhibitions</a></li>
+<li id="menu-item-98237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98237"><a href="https://www.iemed.org/transparencia/?lang=ca">Transparency</a></li>
+<li id="menu-item-12137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12137"><a href="https://www.iemed.org/contact/">Contact</a></li>
+</ul>						</div>
+					</div>
+				</div>
+				<div class="column is-4">
+					<h4>Get involved</h4>
+<p>If you are passionate about Euro-Mediterranean relations, we want to hear from you.</p>
+					<a href="https://www.iemed.org/careers/" class="btn-link btn-link--black column is-full-mobile" target="_blank">Jobs & Internships</a>
+					<p class="regular">IEMed is a consortium participated by:</p>
+					<div class="footer-logos">
+																					<a href="https://www.exteriores.gob.es/en/Paginas/index.aspx" target="_blank">								<img src="https://www.iemed.org/wp-content/uploads/2022/03/Ministeri-copia.png" alt="logo"/>
+								</a>															<a href="https://web.gencat.cat/ca/inici/" target="_blank">								<img src="https://www.iemed.org/wp-content/uploads/2022/03/Generalitat-copia.png" alt="logo"/>
+								</a>															<a href="https://www.barcelona.cat/ca/" target="_blank">								<img src="https://www.iemed.org/wp-content/uploads/2022/03/Ajuntament-copia.png" alt="logo"/>
+								</a>																		</div>
+				</div>
+			</div>
+			<hr>
+		</div>
+	</div>
+		<div class="footer-bottom">
+			<div class="container">
+				<a href="https://www.iemed.org"><img src="https://www.iemed.org/wp-content/themes/iemed/src/assets/images/logo-iemed-black.svg" alt="Logo IEMed"></a>
+				<ul>
+					<ul id="menu-footer-bottom-menu-en" class="menu"><li id="menu-item-46940" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46940"><a href="https://www.iemed.org/digital-accessibility/">Accessibility</a></li>
+<li id="menu-item-46941" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46941"><a href="https://www.iemed.org/legal-notice-rules-of-use/">Legal Notice</a></li>
+<li id="menu-item-46942" class="no-after menu-item menu-item-type-custom menu-item-object-custom menu-item-46942"><a href="https://www.iemed.org/privacy-policy/">Privacy</a></li>
+<li class="no-after">Copyright © 2024 IEMed.</li></ul>				</ul>
+			</div>
+		</div>
+</footer>
+<button class="scroll-to-top-button"></button>
+<!-- /footer -->
+
+<link rel='stylesheet' id='ays-pb-min-css' href='https://www.iemed.org/wp-content/plugins/ays-popup-box/public/css/ays-pb-public-min.css?ver=4.9.8' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.iemed.org/wp-content/themes/iemed/dist/app.js?ver=6.5.5" id="main-js"></script>
+</div> <!-- body wrapper -->
+</body>
+</html>

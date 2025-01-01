@@ -1,0 +1,1539 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Mycenaean civilization collapse
+
+Basic location of event: Mediterranean Sea
+
+Specific data/information/context related to event: Mycenaean Greece
+
+Contents
+
+1 Chronology
+2 Identity
+3 History
+   3.1 Early Mycenaean period and Shaft Grave era (c. 1750–1400 BC)
+   3.2 Koine era or Palatial Bronze Age (c. 1400–1200 BC)
+      3.2.1 Involvement in Asia Minor
+   3.3 Collapse or Postpalatial Bronze Age (c. 1200–1050 BC)
+      3.3.1 Initial decline and revival
+      3.3.2 Final collapse and differing trajectories
+      3.3.3 Hypotheses for the collapse
+4 Political organization
+   4.1 Palatial states
+   4.2 Society and administration
+5 Economy
+   5.1 Organization
+   5.2 Large-scale infrastructure
+   5.3 Trade
+6 Religion
+7 Women
+   7.1 Daily life
+   7.2 Religion
+8 Architecture
+   8.1 Palaces
+   8.2 Fortifications
+   8.3 Other architectural features
+9 Warfare
+10 Art and pottery
+    10.1 Metalwork
+    10.2 Vessels
+    10.3 Figures and figurines
+    10.4 Frescoes
+11 Burial practices
+12 Cuisine
+13 Writing
+14 Legacy
+15 Genetic and anthropometric studies
+16 See also
+17 References
+    17.1 Citations
+    17.2 Sources
+18 Further reading
+19 External links
+Mycenaean Greece (or the Mycenaean civilization) was the last phase of the Bronze Age in ancient Greece, spanning the period from approximately 1750 to 1050 BC. It represents the first advanced and distinctively Greek civilization in mainland Greece with its palatial states, urban organization, works of art, and writing system. The Mycenaeans were mainland Greek peoples who were likely stimulated by their contact with insular Minoan Crete and other Mediterranean cultures to develop a more sophisticated sociopolitical culture of their own. The most prominent site was Mycenae, after which the culture of this era is named. Other centers of power that emerged included Pylos, Tiryns, and Midea in the Peloponnese, Orchomenos, Thebes, and Athens in Central Greece, and Iolcos in Thessaly. Mycenaean settlements also appeared in Epirus, Macedonia, on islands in the Aegean Sea, on the south-west coast of Asia Minor, and on Cyprus, while Mycenaean-influenced settlements appeared in the Levant and Italy.
+
+The Mycenaean Greeks introduced several innovations in the fields of engineering, architecture and military infrastructure, while trade over vast areas of the Mediterranean was essential for the Mycenaean economy. Their syllabic script, Linear B, offers the first written records of the Greek language, and their religion already included several deities that can also be found in the Olympic pantheon. Mycenaean Greece was dominated by a warrior elite society and consisted of a network of palace-centered states that developed rigid hierarchical, political, social, and economic systems. At the head of this society was the king, known as a wanax.
+
+Mycenaean Greece perished with the collapse of Bronze Age culture in the eastern Mediterranean, to be followed by the Greek Dark Ages, a recordless transitional period leading to Archaic Greece where significant shifts occurred from palace-centralized to decentralized forms of socio-economic organization (including the extensive use of iron). Various theories have been proposed for the end of this civilization, among them the Dorian invasion or activities connected to the "Sea Peoples". Additional theories such as natural disasters and climatic changes have also been suggested. The Mycenaean period became the historical setting of much ancient Greek literature and mythology, including the Trojan Epic Cycle.
+
+Chronology
+
+Main article: Helladic period
+
+The Bronze Age in mainland Greece is generally termed as the "Helladic period" by modern archaeologists, after Hellas, the Greek name for Greece. This period is divided into three subperiods: The Early Helladic (EH) period (c. 3200–2000 BC) was a time of prosperity with the use of metals and a growth in technology, economy and social organization. The Middle Helladic (MH) period (c. 2000–1700/1675 BC) faced a slower pace of development, as well as the evolution of megaron-type dwellings and cist grave burials. The last phase of Middle Helladic, the Middle Helladic III (c. 1750–1675 BC), along with the Late Helladic (LH) period (c. 1700/1675–1050 BC) roughly coincide with Mycenaean Greece.
+
+The Late Helladic period is further divided into LHI and LHII, both of which coincide with the middle phase of Mycenaean Greece (c. 1700/1675–1420 BC), and LHIII (c. 1420–1050 BC), the period of expansion and decline of the Mycenaean civilization. The transition period from the Bronze Age to the Iron Age in Greece is known as Sub-Mycenaean (c. 1050–1000 BC).
+
+Based on recent research, Alex Knodell (2021) considers the beginning of Mycenaean occupation in Peloponnese in Middle Helladic III (c. 1750–1675 BC), and divides the whole Mycenaean time into three cultural periods: Early Mycenaean (c. 1750–1400 BC), Palatial Bronze Age (c. 1400–1200 BC), and Postpalatial Bronze Age (c. 1200–1050 BC).
+
+Identity
+
+The decipherment of the Mycenaean Linear B script, a writing system adapted for the use of the Indo-European Greek language of the Late Bronze Age, demonstrated the continuity of Greek speech from the second millennium BC into the eighth century BC when a new Phoenician-derived alphabetic script emerged. Moreover, it revealed that the bearers of Mycenaean culture were ethnically connected with the populations that resided in the Greek peninsula after the end of this cultural period. Lastly, the decipherment marked the advent of an Indo-European language in the Aegean region in contrast to unrelated prior languages spoken in adjoining areas. Various collective terms for the inhabitants of Mycenaean Greece were used by Homer in his 8th-century BC epic the Iliad in reference to the Trojan War.
+
+Homer interchangeably used the ethnonyms Achaeans, Danaans, and Argives to refer to the besiegers, and these names appear to have passed down from the time they were in use to the time when Homer applied them as collective terms in his Iliad. There is an isolated reference to a-ka-wi-ja-de in the Linear B records in Knossos, Crete dated to c. 1400 BC, which presumably refers to a Mycenaean (Achaean) state on the Greek mainland.
+
+Egyptian records mention a T(D)-n-j or Danaya (Tanaju) land for the first time c. 1437 BC, during the reign of Pharaoh Thutmoses III (r. 1479–1425 BC). This land is geographically defined in an inscription from the reign of Amenhotep III (r. c. 1390–1352 BC), where a number of Danaya cities are mentioned, which cover the largest part of southern mainland Greece. Among them, cities such as Mycenae, Nauplion, and Thebes have been identified with certainty. Danaya has been equated with the ethnonym Danaoi (Greek: Δαναοί), the name of the mythical dynasty that ruled in the region of Argos, also used as an ethnonym for the Greek people by Homer.
+
+In the official records of another Bronze Age empire, that of the Hittites in Anatolia, various references from c. 1400 BC to 1220 BC mention a country named Ahhiyawa. Recent scholarship, based on textual evidence, new interpretations of the Hittite inscriptions, and recent surveys of archaeological evidence about Mycenaean–Anatolian contacts during this period, concludes that the term Ahhiyawa must have been used in reference to the Mycenaean world (land of the Achaeans), or at least to a part of it. This term may have also had broader connotations in some texts, possibly referring to all regions settled by Mycenaeans or regions under direct Mycenaean political control. Another similar ethnonym, Ekwesh, in twelfth century BC Egyptian inscriptions has been commonly identified with the Ahhiyawans. These Ekwesh were mentioned as a group of the Sea People.
+
+History
+
+Early Mycenaean period and Shaft Grave era (c. 1750–1400 BC)
+
+Scholars have proposed different theories on the origins of the Mycenaeans. According to one theory, Mycenaean civilization reflected the exogenous imposition of archaic Indo-Europeans from the Eurasian steppe onto the pre-Mycenaean local population. An issue with this theory, however, is the very tenuous material and cultural relationship between Aegean and northern steppe populations during the Bronze Age. Another theory proposes that Mycenaean culture in Greece dates back to circa 3000 BC with Indo-European migrants entering a mainly-depopulated area; other hypotheses argue for a date as early as the seventh millennium BC (with the spread of agriculture) and as late as 1600 BC (with the spread of chariot technology). In a 2017 genetic study conducted by Lazaridis et al., "the Minoans and Mycenaeans were genetically similar, [but] the Mycenaeans differed from Minoans in deriving additional ancestry from an ultimate source related to the hunter–gatherers of eastern Europe and Siberia, introduced via a proximal source related to the inhabitants of either the Eurasian steppe or Armenia." However, Lazaridis et al. admit that their research "does not settle th[e] debate" on Mycenaean origins. Historian Bernard Sergent notes that archaeology alone is not able to solve the issue and that the majority of Hellenists believed Mycenaeans spoke a non-Indo-European Minoan language before Linear B was deciphered in 1952.
+
+Notwithstanding the above academic disputes, the mainstream consensus among modern Mycenologists is that Mycenaean civilization began around 1750 BC, earlier than the Shaft Graves, originating and evolving from the local socio-cultural landscape of the Early and Middle Bronze Age in mainland Greece with influences from Minoan Crete. Towards the end of the Middle Bronze Age (c. 1700/1675 BC), a significant increase in the population and the number of settlements occurred. A number of centers of power emerged in southern mainland Greece dominated by a warrior elite society; while the typical dwellings of that era were an early type of megaron buildings, some more complex structures are classified as forerunners of the later palaces. In a number of sites, defensive walls were also erected.
+
+Meanwhile, new types of burials and more imposing ones have been unearthed, which display a great variety of luxurious objects. Among the various burial types, the shaft grave became the most common form of elite burial, a feature that gave the name to the early period of Mycenaean Greece. Among the Mycenaean elite, deceased men were usually laid to rest in gold masks and funerary armor, and women in gold crowns and clothes gleaming with gold ornaments. The royal shaft graves next to the acropolis of Mycenae, in particular the Grave Circles A and B, signified the elevation of a native Greek-speaking royal dynasty whose economic power depended on long-distance sea trade.
+
+During this period, the Mycenaean centers witnessed increased contact with the outside world, especially with the Cyclades and the Minoan centers on the island of Crete. Mycenaean presence appears to be also depicted in a fresco at Akrotiri, on Thera island, which possibly displays many warriors in boar's tusk helmets, a feature typical of Mycenaean warfare. In the early 15th century BC, commerce intensified with Mycenaean pottery reaching the western coast of Asia Minor, including Miletus and Troy, Cyprus, Lebanon, Palestine and Egypt.
+
+Early Mycenaean civilization from the Shaft Grave period generally showcases heavy influence from Minoan Crete in regards to e.g. art, infrastructure and symbols, while also maintaining some Helladic elements as well as some innovations, and some West Asian influences. A difference between Mycenaean and Minoan civilizations is complexity and monumentality; Mycenaean craftsmanship and architecture are more simplified versions of Minoan ones, but are more monumental in size. Later phases of the Mycenaean civilization showcase more sophistication, eventually coming to surpass Minoan Crete after a few centuries.
+
+At the end of the Shaft Grave era, a new and more imposing type of elite burial emerged, the tholos: large circular burial chambers with high vaulted roofs and a straight entry passage lined with stone.
+
+Koine era or Palatial Bronze Age (c. 1400–1200 BC)
+
+Starting in the 15th century BC, the Mycenaeans began to spread their influence throughout the Aegean and Western Anatolia. By c. 1450 BC, the palace of Knossos was ruled by a Mycenaean elite who formed a hybrid Minoan-Mycenaean culture. Mycenaeans also colonized several other Aegean islands, reaching as far as Rhodes. Thus the Mycenaeans became the dominant power of the region, marking the beginning of the Mycenaean 'Koine' era (from Greek: Κοινή, common), a highly uniform culture that spread in mainland Greece and the Aegean.
+
+From the early 14th century BC, Mycenaean trade began to take advantage of the new commercial opportunities in the Mediterranean after the Minoan collapse. The trade routes were expanded further, reaching Cyprus, Amman in the Near East, Apulia in Italy and Spain. From that time period (c. 1400 BC), the palace of Knossos has yielded the earliest records of the Greek Linear B script, based on the previous Linear A of the Minoans. The use of the new script spread in mainland Greece and offers valuable insight into the administrative network of the palatial centers. However, the unearthed records are too fragmentary for a political reconstruction of Bronze Age Greece.
+
+Excavations at Miletus, southwest Asia Minor, indicate the existence of a Mycenaean settlement there already from c. 1450 BC, replacing the previous Minoan installations. This site became a sizable and prosperous Mycenaean center until the 12th century BC. Apart from the archaeological evidence, this is also attested in Hittite records, which indicate that Miletos (Milawata in Hittite) was the most important base for Mycenaean activity in Asia Minor. Mycenaean presence also reached the adjacent sites of Iasus and Ephesus.
+
+Meanwhile, imposing palaces were built in the main Mycenaean centers of the mainland. The earliest palace structures were megaron-type buildings, such as the Menelaion in Sparta, Lakonia. Palaces proper are datable from c. 1400 BC, when Cyclopean fortifications were erected at Mycenae and nearby Tiryns. Additional palaces were built in Midea and Pylos in Peloponnese, Athens, Eleusis, Thebes and Orchomenos in Central Greece and Iolcos, in Thessaly, the latter being the northernmost Mycenaean center. Knossos in Crete also became a Mycenaean center, where the former Minoan complex underwent a number of adjustments, including the addition of a throne room. These centers were based on a rigid network of bureaucracy where administrative competencies were classified into various sections and offices according to specialization of work and trades. At the head of this society was the king, known as wanax (Linear B: wa-na-ka). All powers were vested in him, as the main landlord and spiritual and military leader. At the same time he was an entrepreneur and trader and was aided by a network of high officials.
+
+Involvement in Asia Minor
+
+The presence of Ahhiyawa in western Anatolia is mentioned in various Hittite accounts from c. 1400 to c. 1220 BC. Ahhiyawa is generally accepted as a Hittite term for Mycenaean Greece (Achaeans in Homeric Greek), but a precise geographical definition of the term cannot be drawn from the texts. During this time, the kings of Ahhiyawa were evidently capable of dealing with their Hittite counterparts both on a diplomatic and military level. Moreover, Ahhiyawa achieved considerable political influence in parts of Western Anatolia, typically by encouraging anti-Hittite uprisings and collaborating with local vassal rulers.
+
+Collapse or Postpalatial Bronze Age (c. 1200–1050 BC)
+
+In c. 1250 BC, the first wave of destruction apparently occurred in various centres of mainland Greece for reasons that cannot be identified by archaeologists. In Boeotia, Thebes was burned to the ground, around that year or slightly later. Nearby Orchomenos was not destroyed at this time but was abandoned, while the Boeotian fortifications of Gla display evidence for a targeted destruction as only the four gates and the monumental building, called the Melathron, were burned before the site was abandoned. In the Peloponnese, a number of buildings surrounding the citadel of Mycenae were attacked and burned.
+
+These incidents appear to have prompted the massive strengthening and expansion of the fortifications in various sites. In some cases, arrangements were also made for the creation of subterranean passages which led to underground cisterns. Tiryns, Midea and Athens expanded their defenses with new cyclopean-style walls. The extension program in Mycenae almost doubled the fortified area of the citadel. To this phase of extension belongs the impressive Lion Gate, the main entrance into the Mycenaean acropolis.
+
+It appears that after this first wave of destruction a short-lived revival of Mycenaean culture followed. Mycenaean Greece continues to...
+be mentioned in international affairs, particularly in Hittite records. In c. 1220 BC, the king of Ahhiyawa is again reported to have been involved in an anti-Hittite uprising in western Anatolia. Another contemporary Hittite account reports that Ahhiyawan ships should avoid Assyrian-controlled harbors, as part of a trade embargo imposed on Assyria. In general, in the second half of 13th century BC, trade was in decline in the Eastern Mediterranean, most probably due to the unstable political environment there.
+
+Final collapse and differing trajectories
+
+None of the defence measures appear to have prevented the final destruction and collapse of the Mycenaean states. A second destruction struck Mycenae in c. 1190 BC or shortly thereafter. This event marked the end of Mycenae as a major power. The site was then reoccupied, but on a smaller scale. A recent study suggests that neither of the palaces at Tiryns or Midea were destroyed by an earthquake, and further studies have shown that upwards of fifty arrowheads were found scattered in the destruction debris at Midea perhaps indicating that the destruction was caused by an assault. The palace of Pylos, in the southwestern Peloponnese, was destroyed in c. 1180 BC. The Linear B archives found there, preserved by the heat of the fire that destroyed the palace, mention hasty defence preparations due to an imminent attack without giving any detail about the attacking force.
+
+As a result of this turmoil, specific regions in mainland Greece witnessed a dramatic population decrease, especially Boeotia, Argolis and Messenia. Mycenaean refugees migrated to Cyprus and the Levantine coast. Nevertheless, other regions on the edge of the Mycenaean world prospered, such as the Ionian islands, the northwestern Peloponnese, parts of Attica and a number of Aegean islands. The acropolis of Athens, oddly, appears to have avoided destruction.
+
+Athens and the eastern coast of Attica were still occupied in the 12th century BC, and were not destroyed or abandoned; this points to the existence of new decentralized coastal and maritime networks there. It is attested by the cemetery of Perati that lasted a century and showed imports from Cyclades, Dodecanese, Crete, Cyprus, Egypt and Syria, as well as by the Late Helladic IIIC (c. 1210–1040 BC) cemetery of Drivlia at Porto Rafti; located 2 km west of Perati. This indicates that Attica participated in long-distance trade, and was also incorporated in a mainland-looking network.
+
+The site of Mycenae experienced a gradual loss of political and economic status, while Tiryns, also in the Argolid region, expanded its settlement and became the largest local center during the post-palatial period, in Late Helladic IIIC, c. 1200–1050 BC.
+
+Hypotheses for the collapse
+
+The reasons for the end of the Mycenaean culture have been hotly debated among scholars. At present, there is no satisfactory explanation for the collapse of the Mycenaean palace systems. The two most common theories are population movement and internal conflict. The first attributes the destruction of Mycenaean sites to invaders.
+
+The hypothesis of a Dorian invasion, known as such in Ancient Greek tradition, that led to the end of Mycenaean Greece, is supported by sporadic archaeological evidence such as new types of burials, in particular cist graves, and the use of a new dialect of Greek, the Doric one. It appears that the Dorians moved southward gradually over a number of years and devastated the territory, until they managed to establish themselves in the Mycenaean centers. A new type of ceramic also appeared, called "Barbarian Ware" because it was attributed to invaders from the north. On the other hand, the collapse of Mycenaean Greece coincides with the activity of the Sea Peoples in the Eastern Mediterranean. They caused widespread destruction in Anatolia and the Levant and were finally defeated by Pharaoh Ramesses III in c. 1175 BC. One of the ethnic groups that comprised these people were the Eqwesh, a name that appears to be linked with the Ahhiyawa of the Hittite inscriptions.
+
+Alternative scenarios propose that the fall of Mycenaean Greece was a result of internal disturbances which led to internecine warfare among the Mycenaean states or civil unrest in a number of states, as a result of the strict hierarchical social system and the ideology of the wanax. In general, due to the obscure archaeological picture in 12th–11th century BC Greece, there is a continuing controversy among scholars over whether the impoverished societies that succeeded the Mycenaean palatial states were newcomers or populations that already resided in Mycenaean Greece. Recent archaeological findings tend to favor the latter scenario. Additional theories, concerning natural factors, such as climate change, droughts, or earthquakes have also been proposed. Another theory considers the decline of the Mycenaean civilization as a manifestation of a common pattern for the decline of many ancient civilizations: the Minoan, the Harappan and the Western Roman Empire; the reason for the decline is migration due to overpopulation. The period following the end of Mycenaean Greece, c. 1100–800 BC, is generally termed the "Greek Dark Ages."
+
+Political organization
+
+Reconstruction of the political landscape in c. 1400–1250 BC mainland southern Greece
+
+Mycenaean palatial states, or centrally organized palace-operating polities, are recorded in ancient Greek literature and mythology (e.g., Iliad, Catalogue of Ships) and confirmed by discoveries made by modern archaeologists such as Heinrich Schliemann. Each Mycenaean kingdom was governed from the palace, which exercised control over most, if not all, industries within its realm. The palatial territory was divided into several sub-regions, each headed by its provincial center. Each province was further divided in smaller districts, the damoi. A number of palaces and fortifications appear to be part of a wider kingdom. For instance, Gla, located in the region of Boeotia, belonged to the state of nearby Orchomenos. Moreover, the palace of Mycenae appeared to have ruled over a territory two to three times the size of the other palatial states in Bronze Age Greece. Its territory would have also included adjacent centers, including Tiryns and Nauplion, which could plausibly be ruled by a member of Mycenae's ruling dynasty.
+
+The unearthed Linear B texts are too fragmentary for the reconstruction of the political landscape in Mycenaean Greece and they do not support nor deny the existence of a larger Mycenaean state. On the other hand, contemporary Hittite and Egyptian records suggest the presence of a single state under a "Great King". Alternatively, based on archaeological data, some sort of confederation among a number of palatial states appears to be possible. If some kind of united political entity existed, the dominant center was probably located in Thebes or in Mycenae, with the latter state being the most probable center of power.
+
+Society and administration
+
+The Neolithic agrarian village (6000 BC) constituted the foundation of Bronze Age political culture in Greece. The vast majority of the preserved Linear B records deal with administrative issues and give the impression that Mycenaean palatial administration was highly systematized, featuring thoroughly consistent language, terminology, tax calculations, and distribution logistics. Considering this sense of uniformity, the Pylos archive, which is the best preserved one in the Mycenaean world, is generally taken as a representative one.
+
+Economy
+
+Mycenaean palace amphora, found in the Argolid
+
+Mycenaean stirrup vase found in the acropolis of Ugarit, Eastern Mediterranean (c. 1400–1300 BC)
+
+The Mycenaean economy, given its pre-monetary nature, was a palace economy, focusing on the redistribution of goods, commodities and labor by a central administration. The preserved Linear B records in Pylos and Knossos indicate that the palaces were closely monitoring a variety of industries and commodities, the organization of land management and the rations given to the dependent personnel. The Mycenaean palaces maintained extensive control of the nondomestic areas of production through careful control and acquisition and distribution in the palace industries, and the tallying of produced goods. For instance, the Knossos tablets record c. 80,000–100,000 sheep grazing in central Crete, and the quantity of the expected wool from these sheep and their offspring, as well as how this wool was allocated. The archives of Pylos display a specialized workforce, where each worker belonged to a precise category and was assigned to a specific task in the stages of production, notably in textiles.
+
+Nevertheless, palatial control over resources appears to have been highly selective in spatial terms and in terms of how different industries were managed. Thus, sectors like the production of perfumed oil and bronze materials were directly monitored from the palace, but the production of ceramics was only indirectly monitored. Regional transactions between the palaces are also recorded on a few occasions.
+
+Large-scale infrastructure
+
+The palatial centers organized their workforce and resources for the construction of large scale projects in the fields of agriculture and industry. The magnitude of some projects indicates that this was the result of combined efforts from multiple palatial centers. Most notable of them are the drainage system of the Kopais basin in Boeotia, the building of a large dam outside Tiryns, and the drainage of the swamp in the Nemea valley. Also noticeable is the construction of harbors, such as the harbor of Pylos, that were capable of accommodating large Bronze Age era vessels like the one found at Uluburun. The Mycenaean economy also featured large-scale manufacturing as testified by the extent of workshop complexes that have been discovered, the largest known to date being the recent ceramic and hydraulic installations found in Euonymeia, next to Athens, that produced tableware, textiles, sails, and ropes for export and shipbuilding.
+
+Trade
+
+Gold earring, c. 1600 BC, Louvre Museum
+
+Reconstruction of a Mycenaean ship
+
+Trade over vast areas of the Mediterranean was essential for the economy of Mycenaean Greece. The Mycenaean palaces imported raw materials, such as metals, ivory and glass, and exported processed commodities and objects made from these materials, in addition to local products: oil, perfume, wine, wool and pottery. International trade of that time was not only conducted by palatial emissaries but also by independent merchants.
+
+Based on archaeological findings in the Middle East, in particular physical artifacts, textual references, inscriptions and wall paintings, it appears that Mycenaean Greeks achieved strong commercial and cultural interaction with most of the Bronze Age people living in this region: Canaanites, Kassites, Mitanni, Assyrians, and Egyptians. The 14th century BC Uluburun shipwreck, off the coast of southern Anatolia, displays the established trade routes that supplied the Mycenaeans with all the raw materials and items that the economy of Mycenaean Greece needed, such as copper and tin for the production of bronze products. A chief export of the Mycenaeans was olive oil, which was a multi-purpose product.
+
+Cyprus appears to be the principal intermediary station between Mycenaean Greece and the Middle East, based on the considerable greater quantities of Mycenaean goods found there. On the other hand, trade with the Hittite lands in central Anatolia appears to have been limited. Trade with Troy is also well attested, while Mycenaean trade routes expanded further to the Bosphorus and the shores of the Black Sea. Mycenaean swords have been found as far away as Georgia in the eastern Black Sea coast.
+
+Commercial interaction was also intense with the Italian peninsula and the western Mediterranean. Mycenaean products, especially pottery, were exported to southern Italy, Sicily and the Aeolian Islands. Mycenaean products also penetrated further into Sardinia, as well as southern Spain.
+
+Sporadic objects of Mycenaean manufacture were found in various distant locations, like in Central Europe, such as in Bavaria, Germany, where an amber object inscribed with Linear B symbols has been unearthed. Mycenaean bronze double axes and other objects dating from the 13th century BC have been found in Ireland and in Wessex and Cornwall in England. Anthropologists have found traces of opium in Mycenaean ceramic vases. The drug trade in Mycenaean Greece is traced as early as 1650–1350 BC, with opium poppies being traded in the eastern Mediterranean.
+
+Religion
+
+Temples and shrines are strangely rare in the Mycenaean archaeological sites. Monumental cultic structures are absent at all the palatial centers, with the exception of Mycenae. However, the cultic center of Mycenae seems to have been a later (13th century BC) development. Small shrines have been identified in Asine, Berbati, Malthi and Pylos, while a number of sacred enclosures have been located near Mycenae, Delphi and Amyclae. Linear B records mention a number of sanctuaries dedicated to a variety of deities, at least in Pylos and Knossos. They also indicate that there were various religious festivities including offerings. Written Mycenaean records mention various priests and priestesses who were responsible for specific shrines and temples. The latter were prominent figures in society, and the role of Mycenaean women in religious festivities was also important, just as in Minoan Crete.
+
+The Mycenaean pantheon already included many divinities that were subsequently encountered in Classical Greece, although it is difficult to determine whether these deities had the characteristics and responsibilities that would be attributed to them in later periods. In general, the same divinities were worshipped throughout the Mycenaean palatial world. There may be some indications for local deities at various sites, in particular in Crete. The uniformity of Mycenaean religion is also reflected in archaeological evidence with the phi- and psi-figurines that have been found all over Late Bronze Age Greece.
+
+Poseidon seems to have occupied a place of privilege. He was a chthonic deity, connected with earthquakes (Earth-shaker), but it seems that he also represented the river spirit of the underworld. Paean is probably the precursor of the Greek physician of the gods in Homer's Iliad. He was the personification of the magic-song which was supposed to "heal" the patient. A number of divinities have been identified in the Mycenaean scripts only by their epithets used during later antiquity. For example, "cow-eyed" is a standard Homeric epithet of Hera. Ares appeared under the name Enyalios (assuming that Enyalios is not a separate god). Additional divinities that can be also found in later periods include Hephaestus, Erinyes, Artemis and Dionysos. Zeus also appears in the Mycenaean pantheon, but he was certainly not the chief deity.
+
+A collection of "ladies" or "mistresses", are named in the Mycenaean scripts. As such, Athena appears in an inscription at Knossos as mistress Athena, similar to a later Homeric expression, but in the Pylos tablets she is mentioned without any accompanying word. appears to be an agricultural goddess, possibly related to Demeter of later antiquity, while in Knossos there is the "mistress of the Labyrinth". The "two queens and the king" are mentioned in Pylos. Goddess mentioned may be related to Persephone. A number of Mycenaean divinities seem to have no later equivalents, such as Marineus, Diwia and Komawenteia.
+
+Women
+
+Daily life
+
+By observing Mycenaean wall paintings, scholars have deduced that women during this time often wore long dresses, their hair long, and wore jewelry, most notably beads. Mycenaean beads have long been an aspect of Mycenaean culture that is shrouded in a significant amount of mystery. It is not known for certain why they (men, women, and children) wore them, or why they appear to have been significant to the culture, but beads made of carnelian, lapis lazuli, etc., were known to have been worn by women on bracelets, necklaces, and buttons on cloaks, and were often buried with the deceased.
+
+In later periods of Greek history, seclusion of females from males was common in the household, though scholars have found no evidence of seclusion during Mycenaean times, and believe that males and females worked with and around each other on a regular basis. Not much is known about women's duties in the home or whether they differed from the duties of men. And though men were involved in warfare and hunting, there is no evidence that suggests women ever took part in either of the two, though whether women took part in hunting has been up for debate amongst some historians. There is evidence that, in this patriarchal society, men and women were, in some respects, viewed equally. Mycenae practiced a system of rationing food to citizens, and evidence shows that women received the same amount of rations as men.
+
+If women were not officials in the cult or married to high-ranking male officers, they were likely low-ranking laborers. Linear B details specialized groups of female laborers called "workgroups". These women labored with other women as well as their children, and usually were located close to the palace. Women who belonged to workgroups did not belong to independent households, but were managed and fed by palace scribes. All of the women in a workgroup would serve the same occupation, such as textiles. Women in workgroups are not believed to have been able to acquire land holdings or have had economic independence of any kind, and are believed by some to have been slaves, though there are some conflicting debates among scholars concerning this. Though scholars are unsure if ordinary women could obtain land and exert economic power, there is evidence that women could obtain positions of power, such as the title of priestess, which allowed them to have land holdings, have elite connections, and high social status. Mycenaean society is believed to have been largely patriarchal, but women could exert social and economic power through titles and positions of power, like that of a priestess, though religion was not the only place that a woman could gain social authority. Women with special talents or skills, such as being a skilled midwife or craftswomen, could gain social authority in their villages, but are not believed to have been able to receive land holdings. Elite women (those who were married to male elites) were afforded benefits fitting their high social standing, but even the wife of elites could not own land and had no economic independence. Some scholars believe that Knossos was probably more equal in relation to gender than Pylos, though the evidence for this is little and is highly disputed.
+
+Religion
+
+Men and women alike were involved in cult activity. Some women could be elevated to becoming legally independent by becoming priestesses, which appears to be hereditary through both the male and female line. No woman in Mycenae is believed to have been able to "own" land at this time, but priestesses were women who could legally procure land. Through the cult, land was "leased" to them, rather than given to them in ownership. Along with land holding benefits, priestesses often had ties with the upper-class elites, and were usually wealthy themselves. Only a small number of women could become priestesses in Mycenae, but there were other cultic titles that women could aspire to obtain, such as that of Key-bearer. Key-bearers appear to be women who had authority over the sacred treasury of a particular deity, and were able to dispense it in times of need. Though scholars do not have enough evidence to suggest that all Key-bearers could own land and had high status, there is a written record in Linear B of a Key-bearer with elite ties who owned land, so it is possible that they had similar benefits to priestesses. Other religious roles filled by women were the three types of sacred slaves: slave of the God, slave of the Priestess, and slave of the Key-bearer. Though not as grand a title as that of Priestess of Key-Bearer, the sacred slaves were allotted certain benefits fitting their positions in the cult. One other documented position women filled in the cult was called ki-ri-te-wi-ja. Though documented, scholars are not certain exactly what the duties of this role entailed, or what type of women would have filled it. What they do know, however, is that these religious roles afforded the women who occupied them a certain amount of economic autonomy.
+
+Architecture
+
+Palaces
+
+The palatial structures at Mycenae, Tiryns and Pylos were erected on the summits of hills or rocky outcrops, dominating the immediate surroundings. The best preserved are found in Pylos and Tiryns, while Mycenae and the Menelaion are only partially preserved. In Central Greece, Thebes and Orchomenos have been only partially exposed. On the other hand, the palace built at the acropolis of Athens has been almost completely destroyed. A substantial building at Dimini in Thessaly, possibly ancient Iolcos, is believed by a number of archaeologists to be a palace. A Mycenaean palace has been also unearthed in Laconia, near the modern village of Xirokambi.
+
+The palatial structures of mainland Greece share a number of common features. The focal point of the socio-political aspect of a Mycenaean palace was the megaron, the throne room. It was laid out around a circular hearth surrounded by four columns. The throne was generally found on the right-hand side upon entering the room, while the interior of the megaron was lavishly decorated, flaunting images designed intentionally to demonstrate the political and religious power of the ruler. Access to the megaron was provided through a court, which was reached from a propylon. The iconography of the palatial chambers is remarkably uniform throughout Greece. For instance, in Pylos and Tiryns the paintings are focused on marine motifs, providing depictions of octopodes, fish and dolphins. Around the megaron a group of courtyards each opened upon several rooms of different dimensions, such as storerooms and workshops, as well as reception halls and living quarters. In general Mycenaean palaces have yielded a wealth of artifacts and fragmentary frescoes.
+
+Additional common features are shared by the palaces of Pylos, Mycenae and Tiryns; a large court with colonnades lies directly in front of the central megaron, while a second, but smaller, megaron is also found inside these structures. The staircases in the palace of Pylos indicate that the palaces had two stories. The private quarters of the members of the royal family were presumably located on the first floor.
+
+Fortifications
+
+The construction of defensive structures was closely linked to the establishment of the palaces in mainland Greece. The principal Mycenaean centers were well-fortified and usually situated on an elevated terrain, like on the Acropolis of Athens, Tiryns and Mycenae or on coastal plains, in the case of Gla. Mycenaean Greeks in general appreciated the symbolism of war as expressed in defensive architecture, reflected by the visual impressiveness of their fortifications.
+Part of the galleries within the walls of Tiryns  
+Cyclopean is the term normally applied to the masonry characteristics of Mycenaean fortification systems and describes walls built of large, unworked boulders more than 8 m (26 ft) thick and weighing several metric tonnes. They were roughly fitted together without the use of mortar or clay to bind them, though smaller hunks of limestone fill the interstices. Their placement formed a polygonal pattern giving the curtain wall an irregular but imposing appearance. At the top it would have been wide enough for a walkway with a narrow protective parapet on the outer edge and with hoop-like crenellations. The term Cyclopean was derived by the latter Greeks of the Classical era who believed that only the mythical giants, the Cyclopes, could have constructed such megalithic structures. On the other hand, cut stone masonry is used only in and around gateways. Another typical feature of Mycenaean megalithic construction was the use of a relieving triangle above a lintel block—an opening, often triangular, designed to reduce the weight over the lintel. The space was filled with some lighter stone.  
+Cyclopean fortifications were typical of Mycenaean walls, especially at the citadels of Mycenae, Tiryns, Argos, Crisa and Athens, while smaller boulders are found in Midea and large limestone slabs are found at Gla. In the Mycenaean settlements found in Epirus and Cyprus, Cyclopean-style walls are also present, as well as in western Anatolia. Besides the citadels, isolated forts were also erected on various strategic locations. The fortification systems also incorporated technical refinements such as secret cisterns, galleries, sally ports and projecting bastions for the protection of gateways. On the other hand, the palace of Pylos, although a major center of power, paradoxically appears to have been left without any defensive walls.  
+Mycenaean domestic architecture originates mainly from earlier Middle Helladic traditions (c. 2000–1650 BC) both in shape, as well as in location of settlement. The observed uniformity in domestic architecture came probably as a result of a shared past among the communities of the Greek mainland rather than as a consequence of cultural expansion of the Mycenaean Koine. Moreover, varying sizes of mudbricks were used in the construction of buildings.  
+Contrary to popular belief, some Mycenaean representative buildings already featured roofs made of fired tiles, as in Gla and Midea.  
+The military nature of the Mycenaean Greeks is evident from the numerous weapons unearthed, the use of warrior and combat representations in contemporary art, and the preserved Greek Linear B records. The Mycenaeans invested in the development of military infrastructure, with military production and logistics being supervised directly from the palatial centers. According to the Linear B records in the palace of Pylos, every rural community (the damos) was obliged to supply a certain number of men who had to serve in the army. Similar service was also performed by the aristocracy.  
+Mycenaean armies were initially based on heavy infantry, equipped with spears, large shields and on some occasions, armor. Later in the 13th century BC, Mycenaean warfare underwent major changes both in tactics and weaponry and armed units became more uniform and flexible, while weapons became smaller and lighter. The spear remained the main weapon among Mycenaean warriors, while the sword played a secondary role in combat. Other offensive weapons used were bows, maces, axes, slings and javelins. The precise role and contribution of chariots on the battlefield is a matter of dispute due to the lack of sufficient evidence. It appears that chariots were initially used as fighting vehicles during the 16th to 14th centuries BC, while later, in the 13th century BC, their role was limited to battlefield transport.  
+The boar's tusk helmet was the most identifiable piece of Mycenaean armor in use from the beginning to the collapse of Mycenaean culture. It is also known from several depictions in contemporary art in Greece and the Mediterranean. A representative piece of Mycenaean armor is the Dendra panoply (c. 1450–1400 BC) which consisted of a cuirass of a complete set of armor made up of several elements of bronze. In general, most features of the later hoplite panoply of classical Greek antiquity were already known to Mycenaean Greece. "Figure-of-eight" shields were the most common type of Mycenaean shields. During the Late Mycenaean period, smaller types of shields were adopted, either of completely circular shape, or almost circular with a part cut out from their lower edge.  
+Most of the finest Mycenaean art comes under the immediate suspicion of either being Minoan art actually imported from Crete, or produced on the mainland by Cretan or Cretan-trained artists. This is less true of pottery, although the (very untypical) Mycenaean palace amphora with octopus (NAMA 6725) clearly derives directly from the Minoan "Marine Style", and it ceases to be the case after about 1350 BC. Some works appear to have subjects adjusted to warlike Mycenaean tastes, although the distinctively Minoan subject of bull-leaping also appears. The production of luxury art for, and probably often in, the Minoan palaces was already a well-established tradition when Mycenaean elites became customers, and was perhaps more integrated into Minoan religion and culture than it ever became in Mycenaean Greece.  
+Several important pieces in gold and other metals come from the Gold grave goods at Grave Circles A and B at Mycenae, including the Mask of Agamemnon, Silver Siege Rhyton, Bulls-head rhyton, and gold Nestor's Cup. The chemical compositions of the silver objects indicate that the silver was sourced from several locations. The Theseus Ring, found in Athens, is one of the finest of a number of gold signet rings with tiny multi-figure scenes of high quality, many from the princely Grave Circles A and B at Mycenae. These tend to be regarded as Cretan, as do the carved gemstones also found in elite graves. Though they collected them, the Mycenaean elite did not apparently use Minoan seals for authenticating anything, but treated them as ornaments, at least one prince wearing a collection around his wrists, like modern charm bracelets. Sinclair Hood believed that at the time of the Vaphio burial (c. 1500–1450) "it was broadly speaking possible to classify the finer seals as being of Cretan, the more crudely engraved of mainland manufacture", but that "this criterion no longer applies after the mainland conquest of Crete c. 1450".  
+During the Late Mycenaean period (1400–1200 BC), Mycenaean vessels/pottery exhibited similarities spanning a significant area of the Eastern Mediterranean (i.e., from the Levant to Sicily) and possibly reflecting a form of economic and political union centered at Mycenae. However, the Minoan pottery of Crete during this time remained distinct indicating a degree of autonomy on the island. The Mycenaean Greeks produced in large quantities a variety of diversely-styled vessels such as stirrup jars, large bowls, alabastron, krater and stemmed cups (or kylikes) resembling champagne glasses.  
+Stirrup jars (Linear B: ka-ra-re-u, khlareus; "oil vessel"), specifically, were first invented on the island of Crete during the 16th century BC and used widely by the Mycenaeans from 1400 BC onward for transporting and storing wine and oil; the jars were usually pear-shaped or globular. As for stemmed cups (or kylikes), they evolved from Ephyraean goblets and a large quantity was discovered at a site called the "Potter's Shop" located in Zygouries. Mycenaean drinking vessels such as the stemmed cups contained single decorative motifs such as a shell, an octopus or a flower painted on the side facing away from the drinker. The Mycenaean Greeks also painted entire scenes (called "Pictorial Style") on their vessels depicting warriors, chariots, horses and deities reminiscent of events described in Homer's Iliad. Other items developed by the Mycenaeans include clay lamps, as well as metallic vessels such as bronze tripod cauldrons (or basins). A few examples of vessels in faience and ivory are also known.  
+The Mycenaean period has not yielded sculpture of any great size. The statuary of the period consists for the most part of small terracotta figurines found at almost every Mycenaean site in mainland Greece—in tombs, in settlement debris, and occasionally in cult contexts (Tiryns, Agios Konstantinos on Methana). The majority of these figurines are female and anthropomorphic or zoomorphic.  
+The female figurines can be subdivided into three groups, which were popular at different periods: the Psi and phi type figurines, and the Tau-type. The earliest are the Phi-type, which look like the Greek letter Phi (their arms give the upper body a rounded shape). The Psi-type looks like the letter Psi (these have outstretched upraised arms). The latest (12th century BC) are the Tau-type; these figurines look like the Greek letter Tau (with folded arms at right angles to the body). Most figurines wear a large polos. They are painted with stripes or zigzags in the same manner as the contemporary pottery and presumably made by the same potters. Their purpose is uncertain, but they may have served as both votive objects and toys: some are found in children's graves but the vast majority of fragments are from domestic rubbish deposits.  
+The presence of many of these figurines on sites where worship took place in the Archaic and Classical periods (approximately 200 below the sanctuary of Athena at Delphi, others at the temple of Aphaea on Aegina, at the sanctuary of Apollo Maleatas above Epidauros and at Amyclae near Sparta), suggests both that many were indeed religious in nature, perhaps as votives, but also that later places of worship may well have first been used in the Mycenaean period.  
+Larger male, female or bovine terracotta wheelmade figures are much rarer. An important group was found in the Temple at Mycenae together with coiled clay snakes, while others have been found at Tiryns and in the East and West Shrines at Phylakopi on the island of Melos.  
+The painting of the Mycenaean age was much influenced by that of Minoan painting, and was probably at least initially by Cretan painters. Their style gradually drifts away from that of Crete, and in late periods greatly reduces in quality. Fragments of wall paintings have been found in or around the palaces (Pylos, Mycenae, Tiryns) and in domestic contexts (Zygouries). The largest complete wall painting depicting three female figures, probably goddesses, was found in the so-called "cult center" at Mycenae. Various subjects are represented: hunting, bull leaping (tauromachy), battle scenes, processions, etc. Some scenes may be part of mythological narratives, but if so their meaning eludes us. Other frescoes include geometric or stylised motifs, also used on painted pottery.  
+The usual form of burial during this period was inhumation (burial in the earth, covered by dirt and stones). The earliest Mycenaean burials were mostly in individual graves in the form of a pit or a stone-lined cist and offerings were limited to pottery and occasional items of jewellery. Groups of pit or cist graves containing elite members of the community were sometimes covered by a tumulus (mound) in the manner established since the Middle Helladic. It has been argued that this form dates back to the Kurgan culture; however, Mycenaean burials are in actuality an indigenous development of mainland Greece with the Shaft Graves housing native rulers. Pit and cist graves remained in use for single burials throughout the Mycenaean period alongside more elaborate family graves. The shaft graves at Mycenae within Grave Circles A and B belonging to the same period represent an alternative manner of grouping elite burials. Next to the deceased were found full sets of weapons, ornate staffs as well as gold and silver cups and other valuable objects which point to their social rank.  
+Beginning also in the Late Helladic period are to be seen communal tombs of rectangular form. Nevertheless, it is difficult to establish whether the different forms of burial represent a social hierarchization, as was formerly thought, with the "tholos" being the tombs of the elite rulers, the individual tombs those of the leisure class, and the communal tombs those of the people. Cremations increased in number over the course of the period, becoming quite numerous in the last phase of the Mycenaean era. The tholos was introduced during the early 15th century BC as the new and more imposing form of elite burial. The most impressive tombs of the Mycenaean era are the monumental royal tombs of Mycenae, undoubtedly intended for the royal family of the city. The most famous is the Treasury of Atreus, a tholos. A total of nine of such tholos tombs are found in the region of Mycenae, while six of them belong to a single period (Late Helladic IIA, c. 1400–1300 BC). It has been argued that different dynasties or factions may have competed through conspicuous burial.  
+With respect to Mycenaean cuisine, skewer trays were discovered in Gla, Mycenae, and Pylos. The so-called "souvlaki trays" (or portable grills) used by the Mycenaean Greeks were rectangular ceramic pans that sat underneath skewers of meat. It is not clear whether these trays would have been placed directly over a fire or if the pans would have held hot coals like a portable barbecue pit.  
+In c. 1600 BC, the Mycenaean Greeks borrowed from the Minoan civilization its syllabic writing system (i.e., Linear A) and developed their own syllabic script known as Linear B. The Linear B script was utilized by the Mycenaean palaces in Greece for administrative purposes where economic transactions were recorded on clay tablets and some pottery in the Mycenaean dialect of the Greek language. The Linear B tablets were first discovered in Crete by English archaeologist Sir Arthur Evans c. 1900 and later deciphered by English architect and cryptographer Michael Ventris in 1952. Ventris's discovery of an archaic Greek dialect in the Linear B tablets demonstrated that Mycenaean Greek was "the oldest known Greek dialect, elements of which survived in Homer's language as a result of a long oral tradition of epic poetry." The written records of every Mycenaean region were similar but the scribes sometimes used words that were probably part of their local dialect. The existence of a common language is probably explained by their shared bureaucratic system and writing script.  
+In the 8th century BC, after the end of the so-called Greek Dark Ages, Greece emerged with a network of myths and legends, the greatest of all being that of the Trojan Epic Cycle. In general, the Greeks of Classical antiquity idealized the Mycenaean period as a glorious period of heroes, closeness of the gods and material wealth. The legends of Homer's Epics were especially and generally accepted as part of the Greek past and it was not until the 19th century that scholars began to question Homer's historicity. At this time, German archaeologist Heinrich Schliemann undertook the first modern archaeological excavations in Greece at the site of Mycenae in 1876. Thus, Schliemann set out to prove the historical accuracy of the Iliad by identifying the places described by Homer.  
+As part of the Mycenaean heritage that survived, the names of the gods and goddesses of Mycenaean Greece became major figures of the Olympian Pantheon of later antiquity. Moreover, the language of the Mycenaeans offers the first written evidence of Greek, while a significant part of the Mycenaean vocabulary can also be found in modern English.  
+The Mycenaean Greeks were also pioneers in the field of engineering, launching large-scale projects unmatched in Europe until the Roman period, such as fortifications, bridges, culverts, aqueducts, dams and roads suitable for wheeled traffic. They also made several architectural innovations, such as the relieving triangle. They were also responsible for transmitting a wide range of arts and crafts, especially of Minoan origin. The Mycenaean civilization was in general more advanced compared to the Late Bronze Age cultures of the rest of Europe. Several Mycenaean attributes and achievements were borrowed or held in high regard in later periods, so it would be no exaggeration to consider Mycenaean Greece as a cradle of civilization.  
+There are scholars who identify the Sea Peoples who migrated to the Near East as Mycenaean Greeks. In a 2020 study by Polish historian Łukasz Niesiołowski-Spanò, a group of people known from the Bible – the Levites – were linguistically identified with the Greek term *la-wo (in later Greek laoi) – "the people" or "armed men". Niesiołowski-Spanò concluded that the Levites were a group of Mycenaean Greek mercenaries who managed to settle down in Canaan and integrate with the local population, preserving their own group name.  
+A cephalometric analysis by Argyropoulos et al. (1989) published in The Angle Orthodontist showed remarkable similarity in craniofacial morphology between ancient Greeks (including Mycenaeans) and modern Greeks, suggesting a close affinity, and that the Greek ethnic group remained stable in its cephalic and facial morphology for the last 4,000 years.  
+A craniofacial morphological study by Papagrigorakis et al. (2014) published in Anthropologischer Anzeiger also indicated craniological similarities between modern Greeks and ancient Greeks (including Mycenaeans), indicating continuity.  
+In an archaeogenetic study published in Nature, Lazaridis et al. (2017) found that Minoans and Mycenaean Greeks were genetically highly similar, but not identical; modern Greeks resembled the Mycenaeans, but with some additional dilution of the early Neolithic ancestry. Furthermore, proposed migrations by Egyptian or Phoenician colonists was not discernible in their data, thus "rejecting the hypothesis that the cultures of the Aegean were seeded by migrants from the old civilizations of these regions." The FST between the sampled Bronze Age populations and present-day West Eurasians was estimated, finding that Mycenaean Greeks and Minoans were least differentiated from the populations of modern Greece, Cyprus, Albania, and Italy.  
+A genetic study by Clemente et al. (2021) found that in the Early Bronze Age, the populations of the Minoan, Helladic, and Cycladic civilizations in the Aegean, were genetically homogeneous. In contrast, during the Middle Bronze Age, this population was more differentiated; probably due to gene flow from a Yamnaya-related population from the Pontic–Caspian steppe. This is corroborated by sequenced genomes of Middle Bronze Age individuals from northern Greece, who had a much higher proportion of steppe-related ancestry; the timing of this gene flow was estimated at 2,300 BCE, and is consistent with the dominant linguistic theories explaining the emergence of the Proto-Greek language. Present-day Greeks share about 90% of their ancestry with them, suggesting continuity between the two time periods. In the case of Mycenaeans however, this steppe-related ancestry was diluted. The ancestry of the Mycenaeans could be explained via a 2-way admixture model of such MBA individuals in northern Greece, and either an EBA Aegean or MBA Minoan population.  
+A study by Lazaridis et al. (2022) analysed 21 new Mycenaean samples and one new Minoan sample, along with previously published samples. The study found that Mycenaeans were differentiated from Minoans by an influx of western steppe (Yamnaya-like) ancestry, with Mycenaean samples having approximately 8.6 ± 2% steppe/Yamnaya-like ancestry on average, comprising 4.3 ± 1% Eastern European Hunter-Gatherer (EHG) ancestry on average and an approximately matching amount of Caucasus hunter-gatherer ancestry (4.3 ± 1% on average), though some of the Mycenaeans lacked steppe ancestry altogether. Individual Mycenaean samples from mainland Greece had proportions of EHG ancestry ranging from 0% up to 19 ± 7% at Kastrouli, or 12 ± 2% at the Palace of Nestor. Another Mycenaean individual from Crete, dating from c. 1370 – c. 1340 BC (Crete Armenoi) had 24 ± 6% EHG ancestry. The remaining (non steppe-related) Mycenaean ancestry was similar to that of the Minoans and the Early Bronze Age population of mainland Greece, and elite Mycenaean samples (from the Palace of Nestor at Pylos and its environs) did not differ from the general population in terms of their average ancestral composition. According to Lazaridis et al. these results strongly support the hypothesis that Mycenaeans were the outcome of admixture between descendants of Yamnaya-like steppe migrants and a Minoan-like population, with steppe migrants considered to be Indo-European speakers and progenitors of the Greek language. Minoans were predominantly of Early European Farmer ancestry (74 ± 3% on average), with additional Caucasus Hunter-Gatherer ancestry (18.2 ± 1.2% on average). Lazaridis et al. also identified Levant Pre-Pottery Neolithic ancestry in some Minoan and Mycenaean individuals.  
+In a comment on the study by Lazaridis et al. (2022), Paul Heggarty of the Max Planck Institute expressed doubts regarding the connection between the "small contribution in Mycenaean Greece" of the "ancestral mix of Yamnaya culture" and the steppe as the "earliest, original source" of Indo-European languages.  
+A study by Skourtanioti et al. (2023) generated genome-wide data from 95 Bronze Age individuals from mainland Greece and the Aegean, which was analysed in the context of all previously published samples from the region. Mycenaean (Late Bronze Age) individuals were found to deviate from Early Bronze Age individuals in the direction of Central and Eastern European Bronze Age populations, due to having western steppe-related ancestry not found in the earlier samples. The potential source of this ancestry included related groups from Serbia (Early Bronze Age), Croatia (Middle Bronze Age), Italy (Early and Middle Bronze Age), 'Western Steppe Eneolithic-Bronze Age', and 'Germany Corded Ware'; the latter two were found to be the most adequate sources, but "at the moment it is not possible to more closely identify the region(s) from where this genetic affinity was derived." Using 'Germany Corded Ware' as a source proxy, it was estimated that Mycenaeans from the southern Greek mainland had 22.3% steppe-related ancestry on average, whereas Late Bronze Age individuals from nearby islands and the Cyclades had slightly lower amounts of this ancestry, and one individual from the island of Salamis had none; in Crete, samples dating from the 17th to the 16th centuries BC had minimal or no such steppe-related ancestry, whereas later samples dating from c. 1300 BC varied from 0% to approximately 40% steppe-related ancestry. This influx of steppe-related ancestry was related to Mycenaean domination of the island from the 15th century BC onwards, and was possibly also due in part to later migrations from more distant areas such as Italy.  
+Haplogroups of Mycenaean samples
+1150 BC
+Kastrouli-Desfina, Phokis
+Female
+U3b1
+–
+
+c. 1300 – c. 1250 BC
+Chania, Crete
+Female
+H7c
+–
+
+c. 1300 – c. 1250 BC
+Chania, Crete
+Male
+H4a1
+E1b1b1a1b
+
+c. 1300 – c. 1250 BC
+Chania, Crete
+Female
+H1bm
+–
+
+c. 1300 – c. 1250 BC
+Chania, Crete
+Female
+HV1a'b'c
+–
+
+c. 1300 – c. 1250 BC
+Chania, Crete
+Male
+H
+J2a/J2a1a~
+
+c. 1300 – c. 1250 BC
+Chania, Crete
+Male
+J2b1
+R1b1a1b
+
+c. 1300 – c. 1250 BC
+Chania, Crete
+Male
+K1a4b1
+J2a1a1a2
+
+c. 1300 – c. 1250 BC
+Chania, Crete
+Female
+N1'5
+–
+
+c. 1300 – c. 1250 BC
+Chania, Crete
+Female
+HV1
+–
+
+c. 1300 – c. 1200 BC
+Chania, Crete
+Male
+H1
+G2a2b2a
+
+c. 1300 – c. 1200 BC
+Chania, Crete
+Female
+H1e
+–
+
+c. 1300 – c. 1200 BC
+Chania, Crete
+Female
+H1
+–
+
+c. 1300 – c. 1200 BC
+Chania, Crete
+Female
+H1az
+–
+
+c. 1300 – c. 1200 BC
+Chania, Crete
+Female
+W6
+–
+
+c. 1300 – c. 1200 BC
+Chania, Crete
+Female
+HV4a1+16291
+–
+
+c. 1300 – c. 1200 BC
+Chania, Crete
+Male
+X2
+J2a
+
+c. 1300 – c. 1200 BC
+Chania, Crete
+Female
+H1m
+–
+
+c. 1300 – c. 1200 BC
+Chania, Crete
+Male
+J2b1
+G2a
+
+c. 1200 – c. 1070 BC
+Palace of Nestor, Messenia, Peloponnese
+Male
+N1a1a1a3
+R1b1a1b2a
+
+c. 1200 – c. 1070 BC
+Palace of Nestor, Messenia, Peloponnese
+Male
+?
+R1b1a1b
+
+c. 1200 – c. 1070 BC
+Palace of Nestor, Messenia, Peloponnese
+Male
+X
+R1b1a1b
+
+c. 1175 – c. 1150 BC
+Koukounaries, Paros
+Female
+H5a2
+–
+
+c. 1175 – c. 1150 BC
+Koukounaries, Paros
+Male
+U1a1a
+J1/J1b
+
+c. 1175 – c. 1150 BC
+Koukounaries, Paros
+Female
+J2b1b1
+–
+
+c. 1175 – c. 1150 BC
+Koukounaries, Paros
+Female
+H+16291
+–
+n & Viggiano 2013, p. 36: "In fact, most of the essential items of the "hoplite panoply" were known to Mycenaean Greece, including the metallic helmet and the single thrusting spear."
+
+D'Amato & Salimbeti 2011, p. 20.
+
+Cline 2012, p. 312; Schofield 2006, p. 123.
+
+Hood 1978, pp. 17–18, 23–24.
+
+Wood, J. R.; Hsu, Y-T.; Bell, C. (2021). "Sending Laurion Back to the Future: Bronze Age Silver and the Source of Confusion". Internet Archaeology. 56 (9). doi:10.11141/ia.56.9. S2CID 236973111.
+
+Hood 1978, pp. 227–228 (p. 228 quoted).
+
+Castleden 2005, p. 135.
+
+Castleden 2005, pp. 135–137: "Large kraters decorated in Pictorial Style are found almost exclusively in Cyprus, and for a long time it was naturally assumed that they were manufactured there, but a few examples have been found on the Greek mainland, mostly near Mycenae, and it has now been established that they were all manufactured at workshops close to Mycenae, probably at Berbati just to the east of the city, where there are the right clay sources. The ware was probably specifically made for export to Cyprus, where they were used as centerpieces for drinking ceremonies. The decoration appears to have been painted on at high speed and the effect is sometimes crude, Reynold Higgins calls it 'barbarous', which is a fair description, but the scenes showing warriors, horses and chariots can still tell us much about everyday life in Mycenaean Greece, and as much again about Mycenaean religious beliefs and mythology. One krater from Enkomi in Cyprus shows a charioteer with his groom riding along, perhaps into battle, while a long-robed god, Zeus perhaps, stands in his way holding the scales of destiny that will decide his fate. It is an archetypal scene reminiscent of several in the Iliad, where the gods are shown intervening in battle and deciding the outcome."
+
+Furumark 1941, p. 78: "There are two types of Mycenaean lamps. One of these (type 321) has a broad horizontal lip with two opposite depressions for wicks. This type is the clay version of a Minoan stone lamp, known in many examples both from Crete and from the Mainland. The other (type 321 a) has one wick-spout and a handle at the opposite side."
+
+Castleden 2005, pp. 56, 166.
+
+Schofield 2006, p. 107.
+
+French 1971, pp. 101–187.
+
+See account of their use in K.A. and Diana Wardle "The Child's Cache at Assiros, Macedonia", in Sally Crawford and Gillian Shepherd (eds): Children, Childhood and Society: Institute for Archaeology and Antiquity Interdisciplinary Studies (Volume I) Oxford: Archaeopress, 2007.
+
+Hägg & Marinatos 1981, Robin Hägg, "Official and Popular Cults in Mycenaean Greece", pp. 35–39.
+
+Moore, Taylour & French 1999.
+
+Renfrew, Mountjoy & Macfarlane 1985.
+
+Hood 1978, pp. 77–83; Immerwahr 1990.
+
+Taylour 1969, pp. 91–97; Taylour 1970, pp. 270–280.
+
+Cavanagh & Mee 1998.
+
+Taylour, French & Wardle 2007; Alden 2000.
+
+Pelon 1976.
+
+Hammond 1967, p. 90.
+
+Dickinson 1977, pp. 33–34, 53, 59–60.
+
+Lewartowski 2000.
+
+Dickinson 1977, pp. 53, 107; Anthony 2007, p. 48.
+
+Papadimitriou 2001.
+
+Castleden 2005, p. 97.
+
+Kelder 2010, p. 95.
+
+Graziado 1991, pp. 403–440.
+
+Hruby 2017, "Souvlaki trays", pp. 23–25.
+
+Gannon, Megan (8 January 2014). "Ancient Greeks Used Portable Grills at Their Picnics". Live Science. Retrieved 5 February 2020.
+
+"Linear A and Linear B". Encyclopædia Britannica. Encyclopædia Britannica, Inc. Retrieved 3 March 2016.
+
+"Sir Arthur Evans". Encyclopædia Britannica. Encyclopædia Britannica, Inc. Retrieved 3 March 2016.
+
+"Michael Ventris". Encyclopædia Britannica. Encyclopædia Britannica, Inc. Retrieved 3 March 2016.
+
+Gschnitzer, Fritz; Chaniotis, Angelos (May 2012). Ιστορία της Αρχαίας Ελληνικής Κοινωνίας (in Greek). National Bank of Greece Cultural Foundation. p. 43. ISBN 9789602504802.
+
+Castleden 2005, p. 2.
+
+Hansen 2004, p. 7.
+
+Sansone 2004, "Greece in the Bronze Age", pp. 7–8.
+
+Castleden 2005, p. 235.
+
+Castleden 2005, p. 228.
+
+Vallance, Richard (2015). "Did you Know you Speak Mycenaean Greek? You do!". academia.edu. Retrieved 30 March 2016. "Whether we realize it or not, not only are tens of thousands of English words direct derivatives of ancient Greek, but some are derived even from Mycenaean Greek, which makes them very ancient indeed!"
+
+Castleden 2005, p. 231.
+
+Castleden 2005, p. 230.
+
+Niesiołowski-Spano, Łukasz (2016). Goliath's Legacy. Philistines and Hebrews in Biblical Times. Wiesbaden: Harrassowitz Verlag.
+
+Yasur-Landau, Asaf (2010). The Philistines and Aegean Migration at the End of the Late Bronze Age. Cambridge: CUP.
+
+Niesiołowski-Spano, Łukasz (2020). "The Levites,*ra-wo,λᾶός/λαοί–A new proposal for lexical and historical relationship". Biblica. 101, 3 (3): 444–452. doi:10.2143/BIB.101.3.3288731.
+
+Argyropoulos, E.; Sassouni, V.; Xeniotou, A. (1989). "A comparative cephalometric investigation of the Greek craniofacial pattern through 4,000 years". The Angle Orthodontist. 59 (3): 195–204. ISSN 0003-3219. PMID 2672905.
+
+Papagrigorakis, Manolis J.; Kousoulis, Antonis A.; Synodinos, Philippos N. (1 June 2014). "Craniofacial morphology in ancient and modern Greeks through 4,000 years". Anthropologischer Anzeiger. 71 (3): 237–257. doi:10.1127/0003-5548/2014/0277. ISSN 0003-5548. PMID 25065118.
+
+Lazaridis et al. 2017.
+
+"Ancient DNA analysis reveals Minoan and Mycenaean origins". phys.org. Retrieved 28 July 2021.
+
+Gibbons, Ann (2 August 2017). "The Greeks really do have near-mythical origins, ancient DNA reveals". Science Magazine. Retrieved 5 August 2021.
+
+Gannon, Megan (3 August 2017). "More than Myth: Ancient DNA Reveals Roots of 1st Greek Civilizations". LiveScience. Retrieved 5 August 2021.
+
+Clemente et al. 2021.
+
+Lazaridis 2022a.
+
+Lazaridis et al. 2022b.
+
+Lazaridis 2022a, Fig. 1D.
+
+Lazaridis et al. 2022b, pp. 1–13, Supplementary Materials: pp. 233–241.
+
+Heggarty, Paul (2022). "Redefining Indo European Origins? [eLetter comment on Lazaridis et al. 2022 in Science: 'The genetic history of the Southern Arc: A bridge between West Asia and Europe']". Science.
+
+Skourtanioti et al. 2023: "We found various sources ranging from East Europe, to Central and South Europe adequately fitting most models for the LBA Aegean groups. The smaller and heterogeneous sample of BA Bulgarian individuals or BA Sicily did not fit. Models with Serbia (EBA), Croatia (MBA) and Italy (EMBA) were adequate most of the time, while those with 'W. Eurasian Steppe En-BA' (En, Eneolithic) or some Central European source (for example, Germany LN-EBA 'Corded Ware') were adequate for all groups at the P ≥ 0.01 cutoff. Therefore, at the moment it is not possible to more closely identify the region(s) from where this genetic affinity was derived. Among the groups of the southern mainland, the estimated coefficients of the WES-related ancestry are overlapping (±1 s.e.) and average to 22.3% (Fig. 4a)... Fig. 4... a, Estimated mean coefficient (coeff.) (±1 s.e.) of additional ancestry (WES-related) using as proxy a BA Central European population ('Germany LN-EBA Corded Ware')..."
+
+Skourtanioti et al. 2023: "However, two-way models with all of the above sources as well as 'Mainland MLBA' fit the allele frequencies of all the LBA individuals from Crete ('Crete LBA'). This also applied when we modelled the two clusters from LBA Crete separately (Fig. 4a and Supplementary Table 9) but for the Crete LBA (group C) with high WES ancestry (individuals XAN030, KRO008, KRO009 and published Armenoi), just one source from 'Mainland MLBA' became adequate... A more direct demographic connection can be proposed regarding the LBA Cretan and Greek mainland populations. Following an horizon of destructions targeting palatial centres and elite symbols in Crete (Late Minoan IB), material culture, funerary architecture and burial practices are believed to express innovations with features traditionally ascribed to the Mycenaean culture. On these grounds, an invasion of the island by people from the Greek mainland (around fifteenth century BC) has been proposed but remains highly contested. While unable to settle this debate decisively, the genetic analyses demonstrate that Cretan populations at larger port cities biologically mixed with populations coming to the island during the course of a few centuries. The presence of individuals with some of the highest Western Eurasian Steppe-related ancestry proportions within the Late Bronze Age Aegean (Crete LBA group C), despite fitting with a scenario that the Greek mainland was the only source of incoming people, could also suggest that populations from more distant areas (for example, Italy) contributed to the Crete LBA transition, a possibility that is supported in the material culture as well."
+
+Lazaridis et al. 2022b, Supplementary Materials: Data S1.
+
+Skourtanioti et al. 2023, Supplementary information: pp. 11–31, 39–61, Supplementary Table 2.
+Furumark, Arne (1941). The Mycenaean Pottery: Analysis and Classification. Stockholm: Victor Pettersons Bokindustriaktiebolag.
+
+Graziado, Giampaolo (July 1991). "The Process of Social Stratification at Mycenae in the Shaft Grave Period: A Comparative Examination of the Evidence". American Journal of Archaeology. 95 (3): 403–440. doi:10.2307/505489. JSTOR 505489. S2CID 191350824.
+
+Hägg, Robin; Marinatos, Nannó (1981). Sanctuaries and Cults in the Aegean Bronze Age: Proceedings of the First International Symposium at the Swedish Institute in Athens, 12–13 May, 1980. Stockholm: Svenska Institutet i Athen. ISBN 978-9-18-508643-6.
+
+Hajnal, Ivo; Posch, Claudia (2009). "Graeco-Anatolian Contacts in the Mycenaean Period". Sprachwissenschaft Innsbruck Institut für Sprachen und Literaturen. Retrieved 4 April 2015.
+
+Hammond, Nicholas G.L. (1967). "Tumulus Burial in Albania, the Grave Circles of Mycenae, and the Indo-Europeans". Annual of the British School at Athens. 62: 77–105. doi:10.1017/S006824540001409X. S2CID 163130464.
+
+Hammond, Nicholas G.L. (1976). Migrations and Invasions in Greece and Adjacent Areas. Park Ridge, NJ: Noyes Press. ISBN 978-0-8155-5047-1.
+
+Hansen, William F. (2004). Handbook of Classical Mythology. Santa Barbara, CA: ABC-CLIO. ISBN 978-1-57-607226-4.
+
+Hatzopoulos, Miltiades (2011). "Macedonians and other Greeks". In Fox, Robin Lane (ed.). Brill's Companion to Ancient Macedon: Studies in the Archaeology and History of Macedon, 650 BC – 300 AD. BRILL. ISBN 978-90-04-20650-2.
+
+Hood, Sinclair (1978). The Arts in Prehistoric Greece. Harmondsworth: Penguin (Penguin/Yale History of Art). ISBN 0140561420.
+
+Howard, Dan (2011). Bronze Age Military Equipment. Barnsley: Pen & Sword Military. ISBN 9781848842939.
+
+Hruby, Julie (2017). "3 Finding haute cuisine: Identifying shifts in food styles from cooking vessels". In Hruby, Julie; Trusty, Debra (eds.). From Cooking Vessels to Cultural Practices in the Late Bronze Age Aegean. Oxford and Philadelphia: Oxbow Books. pp. 15–26. ISBN 9781785706325.
+
+Hughes-Brock, Helen (1999). "Mycenaean Beads: Gender and Social Contexts". Oxford Journal of Archaeology. 18 (3): 277–296. doi:10.1111/1468-0092.00084.
+
+Iacovou, Maria (2013). "Chapter Twenty-Two Aegean-Style Material Culture in Late Cypriot III: Minimal Evidence, Maximum Interpretation". In Killebrew, Ann E.; Lehmann, Gunnar (eds.). The Philistines and other "Sea Peoples" in Text and Archaeology. Atlanta, GA: Society of Biblical Literature. pp. 585–618. ISBN 978-1-58-983721-8.
+
+Immerwahr, Sara A. (1990). Aegean Painting in the Bronze Age. University Park: Pennsylvania State University Press. ISBN 978-0-27-100628-4.
+
+Kagan, Donald; Viggiano, Gregory F. (2013). Men of Bronze: Hoplite Warfare in Ancient Greece. Princeton, NJ: Princeton University Press. ISBN 9781400846306.
+
+Kelder, Jorrit M. (2010). "The Kingdom of Mycenae: A Great Kingdom in the Late Bronze Age Aegean". CDL Press. Bethesda, MD. Retrieved 18 March 2015.
+
+Kling, Barbara (1989). Mycenaean IIIC:1b and Related Pottery in Cyprus. Lund: P. Aströms Förlag. ISBN 978-9-18-609893-3.
+
+Knodell, Alex R. (2021). A genetic probe into the ancient and medieval history of Southern Europe and West Asia. Oakland, CA: University of California Press. doi:10.1525/luminos.101. ISBN 978-0-520-38054-7.
+
+Latacz, Joachim (2004). Troy and Homer: Towards a Solution of an Old Mystery. Oxford: Oxford University Press. ISBN 9780199263080.
+
+Lazaridis, Iosif; Mittnik, Alissa; Patterson, Nick; Mallick, Swapan; Rohland, Nadin; Pfrengle, Saskia; Furtwängler, Anja; Peltzer, Alexander; Posth, Cosimo; Vasilakis, Andonis; McGeorge, P. J. P.; Konsolaki-Yannopoulou, Eleni; Korres, George; Martlew, Holley; Michalodimitrakis, Manolis; Özsait, Mehmet; Özsait, Nesrin; Papathanasiou, Anastasia; Richards, Michael; Roodenberg, Songül Alpaslan; Tzedakis, Yannis; Arnott, Robert; Fernandes, Daniel M.; Hughey, Jeffery R.; Lotakis, Dimitra M.; Navas, Patrick A.; Maniatis, Yannis; Stamatoyannopoulos, John A.; Stewardson, Kristin; Stockhammer, Philipp; Pinhasi, Ron; Reich, David; Krause, Johannes; Stamatoyannopoulos, George (2017). "Genetic origins of the Minoans and Mycenaeans". Nature. 548 (7666): 214–218. doi:10.1038/nature23310.
+
+Lazaridis, Iosif; et al. (2022a). "A genetic probe into the ancient and medieval history of Southern Europe and West Asia". Science. 377 (6609): 940–951. doi:10.1126/science.abq0755.
+
+Lazaridis, Iosif; Alpaslan-Roodenberg, Songül; Acar, Ayşe; Açıkkol, Ayşen; et al. (2022b). "The genetic history of the Southern Arc: A bridge between West Asia and Europe". Science. 377 (6609): eabm4247. doi:10.1126/science.abm4247.
+
+Skourtanioti, Eirini; Ringbauer, Harald; Gnecchi Ruscone, Guido Alberto; Bianco, Raffaela Angelina; et al. (16 January 2023). "Ancient DNA reveals admixture history and endogamy in the prehistoric Aegean". Nature Ecology and Evolution. 7 (2): 290–303. doi:10.1038/s41559-022-01952-3.
+
+Lewartowski, Kazimierz (2000). Late Helladic Simple Graves: A Study of Mycenaean Burial Customs (BAR International Series 878). Oxford: Archaeopress. ISBN 978-1-84-171079-2.
+
+Littauer, M.A.; Crouwel, J.H. (1996). "Robert Drews and the Role of Chariotry in Bronze Age Greece". Oxford Journal of Archaeology. 15 (3): 297–305. doi:10.1111/j.1468-0092.1996.tb00087.x.
+
+Moore, A.D.; Taylour, W.D.; French, Elizabeth Bayard (1999). Well Built Mycenae (Volume 10): The Temple Complex. Warminster, England: Aris & Phillips. ISBN 978-1-84-217000-7.
+
+Morris, Ian (1996). "Greece: Dark Age Greece". In Fagan, Brian M. (ed.). The Oxford Companion to Archaeology. Oxford: Oxford University Press. pp. 253–256. ISBN 9780195076189.
+
+Mylonas, George Emmanuel (1961). Eleusis and the Eleusinian Mysteries. Princeton, NJ: Princeton University Press.
+
+Mylonas, George Emmanuel (1966). Mycenae and the Mycenaean Age. Princeton, NJ: Princeton University Press. ISBN 9780691035239.
+
+Nikolaou, Kyriakos (1973). The First Myceneans in Cyprus. Nicosia: Department of Antiquities, Cyprus.
+
+Nilsson, Martin Persson (1940). Greek Popular Religion. New York: Columbia University Press.
+
+Nilsson, Martin Persson (1967). Geschichte der Griechischen Religion. (3rd ed.). Munich: C.H. Beck Verlag.
+
+Olsen, Barbara A. (2015). "The Worlds of Penelope: Women in the Mycenaean and Homeric Economies". Arethusa. 48 (2): 107–138. doi:10.1353/are.2015.0007.
+
+Olsen, Barbara A. (2014). Women in Mycenaean Greece: The Linear B Tablets from Pylos and Knossos. Hoboken, NJ: Taylor and Francis. ISBN 978-1-31-774795-6.
+
+Palaima, Tom (1999). "Mycenaean Militarism from a Textual Perspective". Polemos: Warfare in the Aegean Bronze Age (Aegaeum). 19: 367–378. Retrieved 14 October 2015.
+
+Papadimitriou, Nikolas (2001). Built Chamber Tombs of Middle and Late Bronze Age Date in Mainland Greece and the Islands (BAR International Series 925). Oxford: John and Erica Hedges Ltd. and Archaeopress. ISBN 978-1-84-171170-6.
+
+Pelon, Olivier (1976). Tholoi, Tumuli et Cercles Funéraires. Paris: Diffusion de Boccard. ISBN 9782869583702.
+
+Peruzzi, Emilio (1980). Mycenaeans in Early Latium. Rome: Edizioni dell'Ateneo & Bizzarri.
+
+Petrie, Sir William Matthew Flinders (1894). Tell el-Amarna. London: Methuen & Co.
+
+Renfrew, Colin; Mountjoy, Penelope A.; Macfarlane, Callum (1985). The Archaeology of Cult: The Sanctuary at Phylakopi. London: British School of Archaeology at Athens. ISBN 978-0-50-096021-9.
+
+Ridgway, David (1992). The First Western Greeks. Cambridge and New York: Cambridge University Press. ISBN 978-0-52-142164-5.
+
+Runnels, Curtis Neil; Murray, Priscilla (2001). Greece before History: An Archaeological Companion and Guide. Stanford, CA: Stanford University Press. ISBN 978-0-8047-4050-0.
+
+Rutter, Jeremy B. (1996). "Prehistoric Archaeology of the Aegean". Trustees of Dartmouth College and the Foundation of the Hellenic World. Archived from the original on 1 January 2009. Retrieved 15 April 2021.
+
+Sansone, David (2004). Ancient Greek Civilization. Malden (Massachusetts), Oxford (United Kingdom), Carlton (Victoria, Australia): Blackwell Publishing Ltd. ISBN 978-0-631-23236-0.
+
+Sergent, Bernard (1982). "Penser — et mal penser — les Indo-Européens1 (Note critique)". Annales. Histoire, Sciences Sociales. 37 (4): 669–681. doi:10.3406/ahess.1982.282879.
+
+Shear, Ione Mylonas (January 2000). "Excavations on the Acropolis of Midea: Results of the Greek–Swedish Excavations under the Direction of Katie Demakopoulou and Paul Åström". American Journal of Archaeology. 104 (1): 133–134. doi:10.2307/506802. JSTOR 506802.
+
+Schofield, Louise (2006). The Mycenaeans. Los Angeles, CA: J. Paul Getty Museum. ISBN 9780892368679.
+
+Stocker, Sharon R.; Davis, Jack L. (2017). "The Combat Agate from the Grave of the Griffin Warrior at Pylos". Hesperia: The Journal of the American School of Classical Studies at Athens. 86 (4): 583–605. doi:10.2972/hesperia.86.4.0583. JSTOR 10.2972/hesperia.86.4.0583. 
+
+Stubbings, Frank H. (1951). Mycenaean Pottery from the Levant. Cambridge: Cambridge University Press.
+
+Tandy, David W. (2001). Prehistory and History: Ethnicity, Class and Political Economy. Montréal, Québec, Canada: Black Rose Books Limited. ISBN 978-1-55164-188-1.
+
+Tartaron, Thomas F. (2013). Maritime Networks in the Mycenaean World. Cambridge: Cambridge University Press. ISBN 9781107067134.
+
+Taylour, Lord William; French, Elizabeth Bayard; Wardle, K.A. (2007). Well Built Mycenae (Volume 13): The Helleno-British Excavations within the Citadel at Mycenae 1959–1969. Warminster, England: Aris & Phillips. ISBN 978-1-84-217295-7.
+
+Taylour, Lord William (1969). "Mycenae, 1968". Antiquity. 43 (170): 91–97. doi:10.1017/S0003598X00040187. 
+
+Taylour, Lord William (1970). "New Light on Mycenaean Religion". Antiquity. 44 (176): 270–280. doi:10.1017/S0003598X00041740.
+
+Taylour, Lord William (1958). Mycenaean Pottery in Italy and Adjacent Areas. Cambridge: Cambridge University Press.
+
+Thomas, Carol G. (1995). "The Components of Political Identity in Mycenaean Greece". Aegaeum. 12: 349–354.
+
+van Wijngaarden, Geert Jan (2002). Use and Appreciation of Mycenaean Pottery in the Levant, Cyprus and Italy (1600–1200 BC). Amsterdam: Amsterdam University Press. ISBN 978-9-05-356482-0.
+
+Vianello, Andrea (2005). Late Bronze Age Mycenaean and Italic Products in the West Mediterranean: A Social and Economic Analysis. Oxford: Archaeopress. ISBN 978-1-84-171875-0.
+
+Wardle, K.A.; Wardle, Diana (1997). Cities of Legend: The Mycenaean World. London: Bristol Classical Press. ISBN 978-1-85-399355-8.
+
+Whittaker von Hofsten, Helène (2007). "Reflections on the Social Status of Mycenaean Women". In Lovén, Lena Larsson; Strömberg, Agneta (eds.). Public Roles and Personal Status Men and Women in Antiquity. Sävedalen: Paul Åströms Förlag. pp. 3–18. ISBN 9789170812378.
+
+Wikander, Örjan (January–March 1990). "Archaic Roof Tiles the First Generations". Hesperia. 59 (1): 285–290. JSTOR 148143.
+
+Wright, James Clinton (2008). "Early Mycenaean Greece". In Shelmerdine, Cynthia W. (ed.). The Cambridge Companion to the Aegean Bronze Age. Cambridge: Cambridge University Press. pp. 230–257. doi:10.1017/CCOL9780521814447. ISBN 9781139001892. 
+
+Wood J. R., Hsu, Y-T and Bell, C. 2021 Sending Laurion Back to the Future.
+Bronze Age Silver and the Source of Confusion, Internet Archaeology 56. https://doi.org/10.11141/ia.56.9
+Acts of the International Archeaological Symposium: "The Mycenaeans in the Eastern Mediterranean", Nicosia 27th March-2nd April, 1972. Ministry of Communications and Works, Department of Antiquities. 1973.
+
+Further reading
+Anthony, David W. (2007). The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World. Princeton, NJ: Princeton University Press. ISBN 978-0-691-05887-0.
+Barlow, Jane Atwood; Bolger, Diane L.; Kling, Barbara (1991). Cypriot Ceramics: Reading the Prehistoric Record. Philadelphia, PA: University of Pennsylvania Museum of Archaeology and Anthropology. ISBN 978-0-92-417110-9.
+Boehm, Isabelle; Müller-Celka, Sylvie, eds. (2010). Espace civil, espace religieux en Égée durant la période mycénienne. Approches épigraphique, linguistique et archéologique. Actes des journées d'archéologie et de philologie mycéniennes, Lyon, 1er février et 1er mars 2007 (in French). Vol. 54. Lyon: Maison de l'Orient et de la Méditerranée Jean Pouilloux. ISBN 978-2-35668-012-9.
+Burkert, Walter (1987) [1985]. Greek Religion: Archaic and Classical. Oxford and Malden: Blackwell Publishing Limited. ISBN 978-1-11-872499-6.
+De Fidio, Pia (1990). "Potere politico et funzione del sacro nella società micenee". Mélanges Pierre Lévêque. 4: 151–171.
+Doumas, Christos (1980). Thera and the Aegean World II: Papers Presented at the Second International Scientific Congress, Santorini, Greece, August 1978. London: Thera and the Aegean World. ISBN 978-0-95-061332-1.
+French, Elizabeth Bayard (2002). Mycenae: Agamemnon's Capital. Stroud: Tempus. ISBN 978-0-7524-1951-0.
+Gitin, Seymour; Mazar, Amihay; Stern, Ephraim; Dothan, Trude Krakauer (1998). Mediterranean Peoples in Transition: Thirteenth to Early Tenth Centuries BCE. Jerusalem: Israel Exploration Society. ISBN 978-9-65-221036-4.
+Güterbock, Hans G. (April 1983). "The Hittites and the Aegean World: Part 1. The Ahhiyawa Problem Reconsidered". American Journal of Archaeology. 87 (2): 133–138. doi:10.2307/504928. JSTOR 504928. S2CID 191376388.
+Güterbock, Hans G. (June 1984). "Hittites and Akhaeans: A New Look". Proceedings of the American Philosophical Society. 128 (2): 114–122.
+Hagg, Robin; Wells, Berit (1978). Opuscula Atheniensia XII. Lund: Paul Astroms Forlag. ISBN 978-9-18-508612-2.
+Podzuweit, Christian (1982). "Die mykenische Welt und Troja". In Hänsel, B. (ed.). Südosteuropa zwischen 1600 und 1000 V. Chr (in German). Berlin: Moreland Editions. pp. 65–88.
+Higgins, Reynold Alleyne (1997). Minoan and Mycenaean Art. London and New York: Thames & Hudson. ISBN 978-0-50-020303-3.
+Hooker, J.T. (1976). Mycenaean Greece. London: Routledge & Kegan Paul. ISBN 9780710083791.
+Huxley, G.L. (1960). Achaeans and Greeks. Oxford and New York: Oxford University Press.
+Mellink, Machteld J. (April 1983). "The Hittites and the Aegean World: Part 2. Archaeological Comments on Ahhiyawa-Achaians in Western Anatolia". American Journal of Archaeology. 87 (2): 138–141. doi:10.2307/504929. JSTOR 504929. S2CID 194070218.
+Mountjoy, Penelope A. (1986). Mycenaean Decorated Pottery: A Guide to Identification (Studies in Mediterranean Archaeology 73). Göteborg: Paul Aströms Forlag. ISBN 978-9-18-609832-2.
+Nur, Amos; Cline, Eric (2000). "Poseidon's Horses: Plate Tectonics and Earthquake Storms in the Late Bronze Age Aegean and Eastern Mediterranean". Journal of Archaeological Science. 27 (1): 43–63. Bibcode:2000JArSc..27...43N. doi:10.1006/jasc.1999.0431. Archived from the original (PDF) on 21 September 2006.
+Preziosi, Donald; Hitchcock, Louise A. (1999). Aegean Art and Architecture. Oxford: Oxford University Press. ISBN 978-0-19-284208-4.
+Robertson, Martin (1959). Les Grands siècles de la peinture: La peinture Grecque. Genève-Paris: Skira.
+Rodríguez, Juan Piquero (2017). "Estudios sobre el léxico micénico: notas sobre la naturaleza y funciones del ra-wa-ke-ta". In de la Villa, Jesús; Rey, Emma Falque; Castro, José Francisco González; Jiménez, María José Muñoz (eds.). Conuentus Classicorum: temas y formas del Mundo Clásico (in Spanish). Vol. 1. Sociedad Española de Estudios Clásicos. pp. 355–364. ISBN 978-84-697-8214-9.
+Skeat, T.C. (1934). The Dorians in Archaeology. London: de la More Press.
+Taylour, Lord William (1990) [1964]. The Mycenaeans. London: Thames & Hudson Limited. ISBN 978-0-50-027586-3.
+Vermeule, Emily; Karageorghis, Vassos (1982). Mycenaean Pictorial Vase Painting. Cambridge, MA: Harvard University Press. ISBN 978-0-67-459650-4.
+Vermeule, Emily Townsend (March 1960). "The Fall of the Mycenaean Empire". Archaeology. 13 (1): 66–76. JSTOR 41663738.
+Weiss, Barry (June 1982). "The Decline of Late Bronze Age Civilization as a Possible Response to Climatic Change". Climatic Change. 4 (2): 173–198. Bibcode:1982ClCh....4..173W. doi:10.1007/bf00140587.
+
+External links
+Wikimedia Commons has media related to Mycenaean civilization.
+Godart, Louis (2013) [January 1997]. "Les citadelles mycéniennes" (in French). Clio.
+Hemingway, Seán; Hemingway, Colette (2000–2013). "Heilbrunn Timeline of Art History: Mycenaean Civilization". The Metropolitan Museum of Art.
+Horejs, Barbara; Pavúk, Peter, eds. (2007). "The Aegeo-Balkan Prehistory Project". The Aegeo-Balkan Prehistory Team.
+Rutter, Jeremy B. "Prehistoric Archeology of the Aegean". Hanover, NH: Dartmouth College. Archived from the original on 1 January 2009. Retrieved 19 October 2013.
+Salimbetti, Andrea (September 2015). "The Greek Age of Bronze".
+The Mycenaeans and Italy: The Archaeological and Archaeometric Ceramic Evidence. University of Glasgow School of Humanities. Archived from the original on 27 September 2013. Retrieved 26 September 2013.
+Wright, James C. (2002). "The Nemea Valley Archaeological Project: Internet Edition". Bryn Mawr College Department of Classical and Near Eastern Archaeology. Archived from the original on 31 March 2007. Retrieved 2 December 2005.
+Magna Graecia
+
+Mainland
+Italy
+- Alision
+- Brentesion
+- Caulonia
+- Chone
+- Croton
+- Cumae
+- Elea
+- Heraclea Lucania
+- Hipponion
+- Hydrus
+- Krimisa
+- Laüs
+- Locri
+- Medma
+- Metauros
+- Metapontion
+- Neápolis
+- Pandosia (Lucania)
+- Poseidonia
+- Pixous
+- Rhegion
+- Scylletium
+- Siris
+- Sybaris
+- Sybaris on the Traeis
+- Taras
+- Terina
+- Thurii
+
+Sicily
+- Akragas
+- Akrai
+- Akrillai
+- Apollonia
+- Calacte
+- Casmenae
+- Catana
+- Gela
+- Helorus
+- Henna
+- Heraclea Minoa
+- Himera
+- Hybla Gereatis
+- Hybla Heraea
+- Kamarina
+- Leontinoi
+- Megara Hyblaea
+- Messana
+- Naxos
+- Segesta
+- Selinous
+- Syracuse
+- Tauromenion
+- Thermae
+- Tyndaris
+
+Aeolian Islands
+- Didyme
+- Euonymos
+- Ereikousa
+- Hycesia
+- Lipara/Meligounis
+- Phoenicusa
+- Strongyle
+- Therassía
+
+Cyrenaica
+- Balagrae
+- Barca
+- Berenice
+- Cyrene (Apollonia)
+- Ptolemais
+
+Iberian Peninsula
+- Akra Leuke
+- Alonis
+- Emporion
+- Helike
+- Hemeroscopion
+- Kalathousa
+- Kypsela
+- Mainake
+- Menestheus's Limin
+- Illicitanus Limin/Portus Illicitanus
+- Rhode
+- Salauris
+- Zacynthos
+
+Illyria
+- Aspalathos
+- Apollonia
+- Aulon
+- Epidamnos
+- Epidauros
+- Issa
+- Melaina Korkyra
+- Nymphaion
+- Orikon
+- Pharos
+- Tragurion
+- Thronion
+
+Black Sea basin
+North coast
+- Akra
+- Borysthenes
+- Charax
+- Chersonesus
+- Dioscurias
+- Gorgippia
+- Hermonassa
+- Kalos Limen
+- Kepoi
+- Kerkinitis
+- Kimmerikon
+- Myrmekion
+- Nikonion
+- Nymphaion
+- Olbia
+- Pantikapaion
+- Phanagoria
+- Pityus
+- Tanais
+- Theodosia
+- Tyras
+- Tyritake
+
+South coast
+- Abonoteichos
+- Amisos
+- Anchialos
+- Apollonia
+- Athina
+- Bathus
+- Dionysopolis
+- Cotyora
+- Cytorus
+- Eupatoria
+- Heraclea
+- Kerasous
+- Mesambria
+- Odessos
+- Oinòe
+- Phasis
+- Polemonion
+- Rhizos
+- Salmydessus
+- Sesamus
+- Sinope
+- Thèrmae
+- Tium
+- Trapezous
+- Tripolis
+- Zaliche
+
+Lists
+- Cities in Epirus
+- People
+- Place names
+- Stoae
+- Temples
+- Theatres
+
+Category:Ancient Greece
+Portal:Ancient Greece
+Outline of ancient Greece
+
+History
+Prehistory (pre-1100 BC)
+- Neolithic Age
+- Bronze Age
+- Pelasgians
+- Cycladic civilization
+- Minoan civilization
+- Helladic period
+- Mycenaean period
+- Bronze Age collapse
+
+Antiquity (1100 BC-330 AD)
+- Greek Dark Ages
+- Iron Age migrations
+- Archaic period
+- Greco-Persian Wars
+- Classical period
+- Delian and Peloponnesian League
+- Peloponnesian War
+- League of Corinth
+- Wars of Alexander the Great
+- Hellenistic period
+- Wars of the Diadochi
+- Roman–Greek wars
+- Roman era
+- Foundation of Constantinople
+
+Middle Ages (330–1453)
+- Byzantine period
+- Persecution of paganism
+- Migration period
+- Plague of Justinian
+- Arab–Byzantine wars
+- Iconoclasm
+- Macedonian Renaissance
+- East–West Schism
+- Fourth Crusade
+- Frankokratia
+- Empire of Nicaea, Despotate of Epirus and Despotate of the Morea
+- Fall of Constantinople
+
+Early modern and Modern era (post-1453)
+- Stato da Màr (Venetian Ionian islands, Kingdom of Candia)
+- Ottoman Greece
+- Modern Greek Enlightenment
+- Septinsular Republic
+- War of Independence
+- First Republic
+- Kingdom
+- Balkan Wars
+- World War I
+- National Schism
+- Greco-Turkish War
+- History of Greece (1923–1940)
+- Second Republic
+- 4th of August Regime
+- World War II
+- Civil war
+- Military junta
+- Democratization
+- Third Republic
+
+By topic
+- Ancient regions and tribes
+- Byzantine and Ottoman Greeks
+- Christianization
+- Colonization
+- Coups d'état
+- Demographic (Modern)
+- Economic
+- Geographical name changes
+- Greek countries and regions
+- Greek Muslims
+- Renaissance scholars
+- Hellenic languages and Proto-Greek
+- Inventions and discoveries
+- Language question
+- Military
+- Monarchy (Kings and royal family)
+- Phanariotes
+- Polis
+- Population exchange of 1923
+
+Geography
+Overview
+- Borders
+- Cities (capital and co-capital)
+- Extreme points
+- Place names
+
+Regions
+- Central Greece (Aetolia-Acarnania (Aetolia, Acarnania), Attica, Boeotia, Euboea, Evrytania, Phocis, Phthiotis, Saronic Islands)
+- Crete (Chania, Heraklion, Rethymno, Lasithi)
+- Cyclades (Andros, Delos, Kea, Kythnos, Milos, Mykonos, Naxos, Paros, Santorini, Syros, Tinos)
+- Dodecanese (Agathonisi, Astypalaia, Chalki, Kalymnos, Karpathos, Kasos, Kos, Leipsoi, Leros, Nisyros, Patmos, Rhodes, Symi, Tilos, Kastellorizo)
+- Epirus (Arta, Ioannina, Preveza, Thesprotia)
+- Ionian Islands (Corfu, Ithaca, Kefalonia, Kythira, Lefkada, Paxi, Zakynthos)
+- Greek Macedonia (Chalkidiki, Drama, Florina, Grevena, Imathia, Kastoria, Kavala, Kilkis, Kozani, Pella, Pieria, Serres, Thasos, Thessaloniki)
+- North Aegean islands (Chios, Ikaria, Lemnos, Lesbos, Samos)
+- Peloponnese (Arcadia, Argolis, Corinthia, Laconia, Messenia, Achaea, Elis)
+- Thessaly (Karditsa, Larissa, Magnesia, Trikala, Sporades)
+- Thrace (Evros, Rhodope, Xanthi)
+
+Terrain
+- Canyons and gorges
+- Caves
+- Geology
+- Islands (Aegean, Ionian, Crete)
+- Mountains (Olympus, Pindus, Rhodopes)
+- Peninsulas
+- Plains
+- Volcanoes
+
+Water
+- Coasts
+- Lakes
+- Rivers
+- Mediterranean Sea
+- Aegean Sea (Sea of Crete, Icarian Sea, Myrtoan Sea, Thracian Sea)
+- Ionian Sea
+- Libyan Sea
+
+Environment
+- Climate
+- Natural disasters (earthquakes)
+- Ecoregions
+- Environmental issues
+- Forests
+- Mammals and birds
+- National Parks
+- Protected areas
+
+Politics
+Constitution
+- Constitutional amendments (1986, 2001, 2008, 2019)
+- Constitutions (1822, 1827, 1844, 1864, 1911)
+- Supreme Special Court
+
+Executive
+- Cabinet
+- Government (Government Gazette)
+- President (Presidential Mansion)
+- Prime Minister (Maximos Mansion)
+
+Legislature
+- Conference of Presidents
+- Hellenic Parliament (Speaker)
+- Parliamentary Committees
+- Presidium
+
+Elections
+- Nationality law
+- Parataxis
+- Parliamentary constituencies
+- Pasokification
+- Political parties
+
+Judicial system
+- Council of State
+- Court of Audit
+- Supreme Court
+
+Security
+- Police
+- Capital punishment
+- Corruption
+- Crime (Greek mafia)
+- Life imprisonment
+- Terrorism
+- Coast Guard
+
+Foreign relations
+- Aegean dispute
+- Cyprus dispute
+- Council of Europe
+- European Union
+- Macedonia naming dispute (Language naming dispute)
+- NATO
+- Passport
+- Treaties
+- United Nations
+
+Military
+- Air Force
+- Alliances
+- Army
+- Conscription
+- Military ranks
+- Navy
+- Evzones (Presidential Guard)
+- National Guard
+- Tomb of the Unknown Soldier
+
+Social issues
+- Abortion
+- Cannabis
+- Education (universities)
+- Healthcare (hospitals, obesity, smoking)
+- Human rights
+- Human rights abuses
+- LGBT rights
+- Prostitution
+- Political scandals
+- Racism
+
+Ideologies
+- Conservatism (Monarchism)
+- Fascism (Metaxism)
+- Liberalism (Republicanism, Venizelism)
+- Nationalism (Hellenocentrism, Megali Idea, Enosis)
+- New Social Movements (Environmentalism, Feminism, Pacifism)
+- Socialism (Laocracy, Trotskyism)
+- Anarchism
+
+Administrative divisions
+- Municipalities and communities
+- Administrative regions
+- Regional units
+- Decentralized administrations
+
+Economy
+- Agriculture
+- Airports
+- Athens Stock Exchange (companies)
+- Banking (Central bank)
+- Central bank
+- Brands
+- Companies (electric power)
+- Debt crisis (Grexit)
+- Drachma
+- Energy (renewable, nuclear)
+- Euro coins
+- Greece and the International Monetary Fund
+- Greek economic miracle
+- Highways
+- Laiki agora
+- Ports
+- Public pensions
+- Railways (history)
+- Rankings
+- Science and technology
+- Shipping (Merchant Marine)
+- Space Agency
+- Subdivisions by GDP
+- Taxation
+- Telecommunications
+- Thessaloniki International Fair
+- Tourism
+- Trade unions
+- Transportation (Rio–Antirrio bridge, Athens Metro, Thessaloniki Metro)
+- Water supply and sanitation
+
+Society
+Demographics
+- Diaspora
+- Greeks (names of Greece and the Greeks)
+- Immigration
+- Minorities (Muslim minority, Jews, Arvanites, Aromanians (Aromanian question), Megleno-Romanians, Slavophones, Roma)
+- Women
+- Life expectancy
+
+Culture
+- Anastenaria
+- Caryatid
+- Clean Monday
+- Concept of kingship
+- Dress (Chiton, Chlamys, Exomis, Fustanella, Himation, Mariner's cap, Peplos, Perizoma, Tsarouchi, Vraka)
+- Eastern Party
+- Festivals
+- Folklore
+- Greek East and Latin West
+- Greektown
+- Hellenization
+- Hospitality
+- Carols (Christmas, New Year's, Theophany's)
+- Mangas
+- Mountza
+- Naming customs
+- Paideia
+- Philhellenism and Hellenophobia
+- Plate smashing
+- Philosophy
+- Public holidays (Independence Day, Ohi Day)
+- Rouketopolemos
+- Souliotic songs
+- Theophany
+- Tsiknopempti
+- Units of measurement
+- Worry beads
+
+Art
+- Architecture (Castles)
+- Cretan and Heptanese school
+- Modern art (19th century)
+- Theatre (Ancient)
+
+Cuisine
+- Breads (Daktyla, Kritsini, Lagana, Paximadi, Tsoureki)
+- Desserts (Diples, Halva, Koulourakia, Kourabiedes, Loukoumades, Melomakarona, Pasteli, Spoon sweets, Vasilopita)
+- List of dishes
+- Drinks (Mastika, Metaxa, Ouzo, Rakomelo, Sideritis, Tentura, Tsipouro, Tsikoudia, Frappé coffee)
+- Cheeses (Anthotyros, Feta, Graviera, Kasseri, Kefalotyri, Ladotyri, Manouri, Metsovone, Mizithra)
+- Filo (Amygdalopita, Bougatsa, Galaktoboureko, Karydopita, Spanakopita, Tiropita)
+- Greek salad (Dakos)
+- Meze
+- Pasta (Gogges, Flomaria, Hilopites)
+- Restaurants (Kafenio, Ouzeri, Taverna)
+- Sauces (Skordalia, Taramosalata, Tirokafteri, Tzatziki)
+- Souvlaki
+- Varieties (Heptanesean, Cretan, Epirote, Macedonian)
+- Wine (Agiorgitiko, Aidini, Assyrtiko, Athiri, Kotsifali, Lesbian, Limnio, Mavrodafni, Mandilaria, Malagousia, Malvasia, Moschofilero, Retsina, Robola, Savatiano, Vilana, Xinomavro)
+
+Languages
+- Greek alphabet (History, Orthography, Diacritics, Braille, Cyrillization, Romanization (Greeklish) and numerals)
+- Greek language (Demotic, Katharevousa and dialects (Cappadocian, Cretan, Cypriot, Greco-Australian, Maniot, Pontic, Tsakonian, Yevanic))
+- Greek Sign Language
+- History (Mycenaean Greek, Ancient Greek, Koine Greek, Medieval Greek, Modern Greek)
+- Literature (Ancient, Medieval, Modern)
+- Minority languages (Albanian (Arvanitika), Aromanian, Balkan Romani, Bulgarian, Ladino, Macedonian, Megleno-Romanian, Turkish)
+- Place names and exonyms
+- Proverbs
+- Words for love
+
+Media
+- Cinema
+- Internet
+- Newspapers
+- Television
+- Media freedom
+- Corruption
+
+Music
+- Church music
+- Dances (Ai Georgis, Angaliastos, Antikristos, Ballos, Dionysiakos, Fisounis, Gaitanaki, Geranos, Hasapiko, Ikariotikos, Kalamatianos, Kangeli, Kastorianos, Kerkiraikos, Koftos, Pidikhtos, Leventikos, Maniatikos, Metsovitikos, Ntames, Palamakia, Partalos, Pentozali, Proskinitos, Pyrrhichios, Rougatsiarikos, Sirtaki, Sousta, Syrtos, Trata, Tsakonikos, Tsamikos, Zeibekiko, Zervos)
+- Éntekhno
+- Folk music (Cretan, Epirote, Heptanesian, Macedonian, Nisiotika, Peloponnesian, Pontic, Thessalian, Thracian)
+Pontic, Crotala, Floghera, Gaida, Harp, Laouto, Lyre, Organo, Pan flute, Phorminx, Psaltery, Salpinx, Santouri, Souravli, Tambouras, Tambourine, Trigono, Tsampouna, Tympano, Zilia
+Rebetiko
+Rock (Punk)
+Religion and lore
+Ancient religion (Origins, Modern Revival)
+Aerico
+Buddhism
+Catholicism
+Drosoulites
+Eastern Orthodox Church (Timeline: Antiquity, Early Middle Ages, Late Middle Ages, Early Modern Era, 19th century, Early 20th century, Late 20th century, Contemporary)
+Fairy tales
+Gello
+Greek Orthodox Church (Ecumenical Patriarchate of Constantinople, Church of Greece, Flag)
+Greek Old Calendarists
+Hinduism
+Hypertimos
+Islam
+Judaism (History)
+Kallikantzaros
+Lamia
+Mormo
+Mount Athos
+Mythology (Primordial deities, Titans, Twelve Olympians, Heracles, Odysseus, Jason, Oedipus, Perseus, Daedalus, Orpheus, Theseus, Bellerephon, Satyr, Centaur)
+Nymph
+Protestantism
+Psychai
+Sikhism
+Thymiaterion
+Name days
+Vrykolakas
+Wayside shrine
+Sport
+Ancient Olympics
+Baseball
+Basketball
+Cricket
+Football
+Hockey
+Ice hockey
+Modern Olympics (1896, 1906, 2004)
+Rugby league
+Symbols
+Anthem
+Coat of arms
+Flag and national colours
+Flags
+Motto
+Orders and decorations
+World Heritage Sites
+Category
+Portal
+Navigation, and ports and harbors
+Navigation
+Celestial
+Charts
+Coastal (Lighthouses)
+History
+Ocean swell (Stick chart)
+Periplus
+Piloting (Pilot boat, Maritime pilot)
+By region: Inuit, Micronesian, Polynesian
+Ports and harbors
+Actium
+Aden
+Adulis
+Alexandria
+Apollonia
+Arikamedu
+Arsinoe
+Avalites
+Barbarikon
+Barygaza
+Basra
+Berenice Troglodytica
+Bosphorus
+Caesarea Maritima
+Canopus
+Carthage
+Centumcellae
+Charmutha
+Chittagong
+Delos
+Essina
+Giao Chỉ
+Godavaya
+Guangzhou
+Jambukola
+Jeddah
+Kaveri Poompattinam
+Kedah
+Korkai
+Leptis Magna
+Lothal
+Manthai
+Madurai
+Malao
+Mersa Gawasis
+Myos Hormos
+Martaban
+Mueang Phra Rot
+Muscat
+Muziris
+Narbonne
+Nesis
+Óc Eo (Cattigara)
+Opone
+Ostia Antica
+Palembang
+Piraeus
+Portus Augusti
+Portus Pisanus
+Prosphorion
+Ptolemais Theron
+Pozzuoli
+Qal'at al-Bahrain
+Qandala
+Quilon
+Rhacotis
+Sarapion
+Sathingpra
+Sidon
+Socotra
+Sonargaon
+Thapsus
+Trincomalee
+Tulum
+Tyndis
+Tyre
+Wadi al-Jarf
+Zanzibar
+Whaling
+Fishing
+Egypt (Land of Punt)
+Indo–Mesopotamia relations
+Meluhha
+Maritime Jade Route
+Tin
+Spice trade
+Austronesian network
+Sa Huynh-Kalanay
+Incense trade
+Maritime Silk Road
+Periplus of the Erythraean Sea
+Maya
+Greece (Greco–Indian, shipping)
+Rome (Indo–Roman)
+History
+Mediterranean piracy
+Ameinias the Phocian
+Cilician pirates
+Jewish pirates
+Kidnapping of Julius Caesar
+Pompey's campaign against the pirates
+Scholars
+David Blackman
+Lionel Casson
+Fik Meijer
+John Sinclair Morrison
+William Ledyard Rodgers
+Chester G. Starr
+Archaeologists
+George Bass
+Jean-Yves Empereur
+Boris Rankov
+J. Richard Steffy
+Peter Throckmorton
+Shelley Wachsmann
+Topics and theories
+Coastal defence and fortification
+Grave goods
+Lighthouses (Alexandria)
+Marine art
+Marine navigation
+Maritime archaeology
+Naval warfare
+Maritime temples (Temple of Isthmia, Temple of Poseidon, Sounion, Samothrace temple complex)
+Nusantao network
+Phoenician discovery of America
+Pre-Columbian theories
+Sea Peoples
+Shipbuilding
+Shell middens
+Ship burial
+Tacking
+Thalassocracy
+Underwater archaeology
+Underwater exploration
+Wrecks and relics
+Earliest: Pesse canoe, Dufuna canoe, Abydos, Moor Sand, Dokos, Khufu ship, Dover Bronze Age Boat, Uluburun, Canaanite, Cape Gelidonya, Zambratija, Rochelongue, Hjortspring
+Austronesia (Pontian boat, Butuan boats)
+Ancient Black Sea (Sinop D)
+Marsala
+Greek (Ashkelon, Kyrenia, Leontophoros, Syracusia)
+Phoenician (Gozo, Bajo de la Campana)
+Punic (Marsala Punic shipwreck)
+Roman (Alkedo, Arles Rhône 3, Blackfriars I, Caligula's Giant Ship, De Meern ships, Isis, Madrague de Giens, Nemi ships, Marausa, Yassi Ada)
+Lists (Oldest surviving, Museum ships, Surviving ancient ships)
+H3
+Qal'at al-Bahrain
+Ship replica
+Heyerdahl expeditions: Kon-Tiki, Ra and Ra II
+Austronesian replicas: Hōkūleʻa, Sarimanok, Te Au o Tonga, Hawaiʻiloa canoe, Samudra Raksa, Alingano Maisu, Saina, Balangay Voyage, Faʻafaite, Gaualofa, Marumaru Atua
+Mediterranean: Olympias, Regina, Phoenician Ship Expedition
+Viking replicas: Viking
+Others: Vital Alsar, Ivlia, Abora, Viracocha, Tangaroa
+Institutes and conferences
+Advisory Council on Underwater Archaeology
+Archaeological Institute of America
+European Association of Archaeologists
+Institute of Nautical Archaeology
+International Congress of Maritime Museums
+Nautical Archaeology Society
+RPM Nautical Foundation
+Sea Research Society
+Society for American Archaeology
+Museums and memorials
+Boat Museum, Kolkata
+Bodrum Museum of Underwater Archaeology
+Giza Solar boat museum
+Grand Egyptian Museum
+Ancient Shipwreck Museum at Kyrenia Castle
+Museum of Ancient Seafaring
+Museum of Ancient Ships, Pisa
+National Museum of Subaquatic Archaeology
+Viking ship museums: Oslo, Roskilde
+Legend
+Ark of bulrushes
+Flood myths (Genesis, Gilgamesh, Greek)
+Literature
+Odyssey
+The Histories (Herodotus)
+On the Ocean (Pytheas)
+Argonautica
+The Histories (Polybius)
+Metamorphoses
+Geography (Ptolemy)
+Aeneid
+Bronze Age
+Chalcolithic
+Bronze Age
+Abashevo culture
+Aegean civilization
+Andronovo culture
+Apennine culture
+Armorican Tumulus culture
+Atlantic Bronze Age
+Bactria–Margiana Archaeological Complex
+Bronze Age Britain
+Bronze Age Europe
+Canegrate culture
+Catacomb culture
+Chinese Bronze Age
+Cycladic culture
+Deer stones culture
+Deverel–Rimbury culture
+Elp culture
+Ewart Park Phase
+Ezero culture
+Glazkov culture
+El Argar
+Hallstatt culture
+Helladic period
+Indus Valley Civilisation
+Late Jomon
+Karasuk culture
+Liaoning bronze dagger culture
+Lusatian culture
+Minoan civilization
+Mumun pottery period
+Mycenaean Greece
+Nordic Bronze Age
+Okunev culture
+Ordos culture
+Penard Period
+Samus culture
+South-Western Iberian Bronze
+Srubnaya culture
+Tagar culture
+Tarim mummies
+Terramare culture
+Trzciniec culture
+Tumulus culture
+Únětice culture
+Urnfield culture
+Wessex culture
+Wilburton-Wallington Phase
+Bronze Age (North Caucasus and Transcaucasia)
+Kurgan
+Koban
+Kura–Araxes
+Shulaveri-Shomu
+Colchian
+Trialeti
+Maykop culture
+Leyla-Tepe culture
+Jar-Burial
+Khojaly–Gadabay
+Iron Age
+Authority control databases: National (Germany, United States, France, BnF data, Czech Republic)
+Poland
+Israel
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Mycenaean_Greece&oldid=1266178386"
+
+Categories: 
+2nd millennium BC
+Historical eras
+Mycenaean Greece
+States and territories established in the 17th century BC
+States and territories disestablished in the 12th century BC
+
+Hidden categories: 
+Articles containing Ancient Greek (to 1453)-language text
+CS1 German-language sources (de)
+CS1 Greek-language sources (el)
+CS1: long volume value
+Articles with short description
+Short description matches Wikidata
+Good articles
+Use dmy dates from July 2019
+Articles containing Greek-language text
+Pages using multiple image with manual scaled images
+Pages using multiple image with auto scaled images
+All articles with unsourced statements
+Articles with unsourced statements from February 2023
+CS1 maint: multiple names: authors list
+CS1 French-language sources (fr)
+CS1 Spanish-language sources (es)
+Commons category link is on Wikidata
+
+This page was last edited on 30 December 2024, at 12:45 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view

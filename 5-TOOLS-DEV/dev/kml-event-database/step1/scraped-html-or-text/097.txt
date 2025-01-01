@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-18151216-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-18151216-3');
+</script>
+
+<TITLE>Newgrange - Archaeology, Art and Legend by Michael J. O'Kelly</TITLE>
+<meta name="description" content="Professor O'Kelly presents the results of his excavations at Newgrange between 1962 and 1975. Every stage in the excavation, interpretation and restoration is described and illustrated">
+<meta name="keywords" content="Newgrange,Archaeology,Art,Legend,Michael J. O'Kelly,Claire O'Kelly,Excavation,excavations">
+
+<!--responsive code-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<link href="responsive.css" rel="stylesheet" type="text/css">
+<!--end responsive code-->
+
+<META NAME="rating" content="general">
+<META NAME="robots" content="index, follow">
+<META NAME="DISTRIBUTION" CONTENT="global">
+<META NAME="RESOURCE-TYPE" CONTENT="document">
+<LINK REL="SHORTCUT ICON" HREF="favicon.ico">
+<link href="styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+<div id="outer" class="center">
+<div id="head" class="center">
+
+<div class="center">
+<a href="https://www.boynevalleytours.com/"><img src="images/banner.jpg" width="760" height="195" alt="Boyne Valley Tours"></a></div>
+
+<!--mob navigation-->
+<div class="mob mob-nav">
+<script>
+        $(document).ready(function(){
+          $("span.mobile-button").click(function(){
+            $("ul.mobul").slideToggle();
+          });
+        });
+        </script>
+
+<div class="mob-header"><span class="mobile-button"><i class="fa fa-bars"></i></span></div>
+<ul class="mobul">
+<li><a href="index.htm">Home</a></li>
+<li><a href="newgrange.htm">Newgrange</a></li>
+<li><a href="knowth.htm">Knowth</a></li>
+<li><a href="dowth.htm">Dowth</a></li>
+<li><a href="https://www.newgrange.com/tours.htm">Tours</a></li>
+<li><a href="contact.htm">Contact</a></li>
+</ul>
+</div>
+<!--end mob navigation-->
+
+<div id="nav">
+<a href="index.htm">Home</a>
+| <a href="newgrange.htm">Newgrange</a>
+| <a href="knowth.htm">Knowth</a>
+| <a href="dowth.htm">Dowth</a>
+| <a href="tara.htm">Hill of Tara</a>
+| <a href="fourknocks.htm">Fourknocks</a>
+| <a href="loughcrew.htm">Loughcrew</a>
+| <a href="moreplaces.htm">More Places</a>
+| <a href="labyrinths.htm">Labyrinths</a>
+| <a href="localinfo.htm">Local</a>
+| <a href="art-works.htm">Art Works</a>
+| <a href="articles.htm">Articles</a>
+| <a href="images.htm">Images</a>
+| <a href="books.htm">Books</a>
+| <a href="links.htm">Links</a>
+| <a href="contact.htm">Contact</a>
+</div>
+</div>
+
+<div id="container">
+
+<h1>Newgrange - Archaeology, Art and Legend</h1>
+
+<a href="https://www.amazon.com/dp/0500273715/ref=nosim?tag=newgrange07-20">
+<img src="images-books/book0500273715-big.jpg" alt="Newgrange - Archaeology, Art and Legend" width="275" height="348" style="float:left;margin-right:10px">
+Newgrange - Archaeology, Art and Legend</a> by Michael J. O'Kelly and Claire O'Kelly.
+
+<br><br>
+
+An account of the major excavation of Newgrange which was carried out by
+<a href="https://www.newgrange.com/michael-j-okelly.htm">Professor Michael J. O'Kelly</a> between 1962 and 1975.
+
+<br><br>
+
+Essential reading for the serious study of the Megalithic Tomb at Newgrange.
+Hardback edition first printed in 1982, Paperback edition first printed in 1988 and still in print.
+
+<br><br>
+
+In the book Professor O'Kelly presents the full results of his excavations at Newgrange between 1962 and 1975.
+Every stage in the excavation, interpretation and restoration of the site is described and illustrated with additional
+contributions from <a href="https://www.newgrange.com/claire-okelly.htm">Claire O'Kelly</a>,
+who collaborated in her husband's work at <a href="https://boynevalleytours.com/tour_location/newgrange/">Newgrange</a> from its inception.
+
+<br><br>
+
+Purchase at <a href="https://www.amazon.com/dp/0500273715/ref=nosim?tag=newgrange07-20">Amazon.com</a> or 
+<a href="https://www.amazon.co.uk/dp/0500273715/ref=nosim?tag=newgrange01-21">Amazon.co.uk</a>
+
+
+<br>
+<div id="lid">&nbsp;</div>
+
+
+<h2>Contents:</h2>
+<ul>
+<li>Part 1: Introduction to Newgrange
+<ul>
+<li>Brief description</li>
+<li>Previous history of the site
+<ul>
+<li>Antiquarian Accounts</li>
+<li>Newgrange in State care</li>
+</ul>
+</li>
+<li>Newgrange in early Irish literature
+<ul>
+<li>Traditional Associations</li>
+<li>The archaeological evidence<br>
+<br>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Part 2: Excavation
+<ul>
+<li>Methods</li>
+<li>The cairn slip
+<ul>
+<li>The North Cutting</li>
+<li>Interpretation</li>
+<li>Archaeological content</li>
+<li>Oval setting</li>
+<li>Hut foundation</li>
+<li>Bank of boulder clay</li>
+</ul>
+</li>
+<li>The great circle
+<ul>
+<li>Excavation</li>
+<li>The relationship of circle and cairn</li>
+<li>The relative shapes of circle and mound</li>
+</ul>
+</li>
+<li>The Cairn
+<ul>
+<li>Cairn profile K95</li>
+<li>Embrasure Cutting</li>
+<li>Other cuttings</li>
+<li>North cutting</li>
+<li>Interpretation</li>
+<li>Finds</li>
+</ul>
+</li>
+<li>The tomb exterior
+<ul>
+<li>The passage</li>
+<li>Passage and Chamber roofs</li>
+</ul>
+</li>
+<li>The tomb interior
+<ul>
+<li>Excavation</li>
+<li>Finds<br>
+<br>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Part 3: Post-excavation
+<ul>
+<li>Conservation and restoration
+<ul>
+<li>The Kerb</li>
+<li>Revetment wall</li>
+<li>The cairn</li>
+<li>The passage and chamber</li>
+<li>The cairn slip</li>
+<li>Multiple arc of pits</li>
+<li>Site Z<br>
+<br>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Part 4: Discussion
+<ul>
+<li>Construction of the monument
+<ul>
+<li>Building materials</li>
+<li>Building methods and sequence</li>
+</ul>
+</li>
+<li>The cult of the dead
+<ul>
+<li>Purpose and siting of the roof-box</li>
+<li>House of the dead</li>
+<li>The turf stripping</li>
+<li>Date<br>
+<br>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Part 5: Corpus of Newgrange Art
+<ul>
+<li>The ornament
+<ul>
+<li>Techniques</li>
+<li>Pick-dressing</li>
+<li>Irish Passage-grave art</li>
+</ul>
+</li>
+<li>Corpus of decorated stones
+<ul>
+<li>Method<br>
+<br>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Appendices
+<ul>
+<li>The finds M.J. O'Kelly</li>
+<li>The human skeletal remains T.P. Fraher</li>
+<li>The human dental remains V.R. O'Sullivan</li>
+<li>The faunal remains Louise H. van Wijngaarden-Bakker</li>
+<li>Pollen and seed analysis W.Groenman-van Waateringe and J.P. Pals</li>
+<li>Macroscopic plant remains M.A. Monk</li>
+<li>Land molluscs S. van der Spoel</li>
+<li>Land molluscs Carol Mason and J.G. Evans</li>
+<li>A portion of a bowl P.M. Bruck</li>
+<li>Radiocarbon dates M.J. O'Kelly</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Foreword by Colin Renfew</h2>
+
+<a href="newgrange.htm">Newgrange</a> is unhesitatingly regarded by the prehistorian as the great national monument of Ireland;
+in the words of the late <a href="https://www.newgrange.com/sean-p-oriordain.htm">Seán P. Ó Ríordáin</a>,
+'one of the most important ancient places in Europe'. Its special importance has been widely realized since the early
+description by Edward Lhwyd in 1699, and each generation finds in it something new and interesting. The widespread realization in recent years
+that the very early 'megalithic' architecture of western Europe is something notably and essentially European, owing little or nothing to the
+Near East, has only served to heighten our admiration for some of these great and early constructions, of which Newgrange is undoubtedly one of the very finest.
+
+<br><br>
+
+Our own generation has been particularly fortunate that, since 1962, this important site has been the subject of investigation by Professor
+O'Kelly, ably assisted by his wife Claire. To them we are indebted for a number of important discoveries and conclusions which are set out in full
+here. Indeed in the face of so much new information, it is interesting to look back to the pessimism which prevailed nearly two centuries ago,
+to the gloomy view that very little could ever be known about it. In his Tour in Ireland, published in 1807, the distinguished English antiquary,
+Sir Richard Colt Hoare, wrote of Newgrange:
+
+<br><br>
+
+<i>I shall not unnecessarily trespass upon the time and patience of my readers in endeavouring to ascertain what tribes first peopled this
+country, nor to what nation the construction of this singular monument may reasonably be attributed for, I fear, both its authors and its original
+destination will ever remain unknown. Conjecture may wonder over its wild and spacious domains but will never bring home with it either truth or
+conviction. Alike will the histories of those stupendous temples at Avebury and Stonehenge which grace my native country, remain involved in
+obscurity and oblivion.</i>
+
+<br><br>
+
+Now we know so very much more. In the first place, as reported here, the
+mound and its contents have been reliably dated. The 'uncorrected'
+radiocarbon date of around 2500 bc must be the equivalent, after the
+calibration of the radiocarbon time scale (using the corrections afforded
+by tree-ring dating), of a date in calendar years of about 3200 BC. There
+can be no doubt, therefore, that Newgrange is older than <a href="stonehenge.htm">Stonehenge</a>, older
+than Avebury, and indeed older by several centuries than the pyramids of Egypt.
+
+<br><br>
+
+This early construction highlights still further the great fascination of the carved stone decoration of the Boyne tombs, and of Newgrange itself.
+Mrs O'Kelly's corpus of the art from this site makes an important contribution here. The precise purpose of this decoration is still a matter
+for discussion, and great interest was aroused by Professor O'Kelly's discovery that some of the stones were decorated on surfaces which could
+never have been visible to the visitor to the tomb: their secret was revealed only in the course of excavation and restoration work. Here the
+case is convincingly argued that these stones were not re-used from some earlier monument. Moreover the care with which the construction was planned
+and executed does not support the view that these carved surfaces were obscured by accident or by the incompetence of the builders. Was this
+hidden carving then the consequence of some secret piety of its makers, invisible to mortal eyes, but present nonetheless for eternity?
+
+<br><br>
+
+The most remarkable discovery reported here came about unexpectedly in 1963, when the investigation of a seemingly anomalous slab led to the
+recognition of the 'roof-box', a carefully constructed aperture above the entrance. It is so situated that at midwinter's day the rays of the rising
+sun penetrate the full length of the entrance passage, and reach into the chamber itself. Whatever one's scepticism for some of the claims made on
+behalf of 'megalithic astronomy' or of 'astroarchaeology', it is difficult not to see this as a deliberate and successful attempt to incorporate the
+midwinter sunrise as a significant element in the planning and use of the monument. This arrangement constitutes one of the very earliest
+astronomical, or rather solar, alignments ever recorded, earlier by far than those of <a href="stonehenge.htm">Stonehenge</a> and the other British
+stone circles and standing stones. It still works today, despite the small changes over the millennia in the earth's position relative to the sun, and
+according to <a href="new_grange.htm">Professor O'Kelly</a> will continue to do so as long as Newgrange continues to stand.
+
+<br><br>
+
+This volume constitutes the final and definitive report of these excavations and researches, with studies by a number of specialists given
+as appendices. But it has turned into something very much more than simply an excavation report: into a review of the history of research at
+Newgrange, a survey of its place in prehistory, and a corpus of the remarkable carvings which embellish the stones of this 'cathedral of the megalithic religion'.
+
+<br><br>
+
+As discussed in chapter 12, former generations held that <a href="https://boynevalleytours.com/tour_location/newgrange/">Newgrange</a>, and
+those other great monuments of the <a href="https://www.boynevalleytours.com/">Boyne valley</a>,
+<a href="https://boynevalleytours.com/tour_location/knowth/">Knowth</a>
+and <a href="https://boynevalleytours.com/tour_location/dowth/">Dowth</a>, were the work of colonist-builders,
+representing the end of a line of devolution which had begun in the Mediterranean world, starting perhaps with the impressive stone tombs of
+Mycenae. Now we know that it is older by far than these Aegean comparisons, and that Newgrange is not the work of immigrants already greatly skilled in
+architecture, but instead the product of a more local evolution, from simple to complex. Some at least of the questions so pessimistically posed
+in 1807 by Colt Hoare can now be answered, and we can instead share the view of another early antiquary, George Petrie, and, on
+the basis of the careful researches reported here, with him agree 'to allow the ancient Irish the honour of erecting a work of such vast labour and grandeur'.
+<br>
+<br>
+Purchase at <a href="https://www.amazon.com/dp/0500273715/ref=nosim?tag=newgrange07-20">Amazon.com</a> or 
+<a href="https://www.amazon.co.uk/dp/0500273715/ref=nosim?tag=newgrange01-21">Amazon.co.uk</a>
+
+<br><br>
+
+Newgrange <a href="excavation.htm">Excavation</a> Report Critique by Alan Marshall.
+
+<br><br>
+
+<a href="early-ireland.htm">
+<img src="images-books/0521336872-big.jpg" alt="Early Ireland an Introduction to Irish Prehisory by Michael J. O'Kelly" width="275" height="403" style="float:left;margin-right:10px">
+
+Early Ireland - An Introduction to Irish Prehistory</a> by Michael J. O'Kelly
+
+<br><br>
+Early Ireland offers an authoritative introduction to the riches of Irish prehistory
+- a span of eight thousand years from the end of the Ice Age to the first centuries of the Christian era.
+
+<br><br>
+
+The book provides a clear account of the development of Irish society from its beginnings as a postglacial culture of hunters and
+gatherers, through the glory of its golden age in the second millennium BC, to the technological advances stimulated by the discovery of iron and, in
+the last centuries BC, the growth of a Celtic art style of unrivalled power and individuality.
+
+<br><br>
+Purchase at <a href="https://www.amazon.com/dp/0521336872/ref=nosim?tag=newgrange07-20">Amazon.com</a> or 
+<a href="https://www.amazon.co.uk/dp/0521336872/ref=nosim?tag=newgrange01-21">Amazon.co.uk</a>
+<br>
+<div id="lid">&nbsp;</div>
+<br>
+
+<a href="https://boynevalleytours.com/private-tours/">
+<h2>Boyne Valley Private Day Tour</h2>
+<img src="images/boyne-valley-tours-logo.jpg" width="400" height="140" style="float:right;margin-left:10px" alt="Boyne Valley Tours"></a>
+Immerse yourself in the rich heritage and culture of the Boyne Valley with our full-day private tours.
+<a href="https://boynevalleytours.com/tours/newgrange-tours/">Visit Newgrange</a> World Heritage site, explore the Hill of Slane, where Saint Patrick famously lit the Paschal fire.
+Discover the Hill of Tara, the ancient seat of power for the High Kings of Ireland.
+<a href="https://fareharbor.com/embeds/book/boynevalleytours/?full-items=yes">Book Now</a>
+
+<br>
+<div id="lid">&nbsp;</div>
+<br>
+
+<div id="bottom">
+
+<a href="index.htm">Home</a>
+| <a href="newgrange.htm">Newgrange</a>
+| <a href="knowth.htm">Knowth</a>
+| <a href="dowth.htm">Dowth</a>
+| <a href="tara.htm">Hill of Tara</a>
+| <a href="fourknocks.htm">Fourknocks</a>
+| <a href="loughcrew.htm">Loughcrew</a>
+| <a href="moreplaces.htm">More Places</a>
+| <a href="labyrinths.htm">Labyrinths</a>
+| <a href="localinfo.htm">Local Info</a>
+| <a href="art-works.htm">Art Works</a>
+| <a href="articles.htm">Articles</a>
+| <a href="images.htm">Images</a>
+| <a href="books.htm">Books</a>
+| <a href="links.htm">Links</a>
+| <a href="https://www.boynevalleytours.com/">Boyne Valley Tours</a>
+| <a href="contact.htm">Contact</a>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

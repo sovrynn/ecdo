@@ -1,0 +1,11 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Boso Peninsula Tsunami Deposit
+
+Basic location of event: Japan
+
+Specific data/information/context related to event: Sci-Hub | Identification of tsunami deposits considering the tsunami waveform: An example of subaqueous tsunami deposits in Holocene shallow bay on southern Boso Peninsula, Central Japan. Sedimentary Geology, 200(3-4), 295–313 | 10.1016/j.sedgeo.2007.01.009
+
+Fujiwara, O., & Kamataki, T. (2007). Identification of tsunami deposits considering the tsunami waveform: An example of subaqueous tsunami deposits in Holocene shallow bay on southern Boso Peninsula, Central Japan. Sedimentary Geology, 200(3-4), 295–313. doi:10.1016/j.sedgeo.2007.01.009
+
+10.1016/j.sedgeo.2007.01.009

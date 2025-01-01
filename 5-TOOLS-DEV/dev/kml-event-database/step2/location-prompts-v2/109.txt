@@ -1,0 +1,11 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Oceanic Withdrawal
+
+Basic location of event: Holland
+
+Specific data/information/context related to event: Sci-Hub | A late holocene deposit under the Westfriese Zeedijk near Enkhuizen (Prov. of Noord-Holland, The Netherlands): Palaeoecological and archaeological aspects. Review of Palaeobotany and Palynology, 38(3-4), 269–335 | 10.1016/0034-6667(83)90026-x
+
+Van Geel, B., Hallewas, D. P., & Pals, J. P. (1983). A late holocene deposit under the Westfriese Zeedijk near Enkhuizen (Prov. of Noord-Holland, The Netherlands): Palaeoecological and archaeological aspects. Review of Palaeobotany and Palynology, 38(3-4), 269–335. doi:10.1016/0034-6667(83)90026-x
+
+10.1016/0034-6667(83)90026-x

@@ -1,0 +1,12 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: New Sci-Hub | A tsunami (ca. 6300 years BP) and other Holocene environmental changes, northern Hawke’s Bay, New Zealand. Sedimentary Geology, 150(1-2), 89–102 | 10.1016/s0037-0738(01)00269-x
+
+Chagué-Goff, C., Dawson, S., Goff, J. R., Zachariasen, J., Berryman, K. R., Garnett, D. L., … Mildenhall, D. C. (2002). A tsunami (ca. 6300 years BP) and other Holocene environmental changes, northern Hawke’s Bay, New Zealand. Sedimentary Geology, 150(1-2), 89–102. doi:10.1016/s0037-0738(01)00269-x 
+
+10.1016/s0037-0738(01)00269-x
+ealand 6.3ka Tsunami
+
+Basic location of event: New Zealand
+
+Specific data/information/context related to event: Z

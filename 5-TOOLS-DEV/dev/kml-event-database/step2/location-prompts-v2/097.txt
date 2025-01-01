@@ -1,0 +1,131 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Newgrange Abandoned (Profile K81)
+
+Basic location of event: Ireland
+
+Specific data/information/context related to event: Newgrange - Archaeology, Art and Legend by Michael J. O'Kelly
+
+Professor O'Kelly presents the results of his excavations at Newgrange between 1962 and 1975. Every stage in the excavation, interpretation and restoration is described and illustrated
+
+Newgrange - Archaeology, Art and Legend by Michael J. O'Kelly and Claire O'Kelly.
+
+An account of the major excavation of Newgrange which was carried out by Professor Michael J. O'Kelly between 1962 and 1975.
+
+Essential reading for the serious study of the Megalithic Tomb at Newgrange. Hardback edition first printed in 1982, Paperback edition first printed in 1988 and still in print.
+
+In the book Professor O'Kelly presents the full results of his excavations at Newgrange between 1962 and 1975. Every stage in the excavation, interpretation and restoration of the site is described and illustrated with additional contributions from Claire O'Kelly, who collaborated in her husband's work at Newgrange from its inception.
+
+Purchase at Amazon.com or Amazon.co.uk
+
+Contents:
+Part 1: Introduction to Newgrange
+- Brief description
+- Previous history of the site
+  - Antiquarian Accounts
+  - Newgrange in State care
+- Newgrange in early Irish literature
+  - Traditional Associations
+  - The archaeological evidence
+
+Part 2: Excavation
+- Methods
+- The cairn slip
+  - The North Cutting
+  - Interpretation
+  - Archaeological content
+  - Oval setting
+  - Hut foundation
+  - Bank of boulder clay
+- The great circle
+  - Excavation
+  - The relationship of circle and cairn
+  - The relative shapes of circle and mound
+- The Cairn
+  - Cairn profile K95
+  - Embrasure Cutting
+  - Other cuttings
+  - North cutting
+  - Interpretation
+  - Finds
+- The tomb exterior
+  - The passage
+  - Passage and Chamber roofs
+- The tomb interior
+  - Excavation
+  - Finds
+
+Part 3: Post-excavation
+- Conservation and restoration
+  - The Kerb
+  - Revetment wall
+  - The cairn
+  - The passage and chamber
+  - The cairn slip
+  - Multiple arc of pits
+  - Site Z
+
+Part 4: Discussion
+- Construction of the monument
+  - Building materials
+  - Building methods and sequence
+- The cult of the dead
+  - Purpose and siting of the roof-box
+  - House of the dead
+  - The turf stripping
+  - Date
+
+Part 5: Corpus of Newgrange Art
+- The ornament
+  - Techniques
+  - Pick-dressing
+  - Irish Passage-grave art
+- Corpus of decorated stones
+  - Method
+
+Appendices
+- The finds M.J. O'Kelly
+- The human skeletal remains T.P. Fraher
+- The human dental remains V.R. O'Sullivan
+- The faunal remains Louise H. van Wijngaarden-Bakker
+- Pollen and seed analysis W.Groenman-van Waateringe and J.P. Pals
+- Macroscopic plant remains M.A. Monk
+- Land molluscs S. van der Spoel
+- Land molluscs Carol Mason and J.G. Evans
+- A portion of a bowl P.M. Bruck
+- Radiocarbon dates M.J. O'Kelly
+
+Foreword by Colin Renfew
+
+Newgrange is unhesitatingly regarded by the prehistorian as the great national monument of Ireland; in the words of the late Seán P. Ó Ríordáin, 'one of the most important ancient places in Europe'. Its special importance has been widely realized since the early description by Edward Lhwyd in 1699, and each generation finds in it something new and interesting. The widespread realization in recent years that the very early 'megalithic' architecture of western Europe is something notably and essentially European, owing little or nothing to the Near East, has only served to heighten our admiration for some of these great and early constructions, of which Newgrange is undoubtedly one of the very finest.
+
+Our own generation has been particularly fortunate that, since 1962, this important site has been the subject of investigation by Professor O'Kelly, ably assisted by his wife Claire. To them we are indebted for a number of important discoveries and conclusions which are set out in full here. Indeed in the face of so much new information, it is interesting to look back to the pessimism which prevailed nearly two centuries ago, to the gloomy view that very little could ever be known about it. In his Tour in Ireland, published in 1807, the distinguished English antiquary, Sir Richard Colt Hoare, wrote of Newgrange:
+
+I shall not unnecessarily trespass upon the time and patience of my readers in endeavouring to ascertain what tribes first peopled this country, nor to what nation the construction of this singular monument may reasonably be attributed for, I fear, both its authors and its original destination will ever remain unknown. Conjecture may wonder over its wild and spacious domains but will never bring home with it either truth or conviction. Alike will the histories of those stupendous temples at Avebury and Stonehenge which grace my native country, remain involved in obscurity and oblivion.
+
+Now we know so very much more. In the first place, as reported here, the mound and its contents have been reliably dated. The 'uncorrected' radiocarbon date of around 2500 bc must be the equivalent, after the calibration of the radiocarbon time scale (using the corrections afforded by tree-ring dating), of a date in calendar years of about 3200 BC. There can be no doubt, therefore, that Newgrange is older than Stonehenge, older than Avebury, and indeed older by several centuries than the pyramids of Egypt.
+
+This early construction highlights still further the great fascination of the carved stone decoration of the Boyne tombs, and of Newgrange itself. Mrs O'Kelly's corpus of the art from this site makes an important contribution here. The precise purpose of this decoration is still a matter for discussion, and great interest was aroused by Professor O'Kelly's discovery that some of the stones were decorated on surfaces which could never have been visible to the visitor to the tomb: their secret was revealed only in the course of excavation and restoration work. Here the case is convincingly argued that these stones were not re-used from some earlier monument. Moreover the care with which the construction was planned and executed does not support the view that these carved surfaces were obscured by accident or by the incompetence of the builders. Was this hidden carving then the consequence of some secret piety of its makers, invisible to mortal eyes, but present nonetheless for eternity?
+
+The most remarkable discovery reported here came about unexpectedly in 1963, when the investigation of a seemingly anomalous slab led to the recognition of the 'roof-box', a carefully constructed aperture above the entrance. It is so situated that at midwinter's day the rays of the rising sun penetrate the full length of the entrance passage, and reach into the chamber itself. Whatever one's scepticism for some of the claims made on behalf of 'megalithic astronomy' or of 'astroarchaeology', it is difficult not to see this as a deliberate and successful attempt to incorporate the midwinter sunrise as a significant element in the planning and use of the monument. This arrangement constitutes one of the very earliest astronomical, or rather solar, alignments ever recorded, earlier by far than those of Stonehenge and the other British stone circles and standing stones. It still works today, despite the small changes over the millennia in the earth's position relative to the sun, and according to Professor O'Kelly will continue to do so as long as Newgrange continues to stand.
+
+This volume constitutes the final and definitive report of these excavations and researches, with studies by a number of specialists given as appendices. But it has turned into something very much more than simply an excavation report: into a review of the history of research at Newgrange, a survey of its place in prehistory, and a corpus of the remarkable carvings which embellish the stones of this 'cathedral of the megalithic religion'.
+
+As discussed in chapter 12, former generations held that Newgrange, and those other great monuments of the Boyne valley, Knowth and Dowth, were the work of colonist-builders, representing the end of a line of devolution which had begun in the Mediterranean world, starting perhaps with the impressive stone tombs of Mycenae. Now we know that it is older by far than these Aegean comparisons, and that Newgrange is not the work of immigrants already greatly skilled in architecture, but instead the product of a more local evolution, from simple to complex. Some at least of the questions so pessimistically posed in 1807 by Colt Hoare can now be answered, and we can instead share the view of another early antiquary, George Petrie, and, on the basis of the careful researches reported here, with him agree 'to allow the ancient Irish the honour of erecting a work of such vast labour and grandeur'.
+
+Purchase at Amazon.com or Amazon.co.uk
+
+Newgrange Excavation Report Critique by Alan Marshall.
+
+Early Ireland - An Introduction to Irish Prehistory by Michael J. O'Kelly
+
+Early Ireland offers an authoritative introduction to the riches of Irish prehistory - a span of eight thousand years from the end of the Ice Age to the first centuries of the Christian era.
+
+The book provides a clear account of the development of Irish society from its beginnings as a postglacial culture of hunters and gatherers, through the glory of its golden age in the second millennium BC, to the technological advances stimulated by the discovery of iron and, in the last centuries BC, the growth of a Celtic art style of unrivalled power and individuality.
+
+Purchase at Amazon.com or Amazon.co.uk
+
+Boyne Valley Private Day Tour
+Immerse yourself in the rich heritage and culture of the Boyne Valley with our full-day private tours. Visit Newgrange World Heritage site, explore the Hill of Slane, where Saint Patrick famously lit the Paschal fire. Discover the Hill of Tara, the ancient seat of power for the High Kings of Ireland. Book Now
+
+Home | Newgrange | Knowth | Dowth | Hill of Tara | Fourknocks | Loughcrew | More Places | Labyrinths | Local Info | Art Works | Articles | Images | Books | Links | Boyne Valley Tours | Contact

@@ -1,0 +1,11 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Onuma paleo-tsunami history
+
+Basic location of event: Japan
+
+Specific data/information/context related to event: Sci-Hub | Holocene environmental changes and paleo-tsunami history in Onuma on the southern part of the Sanriku Coast, northeast Japan. Marine Geology, 386, 126–139 | 10.1016/j.margeo.2017.01.011
+
+Ishimura, D., & Miyauchi, T. (2017). Holocene environmental changes and paleo-tsunami history in Onuma on the southern part of the Sanriku Coast, northeast Japan. Marine Geology, 386, 126–139. doi:10.1016/j.margeo.2017.01.011
+
+10.1016/j.margeo.2017.01.011

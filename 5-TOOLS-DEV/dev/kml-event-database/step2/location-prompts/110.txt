@@ -1,0 +1,118 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Tsunami deposits on the Algarve shelf
+
+Basic location of event: Portugal
+
+Specific data/information/context related to event: Skip to main content
+Skip to article
+Elsevier logo
+
+Journals & Books
+
+Help
+
+Search
+
+My account
+Sign in
+
+Purchase PDF
+
+Article preview
+
+Abstract
+Introduction
+Section snippets
+References (101)
+Cited by (8)
+
+Elsevier
+Sedimentary Geology
+Volume 448, 15 April 2023, 106369
+Sedimentary Geology
+Holocene offshore tsunami archive – Tsunami deposits on the Algarve shelf (Portugal)
+Author links open overlay panelLisa Feist a, Pedro J.M. Costa b c, Piero Bellanova a, Ivana Bosnic b, Juan I. Santisteban d, César Andrade b, Helmut Brückner e, João F. Duarte f, Jannis Kuhlmann g, Jan Schwarzbauer h, Andreas Vött i, Klaus Reicherter a, the M152 shipboard scientific party 1
+Show more
+Add to Mendeley
+Share
+Cite
+https://doi.org/10.1016/j.sedgeo.2023.106369
+Get rights and content
+Highlights
+
+• Offshore tsunami deposits of the 1755 CE Lisbon and a previously unknown tsunami
+• The ca. 3600 cal yr BP tsunami extends the Portuguese tsunami catalog.
+• Characteristics of offshore tsunami deposits are strongly site-specific.
+• Tsunami backwash can transport sediments as grain or debris flows.
+
+Abstract
+The well-known 1755 CE Lisbon tsunami caused widespread destruction along the Iberian and northern Moroccan coastlines. Being affected by the powerful 1755 CE Lisbon tsunami, the southwestern Algarve shelf provides environments for detecting offshore tsunami imprints. Our multidisciplinary investigations (hydroacoustics, sedimentology, geochemistry, radiocarbon dating) of the Holocene sediments have revealed tsunami deposits linked to this tsunami and a ca. 3600 cal yr BP event. The latter event is until now unidentified in Portugal. Both event deposits contrast with the background shelf sedimentation by their coarser grain size, element composition, internal structure, and erosive base, making them discernible in the sub-bottom data and cores. Especially the ca. 3600 cal yr BP deposit is exceptionally well-preserved at one of the coring sites. The clear differentiation into several sections enables further insights into offshore tsunami transport and depositional processes. This study demonstrates that the record and preservation of tsunami deposits were possible on the Algarve shelf in specific locations sheltered from possible alterations. Our findings extend the tsunami catalogs of Portugal with a previously unknown tsunami dated to ca. 3600 cal yr BP.
+
+Introduction
+Sedimentary imprints of high-energy events on the continental shelves are commonly associated with high-density sediment flows triggered by floods, storms, submarine slope failures, or tsunamis (Einsele et al., 1996). These events are recorded as erosive or depositional features on the continental shelves; and as secondary mass movements and turbidites beyond the shelf break (Einsele et al., 1996; Dawson and Stewart, 2007). Floods, storms, and tsunamis can severely affect coastal societies, local economies, and environments. The research on sedimentological imprints of these events has relied on onshore studies where impacts are more evident compared to the offshore domain. However, the Holocene record of these events can be more complete in offshore areas where the deposits are protected from common onshore post-depositional alterations (e.g., changes in coastal morphology, erosion, weathering, pedogenesis, anthropogenic modification) (Szczuciński, 2012, Szczuciński, 2020; Spiske et al., 2020). On the other hand, offshore sedimentary signatures are highly variable and can be altered through sediment erosion, mixing, deposition, or bioturbation (Wheatcroft and Drake, 2003; Wheatcroft et al., 2007). Therefore, the preservation of sedimentary signatures is especially favored in depositional sinks (i.e., small basins) below the storm wave base, where sediment is sheltered from currents and waves. 
+Storms are powerful geomorphic agents primarily acting as key erosional players removing sediment towards the nearshore and, resulting from backflow, towards offshore areas (Brenchley, 1989; Einsele et al., 1996). On the other hand, tsunami waves exceed storm waves in terms of wavelength and water mass transport, and thus can provide significant depositional signatures further inland and, in the case of tsunami backflow, distinctive beds in shallow shelf waters (Einsele et al., 1996). Research on tsunami deposits underwent substantial progress during the last three decades. Nevertheless, little is still known about offshore tsunami deposits, particularly their related depositional mechanisms and diagnostic features. Thus, a substantial part of the tsunami depositional process lacks detailed understanding. Several studies focused on offshore tsunami impact following significant events, e.g., 2011 Tōhoku-Oki (Arai et al., 2013; Ikehara et al., 2014; Tamura et al., 2015); 2004 Indian Ocean (Feldens et al., 2009, Feldens et al., 2012; Sakuna et al., 2012; Sakuna-Schwartz et al., 2015); 2009 South Pacific (Riou et al., 2020a, Riou et al., 2020b). Paleo-tsunami deposits were also described in historic and pre-historic contexts, e.g., the 1883 CE Krakatoa eruption (van den Bergh et al., 2003); various events in the Mediterranean Sea (Smedile et al., 2011, Smedile et al., 2020; Goodman-Tchernov and Austin, 2015; Goff et al., 2018); a before undocumented event in the Red Sea (Goodman Tchernov et al., 2016); and the 1755 CE Lisbon tsunami (Abrantes et al., 2008). 
+Like onshore tsunami deposits, offshore deposits can hardly be generalized regarding their sedimentological characteristics and geophysical and geochemical properties. Different characteristics are attributed to different hydrodynamic conditions during the inundation and backwash phases (Sakuna et al., 2012) and site-specific factors (e.g., bathymetry, channeling effect, sediment supply, preservation potential, and bioturbation). Nevertheless, many offshore tsunami deposits are characterized by erosional basal surfaces (Feldens et al., 2012; Sakuna et al., 2012; Ikehara et al., 2014; Smedile et al., 2020). Sedimentary features found in offshore tsunami deposits include reworked marine sediments and increased terrigenous materials (Feldens et al., 2012; Tamura et al., 2015; Riou et al., 2020a, Riou et al., 2020b; Smedile et al., 2020). Terrigenous materials are eroded onshore and transported by the tsunami backwash channeled in submarine valleys as high-density flows (Dawson and Stewart, 2007; Abrantes et al., 2008; Feldens et al., 2009; Bahlburg and Spiske, 2012; Goodman Tchernov et al., 2016; Riou et al., 2020a, Riou et al., 2020b). 
+The littoral areas of the Algarve, southern Portugal, are densely populated and highly important for the Portuguese economy, especially for the tourism sector (Omira et al., 2011). Storms along the Algarve coast occur frequently and can lead to severe short-term alterations of the littoral (Harley et al., 2014). The well-known 1755 CE Lisbon tsunami devastated large areas of the Iberian and northern Moroccan coastlines (Baptista and Miranda, 2009). Baptista and Miranda (2009) list several other tsunami events in their catalog. Tsunamigenic earthquakes along the Iberian Atlantic coast are related to the compressive tectonic setting within the Eurasian-African plate boundary (Baptista et al., 1998) with a transcurrent motion of the Gloria Fault (Kaabouben et al., 2008) or the effect of distant seismic sources (i.e., the Azores or Grand Banks; Baptista and Miranda, 2009). Tsunamis are also possible as a consequence of mass wasting events in the Gulf of Cádiz (Mulder et al., 2009) or the volcanic Atlantic archipelagos (Krastel et al., 2001).
+This study focuses on the Algarve continental shelf with areas close to Alcantarilha and Salgados for the eastern sector, and Martinhal and Boca do Rio for the western sector (Fig. 1). This part of the Portuguese coast was heavily affected by the 1755 CE Lisbon tsunami. While the southwestern Iberian onshore record related to this event is well-studied (Fig. 1B) (Costa et al., 2021 for a summary), little emphasis has been laid on the correlated offshore imprint and associated hydrodynamic processes. Along the study area of the Algarve shelf, only a few offshore tsunami studies were conducted by Costa et al., 2012a, Costa et al., 2012b (Fig. 1B: e, f), who compared the onshore and nearshore 1755 CE Lisbon tsunami sediments and Quintela et al. (2016) (Fig. 1B: g, j) who compared foraminifera assemblages onshore and from a sediment core of the outer shelf. Mendes et al. (2020) (Fig. 1B: k) analyzed the Guadiana River paleo-valley for flooding events but did not identify deposits related to the 1755 CE tsunami. In terms of paleo-tsunamis, the Algarve onshore record is complex, particularly before ca. 3000 cal yr BP, before the full development of coastal barriers (Andrade et al., 2004, Andrade et al., 2016; Costa et al., 2016).
+This study investigates the Holocene sedimentary record of the Algarve continental shelf off southern Portugal to identify offshore deposits of the 1755 CE Lisbon tsunami and possible preceding events and assess their sedimentological features. To do so, RV METEOR cruise M152 (Reicherter et al., 2019) recorded hydroacoustic profiles and collected sediment cores from the shelf. We present hydroacoustic profiles and sediment cores from two different transects on the Algarve shelf (Fig. 1C) containing several intercalated event deposits. These deposits were analyzed using a multi-proxy approach that combined sedimentological methods (high-resolution grain size analyses), P-wave velocity, magnetic susceptibility, and XRF core-scanning. The chronological framework was established by radiocarbon dating.
+Section snippets
+Area descriptions
+The Algarve continental shelf, with a mean width of approximately 17 km, dips gently until the shelf break at 110–150 m water depth (Fig. 1C). It experienced significant environmental changes since the Last Glacial Maximum (ca. 20,000 cal yr BP) when sea level was approximately 120–130 m lower than today (Dias et al., 2000; Lambeck et al., 2014). During the rapid post-glacial sea level rise, the coastline retreated landwards until ca. 5000–6000 cal yr BP, changing the width and the water depth
+
+Methods and material studied
+Multibeam surveys were conducted using two hull-mounted Kongsberg echosounder systems, EM122 (12 kHz) and EM710 (70–100 kHz), permanently installed on RV METEOR. Water depth levels for parasound profiles were taken from the EM122. The Atlas Parasound P70 system installed onboard RV METEOR can emit two primary high frequencies of 18 kHz and 18.5–28 kHz, thus generating parametric secondary low frequency between 0.5 and 6 kHz used for the sub-bottom survey. A vertical resolution of <15 cm in
+The hydroacoustic survey
+The hydroacoustic survey included sub-bottom profiles to visualize the shallow sedimentary cover of the shelf and to facilitate the recognition of depositional sinks, basins, and submarine valleys as the most suitable coring locations. According to the profiles, the study area is generally marked by relatively rugged erosional seafloor and frequent exposures of bedrock. Sub-bottom profiles indicate different penetration depths varying from near 0 m in areas where bedrock is exposed (i.e., no
+Stratigraphic units and possible high-energy events
+Based on the results of the multi-proxy approach, at least three stratigraphic units and two event layers can be distinguished that represent different sedimentary environments and depositional conditions. P-wave velocities correlate with grain size in continental shelf environments, with lower velocities in fine sediment and higher velocities in coarser sediment (Hamilton and Bachman, 1982). Magnetic susceptibility indicates the relative abundance and magnetic behavior of (magnetic) minerals 
+Tsunamis in the Algarve region – trigger mechanisms
+High-energy event deposits like those found intercalated in the fine-grained shelf deposits in cores of the Algarve shelf can derive from different trigger mechanisms, such as floods, storms, and tsunamis, the latter most frequently associated with high-magnitude earthquakes capable of generating rupture of the seafloor, and slope mass movements, both subaerial and submarine. Trigger events, as well as effects, can either be local, regional, or global with varying properties conditioned by
+Conclusions
+Results presented in this study demonstrate that preservation of tsunami deposits was possible on the Algarve shelf below the storm wave base. However, offshore tsunami research, in general, is limited because accessibility to shelf archives is often complicated (de Martini et al., 2021). Therefore, diagnostic criteria are still very much site-specific, which is also congruent with onshore imprints. Our results suggest that offshore tsunami deposits can only be found at specific locations along
+Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+Acknowledgements
+The authors are deeply grateful to the research and technical crew under the command of Captain R. Hammacher from RV METEOR M152. In addition, Prof. M. Melles, University of Cologne, kindly facilitated access to an ITRAX core scanner for XRF analysis. We thank Pierre Sabatier and Ken Ikehara for their detailed and constructive reviews, significantly improving the manuscript. Furthermore, we thank Catherine Chagué and Witold Szczuciński for their valuable input on an earlier version of the
+References (101)
+
+F. Abrantes et al. Sedimentological record of tsunamis on shallow-shelf areas: the case of the 1969 AD and 1755 AD tsunamis on the Portuguese Shelf off Lisbon Marine Geology (2008) C. Andrade et al. Stratigraphical evidence of late Holocene barrier breaching and extreme storms in lagoonal sediments of Ria Formosa, Algarve, Portugal Marine Geology (2004) M.A. Baptista et al. Constrains on the source of the 1755 Lisbon tsunami inferred from numerical modelling of historical data on the source of the 1755 Lisbon tsunami Journal of Geodynamics (1998) M.O.N. Baringer et al. A review of the physical oceanography of the Mediterranean outflow Marine Geology (1999) C. Chagué-Goff et al. Applications of geochemistry in tsunami research: a review Earth Science Reviews (2017) P.J.M. Costa et al. Microtextural characteristics of quartz grains transported and deposited by tsunamis and storms Sedimentary Geology (2012) P.J.M. Costa et al. A review on onshore tsunami deposits along the Atlantic coasts Earth Science Reviews (2021) A.G. Dawson et al. Tsunami deposits in the geological record Sedimentary Geology (2007) P.M. De Martini et al. The Mediterranean Sea and the Gulf of Cadiz as a natural laboratory for paleotsunami research: recent advancements Earth Science Reviews (2021) J.M.A. Dias et al. Coast line evolution in Portugal since the last Glacial Maximum until present — a synthesis Marine Geology (2000)
+
+View more references Cited by (8)
+
+The Safi boulders (Morocco): Evidence of past extreme wave events 2024, Marine Geology Citation Excerpt :
+
+In both sites, the movement of the boulders by much older tsunamis, like the one in 3600 Cal BP, is not ruled out. Indeed, several sedimentological traces of this event have been found along the Moroccan and Iberic shores (Costa et al., 2021; Feist et al., 2023; Khalfaoui et al., 2023b). Based on the previous considerations, we assume that the cliff-top boulders in site 2 are more likely to have been deposited by tsunami waves. 
+Show abstract
+
+Luminescence dating of tsunami deposits from the algarve shelf, Portugal 2024, Quaternary Geochronology Citation Excerpt :
+
+Based on sedimentological core data (see section 3.2), the core was correlated with the 14C-dated parallel cores GeoB235 19–01 and 19–02. For these, Feist et al. (2023) reported sand layers of the 1755 CE tsunami as well as a ca. 3600 cal. BP predecessor tsunami, both intercalated in muddy shelf sediments that cover the last ∼11 ka (Fig. 2). 
+Show abstract
+Evolution of the sedimentary environment on the continental shelf of southeastern Hainan Island under the influences of sea level and climate during the Holocene 2024, Journal of Asian Earth Sciences Show abstract Offshore evidence of historic and prehistoric tsunamis on the north shore of Tutuila (American Samoa) 2024, Sedimentary Geology Show abstract Tsunamis Struck Coasts of Triassic Oceans and Seas: Brief Summary of the Literary Evidence 2023, Water (Switzerland) GEOHAZARDS IN PORTUGAL: A STATE OF THE ART
+
+2023, Finisterra 
+
+View all citing articles on Scopus
+
+1
+Group authors: Klaus Reicherter, César Andrade, Gerhard Bartzke, Piero Bellanova, Helmut Brückner, Pedro J.M. Costa, Björn Deutschmann, João F. Duarte, Daniela Eichner, Francisco Fatela, Lisa Feist, Mike Frenken, Hanna Hadler, Nicole Höbig, Leonie Hönekopp, Lena Koch, Tamara Köhler, Jannis Kuhlmann, Nuno Lapa, Simone Lechthaler, Margret Mathes-Schmidt, Kilian Pallapies, Joaquim Pombo, Juan I. Santisteban, Holger Schüttrumpf, Jan Schwarzbauer, Ana N. Silva, Andreas Vött. 
+
+View full text © 2023 Elsevier B.V. All rights reserved. Recommended articles
+
+Influence of HCl pretreatment and organo-mineral complexes on laser diffraction measurement of loess–paleosol-sequences CATENA, Volume 137, 2016, pp. 392-405 Philipp Schulte, …, Georg Stauch The structure of incipient coastal counter currents in South Portugal as indicator of their forcing agents Journal of Marine Systems, Volume 214, 2021, Article 103486 L. De Oliveira Júnior, …, P. Relvas Residual oil saturation investigation in Barra Velha Formation reservoirs from the Santos Basin, Offshore Brazil: A sedimentological approach Sedimentary Geology, Volume 448, 2023, Article 106372 Ronaldo Herlinger Jr, …, Alexandre Vidal 
+
+Show 3 more articles Elsevier logo with wordmark
+
+About ScienceDirect
+
+Remote access
+Shopping cart
+Advertise
+Contact and support
+Terms and conditions
+Privacy policy
+
+Cookies are used by this site. Cookie Settings
+
+All content on this site: Copyright © 2025 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply. RELX group home page

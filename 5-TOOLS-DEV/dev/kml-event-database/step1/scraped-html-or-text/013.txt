@@ -1,0 +1,944 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<!--last modified on Thursday, March 02, 2000 11:55 AM -->
+<HTML>
+
+<HEAD>
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html;CHARSET=iso-8859-1">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<Meta Name="Keywords" Content="Professional Paper 1563, Tephra, Tephra-fall, Tephra-fall deposits, Mount St. Helens, Washington, volcano, volcanoes, explosive, eruption, eruptions, Cascade Range, lava, lava flow, domes">
+
+	<META NAME="Author" Content="Donal R. Mullineaux">
+	<TITLE>Tephra Set K--PRE-1980 TEPHRA-FALL DEPOSITS ERUPTED FROM MOUNT ST. HELENS, WASHINGTON</TITLE>
+      <script async type="text/javascript" src="https://www2.usgs.gov/scripts/analytics/usgs-analytics.js"></script>
+
+</HEAD>
+
+<BODY BACKGROUND="globebk.gif">
+
+<P><IMG SRC="bnrglobe.gif" WIDTH="480" HEIGHT="172" ALIGN="BOTTOM" BORDER="0"></P>
+<P ALIGN="CENTER"><BR>
+PRE-1980 TEPHRA-FALL DEPOSITS ERUPTED FROM MOUNT ST. HELENS, WASHINGTON</P>
+<P>&nbsp;<I><FONT SIZE="2">By</FONT></I><FONT SIZE="2"> Donal R. Mullineaux&nbsp;</FONT></P>
+<P>U. S. Geological Survey Professional Paper 1563</P>
+<CENTER>
+<P>
+<HR ALIGN="CENTER">
+<A NAME="TephraK"></A><B>Tephra Set K</B></P>
+</CENTER>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Tephra set K consists of a series of at least 10 thin beds of pumiceous
+and lithic ash and small lapilli. It commonly forms a relatively obscure gray, stratified band between thick, oxidized
+ash-rich deposits east and south of the volcano (<A HREF="figure17.html">fig. 17</A>). No large lapilli or bombs
+were found in the set. All its tephra beds are fine grained as well as thin, compared with tephras in the underlying
+and overlying sets of Pleistocene age. No distinctive beds were recognized within set K, and no layers or beds
+are described individually. <A NAME="figure17"></A> 
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="100%">
+			<P ALIGN="CENTER"><A HREF="figure17.html"><IMG SRC="figures/figure17wtn.jpg" WIDTH="150" HEIGHT="220" ALIGN="BOTTOM"
+			BORDER="2"></A></P>
+			<P><B>Figure 17. </B>Thin tephras of set K, Mount St. Helens. Dips are primary. Pods of brown ashy material in
+			the part of the set that is gray and bedded probably are animal-burrow backfills. Pocketknife shown for scale.
+			Photograph taken in 1979. <B><I>(113K)</I></B>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">A tephra sequence that includes two layers of lapilli, each 30-40 cm thick,
+interbedded with several tens of thinner ash beds was observed between sets M and S in a single, disturbed outcrop
+8 km northeast of the volcano. Pumice in that sequence is mineralogically similar to that in set K, but the relation
+of those strata to the fine-grained set K east and south of the volcano is not known.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Generally, set K strata are partly oxidized and brownish gray, but pumice lapilli
+are not weathered enough to be noticeably soft. At least two thin, oxidized zones within the set suggest short
+time breaks during its deposition. At most outcrops, the tephras are only patchily preserved (<A HREF="figure17.html">fig.
+17</A>); burrowing animals and other near-surface disturbances have almost everywhere strongly affected these thin
+deposits.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Set K consists chiefly of finely vesicular pumice along with abundant lithic
+fragments. Ferromagnesian mineral suites in pumice of the set consist mostly of cummingtonite and hornblende. Small
+amounts of biotite were found, but not consistently, and are not diagnostic of the set. Because its composition
+is not distinctive, set K is identified only by its stratigraphic position, characteristic thin beds, and fine
+grain size.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Set K is both underlain and overlain near the volcano by 100-200 cm of oxidized,
+ash-rich deposits, that generally are as thick or thicker than set K itself. Commonly, both the base and top of
+the set are so disturbed that its stratigraphic boundaries are uncertain (<A HREF="figure17.html">fig. 17</A>).</P>
+<P ALIGN="CENTER"><A NAME="Distribution"></A><B>Distribution and thickness</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Set K is present fairly consistently from east of the volcano clockwise
+to the south, below altitudes of 600 m. In areas 10-15 km east and southeast of the volcano, it commonly is 30-50
+cm thick (<A HREF="figure18.html">figs, 18</A>, <A HREF="figure19.html">19</A>). Sixteen kilometers south of the
+volcano, it is almost entirely ash and is about 10 cm thick. The deposits of set K that are preserved probably
+do not represent the primary thickness of the set because unknown thicknesses of the tephra have been mixed into
+underlying and overlying deposits.<A NAME="figure18"></A><BR>
+
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="100%">
+			<P ALIGN="CENTER"><A HREF="figure18.html"><IMG SRC="figures/figure18tn.gif" WIDTH="193" HEIGHT="220" ALIGN="BOTTOM"
+			BORDER="2"></A></P>
+			<P><B>Figure 18. </B>Location and thickness (in centimeters) of tephra in set K. At most outcrops, set K has been
+			truncated by erosion, and its primary thickness is not known. <B><I>(8K)</I></B>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+Set K was traced only as far as 15-20 km east and south of the volcano. <A NAME="figure19"></A> 
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="100%">
+			<P ALIGN="CENTER"><A HREF="figure19.html"><IMG SRC="figures/figure19wtn.gif" WIDTH="220" HEIGHT="98" ALIGN="BOTTOM"
+			BORDER="2"></A></P>
+			<P><B>Figure 19.</B> Columnar sections of tephra set K from approximately east to south of Mount St. Helens, and
+			diagram of their locations relative to the central vent of the volcano. <B><I>(17K)</I></B>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Pumice lapilli layers and interbedded ash deposits 8 km northeast of the volcano,
+which might be correlative with set K, are as thick as 200 cm. The two coarse, thick pumice layers that were observed
+there probably extend much farther to the northeast but were not traced or specifically identified elsewhere.</P>
+<P ALIGN="CENTER"><A NAME="Age"></A><B>Age</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Set K apparently is between about 20,000 and 19,000 years old, based on
+carbonized wood recovered from pyroclastic-flow deposits (<A HREF="table2.html">table 2</A>). South of Mount St.
+Helens, sets K and M both overlie a pyroclastic-flow deposit dated at 20,350 &plusmn;350 years old (W-2540). Southeast
+and south of the volcano, respectively, carbonized wood samples from pyroclastic-flow deposits that overlie set
+K have been dated as 19,160 &plusmn; 250 (W-4531) and 18,560 &plusmn; 180 (W-2413) years old.</P>
+<P ALIGN="CENTER"><A NAME="TephraS"></A><B>Tephra Set S</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Set S is characterized by two conspicuous yellow to brown pumice lapilli
+and bomb layers that overlie yellowish-gray, finer layers of chiefly ash (<A HREF="figure20.html">figs. 20</A>,
+<A HREF="figure21.html">21</A>). In the field, that series of beds of those colors and grain sizes is almost diagnostic
+of set S. The two coarse layers at its top dominate the set east of the volcano, but the underlying finer strata
+are more widespread and locally are thicker. Pumice in the set is somewhat weathered, in many places enough that
+pumice lumps are soft and readily broken or cut. Near the volcano, tephra in the lower and middle parts of the
+set typically is interbedded with deposits of ash-cloud or other flowage origin.<A NAME="figure20"></A><BR>
+
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="100%">
+			<P ALIGN="CENTER"><A HREF="figure20.html"><IMG SRC="figures/figure20tn.jpg" WIDTH="220" HEIGHT="147" ALIGN="BOTTOM"
+			BORDER="2"></A></P>
+			<P><B>Figure 20.</B> Tephra set S about 7 km east of Mount St. Helens and 100 m above floor of Smith Creek valley.
+			Thin lenses of grayish-brown ash (at tip of shovel) are the lowest beds of set S here; the overlying ash contains
+			lenses of probable flowage origin. Layer Sw consists of multiple thin beds of brownish-gray ash containing white
+			lapilli; it is overlain by crossbedded ash of probable flowage origin. Layer Ss here is a thin, brown ash that
+			is barely visible under layer Sg. The reddish-brown upper part of layer So was weathered when that layer was exposed
+			at the surface for more than a thousand years before being buried; pumice lapilli in the upper part of set S are
+			soft enough to have been cut through during scraping of the outcrop. Shovel blade is about 25 cm long. Photograph
+			taken in 1979. <B><I>(194K)</I></B>
+		</TD>
+	</TR>
+</TABLE>
+<SPACER TYPE="HORIZONTAL" SIZE="30">In many outcrops near Mount St. Helens, set S is the oldest readily recognizable
+tephra set because older sets have been removed or disturbed beyond recognition.<A NAME="figure21"></A><BR>
+
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="100%">
+			<P ALIGN="CENTER"><A HREF="figure21.html"><IMG SRC="figures/figure21tn.gif" WIDTH="201" HEIGHT="220" ALIGN="BOTTOM"
+			BORDER="2"></A></P>
+			<P><B>Figure 21.</B> Composite columnar section of tephra set S, Mount St. Helens. <B><I>(16K)</I></B>
+		</TD>
+	</TR>
+</TABLE>
+</P>
+<P ALIGN="CENTER"><A NAME="Composition"></A><B>Composition</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Dacitic pumice makes up most of set S, especially in the coarser strata.
+Ferromagnesian mineral suites consist chiefly of cummingtonite and olive to brownish hornblende. Brown hornblende
+makes up as much as half of the hornblende fraction and appears to be more abundant than in sets K and M. Hypersthene
+is sparse in layer Sw, in the middle of the set, but makes up several percent of the ferromagnesian mineral fraction
+in most other layers.<BR>
+Chemical analyses of pumice from the base, middle, and top of set S show a range in SiO<SUB>2</SUB> values of about
+62-64 percent.</P>
+<P ALIGN="CENTER"><A NAME="Diagnostic"></A><B>Diagnostic features</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Near Mount St. Helens, set S is recognized by its succession of yellow pumiceous
+lapilli layers overlying yellowish-gray ash, by its stratigraphic position below the darker brown set J, and ferromagnesian
+mineral composition. In outcrop, pumice layers of set S are thicker and have a stronger yellow color than layers
+of sets M and K and are lighter in color than layers of set J. Abundance of brown hornblende helps to separate
+set S from older cummingtonite-bearing pumices that also contain hypersthene.</P>
+<P ALIGN="CENTER"><A NAME="Stratigraphic"></A><B>Stratigraphic relations</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">On uplands near the volcano, set S is usually both underlain and overlain
+by oxidized, ash-rich deposits that commonly are as thick as 100 cm. Layer So at the top of the set commonly has
+been noticeably weathered and disturbed in an oxidized zone. On and near the valley floors, pyroclastic-flow deposits
+almost everywhere overlie set S and separate it from set J.</P>
+<P ALIGN="CENTER"><A NAME="Distribution19"></A><B>Distribution and thickness</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Set S was recognized all around the volcano except directly to the northwest
+(<A HREF="figure22.html">figs. 22</A>, <A HREF="figure23.html">23</A>), and it is thickest, coarsest, and most
+complete toward the east-northeast and east. Toward the east, it is commonly 50-70 cm thick at distances of 10-15
+km from the volcano. At 10-15 km north and south of the volcano, where only one or two lapilli-bearing beds are
+present, the set as a whole generally is only 10-20 cm thick. Toward the southwest and west, it is even thinner,
+and only one lapilli-bearing layer was found (<A HREF="figure22.html">fig. 22</A>).<A NAME="figure22"></A><BR>
+
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="100%">
+			<P ALIGN="CENTER"><A HREF="figure22.html"><IMG SRC="figures/figure22wtn.gif" WIDTH="194" HEIGHT="220" ALIGN="BOTTOM"
+			BORDER="2"></A></P>
+			<P><B>Figure 22.</B> Approximate thickness (in centimeters) of tephra set S at selected locations, Mount St. Helens.
+			Thickness reported includes only thickness of deposits interpreted as tephra; most stratigraphic sections also
+			include interbedded deposits of flowage origin. <B><I>(12K)</I></B>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+Downwind, as many as three beds of set S have been identified at multiple sites in eastern Washington as far as
+about 300 kilometers from the volcano (Foley, 1976, 1982; Moody, 1977, 1978; Mullineaux and others, 1978; Waitt,
+1980; Stradling and Kiver, 1986; Busacca and others, 1992).</P>
+<P ALIGN="CENTER"><A NAME="Age23"></A><B>Age</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Set S apparently was erupted between about 13,600 and 12,500 years ago,
+and probably close to about 13,000 years ago. About 50 km northeast of Mount St. Helens, peat from below and above
+set S tephra in a bog has been dated at about 13,650 (W-3136) and 12,120 years BP (W-3133) years B.P. (<A HREF="table2.html">table
+2</A>), respectively (Mullineaux and others, 1975; Crandell and others, 1981). On the south flank of the volcano,
+a date of about 12,910 years (W-3141, <A HREF="table2.html">table 2</A>) was obtained for charred wood from a pyroclastic-flow
+deposit that underlies one layer of set S tephra there and is compositionally similar to the tephra (<A HREF="figure23.html">fig.
+23</A>) (Mullineaux and others, 1975).<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Dates of approximately 13,800 and 13,600 years B.P. reported from peat above
+beds regarded as set S about 100 km north of Mount St. Helens (Davis and others, 1982; Porter and others, 1983)
+conflict slightly with the dates described preceding. That discrepancy may result merely from imprecision of radiocarbon
+dating. No radiocarbon date is available, however, for the base of set S at Mount St. Helens, and eruptions that
+produced the set may have started before 13,600 years ago.</P>
+<P ALIGN="CENTER"><A NAME="DescriptionS"></A><B>Description of layers in set S</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">All the described layers in set S crop out directly east of the volcano,
+although the tephra strata in the lower part of the set there are thin and interbedded with thicker ash beds of
+probable flowage origin (<A HREF="figure20.html">figs. 20</A>, <A HREF="figure23.html">23</A>; measured <A HREF="#MeasuredS-1">section
+S-1</A>). Set S tephras also crop out on the north, west, and south sides of the volcano, but their relation to
+layers described east of the volcano is not known, and they were not identified specifically or described separately.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Two thin oxidization zones in the lower part of set S were found at a few outcrops.
+These may represent surface oxidation and record brief weathering periods between eruptions, or they may represent
+only staining by oxidized material deposited from ground water.<BR>
+<BR>
+
+<HR ALIGN="CENTER">
+</P>
+<P ALIGN="CENTER"><A NAME="MeasuredS-1"></A><B>Measured section S-1.</B></P>
+<P><BR>
+Road cut along pre-1980 logging road 140 on west wall of Smith Creek valley north of Ape Canyon Creek, about 100
+m above valley floor; 7 km east of Mount St. Helens. See <A HREF="figure20.html">figure 20</A>.<BR>
+<BR>
+
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">&nbsp;</TD>
+		<TD WIDTH="59%" VALIGN="TOP">&nbsp;</TD>
+		<TD WIDTH="23%" VALIGN="TOP"><I>Thickness<BR>
+			(centimeters)</I></TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">17.</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Pyroclastic-flow deposit, lithic</TD>
+		<TD WIDTH="23%" VALIGN="TOP">60-100</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">&nbsp;</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Set S and unidentified deposits of similar age</TD>
+		<TD WIDTH="23%" VALIGN="TOP">&nbsp;</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">16.</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Pumiceous ash and small lapilli, locally crudely layered: contains small amounts of organic material; may be reworked
+			from layer So</TD>
+		<TD WIDTH="23%" VALIGN="TOP">2-5</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">15.</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Layer So. Chiefly brown pumice lapilli; scattered small bombs and lithic fragments; upper half more oxidized than
+			lower half</TD>
+		<TD WIDTH="23%" VALIGN="TOP">25</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">14.</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Ash, pumiceous, brown</TD>
+		<TD WIDTH="23%" VALIGN="TOP">1-2</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">13.</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Layer Sg. Pumice lapilli, yellow-brown, normally graded, and small bombs; contains small proportion of lithic fragments</TD>
+		<TD WIDTH="23%" VALIGN="TOP">35-40</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">12.</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Ash, fine, grayish-brown</TD>
+		<TD WIDTH="23%" VALIGN="TOP">2</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">11.</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Layer Ss. Ash, pumiceous, brown; contains scattered small to large pumice lapilli</TD>
+		<TD WIDTH="23%" VALIGN="TOP">3</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">10.</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Ash, fine, brown to gray: contains lenses of coarse ash and small lapilli; crossbedded, probably of flowage origin</TD>
+		<TD WIDTH="23%" VALIGN="TOP">20-30</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">9.</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Layer Sw.</TD>
+		<TD WIDTH="23%" VALIGN="TOP">&nbsp;</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%">&nbsp;</TD>
+		<TD WIDTH="59%">
+			<BLOCKQUOTE>
+				<P>Ash, coarse; contains small, white pumice lapilli
+			</BLOCKQUOTE>
+		</TD>
+		<TD WIDTH="23%">2-3</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">&nbsp;</TD>
+		<TD WIDTH="59%" VALIGN="TOP">
+			<BLOCKQUOTE>
+				<P>Ash, fine, gray to grayish-brown
+			</BLOCKQUOTE>
+		</TD>
+		<TD WIDTH="23%" VALIGN="TOP">1</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">&nbsp;</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Ash, coarse, gray; contains small, white pumice lapilli</TD>
+		<TD WIDTH="23%" VALIGN="TOP">2</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">8.</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Ash, grayish brown; coarser and darker near base; contains scattered pumice lapilli</TD>
+		<TD WIDTH="23%" VALIGN="TOP">2-4</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">7.</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Ash, fine, brown to gray, laminated; streaked with iron oxide</TD>
+		<TD WIDTH="23%" VALIGN="TOP">2-4</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">6.</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Ash, coarse, and small yellowish-brown pumice lapilli; lenticular</TD>
+		<TD WIDTH="23%" VALIGN="TOP">3</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">5.</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Ash, fine, gray to brown</TD>
+		<TD WIDTH="23%" VALIGN="TOP">2-4</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">4.</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Ash, lithic, coarse, dark gray; lenticular</TD>
+		<TD WIDTH="23%" VALIGN="TOP">1-4</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">3.</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Ash, gray-brown to brown, locally wavy bedded</TD>
+		<TD WIDTH="23%" VALIGN="TOP">15-20</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">2.</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Ash, coarse to fine, gray, bedded; lenticular</TD>
+		<TD WIDTH="23%" VALIGN="TOP">0-5</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">&nbsp;</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Below deposits of set S age</TD>
+		<TD WIDTH="23%" VALIGN="TOP">&nbsp;</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="18%" VALIGN="TOP">1.</TD>
+		<TD WIDTH="59%" VALIGN="TOP">Ash-rich deposit, oxidized, brown; contains some pumice lapilli</TD>
+		<TD WIDTH="23%" VALIGN="TOP">50</TD>
+	</TR>
+</TABLE>
+</P>
+<P ALIGN="CENTER"><A NAME="LayerSb"></A><B>Layer Sb</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">The oldest identified tephra in this set, layer Sb, is defined to include
+several lapilli-bearing tephra beds below the distinctive gray layer Sw. Locally, layer Sb consists of at least
+four thin, yellowish-brown beds of small pumice lapilli in ash. Layer Sb is relatively poorly defined; its beds
+are less continuous and more disturbed than other tephras of the set and commonly are intimately associated with
+ash of flowage origin. Consequently, it is commonly unclear which strata below layer Sw are tephra deposits and
+which are not. Ferromagnesian mineral suites from pumice in layer Sb consist almost entirely of cummingtonite and
+hornblende, but the suite in one bed contains a few percent hypersthene.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer Sb is distinguished from other layers of set S chiefly by stratigraphic
+position and from overlying layer Sw chiefly by color. East of the volcano, layer Sb overlies either the oxidized,
+ash-rich deposit that separates it from the underlying set K or ash of probable flowage origin. Throughout its
+known distribution, it is overlain by layer Sw and other younger beds in set S.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer Sb was identified from approximately northeast to southeast of the volcano.
+It is thickest toward the east-northeast; the cumulative maximum known thickness there of the multiple lapilli-bearing
+beds assigned to the layer is only about 10 cm at a distance of 10-15 km. At 15-20 km east-northeast of the volcano
+in the Clearwater Creek valley (<A HREF="figure23.html">fig. 23</A>), four lapilli-bearing beds assigned to the
+layer have a cumulative thickness of 5-10 cm. At 11 km east of the volcano, two beds, each about 1 cm thick, are
+separated by several centimeters of ash, possibly of flowage origin. Although the cumulative thickness for the
+tephra beds of layer Sb is nowhere more than about 10 cm, the layer commonly is associated with ash of probable
+flowage origin as thick as 100 cm.<A NAME="figure23"></A><BR>
+
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="100%">
+			<P ALIGN="CENTER"><A HREF="figure23.html"><IMG SRC="figures/figure23wtn.gif" WIDTH="220" HEIGHT="169" ALIGN="BOTTOM"
+			BORDER="2"></A></P>
+			<P><B>Figure 23.</B> Columnar sections of tephra set S and diagram of their locations relative to the central vent
+			of the volcano. <B><I>(48K)</I></B>
+		</TD>
+	</TR>
+</TABLE>
+</P>
+<P ALIGN="CENTER"><A NAME="LayerSw"></A><B>Layer Sw</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Layer Sw consists of at least 3 thin beds of small pumiceous and lithic
+lapilli in ash that are characterized by a pale gray color, in contrast to the brown colors of other layers of
+set S (<A HREF="figure24.html">fig. 24</A>). Pumice in layer Sw probably is less vesicular than that in other set
+S layers. Ferromagnesian mineral suites consist mostly of cummingtonite and hornblende; minor amounts of hypersthene
+and oxyhornblende were found in some samples.<A NAME="figure24"></A><BR>
+
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="100%">
+			<P ALIGN="CENTER"><A HREF="figure24.html"><IMG SRC="figures/figure24tn.jpg" WIDTH="200" HEIGHT="220" ALIGN="BOTTOM"
+			BORDER="2"></A></P>
+			<P><B>Figure 24.</B> Tephra set S at the Muddy River quarry site about 11 km east of Mount St. Helens. The gray
+			color of the coarse ash and lapilli of layer Sw contrasts with the yellow and brown colors of other parts of the
+			set. Only a few centimeters of the lower part of layer So are present above layer Sg; the remainder of layer So
+			has been mixed into an overlying oxidized, ash-rich deposit by soil-zone processes. Pocketknife shown for scale.
+			Photograph taken in 1979. <B><I>(169K)</I></B>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+Layer Sw is inconspicuous, and its identification depends chiefly on its pale gray color and thin beds and the
+denser character of its pumice lapilli.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Locally, layer Sw directly overlies layer Sb, but more commonly it lies on
+lenticular ash deposits of flowage origin. In some places, it is directly overlain by layer Ss. More commonly,
+however, it is overlain by ash deposits of flowage origin or by layer Sg.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer Sw was identified from northeast to southeast of the volcano at distances
+of as much as 16 km. Its maximum known thickness, however, is only slightly more than 5 cm. Both its broad distribution
+(<A HREF="figure25.html">fig. 25</A>) relative to its limited thickness and its multiple beds suggest that it consists
+of multiple small shower beds that were carried in different directions.<A NAME="figure25"></A><BR>
+
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="100%">
+			<P ALIGN="CENTER"><A HREF="figure25.html"><IMG SRC="figures/figure25wtn.gif" WIDTH="240" HEIGHT="300" ALIGN="BOTTOM"
+			BORDER="2"></A></P>
+			<P><B>Figure 25.</B> Measured thickness (in centimeters) of layers in tephra set S, Mount St. Helens. A, Layer
+			So. No measurement reported for layer So is likely to represent a primary thickness because of truncation of the
+			top of that layer. B, layer Sg. C, layer Ss. D, layer Sw. <B><I>(24K)</I></B>
+		</TD>
+	</TR>
+</TABLE>
+</P>
+<P ALIGN="CENTER"><A NAME="LayerSs"></A><B>Layer Ss</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Layer Ss is a single, highly pumiceous brown stratum of well-sorted lapilli
+and coarse ash (<A HREF="figure26.html">fig. 26</A>). Although its maximum known thickness is less than 15 cm,
+it is the thickest tephra shower bed in set S below the upper two layers. Its ferromagnesian minerals are mostly
+cummingtonite and hornblende, but it also contains several percent hypersthene.<A NAME="figure26"></A><BR>
+
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="100%">
+			<P ALIGN="CENTER"><A HREF="figure26.html"><IMG SRC="figures/figure26wtn.gif" WIDTH="220" HEIGHT="177" ALIGN="BOTTOM"
+			BORDER="2"></A></P>
+			<P><B>Figure 26. </B>Layer Ss about 9 km southeast of the volcano. Here it is coarser than and about as thick as
+			layer Sg. Only irregular lenses of lapilli remain of layer So, which has been mostly mixed into an overlying ash-rich
+			deposit of undetermined origin. Pocketknife shown for scale. Photograph taken in 1979. <B><I>(196K)</I></B>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer Ss is identified by its brown color, highly pumiceous character, thickness,
+and stratigraphic position between the usually distinctive layers Sw and Sg. Southeast of the volcano, it is coarser
+and thicker than the underlying layer Sw. It is much thinner and finer than the overlying layer Sg everywhere except
+toward the southeast, where locally the two are similar in grain size and thickness (<A HREF="figure26.html">fig.
+26</A>).<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Although layer Ss directly overlies layer Sw in some outcrops, it more commonly
+is separated from the latter by ash of flowage origin (<A HREF="figure20.html">fig. 20</A>). It generally directly
+underlies layer Sg, separated only by thin ash.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">The layer was identified from east to southeast of the volcano. Toward the
+east, it is thin or missing from many outcrops (<A HREF="figure20.html">figs. 20</A>, <A HREF="figure24.html">24</A>).
+It is thickest toward the southeast, where it is almost 10 cm thick at a distance of 10 km and contains abundant
+small lapilli (<A HREF="figure26.html">fig. 26</A>). It was not recognized only slightly farther west on the south-southeast
+flank of the volcano, which suggests that westerly winds during its eruption produced an abrupt western margin
+of its lobe.</P>
+<P ALIGN="CENTER"><A NAME="LayerSg"></A><B>Layer Sg</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Layer Sg is a single, normally graded, grayish yellow to brown deposit of
+pumice lapilli and bombs as thick as 50 cm (<A HREF="figure20.html">fig. 20</A>). It is the most voluminous single
+tephra unit of set S. Most clasts in this layer are pumice, but lithic fragments are common. Ferromagnesian mineral
+suites consist of chiefly cummingtonite and hornblende and a few percent hypersthene; layer Sg thus is mineralogically
+similar to pumice of most other layers in set S. The SiO<SUB>2</SUB> content of a single sample analyzed from this
+layer is between 63 and 64 percent.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer Sg is distinguished by its color, grain size and thickness, and graded
+character. It is similar to the overlying layer So but is thicker and more strongly graded. Moreover, pumiceous
+glass from layer Sg has slightly lower calcium and iron contents relative to potassium than pumice from layer So.
+The difference probably is sufficient to distinguish between the layers using chemical analyses (Mullineaux and
+others, 1978; Sarna-Wojcicki and others, 1983).<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer Sg overlies layer Ss southeast of the volcano, and either layer Ss or
+Sw toward the east and northeast (<A HREF="figure20.html">figs 20</A>, <A HREF="figure23.html">23</A>). It is overlain
+east and northeast of the volcano by layer So. Where layer So is absent toward the south-southeast, layer Sg commonly
+forms the top of the set and is overlain by a thick, oxidized, ash-rich deposit that separates set S from set J.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer Sg crops out from northeast to southeast of the volcano and is the thickest
+layer in set S in almost all such outcrops. It is thickest toward the east or east-northeast. Its lobe probably
+is broad and has an axis that trends east-northeast. In that direction, the layer commonly is thick as 50 cm at
+distances of 10-15 km (<A HREF="figure26.html">fig. 26</A>) and consists mostly of lapilli and a few bombs. Farther
+to the north, it apparently thins, but most outcrops are at higher altitudes and are disturbed. It thins progressively
+southward from east of the volcano and is only about as thick as layer Ss on the the southeast flank.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer Sg was traced for about 40 km northeast of Mount St. Helens and has been
+identified far downwind in eastern Washington (Mullineaux and others, 1978; Busacca and others, 1992), where it
+forms a marker ash bed 1-2 cm thick.</P>
+<P ALIGN="CENTER"><A NAME="LayerSo"></A><B>Layer So</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Layer So is a single yellow-brown layer of pumice lapilli and a few bombs
+that is thick as 30 cm and forms the top of set S (<A HREF="figure20.html">figs. 20</A>, <A HREF="figure21.html">21</A>).
+Except for layer Sg, it is the thickest layer in the set. It contains only small amounts of lithic material, and
+its ferromagnesian mineral suite consists of cummingtonite and hornblende and a few percent hypersthene. Chemical
+analysis of one pumice sample from layer So showed a SiO<SUB>2</SUB> content of between 62 and 63 percent.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">The upper part of this layer typically is oxidized and disturbed by soil development
+(<A HREF="figure24.html">figs. 24</A>, <A HREF="figure26.html">26</A>), a result of near-surface exposure for 1,000-2,000
+years before being covered by set J tephras.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer So is identified chiefly by its coarse, thick character and stratigraphic
+position above layer Sg. East of the volcano, layer So differs from layer Sg by its darker color and less distinct
+grading. Where only one of these layers is seen, identification can be based on distribution or chemical analysis.
+Slightly higher amounts of calcium and iron relative to potassium in glass from layer So compared with those in
+layer Sg distinguishes between these two layers (Mullineaux and others, 1978; Sarna-Wojcicki and others, 1983).<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Wherever it has been found near the volcano, layer So overlies layer Sg. The
+weathered, disturbed top of layer So typically is overlain by a thick, oxidized, ash-rich deposit or by pyroclastic-flow
+deposits.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer So was identified from northeast to southeast of the volcano. Part of
+the layer probably fell farther to the north but was not preserved well enough there for it to be identified. It
+is thickest northeast and east of the volcano, where it is as thick as 30 cm at distances of 5-10 km and as thick
+as 20 cm at 15-20 km (<A HREF="figure25.html">fig. 25</A>); however, because the upper part of the layer is eroded
+and weathered in all the outcrops observed, these thicknesses probably are less than primary thicknesses. Layer
+So was traced to about 40 km northeast of Mount St. Helens and has been identified in eastern Washington about
+200-300 km downwind (Mullineaux and others, 1978; Busacca and others, 1992).</P>
+<P ALIGN="CENTER"><A NAME="SetJ"></A><B>Tephra Set J</B></P>
+<P>Set J consists mostly of multiple coarse pumice layers that together form a thick, brown deposit characterized
+by lapilli and bombs (<A HREF="figure27.html">figs. 27</A>, <A HREF="figure28.html">28</A>) both east and west
+of the volcano. Toward the east, two pumiceous lapilli and bomb layers overlie thin ash; to the west, the set consists
+of one coarse, thick layer. Lithic material is sparse, and no layers of lithic fragments were found.<A NAME="figure27"></A><BR>
+
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="100%">
+			<P ALIGN="CENTER"><A HREF="figure27.html"><IMG SRC="figures/figure27wtn.jpg" WIDTH="153" HEIGHT="220" ALIGN="BOTTOM"
+			BORDER="2"></A></P>
+			<P><B>Figure 27.</B> Coarse pumice layers of tephra set J about 8 km east of the central vent of Mount St. Helens.
+			Most of layer Jb here has been disturbed by near-surface processes. Locally, the deposit of colluvium and wind-blown
+			material above layer Jb contains identifiable lenses of ash from Mount Mazama. Pocketknife shown for scale. Photograph
+			taken in 1983. <B><I>(147K)</I></B>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">A relatively strong brown color is characteristic of the set as a whole, and
+its upper 20-40 cm generally has been strongly mixed by soil-zone processes. Associated ash of flowage origin is
+not common and was not found interbedded with the major tephra layers of set J.<A NAME="figure28"></A> 
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="100%">
+			<P ALIGN="CENTER"><A HREF="figure28.html"><IMG SRC="figures/figure28tn.gif" WIDTH="159" HEIGHT="220" ALIGN="BOTTOM"
+			BORDER="2"></A></P>
+			<P><B>Figure 28. </B>Columnar sections of tephra set J about 10 km east-southeast and west-southwest of the central
+			vent of the volcano. <B><I>(18K)</I></B>
+		</TD>
+	</TR>
+</TABLE>
+</P>
+<P ALIGN="CENTER"><A NAME="Composition42"></A><B>Composition</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Pumice makes up most of set J; it ranges in composition from dacite in the
+lower part of the set to andesite in the upper. Pumice from the lower two layers Js and Jy contains only hypersthene
+and hornblende as abundant ferromagnesian minerals, and has a SiO<SUB>2</SUB> content between 62 and 64 percent.
+The next younger layer, Jb, contains the same ferromagnesian minerals, but its SiO<SUB>2</SUB> content is lower,
+between 55 and 60 percent. Layer Jg at the top of the set also has a SiO<SUB>2</SUB> content between 55 and 60
+percent, but its ferromagnesian mineral suite consists of mostly hornblende, lesser amounts of hypersthene, and
+traces of augite.</P>
+<P ALIGN="CENTER"><A NAME="Diagnostic43"></A><B>Diagnostic features</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Set J is the only coarse, thick, and strongly oxidized tephra set at Mount
+St. Helens that has a ferromagnesian mineral suite dominated by hypersthene and hornblende. These features readily
+distinguish it from all other tephra sets of the volcano. In the field, set J can commonly be recognized simply
+by its coarse grain size and color, which is darker than the yellow to pale-brown colors typical of the underlying
+and overlying tephra sets S and Y.</P>
+<P ALIGN="CENTER"><A NAME="Stratigraphic44"></A><B>Stratigraphic relations</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Set J usually is separated from the underlying set S by an oxidized, ash-rich
+deposit commonly 100 cm thick or by pyroclastic-flow deposits. Close to valley floors, pyroclastic-flow deposits
+generally directly underlie set J. At one site, 9 km directly east of the volcano, thin remnants of three pyroclastic-flow
+deposits, each of which contains a thin oxidation profile at its top, were observed between sets S and J about
+50 m above the valley floor (Crandell, 1987, p. 33-34).<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Near the volcano, set J generally is directly overlain by set Y, but the coarse
+pumice at the top of set J typically has been strongly mixed by soil-zone processes during the period of 6,000-7,000
+years that it was exposed at the surface before deposition of set Y. Locally near Mount St. Helens, Mazama ash
+from Crater Lake, Oregon, can be identified between sets J and Y. More commonly, however, volcanic ash or other
+fine material that fell on the coarse upper part of set J before set Y was erupted has simply filtered down into
+the coarse pumice deposit. In contrast, where set J is finer at distances of more than about 10 km to the west
+and 20 km to the east of Mount St. Helens, Mazama ash can commonly be recognized between sets J and Y.</P>
+<P ALIGN="CENTER"><A NAME="Distribution45"></A><B>Distribution and thickness</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Set J has been identified in all directions from the volcano except to the
+north. From the northeast to southeast, it typically consists of 50-100 cm of lapilli and small bombs at distances
+of 5-15 km from the volcano. It is much thicker locally, especially to the southeast, but may have been overthickened
+by slumping or creep. The set thins from the southeast around to the south, where it is 25-50 cm thick at comparable
+distances (<A HREF="figure29.html">fig. 29</A>). It crops out only sparsely north-northeast of the volcano and
+has been strongly disturbed wherever found in that direction. Farther downwind toward the east, it is as thick
+as 30 cm at a distance of 30 km and as thick as 1 cm at 200 km, and it has been identified as far as about 700
+km from the volcano in Montana (Carrara and others, 1984, 1986).<A NAME="figure29"></A><BR>
+
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="100%">
+			<P ALIGN="CENTER"><A HREF="figure29.html"><IMG SRC="figures/figure29tn.gif" WIDTH="220" HEIGHT="208" ALIGN="BOTTOM"
+			BORDER="2"></A></P>
+			<P><B>Figure 29.</B> Approximate thickness (in centimeters) of tephra set J, Mount St. Helens. <B><I>(13K)</I></B>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Toward the west, set J consists of only one layer. Locally it is as thick as
+250 cm at 5 km, but those thick deposits exhibit crude layering and may have been overthickened by slumping. The
+layer generally is 30-50 cm thick at a distance of about 10 km through an arc from southwest to west (<A HREF="figure29.html">fig.
+29</A>). <BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">No deposits of set J were recognized north of the volcano, even at relatively
+low altitudes at a distance of 10 km where tephras of both sets S and Y are preserved; apparently little or no
+tephra of set J was carried in that direction.</P>
+<P ALIGN="CENTER"><A NAME="Age46"></A><B>Age</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Set J probably was erupted between 12,000 and 10,500 years ago, although
+some evidence suggests its eruption could have begun several hundred years earlier. An older limiting age of less
+than 12,000 and perhaps 11,500 years ago is indicated by several radiocarbon samples from near the volcano (<A
+HREF="table2.html">table 2</A>). Samples from just below the base of the set there have been dated between approximately
+11,900 and 11,550 years B.P. (Crandell and others, 1981) W-2866, W-2441, W-2832, W-2870 (<A HREF="table2.html">table
+2</A>); thus, multiple samples indicate that the eruptions began after 12,000 years ago and perhaps as recently
+as about 11,500 years ago.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Samples from lacustrine deposits downwind, however, suggest that set J eruptions
+might have begun as early as about 12,500 years ago (Carrara and Trimble, 1992; P.E.Carrara, written commun., 1993).
+Similar discrepancies, in which lacustrine samples indicate an age older than terrestrial ones, have been noted
+in Canada by Mathewes and Westgate (1980), and in Alaska by Riehle and others (1992), who emphasize the uncertainty
+in comparing dates of terrestrial and lacustrine samples.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">The younger limiting date of about 10,500 years is based chiefly on samples
+from peat bogs that are several tens of kilometers from Mount St. Helens (<A HREF="table2.html">table 2</A>). Peat
+from a site 70 km to the east-southeast that was dated at about 10,740 years B.P. (W-5718) came from above layer
+Jb, the youngest layer of the set that extends in that direction. At 45 km south-southwest of Mount St. Helens,
+peat from above layer Jg, believed to be the youngest layer of set J, was dated at approximately 10,580 years (W-5731).<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">When first described (Mullineaux and others, 1972, 1975), the younger part
+of set J was thought to be between 9,000 and 8,000 years old. Three radiocarbon samples of charcoal from coarse
+pumice deposits of set J east of the volcano were dated as approximately 8,300 (W-2587), 8,430 (W-2702), and 8,900
+(W-2991) years B.P. (<A HREF="table2.html">table 2</A>). Recent dates from above set J that are older than 10,000
+years indicate that the dates younger than 9,000 years are not valid. Resampling of material similar to that dated
+as 9,000 to 8,000 years old suggests that the anomalous dates may have resulted from contamination. Apparently
+the charcoal fragments that gave those dates were contaminated by younger humic or other carbonaceous material
+during the long period that the coarse pumice was exposed at the surface, and the dates should be disregarded.</P>
+<P ALIGN="CENTER"><A NAME="DescriptionJ"></A><B>Description of layers in set J</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Set J includes only a few traceable strata, and its sequence is not complicated
+by ash deposits of flowage origin. Four layers are recognized in the set; a thin, basal ash deposit and three coarser,
+thicker strata, two of which extend toward the east and one toward the west (<A HREF="figure30.html">fig. 30</A>).
+The layer that extends toward the west is the thickest tephra deposit known on the flanks of Mount St. Helens.
+Ash containing carbonaceous fragments at one site between two beds or zones of the layer that extends to the west
+suggests a pause may have occurred during eruption of layer Jg, but no such zones were found in that layer in other
+outcrops nearby.<A NAME="figure30"></A></P>
+<CENTER>
+<P>
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="100%">
+			<P ALIGN="CENTER"><A HREF="figure30.html"><IMG SRC="figures/figure30wtn.gif" WIDTH="240" HEIGHT="157" ALIGN="BOTTOM"
+			BORDER="2"></A></P>
+			<P><B>Figure 30.</B> Columnar sections of tephra set J from northeast to west of Mount St. Helens, and diagram
+			of their locations relative to the central vent of the volcano. <B><I>(42K)</I></B>
+		</TD>
+	</TR>
+</TABLE>
+<A NAME="MeasuredJ-1"></A><B>Measured section J-1</B></P>
+</CENTER>
+<P>West side of Smith Creek valley, about 50 m northwest of site of bridge that crossed Smith Creek in 1983, in
+NE1/4 SE1/4 sec. 5, T. 8 N., R. 6 E. See <A HREF="figure27.html">figure 27</A>.<BR>
+
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+		<TD WIDTH="62%" VALIGN="TOP">&nbsp;</TD>
+		<TD WIDTH="22%" VALIGN="TOP"><I>Thickness<BR>
+			(centimeters)</I></TD>
+	</TR>
+	<TR>
+		<TD WIDTH="16%" VALIGN="TOP">5.</TD>
+		<TD WIDTH="62%" VALIGN="TOP">Set Y. Ash and lapilli of layer Yb; charcoal at base</TD>
+		<TD WIDTH="22%" VALIGN="TOP">5-10</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="16%" VALIGN="TOP">4.</TD>
+		<TD WIDTH="62%" VALIGN="TOP">Colluvium, ashy; contains lenses of ash from Mount Mazama</TD>
+		<TD WIDTH="22%" VALIGN="TOP">3-6</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="16%" VALIGN="TOP">Set J</TD>
+		<TD WIDTH="62%" VALIGN="TOP">&nbsp;</TD>
+		<TD WIDTH="22%" VALIGN="TOP">&nbsp;</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="16%" VALIGN="TOP">3.</TD>
+		<TD WIDTH="62%" VALIGN="TOP">Layer Jb. Pumice lapilli and ash, brown; openwork in<BR>
+			lower 10 cm, mixed and ash rich in upper 15 cm</TD>
+		<TD WIDTH="22%" VALIGN="TOP">20-30</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="16%" VALIGN="TOP">2.</TD>
+		<TD WIDTH="62%" VALIGN="TOP">Layer Jy</TD>
+		<TD WIDTH="22%" VALIGN="TOP">&nbsp;</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+		<TD WIDTH="62%" VALIGN="TOP">
+			<BLOCKQUOTE>
+				<P>Bed Jyn. Pumice lapilli and bombs in sparse ash; openwork; fragments coated with gray ash
+			</BLOCKQUOTE>
+		</TD>
+		<TD WIDTH="22%" VALIGN="TOP">25-35</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+		<TD WIDTH="62%" VALIGN="TOP">
+			<BLOCKQUOTE>
+				<P>Bed Jyo. Pumice lapilli, brown, and a few bombs; openwork
+			</BLOCKQUOTE>
+		</TD>
+		<TD WIDTH="22%" VALIGN="TOP">5-10</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="16%" VALIGN="TOP">1.</TD>
+		<TD WIDTH="62%" VALIGN="TOP">Ashy sand and pumice pebbles; probable reworked material<BR>
+			from pyroclastic-flow deposits and layer Js</TD>
+		<TD WIDTH="22%" VALIGN="TOP">&gt;30</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="16%" VALIGN="TOP">Base not exposed</TD>
+		<TD WIDTH="62%" VALIGN="TOP">&nbsp;</TD>
+		<TD WIDTH="22%" VALIGN="TOP">&nbsp;</TD>
+	</TR>
+</TABLE>
+
+<HR ALIGN="CENTER">
+</P>
+<P ALIGN="CENTER"><A NAME="LayerJs"></A><B>Layer Js</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Several thin, compact, grayish-brown, poorly sorted pumiceous ash beds containing
+scattered small pumice lapilli crop out widely but discontinuously at the base of the set and are grouped together
+as layer Js. No individual beds in the layer were traced from one outcrop to another. Typically, the layer is faintly
+planar bedded; no crossbedding was seen. Ferromagnesian mineral suites from pumice consist essentially of hypersthene
+and hornblende, and a single sample analyzed chemically has a silica content of about 62 percent. Layer Js differs
+from other layers in set J by its fine grain size, lesser thickness, and greater compactness.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">On uplands, layer Js commonly is separated from set S by a thick, fine-grained,
+oxidized ash-rich deposit that probably originated in part from flowage phenomena. Near and on valley floors, pyroclastic-flow
+deposits almost everywhere separate layer Js from set S. The coarser layer Jy overlies layer Js throughout the
+known extent of the finer layer.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer Js was identified only east and southeast of the volcano (<A HREF="figure31.html">fig.
+31</A>). Its maximum thickness is about 5 cm at distances of 5-8 km toward the east and southeast; the farthest
+from the volcano that it was identified is 13 km toward the east-southeast. The layer was identified only where
+it is overlain by the coarse layer Jy, and its possible extent farther around the volcano is not known.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">The planar bedding and thin, widespread character of layer Js suggests that
+it originated as a fall deposit, but it may have been deposited in part by ash clouds from flowage events.<A NAME="figure31"></A>
+
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="100%">
+			<P ALIGN="CENTER"><A HREF="figure31.html"><IMG SRC="figures/figure31wtn.gif" WIDTH="400" HEIGHT="418" ALIGN="BOTTOM"
+			BORDER="2"></A><BR>
+			<B><I>(42K)</I></B><BR>
+			<A HREF="figure31.html#E"><IMG SRC="figures/figure31ewtn.gif" WIDTH="171" HEIGHT="200" ALIGN="BOTTOM" BORDER="0"></A><BR>
+			<B><I>(6K)</I></B></P>
+			<P><B>Figure 31.</B> Thickness (in centimeters) of layers in tephra set J, Mount St. Helens. A, Layer Js. B, Bed
+			Jyo. C, Bed Jyn. D, Layer Jb. E, Layer Jg.
+		</TD>
+	</TR>
+</TABLE>
+</P>
+<P ALIGN="CENTER"><A NAME="LayerJy"></A><B>Layer Jy</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Layer Jy consists of two similar, thick, well-sorted beds of grayish-yellow
+to brown pumice lapilli and bombs, designated Jyo and Jyn (<A HREF="figure27.html">figs. 27</A>, <A HREF="figure32.html">32</A>).
+Bed Jyo is mostly south and east of the volcano, and the overlying bed Jyn extends from southeast to northeast.
+The two beds overlap on the east and southeast, but that overlap is evident only in well-preserved stratigraphic
+sequences. Elsewhere, the layer apparently consists of only a single bed. Ferromagnesian mineral suites in both
+beds consist almost entirely of hypersthene and hornblende. Whole-rock samples of pumice from layer Jy contain
+about 63 percent SiO<SUB>2</SUB>.<A NAME="figure32"></A><BR>
+
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="100%">
+			<P ALIGN="CENTER"><A HREF="figure32.html"><IMG SRC="figures/figure32tn.jpg" WIDTH="221" HEIGHT="320" ALIGN="BOTTOM"
+			BORDER="2"></A></P>
+			<P><B>Figure 32.</B> Layer Jy between layers Js and Jb 9 km southeast of the volcano along USFS Road N83 where
+			it crosses the Muddy River. Bed Jyn, about 8 cm thick, overlies bed Jyo, which is about 30 cm thick. Layer Js here
+			overlies a pyroclastic-flow or lahar deposit. Photograph taken in 1983. <B><I>(152K)</I></B>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Along their respective distribution axes, beds Jyo and Jyn are similar in thickness,
+grain size, and color; where they overlap, they are not separated by a distinct ash stratum. In some outcrops showing
+overlap, they can be distinguished by differences in texture or in the color of interstitial ash. Ash in bed Jyn
+typically is more reddish than the yellowish-brown color typical of bed Jyo. Even in the zone of overlap, however,
+layer Jy could not be subdivided reliably in many outcrops.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer Jy is easily distinguished from layer Js by its coarser grain size and
+greater thickness. Where layer Jy and the overlying layer Jb are present together, layer Jy commonly is slightly
+coarser, thicker, and lighter brown. In most outcrops south and southeast of the volcano, however, the two were
+not different enough to be separated in this study.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer Jy overlies layer Js or forms the base of the set, in which case it lies
+on either an oxidized, ash-rich deposit or on pyroclastic-flow deposits that separate it from set S. Layer Jy is
+overlain by identifiable layer Jb in some outcrops toward the east-southeast and by set Y in other directions.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer Jy forms a broad lobe from northeast to south of the volcano. The older
+bed Jyo probably makes up the entire layer on the south and is also thick toward the southeast (<A HREF="figure32.html">fig.
+32</A>). Bed Jyn makes up much of the layer on east (<A HREF="figure27.html">fig. 27</A>), and probably most or
+all of it on the northeast. The thickness of the two beds together in the zone of overlap at about 10 km from the
+volcano is approximately the same as the thickness of beds Jyn and Jyo along their respective axes. <BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">East-southeast of the volcano, at a distance of 10 km, bed Jyo is 30-40 cm
+thick and contains abundant lapilli and small bombs as much as 10 cm across. It thins westward across the south
+flank of the volcano and does not form a well-defined stratum farther to the west, on the southwest flank of the
+volcano. The northern margin of its lobe is relatively abrupt; 13-14 km east-southeast of the volcano, it thins
+northward from 30 to 15 cm over a distance of about 2 km and was not identified only 1 km farther to the north
+(<A HREF="figure30.html">figs. 30</A>, <A HREF="figure31.html">31</A>).<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Bed Jyn is thickest northeast of the volcano. At about 9 km in that direction,
+it is 60-70 cm thick (<A HREF="figure30.html">figs. 30</A>, <A HREF="figure31.html">31</A>). To the north-northeast,
+it is much disturbed and poorly preserved in outcrops close to the volcano, and it is uncertain whether or not
+it is thicker or coarser in that direction. From the northeast, the layer thins clockwise around the volcano (<A
+HREF="figure27.html">figs. 27</A>, <A HREF="figure31.html">31</A>) and was identified only around to about southeast
+of the volcano.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">In many outcrops on steep slopes, layer Jy is anomalously thick both northeast
+and south of the volcano. These deposits may have been overthickened by slumping as they fell or by later reworking,
+but they could be a result of unidentified tephra lobes that extend in those directions.<BR>
+Layer Jy forms an important marker bed, and its downwind component probably is one of the ash beds correlated with
+set J in eastern Washington about 200 km from the volcano (Moody, 1978) and the set J ash bed identified in Montana
+about 600 km from the volcano (Carrara and others, 1986).<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Beds Jyo and Jyn may represent two stages of one eruption or two distinctly
+different events. No evidence was seen to indicate how much time might have elapsed between two such stages or
+eruptions. The overlapping relation of two well-defined beds probably precludes origin from a shift in wind direction
+during a single continuous eruption.</P>
+<P ALIGN="CENTER"><A NAME="LayerJb"></A><B>Layer Jb</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Layer Jb is a single bed, at least 30 cm thick, of brown pumice lapilli
+and small bombs. It overlies layer Jy (figs. <A HREF="figure27.html">27</A>, <A HREF="figure30.html">30</A>, <A
+HREF="figure31.html">31</A>) and forms the top of set J east and southeast of Mount St. Helens. Similar to older
+layers in the set, Jb contains only hypersthene and hornblende in its ferromagnesian mineral suite. Where it has
+been identified overlying layer Jy, layer Jb commonly is more reddish brown and locally is finer grained; however,
+no field or mineralogical criteria are known that reliably distinguish between the two. Where stratigraphic relations
+do not distinguish between them, chemical analyses may. Whole-rock and glass analyses of pumice from layer Jb indicate
+that it contains less silica and more iron than pumice from the older layers of set J (<A HREF="appendix.html">appendix</A>)
+(J.A., Westgate , written commun, 1972).<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Throughout its known extent, layer Jb directly overlies layer Jy, and near
+the volcano layer Jb is overlain by set Y. Locally, Mazama ash is preserved between layer Jb and set Y.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer Jb is present from east to southeast of the volcano and was not identified
+north of that trend. It also was not identified west of a line leading south-southeast, although it might be hidden
+there in the disturbed zone at the top of the set. At 10 km to the east-southeast, it is as thick as 30 cm and
+contains lapilli as much as 5 cm across (<A HREF="figure29.html">figs. 29</A><A HREF="figure30.html">-30</A><A
+HREF="figure31.html">-31</A>). At 20 km in that direction, it consists of small lapilli and ash about 10 cm thick.
+At that site, it is coarser than layer Jy, even though Jy is coarser at that distance in other directions, because
+the locality is along the downwind axis of layer Jb but between the downwind axes of beds Jyo and Jyn.</P>
+<P ALIGN="CENTER"><A NAME="LayerJg"></A><B>Layer Jg</B></P>
+<P><SPACER TYPE="HORIZONTAL" SIZE="30">Layer Jg is a thick, conspicuous deposit of well-sorted, gray-brown pumice
+lapilli and bombs on the west and southwest flanks of the volcano. Its pumice generally is darker, especially on
+freshly broken surfaces, than pumice in other layers of set J. Crude bedding of layer Jg in many places (<A HREF="figure33.html">fig.
+33</A>) may record multiple eruption pulses, more than one shower bed, or simply downslope movement caused by a
+rapid rate of fall. The ferromagnesian mineral suite of layer Jg consists chiefly of hornblende that is darker
+and browner than hornblende in other layers of the set; the suite also contains hypersthene in lesser amounts and
+sparse augite. A single chemical analysis of pumice from layer Jg showed a SiO2 content of between 57 and 58 percent.<A
+NAME="figure33"></A><BR>
+
+<TABLE BORDER="1" WIDTH="100%">
+	<TR>
+		<TD WIDTH="100%">
+			<P ALIGN="CENTER"><A HREF="figure33.html"><IMG SRC="figures/figure33wtn.jpg" WIDTH="320" HEIGHT="207" ALIGN="BOTTOM"
+			BORDER="2"></A></P>
+			<P><B>Figure 33.</B> Crude bedding in layer Jg, about 5 km southwest of the center of Mount St. Helens. Small pack
+			at base of outcrop is about 50 cm high. <B><I>(125K)</I></B>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">The upper part of layer Jg typically is oxidized and mixed by soil-zone processes
+to depths of a few tens of centimeters. Overall, the entire layer is darker in outcrop than are other pumice units
+in set J.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer Jg is readily identified on the west side of the volcano because it is
+the only thick deposit of pumice lapilli there. Downwind, it can be distinguished from other pumiceous tephras
+by its ferromagnesian mineral suite.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Because other layers of set J are absent west of the volcano, layer Jg generally
+lies directly on set S tephra or on ash deposits of undetermined origin. Layer Jg generally is overlain by set
+Y tephra or by ash-cloud deposits associated with that set. Locally, Mazama ash is preserved between layer Jg and
+set Y.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Stratigraphic evidence that layer Jg is younger than other layers of set J
+was found at only one site, in a peat bog 45 km south-southwest of the volcano. There, a thin ash bed whose ferromagnesian
+mineral suite identifies it as layer Jg overlies peat that in turn overlies an ash bed whose ferromagnesian suite
+is similar to that of set J layers east of the volcano. That relation indicates that layer Jg is younger than at
+least part of the set J deposits east of the volcano. It is likely that it is also younger than all the set J layers
+east of the volcano. A single change in ferromagnesian mineral composition from that of the layers east of the
+volcano to that of layer Jg is more likely than two changes that include a reversal, from that of layer Jy to that
+of Jg and then back to that of layer Jb.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer Jg probably overlaps layer Jy on the south-southwest flank of Mount St.
+Helens. Both layers are thin there, however, and are so strongly disturbed that their stratigraphic relation could
+not be confirmed.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer Jg forms a short, broad lobe toward the west and southwest. Its lobe
+axis near the volcano is along a bearing of about 250 degrees (<A HREF="figure31.html">fig. 31</A>). At 5 km from
+the center of Mount St. Helens, layer Jg is as thick as 250 cm and consists almost entirely of bombs and lapilli.
+These great thicknesses may have resulted, however, from slumping and accumulation in swales during rapid deposition.
+Layer Jg decreases more rapidly in thickness and grain size away from the volcano than do tephras carried to the
+east. At 10 km, layer Jg is only about 30 cm thick, and its thickness decreases progressively to about 10 cm at
+15 km and 1 cm at 25 km. <BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">Layer Jg is a useful marker bed for a few tens of kilometers downwind because
+its composition makes it readily identifiable. Its range probably is limited compared with layers carried eastward,
+however, and its downwind extent is not known.<BR>
+<BR>
+<SPACER TYPE="HORIZONTAL" SIZE="30">The unusually great thickness of layer Jg, and the rapid decrease of thickness
+with distance, suggests either that its eruptive column rose to a relatively low altitude or that eruption occurred
+during a time of weak winds.<BR>
+
+<HR ALIGN="CENTER">
+</P>
+<CENTER>
+<P>
+<TABLE BORDER="1" WIDTH="20%">
+	<TR>
+		<TD WIDTH="98%">
+			<P ALIGN="CENTER"><A HREF="tephrasety.html">Tephra Set Y</A>
+		</TD>
+		<TD WIDTH="2%"><A HREF="index.html#Contents">Contents</A></TD>
+	</TR>
+</TABLE>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="footer table with links to the privacy statement, disclaimer, accessibility, foia, doi, usgs, first gov, and the site administrator">
+  <tr>
+    <td colspan="2" class="footer"><a href="https://www.usgs.gov/laws/accessibility.html" class="footer" title="Accessibility Policy (Section 508)">Accessibility</a><a href="https://www.usgs.gov/foia/" class="footer" title="Freedom of Information Act">FOIA</a><a href="https://www.usgs.gov/privacy-policies" class="footer"title="Privacy Policy and Disclaimers">Privacy</a><a href="https://www.usgs.gov/policies-and-notices" class="footer" title="Policies and Important Notices of the USGS">Policies and Notices</a> </td>
+  </tr>
+  <tr>
+    <td><p class="footer"><a href="https://www.doi.gov" title="U.S. DOI Home Page">U.S. Department of the Interior</a> | <a href="https://www.usgs.gov" title="USGS Home Page">U.S. Geological Survey</a><br />
+      URL: https://pubsdata.usgs.gov/pubs/pp/p1563/tephrasetk.html<br />
+Questions or Assistance: <a href="https://answers.usgs.gov/" title="If you have a question or need assistance...">USGS Web Contact</a><br />
+Page Last Modified: Mon Jan 14 14:21 EST 2013 </p></td>
+    <td colspan="1" align="right"> <a href="https://www.usa.gov/" title="USAGov: Government Made Easy"><img src="/images/footer_graphic_usagov.jpg" alt="USA.gov logo" width="90" height="26" border="0" align="top" /></a></td>
+  </tr>
+</table>
+<hr />
+
+</CENTER>
+
+</BODY>
+
+</HTML>

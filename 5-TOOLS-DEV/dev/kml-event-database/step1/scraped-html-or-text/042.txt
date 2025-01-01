@@ -1,0 +1,79 @@
+
+📄 New blog post: Visualizing All ISBNs — $10k by 2025-01-31
+✕
+Anna’s Archive
+📚 The largest truly open library in human history. ⭐️ We mirror Sci-Hub and LibGen. We scrape and open-source Z-Lib, DuXiu, and more. 📈 6,351,280 books, 9,334,698 papers — preserved forever. All our code and data are completely open source. Learn more…
+Recent downloads:  
+ • Recueil pour les deux ans de Mateiva: Tous les bénéfices pour Le Refuge • The Complete Ramona Collection: Beezus and Ramona, Ramona the Pest, Ramona the Brave, Ramona and Her Father, Ramona and Her Mother, Ramona Quimby, Age 8, Ramona Forever, Ramona's World • Black Sabbath's Master of Reality 056 • Legally Avoid Property Taxes: 51 Top Tips to Save Property Taxes and Increase Your Wealth • The Way of the Bodhisattva: Revised Edition • Arayanların Bahçesi Yol Gidenlerin Klavuzu • Webb's Weird Wild West • The Beato Book 4.0
+ • Recueil pour les deux ans de Mateiva: Tous les bénéfices pour Le Refuge • The Complete Ramona Collection: Beezus and Ramona, Ramona the Pest, Ramona the Brave, Ramona and Her Father, Ramona and Her Mother, Ramona Quimby, Age 8, Ramona Forever, Ramona's World • Black Sabbath's Master of Reality 056 • Legally Avoid Property Taxes: 51 Top Tips to Save Property Taxes and Increase Your Wealth • The Way of the Bodhisattva: Revised Edition • Arayanların Bahçesi Yol Gidenlerin Klavuzu • Webb's Weird Wild West • The Beato Book 4.0
+Search
+Donate
+Log in / Register
+Report file quality
+English [en], .pdf, 🧬/nexusstc, 📄 Journal article
+Remnant peat deposit provides clues to the inundated cultural landscapes of Kepa Kurl, southwestern Australia
+SAGE Publications, The Holocene, 33, 2023
+Ingrid Ward; Tjaltjraak Healthy Country Program Team; David Guilfoyle; Alison O’Donnell; Chae Byrne; Michael Macphail; Stephen D Hopper
+description
+In early 2021 several tree stumps embedded in a remnant peat deposit were found in the intertidal zone of Wharton Beach, southwestern Australia by Esperance Tjaltjraak Rangers. Attempts were made to identify the tree using both dendrochronological and anthracological methods but were limited by the lack of reference information from tree species in the southwestern Australia. Radiocarbon dates from one stump indicates the tree lived for approximately 200 years, growing into the peaty sediments sometime before ca. 7340 cal yrs BP and died directly or indirectly as a result of marine transgression. The peat deposit is dated to 7608–7429 cal yrs BP but its exposed seaward edge was unconformably underlain by younger sand, dated by OSL to around 3550 years, which may have intruded as a result of a storm event. An OSL age of 12,600 years was obtained from the base of a laminated dune sequence behind the exposed peat deposit, and is significant given a similar age for a previously documented infant burial site in the area. Together these records provide a rare insight into the former wetland landscape and a cultural and scientific link to the drowned coastal plain. A need for more integrative research along this cultural corridor is clear but this preliminary study has demonstrated the value of combining Cultural Knowledge Systems and Western Science, for Tjaltjraak Healthy Country Program and analogous Aboriginal ‘caring for country’ programmes throughout Australia.
+metadata comments
+Referenced by: doi:10.1016/s1350-4487(03)00020-9 doi:10.1016/1359-0189(88)90062-3 doi:10.1038/278409a0 doi:10.1080/03122417.1984.12092954 doi:10.1002/arco.5041 doi:10.1111/j.1475-4754.1999.tb00987.x doi:10.2307/j.ctv12pns49.16 doi:10.1017/rdc.2020.59 doi:10.1016/j.jas.2015.01.023 doi:10.1016/0037-0738(94)90037-x doi:10.1016/j.quascirev.2012.09.006 doi:10.1016/s0031-0182(98)00150-3 doi:10.1016/s1350-4487(99)00253-x doi:10.1016/j.radmeas.2007.12.012 doi:10.1126/sciadv.abo5174 doi:10.1016/1350-4487(94)90086-8 doi:10.1016/1359-0189(87)90037-9 doi:10.1007/s11852-010-0112-5 doi:10.1016/j.sedgeo.2008.03.007 doi:10.1016/s0169-555x(99)00132-4 doi:10.1007/s00367-019-00571-5 doi:10.1017/rdc.2021.23 doi:10.1179/174963108x279229
+metadata comments
+{"container_title":"The Holocene","issns":["0959-6836","1477-0911"],"issue":"6","publisher":"SAGE Publications","volume":"33"}
+date open sourced
+2024-05-16
+Read more…
+🚀 Fast downloads
+Become a member to support the long-term preservation of books, papers, and more. To show our gratitude for your support, you get fast downloads. ❤️
+
+    Option #1: Anna’s Archive 🧬 SciDB (no redirect) (no browser verification required)
+
+🐢 Slow downloads
+
+From trusted partners. More information in the FAQ. (might require browser verification — unlimited downloads!)
+
+    Option #1: Anna’s Archive 🧬 SciDB (no browser verification required)
+
+show external downloads
+All download options have the same file, and should be safe to use. That said, always be cautious when downloading files from the internet, especially from sites external to Anna’s Archive. For example, be sure to keep your devices updated.
+
+    For large files, we recommend using a download manager to prevent interruptions.
+    Recommended download managers: JDownloader
+    You will need an ebook or PDF reader to open the file, depending on the file format.
+    Recommended ebook readers: ReadEra and Calibre
+    Use online tools to convert between formats.
+    Recommended conversion tools: CloudConvert
+    You can send both PDF and EPUB files to your Kindle or Kobo eReader.
+    Recommended tools: Amazon‘s “Send to Kindle” and djazz‘s “Send to Kobo/Kindle”
+    Support authors and libraries
+    ✍️ If you like this and can afford it, consider buying the original, or supporting the authors directly.
+    📚 If this is available at your local library, consider borrowing it for free there.
+
+Anna’s Archive
+Home
+Search
+🧬 SciDB
+FAQ
+Donate
+Stay in touch
+Contact email
+DMCA / copyright claims
+Reddit / Telegram
+Anna’s Blog ↗
+Anna’s Software ↗
+Translate ↗
+Advanced
+FAQ
+Improve metadata
+Volunteering & Bounties
+Datasets
+Torrents
+Activity
+Codes Explorer
+LLM data
+Security
+Alternatives
+annas-archive.li
+annas-archive.se
+annas-archive.org
+SLUM [unaffiliated]

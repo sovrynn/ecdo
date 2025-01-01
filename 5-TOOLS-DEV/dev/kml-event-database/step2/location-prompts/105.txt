@@ -1,0 +1,1115 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Minoan Crete
+
+Basic location of event: Crete
+
+Specific data/information/context related to event: Minoan civilization - Wikipedia
+
+From Wikipedia, the free encyclopedia
+
+Contents
+1. Name
+2. Chronology and history
+   2.1 Origins
+   2.2 Early Minoan
+   2.3 Middle Minoan
+   2.4 Late Minoan
+3. Geography
+   3.1 Major settlements
+   3.2 Beyond Crete
+4. Art
+   4.1 Pottery
+   4.2 Jewelry
+   4.3 Weapons
+   4.4 Metal vessels
+5. Agriculture and cuisine
+   5.1 Tools
+6. Society and culture
+   6.1 Government
+   6.2 Status of women
+   6.3 Clothing
+7. Language and writing
+8. Religion
+   8.1 Symbolism
+   8.2 Burial practices
+9. Architecture
+   9.1 Palaces
+   9.2 Plumbing
+   9.3 Columns
+   9.4 Villas
+10. Warfare and the "Minoan peace"
+    10.1 Warfare
+11. Genetic and anthropometric studies
+12. See also
+13. Notes
+14. Footnotes
+15. References
+
+This article is about the Bronze Age civilization on Crete and other Aegean islands. For the people associated with this civilization, see Minoans. For the Greek mythological figure, see Minos.
+
+The Minoan civilization was a Bronze Age civilization that arose on the island of Crete and other Aegean islands between approximately 2600 BC and 1400 BC. The civilization is named after the mythical King Minos and is noted for its palatial centers, such as those at Knossos, Phaistos, and Malia. The Minoans are known for their elaborate art, architecture, and for their advanced society which included significant trade networks.
+
+The Minoans had a complex and advanced culture, including a system of writing (Linear A) and impressive artistic and engineering achievements. Evidence suggests that the civilization may have been affected by natural disasters such as earthquakes and volcanic eruptions, as well as by invasions from other peoples, such as the Mycenaeans.
+
+The civilization strongly influenced the subsequent Mycenaean civilization, which arose on the Greek mainland and took many aspects of Minoan culture, including art, architecture, and trade practices. The Minoans also engaged in extensive trade with other cultures around the Mediterranean, including Egypt and the Levant.
+
+Archaeological excavations in the early 20th century, notably by Sir Arthur Evans, brought to light many artifacts and structures associated with the Minoans, contributing greatly to our understanding of this fascinating civilization.
+an Islands
+
+"Minoan" redirects here. For other uses, see Minoan (disambiguation).
+
+Minoan civilization
+
+Geographical range Crete, additional settlements around Aegean Sea
+Period Aegean Bronze Age
+Dates c. 3100 – c. 1100 BC
+Major sites Knossos, Phaistos, Hagia Triada, Malia, Zakros
+Preceded by Neolithic Crete
+Followed by Mycenaean Greece
+
+The Minoan civilization was a Bronze Age culture which was centered on the island of Crete. Known for its monumental architecture and energetic art, it is often regarded as the first civilization in Europe. The ruins of the Minoan palaces at Knossos and Phaistos are popular tourist attractions.
+
+The Minoan civilization developed from the local Neolithic culture around 3100 BC, with complex urban settlements beginning around 2000 BC. After c. 1450 BC, they came under the cultural and perhaps political domination of the mainland Mycenaean Greeks, forming a hybrid culture which lasted until around 1100 BC.
+
+Minoan art included elaborately decorated pottery, seals, figurines, and colorful frescoes. Typical subjects include nature and ritual. Minoan art is often described as having a fantastical or ecstatic quality, with figures rendered in a manner suggesting motion.
+
+Little is known about the structure of Minoan society. Minoan art contains no unambiguous depiction of a monarch, and textual evidence suggests they may have had some other form of governance. Likewise, it is unclear whether there was ever a unified Minoan state. Religious practices included worship at peak sanctuaries and sacred caves, but nothing is certain regarding their pantheon. The Minoans constructed enormous labyrinthine buildings which their initial excavators labeled Minoan palaces. Subsequent research has shown that they served a variety of religious and economic purposes rather than being royal residences, though their exact role in Minoan society is a matter of continuing debate.
+
+The Minoans traded extensively, exporting agricultural products and luxury crafts in exchange for raw metals which were difficult to obtain on Crete. Through traders and artisans, their cultural influence reached beyond Crete to the Aegean and eastern Mediterranean. Minoan craftsmen were employed by foreign elites, for instance to paint frescoes at Avaris in Egypt.
+
+The Minoans developed two writing systems known as Cretan hieroglyphs and Linear A. Because neither script has been fully deciphered, the identity of the Minoan language is unknown. Based on what is known, the language is regarded as unlikely to belong to a well-attested language family such as Indo-European or Semitic. After 1450 BC, a modified version of Linear A known as Linear B was used to write Mycenaean Greek, which had become the language of administration on Crete. The Eteocretan language attested in a few post-Bronze Age inscriptions may be a descendant of the Minoan language.
+
+Largely forgotten after the Late Bronze Age collapse, the Minoan civilization was rediscovered in the early twentieth century through archaeological excavation. The term "Minoan" was coined by Arthur Evans, who excavated at Knossos and recognized it as culturally distinct from the mainland Mycenaean culture. Soon after, Federico Halbherr and Luigi Pernier excavated the Palace of Phaistos and the nearby settlement of Hagia Triada. A major breakthrough occurred in 1952, when Michael Ventris deciphered Linear B, drawing on earlier work by Alice Kober. This decipherment unlocked a crucial source of information on the economics and social organization in the final year of the palace. Minoan sites continue to be excavated, recent discoveries including the necropolis at Armeni and the harbour town of Kommos.
+
+Name
+
+The modern term "Minoan" is derived from the name of the mythical King Minos, who the Classical Greeks believed to have ruled Knossos in the distant past. It was popularized by Arthur Evans, possibly drawing on an earlier suggestion by Karl Hoeck. It is a modern coinage and not used by the Minoans, whose name for themselves is unknown.
+
+The Egyptians referred to the Minoans as the kftjw (vocalized as "Keftiu" in modern Egyptological pronunciation). It is not known whether this was an exonym or if it was an endonym originating in the Minoan language. Potentially related terms were used by a variety of Near Eastern cultures, and the Biblical term Caphtor has sometimes been identified with Crete.
+
+Chronology and history
+
+Further information: Minoan chronology, Minoan pottery, and Dating the Thera eruption
+
+Minoan chronology
+
+Two systems of relative chronology are used for the Minoans. The first, based on pottery styles, divides Minoan history into three major periods: Early Minoan (EM), Middle Minoan (MM) and Late Minoan (LM). These periods can be divided using Roman numerals (e.g. EM I, EM II, EM III), which can be further divided using capital letters (e.g. LM IIIA, LM IIIB, LM IIIC). An alternative system, proposed by Greek archaeologist Nikolaos Platon, divides Minoan history into four periods termed Prepalatial, Protopalatial, Neopalatial, and Postpalatial.
+
+Establishing an absolute chronology has proved difficult. Archaeologists have attempted to determine calendar dates by synchronizing the periods of Minoan history with those of their better understood contemporaries. For example, Minoan artifacts from the LM IB period have been found in 18th Dynasty contexts in Egypt, for which Egyptian chronology provides calendar dates. However, dates determined in this manner do not always match the results of carbon dating and other methods based on natural science. Much of the controversy concerns the dating of the eruption of Thera, which is known to have occurred towards the end of the LM IA period. While carbon dating places this event (and thus LM IA) around 1600 BC, synchronism with Egyptian records would place it roughly a century later.
+
+Origins
+
+Although stone-tool evidence suggests that hominins may have reached Crete as early as 130,000 years ago, evidence for the first anatomically modern human presence dates to 10,000–12,000 YBP. The oldest evidence of modern human habitation on Crete is pre-ceramic Neolithic farming-community remains which date to about 7000 BC. A comparative study of DNA haplogroups of modern Cretan men showed that a male founder group, from Anatolia or the Levant, is shared with the Greeks. The Neolithic population lived in open villages. Fishermen's huts were found on the shores, and the fertile Messara Plain was used for agriculture.
+
+Early Minoan
+
+Early Minoan society developed largely continuously from local Neolithic predecessors, with some cultural influence and perhaps migration from eastern populations. This period saw a gradual shift from localized clan-based villages towards the more urbanized and stratified society of later periods.
+
+EM I (c. 3100-2650 BC) is marked by the appearance of the first painted ceramics. Continuing a trend that began during the Neolithic, settlements grew in size and complexity, and spread from fertile plains towards highland sites and islands as the Minoans learned to exploit less hospitable terrain.
+
+EM II (c. 2650-2200 BC) has been termed an international era. Trade intensified and Minoan ships began sailing beyond the Aegean to Egypt and Syria, possibly enabled by the invention of masted ships. Minoan material culture shows increased international influence, for instance in the adoption of Minoan seals based on the older Near Eastern seal. Minoan settlements grew, some doubling in size, and monumental buildings were constructed at sites that would later become palaces.
+
+EM III (c. 2200-2100 BC) saw the continuation of these trends.
+
+Middle Minoan
+
+MM I (c. 2100–1875 BC) saw the emergence of Protopalatial society. During MM IA (c. 2100-1925 BC), populations increased dramatically at sites such as Knossos, Phaistos, and Malia, accompanied by major construction projects. During MM IB (c. 1925-1875 BC), the first palaces were built at these sites, in areas which had been used for communal ceremonies since the Neolithic. Middle Minoan artisans developed new colorful paints and adopted the potter's wheel during MM IB, producing wares such as Kamares ware.
+
+MM II (c. 1875–1700 BC) saw the development of the Minoan writing systems, Cretan hieroglyphic and Linear A. It ended with mass destructions generally attributed to earthquakes, though violent destruction has been considered as an alternative explanation.
+
+MM III (c. 1750–1700 BC) marks the beginning of the Neopalatial period. Most of the palaces were rebuilt with architectural innovations, with the notable exception of Phaistos. Cretan hieroglyphs were abandoned in favor of Linear A, and Minoan cultural influence becomes significant in mainland Greece.
+
+Late Minoan
+
+The Late Minoan period was an eventful time that saw profound change in Minoan society. Many of the most recognizable Minoan artifacts date from this time, for instance the snake goddess figurines, La Parisienne Fresco, and the marine style of pottery decoration.
+
+Late Minoan I (c. 1700-1470 BC) was a continuation of the prosperous Neopalatial culture. A notable event from this era was the eruption of the Thera volcano, which occurred around 1600 BC towards the end of the LM IA subperiod. One of the largest volcanic explosions in recorded history, it ejected about 60 to 100 cubic kilometers (14 to 24 cu mi) of material and was measured at 7 on the Volcanic Explosivity Index. While the eruption destroyed Cycladic settlements such as Akrotiri and led to the abandonment of some sites in northeast Crete, other Minoan sites such as Knossos continued to prosper. The post-eruption LM IB period (c.1625-1470) saw ambitious new building projects, booming international trade, and artistic developments such as the marine style.
+
+Late Minoan IB (c. 1625-1470 BC) ended with severe destructions throughout the island, marking the end of Neopalatial society. These destructions are thought to have been deliberate, since they spared certain sites in a manner inconsistent with natural disasters. For instance, the town at Knossos burned while the palace itself did not. The causes of these destructions have been a perennial topic of debate. While some researchers attributed them to Mycenaean conquerors, others have argued that they were the result of internal upheavals. Similarly, while some researchers have attempted to link them to lingering environmental disruption from the Thera eruption, others have argued that the two events are too distant in time for any causal relation.
+
+Late Minoan II (c. 1470-1420 BC) is sparsely represented in the archaeological record, but appears to have been a period of decline.
+
+Late Minoan III (c. 1420-1075 BC) shows profound social and political changes. Among the palaces, only Knossos remained in use, though it too was destroyed by LM IIIB2. The language of administration shifted to Mycenaean Greek and material culture shows increased mainland influence, reflecting the rise of a Greek-speaking elite. In Late Minoan IIIC (c. 1200-1075 BC), coinciding with the wider Late Bronze Age collapse, coastal settlements were abandoned in favor of defensible locations on higher ground. These small villages, some of which grew out of earlier mountain shrines, continued aspects of recognizably Minoan culture until the Early Iron Age.
+
+Geography
+
+The Minoan Civilization was centered on the island of Crete, with additional settlements around the Aegean Sea. Crete is located in the south of the Aegean, situated along maritime trade routes that connect Europe, Africa, and the Middle East. Because it straddles the Mediterranean and African climate zones, with land at a variety of elevations, it provides a diverse array of natural resources. However, it is notably poor in metals, a fact believed to have spurred the Minoans' interest in international trade. The island is seismically active, with signs of earthquake damage at many Minoan sites. The majority of Minoan sites are found in central and eastern Crete, with few in the western part of the island, especially to the south.
+
+Major settlements
+
+Knossos – the largest Bronze Age archaeological site on Crete. Knossos had an estimated population of 1,300 to 2,000 in 2500 BC, 18,000 in 2000 BC, 20,000 to 100,000 in 1600 BC and 30,000 in 1360 BC.
+Phaistos – the second-largest palatial building on the island, excavated by the Italian school shortly after Knossos
+Hagia Triada – town and administrative center near Phaistos which has yielded the largest number of Linear A tablets.
+Kommos – harbour town serving Phaistos and Hagia Triada, with civic buildings mirroring palatial architecture
+Malia – the subject of French excavations, a palatial center which provides a look into the proto-palatial period
+Kato Zakros – sea-side palatial site excavated by Greek archaeologists in the far east of the island, also known as "Zakro" in archaeological literature
+Galatas – confirmed as a palatial site during the early 1990s
+Kydonia (modern Chania), the only palatial site in West Crete
+Gournia – town site excavated in the first quarter of the 20th century
+Pyrgos – early Minoan site in southern Crete
+Vasiliki – early eastern Minoan site which gives its name to distinctive ceramic ware
+Fournou Korifi – southern site
+Pseira – island town with ritual sites
+Mount Juktas – the greatest Minoan peak sanctuary, associated with the palace of Knossos
+Arkalochori – site of the Arkalochori Axe
+Karfi – refuge site, one of the last Minoan sites
+Akrotiri – settlement on the island of Santorini (Thera), near the site of the Thera Eruption
+Zominthos – mountainous city in the northern foothills of Mount Ida
+
+Beyond Crete
+
+The Minoans were traders, and their cultural contacts reached Egypt, Cyprus, Canaan and the Levantine coast and Anatolia. Minoan-style frescoes have been found at elite residences in Avaris and Tel Kabri. Minoan techniques and ceramic styles had varying degrees of influence on Helladic Greece. Along with Santorini, Minoan settlements are found at Kastri, Kythera, an island near the Greek mainland influenced by the Minoans from the mid-third millennium BC (EMII) to its Mycenaean occupation in the 13th century. Minoan strata replaced a mainland-derived early Bronze Age culture, the earliest Minoan settlement outside Crete.
+
+The Cyclades were in the Minoan cultural orbit and, closer to Crete, the islands of Karpathos, Saria and Kasos also contained middle-Bronze Age (MMI-II) Minoan colonies or settlements of Minoan traders. Most were abandoned in LMI, but Karpathos recovered and continued its Minoan culture until the end of the Bronze Age. Other supposed Minoan colonies, such as that hypothesized by Adolf Furtwängler on Aegina, were later dismissed by scholars. However, there was a Minoan colony at Ialysos on Rhodes.
+
+Art
+
+Minoan art is marked by imaginative images and exceptional workmanship. Sinclair Hood described an "essential quality of the finest Minoan art, the ability to create an atmosphere of movement and life although following a set of highly formal conventions". It forms part of the wider grouping of Aegean art, and in later periods came for a time to have a dominant influence over Cycladic art. Wood and textiles have decomposed, so most surviving examples of Minoan art are pottery, intricately-carved Minoan seals, palace frescos which include landscapes (but are often mostly "reconstructed"), small sculptures in various materials, jewellery, and metalwork.
+
+The relationship of Minoan art to that of other contemporary cultures and later Ancient Greek art has been much discussed. It clearly dominated Mycenaean art and Cycladic art of the same periods, even after Crete was occupied by the Mycenaeans, but only some aspects of the tradition survived the Greek Dark Ages after the collapse of Mycenaean Greece.
+Many different styles of potted wares and techniques of production are observable throughout the history of Crete. Early Minoan ceramics were characterized by patterns of spirals, triangles, curved lines, crosses, fish bones, and beak-spouts. However, while many of the artistic motifs are similar in the Early Minoan period, there are many differences that appear in the reproduction of these techniques throughout the island which represent a variety of shifts in taste as well as in power structures. There were also many small terracotta figurines.
+
+During the Middle Minoan period, naturalistic designs (such as fish, squid, birds and lilies) were common. In the Late Minoan period, flowers and animals were still characteristic but more variety existed. However, in contrast to later Ancient Greek vase painting, paintings of human figures are extremely rare, and those of land mammals not common until late periods. Shapes and ornament were often borrowed from metal tableware that has largely not survived, while painted decoration probably mostly derives from frescos.
+
+Jewelry
+
+Minoan jewellery has mostly been recovered from graves, and until the later periods much of it consists of diadems and ornaments for women's hair, though there are also the universal types of rings, bracelets, armlets and necklaces, and many thin pieces that were sewn onto clothing. In the earlier periods gold was the main material, typically hammered very thin, but later it seemed to become scarce.
+
+The Minoans created elaborate metalwork with imported gold and copper. Bead necklaces, bracelets and hair ornaments appear in the frescoes, and many labrys pins survive. The Minoans mastered granulation, as indicated by the Malia Pendant, a gold pendant featuring bees on a honeycomb. This was overlooked by the 19th-century looters of a royal burial site they called the "Gold Hole".
+
+Weapons
+
+Fine decorated bronze weapons have been found in Crete, especially from LM periods, but they are far less prominent than in the remains of warrior-ruled Mycenae, where the famous shaft-grave burials contain many very richly decorated swords and daggers. In contrast spears and "slashing-knives" tend to be "severely functional." Many of the decorated weapons were probably made either in Crete, or by Cretans working on the mainland. Daggers are often the most lavishly decorated, with gold hilts that may be set with jewels, and the middle of the blade decorated with a variety of techniques.
+
+The most famous of these are a few inlaid with elaborate scenes in gold and silver set against a black (or now black) "niello" background, whose actual material and technique have been much discussed. These have long thin scenes running along the centre of the blade, which show the violence typical of the art of Mycenaean Greece, as well as a sophistication in both technique and figurative imagery that is startlingly original in a Greek context.
+
+Metal vessels
+
+Metal vessels were produced in Crete from at least as early as EM II (c. 2500 BC) in the Prepalatial period through to LM IA (c. 1450 BC) in the Postpalatial period and perhaps as late as LM IIIB/C (c. 1200 BC), although it is likely that many of the vessels from these later periods were heirlooms from earlier periods. The earliest were probably made exclusively from precious metals, but from the Protopalatial period (MM IB – MM IIA) they were also produced in arsenical bronze and, subsequently, tin bronze. The archaeological record suggests that mostly cup-type forms were created in precious metals, but the corpus of bronze vessels was diverse, including cauldrons, pans, hydrias, bowls, pitchers, basins, cups, ladles and lamps. The Minoan metal vessel tradition influenced that of the Mycenaean culture on mainland Greece, and they are often regarded as the same tradition. Many precious metal vessels found on mainland Greece exhibit Minoan characteristics, and it is thought that these were either imported from Crete or made on the mainland by Minoan metalsmiths working for Mycenaean patrons or by Mycenaean smiths who had trained under Minoan masters.
+
+Agriculture and cuisine
+
+The Minoans raised cattle, sheep, pigs and goats, and grew wheat, barley, vetch and chickpeas. They also cultivated grapes, figs and olives, grew poppies for seed and perhaps opium. The Minoans also domesticated bees.
+
+Vegetables, including lettuce, celery, asparagus and carrots, grew wild on Crete. Pear, quince, and olive trees were also native. Date palm trees and cats (for hunting) were imported from Egypt. The Minoans adopted pomegranates from the Near East, but not lemons and oranges.
+
+They may have practiced polyculture, and their varied, healthy diet resulted in a population increase. Polyculture theoretically maintains soil fertility and protects against losses due to crop failure. Linear B tablets indicate the importance of orchards (figs, olives and grapes) in processing crops for "secondary products". Olive oil in Cretan or Mediterranean cuisine is comparable to butter in northern European cuisine. The process of fermenting wine from grapes was probably a factor of the "Palace" economies; wine would have been a trade commodity and an item of domestic consumption. Farmers used wooden plows, bound with leather to wooden handles and pulled by pairs of donkeys or oxen.
+
+Seafood was also important in Cretan cuisine. The prevalence of edible molluscs in site material and artistic representations of marine fish and animals (including the distinctive Marine Style pottery, such as the LM IIIC "Octopus" stirrup jar), indicate appreciation and occasional use of fish by the economy. However, scholars believe that these resources were not as significant as grain, olives and animal produce. "Fishing was one of the major activities...but there is as yet no evidence for the way in which they organized their fishing." An intensification of agricultural activity is indicated by the construction of terraces and dams at Pseira in the Late Minoan period.
+
+Cretan cuisine included wild game: Cretans ate wild deer, wild boar and meat from livestock. Wild game is now extinct on Crete. A matter of controversy is whether Minoans made use of the indigenous Cretan megafauna, which are typically thought to have been extinct considerably earlier at 10,000 BC. This is in part due to the possible presence of dwarf elephants in contemporary Egyptian art.
+
+Not all plants and flora were purely functional, and arts depict scenes of lily-gathering in green spaces. The fresco known as the Sacred Grove at Knossos depicts women facing left, flanked by trees. Some scholars have suggested that it is a harvest festival or ceremony to honor the fertility of the soil. Artistic depictions of farming scenes also appear on the Harvester Vase (an egg-shaped rhyton), which depicts 27 men led by another carrying bunches of sticks to beat ripe olives from the trees.
+
+The discovery of storage areas in the palace compounds has prompted debate. At the second "palace" at Phaistos, rooms on the west side of the structure have been identified as a storage area. Jars, jugs and vessels have been recovered in the area, indicating the complex's possible role as a re-distribution center for agricultural produce. At larger sites such as Knossos, there is evidence of craft specialization (workshops). The palace at Kato Zakro indicates that workshops were integrated into palace structure. The Minoan palatial system may have developed through economic intensification, where an agricultural surplus could support a population of administrators, craftsmen and religious practitioners. The number of sleeping rooms in the palaces indicates that they could have supported a sizable population which was removed from manual labor.
+
+Tools
+
+Tools, originally made of wood or bone, were bound to handles with leather straps. During the Bronze Age, they were made of bronze with wooden handles. Due to its round hole, the tool head would spin on the handle. The Minoans developed oval-shaped holes in their tools to fit oval-shaped handles, which prevented spinning. Tools included double adzes, double- and single-bladed axes, axe-adzes, sickles and chisels.
+
+Society and culture
+
+Apart from the abundant local agriculture, the Minoans were also a mercantile people who engaged significantly in overseas trade, and at their peak may well have had a dominant position in international trade over much of the Mediterranean. After 1700 BC, their culture indicates a high degree of organization. Minoan-manufactured goods suggest a network of trade with mainland Greece (notably Mycenae), Cyprus, Syria, Anatolia, Egypt, Mesopotamia and westward as far as the Iberian Peninsula. Minoan religion apparently focused on female deities, with women officiants. While historians and archaeologists have long been skeptical of an outright matriarchy, the predominance of female figures in authoritative roles over male ones seems to indicate that Minoan society was matriarchal, and among the most well-supported examples known.
+
+The term palace economy first gained popularity among Minoan researchers. It is now used as a general term for ancient pre-monetary cultures where much of the economy revolved around the collection of crops and other goods by centralized government or religious institutions (the two tending to go together) for redistribution to the population. This is still accepted as an important part of the Minoan economy; all the palaces have very large amounts of space that seems to have been used for storage of agricultural produce, some remains of which have been excavated after they were buried by disasters. What role, if any, the palaces played in Minoan international trade is unknown, or how this was organized in other ways. The decipherment of Linear A would possibly shed light on this.
+
+Government
+
+Very little is known about the forms of Minoan government, particularly since the Minoan language has not yet been deciphered. It used to be believed that the Minoans had a monarchy supported by a bureaucracy. This might initially have been a number of monarchies, corresponding with the "palaces" around Crete, but later all taken over by Knossos, which was itself later occupied by Mycenaean overlords. But, in notable contrast to contemporary Egyptian and Mesopotamian civilizations, "Minoan iconography contains no pictures of recognizable kings", and in recent decades it has come to be thought that before the presumed Mycenaean invasion around 1450 BC, a group of elite families, presumably living in the "villas" and the palaces, controlled both government and religion. Rejecting both a monarchy and an aristocracy, David Graeber and David Wengrow recently concluded: "Pretty much all the available evidence from Minoan Crete suggests a system of female political rule – effectively a theocracy of some sort, governed by a college of priestesses."
+
+Status of women
+
+As Linear A Minoan writing has not been deciphered yet, most information available about Minoan women is from various art forms and Linear B tablets, and scholarship about Minoan women remains limited.
+
+Minoan society was a divided society separating men from women in art illustration, clothing, and societal duties. For example, documents written in Linear B have been found documenting Minoan families, wherein spouses and children are not all listed together. In one section, fathers were listed with their sons, while mothers were listed with their daughters in a completely different section apart from the men who lived in the same household, signifying the vast gender divide present in Minoan society.
+
+Artistically, women were portrayed very differently from men. Men were often artistically represented with dark skin while women were represented with lighter skin. Minoan dress representation also clearly marks the difference between men and women. Minoan men were often depicted clad in little clothing while women's bodies, specifically later on, were more covered up. While there is evidence that the structure of women's clothing originated as a mirror to the clothing that men wore, fresco art illustrates how women's clothing evolved to be increasingly elaborate throughout the Minoan era. Throughout the evolution of women's clothing, a strong emphasis was placed on the women's sexual characteristics, particularly the breasts. Female clothing throughout the Minoan era emphasized the breasts by exposing cleavage or even the entire breast. Both Minoan women and men were portrayed with "wasp" waists, similar to the modern bodice women continue to wear today.
+
+Fresco paintings portray three class levels of women; elite women, women of the masses, and servants. A fourth, smaller class of women are also included among some paintings; women who participated in religious and sacred tasks. Elite women were depicted in paintings as having a stature twice the size of women in lower classes, as this was a way of emphasizing the important difference between the elite wealthy women and the rest of the female population within society.
+
+Childcare was a central job for women within Minoan society. Other roles outside the household that have been identified as women's duties are food gathering, food preparation, and household care-taking. Additionally, it has been found that women were represented in the artisan world as ceramic and textile craftswomen. As women got older it can be assumed that their job of taking care of children ended and they transitioned towards household management and job mentoring, teaching younger women the jobs that they themselves participated in.
+
+While women were often portrayed in paintings as caretakers of children, pregnant women were rarely shown in frescoes. Pregnant women were instead represented in the form of sculpted pots with the rounded base of the pots representing the pregnant belly. Additionally, no Minoan art forms portray women giving birth, breast feeding, or procreating. Lack of such actions leads historians to believe that these actions would have been recognized by Minoan society to be either sacred or inappropriate, and kept private within society.
+
+Childbirth was a dangerous process within Minoan society. Archeological sources have found numerous bones of pregnant women, identified by the fetus bones within their skeleton found in the abdomen area, providing strong evidence that death during pregnancy and childbirth were common features within society.
+
+Clothing
+
+Sheep wool was the main fibre used in textiles, and perhaps a significant export commodity. Linen from flax was probably much less common, and possibly imported from Egypt, or grown locally. There is no evidence of silk, but some use is possible.
+
+As seen in Minoan art, Minoan men wore loincloths (if poor) or robes or kilts that were often long. Women wore long dresses with short sleeves and layered, flounced skirts. With both sexes, there was a great emphasis in art in a small wasp waist, often taken to improbable extremes. Both sexes are often shown with rather thick belts or girdles at the waist. Women could also wear a strapless, fitted bodice, and clothing patterns had symmetrical, geometric designs. Men are shown as clean-shaven, and male hair was short, in styles that would be common today, except for some long thin tresses at the back, perhaps for young elite males. Female hair is typically shown with long tresses falling at the back, as in the fresco fragment known as La Parisienne. This got its name because when it was found in the early 20th century, a French art historian thought it resembled Parisian women of the day. Children are shown in art with shaved heads (often blue in art) except for a few very long locks; the rest of the hair is allowed to grow as they approach puberty; this can be seen in the Akrotiri Boxer Fresco.
+
+Two famous Minoan snake goddess figurines from Knossos show bodices that circle their breasts, but do not cover them at all. These striking figures have dominated the popular image of Minoan clothing, and have been copied in some "reconstructions" of largely destroyed frescos, but few images unambiguously show this costume, and the status of the figures—goddesses, priestesses, or devotees—is not at all clear. What is clear, from pieces like the Agia Triada Sarcophagus, is that Minoan women normally covered their breasts; priestesses in religious contexts may have been an exception. This shows a funeral sacrifice, and some figures of both sexes are wearing aprons or skirts of animal hide, apparently left with the hair on. This was probably the costume worn by both sexes by those engaged in rituals. 
+
+Minoan jewellery included many gold ornaments for women's hair and also thin gold plaques to sew onto clothing. Flowers were also often worn in the hair, as by the Poppy Goddess terracotta figurine and other figures.
+
+Language and writing
+
+The Minoans used a number of different scripts. During the Palatial period, the primary scripts were Linear A and Cretan hieroglyphs, the latter falling out of use in MM III. The origins of these scripts is unknown. Although Cretan hieroglyphic is often assumed to have been inspired by Egyptian hieroglyphs, Anatolian and Mesopotamian writing systems have also been considered as models. Neither script has been deciphered, despite numerous attempts. For instance, when the values of the symbols in Linear B are used in Linear A, they produce mostly unrecognizable words. The language encoded by these scripts is tentatively dubbed "Minoan", though it is not certain that it was a single language. Decipherment attempts have attempted to read the language as Indo-European, Semitic, and Tyrsenian languages, but none have resulted in an accepted decipherment. The post-Bronze Age Eteocretan language has been considered as a potential descendant of Minoan. However, this language is only known from five inscriptions in eastern Crete and is thus itself poorly understood.
+
+Linear B became the primary Cretan script after LM II. This script was adapted from the earlier Linear A in order to write Mycenaean Greek, which had become the language of administration. Linear B was deciphered in 1952, unlocking a major source of textual evidence about the economics and social organization of the final year at the palace of Knossos.
+
+A handful of Minoan inscriptions use other unknown writing systems. For instance, the Phaistos Disc features a pictorial script whose only close comparison is found on the Arkalochori Axe. Because so few instances of these scripts have been found, they remain undeciphered.
+
+Religion
+
+Arthur Evans thought the Minoans worshipped, more or less exclusively, a mother goddess, which heavily influenced views for decades. Recent scholarly opinion sees a much more diverse religious landscape although the absence of texts, or even readable relevant inscriptions, leaves the picture very cloudy. We have no names of deities until after the Mycenaean era. Much Minoan art is given a religious significance of some sort, but this tends to be vague, not least because Minoan government is now often seen as a theocracy, so politics and religion have a considerable overlap. The Minoan pantheon featured many deities, among which a young, spear-wielding male god is also prominent. Some scholars see in the Minoan Goddess a female divine solar figure.
+
+It is very often difficult to distinguish between images of worshipers, priests and priestesses, rulers and deities; indeed the priestly and royal roles may have often been the same, as leading rituals is often seen as the essence of rulership. Possibly as aspects of the main, probably dominant, nature/mother goddess, archaeologists have identified a mountain goddess, worshipped at peak sanctuaries, a dove goddess, a snake goddess perhaps protectress of the household, the Potnia Theron goddess of animals, and a goddess of childbirth. Late Minoan terracotta votive figures like the poppy goddess (perhaps a worshipper) carry attributes, often birds, in their diadems. The mythical creature called the Minoan Genius is somewhat threatening but perhaps a protective figure, possibly of children; it seems to largely derive from Taweret the Egyptian hybrid crocodile and hippopotamus goddess.
+
+Minoan horn-topped altars, which Arthur Evans called Horns of Consecration, are represented in seal impressions and have been found as far afield as Cyprus. Minoan sacred symbols include the bull (and its horns of consecration), the labrys (double-headed axe), the pillar, the serpent, the sun-disc, the tree, and even the Ankh.
+
+Burial practices
+
+Similar to other Bronze Age archaeological finds, burial remains constitute much of the material and archaeological evidence for the period. By the end of the Second Palace Period, Minoan burial was dominated by two forms: circular tombs (tholoi) in southern Crete and house tombs in the north and the east. However, much Minoan mortuary practice does not conform to this pattern. Burial was more popular than cremation. Individual burial was the rule, except for the Chrysolakkos complex in Malia. Here, a number of buildings form a complex in the center of Mallia's burial area and may have been the focus for burial rituals or a crypt for a notable family. Evidence of possible human sacrifice by the Minoans has been found at three sites: at Anemospilia, in a MMII building near Mt. Juktas considered a temple; an EMII sanctuary complex at Fournou Korifi in south-central Crete, and in an LMIB building known as the North House in Knossos.
+
+Architecture
+
+Minoan cities were connected by narrow roads paved with blocks cut with bronze saws. Streets were drained, and water and sewage facilities were available to the upper class through clay pipes.
+
+Minoan buildings often had flat, tiled roofs; plaster, wood or flagstone floors, and stood two to three stories high. Lower walls were typically constructed of stone and rubble, and the upper walls of mudbrick. Ceiling timbers held up the roofs.
+
+Construction materials for villas and palaces varied, and included sandstone, gypsum and limestone. Building techniques also varied, with some palaces using ashlar masonry and others roughly-hewn, megalithic blocks.
+
+In north-central Crete blue-greenschist was used to pave floors of streets and courtyards between 1650 and 1600 BC. These rocks were likely quarried in Agia Pelagia on the north coast of central Crete.
+
+The Minoans famously built large complexes referred to as palaces. However, despite their name, it is generally agreed that they did not primarily serve as royal residences. The best known of them are at Knossos, Phaistos, Zakros, and Malia.
+
+Minoan palaces consist of wings arranged around an open rectangular court. The wings are often multi-story, with interior and exterior staircases, lightwells, massive columns, and large storage chambers. The various palaces have a fairly uniform style, though each has unique features. They are typically aligned with their surrounding topography, in particular with nearby sacred mountains. For instance, the palace at Phaistos appears to align with Mount Ida and Knossos is aligned with Mount Juktas, both on a north–south axis.
+
+The first palaces are generally dated to the MM IB period. However, they were not a spontaneous development but rather the culmination of a longer architectural tradition. The palace style has precedents in Early Minoan construction styles and earlier buildings were sometimes incorporated in the later palaces. The palace at Malia is sometimes regarded as having achieved palacehood at the end of the Early Minoan period. Palaces were continually renovated and altered, with their style changing over time. For instance, early palaces had a square-within-a-square layout, while later renovations introduced more internal divisions and corridors.
+
+The function of the palaces is a matter of debate, though it is known that they included administrative offices, shrines, workshops and storage spaces.
+During the Minoan Era extensive waterways were built in order to protect the growing population. This system had two primary functions, first providing and distributing water, and secondly relocating sewage and stormwater. One of the defining aspects of the Minoan Era was the architectural feats of their waste management. The Minoans used technologies such as wells, cisterns, and aqueducts to manage their water supplies. Structural aspects of their buildings even played a part. Flat roofs and plentiful open courtyards were used for collecting water to be stored in cisterns. Significantly, the Minoans had water treatment devices. One such device seems to have been a porous clay pipe through which water was allowed to flow until clean.
+
+For sustaining of the roof, some higher houses, especially the palaces, used columns made usually of Cupressus sempervirens, and sometimes of stone. One of the most notable Minoan contributions to architecture is their inverted column, wider at the top than the base (unlike most Greek columns, which are wider at the bottom to give an impression of height). The columns were made of wood (not stone) and were generally painted red. Mounted on a simple stone base, they were topped with a pillow-like, round capital.
+
+A number of compounds known as "villas" have been excavated on Crete, mostly near palaces, especially Knossos. These structures share features of neopalatial palaces: a conspicuous western facade, storage facilities and a three-part Minoan Hall. These features may indicate a similar role or that the structures were artistic imitations, suggesting that their occupants were familiar with palatial culture. The villas were often richly decorated, as evidenced by the frescos of Hagia Triada Villa A.
+
+A common characteristic of the Minoan villas was having flat roofs. Their rooms did not have windows to the streets, the light arriving from courtyards, a common feature of larger Mediterranean in much later periods. In the 2nd millennium BC, the villas had one or two floors, and the palaces even three.
+
+Early excavators such as Arthur Evans proposed that there was little internal armed conflict in Minoan Crete until the Mycenaean period. However, subsequent scholarship has questioned this interpretation. No evidence has been found of a Minoan army or the Minoan domination of peoples beyond Crete. Evans believed that the Minoans had some kind of overlordship of at least parts of Mycenaean Greece in the Neopalatial Period, but it is now very widely agreed that the opposite was the case, with a Mycenaean elite clearly ruling Knossos from around 1450 BC. Few signs of warfare appear in Minoan art: "Although a few archaeologists see war scenes in a few pieces of Minoan art, others interpret even these scenes as festivals, sacred dance, or sports events" (Studebaker, 2004, p. 27). Although armed warriors are depicted as stabbed in the throat with swords, the violence may be part of a ritual or blood sport.
+
+Nanno Marinatos argued that the Neopalatial Minoans had a "powerful navy" that made them a desirable ally to have in Mediterranean power politics, at least by the 14th century as "vassals of the pharaoh", leading Cretan tribute-bearers to be depicted on Egyptian tombs such as those of the top officials Rekmire and Senmut. On mainland Greece during the shaft-grave era at Mycenae, there is little evidence for major Mycenaean fortifications; the citadels follow the destruction of nearly all neopalatial Cretan sites. Warfare by other contemporaries of the ancient Minoans, such as the Egyptians and the Hittites, is well-documented.
+
+Despite finding ruined watchtowers and fortification walls, Evans said that there was little evidence of ancient Minoan fortifications. According to Stylianos Alexiou (in Kretologia 8), a number of sites (especially early and middle Minoan sites such as Aghia Photia) are built on hilltops or otherwise fortified. 
+
+We may have been over-influenced by the lack of what we might think of as solid fortifications to assess the archaeological evidence properly. As in so many other instances, we may not have been looking for evidence in the right places, and therefore we may not end with a correct assessment of the Minoans and their ability to avoid war.
+
+Chester Starr said in "Minoan Flower Lovers" that since Shang China and the Maya had unfortified centers and engaged in frontier struggles, a lack of fortifications alone does not prove that the Minoans were a peaceful civilization unparalleled in history. In 1998, when Minoan archaeologists met in a Belgian conference to discuss the possibility that the Pax Minoica was outdated, evidence of Minoan war was still scanty. According to Jan Driessen, the Minoans frequently depicted "weapons" in their art in a ritual context: The construction of fortified sites is often assumed to reflect a threat of warfare, but such fortified centres were multifunctional; they were also often the embodiment or material expression of the central places of the territories at the same time as being monuments glorifying and merging leading power.
+
+Stella Chryssoulaki's work on small outposts (or guardhouses) in eastern Crete indicates a possible defensive system; type A (high-quality) Minoan swords were found in the palaces of Mallia and Zarkos. Keith Branigan estimated that 95 percent of Minoan "weapons" had hafting (hilts or handles) which would have prevented their use as such. However, tests of replicas indicated that the weapons could cut flesh down to the bone (and score the bone's surface) without damaging the weapons themselves. According to Paul Rehak, Minoan figure-eight shields could not have been used for fighting or hunting, since they were too cumbersome. Although Cheryl Floyd concluded that Minoan "weapons" were tools used for mundane tasks such as meat processing, Middle Minoan "rapiers nearly three feet in length" have been found.
+
+Charles Gates argues that the absence of warfare in Minoan art does not prove it did not occur because there is no correlation between a society's artistic depiction of warfare and how often said society is involved in conflict. Barry Molloy states that artwork is an unreliable guide to a society's behaviour, using the example that frescoes recovered prior to the Late Minoan period seldom depict people interacting with each other yet this should not be taken as evidence that Minoans rarely did so. Molloy further argues that the lack of fortifications could be attributed to Crete's rugged topography, which would have provided a significant natural defensive advantage; Molloy argues that the guardhouses could have been used to secure narrow roads through Crete.
+
+About Minoan warfare, Branigan concluded: The quantity of weaponry, the impressive fortifications, and the aggressive looking long-boats all suggested an era of intensified hostilities. But on closer inspection there are grounds for thinking that all three key elements are bound up as much with status statements, display, and fashion as with aggression;... Warfare such as there was in the southern Aegean early Bronze Age was either personalized and perhaps ritualized (in Crete) or small-scale, intermittent and essentially an economic activity (in the Cyclades and the Argolid/Attica). Archaeologist Olga Krzyszkowska agreed: "The stark fact is that for the prehistoric Aegean we have no direct evidence for war and warfare per se."
+
+A cephalometric analysis by Argyropoulos et al. (1989) published in The Angle Orthodontist showed remarkable similarity in craniofacial morphology between Minoans and modern Greeks, suggesting a close affinity, and that the Greek ethnic group remained stable in its cephalic and facial morphology for the last 4,000 years. A craniofacial morphological study by Papagrigorakis et al. (2014) published in Anthropologischer Anzeiger also indicated craniological similarities between modern Greeks and Minoans, indicating continuity.
+
+A 2013 archaeogenetics study by Hughey at al. published in Nature Communications compared skeletal mtDNA from ancient Minoan skeletons that were sealed in a cave in the Lasithi Plateau between 3,700 and 4,400 years ago to 135 samples from Greece, Anatolia, western and northern Europe, North Africa and Egypt. The researchers found that the Minoan skeletons were genetically very similar to modern-day Europeans—and especially close to modern-day Cretans, particularly those from the Lasithi Plateau. They were also genetically similar to Neolithic Europeans, but distinct from Egyptian or Libyan populations. "We now know that the founders of the first advanced European civilization were European," said study co-author George Stamatoyannopoulos, a human geneticist at the University of Washington. "They were very similar to Neolithic Europeans and very similar to present day-Cretans."
+
+In their archaeogenetic study published in Nature, Lazaridis et al. (2017) found that Minoans and Mycenaean Greeks were genetically highly similar – but not identical – and that modern Greeks descend from these populations. The FST between the sampled Bronze Age populations and present-day West Eurasians was estimated, finding that Mycenaean Greeks and Minoans were least differentiated from the populations of modern Greece, Cyprus, Albania, and Italy. In a subsequent study, Lazaridis et al. (2022) concluded that around ~58.4–65.8% of the DNA of the Mycenaeans and ~70.9–76.7% of the Minoans came from Early European Farmers (EEF), while the remainder came from ancient populations related to the Caucasus Hunter-Gatherers (CHG) (Mycenaeans ~20.1–22.7%, Minoans ~17–19.4%) and the Pre-Pottery Neolithic (PPN) culture (Mycenaeans ~7–14%, Minoans ~3.9–9.5%). Unlike the Minoans, the Mycenaeans had also inherited ~3.3–5.5% ancestry on average from a source related to the Eastern European Hunter-Gatherers (EHG), introduced via a proximal source related to the inhabitants of the Pontic–Caspian steppe (Western Steppe Herders) who are hypothesized to be the Proto-Indo-Europeans, and ~0.9–2.3% from the Iron Gates Hunter-Gatherers in the Balkans.
+
+In 2023, whole genome-wide data of 102 individuals from Crete, the Greek mainland and Aegean Islands were sequenced, spanning from the Neolithic to Iron Age. It was discovered that the early farmers from Crete shared the same ancestry as other Neolithic Aegeans. It also confirmed previous findings for additional Central/Eastern European ancestry in the Greek mainland by the Middle Bronze Age.
+
+A multidisciplinary report in 2024, also included a bioarcheological investigation conducted on remains that were found in Armenoi, Crete. The research revealed that the DNA of 23 newly sequenced individuals from Late Minoan tombs, had derived most of their ancestry from an Anatolian Neolithic source. Modern Greeks share this genetic profile, but are more shifted towards the Yamnaya on the PCA, and differentiated from the Greek populations that lived during the Early Bronze Age. The admixture analysis identified three main reference components: Anatolian Neolithic, Iranian Neolithic, and Western Hunter-Gatherer, with the Minoans also having some Yamnaya-related ancestry. The majority of individuals in the necropolis formed a homogenous population, with the exception of one individual, who was more similar to the populations of Western Europe. Overall, the studied genomes were found to be most similar to the other published genomes of Myceneans from mainland Greece; however, on the PCA analysis they plot exactly in-between both Minoans and Myceneans. The researchers noted that based on their genomic profile and placement, they may have been a mix of both groups.
+
+Wikimedia Commons has media related to Minoan civilization.
+
+Library resources about Minoan civilization
+- Online books
+- Resources in your library
+- Resources in other libraries
+
+Caphtor
+Caucasus
+Hyksos
+Minoa
+Sacred caves of Crete
+Sea Peoples
+y, Amsterdam, 19–23 November 1980; John Benjamins Publishing, 1980, ISBN 978-9060321942; Jan G. P. Best; Nanny M. W. de Vries; http://theancientworld.net/civ/minoans.html "The Minoans"; Hägg and Marinatos 1984; Hardy (ed.) 1984; Broadbank 2004; Branigan, Keith (1981). "Minoan Colonialism". The Annual of the British School at Athens. 76: 23–33. doi:10.1017/s0068245400019444. JSTOR 30103026. S2CID 246244704; J. N. Coldstream and G. L. Huxley, Kythera: Excavations and Studies Conducted by the University of Pennsylvania Museum and the British School at Athens (London: Faber & Faber) 1972; E. M. Melas, The Islands of Karpathos, Saros and Kasos in the Neolithic and Bronze Age (Studies in Mediterranean archaeology 68) (Gothenburg) 1985; James Penrose Harland, Prehistoric Aigina: A History of the Island in the Bronze Age, ch. V. (Paris) 1925; Arne Furumark, "The settlement at Ialysos and Aegean history c. 1500–1400 B.B.", in Opuscula archaeologica 6 (Lund) 1950; T. Marketou, "New Evidence on the Topography and Site History of Prehistoric Ialysos." in Soren Dietz and Ioannis Papachristodoulou (eds.), Archaeology in the Dodecanese (1988:28–31); Hoffman, Gail L. (1997). Imports and Immigrants: Near Eastern Contacts with Iron Age Crete. University of Michigan Press. ISBN 978-0472107704 – via Google Books; Warren, Peter (1979). "The Miniature Fresco from the West House at Akrotiri, Thera, and Its Aegean Setting". The Journal of Hellenic Studies. 99: 115–129. doi:10.2307/630636. ISSN 0075-4269. JSTOR 630636. S2CID 161908616; "A Dagger from the Minoan Civilization of Crete Found in a Bronze Age Shipwreck". 4 September 2024. Archived from the original on 2024-09-07. Retrieved 2024-09-04; Hood (1978), 56; Hood (1978), 17-18, 23-23; Hood (1978), 240-241; Gates (2004), 33-34, 41; e.g. Hood (1978), 53, 55, 58, 110; Chapin, 49-51; Hood (1978), 37-38; Hood (1978), 56, 233-235; Hood (1978), 235-236; Hood (1978), 49-50, 235-236; Chapin, 47 and throughout; Hood (1978), 63-64; Castleden, Rodney (1993). Minoans: Life in Bronze Age. Routledge. p. 106; Hood (1978), 34, 42, 43; Hood (1978), 27; Hood (1978), 188-190; Hood (1978), 205-206; Greek Jewelry – AJU. Archived from the original on 2016-04-23. Retrieved 2016-04-06; Nelson, E Charles; Mavrofridis, Georgios; Anagnostopoulos, Ioannis Th (2020-09-30). "Natural History of a Bronze Age Jewel Found in Crete: The Malia Pendant". The Antiquaries Journal. 101: 67–78. doi:10.1017/S0003581520000475. ISSN 0003-5815. S2CID 224985281; Hood (1978), 194-195; Hood (1978), 173-175, 175 quoted; Hood (1978), 175; Hood (1978), 176-177; Hemingway, Séan (1 January 1996). "Minoan Metalworking in the Postpalatial Period: A Deposit of Metallurgical Debris from Palaikastro". The Annual of the British School at Athens. 91: 213–252. doi:10.1017/s0068245400016488. JSTOR 30102549. S2CID 127346339; Rehak, Paul (1997). "Aegean Art Before and After the LM IB Cretan Destructions". In Laffineur, Robert; Betancourt, Philip P. (eds.). TEXNH. Craftsmen, Craftswomen and Craftsmanship in the Aegean Bronze Age / Artisanat et artisans en Égée à l'âge du Bronze: Proceedings of the 6th International Aegean Conference / 6e Rencontre égéenne internationale, Philadelphia, Temple University, 18–21 April 1996. Liège: Université de Liège, Histoire de l'art et archéologie de la Grèce antique. p. 145. ISBN 9781935488118; Clarke, Christina F. (2013). The Manufacture of Minoan Metal Vessels: Theory and Practice. Uppsala: Åströms Förlag. p. 1. ISBN 978-91-7081-249-1; Davis 1977; Matthäus, Hartmut (1980). Die Bronzegefässe der kretisch-mykenischen Kultur. München: C.H. Beck. ISBN 9783406040023; Catling, Hector W. (1964). Cypriot Bronzework in the Mycenaean World. Oxford: Clarendon Press. p. 187; Davis 1977, pp. 328–352; Hood, Sinclair (1971) "The Minoans; the story of Bronze Age Crete"; Hood (1971), 87; Hamilakis raised doubts in 2007 that systematic polyculture was practiced on Crete. (Hamilakis, Y. (2007) Wiley.com; Sherratt, A. (1981) Plough and Pastoralism: Aspects of the Secondary Products Revolution; Hood (1971), 86; Hamilakis, Y (1999) Food Technologies/Technologies of the Body: The Social Context of Wine and Oil Production and Consumption in Bronze Age Crete; Dickinson, O (1994) The Aegean Bronze Age p. 28; Castleden, Rodney (2002). Minoans: Life in Bronze Age Crete. Routledge. ISBN 9781134880645; Hood (1978), 145–146; Hood (1971), 83; Marco Masseti, Atlas of terrestrial mammals of the Ionian and Aegean islands, Walter de Gruyter, 30/10/2012; Hood (1978), 145-146; Honour and Fleming, 55-56; The Harvester Vase, German, Senta, Khan Academy; Hood (1971), 140; Molloy, Barry PC. "Martial Minoans? War as social process, practice and event in Bronze Age Crete." Annual of the British School at Athens 107 (2012): 87-142, pp.96-97, 107; D'Amato, Raffaele; Salimbeti, Andrea (2013). Early Aegean Warrior 5000–1450 BC. Bloomsbury Publishing. ISBN 978-1-78096-860-5; Hamilakis raised doubts about the martial nature of Minoan society; Nixon 1983; Driessen 1999; Branigan 1999, pp. 87–94; Letesson, Quentin (January 2013). "Minoan Halls: A Syntactical Genealogy". American Journal of Archaeology. 117 (3): 303–351. doi:10.3764/aja.117.3.0303; Niemeier, W.-B. "Mycenaean Knossos and the Age of Linear B". Studi Micenei ed Egeoanatolici. 1982: 275; Benton and DiYanni 1998, p. 67; Bourbon 1998, p 34; Harissis, Haralampos V.; Harissis, Anastasios V. (2009). Apiculture in the Prehistoric Aegean: Minoan and Mycenaean Symbols Revisited. British Archaeological Reports (S1958). ISBN 978-1-4073-0454-0; Marinatos (2010), 4-5; Gere, Knossos and the Prophets of Modernism; Nixon 1983; Starr, Chester (1984). Robin Hägg, Nanno Marinatos (ed.). The Minoan Thalassocracy. Skrifter utgivna av Svenska institutet i Athen, 4o. Vol. 32. Stockholm: Svenska institutet i Athen. pp. 9–12. ISBN 978-91-85086-78-8; Driessen 1999; Branigan 1999, pp. 87–94; Letesson, Quentin (January 2013). "Minoan Halls: A Syntactical Genealogy". American Journal of Archaeology. 117 (3): 303–351. doi:10.3764/aja.117.3.0303; Niemeier, W.-B. "Mycenaean Knossos and the Age of Linear B". Studi Micenei ed Egeoanatolici. 1982: 275; Alexiou wrote of fortifications and acropolises in Minoan Crete, in Kretologia 8 (1979), pp. 41–56; Marinatos 2010; Gere, Knossos and the Prophets of Modernism; Nixon 1983; Starr, Chester; Marinatos, Nanno (ed.). The Minoan Thalassocracy. Skrifter utgivna av Svenska institutet i Athen, 4o. Vol. 32. Stockholm: Svenska institutet i Athen. pp. 9–12. ISBN 978-91-85086-78-8; Driessen 1999; Branigan 1999, pp. 87–94; D'Amato, Raffaele; Salimbeti, Andrea (2013). Early Aegean Warrior 5000–1450 BC. Bloomsbury Publishing. ISBN 978-1-78096-860-5; Hamilakis raised doubts; Nixon 1983; Driessen 1999; Branigan 1999, 87-94.
+Papagrigorakis, Manolis J.; Kousoulis, Antonis A.; Synodinos, Philippos N. (2014-06-01). "Craniofacial morphology in ancient and modern Greeks through 4,000 years". *Anthropologischer Anzeiger*. 71 (3): 237–257. doi:10.1127/0003-5548/2014/0277. ISSN 0003-5548. PMID 25065118.
+
+Hughey, Jeffrey (2013). "A European population in Minoan Bronze Age Crete". *Nature Communications*. 4: 1861. Bibcode:2013NatCo...4.1861H. doi:10.1038/ncomms2871. PMC 3674256. PMID 23673646.
+
+Ghose, Tia (14 May 2013). "Mysterious Minoans Were European, DNA Finds". *LiveScience*.
+
+Hughey, Jeffery R.; Paschou, Peristera; Drineas, Petros; Mastropaolo, Donald; Lotakis, Dimitra M.; Navas, Patrick A.; Michalodimitrakis, Manolis; Stamatoyannopoulos, John A.; Stamatoyannopoulos, George (2013-05-14). "A European population in Minoan Bronze Age Crete". *Nature Communications*. 4 (1): 1861. Bibcode:2013NatCo...4.1861H. doi:10.1038/ncomms2871. ISSN 2041-1723. PMC 3674256. PMID 23673646.
+
+Lazaridis et al. 2017.
+
+"Ancient DNA analysis reveals Minoan and Mycenaean origins". *phys.org*. Retrieved 2021-07-28.
+
+Lazaridis et al. 2022, pp. 1–13, Supplementary Materials: pp. 233–241.
+
+Skourtanioti, Eirini; Ringbauer, Harald; Gnecchi Ruscone, Guido Alberto; Bianco, Raffaela Angelina; Burri, Marta; Freund, Cäcilia; Furtwängler, Anja; Gomes Martins, Nuno Filipe; Knolle, Florian; Neumann, Gunnar U.; Tiliakou, Anthi; Agelarakis, Anagnostis; Andreadaki-Vlazaki, Maria; Betancourt, Philip; Hallager, Birgitta P. (2023). "Ancient DNA reveals admixture history and endogamy in the prehistoric Aegean". *Nature Ecology & Evolution*. 7 (2): 290–303. doi:10.1038/s41559-022-01952-3. ISSN 2397-334X. PMC 9911347. PMID 36646948.
+
+Foody, M. George B.; Ditchfield, Peter W.; Edwards, Ceiridwen J. (2024). "Bioarchaeological analyses of human and faunal skeletal remains and radiocarbon dating". In Tzedakis, Yannis; Martlew, Holley; Tite, Michael (eds.). *The Late Minoan III Necropolis of Armenoi: Volume II – Biomolecular and Epigraphical Investigations*. Oxbow Books. pp. 43–45. ISBN 979-8-88857-046-3.
+Kamilari
+Koumasa
+Nea Roumata
+Odigitria
+Phourni
+Phylaki
+Stylos
+Yerokambos
+Arkalochori
+Kamares
+Psychro Cave
+Atsipades
+Karfi
+Modi
+Mount Juktas
+Petsofas
+Traostalos
+Vrysinas
+Aegina Treasure
+Akrotiri Boxer Fresco
+Hagia Triada Sarcophagus
+Horns of Consecration
+Snake goddess figurines
+La Parisienne (fresco)
+Lustral basin
+Prince of the Lilies
+Stirrup jar
+Harvester Vase
+Kamares ware
+Kouloura
+Knossos board game
+Minoan Genius
+Minoan frescoes from Tell el-Dab'a
+Malia altar stone
+Malia Pendant
+Minoan Moulds of Palaikastro
+Minoan Bull-leaper
+Papoura Hill Circular Structure
+Vasiliki ware
+Wall Paintings of Thera
+Linear A
+Linear B
+Cretan hieroglyphs
+Phaistos disc
+Arkalochori script
+Minoan seals
+Arthur Evans
+Heraklion Archaeological Museum
+Archaeological Museum of Chania
+Archaeological Museum of Sitia
+Minoan period
+Mycenean period
+Classical and Hellenistic period
+Roman period
+Cretan League
+Crete and Cyrenaica
+First Byzantine period
+Arab period
+Second Byzantine period
+Venetian period
+Revolt of Saint Titus
+Cretan War
+Siege of Candia
+Ottoman period
+1841 revolt
+Great Cretan Revolution
+1878 revolt
+1897–1898 revolt
+Cretan State
+Theriso revolt
+World War II
+Battle of Crete
+Resistance
+Timeline
+Cycladic civilization
+Minoan civilization
+Mycenaean Greece
+Greek Dark Ages
+Archaic Greece
+Classical Greece
+Hellenistic Greece
+Roman Greece
+Aegean Sea
+Aeolis
+Crete
+Cyrenaica
+Cyprus
+Doris
+Epirus
+Hellespont
+Ionia
+Ionian Sea
+Macedonia
+Magna Graecia
+Peloponnese
+Pontus
+Taurica
+Ancient Greek colonies
+Polis
+Politics
+Military
+Ancient Argos
+Classical Athens
+Byzantion
+Chalcis
+Ancient Corinth
+Ephesus
+Miletus
+Pergamon
+Eretria
+Kerkyra
+Larissa
+Megalopolis
+Thebes
+Megara
+Rhodes
+Samos
+Sparta
+Lissus (Crete)
+Bithynia
+Cappadocia
+Epirus
+Greco-Bactrian Kingdom
+Indo-Greek Kingdom
+Macedonia
+Kingdom of Pergamon
+Kingdom of Pontus
+Ptolemaic Kingdom
+Seleucid Empire
+Doric Hexapolis
+Italiote League
+Ionian League
+Peloponnesian League
+Amphictyonic League
+Acarnanian League
+Hellenic League
+Delian League
+Chalcidian League
+Boeotian League
+Aetolian League
+Second Athenian League
+Thessalian League
+Arcadian League
+Epirote League
+League of Corinth
+Euboean League
+Achaean League
+Boule
+Free city
+Koinon
+Proxeny
+Stasis
+Tagus
+Tyrant
+Agora
+Areopagus
+Ecclesia
+Graphe paranomon
+Heliaia
+Ostracism
+Ekklesia
+Ephor
+Gerousia
+Synedrion
+Koinon
+Ballista
+Athenian military
+Scythian archers
+Antigonid Macedonian army
+Ancient Macedonian army
+Ballista
+Cretan archers
+Hellenistic armies
+Hippeis
+Hoplite
+Hetairoi
+Macedonian phalanx
+Military of Mycenaean Greece
+Phalanx
+Peltast
+Pezhetairos
+Sarissa
+Sacred Band of Thebes
+Sciritae
+Seleucid army
+Spartan army
+Strategos
+Toxotai
+Xiphos
+Xyston
+List of ancient Greeks
+List of ancient Greeks
+Kings of Argos
+Archons of Athens
+Kings of Athens
+Kings of Commagene
+Diadochi
+Kings of Macedonia
+Kings of Thrace and Dacia
+Attalid kings of Pergamon
+Kings of Pontus
+Ptolemaic dynasty
+Seleucid dynasty
+Kings of Sparta
+Tyrants of Syracuse
+Astronomers
+Geographers
+Historians
+Mathematicians
+Philosophers
+Playwrights
+Poets
+Seven Sages
+Writers
+Anaxagoras
+Anaximander
+Anaximenes
+Antisthenes
+Aristotle
+Democritus
+Diogenes
+Empedocles
+Epicurus
+Gorgias
+Heraclitus
+Hypatia
+Leucippus
+Parmenides
+Plato
+Protagoras
+Pythagoras
+Socrates
+Thales
+Zeno
+Aeschylus
+Aesop
+Alcaeus
+Archilochus
+Aristophanes
+Bacchylides
+Euripides
+Herodotus
+Hesiod
+Hipponax
+Homer
+Ibycus
+Lucian
+Menander
+Mimnermus
+Panyassis
+Philocles
+Pindar
+Plutarch
+Polybius
+Sappho
+Simonides
+Sophocles
+Stesichorus
+Theognis
+Thucydides
+Timocreon
+Tyrtaeus
+Xenophon
+Athenian statesmen
+Lawgivers
+Olympic victors
+Tyrants
+Ancient Greek tribes
+Thracian Greeks
+Ancient Macedonians
+Ancient Greece
+Ancient Greece
+Ancient seafaring
+Vessels
+Balangay
+Bangka
+Beden
+Coracle
+Dhow
+Dragon boat
+Dugout canoe
+Fire ship
+Galley
+Kunlun ship
+Liburna
+Longship
+Multihull
+Navis lusoria
+Obelisk ship
+Outriggers
+Polyremes
+Raft
+Reed boat
+Sailing ship
+Solar ship
+Tomol
+Tākitimu
+Uru
+Austronesia
+Egypt
+Persia
+Rome
+Paddling
+Sailing
+Towing
+Poling
+Anchor
+Bow
+Cabin
+Deck
+Figurehead
+Hull
+Planking
+Keel
+Mast
+Oar
+Paddle
+Rope
+Rudder
+Steering oar
+Sail
+Sail components
+Stem
+Sternpost
+Strake
+Tiller
+Boat building
+Careening
+Carvel built
+Clinker built
+Dugout
+Framing
+Frame-first
+Shell-first
+Joinery
+Lashed-lug
+Mortise and tenon
+Phoenician joint
+Scarf joint
+Sewn-plank
+Shipbuilding
+Egypt
+Crab claw
+Fore-and-aft
+Lateen
+Settee
+Tanja
+Triangular sail
+Junk
+Mast-aft
+Spritsail
+Square
+Ballista
+Catapult
+Corvus
+Dolphin
+Fire ship
+Harpax
+Ram
+Sambuca
+Sarapion
+Satingpra
+Sidon
+Socotra
+Sounagoura
+Thapsus
+Trincomalee
+Tulum
+Tyndis
+Tyre
+Wadi al-Jarf
+Zanzibar
+
+History
+Prehistory
+Timeline
+Britain
+Oceania
+Remote
+Near
+Ubaid period
+Indus Valley
+
+Civilizations
+Ancient Egypt
+Old Kingdom
+Austronesia
+Philippines
+Sa Huỳnh
+Lapita
+Micronesia
+Langkasuka
+Kedah
+Champa
+Kutai
+Tarumanagara
+Kalingga
+Srivijaya
+Sunda
+Polynesia
+Minoan
+Indus Valley
+Tamilakam
+Chola
+Chera
+Pandya
+Somalia
+Dilmun
+Maya
+Nuragic
+Mycenaean
+Phoenicia
+Olmecs
+Carthage
+Greece
+Archaic
+Classical
+Rome
+Achaemenid
+Nabatea
+Aksum
+
+Migration and exploration
+Peopling of Australia
+Peopling of Micronesia
+Austronesian Expansion
+Greeks in pre-Roman Gaul
+Ocean exploration
+Phoenician maritime expansion
+Sardinia
+Circumnavigation of Africa
+Pytheas' voyage to Britain
+Roman circumnavigation of Britain
+Timeline
+
+Mariners and explorers
+Henenu
+Euthymenes
+Hanno the Navigator
+Himilco
+Sataspes
+Androsthenes of Thasos
+Archias of Pella
+Alexander the Great
+Nearchus
+Pytheas
+Megasthenes
+Xu Fu
+Hippalus
+Julius Caesar
+Eudoxus of Cyzicus
+Maes Titianus
+
+Military
+Navies
+Egyptian
+Achaemenid
+Greek
+Roman
+Battles
+Mediterranean
+Alashiya
+Nile Delta
+Salamis
+Artemisium
+Eurymedon
+Naupactus
+Olpae
+Syracuse
+Cynossema
+Arginusae
+Mytilene
+Hellespont
+Echinades
+Salamis II
+Mylae
+Cape Hermaeum
+Ecnomus
+Drepana
+Aegates
+Lake Trasimene
+Chios
+Myonessus
+Nile
+Naulochus
+Mycale
+Actium
+Tactics
+Boarding
+Grappling
+Incendiaries
+Oared vessels
+Sailing ships
+Greek navy
+Ramming
+
+By region
+China
+India
+Odisha
+Japan
+Rome
+South America
+Rafts
+
+Economy and trade
+Whaling
+Fishing
+Egypt
+Land of Punt
+Indo–Mesopotamia relations
+Meluhha
+Maritime Jade Route
+Tin
+Spice trade
+Austronesian network
+Sa Huynh-Kalanay
+Incense trade
+Maritime Silk Road
+Periplus of the Erythraean Sea
+Maya
+Greece
+Greco–Indian
+shipping
+Rome
+Indo–Roman
+
+Piracy
+History
+Mediterranean piracy
+Ameinias the Phocian
+Cilician pirates
+Jewish pirates
+Kidnapping of Julius Caesar
+Pompey's campaign against the pirates
+
+Research and education
+Scholars
+Historians
+David Blackman
+Lionel Casson
+Fik Meijer
+John Sinclair Morrison
+William L. Rodgers
+Chester G. Starr
+Archaeologists
+George Bass
+Jean-Yves Empereur
+Boris Rankov
+J. Richard Steffy
+Peter Throckmorton
+Shelley Wachsmann
+Topics and theories
+Coastal defence and fortification
+Grave goods
+Lighthouses
+Alexandria
+Marine art
+Marine navigation
+Maritime archaeology
+Naval warfare
+Maritime temples
+Temple of Isthmia
+Temple of Poseidon, Sounion
+Samothrace temple complex
+Nusantao network
+Phoenician discovery of America
+Pre-Columbian theories
+Sea Peoples
+Shipbuilding
+Shell middens
+Ship burial
+Tacking
+Thalassocracy
+Underwater archaeology
+Underwater exploration
+
+Wrecks and relics
+Earliest
+Pesse canoe
+Dufuna canoe
+Abydos boats
+Moor Sand
+Dokos shipwreck
+Khufu ship
+Dover Bronze Age Boat
+Uluburun shipwreck
+Canaanite shipwreck
+Cape Gelidonya
+Zambratija shipwreck
+Wreck of Rochelongue
+Hjortspring boat
+Austronesia
+Pontian boat
+Butuan boats
+Ancient Black Sea shipwrecks
+Sinop D
+Marsala Punic shipwreck
+Greek
+Ashkelon
+Kyrenia
+Leontophoros
+Syracusia
+Phoenician
+Gozo
+Bajo de la Campana
+Punic
+Marsala Punic shipwreck
+Roman
+Alkedo
+Arles Rhône 3
+Blackfriars I
+Caligula's Giant Ship
+De Meern ships
+Isis
+Madrague de Giens
+Nemi ships
+Marausa
+Yassi Ada
+Lists
+Oldest surviving
+Museum ships
+Surviving ancient ships
+
+Sites
+H3
+Qal'at al-Bahrain
+
+Experimental archaeology
+Ship replica
+Heyerdahl expeditions
+Kon-Tiki
+Ra and Ra II
+Austronesian replicas
+Hōkūleʻa
+Sarimanok
+Te Au o Tonga
+Hawaiʻiloa canoe
+Samudra Raksa
+Alingano Maisu
+Saina
+Balangay Voyage
+Faʻafaite
+Gaualofa
+Marumaru Atua
+Mediterranean
+Olympias
+Regina
+Phoenician Ship Expedition
+Viking ship replica
+Viking
+Vital Alsar
+Ivlia
+Abora
+Viracocha
+Tangaroa Expedition
+
+Institutes and conferences
+Advisory Council on Underwater Archaeology
+Archaeological Institute of America
+European Association of Archaeologists
+Institute of Nautical Archaeology
+International Congress of Maritime Museums
+Nautical Archaeology Society
+RPM Nautical Foundation
+Sea Research Society
+Society for American Archaeology
+
+Museums and memorials
+Boat Museum, Kolkata
+Bodrum Museum of Underwater Archaeology
+Giza Solar boat museum
+Grand Egyptian Museum
+Ancient Shipwreck Museum at Kyrenia Castle
+Museum of Ancient Seafaring
+Museum of Ancient Ships, Pisa
+National Museum of Subaquatic Archaeology
+Viking ship museums
+Oslo
+Roskilde
+
+Legend and literature
+Legend
+Ark of bulrushes
+Flood myths
+Genesis
+Gilgamesh
+Greek
+
+Literature
+Odyssey
+The Histories (Herodotus)
+On the Ocean
+Argonautica
+The Histories (Polybius)
+Metamorphoses
+Geography
+Aeneid
+
+Bronze Age
+Abashevo culture
+Aegean civilization
+Andronovo culture
+Apennine culture
+Armorican Tumulus culture
+Atlantic Bronze Age
+Bactria–Margiana Archaeological Complex
+BMAC
+Bronze Age Britain
+Bronze Age Europe
+Canegrate culture
+Catacomb culture
+Chinese Bronze Age
+Cycladic culture
+Deer stones culture
+Deverel–Rimbury culture
+Elp culture
+Ewart Park Phase
+Ezero culture
+Glazkov culture
+Argaric culture
+Hallstatt culture
+Helladic period
+Indus Valley Civilisation
+Late Jomon
+Karasuk culture
+Liaoning bronze dagger culture
+Lusatian culture
+Minoan civilization
+Mumun pottery period
+Mycenaean Greece
+Nordic Bronze Age
+Okunev culture
+Ordos culture
+Penard Period
+Samus culture
+South-Western Iberian Bronze
+Srubnaya culture
+Tagar culture
+Tarim mummies
+Terramare culture
+Trzciniec
+Tumulus culture
+Únětice culture
+Urnfield culture
+Wessex culture
+Wilburton-Wallington Phase
+
+Bronze Age (North Caucasus and Transcaucasia)
+Kurgan
+Koban
+Kura–Araxes
+Shulaveri-Shomu
+Colchian
+Trialeti
+Maykop culture
+Leyla-Tepe culture
+Jar-Burial
+Khojaly–Gadabay
+
+Authority control databases
+National Germany
+United States
+France
+BnF data
+Czech Republic
+Israel

@@ -1,0 +1,3297 @@
+<!doctype html>
+
+<html lang="en" class="topic-desktop ui-unknown0 ui-unknown">
+
+<head prefix="og: https://ogp.me/ns# fb: https://ogp.me/ns/fb#">
+
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<link rel="dns-prefetch" href="https://cdn.britannica.com/mendel-resources/3-131">
+	<link rel="preconnect" href="https://cdn.britannica.com/mendel-resources/3-131">
+
+    <link rel="preload" as="script" href="https://www.googletagservices.com/tag/js/gpt.js" />
+
+    <link rel="icon" href="/favicon.png" />
+
+    <meta name="description" content="Eridu Genesis, in Mesopotamian religious literature, ancient Sumerian epic primarily concerned with the creation of the world, the building of cities, and the flood. According to the epic, after the universe was created out of the primeval sea and the gods were born, the deities fashioned man from" />
+		<meta name="keywords" content="Eridu Genesis, encyclopedia, encyclopeadia, britannica, article" />
+
+    <link rel="canonical" href="https://www.britannica.com/topic/Eridu-Genesis" />
+    <title>Eridu Genesis | Creation Myth, Sumerian Gods & Flood Story | Britannica</title>
+		<script type="text/javascript" data-type="Init Mendel">
+
+    window.$UI = {};
+
+    window.Constants = {"LICENSE_URL": "/bps/license","DEFAULT_TEST_VERSION": "A","DEFAULT_STATE": "XX","QUIZ_URL": "/quiz","SPOTLIGHT_BROWSE_URL": "/stories/spotlight","CONTENT_TYPE_TEXT": "text/plain;charset=UTF-8","TOPIC_FACTS_DATA_URL": "/facts","QUIZ_BROWSE_IMAGE_QUIZZES": "images","TOPIC_MEDIA_PATH": "/images-videos","USER_PROFILE_URL": "/user","DEBUG_URL": "/debug","ONE_GOOD_FACT_URL": "/one-good-fact","ERROR_404_URL": "/error404","PROCON_CITED_IN_THE_NEWS_URL": "/procon/ProCon-in-the-News","PROCON_URL": "/procon","TOPIC_PAGE_CONTENT_AJAX_URL": "/topic-content/page","INFINITE_SCROLL_PREFIX_URL": "/scroll","TOPIC_TOP_QUESTION_BROWSE_URL": "/questions","CC_USD": "USD","domain": "britannica.com","SURVEY_URL": "/survey","CATEGORY_BROWSE_URL": "/browse","STORY_BROWSE_URL": "/stories","COUNTRY_US": "US","OPEN_MEDIA_OVERLAY_PARAMETER": "/media","NEWSLETTER_SUBSCRIPTION_URL": "/newsletter-subscription","MAINTENANCE_ERROR_URL": "https://maintenance.eb.com","IMARS_EDITOR_ID": "12365882","PROFILE_EB_EDITOR_URL": "/editor","WEB_INF_RESOURCES_PATH": "WEB-INF/resources","AI_ABOUT_PAGE_URL": "/about-britannica-ai","TOPIC_ADDITIONAL_INFO_PATH": "/additional-info","SUDOKU_GAME_URL": "/games/sudoku","CC_INR": "INR","ARTICLE_PRINT_URL": "/print/article","FIRST_EDITION_URL": "/subscriber/firstedition","WW1_PORTAL_URL": "/discover/World-War-I","MENDEL_COOKIE": "__mendel","DEMYSTIFIED_BROWSE_URL": "/stories/demystified","LIST_BROWSE_URL": "/list/browse","PROFILE_EXPERT_URL": "/contributor","ASSEMBLY_IMAGE_URL": "/image/assembly","DAY_IN_HISTORY_URL": "/on-this-day","DEFAULT_CURRENCY": "USD","CONTENT_TYPE_XML": "text/xml;charset=UTF-8","PORTAL_FINANCE_BROWSE_URL_PREFIX": "/money/browse","MONEY_IMARS_CATEGORY": "13000","AJAX_PREFIX_URL": "/ajax","TOPIC_BROWSE_URL": "/topic-browse","MARKETING_CONTENT": "/marketing-content","ENV_RUNTIME": "runtime","GALLERY_URL": "/gallery","topicUrlClassesList": "topic|animal|art|biography|event|place|plant|science|sports|technology|procon","CONTENT_TYPE_HTML": "text/html;charset=UTF-8","ENV_LOCAL": "override","MEDIA_OVERLAY_URL": "/media-overlay","CHATBOT_PAGE_URL": "/chatbot","NEWSLETTER_PAGE_URL": "/newsletters","ENV_DEV": "development","MEDIA_URL": "/media","TOPIC_TOP_QUESTION_URL": "/question","PORTAL_FINANCE_URL_PREFIX": "/money","PODCASTS_URL": "/podcasts","STAND_ALONE_VIDEO_URL": "/video","MORE_ON_THIS_DAY_URL": "/more-on-this-day","TOPIC_QUOTES_URL": "/quotes","SEARCH_PAGE_URL": "/search","PROCON_CLASS": "PROCON","KUSTOM_MENDEL_APPLICATION_ID": "1","TOPIC_CONTENT_AJAX_URL": "/topic-content/topic","ENV_BRANCH": "branch","ERROR_URL": "/error","MAIN_VERSION": "mainVersion","DEFAULT_S3_REGION": "US_EAST_1","TOPIC_COLLECTION_URL": "/summary","LOGINBOX_URL": "/auth/loginbox","ONE_GOOD_FACT_BROWSE_URL": "/one-good-fact/all-good-facts","QUIZ_BROWSE_URL": "/quiz/browse","BIO_BROWSE_URL": "/browse/biographies","LIST_URL": "/list","TIGHTROPE_QUIZ_URL": "/quiz/tightrope","ALPHA_BROWSE_URL": "/sitemap","CONTENT_TYPE_JSON": "application/json","DICTIONARY_URL": "/dictionary","COBRAND_IMAGE_URL": "/image/cobrand","PROCON_IN_THE_NEWS_URL": "/procon/pro-and-con-issues-in-the-news","PROCON_BROWSE_URL": "/procon","QUIZ_BROWSE_VOCAB_QUIZZES": "vocabulary-quizzes","SUBMISSION_URL": "/submission","EB_LOG_OUT": "/auth2/logout","ENV_PRODUCTION": "production","EXPLORE_PORTAL_URL": "/explore","TOPIC_AJAX_URL": "/ajax/topic","TOPIC_SUMMARY_BROWSE_URL": "/summaries","WTFACT_BROWSE_URL": "/stories/wtfact","VIDEO_CHANNEL_URL": "/videos","GALLERY_BROWSE_URL": "/gallery/browse","CACHE_URL": "/cache","PROCON_ABOUT_URL": "/procon/About-ProCon","COMPANION_BROWSE_URL": "/stories/companion","MEDIA_FOLDER": "/eb-media","SHOW_ALL_CONTRIBUTORS": "/additional-info#contributors","BRITANNICA_EDITORS_ID": "4419","ENV_CACHE_DISABLED": "mendelCache","CALCULATORS_BROWSE_URL": "/calculators","STORY_URL": "/story","DEFAULT_COUNTRY": "US","NAVBAR_URL": "/ajax/navbar","EB_LOGIN_URL": "/auth/eb-login","NEW_ARTICLES_URL": "/new-articles",};
+    window.CDN = "https://cdn.britannica.com";
+	window.CAM_SETTINGS_URL = "https://cam.britannica.com/settings";
+    window.CAM_LOGIN_URL = "https://cam.britannica.com/login";
+    window.CAM_SIGN_UP_URL = "https://cam.britannica.com/registration"
+
+    window.Mendel = {
+     	"config" : {
+      		"domain": "britannica.com",
+			"page": "Topic",
+			"videoPlayerId": "UyMCoK2v",
+			"sharedUrl": "https://www.britannica.com/topic/Eridu-Genesis",
+			"amuselabsUrl": "https://cdn3.amuselabs.com",
+	    	"resourcesPrefixUrl": "https://cdn.britannica.com/mendel-resources/3-131/[url]?v=3.131.7",
+			"date": 20241231,
+			"userInfo": { "type": "ANONYMOUS"
+			             ,"currency": "EMEA"
+			             ,"country": "ZA"
+					     ,"state": "KZN"
+						 ,"timezone": "Africa/Johannesburg"
+			             ,"bcomId": "9017974399352329723"
+				         ,"hasAds": true
+					     ,"testVersion": "A"
+						 ,"adsTestVersion": "A"
+						 ,"consumerId": ""
+						 ,"instId": ""
+						 ,"consumerUserName": ""
+						 ,"instUserName": ""
+						 ,"cognito": null
+			},
+			"tvs":{ "r":[25,25,25,25], "a": [25,25,25,25]},
+			"isLoggedInAsUser": false,
+			"isPhone": false,
+			"isDesktop": true,
+			"logoutUrl": "/auth2/logout",
+			"selfServiceUrl": "https://myaccount.britannica.com",
+			"cdnUrl": "https://cdn.britannica.com",
+			"chatbotApi": "https://www.britannica.com/chat-api",
+	        "fetchOffset": 800,
+			
+			"mendelCookieName": "__mendel",
+			"mendelCookie": {"surveyShown":false,"visitedTopicId":191407,"currentDate":20241231},
+			
+
+			"autocompleteToSearchPage": false,"topicUrl": "https://www.britannica.com/topic/Eridu-Genesis"
+        ,"freeTopicReason": "PERMANENT_FREE_TOPIC"
+        ,"topicId": 191407
+	    ,"template": "DESKTOP"
+	    ,"type": "CORE"
+		,"hasToc": false
+		,"chatbotApi": "https://www.britannica.com/chat-api"
+	    ,"showPreview": false
+        ,"infiniteScrollList": [{"p":1,"t":191407},{"p":1,"t":376928},{"p":6,"t":142144},{"p":1,"t":573176},{"p":1,"t":189673},{"p":1,"t":175484},{"p":3,"t":381267},{"p":1,"t":381192},{"p":8,"t":376937},{"p":2,"t":573229}]
+        ,"sequence": 1
+        ,"topics": {}
+		},
+        "GA": {"leg":"A","adLeg":"A","userType":"ANONYMOUS","pageType":"Topic","articleTemplateType":"SMALL","gisted":false,"pageNumber":1,"hasSummarizeButton":false,"hasAskButton":true}
+    };
+
+	</script>
+
+<meta property="fb:app_id" content="1887621861548296"/
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@britannica" />
+	<meta name="twitter:image" content="https://cdn.britannica.com/mendel-resources/3-131/images/social/eb-thistle-social-image.jpg?v=3.131.7" />
+	<meta name="twitter:description" content="Eridu Genesis, in Mesopotamian religious literature, ancient Sumerian epic primarily concerned with the creation of the world, the building of cities, and the flood. According to the epic, after the universe was created out of the primeval sea and the gods were born, the deities fashioned man from"/>
+
+	<meta property="og:type"  content="ARTICLE"/>
+	<meta property="og:title" content="Eridu Genesis | Creation Myth, Sumerian Gods & Flood Story | Britannica"/>
+	<meta property="og:description" content="Eridu Genesis, in Mesopotamian religious literature, ancient Sumerian epic primarily concerned with the creation of the world, the building of cities, and the flood. According to the epic, after the universe was created out of the primeval sea and the gods were born, the deities fashioned man from"/>
+	<meta property="og:site_name" content="Encyclopedia Britannica" />
+	<meta property="og:url" content="https://www.britannica.com/topic/Eridu-Genesis"/>
+	<meta property="og:image" content="https://cdn.britannica.com/mendel-resources/3-131/images/social/eb-thistle-social-image.jpg?v=3.131.7" />
+	<meta property="og:image:type" content="" />
+
+	<script type="text/javascript" data-type="init opengraph">
+	Mendel.openGraph = {"type":"ARTICLE","title":"Eridu Genesis | Creation Myth, Sumerian Gods & Flood Story","description":"Eridu Genesis, in Mesopotamian religious literature, ancient Sumerian epic primarily concerned with the creation of the world, the building of cities, and the flood. According to the epic, after the universe was created out of the primeval sea and the gods were born, the deities fashioned man from","imageUrl":"https://cdn.britannica.com/mendel-resources/3-131/images/social/eb-thistle-social-image.jpg?v=3.131.7","pageUrl":"https://www.britannica.com/topic/Eridu-Genesis"}</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com/" >
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link href="https://cdn.britannica.com/mendel-resources/3-131/dist/vendor-bundle.css?v=3.131.7" rel="stylesheet" />
+    <link href="https://cdn.britannica.com/mendel-resources/3-131/dist/mendel-css.css?v=3.131.7" rel="stylesheet" />
+	<link href="https://cdn.britannica.com/mendel-resources/3-131/dist/topic-page.css?v=3.131.7" rel="stylesheet" />
+
+    <script type="text/javascript">
+        
+
+        if (self !== top) { top.location = self.location; }
+
+        
+
+        // if ('scrollRestoration' in history) { history.scrollRestoration = 'manual'; }
+    </script>
+
+    <script
+        src="https://cdn.britannica.com/mendel-resources/3-131/js/at.js?v=3.131.7"
+        async
+    ></script>
+<script>
+	            dataLayer = [];
+            </script>
+		   <script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		       new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		       j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		       '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		   })(window,document,'script','dataLayer','GTM-5W6NC8');
+		   </script>
+		<script type="application/ld+json">
+    {"headline":"Eridu Genesis | Creation Myth, Sumerian Gods & Flood Story","author":[{"name":"The Editors of Encyclopaedia Britannica","url":"https://www.britannica.com/editor/The-Editors-of-Encyclopaedia-Britannica/4419","@type":"Person"}],"keywords":"Eridu Genesis","wordcount":153,"url":"https://www.britannica.com/topic/Eridu-Genesis","datePublished":"1998-07-20T00:00:00Z","description":"Eridu Genesis, in Mesopotamian religious literature, ancient Sumerian epic primarily concerned with the creation of the world, the building of cities, and the flood. According to the epic, after the universe was created out of the primeval sea and the gods were born, the deities fashioned man from","publisher":{"logo":{"url":"https://corporate.britannica.com/wp-content/themes/eb-corporate/_img/logo.png","@type":"ImageObject"},"name":"Encyclopedia Britannica","@type":"Organization"},"@context":"https://schema.org","@type":"article"}
+</script></head>
+
+<body data-leg="A" class="new-topic topic-desktop first-page-true user-ANONYMOUS user-ads  md-desktop   leg-a">
+
+    <!--- assertive yield --->
+<script>Mendel.config.adProvider='ay';</script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/15510053/CMP_1x1', [1, 1], 'div-gpt-ad-1709766812090-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<script async defer src="https://launchpad-wrapper.privacymanager.io/0ccc6fe8-1870-4ad8-b47b-6d029ac116fc/launchpad-liveramp.js"></script>
+<script
+    async
+    src="https://JRyhoywLYXNLYMAhs.ay.delivery/manager/JRyhoywLYXNLYMAhs" type="text/javascript" referrerpolicy="no-referrer-when-downgrade"
+></script>
+
+
+
+
+
+
+
+<script  id="json-navbar-info"  type="application/json">
+{"topSectionLinks":[{"title":"Ask the Chatbot","url":"/chatbot","navbarId":"CHATBOT"},{"title":"Games & Quizzes","url":"/quiz/browse","navbarId":"QUIZZES"},{"title":"History & Society","url":"/History-Society","navbarId":"HISTORY"},{"title":"Science & Tech","url":"/Science-Tech","navbarId":"SCIENCE"},{"title":"Biographies","url":"/Biographies","navbarId":"BIOS"},{"title":"Animals & Nature","url":"/Animals-Nature","navbarId":"ANIMALS"},{"title":"Geography & Travel","url":"/Geography-Travel","navbarId":"GEOGRAPHY"},{"title":"Arts & Culture","url":"/Arts-Culture","selected":true,"navbarId":"ART"},{"title":"ProCon","url":"/procon","navbarId":"PROCON"},{"title":"Money","url":"/money","navbarId":"MONEY"},{"title":"Videos","url":"/videos","navbarId":"VIDEOS"}],"selectedSuperCategory":{"id":2,"title":"Arts & Culture","url":"Arts-Culture","description":"Explore arts and culture; entertainment and pop culture, actors, comics, dance, film, food, music, theatre, tv; visual arts, architecture, fashion, painting, photography, sculpture; literature, fiction, nonfiction, plays, poetry, short story; sports and recreation","keywords":"entertainment and pop culture, actors, comics, dance, film, food, music, theatre, tv; visual arts, architecture, fashion, painting, photography, sculpture; literature, fiction, nonfiction, plays, poetry, short story; sports and recreation","classId":"ART","sortOrder":6},"selectedNavbarLink":{"title":"Arts & Culture","url":"/Arts-Culture","selected":true,"navbarId":"ART"}}
+</script>
+
+
+
+
+
+
+
+
+
+<script  id="json-hamburger-menu"  type="application/json">
+{"britannicaMenu1":[{"title":"Home","url":"/"},{"title":"History & Society","url":"/History-Society"},{"title":"Science & Tech","url":"/Science-Tech"},{"title":"Biographies","url":"/Biographies"},{"title":"Animals & Nature","url":"/Animals-Nature"},{"title":"Geography & Travel","url":"/Geography-Travel"},{"title":"Arts & Culture","url":"/Arts-Culture"},{"title":"ProCon","url":"/procon"},{"title":"Money","url":"/money"}],"britannicaMenu2":[{"title":"Games & Quizzes","url":"/quiz/browse"},{"title":"Videos","url":"/videos"},{"title":"On This Day","url":"/on-this-day"},{"title":"One Good Fact","url":"/one-good-fact"},{"title":"Dictionary","url":"/dictionary"},{"title":"New Articles","url":"/new-articles"}],"browseByCategory":[{"title":{"id":5,"title":"History & Society","url":"/History-Society"},"links":[{"title":"Lifestyles & Social Issues","url":"/browse/Lifestyles-Social-Issues"},{"title":"Philosophy & Religion","url":"/browse/Philosophy-Religion"},{"title":"Politics, Law & Government","url":"/browse/Politics-Law-Government"},{"title":"World History","url":"/browse/World-History"}]},{"title":{"id":6,"title":"Science & Tech","url":"/Science-Tech"},"links":[{"title":"Health & Medicine","url":"/browse/Health-Medicine"},{"title":"Science","url":"/browse/Science"},{"title":"Technology","url":"/browse/Technology"}]},{"title":{"id":3,"title":"Biographies","url":"/Biographies"},"links":[{"title":"Browse Biographies","url":"/browse/biographies"}]},{"title":{"id":1,"title":"Animals & Nature","url":"/Animals-Nature"},"links":[{"title":"Birds, Reptiles & Other Vertebrates","url":"/browse/Birds-Reptiles-Vertebrates"},{"title":"Bugs, Mollusks & Other Invertebrates","url":"/browse/Bugs-Mollusks-Invertebrates"},{"title":"Environment","url":"/browse/Environment"},{"title":"Fossils & Geologic Time","url":"/browse/Fossil-Geologic-Time"},{"title":"Mammals","url":"/browse/Mammals"},{"title":"Plants","url":"/browse/Plants"}]},{"title":{"id":4,"title":"Geography & Travel","url":"/Geography-Travel"},"links":[{"title":"Geography & Travel","url":"/browse/Geography-Travel"}]},{"title":{"id":2,"title":"Arts & Culture","url":"/Arts-Culture"},"links":[{"title":"Entertainment & Pop Culture","url":"/browse/Entertainment-Pop-Culture"},{"title":"Literature","url":"/browse/Literature"},{"title":"Sports & Recreation","url":"/browse/Sports-Recreation"},{"title":"Visual Arts","url":"/browse/Visual-Arts"}]}],"browseByFeature":[{"title":"Companions","url":"/stories/companion"},{"title":"Demystified","url":"/stories/demystified"},{"title":"Image Galleries","url":"/gallery/browse"},{"title":"Lists","url":"/list/browse"},{"title":"Podcasts","url":"/podcasts"},{"title":"Spotlight","url":"/stories/spotlight"},{"title":"Summaries","url":"/summary"},{"title":"The Forum","url":"/stories/the-forum"},{"title":"Top Questions","url":"/question"},{"title":"#WTFact","url":"/stories/wtfact"}],"moreFromBritannica":[{"title":"Britannica Kids","url":"https://kids.britannica.com/","newTab":true}],"menuType":"DEFAULT"}
+</script>
+
+<header id="header" class="bg-navy-dark">
+    <div class="global-nav-top-bar">
+        <div class="grid gx-0 h-100 justify-content-between align-items-center container-lg mx-auto p-0 position-relative">
+            <div class="d-flex align-items-center">
+                <button class="d-flex align-items-center justify-self-start js-toggle js-toggle-hamburger btn btn-link link-white btn-sm rounded-0 p-10">
+                    <div class="hamburger-tooltip">
+                        <em class="material-icons d-inline-block font-24" id="nav-toggle" data-icon="menu"></em>
+                    </div>
+                    <em
+                            
+                                    class="material-icons d-inline-block font-24 global-nav-search-icon"
+                                
+                            id="nav-search-icon"
+                            data-icon="search"
+                    ></em>
+                    </button>
+                <a href="/" class="d-flex align-items-center justify-content-center ml-10">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img loading="lazy" src="https://cdn.britannica.com/mendel/eb-logo/MendelNewThistleLogo.png" alt="Encyclopedia Britannica" class="global-nav-logo global-nav-logo-left"  />
+</a>
+                    <div class="global-nav-top-search-bar global-nav-top-search-container global-nav-search-container"
+                     id="global-nav-top-search-bar">
+                    <form method="get" action="/search" id="global-nav-search" class="md-search-form m-0 global-nav-search-bar-small">
+    <div class="search-box position-relative col-100">
+        <label class="sr-only" for="global-nav-search-query">Search Britannica</label>
+        <input name="query" id="global-nav-search-query" placeholder="Search Britannica..." class="form-control form-control-lg rounded-lg font-16 search-query pl-20 pr-70 shadow-sm"  maxlength="200" autocomplete="off"  aria-label="Search Britannica" />
+        <button class="search-reset-btn btn btn-link px-10 position-absolute top-0 h-100 d-none" type="reset">
+            <em class="material-icons" data-icon="close"></em>
+        </button>
+        <button class="search-submit btn btn-link text-blue px-10 position-absolute top-0 right-0 h-100" type="submit" disabled>
+            <span class="sr-only">Click here to search</span>
+            <em class="material-icons search-icon" data-icon="search"></em>
+        </button>
+        </div>
+</form>
+</div>
+            </div>
+
+            <a href="/" class="d-flex align-items-center justify-content-center">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img loading="lazy" src="https://cdn.britannica.com/mendel/eb-logo/MendelNewThistleLogo.png" alt="Encyclopedia Britannica" class="global-nav-center global-nav-logo non-homepage-logo"  />
+</a>
+                    <form method="get" action="/search" id="global-nav-search" class="md-search-form m-0 global-nav-search-bar-small global-nav-center search global-nav-center-search-container">
+    <div class="search-box position-relative col-100">
+        <label class="sr-only" for="global-nav-search-query">Search Britannica</label>
+        <input name="query" id="global-nav-search-query" placeholder="Search Britannica..." class="form-control form-control-lg rounded-lg font-16 search-query pl-20 pr-70 shadow-sm"  maxlength="200" autocomplete="off"  aria-label="Search Britannica" />
+        <button class="search-reset-btn btn btn-link px-10 position-absolute top-0 h-100 d-none" type="reset">
+            <em class="material-icons" data-icon="close"></em>
+        </button>
+        <button class="search-submit btn btn-link text-blue px-10 position-absolute top-0 right-0 h-100" type="submit" disabled>
+            <span class="sr-only">Click here to search</span>
+            <em class="material-icons search-icon" data-icon="search"></em>
+        </button>
+        </div>
+</form>
+<div class="col-35 col-sm-auto text-right order-3 mr-lg-15 align-items-center d-flex justify-content-end">
+                <div class="d-none d-md-inline-block">
+                            <SPAN class="marketing-HEADER_SUBSCRIPTION_DESKTOP2 marketing-content" data-marketing-id="HEADER_SUBSCRIPTION_DESKTOP2"><a href="https://premium.britannica.com/premium-membership/?utm_source=premium&utm_medium=global-nav&utm_campaign=evergreen-cap" class="subscribe-link btn btn-sm btn-orange py-5 mr-10" target="_blank" rel="noopener">
+   SUBSCRIBE
+</a></SPAN></div>
+                        <div class="d-inline-block d-md-none mr-5 mr-sm-10">
+                            <SPAN class="marketing-HEADER_SUBSCRIPTION_MOBILE marketing-content" data-marketing-id="HEADER_SUBSCRIPTION_MOBILE"><a href="https://premium.britannica.com/premium-membership/?utm_source=premium&utm_medium=global-nav-mobile&utm_campaign=evergreen" class="subscribe-link btn btn-xs btn-orange p-5" target="_blank" rel="noopener">
+   SUBSCRIBE
+</a></SPAN></div>
+                        <button class="js-toggle-user-dropdown js-toggle btn btn-sm btn-link link-white rounded-0 px-md-15 pl-5 pr-5">
+                            <span class="d-none d-md-inline-block mr-5">Login</span>
+                            <em class="material-icons d-inline-block d-md-none font-16 font-sm-20" data-icon="account_circle"></em>
+                            <div class="d-none dropdown-menu-subscription-link">https://premium.britannica.com/premium-membership/?utm_source=premium&utm_medium=nav-login-box&utm_campaign=evergreen</div>
+                            <em class="material-icons inactive-icon d-inline-block font-18" data-icon="keyboard_arrow_down"></em>
+	<em class="material-icons active-icon d-inline-block font-18" data-icon="keyboard_arrow_up"></em>
+	</button>
+                    </div>
+        </div>
+    </div>
+
+    <div class="d-none hamburger-menu-subscription-link"><DIV class="marketing-HAMBURGER_MENU_CTA marketing-content" data-marketing-id="HAMBURGER_MENU_CTA"><a href="https://premium.britannica.com/premium-membership/?utm_source=premium&utm_medium=hamburger-menu&utm_campaign=evergreen" class="subscribe-link btn btn-sm btn-orange py-5" target="_blank">
+  Subscribe <span class="d-none d-md-inline">&nbsp;Now</span>
+</a></DIV></div>
+    <div id="global-nav-react">
+        <div class="d-none">
+             <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/History-Society">History & Society</a></li>
+    <li><a href="/Science-Tech">Science & Tech</a></li>
+    <li><a href="/Biographies">Biographies</a></li>
+    <li><a href="/Animals-Nature">Animals & Nature</a></li>
+    <li><a href="/Geography-Travel">Geography & Travel</a></li>
+    <li><a href="/Arts-Culture">Arts & Culture</a></li>
+    <li><a href="/procon">ProCon</a></li>
+    <li><a href="/money">Money</a></li>
+    </ul>
+
+<ul>
+    <li><a href="/quiz/browse">Games & Quizzes</a></li>
+    <li><a href="/videos">Videos</a></li>
+    <li><a href="/on-this-day">On This Day</a></li>
+    <li><a href="/one-good-fact">One Good Fact</a></li>
+    <li><a href="/dictionary">Dictionary</a></li>
+    <li><a href="/new-articles">New Articles</a></li>
+    </ul>
+
+
+<a href="/History-Society">History & Society</a>
+    <ul>
+        <li><a href="/browse/Lifestyles-Social-Issues">Lifestyles & Social Issues</a></li>
+        <li><a href="/browse/Philosophy-Religion">Philosophy & Religion</a></li>
+        <li><a href="/browse/Politics-Law-Government">Politics, Law & Government</a></li>
+        <li><a href="/browse/World-History">World History</a></li>
+        </ul>
+<a href="/Science-Tech">Science & Tech</a>
+    <ul>
+        <li><a href="/browse/Health-Medicine">Health & Medicine</a></li>
+        <li><a href="/browse/Science">Science</a></li>
+        <li><a href="/browse/Technology">Technology</a></li>
+        </ul>
+<a href="/Biographies">Biographies</a>
+    <ul>
+        <li><a href="/browse/biographies">Browse Biographies</a></li>
+        </ul>
+<a href="/Animals-Nature">Animals & Nature</a>
+    <ul>
+        <li><a href="/browse/Birds-Reptiles-Vertebrates">Birds, Reptiles & Other Vertebrates</a></li>
+        <li><a href="/browse/Bugs-Mollusks-Invertebrates">Bugs, Mollusks & Other Invertebrates</a></li>
+        <li><a href="/browse/Environment">Environment</a></li>
+        <li><a href="/browse/Fossil-Geologic-Time">Fossils & Geologic Time</a></li>
+        <li><a href="/browse/Mammals">Mammals</a></li>
+        <li><a href="/browse/Plants">Plants</a></li>
+        </ul>
+<a href="/Geography-Travel">Geography & Travel</a>
+    <ul>
+        <li><a href="/browse/Geography-Travel">Geography & Travel</a></li>
+        </ul>
+<a href="/Arts-Culture">Arts & Culture</a>
+    <ul>
+        <li><a href="/browse/Entertainment-Pop-Culture">Entertainment & Pop Culture</a></li>
+        <li><a href="/browse/Literature">Literature</a></li>
+        <li><a href="/browse/Sports-Recreation">Sports & Recreation</a></li>
+        <li><a href="/browse/Visual-Arts">Visual Arts</a></li>
+        </ul>
+<ul>
+    <li><a href="/stories/companion">Companions</a></li>
+    <li><a href="/stories/demystified">Demystified</a></li>
+    <li><a href="/gallery/browse">Image Galleries</a></li>
+    <li><a href="/list/browse">Lists</a></li>
+    <li><a href="/podcasts">Podcasts</a></li>
+    <li><a href="/stories/spotlight">Spotlight</a></li>
+    <li><a href="/summary">Summaries</a></li>
+    <li><a href="/stories/the-forum">The Forum</a></li>
+    <li><a href="/question">Top Questions</a></li>
+    <li><a href="/stories/wtfact">#WTFact</a></li>
+    </ul>
+
+<ul>
+    <li><a href="https://kids.britannica.com/">Britannica Kids</a></li>
+    </ul>
+</div>
+    </div>
+</header>
+<div class="bg-navy-dark">
+        <div class="container-lg p-0 d-flex justify-content-center global-nav-categories-bar overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="slider js-slider position-relative d-inline-flex align-items-center mw-100 global-nav-slider category-snap-slider">
+    <div class="slider-container js-slider-container overflow-hidden d-flex font-14 overflow-hidden text-nowrap mx-5">
+        
+    <a class="nav-bar-category mx-5 category-link-CHATBOT " href="/chatbot">Ask the Chatbot</a>
+		<a class="nav-bar-category mx-5 category-link-QUIZZES " href="/quiz/browse">Games & Quizzes</a>
+		<a class="nav-bar-category mx-5 category-link-HISTORY " href="/History-Society">History & Society</a>
+		<a class="nav-bar-category mx-5 category-link-SCIENCE " href="/Science-Tech">Science & Tech</a>
+		<a class="nav-bar-category mx-5 category-link-BIOS " href="/Biographies">Biographies</a>
+		<a class="nav-bar-category mx-5 category-link-ANIMALS " href="/Animals-Nature">Animals & Nature</a>
+		<a class="nav-bar-category mx-5 category-link-GEOGRAPHY " href="/Geography-Travel">Geography & Travel</a>
+		<a class="nav-bar-category mx-5 category-link-ART selected selected" href="/Arts-Culture">Arts & Culture</a>
+		<a class="nav-bar-category mx-5 category-link-PROCON " href="/procon">ProCon</a>
+		<a class="nav-bar-category mx-5 category-link-MONEY " href="/money">Money</a>
+		<a class="nav-bar-category mx-5 category-link-VIDEOS " href="/videos">Videos</a>
+		
+
+    </div>
+
+    
+
+    
+
+    
+
+    <button disabled class="prev-button js-prev-button position-absolute btn btn-circle shadow  btn-blue " aria-label="Previous">
+        <span class="material-icons md-24" data-icon="keyboard_arrow_left"></span>
+    </button>
+    <button disabled class="next-button js-next-button position-absolute btn btn-circle shadow  btn-blue " aria-label="Next">
+        <span class="material-icons md-24" data-icon="keyboard_arrow_right"></span>
+    </button>
+</div>
+
+</div>
+    </div>
+<main>
+
+	    <div class="md-page-wrapper">
+
+	        <div id="content" class="md-content">
+
+		        <div class="md-article-container template-desktop">
+			<div class="infinite-scroll-container article last">
+	        <article class="article-content container-lg qa-content px-0 pt-0 pb-40 py-lg-20 content " data-topic-id="191407">
+            <div class="grid gx-0">
+
+	            <div class="col-auto">
+	                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="topic-left-rail md-article-drawer position-relative d-flex border-right-sm border-left-sm open">
+    <div class="drawer d-flex flex-column open">
+        
+    <div class="left-rail-section-content">
+        
+
+        <div class="topic-left-rail-header text-truncate bg-gray-50 position-relative text-right d-flex align-items-center">
+            
+            <div class="tlr-title px-20 py-15 text-left">
+                <em class="material-icons text-gray-400 d-lg-none" data-icon="toc"></em>
+	
+                <a class="font-serif font-weight-bold text-black link-blue" href="https://www.britannica.com/topic/Eridu-Genesis">Eridu Genesis</a>
+		
+            </div>
+            
+
+            <button
+                aria-label="Close"
+                class="js-sections-close-button btn-link btn-sm btn d-lg-none position-absolute top-0 p-10 right-0"
+            >
+                <em class="material-icons font-26" data-icon="close"></em>
+	
+            </button>
+        </div>
+
+        
+
+        <div class="section-content pl-10 pr-20 pl-sm-50 pr-sm-60 pl-lg-5 pr-lg-10 pt-10 pt-lg-0 bg-gray-50 clear-catfish-ad">
+            <div class="toc mb-20">
+                
+                <div class="font-serif font-14 font-weight-bold mx-15 mb-15 mt-20">
+                    Table of Contents
+                </div>
+                
+
+                
+                    
+                    
+                        <span class="toc-extra-link selected link-gray-900 mt-15">
+                            Introduction
+                        </span>
+                    
+                    
+                
+
+                
+
+                
+                <a class="toc-extra-link link-gray-900" href="https://www.britannica.com/topic/Eridu-Genesis/additional-info">References &amp; Edit History</a>
+		
+                
+
+                
+                <a class="toc-extra-link link-gray-900" href="/facts/Eridu-Genesis">Related Topics</a>
+		
+                
+            </div>
+
+            
+
+            
+
+            
+
+            
+
+            
+                <div class="mb-30 tlr-read-next">
+                    <div class="text-gray-900 p-5 font-serif font-14 font-weight-bold mx-10 mb-10">
+                        Read Next
+                    </div>
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="/story/which-religion-is-the-oldest">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/91/223091-131-A986B08A/relief-Zoroastrian-god-Ahura-Mazda-Persepolis-Iran.jpg?w=200&h=200&c=crop" alt="Ahura Mazda - relief of the Zoroastrian god Ahura Mazda at the ancient ruins of Persepolis in Iran. Also known as Ormazd Zoroastrianism,"  width="200" height="200" />
+    
+
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="/story/which-religion-is-the-oldest" >Which Religion Is the Oldest?</a>
+		
+	</div>
+	
+</div>
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="/story/what-is-the-most-widely-practiced-religion-in-the-world">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/89/216789-131-9AE01BAA/Candles-burning-church-table.jpg?w=200&h=200&c=crop" alt="Candles Burning On Table In Church"  width="200" height="200" />
+    
+
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="/story/what-is-the-most-widely-practiced-religion-in-the-world" >What Is the Most Widely Practiced Religion in the World?</a>
+		
+	</div>
+	
+</div>
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="/story/why-do-people-say-amen-at-the-end-of-a-prayer">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/23/215723-131-70405678/man-praying-church-stained-glass.jpg?w=200&h=200&c=crop" alt="African American man praying in church with stained glass in background"  width="200" height="200" />
+    
+
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="/story/why-do-people-say-amen-at-the-end-of-a-prayer" >Why Do People Say “Amen” at the End of a Prayer?</a>
+		
+	</div>
+	
+</div>
+
+                    
+                </div>
+            
+
+            
+
+            
+                <div class="mb-30 tlr-discover">
+                    <div class="text-gray-900 p-5 font-serif font-14 font-weight-bold mx-10 mb-10">
+                        Discover
+                    </div>
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="/list/6-of-the-worlds-deadliest-natural-disasters">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/16/234616-131-50959175/Damage-Balakot-Pakistan-due-to-earthquake-October-8-2005-Kashmir.jpg?w=200&h=200&c=crop" alt="In this aerial photo, structures are damaged and destroyed October 15, 2005 in Balakot, Pakistan. It is estimated that 90% of the city of Balakot was leveled by the earthquake. The death toll in the 7.6 magnitude earthquake that struck northern Pakistan on October 8, 2005 is believed to be 38,000 with at least 1,300 more dead in Indian Kashmir. SEE CONTENT NOTES."  width="200" height="200" />
+    
+
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="/list/6-of-the-worlds-deadliest-natural-disasters" >6 of the World’s Deadliest Natural Disasters</a>
+		
+	</div>
+	
+</div>
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="/list/secret-service-code-names-of-11-us-presidents">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/45/189145-131-45FF672E/Secret-Service-Agent-Earpiece.jpg?w=200&h=200&c=crop" alt="Secret Service Agent Listens To Earpiece"  width="200" height="200" />
+    
+
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="/list/secret-service-code-names-of-11-us-presidents" >Secret Service Code Names of 11 U.S. Presidents</a>
+		
+	</div>
+	
+</div>
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="/list/the-10-greatest-basketball-players-of-all-time">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/31/142331-131-EE300AF6/basketball-Orange-background-lighting-Homepage-entertainment-history-2010.jpg?w=200&h=200&c=crop" alt="Orange basketball on black background and with low key lighting. Homepage 2010, arts and entertainment, history and society"  width="200" height="200" />
+    
+
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="/list/the-10-greatest-basketball-players-of-all-time" >The 10 Greatest Basketball Players of All Time</a>
+		
+	</div>
+	
+</div>
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="/story/hanukkah-the-festival-of-lights">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/23/186923-131-292DE667/Image-Hanukkah-jewish-menorah-candles-donuts-chalkboard.jpg?w=200&h=200&c=crop" alt="Image of jewish holiday Hanukkah with drawing menorah candles (traditional Candelabra), donuts and dreidels (spinning top) over chalkboard background. Chanukah."  width="200" height="200" />
+    
+
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="/story/hanukkah-the-festival-of-lights" >Hanukkah, the Festival of Lights</a>
+		
+	</div>
+	
+</div>
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="/list/canada-10-claims-to-fame">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/40/150940-131-3236A59E/Bow-River-Alberta-Canada-Banff-National-Park.jpg?w=200&h=200&c=crop" alt="Banff National Park. Aerial view of Lake Louise in Banff National Park, Alberta, Canada. Aerial perspective."  width="200" height="200" />
+    
+
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="/list/canada-10-claims-to-fame" >Canada: 10 Claims to Fame</a>
+		
+	</div>
+	
+</div>
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="/list/new-seven-wonders-of-the-world">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/36/162636-131-E4AA93A0/Colosseum-Rome-Italy.jpg?w=200&h=200&c=crop" alt="The Colosseum, Rome, Italy.  Giant amphitheatre built in Rome under the Flavian emperors. (ancient architecture; architectural ruins)"  width="200" height="200" />
+    
+
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="/list/new-seven-wonders-of-the-world" >New Seven Wonders of the World</a>
+		
+	</div>
+	
+</div>
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="/story/which-is-correct-hanukkah-or-chanukah">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/51/195651-131-E5D1874C/Hanukkah-families-Jewish.jpg?w=200&h=200&c=crop" alt="Four year old boy with grandfather and father lighting Hanukkah menorah. Photo taken on: December 21st, 2009"  width="200" height="200" />
+    
+
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="/story/which-is-correct-hanukkah-or-chanukah" >Which Is Correct: Hanukkah or Chanukah?</a>
+		
+	</div>
+	
+</div>
+
+                    
+                </div>
+            
+
+        </div>
+
+    </div>
+
+
+    </div>
+    <button class="drawerToggle btn position-sticky border btn-xs btn-white btn-circle rounded-sm d-none d-lg-flex " type="button" aria-label="Toggle Drawer">
+        <em class="material-icons font-18 text-blue" data-icon="keyboard_arrow_left"></em>
+	
+    </button>
+</div>
+
+</div>
+
+                <div class="col">
+                    <div class="h-100 ml-0  pr-lg-0 ">
+                        <div class="h-100 grid gx-0 gx-lg-20">
+                            <div class="h-100 col-sm">
+                                <div class="h-100 infinite-pagination-container d-flex flex-column position-relative">
+                                    <div class="position-absolute top-0 h-100 w-100">
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="toc-sticky-header d-none d-lg-none bg-gray-50 px-10 px-sm-30 position-sticky w-100 ">
+	<div class="toc-sticky-header-inner-container align-items-center d-flex mx-auto h-100 w-100">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+		
+			<button class="d-flex d-lg-none btn btn-sm btn-white text-blue border-2 border-gray-100 gtm-mobile-toc-header-button js-sections-button d-lg-none p-10">
+				<em class="material-icons my-n5 md-icon" data-icon="toc"></em>
+	
+				Contents
+			</button>
+    
+    
+
+
+		<div class="header-ai-ask-button-placeholder"></div>
+		<div class="header-ai-summarize-button-placeholder"></div>
+	</div>
+</div>
+</div>
+
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+
+
+<div class="grey-box w-100 grey-box-top
+			grey-box-bottom">
+	<div class="grey-box-content mx-auto w-100">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+			
+			
+
+			
+				<script type="application/ld+json">
+				{
+					"@context" : "https://schema.org",
+					"@type" : "BreadcrumbList",
+					"itemListElement" :
+					[
+						
+					
+					{
+					"@type" : "ListItem",
+					"position" : 1,
+					"item" :
+					{
+					"@id" : "https://www.britannica.com/browse/Literature",
+					"name": "Literature"
+					}
+					}
+				
+					,
+					{
+					"@type" : "ListItem",
+					"position" : 2,
+					"item" :
+					{
+					"@id" : "https://www.britannica.com/browse/Folk-Literature-Fable",
+					"name": "Folk Literature &amp; Fable"
+					}
+					}
+				
+					]
+				}
+				</script>
+			
+
+			<nav class="breadcrumb mt-20">
+				
+				
+					<span class="breadcrumb-item ">
+						
+							
+							
+								<a class="link-gray-600" href="/browse/Literature">Literature</a>
+		
+							
+						
+					</span>
+				
+					<span class="breadcrumb-item ">
+						
+							
+							
+								<a class="link-gray-600" href="/browse/Folk-Literature-Fable">Folk Literature &amp; Fable</a>
+		
+							
+						
+					</span>
+				
+			</nav>
+		
+		
+
+<div class="page2ref-true topic-content topic-type-REGULAR"  data-student-article="false">
+
+        
+
+
+
+
+
+
+
+<script   class="page-description-json" type="application/json">
+{
+	"url": "/topic/Eridu-Genesis",
+    "shareUrl": "https://www.britannica.com/topic/Eridu-Genesis",
+    "browserTitle": "Eridu Genesis | Creation Myth, Sumerian Gods & Flood Story",
+    "firstTopicPage": true,
+    "topicId":191407
+    }
+</script>
+
+<div class="reading-channel">
+
+            <div class="topic-header">
+
+	<div class="d-flex align-items-top justify-content-between">
+
+		<div class="d-flex flex-column">
+			<div>
+
+				<div>
+					<h1>Eridu Genesis</h1></div>
+
+				</div>
+
+			<div class="topic-identifier font-16 font-md-20">Mesopotamian epic</div>
+			</div>
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+	<div class="d-none d-sm-flex flex-row">
+			<div class="mr-10 mb-15">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<button class="ai-ask-button btn border-2 btn-sm js-inline-ai-ask-button btn-outline-red-400 border-red-400">
+	Ask the Chatbot a Question
+</button>
+
+</div>
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="d-block md-topic-tools qa-action-buttons mb-15" data-topic-id="191407">
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+
+
+
+
+
+
+
+    
+    
+        <button class="js-tooltip btn btn-sm btn-outline-blue border pr-10 border-2 text-nowrap" >
+            <em class="material-icons md-icon ml-n10 my-n5 mr-5" data-icon="more_vert"></em>
+	
+    
+            More Actions
+        </button>
+    
+
+
+
+        <div class="md-more-popover popover popover-sm p-0 font-14 z-1">
+
+            
+
+            
+                <div>
+                    
+                        
+                        
+                            <a 
+                                class="js-modal btn btn-sm btn-link gtm-topic-tool font-weight-bold btn-link" 
+                                href="/print/article/191407" 
+                                target="_blank"
+                            >
+                                <em class="material-icons mr-5 ml-n10 my-n5 md-icon" data-icon="print"></em>
+	
+                                Print
+                            </a>
+                        
+                    
+                </div>
+            
+
+            
+
+            
+                <div>
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button class="js-modal qa-cite-modal-button btn btn-sm btn-link gtm-topic-tool font-weight-bold btn-link" data-modal="[data-topic-id=191407]  .md-cite-modal">
+			
+				<em class="material-icons mr-5 ml-n10 my-n5 md-icon" data-icon="verified"></em>
+	
+			
+			Cite
+		</button>
+    
+    
+
+
+<div class="md-cite-modal size-lg d-none">
+	<div class="md-modal-body">
+		<div class="h2 font-serif d-flex align-items-center pb-15 border-bottom mb-15">
+			<em class="material-icons text-blue mr-10">verified</em>Cite
+		</div>
+		<div class="font-serif">
+			While every effort has been made to follow citation style rules, there may be some discrepancies.
+			Please refer to the appropriate style manual or other sources if you have any questions.
+		</div>
+		<div class="label mt-20 mb-10">Select Citation Style</div>
+		<select class="js-citation-format-select form-select">
+			<option selected value="mla">MLA</option>
+			<option value="apa">APA</option>
+			<option value="chicago">Chicago Manual of Style</option>
+		</select>
+		
+		<div
+			class="citation font-serif border rounded p-15 mt-20"
+			data-authors="The Editors of Encyclopaedia Britannica"
+			data-title="Eridu Genesis"
+			data-published-date="15 May. 2020"
+			data-url="https://www.britannica.com/topic/Eridu-Genesis"
+		>
+			<div class="citation-text"></div>
+		</div>
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+    
+
+
+
+
+
+
+
+    
+    
+        <button class="js-copy-citation-button mt-20 btn btn-xs btn-outline-blue border shadow-sm pr-10" >
+            <em class="material-icons md-icon ml-n10 my-n5 mr-5" data-icon="file_copy"></em>
+	
+    
+			<span class="js-citation-status-text">Copy Citation</span>
+        </button>
+    
+
+
+	</div>
+</div>
+
+                </div>
+            
+
+            
+
+            
+                <div>
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button class="js-share-modal-button js-modal btn btn-sm btn-link gtm-topic-tool font-weight-bold btn-link" data-modal="[data-topic-id=191407] .md-share-modal">
+            
+                <em class="material-icons mr-5 ml-n10 my-n5 md-icon" data-icon="share"></em>
+	
+            
+            Share
+        </button>
+    
+    
+
+
+<div class="md-share-modal size-lg d-none qa-share-modal">
+    <div class="md-modal-body">
+        <div class="h2 font-serif d-flex align-items-center pb-15 border-bottom">
+            <em class="material-icons text-blue mr-10" data-icon="share"></em>
+	
+            Share
+        </div>
+        <div class="label my-20">Share to social media</div>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+    
+
+
+
+    
+        
+    
+    
+    
+
+
+
+
+
+
+<div class="md-social-toolbar-circle d-flex align-items-start inverted"
+     data-value="share"
+     title="Eridu Genesis"
+     data-url="https://www.britannica.com/topic/Eridu-Genesis"
+>
+    
+    
+        <a class="social-icon facebook justify-content-center d-flex align-items-center align-self-center" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" target="_blank" rel="noopener"><span>Facebook</span></a>
+    
+    
+        <a class="social-icon x justify-content-center d-flex align-items-center align-self-center" data-provider="x" href="https://x.com/britannica" target="_blank" rel="noopener"><span>X</span></a>
+    
+    
+    
+    
+    
+    
+</div>
+
+
+
+        <div class="label pt-20 mt-20 mb-5 border-top">URL</div>
+        <a class="font-serif text-truncate d-inline-block" href="https://www.britannica.com/topic/Eridu-Genesis">https://www.britannica.com/topic/Eridu-Genesis</a>
+    </div>
+</div>
+
+                </div>
+            
+
+            
+
+            
+                <div>
+                    <button
+                        class="js-feedback-modal-button js-modal btn btn-sm btn-link gtm-topic-tool font-weight-bold btn-link"
+                        data-modal=".md-feedback-modal">
+                        <em class="material-icons mr-5 ml-n10 my-n5 md-icon" data-icon="message"></em>
+	
+                        Feedback
+                    </button>
+                </div>
+            
+            
+                <div>
+                    <button class="qa-external-website-modal-button js-modal btn btn-sm btn-link gtm-topic-tool font-weight-bold btn-link" data-modal="[data-topic-id=191407] .md-websites-modal">
+                        <em class="material-icons md-icon ml-n10 mr-5" data-icon="link"></em>
+	
+                        External Websites
+                    </button>
+                </div>
+            
+        </div>
+
+        <div class="md-feedback-modal size-lg d-none">
+	<div class="md-modal-body">
+		<div class="h2 font-serif pb-15 border-bottom">
+			Feedback
+		</div>
+
+		<form method="post" action="/submission/feedback/191407">
+
+			<div class="my-20">
+				Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+			</div>
+
+			<div class="type-menu">
+				<label for="feedback-type" class="label mb-10">Feedback Type</label>
+				<select id="feedback-type" class="form-select mb-30" name="feedbackTypeId" required>
+					<option value="" selected="selected">Select a type (Required)</option>
+					<option value="1">Factual Correction</option>
+					<option value="2">Spelling/Grammar Correction</option>
+					<option value="3">Link Correction</option>
+					<option value="4">Additional Information</option>
+					<option value="5">Other</option>
+				</select>
+			</div>
+
+			<label for="feedback" class="label mb-10">Your Feedback</label>
+			<textarea id="feedback" class="form-control mb-30" name="feedback" maxlength="3000" rows="7" required></textarea>
+
+			<button class="btn btn-blue" type="submit">Submit Feedback</button>
+		</form>
+
+		<div class="success-messaging d-none mt-30">
+			<div class="title">Thank you for your feedback</div>
+			<p>Our editors will review what you’ve submitted and determine whether to revise the article.</p>
+		</div>
+	</div>
+</div>
+
+
+        <div class="md-websites-modal size-lg d-none">
+            <div class="md-modal-body">
+                <div class="h2 font-serif pb-15 border-bottom font-weight-bold">
+                    External Websites
+                </div>
+                <div class="pb-20">
+            <ul class="list-unstyled mt-20 lh-lg">
+            <li><a class="external" href="https://www.worldhistory.org/Eridu_Genesis/" target="_blank" rel="noopener ">Ancient History Encyclopedia - Eridu Genesis</a></li>
+            </ul>
+        </div>
+
+    
+            </div>
+        </div>
+    </div>
+
+</div>
+		<div class="toc-header-marker"></div>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<button class="ai-ask-button btn border-2 js-header-ai-ask-button d-none btn-sm btn-outline-red-400 border-red-400 mr-0 mr-lg-10 ml-5 ml-sm-10 ml-lg-0 p-10">
+	Ask the Chatbot a Question
+</button>
+
+<div class="md-byline module-spacing ">
+		<div class="font-serif font-12">
+		<span class="written-by text-gray-700">
+			
+				Written and fact-checked by
+				</span>
+		<div class="editor-popover popover p-0">
+  <a class="d-block p-20 qa-editor-popup gtm-byline font-12 byline-contributor" href="/editor/The-Editors-of-Encyclopaedia-Britannica/4419" >
+        <div class="editor-title font-16 font-weight-bold">The Editors of Encyclopaedia Britannica</div>
+
+        <div class="editor-description font-12 font-serif mt-5 text-black">Encyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree. They write new content and verify and edit content received from contributors.</div>
+            </a>
+    <div data-popper-arrow></div>
+</div>
+
+<span class="btn btn-link editor-link p-0 qa-byline-link gtm-byline font-12 byline-contributor text-decoration-underline">
+  The Editors of Encyclopaedia Britannica</span></div>
+	<div class="last-updated font-12 font-serif">
+			<a class="byline-edit-history" href="https://www.britannica.com/topic/Eridu-Genesis/additional-info#history" rel="nofollow">Article History</a>
+			</div></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+		
+    
+		<button class="d-flex d-lg-none btn btn-outline-blue border rounded-sm shadow-sm mobile-toc-button gtm-mobile-toc-inline-button d-none d-sm-block js-sections-inline-button module-spacing btn d-lg-none">
+			<em class="material-icons mr-5 ml-n10 my-n5 md-icon" data-icon="toc"></em>
+	
+			Table of Contents
+		</button>
+    
+
+<div class="d-flex d-sm-none flex-row">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+		
+    
+		<button class="d-flex d-lg-none btn btn-outline-blue border rounded-sm shadow-sm mobile-toc-button gtm-mobile-toc-inline-button js-sections-inline-button module-spacing">
+			<em class="material-icons mr-5 ml-n10 my-n5 md-icon" data-icon="toc"></em>
+	
+			Table of Contents
+		</button>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<button class="ai-ask-button btn border-2 ai-ask-button btn border-2 module-spacing btn-sm js-inline-ai-ask-button btn-outline-red-400 border-red-400 p-10 ml-5">
+	Ask the Chatbot a Question
+</button>
+
+</div>
+                <!--[BEFORE-ARTICLE]--><span class="marker before-article"></span><section data-level="1" id="ref1"><!--[PREMOD1]--><span class="marker PREMOD1 mod-inline"></span><p class="topic-paragraph"><strong><span id="ref234406"></span>Eridu Genesis</strong>,  in Mesopotamian religious literature, ancient Sumerian <a href="https://www.britannica.com/art/epic" class="md-crosslink autoxref " data-show-preview="true">epic</a> primarily concerned with the creation of the world, the building of cities, and the <span id="ref234407"></span><a href="https://www.britannica.com/topic/flood-myth" class="md-crosslink " data-show-preview="true">flood</a>. According to the epic, after the universe was created out of the primeval sea and the gods were born, the deities fashioned man from clay to <a class="md-dictionary-link md-dictionary-tt-off mw" data-term="cultivate" href="https://www.merriam-webster.com/dictionary/cultivate" data-type="MW">cultivate</a> the ground, care for flocks, and perpetuate the worship of the gods.</p><div class="one-good-fact-module">
+</div><!--[MOD1]--><span class="marker MOD1 mod-inline"></span><!--[PREMOD2]--><span class="marker PREMOD2 mod-inline"></span><p class="topic-paragraph">Cities were soon built and kingship was instituted on earth. For some reason, however, the gods determined to destroy mankind with a flood. <span id="ref234408"></span><a href="https://www.britannica.com/topic/Ea" class="md-crosslink " data-show-preview="true">Enki</a> (Akkadian: Ea), who did not agree with the decree, revealed it to <span id="ref234409"></span><a href="https://www.britannica.com/topic/Ziusudra" class="md-crosslink " data-show-preview="true">Ziusudra</a> (Utnapishtim), a man well known for his humility and obedience. Ziusudra did as Enki commanded him and built a huge boat, in which he successfully rode out the flood. Afterward, he prostrated himself before the gods <a href="https://www.britannica.com/topic/Anu" class="md-crosslink " data-show-preview="true">An</a> (Anu) and <a href="https://www.britannica.com/topic/Enlil" class="md-crosslink " data-show-preview="true">Enlil</a>, and, as a reward for living a godly life, Ziusudra was given immortality.</p><!--[MOD2]--><span class="marker MOD2 mod-inline"></span></section>
+
+
+
+<!--[END-OF-CONTENT]--><span class="marker end-of-content"></span><!--[AFTER-ARTICLE]--><span class="marker after-article"></span></div>
+
+	    <div id="chatbot-root"></div>
+
+    </div>
+
+
+	</div>
+</div>
+<div class="ai-dialog-placeholder"></div>
+                                </div>
+                            </div>
+
+                            <aside class="col-md-da-320"></aside>
+                            </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </article></div>
+        </div></div>
+	    </div>
+	</main>
+
+    <div id="md-footer"></div> <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5W6NC8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script type="text/javascript" id="_informizely_script_tag">
+var IzWidget = IzWidget || {};
+(function (d)
+{ var scriptElement = d.createElement('script'); scriptElement.type = 'text/javascript'; scriptElement.async = true; scriptElement.src = "https://insitez.blob.core.windows.net/site/f780f33e-a610-4ac2-af81-3eb184037547.js"; var node = d.getElementById('_informizely_script_tag'); node.parentNode.insertBefore(scriptElement, node); }
+)(document);
+</script>
+
+<!-- Ortto ebmwprod capture code -->
+    <script>
+      window.ap3c = window.ap3c || {};
+      var ap3c = window.ap3c;
+      ap3c.cmd = ap3c.cmd || [];
+      ap3c.cmd.push(function() {
+        ap3c.init('ZO4siT4cLwnykPnzZWJtd3Byb2Q', 'https://engage.email.britannica.com/');
+        ap3c.track({v: 0});
+      });
+      ap3c.activity = function(act) { ap3c.act = (ap3c.act || []); ap3c.act.push(act); };
+      var s, t; s = document.createElement('script'); s.type = 'text/javascript'; s.src = "https://engage.email.britannica.com/app.js";
+      t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(s, t);
+    </script>
+
+
+
+
+
+
+
+
+<script   class="marketing-page-info" type="application/json">
+{"pageType":"Topic","templateName":"DESKTOP","pageNumber":1,"pagesTotal":1,"pageId":191407,"pageLength":153,"initialLoad":true,"lastPageOfScroll":false}
+</script>
+
+
+
+
+
+
+
+
+
+<script   class="marketing-content-info" type="application/json">
+[]
+</script>
+
+<script src="https://cdn.britannica.com/mendel-resources/3-131/js/libs/jquery-3.5.0.min.js?v=3.131.7"></script>
+<script type="text/javascript" data-type="Init Mendel Code Splitting">
+              (function() {
+                $.ajax({
+                  dataType: 'script',
+                  cache: true,
+                  url: 'https://cdn.britannica.com/mendel-resources/3-131/dist/topic-page.js?v=3.131.7'
+                });
+              })();
+            </script>
+		
+
+
+
+
+
+
+
+<script   class="analytics-metadata" type="application/json">
+{"leg":"A","adLeg":"A","userType":"ANONYMOUS","pageType":"Topic","pageSubtype":null,"articleTemplateType":"SMALL","gisted":false,"pageNumber":1,"hasSummarizeButton":false,"hasAskButton":true}
+</script>
+
+<script type="text/javascript">
+    EBStat={accountId:-1,hostnameOverride:'webstats.eb.com',domain:'www.britannica.com', json:''};
+    </script>
+
+    <script type="text/javascript">
+            ( function() {
+                $.ajax( { dataType: 'script', cache: true, url: '//www.britannica.com/webstats/mendelstats.js?v=1' } )
+                 .done( function() {
+                     try {writeStat(null,EBStat);}
+                     catch(err){}
+                 } );
+            })();
+            </script>
+        <div id="bc-fixed-dialogue"></div>
+</body>
+</html>

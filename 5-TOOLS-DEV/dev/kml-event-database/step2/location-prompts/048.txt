@@ -1,0 +1,11 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Godavari inter-deltaic plain sea level change
+
+Basic location of event: India
+
+Specific data/information/context related to event: Sci-Hub | Holocene and Late Pleistocene relative sea level fluctuations along the east coast of India. Marine Geology, 167(3-4), 243–260 | 10.1016/s0025-3227(00)00028-1
+
+Banerjee, P. K. (2000). Holocene and Late Pleistocene relative sea level fluctuations along the east coast of India. Marine Geology, 167(3-4), 243–260. doi:10.1016/s0025-3227(00)00028-1
+
+10.1016/s0025-3227(00)00028-1

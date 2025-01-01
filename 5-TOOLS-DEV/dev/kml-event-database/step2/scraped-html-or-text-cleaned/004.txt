@@ -1,0 +1,1044 @@
+University of Southern Denmark
+Late Pleistocene and Holocene whale remains (Cetacea) from Denmark and adjacent
+countries: Species, distribution, chronology, and trace element concentrations
+Aaris-Sørensen, Kim; Rasmussen, Kaare Lund; Kinze, Carl; Petersen, Kaj Strand
+Published in:
+Marine Mammal Science
+DOI:
+10.1111/j.1748-7692.2009.00356.x
+Publication date:
+2010
+Document version:
+Final published version
+Citation for pulished version (APA):
+Aaris-Sørensen, K., Rasmussen, K. L., Kinze, C., & Petersen, K. S. (2010). Late Pleistocene and Holocene
+whale remains (Cetacea) from Denmark and adjacent countries: Species, distribution, chronology, and trace
+element concentrations.
+Marine Mammal Science,
+26(2), 253–281. https://doi.org/10.1111/j.1748-
+7692.2009.00356.x
+Go to publication entry in University of Southern Denmark's Research Portal
+Terms of use
+This work is brought to you by the University of Southern Denmark.
+Unless otherwise specified it has been shared according to the terms for self-archiving.
+If no other license is stated, these terms apply:
+• You may download this work for personal use only.
+• You may not further distribute the material or use it for any profit-making activity or commercial gain
+• You may freely distribute the URL identifying this open access version
+If you believe that this document breaches copyright please contact us providing details and we will investigate your claim.
+Please direct all enquiries to puresupport@bib.sdu.dk
+Download date: 01. Jan. 2025
+MARINE MAMMAL SCIENCE, 26(2): 253–281 (April 2010)
+C© 2009 by the Society for Marine Mammalogy
+DOI: 10.1111/j.1748-7692.2009.00356.x
+Late Pleistocene and Holocene whale
+remains (Cetacea) from Denmark and adjacent countries:
+Species, distribution, chronology, and trace
+element concentrations
+KIM AARIS-SØRENSEN
+Zoological Museum, National History Museum of Denmark,
+University of Copenhagen,
+Universitetsparken 15, DK-2100 Copenhagen Ø, Denmark
+E-mail: kaaris@snm.ku.dk
+KAARE LUND RASMUSSEN
+Institute of Physics and Chemistry,
+University of Southern Denmark,
+Campusvej 55, DK-5230 Odense M, Denmark
+CARL KINZE
+CCKonsult,
+Rosenørns All´e 55 2 tv,
+DK-1970 Frederiksberg C, Denmark
+KAJ STRAND PETERSEN
+Geological Survey of Denmark and Greenland (GEUS),
+Øster Voldgade 10,
+DK-1350 Copenhagen K, Denmark
+ABSTRACT
+We describe and review the subfossil whale bones (mammalian order Cetacea)
+material from the southern Scandinavian area, that is, Skagerrak, Kattegat, the
+inner Danish waters and the southwestern Baltic Sea. Fifteen species were identified
+from the subfossil records of which all, except for the bowhead whale (Balaena
+mysticetus), have also been encountered in the modern times. Fifty-one specimens
+were radiocarbon dated covering 12 of the subfossil species. The dates fell in three
+distinct clusters with a few specimens before the last glacial maximum (LGM), a
+large group between LGM and the Pleistocene/Holocene boundary (ca. 17.0–11.7
+cal. kyr BP), and another large group from ca. 8.0 cal. kyr BP onward. Seventeen
+of the radiocarbon dated specimens have been subjected to trace element analysis
+by Instrumental Neutron Activation Analysis. Cross plots of the concentrations of
+Fe and Zn, and Fe and Co show that it is possible to distinguish crayfish eaters
+from fish/squid eaters. This can be used as a novel and independent method for the
+determination to species of whale remains of otherwise uncertain speciation.
+253
+254 MARINE MAMMAL SCIENCE, VOL. 26, NO. 2, 2010
+Key words: Late Pleistocene-Holocene, southern Scandinavia, whale remains,
+species, distribution, chronology, trace elements.
+Subfossil whale bones (mammalian order Cetacea) have been found in relatively
+large numbers all over southern Scandinavia, and in Denmark alone 361 specimens
+have been recorded from late Middle Weichselian, Late Weichselian, and Holocene
+deposits. Due to glacier dynamics and dramatic changes in relative sea-level through-
+out these periods, cetacean bones can be found in tills, out washed sediments, and in
+raised marine shorelines and sediments.
+Hitherto, no attempts have been made to review the entire material from the
+southern Scandinavian area, that is, Skagerrak, Kattegat, the inner Danish waters,
+and the southwestern Baltic Sea. Earlier, sporadic notes on the discovery of subfossil
+whale remains, however, were provided by Nilsson (1847) in his survey of the
+Scandinavian mammals, by Liljeborg (1861) in his account on the Swedish and
+Norwegian whale species, and again in 1874 in his work on the entire mammalian
+fauna of the two countries (Liljeborg 1874). During the end of the 19th century
+Tauber (1878–1892) described whale remains in his Zoologica Danica.
+The first publication to deal exclusively with subfossil remains of whales was
+provided by Liljeborg (1867), who described the discovery of major parts of a skeleton
+of a gray whale (Eschrichtius robustus) from marine sand and clay deposits at Gr¨as¨o,
+Roslagen (Sweden) and parts of a skeleton of a juvenile baleen whale designated
+Balaena swedenborgii in marine sediments at Skara, V¨asterg¨otland (Sweden). Both
+whales were already mentioned by Liljeborg in 1861 in his general survey of the
+Scandinavian whale fauna where he had named the gray whale Balaenoptera robusta
+and considered the Swedenborg whale as a distinct subfossil species. The latter view
+was supported by Aurivillius (1888), who described the discovery of another juvenile
+“Swedenborg whale,” this time in marine sediments at Tv˚a˚aker, Halland (Sweden).
+Further arguments for giving the Swedenborg whale specific rank were given by
+Nybelin (1942, 1946) who concluded that the specimens resembled neither the
+bowhead (Balaena mysticetus) nor the Atlantic right whale (Eubalaena glacialis). More
+recently, Fred´en (1984) recommended postponing the final decision on the taxonomic
+status until more remains become available. Lepiksaar (1986) stressed that safe
+species identification should only be based on individuals that are skeletally mature
+and therefore the Swedenborg whales should be regarded as juvenile specimens of
+E. glacialis. The Gr¨as¨o specimen, on the other hand, is now generally accepted as the
+holotype of the gray whale and named E. robustus (Liljeborg).
+The first surveys of whale remains covering a larger geographical region were
+carried out by Winge (1899, 1904). These catalogs enumerate 25 Danish finds of
+whale bones belonging to bowhead whale (B. mysticetus), humpback whale (Megaptera
+novaeangliae), sperm whale (Physeter macrocephalus), beluga whale (Delphinapterus leu-
+cas), killer whale (Orcinus orca), bottlenose dolphin (Tursiops truncatus), white-beaked
+dolphin (Lagenorhynchus albirostris), and harbor porpoise (Phocoena phocoena) and list
+both locality and other relevant details such as a tentative geological dating. The
+next overview was provided by Degerbøl (1933) in an introduction to a compre-
+hensive work on the prehistoric Danish mammal fauna. It added two new whale
+species, the blue whale (Balaenoptera musculus) from late glacial marine sediments
+in northern Jylland and the false killer whale (Pseudorca crassidens) from Kold-
+ing Fjord, South Jylland (these latter remains probably originate from the 1861
+AARIS-SØRENSEN ET AL.: SUBFOSSIL WHALE BONES 255
+invasion of a large school of this species into the inner Danish waters, see Kinze
+2007).
+General faunal history reviews by Aaris-Sørensen (1998, 2007), Lepiksaar (1986),
+Liljegren (1975), and Liljegren and Lager˚as (1993) have treated finds of more recent
+dates and more specific contributions have been given by Lepiksaar (1966), dealing
+with modern and fossil occurrences of toothed whales in Sweden, by Møhl (1970),
+dealing with prehistoric seal and whale hunting in Denmark, and finally by Fred´en
+(1975, 1984) the first to publish a series of radiocarbon dates of subfossil Swedish
+whale remains.
+The objective of this article is to present and characterize the Late Pleistocene
+and Holocene whale fauna in southern Scandinavia. Successful dating of a large
+number of subfossil whale remains allows us to describe the changes in species
+richness and composition and changes in geographical and chronological distribution.
+These changes can be compared with the changes in climate as reflected in the
+highly dynamic environmental history of the last glacial-interglacial cycle in southern
+Scandinavia.
+It could be asked to what degree did the dramatic changes in land/sea configura-
+tion, water temperature, and productivity determine the composition of the marine
+mammal populations. Questions like this have direct relevance to modern nature
+conservation and biodiversity management, especially in relation to future climate
+changes. The results are furthermore linked to and compared with the historical
+records built on stranding lists and whale observations in the area for the period
+1575–2007 (Kinze 1995, 2007).
+The background material for this study is provided mainly by the collection of
+subfossil whale bones housed at the Zoological Museum (National History Museum
+of Denmark), University of Copenhagen (ZMUC), as well as by the results of a
+recently completed dating program including radiocarbon datings of 50 whales from
+the Danish waters, the Swedish west coast, and the German Baltic coast. For a selected
+group of specimens we have also performed trace element analysis, which may reflect
+the food intake of the animal, and which in any event, helps to group less specific
+specimens.
+MATERIALS AND METHODS
+The investigations presented here are mainly based on the collection of subfossil
+whales kept at the Zoological Museum, University of Copenhagen, for the present
+comprising 361 specimens from Danish waters. Among these 41 were selected for
+radiocarbon dating along with seven Swedish and two German samples, which where
+kindly made available to us by Naturhistoriska Museet, G¨oteborg, and Deutsches
+Meeresmuseum, Stralsund. The selection procedure aimed to include as many species
+as possible and to be as wide-ranging as possible in terms of geography and chrono-
+logy, and at the same time to avoid preserved specimens and specimens expected to
+contain insufficient amounts of collagen.
+A total of 15 different species was identified in the Danish collection (Table 1).
+Out of these it has been possible to date 12 by the radiocarbon method. In addition,
+10 nonspecified baleen whales were successfully radiocarbon dated, as these were
+expected to reveal important geological information.
+The number of remains found in archaeological contexts makes up about 55% of
+the specimens and consists mainly of smaller toothed whales, especially the harbor
+256 MARINE MAMMAL SCIENCE, VOL. 26, NO. 2, 2010
+Table 1. Number of species identified and number of specimens dated in the Danish
+collection of subfossil whale remains at ZMUC.
+Number of specimens
+Geologically Archaeologically
+Taxa 14 C-dated dated dated Undated Total
+L. albirostris 1 - 9 8 18
+D. delphis - - 2 - 2
+T. truncatus 1 - 15 18 34
+Stenella sp. - - 1 - 1
+Delphinidae Dolphins - - 3 2 5
+O. orca 4 1 16 40 61
+P. phocoena - - 49 14 63
+D. leucas 4 - 1 2 7
+H. ampullatus 1 - - 1 2
+P. macrocephalus 2 - 4 11 17
+B. acutorostrata 3 - 1 9 13
+B. physalus 2 - 1 7 10
+B. cf. musculus 1 - - 6 7
+Balaenoptera sp. 1 - 2 11 14
+Balaenopteridae Rorquals 1 - - - 1
+M. novaeangliae 2 - - 3 5
+E. glacialis 2 - - 3 5
+B. mysticetus 7 - 1 8 16
+B. mysticetus/E. glacialis 7 - - 10 17
+Cetacea ind. - 11 24 28 63
+Total 39 12 129 181 361
+porpoise (P. phocoena). The harbor porpoise was omitted from the radiocarbon dating
+effort because a relatively high number of archaeological datings already documents
+its history in southern Scandinavia as shown by Sommer et al. (2008).
+The remaining 45% of the whale bones were found in geological, that is, non-
+archaeological, contexts either in situ or redeposited. These bones mainly represent
+large baleen whale or larger toothed whale species. The bones have been fished or
+dredged from the sea bottom or excavated in raised marine sediments including
+old beach ridges or found redeposited in glacial and glaciofluvial deposits. The
+exception to these generally abundant find scenarios is 13 adjoining lumbar and
+caudal vertebrae of a B. mysticetus specimen and an almost complete front half of a fin
+whale (Balaenoptera physalus), both excavated in raised marine sediments in northern
+Jylland (Table 2, 34 and 22). Normally subfossil whales were represented by a single
+or a few bone elements only.
+Identification
+A safe identification of whale bones based on size and morphology completely
+depends on the accessibility to a good reference collection of extant whale species
+skeletons. The ZMUC, houses a very large and diverse collection that has been
+successfully used in this study. The subfossil remains, however, most often con-
+sist of rather fragmented vertebrae, skulls or ribs and more seldom of limb bones,
+mandibles or single teeth sometimes preventing identification to species level (see
+AARIS-SØRENSEN ET AL.: SUBFOSSIL WHALE BONES 257
+Table 2. List of analyzed whale remains and the results of the radiocarbon dating (16 of the dated specimens plus one undated have also been
+analyzed for trace elements; see Table 5). The column “Element dated” indicates which part of the whale has been sampled. The column “ 14 C method”
+indicates if the radiocarbon dating has been performed by the conventional method by use of a proportional counter (Conv.) or by Accelerator Mass
+Spectroscopy (AMS). 13 C is the stable isotope ratio 13 C/12 C measured against Vienna Pee Dee Belemnite (VPDB), the international standard used by
+all radiocarbon laboratories. The calibrated date is given as the outer boundaries covering the interval ± 1 .
+Calibrated age
+Element ZMUC Locality, 14 C 14 C-age 13 C BP (Before
+No. Species dated file county method Lab.no. BP (VPDB) 1950) References
+01 B. mysticetus/E.
+glacialis
+Vertebra 3/1909 Sparkær, Viborg Conv. K-7098 Modern −15.4 0
+02 B. acutorostrata Skull, occipital
+part
+22/1951 Føns sogn, Odense Conv. K-7100 Modern −14.7 0
+03 B. physalus Cervical
+vertebra
+19/1939 Hedeg˚ardene, Vejle Conv. K-7101 Modern −13.5 0
+04 O. orca Rib 4/1932 Grærup, Ribe Conv. K-6799 25 ± 70 −11.5 0–260
+05 H. ampullatus Vertebra 40a/1968 Kolding Fjord, Vejle Conv. K-6798 50 ± 70 −13.1 0–260
+06 T. truncatus Skull 93/1946 Hindsgaul, Odense Conv. K-6765 110 ± 50 −11.8 0–260
+07 M. novaeangliae Vertebra 111/1943 Søborg Ruin,
+Frederiksborg
+Conv. K-6795 705 ± 75 −14.6 560–720
+08 Balaenoptera sp. Vertebra 325/1982 Poulsker, Bornholm Conv. K-6804 1015 ± 70 −14.8 800–1,050
+09 Mysticeti Cervical
+vertebra
+28/1999 D¨anische Wiek,
+Greifswalder
+Bodden, Germany
+Conv. K-7095 1110 ± 70 −11.8 930–1,120
+10 B. mysticetus/
+E.glacialis
+Mandible 37/1897 Lønstrup, Hjørring Conv. K-7097 1400 ± 75 −15.5 1,270–1,390
+11 B. mysticetus Radius 103/1946 Strandby, Hjørring Conv. K-6820 1500 ± 65 −13.5 1,310—1,510
+12 B. mysticetus/
+E.glacialis
+Lumbar
+vertebra
+29/1999 Zingst, Stralsund,
+Germany
+Conv. K-7096 1660 ± 65 −16.2 1,420–1,690
+13 P. macrocephalus Humerus 17/1997 Lerbæk Mark,
+Hjørring
+Conv. K-6828 2560 ± 80 −14.0 2,490–2,760
+Continued
+258 MARINE MAMMAL SCIENCE, VOL. 26, NO. 2, 2010
+Table 2. (Continued)
+Calibrated age
+Element ZMUC Locality, 14 C 14 C-age 13 C BP (Before
+No. Species dated file county method Lab.no. BP (VPDB) 1950) References
+14 O. orca Vertebra 22/1997 Bannerslund mark,
+Hjørring
+Conv. K-6825 2810 ± 75 −12.4 2,790–3,000
+15 B. physalus Skull 1/1921 Vængesø, Randers Conv. K-5661 2890 ± 80 −15.1 2,890—3,160
+16 P. macrocephalus Tooth 12/1872 Læsø, Klitg˚ard N. for
+Byrum, Hjørring
+Conv. K-2576 2920 ± 85 −11.4 2,960–3,210 (Hansen
+1977)
+17 O. orca Skull 10/1941 Vust, Thisted Conv. K-6766 3250 ± 95 −11.4 3,380–3,580
+18 B. cf. acutorostrata Skull,
+squamous
+part
+56/1981 Nordby Hede, Samsø,
+Holbæk
+Conv. K-6770 3540 ± 90 -15.4 3,700–3,960
+19 B. mysticetus Skull 66/2000 R¨orvik, Bohus L¨an,
+Sweden
+AMS AAR-7984 4210 ± 80 −15.72 4,620–4,850
+20 B. mysticetus Skull, occipital
+part
+27/1999 Lyngby, Thisted Conv. K-7094 4250 ± 90 −16.1 4,620–4,960
+21 B. mysticetus/
+E.glacialis
+Rib 1/1968 Ballerum, Thisted Conv. K-6036 4610 ± 85 −14.4 5,070–5,570
+22 B. physalus Vertebra 12/1988 ˚Asted, Viborg Conv. K-5998 5060 ± 95 −13.8 5,670–5,910 (Stenstrop
+1994)
+23 B. acutorostrata Vertebra 127/1964 Holmeenge I,
+Randers
+Conv. K-6803 5130 ± 100 −14.7 5,740–5,990
+24 Balaenoptera cf.
+musculus
+Skull, occipital
+part
+5/1964 Tastum Sø, Viborg Conv. K-6797 5160 ± 90 −14.4 5,750–6,000
+25 E.glacialis Limb bone 71/1965 Ballerum, Thisted Conv. K-6213 6410 ± 110 −16.9 7,180–7,430
+26 L. albirostris Skull 5/1896 Gniben, Sjællands
+Odde, Holbæk
+Conv. K-6767 6530 ± 110 −13.0 7,330–7,560
+27 O. orca Skull, occipital
+part
+29/1983 Lystrup Enge, ˚Arhus Conv. K-6800 6800 ± 115 −11.8 7,530–7,780
+28 D. leucas Vertebra 60/2000 Pilg˚arden, Bohusl¨an,
+Sweden
+AMS AAR-7978 9880 ± 110 −13.39 11,190–11,600
+AARIS-SØRENSEN ET AL.: SUBFOSSIL WHALE BONES 259
+29 B. mysticetus Vertebra 65/2000 Fr¨andtorpsgatan,
+G¨oteborg, Sweden
+AMS AAR-7983 10,210 ± 80 −16.05 11,760–12,070
+30 B. mysticetus Phalanx 64/2000 Br¨acke
+sm˚astugeomr˚ade,
+G¨oteborg, Sweden
+AMS AAR-7982 10,915 ± 80 −15.51 12,840–12,920
+31 D. leucas Cervical
+vertebra
+62/2000 Hulta tegelbruk,
+V¨asterg¨otland,
+Sweden
+AMS AAR-7980 11,090 ± 80 −12.24 12,930–13,080
+32 B. mysticetus/
+E.glacialis
+Rib 33/1997 Emmersbæk,
+Hjørring
+Conv. K-6823 11,320 ± 165 −13.7 13,060–13,350
+33 B. mysticetus Skull, occipital
+part
+19/0000 R˚aholte, Hjørring Conv. K-7108 11,590 ± 115 −13.9 13,310–13,570
+34 B. mysticetus Vertebra 11/1859 Bovbæk, Hjørring Conv. K-6796 11,780 ± 170 −14.3 13,440–13,790
+35 B mysticetus Rib 20/0000 Borgbakke, Hjørring Conv. K-7109 11,960 ± 115 −13.9 13,720–13,950
+36 B. mysticetus Rib 63/2000 Tanumshede, Bohus
+L¨an, Sweden
+AMS AAR-7981 11,980 ± 90 −14.83 13,750–13,940
+37 D. leucas Caudal
+vertebra
+176/1980 Frederikshavn
+Vandværk,
+Hjørring
+Conv. K-7104 12,000 ± 170 −12.3 13,690–14,060
+38 M. cf. novaeangliae Rib 18/1997 Vester Tværsted
+Skole, Hjørring
+Conv. K-6821 12,100 ± 185 −14.7 13,730–14,200
+39 B. mysticetus Rib 27/1953 Dronninglund,
+Hjørring
+Conv. K-7105 12,540 ± 155 −15.1 14,340–14,950
+40 D. leucas Vertebra 61/2000 Sahlgrenska
+Sjukhuset,
+G¨oteborg, Sweden
+AMS AAR-7979 12,580 ± 90 −11.82 14,580–15,020
+41 B. mysticetus/
+E.glacialis
+Vertebra 40/1996 Karup, Hjørring Conv. K-7106 12,710 ± 185 −15.1 14,600–15,280
+42 B. mysticetus/
+E.glacialis
+Vertebra 31/1997 Hirtshals, Hjørring Conv. K-6824 12,780 ± 215 −13.5 14,670–15,420
+Continued
+260 MARINE MAMMAL SCIENCE, VOL. 26, NO. 2, 2010
+Table 2. (Continued)
+Calibrated age
+Element ZMUC Locality, 14 C 14 C-age 13 C BP (Before
+No. Species dated file county method Lab.no. BP (VPDB) 1950) References
+43 B. mysticetus/
+E.glacialis
+Vertebra 260/1980 Gølstrup
+Teglværksgrav,
+Hjørring
+Conv. K-6802 12,950 ± 195 −15.0 15,020–15,600
+44 B. mysticetus/
+E.glacialis
+Vertebra 261/1980 Sønder Vr˚a, Hjørring Conv. K-6801 13,670 ± 205 −14.9 15,940–16,590
+45 B. mysticetus Rib 21/0000 Ravnsholt, Hjørring Conv. K-7110 14,110 ± 215 −14.1 16,470–17,200
+46 E.glacialis Vertebra 1/1934 Staurby Skov, Odense Conv. K-6768 17,830 ± 590 −17.9 20,470–21,920
+47 Balaenopteridae Rib 16/1928 Krogstrup sogn,
+Frederiksborg
+Conv. K-7099 28,140 ± 1280 −15.5 -
+48 B. acutorostrata Caudal
+vertebra
+32/1956 Lindholm, Nørre
+Sundby, ˚Alborg
+Conv. K-6771 29,320 ± 1240 −13.0 -
+49 D. leucas Caudal
+vertebra
+41/1952 Vester Nebel, Vejle Conv. K-7102 32,220 ±1480 −13.7 -
+50 D. leucas Caudal
+vertebra
+19/1960 Nyholmsmark,
+Hjørring
+Conv. K-7107 33,140 ±1460 −13.4 -
+51 D. leucas Caudal
+vertebra
+3/1902 ˚Asbakken, Hjørring Conv. K-7103 >38,320 −11.1 -
+AARIS-SØRENSEN ET AL.: SUBFOSSIL WHALE BONES 261
+Figure 1. Calibrated radiocarbon dates. The calibrations have been performed using the
+OXCAL calibration program and the 2004 IntCal04 curves.
+Table 1). About one-third of the whale specimens in the ZMUC collection could
+not be identified to species level. The problems with the identification are espe-
+cially connected to the distinction between the two right whale species (making
+up one-third of the dated specimens) and between the different rorquals (Genus
+Balaenoptera). Distinguishing between the two monodontid species (D. leucas and
+262 MARINE MAMMAL SCIENCE, VOL. 26, NO. 2, 2010
+Monodon monoceros) also presented some difficulty depending on the available bone
+elements. However, one of the seven specimens of Monodontidae found in Den-
+mark, could be identified with certainty to D.leucas from a cervical vertebra (at-
+las) (Winge 1899). Besides, several complete or almost complete skeletons of
+D. leucas have been found on the Swedish west coast (Lepiksaar 1966, Fred´en 1984).
+So far no subfossil remains of M. monoceros have been identified in southern Scandi-
+navia. Therefore, the other six Danish specimens (all caudal vertebrae) have similarly
+been assigned to D. leucas.
+Radiocarbon Dating
+In the present work, we undertook the radiocarbon dating of many new specimens
+of whales found in either archaeological or geological contexts. Out of the 41 Danish
+and 2 German whale bone samples, 39 were dated successfully at the Copenhagen
+Radiocarbon Laboratory utilizing a conventional proportional counter (Rasmussen
+2000). The remaining four samples contained insufficient amounts of collagen. The
+seven Swedish specimens were dated by the Aarhus AMS radiocarbon laboratory for
+our work. By adding another five samples dated earlier, a grand total of 51 dates are
+listed in Table 2.
+The stable isotope ratio, 13 C, was measured on all 51 samples, and the dates were
+corrected for isotopic fractionation referring them to the marine value of 0 VPDB.
+This corresponds to subtracting a reservoir correction of 405 yr from the standard
+radiocarbon age, which is referred to 13 C = −25 VPDB.
+Three of the samples were dated to be modern, and one older than the dating
+limit. The dates that could be calibrated were calibrated with the OXCAL program
+using the Reimer et al. (2004) curves. The calibrated date intervals at ±1 SD are
+listed in Table 2, and shown in Figure 1.
+Trace Element Determination
+Seventeen samples were subjected to trace element analysis. This was done using
+Instrumental Neutron Activation Analysis (INAA) on ca. 500-mg samples of bone
+tissue. In order to reduce the effect of contamination present on the surface of the
+whale bones, an exterior layer of ca. 1 mm of the bone was removed with a drill or
+with a scalpel prior to sampling. The samples were irradiated at the now disassembled
+heavy water reactor DR3 at the National Laboratory at Risø, Denmark, with a typical
+neutron flux of 1013 cm−2 s−1 and an irradiation time of 4 h. Standard samples as
+well as flux monitors were included in the irradiation. The activated samples were
+subjected to three counts on a high purity GeLi-detector at the Geological Institute,
+University of Copenhagen. All samples were analyzed only once. The resulting
+concentrations are listed in Table 3. The uncertainties are mostly in the range of
+10%–15%.
+RESULTS AND DISCUSSION
+The Subfossil and Recent Cetacean Fauna
+The results of the radiocarbon dating are compiled in Table 2 together with basic
+information about each specimen. The chronological spread of the dates is visualized
+AARIS-SØRENSEN ET AL.: SUBFOSSIL WHALE BONES 263
+Table 3. Chronological distribution of 25 whale species in the Danish/southern Scandinavian area. a: 14 C-dates this study; b: 14 C-date, Kyvik,
+Halland, Sweden (Fred´en 1984); c: geologically dated, c1: Uddevalla, Bohusl¨an, Sweden (Lepiksaar 1966, 1986, Fred´en 1984), c2: Otter¨o, Bohusl¨an,
+Sweden (Lepiksaar 1966); d: archaeologically dated, d1: several localities, ZMUC files, d2: Tybrind Vig, Fyn (Trolle-Lassen 1985); e: (Kinze 2007);
+f: (Kinze 2006a); g: personal communication from Uno Svensson, G¨oteborgs Naturhistoriska Museum, April 2007; h: (Lepiksaar 1966). ∗Marine
+environment based on mollusk studies after Petersen (2004).
+Older Yoldia Sea Younger Yoldia Sea
+arctic-subarctic∗ arctic-subarctic-boreal∗ Littorina/Tapes Sea
+Late Middle Weichselian-LGM LGM-Plei/Hol boundary boreal-lucitanian∗
+Species ca. 33–21 cal. kyr BP ca. 21–11.7 cal. kyr BP ca. 8.0–0 cal. kyr BP Recent fauna
+L. albirostris Xc1 Xa Xe native
+L. acutus Xe common
+D. delphis Xd1 Xe occasional southern visitor
+T. truncatus Xa Xe occasional southern visitor
+Stenella sp. Xd2 Xe occasional southern visitor
+Globicephala melas Xe common
+P. crassidens Xe rare visitor
+Feresa attenuata Xf rare visitor
+O. orca Xc2 Xa Xe common
+Grampus griseus Xe rare visitor
+P. phocoena Xb Xd1 Xe native
+D. leucas Xa Xa Xd1 Xe rare visitor
+M. monoceros Xg rare visitor
+Mesoplodon bidens Xe rare visitor
+H. ampullatus Xc1 Xa Xe rare visitor
+Z. cavirostris Xh rare visitor
+P. macrocephalus Xa Xe erratic and periodically
+frequent straggler
+B. acutorostrata Xa Xa Xe common
+Balaenoptera brydei Xe rare visitor
+Balaenoptera borealis Xe rare visitor
+B. physalus Xa Xe periodically frequent
+B. cf. musculus Xa Xe rare visitor
+M. novaeangliae Xa Xa Xe rare visitor
+E.glacialis Xa Xa Xe rare visitor
+B. mysticetus Xa Xa
+264 MARINE MAMMAL SCIENCE, VOL. 26, NO. 2, 2010
+Kattegat
+Skagerrak
+Baltic Sea
+resund
+Belt
+Sea
+North Sea
+Sjælland
+Fyn
+Jylland
+Bohuslän
+Västergötland
+Halland
+Bornholm
+DENMARK
+GERMANY
+SWEDEN
+44
+42
+3210
+39 16
+34
+50
+51
+45
+43 41
+38
+48
+18
+17
+3
+2
+1
+4
+5
+6
+7
+8
+15
+21
+26
+20
+22
+23
+24
+27
+46
+47
+49
+19
+36
+29, 30, 40
+28
+31
+11,13, 14, 33, 35,
+12
+9
+37
+25
+Figure 2. Map of southern Scandinavia showing the distribution of the finds. Numbers
+refer to specimen numbers in Table 2.
+in Figure 1 and the geographical distribution of the dated whales is shown in
+Figure 2.
+The dates fall into three well-defined groups. The oldest group (five dates) range
+from ca. 33.0–21.0 cal. kyr BP corresponding to a period during the Weichselian
+with prevailing interstadial conditions beginning in the late Middle Weichselian
+and ending with the Last Glacial Maximum (LGM) (Fig. 3a). The next group
+(18 dates) covers the deglaciation period between the LGM and the Pleis-
+tocene/Holocene boundary, ca. 17.0–11.7 cal. kyr BP (Fig. 3c). Finally, the youngest
+group (24 dates) range between ca. 8.0 cal. kyr BP and the present time corresponding
+to the time after the Early Atlantic transgression and the formation of the Danish
+islands (Fig. 4). In terms of climate and marine environments the three periods
+AARIS-SØRENSEN ET AL.: SUBFOSSIL WHALE BONES 265
+Figure 3. Palaeogeographical reconstructions of southern Scandinavia during the late Mid-
+dle Weichselian and the Late Weichselian. (a) interstadial, ca. 33–31 cal. kyr BP. (b) the Last
+Glacial Maximum ca. 23–21 cal. kyr BP. (c) final deglaciation, ca. 16–14.5 cal. kyr BP. In a
+and c: A palaeo-Kattegat-Skagerrak with drift ice and icebergs south of the Norwegian ice
+front is connected with a Baltic Ice Lake. Gray shaded land areas are dominated by dead-ice.
+(After Houmark-Nielsen et al. 2005). This figure is available in color online.
+correspond to the arctic-subarctic Older Yoldia Sea, the arctic-subarctic-boreal
+Younger Yoldia Sea and the boreal-lucitanian Littorina/Tapes Sea.
+A majority of the dated specimens belonging to the two oldest groups, includ-
+ing a single nonfinite date of >38 kyr BP (K-7103), were found in northern
+Jylland and Bohusl¨an on the Swedish west coast. This is in agreement with the
+glacial history and palaeogeography as outlined by recent geological studies (see e.g.,
+266 MARINE MAMMAL SCIENCE, VOL. 26, NO. 2, 2010
+Figure 3. (Continued)
+Houmark-Nielsen and Kjær 2003, Houmark-Nielsen et al. 2005), which implies
+a geographical distribution of the Older and Younger Yoldia Sea corresponding to
+the present Skagerrak and Northern Kattegat (Fig. 3a, c) and occasionally reaching
+as far south as Northern Sjælland (Bahnson et al. 1974, Petersen and Buch 1974).
+In accordance with this the members of the youngest group have been found much
+more dispersed and further south following the later emerging coast lines along the
+inner Danish waters (Fig. 4).
+The geologically and archaeologically dated specimens listed in Table 1
+support the results obtained through the radiocarbon dating. The re-
+mains of Delphinus delphis, Stenella sp., and P. phocoena have, however, been
+solely archaeologically dated which place the two dolphins within the Late
+AARIS-SØRENSEN ET AL.: SUBFOSSIL WHALE BONES 267
+Figure 3. (Continued)
+Atlantic–Early Subboreal (Late Ertebølle–Early Neolithic Cultures) and the har-
+bor porpoise between the Early Atlantic (Kongemose Culture) and the present time.
+The latter is in agreement with the conclusion by Sommer et al. (2008) that places
+the first immigration of the harbor porpoise into the Baltic Sea at 9.0–7.5 cal. kyr
+BP. A much earlier occurrence is, however, known from the Kattegat area where a
+specimen found on the Swedish west coast at Kyvik, Halland (Lepiksaar 1966) has
+been radiocarbon dated to ca. 12.9–12.0 cal. kyr BP (Fred´en 1984) (Table 3). This
+indicates the presence of the harbor porpoise in the Skagerrak/Kattegat area since the
+late glacial followed by an expansion into the inner Danish waters and the Baltic Sea
+in the wake of the early Atlantic transgression. Table 3 summarizes the chronolog-
+ical distribution of the 15 whale species in the Danish/southern Scandinavian area
+268 MARINE MAMMAL SCIENCE, VOL. 26, NO. 2, 2010
+Figure 4. Palaeogeographical map of southern Scandinavia around 6.5 cal. kyr BP. Atlantic
+transgressions have created the Danish islands and inner waters (drawing by Knud Rosenlund).
+This figure is available in color online.
+based primarily on this study, but supplemented with earlier radiocarbon dated and
+archaeologically dated specimens available in the ZMUC files and the literature. In
+comparison with the recent cetacean fauna the following differences and similarities
+should be noted.
+The waters around the present Denmark include part of the North Sea, Skagerrak,
+Kattegat, the Belt Sea, and the Øresund as well as the westernmost Baltic proper
+and span in depth from 0 to several hundred meters.
+Twenty-two whale species have been documented from the recent Danish waters
+alone, and two additional species are known from adjacent Swedish waters, that is,
+AARIS-SØRENSEN ET AL.: SUBFOSSIL WHALE BONES 269
+Cuvier’s beaked whale (Ziphius cavirostris) and narwhale (Monodon monoceros), see
+Table 3. Among these there are two native species, the harbor porpoise (P. pho-
+coena) and the white-beaked dolphin (L.albirostris); four common species, the Atlantic
+white-sided dolphin (Lagenorhynchus acutus), the long-finned pilot whale (Globicehala
+melas), the killer whale (O. orca), and the common minke whale (Balaenoptera acu-
+torostrata); and 18 more or less frequently occurring stragglers from waters either
+differing in temperature, in water depth, or both. Their occurrence is linked to
+hydrographical phenomena such as saltwater intrusions and fluctuations in surface
+water temperature (Kinze et al. 2001).
+The two native species and two of the common species (killer whale and minke
+whale) are also among the most frequently found subfossil species documenting their
+long presence in southern Scandinavia (Table 1). The two other common species, the
+Atlantic white-sided dolphin and the long-finned pilot whale are, however, totally
+absent in the subfossil record. This is probably due to the fact that they are both
+offshore species normally found in deeper waters in the Danish sector of the North Sea
+and Skagerrak. A low number of strandings along the coast of the inner Danish waters
+in the past should therefore be expected. Only two incidents of mass strandings are
+known from the inner Danish waters during the last century, one of the white-sided
+dolphin in Roskilde Fjord in 1942 and one of the pilot whale in Vejle Fjord in 1954
+(Kinze 1995).
+Among the baleen whales the list comprises four species that do possess the capacity
+to dwell in coastal waters. These are, besides the already mentioned common minke
+whale (B. acutorostrata), the fin whale (B. physalus), the humpback whale (Megaptera
+novaeangliae), and the North Atlantic right whale (E. glacialis). The subfossil record
+suggests that the latter has visited the Danish waters ever since the Weichselian
+and probably have had a more common occurrence before the severe exploitation
+during historical times. The other right whale, the bowhead (B. mysticetus), has also
+almost been wiped out by commercial whaling in historical times and has never
+been recorded in the local national stranding lists (Kinze 1995, 2006b, Kinze et al.
+1998, 2001). On the other hand it is well represented in the subfossil record where
+the 16 specimens from Danish collections can be supplemented with 30 finds from
+the Swedish west coast (Fred´en 1984) of which four have been included in the
+present dating program. The majority of the dates fall within the arctic-subarctic
+late Glacial period that is in accordance with the modern biology of this circum-arctic
+whale which is seldom sighted south of 45◦N. A few young dates ranging between
+ca. 1.5 and 5.0 cal. kyr BP nevertheless indicate that the bowhead was an occasional
+visitor to southern Scandinavian waters during post-glacial times prior to modern
+exploitation.
+Another witness of the full glacial/late glacial environment is the beluga whale
+(D. leucas). Today this arctic coastal species occasionally conducts extralimited mi-
+grations into more southerly waters including the inner Danish waters (Kinze 2007).
+This is in accordance with the subfossil record that only reveals a single Danish find
+from the boreal-lucitanian Littorina/Tapes Sea but several Swedish and Danish finds
+from the arctic-subarctic Yoldia Sea.
+Three warm temperate to tropical dolphin species (D. delphis, Stenella sp., and
+T. truncatus) indicate much warmer sea water temperatures during earlier peri-
+ods. They have all been found in archaeological contexts and hereby dated to
+the Late Atlantic–Early Subboreal period corresponding to the postglacial climatic
+optimum.
+270 MARINE MAMMAL SCIENCE, VOL. 26, NO. 2, 2010
+Finally it should be noted that the northern bottlenose (Hyperoodon ampullatus)
+as well as the sperm whale (P. macrocephalus) both are strictly oceanic species that
+get beached accidentally either on shallow tidal flats or in coastal areas of complex
+hydrography. This seems to have happened in the past as well.
+Trace Element Concentrations
+The trace element concentrations determined in this work are listed in Table 4.
+The first question to be raised is whether bone diagenesis has occurred on a large
+scale. If diagenesis has occurred in a systematic way over a scale of hundreds or
+thousands of years it is likely that it would lead to progressive loss of Ca with
+increasing age. However, no correlation is seen between Ca and age, the correlation
+coefficient is r2 = 0.0013. Another conceivable way diagenesis might be manifested
+is by progressive loss of collagen with increasing age. No correlation is seen in this
+case either, the correlation coefficient is calculated to be r2 = 0.0216. According
+to these two criteria we see no signs of long-term diagenesis. However, it is still
+possible that diagenesis has occurred on a shorter time scale not reflected in these
+criteria. If this has been the case it is likely that the diagenetic processes encompass
+single elements related to the marine environment, for example, as demonstrated for
+As in Mesolithic human and animal bones buried in an area later covered by the sea
+(Rasmussen et al. 2009). Guided by the findings of Rasmussen et al. (2009) we find
+it likely that a variation in the As concentration in the bones could be ascribed to
+processes involving decomposition of kelp or other marine plants with a high content
+of As, and therefore variations in As is not considered worthwhile to look at in this
+connection.
+Trueman et al. (2004) showed massive diagenesis in bones deposited on the surface
+of the savannah in Africa, but these alterations were ascribed to the osmotic raise of
+ground water from the soil, through the bone and followed by evaporation from the
+bone, thus leading to an ever increasing concentration of the trace elements in the
+bone. Trueman et al. (2004) also showed collagen to disappear within decades after
+deposition on the surface. However, our scenario is radically different, as the whale
+bones were deposited on the seafloor in the somewhat anoxic, cold conditions of the
+inner Danish waters. We observed only four cases out of 43 where complete collagen
+removal have taken place. So there is no reason to think that the results of Trueman
+et al. (2004) will apply to our samples. We have also shown that Hg is probably not
+mobilized in human bones buried in Danish soil (Rasmussen et al. 2008) lending
+credence to the assumption that bones are not always subjected to diagenesis.
+Even if it could be assumed that diagenesis has not occurred to any large extent, an
+invasion of terrigenic clastic material has almost certainly occurred. Small sediment
+particles from the surrounding sea bed have undoubtedly invaded the pore spaces
+in the porous and less competent parts of the bone. Even though great care has
+been taken to decontaminate the surface of the bone during sampling, it is most
+likely that soil particles at least to a minor degree are part of the samples analyzed.
+Examples of elements that must be considered to originate mainly from invasion of
+terrigenic clastic material are the REE (Rare Earth Elements), eight of which are
+listed in Table 4, as well as Sc, Ta, and Th. Consequently, we have also eliminated
+these elements from use in this study.
+Even if diagenesis might occur for some elements, it is, however, also possible
+that the dietary habits are reflected in the distribution of some of the trace elements.
+AARIS-SØRENSEN ET AL.: SUBFOSSIL WHALE BONES 271
+Table 4. Trace element concentrations. “nd” means not determined. The collagen content is determined by weighing the original bone sample and
+weighing the dried collagen produced prior to radiocarbon dating. The uncertainties of the INAA results are generally between 10% and 15%.
+14 C-age Collagen
+Lab no. n Sample location K no. BP 1950 Error ± 1  13 C wt%
+KLR-1699 6 Hindsgavl K-6765 110 50 −11.8 15.6
+KLR-1700 17 Vust K-6766 3250 95 −11.4 10.8
+KLR-1701 26 Sjællands Odde, K-6767 6530 110 −13.0 10.6
+KLR-1702 46 Stauerby K-6768 17,830 590 −17.9 10.5
+KLR-1703 nd Aalborg K-6769 nd nd nd 1.7
+KLR-1704 18 Nordby hede, Samsø K-6770 3540 90 −15.4 18.5
+KLR-1705 48 Lindholm, Aalborg K-6771 29,320 1240 −13.0 9.0
+KLR-1706 7 Søborg ruin K-6795 705 75 −14.6 5.1
+KLR-1707 34 Bovbæk, Uggerby, Hjørring K-6796 11,780 170 −14.3 13.5
+KLR-1708 24 Tastum sø, Viborg K-6797 5160 90 −14.4 4.8
+KLR-1709 5 Kolding fjord K-6798 50 70 −13.1 12.3
+KLR-1710 4 Grærup, Oksbøl K-6799 25 70 −11.5 11.2
+KLR-1711 27 Lystrup enge, Elev sogn K-6800 6800 115 −11.8 11.5
+KLR-1712 44 Sdr. Vr˚a, Hjørring K-6801 13,670 205 −14.9 9.6
+KLR-1713 43 Gølstrup teglv. Hjørring K-6802 12,950 195 −15.0 7.5
+KLR-1714 23 Holme enge, Randers K-6803 5130 100 −14.7 15.8
+KLR-1715 8 Poulsker, Bornholm K-6804 1015 70 −14.8 6.5
+Continued
+272 MARINE MAMMAL SCIENCE, VOL. 26, NO. 2, 2010
+Table 4. (Continued)
+Na Ca Sc Cr Fe Co Zn
+Lab no. g/g g/g g/g g/g g/g g/g g/g
+KLR-1699 5,040 235,000 0.11 0.48 231 0.08 306
+KLR-1700 5,490 197,000 1.03 7.54 3,420 0.85 330
+KLR-1701 5,170 276,000 0.34 1.23 371 0.17 286
+KLR-1702 4,140 219,000 1.43 4.40 9280 2.91 107
+KLR-1703 4,570 257,000 1.27 18.10 33,500 50.50 169
+KLR-1704 3,600 265,000 2.11 5.50 12,100 1.41 172
+KLR-1705 4,690 266,000 0.48 3.61 9,540 0.47 87
+KLR-1706 4,610 200,000 2.06 10.70 12,800 2.93 124
+KLR-1707 410 231,000 0.05 0.10 1,190 0.02 13
+KLR-1708 6,280 208,000 0.97 10.60 19,000 0.71 70
+KLR-1709 8,370 196,000 1.43 10.90 6,970 1.75 265
+KLR-1710 3,450 282,000 0.02 nd 108 0.07 481
+KLR-1711 5,710 231,000 1.31 5.16 3,630 2.14 221
+KLR-1712 4,360 211,000 5.84 8.31 14,900 1.87 52
+KLR-1713 4,550 257,000 1.25 4.85 17,800 17.80 82
+KLR-1714 338 252,000 0.10 0.40 3,380 0.11 12
+KLR-1715 2,170 332,000 0.24 1.88 875 0.37 158
+AARIS-SØRENSEN ET AL.: SUBFOSSIL WHALE BONES 273
+As Br Rb Sr Sb Cs Ba
+Lab no. g/g g/g g/g g/g g/g g/g g/g
+KLR-1699 1.54 6.1 0.4 614 0.090 nd 77
+KLR-1700 2.39 12.8 12.5 256 0.231 0.29 119
+KLR-1701 2.66 9.4 nd 1,030 0.290 nd 252
+KLR-1702 13.80 33.7 11.6 418 0.520 0.37 337
+KLR-1703 217.00 15.7 9.2 1,260 3.520 0.32 1,260
+KLR-1704 15.00 29.3 nd 883 1.190 nd 279
+KLR-1705 6.91 1.4 3.8 794 0.045 0.25 88
+KLR-1706 5.89 28.7 24.0 1,920 0.356 0.67 362
+KLR-1707 0.17 0.2 0.1 38 0.003 nd 12
+KLR-1708 18.70 7.0 9.4 633 0.714 0.13 325
+KLR-1709 6.46 61.2 12.6 900 0.398 0.55 126
+KLR-1710 nd 16.8 nd 231 0.028 nd nd
+KLR-1711 2.47 6.6 8.1 801 0.239 0.18 286
+KLR-1712 16.30 nd 16.3 509 0.222 0.51 342
+KLR-1713 207.00 5.5 10.0 533 0.588 0.31 1,460
+KLR-1714 5.61 1.5 nd 305 0.040 nd 51
+KLR-1715 2.33 21.1 4.5 503 0.097 0.17 27
+Continued
+274 MARINE MAMMAL SCIENCE, VOL. 26, NO. 2, 2010
+Table 4. (Continued)
+La Ce Nd Sm Eu Tb Yb
+Lab no. g/g g/g g/g g/g g/g g/g g/g
+KLR-1699 1.1 nd nd 0.130 0.034 0.023 0.053
+KLR-1700 10.3 9.1 6.4 0.845 0.235 0.210 0.839
+KLR-1701 13.0 3.5 4.0 nd 0.053 0.064 0.312
+KLR-1702 25.1 12.9 9.5 0.696 0.270 0.241 1.020
+KLR-1703 188.0 49.5 36.0 nd 0.162 0.144 0.498
+KLR-1704 27.8 42.6 35.7 5.140 1.130 1.070 2.920
+KLR-1705 1.8 2.4 2.3 0.218 0.045 0.029 0.136
+KLR-1706 8.2 17.0 8.4 1.410 0.275 0.220 0.884
+KLR-1707 0.3 0.5 0.2 0.060 0.012 0.012 0.066
+KLR-1708 44.6 13.9 8.5 0.138 0.158 0.140 0.866
+KLR-1709 13.4 10.7 5.0 0.703 0.171 0.137 0.286
+KLR-1710 0.6 nd nd nd 0.006 nd 0.133
+KLR-1711 42.6 18.4 9.5 0.790 0.263 0.259 1.130
+KLR-1712 30.2 59.5 29.9 5.340 1.100 1.230 5.860
+KLR-1713 852.0 50.7 37.2 nd 0.118 0.104 0.474
+KLR-1714 7.5 11.8 4.7 0.565 0.113 0.114 0.323
+KLR-1715 0.8 nd nd 0.146 0.026 0.016 nd
+AARIS-SØRENSEN ET AL.: SUBFOSSIL WHALE BONES 275
+Lu Hf Ta Th
+Lab no. g/g g/g g/g g/g
+KLR-1699 nd nd nd 0.040
+KLR-1700 0.114 1.860 0.1090 0.880
+KLR-1701 0.058 0.056 nd 0.100
+KLR-1702 0.147 0.585 0.0741 0.755
+KLR-1703 0.074 2.260 0.1690 0.969
+KLR-1704 0.420 0.229 nd 1.610
+KLR-1705 nd 0.287 0.0231 0.393
+KLR-1706 0.111 2.040 0.1430 1.770
+KLR-1707 0.009 0.009 0.0019 0.017
+KLR-1708 0.122 3.980 0.1610 0.791
+KLR-1709 0.028 1.400 0.1140 0.971
+KLR-1710 nd 0.318 nd 0.047
+KLR-1711 0.138 1.980 0.0766 0.992
+KLR-1712 0.951 3.550 0.1680 1.620
+KLR-1713 0.066 0.597 0.0751 0.629
+KLR-1714 0.044 0.006 nd 0.076
+KLR-1715 nd 0.223 0.0253 0.226
+276 MARINE MAMMAL SCIENCE, VOL. 26, NO. 2, 2010
+Table 5. Preferred diets of the specimens subjected to trace element analysis. The numbers
+in the first column are identical to specimen numbers in the first column of Table 2.
+Diet known
+No. Species ID Species group literature
+7 M. novaeangliae Søborg Ruin,
+Frederiksborg
+Krill/fish
+8 Balaenoptera sp. Poulsker,
+Bornholm
+18 B. acutorostrata Nordby Hede,
+Samsø
+Krill/fish
+23 B. acutorostrata Holmeenge I,
+Randers
+Krill/fish
+48 B. acutorostrata Lindholm,
+Aalborg
+Krill/fish
+24 B. musculus, Tastum Sø, Viborg Krill
+46 E. glacialis, Staurby Skov,
+Odense
+Copepods
+43 B. mysticetus/ E.glacialis,
+Gølstrup Teglværksgrav
+Hjørring
+Copepods
+34 B. mysticetus, Bovbæk, Hjørring Copepods
+44 B. mysticetus, Sønder Vr˚a,
+Hjørring
+Copepods
+K6769 B. mysticetus, Aalborg Copepods
+6 T. truncatus, Hindsgaul, Odense Fish/squid
+26 L. albirostris, Gnibben, Sjællands
+Odde
+Fish/squid
+4 O. orca, Grærup, Ribe Fish/mammals
+17 O. orca, Vust, Thisted Fish/mammals
+27 O. orca, Kystrup Enge, ˚Arhus Fish/mammals
+5 H. ampullatus, Kolding Fjord Squid
+In order to investigate this, we have listed the major food preference for the whale
+species in this study in Table 5.
+The food preferences do indeed show up, particularly in Fe, Cr, and Zn. Based on
+Zn vs. Fe plot (Fig. 5) there is a clear distinction between crayfish eaters on one hand
+and fish and squid eaters on the other. A similar if not quite so clear division is seen
+for Cr vs. Fe (Fig. 6). This rather clear distinction or grouping could be caused by a
+difference in the amount of, or the chemistry of, the invasive sedimentary particles,
+as described above. If the difference arose this way, it can either be due to a difference
+in bone porosity upon degradation of the organic parts of the different species, or it
+could be caused by a preference of special types of seabed where one species chooses to
+die. As an alternative explanation, it is possible that genetic differences between the
+whale species are responsible for both a different dietary preference and a different
+ability to incorporate certain trace elements into the skeletal organ.
+Finally, it is possible that the trace element composition pattern is transferred in a
+uniform way from the food items to the bones of the whales. In this simple scenario the
+trace element chemistry of the bones reflects whatever the whales forage on. With the
+present data, we are not able to distinguish between these alternatives. In addition,
+AARIS-SØRENSEN ET AL.: SUBFOSSIL WHALE BONES 277
+Figure 5. Zink vs. Fe, both in ppm (g/g). The color code for the food preference is: red
+(or horizontal bars) = crayfish; green (or dots) = fish; yellow (or vertical bars) = squid; blue
+(or filled black) = mammals. This figure is available in color online.
+we have not shown where the trace elements are situated—in the bone carbonate
+fraction, in the organic fractions, the nervous tissue or the fat, or in terrigenic clastic
+sediment grains.
+Irrespective of the mechanism responsible the distribution of the trace elements
+Fe, Cr, and Zn seems none the less to be a way to distinguish between crayfish eaters
+from fish/squid eaters. It should therefore be possible to use these divisions in the
+elemental cross plots as a help in determining species. As an example, it can be seen
+from Figures 5 and 6 that specimen number 8 from Poulsker, Bornholm, which by
+morphology has been determined and registered in the collection as Balaenoptera sp.,
+is likely to have been a fish/squid eater. This challenges the identification and makes
+it worth considering whether this fragmented vertebral body in fact belongs to a
+sperm whale.
+Conclusions
+Based on our investigations we draw the following conclusions:
+1. The subfossil whale record of southern Scandinavia comprises at least 15
+different species. Except for the bowhead whale (B. mysticetus) they are all
+documented in the modern fauna as well.
+2. The modern fauna counts 24 species of which only two, the harbor porpoise (P.
+phocoena) and the white-beaked dolphin (L. albirostris) are native species to the
+area. Another four species, the Atlantic white-sided dolphin (L. acutus),
+the long-finned pilot whale (G. melas), the killer whale (O. orca) and the
+common minke whale (B. acutorostrata) are common in southern Scandin-
+avian waters while the rest are more or less frequently occurring stragglers.
+278 MARINE MAMMAL SCIENCE, VOL. 26, NO. 2, 2010
+Figure 6. Chromium vs. Fe, both in ppm (g/g). The color code for the food preference is:
+red (or horizontal bars) = crayfish; green (or dots) = fish; yellow (or vertical bars) = squid;
+blue (or filled black) = mammals. This figure is available in color online.
+3. The harbor porpoise, the white-beaked dolphin, the killer whale and the
+common minke whale are also among the most frequently found subfossil
+species while the two offshore species, the white-sided dolphin and the pilot
+whale, are absent from the subfossil record as they probably stranded very
+rarely in the inner Danish waters.
+4. The two right whales, the bowhead (B. mysticetus) and the North Atlantic
+right whale (E. glacialis), seem to have been occasional visitors to the southern
+Scandinavian waters prior to the severe exploitation during historical times.
+5. The large-scale climatic events during the last glacial-interglacial cycle are
+reflected in the whale fauna. Two species, the north Atlantic/arctic-subarctic
+beluga whale (D. leucas) and the minke whale (B. acutorostrata), were recorded
+from the time prior to the LGM, (>38.0–ca. 21.0 kyr BP), eight species from
+the deglaciation period between LGM and the Pleistocene/Holocene bound-
+ary (ca. 17.0–11.7 cal. kyr BP) including the circum-arctic bowhead whale
+(B. mysticetus) and fifteen species, including warm temperate/tropical dolphins,
+during the Holocene from ca. 8.0 cal. kyr BP and onward.
+6. The whale remains belonging to the two oldest groups have all been found
+in northern Jylland and Bohusl¨an on the Swedish west coast. This is in ac-
+cordance with the palaeogeographical settings presented by recent geological
+investigations and it seems that a southern Scandinavian whale fauna existed
+during the Weichselian glaciation whenever interstadial conditions created a
+palaeo-Skagerrak-Kattegat (Older Yoldia Sea and Younger Yoldia Sea). Re-
+mains belonging to the youngest group have been found much more dispersed
+and further south in accordance with the creation of the inner Danish waters
+by the transgressing Littorina/Tapes Sea.
+7. Trace element cross plots exhibit distinct differences between certain whale
+species. With cross plots of the element concentrations of Fe, Zn, and Cr, it
+AARIS-SØRENSEN ET AL.: SUBFOSSIL WHALE BONES 279
+is possible to distinguish crayfish eaters from fish/squid eaters. This can be
+used as a novel and independent method to aid the determination to species
+of whale remains.
+ACKNOWLEDGMENTS
+Knud Rosenlund and Jeppe Møhl are thanked for help during the collecting and sampling
+of the many specimens, the late Karen Skov Jensen for technical assistance in the radiocarbon
+laboratory, and Raymond Gwozdz for performing the INAA analyses. We are grateful to the
+curators, Uno Svensson at the G¨oteborgs Naturhistoriska Museum and Harald Benke at the
+Deutsches Meeresmuseum, Stralsund, for access to the whale collections of the two museums.
+LITERATURE CITED
+Aaris-Sørensen, K. 1998. Danmarks forhistoriske Dyreverden [The prehistoric fauna of Den-
+mark]. Gyldendal, Copenhagen, Denmark.
+Aaris-Sørensen, K. 2007. Fra istid til nutid (with an English summary: Late and Post Glacial
+mammals in Denmark). Pages 312–321 in H. J. Baagøe and T. S. Jensen, eds. Dansk
+Pattedyr Atlas [Atlas of Danish mammals]. Gyldendal, Copenhagen, Denmark.
+Aurivillius, C. W. S. 1888. Der Wal Swedenborg’s nach einem Funde im Diluvium Schwedens
+beurteilt. Kungliga Svenska Vetenskapsakademins Handlingar 23(1). 58 pp.
+Bahnson, H., K. S. Petersen, P. B. Konradi and K. L. Knudsen 1974. Stratigraphy of Qua-
+ternary deposits in the Skærumhede II boring: Lithology, molluscs and foraminifera.
+Danmarks geologiske Undersøgelser, ˚Arbog 1973:27–62.
+Degerbøl, M. 1933. Danmarks Pattedyr i Fortiden i sammenligning med recente Former
+[The prehistoric mammals of Denmark compared with recent forms]. Videnskabelige
+Meddelelser fra Dansk naturhistorisk Forening 96:357–641.
+Fred´en, C. 1975. Subfossil finds of arctic whales and seals in Sweden. Sveriges Geologiska
+Unders¨okning C 710. 62 pp.
+Fred´en, C. 1984. Faunahistoriska notiser om n˚agra av Naturhistoriska Mus´eets daterade
+subfossila fynd [Faunal history notes on some of the dated subfossil finds in the Natural
+History Museum of G¨oteborg]. G¨oteborgs Naturhistoriska Museum ˚Arstryck 1984:31–
+45.
+Hansen, J. M. 1977. Sedimentary history of the island Læsø, Denmark. Bulletin of the
+Geological Society of Denmark 26 (3–4):217–236.
+Houmark-Nielsen, M., and K. H. Kjær. 2003. Southwest Scandinavia, 40–15 kyr BP:
+Palaeogeography and environmental change. Journal of Quaternary Science 18:769–
+786.
+Houmark-Nielsen, M., J. Kr ¨uger and K. H. Kjær. 2005. De seneste 150.000 ˚ar i Danmark.
+Istidslandskabet og naturens udvikling [The last 150,000 years in Denmark. The ice
+age landscape and the evolution of nature]. Geoviden–Geologi og Geografi 2:1–19.
+Kinze, C. C. 1995. Danish whale records 1575–1991 (Mammalia, Cetacea). Review of whale
+specimens stranded, directly or incidentally caught along the Danish coasts. Steenstrupia
+21:155–196.
+Kinze, C. C., S. Tougaard and H. J. Baagøe. 1998. Danske hvalfund i perioden 1992–1997
+[Danish whale records 1992–1997]. Flora og Fauna 104:41–53.
+Kinze, C. C. 2006a. Hvaler i Kolding Fjord [Whales in Kolding Fiord]. Koldingbogen
+2006:171–181.
+Kinze, C. C. 2006b. Ny hval for Danmark: Brydeshval (Balaenoptera brydei) stranded ved
+Kyndby i Isefjord [A new whale in Denmark: Bryde’s whale (Balaenoptera brydei) stranded
+at Kyndby in Isefiord]. Flora og Fauna 112:61–66.
+Kinze, C. C. 2007. Hvaler [Whales]. Pages 264–311 in H. J. Baagøe and T. S. Jensen, eds.
+Dansk Pattedyr Atlas [Atlas of Danish mammals]. Gyldendal, Copenhagen, Denmark.
+280 MARINE MAMMAL SCIENCE, VOL. 26, NO. 2, 2010
+Kinze, C.C., H. J. Baagøe and S. Tougaard. 2001. Fund af eksotiske hvaler og delfiner I
+Danmark: Hyppighed og herkomst [Finds of exotic whales and dolphins in Denmark:
+Frequency and area of origin]. Flora og Fauna 107:107–116.
+Lepiksaar, J. 1966. Zahnwalfunde in Schweden. Bijdragen tot de Dierkunde 36:3–16.
+Lepiksaar, J. 1986. The Holocene History of Theriofauna in Fennoscandia and Baltic Coun-
+tries. Striae 24:51–70.
+Liljeborg, W. 1861. ¨Ofversigt af de inom Skandinavien (Sverige och Norrige) antr¨affade
+Hvalartade D¨aggdjur (Cetacea) [Review of whale species (Cetacea) occurring in Scandi-
+navia (Sweden and Norway)]. Upsala Universitets ˚Arsskrift. 118 pp.
+Liljeborg, W. 1867. On two subfossil whales discovered in Sweden. Nova Acta of the Royal
+Society of Sciences at Upsala, Series III, Volume VI. 48 pp.
+Liljeborg, W. 1874. Sveriges och Norges D¨aggdjur [The mammals of Sweden and Norway].
+Upsala, Sweden.
+Liljegren, R. 1975. Subfossila vertebratfynd fr˚an Sk˚ane [Subfossil vertebrate remains from
+Sk˚ane]. Report 8, Department of Quaternary Geology, University of Lund, Lund,
+Sweden. 187 pp.
+Liljegren, R., and P. Lager˚as. 1993. Fr˚an mammutst¨app till kohage. Djurens historia i Sverige
+[From mammoth steppe to cultural steppe. The history of animals in Sweden]. Wallin
+& Dalholm Boktryckeri AB, Lund, Sweden.
+Møhl, U. 1970. Fangstdyrene ved de danske strande [Seal and whale hunting on the Danish
+coasts]. KUML. ˚Arbog for Jysk arkæologisk Selskab 1970:297–329.
+Nilsson, S. 1847. Skandinaviens Fauna I. D¨aggdjuren [The fauna of Scandinavia I. The
+mammals]. C. W. K. Gleerups F¨orlag, 2nd edition. Lund, Sweden.
+Nybelin, O. 1942. Gammalt och nytt om Swedenborgsvalen [About the Swedenborg whale].
+Meddelanden fr˚an G¨oteborgs Musei Zoologiska Avdeling 101:13–28.
+Nybelin, O. 1946. Gr¨onlandsvalen fr˚an Guldheden och Swedenborgsvalen fr˚an Landerigatan
+[The Greenland whale from Guldheden and the Swedenborg whale from Landerigatan].
+G¨oteborgs Museii ˚Arstryck:103–115.
+Petersen, K. S. 2004. Late Quaternary environmental changes recorded in the Danish ma-
+rine molluscan faunas. Geological Survey of Denmark and Greenland Bulletin 3:1–
+268.
+Petersen, K. S., and A. Buch. 1974. Dislocated tills with Paleogene and Pleistocene marine
+beds. Tectonics, lithology, macro- and microfossils. Danmarks geologiske Undersøgelser,
+˚arbog 1973:63–91.
+Rasmussen, K. L. 2000. 14C-dateringer, København 1999 [Radiocarbon datings, Copen-
+hagen 1999]. Arkæologiske udgravninger i Danmark 1999, Det Arkæologiske Nævn,
+København 314–325.
+Rasmussen, K. L., J. L. Boldsen, H. K. Kristensen, L. Skytte, K. L. Hansen, L. Mølholm,
+P. Grootes and M.-J. Nadeau. 2008. Mercury levels in Danish Medieval human bones.
+Journal of Archaeological Science 35:2295–2306.
+Rasmussen, K. L., P. Bjerregaard, P. H. Gommesen and O. L. Jensen. 2009. Arsenic in Danish
+and Swedish Mesolithic and Neolithic human bones—diet or diagenesis? Journal of
+Archaeological Science 36:2826–2834.
+Reimer, P. J., M. G. L. Baillie, E. Bard, A. Bayliss, J. W. Beck, C. Bertrand, P. G. Blackwell,
+C. E. Buck, G. Burr, K. B. Cutler, P. E. Damon, R. L. Edwards, R. G. Fairbanks, M.
+Friedrich, T. P. Guilderson, K. A. Hughen, B. Kromer, F. G. McCormac, S. Manning,
+C. Bronk Ramsey, R. W. Reimer, S. Remmele, J. R. Southon, M. Stuiver, S. Talamo,
+F. W. Taylor, J. Van Der Plicht and C. E. Weyhenmeyer. 2004. IntCal04 terrestrial
+radiocarbon age calibration, 0–26 cal kyr BP. Radiocarbon 46:1029–1058.
+Sommer, R. S., J. Pasold and U. Schm¨olcke. 2008. Post-Glacial immigration of the harbour
+porpoise (Phocoena phocoena) into the Baltic Sea. Boreas 37:458–464.
+Stenstrop, G. 1994. En hval fra stenalderhavet [A whale from the stone age sea]. Geologisk
+Nyt 3:6–8.
+Tauber, P. 1878–1892. Zoologica Danica. 1. Bind. Pattedyr. Copenhagen, Denmark.
+AARIS-SØRENSEN ET AL.: SUBFOSSIL WHALE BONES 281
+Trolle-Lassen, T. 1985. En zooarkæologisk analyse af Ertebøllepladsen Tybrind Vig, primært
+baseret p˚a knogler af pelsdyr og kronhjort [A zooarchaeological analysis of the bone
+material from the Ertebølle site of Tybrind Vig]. M.Sc. thesis, University of Aarhus,
+Aarhus, Denmark. 168 pp.
+Trueman, C. N., A. K. Behrensmeyer, N. Tuross and S. Weiner. 2004. Mineralogical and com-
+positional changes in bones exposed on soil surfaces in Amboseli National Park, Kenya:
+Diagenetic mechanisms and the role of sediment pore fluids. Journal of Archaeological
+Science 31:721–739.
+Winge, H. 1899. Om nogle Pattedyr i Danmark [About some mammals in Denmark].
+Videnskabelige Meddelelser fra Dansk naturhistorisk Forening 51:283–316.
+Winge, H. 1904. Om jordfundne Pattedyr fra Danmark [About subfossil remains of mammals
+from Denmark]. Meddelelser fra Dansk naturhistorisk Forening 56:193–304.
+Received: 28 February 2009
+Accepted: 25 July 2009

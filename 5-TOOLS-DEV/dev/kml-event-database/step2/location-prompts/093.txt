@@ -1,0 +1,152 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Caral Abandonment
+
+Basic location of event: Peru
+
+Specific data/information/context related to event: Caral
+
+The Sacred City of Caral-Supe, or simply Caral, is an archaeological site in Peru where the remains of the main city of the Caral civilization are found. It is located in the Supe valley of Peru, near the current town of Caral, 182 kilometers north of Lima, 23 km from the coast and 350 metres above sea level. It is attributed an antiquity of 5,000 years and it is considered the oldest city in the Americas and one of the oldest in the world. No other site has been found with such a diversity of monumental buildings or different ceremonial and administrative functions in the Americas as early as Caral. It has been declared a Humanity Cultural Heritage site by UNESCO.
+
+The Caral culture developed between 3000 and 1800 B.C (Late Archaic and Lower Formative periods). In America, it is the oldest of the pre-Hispanic civilizations, developing 1,500 years earlier than the Olmec civilization, the first Mesoamerican complex society.
+
+Closely related to the city of Caral was an early fishing city, Áspero or El Áspero, located on the coast near the mouth of the Supe River. There, remains of human sacrifices (two children and a newborn) have been found. In 2016, the remains were found of a woman, who presumably belonged to the local elite of 4,500 years ago.
+
+History
+
+Caral was inhabited between approximately 26th century BC and 20th century BC, and the site includes an area of more than 60 hectares (150 acres). Caral has been described by its excavators as the oldest urban center in the Americas. This claim has been challenged by the discovery of other ancient sites nearby, such as Bandurria, Peru. Accommodating more than 3,000 inhabitants, Caral is the best studied and one of the largest sites known of the Norte Chico civilization.
+
+The city was declared a UNESCO World Heritage Site in 2009. In early 2021, tensions arose between squatters claiming land rights and archaeologists researching the site, as housing construction encroached on the site.
+
+Archaeological findings
+
+Paul Kosok discovered Caral in 1948. The site received little attention at the time because it appeared to lack many of the typical artifacts that were sought at archaeological sites throughout the Andes. In 1975, the Peruvian architect Carlos Williams made a detailed record of most of the archaeological sites of the valley of Supe, among which he recorded Caral. Based on what he observed in the region, he made some observations about the development of architecture in the Andes. Ruth Shady further explored this 4,000- to 4,600-year-old city in the Peruvian desert, with its elaborate complex of temples, an amphitheater, and ordinary houses.
+The urban complex is spread out over 150 hectares (370 acres) and contains plazas and residential buildings. Caral was a thriving metropolis at roughly the same time as the great pyramids were being built in Egypt, which is considered one of the earliest civilizations in the world.
+
+Caral is the largest recorded site in the Andean region, with dates older than 2000 BC. It appears to be the model for the urban design adopted by Andean civilizations that rose and fell over the span of four millennia. Scholars believe that research conducted in Caral may answer questions about the origins of the Andean civilizations and the development of its first cities.
+
+Among the artifacts found at Caral is a knotted textile piece that the excavators have labelled a quipu. They write that the artifact is evidence that the quipu record keeping system, a method involving knots tied in textiles that was brought to its highest development by the Inca Empire, was older than any archaeologist previously had determined. Evidence has emerged that the quipu also may have recorded logographic information in the same way writing does. Gary Urton has suggested that the quipus used a binary code that could record phonological or logographic data.
+
+The main temple complex (Spanish: Templo Mayor) is 150 meters (490 ft) long, 110 meters (360 ft) wide and 28 meters (92 ft) high. The date of its construction is unknown.
+
+Shady's findings suggest it was a society built on commerce and pleasure. No indications of warfare, such as battlements, weapons, or mutilated bodies, have been found at Caral. This contrasts with the older site of Sechin Bajo, where depictions of weapons are found. In one of the Caral temples, researchers found 32 flutes made of condor and pelican bones and 37 cornetts of deer and llama bones. One find revealed the remains of a baby, wrapped and buried with a necklace made of stone beads.
+
+Caral was flanked by 19 other temple complexes scattered across the 90 square kilometres (35 sq mi) area of the Supe Valley.
+
+The date of 2627 BC for Caral is based on the carbon dating of reed and woven carrying bags that were found on site. These bags were used to carry the stones for the construction of the temples. The material is an excellent candidate for high precision dating. The site may date even earlier, however, as samples from the oldest parts of the excavation have yet to be dated.
+
+Caral had a population of approximately 3,000 people. However, 19 other sites in the area (posted at Caral), allow for a possible total population of 20,000 people sharing the same culture in the Supe Valley. All of these sites share similarities with Caral, including small platforms or stone circles. Shady believes that Caral was the focus of this civilization. It is believed to be part of an even more vast cultural complex, trading with the coastal communities and the regions farther inland. She suggests that a depiction of monkeys may be evidence of trade with communities along the Amazon.
+
+In 2000, Marco Machacuay (the chief of excavations at the time) and his colleague, Rocío Aramburú, discovered a large shape etched on the ground among circular stone lines near Caral. This image, known as a geoglyph, is located on the desert floor just west of the main site at Caral. The lines form the design of a human face with long, streaming hair and a gaping mouth.
+
+This geoglyph is similar to bleeding figures with a similar gaping mouths found etched onto the stone walls at a site called Cerro Sechín, in the Casma Valley 240 kilometres (150 mi) to the north. What this figure represents is unclear. It is believed to have been constructed around the same time as Caral and to have been associated with a nearby ceremonial site known as Chupacigarro.
+
+Another significant find at the site was a collection of musical instruments, including 37 cornetts made of deer and llama bones and 33 flutes of unusual construction. The flutes were radiocarbon dated to 2170±90 BC.
+
+The city of Caral was split into two sections, an "Upper Half" and a "Lower Half". These halves were divided naturally by the Supe River Valley. In the Upper Half there are six monumental complexes, each of which includes a pyramid, open plaza, and assemblage of residential buildings. In the Lower Half there are residential buildings, small pyramids, and one monumental complex called the "Temple of the Amphitheater". 
+
+The Upper Half complexes were all constructed around a pyramid. These are the "Great Temple/Great Pyramid", "Central Pyramid", "Quarry Pyramid", "Lesser Pyramid", "Pyramid of the Gallery", and "Pyramid of the Huanca". The associated residential structures around each of these pyramids contain evidence of elite living, including food remnants that would have been exclusive to elite lifestyles, such as sea lion bones. In the Upper Half of Caral, many of the residents were wealthy elites, whose lives likely were associated with religious and social activities that would have taken place in the temples.
+
+By comparison, the residential buildings in the Lower Half have less evidence of elite populations. Instead of the large structures, exclusively elite residential complexes of the Upper Half, these residences are smaller and single rooms are used for more than one purpose. The diets of the people living in the Lower Half of Caral consisted mostly of agricultural plants and some fish. These diets were less rich than those of the elites living in the Upper Half.
+
+The current explanation for the divided city is that the city was intentionally planned in this way, with the monumental architecture and complexes of the Upper Half designed both to house elites and to physically indicate their political power. Conversely, the Lower Half was designed to house laborers, with the river serving as the division between these groups. This sort of intentional city planning is evidence of structuralized inequality at Caral, which perpetuated existing social stratification.
+
+See also
+- Batán Grande Reserved Zone
+- Iperú
+- List of oldest buildings in the Americas
+- Periodization of pre-Columbian Peru
+- Sican culture
+- Tourism in Peru
+- Túcume
+- Montegrande (archaeological site)
+
+References
+- "Ubicación". 2008-11-06.
+- EMSE EDAPP, S.L. (2017). América precolombina. Cuna de grandes civilizaciones. Barcelona: Bonalletra Alcompas, S.L. ISBN 978-84-16330-40-9.
+- "Caral es declarada Patrimonio Cultural de la Humanidad | Noticias del Perú | LaRepublica.pe". Archived from the original on 2017-06-19. Retrieved 2021-08-24.
+- bcrp.gob.pe 
+- "Descubren personaje femenino de élite enterrado hace 4,500 años en Áspero".
+- [1], "Dating Caral, a Preceramic Site in the Supe Valley on the Central Coast of Peru" SCIENCE, 27 Apr 2001, Vol 292, Issue 5517 pp. 723-726
+- NYtimes.com, "Archaeological Site in Peru Is Called Oldest City in Americas" Public release date: 27-Apr-2001 The New York Times
+- UNESCO World Heritage Centre.
+- Collyns, Dan (2021-01-03). "Squatters issue death threats to archaeologist who discovered oldest city in the Americas". The Guardian. Archived from the original on 3 January 2021. Retrieved 3 January 2021.
+- Mandujano, Carlos (2021-01-20). "The Oldest City in The Americas Is an Archeological Wonder, And It's Under Invasion". ScienceAlert. Retrieved 2021-01-20.
+- Shady, R. Haas, J. Creamer, W. (2001). Dating Caral, a Pre-ceramic Site in the Supe Valley on the Central Coast of Peru. Science. 292:723-726. doi:10.1126/science.1059519 PMID 11326098
+- Belsie, Laurent (3 January 2002). "Civilization lost?". Christian Science Monitor.
+- Atwood, Roger. "A Monumental Feud." Archaeology. Jul/Aug 2005, Vol. 58 Issue 4, pp. 18-25.
+- Ross, John (August 2002). "First City in the New World?". Smithsonian Museum. Archived from the original on 2 March 2013. Retrieved 30 November 2012.
+- Solis, Ruth Shady (2006), "America's First City? The Case of Late Archaic Caral", Andean Archaeology III, Boston, MA: Springer US, pp. 28–66, doi:10.1007/0-387-28940-2_3, ISBN 978-0-387-28939-7, retrieved 2022-03-09
+- Pezo‐Lanfranco, Luis; Machacuay, Marco; Novoa, Pedro; Peralta, Rodolfo; Mayer, Elver; Eggers, Sabine; Shady, Ruth (2021-11-25). "The diet at the onset of the Andean Civilization: New stable isotope data from Caral and Áspero, North‐Central Coast of Peru". American Journal of Biological Anthropology. 177 (3): 402–424. doi:10.1002/ajpa.24445. ISSN 2692-7691. S2CID 244692412.
+The Toads of Wiraqucha
+Tikra
+Tinyaq
+Tipón
+Titiqaqa
+Toquepala Caves
+Toro Muerto
+Trinchera
+Túcume
+Tunanmarca
+Tunay Q'asa
+Tupu Inka
+T'akaq
+T'uqu T'uquyuq
+Uchkus Inkañan
+Urpish
+Uskallaqta
+Usnu, Ayacucho
+Usnu, Huánuco
+Usnu Muqu
+Usqunta
+Uyu Uyu
+Venado cautivo
+Ventanillas de Otuzco
+Ventarron
+Vilcabamba
+Vilcashuamán
+Viracochapampa
+Vitcos
+Waman Pirqa
+Wamanilla
+Wamanmarka, Chumbivilcas
+Wamanmarka, Lima
+Wanakawri, Cusco
+Wanakawri, Huánuco
+Waqlamarka
+Waqra Pukara
+Waqutu
+Warahirka
+Waraqayuq
+Waraqu Urqu
+Warawtampu
+Wari Willka
+Waruq
+Wat'a, Cusco
+Wat'a, Huánuco
+Wayna Q'inti
+Wayna Tawqaray
+Wichama
+Wichqana
+Wich'un
+Wila Wilani
+Wilca
+Wilcahuaín
+Willkaraqay
+Wiñay Wayna
+Wiraqucha Pirqa
+Yanaca
+Yanaqi - Qillqamarka
+Yaynu
+Yuraq Mach'ay
+
+Categories: Andean civilizations
+Archaeological sites in Peru
+Pyramids in Peru
+Former populated places in Peru
+World Heritage Sites in Peru
+Archaeological sites in Lima Region
+Tourist attractions in Lima Region
+Andean preceramic
+Norte Chico civilization
+27th-century BC establishments

@@ -1,0 +1,269 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Syrian coastal climate change
+
+Basic location of event: Syria
+
+Specific data/information/context related to event: Maritime Cultural Heritage, Coastal Change and Threat Assessment in Syria | Journal of Maritime Archaeology
+
+Syria’s coastal and nearshore zone contains a significant, but under-researched, record of maritime cultural heritage (MCH) ranging from prehistory to the present. This is exemplified by a lack of underwater investigations, but also limited investigation of key onshore maritime sites such as ports and harbours. There is also a lack of specialist in-country management regarding maritime cultural heritage research and protection. This situation has been worsened by the ongoing conflict (since 2011), which has reduced (already limited) field investigation. To assist in the advancement of Syrian maritime archaeology, this paper presents a baseline assessment which makes use of a geospatial database generated from satellite imagery as well as both published and grey literature. This assessment reviews past coastal environment changes affecting the Syrian littoral, and then highlights past disturbances and potential future threats impacting the MCH. This is done through analysis of all coastal/nearshore sites documented to date and showcased in more detail using two case studies: Tabbat al-Hammam and Ras Ibn Hani. This enables discussion of the current state of Syrian maritime archaeology and suggests ways forward for its future management and investigation.
+
+2022 The Author(s)
+Westley, Kieran
+Carayon, Nicolas
+Anbar, Jafar
+Breen, Colin
+Blue, Lucy
+Journal of Maritime Archaeology 2022 17:3
+Citation details and references follow. 
+
+---
+
+Note: The citations and references have been stripped for conciseness, however, the full details can be provided if needed. If this is not what you intended, please provide clarification.
+// Webfont repeat view
+            var config = w.config;
+            if (config && config.publisherBrand && sessionStorage.fontsLoaded === 'true') {
+                d.documentElement.className += ' webfonts-loaded';
+            }
+        })(window, document);
+    }
+
+window.initGTM = function() {
+        if (window.config.mustardcut) {
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s),
+                    dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-MRVXSHQ');
+        }
+    }
+
+(function (w, d, t) {
+    function cc() {
+        var h = w.location.hostname;
+        var e = d.createElement(t),
+        s = d.getElementsByTagName(t)[0];
+
+        if (h.indexOf('springer.com') > -1 && h.indexOf('biomedcentral.com') === -1 && h.indexOf('springeropen.com') === -1) {
+            if (h.indexOf('link-qa.springer.com') > -1 || h.indexOf('test-www.springer.com') > -1) {
+                e.src = 'https://cmp.springer.com/production_live/en/consent-bundle-17-52.js';
+                e.setAttribute('onload', "initGTM(window,document,'script','dataLayer','GTM-MRVXSHQ')");
+            } else {
+                e.src = 'https://cmp.springer.com/production_live/en/consent-bundle-17-52.js';
+                e.setAttribute('onload', "initGTM(window,document,'script','dataLayer','GTM-MRVXSHQ')");
+            }
+        } else if (h.indexOf('biomedcentral.com') > -1) {
+            if (h.indexOf('biomedcentral.com.qa') > -1) {
+                e.src = 'https://cmp.biomedcentral.com/production_live/en/consent-bundle-15-38.js';
+                e.setAttribute('onload', "initGTM(window,document,'script','dataLayer','GTM-MRVXSHQ')");
+            } else {
+                e.src = 'https://cmp.biomedcentral.com/production_live/en/consent-bundle-15-38.js';
+                e.setAttribute('onload', "initGTM(window,document,'script','dataLayer','GTM-MRVXSHQ')");
+            }
+        } else if (h.indexOf('springeropen.com') > -1) {
+            if (h.indexOf('springeropen.com.qa') > -1) {
+                e.src = 'https://cmp.springernature.com/production_live/en/consent-bundle-16-35.js';
+                e.setAttribute('onload', "initGTM(window,document,'script','dataLayer','GTM-MRVXSHQ')");
+            } else {
+                e.src = 'https://cmp.springernature.com/production_live/en/consent-bundle-16-35.js';
+                e.setAttribute('onload', "initGTM(window,document,'script','dataLayer','GTM-MRVXSHQ')");
+            }
+        } else if (h.indexOf('springernature.com') > -1) {
+            if (h.indexOf('beta-qa.springernature.com') > -1) {
+                e.src = 'https://cmp.springernature.com/production_live/en/consent-bundle-49-43.js';
+                e.setAttribute('onload', "initGTM(window,document,'script','dataLayer','GTM-NK22KLS')");
+            } else {
+                e.src = 'https://cmp.springernature.com/production_live/en/consent-bundle-49-43.js';
+                e.setAttribute('onload', "initGTM(window,document,'script','dataLayer','GTM-NK22KLS')");
+            }
+        } else {
+            e.src = '/oscar-static/js/cookie-consent-es5-bundle-cb57c2c98a.js';
+            e.setAttribute('data-consent', h);
+        }
+        s.insertAdjacentElement('afterend', e);
+    }
+
+    cc();
+})(window, document, 'script');
+
+    <link rel="canonical" href="https://link.springer.com/article/10.1007/s11457-022-09339-y"/>
+
+    <script type="application/ld+json">{"mainEntity":{"headline":"Maritime Cultural Heritage, Coastal Change and Threat Assessment in Syria","description":"Syria’s coastal and nearshore zone contains a significant, but under-researched, record of maritime cultural heritage (MCH) ranging from prehistory to the present. This is exemplified by a lack of underwater investigations, but also limited investigation of key onshore maritime sites such as ports and harbours. There is also a lack of specialist in-country management regarding maritime cultural heritage research and protection. This situation has been worsened by the ongoing conflict (since 2011), which has reduced (already limited) field investigation. To assist in the advancement of Syrian maritime archaeology, this paper presents a baseline assessment which makes use of a geospatial database generated from satellite imagery as well as both published and grey literature. This assessment reviews past coastal environment changes affecting the Syrian littoral, and then highlights past disturbances and potential future threats impacting the MCH. This is done through analysis of all coastal/nearshore sites documented to date and showcased in more detail using two case studies: Tabbat al-Hammam and Ras Ibn Hani. This enables discussion of the current state of Syrian maritime archaeology and suggests ways forward for its future management and investigation.","datePublished":"2022-09-13T00:00:00Z","dateModified":"2022-09-13T00:00:00Z","pageStart":"353","pageEnd":"373","license":"http://creativecommons.org/licenses/by/4.0/","sameAs":"https://doi.org/10.1007/s11457-022-09339-y","keywords":["Maritime archaeology","Remote sensing","Satellite imagery","Historic environment management","Archaeology"],"image":["https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs11457-022-09339-y/MediaObjects/11457_2022_9339_Fig1_HTML.png","https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs11457-022-09339-y/MediaObjects/11457_2022_9339_Fig2_HTML.png","https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs11457-022-09339-y/MediaObjects/11457_2022_9339_Fig3_HTML.png","https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs11457-022-09339-y/MediaObjects/11457_2022_9339_Fig4_HTML.png","https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs11457-022-09339-y/MediaObjects/11457_2022_9339_Fig5_HTML.png","https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs11457-022-09339-y/MediaObjects/11457_2022_9339_Fig6_HTML.png","https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs11457-022-09339-y/MediaObjects/11457_2022_9339_Fig7_HTML.png"],"isPartOf":{"name":"Journal of Maritime Archaeology","issn":["1557-2293","1557-2285"],"volumeNumber":"17","@type":["Periodical","PublicationVolume"]},"publisher":{"name":"Springer US","logo":{"url":"https://www.springernature.com/app-sn/public/images/logo-springernature.png","@type":"ImageObject"},"@type":"Organization"},"author":[{"name":"Kieran Westley","url":"http://orcid.org/0000-0002-0863-6762","affiliation":[{"name":"Ulster University","address":{"name":"School of Geography and Environmental Sciences, Ulster University, Coleraine, UK","@type":"PostalAddress"},"@type":"Organization"}],"email":"kl.westley@ulster.ac.uk","@type":"Person"},{"name":"Nicolas Carayon","affiliation":[{"name":"Ipso Facto","address":{"name":"Ipso Facto, Marseille, France","@type":"PostalAddress"},"@type":"Organization"}],"@type":"Person"},{"name":"Jafar Anbar","affiliation":[{"name":"Aix Marseille University, CNRS, CCJ","address":{"name":"Aix Marseille University, CNRS, CCJ, Aix-en-Provence, France","@type":"PostalAddress"},"@type":"Organization"},{"name":"National and Kapodistrian University of Athens","address":{"name":"National and Kapodistrian University of Athens, Athens, Greece","@type":"PostalAddress"},"@type":"Organization"}],"@type":"Person"},{"name":"Colin Breen","affiliation":[{"name":"Ulster University","address":{"name":"School of Geography and Environmental Sciences, Ulster University, Coleraine, UK","@type":"PostalAddress"},"@type":"Organization"}],"@type":"Person"},{"name":"Lucy Blue","affiliation":[{"name":"University of Southampton","address":{"name":"University of Southampton, Southampton, UK","@type":"PostalAddress"},"@type":"Organization"}],"@type":"Person"}],"isAccessibleForFree":true,"@type":"ScholarlyArticle"},"@context":"https://schema.org","@type":"WebPage"}</script>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MRVXSHQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <noscript data-test="gtm-body">
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MRVXSHQ"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+
+    <div class="u-visually-hidden" aria-hidden="true" data-test="darwin-icons">
+    <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><symbol id="icon-eds-i-accesses-medium" viewBox="0 0 24 24"><path d="M15.59 1a1 1 0 0 1 .706.291l5.41 5.385a1 1 0 0 1 .294.709v13.077c0 .674-.269 1.32-.747 1.796a2.549 2.549 0 0 1-1.798.742H15a1 1 0 0 1 0-2h4.455a.549.549 0 0 0 .387-.16.535.535 0 0 0 .158-.378V7.8L15.178 3H5.545a.543.543 0 0 0-.538.451L5 3.538v8.607a1 1 0 0 1-2 0V3.538A2.542 2.542 0 0 1 5.545 1h10.046ZM8 13c2.052 0 4.66 1.61 6.36 3.4l.124.141c.333.41.516.925.516 1.459 0 .6-.232 1.178-.64 1.599C12.666 21.388 10.054 23 8 23c-2.052 0-4.66-1.61-6.353-3.393A2.31 2.31 0 0 1 1 18c0-.6.232-1.178.64-1.6C3.34 14.61 5.948 13 8 13Zm0 2c-1.369 0-3.552 1.348-4.917 2.785A.31.31 0 0 0 3 18c0 .083.031.161.09.222C4.447 19.652 6.631 21 8 21c1.37 0 3.556-1.35 4.917-2.785A.31.31 0 0 0 13 18a.32.32 0 0 0-.048-.17l-.042-.052C11.553 16.348 9.369 15 8 15Zm0 1a2 2 0 1 1 0 4 2 2 0 0 1 0-4Z"/></symbol></svg>
+</div>
+
+    <a class="c-skip-link" href="#main">Skip to main content</a>
+
+    Advertisement
+    Cart
+    Menu
+    Find a journal
+    Publish with us
+    Track your research
+    Search
+    Skip to main content
+of known sites with evidence of ancient maritime activities and settlements, as well as observed interactions between land and sea that include the presence of harbors, shipwrecks, and coastal settlements.
+
+Secondly, these sites benefit from accessibility due to existing infrastructure, which facilitates easier fieldwork and archaeological investigations. Thirdly, larger population centers are often located near these areas, leading to more substantial historical documentation and collective memory regarding maritime and coastal activities.
+
+Overall, the digital geospatial database provides a crucial understanding of the spread and state of maritime cultural heritage in Syria. By systematically documenting these sites, it serves as an essential resource for researchers aiming to safeguard Syria's maritime archaeological record for future generations. The need for comprehensive management and protective measures is critical, especially in light of ongoing threats posed by environmental changes and human activities.
+
+In conclusion, this baseline assessment lays the groundwork for future research and lays out a framework to develop a coherent approach towards the investigation and management of maritime cultural heritage along the Syrian coast in light of historical research, recent geospatial analysis, and ongoing environmental challenges.
+of well-known Phoenician colonies and harbour cities; Arwad (Arados), Antarados (Tartus), Marathos (Amrit) and Tabbat Al-Hamman (Renan 1864; Braidwood 1940; Frost 1966). The Jableh Plain was subject to a comprehensive landscape survey in 1958–63 (Riis et al. 2004), whilst Ras Shamra contains Ugarit, the capital of a Bronze Age kingdom and one of the best-studied sites on the Syrian coast (Yon 2006). Secondly, topography probably also influenced past settlement. The three clusters occur where the coastal plain is extensive. In contrast, the steep slopes north of Ras Shamra and, to a lesser extent, between Tartus and the Jableh Plain were less suitable for settlement. Nevertheless, areas with few documented sites highlight potential areas for future survey, particularly when they appear otherwise amenable for settlement, such as the low-lying plain south of Latakia. With regard to chronological distribution, Classical-period sites dominate and reflect the focus of much previous research during the Roman or Hellenistic periods, and the often well-preserved remains from these times. There is also a relatively high proportion of Bronze Age and Iron Age sites, again reflective of research interests in Ugarit, Phoenicia, and a general focus of investigation on tell sites which often contain material from these periods (Riis et al. 2004; Yon 2006; Bretschneider and Jans 2019).
+
+The documented record contains a wide range of archaeological site types but is dominated by a few categories, the most common being quarry sites. These generally comprise regular to rectilinear features cut into coastal and foreshore bedrock and which are identifiable on satellite imagery. They cluster near Jableh, Latakia, Arwad, and Ras Ibn Hani where low sandstone or limestone platforms are exposed. Some, but not all, of these features have been identified from ground survey (Riis et al. 2004; Yon 2006), but detailed investigation seems to be rare. Their locations may have been chosen to take advantage of exposed rock platforms and also facilitate transport of excavated blocks by ship. Their foreshore locations also could either indicate that they served a dual role, first functioning as quarries and then later repurposed for salt production or fish tanks (hence the high proportion of salt processing interpretations); or were submerged by RSL rise. Either interpretation would require ground investigation to confirm.
+
+Settlement sites and tells are also common, as would be expected if the coastline was occupied during antiquity, whilst high numbers of ports and harbours have also been identified. This includes known ancient harbours (e.g. Arwad, Minet el-Beida, Tabbat al-Hamman: Carayon 2008), as well as sheltered bays (including now-silted up examples) which could represent potential natural harbours. However, relatively few sites have built harbour infrastructure. These are mainly known from previous research (e.g. Braidwood 1940; Carayon 2008; Marriner et al. 2012), and the low numbers could be reflective of either the general lack of maritime archaeological research in Syria or even the ready availability of natural harbours in certain locations. The Jableh Plain is characterized by numerous small bays and creeks that offer sheltered anchorages and shelving beaches for landing (Riis et al. 2004), whilst the reef at Arwad creates an extensive natural anchorage (Anbar 2020). The range of other common site types is reflective of general human activity in the coastal zone, for instance cemeteries, bridges, and fortifications, and are not necessarily maritime specific.
+
+In total, 27 shipwrecks were identified. However, only five of these are demonstrably ancient (Classical period up to 12-13th C AD: Murai et al. 1988; Kampbell 2013) and at least three are represented by dispersed cargo scatters rather than wreck structures and/or amphora mounds. The majority of documented wrecks are late 19th to mid-20th century AD vessels and include several large, probably metal, shallow water, intertidal wrecks with unknown construction or loss dates and which are visible on satellite imagery (Westley et al. 2018; Wrecksite.eu 2020). Again, this is evidence of a lack of active underwater archaeological investigation (Haldane 1993; Kampbell 2013). If so, given the presence of numerous ancient ports and harbours, it suggests a strong possibility that many ancient shipwrecks are still to be discovered in Syrian waters.
+
+Disturbance assessments were conducted primarily by comparing satellite imagery from multiple timesteps to identify impacts which have damaged sites or their surroundings. Threat assessments were then produced by extrapolating from the disturbance patterns (Rayne et al. 2017; Andreou et al. 2020). For instance, a site located on the foreshore that has previously been affected by coastal erosion would then also have coastal erosion identified as a future threat. Similarly, a site located in a field with crops would have ploughing identified as a potential threat. For both threats and disturbances, certainty qualifiers (definite, high, medium, or low for disturbances; possible or probable for threats) are used to add additional nuance to the interpretation.
+
+A general picture of past disturbance and future threat can be obtained by using general overarching categories. This clearly shows that, unlike elsewhere in Syria (Danti 2015; Casana and Laugier 2017; Danti et al. 2017; Kanjou 2020), the coastal strip has largely escaped direct conflict-related disturbances to cultural heritage. Instead, by far the most common identified disturbance and threat category is natural processes. However, there are also strong indications that human activities, most clearly related to agriculture, building, infrastructure and domestic use, have also impacted many sites and will likely continue to do so.
+
+The specific causes of disturbance or threat within these categories can also be examined in more detail. The most common identified cause of disturbance process is construction. This relates principally to the urbanization and development of the Syrian coast which has occurred mainly in the last 30–40 years (e.g. Hammad et al. 2018). The next most common disturbance cause is water action, a generalized term which encompasses a series of effects caused by the flow and movement of water. The high numbers for this cause are because it is a generalized term which is used when the precise cause cannot be determined. It is therefore applied to sites clearly located within the wave or tidal zone, and which, by dint of their position are often (and sometimes continually) impacted by processes such as waves, tides, and surges, but for which more precise impacts, such as coastal erosion, cannot be determined.
+
+Significantly, the next most common disturbance categories are anthropogenic. The category road/track relate again to urbanization and infrastructure expansion, whilst vegetation/crops/trees and ploughing are clearly linked to agricultural practice which also appears to have intensified in the last few decades. For example, comparisons of recent and Corona satellite images show that many fields have been given over to orchards since the early 1970s, potentially resulting in root damage to archaeological material, or its removal in advance of planting, whilst other fields have had polytunnels constructed over them. Other high frequency disturbances are occupational and continued use, which reflects the fact that people are living on and around archaeological sites. Excavation (unclassified) and clearance (bulldozing/levelling) would be another cause. In many cases, the latter two causes reflect preparation of land in advance of construction. Few direct impacts from violent conflict were identified.
+
+The most common cause of threat is water action, relating to the prevalence of coastal sites. Although this is generally the result of natural coastal processes, impacts associated with it, such as flooding or erosion, may well increase in the near future with anthropogenic climate change (Reimann et al. 2018; Brooks et al. 2020; Westley et al. 2021). This is also evidenced by the fact that a relatively high number of sites are identified as potentially being affected by coastal erosion and retreat, albeit with lower (i.e. possible) certainties because the precise rate and extent of coastal change has yet to be ascertained at a site level. It should also be remembered that coastal processes can be altered by human interference, such as construction activities which modify natural sediment dynamics and shift the location of zones of erosion versus deposition, or variation in fluvially supplied sediment caused by changing land use inland.
+
+The second most common threat is occupation/continued use and is the result of numerous documented sites lying within urban or agricultural areas which are actively used by the present population. The high numbers for this category are also the result of more specific threats that cannot be identified beyond the fact that people will continue to live and work on, or adjacent to, archaeological sites. The next common categories (excepting coastal erosion/retreat; discussed above) also relate to human activity; specifically, construction, vegetation/crops/trees, road/track and ploughing. These again likely reflect continuation of the trends of urban and infrastructure development and agricultural intensification which are visible from the satellite imagery. In some cases, the impact on archaeological material may be minimal or absent (i.e. possible rather than probable certainty). In other cases, particularly with regard to infrastructure or urban expansion, impacts could be destructive unless appropriately mitigated.
+
+Two case studies are presented below which illustrate representative examples of coastal sites, the disturbances they have experienced, and the potential threats they face.
+
+Ras Ibn Hani/Ras Shamra
+
+The coastal plain north of Latakia contains several important archaeological sites, not the least of which is Ras Shamra/Ugarit, inhabited from the Neolithic onwards and capital of a Bronze Age kingdom which flourished between 1800 and 1200 BC. Ras Shamra is located 1 km inland and was served by the port of Minet el-Beida, situated in a sheltered bay. Southeast of Ras Sharma lies the Ras Ibn Hani Peninsula. This area also contains a Ugaritic settlement, but which survived the collapse of the Ugaritic kingdom and continued to be occupied through the Iron Age and Classical periods.
+
+The anchorage and harbouring opportunities in this area may have been a key reason for its settlement. Not only did Minet el-Beida offer a naturally sheltered harbour, but so too did Ras Ibn Hani after a tombolo formed in about 3500 to 3000 BP (i.e. 1500–1000 BC). This linked a small island to the mainland resulting in the creation of two sheltered bays. Evidence for harbour installations includes a series of small quays or jetties, possibly of a Late Bronze Age or Iron Age date, located on either side of the Ras Ibn Hani Peninsula. Conversely, Minet el-Beida lacks archaeological evidence of harbour infrastructure apart from warehouses, though ancient texts imply the presence of a quay or wharf.
+
+Outside the harbour areas, the foreshore rock platforms have extensive evidence of quarrying visible on very high resolution (VHR) satellite imagery, at least some of which were previously recognized. In contrast to the rich onshore and coastal material, offshore evidence is lacking and again highlights the lack of underwater investigation, even in well-studied areas. There are hints of a submerged palaeo-landscape represented by buried peat layers, and a potential palaeo-channel, but definitive wreck material is lacking. For instance, although up to 43 stone anchors (or fragments) are known from Ras Ibn Hani, Ras Shamra and Minet el-Beida, these were found on land rather than underwater and may have been votive offerings. This is suggested by a collection of 17 anchors in the Temple of Baal at Ras Shamra, and the fact that the majority do not appear to have been used in the sea.
+
+A range of disturbances have impacted these sites. For example, Corona spy satellite imagery shows that Ras Ibn Hani was largely uninhabited in the late 1960s to early 1970s and suggests two piers or jetties in the northern bay and at least five in the southern bay. By 2004, extensive settlements covered the peninsula, the shores of both bays, and encroached on the archaeological sites. This development included the addition of modern jetties in close proximity to the ancient structures. In the northern bay, at least one northern jetty was still present in 2008, and possibly as late as 2016 (based on VHR satellite images). Since then it appears to have been removed entirely or could be buried under the beach. In the southern bay, piers are still visible on recent imagery, but it is not clear if these are the original Bronze or Iron Age structures or whether they have been compromised by the recent development. In terms of threat, it is notable that the archaeological site at Ras Ibn Hani includes material on, or close to, an unconsolidated backshore scarp. This is precisely the type of location that will be at risk from erosion triggered by twenty-first century sea-level rise driven by anthropogenic climate change.
+
+Tabbat al-Hammam
+
+Tabbat al-Hammam comprises a large coastal occupation mound (tell) which contains archaeological evidence dating from the Neolithic to the Hellenistic periods. It was originally excavated in 1938. This expedition identified a breakwater immediately adjacent to the mound and probably constructed in the eighth or ninth century BC. This consisted of an L-shaped structure built partly out of ashlar blocks, and extending up to several tens of meters offshore to create a sheltered harbour in the bay to the north. A submerged scatter of ashlar blocks was also discovered approximately 200 m south of the breakwater and suggests the possibility of an additional southern harbour. The remains of both these latter installations were also observed and documented by Hijazi. A stone quarry situated on the western side of the mound has been interpreted as the source of the blocks used for the breakwater. Remains of the breakwater were still present in the 1930s, albeit heavily eroded, and possibly into the early 1970s, based on Corona imagery. However, this has since been destroyed or buried beneath a modern breakwater which was constructed in 1992 or 1993. The mound itself and surrounding landscape have also been directly impacted by human activities since the late 1960s or early 1970s. Several paths or tracks presently cross the mound, and extensive housing developments now encroach directly on it from the south and east. Recent VHR satellite images also show collapse on one side of the mound which could be either from natural slippage or illicit excavation. The submerged ashlar blocks south of the breakwater cannot be identified by recent imagery; therefore, it is unclear if they are still present, but buried, or have been removed.
+
+The clear lack of material offshore requires further research to confirm if there is genuine absence of evidence or if there is more material to be discovered. This could include initiation of 1) Underwater archaeological prospection for shipwrecks using geophysical techniques and targeted at areas with known wrecks, potential harbours and submerged coastal sites; 2) Marine geological research on past sea-level change, taphonomic conditions along with submerged palaeo-landscape preservation and 3) Liaison with local museums, fishermen, or divers to ascertain the existence of unrecorded or unreported archaeological material. For example, the bay of Bassit reportedly contains more unrecorded wrecks identified by local fishermen.
+The text appears to be part of a scholarly article discussing geoarchaeological investigations in Syria, particularly regarding maritime heritage and archaeological sites along the coast. Here's the content without any HTML formatting:
+
+---
+
+instance geoarchaeological investigation of potential harbours and less well-studied coastal sites (Carayon 2008). It seems that some efforts were steered in this direction in the 2000s (Al-Maqdissi et al. 2010), but with the exception of Ras Ibn Hani (Marriner et al. 2012), results have not come to fruition, presumably stalled by the conflict.
+
+Syria is now emerging from a period of intense conflict and the post-conflict reconstruction of economy and society has commenced. Such strategies need to deal comprehensively with environmental and heritage resource protection. In terms of the country’s marine cultural heritage, there is a pressing need to consolidate a baseline survey of the resource. This will include a programme of field mapping, supported by Syrian professionals who have the capacity to undertake such work, as well as the development of a comprehensive plan for site and landscape protection to ensure the continued survival of the resource. Central to this will be the involvement of coastal communities and the development of stewardship programmes that contribute towards coastal sustainability. The successful advancement of maritime archaeology in Syria depends on enhancing local capacity, so that there are community specialists with the skills and knowledge to investigate and manage the resource appropriately. This is being tackled on a small scale by recent HFF scholarships awarded to two Syrian archaeologists to undertake post-graduate masters of science research in maritime archaeology at the University of Aix-Marseille. The foci of the individual research theses were ancient Ugarit and Arwad Island (Anbar 2020). The latter has now been taken forward in the form of doctoral research. Further capacity development projects could aim to encourage more in-country partnership, including ground-truthing and documentation of remotely identified sites and enhanced aerial survey.
+
+Conclusion
+
+This assessment has consolidated a baseline understanding of Syrian maritime heritage, a significant step considering the general lack of maritime archaeological investigation in the country. The 290 documented sites analysed here range from Palaeolithic lithic scatters to modern shipwrecks and some sites—e.g. lithic/ceramic scatters—have no explicit ‘maritime’ function, but are included because of their proximity to the coast. However, many other sites have a genuine maritime function—e.g. shipwrecks, ports and harbours. Importantly, this includes evidence for previously unrecorded or poorly recorded coastal activity in the form of possible foreshore quarries and potential harbour sites. The review of RSL change has also highlighted the complexity of palaeo-geographic change along the Syrian coast with implications for both submerged landscapes and harbour evolution. The disturbance assessment has revealed that, despite the ongoing conflict, there has been minimal direct impact from violent action. Identified primary disturbances relate to anthropogenic actions such as construction, agricultural activities, and infrastructure development. That said, these are all impacts which can be exacerbated by reduction of historic environment management capacity caused by the conflict. Natural processes, particularly water action related to coastal and marine processes, have also played a role. However, in many cases the precise effects are unclear other than contribution to long-term deterioration of foreshore or submerged sites. Threat assessment has revealed a similar pattern with sites on or immediately landward of the shoreline vulnerable to coastal or marine processes including erosion, particularly in light of future anthropogenic climate change-induced sea-level rise, and storm surges. In many cases, anthropogenic pressures remain prevalent. For instance, continued use or occupation of areas on or around archaeological sites and also construction, which clearly did not stop despite the conflict. Given the possibility of conflict-related internal migration and post-conflict financing, these threats could well increase in the future. The assessment has also identified distinct gaps, notably with respect to underwater investigation and integration of geological and geoarchaeological research. However, the most pressing need is that of in-country capacity. Local expertise is needed to conduct field assessments which can consolidate, update, and maintain this baseline, largely generated through remote sensing, and equally important is that it can also lead effective management strategies to counter the multiple threats facing Syria’s irreplaceable maritime cultural heritage.
+
+---
+
+This version should maintain the integrity and flow of the original text while removing all HTML artifacts.
+gle Scholar  
+Rayne L, Bradbury J, Mattingly D et al (2017) From Above and on the ground: geospatial methods for recording endangered archaeology in the Middle East and North Africa. Geosciences 7:100. https://doi.org/10.3390/geosciences7040100  
+Article  
+Google Scholar  
+Reimann L, Vafeidis AT, Brown S et al (2018) Mediterranean UNESCO World Heritage at risk from coastal flooding and erosion due to sea-level rise. Nat Commun 9:4161. https://doi.org/10.1038/s41467-018-06645-9  
+Article  
+Google Scholar  
+Renan E (1864) Mission de Phénicie. Imprimerie Impériale, Paris  
+Google Scholar  
+Riis PJ, Thuesen I, Lund J, Thomas R (2004) Topographical studies in the Gabla plain (Publications of the Carlsberg Expedition to Phoenicia 13; Det Kongelige Danske Videnskabernes Selskab Historik-filosofiske Skrifter 28). The Royal Danish Academy of Sciences and Letters, Copenhagen  
+Google Scholar  
+Rohling EJ, Grant K, Bolshaw M et al (2009) Antarctic temperature and global sea level closely coupled over the past five glacial cycles. Nat Geosci 2:500–504. https://doi.org/10.1038/ngeo557  
+Article  
+Google Scholar  
+Sanlaville P, Dalongeville R, Berniert P, Evin J (1997) The Syrian coast : a model of holocene coastal evolution. J Coastal Res 13:385–396  
+Google Scholar  
+Schaeffer CF-A (1929) Les fouilles de Minet-El-Beida et de Ras Shamra (campagnes du printemps 1929). Syria 10:285–297. https://doi.org/10.3406/syria.1929.3407  
+Article  
+Google Scholar  
+Semaan L (2018) Maritime archaeology in the developing world: the case of Lebanon. J Eastern Mediterranean Archaeol Heritage Studies 6:79–98. https://doi.org/10.5325/jeasmedarcherstu.6.1-2.0079  
+Article  
+Google Scholar  
+UNESCO (2001) Convention on the protection of the underwater cultural heritage, UNESCO, Paris. http://www.unesco.org/new/en/culture/themes/underwater-cultural-heritage/. Accessed 28 Jul 2021  
+United Nations (2021) Multilateral Treaties Deposited with the Secretary-General, United Nations, New York, as available on. https://treaties.un.org/pages/showdetails.aspx?objid=08000002802198d9. Accessed 30 Aug 2021  
+Vousdoukas MI, Mentaschi L, Voukouvalas E et al (2018) Global probabilistic projections of extreme sea levels show intensification of coastal flood hazard. Nat Commun 9:2360. https://doi.org/10.1038/s41467-018-04692-w  
+Article  
+Google Scholar  
+Vousdoukas MI, Ranasinghe R, Mentaschi L et al (2020) Sandy coastlines under threat of erosion. Nat Clim Chang 10:260–263. https://doi.org/10.1038/s41558-020-0697-0  
+Article  
+Google Scholar  
+Warburton D (2020) Mediterranean Stone Anchors. Etopoi J Ancient Studies 45:193–211. https://doi.org/10.17169/refubium-28215  
+Article  
+Google Scholar  
+Westley K (2021) Satellite-derived bathymetry for maritime archaeology: testing its effectiveness at two ancient harbors in the Eastern Mediterranean. J Archaeol Sci Rep 38:103030. https://doi.org/10.1016/J.JASREP.2021.103030  
+Article  
+Google Scholar  
+Westley K, Andreou G, el Safadi C et al (2021) Climate change and coastal archaeology in the Middle East and North Africa: assessing past impacts and future threats. J Island Coastal Archaeol. https://doi.org/10.1080/15564894.2021.1955778  
+Article  
+Google Scholar  
+Westley K, Carayon N, Breen C, Blue L (2018) Benchmarking the Maritime Cultural Heritage of Syria. Unpublished report prepared for the Honor Frost Foundation  
+Wolff C, Vafeidis AT, Muis S et al (2018) A Mediterranean coastal database for assessing the impacts of sea-level rise and associated hazards. Scientific Data 5:1–11. https://doi.org/10.1038/sdata.2018.44  
+Article  
+Google Scholar  
+Wrecksite.eu (2020) Wrecksite.eu. https://www.wrecksite.eu/. Accessed 8 Jan 2019  
+Wright J (2016) Maritime Archaeology and Climate Change: An Invitation. J Marit Archaeol 11:255–270. https://doi.org/10.1007/s11457-016-9164-5  
+Article  
+Google Scholar  
+Yon M (2006) The City of Ugarit at Tell Ras Shamra. Eisenbrauns, Winona Lake, Ind  
+Book  
+Google Scholar  
+
+We thank former EAMENA project members Jenni Bradbury and Bob Bewley for their advice and assistance in integrating the HFF Syria Benchmarking project with EAMENA. We are also grateful to the current EAMENA and MarEA teams for their continued assistance (particularly database-related), and to Naseem Raad for his thoughts on Classical harbours. Some sites used in this assessment were documented by EAMENA colleagues and the team at the Archaeology Informatics Lab at Durham University. We thank two anonymous reviewers for their helpful and insightful recommendations which improved the paper. Finally, we thank the Honor Frost Foundation for generously supporting the original Syria Benchmarking project and the Arcadia Fund for supporting MarEA.
+
+This research was originally funded by the Honor Frost Foundation from 2016–17 as the Benchmarking the Maritime Cultural Heritage of Syria project. Funding from 2019 to present is provided by Arcadia – a charitable fund of Lisbet Rausing and Peter Baldwin—as part of their support for the Maritime Endangered Archaeology Project.
+
+Authors and Affiliations  
+School of Geography and Environmental Sciences, Ulster University, Coleraine, UK  
+Kieran Westley & Colin Breen  
+Ipso Facto, Marseille, France  
+Nicolas Carayon  
+Aix Marseille University, CNRS, CCJ, Aix-en-Provence, France  
+Jafar Anbar  
+National and Kapodistrian University of Athens, Athens, Greece  
+Jafar Anbar  
+University of Southampton, Southampton, UK  
+Lucy Blue  
+
+Correspondence to Kieran Westley.  
+
+Publisher's Note  
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.  
+
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.  
+
+Cite this article  
+Westley, K., Carayon, N., Anbar, J. et al. Maritime Cultural Heritage, Coastal Change and Threat Assessment in Syria. J Mari Arch 17, 353–373 (2022). https://doi.org/10.1007/s11457-022-09339-y  
+
+Accepted: 25 August 2022  
+Published: 13 September 2022  
+Issue Date: September 2022  
+DOI: https://doi.org/10.1007/s11457-022-09339-y  
+
+Keywords  
+Maritime archaeology  
+Remote sensing  
+Satellite imagery  
+Historic environment management

@@ -1,0 +1,641 @@
+Mid-Holocene Falkland Islands bird bones from a peat
+deposit, including a new species of caracara
+Mark P. Adams A,C and Robin W. Woods B
+A Bird Group, Department of Life Sciences, Natural History Museum, Akeman Street, Tring,
+Hertfordshire, HP23 6AP, UK.
+B 68 Aller Park Road, Newton Abbot, Devonshire, TQ12 4NQ, UK.
+C Corresponding author. Email: m.adams@nhm.ac.uk
+Abstract. The modern avifauna of the Falkland Islands is well documented, but very little is known of the islands
+before the first recorded human settlement in 1764. Since then, peat was cut and used widely as fuel throughout the
+Falkland Islands until the late 20th century. From as early as the 1930s bones were noticed in peat deposits on West
+Point Island and were briefly documented in 1950. This paper provides a more detailed analysis of more recent focussed
+excavations of these subfossil remains. It summarises their known history and dates them at over 5000 years before
+present. Eighteen avian species are identified and comparison is made with the extant bird fauna of the Falkland Islands
+including the description of a new species of caracara (Aves: Falconidae: Phalcoboenus).
+Additional keywords: birds, peat deposits, Phalcoboenus, sub-fossil, West Point Island.
+Received 19 December 2015, accepted 19 February 2016, published online 20 June 2016
+Introduction
+The Falkland Islands (Islas Malvinas) lie in the South Atlantic
+between latitudes 51S and 53S and longitudes 57300W and
+61300W, ~500 km north-east of the nearest point of South
+America on Tierra del Fuego (Woods and Woods 2006). They
+consist of two main islands, East and West Falkland, surrounded
+by more than 700 smaller islands (Woods 2001). West Point
+Island lies ~500 m off the north-western tip of West Falkland,
+and it is here that the prehistoric bones described in this paper
+were excavated (Figs 1, 2).
+The island covers an area of ~1255 ha, with rugged cliffs up
+to 370 m high principally on its western and southern coasts,
+sloping gradually to sea level around much of the eastern coast.
+Peat formed from low-growing woody shrubs and grasses is
+widespread throughout the Falklands, with deposits up to 5 m
+thick (Smith and Prince 1985; Woods 1988), and was cut as fuel
+at all settlements on the Falkland Islands for at least a century.
+A large peat bog lies ~1250 m west of the settlement on West
+Point Island, from which a total depth of 2.7 m has been cut over
+many years (R. B. Napier, pers. comm.). It is situated on a plateau
+at an altitude of 67–76 m between Black Bog Hill and Rocky
+Ridge Hill, both ~150 m high, and appears to be an example of
+a raised ridge-top mire as described by Clark (1991). It is from
+this peat bog that large numbers of bird bones have been
+extracted (Adams and Woods 1997).
+Residents of West Point Island have been aware of these
+bones since discovering them in ~1934 whilst cutting peat for
+fuel (K. Bertrand, pers. comm.). Geoffrey Hattersley-Smith
+spent three weeks at West Point Island in early 1950, where he
+collected a small number of bones from the peat bog; in a
+resulting publication, Hattersley-Smith and Hamilton (1950),
+stated that the deposit was discovered some 15 or 20 years earlier
+and that the bones were plentiful. They deduced that as a result
+of peat cutting the bone deposit was ~2.7 m below the original
+peat surface, which they hypothesised, covered the site of a
+former large freshwater pond. Today this remains the only
+known avian bone deposit in the Falkland Islands.
+In 1962 Roddy Napier, the owner of West Point Island,
+showed the site to Robin W. Woods (RWW), who observed
+large bones distributed in a depth of at least 30 cm. A selection
+of these bones was collected, cleaned and sent to the US
+National Museum, Washington, DC (specimen 557997).
+Although we have not examined them directly, an image
+appears to show bone elements from at least seven Striated
+Caracara (Phalcoboenus australis) individuals that closely
+resemble bones excavated by Mark P. Adams (MPA) and
+RWW between 1996 and 2006.
+In January 1971 the site was visited by Milton W. Weller
+whilst investigating ponds of the Falkland Islands, who
+concurred that the peat bog could have once been a ridge pond
+and obtained dates for bones sent to him by R.B. Napier and others
+of 2220  100 years (Weller 1975). However, carbon dating
+samples analysed by Teledyne during the 1970s were measured
+in ‘gas proportional detectors’, and dating techniques have since
+greatly improved (J. Buckley, Radiocarbon Laboratory, Teledyne
+Brown Engineering, pers. comm.). The dating of more recently
+excavated bones using ‘accelerator dating’ methods is discussed
+in this paper.
+CSIRO PUBLISHING
+Emu
+http://dx.doi.org/10.1071/MU15129
+Journal compilation Ó BirdLife Australia 2016 www.publish.csiro.au/journals/emu
+On 1 January 1996, RWW and RB Napier visited the peat
+bog specifically to locate the bone deposits; within minutes,
+several whitened, dry and hard bone elements were found,
+spread over the weathered and friable dried peat surface. Further
+elements were located just below the surface in a small layer of
+vegetable matter. It appeared that the bones in situ were present
+only in an area a few metres square and any dry bones found over
+the surrounding surface of the peat had been weathered out and
+subsequently scattered.
+In December 1996, ~200 bones were collected in four days
+by MPA and RWW from this small area of the peat bog for
+preservation, dating and identification. Another 300 or so bones
+L A F O N I A
+West Point Island
+Airport
+STANLEY
+EAST
+FALKLAND
+WEST
+FALKLAND
+N
+0 10 20 30 40
+0 10
+61°W
+Rocky Ridge Hill
+Cat Cove
+Settlement
+168 m PEAT BOG SITE
+Black Bog Hill
+West Point
+Island
+N
+0
+0 0.5 1
+km
+mi
+1 2
+153 mDevil’s
+Nose
+60°W 59°W
+52°S
+58°W
+km
+mi
+20 30 40 50 60
+Fig. 1. Falkland Islands archipelago indicating location of West Point Island and position of peat bog site.
+B Emu M. P. Adams and R. W. Woods
+were collected during further excavations carried out from
+December 1998 to November 2006. All elements excavated were
+analysed and are presented here.
+Caracaras
+Caracaras form a subfamily (Falconinae, Tribe Polyborini) of
+Falconidae and are found throughout South and Central
+America and the southern USA (Fuchs et al. 2012). Of the 10
+extant species known, only two currently breed in the Falkland
+Islands: the Southern Caracara (Caracara plancus), the largest
+extant species, and the slightly smaller Striated Caracara (Woods
+and Woods 1997; Dickinson and Remsen 2013). A further
+species, the much smaller Chimango Caracara (Phalcoboenus
+chimango) occurs as a vagrant, recorded six times between the
+1950s and 2012 (Woods 1988; Gregory 1994; Morrison 2013).
+Caracaras are also known from the fossil record, including
+four or five from the West Indies. These include Caracara
+creightoni (Brodkorp 1959) from Cuba and the Bahamas,
+Caracara latebrosus (Wetmore 1920) from cave deposits in
+Puerto Rico and another possible species, as yet unpublished,
+from Mona Island (between Puerto Rico and Hispaniola) (Olson
+2008). These species were all about the size of the extant Crested
+Caracara (Caracara cheriway). A larger species, similar in size
+to Caracara plancus, is known from cave deposits on Grand
+Cayman, and an even larger species, Caracara tellustris (Olson
+2008), from Jamaica. Further species, again all in the genus
+Caracara, have also been described more recently from mainland
+South America: Caracara major (Jones et al. 2013), a very large
+species from Uruguay; a possible further, even larger unnamed
+species from Argentina (Jones et al. 2015); and Caracara
+seymouri (Suárez and Olson 2014), a smaller species from
+Ecuador and Peru.
+Among the bones from West Point Island are a few elements
+that are very similar morphologically to P. australis and
+C. plancus, but are much larger and not referable to any known
+species. These are described as a new species in this paper.
+Methods
+Excavation procedure
+The peat bog covers an area of ~1.35 ha. The majority of bones
+excavated between 1996 and 2006 were in a small area no larger
+than ~2 m2 and at depths no greater than 20 cm below the current
+surface, but holes dug up to 20 m south of this main site, and at
+depths of up to 108 cm, have also revealed bones. It is suspected
+therefore that the bone deposit extends over an area of at least
+100 m 2 at various depths beneath the undulating ground surface
+of decomposed peat dust, over and through which Marram Grass
+(Ammophila arenaria) and Sheep’s Sorrel (Rumex acetosella) are
+spreading northwards at a rate of ~1 m per year.
+Bone elements were mostly found in isolation from others and
+the location and position of bones was random, although a few
+tibiotarsi with femurs, and mandibles with skulls, were still
+associated. Slowly working across 1 m  1 m squares, the dense
+(a) (b)
+(c)
+Fig. 2. (a) West Point Island; peat bog from eastern slopes of Mt Ararat looking south east (25 December 1998); (b) peat bog site
+with encroaching Marram grass (Ammophila arenaria). Site of bone excavation marked with a wooden post (December 2007);
+(c) several bone elements partially excavated from the dense peat, January 2002. (10 cm rule for scale)
+Mid-Holocene Falkland Islands bird bones Emu C
+peat was removed carefully by hand, using small trowels, small
+scrapers and brushes.
+The top centimetre or two of peat was characteristically
+hard and dry due to direct exposure to weather, but below this
+layer, peat was moist, soft and very dense. Bones tended to be
+associated with a narrow layer of sand and a change in colour
+and texture of the peat, suggesting some storm-driven sand
+accumulations and perhaps some temporary change in the
+vegetation.
+The bones were relatively abundant here and, having been
+preserved in this moist substrate, were often soft and fragile.
+Removal of bones required slow and careful work and the
+density of the surrounding peat meant that almost the entire
+element had to be exposed before it could be successfully
+excavated in one piece. Once exposed to the sun and air, the
+bones rapidly dried and became extremely brittle. Excess peat
+was removed from the bones, which were then wrapped in
+moist tissue paper and sealed in plastic bags, except for four
+large bones selected as duplicates for radio carbon analysis. In
+this temporary stable condition, and under licences from the
+Falkland Islands Government and Department for Environ-
+ment, Food and Rural Affairs (DEFRA), all material was
+transported to the UK for further cleaning, preservation and
+examination.
+Laboratory procedure
+All specimens were transferred to the bird collections of the
+Natural History Museum (NHMUK), Tring, UK. The bones were
+further cleaned of peat and rehydrated where necessary with
+distilled and deionised water. In order to preserve the still soft
+elements in a stable condition, a dilute (10%) PVA glue solution
+was applied by brush and pipette or by soaking. After being left
+to air-dry at room temperature for 24–48 h, the bones were stable
+enough to allow handling and detailed examination.
+Identification of individual skeletal elements was carried
+out by direct comparison against as many relevant modern speci-
+mens as possible. Comparison with specimens held in the
+extensive avian skeletal collection at the NHMUK yielded in
+most cases sufficient evidence to permit identification to species
+level. Where insufficient comparative specimens were available,
+they were sourced from other museums. Elements were primarily
+compared against modern specimens of species still extant in
+the Falkland Islands, in addition to extant continental South
+American species.
+Material
+Preservation of the bones is generally very good; most elements
+are whole with little or no damage or signs of predation.
+However, some fragile elements (skulls, sterna or synsacra) were
+clearly damaged before collection and others during excavation
+or preservation. Most are stained brown by the peat; those
+from the surface show evidence of weathering and are paler
+with usually more worn surfaces. All these bones appear full-
+grown with little sign of ‘immature’ individuals present.
+A near-complete set of preserved bone elements of Striated
+Caracara was returned to the Falkland Islands in 2002 for display
+in the Stanley Museum. All other material is now held in the
+bird collection of the NHMUK.
+Dating of material
+In order to date the bones accurately, four elements (a tibiotarsus
+(weight 3.5 g), a carpometacarpus (1.0 g), an ulna (3.1 g) and
+a vertebra (0.3 g)) were submitted for dating at the Radiocarbon
+Accelerator Unit, Oxford University, UK. These elements were
+collected in 1996 from different parts and depths of the exposed
+peat, to allow sampling of bones of potentially varying ages. To
+ensure dating was as accurate as possible, the selected elements
+were untouched by hand, individually wrapped in aluminium foil
+immediately after excavation from the peat and not subsequently
+treated with any preservatives.
+Bone elements of the new large caracara were compared
+directly with modern skeletal material from the NHMUK, the
+American Museum of Natural History (AMNH) in New York and
+the National Museum of Natural History, Smithsonian Institution
+(USNM). In order to carry out molecular analysis, a small section
+of the holotype ulna was removed and analysed by Rob Fleischer
+and Jon Beadell at the Genetics Program, USNM; unfortunately
+DNA amplification proved unsuccessful.
+Results
+Radiocarbon dates of bones
+Radiocarbon accelerator results were successfully obtained for all
+four elements submitted. The age given is in radiocarbon years
+Before Present (BP) equivalent to AD 1950: tibiotarsus, 5335 
+50; carpometacarpus, 5250  50; ulna, 5255  45; vertebra,
+5425  55.
+The average age of the four elements is therefore 5316.25 
+50 BP, with a maximum range of 280 years between 5200
+and 5480 BP (D. C. Owen, Oxford University Radiocarbon
+Accelerator Unit, pers. comm.).
+Identification of bone elements
+Of the bone elements, 495 have been positively identified
+as avian. These range in size from pipits (Anthus) to geese
+(Chloephaga) and include elements from nearly all parts of the
+avian skeleton. A summary of the species and elements identified
+is given in Table 1 (for detailed list of elements per species see
+Table S1 in online supplementary material). For nomenclature
+of anatomical structures, we follow Baumel (1993) and Tomek
+and Bochenski (2009).
+Unsurprisingly, no mammal bones were found, as there is no
+evidence that the only native Falkland terrestrial mammal, the
+Falkland Wolf or Warrah (Dusicyon antarcticus), extinct since
+the mid-1870s, inhabited West Point Island (Slater et al. 2009).
+New species of large caracara
+Seven elements from West Point Island are larger and sufficiently
+different from Striated Caracara to be described as a new species:
+Systematics
+Class: Aves.
+Order: Falconiformes.
+Family: Falconidae.
+Subfamily: Falconinae.
+Genus: Phalcoboenus.
+Species: napieri, sp. nov.
+D Emu M. P. Adams and R. W. Woods
+Holotype: Left ulna (distal two-thirds) NHMUK S/2002.52.6.
+Collected 3 December 1996 by M.P. Adams and R.W. Woods
+(Fig. 3).
+Type Locality: Falkland Islands, West Point Island peat bog
+~1250 m (<1 mile) west of the settlement between Black Bog Hill
+and Rocky Ridge Hill with a GPS reading of 51 20.910S 60
+42.320W. Bones were excavated from 5–20 cm below the current
+peat surface.
+Date: Radiocarbon dates from four Striated Caracara elements
+excavated from slightly varying depths and within the same 2 m 2
+excavation site were all from the Holocene, ranging between
+5250  50 and 5425  55 BP.
+Measurements of Holotype: See Table 1. The total length of
+this damaged ulna (proximal end missing) 135 mm.
+Etymology: We have great pleasure in dedicating this new
+species to Roddy Napier, owner of West Point Island, for his
+kind permission to excavate this site and for his continued
+interest, long friendship and generous hospitality.
+Referred material: Furcula (left proximal end and right
+extremitas omalis clavicuae missing) NHMUK S/2002.52.3
+(Fig. 4); Furcula (right proximal end) NHMUK S/2002.52.4
+(Fig. 4); Furcula (left proximal end, extremitas omalis clavicuae
+missing) NHMUK S/2002.52.5 (Fig. 4); Mandible (right
+proximal end) NHMUK S/2002.52.1 (Fig. 5); Mandible (left
+proximal end) NHMUK S/2002.52.2 (Fig. 5); Tarsometatarsus
+(right incomplete distal end) NHMUK S/2002.52.7 (Fig. 6).
+All collected Falkland Islands, West Point Island peat bog (as
+Holotype above).
+Diagnosis: All elements listed above resemble those of
+Phalcoboenus, but are overall larger and more robust.
+Description and comparison: Larger than any extant cara-
+cara species. Morphology of all elements closely resemble those
+of P. australis and C. plancus (both similar) though are larger
+in all proportions. Elements can be attributed to the genus
+Phalcoboenus by the following characters:
+Ulna (Fig. 3), distal end: posterior margin of condylus
+dorsalis joins gradually (sloped) with the shaft which is charac-
+teristic of Phalcoboenus, rather than joining abruptly (at right
+angles) as in Caracara. The crest of the tuberculum carpale is
+angular and robust, again characteristic of Phalcoboenus, rather
+than rounded and slighter as found in Caracara. Although the
+ulna is incomplete (proximal third missing), the length from
+the distal end to the ‘nutrient foramen’ shows it to be 36.3%
+on average greater than P. australis and 38.8% greater than
+C. plancus (Table 2.). With the relative position of the ‘nutrient
+foramen’, known, the estimated total length of the ulna can also
+Table 1. Summary of avian species identified, the number of bone elements and the minimum possible number
+of individuals
+Species Current breeding (B)
+or vagrant (V) status
+in the Falkland Islands
+Number of
+bone elements
+Minimum number
+of individuals
+Procellariidae (petrels and shearwaters)
+Pachyptila belcheri/turtur B 14 2
+Oceanitidae (Austral storm-petrels)
+Oceanites oceanicus B 2 1
+Pelecanoididae (diving petrels)
+Pelecanoides urinatrix B 39 6
+Anatidae (ducks, geese, swans)
+Chloephaga picta B 29 2
+Chloephaga hybrida B 1 1
+Chloephaga rubidiceps B 9 3
+Anas flavirostris B 1 1
+Anas specularioides B 4 2
+Accipitridae (hawks, eagles)
+Geranoaetus polyosoma B 1 1
+Falconidae (falcons, caracaras)
+Phalcoboenus australis B 244 16
+Phalcoboenus napieri sp. nov. – 5 2
+Falco femoralis V 7 1
+Scolopacidae (sandpipers, snipes)
+Gallinago magellanica B 69 9
+Laridae (gulls, terns)
+Larus scoresbii B 3 1
+Strigidae (owls)
+Asio flammeus B 45 5
+Motacillidae (wagtails, pipits)
+Anthus correndera B 4 1
+Turdidae (thrushes)
+Turdus falcklandii B 4 1
+Thraupidae (tanagers)
+Melanodera melanodera B 14 3
+Total 18 species 495 58
+Mid-Holocene Falkland Islands bird bones Emu E
+be extrapolated as 161 mm, some 34.6% longer on average than
+P. australis and 36.0% longer on average than C. plancus.
+Furcula (Fig. 4), none of the three elements is complete.
+However, the overall large size is evident and NHMUK S/
+2002.52.4, though poorly preserved (possibly immature), shows
+the caudally directed processus acromialis to be elongated similar
+to that of P. australis and greater than that of C. plancus.
+Mandible (Fig. 5), one left and one right articular end only
+(possibly same individual). In dorsal view, crista transversa
+fossae flatter and relatively broad as in P. australis rather than
+more ‘U’-shaped as in C. plancus. Articular cotyla also relatively
+broad and parallel sided as in P. australis, not narrow and
+‘pinched’ as in C. plancus.
+Tarsometatarsus (Fig. 6), right tarsometatarsus, trochlea meta-
+tarsi III and IV present only. With such limited material com-
+parison is difficult, but the overall robustness is still evident and
+similar to that found in P. australis rather than the more ‘slight’
+C. plancus.
+Unlike many Falconids, caracaras show very little reversed
+sexual dimorphism in size. In fact the female is only 7% larger
+than the male in both P. australis and C. plancus (Ferguson-Lees
+and Christie 2001). The 36–38% larger size shown in the ulna
+100908070605040302010
+(a)
+A B C A B C
+(b)
+mm
+100908070605040302010mm
+Fig. 3. (a) Left ulna, ventral aspect; (b) left ulna, lateral aspect. A. NHMUK S/2002.52.6 (holotype) Phalcoboenus napieri sp.
+nov. (proximal end missing); B. NHMUK 1865.11.20.10 P. australis; C. NHMUK 1850.11.14.1 C. plancus. Position of nutrient
+foramen indicated.
+A B C ED
+100908070605040302010mm
+Fig. 4. Furcula, caudal aspect. A. NHMUK S/2002.52.3 Phalcoboenus napieri sp. nov. (left caudal end
+and right extremitas omalis claviculae missing); B. NHMUK S/2002.52.5 P. napieri sp. nov. (left caudal
+end, extremitas omalis claviculae missing); C. NHMUK S/2002.52.4 P.sp. nov. (right caudal end);
+D. NHMUK S/2002.1.46 P. australis; E. NHMUK 1850.11.14.1 Caracara plancus.
+F Emu M. P. Adams and R. W. Woods
+length of P. napieri would therefore discount sexual dimorphism
+or individual variation as an explanation of the significantly
+larger size.
+The predominance of P. australis elements collected at the
+same site and same depths as P. napieri show that the two
+species must have co-existed. This would also eliminate the
+hypothesis that P. australis on the Falkland Islands were
+simply significantly larger c. 5000 years ago.
+Discussion
+Existence of bone deposit
+Hattersley-Smith and Hamilton (1950) suggested that the peat
+bog covers the site of a former large freshwater pond. Weller
+(1975) concurred and suggested this could have been a ridge
+pond. Charlie Porter of the Patagonia Research Foundation
+(C. Porter, pers. comm.) suggested information on the potential
+rate of peat accumulation. From his studies at Puerto Williams
+on Isla Navarino in the Beagle Channel, he suggested that peat
+in the islands off Tierra del Fuego has accumulated at ~1 m in
+2000 years. Extrapolating to 5000 years (the approximate age
+shown by Radiocarbon dating of the West Point Island deposit)
+this suggests that ~2.5 m would accumulate in this period. This
+is very similar to the apparent rate of accumulation shown on
+West Point Island where it is understood ~2.7 m has been
+removed through peat cutting.
+The reasons for the presence of the large bone deposit within
+the peat remain unclear. Hattersley-Smith and Hamilton (1950)
+suggested that ‘the fresh water proved attractive to the birds’ and
+that ‘the mud may have been of such a texture as to entrap the
+unwary’ which could explain the relatively high proportion of
+water birds in the deposit (five species of Anatidae and one
+Scolopacidae). Nevertheless, although peat beds occur through-
+out the Falkland Islands and peat has been cut for fuel since the
+earliest recorded settlement by French colonists at Port Louis
+in 1764, (Pernety 1771) the West Point Island peat bog bone
+deposit is the only one so far discovered.
+Species composition in deposit
+The majority of species identified in the deposit are extant as
+breeding birds in the Falkland Islands. The notable exceptions
+are Aplomado Falcon (Falco femoralis), which occurs widely
+across mainland South America, but is a rare vagrant to the
+Falkland Islands, with only four records between 1993 and
+2010, and the new caracara. The similarity between the species
+100908070605040302010mm
+A
+B
+C
+D
+Fig. 5. Mandible, dorsal aspect. A. NHMUK S/2002.52.2 Phalcoboenus
+napieri sp. nov. (left articular end); B. NHMUK S/2002.52.1 P. napieri
+sp. nov. (right articular end); C. NHMUK 1865.11.20.10 P. australis;
+D. NHMUK 1850.11.14.1 Caracara plancus.
+100908070605040302010mm
+A B C
+Fig. 6. Tarsometatarsus, dorsal aspect. A. NHMUK S/2002.52.7
+Phalcoboenus napieri sp. nov. (right distal end); B. NHMUK
+1865.11.20.10 P. australis; C. NHMUK 1850.11.14.1 Caracara plancus.
+Table 2. Measurements (mm) of ulna of Phalcoboenus australis and
+Caracara plancus (mean) in comparison to Phalcoboenus napieri sp. nov
+For a full list of measurements, see Table S2, available as online
+supplementary material
+P. australis
+n = 4
+C. plancus
+n = 18
+P. napieri
+sp. nov. n = 1
+Length from distal end
+to nutrient foramen
+73.0 71.7 99.5
+Shaft width at nutrient foramen 6.7 6.5 7.1
+Shaft depth at nutrient foramen 8.0 6.9 8.8
+Distal width 10.8 11.3 12.9
+Distal depth 10.9 9.3 13.2
+Mid-Holocene Falkland Islands bird bones Emu G
+found and the current avifauna suggests that, other than habitat
+modification by man, the conditions in the Falklands around
+5000 years ago were similar to those today.
+Contrary to Hattersley-Smith and Hamilton’s (1950) state-
+ment, no penguin bones were found nor bones of albatrosses or
+the larger burrowing petrels, although their remains should
+preserve well. Black-browed Albatross (Thalassarche melano-
+phris), Rockhopper Penguin (Eudyptes chrysocome) and Magel-
+lanic Penguin (Spheniscus magellanicus) breed in large numbers,
+some within 750 m of the peat bog; the lack of these species may
+relate to the fact that these birds select breeding sites on the
+cliffs or shoreline and would rarely venture inland as far as the
+peat bog site.
+Possibly the most striking result from the bone assemblage
+is the high proportion of Striated Caracara bones at over 49%,
+representing a minimum of 16 individuals. This species is still
+relatively abundant on West Point Island, with about 10 pairs
+breeding and frequently a flock of ~100 immatures occurring
+at the settlement during the autumn and winter. The Striated
+Caracara is a powerful predator, scavenger and opportunist, is
+gregarious, very inquisitive and will prey on any vulnerable
+creature. If the developing peat bog was of a consistency to
+‘entrap’ unwary birds, this would certainly have attracted
+Striated Caracara and other scavenging and predatory birds.
+The elements collected may well give a biased picture of the
+avifauna in the deposit. The majority of bones are relatively large
+and robust and therefore potentially more likely to be preserved
+and recovered, though some small elements, including those of
+Correndera Pipit (Anthus correndera) and White-bridled Finch
+(Melanodera melanodera), were collected.
+Remarks
+Despite the limited material recovered, we are confident in
+placing this new species in the genus Phalcoboenus. This is
+therefore the sixth species of this genus to be described and the
+only species of the genus to be extinct. All previously described
+species of caracara from the fossil record have been placed in
+the genus Caracara. Like P. napieri, the majority of these
+species have been discovered on ‘islands’.
+With very little skeletal material for comparison, other than
+its large size it is difficult to speculate on the appearance and
+behaviour of P. napieri. We can only suggest that like other
+members of the genus, P. napieri was predominantly a scavenger
+feeding mostly on the ground, and like P. australis in particular,
+it may have been particularly reliant on the large seabird
+(albatross, shag, penguin and prion) colonies around the coasts.
+To date P. napieri elements have only been found on West
+Point Island and it may be that this species was restricted to
+islands that possessed sufficiently large seabird colonies to
+sustain them. It may also have scavenged at seal colonies as
+P. australis and Turkey Vultures (Cathartes aura) do today.
+The prehistoric habitat of West Point Island was probably
+similar to that on present-day ungrazed islands such as Elephant
+Jason that has rocky outcrops, severe cliffs and slopes carrying
+heathland with substantial fringing cover of Tussock Grass (Poa
+flabellata) or North Fur with cliffs and similar, more complete
+tussock cover. Lower-lying islands, such as Flat Jason or Kidney
+Island near Stanley, which are almost completely covered in
+tussock, would provide cover and nesting sites as are used by
+P. australis.
+Acknowledgements
+We are very grateful to Roddy and Lily Napier for allowing us to stay on
+West Point Island for varying lengths of time between 1996 and 2006 and for
+their permission to excavate part of their peat bog and to remove sub-fossil
+bones for research. We thank Nick Woods for dedicated help with excavation
+in 1996 and 1999, while Alastair Pinkerton and Alan Murray helped with
+the exploratory digs in later visits. We are grateful to Adrian Doyle, formerly
+of the Palaeontology Conservation Unit at the Natural History Museum,
+London for advice on bone preservation techniques and we thank Harry
+Taylor for taking specimen photographs. We thank Julian Hume for measur-
+ing caracara specimens held in the collections of the United States National
+Museum and American Museum of Natural History. Access to this material
+was kindly given by Storrs Olson and Paul Sweet respectively. We also
+thank Robert Prys-Jones and Julian Hume for reading and commenting on
+an early draft of this paper and Rob Still of Princeton WILDGuides for
+producing maps.
+References
+Adams, M. P., and Woods, R. W. (1997). Sub-fossil bird bones in a Falkland
+Island peat bog. The Warrah, Newsletter of Falklands Conservation 11,
+6–7.
+Baumel, J. J. (1993). ‘Handbook of Avian Anatomy: Nomina Anatomica
+Avium’, 2nd edn. (Eds Nutall Ornithological Club, World Association of
+Veterinary Anatomists, International Committee on Avian Nomenclature)
+(Nuttall Ornithological Club: Cambridge, MA)
+Brodkorp, P. (1959). Pleistocene birds from New Providence Island,
+Bahamas. Bulletin of the Florida State Museum, Biological Sciences 4,
+349–371.
+Clark, R. (1991). Peat: patterns and processes. The Warrah, Newsletter of
+Falklands Conservation 1, 4–5.
+Dickinson, E. C., and Remsen, J. V. (Eds) (2013). ‘The Howard and
+Moore Complete Checklist of the Birds of the World’. 4th Edn, Vol.1.
+(Aves Press: Eastbourne, UK.)
+Ferguson-Lees, J., and Christie, D. (2001). ‘Raptors of the World’.
+(Christopher Helm: London, UK.)
+Fuchs, J., Johnson, J. A., and Mindell, D. P. (2012). Molecular systematics
+of the caracaras and allies (Falconidae: Polyborinae) inferred from
+mitochondrial and nuclear sequence data. The Ibis 154(3), 520–532.
+doi:10.1111/j.1474-919X.2012.01222.x
+Gregory, P. (1994). Notes on new and scarce birds in the Falkland Islands
+1988–1990. Bulletin of the British Ornithologists’ Club 114(1), 12–20.
+Hattersley-Smith, G., and Hamilton, J. E. (1950). A recent deposit of bird
+bones in the Falkland Islands. Nature 166(4213), 198. doi:10.1038/
+166198b0
+Jones, W. W., Rinderknecht, A., Migotta, R., and Blanco, R. E. (2013).
+Body mass estimations and paleobiological inferences on a new species
+of large caracara (Aves, Falconidae) from the late Pleistocene of
+Uruguay. Journal of Paleontology 87, 151–158. doi:10.1666/12-026R.1
+Jones, W. W., Cenizo, M. M., Agnolin, F. L., Rinderknecht, A., and Blanco,
+R. E. (2015). The largest known falconid. Neues Jahrbuch für Geologie
+und Palaontologie. Abhandlungen 277(3), 361–372. doi:10.1127/njgpa/
+2015/0514
+Morrison, M. (2013). Rare and vagrant birds 2012. Wildlife Conservation in
+the Falkland Islands 18, 12–15.
+Olson, S. L. (2008). A new species of large, terrestrial caracara from
+Holocene deposits in Southern Jamaica (Aves: Falconidae). The Journal
+of Raptor Research 42(4), 265–272. doi:10.3356/JRR-08-18.1
+Pernety, A. J. (1771). The History of a Voyage to the Malouine (or Falkland)
+Islands. (T. Jeffreys: London, UK.)
+H Emu M. P. Adams and R. W. Woods
+Slater, G., Thalmann, O., Leonard, J., Schweizer, R. M., Koepfli, K-P.,
+Pollinger, J. P., Rawlence, N. J., Austin, J. J., Cooper, A., and Wayne,
+R. K. (2009). Evolutionary history of the Falklands wolf. Current Biology
+19, R937–R938. doi:10.1016/j.cub.2009.09.018
+Smith, R. I. L., and Prince, P. A. (1985). The natural history of Beauchêne
+Island. Biological Journal of the Linnean Society. Linnean Society of
+London 24, 233–283. doi:10.1111/j.1095-8312.1985.tb00374.x
+Suárez, W., and Olson, S. L. (2014). A new fossil species of small crested
+caracara (Aves: Falconidae: Caracara) from the Pacific lowlands of
+western South America. Proceedings of the Biological Society of
+Washington 127, 299–310. doi:10.2988/0006-324X-127.2.299
+Tomek, T., and Bochenski, Z. M. (2009). ‘A Key for the Identification
+of Domestic Bird Bones in Europe: Galliformes and Columbiformes.’
+(Institute of Systematics and Evolution of Animals, Polish Academy of
+Sciences: Kraków, Poland)
+Weller, M. W. (1975). Notes on formation and life of ponds of the
+Falkland Islands and South Georgia. British Antarctic Survey Bulletin
+40, 37–49.
+Wetmore, A. (1920). Five new species of birds from cave deposits in
+Puerto Rico. Proceedings of the Biological Society of Washington 33,
+77–82.
+Woods, R. W. (1988). ‘Guide to Birds of the Falkland Islands.’ (Anthony
+Nelson: Oswestry, UK.)
+Woods, R. W. (2001). A survey of the number, size and distribution of
+islands in the Falklands archipelago. The Falkland Islands Journal 7(5),
+1–25.
+Woods, R. W., and Woods, A. (1997). Atlas of Breeding Birds of the
+Falkland Islands. (Anthony Nelson: Oswestry, UK.)
+Woods, R. W., and Woods, A. (2006). ‘Birds and Mammals of the
+Falkland Islands.’ (WILDGuides: Old Basing, UK.)
+Mid-Holocene Falkland Islands bird bones Emu I
+www.publish.csiro.au/journals/emu

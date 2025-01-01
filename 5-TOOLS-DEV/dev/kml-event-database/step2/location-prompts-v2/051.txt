@@ -1,0 +1,11 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: West Australia 5.7ka Tsunami
+
+Basic location of event: Australia
+
+Specific data/information/context related to event: Sci-Hub | The Holocene paleo-tsunami history of West Australia. Earth and Planetary Science Letters, 270(1-2), 137–146 | 10.1016/j.epsl.2008.03.027
+
+Scheffers, S. R., Scheffers, A., Kelletat, D., & Bryant, E. A. (2008). The Holocene paleo-tsunami history of West Australia. Earth and Planetary Science Letters, 270(1-2), 137–146. doi:10.1016/j.epsl.2008.03.027
+
+10.1016/j.epsl.2008.03.027

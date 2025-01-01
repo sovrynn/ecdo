@@ -1,0 +1,368 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Skara Brae
+
+Basic location of event: Skara Brae
+
+Specific data/information/context related to event: Skara Brae
+
+This article is about Neolithic settlement in Orkney, Scotland. For other uses, see Skara Brae (disambiguation).
+
+Skara Brae is a stone-built Neolithic settlement, located on the Bay of Skaill in the parish of Sandwick, on the west coast of Mainland, the largest island in the Orkney archipelago of Scotland. It consisted of ten clustered houses, made of flagstones, in earthen dams that provided support for the walls; the houses included stone hearths, beds, and cupboards. A primitive sewer system, with "toilets" and drains in each house, included water used to flush waste into a drain and out to the ocean.
+
+The site was occupied from roughly 3180 BC to about 2500 BC and is Europe's most complete Neolithic village. Skara Brae gained UNESCO World Heritage Site status as one of four sites making up "The Heart of Neolithic Orkney." Older than Stonehenge and the Great Pyramids of Giza, it has been called the "Scottish Pompeii" because of its excellent preservation.
+
+Care of the site is the responsibility of Historic Environment Scotland which works with partners in managing the site: Orkney Islands Council, NatureScot (Scottish Natural Heritage), and the Royal Society for the Protection of Birds. Visitors to the site are welcome during much of the year.
+
+Uncovered by a storm in 1850, the coastal site may now be at risk from climate change.
+
+Discovery and early exploration
+
+In the winter of 1850, a severe storm hit Scotland, causing widespread damage and over 200 deaths. In the Bay of Skaill, the storm stripped earth from a large irregular knoll. (The name Skara Brae is a corruption of Skerrabra or Styerrabrae, which originally referred to the knoll.) When the storm cleared, local villagers found the outline of a village consisting of several small houses without roofs. William Graham Watt of Skaill House, a son of the local laird who was a self-taught geologist, began an amateur excavation of the site, but after four houses were uncovered, work was abandoned in 1868.
+
+The site remained undisturbed until 1913, when during a single weekend, the site was plundered by a party with shovels who took away an unknown quantity of artefacts. In 1924, another storm swept away part of one of the houses, and it was determined the site should be secured and properly investigated. The job was given to the University of Edinburgh's Professor V. Gordon Childe, who travelled to Skara Brae for the first time in mid-1927.
+
+In 2019 a series of photographs showing Childe and four women at the site of the excavation were re-examined. It had been widely believed that the women were tourists or local women visiting the excavation site, but a note on the back of the photographs identified the women as "4 of [Childe's] lady students", and it seems that they were active participants in the excavation. The women have been tentatively identified as Margaret E. B. Simpson (who was acknowledged in Childe's monographs about Skara Brae), Margaret Mitchell, Mary Kennedy and Margaret Cole.
+
+Neolithic lifestyle
+
+The inhabitants of Skara Brae were makers and users of grooved ware, a distinctive style of pottery that had recently appeared in northern Scotland. The houses used earth sheltering: built sunk in the ground, into mounds of prehistoric domestic waste known as middens. This provided the houses with stability and also acted as insulation against Orkney's harsh winter climate. On average, each house measures 40 square metres (430 sq ft) with a large square room containing a stone hearth used for heating and cooking. Given the number of homes, it seems likely that no more than fifty people lived in Skara Brae at any given time.
+
+It is not clear what material the inhabitants burned in their hearths. Childe was sure that the fuel was peat, but a detailed analysis of vegetation patterns and trends suggests climatic conditions conducive to the development of thick beds of peat did not develop in this part of Orkney until after Skara Brae was abandoned. Other possible fuels include driftwood and animal dung. There is evidence that dried seaweed may have been used significantly. At some sites in Orkney, investigators have found a glassy, slag-like material called "kelp" or "cramp" which may be residual burnt seaweed.
+cupboards, dressers, seats, and storage boxes. Each dwelling was entered through a low doorway with a stone slab door which could be shut by a bar made of bone that slid in bar-holes cut in the stone door jambs. Several dwellings offered a small connected antechamber, offering access to a partially covered stone drain leading away from the village. It is suggested that these chambers served as indoor toilets. Seven of the houses have similar furniture, with the beds and dressers in the same places in each house. The dresser stands against the wall opposite the door and is the first thing seen by anyone entering the dwelling. Each of these houses had a larger bed on the right side of the doorway and a smaller one on the left. Lloyd Laing noted that this pattern accorded with Hebridean custom up to the early 20th century suggesting that the husband's bed was the larger and the wife's was the smaller. The discovery of beads and paint pots in some of the smaller beds may support this interpretation. Additional support may come from the recognition that stone boxes lie to the left of most doorways, forcing the person entering the house to turn to the right-hand, "male", side of the dwelling. At the front of each bed lie the stumps of stone pillars that may have supported a canopy of fur; another link with recent Hebridean style.
+
+House 8 has no storage boxes or dresser and has been divided into something resembling small cubicles. Fragments of stone, bone, and antler were excavated suggesting House 8 may have been used to make tools such as bone needles or flint axes. The presence of heat-damaged volcanic rocks and what appears to be a flue, supports this interpretation. House 8 is distinctive in other ways as well: it is a stand-alone structure not surrounded by midden; instead it is above ground with walls over 2 metres (6.6 ft) thick and has a "porch" protecting the entrance.
+
+The site provided the earliest known record of the human flea (Pulex irritans) in Europe. 
+
+The Grooved Ware People who built Skara Brae were primarily pastoralists who raised cattle, pig and sheep. Childe originally believed that the inhabitants did not farm, but excavations in 1972 unearthed seed grains from a midden suggesting that barley was cultivated. Fish bones and shells are common in the midden indicating that dwellers ate seafood. Limpet shells are standard and may have been fish bait that was kept in stone boxes in the homes. The boxes were formed from thin slabs with joints carefully sealed with clay to render them waterproof.
+
+This pastoral lifestyle is in sharp contrast to some of the more exotic interpretations of the culture of the Skara Brae people. Euan MacKie suggested that Skara Brae might be the home of a privileged theocratic class of wise men who engaged in astronomical and magical ceremonies at nearby Ring of Brodgar and the Standing Stones of Stenness. Graham and Anna Ritchie cast doubt on this interpretation noting there is no archaeological evidence for this claim, although a Neolithic "low road" that goes from Skara Brae passes near both these sites and ends at the chambered tomb of Maeshowe. Low roads connect Neolithic ceremonial sites throughout Britain.
+
+Originally, Childe believed that the settlement dated from around 500 BC. This interpretation was coming under increasing challenge by the time new excavations in 1972–73 settled the question. Radiocarbon results obtained from samples collected during these excavations indicate that occupation of Skara Brae began about 3180 BC with occupation continuing for about six hundred years. Around 2500 BC, after the climate changed, becoming much colder and wetter, the settlement may have been abandoned by its inhabitants. There are many theories as to why the people of Skara Brae left; particularly popular interpretations involving a major storm. Evan Hadingham combined evidence from found objects with the storm scenario to imagine a dramatic end to the settlement:
+
+As was the case at Pompeii, the inhabitants seem to have been taken by surprise and fled in haste, for many of their prized possessions, such as necklaces made from animal teeth and bone, or pins of walrus ivory, were left behind. The remains of choice meat joints were discovered in some of the beds, presumably forming part of the villagers' last supper. One woman was in such haste that her necklace broke as she squeezed through the narrow doorway of her home, scattering a stream of beads along the passageway outside as she fled the encroaching sand.
+
+Anna Ritchie strongly disagrees with catastrophic interpretations of the village's abandonment:
+
+A popular myth would have the village abandoned during a massive storm that threatened to bury it in sand instantly, but the truth is that its burial was gradual and that it had already been abandoned – for what reason, no one can tell.
+
+The site was farther from the sea than it is today, and it is possible that Skara Brae was built adjacent to a fresh water lagoon protected by dunes. Although the visible buildings give an impression of an organic whole, certainly, an unknown quantity of additional structures had already been lost to sea erosion before the site's rediscovery and subsequent protection by a seawall. Uncovered remains are known to exist immediately adjacent to the ancient monument in areas presently covered by fields, and others, of uncertain date, can be seen eroding out of the cliff edge a little to the south of the enclosed area.
+
+A number of enigmatic carved stone balls have been found at the site and some are on display in the museum. Similar objects have been found throughout northern Scotland. The spiral ornamentation on some of these "balls" has been stylistically linked to objects found in the Boyne Valley in Ireland. Similar symbols have been found carved into stone lintels and bed posts. These symbols, sometimes referred to as "runic writings", have been subjected to controversial translations. For example, author Rodney Castleden suggested that "colons" found punctuating vertical and diagonal symbols may represent separations between words.
+
+Lumps of red ochre found here and at other Neolithic sites have been interpreted as evidence that body painting may have been practised. 
+
+Nodules of haematite with polished surfaces have been found as well; the shiny surfaces suggest that the nodules were used to finish leather.
+
+Other artefacts excavated on site made of animal, fish, bird, and whalebone, whale and walrus ivory, and orca teeth included awls, needles, knives, beads, adzes, shovels, small bowls and, remarkably, ivory pins up to 25 centimetres (9.8 in) long. These pins are similar to examples found in passage graves in the Boyne Valley, another piece of evidence suggesting a linkage between the two cultures. The eponymous Skaill knife was a commonly used tool in Skara Brae; it consists of a large stone flake, with a sharp edge used for cutting, knocked off a sandstone cobble. This neolithic tool is named after Skara Brae's location in the Bay of Skaill on Orkney. Skaill knives have been found throughout Orkney and Shetland.
+
+The 1972 excavations reached layers that had remained waterlogged and had preserved items that otherwise would have been destroyed. These include a twisted skein of heather, one of a very few known examples of Neolithic rope, and a wooden handle.
+
+Knap of Howar, on the Orkney island of Papa Westray, is a well-preserved Neolithic farmstead. Dating from 3500 BC to 3100 BC, it is similar in design to Skara Brae, but from an earlier period, and it is thought to be the oldest preserved standing building in northern Europe.
+
+The Barnhouse Settlement is by Loch of Harray on the Orkney Mainland, not far from the Standing Stones of Stenness. Excavations were conducted between 1986 and 1991, over time revealing the base courses of at least 15 houses. The houses have similarities to those of the early phase of Skara Brae in that they have central hearths, beds built against the walls and stone dressers, and internal drains, but differ in that the houses seem to have been free-standing. The settlement dates back to circa 3000 BC.
+
+A comparable, though smaller, site exists at Rinyo on Rousay, Orkney. Unusually, no Maeshowe-type tombs have been found on Rousay and although there are a large number of Orkney–Cromarty chambered cairns, these were built by Unstan ware people.
+
+There is also a site currently under excavation at Links of Noltland on Westray that appears to have similarities to Skara Brae.
+
+"The Heart of Neolithic Orkney" was inscribed as a World Heritage site in December 1999. In addition to Skara Brae the site includes Maeshowe, the Ring of Brodgar, the Standing Stones of Stenness and other nearby sites. It is managed by Historic Environment Scotland, whose "Statement of Significance" for the site begins:
+
+The monuments at the heart of Neolithic Orkney and Skara Brae proclaim the triumphs of the human spirit in early ages and isolated places. They were approximately contemporary with the mastabas of the archaic period of Egypt (first and second dynasties), the brick temples of Sumeria, and the first cities of the Harappa culture in India, and a century or two earlier than the Golden Age of China. Unusually fine for their early date, and with a remarkably rich survival of evidence, these sites stand as a visible symbol of the achievements of early peoples away from the traditional centres of civilisation.
+
+Some areas and facilities were closed due to the worldwide COVID-19 pandemic during parts of 2020 and into 2021.
+
+In 2019, a risk assessment was performed to assess the site's vulnerability to climate change. The report by Historic Environment Scotland, the Orkney Islands Council and others concludes that the entire Heart of Neolithic Orkney World Heritage Site, and in particular Skara Brae, is "extremely vulnerable" to climate change due to rising sea levels, increased rainfall and other factors; it also highlights the risk that Skara Brae could be partially destroyed by one unusually severe storm.
+
+The 1968 children's novel The Boy with the Bronze Axe by Kathleen Fidler is set during the last days of Skara Brae. This theme is also adopted by Rosemary Sutcliff in her 1977 novel Shifting Sands, in which the evacuation of the site is portrayed as unhurried, with most of the inhabitants surviving.
+The Irish traditional music group Skara Brae took their name from the settlement. Their only album Skara Brae was released in 1971 and reissued on CD in 1998.
+A stone was unveiled in Skara Brae on 12 April 2008 marking the anniversary of Soviet cosmonaut Yuri Gagarin becoming the first man to orbit the Earth in 1961.
+The video game The Bard's Tale takes place in a fictionalised version of Skara Brae.
+The video game Starsiege: Tribes features an iconic map named "Scarabrae".
+The video game series Ultima includes the city of Skara Brae, which is on an island to the west of the main continent. It is devoted to the virtue of Spirituality, located next to a moongate and is the home of Shamino the Ranger.
+In Kim Stanley Robinson's 1991 novelette A History of the Twentieth Century, with Illustrations, the main character visits Skara Brae and other Orkney Island neolithic sites as part of a journey he takes to gain perspective on the violent history of the 20th century.
+In the film Indiana Jones and the Kingdom of the Crystal Skull, Jones is shown lecturing to his students about the site, where he gives the date as "3100 BC".
+Skara Brae is used as the name for a New York Scottish pub in the IDW Teenage Mutant Ninja Turtles comic series.
+Skara Brae's ancient sewer system and its use of running water is referenced by Medical Examiner Dr. Donald "Ducky" Mallard in NCIS episode "Murder 2.0" (season 6, episode 6).
+ISBN 0-7486-1736-1.
+Burl, Aubrey (1976). The Stone Circles of the British Isles. London: Yale University Press. ISBN 0-300-01972-6.
+Burl, Aubrey (1979). Prehistoric Avebury. London: Yale University Press. ISBN 0-300-02368-5.
+Castleden, Rodney (1987). The Stonehenge People. London: Routledge & Kegan Paul Ltd. ISBN 0-7102-0968-1.
+Childe, V. Gordon (1931). Skara Brae, a Pictish Village in Orkney. meeting held in London: monograph of the Royal Commission on the Ancient and Historical Monuments of Scotland.
+Childe, V. Gordon; Simpson, W. Douglas (1952). Illustrated History of Ancient Monuments: Vol. VI Scotland. Edinburgh: Her Majesty's Stationery Office.
+Childe, V. Gordon; Clarke, D. V. (1983). Skara Brae. Edinburgh: Her Majesty's Stationery Office. ISBN 0-11-491755-8.
+Clarke, D.V.; Sharples, Niall (1985). Settlements and Subsistence in the Third Millennium BC, in: Renfrew, Colin (Ed.) The Prehistory of Orkney BC 4000–1000 AD. Edinburgh: Edinburgh University Press. ISBN 0-85224-456-8.
+Darvill, Timothy (1987). Prehistoric Britain. London: Yale University Press. ISBN 0-300-03951-4.
+Fenton, Alexander (1978). Northern Isles: Orkney and Shetland. John Donald Publishers Ltd. ISBN 0-85976-019-7.
+Fidler, Kathleen (2005). The Boy with the Bronze Axe. Edinburgh: Floris Books. ISBN 978-0-86315-488-1.
+Hadingham, Evan (1975). Circles and Standing Stones: An Illustrated Exploration of the Megalith Mysteries of Early Britain. New York: Walker and Company. ISBN 0-8027-0463-8.
+Hawkes, Jacquetta (1986). The Shell Guide to British Archaeology. London: Michael Joseph. ISBN 0-7181-2448-0.
+Hedges, John W. (1984). Tomb of the Eagles: Death and Life in a Stone Age Tribe. New York: New Amsterdam. ISBN 0-941533-05-0.
+Keatinge, T.H.; Dickson, J.H. (1979). "Mid Flandrian Changes in Vegetation in Mainland Orkney". New Phytol. 82 (2): 585–612. doi:10.1111/j.1469-8137.1979.tb02684.x.
+Laing, Lloyd (1974). Orkney and Shetland: An Archaeological Guide. Newton Abbott: David and Charles Ltd. ISBN 0-7153-6305-0.
+Laing, Lloyd & Jennifer (1982). The Origins of Britain. London: Paladin. ISBN 0-586-08370-7.
+MacKie, Euan (1977). Science and Society in Prehistoric Britain. London: Palgrave Macmillan. ISBN 0-312-70245-0.
+Piggott, Stuart (1954). Neolithic Cultures of the British Isles. Cambridge University Press. ISBN 0-521-07781-8.
+Ritchie, Anna (1995). Prehistoric Orkney. London: B.T. Batsford Ltd. ISBN 0-7134-7593-5.
+Ritchie, Graham & Anna (1981). Scotland: Archaeology and Early History. New York: Thames and Hudson. ISBN 0-500-27365-0. 
+
+External links
+Wikimedia Commons has media related to Skara Brae.
+"Historic Scotland: Skara Brae Prehistoric Village". Retrieved 3 November 2011.
+"Royal Commission on the Ancient and Historical Monuments of Scotland: Site Record for Skara Brae". Retrieved 3 November 2011.
+Skaill House, Bay of Skaill, home of excavator William Watt.
+Racloir
+Rope
+Scraper
+side
+Stone tool
+Tally stick
+Weapons
+Wheel
+illustration
+Architecture
+Ceremonial
+Kiva
+Pyramid
+Standing stones
+megalith
+row
+Stonehenge
+Dwellings
+Neolithic architecture
+long house
+British megalith architecture
+Nordic megalith architecture
+Burdei
+Cave
+Cliff dwelling
+Dugout
+Hut
+Quiggly hole
+Jacal
+Longhouse
+Mudbrick
+Mehrgarh
+Pit-house
+Pueblitos
+Pueblo
+Rock shelter
+Blombos Cave
+Abri de la Madeleine
+Sibudu Cave
+Roundhouse
+Stilt house
+Alp pile dwellings
+Stone roof
+Wattle and daub
+Water management
+Check dam
+Cistern
+Flush toilet
+Reservoir
+Well
+Other architecture
+Archaeological features
+Broch
+Burnt mound
+fulacht fiadh
+Causewayed enclosure
+Tor enclosure
+Neolithic circular enclosures in Central Europe
+Circular enclosure
+Goseck
+Cursus
+Henge
+Thornborough
+Megalithic architectural elements
+Midden
+Oldest extant buildings
+Timber circle
+Timber trackway
+Sweet Track
+Arts and culture
+Material goods
+Baskets
+Beadwork
+Beds
+Chalcolithic
+Clothing/textiles
+timeline
+Cosmetics
+Glue
+Hides
+shoes
+Ötzi
+Jewelry
+amber use
+Mirrors
+Pottery
+Cardium
+Cord-marked
+Grooved ware
+Jōmon
+Linear
+Unstan ware
+Sewing needle
+Weaving
+Wine
+winery
+wine press
+Prehistoric art
+Art of the Upper Paleolithic
+Art of the Middle Paleolithic
+Blombos Cave
+List of Stone Age art
+Bird stone
+Cairn
+Carved stone balls
+Cave paintings
+Cup and ring mark
+Geoglyph
+Hill figure
+Golden hats
+Guardian stones
+Gwion Gwion rock paintings
+painting
+pigment
+Megalithic art
+Petroform
+Petroglyph
+Petrosomatoglyph
+Pictogram
+Rock art
+Rock cupule
+Stone carving
+Sculpture
+Statue menhir
+Stone circle
+list
+Stone circles in the British Isles and Brittany
+Venus figurine
+Burial
+Burial mounds
+Bowl barrow
+Round barrow
+Mound Builders culture
+U.S. sites
+Chamber tomb
+Cotswold-Severn
+Cist
+Dartmoor kistvaens
+Clava cairn
+Court cairn
+Cremation
+Dolmen
+Great dolmen
+Pyre
+Funeral pyre
+Gallery grave
+transepted
+wedge-shaped
+Grave goods
+Jar burial
+Long barrow
+unchambered
+Grønsalen
+Megalithic tomb
+Mummy
+Passage grave
+Rectangular dolmen
+Ring cairn
+Simple dolmen
+Stone box grave
+Tor cairn
+Unchambered long cairn
+Other cultural
+Archaeoastronomy
+sites
+lunar calendar
+Behavioral modernity
+Evolutionary musicology
+music archaeology
+Evolutionary origin of religion
+Paleolithic religion
+Prehistoric religion
+Spiritual drug use
+Origin of language
+Prehistoric counting
+Prehistoric medicine
+trepanning
+Prehistoric music
+Alligator drum
+flutes
+Divje Babe flute
+gudi
+Prehistoric warfare
+Symbols
+symbolism
+World Heritage Site 'Tentative List' applicants in Scotland
+2006 applicants
+Cairngorm Mountains
+2010 applicants
+Mousa, Old Scatness and Jarlshof: The Zenith of Iron Age Shetland
+Arbroath Abbey
+Buildings of Charles Rennie Mackintosh, Glasgow
+St Andrews, Medieval Burgh and Links
+World Heritage Sites in the United Kingdom
+England
+Bath
+Great Spa Towns of Europe
+Blenheim Palace
+Canterbury Cathedral
+St Augustine's Abbey
+St Martin's Church
+Cornwall and West Devon Mining Landscape
+Derwent Valley Mills
+Durham Castle
+Cathedral
+Frontiers of the Roman Empire
+Hadrian's Wall
+Ironbridge Gorge
+Jodrell Bank Observatory
+Jurassic Coast
+Kew Royal Botanic Gardens
+Lake District
+Maritime Greenwich
+Palace of Westminster
+Westminster Abbey
+St Margaret's Church
+Saltaire
+Stonehenge, Avebury and Associated Sites
+Studley Royal Park
+Fountains Abbey
+Tower of London
+Scotland
+Edinburgh Old Town
+New Town
+Forth Bridge
+Frontiers of the Roman Empire
+Antonine Wall
+Heart of Neolithic Orkney
+New Lanark
+St Kilda
+Wales
+Blaenavon Industrial Landscape
+Castles and Town Walls of King Edward I in Gwynedd
+Beaumaris Castle
+Caernarfon Castle
+Caernarfon town walls
+Conwy Castle
+Conwy town walls
+Harlech Castle
+Pontcysyllte Aqueduct and Canal
+The Slate Landscape of Northwest Wales
+Northern Ireland
+Giant's Causeway
+British Overseas Territories
+Gorham's Cave Complex
+Gough Island
+Inaccessible Island
+Henderson Island
+Town of St George and Related Fortifications
+Former
+Liverpool Maritime Mercantile City
+Authority control databases
+Geographic
+Pleiades

@@ -1,0 +1,322 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: End of the Old Kingdom in Egypt
+
+Basic location of event: Egypt
+
+Specific data/information/context related to event: Old Kingdom of Egypt
+
+Period in ancient Egyptian history (c. 2686–2181 BC)
+
+"Old Kingdom" redirects here. For other uses, see Old Kingdom (disambiguation).
+
+Old Kingdom of Egypt
+c. 2686 BC–c. 2181 BC
+
+Capital: Memphis
+
+Common languages: Ancient Egyptian
+
+Religion: Ancient Egyptian religion
+
+Government: Divine, absolute monarchy
+
+Pharaoh: Djoser (first) last king depends on the scholar, Neitiqerty Siptah (6th Dynasty) or Neferirkare (7th/8th Dynasty)
+
+History: Began c. 2686 BC, Ended c. 2181 BC
+
+Population: 1.6 million (2500 BC)
+
+Preceded by: Early Dynastic Period of Egypt
+
+Succeeded by: First Intermediate period
+border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:640px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}body.skin--responsive .mw-parser-output .sidebar a>img{max-width:none!important}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-list-title,html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle{background:transparent!important}html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle a{color:var(--color-progressive)!important}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-list-title,html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle{background:transparent!important}html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle a{color:var(--color-progressive)!important}}@media print{body.ns-0 .mw-parser-output .sidebar{display:none!important}}
+
+Part of a series on the
+
+History of Egypt
+
+Prehistoric Egypt
+
+Paleolithic
+
+300,000–17,000 BC
+
+Mesolithic
+
+17,000–9000 BC
+
+Predynastic Period
+
+6000–3000 BC
+
+Ancient Egypt
+
+Early Dynastic Period
+
+3150–2686 BC
+
+Old Kingdom
+
+2686–2181 BC
+
+1st Intermediate Period
+
+2181–2055 BC
+
+Middle Kingdom
+
+2055–1650 BC
+
+2nd Intermediate Period
+
+1650–1550 BC
+
+New Kingdom
+
+1550–1069 BC
+
+3rd Intermediate Period
+
+1069–664 BC
+
+Late Period
+
+664–332 BC
+
+Greco-Roman Egypt
+
+Argead dynasty
+
+332–310 BC
+
+Ptolemaic dynasties
+
+310–30 BC
+
+Roman and Byzantine Egypt
+
+30 BC–641 AD
+
+Sasanian Egypt
+
+619–629
+
+Medieval Egypt
+
+Rashidun caliphate
+
+641–661
+
+Umayyad caliphate
+
+661–750
+
+Abbasid dynasty
+
+750–935
+
+Tulunid dynasty
+
+868–905
+
+Ikhshidid dynasty
+
+935–969
+
+Fatimid dynasty
+
+969–1171
+
+Ayyubid dynasty
+
+1171–1250
+
+Mamluk dynasty
+
+1250–1517
+
+Early modern Egypt
+
+Ottoman Egypt
+
+1517–1867
+
+French occupation
+
+1798–1801
+
+Muhammad Ali dynasty
+
+1805–1953
+
+Khedivate of Egypt
+
+1867–1914
+
+Late Modern Egypt
+
+British occupation
+
+1882–1922
+
+Sultanate of Egypt
+
+1914–1922
+
+Kingdom of Egypt
+
+1922–1953
+
+Republic
+
+1953–present
+
+Egypt portal
+
+In ancient Egyptian history, the Old Kingdom is the period spanning c. 2700–2200 BC. It is also known as the "Age of the Pyramids" or the "Age of the Pyramid Builders", as it encompasses the reigns of the great pyramid-builders of the Fourth Dynasty, such as King Sneferu, under whom the art of pyramid-building was perfected, and the kings Khufu, Khafre and Menkaure, who commissioned the construction of the pyramids at Giza. Egypt attained its first sustained peak of civilization during the Old Kingdom, the first of three so-called "Kingdom" periods (followed by the Middle Kingdom and New Kingdom), which mark the high points of civilization in the lower Nile Valley.
+
+The concept of an "Old Kingdom" as one of three "golden ages" was coined in 1845 by the German Egyptologist Baron von Bunsen, and its definition evolved significantly throughout the 19th and the 20th centuries. Not only was the last king of the Early Dynastic Period related to the first two kings of the Old Kingdom, but the "capital", the royal residence, remained at Ineb-Hedj, the Egyptian name for Memphis. The basic justification for separating the two periods is the revolutionary change in architecture accompanied by the effects on Egyptian society and the economy of large-scale building projects.
+
+The Old Kingdom is most commonly regarded as the period from the Third Dynasty to the Sixth Dynasty (2686–2181 BC). Information from the Fourth to the Sixth Dynasties of Egypt is scarce, and historians regard the history of the era as literally "written in stone" and largely architectural in that it is through the monuments and their inscriptions that scholars have been able to construct a history. Egyptologists also include the Memphite Seventh and Eighth Dynasties in the Old Kingdom as a continuation of the administration, centralized at Memphis. While the Old Kingdom was a period of internal security and prosperity, it was followed by a period of disunity and relative cultural decline referred to by Egyptologists as the First Intermediate Period. During the Old Kingdom, the King of Egypt (not called the Pharaoh until the New Kingdom) became a living god who ruled absolutely and could demand the services and wealth of his subjects.
+
+Under King Djoser, the first king of the Third Dynasty of the Old Kingdom, the royal capital of Egypt was moved to Memphis, where Djoser established his court. A new era of building was initiated at Saqqara under his reign. King Djoser's architect, Imhotep, is credited with the development of building with stone and with the conception of the new architectural form, the step pyramid. The Old Kingdom is best known for a large number of pyramids constructed at this time as burial places for Egypt's kings.
+
+History
+
+Rise of the Old Kingdom
+
+The first King of the Old Kingdom was Djoser (sometime between 2691 and 2625 BC) of the Third Dynasty, who ordered the construction of a pyramid (the Step Pyramid) in Memphis' necropolis, Saqqara. An important person during the reign of Djoser was his vizier, Imhotep.
+
+It was in this era that formerly independent ancient Egyptian states became known as nomes, under the rule of the king. The former rulers were forced to assume the role of governors or otherwise work in tax collection. Egyptians in this era believed the king to be the incarnation of Horus, linking the human and spiritual worlds. Egyptian views on the nature of time during this period held that the universe worked in cycles, and the Pharaoh on earth worked to ensure the stability of those cycles. They also perceived themselves as specially selected people.
+
+Height of the Old Kingdom
+
+The Old Kingdom and its royal power reached a zenith under the Fourth Dynasty (2613–2494 BC). King Sneferu, the first king of the Fourth Dynasty, held territory from ancient Libya in the west to the Sinai Peninsula in the east, to Nubia in the south. An Egyptian settlement was founded at Buhen in Nubia which endured for 200 years. After Djoser, Sneferu was the next great pyramid builder. He commissioned the building of not one, but three pyramids. The first is called the Meidum Pyramid, named for its location in Egypt. Sneferu abandoned it after the outside casing fell off of the pyramid. The Meidum pyramid was the first to have an above-ground burial chamber.
+
+Using more stones than any other Pharaoh, he commissioned the three pyramids: a now collapsed pyramid in Meidum, the Bent Pyramid at Dahshur, and the Red Pyramid at North Dahshur. However, the full development of the pyramid style of building was reached not at Saqqara, but during the building of the Great Pyramids at Giza.
+
+Sneferu was succeeded by his son, Khufu (2589–2566 BC), who commissioned the Great Pyramid of Giza. After Khufu's death, his sons Djedefre (2566–2558 BC) and Khafre (2558–2532 BC) may have quarrelled. The latter commissioned the second pyramid and (in traditional thinking) the Great Sphinx of Giza. Recent re-examination of evidence has led Egyptologist Vassil Dobrev to propose that the Sphinx was commissioned by Djedefre as a monument to his father Khufu. Alternatively, the Sphinx has been proposed to be the work of Khafre and Khufu himself.
+
+There were military expeditions into Canaan and Nubia, with Egyptian influence reaching up the Nile into what is today Sudan. The later kings of the Fourth Dynasty were Menkaure (2532–2504 BC), who commissioned the smallest of the three great pyramids in Giza; Shepseskaf (2504–2498 BC); and, perhaps, Djedefptah (2498–2496 BC).
+
+Decline into the First Intermediate Period
+
+The sixth dynasty peaked during the reigns of Pepi I and Merenre I with flourishing trade, several mining and quarrying expeditions and major military campaigns. Militarily, aggressive expansion into Nubia marked Pepi I's reign. At least five military expeditions were sent into Canaan.
+
+There is evidence that Merenre was not only active in Nubia like Pepi I but also sent officials to maintain Egyptian rule over Nubia from the northern border to the area south of the third cataract.
+
+During the Sixth Dynasty (2345–2181 BC) the power of the pharaoh gradually weakened in favor of powerful nomarchs (regional governors). These no longer belonged to the royal family and their charge became hereditary, thus creating local dynasties largely independent from the central authority of the Pharaoh. However, Nile flood control was still the subject of very large works, including especially the canal to Lake Moeris around 2300 BC, which was likely also the source of water to the Giza pyramid complex centuries earlier.
+
+Internal disorders set in during the incredibly long reign of Pepi II (2278–2184 BC) towards the end of the dynasty. His death, certainly well past that of his intended heirs, might have created succession struggles. The country slipped into civil wars mere decades after the close of Pepi II's reign.
+
+The final blow was the 22nd century BC drought in the region that resulted in a drastic drop in precipitation. For at least some years between 2200 and 2150 BC, this prevented the normal flooding of the Nile.
+
+Whatever its cause, the collapse of the Old Kingdom was followed by decades of famine and strife. An important inscription on the tomb of Ankhtifi, a nomarch during the early First Intermediate Period, describes the pitiful state of the country when famine stalked the land.
+
+Art
+
+The most defining feature of ancient Egyptian art is its function, as that was the entire purpose of creation. Art was not made for enjoyment in the strictest sense, but rather served a role of some kind in Egyptian religion and ideology. This fact manifests itself in the artistic style, even as it evolved over the dynasties. The three primary principles of that style, frontality, composite composition, and hierarchy scale, illustrate this quite well. These characteristics, initiated in the Early Dynastic Period and solidified during the Old Kingdom, persisted with some adaptability throughout the entirety of ancient Egyptian history as the foundation of its art.
+
+Frontality, the first principle, indicates that art was viewed directly from the front. One was meant to approach a piece as they would a living individual, for it was meant to be a place of manifestation. The act of interaction would bring forth the divine entity represented in the art. It was therefore imperative that whoever was represented be as identifiable as possible. The guidelines developed in the Old Kingdom and the later grid system developed in the Middle Kingdom ensured that art was axial, symmetrical, proportional, and most importantly reproducible and therefore recognizable. Composite composition, the second principle, also contributes to the goal of identification. Multiple perspectives were used in order to ensure that the onlooker could determine precisely what they saw.
+
+Though Egyptian art almost always includes descriptive text, literacy rates were not high, so the art gave another method for communicating the same information. One of the best examples of composite composition is the human form. In most two-dimensional relief, the head, legs, and feet are seen in profile, while the torso faces directly front. Another common example is an aerial view of a building or location. The third principle, the hierarchy of scale, illustrates relative importance in society. The larger the figure, the more important the individual. The king is usually the largest, aside from deities. The similarity in size equated to similarity in position. However, this is not to say that physical differences were not shown as well. Women, for example, are usually shown as smaller than men. Children retain adult features and proportions but are substantially smaller in size.
+
+Aside from the three primary conventions, there are several characteristics that can help date a piece to a particular time frame. Proportions of the human figure are one of the most distinctive, as they vary between kingdoms. Old Kingdom male figures have characteristically broad shoulders and a long torso, with obvious musculature. On the other hand, females are narrower in the shoulders and waist, with longer legs and a shorter torso. However, in the Sixth Dynasty, the male figures lose their muscularity and their shoulders narrow. The eyes also tend to get much larger.
+
+In order to help maintain the consistency of these proportions, the Egyptians used a series of eight guidelines to divide the body. They occurred at the following locations: the top of the head, the hairline, the base of the neck, the underarms, the tip of the elbow or the bottom of the ribcage, the top of the thigh at the bottom of the buttocks, the knee, and the middle of the lower leg. From the soles of the feet to the hairline was also divided into thirds, one-third between the soles and the knee, another third between the knee and the elbow, and the final third from the elbow to the hairline. The broad shoulders that appeared in the Fifth Dynasty constituted roughly that one-third length as well. These proportions not only help with the identification of representations and the reproduction of art but also tie into the Egyptian ideal of order, which tied into the solar aspect of their religion and the inundations of the Nile.
+
+Gallery
+
+King khufu statue at Cairo museum.
+
+King khafre statue at Cairo museum.
+
+Greywacke statue of Menkaure and Queen Khamerernebty II at the Boston Museum of Fine Arts.
+
+Rahotep and Nofret statues at Cairo museum.
+
+Kaaper around 2500 BC.
+
+Majordomo Keki statue, 6th dynasty at Louvre museum. 
+
+References
+Retrieved 2017-12-04.
+Carl Roebuck (1984), The World of Ancient Times, p. 57.
+Fleming, Nic (14 December 2004). "I have solved riddle of the Sphinx, says Frenchman". The Telegraph. Retrieved 21 May 2022.
+p.5, The Collins Encyclopedia of Military History (4th edition, 1993), Dupuy & Dupuy.
+Miroslav Verner: Archaeological Remarks on the 4th and 5th Dynasty Chronology, Archiv Orientální, Volume 69: 2001.
+Franziska Grathwol, Christian Roos, Dietmar Zinner, Benjamin Hume, Stéphanie M Porcier, Didier Berthet, Jacques Cuisin, Stefan Merker, Claudio Ottoni, Wim Van Neer (2023), "Adulis and the transshipment of baboons during classical antiquity", eLife, 12, doi:10.7554/eLife.87513, PMC 10597581, PMID 37767965.
+Grimal, Nicolas (1994). A History of Ancient Egypt. Wiley-Blackwell (July 19, 1994). p. 76.
+Grimal, Nicolas (1994). A History of Ancient Egypt. Wiley-Blackwell (July 19, 1994). pp. 76, 79.
+Verner, Miroslav (2001b). "Old Kingdom: An Overview". In Redford, Donald B. (ed.). The Oxford Encyclopedia of Ancient Egypt, Volume 2. Oxford: Oxford University Press. pp. 585–591. ISBN 978-0-19-510234-5.
+Shaw, Ian (2003). "New fieldwork at Gebel el-Asr: "Chephren's diorite quarries". In Hawass, Zahi; Pinch Brock, Lyla (eds.). Egyptology at the Dawn of the Twenty-first Century: Archaeology. Cairo, New York: American University in Cairo Press. ISBN 978-977-424-715-6.
+Klemm, Rosemarie; Klemm, Dietrich (2013). Gold and gold mining in ancient Egypt and Nubia: geoarchaeology of the ancient gold mining sites in the Egyptian and Sudanese eastern deserts. Natural science in archaeology. Berlin; New-York: Springer. ISBN 978-1-283-93479-4.
+Verner, Miroslav (2001b). "Old Kingdom: An Overview". In Redford, Donald B. (ed.). The Oxford Encyclopedia of Ancient Egypt, Volume 2. Oxford: Oxford University Press. p. 588. ISBN 978-0-19-510234-5.
+"Siege Scenes of the Old Kingdom". Archived from the original on 2022-02-04. Retrieved 2022-02-04.
+Baker, Darrell (2008). The Encyclopedia of the Pharaohs: Volume I – Predynastic to the Twentieth Dynasty 3300–1069 BC. Stacey International. p. 84. ISBN 978-1-905299-37-9.
+Hayes, William (1978). The Scepter of Egypt: A Background for the Study of the Egyptian Antiquities in The Metropolitan Museum of Art. Vol. 1, From the Earliest Times to the End of the Middle Kingdom. New York: Metropolitan Museum of Art. p. 122. OCLC 7427345.
+Smith, William Stevenson (1971). "The Old Kingdom of Egypt and the Beginning of the First Intermediate Period". In Edwards, I. E. S.; Gadd, C. J.; Hammond, N. G. L. (eds.). The Cambridge Ancient History, Volume 1, Part 2. Early History of the Middle East (3rd ed.). London, New york: Cambridge University Press. pp. 191–194. ISBN 9780521077910. OCLC 33234410.
+Grimal, Nicolas (19 July 1994). A History of Ancient Egypt. Wiley-Blackwell. p. 85.
+Brewer, Douglas J. (2005). Ancient Egypt: foundations of a civilization. Harlow: Longman. ISBN 978-0-582-77253-3.
+Callender, Gae (1998). Egypt in the old kingdom: an introduction. Melbourne: Longman. ISBN 978-0-582-81226-0.
+Kanawati, Naguib (1980). Governmental reforms in old Kingdom Egypt. Modern Egyptology series. Warminster, England: Aris & Phillips. ISBN 978-0-85668-168-4.
+Kanawati, Naguib; Woods, Alexandra; Alexakis, Effy, eds. (2009). Artists of the Old Kingdom: techniques and achievements. Cairo: Supreme Council of Antiquities Press. ISBN 978-977-437-985-7.
+Lehner, Mark (1997). The complete pyramids. New York: Thames & Hudson. ISBN 978-0-500-05084-2.
+Málek, Jaromír; Forman, Werner (1986). In the shadow of the pyramids: Egypt during the Old Kingdom. Norman, OK: University of Oklahoma Press. ISBN 978-0-8061-2027-0.
+McFarlane, Ann; Mourad, Anna-Latifa (2012). Behind the scenes: daily life in Old Kingdom Egypt. Studies. North Ryde: Australian Centre for Egyptology. ISBN 978-0-85668-860-7.
+O'Neill, John P.; Allen, James P., eds. (1999). Egyptian Art in the Age of the Pyramids. New York: Metropolitan Museum of Art. ISBN 978-0-87099-907-9.
+Papazian, Hratch (2012). Domain of Pharaoh: the structure and components of the economy of Old Kingdom Egypt. Hildesheimer Ägyptologische Beiträge. Hildesheim: Gerstenberg. ISBN 978-3-8067-8761-0. OCLC 788217545.
+Ryholt, K. S. B. (1997). The political situation in Egypt during the second intermediate period, c. 1800-1550 B.C. CNI publications. Copenhagen: Museum Tusculanum Press. ISBN 978-87-7289-421-8.
+Sowada, Karin N.; Grave, Peter (2009). Egypt in the Eastern Mediterranean during the Old Kingdom: an archaeological perspective. Orbis biblicus et orientalis. Fribourg, Göttingen: Vandenhoeck & Ruprecht. ISBN 978-3-7278-1649-9. OCLC 428025036.
+Kanawati, Naguib; Strudwick, Nigel (1992). The Administration of Egypt in the Old Kingdom: The Highest Titles and Their Holders. Studies in egyptology. Vol. 78. London: KPI. doi:10.2307/3822094. ISBN 978-0-7103-0107-9. JSTOR 3822094. S2CID 69046660.
+Warden, Leslie Anne (2014). Pottery and economy in Old Kingdom Egypt. Culture and history of the ancient Near East. Leiden; Boston: Brill Publishers. ISBN 978-90-04-25984-3.
+Wilkinson, Toby A. H. (2001). Early dynastic Egypt. London: Routledge. ISBN 978-0-415-26011-4.
+Essina  
+Giao Chỉ  
+Godavaya  
+Guangzhou  
+Jambukola  
+Jeddah  
+Kaveri Poompattinam  
+Kedah  
+Korkai  
+Leptis Magna  
+Lothal  
+Manthai  
+Madurai  
+Malao  
+Mersa Gawasis  
+Myos Hormos  
+Martaban  
+Mueang Phra Rot  
+Muscat  
+Muziris  
+Narbonne  
+Nesis  
+Óc Eo (Cattigara)  
+Opone  
+Ostia Antica  
+Palembang  
+Piraeus  
+Portus Augusti  
+Portus Pisanus  
+Prosphorion  
+Ptolemais Theron  
+Puteoli  
+Qal'at al-Bahrain  
+Qandala  
+Quilon  
+Rhacotis  
+Sarapion  
+Satingpra  
+Sidon  
+Socotra  
+Sounagoura  
+Thapsus  
+Trincomalee  
+Tulum  
+Tyndis  
+Tyre  
+Wadi al-Jarf  
+Zanzibar

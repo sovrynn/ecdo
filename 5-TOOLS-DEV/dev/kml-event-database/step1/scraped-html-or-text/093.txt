@@ -1,0 +1,1255 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Caral - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy",
+"wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"f25771d8-98e7-4e1a-adc2-ebe06904941d","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Caral","wgTitle":"Caral","wgCurRevisionId":1253266607,"wgRevisionId":1253266607,"wgArticleId":897699,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using gadget WikiMiniAtlas","Articles with short description","Short description is different from Wikidata","Articles needing additional references from January 2024","All articles needing additional references","Coordinates on Wikidata","All articles with unsourced statements","Articles with unsourced statements from August 2022","Articles containing Spanish-language text","Commons category link is on Wikidata","Official website different in Wikidata and Wikipedia",
+"Webarchive template wayback links","Andean civilizations","Archaeological sites in Peru","Pyramids in Peru","Former populated places in Peru","World Heritage Sites in Peru","Archaeological sites in Lima Region","Tourist attractions in Lima Region","Andean preceramic","Norte Chico civilization","27th-century BC establishments"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Caral","wgRelevantArticleId":897699,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},
+"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgCoordinates":{"lat":-10.893611111111111,"lon":-77.52027777777778},"wgRelatedArticlesCompat":[],"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q219279","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready",
+"skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.gadget.WikiMiniAtlas","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cmediawiki.page.gallery.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.44.0-wmf.8">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/1d/PiramidesdeCaral.JPG">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="653">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/1d/PiramidesdeCaral.JPG">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="435">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PiramidesdeCaral.JPG/640px-PiramidesdeCaral.JPG">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="348">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Caral - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//en.m.wikipedia.org/wiki/Caral">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Caral&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Caral">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Caral rootpage-Caral skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" class=""><span>Donate</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Caral" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Caral" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en"><span>Donate</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Caral" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Caral" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-History"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#History">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>History</span>
+			</div>
+		</a>
+		
+		<ul id="toc-History-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Archaeological_findings"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Archaeological_findings">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Archaeological findings</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Archaeological_findings-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Archaeological findings subsection</span>
+			</button>
+		
+		<ul id="toc-Archaeological_findings-sublist" class="vector-toc-list">
+			<li id="toc-Main_temple"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Main_temple">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1</span>
+					<span>Main temple</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Main_temple-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Peaceful_society"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Peaceful_society">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.2</span>
+					<span>Peaceful society</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Peaceful_society-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Scope_of_site"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Scope_of_site">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.3</span>
+					<span>Scope of site</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Scope_of_site-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Geoglyph"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Geoglyph">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.4</span>
+					<span>Geoglyph</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Geoglyph-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Musical_instruments"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Musical_instruments">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.5</span>
+					<span>Musical instruments</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Musical_instruments-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-City_layout"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#City_layout">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>City layout</span>
+			</div>
+		</a>
+		
+		<ul id="toc-City_layout-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>See also</span>
+			</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>References</span>
+			</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Further_reading"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Further_reading">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>Further reading</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Further_reading-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>External links</span>
+			</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Caral</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 42 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-42" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">42 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Caral" title="Caral – Afrikaans" lang="af" hreflang="af" data-title="Caral" data-language-autonym="Afrikaans" data-language-local-name="Afrikaans" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D8%B1%D8%A7%D9%84_(%D9%85%D8%AF%D9%8A%D9%86%D8%A9)" title="كارال (مدينة) – Arabic" lang="ar" hreflang="ar" data-title="كارال (مدينة)" data-language-autonym="العربية" data-language-local-name="Arabic" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B2" title="কারাল – Bangla" lang="bn" hreflang="bn" data-title="কারাল" data-language-autonym="বাংলা" data-language-local-name="Bangla" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D1%8C_(%D1%81%D1%82%D0%B0%D1%80%D0%B0%D0%B6%D1%8B%D1%82%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%B0%D0%B4)" title="Караль (старажытны горад) – Belarusian" lang="be" hreflang="be" data-title="Караль (старажытны горад)" data-language-autonym="Беларуская" data-language-local-name="Belarusian" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Caral" title="Caral – Catalan" lang="ca" hreflang="ca" data-title="Caral" data-language-autonym="Català" data-language-local-name="Catalan" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Caral" title="Caral – Czech" lang="cs" hreflang="cs" data-title="Caral" data-language-autonym="Čeština" data-language-local-name="Czech" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Caral" title="Caral – Danish" lang="da" hreflang="da" data-title="Caral" data-language-autonym="Dansk" data-language-local-name="Danish" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Caral" title="Caral – German" lang="de" hreflang="de" data-title="Caral" data-language-autonym="Deutsch" data-language-local-name="German" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Caral" title="Caral – Spanish" lang="es" hreflang="es" data-title="Caral" data-language-autonym="Español" data-language-local-name="Spanish" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Caral" title="Caral – Esperanto" lang="eo" hreflang="eo" data-title="Caral" data-language-autonym="Esperanto" data-language-local-name="Esperanto" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Caral" title="Caral – Basque" lang="eu" hreflang="eu" data-title="Caral" data-language-autonym="Euskara" data-language-local-name="Basque" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%84" title="کارل – Persian" lang="fa" hreflang="fa" data-title="کارل" data-language-autonym="فارسی" data-language-local-name="Persian" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Caral" title="Caral – French" lang="fr" hreflang="fr" data-title="Caral" data-language-autonym="Français" data-language-local-name="French" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%9E%84" title="카랄 – Korean" lang="ko" hreflang="ko" data-title="카랄" data-language-autonym="한국어" data-language-local-name="Korean" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Caral" title="Caral – Croatian" lang="hr" hreflang="hr" data-title="Caral" data-language-autonym="Hrvatski" data-language-local-name="Croatian" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Caral" title="Caral – Italian" lang="it" hreflang="it" data-title="Caral" data-language-autonym="Italiano" data-language-local-name="Italian" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%90%D7%A8%D7%90%D7%9C" title="קאראל – Hebrew" lang="he" hreflang="he" data-title="קאראל" data-language-autonym="עברית" data-language-local-name="Hebrew" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%A0%E1%83%90%E1%83%9A%E1%83%98" title="კარალი – Georgian" lang="ka" hreflang="ka" data-title="კარალი" data-language-autonym="ქართული" data-language-local-name="Georgian" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Caral" title="Caral – Latin" lang="la" hreflang="la" data-title="Caral" data-language-autonym="Latina" data-language-local-name="Latin" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Karalis" title="Karalis – Lithuanian" lang="lt" hreflang="lt" data-title="Karalis" data-language-autonym="Lietuvių" data-language-local-name="Lithuanian" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Caral-Supe" title="Caral-Supe – Hungarian" lang="hu" hreflang="hu" data-title="Caral-Supe" data-language-autonym="Magyar" data-language-local-name="Hungarian" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BB" title="Карал – Macedonian" lang="mk" hreflang="mk" data-title="Карал" data-language-autonym="Македонски" data-language-local-name="Macedonian" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-mt mw-list-item"><a href="https://mt.wikipedia.org/wiki/Caral" title="Caral – Maltese" lang="mt" hreflang="mt" data-title="Caral" data-language-autonym="Malti" data-language-local-name="Maltese" class="interlanguage-link-target"><span>Malti</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D9%83%D8%A7%D8%B1%D8%A7_(%D9%85%D8%AF%D9%8A%D9%86%D9%87_%D8%B6%D8%A7%D9%8A%D8%B9%D9%87_%D9%81%D9%89_%D8%A8%D8%A7%D8%B1%D8%A7%D9%86%D9%83%D8%A7_%D9%BE%D8%B1%D9%88%DA%A4%D9%8A%D9%86%D8%B3)" title="كارا (مدينه ضايعه فى بارانكا پروڤينس) – Egyptian Arabic" lang="arz" hreflang="arz" data-title="كارا (مدينه ضايعه فى بارانكا پروڤينس)" data-language-autonym="مصرى" data-language-local-name="Egyptian Arabic" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Caral" title="Caral – Dutch" lang="nl" hreflang="nl" data-title="Caral" data-language-autonym="Nederlands" data-language-local-name="Dutch" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a href="https://ne.wikipedia.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A4%B2" title="क्यारल – Nepali" lang="ne" hreflang="ne" data-title="क्यारल" data-language-autonym="नेपाली" data-language-local-name="Nepali" class="interlanguage-link-target"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%83%AB%E9%81%BA%E8%B7%A1" title="カラル遺跡 – Japanese" lang="ja" hreflang="ja" data-title="カラル遺跡" data-language-autonym="日本語" data-language-local-name="Japanese" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Caral" title="Caral – Norwegian Nynorsk" lang="nn" hreflang="nn" data-title="Caral" data-language-autonym="Norsk nynorsk" data-language-local-name="Norwegian Nynorsk" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Caral" title="Caral – Occitan" lang="oc" hreflang="oc" data-title="Caral" data-language-autonym="Occitan" data-language-local-name="Occitan" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Caral" title="Caral – Polish" lang="pl" hreflang="pl" data-title="Caral" data-language-autonym="Polski" data-language-local-name="Polish" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Caral" title="Caral – Portuguese" lang="pt" hreflang="pt" data-title="Caral" data-language-autonym="Português" data-language-local-name="Portuguese" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Caral" title="Caral – Romanian" lang="ro" hreflang="ro" data-title="Caral" data-language-autonym="Română" data-language-local-name="Romanian" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wikipedia.org/wiki/Karal" title="Karal – Quechua" lang="qu" hreflang="qu" data-title="Karal" data-language-autonym="Runa Simi" data-language-local-name="Quechua" class="interlanguage-link-target"><span>Runa Simi</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D1%8C" title="Караль – Russian" lang="ru" hreflang="ru" data-title="Караль" data-language-autonym="Русский" data-language-local-name="Russian" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Caral" title="Caral – Slovak" lang="sk" hreflang="sk" data-title="Caral" data-language-autonym="Slovenčina" data-language-local-name="Slovak" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Caral" title="Caral – Serbo-Croatian" lang="sh" hreflang="sh" data-title="Caral" data-language-autonym="Srpskohrvatski / српскохрватски" data-language-local-name="Serbo-Croatian" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Caral" title="Caral – Finnish" lang="fi" hreflang="fi" data-title="Caral" data-language-autonym="Suomi" data-language-local-name="Finnish" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Caral" title="Caral – Swedish" lang="sv" hreflang="sv" data-title="Caral" data-language-autonym="Svenska" data-language-local-name="Swedish" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Caral" title="Caral – Turkish" lang="tr" hreflang="tr" data-title="Caral" data-language-autonym="Türkçe" data-language-local-name="Turkish" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D1%8C" title="Караль – Ukrainian" lang="uk" hreflang="uk" data-title="Караль" data-language-autonym="Українська" data-language-local-name="Ukrainian" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Caral" title="Caral – Vietnamese" lang="vi" hreflang="vi" data-title="Caral" data-language-autonym="Tiếng Việt" data-language-local-name="Vietnamese" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%8B%89%E5%B0%94" title="卡拉尔 – Chinese" lang="zh" hreflang="zh" data-title="卡拉尔" data-language-autonym="中文" data-language-local-name="Chinese" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q219279#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Caral" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Caral" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Caral"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Caral&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Caral&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Caral"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Caral&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Caral&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Caral" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Caral" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Caral&amp;oldid=1253266607" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Caral&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Caral&amp;id=1253266607&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCaral"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCaral"><span>Download QR code</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Caral&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Caral&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Caral-Supe" hreflang="en"><span>Wikimedia Commons</span></a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage mw-list-item"><a href="https://en.wikivoyage.org/wiki/Caral" hreflang="en"><span>Wikivoyage</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q219279" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-coordinates" class="mw-indicator"><div class="mw-parser-output"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <style data-mw-deduplicate="TemplateStyles:r1156832818">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a class="external text" href="https://geohack.toolforge.org/geohack.php?pagename=Caral&amp;params=10_53_37_S_77_31_13_W_type:landmark"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">10°53′37″S</span> <span class="longitude">77°31′13″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">10.89361°S 77.52028°W</span><span style="display:none">&#xfeff; / <span class="geo">-10.89361; -77.52028</span></span></span></a></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Archaeological site in Peru</div><style data-mw-deduplicate="TemplateStyles:r1251242444">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}@media print{body.ns-0 .mw-parser-output .ambox{display:none!important}}</style><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><a href="/wiki/File:Question_book-new.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></span></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a href="/wiki/Special:EditPage/Caral" title="Special:EditPage/Caral">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="https://www.google.com/search?as_eq=wikipedia&amp;q=%22Caral%22">"Caral"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="https://www.google.com/search?tbm=nws&amp;q=%22Caral%22+-wikipedia&amp;tbs=ar:1">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.google.com/search?&amp;q=%22Caral%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.google.com/search?tbs=bks:1&amp;q=%22Caral%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://scholar.google.com/scholar?q=%22Caral%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Caral%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">January 2024</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this message</a></small>)</i></span></div></td></tr></tbody></table><style data-mw-deduplicate="TemplateStyles:r1236090951">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</style><div role="note" class="hatnote navigation-not-searchable">This article is about the archaeological site. For the civilization it belonged to, see <a href="/wiki/Norte_Chico_civilization" class="mw-redirect" title="Norte Chico civilization">Norte Chico civilization</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r1257001546">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.notheme)>div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data:not(.notheme) div:not(.notheme){background:#1f1f23!important;color:#f8f9fa}}@media(min-width:640px){body.skin--responsive .mw-parser-output .infobox-table{display:table!important}body.skin--responsive .mw-parser-output .infobox-table>caption{display:table-caption!important}body.skin--responsive .mw-parser-output .infobox-table>tbody{display:table-row-group}body.skin--responsive .mw-parser-output .infobox-table tr{display:table-row!important}body.skin--responsive .mw-parser-output .infobox-table th,body.skin--responsive .mw-parser-output .infobox-table td{padding-left:inherit;padding-right:inherit}}</style><table class="infobox vcard"><caption class="infobox-title fn org">Caral</caption><tbody><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:PiramidesdeCaral.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PiramidesdeCaral.JPG/220px-PiramidesdeCaral.JPG" decoding="async" width="220" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PiramidesdeCaral.JPG/330px-PiramidesdeCaral.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PiramidesdeCaral.JPG/440px-PiramidesdeCaral.JPG 2x" data-file-width="673" data-file-height="366" /></a></span><div class="infobox-caption">Remains of Caral</div></td></tr><tr><td colspan="2" class="infobox-image"><div class="switcher-container"><style data-mw-deduplicate="TemplateStyles:r1238443738">.mw-parser-output .locmap .od{position:absolute}.mw-parser-output .locmap .id{position:absolute;line-height:0}.mw-parser-output .locmap .l0{font-size:0;position:absolute}.mw-parser-output .locmap .pv{line-height:110%;position:absolute;text-align:center}.mw-parser-output .locmap .pl{line-height:110%;position:absolute;top:-0.75em;text-align:right}.mw-parser-output .locmap .pr{line-height:110%;position:absolute;top:-0.75em;text-align:left}.mw-parser-output .locmap .pv>div{display:inline;padding:1px}.mw-parser-output .locmap .pl>div{display:inline;padding:1px;float:right}.mw-parser-output .locmap .pr>div{display:inline;padding:1px;float:left}@media screen{html.skin-theme-clientpref-night .mw-parser-output .od,html.skin-theme-clientpref-night .mw-parser-output .od .pv>div,html.skin-theme-clientpref-night .mw-parser-output .od .pl>div,html.skin-theme-clientpref-night .mw-parser-output .od .pr>div{background:#fff!important;color:#000!important}html.skin-theme-clientpref-night .mw-parser-output .locmap{filter:grayscale(0.6)}html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data .locmap div{background:transparent!important}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .locmap{filter:grayscale(0.6)}html.skin-theme-clientpref-os .mw-parser-output .od,html.skin-theme-clientpref-os .mw-parser-output .od .pv>div,html.skin-theme-clientpref-os .mw-parser-output .od .pl>div,html.skin-theme-clientpref-os .mw-parser-output .od .pr>div{background:white!important;color:#000!important}html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data .locmap div{background:transparent!important}}</style><div class="center"><div class="locmap" style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:250px;padding:0"><div style="position:relative;width:250px"><span class="notpageimage" typeof="mw:File"><a href="/wiki/File:Peru_physical_map.svg" class="mw-file-description" title="Map showing location in Peru"><img alt="Map showing location in Peru" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Peru_physical_map.svg/250px-Peru_physical_map.svg.png" decoding="async" width="250" height="305" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Peru_physical_map.svg/375px-Peru_physical_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Peru_physical_map.svg/500px-Peru_physical_map.svg.png 2x" data-file-width="851" data-file-height="1037" /></a></span><div class="od notheme" style="top:57.858%;left:34.726%;font-size:91%"><div class="id" style="left:-4px;top:-4px"><span class="notpageimage" typeof="mw:File"><span title="Caral"><img alt="Map showing location in Peru" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Archaeological_site_icon_%28red%29.svg/8px-Archaeological_site_icon_%28red%29.svg.png" decoding="async" width="8" height="8" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Archaeological_site_icon_%28red%29.svg/12px-Archaeological_site_icon_%28red%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Archaeological_site_icon_%28red%29.svg/16px-Archaeological_site_icon_%28red%29.svg.png 2x" data-file-width="16" data-file-height="16" /></span></span></div></div></div><div style="padding-top:0.2em">Shown within Peru</div><span class="switcher-label" style="display:none">Show map of Peru</span></div></div></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238443738"><div class="center"><div class="locmap" style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:250px;padding:0"><div style="position:relative;width:250px"><span class="notpageimage" typeof="mw:File"><a href="/wiki/File:South_America_laea_relief_location_map.jpg" class="mw-file-description" title="Map showing location in Peru"><img alt="Map showing location in Peru" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/South_America_laea_relief_location_map.jpg/250px-South_America_laea_relief_location_map.jpg" decoding="async" width="250" height="367" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/South_America_laea_relief_location_map.jpg/375px-South_America_laea_relief_location_map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/South_America_laea_relief_location_map.jpg/500px-South_America_laea_relief_location_map.jpg 2x" data-file-width="1181" data-file-height="1732" /></a></span><div class="od notheme" style="top:41.888%;left:20.256%;font-size:91%"><div class="id" style="left:-4px;top:-4px"><span class="notpageimage" typeof="mw:File"><span title="Caral"><img alt="Map showing location in Peru" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Archaeological_site_icon_%28red%29.svg/8px-Archaeological_site_icon_%28red%29.svg.png" decoding="async" width="8" height="8" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Archaeological_site_icon_%28red%29.svg/12px-Archaeological_site_icon_%28red%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Archaeological_site_icon_%28red%29.svg/16px-Archaeological_site_icon_%28red%29.svg.png 2x" data-file-width="16" data-file-height="16" /></span></span></div></div></div><div style="padding-top:0.2em">Caral (South America)</div><span class="switcher-label" style="display:none">Show map of South America</span></div></div></div></div></td></tr><tr><th scope="row" class="infobox-label">Alternative&#160;name</th><td class="infobox-data nickname">Caral-Supe</td></tr><tr><th scope="row" class="infobox-label">Location</th><td class="infobox-data label"><a href="/wiki/Lima_Region" class="mw-redirect" title="Lima Region">Lima Region</a>, <a href="/wiki/Peru" title="Peru">Peru</a></td></tr><tr><th scope="row" class="infobox-label">Coordinates</th><td class="infobox-data"><span class="geo-inline"><style data-mw-deduplicate="TemplateStyles:r1156832818">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a class="external text" href="https://geohack.toolforge.org/geohack.php?pagename=Caral&amp;params=10_53_37_S_77_31_13_W_type:landmark"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">10°53′37″S</span> <span class="longitude">77°31′13″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">10.89361°S 77.52028°W</span><span style="display:none">&#xfeff; / <span class="geo">-10.89361; -77.52028</span></span></span></a></span></span></td></tr><tr><th scope="row" class="infobox-label">Type</th><td class="infobox-data category">Settlement</td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #eee;">History</th></tr><tr><th scope="row" class="infobox-label">Founded</th><td class="infobox-data">c. 2600 BC</td></tr><tr><th scope="row" class="infobox-label">Abandoned</th><td class="infobox-data">c. 2000 BC</td></tr><tr><th scope="row" class="infobox-label">Cultures</th><td class="infobox-data"><a href="/wiki/Norte_Chico_civilization" class="mw-redirect" title="Norte Chico civilization">Norte Chico</a></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #eee;">Site notes</th></tr><tr><th scope="row" class="infobox-label">Condition</th><td class="infobox-data">In ruins</td></tr><tr><td colspan="2" class="infobox-below"><style data-mw-deduplicate="TemplateStyles:r1151960987">body.skin-minerva .mw-parser-output .infobox table{display:table}body.skin-minerva .mw-parser-output .infobox caption{display:table-caption}</style>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1257001546"></td></tr><tr class="mergedrow"><th colspan="2" class="infobox-header"><div style="border:4px solid #0177D3; line-height: 1.5; text-align: center;">
+<a href="/wiki/World_Heritage_Site" title="World Heritage Site">UNESCO World Heritage Site</a></div></th></tr><tr class="mergedrow"><th scope="row" class="infobox-label" style="padding-right:0.3em;">Official&#160;name</th><td class="infobox-data">Sacred City of Caral-Supe</td></tr><tr class="mergedrow"><th scope="row" class="infobox-label" style="padding-right:0.3em;"><a href="/wiki/World_Heritage_Sites_by_country" title="World Heritage Sites by country">Location</a></th><td class="infobox-data"><a href="/wiki/Supe_District" title="Supe District">Supe District</a>, <a href="/wiki/Barranca_Province" class="mw-redirect" title="Barranca Province">Barranca Province</a>, <a href="/wiki/Peru" title="Peru">Peru</a></td></tr><tr class="mergedrow"><th scope="row" class="infobox-label" style="padding-right:0.3em;"><a href="/wiki/World_Heritage_Site#Selection_criteria" title="World Heritage Site">Criteria</a></th><td class="infobox-data category">Cultural:&#160;(ii), (iii), (iv)</td></tr><tr class="mergedrow"><th scope="row" class="infobox-label" style="padding-right:0.3em;">Reference</th><td class="infobox-data"><a rel="nofollow" class="external text" href="https://whc.unesco.org/en/list/1269">1269</a></td></tr><tr class="mergedrow"><th scope="row" class="infobox-label" style="padding-right:0.3em;">Inscription</th><td class="infobox-data">2009 (33rd <a href="/wiki/World_Heritage_Committee" title="World Heritage Committee">Session</a>)</td></tr><tr class="mergedrow"><th scope="row" class="infobox-label" style="padding-right:0.3em;">Area</th><td class="infobox-data category">626.36&#160;ha (2.4184&#160;sq&#160;mi)</td></tr><tr class="mergedrow"><th scope="row" class="infobox-label" style="padding-right:0.3em;">Buffer&#160;zone</th><td class="infobox-data category">14,620.31&#160;ha (56.4493&#160;sq&#160;mi)</td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.3em;">Website</th><td class="infobox-data category"><span class="url"><a rel="nofollow" class="external text" href="http://www.zonacaral.gob.pe/en/">www<wbr />.zonacaral<wbr />.gob<wbr />.pe<wbr />/en<wbr />/</a></span></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p>The <b>Sacred City of Caral-Supe</b>, or simply <b>Caral</b>, is an <a href="/wiki/Archaeological_site" title="Archaeological site">archaeological site</a> in <a href="/wiki/Peru" title="Peru">Peru</a> where the remains of the main city of the <a href="/wiki/Caral_civilization" class="mw-redirect" title="Caral civilization">Caral civilization</a> are found. It is located in the Supe valley of Peru, near the current town of Caral, 182 kilometers north of <a href="/wiki/Lima" title="Lima">Lima</a>, 23&#160;km from the coast and 350 <a href="/wiki/Metres_above_sea_level" class="mw-redirect" title="Metres above sea level">metres above sea level</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> It is attributed an antiquity of 5,000 years and it is considered the oldest city in the Americas and one of the oldest in the world. No other site has been found with such a diversity of monumental buildings or different ceremonial and administrative functions in the Americas as early as Caral.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> It has been declared a <a href="/wiki/World_Heritage_Site" title="World Heritage Site">Humanity Cultural Heritage</a> site by <a href="/wiki/Unesco" class="mw-redirect" title="Unesco">UNESCO</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The Caral culture developed between 3000 and 1800 B.C (Late Archaic and Lower Formative periods). In America, it is the oldest of the pre-Hispanic civilizations, developing 1,500 years earlier than the <a href="/wiki/Olmec_civilization" class="mw-redirect" title="Olmec civilization">Olmec civilization</a>, the first <a href="/wiki/Mesoamerica" title="Mesoamerica">Mesoamerican</a> complex society.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Closely related to the city of Caral was an early fishing city, <a href="/wiki/Aspero" title="Aspero">Áspero or El Áspero</a>, located on the coast near the mouth of the Supe River. There, remains of human sacrifices (two children and a newborn) have been found. In 2016, the remains were found of a woman, who presumably belonged to the local elite of 4,500 years ago.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="History">History</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caral&amp;action=edit&amp;section=1" title="Edit section: History"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Caral was inhabited between approximately <a href="/wiki/26th_century_BC" title="26th century BC">26th century BC</a> and <a href="/wiki/20th_century_BC" title="20th century BC">20th century BC</a>,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> and the site includes an area of more than 60 hectares (150 acres).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> Caral has been described by its excavators as the oldest urban center in the Americas. This claim has been challenged by the discovery of other ancient sites nearby, such as <a href="/wiki/Bandurria,_Peru" title="Bandurria, Peru">Bandurria, Peru</a>. Accommodating more than 3,000 inhabitants, Caral is the best studied and one of the largest sites known of the <a href="/wiki/Norte_Chico_civilization" class="mw-redirect" title="Norte Chico civilization">Norte Chico civilization</a>.
+</p><p>The city was declared a <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a> <a href="/wiki/World_Heritage_Site" title="World Heritage Site">World Heritage Site</a> in 2009.<sup id="cite_ref-UNESCO_WHC_8-0" class="reference"><a href="#cite_note-UNESCO_WHC-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> In early 2021, tensions arose between squatters claiming land rights and archaeologists researching the site, as housing construction encroached on the site.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:PeruCaral01.jpg" class="mw-file-description" title="The Caral temples in the arid Supe Valley, some 20&#160;km from the Pacific coast."><img alt="The Caral temples in the arid Supe Valley, some 20&#160;km from the Pacific coast." src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/PeruCaral01.jpg/120px-PeruCaral01.jpg" decoding="async" width="120" height="90" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/PeruCaral01.jpg/180px-PeruCaral01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/PeruCaral01.jpg/240px-PeruCaral01.jpg 2x" data-file-width="2560" data-file-height="1920" /></a></span></div>
+			<div class="gallerytext">The Caral temples in the arid Supe Valley, some 20&#160;km from the Pacific coast.</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Caral_1.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Caral_1.JPG/120px-Caral_1.JPG" decoding="async" width="120" height="68" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Caral_1.JPG/180px-Caral_1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Caral_1.JPG/240px-Caral_1.JPG 2x" data-file-width="2816" data-file-height="1584" /></a></span></div>
+			<div class="gallerytext"></div>
+		</li>
+</ul>
+<div class="mw-heading mw-heading2"><h2 id="Archaeological_findings">Archaeological findings</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caral&amp;action=edit&amp;section=2" title="Edit section: Archaeological findings"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><a href="/wiki/Paul_Kosok" title="Paul Kosok">Paul Kosok</a> discovered Caral in 1948.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2022)">citation needed</span></a></i>&#93;</sup> The site received little attention at the time because it appeared to lack many of the typical artifacts that were sought at archaeological sites throughout the Andes.
+</p><p>In 1975, the Peruvian architect Carlos Williams made a detailed record of most of the archaeological sites of the valley of Supe, among which he recorded Caral. Based on what he observed in the region, he made some observations about the development of architecture in the Andes.
+</p><p><a href="/wiki/Ruth_Shady" title="Ruth Shady">Ruth Shady</a> further explored this 4,000- to 4,600-year-old city in the Peruvian desert, with its elaborate complex of temples, an amphitheater, and ordinary houses.<sup id="cite_ref-Shady01_11-0" class="reference"><a href="#cite_note-Shady01-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> The urban complex is spread out over 150 hectares (370 acres) and contains plazas and residential buildings. Caral was a thriving metropolis at roughly the same time as the great pyramids were being built in Egypt, which is considered one of the earliest civilizations in the world.
+</p><p>Caral is the largest recorded site in the Andean region, with dates older than 2000 BC. It appears to be the model for the urban design adopted by Andean civilizations that rose and fell over the span of four millennia. Scholars believe that research conducted in Caral may answer questions about the origins of the <a href="/wiki/Andean_civilisations" class="mw-redirect" title="Andean civilisations">Andean civilizations</a> and the development of its first cities.
+</p>
+<div style="float:left;border:1px solid rgb(170, 170, 170);width:100%"><div style="text-align:left; padding:1em; font-size:95%; margin:1em; background:transparent"><div style="width:100%; position:relative; left:-0.2em; top:0.8em; clear:both; height:2.5em"><div style="position:absolute; top:0px; width:100%"><div style="margin-left:16.666666666667%; margin-top:0; position:relative"><span style="position:relative; top:0.25em; left:-1.5px">↓</span><span style="font-size:90% ;position:relative; line-height:3px; overflow:visible;left:0em; top:0em; z-index:999"><b>First constructions</b></span></div></div><div style="position:absolute; top:0px; width:100%"><div style="margin-left:41.666666666667%; margin-top:0; position:relative"><span style="position:relative; top:0.25em; left:-1.5px">↓</span><span style="font-size:90% ;position:relative; line-height:3px; overflow:visible;left:0em; top:0em; z-index:999"><b>Enlarged</b></span></div></div><div style="position:absolute; top:0px; width:100%"><div style="margin-left:50%; margin-top:0; position:relative"><span style="position:relative; top:0.25em; left:-1.5px">↓</span><span style="font-size:90% ;position:relative; line-height:3px; overflow:visible;left:0em; top:0em; z-index:999"><b>Reconstructed</b></span></div></div><div style="position:absolute; top:0px; width:100%"><div style="margin-left:58.333333333333%; margin-top:0; position:relative"><span style="position:relative; top:0.25em; left:-1.5px">↓</span><span style="font-size:90% ;position:relative; line-height:3px; overflow:visible;left:0em; top:0em; z-index:999"><b>Remodelled</b></span></div></div><div style="position:absolute; top:0px; width:100%"><div style="margin-left:83.333333333333%; margin-top:0; position:relative"><span style="position:relative; top:0.25em; left:-1.5px">↓</span><span style="font-size:90% ;position:relative; line-height:3px; overflow:visible;left:0em; top:0em; z-index:999"><b>Abandoned</b></span></div></div></div><div style="clear:both;width:100%;max-width:100%;border-top:0.1em solid black;height:1em;"></div><div id="Scale" style="clear:both;position:relative;top:-1.4em;left:-0.2em;width:100%;padding:0;height:2.5em"><div style="float:left;overflow:visible;width:16.666666666667%">│<div style="font-size:86%; position:relative; left:-0.8em; overflow:visible; white-space:nowrap">2800 BC</div></div><div style="float:left;overflow:visible;width:16.666666666667%">│<div style="font-size:86%; position:relative; left:-0.8em; overflow:visible; white-space:nowrap">2600 BC</div></div><div style="float:left;overflow:visible;width:16.666666666667%">│<div style="font-size:86%; position:relative; left:-0.8em; overflow:visible; white-space:nowrap">2400 BC</div></div><div style="float:left;overflow:visible;width:16.666666666667%">│<div style="font-size:86%; position:relative; left:-0.8em; overflow:visible; white-space:nowrap">2200 BC</div></div><div style="float:left;overflow:visible;width:16.666666666667%">│<div style="font-size:86%; position:relative; left:-0.8em; overflow:visible; white-space:nowrap">2000 BC</div></div><div style="float:left;overflow:visible;width:16.666666666667%">│<div style="font-size:86%; position:relative; left:-0.8em; overflow:visible; white-space:nowrap">1800 BC</div></div><div style="float:left;overflow:visible;width:0%">│<div style="font-size:86%; position:relative; left:-0.8em; overflow:visible; white-space:nowrap">1600 BC</div></div></div></div></div><div style="clear:left;"></div>
+<p>Among the artifacts found at Caral is a knotted textile piece that the excavators have labelled a <i><a href="/wiki/Quipu" title="Quipu">quipu</a></i>. They write that the artifact is evidence that the <i>quipu</i> record keeping system, a method involving knots tied in textiles that was brought to its highest development by the <a href="/wiki/Inca_Empire" title="Inca Empire">Inca Empire</a>, was older than any archaeologist previously had determined. Evidence has emerged that the <i>quipu</i> also may have recorded <a href="/wiki/Logograph" class="mw-redirect" title="Logograph">logographic</a> information in the same way writing does. <a href="/wiki/Gary_Urton" title="Gary Urton">Gary Urton</a> has suggested that the <i>quipus</i> used a <a href="/wiki/Binary_code" title="Binary code">binary code</a> that could record <a href="/wiki/Phonological" class="mw-redirect" title="Phonological">phonological</a> or logographic data.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Main_temple">Main temple</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caral&amp;action=edit&amp;section=3" title="Edit section: Main temple"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The main temple complex (<a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>: <i lang="es">Templo Mayor</i>) is 150 meters (490&#160;ft) long, 110 meters (360&#160;ft) wide and 28 meters (92&#160;ft) high. The date of its construction is unknown.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Peaceful_society">Peaceful society</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caral&amp;action=edit&amp;section=4" title="Edit section: Peaceful society"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Shady's findings suggest it was a society built on commerce and pleasure. No indications of warfare, such as battlements, weapons, or mutilated bodies, have been found at Caral. This contrasts with the older site of <a href="/wiki/Sechin_Bajo" title="Sechin Bajo">Sechin Bajo</a>, where depictions of weapons are found. In one of the Caral temples, researchers found 32 flutes made of <a href="/wiki/Condor" title="Condor">condor</a> and <a href="/wiki/Pelican" title="Pelican">pelican</a> bones and 37 <a href="/wiki/Cornett" title="Cornett">cornetts</a> of <a href="/wiki/Deer" title="Deer">deer</a> and <a href="/wiki/Llama" title="Llama">llama</a> bones. One find revealed the remains of a baby, wrapped and buried with a necklace made of stone beads.<sup id="cite_ref-Shady01_11-1" class="reference"><a href="#cite_note-Shady01-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Scope_of_site">Scope of site</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caral&amp;action=edit&amp;section=5" title="Edit section: Scope of site"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Caral was flanked by 19 other <a href="/wiki/Temple" title="Temple">temple</a> complexes scattered across the 90 square kilometres (35&#160;sq&#160;mi) area of the Supe Valley.
+</p><p>The date of 2627 BC for Caral is based on the <a href="/wiki/Carbon_dating" class="mw-redirect" title="Carbon dating">carbon dating</a> of reed and woven carrying bags that were found on site. These bags were used to carry the stones for the construction of the temples. The material is an excellent candidate for high precision dating. The site may date even earlier, however, as samples from the oldest parts of the excavation have yet to be dated.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Caral had a population of approximately 3,000 people. However, 19 other sites in the area (posted at Caral), allow for a possible total population of 20,000 people sharing the same culture in the Supe Valley. All of these sites share similarities with Caral, including small platforms or stone circles. Shady believes that Caral was the focus of this civilization. It is believed to be part of an even more vast cultural complex, trading with the coastal communities and the regions farther inland. She suggests that a depiction of monkeys may be evidence of trade with communities along the Amazon.<sup id="cite_ref-Shady01_11-2" class="reference"><a href="#cite_note-Shady01-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<figure class="mw-halign-center" typeof="mw:File/Thumb"><a href="/wiki/File:Caral_9.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Caral_9.jpg/550px-Caral_9.jpg" decoding="async" width="550" height="127" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Caral_9.jpg/825px-Caral_9.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Caral_9.jpg/1100px-Caral_9.jpg 2x" data-file-width="7737" data-file-height="1788" /></a><figcaption>Panorama of Caral site</figcaption></figure>
+<figure class="mw-halign-center" typeof="mw:File/Thumb"><a href="/wiki/File:Caral-panorama1.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Caral-panorama1.jpg/700px-Caral-panorama1.jpg" decoding="async" width="700" height="81" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Caral-panorama1.jpg/1050px-Caral-panorama1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Caral-panorama1.jpg/1400px-Caral-panorama1.jpg 2x" data-file-width="18633" data-file-height="2158" /></a><figcaption>360° Panorama of Caral</figcaption></figure>
+<div class="mw-heading mw-heading3"><h3 id="Geoglyph">Geoglyph</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caral&amp;action=edit&amp;section=6" title="Edit section: Geoglyph"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>In 2000, Marco Machacuay (the chief of excavations at the time) and his colleague, Rocío Aramburú, discovered a large shape etched on the ground among circular stone lines near Caral. This image, known as a <a href="/wiki/Geoglyph" title="Geoglyph">geoglyph</a>, is located on the desert floor just west of the main site at Caral. The lines form the design of a human face with long, streaming hair and a gaping mouth.
+</p><p>This geoglyph is similar to bleeding figures with a similar gaping mouths found etched onto the stone walls at a site called <a href="/wiki/Cerro_Sech%C3%ADn" title="Cerro Sechín">Cerro Sechín</a>, in the Casma Valley 240 kilometres (150&#160;mi) to the north. What this figure represents is unclear. It is believed to have been constructed around the same time as Caral and to have been associated with a nearby ceremonial site known as <i>Chupacigarro</i>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Musical_instruments">Musical instruments</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caral&amp;action=edit&amp;section=7" title="Edit section: Musical instruments"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Another significant find at the site was a collection of musical instruments, including 37 <a href="/wiki/Cornett" title="Cornett">cornetts</a> made of deer and llama bones and 33 flutes of unusual construction.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup> The flutes were radiocarbon dated to 2170±90 BC.<sup id="cite_ref-Shady01_11-3" class="reference"><a href="#cite_note-Shady01-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="City_layout">City layout</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caral&amp;action=edit&amp;section=8" title="Edit section: City layout"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The city of Caral was split into two sections, an "Upper Half" and a "Lower Half". These halves were divided naturally by the Supe River Valley.<sup id="cite_ref-:0_15-0" class="reference"><a href="#cite_note-:0-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup> In the Upper Half there are six monumental complexes, each of which includes a pyramid, open plaza, and assemblage of residential buildings.<sup id="cite_ref-Shady01_11-4" class="reference"><a href="#cite_note-Shady01-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> In the Lower Half there are residential buildings, small pyramids, and one monumental complex called the "Temple of the Amphitheater".<sup id="cite_ref-:0_15-1" class="reference"><a href="#cite_note-:0-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The Upper Half complexes were all constructed around a pyramid. These are the "Great Temple/Great Pyramid", "Central Pyramid", "Quarry Pyramid", "Lesser Pyramid", "Pyramid of the Gallery", and "Pyramid of the Huanca".<sup id="cite_ref-:0_15-2" class="reference"><a href="#cite_note-:0-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup> The associated residential structures around each of these pyramids contain evidence of elite living, including food remnants that would have been exclusive to elite lifestyles, such as sea lion bones.<sup id="cite_ref-:0_15-3" class="reference"><a href="#cite_note-:0-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup> In the Upper Half of Caral, many of the residents were wealthy elites, whose lives likely were associated with religious and social activities that would have taken place in the temples.<sup id="cite_ref-Shady01_11-5" class="reference"><a href="#cite_note-Shady01-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>By comparison, the residential buildings in the Lower Half have less evidence of elite populations. Instead of the large structures, exclusively elite residential complexes of the Upper Half, these residences are smaller and single rooms are used for more than one purpose.<sup id="cite_ref-:0_15-4" class="reference"><a href="#cite_note-:0-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup> The diets of the people living in the Lower Half of Caral consisted mostly of agricultural plants and some fish.<sup id="cite_ref-:1_16-0" class="reference"><a href="#cite_note-:1-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup> These diets were less rich than those of the elites living in the Upper Half.
+</p><p>The current explanation for the divided city is that the city was intentionally planned in this way, with the monumental architecture and complexes of the Upper Half designed both to house elites and to physically indicate their political power.<sup id="cite_ref-:0_15-5" class="reference"><a href="#cite_note-:0-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-:1_16-1" class="reference"><a href="#cite_note-:1-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup> Conversely, the Lower Half was designed to house laborers, with the river serving as the division between these groups. This sort of intentional city planning is evidence of structuralized inequality at Caral, which perpetuated existing social stratification.<sup id="cite_ref-Shady01_11-6" class="reference"><a href="#cite_note-Shady01-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-:0_15-6" class="reference"><a href="#cite_note-:0-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="See_also">See also</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caral&amp;action=edit&amp;section=9" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/Bat%C3%A1n_Grande_Reserved_Zone" title="Batán Grande Reserved Zone">Batán Grande Reserved Zone</a></li>
+<li><a href="/wiki/Iper%C3%BA" title="Iperú">Iperú</a></li>
+<li><a href="/wiki/List_of_oldest_buildings_in_the_Americas" title="List of oldest buildings in the Americas">List of oldest buildings in the Americas</a></li>
+<li><a href="/wiki/Periodization_of_pre-Columbian_Peru" title="Periodization of pre-Columbian Peru">Periodization of pre-Columbian Peru</a></li>
+<li><a href="/wiki/Sican_culture" title="Sican culture">Sican culture</a></li>
+<li><a href="/wiki/Tourism_in_Peru" title="Tourism in Peru">Tourism in Peru</a></li>
+<li><a href="/wiki/T%C3%BAcume" title="Túcume">Túcume</a></li>
+<li><a href="/wiki/Montegrande_(archaeological_site)" title="Montegrande (archaeological site)">Montegrande (archaeological site)</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="References">References</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caral&amp;action=edit&amp;section=10" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r1239543626">.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1238218222">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://caralperu2008.wordpress.com/ubicacion/">"Ubicación"</a>. 2008-11-06.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ubicaci%C3%B3n&amp;rft.date=2008-11-06&amp;rft_id=https%3A%2F%2Fcaralperu2008.wordpress.com%2Fubicacion%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaral" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFEMSE_EDAPP,_S.L.2017" class="citation book cs1">EMSE EDAPP, S.L. (2017). <i>América precolombina. Cuna de grandes civilizaciones</i>. Barcelona: Bonalletra Alcompas, S.L. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-84-16330-40-9" title="Special:BookSources/978-84-16330-40-9"><bdi>978-84-16330-40-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Am%C3%A9rica+precolombina.+Cuna+de+grandes+civilizaciones&amp;rft.place=Barcelona&amp;rft.pub=Bonalletra+Alcompas%2C+S.L.&amp;rft.date=2017&amp;rft.isbn=978-84-16330-40-9&amp;rft.au=EMSE+EDAPP%2C+S.L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaral" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170619025633/http://larepublica.pe/28-06-2009/caral-es-declarada-patrimonio-cultural-de-la-humanidad">"Caral es declarada Patrimonio Cultural de la Humanidad &#124; Noticias del Perú &#124; LaRepublica.pe"</a>. Archived from <a rel="nofollow" class="external text" href="http://larepublica.pe/28-06-2009/caral-es-declarada-patrimonio-cultural-de-la-humanidad">the original</a> on 2017-06-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2021-08-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Caral+es+declarada+Patrimonio+Cultural+de+la+Humanidad+%26%23124%3B+Noticias+del+Per%C3%BA+%26%23124%3B+LaRepublica.pe&amp;rft_id=http%3A%2F%2Flarepublica.pe%2F28-06-2009%2Fcaral-es-declarada-patrimonio-cultural-de-la-humanidad&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaral" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bcrp.gob.pe/docs/Publicaciones/Revista-Moneda/moneda-158/moneda-158-11.pdf">bcrp.gob.pe</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.andina.com.pe/agencia/noticia-descubren-personaje-femenino-elite-enterrado-hace-4500-anos-aspero-608977.aspx">"Descubren personaje femenino de élite enterrado hace 4,500 años en Áspero"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Descubren+personaje+femenino+de+%C3%A9lite+enterrado+hace+4%2C500+a%C3%B1os+en+%C3%81spero&amp;rft_id=http%3A%2F%2Fwww.andina.com.pe%2Fagencia%2Fnoticia-descubren-personaje-femenino-elite-enterrado-hace-4500-anos-aspero-608977.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaral" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://www.science.org/doi/10.1126/science.1059519">[1]</a>, "Dating Caral, a Preceramic Site in the Supe Valley on the Central Coast of Peru" SCIENCE, 27 Apr 2001, Vol 292, Issue 5517 pp. 723-726</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.nytimes.com/2001/04/27/world/archaeological-site-in-peru-is-called-oldest-city-in-americas.html">NYtimes.com</a>, "Archaeological Site in Peru Is Called Oldest City in Americas" Public release date: 27-Apr-2001 The New York Times</span>
+</li>
+<li id="cite_note-UNESCO_WHC-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-UNESCO_WHC_8-0">^</a></b></span> <span class="reference-text">UNESCO World Heritage Centre.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFCollyns2021" class="citation news cs1">Collyns, Dan (2021-01-03). <a rel="nofollow" class="external text" href="https://www.theguardian.com/world/2021/jan/03/squatters-ancient-ruins-peru-death-threats-archeologist-caral">"Squatters issue death threats to archaeologist who discovered oldest city in the Americas"</a>. <i>The Guardian</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210103102715/https://www.theguardian.com/world/2021/jan/03/squatters-ancient-ruins-peru-death-threats-archeologist-caral">Archived</a> from the original on 3 January 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">3 January</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Squatters+issue+death+threats+to+archaeologist+who+discovered+oldest+city+in+the+Americas&amp;rft.date=2021-01-03&amp;rft.aulast=Collyns&amp;rft.aufirst=Dan&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2021%2Fjan%2F03%2Fsquatters-ancient-ruins-peru-death-threats-archeologist-caral&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaral" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFMandujano2021" class="citation web cs1">Mandujano, Carlos (2021-01-20). <a rel="nofollow" class="external text" href="https://www.sciencealert.com/oldest-city-in-the-americas-under-threat-from-squatters">"The Oldest City in The Americas Is an Archeological Wonder, And It's Under Invasion"</a>. <i>ScienceAlert</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-01-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ScienceAlert&amp;rft.atitle=The+Oldest+City+in+The+Americas+Is+an+Archeological+Wonder%2C+And+It%27s+Under+Invasion&amp;rft.date=2021-01-20&amp;rft.aulast=Mandujano&amp;rft.aufirst=Carlos&amp;rft_id=https%3A%2F%2Fwww.sciencealert.com%2Foldest-city-in-the-americas-under-threat-from-squatters&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaral" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Shady01-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Shady01_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Shady01_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Shady01_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Shady01_11-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Shady01_11-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Shady01_11-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Shady01_11-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text">Shady, R. Haas, J. Creamer, W. (2001). Dating Caral, a Pre-ceramic Site in the Supe Valley on the Central Coast of Peru. <i><a href="/wiki/Science_(journal)" title="Science (journal)">Science</a></i>. 292:723-726. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1126%2Fscience.1059519">10.1126/science.1059519</a> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/11326098">11326098</a> <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=11326098&amp;dopt=Citation">ncbi.nlm.nih.gov</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFBelsie2002" class="citation news cs1">Belsie, Laurent (3 January 2002). <a rel="nofollow" class="external text" href="http://www.csmonitor.com/2002/0103/p11s1-woam.html">"Civilization lost?"</a>. <i>Christian Science Monitor</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Christian+Science+Monitor&amp;rft.atitle=Civilization+lost%3F&amp;rft.date=2002-01-03&amp;rft.aulast=Belsie&amp;rft.aufirst=Laurent&amp;rft_id=http%3A%2F%2Fwww.csmonitor.com%2F2002%2F0103%2Fp11s1-woam.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaral" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Atwood, Roger. "A Monumental Feud." <i>Archaeology</i>. Jul/Aug 2005, Vol. 58 Issue 4, pp. 18-25.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFRoss2002" class="citation web cs1">Ross, John (August 2002). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130302081237/http://www.smithsonianmag.com/history-archaeology/firstcity.html?c=y&amp;page=2">"First City in the New World?"</a>. Smithsonian Museum. Archived from <a rel="nofollow" class="external text" href="http://www.smithsonianmag.com/history-archaeology/firstcity.html?c=y&amp;page=2">the original</a> on 2 March 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">30 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=First+City+in+the+New+World%3F&amp;rft.pub=Smithsonian+Museum&amp;rft.date=2002-08&amp;rft.aulast=Ross&amp;rft.aufirst=John&amp;rft_id=http%3A%2F%2Fwww.smithsonianmag.com%2Fhistory-archaeology%2Ffirstcity.html%3Fc%3Dy%26page%3D2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaral" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_15-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:0_15-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:0_15-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-:0_15-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-:0_15-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFSolis2006" class="citation cs2">Solis, Ruth Shady (2006), <a rel="nofollow" class="external text" href="https://dx.doi.org/10.1007/0-387-28940-2_3">"America's First City? The Case of Late Archaic Caral"</a>, <i>Andean Archaeology III</i>, Boston, MA: Springer US, pp.&#160;<span class="nowrap">28–</span>66, <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2F0-387-28940-2_3">10.1007/0-387-28940-2_3</a>, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-387-28939-7" title="Special:BookSources/978-0-387-28939-7"><bdi>978-0-387-28939-7</bdi></a>, <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:51349758">51349758</a><span class="reference-accessdate">, retrieved <span class="nowrap">2022-03-09</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Andean+Archaeology+III&amp;rft.atitle=America%27s+First+City%3F+The+Case+of+Late+Archaic+Caral&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E28-%3C%2Fspan%3E66&amp;rft.date=2006&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A51349758%23id-name%3DS2CID&amp;rft_id=info%3Adoi%2F10.1007%2F0-387-28940-2_3&amp;rft.isbn=978-0-387-28939-7&amp;rft.aulast=Solis&amp;rft.aufirst=Ruth+Shady&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.1007%2F0-387-28940-2_3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaral" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:1-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFPezo‐LanfrancoMachacuayNovoaPeralta2021" class="citation journal cs1">Pezo‐Lanfranco, Luis; Machacuay, Marco; Novoa, Pedro; Peralta, Rodolfo; Mayer, Elver; Eggers, Sabine; Shady, Ruth (2021-11-25). <a rel="nofollow" class="external text" href="https://dx.doi.org/10.1002/ajpa.24445">"The diet at the onset of the Andean Civilization: New stable isotope data from Caral and Áspero, North‐Central Coast of Peru"</a>. <i>American Journal of Biological Anthropology</i>. <b>177</b> (3): <span class="nowrap">402–</span>424. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1002%2Fajpa.24445">10.1002/ajpa.24445</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://search.worldcat.org/issn/2692-7691">2692-7691</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:244692412">244692412</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Journal+of+Biological+Anthropology&amp;rft.atitle=The+diet+at+the+onset+of+the+Andean+Civilization%3A+New+stable+isotope+data+from+Caral+and+%C3%81spero%2C+North%E2%80%90Central+Coast+of+Peru&amp;rft.volume=177&amp;rft.issue=3&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E402-%3C%2Fspan%3E424&amp;rft.date=2021-11-25&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A244692412%23id-name%3DS2CID&amp;rft.issn=2692-7691&amp;rft_id=info%3Adoi%2F10.1002%2Fajpa.24445&amp;rft.aulast=Pezo%E2%80%90Lanfranco&amp;rft.aufirst=Luis&amp;rft.au=Machacuay%2C+Marco&amp;rft.au=Novoa%2C+Pedro&amp;rft.au=Peralta%2C+Rodolfo&amp;rft.au=Mayer%2C+Elver&amp;rft.au=Eggers%2C+Sabine&amp;rft.au=Shady%2C+Ruth&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.1002%2Fajpa.24445&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaral" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Further_reading">Further reading</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caral&amp;action=edit&amp;section=11" title="Edit section: Further reading"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>Haas, J., and Creamer, W. (2006). "Crucible of Andean Civilization: The Peruvian Coast from 3000 to 1800 BC". <i>Current Anthropology,</i> 47(5), 745–775. <a rel="nofollow" class="external text" href="https://doi.org/10.1086/506281">Crucible of Andean Civilization: The Peruvian Coast from 3000 to 1800 BC</a>.</li>
+<li>Ortloff, C. R., and Moseley, M. E. (2012). 2600–1800 BCE Caral: Environmental change at a Late Archaic period site in north central coast Perú. Ñawpa Pacha: <i>Journal of Andean Archaeology,</i> 32(2), 189–206.</li>
+<li>Sandweiss, D. H., Solís, R. S., Moseley, M. E., Keefer, D. K., &amp; Ortloff, C. R. (2009). Environmental change and economic development in coastal Peru between 5,800 and 3,600 years ago. <i>Proceedings of the National Academy of Sciences,</i> 106(5), 1359-1363.</li>
+<li>Shady, R., (2003). Los Orígenes de la Civilización y la Formación del Estado en el Perú: Las Evidencias Arqueológicas de Caral-Supe. In: Shady, R., Leyva, C. (Eds.), 'La Ciudad Sagrada de Caral-Supe.<i> </i>Los Orígenes de la Civilización Andina y la Formación del Estado Prístino en el Antiguo Perú.<i> Instituto Nacional de Cultura, Lima, Peru. </i></li>
+<li>Shady, R. (2007). <i>The Social and Cultural Values of Caral-Supe, the Oldest Civilization in Peru and America and its Role in Integral and Sustainable Development</i> (original in Spanish) (Proyecto Especial Arqueológico Caral-Supe/INC, Lima, Peru), No. 4, 1–69.</li>
+<li>Shady, R., and Lopez, S. (2000 [1999]). "Ritual de enterramiento de un recinto en el sector residencial A en Caral Supe." In <i>El perıodo arcaico en el Perú: Hacia una definición de los orígenes,</i> ed. P. Kaulicke, 187–212. Lima: Pontifıcia Universidad Catolica del Peru.</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="External_links">External links</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caral&amp;action=edit&amp;section=12" title="Edit section: External links"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r1235681985">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:var(--background-color-interactive-subtle,#f8f9fa);display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1;min-width:0}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><style data-mw-deduplicate="TemplateStyles:r1237033735">@media print{body.ns-0 .mw-parser-output .sistersitebox{display:none!important}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{background-color:white}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{background-color:white}}</style><div class="side-box side-box-right plainlinks sistersitebox"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style>
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><a href="/wiki/File:Commons-logo.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:Caral-Supe" class="extiw" title="commons:Category:Caral-Supe">Caral-Supe</a></span>.</div></div>
+</div>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.zonacaral.gob.pe">Official website</a></span></span> features 3-D renderings of major monument; accessed 24 January 2017</li>
+<li><a rel="nofollow" class="external text" href="https://whc.unesco.org/en/list/1269">UNESCO – Sacred City of Caral-Supe (World Heritage)</a></li>
+<li><a rel="nofollow" class="external text" href="http://archaeology.about.com/od/ancientwriting/a/caralquipu.htm">The History of the Quipu: South America's Writing Technology&#160;: Quipu Knotted String Technology Record Keeping at Least 1,200 Years Old</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110810170908/http://archaeology.about.com/od/ancientwriting/a/caralquipu.htm">Archived</a> 2011-08-10 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/science/horizon/2001/caraltrans.shtml">Transcript of BBC Horizon program about Caral</a>; accessed 24 January 2017</li>
+<li><a rel="nofollow" class="external text" href="http://gigapan.com/gigapans/163382">Gigapan Caral</a> high resolution panorama of Caral</li>
+<li><a rel="nofollow" class="external text" href="http://www.zonacaral.gob.pe/">La Zona Arqueológica Caral</a></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1236075235">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}</style></div><div role="navigation" class="navbox" aria-labelledby="World_Heritage_Sites_in_Peru" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1239400231">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:World_Heritage_Sites_in_Peru" title="Template:World Heritage Sites in Peru"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:World_Heritage_Sites_in_Peru" title="Template talk:World Heritage Sites in Peru"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:World_Heritage_Sites_in_Peru" title="Special:EditPage/Template:World Heritage Sites in Peru"><abbr title="Edit this template">e</abbr></a></li></ul></div><div id="World_Heritage_Sites_in_Peru" style="font-size:114%;margin:0 4em"><a href="/wiki/World_Heritage_Site" title="World Heritage Site">World Heritage Sites</a> in <a href="/wiki/Peru" title="Peru">Peru</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3"><div><a href="/wiki/List_of_World_Heritage_Sites_in_Peru" title="List of World Heritage Sites in Peru">List of World Heritage Sites in Peru</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Cultural</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Chan_Chan" title="Chan Chan">Chan Chan</a> Archaeological Zone</li>
+<li><a href="/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar" title="Chavín de Huántar">Chavín</a> Archaeological Site</li>
+<li><a href="/wiki/Cusco" title="Cusco">City of Cuzco</a></li>
+<li><a href="/wiki/Historic_Centre_of_Lima" title="Historic Centre of Lima">Historic Centre of Lima</a></li>
+<li><a href="/wiki/Nazca_Lines" class="mw-redirect" title="Nazca Lines">Lines and Geoglyphs of Nasca</a> and Pampas de Jumana</li>
+<li><a href="/wiki/Arequipa" title="Arequipa">Historical Centre of the City of Arequipa</a></li>
+<li>Sacred City of <a class="mw-selflink selflink">Caral-Supe</a></li>
+<li><a href="/wiki/Inca_road_system" title="Inca road system">Qhapaq Ñan, Andean Road System</a><sup><small>1</small></sup></li></ul>
+</div></td><td class="noviewer navbox-image" rowspan="3" style="width:1px;padding:0 0 0 2px"><div><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><a href="/wiki/Peru" title="Peru"><img alt="Peru" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/50px-Flag_of_Peru.svg.png" decoding="async" width="50" height="33" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/75px-Flag_of_Peru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/100px-Flag_of_Peru.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span></span></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Natural</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Huascar%C3%A1n_National_Park" title="Huascarán National Park">Huascarán National Park</a></li>
+<li><a href="/wiki/Manu_National_Park" title="Manu National Park">Manu National Park</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mixed</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>Historic Sanctuary of <a href="/wiki/Machu_Picchu" title="Machu Picchu">Machu Picchu</a></li>
+<li><a href="/wiki/Rio_Abiseo_National_Park" title="Rio Abiseo National Park">Rio Abiseo National Park</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><sup><small>1</small></sup> with <a href="/wiki/Argentina" title="Argentina">Argentina</a>, <a href="/wiki/Bolivia" title="Bolivia">Bolivia</a>, <a href="/wiki/Chile" title="Chile">Chile</a>, <a href="/wiki/Colombia" title="Colombia">Colombia</a>, and <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1236075235"></div><div role="navigation" class="navbox" aria-labelledby="Archaeological_sites_in_Peru" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1239400231"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Archaeological_sites_in_Peru" title="Template:Archaeological sites in Peru"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Archaeological_sites_in_Peru" title="Template talk:Archaeological sites in Peru"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Archaeological_sites_in_Peru" title="Special:EditPage/Template:Archaeological sites in Peru"><abbr title="Edit this template">e</abbr></a></li></ul></div><div id="Archaeological_sites_in_Peru" style="font-size:114%;margin:0 4em"><a href="/wiki/Archaeological_sites_in_Peru" class="mw-redirect" title="Archaeological sites in Peru">Archaeological sites in Peru</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Acaray" title="Acaray">Acaray</a></li>
+<li><a href="/wiki/Ahuila_Gencha_Machay" title="Ahuila Gencha Machay">Ahuila Gencha Machay</a></li>
+<li><a href="/wiki/Amaru_Marka_Wasi" title="Amaru Marka Wasi">Amaru Marka Wasi</a></li>
+<li><a href="/w/index.php?title=Arhuaturo&amp;action=edit&amp;redlink=1" class="new" title="Arhuaturo (page does not exist)">Arhuaturo</a></li>
+<li><a href="/wiki/Asana,_Peru" title="Asana, Peru">Asana</a></li>
+<li><a href="/wiki/Asiru_Phat%27jata" title="Asiru Phat&#39;jata">Asiru Phat'jata</a></li>
+<li><a href="/wiki/Aspero" title="Aspero">Aspero</a></li>
+<li><a href="/wiki/Auga_Punta" title="Auga Punta">Auga Punta</a></li>
+<li><a href="/wiki/Auquilohuagra" title="Auquilohuagra">Auquilohuagra</a></li>
+<li><a href="/wiki/Awkin_Punta" class="mw-redirect" title="Awkin Punta">Awkin Punta</a></li>
+<li><a href="/wiki/Awkimarka_(Apur%C3%ADmac)" title="Awkimarka (Apurímac)">Awkimarka (Apurímac)</a></li>
+<li><a href="/wiki/Awkimarka_(Hu%C3%A1nuco)" title="Awkimarka (Huánuco)">Awkimarka (Huánuco)</a></li>
+<li><a href="/wiki/Aya_Muqu" title="Aya Muqu">Aya Muqu</a></li>
+<li><a href="/wiki/Ayamachay" title="Ayamachay">Ayamachay</a></li>
+<li><a href="/wiki/Ayawayq%27u" title="Ayawayq&#39;u">Ayawayq'u</a></li>
+<li><a href="/w/index.php?title=Az%C3%A1ngaro_(archaeological_site)&amp;action=edit&amp;redlink=1" class="new" title="Azángaro (archaeological site) (page does not exist)">Azángaro</a></li>
+<li><a href="/w/index.php?title=Baths_of_Boza&amp;action=edit&amp;redlink=1" class="new" title="Baths of Boza (page does not exist)">Baths of Boza</a></li>
+<li><a href="/w/index.php?title=Bandurria_(archaeological_site)&amp;action=edit&amp;redlink=1" class="new" title="Bandurria (archaeological site) (page does not exist)">Bandurria</a></li>
+<li><a href="/wiki/Buena_Vista,_Peru" title="Buena Vista, Peru">Buena Vista</a></li>
+<li><a href="/wiki/Cahuachi" title="Cahuachi">Cahuachi</a></li>
+<li><a href="/wiki/Cajamarquilla" title="Cajamarquilla">Cajamarquilla</a></li>
+<li><a href="/w/index.php?title=Cao_Viejo&amp;action=edit&amp;redlink=1" class="new" title="Cao Viejo (page does not exist)">Cao Viejo</a></li>
+<li><a href="/wiki/Carachupa" title="Carachupa">Carachupa</a></li>
+<li><a href="/wiki/Sarcophagi_of_Caraj%C3%ADa" title="Sarcophagi of Carajía">Carajía</a></li>
+<li><a class="mw-selflink selflink">Caral</a></li>
+<li><a href="/w/index.php?title=Caves_of_Sumbay&amp;action=edit&amp;redlink=1" class="new" title="Caves of Sumbay (page does not exist)">Caves of Sumbay</a></li>
+<li><a href="/wiki/Cerro_Ba%C3%BAl" title="Cerro Baúl">Cerro Baúl</a></li>
+<li><a href="/wiki/Cerro_P%C3%A1tapo_ruins" title="Cerro Pátapo ruins">Cerro Pátapo</a></li>
+<li><a href="/w/index.php?title=Cerro_Trinidad_(archaeological_site)&amp;action=edit&amp;redlink=1" class="new" title="Cerro Trinidad (archaeological site) (page does not exist)">Cerro Trinidad</a></li>
+<li><a href="/wiki/Chacamarca_Historic_Sanctuary" title="Chacamarca Historic Sanctuary">Chacamarca</a></li>
+<li><a href="/wiki/Chan_Chan" title="Chan Chan">Chan Chan</a></li>
+<li><a href="/wiki/Chanquillo" title="Chanquillo">Chanquillo</a></li>
+<li><a href="/wiki/Chauchilla_Cemetery" title="Chauchilla Cemetery">Chauchilla Cemetery</a></li>
+<li><a href="/wiki/Chav%C3%ADn_de_Huantar" class="mw-redirect" title="Chavín de Huantar">Chavín de Huantar</a></li>
+<li><a href="/wiki/Chawaytiri" title="Chawaytiri">Chawaytiri</a></li>
+<li><a href="/wiki/Cheqollo" title="Cheqollo">Cheqollo</a></li>
+<li><a href="/wiki/Chichakuri" title="Chichakuri">Chichakuri</a></li>
+<li><a href="/wiki/Chipaw_Marka" title="Chipaw Marka">Chipaw Marka</a></li>
+<li><a href="/wiki/Choquepuquio" title="Choquepuquio">Choquepuquio</a></li>
+<li><a href="/wiki/Choquequirao" title="Choquequirao">Choquequirao</a></li>
+<li><a href="/wiki/Choquequirao_Puquio" title="Choquequirao Puquio">Choquequirao Puquio</a></li>
+<li><a href="/w/index.php?title=Churaj%C3%B3n&amp;action=edit&amp;redlink=1" class="new" title="Churajón (page does not exist)">Churajón</a></li>
+<li><a href="/w/index.php?title=Chuya_city&amp;action=edit&amp;redlink=1" class="new" title="Chuya city (page does not exist)">Chuya</a></li>
+<li><a href="/wiki/Cochabamba_(archaeological_site)" title="Cochabamba (archaeological site)">Cochabamba</a></li>
+<li><a href="/wiki/Cochapata" title="Cochapata">Cochapata</a></li>
+<li><a href="/wiki/Colcampata" title="Colcampata">Colcampata</a></li>
+<li><a href="/wiki/Collor" title="Collor">Collor</a></li>
+<li><a href="/wiki/Condorcaga" title="Condorcaga">Condorcaga</a></li>
+<li><a href="/w/index.php?title=Cota_Coca&amp;action=edit&amp;redlink=1" class="new" title="Cota Coca (page does not exist)">Cota Coca</a></li>
+<li><a href="/wiki/Coricancha" title="Coricancha">Coricancha</a></li>
+<li><a href="/wiki/Cumbemayo" title="Cumbemayo">Cumbemayo</a></li>
+<li><a href="/wiki/Cutimbo" title="Cutimbo">Cutimbo</a></li>
+<li><a href="/wiki/El_Brujo" title="El Brujo">El Brujo</a></li>
+<li><a href="/w/index.php?title=Forest_and_archaeological_complex_El_Ca%C3%B1oncillo&amp;action=edit&amp;redlink=1" class="new" title="Forest and archaeological complex El Cañoncillo (page does not exist)">El Cañoncillo</a></li>
+<li><a href="/w/index.php?title=El_Ingenio&amp;action=edit&amp;redlink=1" class="new" title="El Ingenio (page does not exist)">El Ingenio</a></li>
+<li><a href="/wiki/El_Para%C3%ADso,_Peru" title="El Paraíso, Peru">El Paraíso</a></li>
+<li><a href="/w/index.php?title=Garagay&amp;action=edit&amp;redlink=1" class="new" title="Garagay (page does not exist)">Garagay</a></li>
+<li><a href="/wiki/Gran_Pajat%C3%A9n" title="Gran Pajatén">Gran Pajatén</a></li>
+<li><a href="/wiki/Gran_Vilaya" title="Gran Vilaya">Gran Vilaya</a></li>
+<li><a href="/wiki/Guellayhuasin" title="Guellayhuasin">Guellayhuasin</a></li>
+<li><a href="/wiki/Guitarrero_Cave" title="Guitarrero Cave">Guitarrero Cave</a></li>
+<li><a href="/wiki/Hatun_Machay" title="Hatun Machay">Hatun Machay</a></li>
+<li><a href="/wiki/Hatun_Misapata" title="Hatun Misapata">Hatun Misapata</a></li>
+<li><a href="/w/index.php?title=Hatun_Rumiyoc&amp;action=edit&amp;redlink=1" class="new" title="Hatun Rumiyoc (page does not exist)">Hatun Rumiyoc</a></li>
+<li><a href="/wiki/Hatun_Uchku" title="Hatun Uchku">Hatun Uchku</a></li>
+<li><a href="/wiki/Hatun_Usnu" title="Hatun Usnu">Hatun Usnu</a></li>
+<li><a href="/wiki/Hatunmarka" title="Hatunmarka">Hatunmarka</a></li>
+<li><a href="/wiki/Honcopampa" title="Honcopampa">Honcopampa</a></li>
+<li><a href="/wiki/Huaca_de_la_Luna" title="Huaca de la Luna">Huaca de la Luna</a></li>
+<li><a href="/wiki/Huaca_del_Drag%C3%B3n" title="Huaca del Dragón">Huaca del Dragón</a></li>
+<li><a href="/wiki/Huaca_del_Sol" title="Huaca del Sol">Huaca del Sol</a></li>
+<li><a href="/wiki/Huaca_Huallamarca" title="Huaca Huallamarca">Huaca Huallamarca</a></li>
+<li><a href="/wiki/Huaca_Prieta" title="Huaca Prieta">Huaca Prieta</a></li>
+<li><a href="/wiki/Huaca_Pucllana" title="Huaca Pucllana">Huaca Pucllana</a></li>
+<li><a href="/w/index.php?title=Huaca_San_Marcos&amp;action=edit&amp;redlink=1" class="new" title="Huaca San Marcos (page does not exist)">Huaca San Marcos</a></li>
+<li><a href="/w/index.php?title=Huaca_Santa_Ana&amp;action=edit&amp;redlink=1" class="new" title="Huaca Santa Ana (page does not exist)">Huaca Santa Ana</a></li>
+<li><a href="/wiki/Huacramarca" title="Huacramarca">Huacramarca</a></li>
+<li><a href="/wiki/Hualpayunca" title="Hualpayunca">Hualpayunca</a></li>
+<li><a href="/wiki/Huamanmarca,_La_Convenci%C3%B3n" title="Huamanmarca, La Convención">Huamanmarca, La Convención</a></li>
+<li><a href="/wiki/Huamboy" title="Huamboy">Huamboy</a></li>
+<li><a href="/wiki/Huankar%C3%A1n" title="Huankarán">Huankarán</a></li>
+<li><a href="/wiki/Huayc%C3%A1n_de_Pariachi" title="Huaycán de Pariachi">Huaycán de Pariachi</a></li>
+<li><a href="/wiki/Hu%C3%A1nuco_Pampa" title="Huánuco Pampa">Huánuco Pampa</a></li>
+<li><a href="/wiki/Huari_(archaeological_site)" title="Huari (archaeological site)">Huari</a></li>
+<li><a href="/wiki/Huayna_Picchu" title="Huayna Picchu">Huayna Picchu</a></li>
+<li><a href="/wiki/Huayrapongo" title="Huayrapongo">Huayrapongo</a></li>
+<li><a href="/wiki/Huchuy_Qosqo" title="Huchuy Qosqo">Huchuy Qosqo</a></li>
+<li><a href="/wiki/Hui%C3%B1ao" title="Huiñao">Huiñao</a></li>
+<li><a href="/wiki/Inca_Uyo" title="Inca Uyo">Inca Uyo</a></li>
+<li><a href="/wiki/Incahuasi,_Lima" title="Incahuasi, Lima">Incahuasi, Lima</a></li>
+<li><a href="/wiki/Ingatambo" title="Ingatambo">Ingatambo</a></li>
+<li><a href="/wiki/Inka_Mach%27ay,_Peru" title="Inka Mach&#39;ay, Peru">Inka Mach'ay</a></li>
+<li><a href="/wiki/Inka_Raqay,_Apur%C3%ADmac" title="Inka Raqay, Apurímac">Inka Raqay, Apurímac</a></li>
+<li><a href="/wiki/Inka_Raqay,_Ayacucho" title="Inka Raqay, Ayacucho">Inka Raqay, Ayacucho</a></li>
+<li><a href="/wiki/Inka_Tampu,_Huayopata" title="Inka Tampu, Huayopata">Inka Tampu, Huayopata</a></li>
+<li><a href="/wiki/Inka_Tampu,_Vilcabamba" title="Inka Tampu, Vilcabamba">Inka Tampu, Vilcabamba</a></li>
+<li><a href="/wiki/Inka_Tunuwiri" title="Inka Tunuwiri">Inka Tunuwiri</a></li>
+<li><a href="/wiki/Inka_Wasi,_Ayacucho" title="Inka Wasi, Ayacucho">Inka Wasi, Ayacucho</a></li>
+<li><a href="/wiki/Inka_Wasi,_Huancavelica" title="Inka Wasi, Huancavelica">Inka Wasi, Huancavelica</a></li>
+<li><a href="/wiki/Inkapintay" title="Inkapintay">Inkapintay</a></li>
+<li><a href="/wiki/Inkilltambo" title="Inkilltambo">Inkilltambo</a></li>
+<li><a href="/wiki/Inti_Punku" title="Inti Punku">Inti Punku</a></li>
+<li><a href="/wiki/Inti_Watana,_Ayacucho" title="Inti Watana, Ayacucho">Inti Watana, Ayacucho</a></li>
+<li><a href="/wiki/Inti_Watana,_Calca" title="Inti Watana, Calca">Inti Watana, Calca</a></li>
+<li><a href="/wiki/Inti_Watana,_Urubamba" class="mw-redirect" title="Inti Watana, Urubamba">Inti Watana, Urubamba</a></li>
+<li><a href="/wiki/Intikancha_(Puno)" title="Intikancha (Puno)">Intikancha</a></li>
+<li><a href="/wiki/Intini_Uyu_Pata" title="Intini Uyu Pata">Intini Uyu Pata</a></li>
+<li><a href="/wiki/Intipa_%C3%91awin" class="mw-redirect" title="Intipa Ñawin">Intipa Ñawin</a></li>
+<li><a href="/wiki/Intiyuq_K%27uchu" title="Intiyuq K&#39;uchu">Intiyuq K'uchu</a></li>
+<li><a href="/wiki/Iskuqucha" title="Iskuqucha">Iskuqucha</a></li>
+<li><a href="/wiki/Isog" title="Isog">Isog</a></li>
+<li><a href="/wiki/Jinkiori" title="Jinkiori">Jinkiori</a></li>
+<li><a href="/wiki/Jisk%27a_Iru_Muqu" title="Jisk&#39;a Iru Muqu">Jisk'a Iru Muqu</a></li>
+<li><a href="/wiki/Kanamarka" title="Kanamarka">Kanamarka</a></li>
+<li><a href="/wiki/Kanichi,_Peru" title="Kanichi, Peru">Kanichi</a></li>
+<li><a href="/wiki/Kenko,_Puno" title="Kenko, Puno">Kenko</a></li>
+<li><a href="/wiki/Killa_Mach%27ay" title="Killa Mach&#39;ay">Killa Mach'ay</a></li>
+<li><a href="/wiki/Killarumiyuq" title="Killarumiyuq">Killarumiyuq</a></li>
+<li><a href="/wiki/Kotosh" title="Kotosh">Kotosh</a></li>
+<li><a href="/wiki/Kuelap" class="mw-redirect" title="Kuelap">Kuelap</a></li>
+<li><a href="/wiki/Kukuli,_Arequipa" title="Kukuli, Arequipa">Kukuli</a></li>
+<li><a href="/wiki/Kuntur_Wasi" title="Kuntur Wasi">Kuntur Wasi</a></li>
+<li><a href="/wiki/Kunturmarka,_Ayacucho" title="Kunturmarka, Ayacucho">Kunturmarka, Ayacucho</a></li>
+<li><a href="/wiki/Kunturmarka,_Pasco" title="Kunturmarka, Pasco">Kunturmarka, Pasco</a></li>
+<li><a href="/wiki/Kuntuyuq" title="Kuntuyuq">Kuntuyuq</a></li>
+<li><a href="/wiki/Kusichaka_River" class="mw-redirect" title="Kusichaka River">Kusichaka valley</a></li>
+<li><a href="/wiki/Khichuqaqa" title="Khichuqaqa">Khichuqaqa</a></li>
+<li><a href="/wiki/Khuchi_Mach%27ay" class="mw-redirect" title="Khuchi Mach&#39;ay">Khuchi Mach'ay</a></li>
+<li><a href="/wiki/K%27allapayuq_Urqu" title="K&#39;allapayuq Urqu">K'allapayuq Urqu</a></li>
+<li><a href="/wiki/K%27ipakhara" title="K&#39;ipakhara">K'ipakhara</a></li>
+<li><a href="/wiki/La_Otra_Banda" title="La Otra Banda">La Otra Banda</a></li>
+<li><a href="/wiki/Laguna_de_las_Momias" title="Laguna de las Momias">Laguna de las Momias</a></li>
+<li><a href="/w/index.php?title=Lauricocha_Caves&amp;action=edit&amp;redlink=1" class="new" title="Lauricocha Caves (page does not exist)">Lauricocha Caves</a></li>
+<li><a href="/w/index.php?title=Layz%C3%B3n&amp;action=edit&amp;redlink=1" class="new" title="Layzón (page does not exist)">Layzón</a></li>
+<li><a href="/wiki/Llactan" title="Llactan">Llactan</a></li>
+<li><a href="/wiki/Llamachayuq" title="Llamachayuq">Llamachayuq</a></li>
+<li><a href="/wiki/Llamachayuq_Qaqa" title="Llamachayuq Qaqa">Llamachayuq Qaqa</a></li>
+<li><a href="/wiki/Llamayuq" title="Llamayuq">Llamayuq</a></li>
+<li><a href="/wiki/Llamuqa" title="Llamuqa">Llamuqa</a></li>
+<li><a href="/wiki/Llaqta_Qulluy,_Acoria" title="Llaqta Qulluy, Acoria">Llaqta Qulluy, Acoria</a></li>
+<li><a href="/wiki/Llaqta_Qulluy,_Conayca" title="Llaqta Qulluy, Conayca">Llaqta Qulluy, Conayca</a></li>
+<li><a href="/wiki/Llaqta_Qulluy,_Tayacaja" title="Llaqta Qulluy, Tayacaja">Llaqta Qulluy, Tayacaja</a></li>
+<li><a href="/wiki/Llaqta_Qulluy,_Vilca" title="Llaqta Qulluy, Vilca">Llaqta Qulluy, Vilca</a></li>
+<li><a href="/wiki/Llaqtapata" title="Llaqtapata">Llaqtapata</a></li>
+<li><a href="/wiki/Machu_Colca" title="Machu Colca">Machu Colca</a></li>
+<li><a href="/wiki/Machu_Picchu" title="Machu Picchu">Machu Picchu</a></li>
+<li><a href="/wiki/Machu_Pirqa" title="Machu Pirqa">Machu Pirqa</a></li>
+<li><a href="/wiki/Machu_Pitumarka" title="Machu Pitumarka">Machu Pitumarka</a></li>
+<li><a href="/wiki/Machu_Q%27inti" title="Machu Q&#39;inti">Machu Q'inti</a></li>
+<li><a href="/wiki/Mallkuamaya" title="Mallkuamaya">Mallkuamaya</a></li>
+<li><a href="/wiki/Mameria" title="Mameria">Mameria</a></li>
+<li><a href="/wiki/Maray_Qalla" title="Maray Qalla">Maray Qalla</a></li>
+<li><a href="/wiki/Marayniyoq" title="Marayniyoq">Marayniyoq</a></li>
+<li><a href="/wiki/Marcahuamachuco" title="Marcahuamachuco">Marcahuamachuco</a></li>
+<li><a href="/wiki/Markahirka" title="Markahirka">Markahirka</a></li>
+<li><a href="/wiki/Markansaya" title="Markansaya">Markansaya</a></li>
+<li><a href="/wiki/Markapukyu" title="Markapukyu">Markapukyu</a></li>
+<li><a href="/wiki/Marpa,_Peru" title="Marpa, Peru">Marpa</a></li>
+<li><a href="/wiki/Mawk%27allaqta,_Castilla" title="Mawk&#39;allaqta, Castilla">Mawk'allaqta, Castilla</a></li>
+<li><a href="/wiki/Mawk%27allaqta,_Espinar" title="Mawk&#39;allaqta, Espinar">Mawk'allaqta, Espinar</a></li>
+<li><a href="/wiki/Mawk%27allaqta,_La_Uni%C3%B3n" title="Mawk&#39;allaqta, La Unión">Mawk'allaqta, La Unión</a></li>
+<li><a href="/wiki/Mawk%27allaqta,_Melgar" title="Mawk&#39;allaqta, Melgar">Mawk'allaqta, Melgar</a></li>
+<li><a href="/wiki/Mawk%27allaqta,_Paruro" title="Mawk&#39;allaqta, Paruro">Mawk'allaqta, Paruro</a></li>
+<li><a href="/wiki/Mawk%27allaqta,_Sandia" title="Mawk&#39;allaqta, Sandia">Mawk'allaqta, Sandia</a></li>
+<li><a href="/wiki/Mawk%27ataray" title="Mawk&#39;ataray">Mawk'ataray</a></li>
+<li><a href="/w/index.php?title=Mazur_(Peru)&amp;action=edit&amp;redlink=1" class="new" title="Mazur (Peru) (page does not exist)">Mazur</a></li>
+<li><a href="/wiki/Miculla_petroglyphs" title="Miculla petroglyphs">Miculla</a></li>
+<li><a href="/wiki/Millka" title="Millka">Millka</a></li>
+<li><a href="/w/index.php?title=Ruins_of_Miraflores&amp;action=edit&amp;redlink=1" class="new" title="Ruins of Miraflores (page does not exist)">Miraflores</a></li>
+<li><a href="/wiki/Mirq%27imarka" title="Mirq&#39;imarka">Mirq'imarka</a></li>
+<li><a href="/wiki/Miyu_Pampa" title="Miyu Pampa">Miyu Pampa</a></li>
+<li><a href="/wiki/Molloko" title="Molloko">Molloko</a></li>
+<li><a href="/wiki/Moray_(Inca_ruin)" title="Moray (Inca ruin)">Moray</a></li>
+<li><a href="/wiki/Mulinuyuq" title="Mulinuyuq">Mulinuyuq</a></li>
+<li><a href="/wiki/Mullu_Q%27awa" title="Mullu Q&#39;awa">Mullu Q'awa</a></li>
+<li><a href="/wiki/Muyu_Muyu" title="Muyu Muyu">Muyu Muyu</a></li>
+<li><a href="/wiki/Muyu_Urqu" title="Muyu Urqu">Muyu Urqu</a></li>
+<li><a href="/wiki/Muyuq_Marka" title="Muyuq Marka">Muyuq Marka</a></li>
+<li><a href="/wiki/Nazca_Lines" class="mw-redirect" title="Nazca Lines">Nazca Lines</a></li>
+<li><a href="/wiki/Nina_Kiru" title="Nina Kiru">Nina Kiru</a></li>
+<li><a href="/wiki/Ninamarca" title="Ninamarca">Ninamarca</a></li>
+<li><a href="/wiki/%C3%91awpallaqta,_Huanca_Sancos" title="Ñawpallaqta, Huanca Sancos">Ñawpallaqta, Huanca Sancos</a></li>
+<li><a href="/wiki/%C3%91awpallaqta,_Fajardo" title="Ñawpallaqta, Fajardo">Ñawpallaqta, Fajardo</a></li>
+<li><a href="/wiki/%C3%91awpallaqta,_Lucanas" title="Ñawpallaqta, Lucanas">Ñawpallaqta, Lucanas</a></li>
+<li><a href="/wiki/%C3%91usta_Hispana" title="Ñusta Hispana">Ñusta Hispana</a></li>
+<li><a href="/wiki/Ollantaytambo" title="Ollantaytambo">Ollantaytambo</a></li>
+<li><a href="/wiki/Pacatnamu" title="Pacatnamu">Pacatnamu</a></li>
+<li><a href="/wiki/Pachacamac" title="Pachacamac">Pachacamac</a></li>
+<li><a href="/wiki/Pachatusan" title="Pachatusan">Pachatusan</a></li>
+<li><a href="/w/index.php?title=Paij%C3%A1n_(archaeological_complex)&amp;action=edit&amp;redlink=1" class="new" title="Paiján (archaeological complex) (page does not exist)">Paiján</a></li>
+<li><a href="/wiki/Pa%C3%B1amarca" title="Pañamarca">Pañamarca</a></li>
+<li><a href="/wiki/Paracas_Candelabra" title="Paracas Candelabra">Paracas Candelabra</a></li>
+<li><a href="/wiki/Paraccra_(archaeological_site)" title="Paraccra (archaeological site)">Paraccra</a></li>
+<li><a href="/wiki/Patallaqta" class="mw-redirect" title="Patallaqta">Patallaqta</a></li>
+<li><a href="/wiki/Pikillaqta" title="Pikillaqta">Pikillaqta</a></li>
+<li><a href="/wiki/Pikimachay" title="Pikimachay">Pikimach'ay</a></li>
+<li><a href="/wiki/Pilluchu" title="Pilluchu">Pilluchu</a></li>
+<li><a href="/wiki/Pinkuylluna" title="Pinkuylluna">Pinkuylluna</a></li>
+<li><a href="/wiki/Pirca_Pirca,_La_Libertad" title="Pirca Pirca, La Libertad">Pirca Pirca, La Libertad</a></li>
+<li><a href="/wiki/Pirca_Pirca,_Lima" title="Pirca Pirca, Lima">Pirca Pirca, Lima</a></li>
+<li><a href="/wiki/Pirhuaylla" title="Pirhuaylla">Pirhuaylla</a></li>
+<li><a href="/wiki/Piruro" title="Piruro">Piruro</a></li>
+<li><a href="/wiki/Pirwayuq" title="Pirwayuq">Pirwayuq</a></li>
+<li><a href="/wiki/P%C3%ADsac" title="Písac">Písac</a></li>
+<li><a href="/wiki/Puka_Pukara" title="Puka Pukara">Puka Pukara</a></li>
+<li><a href="/wiki/Tambo_Colorado" title="Tambo Colorado">Puka Tampu</a></li>
+<li><a href="/wiki/Puka_Urqu_(Ayacucho)" title="Puka Urqu (Ayacucho)">Puka Urqu</a></li>
+<li><a href="/wiki/Pukara,_Coporaque" title="Pukara, Coporaque">Pukara, Coporaque</a></li>
+<li><a href="/wiki/Pukara,_V%C3%ADctor_Fajardo" title="Pukara, Víctor Fajardo">Pukara, Fajardo</a></li>
+<li><a href="/wiki/Pukara,_Puno" class="mw-redirect" title="Pukara, Puno">Pukara, Puno</a></li>
+<li><a href="/wiki/Pukara,_Vilcas_Huam%C3%A1n" title="Pukara, Vilcas Huamán">Pukara, Vilcas Huamán</a></li>
+<li><a href="/wiki/Pukarani_(Peru)" title="Pukarani (Peru)">Pukarani</a></li>
+<li><a href="/wiki/Pumamarka,_San_Sebasti%C3%A1n" title="Pumamarka, San Sebastián">Pumamarka, San Sebastián</a></li>
+<li><a href="/wiki/Pumamarka,_Urubamba" title="Pumamarka, Urubamba">Pumamarka, Urubamba</a></li>
+<li><a href="/wiki/Pumaq_Hirka" title="Pumaq Hirka">Pumaq Hirka</a></li>
+<li><a href="/wiki/Pumawasi,_Anta" title="Pumawasi, Anta">Pumawasi</a></li>
+<li><a href="/wiki/Punkuri" class="mw-redirect" title="Punkuri">Punkuri</a></li>
+<li><a href="/wiki/Puqin_Kancha" title="Puqin Kancha">Puqin Kancha</a></li>
+<li><a href="/wiki/Puruchuco" title="Puruchuco">Puruchuco</a></li>
+<li><a href="/wiki/Purunllacta,_Cheto" class="mw-redirect" title="Purunllacta, Cheto">Purunllacta, Cheto</a></li>
+<li><a href="/wiki/Purunllacta,_Soloco" title="Purunllacta, Soloco">Purunllacta, Soloco</a></li>
+<li><a href="/wiki/Pusharo" title="Pusharo">Pusharo</a></li>
+<li><a href="/wiki/Pusuquy_Pata" title="Pusuquy Pata">Pusuquy Pata</a></li>
+<li><a href="/wiki/Puyupatamarca" title="Puyupatamarca">Puyupatamarca</a></li>
+<li><a href="/wiki/Qaqapatan" title="Qaqapatan">Qaqapatan</a></li>
+<li><a href="/wiki/Qenko" title="Qenko">Qenko</a></li>
+<li><a href="/wiki/Qillqatani" title="Qillqatani">Qillqatani</a></li>
+<li><a href="/w/index.php?title=Qillqa_(rock_art)&amp;action=edit&amp;redlink=1" class="new" title="Qillqa (rock art) (page does not exist)">Qillqa</a></li>
+<li><a href="/wiki/Qillqay_Mach%27ay" class="mw-redirect" title="Qillqay Mach&#39;ay">Qillqay Mach'ay</a></li>
+<li><a href="/w/index.php?title=Petroglyphs_of_Quiaca&amp;action=edit&amp;redlink=1" class="new" title="Petroglyphs of Quiaca (page does not exist)">Quiaca</a></li>
+<li><a href="/wiki/Quillarumi" title="Quillarumi">Quillarumi</a></li>
+<li><a href="/wiki/Quishuar_(archaeological_site)" title="Quishuar (archaeological site)">Quishuar</a></li>
+<li><a href="/wiki/Qullqapampa" title="Qullqapampa">Qullqapampa</a></li>
+<li><a href="/wiki/Qulu_Qulu" title="Qulu Qulu">Qulu Qulu</a></li>
+<li><a href="/wiki/Qunchamarka" title="Qunchamarka">Qunchamarka</a></li>
+<li><a href="/wiki/Qunchupata,_Ayacucho" title="Qunchupata, Ayacucho">Qunchupata</a></li>
+<li><a href="/wiki/Quri_Winchus" title="Quri Winchus">Quri Winchus</a></li>
+<li><a href="/wiki/Qurimarka,_Apur%C3%ADmac" title="Qurimarka, Apurímac">Qurimarka, Apurímac</a></li>
+<li><a href="/wiki/Qurimarka,_Cusco" title="Qurimarka, Cusco">Qurimarka, Cusco</a></li>
+<li><a href="/wiki/Quriwayrachina,_Anta" title="Quriwayrachina, Anta">Quriwayrachina, Anta</a></li>
+<li><a href="/wiki/Quriwayrachina,_Ayacucho" title="Quriwayrachina, Ayacucho">Quriwayrachina, Ayacucho</a></li>
+<li><a href="/wiki/Quriwayrachina,_La_Convenci%C3%B3n" title="Quriwayrachina, La Convención">Quriwayrachina, La Convención</a></li>
+<li><a href="/wiki/Qasa_Pata" class="mw-redirect" title="Qasa Pata">Qasa Pata</a></li>
+<li><a href="/wiki/Qhapaq_Kancha" title="Qhapaq Kancha">Qhapaq Kancha</a></li>
+<li><a href="/wiki/Raqch%27i" title="Raqch&#39;i">Raqch'i</a></li>
+<li><a href="/wiki/Revash" title="Revash">Revash</a></li>
+<li><a href="/wiki/Rumicolca" title="Rumicolca">Rumicolca</a></li>
+<li><a href="/wiki/Rumiwasi" title="Rumiwasi">Rumiwasi</a></li>
+<li><a href="/wiki/Runayoc" title="Runayoc">Runayoc</a></li>
+<li><a href="/wiki/Runkuraqay" title="Runkuraqay">Runkuraqay</a></li>
+<li><a href="/wiki/Sacsayhuam%C3%A1n" title="Sacsayhuamán">Sacsayhuamán</a></li>
+<li><a href="/wiki/Sara_Sara" title="Sara Sara">Sara Sara</a></li>
+<li><a href="/wiki/Sayacmarca" title="Sayacmarca">Sayacmarca</a></li>
+<li><a href="/wiki/Sayhuite" title="Sayhuite">Sayhuite</a></li>
+<li><a href="/wiki/Cerro_Sech%C3%ADn" title="Cerro Sechín">Sechín</a></li>
+<li><a href="/wiki/Sillustani" title="Sillustani">Sillustani</a></li>
+<li><a href="/wiki/Sip%C3%A1n" class="mw-redirect" title="Sipán">Sipán</a></li>
+<li><a href="/wiki/S%C3%B3ndor" title="Sóndor">Sóndor</a></li>
+<li><a href="/wiki/Soro_Mik%27aya_Patjxa" title="Soro Mik&#39;aya Patjxa">Soro Mik'aya Patjxa</a></li>
+<li><a href="/wiki/Susupillu" class="mw-redirect" title="Susupillu">Susupillu</a></li>
+<li><a href="/w/index.php?title=Tambo_Totem&amp;action=edit&amp;redlink=1" class="new" title="Tambo Totem (page does not exist)">Tambo Totem</a></li>
+<li><a href="/wiki/Tambomachay" title="Tambomachay">Tambomachay</a></li>
+<li><a href="/wiki/Tampu_Mach%27ay,_Huancavelica" title="Tampu Mach&#39;ay, Huancavelica">Tampu Mach'ay, Huancavelica</a></li>
+<li><a href="/wiki/Tampukancha" title="Tampukancha">Tampukancha</a></li>
+<li><a href="/wiki/Tanqa_Tanqa" title="Tanqa Tanqa">Tanqa Tanqa</a></li>
+<li><a href="/w/index.php?title=Tantarica&amp;action=edit&amp;redlink=1" class="new" title="Tantarica (page does not exist)">Tantarica</a></li>
+<li><a href="/wiki/Taqrachullu" title="Taqrachullu">Taqrachullu</a></li>
+<li><a href="/wiki/Tarahuasi" title="Tarahuasi">Tarahuasi</a></li>
+<li><a href="/wiki/Tarmatambo" title="Tarmatambo">Tarmatambo</a></li>
+<li><a href="/w/index.php?title=Templo_del_Zorro&amp;action=edit&amp;redlink=1" class="new" title="Templo del Zorro (page does not exist)">Templo del Zorro</a></li>
+<li><a href="/wiki/Wiraqucha_(Cusco)" title="Wiraqucha (Cusco)">The Toads of Wiraqucha</a></li>
+<li><a href="/wiki/Tikra" title="Tikra">Tikra</a></li>
+<li><a href="/wiki/Tinyaq" title="Tinyaq">Tinyaq</a></li>
+<li><a href="/wiki/Tip%C3%B3n" title="Tipón">Tipón</a></li>
+<li><a href="/wiki/Titiqaqa_(Cusco)" title="Titiqaqa (Cusco)">Titiqaqa</a></li>
+<li><a href="/wiki/Toquepala_Caves" title="Toquepala Caves">Toquepala Caves</a></li>
+<li><a href="/wiki/Toro_Muerto" title="Toro Muerto">Toro Muerto</a></li>
+<li><a href="/wiki/Pukara_(Sandia)" title="Pukara (Sandia)">Trinchera</a></li>
+<li><a href="/wiki/T%C3%BAcume" title="Túcume">Túcume</a></li>
+<li><a href="/wiki/Tunanmarca" title="Tunanmarca">Tunanmarca</a></li>
+<li><a href="/w/index.php?title=Tunay_Q%27asa&amp;action=edit&amp;redlink=1" class="new" title="Tunay Q&#39;asa (page does not exist)">Tunay Q'asa</a></li>
+<li><a href="/wiki/Tupu_Inka" title="Tupu Inka">Tupu Inka</a></li>
+<li><a href="/wiki/T%27akaq" title="T&#39;akaq">T'akaq</a></li>
+<li><a href="/wiki/T%27uqu_T%27uquyuq" title="T&#39;uqu T&#39;uquyuq">T'uqu T'uquyuq</a></li>
+<li><a href="/wiki/Uchkus_Inka%C3%B1an" title="Uchkus Inkañan">Uchkus Inkañan</a></li>
+<li><a href="/wiki/Urpish" title="Urpish">Urpish</a></li>
+<li><a href="/wiki/Uskallaqta" title="Uskallaqta">Uskallaqta</a></li>
+<li><a href="/wiki/Usnu,_Ayacucho" title="Usnu, Ayacucho">Usnu, Ayacucho</a></li>
+<li><a href="/wiki/Usnu,_Hu%C3%A1nuco" title="Usnu, Huánuco">Usnu, Huánuco</a></li>
+<li><a href="/wiki/Usnu_Muqu" title="Usnu Muqu">Usnu Muqu</a></li>
+<li><a href="/wiki/Usqunta" title="Usqunta">Usqunta</a></li>
+<li><a href="/wiki/Uyu_Uyu" title="Uyu Uyu">Uyu Uyu</a></li>
+<li><a href="/w/index.php?title=Venado_cautivo&amp;action=edit&amp;redlink=1" class="new" title="Venado cautivo (page does not exist)">Venado cautivo</a></li>
+<li><a href="/wiki/Ventanillas_de_Otuzco" title="Ventanillas de Otuzco">Ventanillas de Otuzco</a></li>
+<li><a href="/wiki/Ventarron" title="Ventarron">Ventarron</a></li>
+<li><a href="/wiki/Vilcabamba,_Peru" title="Vilcabamba, Peru">Vilcabamba</a></li>
+<li><a href="/wiki/Vilcashuam%C3%A1n" title="Vilcashuamán">Vilcashuamán</a></li>
+<li><a href="/wiki/Viracochapampa" title="Viracochapampa">Viracochapampa</a></li>
+<li><a href="/wiki/Vitcos" title="Vitcos">Vitcos</a></li>
+<li><a href="/wiki/Waman_Pirqa" title="Waman Pirqa">Waman Pirqa</a></li>
+<li><a href="/wiki/Wamanilla" title="Wamanilla">Wamanilla</a></li>
+<li><a href="/wiki/Wamanmarka,_Chumbivilcas" title="Wamanmarka, Chumbivilcas">Wamanmarka, Chumbivilcas</a></li>
+<li><a href="/wiki/Wamanmarka,_Lima" title="Wamanmarka, Lima">Wamanmarka, Lima</a></li>
+<li><a href="/wiki/Wanakawri,_Cusco" class="mw-redirect" title="Wanakawri, Cusco">Wanakawri, Cusco</a></li>
+<li><a href="/wiki/Wanakawri,_Hu%C3%A1nuco" title="Wanakawri, Huánuco">Wanakawri, Huánuco</a></li>
+<li><a href="/wiki/Waqlamarka" title="Waqlamarka">Waqlamarka</a></li>
+<li><a href="/wiki/Waqra_Pukara" class="mw-redirect" title="Waqra Pukara">Waqra Pukara</a></li>
+<li><a href="/wiki/Waqutu" title="Waqutu">Waqutu</a></li>
+<li><a href="/wiki/Warahirka" title="Warahirka">Warahirka</a></li>
+<li><a href="/wiki/Waraqayuq" title="Waraqayuq">Waraqayuq</a></li>
+<li><a href="/wiki/Waraqu_Urqu" title="Waraqu Urqu">Waraqu Urqu</a></li>
+<li><a href="/wiki/Warawtampu" title="Warawtampu">Warawtampu</a></li>
+<li><a href="/wiki/Wari_Willka" title="Wari Willka">Wari Willka</a></li>
+<li><a href="/wiki/Waruq" title="Waruq">Waruq</a></li>
+<li><a href="/wiki/Wat%27a,_Cusco" title="Wat&#39;a, Cusco">Wat'a, Cusco</a></li>
+<li><a href="/wiki/Wat%27a,_Hu%C3%A1nuco" title="Wat&#39;a, Huánuco">Wat'a, Huánuco</a></li>
+<li><a href="/wiki/Wayna_Q%27inti" title="Wayna Q&#39;inti">Wayna Q'inti</a></li>
+<li><a href="/wiki/Wayna_Tawqaray" title="Wayna Tawqaray">Wayna Tawqaray</a></li>
+<li><a href="/w/index.php?title=Wichama_(archaeological_site)&amp;action=edit&amp;redlink=1" class="new" title="Wichama (archaeological site) (page does not exist)">Wichama</a></li>
+<li><a href="/wiki/Wichqana" title="Wichqana">Wichqana</a></li>
+<li><a href="/wiki/Wich%27un" class="mw-redirect" title="Wich&#39;un">Wich'un</a></li>
+<li><a href="/wiki/Wila_Wilani_(Tacna)" title="Wila Wilani (Tacna)">Wila Wilani</a></li>
+<li><a href="/wiki/Wilca" title="Wilca">Wilca</a></li>
+<li><a href="/wiki/Wilcahua%C3%ADn" title="Wilcahuaín">Wilcahuaín</a></li>
+<li><a href="/wiki/Willkaraqay" class="mw-redirect" title="Willkaraqay">Willkaraqay</a></li>
+<li><a href="/wiki/Wi%C3%B1ay_Wayna" title="Wiñay Wayna">Wiñay Wayna</a></li>
+<li><a href="/wiki/Wiraqucha_Pirqa" title="Wiraqucha Pirqa">Wiraqucha Pirqa</a></li>
+<li><a href="/wiki/Yanaca" title="Yanaca">Yanaca</a></li>
+<li><a href="/wiki/Yanaqi_-_Qillqamarka" class="mw-redirect" title="Yanaqi - Qillqamarka">Yanaqi - Qillqamarka</a></li>
+<li><a href="/wiki/Yaynu" title="Yaynu">Yaynu</a></li>
+<li><a href="/wiki/Yuraq_Mach%27ay" title="Yuraq Mach&#39;ay">Yuraq Mach'ay</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1236075235"></div><div role="navigation" class="navbox authority-control" aria-label="Navbox" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a>: National <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q219279#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb150742673">France</a></span></li><li><span class="uid"><a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb150742673">BnF data</a></span></li></ul></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐8445b8969b‐6rtds
+Cached time: 20241228154637
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.959 seconds
+Real time usage: 1.235 seconds
+Preprocessor visited node count: 3503/1000000
+Post‐expand include size: 112022/2097152 bytes
+Template argument size: 9557/2097152 bytes
+Highest expansion depth: 20/100
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 81298/5000000 bytes
+Lua time usage: 0.620/10.000 seconds
+Lua memory usage: 26209936/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1100.412      1 -total
+ 35.50%  390.603      2 Template:Infobox
+ 25.37%  279.201      1 Template:Infobox_ancient_site
+ 17.64%  194.158      1 Template:Reflist
+ 13.61%  149.766      1 Template:Langx
+ 12.64%  139.050      1 Template:Infobox_UNESCO_World_Heritage_Site
+ 11.62%  127.889      1 Template:World_Heritage_Sites_in_Peru
+ 11.58%  127.373      2 Template:Navbox
+ 10.56%  116.180      5 Template:Cite_web
+  7.83%   86.186      1 Template:Short_description
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:897699:|#|:idhash:canonical and timestamp 20241228154637 and revision id 1253266607. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Caral&amp;oldid=1253266607">https://en.wikipedia.org/w/index.php?title=Caral&amp;oldid=1253266607</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Andean_civilizations" title="Category:Andean civilizations">Andean civilizations</a></li><li><a href="/wiki/Category:Archaeological_sites_in_Peru" title="Category:Archaeological sites in Peru">Archaeological sites in Peru</a></li><li><a href="/wiki/Category:Pyramids_in_Peru" title="Category:Pyramids in Peru">Pyramids in Peru</a></li><li><a href="/wiki/Category:Former_populated_places_in_Peru" title="Category:Former populated places in Peru">Former populated places in Peru</a></li><li><a href="/wiki/Category:World_Heritage_Sites_in_Peru" title="Category:World Heritage Sites in Peru">World Heritage Sites in Peru</a></li><li><a href="/wiki/Category:Archaeological_sites_in_Lima_Region" title="Category:Archaeological sites in Lima Region">Archaeological sites in Lima Region</a></li><li><a href="/wiki/Category:Tourist_attractions_in_Lima_Region" title="Category:Tourist attractions in Lima Region">Tourist attractions in Lima Region</a></li><li><a href="/wiki/Category:Andean_preceramic" title="Category:Andean preceramic">Andean preceramic</a></li><li><a href="/wiki/Category:Norte_Chico_civilization" title="Category:Norte Chico civilization">Norte Chico civilization</a></li><li><a href="/wiki/Category:27th-century_BC_establishments" title="Category:27th-century BC establishments">27th-century BC establishments</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_gadget_WikiMiniAtlas" title="Category:Pages using gadget WikiMiniAtlas">Pages using gadget WikiMiniAtlas</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2024" title="Category:Articles needing additional references from January 2024">Articles needing additional references from January 2024</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2022" title="Category:Articles with unsourced statements from August 2022">Articles with unsourced statements from August 2022</a></li><li><a href="/wiki/Category:Articles_containing_Spanish-language_text" title="Category:Articles containing Spanish-language text">Articles containing Spanish-language text</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 25 October 2024, at 03:47<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a href="/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" title="Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License">Creative Commons Attribution-ShareAlike 4.0 License</a>;
+additional terms may apply. By using this site, you agree to the <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use" class="extiw" title="foundation:Special:MyLanguage/Policy:Terms of Use">Terms of Use</a> and <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy" class="extiw" title="foundation:Special:MyLanguage/Policy:Privacy policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Caral&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="/static/images/footer/wikimedia-button.svg" width="84" height="29" alt="Wikimedia Foundation" loading="lazy"></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="/w/resources/assets/poweredby_mediawiki.svg" alt="Powered by MediaWiki" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul></ul>
+</div><script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8445b8969b-mx2m5","wgBackendResponseTime":172,"wgPageParseReport":{"limitreport":{"cputime":"0.959","walltime":"1.235","ppvisitednodes":{"value":3503,"limit":1000000},"postexpandincludesize":{"value":112022,"limit":2097152},"templateargumentsize":{"value":9557,"limit":2097152},"expansiondepth":{"value":20,"limit":100},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":81298,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1100.412      1 -total"," 35.50%  390.603      2 Template:Infobox"," 25.37%  279.201      1 Template:Infobox_ancient_site"," 17.64%  194.158      1 Template:Reflist"," 13.61%  149.766      1 Template:Langx"," 12.64%  139.050      1 Template:Infobox_UNESCO_World_Heritage_Site"," 11.62%  127.889      1 Template:World_Heritage_Sites_in_Peru"," 11.58%  127.373      2 Template:Navbox"," 10.56%  116.180      5 Template:Cite_web","  7.83%   86.186      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.620","limit":"10.000"},"limitreport-memusage":{"value":26209936,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-8445b8969b-6rtds","timestamp":"20241228154637","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Caral","url":"https:\/\/en.wikipedia.org\/wiki\/Caral","sameAs":"http:\/\/www.wikidata.org\/entity\/Q219279","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q219279","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-08-13T11:31:31Z","dateModified":"2024-10-25T03:47:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1d\/PiramidesdeCaral.JPG","headline":"large archaeological site in Peru where  the most ancient city of the America's stood, UNESCO World HERITAGE site"}</script>
+</body>
+</html>

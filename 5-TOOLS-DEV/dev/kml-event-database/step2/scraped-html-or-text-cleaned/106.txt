@@ -1,0 +1,36 @@
+Antarctic Tephra Database
+
+Recent Updates
+
+The second SPICEcore related paper is published
+April 15, 2020
+Russell J. Blong and Andrei. V. Kurbatov. Steps and missteps on the path to a 1665-1668 C.E. date for the VEI 6 eruption of Long Island, Papua New Guinea. Journal of Volcanology and Geothermal Research, 395:106828, 2020
+
+First SPICEcore tephra paper is published
+October 8, 2019
+L. H. Hartman, A. V. Kurbatov, D. A. Winski, A. M. Uribe, S. M. Davies, N. W. Dunbar, N. A. Iverson, M. Aydin, J. M. Fegyveresi, D. G. Ferris, T. J. Fudge, E. C. Osterberg, G. M. Hargreaves, and M. G. Yates. Volcanic glass properties from 1459 C.E. volcanic event in South Pole ice core dismiss Kuwae caldera as a potential source. Scientific Reports, 9(1):14437, 10 2019.
+
+Laura Hartman graduated
+January 22, 2019
+Congratulations!
+
+Safari bug fixed
+January 18, 2019
+Mark Royer fixed a bug limiting data comparison function in Safari web browser.
+
+Talos Dome ice core
+August 30, 2017
+Talos Dome ice core tephra data set from Narcisi et al., 2017 paper is included in the database.
+
+Siple Dome A ice core
+July 7, 2017
+Siple Dome A ice core tephra data set from published papers and NSIDC repository is included in the database.
+
+Application of DTSA-II Software to Cryptotephra
+Accurately determining the geochemical composition of volcanic particles extracted from ice cores is crucial for establishing the source and climatic impact of the volcanic eruption. The development and application of a new quantification procedure using the NIST DTSA II software to SEM / EDS analyses is at the forefront of this current research. Once this is complete, we can better refine possible volcanic source(s) responsible for tephra layer(s) at a specific interval in a given ice core.
+Read more about NIST DTSA-II software.
+
+Puyehue-Cordon Caule 2011 tephra composition added to the database
+Recently published data by Brent Alloway in Nature Scientific Reports is included in the database.
+
+Copyright © Antarctic Tephra Database

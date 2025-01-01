@@ -1,0 +1,37 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Vedic Sarasvati River lost in Thar Desert
+
+Basic location of event: India
+
+Specific data/information/context related to event: Saraswati Palaeochannels
+
+About `Lost River Saraswati' - The `Lost Saraswati River' in NW India is the holiest and mightiest river of the Vedic Period (8000-5000 BP). The discovery of the sites of Harappan civilization along the banks of the Saraswati River indicates towards its mighty and magnanimity. Vedic Saraswati River originated in the Himalayas and flowed between Indus River in the west and Ganges River in the east through Punjab, Haryana, western Rajasthan and Gujarat. It is finally drained into Gulf of Kachchh in Arabian Sea. The Vedic Saraswati River disappeared around 5000 BP due to climatic and tectonic changes. It is believed that River Saraswati is still flowing below the Thar desert and its Himalayan connectivity is alive. The relict of this lost river is preserved as palaeochannels under the cover of aeolian sand / alluvium. 
+
+Saraswati River in Ancient Literatures - The name `Saraswati' has been used in most of the ancient literatures like Vedas, Manusmriti, Mahabharata and Puranas:
+
+1. Vedas - There are frequent references of River Saraswati in Vedic literature (80 times more than that of River Ganges). No other river has received so much importance and respect as Saraswati. The Vedic hymns are composed by different Rishis (scholars) in the glory of River Saraswati. (a) Rigveda - Vedic Saraswati is described as `Best of Mothers, Best of Rivers, Best of Goddesses`. (b) Yajurveda - Saraswati has five important tributaries viz. Drishadvati, Satudri (Sutlej), Chandrabagha (Chenab), Vipasa (Vyas) and Iravati (Ravi). All these rivers merge to Saraswati to meet Sindhu Sagar (the Arabian Sea). (c) Atharvaveda - God bestowed the people on the bank of the Saraswati, with sweet juicy barley, where generous Maruts became farmers & Indra as the Lord of agriculture. This Mantra suggests that farming of cereals was practiced on the fertile soil of Saraswati during Vedic times. 
+
+2. Manusmriti - The land between the Saraswati and Drishadvati is created by God; this land is defined as Brahmavarta. 
+
+3. Mahabharata - Mahabharata gives clear geographical accounts of a number of pilgrimage sites spread along the course of the Saraswati River. Lord Balaram after visiting a number of holy places reaches to Vinasana, the place where the Saraswati disappeared. During Mahabharata period, the discharge of water in Saraswati became extremely low. As a result, the river vanished in the desert sand at certain place along its regular course i.e. at Vinasana. Hence, the river channel appeared dry. 
+
+4. Purana - Rishi Markandeya, close to the place where he meditated and offered sacrifices saw Saraswati rising from the Plaksha tree (Pipal tree). The sage prayed and worshiped the rising river.
+
+Discovering `Lost River Saraswati' through Remote Sensing Techniques - Discovering the exact course of Vedic Saraswati River and its perennial source is a challenging task among the researchers due to lack of proper scientific database. The mystery is unravelled through modern tools like Remote Sensing and GIS by using multi-spectral and multi-resolution satellite images of optical and microwave data. ISRO centres could able to delineate most of the palaeochannels of Vedic Saraswati River and its linkage with the present day Himalayan Rivers. 
+
+Linkages of Vedic Saraswati with Himalayan Rivers - 
+(a) Linkage of Saraswati Nadi with Somb River at Adi Badri
+(b) Linkage of Saraswati Nadi with Yamuna River
+(c) Linkage of Saraswati Nadi with Vedic Saraswati
+(d) Linkage of Sutlej Palaeochannel with Vedic Saraswati
+(e) Linkage of Vedic Saraswati from Mannsarovar to Dwaraka
+
+Utility of Palaeochannel Maps - 
+1. Cultural Heritage: (a) Restoration of Historical sites and (b) Excavation of New Archaeological Sites.
+2. Ground Water: (a) Groundwater exploration and (b) Groundwater recharge
+3. Tourism Sector: (a) Renovation of temples and (b) Reconstruction of Ritual Sites along the bank of Saraswati River.
+
+Click Here to visit Portal
+
+Saraswati Palaeochannels

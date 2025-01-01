@@ -1,0 +1,99 @@
+Vedveer Arya
+
+Interested in research of true chronology of world history.
+
+Followers: 3,667
+Following: 143
+Mentions: 75
+
+Uploads:
+1. **Date of the Mahabharata War (3162 BCE): A Study of Evidence and Methodology**
+   - The methodology for investigating the chronology of the historical period must be grounded in evidence collected from literary, epigraphic, and traditional sources. Archaeoastronomy represents a unique discipline that can potentially uncover absolute dates of historical events. Historical records of astronomical phenomena will serve as primary sources of evidence.
+
+2. **THE CHRONOLOGY OF INDIA: From Mahabharata to Medieval Era Volume II**
+   - Prior to the colonial era, Indians traditionally followed a well-established chronological history as narrated in the Puranas starting from the Mahabharata era to the Gupta period. The regnal periods of the Brihadratha, Pradyota and Sisunaga dynasties of the Magadha Empire given in the Puranas clearly indicate that Mahapadma Nanda founded his Nanda dynasty 1500 years after the Mahabharata war.
+
+3. **The Chronology of India From Mahabharata to Medieval era Volume I**
+   - For their valuable suggestions and sustained encouragement. I also thank Sh. Sanjay Sharma, Sh. Shamit Khemka and Sh. Paritosh Agrawal for extending all support in design of cover page and publication of this book. I thank Ms. Kalyani Prashar for her efforts in editing the manuscript. 
+
+4. **The Chronology of India: From Manu to Mahabharata**
+   - For their valuable suggestions and sustained encouragement. I also thank Sh. Sanjay Sharma, Sh. Shamit Khemka and Sh. Paritosh Agrawal for extending all support in design of cover page and publication of this book. 
+
+(Note: The list of uploads provides a brief description of the content of the work, however, for verbatim text, additional information in detail is available in each specific work description provided above.)
+if (true){
+  window.WowProfile.dispatcher = window.WowProfile.dispatcher || _.clone(Backbone.Events);
+  dispatcherData = {
+    dispatcher: window.WowProfile.dispatcher,
+    downloadLinkId: "d1882f83f39dc20ed481ac0c39b77ea0"
+  }
+}
+
+$('.js-work-strip[data-work-id=122217789]').each(function() {
+  if (!$(this).data('initialized')) {
+    new WowProfile.WorkStripView({
+      el: this,
+      workJSON: {"id":122217789,"title":"The Chronology of India: From Manu to Mahabharata","translated_title":"","metadata":{"grobid_abstract":"for their valuable suggestions and sustained encouragement. I also thank Sh. Sanjay Sharma, Sh. Shamit Khemka and Sh. Paritosh Agrawal for extending all support in design of cover page and publication of this book. I thank Ms. Kalyani Prashar for her efforts in editing the manuscript. I also thank Sh. Vinod Yadav for his creative contribution in the type-setting, design and printing of this book. Finally, I thank my wife Sandhya for her support, encouragement and patience during the time of writing of this book. New Delhi Vedveer Arya 19 th Sep 2019 6 | The Chronology of India : From Manu to Mahabharata sheet anchors of the chronology can be firmly established. The internal archaeo-astronomical data of ancient Indian literature is the most credible evidence to unravel the sheet anchors of the chronology of ancient India. All ancient Indian chronological traditions follow the timeline of Yuga cycles. They unanimously relate that the present Yuga is the Kaliyuga of the 28 th Chaturyuga of Vaivasvata Manvantara that commenced during the Mahābhārata era; however, there is a divergence of opinion about the exact epoch of the Kaliyuga. According to the Mahābhārata, the epoch of Kaliyuga commenced before the Mahābhārata war (3162 BCE). Most probably, the Mahābhārata indicates the commencement of Kaliyuga on 9 th Jan 3176 BCE and Māgha Śukla Pratipadā, when the Saptarṣis were at Maghā Nakśatra. Āryabhaṭa indicates the commencement of the Kaliyuga at midnight on 5 th Mar 3173 BCE, Chaitra Śukla Pratipadā in the 1 st year of the 60-year cycle, i.e., Prabhava Saṁvatsara, when Jupiter was in Aries. The Bhāgavata tradition mentions that the Kaliyuga commenced after the death of Sri Krishna in the 36 th year from the date of the Mahābhārata war whereas Lāṭadeva's Sūrya Siddhānta indicates the commencement of Kaliyuga from 17 th Feb 3101 BCE when all five planets, sun and moon were in close conjunction in Mīna Rāśi (Pisces). Thus, the epoch of Kaliyuga can only be conclusively established in the 32 nd century BCE, between 9 th Jan 3176 BCE and 17 th Feb 3101 BCE. Interestingly, Lāṭadeva's Sūrya Siddhānta says that Maya the great Asura wrote Sūrya Siddhānta at the end of the Krita Yuga of the 28 th Chaturyuga of Vaivasvata Manvantara, when all five planets, sun and moon were in close conjunction in Meṣa Rāśi (Aries). 4 This great conjunction took place on 22 nd Feb 6778 BCE and Chaitra Śukla Pratipadā.","grobid_abstract_attachment_id":116929883},"translated_abstract":null,"internal_url":"https://www.academia.edu/122217789/The_Chronology_of_India_From_Manu_to_Mahabharata","translated_internal_url":"","created_at":"2024-07-20T21:06:58.872-07:00","preview_url":null,"current_user_can_edit":null,"current_user_is_owner":null,"owner_id":3214667,"coauthors_can_edit":true,"document_type":"book","co_author_tags":[],"downloadable_attachments":[{"id":116929883,"title":"","file_type":"pdf","scribd_thumbnail_url":"https://attachments.academia-assets.com/116929883/thumbnails/1.jpg","file_name":"The_Chronology_of_India_From_Manu_to_Mah_3_.pdf","download_url":"https://www.academia.edu/attachments/116929883/download_file?st=MTczNTY4ODQ2NywxNTYuMTU1LjIzLjE4OQ%3D%3D&","bulk_download_file_name":"The_Chronology_of_India_From_Manu_to_Mah.pdf","bulk_download_url":"https://d1wqtxts1xzle7.cloudfront.net/116929883/The_Chronology_of_India_From_Manu_to_Mah_3_-libre.pdf?1721536423=\u0026response-content-disposition=attachment%3B+filename%3DThe_Chronology_of_India_From_Manu_to_Mah.pdf\u0026Expires=1735635778\u0026Signature=QWC~f2Eve9qZbBeMDvuKuPbgSmm~7uxMO7muNBZ~XewkNXHql98I26zrq49VjQnp1JaV6iFZacewhAbfj8gnunz~TzhtscDfUeMwTOHtSjVDmaR0AIXVyMkwTVQ~bYVuXf10c05jfAcfdq8U-rYpnud3ZgEbdOnph1vieVKGH7lykYC8f~2BtfQAkqFoRUrPYqiRtg--Hkt49ZRIHvHR1tR6OBDPjft1eNrFWnOnKYHPL08Rr5oE2BvWTgk21VxvJLJ~gNDXHqk1jLIJidTwzGIt6IRPEuncNONo4raOF8m-0fDf7qw42BcmjgWE1FUQmlc27lkdd5mzHTaNZ7u73g__\u0026Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"}],"slug":"The_Chronology_of_India_From_Manu_to_Mahabharata","translated_slug":"","page_count":500,"language":"en","content_type":"Work","summary":"for their valuable suggestions and sustained encouragement. I also thank Sh. Sanjay Sharma, Sh. Shamit Khemka and Sh. Paritosh Agrawal for extending all support in design of cover page and publication of this book. I thank Ms. Kalyani Prashar for her efforts in editing the manuscript. I also thank Sh. Vinod Yadav for his creative contribution in the type-setting, design and printing of this book. Finally, I thank my wife Sandhya for her support, encouragement and patience during the time of writing of this book. New Delhi Vedveer Arya 19 th Sep 2019 6 | The Chronology of India : From Manu to Mahabharata sheet anchors of the chronology can be firmly established. The internal archaeo-astronomical data of ancient Indian literature is the most credible evidence to unravel the sheet anchors of the chronology of ancient India. All ancient Indian chronological traditions follow the timeline of Yuga cycles. They unanimously relate that the present Yuga is the Kaliyuga of the 28 th Chaturyuga of Vaivasvata Manvantara that commenced during the Mahābhārata era; however, there is a divergence of opinion about the exact epoch of the Kaliyuga. According to the Mahābhārata, the epoch of Kaliyuga commenced before the Mahābhārata war (3162 BCE). Most probably, the Mahābhārata indicates the commencement of Kaliyuga on 9 th Jan 3176 BCE and Māgha Śukla Pratipadā, when the Saptarṣis were at Maghā Nakśatra. Āryabhaṭa indicates the commencement of the Kaliyuga at midnight on 5 th Mar 3173 BCE, Chaitra Śukla Pratipadā in the 1 st year of the 60-year cycle, i.e., Prabhava Saṁvatsara, when Jupiter was in Aries. The Bhāgavata tradition mentions that the Kaliyuga commenced after the death of Sri Krishna in the 36 th year from the date of the Mahābhārata war whereas Lāṭadeva's Sūrya Siddhānta indicates the commencement of Kaliyuga from 17 th Feb 3101 BCE when all five planets, sun and moon were in close conjunction in Mīna Rāśi (Pisces). Thus, the epoch of Kaliyuga can only be conclusively established in the 32 nd century BCE, between 9 th Jan 3176 BCE and 17 th Feb 3101 BCE. Interestingly, Lāṭadeva's Sūrya Siddhānta says that Maya the great Asura wrote Sūrya Siddhānta at the end of the Krita Yuga of the 28 th Chaturyuga of Vaivasvata Manvantara, when all five planets, sun and moon were in close conjunction in Meṣa Rāśi (Aries). 4 This great conjunction took place on 22 nd Feb 6778 BCE and Chaitra Śukla Pratipadā.","owner":{"id":3214667,"first_name":"Vedveer","middle_initials":null,"last_name":"Arya","page_name":"VedveerArya","domain_name":"independent","created_at":"2013-01-26T00:13:56.944-08:00","display_name":"Vedveer Arya","url":"https://independent.academia.edu/VedveerArya"},"attachments":[{"id":116929883,"title":"","file_type":"pdf","scribd_thumbnail_url":"https://attachments.academia-assets.com/116929883/thumbnails/1.jpg","file_name":"The_Chronology_of_India_From_Manu_to_Mah_3_.pdf","download_url":"https://www.academia.edu/attachments/116929883/download_file?st=MTczNTY4ODQ2NywxNTYuMTU1LjIzLjE4OQ%3D%3D&","bulk_download_file_name":"The_Chronology_of_India_From_Manu_to_Mah.pdf","bulk_download_url":"https://d1wqtxts1xzle7.cloudfront.net/116929883/The_Chronology_of_India_From_Manu_to_Mah_3_-libre.pdf?1721536423=\u0026response-content-disposition=attachment%3B+filename%3DThe_Chronology_of_India_From_Manu_to_Mah.pdf\u0026Expires=1735635778\u0026Signature=QWC~f2Eve9qZbBeMDvuKuPbgSmm~7uxMO7muNBZ~XewkNXHql98I26zrq49VjQnp1JaV6iFZacewhAbfj8gnunz~TzhtscDfUeMwTOHtSjVDmaR0AIXVyMkwTVQ~bYVuXf10c05jfAcfdq8U-rYpnud3ZgEbdOnph1vieVKGH7lykYC8f~2BtfQAkqFoRUrPYqiRtg--Hkt49ZRIHvHR1tR6OBDPjft1eNrFWnOnKYHPL08Rr5oE2BvWTgk21VxvJLJ~gNDXHqk1jLIJidTwzGIt6IRPEuncNONo4raOF8m-0fDf7qw42BcmjgWE1FUQmlc27lkdd5mzHTaNZ7u73g__\u0026Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"}],"research_interests":[{"id":3389,"name":"Indian studies","url":"https://www.academia.edu/Documents/in/Indian_studies"},{"id":12381,"name":"Indian ancient history","url":"https://www.academia.edu/Documents/in/Indian_ancient_history"}],"urls":[]},
+      dispatcherData: dispatcherData
+    });
+    $(this).data('initialized', true);
+  }
+});
+$a.trackClickSource(".js-work-strip-work-link", "profile_work_strip")
+  });
+Date of the Mahabharata War (3162 BCE): A Study of Evidence and Methodology
+
+The methodology for investigating the chronology of the historical period must be grounded in evidence collected from literary, epigraphic, and traditional sources. Archaeoastronomy represents a unique discipline that can potentially uncover absolute dates of historical events. Historical records of astronomical phenomena will serve as primary sources of evidence. A reliable approach to verifying the dates of events involves examining written accounts of planetary movements and stellar positions during the relevant timeframes. Historical accounts of phenomena such as eclipses are typically rich in detail, enabling the use of modern computer simulations to accurately determine their occurrence. The positions of celestial bodies are objective and not subject to falsification. Consequently, astronomical observations documented in the text of the Mahabharata would constitute the most reliable physical evidence, provided they can be subjected to scientific dating.
+
+[Download Link](https://www.academia.edu/attachments/120500374/download_file)
+button_location:profile}" href="https://www.academia.edu/attachments/120500374/download_file?st=MTczNTY4ODQ2NywxNTYuMTU1LjIzLjE4OQ%3D%3D&s=profile Download Download Edit 126654366" download_file_name:"Date_of_the_Mahabharata_War_3162_BCE_A_S.pdf" established content:
+The methodology for investigating the chronology of the historical period must be grounded in evidence collected from literary, epigraphic, and traditional sources. Archaeoastronomy represents a unique discipline that can potentially uncover absolute dates of historical events. Historical records of astronomical phenomena will serve as primary sources of evidence. A reliable approach to verifying the dates of events involves examining written accounts of planetary movements and stellar positions during the relevant timeframes. Historical accounts of phenomena such as eclipses are typically rich in detail, enabling the use of modern computer simulations to accurately determine their occurrence. The positions of celestial bodies are objective and not subject to falsification. Consequently, astronomical observations documented in the text of the Mahabharata would constitute the most reliable physical evidence, provided they can be subjected to scientific dating.
+
+owner:
+Vedveer Arya
+
+The Chronology of India: From Mahabharata to Medieval Era Volume II Download Download Edit 122768649s established content:
+Prior to the colonial era, Indians traditionally followed a well-established chronological history as narrated in the Puranas starting from the Mahabharata era to the Gupta period... 
+
+owner:
+Vedveer Arya
+
+The Chronology of India: From Mahabharata to Medieval era Volume I Download Download Edit 122768623s established content:
+Prior to the colonial era, Indians traditionally followed a well-established chronological history as narrated in the Puranas starting from the Mahabharata era to the Gupta period... 
+
+owner:
+Vedveer Arya
+
+The Chronology of India: From Manu to Mahabharata Download Download Edit 122217789s established content:
+for their valuable suggestions and sustained encouragement. I also thank Sh. Sanjay Sharma, Sh. Shamit Khemka and Sh. Paritosh Agrawal for extending all support in design of cover page and publication of this book...
+
+owner:
+Vedveer Arya
+
+Open Challenge to Historians: The Missing 1381 Years in Indian Chronology Download Download Edit 102000862s established content:
+Pathbreaking and intensive research based on epigraphic, archaeo-astronomical, and archaeological evidence has confirmed that modern historians have mistakenly followed wrong sheet anchors of chronology which led to the contraction of 1381 years of Indian chronological history...
+
+owner:
+Vedveer Arya
+
+An Outline of Indian Chronology Download Download Edit 98766587s established content:
+The antiquity and the chronology of ancient Indian civilization can be presented in Seven distinct stages as follows... 
+
+owner:
+Vedveer Arya
+
+Reconciliation of World Chronology Download Download Edit 93894659s established content:
+Jamshid Jam & his descendants 700 10930-10230 BCE Zahhak or Azi Dahaka & his descendants 1000 10230-9230 BCE Faridun (First physician) and his descendants (The legends of Garshasp, Nariman, Sam, Zal, Rustam & Sohrab)...
+I'm sorry, but it seems like the text you're asking for is incomplete. Could you please provide the complete text or clarify what specific text you're looking for?
+The Chronology of India: From Manu to Mahabhatrata, From Mahabharata to Medieval Era
+
+Vedveer Arya is a civil servant and a senior officer from Ministry of Defence. He is a Sanskrit scholar and a researcher with profound insights in the chronological history of India. He made an in-depth study of various epigraphs in original and critiqued the chronology of India put forth by colonial historians and their followers.
+
+The Date of Rāmāyana (5677-5577 BCE)
+
+A Rejoinder to " Major Flaw in the Chronological History of Ancient Tamilagam "
+
+The Origin of Zoroastrianism and Mithraism
+
+Colonial linguists and historians have found similarities of Sanskrit, Avestan, Latin and Greek languages which led to the evolution of hypothetical linguistics of modern times. They have concocted that the hypothetical Proto Indo-European language (PIE) was the mother of Proto Indo-Iranian language which was the mother of Proto Indo-Aryan and Proto Iranian languages. Thus, Vedic Sanskrit was a child of Proto Indo-Aryan language and Avestan was a child of Proto Iranian language. Similarly, Hellenic Greek and Latin were the child languages of PIE. It is pertinent to understand here that the mother-child relationship of languages can only be established based on the chronology of the evolution of Indian, Iranian and European languages. Therefore, we have to establish the true chronological history of India, Iran and Europe before debating over the subject of the chronological linguistics. I have scientifically established the sheet anchors of the chronology of world history and explained that the early Vedic period has formally commenced from the epochal date of Brahma I and his son Svayambhuva Manu around 14500 BCE. Vedas were written in Vedic Sanskrit around 14000-10000 BCE. It may be noted that Vedic Sanskrit was a grammatically programmed language and evolved from an Indian natural language which can be named as " Proto Sanskrit ". The following chart explains the chronological evolution of Indian languages.
+
+According to a legend, Vyāsa’s five disciples composed their versions of Mahabharata but Vyāsa rejected all of them. Another legend says that Jaimini wrote his version of Mahabharata. A Marathi text Pandavapratāpa written by Shridhara (17th century) mentions that Vyāsa condemned Jaimini for composing his version of Mahabharata but only Ashvamedha Parva of Jaiminiya Mahabharata is extant today because Jaimini had recited it to Janamejaya. Seemingly, these legends are mere speculations by later authors. There is no such information available in Vyāsa’s Mahabharata or ancient texts.

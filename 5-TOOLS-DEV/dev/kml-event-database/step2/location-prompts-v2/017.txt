@@ -1,0 +1,98 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Alaska 10.4ka Tsunami and Tephra
+
+Basic location of event: Alaska
+
+Specific data/information/context related to event: 📄 New blog post: Visualizing All ISBNs — $10k by 2025-01-31  
+✕  
+Anna’s Archive  
+📚 The largest truly open library in human history. ⭐️ We mirror Sci-Hub and LibGen. We scrape and open-source Z-Lib, DuXiu, and more. 📈 12,697,625 books, 35,509,463 papers — preserved forever. All our code and data are completely open source. Learn more…  
+Recent downloads:  
+ • REAL WORLD GROCERY SAVINGS A Proven System That Will Save Thousands on Your Grocery Bill!  
+ • Grave Mercy: His Fair Assassin, Book I (His Fair Assassin Trilogy 1)  
+ • Gebirgsartillerie  
+ • The flavor bible: the essential guide to culinary creativity, based on the wisdom of America's most imaginative chefs  
+ • Fault Line (Coastal University Book 2)  
+ • Transforma las heridas de tu infancia: Rechazo, abandono, humullación, traición, injusticia (Spanish Edition)  
+ • Aliens and the Unexplained: Bizarre, Strange and Mysterious Phenomena of Our Galaxy  
+ • No Right to Be Idle: The Invention of Disability, 1840s–1930s  
+ • REAL WORLD GROCERY SAVINGS A Proven System That Will Save Thousands on Your Grocery Bill!  
+ • Grave Mercy: His Fair Assassin, Book I (His Fair Assassin Trilogy 1)  
+ • Gebirgsartillerie  
+ • The flavor bible: the essential guide to culinary creativity, based on the wisdom of America's most imaginative chefs  
+ • Fault Line (Coastal University Book 2)  
+ • Transforma las heridas de tu infancia: Rechazo, abandono, humullación, traición, injusticia (Spanish Edition)  
+ • Aliens and the Unexplained: Bizarre, Strange and Mysterious Phenomena of Our Galaxy  
+ • No Right to Be Idle: The Invention of Disability, 1840s–1930s  
+Search  
+Donate  
+Log in / Register  
+Report file quality  
+English [en], .pdf, 🧬/nexusstc/scihub, 2.9MB, 📄 Journal article, nexusstc/Tsunami recurrence in the eastern Alaska-Aleutian arc: A Holocene stratigraphic record from Chirikof Island, Alaska/cb8c3e81aef37d03af5e54a556cd56cf.pdf  
+Tsunami recurrence in the eastern Alaska-Aleutian arc: A Holocene stratigraphic record from Chirikof Island, Alaska  
+Geological Society of America, Geosphere, 11, 2015  
+Alan R. Nelson; Richard W. Briggs; Tina Dura; Simon E. Engelhart; Guy Gelfenbaum; Lee-Ann Bradley; Steve L. Forman; Christopher H. Vane; Katherine A. Kelley  
+description  
+Despite the role of the Alaska-Aleutian megathrust as the source of some of the largest earthquakes and tsunamis, the history of its pre-twentieth century tsunamis is largely unknown west of the rupture zone of the great (magnitude, M 9.2) 1964 earthquake. Stratigraphy in core transects at two boggy lowland sites on Chirikof Island's southwest coast preserves tsunami deposits dating from the postglacial to the twentieth century. In a 500-m-long basin 13-15 m above sea level and 400 m from the sea, 4 of 10 sandy to silty beds in a 3-5-m-thick sequence of freshwater peat were probably deposited by tsunamis. The freshwater peat sequence beneath a gently sloping alluvial fan 2 km to the east, 5-15 m above sea level and 550 m from the sea, contains 20 sandy to silty beds deposited since 3.5 ka; at least 13 were probably deposited by tsunamis. Although most of the sandy beds have consistent thicknesses (over distances of 10-265 m), sharp lower contacts, good sorting, and/or upward fining typical of tsunami deposits, the beds contain abundant freshwater diatoms, very few brackish-water diatoms, and no marine diatoms. Apparently, tsunamis traveling inland over low dunes and boggy lowland entrained largely freshwater diatoms. Abundant fragmented diatoms, and lake species in some sandy beds not found in host peat, were probably transported by tsunamis to elevations of >10 m at the eastern site. Single-aliquot regeneration optically stimulated luminescence dating of the third youngest bed is consistent with its having been deposited by the tsunami recorded at Russian hunting outposts in 1788, and with the second youngest bed being deposited by a tsunami during an upper plate earthquake in 1880. We infer from stratigraphy, 14 C-dated peat deposition rates, and unpublished analyses of the island's history that the 1938 tsunami may locally have reached an elevation of >10 m. As this is the first record of Aleutian tsunamis extending throughout the Holocene, we cannot estimate source earthquake locations or magnitudes for most tsunami-deposited beds. We infer that no more than 3 of the 23 possible tsunamis beds at both sites were deposited following upper plate faulting or submarine landslides independent of megathrust earthquakes. If so, the Semidi segment of the Alaska-Aleutian megathrust near Chirikof Island probably sent high tsunamis southward every 180-270 yr for at least the past 3500 yr.  
+Alternative filename  
+scihub/10.1130/ges01108.1.pdf  
+metadata comments  
+Referenced by: doi:10.2112/03-0108.1 doi:10.1016/j.earscirev.2010.11.001 doi:10.3133/pp1576 doi:10.1017/s0263593300010956 doi:10.1785/0120120314 doi:10.1785/0120110177 doi:10.1130/b25726.1 doi:10.1016/j.sedgeo.2010.10.005 doi:10.1126/science.1122602 doi:10.1002/2014gl059380 doi:10.5194/nhess-12-2177-2012 doi:10.1016/j.quascirev.2007.01.019 doi:10.1017/s0033822200033865 doi:10.1191/095968300668251084 doi:10.1785/gssrl.83.1.29 doi:10.1002/2014gl061232 doi:10.1029/179gm03 doi:10.1016/j.margeo.2010.01.010 doi:10.1016/j.earscirev.2011.03.007 doi:10.1016/j.margeo.2011.12.010 doi:10.1016/j.margeo.2014.11.009 doi:10.1038/nature03943 doi:10.1016/j.quascirev.2004.01.009 doi:10.1353/arc.2010.0005 doi:10.1017/cbo9780511763175 doi:10.1080/0269249x.2003.9705569 doi:10.1016/j.epsl.2013.07.037 doi:10.1029/jb086ib05p03821 doi:10.1029/2010pa002051 doi:10.1007/s000240050010 doi:10.1016/j.sedgeo.2007.01.002 doi:10.1016/j.sedgeo.2007.01.011 doi:10.1016/s0025-3227(00)00066-9 doi:10.1016/s0079-1946(97)00015-3 doi:10.1177/0959683606069400 doi:10.1785/0120110102 doi:10.5670/oceanog.2011.05 doi:10.1029/93jb03124 doi:10.1306/74d70646-2b21-11d7-8648000102c1865d doi:10.1029/2006gl029073 doi:10.1029/179gm02 doi:10.1016/s0025-3227(03)00305-0 doi:10.1007/s00024-003-2416-y doi:10.1016/s0025-3227(03)00352-9 doi:10.1016/j.geomorph.2010.02.005 doi:10.1016/j.sedgeo.2011.11.002 doi:10.3133/pp1661f doi:10.1016/j.margeo.2011.10.004 doi:10.1130/0016-7606(1995)107 2.3.co;2 doi:10.1177/095968369600600406 doi:10.1017/s0033822200043198 doi:10.1016/j.sedgeo.2012.09.002 doi:10.1038/nature07373 doi:10.1029/94gl00333 doi:10.2307/278079 doi:10.1130/g31002.1 doi:10.1130/b25452.1 doi:10.1016/j.quascirev.2015.01.006 doi:10.1016/j.quascirev.2013.09.024 doi:10.1016/j.sedgeo.2007.01.004 doi:10.1002/esp.3290130206 doi:10.1130/0016-7606(1988)100 2.3.co;2 doi:10.1002/jgrb.50372 doi:10.1785/gssrl.80.3.431 doi:10.1111/j.1365-246x.2006.02899.x doi:10.1130/g30172a.1 doi:10.1111/j.1365-2052.2007.01559.x doi:10.1130/g24402a.1 doi:10.1130/b25865.1 doi:10.1130/g32712.1 doi:10.3133/ofr20141024 doi:10.1111/j.1440-1738.1994.tb00006.x doi:10.1086/629488 doi:10.1038/nature07374 doi:10.1016/j.sedgeo.2007.01.003 doi:10.1016/s1350-4487(03)00053-2 doi:10.1016/s0037-0738(00)00076-2 doi:10.1038/nature01864 doi:10.1016/j.sedgeo.2007.01.008 doi:10.1002/9781118452547.ch4 doi:10.1016/j.quascirev.2008.01.001 doi:10.3133/pp1093 doi:10.1029/jb095ib03p02511 doi:10.1785/0120020198 doi:10.1007/s10933-010-9464-y doi:10.3133/ofr20101239 doi:10.1016/j.sedgeo.2012.08.011 doi:10.3133/pp543d doi:10.1016/j.margeo.2011.11.012 doi:10.1016/1350-4487(94)90086-8 doi:10.1016/j.geomorph.2011.11.002 doi:10.2458/azu_js_rc.55.16947 doi:10.3133/ofr20131170 doi:10.1144/gsl.sp.2006.267.01.20 doi:10.2307/1552448 doi:10.1029/172gm12 doi:10.1029/2012eo190001 doi:10.3133/pp1795a doi:10.1186/s40562-014-0015-7 doi:10.1146/annurev.earth.35.031306.140302 doi:10.1029/2005jb003626 doi:10.1016/s1367-9120(01)00077-3 doi:10.1177/0959683608089206 doi:10.1016/j.marmicro.2009.07.003 doi:10.1029/2012gl053692 doi:10.1016/j.quascirev.2005.09.002 doi:10.1016/j.quascirev.2008.09.016 doi:10.1016/j.quascirev.2013.11.010 doi:10.1130/g35797.1 doi:10.1016/b978-0-444-51552-0.00018-7 doi:10.1002/esp.3290080504 doi:10.1038/ngeo609 doi:10.1177/0959683608089214 doi:10.1007/s00254-007-0639-4 doi:10.1016/j.sedgeo.2012.07.019 doi:10.1016/j.quaint.2010.11.023 doi:10.34194/raekke4.v3.6989 doi:10.1785/gssrl.75.1.117 doi:10.1130/dnag-gna-g1.367 doi:10.1130/ges00715.1 doi:10.1007/bf00028027 doi:10.1016/j.quascirev.2009.02.019 doi:10.1016/j.radmeas.2005.11.001 doi:10.1130/b25189.1 doi:10.1002/2014gl059393 doi:10.1016/j.yqres.2011.04.008  
+metadata comments  
+{"container_title":"Geosphere","first_page":1172,"issns":["1553-040X"],"issue":"4","last_page":1203,"publisher":"Geological Society of America","volume":"11"}  
+Read more…  
+🚀 Fast downloads  
+Become a member to support the long-term preservation of books, papers, and more. To show our gratitude for your support, you get fast downloads. ❤️  
+
+    Option #1: Anna’s Archive 🧬 SciDB (no redirect) (no browser verification required)  
+
+🐢 Slow downloads  
+
+From trusted partners. More information in the FAQ. (might require browser verification — unlimited downloads!)  
+
+    Option #1: Anna’s Archive 🧬 SciDB (no browser verification required)  
+
+show external downloads  
+All download options have the same file, and should be safe to use. That said, always be cautious when downloading files from the internet, especially from sites external to Anna’s Archive. For example, be sure to keep your devices updated.  
+
+    For large files, we recommend using a download manager to prevent interruptions.  
+    Recommended download managers: JDownloader  
+    You will need an ebook or PDF reader to open the file, depending on the file format.  
+    Recommended ebook readers: ReadEra and Calibre  
+    Use online tools to convert between formats.  
+    Recommended conversion tools: CloudConvert  
+    You can send both PDF and EPUB files to your Kindle or Kobo eReader.  
+    Recommended tools: Amazon‘s “Send to Kindle” and djazz‘s “Send to Kobo/Kindle”  
+    Support authors and libraries  
+    ✍️ If you like this and can afford it, consider buying the original, or supporting the authors directly.  
+    📚 If this is available at your local library, consider borrowing it for free there.  
+
+Anna’s Archive  
+Home  
+Search  
+🧬 SciDB  
+FAQ  
+Donate  
+Stay in touch  
+Contact email  
+DMCA / copyright claims  
+Reddit / Telegram  
+Anna’s Blog ↗  
+Anna’s Software ↗  
+Translate ↗  
+Advanced  
+FAQ  
+Improve metadata  
+Volunteering & Bounties  
+Datasets  
+Torrents  
+Activity  
+Codes Explorer  
+LLM data  
+Security  
+Alternatives  
+annas-archive.li  
+annas-archive.se  
+annas-archive.org  
+SLUM [unaffiliated]

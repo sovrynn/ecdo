@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sci-Hub | Activity of the turbidite levees of the Celtic–Armorican margin (Bay of Biscay) during the last 30,000 years: Imprints of the last European deglaciation and Heinrich events. Marine Geology, 247(1-2), 84–103 | 10.1016/j.margeo.2007.08.006</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <script src="/scripts/jquery-3.6.0.min.js"></script>
+    </head>
+    <body>
+    <script type = "text/javascript">
+        
+        var menu;
+        var article;
+        var position;
+        function rollupi()
+        {
+            position = position - 2;
+            menu.style.left = position.toString() + 'vw';
+            article.style.left = (position + 20).toString() + 'vw';
+            article.style.width = (80 - position).toString() + 'vw';
+            if (position > -20)
+                setTimeout(rollupi, 33);
+            else
+                document.getElementById('rollback').style.display = 'block';
+        }
+        function rollup()
+        {
+            $.get("//sci-hub.ru/rollup/on?rand=" + (Math.random() + 1).toString(36).substring(7));
+            menu = document.getElementById('minu');
+            article = document.getElementById('article');
+            position = 0;
+            rollupi();
+        }
+        function rollbacki()
+        {
+            position = position + 2;
+            menu.style.left = position.toString() + 'vw';
+            article.style.left = (position + 20).toString() + 'vw';
+            article.style.width = (80 - position).toString() + 'vw';
+            if (position < 0)
+                setTimeout(rollbacki, 33);
+        }
+        function rollback()
+        {
+            $.get("//sci-hub.ru/rollup/off?rand=" + (Math.random() + 1).toString(36).substring(7));
+            menu = document.getElementById('minu');
+            article = document.getElementById('article');
+            document.getElementById('rollback').style.display = 'none';
+            document.getElementById('roll').style.display = 'block';
+            position = -20;
+            rollbacki();
+        }
+        function rollshow()
+        {
+            document.getElementById('roll').style.display = 'block';
+        }
+        
+        function clip(element)
+        {
+          var $temp = $("<input>");
+          $("body").append($temp);
+          $temp.val($(element).text()).select();
+          document.execCommand("copy");
+          $temp.remove();
+        }
+        
+        $(document).ready(function()
+        {
+            setTimeout(rollshow, 1000);
+            
+            logoi = document.getElementById("logo");
+            rolli = document.getElementById("rollimg");
+        });
+        
+    </script>
+    
+    <style type = "text/css">
+
+html, body {height: 100vh; width:100vw; margin: 0; padding: 0; overflow:hidden}
+div {font-family: -apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif}
+
+#minu {width: min(19.9vw, 380px);
+       height: 100vh;
+       position: absolute;
+       z-index: 1;
+       top: 0;
+       background-color: white;
+       border-right: solid 0.1vw #dfdfdf;
+       overflow: hidden}
+
+#roll {display: none;
+       position:absolute;
+       z-index: 2;
+       top: 40vh;
+       left: min(17vw, 310px);
+       width: min(4vw, 64px); height: min(4vw, 64px);
+       border: solid 1vw #dfdfdf;
+       border-radius: min(4vw, 64px);
+       color: #999;
+       font-size: min(3vw, 55px);
+       line-height: min(3vw, 55px);
+       cursor: pointer;
+       background: #dfdfdf}
+
+#roll:hover {background: #d3d3d3;
+             border-color:#d3d3d3}
+
+#rollback{position: absolute;
+          top: 40vh;
+          left: 0;
+          background: none;
+          z-index: 4;
+          cursor: pointer;
+          width: 96px;
+          min-width: 64px;
+          max-width: 6vw}
+
+#rollback img { width: 100% }
+
+#article {height: 100vh;
+          position: absolute;
+          z-index: 3;
+          right: 0;
+          top: 0;}
+
+embed {width:100%;
+       height:100%}
+
+#header {display:block}
+
+#header div {display: inline-block;
+             vertical-align: middle;
+             text-align: center}
+
+#header div:nth-of-type(1) {width: min(10vw, 160px); margin-left: min(1.2vw, 12px)}
+#header div:nth-of-type(2) {width: min(8vw, 180px); margin-top: 1vw}
+
+#logo {min-width: 96px;
+       max-width: 128px;
+       width: 100%;
+       height: auto}
+
+#sci {color: darkred;
+      font-size: min(3vw, 48px);
+      font-family: monospace}
+
+#sci .u {border-bottom: min(0.17vw, 4px) solid darkred;
+        padding-bottom: 0.1vw}
+
+#motto {padding-top: 1vw;
+        color: #999;
+        font-size: min(1vw, 22px);
+        font-family: monospace}
+
+#minu #buttons {width: 100%;
+                margin-top: 6vh}
+
+#buttons button {margin-left: min(2vw, 24px);
+                cursor: pointer;
+                color: #999;
+                font-family: monospace;
+                font-size: min(1.22vw, 24px);
+                background: white;
+                border-radius: min(0.4vw, 8px);
+                border: solid min(0.1vw, 2px) #999;
+                padding: 0.8vh 0.4vw 0.8vh 0.4vw}
+
+#buttons button:hover { background: #efefef }
+
+#citation {margin: 3vh 2vw 0 min(2vw, 24px);
+           font-size: min(1vw, 18px);
+           font-family: monospace;
+           cursor: pointer}
+
+#citation:active {color:#aaa}
+#citation a {color:#999;text-decoration:none}
+#citation a:hover {text-decoration:underline}
+
+#doi {margin: 3vh 2vw 0 min(2vw, 16px); font-size: min(1.22vw, 24px); color:#aaa}
+#doi a {color: #aaa; text-decoration: none; word-wrap: break-all; word-break: break-all}
+#doi a:hover {background: #eee}
+
+#versions {margin: 3vh 0 0 2vw; font-size: 1vw; color:#aaa}
+#versions a {color: black; text-decoration: none}
+#versions a:hover {text-decoration: underline}
+
+</style>
+
+
+    
+    <style type = "text/css">
+        
+        #minu { left: 0 }
+        #rollback { display: none }
+        #article { width: ((articleWidth)); left: min(19.9vw, 380px) }
+        
+        
+        #btc { }
+        #btc p { text-align: center}
+        #btc p:nth-of-type(1) { margin: 7vh 0 0 0; font-size: 1.33vw; font-family:sans }
+        #btc p:nth-of-type(1) span { background: white; color: black }
+        #btc p:nth-of-type(2) { margin: 0 0 0 0; padding: 0; font-size: 1vw; font-family:sans }
+        #btc p:nth-of-type(2) span { background: white; color: white }
+        #btc p:nth-of-type(3) { }
+        #btc p:nth-of-type(3) img { max-width: 55% };
+        
+        
+        
+    </style>
+    
+    <div id = "roll" onclick="rollup()">◂</div>
+    <div id = "rollback" onclick="rollback()">
+        <img id = "rollimg" src = "/pictures/ravenround.gif">
+    </div>
+    
+    <div id="minu">
+        
+        <a id = "header" href = "//sci-hub.ru/">
+            <div>
+                <img id = "logo" src = "/pictures/ravenround.gif">
+            </div>
+            <div>
+                <span id = "sci"><span class = "u">sci</span><br>hub</span><br>
+                <span id = "motto">to open science</span>
+            </div>
+        </a>
+        
+	<div id = "buttons">
+            <button onclick = "location.href='//dacemirror.sci-hub.ru/journal-article/a18c64476b5f22ea92ac1ea1aff3cb87/toucanne2008.pdf?download=true'">&darr; save</button>
+	</div>
+
+
+        <div id ="btc">
+        
+        </div>
+
+
+	<div id = "citation" onclick = "clip(this)">Toucanne, S., Zaragosi, S., Bourillet, J. F., Naughton, F., Cremer, M., Eynaud, F., & Dennielou, B. (2008). <i>Activity of the turbidite levees of the Celtic–Armorican margin (Bay of Biscay) during the last 30,000 years: Imprints of the last European deglaciation and Heinrich events. Marine Geology, 247(1-2), 84–103.</i> doi:10.1016/j.margeo.2007.08.006&nbsp;</div>
+
+        <div id = "doi">
+            10.1016/j.margeo.2007.08.006
+        </div>
+        
+        <div id ="versions">
+            
+        </div>
+        
+    </div>
+
+    <div id="article">
+        <embed type="application/pdf" src="//dacemirror.sci-hub.ru/journal-article/a18c64476b5f22ea92ac1ea1aff3cb87/toucanne2008.pdf#navpanes=0&view=FitH" id = "pdf"></embed>
+    </div>
+    
+    </body>
+</html>

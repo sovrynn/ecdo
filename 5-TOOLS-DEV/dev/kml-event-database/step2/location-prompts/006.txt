@@ -1,0 +1,11 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Valdroy Cave Biomass
+
+Basic location of event: Norway
+
+Specific data/information/context related to event: Sci-Hub | Cave stratigraphy in western Norway; multiple Weichselian glaciations and interstadial vertebrate fauna. Boreas, 16(3), 267–292 | 10.1111/j.1502-3885.1987.tb00096.x
+
+LARSEN, E., GULLIKSEN, S., LAURITZEN, S.-E., LIE, R., LØVLIE, R., & MANGERUD, J. (2008). Cave stratigraphy in western Norway; multiple Weichselian glaciations and interstadial vertebrate fauna. Boreas, 16(3), 267–292. doi:10.1111/j.1502-3885.1987.tb00096.x
+
+10.1111/j.1502-3885.1987.tb00096.x

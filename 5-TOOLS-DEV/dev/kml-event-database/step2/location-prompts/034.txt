@@ -1,0 +1,11 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Sub-peat blanket surface till erosion
+
+Basic location of event: Ireland
+
+Specific data/information/context related to event: Sci-Hub | A mid‐Holocene alluvial deposit beneath blanket peat in the Upper Liffey Valley, county Wicklow, Ireland. Irish Geography, 35(2), 185–196 | 10.1080/00750770209555804
+
+Thorp, M., & Glanville, P. (2002). A mid‐Holocene alluvial deposit beneath blanket peat in the Upper Liffey Valley, county Wicklow, Ireland. Irish Geography, 35(2), 185–196. doi:10.1080/00750770209555804
+
+10.1080/00750770209555804

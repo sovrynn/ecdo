@@ -1,0 +1,11 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Iceland Megaflood Deposits
+
+Basic location of event: Iceland
+
+Specific data/information/context related to event: Sci-Hub | Radiocarbon dating of mid-Holocene megaflood deposits in the Jokulsa a Fjollum, north Iceland. The Holocene, 16(4), 605–609 | 10.1191/0959683606hl956rr
+
+Kirkbride, M. P., Dugmore, A. J., & Brazier, V. (2006). Radiocarbon dating of mid-Holocene megaflood deposits in the Jokulsa a Fjollum, north Iceland. The Holocene, 16(4), 605–609. doi:10.1191/0959683606hl956rr 
+
+10.1191/0959683606hl956rr

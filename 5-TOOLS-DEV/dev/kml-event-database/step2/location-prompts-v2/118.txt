@@ -1,0 +1,337 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Mediterranean cooling climate change event
+
+Basic location of event: Mediterranean Sea
+
+Specific data/information/context related to event: IEMed Mediterranean Yearbook 2020
+
+Content
+
+Introduction
+
+Foreword
+Senén Florensa
+
+Perspectives
+Dr. Ursula von der Leyen 
+
+KEYS
+
+Popular Mobilizations in the MENA Region and Beyond
+A Decade of Demonstrations and Protest Movements in the Arab World
+Miguel Hernando de Larramendi
+The Role of the Military in Middle East/North Africa. Protest Movements of 2019
+Charles W. Dunne
+
+Climate Change in the Mediterranean
+Climate Change in the Mediterranean: Environmental Impacts and Extreme Events
+Manfred A. Lange
+The Economic Impacts of Climate Change in the Mediterranean
+Marzio Galeotti
+The Geopolitical Impact of Climate Change in the Mediterranean Region: Climate Change as a Trigger of Conflict and Migration
+Jürgen Scheffran
+
+The Relationship of the EU with Africa
+Great Expectations: The EU-Africa Partnership against the Backdrop of Covid-19
+Chloe Teevan
+Ten Reasons Why the Maghreb Pivots to Africa
+Eduard Soler i Lecha
+
+Mediterranean Conflicts and the Geopolitical Context
+Proxy Wars and Spheres of Influence in Post-Isis Syria
+Raymond Hinnebusch
+Libya: A Failed State in the Middle of the Mediterranean
+Matteo Colombo, Arturo Varvelli
+Tensions Between the US and Iran and the Role of the Gulf States
+Luciano Zaccara
+
+Dossier
+
+An Unexpected Party Crasher: Rethinking Euro-Mediterranean Relations in Corona Times,  25 Years After the Barcelona Process
+Barcelona 95, 25 Years on: Some Political Considerations
+Senén Florensa
+New Power Struggles in the Mediterranean
+Marc Pierini
+The Challenges of Euro-African Relations in the post-Covid-19 Era
+Larabi Jaidi
+Holding back the Old Demons in the Euro-Mediterranean Region in Post-pandemic Times: Populism and Authoritarianism
+Paolo Magri 
+From Fragilities to Resilience: A Strengthened UfM in the Face of the Covid-19 Pandemic
+Nasser Kamel
+A Renewed Migration Contract Post-Covid: What Next for Migration Governance in the Mediterranean?
+Anna Knoll 
+Uneven Disruption: COVID-19 and the Digital Divide in the Euro-Mediterranean Region
+Tin Hinane El Kadi
+Rethinking the Response to Climate Change Threats in the Mediterranean: Lessons from the Coronavirus Emergency
+Zeina Moneer
+SDGs Localization in the Context of Euro-Mediterranean Relations: Obstacles and Options for Local and Regional Authorities
+Andrea Noferini
+Unequal Gender Relations and the Subordination of Women in the MENA Region: What the Covid-19 Pandemic Has Taught Us
+Lina Abou-Habib
+
+Panorama: The Mediterranean Year
+
+Country Profiles
+Albania / Algeria / Bosnia and Herzegovina / Croatia / Cyprus / Egypt / France / Greece / Israel / Italy / Jordan / Lebanon / Libya / Malta / Montenegro / Morocco / North Macedonia / Palestinian Territories / Portugal / Serbia / Slovenia / Spain / Syria / Tunisia / Turkey
+
+Geographical Overview
+
+EU Mediterranean Countries
+Emmanuel Macron: A Mediterranean Leader? French Policy Towards the Mediterranean
+Emmanuel Dupuy
+
+Western Balkans
+The United Arab Emirates (UAE) Profile Themselves as a New Global Hub for Money Laundering, with Implications for the Balkans
+Tena Prelec
+China's Belt and Road in the Balkans in the Post-COVID-19 Era Anastas Vangeli
+
+A Ship without a Rudder? The EU Strategy in the Western Balkans Dr. Srdjan Cvijic
+
+Mediterranean Partner Countries Maghreb
+
+Towards a New Social Pact in Morocco? The “New” Development Model and the COVID-19 Crisis Beatriz Tomé-Alonso, Marta García de Paredes
+
+Algeria in 2020: A Weakened Power Facing a Multidimensional Crisis Laurence Thieux
+
+Tunisia: General Overview of the Country Sarah Yerkes
+
+Mediterranean Partner Countries Middle East and Turkey
+
+Egypt’s Struggle for Stability in a Volatile Environment Clément Steuer
+
+Jordan: An Uncertain Stability Victoria Silva Sánchez
+
+Lebanon in Freefall Nadim Houry
+
+Israel’s Regional Foreign Policies: What Is at Stake for the New Government? Dr. Nimrod Goren
+
+Israel’s Annexation Plan: One State Based on Equality and Justice Is the Only Solution Samera Ayyad
+
+Turkey and the Corona Crisis: The Instrumentalization of the Pandemic for Domestic and Foreign Policy Hürcan Aslı Aksoy
+
+The Euro-Mediterranean Partnership and Other Actors
+
+2020: The Yemenite Impasse François Frison-Roche
+
+The United States and the Mediterranean in An Age of Shocks Ian O. Lesser
+
+The British Presence in the Mediterranean Post-Brexit Matthew Graves
+
+The Arab World and Latin America: Long-standing Migration, an Expanding South-South Partnership Bichara Khader, Pablo Blesa
+
+Strategic Sectors
+
+Security & Politics
+
+The Repatriation of Jihadist Foreign Fighters Anthony Dworkin
+
+Economy & Territory
+
+Increased Gender Inequality in Arab Labour Markets due to COVID-19: Causes and Solutions Doaa Salman Abdou
+
+Workers’ Remittances and Economic Growth in MENA Countries: The Role of Financial Development Héla Miniaoui, Habib Ouni
+
+The Chinese Belt and Road Project in the Middle East and North Africa Dr. Katarzyna W. Sidło
+
+Mediterranean, Medioplasticae. Analysis of Plastic Pollution in the Mediterranean during the Coronavirus Outbreak Andrés Cózar Cabañas
+
+The Airports of the Maghreb Face the New Century Òscar Oliver i Cristià
+
+Inflammable Waters: Turkey’s Strategic Objectives in the Eastern Mediterranean and the East Med Gas Pipeline (EMGP) Dr. Theodoros Tsakiris
+
+Nuclear Energy Prospects in the Mediterranean Countries Ali Ahmad
+
+Culture & Society
+
+EU Borders and African Mobility Dr. Irene Schöfberger
+
+Migrants and Refugees in the Mediterranean in Times of Pandemic: Socially Distant? Sarah Wolff
+
+Demographic Challenges in the Mediterranean Elena Ambrosetti
+
+Mapping the Drivers of Radicalization and Violent Extremism in MENA and the Balkans Lurdes Vidal i Bertran
+
+Arab Cinema in Europe: The Gains, Losses and Challenges ahead Joseph Fahim 
+
+Appendices
+
+Maps
+
+Chronologies
+
+Chronology of Major Conflicts and Political Events
+
+Chronology of Events in Israel and Palestine
+
+Euromed Chronology
+
+Other Cooperation Initiatives in the Mediterranean 
+
+Mediterranean Electoral Observatory
+
+Cooperation in the Mediterranean
+
+European Union Cooperation
+
+Spanish Cooperation in the Mediterranean 
+
+Migrations in the Mediterranean 
+
+Commercial Relations of the Mediterranean Countries 
+
+Signature of Multilateral Treaties and Conventions 
+
+The Mediterranean in Brief 
+
+Definitions 
+
+List of the Organisms Consulted for Drawing Up Tables, Graphics and Maps 
+
+Country Abbreviations in Graphics and Maps 
+
+Acronyms and Abbreviations 
+
+Index of Tables 
+
+Index of Charts 
+
+Index of Maps 
+
+Authors 
+
+Climate Change in the Mediterranean: Environmental Impacts and Extreme Events
+
+Manfred A. Lange 
+Energy, Environment and Water Research Center
+The Cyprus Institute 
+
+Background and Introduction
+
+The Mediterranean Sea represents the largest of the semi-enclosed European seas and occupies a basin of almost 2.6 million km², which corresponds to 6.5 percent of global land area. The length of its coastline amounts to 46,000 km. The basin itself measures about 3,800 km from east to west and 900 km from north to south at its maximum between France and Algeria (UNEP/MAP, 2012). The Mediterranean Sea is surrounded by 23 countries and is home to around 480 million people, corresponding to 7.3 percent of the global population in 2015. The region is located at the crossroad of three continents: Africa, Asia and Europe (European Environment Agency, 2015). Many of the Mediterranean countries’ economies are largely dependent on natural resources, particularly along the southern rim of the Basin (UNEP/MAP-Plan Bleu, 2009). The overall gross domestic product (GDP) of the Mediterranean countries amounted to 10.4 percent of the global GDP in 2016. The Mediterranean Sea represents one of the world’s busiest shipping routes with about 30 percent of international maritime freight traffic and some 20 to 25 percent of maritime oil transport crossing the sea each year (UNEP/MAP-Plan Bleu, 2009).
+
+The Mediterranean Basin is characterized by significant environmental and geographic gradients from north to south and east to west. The region has a complex morphology of mountain chains and strong land–sea contrasts and lies in a transition zone between mid-latitude and sub-tropical atmospheric circulation regimes.
+
+Rivers play a major role in the Mediterranean region’s water circulation and geochemistry. Ranked according to annual discharge, the four largest rivers flowing into the Mediterranean Sea are the Rhone, Po, Drin-Bojana and the Nile. Changes in freshwater input due to natural variability, major river regulation and/or climate change lead to altered surface-water salinity of the Mediterranean Sea with consequences for coastal marine ecosystems (UNEP/MAP, 2012).
+
+Equally important, but of a different nature are the variations in the socio-economic, cultural and societal conditions in the Mediterranean countries. A number of well-developed EU Member States on its northern rim contrast with intermediately developed countries in the eastern Mediterranean and the Middle East and with less developed countries in North Africa.
+
+A common phenomena, particularly for countries in the eastern Mediterranean and North Africa is the significant growth in populations and an increasing rate of urbanization. The combination of changes in lifestyle and demand patterns have resulted in growing demands for water, energy and food in the Mediterranean Basin. The overexploitation of existing water reservoirs and groundwater aquifers and the enhanced utilization of ecosystem services has led to stress on environmental integrity, in addition to already apparent impacts of ongoing climate changes.
+
+Earlier assessments have shown that climate and environmental changes are already posing significant risks in several of the Mediterranean countries. In particular, the observed changes in annual mean temperatures over the last 140 years clearly exceed global mean values with basin-wide, annual mean temperatures now about 1.5 °C above late 19th-century levels.
+
+The Mediterranean is vulnerable to climate change impacts in a number of ways, which will be described in more detail below. Water scarcity, a long-known and widespread challenge in many Mediterranean countries is likely to increase in the next decades as a consequence of anticipated climate change. Moreover, agricultural practices, aimed to increase yields, have led to enhanced water use for irrigation. Continued intensification of agricultural practices will result in adverse consequences for water resources, biodiversity and landscape functioning. This is combined with enhanced disturbances of environmental integrity, an overexploitation of ecosystem services and a growing tendency towards desertification in several of the rim countries. Before addressing environmental impacts in more detail, we will first look at past and present climate changes in the Mediterranean, before considering future climate projections and the resulting extreme events.
+
+Climate Change in the Mediterranean
+
+Past and Present Conditions
+
+As mentioned before, Mediterranean climate change has been observed at a magnitude exceeding global means, despite the fact that the emission of greenhouse gases (GHGs) in Mediterranean countries lie at relatively low levels. The recent temperature record reveals a mean annual temperature for the entire basin that lies about 1.5 °C above late 19th-century levels and approx. 0.4 °C above the global average, with significant inter-annual variability. Significant sub-regional manifestations of the warming reveal local increases in mean annual temperatures over the same time span that range from 1.5 to 4 °C. The overall change in climatic conditions has resulted in more frequent and more intense heat waves with midday temperatures continuously above 30 to 40 °C and increasing periods of drought (i.e., extended periods with negligible rainfall) since the 1950s.
+
+There has also been a rapid change in the water cycle due to increased evaporation and less rainfall causing, e.g., increased fire hazard as well as an enhanced risk of forest pests and parasites. While water scarcity has been a common challenge for Mediterranean societies throughout history, the current situation and anticipated exacerbation due to climate change resulting in severe strain on natural and managed terrestrial ecosystems are cause for serious concern.
+
+Sea surface temperatures have been rising for the last decades at a rate of about 0.4 °C and have led to mean annual temperatures exceeding 20 °C for much of the eastern and southeastern Mediterranean. The increasing sea temperatures have resulted in mean sea level rises of about 3 cm per decade and cause significant risks for low-lying coastal regions.
+
+What are the main drivers that cause these changes and what lies ahead of us throughout the next decades until the end of the next century? These and other issues will be discussed in the following section.
+
+Major Drivers of Climate Change in the Mediterranean Basin
+
+While the Mediterranean has seen major shifts in climate conditions throughout history, with temperatures on average to be 8 °C below current ones at the height of the last ice age (about 20,000 years ago) or 1 – 3 °C higher during the mid-Holocene (6,000 years ago), current changes are unprecedented in the region’s climate history. While historic changes took thousands of years to evolve, the current climate develops at a pace of 100 to 150 years with significant accelerations during the last few centuries. This has been attributed to various causes. However, there is growing and overwhelming evidence that much of the warming has been caused by anthropogenic forces, most notably the emission of greenhouse gases into the Earth’s atmosphere. As stated in the latest assessment report of the Intergovernmental Panel on Climate Change (IPCC): “Human influence has been detected in warming of the atmosphere and the ocean, in changes in the global water cycle, in reductions in snow and ice, and in global mean sea level rise; and it is extremely likely to have been the dominant cause of the observed warming since the mid-20th century.” This conclusion does not exclude other, natural causes (e.g., volcanic eruptions, variations in the sun’s energy output, etc.), but emphasizes the role of man in altering major elements of the Earth’s system.
+
+While the current share of carbon emissions of the Mediterranean countries amounts to no more than 6 percent of global emissions, the expected growth in energy demand by the Mediterranean countries alone will likely increase this fraction in the next few decades until 2050. The underlying cause for this growth lies in the expected continued growth in population (+105 million compared to 2013) and the economies (+2.3% per year on average) in the region. As outlined by Ben Jannet Allal et al.(2016), while energy demand and consumption have been steadily increasing since the early 1970s, the final energy consumption is likely to double by 2040 in the southern Mediterranean countries (SMECs). Over the same period, electricity consumption will triple, notably on account of the increased use of space cooling (air conditioning) and new electrical appliances. Since most of the electricity production relies on carbohydrates in the SMECs and carbohydrates and nuclear energy in the Northern Rim Countries, the resultant carbon dioxide emissions are expected to increase by 45% for the whole region and more than double in the southern Mediterranean.
+
+As mentioned before, the ongoing and anticipated continued growth in population of Mediterranean countries is a major indirect driver of climate and environmental changes. As can be seen, the population in the region increased from 259 million in 1960 to 537 million in 2015 and is expected to reach 670 million by 2025. Rates of population growth in the southern Mediterranean countries and, to a lower extent, those of the eastern countries exceed significantly those of the northern countries.
+
+This growth took place primarily as a result of an increasing urban population with an urbanization rate of 48 percent in 1960, reaching 68 percent in 2015. Urbanization took place predominantly along the region’s coastlines: cities such as Algiers and Tel-Aviv experienced a five to tenfold increase between 1950 and 2010. About one third of the Mediterranean population was concentrated in coastal areas totalling less than 12 % of the surface area of the Mediterranean, amounting in total coastal populations of 150 million in 2015.
+
+Given the facts listed above, one wonders how climate will change in the future and what impacts such changes will have that add to the already discernible stresses on the environment and other impacted sectors. The first issue will be addressed in the following section.
+
+Climate Change in the Mediterranean: Future Perspectives
+
+As demonstrated before, the Mediterranean Basin has seen a rise in mean annual temperatures that lies well above the global mean. Numerical modelling has been established as the most suitable method when aiming to assess prospective future changes in climate parameters, particularly mean annual temperatures and mean annual precipitation. While global climate models (GCMs) provide valuable insights into large-scale developments of climate conditions, addressing the impacts of climate change requires finer, regional to sub-regional scales to enable assessments that are relevant to local communities and ecosystems. This has been achieved through the use of Regional Climate Models (RCMs). Impacts are expected to be particularly severe in regions where increasing temperatures are combined with decreasing precipitation. Such regions have been coined “climate change hotspots” and the Mediterranean is considered one such hot spot.
+
+Recent results of ensembles of regional climate models with a spatial resolution of 50 km, which have been carried out in the framework of the Coordinated Regional Downscaling Experiment (CORDEX) underline this assignment. The study is based on results from 14 global and 17 regional climate models, respectively. The global models provide future climate projections for the period 2006–2100 and are driven by three “future” representative concentration pathways (RCPs), i.e., RCP8.5, RCP4.5 and RCP2.6. The latter scenario has been set in order to reach the main targets set by the Paris Agreement and to keep global warming to well below 2 °C since pre-industrial times.
+
+Projections of Changing Temperature
+
+Projected Changes of Mean Annual Temperature for Mid and End of 21st century
+
+Following the lowest emission scenario (RCP2.6), projected mean annual temperatures remain below 2 °C for most of the Mediterranean for the mid-century as well as for the end-century time slice. In contrast, the “business as usual” scenario (i.e., continuing with increasing emissions similar to the recent past), leads to significantly higher temperatures of up to 3.5–4 °C for the period 2046–2065 and exceeding 3.5–5.5 °C by the end of the 21st century. Projections for the intermediate RCP4.5 scenario lie between these two extremes. However, achieving emission reductions according to RCP2.6 remains insecure, if not unlikely, given present emission values. Focusing on the intermediate RCP4.5-scenario, much of the Mediterranean Basin will experience mean annual temperatures above 2 °C and above 2.5-3 °C for the mid- and end-century time slices, where the latter is similar to the mid-century projections for the RCP8.5 scenario. Significant sub-regional manifestations of these increases are apparent, particularly for the RCP8.5-model. Such substantial rates of warming will have significant impacts on environments and human communities in the Mediterranean Basin, to be discussed below.
+
+Projections of Changing Precipitation
+
+Projections for changes in precipitation are less robust than those for temperatures and are presented in the following assessment. Climate change will lead to enhanced evapotranspiration and reduced rainfall. This will likely result in substantial reductions of water availability by 2–15% for 2 °C of warming. This represents one of the largest decreases in the world, which will result in significant increases in the length of meteorological dry spells and droughts.
+
+When considering RCM results for the RCP8.5 scenario, it becomes clear that drying is affecting most of the Mediterranean coasts and particularly Iberia, parts of Maghreb, southern Italy, the Balkans, southern Turkey, and the Levantine. Decreases in precipitation are projected to reach -30%, while for some parts of the southern Mediterranean, the rainfall decrease will reach or exceed -40% of annual precipitation relative to the reference period.
+
+The increase in the heat wave intensity is strongest in the southern and eastern parts of the Mediterranean Basin, as well as in parts of Spain.
+
+Projected Extreme Climate Events in the Mediterranean Basin
+
+Considering all possible extreme events would be beyond the scope of this paper. Thus, we will concentrate on the following issues:
+
+- Heat waves
+- Droughts
+- Extreme precipitation events.
+
+Heat Waves
+
+According to the World Meteorological Organization (WMO), heat waves are defined as an extreme weather event with marked warming of the air over a large area that usually lasts from a few days to a few weeks. While numerous slightly differing definitions have been proposed, any accurate heat wave definition should include both the intensity and duration of a heat wave. Heat waves in the Mediterranean Basin have been observed to occur more frequently and at increasing duration since the 1950s. The combination of increasing heat waves, droughts and changing land-use practices have resulted in higher fire risk, longer fire seasons and more frequent, larger and more severe fires.
+
+Droughts
+
+Droughts are difficult to quantify and are usually identified by their effects or by their impacts on different types of systems, since no single physical variable can be measured to quantify them. Understanding drought processes requires an understanding of the role of soil moisture. Soil moisture determines the availability of water for evapotranspiration. During the hot summer months, water availability is limited since solar radiation is abundant and water is scarce. The projected increase in the duration and intensity of heat waves/warm spells as a result of climate change in the Mediterranean will exacerbate the impacts of drought.
+
+Extreme Precipitation Events
+
+It has been shown that due to changes in the hydrologic cycle, the incidence of extreme precipitation in a warmer climate can possibly increase even in areas where mean precipitation is projected to decrease. Thus, despite a general decrease in precipitation over most parts of the Mediterranean in the recent past, short and local heavy rainfall events have been recorded in small catchments, many of them near the coast in densely populated areas.
+
+Climate Change and Environmental Impacts in the Mediterranean Basin
+
+After considering present and future climate change and associated extreme events, we will now take a look at some of their impacts on the environment of the Mediterranean. 
+
+Water Scarcity
+
+An issue of paramount importance is the fate of water available for human consumption, agriculture and the environment. As noted above, climate change induced reductions in precipitation, the increase in the number and intensity of drought events, the enhanced pressure on water demand by communities and irrigated agriculture add up to significant water scarcity in many parts of the Mediterranean.
+
+Land Ecosystems
+
+The Mediterranean land ecosystems are rich in biodiversity. The region is host also to many endemic species (plants and animals that exist only in one geographic region). A warming climate and increasing numbers and intensities of droughts lead to a general increase in aridity and subsequent desertification of many Mediterranean land ecosystems.
+
+Marine Ecosystems
+
+Similarly to the terrestrial situation, marine ecosystems comprise a particularly rich biodiversity. The observed as well as the anticipated increase of water temperatures will lead to changes in species composition and abundance. 
+
+Coastal Ecosystems
+
+Being at the interface between land and sea, coastal ecosystems are particularly sensitive to the impacts of climate and environmental changes. 
+
+Freshwater Ecosystems and Mediterranean Wetlands
+
+Decreasing water levels in inland waters and lakes, reduced river flows and deteriorating water quality caused by climate changes and human activities lead to severe adverse impacts on freshwater ecosystems and Mediterranean wetlands. 
+
+Conclusions
+
+As explained in the previous sections, the Mediterranean region is rightly considered a climate change hot spot when compared to other regions of the world. Thus, the magnitude and extent of changes in major climatic parameters (most notably temperatures and precipitation) exceed present global mean values and are expected to lie above projected mean changes in the next decades. 
+
+Given the role of energy generation and its related emission of greenhouse gases and the importance of energy provision for the water and food sector as well as for an enhanced demand for space cooling in urban structures, understanding the nexus between water and energy (and food) becomes obvious and essential.
+
+Only if we adopt such a comprehensive and holistic approach will we have a realistic chance of reducing or at least adapting efficiently to the adverse impacts of climate change on Mediterranean communities and ecosystems in the coming decades.
+datacatalog.worldbank.org/dataset/population-estimates-and-projections, Access date: 20.06.2020, 2015.
+
+Zacharias, I. and M. Zamparas, “Mediterranean temporary ponds. A disappearing ecosystem.” Biodiversity and Conservation, 19 (14), 3827-3834, 2010, doi: 10.1007/s10531-010-9933-7.
+
+Zhang, X.; L. Alexander; G. C. Hegerl; P. Jones; A. K. Tank; T. C. Peterson; B. Trewin and F. W. Zwiers, “Indices for monitoring changes in extremes based on daily temperature and precipitation data.” WIREs Climate Change, 2 (6), 851-870, 2011, doi: 10.1002/wcc.147.
+
+Zittis, G.; P. Hadjinicolaou; M. Klangidou; Y. Proestos and J. Lelieveld, “A multi-model, multi-scenario, and multi-domain analysis of regional climate projections for the Mediterranean.” Regional Environmental Change, 2019, doi: 10.1007/s10113-019-01565-w.
+
+Zittis, G.; P. Hadjinicolaou and J. Lelieveld, “Role of soil moisture in the amplification of climate warming in the eastern Mediterranean and the Middle East.” Climate Research, 59 (1), 27-37, 2014, doi: 10.3354/cr01205.
+
+Stay informed
+Sign up for our newsletter in English and be up-to-date with upcoming events and publications.
+
+In addition, sign up for our thematic newsletter on Migrations in the Euro-Mediterranean region: EuroMed Insights Migrations.
+
+If you are passionate about Euro-Mediterranean relations, we want to hear from you.
+IEMed is a consortium participated by:
+Copyright © 2024 IEMed.

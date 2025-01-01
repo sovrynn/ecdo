@@ -1,0 +1,41 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Piora Oscillation
+
+Basic location of event: Switzerland
+
+Specific data/information/context related to event: Piora Oscillation - Wikipedia
+
+The Piora Oscillations are two cold periods in the Alpine climate history of the Holocene Epoch. Its dating differs between authors and no consistent modern approach currently exists. The spatial extent of the change is unclear; moreover, it does not show up as a major, or even identifiable, event in hemispheric temperature reconstructions.
+
+First detection
+The phenomenon is named after the Val Piora or Piora Valley in Switzerland, where it was first detected; some of the most dramatic evidence of the Piora Oscillation comes from the region of the Alps. 
+
+See also
+- Bond event
+- 4.2-kiloyear event
+- Bølling–Allerød warming
+- African humid period
+- Older Peron
+
+Notes
+1. Lamb, pp. 124, 128, 143.
+
+References
+Baronia, Carlo; Orombelli, Giuseppe (1996). "The Alpine "Iceman" and Holocene Climatic Change". Quaternary Research. 46 (1): 78–83. 
+Burroughs, William J. (2003). Climate: Into the 21st Century. Cambridge: Cambridge University Press. ISBN 0-521-79202-9.
+Caseldine, C.; Thompson, G.; Langdon, C.; Hendon, D. (2005). "Evidence for an extreme climatic event on Achill Island, Co. Mayo, Ireland around 5200–5100 cal. yr BP". Journal of Quaternary Science. 20 (2): 169–178. 
+Hou, Mei; Wu, Wen Xiang (5 December 2020). "A review of 6000-5000 cal BP climatic anomalies in China". Quaternary International. 571: 58–72. 
+Lamb, Hubert H. (1995). Climate, History, and the Modern World. London: Routledge. ISBN 0-415-12735-1. 
+Magny, Michel; Haas, Jean Nicolas (2004). "A major widespread climatic change around 5300 cal. yr BP at the time of the Alpine Iceman". Journal of Quaternary Science. 19 (5): 423–430. 
+Matossian, Mary A. K. (1997). Shaping World History: Breakthroughs in Ecology, Technology, Science, and Politics. New York: M. E. Sharpe. ISBN 0-7656-0061-7. 
+Wick, Lucia; Tinner, Willy (1997). "Vegetation Changes and Timberline Fluctuations in the Central Alps as Indicators of Holocene Climatic Oscillations". Arctic and Alpine Research. 29 (4): 445–458. 
+
+Categories: 
+- 4th millennium BC
+- History of climate variability and change
+- Historical eras
+- Climate change 
+
+This page was last edited on 30 October 2024, at 17:40 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.

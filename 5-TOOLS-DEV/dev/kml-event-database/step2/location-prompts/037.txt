@@ -1,0 +1,11 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Bristlecone Pine 5480 BC event
+
+Basic location of event: North America
+
+Specific data/information/context related to event: Sci-Hub | Large14C excursion in 5480 BC indicates an abnormal sun in the mid-Holocene. Proceedings of the National Academy of Sciences, 114(5), 881–884 | 10.1073/pnas.1613144114
+
+Miyake, F., Jull, A. J. T., Panyushkina, I. P., Wacker, L., Salzer, M., Baisan, C. H., … Nakamura, T. (2017). Large14C excursion in 5480 BC indicates an abnormal sun in the mid-Holocene. Proceedings of the National Academy of Sciences, 114(5), 881–884. doi:10.1073/pnas.1613144114
+
+10.1073/pnas.1613144114

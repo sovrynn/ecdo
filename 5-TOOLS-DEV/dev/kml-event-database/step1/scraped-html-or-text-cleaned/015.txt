@@ -1,0 +1,271 @@
+HomePaleontologyGeoscienceHolocene
+
+ArticlePDF Available
+Western Mediterranean hydro-climatic consequences of Holocene ice-rafted debris (Bond) events
+Copernicus Publications on behalf of European Geosciences Union
+Climate of the Past
+
+March 201915(2):463-475
+
+DOI:10.5194/cp-15-463-2019
+
+LicenseCC BY 4.0
+
+Authors:
+Christoph Zielhofer
+
+Leipzig University
+
+Anne Köhler
+
+Leipzig University
+
+Steffen Mischke
+
+University of Iceland
+
+Abdelfattah Benkaddour
+
+Cadi Ayyad University
+
+Show all 6 authors
+Download full-text PDF
+Read full-text
+Download citation
+Citations (61)
+References (98)
+Figures (4)
+Abstract and Figures
+Gerard C. Bond established a Holocene series of North Atlantic ice-rafted debris events based on quartz and haematite-stained grains recovered from subpolar North Atlantic marine cores. These so-called “Bond events” document nine large-scale and multi-centennial North Atlantic cooling phases that might be linked to a reduced thermohaline circulation. Regardless of the high prominence of the Holocene North Atlantic ice-rafted debris record, there are critical scientific comments on the study: the Holocene Bond curve has not yet been replicated in other marine archives of the North Atlantic and there exist only very few palaeoclimatic studies that indicate all individual Bond events in their own record. Therefore, evidence of consistent hydro-climatic teleconnections between the subpolar North Atlantic and distant regions is not clear. In this context, the Western Mediterranean region presents key hydro-climatic sites for the reconstruction of a teleconnection with the subpolar North Atlantic. In particular, variability in Western Mediterranean winter precipitation might be the result of atmosphere–ocean coupled processes in the outer-tropical North Atlantic realm. Based on an improved Holocene δ18O record from Lake Sidi Ali (Middle Atlas, Morocco), we correlate Western Mediterranean precipitation anomalies with North Atlantic Bond events to identify a probable teleconnection between Western Mediterranean winter rains and subpolar North Atlantic cooling phases. Our data show a noticeable similarity between Western Mediterranean winter rain minima and Bond events during the Early Holocene and an opposite pattern during the Late Holocene. There is evidence of an enduring hydro-climatic change in the overall Atlantic atmosphere–ocean system and the response to external forcing during the Middle Holocene. Regarding a potential climatic anomaly around 4.2 ka (Bond event 3) in the Western Mediterranean, a centennial-scale winter rain maximum is generally in-phase with the overall pattern of alternating “wet and cool” and “dry and warm” intervals during the last 5000 years.
+Geographical setting. (a) Positions of the stacked ice-rafted debris record (MC52 + VM29-191, Bond et al., 2001) and the improved Sidi Ali oxygen stable isotope record (this study). (b) Regional context of Lake Sidi Ali in the Moroccan Middle Atlas; arrows indicate impacts of different air masses on Holocene climate history. (c) Lake Sidi Ali; the yellow arrow shows the core position.
+Geographical setting. (a) Positions of the stacked ice-rafted debris record (MC52 + VM29-191, Bond et al., 2001) and the improved Sidi Ali oxygen stable isotope record (this study). (b) Regional context of Lake Sidi Ali in the Moroccan Middle Atlas; arrows indicate impacts of different air masses on Holocene climate history. (c) Lake Sidi Ali; the yellow arrow shows the core position.
+… 
+Western Mediterranean (Sidi Ali) winter rain and Cedrus records versus a subtropical summer temperature record. (a) Improved Holocene Sidi Ali δ18O record from closely related species Fabaeformiscandona sp. and Candona sp. (Zielhofer et al., 2017a and this study). The grey line represents the original data. The black line shows results of a low-pass filter (1000 years) removing centennial to multi-centennial variability. Red numbers indicate major dry winter phases in the Western Mediterranean. (b) Sidi Ali Cedrus pollen record (Campbell et al., 2017). The black line shows results of a low-pass filter (1000 years). (c) Summer sea surface temperature (SST) at Hole 658C (deMenocal et al., 2000). The grey line represents the original data. The black line shows results of a low-pass filter (1000 years). Olive numbers and pale olive bars indicate synchronous phases of summer cooling in the Middle Atlas (Sidi Ali) and reduced summer SST in the subtropical North Atlantic.
+Western Mediterranean (Sidi Ali) winter rain and Cedrus records versus a subtropical summer temperature record. (a) Improved Holocene Sidi Ali δ18O record from closely related species Fabaeformiscandona sp. and Candona sp. (Zielhofer et al., 2017a and this study). The grey line represents the original data. The black line shows results of a low-pass filter (1000 years) removing centennial to multi-centennial variability. Red numbers indicate major dry winter phases in the Western Mediterranean. (b) Sidi Ali Cedrus pollen record (Campbell et al., 2017). The black line shows results of a low-pass filter (1000 years). (c) Summer sea surface temperature (SST) at Hole 658C (deMenocal et al., 2000). The grey line represents the original data. The black line shows results of a low-pass filter (1000 years). Olive numbers and pale olive bars indicate synchronous phases of summer cooling in the Middle Atlas (Sidi Ali) and reduced summer SST in the subtropical North Atlantic.
+… 
+Holocene North Atlantic ice-rafted debris record versus Western Mediterranean (Sidi Ali) winter rain record. (a) Total solar irradiance (ΔTSI; Steinhilber et al., 2009). (b) Holocene Bond events 0 to 8 derived from Bond et al. (1997, 2001). (c) Ice-rafted debris (IRD) record based on haematite-stained grains of stacked MC52 and VM29-191 cores from the subpolar North Atlantic (Bond et al., 2001); the black line shows results of a low-pass filter (500 years) removing centennial variability. (d) Improved Sidi Ali δ18O record from closely related species Fabaeformiscandona sp. and Candona sp. (Zielhofer et al., 2017a, and this study). The grey line represents the original data. The black line shows results of a low-pass filter (500 years). Blue/red numbers and pale blue/orange bars indicate North Atlantic cooling events and wet/dry winters in the Western Mediterranean. (e) Modelled ages with 2σ ranges (Fletcher et al., 2017). (f) Summer insolation (65∘ N, June; Berger, 1978) (note reversed axis). (g) Palaeo-NAO record (Olsen et al., 2012) with a 500-year low-pass filter.
+Holocene North Atlantic ice-rafted debris record versus Western Mediterranean (Sidi Ali) winter rain record. (a) Total solar irradiance (ΔTSI; Steinhilber et al., 2009). (b) Holocene Bond events 0 to 8 derived from Bond et al. (1997, 2001). (c) Ice-rafted debris (IRD) record based on haematite-stained grains of stacked MC52 and VM29-191 cores from the subpolar North Atlantic (Bond et al., 2001); the black line shows results of a low-pass filter (500 years) removing centennial variability. (d) Improved Sidi Ali δ18O record from closely related species Fabaeformiscandona sp. and Candona sp. (Zielhofer et al., 2017a, and this study). The grey line represents the original data. The black line shows results of a low-pass filter (500 years). Blue/red numbers and pale blue/orange bars indicate North Atlantic cooling events and wet/dry winters in the Western Mediterranean. (e) Modelled ages with 2σ ranges (Fletcher et al., 2017). (f) Summer insolation (65∘ N, June; Berger, 1978) (note reversed axis). (g) Palaeo-NAO record (Olsen et al., 2012) with a 500-year low-pass filter.
+… 
+Holocene Lake Sidi Ali record: major conclusions of this study.
+Holocene Lake Sidi Ali record: major conclusions of this study.
+… 
+Figures - available from: Climate of the Past
+This content is subject to copyright.
+ResearchGate Logo
+
+Discover the world's research
+
+25+ million members
+160+ million publication pages
+2.3+ billion citations
+
+Join for free
+Access to this full-text is provided by Copernicus Publications on behalf of European Geosciences Union.
+Content available from Climate of the Past 
+This content is subject to copyright.
+Clim. Past, 15, 463–475, 2019
+https://doi.org/10.5194/cp-15-463-2019
+© Author(s) 2019. This work is distributed under the Creative Commons Attribution 4.0 License.
+Western Mediterranean hydro-climatic consequences of Holocene ice-rafted debris (Bond) events
+Christoph Zielhofer1, Anne Köhler1, Steffen Mischke2, Abdelfattah Benkaddour3, Abdeslam Mikdad4, and
+William J. Fletcher5
+1Institute of Geography, Leipzig University, Leipzig, 04103, Germany
+2Faculty of Earth Sciences, University of Iceland, Reykjavík, 101, Iceland
+3Department of Earth Sciences, Faculty of Science and Technology, Cadi Ayyad University, Marrakech-Guéliz, Morocco
+4Institut National des Sciences de l’Archéologie et du Patrimoine, Rabat, Morocco
+5Department of Geography, School of Environment, Education and Development, University of Manchester,
+Manchester, M13 9PL, UK
+Correspondence: Christoph Zielhofer (zielhofer@uni-leipzig.de)
+Received: 8 August 2018 – Discussion started: 10 August 2018
+Revised: 18 February 2019 – Accepted: 2 March 2019 – Published: 20 March 2019
+Abstract. Gerard C. Bond established a Holocene series of North Atlantic ice-rafted debris events based on quartz and haematite-stained grains recovered from subpolar North Atlantic marine cores. These so-called “Bond events” document nine large-scale and multi-centennial North Atlantic cooling phases that might be linked to a reduced thermohaline circulation. Regardless of the high prominence of the Holocene North Atlantic ice-rafted debris record, there are critical scientific comments on the study: the Holocene Bond curve has not yet been replicated in other marine archives of the North Atlantic and there exist only very few palaeoclimatic studies that indicate all individual Bond events in their own record. Therefore, evidence of consistent hydro-climatic teleconnections between the subpolar North Atlantic and distant regions is not clear. In this context, the Western Mediterranean region presents key hydro-climatic sites for the reconstruction of a teleconnection with the subpolar North Atlantic. In particular, variability in Western Mediterranean winter precipitation might be the result of atmosphere–ocean coupled processes in the outer-tropical North Atlantic realm. Based on an improved Holocene δ18O record from Lake Sidi Ali (Middle Atlas, Morocco), we correlate Western Mediterranean precipitation anomalies with North Atlantic Bond events to identify a probable teleconnection between Western Mediterranean winter rains and subpolar North Atlantic cooling phases. Our data show a noticeable similarity between Western Mediterranean winter rain minima and Bond events during the Early Holocene and an opposite pattern during the Late Holocene. There is evidence of an enduring hydro-climatic change in the overall Atlantic atmosphere–ocean system and the response to external forcing during the Middle Holocene. Regarding a potential climatic anomaly around 4.2 ka (Bond event 3) in the Western Mediterranean, a centennial-scale winter rain maximum is generally in-phase with the overall pattern of alternating “wet and cool” and “dry and warm” intervals during the last 5000 years.
+1 Introduction
+Gerard C. Bond reconstructed a Holocene series of North Atlantic ice-rafting events (Bond et al., 1997, 2001) based on the numbers of counted quartz and haematite-stained grains in marine cores recovered from the subpolar North Atlantic (Fig. 1a). These so-called “Bond events” document nine (Fig. 3b) large-scale and multi-centennial North Atlantic cooling phases that might be linked to a reduced thermohaline circulation in the North Atlantic. Due to attested large-scale atmosphere–ocean-linked teleconnections, an increasing number of palaeoclimatologists relate Bond events with chronologically in-phase climatic anomalies all over the world. To this day, the paper about North Atlantic ice-rafted debris events (Bond et al.,
+Published by Copernicus Publications on behalf of the European Geosciences Union.
+... At the onset of the Holocene, northern Morocco shared the same climatic conditions as southern Europe, characterized by abundant winter precipitation (Ait Brahim et al., 2019;Wassenburg et al., 2016;Zielhofer et al., 2017a,b). This increase is clearly linked to the onset of the African Humid Period (AHP) and last green Sahara conditions (Cheddadi et al., 2021;Depreux et al., 2021;Tierney et al., 2017;Zielhofer et al., 2019), reaching a rainfall maxima between 9.6 and 7 cal kaBP. The resultant forest growth (Damnati and Reddad, 2017;Rhoujjati et al., 2010) stabilized hillslopes and reduced sediment supply to the main channel, which became less active and primarily incised. ...
+... In northeastern Morocco, two separate alluviation events were recorded during 10-8 cal kaBP: one around 10 cal kaBP in the Lower Moulouya area , and another between 8 and 8.2 cal kaBP in the Moulouya catchment highlands (Depreux et al., 2022). Both events coincided with rapid aridification across the Mediterranean region.Using Lake Sidi Ali records within the Middle Atlas domain, Zielhofer et al. (2019Zielhofer et al. ( , 2017a revealed sub-millennial to centennial-scale lake-lowering events coeval with decreases in Western Mediterranean winter precipitation and pronounced southern dust provenance recorded at Sidi Ali at around 10.3/10.2, 9.2/9.4, ...
+... This variability may also be linked to solar activity, as sub-centennial minima correlate with peaks in fluvial activity in Morocco and Tunisia McGregor et al., 2009), such as the Wolf (~0.65 cal kaBP/1300 AD), Spörer (~0.5 cal kaBP/1450 AD), Maunder (~0.28 cal kaBP/1675 AD), and Dalton (~0.13 cal kaBP/1825 AD) minima (see Fig. 5I in Fletcher and Zielhofer, 2013). Applying a 1000-year low-pass filter, the deposition of Unit 6 in the Inaouène coincides with conditions of dry winters and cool summers (Campbell et al., 2017;Zielhofer et al., 2019), enhanced erosion (Lamb et al., 1999), and a Rainfall Index oscillating around 0, indicating precipitation similar to present-day conditions in the Middle Atlas. Collectively, these parameters seem to be associated with the last interval of North Atlantic cooling (i.e., event 0). ...
+Late Pleistocene to Holocene alluvial deposits of the Inaouène Valley and their paleoenvironmental significance (north Morocco)
+Article
+Full-text available
+
+Aug 2024QUATERNARY SCI REV
+
+Mohammed Lghamour L'houcine Karrat
+
+Vincenzo PicottiLahcen Gourari
+
+View
+... Cryospheric activity is largely inferred from variable alternative approaches, including ice-rafted debris and their geochemistry (e.g. Bennett et al., 1996;Eyles, 2008;Bennett and Glasser, 2009;Girard et al., 2015;Le Heron, 2015;Tripati and Darby, 2018;Zielhofer et al., 2019;Rodríguez-López et al., 2021), cold water-related authigenic minerals (i.e., glendonite after ikaite, Tang et al., 2009;Suan et al., 2010;Last and Last, 2012;Zhou et al., 2015;Vickers et al., 2018Vickers et al., , 2019Mikhailova et al., 2021), oxygen isotope records (e.g., Zachos et al., 2001Zachos et al., , 2008Tripati et al., 2005), and distribution of microfossils that adapt in or close to sea ice (Stickley et al., 2012). ...
+... The occurrence of IRD-rich intervals has been widely linked to brief seasonal cold snaps that were followed shortly thereafter by a significant thawing of ice shelf-bearing dropstones in response to an abrupt temperature rise (Bennett et al., 1996;Le Heron, 2015;Tripati and Darby, 2018;Zielhofer et al., 2019;Rodríguez-López et al., 2021). Integrating the former paleogeomorphic scenario with the stratigraphically reported ice crystal marks, IRD, and glendonite clusters along with other IISS recorded in the Niubao Formation, we thus suggest that the ancient lake of the Lunpola Basin was possibly subjected to brief cold snaps or near-freezing settings, which was interrupted by a seasonally warm surface lake during the summer (Fig. 12). ...
+Cold climatic snaps during the Eocene-Oligocene transition in the central Tibetan Plateau: Implications for ice-induced sedimentary structures and isotope geochemistry
+Article
+
+Mar 2024PALAEOGEOGR PALAEOCL
+
+Guoqing Xia Ahmed MansourZhu Shi
+
+Elżbieta Machaniec
+
+View
+... In northwestern Africa, the overlapping effects of Atlantic and Western Mediterranean air masses, superimposed on the influence of the African monsoon add significant complexity to the climate configuration (Kuhlmann et al., 2004;Tierney et al., 2017a;Zielhofer et al., 2017Zielhofer et al., , 2019. In this context, some important aspects remain poorly known; first, the northern maximum expansion of the West African monsoon is still debated for the last AHP (Tierney et al., 2017a), and remains unknown for earlier ones; second, the potential impact of both glacialinterglacial cycles and dynamics of the northern hemisphere ice sheet remain only indirectly envisioned (Kinsley et al., 2021;Ait Brahim et al., 2023) and third, although a potential effect of millennial to centennialscale cycles in Atlantic Ocean dynamics on African climate has been suggested for the Holocene (Olsen et al., 2012;Zielhofer et al., 2017Zielhofer et al., , 2019, no evidence has so far been presented for earlier periods. ...
+... In northwestern Africa, the overlapping effects of Atlantic and Western Mediterranean air masses, superimposed on the influence of the African monsoon add significant complexity to the climate configuration (Kuhlmann et al., 2004;Tierney et al., 2017a;Zielhofer et al., 2017Zielhofer et al., , 2019. In this context, some important aspects remain poorly known; first, the northern maximum expansion of the West African monsoon is still debated for the last AHP (Tierney et al., 2017a), and remains unknown for earlier ones; second, the potential impact of both glacialinterglacial cycles and dynamics of the northern hemisphere ice sheet remain only indirectly envisioned (Kinsley et al., 2021;Ait Brahim et al., 2023) and third, although a potential effect of millennial to centennialscale cycles in Atlantic Ocean dynamics on African climate has been suggested for the Holocene (Olsen et al., 2012;Zielhofer et al., 2017Zielhofer et al., , 2019, no evidence has so far been presented for earlier periods. ...
+A 60–50 ka African Humid Period modulated by stadial Heinrich events HE6 and HE5a in northwestern Africa
+Article
+
+Dec 2023PALAEOGEOGR PALAEOCL
+
+Alexis Nutz Ola Kwiecien Jan-Pieter Buylaert
+
+Stéphane Bodin
+
+View
+... cooling amplitude during the 8.2 kyr event recorded by OM-FIT appears more 522 pronounced than in other Northern Hemisphere temperature and precipitation records, 523 with proxy evidence across Europe indicating a cooling by ∼ 1-1.7 ºC during this event 524(Davis et al., 2003;Morrill et al., 2013;Baldini et al., 2019). Other terrestrial records in 525 southwestern Europe offer important insights into the paleoenvironment during this event 526 (e.g.,Fletcher et al., 2013;González-Sampériz et al., 2017;Morellón et al., 2018;Zielhofer et al., 2019). Some records often present conflicting insights on humidity 528 conditions due to the exposure of this study region to both Mediterranean and North 529 ...
+Temperature variability in southern Europe over the past 16,500 years constrained by speleothem fluid inclusion water isotopes
+Preprint
+Full-text available
+
+Nov 2024
+
+Juan Luis Bernal Wormull Ana Moreno Yuri Dublyansky
+
+Hai Cheng
+
+View
+... Although less studied compared to other karstic systems of the Western Mediterranean region (particularly the Iberian Range), the Middle Atlas (Northern Morocco) is home to thick and extensive Quaternary tufa deposits, thanks to widespread Liassic carbonate rocks and active karstification (Tennevin, 1978;Martin, 1981;Baali and Fedan, 1996;Gourari, 2001). However, only a few contributions to our understanding of past regional climate variability come from tufa records (Wackenheim et al., 2020;Dabkowski et al., 2022;Azennoud et al., 2022a), and most paleo-reconstructions are based on speleothems (Wassenburg et al., 2013(Wassenburg et al., , 2016Ait Brahim et al., 2017, 2019a, 2019bSha et al., 2021Sha et al., , 2019 and lake sediments (Lamb et al., 1989(Lamb et al., , 1999Cheddadi et al., 2009;Rhoujjati et al., 2010;Nourelbait et al., 2014Nourelbait et al., , 2016Campbell et al., 2017;Zielhofer et al., 2017Zielhofer et al., , 2019Abdellah et al., 2021;Azennoud et al., 2023). Despite this, most of these paleorecords cover only the Holocene Epoch and no records extend to the pre-MIS 5 Pleistocene Ages. ...
+Tufas record significant imprints of climate and tectonic activity over the past 600 ka: Evidence from a multi-story wedge in Northwest Africa
+Article
+
+Nov 2024SEDIMENT GEOL
+
+Khalil Azennoud Yassine Ait-Brahim Abdennasser Baali
+
+Matthew Peros
+
+View
+... The climate records from the Bosten lake in China showed almost similar reconstruction as the present study, i.e. drier climate at 3900-3600, 3400-3200, 2600-2500, 1900-1100, and 500-300 Cal years BP (Wü Nnemann et al., 2006). The δ 18 O records from the Sidi Ali Lake in Morocco also showed peaks at 3300, 2700, 2100 Cal years BP and Little Ice Age, signifying dry phases, which corresponded to low NAO stages (Olsen et al., 2012;Zielhofer et al., 2019). The δ 18 O of Globigerinoides ruber from the eastern Mediterranean Sea showed humid phases during 3500-3000, 1700-1000 and 270 Cal years BP with relatively arid conditions during 3000-1700 and 800 Cal years BP (Schilman et al., 2001). ...
+Carbon and nitrogen biogeochemistry of a high-altitude Himalayan lake sediment: Inferences for the late Holocene climate
+Article
+Full-text available
+
+May 2024
+
+Abdur Rahman Rayees Ahmad Shah M. G. Yadava
+
+Sanjeev Kumar
+
+View
+... Various climate events occurred during this period, which beginning is marked by a Bond event recorded in the northern hemisphere (Bond et al., 2001) that document large-scale multi centennial North-Atlantic cooling phases inducing West Mediterranean winter rain maxima (Zielhofer et al., 2019). A negative North Atlantic Oscillations (NAO) also prevailed during this period (Trouet et al., 2009;Faust et al., 2016) resulting in fewer and weaker winters with moist air brought in the Mediterranean (Hurrel et al., 2003). ...
+Holocene stratigraphic architecture of a Mediterranean delta and implication for sediment budget evolution: Example of the Rhône delta
+Article
+
+Mar 2024SEDIMENT GEOL
+
+Théo Martinez 
+
+Rémy DeschampsAlessandro Amorosi
+
+jean-Francois Berger
+
+View
+Long-Term Urban and Population Trends in the Southern Mesopotamian Floodplains
+Article
+Full-text available
+
+Feb 2024J Archaeol Res
+
+Nicolò Marchetti Eugenio Bortolini Jessica Cristina Menghi Sartorio
+
+Federico Zaina
+
+Meghalayan Stage (Late Holocene, 4.2 ka–present)
+Chapter
+
+Jan 2024
+
+Jessica Gauld 
+
+William J. Fletcher
+
+Maria Fernanda Sanchez GoñiHeikki Seppä
+
+Holocene glacial landscapes of the Atlas Mountains, Morocco
+Chapter
+
+Jan 2024
+
+Philip D. HughesBenjamin A. Bell 
+
+William J. Fletcher
+
+Ali Rhoujjati
+
+Recommended publications
+Discover more about: Holocene
+Preprint
+Full-text available
+Western Mediterranean hydro-climatic consequences of Holocene iceberg advances (Bond events)
+August 2018 · Climate of the Past Discussions
+
+Christoph Zielhofer Anne Köhler Steffen Mischke[...]
+
+William J. Fletcher
+
+Gerald C. Bond established a Holocene series of North Atlantic ice rafted debris events based on quartz and hematite stained grains recovered from subpolar North Atlantic marine cores. These so-called 'Bond events' document nine large-scale and multi-centennial North-Atlantic cooling phases that might be linked to a reduced thermohaline circulation. Regardless of the high prominence of the ... [Show full abstract]
+View full-text
+Data
+Full-text available
+Sidi Ali d18O Zielhofer et al. 2019 Climate of the Past
+March 2019
+
+Christoph Zielhofer Anne Köhler Steffen Mischke[...]
+
+William J. Fletcher
+
+The data set represents an improved Holocene δ18O record from Lake Sidi Ali Middle Atlas, Morocco). We add 82 new δ18O data of adult ostracod shell material from the closely related species Fabaeformiscandona sp. and Candona sp. to improve the chronological resolution of the previous oxygen isotope record (Zielhofer et al., 2017 Quaternary Science Reviews). The improved dataset is published in ... [Show full abstract]
+View full-text
+Article
+Full-text available
+North Atlantic Ice‐Rafting, Ocean and Atmospheric Circulation During the Holocene: Insights From Wes...
+July 2019 · Geophysical Research Letters
+
+Yassine Ait-Brahim Hai Cheng Jasper A. Wassenburg[...]
+
+Lijuan Sha
+
+Plain Language Summary During the Holocene, periods of enhanced ice‐rafting, associated with cooling and sea ice expansion in the North Atlantic high latitudes, have been recognized over distant regions. While the causes of these events are still a matter of debate, changes in the atmospheric circulation have been proposed as a potential trigger or amplifier. Here, we use speleothems to establish ... [Show full abstract]
+View full-text
+Article
+Full-text available
+The 4.2 ka BP Event in the Mediterranean region: an overview
+March 2019 · Climate of the Past
+
+Monica Bini Giovanni Zanchetta Aurel Persoiu[...]
+
+Elodie Brisset
+
+The Mediterranean region and the Levant have returned some of the clearest evidence of a climatically dry period occurring around 4200 years ago. However, some regional evidence is controversial and contradictory, and issues remain regarding timing, progression, and regional articulation of this event. In this paper, we review the evidence from selected proxies (sea-surface temperature, ... [Show full abstract]
+View full-text
+Last Updated: 09 Dec 2024
+ResearchGate Logo
+or
+Discover by subject area
+
+Recruit researchers
+Join for free
+Login
+
+App Store
+Get it on Google Play
+Company
+About us
+News
+Careers
+Support
+Help Center
+Business solutions
+Advertising
+Recruiting
+© 2008-2025 ResearchGate GmbH. All rights reserved.
+
+TermsPrivacyCopyrightImprintConsent preferences

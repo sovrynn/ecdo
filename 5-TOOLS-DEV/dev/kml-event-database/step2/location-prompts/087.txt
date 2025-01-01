@@ -1,0 +1,582 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Drying of Saraswati
+
+Basic location of event: India
+
+Specific data/information/context related to event: Saraswati - Wikipedia
+
+Saraswati
+
+Contents
+1 Etymology
+   1.1 Names and epithets
+2 Literature
+   2.1 In Vedic literature
+      2.1.1 Rigveda
+   2.2 Epic literature
+   2.3 Puranic literature
+      2.3.1 Association with Brahma
+      2.3.2 In the Bhagavata Purana
+      2.3.3 Puranic Narratives of Sarasvati’s River Aspect
+   2.4 Shakta texts
+3 Symbolism and iconography
+4 Forms and avatars
+   4.1 Maha Sarasvati
+   4.2 Mahavidya Nila Sarasvati
+   4.3 Sharada avatar in Kashmir
+5 Worship
+   5.1 Temples
+   5.2 Festivals and pujas
+      5.2.1 In south India
+      5.2.2 In east and northeast India
+      5.2.3 In north, west, and central India
+      5.2.4 In Indonesia
+      5.2.5 Southeast Asia
+6 In Buddhism
+   6.1 In the Golden Light Sutra
+   6.2 Other Indian Mahayana sources
+   6.3 Nepalese Buddhism
+   6.4 In East Asian Buddhism
+   6.5 In Indo-Tibetan Buddhism
+   6.6 In South East Asian Buddhism
+7 In Jainism
+8 See also
+9 Notes
+10 References
+   10.1 Citations
+   10.2 Works cited
+11 Further reading
+12 External links
+
+(Note: This is a brief and non-verbatim synthesis of the table of contents. For more detailed information about "Saraswati," please refer to the actual Wikipedia page.)
+version
+
+In other projects
+
+Wikimedia Commons
+Wikiquote
+Wikidata item
+
+From Wikipedia, the free encyclopedia
+
+Principal Hindu goddess, goddess of knowledge, music, and speech
+This article is about the Hindu goddess. For the Vedic river, see Sarasvati River. For other uses, see Saraswati (disambiguation).
+
+Saraswati (Sanskrit: सरस्वती, IAST: Sarasvatī), also spelled as Sarasvati, is one of the principal goddesses in Hinduism, revered as the goddess of knowledge, education, learning, arts, speech, poetry, music, purification, language and culture. Together with the goddesses Lakshmi and Parvati, she forms the trinity, known as the Tridevi. Sarasvati is a pan-Indian deity, venerated not only in Hinduism but also in Jainism and Buddhism.
+
+She is one of the prominent goddesses in the Vedic tradition (1500 to 500 BCE) who retains her significance in later Hinduism. In the Vedas, her characteristics and attributes are closely connected with the Sarasvati River, making her one of the earliest examples of a river goddess in Indian tradition. As a deity associated with a river, Sarasvati is revered for her dual abilities to purify and to nurture fertility. In later Vedic literature, particularly the Brahmanas, Sarasvati is increasingly identified with the Vedic goddess of speech, Vac, and eventually, the two merge into the singular goddess known in later tradition. Over time, her connection to the river diminishes, while her association with speech, poetry, music, and culture becomes more prominent. In classical and medieval Hinduism, Sarasvati is primarily recognized as the goddess of learning, arts and poetic inspiration, and as the inventor of the Sanskrit language. She is linked to the creator god Brahma, either as his consort or creation. In this role, she represents his creative power, giving reality a unique and distinctly human quality. She becomes linked with the dimension of reality characterized by clarity and intellectual order. Within the goddess-oriented Shaktism tradition, Sarasvati is a key figure and venerated as the creative aspect of the Supreme Goddess. She is also significant in certain Vaishnava traditions, where she serves as one of Vishnu's consorts and assists him in his divine functions. Despite her associations with these male deities, Sarasvati also stands apart as an independent goddess in the pantheon, worshipped without a consort.
+
+She is portrayed as a serene woman with a radiant white complexion, dressed in white attire, representing the quality of sattva (goodness). She has four arms, each holding a symbolic object: a book, a rosary, a water pot, and a musical instrument known as the veena. Beside her is her mount, either a hamsa (white goose or swan) or a peacock. Hindu temples dedicated to Sarasvati can be found worldwide, with one of the earliest known shrines being Sharada Peeth (6th–12th centuries CE) in Kashmir. Sarasvati continues to be widely worshipped across India, particularly on her designated festival day, Vasant Panchami (the fifth day of spring, and also known as Sarasvati Puja and Sarasvati Jayanti in many regions of India), when students honor her as the patron goddess of knowledge and education. Traditionally, the day is marked by helping young children learn how to write the letters of the alphabet.
+
+In Buddhism, she is venerated in many forms, including the East Asian Benzaiten (辯才天, "Eloquence Talent Deity"). In Jainism, Sarasvati is revered as the deity responsible for the dissemination of the Tirthankaras' teachings and sermons.
+
+Etymology
+
+Saraswati is derived from two roots: "Sara", meaning "essence" or "to give essence", and "sva", meaning "self". In this context, Saraswati symbolizes the essence of self-knowledge, which leads to enlightenment.
+Other society-related topics:
+- Discrimination
+  - Persecution
+- Nationalism
+- Hindutva
+- Organisations
+- Reform movements
+
+Other topics
+- Hinduism by country
+  - Greater India
+  - Balinese Hinduism
+  - Caribbean Shaktism
+  - Template:Hindu scriptures and texts
+- Hinduism & Other Religions
+  - Hinduism and Jainism / and Buddhism / and Sikhism / and Judaism / and Christianity / and Islam
+- Other Related Links (Templates)
+  - Hindu Scriptures & Texts
+  - Hindu Philosphy
+  - Sampradayas (Traditions)
+    - Shaivism
+    - Vaishnavism
+    - Shaktism
+- Glossary
+- Outline
+- Hinduism portal
+
+Sarasvati is a Sanskrit fusion word of saras (सरस्) meaning "pooling water", but also sometimes translated as "speech"; and vati (वती), meaning "she who possesses". Originally associated with the river or rivers known as Sarasvati, this combination, therefore, means "she who has ponds, lakes, and pooling water" or occasionally "she who possesses speech". It is also a Sanskrit composite word of sarasu-ati (सरसु+अति) which means "one with plenty of water".
+
+The word Sarasvati appears both as a reference to a river and as a significant deity in the Rigveda. In initial passages, the word refers to the Sarasvati River and is mentioned as one among several northwestern Indian rivers such as the Drishadvati. Sarasvati, then, connotes a river deity. In Book 2, the Rigveda describes Sarasvati as the best of mothers, of rivers, of goddesses.
+
+Her importance grows in the later Vedas composed after the Rigveda as well as in the later Brahmana texts, and the word evolves in its meaning from "waters that purify", to "that which purifies", to "vach (speech) that purifies", to "knowledge that purifies", and ultimately into a spiritual concept of a goddess that embodies knowledge, arts, music, melody, muse, language, rhetoric, eloquence, creative work and anything whose flow purifies the essence and self of a person.
+
+Names and epithets
+Sarasvati (Sanskrit: Sarasvatī) is known by many names. Some examples of synonyms for Sarasvati include Sharada (bestower of essence or knowledge), Brahmani (power of Brahma), Brahmi (goddess of sciences), Bharadi (goddess of history), Vani and Vachi (both referring to the flow of music/song, melodious speech, eloquent speaking respectively), Varnesvari (goddess of letters), Kavijihvagravasini (one who dwells on the tongue of poets).
+
+Other names include: Ambika, Bharati, Chandrika, Devi, Gomati, Hamsasana, Saudamini, Shvetambara, Subhadra, Vaishnavi, Vasudha, Vidya, Vidyarupa, and Vindhyavasini.
+
+In the Tiruvalluva Maalai, a collection of fifty-five Tamil verses praising the Kural literature and its author Valluvar, she is referred to as Nāmagal and is believed to have composed the second verse.
+
+Outside Nepal and India, she is known in Burmese as Thurathadi (သူရဿတီ) or Tipitaka Medaw (တိပိဋကမယ်တော်), in Chinese as Biàncáitiān (辯才天), in Japanese as Benzaiten (弁才天/弁財天) and in Thai as Suratsawadi (สุรัสวดี) or Saratsawadi (สรัสวดี).
+
+Literature
+In Hinduism, Sarasvati has retained her significance as an important goddess, from the Vedic age up to the present day. She is praised in the Vedas as a water goddess of purification, while in the Dharmashastras, Sarasvati is invoked to remind the reader to meditate on virtue, and on the meaning (artha) of one's actions (karma).
+
+In Vedic literature
+Rigveda
+Sarasvati first appears in the Rigveda, the most ancient source of the Vedic religion. Sarawsati holds significant religious and symbolic value in the Rigveda, as a deified entity embodying attributes of abundance and power. Primarily linked with the celestial domain of Waters (Apas) and the formidable Storm Gods (Maruts), this deity forms an integral triadic association alongside the sacrificial goddesses Ila and Bharati within the pantheon.
+
+Sarasvati is described as a loud and powerful flood who roars like a bull and cannot be controlled. She was associated with the Milky Way, indicating that she was seen as descending from heaven to earth.
+
+The goddess is mentioned in many Rigvedic hymns, and has three hymns dedicated to her (6:61 exclusively, and 7:95-96 which she shares with her male counterpart, Sarasvant). In Rigveda 2.41.16 she is called: "Best of mothers, the best of rivers, best of goddesses".
+
+As part of the Apas (water deities), Sarasvati is associated with wealth, abundance, health, purity and healing. In Book 10 (10.17) of the Rigveda, Sarasvati is celebrated as a deity of healing and purifying water. In the Atharva Veda, her role as a healer and giver of life is also emphasized. In various sources, including the Yajurveda, she is described as having healed Indra after he drank too much Soma.
+
+Sarasvati also governs dhī (Rigveda 1:3:12c.). Dhī is the inspired thought (especially that of the rishis), it is intuition or intelligence – especially that associated with poetry and religion. Sarasvati is seen as a deity that can grant dhī (Rigveda 6:49:7c.) if prayed to. Since speech requires inspired thought, she is also inextricably linked with speech and with the goddess of speech, Vāc, as well as with cows and motherhood. Vedic seers compare her to a cow and a mother, and saw themselves as children sucking the milk of dhī from her. In Book 10 of the Rigveda, she is declared to be the "possessor of knowledge". In later sources, like the Yajur Veda, Sarasvati is directly identified with Vāc, becoming a deity called Sarasvatī-Vāc.
+
+In the Brahmanas, Sarasvati-Vac's role expands, becoming clearly identified with knowledge (which is what is communicated through speech) and as such, she is "the mother of the Vedas" as well as the Vedas themselves. The Shatapatha Brahmana states that "as all waters meet in the ocean...so all sciences (vidya) unite (ekayanam) in Vāc" (14:5:4:11). The Shatapatha Brahmana also presents Vāc as a secondary creator deity, having been the first deity created by the creator god Prajapati. She is the very instrument by which he created the world, flowing forth from him "like a continuous stream of water" according to the scripture. This is the basis for the Puranic stories about the relationship between Brahma (identified with Prajapati) and Sarasvati (identified with Vāc).
+
+In other Rigvedic passages, Sarasvati is praised as a mighty and unconquerable protector deity. She is offered praises and compared to a sheltering tree in Rigveda 7.95.5, while in 6:49:7 cd she is said to provide "protection which is difficult to assail." In some passages she even takes a fiercesome appearance and is called a "slayer of strangers" who is called on to "guard her devotees against slander". Her association with the combative storm gods called Maruts is related to her fierce fighting aspect and they are said to be her companions (at Rigveda 7:96:2c.).
+
+Like Indra, Sarasvati is also called a slayer of Vritra, the snake-like demon of drought who blocks rivers and as such is associated with destruction of enemies and removal of obstacles. The Yajur Veda sees her as being both the mother of Indra (having granted him rebirth through healing) and also as his consort.
+
+In Book 2 of Taittiriya Brahmana, Sarasvati is called "the mother of eloquent speech and melodious music".
+
+Epic literature
+In the Hindu epic Mahabharata, "Sarasvati appears above all as a sacred river, along which pilgrimages are made. She is also represented as goddess of speech and knowledge." She is called "the best of rivers and greatest of streams", and with calm and tranquil waters, in contrast to the mighty torrential Vedic Sarasvati. Her banks are filled with priests and sages (rishis) who practice asceticism and sacrifices on her banks. There are numerous depictions of people making pilgrimages to the river to perform sacrifices and bathe in her waters and she often appears in her human form to great seers like Vasishtha.
+
+The Mahabharata also commonly presents her as a goddess of knowledge in her own right and sees Vac as merely a feature of hers. She is called the mother of the Vedas in the Shanti Parva Book of the epic. Her beauty is also widely commented on by numerous passages and in one passage, the goddess herself states that her knowledge and her beauty arise from gifts made in the sacrifice. The Mahabharata also describes her as the daughter of the creator god Brahma. Later she is described as the celestial creative symphony who appeared when Brahma created the universe.
+
+In the epic Ramayana, when the rakshasa brothers Ravana, Vibhishana and Kumbhakarna performed a penance in order to propitiate Brahma, the creator deity offered each a boon. The devas pleaded with Brahma to not grant Kumbhakarna his boon. Brahma called upon his consort Sarasvati, and instructed her to utter that which the devas desired. She acquiesced, and when the rakshasa spoke to invoke his boon, she entered his mouth, causing him to say, "To sleep for innumerable years, O Lord of Lords, this is my desire!". She then left his form, causing him to reflect upon his misfortune.
+
+Puranic literature
+Sarasvati remains an important figure in the later medieval Puranic literature, where she appears in various myths and stories. Many Puranas relate the myth of her creation by the creator god Brahma and then describe how she became his consort. Sources which describe this myth include Markandeya Purana, Matsya Purana (which contains the most extensive account), Vayu Purana and Brahmanda Purana. Other Puranas give her slightly different roles and see her as the consort of other gods, such as Vishnu. In various Puranas, rites for her worship are given, and she is mainly worshiped for her command over speech, knowledge, and music.
+
+Puranas like the Matsya also contain iconographic descriptions of Sarasvati, which provide the basis for her classic four-armed form holding a book (representing the Vedas), mala, veena, and a water pot while being mounted on a swan.
+
+Association with Brahma
+According to the Matsya Purana, Brahma generated Sarasvati, here also called by other names like Shatarupa, Savitri, Gayatri and Brahmani, out of himself for the purpose of creation, and mistakes her for his own daughter. The Matsya Purana then describes how Brahma begins to desire her intensely and cannot stop looking at her. Saraswati begins circumambulating him in reverence. Not wishing to keep turning his face to see her, Brahma produced faces on the sides and back of his head. Sarasvati then leapt into the sky and a fifth face emerged from Brahma, looking upwards. Brahma lost his powers as a result of his actions and told his sons to carry out his task, after which he married Sarasvati and they made love for one hundred years. Brahma felt shame and due to his act, the god loses his ascetic power (tapas) and his sons are left to create the world.
+
+The birth of Sarasvati from the mind of Brahma is also described in the Brahmanda Purana (chapter 43). Sarasvati is tasked to reside on tip of the tongue of all beings, a river on the earth and as a part of Brahma.
+
+In the Bhagavata Purana
+A legend in the Bhagavata Purana describes Sarasvati as originally being one of the three wives of Vishnu, along with Lakshmi and Ganga. In the midst of a conversation, Sarasvati observed that Ganga playfully kept glancing at Vishnu, behind Lakshmi and her back. Frustrated, Sarasvati launched a furious tirade against Ganga, accusing her of stealing Vishnu's love away from her. When Ganga appealed to her husband to help her, he opted to remain neutral, not wishing to participate in a quarrel between his three wives, whom he loved equally. When Lakshmi attempted to soothe Sarasvati's anger by reasoning with her, the jealous goddess grew angry with her as well, accusing her of disloyalty towards her. She cursed Lakshmi to be born as the Tulasi plant upon the earth. Ganga, now enraged that Lakshmi had been cursed because she had defended her, cursed Sarasvati that she would be incarnated as a river on earth. Sarasvati issued the same curse against Ganga, informing her that sinful men would cleanse themselves of their sins with her water. As a result, Vishnu proclaimed that one part of Sarasvati would remain with him, that another would exist as a river on earth, and that another would later become the spouse of Brahma.
+
+Puranic Narratives of Sarasvati's River Aspect
+In the Rigveda, Sarasvati is primarily depicted as a river goddess, embodying fertility and purity, and is revered as the personification of the Sarasvati River. Her role as the nurturing, life-giving force of the river is celebrated in hymns, where she is described as "the best of mothers, of rivers, and of goddesses." A Rigvedic prayer also describes her as 'the best of mothers, of rivers and of goddesses'. However, as Sarasvati’s association with knowledge, speech, and culture grew in prominence through the later Hindu texts, her direct connection with the physical river diminished. Despite this, the Puranas sustain Sarasvati's riverine character by incorporating new narratives that preserve her role as a cosmic river in addition to her expanded identity.
+
+The story of Sarasvati becoming a river is introduced in the Srishti Khanda of Padma Purana as well as in Skanda Purana. In the Skanda Purana, after the events of the Tarakamaya War, the devas deposited their arsenal of weapons at the hermitage of Dadhichi. When they sought the return of these weapons, the sage informed them that he had imbibed all of their power with his penance, and offered his own bones instead, which could serve as the source of new weapons. Despite the objections of the deities, the sage sacrificed himself, and his bones were employed in the manufacture of new arms by Vishvakarma. The sage's son, Pippalada, upon hearing these events, sought to wreak his vengeance on the devas by performing a penance. A mare emerged from his right thigh, which in turn gave birth to a fiery man, Vadava, who threatened to be the doom of all of creation. Vishnu convinced Vadava that his best course of action would be to swallow the devas one by one, and that he should begin by consuming the primordial water of creation, which was the foremost of both the devas and the asuras. Vadava wished to be accompanied to the source of these waters by a virgin, and so Sarasvati was dispatched for his purpose, despite her reluctance. She took him to Varuna, the god of the ocean, who then consumed the being. For good measure, Sarasvati transformed into a divine river, flowing with five channels into the sea, making the waters sacred.
+
+In the Padma Purana, it is stated that there was a terrible battle between the Bhargavas (a group of Brahmanas) and the Hehayas (a group of Kshatriyas). From this, an all-consuming fire called Vadavagni was born, which threatened to destroy the whole world. In some versions, a sage named Auva created it. Indra, Vishnu, and the devas visited Sarasvati, requesting her to deposit the fire in the western ocean, in order to protect the universe. Sarasvati told Vishnu that she would only agree to assist them if her consort, Brahma, told her to do so. Brahma ordered her to deposit the Vadavagni in the western ocean. Sarasvati agreed, and accompanied by Ganga, she left Brahmaloka, and arrived at Sage Uttanka's ashrama. There, she met Shiva, who had decided to carry Ganga. He gave the Vadavagni in a pot to Sarasvati, and told her to originate from the plaksha tree. Sarasvati merged with the tree, and transformed into a river. From there, she flowed towards Pushkar. Sarasvati continued her journey towards the ocean, and stopped once at Pushkarini, where she redeemed humans from their sins. At last, she reached the end of her journey, and immersed the fire into the ocean.
+
+Shakta texts
+Sarasvati is a key figure in the Indian goddess-centered traditions which are today known as Shaktism. Sarasvati appears in the Puranic Devi Mahatmya (Glory of the Goddess), a central text for Shaktism which was appended to the Markandeya Purana during the 6th century CE. In this text, she is part of the "triple goddess" (Tridevi) along with Mahakali, and Mahalakshmi. In Shaktism, this trinity (the Shakta response to the male trimurti of the other Hindu sects) is a manifestation of Mahadevi, the supreme goddess (and the highest deity out of which all deities, male or female, are born), which is also known by other names like Adi Parashakti ("Primordial Supreme Power").
+
+According to the Devi Mahatmya, this supreme goddess is the primordial creator which is supreme formless (nirguna) consciousness (i.e. parabrahman, absolute reality) and the tridevi are her main saguna ("with form", manifest, incarnated) emanations. MahaSarasvati is said to be creative and active principle (which is Rajasic, energetic and active), while Mahalakshmi is the sustainer (sattvic, "goodness") and Mahakali is the destroyer (tamasic, "darkness").
+
+In other influential Shakta texts, such as the Devi Bhagavata Purana and the Devi Upanishad, Sarasvati (along with all Hindu goddesses) is also said to be a manifestation of the supreme Mahadevi.
+
+In Tantric Shakta sources, Sarasvati takes many forms. A key tantric form is Matangi, a deity considered to be the "Tantric Sarasvati". Mātaṅgī retains many attributes of Sarasvati, like music and learning, but is also associated with defeating enemies, disease, pollution/impurity, and outcasts (chandalas). She is often offered half-eaten or leftover food and is green in color. Matangi is also part of the Shakta set of goddesses known as the ten Mahavidyas.
+
+Symbolism and iconography
+The goddess Sarasvati is often depicted as a beautiful woman dressed in pure white, often seated on a white lotus, which symbolizes light, knowledge and truth. She not only embodies knowledge but also the experience of the highest reality. Her iconography is typically in white themes from dress to flowers to swan – the color symbolizing Sattwa Guna or purity, discrimination for true knowledge, insight and wisdom.
+
+Her dhyana mantra describes her to be as white as the moon, clad in a white dress, bedecked in white ornaments, radiating with beauty, holding a book and a pen in her hands (the book represents knowledge).
+
+She is generally shown to have four arms, but sometimes just two. When shown with four hands, those hands symbolically mirror her husband Brahma's four heads, representing manas (mind, sense), buddhi (intellect, reasoning), citta (imagination, creativity), and ahamkāra (self consciousness, ego). Brahma represents the abstract, while she represents action and reality.
+
+The variations in iconography of Sarasvati with various musical instruments
+The four hands hold items with symbolic meaning – a pustaka (book or script), a mālā (rosary, garland), a water pot and a musical instrument (vīnā). The book she holds symbolizes the Vedas representing the universal, divine, eternal, and true knowledge as well as all forms of learning. A mālā of crystals, representing the power of meditation, inner reflection, and spirituality. A pot of water represents the purifying power to separate right from wrong, the clean from the unclean, and essence from the inessential. In some texts, the pot of water is symbolism for soma – the drink that liberates and leads to knowledge. The most famous feature on Sarasvati is a musical instrument called a veena represents all creative arts and sciences, and her holding it symbolizes expressing knowledge that creates harmony. Sarasvati is also associated with anurāga, the love for and rhythm of music, which represents all emotions and feelings expressed in speech or music.
+
+A hamsa – either a swan or a goose – is often shown near her feet. In Hindu mythology, the hamsa is a sacred bird, which if offered a mixture of milk and water, is said to have a unique ability to separate and drink the milk alone, and leave the water behind. This characteristic of the bird serves as a metaphor for the pursuit of wisdom amidst the complexities of life, the ability to discriminate between good and evil, truth from untruth, essence from the outward show, and the eternal from the evanescent. Due to her association with the swan, Sarasvati is also referred to as Hamsavāhini, which means "she who has a hamsa as her vehicle". The swan is also a symbolism for spiritual perfection, transcendence and moksha.
+
+Sometimes a citramekhala (also called mayura, peacock) is shown beside the goddess. The peacock symbolizes colorful splendor, the celebration of dance, and – as the devourer of snakes – the alchemical ability to transmute the serpent poison of self into the radiant plumage of enlightenment.
+
+Forms and avatars
+Many different avatars and forms of Sarasvati have been attested in scriptures.
+
+Maha Sarasvati
+In some regions of India, such as Vindhya, Odisha, West Bengal and Assam, as well as east Nepal, Sarasvati is part of the Devi Mahatmya Shakta mythology, in the Tridevi of Mahakali, Mahalakshmi and MahaSarasvati. This is one of many different Hindu legends that attempt to explain how the Hindu trimurti of gods (Brahma, Vishnu and Shiva) and goddesses (Sarasvati, Lakshmi and Parvati) came into being. Various Purana texts offer alternate legends for Maha Sarasvati.
+
+Maha Sarasvati is depicted as eight-armed and is often portrayed holding a Veena whilst sitting on a white lotus flower.
+
+Her meditation verse given at the beginning of the fifth chapter the Devi Mahatmya is:
+Wielding in her lotus-hands the bell, trident, ploughshare, conch, pestle, discus, bow, and arrow, her lustre is like that of a moon shining in the autumn sky. She is born from the body of Gauri and is the sustaining base of the three worlds. That MahaSarasvati I worship here who destroyed Sumbha and other asuras.
+
+MahaSarasvati is also part of another legend, the Navshaktis (not to be confused with Navdurgas), or nine forms of Shakti, namely Brahmi, Vaishnavi, Maheshwari, Kaumari, Varahi, Narsimhi, Aindri, Shivdooti, and Chamunda, revered as powerful and dangerous goddesses in eastern India. They have special significance on Navaratri in these regions. All of these are seen ultimately as aspects of a single great Hindu goddess, Durga, with Maha Sarasvati as one of those nine.
+
+Mahavidya Nila Sarasvati
+In Tibet and parts of India, NilaSarasvati is sometimes considered as a form of Mahavidya Tara. Nila Sarasvati is not much a different deity from traditional Sarasvati, who subsumes her knowledge and creative energy in tantric literature. Though the traditional form of Sarasvati is of calm, compassionate, and peaceful one: Nila Sarasvati is the ugra (angry, violent, destructive) manifestation in one school of Hinduism, while the more common Sarasvati is the saumya (calm, compassionate, productive) manifestation found in most others. In tantric literature of the former, NilaSarasvati has 100 names. There are separate dhyana shlokas and mantras for her worship in Tantrasara.
+
+Sharada avatar in Kashmir
+The earliest known shrine dedicated to goddess worship in Kashmir is Sharada Peeth (6th–12th centuries CE), dedicated to the goddess Sharada. It is a ruined Hindu temple and ancient centre of learning located in present-day Azad Kashmir. The goddess Sharada worshipped in Sharada Peeth is a tripartite embodiment of the goddess Shakti: Sharada (goddess of learning), Sarasvati (goddess of knowledge), and Vagdevi (goddess of speech, which articulates power). Kashmiri Pandits believe the shrine to be the abode of the goddess. In line with the Kashmiri Pandit belief that springs which are the abode of goddesses should not be looked at directly, the shrine contains a stone slab concealing the spring underneath, which they believe to be the spring in which the goddess Sharada revealed herself to the rishi Shandilya. It advanced the importance of knowledge and education in Kashmiri Pandit culture, which persisted well after Kashmiri Pandits became a minority group in Kashmir.
+
+As one of the Maha Shakti Peethas, Hindus believe that it represents the spiritual location of the goddess Sati's fallen right hand. Sharada Peeth is one of the three holiest sites of pilgrimage for Kashmiri Pandits, alongside the Martand Sun Temple and the Amarnath Temple.
+
+Worship
+Temples
+There are many Hindu temples dedicated to Sarasvati around the world. Some notable temples include
+- Gnana Sarasvati Temple in Basar on the banks of the River Godavari
+Godavari, one the 18 Mahasaktipeethas, Sharada Peeth is dedicated to goddess sarasvati.
+Savitri Mata Mandir in Pushkar.
+Wargal Sarasvati and Shri Sarasvati Kshetramu temples in Medak, Telangana.
+In Karnataka, one of many Sarasvati/Sharada pilgrimage spots is Shringeri Sharadamba Temple.
+Kollur Mookambika Temple situated in kollur, Karnataka.
+Chottanikkara Temple, in Ernakulam district of Kerala.
+Avanamcode Saraswati temple, situated near Nedumbasserry International Airport, Kerala is one among 108 durgalayas temple in Kerala.
+Dakshina Mookambika Temple, North Paravur.
+Panachikkadu saraswati Temple.
+Sarada peeth, pilani, rajasthan.
+Koothanur Maha Saraswathi Temple, in Koothanur, Tamil Nadu.
+Maa Sharda Mandir, Maihar in Madhya Pradesh.
+In her as Brahmani, additional Sarasvati temples can be found throughout Gujarat, Himachal Pradesh, Rajasthan, and Uttar Pradesh.
+Jnaneswari peeth in Karki village of coastal Karnataka also houses a temple dedicated to Sarasvati, where she is known as Jnaneshwari.
+Sarala Temple in Jagatsinghpur, Odisha.
+Pura Taman Saraswati is a Balinese hindu temple dedicated to saraswati.
+
+Festivals and pujas
+One of the most famous festivals associated with Goddess Sarasvati is the Hindu festival of Vasant Panchami. Celebrated on the 5th day in the Hindu calendar month of Magha, it is also known as Sarasvati Puja and Sarasvati Jayanti in India.
+In Kerala and Tamil Nadu, the last three days of the Navaratri festival, i.e., Ashtami, Navami, and Dashami, are celebrated as Sarasvati Puja.
+The celebrations start with the Puja Vypu (Placing for Worship). It consists of placing the books for puja on the Ashtami day. It may be in one's own house, in the local nursery school run by traditional teachers, or in the local temple. The books are taken out for reading, after worship, only on the morning of the third day (Vijaya Dashami). It is called Puja Eduppu (Taking [from] Puja). On the Vijaya Dashami day, Kerala and Tamil Nadu celebrate the Eḻuthiniruthu or "Initiation of writing" for children, before they are admitted to nursery schools. This is also called Vidyarambham. The child is often ritually taught to write for the first time on rice spread in a plate with their index finger, guided by an elder of the family, or by a teacher.
+
+In east and northeast India
+In Assam, Odisha, West Bengal and Tripura, Goddess Sarasvati is worshipped on Vasant Panchami, a Hindu festival celebrated every year on the 5th day in the Hindu calendar month of Magha (about February). Hindus celebrate this festival in temples, homes and educational institutes alike.
+
+In north, west, and central India
+In Bihar and Jharkhand, Vasant Panchami is commonly known as Sarasvati Puja. On this day, Goddess Sarasvati is worshipped in schools, colleges, educational institutes as well as in institutes associated with music and dance. Cultural programmes are also organised in schools and institutes on this day. People especially students worship Goddess Sarasvati also in pandals (a tent made up of colourful clothes, decorated with lights and other decorative items). In these states, on the occasion of Sarasvati Puja, Goddess Sarasvati is worshipped in the form of idol, made up of soil. On Sarasvati Puja, the idol is worshipped by people and prasad is distributed among the devotees after puja. Prasad mainly consists of boondi (motichoor), pieces of carrot, peas and Indian plum (ber). On the next day or any day depending on religious condition, the idol is immersed in a pond (known as Murti Visarjan or Pratima Visarjan) after performing a Havana (immolation), with full joy and fun, playing with abir and gulal. After Pratima Visarjan, members involved in the organisation of puja ceremony eat khichdi together.
+In Goa, Sarasvati Puja starts with Sarasvati Avahan on Maha Saptami and ends on Vijayadashami with Sarasvati Udasan or Visarjan.
+In 2018, the Haryana government launched and sponsored the annual National Sarasvati Mahotsav in its state named after Sarasvati.
+
+In Indonesia
+Watugunung, the last day of the pawukon calendar, is devoted to Sarasvati, goddess of learning. Although it is devoted to books, reading is not allowed. The fourth day of the year is called Pagerwesi, meaning "iron fence". It commemorates a battle between good and evil.
+Sarasvati is an important goddess in Balinese Hinduism. She shares the same attributes and iconography as Sarasvati in Hindu literature of India – in both places, she is the goddess of knowledge, creative arts, wisdom, language, learning and purity. In Bali, she is celebrated on Sarasvati day, one of the main festivals for Hindus in Indonesia. The day marks the close of 210 day year in the Pawukon calendar.
+On Sarasvati day, people make offerings in the form of flowers in temples and to sacred texts. The day after Sarasvati day, is Banyu Pinaruh, a day of cleansing. On this day, Hindus of Bali go to the sea, sacred waterfalls or river spots, offer prayers to Sarasvati, and then rinse themselves in that water in the morning. Then they prepare a feast, such as the traditional bebek betutu and nasi kuning, that they share.
+The Sarasvati Day festival has a long history in Bali. It has become more widespread in Hindu community of Indonesia in recent decades, and it is celebrated with theatre and dance performance.
+
+Southeast Asia
+Sarasvati was honoured with invocations among the Hindus of Angkorian Cambodia. She and Brahma are referred to in Cambodian epigraphy from the 7th century onwards, and she is praised by Khmer poets for being the goddess of eloquence, writing, and music. More offerings were made to her than to her husband Brahma. She is also referred to as Vagisvari and Bharati in the Khmer literature of the era of Yasovarman, Hindu king of the Khmer Empire.
+
+In Buddhism
+In Buddhism, Sarasvati became a prominent deity which retained many of her Vedic associations, such as speech, texts, knowledge, healing and protection. She also became known as the consort of Manjushri, the bodhisattva of wisdom (prajña). According to Miranda Shaw's Buddhist Goddesses of India:
+Sarasvati's association with the intellectual sphere assured that she would find favor among Buddhists, who highly value wisdom and its servants: mental clarity, reasoning ability, memorization, and oratorical skill. Sarasvati thus has an affinity with Prajñaparamita, the goddess of perfect wisdom. They may be invoked by the same mantra, reflecting the kinship between the wisdom goddess and the patroness of learning. 
+Shaw lists various epithets for Sarasvati used by Buddhist source including: "Emanation of Vishnu," "Gandharva Maiden," "Swan Child," "Daughter of Brahma", "Lady of the Lake", "Sister of the Moon", "Goddess of Speech", "Divine Lady Who Empowers Enlightened Speech", "Goddess Rich with the Power of Adamantine Speech", "Bestower of Understanding", "Goddess of Knowledge", and "Wisdom Goddess."
+According to Shaw, Buddhist depictions of Sarasvati are influenced by Hindu ones. A popular depiction is called "Lady of the Adamantine Lute" (Vajravina) which is described by Shaw as:
+a white, two-armed epiphany in which she plays her supernal lute, or vina. The instrument is made of lapis lazuli and has a thousand strings capable of eliciting every musical note. Sarasvati's melodies pervade the universe and delight all types of beings in accordance with whatever is most pleasing to their ears. She sits with ankles crossed and knees raised in a distinctive posture suitable for balancing a musical instrument.
+Sarasvati's earliest appearance in a Buddhist text is in the 1st century CE Mahayana Golden Light Sutra (of which there are different versions / translations). This text is first attested in a Chinese translation in 417 CE and includes an entire chapter devoted to the goddess, which is our best source for the earliest Buddhist depictions of Sarasvati.
+
+In the Golden Light Sutra
+In the Golden Light Sutra (Suvarṇaprabhāsa Sūtra), Sarasvati appears and pays homage to the Buddha. As Shaw writes, she then "promises that she will grace the preachers of the scripture with eloquence, oratorical power, perfect memory, inconceivable knowledge, penetrating wisdom, illumination, skill in liberating others, scholarly expertise in every field, proficiency in all the arts, merit, prosperity, and long life."
+Sarasvati's chapter in the Golden Light Sutra presents three main aspects of the goddess. First, it presents her as a goddess of eloquence and speech, then it presents her as a healing goddess who teaches a ritual which includes a medicinal bath, finally it presents Sarasvati as a goddess of protection and war. Ludvik mentions that the earliest version of the Golden Light Sutra (the translation by Dharmaksema) actually only includes the first depiction. The early Chinese Buddhist translators chose to translate her name as "great eloquence deity" (大辯天) the later translations by Yijing use "Eloquence Talent Goddess" (Biancai tiannu), though phonetic translations were also applied (e.g. Yijing's "mohetipi suoluosuobodi").
+In the Golden Light Sutra, Sarasvati is closely associated with eloquence, as well as with the closely connected virtues of memory and knowledge. Sarasvati is also said to help monks memorize the Buddhist sutras and to guide them so they will not make mistakes in memorizing them or forget them later. She will also help those who have incomplete manuscripts to regain the lost letters or words. She also teaches a dharani (a long mantra-like recitation) to improve memory. The Golden Light goes as far as to claim that Sarasvati can provide the wisdom to understand all the Buddhist teachings and skillful means (upaya) so that one may swiftly attain Buddhahood.
+In some versions of the Golden Light Sutra, such as Yijing's, the goddess then teaches an apotropaic ritual that can combat disease, bad dreams, war, calamities and all sorts of negative things. It includes bathing in a bath with numerous herbs that has been infused with a dharani spell. This passage contains much information on ancient materia medica and herbology. Ludvik adds that this may be connected to her role as healer of Indra in the Yajur Veda and to ancient Indian bathing rites.
+In the latter part of the Golden Light's Sarasvati chapter, she is praised as a protector goddess by the Brahman Kaundinya. This section also teaches a dharani and a ritual to invoke the goddess and receive her blessings in order to obtain knowledge. In latter sections of Kaundinya's praise, she is described as an eight armed goddess and compared to a lion. The text also states that if some recite these praises, "one obtains all desires, wealth and grain, and one gains splendid, noble success." The poem describes Sarasvati as one who "has sovereignty in the world", and states that she fights in battlefields and is always victorious. The hymn then describes Sarasvati's warlike eight-armed form. She carries eight weapons in each hand – a bow, arrow, sword, spear, axe, vajra, iron wheel, and noose.
+Kaudinya's hymn to Sarasvati in Yijing's translation is derived from the Āryāstava ("praise of she who is noble"), a hymn uttered by Vishnu to the goddess Nidra (lit. "Sleep", one of the names applied to Durga) found in the Harivamsa.
+As the Golden Light Sutra is often concerned with the protection of the state, it is not surprising that the fierce, weapon-wielding Durga, who was widely worshiped by rulers and warriors alike for success in battle, provides the model for the appearance assumed by Sarasvati, characterized as a protectress of the Buddhist Dharma. Bernard Faure argues that the emergence of a martial Sarasvatī may have been influenced by the fact that "Vāc, the Vedic goddess of speech, had already displayed martial characteristics. [...] Already in the Vedas, it is said that she destroys the enemies of the gods, the asuras. Admittedly, later sources seem to omit or downplay that aspect of her powers, but this does not mean that its importance in religious practice was lost."
+
+Other Indian Mahayana sources
+In some later Mahayana Buddhist sources like the Sādhanamālā (a 5th-century collection of ritual texts), Sarasvati is symbolically represented in a way which is similar to Hindu iconography. The description of the deity (here called Mahāsarasvatī) is as follows:
+The worshipper should think himself as goddess Mahāsarasvatī, who is resplendent like the autumn moon, rests on the moon over the white lotus, shows the varada-mudrā in her right hand, and carries in the left the white lotus with its stem. She has a smiling countenance, is extremely compassionate, wears garments decorated with white sandal-flowers. Her bosom is decorated with the pearl-necklace, and she is decked in many ornaments; she appears a maiden of twelve years, and her bosom is uneven with half-developed breasts like flower-buds; she illumines the three worlds with the immeasurable light that radiates from her body.
+In the Sādhanamālā, the mantra of Sarasvati is: oṃ hrīḥ mahāmāyāṅge mahāsarasvatyai namaḥ.
+The Sādhanamālā also depicts other forms of Sarasvati, including Vajravīṇā Sarasvatī (similar to Mahāsarasvatī except she carries a veena), Vajraśāradā Sarasvatī (who has three eyes, sits on a white lotus, her head is decorated by a crescent and holds a book and a lotus), Vajrasarasvatī (has six hands and three heads with brown hair rising upwards), and Āryasarasvatī (sixteen-year-old girl carrying the Prajñapramita sutra and a lotus).
+According to the Kāraṇḍavyūha Sūtra (c. 4th century – 5th century CE), Sarasvati was born from the eyetooth of Avalokiteshvara.
+Sarasvati is also briefly mentioned in the esoteric Vairocanābhisaṃbodhi Sutra as one of the divinities of the western quarter of the Outer Vajra section of the Womb Realm Mandala along with Prithvi, Vishnu (Narayana), Skanda (Kumara), Vayu, Chandra, and their retinue. The text later also describes the veena as Sarasvati's symbol. The Chinese translation of this sutra renders her name variously as 辯才 (Ch. Biàncái; Jp. Benzai, lit. "eloquence"), 美音天 (Ch. Měiyīntiān; Jp. Bionten, "goddess of beautiful sounds"), and 妙音天 (Ch. Miàoyīntiān; Jp. Myōonten, "goddess of wonderful sounds"). Here, Sarasvati is portrayed with two arms holding a veena and situated between Narayana's consort Narayani and Skanda (shown riding on a peacock).
+Sarasvati was initially depicted as a single goddess without consort. Her association with the bodhisattva of wisdom Manjusri is drawn from later tantric sources such as the Kṛṣṇayamāri tantra, where she is depicted as red skinned (known as "Red Sarasvati").
+In various Indian tantric sadhanas to Sarasvati (which only survive in Tibetan translation), her bija (seed) mantra is Hrīḥ.
+
+Nepalese Buddhism
+Sarasvati is worshiped in Nepalese Buddhism, where she is a popular deity, especially for students. She is celebrated in an annual festival called Vasant Pañcami and children first learn the alphabet during a Sarasvati ritual. In Nepalese Buddhism, her worship is often combined with that of Manjusri and many sites for the worship of Manjusri are also used to worship Sarasvati, including Svayambhu Hill.
+
+In East Asian Buddhism
+Veneration of Sarasvati migrated from the Indian subcontinent to China with the spread of Buddhism, where she is known as Biàncáitiān (辯才天), meaning "Eloquent Devī", as well as Miàoyīntiān (妙音天), meaning "Devī of Wonderful Sounds".
+She is commonly enshrined in Chinese Buddhist monasteries as one of the Twenty-Four Devas, a group of protective deities who are regarded as protectors of the Buddhist dharma. Her Chinese iconography is based on her description in the Golden Light Sutra, where she is portrayed as having eight arms, one holding a bow, one holding arrows, one holding a knife, one holding a lance, one holding an axe, one holding a pestle, one holding an iron wheel, and one holding ropes. In another popular Buddhist iconographic form, she is portrayed as sitting down and playing a pipa, a Chinese lute-like instrument. The concept of Sarasvati migrated from India, through China to Japan, where she appears as Benzaiten (弁財天, lit. "goddess of eloquence"). Worship of Benzaiten arrived in Japan during the 6th through 8th centuries. She is often depicted holding a biwa, a traditional Japanese lute musical instrument. She is enshrined on numerous locations throughout Japan such as the Kamakura's Zeniarai Benzaiten Ugafuku Shrine or Nagoya's Kawahara Shrine; the three biggest shrines in Japan in her honour are at the Enoshima Island in Sagami Bay, the Chikubu Island in Lake Biwa, and the Itsukushima Island in Seto Inland Sea.
+In Japanese esoteric Buddhism (mikkyo), the main mantra for this deity is: Oṃ Sarasvatyai svāhā.
+
+In Indo-Tibetan Buddhism
+In the Indo-Tibetan Buddhism of the Himalayan regions, Sarasvati is known as Yangchenma (Tibetan: དབྱངས་ཅན་མ, Wylie: dbyangs can ma), which means '"Goddess of Melodious Voice". She is also called the Tara of Music (Tibetan: དབྱངས་ཅན་སྒྲོལ་མ, Wylie: dbyangs can sgrol ma) as one of the 21 Taras. She is also considered the consort of Manjushri, bodhisattva of Wisdom. Sarasvati is the divine embodiment & bestower of enlightened eloquence & inspiration. For all those engaged in creative endeavours in Tibetan Buddhism she is a patroness of the arts, sciences, music, language, literature, history, poetry & philosophy.
+Sarasvati also became associated with the Tibetan deity Palden Lhamo (Glorious Goddess) who is a fierce protector deity in the Gelug tradition known as Magzor Gyalmo (the Queen who Repels Armies). Sarasvati was the yidam (principal personal meditational deity) of 14th century Tibetan monk Je Tsongkhapa, who composed a devotional poem to her.
+Tibetan Buddhism teaches numerous mantras of Sarasvati. Her seed syllable is often Hrīṃ. In a sadhana (ritual text) revealed by the great Tibetan female lama Sera Khandro, her mantra is presented as:
+Oṃ hrīṃ devi prajñā vārdhani ye svāhā.
+
+In South East Asian Buddhism
+In Burmese Buddhism, Sarasvati is worshipped as Thurathadi (Burmese: သူရဿတီ), an important nat (Burmese deity) and is a guardian of the Buddhist scriptures (Tipitaka), scholars, students and writers. Students in Myanmar often pray for her blessings before their exams. She is an important deity to the esoteric weizzas (Buddhist wizards) of Burma.
+In ancient Thai literature, Sarasvati (Thai: สุรัสวดี; RTGS: Suratsawadi) is the goddess of speech and learning, and consort of Brahma. Over time, Hindu and Buddhist concepts merged in Thailand. Icons of Sarasvati with other deities of India are found in old Thai wats. Amulets with Sarasvati and a peacock are also found in Thailand.
+
+In Jainism
+Sarasvati is also revered in Jainism as the goddess of knowledge and is regarded as the source of all learning. She is known as Srutadevata, Sarada, and Vagisvari. Sarasvati is depicted in a standing posture with four arms, one holding a text, another holding a rosary and the remaining two holding the Veena. Sarasvati is seated on a lotus with the peacock as her vehicle. Sarasvati is also regarded as responsible for dissemination of tirthankars sermon. The earliest sculpture of Sarasvati in any religious tradition is the Mathura Jain Sarasvati from Kankali Tila dating from 132 CE.
+
+See also
+Aban, "the Waters", representing and represented by Aredvi Sura Anahita.
+Anahita – the Old Persian goddess of wisdom.
+Arachosia name of which derives from Old Iranian *Harahvatī (Avestan Haraxˇaitī, Old Persian Hara(h)uvati-).
+Athena – the Greek goddess of wisdom and knowledge.
+Koothanur Maha Saraswathi Temple.
+Minerva – the Roman goddess of wisdom and knowledge.
+Rhea – the Greek goddess consort of Cronos and mother of the gods and titans.
+Sága – the Norse goddess of learning and knowledge.
+Saraswati Vandana Mantra.
+Saraswati yoga.
+Here is the textual content you requested, with all HTML formatting removed:
+
+"5th Annual A World in Trance Festival Jayanthi Kumaresh: Invoking The Goddess Sarawati | TeRra Magazine". 30 March 2019. Archived from the original on 11 April 2021. Retrieved 6 March 2021.
+
+Donaldson, Thomas (2001). Iconography of the Buddhist Sculpture of Orissa. pp. 274–275. ISBN 978-81-7017-406-6.
+
+Prasad 2017, p. 192.
+
+"सुरस". Sanskrit English Dictionary. Koeln, Germany: University of Koeln. Archived from the original on 4 December 2014.
+
+Muir, John (1870). Original Sanskrit Texts on the Origin and History of the People of India – Their Religions and Institutions. Vol. 5. pp. 337–347 – via Google Books.
+
+Moor, Edward (1810). The Hindu Pantheon. pp. 125–127 – via Google Books.
+
+"Sarasvati, The Goddess of Learning". Stephen Knapp. Archived from the original on 27 April 2009.
+
+Balf, Edward (1885). The Encyclopædia of India and of Eastern and Southern Asia. p. 534 – via Google Books.
+
+"Sri Saraswathi Ashtottara Shatanamavali - śrī sarasvatī aṣṭōttaraśatanāmāvalī". Stotra Nidhi. 30 November 2018. Retrieved 17 June 2022.
+
+Mohan Lal, 1992, p. 4333.
+
+Kamil Zvelebil, 1975, p. 129.
+
+Kinsley, David (1988). Hindu Goddesses: Vision of the divine feminine in the Hindu religious traditions. University of California Press. p. 95. ISBN 0-520-06339-2 – via Google Books.
+
+Kinsley, David (1988). Hindu Goddesses: Vision of the divine feminine in the Hindu religious traditions. University of California Press. ISBN 0-520-06339-2.
+
+Ludvik (2007), pp. 11, 26.
+
+Ludvik (2007), pp. 11-12.
+
+Ludvik (2007), p. 13.
+
+"Rigveda". Book 2, Hymn 41, line 16. Archived from the original on 24 September 2015.
+
+Ludvik (2007), p. 17.
+
+Ludvik (2007), p. 40.
+
+Ludvik (2007), p. 45.
+
+Ludvik (2007), p. 27.
+
+Ludvik (2007), pp. 26, 31.
+
+Ludvik (2007), p. 31.
+
+Colbrooke, H.T. Sacred writings of the Hindus. London, UK: Williams & Norgate. pp. 16–17. Archived from the original on 10 March 2016.
+
+Ludvik (2007), p. 38, 53.
+
+Ludvik (2007), pp. 59-60.
+
+Ludvik (2007), p. 60.
+
+Ludvik (2007), pp. 63-66.
+
+Ludvik (2007), p. 15.
+
+www.wisdomlib.org (27 August 2021). "Rig Veda 7.95.5 [English translation]". www.wisdomlib.org. Retrieved 9 August 2022.
+
+Ludvik (2007), pp. 16-17.
+
+Ludvik (2007), pp 22-23.
+
+Ludvik (2007), pp. 47-48.
+
+Ludvik (2007), p. 51.
+
+Ludvik (2007), p. 97.
+
+Ludvik (2007), p. 99-100.
+
+Ludvik (2007), pp. 101-105.
+
+Ludvik (2007), p. 112.
+
+Ludvik (2007), pp. 114-115.
+
+Ludvik (2007), p. 116.
+
+www.wisdomlib.org (27 September 2020). "Concerning the Penances practised by Dashagriva and his Brother [Chapter 10]". www.wisdomlib.org. Retrieved 9 August 2022.
+
+Ludvik (2007), pp. 117-118.
+
+Ludvik (2007), p. 127.
+
+Ludvik (2007), pp. 131-133.
+
+Ludvik (2007), p. 119.
+
+Ludvik (2007), p. 120.
+
+Hinduism 101 Saraswati Symbolism. Hindu American Foundation (HAF). Archived from the original on 16 October 2017. Retrieved 10 February 2018.
+
+For Sanskrit to English translation of the four words: Monier Williams' Sanskrit-English Dictionary. Koeln, Germany: University of Koeln. Archived from the original on 20 August 2016.
+
+Some texts refer to her as "goddess of harmony"; for example: Wilkes, John (1827). Encyclopaedia Londinensis. Vol. 22. p. 669 – via Google Books.
+
+Schuon, Frithjof (2007). Spiritual Perspectives and Human Facts. World Wisdom. p. 281. ISBN 978-1-933316-42-0.
+
+Werness, Hope B. (2007). Animal Symbolism in World Art. Continuum Encyclopedia. Bloomsbury Academic. pp. 319–320. ISBN 978-0-8264-1913-2.
+
+Eck, Diana L. (2013). India: A sacred geography. Random House. pp. 265–279. ISBN 978-0-385-53192-4.
+
+Brown, C. Mackenzie (1990). The Triumph of the Goddess. State University of New York Press. ISBN 978-0-7914-0364-8.
+
+Glory of the Divine Mother (Devi Mahatmyam) by S.Sankaranarayanan. Prabha Publishers, Chennai, India. ISBN 81-87936-00-2 Page. 184.
+
+Lochtefeld, James (15 December 2001). The Illustrated Encyclopedia of Hinduism. Vol. N–Z. Rosen. p. 467. ISBN 978-0-8239-3180-4.
+
+Raina, Mohini Qasba (2013). Kashur the Kashmiri Speaking People: Analytical Perspective. Singapore: Partridge Publishing. ISBN 978-1-4828-9947-4. "Goddess Sharda is believed to be the earliest representation of Shakti in the valley, which is embodying three separate manifestations of energy, i.e. goddess of learning, fine arts and beauty."
+
+What about a university by Kashmiri Pandits? | Curriculum Magazine. Retrieved 6 April 2020.
+
+Navratri rituals: Golu, Saraswati Puja, Vidyarambham... The Deccan Chronicle. 5 October 2013. p. 4.
+
+Thiruvananthapuram gears up for Vidyarambham day. The Hindu. 11 October 2013.
+
+Roy, Christian (2005). Traditional Festivals: A multicultural encyclopedia. Vol. 2. ABC-CLIO. pp. 192–193. ISBN 978-1-57607-089-5.
+
+Knapp, Stephen (2006). The Dharmic Festivals. The Power of the Dharma: An introduction to Hinduism and Vedic culture. iUniverse. p. 94. ISBN 978-0-595-83748-9.
+
+Kerkar, Rajendra (5 October 2011). "Saraswati Puja: Worshipping knowledge, education". Times of India. Archived from the original on 10 June 2018.
+
+Haryana to celebrate Saraswati Mahotsav on Jan 28. The Daily Pioneer. 7 January 2017.
+
+Eiseman (1989) pp 184–185.
+
+Saraswati, day of knowledge descent. The Bali Times. 2013. Archived from the original on 5 December 2014.
+
+Pande, G.C. India's Interaction with Southeast Asia. Vol. 1. pp. 660–661. ISBN 978-81-87586-24-1.
+
+Zurbuchen, Mary Sabine (2014). The Language of Balinese Shadow Theater. Princeton University Press. pp. 49–57. ISBN 978-0-691-60812-9.
+
+Kruger, Vivienne (22 April 2014). Balinese Food: The traditional cuisine & food culture of Bali. Tuttle. pp. 152–153. ISBN 978-0-8048-4450-5.
+
+Gonda, Jan (1975). "Section 3: Southeast Asia Religions". Handbook of Oriental Studies. Brill Academic. p. 45. ISBN 978-90-04-04330-5.
+
+Wolters, O.W. (1989). History, Culture, and Region in Southeast Asian Perspectives. Institute of Southeast Asian Studies. pp. 87–89. ISBN 978-9971-902-42-1.
+
+Shaw (2006), p. 236.
+
+Shaw (2006), p. 238.
+
+Ludvik (2007), p. 145.
+
+Shaw (2006), p. 237.
+
+Ludvik (2007), p. 157.
+
+Ludvik (2007), p. 158.
+
+Ludvik (2007), pp. 158-59.
+
+Ludvik (2007), pp. 160-161.
+
+Ludvik (2007), pp. 162-164.
+
+Ludvik (2007), p. 172.
+
+Ludvik (2007), p. 190.
+
+Ludvik (2007), pp. 197-205.
+
+Ludvik, Catherine (2004). "A Harivaṃśa Hymn in Yijing's Chinese Translation of the Sutra of Golden Light". Journal of the American Oriental Society. 124 (4): 707–734. doi:10.2307/4132114. JSTOR 4132114.
+
+Faure, Bernard (2015). Protectors and Predators: Gods of Medieval Japan, Volume 2. University of Hawaii Press. pp. 165–166. ISBN 978-0-8248-5772-1.
+
+AryAstavaH - hymn to Arya. Mahabharata Resources Page. Retrieved 21 May 2022.
+
+Ludvik (2007). pp. 265-267.
+
+Faure (2015). pp. 168-169.
+
+Bhattacharyya, Benoytosh (1924). The Indian Buddhist Iconography Mainly Based on the Sādhanamālā and Other Cognate Tāntric Texts of Rituals, p. 151. Oxford University Press.
+
+Bhattacharyya, Benoytosh (1924). The Indian Buddhist Iconography Mainly Based on the Sādhanamālā and Other Cognate Tāntric Texts of Rituals, pp. 151-152. Oxford University Press.
+Pye, Michael (2013). Strategies in the study of religions. Volume two, Exploring religions in motion. Boston: De Gruyter. p. 279. ISBN 978-1-61451-191-5. OCLC 852251932.
+
+"大毘盧遮那成佛神變加持經 第4卷". CBETA Chinese Electronic Tripiṭaka Collection (漢文大藏經). Retrieved 21 May 2022.
+
+Wayman, Alex (1984). Buddhist Insight: Essays, p. 435. Motilal Banarsidass Publ. (Buddhist Tradition Series).
+
+Wayman, Alex (1984). Buddhist Insight: Essays, pp. 436-437. Motilal Banarsidass Publ. (Buddhist Tradition Series).
+
+Shaw (2006), p. 244.
+
+"佛教二十四诸天_中国佛教文化网". 4 March 2016. Archived from the original on 4 March 2016. Retrieved 15 October 2021.
+
+"辯才天". buddhaspace.org. Retrieved 15 October 2021.
+
+Ludvik, Catherine (2001). From Sarasvati to Benzaiten (PDF). (Ph.D.). University of Toronto: National Library of Canada. Archived from the original (PDF download) on 11 September 2014.
+
+Suzuki, T. (1907). "The seven gods of bliss". The Open Court. Vol. 7, no. 2. Archived from the original on 7 April 2014.
+
+Saroj Kumar Chaudhuri (2003). Hindu Gods and Goddesses in Japan, p. 54. Vedams eBooks (P) Ltd.
+
+"Goddess Benzaiten, A-to-Z Dictionary of Japanese Buddhist / Shinto Statues". www.onmarkproductions.com. Retrieved 4 November 2023.
+
+Jamgon Mipham (2000). Mo: The Tibetan Divination System. Shambhala. pp. 149–150. ISBN 978-1-55939-848-0.
+
+Khenchen Palden Sherab (2007). Tara's Enlightened Activity: An oral commentary on the twenty-one praises to Tara. Shambhala. pp. 65–68. ISBN 978-1-55939-864-0.
+
+Jampa Mackenzie Stewart (2014). The Life of Longchenpa: The Omniscient Dharma King of the Vast Expanse. Shambhala Publications. ISBN 978-0-8348-2911-4.
+
+"Buddhist Protector: Shri Devi, Magzor Gyalmo Main Page". www.himalayanart.org. Archived from the original on 26 October 2017. Retrieved 26 October 2017.
+
+Tsongkhapa, Je (24 March 2015). Prayer to Sarasvati. Simon and Schuster. ISBN 978-0-86171-770-5.
+
+Kilty, Gavin (15 June 2001). "The Splendor of an Autumn Moon: The devotional verse of Tsongkhapa". Wisdom Publications. ISBN 0-86171-192-0.
+
+Also: Tsongkhapa, Je (24 March 2015). The Splendor of an Autumn Moon: The devotional verse of Tsongkhapa. Simon and Schuster. ISBN 978-0-86171-770-5.
+
+"White Sarasvatī Sādhana". www.lotsawahouse.org. Retrieved 4 November 2023.
+
+"Sarasvatī Meditation and Mantra". www.lotsawahouse.org. Retrieved 4 November 2023.
+
+Chew, Anne-May (2005). The Cave-temples of Po Win Taung, Central Burma: Architecture, Sculpture and Murals. White Lotus Press. ISBN 978-974-480-045-9.
+
+Myanmar (Burma). Lonely Planet Publications. 2000. ISBN 978-0-86442-703-8.
+
+Silverstein, Josef (1989). Independent Burma at forty years. Monograph Southeast Asia Program. Vol. 4. Cornell University. p. 55. ISBN 978-0-87727-121-5.
+
+Seekins, Donald (2006). Historical Dictionary of Burma (Myanmar). Scarecrow Press. ISBN 978-0-8108-5476-5.
+
+Badgley, John H.; Kyaw, Aye. Red peacocks: commentaries on Burmese socialist nationalism. Readworthy. ISBN 978-93-5018-162-1.
+
+Scott, Sir James George (1910). The Burman: His Life and Notions. Macmillan and Company, limited.
+
+Maung, Shwe Lu (1989). Burma, Nationalism and Ideology: An Analysis of Society, Culture, and Politics. University Press. ISBN 978-984-05-1114-3.
+
+McFarland, George (1944). Thai-English Dictionary. Stanford University Press. p. 790. ISBN 978-0-8047-0383-3.
+
+Patit Paban Mishra (2010). The History of Thailand. ISBN 978-0-313-34091-8.
+
+S, Prasad (2019). River and Goddess Worship in India: changing perceptions and manifestations of sarasvati. New York: Routledge. p. 280. ISBN 978-0-367-88671-4.
+
+Kelting 2001.
+
+Works cited
+
+This article incorporates text from a publication now in the public domain: Chisholm, Hugh, ed. (1911). "Sarasuati". Encyclopædia Britannica (11th ed.). Cambridge University Press.
+
+Kelting, M. Whitney (2001). Singing to the Jinas: Jain Laywomen, Mandal Singing, and the Negotiations of Jain Devotion. Oxford University Press. ISBN 978-0-19-803211-3.
+
+Kinsley, David (1998). Tantric Visions of the Divine Feminine: The ten mahāvidyās. Delhi: Motilal Banarsidass. ISBN 81-208-1523-8.
+
+Lal, Mohan (1992). Encyclopaedia of Indian Literature: Sasay to Zorgot. Sahitya Akademi. ISBN 978-81-260-1221-3.
+
+Ludvik, Catherine (2007). Sarasvatī: Riverine Goddess of Knowledge. Brill's Indological Library. Vol. 27. BRILL.
+
+Prasad, R. U. S. (2017). River and Goddess Worship in India: Changing Perceptions and Manifestations of Sarasvati. Routledge. ISBN 978-1-351-80654-1.
+
+Sankaranarayanan, S. (2001). Glory of the Divine Mother (Devī Māhātmyam). India: Nesma Books. ISBN 81-87936-00-2.
+
+Shaw, Miranda (2006). Buddhist Goddesses of India. Princeton University Press.
+
+Zvelebil, Kamil (1975). Tamil Literature. Handbook of Oriental Studies. BRILL. ISBN 90-04-04190-7.
+
+Further reading
+
+Ankerl, Guy (2000). Coexisting contemporary civilizations: Arabo-Muslim, Bharati, Chinese, and Western. INU societal research: Global communication without universal civilization. Vol. 1. Geneva: INU Press. ISBN 2-88155-004-5.
+
+Debnath, Sailen. The Meanings of Hindu Gods, Goddesses and Myths. New Delhi: Rupa & Co. ISBN 978-81-291-1481-5.
+
+Saraswati, Swami Satyananda. Saraswati Puja for Children. ISBN 1-877795-31-3.

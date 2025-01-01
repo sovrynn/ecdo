@@ -1,0 +1,350 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Newfoundland bog deposits
+
+Basic location of event: Canada
+
+Specific data/information/context related to event: Geological Survey of Canada radiocarbon dates I and II : Dyck, W : Free Download, Borrow, and Streaming : Internet Archive
+
+31 pages : 
+
+Thank you so much for helping us close out our 2024 fundraiser. Our patrons' generosity allows us to survive, thrive, and grow—and with your support, we'll accomplish even more in 2025. Have a wonderful New Year, and enjoy the archive!
+—The Internet Archive Team
+
+Ask the publishers to restore access to 500,000+ books. By submitting, you agree to receive donor-related emails from the Internet Archive. Your privacy is important to us. We do not sell or trade your information with anyone.
+Here is the textual content from the provided HTML, with all formatting removed:
+
+"Donate to the archive"
+Sign up
+|
+Log in
+Upload
+Search icon
+Search
+Mobile Apps
+Wayback Machine (iOS)
+Wayback Machine (Android)
+Browser Extensions
+Chrome
+Firefox
+Safari
+Edge
+Archive-It Subscription
+Explore the Collections
+Learn More
+Build Collections
+Save Page Now
+Capture a web page as it appears now for use as a trusted citation in the future.
+Please enter a valid web address
+Geological Survey of Canada radiocarbon dates I and II
+Bookreader Item Preview
+Fullscreen view
+Search inside
+About
+Blog
+Projects
+Help
+Donate
+Contact
+Jobs
+Volunteer
+People
+Geological Survey of Canada radiocarbon dates I and II : Dyck, W : Free Download, Borrow, and Streaming : Internet Archive
+Geological Survey of Canada radiocarbon dates I and II
+Free Download, Borrow, and Streaming
+All Audio
+Grateful Dead
+Netlabels
+Old Time Radio
+78 RPMs and Cylinder Recordings
+Audio Books & Poetry
+Computers, Technology and Science
+Music, Arts & Culture
+News & Public Affairs
+Spirituality & Religion
+Podcasts
+Radio News Archive
+Images
+Metropolitan Museum
+Cleveland Museum of Art
+All Images
+Flickr Commons
+Occupy Wall Street Flickr
+Cover Art
+USGS Maps
+NASA Images
+Solar System Collection
+Ames Research Center
+Internet Arcade
+Console Living Room
+All Software
+Old School Emulation
+MS-DOS Games
+Historical Software
+Classic PC Games
+Software Library
+Kodi Archive and Support File
+Vintage Software
+APK
+MS-DOS
+CD-ROM Software
+CD-ROM Software Library
+Software Sites
+Tucows Software Library
+Shareware CD-ROMs
+Software Capsules Compilation
+CD-ROM Images
+ZX Spectrum
+DOOM Level CD
+Texts
+Open Library
+American Libraries
+Smithsonian Libraries
+FEDLINK (US)
+Genealogy
+Lincoln Collection
+Video
+TV News
+Understanding 9/11
+All Video
+Prelinger Archives
+Democracy Now!
+Occupy Wall Street
+TV NSA Clip Library
+Animation & Cartoons
+Arts & Music
+Computers & Technology
+Cultural & Academic Films
+Ephemeral Films
+Movies
+News & Public Affairs
+Spirituality & Religion
+Sports Videos
+Television
+Videogame Videos
+Vlogs
+Youth Media
+About
+Donate
+Contact
+Jobs
+Volunteer
+People
+"theater" requires JavaScript to be enabled. It appears your browser does not have it turned on. Please see your browser settings for this feature.
+<div class="row">
+<div class="inside-audio-div hidden">
+<a href="/details/31761108187352/31761108187352">Geological Survey of Canada radiocarbon dates I and II</a>
+</div>
+<div class="xs-col-12">
+<div id="theatre-controls">
+<a href="/details/31761108187352/31761108187352" aria-label="Fullscreen view">
+<a href="/details/31761108187352/31761108187352" aria-label="Search inside">
+Geological Survey of Canada radiocarbon dates I and II : Dyck, W : Free Download, Borrow, and Streaming : Internet Archive
+Geological Survey of Canada radiocarbon dates I and II
+Email
+Share via email
+Share via Facebook
+Share via Twitter
+Share via WhatsApp
+Share via Twitter
+Email
+Share via Facebook
+Share via email
+Share via Twitter
+Share via WhatsApp
+[archiveorg 31761108187352 width=560 height=384 frameborder=0 webkitallowfullscreen=true]
+Want more?
+Advanced embedding details, examples, and help!
+Share
+
+Flag this item for
+- Graphic Violence
+- Explicit Sexual Content
+- Hate Speech
+- Misinformation/Disinformation
+- Marketing/Phishing/Advertising
+- Misleading/Inaccurate/Missing Metadata
+
+Geological Survey of Canada radiocarbon dates I and II
+by
+Dyck, W
+
+Publication date
+1963
+
+Topics
+Radiocarbon dating, Datation -- Méthode du carbone 14, radiocarbon dating, Radiocarbon dating
+
+Publisher
+Ottawa, Ont. : GSC
+
+Collection
+uoftgovpubs; robarts; governmentpublications; toronto
+
+Contributor
+Gerstein - University of Toronto
+
+Language
+English
+
+Item Size
+97.5M
+
+31 pages :
+Includes bibliographical references
+
+Addeddate
+2024-11-15 10:13:32
+
+Associated-names
+Fyles, J. G; Geological Survey of Canada
+
+Autocrop_version
+0.0.18_books-serials-20230720-0.3
+
+Barcode
+31761108187352
+
+Camera
+Sony Alpha-A6300 (Control)
+
+Foldoutcount
+0
+
+Identifier
+31761108187352
+
+Identifier-ark
+ark:/13960/s22tpv2fnxt
+
+Image_count
+40
+
+Invoice
+2091
+
+Ocr
+tesseract 5.3.0-6-g76ae
+
+Ocr_detected_lang
+en
+
+Ocr_detected_lang_conf
+1.0000
+
+Ocr_detected_script
+Latin
+
+Ocr_detected_script_conf
+0.9541
+
+Ocr_module_version
+0.0.21
+
+Ocr_parameters
+-l eng
+
+Page-progression
+lr
+
+Page_number_confidence
+66
+
+Page_number_module_version
+1.0.5
+
+Pages
+42
+
+Pdf_module_version
+0.0.26
+
+Ppi
+360
+
+Republisher_date
+20241115175218
+
+Republisher_operator
+associate-rhegrace-oplas@archive.org
+
+Republisher_time
+165
+
+Scandate
+20241114184416
+
+Scanner
+scribe1.toronto.archive.org
+
+Scanningcenter
+uoft
+
+Tts_version
+6.9-initial-206-gdccefbe2
+
+Worldcat (source edition)
+70389741
+
+Full catalog record
+MARCXML
+
+Reviews
+Reviews cannot be added to this item.
+
+0 Views
+
+DOWNLOAD OPTIONS
+
+CHOCR
+
+CLOTH COVER DETECTION LOG
+
+DAISY
+For users with print-disabilities
+
+EPUB
+
+FULL TEXT
+
+HOCR
+
+ITEM TILE
+
+OCR PAGE INDEX
+
+OCR SEARCH TEXT
+
+PAGE NUMBERS JSON
+
+PDF
+
+REPUBLISHER CORRECTIONS PROCESSING LOG
+
+SINGLE PAGE ORIGINAL JP2 TAR
+
+SINGLE PAGE PROCESSED JP2 ZIP
+
+TEXT
+
+TORRENT
+
+25 Files
+
+12 Original
+
+SHOW ALL
+
+IN COLLECTIONS
+University of Toronto Government Publications Digitization Collection
+University of Toronto - Robarts Library
+Canadian Government Publications Portal
+Canadian Libraries
+
+Uploaded by
+LexW
+on November 11, 2024
+
+SIMILAR ITEMS (based on metadata)
+
+Terms of Service (last updated 12/31/2014)

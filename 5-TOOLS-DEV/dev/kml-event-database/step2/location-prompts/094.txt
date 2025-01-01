@@ -1,0 +1,2739 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Kilmahuddrick Incinerated Remains
+
+Basic location of event: Dublin
+
+Specific data/information/context related to event: Excavation of a Prehistoric Ring-Barrow at Kilmahuddrick, Clondalkin, Dublin 22
+Author(s): Ian W. Doyle, A. L. Brindley, L. Buckley, P. Johnston, M. McQuade and I.
+Stuijts
+Source:
+The Journal of Irish Archaeology, Vol. 14 (2005), pp. 43-75
+Published by: Wordwell Ltd.
+Stable URL: http://www.jstor.org/stable/20650841
+Accessed: 20-06-2016 10:31 UTC
+REFERENCES
+Linked references are available on JSTOR for this article:
+http://www.jstor.org/stable/20650841?seq=1&cid=pdf-reference#references_tab_contents
+You may need to log in to JSTOR to access the linked references.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://about.jstor.org/terms
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted
+digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about
+JSTOR, please contact support@jstor.org.
+Wordwell Ltd. is collaborating with JSTOR to digitize, preserve and extend access to
+The Journal of Irish
+Archaeology
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+Excavation of a prehistoric ring-barrow at Kilmahuddrick,
+Clondalkin, Dublin 22
+Ian W. Doyle
+(with contributions from A. L Brindley, L Buckley, P. Johnston, M. McQuade and I. Stuijts)
+A prehistoric ring-barrow in Kilmahuddrick townland, west of Clondalkin, Dublin 22, was excavated during 2000.
+Radiocarbon dates indicate activity during the Bronze Age and Iron Age. A series of cremation deposits were identi
+fied within the ring-barrow and a sequence of deposits were found in the ditch. Tlte site was enclosed within a field
+system of early medieval date.
+INTRODUCTION
+evelopment of a greenfield site in Kilmahud
+drick townland, west of Clondalkin, Dublin
+J_S 22, during 2000 led to the discovery of a
+ploughed-out prehistoric ring-barrow (Pl. 1). The
+excavations revealed a series of cremated bone deposits
+at its centre.1 The remains of an early medieval field
+system, represented by several shallow linear ditches,
+were found nearby.
+The site was being developed as a biotechnological
+complex by Wyeth Medica Ireland. Geophysical survey
+in advance of the development detected an anomaly
+that resembled a ring-barrow in Kilmahuddrick town
+land (GSB 2000). Archaeological test-trenching by the
+writer confirmed this identification.The site was exea
+vated during July-September 2000 by the writer for
+Margaret Gowen and Co. Ltd. It was not marked on
+Ordnance Survey maps and was not listed in the
+Record of Monuments and Places.
+The townland of Kilmahuddrick is located west of
+Clondalkin village and the M50 motorway, in the
+direction of Newcastle (Fig. l).To the west of the site
+the low-lying central plain is visible, while to the north
+and east the land forms part of the Dublin coastal plain.
+From the excavation site the foothills of the Wicklow
+Mountains, in particular Saggart Hill (395m OD) and
+Verschoyles Hill (332m OD), are visible some 5?6km
+to the south.The valley or pass between these two hills,
+which leads south to Blessington, is also visible. A clus
+ter of ring-barrows are located in this upland area in
+the townlands of Lugmore, Crockaundreenagh, Lugg,
+Pl. I ?Ring-barrow after excavation viewed from the west.
+T??e Journal of Irish Archaeology Volume XIV, 2005 43-75
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+44 Ion W.Doyle
+Crooksling and Mountseskin (Stout and Stout 1992,
+12, 32). On the north-eastern side of Saggart Hill the
+prehistoric enclosure and ring-barrow of Lugg, exca
+vated in 1939, would be visible if it were not for the
+extensive programme of afforestation undertaken there
+in the latter half of the twentieth century (Kilbride
+Jones 1950; RMP DU024-008).
+In general, the land within the development zone is
+low-lying, ranging from 68m to 70m above Ordnance
+Datum. Until recently the land was used for agricul
+tural purposes, which appear to have been largely arable
+in nature. Approximately 0.3-0.5m of plough soil is
+present in this area; the underlying natural subsoil con
+sists of stony sandy clay with an underlying geology of
+marrtly Carboniferous limestone, outcrops of shale,
+dolomite and sandstone. The topography is generally
+Fig. i?Generai site location (Ordnance
+Survey Ireland permit no. 7250).
+level at approximately 68m OD.The south-eastern cor
+ner of the field in which the ring-barrow was discov
+ered contained a naturally raised area measuring
+approximately 60m east/west by 150m north/south.
+This area was generally 2m higher than the surround
+ing topography The ring-barrow was sited in this
+slightly elevated position.
+There is a growing body of evidence for prehistoric
+settlement in this part of Dublin (Fig. 2).Afulacht fiadh
+was excavated in the adjoining townland of Nangor, to
+the south of Kilmahuddrick (Doyle 2002). In Kishoge
+townland, to the north of Kilmahuddrick, a Neolithic
+house was excavated in 2001 (O'Donovan 2003-4).
+Several prehistoric features were also recorded during
+monitoring operations in 1996-7 in Nangor and
+Kilmahuddrick townlands (O'Brien 1998a; 1998b).
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+Excavation of a prehistoric ring-barrow at Kilmahuddrick, Clondalkin, Dublin 45
+Fig. 2?Location of archaeological
+sites investigated.
+0 100 200 300 400m
+The name of the parish and townland in which the
+ring-barrow was excavated, Kilmahuddrick, suggests an
+ecclesiastical origin.The element Kit is an Anglicisation
+of Cell (later CM), meaning a monastic cell but gener
+ally signifying a church. This merges with
+Mochuidbhricht to form 'the church of Mochuidbhricht'.
+Mochuidbhricht derives from Mo 'my' and Cuidbhricht, an
+Irish form of Cuthbert. St Cuthbert (c. 634-87) was an
+Anglo-Saxon monk and bishop of Lindisfarne. After his
+death his cult spread rapidly to the Irish church in
+Britain and Ireland, possibly via Scotland, where it is
+reflected in the placename Kircudbright.The use of the
+possessive form (mo- 'my') points to an early importa
+tion, probably before the eighth century (Mac
+Shamhr?in 1996, 125, 142 .3). The parish church of
+Kilmahuddrick (RMP DUO17-038) is located some
+800m to the east of the ring-barrow.
+There is also considerable evidence for medieval
+settlement in the immediate area. A series of pits and
+ditches spanning the early medieval and medieval peri
+ods were revealed in Nangor townland during 2000
+(Doyle 2002).The medieval ditch features appear to be
+associated with Nangor Castle (RMP DUO 17-037),
+just outside the southern boundary of the develop
+ment. A fine late medieval tower-house with modern
+domestic additions (RMP DUO 17-134) in Grange
+townland is located immediately outside the western
+boundary of the biotechnology campus.
+Evidence for the medieval land-holding pattern in
+Grange and Kilmahuddrick townlands is available.
+From the twelfth century, the Cistercian abbey of St
+Marys held lands in the Clondalkin area. St Marys
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+46 lan W.Doyle
+(founded c. 1139) was located on the north bank of the
+River Liffey in the area of Dublin city now represent
+ed by Capel Street and Abbey Street. It became a pow
+erful and wealthy religious house, with extensive
+land-holdings throughout Dublin and Ireland. The Cis
+tercians of St Mary s Abbey fostered a cult of St Cuth
+bert. A decree of the general chapter of 1256
+mentioned him as one of the saints to be commemo
+rated by the order. This may have been due to his asso
+ciation with the name of the lands that had come into
+their possession (Ronan 1940, 183; Doherty 2000,
+187).
+Details are available for lands held by St Mary's that
+were referred to as Ballymacheilmer and Kilmacud
+drick (now Kilmahuddrick). According to O
+Conbhuidhe (1962, 51), the land of Ballymacheilmer
+was held by the abbey before 1172, and possibly even
+before the coming of the Anglo-Normans. Possession
+of Ballymacheilmer was confirmed to the abbey by
+King Henry II in two charters dated 1174 and 1179. A
+confirmation of the lands, chapel and tithes was also
+made by the archbishop of Dublin, John Comyn, in
+1186 when Master Osbert of Clondalkin withdrew any
+claim to the lands in Bafimacailmer. A marginal entry
+in another confirmation by the same archbishop iden
+tifies Ballymacheilmer with Kilmacoldrick, now referred
+to as Kilmahuddrick.
+THE EXCAVATION
+Two areas were excavated. Area A concentrated on the
+ring-barrow and surrounding features. Area was
+located some 45m to the south-east of the ring-barrow
+in a separate field. The excavations were licensed (ref
+erence 00E0448) by D?chas (now Department of the
+Environment, Heritage and Local Government).
+Area A: The ring-barrow
+Probably owing to intensive ploughing, no indication
+of deliberate mound material or an old buried ground
+surface or sod layer was noted at any stage of the
+archaeological investigations within the interior of the
+barrow.
+Phase I. Pre-barrow features
+A pit in the south-east of the area investigated is the
+sole feature that can be ascribed to a pre-barrow phase
+of activity. Two pits were identified but only one of
+these is demonstrably earlier than the barrow. The
+suggestion that pit F73 pre-dates the barrow is due to
+its truncation by F3, the cut for the barrow ditch. Pit
+F73 was flat-bottomed with sloping sides and extant
+measurements of 2.3m north-east/south-west by
+1.24m south-east/north-west. The main fill of this
+feature, F41, was a moderately compact mid-brown
+sandy clay with occasional small stones and charcoal
+flecking. The pit and fills remain undated (Figs 3, 9 J).
+Phase II. Early Bronze Age activity: the ring-bar
+row ditch
+The ring-barrow ditch was initially detected by geo
+physical survey. Upon excavation the ditch cut, F3,
+consisted of an uninterrupted circular ditch cutting
+natural subsoil (Fig. 3). It had an external diameter of
+12.2m north/south and 12.4m east/west.The ditch was
+approximately 2.3-2.5m wide at the top, narrowing
+inwards to approximately 0.25-0.3m wide at the base.
+Its outer edge sloped at a consistent angle towards the
+flat base. In contrast, the inner edge sloped at an angle
+of approximately 45? before assuming a near-vertical
+aspect towards the base. This profile was maintained
+throughout the entire circumference of the ditch,
+which was 1.6-1.7m deep from the level of natural
+subsoil to the base.
+Within F3, apart from the deposition of fills and
+sediments, activity was evidenced by a group of stone
+features. One of these was a small stone structure, and
+fires had been lit on the upper surfaces of two separate
+Table I ?Summary phasing.
+Phase Summary_Date
+I Pre-barrow pit F73/F41
+II Cutting of the ring-barrow ditch F3 Early Bronze Age
+Activity centring on stone features at base of F3 ditch, initial accumulation of
+basal silt Fl7
+III Ditch fills FI4, F8, F7
+Deposition of cremated remains F91 /F87, F77/F39/F25, F78/F79 Later Bronze Age
+IV Activity in the upper fills of the F3 ring-barrow ditch, in situ burning FM, Early Iron Age
+deposition of F4 and F5 upper fills, in situ burning F6 and F9
+V Field boundary system enclosing ring-barrow F12/F26, F29/F34, F89/F88, Early medieval
+FI05/FI 17
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+Excavation of a prehistoric ring-barrow at Kilmahuddrick, Clondalkin, Dublin
+3?Plan of the ring-barrow as excavated.
+stone blocks. The activity involving the stone features
+is early in the stratigraphie sequence of the ditch cut.
+These features were all at the base of the ditch and do
+not appear to have been inserted through later cuts. A
+thin layer of yellow-greyish silty clay with inclusions of
+small stones lay under or around stone features Fl8,
+Fl6 and Fl5/28.This basal silt, Fl7, ran almost contin
+uously around the base of the ring-barrow ditch and
+was approximately 0.08-0.16m thick. Small fragments
+of Quercus charcoal were identified from Fl7 and yield
+ed a radiocarbon date of 2885?40 BP (GrA-17924,
+1208-935 cal. BC at 2 sigma), which spans the middle
+to later Bronze Age.
+At the base of the western portion of the barrow
+ditch a cluster of stones and patches of oxidised or fire
+reddened clay were uncovered (Fig. 4). One such stone,
+Fl5, was a large limestone block measuring 0.35m
+east/west by 0.29m north/south by 0.19m deep. A
+patch of oxidised clay and charcoal was present on its
+flat upper surface and there was a patch of oxidised or
+f?re-reddened clay on the natural clay of the adjacent
+inner edge of F3, indicating in situ burning. Immedi
+ately south of Fl 5 was a spread of charcoal and oxidised
+clay, F30, which overlay the basal silt Fl7 and measured
+0.3m north/south by 0.24m east/west by 0.03-0.04m
+deep. Charcoal within F30 was identified as Fraxinus
+and returned a radiocarbon date of 3790140 BP (GrA
+17925,2398-2047 cal.BC at 2 sigma).This date, which
+centres on the late Neolithic-early Bronze Age, is con
+siderably earlier than that from F17.This may be due to
+the analysis of old wood, yet equally it may reflect an
+early Bronze Age date for the monument.
+The southern edge of F30 was defined by a second
+large limestone block, F28, with smooth flat sides and
+upper surface and measuring 0.25m east/west by
+0.18m north/south by 0.09m deep. Its south-facing
+side was fire-reddened from in situ burning. Immedi
+ately south of F28 was a spread of small to medium
+sized stones, charcoal and burnt clay, F31, measuring
+0.33m east/west by 0.14m north/south by 0.04m deep.
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+48 lan W.Doyle
+Fig. 4?Elevations of stone features found at the base of the barrow ditch.
+A further small patch of burnt clay, F32, was revealed
+slightly north of Fl5. It measured 0.12m east/west by
+0.1m north/south and was sealed by a thin layer of the
+basal silt deposit Fl7.
+In the north-western portion of the barrow ditch
+stone Fl6 was uncovered, approximately 4.5m to the
+north of Fl5 and F28. It was a large flat-sided lime
+stone block, 0.45m east/west by 0.35m north/south by
+0.35m deep, which sat directly on the base of the F3
+cut into natural subsoil. Like Fl5, Fl6 displayed signs of
+in situ burning, as evidenced by patches of fire
+reddened clay and pieces of charcoal on its flat upper
+surface, fire-reddening of the actual stone and of the
+outer edge of F3.T? the south of Fl6 lay a deposit of
+charcoal and several medium-sized stones, F27, meas
+uring some 0.5m north/south by 0.3m east/west. A
+small patch of charcoal was also noted on the northern
+side of Fl 6.
+It appears that stones Fl5, Fl6 and F28 were in situ
+inclusions in the natural subsoil that were not removed
+by the original diggers of the barrow ditch. The stones
+were subsequently used as dry places where a fire could
+be fit. During the archaeological excavation, after the
+fills were excavated from F3, an attempt was made to
+move stones Fl5 and Fl6. Both were found to run
+partly beyond the edge of F3 and into natural subsoil.
+Several other stone features were revealed at the
+base of the northern area of the barrow ditch (PI. 2;
+Figs 3, 4B).The most interesting of these was Fl8, a
+small cist-like structure of inward-leaning stones
+topped with a capstone. The side stones (two on the
+eastern side and three on the western side) comprised
+medium to large angular stones leaning inwards to an
+apex at an angle of approximately 45? (the barrow ditch
+cut F3 formed the northern and southern sides).The
+long axes of all the side stones pointed downwards. Two
+of the stones on the western side were heat-scorched to
+a pinkish-red hue. However, this did not appear to rep
+resent in situ burning and it seems that the stones were
+fire-reddened prior to deposition. The capstone was an
+irregularly shaped limestone block measuring 0.37m
+east/west by 0.35m north/south by 0.12m deep. The
+expected downward pressure of this capstone upon the
+side stones led to the placing of a holding stone, meas
+uring 0.24m north/south by 0.12m east/west, on the
+eastern side of Fl 8.
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+Excavation of a prehistoric ring-barrow at Kilmahuddrick, Clondalkin, Dublin
+C: North-north-west-facing section. D: North-facing section.
+E: South-east-facing section.
+-Sections of filis in the barrow ditch.
+Fl8 was dismantled to reveal F51, a small patch of
+fire-reddened clay measuring 0.4m east/west by 0.25m
+north/south by 0.02-0.03m thick, on the base of the
+barrow ditch. However, no deposits of cremated bone
+or any finds were revealed under or adjacent to Fl8. A
+small charcoal stain, Fl9, revealed immediately to the
+east of Fl8 was found to be within Fl7, the basal silt
+fill.
+A large limestone block, F21, was uncovered some
+0.5m to the east of Fl 8. It was shaped almost like a seat,
+measuring 0.43m in width and 0.8m in height. Its full
+dimensions were not determined as it was found to
+extend beyond the edge of the barrow ditch cut. It
+would thus appear that this naturally occurring large
+limestone boulder was uncovered by the original dig
+gers of the barrow ditch, who split it, giving the boul
+der its chair-like appearance.
+Two further stone features were revealed at the base
+of the northern area of the barrow ditch. F22, a medi
+um-sized sub-angular limestone boulder, measured
+0.3m east/west by 0.2m north/south by 0.4m high.
+Some 0.2m east of F22 stood F23, a roughly hewn
+limestone block placed on end at the base of the ditch.
+It measured 0.44m east/west by 0.32m north/south
+with a vertical height of 0.62m. No socket or cavity
+was detected around its base. Although the possibility
+was not considered at the time of excavation, it is plau
+sible that the original diggers of the barrow ditch
+removed F23 from the limestone block F21.
+Fl7 and the stone features at the base of F3 were
+sealed by F14, a thick (0.5-0.8m) deposit made up of
+several lenses of greyish-brown silty clays. Towards the
+centre of F3 there was a particular concentration of
+small rounded pebbles and medium-sized stones, indi
+cating a natural and gradual process of silting. It appears
+from the section profiles that material was washed into
+Fl4 from both sides of the ditch cut.
+Fl4 was sealed by F8, a greyish-brown clay silt with
+frequent inclusions of small to medium-sized rounded
+and angular stones and occasional charcoal flecking. A
+characteristic of this fill was the presence of fragments
+of crushed mollusc shells, particularly at the base of the
+deposit. F8 had a maximum depth of approximately
+0.3m at the centre of the ditch; it was less thick at the
+edges of the F3 cut and was found throughout the
+entire circumference of the ditch.
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+50 Ion W.Doyle
+Phase III. Later Bronze Age activity
+F8 was overlain by one of the main upper fills in the
+ditch, F7 (Fig. 5). This deposit of mid-dark brown silty
+clay, 0.2-0.4m deep, with occasional small to medium
+sized stones and occasional fragments of animal bone,
+extended through the entire circumference of the ring
+barrow ditch. Fragments of a human adult skull were
+retrieved from this deposit on the western side of the
+ditch. The skull had a weathered appearance and may
+have been exposed prior to burial. One fragment was
+dated by radiocarbon analysis to 2695?40 BP (GrA
+18045, 911-802 cal. BC at 2 sigma) and thus can be
+assigned to the later Bronze Age. No trace of a pit or
+cut associated with its insertion into deposit F7 was
+detected.
+Directly above F7 and underneath F4 (one of the
+uppermost fills) a small area of m situ burning, FI 1, was
+noted in the north-eastern area of the barrow ditch. It
+consisted of an upper spread of brown-grey clay with
+frequent charcoal inclusions overlying a pinkish-red
+oxidised clay area and measured 1.56m north/south by
+0.9m east/west with a maximum depth of 0.1m. A
+single cremated bone fragment was recovered from this
+deposit.
+The barrow interior: cremation features
+The barrow ditch enclosed an area approximately 7.5m
+in diameter (Pl. 1; Figs 3, 7), within which were
+revealed what are described as cremation features.
+These were initially visible as patches of softer, water
+retentive soils, some with occasional flecks of cremated
+bone. The earliest of these cremation features appears to
+be cut F91, which was found at the centre of the bar
+row and measured 1.3m north-east/south-west by
+0.5m south-east/north-west by 0.8-0.9m deep. The
+cut was irregularly shaped, with a sloping western side,
+vertical southern and eastern sides, and the northern
+edge undercut or sloping outwards (Figs 3,6 E?F).The
+primary fill of this cut, F87, was a moderately compact
+light brown clay with occasional small stone inclusions.
+It contained a high concentration of cremated bone
+pieces and charcoal fragments. The bone was efficient
+ly cremated and had been crushed into small fragments,
+which hindered identification. A sherd of what appears
+to be early Bronze Age/late Neolithic pottery (Appen
+dix I, 00E0448:5) and a small black glass bead
+(00E0448:4) were retrieved from this fill. A sample of
+cremated bone from F87 was dated by radiocarbon
+analysis to 2745?40 BP (GrA-18015,992-822 cal. BC
+at 2 sigma).
+F87 was sealed by F84, a very compact grey clay
+with frequent small stone inclusions which filled the
+upper part of cut F91 and appeared to overlie it at the
+top. This deposit measured 1.3m east/west by 1.2m
+north/south by 0.15m deep, ranging to 0.7m deep in
+Fig. 6?Sections of cremation features F77, F9 ? and F78.
+the F91 cut. It appeared to be redeposited natural clay.
+The assertion that F91/F87 is the earliest of the
+cremation features is based on two separate stratigraph
+ie relationships recorded during the excavation. The
+deposit of compact redeposited natural clay F84 was
+partly removed by cremation cut F78 to the east and by
+cut F77 to the west.
+F77, a shallow depression, was cut into natural sub
+soil and also into F84 (Figs 3,7,6 F). It measured 1.5m
+north/south by 0.8m east/west by 0.29m deep, with
+gently sloping sides and a flat base. Its lower and main
+fill was F39, a moderately compact dark brown sandy
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+Excavation of a prehistoric ring-barrow at Kilmahuddrick, Clondalkin, Dublin 51
+clay with frequent inclusions of cremated bone frag
+ments and small stones. This cremation appears to rep
+resent the remains of a single individual. A sample of
+the cremated bone was dated by radiocarbon analysis
+to 2760?50 BP (GrA-18288, 1012-819 cal. BC at 2
+sigma). F25, the upper fill of cut F77, was a dark
+brownish-black sandy clay with frequent dense inclu
+sions of cremated bone fragments, some in a weathered
+or powdered state. This deposit measured 0.72m
+north/south by 0.52m east/west by 0.1m deep.
+The north-eastern cremation pit, F78, also appeared
+to cut F84, even if only slightly. Before excavation, fill
+F79 appeared as a slightly darker patch of moisture
+retentive clay, without any visible flecks of charcoal or
+cremated bone (Figs 3, 7, 6 G). Upon excavation F78
+was revealed to be an elongated pit with sloping sides
+on the north, east and south. Its western side had a
+gentle slope at the top but broke into a steep-sided
+slope halfway down. The base was rounded, giving an
+almost 'V-section' appearance to the feature. The cut
+measured 2.1m north/south by 1.2m east/west by
+0.64m deep. Its fill, F79, was moderately compact mid
+brownish grey clay with moderate inclusions of cre
+mated bone and occasional inclusions of charcoal and
+small stones.
+On the basis of the radiocarbon dates from deposits
+F87 and F39 it appears that the cremated remains date
+from the later Bronze Age. The thorough crushing of
+the cremated human bone is in accordance with funer
+ary practices from the middle to later Bronze Age
+(Appendix II). A limited range of macroscopic seed
+remains were recovered from the cremation features,
+although the charcoal identified from F39 included
+elm, hazel, alder and ash.
+Phase IV. Iron Age activity
+The uppermost fills in the barrow ditch were F4 and
+F5 (Figs 5, 7), which overlay F7. F4 was a dark brown
+clay with frequent charcoal flecks. It was approximate
+ly 0.9m wide with a typical depth of 0.17-0.2m, and
+contained occasional pebbles and small stones and
+occasional fragments of cremated bone. It was present
+on the northern and western sides of the ditch fill but
+its interface with F5 at the south-east was difficult to
+discern. F5, which also overlay F7, was similar in com
+position to F4?mid- to dark brown clay with occa
+sional very small cremated bone fragments mixed
+throughout?and was approximately 0.8-1 m wide
+with a depth of 0.06-0.12m. It differed from F4 in
+containing a greater amount of charcoal and occasion
+? F7 ~^?^ ^
+F7 ^^^^ \
+0. _ M?m
+fig. 7?P/on of the ring-borrow before excavation.
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+52 Ion W.Doyle
+al pieces of heat-shattered stone. F5 was only detected
+in the south-eastern area of the ring-barrow. While
+both F4 and F5 contained occasional flecks of cremat
+ed bone, no discrete clusters of cremated material or
+burials were noted. A sample of cremated human bone
+from F5 was dated by radiocarbon analysis to 2175?40
+BP (GrA-18014, 373-111 cal. BC at 2 sigma).
+Two areas of oxidised clay were noted on the sur
+face of F4. At the west of the barrow ditch was F6, a
+patch of fire-reddened clay measuring 0.95m east/west
+by 0.85m north/south with a maximum thickness of
+0.07m. Adjoining this at the south-west was a small
+patch of charcoal, 0.3m east/west by 0.45m
+north/south. A second area of burning on the surface
+of F4 was noted in the northern area of the ditch fill.
+This was F9, a small patch of charcoal, 0.28m east/west
+by 0.25m north/south by 0.06m deep.
+Additional activity, which can be dated to the Iron
+Age, includes F69, a deposit of cremated and non
+cremated bone that was disturbed by the digging of the
+linear field boundary F34 to the south of the ring
+barrow. Deposit F69, 0.98m north/south by 0.35m
+east/west by 0.05m deep, was a moderately compact
+dark brown charcoal-flecked sandy clay with occasional
+small fragments of burnt and unburnt bone. A single
+fragment of a heat-cracked amber bead (00E0448:3)
+was retrieved during sieving. The non-cremated
+material and most of the cremated material from F69
+was animal bone, but a few fragments of human bone
+were also present. A sample of the cremated human
+bone was dated by radiocarbon analysis to 2230?50 BP
+(GrA-18160, 393-192 cal. BC at 2 sigma).
+Some 0.8m to the south of F69 a similar deposit
+was revealed. F70 consisted of a moderately compact
+dark brown charcoal-flecked sandy clay with occasion
+al small fragments of burnt bone. It measured 0.86m
+north/south by 0.44m east/west by 0.06m deep, and it
+too appeared to have been disturbed by F34.
+Phase V. Early medieval field system
+A series of linear features were found on the western and
+southern sides of the ring-barrow (PI. 3; Fig. 8). Trench
+B, opened in an adjoining field to the east of the ring
+barrow, detected a continuation of these features. Taken
+as a whole, the evidence suggests that the barrow was
+enclosed in what appears to be a coaxial field system, as
+represented by the linear features F26, F34 and F88, as
+well as Fl 17 from Area B.A radiocarbon date from strat
+ified animal bone indicates that this complex can be
+assigned to the early medieval period.
+In Area A, linear feature F26 consisted of an
+east/west-aligned shallow cut into natural subsoil (Fig.
+8). It was found some 3.6m west of the ring-barrow
+ditch and extended westward for a length of 41m. It
+had sloping sides with a rounded, concave base and was
+0.8-1 m wide. Its depth varied, ranging from 0.29m at
+the east to approximately 0.12m at the west. The fill,
+F12, was consistent throughout, made up of a moder
+ately compact mid-brown clay with moderate inclu
+sions of small stones and occasional charcoal flecking.
+A small spur-like projection excavated on the northern
+side of F26 had the same fill, i.e. F12.This projection
+measured 2.3m south-east/north-west and was 1.2m
+wide, narrowing to 0.2m to the north. While F26 was
+approximately 41m long, its orientation changed mid
+way. Its eastern half was orientated east/west, but its
+western half turned slightly to run south-west/north
+east. The eastern termination of F26 was 2.5m west of
+a second linear feature, F34.
+F34, running on a north/south axis, was exposed
+for a length of 36.5m immediately west of the ring
+barrow ditch F3. It was a shallow, steep-sided cut into
+natural subsoil with a rounded base and ranged in
+width from 0.4m to 1.1m, being narrowest at the
+southern termination. Its fill, F29, was a moderately
+compact light brown clay containing occasional small
+to medium-sized stones, occasional flecks of charcoal
+and pieces of animal bone. A sample of this animal
+bone was dated by radiocarbon analysis to 1060?50 BP
+(GrN-26321, cal. AD 877-1147 at 2 sigma). Accord
+ingly, it can be argued that the field system represented
+by these linear features can be dated to the early
+medieval period.
+A distance of approximately 0.2m separated the
+eastern edge of cut F34 from the western edge of F3,
+the ring-barrow ditch cut. There was a slight kink in
+F34 to the north of where it skirted F3.This suggests
+that the barrow was an upstanding visible feature in the
+landscape and that the diggers of the linear feature
+made an effort to avoid it. At this point F34 cut an
+earlier feature, F45, a compact mid-brown sandy clay
+deposit measuring 1.3m north/south by 0.7m
+east/west by 0.2m deep.
+Some 4.5m to the south of the terminus of F34 an
+east/west-orientated linear feature, F88, was revealed,
+running for approximately 30m at a right angle to F29.
+It was an irregularly shaped cut into natural subsoil
+running predominantly on an east/west axis, with a
+spur-like projection to the north, in the direction of
+F34, midway along its length.The projection measured
+approximately 4m north/south. At this point F88
+changed direction slightly, to run south-west/north
+east for 6m. Its western portion resumed an east-west
+alignment, terminating in a rounded point.The sides of
+F88 sloped to meet a rounded, sometimes uneven base.
+It was around 0.25m deep, with the depth increasing
+towards the centre of the cut to 0.45m. It was filled
+with F89, a homogeneous moderately compact light
+brown clay with frequent inclusions of small stones and
+occasional charcoal flecks.
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+Excavation of a prehistoric ring-barrow at Kilmahuddrick, Clondalkin, Dublin 53
+0E/10N
+Fig. 8?Pian of the linear features
+associated with the ring-barrow.
+Miscellaneous features
+Possible post-holes
+Several features that cannot be linked into a wider
+stratigraphie sequence were excavated next to the ring
+barrow. A geological feature, F50, a seam of orange
+brown heavy clay, ran for a length of approximately
+25m north-west/south-east and was cut by F76, a
+modern engineering test pit. The exposed section face
+provided by F76 showed F50 to be 1.1m deep and
+reaching to bedrock. Two modern agricultural features
+that may have been the result of ploughing, F74 and
+F75, cut across F50 in this area. F50 was also cut by the
+ring-barrow ditch F3.
+A cluster of possible post-holes, F55, F56, F57 and
+F59, were revealed adjacent to F50 as darker, moisture
+retentive patches within the natural subsoil. No archae
+ological material was recovered from any of the
+suggested post-holes and they remain suspicious as
+archaeological features.
+A concentration of similar features?F42, F43, F44
+and F47, shallow depressions into natural subsoil?was
+revealed in the eastern part of the barrow interior.
+Pits
+Several pits were excavated close to the ring-barrow.
+No stratigraphie link is apparent between any of these
+isolated features and the ring-barrow.
+Pit F64 was located outside the south-eastern edge
+of the ring-barrow ditch cut (Figs 7, 9 -K). It had
+sloping sides and a rounded base, and measured 3.65m
+north-east/south-west by 0.75m north-west/south
+east. The lower fill, F68, consisted of dark greyish
+brown stony clay slumped against the western edge of
+the cut. This had a maximum vertical thickness of
+approximately 0.44m. The main fill of pit F64 was F63,
+a compact grey-yellow clay, approximately 0.3-0.35m
+deep, with occasional inclusions of small stones. F63
+was sealed by F62, a moderately compact grey clay with
+occasional flecks of oxidised clay, which measured
+0.43m north/south by 0.34m east/west by 0.07m deep.
+The upper fill was F37, a moderately compact light
+greyish yellow stony clay, 0.46m thick, with occasional
+patches of oxidised clay throughout.
+F37 was cut by a small pit, F60, containing oxidised
+clay and charcoal flecks and measuring 0.61m
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+54 lan W.Doyle
+north/south by 0.5m east/west by 0.32m deep.This did
+not appear to be in situ burning. A second small patch
+of oxidised clay, F38, measuring 0.2m north/south by
+0.18m east/west by 0.03-0.04m deep, was noted to the
+east of F60.
+F58, a small subcircular pit measuring 0.47m
+north/south by 0.39m east/west by 0.25m deep, was
+uncovered to the north-west of the ring-barrow, 5.5m
+from the outer edge of F3. Its fill consisted of a loose
+ly compact mid-brown sandy clay containing fibrous
+root matter and occasional small stones. The pit had
+vertical sides and a rounded base. A small stone object
+(00E448:7) with a central depression was recovered
+from this pit.
+A second pit, F83, was excavated some 4.2m from
+the western edge of F3. It was sub-oval in shape, with
+a gradually sloping western edge, a vertical eastern edge
+and a flat base. It measured 2.48m north-west/south
+east by 1.22m north-east/south-west by 0.6m deep and
+contained two fills. The upper fill, F86, was a moder
+ately compact yellow-brown sandy clay with occasion
+al inclusions of small stones and flecks of charcoal and
+a maximum depth of 0.42m. The lower fill, F86, was a
+moderately compact reddish brown clay with occa
+sional inclusions of small stone and charcoal flecks and
+a maximum depth of 0.21m.
+To the south-west of the ring-barrow, at a distance
+of 9.5m from the barrow ditch, a modern feature, F90,
+was excavated. It was a narrow linear feature that ran
+into the western baulk. A small sherd of weathered
+medieval pottery and a clay pipe fragment (00E448:1
+and 2 respectively) were recovered from its fill, F71.
+Area
+This area lay approximately 45m to the south-east of
+the ring-barrow (Figs 2, 10). During the pre-excava
+tion archaeological assessment a metalled surface and
+two charcoal spreads were revealed.
+In September 2000, to follow up on the results of
+the archaeological assessment, a larger trench, referred
+to as Area B, was opened. It was irregular in shape and
+approximately 40m long. The main discovery in the
+Area trench was a continuation of the field bound
+ary system as initially revealed in Area A to the west. A
+series of metalled surfaces and several post-holes were
+also excavated.
+A linear field boundary cut, Fl 17, which appears to
+be a continuation of the phase IV field boundary sys
+tem encountered in Area A, was uncovered (Figs 10,11)
+and was traced for a distance of 11m east/west. In the
+western part of the trench it extended to the north.
+Enlargement of the northern part of trench detect
+ed Fl 17 sealed under the metalled surface F104. Fl 17
+thus had a northern length of 19.2m as exposed.
+Sections excavated through Fl 17 revealed it to be
+U
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+Excavation of a prehistoric ring-barrow at Kjlmahuddrick, Clondalkin, Dublin 55
+Fin L fio:
+I %\ F105
+l.VI Cl
+Fl 16
+un
+f114
+f113 ^112
+F106
+Bl
+a cut with sloping sides and a flat base, varying in depth
+from 0.4m to 0.6m. It was filled with F105, a homo
+geneous, moderately compact light brown sandy clay
+with occasional small stones and charcoal flecks.
+A cluster of cut features and a hearth were revealed
+to the south of Fl 17. The hearth, F102, consisted of a
+thin lower spread of charcoal, approximately 0.01m
+deep, covered by a patch of oxidised fire-reddened clay.
+It measured 1.17m east/west by 0.58m north/south by
+0.08m deep. A shallow spread of charcoal and fire
+reddened clay, no more than 0.05m thick, extended out
+to the west of this feature for 1.1m north/south by
+0.8m east/west. A cluster of four post-holes, Fl 15,
+Fl 12, Fl 13 and Fl 14, lay approximately 4m to the
+south of Fl 02.
+A linear feature, Fl 16, was excavated 2m to the
+south of the hearth and was traced for a length of
+4.51m before becoming difficult to detect. It consisted
+of a steep-sided gulley with a rounded base, running
+east/west. It was 0.21m deep and was filled with a light
+orange-yellow clay with frequent pieces of decayed
+stone and occasional flecks of charcoal. It appeared to
+turn in a northerly direction at its western end, but it
+became difficult to detect at this point. No finds were
+recovered from this feature.
+FINDS
+The finds listed below were recovered during the exca
+vation and all are from Area A (Fig. 13). A description
+of the prehistoric pottery sherd (00E0448:5) is given in
+Appendix I.
+Ceramic
+00E0448 Small weathered sherd of Dublin
+type glazed ware; 17mm 15mm 5mm thick. Thir
+teenth?fourteenth centuries AD.
+Fill F71 of linear cut F90.
+00E0448:2 Small fragment of clay pipe bowl;
+17mm 16mm 2mm thick.
+F?l F71 of linear cut F90.
+Metal
+00E0448:6 Small iron pin, corroded; 56mm
+8mm 5mm thick.
+Fill F29 of linear feature/field boundary F34.
+Fig. 10?Plan of Area showing excavated features. Stone
+00E0448 Flat stone with central depression;
+21mm 18mm 7mm thick. Oval central depression
+measures 14?16mm across with a depth of 2mm.2
+F58 pit/post-hole.
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+56 lan W.Doyle
+A: South-facing profile through F108.
+A Al
+_>_ 67.07m
+7108
+B: North-facing profile through F106.
+Bl 66.79m
+; - tv
+F106
+C: West-facing section through Fl 17.
+C Cl
+" 66.54m
+D: West-facing section through Fl 17.
+D Dl
+E: West-facing section through Fl 17.
+E El
+1 66.84m
+. F105
+_*_^^r 117
+Fig. i i ?Sections through excavated features from Area ?.
+Beads from cremation contexts
+00E0448:3 Fragment (approximately two thirds)
+of heat-shattered cylindrical amber bead with central
+perforation. External diameter 5mm, internal diameter
+2mm.
+Cremated deposit F69.
+00E0448 Complete cylindrical black glass
+bead with central perforation. Part of the surface is blis
+tered, probably from heat. The bead may originally have
+been yellow. External diameter 3mm, internal diameter
+1.5mm.
+Cremated deposit F87.
+DISCUSSION
+The ring-barrow site type is characterised by the pres
+ence of a 'low, artificial central mound' (Newman 1997,
+155), with or without a circular ditch from which the
+central mound was created. An outer bank is also a
+North-facing section through Fl 17.
+-H?*??_-?f?^4?-A
+South-facing section through Fl 17.
+Gl
+feature of certain barrow types. In a review of Irish
+archaeological literature for this monument type New
+man sought to redefine the nomenclature used to
+describe circular prehistoric burial monuments. It was
+suggested that the absence of a mound or raised area
+composed of redeposited material warranted the use of
+the term ring-ditch, whereas if an outer earthen bank
+was present the term 'embanked ring-ditch' was appro
+priate (ibid., 153-60).
+Such a system poses problems for field survey and
+for excavation. The Kilmahuddrick monument was
+extensively ploughed in antiquity and no trace of the
+monument was indicated on the Ordnance Survey
+mapping, dating from the mid-nineteenth century. A
+small test trench excavated through the centre of the
+monument during the assessment phase failed to detect
+any significant difference between the plough soil and
+any potential central mound remnant. However, the
+term ring-barrow is preferred and employed for the
+Kilmahuddrick monument on two grounds. Firstly, the
+sheer size of the ditch cut F3 is important. The ring
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+Excavation of a prehistoric ring-barrow at Kilmahuddrick, Clondalkin, Dublin 57
+Monuments
+=> Earthwork ? Mound ? Ringfort (rath \ cashel)
+Enclosure ? Passage-tomb Standing stone; Standing stone - pair; Stone circle
+A Fulacht fiadh (O) Ring-barrow
+Fig. 12?Surrounding archaeological sites (Ordnance Survey Ireland permit no. 7250).
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+58 lan W.Doyle
+Pl. 3?Ring-barrow after excavation viewed from the north-east The linear features/field system can be seen to the west
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+Excavation of a prehistoric ring-barrow at Kilmahuddrick, Clondalkin, Dublin 59
+barrow ditch had an external diameter of 12.2m
+north/south and 12.4m east/west, a width of approxi
+mately 2.3-2.5m at the top, narrowing inwards to
+approximately 0.25?0.3m wide at the base, and a depth
+of 1.6-1.7m below the level of natural subsoil.The cre
+ation of such a ditch required the removal of a sub
+stantial quantity of spoil, making the deposition of
+some of this in the centre of the area enclosed by the
+ditch quite likely.
+Furthermore, examination of the sections recorded
+through the ditch fills indicates silting and slumping
+from the inner and outer sides of F3.The ditch fill F14,
+in particular, appears to be the result of natural slump
+ing or infilling from both sides of the ditch. There is
+thus a case for arguing for a central mound of re
+deposited material that would originally have been
+excavated from the ditch. It is also possible that there
+was a similarly composed small bank outside the F3
+ditch.
+Chronology and stratigraphy
+The dating of the sequence of activity is largely based
+on radiocarbon dates and stratigraphie relationships
+owing to the absence of diagnostic artefacts. Some
+eight radiocarbon dates were obtained from the ditch
+fills and from cremated bone samples. What is immedi
+ately obvious from examination of the dates is the rel
+atively early nature of the sample from the in situ
+burning F30 at the base of the barrow ditch (Fig. 3).
+This date of 3790?40 BP (GrA-17925,2398-2047 cal.
+BC) from ash tree charcoal falls at the very earliest
+stages of the Bronze Age and is within Brindley's so
+called Introductory Phase of the Bronze Age (Brindley
+1995).With reference to Kilmahuddrick, this date from
+F30 is almost a millennium earlier than the main body
+of dates from the site. An unclear impression of the ear
+liest activity arises when the date from F17, the layer of
+basal silting in the barrow ditch, is considered. Small
+flecks of oak charcoal from Fl7 dated through the
+AMS method produced date GrA-17924 of 2885?40
+BP (1208-935 BC).While the potential for movement
+of such small charcoal flecks into Fl 7 needs to be con
+sidered, the date from the charcoal of the in situ burn
+ing F30 still appears to be relatively early in comparison
+with the rest of the activity on the site. It is notewor
+thy that no diagnostic cultural material from the early
+Bronze Age was recovered on site and moreover the
+character and dating of the cremations also appear to be
+later. In the light of this it is plausible that the early
+Bronze Age date from F30 may represent old wood.
+Alternatively, the later Bronze Age cremations may rep
+resent the reuse of an earlier monument.
+The presence of the stone features at the base of the
+ring-barrow ditch F3 is of some interest. The oxidised
+clay on the surfaces and immediately surrounding the
+large limestone blocks Fl5 and Fl6 was clearly the
+result of in situ burning (Figs 3, 4 C-D). While the
+background to this, i.e. either ritual or domestic, is
+unclear, it is obvious that it took place relatively early
+in the sequence of activity in the ditch. Episodes of
+burning in barrow ditches are known from elsewhere
+in the archaeological record. Fires were lit in the ditch
+of Tumulus 6 at the barrow cemetery of Carrowjames
+II, Co. Mayo, when the ditch was half-full of silt
+(Raftery 1940-1, 26-7, fig. 7). Tumulus 7 at Carrow
+james II also possessed evidence for burning in the
+fosse, which similarly took place when the ditch was
+half-silted (ibid., 27).What are described as 'large blocks
+of limestone' that had been pushed into the ditch silt
+were also present in the ditch of Tumulus 7 (ibid.).
+Unlike Kilmahuddrick, none of the fires or stones from
+the barrows at Carrowjames II were stratigraphically
+early in the sequence of ditch silting or filling. Both
+Tumuli 6 and 7 at Carrowjames II were seen by the
+excavator as the earliest in the cemetery (ibid., 49). Both
+barrows could date from the early Bronze Age and
+morphologically both can be classed as bowl-barrows
+(Waddell 1990,115; Newman 1997,166-7).Both con
+tained unaccompanied cremations.
+The Kilmahuddrick 'cist-like' structure, Fl8, which
+was found at the base of the northern portion of the
+barrow ditch, is quite unusual. It was constructed of
+inward-leaning large stones, topped with a central
+stone (PL 2; Figs 3-4B).When dismantled, it was found
+to be empty. A small patch of oxidised clay was found
+under the stones. Like Fl6 and Fl5, Fl8 appears to be
+quite early in the sequence of activity in the barrow
+ditch. Although it is not typical of cist structures from
+the prehistoric period, the lack of cultural material
+within it can be paralleled. The excavation of a cairn at
+Moneen, Co. Cork, revealed a circular ditch dating
+from the late Neolithic period that was associated with
+several cists. One of these, cist no. 3, was found to be
+empty but was not, however, similar in construction to
+the Kilmahuddrick example (O'Kelly 1952).
+Layers of sterile in-washed material, F24 and F14,
+accumulated over the stone features at the base of the
+Kilmahuddrick barrow ditch. These layers appear to
+represent natural silting, possibly from erosion of the
+sides of the ditch cut or potentially from an associated
+mound or bank (Fig. 5). The layer above this, F8, was
+also a layer of silts containing occasional fragments of
+animal bone, but the presence of lenses of mollusc
+shells may indicate standing water or waterlogging of
+the ditch for part of the year. One of the upper ditch
+fills, F7, a mid-dark brown silty clay, produced a date in
+the later Bronze Age, 2695?40 BP (GrA-18045,
+911-802 cal. BC), derived from a fragment of human
+skull. What is striking about this is that while the
+dating of the skull portion is broadly contemporary
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+60 lan W.Doyle
+Fig. 13?Ceramic, iron, stone, amber and glass artefacts.
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+Excavation of a prehistoric ring-barrow at Kilmahuddrick, Clondalkin, Dublin 61
+with the two radiocarbon dates from the cremations at
+the centre of the barrow (F39 and F87), over lm of silt
+had accumulated in the barrow ditch by this time. This
+raises the question as to whether or not the dated cen
+tral cremations F87 and F39 were primary, and it would
+suggest that the early Bronze Age radiocarbon date
+from F30 at the base of the ditch may be less influenced
+by any old wood effect. In such a scenario the two
+dated cremations F87 and F39, as well as cremation
+F79, which was not dated, may be considerably later in
+date than the actual barrow ditch and the initial activ
+ity represented therein by F30. Ritual activity in such
+a sequence would include the f?res F30 and F31 as well
+as the stone cist structure Fl8. In this case, given the
+absence of any dated burial from the period, the possi
+bility of a cenotaph function could be considered. As
+such, the creation of a barrow ditch and the raising of
+a mound could be seen as an act of commemoration
+that need not have required the placing of human
+remains therein (Woodward 2000, 49-50). In the Irish
+archaeological context, the lack of human remains in
+the barrows of MitchelstowndownWest, Co. Limerick,
+prompted Daly and Grogan to propose a similar argu
+ment (1993). The vast majority of barrows in this area
+of Limerick would normally be accepted as middle
+Bronze Age in date (Cooney and Grogan 1999, 30-1).
+The upper layers of the barrow ditch consisted of
+F4 and F5 (Figs 5, 7). Neither layer contained concen
+trations of cremated bone but occasional flecks were
+mixed through both deposits. Some small fragments of
+cremated human bone from F5 were radiocarbon
+dated. Date GrA-18014 of 2175?40 BP (373-111 cal.
+BC) indicates early Iron Age activity. The lack of dis
+crete deposits of cremated bone may suggest that the
+deposits derive from disturbed contexts, perhaps from
+the levelling of a central mound containing cremated
+material. It is noteworthy that F5, a fill on the southern
+side of the barrow ditch, contained occasional frag
+ments of heat-shattered stone reminiscent of the ma
+terial associated with fulachta fiadh. Significantly, a
+trough from a fulacht fiadh was excavated some 200m
+to the south of the barrow (Doyle 2002, 74-5), and it
+is possible that debris from this fulacht fiadh was incor
+porated into the fill of the ring-barrow ditch. Alterna
+tively, this heat-shattered stone may be associated with
+domestic activity in the vicinity. Such domestic activi
+ty can be inferred from animal bone recovered from
+upper ditch fills, which was of low meat value and
+much of which had been split to extract marrow. The
+deposition of such refuse in what could be considered
+a sacred space may have formed part of ritual practice.
+Human remains
+Analysis of two of the central cremation deposits has
+indicated later Bronze Age dates. Cremation deposit
+F87, at the centre of the barrow interior, sat within pit
+F91 (Fig. 3), an irregularly shaped cut into natural sub
+soil with undercut edges and oddly sloping sides. The
+bone from this deposit was highly comminuted, with
+over 80% of the sample crushed to less than 10mm in
+size. It had been efficiently cremated, and fragments of
+human skull, leg, pelvis, rib and vertebrae were identi
+fied. A juvenile may have been present in this crema
+tion (Appendix II).A small sherd of pottery (00E448:5)
+retrieved from this cremation appears to represent an
+element of a Beaker or Food Vessel (Appendix I) and
+would accordingly be assigned to the later Neolithic or
+early Bronze Age (Fig. 13). However, radiocarbon
+dating places cremation F87 in the later Bronze Age.
+Date GrA-18015 of2745?40 BP calibrates to 992-822
+BC. An intact glass bead was also recovered from this
+cremation (00E448:4). The bead, which is heat-blis
+tered and discoloured to black, may originally have
+been yellow (Fig. 13). It is comparable to Guido s Class
+8, of which several examples have been identified in
+Ireland at sites such as at Loughey, Co. Down, and
+Ferns, Co. Wexford. At both of these sites, and indeed
+from the wider British evidence cited by Guido, these
+beads appear to date primarily from the early Iron Age,
+specifically the third to first century BC (Guido 1978,
+75; J. Carroll, pers. comm.). It is worth noting, how
+ever, that glass beads have been recovered from possible
+later Bronze Age contexts at Haughey's Fort, Co.
+Armagh, and at Rathgall, Co.Wicklow (Mallory 1995,
+81; B. Raftery 1987).
+F77 contained the fills F25 and F39 (Figs 3,7).This
+cremation feature was immediately obvious during the
+early stages of the excavation and consisted of a com
+paratively shallow cut into natural subsoil that was filled
+with cremated bone fragments. It was stratigraphically
+later than cremation feature F91/F87. Given the rela
+tively shallow nature of F77, it is possible that it was
+inserted through a mound, which was later removed.
+Analysis of the human remains from this cremation
+found little difference between fills F25 and F39 and it
+was suggested that one individual was represented in
+both deposits. The cremation cut F78 was an oblong
+cut into natural subsoil with inward-sloping sides.
+Unfortunately the bulk sample from this context was
+destroyed during a break-in and fire at the site accom
+modation during the excavation.
+The manner in which the human remains were
+deposited differed in the case of each cremation
+feature. This lack of uniformity may indicate some
+element of social meaning, given the varying treatment
+of the cremated material. It is interesting, however, that
+deposit F87 was capped with a layer of redeposited nat
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+62 lan W.Doyle
+ural subsoil, F84, which effectively sealed the crema
+tion. No such sealing layer was noted for any of the
+other cremation fills. The cremation pits F77 and F78
+cut this sealing layer. In general the human remains
+from Kilmahuddrick are in keeping with the charac
+teristics of known later Bronze Age cremations in Ire
+land. During the middle and later Bronze Age there is
+a move towards unaccompanied cremations, often
+characterised by the highly crushed or comminuted
+nature of the bone deposit. Such deposits are frequent
+ly described as token as only a portion of the cremat
+ed skeletal remains are placed in the grave. The
+Kilmahuddrick deposits are typical of such practices as
+approximately 800g of bone were recovered from F39
+and F25 and some 200g from F87. Typically some
+1,600-3,OOOg would be expected from a full adult cre
+mation (Appendix II). The presence of a sherd of pot
+tery from F87 is not unusual as the placing of sherds of
+pottery in such deposits is a known practice (Cooney
+and Grogan 1999,135).This change in burial practices
+from the middle Bronze Age onwards, such as the
+absence of grave-goods, the demise of urn burials and
+the token and comminuted nature of the bone deposit,
+has been commented upon by several writers (ibid.,
+135-6; Waddell 1998, 161). The recovery of a propor
+tional grave deposit can be seen as the most archaeo
+logically visible component of a funerary practice that
+involves the preparation of a body, its cremation, the
+collection of the cremated remains, the crushing and
+comminuting of the deposit, and potentially the sepa
+ration of the deposit into a portion for burial and
+another portion for other, little-understood purposes.
+Attempts have been made to link the deposition of
+token cremated remains with the placing of sherds of
+pottery representing part of a ceramic vessel in the
+grave (Cooney and Grogan 1999,136).
+The recovery of part of a human skull from the
+upper fill, F7, of the ring-barrow ditch is significant.
+The ritual deposition of a portion of a human skull can
+be paralleled in a range of later prehistoric sites in Ire
+land (Appendix II; Cooney and Grogan 1999, 146-8,
+230-1; Murray 1992; Newman 1997, 240). The
+Kilmahuddrick skull remains comprise 21 fragments
+from the back of a human adult skull. The skull
+appeared quite weathered and may have been curated
+or exposed prior to its incorporation in ditch fill F7. A
+fragment of the skull was dated in Groningen and
+returned a date of 2695?40 BP (GrA-18045, 911-802
+cal. BQ.This is broadly contemporary with the dates
+from the central cremations F87 and F39, yet, as the
+skull fragments were dated rather than the deposit, the
+radiocarbon result may not give an entirely accurate
+date for the deposit. It is likely that the ditch fills were
+subject to waterlogging during parts of the year, as evi
+denced by the sequence of fills and the presence of
+mollusc shells. This is of note given the wet locations
+for several later prehistoric human cranial fragments
+and the general significance of such contexts through
+out later prehistory (Cooney and Grogan 1999,146?8).
+Further fragments of cremated bone were retrieved
+in small quantities from the upper ditch fills (F4, F5, F6,
+F7, F8, Fll), yet there was no clustering of such cre
+mated material as to indicate discrete individual buri
+als. The impression formed from this pattern is that
+such small quantities may represent disturbance from
+elsewhere. However, the charcoal-rich features F6, F9
+and Fll appear to represent in situ burning activity.
+Enclosing field system
+The ring-barrow was enclosed within a series of shal
+low linear cut features (PL 3; Fig. 8).These, it is argued,
+represent the backfilled remains of a field system. F26
+ran east/west, F34 ran north/south, and F88 and Fl 17
+both ran east/west. Taken as a whole, this field system
+appears to be coaxial, with the ring-barrow enclosed
+within. The field to the south-west of the ring-barrow
+would accordingly measure approximately 41m
+east/west by 36.5m north/south. The depth of these
+linear cuts as excavated appears quite shallow, varying
+from 0.2m to 0.4m. Nonetheless, when the true depth
+of a cut through topsoil and the possibility of a bank
+formed from the upcast are allowed for, such features
+could have performed adequately as boundaries.
+Indeed, such bank and trench field boundaries are
+described in an early medieval law-text on farming
+(Kelly 2000,372-3).The use of suitable hedgerow-type
+species could increase effectiveness as a boundary, and
+small amounts of charcoal from potential hedgerow
+species, such as cherry, apple and sloe, were found in fill
+F105 of cut Fl 17 in Area B. This indicates that such
+species were growing at the time the feature was back
+filled.
+The impression gleaned from the excavated evi
+dence is that the linear features post-date the construc
+tion of the ring-barrow. This impression was informed
+during the excavation by the presence of a kink in cut
+F34 at the point where it skirted past the barrow. A
+sample of animal bone from fill F29 of cut F34 was
+dated in Groningen to 1060?50 BP (GrN-26321, cal.
+AD 877-1147), suggesting that the fill of this particu
+lar feature accumulated during the pre-Norman peri
+od. A small piece of iron (00E448:6) from fill F29 also
+suggests the possibility of a date later than the ring
+barrow. It remains an assumption that these field system
+remnants are contemporary with each other, yet given
+the symmetrical arrangement of the linear features this
+would appear likely.
+It remains speculative as to whether such fields were
+intended for pastoral or arable farming, or a mixture of
+both. While it is tempting to consider the subdivision
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+Excavation of a prehistoric ring-barrow at Kilmahuddrick, Clondalkin, Dublin 63
+of land into fields as a consequence of the need for
+agricultural surpluses to feed nearby urban settlements
+such as Clondalkin or even Dublin, it is equally in
+triguing to wonder why such a field system was
+removed from the landscape. It is tempting, but specu
+lative, to associate the removal of this field system, if not
+the ring-barrow, with the arrival of the Cistercians dur
+ing the twelfth century.
+Two small cremations, F70 and F69, were found sit
+ting over fill F29 of field boundary F34. Deposit F69
+consisted of cremated and non-cremated human and
+animal bone. A fragment of a small heat-cracked amber
+bead (00E448:3) was recovered from this deposit dur
+ing sieving (Fig. 13). Cremation F69 was radiocarbon
+dated to 2230?50 BP (GrA-18160, 393-192 cal. BC),
+somewhat earlier than the date derived from animal
+bone within F29.The mixed nature of the F69 crema
+tion may partly account for this as it may have been
+redeposited during the backfilling of field boundary
+F34.
+The landscape context
+The lowland area of south Dublin is extremely likely to
+have been extensively settled during the prehistoric
+period. There is a cluster of ring-barrows in the upland
+areas to the south of Saggart village, specifically in the
+townlands of Lugmore, Crockaundreenagh, Lugg,
+Crooksling and Mountseskin (Stout and Stout 1992,
+12, 32), some 6km to the south of the Kilmahuddrick
+example (Fig. 12). It remains unclear whether the
+Kilmahuddrick barrow is an outlying element of this
+upland cluster. Archaeological sites are more likely to
+survive on the less productive agricultural land in such
+an upland area. Low-lying areas, like Kilmahuddrick
+and Nangor townlands, are more likely to have under
+gone a greater intensity of agricultural activity, result
+ing in the removal of above-ground archaeological
+remains. On the north-eastern side of Saggart Hill the
+prehistoric site in Lugg townland, excavated in 1939,
+would be visible from Kilmahuddrick were it were not
+for the extensive programme of afforestation under
+taken there in the latter half of the twentieth century
+(Kilbride-Jones 1950; RMP DU024-008). This site
+consisted of a circular bank and ditch enclosing numer
+ous post-holes, an area of habitation and a low central
+mound. Two pits containing cremations were found
+under the central mound. Given that the mound
+appeared to derive from a ditch, it is possible to con
+sider this central element of the Lugg complex as a
+ring-barrow, and indeed the excavator himself referred
+to it as a barrow (Kilbride-Jones 1950, 330-1). From
+examination of the sections in the published report it
+is also possible to discern the remains of an external
+bank around the barrow ditch (ibid.,p\. XXXIII). Exca
+vation of the central mound or barrow at Lugg revealed
+cremated human bone and what appear to be sherds of
+later Bronze Age pottery, although at the time they
+were described as being of Iron Age date (ibid., 324-6,
+fig. 2.2, pl. XXVII; B. Raftery 1995,150; Gibson 1995,
+87).The mound at Lugg also sealed a fireplace, and this,
+with the array of pits and surfaces, suggests that the site
+at Lugg had a complex history prior to the raising of
+the central barrow mound.
+While the greater body of evidence from the
+Kilmahuddrick excavations suggests activity during the
+later Bronze Age, the possibility of initial activity
+dating from the early Bronze Age is represented by the
+radiocarbon date from F30 at the base of the barrow
+ditch. This would appear to be quite early for a ring
+barrow in an Irish context, yet it can be argued that rel
+atively few of these monuments have been excavated
+to date in Ireland. However, comparisons with ring
+ditches of so-called cenotaph function in Ireland, such
+as those of the Morningstar Valley in County Limerick,
+show chronological differences. Looking further afield,
+the Buckskin II barrow in Hampshire, England, offers
+an interesting parallel. A cenotaph function has been
+suggested for this barrow as no central cremation was
+associated with the act of barrow creation in phase four
+(i.e. the excavation of the barrow ditch and creation of
+a central mound). Secondary cremations were placed in
+the barrow during the later Bronze Age and Iron Age
+(phase six) (Allen et al. 1995).
+The presence of the barrow at Kilmahuddrick and,
+indeed, those in the wider area to the south indicate
+considerable Bronze Age activity. Such ring-barrows
+provide archaeological evidence for social and ritual
+patterns during the Bronze Age in the area. It is of
+interest that the prevailing burial tradition of the later
+Bronze Age, generally cremation in simple pits, mili
+tates against the discovery and reporting of large num
+bers of burials from this period. It is only comparatively
+recently that new techniques of examining and dating
+cremated human remains have highlighted the scale of
+ritual activity for this period. In contrast, the prevailing
+ritual of the earlier Bronze Age, with a focus on inhu
+mation and accompanied cremation, is more visible and
+therefore more likely to be reported. It is perhaps only
+in recent years that a more complete picture of burial
+in the later Bronze Age has become apparent. To some
+extent this is due to large-scale open-area excavations,
+where large swathes of the landscape have been
+stripped and where small cremations are more likely to
+be recognised.
+The evidence of metalwork has traditionally dom
+inated the archaeological impression of the later Bronze
+Age in Ireland. Metalwork from this period conveys an
+impression of social ?lites, with a focus on weaponry,
+and the ritual deposition of such metalwork, frequent
+ly in wet contexts. From excavations such as Kilmahud
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+64 lan W.Doyle
+drick we can perhaps detect an emerging theme of a
+funerary archaeology in the later Bronze Age landscape.
+ACKNOWLEDGEMENTS
+The writer is grateful to Peter Langford and Donai
+Murphy of Arup Consulting Engineers, as well as Dr
+Reg Shaw of Wyeth Medica Ireland, for their interest
+and cooperation during the course of the excavations.
+The investigations were funded by Wyeth Medica Ire
+land, through Arup Consulting Engineers. Thanks are
+due to Margaret Gowen and Nessa Walsh of Margaret
+Gowen Sc Co. Ltd. Gratitude is due to the excavation
+crew for their dedication and hard work, sometimes in
+difficult circumstances: Claire Breen, Bernice Molloy,
+Kevin Weldon, Kara Ward, Simon Dick,Vicki Herring,
+Raj Naidoo, Johnny Quinlivan, Adam Slater and Enda
+Sweeney. The writer is grateful to Donali Mac Giolla
+Easpaig, Chief Placenames Officer, An Brainse Log
+ainmneacha, for assistance with placenames. The inked
+drawings are the work of Vicki Herring, Fig. 2 was
+finalised by Keiron Goucher, and Figs 1 and 13 were
+kindly completed by Anthony Corns. The writer
+would like to thank the specialists, those who com
+mented on material from the excavation, and also the
+editor and referee for their comments.
+APPENDIX I
+ANALYSIS OF PREHISTORIC POTTERY
+FROM KILMAHUDDRICK
+A.L. Brindley
+One sherd in fragments received for examination from
+an excavation of a ring-barrow.
+Feature F87. Body sherd without features. The sherd is
+in an unwashed condition with surfaces obscured by
+soil. The surfaces appear to be in good condition but
+the fresh breaks are crumbling and the sherd should not
+be handled unnecessarily.3 The sherd has beige surfaces
+and a grey core. Thickness 7mm. The fabric has abun
+dant angular stone grit, chiefly of moderate size,
+although one larger fragment of stone is visible. The
+sherd has smooth surfaces and has no decoration. The
+characteristics of this sherd all point to an early Bronze
+Age date for its manufacture, specifically a Beaker or
+Food Vessel background.
+APPENDIX II
+ANALYSIS OF THE HUMAN BONE FROM
+KILMAHUDDRICK
+Laureen Buckley
+Introduction
+An excavation was carried out in advance of develop
+ment in Kilmahuddrick townland between July and
+September 2000. The main archaeological feature of
+the site was a ring-barrow surrounded by a probable
+field system. Some samples of cremated bone were
+recovered from the upper layers of the barrow fill and
+three separate cremation pits were found in the interi
+or of the barrow. The samples were processed and the
+recovered bone was sent to the osteoarchaeologist for
+analysis.4
+Methods
+Examination of cremated remains involves a descrip
+tion of colour and texture of the bone as this helps to
+determine the efficiency of the cremation. Efficiently
+cremated bone is white and usually has a chalky tex
+ture. Less well cremated bone, where the temperature
+of the pyre was not high enough or where oxygen flow
+was restricted, has a blue or blue/black colour. The
+bone fragments are then graded by size in order to
+determine the degree of fragmentation. Although frag
+mentation of the bone occurs continuously after dep
+osition owing to compression pressures and also during
+the disturbance of excavation and processing, it is still
+possible to assess whether or not the bones were delib
+erately crushed as part of the cremation ritual. A high
+proportion of relatively large fragments would suggest
+that the bones were not deliberately crushed after the
+cremation whereas a small deposit of relatively small
+fragments would indicate a ritually crushed token
+deposit.
+Each fragment of bone is then examined and iden
+tified if possible. The degree of identification of frag
+ments is generally dependent on fragment size. Larger
+fragments are usually easier to identify although pha
+langes are often found intact among the smaller frag
+ments. Successful identification depends on the number
+of distinguishing features present on the bone frag
+ments as well as knowledge of the thickness and
+expected cross-section of particular bones. Bones
+shrink and warp during the cremation process and
+sometimes it is not possible to specifically identify long
+bone fragments.
+The number of a specific skeletal element can then
+determine the minimum number of individuals pres
+ent. It is possible to distinguish juveniles from adults by
+the thickness of the bone fragments, the presence or
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+Excavation of a prehistoric ring-barrow at Kilmahuddrick, Clondalkin, Dublin 65
+Table 2?Summary of human bone analysis.
+Feature Location Weight (g) Fragmentation % identified Contents
+F4 Upper ditch fill
+F5 Upper ditch fill
+F6 Upper ditch fill
+F7 Upper ditch fill
+F7 Upper ditch fill
+F8 Upper ditch fill
+FM Upper ditch fill
+F25 Upper fill of cremation
+cut F77
+F39 Lower fill of cremation
+pit F77
+F87 Fill of cremation cut F91
+F69 Cremation deposit
+disturbed by field
+boundary cut F29/34
+14
+27
+3
+700
+204
+15
+Highly crushed
+Highly crushed
+Highly crushed
+Five small fragments
+Five small fragments
+Eight tiny fragments
+Moderately crushed
+Highly crushed
+Highly crushed
+Highly crushed
+17
+10
+Uncremated animal and human
+Cremated animal and human
+Cremated human
+Unidentified
+Uncremated human skull
+Unidentifiable
+Unidentifiable
+Cremated human skull
+Cremated, one adult human and one cow's tooth
+Cremated, one adult and juvenile
+Uncremated animal, cremated animal and human
+absence of unfused epiphyses and the fragmentation of
+the teeth. Adult teeth crowns tend to shatter during the
+cremation process but unerupted juvenile teeth tend to
+survive intact as the jawbones protect them. It is usual
+ly possible to age juveniles if enough teeth are present.
+Results
+A total of seventeen samples were examined. Ten of the
+samples were recovered from the upper fill of the bar
+row ditch. Most of these were very small, weighing
+only a few grammes or less. The samples from F4, the
+uppermost layer in the ditch, contained fragments of
+very decayed and weathered non-cremated bone as
+well as some cremated cattle teeth and animal verte
+brae. There was also some cremated human bone in this
+sample but it was highly crushed and difficult to iden
+tify.
+The largest sample from the barrow fill was from
+layer F5. Its total weight was 27g but this included a
+cremated cow's tooth weighing 5g. The remainder of
+the sample was highly crushed but it did contain some
+animal bone as well as human skull and long bone frag
+ments. A small burnt area, F6, which lay in F4, the
+uppermost layer of barrow fill, contained a small
+amount of highly crushed cremated bone from which
+it was possible to identify a fragment of human femur
+and a fragment of skull. There was also a small area of
+burning, Fll,directly under F4, which contained a few
+tiny fragments of cremated bone that could not be
+identified.
+Layer F7, which lay under F4, contained cremated
+and non-cremated bone. The cremated samples were
+very small and highly crushed and could not be iden
+tified. The non-cremated bone had a very weathered
+appearance as if it had been exposed to the elements
+for some time before burial. One of the non-cremated
+samples consisted of 21 fragments from the back of a
+single human adult skull. This included large portions
+of occipital and parietal bone with the lamboid and
+sagittal sutures visible. There are similarities between
+this skull and the partial skull found at Raffln Fort, Co.
+Meath (Newman 1997, 240). The skull at Raffin had
+also been partially worn and may have been exposed
+for some time prior to burial. Furthermore, the Raffln
+skull was subsequently dated to around 200 years prior
+to the date of the pit in which it was found (ibid.).
+The area enclosed by the Kilmahuddrick ditch had
+three cut features that contained cremated bone,
+although bone from only two cuts was available for
+analysis. On stratigraphie grounds, the earliest cut was
+F87, a rather large cut with an irregular shape. The
+lower fill of F87 contained a large amount of cremated
+bone and was sealed by redeposited compact natural
+grey clay. Over 200g of bone were recovered from F87,
+the second-largest sample from the site. However, the
+bone was very severely crushed, with over half of the
+sample consisting of tiny fragments less than 5mm in
+length and over 80% of the sample less than 10mm.
+This made identification difficult and only 10% of the
+bone could be identified. This consisted of efficiently
+cremated human bone with skull and leg bones pres
+ent as well as some fragments of pelvis, ribs and verte
+brae. No arm, finger or toe bones were identified.
+There may have been a juvenile present in this sample
+as one fragment of juvenile femur was identified. How
+ever, two separate identifiable fragments should be pres
+ent to confirm the presence of an individual.
+The second cremation cut, F77, had two different
+fills. The lower, main fill was F39 and the upper fill was
+F25.The upper fill had been disturbed but nevertheless
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+66 lan W.Doyle
+it was a large sample consisting of efficiently cremated
+human bone. It was highly fragmented but it was pos
+sible to identify 11% of the sample, which consisted
+mainly of skull bones, including some mandible and
+tooth fragments.The lower fill, F39, appeared to repre
+sent one adult human cremation although a cremated
+cow's tooth was found with one of the samples. The
+sample was efficiently cremated and highly crushed,
+which made identification of the long bones difficult.
+There were some significantly large fragments of skull,
+however, and a number of teeth fragments were also
+recovered. The bone from F25 could have belonged to
+the same individual as F39.
+The only other sample, F69, appeared to have been
+disturbed by the field boundary and contained rough
+ly equal proportions of cremated and non-cremated
+bone. The non-cremated bone was animal and most of
+the cremated bone was also animal, although a few
+fragments of human long bone were also present.
+Conclusions
+Nine very small samples were recovered from the
+upper fill of the barrow ditch. These contained a mix
+ture of cremated and non-cremated animal and human
+bone. Most of the cremated fragments were too small
+to identify. A separate non-cremated sample was found
+in the ditch and consisted of the back of a human skull.
+The bone was well worn and weathered and may have
+been exposed for a considerable time before being
+buried in the ditch.
+The two cremation burials in the centre of the bar
+row contained a significant quantity of cremated
+human bone. One contained a single adult human cre
+mation and a single cow tooth. The other contained a
+cremated adult human and possibly a juvenile also. The
+bone from the field boundary was mostly cremated and
+uncremated animal bone, but may also have contained
+some human fragments. The majority of the samples
+were small and highly crushed, similar to token deposits
+found from late Bronze Age or Iron Age contexts.
+However, as they were found in the fill of the ditch it
+is possible that they were not burials as such but
+remains from the disturbance of other cremation buri
+als.
+The two cremation burials in the centre of the bar
+row contained a significant amount of bone and were
+therefore more than mere token deposits.The bone was
+highly crushed, however, which meant a relatively low
+proportion could be identified. Early Bronze Age cre
+mations tend to be relatively uncrushed, with a high
+weight of bone and recovery from all areas of the skele
+ton (Buckley 1997; 1998).The burials from Kilmahud
+drick were not efficiently collected and consisted
+mainly of skull and long bones with little of the small
+er bone or the axial skeleton. In fact they are similar to
+burials from the middle Bronze Age flat cemetery and
+late Bronze Age deposits at Killoran, Co. Tipperary
+(Stevens 2005; Buckley 2005).
+APPENDIX III
+ANALYSIS OF ENVIRONMENTAL REMAINS
+FROM EXCAVATIONS AT
+KILMAHUDDRICK
+Penny Johnston
+Introduction
+Twenty-nine bulk soil samples were taken from the site
+at Kilmahuddrick, Co. Dublin, where a ring-barrow
+was excavated. The samples were processed by flotation
+in order to extricate carbonised plant remains and char
+coal. Heavy, non-floating material was retained in the
+retents.The flots and retents were sorted to extract the
+environmental content of each sample. These remains
+were then analysed and the pattern of use of environ
+mental material at the site was investigated.
+Methodology
+Soil samples were collected in bags of various sizes.
+These samples were processed using a simple flotation
+technique. Flots were collected in sieve meshes
+measuring 300 ; retents were collected in meshes
+measuring 1mm. The flots were sorted for
+environmental material using a low-powered binocular
+microscope (magnification x4.8 to x56); the retents
+were sorted by eye. The entire volume of most of the
+samples was processed. Owing to the large volume of
+soil that was taken from several of the ditch fills,
+subsamples were taken from several ditch contexts.
+These subsamples measured five litres each. If a lot of
+plant material was found during processing, it would
+have been possible to sieve the remaining material from
+these deposits. However, in the end this was not
+deemed necessary. The frequency and potential of the
+environmental material in each flot and retent were
+recorded and the charred seeds were identified and
+analysed with the help of a small modern reference
+collection.
+Results
+Charred seeds, charcoal, snail shells and bone were
+found in the samples. Two small artefacts were also
+recovered during processing. The frequency of en
+vironmental material in each sample is recorded in
+Table 3. Taxonomic order is based on Scannell and
+Synnott (1987).
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+Excavation of a prehistoric ring-barrow at Kilmahuddrick, Clondalkin, Dublin 67
+Charred seeds
+Charred seeds were present in fourteen of the
+Kilmahuddrick samples: F5 (SI), F5 (S2), F4 (S3), F4
+(S5), Fll (S8), F7 (S12), F8 (S18), F12 (S36), F39 (S58),
+F41 (S70), F69 (S75), F77 (S77), F39 (S79) and F87
+(S85).The frequency and variety of the seeds found were
+particularly good in samples from F5 (SI), F5 (S2) and
+F69 (S75).
+Charcoal
+Charcoal was found in the majority of samples sieved
+from Kilmahuddrick. In some instances it was abun
+dant; however, in many cases the fragments were very
+small. Only two samples, from F5 (SI and S2), con
+tained enough charcoal for conventional dating. Nine
+teen samples had suitably large amounts of charcoal for
+analysis of wood species identification (I. Stuijts, pers.
+comm.). Only four samples, from F8 (SI9), Fl6 (S32),
+F29 (S44) and F30 (S46), did not contain any charcoal.
+Bone
+Fragments of bone were found in eighteen samples.
+The majority of this bone was recovered from the sort
+ed retent, as this material does not float during pro
+cessing unless the fragments are very small. The vast
+majority of the bone was cremated and was probably
+associated with ritual activity at the ring-barrow. Some
+tooth fragments that survived indicate that this bone
+was, at least in some cases, from animals rather than
+from humans. Many of the bone fragments were dust
+like, suggesting that they had been processed, possibly
+by pounding or grinding. These do not appear in
+samples with a high charcoal content. This suggests that
+some of the bone was deliberately collected from the
+pyre material, which would have contained a lot of
+plant material, and then carefully deposited within
+ditch fills or cremation burials. Only eleven samples
+contained no cremated bone: F8 (S19), F8 (S20), F16
+(S32), F12 (S36), F29 (S44), F30 (S46), F54 (S62), F58
+(S67), F41 (S70), F83 (S83) and F86 (S84).
+Shell
+Three samples, F8 (SI8), F8 (SI9) and F87 (S85), con
+tained snail shells. These examples of land molluscs may
+be modern contaminants, as some varieties can burrow.
+Land mollusc shells from antiquity are generally only
+preserved in calcareous soil conditions.
+Artefacts
+Two beads were recovered during processing for
+environmental material. A fragment of an amber bead
+was found in F69 and an entire glass bead was recov
+ered from F87.This latter bead is in poor condition and
+the colour of the glass was destroyed during carbonisa
+tion. Both of these beads were recovered in samples
+that contained burnt bone and may have formed part
+of the personal adornment of the cremated bodies.
+Table 3?Species identified from sieving.
+Feature no.
+Sample
+5 5 4 4
+I 2 3 5
+II 7 12 25 39 41 69 39 87
+] 12 36 57 58 70 75 79 85
+Scientific names
+Hordeum vulgare
+Hordeum/Avena
+Triticum dicoccum
+Triticum spp
+Avena spp
+Cereal indet.
+(frags)
+Corylus avellana
+Corylus avellana
+(MNI)
+Prunus spinosa
+Crataegus monogyna
+Rosaceae indet
+Rumex/Polygonum
+Galium aparine
+Plantago spp
+Weed seed indet.
+Common names
+Barley
+Barley/oat
+Emmer wheat
+Wheat species
+Oat species
+Unidentifiable
+cereal grains
+Hazelnut fragments
+Hazelnut
+min. no. of individuals
+Sloe
+Haw
+Indeterminate rose
+family (probably haw)
+Dock/persicaria
+Common cleaver
+Plantain
+Unidentifiable weed
+seeds
+I
+I I
+I I
+3 4 I
+46 14 _ I
+I _ 3 2
+2 12 _ I
+I I I
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+68 lan W.Doyle
+Analysis of charred seed remains
+The majority of the seed remains from Kilmahuddrick
+were from cereal plants (51%).The other seeds found
+were from weeds (27%), fragments of hazel nut (12%)
+and the remains of berry fruits, such as haws and sloes
+(10%). Cereal grains are frequently recovered from
+archaeological sites as they survive charring better than
+other parts of the plant, and better than many weed
+species (Boardman and Jones 1990).They are also more
+likely than other plants to come into contact with fire,
+either during processing or cooking.
+Many of the macrofossil remains from Kilmahud
+drick were poorly preserved, being generally quite
+heavily abraded. For example, many of the cereal grains
+recovered fall into indeterminate categories (57%); this
+means that they were not identifiable to genus level.
+The distortion of these grains may have been linked to
+damage from carbonisation. However, most of the
+damage was caused by subsequent alterations in the
+state of the seeds, changes in humidity and various
+mechanical processes (Hubbard and al Azm 1990).
+Many Kilmahuddrick samples were taken from ditch
+es and it is probable that many of the seeds may have
+been burnt rubbish that was scattered in the area prior
+to its gradual accumulation into the deposits on the
+site.This means that the plant remains assemblage is not
+the product of one event but the result of a range of
+processes and events that occurred on the site at vari
+ous stages in the past, until the ditch deposits were
+sealed.
+Barley (Hordeum vulgare) was the most common
+identifiable cereal from Kilmahuddrick ring-barrow
+(27%); wheat (Triticum spp) (12%) and possible oat (cf.
+Avena spp) (4%) were also found. Seven grains of bar
+ley were found. Most of the grains were poorly pre
+served and in many cases it was not possible to tell
+whether they came from the hulled or naked varieties
+of barley. However, a few grains were identified as
+hulled barley. This fits into the general picture obtained
+from Irish archaeobotanical assemblages, as hulled bar
+ley is found more commonly than the naked barley
+(Monk 1985/6). Although it takes longer to process,
+hulled barley may be more tolerant of wet climates
+than naked barley (Barker 1985), and this may explain
+its prevalence in Irish archaeobotanical assemblages. In
+general, barley may have been used in the preparation
+of staple foods such as porridges, soups and breads
+(Sexton 1998). It is sometimes used as a fodder crop, as
+the straw can be used to feed cattle. Barley is also used
+for bedding, as it is more absorbent than wheat straw
+(Barker 1985).
+Three wheat grains were recovered. Two of these
+were identified as the primitive glume wheat, emmer
+(Triticum dicoccum). It is assumed that prehistoric wheat
+was primarily grown for human consumption,
+although its straw can be used for thatching and for lit
+tering livestock (Barker 1985).
+One sample, F69, contained a possible fragment of
+an oat grain (Avena species). Oat is a recognised crop in
+the early medieval period, and evidence from archaeo
+logical sites suggests that by that time it was the most
+commonly grown cereal after barley (Kelly 2000).
+There is no definite evidence that it was a crop in pre
+history. Oats are likely to have grown as a contaminant
+of the cereal crop in the prehistoric period. It is diffi
+cult to distinguish the various oat species from each
+other on the basis of the grain alone, and for this rea
+son the grain recovered from Kilmahuddrick has only
+been identified to genus level. Considering the prehis
+toric context it is derived from, it is likely to be the
+seed of a wild oat species, such as Avena strigosa.
+Hazelnut shells (Corylus avellana) were recovered
+from six samples. Hazelnuts contain essential fats.They
+are also protein-rich and have been used throughout
+history and prehistory as a valuable source of nutrients.
+The carbonisation of hazelnut remains generally results
+from the discarded shells being thrown into the fire
+after the nuts are eaten. The nut shell is hard and resist
+ant to decay, factors that ensure that it is commonly
+recovered on archaeological sites (Monk 2000).
+As many of the deposits that were sampled came
+from the ditch fills and cremation deposits, it is assumed
+that the plant remains found in the samples are related
+to cremation activity. Possible haw seeds (Crataegus
+monogyna) were recovered from F39 and F69. The
+preservation of these seeds may result from the use of
+hawthorn wood as kindling or firewood. The identifi
+cation of fragments of hawthorn wood from the same
+deposits would help to corroborate this hypothesis.
+Carbonised haws were also found during analysis of
+ritual contexts at Cherrywood, Co. Dublin.These were
+also probably carbonised along with kindling from
+hawthorn trees. Similarly, the stones of Prunus (mostly
+sloe, Prunus spinosa) were recovered from three crema
+tion deposits at Cherrywood and from one context at
+Kilmahuddrick (F5). Like the berries of haw, these may
+have been attached to twigs and wood used to light the
+cremation pyre (Johnston, in progress).
+The seeds that survive in cremation deposits tend to
+be dense seeds such as sloe stones and haw seeds, as well
+as cereals.Their density means that they are likely to fall
+through the fire rather than to get caught at the top of
+the fire where conditions are more aerobic (Moffett
+1994).These would then be raked out after the fire had
+died down.
+Conclusion
+Of the 29 samples from Kilmahuddrick examined for
+environmental material, thirteen contained charred
+seeds that were identified and analysed. Most of the
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+Excavation of a prehistoric ring-barrow at Kilmahuddrick Clondalkin, Dublin 69
+environmental material (seeds, charcoal and cremated
+bones) from the samples was preserved by carbonisa
+tion. The fruit stones discovered in association with
+cremation material may have been related to the types
+of wood and kindling used in the cremation pyre; sim
+ilar results were obtained from other Irish cremation
+material. The analysis of the archaeobotanical material
+found at Kilmahuddrick has also identified the types of
+cereals found on site. This suggests ' that the remains
+from Kilmahuddrick are generally similar to those
+obtained from other Irish sites of the same period.
+APPENDIX IV
+ANALYSIS OF CHARCOAL SAMPLES FROM
+KILMAHUDDRICK
+Ingelise Stuijts
+Introduction
+The analysis of charcoal remains can provide informa
+tion on local vegetation as, for reasons of convenience,
+fuel in prehistoric times was gathered close to the site
+where it was to be burnt. Dry branches on the forest
+floor or fallen trees served to kindle domestic fires.
+When settlement was close by, discarded timber or
+other rotten wood from fences etc. was used. In
+medieval times, especially in towns, the transport of
+firewood was often well organised and regulated. Char
+coal from those contexts therefore does not necessari
+ly reflect the local vegetation around the sites but more
+likely coppiced woodlands.
+It was hoped that analysis of the charcoal remains
+from Kilmahuddrick would provide information on
+the local tree growth during later prehistory and assist
+in the interpretation of features on site. Accordingly, 28
+samples from 22 features were analysed. The primary
+aim of the charcoal assessment was to determine the
+suitability of material for radiocarbon dating. The sec
+ondary aim was to identify the wood species present in
+order to determine whether any deliberate species
+selection in antiquity was apparent.
+Methods
+The charcoal (flots and retents) was dry-sieved prior to
+identification. All pieces large enough for identification
+were selected, but all were smaller than the usual size of
+0.5cm3. For initial sorting a low-powered stereo
+microscope was used, while for identification a high
+powered microscope with magnification of200x-400x
+was employed. Where possible, the lumps were broken
+prior to identification to expose a clean view of the
+cross-section and the radial and tangential sides.
+The identification followed the keys provided by F.
+H. Schweingruber (1978). Oak is a hardwood species
+and is resistant to wear and insects. Accordingly, this
+species tends to be over-represented in samples. Fur
+thermore, it is relatively easy to identify. As mentioned
+above, the samples examined from Kilmahuddrick con
+tained very little charcoal. Conventional radiocarbon
+dating requires 4-5g of dried material, and in the case
+of the Kilmahuddrick samples the weight of the species
+was generally less than lg and the pieces were almost
+beyond the size necessary for identification.
+For each species within a sample the number of
+lumps analysed (score) as well as the total weight of the
+species (in grams) was noted. It was also noted how
+often a species was found in Kilmahuddrick (frequen
+cy occurrence). For example, hazel was found in eight
+een of the 28 samples investigated, and elm occurred in
+eight samples. In most samples more than one species
+was present. The quantities were mostly too low to
+ascertain which species was the dominant wood type
+within a sample.
+Table 4?Charcoal identification.
+Species Volume (g) Score Occurrence Common name
+Alnus
+Clematis
+Corylus
+Euonymus
+Froxinus
+Hedem
+Pomoideae
+Prunus avium/podus
+Prunus spinoso
+Quercus
+Salix
+Ulmus
+Total
+0.44
+0.17
+7.39
+0.01
+1.82
+0.07
+5.87
+0.63
+4.89
+2.02
+0.07
+0.89
+24.27
+27
+15
+170
+I
+103
+4
+148
+I I
+148
+100
+5
+27
+759
+5 Alder
+2 Traveller's-joy
+18 Hazel
+1 Spindle tree
+12 Ash
+2 Ivy
+14 Apple-type
+4 Wild/bird cherry
+17 Sloe
+15 Oak
+3 Willow
+8 Elm
+28 is maximum score
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+70 Ion W.Doyle
+Wood species
+The Kilmahuddrick area yielded a total of twelve wood
+species. The dominant types were hazel (Corylus),
+apple-type (Pomoideae) and sloe (Prunus spinosa), fol
+lowed by ash (Fraxinus) and oak (Quercus). Both in vol
+ume (measured in grams) and numbers (lumps
+identified) hazel was the most common species. The
+relatively low number of identified pieces of oak
+suggests that this tree was not found in large numbers
+locally.
+The values for alder (Alnus) and willow (Salix) were
+also relatively low. The presence of these species would
+generally point to wet conditions. The suggestion that
+the area may have been quite dry is supported by the
+presence of ash, oak and elm, as these species usually
+prefer dryland conditions. Wood species such as trav
+ellers-joy (Clematis), spindle tree (Euonymus) and ivy
+(Heder?) could very well have grown in hedges in the
+same way as they do today, but could have grown
+equally well at forest edges.
+Wild cherry or bird cherry (Prunus avium /padus?
+the species cannot be distinguished microscopically) is
+not often found in modern hedges or forest edges.This
+is a fast-growing tree, nowadays often planted on a
+commercial basis. It is regularly encountered in other
+prehistoric sites, mchidingfulachtafiadh. It would appear
+that this species was more common in antiquity.
+A noteworthy aspect of the Kilmahuddrick site was
+the occurrence of apple-type and sloe. Together with
+hazel, these species were quite normal in hedges or
+fences. Sloe, with its large spines, was excellent for this
+purpose, keeping animals (and humans) in and out of
+fields. The apple-type of wood comprises several
+species, such as crab apple, wild pear, hawthorn, white
+beam and mountain ash, which are almost impossible
+to distinguish microscopically. The presence of thorn
+buds on some pieces would point to hawthorn rather
+than the other species. The presence of hawthorn seeds
+was observed in the analysis of seed remains. It would
+thus seem that most samples indicate the presence
+locally of field boundaries with thorny low shrubs or
+scrub mixed with hazel.
+Features
+The majority of the samples derived from the fills of
+the barrow ditch, F3.The upper layers of fill contained
+charcoal inclusions, while the lower fills were almost
+bare of charcoal fragments. This presents difficulties for
+any conclusive analysis. In the ditch fills F5 and F6,
+which represent the top layers of the ditch, six to eight
+wood species were present. Spindle tree, ivy, willow and
+traveller s-joy were absent in the upper ditch fills. In the
+lower ditch fills only five species were found, with
+alder, elm and wild cherry disappearing. The ditch fill
+Fl4 had only ash, while the basal silt Fl7 contained
+only tiny fragments of oak. Tentatively it may be
+suggested, therefore, that ash and oak might have been
+the dominant wood species during the period when
+the lower ditch fills were forming, while later features
+reflect the presence locally of wild shrubbery, maybe
+following field boundaries.
+At the base of the ditch around the barrow, stone
+features were found with associated charcoal patches
+(F15, F16, F28 and F30/31). F30 contained only ash,
+while F28 had ash as well as oak charcoal. Other
+features with only one or two wood species were F29
+(field boundary with ash and oak fragments in the fill),
+F107 (pit with oak fragments) and F106 (pit with hazel
+fragments). Considering that most other samples had a
+mixture of species, this could point to a specific use, but
+caution is needed considering the small number of
+charcoal lumps present.
+In conclusion, features associated with the ring
+barrow and surrounding ditch seem to contain prima
+rily ash and oak. This includes the lower part of the
+ditch fill (Fl4 and F17) and stones within the ditch
+(F28,F15,F30).
+Ash, oak and elm usually form part of the dryland
+vegetation in the eastern and southern part of Ireland.
+Elm gradually disappeared from the Irish landscape.
+This decline started in the Neolithic period and can be
+recognised in pollen diagrams. Ash, on the other hand,
+generally increased from the Neolithic onwards, prof
+iting from clearings in primary woodlands (Caseldine
+and Hatton 1996). During periods of clearance, both
+ash and elm, together with oak, show very low values
+in pollen diagrams. In periods of less intense habitation
+these three species re-established themselves and their
+pollen values rise. The regular occurrence of ash asso
+ciated with the ring-barrow points to the presence
+locally offertile, clayey soil with many nutrients (ash is
+a vigorous grower).
+The other features contain a mixture of species,
+between four and eight species within a sample, reflect
+Table 5?Charcoal present in cremation fill F39.
+Wood species Volume Lumps identified
+Ainus 0.21 17
+Corylus 0.61 25
+Fraxinus 0.10 II
+Heder? 0.06 3
+Pomoideae 0.31 14
+Prunus ovium/padus 0.01 I
+Prunus spinoso 0.24 14
+Quercus 0.12 5
+Salix 0.06 4
+Ulmus 0.84 22
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+Excavation of a prehistoric ring-barrow at Kilmahuddrick, Clondalkin, Dublin 71
+Table 6?Charcoal remains identified.
+Feature Species Size (g) Score Comment Feature Species Size (g) Score Comment
+7
+7
+I I
+I I
+I I
+I I
+12
+14
+15
+17
+25
+25
+Corylus
+Prunus spinoso
+Quercus
+Umus
+Alnus
+Pomoideae
+Alnus
+Corylus
+Froxinus
+Pomoideae
+Prunus ovium/
+padus
+Prunus spinoso
+Quercus
+Froxinus
+Salix
+Ulmus
+Corylus
+Prunus spinoso
+Quercus
+Corylus
+Pomoideae
+Quercus
+Euonymus
+Clematis
+Corylus
+Pomoideae
+Prunus spinoso
+Fraxinus
+Froxinus
+Froxinus
+Quercus
+Corylus
+Pomoideae
+0.59
+0.15
+0.27
+0.01
+0.01
+0.1
+0.22
+1.72
+0.48
+1.13
+0.2
+1.54
+0.06
+0.1
+0.01
+0.01
+0.06
+0.01
+0.26
+0.25
+0.71
+17
+Prunus spinoso 1.00
+0.01
+0.01
+0.03
+0.21
+2.15
+1.52
+0.38
+0.23
+0.04
+0.04
+0.01
+0.1
+9
+45
+9
+45
+46
+3
+4
+I
+I
+4
+I
+10
+4
+34
+28
+2
+I
+2
+5
+23
+30
+17
+6
+7
+23
+2
+3
+Partly sintered.
+Long MS atypical
+of Pyrus/Malus.
+Thorns present.
+Sometimes
+almost sintered.
+Long rays, not
+typical Pyrus/Malus.
+Bad condition,
+traumatic tissue.
+Partly sintered,
+partly 'gnai?.
+Long MS, not
+typical of Pyrusl
+Malus.
+25
+25
+27
+27
+27
+28
+28
+30
+37
+39
+39
+39
+39
+39
+39
+39
+39
+39
+39
+53
+69
+69
+69
+69
+69
+69
+69
+80
+80
+80
+80
+80
+103
+103
+105
+105
+105
+105
+105
+106
+107
+Quercus
+Ulmus
+Fraxinus
+Pomoideae
+Prunus spinosa
+Fraxinus
+Quercus
+Fraxinus
+Quercus
+Alnus
+Corylus
+Fraxinus
+Pomoideae
+Prunus spinosa
+Quercus
+Salix
+Ulmus
+Heder?
+Prunus avium/
+padus
+Corylus
+Corylus
+Fraxinus
+Pomoideae
+Prunus avium/
+padus
+Prunus spinosa
+Quercus
+Ulmus
+Clematis
+Heder?
+Pomoideae
+Prunus spinosa
+Ulmus
+Corylus
+Prunus spinosa
+Corylus
+Pomoideae
+Prunus avium/
+padus
+Prunus spinosa
+Quercus
+Corylus
+Quercus
+0.01
+0.01
+0.08
+0.01
+0.16
+0.16
+0.01
+0.12
+0.1 I
+0.21
+0.61
+0.09
+0.31
+0.25
+0.12
+0.06
+0.83
+0.06
+0.01
+2.8
+0.08
+0.13
+0.37
+0.1
+0.07
+0.07
+0.01
+0.14
+0.01
+0.26
+0.05
+0.01
+0.38
+0.03
+0.1
+0.01
+0.32
+0.32
+0.01
+0.01
+0.22
+1.04
+I
+I
+12
+I
+I I
+19
+3
+7
+7
+17
+25
+I I
+14
+16
+5
+4
+20
+3
+I
+40
+6
+I I
+15
+3
+4
+5
+I
+13
+I
+7
+2
+I
+17
+4
+3
+3
+3
+I
+2
+I
+Partly sintered.
+Weak
+ing the presence of a mixed woody vegetation close by.
+The charcoal within the later Bronze Age crema
+tion deposit F39, at the centre of the barrow, consisted
+of a range of species indicating a mixed environment,
+such as can be found in present-day hedgerows or for
+est margins. Although the quantities present were low,
+it is clear that the most common wood species were
+elm and hazel. Apple-type and sloe also occurred reg
+ularly. The mixture of species probably reflects the local
+presence of these wood types and the lack of prefer
+ence of the local people in their choice of fuel.
+Conclusions
+Much of the charcoal recovered was so small that
+observations regarding quality and growth were not
+possible. Some charcoal of especially hazel, apple-type
+and sloe show signs of insect channels and in some
+cases it could be established that branches were burnt,
+but generally the fragments were too small for definite
+conclusions to be drawn.
+The ring-barrow in Kilmahuddrick seemed to
+contain primarily charcoal of ash and oak and as such
+seems to indicate species selection. Other features, from
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+72 Ion W.Doyle
+later periods, were more mixed in character, with many
+wood species, especially hazel, apple-type (most likely
+hawthorn) and sloe. This species composition is very
+reminiscent of present-day hedges. Alternatively, these
+species could also thrive on forest edges. Considering
+the mixture of species in the upper layers no species
+selection is indicated.
+APPENDIX V
+ANALYSIS OF THE FAUNAL REMAINS FROM
+KILMAHUDDRICK
+Melanie McQuade
+Introduction
+Excavations at Kilmahuddrick produced samples of
+animal bone from the fills of the ditch enclosing the
+ring-barrow (F4, F5, F7 and F8) and a later field
+boundary (F29 and F69). These assemblages were
+hand-retrieved and, as such, may be biased towards
+larger bone pieces. Much of the material was frag
+mented and modern breaks were also present. During
+the processing of cremation samples (F4, F5, F39 and
+F69) a number of burnt teeth, long bone and uniden
+tifiable fragments were recovered. Material was identi
+fied with reference to the comparative skeletal
+collection at the Natural History Museum, Dublin.
+Ping-barrow ditch
+The largest sample of material was derived from F8, the
+middle level, with smaller amounts from the overlying
+fills (F7, F5 and F4) and only one tooth fragment from
+the cremation deposits at the centre of the mound
+(F39). All of the bones were fragmented and eroded
+and, consequently, few were identifiable (Table 7). In
+total there were 80 fragments, of which 33 (approxi
+mately 41%) were unidentifiable. Twelve long bone and
+three probable vertebral fragments could not be iden
+tified to species.
+The high proportion of teeth recovered from this
+site may be explained by their higher survival rate and
+the fact that in fragmentary material they tend to be
+more readily identifiable. Given the fragmentary state
+of the bone, it was of little value for purposes of aging
+or measurement. Two distally fused humeri gave mini
+mum ages of eighteen months for one of the cattle and
+ten months for a sheep (after Silver 1969).While aging
+is normally based on intact tooth rows, in their absence
+loose second and third molars in wear give an approx
+imate minimum age at death of 17-22 months for pig
+(after Silver 1969). Measurements taken, in millime
+tres, on a cattle scapula are as follows: LG: 52.2, GLP:
+62.4, BG: 41.8 (after von den Driesch 1976).
+Approximately 30% of the bones showed signs of
+butchery. Many of the long bones had transverse cuts
+and had been split longitudinally for marrow extrac
+tion. A rough cut across the diastema of a cow mandible
+was probably also made for this purpose, while a chop
+across the distal shaft of a cow hum?rus could have
+been made either to facilitate cooking or removal of
+marrow.
+While it would be unwise to draw too many con
+clusions from such a small and fragmented assemblage,
+all of the identifiable bone represents meat-producing
+animals. Some of the bone is obviously food waste and
+the presence of low-meat-value bones indicates that
+animals were being killed and/or dismembered in the
+vicinity.
+Table 7?Species and anatomical distribution of bone from Bronze Age deposits.
+Species Cattle Sheep/goat Pig_Large mam. Medium mam.
+Antler/horn I -
+Mandible I -
+Loose teeth 10 - 4
+Rib - I
+Scapula 2 -
+Hum?rus I I - I -
+Pelvis - I
+Femur I -
+Tibia - 2
+Metatarsal - I - - -
+Phalanx I I -
+Long bone frag. - - - - 4
+Total 17 2 4 5 4
+MNI 2 I I - -
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+Excavation of a prehistoric ring-barrow at Kilmahuddrick, Clondalkin, Dublin 73
+Table 8?Speeles and anatomical representation of animal bone
+fragments from F29.
+Species Cattle Sheep/goat Large mam
+Antler/horn I
+Loose teeth 4
+Hum?rus I
+Femur I
+Carpal/tarsal I
+Metatarsal 2 I
+Long bone frag. - - 3
+Total 10 I 3
+MNI 2 1
+Table 9?Cattle bone fusion data ages in months (after Silver
+1969).
+Bone Approx.age F UF %F
+_at fusion_
+Hum?rus d. 12-18 I - 100
+Metatarsal 27-36 I I* 50
+*Fusion lines indicate a recently fused articulation.
+Field boundary F29, F69
+Bones recovered from F69 and F29 date from the Iron
+Age and early medieval period respectively. A small
+sample of bone, approximately 60% of which was
+burnt, was recovered from F69. This was very frag
+mented and, apart from a cow tooth, could not be
+identified to species. Approximately 45% of the assem
+blage from F29 consisted of unidentifiable pieces, one
+of which was burnt; the remainder are presented in
+Table 8. Of these only three cattle bones allowed for
+aging analysis. Measurements, taken in millimetres, on
+a bovine metatarsal* are as follows: Bd:40, Bp:39,
+GL:198.7 (after von den Driesch 1976).
+Butchery marks were evident on approximately
+10% of the bone from F29. These consisted of trans
+verse chops and longitudinal splits for marrow extrac
+tion. Such bones represent food waste, while bones of
+lower meat value such as horncore, metapodials and
+tar sals may be slaughter refuse. Given the small and
+fragmentary samples retrieved from these contexts,
+little can be inferred about the diet and economy of the
+inhabitants of the time.
+APPENDIX IV
+LIST OF RADIOCARBON DATES
+The following samples (Table 10) were submitted to
+the Centre for Isotope Research, University of Gronin
+gen, The Netherlands. With the exception of GrN
+26321, all of the dates were AMS.The dates have been
+calibrated using WinCal25, which is an IntCal04
+updated version of CAL25 (Van der Plicht 1993).
+Table IO?Material submitted for radiocarbon dating.
+Feature Description Material Sample code Result 2 sigma calibration
+F5 Upper ditch fill Cremated human bone GrA-18014 2175 ? 40 BP 373-1 I I cal. BC
+F7 Upper ditch fill Human skull fragment GrA-18045 2695 ? 40 BP 911 -802 cal. BC
+F39 Cremation fill of cut F77 Cremated human bone GrA-18288 2760 ? 50 BP 1012-819 cal. BC
+F69 Cremated material in F34 Cremated human bone GrA-18160 2230 ? 50 BP 393-192 cal. BC
+F87 Cremation fill of cut F91 Cremated human bone GrA-18015 2745 ? 40 BP 992-822 cal. BC
+F29 Fill of field boundary F34 Bos taurus metatarsal GrN-26321 1060 ? 50 BP 877-1 147 cai. AD
+F17 Basal silt, ring-barrow ditch Charcoal: Quercus (oak) GrA-17924 2885 ? 40 BP 1208-935 cal. BC
+F30 Charcoal at base of ditch Charcoal: Froxinus (ash) GrA-17925_3790 ? 40 BP 2398-2047 cal. BC
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+74 lan W.Doyle
+REFERENCES
+Allen, MJ., Morris, M. and Clarke, R.H. 1995. Food
+for the living: a reassessment of a Bronze Age bar
+row at Buckskin, Basingstoke, Hampshire. Proceed
+ings of the Prehistoric Society 61,157?89.
+Barker, G. 1985. Prehistoric farming in Europe. Cam
+bridge.
+Boardman, S. and Jones, G. 1990. Experiments on the
+effects of charring on cereal plant c omponents. Jowr
+nal of Archaeological Science 17, 1-11.
+Brindley, A.L. 1995. Radiocarbon, chronology and the
+Bronze Age. In J.Waddell and E. SheeTwohig (eds),
+Ireland in the Bronze Age, 4-13. Dublin.
+Buckley, LA. 1997. Appendix I: Skeletal report. In C.
+Mount, 'Adolf Mahr's excavations of an early
+Bronze Age cemetery at Keenoge, County Meath'.
+Proceedings of the Royal Irish Academy 97C, 44-57.
+Buckley, LA. 1998. Appendix I: Human skeletal
+report. In C. Mount, 'Five early Bronze Age ceme
+teries at Brownstown, Graney West, Oldtown and
+Ploopluck, County Kildare, and Strawhall, County
+Carlow'. Proceedings of the Royal Irish Academy 98C,
+69-97.
+Buckley, LA. 2005. Human remains. In M. Gowen, J.
+O Neill and M. Phillips (eds), The Lisheen Mine
+Archaeological Project ?996-8, 326-8. Bray.
+Caseldine, C.J. and HattonJ.M. 1996. Early land clear
+ance and wooden trackway construction in the
+third and fourth millennia BC at Corlea, Co. Long
+ford. Proceedings of the Royal Irish Academy 95B, 1-9.
+Cooney, G. and Grogan, E. 1999. Irish prehistory: a social
+perspective (2nd edn). Bray.
+Daly, A. and Grogan, E. 1993. Excavation of four bar
+rows in Mitchelstowndown West, Knocklong, Co.
+Limerick. Discovery Programme Reports 1, 44-60.
+Doherty, C. 2000. Cluain Dolc?in: a brief note. In A.P
+Smyth (ed.), Seanchas: Studies in early and medieval
+Irish archaeology, history and literature in honour of Fran
+cis J. Byrne, 182-8. Dublin.
+Doyle, I.W 2002. Grange/Kilmahuddrick/Nangor
+(Grange Castle International Business Park), Clon
+dalkin. In I. Bennett (ed.), Excavations 2000, 74.
+Bray.
+Doyle, I.W 2003. Grange Castle International Business
+Park, Nangor. In I. Bennett (ed.), Excavations 2001,
+135-6. Bray.
+Gibson, A. 1995. The dating of timber circles: new
+thoughts in the light of recent Irish and British dis
+coveries. In J.Waddell and E. SheeTwohig (eds), Ire
+land in the Bronze Age, 87-9. Dublin.
+GSB 2000. Geophysical Survey Report 2000/36:
+Grange Castle Park, Co. Dublin. Unpublished
+report by Geophysical Surveys Bradford for Mar
+garet Gowen & Co. Ltd, submitted to the Depart
+ment of Arts, Heritage, Gaeltacht and the Islands.
+Guido, M. 1978. The glass beads of the prehistoric and
+Roman periods in Britain and Ireland. London.
+Hubbard, R.N.L.B. and al Azm, A. 1990. Preservation
+and distortion in carbonised seeds; and investigating
+the history o?frike production. Journal of Archaeo
+logical Science 17,103-6.
+Johnston, P. (in progress). The charred plant remains
+from Cherrywood, Co. Dublin. Unpublished tech
+nical report for Margaret Gowen and Co. Ltd.
+Kelly, F. 2000. Early Irish farming. Dublin.
+Kilbride-Jones, H.E. 1950. The excavation of a com
+posite early Iron Age monument with 'henge'
+features at Lugg, Co. Dublin. Proceedings of the Royal
+Irish Academy 53C, 311-32.
+McKinley, J. 1989. Cremations?possibilities and limi
+tations. In C. Roberts, F. Lee and J. Bintliff (eds),
+Burial archaeology: current research, methods and devel
+opments, 65-76. British Archaeological Reports,
+British Series 211. Oxford.
+Mac Shamhr?in, A.S. 1996. Church and polity in pre
+Norman Ireland: the case of Glendalough. Maynooth.
+MalloryJ.P. 1995. Haughey's Fort and the Navan com
+plex in the late Bronze Age. In J. Waddell and E.
+SheeTwohig (eds), Ireland in the Bronze Age, 73-86.
+Dublin.
+Moffett, L. 1994. Charred cereals from some
+ovens/kilns in Late Saxon Stafford and the botani
+cal evidence for the pre-burg economy. In J. Rack
+am (ed.), Environment and economy in Anglo-Saxon
+England, 55-64. York.
+Moffett, L., Robinson, M.A. and Straker,V. 1989. Cere
+als, fruits and nuts: charred plant remains from
+Neolithic sites in England and Wales and the
+Neolithic economy. In A. Miles, D.Williams and N.
+Gardner (eds), The beginnings of agriculture, 243?61.
+British Archaeological Reports, International Series
+496. Oxford.
+Monk, M. 1985/6. Evidence from macroscopic plant
+remains for crop husbandry in prehistoric and early
+historic Ireland: a review. Journal of Irish Archaeology
+3,31-6.
+Monk, M. 2000. Seeds and soils of discontent: an en
+vironmental archaeological contribution to the
+nature of the early Neolithic. In A. Desmond, G.
+Johnson, M. McCarthy, J. Sheehan and E. Shee
+Twohig (eds), New agendas in Irish prehistory: papers
+in commemoration of Liz Anderson, 67-87. Bray.
+Murray, C. 1992. Heads will roll: a diachronic look at
+cranial deposition. Trowel III, 18-20.
+Newman, C. 1997. Tara: an archaeological survey. Dis
+covery Programme Monographs 2. Dublin.
+O'Brien, R. 1998a. Preliminary summary of monitor
+ing and excavation works at Grange Castle Inter
+national Business Park, Co. Dublin. Archaeological
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms
+Excavation of a prehistoric ring-barrow at Kilmahuddrick, Clondalkin, Dublin 75
+Development Services for South Dublin County
+Council, unpublished report submitted to D?chas
+and the National Museum of Ireland (97E0116
+ext.).
+O'Brien, R. 1998b. Grange Castle International Busi
+ness Park, Kilmahuddrick, Clondalkin. In I. Bennett
+(ed.), Excavations 1991, 26. Bray.
+? Conbhuidhe, C. 1962.The lands of St Mary s Abbey.
+Proceedings of the Royal Irish Academy 62C, 21-84.
+O'Donovan, E. 2003?4. Excavation of a Neolithic
+house in Kishoge, Co. Dublin, fournal of Irish Archae
+ology XII-XIII, 1-27.
+O'Kelly, MJ. 1952. Excavation of a cairn at Moneen,
+Co. Cork. Proceedings of the Royal Irish Academy 54C,
+12-159.
+Raftery, B. 1987. Some glass beads of the later Bronze
+Age in Ireland. In C. Dobiat, H. Matth?us, .
+Raftery and J. Henderson (eds), Glasperlen der Vor
+r?mischen Eisenzeit II, 39?53. Marburger Studien zur
+vor-und Fr?hgeschichte Band 9.
+Raftery, B. 1995. The conundrum of Irish Iron Age
+pottery. In B. Raftery, with V. Megaw and V. Rigby
+(eds), Sites and sounds of the Iron Age, 149-56.
+Oxford.
+Raftery, J. 1940?1. The tumulus-cemetery of Carrow
+james, Co. Mayo. Journal of the Galway Archaeological
+and Historical Society 19,16-88.
+Ronan, M.V. 1940. Mulhuddard and Cloghran
+Wi??trt. Journal of the Royal Society of Antiquaries of
+Ireland 70,182-93.
+Scanneil, M.J.P. and Synnott, D.M. 1987 Census cata
+logue of the flora of Ireland. Dublin.
+Schweingruber, EH. 1978. Mikroskopische Holzanatomie.
+Birmensdorf.
+Sexton, R. 1998. Porridges, gruels and breads: the cere
+al foodstuffs of early medieval Ireland. In M. Monk
+and J. Sheehan (eds), Early medieval Munster: archae
+ology, history and society, 76-87. Cork.
+Silver, I.A. 1969. The aging of domestic animals. In D.
+Broth well and E. Higgs (eds), Science in archaeology,
+283-302. London.
+Stevens, P. 2005. Killoran 10. In M. Gowen, J. ? Neill
+and M. Phillips (eds), The Lisheen Mine Archaeologi
+cal Project 1996-8, 292-4. Bray.
+Stout, G. and Stout, M. 1992. Patterns in the past:
+County Dublin 5000 BC-1000 AD. In K.H.A.
+Aalen and K. Whelan (eds), Dublin city and county:
+from prehistory to present, 5?41. Dublin.
+Van der Plichi,J. 1993.The Groningen radiocarbon cal
+ibration program. Radiocarbon 35, 231-7.
+Von den Driesch, A. 1976. A guide to the measurement of
+animal bones from archaeological sites. Peabody
+Museum Bulletin No. 1. Harvard.
+Waddell, J. 1990. The Bronze Age burials of Ireland.
+Galway.
+Waddell, J. 1998. The prehistoric archaeology of Ireland.
+Galway.
+Woodward, A. 2000. British barrows: a matter of life and
+death. Gloucestershire.
+NOTES
+1 National Grid coordinates from centre of ring
+barrow: E304420/N231665.
+2 Stone object 00E448:7 was kindly examined by
+Ivor Harkin, Earth Science Section, Natural Histo
+ry Division, National Museum of Ireland (query
+GE/2001/37) in March 2001.The following report
+was received: 'Small shaped "gaming" piece. Possibly
+siderite. A depression like this may be formed nat
+urally and may have included a clay ironstone nod
+ule. However, there are signs of scoring/scratching
+on the reverse of the piece that are man-made. It is
+therefore not impossible that the depression is man
+made.'
+3 The sherd has since been cleaned and treated by a
+trained conservator.
+4 A full copy of this report, including an inventory of
+the bone samples, can be found in the excavation
+archive.
+This content downloaded from 138.38.44.95 on Mon, 20 Jun 2016 10:31:06 UTC
+All use subject to http://about.jstor.org/terms

@@ -1,0 +1,316 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5SWZVXB');</script>
+<!-- End Google Tag Manager -->
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+		<link href="https://cdn.jsdelivr.net/npm/swiffy-slider@1.6.0/dist/css/swiffy-slider.min.css" rel="stylesheet" crossorigin="anonymous">
+		<link rel="stylesheet" href="/css/fonts23.css">
+		<link rel="stylesheet" href="/css/main.css">
+		<link rel="stylesheet" href="/css/pm2023.css">
+		<link href="https://www.penn.museum/sites/bulletin/wp-content/themes/museumpublication23/style.css" rel="stylesheet">
+		
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+      	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+     	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<!--       	<link rel="manifest" href="/site.webmanifest"> -->
+      	<meta name="msapplication-TileColor" content="#da532c">
+      	<meta name="theme-color" content="#ffffff">
+
+		<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="Museum Bulletin &raquo; Excavations at Tell Billa and Tepe Gawra Comments Feed" href="https://www.penn.museum/sites/bulletin/926/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.penn.museum\/sites\/bulletin\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.6"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.penn.museum/sites/bulletin/wp-includes/css/dist/block-library/style.min.css?ver=6.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.penn.museum/sites/bulletin/wp-includes/css/classic-themes.min.css?ver=6.2.6' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="https://api.w.org/" href="https://www.penn.museum/sites/bulletin/wp-json/" /><link rel="alternate" type="application/json" href="https://www.penn.museum/sites/bulletin/wp-json/wp/v2/posts/926" /><link rel="canonical" href="https://www.penn.museum/sites/bulletin/926/" />
+<link rel='shortlink' href='https://www.penn.museum/sites/bulletin/?p=926' />
+<link rel="alternate" type="application/json+oembed" href="https://www.penn.museum/sites/bulletin/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.penn.museum%2Fsites%2Fbulletin%2F926%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.penn.museum/sites/bulletin/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.penn.museum%2Fsites%2Fbulletin%2F926%2F&#038;format=xml" />
+ 
+      	<meta property="og:title" content="Museum Bulletin  | Excavations at Tell Billa and Tepe Gawra" />
+      	<meta property="og:description" content="<p>THE season at Tell Billa and Tepe Gawra has now closed and, although we have not yet received Dr. Speiser&#8217;s [&hellip;]</p>
+" />
+      	<meta property="og:url" content="https://www.penn.museum/sites/bulletin/926/" />
+      	<meta property="og:image" content="/apple-touch-icon.png" />
+      	<meta property="og:site_name" content="Museum Bulletin" />
+		
+		<title>Museum Bulletin  | Excavations at Tell Billa and Tepe Gawra</title>
+
+		<script src="https://kit.fontawesome.com/878fbe43a3.js" crossorigin="anonymous"></script>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.css"></link>
+	</head>
+	<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5SWZVXB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->		<div class="header__menu-wrapper">
+			<div class="parent-menu">
+				<div class="parent-menu__wrapper row">
+					<div class="parent-menu__logo">
+						<a href="#maincontent" class="skiplink">Skip Navigation</a>
+						<a href="/">
+							<img src="https://www.penn.museum/img/brand/pm-logo-blue.jpg" id="logo_dark" alt="Penn Museum logo">
+						</a>
+					</div>
+					<nav class="parent-menu__nav">
+						<ul class="parent-menu__nav-list">
+							<!-- <li><a href="/">Penn Museum Home</a></li>
+							<li><a href="/visit/plan-your-visit">Visit</a></li>
+							<li><a href="/on-view/galleries-exhibitions">On View</a></li>
+							<li><a href="/calendar">Events</a></li>
+							<li><a href="/collections">Collections</a></li>
+							<li><a href="/research/projects-researchers">Research</a></li>
+							<li><a href="#">Learn</a></li>
+							<li><a href="/join-support/membership">Join/Support</a></li>
+							<li><a href="#">About</a></li> -->
+							<li>
+								<button class="top__search btn-search search-web dark" aria-label="Open Search">
+									<i class="fa-solid fa-magnifying-glass icon"></i>
+								</button>
+							</li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+			<header class="header dark microsite_nav" data-parent>
+				<div class="header-web pt-0">
+					<div class="row header-web-wrapper">
+						<div class="header-web__logo">
+							<a href="https://www.penn.museum/sites/bulletin" class="h3 text-white text-decoration-none" style="font-family: 'FibraOne'">
+								Museum Bulletin							</a>
+						</div>
+						<nav class="header-web__nav row-column">
+							<div class="top row"></div>
+							<ul class="bottom row text table-nav">
+								<li  class="Array table-nav__item"><a class="btn-nav text--upper" tabindex="0" href="https://www.penn.museum/sites/bulletin/all-articles/">All Articles</a></li><li  class="Array table-nav__item"><a class="btn-nav text--upper" tabindex="0" href="https://www.penn.museum/sites/bulletin/all-issues/">All Issues</a></li><li  class="Array table-nav__item has_children"><a class="btn-nav text--upper" tabindex="0" href="#" aria-haspopup="true" aria-owns="231">Curatorial Section</a><nav class="table-nav__drop" id="231"><div class="table-nav__drop-inner-wrapper row light"><div class="left"><h4 class="navigation__title">Curatorial Section</h4><div class="navigation-container row g-1"><div class="top-level-item-descr"></div><div class="nav-links-container"><nav class="wp-nav">
+<ul class="sub-menu">
+<div class="nav-link-wrapper"><a href="https://www.penn.museum/sites/bulletin/category/african-section/">African Section</a></div><div class="nav-link-wrapper"><a href="https://www.penn.museum/sites/bulletin/category/american-section/">American Section</a></div><div class="nav-link-wrapper"><a href="https://www.penn.museum/sites/bulletin/category/asian-section/">Asian Section</a></div><div class="nav-link-wrapper"><a href="https://www.penn.museum/sites/bulletin/category/egyptian-section/">Egyptian Section</a></div><div class="nav-link-wrapper"><a href="https://www.penn.museum/sites/bulletin/category/european-section/">European Section</a></div><div class="nav-link-wrapper"><a href="https://www.penn.museum/sites/bulletin/category/mediterranean-section/">Mediterranean Section</a></div><div class="nav-link-wrapper"><a href="https://www.penn.museum/sites/bulletin/category/near-east-section/">Near East Section</a></div><div class="nav-link-wrapper"><a href="https://www.penn.museum/sites/bulletin/category/oceanian-section/">Oceanian Section</a></div></nav></div></div></div></div></nav>							</ul>
+						</nav>
+						<form class="form-web-search" method="get" role="search" action="https://www.penn.museum/sites/bulletin">
+          					<input type="search" class="input-web-search" placeholder="SEARCH" name="s" autofocus="" aria-label="Search">
+				        	<button type="submit" aria-label="Search submit" class="dark">
+				            	<i class="fa-solid fa-magnifying-glass fa-lg"></i>
+				          	</button>
+				          	<button type="button" class="search-close-btn" aria-label="Close search">
+				           		<i class="fa-solid fa-xmark fa-lg"></i>
+				          	</button>
+				        </form>
+					</div>
+				</div>
+				<div class="header-mobile row">
+					<div class="page__mobile" data-page-pushy-mobile>
+						<nav class="mobile-nav" data-mobile-nav>
+							<button class="close-molile-menu" aria-label="Close-menu">
+								<i class="fa-solid fa-xmark fa-lg text-black"></i>
+							</button>
+							<ul class="mobile-nav__list" data-mobile-nav-list role="navigation">
+																<li  class="Array mobile-nav__item" data-mobile-nav-item><a class="mobile-nav__link text--upper" href="https://www.penn.museum/sites/bulletin/all-articles/">All Articles</a></li></li>
+<li  class="Array mobile-nav__item" data-mobile-nav-item><a class="mobile-nav__link text--upper" href="https://www.penn.museum/sites/bulletin/all-issues/">All Issues</a></li></li>
+<li  class="Array mobile-nav__item" data-mobile-nav-item><a class="mobile-nav__link text--upper" href="#" data-mobile-nav-link target="self" aria-owns="231" aria-label="231, Open-sub-menu" role="button">Curatorial Section<span class="mobile-nav__has-children"><i class="fa-solid fa-arrow-right gray10 fa-sm"></i></span></a><ul class="mobile-nav__list mobile-nav__list--drop hidden" data-mobile-nav-list id="231"><li class="mobile-nav__item is-back" data-mobile-nav-item><button class="mobile-nav__link mobile-nav__link--go-back text-upper" data-mobile-nav-go-back>Curatorial Section</button></li><div class="top-level-item-descr"></div>	<li  class="Array mobile-nav__item" data-mobile-nav-item><a class="mobile-nav__link" href="https://www.penn.museum/sites/bulletin/category/african-section/">African Section</a></li></li>
+	<li  class="Array mobile-nav__item" data-mobile-nav-item><a class="mobile-nav__link" href="https://www.penn.museum/sites/bulletin/category/american-section/">American Section</a></li></li>
+	<li  class="Array mobile-nav__item" data-mobile-nav-item><a class="mobile-nav__link" href="https://www.penn.museum/sites/bulletin/category/asian-section/">Asian Section</a></li></li>
+	<li  class="Array mobile-nav__item" data-mobile-nav-item><a class="mobile-nav__link" href="https://www.penn.museum/sites/bulletin/category/egyptian-section/">Egyptian Section</a></li></li>
+	<li  class="Array mobile-nav__item" data-mobile-nav-item><a class="mobile-nav__link" href="https://www.penn.museum/sites/bulletin/category/european-section/">European Section</a></li></li>
+	<li  class="Array mobile-nav__item" data-mobile-nav-item><a class="mobile-nav__link" href="https://www.penn.museum/sites/bulletin/category/mediterranean-section/">Mediterranean Section</a></li></li>
+	<li  class="Array mobile-nav__item" data-mobile-nav-item><a class="mobile-nav__link" href="https://www.penn.museum/sites/bulletin/category/near-east-section/">Near East Section</a></li></li>
+	<li  class="Array mobile-nav__item" data-mobile-nav-item><a class="mobile-nav__link" href="https://www.penn.museum/sites/bulletin/category/oceanian-section/">Oceanian Section</a></li></li>
+</ul>
+</li>
+								
+								
+								<li class="is-footer child-footer light">
+              						<img src="https://www.penn.museum/img/brand/logo_dark-mob.svg" alt="Penn Museum logo">
+				              		<a href="/" class="button-wrapper" tabindex="-1">
+					                	<button class="btn btn-primary btn-primary__dark action-btn">
+					                  		<span>Penn Museum Home</span>
+					                	</button>
+				              		</a>
+				            	</li>
+							</ul>
+						</nav>
+					</div>
+					<div class="header-mobile__logo">
+						<a href="https://www.penn.museum/sites/bulletin" class="h4 text-white text-decoration-none" style="font-family: 'FibraOne'">
+							Museum Bulletin						</a>
+					</div>
+					<div class="header-mobile__search light">
+						<button class="close-btn close-mobile-search" aria-label="Close search.">
+							<i class="fa-solid fa-xmark fa-lg"></i>
+						</button>
+						<form method="get" role="search" action="https://www.penn.museum/sites/bulletin">
+							<div class="input-wrapper">
+            					<input type="search" name="s" placeholder="Search" autofocus="" aria-label="Search">
+            					<i class="fa-solid fa-magnifying-glass fa-lg"></i>
+          					</div>
+          					<button class="btn btn-primary" type="submit" aria-label="Search submit"><span>Search</span></button>
+						</form>
+					</div>
+					<div class="header-mobile__actions row">
+				        <button class="top__search btn-search mobile-seach" aria-label="Open Mobile Search">
+				          <i class="fa-solid fa-magnifying-glass fa-lg" class="icon"></i>
+				        </button>
+        				<div class="vertical-separator"></div>
+				        <button class="btn-menu" alia-label="Open Mobile Menu">
+				          <i class="fa-kit fa-burger-menu-icon fa-xl"></i>
+				        </button>
+      				</div>
+				</div>
+			</header>
+		</div>
+
+<div class="mainContent light" id="mainContent">
+	<section id="maincontent" data-parent>
+		<div class="main-container" itemscope itemtype="http://schema.org/ScholarlyArticle">
+			<article>
+				<div class="breadcrumb"><a href="https://www.penn.museum/sites/bulletin/issue?issue=593" class="btn-back"><i class="fa-kit fa-back-icon gray10 fa-sm"></i><span>Volume III / Number 5</span></a></div>				<h1 itemprop="headline" class="small">Excavations at Tell Billa and Tepe Gawra</h1>
+								<div class="row label">
+										<p class="text-sm">Originally Published in 1932</p>
+					<div class="vertical-separator"></div>
+					<p class="text-sm"><a href="/documents/publications/bulletin/03-5/excavations_tell_billa_tepe_gawra.pdf" target="_blank" >View PDF</a></p>				</div>
+				<div class="row g-2 pt-5" itemprop="articleBody">
+					<div class="right-rail ms-0">
+						<p class="lead">THE season at Tell Billa and Tepe Gawra has now closed and, although we have not yet received Dr. Speiser&#8217;s final report, he has cabled that in the division of objects the Museum has been most fortunate. We have been awarded the colored haematite figurine of a bull and the ivory plaque, the finding of which we reported last month, and the painted terra-cotta censer and the mosaic model shrine reported in the November <em>Bulletin</em>. A drawing of the bull constitutes our cover design this month, while the interesting model shrine is shown in Plate X. We need hardly say that these objects will be noteworthy additions to the Museum&#8217;s Mesopotamian collections.</p>
+
+	
+	<figure class="figure  mb-3">
+	  <img decoding="async" class="img-fluid size-large w-100" src="https://www.penn.museum/sites/bulletin/files/2020/09/bg1.jpg" alt="A small model shrine using small terra-cotta bricks" width="900">
+	 
+	  <figcaption class="figure-caption"><span aria-hidden="true" class="fas fa-chevron-up dark-gray" ></span> Plate X &#8212; A Model Shrine of Mosaic Terra-Cotta from Tell Billa, Iraq</figcaption>
+	</figure>
+<p>Further interesting details have been learned concerning a structure in the Assyrian stratum of Tell Billa. It was built of sun-dried brick, each wall encased in a <em>kisu</em>, or covering of baked brick; nor was this due to a desire for economy on the part of the builders but rather to their habitual attempt to harken back to the earliest times and to reproduce the oldest conditions as much as possible-it is precisely the sun-dried brick that was first used in Mesopotamia in the construction of shrines for ruling deities. That this actually was a shrine was shown by a fragment of an inscribed brick on which the king tells of having restored the shrine of Ishtar. Another brick reveals the identity of the king, for it bears the name of Shalmaneser, son of Ashurnasir-pal, king of Ashur. The temple is thus dated in the middle of the ninth century B. C.</p>
+<p>A number of other important inscriptions have been found at Tell Billa; these show considerable variety and include accounts, lists, legal documents and letters. Of great value is a list containing a long series of city names; it should prove most useful in reconstructing the topography of the district of Ninevah about the turn of the second millennium B. c. First in importance among the documents is a letter inscribed on a clay tablet. It came in a clay envelope with the name of the writer on top and the address in the lower half. Running around the middle part of the envelope is the seal impression of the sender which represents two standing figures flanked by deities standing on lions. The message concerns a certain amount of goods that have been sent to Ninevah and have been charged to the writer&#8217;s broker, whose name contains the Biblical element Yakub (Jacob), a very rare occurrence in non-Biblical sources.</p>
+
+	
+	<figure class="figure  mb-3">
+	  <img decoding="async" class="img-fluid size-large w-100" src="https://www.penn.museum/sites/bulletin/files/2020/09/bg2.jpg" alt="A thin, tall triangular window in an excavated wall" width="900">
+	 
+	  <figcaption class="figure-caption"><span aria-hidden="true" class="fas fa-chevron-up dark-gray" ></span> Plate XI &#8212; A Niche Window in a Prehistoric Building at Tepe Gawra, Iraq</figcaption>
+	</figure>
+<p>At Tepe Gawra, work has proceeded into the ninth stratum. In stratum eight an interesting feature was the finding of niche windows such as that shown in Plate XI, which shows also the massiveness of the construction. Stratum seven at Gawra had been largely destroyed by the builders of stratum six, but enough of the older layer was left to indicate two characteristics: a peculiar type of pottery with wide, splaying rim; and a new style in the seals-these were no longer cylindrical and had not only predominantly naturalistic designs, but also geometric patterns peculiar to the period.</p>
+					</div>
+				</div>
+			</article>
+		</div>
+	</section>
+	<section class="pt-0">
+		<div class="main-container">
+			<div class="row g-2">
+				<div class="right-rail ms-0">
+					<h3>Cite This Article</h3>
+           			"Excavations at Tell Billa and Tepe Gawra." <em>Museum Bulletin</em> III, no. 5 (March, 1932): 126-130. Accessed December 31, 2024. https://www.penn.museum/sites/bulletin/926/ </p>					<hr>
+					<p>This digitized article is presented here as a historical reference and may not reflect the current views of the Penn Museum.</p>
+					<p>Report problems and issues to <a href="mailto:digitalmedia@pennmuseum.org">digitalmedia@pennmuseum.org</a>.</p>
+            						</div>
+			</div>
+		</div>
+	</section>
+</div>
+
+<footer class="footer dark">
+      <div class="main-container">
+        <div class="justify-content-between row g-1">
+          <div class="contact-area">
+            <div class="logo">
+              <a href="/" class="logo-link"><img src="https://www.penn.museum/img/brand/footer-logo.png" alt="Penn Museum Homepage."></a>
+            </div>
+            <p class="text-sm mb-0">3260 South Street Philadelphia, PA 19104</p>
+            <p class="text-sm mb-0"><a href="tel:215-898-4000">215.898.4000</a> | © Penn Museum 2022</p>
+            <div class="socials-container">
+              <a class="social-link" href="https://www.youtube.com/pennmuseum" title="Youtube" target="_blank">
+                <i class="fa-brands fa-youtube fa-2xl"></i>
+              </a>
+              <a class="social-link" href="https://www.facebook.com/pennmuseum" title="Facebook" target="_blank">
+                <i class="fa-brands fa-facebook fa-2xl"></i>
+              </a>
+              <a class="social-link" href="https://twitter.com/pennmuseum" title="Twitter" target="_blank">
+                <i class="fa-brands fa-x-twitter fa-2xl"></i>
+              </a>
+              <a class="social-link" href="https://www.instagram.com/pennmuseum/" title="Instagram" target="_blank">
+                <i class="fa-brands fa-instagram fa-2xl"></i>
+              </a>
+              <a class="social-link" href="https://www.pinterest.com/pennmuseum/" title="Pinterest" target="_blank">
+                <i class="fa-brands fa-pinterest fa-2xl"></i>
+              </a>
+            </div>
+          </div>
+          <div class="links-area">
+            <div class="museum-links row">
+              <div class="site-links">
+                <a href="/about/our-story"><span>ABOUT</span></a>
+                <a href="/join-support/membership"><span>MEMBERSHIP</span></a>
+                <a href="/join-support/annual-fund"><span>SUPPORT</span></a>
+                <a href="/about/press-room"><span>PRESS</span></a>
+                <a href="/about/rent-the-penn-museum"><span>HOST AN EVENT</span></a>
+              </div>
+              <div class="acknowledgement-newsletter">
+                <div class="text-lg land-acknowledgement">
+                  The Penn Museum respectfully acknowledges that it is situated on Lenapehoking, the ancestral and spiritual homeland of the Unami Lenape.
+                </div>
+
+                <div class="newsletter-area">
+                  <div>
+                    <h2 class="h4">World Wonders in your inbox.</h4>
+                    <div class="text-sm">Sign up for our Newsletter</div>
+                  </div>
+                  <a href="https://penn.us2.list-manage.com/subscribe?u=eea9348236df6a712d3d6ff30&id=de04652c7c" target="_blank" class="btn btn-blue-outline" aria-label="Subcribe">
+                    <span>Subscribe</span><i></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row g-1 justify-content-between">
+         <div class="footer-logo-container">
+          <img src="https://www.penn.museum/img/brand/university-footer-logo.webp" alt="UPenn logo." style="max-width: 125px;">
+        </div>
+        <div class="penn-links">
+          <a href="https://accessibility.web-resources.upenn.edu/get-help" class="text-md" title="Report Web Accessibility Issues and Get Help" target="_blank"><span>Report Web Accessibility Issues and Get Help</span></a>
+          <a href="/about/contact-us" class="text-md" title="Contact"><span>Contact</span></a>
+          <a href="http://www.upenn.edu/computing/policy/copyright.html" target="_blank" class="text-md" title="Copyright"><span>Copyright</span></a>
+          <a href="http://www.upenn.edu/about/disclaimer" target="_blank" class="text-md" title="Disclaimer"><span>Disclaimer</span></a>
+          <a href="http://www.upenn.edu/about/privacy_policy" target="_blank" class="text-md" title="Privacy"><span>Privacy</span></a>
+        </div>
+      </div>
+    </div>
+  </footer>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/swiffy-slider@1.6.0/dist/js/swiffy-slider.min.js" crossorigin="anonymous" defer=""></script>
+	<script src="/js/main.js"></script>
+	<script src="https://www.youtube.com/iframe_api"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+	</body>
+</html>

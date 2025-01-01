@@ -1,0 +1,11 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Pichincha Ecuador Excursion I
+
+Basic location of event: Ecuador
+
+Specific data/information/context related to event: Sci-Hub | New Paleomagnetic results and evidence for a geomagnetic field excursion during the pleistocene-holocene transition at Pichincha province, Ecuador. Geofísica Internacional, 54(2), 127–148 | 10.1016/j.gi.2015.04.009
+
+Nami, H. G. (2015). New Paleomagnetic results and evidence for a geomagnetic field excursion during the pleistocene-holocene transition at Pichincha province, Ecuador. Geofísica Internacional, 54(2), 127–148. doi:10.1016/j.gi.2015.04.009
+
+10.1016/j.gi.2015.04.009

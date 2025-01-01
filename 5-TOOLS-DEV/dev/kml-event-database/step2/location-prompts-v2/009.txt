@@ -1,0 +1,15 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Cova Rosa Occupation
+
+Basic location of event: Spain
+
+Specific data/information/context related to event: Sci-Hub | RADIOCARBON DATES FOR THE LATE PLEISTOCE | 10.1017/rdc.2021.18
+
+◂
+
+�lvarez-Fernández, E., Jordá Pardo, J. F., Arias, P., Bécares, J., Martín-Jarque, S., Portero, R., Teira, L., & Douka, K. (2021). RADIOCARBON DATES FOR THE LATE PLEISTOCENE AND EARLY HOLOCENE OCCUPATIONS OF COVA ROSA (RIBADESELLA, ASTURIAS, SPAIN). Radiocarbon, 1–20. https://doi.org/10.1017/rdc.2021.18
+
+10.1017/rdc.2021.18
+
+downloaded on 2021-08-10

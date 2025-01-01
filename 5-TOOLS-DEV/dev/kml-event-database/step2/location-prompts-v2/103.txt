@@ -1,0 +1,512 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Kultepe/Khanesh Burning
+
+Basic location of event: Turkey
+
+Specific data/information/context related to event: Hittites - Wikipedia
+
+This article is about the Anatolian culture. For the group described in the Bible, see Biblical Hittites. For the pre-Hittite inhabitants of Anatolia, see Hattians.
+Hittite Empire
+Hittite-language text 𒄩𒀜𒌅𒊭 (Ḫattuša)
+c. 1650 BC–c. 1180 BC
+Royal seal of the last king Šuppiluliuma II of Hittites
+Map of the Hittite Empire at its greatest extent, with Hittite rule c. 1300 BC
+Capital
+Hattusa, Tarḫuntašša (under the reign of Muwatalli II)
+Capital-in-exile
+Samuha (1400–1350 BC)
+Common languages
+Hittite, Hattic, Luwian, Akkadian
+Religion
+Hittite religion
+Government
+Absolute monarchy (Old Kingdom)
+Constitutional monarchy (Middle and New Kingdom)
+King
+Labarna I (first)
+Šuppiluliuma II (last)
+Historical era
+Bronze Age
+Established c. 1650 BC
+Disestablished c. 1180 BC
+Preceded by
+Hattians
+Kussara
+Kanesh
+Purushanda
+Pala (Anatolia)
+Third Eblaite Kingdom
+Kizzuwatna
+Assuwa
+Arzawa
+Wilusa
+Alashiya
+Kaskians
+Mushki
+Urumeans
+Syro-Hittite states
+Tabal
+Kummuh
+Carchemish
+Phrygia
+Lydia
+Today part of
+Turkey
+Syria
+Lebanon
+Cyprus
+
+The Hittites were an Anatolian Indo-European people who formed one of the first major civilizations of Bronze Age West Asia. Possibly originating from beyond the Black Sea, they settled in modern-day Turkey in the early 2nd millennium BC. The Hittites formed a series of polities in north-central Anatolia, including the kingdom of Kussara (before 1750 BC), the Kanesh or Nesha kingdom (c. 1750–1650 BC), and an empire centered on Hattusa (around 1650 BC). Known in modern times as the Hittite Empire, it reached its peak during the mid-14th century BC under Šuppiluliuma I, when it encompassed most of Anatolia and parts of the northern Levant and Upper Mesopotamia, bordering the rival empires of the Hurri-Mitanni and Assyrians.
+
+Between the 15th and 13th centuries BC, the Hittites were one of the dominant powers of the Near East, coming into conflict with the New Kingdom of Egypt, the Middle Assyrian Empire, and the empire of Mitanni. By the 12th century BC, much of the Hittite Empire was annexed by the Middle Assyrian Empire, with the remainder sacked by Phrygian newcomers to the region. From the late 12th century BC, during the Late Bronze Age collapse, the Hittites splintered into several small independent states, some of which survived until the eighth century BC before succumbing to the Neo-Assyrian Empire; lacking a unifying continuity, their descendants scattered and ultimately merged into the modern populations of the Levant and Mesopotamia.
+
+The Hittite language—referred to by its speakers as nešili, "the language of Nesa"—was a distinct member of the Anatolian branch of the Indo-European language family; along with the closely related Luwian language, it is the oldest historically attested Indo-European language. The history of the Hittite civilization is known mostly from cuneiform texts found in their former territories and from diplomatic and commercial correspondence found in the various archives of Assyria, Babylonia, Egypt, and the broader Middle East; the decipherment of these texts was a key event in the history of Indo-European studies. Cultural links to prehistoric Scandinavia have also been suggested.
+
+Scholars once attributed the development of iron-smelting to the Hittites, who were believed to have monopolized ironworking during the Bronze Age. This theory has been increasingly contested in the 21st century, with the Late Bronze Age collapse and subsequent Iron Age seeing the slow, comparatively continuous spread of ironworking technology across the region. While there are some iron objects from Bronze Age Anatolia, the number is comparable to that of iron objects found in Egypt, Mesopotamia, and in other places from the same period; and only a small number of these objects are weapons. X-ray fluorescence spectrometry suggests "that most or all irons from the Bronze Age are derived from" meteorites. The Hittite military also made successful use of chariots.
+
+Modern interest in the Hittites increased with the founding of the Republic of Turkey in 1923. The Hittites attracted the attention of Turkish archaeologists such as Halet Çambel and Tahsin Özgüç. During this period, the new field of Hittitology also influenced the naming of Turkish institutions, such as the state-owned Etibank ("Hittite bank"), and the foundation of the Museum of Anatolian Civilizations in Ankara, built 200 kilometers (120 mi) west of the Hittite capital of Hattusa, which houses the world's most comprehensive exhibition of Hittite art and artifacts.
+
+Etymology
+The Hittites called their kingdom Hattusa (Hatti in Akkadian), a name received from the Hattians, an earlier people who had inhabited and ruled the central Anatolian region until the beginning of the second millennium BC, and who spoke an unrelated language known as Hattic. The modern conventional name "Hittites" is due to the initial identification of the people of Hattusa with the Biblical Hittites by 19th-century archaeologists. The Hittites would have called themselves something closer to "Neshites" or "Neshians" after the city of Nesha, which flourished for some two hundred years until a king named Labarna renamed himself Hattusili I (meaning "the man of Hattusa") sometime around 1650 BC and established his capital city at Hattusa.
+
+Archeological discovery
+An Alaca Höyük bronze standard from a third millennium BC pre-Hittite tomb (Museum of Anatolian Civilizations, Ankara)
+Ivory Hittite Sphinx, 18th century BC
+Before the archeological discoveries that revealed the Hittite civilization, the only source of information about the Hittites had been the Hebrew Bible. Francis William Newman expressed the critical view, common in the early 19th century, that, "no Hittite king could have compared in power to the King of Judah...". As the discoveries in the second half of the 19th century revealed the scale of the Hittite kingdom, Archibald Sayce asserted that, rather than being compared to Judah, the Anatolian civilization "[was] worthy of comparison to the divided Kingdom of Egypt", and was "infinitely more powerful than that of Judah". Sayce and other scholars also noted that Judah and the Hittites were never enemies in the Hebrew texts; in the Book of Kings, they supplied the Israelites with cedar, chariots, and horses, and in the Book of Genesis were friends and allies to Abraham. Uriah the Hittite was a captain in King David's army and counted as one of his "mighty men" in 1 Chronicles 11.
+
+French scholar Charles Texier found the first Hittite ruins in 1834 but did not identify them as such. The first archaeological evidence for the Hittites appeared in tablets found at the karum of Kanesh (now called Kültepe), containing records of trade between Assyrian merchants and a certain "land of Hatti". Some names in the tablets were neither Hattic nor Assyrian but clearly Indo-European.
+
+The script on a monument at Boğazkale by a "People of Hattusas" discovered by William Wright in 1884 was found to match peculiar hieroglyphic scripts from Aleppo and Hama in Northern Syria. In 1887, excavations at Amarna in Egypt uncovered the diplomatic correspondence of Pharaoh Amenhotep III and his son, Akhenaten. Two of the letters from a "kingdom of Kheta"—apparently located in the same general region as the Mesopotamian references to "land of Hatti"—were written in standard Akkadian cuneiform, but in an unknown language; although scholars could interpret its sounds, no one could understand it. Shortly after this, Sayce proposed that Hatti or Khatti in Anatolia was identical with the "kingdom of Kheta" mentioned in these Egyptian texts, as well as with the biblical Hittites. Others, such as Max Müller, agreed that Khatti was probably Kheta, but proposed connecting it with Biblical Kittim rather than with the Biblical Hittites. Sayce's identification came to be widely accepted over the course of the early 20th century; and the name "Hittite" has become attached to the civilization uncovered at Boğazköy.
+
+During sporadic excavations at Boğazköy (Hattusa) that began in 1906, the archaeologist Hugo Winckler found a royal archive with 10,000 tablets, inscribed in cuneiform Akkadian and the same unknown language as the Egyptian letters from Kheta—thus confirming the identity of the two names. He also proved that the ruins at Boğazköy were the remains of the capital of an empire that, at one point, controlled northern Syria.
+
+The Hittites used a variation of cuneiform called Hittite cuneiform. Archaeological expeditions to Hattusa have discovered entire sets of royal archives on cuneiform tablets, written either in Akkadian, the diplomatic language of the time, or in the various dialects of the Hittite confederation.
+
+Museums
+The Museum of Anatolian Civilizations in Ankara, Turkey houses the richest collection of Hittite and Anatolian artifacts.
+
+Geography
+Ceremonial vessels in the shape of sacred bulls, called Hurri (Day) and Seri (Night) found in Hattusa, Hittite Old Kingdom (16th century BC) Museum of Anatolian Civilizations, Ankara
+The Hittite kingdom was centered on the lands surrounding Hattusa and Neša (Kültepe), known as "the land Hatti" (URUHa-at-ti). After Hattusa was made the capital, the area encompassed by the bend of the Kızılırmak River (Hittite Marassantiya, Greek Halys) was considered the core of the Empire, and some Hittite laws make a distinction between "this side of the river" and "that side of the river". For example, the bounty for an escaped slave who had fled beyond the river is higher than for a slave caught on the near side.
+
+To the west and south of the core territory lay the region known as Luwiya in the earliest Hittite texts. This terminology was replaced by the names Arzawa and Kizzuwatna with the rise of those kingdoms. Nevertheless, the Hittites continued to refer to the language that originated in these areas as Luwian. Prior to the rise of Kizzuwatna, the heart of that territory in Cilicia was first referred to by the Hittites as Adaniya. Upon its revolt from the Hittites during the reign of Ammuna, it assumed the name of Kizzuwatna and successfully expanded northward to encompass the lower Anti-Taurus Mountains as well. To the north lived the mountain people called the Kaskians. To the southeast of the Hittites lay the Hurrian empire of Mitanni.
+
+At its peak during the reign of Muršili II, the Hittite empire stretched from Arzawa in the west to Mitanni in the east, and included many of the Kaskian territories north as far as Hayasa-Azzi in the far north-east, as well as south into Canaan near the southern border of Lebanon.
+
+History
+Scheme of Indo-European language dispersals from c. 4000 to 1000 BC according to the widely held Kurgan hypothesis.
+Origins
+The ancestors of the Hittites came into Anatolia between 4400 and 4100 BC, when the Anatolian language family split from (Proto)-Indo-European. Recent genetic and archaeological research has indicated that Proto-Anatolian speakers arrived in this region sometime between 5000 and 3000 BC. The Proto-Hittite language developed around 2100 BC, and the Hittite language itself is believed to have been in use in Central Anatolia between the 20th and 12th centuries BC.
+
+The Hittites are first associated with the kingdom of Kussara sometime prior to 1750 BC.
+Hittites in Anatolia during the Bronze Age coexisted with Hattians and Hurrians, either by means of conquest or by gradual assimilation. In archaeological terms, relationships of the Hittites to the Ezero culture of the Balkans and Maykop culture of the Caucasus had previously been considered within the migration framework.
+
+Analyses by David W. Anthony in 2007 concluded that steppe herders who were archaic Indo-European speakers spread into the lower Danube valley about 4200–4000 BC, either causing or taking advantage of the collapse of Old Europe. He thought their languages "probably included archaic Proto-Indo-European dialects of the kind partly preserved later in Anatolian," and that their descendants later moved into Anatolia at an unknown time but maybe as early as 3000 BC. J. P. Mallory also thought it was likely that the Anatolians reached the Near East from the north either via the Balkans or the Caucasus in the 3rd millennium BC. According to Parpola, the appearance of Indo-European speakers from Europe into Anatolia, and the appearance of Hittite, was related to later migrations of Proto-Indo-European speakers from the Yamnaya culture into the Danube Valley at c. 2800 BC, which was in line with the "customary" assumption that the Anatolian Indo-European language was introduced into Anatolia sometime in the third millennium BC.
+
+However, Petra Goedegebuure has shown that the Hittite language has borrowed many words related to agriculture from cultures on their eastern borders, which is evidence of having taken a route across the Caucasus.
+
+David Reich, Iosif Lazaridis, Songül Alpaslan-Roodenberg et al. have demonstrated that the Hittite route must have been via the Caucasus and not the Balkans, since Yamnaya expansion into the Balkans carried a component of Eastern Hunter Gatherer ancestry that does not exist in any ancient Anatolian DNA samples, which indicates also that Hittites and their cousin groups split off from the Proto-Indo-Europeans before the formation of the Yamnaya which did admix with Eastern Hunter Gatherers.
+
+The dominant indigenous inhabitants in central Anatolia were Hurrians and Hattians who spoke non-Indo-European languages. Some have argued that Hattic was a Northwest Caucasian language, but its affiliation remains uncertain, whilst the Hurrian language was a near-isolate (i.e. it was one of only two or three languages in the Hurro-Urartian family). There were also Assyrian colonies in the region during the Old Assyrian Empire (2025–1750 BC); it was from the Assyrian speakers of Upper Mesopotamia that the Hittites adopted the cuneiform script. It took some time before the Hittites established themselves following the collapse of the Old Assyrian Empire in the mid-18th century BC, as is clear from some of the texts included here. For several centuries there were separate Hittite groups, usually centered on various cities. But then strong rulers with their center in Hattusa (modern Boğazkale) succeeded in bringing these together and conquering large parts of central Anatolia to establish the Hittite kingdom.
+
+Early period
+The Hittite state was formed from many small polities in North-Central Anatolia, at the banks of the Kızılırmak River, during the Middle Bronze Age (ca. 1900–1650 BC). The early history of the Hittite kingdom is known through four "cushion-shaped" tablets (classified as KBo 3.22, KBo 17.21+, KBo 22.1, and KBo 22.2), not made in Ḫattuša, but probably created in Kussara, Nēša, or another site in Anatolia, that may first have been written in the 18th century BC, in Old Hittite language, and three of them using the so-called "Old Script" (OS); although most of the remaining tablets survived only as Akkadian copies made in the 14th and 13th centuries BC. These reveal a rivalry within two branches of the royal family up to the Middle Kingdom; a northern branch first based in Zalpuwa and secondarily Hattusa, and a southern branch based in Kussara (still not found) and the former Assyrian colony of Kanesh. These are distinguishable by their names; the northerners retained language isolate Hattian names, and the southerners adopted Indo-European Hittite and Luwian names.
+
+Zalpuwa first attacked Kanesh under Uhna in 1833 BC. And during this kārum period, when the merchant colony of the Old Assyrian Empire was flourishing in the site, and before the conquest of Pithana, the following local kings reigned in Kaneš: Ḫurmili (prior to 1790 BC), Paḫanu (a short time in 1790 BC), Inar (c. 1790–1775 BC), and Waršama (c. 1775–1750 BC).
+
+One set of tablets, known collectively as the Anitta text, begin by telling how Pithana the king of Kussara conquered neighboring Neša (Kanesh), this conquest took place around 1750 BC. However, the real subject of these tablets is Pithana's son Anitta (r. 1745–1720 BC), who continued where his father left off and conquered several northern cities: including Hattusa, which he cursed, and also Zalpuwa. This was likely propaganda for the southern branch of the royal family, against the northern branch who had fixed on Hattusa as capital. Another set, the Tale of Zalpuwa, supports Zalpuwa and exonerates the later Ḫattušili I from the charge of sacking Kanesh.
+
+Anitta was succeeded by Zuzzu (r. 1720–1710 BC); but sometime in 1710–1705 BC, Kanesh was destroyed, taking the long-established Assyrian merchant trading system with it. A Kussaran noble family survived to contest the Zalpuwan/Hattusan family, though whether these were of the direct line of Anitta is uncertain.
+
+Meanwhile, the lords of Zalpa lived on. Huzziya I, descendant of a Huzziya of Zalpa, took over Hatti. His son-in-law Labarna I, a southerner from Hurma usurped the throne but made sure to adopt Huzziya's grandson Ḫattušili as his own son and heir. The location of the land of Hurma is believed to be in the mountains south of Kussara.
+
+Old Kingdom
+The founding of the Hittite Kingdom is attributed to either Labarna I or Hattusili I (the latter might also have had Labarna as a personal name), who conquered the area south and north of Hattusa. Hattusili I campaigned as far as the Semitic Amorite kingdom of Yamkhad in Syria, where he attacked, but did not capture, its capital of Aleppo. Hattusili I did eventually capture Hattusa and was credited for the foundation of the Hittite Empire. 
+
+"Hattusili was king, and his sons, brothers, in-laws, family members, and troops were all united. Wherever he went on campaign he controlled the enemy land with force. He destroyed the lands one after the other, took away their power, and made them the borders of the sea. When he came back from campaign, however, each of his sons went somewhere to a country, and in his hand the great cities prospered. But, when later the princes' servants became corrupt, they began to devour the properties, conspired constantly against their masters, and began to shed their blood."
+
+This excerpt from The Edict of Telepinu, dating to the 16th century BC, is supposed to illustrate the unification, growth, and prosperity of the Hittites under his rule. It also illustrates the corruption of "the princes", believed to be his sons. The lack of sources leads to uncertainty of how the corruption was addressed. On Hattusili I's deathbed, he chose his grandson Mursili I (or Murshilish I) as his heir.
+
+Mursili continued the conquests of Hattusili I. In 1595 BC (middle chronology) or 1587 BC (low middle chronology), Mursili I conducted a great raid down the Euphrates River, bypassing Assyria and sacking Mari and Babylon, ejecting the Amorite rulers of the Old Babylonian Empire in the process. Rather than incorporate Babylonia into Hittite domains, Mursili seems to have instead turned control of Babylonia over to his Kassite allies, who were to rule it for the next four centuries. Due to fear of revolts at home, he did not remain in Babylon for long. This lengthy campaign strained the resources of Hatti, and left the capital in a state of near-anarchy. Mursili was assassinated by his brother-in-law Hantili I during his journey back to Hattusa or shortly after his return home, and the Hittite Kingdom was plunged into chaos. Hantili took the throne. He was able to escape multiple murder attempts on himself, however, his family did not. His wife, Harapsili was a significant figure in this period.
+psili and her son were murdered. In addition, other members of the royal family were killed by Zidanta I, who was then murdered by his own son, Ammuna. All of the internal unrest among the Hittite royal family led to a decline of power. The Hurrians, a people living in the mountainous region along the upper Tigris and Euphrates rivers in modern south east Turkey, took advantage of the situation to seize Aleppo and the surrounding areas for themselves, as well as the coastal region of Adaniya, renaming it Kizzuwatna (later Cilicia). Throughout the remainder of the 16th century BC, the Hittite kings were held to their homelands by dynastic quarrels and warfare with the Hurrians. The Hurrians became the center of power in Anatolia. The campaigns into Amurru and southern Mesopotamia may be responsible for the reintroduction of cuneiform writing into Anatolia, since the Hittite script is quite different from that of the preceding Assyrian colonial period.
+
+The Hittites entered a weak phase of obscure records, insignificant rulers, and reduced domains. This pattern of expansion under strong kings followed by contraction under weaker ones, was to be repeated over and over through the Hittite Kingdom's 500-year history, making events during the waning periods difficult to reconstruct. The political instability of these years of the Old Hittite Kingdom can be explained in part by the nature of the Hittite kingship at that time. During the Old Hittite Kingdom prior to 1400 BC, the king of the Hittites was not viewed by his subjects as a "living god" like the Pharaohs of Egypt, but rather as a first among equals. Only in the later period from 1400 BC until 1200 BC did the Hittite kingship become more centralized and powerful. Also in earlier years the succession was not legally fixed, enabling "War of the Roses"-style rivalries between northern and southern branches.
+
+The next monarch of note following Mursili I was Telepinu (c. 1500 BC), who won a few victories to the southwest, apparently by allying himself with one Hurrian state (Kizzuwatna) against another (Mitanni). Telepinu also attempted to secure the lines of succession.
+
+The last monarch of the Old Kingdom, Telepinu, reigned until about 1500 BC. Telepinu's reign marked the end of the "Old Kingdom" and the beginning of the lengthy weak phase known as the "Middle Kingdom." The period of the 15th century BC is largely unknown with few surviving records. Part of the reason for both the weakness and the obscurity is that the Hittites were under constant attack, mainly from the Kaskians, a non-Indo-European people settled along the shores of the Black Sea. The capital once again went on the move, first to Sapinuwa and then to Samuha. There is an archive in Sapinuwa, but it has not been adequately translated to date.
+
+It segues into the "Hittite Empire period" proper, which dates from the reign of Tudhaliya I from c. 1430 BC.
+
+One innovation that can be credited to these early Hittite rulers is the practice of conducting treaties and alliances with neighboring states; the Hittites were thus among the earliest known pioneers in the art of international politics and diplomacy. This is also when the Hittite religion adopted several gods and rituals from the Hurrians.
+
+With the reign of Tudhaliya I (who may actually not have been the first of that name; see also Tudhaliya), the Hittite Kingdom re-emerged from the fog of obscurity and entered the "Hittite Empire period." Many changes were afoot during this time, not the least of which was a strengthening of the kingship. Settlement of the Hittites progressed in the Empire period. However, the Hittite people tended to settle in the older lands of south Anatolia rather than the lands of the Aegean. As this settlement progressed, treaties were signed with neighboring peoples. During the Hittite Empire period the kingship became hereditary and the king took on a "superhuman aura" and began to be referred to by the Hittite citizens as "My Sun". The kings of the Empire period began acting as a high priest for the whole kingdom – making an annual tour of the Hittite holy cities, conducting festivals and supervising the upkeep of the sanctuaries.
+
+During his reign (c. 1400 BC), King Tudhaliya I, again allied with Kizzuwatna, then vanquished the Hurrian states of Aleppo and Mitanni, and expanded to the west at the expense of Arzawa (a Luwian state).
+
+Another weak phase followed Tudhaliya I, and the Hittites' enemies from all directions were able to advance even to Hattusa and raze it. However, the kingdom recovered its former glory under Šuppiluliuma I (c. 1350 BC), who again conquered Aleppo. Mitanni was reduced to vassalage by the Assyrians under his son-in-law, and he defeated Carchemish, another Amorite city-state. With his own sons placed over all of these new conquests and Babylonia still in the hands of the allied Kassites, this left Šuppiluliuma the supreme power broker in the known world, alongside Assyria and Egypt, and it was not long before Egypt was seeking an alliance by marriage of another of his sons with the widow of Tutankhamen. That son was evidently murdered before reaching his destination, and this alliance was never consummated. However, the Middle Assyrian Empire (1365–1050 BC) once more began to grow in power with the ascension of Ashur-uballit I in 1365 BC. Ashur-uballit I attacked and defeated Mattiwaza the Mitanni king despite attempts by the Hittite king Šuppiluliuma I, now fearful of growing Assyrian power, attempting to preserve his throne with military support. The lands of the Mitanni and Hurrians were duly appropriated by Assyria, enabling it to encroach on Hittite territory in eastern Asia Minor, and Adad-nirari I annexed Carchemish and northeast Syria from the control of the Hittites.
+
+While Šuppiluliuma I reigned, the Hittite Empire was devastated by an epidemic of tularemia. The epidemic afflicted the Hittites for decades and tularemia killed Šuppiluliuma I and his successor, Arnuwanda II. After Šuppiluliuma I's rule, and the brief reign of his eldest son, Arnuwanda II, another son, Mursili II, became king (c. 1330 BC). Having inherited a position of strength in the east, Mursili was able to turn his attention to the west, where he attacked Arzawa. At a point when the Hittites were weakened by the tularemia epidemic, the Arzawans attacked the Hittites, who repelled the attack by sending infected rams to the Arzawans. This was the first recorded use of biological warfare. Mursili also attacked a city known as Millawanda (Miletus), which was under the control of Ahhiyawa. More recent research based on new readings and interpretations of the Hittite texts, as well as of the material evidence for Mycenaean contacts with the Anatolian mainland, came to the conclusion that Ahhiyawa referred to Mycenaean Greece, or at least to a part of it.
+
+Hittite prosperity was mostly dependent on control of the trade routes and metal sources. Because of the importance of Northern Syria to the vital routes linking the Cilician gates with Mesopotamia, defense of this area was crucial, and was soon put to the test by Egyptian expansion under Pharaoh Ramesses II. The outcome of the Battle of Kadesh is uncertain, though it seems that the timely arrival of Egyptian reinforcements prevented total Hittite victory. The Egyptians forced the Hittites to take refuge in the fortress of Kadesh, but their own losses prevented them from sustaining a siege. This battle took place in the 5th year of Ramesses (c. 1274 BC by the most commonly used chronology).
+
+After this date, the power of both the Hittites and Egyptians began to decline yet again because of the power of the Assyrians. The Assyrian king Shalmaneser I had seized the opportunity to vanquish Hurrians and Mitanni, occupy their lands, and expand up to the head of the Euphrates, while Muwatalli was preoccupied with the Egyptians. The Hittites had vainly tried to preserve the Mitanni Kingdom with military support. Assyria now posed just as great a threat to Hittite trade routes as Egypt ever had. Muwatalli's son, Urhi-Teshub, took the throne and ruled as king for seven years as Mursili III before being ousted by his uncle, Hattusili III after a brief civil war. In response to increasing Assyrian annexation of Hittite territory, he concluded a peace and alliance with Ramesses II (also fearful of Assyria), presenting his daughter's hand in marriage to the Pharaoh. The Treaty of Kadesh, one of the oldest completely surviving treaties in history, fixed their mutual boundaries in southern Canaan, and was signed in the 21st year of Rameses (c. 1258 BC). Terms of this treaty included the marriage of one of the Hittite princesses to Ramesses.
+
+Hattusili's son, Tudhaliya IV, was the last strong Hittite king able to keep the Assyrians out of the Hittite heartland to some degree at least, though he too lost much territory to them, and was heavily defeated by Tukulti-Ninurta I of Assyria in the Battle of Nihriya. He even temporarily annexed the island of Cyprus, before that too fell to Assyria. The last king, Šuppiluliuma II also managed to win some victories, including a naval battle against Alashiya off the coast of Cyprus. But the Assyrians, under Ashur-resh-ishi I had by this time annexed much Hittite territory in Asia Minor and Syria, driving out and defeating the Babylonian king Nebuchadnezzar I in the process, who also had eyes on Hittite lands.
+
+The Sea Peoples had already begun their push down the Mediterranean coastline, starting from the Aegean, and continuing all the way to Canaan, founding the state of Philistia – taking Cilicia and Cyprus away from the Hittites en route and cutting off their coveted trade routes. This left the Hittite homelands vulnerable to attack from all directions, and Hattusa was burnt to the ground sometime around 1180 BC following a combined onslaught from new waves of invaders: the Kaskians, Phrygians and Bryges. The Hittite Kingdom thus vanished from historical records, much of the territory being seized by Assyria. Alongside with these attacks, many internal issues also led to the end of the Hittite Kingdom. The end of the kingdom was part of the larger Bronze Age Collapse. A study of tree rings of juniper trees growing in the region showed a change to drier conditions from the 13th century BC into the 12th century BC with drought for three consecutive years in 1198, 1197 and 1196 BC.
+
+By 1160 BC, the political situation in Asia Minor looked vastly different from that of only 25 years earlier. In that year, the Assyrian king Tiglath-Pileser I was defeating the Mushki (Phrygians) who had been attempting to press into Assyrian colonies in southern Anatolia from the Anatolian highlands, and the Kaska people, the Hittites' old enemies from the northern hill-country between Hatti and the Black Sea, seem to have joined them soon after. The Phrygians had apparently overrun Cappadocia from the West, with recently discovered epigraphic evidence confirming their origins as the Balkan "Bryges" tribe, forced out by the Macedonians.
+
+Although the Hittite Kingdom disappeared from Anatolia at this point, there emerged a number of so-called Syro-Hittite states in Anatolia and northern Syria. They were the successors of the Hittite Kingdom. The most notable Syro-Hittite kingdoms were those at Carchemish and Melid. With the ruling family in Carchemish believed to have been a cadet branch of the then defunct central ruling Hittite line. These Syro-Hittite states gradually fell under the control of the Neo-Assyrian Empire (911–608 BC). Carchemish and Melid were made vassals of Assyria under Shalmaneser III (858–823 BC), and fully incorporated into Assyria during the reign of Sargon II (722–705 BC).
+
+A large and powerful state known as Tabal occupied much of southern Anatolia. Known as Greek Tibarenoi (Ancient Greek: Τιβαρηνοί), Latin Tibareni, Thobeles in Josephus, their language may have been Luwian, testified to by monuments written using Anatolian hieroglyphs. This state too was conquered and incorporated into the vast Neo-Assyrian Empire.
+
+Ultimately, both Luwian hieroglyphs and cuneiform were rendered obsolete by an innovation, the alphabet, which seems to have entered Anatolia simultaneously from the Aegean (with the Bryges, who changed their name to Phrygians), and from the Phoenicians and neighboring peoples in Syria.
+
+The earliest known constitutional monarchy was developed by the Hittites. The head of the Hittite state was the king, followed by the heir-apparent. The king was the supreme ruler of the land, in charge of being a military commander, judicial authority, as well as a high priest. However, some officials exercised independent authority over various branches of the government. One of the most important of these posts in the Hittite society was that of the gal mesedi (Chief of the Royal Bodyguards). It was superseded by the rank of the gal gestin (Chief of the Wine Stewards), who, like the gal mesedi, was generally a member of the royal family. The kingdom's bureaucracy was headed by the gal dubsar (Chief of the Scribes), whose authority did not extend over the lugal dubsar, the king's personal scribe.
+
+Egyptian monarchs engaged in diplomacy with two chief Hittite seats, located at Kadesh (a city located on the Orontes River) and Carchemish (located on the Euphrates river in Southern Anatolia).
+
+In the Central Anatolian settlement of Ankuwa, home of the pre-Hittite goddess Kattaha and the worship of other Hattic deities illustrates the ethnic differences in the areas the Hittites tried to control. Kattaha was originally given the name Hannikkun. The usage of the term Kattaha over Hannikkun, according to Ronald Gorny (head of the Alisar regional project in Turkey), was a device to downgrade the pre-Hittite identity of this female deity, and to bring her more in touch with the Hittite tradition. Their reconfiguration of Gods throughout their early history such as with Kattaha was a way of legitimizing their authority and to avoid conflicting ideologies in newly included regions and settlements. By transforming local deities to fit their own customs, the Hittites hoped that the traditional beliefs of these communities would understand and accept the changes to become better suited for the Hittite political and economic goals.
+
+King Telipinu (reigned c. 1525 – c. 1500 BC) is considered to be the last king of the Old Kingdom of the Hittites. He seized power during a dynastic power struggle. During his reign, he wanted to take care of lawlessness and regulate royal succession. He thus issued the Edict of Telipinus. In this edict, he designated the Pankus, which was a general assembly, as the high court for constitutional crimes. Crimes such as murder were observed and judged by the Pankus. Kings themselves were also subject to jurisdiction under the Pankus. The Pankus also served as an advisory council for the king. The rules and regulations set out by the edict, and the establishment of the Pankus proved to be very successful and lasted all the way through to end of the New Kingdom. The Pankus established a legal code where violence was not a punishment for a crime. Crimes such as a murder and theft, which at the time were punishable by death, in other southwest Asian Kingdoms, were not capital crimes under the Hittite law code. Most criminal penalties involved restitution. For example, in cases of thievery, the punishment of that crime would to be to repay what was stolen in equal value.
+
+Bryce, citing in his book a previous population estimate of 9,000-15,000 for Hattuša, but stating that recent research by Jürgen Seeher now suggest the city would have had a population of 2,300-4,600, with a peak of 5,000 during special occasions at maximum. While the total population of the Kingdom estimated at 140,000-150,000 by Zsolt Simon and Bryce himself giving a figure of 200,000+. Noting that Hatti was able to muster 47,500 thousand troops for Kadesh and could in total have mustered all-in-all ~100,000 for military service, not all necessarily participated in battle or in campaigns, but some may have provided labor service. Thus military campaigns that were costly in lives resulted in difficulties maintaining Hittite food production and economy. With 'booty-people' taken from foreign lands during campaigns would've been important in covering losses in population. The book discusses these figures in relation to the Empire during the reign of Hattusili III, even if Bryce doesn't give exact dates for when these population numbers were actual, they should be understood for this reign.
+Bronze tablet from Çorum-Boğazköy dating from 1235 BC, photographed at Museum of Anatolian Civilizations, Ankara
+
+Indo-European family tree in order of first attestation. Hittite belongs to the family of Anatolian languages and the oldest written Indo-European language.
+
+The Hittite language is recorded fragmentarily from about the 19th century BC (in the Kültepe texts, see Ishara). It remained in use until about 1100 BC. Hittite is the best attested member of the Anatolian branch of the Indo-European language family, and the Indo-European language for which the earliest surviving written attestation exists, with isolated Hittite loanwords and numerous personal names appearing in an Old Assyrian context from as early as the 20th century BC. 
+
+The language of the Hattusa tablets was eventually deciphered by a Czech linguist, Bedřich Hrozný (1879–1952), who, on 24 November 1915, announced his results in a lecture at the Near Eastern Society of Berlin. His book about the discovery was printed in Leipzig in 1917, under the title The Language of the Hittites; Its Structure and Its Membership in the Indo-European Linguistic Family. The preface of the book begins with:
+
+"The present work undertakes to establish the nature and structure of the hitherto mysterious language of the Hittites, and to decipher this language [...] It will be shown that Hittite is in the main an Indo-European language."
+
+The decipherment famously led to the confirmation of the laryngeal theory in Indo-European linguistics, which had been predicted several decades before. Due to its marked differences in its structure and phonology, some early philologists, most notably Warren Cowgill, had even argued that it should be classified as a sister language to Indo-European languages (Indo-Hittite), rather than a daughter language. By the end of the Hittite Empire, the Hittite language had become a written language of administration and diplomatic correspondence. The population of most of the Hittite Empire by this time spoke Luwian, another Indo-European language of the Anatolian family that had originated to the west of the Hittite region.
+
+According to Craig Melchert, the current tendency is to suppose that Proto-Indo-European evolved, and that the "prehistoric speakers" of Anatolian became isolated "from the rest of the PIE speech community, so as not to share in some common innovations." Hittite, as well as its Anatolian cousins, split off from Proto-Indo-European at an early stage, thereby preserving archaisms that were later lost in the other Indo-European languages.
+
+In Hittite there are many loanwords, particularly religious vocabulary, from the non-Indo-European Hurrian and Hattic languages. The latter was the language of the Hattians, the local inhabitants of the land of Hatti before being absorbed or displaced by the Hittites. Sacred and magical texts from Hattusa were often written in Hattic, Hurrian, and Luwian, even after Hittite became the norm for other writings.
+
+Given the size of the empire, there are relatively few remains of Hittite art. These include some impressive monumental carvings, a number of rock reliefs, as well as metalwork, in particular the Alaca Höyük bronze standards, carved ivory, and ceramics, including the Hüseyindede vases. The Sphinx Gates of Alaca Höyük and Hattusa, with the monument at the spring of Eflatun Pınar, are among the largest constructed sculptures, along with a number of large recumbent lions, of which the Lion of Babylon statue at Babylon is the largest, if it is indeed Hittite. Nearly all are notably worn. Rock reliefs include the Hanyeri relief, and Hemite relief. The Niğde Stele from the end of the 8th century BC is a Luwian monument, from the Post-Hittite period, found in the modern Turkish city of Niğde.
+
+Hittite religion and mythology were heavily influenced by their Hattic, Mesopotamian, Canaanite, and Hurrian counterparts. In earlier times, Indo-European elements may still be clearly discerned. Storm gods were prominent in the Hittite pantheon. Tarhunt (Hurrian's Teshub) was referred to as 'The Conqueror', 'The king of Kummiya', 'King of Heaven', 'Lord of the land of Hatti'. He was chief among the gods and his symbol is the bull. As Teshub he was depicted as a bearded man astride two mountains and bearing a club. He was the god of battle and victory, especially when the conflict involved a foreign power. Teshub was also known for his conflict with the serpent Illuyanka.
+
+The Hittite gods are also honoured with festivals, such as Puruli in the spring, the nunttarriyashas festival in the autumn, and the KI.LAM festival of the gate house where images of the Storm God and up to thirty other idols were paraded through the streets.
+
+Hittite laws, much like other records of the empire, are recorded on cuneiform tablets made from baked clay. What is understood to be the Hittite Law Code comes mainly from two clay tablets, each containing 186 articles, and are a collection of practiced laws from across the early Hittite Kingdom. In addition to the tablets, monuments bearing Hittite cuneiform inscriptions can be found in central Anatolia describing the government and law codes of the empire. The tablets and monuments date from the Old Hittite Kingdom (1650–1500 BC) to what is known as the New Hittite Kingdom (1500–1180 BC). Between these time periods, different translations can be found that modernize the language and create a series of legal reforms in which many crimes are given more humane punishments. These changes could possibly be attributed to the rise of new and different kings throughout the history of the empire or to the new translations that change the language used in the law codes. In either case, the law codes of the Hittites provide very specific fines or punishments that are to be issued for specific crimes and have many similarities to Biblical laws found in the books of Exodus and Deuteronomy. In addition to criminal punishments, the law codes also provide instruction on certain situations such as inheritance and death.
+
+The law articles used by the Hittites most often outline very specific crimes or offenses, either against the state or against other individuals, and provide a sentence for these offenses. The laws carved in the tablets are an assembly of established social conventions from across the empire. Hittite laws at this time have a prominent lack of equality in punishments in many cases, distinct punishments or compensations for men and women are listed. Free men most often received more compensation for offenses against them than free women did. Slaves, male or female, had very few rights, and could easily be punished or executed by their masters for crimes. Most articles describe destruction of property and personal injury, to which the most common sentence was payment for compensation of the lost property. Again, in these cases men oftentimes receive a greater amount of compensation than women. Other articles describe how marriage of slaves and free individuals should be handled. In any case of separation or estrangement, the free individual, male or female, would keep all but one child that resulted from the marriage.
+
+Cases in which capital punishment is recommended in the articles most often seem to come from pre-reform sentences for severe crimes and prohibited sexual pairings. Many of these cases include public torture and execution as punishment for serious crimes against religion. Most of these sentences would begin to go away in the later stages of the Hittite Empire as major law reforms began to occur.
+
+While different translations of laws can be seen throughout the history of the empire, the Hittite outlook of law was originally founded on religion and were intended to preserve the authority of the state. Additionally, punishments had the goal of crime prevention and the protection of individual property rights. The goals of crime prevention can be seen in the severity of the punishments issued for certain crimes. Capital punishment and torture are specifically mentioned as punishment for more severe crimes against religion and harsh fines for the loss of private property or life. The tablets also describe the ability of the king to pardon certain crimes, but specifically prohibit an individual being pardoned for murder.
+
+At some point in the 16th or 15th century BC, Hittite law codes move away from torture and capital punishment and to more humanitarian forms of punishments, such as fines. Where the old law system was based on retaliation and retribution for crimes, the new system saw punishments that were much more mild, favoring monetary compensation over physical or capital punishment. Why these drastic reforms happened is not exactly clear, but it is likely that punishing murder with execution was deemed not to benefit any individual or family involved. These reforms were not just seen in the realm of capital punishment. Where major fines were to be paid, a severe reduction in penalty can be seen. For example, prior to these major reforms, the payment to be made for the theft of an animal was thirty times the animal's value; after the reforms, the penalty was reduced to half the original fine. Simultaneously, attempts to modernize the language and change the verbiage used in the law codes can be seen during this period of reform.
+
+Under both the old and reformed Hittite law codes, three main types of punishment can be seen: Death, torture, or compensation/fines. The articles outlined on the cuneiform tablets provide very specific punishments for crimes committed against the Hittite religion or against individuals. In many, but not all cases, articles describing similar laws are grouped together. More than a dozen consecutive articles describe what are known to be permitted and prohibited sexual pairings. These pairings mostly describe men (sometimes specifically referred to as free men, sometimes just men in general) having relations, be they consensual or not, with animals, step-family, relatives of spouses, or concubines. Many of these articles do not provide specific punishments but, prior to the law reforms, crimes against religion were most often punishable by death. These include incestuous marriages and sexual relations with certain animals. For example, one article states, "If a man has sexual relations with a cow, it is an unpermitted sexual pairing: he will be put to death." Similar relations with horses and mules were not subject to capital punishment, but the offender could not become a priest afterwards. Actions at the expense of other individuals most often see the offender paying some sort of compensation, be it in the form of money, animals, or land. These actions could include the destruction of farmlands, death or injury of livestock, or assault of an individual. Several articles also specifically mention acts of the gods. If an animal were to die by certain circumstances, the individual could claim that it died by the hand of a god. Swearing that what they claim was true, it seems that they were exempt from paying compensation to the animal's owner. Injuries inflicted upon animals owned by another individual are almost always compensated with either direct payment, or trading the injured animal with a healthy one owned by the offender.
+
+Not all laws prescribed in the tablets deal with criminal punishment. For example, the instructions of how the marriage of slaves and division of their children are given in a group of articles, "The slave woman shall take most of the children, with the male slave taking one child." Similar instructions are given to the marriage of free individuals and slaves. Other actions include how breaking of engagements are to be handled.
+
+The Bible refers to people as "Hittites" in several passages. The relationship between these peoples and the Bronze Age Hittite Empire is unclear. In some passages, the Biblical Hittites appear to have their own kingdoms, apparently located outside geographic Canaan, and sufficiently powerful to put a Syrian army to flight. In these passages, the Biblical Hittites appear to refer to the Iron Age Syro-Hittite states. However, in most of their appearances, the Biblical Hittites are depicted as a people living among the Israelites – Abraham purchases the Patriarchal burial-plot of Machpelah from Ephron the Hittite and Hittites serve as high military officers in David's army. The nature of this ethnic group is unclear, but has sometimes been interpreted as a local Canaanite tribe who had absorbed Hittite cultural influence from the Syro-Hittite kingdoms to the north.
+
+Other biblical scholars (following Max Müller) have argued that the Bronze Age Hittites appear in Hebrew Bible literature and apocrypha as "Kittim", a people said to be named for a son of Javan.
+
+One single mention of a Trojan ally named Keteians (Greek: Κητειοι) is made by Homer in the Odyssey. Some scholars have proposed that the Homeric Keteians correspond to the Bronze Age Hittites.
+
+Asia portal
+
+Hittite plague
+
+List of Hittite kings
+
+List of artifacts significant to the Bible
+
+Short chronology timeline
+https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/8_25_2022_Manuscript1_ChalcolithicBronzeAge_1.pdf
+
+Lehmann, Winfred P.; Slocum, Jonathan. "Hittite Online". Linguistics Research Center. University of Texas at Austin: College of Liberal Arts. Archived from the original on 12 April 2010. Retrieved 12 April 2010.
+
+Matessi, Alvise, (2021). "The ways of an empire: Continuity and change of route landscapes across the Taurus during the Hittite Period (ca. 1650–1200 BCE)", in: Journal of Anthropological Archaeology, Volume 62, June 2021: "...the Hittite state emerged in Hatti, in the bend of the Kızılırmak, from a mosaic of canton polities occupying North-Central Anatolia during the Middle Bronze Age (MBA; ca. 1900–1650 BCE)."
+
+Kloekhorst & Waal 2019, p. 189.
+
+Kloekhorst, Alwin, and Willemijn Waal, (2019). "A Hittite scribal tradition predating the tablet collections of Ḫattuša?: The origin of the 'cushion-shaped' tablets KBo 3.22, KBo 17.21+, KBo 22.1, and KBo 22.2.", in: Zeitschrift Für Assyriologie Und Vorderasiatische Archäologie, 109(2), p. 190: "...Three of the four documents that have this peculiar 'cushion-shape' are generally regarded as showing Old Script (OS): KBo 3.22, KBo 17.21+, and KBo 22.1..."
+
+Forlanini 2010, pp. 115–135.
+
+Forlanini 2010, p. 121.
+
+Kloekhorst, Alwin, (2021). "A new interpretation of the Old Hittite Zalpa-text (CTH 3.1): Nēša as the capital under Ḫuzzii̯a I, Labarna I, and Ḫattušili I", in Journal of the American Oriental Society, Vol.141, No. 3, p. 564.
+
+Forlanini 2010, p. 122.
+
+Forlanini 2010, p. 130.
+
+Bryce 2005.
+
+Joost Blasweiler (2020), The kingdom of Hurma during the reign of Labarna and Hattusili. Part I. academia.edu
+
+Forlanini 2010, p. 119.
+
+Mark, Joshua (28 April 2011). "The Hittites". World History Encyclopedia. Archived from the original on 13 April 2021. Retrieved 9 May 2017.
+
+Roebuck 1966, p. 93.
+
+"The Hittites – Resources of Ancient Anatolia". Pericles Press. May 2017. Archived from the original on 6 March 2017. Retrieved 5 May 2017.
+
+Roebuck 1966, p. 94.
+
+Forlanini 2010, pp. 115–116.
+
+Gurney 1966, p. 25.
+
+Gurney 1966, pp. 25–26.
+
+Roux, Georges (1993). Ancient Iraq. Penguin (Non-Classics). ISBN 978-0140125238.
+
+Zuckerman, Molly K.; Martin, Debra L. (2016). New directions in biocultural anthropology (1st ed.). Hoboken, New Jersey: Wiley-Blackwell. p. 297. ISBN 978-1118962961.
+
+Trevisanato, S. I. (2007). "The 'Hittite plague', an epidemic of tularemia and the first record of biological warfare". Medical Hypotheses. 69 (6): 1371–1374. doi:10.1016/j.mehy.2007.03.012. PMID 17499936.
+
+Windle, Joachim Latacz (2004). "Troy and Homer: Towards a Solution of an Old Mystery". Oxford: Oxford University Press. pp. 121–122. ISBN 978-0-19-926308-0. Archived from the original on 27 February 2017. Retrieved 2 April 2016.
+
+Bryce 2005, pp. 57–60.
+
+Beckman, Gary M.; Bryce, Trevor R.; Cline, Eric H. (2012). "Writings from the Ancient World: The Ahhiyawa Texts". Writings from the Ancient World. Atlanta: Society of Biblical Literature: 6. Archived from the original on 23 April 2016. Retrieved 2 April 2016. "At the very least, perhaps we can say that the Ahhiyawa Problem/Question has been solved and answered after all, for there is now little doubt that Ahhiyawa was a reference by the Hittites to some or all of the Bronze Age Mycenaean world."
+
+Gurney 1966, p. 110.
+
+Gurney 1966, p. 36.
+
+"The peace treaty between Ramses II and Hattusili III". Ancient Egypt: an introduction to the history and culture. December 2006. Archived from the original on 8 June 2011. Retrieved 27 January 2013.
+
+Horst Nowacki, Wolfgang Lefèvre Creating Shapes in Civil and Naval Architecture: A Cross-Disciplinary Comparison Brill, 2009 ISBN 9004173455.
+
+Gurney 1966, p. 39.
+
+Spielvolgel, Jackson (2011). Western Civilization. Boston, MA: Wadsworth Cengage Learning. p. 30. ISBN 978-1111342142.
+
+"Drought may have doomed ancient Hittite empire, tree study reveals". The Guardian. 8 February 2023. Retrieved 9 February 2023.
+
+Barnett, R.D., "Phrygia and the Peoples of Anatolia in the Iron Age", The Cambridge Ancient History, Vol. II, Part 2 (1975) p. 422.
+
+The Georgian historian Ivane Javakhishvili considered Tabal, Tubal, Jabal and Jubal to be ancient Georgian tribal designations, and argued that they spoke Kartvelian languages, a non-Indo-European language.
+
+"The Hittites", smie.co, 12 September 2008, archived from the original on 20 October 2017.
+
+Akurgal 2001, p. 118.
+
+"The Hittites". all about turkey. 5 May 2017. Archived from the original on 13 May 2017. Retrieved 5 May 2017.
+
+Bryce 2002, p. 22.
+
+"The Empire of the Hittites". The Old Testament Student. 4 (1): 32–34. 1 September 1884. doi:10.1086/469493. JSTOR 3156304.
+
+Gorny, Ronald (August–November 1995). "Hittite Imperialism and Anti-Imperial Resistance As Viewed from Alișar Höyük". The Archaeology of Empire in Ancient Anatolia (299/300): 69–70. doi:10.2307/1357346. JSTOR 1357346. S2CID 163346233.
+
+"Telipinus Hittite king". Britannica. 5 May 2017. Archived from the original on 11 September 2017. Retrieved 5 May 2017.
+
+Eduljee, K.E. (5 May 2017). "Hittites". Heritage Institute. Archived from the original on 5 May 2017. Retrieved 5 May 2017.
+
+Bryce, Trevor (2024). Hattusili: The Hittite Prince who stole an Empire. Bloomsbury. pp. 130–134. ISBN 978-1-3503-4182-1.
+
+Hrozný, Bedřich, Die Sprache der Hethiter: ihr Bau und ihre Zugehörigkeit zum indogermanischen Sprachstamm: ein Entzifferungsversuch (Leipzig, Germany: J.C. Hinrichs, 1917).
+
+Hawkins, David (February 1986). "Writing in Anatolia: Imported and Indigenous Systems". World Archaeology. 17 (3): 363–376. doi:10.1080/00438243.1986.9979976. JSTOR 124701.
+
+Melchert, p. 7.
+
+Jasanoff 2003, p. 20 with footnote 41.
+
+Siren, Christopher B. "'Hittite/Hurrian Mythology REF 1.2', Myths and Legends". Comcast.net. Archived from the original on 6 July 2004. Retrieved 8 February 2011.
+
+Kershaw, Stephen P. (2013). A Brief Guide to the Greek Myths. Little, Brown Book Group. ISBN 978-1472107541.
+
+Bryce 2002, p. 135.
+
+Taş, İlknur; Dinler, Veysel (1 January 2015). "Hittite Criminal Law in the Light of Modern Paradigms: Searching for the traces of Modernday Criminal Law in the Past". Aramazd Armenian Journal of Near Eastern Studies. 9: 73–90.
+
+Sayce, A. H. (1905). "The Hittite Inscriptions". The Biblical World. 26 (1): 30–40. doi:10.1086/473607. JSTOR 3140922. S2CID 143295386.
+
+Roth, Martha. "Law Collections from Mesopotamia and Asia Minor". Writings from the Ancient World Society of Biblical Literature. 6: 213–246. Archived from the original on 28 April 2019. Retrieved 1 May 2018.
+
+Hoffner, Harry A. (1981). "The Old Hittite Version of Laws 164–166". Journal of Cuneiform Studies. 33 (3/4): 206–209. doi:10.2307/1359903. JSTOR 1359903. S2CID 159932628.
+
+Coogan, Michael David (2013). A reader of ancient Near Eastern texts: sources for the study of the Old Testament. New York: Oxford University Press. ISBN 978-0195324921. OCLC 796081940.
+
+Bryce 2005, pp. 355–356.
+
+Woudstra, Marten (1981). The Book of Joshua. Wm. B. Eerdmans Publishing. p. 60. ISBN 978-0802825254.
+
+Full text of "Hittites, Mittanis & Aryans Indo Aryan Superstrate in Mitanni Internet". archive.org. Retrieved 14 August 2018.
+
+Kelder, Jorrit (2005). "The Chariots of Ahhiyawa". Dacia: 65. Retrieved 19 March 2024.
+
+Peled, Ilan (4 November 2019). "HL (Hittite Laws)". Law and Gender in the Ancient Near East and the Hebrew Bible. Routledge. p. 85. ISBN 9781000733457.
+com/books?id=izhhWQEJkrQC&rfr_id=info: sid:en.wikipedia.org:Hittites
+Goodnick-Westenholz, Joan. "Historical Events and the Process of Their Transformation in Akkadian Heroic Traditions". In Konstan & Raaflaub (2010), pp. 26–50.
+Gurney, O.R. (1966). The Hittites. Penguin. ISBN 0-14-020259-5.
+Güterbock, Hans G. (1983). "Hittite Historiography: A Survey". In Tadmor, H.; Weinfeld, M. (eds.). History, historiography and interpretation: studies in biblical and cuneiform literatures. Jerusalem: Magnes Press, Hebrew University. pp. 21–35. ISBN 978-96-52-23459-9.
+Hoffner, H.A., Jr. (1973). "The Hittites and Hurrians". In Wiseman, D.J. (ed.). Peoples of the Old Testament Times. Oxford: Clarendon Press. pp. 197–228.
+Hittite studies in honor of Harry A. Hoffner Jr: on the occasion of his 65th birthday. Winona Lake, Ind: Eisenbrauns. 2003. ISBN 1-57506-079-5. JSTOR 10.5325/j.ctv1bxh2x6.
+Jasanoff, Jay H. (2003). Hittite and the Indo-European Verb. Oxford: Oxford University Press. ISBN 978-0-19-924905-3.
+Kloekhorst, Alwin (2007). Etymological Dictionary of the Hittite Inherited Lexicon. Brill. ISBN 978-90-04-16092-7.
+Kloekhorst, Alwin (19 June 2014). Personal names from Kaniš: the oldest Indo-European linguistic material. Farewell symposium Michiel de Vaan. Leiden.
+Kloekhorst, Alwin; Waal, Willemijn (2019). "A Hittite Scribal Tradition Predating the Tablet Collections of Ḫattuša?". Zeitschrift für Assyriologie und vorderasiatische Archäologie. 109 (2): 189–203. doi: 10.1515/za-2019-0014. hdl: 1887/3199128. S2CID 208141226.
+Kloekhorst, Alwin (2020). "The Authorship of the Old Hittite Palace Chronicle (CTH 8): A Case for Anitta". Journal of Cuneiform Studies. 72: 143–155. doi: 10.1086/709313. S2CID 224830641.
+Konstan, David; Raaflaub, Kurt A., eds. (2010). Epic and History. Chichester: John Wiley & Sons. ISBN 9781444315646.
+Macqueen, J. G. (1986). The Hittites and their contemporaries in Asia Minor (Rev. and enlarged ed.). London: Thames and Hudson. ISBN 0-500-02108-2.
+Mallory, J.P.; Adams, D.Q. (1997). Encyclopedia of Indo-European Culture. Taylor & Francis. ISBN 978-1-884964-98-5.
+Melchert, H. Craig. "The position of Anatolian". In Weiss, Michael; Garrett, Andrew (eds.). Handbook of Indo-European studies. Oxford: Oxford University Press. Listed as "to appear" on his website last updated on 29 May 2020.
+Melchert, Craig (2020). "Luwian". A Companion to Ancient Near Eastern Languages. Hoboken: John Wiley & Sons. pp. 239–256. ISBN 9781119193296.
+Mendenhall, George E. (1973). The tenth generation: the origins of the Biblical tradition. Baltimore: Johns Hopkins University Press. ISBN 0-8018-1654-8.
+Neu, Erich (1974). Der Anitta-Text (in German). Wiesbaden: O. Harrassowitz. ISBN 978-3-447-01571-4. Studien zu den Bogazkoy-Texten 18.
+Orlin, Louis L. (1970). Assyrian Colonies in Cappadocia. The Hague: Mouton.
+Parpola, Asko (2015). The Roots of Hinduism: The Early Aryans and the Indus Civilization. New York: Oxford University Press. ISBN 9780190226909.
+Sürenhagen, Dietrich (October 2006). "Forerunners of the Hattusili-Ramesses treaty". British Museum Studies in Ancient Egypt and Sudan (6): 59–67. Archived from the original on 1 August 2019.
+Patri, Sylvain (2007). L'alignement syntaxique dans les langues Indo-Européennes d'Anatolie (in French). Wiesbaden: Harrassowitz Verlag. ISBN 978-3-447-05612-0. Studien zu den Bogazkoy-Texten 49.
+Roebuck, Carl (1966). The World of Ancient Times. New York: Charles Scribner's Sons.
+Weeden, Mark (2013). "After the Hittites: The Kingdoms of Karkamish and Palistin in Northern Syria". Bulletin of the Institute of Classical Studies. 56 (2): 1–20. doi: 10.1111/j.2041-5370.2013.00055.x.
+Yakubovich, Ilya (2020). "Hittite". A Companion to Ancient Near Eastern Languages. Hoboken: John Wiley & Sons. pp. 221–237. ISBN 9781119193296.
+Further reading
+Bilgin, Tayfun (2018). Officials and administration in the Hittite world. Berlin: de Gruyter. ISBN 9781501516627.
+Jacques Freu et Michel Mazoyer, Des origines à la fin de l'ancien royaume hittite, Les Hittites et leur histoire Tome 1, Collection Kubaba, L'Harmattan, Paris, 2007
+Jacques Freu et Michel Mazoyer, Les débuts du nouvel empire hittite, Les Hittites et leur histoire Tome 2, Collection Kubaba, L'Harmattan, Paris, 2007
+Jacques Freu et Michel Mazoyer, L'apogée du nouvel empire hittite, Les Hittites et leur histoire Tome 3, Collection Kubaba, L'Harmattan, Paris, 2008
+Jacques Freu et Michel Mazoyer, Le déclin et la chute de l'empire Hittite, Les Hittites et leur histoire Tome 4, Collection Kubaba, L'Harmattan, Paris, 2010
+Jacques Freu et Michel Mazoyer, Les royaumes Néo-Hittites, Les Hittites et leur histoire Tome 5, Collection Kubaba, L'Harmattan, Paris, 2012
+Imparati, Fiorella. "Aspects De L'organisation De L'État Hittite Dans Les Documents Juridiques Et Administratifs." Journal of the Economic and Social History of the Orient 25, no. 3 (1982): 225–67. doi:10.2307/3632187
+de Martino, Stefan, ed. (2022). Handbook of Hittite Empire. De Gruyter Oldenbourg. ISBN 978-3-11-066178-1.
+Stone, Damien. The Hittites: Lost Civilizations. United Kingdom, Reaktion Books, 2023.
+External links
+New research suggests drought accelerated Hittite Empire collapse - Phys.org February 8, 2023
+Video lecture at Oriental Institute – Tracking the Frontiers of the Hittite Empire Archived 11 April 2014 at the Wayback Machine
+Pictures of Boğazköy, one of a group of important sites
+Pictures of Yazılıkaya, one of a group of important sites
+Der Anitta Text (at TITUS)
+Tahsin Ozguc
+Hittites.info
+Hethitologieportal Mainz, by the Akademie der Wissenschaften, Mainz, corpus of texts and extensive bibliographies on all things Hittite
+Missione Archeologica Italiana a Uşaklı Höyük | MAIAC (in Italian)
+Map of Hittite Anatolia
+Afghan
+Ashanti
+Austrian
+Austro-Hungarian
+Brazilian
+Burmese
+Second
+Third
+Central African
+Chinese
+Ming
+Qing
+China
+Manchukuo
+Contemporary
+Ethiopian
+Haitian
+First
+Second
+French
+First
+Second
+German
+German Empire
+Nazi Germany
+Indian
+Indo-Persian
+Mughal
+Sikh
+Iranian
+Safavid
+Afsharid
+Zand
+Qajar
+Pahlavi
+Japanese
+Korean
+Maratha
+Mexican
+First
+Second
+Mongol
+Oirat
+Khoshut
+Dzungar
+Kalmyk
+Bogd
+Moroccan
+Saadi
+'Alawi
+Ottoman
+Polish
+Russian
+Tsarist
+Imperial
+Contemporary
+Sokoto
+Somali
+Isaaq
+Tongan
+Vietnamese
+Mạc
+Revival Lê
+Tay Sơn
+Dainam
+Vietnam
+Colonial
+American
+Belgian
+British
+English
+Scottish
+Chinese
+Danish
+Dutch
+French
+German
+Italian
+Japanese
+Mongol
+Omani
+Polish–Lithuanian
+Couronian
+attempts
+Portuguese
+Russian
+Spanish
+Swedish
+Empires
+largest
+Ancient great powers
+Medieval great powers
+Modern great powers
+European colonialism
+African empires
+"Empire" as a description of foreign policy
+American Empire
+Soviet empire
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Hittites&oldid=1265052414"
+Categories: Hittites
+States and territories established in the 17th century BC
+States and territories disestablished in the 12th century BC
+Ancient peoples of Anatolia
+Ancient Syria
+History of the Mediterranean
+Former kingdoms
+Former empires
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Wikimedia Foundation
+Powered by MediaWiki

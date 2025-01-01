@@ -1,0 +1,860 @@
+A mid-Holocene candidate tsunami deposit from the NW Cape
+(Western Australia)
+Simon Matthias May a,⁎, Simon Falvard b
+, Maike Norpoth a
+, Anna Pint a
+, Dominik Brill a
+, Max Engel a
+,
+Anja Scheffers c
+, Manuel Dierick d
+, Raphaël Paris b
+, Peter Squire c
+, Helmut Brückner a
+a Institute of Geography, University of Cologne, Albertus-Magnus-Platz, 50923 Cologne, Germany
+b Laboratoire Magmas et Volcans, Université Blaise Pascal, CNRS–IRD, OPGC, 5 rue Kessler, 63038 Clermont-Ferrand, France
+c Southern Cross GeoScience, Southern Cross University, PO Box 157, Lismore, NSW 2480, Australia
+d Department of Physics and Astronomy, Centre for X-ray Tomography, Ghent University, Proeftuinstraat 86, 9000 Ghent, Belgium
+a b s t r a c ta r t i c l e i n f o
+Article history:
+Received 15 October 2015
+Received in revised form 19 November 2015
+Accepted 20 November 2015
+Available online 23 November 2015
+Editor: Dr. J. Knight
+Although extreme-wave events are frequent along the northwestern coast of Western Australia and tsunamis in
+1994 and 2006 induced considerable coastal flooding locally, robust stratigraphical evidence of prehistoric trop-
+ical cyclones and tsunamis from this area is lacking. Based on the analyses of X-ray computed microtomography
+(μCT) of oriented sediment cores, multi-proxy sediment and microfaunal analyses, optically stimulated lumines-
+cence (OSL) and 14
+C-AMS dating, this study presents detailed investigations on an allochthonous sand layer of
+marine origin found in a back-barrier depression on the NW Cape Range peninsula. The event layer consists of
+material from the adjacent beach and dune, fines and thins inland, and was traced up to ~ 400 m onshore.
+Although a cyclone-induced origin cannot entirely be ruled out, the particular architecture and fabric of the
+sediment, rip-up clasts and three subunits point to deposition by a tsunami. As such, it represents the first
+stratigraphical evidence of a prehistoric, mid-Holocene tsunami in NW Western Australia. It was OSL-dated to
+5400–4300 years ago, thus postdating the regional mid-Holocene sea-level highstand.
+© 2015 Elsevier B.V. All rights reserved.
+Keywords:
+Palaeotsunami deposit
+Sediment fabric
+X-ray microtomography
+Optically stimulated luminescence
+1. Introduction
+The NW coast of Western Australia is impacted by 1–2 tropical
+cyclones per year, and ten tsunamis have been recorded since 1858,
+including those following the 1883 Krakatoa eruption and the earth-
+quakes off the coast of Indonesia in 1977, 1994 and 2006 (Goff and
+Chagué-Goff, 2014). Although observations during these tsunamis are
+rather sporadic, wave heights of ~6 m (Cape Leveque) and a run-up of
+~8 m Australian Height Datum (AHD) (Shelter Bay, Shark Bay) locally
+occurred during the 1977 Sumba and 2006 Java tsunamis, respectively
+(Prendergast and Brown, 2012; Goff and Chagué-Goff, 2014). At the
+North West Cape, the 1994 Java tsunami overwashed the dune barrier
+at Baudin (Fig. 1), 3.6 km S of the study area. Inundation extended up
+to 300 m inland, and a run-up of ~ 7 m AHD was inferred (Gregson
+and van Reeken, 1998). In addition, tropical cyclones cause extensive
+coastal flooding. As one of the most powerful cyclones in Australia's
+historical record, category 5 tropical cylone Vance (March 18th–22nd,
+1999) resulted in water levels of ~7 m above event tide in the Exmouth
+Gulf (Nott and Hubbert, 2005). However, little is known about the
+geological imprint of historical (Prendergast and Brown, 2012; May
+et al., 2015a) and prehistorical extreme-wave events in northwestern
+Western Australia. So far, prehistorical tsunamis or storms were
+inferred from corals or large molluscs in washover deposits and dunes
+up to 1 km inland, or from marine organisms attached to wave-
+emplaced boulders (Scheffers et al., 2008, and references therein).
+These findings lack stratigraphic contexts, and uncertainties related to
+radiocarbon dating of reworked marine organisms (May et al., 2015a)
+or the marine palaeo-reservoir effect may bias the inferred
+chronologies.
+This paper provides, for the first time, detailed stratigraphic
+evidence of a prehistoric extreme-wave event from northwestern
+Western Australia. Based on multi-proxy sediment and microfaunal
+analyses, optically stimulated luminescence (OSL) and 14
+C-dating, an al-
+lochthonous sand layer of marine origin was identified in a mud-filled
+back-barrier depression at the NW coast of the Cape Range peninsula.
+As a novel approach in the context of tsunami deposits, X-ray computed
+microtomography (μCT) scans of oriented cores reveal characteristic
+sediment fabrics, which have been described from modern (Wassmer
+et al., 2010) and historical (Cuven et al., 2013) tsunami deposits but
+are rarely preserved in palaeotsunami deposits. We discuss the origin
+of the event layer against the background of its sedimentary character-
+istics and the local sedimentary environment.
+Sedimentary Geology 332 (2016) 40–50
+⁎ Corresponding author.
+E-mail address: mays@uni-koeln.de (S.M. May).
+http://dx.doi.org/10.1016/j.sedgeo.2015.11.010
+0037-0738/© 2015 Elsevier B.V. All rights reserved.
+Contents lists available at ScienceDirect
+Sedimentary Geology
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / s e d g e o
+2. Physical setting
+Investigations were carried out in the low-lying back-barrier zone at
+Ninety Mile Beach access (21°50′28.03″S, 114°2′54.06″E), located in the
+northwestern part of the NW Cape (Western Australia). The site com-
+prises a circular mudflat some 200 m from the sea, and slightly elevated
+low and open shrublands (Fig. 1). A dune belt of ~ 5 m AHD separates
+the site from the Ningaloo Reef, the local producer of bioclastic skeletal
+fragments. Heavy winds, sustained rainfall and severe flooding are
+mainly related to tropical cyclones during summer. The post-glacial
+marine transgression approached its maximum at ~ 7000–6000 years
+BP, when the formation of the Ningaloo Reef off the NW Cape had just
+started (Collins et al., 2003). A relative sea-level (RSL) highstand of
+1–2 m above present level followed by a marine regression is docu-
+mented for several coastal sections of Western Australia (Lewis et al.,
+2013; Engel et al., 2015) and is also assumed for the NW Cape.
+The continuously falling RSL resulted in low sedimentation rates in
+coastal settings since c. 5000 years, impeding the accumulation of
+sediment archives suitable for storing palaeo-wave events (Nott,
+2004). However, although its deposits have not yet been presented,
+the 1994 Java tsunami explicitly showed that considerable flooding of
+near-coast sediment archives may occur (Gregson and van Reeken,
+1998), and palaeotsunami and palaeocyclone deposits may be stored
+in topographical lows.
+3. Methods
+3.1. Sedimentary analyses
+Samples were taken from cores and trenches at 16 locations along a
+shore-perpendicular transect crossing a circular mudflat (Fig. 1) at
+Ninety Mile Beach access, starting at c. 200 m from the coast. The strat-
+igraphical transect comprises trenches T7, T20 and T35, T36 and 38, per-
+cussion cores VC31–34 and push cores C3 (master core; Fig. 2), 22–25,
+27 and 37. Percussion cores were taken using an Atlas Copco Cobra
+Pro percussion corer and probes of 6 cm in diameter. Push cores were
+taken by pushing plastic tubes also with a diameter of 6 cm into the sed-
+iment by hand. Cores and trenches reached depths between 50 and
+150 cm below surface (b.s.), and sediment recovery amounted to a min-
+imum of 90% during coring. The distance between sampling sites was
+between 5 and 50 m. Percussion cores and trenches were photographi-
+cally documented and significant facies were sampled. Push cores were
+opened and sampled in the lab in steps of 0.5–1 cm. Elevation of the
+cores and profiles were measured using a Topcon HiPer Pro differential
+global positioning system (DGPS) with an altimetric accuracy of ~2 cm.
+Elevations given in AHD (Australian Height Datum) are based on DGPS
+measurements using the static mode and AUSPOS post-processing.
+Modern samples were taken from the present beach (EXM B), the
+dune (EXM D) and the lagoon some 450 m off the beach (i.e., the
+Holocene reef platform, TTB).
+The coarse- and fine-grained fractions (N2 mm and b 2 mm) were
+separated using a 2 mm sieve and weighed; percentage of the gravel
+fraction (N 2 mm) is separately illustrated for master core C3. The air-
+dried fine-grained fraction was carefully hand-pestled for particle
+disaggregation. Grain size distribution of the fine-grained fraction was
+measured using a Beckman Coulter LS 13320 laser particle analyser
+(b2 mm). Samples were pre-treated with H2O2 (30%) to remove organic
+carbon and 0.5 N Na4P2O7 (55.7 g/l) for aggregate dispersion. Statistical
+measures were calculated after Folk and Ward (1957) using the
+GRADISTAT software (Blott and Pye, 2001). In order to determine
+sedimentary environments and sediment source areas, microfaunal
+analyses (foraminifers, ostracods) were carried out for samples of
+master core C3 and for the modern samples. Samples (10 cm3 ) were
+pre-treated with H2O2 (30%) for dispersion and sieved to isolate fractions
+of N100 and b100 μm. The microfaunal content was investigated under a
+binocular microscope and quantitatively recorded. A minimum of ~300
+(foraminifers) and ~100 (ostracods) specimens per sample were count-
+ed where possible. We distinguished reworked and non-reworked
+Fig. 1. (A) Overview of NW Western Australia [based on NASA Worldview data (NASA EOSDIS)]. Study site is marked by a red frame. (B) Panorama photo of study site (Ninety Mile Beach
+access) as seen from the top of the foredune (view towards SW). Location of sampling sites along the ~400 m long shore-perpendicular sediment transect (Fig. 1C) as well as of the modern
+samples are depicted. (C) Sediment transect with landward thinning and fining of unit B, and grain size distribution of cores/trenches.
+41S.M. May et al. / Sedimentary Geology 332 (2016) 40–50
+foraminifers based on the degree of fragmentation and abrasion/
+rounding. For determination taxa and ecological preferences, Yassini
+and Jones (1995), Hayward et al. (1999), De Deckker and Yokoyama
+(2009), and Karanovic (2012) were used.
+Principal component analysis (PCA) was carried out using the
+PAST software (Hammer et al., 2001) for samples of master core C3
+(Fig. 3). For PCA, the grain size parameters mean, sorting, skewness
+and kurtosis as well as the percentage of microfaunal contents were
+included. Spearman's rank correlation coefficient was used to avoid
+autocorrelations.
+We interpreted μCT scans of an oriented push core (C37) in order to
+infer information about sediment fabric as well as flow directions and
+characteristics. Scans were performed at HECTOR, a custom-built CT
+scanner setup at UGCT (Centre For X-ray Tomography, Ghent University,
+Belgium) (cf., Masschaele et al., 2013). The CT scanner was specifically
+designed for multidisciplinary CT applications and is built around a
+240 kV X-RAY WorX microfocus source (XWT 240-SE) and a Perkin-
+Elmer flat panel detector (1620 CN3 CS). Based on the sample size and
+composition, optimal scanner settings were determined to be 220 kV
+tube voltage, 50 W beam power and 1 mm of aluminium filtration to
+reduce beam hardening while preserving a sufficiently high signal-to-
+noise ratio. A total of 2000 projections was recorded, with a 1-second
+exposure per projection. The isotropic voxel pitch of the reconstructed
+volume was 50 μm. The tomographic datasets were reconstructed
+using the Octopus software package, and the reconstructed 3D volumes
+were rendered using the visualisation software package VGStudio MAX.
+Visual interpretation was performed using myVGL 2.1 software.
+In addition, quantification of sediment fabrics such as the orientation
+and dip of the longest axes of particles and particle shape measurements
+(Figs. 4, 5) was performed using ImageJ, Blob3D (Ketcham, 2005) and
+Stereo32 (Röler and Trepmann, 2013) software. Three sections of the
+reconstructed core (lower parts of subunits I and II) were chosen for
+subsampling and sediment fabric analyses. The original scans (images)
+were cropped and oriented towards the north using ImageJ software.
+Subsequent processing included adjustments of brightness and contrast
+as well as corrections of the signal-to-noise ratio in order to extract
+larger particles and remove smaller ones from the images. Subsamples
+were extracted from the whole dataset and transferred into Blob3D.
+Fig. 2. Sediment characteristics, granulometry and microfaunal data of master core C3 and the modern samples. * — reworked (fragmented/rounded); b.s. — below surface.
+42 S.M. May et al. / Sedimentary Geology 332 (2016) 40–50
+Subsample I (basal layer of unit B; base of subunit I, trc; cf., Fig. 4)
+included 360 images, subsample II (lower to middle part of subunit
+I) 500 images, and subsample III (lower part of subunit 2) 400 images.
+The grayscale images were converted into a binary image and the
+threshold value between black and white was determined to 172.
+Subsequently, particle correction and separation was done by using
+the “remove islands” and “remove holes” function of Blob3D and,
+finally, manually with the separation module of Blob3D. Analyses
+were stopped when a total of at least 300 particles per sample were
+measured. Finally, the shape of the ellipsoidal particles was calculated
+using Stereo32 for each subsample using the major axes of particles
+extracted in Blob3D. Particle isotropy (I) and elongation (E) are based
+on eigenvectors S1 (max), S2 (intermediate) and S3 (min), calculated
+using Stereo32 software.
+3.2. Dating techniques
+Three OSL (optically stimulated luminescence) samples were taken
+from trenches T36 (T36 OSL 1, 15 cm b.s.) and T38 (T38 OSL 1; 36 and
+70 cm b.s.). OSL dating was performed at the Cologne Luminescence
+Lab (CLL; Institute of Geography, University of Cologne). To estimate
+environmental dose rates (Table 1), assessment of U, Th and K concen-
+trations by means of high-resolution gamma spectrometry and mea-
+surement of in situ water contents were performed on grab samples
+of the material within a 30-cm radius around the dated sample. In
+case of T36 OSL 1, where the sampled layer has a thickness of only
+30 cm, an additional dose rate sample was taken from the mudflat
+below and considered in the calculation of the total dose rate. In addi-
+tion, the contribution of the cosmic dose rate was calculated on the
+basis of geographical position, altitude above sea level, and thickness
+and density of the sediment overburden (Prescott and Hutton, 1994).
+Comparison of the decay activities of different nuclides within the
+238
+U and 232
+Th chains reveals disequilibria in the range of 12–22% for
+the 232
+Th chain and 5–15% for the 238
+U chain. For the final luminescence
+ages these disequilibria are insignificant compared to 1-sigma uncer-
+tainties of about 10%, since the related age differences are significantly
+smaller, as already documented (e.g., Olley et al., 1996).
+Samples for burial dose determination were collected in opaque
+aluminium tubes and processed under subdued red light. Samples
+were sieved to fractions of 150–200 mm and chemically pre-
+treated with HCl, H 2 O 2 , sodium oxalate and HF to remove carbonates,
+organics, clay and the alpha-affected rim of the grains. Pure quartz
+was extracted by heavy liquid separation with densities of 2.62 and
+2.68 g/cm 3 . Small 1-mm aliquots of quartz were measured on Risø
+TL/OSL devices with 90 Sr/ 90 Y beta sources delivering ~ 0.08 to
+0.15 Gy/s at the sample position. Signals were stimulated by means
+of blue LEDs for 40 s and a Hoya U340 filter (7.5 mm) was used for
+signal detection.
+Equivalent dose measurements followed the SAR protocol of Murray
+and Wintle (2003). Since a combined dose-recovery-preheat-plateau
+and thermal transfer test (measurement of four aliquots per tempera-
+ture interval after bleaching by blue LEDs for 100 s at room tempera-
+ture) exemplarily performed on T36 OSL 1 showed no dose–
+dependence for temperatures between 180 and 280 °C (transfer of
+charge b 0.5% of natural D e and dose–recovery values of 0.94–0.98), a
+preheat temperature of 200 °C was selected for all D e measurements
+(Fig. 6). The general suitability of the applied SAR protocol for the sam-
+ples was verified by (i) dose recovery tests with measured to given dose
+ratios of 0.94–0.98 that revealed reproducibility; (ii) linear-modulated
+luminescence (with linearly increasing stimulation energy over a
+measurement interval of 3600 s) which demonstrates the dominance
+of an easily bleachable fast component (photon-ionisation cross-section
+of 1.6–1.8 × 10−17
+) comparable to the one described by Singarayer and
+Bailey (2003); and (iii) constant D e (t) plots that point to thermally
+stable signals (Bailey, 2003).
+Out of 48 measured aliquots per sample, between 37 and 45 aliquots
+passed the SAR acceptance criteria in respect of recycling ratio (0.9–1.1),
+recuperation (b5% of De), depletion ratio (0.9–1.1), and signal to back-
+ground ratio (N3) and could be considered for the calculation of burial
+doses. Due to the approximately normally distributed (skewness b2)
+and moderately scattered (overdispersion of 16–25%) De distributions
+(Fig. 7), all samples were assumed to be well bleached and, in conse-
+quence, the central age model (CAM) of Galbraith et al. (1999) was
+used for burial dose calculation. The respective dose values, statistical
+characteristics of the D e distributions, and ages for each sample are
+summarised in Table 2.
+A mollusc and a plant remain were dated by 14 C (Table 3). The
+mollusc test has been transported prior to deposition. 14 C-ages were
+corrected for a marine reservoir effect of ΔR = 65 ± 18 where necessary
+(O'Connor et al., 2010) and calibrated using CALIB 7.0 software (Hogg
+et al., 2013; Reimer et al., 2013) (Table 3).
+Fig. 3. (A) PCA results show clustering of sedimentary units. Unit B separates from other
+units and has the same characteristics as the modern beach and dune. (B) Negative
+correlation of mean grain size and sorting for samples from unit B in C3. For top of subunits
+B-I and B-III (fining- and sorting-up) this trend is parallel to sample depth (sample no.).
+(C) Relation of mean grain size and sorting for all samples from sampling sites T7,
+C22–25, C27, T35 and VC34. Event unit B clearly separates from basal unit A and
+subsequent units C, D and E. A negative correlation of mean grain size and sorting is also
+visible for unit B.
+43S.M. May et al. / Sedimentary Geology 332 (2016) 40–50
+4. Sedimentology
+4.1. Trench-scale grain size and microfaunal characteristics
+At the base of C3, laminated sandy mud (31–24 cm b.s., Figs. 2, 3)
+shows layers of one to few mm thickness and mean grain size values
+between 4 and ~100 μm. The foraminiferal assemblage (Fig. 2) is mainly
+composed of well-preserved individuals of Adelosina longirostra,
+Quinqueloculina seminula and Quinqueloculina sp. Juvenile and adult
+Cyprideis australiensis, Paracypris sp., Paracytheroma sp., Xestoleberis sp.
+compose the ostracod assemblage.
+Unconformably overlying is coarse to medium sand with abundant
+foraminifers, shell debris and well-rounded gravel (24–6 cm b.s., unit
+B). A medium sand layer (24–22 cm b.s.; base of subunit B-I) comprises
+the bottom section. Coarse sand and gravel contents increase
+from 22–20 cm b.s. and decrease between 20–17 cm b.s (top of subunit
+B-I). Between 17–11 cm b.s., massive sand and gravel was found,
+coarsening-up at 17–12 cm b.s. and fining-up at 12–11 cm b.s. (subunit
+B-II). The sediment lacks any gravel component and is fining-up at
+10–6 cm b.s. (subunit B-III).
+Samples from unit B cluster based on the PCA and the sorting/mean
+grain size ratio (Fig. 3). Granulometric characteristics are similar to the
+beach and dune (EXM B and D), although the latter are slightly better
+sorted (Figs. 2, 3). Reefal sediments (TTB) are poorly sorted and show
+increased mud contents (Fig. 2).
+Reworked (i.e., fragmented/rounded) Amphistegina spp. (60–90%)
+and other inner shelf taxa dominate the foraminiferal assemblages of
+EXM B and D as well as unit B (Figs. 2, 3A). Sample TTB has a higher
+diversity and is dominated by less or non-reworked individuals of
+inner shelf taxa (Fig. 2), which are also present in lower abundance in
+sections of unit B and samples EXM B and D. Fresh individuals of
+Peneroplis pertusus are only found in unit B and TTB. While samples
+EXM B and D are void of ostracods (Fig. 2), several adult specimens of
+C. australiensis are present in unit B.
+Fig. 4. μCT scans of core C37. (A) Similar to C3, subunits are present in unit B of C37. Sediment fabric (particle orientation) and normal grading are visible. (B) Rip-up clasts in subunit B-I.
+(C) Fining-up and fabric of subunit B-II. (D) Traction carpet (?) at the base of subunit B-I and flame structures at the boundary between units A and B. (E) Dominant (shore-parallel)
+orientation and dip of longest particle axes at the base of subunits B-I and B-II (red colours indicate highest, blue lowest densities); flow direction is perpendicular (landward) (OS1-3,
+Fig. 4A). az. — azimuth.
+44 S.M. May et al. / Sedimentary Geology 332 (2016) 40–50
+Mean grain size again increases until 2 cm b.s., before fining-up
+from 2–0 cm b.s. A higher mud content is evident in the uppermost
+6 cm (unit C), and a thin mud drape overlies the sand sequence.
+4.2. Sediment fabric in μCT scans
+Similar to unit B in C3, at least two subunits with a distinct
+orientation of coarser shell and gravel components and graded bed-
+ding are visible in the μCT scans of oriented core C37 (Figs. 1, 4).
+However, in C37, subunit B-II is fining-up (Fig. 4C). For the base of
+subunits B-I and B-II (OS1-3 in Fig. 4A,E), the longest axes of the
+mainly prolate coarse particles (Fig. 5) exhibit a distinct shore-
+parallel orientation (SW–NE to WSW–ENE) with a dominant dip of
+~ 6–9° both towards SW and NE. Well-rounded, 15 cm-large Pleisto-
+cene reef rock clasts floating in unit B were found in T20 (Fig. 8).
+Micro-cavities (~ 0.5 cm) disrupt the sharp erosive boundary to
+unit A, resembling flame structures (Fig. 4D).
+Mud clasts floating in the sandy to gravelly matrix were identified in
+subunit B-I (Figs. 4B, 8). The (palaeo-)surface of the underlying mud is
+overlain by a ~1 cm-thick layer of medium to coarse sand with lower
+amounts of shell fragments and gravel (Fig. 4D), analogous to the base
+of unit B in C3 (base of subunit B-I; Fig. 2).
+4.3. Transect-scale sediment characteristics and chronology
+The sand sheet of unit B was detected in trenches (T) and further
+cores (VC, C) along the entire transect, except for the most landward
+core VC31 (Fig. 1). It thins and fines landwards and is partly cemented
+in VC32–34 and T35. The basal ~1 cm-thick layer of medium to coarse
+sand with reduced contents of larger mollusc fragments and gravel
+(base of subunit B-I; Figs. 2, 4C–E) varies in thickness; it was not
+found in the landward cores. While unit B is overlain by unit C in
+the cores from the mudflat, it is followed by laminated sandy mud
+(unit D, C27) and well-sorted fine sand (unit E, C25) landwards. In the
+latter core, unit E gradually changes to muddy fine sand in its upper
+part (50-0 cm b.s.). Landwards of VC32, the weathered Pleistocene
+reef rock emerges at the surface; VC31 penetrated deeply weathered
+cemented sand and red loam.
+Based on the weighted mean of two OSL ages from T36 and T38
+[4715 ± 453 years, 4997 ± 631 years], unit B was deposited 4833 ±
+549 years ago (Tables 1, 2; Figs. 6, 7). This is in agreement with the
+Fig. 5. Shape of the ellipsoids calculated from the orientations (longest axis) of the
+particles separated for each subsample using the shape triangle diagram of Benn (1994).
+Particle isotropy (I) and elongation (E) are calculated using the eigenvectors of the
+ellipsoids, S1 (max eigenvalue), S2 (intermediate) and S3 (min); see Benn (1994) for
+details. The eigenvalues have been calculated using Stereo32 software. All subsamples
+exhibit a rather prolate shape, which supports the idea of a traction-based transportation
+mode of the particles.
+Table 1
+Dosimetry data. Notes: depth b.s. — sampling depth below surface, water — in-situ water content, U — uranium, Th — thorium, K — potassium, RDE — radioactive disequilibria. OSL dating
+was carried out in the Cologne Luminescence Lab (CLL).
+Sample Depth
+b.s. [m]
+Water
+[%]
+U
+[ppm]
+Activities U-chain
+[Bq/kg]
+RDE
+[%]
+Th
+[ppm]
+Activities Th-chain
+[Bq/kg]
+RDE
+[%]
+K
+[%]
+Dose rate
+[Gy/ka]
+T36 OSL1 0.15 12 ± 5 1.06 ± 0.09 Pb 214: 13.6 ± 0.36
+Bi 214: 13.3 ± 0.26
+10 0.43 ± 0.04 Th 228: 1.7 ± 0.10
+Ac 228: 2.2 ± 0.36
+Tl 208:1.9 ± 0.24
+12 0.12 ± 0.00 0.55 ± 0.06
+T36 basal mud 0.35 63 ± 5 0.48 ± 0.03 0.49 ± 0.07 0.17 ± 0.00
+T38 OSL 1 0.36 10 ± 5 1.32 ± 0.06 Pb 214: 16.3 ± 0.25
+Bi 214: 17.5 ± 1.95
+5 1.03 ± 0.17 Th 228: 3.9 ± 0.11
+Ac 228: 4.3 ± 0.34
+Tl 208: 5.4 ± 0.28
+18 0.22 ± 0.01 0.57 ± 0.09
+T38 OSL 2 0.70 7 ± 5 1.06 ± 0.14 Pb 214: 12.8 ± 0.21
+Bi 214: 13.5 ± 0.25
+15 0.36 ± 0.08 Th 228: 1.3 ± 0.09
+Ac 228: 1.7 ± 0.34
+Tl 208: 1.7 ± 0.21
+22 0.12 ± 0.00 0.74 ± 0.10
+Fig. 6. Results of preheat-plateau and dose–recovery test performed on T36 OSL1 (n = 4
+per temperature interval). Since no significant temperature dependency of dose values
+is visible, a preheat temperature of 200 °C was selected.
+45S.M. May et al. / Sedimentary Geology 332 (2016) 40–50
+14
+C-age of a bivalve shell from unit B in C3 (5582–5757 cal years BP) at
+9 cm b.s. (Table 3), giving a maximum age for the sand sheet. Plant
+remains from unit A yielded an age of 5922–6177 cal years BP at
+46 cm b.s. The well-sorted fine sand of unit E in T38 (36 cm b.s.) gives
+an age of 3773 ± 445 years.
+5. Data interpretation and discussion
+5.1. Sediment source and origin of unit B
+While the foraminiferal assemblage of unit A, dominated by inner
+shelf species A. longirostra, Q. seminula and Quinqueloculina sp., suggests
+inter- to subtidal lagoonal conditions, juvenile C. australiensis (prefer-
+ring sandy substrate), Paracytheroma sp. (preferring organic-rich
+mud), Paracypris sp. and Xestoleberis sp. indicate a protected marginal-
+marine palaeoenvironment with salinity fluctuations and temporarily
+hypersaline conditions (e.g, Yassini and Jones, 1995), probably a semi-
+enclosed lagoon (Table 4). These conditions persisted until ~ 6050 cal
+BP or later.
+The inverse grading in the basal (B-I, B-II) and normal grading in the
+upper (B-I, B-III) part of its subunits (Figs. 1, 2), the distinct fining and
+thinning landward pattern, and the erosive boundary to underlying
+mudflat sediments point to an event-induced origin of unit B
+(e.g., Morton et al., 2007). Although a suite of diagnostic characteristics
+for the identification of palaeotsunami (and palaeostorm) deposits has
+been discussed in the aftermath of the tsunamis in 2004 (Dec 26th,
+Indian Ocean Tsunami), 2010 (Feb 27th, Chile Tsunami) and 2011
+(Mar 11th, Tohoku-oki Tsunami, Japan) (e.g., Morton et al., 2007; Paris
+et al., 2010; Szczuciński et al., 2012), the detection and differentiation
+of storm and tsunami deposits are still associated with a number of
+challenges, including site-specific sediment characteristics, an
+archive-specific preservation potential, or post-depositional changes
+(e.g., Szczuciński, 2012). However, tsunamis tend to generate extensive
+sand sheets, generally fining inland and upwards, and comprising dis-
+tinct subunits as well as an erosive lower contact. They often contain
+rip-up clasts of reworked material, and sediment fabrics may reflect
+palaeo-current directions (Paris et al., 2010). While storm deposits
+may produce similar trench-scale sediment characteristics (Morton
+et al., 2007), they generally tend to be more narrow and thick, and
+thin landward rather abruptly on a transect scale (Paris et al., 2010).
+All mentioned tsunami characteristics are found in unit B, the reason
+why we tentatively conclude that it was deposited by a tsunami 5400–
+4300 years ago. However, Supertyphoon Haiyan on the Philippines
+recently demonstrated that powerful tropical cyclones may result in
+coastal flooding with tsunami-similar hydrodynamic characteristics,
+where infragravity waves with periods of N1 min are caused by non-
+linear wave interactions with shallow reef platforms (May et al.,
+2015b; Roeber and Bricker, 2015; Shimozono et al., 2015). In these
+cases, pulses of sustained (i.e. N1 min) landward-directed coastal
+flooding may reach flow velocities of N5 m/s, which is in the range of
+those inferred for recent major tsunamis at the coast (Fritz et al., 2006,
+2012). Since wave-reef interactions and the generation of infragravity
+waves at our study site cannot be excluded, a storm generation of unit
+B cannot entirely be ruled out.
+The sediment source of the candidate tsunami deposit is predomi-
+nantly the beach and dune directly NW of the transect based on unit
+B's similarities in granulometry, microfaunal composition and taphono-
+my (Figs. 2, 3), which reflects conditions at the sediment source and is
+hardly modified by tsunami transport (Szczuciński et al., 2012). Well-
+preserved individuals of Elphidium sp., Amphistegina sp. and Eponides
+cribrorepandus, and some species found only in the modern sample TTB
+Fig. 7. Abanico plots of De distributions (Dietze et al., 2015) for samples from trenches T36
+(T36 OSL 1) and T38 (T38 OSL 1 and 2). All samples show approximately normally distrib-
+uted dose values. Hence, the burial doses were calculated using the central age model
+(dark grey bars).
+46 S.M. May et al. / Sedimentary Geology 332 (2016) 40–50
+(P. pertusus) indicate a minor component from the reef lagoon (Table 4).
+Some individuals of Pararotalia stellata as well as Quinqueloculina spp.
+suggest the entrainment of material eroded from unit A.
+5.2. Implications on hydrodynamic conditions and depositional processes
+The orientation of particles deposited from suspension or traction
+is preserved when current velocities are sufficiently high. A flow-
+perpendicular orientation of the longest axes of (ellipsoidal) particles,
+as observed in unit B (SW–NE to WSW–ENE, Fig. 4E), is typical for
+bedload transport by rolling or sliding in strong and highly concentrated
+currents (Wassmer et al., 2010; Schneider et al., 2014) and indicates
+flow directions towards the SE. Inverse grading, observed at the base
+of subunits B-I and B-II, is associated with traction carpets (trc) and
+dominant bedload transport (tr; Figs. 2–4) also at the base of tsunami
+deposits from the 2006 Java Tsunami and the 2011 Tohoku-oki Tsuna-
+mi, where finer but dense sediment grains settle in a highly concentrat-
+ed, collision-dominated flow (Moore et al., 2011; Szczuciński et al.,
+2012). In addition, the flame structures between units A and B indicate
+run-up-associated, synsedimentary deformation and truncation of basal
+strata (i.e., unit A) (Matsumoto et al., 2008) due to high-velocity
+unidirectional (landward) flow generating strong shear stress.
+The poor sorting of basal layers can be attributed to the presence of a
+coarser fraction (N700 μm), which causes the bimodal or close to
+bimodal grain size distribution of, for example, the lower samples of
+subunits B-I and B-II (Figs. 2, 3). The correlation between mean grain
+size and sorting and the fining-upward trend may suggest a change in
+deposition from bedload to suspension within a decelerating flow
+particularly in subunits B-I and B-III (Moore et al., 2011) (Fig. 2).
+While sediment particles in subunit B-II of C3 may have almost entirely
+been deposited by traction, flow deceleration may be inferred at the top
+of this subunit at C37 (Fig. 4C).
+We tentatively interpret the deposit to represent three major waves
+of one tsunami, with the base of subunits (Figs. 2, 4) representing initial
+high-velocity inundation pulses. In addition, sediments at its base show
+a trend towards better sorting between C27 and T35, before mud
+contents within unit B cause very poor sorting in VC33. Decelerating
+flow velocities during deposition of unit B and dominant deposition
+from suspension are inferred for the landward section of the transect
+(Moore et al., 2011).
+5.3. Comparison with regional event data and RSL change
+Previous studies found major far-field tsunamis of similar age from
+geologic evidence in the northern Indian Ocean (e.g., Jackson et al.,
+2014). However, the regional tsunami history and numerical models
+suggest that the strongest events affecting Western Australia arise
+from earthquakes along the Java and Sumbawa segments of the
+Sunda megathrust (Burbidge et al., 2008). While a correlation of these
+palaeoevents with the one presented here thus seems equivocal, it is re-
+markable that age clusters of corals attached to wave-emplaced boul-
+ders at the NW Cape and of shells found in dunes in SW Exmouth Gulf
+(Scheffers et al., 2008, and references therein) coincide with the age of
+unit B.
+Table 2
+Burial doses and luminescence ages. Notes: Nacc/meas — number of accepted versus measured aliquots, OD — over-dispersion, CAM — central age model (Galbraith et al., 1999). OSL dating
+was carried out in the Cologne Luminescence Lab (CLL). The weighted mean age of unit B is 4833 ± 549 years.
+Sample Lab code N (acc/meas) OD
+[%]
+Skewness Age model Burial dose
+[Gy]
+Age
+[a]
+T36 OSL1 C-L3514 42/45 16.1 0.6 CAM 2.57 ± 0.14 4715 ± 453
+T38 OSL 1 C-L3515 37/48 25.9 −0.22 CAM 2.83 ± 0.26 3773 ± 445
+T38 OSL 2 C-L3516 45/48 16.3 1.8 CAM 2.79 ± 0.16 4997 ± 631
+Table 3
+14
+C-AMS dating results. Notes: unid. plant remains — unidentified plant remains; unid. m. fragments — unidentified mollusc fragments. Lab. no. — Laboratory number, UGAMS = Center
+for Applied Isotope Studies, University of Georgia (USA). All ages were calibrated using CALIB 7.0 software and the calibration datasets of Reimer et al. (2013; mollusc samples) and Hogg
+et al. (2013; plant samples). * — corrected for a local marine reservoir effect with ΔR = 65 ± 18 (O'Connor et al., 2010).
+Sample Depth
+(m b.s.)
+Lab. no. Sample description δ13
+C
+(ppm)
+14 C age
+(BP)
+1σ max-min
+(cal BP)
+2σ max–min
+(cal BP)
+C 3/4 PR 0.46 UGAMS10492 unid. plant remains −25.3 5290 ± 25 6169–5934 6177–5922
+C 3/7 M 0.15 UGAMS10493 mollusc test 1.4 5390 ± 30 ⁎5828–5715 ⁎5865–5664
+Fig. 8. (A) Photo of cemented section found in T20 illustrating sediment composition; subunit I directly following basal mud unit A contains a rip-up clast and is indicated by a 1–2 cm-thick
+basal layer, interpreted as traction carpet deposits. (B) In T20, well-rounded cobble-sized fragments of Pleistocene sedimentary rocks were found floating in the sandy matrix of unit B.
+47S.M. May et al. / Sedimentary Geology 332 (2016) 40–50
+Table 4
+Ecological characteristics of the most important species (Foraminifera, Ostracoda) found in the samples of master core C3 and the modern samples.
+Species Distribution and ecology
+Foraminifera
+Adelosina longirostra (d'Orbigny, 1846) Marine, benthic, inner shelf (Yassini and Jones, 1995: 80).
+Agglutinella sp. (El-Nakhai, 1983) Marine, benthic
+Alveolinella quoyi (d'Orbigny, 1826) Marine, benthic, carbonatic environments, epifaunal on sediment and hard substances, especially coral rubble, sheltering in
+crevices in high energy settings such as channels (Murray, 2006: 333).
+Ammonia sp. (Brünnich, 1772) Together with Elphidium the world's most abundant Foraminifera genera, but ongoing discussions about species
+identification and distinction (Debenay et al., 1998; Hayward et al., 2004). Marine to brackish, benthic, hyaline, hypersaline,
+marginal marine environments, lagoons, inner shelf, widespread, common in sediments with highly variable mud content,
+muddy sand. Salinity 10–31‰, tolerating salinities up to 50‰, marsh to subtidal, is able to tolerate low oxygen for several
+days, warm temperate–tropical, 0–50 m (Murray, 2006: 329, 338).
+Ammonia tepida (Cushman, 1926) Marine, benthic, opportunistic species. Extend into brackish and slightly brackish environments, restricted to intertidal and
+shallow subtidal, estuaries and harbours. Euryhaline, can live at very low salinities, normally reproduces within salinities
+from 2–67‰, usually brackish environments with salinity b33‰, well adapted to temporary salinity fluctuations, but
+require permanent water cover. Living A. tepida found on muddy sand or sandy mud, occur frequently in shallow and
+saline inland lakes (Debenay et al., 1998: 239; Hayward et al., 1999: 162–163; Abu-Zied et al., 2011: 168, 177; Engel et al.,
+2011: 133).
+Amphisorus sp. (Ehrenberg, 1839) Marine, benthic, larger Foraminifera. Live on hard (carbonate) substrates and sea grass. Carbonatic environments. Require
+high temperatures throughout the year, high-light habitats on the upper slope and fore-reef crest, but avoiding high-energy.
+Salinity marine, 0–50 m, lagoons, nearshore (Murray, 2006: 333, 338).
+Amphistegina spp. (d'Orbigny, 1826) Marine, benthic, carbonatic environments. Hyaline, coarse carbonate. Salinity marine, winter minimum 15 °C, generally N20 °C,
+0–130 m, coral reefs, lagoons (Murray, 2006: 334, 338).
+Aubignyna sp. (Margerel, 1970) Marine, benthic, sediment as substrate. Slightly brackish, temperate to warm, lagoons, inner shelf (Murray, 2006: 339).
+Cornuspira involvens (Reuss, 1850) Marine, benthic, widespread in marginal marine and shelf environments in low abundance (Murray 2006: 329). Wide range
+of sheltered and exposed inner shelf environments, mostly in fully marine conditions, but extending into the slightly
+brackish middle and outer parts of harbours and tidal inlets. Juveniles often in marsh environments, having been carried by
+tidal currents (Hayward et al., 1999: 94).
+Discorbia sp. (Sellier de Civrieux, 1977) Marine, benthic.
+Elphidium crispum (Linnaeus, 1758) Marine, benthic. Shallow subtidal (0–20 m), distributed in inlet channels of coastal lagoons (rare), open estuaries, sheltered
+oceanic embayments and the intertidal zone of inner shelf, exposed, sandy substrate (Yassini and Jones, 1995: 177;
+Hayward et al., 1999: 165).
+Elphidium spp. (de Montfort, 1808) Marine, benthic. Hyaline, marginal marine environments. Intertidal–subtidal, mud or sand, vegetation. Marine to
+brackish–hypersaline marshes and lagoons, temperate–warm, 0–50 m, inner shelf (Murray, 2006: 330, 340).
+Eponides cribrorepandus (Asano and Uchio, 1951) Marine, benthic. Sediment or hard substrate. Marine salinity, cold–temperate, distributed commonly on inner and middle
+shelf up to abyssal (Yassini and Jones, 1995: 157; Hayward et al., 1999: 138; Murray, 2006: 340).
+Fischerinella sp. (Loeblich and Tappan, 1962) Marine, benthic.
+Operculina ammonoides (Sidebottom, 1918) Marine, benthic. Epifaunal on sand, low energy and medium light. Is able to tolerate eutrophic conditions, rarely b1 m,
+mainly 20–70 m (Murray, 2006: 335).
+Pararotalia stellate (de Férussac, 1827) Marine, benthic. Sandy substrate, warm, inner shelf (Murray, 2006: 342).
+Peneroplis pertusus (Forskål, 1775) Marine, benthic. Commonly distributed on the inner shelf associated with patchy coral reefs (Yassini and Jones, 1995: 79).
+Peneroplis planatus (Fichtel and Moll, 1798) Marine, benthic. Carbonate environments. Intertidal zone of the inner shelf, open estuaries. Live on seagrass as well as
+sedimentary substrates, mainly 0–10 m, associated with coral reefs (Yassini and Jones, 1995:80; Murray, 2006: 334;
+Abu-Zied et al., 2011b: 356).
+Peneroplis spp. (de Montfort, 1808) Marine, benthic. Live on plants and hard substrates. Salinity 35–53‰, 18–27 °C, 0–70 m, lagoons and innermost shelf
+(Murray, 2006: 342).
+Quinqueloculina philippinensis (Cushman, 1921) Marine, benthic, shallow marine.
+Quinqueloculina seminula (Linnaeus, 1758) Marine, benthic. Brackish, warm, shallow exposed tropical waters. Minimum salinity 20‰. Distributed in the exposed and
+moderately sheltered intertidal zone of the inner shelf, mouths and outer parts of tidal inlets and harbours, inlet channel of
+coastal lagoons and open estuaries. Substrate: clean coarse sand or shelly gravel, often in the lee of islands and frequently in
+areas with moderately-strong bottom currents. Juveniles in marshes if transported there (Yassini and Jones, 1995: 85;
+Hayward et al., 1999: 35, 103; Abu-Zied et al., 2011: 168, 179).
+Quinqueloculina spp. (d'Orbigny, 1826) Marine, benthic. Plants or sediment as substrate. Marine-hypersaline salinity (32–65‰), cold-warm, hypersaline lagoons,
+marine marsh and shelf, rarely bathyal (Murray, 2006: 342). Shallow water species, exposed to moderately sheltered inner
+and mid-shelf environments with rare occurrence in tidal inlets or estuaries (Yassini and Jones, 1995: 83–86; Hayward
+et al., 1999: 100–104).
+Reussella sp. (Galloway, 1933) Marine, benthic. Shallow (15 m), moderately sheltered (Hayward et al., 1999: 136).
+Rosalina sp. (d'Orbigny, 1826) Marine, benthic. Live on hard substrates. Marine salinity, temperate–warm, 0–100 m, lagoons, sheltered and exposed
+coastlines at inner- to mid-shelf depths, very moderately sheltered shallow bays and coastlines adjacent to rock areas,
+intertidal inlets and harbours. Live epifaunally on rocks and shells (Hayward et al., 1999: 142–143; Murray, 2006: 342).
+Spiroloculina sp. (d'Orbigny, 1826) Marine, benthic. Plants or sediment (sand) as substrate. Salinity marine–hypersaline. Temperate–warm, 0–40 m, lagoons,
+exposed and sheltered inner-mid shelf, inner shelf bays and the fully marine outer parts of harbours or deep inlets, open
+estuaries (Yassini and Jones, 1995: 81–82; Hayward et al., 1999: 107–108; Murray, 2006: 343).
+Ostracoda
+Cyprideis australiensis (Hartmann, 1978) Similar to C. torosa and therefore assumed to tolerate similar ecological conditions. Widely distributed, indicator for
+brackish environments with fluctuating salinities, saline lakes and coastal lagoons. Mostly found in northern, western and
+southern Australia. A precondition for its settlement is relatively warm, shallow, brackish water. Tolerate wide range of
+salinity from almost freshwater to fully marine and even hypersaline water in coastal ponds, lakes, lagoons, estuaries, fjords,
+deltas, salt marshes and other marginal marine environments, down to a depth of 30 m (0.4–150‰). Also tolerates wide
+range of temperature fluctuations and temporary freezing. Thrive in brackish water with solute compositions that prevent
+colonisation by other Ostracoda species, including those that prefer high sulphate concentrations. Prefer mud or sandy mud
+substrate, but also found on pure sand and algae (Yassini and Jones, 1995: 315; Reeves, 2004: 191; Abu-Zied et al., 2011:
+177; Pint et al., 2012: 331).
+Paracypris sp. (Sars, 1866) Marine (Yassini and Jones, 1995: 309).
+Paracytheroma sp. (Juday, 1907) Marine. Typical inhabitant of coastal lagoons, where salinity fluctuation ranges from 5–47‰, the water temperature ranges
+48 S.M. May et al. / Sedimentary Geology 332 (2016) 40–50
+A RSL ~1 m higher than at present at the time of the tsunami and a
+continuous RSL fall since then (Lewis et al., 2013) involved low sedi-
+mentation rates during the mid- to late Holocene (Nott, 2004). While
+the only thin sediment cover on top of unit B and the accumulation of
+units C and D seem to reflect continuous deflation and episodic mud
+flat deposition in the back-barrier area, the well-sorted sand of unit E
+in the landward cores/trenches is of aeolian origin, with deposition
+until at least 3773 ± 445 years ago (T38 OSL 1). Since then, soil forma-
+tion took place, leading to or related to the evolution of carbonate crusts
+in most of the landward cores.
+6. Conclusions
+Based on the analyses of μCT scans of oriented cores, multi-proxy
+sediment and microfaunal analyses, this study presents the first strati-
+graphic evidence of a prehistoric extreme-wave event, most likely a
+palaeotsunami, from the NW part of Western Australia. The candidate
+tsunami deposit was OSL-dated to 5400–4300 years ago.
+Although rarely described from palaeotsunami deposits, the good
+preservation of sedimentary characteristics and sediment fabric allow
+for inferring hydrodynamic characteristics of the event. Up to three sub-
+units were detected within the deposit, characterised by typical inverse
+(bottom part) and normal (top part) grading. The qualitative and quan-
+titative analysis of μCT scans, as exemplified in this study, represents a
+novel approach to deduce sediment fabrics of palaeoevent deposits.
+Particle orientations inferred from the μCT scans reveal that the subunits
+were deposited due to landward flow directions during three run-up
+phases of the event inducing high shear velocities at the beginning
+and decelerating flow conditions at the end. Despite low sedimentation
+rates during the last ~ 5000 years, our results show that geological
+archives along the Ningaloo Reef are capable of remarkably well
+preserving traces of extreme-wave events.
+Acknowledgments
+Funding by Deutsche Forschungsgemeinschaft (DFG, MA 5768/1-1)
+and Australian Research Council (ARC, Future Fellowship FT0990910)
+is gratefully acknowledged. The research was kindly permitted and
+supported by Ann Preest, the local elders and aboriginal communities
+of Exmouth, as well as Arvid Hogstrom and the Department of Parks
+and Wildlife (Perth/Exmouth).
+References
+Abu-Zied, R.H., Keatings, K., Flower, R.J., Leng, M.J., 2011. Benthic Foraminifera and their
+stable isotope composition in sediment cores from Lake Qarun, Egypt: changes in
+water salinity during the past ~500 years. Journal of Paleolimnology 45, 167–182.
+Bailey, R.M., 2003. The use of measurement-time dependent single-aliquot equivalent-
+dose estimates from quartz in the identification of incomplete signal resetting.
+Radiation Measurements 37, 673–683.
+Benn, D., 1994. Fabric shape and the interpretation of sedimentary fabric data. Journal of
+Sedimentary Research 64, 910–915.
+Blott, S.J., Pye, K., 2001. GRADISTAT: a grain size distribution and statistics package for the
+analysis of unconsolidated sediments. Earth Surface Processes and Landforms 26,
+1237–1248.
+Burbidge, D., Cummins, P.R., Mleczko, R., Thio, H.K., 2008. A probabilistic tsunami hazard
+assessment for Western Australia. Pure and Applied Geophysics 165, 2059–2088.
+Collins, L.B., Rong Zhu, Z., Wyrwoll, K.-H., Eisenhauer, A., 2003. Late Quaternary structure
+and development of the northern Ningaloo Reef, Australia. Sedimentary Geology 159,
+81–94.
+Cuven, S., Paris, R., Falvard, S., Miot-Noirault, E., Benbakkar, M., Schneider, J.-L., Billy, I.,
+2013. High-resolution analysis of a tsunami deposit: case-study from the 1755
+Lisbon tsunami in southwestern Spain. Marine Geology 337, 98–111.
+De Deckker, P., Yokoyama, Y., 2009. Micropalaeontological evidence for Late Quaternary
+sea-level changes in Bonaparte Gulf, Australia. Global and Planetary Change 66,
+85–92.
+Debenay, J.-P., Bénéteau, E., Zhang, J., Stouff, V., Geslin, E., Redois, F., Fernandez-Gonzalez,
+M., 1998. Ammonia beccarii and Ammonia tepida (Foraminifera): morphofunctional
+arguments for their distinction. Marine Micropaleontology 34, 235–244.
+Dietze, M., Kreuzer, S., Burow, C., Fuchs, M., Fischer, M., Schmidt, C., 2015. The abanico
+plot: visualising chronometric data with individual standard errors. Quaternary
+Geochronology. http://dx.doi.org/10.1016/j.quageo.2015.09.003.
+Engel, M., Brückner, H., Pint, A., Wellbrock, K., Ginau, A., Voss, P., Grottker, M., Klasen, N.,
+Frenzel, P., 2011. The early Holocene humid period in NW Saudi Arabia — sediments,
+microfossils and palaeo-hydrological modelling. Quaternary International 266,
+131–141.
+Engel, M., May, S.M., Scheffers, A., Squire, P., Pint, A., Kelletat, D., Brückner, H., 2015.
+Prograded foredunes of Western Australia's macro-tidal coast — implications for
+Holocene sea-level change and high-energy wave impacts. Earth Surface Processes
+and Landforms 40, 726–740.
+Folk, R.L., Ward, W.C., 1957. Brazos River Bar: a study in the significance of grain size
+parameters. Journal of Sedimentary Petrology 27, 3–26.
+Fritz, H.M., Borrero, J.C., Synolakis, C.E., Yoo, J., 2006. 2004 Indian Ocean tsunami flow ve-
+locity measurements from survivor videos. Geophysical Research Letters 33, L24605.
+http://dx.doi.org/10.1029/2006GL026784.
+Fritz, H.M., Phillips, D.A., Okayasu, A., Shimozono, T., Liu, H., Mohammed, F., Skanavis, V.,
+Synolakis, C.E., Takahashi, T., 2012. The 2011 Japan tsunami current velocity measure-
+ments from survivor videos at Kesennuma Bay using LiDAR. Geophysical Research
+Letters 39, L00G23. http://dx.doi.org/10.1029/2011GL050686.
+Galbraith, R.F., Roberts, R.G., Laslett, G.M., Yoshida, H., Olley, J.M., 1999. Optical dating of
+single and multiple grains of quartz from Jinmium rock shelter, northern Australia:
+part I, Experimental design and statistical models. Archaeometry 41, 339–364.
+Goff, J., Chagué-Goff, C., 2014. The Australian tsunami database: a review. Progress in
+Physical Geography 38, 218–240.
+Gregson, P.J., van Reeken, I.A., 1998. Tsunami observations in Western Australia. In:
+Woodroffe, C.D. (Ed.), Maritime Natural Hazards in the Indian Ocean. Wollongong
+Papers on Maritime Policy 6. University of Wollongong, Australia, pp. 131–145.
+Hammer, Ø., Harper, D.A.T., Ryan, P.D., 2001. PAST: paleontological statistics software
+package for education and data analysis. Palaeontologica Electronica 4 (article 4).
+Hayward, B.W., Grenfell, H.R., Reid, C.M., Hayward, K.A., 1999. Recent New Zealand
+shallow-water benthic foraminifera: taxonomy, ecologic distribution, biogeography,
+and use in palaeoenvironmental assessments. 21. Institute of Geological and Nuclear
+Sciences Monograph, Lower Hutt, New Zealand (258 pp.).
+Hayward, B.W., Holzmann, M., Grenfell, H.R., Pawlowski, J., Triggs, C.M., 2004. Morpholog-
+ical distinction of molecular types in Ammonia – towards a taxonomic revision of the
+world’s most commonly misidentified Foraminifera. Marine Micropaleontology 50,
+237–271.
+Hogg, A.G., Hua, Q., Blackwell, P.G., Niu, M., Buck, C.E., Guilderson, T.P., Heaton, T.J., Palmer,
+J.G., Reimer, P.J., Reimer, R.W., Turney, C.S.M., Zimmerman, S.R.H., 2013. SHCal13
+Southern Hemisphere Calibration, 0–50,000 years cal BP. Radiocarbon 55,
+1889–1903.
+Jackson, K.L., Eberli, G.P., Amelung, F., McFadden, M.A., Moore, A.L., Rankey, E.C., Jayasena,
+H.A.H., 2014. Holocene Indian Ocean tsunami history in Sri Lanka. Geology 42,
+859–862.
+Karanovic, I., 2012. Recent fresh water Ostracods of the World. Crustacea, Ostracoda,
+Podocopida. Springer, Berlin/Heidelberg (610 pp.).
+Ketcham, R.A., 2005. Computational methods for quantitative analysis of three-
+dimensional features in geological specimens. Geosphere 1, 32–41.
+Lewis, S.E., Sloss, C.R., Murray-Wallace, C.V., Woodroffe, C.D., Smithers, S.G., 2013. Post-
+glacial sea-level changes around the Australian margin: a review. Quaternary Science
+Reviews 74, 115–138.
+Masschaele, B., Dierick, M., Van Loo, D., Boone, M.N., Brabant, L., Pauwels, E., Cnudde, V.,
+Van Hoorebeke, L., 2013. HECTOR: A 240 kV micro-CT setup optimized for research.
+Journal of Physics: Conference Series 463. http://dx.doi.org/10.1088/1742-6596/
+463/1/012012 (article 012012).
+Table 4 (continued)
+Species Distribution and ecology
+Foraminifera
+from 9–30 °C and dissolved oxygen concentration fluctuates from 1–14 mg/l. Substrate is commonly composed of
+organic-rich ooze or silty clay (Yassini and Jones, 1995: 313).
+Xestoleberis sp. (Sars, 1866) Estuarine/marine–estuarine. Intertidal zone, open estuaries, coastal lagoons, sheltered oceanic embayments. Indicative for
+marginal marine environments. Also found in estuaries associated with sea grass Zostera, hypersaline conditions (~36‰)
+(Yassini and Jones, 1995: 386; De Deckker and Yokoyama, 2009: 87–89).
+Ostracoda
+49S.M. May et al. / Sedimentary Geology 332 (2016) 40–50
+Matsumoto, D., Naruse, H., Fujino, S., Surpharwajruksakul, A., Jarupongsakul, T., Sakakura,
+N., Murayama, M., 2008. Truncated flame structures within a deposit of the Indian
+Ocean Tsunami: evidence of syn-sedimentary deformation. Sedimentology 55,
+1559–1570.
+May, S.M., Brill, D., Engel, M., Scheffers, A., Pint, A., Opitz, S., Wennrich, V., Squire, P.,
+Kelletat, D., Brückner, H., 2015a. Traces of historical tropical cyclones and tsunamis
+in the Ashburton Delta (NW Australia). Sedimentology 62, 1546–1572.
+May, S.M., Engel, M., Brill, D., Cuadra, C., Lagmay, A.M.F., Santiago, J., Suarez, J.K., Reyes, M.,
+Brückner, H., 2015b. Block and boulder transport in Eastern Samar Philippines during
+Supertyphoon Haiyan. Earth Surface Dynamics Discussions 3, 739–771.
+Moore, A., Goff, J., McAdoo, B., Fritz, H., Gusman, A., Kalligeris, N., Kalsum, K., Susanto, A.,
+Suteja, D., Synolakis, C., 2011. Sedimentary deposits from the 17 July 2006 Western
+Java Tsunami, Indonesia: use of grain size analyses to assess tsunami flow depth,
+speed, and traction carpet characteristics. Pure and Applied Geophysics 168,
+1951–1961.
+Morton, R.A., Gelfenbaum, G., Jaffe, B.E., 2007. Physical criteria for distinguishing sandy
+tsunami and storm deposits using modern examples. Sedimentary Geology 200,
+184–207.
+Murray, J.W., 2006. Ecology and Applications of Benthic Foraminifera. Cambridge
+University Press, Cambridge (440 pp.).
+Murray, A.S., Wintle, A.G., 2003. The single aliquot regenerative dose protocol: potential
+for improvements in reliability. Radiation Measurements 37, 377–381.
+Nott, J., 2004. Palaeotempestology: the study of prehistoric tropical cyclones — a review
+and implications for hazard assessment. Environmental International 30, 433–447.
+Nott, J., Hubbert, G., 2005. Comparisons between topographically surveyed debris lines
+and modelled inundation levels from severe tropical cyclones Vance and Chris, and
+their geomorphic impact on the sand coast. Australian Meteorological Magazine 54,
+187–196.
+O'Connor, S., Ulm, S., Fallon, S.J., Barham, A., Loch, I., 2010. Pre-bomb marine reservoir
+variability in the Kimberley region, Western Australia. Radiocarbon 52, 1158–1165.
+Olley, J.M., Murray, A., Roberts, R.G., 1996. The effects of disequilibria in the uranium and
+thorium decay chains on burial dose rates in fluvial sediments. Quaternary Science
+Reviews 15, 751–760.
+Paris, R., Fournier, J., Poizot, E., Etienne, S., Morin, J., Lavigne, F., Wassmer, P., 2010. Boulder
+and fine sediment transport and deposition by the 2004 tsunami in Lhok Nga
+(western Banda Aceh, Sumatra, Indonesia): a coupled offshore-onshore model.
+Marine Geology 268, 43–54.
+Pint, A., Frenzel, P., Fuhrmann, R., Scharf, B., Wennrich, V., 2012. Distribution of Cyprideis
+torosa (Ostracoda) in quaternary athalassic sediments in Germany and its application
+for palaeoecological reconstructions. International Review of Hydrobiology 97,
+330–335.
+Prendergast, A., Brown, N., 2012. Far-field impact and coastal sedimentation associated
+with the 2006 Java tsunami in West Australia. Natural Hazards 60, 69–79.
+Prescott, J.R., Hutton, J.T., 1994. Cosmic ray contributions to dose rates for luminescence
+and ESR dating: large depths and long-term time variations. Radiation Measurements
+23, 497–500.
+Reeves, J.M., 2004. The use of Ostracoda in the palaeoenvironmental reconstruction of the
+Gulf of Carpentaria, Australia, from the last interglacial to present (PhD thesis) School
+of Earth and Environmental Sciences, University of Wollongong (477 pp.).
+Reimer, P.J., Bard, E., Bayliss, A., Beck, J.W., Blackwell, P.G., Ramsey, C.B., Buck, C.E., Cheng,
+H., Edwards, R.L., Friedrich, M., Grootes, P.M., Guilderson, T.P., Haflidason, H., Hajdas,
+I., Hatté, C., Heaton, T.J., Hoffmann, D.L., Hogg, A.G., Hughen, K.A., Kaiser, K.F., Kromer,
+B., Manning, S.W., Niu, M., Reimer, R.W., Richards, D.A., Scott, E.M., Southon, J.R., Staff,
+R.A., Turney, C.S.M., van der Plicht, J., 2013. IntCal13 and Marine13 radiocarbon age
+calibration curves 0–50,000 years cal BP. Radiocarbon 55, 1869–1887.
+Roeber, V., Bricker, J., 2015. Destructive tsunami-like wave generated by surf beat over a
+coral reef during Typhoon Haiyan. Nature Communications 6, 7854. http://dx.doi.org/
+10.1038/ncomms8854.
+Röler, K., Trepmann, C., 2013. Software for Geoscientists: Stereo32 and StereoNett. Institut
+für Geologie — Ruhr University Bochum, Bochum, Germany (http://www.ruhr-uni-
+bochum.de/hardrock/downloads.html).
+Scheffers, S.R., Scheffers, A., Kelletat, D., Bryant, E.A., 2008. The Holocene paleo-tsunami
+history of West Australia. Earth and Planetary Science Letters 270, 137–146.
+Schneider, J.-L., Chagué-Goff, C., Bouchez, J.-L., Goff, J., Sugawara, D., Goto, K., Jaffe, B.,
+Richmond, B., 2014. Using magnetic fabric to reconstruct the dynamics of tsunami de-
+position on the Sendai Plain, Japan — the 2011 Tohoku-oki tsunami. Marine Geology
+358, 89–106.
+Shimozono, T., Tajima, Y., Kennedy, A.B., Nobuoka, H., Sasaki, J., Sato, S., 2015. Combined
+infragravity wave and sea-swell runup over fringing reefs by super typhoon Haiyan.
+Journal of Geophysical Research — Oceans 120, 4463–4486.
+Singarayer, J.S., Bailey, R.M., 2003. Further investigations of the quartz optically stimulated
+luminescence components using linear modulation. Radiation Measurements 37,
+451–458.
+Szczuciński, W., 2012. The post-depositional changes of the onshore 2004 tsunami
+deposits on the Andaman Sea coast of Thailand. Natural Hazards 60, 115–133.
+Szczuciński, W., Kokociński, M., Rzeszewski, M., Chagué-Goff, C., Cachão, M., Goto, K.,
+Sugawara, D., 2012. Sediment sources and sedimentation processes of 2011
+Tohoku-oki tsunami deposits on the Sendai Plain, Japan — insights from diatoms,
+nannoliths and grain size distribution. Sedimentary Geology 282, 40–56.
+Wassmer, P., Schneider, J.-L., Fonfrège, A.-V., Lavigne, F., Paris, R., Gomez, C., 2010. Use of
+anisotropy of magnetic susceptibility (AMS) in the study of tsunami deposits:
+application to the 2004 deposits on the eastern coast of Banda Aceh, North Sumatra,
+Indonesia. Marine Geology 275, 255–272.
+Yassini, I., Jones, B.G., 1995. Recent Foraminiferida and Ostracoda from Estuarine and Shelf
+Environments on the Southeastern Coast of Australia. University of Wollongong
+Press, Wollongong (484 pp.).
+50 S.M. May et al. / Sedimentary Geology 332 (2016) 40–50

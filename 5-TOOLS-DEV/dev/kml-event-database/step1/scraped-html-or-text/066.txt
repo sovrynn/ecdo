@@ -1,0 +1,1680 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script data-cfasync="false" type="text/javascript">(()=>{"use strict";var t={455:(t,e,n)=>{n.d(e,{Z:()=>c});var r=n(81),o=n.n(r),i=n(645),a=n.n(i)()(o());a.push([t.id,'div._82u8vq{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.4);z-index:999999}div._82u8vq *{box-sizing:border-box}div._82u8vq div.onnj2g{position:fixed;top:50%;left:50%;transform:translate(-50%, -50%);display:flex;flex-direction:column;justify-content:flex-start;min-height:25vh;width:50%;background-color:#fff;border:none;border-radius:1em;box-shadow:0 0 10px rgba(0,0,0,.3);text-align:center;font-size:13px;font-family:Arial,Helvetica,sans-serif;font-weight:bold;line-height:2;color:#000}div._82u8vq div.onnj2g *:before,div._82u8vq div.onnj2g *:after{content:"";display:none}@media screen and (max-width: 479px){div._82u8vq div.onnj2g{font-size:13px;width:90%}}@media screen and (min-width: 480px){div._82u8vq div.onnj2g{font-size:14px;width:80%}}@media screen and (min-width: 608px){div._82u8vq div.onnj2g{font-size:14px;width:70%}}@media screen and (min-width: 960px){div._82u8vq div.onnj2g{font-size:16px;width:70%}}@media screen and (min-width: 1200px){div._82u8vq div.onnj2g{font-size:16px;width:840px}}div._82u8vq div.onnj2g header{width:100%;background-color:rgba(0,0,0,0);border:0;color:inherit;display:block;font-size:1em;font-family:inherit;letter-spacing:normal;margin:0;opacity:1;outline:none;padding:1em 2em;position:static;text-align:center}div._82u8vq div.onnj2g header img{display:inline;margin:0 0 16px 0;padding:0;max-width:240px;max-height:60px}div._82u8vq div.onnj2g header h2{display:block;line-height:1.3;padding:0;font-family:inherit;font-weight:normal;font-style:normal;text-decoration:initial;text-align:center;font-size:1.75em;margin:0;color:inherit}div._82u8vq div.onnj2g header h2:not(img+*){margin-top:30px}div._82u8vq div.onnj2g header span._18hdrla{position:absolute;top:0;right:15px;font-size:2em;font-weight:normal;cursor:pointer;color:inherit}div._82u8vq div.onnj2g header span._18hdrla:hover{filter:brightness(115%)}div._82u8vq div.onnj2g section{width:100%;margin:0;padding:1em 2em;text-align:center;font-family:inherit;color:inherit;background:rgba(0,0,0,0)}div._82u8vq div.onnj2g section p{display:block;margin:0 0 1em 0;line-height:1.5;text-align:center;font-size:1em;font-family:inherit;color:inherit;overflow-wrap:break-word;font-weight:normal;font-style:normal;text-decoration:initial}div._82u8vq div.onnj2g section p:last-of-type{margin:0 0 1.5em 0}div._82u8vq div.onnj2g section._1myx4a0{display:block}div._82u8vq div.onnj2g section._1myx4a0._18mgeh5{display:none}div._82u8vq div.onnj2g section._1myx4a0 a._1ajq4u1.q1a6v7{color:var(--q1a6v7)}div._82u8vq div.onnj2g section._1myx4a0 a._1ajq4u1.d8c6ui{text-decoration:var(--d8c6ui)}div._82u8vq div.onnj2g section._1myx4a0 a._1ajq4u1._1bva2lo:visited{color:var(--_1bva2lo)}div._82u8vq div.onnj2g section._1myx4a0 div.qcqk63{display:block;margin:.75em;padding:0}div._82u8vq div.onnj2g section._1myx4a0 div.qcqk63 p._1jy32sx{max-width:80%;margin:0 auto;padding:0;font-size:.85em;color:inherit;font-style:normal;font-weight:normal;cursor:pointer}div._82u8vq div.onnj2g section.mjmqhi{display:block}div._82u8vq div.onnj2g section.mjmqhi._18mgeh5{display:none}div._82u8vq div.onnj2g section.mjmqhi h4.vza2sa{color:inherit;text-align:initial;font-weight:normal;font-family:inherit;font-size:1.125em;margin:0 0 .5em .5em}div._82u8vq div.onnj2g section.mjmqhi div._1n8syyr{display:flex;margin:1.5em 0}div._82u8vq div.onnj2g section.mjmqhi div._1n8syyr ul._12y6q83{max-height:300px;flex:2;list-style:none;overflow-y:auto;margin:0 1em 0 0;padding-inline-start:0}@media screen and (min-width: 608px){div._82u8vq div.onnj2g section.mjmqhi div._1n8syyr ul._12y6q83{flex:1;margin:0 2em 0 0}}div._82u8vq div.onnj2g section.mjmqhi div._1n8syyr ul._12y6q83 li{padding:.75em;cursor:pointer;background:rgba(0,0,0,.05);font-weight:bold}div._82u8vq div.onnj2g section.mjmqhi div._1n8syyr ul._12y6q83 li:hover{background:rgba(0,0,0,.075)}div._82u8vq div.onnj2g section.mjmqhi div._1n8syyr ul._12y6q83 li._2tqkhw{color:var(--_1s2p24r);background:var(--_1u8b67d)}div._82u8vq div.onnj2g section.mjmqhi div._1n8syyr div._10v9zkx{max-height:300px;overflow-y:auto;flex:3;display:flex;flex-direction:column;justify-content:space-between;text-align:initial}div._82u8vq div.onnj2g section.mjmqhi div._1n8syyr div._10v9zkx ol._1dz8w0r{display:none;list-style-type:decimal;text-align:initial;padding:0;margin:0 2em;font-weight:normal}div._82u8vq div.onnj2g section.mjmqhi div._1n8syyr div._10v9zkx ol._1dz8w0r._2tqkhw{display:block}div._82u8vq div.onnj2g section.mjmqhi div._1n8syyr div._10v9zkx p{margin:1em 0 0;text-align:inherit;font-style:italic}div._82u8vq div.onnj2g section.mjmqhi button.te00wf{font-size:1em;text-transform:initial}div._82u8vq div.onnj2g button._16i61up{width:auto;height:auto;max-width:90%;cursor:pointer;display:inline-block;letter-spacing:normal;margin:.75em;opacity:1;outline:none;overflow-wrap:break-word;font-family:inherit;font-weight:normal;font-style:normal;text-decoration:initial;text-transform:uppercase;text-align:center;color:#fff;font-size:1.15em;padding:.75em 2em;padding-inline:2em;padding-block:.75em;line-height:normal;background:#40c28a;border:none;border-radius:.25em;box-shadow:none}div._82u8vq div.onnj2g button._16i61up:hover{filter:brightness(115%);box-shadow:none}div._82u8vq div.onnj2g a._1o9k1ce{height:50px;width:50px;position:absolute;bottom:5px;right:5px}div._82u8vq div.onnj2g a._1o9k1ce img{position:initial;height:100%;width:100%;filter:drop-shadow(1px 1px 1px var(--_16xxoaz))}',""]);const c=a},645:t=>{t.exports=function(t){var e=[];return e.toString=function(){return this.map((function(e){var n="",r=void 0!==e[5];return e[4]&&(n+="@supports (".concat(e[4],") {")),e[2]&&(n+="@media ".concat(e[2]," {")),r&&(n+="@layer".concat(e[5].length>0?" ".concat(e[5]):""," {")),n+=t(e),r&&(n+="}"),e[2]&&(n+="}"),e[4]&&(n+="}"),n})).join("")},e.i=function(t,n,r,o,i){"string"==typeof t&&(t=[[null,t,void 0]]);var a={};if(r)for(var c=0;c<this.length;c++){var s=this[c][0];null!=s&&(a[s]=!0)}for(var u=0;u<t.length;u++){var l=[].concat(t[u]);r&&a[l[0]]||(void 0!==i&&(void 0===l[5]||(l[1]="@layer".concat(l[5].length>0?" ".concat(l[5]):""," {").concat(l[1],"}")),l[5]=i),n&&(l[2]?(l[1]="@media ".concat(l[2]," {").concat(l[1],"}"),l[2]=n):l[2]=n),o&&(l[4]?(l[1]="@supports (".concat(l[4],") {").concat(l[1],"}"),l[4]=o):l[4]="".concat(o)),e.push(l))}},e}},81:t=>{t.exports=function(t){return t[1]}},379:t=>{var e=[];function n(t){for(var n=-1,r=0;r<e.length;r++)if(e[r].identifier===t){n=r;break}return n}function r(t,r){for(var i={},a=[],c=0;c<t.length;c++){var s=t[c],u=r.base?s[0]+r.base:s[0],l=i[u]||0,d="".concat(u," ").concat(l);i[u]=l+1;var f=n(d),h={css:s[1],media:s[2],sourceMap:s[3],supports:s[4],layer:s[5]};if(-1!==f)e[f].references++,e[f].updater(h);else{var v=o(h,r);r.byIndex=c,e.splice(c,0,{identifier:d,updater:v,references:1})}a.push(d)}return a}function o(t,e){var n=e.domAPI(e);n.update(t);return function(e){if(e){if(e.css===t.css&&e.media===t.media&&e.sourceMap===t.sourceMap&&e.supports===t.supports&&e.layer===t.layer)return;n.update(t=e)}else n.remove()}}t.exports=function(t,o){var i=r(t=t||[],o=o||{});return function(t){t=t||[];for(var a=0;a<i.length;a++){var c=n(i[a]);e[c].references--}for(var s=r(t,o),u=0;u<i.length;u++){var l=n(i[u]);0===e[l].references&&(e[l].updater(),e.splice(l,1))}i=s}}},569:t=>{var e={};t.exports=function(t,n){var r=function(t){if(void 0===e[t]){var n=document.querySelector(t);if(window.HTMLIFrameElement&&n instanceof window.HTMLIFrameElement)try{n=n.contentDocument.head}catch(t){n=null}e[t]=n}return e[t]}(t);if(!r)throw new Error("Couldn't find a style target. This probably means that the value for the 'insert' parameter is invalid.");r.appendChild(n)}},216:t=>{t.exports=function(t){var e=document.createElement("style");return t.setAttributes(e,t.attributes),t.insert(e,t.options),e}},565:(t,e,n)=>{t.exports=function(t){var e=n.nc;e&&t.setAttribute("nonce",e)}},795:t=>{t.exports=function(t){if("undefined"==typeof document)return{update:function(){},remove:function(){}};var e=t.insertStyleElement(t);return{update:function(n){!function(t,e,n){var r="";n.supports&&(r+="@supports (".concat(n.supports,") {")),n.media&&(r+="@media ".concat(n.media," {"));var o=void 0!==n.layer;o&&(r+="@layer".concat(n.layer.length>0?" ".concat(n.layer):""," {")),r+=n.css,o&&(r+="}"),n.media&&(r+="}"),n.supports&&(r+="}");var i=n.sourceMap;i&&"undefined"!=typeof btoa&&(r+="\n/*# sourceMappingURL=data:application/json;base64,".concat(btoa(unescape(encodeURIComponent(JSON.stringify(i))))," */")),e.styleTagTransform(r,t,e.options)}(e,t,n)},remove:function(){!function(t){if(null===t.parentNode)return!1;t.parentNode.removeChild(t)}(e)}}}},589:t=>{t.exports=function(t,e){if(e.styleSheet)e.styleSheet.cssText=t;else{for(;e.firstChild;)e.removeChild(e.firstChild);e.appendChild(document.createTextNode(t))}}}},e={};function n(r){var o=e[r];if(void 0!==o)return o.exports;var i=e[r]={id:r,exports:{}};return t[r](i,i.exports,n),i.exports}n.n=t=>{var e=t&&t.__esModule?()=>t.default:()=>t;return n.d(e,{a:e}),e},n.d=(t,e)=>{for(var r in e)n.o(e,r)&&!n.o(t,r)&&Object.defineProperty(t,r,{enumerable:!0,get:e[r]})},n.o=(t,e)=>Object.prototype.hasOwnProperty.call(t,e),n.nc=void 0,(()=>{const t={randomUUID:"undefined"!=typeof crypto&&crypto.randomUUID&&crypto.randomUUID.bind(crypto)};let e;const r=new Uint8Array(16);function o(){if(!e&&(e="undefined"!=typeof crypto&&crypto.getRandomValues&&crypto.getRandomValues.bind(crypto),!e))throw new Error("crypto.getRandomValues() not supported. See https://github.com/uuidjs/uuid#getrandomvalues-not-supported");return e(r)}const i=[];for(let t=0;t<256;++t)i.push((t+256).toString(16).slice(1));function a(t,e=0){return(i[t[e+0]]+i[t[e+1]]+i[t[e+2]]+i[t[e+3]]+"-"+i[t[e+4]]+i[t[e+5]]+"-"+i[t[e+6]]+i[t[e+7]]+"-"+i[t[e+8]]+i[t[e+9]]+"-"+i[t[e+10]]+i[t[e+11]]+i[t[e+12]]+i[t[e+13]]+i[t[e+14]]+i[t[e+15]]).toLowerCase()}const c=function(e,n,r){if(t.randomUUID&&!n&&!e)return t.randomUUID();const i=(e=e||{}).random||(e.rng||o)();if(i[6]=15&i[6]|64,i[8]=63&i[8]|128,n){r=r||0;for(let t=0;t<16;++t)n[r+t]=i[t];return n}return a(i)};var s=n(379),u=n.n(s),l=n(795),d=n.n(l),f=n(569),h=n.n(f),v=n(565),p=n.n(v),m=n(216),y=n.n(m),g=n(589),w=n.n(g),b=n(455),x={};x.styleTagTransform=w(),x.setAttributes=p(),x.insert=h().bind(null,"head"),x.domAPI=d(),x.insertStyleElement=y();u()(b.Z,x);b.Z&&b.Z.locals&&b.Z.locals;function k(t){return k="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t},k(t)}function L(){L=function(){return e};var t,e={},n=Object.prototype,r=n.hasOwnProperty,o=Object.defineProperty||function(t,e,n){t[e]=n.value},i="function"==typeof Symbol?Symbol:{},a=i.iterator||"@@iterator",c=i.asyncIterator||"@@asyncIterator",s=i.toStringTag||"@@toStringTag";function u(t,e,n){return Object.defineProperty(t,e,{value:n,enumerable:!0,configurable:!0,writable:!0}),t[e]}try{u({},"")}catch(t){u=function(t,e,n){return t[e]=n}}function l(t,e,n,r){var i=e&&e.prototype instanceof y?e:y,a=Object.create(i.prototype),c=new Y(r||[]);return o(a,"_invoke",{value:A(t,n,c)}),a}function d(t,e,n){try{return{type:"normal",arg:t.call(e,n)}}catch(t){return{type:"throw",arg:t}}}e.wrap=l;var f="suspendedStart",h="suspendedYield",v="executing",p="completed",m={};function y(){}function g(){}function w(){}var b={};u(b,a,(function(){return this}));var x=Object.getPrototypeOf,j=x&&x(x(T([])));j&&j!==n&&r.call(j,a)&&(b=j);var E=w.prototype=y.prototype=Object.create(b);function C(t){["next","throw","return"].forEach((function(e){u(t,e,(function(t){return this._invoke(e,t)}))}))}function S(t,e){function n(o,i,a,c){var s=d(t[o],t,i);if("throw"!==s.type){var u=s.arg,l=u.value;return l&&"object"==k(l)&&r.call(l,"__await")?e.resolve(l.__await).then((function(t){n("next",t,a,c)}),(function(t){n("throw",t,a,c)})):e.resolve(l).then((function(t){u.value=t,a(u)}),(function(t){return n("throw",t,a,c)}))}c(s.arg)}var i;o(this,"_invoke",{value:function(t,r){function o(){return new e((function(e,o){n(t,r,e,o)}))}return i=i?i.then(o,o):o()}})}function A(e,n,r){var o=f;return function(i,a){if(o===v)throw new Error("Generator is already running");if(o===p){if("throw"===i)throw a;return{value:t,done:!0}}for(r.method=i,r.arg=a;;){var c=r.delegate;if(c){var s=I(c,r);if(s){if(s===m)continue;return s}}if("next"===r.method)r.sent=r._sent=r.arg;else if("throw"===r.method){if(o===f)throw o=p,r.arg;r.dispatchException(r.arg)}else"return"===r.method&&r.abrupt("return",r.arg);o=v;var u=d(e,n,r);if("normal"===u.type){if(o=r.done?p:h,u.arg===m)continue;return{value:u.arg,done:r.done}}"throw"===u.type&&(o=p,r.method="throw",r.arg=u.arg)}}}function I(e,n){var r=n.method,o=e.iterator[r];if(o===t)return n.delegate=null,"throw"===r&&e.iterator.return&&(n.method="return",n.arg=t,I(e,n),"throw"===n.method)||"return"!==r&&(n.method="throw",n.arg=new TypeError("The iterator does not provide a '"+r+"' method")),m;var i=d(o,e.iterator,n.arg);if("throw"===i.type)return n.method="throw",n.arg=i.arg,n.delegate=null,m;var a=i.arg;return a?a.done?(n[e.resultName]=a.value,n.next=e.nextLoc,"return"!==n.method&&(n.method="next",n.arg=t),n.delegate=null,m):a:(n.method="throw",n.arg=new TypeError("iterator result is not an object"),n.delegate=null,m)}function q(t){var e={tryLoc:t[0]};1 in t&&(e.catchLoc=t[1]),2 in t&&(e.finallyLoc=t[2],e.afterLoc=t[3]),this.tryEntries.push(e)}function P(t){var e=t.completion||{};e.type="normal",delete e.arg,t.completion=e}function Y(t){this.tryEntries=[{tryLoc:"root"}],t.forEach(q,this),this.reset(!0)}function T(e){if(e||""===e){var n=e[a];if(n)return n.call(e);if("function"==typeof e.next)return e;if(!isNaN(e.length)){var o=-1,i=function n(){for(;++o<e.length;)if(r.call(e,o))return n.value=e[o],n.done=!1,n;return n.value=t,n.done=!0,n};return i.next=i}}throw new TypeError(k(e)+" is not iterable")}return g.prototype=w,o(E,"constructor",{value:w,configurable:!0}),o(w,"constructor",{value:g,configurable:!0}),g.displayName=u(w,s,"GeneratorFunction"),e.isGeneratorFunction=function(t){var e="function"==typeof t&&t.constructor;return!!e&&(e===g||"GeneratorFunction"===(e.displayName||e.name))},e.mark=function(t){return Object.setPrototypeOf?Object.setPrototypeOf(t,w):(t.__proto__=w,u(t,s,"GeneratorFunction")),t.prototype=Object.create(E),t},e.awrap=function(t){return{__await:t}},C(S.prototype),u(S.prototype,c,(function(){return this})),e.AsyncIterator=S,e.async=function(t,n,r,o,i){void 0===i&&(i=Promise);var a=new S(l(t,n,r,o),i);return e.isGeneratorFunction(n)?a:a.next().then((function(t){return t.done?t.value:a.next()}))},C(E),u(E,s,"Generator"),u(E,a,(function(){return this})),u(E,"toString",(function(){return"[object Generator]"})),e.keys=function(t){var e=Object(t),n=[];for(var r in e)n.push(r);return n.reverse(),function t(){for(;n.length;){var r=n.pop();if(r in e)return t.value=r,t.done=!1,t}return t.done=!0,t}},e.values=T,Y.prototype={constructor:Y,reset:function(e){if(this.prev=0,this.next=0,this.sent=this._sent=t,this.done=!1,this.delegate=null,this.method="next",this.arg=t,this.tryEntries.forEach(P),!e)for(var n in this)"t"===n.charAt(0)&&r.call(this,n)&&!isNaN(+n.slice(1))&&(this[n]=t)},stop:function(){this.done=!0;var t=this.tryEntries[0].completion;if("throw"===t.type)throw t.arg;return this.rval},dispatchException:function(e){if(this.done)throw e;var n=this;function o(r,o){return c.type="throw",c.arg=e,n.next=r,o&&(n.method="next",n.arg=t),!!o}for(var i=this.tryEntries.length-1;i>=0;--i){var a=this.tryEntries[i],c=a.completion;if("root"===a.tryLoc)return o("end");if(a.tryLoc<=this.prev){var s=r.call(a,"catchLoc"),u=r.call(a,"finallyLoc");if(s&&u){if(this.prev<a.catchLoc)return o(a.catchLoc,!0);if(this.prev<a.finallyLoc)return o(a.finallyLoc)}else if(s){if(this.prev<a.catchLoc)return o(a.catchLoc,!0)}else{if(!u)throw new Error("try statement without catch or finally");if(this.prev<a.finallyLoc)return o(a.finallyLoc)}}}},abrupt:function(t,e){for(var n=this.tryEntries.length-1;n>=0;--n){var o=this.tryEntries[n];if(o.tryLoc<=this.prev&&r.call(o,"finallyLoc")&&this.prev<o.finallyLoc){var i=o;break}}i&&("break"===t||"continue"===t)&&i.tryLoc<=e&&e<=i.finallyLoc&&(i=null);var a=i?i.completion:{};return a.type=t,a.arg=e,i?(this.method="next",this.next=i.finallyLoc,m):this.complete(a)},complete:function(t,e){if("throw"===t.type)throw t.arg;return"break"===t.type||"continue"===t.type?this.next=t.arg:"return"===t.type?(this.rval=this.arg=t.arg,this.method="return",this.next="end"):"normal"===t.type&&e&&(this.next=e),m},finish:function(t){for(var e=this.tryEntries.length-1;e>=0;--e){var n=this.tryEntries[e];if(n.finallyLoc===t)return this.complete(n.completion,n.afterLoc),P(n),m}},catch:function(t){for(var e=this.tryEntries.length-1;e>=0;--e){var n=this.tryEntries[e];if(n.tryLoc===t){var r=n.completion;if("throw"===r.type){var o=r.arg;P(n)}return o}}throw new Error("illegal catch attempt")},delegateYield:function(e,n,r){return this.delegate={iterator:T(e),resultName:n,nextLoc:r},"next"===this.method&&(this.arg=t),m}},e}function j(t,e,n,r,o,i,a){try{var c=t[i](a),s=c.value}catch(t){return void n(t)}c.done?e(s):Promise.resolve(s).then(r,o)}var E="ZnMtYWRiLWVycg",C=function(){var t,e=(t=L().mark((function t(){var e,n,r,o,i;return L().wrap((function(t){for(;;)switch(t.prev=t.next){case 0:if(document.body){t.next=3;break}return t.next=3,new Promise((function(t){return document.addEventListener("DOMContentLoaded",t)}));case 3:for(e=["YWQ=","YmFubmVyLWFk","YmFubmVyX2Fk","YmFubmVyLWFkLWNvbnRhaW5lcg==","YWQtc2lkZXJhaWw=","c3RpY2t5YWRz","aW1wcnRudC1jbnQ="],(n=document.createElement("div")).textContent=Math.random().toString(),n.setAttribute(atob("ZGF0YS1mcmVlc3Rhci1hZA=="),"123"),r=0;r<e.length;r++)n.classList.add(atob(e[r]));if(n.style.display="block",document.body.appendChild(n),o=window.getComputedStyle(n),i=null==o?void 0:o.display,n.remove(),"none"!==i){t.next=15;break}throw new Error(E);case 15:case"end":return t.stop()}}),t)})),function(){var e=this,n=arguments;return new Promise((function(r,o){var i=t.apply(e,n);function a(t){j(i,r,o,a,c,"next",t)}function c(t){j(i,r,o,a,c,"throw",t)}a(void 0)}))});return function(){return e.apply(this,arguments)}}(),S=function(t){return new Promise((function(e,n){var r=document.createElement("script");try{r.src=t,r.addEventListener("load",(function(){e()})),r.addEventListener("error",(function(){n(E)})),document.head.appendChild(r)}catch(t){n(t)}finally{r.remove()}}))};function A(t){return A="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t},A(t)}function I(){I=function(){return e};var t,e={},n=Object.prototype,r=n.hasOwnProperty,o=Object.defineProperty||function(t,e,n){t[e]=n.value},i="function"==typeof Symbol?Symbol:{},a=i.iterator||"@@iterator",c=i.asyncIterator||"@@asyncIterator",s=i.toStringTag||"@@toStringTag";function u(t,e,n){return Object.defineProperty(t,e,{value:n,enumerable:!0,configurable:!0,writable:!0}),t[e]}try{u({},"")}catch(t){u=function(t,e,n){return t[e]=n}}function l(t,e,n,r){var i=e&&e.prototype instanceof y?e:y,a=Object.create(i.prototype),c=new Y(r||[]);return o(a,"_invoke",{value:C(t,n,c)}),a}function d(t,e,n){try{return{type:"normal",arg:t.call(e,n)}}catch(t){return{type:"throw",arg:t}}}e.wrap=l;var f="suspendedStart",h="suspendedYield",v="executing",p="completed",m={};function y(){}function g(){}function w(){}var b={};u(b,a,(function(){return this}));var x=Object.getPrototypeOf,k=x&&x(x(T([])));k&&k!==n&&r.call(k,a)&&(b=k);var L=w.prototype=y.prototype=Object.create(b);function j(t){["next","throw","return"].forEach((function(e){u(t,e,(function(t){return this._invoke(e,t)}))}))}function E(t,e){function n(o,i,a,c){var s=d(t[o],t,i);if("throw"!==s.type){var u=s.arg,l=u.value;return l&&"object"==A(l)&&r.call(l,"__await")?e.resolve(l.__await).then((function(t){n("next",t,a,c)}),(function(t){n("throw",t,a,c)})):e.resolve(l).then((function(t){u.value=t,a(u)}),(function(t){return n("throw",t,a,c)}))}c(s.arg)}var i;o(this,"_invoke",{value:function(t,r){function o(){return new e((function(e,o){n(t,r,e,o)}))}return i=i?i.then(o,o):o()}})}function C(e,n,r){var o=f;return function(i,a){if(o===v)throw new Error("Generator is already running");if(o===p){if("throw"===i)throw a;return{value:t,done:!0}}for(r.method=i,r.arg=a;;){var c=r.delegate;if(c){var s=S(c,r);if(s){if(s===m)continue;return s}}if("next"===r.method)r.sent=r._sent=r.arg;else if("throw"===r.method){if(o===f)throw o=p,r.arg;r.dispatchException(r.arg)}else"return"===r.method&&r.abrupt("return",r.arg);o=v;var u=d(e,n,r);if("normal"===u.type){if(o=r.done?p:h,u.arg===m)continue;return{value:u.arg,done:r.done}}"throw"===u.type&&(o=p,r.method="throw",r.arg=u.arg)}}}function S(e,n){var r=n.method,o=e.iterator[r];if(o===t)return n.delegate=null,"throw"===r&&e.iterator.return&&(n.method="return",n.arg=t,S(e,n),"throw"===n.method)||"return"!==r&&(n.method="throw",n.arg=new TypeError("The iterator does not provide a '"+r+"' method")),m;var i=d(o,e.iterator,n.arg);if("throw"===i.type)return n.method="throw",n.arg=i.arg,n.delegate=null,m;var a=i.arg;return a?a.done?(n[e.resultName]=a.value,n.next=e.nextLoc,"return"!==n.method&&(n.method="next",n.arg=t),n.delegate=null,m):a:(n.method="throw",n.arg=new TypeError("iterator result is not an object"),n.delegate=null,m)}function q(t){var e={tryLoc:t[0]};1 in t&&(e.catchLoc=t[1]),2 in t&&(e.finallyLoc=t[2],e.afterLoc=t[3]),this.tryEntries.push(e)}function P(t){var e=t.completion||{};e.type="normal",delete e.arg,t.completion=e}function Y(t){this.tryEntries=[{tryLoc:"root"}],t.forEach(q,this),this.reset(!0)}function T(e){if(e||""===e){var n=e[a];if(n)return n.call(e);if("function"==typeof e.next)return e;if(!isNaN(e.length)){var o=-1,i=function n(){for(;++o<e.length;)if(r.call(e,o))return n.value=e[o],n.done=!1,n;return n.value=t,n.done=!0,n};return i.next=i}}throw new TypeError(A(e)+" is not iterable")}return g.prototype=w,o(L,"constructor",{value:w,configurable:!0}),o(w,"constructor",{value:g,configurable:!0}),g.displayName=u(w,s,"GeneratorFunction"),e.isGeneratorFunction=function(t){var e="function"==typeof t&&t.constructor;return!!e&&(e===g||"GeneratorFunction"===(e.displayName||e.name))},e.mark=function(t){return Object.setPrototypeOf?Object.setPrototypeOf(t,w):(t.__proto__=w,u(t,s,"GeneratorFunction")),t.prototype=Object.create(L),t},e.awrap=function(t){return{__await:t}},j(E.prototype),u(E.prototype,c,(function(){return this})),e.AsyncIterator=E,e.async=function(t,n,r,o,i){void 0===i&&(i=Promise);var a=new E(l(t,n,r,o),i);return e.isGeneratorFunction(n)?a:a.next().then((function(t){return t.done?t.value:a.next()}))},j(L),u(L,s,"Generator"),u(L,a,(function(){return this})),u(L,"toString",(function(){return"[object Generator]"})),e.keys=function(t){var e=Object(t),n=[];for(var r in e)n.push(r);return n.reverse(),function t(){for(;n.length;){var r=n.pop();if(r in e)return t.value=r,t.done=!1,t}return t.done=!0,t}},e.values=T,Y.prototype={constructor:Y,reset:function(e){if(this.prev=0,this.next=0,this.sent=this._sent=t,this.done=!1,this.delegate=null,this.method="next",this.arg=t,this.tryEntries.forEach(P),!e)for(var n in this)"t"===n.charAt(0)&&r.call(this,n)&&!isNaN(+n.slice(1))&&(this[n]=t)},stop:function(){this.done=!0;var t=this.tryEntries[0].completion;if("throw"===t.type)throw t.arg;return this.rval},dispatchException:function(e){if(this.done)throw e;var n=this;function o(r,o){return c.type="throw",c.arg=e,n.next=r,o&&(n.method="next",n.arg=t),!!o}for(var i=this.tryEntries.length-1;i>=0;--i){var a=this.tryEntries[i],c=a.completion;if("root"===a.tryLoc)return o("end");if(a.tryLoc<=this.prev){var s=r.call(a,"catchLoc"),u=r.call(a,"finallyLoc");if(s&&u){if(this.prev<a.catchLoc)return o(a.catchLoc,!0);if(this.prev<a.finallyLoc)return o(a.finallyLoc)}else if(s){if(this.prev<a.catchLoc)return o(a.catchLoc,!0)}else{if(!u)throw new Error("try statement without catch or finally");if(this.prev<a.finallyLoc)return o(a.finallyLoc)}}}},abrupt:function(t,e){for(var n=this.tryEntries.length-1;n>=0;--n){var o=this.tryEntries[n];if(o.tryLoc<=this.prev&&r.call(o,"finallyLoc")&&this.prev<o.finallyLoc){var i=o;break}}i&&("break"===t||"continue"===t)&&i.tryLoc<=e&&e<=i.finallyLoc&&(i=null);var a=i?i.completion:{};return a.type=t,a.arg=e,i?(this.method="next",this.next=i.finallyLoc,m):this.complete(a)},complete:function(t,e){if("throw"===t.type)throw t.arg;return"break"===t.type||"continue"===t.type?this.next=t.arg:"return"===t.type?(this.rval=this.arg=t.arg,this.method="return",this.next="end"):"normal"===t.type&&e&&(this.next=e),m},finish:function(t){for(var e=this.tryEntries.length-1;e>=0;--e){var n=this.tryEntries[e];if(n.finallyLoc===t)return this.complete(n.completion,n.afterLoc),P(n),m}},catch:function(t){for(var e=this.tryEntries.length-1;e>=0;--e){var n=this.tryEntries[e];if(n.tryLoc===t){var r=n.completion;if("throw"===r.type){var o=r.arg;P(n)}return o}}throw new Error("illegal catch attempt")},delegateYield:function(e,n,r){return this.delegate={iterator:T(e),resultName:n,nextLoc:r},"next"===this.method&&(this.arg=t),m}},e}function q(t,e,n,r,o,i,a){try{var c=t[i](a),s=c.value}catch(t){return void n(t)}c.done?e(s):Promise.resolve(s).then(r,o)}function P(t){return function(){var e=this,n=arguments;return new Promise((function(r,o){var i=t.apply(e,n);function a(t){q(i,r,o,a,c,"next",t)}function c(t){q(i,r,o,a,c,"throw",t)}a(void 0)}))}}function Y(t,e){for(var n=0;n<e.length;n++){var r=e[n];r.enumerable=r.enumerable||!1,r.configurable=!0,"value"in r&&(r.writable=!0),Object.defineProperty(t,(o=r.key,i=void 0,i=function(t,e){if("object"!==A(t)||null===t)return t;var n=t[Symbol.toPrimitive];if(void 0!==n){var r=n.call(t,e||"default");if("object"!==A(r))return r;throw new TypeError("@@toPrimitive must return a primitive value.")}return("string"===e?String:Number)(t)}(o,"string"),"symbol"===A(i)?i:String(i)),r)}var o,i}var T=function(){function t(e){!function(t,e){if(!(t instanceof e))throw new TypeError("Cannot call a class as a function")}(this,t),this.config=null,this.langCode=null,this.languages=this.getUserPreferredLanguages(e)}var e,n,r,o,i,a;return e=t,n=[{key:"init",value:(a=P(I().mark((function t(){return I().wrap((function(t){for(;;)switch(t.prev=t.next){case 0:return t.next=2,this.fetchConfig();case 2:this.config=t.sent,null!==this.config&&(this.langCode=this.getFirstSupportedLanguage(this.languages),this.observe());case 4:case"end":return t.stop()}}),t,this)}))),function(){return a.apply(this,arguments)})},{key:"fetchConfig",value:(i=P(I().mark((function t(){var e,n,r,o,i,a;return I().wrap((function(t){for(;;)switch(t.prev=t.next){case 0:return n=(e=["Y29uZmlnLmNvbnRlbnQtc2V0dGluZ3MuY29t","Y29uZmlnLnNpdGUtY29uZmlnLmNvbQ==","29uZmlnLmZyZmlndXJlcy5jb20="]).length-1,r=Number.isNaN(Number(localStorage.getItem("fs.cdi")))?0:Number(localStorage.getItem("fs.cdi")),o=Number.isNaN(Number(localStorage.getItem("fs.cfc")))?0:Number(localStorage.getItem("fs.cfc")),i=atob(e[r]),a="https://".concat(i,"/smithsonianmag-com.json"),t.prev=6,t.next=9,fetch(a);case 9:return t.abrupt("return",t.sent.json());case 12:return t.prev=12,t.t0=t.catch(6),++o>=3&&(o=0,r++),r>n&&(r=0),t.abrupt("return",null);case 18:return t.prev=18,localStorage.setItem("fs.cdi",r),localStorage.setItem("fs.cfc",o),t.finish(18);case 22:case"end":return t.stop()}}),t,null,[[6,12,18,22]])}))),function(){return i.apply(this,arguments)})},{key:"killScroll",value:function(t){if(t.isScrollDisabled){this.existingOverflow=document.body.style.overflow,document.body.style.overflow="hidden";var e=window.pageYOffset||document.documentElement.scrollTop,n=window.pageXOffset||document.documentElement.scrollLeft;document.body.style.top="-".concat(e,"px"),document.body.style.left="-".concat(n,"px"),window.onscroll=function(){window.scrollTo(n,e)}}}},{key:"reviveScroll",value:function(){document.body.style.overflow=this.existingOverflow||"",window.onscroll=function(){}}},{key:"getUserPreferredLanguages",value:function(t){var e=t.languages,n=t.language,r=void 0===e?[n]:e;if(r)return r.map((function(t){var e=t.trim().toLowerCase();if(!e.includes("zh"))return e.split(/-|_/)[0];var n=e.split(/-|_/)[1];return"zh"===e||["hans","cn","sg"].includes(n)?"zh":["hant","hk","mo","tw"].includes(n)?"zh-hant":void 0}))}},{key:"getFirstSupportedLanguage",value:function(t){var e=this,n=["title","paragraphOne","buttonText"],r=t.find((function(t){return n.every((function(n){return!!e.config[n][t]}))}));return void 0!==r?r:"en"}},{key:"getLocalizedTextContent",value:function(t,e){var n,r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],o=t[e];if(void 0===o)throw new Error("Config text not found for text key ".concat(e));return r?null!==(n=o[this.langCode])&&void 0!==n?n:o.en:o[this.langCode]}},{key:"getPixelString",value:function(t){return"number"==typeof t?"".concat(t,"px"):null}},{key:"pickContrastingColorValue",value:function(t,e,n){var r=t.substring(1,7);return.299*parseInt(r.substring(0,2),16)+.587*parseInt(r.substring(2,4),16)+.114*parseInt(r.substring(4,6),16)>=128?e:n}},{key:"generateOverlay",value:function(t){var e=this,n=t.siteId,r=t.isCloseEnabled,o=t.dismissDuration,i=t.dismissDurationPv,a=t.logoUrl,c=t.font,s=t.paragraphTwo,u=t.paragraphThree,l=t.closeText,d=t.linkText,f=t.linkUrl,h=t.textColor,v=t.headerTextColor,p=t.buttonTextColor,m=t.headerBgColor,y=t.bgColor,g=t.buttonBgColor,w=t.borderColor,b=t.borderWidth,x=t.borderRadius,k=t.closeButtonColor,L=t.closeTextColor,j=t.linkTextColor,E=t.linkTextDecoration,C=t.linkVisitedTextColor,S=t.hasFsBranding,A=t.disableInstructions,I=document.createElement("div");I.style.setProperty("--_1u8b67d",g||"#40C28A"),I.style.setProperty("--_1s2p24r",p||"#000000"),I.style.setProperty("--_16xxoaz",this.pickContrastingColorValue(y||"#FFFFFF","white","black")),j&&I.style.setProperty("--q1a6v7",j),C&&I.style.setProperty("--_1bva2lo",C),E&&I.style.setProperty("--d8c6ui",E),I.classList.add("_82u8vq"),I.id="_1wcn8h3",I.dir="auto",this.oid=I.id;var q=document.createElement("div");q.classList.add("onnj2g"),y&&(q.style.backgroundColor=y),c&&(q.style.fontFamily=c),h&&(q.style.color=h);var P=this.getPixelString(x),Y=this.getPixelString(b);P&&(q.style.borderRadius=P),(w||Y)&&(q.style.borderStyle="solid"),w&&(q.style.borderColor=w),Y&&(q.style.borderWidth=Y);var T=document.createElement("header");if(v&&(T.style.color=v),m){T.style.backgroundColor=m;var O=P||"1em";T.style.borderTopLeftRadius=O,T.style.borderTopRightRadius=O}if(a){var H=document.createElement("img");H.src=a,H.alt="Logo",H.onerror=function(){this.style.display="none"},T.appendChild(H)}var U=document.createElement("h2");U.textContent=this.getLocalizedTextContent(t,"title"),T.appendChild(U);var _=document.createElement("section");_.classList.add("_1myx4a0");var R=document.createElement("p");if(R.textContent=this.getLocalizedTextContent(t,"paragraphOne"),_.appendChild(R),s&&0!==Object.keys(s).length){var F=document.createElement("p");F.textContent=this.getLocalizedTextContent(t,"paragraphTwo"),_.appendChild(F)}if(u&&0!==Object.keys(u).length){var B=document.createElement("p");B.textContent=this.getLocalizedTextContent(t,"paragraphThree"),_.appendChild(B)}var V=d&&this.getLocalizedTextContent(t,"linkText"),z=f&&this.getLocalizedTextContent(t,"linkUrl",!0);if(V&&z){var G=document.createElement("div");G.style.margin="0 0 1em";var N=document.createElement("a");N.classList.add("_1ajq4u1"),j&&N.classList.add("q1a6v7"),C&&N.classList.add("_1bva2lo"),E&&N.classList.add("d8c6ui"),N.textContent=V,N.href=z,N.target="_blank",G.appendChild(N),_.appendChild(G)}var Q=document.createElement("button");if(Q.classList.add("_16i61up"),Q.tabIndex=0,Q.textContent=this.getLocalizedTextContent(t,"buttonText"),g&&(Q.style.backgroundColor=g),p&&(Q.style.color=p),Q.onclick=function(){document.querySelector("section._1myx4a0").classList.add("_18mgeh5"),document.querySelector("section.mjmqhi").classList.remove("_18mgeh5")},_.appendChild(Q),r){var D=function(){I.remove(),e.reviveScroll(),o||i?(sessionStorage.removeItem("fs.adb".concat(n||"",".dis")),i?e.updateValues("p"):o&&e.updateValues("dt")):sessionStorage.setItem("fs.adb".concat(n||"",".dis"),"1")},M=document.createElement("span");if(M.classList.add("_18hdrla"),M.innerHTML="&times;",M.tabIndex=0,k&&(M.style.color=k),M.addEventListener("click",D),T.appendChild(M),l&&0!==Object.keys(l).length){var W=document.createElement("div");W.classList.add("qcqk63");var J=document.createElement("p");J.classList.add("_1jy32sx"),J.textContent=this.getLocalizedTextContent(t,"closeText"),L&&(J.style.color=L),J.addEventListener("click",D),W.appendChild(J),_.appendChild(W)}}var Z=document.createElement("section");Z.classList.add("mjmqhi","_18mgeh5");var X=document.createElement("h4");X.classList.add("vza2sa"),X.textContent=this.getLocalizedTextContent(t,"instructionsTitle");var K=document.createElement("div");K.classList.add("_1n8syyr");var $=document.createElement("ul");$.classList.add("_12y6q83");var tt=document.createElement("div");tt.classList.add("_10v9zkx"),A.forEach((function(t,n){var r=document.createElement("li");r.onclick=function(){return function(t){for(var e=document.querySelectorAll("._12y6q83 > li"),n=document.getElementsByClassName("_1dz8w0r"),r=0;r<n.length;r++)e[r].classList.remove("_2tqkhw"),n[r].classList.remove("_2tqkhw");e[t].classList.add("_2tqkhw"),n[t].classList.add("_2tqkhw")}(n)},r.textContent=e.getLocalizedTextContent(t,"name",!0),$.appendChild(r);var o=document.createElement("ol");o.classList.add("_1dz8w0r"),0===n&&(r.classList.add("_2tqkhw"),o.classList.add("_2tqkhw")),e.getLocalizedTextContent(t,"steps").forEach((function(t){var e=document.createElement("li");e.textContent=t,o.appendChild(e)})),tt.appendChild(o)}));var et=this.getLocalizedTextContent(t,"disclaimerText"),nt=document.createElement("p");nt.textContent=et,tt.appendChild(nt),K.appendChild($),K.appendChild(tt);var rt=document.createElement("button");if(rt.classList.add("_16i61up","te00wf"),rt.textContent=this.getLocalizedTextContent(t,"backButtonText"),g&&(rt.style.backgroundColor=g),p&&(rt.style.color=p),rt.onclick=function(){document.querySelector("section.mjmqhi").classList.add("_18mgeh5"),document.querySelector("section._1myx4a0").classList.remove("_18mgeh5")},Z.appendChild(X),Z.appendChild(K),Z.appendChild(rt),q.appendChild(T),q.appendChild(_),q.appendChild(Z),S){var ot=document.createElement("a");ot.classList.add("_1o9k1ce"),ot.href=atob("aHR0cHM6Ly9mcmVlc3Rhci5jb20vYWQtcHJvZHVjdHMvZGVza3RvcC1tb2JpbGUvZnJlZXN0YXItcmVjb3ZlcmVk"),ot.target="_blank";var it=document.createElement("img");it.alt="Logo",it.src=this.pickContrastingColorValue(y||"#FFFFFF","data:image/png;base64,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","data:image/png;base64,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"),ot.appendChild(it),q.appendChild(ot)}return I.appendChild(q),I}},{key:"getAndSetOverlay",value:(o=P(I().mark((function t(e){var n,r,o,i;return I().wrap((function(t){for(;;)switch(t.prev=t.next){case 0:if(this.post(!0,e),e.dismissDuration||e.dismissDurationPv||"1"!==sessionStorage.getItem("fs.adb".concat(e.siteId||"",".dis"))){t.next=3;break}return t.abrupt("return");case 3:if(n=localStorage.getItem("fs.adb"),r=n&&JSON.parse(n),!e.dismissDurationPv||!r.p||"number"!=typeof r.p){t.next=14;break}if(!(e.dismissDurationPv<=r.p+1)){t.next=10;break}this.clearValue("p"),t.next=12;break;case 10:return this.updateValues("p"),t.abrupt("return");case 12:t.next=15;break;case 14:this.clearValue("p");case 15:if(o=parseInt(r.dt,10),!e.dismissDuration||!o){t.next=25;break}if(!(Math.abs((Date.now()-o)/36e5)<e.dismissDuration)){t.next=22;break}return t.abrupt("return");case 22:this.clearValue("dt");case 23:t.next=26;break;case 25:this.clearValue("dt");case 26:if(document.body){t.next=29;break}return t.next=29,new Promise((function(t){return document.addEventListener("DOMContentLoaded",t)}));case 29:if(this.killScroll(e),null===document.querySelector("#".concat(this.oid))){t.next=32;break}return t.abrupt("return");case 32:i=this.generateOverlay(e),document.body.appendChild(i);case 34:case"end":return t.stop()}}),t,this)}))),function(t){return o.apply(this,arguments)})},{key:"getStatus",value:function(t,e){return!0===e?1:2===t||1===t?2:0}},{key:"getAndSetData",value:function(t){var e,n,r,o=localStorage.getItem("fs.adb"),i=o&&JSON.parse(o),a=Date.now();return i?(e=i.i,n=i.ot,r=this.getStatus(i.s,t)):(i={},e=c(),n=a,r=t?1:0),i.i=e,i.s=r,i.ot=n,i.lt=a,localStorage.setItem("fs.adb",JSON.stringify(i)),i}},{key:"updateValues",value:function(t){var e=localStorage.getItem("fs.adb"),n=e&&JSON.parse(e);"p"===t?(n.p=n.p?n.p+1:1,n.dt&&delete n.dt):"dt"===t&&(n.dt=Date.now(),n.p&&delete n.p),localStorage.setItem("fs.adb",JSON.stringify(n))}},{key:"clearValue",value:function(t){var e=localStorage.getItem("fs.adb"),n=e&&JSON.parse(e);n[t]&&(delete n[t],localStorage.setItem("fs.adb",JSON.stringify(n)))}},{key:"post",value:function(t,e){var n=atob("c2l0ZS1jb25maWcuY29t"),r=e.cDomain||n,o="https://".concat(r,"/v2/abr"),i=this.getAndSetData(t),a=e.accountId,c=e.siteId,s=navigator.userAgent||window.navigator.userAgent,u=document.referrer,l=window.location,d={accountId:a,siteId:c,userId:i.i,url:l.href,referalURL:u,userAgent:s,status:function(t){switch(t){case 0:return"not detected";case 1:return"detected";case 2:return"recovered";default:return}}(i.s),returning:i.ot!==i.lt,version:"1.3.3"};fetch(o,{method:"POST",headers:{"Content-Type":"application/json","X-Client-Geo-Location":"{client_region},{client_region_subdivision},{client_city}"},body:JSON.stringify(d)}).catch((function(){}))}},{key:"observe",value:function(){var t=this,e="";new MutationObserver((function(){location.pathname!==e&&(e=location.pathname,t.run())})).observe(document,{subtree:!0,childList:!0})}},{key:"run",value:function(){var t=this,e=this.config;setTimeout(P(I().mark((function n(){return I().wrap((function(n){for(;;)switch(n.prev=n.next){case 0:return n.next=2,C().then((function(){return S(atob("aHR0cHM6Ly9hLnB1Yi5uZXR3b3JrL2NvcmUvcHJlYmlkLXVuaXZlcnNhbC1jcmVhdGl2ZS5qcw=="))})).then((function(){return S(atob("aHR0cHM6Ly93d3cuZ29vZ2xldGFnc2VydmljZXMuY29tL3RhZy9qcy9ncHQuanM="))})).then((function(){t.post(!1,e)})).catch((function(n){n!==E&&(null==n?void 0:n.message)!==E||t.getAndSetOverlay(e)}));case 2:case"end":return n.stop()}}),n)}))),500)}}],n&&Y(e.prototype,n),r&&Y(e,r),Object.defineProperty(e,"prototype",{writable:!1}),t}();window.fsabrActive=!0,new T(window.navigator).init()})()})();</script>
+  <script data-cfasync="false" src="https://a.pub.network/smithsonianmag-com/pubfig.min.js" async type="text/javascript"></script>
+  
+    <!-- Google Tag Manager -->
+    <script>
+      // Define dataLayer and the gtag function.
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      gtag('consent', 'default', {
+        'ad_storage': 'denied',
+        'analytics_storage': 'denied',
+        'ad_personalization': 'denied',
+        'analytics_storage': 'denied',
+        'region': ['EU', 'GB']
+      });
+
+      function tagLinkEvent(name) {
+        dataLayer.push({'event': name});
+      }
+    </script>
+
+    <script type="text/javascript">
+      function OptanonWrapper() {
+        window.Optanon.OnConsentChanged(function () {
+          if (window.OptanonActiveGroups.indexOf('C0002')) {
+            gtag('consent', 'default', {
+              'ad_storage': 'granted',
+              'analytics_storage': 'granted',
+              'ad_personalization': 'granted',
+              'analytics_storage': 'granted',
+              'region': ['EU', 'GB']
+            });
+          }
+          ;
+        });
+      };
+    </script>
+
+    <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-T62VWK2');</script>
+    <!-- End Google Tag Manager -->
+  
+  
+
+  <title>An Ornate, 5,000-Year-Old Stone Drum Is the U.K.&#x27;s Most Significant Prehistoric Art Find in a Century | Smithsonian</title>
+  <meta name="keywords" content=""/>
+  <meta name="description" content="Now on view in London, the chalk sculpture was buried alongside three children between 3005 and 2890 B.C.E."/>
+  <meta name="robots" content="index, follow, max-image-preview:large, follow, archive"/>
+  <meta name="author" content="Smithsonian Magazine"/>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="unsafe-url">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Smithsonian Magazine">
+  
+  
+
+<meta name="category" content="Smart News" />
+<meta name="author" content="Jane Recker" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@SmithsonianMag" />
+<meta name="twitter:creator" content="@JaneRecker" />
+<meta name="twitter:title" content="An Ornate, 5,000-Year-Old Stone Drum Is the U.K.&#x27;s Most Significant Prehistoric Art Find in a Century" />
+<meta name="twitter:description" content="Now on view in London, the chalk sculpture was buried alongside three children between 3005 and 2890 B.C.E." />
+
+<meta name="twitter:image" content="https://th-thumbnailer.cdn-si-edu.com/RR5pkIPCMNEHl92b1EKD_93iUZw=/fit-in/1200x0/filters:focal(867x600:868x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b9/fb/b9fbd3a1-f10d-4108-bafc-6a3a80ee85d5/chalk_drum.jpg" />
+<link rel="image_src" href="https://th-thumbnailer.cdn-si-edu.com/efPzNQUP_-W9j7-4Wp5OkG1Q4t0=/fit-in/1600x0/filters:focal(867x600:868x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b9/fb/b9fbd3a1-f10d-4108-bafc-6a3a80ee85d5/chalk_drum.jpg">
+<meta name="image" property="og:image" content="https://th-thumbnailer.cdn-si-edu.com/ncUoebMFi7fT1IawSt_nDKoeF4I=/fit-in/1200x0/filters:focal(867x600:868x601)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2Fb9%2Ffb%2Fb9fbd3a1-f10d-4108-bafc-6a3a80ee85d5%2Fchalk_drum.jpg" />
+<meta property="og:image:alt" content="Archaeologists found a 5,000-year-old drum, a clay ball and a polished bone pin at a burial site in the English village of Burton Agnes.&amp;nbsp;" />
+
+<meta property="og:title" content='An Ornate, 5,000-Year-Old Stone Drum Is the U.K.&#x27;s Most Significant Prehistoric Art Find in a Century' />
+<meta property="og:url" content="https://www.smithsonianmag.com/smart-news/an-ornate-5000-year-old-stone-drum-is-the-uks-most-significant-prehistoric-art-find-in-a-century-180979604/" />
+<meta property="og:site_name" content="Smithsonian Magazine" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="Now on view in London, the chalk sculpture was buried alongside three children between 3005 and 2890 B.C.E." />
+<meta property="article:section" content="Smart News, Smart News History &amp; Archaeology" />
+<meta property="article:tag" content="Ancient Civilizations, Archaeology, Art, Artifacts, British History, children , Death, England, European History, Sculpture" />
+<meta property="fb:app_id" content="419418791549947" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": "https://www.smithsonianmag.com/smart-news/an-ornate-5000-year-old-stone-drum-is-the-uks-most-significant-prehistoric-art-find-in-a-century-180979604/",
+  "headline": "An Ornate, 5,000-Year-Old Stone Drum Is the U.K.&#x27;s Most Significant Prehistoric Art Find in a Century",
+  "description": "Now on view in London, the chalk sculpture was buried alongside three children between 3005 and 2890 B.C.E.",
+  "url": "https://www.smithsonianmag.com/smart-news/an-ornate-5000-year-old-stone-drum-is-the-uks-most-significant-prehistoric-art-find-in-a-century-180979604/",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+    ]
+  },
+  "datePublished": "2022-02-18T11:10:39-05:00",
+  "dateModified": "2022-02-18T11:10:45.319857-05:00",
+  "image": [
+    "https://th-thumbnailer.cdn-si-edu.com/wefqIgznW-gl9QJSVqR1XtisvYs=/800x800/filters:focal(867x600:868x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b9/fb/b9fbd3a1-f10d-4108-bafc-6a3a80ee85d5/chalk_drum.jpg",
+    "https://th-thumbnailer.cdn-si-edu.com/s7FyB-coszawTJnml5c_zta6lvY=/800x600/filters:focal(867x600:868x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b9/fb/b9fbd3a1-f10d-4108-bafc-6a3a80ee85d5/chalk_drum.jpg",
+    "https://th-thumbnailer.cdn-si-edu.com/kFDnEjf_nj-ydjnaYSue-3_ibu8=/800x450/filters:focal(867x600:868x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b9/fb/b9fbd3a1-f10d-4108-bafc-6a3a80ee85d5/chalk_drum.jpg"
+  ],
+  "articleSection": "Smart News",
+  "thumbnailUrl": "https://th-thumbnailer.cdn-si-edu.com/JPAGBvfAKIU5l3nnfdHOPEnn_gQ=/1072x720/filters:no_upscale():focal(867x600:868x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b9/fb/b9fbd3a1-f10d-4108-bafc-6a3a80ee85d5/chalk_drum.jpg",
+  "author": [{
+    "@type": "Person",
+    "name": "Jane Recker",
+    "url": "https://www.smithsonianmag.com/author/jane-recker/",
+    "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/accounts/headshot/jane.png"
+  }],
+  "keywords": ["Smart News", "Ancient Civilizations", "Archaeology", "Art", "Artifacts", "British History", "children ", "Death", "England", "European History", "Sculpture", "Smart News History & Archaeology"],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Smithsonian Magazine",
+    "logo": {
+      "@type":"ImageObject",
+      "url":"https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/c9/4ec98b8b-b9d1-4086-858b-84984e84d164/576x164_smithsonianmagazine_logo.png",
+      "width":576,
+      "height":164
+    }
+  }
+}
+</script>
+
+<script type="application/json">
+{
+  "articleID": "180979604",
+  "articleSource": "smithsonianmag.com",
+  "articleType": "Article",
+  "premium": "0",
+  "metered": "0",
+  "articlePage": "1"
+}
+</script>
+
+<script type="text/javascript">
+tp = window["tp"] || [];
+tp.push(["setTags", ["Ancient Civilizations", "Archaeology", "Art", "Artifacts", "British History", "children ", "Death", "England", "European History", "Sculpture"]]);
+tp.push(["setContentSection", ["Smart News", "Ancient Civilizations", "Archaeology", "Art", "Artifacts", "British History", "children ", "Death", "England", "European History", "Sculpture", "Smart News History & Archaeology"]]);
+tp.push(["setContentAuthor", "Jane Recker"]);
+tp.push(["setContentCreated", "2022-02-18T11:10:39-05:00"]);
+</script>
+
+
+
+  
+    
+      <script src="https://cdn.p-n.io/pushly-sdk.min.js?domain_key=hn5lNDNFJqLiqyK5HrYDmcyK8qRE6OSqKsZr" async></script>
+      <script>
+        window.PushlySDK = window.PushlySDK || [];
+        function pushly() { window.PushlySDK.push(arguments) }
+        pushly('load', {
+          domainKey: 'hn5lNDNFJqLiqyK5HrYDmcyK8qRE6OSqKsZr',
+        });
+      </script>
+      <script>
+        window.ENV = "production";
+        window.SENTRY_DSN = "https://4ca4f161699457c9cb249d33c630c5e6@o25938.ingest.us.sentry.io/4507623932428288";
+        window.RELEASE = "2024.12.26.4828";
+      </script>
+    
+  
+
+  <link rel="canonical" href="https://www.smithsonianmag.com/smart-news/an-ornate-5000-year-old-stone-drum-is-the-uks-most-significant-prehistoric-art-find-in-a-century-180979604/" />
+  <link rel="preconnect" href="//a.pub.network"/>
+  <link rel="dns-prefetch" href="//www.google-analytics.com"/>
+  <link rel="dns-prefetch" href="//www.googletagmanager.com"/>
+  <link rel="dns-prefetch" href="//connect.facebook.net"/>
+  <link rel="dns-prefetch" href="//ajax.googleapis.com"/>
+  <link rel="dns-prefetch" href="//fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="dns-prefetch" href="//use.fontawesome.com"/>
+  <link rel="dns-prefetch" href="//logs1.smithsonian.museum"/>
+  <link rel="dns-prefetch" href="//sb.scorecardresearch.com"/>
+  <link rel="dns-prefetch" href="//th-thumbnailer.smithsonianmag.com"/>
+  <link rel="preload" href="/static/smithsonianmag/smithsonianmag.2ac8ea967313.css" as="style" />
+  <link rel="stylesheet" type="text/css" href="/static/smithsonianmag/smithsonianmag.2ac8ea967313.css"/>
+
+  
+    <link rel="icon" href="/static/smithsonianmag/img/Smithsonianmagazine_favicon.a059ed204fde.ico" sizes="any"><!-- 32×32 -->
+    <link rel="icon" href="/static/smithsonianmag/img/Smithsonianmagazine_favicons.44e60f3d34e8.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/static/smithsonianmag/img/Smithsonianmagazine_apple_touch_icon.bcff19327dab.png">
+    <!-- 180×180 -->
+    <link rel="manifest" href="/manifest.json">
+  
+  
+  
+
+
+  <link rel="preload" href="/static/smithsonianmag/smithsonianmag.bundle.2551ece1036d.js" as="script">
+  <link rel="preload" href="/static/ads/freestar.bundle.e8c7f0074c78.js" as="script">
+
+  <script type="text/javascript" async src="/static/smithsonianmag/smithsonianmag.bundle.2551ece1036d.js"></script>
+  
+  <script src="https://kit.fontawesome.com/c31205bd70.js" crossorigin="anonymous"></script>
+  
+
+  
+    
+    <script data-cfasync="false" type="text/javascript">
+      window.freestar = window.freestar || {};
+      freestar.queue = freestar.queue || [];
+      freestar.config = freestar.config || {};
+      freestar.config.enabled_slots = [];
+      freestar.initCallback = function () {
+        (freestar.config.enabled_slots.length === 0) ? freestar.initCallbackCalled = false : freestar.newAdSlots(freestar.config.enabled_slots);
+      };
+      window.GPT = {
+        DOMAIN: 'https://www.smithsonianmag.com/',
+        SITE: 'production',
+        ACCOUNT: '/308522/smithsonianmag.tmus',
+        referrer: document.referrer ? new URL(document.referrer).hostname.replace(/^www\./, '') : '',
+        
+  path: '/308522/smithsonianmag.tmus/smart-news',
+  category: JSON.parse('["smart-news", "smartnews-history-archaeology"]'),
+  tag: JSON.parse('["ancient-civilizations", "archaeology", "art", "artifacts", "british-history", "children", "death", "england-1", "european-history", "sculpture"]'),
+  section_type: JSON.parse('[]'),
+  url: 'an-ornate-5000-year-old-stone-drum-is-the-uks-most-significant-prehistoric-art-find-in-a-century-180979604',
+  pagetype: 'article',
+  
+  special: JSON.parse('[]')
+      };
+      window.googletag = window.googletag || { cmd: [] };
+      window.showLeaderboard = !(['.bing.','.google.','yahoo.com'].some(function(p){return document.referrer.indexOf(p)>-1;}));
+      googletag.cmd.push(function() {
+        var fsMapping = googletag.sizeMapping().addSize([1072, 0], [[728, 90], [970, 90], [970, 250], [1072, 325], [1, 1] ])
+          .addSize([970, 0], [[728, 90], [970, 90], [970, 250], [1, 1] ])
+          .addSize([768, 0], [[728, 90], [1, 1] ])
+          .addSize([0, 0], [[300, 50], [320, 50], [1, 1] ])
+          .build();
+        if (showLeaderboard) {
+          googletag.defineSlot('/15184186,21714840181/smithsonianmag_leaderboard_atf', [728, 90], 'smithsonianmag_leaderboard_atf').setTargeting('pos', ['top']).defineSizeMapping(fsMapping).addService(googletag.pubads());
+        }
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices(); });
+
+      googletag.cmd.push(function () {
+        googletag.pubads().setTargeting('site', GPT.SITE || "")
+          .setTargeting('Category', GPT.category || "")
+          .setTargeting('tag', GPT.tag || "")
+          .setTargeting('type', GPT.type || "")
+          .setTargeting('special', GPT.special || "")
+          .setTargeting('url', GPT.url || "")
+          .setTargeting('pagetype', GPT.pagetype || "")
+          .setTargeting('segment', GPT.segment || "")
+          .setTargeting('post', GPT.post || "")
+          .setTargeting('section_type', GPT.section_type || "")
+          .setTargeting('referrer', GPT.referrer || "")
+      });
+      googletag.cmd.push(function() {
+        googletag.pubads().setPrivacySettings({
+          childDirectedTreatment: false
+        });
+      });
+      freestar.queue.push(function() {
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getAdUnitPath() === '/15184186,21714840181/smithsonianmag_adhesion' && event.campaignId === 3571320465) {
+            setTimeout(function() {
+              freestar.refresh('smithsonianmag_adhesion');
+            }, 30000);
+          }
+        });
+      });
+      freestar.config.targeting = [
+        //{
+        //  "smithsonianmag_leaderboard_atf": {
+        //    "pos": "top"
+        //  }
+        //},
+        {
+          "smithsonianmag_leaderboard_btf": {
+            "pos": "middle"
+          }
+        },
+        {
+          "smithsonianmag_rail_right_1": {
+            "pos": "top"
+          }
+        },
+        {
+          "smithsonianmag_rail_right_2": {
+            "pos": "bottom"
+          }
+        }
+      ];
+    </script>
+    <script type="text/javascript" data-cfasync="false" src="/static/ads/freestar.bundle.e8c7f0074c78.js"></script>
+    
+  
+
+  
+<!-- BEGIN Silverpop -->
+<script
+  src="https://www.sc.pages03.net/lp/static/js/iMAWebCookie.js?1d10bc16-14374088980-b9e6bcd68d4fb511170ab3fcff55179d&h=www.pages03.net"
+  type="text/javascript"></script>
+<meta name="com.silverpop.brandeddomains"
+      content="www.pages03.net,airspacemag.com,si.mkt6346.com,smithsonian.com,smithsonianmag.com"/>
+
+<meta property="fb:pages" content="47619793252"/>
+<meta name="p:domain_verify" content="1cb4877f178228486592ed27f73e9fd1"/>
+
+<!-- OpenSearch -->
+<link rel="search" type="application/opensearchdescription+xml" title="Smithsonian"
+      href="/static/smithsonianmag/xml/opensearch/smith_opensearch.7184bcff4c41.xml">
+
+
+</head>
+<body class="">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe
+    src="https://www.googletagmanager.com/ns.html?id=GTM-T62VWK2"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+  
+  <div class="advertisement fullwidth adtop" id="leaderboardAd">
+    <!-- BEGIN Freestar: Tag ID - smithsonianmag_leaderboard_atf -->
+    <div data-freestar-ad="__320x50 __1072x325" id="smithsonianmag_leaderboard_atf">
+      <script type="text/javascript">
+        if (showLeaderboard) {
+          googletag.cmd.push(function() {
+            googletag.display('smithsonianmag_leaderboard_atf');
+          });
+        } else {
+          document.currentScript.parentElement.parentElement.remove();
+        }
+      </script>
+    </div>
+    <!-- END Freestar: Tag ID - smithsonianmag_leaderboard_atf -->
+    
+  </div>
+  
+
+
+<header class="main">
+  <div class="headerBar">
+    <div class="headerBaritem">
+      <button class="hamburger" type="button" aria-label="Sections" aria-haspopup="menu">
+        <div id="mobileIcon" class="hamMenu">
+          <div id="mobile-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <p>Sections</p>
+          </div>
+        </div>
+      </button>
+      <div class="searchIcon">
+        <a href="/search/"><i class="fas fa-search" title="Search"></i></a>
+      </div>
+    </div>
+    <div class="headerBaritem logo">
+      <a href="/"><img src="/static/smithsonianmag/img/smithsonian_magazine_logo_white.5b455067a001.svg" alt="Smithsonian Magazine white logo" width="135" height="38"/></a>
+    </div>
+    <div class="headerBaritem">
+      <button class="subscribe-btn-alternate" tabindex="-1"><a href="https://subscribe.smithsonianmag.com/?idx=582&amp;inetz=sticky_menu&amp;promo_name=current-issue&amp;promo_position=top-nav&amp;promo_creative=button&amp;promo_id=subscribe" id="sticky-subscribe-nav-link">Subscribe</a></button>
+      <button class="gift-btn" tabindex="-1"><a href="https://subscribe.smithsonianmag.com/gift?idx=579&amp;inetz=sticky_menu&amp;promo_name=current-issue&amp;promo_position=top-nav&amp;promo_creative=button&amp;promo_id=gift" id="sticky-gift-nav-link">Give a Gift</a></button>
+      <button class="renew-btn-alternate" tabindex="-1"><a href="https://ssl.drgnetwork.com/flex/SMT/SMRENEWAL/" id="sticky-renew-nav-link">Renew</a></button>
+      <button class="shop-btn" tabindex="-1"><a href="https://www.smithsonianstore.com/?code=SEMAG&utm_source=Smithsonianmag.com&utm_medium=shoplink&utm_campaign=hol2016" target="_blank">Shop</a></button>
+      
+      
+    </div>
+  </div>
+  
+  <div class="navigation" id="sideNav" role="navigation">
+    <nav>
+      <div class="circulation">
+        <div class="navWrap search-wrapper">
+          <form class="search-form" action="/search/">
+            <input placeholder="Search..." type="text" name="q">
+            <button type="submit"><i class="fas fa-search" title="Submit Search"></i></button>
+          </form>
+        </div>
+        <div class="navWrap">
+          <button class="subscribe-btn-alternate" tabindex="-1"><a href="https://subscribe.smithsonianmag.com/?idx=582&amp;inetz=side_menu&amp;promo_name=current-issue&amp;promo_position=left_nav&amp;promo_creative=button&amp;promo_id=subscribe" id="mobile-subscribe-side-menu">Subscribe</a></button>
+          <button class="gift-btn" tabindex="-1"><a href="https://subscribe.smithsonianmag.com/gift?idx=579&amp;inetz=side_menu&amp;promo_name=current-issue&amp;promo_position=left_nav&amp;promo_creative=button&amp;promo_id=gift" id="mobile-side-nav-gift">Give a Gift</a></button>
+          <button class="renew-btn-alternate" tabindex="-1"><a href="https://ssl.drgnetwork.com/flex/SMT/SMRENEWAL/" id="mobile-side-nav-renew">Renew</a></button>
+        </div>
+      </div>
+
+      <div class="navWrap menu">
+        
+          
+
+
+  
+    <ul><li>
+  
+      <a href="/category/smart-news/" class="smart-news" >Smart News</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="/category/smartnews-history-archaeology/" class="smart-news-history" >History</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/smartnews-science/" class="smartnews-science" >Science</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/smartnews-ideas-innovations/" class="smartnews-innovation" >Innovation</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/smartnews-arts-culture/" class="smartnews-arts-culture" >Arts &amp; Culture</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/smartnews-travel/" class="smartnews-travel" >Travel</a>
+
+  
+  </li></ul>
+  
+
+  
+    </li><li>
+  
+      <a href="/category/history/" class="history" >History</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="/category/archaeology/" class="archaeology" >Archaeology</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/us-history/" class="us-history" >U.S. History</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/world-history/" class="world-history" >World History</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/videos/category/history/" class="history-video" >Video</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianmag.com/acoustic/add/" class="history-newsletter"  target="blank" >Newsletter</a>
+
+  
+  </li></ul>
+  
+
+  
+    </li><li>
+  
+      <a href="/category/science-nature/" class="science-nature" >Science</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="/category/human-behavior/" class="human-behavior" >Human Behavior</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/mind-body/" class="mind-body" >Mind &amp; Body</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/our-planet/" class="our-planet" >Our Planet</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/space/" class="space" >Space</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/wildlife/" class="wildlife" >Wildlife</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianmag.com/acoustic/add/" class="science-newsletter"  target="blank" >Newsletter</a>
+
+  
+  </li></ul>
+  
+
+  
+    </li><li>
+  
+      <a href="/category/innovation/" class="innovation" >Innovation</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="https://www.smithsonianmag.com/innovation/innovation-good-180977795/" class="innovation-for-good" >Innovation for Good</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/education/" class="education" >Education</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/energy/" class="energy" >Energy</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/health-medicine/" class="health-medicine" >Health &amp; Medicine</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/innovation/our-sustainable-future-180979462/" class="sustainability-hub" >Sustainability</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/technology/" class="technology" >Technology</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/videos/category/ingenuity/" class="ingenuity-video" >Video</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianmag.com/acoustic/add/" class="ingenuity-newsletter"  target="blank" >Newsletter</a>
+
+  
+  </li></ul>
+  
+
+  
+    </li><li>
+  
+      <a href="/category/arts-culture/" class="arts-culture" >Arts &amp; Culture</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="https://www.smithsonianmag.com/museumday/" class="museum-day" >Museum Day</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/art-artists/" class="art" >Art</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/books-2/" class="books" >Books</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/design/" class="design" >Design</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/food/" class="food" >Food</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/music-film/" class="music-film" >Music &amp; Film</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/videos/category/arts-culture/" class="arts-culture-video" >Video</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianmag.com/acoustic/add/" class="arts-culture-newsletter"  target="blank" >Newsletter</a>
+
+  
+  </li></ul>
+  
+
+  
+    </li><li>
+  
+      <a href="/category/travel/" class="travel" >Travel</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="/category/africa-middleeast/" class="africa-the-middle-east" >Africa &amp; the Middle East</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/asia-pacific/" class="asia-pacific" >Asia Pacific</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/europe/" class="europe" >Europe</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/central-south-america/" class="central-and-south-america" >Central and South America</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/us-canada/" class="us-canada" >U.S. &amp; Canada</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianjourneys.org/?src=sjmod-t-h&amp;utm_source=smithsonianmag&amp;utm_medium=referral&amp;utm_campaign=topnav/" class="journeys"  target="blank" >Journeys</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianmag.com/acoustic/add/" class="travel-newsletter"  target="blank" >Newsletter</a>
+
+  
+  </li></ul>
+  
+
+  
+    </li><li>
+  
+      <a href="/category/smithsonian-institution/" class="smithsonian-institution" >At The Smithsonian</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="https://www.si.edu/Visit" class="visit"  target="blank" >Visit</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/events-exhibitions/" class="exhibitions" >Exhibitions</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/new-research/" class="new-research" >New Research</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/objects/" class="artifacts" >Artifacts</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/curators-corner/" class="curators-corner" >Curators&#x27; Corner</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/ask-smithsonian/" class="ask-smithsonian" >Ask Smithsonian</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/smithsonian-institution/sidedoor-smithsonian-podcast-180961115/" class="podcasts" >Podcasts</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianmag.com/blogs/" class="voices" >Voices</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianmag.com/acoustic/add/" class="ats-newsletter"  target="blank" >Newsletter</a>
+
+  
+  </li></ul>
+  
+
+  
+    </li><li>
+  
+      <a href="/podcast/" class="podcast" >Podcast</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://photocontest.smithsonianmag.com/photocontest/" class="photos" >Photos</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="https://photocontest.smithsonianmag.com/photocontest/" class="photo-contest" >Photo Contest</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.instagram.com/smithsonianmagazine" class="instagram"  target="blank" >Instagram</a>
+
+  
+  </li></ul>
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianmag.com/video/" class="video" >Video</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="/videos/category/original-series/" class="original-series" >Original Series</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/videos/category/smithsonian-channel/" class="smithsonian-channel" >Smithsonian Channel</a>
+
+  
+  </li></ul>
+  
+  </li></ul>
+  
+
+
+        
+      </div>
+
+      <div class="secondary">
+        <div class="navWrap menu">
+          
+            
+
+
+  
+    <ul><li>
+  
+      <a href="https://www.smithsonianmag.com/acoustic/add/" class="newsletters"  target="blank" >Newsletters</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianstore.com/home.do?code=N2IBSMAD&amp;utm_source=Smithsonianmag.com&amp;utm_medium=shoplink&amp;utm_campaign=hol2016" class="shop"  target="blank" >Shop</a>
+
+  
+  </li></ul>
+  
+
+
+          
+        </div>
+      </div>
+      <i class="fas fa-xmark"></i>
+    </nav>
+  </div>
+</header>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+  
+
+
+  
+
+  <article class="main-content article smart-news">
+    <header class="article-header">
+      <div class="category-label">
+        <hr/>
+        <h2><a
+          href="/category/smart-news/">SMART NEWS</a>
+        </h2>
+      </div>
+
+      
+
+      <h1 class="headline" itemprop="headline">An Ornate, 5,000-Year-Old Stone Drum Is the U.K.&#8217;s Most Significant Prehistoric Art Find in a Century</h1>
+      <p class="subtitle" itemprop="description">Now on view in London, the chalk sculpture was buried alongside three children between 3005 and 2890 B.C.E.</p>
+
+      
+        <div class="article-line">
+          
+
+<section class="author-box by-line single-author">
+  
+    
+      
+        <div class="author-headshot smart-news">
+          <img src="https://th-thumbnailer.cdn-si-edu.com/NQiQ73BlMZNkmF4eMdTXSgtqph0=/fit-in/160x80/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/accounts/headshot/jane.png" alt="Jane Recker" class="headshot" />
+        </div>
+      
+    
+  
+  <div class="author-text">
+  
+    
+      
+        <p class="author" itemprop="author">
+        
+        
+          <a href='/author/jane-recker/'>Jane Recker</a>
+        
+        </p>
+      
+      
+    
+
+    
+      
+        <p class="author-short-bio">Daily Correspondent</p>
+      
+    
+    
+      <time class="pub-date" itemprop="datePublished" data-pubdate="Feb. 18, 2022, 11:10 a.m.">February 18, 2022</time>
+    
+  
+  </div>
+  <hr />
+</section>
+
+        </div>
+      
+    </header>
+
+    <div class="article-columns">
+      <div class="articleLeft" data-article-body>
+        
+          <figure class="article-image lead-article-image">
+            <img src="https://th-thumbnailer.cdn-si-edu.com/LULRnhcrxB9UujK4UVR46VCPrYQ=/1000x750/filters:no_upscale():focal(867x600:868x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b9/fb/b9fbd3a1-f10d-4108-bafc-6a3a80ee85d5/chalk_drum.jpg"
+                 alt="stone drum with carvings, bone pin and smooth clay ball"
+                 itemprop="image"/>
+            <figcaption class="caption">
+              
+                Archaeologists found a 5,000-year-old drum, a clay ball and a polished bone pin at a burial site in the English village of Burton Agnes.&nbsp;
+              <span class="credit">© The Trustees of the British Museum</span>
+            </figcaption>
+          </figure>
+        
+
+        <div class="social"
+          data-features="32px,circle,opacity,icon-white,pad"
+          data-sites="facebook,twitter,linkedin,reddit,whatsapp,pocket,print,email"
+          data-meta-instagram="https://instagram.com/smithsonianmagazine"
+          data-meta-link="https://www.smithsonianmag.com/smart-news/an-ornate-5000-year-old-stone-drum-is-the-uks-most-significant-prehistoric-art-find-in-a-century-180979604/"
+          data-meta-title="An Ornate, 5,000-Year-Old Stone Drum Is the U.K.&#x27;s Most Significant Prehistoric Art Find in a Century"
+          data-meta-twitterusername="@smithsonianmag">
+        </div>
+
+        <p>A 5,000-year-old chalk sculpture discovered in East Yorkshire, England, is “the most important piece of prehistoric art” unearthed in Great Britain in the past century, says <a href="https://twitter.com/nwilkinbm?lang=en">Neil Wilkin</a>, a curator of Early Europe at the <a href="https://www.britishmuseum.org/">British Museum</a>, in a <a href="https://artdaily.cc/news/143733/-Most-important-prehistoric-discovery-in-a-century--revealed-by-British-Museum-and-Allen-Archaeology">statement</a>. Dubbed the “<a href="https://www.yorkshirepost.co.uk/heritage-and-retro/heritage/the-incredible-story-of-how-a-young-archaeologist-found-a-neolithic-grave-3564249">Burton Agnes drum</a>” after the village where it was found in 2015, the intricately decorated artifact was buried alongside three children, reports <a href="https://www.bbc.com/news/uk-england-humber-60341377">BBC News</a>.</p>
+
+<p>Kept under wraps until recently, the sculpture is now making its public debut in “<a href="https://www.britishmuseum.org/exhibitions/world-stonehenge">The World of Stonehenge</a>,” an exhibition on view at the British Museum through July. As Grace Newton writes for the <em><a href="https://www.yorkshirepost.co.uk/heritage-and-retro/heritage/the-incredible-story-of-how-a-young-archaeologist-found-a-neolithic-grave-3564249">Yorkshire Post</a></em>, the drum is one of only four of its kind known to survive today. Rather than being used to play music, it was probably a funerary offering or protective talisman. Three “hastily added holes” in the stone cylinder may represent the trio laid to rest in the grave, according to the statement.</p>
+
+<p>“The context [of the discovery] as a whole was absolutely incredible,” says <a href="https://www.linkedin.com/in/alice-beasley-a9b3505a/?originalSubdomain=uk">Alice Beasley</a>, a senior archaeologist at <a href="https://www.allenarchaeology.co.uk/">Allen Archaeology</a>, which oversaw the 2015 dig, to Carol Off of CBC Radio’s “<a href="https://www.cbc.ca/radio/asithappens/as-it-happens-the-monday-edition-1.6350961/archeologist-unearths-stonehenge-era-burial-site-in-absolutely-incredible-discovery-1.6351566">As It Happens</a>.” “It was found … in the center of what we call a round barrow. And in that center was a square pit, in which we found three skeletons of quite young children. The eldest was about 12 and was holding on to the two smaller children, [aged] about 3 and 5.”</p>
+
+<figure class="article-image ">
+  
+    <img src="https://th-thumbnailer.cdn-si-edu.com/f7OsifhvnF4rIxJq3QPeBaDzufU=/fit-in/1072x0/filters:focal(2160x2880:2161x2881)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/79/56/79569a6f-94ae-4801-bd13-fd34cab14d9f/09.jpg" alt="skeletal remains of children embracing each other" loading="lazy" />
+  
+
+  <figcaption class="caption">
+    
+      Next to the drum, scientists found the remains of three children embracing each other at the Burton Agnes site.&nbsp;
+    
+    
+      <span class="credit">Allen Archaeology</span>
+    
+  </figcaption>
+</figure>
+<p>Mark Allen, founder of Allen Archaeology, tells the <em><a href="https://www.washingtonpost.com/world/2022/02/12/chalk-drum-stonehenge-british-museum/">Washington Post</a></em>’s William Booth that the children, who appear to have died at the same time but exhibit no obvious signs of trauma, were essentially cuddling.</p>
+
+<p>“It was quite a poignant thing to see,” he adds.</p>
+
+<p>In addition to the drum, the team found a clay ball believed to be a child’s toy and a long bone pin that may have once kept a burial shroud in place, the <em>Post </em>reports.</p>
+
+<p><a href="https://twitter.com/JWexlerBM">Jennifer Wexler</a>, a project curator at the British Museum, tells <a href="https://www.cnn.com/style/article/drum-discovery-stone-age-archaeology-grave-scn-scli-intl/index.html">CNN</a>’s Jeevan Ravindran that the sculpture closely resembles the three <a href="https://www.britishmuseum.org/collection/object/H_1893-1228-15">Folkton drums</a>, which were found in a <a href="https://www.yas.org.uk/Sections/Prehistory-Research/Neolithic/Neolithic-Yorkshire-the-Folkton-Drums">Neolithic child’s grave</a> some 15 miles away from the Burton Agnes site in 1889.</p>
+
+<p>“This drum is particularly intriguing, because it basically encompasses a sort of artistic language that we see throughout the British Isles at this time, and we're talking 5,000 years ago,” Wexler says.</p>
+
+<p>Researchers had previously dated the Folkton drums to between 2500 and 2000 B.C.E. But carbon dating of bones found in the Burton Agnes grave indicates that the style of sculpture is even older, dating to between 3005 and 2890 B.C.E., during the first phase of <a href="https://www.english-heritage.org.uk/visit/places/stonehenge/">Stonehenge</a>’s construction.</p>
+
+<figure class="article-image ">
+  
+    <img src="https://th-thumbnailer.cdn-si-edu.com/XiWiBZFKrZQLB9zzUVS9EhEiYZw=/fit-in/1072x0/filters:focal(867x667:868x668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cf/eb/cfebd771-8447-4da3-b7c1-16ea6d8c4b4e/drum_top.jpg" alt="top view of stone drum with three holes and x symbol across the surface" loading="lazy" />
+  
+
+  <figcaption class="caption">
+    
+      Researchers noted three holes carved onto the top of the drum, likely representing the three children buried with the artifact.
+    
+    
+      <span class="credit">© The Trustees of the British Museum</span>
+    
+  </figcaption>
+</figure>
+<p>At the time of the drum’s creation, burials were rare and usually reserved for children—a fact that makes the stone sculpture, which is adorned with spirals, triangles and an hourglass-shaped “butterfly” motif seen at other Neolithic sites in Scotland and Ireland, even more unique, notes the <em>Post</em>.</p>
+
+<p>“To my mind, the Burton Agnes drum is even more intricately carved [than the Folkton ones] and reflects connections between communities in Yorkshire, Stonehenge, Orkney and Ireland,” says Wilkin in the statement. “Analysis of its carvings will help to decipher the symbolism and beliefs of the era in which Stonehenge was constructed.”</p>
+
+<p>The United Kingdom’s first major exhibition on Stonehenge, the British Museum show features 430 objects, many of which are on loan from institutions across Europe. According to a separate <a href="https://www.britishmuseum.org/sites/default/files/2021-12/First_time_loan_of_Stonehenge_of_the_Sea_among_430_objects_in_British_Museum_landmark_exhibition.pdf">statement</a>, highlights include the <a href="https://www.smithsonianmag.com/smart-news/ancient-map-cosmos-younger-previously-assumed-180975829/">Nebra Sky Disc</a> (an ancient map of the cosmos) and a 4,000-year-old timber circle known as <a href="https://www.explorenorfolkuk.co.uk/seahenge.html">Seahenge</a> or “Stonehenge of the Sea.” Exposed by shifting sands on a Norfolk beach in 1998, Seahenge consists of 54 wooden posts encircling a tree stump.</p>
+
+<p><em>“<a href="https://www.britishmuseum.org/exhibitions/world-stonehenge">The World of Stonehenge</a>” is on view at the British Museum in London through July 17, 2022.</em></p>
+
+        
+
+        <div class="widget-article-pixel">
+          
+        </div>
+
+        
+          
+  <div class="in-article-newsletter">
+    <div class="leade">
+      <p>Get the latest stories in your inbox every weekday.</p>
+      <form method="post" action="/acoustic/add_daily/">
+        <input type="email" name="email" placeholder="Email Address" required="" id="id_email">
+        <input type="submit" value="Sign Up" name="submit" />
+        <input type="hidden" name="daily_opt_source" id="id_daily_opt_source" value="In-Article Signup">
+      </form>
+    </div>
+  </div>
+
+
+        
+
+        
+
+        
+          
+
+
+  
+    
+      <section class="author-box by-line single-author footer-author-box">
+        
+          <div class="author-headshot smart-news">
+            <img src="https://th-thumbnailer.cdn-si-edu.com/mmdv1nd9J2lE6kr2jnBTDcJKwTg=/fit-in/200x200/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/accounts/headshot/jane.png" alt="Jane Recker" class="headshot" />
+          </div>
+        
+          <div class="author-text">
+            <p class="author" itemprop="author">
+              <span class="author-name">Jane Recker</span>
+               <span class="separator">|</span>
+                <a href="https://twitter.com/JaneRecker"><i class="fab fa-x-twitter"></i></a>
+                
+                
+                
+              
+              <span class="separator">|</span> <a href="/author/jane-recker/" title="Read more from this author"><span class="author-smaller">READ MORE</span></a>
+            </p>
+            <p class="author-bio-text">Jane Recker has written for&nbsp;<em>Washingtonian Magazine</em>&nbsp;and the <em>Chicago Sun-Times</em>. She is a graduate of Northwestern University and holds degrees in journalism and opera.&nbsp;</p>
+          </div>
+      </section>
+    
+  
+
+  
+
+
+        
+
+        
+        <script type="text/javascript" id="dianomi_context_script" src="https://www.dianomi.com/js/contextfeed.js"></script>
+        <div class="dianomi_context" data-dianomi-context-id="2050"></div>
+        
+
+        
+          
+            <section class="tag-list">
+              <nav class="nav-tags">Filed Under:
+                
+                  
+                    <a href="/tag/ancient-civilizations/">Ancient Civilizations</a>, 
+                  
+                
+                  
+                    <a href="/tag/archaeology/">Archaeology</a>, 
+                  
+                
+                  
+                    <a href="/tag/art/">Art</a>, 
+                  
+                
+                  
+                    <a href="/tag/artifacts/">Artifacts</a>, 
+                  
+                
+                  
+                    <a href="/tag/british-history/">British History</a>, 
+                  
+                
+                  
+                    <a href="/tag/children/">children </a>, 
+                  
+                
+                  
+                    <a href="/tag/death/">Death</a>, 
+                  
+                
+                  
+                    <a href="/tag/england-1/">England</a>, 
+                  
+                
+                  
+                    <a href="/tag/european-history/">European History</a>, 
+                  
+                
+                  
+                    <a href="/tag/sculpture/">Sculpture</a>
+                  
+                
+              </nav>
+            </section>
+          
+        
+
+      </div>
+
+      <div class="articleRight">
+
+        <aside>
+          <!-- BEGIN Freestar: Tag ID - smithsonianmag_rail_right_1 -->
+<div align="center" data-freestar-ad="__300x600" id="smithsonianmag_rail_right_1" class="">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "smithsonianmag_rail_right_1", slotId: "smithsonianmag_rail_right_1" });
+  </script>
+</div>
+<!-- END Freestar: Tag ID - smithsonianmag_rail_right_1 -->
+
+
+          
+
+
+
+  <div class="widget-heading">Most Popular</div>
+  <div id="id_most_popular" class="widget-most-popular">
+    <ol>
+      
+        <li>
+          <div class="containment">
+            <div class="thumb"><img src="https://th-thumbnailer.cdn-si-edu.com/kATOr1veWr6tnAon6fPFzW14k8Y=/100x100/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b5/e5/b5e58418-861a-4853-9370-75e361fc475e/8167845201_6e286f18db_k.jpg" alt="On This Day in 1951, Four Illuminated Lightbulbs in Idaho Were Evidence of the First Time a Nuclear Power Plant Generated Electricity icon" /></div>
+            <div class="headline"><a href="/smart-news/on-this-day-in-1951-four-illuminated-lightbulbs-in-idaho-were-evidence-of-the-first-time-a-nuclear-power-plant-generated-electricity-180985710/">On This Day in 1951, Four Illuminated Lightbulbs in Idaho Were Evidence of the First Time a Nuclear Power Plant Generated Electricity</a></div>
+          </div>
+        </li>
+      
+        <li>
+          <div class="containment">
+            <div class="thumb"><img src="https://th-thumbnailer.cdn-si-edu.com/_-BfYO2DvWA2cjgpCTTCuLtaeSA=/100x100/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d0/1c/d01c0be9-ca4d-47ff-85c8-a57c65abbbde/6636691469_a178b8d85f_b.jpg" alt="How to Watch the Quadrantid Meteor Shower, an Intense Spectacle With a Short but Strong Peak icon" /></div>
+            <div class="headline"><a href="/smart-news/how-to-watch-the-quadrantid-meteor-shower-an-intense-spectacle-with-a-short-but-strong-peak-180985743/">How to Watch the Quadrantid Meteor Shower, an Intense Spectacle With a Short but Strong Peak</a></div>
+          </div>
+        </li>
+      
+        <li>
+          <div class="containment">
+            <div class="thumb"><img src="https://th-thumbnailer.cdn-si-edu.com/D6Tjkz0NcYDVlL3iy8gq5v6cIJ4=/100x100/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/89/ed/89ed5f45-c9be-422a-8388-b2b158b32245/publicdomain2025.jpg" alt="Happy Public Domain Day! Popeye, &#x27;Rhapsody in Blue,&#x27; &#x27;The Sound and the Fury&#x27; and Thousands of Other Captivating Creations Are Finally Free for Everyone to Use icon" /></div>
+            <div class="headline"><a href="/smart-news/happy-public-domain-day-popeye-rhapsody-in-blue-the-sound-and-the-fury-and-thousands-of-other-captivating-creations-are-finally-free-for-everyone-to-use-180985744/">Happy Public Domain Day! Popeye, 'Rhapsody in Blue,' 'The Sound and the Fury' and Thousands of Other Captivating Creations Are Finally Free for Everyone to Use</a></div>
+          </div>
+        </li>
+      
+        <li>
+          <div class="containment">
+            <div class="thumb"><img src="https://th-thumbnailer.cdn-si-edu.com/-c9wpqIGkhzxDSFwyUC7L8iIpN8=/100x100/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/53/02/5302cad0-5795-408e-9499-d2dd4070341c/gettyimages-1810175209.jpg" alt="How an Experiment to Amplify Light in Hospital Operating Rooms Led to the Accidental Invention of the Snow Globe icon" /></div>
+            <div class="headline"><a href="/innovation/how-an-experiment-to-amplify-light-in-hospital-operating-rooms-led-to-the-accidental-invention-of-the-snow-globe-180985742/">How an Experiment to Amplify Light in Hospital Operating Rooms Led to the Accidental Invention of the Snow Globe</a></div>
+          </div>
+        </li>
+      
+        <li>
+          <div class="containment">
+            <div class="thumb"><img src="https://th-thumbnailer.cdn-si-edu.com/o8KTOGcD95DgTt7_Va3o23xDZYs=/100x100/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/43/77/4377c520-53f6-437d-901b-9df6d256795e/janfeb2025_a09_prologue.jpg" alt="A Brilliant Folk Musician Turned the Natural Sounds of the Blue Ridge Mountains Into Powerful Songs icon" /></div>
+            <div class="headline"><a href="/innovation/folk-musician-turned-natural-sounds-blue-ridge-mountains-into-powerful-songs-180985636/">A Brilliant Folk Musician Turned the Natural Sounds of the Blue Ridge Mountains Into Powerful Songs</a></div>
+          </div>
+        </li>
+      
+    </ol>
+  </div>
+
+
+
+          
+          
+            
+          
+
+          
+          
+            
+          
+        </aside>
+
+      </div>
+    </div>
+  </article>
+
+
+<footer>
+  <div class="footerLogo">
+    <a href="/"><img loading="lazy" src="/static/smithsonianmag/img/smithsonian_magazine_logo_black.46435ad4efd4.svg"
+                     alt="Smithsonian Magazine Logo in Black" width="120" height="33"/></a>
+  </div>
+
+  <div class="footerNav">
+    <div class="footerNavItem">
+      <p class="textlabel">Explore</p>
+      
+        
+
+
+  
+    <ul><li>
+  
+      <a href="/category/smart-news/" class="smart-news" >Smart News</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/history/" class="history" >History</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/science-nature/" class="science-nature" >Science</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/innovation/" class="innovation" >Innovation</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/arts-culture/" class="arts-culture" >Arts &amp; Culture</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/travel/" class="travel" >Travel</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/smithsonian-institution/" class="smithsonian-institution" >At The Smithsonian</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/podcast/" class="podcast" >Podcast</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://photocontest.smithsonianmag.com/photocontest/" class="photos" >Photos</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianmag.com/video/" class="video" >Video</a>
+
+  
+  </li></ul>
+  
+
+
+      
+    </div>
+    <div class="footerNavItem">
+      <p class="textlabel">Subscribe</p>
+      <ul>
+        <li><a href="https://subscribe.smithsonianmag.com/?idx=582&amp;inetz=footer&amp;promo_name=current-issue&amp;promo_position=footer&amp;promo_creative=link&amp;promo_id=subscribe" id="www-footer-nav">Subscribe</a></li>
+        <li><a href="https://subscribe.smithsonianmag.com/gift?idx=579&amp;inetz=footer&amp;promo_name=current-issue&amp;promo_position=footer&amp;promo_creative=link&amp;promo_id=gift" id="fixed-footer-gift">Give a gift</a></li>
+        <li><a href="https://ssl.drgnetwork.com/flex/SMT/SMRENEWAL/" id="fixed-footer-renew">Renew</a></li>
+        <li><a href="https://ssl.drgnetwork.com/SMT/cs/gidSMALL/login" target="_blank" id="fixed-footer-manage-account">Manage My Account</a></li>
+      </ul>
+
+      <p class="textlabel spacing">Newsletters</p>
+      <ul>
+        <li><a href="/newsletters/">Sign Up</a></li>
+      </ul>
+      <p class="textlabel spacing"><a href="/licensing/">Content Licensing</a></p>
+    </div>
+    <div class="footerNavItem">
+      <p class="textlabel">Our Partners</p>
+      
+        
+
+
+  
+    <ul><li>
+  
+      <a href="https://www.si.edu/?utm_source=Smithsonianmag.com&amp;utm_medium=globalfooter&amp;utm_campaign=referlink" class="smithsonian-institution-2"  target="blank" >Smithsonian Institution</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonian.com/?utm_source=Smithsonianmag.com&amp;utm_medium=globalfooter&amp;utm_campaign=referlink" class="smithsoniancom"  target="blank" >Smithsonian.com</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianstore.com/" class="smithsonian-store"  target="blank" >Smithsonian Store</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianjourneys.org/catalog/?src=sjmod-new-hp&amp;utm_source=smithsonianmag.com&amp;utm_medium=module&amp;utm_campaign=sjmod-new-hp&amp;utm_content=footer" class="smithsonian-journeys"  target="blank" >Smithsonian Journeys</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianchannel.com/?utm_source=Smithsonianmag.com&amp;utm_medium=globalfooter&amp;utm_campaign=referlink" class="smithsonian-channel2"  target="blank" >Smithsonian Channel</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianbooks.com/?utm_source=Smithsonianmag.com&amp;utm_medium=globalfooter&amp;utm_campaign=referlink" class="smithsonian-books"  target="blank" >Smithsonian Books</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.si.edu/support" class="smithsonian-membership"  target="blank" >Smithsonian Membership</a>
+
+  
+  </li></ul>
+  
+
+
+      
+    </div>
+    <div class="footerNavItem">
+      <p class="textlabel">Terms of Use</p>
+
+      
+        
+
+
+  
+    <ul><li>
+  
+      <a href="/about/" class="about-smithsonian" >About Smithsonian</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/contact/" class="contact-us" >Contact Us</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/mediakit/" class="advertising" >Advertising</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianmag.com/rss/" class="rss" >RSS</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/member-services/" class="member-services" >Member Services</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/sustainability/" class="sustainability" >Sustainability</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.si.edu/termsofuse" class="terms-of-use"  target="blank" >Terms of Use</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/privacy/" class="privacy-statement-1" >Privacy Statement</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/privacy/cookie-policy/" class="cookie-policy" >Cookie Policy</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/privacy/ad-choices/" class="advertising-notice" >Advertising Notice</a>
+
+  
+  </li></ul>
+  
+
+
+      
+    </div>
+  </div>
+  <div class="footerLinks">
+    
+      
+
+<p>
+
+  
+        <p>
+        <span>&copy; 2024 Smithsonian Magazine</span>
+  
+          <span><a class="privacy-statement" href="/privacy/">Privacy Statement</a></span>
+
+  
+
+  
+  
+          <span><a class="cookie-policy-2" href="/privacy/cookie-policy/">Cookie Policy</a></span>
+
+  
+
+  
+  
+          <span><a class="terms-of-use-2" href="https://www.si.edu/termsofuse" target="blank">Terms of Use</a></span>
+
+  
+
+  
+  
+          <span><a class="advertising-notice-2" href="/privacy/ad-choices/">Advertising Notice</a></span>
+
+  
+
+  
+  
+          <span><a class="your-privacy-rights" href="/privacy/manage-my-data/">Your Privacy Rights</a></span>
+
+  
+    <span><a id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Settings</a></span>
+  </p>
+  
+
+
+    
+  </div>
+</footer>
+
+
+
+
+
+  <script src="/static/smithsonianmag/js/embedly-youtube.d23870c306a5.js"></script>
+  <script src="/static/smithsonianmag/js/social.094d3cf0113b.js"></script>
+  <script>
+    (function(){
+      socializer( '.social' );
+    }());
+</script>
+
+
+
+
+
+  
+    <!-- BEGIN Freestar: Tag ID - smithsonianmag_1x1_bouncex -->
+<div align="center" data-freestar-ad="__1x1" id="smithsonianmag_1x1_bouncex" class="">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "smithsonianmag_1x1_bouncex", slotId: "smithsonianmag_1x1_bouncex" });
+  </script>
+</div>
+<!-- END Freestar: Tag ID - smithsonianmag_1x1_bouncex -->
+
+  
+
+
+
+<script>
+// =============================
+// Updated sticky leaderboard ad
+// =============================
+document.addEventListener('DOMContentLoaded', () => {
+    const header = document.querySelector('header');
+    const leaderboardAd = document.querySelector('#leaderboardAd');
+    const cmsToolbar = document.querySelector('.cms-toolbar');
+
+    // CMS toolbar adjustments
+    if (cmsToolbar != null) {
+      document.querySelector('html').style.marginTop = 0;
+      document.querySelector('html').classList.remove('cms-toolbar-expanded');
+      cmsToolbar.style.backgroundColor = 'rgba(255,255,255,0.8)';
+    }
+
+    // Only adjust spacing if leaderboard ad exists on the page
+    if (leaderboardAd != null) {
+      // Default spacing pre-ad load, adjusted for mobile
+      if (window.innerWidth <= 782) {
+          header.style.top = '70px';
+          header.nextElementSibling.style.marginTop = 65 + 'px';
+      } else if (window.innerWidth <= 969) {
+          header.style.top = '110px';
+          header.nextElementSibling.style.marginTop = 105 + 'px';
+      } else {
+          header.style.top = '250px';
+          header.nextElementSibling.style.marginTop = 245 + 'px';
+      }
+
+      // Reset spacing based on loaded leaderboard ad height
+      setTimeout(function () {
+        if (cmsToolbar != null) {
+          leaderboardAd.style.top = cmsToolbar.offsetHeight + 'px';
+          header.style.top = cmsToolbar.offsetHeight + leaderboardAd.offsetHeight + 'px';
+          header.nextElementSibling.style.marginTop = cmsToolbar.offsetHeight + leaderboardAd.offsetHeight + 'px';
+        } else {
+          header.style.top = leaderboardAd.offsetHeight + 'px';
+          header.nextElementSibling.style.marginTop = leaderboardAd.offsetHeight + 'px';
+        }
+      }, 3000);
+
+      // Sticky ad for 5 seconds
+      setTimeout(function () {
+          const scrolledDistance = window.pageYOffset;
+          let prevScrollPos = 0;
+
+          const handleScroll = function () {
+              if (this.window.pageYOffset > scrolledDistance) {
+                  const leaderboardAdRect = leaderboardAd.getBoundingClientRect();
+                  const leaderboardAdVisibleHeight =
+                      Math.min(leaderboardAdRect.bottom, window.innerHeight) -
+                      Math.max(leaderboardAdRect.top, 0);
+                  let count = 0;
+
+                  // Manage spacing if leaderboard ad is visible on the screen while scrolling
+                  if (
+                      (leaderboardAdRect.top >= 0 &&
+                          leaderboardAdRect.top <= window.innerHeight) ||
+                      (leaderboardAdRect.bottom >= -2 &&
+                          leaderboardAdRect.bottom <= window.innerHeight &&
+                          count === 0)
+                  ) {
+                      header.style.top = leaderboardAdRect.bottom - 2 + 'px';
+                      leaderboardAd.style.top =
+                          '-' +
+                          (this.window.pageYOffset - scrolledDistance - 8) +
+                          'px';
+                      count++;
+                  } else {
+                      leaderboardAd.style.position = 'relative';
+                      leaderboardAd.style.top = 0;
+                      header.style.top = 0;
+                      header.nextElementSibling.style.marginTop = 0;
+
+                      // Remove additional padding for article special
+                      if (document.querySelector('.main-content.article header') != null) {
+                        document.querySelector('.main-content.article header').style.paddingTop = 0;
+                      }
+
+                      window.removeEventListener('scroll', handleScroll); // Remove event listener
+                  }
+              }
+          };
+
+          window.addEventListener('scroll', handleScroll);
+      }, 5000);
+    } else {
+      if (cmsToolbar != null) {
+        header.style.top = cmsToolbar.offsetHeight + 'px';
+        header.nextElementSibling.style.marginTop = cmsToolbar.offsetHeight + header.offsetHeight + 'px';
+      } else {
+        header.style.top = 0;
+        header.nextElementSibling.style.marginTop = header.offsetHeight + 'px';
+      }
+    }
+});
+
+// ==========================
+// Close side menu on X click
+// ==========================
+document.querySelector('.fa-xmark').addEventListener('click', function() {
+  document.getElementById('sideNav').classList.remove('open');
+});
+</script>
+
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8fae2addee659bff',t:'MTczNTY4ODk4MC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

@@ -1,0 +1,688 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Destruction of Jericho I
+
+Basic location of event: Jordan
+
+Specific data/information/context related to event: The Walls of Jericho: An Alternative Interpretation
+Citation
+Bar-Yosef, O. 1986. The Walls of Jericho: An Alternative Interpretation. Current Anthropology 27,
+no. 2: 157-162.
+Published Version
+doi:10.1086/203413
+Permanent link
+http://nrs.harvard.edu/urn-3:HUL.InstRepos:12211567
+Terms of Use
+This article was downloaded from Harvard University’s DASH repository, and is made available
+under the terms and conditions applicable to Other Posted Material, as set forth at http://
+nrs.harvard.edu/urn-3:HUL.InstRepos:dash.current.terms-of-use#LAA
+Share Your Story
+The Harvard community has made this article openly available.
+Please share how this access benefits you. Submit a story .
+Accessibility
+REPORTS
+The Walls of Jericho:An Alternative
+Interpretation'
+by 0. BAR-YOSEF
+Institute of Archaeology,Hebrew University,Jerusalem
+91905, Israel. 30 VI 85
+"The walls of Jericho"immediatelyremindus of the biblical
+storydescribingthe conquestof this ancienttown by Joshua
+and the invadingIsraelitearmy.Like theHomericepic about
+the destructionof Troy, which motivatedH. Schliemannto
+conductone of the firstexcavationsin the Near East, so the
+tale of Jerichohas made the site attractiveto scholarsinter-
+ested in revealing biblical remains beneath the dust. The
+mound of Tell es-Sultanin the JordanValley has long been
+confidentlyequated withthe biblicalJericho,and the wish to
+uncoverthe walls that collapsed at the blast of the Israelite
+trumpetshas led to a seriesofexcavationsat themound(fig.1).
+The pioneerwas C. Warren,who dug a fewholes in 1873 but
+thenabandonedthesiteand wenton to excavatein Jerusalem.
+The Germans E. Sellin and C. Watzingerdug a series of
+trenchesbetween1907 and 1909, and theywere followedby
+J. Garstang,1930-36, and K. Kenyon,1952-58.
+While the townwalls destroyedby Joshua'sarmyhave not
+been found,a seriesof Early Bronze-and Middle Bronze-Age
+walls and an impressiveramparthave been uncoveredand
+studiedin detail. BeneaththebiblicalJericho,firstGarstang's
+and later the major excavationsof Kenyon uncoveredthick
+depositsofveryearlyPre-PotteryNeolithicoccupation.A par-
+ticularlysurprisingdiscoverymade by Kenyon in the basal
+layersof thisoccupationwas the existenceof a massivestone
+perimeterwall. It is withtheinterpretationofthiswall and the
+towerassociatedwithit thatthispaper is concerned.The re-
+cent publicationof the finalarchaeologicalreports,a project
+forwhichT. A. Holland is to be congratulated,makesitpossi-
+ble to reexamineKenyon'sconclusionsusingherown detailed
+observations(Kenyon1981; Kenyonand Holland 1982, 1983).
+The oldest remains at Jerichoare dated to the Natufian
+culture,thoughnotto itslatestphase as recentlydefined(Bar-
+Yosef 1981a, Valla 1984). Then, followinga gap of nearlya
+millennium(ca. 9200-8350 B.C.), thesitewas settledbyone of
+theearlyfarmingcommunities.The occupiedarea was a mod-
+eratelyslopingplain formedby the retreatof the Late Pleis-
+toceneLisan Lake (fig.1). The plain is coveredby brownsoils
+and gravelswashedin byWadi Nuceima,Wadi el-Mafjar,and
+Wadi Qilt, formingthe arable land of theJerichooasis.
+Table 1 summarizesthe main constructionand destruction
+eventsin the area of Trench I and squares FI, DI, and DII,
+wherethe walls, the tower,and adjacent buildingswere par-
+tiallyexposed.Figure2 tentativelyreconstructsthemaindepo-
+sitionaleventsin this area; thesesectionsare based on Ken-
+yon's fielddrawingsand writtendescriptions(Kenyon 1981).
+The available 14Cdates as reportedby Burleigh(1981, 1983)
+are shownin boththetable and thefigure.The firstNeolithic
+occupationswere labelled "Proto-Neolithic"by KenyQn,but
+thelithicanalysisof Crowfoot-Payne(1983) has demonstrated
+thattheassemblage,mainlyderivedfroma limitedexcavation
+in Square M, does not differfromthe restof the Pre-Pottery
+NeolithicA (henceforthPPNA) assemblages. This industry
+was renamed"Sultanian" and has since been found at two
+additionalsitesin theJordanValley-Gilgal (Noy, Schulden-
+rein, and Tchernov 1980) and Netiv Hagdud (Bar-Yosef,
+Gopher,and Goring-Morris1980).
+It is onlysubsequentto theearliestoccupationsthatthefree-
+standingwall and towerwere built. The firstperimeterwall,
+3.6 m high,was 1.8 m thickat its base and only 1.1 m at its
+preservedtop. The tower,placed insidethe perimeterof the
+settlement,was 8.2 m high(ca. 9 m in diameterat thebase and
+7 m at thetop)and builtofundressedstones.It had a staircase
+leading to the top with 22 steps built of dressed slabs. Its
+preservedoutletseems to be the originalone. No roomswere
+foundinsidethe tower.The available 14Cdates indicatethat
+the constructionoccurredbetween8300 B.C. and 7800 B.C.,
+whichmay mean around 8000 B.C. as estimatedby Kenyon.
+Stages IV-V consistedof the buildingof an additionalwall
+(or onlythe thickeningof the firstwall) and the diggingof a
+ditch in frontof it, probablybecause the continuousrapid
+alluviationwas endangeringtheexistingstructures.The tower
+was an extremelyheavystructure(about 1,000tons)and prob-
+ablyexperienceddifferentialsubsidenceoftheunderlyingslip-
+perymarl.There is clear archaeologicalevidencethatithad to
+be repairedat thisstage.
+The ditch was filledrapidly,motivatingthe additionof a
+thirdwall, and at the same periodthe staircasewas blocked
+(StagesVI and VIA). Continuousaccumulationson bothsides
+consistingof naturalaggradationenrichedwith occupational
+debris on the westernface and occupationalremainson the
+easternfacecaused thewalls to go outofuse, leavingthetower
+stillsomewhatelevatedabove its surroundings.The 14Cread-
+ingspointto a date of ca. 7400-7300 B.C. In thefinalstageof
+the PPNA periodthe perimeterwall was entirelyburied.
+The lower courses of the PPNA perimeterwall were also
+foundin the northerntrench(TrenchII) and were somewhat
+betterpreservedin the southerntrench(TrenchIII). In these
+instancesthe wall was thinner,only 1.4 m and 1.6 m respec-
+tively.At thenorthernend ofthesettlementtheperimeterwall
+was heavilydamaged by a floodingwadi whichleftonlythe
+lowercourseof stonesundera wadi channelsome 15 m wide
+and about 1.5 m deep in itscentralthalweg.That thewadi was
+able to wash away a supposedlystonewall is somewhatunex-
+pected,giventhe presenceof softoccupationlevels on either
+side; perhapsitwas a mud-brickconstructionon stonefounda-
+tions. In the southerntrenchthe truncationof the already
+buried PPNA layers is interpretedas resultingfromsevere
+floodingin Wadi el-Mafjar.
+Kenyonconcludedthatthe oval moundof Jerichowas en-
+circledby a defensivewall enclosingan area of 2.4 hectares
+(originallymiscalculatedas 4.0). Her estimateof 3,000-4,000
+forthe site's populationis too high in view of the size of the
+site, and the resultsof recentethnoarchaeologicalresearch
+(Kramer 1982) point to an estimateof 400-900. Additional
+walls, also interpretedby Kenyonas "town walls," were un-
+coveredin the westerntrenchand dated to the followingpe-
+riod,the Pre-PotteryNeolithicB (ca. 7300-6000 B.C.). These
+were slantingwalls built of large undressedstones,retaining
+theearlierlevels. Both thepicturesof thewalls and thedraw-
+ingofthetrench-sectionclearlyshow that,as has been pointed
+out by Mellaart (1975:59),thesewere retainingwalls.
+Kenyon'sinterpretationsof her strikingdiscoveriesmay be
+summarizedas follows:
+' ? 1986 by The Wenner-GrenFoundationforAnthropologicalRe-
+search,all rightsreserved0011-3204/86/2702-0005$1.00.The reexami-
+nationofsomeofthearchaeologicalproblemsofJerichostemmedfrom
+researchon Early Neolithicsites in the Lower JordanValley. Field-
+workwas fundedby the Wenner-GrenFoundationforAnthropolog-
+ical Research (1980-81) and by the National Geographic Society
+(1983-84), to whomI am verygratefulfortheirsupport.I would like
+to thankP. Goldbergand A. Gopherof theInstituteof Archaeology,
+Hebrew University,formanyusefuldiscussionsin thefield;GI. Isaac
+and J. Merkelof the Peabody Museum, Harvard University,and Z.
+Herzog of theInstituteofArchaeology,Tel Aviv University,fortheir
+helpfulcommentson an earlierdraft;and B. Isaac forthedrawings.I
+am, however,fullyresponsiblefor any shortcomingsof the present
+version.
+Vol. 27 * No. 2 * April 1986 157
+This content downloaded from 128.103.149.52 on Sun, 11 May 2014 22:17:58 PM
+All use subject to JSTOR Terms and Conditions
+'I~~~~~~Q
+\) ,
+*.o .
+JFF~ICHO`
+.0 0 0 o..
+00 O~~~~~~~~~~~~
+~~0 kml
+. ....... *--~~~~~~~~~~~JERICHO
+FIG. 1. The topographicsituationofthetellofJericho.Note thelow ridge,immediatelywestofthetell,borderedby Wadi Nuceimain thenorth
+and Wadi el-Mafjarin the south.Topographyis shownin 10-rncontours.Today's springriseson the mid-easteredge of the tell.
+1. The presenceof a thick,free-standingwall and a tower
+indicatea communaleffortto fortifythesettlement.(The effort
+requiredto build the perimeterwall was later calculatedby
+Dorrell[1978]as about a week'sworthfor200 men;a recalcu-
+lationbased on a morerealisticestimateof0.5 m3perman per
+dayyieldsa figureof 10,400workdaysor about 104workdays
+for100 men).
+2. As a walled site,Jerichodeservesto be called a "town"
+and is thereforecomparableto thelaterNear Easternfortified
+towns.
+Both in the site reportsand in her popularsummary(Ken-
+yon 1957), Kenyon avoided a certainnumberof intriguing
+questions:
+1. Who were the enemiesofJerichothatjustifiedthiscom-
+munal effort,especiallythe investmentin erectingthe tower?
+2. When the walls and the towerof the PPNA periodwent
+out of use because ofthenaturalaccumulationofhouse debris
+and refusebothinsideand outsidethesettlement,whydid the
+inhabitantsnot at once build new "townwalls"?
+3. Whywas a terracewall sufficientfortificationduringthe
+PPNB period?
+4. Whyis thereno recordof otherfortifiedsitesin theNear
+East eitherat the timeor thereafterup to about 5500 B.C.?
+5. Whywas the towerat Jerichobuiltnoton the outsideof
+the wall, whereits projectionwould enable the defendersto
+shootattackerstryingto climbit, but on the inside?
+To reconsiderKenyon'sinterpretationwe mustexplorethe
+generalevolutionof prehistoricculturesin the Near East at
+that period and the specific location of Jerichoand the
+geomorphicprocessesthatmay have influencedits history.
+The evolutionof prehistoricentitiesas representedin the
+archaeologicalrecordhas recentlybeen studiedin depthin the
+various geographicunitsof the Near East (Sinai, the Negev,
+Edom, the Jordan Valley, the Damascus plateau, the El
+Kowm basin, and theMiddle EuphratesValley). On thebasis
+of such featuresas site size, lithicand faunal assemblages,
+topographiclocations, and zonal distribution,some general
+trendshave been discerned(Cauvin 1978;Bar-Yosef1981a,b;
+Henry 1983; Moore 1985). Withoutelaboration,thesemajor
+developmentsmay be summarizedas a sequence of changes
+which took place from 11/12,000B.C. through6000 B.C.
+mainlyin the Mediterraneanand Irano-Turanianvegetation
+zones, which shiftedbecause of climaticfluctuations(Butzer
+1978, Van Zeist, and Bottema 1982, Bintliff1982).
+The firstchange took place when small mobile groupsof
+hunter-gatherersbecamepartiallyor fullysedentary;long-term
+occupiedsitesaccommodatedlargerbands (perhapsup to 50-
+80 persons).This change is associatedwiththe emergenceof
+the Natufianculture,best recordedfromthe excavationsof
+base camps such as Eynan (Ain Mallaha), HayonimCave and
+Terrace,El-Wad Cave and Terrace,and Nahal Oren Terrace
+(Perrot1966, Valla 1984, Bar-Yosefand Goren 1973, Garrod
+and Bate 1937, Noy, Legge, and Higgs 1973). The Natufian
+economywas based on gathering(forwhich the evidence is
+ratherscantydue to poorpreservationin Mediterraneansoils),
+hunting(mainlygazelle,fallowdeer,roedeer,wildboar, ibex,
+158 CURRENT ANTHROPOLOGY
+This content downloaded from 128.103.149.52 on Sun, 11 May 2014 22:17:58 PM
+All use subject to JSTOR Terms and Conditions
+TABLE 1
+SEQUENCE OF STAGES IN THE WESTERN SECTOR OF JERICHO
+STRUCTURE
+STAGE Walls Tower OtherStructures 14C DATE B.C.
+I "Proto-Neolithic,"no (BM-106) 8350 ? 200
+structures
+II PPNA houses
+III "Town Wall" I Tower (BM-105) 8300 + 200
+IV FI, DII enclosures (P-378) 7825 ? 110
+(BM-1327) 7610 + 65
+IVA DI "silo" (BM-1322) 7430 + 85
+V "Town Wall" II added, (BM-250) 8350 + 500
+infillingchippedfrom
+ditchin frontof it
+VI Ditch siltedup "Skin Wall" added Enclosuresdestroyed (BM-251) 7440 + 150
+(P1. 236 JIll)
+VIA Staircaseblocked, 12 "Silo" burned;rounded (P-379) 7705 ? 84
+bodies inserted house built (BM-1323) 7430 + 85
+VII "Town Wall" III added "Skin Wall" rebuilt Houses alteredand rebuilt;
+on top of I and II House AE builtover
+"Town Wall" III
+VIIA "Town Walls" out of use
+VIIIA Top rebuilt(?) Houses rebuilt;erosionbegins (BM-1787) 7330 + 100
+(BM-1321) 7280 + 80
+(BM-1326) 7280 + 220
+(BM-152) 7330 + 150
+VIIIB Tower out of use Fire
+VIIIC Ceremonialstructure
+in Fl
+IX Fill almostreachestop Domesticstructures (BM-110) 8230 + 200
+of tower (BM-1789) 7250 + 70
+X Contractionof site,
+domesticstructures
+XI Expansion,housesin
+TrenchI (westof
+tower)
+Erosionalphase
+SOURCES. Kenyon(1981), Kenyonand Holland (1982, 1983)
+etc.),and fishing,mainlyin inlandlakes suchas Hula Lake, on
+the shoresof which the site of Eynan was established(Bar-
+Yosef 1983).
+Despite the expansion of the Natufianculturenorthward
+intotheMiddle EuphratesValleyand southwardto theNegev,
+small groupsof hunter-gathererspersistedin the deserticre-
+gions.
+The establishmentof farmingcommunitiescultivatingboth
+pulses and cereals (wheat and barley)took place duringthe
+PPNA period ('4C-dated ca. 8300-7300 B.C.). Huntingwas
+onlypartiallyreplacedduringthePPNB period(ca. 7300-6000
+B.C.) by the introductionof domesticatedsheep and goats
+(Clutton-Brock1981, Davis 1982, Smith,Bar-Yosef,and Sil-
+len 1984). Presumablythese were herded fromthe Zagros
+(Iran) area, wherethe evidence fortheirdomesticationfrom
+local game is substantial,intotheLevantinelandscape(Hesse
+1982).However,itis notimpossiblethatgoats,althoughonlya
+verysmall fractionof the previouslyhuntedLevantinefauna,
+were domesticatedlocally..The economyof the PPNB sites,
+situated in fertileareas such as the Euphrates Valley, the
+Damascus plain, theTrans-Jordanianplateau,and theJordan
+and JezreelValleys,was based on legumesand cerealcultiva-
+tionwithsome huntingand herding.In its finalphase, at the
+end of the 7thmillenniumB.C., cattleraisingcommenced.
+Duringthisperiod,climaticameliorationfavouredthe con-
+tinued occupationof the desertsby hunter-gatherers.Their
+sitesare foundeverywherein theNegev, Sinai, and the Syro-
+Arabian desert. It is quite possible that the "desertkites,"
+trappingdevices forherdanimalsconsistingof two long low-
+lyingwalls leadingto an enclosure(oftenbelow a small cliff),
+wereconstructedin orderto supplymeatto thefarmersofthe
+"FertileCrescent."Many commonfeaturesin art,ritual,mor-
+tuarypractices,and the use of prestigegoods, not detailed
+here,pointto thepresenceofclosecontactsthroughgiftgiving,
+exchange,and "down-the-line"trade over most of the Near
+East and especiallyin the Levant (Renfrewand Dixon 1976,
+Mellaart 1975, Cauvin 1978, Moore 1985).
+There is no archaeologicalevidence,in the formof burned
+settlements,the remainsof mass massacres,or fortifications,
+forthe existenceof social aggressionin the Levant beforethe
+6th millenniumB.C. This is not to say that therewere no
+rivalriesthat ended in some fighting,but the archaeological
+recordas shown in the deep stratigraphiesof manytell sites
+(such as Mureybet,Abu Hureyra,Bouqras, Ramad, Asswad,
+Jericho,Ain Ghazal, and Netiv Hagdud) was mainlyformed
+by the naturalcollapse and subsequentrebuildingof adobe or
+mud-brickhouses. The noncontemporaryerectionof mud
+houses (sometimeson stone foundations)created what is
+knownin archaeologicaljargon as "spiral stratigraphy";new
+buildinglayersare not recognizableover the entirearea of a
+given tell, each excavationarea having its own sequence of
+buildingevents(Kramer1983).On rareoccasionsgeneralplan-
+ningcan be seen (as in thecase ofTell Bouqras), but it is in no
+way interpretableas rebuildingaftertotaldestructioncaused
+by warfare(Akkermans,Fokkens,and Waterbolk1981).
+Most LevantineNeolithicsites are partiallyand sometimes
+even completelyburiedin alluvial deposits.This is thecase in
+the Jordan Valley, where sites like Beisamoun, Tell cEli,
+ShacarHaGolan, Munhatta,and Netiv Hagdud have at least
+theirbasal layersbeneaththe surfacelevel ofthesurrounding
+Holocene depositsand in manycases are entirelycoveredby
+these deposits (Lechevallier 1978, Prausnitz 1970, Stekelis
+Vol. 27 * No. 2 * April 1986 159
+This content downloaded from 128.103.149.52 on Sun, 11 May 2014 22:17:58 PM
+All use subject to JSTOR Terms and Conditions
+STAGES III-IV (ca.8000-7800bc _7_| 4 STAGES Vll-VIl (ca.7500-7400 bc)r_ ? - l
+;+
+g 5
+~~~~~~~~~~~~~~r--- --n
+House AE in Sq FT
+"Town Wall"I.
+2 STAGE V (ca. 7800-7600bc) - |- 5 STAGE Vill (ca.7400-7300 bc)
+\'?II ~ ~ ~ ~ ~ ~ ~ ~ ~~Si
+/ - - - \ I, T -7
+Wall"
+- /1~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~z
+3 STAGES Vl-VII (ca7600-7500bc) 6 STAGES IX-XI (ca.7300-7200 bc)
+11 ~~~~~~~~~~
+House
+"Town Wall"iW
+NIA
+WEST "EAST
+FIG. 2. Reconstructedsequence of depositionaland buildingeventsas identifiedby K. Kenyonin TrenchI. Major stages are indicated. The
+estimateddates are derivedfromthe listof '4C determinationsgivenin table 1. The brokenline marksthesuggestedreconstructionsofthewalls
+and a shrine(?).
+1972, Perrot 1964, Bar-Yosef, Gopher, and Goring-Morris
+1980). Similar phenomenahave been observed in the hilly
+areas, at Abu Ghoshand Yiftahel(Lechevallier1978,Lamdan
+and Davis 1983), in the Negev, at Nahal Issaron (Goring-
+Morrisand Gopher1983),and alongthecoastal plain,at Neve
+Yam (Wreschner1977). The same situationhas apparently
+been observedin otherregionsoftheNear East. Indeed, even
+sites of later periods, when located in proximityto wadi
+courses,are partiallyor entirelyburied.Such is the case with
+the Chalcolithicsites in Wadi Fazael (JordanValley), along
+Nahal Beer Sheva and Nahal Besor (northernNegev), and on
+the coastal plain (e.g., Olesh). The Early Bronze I siteof cEn
+Shadud (JezreelValley) indicatesthat even sites as late as
+around 3000 B.C. may have been buried(Braun and Gibson
+1984). The sectiondrawingfromTrench I in Jerichoclearly
+shows that Kenyon observedthis phenomenon.Alluvial de-
+positsfilledtheditchdug by theNeolithicinhabitants.Stream
+flowremovedthe PPNA wall on the northernedge of the tell
+and levelledthe top of the PPNA depositsin TrenchIII.
+The situationof Neolithicsites, especiallythe early ones,
+near watercoursesand in low-lyingareas possiblyreflectsthe
+desireoftheirinhabitantsto have drinkingand washingwater
+immediatelyavailable and to live close to fieldsthatmade use
+ofreadilycultivatedsoilson alluvialfansand terraces.In some
+cases the potentialfor simple irrigationmay have been an
+added incentive.Despite the limitednumberof palynological
+recordsfromlakes (Van Zeist and Bottema 1982) and their
+partial disagreement,it seems that both PPNA and PPNB
+periodshad more favourableclimaticconditionsthan today.
+Average annual temperatureswere somewhatlower, the sea
+was continuallyrising,achievingits maximumheightonlya
+millenniumlater,and the distributionof annual precipitation
+resultedin betterspread of Mediterraneanforestsand richer
+Irano-Turaniansteppes.Geomorphologicalevidencesupports
+thisgeneralpictureand indicatesthatthe 7thmiLllenniumB.C.
+was wetterthanthepreviousor followingones, permittingthe
+existenceof inland lakes in Syria,Trans-Jordan,Arabia, the
+JordanValley, and otherintermontanevalleys.The aggrada-
+160 CURRENT ANTHROPOLOGY
+This content downloaded from 128.103.149.52 on Sun, 11 May 2014 22:17:58 PM
+All use subject to JSTOR Terms and Conditions
+tionaldepositsin alluvial fansshow fewlargeboulderssuch as
+thosecarriedbyseverefloodsin historicaland presenttimes.It
+seems that the annual floodingof terracesand alluvial fans
+provideda new veneerof soil whichin the absenceof organic
+fertilizersmade possible almost continuouscultivation.This
+kind of annual or semiannualsheetwashand mudflow,how-
+ever,requiredsome kind of protectionforsettlementslocated
+amongstthefields.A defensesystemprovidingprotectionfrom
+natural activitiescan be a simple one-a water-diverting
+trench-or a moresophisticatedone, giventhe situationand
+the capabilitiesof the inhabitants.
+The tellofJerichois, as I have said, locatedon whatused to
+be a moderatelyslopingplain whichformedtheresidualland-
+scape ofa recedinglake. The marlswhichformthebedrockat
+Jerichoaccumulatedin this lake, which regressedfromthis
+area ca. 11,000B.C. On thewestside, theJerichosectorofthe
+slopeis protectedby a low ridge,ca. 2 kmlong,whichmoreor
+less encirclesthe area (fig. 1). Two wadis borderthis ridge,
+Wadi Nuceimaat the northernend and Wadi el-Mafjarat the
+southern.Wadi el-MafjardescendsfromtheJudeanHills and
+has a small drainagebasin (ca. 20 kM2); theapex ofits former
+alluvialfanis onlyabout 500 m fromthetell.That thewadis of
+the regiononce carriedmorewaterthan theydo todayseems
+obviousfromthe erosionreportedby Kenyonon the northern
+edge of themound.Heavy sedimentdischargefromthewadis
+would be expectedwithan increasein directprecipitationon
+theJudeanHills but perhapsalso would have come as a result
+of vegetationaldestructioncaused by the local inhabitants.
+The cuttingof wood (e.g., poplar,tamarisk,willow,oak, fig)
+and bushesis evidentnotonlyin thelargeamountsofcharcoal
+in the archaeologicaldepositsbut also in the use-wearvisible
+on the cuttingedges of the axes-adzes (Western1983, Keeley
+1983). To what extentfirebecame a tool forland clearingis
+unknown, although botanical studies following fires in
+Mediterraneanmaquis have shown that it has none of the
+advantagestherethatit has in tropicalor temperatezones.
+Given all the available data, it seems thata plausiblealter-
+nativeinterpretationforthe Neolithicwalls ofJerichois that
+theywerebuiltin stagesas a defensesystemagainstfloodsand
+mudflows.The PPNA inhabitantsofJerichochoseto live near
+a copious spring on a sloping plain which was subject to
+mudflowsand sheetwash.Their responsewas to build a wall
+and then,whennecessary,dig a ditch.The necessityforbetter
+protectionon thewesternside wouldexplainthevaryingthick-
+ness of thewall, whichduringStages IV-VI was ca. 3.5 m in
+the west but remainedonly 1.4-1.6 m in the northand the
+south.The dangersoferosionare evidentin thedestructionof
+the wall on the northernedge of Jerichoat the end of the
+PPNA or before.Later, in PPNB days, the tell was presum-
+ably highenoughto stand above the floods,and such protec-
+tion as may have been necessarywas providedby a simple
+terracerevetment.Moreover,thisterracewall couldhave been
+just a structuraldevice to provide sound foundationsfor
+houseson the top level above it and at its base.
+Testingof thisalternativeexplanationat Jerichoand other
+sites is needed. One may predict(1) that the PPNA wall at
+Jerichoonly partiallyprotectedthe early occupations,(2) its
+heightand thicknessvaryin responseto unevenalluviationor
+flowingwater, and (3) similardevices will be uncoveredat
+othersitesof the period.
+Kenyonfailedto finda continuationofthewall on thewest-
+ernedge, whereshe openedan additionalexcavation(Site M).
+The easternend of the moundis partiallydestroyedand cov-
+ered by the main north-southJordanValley road. (A rough
+estimateindicatesthat the easternwall, if therewas one on
+thatside, would be about 4-7 m below Area H.)
+One otherexcavatedNeolithicsiteat whichthe edge of the
+site has been exposed is Beidha, located northwestof Petra
+(Jordan)and situatedin a wide wadi, deeplyentrenchedin
+Nubian sandstone(Kirkbride1968). There the excavatorex-
+posed a terracewall, 2 m highand at least 50 m long,which
+protectedthewadi terraceon whichthesitewas builtfromthe
+flowingwater.Kirkbrideneverclaimedthatthiswall was part
+ofa defensivesystem,because in herfirstsoundingshe founda
+staircasebuilton its outerface. She interpretedthe wall as a
+supportforthe sandy terraceon which this PPNB -sitewas
+built, but in realityit could have been a protectionagainst
+constantdenudationby water undercuttingthe terrace.Fi-
+nally,eitherin PPNB timesor latertheentirewadi was filled
+up and the terracewall buriedin a sandy-graveldeposit.
+Undoubtedlymoretestingis neededat othersites,and good
+candidatesforsuch an operationwill be thoselocated in the
+JordanValley. For example,the PPNA moundof Netiv Hag-
+dud is situated350 m fromthe apex of an alluvial fan, just
+wherethewadi comesout ontotheplain (Bar-Yosef,Gopher,
+and Goring-Morris1980). This shallowtell(ca. 4 m high)was
+totallycoveredon itswesternside by sand and gravelaccumu-
+lations.The resultsof past water activityare visible,and the
+questionis, Did the inhabitantsof Netiv Hagdud need to do
+somethingabout it? Onlyfurtherexcavationswillenable us to
+resolvethisquestion.
+Untilnow an alternativeinterpretationforthetowerhas not
+been discussed.The laterhistoryofNear Easternfortifications
+seemsto ruleout itsuse as partof a fortress.Perhapsthemost
+intriguingthingabout it is its finestateof preservation.
+In view of theerosionalphase whichoccupiedthetimegap
+betweenthePPNA periodand theonsetofthePPNB period,it
+is surprisingthat such a building remained almost intact.
+Moreover,whiletheheightofPPNA depositsin otherpartsof
+the mound is 3.5-4.5 m, in the area of the towerthe total
+thicknessamounts to 8.5 m (includingthe so-called Proto-
+Neolithic). The special mud-brickstructuresuncoveredby
+Kenyonon thenorthernside ofthetowerhave been described
+as "watertanks"whichlaterservedas silos (Kenyon1981) or
+"tanningvats" (Marshall 1982). The constructionof water
+reservoirsonly80 m froma bountifulspringseemshighlyun-
+likelyand indicatesthatKenyon'sinterpretationwas based on
+herview thatJerichowas a fortifiedtownwhich,like thoseof
+the Iron Age, needed water supplies inside the walls. The
+locationof thespringon theeasternedge of themoundpoints
+to thepossibilityofitsbeingincludedwithintheperimeterwall
+circumference,if thiswall did indeed encirclethe entiresite.
+The archaeologicalremainsindicatethat the towerwas a
+special structureand perhapsheld a special place withinthe
+settlement.A preliminarycompositenorth-southcross-section
+of the tell, based on the available drawn sections(Kenyon
+1981), indicatesthatthe towercreateda bump in the general
+topographicconfigurationof the tell, and I would ventureto
+predict that there was only one tower in the Pre-Pottery
+NeolithicA of Jericho.The preservationof its top would be
+explainedifone postulatedthatit had been capped by a mud-
+bricksuperstructure(fig.2). The presenceofthestoragefacili-
+tiesattachedto it in itsearlydays mayhintthatitwas publicly
+owned or at the serviceof the community.It is quite possible
+thatit was also a place or a centerforritualactivities.Some
+evidence in supportof this suggestionis given by Kenyon's
+findsin Square Fl (immediatelynorthofthetower)in theform
+of peculiar structureswhich suggested"a ceremonialsignifi-
+cance" (Kenyon1981:50).Finally,it shouldbe mentionedthat
+thetoweris close to thespring.Unfortunately,Kenyondid not
+have timeor fundsto finishherexcavationat SiteH (only50 m
+fromthe tower),whichwas aimed at reachingthe prehistoric
+outletof the spring.
+The climaticoptimumof the earlyHolocene made possible
+theemergenceand growthoffarmingcommunitiesin theNear
+East. Agricultureas a new subsistencestrategysucceededbe-
+cause the environmentalconditionswere appropriatewhile
+new social structureswere in the processof beingformed.It
+was onlylater,duringthe 6th millenniumB.C., thatclimatic
+fluctuations,demographicpressures,the developmentof pas-
+Vol. 27 * No. 2 * April 1986 161
+This content downloaded from 128.103.149.52 on Sun, 11 May 2014 22:17:58 PM
+All use subject to JSTOR Terms and Conditions
+toralsocieties,and the collapse of simplesocial organizations
+in partsoftheNear East caused thegroupaggressionthatwas
+metby new means of defensein the formof fortificationsys-
+tems.It seemsthatthePre-PotteryNeolithicA walls ofJericho
+were built in a period when the people had otherthingsin
+mind,namely,protectingtheirsettlementfromthevagariesof
+nature.
+ReferencesCited
+AKKERMANS, P. A., H. FOKKENS, and H. T. WATERBOLK. 1981.
+"Stratigraphy,architecture,and layoutof Bouqras," in Prehistoire
+du Levant. Edited by J. Cauvin and P. Sanlaville, pp. 485-502.
+Paris: CNRS.
+BAR-YOSEF, 0. 1981a. "Epi-Palaeolithiccomplexesin the southern
+Levant," in Prehistoiredu Levant. Edited by J. Cauvin and P.
+Sanlaville,pp. 389-408. Paris: CNRS.
+- 1981b. "The 'Pre-PotteryNeolithic'periodin thesouthernLe-
+vant,"in Prehistoiredu Levant. Edited byJ. Cauvin and P. Sanla-
+ville, pp. 555-69. Paris: CNRS.
+. 1983. "The Natufianin the southernLevant," in The hilly
+flanks: Essays on the prehistoryof SouthwesternAsia. Edited by
+T. C. Young, P. E. L. Smith,and P. Mortensen,pp. 11-42. Orien-
+tal InstituteoftheUniversityofChicago Studiesin AncientOriental
+Civilizations36.
+BAR-YOSEF, O., and N. GOREN. 1973. Natufianremainsin Hayonim
+Cave. Paleorient1:49-68.
+BAR-YOSEF, O., A. GOPHER,andA. N. GORING-MORRIS. 1980. Netiv
+Hagdud: A Sultanian mound in the Lower JordanValley. Paleo-
+rient6:201-6.
+BINTLIFF, J. 1982. "Palaeoclimatic modelling of environmental
+changesin the East Mediterraneanregionsincethelast glaciation,"
+in Palaeoclimates,palaeoenvironments,and humancommunitiesin
+the easternMediterraneanregionin laterprehistory,pt. 2. Edited
+by J. L. Bintliffand W. Van Zeist, pp. 485-527 BritishAr-
+chaeologicalReportsInternationalSeries 133.
+BRAUN, E., and S. GIBSON. 1984. 'En Shadud: An Early Bronze I
+farmingcommunityin theJezreelValley. BulletinoftheAmerican
+Schools ofOrientalResearch 253:41-54.
+BURLEIGH, R. 1981. "Radiocarbondates," in Excavationsat Jericho,
+vol. 3. Edited by T. A. Holland, pp. 501-4. London:BritishSchool
+of Archaeologyin Jerusalem.
+. 1983. "Additionalradiocarbondates forJericho,"in Excava-
+tionsat Jericho,vol. 5. Edited by K. M. Kenyonand T. A. Hol-
+land, pp. 760-65. London: British School of Archaeologyin
+Jerusalem.
+BUTZER, K. W. 1978. "The late prehistoricenvironmentalhistoryof
+the Near East," in Environmentalhistoryof the Near East and
+Middle East since thelastglacialage. EditedbyW. C. Brice,pp. 5-
+12. London: Academic Press.
+CAUVIN, J. 1978.Les premiersvillagesde Syrie-Palestinede IXemeau
+VIIeme millenaireavantJ.C. Lyon: Maison de l'Orient.
+CLUTTON-BROCK, J. 1981. Domesticatedanimalsfromearly times.
+Austin:Universityof Texas Press.
+CROWFOOT-PAYNE, J. 1983. "The flintindustriesofJericho,"in Exca-
+vations at Jericho,vol. 5. Edited by K. M. Kenyon and T. A
+Holland, pp. 622-759. London: BritishSchool of Archaeologyin
+Jerusalem.
+DAVIS, S. 1982. Climatechangeand theadventofdomestication:The
+successionofartiodactylsin theLate Pleistocene-Holoceneperiodin
+the Israel region.Pale'orient8:5-14.
+DORRELL, P. 1978. "The uniquenessofJericho,"in Archaeologyin the
+Levant: Essays for Kathleen Kenyon. Edited by R. Moorey and
+P. Parr, pp. 11-18. Warminster:Aris and Phillips.
+GARROD, D. A. E., and D. M. A. BATE. 1937. The Stone Age of
+Mount Carmel.Oxford:Clarendon.
+GORING-MORRIS, A. N., and A. GOPHER. 1983. Nahal Issaron: A
+Neolithicsettlementin thesouthernNegev. IsraelExplorationJour-
+nal 33:149-62.
+HENRY, D. 0. 1983. "AdaptiveevolutionwithintheEpipalaeolithicof
+theNear East," in Advancesin worldarchaeology,vol. 2. Editedby
+F. Wendorfand A. E. Close, pp. 99-160. New York: Academic
+Press.
+HESSE, B. 1982. Slaughterpatternsand domestication:The begin-
+ningsof pastoralismin westernIran. Man 17:403-17.
+KEELEY, L. H. 1983. "Microscopic examination of adzes," in
+Excavations at Jericho, vol 5. Edited by K. M. Kenyon and
+T. A. Holland, p. 759. London: BritishSchool of Archaeologyin
+Jerusalem.
+KENYON, K. 1957. Diggingup Jericho.London: Benn.
+. 1981. Excavations at Jericho.Vol 3. The architectureand
+stratigraphyof the tell. Edited by T. A. Holland. London: British
+School of Archaeologyin Jerusalem.
+KENYON, K., and T. A. HOLLAND. Editors. 1982. Excavations at
+Jericho.Vol. 4. The pottery-typeseries and otherfinds.London
+BritishSchool of Archaeologyin Jerusalem.
+. Editors. 1983. Excavations at Jericho.Vol. 5. The pottery
+phasesofthetelland otherfinds.London:BritishSchoolofArchaeol-
+ogy in Jerusalem.
+KIRKBRIDE, D. 1968. Beidha 1967: An interimreport.PalestineEx-
+plorationQuarterly100:90-96.
+KRAMER, C. 1982. Village ethnoarchaeology.New York: Academic
+Press.
+1983. "Spatial organization in contemporarySouthwest
+Asian villages," in The hilly flanks. Edited by T C. Young,
+P. E. L. Smith,and P. Mortensen,pp. 347-68. OrientalInstitute
+of the Universityof Chicago Studies in AncientOrientalCiviliza-
+tions36.
+LAMDAN, M., and M. DAVIS. 1983. Le site de Yiftah'el (Israel).
+L'Anthropologie87:275-76
+LECHEVALLIER, M. 1978. Abou Ghoshet Beisamoun:Deux gisements
+du VIle millenaireavant l'ere chretienneen Israel. (M6moireset
+Travaux du Centre de Recherches Pr6historiquesFrancais de
+J6rusalem2.) Paris: AssociationPaleorient.
+MARSHALL, D. N. 1982. "Jerichobone toolsand objects,"in Excava-
+tionsat Jericho,vol. 4. Edited by K. M Kenyonand T. A. Hol-
+land, pp. 570-622. London: British School of Archaeologyin
+Jerusalem.
+MELLAART, J. 1975. The NeolithicoftheNear East. London Thames
+and Hudson.
+MOORE, A. 1985. "The developmentin Neolithicsocietiesin theNear
+East," in Advancesin worldarchaeology,vol. 5. Edited byF Wen-
+dorfand A. E Close. New York: Academic Press. In press.
+Noy, T., A. J. LEGGE, and E. S. HIGGS. 1973. Recentexcavationsat
+Nahal Oren, Israel. Proceedingsof the PrehistoricSociety 39:75-
+99.
+Noy, T., J. SCHULDENREIN, and E. TCHERNOV. 1980. Gilgal:A Pre-
+PotteryNeolithicA sitein theLower JordanValley. Israel Explora-
+tionJournal30:63-82.
+PERROT, J. 1964. Les deux premieres campagnes de fouille a
+Munhatta.Syria 41 328-45.
+. 1966. Le gisementNatoufiende Mallaha (Eynan) Israel.
+L'Anthropologie70:437-84.
+PRAUSNITZ, M. W. 1970. From hunter to farmer and trader.
+Jerusalem:Sivan Press.
+RENFREW, C., and J. DIXON. 1976. "Obsidian in WesternAsia. A
+review,"in Problemsin economicand social archaeology.Edited by
+G. de G. Sieveking,I. H. Longworth,and K. E. Wilson,pp. 137-
+50. London: Duckworth.
+SMITH, P., 0. BAR-YOSEF, and A. SILLEN. 1984. "Archaeological
+and skeletalevidencefordietarychangeduringthelate Pleistocene/
+Early Holocene in the Levant," in Paleopathologyat the originsof
+agriculture.Edited byM. N. Cohen and G. J. Armelagos,pp. 101-
+36 New York: AcademicPress.
+STEKELIS, M. 1972. The Yarmukianculture.Jerusalem:Magness
+Press,Hebrew University.
+VALLA, F. R. 1984 Les industriesde silex de Mallaha (Eynan) et du
+Natufiendans le Levant. (Memoireset Travaux du Centrede Re-
+cherchesPrehistoriquesFrancaisde Jerusalem5.) Paris:Association
+Paleorient.
+VAN ZEIST, W., and S. BOTTEMA. 1982. "Vegetationalhistory
+of the easternMediterraneanand the Near East duringthe last
+20,000 years," in Palaeoclimates, palaeoenvironments,and
+human communitiesin the easternMediterraneanregionin later
+prehistory,pt. 2. Edited by J. L. Bintliffand W. Van Zeist, pp.
+277-321. British Archaeological Reports International Series
+133.
+WESTERN, A. C. 1983. "Catalogue of identifiedcharcoalsamples,"in
+Excavationsat Jericho,vol. 5. Edited by K. M. Kenyonand T. A.
+Holland, pp. 770-73. London: BritishSchool of Archaeologyin
+Jerusalem.
+WRESCHNER, E. E. 1977. Neve Yam: A submergedLate Neolithic
+settlementnear Mt. Carmel. Eretz Israel 13:259-70.
+162 CURRENT ANTHROPOLOGY
+This content downloaded from 128.103.149.52 on Sun, 11 May 2014 22:17:58 PM
+All use subject to JSTOR Terms and Conditions

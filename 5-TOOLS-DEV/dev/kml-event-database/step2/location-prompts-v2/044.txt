@@ -1,0 +1,13 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Japanese 7.3ka double tsunami
+
+Basic location of event: Japan
+
+Specific data/information/context related to event: Sci-Hub | Great earthquake at 7.3 ka inferred from tsunami deposits in the Sukumo Bay area, Southwestern Japan. Island Arc, 30(1) | 10.1111/iar.12422
+
+Nanayama, F., Tsuji, T., Yamaguchi, T., Kondo, Y., Ikeda, M., Nakanishi, T., … Kuwahata, M. (2021). *Great earthquake at 7.3 ka inferred from tsunami deposits in the Sukumo Bay area, Southwestern Japan. Island Arc, 30(1).* doi:10.1111/iar.12422
+
+10.1111/iar.12422
+
+downloaded on 2021-09-01

@@ -1,0 +1,9 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Eridu Genesis
+
+Basic location of event: Middle East
+
+Specific data/information/context related to event: Eridu Genesis, in Mesopotamian religious literature, ancient Sumerian epic primarily concerned with the creation of the world, the building of cities, and the flood. According to the epic, after the universe was created out of the primeval sea and the gods were born, the deities fashioned man from clay to cultivate the ground, care for flocks, and perpetuate the worship of the gods. 
+
+Cities were soon built and kingship was instituted on earth. For some reason, however, the gods determined to destroy mankind with a flood. Enki (Akkadian: Ea), who did not agree with the decree, revealed it to Ziusudra (Utnapishtim), a man well known for his humility and obedience. Ziusudra did as Enki commanded him and built a huge boat, in which he successfully rode out the flood. Afterward, he prostrated himself before the gods An (Anu) and Enlil, and, as a reward for living a godly life, Ziusudra was given immortality.

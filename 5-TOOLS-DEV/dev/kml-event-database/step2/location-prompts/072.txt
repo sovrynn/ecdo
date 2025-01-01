@@ -1,0 +1,62 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Bubastis Chasm Account
+
+Basic location of event: Egypt
+
+Specific data/information/context related to event: Bubastis - Wikipedia
+
+Bubastis (Bohairic Coptic: Ⲡⲟⲩⲃⲁⲥϯ Poubasti; Greek: Βούβαστις Boubastis or Βούβαστος Boubastos), also known in Arabic as Tell-Basta or in Egyptian as Per-Bast, was an ancient Egyptian city. Bubastis is often identified with the biblical Pi-Beseth (Hebrew: פי-בסת py-bst, Ezekiel 30:17). It was the capital of its own nome, located along the River Nile in the Delta region of Lower Egypt, and notable as a center of worship for the feline goddess Bastet, and therefore the principal depository in Egypt of mummies of cats. 
+
+Its ruins are located in the suburbs of the modern city of Zagazig.
+
+Etymology: The name of Bubastis in Egyptian is Pr-Bȝst.t, conventionally pronounced Per-Bast but its Earlier Egyptian pronunciation can be reconstructed as /ˈpaɾu-buˈʀistit/. It is a compound of Egyptian pr (“house") and the name of the goddess Bastet; thus the phrase means "House of Bast". 
+
+History: Bubastis served as the capital of the nome of Am-Khent, the 18th nome of Lower Egypt. Bubastis was situated southwest of Tanis, upon the eastern side of the Pelusiac branch of the Nile. The nome and city of Bubastis were allotted to the Calasirian division of the Egyptian war-caste. 
+
+Second Dynasty: In a later account by the Greek historian Manetho, it's stated that a "chasm opened near Bubastis and many perished" during the reign of Hotepsekhemwy in the Second Dynasty.
+
+Twelfth Dynasty: In the Middle Kingdom, Tell Basta was the site of a large mudbrick palace dated to the Twelfth Dynasty. It has been thought to be a residence of Amenemhat III. A limestone lintel shows the king during his Heb Sed Festival.
+
+Second Intermediate Period: Following the Twelfth Dynasty, the Middle Kingdom faded out. At Bubastis, a red granite architrave belonged to Sekhemre Khutawy Khabaw.
+
+Twenty-Second Dynasty: It became a royal residence after Shoshenq I, the first ruler and founder of the 22nd Dynasty, became pharaoh in 943 BC. Bubastis was at its height during this dynasty and the 23rd. It declined after the conquest by Cambyses II in 525 BC, which heralded the end of the Saite 26th Dynasty and the start of the Achaemenid Empire.
+
+Religion: The following is the description which Herodotus gives of Bubastis, as it appeared shortly after the period of the Persian invasion, 525 BC, and it is noted that the plan of the ruins remarkably warrants the accuracy of this historical eye-witness:
+
+“Temples there are more spacious and costlier than that of Bubastis, but none so pleasant to behold. It is after the following fashion. Except at the entrance, it is surrounded by water: for two canals branch off from the river, and run as far as the entrance to the temple: yet neither canal mingles with the other, but one runs on this side, and the other on that..."
+rshiping the god Amun. From the 18th Dynasty, circa 1430 BC, with an additional inscription by Seti I (circa 1290 BC). Originally from Bubastis, British Museum.
+
+Bubastis was a center of worship for the feline goddess Bastet, sometimes called Bubastis after the city, who the Greeks identified with Artemis. The cat was the sacred and peculiar animal of Bast, who is represented with the head of a cat or a lioness and frequently accompanies the deity Ptah in monumental inscriptions. The tombs at Bubastis were accordingly the principal depository in Egypt of the mummies of the cat.
+
+The most distinguished features of the city and nome of Bubastis were its oracle of Bast, the splendid temple of that goddess, and the annual procession in honor of her. The oracle gained in popularity and importance after the influx of Greek settlers into the Delta, since the identification of Bast with Artemis attracted to her shrine both native Egyptians and foreigners.
+
+The festival of Bubastis was considered the most joyous and gorgeous of all in the Egyptian calendar as described by Herodotus:
+Barges and river craft of every description, filled with men and women, floated leisurely down the Nile. The men played on pipes of lotus, the women on cymbals and tambourines, and such as had no instruments accompanied the music with clapping of hands and dances, and other joyous gestures. Thus did they while on the river: but when they came to a town on its banks, the barges were made fast, and the pilgrims disembarked, and the women sang, playfully mocked the women of that town and threw their clothes over their head. When they reached Bubastis, then held they a wondrously solemn feast: and more wine of the grape was drank in those days than in all the rest of the year. Such was the manner of this festival: and it is said that as many as seven hundred thousand pilgrims have been known to celebrate the Feast of Bast at the same time.
+
+Christian bishopric
+
+Extant documents mention the names of three Christian bishops of Bubastis of the 4th and 5th centuries:
+- Harpocration, one of the bishops ordained by Melitius of Lycopolis listed in 325
+- Hermon, a contemporary of Athanasius of Alexandria, in about 362
+- Iulianus at the Second Council of Ephesus in 449
+
+Excavations
+
+The tomb of the late New Kingdom vizier Iuty was discovered in December 1964 in the "Cemetery of the Nobles" of Bubastis by the Egyptian archaeologist Shafik Farid.
+
+Since 2008, the German-Egyptian "Tell Basta Project" has been conducting excavations at Bubastis. Previously, in March 2004, a well-preserved copy of the Decree of Canopus was discovered in the city.
+
+See also
+
+- List of ancient Egyptian towns and cities
+
+References
+
+This article incorporates text from a publication now in the public domain: Smith, William, ed. (1854–1857). "Bubastis". Dictionary of Greek and Roman Geography. London: John Murray.
+
+External links
+
+Tell Basta Project (EES/ University of Göttingen/ SCA) Egypt Exploration Society
+Preliminary German website of Tell Basta Project
+Finds from Bubastis on the website of MUSEUMS IN THE NILE DELTA (project M.i.N.)

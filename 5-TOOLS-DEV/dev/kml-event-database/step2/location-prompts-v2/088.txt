@@ -1,0 +1,883 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Susa Collapse
+
+Basic location of event: Iraq
+
+Specific data/information/context related to event: Susa
+
+"Shushan" redirects here. For other uses, see Shushan (disambiguation).
+
+For other uses, see Susa (disambiguation).
+
+Not to be confused with Shusha.
+
+Coordinates: 32°11′26″N 48°15′28″E
+
+From Wikipedia, the free encyclopedia
+
+Ancient city in Iran
+
+Susa
+
+شوش
+
+The Palace of Darius in Susa
+Susa (SOO-sə; Middle Elamite: 𒀸𒋗𒊺𒂗, romanized: Šušen; Middle and Neo-Elamite: 𒋢𒋢𒌦, romanized: Šušun; Neo-Elamite and Achaemenid: 𒀸𒋗𒐼𒀭, romanized: Šušan; Persian: شوش, romanized: Šuš) was an ancient city in the lower Zagros Mountains about 250 km (160 mi) east of the Tigris, between the Karkheh and Dez Rivers in Iran. One of the most important cities of the Ancient Near East, Susa served as the capital of Elam and the winter capital of the Achaemenid Empire, and remained a strategic centre during the Parthian and Sasanian periods.
+
+The site currently consists of three archaeological mounds, covering an area of around 1 square kilometre (0.39 sq mi). The city of Shush is located on the site of ancient Susa.
+
+Name
+
+The English name Susa is derived from Ancient Greek Soûsa (Σοῦσα), which is ultimately derived from an original Elamite name, which was written as Šušen (𒀸𒋗𒊺𒂗) in its Middle Elamite form, Šušun (𒋢𒋢𒌦) in its Middle and Neo-Elamite forms, Šušan (𒀸𒋗𒐼𒀭) in its Neo-Elamite and Achaemenid forms, and Šuša (𒀸𒋗𒐼) in its Achaemenid Elamite form.
+
+Literary references
+
+Susa was one of the most important cities of the Ancient Near East. In historic literature, Susa appears in the very earliest Sumerian records: for example, it is described as one of the places obedient to Inanna, patron deity of Uruk, in Enmerkar and the Lord of Aratta.
+
+Biblical texts
+
+Susa is mentioned in the Ketuvim of the Hebrew Bible by the name Shushan, mainly in the Book of Esther, but also once each in the books of Ezra (Ezra 4:9), Nehemiah (Nehemiah 1:1) and Daniel (Daniel 8:2). According to these texts, Nehemiah lived in Susa during the Babylonian captivity of the 6th century BC (Daniel mentions it in a prophetic vision), while Esther became queen there, married to King Ahasuerus, and saved the Jews from genocide. A tomb presumed to be that of Daniel is located in the area, known as Shush-Daniel. However, a large portion of the current structure is actually a much later construction dated to the late nineteenth century, circa 1871.
+
+Excavation history
+
+The site was examined in 1836 by Henry Rawlinson and then by A. H. Layard. In 1851, some modest excavation was done by William Loftus, accompanied by Fenwick Williams, who identified it as Susa. Among his finds was a jar containing around 110 coins, the earliest of which was dated to 697-98 AD.
+
+In 1885 and 1886 Marcel-Auguste Dieulafoy and Jane Dieulafoy began the first French excavations, discovering glazed bricks, column bases, and capitals from the palace of the Achaemenid kings. However, they failed to identify mudbrick walls, which were then destroyed in the course of excavation. Almost all of the excavations at Susa, post-1885, were organized and authorized by the French government.
+
+In two treaties in 1894 and 1899, the French gained a monopoly on all archaeological excavations in Iran indefinitely. Jacques de Morgan, after visiting the site in 1891, conducted major excavations from 1897 until 1911. The excavations that were conducted in Susa brought many artistic and historical artifacts back to France. These artifacts filled multiple halls in the Museum of the Louvre throughout the late 1890s and early 1900s. De Morgan's most important work was the excavation of the Grande Tranchée in the Acropole mound, where he found the stele of Naram-Sin, a collection of Babylonian kudurrus (boundary stones), the stele bearing the Code of Hammurabi, an ornamented bronze table of snakes, the bronze statue of Queen Napir-Asu, and thousands of inscribed bricks. His finds showed Susa to be the most important center of Elamite civilization, which was effectively discovered by the French mission at Susa.
+
+Excavation efforts continued under Roland De Mecquenem until 1914, at the beginning of World War I. French work at Susa resumed after the war, led by De Mecquenem, continuing until World War II in 1940. To supplement the original publications of De Mecquenem the archives of his excavation have now been put online thanks to a grant from the Shelby White Levy Program.
+
+Roman Ghirshman took over direction of the French efforts in 1946, after the end of the war. Together with his wife Tania Ghirshman, he continued there until 1967. The Ghirshmans concentrated on excavating a single part of the site, the hectare sized Ville Royale, taking it all the way down to bare earth. The pottery found at the various levels enabled a stratigraphy to be developed for Susa.
+
+From 1969 until 1979 excavations were conducted under Jean Perrot. In 2019 the Susa salvage project was launched to counter the construction of a transportation underpass in the vicinity of the site.
+
+History
+
+Early settlement
+
+In urban history, Susa is one of the oldest-known settlements of the region. Based on calibrated carbon-14 dating, the foundation of a settlement there occurred as early as 4395 BC. In the region around Susa were a number of towns (with their own platforms) and villages that maintained a trading relationship with the city, especially those along the Zagro frontier.
+
+The founding of Susa corresponded with the abandonment of nearby villages. Potts suggests that the settlement may have been founded to try to reestablish the previously destroyed settlement at Chogha Mish, about 25 km to the west. Previously, Chogha Mish was a very large settlement, and it featured a similar massive platform that was later built at Susa. Another important settlement in the area is Chogha Bonut, which was discovered in 1976.
+
+Susa I period (4200–3800 BC)
+
+Shortly after Susa was first settled over 6000 years ago, its inhabitants erected a monumental platform that rose over the flat surrounding landscape. The exceptional nature of the site is still recognizable today in the artistry of the ceramic vessels that were placed as offerings in a thousand or more graves near the base of the temple platform. 
+
+Susa's earliest settlement is known as the Susa I period (c. 4200–3900 BC). Two settlements named by archaeologists the Acropolis (7 ha) and the Apadana (6.3 ha), would later merge to form Susa proper (18 ha). The Apadana was enclosed by 6 metre thick walls of rammed earth (this particular place is named Apadana because it also contains a late Achaemenid structure of this type).
+
+Nearly two thousand pots of Susa I style were recovered from the cemetery, most of them now in the Louvre. The vessels found are eloquent testimony to the artistic and technical achievements of their makers, and they hold clues about the organization of the society that commissioned them. Painted ceramic vessels from Susa in the earliest first style are a late, regional version of the Mesopotamian Ubaid ceramic tradition that spread across the Near East during the fifth millennium BC. Susa I style was very much a product of the past and of influences from contemporary ceramic industries in the mountains of western Iran. The recurrence in close association of vessels of three types—a drinking goblet or beaker, a serving dish, and a small jar—implies the consumption of three types of food, apparently thought to be as necessary for life in the afterworld as it is in this one. 
+
+Ceramics of these shapes, which were painted, constitute a large proportion of the vessels from the cemetery. Others are coarse cooking-type jars and bowls with simple bands painted on them and were probably the grave goods of the sites of humbler citizens as well as adolescents and, perhaps, children. The pottery is carefully made by hand. Although a slow wheel may have been employed, the asymmetry of the vessels and the irregularity of the drawing of encircling lines and bands indicate that most of the work was done freehand.
+
+Metallurgy
+
+Copper metallurgy is also attested during this period, which was contemporary with metalwork at some highland Iranian sites such as Tepe Sialk. As many as 40 copper axes have been found at the Susa cemetery, as well as 10 round discs probably used as mirrors. Many awls and spatulas were also found. 
+
+"Metal finds from the burials in Susa are the major metal assemblage from the end of the 5th millennium BCE. Strata 27 to 25 contained the earliest burials with a large number of axes, made from unalloyed copper and copper with elevated As [Arsenic] levels."
+
+The cemetery of Chega Sofla, from the same timeframe, provides a lot of similar material, with many sophisticated metal objects. Chega Sofla is located in the same geographical area. 
+
+Old Elamite period (c. 2700–1500 BC)
+
+The Old Elamite period began around 2700 BC. Historical records mention the conquest of Elam by Enmebaragesi, the Sumerian king of Kish in Mesopotamia. Three dynasties ruled during this period. Twelve kings of each of the first two dynasties, those of Awan (or Avan; c. 2400–2100 BC) and Shimashki (c. 2100–1970 BC), are known from a list from Susa dating to the Old Babylonian period. 
+
+Susa was the capital of an Akkadian province until ca. 2100 BC, when its governor, Kutik-Inshushinak, rebelled and made it an independent state and a literary center. Also, he was the last from the Awan dynasty according to the Susa kinglist. He unified the neighbouring territories and became the king of Elam. The city was subsequently conquered by the neo-Sumerian Third Dynasty of Ur and held until Ur finally collapsed at the hands of the Elamites under Kindattu in ca. 2004 BC. At this time, Susa was ruled by Elam again and became its capital under the Shimashki dynasty.
+
+Indus-Susa relations (2400–2100 BC)
+
+Numerous artifacts of Indus Valley civilization origin have been found in Susa from this period, especially seals and etched carnelian beads, pointing to Indus-Mesopotamia relations during this period.
+Impression of an Indus cylinder seal discovered in Susa, in strata dated to 2400–2100 BC. Elongated buffalo with line of standard Indus script signs. Tell of the Susa acropolis. Louvre Museum, reference Sb 2425. Indus script numbering convention per Asko Parpola.
+
+Indus round seal with impression. Elongated buffalo with Harappan script imported to Susa in 2340–2200 BC. Found in the tell of the Susa acropolis. Louvre Museum, reference Sb 5614.
+
+Indian carnelian beads with white design, etched in white with an alkali through a heat process, imported to Susa in 2400–2100 BC. Found in the tell of the Susa acropolis. Louvre Museum, reference Sb 17751. These beads are identical with beads found in the Indus Civilization site of Dholavira.
+
+Indus bracelet, front and back, made of Pleuroploca trapezium or Turbinella pyrum imported to Susa in 2400–2100 BC. Found in the tell of the Susa acropolis. Louvre Museum, reference Sb 14473. This type of bracelet was manufactured in Mohenjo-daro, Lothal and Balakot. The back is engraved with an oblong chevron design which is typical of shell bangles of the Indus Civilization.
+
+Indus Valley Civilization carnelian beads excavated in Susa.
+
+Jewelry with components from the Indus, Central Asia and Northern-eastern Iran found in Susa dated to 2400–2100 BC. Louvre - SB 13099; N 601.
+
+Around 1500 BC, the Middle Elamite period began with the rise of the Anshanite dynasties. Their rule was characterized by an "Elamisation" of Susa, and the kings took the title "king of Anshan and Susa". While, previously, the Akkadian language was frequently used in inscriptions, the succeeding kings, such as the Igihalkid dynasty of c. 1400 BC, tried to use Elamite. Thus, Elamite language and culture grew in importance in Susiana. This was also the period when the Elamite pantheon was being imposed in Susiana. This policy reached its height with the construction of the political and religious complex at Chogha Zanbil, 30 km (19 mi) south-east of Susa.
+
+In ca. 1175 BC, the Elamites under Shutruk-Nahhunte plundered the original stele bearing the Code of Hammurabi and took it to Susa. Archeologists found it in 1901. Nebuchadnezzar I of the Babylonian empire plundered Susa around fifty years later.
+
+An ornate design on this limestone ritual vat from the Middle Elamite period depicts creatures with the heads of goats and the tails of fish, Susa, 1500–1110 BC.
+
+The Ziggurat at Chogha Zanbil was built by Elamite king Untash-Napirisha circa 1300 BC.
+
+Susa, Middle-Elamite model of a sun ritual, circa 1150 BC.
+
+In 647 BC, Neo-Assyrian king Ashurbanipal leveled the city during a war in which the people of Susa participated on the other side. A tablet unearthed in 1854 by Austen Henry Layard in Nineveh reveals Ashurbanipal as an "avenger", seeking retribution for the humiliations that the Elamites had inflicted on the Mesopotamians over the centuries:
+
+"Susa, the great holy city, abode of their gods, seat of their mysteries, I conquered. I entered its palaces, I opened their treasuries where silver and gold, goods and wealth were amassed. . . .I destroyed the ziggurat of Susa. I smashed its shining copper horns. I reduced the temples of Elam to naught; their gods and goddesses I scattered to the winds. The tombs of their ancient and recent kings I devastated, I exposed to the sun, and I carried away their bones toward the land of Ashur. I devastated the provinces of Elam and, on their lands, I sowed salt."
+
+Assyrian rule of Susa began in 647 BC and lasted till Median capture of Susa in 617 BC.
+
+Susa underwent a major political and ethnocultural transition when it became part of the Persian Achaemenid empire between 540 and 539 BC when it was captured by Cyrus the Great during his conquest of Elam (Susiana), of which Susa was the capital. The Nabonidus Chronicle records that, prior to the battle(s), Nabonidus had ordered cult statues from outlying Babylonian cities to be brought into the capital, suggesting that the conflict over Susa had begun possibly in the winter of 540 BC.
+
+It is probable that Cyrus negotiated with the Babylonian generals to obtain a compromise on their part and therefore avoid an armed confrontation. Nabonidus was staying in the city at the time and soon fled to the capital, Babylon, which he had not visited in years. Cyrus' conquest of Susa and the rest of Babylonia commenced a fundamental shift, bringing Susa under Persian control for the first time. Strabo stated that Cyrus made Susa an imperial capital though there was no new construction in that period so this is in dispute.
+
+Under Cyrus' son Cambyses II, Susa became a center of political power as one of four capitals of the Achaemenid Persian empire, while reducing the significance of Pasargadae as the capital of Persis. Following Cambyses' brief rule, Darius the Great began a major building program in Susa and Persepolis, which included building a large palace. During this time he describes his new capital in an inscription:
+
+"This palace which I built at Susa, from afar its ornamentation was brought. Downward the earth was dug, until I reached rock in the earth. When the excavation had been made, then rubble was packed down, some 40 cubits in depth, another part 20 cubits in depth. On that rubble the palace was constructed."
+
+The city forms the setting of The Persians (472 BC), an Athenian tragedy by the ancient Greek playwright Aeschylus that is the oldest surviving play in the history of theatre.
+
+Events mentioned in the Old Testament book of Esther are said to have occurred in Susa during the Achaemenid period. The King Ahasuerus mentioned in that book may refer to Xerxes I (486-465 BC).
+
+Susa lost much of its importance after the invasion of Alexander the Great of Macedon in 331 BC. In 324 BC he met Nearchus here, who explored the Persian Gulf as he returned from the Indus River by sea. In that same year Alexander celebrated in Susa with a mass wedding between the Persians and Macedonians.
+
+The city retained its importance under the Seleucids for approximately one century after Alexander, however Susa lost its position of imperial capital to Seleucia on the Tigris to become the regional capital of the satrapy of Susiana. Nevertheless, Susa retained its economic importance to the empire with its vast assortment of merchants conducting trade in Susa, using Charax Spasinou as its port.
+
+The city was named Seleucia on the Eulaeus or Seleucia ad Eulaeum. Seleucus I Nicator minted coins there in substantial quantities. Susa is rich in Greek inscriptions, perhaps indicating a significant number of Greeks living in the city. Especially in the royal city large, well-equipped peristyle houses have been excavated.
+
+Around 147 BC Susa and the adjacent Elymais broke free from the Seleucid Empire. The city was at least temporarily ruled by the rulers of the Elymais with Kamnaskires II Nikephoros minting coins there. The city may again have briefly returned to Seleucid rule, but starting with Phraates II (about 138–127 BC) to Gotarzes II (about 40–51 AD) almost all rulers of the Parthian Empire coined coins in the city, indicating that it was firmly in the hands of the Parthians at least during this period. The city however retained a considerable amount of independence and retained its Greek city-state organization well into the ensuing Parthian period. From second half of the first century it was probably partly governed by rulers of Elymais again, but it became Parthian once again in 215.
+
+Susa was a frequent place of refuge for Parthian and later, the Persian Sassanid kings, as the Romans sacked Ctesiphon five different times between 116 and 297 AD. Susa was briefly captured in 116 AD by the Roman emperor Trajan during the course of his Parthian campaign. Never again would the Roman Empire advance so far to the east.
+
+Suzan was conquered and destroyed in 224 AD by the Sassanid Ardashir I, but rebuilt immediately thereafter, and perhaps even temporarily a royal residence. According to a later tradition, Shapur I is said to have spent his twilight years in the city, although this tradition is uncertain and perhaps refers more to Shapur II.
+
+Under the Sassanids, following the founding of Gundeshapur Susa slowly lost its importance. Archaeologically, the Sassanid city is less dense compared to the Parthian period, but there were still significant buildings, with the settlement extending over 400 hectares. Susa was also still very significant economically and a trading center, especially in gold trading. Coins also continued to be minted in the city. The city had a Christian community in a separate district with a Nestorian bishop, whose last representative is attested to in 1265. Archaeologically a stucco panel with the image of a Christian saint has been found.
+
+During the reign of Shapur II after Christianity became the state religion of the Roman Empire in 312, and the identification of Christians as possible collaborators with the enemy Christians living in the Sasanian Empire were persecuted from 339 onwards. Shapur II also imposed a double tax on the Christians during his war campaign against the Romans. Following a rebellion of Christians living in Susa, the king destroyed the city in 339 using 300 elephants. He later had the city rebuilt and resettled with prisoners of war and weavers, which is believed to have been after his victory over the Romans in Amida in 359. The weaver produced silk brocade. He renamed it Eran-Khwarrah-Shapur ("Iran's glory [built by] Shapur").
+
+During the Muslim conquest of Persia an Arab army invaded Khuzistan under the command of Abu Musa al-Ash'ari. After taking most of the smaller fortified towns the army captured Tustar in 642 before proceeding to besiege Susa. A place of military importance, it also held the tomb of the Jewish prophet Daniel. Two stories are given in the Muslim sources of how the city fell. In the first, a Persian priest proclaimed from the walls that only a dajjal was fated to capture the city. A dajjal is an Islamic term for an Al-Masih ad-Dajjal, a false messiah, compatible to the Antichrist in Christianity. In everyday use, it also means "deceiver" or "imposter". Siyah, a Persian general who had defected to Muslim side, claimed that by converting to Islam he had turned his back on Zoroastrianism and was thus a dajjal. Abu Musa agreed to Siyah's plan. Soon after as the sun came up one morning, the sentries on the walls saw a man in a Persian officer's uniform covered in blood lying on the ground before the main gate. Thinking it he had been left out overnight after a conflict the previous day, they opened the gate and some came out to collect him. As they approached, Siyah jumped up and killed them. Before the other sentries had time to react, Siyah and a small group of Muslim soldiers hidden nearby charged through the open gate. They held the gate open long enough for Muslim reinforcements to arrive and passing through the gate to take the city.
+
+In the other story, once again the Muslims were taunted from the city wall that only an Al-Masih ad-Dajjal could capture the city, and since there were none in the besieging army then they may as well give up and go home. One of the Muslim commanders was so angry and frustrated at this taunt that he went up to one of the city gates and kicked it. Instantly the chains snapped, the locks broke and it fell open.
+
+Following their entry into the city, the Muslims killed all of the Persian nobles. Once the city was taken, as Daniel was not mentioned in the Qur'an, the initial reaction of the Muslim was to destroy the cult by confiscating the treasure that had stored at the tomb since the time of the Achaemenids. They then broke open the silver coffin and carried off the mummified corpse, removing from the corpse a signet ring, which carried an image of a man between two lions. However, upon hearing what had happened, the caliph Umar ordered the ring to be returned and the body reburied under the riverbed. In time, Daniel became a Muslim cult figure and they as well as Christians began making pilgrimages to the site, despite several other places claiming to be the site of Daniel's grave.
+
+Following the capture of Susa, the Muslims moved on to besiege Gundeshapur. Susa recovered following its capture and remained a regional center of more than 400 hectares in size. A mosque was built, but also Nestorian bishops are still testifie. In addition, there was a Jewish community with its own synagogue. The city continued to be a manufacturing center of luxury fabrics during this period. Archaeologically, the Islamic period is characterized mainly by its rich ceramics. Beth Huzaye (East Syrian Ecclesiastical Province) had a significant Christian population during the first millennium, and was a diocese of the Church of the East between the 5th and 13th centuries, in the metropolitan province of Beth Huzaye (Elam).
+
+In 1218, the city was razed by invading Mongols and was never able to regain its previous importance. The city further degraded in the 15th century when the majority of its population moved to Dezful.
+
+Today the ancient center of Susa is unoccupied, with the population living in the adjacent modern Iranian town of Shush to the west and north of the historic ruins. Shush is the administrative capital of Shush County in Iran's Khuzestan province. It had a population of 64,960 in 2005.
+
+In July 2015, it was inscribed on the list of World Heritage Sites by UNESCO.
+
+Today the ancient center of Susa is unoccupied, with the population living in the adjacent modern Iranian town of Shush to the west and north of the historic ruins. Shush is the administrative capital of Shush County in Iran's Khuzestan province. It had a population of 64,960 in 2005.
+c
+Mousavi, Ali (21 June 2013). The History of Archaeological Research in Iran. Oxford University Press. doi:10.1093/oxfordhb/9780199733309.013.0003.
+
+Peters, John P. (1915). "Excavations in Persia". The Harvard Theological Review. 8 (1): 82–93. doi:10.1017/S0017816000008336. ISSN 0017-8160. JSTOR 1507314. S2CID 163892909.
+
+"M. J. DE MORGAN'S EXCAVATIONS IN THE AKROPOLIS AND PALACES OF SUSA", Scientific American, vol. 82, no. 11, pp. 169–70, 1900.
+
+V. Scheil, "Excavations Made by the French in Susa and Babylonia, 1902-1903", The Biblical World, vol. 24, no. 2, pp. 146-152, Aug 1904 JSTOR.
+
+R. de Mecquenem, "Excavations at Susa (Persia), 1930–1931", Antiquity, vol. 5, iss. 19, September 1931.
+
+[3], Jacques de Morgan, Fouilles à Suse en 1897–1898 et 1898–1899, Mission archéologique en Iran, Mémoires I, 1990.
+
+[4], Jacques de Morgan, Fouilles à Suse en 1899–1902, Mission archéologique en Iran, Mémoires VII, 1905.
+
+Robert H. Dyson, Early Work on the Acropolis at Susa. The Beginning of Prehistory in Iraq and Iran, Expedition, vol. 10, no. 4, pp. 21–34, 1968.
+
+[5] Roland de Mecquenem: Archives de Suse (1912–1939) - Unpublished excavation archive (French).
+
+Ghirshman, Roman, "The Elamite Levels at Susa and Their Chronological Significance", American Journal of Archaeology, vol. 74, no. 3, pp. 223–25, 1970.
+
+Roman Ghirshman, Suse au tournant du III au II millenaire avant notre ere, Arts Asiatiques, vol. 17, pp. 3–44, 1968.
+
+Hermann Gasche, "Ville Royale de Suse: vol I: La poterie elamite du deuxieme millenaire A.C.", Mission archéologique en Iran, Mémoires 47, Librairie Orientaliste Paul Geuthner, 1973 ISBN 978-9004038264.
+
+M. Steve and Hermann H. Gasche, "L'Acropole de Suse: Nouvelles fouilles (rapport preliminaire)", Memoires de la Delegation archeologique en Iran, vol. 46, Geuthner, 1971.
+
+Jean Perrot, Les fouilles de Suš en 1975, Annual Symposium on Archaeological Research in Iran 4, pp. 224–231, 1975.
+
+D. Canal, La haute terrase de l'Acropole de Suse, Paléorient, vol. 4, pp. 169–176, 1978.
+
+SORAGHI, S., & ZEYNIVAND, M., "The Susa salvage project in 2019, southwestern Iran", Historia I Świat, 11, pp. 71–79, 2022 https://doi.org/10.34739/his.2022.11.04.
+
+Potts: Elam, pp. 46.
+
+Wright, Henry T., "The Zagros Frontiers of Susa during the Late 5th Millennium", Paléorient, vol. 36, no. 1, pp. 11–21, 2010.
+
+Potts: Elam.
+
+Alizadeh, Abbas (2003). Excavations at the prehistoric mound of Chogha Bonut, Khuzestan, Iran: seasons 1976/77, 1977/78, and 1996. University of Chicago Oriental Institute publications. Chicago, Ill: Oriental Institute of the University of Chicago in Association with the Iranian Cultural Heritage Organization. ISBN 978-1-885923-23-3. OCLC 53122624.
+
+[6] Hole, Frank. "A Monumental Failure: The Collapse of Susa". In Robin A. Carter and Graham Philip, eds., Beyond the Ubaid: Transformation and Integration of Late Prehistoric Societies of the Middle East, pp. 221–226, Studies in Oriental Civilization, no. 63, Chicago: Oriental Institute of the University of Chicago, 2010.
+
+Hole, Frank, "The Organization of Ceramic Production during the Susa I Period", Paléorient, vol. 36, no. 1, pp. 23–36, 2010.
+
+Aruz, Joan (1992). The Royal City of Susa: Ancient Near Eastern Treasures in the Louvre. New York: Abrams. p. 26.
+
+Aruz, Joan (1992). The Royal City of Susa: Ancient Near Eastern Treasures in the Louvre. New York: Abrams. p. 29.
+
+Thomas Rose 2022, Emergence of copper pyrotechnology in Western Asia. PhD thesis, Beer-Sheva. 342pp.
+
+Rosenstock, E., Scharl, S., Schier, W., 2016. Ex oriente lux? Ein Diskussionsbeitrag zur Stellung der frühen Kupfermetallurgie Südosteuropas, in: Bartelheim, M., Horejs, B., Krauß, R. (Eds.), Von Baden bis Troia, Oriental and European Archaeology. Leidorf, Rahden/Westf., pp. 59–122. p. 75.
+
+Moghaddam, A., Miri, N., 2021. Tol-e Chega Sofla Cemetery: A Phenomenon in the Context of Late 5th Millennium Southwest Iran, in: Abar, A., D’Anna, M.B., Cyrus, G., Egbers, V., Huber, B., Kainert, C., Köhler, J., Öğüt, B., Rol, N., Russo, G., Schönicke, J., Tourtet, F. (Eds.), Pearls, politics and pistachios. Ex oriente, Berlin, pp. 47–60. https://doi.org/10.11588/propylaeum.837.c10734.
+
+D. T. Potts, The Archaeology of Elam: Formation and Transformation of an Ancient Iranian State. Cambridge World Archaeology. Cambridge University Press, 2015 ISBN 1107094690 p58.
+
+Daniel T. Potts, The Archaeology of Elam: Formation and Transformation of an Ancient Iranian State. Cambridge World Archaeology. Cambridge University Press, 2015 ISBN 1107094690 pp 58–61.
+
+F. Desset, An Architectural Pattern in Late Fourth-Millennium BC Western Iran: A New Link Between Susa, Tal-I Malyan, and Godin Tepe, Iran, vol. 52, iss. 1, pp. 1–18, 2014.
+
+Lawler, Andrew. 2003. Uruk: Spreading Fashion or Empire. Science. Volume 302, pp. 977–978.
+
+Álvarez-Mon, Javier (2020). The Art of Elam CA. 4200–525 BC. Routledge. p. 101. ISBN 978-1-000-03485-1.
+
+Cheng, Jack; Feldman, Marian (2007). Ancient Near Eastern Art in Context: Studies in Honor of Irene J. Winter by her Students. BRILL. p. 48. ISBN 978-90-474-2085-9.
+
+Álvarez-Mon, Javier (2020). The Art of Elam CA. 4200–525 BC. Routledge. p. 93. ISBN 978-1-000-03485-1.
+
+Álvarez-Mon, Javier (2020). The Art of Elam CA. 4200–525 BC. Routledge. p. 101. ISBN 978-1-000-03485-1.
+
+Álvarez-Mon, Javier (2020). The Art of Elam CA. 4200–525 BC. Routledge. p. 97. ISBN 978-1-000-03485-1.
+
+Álvarez-Mon, Javier (2020). The Art of Elam CA. 4200–525 BC. Routledge. p. 110. ISBN 978-1-000-03485-1.
+
+D. T. Potts, A Companion to the Archaeology of the Ancient Near East. Volume 94 of Blackwell Companions to the Ancient World. John Wiley & Sons, 2012 ISBN 1405189886 p. 743.
+
+Per Sumerian King List.
+
+Translation of the Akkadian portion into French, in Mémoires. Paris: P. Geuthner. 1899. pp. 4–7.
+
+Aruz, Joan; Fino, Elisabetta Valtz (2001). "Ancient near Eastern Art". The Metropolitan Museum of Art Bulletin. 59 (1): 8. doi:10.2307/3269163. ISSN 0026-1521. JSTOR 3269163.
+
+Mikołajczak, Tytus K. (2011). "Elam and Persia. Edited by Javier Álvarez-Mon and Mark B. Garrison. Winona Lake, IN: Eisenbrauns, 2011. pp. xviii + 493. $89.50 (cloth)". Journal of Near Eastern Studies. 72 (2): 284–289. doi:10.1086/671453. ISSN 0022-2968.
+
+FOSTER, BENJAMIN R, "'International' Trade at Sargonic Susa (Susa in the Sargonic Period III)", Altorientalische Forschungen, vol. 20, no. 1, pp. 59-68, 1993.
+
+Potts: Elam, pp. 364.
+
+"Awan King List". Archived from the original on 3 August 2021. Retrieved 2 August 2020.
+
+SCHEIL, V. (1931). "Dynasties Élamites d'Awan et de Simaš". Revue d'Assyriologie et d'archéologie orientale. 28 (1): 1–46. ISSN 0373-6032. JSTOR 23283945.
+
+Potts: Elam, pp. 122.
+
+Site officiel du musée du Louvre.
+
+Marshall, John (1996). Mohenjo-Daro and the Indus Civilization: Being an Official Account of Archaeological Excavations at Mohenjo-Daro Carried Out by the Government of India Between the Years 1922 and 1927. Asian Educational Services. p. 425. ISBN 9788120611795.
+
+Marshall, John (1996). Mohenjo-Daro and the Indus Civilization: Being an Official Account of Archaeological Excavations at Mohenjo-Daro Carried Out by the Government of India Between the Years 1922 and 1927. Asian Educational Services. p. 425. ISBN 9788120611795.
+
+"Corpus by Asko Parpola". Mohenjodaro.
+
+Also, for another numbering scheme: Mahadevan, Iravatham (1987). The Indus Script. Text, Concordance And Tables Iravathan Mahadevan. Archaeological Survey of India. pp. 32–36.
+
+"Louvre Museum - cachet -2340 / -2200 (Akkad) - Lieu de création: Vallée de l'Indus - Lieu de découverte: Suse - SB 5614; AS 15374".
+
+Guimet, Musée (2016). Les Cités oubliées de l'Indus: Archéologie du Pakistan (in French). FeniXX réédition numérique. pp. 354–355. ISBN 9782402052467.
+
+Art of the first cities: the third millennium B.C. from the Mediterranean to the Indus. p. 395.
+
+Nandagopal, Prabhakar (13 August 2018). Decorated Carnelian Beads from the Indus Civilization Site of Dholavira (Great Rann of Kachchha, Gujarat). Archaeopress Publishing Ltd. ISBN 978-1-78491-917-7.
+
+"Louvre Museum Official Website". cartelen.louvre.fr.
+
+Guimet, Musée (2016). Les Cités oubliées de l'Indus: Archéologie du Pakistan (in French). FeniXX réédition numérique. p. 355. ISBN 9782402052467.
+
+Art of the first cities: the third millennium B.C. from the Mediterranean to the Indus. p. 398.
+
+"Persians: Masters of Empire" ISBN 0-8094-9104-4 p. 7-8.
+
+Tavernier, Jan. "Some Thoughts in Neo-Elamite Chronology" (PDF). p. 27.
+
+Kuhrt, Amélie. "Babylonia from Cyrus to Xerxes", in The Cambridge Ancient History: Vol IV — Persia, Greece and the Western Mediterranean, pp.112–138. Ed. John Boardman. Cambridge University Press, 1982. ISBN 0-521-22804-2.
+
+Tolini, Gauthier, Quelques éléments concernant la prise de Babylone par Cyrus, Paris. "Il est probable que des négociations s'engagèrent alors entre Cyrus et les chefs de l'armée babylonienne pour obtenir une reddition sans recourir à l'affrontement armé." p. 10 (PDF).
+
+The Harran Stelae H2 – A, and the Nabonidus Chronicle (Seventeenth year) show that Nabonidus had been in Babylon before 10 October 539, because he had already returned from Harran and had participated in the Akitu of Nissanu 1 [4 April], 539 BC.
+
+Waters, Matt, "CYRUS AND SUSA", Revue d'Assyriologie et d'archéologie Orientale, vol.102, pp.115–18, 2008.
+
+Unvala, J. M., "The Palace of Darius the Great and the Apadāna of Artaxerxes II in Susa", Bulletin of the School of Oriental Studies, University of London, vol.5, no.2, pp.229–32, 1929.
+
+Kent, Roland G., "The Record of Darius's Palace at Susa", Journal of the American Oriental Society, vol. 53, no. 1, pp. 1–23, 1933.
+
+van Oppen de Rutter, Branko F., "THE SUSA MARRIAGES — A HISTORIOGRAPHICAL NOTE", Ancient Society, vol. 44, pp. 25–41, 2014.
+
+Capdetrey, Laurent (2007). Le Pouvoir Séleucide. Rennes: Presses universitaires de Rennes. p. 252. ISBN 978-2-753505-24-7.
+
+Boyce, Mary; Grenet, Frantz (1 January 1991), "On the Western Edge of the Iranian Plateau: Susa and Elymais", A History of Zoroastrianism, Zoroastrianism under Macedonian and Roman Rule, Brill, pp. 35–48, doi:10.1163/9789004293915_004, ISBN 9789004293915.
+
+Marest-Caffey, Laure (2016). "Seleukos I's Victory Coinage of Susa Revisited: A Die Study and Commentary". American Journal of Numismatics. 28: 1–63.
+
+Hill, John E. (2009). Through the Jade Gate to Rome: A Study of the Silk Routes during the Later Han Dynasty, First to Second Centuries CE. Charleston: BookSurge. ISBN 978-1-4392-2134-1.
+
+Potts: Elam, pp. 354-409.
+
+Le Rider, Georges (1965). Mémoires de la Délégation archéologique en Iran XXXVIII: Suse sous les Séleucides et les Parthes. Paris. pp. 349–430.
+
+Rawlinson, George (2007). Parthia. New York: Cosimo. p. 310. ISBN 978-1-60206-136-1.
+
+Robert J. Wenke, Elymeans, Parthians, and the Evolution of Empires in Southwestern Iran, Journal of the American Oriental Society, vol. 101, no. 3, pp. 303–315, 1981.
+
+Neusner, Jacob (1972). "Babylonian Jewry And Shapur Ii's Persecution of Christianity From 339 to 379 CE". Hebrew Union College Annual. 43. Hebrew Union College Press: 77–102.
+
+Harper, Prudence; Aruz, Joan; Tallon, Frangoise (1993). The Royal City of Susa: Ancient Near Eastern Treasures in the Louvre. New York: The Metropolitan Museum of Art. p. 162.
+
+Potts: Elam, pp. 429.
+
+Daryaee, Touraj (2009). "SHAPUR II". Encyclopaedia Iranica.
+
+Crawford, Peter (2013). The War of the Three Gods: Romans, Persians and the Rise of Islam. Barnsley: Pen & Sword Military. pp. 183–184. ISBN 978-1-84884-612-8.
+
+Kennedy, Hugh (2007). The Great Arab Conquests: How the Spread of Islam Changed the World We Live In. London: Weidenfeld & Nicolson. pp. 128–129. ISBN 978-0-297-84657-4.
+
+Amiet, Pierre (1972). Mémoires de la Délégation archéologique en Iran: Glyptique susienne des origines à l'époque des Perses achéménides: cachets, sceaux-cylindres et empreintes antiques découverts à Suse de 1913 à 1967. Paris: P. Geuthner.
+Wikimedia Commons has media related to Susa.
+
+External links
+
+1. Hinz, Walther; Koch, Heidemarie (1987). Elamisches Wörterbuch [Elamite Wordbook] (in German). Vol. 2. Berlin, Germany: Dietrich Reimer Verlag.
+2. "Early Works on the Acropolis at Susa" Expedition Magazine 10.4 1968.
+3. Royal City of Susa: Ancient Near Eastern Treasures in the Louvre - Metropolitan Museum - 1992.
+4. Aerial views of Susa at the Oriental Institute.
+5. Digital Images of Cuneiform Tablets from Susa – CDLI.
+6. Hamid-Reza Hosseini, Shush at the foot of Louvre (Shush dar dāman-e Louvre), in Persian, Jadid Online, 10 March 2009.
+7. Archaeological findings may push back Susa's history by millennia - Tehran Times - August 21, 2022.
+
+Iranian architecture
+
+Periods
+- Pre-Islamic
+  - Achaemenid
+  - Parthian style
+  - Sasanian
+
+- Islamic
+  - Early Islamic
+  - Seljuk
+  - Ilkhanid
+  - Timurid
+  - Safavid
+
+Types
+- Bazaars
+- Caravanserais
+- Khaneqah
+- Mosques
+- Takyeh
+
+Elements
+- Ab anbar
+- Andaruni
+- Biruni
+- Burj
+- Chahartaq
+- Dalan e Vorudi
+- Gonbad
+- Hashti
+- Howz
+- Imamzadeh
+- Iwan
+- Kariz
+- Kucheh
+- Panjdari
+- Persian Garden (hayāt)
+- Qanat
+- Sahn
+- Shabestan
+- Talar
+- Windcatchers
+- Yakhchāl
+
+Traditional cities
+- Amol
+- Andijan
+- Baku
+- Bam
+- Bukhara
+- Ctesiphon
+- Derbent
+- Ganja
+- Gur-e-Amir
+- Hatra
+- Herat
+- Isfahan
+- Kashan
+- Kashmar
+- Khiva
+- Khorramabad
+- Mashhad
+- Merv
+- Nakhchivan
+- Nishapur
+- Persepolis
+- Qazvin
+- Qom
+- Samarkand
+- Shahrisabz
+- Shiraz
+- Susa
+- Tabriz
+- Takht-e Soleymān
+- Tehran
+- Yazd
+
+Theory and analysis
+- Islamic architecture
+- Traditional Persian residential architecture
+- Traditional water sources of Persian antiquity
+
+Lists
+- Architects of Iran
+- Arg s, castles, and ghal'eh s
+- List of ab anbars of Qazvin
+- List of mosques
+- List of ziyarat-gahs
+
+World Heritage Sites in Iran
+
+Cultural
+1. The Armenian Monastic Ensembles
+   - St. Thaddeus Monastery
+   - St. Stepanos Monastery
+   - Chapel of Dzordzor
+   - Chapel of Chupan
+   - Church of the Holy Mother of God
+2. Bam and its cultural landscape
+3. Behistun
+4. Chogha Zanbil
+5. Cultural landscape of Maymand
+6. Golestan Palace
+7. Gonbad-e Qabus
+8. Jameh Mosque of Isfahan
+9. Naqsh-e Jahan Square
+10. Pasargadae
+11. Persepolis
+12. Persian gardens
+    - Pasargadae
+    - Chehel Sotoun
+    - Fin
+    - Eram
+    - Shazdeh
+    - Dolatabad
+    - Abbasabad
+    - Akbarieh
+    - Pahlevanpour
+13. Shahr-e Sukhteh
+14. Sheikh Safi's Tomb
+15. Dome of Soltaniyeh
+16. Shushtar Historical Hydraulic System
+17. Susa
+18. Bazaar of Tabriz
+19. Takht-e Soleymān
+20. Persian Qanat
+
+Natural
+1. Lut Desert
+2. Hyrcanian Forests
+
+Rulers of the ancient Near East
+
+Territories/dates
+- Egypt
+- Canaan
+- Ebla
+- Mari
+- Kish/Assur
+- Akshak/Akkad
+- Uruk
+- Adab
+- Umma
+- Lagash
+- Ur
+- Elam
+
+1. Naqada I
+2. Naqada II
+3. Uruk period
+4. Susa I
+5. Susa II
+6. Proto-Dynastic period
+7. Upper Egypt
+8. Lower Egypt
+9. Early Dynastic Period
+10. Jemdet Nasr period
+11. Proto-Elamite period
+
+List of different dynasties and notable kings in ancient civilizations appears throughout the document.
+
+Note: Specific hyperlinks and images referenced in the original HTML content have been omitted since this is verbatim textual content.
+30px-Ur-Nanshe.jpg" decoding="async" width="30" height="42" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ur-Nanshe.jpg/45px-Ur-Nanshe.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ur-Nanshe.jpg/60px-Ur-Nanshe.jpg 2x" data-file-width="663" data-file-height="918" /> Akurgal
+
+A'annepada
+Meskiagnun
+Elulu
+Balulu
+
+Awan dynasty
+Peli
+Tata
+Ukkutahesh
+Hishur
+
+2450 BCE
+
+Fifth Dynasty of Egypt
+
+Userkaf Sahure Neferirkare Kakai Neferefre Shepseskare Nyuserre Ini Menkauhor Kaiu Djedkare Isesi Unas
+
+Enar-Damu
+Ishar-Malik
+
+Ush
+Enakalle
+
+Elamite invasions (3 kings)
+
+Shushun-tarana
+Napilhush
+
+2425 BCE
+Kun-Damu
+
+Eannatum (King of Lagash, Sumer, Akkad, conqueror of Elam)
+
+2400 BCE
+Adub-Damu
+Igrish-Halam
+Irkab-Damu
+
+Kish IV dynasty
+Puzur-Suen
+Ur-Zababa
+
+Urur
+
+Lugal-kinishe-dudu
+Lugal-kisalsi
+
+E-iginimpa'e
+Meskigal
+
+Ur-Lumma
+Il
+Gishakidu (Queen Bara-irnun)
+
+Enannatum
+Entemena
+Enannatum II
+Enentarzi
+
+Ur II dynasty
+Nanni
+Mesh-ki-ang-Nanna II
+
+Kikku-Siwe-Temti
+
+2380 BCE
+
+Sixth Dynasty of Egypt
+
+Teti Userkare Pepi I Meryre Merenre Nemtyemsaf I Pepi II Merenre Nemtyemsaf II Netjerkare Siptah
+
+Kneeling statuette of Pepy I
+
+Adab dynasty
+Lugalannemundu
+"King of the four quarters of the world"
+
+2370 BCE
+Isar-Damu
+Enna-Dagan
+Ikun-Ishar
+Ishqi-Mari
+
+Invasion by Mari
+Anbu, Anba, Bazi, Zizi of Mari, Limer, Sharrum-iter
+
+Ukush
+Lugalanda
+Urukagina
+
+2350 BCE
+
+Uruk III dynasty
+
+2340 BCE
+
+Akkadian Period (2340–2150 BCE)
+
+Akkadian Empire
+
+Sargon of Akkad Rimush Manishtushu
+
+2250 BCE
+
+Naram-Sin
+
+Lugal-ushumgal (vassal of the Akkadians)
+
+2200 BCE
+
+First Intermediate Period
+Seventh Dynasty of Egypt
+Eighth Dynasty of Egypt
+
+Menkare Neferkare II Neferkare Neby Djedkare Shemai Neferkare Khendu Merenhor Neferkamin Nikare Neferkare Tereru Neferkahor Neferkare Pepiseneb Neferkamin Anu Qakare Ibi Neferkaure Neferkauhor Neferirkare
+
+Eblaite Kingdom
+
+Third kingdom of Mari (Shakkanakku dynasty)
+
+Shar-Kali-Sharri
+
+Naram-Sin 
+Adab
+
+1800–1595 BCE
+
+Ebla
+
+Ibbit-Lim
+
+Hitial-Erra
+Hanun-Dagan
+
+Old Assyria 
+Shamshi-Adad dynasty
+1808–1736 BCE
+
+Shamshi-Adad I Ishme-Dagan I Mut-Ashkur Rimush of Assyria Asinum Ashur-dugul Ashur-apla-idi Nasir-Sin Sin-namir Ipqi-Ishtar Adad-salulu Adasi
+
+1735–1701 BCE
+
+Puzur-Sin Ashur-dugul Ashur-apla-idi Nasir-Sin Sin-namir Ipqi-Ishtar Adad-salulu Adasi
+
+Adaside dynasty
+1700–722 BCE
+
+Bel-bani Libaya Sharma-Adad I Iptar-Sin Bazaya Lullaya Shu-Ninua Sharma-Adad II Erishum III Shamshi-Adad II Ishme-Dagan II Shamshi-Adad III Ashur-nadin-ahhe I Enlil-nasir II Ashur-nirari I Ashur-rabi I Enlil-nasir I
+
+2100 BCE
+Ninth Dynasty of Egypt
+Meryibre Khety Neferkare VII Nebkaure Khety Setut
+
+Ur III period (2150–2000 BCE)
+
+Nûr-Mêr Ishtup-Ilum
+
+Gutian dynasty (21 kings)
+La-erabum Si'um
+
+Kuda (Uruk)
+Puzur-ili
+Ur-Utu
+
+Umma II dynasty
+Lugalannatum (vassal of the Gutians)
+
+Ur-Baba Gudea Ur-Ningirsu Ur-gar Nam-mahani
+
+2115 BCE
+Vassals of Ur III 
+
+Uruk V dynasty
+Utu-hengal
+
+2100 BCE
+
+1878–1700 BCE
+Damaris
+
+Shamshi-Adad III
+
+924–781 BCE
+
+Sky
+
+705–675 BCE
+Ahaz
+
+702–686 BCE
+Hezekiah
+
+694–662 BCE
+Manasseh
+
+586–598 BCE
+722–480 BCE
+
+539–331 BCE
+
+Abraham (Biblical)
+Kings of Byblos
+Kings of Tyre
+Kings of Sidon
+
+Late Period
+Twenty-sixth Dynasty of Egypt
+
+Necho I Psamtik I Necho II Psamtik II Wahibre Ahmose II Psamtik III
+
+Neo-Babylonian Empire
+Nabopolassar Nebuchadnezzar II Amel-Marduk Neriglissar Labashi-Marduk Nabonidus
+
+Median Empire
+Deioces Phraortes Madyes Cyaxares Astyages
+
+651–539 BCE
+Fifth, Sixth, Seventh Babylonian dynasties
+Period of Chaos
+
+Baba-aha-iddina
+Baba-aha-iddina
+Adad-kudurri-ušur I
+Nabopolassar
+Nabopolassar
+Nabopolassar
+
+826 BCE
+Humban-holtash III
+Ummanigash (son of Urtak)
+
+745–609 BCE
+Taharqa (Black Pharaoh)
+Piye Shebitku Shabaka Tanutamun
+
+Nineveh
+
+626–539 BCE
+Necho I
+
+Twilights of Persian History 
+
+Argead dynasty and Ptolemaic Egypt
+Ptolemy I Soter Ptolemy Keraunos Ptolemy II Philadelphus
+
+Hellenistic Period
+Argead dynasty: Alexander III Philip III Alexander IV
+
+Ashurbanipal 
+Ahaz
+
+Meant for Martyrs Afterlife
+Death Penalty 
+Kingdom of the Dead 
+Fifth Temple 
+
+Arsinoe IV 
+
+(—) 
+
+(—) 
+
+Argead dynasty
+Hellenistic Period 
+Marfs
+Contenders 
+Cousins of Death
+Sea of Tiberius
+
+Welcome! Here after archiving.
+Antiochus XII Dionysus
+Antiochus XIII Asiaticus
+Philip II Philoromaeus
+
+Parthian Empire
+Mithridates I
+Phraates
+Hyspaosines
+Artabanus
+Mithridates II
+Gotarzes
+Mithridates III
+Orodes I
+Sinatruces
+Phraates III
+Mithridates IV
+Orodes II
+Phraates IV
+Tiridates II
+Musa
+Phraates V
+Orodes III
+Vonones I
+Artabanus II
+Tiridates III
+Artabanus II
+Vardanes I
+Gotarzes II
+Meherdates
+Vonones II
+Vologases I
+Vardanes II
+Pacorus II
+Vologases II
+Artabanus III
+Osroes I
+
+30 BCE–116 CE
+
+Roman Empire
+
+(Roman conquest of Egypt)
+Province of Egypt
+Judea
+Syria
+
+116–117 CE
+Province of Mesopotamia under Trajan
+Parthamaspates of Parthia
+
+117–224 CE
+
+Syria Palaestina
+Province of Mesopotamia
+
+Sinatruces II
+Mithridates V
+Vologases IV
+Osroes II
+Vologases V
+Vologases VI
+Artabanus IV
+
+224–270 CE
+
+Palmyrene Empire
+Vaballathus
+Zenobia
+Antiochus
+
+273–395 CE
+
+Roman Empire
+Province of Egypt
+Syria Palaestina
+Syria
+Province of Mesopotamia
+
+395–618 CE
+
+Byzantine Empire
+Byzantine Egypt
+Palaestina Prima, Palaestina Secunda
+Byzantine Syria
+Byzantine Mesopotamia
+
+618–628 CE
+(Sasanian conquest of Egypt)
+Province of Egypt
+Shahrbaraz
+Sahralanyozan
+Shahrbaraz
+
+628–641 CE
+Byzantine Empire
+Byzantine Egypt
+Palaestina Prima, Palaestina Secunda
+Byzantine Syria
+Byzantine Mesopotamia
+
+639–651 CE
+Muslim conquest of Egypt
+Muslim conquest of the Levant
+Muslim conquest of Mesopotamia and Persia
+
+Chronology of the Neolithic period
+Rulers of Ancient Central Asia
+
+Rulers with names in italics are considered fictional.

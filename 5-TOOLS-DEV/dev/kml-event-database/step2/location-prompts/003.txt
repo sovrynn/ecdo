@@ -1,0 +1,11 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Mediterranean depositional sequence (i)
+
+Basic location of event: Gulf of Cadiz
+
+Specific data/information/context related to event: Sci-Hub | High-resolution stratigraphy of the Mediterranean outflow contourite system in the Gulf of Cadiz during the late Pleistocene: The impact of Heinrich events. Marine Geology, 227(3-4), 241–262 | 10.1016/j.margeo.2005.11.015
+
+Llave, E., Schönfeld, J., Hernández-Molina, F. J., Mulder, T., Somoza, L., Díaz del Río, V., & Sánchez-Almazo, I. (2006). High-resolution stratigraphy of the Mediterranean outflow contourite system in the Gulf of Cadiz during the late Pleistocene: The impact of Heinrich events. Marine Geology, 227(3-4), 241–262. doi:10.1016/j.margeo.2005.11.015
+
+10.1016/j.margeo.2005.11.015

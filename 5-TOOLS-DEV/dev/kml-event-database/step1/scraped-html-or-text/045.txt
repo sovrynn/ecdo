@@ -1,0 +1,2497 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="title" content="" />
+    <meta name="keywords" content="free books, books to read, free ebooks, audio books, read books for free, read books online, online library">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="OpenLibrary.org" />
+    <meta name="creator" content="OpenLibrary.org" />
+    <meta name="copyright" content="Original content copyright; 2007-2015" />
+    <meta name="distribution" content="Global" />
+    <meta name="theme-color" content="#e2dcc5">
+
+
+    <link rel="canonical" href="https://openlibrary.org/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara." />
+    <link rel="preconnect" href="https://athena.archive.org">
+
+    <link rel="search" type="application/opensearchdescription+xml" title="Open Library" href="/static/opensearch.xml">
+    <link rel="manifest" href="/static/manifest.json">
+
+    <link href="/static/images/openlibrary-128x128.png" rel="apple-touch-icon" />
+    <link href="/static/images/openlibrary-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+    <link href="/static/images/openlibrary-167x167.png" rel="apple-touch-icon" sizes="167x167" />
+    <link href="/static/images/openlibrary-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+    <link href="/static/images/openlibrary-192x192.png" rel="icon" sizes="192x192" />
+    <link href="/static/images/openlibrary-128x128.png" rel="icon" sizes="128x128" />
+    <link href="/static/build/page-book.css?v=f4725b4f272dae70fcc555bd23f4cca9" rel="stylesheet" type="text/css" />
+
+    <noscript>
+      <style>
+        /* Don't hide content with clamp if no js to show more/less */
+        .clamp {
+          -webkit-line-clamp: unset !important;
+        }
+
+        /* Don't show read-more sections collapsed */
+        .read-more__content {
+          max-height: unset !important;
+        }
+        /* Don't show read-more toggle buttons */
+        .read-more__toggle {
+          display: none !important;
+        }
+
+        /* @width-breakpoint-tablet media query: */
+        @media only screen and (min-width: 768px) {
+          /* Sticky navbar to top of screen if compact title cannot be stickied */
+          .work-menu {
+            top: 0 !important;
+          }
+        }
+      </style>
+    </noscript>
+ <script>
+
+/* @licstart  The following is the entire license notice for the
+ * JavaScript code in this page.
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ * @licend  The above is the entire license notice
+ * for the JavaScript code in this page.
+ */
+
+  </script>
+    <meta name="google-site-verification" content="KrqcZD4l5BLNVyjzSi2sjZBiwgmkJ1W7n6w7ThD7A74" />
+    <meta name="google-site-verification" content="vtXGm8q3UgP-f6qXTvQBo85uh3nmIYIotVqqdJDpyz4" />
+    <!-- Drini, Google Search Console -->
+    <meta name="google-site-verification" content="XYOJ9Uj0MBr6wk7kj1IkttXrqY-bbRstFMADTfEt354" />
+    <!-- Drini, Bing Webmaster Tools -->
+    <meta name="msvalidate.01" content="8BEBECBEF537077737975A49D55B857D" />
+
+
+
+
+
+
+
+    <meta name="description" content="Holocene settlement of the Egyptian Sahara by Fred Wendorf, 2001, Kluwer Academic/Plenum Publishers edition,  in English" />
+    <title>Holocene settlement of the Egyptian Sahara. by Fred Wendorf | Open Library</title>
+
+    <meta property="og:title" content="Holocene settlement of the Egyptian Sahara. by Fred Wendorf | Open Library" />
+    <meta property="og:type" content="books.book" />
+    <meta property="og:image" content="https://covers.openlibrary.org/b/id/13221414-L.jpg" />
+    <meta property="og:url" content="https://openlibrary.org/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara." />
+    <meta property="og:site_name" content="Open Library" />
+    <meta property="og:description" content="Holocene settlement of the Egyptian Sahara by Fred Wendorf, 2001, Kluwer Academic/Plenum Publishers edition,  in English" />
+    <link rel="preload" as="image" href="//covers.openlibrary.org/b/id/13221414-M.jpg" imagesrcset="//covers.openlibrary.org/b/id/13221414-L.jpg 2x" />
+</head>
+
+
+
+
+<body class="" >
+  <script>
+      // Provide a signal that JS will load
+      document.body.className += ' client-js';
+  </script>
+  <span id="top"></span>
+  <div id="offline-info">It looks like you&#39;re offline.</div>
+  
+  
+  
+
+
+
+
+
+<div id="donato"></div>
+<script src="/cdn/archive.org/donate.js" data-platform="ol"></script>
+
+
+
+<div id="topNotice">
+  <div class="page-banner page-banner-black page-banner-center">
+    <div class="iaBar">
+        <a class="iaLogo" href="https://archive.org"><img alt="Internet Archive logo" src="/static/images/ia-logo.svg" width="160"></a>
+        
+        <a class="ghost-btn" href="https://archive.org/donate/?platform=ol&origin=olwww-TopNavDonateButton" data-ol-link-track="IABar|DonateButton">Donate <span class="heart" aria-hidden="true">♥</span></a>
+      <div class="language-component header-dropdown">
+        <details>
+          <summary>
+            <span>English (en)</span>
+            <img class="translate-icon" src="/static/images/language-icon.svg" title="Change Website Language" alt="Change Website Language"/>
+          </summary>
+          <div class="language-dropdown-component">
+            
+<ul class="locale-options dropdown-menu">
+  <li><a href="#" lang="cs" data-lang-id="cs" title="Czech">Čeština (cs)</a></li> 
+  <li><a href="#" lang="de" data-lang-id="de" title="German">Deutsch (de)</a></li> 
+  <li><a href="#" lang="en" data-lang-id="en" title="English">English (en)</a></li> 
+  <li><a href="#" lang="es" data-lang-id="es" title="Spanish">Español (es)</a></li> 
+  <li><a href="#" lang="fr" data-lang-id="fr" title="French">Français (fr)</a></li> 
+  <li><a href="#" lang="hr" data-lang-id="hr" title="Croatian">Hrvatski (hr)</a></li> 
+  <li><a href="#" lang="it" data-lang-id="it" title="Italian">Italiano (it)</a></li> 
+  <li><a href="#" lang="pt" data-lang-id="pt" title="Portuguese">Português (pt)</a></li> 
+  <li><a href="#" lang="hi" data-lang-id="hi" title="Hindi">हिंदी (hi)</a></li> 
+  <li><a href="#" lang="sc" data-lang-id="sc" title="Sardinian">Sardu (sc)</a></li> 
+  <li><a href="#" lang="te" data-lang-id="te" title="Telugu">తెలుగు (te)</a></li> 
+  <li><a href="#" lang="uk" data-lang-id="uk" title="Ukrainian">Українська (uk)</a></li> 
+  <li><a href="#" lang="zh" data-lang-id="zh" title="Chinese">中文 (zh)</a></li> 
+</ul>
+
+          </div>
+        </details>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+<header id="header-bar" class="header-bar">
+
+
+
+  <div class="logo-component">
+    <a href="/" title="The Internet Archive&#39;s Open Library: One page for every book">
+      <div class="logo-txt">
+        <img class="logo-icon" src="/static/images/openlibrary-logo-tighter.svg"
+          width="189" height="47"
+          alt="Open Library logo"/>
+      </div>
+    </a>
+  </div>
+
+
+  <ul class="navigation-component">
+    <li>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mybooks-component header-dropdown">
+  <a href="/account/books" data-ol-link-track=MainNav|MyBooks>My Books</a>
+</div>
+</li>
+    <li>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="browse-component header-dropdown">
+  <details>
+    <summary >
+      Browse
+      <span class="shift">Menu</span>
+      
+      <img class="down-arrow" aria-hidden="true" src="/static/images/down-arrow.png" alt="" role="presentation" width="7" height="4">
+    </summary>
+    <div
+    class="browse-dropdown-component navigation-dropdown-component"
+    >
+      <ul class="dropdown-menu browse-dropdown-menu">
+        <li>
+        <a href="/subjects" data-ol-link-track=MainNav|Subjects>
+          Subjects
+        </a>
+        </li>
+        <li>
+        <a href="/trending" data-ol-link-track=MainNav|Trending>
+          Trending
+        </a>
+        </li>
+        <li>
+        <a href="/explore" data-ol-link-track=MainNav|Explore>
+          Library Explorer
+        </a>
+        </li>
+        <li>
+        <a href="/lists" data-ol-link-track=MainNav|Lists>
+          Lists
+        </a>
+        </li>
+        <li>
+        <a href="/collections" data-ol-link-track=MainNav|Collections>
+          Collections
+        </a>
+        </li>
+        <li>
+        <a href="/k-12" data-ol-link-track=MainNav|K12Library>
+          K-12 Student Library
+        </a>
+        </li>
+        <li>
+        <a href="/booktalks" data-ol-link-track=MainNav|BookTalks>
+          Book Talks
+        </a>
+        </li>
+        <li>
+        <a href="/random" data-ol-link-track=MainNav|RandomBook>
+          Random Book
+        </a>
+        </li>
+        <li>
+        <a href="/advancedsearch" data-ol-link-track=MainNav|AdvancedSearch>
+          Advanced Search
+        </a>
+        </li>
+      </ul>
+    </div>
+  </details>
+</div>
+</li>
+  </ul>
+
+  <div class="search-component">
+    <div class="search-bar-component">
+      <div class="search-bar">
+        <div class="search-facet">
+          <label class="search-facet-selector">
+            <span aria-hidden="true" class="search-facet-value">All</span>
+            <select aria-label="Search by">
+              <option value="all">All</option>
+              <option value="title">Title</option>
+              <option value="author">Author</option>
+              <option value="text">Text</option>
+              <option value="subject">Subject</option>
+              <option value="lists">Lists</option>
+              <option value="advanced">Advanced</option>
+            </select>
+          </label>
+        </div>
+        <form class="search-bar-input" action="/search" method="get">
+          <input type="text" name="q" placeholder="Search" aria-label="Search" autocomplete="off">
+          <input name="mode" type="checkbox" aria-hidden="true" aria-label="Search checkbox" checked="checked" value="" id="ftokenstop" class="hidden instantsearch-mode">
+          <input type="submit" value="" class="search-bar-submit" aria-label="Search submit">
+          <div class="vertical-separator"></div>
+          <a
+            id="barcode_scanner_link"
+            class="search-by-barcode-submit"
+            aria-label="Search by barcode"
+            title="Search by barcode"
+            href="/barcodescanner?returnTo=/isbn/$$$"
+          >
+          </a>
+        </form>
+      </div>
+      <div class="search-dropdown">
+        <ul class="search-results">
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <ul class="auth-component">
+    <li class="hide-me">
+      <a class="btn"
+         href="/account/login">Log In</a></li>
+    <li><a class="btn primary" href="/account/create">Sign Up</a></li>
+  </ul>
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="hamburger-component header-dropdown">
+  <details>
+    <summary data-ol-link-track="HeaderBar|Hamburger">
+      <img class="hamburger__icon" src="/static/images/hamburger-icon.svg" alt="additional options menu"/>
+      <img class="down-arrow" aria-hidden="true" src="/static/images/down-arrow.png" alt="" role="presentation" width="7" height="4">
+    </summary>
+    <div class="mask-menu"></div>
+    <div
+    class="app-drawer"
+    >
+      <ul class="dropdown-menu hamburger-dropdown-menu">
+        <li class="subsection">
+          My Open Library
+        </li>
+        <li class="login-links">
+          <a class="login-links__secondary" href="/account/login">Log In</a>
+          <a class="login-links__primary" href="/account/create">Sign Up</a>
+        </li>
+        <li class="subsection">
+          Browse
+        </li>
+        <li>
+        <a href="/subjects" data-ol-link-track=Hamburger|Subjects>
+          Subjects
+        </a>
+        </li>
+        <li>
+        <a href="/trending" data-ol-link-track=Hamburger|Trending>
+          Trending
+        </a>
+        </li>
+        <li>
+        <a href="/explore" data-ol-link-track=Hamburger|Explore>
+          Library Explorer
+        </a>
+        </li>
+        <li>
+        <a href="/lists" data-ol-link-track=Hamburger|Lists>
+          Lists
+        </a>
+        </li>
+        <li>
+        <a href="/collections" data-ol-link-track=Hamburger|Collections>
+          Collections
+        </a>
+        </li>
+        <li>
+        <a href="/k-12" data-ol-link-track=Hamburger|K12Library>
+          K-12 Student Library
+        </a>
+        </li>
+        <li>
+        <a href="/booktalks" data-ol-link-track=Hamburger|BookTalks>
+          Book Talks
+        </a>
+        </li>
+        <li>
+        <a href="/random" data-ol-link-track=Hamburger|RandomBook>
+          Random Book
+        </a>
+        </li>
+        <li>
+        <a href="/advancedsearch" data-ol-link-track=Hamburger|AdvancedSearch>
+          Advanced Search
+        </a>
+        </li>
+        <li class="subsection">
+          Contribute
+        </li>
+        <li>
+        <a href="/books/add" data-ol-link-track=Hamburger|AddBook>
+          Add a Book
+        </a>
+        </li>
+        <li>
+        <a href="/recentchanges" data-ol-link-track=Hamburger|RecentEdits>
+          Recent Community Edits
+        </a>
+        </li>
+        <li class="subsection">
+          Resources
+        </li>
+        <li>
+        <a href="/help" data-ol-link-track=Hamburger|Help>
+          Help &amp; Support
+        </a>
+        </li>
+        <li>
+        <a href="/developers" data-ol-link-track=Hamburger|DevelopersHelp>
+          Developer Center
+        </a>
+        </li>
+        <li>
+        <a href="/librarians" data-ol-link-track=Hamburger|LibrariansHelp>
+          Librarians Portal
+        </a>
+        </li>
+      </ul>
+    </div>
+  </details>
+</div>
+
+
+</header>
+<header class="header-bar mobile">
+  <ul class="navigation-component mobile">
+    <li>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mybooks-component header-dropdown">
+  <a href="/account/books" data-ol-link-track=MainNav|MyBooks>My Books</a>
+</div>
+</li>
+    <li>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="browse-component header-dropdown">
+  <details>
+    <summary >
+      Browse
+      <span class="shift">Menu</span>
+      
+      <img class="down-arrow" aria-hidden="true" src="/static/images/down-arrow.png" alt="" role="presentation" width="7" height="4">
+    </summary>
+    <div
+    class="browse-dropdown-component navigation-dropdown-component"
+    >
+      <ul class="dropdown-menu browse-dropdown-menu">
+        <li>
+        <a href="/subjects" data-ol-link-track=MainNav|Subjects>
+          Subjects
+        </a>
+        </li>
+        <li>
+        <a href="/trending" data-ol-link-track=MainNav|Trending>
+          Trending
+        </a>
+        </li>
+        <li>
+        <a href="/explore" data-ol-link-track=MainNav|Explore>
+          Library Explorer
+        </a>
+        </li>
+        <li>
+        <a href="/lists" data-ol-link-track=MainNav|Lists>
+          Lists
+        </a>
+        </li>
+        <li>
+        <a href="/collections" data-ol-link-track=MainNav|Collections>
+          Collections
+        </a>
+        </li>
+        <li>
+        <a href="/k-12" data-ol-link-track=MainNav|K12Library>
+          K-12 Student Library
+        </a>
+        </li>
+        <li>
+        <a href="/booktalks" data-ol-link-track=MainNav|BookTalks>
+          Book Talks
+        </a>
+        </li>
+        <li>
+        <a href="/random" data-ol-link-track=MainNav|RandomBook>
+          Random Book
+        </a>
+        </li>
+        <li>
+        <a href="/advancedsearch" data-ol-link-track=MainNav|AdvancedSearch>
+          Advanced Search
+        </a>
+        </li>
+      </ul>
+    </div>
+  </details>
+</div>
+</li>
+  </ul>
+</header>
+
+  
+  <div id="test-body-mobile">
+    
+    <div class="flash-messages">
+    </div>
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Open graph tags handle card for both twitter and facebook -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="contentBody" role="main" itemscope itemtype="https://schema.org/Book">
+  <div class="workDetails">
+    <link itemprop="exampleOfWork" href="/works/OL1878179W">
+    
+    <!-- (mobile only) -->
+    
+
+<span class="nav-bar-wrapper sticky mobile-only">
+  <ul class="nav-bar work-menu">
+    <li class="selected">
+      <a href="#overview-mobile" data-ol-link-track="BookPageNav|Overview">Overview</a>
+    </li>
+    <li>
+      <a href="#editions-list" data-ol-link-track="BookPageNav|EditionTable">
+        View 1 Edition
+      </a>
+    </li>
+    <li>
+      <a href="#details" data-ol-link-track="BookPageNav|Details">Details</a>
+    </li>
+    <li>
+      <a href="#reader-observations" data-ol-link-track="BookPageNav|Reviews">
+        Reviews
+      </a>
+    </li>
+    <li>
+      <a href="#lists-section" data-ol-link-track="BookPageNav|Lists">Lists</a>
+    </li>
+    <li>
+      <a href="#related-work-carousel" data-ol-link-track="BookPageNav|RelatedBooks">Related Books</a>
+    </li>
+  </ul>
+  <button class="nav-arrow" title="Go to next section">
+    <img src="/static/images/nav-arrow.svg" alt="">
+  </button>
+</span>
+
+    <a id="overview-mobile" name="overview-mobile" class="section-anchor section-anchor--no-height"></a>
+    
+<div class="work-title-and-author mobile">
+  <span>
+    <div class="work-line">
+        An edition of <a href="/works/OL1878179W?edition=">Holocene settlement of the Egyptian Sahara</a>
+        <span class="first-published-date" title="First published in 2001">
+          (2001)
+        </span>
+    </div>
+    <h1 class="work-title" itemprop="name">Holocene settlement of the Egyptian Sahara.</h1>
+
+    <h2 class="edition-byline">
+      
+by <a href="/authors/OL224902A/Fred_Wendorf" itemprop="author">Fred Wendorf</a>
+
+    </h2>
+    
+
+<ul class="readers-stats  readers-stats__review-count--none" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <li class="avg-ratings" onclick="location.href='#starRatingSection';" data-ol-link-track="StarRating|StatsComponentClick">
+  </li>
+</ul>
+
+  </span>
+
+  
+  
+
+
+
+
+
+<div class="">
+  
+<a href="javascript:;" class="share-modal-link icon-link" data-ol-link-track=ModalLinkClick|ShareIcon>
+  <img class="icon-link__image" src="/static/images/icons/share.svg" alt="">
+  <div class="icon-link__text">Share</div>
+</a>
+
+
+
+
+  <div class="hidden">
+    <div id="social-modal-content" class="floaterAdd">
+      <div class="content">
+        <div class="floaterHead right-justify">
+          <a class="dialog--close">&times;<span class="shift">Close</span></a>
+        </div>
+        <div class="shareLinks cta-section">
+          <ul class="shareLinks-list">
+              <li>
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL20644201M%2FHolocene_settlement_of_the_Egyptian_Sahara." class="sansserif large" target="_blank"
+                  data-ol-link-track="Share|Facebook">
+                  <img
+                    title="Share on Facebook"
+                    alt="Facebook" class="share-link"
+                    src="/static/images/facebook.svg?v=2221df78e6776d3671b56fbed6732cd7"
+                    loading="lazy"
+                  >
+                </a>
+                <div class="share-source">Facebook</div>
+              </li>
+              
+              <li>
+                <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL20644201M%2FHolocene_settlement_of_the_Egyptian_Sahara.&amp;via=openlibrary&amp;text=Check+this+out%3A+Holocene+settlement+of+the+Egyptian+Sahara.+by+Fred+Wendorf" class="sansserif large" target="_blank"
+                  data-ol-link-track="Share|Twitter">
+                  <img
+                    title="Share on Twitter"
+                    alt="Twitter" class="share-link"
+                    src="/static/images/twitter.svg?v=ec50fd8c4aa8205ba33750f580e76a5b"
+                    loading="lazy"
+                  >
+                </a>
+                <div class="share-source">Twitter</div>
+              </li>
+              
+              <li>
+                <a href="https://pinterest.com/pin/create/link/?url=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL20644201M%2FHolocene_settlement_of_the_Egyptian_Sahara.&amp;description=Check+this+out%3A+Holocene+settlement+of+the+Egyptian+Sahara.+by+Fred+Wendorf" class="sansserif large" target="_blank"
+                  data-ol-link-track="Share|Pinterest">
+                  <img
+                    title="Share on Pinterest"
+                    alt="Pinterest" class="share-link"
+                    src="/static/images/pinterest.svg?v=df62fe57a8c7caabbcc722e7b59b7367"
+                    loading="lazy"
+                  >
+                </a>
+                <div class="share-source">Pinterest</div>
+              </li>
+              
+            <li>
+              
+              <a class="embed-work-btn" title="Embed this book in your website" data-ol-link-track="Share|Embed"
+                onclick="prompt('Copy embed code to clipboard:', '&lt;iframe frameborder=&quot;0&quot; width=&quot;165&quot; height=&quot;400&quot; src=&quot;//openlibrary.org/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara./widget&quot;&gt;&lt;/iframe&gt;');">
+                <img
+                  alt="Embed icon"
+                  class="share-link"
+                  src="/static/images/embed.png?v=3cfbbb4731c6f5c37e543bc98579f357"
+                  loading="lazy"
+                >
+              </a>
+              <div class="share-source">Embed</div>
+            </li>
+            
+            <li>
+              <a class="copy-url-btn" title="Copy url to clipboard" data-ol-link-track="Share|CopyURL">
+                  <img
+                      alt="Copy URL icon"
+                      class="share-link"
+                      src="/static/images/copy_url.png?v=ee1e83c926d101bcf002dbfd4801f7e2"
+                      loading="lazy"
+                  >
+              </a>
+              <div class="share-source">Copy URL</div>
+            </li>
+
+            <li>
+              <a href="/qrcode?path=/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara." target="_blank" class="qr-code-btn" title="Open QR code" data-ol-link-track="Share|QRCode">
+                  <img
+                      alt="QR code icon"
+                      class="share-link"
+                      src="/static/images/qr_code.png?v=171b6f30f4749df7e536e368d400a743"
+                      loading="lazy"
+                  >
+              </a>
+              <div class="share-source">QR Code</div>
+            </li>
+
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+    <div class="editionCover">
+      
+
+<div class="Tools">
+  <div id="read">
+    <div class="panel">
+      <div class="btn-notice read-options" id="read-options">
+
+        <div class="illustration edition-cover">
+          
+
+
+
+
+<div class="coverMagic cover-animation">
+    <div class="SRPCover bookCover" style="display: block;">
+        <a
+            href="//covers.openlibrary.org/b/id/13221414-L.jpg"
+            aria-controls="seeImage"
+            class="coverLook dialog--open"
+            title="Pull up a bigger book cover"
+        >
+
+            <img
+                itemprop="image"
+                src="//covers.openlibrary.org/b/id/13221414-M.jpg"
+                srcset="//covers.openlibrary.org/b/id/13221414-L.jpg 2x"
+                class="cover"
+                alt="Cover of: Holocene settlement of the Egyptian Sahara. by Fred Wendorf, Fred Wendorf"
+            >
+        </a>
+    </div>
+    <div class="SRPCoverBlank" style="display: none;">
+        <div class="innerBorder">
+            <div class="BookTitle">
+Holocene settlement of the Egyptian Sahara. 
+
+                <div class="Author">
+Fred Wendorf, Fred Wendorf 
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="hidden">
+    <div class="coverFloat" id="seeImage">
+        <div class="coverFloatHead">
+            <h2>
+Holocene settlement of the Egyptian Sahara. 
+</h2>
+            <a class="dialog--close">&times;<span class="shift">Close</span></a>
+        </div>
+        <a class="dialog--close"><img src="//covers.openlibrary.org/b/id/13221414-L.jpg" class="cover" alt="Holocene settlement of the Egyptian Sahara. by Fred Wendorf, Fred Wendorf"/></a>
+    </div>
+</div>
+
+          
+          
+        </div>
+
+
+
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="cta-btn cta-btn--available cta-btn--w-icon cta-btn--external" href="/books/OL20644201M/-/borrow?action=locate"
+  data-ol-link-track="CTAClick|Locate">Locate</a>
+
+
+
+<div class="lists-widget-container">
+
+
+
+<input type="hidden" name="list-i18n-strings" value="{&quot;cover_of&quot;: &quot;Cover of: &quot;, &quot;see_this_list&quot;: &quot;See this list&quot;, &quot;remove_from_list&quot;: &quot;Remove from your list?&quot;, &quot;from&quot;: &quot;from&quot;, &quot;you&quot;: &quot;You&quot;}">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="generic-dropper-wrapper my-books-dropper generic-dropper--disabled"  data-work-key=/works/OL1878179W >
+  <div class="generic-dropper">
+    <div class="generic-dropper__actions">
+      <div class="generic-dropper__primary">
+        
+<form class="reading-log primary-action" method="POST" action="/works/OL1878179W/bookshelves.json">
+  
+
+  <input type="hidden" name="action" value="add"/>
+  <input type="hidden" name="bookshelf_id" value="1"/>
+  <input type="hidden" name="work_id" value="/works/OL1878179W"/>
+  <input type="hidden" name="edition_id" value="/books/OL20644201M"/>
+  <button class="book-progress-btn primary-action unactivated" type="submit">
+    <span class="activated-check hidden">✓</span>
+    <span class="btn-text">Want to Read</span>
+  </button>
+</form>
+
+
+
+      </div>
+      <a class="generic-dropper__dropclick" href="javascript:;">
+        <div class="arrow"></div>
+      </a>
+    </div>
+    <div class="generic-dropper__dropdown">
+      
+
+
+<div class="read-statuses">
+  <form class="reading-log" method="POST" action="/works/OL1878179W/bookshelves.json">
+    <input type="hidden" name="action" value="remove"/>
+    <input type="hidden" name="bookshelf_id" value="-1"/>
+    <input type="hidden" name="default-key" value="/books/OL20644201M" />
+    <input type="hidden" name="edition_id" value="/books/OL20644201M"/>
+    <input type="hidden" name="work_id" value="/works/OL1878179W"/>
+    <button class="remove-from-list hidden" type="submit">Remove From Shelf</button>
+  </form>
+
+  <form class="reading-log" method="POST" action="/works/OL1878179W/bookshelves.json">
+    <input type="hidden" name="action" value="add"/>
+    <input type="hidden" name="bookshelf_id" value="1"/>
+    <input type="hidden" name="edition_id" value="/books/OL20644201M"/>
+    <button class="nostyle-btn hidden" type="submit">Want to Read</button>
+  </form>
+
+  <form class="reading-log" method="POST" action="/works/OL1878179W/bookshelves.json">
+    <input type="hidden" name="action" value="add"/>
+    <input type="hidden" name="bookshelf_id" value="2"/>
+    <input type="hidden" name="edition_id" value="/books/OL20644201M"/>
+    <button class="nostyle-btn " type="submit">Currently Reading</button>
+  </form>
+
+  <form class="reading-log" method="POST" action="/works/OL1878179W/bookshelves.json">
+    <input type="hidden" name="action" value="add"/>
+    <input type="hidden" name="bookshelf_id" value="3"/>
+    <input type="hidden" name="edition_id" value="/books/OL20644201M"/>
+    <button class="nostyle-btn " type="submit">Already Read</button>
+  </form>
+</div>
+
+
+
+
+
+<div class="reading-lists">
+  <p class="reading-list-title">My Reading Lists:</p>
+  <div class="my-lists" data-seed-key="/books/OL20644201M" data-work-key="/works/OL1878179W" data-user-key="">
+  </div>
+  <p class="create checkboxes">
+    <label>
+      <input type="checkbox" class="work-checkbox"/>
+      <span>Use this Work</span>
+    </label>
+  </p>
+  <p class="create">
+    <a href="javascript:;" class="create-new-list" aria-controls="addList">Create a new list</a>
+  </p>
+</div>
+
+
+
+<div class="hidden">
+  <div class="floaterAdd" id="addList">
+    <div class="floaterHead">
+      <h2>Create a new list</h2>
+      <a class="dialog--close">&times;<span class="shift">Close</span></a>
+    </div>
+    <form method="post" class="floatform" name="new-list" id="create-list-form">
+      <div class="formElement">
+        <div class="label">
+          <label for="list_label">Name:</label>
+        </div>
+        <div class="input">
+          <input type="text" name="list_label" id="list_label" class="text required" value="" required/>
+        </div>
+      </div>
+      <div class="formElement">
+        <div class="label">
+          <label for="list_desc">Description:</label>
+        </div>
+        <div class="input">
+          <textarea name="list_desc" id="list_desc" rows="5" cols="30"></textarea>
+        </div>
+      </div>
+      <div class="formElement">
+        <div class="input">
+          <button id="create-list-button" type="submit" class="larger">Create new list</button>
+          &nbsp; &nbsp;
+          <a class="small dialog--close plain red">Cancel</a>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
+
+
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="check-in-display-OL1878179W" class="last-read-date hidden">
+  <span class="date-display">
+    Read <time class="check-in-date">None</time>
+    <a class="prompt-edit-date" href="javascript:;" data-work-olid="OL1878179W" data-ol-link-track="CheckInPrompt|EditDate">Edit</a>
+  </span>
+</div>
+
+<div id="prompt-OL1878179W" class="check-in-prompt hidden" data-work-olid="OL1878179W">
+  <span class="prompt-copy">When did you finish this book?</span>
+  <span class="prompt-options">
+    <a class="prompt-current-year use-local-year" href="javascript:;" data-ol-link-track="CheckInPrompt|SetDateCurrentYear" data-server-year="2024">2024</a>
+    <a class="prompt-today" href="javascript:;" data-ol-link-track="CheckInPrompt|SetDateToday">Today</a>
+    <a class="prompt-custom" href="javascript:;" data-ol-link-track="CheckInPrompt|SetDateCustom">Other</a>
+  </span>
+</div>
+
+
+
+
+
+
+<dialog id="check-in-dialog-OL1878179W" class="native-dialog">
+  <div class="floaterHead">
+    <h2>Check-In</h2>
+    <a class="native-dialog--close" href="javascript:;">×<span class="shift">Close</span></a>
+  </div>
+  
+
+<div class="check-in" data-work-olid="OL1878179W" data-event-type="3">
+  <form method="dialog" class="check-in__form" action="/works/OL1878179W/check-ins" method="post">
+    <input type="hidden" name="event_id" value="">
+    <input type="hidden" name="edition_key" value="/books/OL20644201M">
+    <div>
+      Add an optional check-in date.  Check-in dates are used to track yearly reading goals.
+    </div>
+    <div class="check-in__inputs">
+      <label class="check-in__label">End Date:</label>
+      <span>
+        <label>Year:</label>
+        <select class="check-in__select" name="year">
+          <option value="">Year</option>
+          <option class="hidden show-if-local-year" value="2025">2025</option>
+          <option value="2024" >2024</option>
+          <option value="2023" >2023</option>
+          <option value="2022" >2022</option>
+          <option value="2021" >2021</option>
+          <option value="2020" >2020</option>
+          <option value="2019" >2019</option>
+          <option value="2018" >2018</option>
+          <option value="2017" >2017</option>
+          <option value="2016" >2016</option>
+          <option value="2015" >2015</option>
+          <option value="2014" >2014</option>
+          <option value="2013" >2013</option>
+          <option value="2012" >2012</option>
+          <option value="2011" >2011</option>
+          <option value="2010" >2010</option>
+          <option value="2009" >2009</option>
+          <option value="2008" >2008</option>
+          <option value="2007" >2007</option>
+          <option value="2006" >2006</option>
+          <option value="2005" >2005</option>
+          <option value="2004" >2004</option>
+          <option value="2003" >2003</option>
+          <option value="2002" >2002</option>
+          <option value="2001" >2001</option>
+          <option value="2000" >2000</option>
+          <option value="1999" >1999</option>
+          <option value="1998" >1998</option>
+          <option value="1997" >1997</option>
+          <option value="1996" >1996</option>
+          <option value="1995" >1995</option>
+          <option value="1994" >1994</option>
+          <option value="1993" >1993</option>
+          <option value="1992" >1992</option>
+          <option value="1991" >1991</option>
+          <option value="1990" >1990</option>
+          <option value="1989" >1989</option>
+          <option value="1988" >1988</option>
+          <option value="1987" >1987</option>
+          <option value="1986" >1986</option>
+          <option value="1985" >1985</option>
+          <option value="1984" >1984</option>
+          <option value="1983" >1983</option>
+          <option value="1982" >1982</option>
+          <option value="1981" >1981</option>
+          <option value="1980" >1980</option>
+          <option value="1979" >1979</option>
+          <option value="1978" >1978</option>
+          <option value="1977" >1977</option>
+          <option value="1976" >1976</option>
+          <option value="1975" >1975</option>
+          <option value="1974" >1974</option>
+          <option value="1973" >1973</option>
+          <option value="1972" >1972</option>
+          <option value="1971" >1971</option>
+          <option value="1970" >1970</option>
+          <option value="1969" >1969</option>
+          <option value="1968" >1968</option>
+          <option value="1967" >1967</option>
+          <option value="1966" >1966</option>
+          <option value="1965" >1965</option>
+          <option value="1964" >1964</option>
+          <option value="1963" >1963</option>
+          <option value="1962" >1962</option>
+          <option value="1961" >1961</option>
+          <option value="1960" >1960</option>
+          <option value="1959" >1959</option>
+          <option value="1958" >1958</option>
+          <option value="1957" >1957</option>
+          <option value="1956" >1956</option>
+          <option value="1955" >1955</option>
+          <option value="1954" >1954</option>
+          <option value="1953" >1953</option>
+          <option value="1952" >1952</option>
+          <option value="1951" >1951</option>
+          <option value="1950" >1950</option>
+          <option value="1949" >1949</option>
+          <option value="1948" >1948</option>
+          <option value="1947" >1947</option>
+          <option value="1946" >1946</option>
+          <option value="1945" >1945</option>
+          <option value="1944" >1944</option>
+          <option value="1943" >1943</option>
+          <option value="1942" >1942</option>
+          <option value="1941" >1941</option>
+          <option value="1940" >1940</option>
+          <option value="1939" >1939</option>
+          <option value="1938" >1938</option>
+          <option value="1937" >1937</option>
+          <option value="1936" >1936</option>
+          <option value="1935" >1935</option>
+          <option value="1934" >1934</option>
+          <option value="1933" >1933</option>
+          <option value="1932" >1932</option>
+          <option value="1931" >1931</option>
+          <option value="1930" >1930</option>
+          <option value="1929" >1929</option>
+          <option value="1928" >1928</option>
+          <option value="1927" >1927</option>
+          <option value="1926" >1926</option>
+          <option value="1925" >1925</option>
+          <option value="1924" >1924</option>
+          <option value="1923" >1923</option>
+          <option value="1922" >1922</option>
+          <option value="1921" >1921</option>
+          <option value="1920" >1920</option>
+          <option value="1919" >1919</option>
+          <option value="1918" >1918</option>
+          <option value="1917" >1917</option>
+          <option value="1916" >1916</option>
+          <option value="1915" >1915</option>
+          <option value="1914" >1914</option>
+          <option value="1913" >1913</option>
+          <option value="1912" >1912</option>
+          <option value="1911" >1911</option>
+          <option value="1910" >1910</option>
+          <option value="1909" >1909</option>
+          <option value="1908" >1908</option>
+          <option value="1907" >1907</option>
+          <option value="1906" >1906</option>
+          <option value="1905" >1905</option>
+        </select>
+      </span>
+      <span>
+        <label>Month:</label>
+        <select class="check-in__select" name="month" disabled>
+          <option value="">Month</option>
+          <option value="1" >January</option>
+          <option value="2" >February</option>
+          <option value="3" >March</option>
+          <option value="4" >April</option>
+          <option value="5" >May</option>
+          <option value="6" >June</option>
+          <option value="7" >July</option>
+          <option value="8" >August</option>
+          <option value="9" >September</option>
+          <option value="10" >October</option>
+          <option value="11" >November</option>
+          <option value="12" >December</option>
+        </select>
+      </span>
+      <span>
+        <label>Day:</label>
+        <select class="check-in__select" name="day" disabled>
+          <option value="">Day</option>
+          <option value="1" >1</option>
+          <option value="2" >2</option>
+          <option value="3" >3</option>
+          <option value="4" >4</option>
+          <option value="5" >5</option>
+          <option value="6" >6</option>
+          <option value="7" >7</option>
+          <option value="8" >8</option>
+          <option value="9" >9</option>
+          <option value="10" >10</option>
+          <option value="11" >11</option>
+          <option value="12" >12</option>
+          <option value="13" >13</option>
+          <option value="14" >14</option>
+          <option value="15" >15</option>
+          <option value="16" >16</option>
+          <option value="17" >17</option>
+          <option value="18" >18</option>
+          <option value="19" >19</option>
+          <option value="20" >20</option>
+          <option value="21" >21</option>
+          <option value="22" >22</option>
+          <option value="23" >23</option>
+          <option value="24" >24</option>
+          <option value="25" >25</option>
+          <option value="26" >26</option>
+          <option value="27" >27</option>
+          <option value="28" >28</option>
+          <option value="29" >29</option>
+          <option value="30" >30</option>
+          <option value="31" >31</option>
+        </select>
+      </span>
+      <span>
+        <a class="check-in__today" href="javascript:;" data-ol-link-track="CheckInForm|SetDateToday">Today</a>
+      </span>
+    </div>
+    <span class="check-in__actions">
+      <button class="check-in__delete-btn cta-btn cta-btn--delete invisible" data-ol-link-track="CheckInForm|DeleteCheckIn">Delete Event</button>
+      <button type="submit" class="check-in__submit-btn cta-btn cta-btn--shell" data-ol-link-track="CheckInForm|SubmitCheckIn" disabled>Submit</button>
+    </span>
+  </form>
+</div>
+
+</dialog>
+
+
+
+
+
+
+<form class="star-rating-form desktop" id="ratingsForm" method="POST" action="/works/OL1878179W/ratings.json"
+      property="reviewRating" typeof="Rating" vocab="http://schema.org/" data-work-key="/works/OL1878179W">
+  <meta property="worstRating" content="1"/>
+  <meta property="bestRating" content="5"/>
+  <input type="hidden" value="/books/OL20644201M" name="edition_id"/>
+  <input type="hidden" value="true" name="redir"/>
+  <div class="review" id="starRatingSection">
+    <div class="stars" data-ol-link-track="StarRating|BookRated">
+      <input type="submit" value="1" name="rating"
+        class="star-1"
+        id="star-1" />
+      <label class="star star-1 "
+        property="worstRating"
+        for="star-1">1</label>
+      <input type="submit" value="2" name="rating"
+        class="star-2"
+        id="star-2" />
+      <label class="star star-2 "
+        for="star-2">2</label>
+      <input type="submit" value="3" name="rating"
+        class="star-3"
+        id="star-3" />
+      <label class="star star-3 "
+        for="star-3">3</label>
+      <input type="submit" value="4" name="rating"
+        class="star-4"
+        id="star-4" />
+      <label class="star star-4 "
+        for="star-4">4</label>
+      <input type="submit" value="5" name="rating"
+        class="star-5"
+        id="star-5" />
+      <label class="star star-5 "
+        property="bestRating"
+        for="star-5">5</label>
+      
+      <span></span>
+    </div>
+  </div>
+  <!-- <span class="star-rating__not-rated">Rate</span> -->
+  <button type="submit" class="star-messaging hidden">Clear my rating</button>
+</form>
+
+
+</div>
+
+
+
+
+        <hr>
+
+        
+<div class="modal-links desktop">
+  
+
+
+
+
+
+
+
+
+<div class="">
+  
+
+<a href="/account/login?redirect=/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara." class="observations-modal-link--redirect icon-link" data-ol-link-track=ModalLinkClick|ReviewIcon>
+  <img class="icon-link__image" src="/static/images/icons/reviews.svg" alt="">
+  <div class="icon-link__text">Review</div>
+</a>
+
+
+
+</div>
+
+  
+  
+
+
+
+
+
+
+
+
+<div class="">
+  
+
+<a href="/account/login?redirect=/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara." class="notes-modal-link--redirect icon-link" data-ol-link-track=ModalLinkClick|NoteIcon>
+  <img class="icon-link__image" src="/static/images/icons/notes.svg" alt="">
+  <div class="icon-link__text">Notes</div>
+</a>
+
+
+
+  <div class="hidden">
+    <div id="sidebar-notes-metadata-form" class="floaterAdd metadata-form" data-context="{&quot;id&quot;: &quot;sidebar-notes&quot;}">
+      <div class="floaterHead">
+        <h2>My Book Notes</h2>
+        <a class="dialog--close">&times;<span class="shift">Close</span></a>
+      </div>
+      <form class="book-notes-form" method="POST" action="/works/OL1878179W/notes.json">
+        <p>My private notes about this edition:</p>
+        <div>
+          <textarea class="notes-modal-textarea" name="notes" rows="10"></textarea>
+        </div>
+        <input type="hidden" name="work_id" value="OL1878179W" />
+        <input type="hidden" name="edition_id" value="OL20644201M" />
+        <div class="note-form-buttons">
+          <button class="delete-note-button cta-btn cta-btn--delete hidden" type="button">Delete Note</button>
+          <button class="update-note-button cta-btn cta-btn--shell">Save Note</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+  
+  
+
+
+
+
+
+<div class="share-modal-wrapper">
+  <a href="javascript:;" class="share-modal-link icon-link" data-ol-link-track=ModalLinkClick|ShareIcon>
+  <img class="icon-link__image" src="/static/images/icons/share.svg" alt="">
+  <div class="icon-link__text">Share</div>
+</a>
+
+
+
+  <div class="hidden">
+    <div id="social-modal-content" class="floaterAdd">
+      <div class="content">
+        <div class="floaterHead right-justify">
+          <a class="dialog--close">&times;<span class="shift">Close</span></a>
+        </div>
+        <div class="shareLinks cta-section">
+          <ul class="shareLinks-list">
+              <li>
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL20644201M%2FHolocene_settlement_of_the_Egyptian_Sahara." class="sansserif large" target="_blank"
+                  data-ol-link-track="Share|Facebook">
+                  <img
+                    title="Share on Facebook"
+                    alt="Facebook" class="share-link"
+                    src="/static/images/facebook.svg?v=2221df78e6776d3671b56fbed6732cd7"
+                    loading="lazy"
+                  >
+                </a>
+                <div class="share-source">Facebook</div>
+              </li>
+              
+              <li>
+                <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL20644201M%2FHolocene_settlement_of_the_Egyptian_Sahara.&amp;via=openlibrary&amp;text=Check+this+out%3A+Holocene+settlement+of+the+Egyptian+Sahara.+by+Fred+Wendorf" class="sansserif large" target="_blank"
+                  data-ol-link-track="Share|Twitter">
+                  <img
+                    title="Share on Twitter"
+                    alt="Twitter" class="share-link"
+                    src="/static/images/twitter.svg?v=ec50fd8c4aa8205ba33750f580e76a5b"
+                    loading="lazy"
+                  >
+                </a>
+                <div class="share-source">Twitter</div>
+              </li>
+              
+              <li>
+                <a href="https://pinterest.com/pin/create/link/?url=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL20644201M%2FHolocene_settlement_of_the_Egyptian_Sahara.&amp;description=Check+this+out%3A+Holocene+settlement+of+the+Egyptian+Sahara.+by+Fred+Wendorf" class="sansserif large" target="_blank"
+                  data-ol-link-track="Share|Pinterest">
+                  <img
+                    title="Share on Pinterest"
+                    alt="Pinterest" class="share-link"
+                    src="/static/images/pinterest.svg?v=df62fe57a8c7caabbcc722e7b59b7367"
+                    loading="lazy"
+                  >
+                </a>
+                <div class="share-source">Pinterest</div>
+              </li>
+              
+            <li>
+              
+              <a class="embed-work-btn" title="Embed this book in your website" data-ol-link-track="Share|Embed"
+                onclick="prompt('Copy embed code to clipboard:', '&lt;iframe frameborder=&quot;0&quot; width=&quot;165&quot; height=&quot;400&quot; src=&quot;//openlibrary.orghttps://openlibrary.org/books/OL20644201M/widget&quot;&gt;&lt;/iframe&gt;');">
+                <img
+                  alt="Embed icon"
+                  class="share-link"
+                  src="/static/images/embed.png?v=3cfbbb4731c6f5c37e543bc98579f357"
+                  loading="lazy"
+                >
+              </a>
+              <div class="share-source">Embed</div>
+            </li>
+            
+            <li>
+              <a class="copy-url-btn" title="Copy url to clipboard" data-ol-link-track="Share|CopyURL">
+                  <img
+                      alt="Copy URL icon"
+                      class="share-link"
+                      src="/static/images/copy_url.png?v=ee1e83c926d101bcf002dbfd4801f7e2"
+                      loading="lazy"
+                  >
+              </a>
+              <div class="share-source">Copy URL</div>
+            </li>
+
+            <li>
+              <a href="/qrcode?path=/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara." target="_blank" class="qr-code-btn" title="Open QR code" data-ol-link-track="Share|QRCode">
+                  <img
+                      alt="QR code icon"
+                      class="share-link"
+                      src="/static/images/qr_code.png?v=171b6f30f4749df7e536e368d400a743"
+                      loading="lazy"
+                  >
+              </a>
+              <div class="share-source">QR Code</div>
+            </li>
+
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+
+        <div class="readers-stats__wrapper mobile">
+          
+
+<ul class="readers-stats  readers-stats__review-count--none" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <li class="avg-ratings" onclick="location.href='#starRatingSection';" data-ol-link-track="StarRating|StatsComponentClick">
+  </li>
+</ul>
+
+
+          <hr>
+          
+<div class="modal-links mobile">
+  
+
+
+
+
+
+
+
+
+<div class="">
+  
+
+<a href="/account/login?redirect=/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara." class="observations-modal-link--redirect icon-link" data-ol-link-track=ModalLinkClick|ReviewIcon>
+  <img class="icon-link__image" src="/static/images/icons/reviews.svg" alt="">
+  <div class="icon-link__text">Review</div>
+</a>
+
+
+
+</div>
+
+  
+  
+
+<form class="star-rating-form mobile" id="ratingsForm--mobile" method="POST" action="/works/OL1878179W/ratings.json"
+      property="reviewRating" typeof="Rating" vocab="http://schema.org/" data-work-key="/works/OL1878179W">
+  <meta property="worstRating" content="1"/>
+  <meta property="bestRating" content="5"/>
+  <input type="hidden" value="/books/OL20644201M" name="edition_id"/>
+  <input type="hidden" value="true" name="redir"/>
+  <div class="review" id="starRatingSection--mobile">
+    <div class="stars" data-ol-link-track="StarRating|BookRated">
+      <input type="submit" value="1" name="rating"
+        class="star-1"
+        id="star-1--mobile" />
+      <label class="star star-1 "
+        property="worstRating"
+        for="star-1--mobile">1</label>
+      <input type="submit" value="2" name="rating"
+        class="star-2"
+        id="star-2--mobile" />
+      <label class="star star-2 "
+        for="star-2--mobile">2</label>
+      <input type="submit" value="3" name="rating"
+        class="star-3"
+        id="star-3--mobile" />
+      <label class="star star-3 "
+        for="star-3--mobile">3</label>
+      <input type="submit" value="4" name="rating"
+        class="star-4"
+        id="star-4--mobile" />
+      <label class="star star-4 "
+        for="star-4--mobile">4</label>
+      <input type="submit" value="5" name="rating"
+        class="star-5"
+        id="star-5--mobile" />
+      <label class="star star-5 "
+        property="bestRating"
+        for="star-5--mobile">5</label>
+      
+      <span></span>
+    </div>
+  </div>
+  <!-- <span class="star-rating__not-rated">Rate</span> -->
+  <button type="submit" class="star-messaging hidden">Clear my rating</button>
+</form>
+
+  
+  
+
+
+
+
+
+
+
+
+<div class="">
+  
+
+<a href="/account/login?redirect=/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara." class="notes-modal-link--redirect icon-link" data-ol-link-track=ModalLinkClick|NoteIcon>
+  <img class="icon-link__image" src="/static/images/icons/notes.svg" alt="">
+  <div class="icon-link__text">Notes</div>
+</a>
+
+
+
+  <div class="hidden">
+    <div id="sidebar-notes-metadata-form" class="floaterAdd metadata-form" data-context="{&quot;id&quot;: &quot;sidebar-notes&quot;}">
+      <div class="floaterHead">
+        <h2>My Book Notes</h2>
+        <a class="dialog--close">&times;<span class="shift">Close</span></a>
+      </div>
+      <form class="book-notes-form" method="POST" action="/works/OL1878179W/notes.json">
+        <p>My private notes about this edition:</p>
+        <div>
+          <textarea class="notes-modal-textarea" name="notes" rows="10"></textarea>
+        </div>
+        <input type="hidden" name="work_id" value="OL1878179W" />
+        <input type="hidden" name="edition_id" value="OL20644201M" />
+        <div class="note-form-buttons">
+          <button class="delete-note-button cta-btn cta-btn--delete hidden" type="button">Delete Note</button>
+          <button class="update-note-button cta-btn cta-btn--shell">Save Note</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+  
+  
+
+
+
+
+
+<div class="share-modal-wrapper">
+  <a href="javascript:;" class="share-modal-link icon-link" data-ol-link-track=ModalLinkClick|ShareIcon>
+  <img class="icon-link__image" src="/static/images/icons/share.svg" alt="">
+  <div class="icon-link__text">Share</div>
+</a>
+
+
+
+  <div class="hidden">
+    <div id="social-modal-content" class="floaterAdd">
+      <div class="content">
+        <div class="floaterHead right-justify">
+          <a class="dialog--close">&times;<span class="shift">Close</span></a>
+        </div>
+        <div class="shareLinks cta-section">
+          <ul class="shareLinks-list">
+              <li>
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL20644201M%2FHolocene_settlement_of_the_Egyptian_Sahara." class="sansserif large" target="_blank"
+                  data-ol-link-track="Share|Facebook">
+                  <img
+                    title="Share on Facebook"
+                    alt="Facebook" class="share-link"
+                    src="/static/images/facebook.svg?v=2221df78e6776d3671b56fbed6732cd7"
+                    loading="lazy"
+                  >
+                </a>
+                <div class="share-source">Facebook</div>
+              </li>
+              
+              <li>
+                <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL20644201M%2FHolocene_settlement_of_the_Egyptian_Sahara.&amp;via=openlibrary&amp;text=Check+this+out%3A+Holocene+settlement+of+the+Egyptian+Sahara.+by+Fred+Wendorf" class="sansserif large" target="_blank"
+                  data-ol-link-track="Share|Twitter">
+                  <img
+                    title="Share on Twitter"
+                    alt="Twitter" class="share-link"
+                    src="/static/images/twitter.svg?v=ec50fd8c4aa8205ba33750f580e76a5b"
+                    loading="lazy"
+                  >
+                </a>
+                <div class="share-source">Twitter</div>
+              </li>
+              
+              <li>
+                <a href="https://pinterest.com/pin/create/link/?url=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL20644201M%2FHolocene_settlement_of_the_Egyptian_Sahara.&amp;description=Check+this+out%3A+Holocene+settlement+of+the+Egyptian+Sahara.+by+Fred+Wendorf" class="sansserif large" target="_blank"
+                  data-ol-link-track="Share|Pinterest">
+                  <img
+                    title="Share on Pinterest"
+                    alt="Pinterest" class="share-link"
+                    src="/static/images/pinterest.svg?v=df62fe57a8c7caabbcc722e7b59b7367"
+                    loading="lazy"
+                  >
+                </a>
+                <div class="share-source">Pinterest</div>
+              </li>
+              
+            <li>
+              
+              <a class="embed-work-btn" title="Embed this book in your website" data-ol-link-track="Share|Embed"
+                onclick="prompt('Copy embed code to clipboard:', '&lt;iframe frameborder=&quot;0&quot; width=&quot;165&quot; height=&quot;400&quot; src=&quot;//openlibrary.orghttps://openlibrary.org/books/OL20644201M/widget&quot;&gt;&lt;/iframe&gt;');">
+                <img
+                  alt="Embed icon"
+                  class="share-link"
+                  src="/static/images/embed.png?v=3cfbbb4731c6f5c37e543bc98579f357"
+                  loading="lazy"
+                >
+              </a>
+              <div class="share-source">Embed</div>
+            </li>
+            
+            <li>
+              <a class="copy-url-btn" title="Copy url to clipboard" data-ol-link-track="Share|CopyURL">
+                  <img
+                      alt="Copy URL icon"
+                      class="share-link"
+                      src="/static/images/copy_url.png?v=ee1e83c926d101bcf002dbfd4801f7e2"
+                      loading="lazy"
+                  >
+              </a>
+              <div class="share-source">Copy URL</div>
+            </li>
+
+            <li>
+              <a href="/qrcode?path=/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara." target="_blank" class="qr-code-btn" title="Open QR code" data-ol-link-track="Share|QRCode">
+                  <img
+                      alt="QR code icon"
+                      class="share-link"
+                      src="/static/images/qr_code.png?v=171b6f30f4749df7e536e368d400a743"
+                      loading="lazy"
+                  >
+              </a>
+              <div class="share-source">QR Code</div>
+            </li>
+
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+        </div>
+
+      </div>
+    </div>
+
+    <div class="panel desktop-vendor">
+      <div class="btn-notice">
+        
+<div class="cta-section">
+  <p class="cta-section-title world-cat-link">Check nearby libraries</p>
+  <ul class="book-locate-options">
+    <li><a href="https://labs.library.link/services/borrow/?isbn=9780306466120&embed=True&radius=500&refer=https://openlibrary.org/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara.">Library.link</a></li>
+    <li><a class="worldcat-link" data-ol-link-track="worldcat-search" href="
+
+https://worldcat.org/oclc/47283252
+" title="Check WorldCat for an edition near you">WorldCat</a></li>
+  </ul>
+</div>
+
+
+        <div class="cta-section">
+          <p class="cta-section-title">Buy this book</p>
+          
+<span class="affiliate-links-section" data-title="Holocene settlement of the Egyptian Sahara." data-opts="{&quot;isbn&quot;: &quot;9780306466120&quot;, &quot;asin&quot;: &quot;0306466120&quot;, &quot;prices&quot;: true}">
+  
+<div class="hidden loadingIndicator affiliate-links-loading">
+  <figure>
+  <img src="/images/ajax-loader-bar.gif" alt="Loading indicator" loading="lazy">
+  <figcaption style="
+      justify-content: center;
+      display: flex;
+  ">Fetching prices</figcaption>
+  </figure>
+</div>
+
+</span>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+
+    <div class="editionAbout">
+      
+
+<span class="nav-bar-wrapper sticky desktop-only">
+  <ul class="nav-bar work-menu">
+    <li class="selected">
+      <a href="#overview" data-ol-link-track="BookPageNav|Overview">Overview</a>
+    </li>
+    <li>
+      <a href="#editions-list" data-ol-link-track="BookPageNav|EditionTable">
+        View 1 Edition
+      </a>
+    </li>
+    <li>
+      <a href="#details" data-ol-link-track="BookPageNav|Details">Details</a>
+    </li>
+    <li>
+      <a href="#reader-observations" data-ol-link-track="BookPageNav|Reviews">
+        Reviews
+      </a>
+    </li>
+    <li>
+      <a href="#lists-section" data-ol-link-track="BookPageNav|Lists">Lists</a>
+    </li>
+    <li>
+      <a href="#related-work-carousel" data-ol-link-track="BookPageNav|RelatedBooks">Related Books</a>
+    </li>
+  </ul>
+</span>
+
+      <div class="editionAll">
+        
+<div id="editTools" class="edit">
+    <div id="editInfo">
+        <div class="brown smaller sansserif">Last edited by <a rel="nofollow" href="/people/horncBot" >MARC Bot</a></div>
+        <div class="smallest gray sansserif">November 14, 2023 | <a href="/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara.?m=history" rel="nofollow" title="View this template&#39;s edit history">History</a></div>
+    </div>
+    <div class="editButton">
+      <!-- FIXME: accesskey / keyboard shortcut needs i18n -->
+      <a
+        class="cta-btn cta-btn--vanilla"
+        href="/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara./edit"
+        title="Edit this page"
+        data-ol-link-track="CTAClick|Edit"
+        accesskey="e"
+        rel="nofollow"
+    >Edit</a>
+    </div>
+</div>
+
+      </div>
+      <a id="overview" name="overview" class="section-anchor section-anchor--no-height"></a>
+      <!-- (desktop only) -->
+      
+<div class="work-title-and-author desktop">
+  <span>
+    <div class="work-line">
+        An edition of <a href="/works/OL1878179W?edition=">Holocene settlement of the Egyptian Sahara</a>
+        <span class="first-published-date" title="First published in 2001">
+          (2001)
+        </span>
+    </div>
+    <h1 class="work-title" itemprop="name">Holocene settlement of the Egyptian Sahara.</h1>
+
+    <h2 class="edition-byline">
+      
+by <a href="/authors/OL224902A/Fred_Wendorf" itemprop="author">Fred Wendorf</a>
+
+    </h2>
+    
+
+<ul class="readers-stats  readers-stats__review-count--none" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <li class="avg-ratings" onclick="location.href='#starRatingSection';" data-ol-link-track="StarRating|StatsComponentClick">
+  </li>
+</ul>
+
+  </span>
+
+</div>
+
+
+      
+<div class="compact-title hidden">
+  <span class="compact-title__heading">Holocene settlement of the Egyptian Sahara.</span>
+  <div class="compact-title__edit-btn">
+    <a
+      class="cta-btn cta-btn--vanilla"
+      href="/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara./edit"
+      title="Edit this page"
+      data-ol-link-track="CTAClick|StickyEdit"
+      rel="nofollow"
+    >Edit</a>
+  </div>
+</div>
+
+
+      <div class="book-description">
+          <div class="book-description-content">
+              <p class="workHelp">
+                  This edition doesn't have a description yet. Can you <b><a href='/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara./edit#about/about'>add one</a></b>?
+              </p>
+          </div>
+      </div>
+      <div>
+        <div class="edition-omniline">
+          <div class="edition-omniline-item">
+            <div>Publish Date</div>
+            <span itemprop="datePublished">2001</span>
+          </div>
+          <div class="edition-omniline-item">
+            <div>Publisher</div>
+            <span>
+            <a itemprop="publisher" href="/publishers/Kluwer_Academic/Plenum_Publishers"
+               title="Show other books from Kluwer Academic/Plenum Publishers"
+               >Kluwer Academic/Plenum Publishers</a>
+            </span>
+          </div>
+          <div class="edition-omniline-item">
+            <div class="language">Language</div>
+            <span itemprop="inLanguage"><a href="/languages/eng">English</a></span>
+          </div>
+        </div>
+      </div>
+
+      <div class="Tools">
+        <div class="panel mobile-vendor">
+          <div class="btn-notice">
+            
+<div class="cta-section">
+  <p class="cta-section-title world-cat-link">Check nearby libraries</p>
+  <ul class="book-locate-options">
+    <li><a href="https://labs.library.link/services/borrow/?isbn=9780306466120&embed=True&radius=500&refer=https://openlibrary.org/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara.">Library.link</a></li>
+    <li><a class="worldcat-link" data-ol-link-track="worldcat-search" href="
+
+https://worldcat.org/oclc/47283252
+" title="Check WorldCat for an edition near you">WorldCat</a></li>
+  </ul>
+</div>
+
+
+            <div class="cta-section">
+              <p class="cta-section-title">Buy this book</p>
+              
+<span class="affiliate-links-section" data-title="Holocene settlement of the Egyptian Sahara." data-opts="{&quot;isbn&quot;: &quot;9780306466120&quot;, &quot;asin&quot;: &quot;0306466120&quot;, &quot;prices&quot;: true}">
+  
+<div class="hidden loadingIndicator affiliate-links-loading">
+  <figure>
+  <img src="/images/ajax-loader-bar.gif" alt="Loading indicator" loading="lazy">
+  <figcaption style="
+      justify-content: center;
+      display: flex;
+  ">Fetching prices</figcaption>
+  </figure>
+</div>
+
+</span>
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+    <div class="subjects">
+      <div class="subjects-content">
+        
+<div class="section link-box">
+  <span class="clamp" data-before="&#9656; ">
+  <h3>Subjects</h3>
+    <a href="/subjects/plant_remains_(archaeology)" data-ol-link-track="BookOverview|SubjectClick">Plant remains (Archaeology)</a>,
+    <a href="/subjects/excavations_(archaeology)" data-ol-link-track="BookOverview|SubjectClick">Excavations (Archaeology)</a>,
+    <a href="/subjects/animal_remains_(archaeology)" data-ol-link-track="BookOverview|SubjectClick">Animal remains (Archaeology)</a>,
+    <a href="/subjects/antiquities" data-ol-link-track="BookOverview|SubjectClick">Antiquities</a>,
+    <a href="/subjects/neolithic_period" data-ol-link-track="BookOverview|SubjectClick">Neolithic period</a>,
+    <a href="/subjects/excavations_(archaeology)" data-ol-link-track="BookOverview|SubjectClick">Excavations (archaeology)</a>,
+    <a href="/subjects/plant_remains_(archaeology)" data-ol-link-track="BookOverview|SubjectClick">Plant remains (archaeology)</a>,
+    <a href="/subjects/animal_remains_(archaeology)" data-ol-link-track="BookOverview|SubjectClick">Animal remains (archaeology)</a>,
+    <a href="/subjects/egypt_antiquities" data-ol-link-track="BookOverview|SubjectClick">Egypt, antiquities</a>,
+    <a href="/subjects/excavations_(archaeology)_europe" data-ol-link-track="BookOverview|SubjectClick">Excavations (archaeology), europe</a>
+  </span>
+</div>
+
+
+
+<div class="section link-box">
+  <span class="clamp" data-before="&#9656; ">
+  <h3>Places</h3>
+    <a href="/subjects/place:egypt" data-ol-link-track="BookOverview|SubjectPlacesClick">Egypt</a>,
+    <a href="/subjects/place:western_desert" data-ol-link-track="BookOverview|SubjectPlacesClick">Western Desert</a>,
+    <a href="/subjects/place:western_desert_(egypt)" data-ol-link-track="BookOverview|SubjectPlacesClick">Western Desert (Egypt)</a>,
+    <a href="/subjects/place:nabta_playa_sites_(egypt)" data-ol-link-track="BookOverview|SubjectPlacesClick">Nabta Playa Sites (Egypt)</a>
+  </span>
+</div>
+
+
+
+
+      </div>
+    </div>
+
+      <a id="editions-list" name="editions-list" class="section-anchor"></a>
+      <div class="tab-section">
+        
+
+<table id="editions" class="editions-table editions-table--progressively-enhanced">
+    <thead>
+    <tr>
+        <th class="title" title=""><a tabindex="-1" href="javascript:;">Edition<span></span></a></th>
+        <th class="read" title=""><a tabindex="-1" href="javascript:;">Availability<span></span></a></th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr class="highlight">
+          
+          
+
+
+
+
+
+
+
+
+    <td class="book">
+      <span class="hidden sort-key">1</span>
+      <div class="cover">
+          <a href="/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara."><img
+            src="//covers.openlibrary.org/b/id/13221414-S.jpg"
+            alt="Cover of: Holocene settlement of the Egyptian Sahara."
+            title="Cover of: Holocene settlement of the Egyptian Sahara."
+            loading="lazy"
+          /></a>
+      </div>
+
+      <div class="title">
+        <a href="/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara.">
+          Holocene settlement of the Egyptian Sahara.
+        </a>
+        
+        
+        <div class="published">
+          2001, Kluwer Academic/Plenum Publishers
+        </div>
+
+        <div class="format">
+          <!-- TODO: this section is going to be difficult to properly internationalize -->
+          <!-- Formats are store as a raw string -->
+          
+          in English
+        </div>
+
+        <div class="hidden">
+                0306466120 9780306466120
+        </div>
+
+      </div>
+    </td>
+
+
+    <td class="icon read ">
+      <div class="hidden">aaaa</div>
+      <div class="links">
+        <ul class="read">
+          
+          <li class="read-option">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="cta-button-group">
+  
+
+<a class="cta-btn cta-btn--available cta-btn--w-icon cta-btn--external" href="/books/OL20644201M/-/borrow?action=locate"
+  data-ol-link-track="CTAClick|Locate">Locate</a>
+
+</div>
+
+
+</li>
+        </ul>
+      </div>
+    </td>
+
+        </tr>
+    </tbody>
+</table>
+
+<p class="small sansserif edition-adder">
+  <a href="/books/add?work=/works/OL1878179W" title="Add another edition of Holocene settlement of the Egyptian Sahara">Add another edition?</a>
+</p>
+
+<!-- Admin only text doesn't need to be translated -->
+
+      </div>
+
+      <a id="details" name="details" class="section-anchor"></a>
+      <div class="tab-section edition-info">
+        <h2 class="details-title" itemprop="name">Book Details</h2>
+        <hr>
+        <div class="section read-more">
+          <h3>Table of Contents</h3>
+          
+<div class="toc read-more__content" style="max-height:350px">
+  <div
+    class="toc__entry"
+    data-level="0"
+    style="margin-left:0ch"
+  >
+    <div
+      class="toc__main"
+      
+      
+    >
+      <div class="toc__name">
+        <div class="toc__title"> v. 1. The archaeology of Nabta Playa / by Fred Wendorf, Romuald Schild, and associates</div>
+  
+      </div>
+    </div>
+  
+  </div>
+  <div
+    class="toc__entry"
+    data-level="0"
+    style="margin-left:0ch"
+  >
+    <div
+      class="toc__main"
+      
+      
+    >
+      <div class="toc__name">
+        <div class="toc__title"> v. 2. The pottery of Nabta Playa / by Kit Nelson and associates</div>
+  
+      </div>
+    </div>
+  
+  </div>
+</div>
+
+          <button class="read-more__toggle read-more__toggle--more">Read more &#9662</button>
+<button class="read-more__toggle read-more__toggle--less">Read less &#9650</button>
+
+        </div>
+        
+        <div class="section">
+            <h3>Edition Notes</h3>
+            <div class="edition-notes">
+            
+<p>Includes bibliographical references and indexes.
+</p>
+
+            </div>
+            <dl class="meta">
+                <dt>Published in</dt>
+<dd class="object">New York</dd>
+
+
+                
+                
+                
+                
+                
+                
+                
+            </dl>
+        </div>
+        
+        <div class="section">
+            <h3>Classifications</h3>
+            <dl class="meta">
+                
+<dt>Dewey Decimal Class</dt>
+<dd class="object" >
+    932
+</dd>
+
+
+                
+<dt>Library of Congress</dt>
+<dd class="object" >
+    GN776.42.E3 W46 2001, 
+    CC1-960HM545HM623
+</dd>
+
+
+            </dl>
+        </div>
+        
+        <div class="section">
+            <h3>The Physical Object</h3>
+            <dl class="meta">
+                
+                <dt>Pagination</dt>
+<dd class="object">v. &lt;1-2   &gt; :
+
+</dd>
+
+
+                
+                
+                
+            </dl>
+        </div>
+        
+        
+        <div class="section">
+          <h3>ID Numbers</h3>
+          <dl class="meta">
+              
+<dt>Open Library</dt>
+<dd class="object" >
+    OL20644201M
+</dd>
+
+
+              
+<dt>ISBN 10</dt>
+<dd class="object" itemprop="isbn">
+    0306466120, 
+    0306466139
+</dd>
+
+
+              
+<dt>LCCN</dt>
+<dd class="object" >
+    <a href="https://lccn.loc.gov/2001041355">2001041355</a>
+</dd>
+
+
+              
+<dt>OCLC/WorldCat</dt>
+<dd class="object" >
+    <a href="https://www.worldcat.org/oclc/47283252?tab=details">47283252</a>
+</dd>
+
+
+              
+          
+          
+          
+          
+          <dt>Goodreads</dt>
+<dd><a href="https://www.goodreads.com/book/show/6309169">6309169</a></dd>
+
+<dd><a href="https://www.goodreads.com/book/show/162460">162460</a></dd>
+
+
+          </dl>
+        </div>
+        <div class="section">
+        <h3>Source records</h3>
+        <a href="https://www.betterworldbooks.com/">Better World Books</a> <a href="/show-records/bwb:9780306466120">record</a><br/><a href="https://www.betterworldbooks.com/">Better World Books</a> <a href="/show-records/bwb:9780306466137">record</a><br/><a href="//archive.org/details/marc_loc_2016">Library of Congress</a> <a href="/show-records/marc_loc_2016/BooksAll.2016.part28.utf8:218506870:1465">MARC record</a><br/><a href="https://www.amazon.com/?tag=internetarchi-20">amazon.com</a> <a href="/show-records/amazon:0306466139">record</a><br/><a href="//archive.org/details/marc_columbia">marc_columbia</a> <a href="/show-records/marc_columbia/Columbia-extract-20221130-007.mrc:195377992:1622">MARC record</a>
+        </div>
+      </div>
+
+      
+
+<a id="reader-observations" name="reader-observations" class="section-anchor"></a>
+
+<div class="tab-section review-component">
+  <div class="reviews-header">
+    <h2 class="observation-title">Community Reviews (0)</h2>
+    <a class="observations-feedback" href="https://forms.gle/wEr1dw3tLQYrC7Rr6">Feedback?</a>
+  </div>
+  <div class="no-stats-message">No community reviews have been submitted for this work.</div>
+  <div class="review-cta">
+    <a class="login-link" href="/account/login?redirect=/books/OL20644201M#reader-observations">+ Log in to add your community review</a>
+  </div>
+</div>
+
+      <a id="lists-section" class="section-anchor"></a>
+      <div class="workFooter tab-section">
+        
+        
+        <div class="lists-heading">
+          <h2 class="lists-title">Lists</h2>
+        </div>
+        <div class="user-book-options">
+          <div class="Tools tools-override">
+            
+
+<div class="lists-widget-container">
+
+
+
+<ul id="list-lists" class="listLists">
+  
+</ul>
+
+</div>
+
+            
+
+<div class="lists-widget-container">
+
+
+
+<ul id="list-lists" class="listLists">
+  
+</ul>
+
+</div>
+
+            This work does not appear on any lists.
+          </div>
+        </div>
+      </div>
+      <a id="related-work-carousel" class="section-anchor"></a>
+    </div>
+  </div>
+
+  <div class="RelatedWorksCarousel" data-workid="OL1878179W">
+    
+<div class="hidden loadingIndicator carousel-loading">
+  <figure>
+  <img src="/images/ajax-loader-bar.gif" alt="Loading indicator" loading="lazy">
+  <figcaption style="
+      justify-content: center;
+      display: flex;
+  ">Loading Related Books</figcaption>
+  </figure>
+</div>
+
+  </div>
+
+  
+
+<div class="clearfix"></div>
+<div id="pageHistory">
+    <div class="head">
+        <h2 class="collapse inline">
+            History
+        </h2>
+        <ul class="pageHistory__list inline">
+        <li class="title inline">Created October 29, 2008</li>
+        <li class="link inline"><a rel="nofollow" href="/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara.?m=history">9 revisions</a></li>
+        </ul>
+        
+        <span id="historyTools" class="pageHistory__tools smaller brown sansserif">
+            Download catalog record:
+            <a rel="nofollow" href="/books/OL20644201M.rdf">RDF</a>
+            /
+            <a rel="nofollow" href="/books/OL20644201M.json">JSON</a>
+            /
+            <a rel="nofollow" href="/books/OL20644201M.opds">OPDS</a>
+            | <a aria-controls="wikicode" id="wikilink" class="dialog--open" title="Cite this on Wikipedia" href="javascript:;">Wikipedia citation</a>
+        </span>
+        
+        <div class="hidden">
+            <div class="coverFloat" id="wikicode">
+                <div class="coverFloatHead">
+                  <h2>Wikipedia citation</h2>
+                  <a class="dialog--close">&times;<span class="shift">Close</span></a>
+                </div>
+                <p>Copy and paste this code into your Wikipedia page. <a href="https://en.wikipedia.org/wiki/Template:Cite_book" target="_blank" title="Get instructions at Wikipedia in a new window">Need help?</a></p>
+                <form method="get">
+                  <textarea cols="70" rows="10" readonly="readonly" id="wikiselect">{{cite book|author=Fred Wendorf |date=2001 |title=Holocene settlement of the Egyptian Sahara. |publication-place=New York |publisher=Kluwer Academic/Plenum Publishers |isbn=0-306-46612-0 |lccn=2001041355 |oclc=47283252 |ol=20644201M}}</textarea>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <table class="history">
+        <tbody>
+            <tr>            <td class="timestamp"><a rel="nofollow" href="/books/OL20644201M?v=9" title="View revision 9">November 14, 2023</a></td>
+            <td class="timestamp">
+                Edited by <a rel="nofollow" href="/people/horncBot" class="truncate" >MARC Bot</a>
+            </td>
+            <td class="detail">
+
+import existing book
+</td>
+            
+</tr>
+            <tr>            <td class="timestamp"><a rel="nofollow" href="/books/OL20644201M?v=8" title="View revision 8">February 2, 2023</a></td>
+            <td class="timestamp">
+                Edited by <a rel="nofollow" href="/people/ImportBot" class="truncate" >ImportBot</a>
+            </td>
+            <td class="detail">
+
+import existing book
+</td>
+            
+</tr>
+            <tr>            <td class="timestamp"><a rel="nofollow" href="/books/OL20644201M?v=7" title="View revision 7">December 3, 2020</a></td>
+            <td class="timestamp">
+                Edited by <a rel="nofollow" href="/people/horncBot" class="truncate" >MARC Bot</a>
+            </td>
+            <td class="detail">
+
+import existing book
+</td>
+            
+</tr>
+            <tr>            <td class="timestamp"><a rel="nofollow" href="/books/OL20644201M?v=6" title="View revision 6">October 8, 2020</a></td>
+            <td class="timestamp">
+                Edited by <a rel="nofollow" href="/people/ImportBot" class="truncate" >ImportBot</a>
+            </td>
+            <td class="detail">
+
+import existing book
+</td>
+            
+</tr>
+            <tr>            <td class="timestamp"><a rel="nofollow" href="/books/OL20644201M?v=1" title="View revision 1">October 29, 2008</a></td>
+            <td class="timestamp">
+                Created by <a rel="nofollow" href="/people/ImportBot" class="truncate" >ImportBot</a>
+            </td>
+            <td class="detail">
+
+Imported from
+<a href="//archive.org/details/marc_loc_updates">Library of Congress</a> <a href="/show-records/marc_loc_updates/v36.i10.records.utf8:13500689:1465">MARC record</a>
+</td>
+            
+</tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+</div>
+
+
+  </div>
+
+
+
+
+<!--For analytics-->
+<div class="clearfix"></div>
+
+
+<footer>
+  <div id="footer-content" >
+    <div id="footer-links">
+      <div>
+        <h2>Open Library</h2>
+        <ul>
+          <li><a href="/about/vision">Vision</a></li>
+          <li><a href="/volunteer">Volunteer</a></li>
+          <li><a href="/partner-with-us">Partner With Us</a></li>
+          <li><a href="https://archive.org/about/jobs.php" title="Jobs">Careers</a></li>
+          <li><a href="https://blog.openlibrary.org/">Blog</a></li>
+          <li><a href="https://archive.org/about/terms.php">Terms of Service</a></li>
+          <li><a href="https://archive.org/donate/?platform=ol&origin=olwww-TopNavDonateButton">Donate</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>Discover</h2>
+        <ul>
+          <li><a href="/" title="Go home">Home</a></li>
+          <li><a href="/search" title="Explore Books">Books</a></li>
+          <li><a href="/search/authors" title="Explore authors">Authors</a></li>
+          <li><a href="/subjects" title="Explore subjects">Subjects</a></li>
+          <li><a href="/collections" title="Explore collections">Collections</a></li>
+          <li><a href="/advancedsearch" title="Advanced Search">Advanced Search</a></li>
+          <li><a href="#top" title="Navigate to top of this page">Return to Top</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>Develop</h2>
+        <ul>
+          <li><a href="/developers" title="Explore Open Library Developer Center">Developer Center</a></li>
+          <li><a href="/developers/api" title="Explore Open Library APIs">API Documentation</a></li>
+          <li><a href="/developers/dumps" title="Bulk Open Library data">Bulk Data Dumps</a></li>
+          <li><a href="https://github.com/internetarchive/openlibrary/wiki/Writing-Bots" title="Write a bot">Writing Bots</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>Help</h2>
+        <ul>
+          <li><a href="/help">Help Center</a></li>
+          <li><a href="mailto:openlibrary@archive.org?subject=Support Case" title="Problems">Report A Problem</a></li>
+          <li><a href="/help/faq/editing" title="Suggest Edits">Suggesting Edits</a></li>
+          <li><a href="/books/add" title="Add a new book to Open Library">Add a Book</a></li>
+          <li><a href="https://github.com/internetarchive/openlibrary/releases" title="Release Notes">Release Notes</a></li>
+        </ul>
+        <aside>
+          <a class="footer-icon" title="Twitter" href="https://twitter.com/OpenLibrary"><img src="/static/images/tweet.svg" alt="" loading="lazy"></a>
+          <a class="footer-icon" title="GitHub" href="https://github.com/internetarchive/openlibrary"><img src="/static/images/github.svg" alt="" loading="lazy"></a>
+        </aside>
+      </div>
+      <div>
+        <h2>Change Website Language</h2>
+        
+<ul class="locale-options ">
+  <li><a href="#" lang="cs" data-lang-id="cs" title="Czech">Čeština (cs)</a></li> 
+  <li><a href="#" lang="de" data-lang-id="de" title="German">Deutsch (de)</a></li> 
+  <li><a href="#" lang="en" data-lang-id="en" title="English">English (en)</a></li> 
+  <li><a href="#" lang="es" data-lang-id="es" title="Spanish">Español (es)</a></li> 
+  <li><a href="#" lang="fr" data-lang-id="fr" title="French">Français (fr)</a></li> 
+  <li><a href="#" lang="hr" data-lang-id="hr" title="Croatian">Hrvatski (hr)</a></li> 
+  <li><a href="#" lang="it" data-lang-id="it" title="Italian">Italiano (it)</a></li> 
+  <li><a href="#" lang="pt" data-lang-id="pt" title="Portuguese">Português (pt)</a></li> 
+  <li><a href="#" lang="hi" data-lang-id="hi" title="Hindi">हिंदी (hi)</a></li> 
+  <li><a href="#" lang="sc" data-lang-id="sc" title="Sardinian">Sardu (sc)</a></li> 
+  <li><a href="#" lang="te" data-lang-id="te" title="Telugu">తెలుగు (te)</a></li> 
+  <li><a href="#" lang="uk" data-lang-id="uk" title="Ukrainian">Українська (uk)</a></li> 
+  <li><a href="#" lang="zh" data-lang-id="zh" title="Chinese">中文 (zh)</a></li> 
+</ul>
+
+      </div>
+    </div>
+    <hr>
+    <div id="footer-details">
+      <img id="archive-logo" src="/static/images/pantheon.png" alt="Open Library logo" loading="lazy">
+      <div id="legal-details" >
+        <span>Open Library is an initiative of the <a href="//archive.org/">Internet Archive</a>, a 501(c)(3) non-profit, building a digital library of Internet sites and other cultural artifacts in  digital form. Other <a href="//archive.org/projects/">projects</a> include the <a href="//archive.org/web/">Wayback Machine</a>, <a href="//archive.org/">archive.org</a> and <a href="//archive-it.org">archive-it.org</a></span>
+      </div>
+      <div id="version-details">
+        <span class="version">version <a href="https://github.com/internetarchive/openlibrary/commit/cc339a9">cc339a9</a></span>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+<script src="/cdn/archive.org/analytics.js" type="text/javascript"></script>
+<script src="/static/build/all.js?v=35fe729d39027190d00ebeb2f39ca90a" type="text/javascript"></script>
+<!-- Passes total_time for analytics to ol.analytics.js -->
+<div class="analytics-stats-time-calculator" data-time="298.0771064758301"></div>
+</body>
+</html>
+

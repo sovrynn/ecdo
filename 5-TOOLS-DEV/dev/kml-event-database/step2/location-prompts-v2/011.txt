@@ -1,0 +1,11 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Bay of Biscay turbidity sedimentation event
+
+Basic location of event: North Atlantic
+
+Specific data/information/context related to event: Sci-Hub | Activity of the turbidite levees of the Celtic–Armorican margin (Bay of Biscay) during the last 30,000 years: Imprints of the last European deglaciation and Heinrich events. Marine Geology, 247(1-2), 84–103 | 10.1016/j.margeo.2007.08.006
+
+Toucanne, S., Zaragosi, S., Bourillet, J. F., Naughton, F., Cremer, M., Eynaud, F., & Dennielou, B. (2008). Activity of the turbidite levees of the Celtic–Armorican margin (Bay of Biscay) during the last 30,000 years: Imprints of the last European deglaciation and Heinrich events. Marine Geology, 247(1-2), 84–103. doi:10.1016/j.margeo.2007.08.006 
+
+10.1016/j.margeo.2007.08.006

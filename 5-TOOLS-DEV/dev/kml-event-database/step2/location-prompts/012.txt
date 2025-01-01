@@ -1,0 +1,83 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Laurentide / Fennoscandian ice-sheet melt
+
+Basic location of event: Scandinavia
+
+Specific data/information/context related to event: Laurentide ice sheet
+
+The Laurentide ice sheet (LIS) was a massive sheet of ice that covered millions of square miles, including most of Canada and a large portion of the Northern United States, multiple times during the Quaternary glaciation epochs, from 2.58 million years ago to the present.
+
+The last advance covered most of northern North America between c. 95,000 and c. 20,000 years before the present day and, among other geomorphological effects, gouged out the five Great Lakes and the hosts of smaller lakes of the Canadian Shield. These lakes extend from the eastern Northwest Territories, through most of northern Canada, and the upper Midwestern United States (Minnesota, Wisconsin, and Michigan) to the Finger Lakes, through Lake Champlain and Lake George areas of New York, across the northern Appalachians into and through all of New England and Nova Scotia.
+
+At times, the ice sheet's southern margin included the present-day sites of coastal towns of the Northeastern United States, and cities such as Boston and New York City and Great Lakes coastal cities and towns as far south as Chicago and St. Louis, Missouri, and then followed the present course of the Missouri River up to the northern slopes of the Cypress Hills, beyond which it merged with the Cordilleran Ice Sheet. The ice coverage extended approximately as far south as 38 degrees latitude mid-continent.
+
+Description
+
+This ice sheet was the primary feature of the Pleistocene epoch in North America, commonly referred to as the ice age. During the Pre-Illinoian Stage, the Laurentide Ice Sheet extended as far south as the Missouri and Ohio River valleys. It was up to 2 mi (3.2 km) thick in Nunavik, Quebec, Canada, but much thinner at its edges, where nunataks were common in hilly areas. It created much of the surface geology of southern Canada and the northern United States, leaving behind glacially scoured valleys, moraines, eskers and glacial till. It also caused many changes to the shape, size, and drainage of the Great Lakes. As but one of many examples, near the end of the last ice age, Lake Iroquois extended well beyond the boundaries of present-day Lake Ontario, and drained down the Hudson River into the Atlantic Ocean.
+
+Its cycles of growth and melting were a decisive influence on global climate during its existence. This is because it served to divert the jet stream southward, which would otherwise flow from the relatively warm Pacific Ocean through Montana and Minnesota. That gave the Southwestern United States, otherwise a desert, abundant rainfall during ice ages, in extreme contrast to most other parts of the world which became exceedingly dry, though the effect of ice sheets in Europe had an analogous effect on the rainfall in Afghanistan, parts of Iran, possibly western Pakistan in winter, as well as North Africa.
+
+Its melting also caused major disruptions to the global climate cycle, because the huge influx of low-salinity water into the Arctic Ocean via the Mackenzie River is believed to have disrupted the formation of North Atlantic Deep Water, the very saline, cold, deep water that flows from the Greenland Sea. That interrupted the thermohaline circulation, creating the brief Younger Dryas cold epoch and a temporary re-advance of the ice sheet, which did not retreat from Nunavik until 6,500 years ago.
+
+After the end of the Younger Dryas, the Laurentide Ice Sheet retreated rapidly to the north, becoming limited to only the Canadian Shield until even it became deglaciated. The ultimate collapse of the Laurentide Ice Sheet is also suspected to have influenced European agriculture indirectly through the rise of global sea levels.
+
+Canada's oldest ice is in remnants of the LIS: the Barnes Ice Cap and the Penny Ice Cap.
+
+Ice centers
+
+During the Late Pleistocene, the Laurentide ice sheet reached from the Rocky Mountains eastward through the Great Lakes, into New England, covering nearly all of Canada east of the Rocky Mountains. Three major ice centers formed in North America: the Labrador, Keewatin, and Cordilleran. The Cordilleran covered the region from the Pacific Ocean to the eastern front of the Rocky Mountains and the Labrador and Keewatin fields are referred to as the Laurentide Ice Sheet. Central North America has evidence of the numerous lobes and sublobes. The Keewatin covered the western interior plains of North America from the Mackenzie River to the Missouri River and the upper reaches of the Mississippi River. The Labrador covered spread over eastern Canada and the northeastern part of the United States abutting the Keewatin lobe in the western Great Lakes and Mississippi valley.
+
+Keewatin ice dome
+
+The Keewatin ice dome has had four or five primary lobes identified ice divides extending from a dome over west-central Keewatin (Kivalliq). Two of the lobes abut the adjacent Labrador and Foxe-Baffin ice domes. The primary lobes flow (1) towards Manitoba and Saskatchewan; (2) toward Hudson Bay; (3) towards the Gulf of Boothia, and (4) towards the Beaufort Sea.
+
+Labrador ice dome
+
+The Labrador dome flowed across all of Maine and into the Gulf of St. Lawrence, completely covering the Maritime Provinces. The Appalachian Ice Complex, flowed from the Gaspé Peninsula over New Brunswick, the Magdalen Islands, and Nova Scotia. The Labrador flow extended across the mouth of the St. Lawrence River, reaching the Gaspé Peninsula and across Chaleur Bay. From the Escuminac center on the Magdalen Islands, flowed onto the Acadian Peninsula of New Brunswick and southeastward, onto the Gaspe, burying the western end of Prince Edward Island and reached the head of Bay of Fundy. From the Gaspereau center, on the divide crossing New Brunswick flowed into the Bay of Fundy and Chaleur Bay. 
+
+In New York, the ice that covered Manhattan was about 2,000 feet high before it began to melt in about 16,000 BC. The ice in the area disappeared around 10,000 BC. The ground in the New York area has since risen by more than 150 ft because of the removal of the enormous weight of the melted ice.
+
+Foxe-Baffin ice dome
+
+The Foxe-Baffin ice dome was circular and centered over the Foxe Basin. A major divide across the basin, created a westward flow across the Melville Peninsula, from an eastward flow over Baffin Island and Southampton Island. Across southern Baffin Island, two divides created four additional lobes. The Penny Ice Divide split the Cumberland Peninsula, where Pangnirtung created flow toward Home Bay on the north and Cumberland Sound on the south. The Amadjuak Ice Divide on the Hall Peninsula, where Iqaluit sits created a north flow into Cumberland Sound and a south flow into the Hudson Strait. A secondary Hall Ice Divide formed a link to a local ice cap on the Hall Peninsula. The current ice caps on Baffin Island are thought to be a remnant from this time period, but it was not a part of the Baffin ice flow, but an autonomous flow.
+
+Adjacent ice sheets
+
+Cordilleran ice sheet
+
+The Cordilleran ice sheet covered up to 1,500,000 square kilometres (580,000 sq mi) at the Last Glacial Maximum. The eastern edge abutted the Laurentide ice sheet. The sheet was anchored in the Coast Mountains of British Columbia and Alberta, south into the Cascade Range of Washington. That is one and a half times the water held in the Antarctic. Anchored in the mountain backbone of the west coast, the ice sheet dissipated north of the Alaska Range where the air was too dry to form glaciers. It is believed that the Cordilleran ice melted rapidly, in less than 4000 years.
+
+Innuitian ice sheet
+
+The Innuitian ice sheet, centered on the Queen Elizabeth Islands, was connected to the northern part of the LIS.
+
+See also
+
+- Canadian Shield
+- Laurentia – Craton forming the geological core of North America
+- Glacial history of Minnesota
+- Driftless Area
+- Lake Agassiz
+- Wisconsin glaciation
+- Innuitian ice sheet
+- Cordilleran ice sheet
+
+References
+
+Lacelle, D.; Fisher, D. A.; Coulombe, S.; et al. (5 September 2018). "Buried remnants of the Laurentide Ice Sheet and connections to its surface elevation". Scientific Reports 8, 13286 (2018). doi:10.1038/s41598-018-31166-2.
+Flint, R.F. 1971. Glacial and Quaternary Geology. Wiley and Sons, NY. p. 892.
+Dyke, A. S.; Prest, V. K. (1987). "Late Wisconsinan and Holocene History of the Laurentide Ice Sheet". Géographie Physique et Quaternaire. 41 (2): 237–263. doi:10.7202/032681ar.
+7289&pages=<span class="nowrap">740-</span>743&date=2010&id=info:doi/10.1038/nature08954&id=https://api.semanticscholar.org/CorpusID:4425933#id-name=S2CID&id=info:pmid/20360738&id=info:bibcode/2010Natur.464..740M&aulast=Murton&aufirst=J.B.&au=Bateman, M.D.&au=Dallimore, S.R&au=Teller, J.T.&au=Yang, Z.&rfr_id=info:sid/en.wikipedia.org:Laurentide ice sheet
+Broecker, W.S.; Denton, G.H. (1989). "The role of ocean-atmosphere reorganizations in glacial cycles". Geochimica et Cosmochimica Acta. 53 (10): 2465–2501. Bibcode:1989GeCoA..53.2465B. doi:10.1016/0016-7037(89)90123-3.
+Margold, Marin; Stokes, Chris R.; Clark, Chris D. (1 June 2018). "Reconciling records of ice streaming and ice margin retreat to produce a palaeogeographic reconstruction of the deglaciation of the Laurentide Ice Sheet". Quaternary Science Reviews. 189: 1–30. doi:10.1016/j.quascirev.2018.03.013. S2CID 53511921.
+Geologic Framework and Glaciation of the Central Area, 1-1-2006; Christopher L. Hill; Boise State University, Boise, Idaho; 2006.
+Late Wisconsinan and Holocene History of the Laurentide Ice Sheet, 10.7202/032681ar; Arthur S. Dyke, Victor K. Prest; Geological Survey of Canada; Ottawa, Ontario; 1987; http://id.erudit.org/iderudit/032681ar.
+William J. Broad (5 June 2018). "How the Ice Age Shaped New York". The New York Times. Retrieved 24 February 2019. "the ice was about 2,000 feet thick over Manhattan"
+Martin Margold; Krister N. Jansson; Johan Kleman; Arjen P. Stroeven; John J. Clague (18 February 2013). "Retreat pattern of the Cordilleran Ice Sheet in central British Columbia at the end of the last glaciation reconstructed from glacial meltwater landforms". Boreas. 42 (4). Wiley Online Library: 830–847. doi:10.1111/bor.12007.
+J. England; N. Atkinson; J. Bednarski; A.S. Dyke; D.A. Hodgson; C. Ó Cofaigh (2005). "The Innuitian Ice Sheet: configuration, dynamics and chronology". Quaternary Science Reviews. 25 (7–8): 689–703. doi:10.1016/j.quascirev.2005.08.007.
+
+Further reading
+"Noah's Flood Kick-started European Farming?". University of Exeter. Retrieved 2007-11-20.
+External links
+The Retreat of Glaciers in North America Archived 2018-02-26 at the Wayback Machine (MPEG-Video)

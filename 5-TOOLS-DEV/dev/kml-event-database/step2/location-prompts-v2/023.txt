@@ -1,0 +1,116 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Greenland Ice Cores
+
+Basic location of event: Greenland
+
+Specific data/information/context related to event: The Greenland Ice Core Project (GRIP) was a research project organized through the European Science Foundation (ESF). The project ran from 1989 to 1995, with drilling seasons from 1990 to 1992. In 1988, the project was accepted as an ESF-associated program, and the fieldwork was started in Greenland in the summer of 1989. 
+
+GRIP aimed to collect and investigate 3000-meter-long ice cores drilled at the apex of the Greenland ice sheet, also known as Summit Camp. The Greenland ice sheet comprises more than 90% of the total ice sheet and glacier ice outside Antarctica. 
+
+The project was managed by a Steering Committee of the University of Bern's Physics Institute, chaired by Professor Bernhard Stauffer. Funding came from eight European nations (Belgium, Denmark, France, Germany, Iceland, Italy, Switzerland, and the United Kingdom), and from the European Union. Studies of nuclear isotopes and various atmospheric constituents provided by the cores allowed the team to construct detailed records of climate change, covering the last 100,000 years.
+
+Background
+
+The loss of mass of the Greenland ice sheet has been accelerating due to the effects of climate change caused by human activities. The mass loss of ice sheets and glaciers causes sea levels to rise, terrestrial albedo to decline, and patterns of ocean circulation to change. It is predicted that the sea level will rise by approximately 7 meters if all the ice melts. The rise in sea levels due to ice sheet glaciers’ melt would make it impossible for people to live in coastal regions. 
+
+Because there is no preserved ancient terrestrial sediment in Greenland, most ice sheet history is based on indirect records. Using the limited paleoclimate data, researchers have shown that the extent of ice in Greenland has changed significantly over time, and this suggests that the change in size is due to a variety of physical environmental factors. The best estimates based on the paleoclimate data show that the Greenland ice sheet is significantly reduced by even a small increase in the negative effects of climate change. A 2020 research paper suggests that the melting of the ice sheet that covers Greenland will accelerate much faster than previously predicted.
+
+Results and findings
+
+Studies of nuclear isotopes and various atmospheric constituents provide detailed records of climate change over 100,000 years. From the analysis of the oxygen isotope ratio of the GRIP core excavated in 1992, it became clear that abrupt climate change occurred in Greenland during the last glacial period. This happened more than 20 times. It further became clear that the warm and cold periods alternated. Near the bottom of the GRIP core, oxygen isotope ratios fluctuated sharply; this was initially interpreted as an indication of repeated violent climate change during the last interglacial period in Greenland.
+
+Techniques
+
+The first drilling of the Greenland Ice Core Project went only a few hundred meters into the glacier ice. But from 1989 to 1992 GRIP successfully drilled a 3029-meter ice core to the bed of the Greenland ice sheet at Summit. In 1991, ice cores 783 to 2482 meters long were drilled, and an ice core was drilled to bedrock in 1992. The ice core was first taken to the University of Copenhagen in Denmark, where it was stored in a cold room at -26 °C. Five sections of ice core with a length of about 300 to 400 mm were shipped to Japan. A wide range of information related to past and present climatic and environmental changes can be analyzed from the ice. The glacier layers that are collected can reveal up to 500,000 years of evidence.
+
+Studies of isotopes and various atmospheric constituents in the core have provided a detailed record of climate variability reaching more than 100,000 years back in time. The results indicate that the Holocene climate was remarkably stable, but they confirm the occurrence of rapid climatic variation during the last ice age. Delta-O-18 variations observed in the core that are believed to date from the Eemian Stage have not been confirmed by other records, including the North Greenland core, and are no longer believed to represent climate events. The interglacial climate of the Eemian Stage appears to have been as stable as the Holocene.
+
+Related projects
+
+In addition to GRIP, there have been several other ice core projects in Greenland, such as the Greenland Ice Sheet Project (GISP2), the North Greenland Ice Core Project (NorthGRIP), and the North Greenland Eemian Ice Drilling (NEEM).
+
+Climate change
+
+To accurately predict the response of the Greenland ice sheet to climate change, it is necessary to obtain long-term data on past warming and its effects and improve the climate and ice sheet models based on it. Since anthropogenic factors are deeply involved in environmental issues such as greenhouse gases, they may also be related to climate change during the Eemian.
+
+EastGRIP
+
+Previous ice core drilling projects, including GRIP, were carried out at sites where horizontal ice flow is as small as possible. In contrast, the latest EastGRIP research was conducted upstream of the Northeast Greenland Ice Stream. This is the most significant active ice stream in Greenland.
+
+Other projects
+
+- East Greenland Ice-core Project (EastGRIP)
+- WAIS Divide Ice Core Project
+- DYE3
+- Camp Century
+- South Pole Ice Core Project
+- Arctic Ice Core Project
+
+See also
+
+- Climatology
+- Dansgaard–Oeschger event
+- European Project for Ice Coring in Antarctica
+- Greenland Ice Sheet Project
+- Ice core
+
+Sources
+
+- Ice and Climate Group. "Field season 2015 East GReenland Ice core Project (EGRIP) 2015-2020: Moving NEEM camp to new EGRIP drilling site. and REnland ice CAp Project (RECAP) 2015" (PDF). NEEM - University of Copenhagen. Retrieved 18 March 2017.
+- Alley, RB, Andrews, J., Brigham-Grette, J, Clarke, GK., Cuffey, K., Fitzpatrick, J., Funder, S, Marshall, S., Miller, G., Mitrovica, J., Muhs, D., Otto-Bliesner, B., Polyak, L, & White, JW., (2010). 'History of the Greenland Ice Sheet: paleoclimatic insights', Quaternary Science Reviews, vol. 29, no. 15, pp. 1728–1756, doi:10.1016/j.quascirev.2010.02.007.
+of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change: CS1 maint: multiple names: editors list
+
+Johnsen S. J., Clausen, H. B., Dansgaard, W., Fuhrer, K., Gundestrup, N., Hammer, C. U., Iversen, P., Jouzel, J., Stauffer, B. and Steffensen, J. P. (1992). Irregular glacial interstadials recorded in a new Greenland ice core. Nature, 359, 311‒313.
+
+Masson-Delmotte, V., Landais, A., Stievenard, M., Cattani, O., Falourd, S., Jouzel, J., … Fischer, H. (2005). Holocene climatic changes in Greenland: Different deuterium excess signals at Greenland Ice Core Project (GRIP) and NorthGRIP. Journal of Geophysical Research - Atmospheres, 110(D14), D14102–n/a. https://doi.org/10.1029/2004JD005575
+
+NEEM community members. (2013). Eemian interglacial reconstructed from a Greenland folded ice core. Nature, 493, 489‒494.
+
+North Greenland Ice Core Project members. (2004). High-resolution record of Northern Hemisphere climate extending into the last interglacial period. Nature, 431, 147‒151.
+
+Sakurai, Iizuka, Y., Horikawa, S., Johnsen, S., Dahl-jensen, D., Steffensen, J. P., & Hondoh, T. (2009). Direct observation of salts as micro-inclusions in the Greenland GRIP ice core. Journal of Glaciology, 55(193), 777–783. https://doi.org/10.3189/002214309790152483
+
+SPICEcore, (n.d.). ‘South Pole Ice Core’. Retrieved from https://spicecore.org/about/
+
+Stauffer, B. (1993). ‘The Greenland Ice Core Project’. In Science, vol. 260, no. 5115, pp. 1766-1767, doi:10.1126/science.260.5115.1766
+
+Steffensen, J. P., Andersen, K. K., Masson-Delmotte, V., Popp, T., Rasmussen, S. O., Röthlisberger, R., ... Jouzel, J. (2008). High-Resolution Greenland Ice Core Data Show Abrupt Climate Change Happens in Few Years. Science (American Association for the Advancement of Science), 321(5889), 680–684. https://doi.org/10.1126/science.1157707
+
+Tandon, A. (2020). ‘New climate models suggest faster melting of the Greenland Ice Sheet’, Carbon Brief. Retrieved from https://www.carbonbrief.org/new-climate-models-suggest-faster-melting-of-the-greenland-ice-sheet/
+
+University of Copenhagen. (n.d.). ‘The Central Greenland Ice Cores’. Retrieved from https://www.iceandclimate.nbi.ku.dk/research/drill_analysing/history_drilling/central_ice_cores/
+
+References
+
+IPCC (2013) Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (ed. T. F. Stocker, D. Qin, G.-K. Plattner, M. Tignor, S. K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex, and P. M. Midgley), Cambridge University Press, Cambridge, United Kingdom, and New York, NY, USA, 1535 pp
+
+Christ, Andrew J.; Bierman, Paul R.; Schaefer, Joerg M.; Dahl-Jensen, Dorthe; Steffensen, Jørgen P.; Corbett, Lee B.; Peteet, Dorothy M.; Thomas, Elizabeth K.; Steig, Eric J.; Rittenour, Tammy M.; Tison, Jean-Louis (2021-03-30). "A multimillion-year-old record of Greenland vegetation and glacial history preserved in sediment beneath 1.4 km of ice at Camp Century". Proceedings of the National Academy of Sciences. 118 (13): e2021442118. doi:10.1073/pnas.2021442118.
+
+Dansgaard, W., Johnsen, S. J., Clausen, H. B., Dahl-jensen, D., Gundestrup, N. S., Hammer, C. U., Hvidberg, C. S., Steffensen, J. P., Sveinbjornsdottir, A. E., Jouzel, J. and Bond, G. (1993). Evidence for general instability of past climate from a 250-kyr ice-core record. Nature, 364, 218‒220.
+
+Is-, klima-og geofysik (2008-10-01). "The central Greenland ice cores". www.iceandclimate.nbi.ku.dk. Archived from the original on 2022-08-13. Retrieved 2022-05-27.
+
+Ice and Climate Group. "Field season 2015 East Greenland Ice core Project (EGRIP) 2015-2020: Moving NEEM camp to new EGRIP drilling site. and Renland ice Cap Project (RECAP) 2015". NEEM - University of Copenhagen. p. 82. Retrieved 18 March 2017.
+
+Alley, Richard B.; Andrews, J.T.; Brigham-Grette, J.; Clarke, G.K.C.; Cuffey, K.M.; Fitzpatrick, J.J.; Funder, S.; Marshall, S.J.; Miller, G.H.; Mitrovica, J.X.; Muhs, D.R. (July 2010). "History of the Greenland Ice Sheet: paleoclimatic insights". Quaternary Science Reviews. 29 (15–16): 1728–1756. doi:10.1016/j.quascirev.2010.02.007.
+
+Anklin, J., Barnola, J., Beer, T., Blunier, J., Chappellaz, H., Clausen, D., … Thorsteinsson, W. (1993). Climate instability during the last interglacial period was recorded in the Greenland Ice-core Project. Nature (London), 364(6434), 203–207.
+
+Gerber, Tamara Annina; Hvidberg, Christine Schøtt; Rasmussen, Sune Olander; Franke, Steven; Sinnl, Giulia; Grinsted, Aslak; Jansen, Daniela; Dahl-Jensen, Dorthe (2021-08-06). "Upstream flow effects revealed in the EastGRIP ice core using Monte Carlo inversion of a two-dimensional ice-flow model". The Cryosphere. 15 (8): 3655–3679. doi:10.5194/tc-15-3655-2021.
+
+North Greenland Ice Core Project members. (2004). High-resolution record of Northern Hemisphere climate extending into the last interglacial period. Nature, 431, 147‒151.
+
+Masson-Delmotte, V.; Landais, A.; Stievenard, M.; Cattani, O.; Falourd, S.; Jouzel, J.; Johnsen, S. J.; Dahl-Jensen, D.; Sveinsbjornsdottir, A.; White, J. W. C.; Popp, T. (2005-07-27). "Holocene climatic changes in Greenland: Different deuterium excess signals at Greenland Ice Core Project (GRIP) and NorthGRIP: Greenland Holocene Deuterium Excess". Journal of Geophysical Research: Atmospheres. 110 (D14): n/a. doi:10.1029/2004JD005575.
+
+NEEM community members. (2013). Eemian interglacial reconstructed from a Greenland folded ice core. Nature, 493, 489‒494.
+
+Grootes, P. M.; Stuiver, M.; White, J. W. C.; Johnsen, S.; Jouzel, J. (December 1993). "Comparison of oxygen isotope records from the GISP2 and GRIP Greenland ice cores". Nature. 366 (6455): 552–554. doi:10.1038/366552a0.
+
+Vinther, B. M.; Buchardt, S. L.; Clausen, H. B.; Dahl-Jensen, D.; Johnsen, S. J.; Fisher, D. A.; Koerner, R. M.; Raynaud, D.; Lipenkov, V.; Andersen, K. K.; Blunier, T.; Rasmussen, S. O.; Steffensen, J. P.; Svensson, A. M. (September 2009). "Holocene thinning of the Greenland ice sheet". Nature. 461 (7262): 385–388. doi:10.1038/nature08355.
+
+The GRIP logistics were managed by what is now called Centre for Ice and Climate at the Niels Bohr Institute, University of Copenhagen, Denmark. This research centre maintains a web page about ice core research: http://www.iceandclimate.nbi.ku.dk/research/drill_analysing/history_drilling/central_ice_cores/
+
+Other links:
+GRIP info from the NCDC
+GRIP publications list

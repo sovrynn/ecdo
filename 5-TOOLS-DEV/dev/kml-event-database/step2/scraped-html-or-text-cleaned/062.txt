@@ -1,0 +1,37 @@
+ecdo/1-EVIDENCE/biology/tree-rings/README.md at 0cfa44af0316fc619cf1fd22dc791da609f684cb · sovrynn/ecdo · GitHub
+
+Contribute to sovrynn/ecdo development by creating an account on GitHub.
+# Tree Rings
+
+## 2400 BCE Climate anomaly - Tree Rings
+
+*"The mid-24th century BCE climate anomaly is the period, between 2354 and 2345 BCE, of consistently reduced annual temperatures that are reconstructed from consecutive abnormally narrow, Irish oak tree rings."*
+
+https://en.wikipedia.org/wiki/Mid-24th_century_BCE_climate_anomaly#:~:text=In%201997%2C%20Marie-Agn%C3%A8s%20Courty,hundred%20kilometres%20from%20each%20other
+
+### Tree-Rings Indicate Global Environmental Downturns that could have been Caused by Comet Debris - Baillie (hard copy here)
+
+Interestingly the main paper referenced in this Wikipedia article also points to more recent dates (200 BC, approximately 540 AD) as other suspicious dates. He includes his own cataclysm compilation as well. Hard copy in this folder.
+
+"For example, one of the Irish oak dates was 207 BC. In China events in 208 BC, and the years following, included a dim Sun, crop failures, famine and high death rates; and a new dynasty, the Han, is believed to have started in 206 (Pang et al. 1987). Meanwhile, in Europe, problems in Rome called for consultation of the Sibylline Books resulting in the return of the Goddess Cybele from Asia Minor; Cybele was manifest as a ‘small black meteorite.’ This latter occurrence made sense of a series of references by Livy to ‘stones falling from the sky’ and strange lights in the sky, ‘prodigies of Jupiter’, et cetera (Forsyth 1990). Clearly, dates around 207 BC might be expected to show up in other records."
+
+"Thus, by the mid-1990s it was realized that, around AD 540, there was a global environmental downturn that had affected tree growth in widely separated regions around the world (Baillie 1994, 1995). Moreover, it was almost immediately apparent that the event was two-stage. It appears that the initial effects were in 536 and that these were followed by a second pulse some- where in the window 538–543; thus it became sensible to refer to the ‘540 event’ as something spanning 536–545."
+
+"It transpires that the historical record is un-naturally thin around 540."
+
+## THE RADIOCARBON CALIBRATION FROM AN IRISH OAK PERSPECTIVE - Irish Oak Tree Rings (hard copy here)
+
+"This resulted in a series of dates (e.g. 3195 BC, 2345 BC, 1159 BC, 207 BC, and AD 540) that turned out to be potentially important “marker dates” in human history (Baillie and Munro 1988; Baillie 1995; see also Hammer et al. 1987)."
+
+![](img/irish-oak.png)
+
+## Irish tree rings, Santorini and volcanic dust veils - Baillie (hard copy here)
+
+"In theory the narrowest ring width... should be related to the worst growth conditions that the tree experienced during its lifetime."
+Peaks correspond to narrow ring anomalies. A "narrowness index" formula was constructed which is plotted here, where r is the number of narrowest rings and s the total number of sites within a sliding window.
+
+"We found that the three highest values in the prehistoric period, at 1153 BC, 3199 BC and 4377 BC, corresponded to three of the six major acidity peaks observed during this period in the Camp Century ice core..."
+
+## bristlecone pine tree rings and volcanic eruptions over the last 5000 yr (hard copy here)
+
+To be honest there's some clustering around the ECDO candidate dates but also just way too many dates for me to feel confident that it's pure cataclysm signal.

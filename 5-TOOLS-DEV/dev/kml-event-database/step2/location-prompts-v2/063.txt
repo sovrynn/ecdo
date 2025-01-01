@@ -1,0 +1,36 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Kofels Asteroid Impact
+
+Basic location of event: Austria
+
+Specific data/information/context related to event: A Sumerian Observation of the Kölfels' Impact Event: A Monograph
+
+Alan Bond, Mark Hempsell
+
+Around 700 BC an Assyrian scribe in the Royal Place at Nineveh made a copy of one of the most important documents in the royal collection. Two and a half thousand years later it was found by Henry Layard in the remains of the palace library. It ended up in the British Museum's cuneiform clay tablet collection as catalogue No. K8538 (also called the Planisphere), where it has puzzled scholars for over a hundred and fifty years. In this monograph Bond and Hempsell provide the first comprehensive translation of the tablet, showing it to be a contemporary Sumerian observation of an Aten asteroid over a kilometre in diameter that impacted Kofels in Austria in the early morning of 29th June 3123 BC.
+
+Bibliographic information
+
+Title: A Sumerian Observation of the Kölfels' Impact Event: A Monograph
+
+Authors: Alan Bond, Mark Hempsell
+
+Edition: illustrated, reprint
+
+Publisher: Alcuin Academics, 2008
+
+ISBN: 1904623646, 9781904623649
+
+Length: 113 pages
+
+Subjects: 
+- Science
+- Space Science
+- Astronomy
+- Foreign Language Study / Ancient Languages
+- History / General
+- Language Arts & Disciplines / Study & Teaching
+- Science / Space Science / Astronomy
+
+Export Citation: BiBTeX, EndNote, RefMan

@@ -1,0 +1,167 @@
+Skip to main content
+Skip to article
+Elsevier logo
+
+Journals & Books
+
+Help
+
+Search
+
+My account
+Sign in
+
+Purchase PDF
+
+Article preview
+
+Abstract
+Introduction
+Section snippets
+References (109)
+Cited by (15)
+
+Elsevier
+Tectonophysics
+Volume 771, 20 November 2019, 228227
+Tectonophysics
+Lake sediment evidence of paleoseismicity: Timing and spatial occurrence of late- and postglacial earthquakes in Finland
+Author links open overlay panelAntti E.K. Ojala a
+, Jussi Mattila b, Jyrki Hämäläinen a, Raimo Sutinen c
+Show more
+Add to Mendeley
+Share
+Cite
+https://doi.org/10.1016/j.tecto.2019.228227
+Get rights and content
+Highlights
+
+Paleoseismicity was non-stationary throughout the Late Weichselian and the Holocene in the Fennoscandian Shield area.
+Three general maxima of paleoseismicity cluster around 12.0–10.0, 5.0–7.0 and 1.5–3.0 kyr BP.
+A strong asymmetry of the offset in the Finnish PGF complexes indicate that the general rupture propagation was from SW to NE.
+The oldest and highest magnitude events generally occurred in the SW sector of the Finnish PGF complexes.
+
+Abstract
+Sediment profiles in six lake basins located near the late- and postglacial fault surface ruptures in northern Finland were investigated for turbidites and soft-sediment deformation structures that could reveal information on the timing and spatial occurrence of paleoearthquakes in the area. We used geophysical sub-bottom profiling and lithological logging of sediment cores combined with radiocarbon and paleomagnetic dating. In three lakes, Immeljärvi, Aakenus and Laukkujärvi, sediment records provided evidence of postglacial earthquakes or landslides, whereas in three others (lakes Pyhäjärvi, Kallojärvi and Syväjärvi) no disturbance structures were observed in their sequences that cover roughly the Holocene period. Combined with previous data on paleoseismicity in Finland, the results enhance the non-stationary hypothesis of seismicity throughout the Late Weichselian and the Holocene with three general maxima that cluster around the deglaciation (12.0–10.0 kyr BP), the mid-Holocene (5.0–7.0 kyr BP) and the Late Holocene (1.5–3.0 kyr BP). A strong asymmetry of the offset profiles of the Finnish postglacial fault complexes indicate that the general rupture propagation was from SW to NE. The present data also indicates that the oldest and highest magnitude events (MW ≈ 7 or higher) generally took place in the SW sector of the Finnish PGF complexes during or soon after the retreat of the continental ice sheet. The ruptures then propagated towards the NE sector of PGF complexes in a cascading fashion and were generally characterized by lower magnitude events (MW ≈ 6) during the Holocene.
+Introduction
+Postglacial earthquakes and reactivation of pre-exiting bedrock fault structures during and after the Weichselian deglaciation is obvious in the Fennoscandian Shield area (e.g. Wu et al., 1999; Lagerbäck and Sundh, 2008; Olesen et al., 2004, 2013; Lund et al., 2017; Ojala et al., 2017). This hypothesis is based on the appearance of postglacial faults (PGF) that cross-cut glacial sediments, seismically-induced landslides and other complex landforms that indicate subglacial mass flow and catastrophic meltwater drainage deposits close to the known PGFs and in areas of instrumentally observed recent seismicity (e.g. Ahjos and Uski, 1992; Lagerbäck and Sundh, 2008; Olesen et al., 2013; Smith et al., 2014; Sutinen et al., 2014a, 2018; 2019; Ojala et al., 2017, 2019a, 2019b). In many cases, characteristics and structure of PGFs, as well as time-distribution assessments of paleoearthquakes are based on a combination of terrain morphology from high-resolution LiDAR DEMs (Light detection and ranging digital elevation models), geophysical surveys, bedrock drilling, trench excavations and dating of soft-sediment deformation structures (e.g. Sutinen, 2005; Palmu et al., 2015; Ojala et al., 2017; Smith et al., 2018a; Mattila et al., 2019). Recent studies have indicated that, contrary to a single rupture theory, multiple rupturing events can take place within ‘postglacial faults’ in northern Fennoscandia, where different or the same PGF segments within PGF system have been active several times during and after the Late Weichselian glaciation and/or after glacial phases that predated the last glacial maximum (Lagerbäck and Sundh, 2008; Smith et al., 2018a; Ojala et al., 2018a, a, 2019b, 2019c, Mattila et al., 2019). However, due to scarcity of dates from the PGFs and geologic structures genetically related to earthquakes, the full spectrum of time-distribution of late- and postglacial seismic activity in the Fennoscandian Shield area is still poorly constrained (e.g. Sutinen et al., 2005, 2014b, 2014c; Lagerbäck and Sundh, 2008; Smith et al., 2014; Ojala et al., 2018a; Smith et al., 2018a).
+Lacustrine and marine deposits are ideal archives for paleoseismic investigations because they contain continuous sequences of water-saturated fine-grained sediments, which are susceptible to in-situ liquefaction and formation of soft-sediment deformation structures (SSDS) (Sims, 1973; Ricci Lucchi, 1995; Owen et al., 2011). In addition, lithostratigraphic evidence of earthquakes in aquatic environment includes displacement of on-shore and offshore strata, such as mass-transport deposits, subaquatic landslides and turbidites (Sims, 1973; Owen et al., 2011). Recent studies worldwide have revealed significant continuums of seismically-induced lithologies in marine and lacustrine realms with a high temporal resolution (e.g. Beck, 2009; Howarth et al., 2012; Gràcia et al., 2013; Kremer et al., 2017; Brooks, 2018).
+Documentation of PGFs, SSDS and turbidites in aquatic environments has thus far been rare in Fennoscandia. Studies that exists indicate, for example, that the Pärvie PGF could not be identified with certainty beneath Lake Torneträsk, in northern Sweden, by Vogel et al. (2013). Jakobsson et al. (2014) and Smith et al. (2018b), on the other hand, provided indirect evidence of the Early Holocene seismicity and the appearance of PGFs in glacial lacustrine sediments in lakes Vättern and Voxsjön (Bollnäs PGF), respectively. Kotilainen and Hutri (2004) and Hutri et al. (2007) conducted a thorough study of disturbed sedimentary structures in a marine sequence in the Gulf of Bothnia off coast Olkiluoto and revealed seismically-induced SSDS, which they dated to 10.2–10.65 kyr BP. More recently, Ojala et al. (2018b) described a distinct turbidite and SSDS preserved in clastic-biogenic varves of the Lake Nurmijärvi sequence, in central-southern Finland, which they connected to an earthquake at 7.4 kyr BP with moment magnitude of MW ≈ 5.1–6.9.
+The focus of the present study is on dating and understanding of non-stationary postglacial seismicity in northern Fennoscandia. We also report here the results of the first systematic search for seismically-induced SSDS in the vicinity of the known PGFs in northern Finland. The new data provided in the present analysis was conducted at six lacustrine sites close to the Venejärvi–Jauhojärvi and Suasselkä PGF complexes, aiming to link terrestrial evidence of PGFs to sedimentary records using acoustic-seismic profiling and sediment drilling and description. The results and interpretations of the present study are then combined with previously published information to add to the catalogue of paleoseismic events and to offer an updated perspective on the timing and spatial recurrence of postglacial seismicity in Finland and in the entire Fennoscandian Shield area.
+Section snippets
+Study sites
+The present study was conducted at six lakes in SW Finnish Lapland and close to the known PGF complexes. The PGF scarp complexes are recognized from LiDAR DEMs as surface rupture segments with a general SW–NE trending geometry that can be traced tens of kilometres. Lake Immeljärvi is located in the village of Sirkka, about 3 km SE of the Suasselkä PGF complex and in the vicinity of Levi and Pyhätunturi.
+Methods
+Sub-bottom profiling played a significant role in the lake surveys. They were applied to record lake bathymetry at sites that were missing this information, to have an understanding on the thickness and distribution of glacial and postglacial sediments, and to investigate slumping and faulting structures potentially related to PGFs and paleoseismic events. We used the MDCS survey software package equipped with a MD500 24/200 kHz pinger.
+Results and interpretation
+Based on acoustic-seismic sub-bottom profiles and GPR surveys, none of the studied lakes exhibited any major sediment slumping, faulting, folding or disturbance structures that would have been detectable in their late- to postglacial clayey and gyttja sediment sequences. Neither did we observe any gas or fluid escape structures in any of the geophysical profiles that could have been interpreted as large pockmarks in sediments.
+Origin of soft-sediment deformation structures
+Studies on co-seismic formations, such as paleolandslides and deformations of marine and lacustrine sediments are important because they provide indirect evidence of paleoseismicity and can often be dated with better accuracy and precision than PGF scarps. Many studies have demonstrated that turbidites, minor folding and faulting structures and completely convoluted beds of aquatic sediments can be interpreted as evidence for paleoearthquakes or directly related to modern and historical seismicity.
+Conclusions
+Dating of coseismic features in lake sediments and landslides (buried organic remains and basal peat) close to the late- and postglacial fault surface ruptures in northern Finland revealed that the area was characterized by non-stationary seismicity throughout the Late Weichselian and the Holocene with three general maxima that cluster around the deglaciation (12.0–10.0 kyr BP), the mid-Holocene (5.0–7.0 kyr BP) and the Late Holocene (1.5–3.0 kyr BP). Combined with a strong asymmetry of the offset profiles of the Finnish PGF complexes, this supports the understanding of the seismicity history in this region.
+Declaration of Competing Interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+Acknowledgments
+This paper is a contribution of the ‘Postglacial faults and dynamics’ project between GTK and Posiva. We thank Kari Tiitta, Ilkka Aro and Olli Halonen for assisting during field work, drilling and core handling, and Timo Ruskeeniemi for fruitful discussions.
+References (109)
+
+T. Ahjos et al.
+Earthquakes in northern Europe in 1375-1989
+Tectonophysics
+(1992)
+J.R.L. Allen
+Earthquake magnitude-frequency, epicentral distance and soft-sediment deformation in sedimentary basins
+Sediment. Geol.
+(1986)
+C. Beck
+Late Quaternary lacustrine paleo-seismic archives in north-western Alps: examples of earthquake-origin assessment of sedimentary disturbances
+Earth. Rev.
+(2009)
+B. Bellwald et al.
+Holocene mass movements in west and mid-Norwegian fjords and lakes
+Mar. Geol.
+(2019)
+H. Bungum et al.
+Postglacial seismicity offshore mid-Norway with emphasis on spatio-temporal-magnitudal variations
+K. Davis et al.
+Thrust-fault growth and segment linkage in the active Ostler fault zone, New Zealand
+J. Struct. Geol.
+(2005)
+P. Galli
+New empirical relationships between magnitude and distance for liquefaction
+Tectonophysics
+(2000)
+E. Haltia-Hovi et al.
+A 2000-year of solar forcing on varved lake sediment in eastern Finland
+Quat. Sci. Rev.
+(2007)
+A. Kotilainen et al.
+Submarine Holocene sedimentary disturbances in the Olkiluoto area of the Gulf of Bothnia, Baltic Sea: a case of postglacial palaeoseismicity
+Quat. Sci. Rev.
+(2004)
+K. Kremer et al.
+Lake-sediment based paleoseismology: limitations and perspectives from the Swiss Alps
+Quat. Sci. Rev.
+(2017)
+
+View more references
+Cited by (15)
+
+Time-variable strain and stress rates induced by Holocene glacial isostatic adjustment in continental interiors
+2023, Tectonophysics
+Citation Excerpt :
+
+In areas where such a non-tectonic overprint is present – or has been present over the timescales used in paleoseismological studies – one must be cautious equating strain release by paleoearthquakes to present-day strain (or stressing) rates on faults. The extreme case for this is in Fennoscandia, where the crust overlain by major icesheet thicknesses during the Last Glacial Maximum is well-established to have hosted a number of major active faults and inferred earthquakes over the 10 ka since the last decay of the icesheet.
+Show abstract
+
+Disentangling factors controlling earthquake-triggered soft-sediment deformation in lakes
+2022, Sedimentary Geology
+Citation Excerpt :
+
+Subaqueous paleoseismology aims to expand historic earthquake catalogues by studying long lacustrine and marine sedimentary sequences for imprints of past earthquakes. Earthquake-induced soft sediment deformation structures (SSDS) are a common paleoseismic indicator within these subaqueous records. Several deformation mechanisms can create earthquake-triggered SSDS, for example, liquefaction, fluidization or Kelvin-Helmholtz instability between sediment layers induced by earthquake-related shear.
+Show abstract
+Reactivation of Non-Optimally Orientated Faults Due to Glacially Induced Stresses
+2021, Tectonics
+Postglacial Faulting in Norway: Large Magnitude Earthquakes of the Late Holocene
+2021, Glacially-Triggered Faulting
+Glacially Induced Faults in Finland
+2021, Glacially-Triggered Faulting
+Active Tectonics in the Kvarner Region (External Dinarides, Croatia)—An Alternative Approach Based on Focused Geological Mapping, 3D Seismological, and Shallow Seismic Imaging Data
+
+2020, Frontiers in Earth Science
+
+View all citing articles on Scopus
+View full text
+© 2019 Elsevier B.V. All rights reserved.
+Recommended articles
+
+Earthquake-induced deformations on ice-stream landforms in Kuusamo, eastern Finnish Lapland
+Global and Planetary Change, Volume 160, 2018, pp. 46-60
+Raimo Sutinen, …, Meri-Liisa Airo
+The role of earthquakes and climate in the formation of diamictic sediments in a New Zealand mountain lake
+Quaternary International, Volume 470, Part A, 2018, pp. 130-147
+C.A. Woodward, …, D. Zahra
+Lakes as paleoseismic records in a seismically-active, low-relief area (Rieti Basin, central Italy)
+Quaternary Science Reviews, Volume 211, 2019, pp. 186-207
+
+Show more articles
+Article Metrics
+Citations
+
+Citation Indexes
+Captures
+Readers
+PlumX Metrics Logo
+View details
+Elsevier logo with wordmark
+
+About ScienceDirect
+
+Remote access
+Shopping cart
+Advertise
+Contact and support
+Terms and conditions
+Privacy policy
+
+Cookies are used by this site.

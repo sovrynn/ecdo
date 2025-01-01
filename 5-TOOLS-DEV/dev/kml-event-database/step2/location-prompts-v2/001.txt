@@ -1,0 +1,13 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Massive Sahelian dust deposits (III)
+
+Basic location of event: Canary Islands
+
+Specific data/information/context related to event: Sci-Hub | Massive deposition of Sahelian dust on the Canary Island Lanzarote during North Atlantic Heinrich Events. Quaternary Research, 1–16 | 10.1017/qua.2020.100
+
+Heinrich, H., Schmidt, C., Ziemen, F., Mikolajewicz, U., & Roettig, C.-B. (2021). *Massive deposition of Sahelian dust on the Canary Island Lanzarote during North Atlantic Heinrich Events. Quaternary Research, 1–16.* doi:10.1017/qua.2020.100
+
+10.1017/qua.2020.100
+
+downloaded on 2021-05-26

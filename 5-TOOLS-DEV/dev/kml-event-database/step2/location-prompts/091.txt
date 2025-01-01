@@ -1,0 +1,309 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Mohenjo-Daro abandonment
+
+Basic location of event: Pakistan
+
+Specific data/information/context related to event: Mohenjo-daro
+
+This article is about the archaeological site. For the 2016 Bollywood film, see Mohenjo Daro (film).
+
+Coordinates: 27°19′45″N 68°08′20″E
+
+From Wikipedia, the free encyclopedia
+Mohenjo-daro (Pakistan) is an archaeological site in Larkana District, Sindh, Pakistan. Built circa 2500 BCE, it was the largest settlement of the ancient Indus Valley Civilisation, and one of the world's earliest major cities, contemporaneous with the civilizations of ancient Egypt, Mesopotamia, Minoan Crete, and Norte Chico.
+
+With an estimated population of at least 40,000 people, Mohenjo-daro prospered for several centuries, but by circa 1700 BCE had been abandoned, along with other large cities of the Indus Valley Civilization. 
+
+The site was rediscovered in the 1920s. Significant excavation has since been conducted at the site of the city, which was designated a UNESCO World Heritage Site in 1980, the first site in South Asia to be so designated. The site is currently threatened by erosion and improper restoration.
+
+Etymology
+
+The city's original name is unknown. Based on his analysis of a Mohenjo-daro seal, Iravatham Mahadevan speculates that the city's ancient name could have been Kukkuṭārma ("the city [-rma] of the cockerel [kukkuta]"). Cock-fighting may have had ritual and religious significance for the city. Mohenjo-daro may also have been a point of diffusion for the clade of the domesticated chicken found in Africa, Western Asia, Europe and the Americas.
+
+Mohenjo-daro, the modern name for the site, has been interpreted as "Mound of the Dead" in Sindhi.
+
+Location
+
+Mohenjo-daro is located off the right (west) bank of the lower Indus river in Larkana District, Sindh, Pakistan. It lies on a Pleistocene ridge in  the flood plain of the Indus, around 28 kilometres (17 mi) from the town of Larkana.
+
+Historical context
+
+Mohenjo-daro was built in the 26th century BCE. It was one of the largest cities of the ancient Indus Valley Civilisation, also known as the Harappan Civilization, which developed circa 3000 BCE from the prehistoric Indus culture. At its height, the Indus Civilization spanned much of what is now Pakistan and North India, extending westwards to the Iranian border, south to Gujarat in India and northwards to an outpost in Bactria, with major urban centers at Harappa, Mohenjo-daro, Lothal, Kalibangan, Dholavira and Rakhigarhi. Mohenjo-daro was the most advanced city of its time, with remarkably sophisticated civil engineering and urban planning. When the Indus civilization went into sudden decline circa 1900 BCE, Mohenjo-daro was abandoned.
+
+Rediscovery and excavation
+
+The ruins of the city remained undocumented for around 3,700 years until R. D. Banerji, an officer of the Archaeological Survey of India, visited the site in 1919–20 identifying what he thought to be a Buddhist stupa (150–500 CE) known to be there and finding a flint scraper which convinced him of the site's antiquity. This led to large-scale excavations of Mohenjo-daro led by K. N. Dikshit in 1924–25, and John Marshall in 1925–26. In the 1930s major excavations were conducted at the site under the leadership of Marshall, D. K. Dikshitar and Ernest Mackay. Further excavations were carried out in 1945 by Mortimer Wheeler and his trainee, Ahmad Hasan Dani and F. A. Khan. The last major series of excavations were conducted in 1964 and 1965 by George F. Dales. After 1965, excavations were banned due to weathering damage to the exposed structures, and the only projects allowed at the site since have been salvage excavations, surface surveys, and conservation projects. In the 1980s, German and Italian survey groups led by Michael Jansen and Maurizio Tosi used less invasive archeological techniques, such as architectural documentation, surface surveys, and localized probing, to gather further information about Mohenjo-daro. A dry core drilling conducted in 2015 by Pakistan's National Fund for Mohenjo-daro revealed that the site is larger than the unearthed area.
+
+Architecture and urban infrastructure
+
+Mohenjo-daro has a planned layout with rectilinear buildings arranged on a grid plan. Most were built of fired and mortared brick; some incorporated sun-dried mud-brick and wooden superstructures. The covered area of Mohenjo-daro is estimated at 300 hectares. The Oxford Handbook of Cities in World History offers a "weak" estimate of a peak population of around 40,000. 
+
+The sheer size of the city, and its provision of public buildings and facilities, suggests a high level of social organization. The city is divided into two parts, the so-called Citadel and the Lower City. The Citadel – a mud-brick mound around 12 metres (39 ft) high – is known to have supported public baths, a large residential structure designed to house about 5,000 citizens, and two large assembly halls. The city had a central marketplace, with a large central well. Individual households or groups of households obtained their water from smaller wells. Waste water was channeled to covered drains that lined the major streets. Some houses, presumably those of more prestigious inhabitants, include rooms that appear to have been set aside for bathing, and one building had an underground furnace (known as a hypocaust), possibly for heated bathing. Most houses had inner courtyards, with doors that opened onto side-lanes. Some buildings had two stories.
+
+Major buildings
+
+In 1950, Sir Mortimer Wheeler identified one large building in Mohenjo-daro as a "Great Granary". Certain wall-divisions in its massive wooden superstructure appeared to be grain storage-bays, complete with air-ducts to dry the grain. According to Wheeler, carts would have brought grain from the countryside and unloaded them directly into the bays. However, Jonathan Mark Kenoyer noted the complete lack of evidence for grain at the "granary", which, he argued, might therefore be better termed a "Great Hall" of uncertain function. Close to the "Great Granary" is a large and elaborate public bath, sometimes called the Great Bath. From a colonnaded courtyard, steps lead down to the brick-built pool, which was waterproofed by a lining of bitumen. The pool measures 12 metres (39 ft) long, 7 metres (23 ft) wide and 2.4 metres (7.9 ft) deep. It may have been used for religious purification. Other large buildings include a "Pillared Hall", thought to be an assembly hall of some kind, and the so-called "College Hall", a complex of buildings comprising 78 rooms, thought to have been a priestly residence. 
+
+Fortifications
+
+Mohenjo-daro had no series of city walls, but was fortified with guard towers to the west of the main settlement, and defensive fortifications to the south. Considering these fortifications and the structure of other major Indus valley cities like Harappa, it is postulated that Mohenjo-daro was an administrative center. Both Harappa and Mohenjo-daro share relatively the same architectural layout, and were generally not heavily fortified like other Indus Valley sites. It is obvious from the identical city layouts of all Indus sites that there was some kind of political or administrative centrality, but the extent and functioning of an administrative center remains unclear.
+
+Water supply and wells
+
+The location of Mohenjo-daro was built in a relatively short period of time, with the water supply system and wells being some of the first planned constructions. With the excavations done so far, over 700 wells are present at Mohenjo-daro, alongside drainage and bathing systems. This number is unheard of when compared to other civilizations at the time, such as Egypt or Mesopotamia, and the quantity of wells transcribes as one well for every three houses. 
+
+Due to the large number of wells, it is believed that the inhabitants relied solely on annual rainfall, as well as the Indus River's course remaining close to the site, alongside the wells providing water for long periods of time in the case of the city coming under siege. Due to the period in which these wells were built and used, it is likely that the circular brick well design used at this and many other Harappan sites are an invention that should be credited to the Indus civilization, as there is no existing evidence of this design from Mesopotamia or Egypt at this time, and even later. Sewage and waste water for buildings at the site were disposed of via a centralized drainage system that ran alongside the site's streets. These drains that ran alongside the road were effective at allowing most human waste and sewage to be disposed of as the drains most likely took the waste toward the Indus River.
+
+Flooding and rebuilding
+
+The city also had large platforms perhaps intended as defense against flooding. According to a theory first advanced by Wheeler, the city could have been flooded and silted over, perhaps six times, and later rebuilt in the same location. For some archaeologists, it was believed that a final flood that helped engulf the city in a sea of mud brought about the abandonment of the site. Gregory Possehl was the first to theorize that the floods were caused by overuse and expansion upon the land, and that the mud flood was not the reason the site was abandoned. Instead of a mud flood wiping part of the city out in one fell swoop, Possehl coined the possibility of constant mini-floods throughout the year, paired with the land being worn out by crops, pastures, and resources for bricks and pottery spelled the downfall of the site.
+
+Notable artefacts
+
+Numerous objects found in excavation include seated and standing figures, copper and stone tools, carved seals, balance-scales and weights, gold and jasper jewelry, and children's toys. Many bronze and copper pieces, such as figurines and bowls, have been recovered from the site, showing that the inhabitants of Mohenjo-daro understood how to utilize the lost wax technique. The furnaces found at the site are believed to have been used for copperworks and melting the metals as opposed to smelting. There even seems to be an entire section of the city dedicated to shell-working, located in the northeastern part of the site. Some of the most prominent copperworks recovered from the site are the copper tablets which have examples of the untranslated Indus script and iconography. While the script has not been deciphered yet, many of the images on the tablets match another tablet and both hold the same caption in the Indus language, with the example given showing three tablets with the image of a mountain goat and the inscription on the back reading the same letters for the three tablets.
+
+Pottery and terracotta sherds have been recovered from the site, with many of the pots having deposits of ash in them, leading archeologists to believe they were either used to hold the ashes of a person or as a way to warm up a home located in the site. These heaters, or braziers, were ways to heat the house while also being able to be utilized in a manner of cooking or straining, while others solely believe they were used for heating.
+
+The finds from Mohenjo-daro were initially deposited in the Lahore Museum, but later moved to the ASI headquarters at New Delhi, where a new "Central Imperial Museum" was being planned for the new capital of the British Raj, in which at least a selection would be displayed. It became apparent that Indian independence was approaching, but the Partition of India was not anticipated until late in the process. The new Pakistani authorities requested the return of the Harappan pieces excavated on their territory, but the Indian authorities refused. Eventually an agreement was reached, whereby the finds, totalling some 12,000 objects (most sherds of pottery), were split equally between the countries; in some cases this was taken very literally, with some necklaces and girdles having their beads separated into two piles. In the case of the "two most celebrated sculpted figures", Pakistan asked for and received the Priest-king, while India retained the much smaller Dancing Girl, and also the Pashupati seal.
+
+Most of the objects from Mohenjo-daro retained by India are in the National Museum of India in New Delhi and those returned to Pakistan in the National Museum of Pakistan in Karachi, with many also in the museum now established at Mohenjo-daro itself. In 1939, a small representative group of artefacts excavated at the site was transferred to the British Museum by the Director-General of the Archaeological Survey of India.
+
+Climate
+
+Mohenjo-daro has a hot desert climate (Köppen climate classification BWh) with extremely hot summers and mild winters. The highest recorded temperature is 53.7 °C (128.7 °F), recorded in May 2010 and the lowest recorded temperature is −5.4 °C (22.3 °F), recorded in January 2006. Rainfall is low, and mainly occurs in the monsoon season (July–September). The average annual rainfall of Mohenjo-daro is 100.1 mm and mainly occurs in the monsoon season. The highest annual rainfall ever is 1023.8 mm, recorded in 2022, and the lowest annual rainfall ever is 10 mm, recorded in 1987.
+Record high °C (°F)
+29.4 (84.9)
+36.5 (97.7)
+45.5 (113.9)
+48.5 (119.3)
+53.7 (128.7)
+51.7 (125.1)
+47.6 (117.7)
+46.0 (114.8)
+43.5 (110.3)
+41.5 (106.7)
+39.2 (102.6)
+30.6 (87.1)
+53.7 (128.7)
+Mean daily maximum °C (°F)
+24.8 (76.6)
+26.2 (79.2)
+32.1 (89.8)
+38.7 (101.7)
+44.8 (112.6)
+45.2 (113.4)
+41.9 (107.4)
+38.7 (101.7)
+37.5 (99.5)
+35.2 (95.4)
+30.5 (86.9)
+24.8 (76.6)
+35.0 (95.1)
+Daily mean °C (°F)
+16.0 (60.8)
+17.0 (62.6)
+22.7 (72.9)
+28.8 (83.8)
+33.9 (93.0)
+35.8 (96.4)
+34.4 (93.9)
+32.8 (91.0)
+31.1 (88.0)
+26.7 (80.1)
+21.1 (70.0)
+16.0 (60.8)
+26.4 (79.4)
+Mean daily minimum °C (°F)
+7.3 (45.1)
+7.9 (46.2)
+13.3 (55.9)
+18.9 (66.0)
+24.0 (75.2)
+27.4 (81.3)
+27.9 (82.2)
+27.0 (80.6)
+24.7 (76.5)
+18.2 (64.8)
+11.8 (53.2)
+7.3 (45.1)
+18.0 (64.3)
+Record low °C (°F)
+−5.4 (22.3)
+−4.0 (24.8)
+2.2 (36.0)
+3.0 (37.4)
+13.0 (55.4)
+15.6 (60.1)
+18.4 (65.1)
+18.0 (64.4)
+14.5 (58.1)
+0.0 (32.0)
+−1.0 (30.2)
+−4.0 (24.8)
+−5.4 (22.3)
+Average precipitation mm (inches)
+2.6 (0.10)
+5.8 (0.23)
+3.4 (0.13)
+2.9 (0.11)
+2.2 (0.09)
+2.5 (0.10)
+39.9 (1.57)
+26.6 (1.05)
+6.6 (0.26)
+0.4 (0.02)
+0.9 (0.04)
+6.3 (0.25)
+100.1 (3.95)
+Average precipitation days
+0.2
+0.5
+0.9
+0.2
+0.3
+0.4
+1.9
+1.4
+0.3
+0.1
+0.1
+0.3
+6.6
+Source: PMD (1991–2020) 
+
+See also
+List of forts in Pakistan
+List of Indus Valley Civilisation sites
+List of museums in Pakistan
+List of World Heritage Sites in Pakistan
+Mehrgarh
+
+References
+Crispin Bates; Minoru Mio (22 May 2015). Cities in South Asia. Routledge. ISBN 978-1-317-56512-3.
+Mohenjo-Daro (archaeological site, Pakistan) on Encyclopedia Britannica website Retrieved 25 November 2019
+Gregory L. Possehl (11 November 2002). The Indus Civilization: A Contemporary Perspective. Rowman Altamira. p. 80. ISBN 978-0-7591-1642-9.
+Shea, Samantha (14 November 2022). "Pakistan's lost city of 40,000 people". www.bbc.com Retrieved 18 November 2022.
+"Mohenjo-Daro: An Ancient Indus Valley Metropolis".
+"Mohenjo Daro: Could this ancient city be lost forever?" BBC. 27 June 2012. Retrieved 27 October 2012.
+"Poultry Breeding and Genetics". R. D. Crawford (1990). Elsevier Health Sciences. pp. 10–11, 44.
+"Mohenjo-daro An Ancient Indus Valley Metropolis". www.harappa.com.
+"Lower Indus" refers to the portion of the river below its confluence with Panjnad, the combined river of all its five tributaries flowing through the Punjab region.
+Roach, John. "Lost City of Mohenjo Daro". National Geographic. Archived from the original on 30 October 2010. Retrieved 8 April 2012.
+Kenoyer, Jonathan Mark (1998). “Indus Cities, Towns and Villages”, Ancient Cities of the Indus Valley Civilization. Islamabad: American Institute of Pakistan Studies. p. 65.
+Possehl, Gregory L (2010). The Indus Civilization: A Contemporary Perspective. AltaMira. p. 12. ISBN 978-0-7591-0172-2.
+South Asian Archaeology 1991: proceedings of the Eleventh International Conference of the Association of South Asian Archæologists in Western Europe, held in Berlin, 1-5 July 1991.
+"Findings show Moenjodaro was larger than unearthed ruins" 14 November 2015.
+Mohan Pant and Shjui Fumo, "The Grid and Modular Measures in The Town Planning of Mohenjodaro and Kathmandu Valley: A Study on Modular Measures in Block and Plot Divisions in the Planning of Mohenjodaro and Sirkap (Pakistan), and Thimi (Kathmandu Valley)".
+T.S. SUBRAMANIAN, Harappan surprises. 13 June 2014 – www.frontline.in.
+Peter Clark (editor), The Oxford Handbook of Cities in World History, Oxford University Press, 2013, pp. 158–59; "since it is impossible to ascertain what proportion of the city was used for habitation the basis for this [population] estimate is weak."
+McIntosh (2008), p. 389.
+McIntosh (2008), p. 118.
+Wright, Rita P. (2010). The ancient Indus: urbanism, economy, and society. Cambridge: Cambridge University Press. p. 235. ISBN 978-0-521-57652-9.
+McIntosh, Jane R. (2002). A Peaceful Realm: The Rise and Fall of the Indus Civilization. Cambridge: Westview Press. p. 68. ISBN 978-0-8133-3532-2.
+Mohenjo-daro Tools and Artifacts Photo Gallery. Archaeology Online; retrieved 8 April 2012.
+Collections: Pre-History & Archaeology. National Museum, New Delhi. Retrieved 3 February 2014.
+Mohenjo Daro: A Lost Indus Valley City. Indiana University; retrieved 24 March 2012.
+Whitelaw, Ian (2007). A Measure of All Things: The Story of Man and Measurement. Macmillan ISBN 0-312-37026-1 OCLC 938084552.
+Anne M. C. (2016). New Light on Indus Valley Civilization: An Anthology of Recent Research. Research India Press. p. 10. ISBN 978-93-84136-26-5.
+External links
+UNESCO World Heritage Sites
+103 Slide Tour and Essay on Mohenjo-daro by Dr. J.M. Kenoyer
+Harappan language
+Indus script
+
+Indus Valley sites in Pakistan
+Harappa
+Larkana
+Mohenjo-daro
+Nausharo
+Chanhudaro
+Ganweriwal
+Mehrgarh
+Lakhueen-jo-daro
+Pirak
+Kot Bala
+Kot Diji
+Rehman Dheri
+Amri
+Sutkagan Dor
+Sokhta Koh
+Tharro Hills
+Pir Shah Jurio
+Allahdino
+Balakot
+Ganeriwala
+Nindowari
+Judeir-jo-daro
+Dabarkot
+
+Indus Valley sites in India
+Dholavira
+Gola Dhoro
+Lothal
+Bhagatrav
+Rangpur
+Jognakhera
+Surkotada
+Kalibangan
+Manda
+Alamgirpur
+Daimabad
+Malwan
+Kunal
+Rakhigarhi
+Rupnagar
+Rupar
+Hulas
+Kanmer
+Oriyo timbo
+Dher Majra
+Lohari Ragho
+Dwarka
+Kuntasi
+Loteshwar
+Mandi
+Farmana
+Ganeshwar
+Sothi
+Siswal
+Sanauli
+Sanghol
+Pabumath
+Nagwada
+Babar Kot
+Balu
+Bara
+Bargaon
+Bhagwanpura
+Bhirrana
+Banawali
+Rojdi
+Kotla Nihang Khan
+Kerala-no-dhoro
+Mitathal
+Desalpur
+
+Indus Valley sites in Afghanistan
+Mundigak
+Shortugai
+
+Related topics
+Meluhha
+Ochre Coloured Pottery culture
+Northern Black Polished Ware
+Painted Grey Ware culture 
+
+World Heritage Sites in Pakistan
+Ruins of Mohenjo-daro
+Buddhist ruins of Takht-i-Bahi and Sahr-i-Bahlol
+Lahore Fort and Shalamar Gardens
+Makli Necropolis
+Rohtas Fort
+Taxila
+
+World Heritage Sites in Sindh
+Ruins of Mohenjo-daro
+Gori Temple, Nagarparkar
+Makli Necropolis
+List of cultural heritage sites in Sindh

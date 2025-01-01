@@ -1,0 +1,182 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Saraswati Palaeochannels
+</title>
+<!--<link rel="stylesheet" type="text/css" href="css/styleaibp.css"/>-->
+<style type="text/css">
+html, body
+{
+   height: 100%;
+}
+div#space
+{
+   width: 1px;
+   height: 50%;
+   margin-bottom: -440px;
+   float:left
+}
+
+div#container
+{
+   width: 1004px;
+   height: 830px;
+   margin: 0 auto;
+   position: relative;
+   clear: left;
+}
+a:hover
+{
+   color: #290200;
+}
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+	color: #e7e0cf;
+	background-color: #ebe8dd;
+	background-image: url(templatemo_body.png);
+	background-repeat: repeat-x;
+}
+
+<div id="bhu-for" align="center">
+<div id="bhu-for1" align="center">
+<div id="templatemo_wrapper">
+<div id="wrap" align="left">
+	
+#bhu-for {
+	height: 100%;
+    width: 100%;
+}
+
+#bhu-for1 {
+    background-color: #FFFFFF;
+    height: 1110px;
+    width: 1024px;
+    padding-top: 9px;
+    margin : 10px;
+}
+
+#templatemo_wrapper {
+	width: 1004px;
+	height: 970px;
+	padding: 0 10px;
+	margin: 0 auto;	
+}
+
+#wrap {
+	background-image:url(bhuvan_bg-img_main.jpg);
+    background-repeat: repeat-x;
+    height: 830px;
+    width: 1004px;
+}
+
+</style>
+</head>
+<body>
+<div id="bhu-for" align="center">
+<div id="bhu-for1" align="center">
+<div id="templatemo_wrapper">
+<div id="wrap" align="left">
+<table>
+      <tbody>
+	        <tr>
+	          <td style="background-image: url(&quot;logo_en_blue.jpg&quot;); background-repeat: no-repeat;" height="70px" valign="top" width="350px"></td>
+	          <td width="500px"></td>
+	          <td style="background-image: url(&quot;isrologo_blue.jpg&quot;); background-repeat: no-repeat;" align="right" height="70px" valign="top" width="170px"></td>
+            </tr>
+          </tbody>
+        </table>
+<div id="space"><br></div>
+<div id="container">
+<!--
+<div id="Image2div" style="margin:0;padding:0;position:absolute;left:175px;top:620px;width:160px;height:130px;text-align:left;z-index:0;">
+<img src="images/img2.jpg" id="Image2" alt="" style="width:160px;height:130px;" align="top" border="0"></div>
+<div id="Image1div" style="margin:0;padding:0;position:absolute;left:10px;top:620px;width:160px;height:130px;text-align:left;z-index:1;">
+<img src="images/img1.jpg" id="Image1" alt="" style="width:160px;height:130px;" align="top" border="0"></div>
+<div id="Image3div" style="margin:0;padding:0;position:absolute;left:340px;top:620px;width:160px;height:130px;text-align:left;z-index:2;">
+<img src="images/img3.jpg" id="Image3" alt="" style="width:160px;height:130px;" align="top" border="0"></div>
+<div id="Image4div" style="margin:0;padding:0;position:absolute;left:505px;top:620px;width:160px;height:130px;text-align:left;z-index:3;">
+<img src="images/img4.jpg" id="Image4" alt="" style="width:160px;height:130px;" align="top" border="0"></div>
+<div id="Image5div" style="margin:0;padding:0;position:absolute;left:670px;top:620px;width:160px;height:130px;text-align:left;z-index:4;">
+<img src="images/img5.jpg" id="Image5" alt="" style="width:160px;height:130px;" align="top" border="0"></div>
+<div id="Image6div" style="margin:0;padding:0;position:absolute;left:835px;top:620px;width:160px;height:130px;text-align:left;z-index:5;">
+<img src="images/img6.jpg" id="Image6" alt="" style="width:160px;height:130px;" align="top" border="0"></div>-->
+
+<div id="Headerdiv" style="margin:0;padding:0;position:absolute;left:0px;top:1px;width:1004px;height:142px;text-align:left;z-index:6;">
+<img src="header.png" id="Header" alt="" style="width:1004px;height:142px;" align="top" border="0"></div>
+
+<div id="bv_Text1" style="margin:0;padding:0;position:absolute;left:42px;top:170px;width:920px;height:384px;text-align:justify;z-index:7;">
+<font style="font-size:13px" color="#000000" face="Arial">
+<b>About `Lost River Saraswati'</b> - 
+<!--The `Lost River Saraswati' in NW India is the holiest and mightiest river of Vedic Period (8000-5000 BP). The discovery of the sites of Harappan civilization along the banks of Saraswati River also indicates towards mighty and its magnanimity.
+Vedic Saraswati River originated in the Himalayas and flowed between Indus and Ganges through Punjab, Haryana, western Rajasthan and Gujarat. It finally drained into Gulf of Kutch in Arabian Sea.
+The Vedic Saraswati disappeared around 5000 BP due to climatic and tectonic changes. It is believed that River Saraswati still flows below the desert sand and its Himalayan connectivity is still alive. The relict of this lost river is still preserved as palaeochannels under the cover of aeolian sand / alluvium.--> 
+The `Lost Saraswati River' in NW India is the holiest and mightiest river of the Vedic Period (8000-5000 BP). The discovery of the sites of Harappan civilization along the banks of the Saraswati River indicates towards its mighty and magnanimity. Vedic Saraswati River originated in the Himalayas and flowed between Indus River in the west and Ganges River in the east through Punjab, Haryana, western Rajasthan and Gujarat. It is finally drained into Gulf of Kachchh in Arabian Sea. The Vedic Saraswati River disappeared around 5000 BP due to climatic and tectonic changes. It is believed that River Saraswati is still flowing below the Thar desert and its Himalayan connectivity is alive. The relict of this lost river is preserved as palaeochannels under the cover of aeolian sand / alluvium. 
+<br><br>
+<b>Saraswati River in Ancient Literatures</b> - 
+The name `Saraswati' has been used in most of the ancient literatures like Vedas, Manusmriti, Mahabharata and Puranas:
+<!--
+Vedic Literature - There are frequent references of River Saraswati in Vedic literatures (80 times than that of River Ganges). No other river has received so much importance and respect as Saraswati. The vedic hymns are composed by different Rishis (scholars) in glory of River Saraswati. 
+(a) Rigveda - Vedic Saraswati is described as `Best of Mothers, Best of Rivers, Best of Goddesses`.
+(b) Yajurveda - Saraswati has five important tributaries viz. Drishadvati, Satudri (Sutlej), Chandrabagha (Chenab), Vipasa (Vyas) and Iravati (Ravi). All these rivers merges to Saraswati to meet Sindhu Sagar (the Arabian Sea).
+(c) Atharvaveda - God bestowed the people on the bank of the Saraswati, with sweet juicy barley, where generous Maruts became farmers & Indra as the Lord of agriculture. This Mantra suggests that farming of cereals was practiced on the fertile soil of Saraswati during Vedic times.
+Manusmriti - The land between the Saraswati and Drishadvati is created by God; this land is defined as Brahmavarta.
+Mahabharata - Mahabharata gives clear geographical accounts of a number of pilgrimage sites spread along the course of the Saraswati River. Lord Balaram after visiting a number of holy places reaches to Vinasana, the place where the Saraswati disappeared. During Mahabharata period, the discharge of water in Saraswati became extremly low. As a result, the river vanished in the desert sand at certain place along its regular course i.e. at Vinasana. Hence, the river channel appeared dry.
+Purana - Rishi Markandeya, close to the place where he meditated and offered sacrifices saw Saraswati rising from the Plaksha tree (Pipal tree). The sage prayed and worshiped the rising river.
+--><br/>
+1. Vedas - There are frequent references of River Saraswati in Vedic literature (80 times more than that of River Ganges). No other river has received so much importance and respect as Saraswati. The Vedic hymns are composed by different Rishis (scholars) in the glory of River Saraswati. (a) Rigveda - Vedic Saraswati is described as `Best of Mothers, Best of Rivers, Best of Goddesses`. (b) Yajurveda - Saraswati has five important tributaries viz. Drishadvati, Satudri (Sutlej), Chandrabagha (Chenab), Vipasa (Vyas) and Iravati (Ravi). All these rivers merge to Saraswati to meet Sindhu Sagar (the Arabian Sea). (c) Atharvaveda - God bestowed the people on the bank of the Saraswati, with sweet juicy barley, where generous Maruts became farmers & Indra as the Lord of agriculture. This Mantra suggests that farming of cereals was practiced on the fertile soil of Saraswati during Vedic times.<br/> 
+2. Manusmriti - The land between the Saraswati and Drishadvati is created by God; this land is defined as Brahmavarta. <br/>
+3. Mahabharata - Mahabharata gives clear geographical accounts of a number of pilgrimage sites spread along the course of the Saraswati River. Lord Balaram after visiting a number of holy places reaches to Vinasana, the place where the Saraswati disappeared. During Mahabharata period, the discharge of water in Saraswati became extremely low. As a result, the river vanished in the desert sand at certain place along its regular course i.e. at Vinasana. Hence, the river channel appeared dry.<br/>
+4. Purana - Rishi Markandeya, close to the place where he meditated and offered sacrifices saw Saraswati rising from the Plaksha tree (Pipal tree). The sage prayed and worshiped the rising river.
+
+<br><br>
+<b>Discovering `Lost River Saraswati' through Remote Sensing Techniques</b> - 
+<!--Discovering the exact course of Vedic Saraswati River and its perennial source is a challenging task among the researchers due to lack of proper scientific database. 
+The mystery is unravelled through modern tools like Remote Sensing and GIS by using multi-spectral and multi-resolution satellite images of optical and microwave data.
+ISRO centres could able to delineate most of the palaeochannels of Vedic Saraswati River and its linkage with the present day Himalayan Rivers. 
+-->
+Discovering the exact course of Vedic Saraswati River and its perennial source is a challenging task among the researchers due to lack of proper scientific database. The mystery is unravelled through modern tools like Remote Sensing and GIS by using multi-spectral and multi-resolution satellite images of optical and microwave data. ISRO centres could able to delineate most of the palaeochannels of Vedic Saraswati River and its linkage with the present day Himalayan Rivers. 
+<br><br>
+<b>Linkages of Vedic Saraswati with Himalayan Rivers</b> - <br/>
+(a) Linkage of Saraswati Nadi with Somb River at Adi Badri<br/>
+(b) Linkage of Saraswati Nadi with Yamuna River<br/>
+(c) Linkage of Saraswati Nadi with Vedic Saraswati<br/>
+(d) Linkage of Sutlej Palaeochannel with Vedic Saraswati<br/>
+(e) Linkage of Vedic Saraswati from Mannsarovar to Dwaraka<br/>
+<br/>
+
+<b>Utility of Palaeochannel Maps</b> - <br/><br/>
+<b>1. Cultural Heritage: </b><br/>(a) Restoration of Historical sites and (b) Excavation of New Archaeological Sites.<br/><br/>
+<b>2. Ground Water: </b><br/>(a) Groundwater exploration and (b) Groundwater recharge<br/><br/>
+<b>3. Tourism Sector: </b><br/>(a) Renovation of temples and (b) Reconstruction of Ritual Sites along the bank of Saraswati River.<br/><br/>
+<br> 
+<br/>
+<div align="center"><font style="font-size:22px" color="#0000ff" face="Arial"><b><a href="saraswati.php" target="_blank">Click Here to visit Portal</a></b></font><br/></div>
+<br>
+<img src='swa.png'>
+<br><br>
+
+
+
+</div>
+
+<div id="bv_Text2" style="margin:0;padding:0;position:absolute;left:180px;top:50px;width:642px;height:63px;text-align:center;z-index:8;">
+<font style="font-size:36px" color="#FFFF00" face="Arial"><b>Saraswati Palaeochannels
+</b></font><font style="font-size:13px" color="#000000" face="Arial"><br>
+</font></div>
+<div id="bv_Text3" style="margin:0;padding:0;position:relative;left:439px;top:10px;width:450px;height:50px;text-align:center;z-index:9;">
+<font style="font-size:40px" color="#E7E0CF" face="Arial"></font></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body></html>

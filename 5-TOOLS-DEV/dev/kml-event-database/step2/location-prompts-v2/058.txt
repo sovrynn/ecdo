@@ -1,0 +1,530 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Russian Island Tsunami Deposit 5.3ka
+
+Basic location of event: Sea of Japan
+
+Specific data/information/context related to event: IOP Conference Series: Earth and Environmental Science
+PAPER • OPEN ACCESS
+Evolution of a paleolake on Russian Island (Sea of Japan) in middle-late
+Holocene: record of sea-level oscillations, extreme storms and tsunami
+To cite this article: T Grebennikova et al 2020 IOP Conf. Ser.: Earth Environ. Sci. 438 012009
+View the article online for updates and enhancements.
+This content was downloaded from IP address 5.153.136.229 on 03/03/2020 at 14:19
+Content from this work may be used under the terms of the Creative Commons Attribution 3.0 licence. Any further distribution
+of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.
+Published under licence by IOP Publishing LtdThe 5th International Conference “Ecosystem dynamics in the Holocene”
+IOP Conf. Series: Earth and Environmental Science 438 (2020) 012009
+IOP Publishing
+doi:10.1088/1755-1315/438/1/012009
+1
+Evolution of a paleolake on Russian Island (Sea of Japan) in
+middle-late Holocene: record of sea-level oscillations, extreme
+storms and tsunami
+T Grebennikova1, N Razjigaeva1*, L Ganzey1, K Ganzei1, Kh Arslanov2,
+F Maksimov2, A Petrov2 and A Kharlamov3
+1Pacific Geographical Institute FEB RAS, 7 Radio Street, Vladivostok 690041, Russia
+2St. Petersburg State University, 7–9 Universitetskaya nab., St. Petersburg 199034,
+Russia
+3Shirshov Institute of Oceanology RAS, 36 Nakhimovsky Prospekt, Moscow
+117997, Russia
+*E-mail: nadyar@tigdvo.ru
+Abstract. The diatom algae from sediments of a paleolake serve as records of changes to
+environments over the last 7500 cal yr. The lagoon lake formed when the sea level
+approximately corresponded to the present-day position. Evolution of the paleolake was
+controlled by sea-level oscillations and humidity changes. Eight stages have been
+distinguished. During a dry episode in 7330–7090 cal yr BP the lake size decreased. The
+salinity reached maximal values at the Holocene transgression peak. Three stages of a higher
+salinity are recognized (6750–6500, 6080–5830, 5420–5090 cal yr BP). A severe flood
+occurred in 6080–6000 cal yr BP. The brackish-water lake existed in ~5090 cal yr BP and the
+freshwater lake in ~4090 cal yr BP. A prolonged phase of decreasing humidity, associated with
+a weakening of summer monsoons, led to a drop in sedimentation rates in ~3510 cal yr BP.
+Peat accumulation started at the Little Ice Age. The lake was transformed into a swamp during
+drop in precipitations in ~270 cal yr BP. Presence of marine diatoms typical in bay and deep-
+water forms are evidence of influence of extreme storms and tsunami. The age of the
+paleotsunami coincides well with the regional data.
+1. Introduction
+Small lakes and peatlands located on the seashore are among the most informative of natural archives
+that record information on climate change, related sea-level fluctuations, and the manifestation of
+extreme hydrologic events such as severe storms and tsunami [1 – 3]. The study of lake sediments
+makes it possible to reconstruct changes in the climate and natural environment with high-resolution.
+The paleolakes occupy a special place among such objects and are widespread on the islands of the
+Russian Far East. Studying such objects show their high-information content for the study of the
+climate and the manifestation of tsunami and other anomalous processes [4 – 6]. Shore lakes and
+lagoons are considered as having favorable conditions for calm sedimentation, where paleo-tsunami
+deposits are well preserved [7], and sea surges during severe storms caused by strong typhoons are
+also recorded in detail [3]. The flooding of coastal areas by sea water during extreme storms and
+tsunamis has a significant effect on the natural course of the development of many landscape
+components. A comprehensive study of the traces of catastrophic events occurring not only in the
+The 5th International Conference “Ecosystem dynamics in the Holocene”
+IOP Conf. Series: Earth and Environmental Science 438 (2020) 012009
+IOP Publishing
+doi:10.1088/1755-1315/438/1/012009
+2
+present, but also in the prehistoric past, makes it possible to learn about their recurrence, run-up
+height, and the range of the penetration of sea water into the land in order establish the degree of
+influence of sea flooding on natural systems and to estimate the course of their further development.
+It is especially important to study paleoclimatic records and natural disasters in the paleo-lake
+sediments on islands that are actively involved in land use and have great prospects for economic
+growth. Located in the Russian Far East, Russian Island, which is part of Greater Vladivostok, has
+such a significance. The island was actively developed in the second half of the 19th century and has
+been more actively developed since the construction of the Vladivostok fortress in the early 20th
+century [8]. The 2012 Summit provided a new impetus for the development of this territory. Presently,
+the island is connected by a bridge to the mainland, making it more accessible. The buildings of the
+Summit were transferred to the rapidly developing Far Eastern Federal University, and additional
+infrastructure was built. International economic forums and summits are regularly held there, island is
+actively used for recreational activities. Prospective economic development of the island will
+inevitably also lead to further transformation of its landscapes [9].
+The aim of this study is to analyze the evolution of the paleolake on the coast of Russian Island and
+to assess the possible impact of climate changes and sea level fluctuations on the coastal development
+and reconstruction that has occurred after extreme hydrological events in the middle-late Holocene.
+2. Material and methods
+Reconstruction of paleolake development was based on studies of the lagoon terrace sequence (42°59.
+061´ N, 131°47.107´E) on the Krasnaya Bay coast, southwest of Russian Island (figure 1). The lagoon
+terrace (2 m high) is located behind the storm ridge (~3.5 m high) and is composed of pebbles and
+boulders. The size of the paleolake was 400 m long and 160 m wide. The section contains light-gray,
+non-stratified silty clay (2.4 m in thickness), overlying a layer of peaty clay (0.10 m), and peat (0.4 m)
+at the top. Samples were collected for every 5 cm.
+Figure 1. Study area and
+position of the studied section.
+A – the north-western part of
+the Sea of Japan showing the
+location of some bays
+mentioned in text. B – the
+location of the Peter the Great
+Bay and Russian Island. C –
+the location of the Krasnaya
+Bay and position of the
+studied section. C – the
+location of the swamp,
+developed on the place of
+paleolake, and position of the
+studied section. 1 – state
+boundaries, 2 – studied
+section.
+Diatom samples were prepared using the standard procedures [10]. The species composition of
+diatoms was determined in permanent slides using an Axioscop microscope at 1000x magnification.
+The 5th International Conference “Ecosystem dynamics in the Holocene”
+IOP Conf. Series: Earth and Environmental Science 438 (2020) 012009
+IOP Publishing
+doi:10.1088/1755-1315/438/1/012009
+3
+More than 250–300 frustules were counted in each slide. The number of diatom frustules per 1 g of
+air-dried sediment was counted. Diatom species were identified using atlases [11 – 13]. The data from
+studies by Tsoy and Obrezkova [14] were used. The main taxa indicative of environmental changes
+are shown in the figure 2.
+The sediment age was determined by radiocarbon dating of peat and peaty clay samples performed
+at the Institute of Earth Sciences, St.-Petersburg State University. The radiocarbon dates were
+converted into calibrated ages, using OxCal 4.3 software, with a calibration curve IntCal 13 [15]. The
+age of the deposits exposed at the base of the section is estimated to be 7500 cal yr BP, which
+corresponds to the Holocene transgression, during a period of time the sea level was approximate to
+the present-day sea level [5, 16]. The age-depth model of the section is based on linearly interpolated
+ages that are between the calibrated radiocarbon ages and an estimated date from base.
+3. Results and interpretation
+A total of 259 taxa of freshwater and 90 marine, brackish-water, brackish-water and brackish-water-
+freshwater diatoms were identified in the sediments of the studied section. Among the freshwater
+diatoms, bottom species predominate (146), epiphytes are represented by 99 species, and planktonic
+and temporarily planktonic are represented by 14 species. Salinity data are known for 227 species;
+oligogalobes predominate, among which species of indifferent dominate (151), followed by
+halophobes – (44), and halophiles (32). With regards to the pH, information is available for 236 taxa,
+among which circumneutral species (96) and alkaliphiles (84) were found in approximately equal
+amounts, and 56 species are acidophiles. Within the relationship to the geographic distribution,
+cosmopolitans dominate. Among marine and coastal-marine diatoms, benthic species predominate
+(80), and plankton species are represented by 10 forms.
+Changes in the diatom composition allowed us to distinguish eight assemblages corresponding to
+the following stages in the development of the paleolake (figures 2, 3).
+Figure 2. The stages in the development of the paleolake, distribution of different groups of diatoms
+within relationship to salinity and key species.
+The 5th International Conference “Ecosystem dynamics in the Holocene”
+IOP Conf. Series: Earth and Environmental Science 438 (2020) 012009
+IOP Publishing
+doi:10.1088/1755-1315/438/1/012009
+4
+7500–6750 cal yr BP: A lake of the lagoon type had formed at mouth of the stream on the
+Krasnaya Bay coast when the sea level was approximately similar to present-day sea level [16]. The
+lake was separated from the sea by a barrier bar. It was inhabited by a mixed diatom flora dominated
+by freshwater epiphytes (77%–95%). The dominant species (Staurosira venter, up to 52.4%;
+Pseudostaurosira brevistriata, up to 41.5%; P. elliptica, up to 22.2%; and Staurosira subsalina, up to
+11.9%) are typically present in shallow lakes and rivers that are overgrown with aquatic plants and are
+also quite common in lagoons [17]. The littoral diatoms are dominated by benthic, brackish-water
+species. A lower content of diatom frustules in the middle part of the interval suggests that, the size of
+the water body probably decreased in 7090–7330 cal yr BP. Coastal-marine diatoms include 32 taxa,
+and benthic, brackish-water species prevail (17 taxa). The content of coastal-marine diatoms at the
+base of the section is less than 7.3%. Navicula peregrina, Campylodiscus echeneis, Gyrosigma
+strigilis, and Diploneis pseudovalis are common. Significant fluctuations in the content of coastal-
+marine diatoms (7.2%–18.6%), due to an increase in the content of Navicula peregrina (18.6%) are
+characteristic of estuaries and are often observed at the top layer. Such changes are indicative of more
+active hydrological conditions and suggest a transition from lake to lagoon in the evolution of a water
+body in ~ 6840 cal yr BP under conditions where the sea level was rising. This is confirmed by the
+presence of benthic Tryblionella granulata, which is typically found in bays. The largest number of
+marine and brackish species are found at a depth of 2.50-2.55 m, where Amphora proteus, Diploneis
+smithii, Pinnunavis yarrensis, Caloneis westii, Halamphora coffeiformis, and spores of Chaetoceros,
+which typically live in bays, are found. Neritic Thalassionema nitzschioides is also found here. Such
+changes indicate seawater inflow that can be associated with a severe storm.
+Figure 3. The stages in the development of the paleolake, distribution of different groups of diatoms
+with regards to habitat, biogeography, mineralization and the pH.
+6750–5090 cal yr BP: The lake converts into a lagoon distinctive for its high species diversity (66
+taxa) and has a considerable proportion of littoral diatoms (up to 68%). Thermophilic diatoms become
+more important, which confirms the attribution of the deposits to the Holocene optimum. An
+alternation of dominant species likely occurs due to the changes in the lagoon water salinity. A
+conspicuous increase in the number of planktonic Aulacoseira granulata, along with Staurosira
+The 5th International Conference “Ecosystem dynamics in the Holocene”
+IOP Conf. Series: Earth and Environmental Science 438 (2020) 012009
+IOP Publishing
+doi:10.1088/1755-1315/438/1/012009
+5
+construens, and Cymbella aspera might be related to a severe flood at 6080–6000 cal yr BP. Relative
+changes in the abundance of freshwater and coastal-marine species allowed us to distinguish between
+several phases in the development of the lagoon: three phases with a higher water salinity (6750–6500,
+6080–5830, and 5420–5090 cal yr BP) and two phases corresponding to a freshened and more isolated
+water body (6500–6080, and 5830–5420 cal yr BP). We noted a trend towards a lower proportion of
+littoral diatoms in the deposits from the “marine” phases, ranging from 68% during the first phase, to
+30% and 20% in the subsequent phases, respectively. The two earlier phases approximately have of
+the same duration and coincide well with minor transgressions of the middle Holocene [16]. The
+sediments include neritic Thalassionema nitzschioides; its fragments were likely brought into the
+lagoon by strong storms (6750–6650, and 6580–6500 cal yr BP). The greatest influx of marine water
+into the lagoon occurred at the beginning of the third short-term “marine” phase. The deposits from
+that interval show an increase in the proportion of littoral species, along with occasional fragments of
+deep-sea Thalassiosira sp. and planktonic Paralia sulcata, that is typical of bays. The recorded
+changes in the composition of the diatom species are indicative of an active water exchange between
+the lagoon and the sea. The sea level was seen to be lower during that period [5, 16]. The salinity is
+likely to have increased as the barrier bar was partially destroyed by an extremely strong storm or a
+tsunami.
+Some intervals marked by a stronger marine influence on the freshened lake, such as ~6500–6330,
+and 6250–6080 cal yr BP. The deposits from those intervals yielded Tryblionella granulata and T.
+lanceola, which could have been brought into the lagoon only by extremely strong storms or tsunami.
+The amount of diatom frustules present in those sediments is lower (2–9 million/g), probably due to a
+considerable admixture of terrigenous material. Changes in the composition of diatom species suggest
+a decrease in salinity in ~5830–5420 cal yr BP, which occurred as the sea level dropped.
+5090–4840 cal yr BP: The lagoon became a semi-closed body of water, containing slightly
+brackish water. The list of coastal-marine diatoms is reduced to 50 taxa; all taxa are few, and their
+total content decreases (to 6.6%–7.3%). The content of frustules in sediments exceeds 1183 million/g.
+The marine littoral diatom proportion increases up to 14.1% in the sand lenses (depth 2.51–2.55 m).
+The interval is noted for the greatest number of marine species (13), their proportion (6.2%) is much
+greater than in the enclosing silts (≤2%). Fragments of oceanic and neritic Coscinodiscus marginatus,
+Thalassiosira eccentrica, and Thalassionema nitzschioides are observed. The low quantity of frustules
+in the deposits (9.4 million/g) is connected to terrigenous dilution and a coarser composition of grain
+size. We proposed that this material was presumably deposited by a paleo-tsunami in ~5000–4920 cal
+yr BP.
+4840–4340 cal yr BP: The lagoon becomes increasingly freshened. Among freshwater diatoms, the
+content of indifferents reaches 84.1%, and the proportion of halophiles decreases to 12%. Among the
+dominant are Pseudostaurosira brevistriata and P. elliptica, which are both tolerant of a wide range of
+electrolytes in water [13], prevail. The proportion of the bottom species of the genera Navicula and
+Nitzschia, which are widely distributed in lakes, has increases. A diversity of rheophilic diatoms of
+Achnanthes, Cymbella, Encyonema, and Gomphonema genera suggests an increase in river discharge.
+An appearance of Eunotia and Pinnularia genera indicates that of the lake banks are waterlogged. The
+list of coastal-marine diatoms includes 47 species, and their content is stable (6.2%–9.7%). The
+composition of these diatoms is changing in this stage. The brackish-water species are the most
+diverse (22), fresh-brackish-water diatoms include 12 species, such as Ctenophora pulchella,
+Gyrosigma peisonis, Fallacia pygmaea, Bacillaria paxillifera, and Mastogloia smithii. Among marine
+(7) and brackish-water (7) taxa, benthic Tryblionella acuminata, and Mastogloia pumila are most
+noticeable. A strong input of marine water, presumably as a result of an extreme storm or tsunami
+(~4590–4510 cal yr BP) is recorded in the 1.10–1.15 m interval, where marine planktonic diatoms,
+Odontella aurita, and Paralia sulcata are observed.
+4340–4090 cal yr BP: A decrease in the mineralization of the lake water occurs at this stage.
+Among freshwater diatoms, dominants change. The indifferent Staurosira venter predominates,
+followed by Pseudostaurosira brevistriata, and P. elliptica. Such changes indicate a progressive
+The 5th International Conference “Ecosystem dynamics in the Holocene”
+IOP Conf. Series: Earth and Environmental Science 438 (2020) 012009
+IOP Publishing
+doi:10.1088/1755-1315/438/1/012009
+6
+decrease in the degree of the mineralization of the lake water. An increase in the content, Stauroforma
+exiguiformis, a typical oligotrophic species, confirms the supposition that the waters are weakly
+mineralized. The list of coastal-marine diatoms is reduced to 38 taxa, but their content increases to
+16%. Brackish-water species (21) and freshwater-brackish-water species (10) prevail. Among this
+group are Gyrosigma strigilis, which typically lives in estuaries, Navicula peregrina, and Gyrosigma
+wormleyi (up to 3%) are also common there. Marine and brackish-marine species include 7 taxa,
+Arachnoidiscus ehrenbergii and Pinnunavis yarrensis are found regularly. The presence of marine
+diatoms suggests an active periodic input of marine water into the lake. The intensified water
+exchange could be due to an increase in storm activity that corresponds to a rising sea level. The
+deposition occurs during a minor transgression during the late Holocene warming [16]. Silts that are
+attributed to the transgression peak (4340–4260 cal yr BP) appear to contain neritic Chaetoceros sp.
+4090–700 cal yr BP: A coastal lake exists in place of the lagoon. The ecological situation
+transforms due to a gradual change in water pH–changing, from slightly alkaline to neutral. Among
+dominant alkaliphilic species, Pseudostaurosira brevistriata disappears; it is replaced by the
+circumneutral Stauroforma exiguiformis. The diversity of the species that are typical in stagnant and
+flowing water increases. The lake gradually turns into a swamp; the process becomes particularly
+active after 3510 cal yr BP. This transition is made evident by the richness of the genera Pinnularia
+(34) and Eunotia (13). By the end of the stage, the deposition rate drops, probably due to the drying of
+the lake. The list of coastal-marine species include 28 taxa. Marine and brackish-water species are
+commonly found, and notable species include Tryblionella plana, Cocconeis scutellum, Gyrosigma
+strigilis, and Campylodiscus echeneis, that may have entered the lake during a strong storm. Another
+neritic form, Chaetoceros sp., was recovered from the silts in the 0.50–0.55 m depth interval and dated
+to 3270 ± 150 yr BP, 3510 ± 90 cal yr BP, LU–8851. Its presence quite possibly indicate a tsunami.
+The most considerable uprush of the marine water is documented at the top of the peaty clay layer.
+Numerous frustules (17 taxa) of marine and brackish-water diatoms (8.7%) are recovered, including
+deep-sea Coscinodiscus sp., Thalassiosira sp., benthic Rhabdonema arcuatum, and colonies of
+Rhabdonema adriaticum, the latter species is widespread within warm seas. Because of the presence
+of thermophilic species, a strong tsunami is presumed to have occured in AD 1026 [18].
+700–360 cal yr BP: The organic matter accumulation in the lake begins at the Little Ice Age (750 ±
+90 yr BP, 700 ± 80 cal yr BP, LU–8850). Epiphytes prevail (up to 73%), and alkaliphile Staurosira
+venter and circumneutral Stauroforma exiguiformis remain among the dominants, which may indicate
+an even greater decrease in the degree of mineralization of the water. A conspicuous increase in
+species richness is recorded in Eunotia (from 9 to 19) and Pinnularia (from 24 to 35) genera, which
+suggests that the lake and its surroundings are turning into wetlands, with both pH and mineralization
+decreasing. The contents of acidophiles (up to 10%) and halophobes (up to 11.4%) increase. In the list
+of marine and brackish diatoms, 30 taxa are found. Fragments of Arachnoidiscus ehrenbergii,
+Tryblionella plana, brackish water Cocconeis scutellum, Campylodiscus echeneis, Tryblionella
+victoriae, T. littoralis, and Navicula peregrina are constantly present in sediments. Marine and
+brackish-water diatoms seem to have been brought in by storms. The most conspicuous input of sea-
+water happens in ~560 cal yr BP. The proportion of marine and brackish-water diatoms rises to 8.5%
+(from ≤5% in underlying and overlying layers). Among the identified remains, there are fragments of
+deep-sea Coscinodiscus marginatus, Thalassiosira sp., benthic Rhabdonema adriaticum colonies, and
+planktonic Odontella aurita.
+360–0 cal yr BP: The diatom species composition suggests an active paludification process. The
+acidity of the swamp water increases while the mineralization decreases. Bottom diatoms prevail (up
+to 83.5%). The content of acidophiles (up to 41%) and halophobes (up to 47.8%) sharply increases.
+The content of diatoms in the sediments gradually decreases from 18 to 13 million/g. Eunotia bidens,
+E. glacialis, E. groenlandica, Pinnularia eifelana, P. viridis, Neidium bisulcatum, and Nitzschia nana,
+typical in oligotrophic-dystrophic water bodies, reaching their highest values. The growth of the soil-
+inhabiting diatom proportion (Hantzschia amphioxys, Luticola mutica, Humidophila contenta, and
+Pinnularia borealis) indicates a more arid climate in 200–170 cal yr BP. After that the species
+The 5th International Conference “Ecosystem dynamics in the Holocene”
+IOP Conf. Series: Earth and Environmental Science 438 (2020) 012009
+IOP Publishing
+doi:10.1088/1755-1315/438/1/012009
+7
+inhabiting wet moss (Eunotia nymanniana, 3.5%; Cavinula lapidosa, 2.6%) grow in number, along
+rheophiles that are indicative of the influence of river water. The appearance of Navicula festiva, and
+Chamaepinnularia hassiaca, which are characteristic of acidic peat bogs, indicates an increase in the
+acidity of the water in the swamp. A shallow-water lake can exist on the terrace surface. Marine and
+brackish-water diatoms (a total of 23 taxa) are mainly brought in by storms. Fragments of neritic and
+oceanic species Coscinodiscus marginatus, Coscinodiscus sp., and Thalassiosira leptopus could be
+thrown onto the terrace by tsunami that have reached Russian Island.
+4. Discussion
+Barrier lakes of the lagoon type are quite common on the islands in Peter the Great Gulf. Their
+deposits are successfully used to reconstruct the evolution of the island environment [19, 20]. The
+lakes present the final stage of the development of lagoons that had formed at different phases of the
+Holocene transgression. Together with bodies of water that still exist, there are paleo-lakes, which are
+easily recognizable by their topography and are now occupied by swamps. A paleo-lake of this kind
+was also found on the isthmus of the Kondratenko Peninsula, near the Krasnaya Bay coast.
+4.1. Minor transgression-regressive cycles and evolution of the paleo-lake. The lagoon formed when
+the sea level was similar to the present-day sea level, and the evolution up to the present-day state is
+extensive, having eight recognized stages (figures 2–4).
+Figure 4. Evolution of a paleolake on Russian Island, sea-level oscillation curve [16], dry event on the
+Shufan Plateau and summer monsoon intensity [21 – 26].
+The 5th International Conference “Ecosystem dynamics in the Holocene”
+IOP Conf. Series: Earth and Environmental Science 438 (2020) 012009
+IOP Publishing
+doi:10.1088/1755-1315/438/1/012009
+8
+The body of water decreased in area during 7090–7330 cal yr BP, probably due to a decrease in the
+annual rainfall. This event was synchronous with the end of a shallowing phase of the lake on the
+Shufan Plateau (7490–6930 cal yr BP) (unpublished data of the authors). The size of the lagoon was at
+its maximum during the peak of the Holocene transgression (6750–5090 cal yr BP), coinciding with
+the Holocene optimum [16]. Both the water inflow into the lagoon and the increase in salinity
+corresponded with the peaks of the transgression (6750–6500, 6080–5830, and 5420–5090 cal yr BP).
+The traces of a severe flood dated to ~6080–6000 cal yr BP, are roughly synchronous to the end of the
+flooding phase (6210–5980 cal yr BP) identified in the paleolake of Shufan Plateau. The first “closed”
+phase of the lagoon’s evolution (6500–6080 cal yr BP) was roughly simultaneous with the short-term
+lowering of the sea level [16], which also chronologically coincide with a global cooling event during
+6400–6200 cal yr BP [21]. The second phase of the shallowing in ~5830–5420 cal yr BP was also
+simultaneous with the sea level lowering [16]. The “closed” phases in the lagoon’s evolution were
+noted for their higher diatom productivity.
+A highly productive lake with slightly brackish water developed in ~5090 cal yr BP. The diatom
+abundance in the sediments is at its maximum at this stage. This stage coincides with an interval of
+heavy deposition and the development of barrier landforms at the time of a minor regression at the
+boundary between the middle and late Holocene [16]. The lagoon in the north of Russian Island and
+the lagoon in Kit Bay turned into lakes during this time [5, 20].
+Since 4090 cal yr BP, a gradually degrading freshwater lake has existed. The rate of silt deposition
+decreased in approximately 3270 ± 150 yr BP, 3510 ±90 cal yr BP, LU–8851. This could be due to a
+prolonged phase, where a pronounced decrease in the humidity occurred in the continental Primorye.
+At this time Cherepakha Lake (Murav'ov-Amursky Peninsula), shrank drastically in ~2200–1760 cal
+yr BP [6]. In the middle portions of the Razdolnaya River, a decrease in the runoff resulted in soil
+formations that date to 2110 ± 80 yr BP, 2100 ± 110 cal yr BP, LU–8854 and 1610 ± 110 yr BP, 1520
+± 120 cal yr BP, LU–8856. A dry phase in the southern Sikhote-Alin dates to ~3100–2700 cal yr BP,
+with particularly dry conditions in 2700–2000 cal yr BP [22]. The duration of the dry interval was
+longest on the Shufan Plateau, where the moisture supply began decreasing since 3740 cal yr BP, and
+reached its minimum between 3050 and 1080 cal yr BP. Chronologically, this event approximately
+corresponds to the global cold event in 3300–2500 cal yr BP, which was related to a drop in solar
+activity. This was recorded in the north of the monsoon regions in Asia that are noted for having arid
+environments at the time [21]. These observations agree with the data for NE China, obtained by
+several authors, that suggests that the summer monsoons weakened between ~3740 and 1920 cal yr BP
+[23, 24]. In the Sihailongwan Lake region the climate became more arid in ~3500 cal yr BP and colder
+in 2900 cal yr BP [25]. The lower intensity of the summer monsoon was also recorded in the lower
+reaches of the Amur River [26]. The cold event in Asia in ~1750–1350 cal yr BP was also noted for its
+drier climate [21].
+The accumulation of organic matter in the lake in the south of Russian Island is related to the lake
+basin filling with water in ~700 cal yr BP, at a time when the mineral material supply was
+considerably reduced. The lake became overgrown, and only a small shallow lake persisted until 360-
+270 cal yr BP. Later, during at a short-term dry phase, it disappeared completely.
+4.2. Extreme storm surges and tsunami impacts. Marine water occasionally flowed into the lake during
+extreme storms, primarily typhoons or deep cyclones. At the same time, strong tsunami probably
+occurred. The presence of marine diatoms that are typical in bays and deep-sea plankton species and
+can only be brought into a lagoon or lake from the sea is evidence of a sea-water input into a brackish-
+water lagoon or fresh lake. In the absence of paleotsunami deposits, diatom analysis is a good tool for
+the reconstruction of the recurrence of severe storms and tsunami. The section is located within the
+inundation zone of extreme storms, caused by the passage of Goni (August 26, 2015) and Lionrock
+(August 31, 2016) typhoons. Observations that were conducted immediately after the storms on the
+coast of Russian Island showed that these two extreme storms were accompanied by surges, but sand
+sheets did not form in the inundation area [27]. In the surface layer of peat, the sum of marine diatoms
+The 5th International Conference “Ecosystem dynamics in the Holocene”
+IOP Conf. Series: Earth and Environmental Science 438 (2020) 012009
+IOP Publishing
+doi:10.1088/1755-1315/438/1/012009
+9
+is 1.5%, represented primarily by benthic sublittoral species (Amphora proteus, Arachnoidiscus
+ehrenbergii Rhabdonema adriaticum, and R. arcuatum). Only one planktonic species, Thalassiosira
+leptopus was found. We consider the increase in the number of marine diatoms and the presence of
+deep-sea species as a sign of the tsunami.
+It should be noted that detailed information on paleo-tsunami in Primorye is available only for the
+last 3500 cal yr [28, 29]. Our data allow us to identify more ancient events. The beginning of the
+marine phase in 5420–5090 cal yr BP is not related to a minor transgression. This may explain
+influence of strong storms or tsunami. The peak of marine diatoms is the evidence of a tsunami that
+occurred in 5340 cal yr BP. A similar event was recorded in the Kit Bay lagoon (Eastern Primorye),
+where the marine water influx into the lagoon (~5300 cal yr BP) was presumed to be related to a
+violent tsunami [5]. The presence of sand lenses with deep-sea diatoms provide support for the
+attribution of the deposit to a paleotsunami in ~5000–4920 cal yr BP. Another considerable inflow of
+marine water occurred in ~4510–4590 cal yr BP, as suggested by the marine planktonic diatoms found
+occasionally in freshwater assemblages. There are data from an area south of the Japanese islands that
+suggest an increased frequency of strong typhoons during this time [3]. An increase in storm activity
+occurred in ~4340–4090 cal yr BP occurred in a minor transgression during the late Holocene
+warming that was comparable to the middle Holocene optimum.
+An event dated to ~3270 ± 150 yr BP, 3510 ± 90 cal yr BP, LU–8851 has analogs in the geological
+record of paleo-tsunami [29]. Strong tsunami occurred on the Eastern Primorye coast (Triozerye Bay)
+in approximately 3290 ± 70 yr BP, 3520 ± 80 cal yr BP, LU–8033; 3270 ±7 0 yr BP, 3500 ± 80 cal yr
+BP, LU–8048; and 3320 ± 70 yr BP, 3560 ± 80 cal yr BP, LU–8042 [30]. The greatest inflow of
+marine water that was recorded at the top of peaty clay was related to the tsunami in 1026 AD [18].
+The focus of the tsunami was in the southeast portion of the Sea of Japan; its initiation was related to a
+large submarine landslide [31]. The signs of that tsunami were traced to the southern Primorye region
+(Triozerye Bay) [29, 30].
+On the south of Russian Island tsunami repeatedly occurred over the last 700 years. A forceful
+invasion of seawater into the paleo-lake in ~560 cal yr BP compares well with the data from the
+Russian Island eastern coast. Traces of a tsunami that dates to ~540 ± 50 yr BP, 570 ± 40 cal yr BP,
+LU–8037 was found on the eastern coast of the island (Spokoynaya Bay) [27]. Synchronous event
+(500 ± 80 yr BP, 530 ± 80 cal yr BP, LU–7719 and 540 ± 100 yr BP, 550 ± 80 cal yr BP, LU– 7105)
+was recorded on the Eastern Primorye coast (Dukhovskie lakes, Rudnaya Bay) [28]. It is difficult to
+attribute this tsunami on Russian Island to a well-known event. Japanese chronicles include data about
+intense tsunamigenic earthquake (M 7), with an epicenter near Sado Island, in 1448 AD [18]. But if
+the epicenter of the earthquake was near Hokkaido, the information was not recorded in the chronicles.
+Peak of marine diatoms and presence of deep-sea species probably record the strong tsunami of
+December 7, 1833, which was caused by the Shonaioki earthquake (7.4–7.8 M). The epicenter was
+located to the north-east of Sado Island [18]. The deposit of this tsunami was identified on Russian
+Island (Spokoynaya Bay) [27].
+5. Conclusion
+The paleolake on the Krasnaya Bay shores is sensitive to minor transgressive-regressive cycles and
+humidity changes. The lagoon was formed in ~7500 cal yr BP, when the sea level was close to the
+present-day state. The eight stages distinguished in its evolution were primarily controlled by minor
+sea-level fluctuations. The salinity was at its maximum at the peak of the Holocene transgression;
+three stages of a higher salinity are recognized (6750–6500, 6080–5830, 5420–5090 cal yr BP) and
+two of relatively freshened water (6500–6080, 5830–5420 cal yr BP). The brackish-water lake has
+existed since ~5090 cal yr BP, and, it turned into a freshwater lake in ~4090 cal yr BP. Later, the lake
+gradually degraded. The rate of the silt deposition decreased in ~3510 cal yr BP, seemingly because of
+a decreasing amount of rainfall. The terrigenous material deposition gave way to biogenic material at
+the time of the Little Ice Age (~700 cal yr BP). The lake became actively overgrown and ceased to
+exist during a short-term drop in precipitations in ~270 cal yr BP.
+The 5th International Conference “Ecosystem dynamics in the Holocene”
+IOP Conf. Series: Earth and Environmental Science 438 (2020) 012009
+IOP Publishing
+doi:10.1088/1755-1315/438/1/012009
+10
+Marine water occasionally invaded the lagoon and the paleolake during extreme storms and strong
+tsunami. Diatoms provide evidence for the response of the barrier form to the episodic influx of sea
+water into the lagoon and paleolake. One such event in ~5340 led to a barrier breach and the beginning
+of marine stages during a background of a drop in sea level. High storm activity occurred in 4340–
+4090 cal yr BP during a sea-level rise in the initial warming stage of the late Holocene. Some strong
+tsunami that had age analogs on the other coasts of Primorye were distinguished on the shore of
+Krasnaya Bay (paleotsunami, 3510 cal yr BP; historical tsunami, 1026 AD, ~560 cal yr BP and 1833
+AD).
+Acknowledgment The authors are grateful to S Prokopets (Institute of History, Archaeology, and
+Ethnography of the Peoples of the Far East FEB RAS, Vladivostok) who took part in the field
+works.
+This work received financial support from the Russian Science Foundation, project № 18-77-
+00001.
+References
+[1] Lozhkin A V, Minyuk P S, Cherepanova M V, Anderson P and Finney B 2017 Holocene
+environments of central Iturup Island, southern Kuril archipelago, Russian Far East Quat.
+Res. 54 379–393
+[2] Subetto D A, Syrykh L S, Grekov I M, Nazarova L B, Diekmann B, Bishaborn B, Pestryakova
+L A, Andronikov A V, Kusnetsov D D and Sapelko T V 2017 Paleolimnological studies in
+Russian Northern Eurasia: a review Contemporary Prob. of Ecol. 10 327–335
+[3] Woodruff J D., Donnelly J P and Okusu A 2009 Exploring typhoon variability over the mid-to-
+late Holocene: evidence of extreme coastal flooding from Kamikoshiki, Japan Quat. Science
+Rev. 29 1774–1785
+[4] Nazarova L, Grebennikova T A, Razjigaeva N G, Ganzey L A, Belyanina N I, Arslanov Kh A,
+Kaistrenko V M, Gorbunov A O, Kharlamov A A, Rudaya N, Palagushkina O, Biskaborn B
+K and Diekmann B 2017 Reconstruction of Holocene environmental changes in Southern
+Kurils (North-Western Pacific) based on palaeolake sediment proxies from Shikotan Island.
+Glob. and Plan. Change 159 25–36
+[5] Razjigaeva N G, Ganzey L A, Grebennikova T A, Mokhova L M, Kudryavtseva E P, Arslanov
+Kh A, Maksimov F E and Starikova A A 2018 Landscape and environmental changes along
+the Eastern Primorye coast during the middle to late Holocene: climatic changes and human
+impact effects. J. of Asian Earth Sci. 158 160–172
+[6] Razjigaeva N G, Ganzey L A, Lyaschevskaya M S, Makarova T R, Kudryavtseva E P,
+Grebennikova T A, Panichev A M, Arslanov Kh A, Maksimov F E, Petrov A Yu and
+Malkov S S 2019 Climatic and human impacts on landscape development of the Murav'ev
+Amursky Peninsula (Russian South Far East) in the Middle/Late Holocene and historical
+time Quat. Int. 516 127–140
+[7] Sugawara D, Minoura K and Imumura F 2008 Tsunami and tsunami sedimentology Tsunamites
+– Features and Implications ed T Shiki et al (Amsterdam: Elsevier) pp 9–49
+[8] Stratievsky O B 2012 Russian – Island of Archipelago of the Empress Eugenia (Vladivostok:
+FEFU) p 424 (in Russian)
+[9] Ganzei K S 2016 Dynamic of land use (2007-2014) and future prospects for development of
+Russkii Island (Gulf of Peter Great) Geog. and Nat. Res. 3 257–263
+[10] Diatom Algal of the USSR. Fossil and Modern 1974 ed Z I Gleser et al. (Leningrad: Nauka) p
+400 (in Russian)
+[11] Diatom Analysis 1950 ed A I Proshkina-Lavrenko (Leningrad: Gosgeollitizdat) p 632 (in
+Russian)
+The 5th International Conference “Ecosystem dynamics in the Holocene”
+IOP Conf. Series: Earth and Environmental Science 438 (2020) 012009
+IOP Publishing
+doi:10.1088/1755-1315/438/1/012009
+11
+[12] Krammer K and Lange-Bertalot H 1986 Bacillariophyceae Teil 1. Naviculaceae (Jena: VEB
+Gustav Fischer Verlag) p 876
+[13] Krammer K and Lange-Bertalot H 1991 Bacillariophyceae Teil 3. Centrales, Fragilariaceae,
+Eunotiaceae (Jena: VEB Gustav Fischer Verlag) p 576
+[14] Tsoy I B and Obrezkova M S 2017 Atlas of Diatom algae and Silicoflagellates from Holocene
+Sediments of the Russian East Arctic seas. (Vladivostok: POI FEB RAS) p 146 (in Russian)
+[15] Bronk Ramsey C 2017 Methods for summarizing radiocarbon datasets Radiocarbon 59 1809-
+1833
+[16] Korotky A M, Grebennikova T A, Pushkar V S, Razzhigaeva N G, Volkov V G, Ganzey L A,
+Mokhova L M, Bazarova V B and Makarova T R 1997 Climatic changes of the territory of
+South Far East at Late Pleistocene-Holocene Bull. FEB RAS 3 121–143 (in Russian)
+[17] Polyakova E I 1979 Diatoms in modern sediments of the Chukchi Sea coast and their
+paleogeographic significance. Izv. RAS. Ser. Geogr. 4 90–104 (in Russian)
+[18] Iida K 1984 Catalog of Tsunamis in Japan and its Neighboring Countries (Toyota: Aichi
+Institute of Technology) p 52
+[19] Lyashchevskaya M S, Ganzei K S and Makarova T R 2017 Paleogeographical Reconstruction
+for Stenina Island (Sea of Japan) during Middle-Late Holocene. Biodiversity and
+Environment of Far East Reserve 2 3–20 (in Russian)
+[20] Mikishin Yu A and Gvozdeva I G 2014 Mid to Late Holocene of Russkyi Island (Southern
+Primorye) Fundamental Res. 3 516–522 (in Russian)
+[21] Wanner H, Solomina O, Grosjean M, Ritz S P and Jetel M 2011 Structure and origin of
+Holocene cold events Quat. Sci. Rev. 30 3109–3123
+[22] Razzhigaeva N G, Ganzey L A, Grebennikova T A, Mokhova LM, Kopoteva T A,
+Kudryavtseva E P, Arslanov KhA, Maksimov F E, Petrov A Yu and Klimin M A 2019
+Development of the natural environment of midlands of the Southern Sikhote-Alin recorded
+in the Sergeev Plateau peat bogs Rus. J. of Pacific Geol. 13 11–28
+[23] Chen R, Shen J, Li C, Zhang E, Sun W and Ji M 2015 Mid- to late-Holocene East Asian
+summer monsoon variability recorded in lacustrine sediments from Jingpo Lake,
+Northeastern China Holocene 25 454–468
+[24] Li C, Wu Ya and Hou X 2011 Holocene vegetation and climate in Northeast China revealed
+from Jingbo Lake sediment. Quat. Int. 229 67–73
+[25] Stebich M, Rehfeld K, Schlütz F, Tarasov P E, Liu J and Mingram J 2015 Holocene vegetation
+and climate dynamic of NE China based on the pollen record from Sihailongwan Maar Lake
+Quat. Sci. Rev. 124 275–289
+[26] Bazarova V B, Klimin M А and Kopoteva T A 2018 Holocene dynamic of Eastern-Asia
+Monsoon in Lower Priamur’e (South Far East) Geogr. and Nat. Res. 39 239–247
+[27] Razjigaeva N G, Ganzey L A, Grebennikova T A, Arslanov Kh A, Ivanova E D, Ganzey K S
+and Kharlamov A A 2018 Historical tsunami records on Russian Island, the Sea of Japan.
+Pure and Appl. Geoph. 175 1507–1523
+[28] Ganzey L A, Razjigaeva N G, Nishimura Yu, Grebennikova T A, Kaistrenko V M, Gorbunov A
+O, Arslanov Kh A, Chernov S B and Naumov Yu A 2015 Deposits of Historical and
+Paleotsunamis on the Coast of Eastern Primorye. Rus. J. Pacific Geol. 9 64–79
+[29] Ganzey L A, Razzhigaeva N G, Arslanov Kh A, Nishimura Yu, Grebennikova T A, Gorbunov
+A O, Maksimov F E, Petrov A Yu and Kharlamov A A 2018 Manifestation of paleotsunami
+on the coast of Primorye in the Holocene Geomorphology 2 20–31(in Russian)
+[30] Ganzey L A, Razzhigaeva N G, Nishimura Yu, Arslanov Kh A, Grebennikova T A, Lebedev I I,
+Maksimov F E, Petrov A Yu, Gorbunov A O and Naumov Yu A 2016 Manifestation of late
+Holocene paleotsunami on Triozer’e Bay coast, Sea of Japan Advances in Current Nat. Sci. 8
+166–172 (in Russian)
+The 5th International Conference “Ecosystem dynamics in the Holocene”
+IOP Conf. Series: Earth and Environmental Science 438 (2020) 012009
+IOP Publishing
+doi:10.1088/1755-1315/438/1/012009
+12
+[31] Minoura K, Sugawara D, Yamanoi T and Yamada T 2015 Aftereffects of Subduction-Zone
+Earthquakes: Potential Tsunami Hazards along the Japan Sea Coast. Tohoku J. Exp. Med.
+237 91–102

@@ -1,0 +1,89 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Hazleton North long cairn
+
+Basic location of event: England
+
+Specific data/information/context related to event: World’s oldest family tree revealed in 5,700-year-old Cotswolds tomb
+
+DNA analysis of bodies in Hazleton North long cairn finds five generations of an extended family
+I'm sorry, but the content you've provided appears to be a long piece of CSS styling rather than HTML with content to extract. If you are looking for textual content from an HTML document, please provide the actual HTML structure with text elements like paragraphs, headings, or links so that I can help extract the relevant text.
+It seems that the text provided is cut off and appears to be an incomplete HTML document. However, without the HTML formatting, the textual content appears to include navigation links and elements primarily associated with a news website.
+
+If you are looking for specific textual content or need to process this content further (such as extracting links, headers, or other specific segments), please provide additional context or specify your requirements. For now, based on the visible snippets, here are the main elements without HTML formatting:
+
+- The Guardian - Back to home
+- News
+- Opinion
+- Sport
+- Culture
+- Lifestyle
+- Print subscriptions
+- Search jobs
+- Sign in
+- World news
+- US news
+- Climate crisis
+- UK news
+- Science
+- Global development
+- Football
+- Tech
+- Business
+- Obituaries
+- Fashion
+- Food
+- Recipes
+- Love & sex
+- Health & fitness
+
+If you need more specific content or have additional instructions, feel free to let me know!
+Love & sex  
+Health & fitness  
+Home & garden  
+Women  
+Men  
+Family  
+Travel  
+Money  
+Support us  
+Print subscriptions  
+Search jobs  
+Holidays  
+Digital Archive  
+Guardian Licensing  
+About Us  
+The Guardian app  
+Video  
+Podcasts  
+Pictures  
+Newsletters  
+Today's paper  
+Inside the Guardian  
+The Observer  
+Guardian Weekly  
+Crosswords  
+Wordiply  
+Corrections  
+
+Search input   
+Search the Guardian  
+What the exterior of the Hazleton North long cairn may have looked like, taken from a Corinium Museum animation. Illustration: Courtesy of Corinium Museum, copyright Cotswold District Council  
+World’s oldest family tree revealed in 5,700-year-old Cotswolds tomb  
+DNA analysis of bodies in Hazleton North long cairn finds five generations of an extended family  
+An analysis of DNA from a 5,700-year-old tomb has revealed the world’s oldest family tree, shedding “extraordinary” light on the importance of family and descent among people who were some of Britain’s first farmers.  
+A research team has examined the bones and teeth of 35 people in one of Britain’s best preserved neolithic tombs, near the village of Hazleton in the Cotswolds. The results, said Dr Chris Fowler of Newcastle University, are nothing short of “astounding”.  
+The researchers have discovered that 27 were biological relatives from five continuous generations of a single extended family. The majority were descended from four women who all had children with the same man.  
+“It tells us that descent was important,” said Fowler. “When they were building these tombs and deciding who to include in them, certainly in this case, they were selecting people who were close relatives of the people who were first buried there. They have this close connection to their immediate ancestors and that extends over several generations.  
+“Family was important and you can see that with the inclusion of some very young children in the tomb as well.”  
+The tomb, known as the Hazleton North long cairn, is divided into two L-shaped chambered areas and fresh research also shows that the dead were buried according to the women they were descended from. That shows, the study concludes, “that these first-generation women were socially significant in the memories of this community”.  
+The prehistoric group of people in question lived around 3700–3600BC and were some of Britain’s first farmers, with the tomb constructed about 100 years after cattle and cereal cultivation had been introduced from continental Europe. It would be another 700 years before construction started on the most famous neolithic legacy, Stonehenge.  
+Archaeologists know that the people moved around the landscape and were probably herding animals as they did so. They consumed dairy products and had a protein-rich diet and they made pots for storing and cooking food. The latest research shows that family ties also mattered to them.  
+The research is a collaboration between archaeologists from the universities of Newcastle, Central Lancashire, Exeter and York, and geneticists from the universities of Harvard, Vienna and the Basque country. The conclusions – the first study to reveal in such detail how prehistoric families were structured – are published in the journal Nature.  
+“This research is really important because it allows us to see what’s going on in neolithic society,” said Fowler. “They are carrying out these burial practices that are tracing lines of descent … they are projecting their community forward into the future.  
+The DNA analysis has revealed ages, genders and family ties. “We have built up a much more detailed biographical picture of those individuals which makes them much more relatable to us as people,” he said.  
+Fowler said similar studies of tombs in Ireland had concluded that remains were not biologically related, which makes the Hazleton North discovery “quite an extraordinary result”.  
+Researchers also found that males who today we would call stepsons were adopted into the lineage, suggesting “blended” families can’t be considered just a modern phenomenon.  
+Iñigo Olalde, the lead geneticist on the study, said using the latest technologies in ancient DNA recovery had allowed the team “to uncover the oldest family tree ever reconstructed and analyse it to understand something profound about the social structure of these ancient groups”.  
+Fowler said the task now was to look at other neolithic tombs to see if a similar pattern existed.  
+Ron Pinhasi, of the University of Vienna, said: “It was difficult to imagine just a few years ago that we would ever know about neolithic kinship structures. But this is just the beginning and no doubt there is a lot more to be discovered from other sites in Britain, Atlantic France, and other regions.”

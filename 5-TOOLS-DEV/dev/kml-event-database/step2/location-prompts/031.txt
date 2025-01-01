@@ -1,0 +1,19 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Mayan Chichancanab lake filling
+
+Basic location of event: Chichancanab
+
+Specific data/information/context related to event: Lake Chichancanab
+
+Lake Chichancanab from Yucatec Maya "Little Sea" is a lake in Mexico located in the northwest of the state of Quintana Roo, in the municipality of José María Morelos. It is also known as Laguna Chichancanab, Laguna Chicnancanab and Laguna de Chichancanab. It has an approximate length of 30 kilometers from near the settlement of La Presumida to that of Kantemó, in the same municipality. It is the largest lake on the Yucatan Peninsula.
+
+The lake has a clay lake bed which seals the water off from the bedrock. The water level is therefore determined by the balance between rainfall and evaporation. The lakes waters are saline, with high concentrations of dissolved minerals. When the area undergoes drought for a sufficiently long period, gypsum precipitates and concentrates in the mud on the lake bed. In the last five thousand years, this deposit of gypsum has occurred at just one period which coincided with the start of the decline of the classical Mayan civilisation.
+
+On 2 February 2004, Lake Chichancanab was declared as Ramsar site (ref. No. 1364), protecting an area of 1,999 hectares (4,940 acres). The site provides is utilised by at least 97 species of migratory birds. It is also inhabited by a diverse number of species of birds, mammals and reptiles which are protected under Mexican law, as well as being on the IUCN Red List. An unusual feature of the lake is that it contains an inland population of the red mangrove (Rhizophora mangle), as well as Morelet's crocodile (Crocodylus moreletii) and various species of wading birds, although these have not been formally surveyed.
+
+One almost unique feature of Lake Chichancanab is that different species of pupfish in the genus Cyprinodon coexist within the lake, in most parts of the world these species do not overlap in their range. There are, however, two notable exceptions one of which is Lake Chichancanab. Within the lake C. maya, C. beltrani, C. esconditus, C. labiosus, C. simus, C. suavium and C. verecundus are found, making up a species flock. The only other place where several Cyprinodon species are sympatric are lakes on San Salvador Island in the Bahamas. The sympatric Cyprinodon species in Lake Chichancanab have diversified to exploit different niches. Pupfish typically feed on algae and detritus, however, in Lake Chichancanab, C. maya has become not only the largest species in the genus Cyprinodon, attaining lengths of up to 10 cm (3.9 in), but also the only species capable of preying on whole fish.
+
+Among the endemic Cyprinodon species which were found in Lake Chichancanab, only C. beltrani and C. labiosus still occur in some numbers in their habitat, while the other species are almost extinct in the wild. At least some of these, including C. maya, survive in captivity. The primary reason for the decline of the endemic pupfish is introduced species, notably the Nile tilapia and the tetra Astyanax fasciatus. 
+
+References

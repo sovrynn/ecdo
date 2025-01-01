@@ -1,0 +1,221 @@
+
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+AGU Journals
+Search within
+Search term
+
+    Journals
+    Topics
+    Books
+    Other Publications
+    Policies
+
+    Membership
+    AGU.org
+
+Geophysical Research Letters
+Geophysical Research Letters
+Research Letter
+Free Access
+Further evidence of the Levantine Iron Age geomagnetic anomaly from Georgian pottery
+Ron Shaar, Lisa Tauxe, Avto Goguitchaichvili, Marina Devidze, Vakhtang Licheli
+First published: 25 February 2017
+https://doi.org/10.1002/2016GL071494
+Citations: 26
+Sections
+PDF
+Tools
+Share
+Abstract
+
+Recent archaeomagnetic data from ancient Israel revealed the existence of a so-called “Levantine Iron Age geomagnetic anomaly” (LIAA) which spanned the first 350 years of the first millennium before the Common Era (B.C.E.) and was characterized by a high averaged geomagnetic field (virtual axial dipole moments, VADM > 140 Z Am2, nearly twice of today's field), short decadal-scale geomagnetic spikes (VADM of 160–185 Z Am2), fast field variations, and substantial deviation from dipole field direction. The geographic constraints of the LIAA have remained elusive due to limited high-quality paleointensity data in surrounding locations. Here we report archaeointensity data from Georgia showing high field values (VADM > 150 Z Am2) in the tenth or ninth century B.C.E., low field values (VADM < 60 Z Am2) in the twelfth century B.C.E., and fast field variation in the fifth and fourth centuries B.C.E. High field values in the time frame of LIAA have been observed so far only in three localities near the Levant: Eastern Anatolia, Turkmenistan, and now Georgia, all located east of longitude 30°E. West of this, in the Balkans, field values in the same time are moderate to low. These constraints put geographic limits on the extent of the LIAA and support the hypothesis of an unusually intense regional geomagnetic anomaly during the beginning of the first half of the first millennium B.C.E., comparable in area and magnitude (but of opposite sign) to the presently active South Atlantic anomaly.
+Key Points
+
+    Paleointensity data from Georgia from the past five millennia
+    High field values (145–154 Z Am2) in Georgia in the tenth or ninth century B.C.E.
+    New geographic constraints for the Levantine Iron Age geomagnetic anomaly (LIAA)
+
+1 Introduction
+
+Detailed mapping of secular (short-term) variation of the geomagnetic field provides an essential indirect view into the geodynamics and thermal structure of Earth's core [Jackson and Finlay, 2007]. Thus, a substantial effort has been made over the last several decades to reconstruct past secular variations, with particular focus on the recent several centuries [Finlay et al., 2010, 2016; Jackson et al., 2000] and more broadly, the Holocene [Constable et al., 2016; Korte et al., 2011]. Perhaps, the most remarkable secular variation feature in this time window is the presently active regional negative geomagnetic anomaly over the southern Atlantic presumably driven by a reversed core flux patch [Jackson et al., 2000; Tarduno et al., 2015]. Until recently, there was no evidence for other historical geomagnetic anomalies of this scale. Recently, Shaar et al. [2016] proposed the existence of an intense positive geomagnetic anomaly over the Levant in the beginning of the first millennium B.C.E. This so-called “Levantine Iron Age Anomaly” (LIAA) is characterized by 350 years (~1050 B.C.E. to ~700 B.C.E.) with high time-averaged field corresponding to virtual axial dipole moments (VADM) [Barbetti et al., 1977; Tauxe et al., 2016a] of about 140 Z Am2 (nearly twice today's axial dipole moment, 77 Z Am2). During this period of generally high field, at least two geomagnetic “spikes” (defined by Cai et al. [2014] as a short-lived feature with a VADM of >160 Z Am2) occurred in the tenth and the eighth centuries B.C.E. reaching VADMs of 160–187 Z Am2 [Ben-Yosef et al., 2017; Shaar et al., 2011; Shaar et al., 2016] and perhaps even higher [Ben-Yosef et al., 2009]. The maximum directional deviations from axial dipole field direction in the LIAA period was at least 22° [Shaar et al., 2016]. The data set supporting the LIAA hypothesis include 70 high-precision paleointensity estimates from well-dated pottery, burnt structures, and radiocarbon-dated slag [Ben-Yosef et al., 2009; Ertepinar et al., 2012; Shaar et al., 2011, 2016] and directional data from in situ cooking ovens [Hassul et al., 2016; Shaar et al., 2016]. To uncover the geographic extent of this anomaly, similarly dense high-quality data from the narrow time window of LIAA are required from nearby locations.
+
+Accurate recovery of ancient geomagnetic field intensity (paleointensity) is not a straightforward task. It requires well-dated materials carrying a stable thermoremenent magnetization (TRM) held by submicrometer-scale single domain (SD) or small (flower state) pseudo single domain ferromagnetic particles, which are chemically resistant to repeated heating laboratory treatments [Tauxe and Yamazaki, 2007]. In the so-called “Thellier” procedure, the ancient TRM acquired in an unknown field is gradually replaced with laboratory TRM acquired in a known field through multiple heating steps at progressively elevated temperatures [Aitken et al., 1988; Coe, 1967; Thellier and Thellier, 1959; Yu et al., 2004]. It is a laborious, time-consuming, experimental procedure with a relatively low rate of success [Tauxe and Yamazaki, 2007; Valet, 2003] resulting from non-SD materials and experimental complexities. The interpretations of the experimental results, expressed as Arai plots [Nagata et al., 1963] and Zijderveld plots [Zijderveld, 1967] (Figure 1), can be nonunique and ambiguous. Thus, acceptance criteria based on paleointensity statistics [Paterson et al., 2014] are commonly applied to screen out unreliable interpretations. Additional uncertainties arise from remanence anisotropy [Rogers et al., 1979] and cooling-rate dependency of TRM [Fox and Aitken, 1980], which result in a typical bias of noncorrected paleointensity calculation of 5–25% [Genevey and Gallet, 2002; Genevey et al., 2008; Shaar et al., 2016], and in many cases even more than that.
+Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+Representative behavior in paleointensity experiments. (a–d) Arai plots are shown in red circles; blue circles and triangles are ZI, IZ steps, and pTRM checks, respectively. Best fit lines and SCAT boundaries are shown in green and dahed lines. Insets show Zijderveld plots, where blue (red) squares are x–y (x–z) projections of the natural remanent magnetization (NRMs) in specimens coordinate system (x axis is rotated to the direction of the NRM). Interpretations failing criteria are shown in Figures 1a–1c. Interpretation passing all criteria is shown in Figure 1d. (e) Cooling rate correction data plotted following Halgedahl et al. [1980].
+
+Considering the above methodological complexities, it may not be surprising that some regional paleointensity data sets derived by using different experimental methods, data interpretation guidelines, averaging schemes, and dating techniques can show considerable inconsistency and internal discrepancies [Genevey et al., 2008; Pavon-Carrasco et al., 2014]. If the raw measurements are in hand, then this problem can be partly addressed by carefully assembling regional compilations by using identical laboratory and data analysis procedures. Two examples from the near east adopting such approach are the Levantine compilation [Shaar et al., 2016] that applies an automatic consistent interpretation routine [Shaar and Tauxe, 2013; Shaar et al., 2015] by using strict acceptance criteria on the entire raw measurement data, and the Bulgarian compilation [Kovacheva et al., 2009, 2014], which is based on the same laboratory treatments throughout the data set. When the raw measurement data are unavailable, it is critical to screen out less reliable data by using paleointensity statistics [Genevey et al., 2008; Paterson et al., 2014; Pavon-Carrasco et al., 2014] or other methods. This approach has been recently used by Pavon-Carrasco et al. [2014], who demonstrated the strong effect of quality criteria on regional geomagnetic modeling in Europe.
+
+In this study we focus on the paleointensity behavior in Georgia in an effort to explore differences between the Levant and Georgia, located approximately 3000 km apart. The Caucasus was extensively studied in the 1970s and 1980s. The raw data from these publications are unavailable, but the published interpretations are available from the GEOMAGIA50 [Brown et al., 2015; Korhonen et al., 2008] and the MagIC (https://earthref.org/) databases. Adequate analysis of the published data should take into consideration possible bias caused by data quality. Thus, following Pavon-Carrasco et al. [2014], we show in gray circles in Figure 2 data derived by using some form of the Thellier method. Data points in blue are derived by using the Thellier method with pTRM checks and at least four specimens. The latter criterion is necessary to average anisotropy effects. The high values in Georgian data set in the beginning of the first half of the first millennium B.C.E., with field values corresponding to geomagnetic spikes (VADM ~ 160 Z Am2), are the main focus of this study. As these data were not obtained by using the strict standards of modern studies, we provide here new paleointensity data from archaeologically dated potsherds and baked-clays in order to test the trend seen in the old data and compare the behavior in the Caucasus and the Levant.
+Details are in the caption following the image
+Figure 2
+Open in figure viewer
+PowerPoint
+Paleointensity of the past 5000 years in the Caucasus displayed as VADM (virtual axial dipole moments). Red: this study; gray: Thellier method data from GEOMAGIA50 database [Brown et al., 2015]; blue: Thellier method with alteration check data from GEOMAGIA50 calculated using at least four specimens.
+2 Methods
+
+Forty-eight potsherds and fired-clay samples from different archaeological contexts, mostly dated by using archaeological correlations [Djibladze, 2002; Heinch and Kuntner, 2016; Licheli, 2011; Licheli and Rusishvili, 2008; Muskhelishvili, 1978; Narimanishvili, 1991; Pitskhelauri, 1976], were analyzed in the paleomagnetic laboratory of Scripps Institution of Oceanography, University of California, San Diego. A detailed information of the archaeological contexts can be found in Appendix I in the supporting information). The samples were cut into 3–9 specimens, which were subjected to Thellier-type paleointensity experiment by using the IZZI protocol of Tauxe and Staudigel [2004] including routine pTRM checks [Coe et al., 1978] at every second temperature step. Anisotropy of TRM was measured in six positions in 600° with additional baseline zerofield and alteration-check steps at the beginning and the end of the experiment, respectively. Cooling rate dependency was measured from three acquisitions of TRM in 600° cooled in fast air cooling (43°/min), slow spontaneous cooling (1.3°/min), and fast cooling as alteration check (43°/min), respectively. Following Shaar et al. [2016] we assumed an averaged ancient cooling time of 6 h from 500° to 200° for all the archaeological samples (0.83°/min). Data analysis was done by using the Thellier GUI program [Shaar and Tauxe, 2013], part of the PmagPy software [Tauxe et al., 2016b]. We use the automatic interpretation technique [Shaar and Tauxe, 2013; Shaar et al., 2015] by using the acceptance criteria listed in Table 1. The error bounds of the paleointensity estimates were calculated from two parameters: the standard deviation of the mean (σ) and the “extended error” [Shaar et al., 2016]. The latter takes into consideration all possible interpretations passing the criteria. Additional details regarding procedures and analyses can be found in Shaar et al. [2016].
+Table 1. Acceptance Criteria
+Criteria Group 	Statistic 	Threshold Value 	Description 	Referenceb
+Specimen paleointensitya 	FRAC 	0.79 	Fraction parameter 	(1)
+β 	0.1 	Scatter parameter 	(2)
+SCAT 	True 	Scatter parameter 	(1)
+NPTRM 	2 	Number of pTRM checks 	
+MAD 	5 	Maximum angular deviation of the zero-field steps 	(4)
+DANG 	10 	Deviation angle 	(5)
+Alteration check in correction protocols 	5% 	Alteration check in nonlinear TRM, TRM anisotropy, and cooling rate experiments 	(6)
+Sample paleointensity 	Nmin 	3 	Minimum number of specimens 	
+σ 	σ% < 10% 	Standard deviation of the sample mean 	
+Nmin_aniso_corr 	at least half of the specimens 	Minimum number of specimens with anisotropy correction 	(6)
+Nmin_cr_corr 	1 	Minimum number of specimens with cooling rate correction 	(6)
+Sample anisotropy 	1% 	Minimum averaged anisotropy correction factor for excluding specimens with no anisotropy data 	(6)
+
+    a For a complete description and definitions see Paterson et al. [2014] (http://www.paleomag.net/SPD/).
+    b (1):[Shaar and Tauxe, 2013]; (2): [Coe et al., 1978]; (3): [Selkin and Tauxe, 2000]; (4):[Kirschvink, 1980]; (5) [Tauxe and Staudigel, 2004]; (6) [Shaar et al., 2016].
+
+3 Results
+
+Figure 1 shows representative behaviors in the paleointensity experiments. Figures 1a–1c show different examples of specimens with behaviors failing one or more of the acceptance criteria in Table 1. Figure 1d shows the behavior of a nearly ideal specimen with a straight Arai plot, no evidence of alteration and a straight Zijderveld plot converging to the origin (insets); this specimen passed all criteria. The effect of cooling rate is illustrated in Figure 1e, following Figure 4 in Halgedahl et al. [1980], where the TRM overestimation is plotted versus the logarithm of the ratio of cooling rates.
+
+Overall, 91 specimens out of 210 specimens passed the specimen level criteria (43% success rate) and 17 samples out of 48 passed the sample criteria (35% success rate). The samples' paleointensities are listed in Table 2 and shown in Figure 2 as red squares. Histograms showing distributions of statistics, and cooling rate and anisotropy corrections are given in the supporting information. Interpretations in the specimens and sample level with the corresponding statistical data, and the entire set of raw measurements are available in the MagIC database (http://earthref.org/MagIC/11631).
+Table 2. Sample Paleointensiy
+Location 	Lat/Lon 	Sample ID 	Type 	Age Range (CE)a 	N 	B ± σ (μT) 	VADM ± σ (Z Am2) 	B Extended Error Bounds (μT) 	VADM Error Bounds (Z Am2)b
+Sachkhere 	42.302, 43.383 	gsa101 	Pot Sherd 	−3000, −2500 	6 	47.0 ± 1.4 	79.1 ± 2.3 	40.9–45.6 	68.8–86.4
+Tsminda Pchani 	41.632, 45.450 	gtp202 	Pot Sherd 	−1400, −1200 	4 	35.1 ± 3.5 	59.5 ± 5.9 	31.6–31.6 	53.6–65.3
+gtp108 	Pot Sherd 	−500, −400 	3 	51.7 ± 1.3 	87.7 ± 2.1 	45.7–49.2 	77.5–97.9
+gtp107 	Pot Sherd 	−500, −400 	5 	59.9 ± 2.5 	102.0 ± 4.3 	54.7–57.4 	92.8–106.0
+Ortasheni necropolis 	42.010, 44.785 	gon102 	Pot Sherd 	−1300, −1200 	3 	30.7 ± 2.5 	51.9 ± 4.2 	27.3–28.2 	46.2–57.8
+Khovle 	41.910, 44.247 	gkv102 	Pot Sherd 	−1000, −800 	6 	89.6 ± 0.1 	152.0 ± 0.1 	87.1–90.9 	147.3–160.4
+gkv103 	Pot Sherd 	−1000, −800 	5 	86.0 ± 0.7 	145.0 ± 1.1 	82.7–85.2 	139.8–150.2
+gkv101 	Brick 	−1000, −800 	4 	91.1 ± 0.1 	154.0 ± 0.1 	86.8–94.1 	146.7–164.1
+Grakliani gora 	41.997, 44.404 	ggg301 	Pot Sherd 	−400, −500 	5 	76.9 ± 7.3 	130.0 ± 12.4 	69.6–69.6 	117.6–142.3
+ggg202 	Pot Sherd 	−400, −350 	5 	85.3 ± 0.2 	144.0 ± 0.3 	82.3–85.8 	139.1–150.6
+ggg102 	Brick 	−400, −350 	4 	62.6 ± 1.6 	106.0 ± 2.6 	56.1–61.9 	94.8–117.3
+ggg101 	Brick 	−400, −350 	5 	79.6 ± 5.1 	134.0 ± 8.6 	67.5–73.8 	114.0–147.9
+Grakliani Hill 	41.998, 44.403 	ggh201 	Pot Sherd 	−500, −350 	4 	31.5 ± 1.2 	53.2 ± 2.1 	28.8–30.7 	48.6–59.5
+ggh401 	Pot Sherd 	−450, −350 	6 	71.4 ± 0.1 	121.0 ± 0.1 	66.8–73.3 	112.9–129.9
+ggh501 	Pot Sherd 	−350, −250 	6 	55.0 ± 2.6 	92.9 ± 4.4 	50.6–52.9 	85.4–99.7
+Atskuri 	41.728, 43.166 	gat104 	Oven 	1400, 1500 	3 	48.6 ± 0.2 	82.4 ± 0.4 	47.5–48.4 	80.5–83.6
+gat102 	Oven 	1400, 1500 	7 	50.7 ± 2.2 	85.9 ± 3.7 	47.0–48.9 	79.6–94.5
+
+    a Ages are inferred archaeological date range.
+    b Error bounds calculated by using all interpretations passing criteria (see Shaar et al. [2016] for details).
+
+Four locations yielded 2–3 samples per age interval: Khovle and Atskuri show good internal consistency and Graklinai Gora and Tsminda Pchani show more scattered results. We note the relatively large uncertainty in the archaeological context of the samples from Graklinai Gora (Appendix I). We suggest that the source of the scatter in Graklinai Gora is a fast variation rate between the fifth and the third centuries B.C.E. This hypothesis is supported by the previous data that show a wide range of values in the 500 B.C.E. to 200 B.C.E. interval (Figure 2). Some of the locations yielded single samples per time interval; although passing our strict selection criteria, these time intervals should be further confirmed by more data.
+The new data shown in Figure 2 corroborate the main trends seen in the old data. Most importantly, they show the following features:
+
+    The high geomagnetic field (VADM of 145–154 Z Am2) in the ninth or tenth century B.C.E. is supported by three samples from Khovle.
+    The geomagnetic low in the fourteenth or thirteenth century B.C.E. with VADMs < 60 Z Am2 is supported by two samples from Tsminda Pchani and Ortasheni necropolis.
+    The large scatter in the data in the fifth and fourth centuries B.C.E. with eight samples from Tsminda Pchani, Grakliani Gora, and Grakliani Hill shows VADMs ranging between 80 and 140 Z Am2. Also, one sample from Grakliani Hill yielded anomalously low value (50 Z Am2) that needs to be confirmed by more samples. This could be explained by fast field variations or age uncertainty. As age uncertainty of few hundred years in these sites is unlikely, we interpret the scatter as a period with fast field variations.
+
+4 Discussion
+
+Three samples from the Iron Age site of Khovle showed high VADM values of 145–154 Z Am2 around 900 B.C.E. Considering the extended error bounds (Table 2), these values are slightly lower than the Levantine geomagnetic spikes values (>160 Z Am2), but comparable in magnitude. Some of the published Caucasus data also show high field values in this period (Figure 2), with three samples showing VADMs of about 160 Z Am2 around 800 B.C.E. and a few quite high values (>160 Z Am2) coming from pottery from the second millennium B.C.E.; however, these do not meet the criteria of Pavon-Carrasco et al. [2014]. Our new high values thus confirm the existence of a paleointensity high around 900 B.C.E. in Georgia. The picture is not so simple, however. There is a large dispersion of data in the 1000 B.C.E. to 800 B.C.E. interval with field values ranging from 50 Z Am2 to 150 Z Am2. Evidently, more high-quality well-dated data are required to fully characterize field variations in this period. The 900 B.C.E. high in Georgia is contemporaneous with the Levantine geomagnetic spikes, suggesting a link between the Levant and Caucasus. Both locations show fast field variations and exceptionally high field values. We conclude therefore that the LIAA extended at least to Georgia. Yet still, more data are required to understand the details of the LIAA evolution in the Caucasus.
+
+With the new data in hand it is now possible to inspect the overall evidences for the geographic extent of the LIAA using the available paleointensity data from nearby localities (Figure 3). We display regional compilations outside the Levant by using two sets of criteria: data obtained by using the Thellier method in gray symbols and data passing Pavon-Carrasco et al. [2014] criteria (Thellier-type methods with pTRM check and at least four specimens) in colored symbols. The Levantine paleointensity behavior, to which we compare the Georgian data, is shown in the south west corner of the map in Figure 3, consisting of the Central Levant data in red [Ben-Yosef et al., 2017, 2009; Shaar et al., 2011, 2015, 2016] (analyzed and interpreted by using identical methods and selection criteria), and from Syria and Turkey in cyan [Ertepinar et al., 2012; Gallet and Butterlin, 2015; Gallet et al., 2006, 2008, 2014, 2015; Genevey et al., 2003; Stillinger et al., 2015]. The LIAA period with the two spikes is highlighted by a shaded orange stripe. The Bulgarian data set, compiled by Kovacheva et al. [2009] and Kovacheva et al. [2014], provides a detailed paleointensity picture but has only a few samples covering the first half of the first millennium B.C.E.; this data set shows low to moderate values during the LIAA. The Greek data set, available from the GEOMAGIA50 and MagIC databases, with the revisions of Tema and Kondopoulou [2011] and Tema et al. [2012], also shows a paleointensity low during LIAA. From these data it seems that there was no paleointensity high in the Balkan during the LIAA, and thus, the Balkans mark its western limit. East of the Caucasus, the Turkmenistan data set assembled by using data available from the GEOMAGIA50 and MagIC databases, show a coherent paleointensity behavior with similar trends as the Levant and Georgia, and high field values corresponding to VADM of at least 150 Z Am2. Yet we note that these data do not meet Pavon-Carrasco et al.'s [2014] criteria, and thus shown in gray. We conclude that the LIAA extended from the Levant toward western Asia.
+Details are in the caption following the image
+Figure 3
+Open in figure viewer
+PowerPoint
+Regional compilations of paleointensity data from the near east shown as virtual axial dipole moments (VADM). In the time frame of the Levantine Iron Age Anomaly (LIAA, ~1050 B.C.E. to ~700 B.C.E., highlighted in orange) there are prominent high VADM values in the Levant (160–185 Z Am2), Caucasus (150 Z Am2), and possibly Turkmenistan (~150 Z Am2), but much lower values in Greece (<110 Z Am2) and Bulgaria (<130 Z Am2). In the period between 550 B.C.E. and 250 B.C.E. (highlighted in green), a second paleointensity high with VADM of 140–160 Z Am2 (possibly higher in Turkmenistan) is observed in all regions.
+
+The inspection of the regional data in Figure 3 shows two prominent peaks. The first of which is the LIAA east of the Balkans shown with orange stripe and discussed above. The second peak appears to be contemporaneous in all locations of the near east and is highlighted with green stripe. It reached values of 150–160 Z Am2 in Georgia, Bulgaria, and Greece; 140 Z Am2 in the Levant; and possibly more than 160 Z Am2 in Turkmenistan (need to be confirmed by higher-quality data). This peak has been observed and discussed in Tema and Kondopoulou [2011] and Pavon-Carrasco et al. [2014] and is associated with period of relatively fast secular variation in Europe. Also here, further data are needed to adequately describe the spatial and temporal characteristics of this second peak.
+5 Conclusions
+
+From comparison of paleointensity data sets from the Balkan, Caucasus, Levant, and Turkmenistan we conclude that a nondipole feature is required to explain the paleointensity difference in the interval between 1050 B.C.E. to 700 B.C.E. between Caucasus-Levant and the Balkans. We suggest that this nondipole feature is the regional positive geomagnetic anomaly suggested by Shaar et al. [2016]. Given the new high Georgian paleointensity data in the tenth or ninth century B.C.E. we conclude that the western limit of the Levantine Iron-Age Anomaly (LIAA) is along longitude lines of about 30E–35E.
+Acknowledgments
+
+We thank Manuel Calvo Rathert for his assistance in the field work. We thank Jason Steindorf for helping with the laboratory measurements. This project was supported by UC Mexus grant CN-09-282 to L.T. and A.G., NSF grant EAR 1345003 to L.T., and the Israel Science Foundation grant 1364/15 to R.S. We are very grateful for two excellent anonymous reviews which substantially improved the quality of the manuscript. The data and interpretations associated with this publication are available from the MagIC database in http://earthref.org/MagIC/11631
+
+Supporting Information
+References
+Citing Literature
+
+Volume44, Issue5
+
+16 March 2017
+
+Pages 2229-2236
+
+    Figures
+    References
+    Related
+    Information
+
+Recommended
+
+    Archaeomagnetism in the Levant and Mesopotamia Reveals the Largest Changes in the Geomagnetic Field
+    Ron Shaar, Yves Gallet, Yoav Vaknin, Lilach Gonen, Mario A. S. Martin, Matthew J. Adams, Israel Finkelstein
+    Journal of Geophysical Research: Solid Earth
+
+    Geomagnetic Field Intensity During the First Millennium BCE From Royal Judean Storage Jars: Constraining the Duration of the Levantine Iron Age Anomaly
+    E. Hassul, R. Shaar, Y. Vaknin, A. Agnon, Y. Gallet, U. Leibner, R. Sabar, L. Freud, D. Sandhaus, O. Lipschits
+    Geochemistry, Geophysics, Geosystems
+
+    Geomagnetic paleointensity between 1300 and 1750 A.D. derived from a bread oven floor sequence in Lübeck, Germany
+    Elisabeth Schnepp, Philippe Lanos, Annick Chauvin
+    Geochemistry, Geophysics, Geosystems
+
+    Secular Variation of the Intensity of the Geomagnetic Field in Mexico During the First Millennium BCE
+    Gwenaël Hervé, Mireille Perrin, Luis M. Alva-Valdivia, Alejandro Rodríguez-Trejo, Arnaldo Hernández-Cardona, Mario Córdova Tello, Carolina Meza Rodriguez
+    Geochemistry, Geophysics, Geosystems
+
+    Synchronizing Geomagnetic Field Intensity Records in the Levant Between the 23rd and 15th Centuries BCE: Chronological and Methodological Implications
+    Ron Shaar, Shlomit Bechar, Israel Finkelstein, Yves Gallet, Mario A. S. Martin, Yael Ebert, Jonathan Keinan, Lilach Gonen
+    Geochemistry, Geophysics, Geosystems
+
+Download PDF
+back
+
+Back to Top
+AGU Journals Logo
+© 2024 American Geophysical Union
+
+    AGU Publications
+    AGU.org
+    AGU Membership
+
+    Author Resources
+    Contact AGU
+    Editor Searches
+    Librarian Resources
+    Media Kits
+
+    Publication Award
+    Publication Policies
+    Scientific Ethics
+    Submit a paper
+    Usage Permissions
+
+Additional links
+About Wiley Online Library
+
+    Privacy Policy
+    Terms of Use
+    About Cookies
+
+    Accessibility
+    Wiley Research DE&I Statement and Publishing Policies
+
+Help & Support
+
+    Contact Us
+    Training and Support
+    DMCA & Reporting Piracy
+
+Opportunities
+
+    Subscription Agents
+    Advertisers & Corporate Partners
+
+Connect with Wiley
+
+    The Wiley Network
+    Wiley Press Room
+
+Copyright © 1999-2024 John Wiley & Sons, Inc or related companies. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.
+
+Wiley Home Page

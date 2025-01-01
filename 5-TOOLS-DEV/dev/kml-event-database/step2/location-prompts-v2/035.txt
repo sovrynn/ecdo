@@ -1,0 +1,280 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: China Luotuodun Marine Transgression
+
+Basic location of event: China
+
+Specific data/information/context related to event: ArticlePDF Available
+Evidence for marine transgression between 7500–5400BC at the Luotuodun Site in Yixing, Jiangsu Province
+
+December 2009Journal of Geographical Sciences 19(6):671-680
+
+DOI:10.1007/s11442-009-0671-2
+Authors:
+Lan Li
+
+Sichuan University
+
+Cheng Zhu
+Liugen Lin
+Quanhong Zhao
+Show all 7 authors
+Download full-text PDF
+Read full-text
+Download citation
+Citations (21)
+References (47)
+Figures (10)
+Abstract and Figures
+Based on archaeological excavations, 217 samples were collected from the Luotuodun Site. Of them 63 samples from the section plane of the site layer were used for identification analysis of foraminifera, plant debris and seed fossils, and four samples were used for 14C dating and relevant analysis. Through many kinds of experiments, we have drawn some conclusions. Firstly, benthic foraminifera, such as Ammonia compressiuscula and Ammonia cff. sobrina, are found in the 10th layer, indicating that between 7500 and 5400 BC, i.e. before the emergence of the Majiabang Culture, Luotuodun Site and its nearby regions had ever experienced a marine transgression event. Secondly, we have found 450 plant fossils in this site, such as Polygonum sp., Scripus sp., Najas sp., Physalis sp., which indicated lacustrine or swamp environment.
+
+Description of the T5033 excavation stratum at the Luotuodun Site
+C dating and calibration
+
++5
+Figures - uploaded by Lan LiAuthor content
+Content may be subject to copyright.
+ResearchGate Logo
+
+Discover the world's research
+
+25+ million members
+160+ million publication pages
+2.3+ billion citations
+
+Join for free
+Content uploaded by Lan Li
+Author content
+Content may be subject to copyright.
+J. Geogr. Sci. (2009) 19: 671-680 
+DOI: 10.1007/s11442-009-0671-2
+ 
+© 2009      Science in China Press    Springer-Verlag 
+                    
+Received: 2009-02-14    Accepted: 2009-05-21 
+Foundation: National Science and Technology Project, No.2006BAK21B02; The Open Foundation of the State Key Laboratory of Loess and Quaternary Geology from the Institute of Earth Environment, CAS, 
+No.SKLLQG0817; The Training Foundation of National Basis of Talents, No.J0630535; Foundation of Doctoral Program, No.20050284011; Test Foundation of Modern Analyses Center of Nanjing University, 
+No.0209001309 
+Author: Li Lan (1983−), specialized in environment archaeology. E-mail: lilanmengyu@126.com 
+   www.scichina.com    www.springerlink.com 
+ 
+Evidence for marine transgression between 
+7500–5400BC at the Luotuodun Site in Yixing,   
+Jiangsu Province 
+LI Lan1, ZHU Cheng1, LIN Liugen2, ZHAO Quanhong3, SHI Gongyue4,  
+ZHENG Chaogui5, FAN Chao1 
+1. School of Geographic and Oceanographic Sciences, Nanjing University, Nanjing 210093, China;  
+2. Archaeological Institute of Nanjing Museum, Nanjing 210018, China;   
+3. State Key Laboratory of Marine Geology, Tongji University, Shanghai 200092, China;   
+4. Nanjing Institute of Geology and Paleontology, CAS, Nanjing 210093, China; 
+5. Nanjing Institute of Geography and Limnology, CAS, Nanjing 210008, China   
+ 
+Abstract:  Based on archaeological excavations, 217 samples were collected from the Luo-
+tuodun Site. Of them 63 samples from the section plane of the site layer were used for iden-
+tification analysis of foraminifera, plant debris and seed fossils, and four samples were used 
+for  14C dating and relevant analysis. Through many kinds of experiments, we have drawn 
+some conclusions. Firstly, benthic foraminifera, such as Ammonia compressiuscula and 
+Ammonia cff. sobrina, are found in the 10th layer, indicating that between 7500 and 5400 BC, 
+i.e. before the emergence of the Majiabang Culture, Luotuodun Site and its nearby regions 
+had ever experienced a marine transgression event. Secondly, we have found 450 plant fos-
+sils in this site, such as Polygonum sp., Scripus sp., Najas sp., Physalis sp., which indicated 
+lacustrine or swamp environment.   
+Keywords: Luotuodun Site; Foraminifera; transgression event; plant fossils 
+The relationship between man and environment is one of the most important research fields 
+of the past global changes. But without any written records, it is difficult to evaluate the in-
+fluences of environmental change on human societies in the prehistoric times. Cultural sites 
+are the perfect research materials for the interactions between environmental change and 
+human civilization. Therefore, environmental archaeology on the cultural sites during the 
+Neolithic Age is important to address this issue. 
+The area surrounding Taihu Lake is one of the important cradles of ancient culture in 
+China, as revealed by accumulated lines of archaeological data. In this region, the distribu-
+tion of Neolithic cultural sites is excessive and concentrated. Cultural layers, cultural inter-
+... Excavations revealed a large central settlement of the Majiabang Culture, as well as cultural relics of the Songze, Liangzhu and Guangfulin Culture in the Luotuodun site (Nanjing Museum Archaeological Research Institute, 2003;Nanjing Museum and Yixing Cultural Heritage Administration Committee, 2009). Previous studies have found that there is a 50-centimetre-thick peat layer with pottery pieces under the Majiabang cultural layer (Supplementary Figure S1) (Li et al., 2009;Li, 2011). ...
+... Polygonum is also an important taxon in marshland environments (Ge et al., 2019). Li et al. (2009) identified a total of 413 plant fossils in the peat layer at the Luotuodun site, which contains a large number of Polygonum seeds. Additionally, the high C/ N ratios of peat sediments, which have a fibric or hemic appearance and substantial plant-derived contributions, are significantly higher than ...
+... This is because Sr typically substitutes for Ca in carbonate minerals and is more geochemically reactive than Rb . Complementary evidence from profile T5033 within the Luotuodun site corroborates the human-marsh interaction: The peat layer beneath the cultural layer (9th layers) is interspersed with pottery pieces, which began at 7212 ± 55 cal yr BP (2σ) (Supplementary Figure S1) (Nanjing Museum Archaeological Research Institute, 2003;Li et al., 2009;Li, 2011). Therefore, we attribute the changes in Mz and Rb/Sr ratio to anthropogenic disturbance in the marshland, which led to the degradation of marshlands and the intensification of soil erosion. ...
+Asynchronous destruction of marsh and forest in Neolithic age: An example from Luotuodun site, Lower Yangtze
+Article
+Full-text available
+
+May 2023
+
+Zeyu Deng 
+
+Chunmei Ma Li Wu
+
+Cheng Zhu
+
+View
+... Currently, archaeobotany, zooarchaeology, the stable isotopic analysis of human bones, and the residue analysis of artefacts are used together as the main method for comprehensively understanding the food resource usage of ancient people. This combination can also (11) Luojiajiao; (12) Xiaodouli; (13) Guangfucun; (14) Majiabang; (15) Longnan; (16) Shuangqiao; (17) Nanhebang; (18) Dafen; (19) Zhuangqiaofen; (20) Maqiao; (21) Fuquanshan; (22) Songze; (23) Guangfulin; (24) Yaojiaquan; (25) Shaoqingshan; (26) Jiangli; (27) Chenghu; (28) Caoxieshan; (29) Chuodun; (30) Zhumucun; (31) Xujiawan; (32) Dongshancun; (33) Xudun; (34) Qingchengdun; (35) Yangjia; (36) Sanxingcun; (37) Shendun; (38) Xixi; (39) Luotuodun; (40) Xiawan; (41) Jiangjiashan; (42) Yaodun; (43) Longqiuzhuang; (44) Kaizhuang; (45) Jiangzhuang; (46) Qingdun; (47) Kuahuqiao; (48) Jingtoushan; (49) Tianluoshan; (50) Cihu; (51) Yushan; (52) Hemudu; (53) Xiawangdu; (54) Tashan. Red dots-sites of Majiabang Culture; dark blue dots-sites of Songze Culture; light blue dots-sites of Liangzhu Culture; dots with two colors indicate that the site has two corresponding cultural attributes. ...
+... The sea level was approximately −150 m, and most of the area was covered by terrestrial sediments with low organic matter content, on which weak meadow vegetation grew [26,27]. (11) Luojiajiao; (12) Xiaodouli; (13) Guangfucun; (14) Majiabang; (15) Longnan; (16) Shuangqiao; (17) Nanhebang; (18) Dafen; (19) Zhuangqiaofen; (20) Maqiao; (21) Fuquanshan; (22) Songze; (23) Guangfulin; (24) Yaojiaquan; (25) Shaoqingshan; (26) Jiangli; (27) Chenghu; (28) Caoxieshan; (29) Chuodun; (30) Zhumucun; (31) Xujiawan; (32) Dongshancun; (33) Xudun; (34) Qingchengdun; (35) Yangjia; (36) Sanxingcun; (37) Shendun; (38) Xixi; (39) Luotuodun; (40) Xiawan; (41) Jiangjiashan; (42) Yaodun; (43) Longqiuzhuang; (44) Kaizhuang; (45) Jiangzhuang; (46) Qingdun; (47) Kuahuqiao; (48) Jingtoushan; (49) Tianluoshan; (50) Cihu; (51) Yushan; (52) Hemudu; (53) Xiawangdu; (54) Tashan. Red dots-sites of Majiabang Culture; dark blue dots-sites of Songze Culture; light blue dots-sites of Liangzhu Culture; dots with two colors indicate that the site has two corresponding cultural attributes. ...
+... Therefore, it was only during the Liangzhu Cultural period that domestic animals became the main meat source for the Neolithic people. The NTAXA of edible wild plants changed slightly from the Majiabang Cultural period (15) to the Songze Cultural period (8) and the Liangzhu Cultural period (14). In contrast, the NTAXA of wild animals drastically declined from the Majiabang Culture (49) to the Songze Culture (9) and to the Liangzhu Cultural period (25), which was especially highlighted by the NTAXA of freshwater animals and land mammals ( Table 2). ...
+Subsistence, Environment, and Society in the Taihu Lake Area during the Neolithic Era from a Dietary Perspective
+Article
+Full-text available
+
+Aug 2022
+
+Yingying Wu 
+
+Can WangZhaoyang Zhang
+
+Ge Yong
+
+View
+... Ten composite 14 C dates (Table 2) were used to construct an age-depth model for core LTD-12 ( Supplementary Fig. S2). Four samples of core LTD-12 were directly dated by using the accelerator mass spectrometry (AMS) 14 C technique, while the other six dates were cited from a parallel profile T5033 (Li et al. 2009). Rubidium contents of these two Fig. 1 Rainfall patterns within the EASM domain during the Holocene synthesized by our study. ...
+... The dating samples of core LTD-12 were prepared in the laboratory of Guangzhou Institute of Geochemistry, Chinese Academy of Sciences, and 14 C was measured by the State Key Laboratory of Nuclear Physics and Technology, Peking University. The cited ages were dated using either conventional or AMS methods (CASS 1992;Li et al. 2009;Song et al., 1997). All 14 C dates were calibrated to calendar years according to the software CALIB version 7.0.4 using the IntCal13 curve (Reimer et al. 2013). ...
+... The ages of fossil pollen samples were calculated by linear interpolation or extrapolation. Although some of the dates were based on total organic carbon (TOC) which may suffer from old-carbon effects (Grimm et al. 2009), previous comparison with optically stimulated luminescence dating has confirmed their reliability (Li 2011). ...
+Variability of East Asian summer monsoon precipitation during the Holocene and possible forcing mechanisms
+Article
+Full-text available
+
+Jan 2019CLIM DYNAM
+
+Fuzhi Lu Chunmei Ma
+
+Cheng ZhuWenqing Zhang
+
+View
+... These ridges have formed at intervals during the mid-and late Holocene (Liu and Walker, 1989;Yan et al., 1989) as a result of major storm events (Xu, 1997) and have formed barriers against sea-level rise and marine inundation since the early mid-Holocene. The delta began forming about 7000 years ago as a result of postglacial sea-level readjustment (Hori and Saito, 2007;Hori et al., 2002;Song et al., 2013), before which marine conditions had penetrated well to the west of the area, including west of current Lake Tai at Luotuodun (Li et al., 2009). Since its formation the deltaic lowland has been prograding eastwards (Chen, 1996;Hori et al., 2001) and the delta east of the chenier ridges has only formed in recent millennia (Chen and Zong, 1998). ...
+Non-pollen palynomorph assemblages in mid- to late Holocene wetland deposits and their palaeoenvironments of deposition: Microfossil signatures in sediment sequences of the Yangtze Delta coastal lowlands, East China
+Article
+
+Mar 2024GEOMORPHOLOGY
+
+James B. InnesY. Zong
+
+View
+... Previous studies have attributed the saltwater sediments of this period to direct transgression due to high sea level (Liu et al., 2015;Shu et al., 2010;Xiong et al., 2020;Zong et al., 2007), which spread to areas not affected by seawater before 7500 cal yr BP, such as the Luotuodun site in Yixing, northwest of the Taihu Plain (Li et al., 2009). Recent global observations published by Lambeck et al. (2014), which show that the sea level during the Holocene was (Liu et al., 2015;Xiong et al., 2020;Zong, 2004) and global sea level change curves (Lambeck et al., 2014). ...
+Holocene coastal sedimentary evolution and neolithic human adaption in response to sea level changes in the Palaeo-Taihu valley, East China
+Article
+
+May 2023QUATERNARY SCI REV
+
+Zhongbiao FuJianwei ZengYansheng Gu
+
+Yuenan Li
+
+View
+... The climate was then warm and humid during the Liangzhu cultural period, while the climate in the Guangfulin cultural period was increasingly cool and dry, with a relatively harsh en-vironment, although the temperatures between the Warring States Period and the Han Dynasty were relatively high. Based on the archaeological excavations of the Luotuo-dun Site in Yixing, Jiangsu, Li et al. [136] combined the 14C dating data of samples from four related strata and made foraminifera, plant clast, and seed fossil identifications for 63 samples in the stratigraphic profile of the site, finding one genus and two species of benthic foraminifera in the 10th peat layer, namely, Ammonia compressiuscula and a sim-ilar type that is a close relative of Ammonia. Ammonia is euryhalic and is a common species in brackish water near the intertidal zones of modern coasts. ...
+Holocene Environmental Archaeology of the Yangtze River Valley in China: A Review
+Article
+Full-text available
+
+Mar 2021
+
+Li WuShuguang Lu
+
+Cheng ZhuLei Luo
+
+View
+... (1), benthic foraminifera (2-10) and animal skeletal fragments (11)(12)(13)(14)(15)(16). (b) Microfossils of planktonic foraminifera (1), benthic foraminifera (2-17), marine ostracoda (17)(18)(19), charophyta (20) and Ceratopteris thalictroides spore (21) 13.0 cal ka BP时海水已到达沿南孔位置 [26,29,30] . 同 时, 沿南孔滨海沼泽相沉积上部的河口湾沉积测年 (埋深19.90 ...
+Recognition of sea-level change during the Neolithic period in the Jiangsu Area, East China
+Article
+
+Jan 2016
+
+Cheng ZHU 
+
+Li WuLan LIHanSheng HE
+
+View
+Burnt Cervidae bones and sedimentary environments at Luotuodun, Jiangsu Province, China: New insights for Neolithic human behavior
+Article
+
+Oct 2024QUATERN INT
+
+Xiaohan Zhang 
+
+Bin ZhouJianqiu Huang
+
+Michael E. Meadows
+
+View
+Relative sea level rise, site distributions, and Neolithic settlement in the early to middle Holocene, Jiangsu Province, China
+Article
+Full-text available
+
+Sep 2017
+
+Lan LiCheng Zhu 
+
+Zhen Qin
+
+Tristram R. Kidder
+
+View
+Nonlinear Theoretical Rheological Model for Rocks: A Review and Some Problems
+Article
+
+Mar 2011
+
+C. Xia 
+
+Lei JinR. Guo
+
+View
+Recommended publications
+Discover more
+Article
+Transgression records between 7500-5400bc on the stratum of the Luotuodun site in Yixing, Jiangsu pr...
+November 2008
+
+L. LiC. ZhuL. Lin[...]H. Zhu
+
+Based on archaeological excavations, 217 samples were collected, of which 63 were used for identification analysis of foraminifera, plant debris and seed fossils. The authors used four samples for 14C dating and correlation analysis. Through experiments, some conclusions can be drawn as follows. First, Bentic foraminifera was found in the 10th layer, such as Ammonia compressiuscula and Ammonia ... [Show full abstract]
+Read more
+Article
+Full-text available
+Research on the disappearance causes of the Tenghualuo Site in Lianyungang, Jiangsu Province, China
+March 2008 · Chinese Science Bulletin
+
+Lan Li Cheng Zhu
+
+Fengqing Jiang[...]IiuGeng Lin
+
+With brilliant civilization during the transitional period from a original clan society to a state society in prehistory, the Neolithic Tenghualuo Site in Lianyungang was discovered by archaeological survey in 1989, which was titled as ‘one of the nation’s ten great archeological discoveries in 2000’. However, the transgression and the anthropogenic environment deterioration have ever been ... [Show full abstract]
+View full-text
+Experiment Findings
+Full-text available
+Persicaria hydropiperoides 沼蓼 @iN
+September 2023
+
+Alan KwokAda Tai
+
+Persicaria hydropiperoides | Swamp Smartweed | 沼蓼 | Renouée Faux-Poivre-d'Eau | Camarón
+View full-text
+Article
+Benthic foraminifera as bio-indicator of Mangrove ecosystem quality: A case study from Abu Ghoson ar...
+November 2020 · Regional Studies in Marine Science
+
+Wafaa El-Menhawey 
+
+Suzan Kholeif Rehab Elshanawany
+
+Mohamed I.A. Ibrahim
+
+The assemblages of benthic foraminifera were studied in surface sediment samples collected along two transects from the mangrove swamp and the intertidal flat zone in Abu Ghoson area, the Red Sea coast of Egypt, to validate and support their use as bio-indicators of ecosystem quality. Using Q-mode and R-mode cluster analyses, three biotopes following the bathymetric and environmental gradients ... [Show full abstract]
+Read more
+Last Updated: 04 Dec 2024
+ResearchGate Logo
+or
+Discover by subject area
+
+Recruit researchers
+Join for free
+Login
+
+App Store
+Get it on Google Play
+Company
+About us
+News
+Careers
+Support
+Help Center
+Business solutions
+Advertising
+Recruiting
+© 2008-2025 ResearchGate GmbH. All rights reserved.
+
+TermsPrivacyCopyrightImprintConsent preferences

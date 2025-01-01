@@ -1,0 +1,1159 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Great Flood (China) - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy",
+"wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"182f7db4-33d1-41e1-af00-11c6518fa2aa","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Great_Flood_(China)","wgTitle":"Great Flood (China)","wgCurRevisionId":1261998839,"wgRevisionId":1261998839,"wgArticleId":31362714,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles containing Chinese-language text","20th century BC","2nd-millennium BC natural events","Ancient China","Chinese mythology","Chinese poetry allusions","Flood myths","Floods in China","Yellow River management"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Great_Flood_(China)","wgRelevantArticleId":31362714,
+"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgRelatedArticlesCompat":[],"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q993582","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,
+"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin",
+"mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.44.0-wmf.8">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Great Flood (China) - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//en.m.wikipedia.org/wiki/Great_Flood_(China)">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Great_Flood_(China)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Great_Flood_(China)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Great_Flood_China rootpage-Great_Flood_China skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" class=""><span>Donate</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Great+Flood+%28China%29" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Great+Flood+%28China%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en"><span>Donate</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Great+Flood+%28China%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Great+Flood+%28China%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Overview"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Overview">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Overview</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Overview-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Narrative"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Narrative">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Narrative</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Narrative-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Narrative subsection</span>
+			</button>
+		
+		<ul id="toc-Narrative-sublist" class="vector-toc-list">
+			<li id="toc-Flood_begins"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Flood_begins">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1</span>
+					<span>Flood begins</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Flood_begins-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Yao_appoints_Gun"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Yao_appoints_Gun">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.2</span>
+					<span>Yao appoints Gun</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Yao_appoints_Gun-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Gun&#039;s_efforts"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Gun&#039;s_efforts">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.3</span>
+					<span>Gun's efforts</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Gun&#039;s_efforts-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Shun_in_power"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Shun_in_power">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.4</span>
+					<span>Shun in power</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Shun_in_power-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Acts_of_Shun"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Acts_of_Shun">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.5</span>
+					<span>Acts of Shun</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Acts_of_Shun-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Gun&#039;s_demise"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Gun&#039;s_demise">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.6</span>
+					<span>Gun's demise</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Gun&#039;s_demise-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Gun&#039;s_son_Yu"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Gun&#039;s_son_Yu">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.7</span>
+					<span>Gun's son Yu</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Gun&#039;s_son_Yu-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Great_Yu_controls_the_flood"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Great_Yu_controls_the_flood">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.8</span>
+					<span>Great Yu controls the flood</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Great_Yu_controls_the_flood-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Yu&#039;s_helpers"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Yu&#039;s_helpers">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.9</span>
+					<span>Yu's helpers</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Yu&#039;s_helpers-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Aftermath"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Aftermath">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.10</span>
+					<span>Aftermath</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Aftermath-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Acquisition_of_agricultural_civilization"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Acquisition_of_agricultural_civilization">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Acquisition of agricultural civilization</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Acquisition_of_agricultural_civilization-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Historicity"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Historicity">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Historicity</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Historicity-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Historicity subsection</span>
+			</button>
+		
+		<ul id="toc-Historicity-sublist" class="vector-toc-list">
+			<li id="toc-Dating"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Dating">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">4.1</span>
+					<span>Dating</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Dating-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>See also</span>
+			</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Notes"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Notes">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>Notes</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Notes-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Sources"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Sources">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>Sources</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Sources-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Further_reading"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Further_reading">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>Further reading</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Further_reading-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Great Flood (China)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 11 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-11" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">11 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Inundaci%C3%B3_de_Gun-Yu" title="Inundació de Gun-Yu – Catalan" lang="ca" hreflang="ca" data-title="Inundació de Gun-Yu" data-language-autonym="Català" data-language-local-name="Catalan" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Inundaci%C3%B3n_de_Gun-Yu" title="Inundación de Gun-Yu – Spanish" lang="es" hreflang="es" data-title="Inundación de Gun-Yu" data-language-autonym="Español" data-language-local-name="Spanish" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Crue_des_hautes_eaux" title="Crue des hautes eaux – French" lang="fr" hreflang="fr" data-title="Crue des hautes eaux" data-language-autonym="Français" data-language-local-name="French" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EA%B3%A4%EC%9A%B0%EC%B9%98%EC%88%98" title="곤우치수 – Korean" lang="ko" hreflang="ko" data-title="곤우치수" data-language-autonym="한국어" data-language-local-name="Korean" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Banjir_besar_Gun-Yu" title="Banjir besar Gun-Yu – Indonesian" lang="id" hreflang="id" data-title="Banjir besar Gun-Yu" data-language-autonym="Bahasa Indonesia" data-language-local-name="Indonesian" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E9%BB%84%E6%B2%B3%E3%81%AE%E5%A4%A7%E6%B4%AA%E6%B0%B4" title="黄河の大洪水 – Japanese" lang="ja" hreflang="ja" data-title="黄河の大洪水" data-language-autonym="日本語" data-language-local-name="Japanese" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%B2%D0%BE%D0%B4%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%93%D1%83%D0%BD-%D0%AE%D0%B9" title="Великое наводнение Гун-Юй – Russian" lang="ru" hreflang="ru" data-title="Великое наводнение Гун-Юй" data-language-autonym="Русский" data-language-local-name="Russian" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Gun-Yus_%C3%B6versv%C3%A4mningsmyt" title="Gun-Yus översvämningsmyt – Swedish" lang="sv" hreflang="sv" data-title="Gun-Yus översvämningsmyt" data-language-autonym="Svenska" data-language-local-name="Swedish" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%AE%E0%B0%B9%E0%B0%BE%E0%B0%B5%E0%B0%B0%E0%B0%A6_(%E0%B0%9A%E0%B1%88%E0%B0%A8%E0%B0%BE)" title="మహావరద (చైనా) – Telugu" lang="te" hreflang="te" data-title="మహావరద (చైనా)" data-language-autonym="తెలుగు" data-language-local-name="Telugu" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%DA%86%DB%8C%D9%86_%DA%A9%D8%A7_%D8%B3%DB%8C%D9%84%D8%A7%D8%A8_%D8%B9%D8%B8%DB%8C%D9%85" title="چین کا سیلاب عظیم – Urdu" lang="ur" hreflang="ur" data-title="چین کا سیلاب عظیم" data-language-autonym="اردو" data-language-local-name="Urdu" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E9%B2%A7%E7%A6%B9%E6%B2%BB%E6%B0%B4" title="鲧禹治水 – Chinese" lang="zh" hreflang="zh" data-title="鲧禹治水" data-language-autonym="中文" data-language-local-name="Chinese" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q993582#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Great_Flood_(China)" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Great_Flood_(China)" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Great_Flood_(China)"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Great_Flood_(China)&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Great_Flood_(China)"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Great_Flood_(China)&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Great_Flood_(China)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Great_Flood_(China)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Great_Flood_(China)&amp;oldid=1261998839" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Great_Flood_(China)&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Great_Flood_%28China%29&amp;id=1261998839&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGreat_Flood_%28China%29"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGreat_Flood_%28China%29"><span>Download QR code</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Great_Flood_%28China%29&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Great_Flood_(China)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q993582" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Myth described in Chinese mythology</div>
+<style data-mw-deduplicate="TemplateStyles:r1236090951">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</style><div role="note" class="hatnote navigation-not-searchable">This article is about Gun-Yu mythology. For the umbrella term of Chinese deluge mythology, see <a href="/wiki/Flood_Mythology_of_China" title="Flood Mythology of China">Flood Mythology of China</a>.</div>
+<p>The <b>Great Flood of Gun-Yu</b>, also known as the <b>Gun-Yu myth</b>,<sup id="cite_ref-Yang_2005_74_1-0" class="reference"><a href="#cite_note-Yang_2005_74-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> was a major flood in <a href="/wiki/Ancient_China" class="mw-redirect" title="Ancient China">ancient China</a> that allegedly continued for at least two generations, which resulted in great population displacements among other disasters, such as storms and famine.  People left their homes to live on the high hills and mountains, or nest on the trees.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>  According to mythological and historical sources, it is traditionally dated to the third millennium BCE, or about 2300–2200 BCE, during the reign of <a href="/wiki/Emperor_Yao" title="Emperor Yao">Emperor Yao</a>.
+</p><p>However, archaeological evidence of an <a href="/wiki/Jishi_Gorge_outburst_flood" title="Jishi Gorge outburst flood">outburst flood at Jishi Gorge</a> on the Yellow River, comparable to similar <a href="/wiki/Outburst_flood#Examples" title="Outburst flood">severe events</a> in the world in the past 10,000 years, has been dated to about 1920 BCE (a few centuries later than the traditional beginning of the <a href="/wiki/Xia_dynasty" title="Xia dynasty">Xia dynasty</a> which came after Emperors <a href="/wiki/Emperor_Shun" title="Emperor Shun">Shun</a> and Yao), and is suggested to have been the basis for the myth.<sup id="cite_ref-:0_3-0" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Treated either historically or mythologically, the story of the Great Flood and the heroic attempts of the various human characters to control it and to abate the disaster is a narrative fundamental to <a href="/wiki/Chinese_culture" title="Chinese culture">Chinese culture</a>. Among other things, the Great Flood of China is key to understanding the history of the founding of both the <a href="/wiki/Xia_dynasty" title="Xia dynasty">Xia dynasty</a> and the <a href="/wiki/Zhou_dynasty" title="Zhou dynasty">Zhou dynasty</a>, it is also one of the main flood motifs in <a href="/wiki/Chinese_mythology" title="Chinese mythology">Chinese mythology</a>, and it is a major source of <a href="/wiki/Allusion" title="Allusion">allusion</a> in <a href="/wiki/Classical_Chinese_poetry" title="Classical Chinese poetry">Classical Chinese poetry</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="Overview">Overview</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=1" title="Edit section: Overview"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Nine_Provinces_of_China.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nine_Provinces_of_China.png/400px-Nine_Provinces_of_China.png" decoding="async" width="400" height="283" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nine_Provinces_of_China.png/600px-Nine_Provinces_of_China.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nine_Provinces_of_China.png/800px-Nine_Provinces_of_China.png 2x" data-file-width="1275" data-file-height="902" /></a><figcaption>Map showing the legendary flood and the Nine Provinces of ancient China.</figcaption></figure>
+<p>The story of the Great Flood plays a dramatic role in <a href="/wiki/Chinese_mythology" title="Chinese mythology">Chinese mythology</a>, and its various versions present a number of examples of the <a href="/wiki/Flood_myth" title="Flood myth">flood myth</a> motif around the world. Flood narratives in Chinese mythology share certain common features, despite being somewhat lacking in internal consistency as well as incorporating various magical transformations and divine or semi-divine interventions like <a href="/wiki/N%C3%BCwa" title="Nüwa">Nüwa</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> For example, the flood usually results from natural causes rather than "universal <a href="/wiki/Genesis_flood_narrative" title="Genesis flood narrative">punishment for human sin</a>".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> Another distinct motif of the myth of the Great Flood of China is an emphasis on the heroic and praiseworthy efforts to mitigate the disaster;<sup id="cite_ref-Yang_2005_117_6-0" class="reference"><a href="#cite_note-Yang_2005_117-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> flooding is alleviated by constructing <a href="/wiki/Levee" title="Levee">dikes</a> and <a href="/wiki/Dam" title="Dam">dams</a> (such as the efforts of <a href="/wiki/Gun_(Chinese_mythology)" title="Gun (Chinese mythology)">Gun</a>), digging <a href="/wiki/Canal" title="Canal">canals</a> (as devised by <a href="/wiki/Yu_the_Great" title="Yu the Great">Yu the Great</a>), widening or deepening existing channels, and teaching these skills to others.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Another key motif is the development of civilization and bettering the human situation despite the disaster of the deluge.<sup id="cite_ref-Yang_2005_117_6-1" class="reference"><a href="#cite_note-Yang_2005_117-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> During the course of fighting, surviving, and eventually getting the inundation problems under control, much progress was also made in terms of land management, beast control, and agricultural techniques. These and other developments are integral to the narrative, and exemplify a wider approach to human health and societal well being than <a href="/wiki/Emergency_management" title="Emergency management">emergency management</a> of the flood and its immediate effects. According to legend, a comprehensive approach to societal development resulted not only in wide-scale cooperation and large-scale efforts to control the flood but also led to the establishment of the first <a href="/wiki/Dynasties_in_Chinese_history" class="mw-redirect" title="Dynasties in Chinese history">dynastic state of China</a>, the <a href="/wiki/Xia_dynasty" title="Xia dynasty">Xia dynasty</a> (c.2070–c.1600 BCE).
+</p><p>A study on the ~1920 BCE flood published in 2016 suggested that the concurrence of these major natural and sociopolitical events known through the geological, historiographical, and archaeological records may not simply be coincidence but rather an illustration of a profound and complicated cultural response to an extreme natural disaster that connected many groups living along the Yellow River.<sup id="cite_ref-:0_3-1" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Narrative">Narrative</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=2" title="Edit section: Narrative"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="Flood_begins">Flood begins</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=3" title="Edit section: Flood begins"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:EmperorYao.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/EmperorYao.jpg/220px-EmperorYao.jpg" decoding="async" width="220" height="298" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/EmperorYao.jpg/330px-EmperorYao.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/EmperorYao.jpg/440px-EmperorYao.jpg 2x" data-file-width="572" data-file-height="775" /></a><figcaption>Emperor Yao. Inscription reads: "The Emperor Yao, Fang Xun, was humane like Heaven itself, and wise like a divine being; to be near him was like approaching the sun, to look at him was like gazing into clouds".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup></figcaption></figure>
+<p>It was during the reign of <a href="/wiki/Emperor_Yao" title="Emperor Yao">Emperor Yao</a> that the Great Flood began, a flood so vast that no part of Yao's territory was spared, and both the <a href="/wiki/Yellow_River" title="Yellow River">Yellow River</a> and the <a href="/wiki/Yangtze" title="Yangtze">Yangtze</a> valleys flooded.<sup id="cite_ref-Wu_1982_69_9-0" class="reference"><a href="#cite_note-Wu_1982_69-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> The alleged nature of the flood is shown in the following quote:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1244412712">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 32px}.mw-parser-output .templatequotecite{line-height:1.5em;text-align:left;margin-top:0}@media(min-width:500px){.mw-parser-output .templatequotecite{padding-left:1.6em}}</style><blockquote class="templatequote"><p>Like endless boiling water, the flood is pouring forth destruction. Boundless and overwhelming, it overtops hills and mountains. Rising and ever rising, it threatens the very heavens. How the people must be groaning and suffering!</p><div class="templatequotecite">—&#8202;<cite>Emperor Yao, as quoted in the <i>Book of History</i>, describing the flood<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup></cite></div></blockquote>
+<p>According to both historical and mythological sources, the flooding continued relentlessly. Yao sought to find someone who could control the flood, and turned for advice to his special adviser, or advisers, the <a href="/wiki/Four_Mountains" title="Four Mountains">Four Mountains</a> (<span title="Chinese-language text"><span lang="zh">四嶽</span></span> or <span title="Chinese-language text"><span lang="zh">四岳</span></span>, <i>Sìyuè</i>); who, after deliberation, gave Emperor Yao some advice which he did not especially welcome.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Yao_appoints_Gun">Yao appoints Gun</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=4" title="Edit section: Yao appoints Gun"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1236090951"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Gun_(Chinese_mythology)" title="Gun (Chinese mythology)">Gun (Chinese mythology)</a></div>
+<p>Upon the insistence of Four Mountains, and over Yao's initial hesitation, the person Yao finally consented to appoint in charge of controlling the flood was <a href="/wiki/Gun_(Chinese_mythology)" title="Gun (Chinese mythology)">Gun</a>, the Prince of Chong, who was a distant relative of Yao's through common descent from the Yellow Emperor.<sup id="cite_ref-Wu_1982_69_9-1" class="reference"><a href="#cite_note-Wu_1982_69-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Gun's_efforts"><span id="Gun.27s_efforts"></span>Gun's efforts</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=5" title="Edit section: Gun&#039;s efforts"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>According to the main mythological tradition, Gun's plan of flood control was through the use of a miraculously continuously self-expanding soil, <a href="/wiki/Xirang" title="Xirang">Xirang</a>.<sup id="cite_ref-Yang_2005_74_1-1" class="reference"><a href="#cite_note-Yang_2005_74-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> Gun chose to obtain the Xirang by stealing it from the <a href="/wiki/Supreme_Divinity" class="mw-redirect" title="Supreme Divinity">Supreme Divinity</a>, which he did; however, the Supreme Divinity became quite angered at this importunity.<sup id="cite_ref-Yang_2005_74_1-2" class="reference"><a href="#cite_note-Yang_2005_74-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> Year in and year out, many times, and to great extents; Gun applied the magical Xirang earth in attempt to block and barricade the flood waters with dams, dikes, and embankments (which he built with the special powers of the magic soil). However, Gun was never able to abate the problems of the Great Flood. Whether his failure to abate the flood was due to divine wrath or to engineering defects remains an unanswered question – although one pointed out over two thousand years ago by Qu Yuan, in his "<a href="/wiki/Heavenly_Questions" title="Heavenly Questions">Heavenly Questions</a>".
+<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Shun_in_power">Shun in power</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=6" title="Edit section: Shun in power"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1236090951"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Emperor_Shun" title="Emperor Shun">Emperor Shun</a></div>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a href="/wiki/File:%E7%A6%B9%E8%B4%A1%E4%B9%9D%E5%B7%9E%E5%9B%BE.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%E7%A6%B9%E8%B4%A1%E4%B9%9D%E5%B7%9E%E5%9B%BE.jpg/350px-%E7%A6%B9%E8%B4%A1%E4%B9%9D%E5%B7%9E%E5%9B%BE.jpg" decoding="async" width="350" height="254" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/0/0d/%E7%A6%B9%E8%B4%A1%E4%B9%9D%E5%B7%9E%E5%9B%BE.jpg 1.5x" data-file-width="500" data-file-height="363" /></a><figcaption>A depiction of the system of the <i>zhou</i>, or "islands" (now reinterpreted as "provinces"), a system which Shun is credited with developing as a tool to allow political administration of a territory with ongoing flooding making normal communications impossible, although the number and locations of <i>zhou</i> have varied over time</figcaption></figure>
+<p>Even after nine years of the efforts of Gun, the flood continued to rage on, leading to the increase of all sorts of social disorders. The administration of the empire was becoming increasingly difficult; so,  accordingly, at this point, Yao offered to resign the throne in favor of his special adviser(s), Four Mountains: however, Four Mountains declined, and instead recommended <a href="/wiki/Emperor_Shun" title="Emperor Shun">Shun</a> – another distant relative to Yao through the Yellow Emperor; but one who was living in obscurity, despite his royal lineage.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Yao proceeded to put Shun through a series of tests, beginning with marrying his two daughters to Shun and ending by sending him down from the mountains to the plains below where Shun had to face fierce winds, thunder, and rain.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup> After passing all of Yao's tests, not the least of which being establishing and continuing a state of marital harmony together with <a href="/wiki/Xiang_River_goddesses" class="mw-redirect" title="Xiang River goddesses">Yao's two daughters</a>, Shun took on administrative responsibilities as co-emperor.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup> Among these responsibilities, Shun had to deal with the Great Flood and its associated disruptions, especially in light of the fact that Yao's reluctant decision to appoint Gun to handle the problem had failed to fix the situation, despite having been working on it for the previous nine years. Shun took steps over the next four years to reorganize the empire, in such a way as to solve immediate problems and to put the imperial authority in a better position to deal with the flood and its effects.
+</p><p>Although Shun's organization (or reorganization) of the flooded and increasingly flooded lands into <i>zhou</i> or islands (the political ancestors of the modern <i>zhou</i> or provinces, both of which may be written with the same character, <span lang="zh"><a href="https://en.wiktionary.org/wiki/%E5%B7%9E#Chinese" class="extiw" title="wikt:州">州</a></span>) alleviated some of the administrative difficulties, the fact remained that despite the additional four years of effort, Gun still had not only failed to achieve any success towards solving the main problem of the ongoing flooding, but the water even kept on rising. Gun insisted on staying the course with the dikes, insisting that despite the overwhelming failure so far that the people work even harder and to continue to build more and higher.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup> Not only that, but Gun questioned the legitimacy of Shun as a ruler due to his modest background.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Acts_of_Shun">Acts of Shun</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=7" title="Edit section: Acts of Shun"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Emperor_Shun_performs_divination_in_the_palace.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Emperor_Shun_performs_divination_in_the_palace.jpg/220px-Emperor_Shun_performs_divination_in_the_palace.jpg" decoding="async" width="220" height="227" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Emperor_Shun_performs_divination_in_the_palace.jpg/330px-Emperor_Shun_performs_divination_in_the_palace.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Emperor_Shun_performs_divination_in_the_palace.jpg/440px-Emperor_Shun_performs_divination_in_the_palace.jpg 2x" data-file-width="533" data-file-height="550" /></a><figcaption>Emperor Shun performs divination in the palace, with Yu present</figcaption></figure>
+<p>After the solemnities of his final accession to power, the first thing Shun did was to reform the calendar.<sup id="cite_ref-Wu_1982_77_17-0" class="reference"><a href="#cite_note-Wu_1982_77-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup> Next, for the period of a month, Shun convoked a series of meetings, ceremonies, and interviews at the imperial capital with the Four Mountains and the heads, lords, or princes of the realm's houses, clans, <a href="/wiki/Chinese_surname" title="Chinese surname">surnames</a>, tribes, and nations.<sup id="cite_ref-Wu_1982_77_17-1" class="reference"><a href="#cite_note-Wu_1982_77-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Shun then went to <a href="/wiki/Mount_Tai" title="Mount Tai">Mount Tai</a> as the beginning of his tour of inspection of the flood-ravaged realm.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup> Here, at Taishan, he met with the princes of the eastern regions; and, after certain religious ceremonies, he standardized weights, measures, and ritual.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup> Then he went on to do the same to the south, the west, and the north, meeting at the sacred mountains of each region with the princes and leaders of each region, and standardizing their rules, measures, and practices.<sup id="cite_ref-Wu_1982_82_20-0" class="reference"><a href="#cite_note-Wu_1982_82-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup> All of these acts can be seen as preparatory to the fighting of the flood, as this was an effort requiring extraordinary levels of synchronized and coordinated activity over a relatively large territory: the timing was synchronized through the calendar reform and the engineering measures were made possible by standardizing the weights and measures.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Towards the end of the year, Shun returned to the imperial seat, and after a sacrificial offering of a bullock at his ancestral temple, he then put into action the plan that he had developed during his working tour of inspection.<sup id="cite_ref-Wu_1982_82_20-1" class="reference"><a href="#cite_note-Wu_1982_82-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup> One of these was to divide the empire into twelve administrative units (<i>zhou</i>), each one administered from the highest mountain within that area.<sup id="cite_ref-Wu_1982_82_20-2" class="reference"><a href="#cite_note-Wu_1982_82-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup> This was doubtlessly a useful expedient in the face of the rising and unpredictable flood waters. Another of Shun's acts was administrative reform.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Gun's_demise"><span id="Gun.27s_demise"></span>Gun's demise</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=8" title="Edit section: Gun&#039;s demise"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>With Gun's overwhelming failure to control the flood waters and his questioning of the legitimacy of Shun's rule, he became labeled as an intransigent. Accordingly, as part of his administrative reforms, Shun had Gun banished to <a href="/wiki/Feather_Mountain" title="Feather Mountain">Feather Mountain</a>. Accounts vary considerably about the details of Gun's demise; but, in any case, the sources seem to agree that he met the end of his human existence at Feather Mountain (although again accounts vary as to whether this end was death, through execution by <a href="/wiki/Zhurong" title="Zhurong">Zhurong</a>, or through a metamorphic transformation into — depending on account — a yellow bear, a three-footed tortoise, or a yellow dragon.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup>)
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Gun's_son_Yu"><span id="Gun.27s_son_Yu"></span>Gun's son Yu</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=9" title="Edit section: Gun&#039;s son Yu"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1236090951"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Yu_the_Great" title="Yu the Great">Yu the Great</a></div>
+<p>Somehow, Gun had a son, Yu. Various myths suggest that this occurred under circumstances that would not meet the normal criteria for historical fact. Yu would continue the struggle to contain the flood waters.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Great_Yu_controls_the_flood">Great Yu controls the flood</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=10" title="Edit section: Great Yu controls the flood"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Wuhan_University_-_Water_Resources_Lab_-_Yu_the_Great_-_DSCF4288.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wuhan_University_-_Water_Resources_Lab_-_Yu_the_Great_-_DSCF4288.JPG/220px-Wuhan_University_-_Water_Resources_Lab_-_Yu_the_Great_-_DSCF4288.JPG" decoding="async" width="220" height="165" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wuhan_University_-_Water_Resources_Lab_-_Yu_the_Great_-_DSCF4288.JPG/330px-Wuhan_University_-_Water_Resources_Lab_-_Yu_the_Great_-_DSCF4288.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wuhan_University_-_Water_Resources_Lab_-_Yu_the_Great_-_DSCF4288.JPG/440px-Wuhan_University_-_Water_Resources_Lab_-_Yu_the_Great_-_DSCF4288.JPG 2x" data-file-width="2048" data-file-height="1536" /></a><figcaption>Yu the Great and his human and <a href="/wiki/Chelonia_(order)" class="mw-redirect" title="Chelonia (order)">chelonian</a> associates, fighting the flood. Relief outside the Water Resources and Hydro Power Lab, <a href="/wiki/Wuhan_University" title="Wuhan University">Wuhan University</a> (2005)</figcaption></figure>
+<p>Yu tried a different approach to the project of flood control; which in the end having achieved success,  earned Yu renown throughout Chinese history, in which the Gun-Yu Great Flood is commonly referred to as "Great Yu Controls the Waters" (<a href="/wiki/Chinese_language" title="Chinese language">Chinese</a>&#58; <span lang="zh">大禹治水</span>; <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>&#58; <i><span lang="zh-Latn">Dà Yǔ Zhìshuǐ</span></i>). Yu's approach seems to have involved an approach more oriented toward drainage and less towards containment with dams and dikes. According to the more fancily embellished versions of the story it was also necessary for him to subdue various supernatural beings as well as recruit the assistance of others, for instance a channel-digging dragon and a giant mud-hauling tortoise (or turtle).
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1157697682">.mw-parser-output .verse_translation .translated{padding-left:2em!important}@media only screen and (max-width:43.75em){.mw-parser-output .verse_translation.wrap_when_small td{display:block;padding-left:0.5em}.mw-parser-output .verse_translation.wrap_when_small .translated{padding-left:0.5em!important}}</style>
+<table role="presentation" class="verse_translation" style="margin-left:1em !important">
+
+<tbody><tr style="vertical-align:top">
+<td><div style="font-style:roman;text-align:left" lang="zh" class="poem">
+<p>洪水滔天，浩浩懷山襄陵，下民昏墊。予乘四載，隨山刊木，暨益奏庶鮮食。予決九川，距四海，濬畎澮距川。
+</p>
+</div>
+</td>
+<td class="translated"><div style="font-style:roman;text-align:left" lang="" class="poem">
+<p>The inundating waters seemed to assail the heavens, and in their extent embraced the hills and overtopped the great mounds, so that the people were bewildered and overwhelmed. I opened passages for the streams throughout the <a href="/wiki/Nine_Provinces_(China)" class="mw-redirect" title="Nine Provinces (China)">nine provinces</a> and conducted them to the seas. I deepened the channels and conducted them to the streams.
+</p>
+</div>
+</td></tr>
+<tr style="vertical-align:top;font-size:90%">
+<td style="padding-left:1.6em;text-align:left">—Yu the Great, quoted according to tradition, describing his work in regard to the flood: <i>Book of Documents</i>, ch. "<a href="/w/index.php?title=Yi_and_Ji&amp;action=edit&amp;redlink=1" class="new" title="Yi and Ji (page does not exist)">Yi and Ji</a>" <span title="Chinese-language text"><span lang="zh">益稷</span></span>
+</td>
+<td style="padding-left:3.6em;text-align:left">—<a href="#CITEREFCotterellCotterell1975">Cotterell &amp; Cotterell 1975</a>, p.&#160;24.
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading3"><h3 id="Yu's_helpers"><span id="Yu.27s_helpers"></span>Yu's helpers</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=11" title="Edit section: Yu&#039;s helpers"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Various myths, or versions of myths, specify that Yu received help from various sources which helped him to succeed in controlling the Great Flood. <a href="/wiki/Hebo" title="Hebo">Hebo</a>, the god of the Yellow River is supposed to have provided Yu with a map of the river and its surroundings which helped him make his plans.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span class="cite-bracket">&#91;</span>23<span class="cite-bracket">&#93;</span></a></sup> Alternatively, the Yellow River map is said to have been provided to Yu by <a href="/wiki/Houtu" title="Houtu">Houtu</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span class="cite-bracket">&#91;</span>24<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Aftermath">Aftermath</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=12" title="Edit section: Aftermath"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>After his work in controlling the flood waters, Yu became sole respected<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span class="cite-bracket">&#91;</span>25<span class="cite-bracket">&#93;</span></a></sup> emperor and went on to found the <a href="/wiki/Xia_dynasty" title="Xia dynasty">Xia dynasty</a>, when his son <a href="/wiki/Qi_of_Xia" title="Qi of Xia">Qi of Xia</a> succeeded him, thus establishing the beginning of a tradition of dynastic succession through primogeniture. But, before this, after ending his work against the flooding, Yu was said to have assembled all of the heroes/gods involved in fighting the flood together on Mount Guiji (in modern <a href="/wiki/Zhejiang" title="Zhejiang">Zhejiang</a>) at a certain time; but, when <a href="/wiki/Fangfeng" title="Fangfeng">Fangfeng</a> arrived late Yu had him executed — later it turned out that Fangfeng was late because he had stopped to fight a local flood which he encountered on his way.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Acquisition_of_agricultural_civilization">Acquisition of agricultural civilization</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=13" title="Edit section: Acquisition of agricultural civilization"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1236090951"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Agriculture_(Chinese_mythology)" class="mw-redirect" title="Agriculture (Chinese mythology)">Agriculture (Chinese mythology)</a></div>
+<p>Besides the motif of controlling the flood waters another motif is particularly characteristic of the Chinese Gun Yu flood myth, namely the acquisition of the agricultural civilization.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span class="cite-bracket">&#91;</span>26<span class="cite-bracket">&#93;</span></a></sup> In some versions, this includes the appointment of Ji Qi (later called <a href="/wiki/Houji" class="mw-redirect" title="Houji">Houji</a>) as Minister of Agriculture. Other versions go into the details of how a tiny remnant of people consisting of only two or a few individuals managed to survive the flood and the re-population/civilization process following the worldwide disaster, and/or how grain seeds or fire were obtained.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span class="cite-bracket">&#91;</span>27<span class="cite-bracket">&#93;</span></a></sup> Another figure in this regard is <a href="/wiki/Yi_(husbandman)" class="mw-redirect" title="Yi (husbandman)">Yi</a>, also known as Boyi or Bo Yi.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Historicity">Historicity</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=14" title="Edit section: Historicity"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The narrative of the Great Flood of prehistoric China may provide some insight into social development during this era. David Hawkes comments on the way that the various versions of the Gun-Yu story seem to contrast the relative success or failure, or at least the differences, between Gun, the father, and his son, Yu. Hawkes proposes a symbolic interpretation of a societal transition. In this case, Gun represents a society at an earlier technological stage, which engages in small scale agriculture which involves raising areas of arable land sufficiently above the level of the marshes existing then in the flood plains of the Yellow River system, including tributaries: from this perspective the "magically-expanding" <i><a href="/wiki/Xirang" title="Xirang">xirang</a></i> soil can be understood as representing a type of floating garden, made up of soil, brushwood, and similar materials. Yu and his work in controlling the flood would symbolize a later type of society, a one which possessed of technological innovations allowing a much larger scale approach to transforming wetlands to arable fields. Hawkes explains the miraculous transformations of the landscape which appear in the mythological descriptions as symbolically representative of a gridded drainage system engineered to permanently eliminate entire marsh areas, in favor of agriculturally exploitable fields.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span class="cite-bracket">&#91;</span>28<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Recent archaeological and geological discoveries may have some bearing on the story of the Great Flood.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span class="cite-bracket">&#91;</span>29<span class="cite-bracket">&#93;</span></a></sup> Archaeological evidence of a large <a href="/wiki/Jishi_Gorge_outburst_flood" title="Jishi Gorge outburst flood">outburst flood at Jishi Gorge</a> on the Yellow River has been dated to about 1920 BCE, and is suggested to have been the basis for the later myth. A colossal landslide created a natural dam across the river which was breached about a year later. The resulting flood could plausibly have travelled 2,000&#160;km (1,200&#160;mi) down the river and the resulting instability of river channels might have lasted up to twenty years. About this time, the Neolithic gave way to the Bronze Age in the Yellow River valley. The authors suggest that this coincided with the beginning of the Xia, several centuries later than traditionally thought, and that the <a href="/wiki/Erlitou_culture" title="Erlitou culture">Erlitou culture</a> is an archaeological manifestation of the Xia dynasty.<sup id="cite_ref-:0_3-2" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Dating">Dating</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=15" title="Edit section: Dating"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Xihe.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Xihe.jpg/220px-Xihe.jpg" decoding="async" width="220" height="326" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Xihe.jpg/330px-Xihe.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Xihe.jpg/440px-Xihe.jpg 2x" data-file-width="1423" data-file-height="2106" /></a><figcaption>The Xihe brothers receive orders from emperor Yao to organise the calendar</figcaption></figure>
+<p>The historian K. C. Wu believes that the "Canon of Yao" ("<i>yaodian</i>") in the <i><a href="/wiki/Book_of_History" class="mw-redirect" title="Book of History">Book of History</a></i> (<i>Shujing</i>) has historical value, despite being one of the "second batch" or "new" texts comprising this collection of documents, which despite the problematic nature of their textual transmission, and that they appear to be reconstructed or heavily edited and interpolated, as compared with the "first" or "old" batch, which supposedly survived the Fires of Qin (the <a href="/wiki/Burning_of_books_and_burying_of_scholars" title="Burning of books and burying of scholars">Burning of books and burying of scholars</a> together with the destruction by fire of the Qin imperial library at the collapse of its dynasty). The first batch documents allegedly remained hidden for about a century, until accidentally discovered and handed over to a descendant of Confucius. Wu accepts that the "<i>yaodian</i>" is not a direct copy of the original, however he argues that it was based on the same, authentic sources as the first batch documents, perhaps even being to some extent based on the actual original. However, the clinching factor which K. C. Wu claims is objective, extra-textual confirmation of "Yao's Canon" (and by implication, the rest of the second batch documents) has directly to do with dating the Great Flood, specifically to around the year 2200 BCE. This is based on comparing astronomical data from the text with modern astronomical or astrophysical analysis.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span class="cite-bracket">&#91;</span>30<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>At the beginning of his reign, Yao was supposed to have appointed four ministerial officials (two sets of two brothers) to make the necessary astronomical observations for a reformed calendar. Each of these individuals were sent to the limits of the royal territory, one in each of the <a href="/wiki/Cardinal_directions" class="mw-redirect" title="Cardinal directions">cardinal directions</a>, where they were supposed to observe certain stars at sunset on each of the solstices and equinoxes, so the results could then be compared, and the calendar accordingly adjusted. K. C. Wu cites references from two modern astronomers that largely confirm a date of around 2200 for Yao's reign, which is in accord with traditional, accepted dating.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span class="cite-bracket">&#91;</span>31<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>In view of Yao and his reign, this evidence for accurate astronomical observations could be interpreted  as an intrusion of <a href="/wiki/Archeoastronomy" class="mw-redirect" title="Archeoastronomy">archeoastronomy</a> into the realm of <a href="/wiki/Mythology" class="mw-redirect" title="Mythology">mythology</a>; in other words, ancient astronomical observations have been incorporated with mythological material, or the other way around.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="See_also">See also</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=16" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r1184024115">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}</style><div class="div-col">
+<ul><li><a href="/wiki/2350_BC_Middle_East_Anomaly" class="mw-redirect" title="2350 BC Middle East Anomaly">2350 BCE Middle East anomaly</a></li>
+<li><a href="/wiki/4.2_kiloyear_event" class="mw-redirect" title="4.2 kiloyear event">4.2 kiloyear event</a> (in 2200 BCE)</li>
+<li><a href="/wiki/Agriculture_(Chinese_mythology)" class="mw-redirect" title="Agriculture (Chinese mythology)">Agriculture (Chinese mythology)</a></li>
+<li><a href="/wiki/Chinese_emperors_family_tree_(ancient)" class="mw-redirect" title="Chinese emperors family tree (ancient)">Chinese emperors family tree (ancient)</a></li>
+<li><a href="/wiki/Chinese_mythology" title="Chinese mythology">Chinese mythology</a></li>
+<li><a href="/wiki/Classic_of_History" class="mw-redirect" title="Classic of History">Classic of History</a></li>
+<li><a href="/wiki/Emperor_Yao" title="Emperor Yao">Emperor Yao</a></li>
+<li><a href="/wiki/Flood_myth" title="Flood myth">Flood myth</a></li>
+<li><a href="/wiki/Gonggong" title="Gonggong">Gong Gong</a></li>
+<li><a href="/wiki/Great_flood_and_procreation" title="Great flood and procreation">Great flood and procreation</a></li>
+<li><a href="/wiki/Gun_(Chinese_mythology)" title="Gun (Chinese mythology)">Gun (Chinese mythology)</a></li>
+<li><a href="/wiki/History_of_Agriculture#China" class="mw-redirect" title="History of Agriculture">History of Agriculture#China</a></li>
+<li><a href="/wiki/Houji" class="mw-redirect" title="Houji">Houji</a></li>
+<li><a href="/wiki/Mulberry_fields_(idiom)" class="mw-redirect" title="Mulberry fields (idiom)">Mulberry fields (idiom)</a></li>
+<li><a href="/wiki/Nine_Provinces_(China)" class="mw-redirect" title="Nine Provinces (China)">Nine Provinces (China)</a></li>
+<li><a href="/wiki/N%C3%BCwa_Mends_the_Heavens" class="mw-redirect" title="Nüwa Mends the Heavens">Nüwa Mends the Heavens</a></li>
+<li><a href="/wiki/Qin_dynasty" title="Qin dynasty">Qin dynasty</a></li>
+<li><a href="/wiki/Shun_(Chinese_leader)" class="mw-redirect" title="Shun (Chinese leader)">Shun (Chinese leader)</a></li>
+<li><a href="/wiki/Sinking_city_myth_(Chinese)" class="mw-redirect" title="Sinking city myth (Chinese)">Sinking city myth (Chinese)</a></li>
+<li><a href="/wiki/Three_Sovereigns_and_Five_Emperors" title="Three Sovereigns and Five Emperors">Three Sovereigns and Five Emperors</a></li>
+<li><a href="/wiki/Xia_dynasty" title="Xia dynasty">Xia dynasty</a></li>
+<li><a href="/wiki/Yangtze_River" class="mw-redirect" title="Yangtze River">Yangzi</a></li>
+<li><a href="/wiki/Yellow_River" title="Yellow River">Yellow River</a></li>
+<li><a href="/wiki/Yu_the_Great" title="Yu the Great">Yu the Great</a></li>
+<li><a href="/wiki/Xia%E2%80%93Shang%E2%80%93Zhou_Chronology_Project" title="Xia–Shang–Zhou Chronology Project">Xia–Shang–Zhou Chronology Project</a></li></ul>
+</div>
+<div class="mw-heading mw-heading2"><h2 id="Notes">Notes</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=17" title="Edit section: Notes"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r1239543626">.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width" style="column-width: 24em;">
+<ol class="references">
+<li id="cite_note-Yang_2005_74-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Yang_2005_74_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Yang_2005_74_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Yang_2005_74_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFYangAnTurner2005">Yang, An &amp; Turner 2005</a>, p.&#160;74.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="#CITEREFStrassberg2002">Strassberg 2002</a>.</span>
+</li>
+<li id="cite_note-:0-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFWuZhaoLiuGranger2016">Wu et al. 2016</a>.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="#CITEREFChristie1968">Christie 1968</a>, pp.&#160;83–91.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="#CITEREFChristie1968">Christie 1968</a>, p.&#160;83.</span>
+</li>
+<li id="cite_note-Yang_2005_117-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Yang_2005_117_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Yang_2005_117_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFYangAnTurner2005">Yang, An &amp; Turner 2005</a>, p.&#160;117.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a href="#CITEREFChristie1968">Christie 1968</a>, p.&#160;83.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a href="#CITEREFBirrell1999">Birrell 1999</a>, p.&#160;71.</span>
+</li>
+<li id="cite_note-Wu_1982_69-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wu_1982_69_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wu_1982_69_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFWu1982">Wu 1982</a>, p.&#160;69.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a href="#CITEREFWu1982">Wu 1982</a>, p.&#160;69. Translation by Wu.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a href="#CITEREFYangAnTurner2005">Yang, An &amp; Turner 2005</a>, pp.&#160;127–128.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a href="#CITEREFWu1982">Wu 1982</a>, pp.&#160;70–71.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a href="#CITEREFWu1982">Wu 1982</a>, pp.&#160;74–76.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a href="#CITEREFWu1982">Wu 1982</a>, pp.&#160;76–77.</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a href="#CITEREFWu1982">Wu 1982</a>, p.&#160;85.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a href="#CITEREFWu1982">Wu 1982</a>, p.&#160;86.</span>
+</li>
+<li id="cite_note-Wu_1982_77-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wu_1982_77_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wu_1982_77_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFWu1982">Wu 1982</a>, p.&#160;77.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a href="#CITEREFWu1982">Wu 1982</a>, pp.&#160;77–78.</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a href="#CITEREFWu1982">Wu 1982</a>, pp.&#160;78.</span>
+</li>
+<li id="cite_note-Wu_1982_82-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wu_1982_82_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wu_1982_82_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Wu_1982_82_20-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFWu1982">Wu 1982</a>, p.&#160;82.</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a href="#CITEREFWu1982">Wu 1982</a>, pp.&#160;78–79.</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a href="#CITEREFChristie1968">Christie 1968</a>, p.&#160;87.</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a href="#CITEREFYangAnTurner2005">Yang, An &amp; Turner 2005</a>, p.&#160;131.</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a href="#CITEREFYangAnTurner2005">Yang, An &amp; Turner 2005</a>, p.&#160;137.</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">"...Yu then traveled throughout China, cleaning up the rivers and
+dredging canals; hence the floods of the rivers were guided to enter the
+eastern sea. Yu won great respect among the people and henceforth
+became the leader of all China after the death of Shun." <a href="#CITEREFFeng2013">Feng 2013</a>, p.&#160;48.</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a href="#CITEREFYangAnTurner2005">Yang, An &amp; Turner 2005</a>, pp.&#160;116–117.</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a href="#CITEREFYangAnTurner2005">Yang, An &amp; Turner 2005</a>, pp.&#160;114–117.</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a href="#CITEREFHawkes1985">Hawkes 1985</a>, pp.&#160;138–139.</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1238218222">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</style><cite id="CITEREFWebb2016" class="citation news cs1">Webb, Jonathan (4 August 2016). <a rel="nofollow" class="external text" href="https://www.bbc.com/news/science-environment-36966274">"Rocks tell story of China's great flood"</a>. <i>BBC News</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=Rocks+tell+story+of+China%27s+great+flood&amp;rft.date=2016-08-04&amp;rft.aulast=Webb&amp;rft.aufirst=Jonathan&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fscience-environment-36966274&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Flood+%28China%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a href="#CITEREFWu1982">Wu 1982</a>, pp.&#160;35–44, 66–67, and 450–467. Especially 465.</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a href="#CITEREFWu1982">Wu 1982</a>, pp.&#160;66–67 and 467.</span>
+</li>
+</ol></div>
+<div class="mw-heading mw-heading2"><h2 id="Sources">Sources</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=18" title="Edit section: Sources"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1184024115"><div class="div-col" style="column-width: 30em;"> <style data-mw-deduplicate="TemplateStyles:r1239549316">.mw-parser-output .refbegin{margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}@media screen{.mw-parser-output .refbegin{font-size:90%}}</style><div class="refbegin" style="">
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFChristie1968" class="citation cs2">Christie, Anthony (1968), <i>Chinese mythology</i>, London: Hamlyn, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0600006374" title="Special:BookSources/978-0600006374"><bdi>978-0600006374</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chinese+mythology&amp;rft.place=London&amp;rft.pub=Hamlyn&amp;rft.date=1968&amp;rft.isbn=978-0600006374&amp;rft.aulast=Christie&amp;rft.aufirst=Anthony&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Flood+%28China%29" class="Z3988"></span>.</li></ul>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFBirrell1999" class="citation cs2">Birrell, Anne (1999), <i>Chinese mythology: an introduction</i>, Johns Hopkins University Press, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0801861833" title="Special:BookSources/978-0801861833"><bdi>978-0801861833</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chinese+mythology%3A+an+introduction&amp;rft.pub=Johns+Hopkins+University+Press&amp;rft.date=1999&amp;rft.isbn=978-0801861833&amp;rft.aulast=Birrell&amp;rft.aufirst=Anne&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Flood+%28China%29" class="Z3988"></span>.</li></ul>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFCotterellCotterell1975" class="citation cs2">Cotterell, Yong Yap; Cotterell, Arthur (1975), <i>The Early Civilization of China</i>, G.P.Putnam's Sons, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-399-11595-0" title="Special:BookSources/978-0-399-11595-0"><bdi>978-0-399-11595-0</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Early+Civilization+of+China&amp;rft.pub=G.P.Putnam%27s+Sons&amp;rft.date=1975&amp;rft.isbn=978-0-399-11595-0&amp;rft.aulast=Cotterell&amp;rft.aufirst=Yong+Yap&amp;rft.au=Cotterell%2C+Arthur&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Flood+%28China%29" class="Z3988"></span></li></ul>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFFeng2013" class="citation cs2">Feng, Li (2013), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=TQNaAQAAQBAJ"><i>Early China: a social and cultural history</i></a>, Cambridge University Press, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780521895521" title="Special:BookSources/9780521895521"><bdi>9780521895521</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Early+China%3A+a+social+and+cultural+history&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2013&amp;rft.isbn=9780521895521&amp;rft.aulast=Feng&amp;rft.aufirst=Li&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DTQNaAQAAQBAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Flood+%28China%29" class="Z3988"></span>.</li></ul>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFHawkes1985" class="citation cs2">Hawkes, David (1985), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Gs-zAAAAIAAJ"><i>The songs of the south&#160;: an ancient Chinese anthology of poems by Qu Yuan and other poets</i></a>, Penguin Books, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780140443752" title="Special:BookSources/9780140443752"><bdi>9780140443752</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+songs+of+the+south+%3A+an+ancient+Chinese+anthology+of+poems+by+Qu+Yuan+and+other+poets&amp;rft.pub=Penguin+Books&amp;rft.date=1985&amp;rft.isbn=9780140443752&amp;rft.aulast=Hawkes&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DGs-zAAAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Flood+%28China%29" class="Z3988"></span>.</li></ul>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFStrassberg2002" class="citation cs2">Strassberg, Richard, ed. (2002), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=5DtV8kRlYkEC"><i>A Chinese bestiary&#160;: strange creatures from the guideways through mountains and seas</i></a>, University of California Press, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0520218444" title="Special:BookSources/978-0520218444"><bdi>978-0520218444</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Chinese+bestiary+%3A+strange+creatures+from+the+guideways+through+mountains+and+seas&amp;rft.pub=University+of+California+Press&amp;rft.date=2002&amp;rft.isbn=978-0520218444&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D5DtV8kRlYkEC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Flood+%28China%29" class="Z3988"></span>.</li></ul>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFWu1982" class="citation cs2">Wu, Kuo-Cheng (1982), <span class="id-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/chineseheritage00wuku"><i>The Chinese heritage</i></a></span>, New York: Crown Publishers, Inc, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0517544754" title="Special:BookSources/978-0517544754"><bdi>978-0517544754</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Chinese+heritage&amp;rft.place=New+York&amp;rft.pub=Crown+Publishers%2C+Inc&amp;rft.date=1982&amp;rft.isbn=978-0517544754&amp;rft.aulast=Wu&amp;rft.aufirst=Kuo-Cheng&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fchineseheritage00wuku&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Flood+%28China%29" class="Z3988"></span>.</li></ul>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFWuZhaoLiuGranger2016" class="citation cs2">Wu, Qinglong; Zhao, Zhijun; Liu, Li; Granger, Darryl E.; Wang, Hui; Cohen, David J.; Wu, Xiaohong; Ye, Maolin; Bar-Yosef, Ofer; Lu, Bin; Zhang, Jin; Zhang, Peizhen; Yuan, Daoyang; Qi, Wuyun; Cai, Linhai; Bai, Shibiao (5 Aug 2016), <span class="id-lock-subscription" title="Paid subscription required"><a rel="nofollow" class="external text" href="https://www.science.org/doi/full/10.1126/science.aaf0842">"Outburst flood at 1920 BCE supports historicity of China's Great Flood and the Xia dynasty"</a></span>, <i>Science</i>, <b>353</b> (6299): <span class="nowrap">579–</span>582, <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2016Sci...353..579W">2016Sci...353..579W</a>, <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1126%2Fscience.aaf0842">10.1126/science.aaf0842</a>, <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/27493183">27493183</a>, <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:206646492">206646492</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Outburst+flood+at+1920+BCE+supports+historicity+of+China%27s+Great+Flood+and+the+Xia+dynasty&amp;rft.volume=353&amp;rft.issue=6299&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E579-%3C%2Fspan%3E582&amp;rft.date=2016-08-05&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.aaf0842&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A206646492%23id-name%3DS2CID&amp;rft_id=info%3Apmid%2F27493183&amp;rft_id=info%3Abibcode%2F2016Sci...353..579W&amp;rft.aulast=Wu&amp;rft.aufirst=Qinglong&amp;rft.au=Zhao%2C+Zhijun&amp;rft.au=Liu%2C+Li&amp;rft.au=Granger%2C+Darryl+E.&amp;rft.au=Wang%2C+Hui&amp;rft.au=Cohen%2C+David+J.&amp;rft.au=Wu%2C+Xiaohong&amp;rft.au=Ye%2C+Maolin&amp;rft.au=Bar-Yosef%2C+Ofer&amp;rft.au=Lu%2C+Bin&amp;rft.au=Zhang%2C+Jin&amp;rft.au=Zhang%2C+Peizhen&amp;rft.au=Yuan%2C+Daoyang&amp;rft.au=Qi%2C+Wuyun&amp;rft.au=Cai%2C+Linhai&amp;rft.au=Bai%2C+Shibiao&amp;rft_id=https%3A%2F%2Fwww.science.org%2Fdoi%2Ffull%2F10.1126%2Fscience.aaf0842&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Flood+%28China%29" class="Z3988"></span>.</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFWuZhaoLiuGranger2017" class="citation cs2">Wu, Qinglong; Zhao, Zhijun; Liu, Li; Granger, Darryl E.; Wang, Hui; Cohen, David J.; Wu, Xiaohong; Ye, Maolin; Bar-Yosef, Ofer; Lu, Bin; Zhang, Jin; Zhang, Peizhen; Yuan, Daoyang; Qi, Wuyun; Cai, Linhai; Bai, Shibiao (31 March 2017), <span class="id-lock-subscription" title="Paid subscription required"><a rel="nofollow" class="external text" href="https://www.science.org/doi/pdf/10.1126/science.aak9657">"Response to Comments on "Outburst flood at 1920 BCE supports historicity of China's Great Flood and the Xia dynasty"<span class="cs1-kern-right"></span>"</a></span>, <i>Science</i>, <b>355</b> (6332): <span class="nowrap">579–</span>582, <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2017Sci...355R1382W">2017Sci...355R1382W</a>, <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1126%2Fscience.aal1325">10.1126/science.aal1325</a>, <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/28360294">28360294</a>, <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:206654344">206654344</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Response+to+Comments+on+%22Outburst+flood+at+1920+BCE+supports+historicity+of+China%27s+Great+Flood+and+the+Xia+dynasty%22&amp;rft.volume=355&amp;rft.issue=6332&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E579-%3C%2Fspan%3E582&amp;rft.date=2017-03-31&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.aal1325&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A206654344%23id-name%3DS2CID&amp;rft_id=info%3Apmid%2F28360294&amp;rft_id=info%3Abibcode%2F2017Sci...355R1382W&amp;rft.aulast=Wu&amp;rft.aufirst=Qinglong&amp;rft.au=Zhao%2C+Zhijun&amp;rft.au=Liu%2C+Li&amp;rft.au=Granger%2C+Darryl+E.&amp;rft.au=Wang%2C+Hui&amp;rft.au=Cohen%2C+David+J.&amp;rft.au=Wu%2C+Xiaohong&amp;rft.au=Ye%2C+Maolin&amp;rft.au=Bar-Yosef%2C+Ofer&amp;rft.au=Lu%2C+Bin&amp;rft.au=Zhang%2C+Jin&amp;rft.au=Zhang%2C+Peizhen&amp;rft.au=Yuan%2C+Daoyang&amp;rft.au=Qi%2C+Wuyun&amp;rft.au=Cai%2C+Linhai&amp;rft.au=Bai%2C+Shibiao&amp;rft_id=https%3A%2F%2Fwww.science.org%2Fdoi%2Fpdf%2F10.1126%2Fscience.aak9657&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Flood+%28China%29" class="Z3988"></span>.</li></ul>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFYangAnTurner2005" class="citation cs2">Yang, Lihui; An, Deming; Turner, Jessica Anderson (2005), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=gGD5go6iCUYC"><i>Handbook of Chinese mythology</i></a>, Santa Barbara: ABC-Clio, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780195332636" title="Special:BookSources/9780195332636"><bdi>9780195332636</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+Chinese+mythology&amp;rft.place=Santa+Barbara&amp;rft.pub=ABC-Clio&amp;rft.date=2005&amp;rft.isbn=9780195332636&amp;rft.aulast=Yang&amp;rft.aufirst=Lihui&amp;rft.au=An%2C+Deming&amp;rft.au=Turner%2C+Jessica+Anderson&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DgGD5go6iCUYC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Flood+%28China%29" class="Z3988"></span>.</li></ul>
+</div> </div>
+<div class="mw-heading mw-heading2"><h2 id="Further_reading">Further reading</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Flood_(China)&amp;action=edit&amp;section=19" title="Edit section: Further reading"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFLewis2006" class="citation book cs1">Lewis, Mark Edward (2006). <i>The Flood Myths of Early China</i>. Albany: State University of New York Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7914-6663-6" title="Special:BookSources/978-0-7914-6663-6"><bdi>978-0-7914-6663-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Flood+Myths+of+Early+China&amp;rft.place=Albany&amp;rft.pub=State+University+of+New+York+Press&amp;rft.date=2006&amp;rft.isbn=978-0-7914-6663-6&amp;rft.aulast=Lewis&amp;rft.aufirst=Mark+Edward&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Flood+%28China%29" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFCoghlan2016" class="citation cs2">Coghlan, Andy (2016), <a rel="nofollow" class="external text" href="https://www.newscientist.com/article/2100038-first-evidence-of-legendary-flood-reveals-chinas-origin-story/">"First evidence of legendary flood reveals China's origin story"</a>, <i>New Scientist</i><span class="reference-accessdate">, retrieved <span class="nowrap">4 August</span> 2016</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+Scientist&amp;rft.atitle=First+evidence+of+legendary+flood+reveals+China%27s+origin+story&amp;rft.date=2016&amp;rft.aulast=Coghlan&amp;rft.aufirst=Andy&amp;rft_id=https%3A%2F%2Fwww.newscientist.com%2Farticle%2F2100038-first-evidence-of-legendary-flood-reveals-chinas-origin-story%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Flood+%28China%29" class="Z3988"></span></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1236075235">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}</style></div><div role="navigation" class="navbox" aria-labelledby="Chinese_mythology" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1239400231">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Chinese_mythology" title="Template:Chinese mythology"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Chinese_mythology" title="Template talk:Chinese mythology"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Chinese_mythology" title="Special:EditPage/Template:Chinese mythology"><abbr title="Edit this template">e</abbr></a></li></ul></div><div id="Chinese_mythology" style="font-size:114%;margin:0 4em"><a href="/wiki/Chinese_mythology" title="Chinese mythology">Chinese mythology</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Overview topics</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Chinese_creation_myths" title="Chinese creation myths">Creation myth</a></li>
+<li><a href="/wiki/Chinese_spiritual_world_concepts" title="Chinese spiritual world concepts">Godly world concepts</a></li>
+<li><a href="/wiki/Chinese_astrology" title="Chinese astrology">Astrology</a></li>
+<li><a href="/wiki/Chinese_dragon" title="Chinese dragon">Dragons</a></li>
+<li><a href="/wiki/Gods_and_demons_fiction" title="Gods and demons fiction">Shenmo fiction</a></li>
+<li><a href="/wiki/Chinese_gods_and_immortals" title="Chinese gods and immortals">Gods and immortals</a></li>
+<li><a href="/wiki/Tian" title="Tian">Tian</a></li>
+<li><a href="/wiki/Pangu" title="Pangu">Pangu</a></li>
+<li><a href="/wiki/Ghosts_in_Chinese_culture" title="Ghosts in Chinese culture">Ghosts</a></li>
+<li><a href="/wiki/Chinese_folk_religion" title="Chinese folk religion">Chinese folk religion</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Major personages</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Chinese_gods_and_immortals" title="Chinese gods and immortals">Gods and immortals</a></li>
+<li><a href="/wiki/Three_Sovereigns_and_Five_Emperors" title="Three Sovereigns and Five Emperors">Three Sovereigns and Five Emperors</a></li>
+<li><a href="/wiki/Eight_Immortals" title="Eight Immortals">Eight Immortals</a></li>
+<li><a href="/wiki/Youchao" title="Youchao">Youchao</a></li>
+<li><a href="/wiki/Shennong" title="Shennong">Shennong</a></li>
+<li><a href="/wiki/Yellow_Emperor" title="Yellow Emperor">Yellow Emperor</a></li>
+<li><a href="/wiki/Yan_Emperor" title="Yan Emperor">Yan Emperor</a></li>
+<li><a href="/wiki/Chiyou" title="Chiyou">Chiyou</a></li>
+<li><a href="/wiki/Chang%27e" title="Chang&#39;e">Chang'e</a></li>
+<li><a href="/wiki/Hou_Yi" title="Hou Yi">Hou Yi</a></li>
+<li><a href="/wiki/Kuafu" title="Kuafu">Kuafu</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mythological creatures</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Four_Symbols" title="Four Symbols">Four Symbols</a>
+<ul><li><a href="/wiki/Black_Tortoise" class="mw-redirect" title="Black Tortoise">Black Tortoise</a></li>
+<li><a href="/wiki/Azure_Dragon" title="Azure Dragon">Azure Dragon</a></li>
+<li><a href="/wiki/White_Tiger_(mythology)" title="White Tiger (mythology)">White Tiger</a></li>
+<li><a href="/wiki/Vermilion_Bird" title="Vermilion Bird">Vermilion Bird</a></li>
+<li><a href="/wiki/Yellow_Dragon" title="Yellow Dragon">Yellow Dragon</a></li></ul></li>
+<li><a href="/wiki/Four_Holy_Beasts" title="Four Holy Beasts">Four Holy Beasts</a>
+<ul><li><a href="/wiki/Qilin" title="Qilin">Qilin</a></li>
+<li><a href="/wiki/Fenghuang" title="Fenghuang">Fenghuang</a></li>
+<li><a href="/wiki/Yinglong" title="Yinglong">Yinglong</a></li>
+<li><a href="/wiki/Spirit_turtle" title="Spirit turtle">Spirit turtle</a></li></ul></li>
+<li><a href="/wiki/Bixi" title="Bixi">Bixi</a></li>
+<li><a href="/wiki/Fox_spirit" title="Fox spirit">Huli jing</a> (Fox spirit)</li>
+<li><a href="/wiki/Nine-tailed_fox" title="Nine-tailed fox">Nine-tailed fox</a></li>
+<li><a href="/wiki/Chinese_guardian_lions" title="Chinese guardian lions">Chinese guardian lions</a></li>
+<li><a href="/wiki/Pixiu" title="Pixiu">Pixiu</a> (Bixie)</li>
+<li><a href="/wiki/Nian" title="Nian">Nian</a></li>
+<li><a href="/wiki/Horses_in_Chinese_mythology" title="Horses in Chinese mythology">Horses</a></li>
+<li><a href="/wiki/Hundun" title="Hundun">Hundun</a></li>
+<li><a href="/wiki/Xiezhi" title="Xiezhi">Xiezhi</a></li>
+<li><a href="/wiki/Wuzhiqi" title="Wuzhiqi">Wuzhiqi</a></li>
+<li><a href="/wiki/Yeren" title="Yeren">Yeren</a></li>
+<li><a href="/wiki/Four_Perils" title="Four Perils">Four Perils</a> (<a href="/wiki/Four_Perils" title="Four Perils">Four Evildoers</a>)</li>
+<li><a href="/wiki/Peng_(mythology)" title="Peng (mythology)">Peng (mythology)</a></li>
+<li><a href="/wiki/Nine-headed_Bird" class="mw-redirect" title="Nine-headed Bird">Nine-headed Bird</a></li>
+<li><a href="/wiki/Tianma" title="Tianma">Tianma</a></li>
+<li><a href="/wiki/List_of_legendary_creatures_from_China" title="List of legendary creatures from China"><i>more...</i></a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Places</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Mount_Buzhou" title="Mount Buzhou">Buzhou</a></li>
+<li><a href="/wiki/Diyu" title="Diyu">Diyu</a></li>
+<li><a href="/wiki/Eight_Pillars" title="Eight Pillars">Eight Pillars</a></li>
+<li><a href="/wiki/Gate_of_the_Ghosts" title="Gate of the Ghosts">Gate of the Ghosts</a></li>
+<li><a href="/wiki/Fusang" title="Fusang">Fusang</a></li>
+<li><a href="/wiki/Jade_Mountain_(mythology)" title="Jade Mountain (mythology)">Jade Mountain</a></li>
+<li><a href="/wiki/Kunlun_(mythology)" title="Kunlun (mythology)">Kunlun Mountain</a></li>
+<li><a href="/wiki/Longmen_(mythology)" title="Longmen (mythology)">Longmen</a></li>
+<li><a href="/wiki/Moving_Sands" title="Moving Sands">Moving Sands</a></li>
+<li><a href="/wiki/Mount_Penglai" title="Mount Penglai">Penglai</a></li>
+<li><a href="/wiki/Red_River_(mythology)" title="Red River (mythology)">Red River</a></li>
+<li><a href="/wiki/Weak_River_(mythology)" title="Weak River (mythology)">Weak River</a></li>
+<li><a href="/wiki/Youdu" title="Youdu">Youdu</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Items</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Gu_(poison)" title="Gu (poison)">Gu</a></li>
+<li><a href="/wiki/Peaches_of_Immortality" title="Peaches of Immortality">Peaches of Immortality</a></li>
+<li><a href="/wiki/Xirang" title="Xirang">Xirang</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Literary works</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Classic_of_Mountains_and_Seas" title="Classic of Mountains and Seas">Classic of Mountains and Seas</a></i></li>
+<li><i><a href="/wiki/Shi_Yi_Ji" title="Shi Yi Ji">Shi Yi Ji</a></i></li>
+<li><i><a href="/wiki/Bowuzhi" title="Bowuzhi">Bowuzhi</a></i></li>
+<li><i><a href="/wiki/Liexian_Zhuan" title="Liexian Zhuan">Liexian Zhuan</a></i></li>
+<li><i><a href="/wiki/Shenxian_Zhuan" title="Shenxian Zhuan">Shenxian Zhuan</a></i></li>
+<li><i><a href="/wiki/Book_of_Gods_and_Strange_Things" title="Book of Gods and Strange Things">Shenyi Jing</a></i></li>
+<li><i><a href="/wiki/The_Peach_Blossom_Spring" title="The Peach Blossom Spring">The Peach Blossom Spring</a></i></li>
+<li><i><a href="/wiki/The_Four_Journeys" class="mw-redirect" title="The Four Journeys">The Four Journeys</a></i></li>
+<li><i><a href="/wiki/Investiture_of_the_Gods" title="Investiture of the Gods">Investiture of the Gods</a></i></li>
+<li><i><a href="/wiki/The_Three_Sui_Quash_the_Demons%27_Revolt" title="The Three Sui Quash the Demons&#39; Revolt">The Sorcerer's Revolt</a></i></li>
+<li><i><a href="/wiki/Strange_Tales_from_a_Chinese_Studio" title="Strange Tales from a Chinese Studio">Strange Tales from a Chinese Studio</a></i></li>
+<li><i><a href="/wiki/Journey_to_the_West" title="Journey to the West">Journey to the West</a></i></li>
+<li><i><a href="/wiki/In_Search_of_the_Supernatural" title="In Search of the Supernatural">In Search of the Supernatural</a></i></li>
+<li><i><a href="/wiki/What_the_Master_Would_Not_Discuss" title="What the Master Would Not Discuss">What the Master Would Not Discuss</a></i></li>
+<li><i><a href="/wiki/Heavenly_Questions" title="Heavenly Questions">Heavenly Questions</a> (<a href="/wiki/Chu_Ci" title="Chu Ci">Chu Ci</a>)</i></li>
+<li><i><a href="/wiki/Huainanzi" title="Huainanzi">Huainanzi</a></i></li>
+<li><i><a href="/wiki/Records_of_the_Grand_Historian" class="mw-redirect" title="Records of the Grand Historian">Records of the Grand Historian</a></i></li>
+<li><i><a href="/wiki/Notes_of_the_Thatched_Abode_of_Close_Observations" title="Notes of the Thatched Abode of Close Observations">Notes of the Thatched Abode of Close Observations</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other folk tales</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Legend_of_the_White_Snake" title="Legend of the White Snake">Legend of the White Snake</a></i></li>
+<li><i><a href="/wiki/Dong_Yong_and_the_Seventh_Fairy" title="Dong Yong and the Seventh Fairy">Dong Yong and the Seventh Fairy</a></i></li>
+<li><i><a href="/wiki/The_Cowherd_and_the_Weaver_Girl" title="The Cowherd and the Weaver Girl">The Cowherd and the Weaver Girl</a></i></li>
+<li><i><a href="/wiki/The_Magic_Lotus_Lantern" title="The Magic Lotus Lantern">The Magic Lotus Lantern</a></i></li>
+<li><i><a href="/wiki/Mulian_Rescues_His_Mother" title="Mulian Rescues His Mother">Mulian Rescues His Mother</a></i></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐ext.eqiad.main‐69c974fc68‐796vp
+Cached time: 20241228164749
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.535 seconds
+Real time usage: 0.730 seconds
+Preprocessor visited node count: 2383/1000000
+Post‐expand include size: 52675/2097152 bytes
+Template argument size: 3937/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 57480/5000000 bytes
+Lua time usage: 0.341/10.000 seconds
+Lua memory usage: 14777361/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  652.455      1 -total
+ 20.14%  131.398      1 Template:Reflist
+ 15.62%  101.886      3 Template:Lang
+ 12.79%   83.458      1 Template:Chinese_mythology
+ 12.17%   79.425      1 Template:Cite_news
+ 11.77%   76.805      1 Template:Navbox
+ 10.17%   66.378      1 Template:Short_description
+  9.62%   62.753      7 Template:Main_other
+  9.47%   61.806     11 Template:Citation
+  8.99%   58.670     31 Template:Harvnb
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:31362714:|#|:idhash:canonical and timestamp 20241228164749 and revision id 1261998839. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Great_Flood_(China)&amp;oldid=1261998839">https://en.wikipedia.org/w/index.php?title=Great_Flood_(China)&amp;oldid=1261998839</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:20th_century_BC" title="Category:20th century BC">20th century BC</a></li><li><a href="/wiki/Category:2nd-millennium_BC_natural_events" title="Category:2nd-millennium BC natural events">2nd-millennium BC natural events</a></li><li><a href="/wiki/Category:Ancient_China" title="Category:Ancient China">Ancient China</a></li><li><a href="/wiki/Category:Chinese_mythology" title="Category:Chinese mythology">Chinese mythology</a></li><li><a href="/wiki/Category:Chinese_poetry_allusions" title="Category:Chinese poetry allusions">Chinese poetry allusions</a></li><li><a href="/wiki/Category:Flood_myths" title="Category:Flood myths">Flood myths</a></li><li><a href="/wiki/Category:Floods_in_China" title="Category:Floods in China">Floods in China</a></li><li><a href="/wiki/Category:Yellow_River_management" title="Category:Yellow River management">Yellow River management</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_Chinese-language_text" title="Category:Articles containing Chinese-language text">Articles containing Chinese-language text</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 9 December 2024, at 02:09<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a href="/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" title="Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License">Creative Commons Attribution-ShareAlike 4.0 License</a>;
+additional terms may apply. By using this site, you agree to the <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use" class="extiw" title="foundation:Special:MyLanguage/Policy:Terms of Use">Terms of Use</a> and <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy" class="extiw" title="foundation:Special:MyLanguage/Policy:Privacy policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Great_Flood_(China)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="/static/images/footer/wikimedia-button.svg" width="84" height="29" alt="Wikimedia Foundation" loading="lazy"></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="/w/resources/assets/poweredby_mediawiki.svg" alt="Powered by MediaWiki" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul></ul>
+</div><script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8445b8969b-pvlmg","wgBackendResponseTime":179,"wgPageParseReport":{"limitreport":{"cputime":"0.535","walltime":"0.730","ppvisitednodes":{"value":2383,"limit":1000000},"postexpandincludesize":{"value":52675,"limit":2097152},"templateargumentsize":{"value":3937,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":57480,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  652.455      1 -total"," 20.14%  131.398      1 Template:Reflist"," 15.62%  101.886      3 Template:Lang"," 12.79%   83.458      1 Template:Chinese_mythology"," 12.17%   79.425      1 Template:Cite_news"," 11.77%   76.805      1 Template:Navbox"," 10.17%   66.378      1 Template:Short_description","  9.62%   62.753      7 Template:Main_other","  9.47%   61.806     11 Template:Citation","  8.99%   58.670     31 Template:Harvnb"]},"scribunto":{"limitreport-timeusage":{"value":"0.341","limit":"10.000"},"limitreport-memusage":{"value":14777361,"limit":52428800},"limitreport-logs":"anchor_id_list = table#1 {\n    [\"CITEREFBirrell1999\"] = 1,\n    [\"CITEREFChristie1968\"] = 1,\n    [\"CITEREFCoghlan2016\"] = 1,\n    [\"CITEREFCotterellCotterell1975\"] = 1,\n    [\"CITEREFFeng2013\"] = 1,\n    [\"CITEREFHawkes1985\"] = 1,\n    [\"CITEREFLewis2006\"] = 1,\n    [\"CITEREFStrassberg2002\"] = 1,\n    [\"CITEREFWebb2016\"] = 1,\n    [\"CITEREFWu1982\"] = 1,\n    [\"CITEREFWuZhaoLiuGranger2016\"] = 1,\n    [\"CITEREFWuZhaoLiuGranger2017\"] = 1,\n    [\"CITEREFYangAnTurner2005\"] = 1,\n}\ntemplate_list = table#1 {\n    [\"About\"] = 1,\n    [\"Chinese mythology\"] = 1,\n    [\"Citation\"] = 11,\n    [\"Cite book\"] = 1,\n    [\"Cite news\"] = 1,\n    [\"Convert\"] = 1,\n    [\"Cquote\"] = 1,\n    [\"Div col\"] = 2,\n    [\"Div col end\"] = 2,\n    [\"Harvnb\"] = 31,\n    [\"Lang\"] = 3,\n    [\"Linktext\"] = 1,\n    [\"Main\"] = 4,\n    [\"Refbegin\"] = 1,\n    [\"Refend\"] = 1,\n    [\"Reflist\"] = 1,\n    [\"Short description\"] = 1,\n    [\"Verse translation\"] = 1,\n    [\"Zh\"] = 1,\n}\narticle_whitelist = table#1 {\n}\nciteref_patterns = table#1 {\n}\n"},"cachereport":{"origin":"mw-api-ext.eqiad.main-69c974fc68-796vp","timestamp":"20241228164749","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Great Flood (China)","url":"https:\/\/en.wikipedia.org\/wiki\/Great_Flood_(China)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q993582","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q993582","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-04-01T20:06:08Z","dateModified":"2024-12-09T02:09:33Z","headline":"major flood in ancient Chinese legends during the reign of Emperor Yao"}</script>
+</body>
+</html>

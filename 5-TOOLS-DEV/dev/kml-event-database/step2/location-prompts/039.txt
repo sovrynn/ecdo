@@ -1,0 +1,640 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Catal Huyuk abandonment
+
+Basic location of event: Turkiye
+
+Specific data/information/context related to event: Çatalhöyük - Wikipedia
+
+Çatalhöyük redirects here. Not to be confused with Çatalhüyük, Ceyhan.
+
+Coordinates: 37°40′00″N 32°49′41″E
+
+From Wikipedia, the free encyclopedia
+
+Archaeological site in Turkey
+
+History
+Founded Approximately 7100 BC
+Abandoned Approximately 5700 BC
+Periods: Neolithic to Chalcolithic
+
+UNESCO World Heritage Site
+Official name: Neolithic Site of Çatalhöyük
+Type: Cultural
+Criteria: iii, iv
+Designated: 2012 (36th session)
+Reference no.: 1405
+Region: Southern Europe and Western Asia
+
+Çatalhöyük (English: Chatalhoyuk), Turkish pronunciation: [tʃaˈtaɫhœjyc], is a large Neolithic and Chalcolithic proto-city settlement in what is now southern Turkey, archeologically dated from approximately 7500 BC to 5700 BC. It represents one of the most advanced human societies of its time, and is considered to be one of the best-preserved examples of a Neolithic settlement. 
+
+The site was inscribed as a UNESCO World Heritage Site in 2012 for its outstanding universal value, and it has been subject to extensive archaeological excavation.
+
+Ruins of Çatalhöyük
+
+Calibrated Carbon 14 dates for Çatalhöyük, as of 2013.
+Turkish language Turkish çatal "fork" + höyük "tumulus") is a tell (a mounded accretion due to long-term human settlement) of a very large Neolithic and Chalcolithic proto-city settlement in southern Anatolia, which existed from approximately 7500 BC to 5600 BC and flourished around 7000 BC. In July 2012, it was inscribed as a UNESCO World Heritage Site. Çatalhöyük overlooks the Konya Plain, southeast of the present-day city of Konya (ancient Iconium) in Turkey, approximately 140 km (87 mi) from the twin-coned volcano of Mount Hasan. The eastern settlement forms a mound that would have risen about 20 m (66 ft) above the plain at the time of the latest Neolithic occupation. There is also a smaller settlement mound to the west and a Byzantine settlement a few hundred meters to the east. The prehistoric mound settlements were abandoned before the Bronze Age. A channel of the Çarşamba River once flowed between the two mounds, and the settlement was built on alluvial clay which may have been favorable for early agriculture. Currently, the closest river is the Euphrates.
+
+The site was first excavated by James Mellaart in 1958. He later led a team which further excavated there for four seasons between 1961 and 1965. These excavations revealed this section of Anatolia as a centre of advanced culture in the Neolithic period. Excavation revealed 18 successive layers of buildings signifying various stages of the settlement and eras of history. The bottom layer of buildings can be dated as early as 7100 BC while the top layer of the later West Mound is from 5600 BC.
+
+Mellaart was banned from Turkey for his involvement in the Dorak affair, in which he published drawings of supposedly important Bronze Age artifacts that later went missing. After this scandal, the site lay idle until 1993, when excavations began under the leadership of Ian Hodder, then at the University of Cambridge. The Hodder-led excavations ended in 2018. Hodder, a former student of Mellaart, chose the site as the first "real world" test of his then-controversial theory of post-processual archaeology. The site has always had a strong research emphasis upon engagement with digital methodologies, driven by the project's experimental and reflexive methodological framework. According to Mickel, Hodder's Çatalhöyük Research Project (ÇRP) established itself as a site for progressive methodologies - in terms of adaptable and democratized recording, integration of computerized technologies, sampling strategies, and community involvement.
+
+New excavations are being directed by Ali Umut Türkcan from Anadolu University. Çatalhöyük was composed entirely of domestic buildings with no obvious public buildings. While some of the larger rooms have rather ornate murals, the purpose of others remains unclear. Initial estimates suggested an average population of between 5,000 and 7,000. However, more recent work using revised information on residential building distribution, and archaeological and ethnographic data estimate between 600 and 800 people in an average year lived at Çatalhöyük during the period of the earlier East Mound between 6700 and 6500 BC.
+
+The sites were set up as large numbers of buildings clustered together. Households looked to their neighbors for help, trade, and possible marriage for their children. The inhabitants lived in mudbrick houses that were crammed together in an aggregate structure. No footpaths or streets were used between the dwellings, which were clustered in a honeycomb-like maze. Most were accessed by holes in the ceiling and doors on the side of the houses, with doors reached by ladders and stairs. The rooftops were effectively streets. The ceiling openings also served as the only source of ventilation, allowing smoke from the houses' open hearths and ovens to escape. Houses had plaster interiors accessed by squared-off timber ladders or steep stairs. These were usually on the south wall of the room, as were cooking hearths and ovens. The main rooms contained raised platforms that may have been used for a range of domestic activities. Typical houses contained two rooms for everyday activity, such as cooking and crafting. All interior walls and platforms were plastered to a smooth finish. Ancillary rooms were used as storage, and were accessed through low openings from main rooms.
+
+All rooms were kept scrupulously clean. Archaeologists identified very little rubbish in the buildings, finding middens outside the ruins, with sewage and food waste, as well as significant amounts of ash from burning wood, reeds, and animal dung. In good weather, many daily activities may also have taken place on the rooftops, which may have formed a plaza. In later periods, large communal ovens appear to have been built on these rooftops. Over time, houses were renewed by partial demolition and rebuilding on a foundation of rubble, which was how the mound was gradually built up. As many as eighteen levels of settlement have been uncovered.
+
+As a part of ritual life, the people of Çatalhöyük buried their dead within the village. Human remains have been found in pits beneath the floors and especially beneath hearths, the platforms within the main rooms, and under beds. Bodies were tightly flexed before burial and were often placed in baskets or wound and wrapped in reed mats. Disarticulated bones in some graves suggest that bodies may have been exposed in the open air for a time before the bones were gathered and buried. In some cases, graves were disturbed, and the individual's head removed from the skeleton. These heads may have been used in rituals, as some were found in other areas of the community. In a woman's grave, spinning whorls were recovered and in a man's grave, stone axes. Some skulls were plastered and painted with ochre to recreate faces, a custom more characteristic of Neolithic sites in Syria and Neolithic Jericho than at sites closer by.
+
+Vivid murals and figurines are found throughout the settlement on interior and exterior walls. Distinctive clay figurines of women, notably the Seated Woman of Çatalhöyük, have been found in the upper levels of the site. Although no identifiable temples have been found, the graves, murals, and figurines suggest that the people of Çatalhöyük had a religion rich in symbols. Rooms with concentrations of these items may have been shrines or public meeting areas. Predominant images include men with erect phalluses, hunting scenes, red images of the now extinct aurochs (wild cattle) and stags, and vultures swooping down on headless figures. Relief figures are carved on walls, such as of lionesses facing one another.
+
+Heads of animals, especially of cattle, were mounted on walls. A painting of the village, with the twin mountain peaks of Hasan Dağ in the background, is frequently cited as the world's oldest map, and the first landscape painting. However, some archaeologists question this interpretation. Stephanie Meece, for example, argues that it is more likely a painting of a leopard skin instead of a volcano, and a decorative geometric design instead of a map.
+
+A feature of Çatalhöyük are its female figurines. Mellaart, the original excavator, argued that these carefully made figurines, carved and molded from marble, blue and brown limestone, schist, calcite, basalt, alabaster, and clay, represented a female deity. Although a male deity existed as well, "statues of a female deity far outnumber those of the male deity, who moreover, does not appear to be represented at all after Level VI". To date, eighteen levels have been identified. These figurines were found primarily in areas Mellaart believed to be shrines. The stately goddess seated on a throne flanked by two lionesses was found in a grain bin, which Mellaart suggests might have been a means of ensuring the harvest or protecting the food supply.
+
+Whereas Mellaart excavated nearly two hundred buildings in four seasons, the current excavator, Ian Hodder, spent an entire season excavating one building alone. Hodder and his team, in 2004 and 2005, began to believe that the patterns suggested by Mellaart were false. They found one similar figurine, but the vast majority did not imitate the Mother Goddess style that Mellaart suggested. Instead of a Mother Goddess culture, Hodder points out that the site gives little indication of a matriarchy or patriarchy.
+
+There are full breasts on which the hands rest, and the stomach is extended in the central part. There is a hole in the top for the head which is missing. As one turns the figurine around one notices that the arms are very thin, and then on the back of the figurine one sees a depiction of either a skeleton or the bones of a very thin and depleted human. The ribs and vertebrae are clear, as are the scapulae and the main pelvic bones. The figurine can be interpreted in a number of ways – as a woman turning into an ancestor, as a woman associated with death, or as death and life conjoined. It is possible that the lines around the body represent wrapping rather than ribs. Whatever the specific interpretation, this is a unique piece that may force us to change our views of the nature of Çatalhöyük society and imagery. Perhaps the importance of female imagery was related to some special role of the female in relation to death as much as to the roles of mother and nurturer. In an article in the Turkish Daily News, Hodder is reported as denying that Çatalhöyük was a matriarchal society and quoted as saying "When we look at what they eat and drink and at their social statues, we see that men and women had the same social status. There was a balance of power. Another example is the skulls found. If one's social status was of high importance in Çatalhöyük, the body and head were separated after death. The number of female and male skulls found during the excavations is almost equal." In another article in the Hurriyet Daily News Hodder is reported to say "We have learned that men and women were equally approached".
+
+In a report in September 2009 on the discovery of around 2000 figurines Hodder is quoted as saying: "Çatalhöyük was excavated in the 1960s in a methodical way, but not using the full range of natural science techniques that are available to us today. Sir James Mellaart who excavated the site in the 1960s came up with all sorts of ideas about the way the site was organized and how it was lived in and so on ... We've now started working there since the mid 1990s and come up with very different ideas about the site. One of the most obvious examples of that is that Çatalhöyük is perhaps best known for the idea of the mother goddess. But our work more recently has tended to show that in fact there is very little evidence of a mother goddess and very little evidence of some sort of female-based matriarchy. That's just one of the many myths that the modern scientific work is undermining."
+
+Professor Lynn Meskell explained that while the original excavations had found only 200 figures, the new excavations had uncovered 2,000 figures, most of which depicted animals, and fewer than 5% of the figurines depicted women. Estonian folklorist Uku Masing has suggested as early as in 1976, that Çatalhöyük was probably a hunting and gathering religion and the Mother Goddess figurine did not represent a female deity. He implied that perhaps a longer period of time was needed to develop symbols for agricultural rites.
+
+Çatalhöyük has strong evidence of an egalitarian society, as no houses with distinctive features (belonging to royalty or religious hierarchy for example) have been found so far. The most recent investigations also reveal little social distinction based on gender, with men and women receiving equivalent nutrition and seeming to have equal social status, as typically found in Paleolithic cultures. Children observed domestic areas. They learned how to perform rituals and how to build or repair houses by watching the adults make statues, beads, and other objects. Çatalhöyük's spatial layout may be due to the close kin relations exhibited amongst the people. It can be seen, in the layout, that the people were "divided into two groups who lived on opposite sides of the town, separated by a gully." Furthermore, because no nearby towns were found from which marriage partners could be drawn, "this spatial separation must have marked two intermarrying kinship groups." This would help explain how a settlement so early on would become so large.
+
+In the upper levels of the site, it becomes apparent that the people of Çatalhöyük were honing skills in agriculture and the domestication of animals. Female figurines have been found within bins used for storage of cereals, such as wheat and barley, and the figurines are presumed to be of a deity protecting the grain. Peas were also grown, and almonds, pistachios, and fruit were harvested from trees in the surrounding hills. Sheep were domesticated and evidence suggests the beginning of cattle domestication as well. However, hunting continued to be a major source of food for the community. Pottery and obsidian tools appear to have been major industries; obsidian tools were probably both used and also traded for items such as Mediterranean sea shells and flint from Syria. Noting the lack of hierarchy and economic inequality, historian and anti-capitalist author Murray Bookchin has argued that Çatalhöyük was an early example of anarcho-communism.
+
+Conversely, a 2014 paper argues that the picture of Çatalhöyük is more complex and that while there seemed to have been an egalitarian distribution of cooking tools and some stone tools, unbroken quern-stones and storage units were more unevenly distributed. Private property existed but shared tools also existed. It was also suggested that Çatalhöyük was becoming less egalitarian, with greater inter-generational wealth transmission.
+
+In 2023 a new state of the art museum has opened on the site, constructed by the Konya municipality. As at October 2024 there is a bookshop and cafe added to the site. Visitors are charged 5 Euros per person for entry (non Turkish visitors). There are numerous visitor activated information desks some of which are in English as well as Turkish. Full information on all aspects of the various discoveries are available in 8 rooms including an underground reconstruction of a typical dwelling used by the occupants 90 centuries ago.
+Archived 13 November 2011 at the Wayback Machine
+
+^ Masing, Uku (2011). Aarded Tellistes. Tartu, Estonia: Ilmamaa. pp. 209–227. ISBN 978-9985-77-351-2.
+
+^ Oriental Studies 3. Acta et Commentationes Universitatis Tartuensis 392 / Tartu Riikliku Ülikooli Toimetised 392. Tartu 1976, 75–92.
+
+^ Leften Stavros Stavrianos (1991). A Global History from Prehistory to the Present. New Jersey, USA: Prentice Hall. ISBN 978-0-13-357005-2. Pages 9–13
+
+^ R Dale Gutrie (2005). The Nature of Paleolithic art. Chicago: University of Chicago Press. ISBN 978-0-226-31126-5. Page 420-422
+
+^ Maynes, Mary Jo; Waltner, Ann (2012). The Family: A World History. New York City: Oxford University Press. p. 8. ISBN 978-0-19-530476-3.
+
+^ Bookchin, Murray. The Rise of Urbanisation and Decline of Citizenship. pp. 18–22.
+
+^ Wright, Katherine I. Karen. "Domestication and inequality? Households, corporate groups and food processing tools at Neolithic Çatalhöyük." Journal of Anthropological Archaeology 33 (2014): 1–33.
+
+Sources
+
+Bailey, Douglass. Prehistoric Figurines: Representation and Corporeality in the Neolithic. New York: Routledge, 2005 (hardcover, ISBN 0-415-33151-X; paperback, ISBN 0-415-33152-8).
+
+Balter, Michael. The Goddess and the Bull: Çatalhöyük: An Archaeological Journey to the Dawn of Civilization. New York: Free Press, 2004 (hardcover, ISBN 0-7432-4360-9); Walnut Creek, CA: Left Coast Press, 2006 (paperback, ISBN 1-59874-069-5). A highly condensed version was published in The Smithsonian Magazine, May 2005.
+
+Dural, Sadrettin. "Protecting Catalhoyuk: Memoir of an Archaeological Site Guard." Contributions by Ian Hodder. Translated by Duygu Camurcuoglu Cleere. Walnut Creek, CA: Left Coast Press, 2007. ISBN 978-1-59874-050-9.
+
+Hodder, Ian. "Women and Men at Çatalhöyük," Scientific American Magazine, January 2004 (update V15:1, 2005).
+
+Hodder, I. (2014). "Çatalhöyük excavations: the 2000-2008 seasons." British Institute at Ankara, Monumenta Archaeologica 29, ISBN 978-1-898249-29-0.
+
+Hodder, Ian. Twenty-Five Years of Research at Çatalhöyük, Near Eastern Archaeology; Chicago, vol. 83, iss. 2, pp. 72–29, June 2020.
+
+Hodder, Ian. The Leopard's Tale: Revealing the Mysteries of Çatalhöyük. London; New York: Thames & Hudson, 2006 (hardcover, ISBN 0-500-05141-0). (The UK title of this work is Çatalhöyük: The Leopard's Tale.)
+
+Hodder, Ian; Bogaard, Amy; Engel, Claudia; Pearson, Jessica; Wolfhagen, Jesse. "Spatial autocorrelation analysis and the social organisation of crop and herd management at Çatalhöyük." Anatolian Studies, London, vol. 72, pp. 1–15, 2022.
+
+Mallett, Marla. "The Goddess from Anatolia: An Updated View of the Catak Huyuk Controversy Archived 30 September 2008 at the Wayback Machine," in Oriental Rug Review, Vol. XIII, No. 2 (December 1992/January 1993).
+
+Mellaart, James. Çatal Hüyük: A Neolithic Town in Anatolia. London: Thames & Hudson, 1967; New York: McGraw-Hill Book Company, 1967. Online at archive.org
+
+On the Surface: Çatalhöyük 1993–95, edited by Ian Hodder. Cambridge: McDonald Institute for Archaeological Research and British Institute of Archaeology at Ankara, 1996 (ISBN 0-9519420-3-4).
+
+Taylor, James Stuart (2016), Making Time For Space At Çatalhöyük: GIS as a tool for exploring intra-site spatiotemporality within complex stratigraphic sequences (PhD thesis), University of York.
+
+Todd, Ian A. Çatal Hüyük in Perspective. Menlo Park, CA: Cummings Pub. Co., 1976 (ISBN 0-8465-1958-5; ISBN 0-8465-1957-7).
+
+External links
+
+What we learned from 25 Years of Research at Catalhoyuk - Ian Hodder - Oriental Institute lecture Dec 4, 2019
+
+Çatalhöyük — Excavations of a Neolithic Anatolian Höyük, Çatalhöyük excavation official website
+
+Çatalhöyük photos
+
+The First Cities: Why Settle Down? The Mystery of Communities, by Michael Balter, Çatalhöyük excavation official biographer
+
+Interview with Ian Hodder March 201 "Ian Hodder: Çatalhöyük, Religion & Templeton's 25%"
+Ergasteria
+Eribolum
+Gargara
+Gentinos
+Gergis
+Germa
+Germanicopolis
+Hadriani ad Olympum
+Hadriania
+Hadrianotherae
+Halone
+Hamaxitus
+Harpagion
+Hebdomon
+Helenopolis/Drepanum
+Heracleium
+Hermaion
+Hieria
+Hierion
+Iasonion
+Ide
+Ilieon Kome
+Kabia
+Kalamos
+Kalasyrta
+Kale Peuke
+Kalos Agros
+Kampos
+Kassa
+Katapaspanas
+Kepos
+Kizoura
+Koila
+Kolonai
+Kosilaos
+Koubaita
+Kyparodes
+Kypra
+Lamponeia
+Lampsacus
+Larisa in Troad
+Lasthenes
+Leptoia
+Liada
+Libum
+Libyssa
+Limnae in Bithynia
+Limnae in Thrace
+Linus
+Lupadium
+Lygos
+Lysimachia
+Madytus
+Mantineion
+Marpessos
+Miletopolis
+Mocasura
+Mochadion
+Modra
+Morzapena
+Mossynea
+Moukaporis
+Myrileion
+Narco
+Nassete
+Nausikleia
+Nausimachion
+Neandreia
+Neapolis on the Bosphorus
+Neapolis on the Thracian Chersonese
+Neonteichos
+Nerola
+Nicomedia
+Oka
+Ontoraita
+Ophryneion
+Orestias
+Orni
+Ostreodes
+Pactya
+Paeon
+Paesus
+Palodes
+Panion
+Pantichium
+Parabolos
+Parium
+Paulines
+Pegae in Mysia
+Pegae in Thrace
+Pege
+Pentephyle
+Percote
+Pericharaxis
+Perinthus
+Petrozetoi
+Pharmakia
+Phidalia Petra
+Phiela
+Philia
+Phosphorus
+Pionia
+Pitheci Portus
+Placia
+Ploketta
+Poemanenum
+Poleatikon
+Polychron
+Polymedium
+Potamoi
+Potamonion
+Praenetus
+Pratomysia
+Prepa
+Priapus
+Prindea
+Proconnesus
+Proochthoi
+Prusa
+Psarela
+Psyllium
+Pyrrhias Cyon
+Pytheion
+Rhebas
+Rhegion
+Rhesion
+Rhoiteion
+Rouphinianai
+Salmydessus
+Sangarus
+Scamandria
+Scamandrus
+Scepsis
+Scylace
+Scylla
+Selymbria
+Semystra
+Serrion Teichos
+Sestos
+Sigeion
+Sirkanos
+Smintheion
+Soka
+Strobilos
+Sykai
+Syllanta
+Tarpodizo
+Tarsus in Bithynia
+Tattaios
+Tenba
+Terbos
+Tesderamoska
+Tetrakomia
+Tipaso
+Tragasai
+Thynias
+Traron
+Tricomia in Bithynia
+Troy (Hisarlik)
+Tyrodiza
+Tzurulum
+Urisio
+Utsurgae
+Zeleia
+Acalissus
+Acarassus
+Adada
+Adrasus
+Aegae
+Agrae
+Alalakh
+Amelas
+Anabura in Pisidia
+Anazarbus
+Anchiale
+Andeda
+Andriaca
+Anemurium
+Ano Kotradis
+Antigonia
+Antioch on the Orontes
+Antioch of Pisidia
+Antiochia Lamotis
+Antiochia on the Cragus
+Antiochia on the Pyramis
+Antiphellus
+Aperlae
+Aphrodisias of Cilicia
+Apollonia in Lycia
+Arabissus
+Araxa
+Ariassus
+Arima
+Arnabanda
+Arneae
+Arsada
+Arsinoe
+Artanada
+Arycanda
+Aspendos
+Augai
+Augusta
+Aulae
+Aunesis
+Bab al-Hawa Border Crossing
+Balbura
+Baris
+Bindaios
+Bubon
+Cabassus
+Cadrema
+Cadyanda
+Callimache
+Calynda
+Carallia
+Carmylessus
+Casae
+Castabala
+Ceretapa
+Cestrus
+Charadrus
+Choma
+Cibyra Mikra
+Claudiopolis
+Colybrassus
+Comama
+Comana in Cappadocia
+Comba
+Conana
+Coracesium
+Corycium Antrum
+Corycus
+Corydala
+Cremna
+Cretopolis
+Crya
+Cyaneae
+Cyrrhus
+Daedala
+Dalisandus in Isauria
+Dalisandus in Pamphylia
+Damasei
+Dias
+Diocaesarea
+Domuztepe
+Elaiussa Sebaste
+Elbessos
+Emirzeli
+Epiphania
+Erymna
+Etenna
+Eudocia
+Eudocias
+Flaviopolis
+Gagae
+Gözlükule
+Hacilar
+Hadrianopolis in Pisidia
+Halae
+Hamaxia
+Hierapolis
+Hippucome
+Holmi
+Hyia
+Idebessos
+Idyros
+Iotape
+Irenopolis
+Isaura Nea
+Isaura Palaea
+Isba
+Isinda in Lycia
+Isinda in Pisidia
+Issus
+Istlada
+Juliosebaste
+Kalanthia
+Kalelibelen
+Kandyba
+Kanytelis
+Karakabaklı
+Karatepe
+Karkabo
+Kastellon
+Keraia
+Kibyra
+Kiphisos
+Kirkota
+Kitanaura
+Kodroula
+Kolbasa
+Korasion
+Korma
+Kynosarion
+Laertes
+Lagbe
+Lamos
+Lebessus
+Legeita
+Limnae in Pamphylia
+Limnae in Pisidia
+Limyra
+Lissa
+Lycae
+Lyrbe
+Lysinia
+Magarsa
+Magastara
+Magydus
+Mallus
+Malus in Pisidia
+Mampsoukrenai
+Mamure Castle
+Manava
+Mandane
+Marciana
+Marmara (Mnara)
+Mastaura
+Meloë
+Melanippe
+Meriana
+Mezgitkale
+Moatra
+Mopsucrene
+Mopsuestia
+Morka
+Moron Hydor
+Moumoustra
+Mylae
+Mylios
+Myra
+Myriandus
+Nagidos
+Nauloi
+Neapolis in Pisidia
+Nephelis
+Nisa
+Octapolis
+Olba
+Olbasa
+Olbia
+Olympus
+Öküzlü
+Onobara
+Orokenda
+Otanada
+Ouerbe
+Padyandus
+Palaeopolis
+Panemotichus
+Panhormus
+Pargais
+Parlais
+Patara
+Pednelissus
+Perga
+Perminounda
+Phaselis
+Phellus
+Philadelphia in Cilicia
+Philaea
+Phoenicus in Lycia
+Phoenix in Lycia
+Pisarissos
+Pisurgia
+Placoma
+Platanus
+Podalia
+Pogla
+Prostanna
+Pseudokorasion
+Ptolemais
+Rhodiapolis
+Rhoscopus
+Rhosus
+Rygmanoi
+Sabandus
+Sagalassos
+Sandalium
+Saraganda
+Sebeda
+Seleucia in Pamphylia
+Seleucia Pieria
+Seleucia Sidera
+Selge
+Selinus
+Seroiata
+Serraepolis
+Sia
+Sibidounda
+Sibyla
+Side
+Siderus
+Sidyma
+Sillyon
+Simena
+Sinda
+Siricae
+Soli
+Solyma
+Sozopolis
+Sura
+Syca
+Syedra
+Takina
+Tapureli
+Tardequeia
+Tarsus
+Teimiussa
+Tell Judaidah
+Tell Tayinat
+Telmessos
+Telmessos (Caria)
+Tenedos
+Termessos
+Tetrapyrgia in Cappadocia
+Tetrapyrgia in Pamphylia
+Titiopolis
+Tityassus
+Tlos
+Toriaeum
+Tragalassus
+Trebendae
+Trebenna
+Trysa
+Tyberissus
+Tyinda
+Tymandus
+Tynada
+Typallia
+Xanthos
+Yanıkhan
+Yumuktepe
+Zenopolis in Isauria
+Zenopolis in Lycia
+Zephyrium on the Calycadnus
+Amida
+Antioch in the Taurus
+Antioch in Mesopotamia (Constantia)
+Apamea on the Euphrates
+Carcathiocerta
+Carchemish
+Çayönü
+Dabanas
+Dara
+Doliche
+Edessa
+Göbekli Tepe
+Hallan Çemi Tepesi
+Harran
+Khashshum
+Kussara
+Matiate
+Nevalı Çori
+Nicopolis in Cilicia
+Nusaybin
+Sakçagözü
+Sam'al
+Samosata
+Sareisa
+Seleucia at the Zeugma
+Sitai
+Sultantepe
+Tille
+Tushhan
+Urima
+Urshu
+Zeugma
+Sadberk Hanım Museum
+Tekirdağ Museum of Archaeology and Ethnography
+Mediterranean region
+Adana Archaeology Museum
+Alanya Archaeological Museum
+Antalya Museum
+Arslan Eyce Private Amphora Museum
+Burdur Archaeological Museum
+Hatay Archaeology Museum
+Karatepe-Aslantaş Open-Air Museum
+Mersin Museum
+Misis Mosaic Museum
+Silifke Museum
+Tarsus Museum
+Southeastern Anatolia region
+Adıyaman Archaeological Museum
+Diyarbakır Archaeological Museum
+Gaziantep Museum of Archaeology
+Şanlıurfa Museum
+Zeugma Mosaic Museum
+Authority control databases
+VIAF
+Germany
+United States
+Czech Republic
+Israel
+Pleiades
+World Heritage Sites in Turkey
+Çatalhöyük
+Populated places established in the 8th millennium BC
+Populated places disestablished in the 7th millennium BC
+1958 archaeological discoveries
+Archaeological discoveries in Turkey
+Archaeological museums in Turkey
+Archaeological sites in Central Anatolia
+Archaeological sites of prehistoric Anatolia
+Buildings and structures in Konya Province
+Chalcolithic sites of Asia
+Former populated places in Turkey
+Megasites
+Museums in Konya Province
+Neolithic settlements
+Neolithic sites of Asia
+Tells (archaeology)
+This page was last edited on 15 December 2024, at 07:33 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.

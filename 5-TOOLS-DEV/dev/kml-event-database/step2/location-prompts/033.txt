@@ -1,0 +1,17 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Illumetsa crater field
+
+Basic location of event: Estonia
+
+Specific data/information/context related to event: The age of the Ilumetsa meteorite craters in southeast Estonia - ADS
+
+The Ilumetsa impact craters were discovered in 1938 in the course of geological mapping. In the crater field area, the Middle Devonian bedrock consists of light-yellow weakly cemented siltstones and sandstones of the Givetian Burtnieki Regional Stage, which are overlain by a 1-2-m-thick layer of reddish-brown loamy till. Porguhaud, the biggest crater, has a diameter of 75-80 m at the top of the uplifted rim and is 12.5 m deep. The zone of authochtonous breccias below the apparent crater extends to 30 m deep. The crater is partly filled with a thin layer of gyttja and peat up to 2 m thick. Radiocarbon ages of 6030 +/- 100 (TA-310) and 5910 +/- 100 (TA-725) years B.P. from the lowermost organic layer and palynological evidence suggest that the age of the impact was approximately 6000 14C-years B.P. The Sügavhaud crater has a diameter of 50 m at the top of the rim and is 4.5 m deep. Organic matter on the bottom of the crater is absent. As precise age determination of the Ilumetsa craters by direct dating methods has proved inconclusive, we proposed a method of geological correlation which is based on the occurrence of impact spherules in lake and bog sediments around the crater field. Radiocarbon dating of samples from a peat layer with glassy spherules of impact origin in the Meenikunno Bog, 6 km southwest of the Ilumetsa crater field yielded the ages of 6542 +/- 50 (Tln-2214) for the depth interval 5.6 - 5.7 m and 6697 +/- 50 (Tln-2316) years B.P. for the depth interval 5.7 - 5.8 m. These dates suggest that the Ilumetsa craters were formed about 6600 years ago.
+
+Publication: Meteoritics and Planetary Science
+
+Pub Date: November 2001
+
+DOI: 10.1111/j.1945-5100.2001.tb01842.x
+
+Bibcode: 2001M&PS...36.1507R

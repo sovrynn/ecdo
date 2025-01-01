@@ -1,0 +1,985 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Greenland ice core project - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy",
+"wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e3511b8d-5e56-44c6-a16a-1c809e354cf3","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Greenland_ice_core_project","wgTitle":"Greenland ice core project","wgCurRevisionId":1242467115,"wgRevisionId":1242467115,"wgArticleId":1770354,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Pages using gadget WikiMiniAtlas","CS1 maint: multiple names: editors list","Webarchive template wayback links","Geochronological institutions and organizations","Research projects","Arctic research","Climate of Greenland","Climate change","Greenland and the European Union"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"Greenland_ice_core_project","wgRelevantArticleId":1770354,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgRelatedArticlesCompat":[],"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1544733","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile",
+"model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.gadget.WikiMiniAtlas","ext.urlShortener.toolbar",
+"ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.44.0-wmf.8">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/be/Gripdome.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="800">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gripdome.jpg/800px-Gripdome.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="533">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gripdome.jpg/640px-Gripdome.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="427">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Greenland ice core project - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//en.m.wikipedia.org/wiki/Greenland_ice_core_project">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Greenland_ice_core_project">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Greenland_ice_core_project rootpage-Greenland_ice_core_project skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" class=""><span>Donate</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Greenland+ice+core+project" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Greenland+ice+core+project" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en"><span>Donate</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Greenland+ice+core+project" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Greenland+ice+core+project" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Background"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Background">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Background</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Background-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Results_and_findings"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Results_and_findings">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Results and findings</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Results_and_findings-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Techniques"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Techniques">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Techniques</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Techniques-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Techniques subsection</span>
+			</button>
+		
+		<ul id="toc-Techniques-sublist" class="vector-toc-list">
+			<li id="toc-Hand_auger"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Hand_auger">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">3.1</span>
+					<span>Hand auger</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Hand_auger-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Shallow_drill"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Shallow_drill">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">3.2</span>
+					<span>Shallow drill</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Shallow_drill-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Deep_drill"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Deep_drill">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">3.3</span>
+					<span>Deep drill</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Deep_drill-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Related_projects"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Related_projects">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Related projects</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Related_projects-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Related projects subsection</span>
+			</button>
+		
+		<ul id="toc-Related_projects-sublist" class="vector-toc-list">
+			<li id="toc-Greenland_Ice_Sheet_Project_(GISP2)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Greenland_Ice_Sheet_Project_(GISP2)">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">4.1</span>
+					<span>Greenland Ice Sheet Project (GISP2)</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Greenland_Ice_Sheet_Project_(GISP2)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-NorthGRIP"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#NorthGRIP">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">4.2</span>
+					<span>NorthGRIP</span>
+				</div>
+			</a>
+			
+			<ul id="toc-NorthGRIP-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-The_North_Greenland_Eemian_Ice_Drilling_(NEEM)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#The_North_Greenland_Eemian_Ice_Drilling_(NEEM)">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">4.3</span>
+					<span>The North Greenland Eemian Ice Drilling (NEEM)</span>
+				</div>
+			</a>
+			
+			<ul id="toc-The_North_Greenland_Eemian_Ice_Drilling_(NEEM)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Climate_change"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Climate_change">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>Climate change</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Climate_change-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-EastGRIP"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#EastGRIP">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>EastGRIP</span>
+			</div>
+		</a>
+		
+		<ul id="toc-EastGRIP-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Other_projects"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Other_projects">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>Other projects</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Other_projects-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>See also</span>
+			</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Sources"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Sources">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>Sources</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Sources-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">10</span>
+				<span>References</span>
+			</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">11</span>
+				<span>External links</span>
+			</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Greenland ice core project</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 7 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-7" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">7 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Greenland_Ice_Core_Project" title="Greenland Ice Core Project – German" lang="de" hreflang="de" data-title="Greenland Ice Core Project" data-language-autonym="Deutsch" data-language-local-name="German" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Proyecto_de_muestras_de_hielo_de_Groenlandia" title="Proyecto de muestras de hielo de Groenlandia – Spanish" lang="es" hreflang="es" data-title="Proyecto de muestras de hielo de Groenlandia" data-language-autonym="Español" data-language-local-name="Spanish" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-ig mw-list-item"><a href="https://ig.wikipedia.org/wiki/%E1%BB%8Cr%E1%BB%A5_ice_nke_Greenland" title="Ọrụ ice nke Greenland – Igbo" lang="ig" hreflang="ig" data-title="Ọrụ ice nke Greenland" data-language-autonym="Igbo" data-language-local-name="Igbo" class="interlanguage-link-target"><span>Igbo</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Greenland_Ice_Core_Project" title="Greenland Ice Core Project – Italian" lang="it" hreflang="it" data-title="Greenland Ice Core Project" data-language-autonym="Italiano" data-language-local-name="Italian" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B7%D0%B0_%D0%BB%D0%B5%D0%B4%D0%B5%D0%BD%D0%BE%D1%82%D0%BE_%D1%98%D0%B0%D0%B4%D1%80%D0%BE_%D0%BD%D0%B0_%D0%93%D1%80%D0%B5%D0%BD%D0%BB%D0%B0%D0%BD%D0%B4" title="Проект за леденото јадро на Гренланд – Macedonian" lang="mk" hreflang="mk" data-title="Проект за леденото јадро на Гренланд" data-language-autonym="Македонски" data-language-local-name="Macedonian" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Greenland_Ice_Core_Project" title="Greenland Ice Core Project – Norwegian Bokmål" lang="nb" hreflang="nb" data-title="Greenland Ice Core Project" data-language-autonym="Norsk bokmål" data-language-local-name="Norwegian Bokmål" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Gr%C3%B6nland_Buzul_%C3%87ekirde%C4%9Fi_Projesi" title="Grönland Buzul Çekirdeği Projesi – Turkish" lang="tr" hreflang="tr" data-title="Grönland Buzul Çekirdeği Projesi" data-language-autonym="Türkçe" data-language-local-name="Turkish" class="interlanguage-link-target"><span>Türkçe</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1544733#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Greenland_ice_core_project" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Greenland_ice_core_project" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Greenland_ice_core_project"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Greenland_ice_core_project"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Greenland_ice_core_project" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Greenland_ice_core_project" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Greenland_ice_core_project&amp;oldid=1242467115" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Greenland_ice_core_project&amp;id=1242467115&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGreenland_ice_core_project"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGreenland_ice_core_project"><span>Download QR code</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Greenland_ice_core_project&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Greenland_ice_core_project&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Greenland_ice_core_project" hreflang="en"><span>Wikimedia Commons</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1544733" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Project to drill through Greenland ice sheet</div>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Gripdome.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gripdome.jpg/220px-Gripdome.jpg" decoding="async" width="220" height="147" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gripdome.jpg/330px-Gripdome.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gripdome.jpg/440px-Gripdome.jpg 2x" data-file-width="900" data-file-height="600" /></a><figcaption>View of the GRIP site at <a href="/wiki/Summit_Camp" title="Summit Camp">Summit Camp</a></figcaption></figure>
+<p>The <b>Greenland Ice Core Project</b> (GRIP) was a research project organized through the <a href="/wiki/European_Science_Foundation" title="European Science Foundation">European Science Foundation</a> (ESF).<sup id="cite_ref-:12_1-0" class="reference"><a href="#cite_note-:12-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> The project ran from 1989 to 1995, with drilling seasons from 1990 to 1992.<sup id="cite_ref-:0_2-0" class="reference"><a href="#cite_note-:0-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> In 1988, the project was accepted as an ESF-associated program, and the fieldwork was started in <a href="/wiki/Greenland" title="Greenland">Greenland</a> in the summer of 1989.<sup id="cite_ref-:1_3-0" class="reference"><a href="#cite_note-:1-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> 
+</p><p>GRIP aimed to collect and investigate 3000-meter-long <a href="/wiki/Ice_core" title="Ice core">ice cores</a> drilled at the apex of the Greenland ice sheet, also known as <a href="/wiki/Summit_Camp" title="Summit Camp">Summit Camp</a>.<sup id="cite_ref-:0_2-1" class="reference"><a href="#cite_note-:0-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> The Greenland ice sheet comprises more than 90% of the total <a href="/wiki/Ice_sheet" title="Ice sheet">ice sheet</a> and <a href="/wiki/Glacier" title="Glacier">glacier</a> ice outside Antarctica. 
+</p><p>The project was managed by a Steering Committee of the <a href="/wiki/University_of_Bern" title="University of Bern">University of Bern</a>'s Physics Institute, chaired by Professor Bernhard Stauffer.<sup id="cite_ref-esf.org_4-0" class="reference"><a href="#cite_note-esf.org-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> Funding came from eight European nations (Belgium, Denmark, France, Germany, <a href="/wiki/Iceland" title="Iceland">Iceland</a>, Italy, Switzerland, and the United Kingdom), and from the <a href="/wiki/European_Union" title="European Union">European Union</a>.<sup id="cite_ref-esf.org_4-1" class="reference"><a href="#cite_note-esf.org-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-:1_3-1" class="reference"><a href="#cite_note-:1-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> Studies of nuclear isotopes and various atmospheric constituents provided by the cores allowed the team to construct detailed records of climate change, covering the last 100,000 years.
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="Background">Background</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit&amp;section=1" title="Edit section: Background"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The loss of mass of the <a href="/wiki/Greenland_ice_sheet" title="Greenland ice sheet">Greenland ice sheet</a> has been accelerating due to the effects of climate change caused by human activities.<sup id="cite_ref-:2_5-0" class="reference"><a href="#cite_note-:2-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> The mass loss of ice sheets and glaciers causes sea levels to rise, <a href="/wiki/Albedo" title="Albedo">terrestrial albedo</a> to decline, and patterns of ocean circulation to change.  It is predicted that the sea level will rise by approximately 7 meters if all the ice melts.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> The rise in sea levels due to ice sheet glaciers’ melt would make it impossible for people to live in coastal regions.<sup id="cite_ref-:2_5-1" class="reference"><a href="#cite_note-:2-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> 
+</p><p>Because there is no preserved ancient terrestrial sediment in Greenland, most ice sheet history is based on indirect records.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> Using the limited <a href="/wiki/Paleoclimate" class="mw-redirect" title="Paleoclimate">paleoclimate</a> data, researchers have shown that the extent of ice in Greenland has changed significantly over time, and this suggests that the change in size is due to a variety of physical environmental factors.<sup id="cite_ref-:5_8-0" class="reference"><a href="#cite_note-:5-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> The best estimates based on the paleoclimate data show that the Greenland ice sheet is significantly reduced by even a small increase in the negative effects of climate change.<sup id="cite_ref-:5_8-1" class="reference"><a href="#cite_note-:5-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> A 2020 research paper suggests that the melting of the ice sheet that covers Greenland will accelerate much faster than previously predicted.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Results_and_findings">Results and findings</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit&amp;section=2" title="Edit section: Results and findings"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Gripcor1.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gripcor1.jpg/220px-Gripcor1.jpg" decoding="async" width="220" height="147" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gripcor1.jpg/330px-Gripcor1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gripcor1.jpg/440px-Gripcor1.jpg 2x" data-file-width="900" data-file-height="600" /></a><figcaption>A portion of the core</figcaption></figure><p>Studies of <a href="/wiki/Isotope" title="Isotope">nuclear isotopes</a> and various atmospheric constituents provide detailed records of climate change over 100,000 years. From the analysis of the oxygen isotope ratio of the GRIP core excavated in 1992, it became clear that abrupt climate change occurred in Greenland during the last glacial period. This happened more than 20 times. It further became clear that the warm and cold periods alternated. Near the bottom of the GRIP core, oxygen isotope ratios fluctuated sharply; this was initially interpreted as an indication of repeated violent climate change during the last interglacial period in Greenland.<sup id="cite_ref-:6_10-0" class="reference"><a href="#cite_note-:6-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p><div class="mw-heading mw-heading2"><h2 id="Techniques">Techniques</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit&amp;section=3" title="Edit section: Techniques"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The first drilling of the Greenland Ice Core Project went only a few hundred meters into the glacier ice.<sup id="cite_ref-:3_11-0" class="reference"><a href="#cite_note-:3-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+But from 1989 to 1992 GRIP successfully drilled a 3029-meter ice core to the bed of the Greenland ice sheet at Summit (<span class="geo-inline"><style data-mw-deduplicate="TemplateStyles:r1156832818">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a class="external text" href="https://geohack.toolforge.org/geohack.php?pagename=Greenland_ice_core_project&amp;params=72_34.74_N_37_33.92_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">72°34.74′N</span> <span class="longitude">37°33.92′W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">72.57900°N 37.56533°W</span><span style="display:none">&#xfeff; / <span class="geo">72.57900; -37.56533</span></span></span></a></span></span>).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>  In 1991, ice cores 783 to 2482 meters long were drilled, and an ice core was drilled to bedrock in 1992.<sup id="cite_ref-:4_13-0" class="reference"><a href="#cite_note-:4-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup> The ice core was first taken to the University of Copenhagen in Denmark, where it was stored in a cold room at -26 °C.<sup id="cite_ref-:4_13-1" class="reference"><a href="#cite_note-:4-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup> Five sections of ice core with a length of about 300 to 400&#160;mm were shipped to Japan.<sup id="cite_ref-:4_13-2" class="reference"><a href="#cite_note-:4-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup> A wide range of information related to past and present climatic and environmental changes can be analyzed from the ice.<sup id="cite_ref-:0_2-2" class="reference"><a href="#cite_note-:0-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> The glacier layers that are collected can reveal up to 500,000 years of evidence.<sup id="cite_ref-:0_2-3" class="reference"><a href="#cite_note-:0-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Studies of <a href="/wiki/Isotope" title="Isotope">isotopes</a> and various atmospheric constituents in the core have provided a detailed record of <a href="/wiki/Climate_variability" class="mw-redirect" title="Climate variability">climate variability</a> reaching more than 100,000 years back in time. The results indicate that the <a href="/wiki/Holocene" title="Holocene">Holocene</a> climate was remarkably stable, but they confirm the occurrence of rapid climatic variation during the <a href="/wiki/Last_glacial_period" class="mw-redirect" title="Last glacial period">last ice age</a>. Delta-O-18 variations observed in the core that are believed to date from the <a href="/wiki/Eemian_Stage" class="mw-redirect" title="Eemian Stage">Eemian Stage</a> have not been confirmed by other records,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup> including the <a href="/wiki/North_Greenland_Ice_Core_Project" title="North Greenland Ice Core Project">North Greenland</a> core, and are no longer believed to represent climate events. The <a href="/wiki/Interglacial" title="Interglacial">interglacial</a> climate of the Eemian Stage appears to have been as stable as the Holocene.
+</p><p>Three different types of ice sheet core drills were used in the project, differing mainly in the depths they can drill to.<sup id="cite_ref-:3_11-1" class="reference"><a href="#cite_note-:3-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Hand_auger">Hand auger</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit&amp;section=4" title="Edit section: Hand auger"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The hand auger weighs 80&#160;kg, can be operated by a single person, and is useful for collecting ice cores with a diameter of 74&#160;mm from the top 10 m of the ice cap.<sup id="cite_ref-:3_11-2" class="reference"><a href="#cite_note-:3-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Shallow_drill">Shallow drill</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit&amp;section=5" title="Edit section: Shallow drill"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The shallow drill can take cores up to 50 m long and 74mm in diameter from the top 350 m of ice, and it does not require drilling fluid.<sup id="cite_ref-:3_11-3" class="reference"><a href="#cite_note-:3-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Deep_drill">Deep drill</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit&amp;section=6" title="Edit section: Deep drill"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The deep drill works in liquid-filled holes, can retrieve the core, and can be operated at any depth.<sup id="cite_ref-:3_11-4" class="reference"><a href="#cite_note-:3-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> Compared to other drills, the operation is relatively slow.<sup id="cite_ref-:3_11-5" class="reference"><a href="#cite_note-:3-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Related_projects">Related projects</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit&amp;section=7" title="Edit section: Related projects"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>In addition to GRIP, there have been several other ice core projects in Greenland, such as the Greenland Ice Sheet Project (GISP2), the North Greenland Ice Core Project (NorthGRIP), and the North Greenland Eemian Ice Drilling (NEEM).
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Greenland_Ice_Sheet_Project_(GISP2)"><span id="Greenland_Ice_Sheet_Project_.28GISP2.29"></span>Greenland Ice Sheet Project (GISP2)</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit&amp;section=8" title="Edit section: Greenland Ice Sheet Project (GISP2)"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Initially <a href="/wiki/Greenland_Ice_Sheet_Project" title="Greenland Ice Sheet Project">GISP2</a> seemed to overturn an earlier result discovered by GRIP. Based on the sharp fluctuations of the oxygen isotope ratio near the bottom of the GRIP core, it had been hypothesized that severe climate change occurred repeatedly during the last interglacial period in Greenland.<sup id="cite_ref-:6_10-1" class="reference"><a href="#cite_note-:6-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> However, the oxygen isotope ratio data of the GISP2 core that was excavated only 30&#160;km away from the sampling point of the GRIP core did not match the GRIP data.<sup id="cite_ref-:7_15-0" class="reference"><a href="#cite_note-:7-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup> It became clear that the ice layer structure was disturbed by folds at the bottom of the ice sheet in both cores, indicating that the interpretation that there was severe climate change during the final interglacial period may be incorrect.<sup id="cite_ref-:7_15-1" class="reference"><a href="#cite_note-:7-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup> 
+</p><p>The GISP2 reconstructions are relatively old. Recent studies have raised questions about evaluating the relationship between temperature and Delta-O-18 during the Holocene in view of the elevation changes in the ice cap at the GISP2 site. The GISP2 reconstructions changed the relationship between Delta-O-18 and temperature by a factor of two during the Holocene, while more recent reconstructions leave that relationship unchanged. Elevation change affects the Delta-O-18 record, and the older GISP2 reconstructions do not account for elevation changes.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="NorthGRIP">NorthGRIP</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit&amp;section=9" title="Edit section: NorthGRIP"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><a href="/wiki/North_Greenland_Ice_Core_Project" title="North Greenland Ice Core Project">NorthGRIP</a> aimed to collect ice during the final interglacial period, but the bottom of the ice sheet had melted, and it was not possible to excavate those samples.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup> As a result, temperatures estimated to be as high as 5 °C above those at present were observed from some of the ice cores that could be collected in the middle of the last interglacial period; the Greenland ice sheet apparently existed even in such a warm climate.
+</p>
+<figure class="mw-default-size mw-halign-center" typeof="mw:File/Thumb"><a href="/wiki/File:GRIP_temperatures_compared_with_NorthGRIP.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/GRIP_temperatures_compared_with_NorthGRIP.png/220px-GRIP_temperatures_compared_with_NorthGRIP.png" decoding="async" width="220" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/GRIP_temperatures_compared_with_NorthGRIP.png/330px-GRIP_temperatures_compared_with_NorthGRIP.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/GRIP_temperatures_compared_with_NorthGRIP.png/440px-GRIP_temperatures_compared_with_NorthGRIP.png 2x" data-file-width="570" data-file-height="312" /></a><figcaption>GRIP temperatures compared with NorthGRIP<sup id="cite_ref-:8_18-0" class="reference"><a href="#cite_note-:8-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup></figcaption></figure>
+<p>The shaded lines represent the uncertainty of the estimates due to inaccuracies in the analysis and adjustments in the isotope model.<sup id="cite_ref-:8_18-1" class="reference"><a href="#cite_note-:8-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="The_North_Greenland_Eemian_Ice_Drilling_(NEEM)"><span id="The_North_Greenland_Eemian_Ice_Drilling_.28NEEM.29"></span>The North Greenland Eemian Ice Drilling (NEEM)</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit&amp;section=10" title="Edit section: The North Greenland Eemian Ice Drilling (NEEM)"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The later NEEM project extended the work of GRIP by excavating an ice core that shows the bottom melting and the folds at the NEEM site, and provides evidence concerning the entire final interglacial period. In Northern Greenland, it was warmest around 126,000 years before the beginning of the last interglacial period, when the temperature was about 8&#160;°C ± 4&#160;°C higher than it is now. During the 6000 years between 128,000 and 122,000 years ago, the ice sheet thickness decreased by 400 ± 250 m, and 122,000 years ago the ice sheet surface altitude was 130 ± 300 m higher than it is today.<sup id="cite_ref-:9_19-0" class="reference"><a href="#cite_note-:9-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup> This shows that it is extremely rare for the ice sheet to melt even in the hot summer in Greenland. Rather, the ice sheet surface melted during the final interglacial period (the Eemian) because of the methane and rare gases collected from NEEM's ice core.<sup id="cite_ref-:9_19-1" class="reference"><a href="#cite_note-:9-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup> The fact that the Greenland core remained stable during the temperature rise suggests that the Antarctic ice sheet shrank during the final interglacial period and contributed significantly to the increase in sea level.<sup id="cite_ref-:9_19-2" class="reference"><a href="#cite_note-:9-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Climate_change">Climate change</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit&amp;section=11" title="Edit section: Climate change"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>To accurately predict the response of the Greenland ice sheet to climate change, it is necessary to obtain long-term data on past warming and its effects and improve the climate and ice sheet models based on it. Since anthropogenic factors are deeply involved in environmental issues such as greenhouse gases, they may also be related to climate change during the Eemian.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="EastGRIP">EastGRIP</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit&amp;section=12" title="Edit section: EastGRIP"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Previous ice core drilling projects, including GRIP, were carried out at sites where horizontal ice flow is as small as possible. In contrast, the latest <a href="/wiki/East_Greenland_Ice-Core_Project" title="East Greenland Ice-Core Project">EastGRIP</a> research was conducted upstream of the Northeast Greenland Ice Stream. This is the most significant active ice stream in Greenland.<sup id="cite_ref-:10_21-0" class="reference"><a href="#cite_note-:10-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>In addition, the ice depths in the earlier Greenland ice cores that corresponded to the warm period of the early Holocene were very fragile. It was almost impossible to collect highly accurate chemical and gas analysis data with high time resolution from the traditional Greenland ice cores. In view of this difficulty, EastGRIP installed a cold temperature chamber to keep the drilled ice below -30&#160;°C immediately after the drilling, and efforts were made to minimize the destruction of ice cores by eliminating small steps of several tens of microns in the core field processing.<sup id="cite_ref-:11_22-0" class="reference"><a href="#cite_note-:11-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup> The cold air prevents the expansion of air bubbles and keeps the ice from breaking.<sup id="cite_ref-:11_22-1" class="reference"><a href="#cite_note-:11-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup> As a result, ice cores capable of continuous flow analysis have been acquired even from fragile depth zones, and it is expected that more detailed and accurate analysis of gas and other chemicals will be possible in the future.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Other_projects">Other projects</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit&amp;section=13" title="Edit section: Other projects"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/East_Greenland_Ice-Core_Project" title="East Greenland Ice-Core Project">East Greenland Ice-core Project (EastGRIP)</a></li>
+<li><a href="/w/index.php?title=WAIS_Divide_Ice_Core_Project&amp;action=edit&amp;redlink=1" class="new" title="WAIS Divide Ice Core Project (page does not exist)">WAIS Divide Ice Core Project</a></li>
+<li><a href="/wiki/Dye_3" title="Dye 3">DYE3</a></li>
+<li><a href="/wiki/Camp_Century" title="Camp Century">Camp Century</a></li>
+<li><a href="/w/index.php?title=South_Pole_Ice_Core_Project&amp;action=edit&amp;redlink=1" class="new" title="South Pole Ice Core Project (page does not exist)">South Pole Ice Core Project</a></li>
+<li><a href="/w/index.php?title=Arctic_Ice_Core_Project&amp;action=edit&amp;redlink=1" class="new" title="Arctic Ice Core Project (page does not exist)">Arctic Ice Core Project</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="See_also">See also</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit&amp;section=14" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/Climatology" title="Climatology">Climatology</a></li>
+<li><a href="/wiki/Dansgaard%E2%80%93Oeschger_event" title="Dansgaard–Oeschger event">Dansgaard–Oeschger event</a></li>
+<li><a href="/wiki/European_Project_for_Ice_Coring_in_Antarctica" title="European Project for Ice Coring in Antarctica">European Project for Ice Coring in Antarctica</a></li>
+<li><a href="/wiki/Greenland_Ice_Sheet_Project" title="Greenland Ice Sheet Project">Greenland Ice Sheet Project</a></li>
+<li><a href="/wiki/Ice_core" title="Ice core">Ice core</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Sources">Sources</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit&amp;section=15" title="Edit section: Sources"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><style data-mw-deduplicate="TemplateStyles:r1238218222">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</style><cite id="CITEREFIce_and_Climate_Group" class="citation web cs1">Ice and Climate Group. <a rel="nofollow" class="external text" href="http://neem.dk/documentation/2015/Renland-EGRIP2015FieldPlan.pdf">"Field season 2015 East GReenland Ice core Project (EGRIP) 2015-2020: Moving NEEM camp to new EGRIP drilling site. and REnland ice CAp Project (RECAP) 2015"</a> <span class="cs1-format">(PDF)</span>. <i>NEEM - University of Copenhagen</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NEEM+-+University+of+Copenhagen&amp;rft.atitle=Field+season+2015+East+GReenland+Ice+core+Project+%28EGRIP%29+2015-2020%3A+Moving+NEEM+camp+to+new+EGRIP+drilling+site.+and+REnland+ice+CAp+Project+%28RECAP%29+2015.&amp;rft.au=Ice+and+Climate+Group&amp;rft_id=http%3A%2F%2Fneem.dk%2Fdocumentation%2F2015%2FRenland-EGRIP2015FieldPlan.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></li>
+<li>Alley, RB, Andrews, J., <a href="/wiki/Julie_Brigham-Grette" title="Julie Brigham-Grette">Brigham-Grette, J</a>, Clarke, GK., Cuffey, K., Fitzpatrick, J., Funder, S, Marshall, S., Miller, G., Mitrovica, J., Muhs, D., Otto-Bliesner, B., Polyak, L, &amp; White, JW., (2010). ‘History of the Greenland Ice Sheet: paleoclimatic insights’, Quaternary Science Reviews, vol. 29, no. 15, pp.&#160;1728–1756, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.quascirev.2010.02.007">10.1016/j.quascirev.2010.02.007</a></li>
+<li>Anklin, J., Barnola, J., Beer, T., Blunier, J., Chappellaz, H., Clausen, D., … Thorsteinsson, W. (1993). Climate instability during the last interglacial period recorded in the Greenland Ice-core Project. Nature (London), 364(6434), 203–207.</li>
+<li>Arctic Challenge of Sustainability. (2017). ‘Deep ice coring under the EGRIP in 2017’. Arctic Challenge for Sustainability Project. Retrieved from https://www.nipr.ac.jp/arcs/blog/en/2017/12/EGRIP2017-2.html</li>
+<li>Christ, Bierman, P. R., Schaefer, J. M., Dahl-Jensen, D., Steffensen, J. P., Corbett, L. B., Peteet, D. M., Thomas, E. K., Steig, E. J., Rittenour, T. M., Tison, J.-L., Blard, P.-H., Perdrial, N., Dethier, D. P., Lini, A., Hidy, A. J., Caffee, M. W., &amp; Southon, J. (2021). A multimillion-year-old record of Greenland vegetation and glacial history preserved in sediment beneath 1.4&#160;km of ice at Camp Century. Proceedings of the National Academy of Sciences - PNAS, 118(13), 1–. https://doi.org/10.1073/pnas.2021442118</li>
+<li>Dansgaard, W., Johnsen, S. J., Clausen, H. B., Dahljensen, D., Gundestrup, N. S., Hammer, C. U., Hvidberg, C. S., Steffensen, J. P., Sveinbjornsdottir, A. E., Jouzel, J. and Bond, G. (1993) Evidence for general instability of past climate from a 250-kyr ice-core record. Nature, 364, 218‒220.</li>
+<li>European Science Foundation. (2010). Greenland Icecore Project (GRIP). Retrieved from https://web.archive.org/web/20120207150245/http://www.esf.org/activities/research-networking-programmes/life-earth-and-environmental-sciences-lesc/completed-esf-research-networking-programmes-in-life-earth-and-environmental-sciences/greenland-icecore-project-grip/more-information.html</li>
+<li>Gerber, T. A., Hvidberg, C. S., Rasmussen, S. O., Franke, S., Sinnl, G., Grinsted, A., … Dahl-Jensen, D. (2021). Upstream flow effects revealed in the EastGRIP ice core using Monte Carlo inversion of a two-dimensional ice-flow model. The Cryosphere, 15(8), 3655–3679. https://doi.org/10.5194/tc-15-3655-2021</li>
+<li>Hokkaido University, (2022). ‘Greenland ice sheet may halve in volume by year 3000’. Retrieved from https://www.global.hokudai.ac.jp/blog/greenland-ice-sheet-may-halve-in-volume-by-year-3000/</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFT._F._Stocker,_D._Qin,_G.-K._Plattner,_M._Tignor,_S._K._Allen,_J._Boschung,_A._Nauels,_Y._Xia,_V._Bex_and_P._M._Midgley" class="citation report cs1">T. F. Stocker, D. Qin, G.-K. Plattner, M. Tignor, S. K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P. M. Midgley (ed.). <a rel="nofollow" class="external text" href="https://www.ipcc.ch/report/ar5/wg1/">IPCC (2013) Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</a> (Report). <a href="/wiki/IPCC" class="mw-redirect" title="IPCC">IPCC</a>/Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. p.&#160;1535.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=report&amp;rft.btitle=IPCC+%282013%29+Climate+Change+2013%3A+The+Physical+Science+Basis.+Contribution+of+Working+Group+I+to+the+Fifth+Assessment+Report+of+the+Intergovernmental+Panel+on+Climate+Change&amp;rft.pages=1535&amp;rft.pub=IPCC%2FCambridge+University+Press%2C+Cambridge%2C+United+Kingdom+and+New+York%2C+NY%2C+USA&amp;rft_id=https%3A%2F%2Fwww.ipcc.ch%2Freport%2Far5%2Fwg1%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span><span class="cs1-maint citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_report" title="Template:Cite report">cite report</a>}}</code>:  CS1 maint: multiple names: editors list (<a href="/wiki/Category:CS1_maint:_multiple_names:_editors_list" title="Category:CS1 maint: multiple names: editors list">link</a>)</span></li>
+<li>Johnsen S. J., Clausen, H. B., Dansgaard, W., Fuhrer, K., Gundestrup, N., Hammer, C. U., Iversen, P., Jouzel, J., Stauffer, B. and Steffensen, J. P. (1992). Irregular glacial interstadials recorded in a new Greenland ice core. Nature, 359, 311‒313.</li>
+<li>Masson-Delmotte, V., Landais, A., Stievenard, M., Cattani, O., Falourd, S., Jouzel, J., … Fischer, H. (2005). Holocene climatic changes in Greenland: Different deuterium excess signals at Greenland Ice Core Project (GRIP) and NorthGRIP. Journal of Geophysical Research - Atmospheres, 110(D14), D14102–n/a. https://doi.org/10.1029/2004JD005575</li>
+<li>NEEM community members. (2013). Eemian interglacial reconstructed from a Greenland folded ice core. Nature, 493, 489‒494.</li>
+<li>North Greenland Ice Core Project members. (2004). Highresolution record of Northern Hemisphere climate extending into the last interglacial period. Nature, 431, 147‒151.</li>
+<li>Sakurai, Iizuka, Y., Horikawa, S., Johnsen, S., Dahl-jensen, D., Steffensen, J. P., &amp; Hondoh, T. (2009). Direct observation of salts as micro-inclusions in the Greenland GRIP ice core. Journal of Glaciology, 55(193), 777–783. https://doi.org/10.3189/002214309790152483</li>
+<li>SPICEcore, (n.d.). ‘South Pole Ice Core’. Retrieved from https://spicecore.org/about/</li>
+<li>Stauffer, B. (1993). ‘The Greenland Ice Core Project’. In Science, vol. 260, no. 5115, pp.&#160;1766-1767, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1126%2Fscience.260.5115.1766">10.1126/science.260.5115.1766</a></li>
+<li>Steffensen, J. P., Andersen, K. K., Masson-Delmotte, V., Popp, T., Rasmussen, S. O., Röthlisberger, R., ... Jouzel, J. (2008). High-Resolution Greenland Ice Core Data Show Abrupt Climate Change Happens in Few Years. Science (American Association for the Advancement of Science), 321(5889), 680–684. https://doi.org/10.1126/science.1157707</li>
+<li>Tandon, A. (2020). ‘New climate models suggest faster melting of the Greenland Ice Sheet’, Carbon Brief. Retrieved from https://www.carbonbrief.org/new-climate-models-suggest-faster-melting-of-the-greenland-ice-sheet/</li>
+<li>University of Copenhagen. (n.d.). ‘The Central Greenland Ice Cores’. Retrieved from https://www.iceandclimate.nbi.ku.dk/research/drill_analysing/history_drilling/central_ice_cores/</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="References">References</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit&amp;section=16" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r1239543626">.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-:12-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-:12_1-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120208131950/http://www.esf.org/activities/research-networking-programmes/life-earth-and-environmental-sciences-lesc/completed-esf-research-networking-programmes-in-life-earth-and-environmental-sciences/greenland-icecore-project-grip.html">"Greenland Icecore Project (GRIP): European Science Foundation"</a>. <i>European Science Foundation</i>. Archived from <a rel="nofollow" class="external text" href="http://www.esf.org/activities/research-networking-programmes/life-earth-and-environmental-sciences-lesc/completed-esf-research-networking-programmes-in-life-earth-and-environmental-sciences/greenland-icecore-project-grip.html">the original</a> on 8 February 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=European+Science+Foundation&amp;rft.atitle=Greenland+Icecore+Project+%28GRIP%29%3A+European+Science+Foundation&amp;rft_id=http%3A%2F%2Fwww.esf.org%2Factivities%2Fresearch-networking-programmes%2Flife-earth-and-environmental-sciences-lesc%2Fcompleted-esf-research-networking-programmes-in-life-earth-and-environmental-sciences%2Fgreenland-icecore-project-grip.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:0_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120207150245/http://www.esf.org/activities/research-networking-programmes/life-earth-and-environmental-sciences-lesc/completed-esf-research-networking-programmes-in-life-earth-and-environmental-sciences/greenland-icecore-project-grip/more-information.html">"More Information: European Science Foundation"</a>. <i>European Science Foundation</i>. 24 August 2010. Archived from <a rel="nofollow" class="external text" href="http://www.esf.org/activities/research-networking-programmes/life-earth-and-environmental-sciences-lesc/completed-esf-research-networking-programmes-in-life-earth-and-environmental-sciences/greenland-icecore-project-grip/more-information.html">the original</a> on 7 February 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=European+Science+Foundation&amp;rft.atitle=More+Information%3A+European+Science+Foundation&amp;rft.date=2010-08-24&amp;rft_id=http%3A%2F%2Fwww.esf.org%2Factivities%2Fresearch-networking-programmes%2Flife-earth-and-environmental-sciences-lesc%2Fcompleted-esf-research-networking-programmes-in-life-earth-and-environmental-sciences%2Fgreenland-icecore-project-grip%2Fmore-information.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:1-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFStauffer1993" class="citation journal cs1">Stauffer, Bernhard (1993-06-18). <a rel="nofollow" class="external text" href="https://www.science.org/doi/10.1126/science.260.5115.1766">"The Greenland Ice Core Project"</a>. <i>Science</i>. <b>260</b> (5115): <span class="nowrap">1766–</span>1767. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/1993Sci...260.1766S">1993Sci...260.1766S</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1126%2Fscience.260.5115.1766">10.1126/science.260.5115.1766</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://search.worldcat.org/issn/0036-8075">0036-8075</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/17793652">17793652</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=The+Greenland+Ice+Core+Project&amp;rft.volume=260&amp;rft.issue=5115&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E1766-%3C%2Fspan%3E1767&amp;rft.date=1993-06-18&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.260.5115.1766&amp;rft.issn=0036-8075&amp;rft_id=info%3Apmid%2F17793652&amp;rft_id=info%3Abibcode%2F1993Sci...260.1766S&amp;rft.aulast=Stauffer&amp;rft.aufirst=Bernhard&amp;rft_id=https%3A%2F%2Fwww.science.org%2Fdoi%2F10.1126%2Fscience.260.5115.1766&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></span>
+</li>
+<li id="cite_note-esf.org-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-esf.org_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-esf.org_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120207150245/http://www.esf.org/activities/research-networking-programmes/life-earth-and-environmental-sciences-lesc/completed-esf-research-networking-programmes-in-life-earth-and-environmental-sciences/greenland-icecore-project-grip/more-information.html">"More Information&#160;: European Science Foundation"</a>. 2012-02-07. Archived from <a rel="nofollow" class="external text" href="http://www.esf.org/activities/research-networking-programmes/life-earth-and-environmental-sciences-lesc/completed-esf-research-networking-programmes-in-life-earth-and-environmental-sciences/greenland-icecore-project-grip/more-information.html">the original</a> on 2012-02-07<span class="reference-accessdate">. Retrieved <span class="nowrap">2022-05-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=More+Information+%3A+European+Science+Foundation&amp;rft.date=2012-02-07&amp;rft_id=http%3A%2F%2Fwww.esf.org%2Factivities%2Fresearch-networking-programmes%2Flife-earth-and-environmental-sciences-lesc%2Fcompleted-esf-research-networking-programmes-in-life-earth-and-environmental-sciences%2Fgreenland-icecore-project-grip%2Fmore-information.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:2-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.global.hokudai.ac.jp/blog/greenland-ice-sheet-may-halve-in-volume-by-year-3000/">"Greenland ice sheet may halve in volume by the year 3000"</a>. <i>Hokkaido University</i>. 2022-03-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2022-05-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hokkaido+University&amp;rft.atitle=Greenland+ice+sheet+may+halve+in+volume+by+the+year+3000&amp;rft.date=2022-03-14&amp;rft_id=https%3A%2F%2Fwww.global.hokudai.ac.jp%2Fblog%2Fgreenland-ice-sheet-may-halve-in-volume-by-year-3000%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">IPCC (2013) Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (ed. T. F. Stocker, D. Qin, G.-K. Plattner, M. Tignor, S. K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex, and P. M. Midgley), Cambridge University Press, Cambridge, United Kingdom, and New York, NY, USA, 1535 pp</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFChristBiermanSchaeferDahl-Jensen2021" class="citation journal cs1">Christ, Andrew J.; Bierman, Paul R.; Schaefer, Joerg M.; Dahl-Jensen, Dorthe; Steffensen, Jørgen P.; Corbett, Lee B.; Peteet, Dorothy M.; Thomas, Elizabeth K.; Steig, Eric J.; Rittenour, Tammy M.; Tison, Jean-Louis (2021-03-30). <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8020747">"A multimillion-year-old record of Greenland vegetation and glacial history preserved in sediment beneath 1.4 km of ice at Camp Century"</a>. <i>Proceedings of the National Academy of Sciences</i>. <b>118</b> (13): e2021442118. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2021PNAS..11821442C">2021PNAS..11821442C</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="id-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1073%2Fpnas.2021442118">10.1073/pnas.2021442118</a></span>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://search.worldcat.org/issn/0027-8424">0027-8424</a>. <a href="/wiki/PMC_(identifier)" class="mw-redirect" title="PMC (identifier)">PMC</a>&#160;<span class="id-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8020747">8020747</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/33723012">33723012</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences&amp;rft.atitle=A+multimillion-year-old+record+of+Greenland+vegetation+and+glacial+history+preserved+in+sediment+beneath+1.4+km+of+ice+at+Camp+Century&amp;rft.volume=118&amp;rft.issue=13&amp;rft.pages=e2021442118&amp;rft.date=2021-03-30&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC8020747%23id-name%3DPMC&amp;rft_id=info%3Abibcode%2F2021PNAS..11821442C&amp;rft_id=info%3Apmid%2F33723012&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.2021442118&amp;rft.issn=0027-8424&amp;rft.aulast=Christ&amp;rft.aufirst=Andrew+J.&amp;rft.au=Bierman%2C+Paul+R.&amp;rft.au=Schaefer%2C+Joerg+M.&amp;rft.au=Dahl-Jensen%2C+Dorthe&amp;rft.au=Steffensen%2C+J%C3%B8rgen+P.&amp;rft.au=Corbett%2C+Lee+B.&amp;rft.au=Peteet%2C+Dorothy+M.&amp;rft.au=Thomas%2C+Elizabeth+K.&amp;rft.au=Steig%2C+Eric+J.&amp;rft.au=Rittenour%2C+Tammy+M.&amp;rft.au=Tison%2C+Jean-Louis&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC8020747&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:5-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-:5_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:5_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFAlleyAndrewsBrigham-GretteClarke2010" class="citation journal cs1">Alley, Richard B.; Andrews, J.T.; <a href="/wiki/Julie_Brigham-Grette" title="Julie Brigham-Grette">Brigham-Grette, J.</a>; Clarke, G.K.C.; Cuffey, K.M.; Fitzpatrick, J.J.; Funder, S.; Marshall, S.J.; Miller, G.H.; Mitrovica, J.X.; Muhs, D.R. (July 2010). <a rel="nofollow" class="external text" href="https://linkinghub.elsevier.com/retrieve/pii/S0277379110000399">"History of the Greenland Ice Sheet: paleoclimatic insights"</a>. <i>Quaternary Science Reviews</i>. <b>29</b> (<span class="nowrap">15–</span>16): <span class="nowrap">1728–</span>1756. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2010QSRv...29.1728A">2010QSRv...29.1728A</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.quascirev.2010.02.007">10.1016/j.quascirev.2010.02.007</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Quaternary+Science+Reviews&amp;rft.atitle=History+of+the+Greenland+Ice+Sheet%3A+paleoclimatic+insights&amp;rft.volume=29&amp;rft.issue=%3Cspan+class%3D%22nowrap%22%3E15%E2%80%93%3C%2Fspan%3E16&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E1728-%3C%2Fspan%3E1756&amp;rft.date=2010-07&amp;rft_id=info%3Adoi%2F10.1016%2Fj.quascirev.2010.02.007&amp;rft_id=info%3Abibcode%2F2010QSRv...29.1728A&amp;rft.aulast=Alley&amp;rft.aufirst=Richard+B.&amp;rft.au=Andrews%2C+J.T.&amp;rft.au=Brigham-Grette%2C+J.&amp;rft.au=Clarke%2C+G.K.C.&amp;rft.au=Cuffey%2C+K.M.&amp;rft.au=Fitzpatrick%2C+J.J.&amp;rft.au=Funder%2C+S.&amp;rft.au=Marshall%2C+S.J.&amp;rft.au=Miller%2C+G.H.&amp;rft.au=Mitrovica%2C+J.X.&amp;rft.au=Muhs%2C+D.R.&amp;rft_id=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0277379110000399&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.carbonbrief.org/new-climate-models-suggest-faster-melting-of-the-greenland-ice-sheet/">"New climate models suggest faster melting of the Greenland Ice Sheet"</a>. <i>Carbon Brief</i>. 2020-12-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2022-05-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Carbon+Brief&amp;rft.atitle=New+climate+models+suggest+faster+melting+of+the+Greenland+Ice+Sheet&amp;rft.date=2020-12-15&amp;rft_id=https%3A%2F%2Fwww.carbonbrief.org%2Fnew-climate-models-suggest-faster-melting-of-the-greenland-ice-sheet%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:6-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-:6_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:6_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Dansgaard, W., Johnsen, S. J., Clausen, H. B., Dahljensen, D., Gundestrup, N. S., Hammer, C. U., Hvidberg, C. S., Steffensen, J. P., Sveinbjornsdottir, A. E., Jouzel, J. and Bond, G. (1993). Evidence for general instability of past climate from a 250-kyr ice-core record. Nature, 364, 218‒220.</span>
+</li>
+<li id="cite_note-:3-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-:3_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:3_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:3_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:3_11-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:3_11-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-:3_11-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFIs-2008" class="citation web cs1">Is-, klima-og geofysik (2008-10-01). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220813083330/https://www.iceandclimate.nbi.ku.dk/research/drill_analysing/history_drilling/central_ice_cores/">"The central Greenland ice cores"</a>. <i>www.iceandclimate.nbi.ku.dk</i>. Archived from <a rel="nofollow" class="external text" href="https://www.iceandclimate.nbi.ku.dk/research/drill_analysing/history_drilling/central_ice_cores/">the original</a> on 2022-08-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2022-05-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.iceandclimate.nbi.ku.dk&amp;rft.atitle=The+central+Greenland+ice+cores&amp;rft.date=2008-10-01&amp;rft.aulast=Is-&amp;rft.aufirst=klima-og+geofysik&amp;rft_id=https%3A%2F%2Fwww.iceandclimate.nbi.ku.dk%2Fresearch%2Fdrill_analysing%2Fhistory_drilling%2Fcentral_ice_cores%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFIce_and_Climate_Group" class="citation web cs1">Ice and Climate Group. <a rel="nofollow" class="external text" href="http://neem.dk/documentation/2015/Renland-EGRIP2015FieldPlan.pdf">"Field season 2015 East GReenland Ice core Project (EGRIP) 2015-2020: Moving NEEM camp to new EGRIP drilling site. and REnland ice CAp Project (RECAP) 2015"</a> <span class="cs1-format">(PDF)</span>. <i>NEEM - University of Copenhagen</i>. p.&#160;82<span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NEEM+-+University+of+Copenhagen&amp;rft.atitle=Field+season+2015+East+GReenland+Ice+core+Project+%28EGRIP%29+2015-2020%3A+Moving+NEEM+camp+to+new+EGRIP+drilling+site.+and+REnland+ice+CAp+Project+%28RECAP%29+2015.&amp;rft.pages=82&amp;rft.au=Ice+and+Climate+Group&amp;rft_id=http%3A%2F%2Fneem.dk%2Fdocumentation%2F2015%2FRenland-EGRIP2015FieldPlan.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:4-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-:4_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:4_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:4_13-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFSakuraiIizukaHorikawaJohnsen2009" class="citation journal cs1">Sakurai, Toshimitsu; Iizuka, Yoshinori; Horikawa, Shinichiro; Johnsen, Sigfús; Dahl-jensen, Dorthe; Steffensen, Jørgen Peder; Hondoh, Takeo (2009). <a rel="nofollow" class="external text" href="https://doi.org/10.3189%2F002214309790152483">"Direct observation of salts as micro-inclusions in the Greenland GRIP ice core"</a>. <i>Journal of Glaciology</i>. <b>55</b> (193): <span class="nowrap">777–</span>783. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2009JGlac..55..777S">2009JGlac..55..777S</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="id-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.3189%2F002214309790152483">10.3189/002214309790152483</a></span>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://search.worldcat.org/issn/0022-1430">0022-1430</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:129145867">129145867</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Glaciology&amp;rft.atitle=Direct+observation+of+salts+as+micro-inclusions+in+the+Greenland+GRIP+ice+core&amp;rft.volume=55&amp;rft.issue=193&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E777-%3C%2Fspan%3E783&amp;rft.date=2009&amp;rft_id=info%3Adoi%2F10.3189%2F002214309790152483&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A129145867%23id-name%3DS2CID&amp;rft.issn=0022-1430&amp;rft_id=info%3Abibcode%2F2009JGlac..55..777S&amp;rft.aulast=Sakurai&amp;rft.aufirst=Toshimitsu&amp;rft.au=Iizuka%2C+Yoshinori&amp;rft.au=Horikawa%2C+Shinichiro&amp;rft.au=Johnsen%2C+Sigf%C3%BAs&amp;rft.au=Dahl-jensen%2C+Dorthe&amp;rft.au=Steffensen%2C+J%C3%B8rgen+Peder&amp;rft.au=Hondoh%2C+Takeo&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.3189%252F002214309790152483&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ncdc.noaa.gov/paleo/icecore/greenland/summit/document/gripinfo.htm">"Ice Core"</a>. October 2020.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ice+Core&amp;rft.date=2020-10&amp;rft_id=http%3A%2F%2Fwww.ncdc.noaa.gov%2Fpaleo%2Ficecore%2Fgreenland%2Fsummit%2Fdocument%2Fgripinfo.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:7-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-:7_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:7_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFGrootesStuiverWhiteJohnsen1993" class="citation journal cs1">Grootes, P. M.; Stuiver, M.; White, J. W. C.; Johnsen, S.; Jouzel, J. (December 1993). <a rel="nofollow" class="external text" href="https://www.nature.com/articles/366552a0">"Comparison of oxygen isotope records from the GISP2 and GRIP Greenland ice cores"</a>. <i>Nature</i>. <b>366</b> (6455): <span class="nowrap">552–</span>554. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/1993Natur.366..552G">1993Natur.366..552G</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1038%2F366552a0">10.1038/366552a0</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://search.worldcat.org/issn/1476-4687">1476-4687</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:4363301">4363301</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Comparison+of+oxygen+isotope+records+from+the+GISP2+and+GRIP+Greenland+ice+cores&amp;rft.volume=366&amp;rft.issue=6455&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E552-%3C%2Fspan%3E554&amp;rft.date=1993-12&amp;rft_id=info%3Adoi%2F10.1038%2F366552a0&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A4363301%23id-name%3DS2CID&amp;rft.issn=1476-4687&amp;rft_id=info%3Abibcode%2F1993Natur.366..552G&amp;rft.aulast=Grootes&amp;rft.aufirst=P.+M.&amp;rft.au=Stuiver%2C+M.&amp;rft.au=White%2C+J.+W.+C.&amp;rft.au=Johnsen%2C+S.&amp;rft.au=Jouzel%2C+J.&amp;rft_id=https%3A%2F%2Fwww.nature.com%2Farticles%2F366552a0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFVintherBuchardtClausenDahl-Jensen2009" class="citation journal cs1">Vinther, B. M.; Buchardt, S. L.; Clausen, H. B.; Dahl-Jensen, D.; Johnsen, S. J.; Fisher, D. A.; Koerner, R. M.; Raynaud, D.; Lipenkov, V.; Andersen, K. K.; Blunier, T.; Rasmussen, S. O.; Steffensen, J. P.; Svensson, A. M. (September 2009). <a rel="nofollow" class="external text" href="https://www.nature.com/articles/nature08355.epdf?sharing_token=eD4rVMkJ0TjuPK0b6Lf75NRgN0jAjWel9jnR3ZoTv0PJTwhPVzcLJWnDU5a2GpVVTFnewCqFkN7fawPAD-gSd7gHKqJ8KTwrwah_BjmM__m0DCS1QTb6dGPM3DBS9bj1uuLYx7GYABX6z0p2AS_CWMisY8hfokf7DY78JM8zkajOwP3DE-Sdk-QbiYiDUnKetzYmznh9iq3MmYNjku6jug==&amp;tracking_referrer=www.carbonbrief.org">"Holocene thinning of the Greenland ice sheet"</a>. <i>Nature</i>. <b>461</b> (7262): <span class="nowrap">385–</span>388. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2009Natur.461..385V">2009Natur.461..385V</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1038%2Fnature08355">10.1038/nature08355</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://search.worldcat.org/issn/0028-0836">0028-0836</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/19759618">19759618</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:4426637">4426637</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Holocene+thinning+of+the+Greenland+ice+sheet&amp;rft.volume=461&amp;rft.issue=7262&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E385-%3C%2Fspan%3E388&amp;rft.date=2009-09&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A4426637%23id-name%3DS2CID&amp;rft_id=info%3Abibcode%2F2009Natur.461..385V&amp;rft.issn=0028-0836&amp;rft_id=info%3Adoi%2F10.1038%2Fnature08355&amp;rft_id=info%3Apmid%2F19759618&amp;rft.aulast=Vinther&amp;rft.aufirst=B.+M.&amp;rft.au=Buchardt%2C+S.+L.&amp;rft.au=Clausen%2C+H.+B.&amp;rft.au=Dahl-Jensen%2C+D.&amp;rft.au=Johnsen%2C+S.+J.&amp;rft.au=Fisher%2C+D.+A.&amp;rft.au=Koerner%2C+R.+M.&amp;rft.au=Raynaud%2C+D.&amp;rft.au=Lipenkov%2C+V.&amp;rft.au=Andersen%2C+K.+K.&amp;rft.au=Blunier%2C+T.&amp;rft.au=Rasmussen%2C+S.+O.&amp;rft.au=Steffensen%2C+J.+P.&amp;rft.au=Svensson%2C+A.+M.&amp;rft_id=https%3A%2F%2Fwww.nature.com%2Farticles%2Fnature08355.epdf%3Fsharing_token%3DeD4rVMkJ0TjuPK0b6Lf75NRgN0jAjWel9jnR3ZoTv0PJTwhPVzcLJWnDU5a2GpVVTFnewCqFkN7fawPAD-gSd7gHKqJ8KTwrwah_BjmM&#95;_m0DCS1QTb6dGPM3DBS9bj1uuLYx7GYABX6z0p2AS_CWMisY8hfokf7DY78JM8zkajOwP3DE-Sdk-QbiYiDUnKetzYmznh9iq3MmYNjku6jug%3D%3D%26tracking_referrer%3Dwww.carbonbrief.org&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">North Greenland Ice Core Project members. (2004). High-resolution record of Northern Hemisphere climate extending into the last interglacial period. Nature, 431, 147‒151.</span>
+</li>
+<li id="cite_note-:8-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-:8_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:8_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFMasson-DelmotteLandaisStievenardCattani2005" class="citation journal cs1">Masson-Delmotte, V.; Landais, A.; Stievenard, M.; Cattani, O.; Falourd, S.; Jouzel, J.; Johnsen, S. J.; Dahl-Jensen, D.; Sveinsbjornsdottir, A.; White, J. W. C.; Popp, T. (2005-07-27). <a rel="nofollow" class="external text" href="https://doi.org/10.1029%2F2004JD005575">"Holocene climatic changes in Greenland: Different deuterium excess signals at Greenland Ice Core Project (GRIP) and NorthGRIP: Greenland Holocene Deuterium Excess"</a>. <i>Journal of Geophysical Research: Atmospheres</i>. <b>110</b> (D14): n/a. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="id-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1029%2F2004JD005575">10.1029/2004JD005575</a></span>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:54660464">54660464</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geophysical+Research%3A+Atmospheres&amp;rft.atitle=Holocene+climatic+changes+in+Greenland%3A+Different+deuterium+excess+signals+at+Greenland+Ice+Core+Project+%28GRIP%29+and+NorthGRIP%3A+Greenland+Holocene+Deuterium+Excess&amp;rft.volume=110&amp;rft.issue=D14&amp;rft.pages=n%2Fa&amp;rft.date=2005-07-27&amp;rft_id=info%3Adoi%2F10.1029%2F2004JD005575&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A54660464%23id-name%3DS2CID&amp;rft.aulast=Masson-Delmotte&amp;rft.aufirst=V.&amp;rft.au=Landais%2C+A.&amp;rft.au=Stievenard%2C+M.&amp;rft.au=Cattani%2C+O.&amp;rft.au=Falourd%2C+S.&amp;rft.au=Jouzel%2C+J.&amp;rft.au=Johnsen%2C+S.+J.&amp;rft.au=Dahl-Jensen%2C+D.&amp;rft.au=Sveinsbjornsdottir%2C+A.&amp;rft.au=White%2C+J.+W.+C.&amp;rft.au=Popp%2C+T.&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.1029%252F2004JD005575&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:9-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-:9_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:9_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:9_19-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">NEEM community members. (2013). Eemian interglacial reconstructed from a Greenland folded ice core. Nature, 493, 489‒494.</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Anklin, J., Barnola, J., Beer, T., Blunier, J., Chappellaz, H., Clausen, D., … Thorsteinsson, W. (1993). Climate instability during the last interglacial period was recorded in the Greenland Ice-core Project. Nature (London), 364(6434), 203–207.</span>
+</li>
+<li id="cite_note-:10-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-:10_21-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFGerberHvidbergRasmussenFranke2021" class="citation journal cs1">Gerber, Tamara Annina; Hvidberg, Christine Schøtt; Rasmussen, Sune Olander; Franke, Steven; Sinnl, Giulia; Grinsted, Aslak; Jansen, Daniela; Dahl-Jensen, Dorthe (2021-08-06). <a rel="nofollow" class="external text" href="https://tc.copernicus.org/articles/15/3655/2021/">"Upstream flow effects revealed in the EastGRIP ice core using Monte Carlo inversion of a two-dimensional ice-flow model"</a>. <i>The Cryosphere</i>. <b>15</b> (8): <span class="nowrap">3655–</span>3679. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2021TCry...15.3655A">2021TCry...15.3655A</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="id-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.5194%2Ftc-15-3655-2021">10.5194/tc-15-3655-2021</a></span>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://search.worldcat.org/issn/1994-0416">1994-0416</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:238212038">238212038</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Cryosphere&amp;rft.atitle=Upstream+flow+effects+revealed+in+the+EastGRIP+ice+core+using+Monte+Carlo+inversion+of+a+two-dimensional+ice-flow+model&amp;rft.volume=15&amp;rft.issue=8&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E3655-%3C%2Fspan%3E3679&amp;rft.date=2021-08-06&amp;rft_id=info%3Adoi%2F10.5194%2Ftc-15-3655-2021&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A238212038%23id-name%3DS2CID&amp;rft.issn=1994-0416&amp;rft_id=info%3Abibcode%2F2021TCry...15.3655A&amp;rft.aulast=Gerber&amp;rft.aufirst=Tamara+Annina&amp;rft.au=Hvidberg%2C+Christine+Sch%C3%B8tt&amp;rft.au=Rasmussen%2C+Sune+Olander&amp;rft.au=Franke%2C+Steven&amp;rft.au=Sinnl%2C+Giulia&amp;rft.au=Grinsted%2C+Aslak&amp;rft.au=Jansen%2C+Daniela&amp;rft.au=Dahl-Jensen%2C+Dorthe&amp;rft_id=https%3A%2F%2Ftc.copernicus.org%2Farticles%2F15%2F3655%2F2021%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:11-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-:11_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:11_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.nipr.ac.jp/arcs/blog/en/2017/12/EGRIP2017-2.html">"Deep ice coring under the EGRIP in 2017"</a>. <i>ArCS Blog - Arctic Challenge for Sustainability Project</i>. 26 December 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">2022-05-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ArCS+Blog+-+Arctic+Challenge+for+Sustainability+Project&amp;rft.atitle=Deep+ice+coring+under+the+EGRIP+in+2017&amp;rft.date=2017-12-26&amp;rft_id=https%3A%2F%2Fwww.nipr.ac.jp%2Farcs%2Fblog%2Fen%2F2017%2F12%2FEGRIP2017-2.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenland+ice+core+project" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="External_links">External links</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenland_ice_core_project&amp;action=edit&amp;section=17" title="Edit section: External links"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The GRIP logistics were managed by what is now called Centre for Ice and Climate at the Niels Bohr Institute, University of Copenhagen, Denmark. This research centre maintains a web page about ice core research:
+</p>
+<ul><li><a rel="nofollow" class="external free" href="http://www.iceandclimate.nbi.ku.dk/research/drill_analysing/history_drilling/central_ice_cores/">http://www.iceandclimate.nbi.ku.dk/research/drill_analysing/history_drilling/central_ice_cores/</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161221075134/http://www.iceandclimate.nbi.ku.dk/research/drill_analysing/history_drilling/central_ice_cores/">Archived</a> 2016-12-21 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li></ul>
+<p>Other links:
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://www.ncdc.noaa.gov/paleo/icecore/greenland/summit/document/gripinfo.htm">GRIP info</a> from the <a href="/wiki/National_Climatic_Data_Center" title="National Climatic Data Center">NCDC</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nerc-bas.ac.uk/icd/grip/griplist.html">GRIP publications list</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐8445b8969b‐xgj9h
+Cached time: 20241228155057
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.311 seconds
+Real time usage: 0.399 seconds
+Preprocessor visited node count: 1776/1000000
+Post‐expand include size: 58255/2097152 bytes
+Template argument size: 720/2097152 bytes
+Highest expansion depth: 8/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 88511/5000000 bytes
+Lua time usage: 0.172/10.000 seconds
+Lua memory usage: 5482120/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  330.127      1 -total
+ 33.46%  110.447      1 Template:Reflist
+ 30.32%  100.092     10 Template:Cite_web
+ 23.35%   77.071      1 Template:Short_description
+ 17.19%   56.764      8 Template:Cite_journal
+ 13.22%   43.648      2 Template:Pagetype
+  6.91%   22.824      3 Template:Main_other
+  6.33%   20.905      1 Template:SDcat
+  4.78%   15.776      1 Template:Coord
+  4.57%   15.078      2 Template:Doi
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:1770354:|#|:idhash:canonical and timestamp 20241228155057 and revision id 1242467115. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Greenland_ice_core_project&amp;oldid=1242467115">https://en.wikipedia.org/w/index.php?title=Greenland_ice_core_project&amp;oldid=1242467115</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Geochronological_institutions_and_organizations" title="Category:Geochronological institutions and organizations">Geochronological institutions and organizations</a></li><li><a href="/wiki/Category:Research_projects" title="Category:Research projects">Research projects</a></li><li><a href="/wiki/Category:Arctic_research" title="Category:Arctic research">Arctic research</a></li><li><a href="/wiki/Category:Climate_of_Greenland" title="Category:Climate of Greenland">Climate of Greenland</a></li><li><a href="/wiki/Category:Climate_change" title="Category:Climate change">Climate change</a></li><li><a href="/wiki/Category:Greenland_and_the_European_Union" title="Category:Greenland and the European Union">Greenland and the European Union</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Pages_using_gadget_WikiMiniAtlas" title="Category:Pages using gadget WikiMiniAtlas">Pages using gadget WikiMiniAtlas</a></li><li><a href="/wiki/Category:CS1_maint:_multiple_names:_editors_list" title="Category:CS1 maint: multiple names: editors list">CS1 maint: multiple names: editors list</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 26 August 2024, at 23:23<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a href="/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" title="Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License">Creative Commons Attribution-ShareAlike 4.0 License</a>;
+additional terms may apply. By using this site, you agree to the <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use" class="extiw" title="foundation:Special:MyLanguage/Policy:Terms of Use">Terms of Use</a> and <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy" class="extiw" title="foundation:Special:MyLanguage/Policy:Privacy policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Greenland_ice_core_project&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="/static/images/footer/wikimedia-button.svg" width="84" height="29" alt="Wikimedia Foundation" loading="lazy"></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="/w/resources/assets/poweredby_mediawiki.svg" alt="Powered by MediaWiki" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul></ul>
+</div><script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8445b8969b-fnh76","wgBackendResponseTime":157,"wgPageParseReport":{"limitreport":{"cputime":"0.311","walltime":"0.399","ppvisitednodes":{"value":1776,"limit":1000000},"postexpandincludesize":{"value":58255,"limit":2097152},"templateargumentsize":{"value":720,"limit":2097152},"expansiondepth":{"value":8,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":88511,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  330.127      1 -total"," 33.46%  110.447      1 Template:Reflist"," 30.32%  100.092     10 Template:Cite_web"," 23.35%   77.071      1 Template:Short_description"," 17.19%   56.764      8 Template:Cite_journal"," 13.22%   43.648      2 Template:Pagetype","  6.91%   22.824      3 Template:Main_other","  6.33%   20.905      1 Template:SDcat","  4.78%   15.776      1 Template:Coord","  4.57%   15.078      2 Template:Doi"]},"scribunto":{"limitreport-timeusage":{"value":"0.172","limit":"10.000"},"limitreport-memusage":{"value":5482120,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-8445b8969b-xgj9h","timestamp":"20241228155057","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Greenland ice core project","url":"https:\/\/en.wikipedia.org\/wiki\/Greenland_ice_core_project","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1544733","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1544733","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-20T18:39:59Z","dateModified":"2024-08-26T23:23:03Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/be\/Gripdome.jpg","headline":"scientific project to drill to the bed of the Greenland ice sheet"}</script>
+</body>
+</html>

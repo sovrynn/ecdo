@@ -1,0 +1,2537 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Egyptian Dark Ages
+
+Basic location of event: Egypt
+
+Specific data/information/context related to event: The Dark Ages in Ancient History
+1. The First Dark Age in Egypt!
+BARBARA BELL
+Prehistoric Climate 3
+Decline of the Neolithic Wet Phase 5
+The Nile 6
+Introduction I Texts relating to the first great famine,
+c. 2180-c. 2130 B.C. 8
+Texts from the years c. 2150-C. 2000 B.C 14
+Texts from the years c. 2002-C. 1950 B.C. 16
+Discussion .................................................................... 19
+The First Dark Age in Egypt 7 Bibliography 24
+INTRODUCTION
+In the history of the ancient Near East two strik-
+ing Dark Ages have occurred. They occurred more
+or less simultaneously (within the limits of current
+dating accuracy) over a wide area extending at least
+from Greece to Mesopotamia and Elam, from Ana-
+tolia to Egypt, and probably beyond. In Egypt,
+where the chronology is best established, the first
+Dark Age began around 2200 B.C., when at the end
+of Dynasty VI Egypt, until then a very stable so-
+ciety, with seeming suddenness fell into anarchy.
+About the same time the Akkadian Empire disin-
+tegrated. Byblos and a number of other sites in Syr-
+ia and Palestine were destroyed by fire and some
+were abandoned for a time. Troy II, the wealthy
+citadel of Schliemann's gold treasure, was destroyed
+by fire and rebuilt on only a very shabby scale.
+Lerna and other prosperous Argolid centers were
+burned and their destruction was followed by
+greatly lessened prosperity. In western and south-
+ern Anatolia "the end of the E.B. [Early Bronze]
+2 period is marked . . . by a catastrophe of such
+magnitude as to remain unparalleled until the very
+end of the Bronze Age" (Mellaart, 1962); wide-
+spread destruction is followed by a general decline
+in material culture and a decrease by about 75 per-
+cent in the number of known settlements. We
+1 I wish to take this opportunity to thank Dr. Nicholas B.
+Millet (Harvard University) for his interest, encouragement, and
+numerous helpful discussions throughout the course of this
+study; his critical reading of the semi-final draft and advice
+on the various translations was an aid of particular value be-
+cause I do not myself have a reading knowledge of ancient
+Egyptian. The various theories set forth herein are, however,
+solely my responsibility.
+I wish to thank also Professors Sterling Dow (Harvard Uni-
+may probably include also the decline of the Indus
+Valley civilization. The radiocarbon dates of Phase
+F (mature Harappan) lie between 2100 and 1900
+B.C. (Dales 1965; half-life 5730), with an average
+of 1975 B.C. from 12 measurements. But when these
+dates are corrected for the systematic error in C- 14
+dates of this period, as determined by Suess (1967)
+and by Ralph and Michael (1969), the dates fall
+between about 2500 and 2250 B.C.
+The second Dark Age began around 1200 B.C.
+It was marked by the disappearance of the Hittite
+Empire of Anatolia and the collapse of the My-
+cenaean civilization of Greece. About the same
+time, or a little later, Egypt went into a prolonged
+decline, while Babylonia and Assyria were also
+weak for most of the 1100'S and 1000'S.
+When we turn to the revised Cambridge An-
+cient History (CAH) or other modern studies for
+explanation, we find numerous references to evi-
+dence of destruction by fire. The destruction is
+often attributed to invasions by barbarians about
+whom little is known, however, and for whose
+activities the archaeological evidence is often mea-
+ger or nonexistent. Moreover Adams (1968) has
+pointed out that the interpretation of seemingly
+violent destruction and discontinuous layering in a
+habitation site is more complex and ambiguous
+versity), Karl W. Butzer (University of Chicago), and Rhys
+Carpenter, each of whom kindly read the semi-final draft and
+made suggestions and comments which enabled me to improve
+the manuscript.
+The chronology followed in this paper is that of the revised
+Cambridge Ancient History, particularly Smith (1962) and
+H~yes ( 1961). References (with a few exceptions in the text)
+wIll be found at the end of the paper, alphabetically by author,
+and by date.
+2 BARBARA BELL [AJA 75
+than previously recognized, and cannot be con-
+sidered clear evidence of either intermittent occu-
+pation or enemy attack. He thus urges more cau-
+tion in inferring invasions when there is no clear
+positive evidence for the presence of invaders. But
+even where it is clear that barbarian invasions
+did occur, we are left with the question of whether
+they are a sufficient cause or explanation for the
+destruction of a number of apparently powerful
+and prosperous states, and why so many different
+barbarian tribes were stirred to attack centers of
+civilization at about the same time. Anyone or two
+of the above disasters, standing alone, might be
+sufficiently explained by political factors. But the
+concentration in time of so many disasters and the
+universal absence of prosperity throughout the area
+strongly suggest a common underlying cause.
+Of "historical truth," Frankfort (1951) wrote
+that a concept whereby "many seemingly unre-
+lated facts are seen to acquire meaning and coher-
+ence is likely to represent a historical reality." It is
+the thesis of this study that the two Dark Ages,
+and the numerous disasters in the periods c. 2200-
+2000 and c. 1200-900 B.C., can be given coherence
+and can all be explained at once by a single primary
+cause. The cause I postulate as "historical reality"
+is drought-widespread, severe, and prolonged-
+lasting for several decades and occurring more or
+less simultaneously over the entire eastern Medi-
+terranean and adjacent lands. This is not to deny
+the significance of contemporary political and so-
+cial factors; it is, however, to assert that a climatic-
+economic deterioration of sufficient magnitude can
+set in motion forces beyond the strength of any
+society to withstand.
+Such an hypothesis has indeed already been ad-
+vanced by Rhys Carpenter (1966) for the Second
+Dark Age, c. 1200-900 B.C.; his argument is based
+primarily on study of the decline of Mycenaean
+Greece and the Hittite Empire. And in a subse-
+quent paper I plan to discuss this period with
+primary reference to Egypt.
+The present paper will examine the evidence for
+the hypothesis that the First Dark Age of Egypt,
+the so-called First Intermediate Period, was brought
+on by a similar prolonged and intense drought.
+Later papers will examine the evidence from other
+lands, but there are several advantages in beginning
+with Egypt:
+First, Egypt was in ancient times a relatively
+isolated civilization, generally unified and free of
+civil war and, because of its formidable and well-
+defined natural frontiers, of foreign invasions. Thus
+we have here the best chance of tracing the inter-
+action of man and his natural environment, and
+making plausible inferences from the level of eco-
+nomic prosperity about fluctuations in the resources
+provided by the natural environment.
+Second, the chronology of Egypt, in the historical
+period from c. 3100 B.C. onward, is known with
+greater precision than that of any other ancient
+land. Thus whatever climatic fluctuations we de-
+duce from Egyptian history will be relatively well
+dated. Moreover we can test them by looking for
+contemporaneous patterns, that is for fluctuations
+in the direction of greater aridity or of greater mois-
+ture, in other lands; and if similar sequences can
+be found, there is a possibility of improving the
+chronology of other lands.
+Third, Egypt was a literate society, so that we
+may hope to find texts bearing on the conditions
+of the tin1es, and it is in fact the discussion of such
+texts which forms the main section of this paper.
+Mesopotamia also offers the advantage of literacy,
+but its chronology is less certain; more importantly,
+the picture there is obscured by frequent warfare
+between the cities, the lack of natural frontiers,
+recurrent invasions on a large scale, and a greater
+complexity in climatic factors. In Egypt we have to
+do essentially with the volume of the Nile, and
+particularly of its annual flood; that is, we have a
+single climatic factor to consider, rather than the
+combination of river-floods and rainfall characteris-
+tic of Mesopotamia.
+It may appear a bizarre hypothesis, even to those
+sympathetic to the concept of climate fluctuations
+as a factor in history, to link drought in the lands
+of the eastern Mediterranean, which derive their
+moisture mainly from winter rainfall, with Egypt
+which depends for its water on the Nile River-
+that is on the rainfall over central Africa (vVhite
+Nile) and on the summer monsoon rains over the
+East African highlands (Blue Nile). Nevertheless
+there is a growing body of evidence that such a
+correlation does at times occur, and indeed that it
+has occurred over the past century. Studies by
+Kraus (1954; 1955 a,b; 195 6) and by Butzer (1961)
+indicate that the average rainfall was less in many
+regions in the first four decades of this century
+than in the late decades of the nineteenth century.
+This decline occurred over a wide area of the Near
+East and North Africa, including both the northern
+1971] THE DARK AGES IN ANCIENT HISTORY 3
+and southern fringes of the Sahara, northwest
+India (Jaipur) and Pakistan (Quetta), and the
+drainage basin of the Nile. The decrease in average
+rainfall occurred also in a number of other lands
+far beyond our present interest, such as parts of
+Australia (Kraus 1954) and the Dust Bowl of the
+United States (Butzer 1961). The change over
+from the moister to the drier climate regime
+occurred quite abruptly in many places between
+1893 and 19°8, with the exact date depending upon
+the region concerned. For the Nile, the annual
+average volume of water passing Aswan was about
+25 percent less for the years 1899-1957 than for the
+years 1871-1898, with a clear and abrupt shift to
+the drier regime in 1899 (see Kraus 1956). "With-
+out the tempering effect of dams and barrages,
+agriculture in the Nile Valley would have suffered
+badly" (Butzer 1961 :50); and as a consequence
+of the widespread decline in rainfall, "Droughts
+of economic importance plagued the Levantine area
+in the 1920S and the entire Near East in the 1930S.
+Lake Aksehir in Central Anatolia dried out en-
+tirely in 1933. Similar conditions can be noted for
+the peripheries of the Sahara." And similarly in the
+Red Sea Hills of eastern Egypt, "vegetation was
+. . . more common prior to the desiccation that
+has taken place during the present century" (Trig-
+ger 1965:11).
+This evidence from the past century makes it
+more plausible that most of the Near East and the
+Nile catchment basin were afflicted more or less
+simultaneously by some decades of severe drought
+at certain times in the past.
+It is the prime thesis of my investigation, indeed,
+that a widespread drought, considerably more
+severe than the present one, occurred at intervals
+in the past and that it was precisely these droughts
+which precipitated the Dark Ages of Ancient His-
+tory. Even a moderate drought can bring famine to
+the marginally productive lands on the edges of
+the deserts and can thereby motivate tribal migra-
+tions and invasions of the better-watered river val-
+leys, a phenomenon discussed by numerous scholars
+(e.g. Brooks 1949). But a severe drought, such as
+postulated in this paper, and by Carpenter (1966),
+will bring crop failures and famine and varying
+degrees of civil disorder even to the richer lands.
+If sufficiently severe, a drought may not only incite
+invasions from marginal lands but may weaken the
+power of the major states to resist invasion, and in
+2 But unfortunately in some respects obsolete.
+some cases may even plunge them into a Dark
+Age without any serious foreign threat. In the case
+of Egypt the evidence' which we shall consider
+presently favors the latter condition.
+The first of the postulated Great Droughts in
+the Ancient Near East occurred from about 2200
+to 2000 B.C. More precisely, as we shall see from a
+detailed consideration of the historical evidence,
+it occurred in two parts, at least in Egypt-and
+almost certainly in Iraq-the first around 2180 to
+2150, and the second for a few years around 2000
+B.C. In Egypt the crisis was not a failure of local
+rainfall, which was already at a very low level, but
+a severe failure of the annual floods of the Nile. It
+is as if Nature set two great exclamation points to
+emphasize the end of the Neolithic Wet Phase
+(NWP); or, to reverse Eliot, the NWP ended not
+with a whimper but with a bang.
+Prehistoric Climate. A brief review of the earlier
+climate fluctuations may be useful before we take
+up the Dark Age itself, to put our central event in
+its paleoclimatic setting. It is now a fact beyond
+dispute that climate has been subject to change
+since the earliest times known to geologists. Be-
+cause geology is a relatively young science, how-
+ever, this fact has been recognized for only about
+a century; and at first only the larger fluctuations,
+the extremes of Ice Age' and Interglacial, were
+recognized. But soon geologists found evidence
+that ice sheets, both in their expansion and their
+recession, were subject to interruption-that is,
+neither advances nor recessions proceeded smoothly
+and linearly, but each was from time to time in-
+terrupted by a reversal of the primary trend, a
+reversal lasting some hundreds to thousands of
+years. The Pleistocene Ice Age, now thought to
+cover some two to three million years, has been
+studied extensively in northern and central Europe
+and in North America, and much attention in
+Europe particularly has been given to the larger
+fluctuations that accompanied the retreat of the
+latest (Wiirm) ice sheet. We obtain an impression
+of damped oscillations, of gradually diminishing
+amplitude and duration, over the past ten to fifteen
+thousand years.
+Although many details and dates remain to be
+fixed, it has been established beyond any reasonable
+doubt that significant fluctuations in climate have
+occurred in post-glacial times in northern and cen-
+tral Europe (see Brooks 1949, for a convenient 2
+4 BARBARA BELL [AJA 75
+semi-popular summary; for more recent, and more
+technical, reviews, see Starkel 1966 and Frenzel
+1966). It is, to me at least, a priori incredible that
+the climate should not also have fluctuated over all
+other areas of the earth. This, of course, is not to
+claim that there is anything a priori obvious about
+the direction and amplitude, or even the timing,
+of such fluctuations, which cannot be inferred by
+analogy, but must be determined from paleo-eco-
+logical, geological, and archaeological evidence.
+The Mediterranean Basin, the Near East, and
+northern and central Africa, which are the regions
+of concern to us here, have received much less
+attention from natural scientists, primarily, it
+would seem, because the evidence is more subtle
+and difficult to detect. A number of isolated studies
+of particular areas were made, but only within
+the past decade have the relatively meager available
+facts been synthesized into a coherent picture for
+the area as a whole. This synthesis was made by
+Karl W. Butzer (1958, etc.), on whose work most
+of the following summary of climate variation is
+based. One of Butzer's most important and inter-
+esting contributions is his clarification of the rela-
+tion in time between the larger subtropical and
+European climate changes.
+For some time it has been recognized that cen-
+tral Africa and the margins of the deserts had a
+number of pluvial periods, but the relation in time
+of these tropical and subtropical wet periods to the
+northern ice sheets was much disputed. The prob-
+ably most popular view held the two to be con-
+temporaneous, and considered that the increased
+wetness in lower latitudes, particularly in Africa,
+was a simple and direct consequence of mid-lati-
+tude storm tracks being deflected southward by the
+presence of the ice sheets. Thus the maximum
+subtropical wetness would coincide with the maxi-
+mal extent of the ice sheets. And indeed a number
+of scholars, beginning with Childe (19 29 :42, 46)
+and Toynbee (1934:304f), have linked the develop-
+ment of the great river-valley civilizations to the
+challenge of a gradually increasing desiccation fol-
+lowing upon the recession of the ice sheets.
+However this view is no longer tenable. After the
+work of Blidel and of Schaefer, it now appears
+that only the expansion phase had heavy rainfall,
+while the full and late glacial phases were relatively
+dry in middle-latitude Eurasia. Recent work also
+indicates that the last major pluvial in Africa is to
+be dated to the early Wlirm period, and that this
+was a period of advance and growth for the cen-
+tral-east African mountain glaciers (Butzer 1963),
+although the most recent work (Butzer and Han-
+sen 1968) indicates that the actual situation has
+many complexities. And finally, Butzer (1963)
+found that the period of glacial advance was the
+pluvial period in the Mediterranean Basin as well,
+whereas the terminal phases of the Pleistocene were
+quite dry. Thus he concluded (ibid. p. 212) that
+"subtropical pluvials cannot be genetically inter-
+preted as secondary effects of the presence of con-
+tinental ice sheets in higher latitudes . . . [but] ...
+must be attributed to a primary change of the gen-
+eral circulation, presumably in immediate associa-
+tion with glacial advance in higher latitudes."
+Contrary to the views of Childe (1929), Toynbee
+(1934), and most subsequent scholars who have
+mentioned prehistoric climate, including Carpenter
+(19 66 )-but excluding Hayes (1964), Trigger
+(1965), and the revised CAH (Butzer 1965)-the
+lands of the Near East and northern Africa were
+already as dry or drier 15,000 years ago than they
+are today. Recent evidence from Lake Zeribar in
+Iran, from the lowlands of Macedonia, and from
+the mountains of northwestern Greece, indicates
+that much of this region was then apparently a tree-
+less landscape, perhaps resembling the semi-arid
+steppe of modern Anatolia (Wright 1968).
+Since that time numerous fluctuations have
+occurred between relatively wetter and drier con-
+ditions, on a time scale of hundreds to thousands
+of years. In amplitude, and hence in terms of geo-
+logical effects, these fluctuations are small and
+difficult to detect in the arid and semi-arid lands
+of interest to us here. However fluctuations that
+are too small to leave clear geological evidence can
+still be large enough to produce highly significant
+ecological effects, which may be reflected in archae-
+ological evidence.
+Early in his studies Butzer (1958) noted a curi-
+ous parallelism between moisture trends in Europe
+and in the Near East. Every fluctuation to greater
+or lesser precipitation, the duration of which is
+measured in millennia, has been more or less paral-
+lel in Europe and in lower latitudes. In addition to
+the parallelism between Europe and the Near East,
+Butzer (1961) emphasizes that the major paleo-
+climatic shifts north and south of the Sahara have
+been, insofar as evidence is available, synchronous
+and not alternative. That is, the evidence (see also
+Kraus 19ssa:202-204) supports an expanding and
+1971] THE DARK AGES IN ANCIENT HISTORY 5
+contracting Sahara Desert. Thus the ultimate me-
+teorological explanation, Butzer points out, must
+be sought in terms of a mechanism that will en-
+large or shrink the extension of the dry trade-wind
+circulation zone, which is responsible for the sub-
+tropical deserts, in both latitudinal directions at
+once.
+The existence of a Neolithic Wet Phase, and a
+preceding very dry period, has been suspected in
+Egypt for several decades by various scholars, in-
+cluding Caton-Thompson and Gardner, Huzayyin,
+and Murray (1951), but in the absence of any
+systematic study of the overall evidence, there was
+little agreement on the duration, extent, and char-
+acter of the NWP (Butzer 1958). It is outside the
+scope of the present study to review in any detail
+the evidence for the NWP in the Near East (see
+Butzer 1958; 1959b,c; 1965), a period which cor-
+responds approximately to the relatively warm and
+wet Climatic Optimum or Atlantic Period (see
+Brooks 1949; Starkel 1966) in northern Europe.
+For northern Africa much of the evidence is ar-
+chaeological, such as neolithic artifacts found in
+desert areas where man cannot now live, rock
+drawings of animal species that require at least a
+savanna type of vegetation, and fossil roots and
+tree stumps in wadi bottoms and the low desert
+where no trees grow today.
+Decline of the Neolithic Wet Phase. "Overall,
+the Nubian and Egyptian evidence indicates a
+complex moist interval beginning before c. 7000
+B.C., interrupted by some drier spells and terminat-
+ing in stages between 2900 and 2350 B.C." (Butzer
+1966:75). These stages have been documented
+(Butzer 1959c) by indirect archaeological evidence,
+including a study of the relative frequencies of
+various species of animals appearing in rock draw-
+ings, tomb and temple wall reliefs, and other art
+forms. At this time in northern Europe we have
+a transition to the Sub-Boreal period, which "may
+be characterized as warm but rather dry, with con-
+siderable variations in humidity ...." The study
+of lake levels gives evidence for "the occurrence of
+great oscillations in precipitation," as does also the
+periodic desiccation of peat bogs (Starkel 19 66 :27).
+An interesting point for the present study is the
+extent to which the time-synchronism of wet and
+dry periods holds, or held in earlier times, over
+shorter time periods-periods of decades to cen-
+turies. The data on these smaller fluctuations are
+obscure and will remain so at least until the sys-
+tematic errors (Suess 1967; Ralph and Michael
+1969) have been fully determined and corrected
+for, or other more accurate methods of dating can
+be developed. We should nonetheless regard it as
+encouraging if a severe dry spell were found to
+occur in Europe in the same century as that for
+which we are postulating one in the Near East.
+Such may well be the case, for Brooks (1949:296f)
+cites evidence, from lake levels and peat bogs, for
+unusually dry conditions in central Europe around
+2300-2000 and 1200-1000 B.C., although modern pol-
+len studies (Frenzel 1966) cast doubt upon this
+picture. However this may eventually be resolved,
+conditions in Europe have no necessary bearing on
+the validity of our conclusions about conditions in
+Egypt.
+Butzer considers that the NWP rains over Egypt
+had pretty well declined to their modern low level
+by the beginning of Dynasty VI, c. 2350 B.C. This
+conclusion is based in part on a change at this
+time in the character of hunting and desert scenes
+depicted on tomb and temple reliefs, a change both
+in the game hunted and in the background land-
+scape. There appears also to have been a general
+exodus from the Libyan Desert in Dynasty VI
+times, evidenced by the cessation of rock paintings
+and the abandonment of Neolithic sites, together
+with the appearance, according to O. H. Myers, of
+Tehenu Libyans in the Nile Valley (Butzer 1958).
+The specter of famine first clearly appears to-
+wards the end of Dynasty V, when a well-known
+relief from the causeway of the Pyramid of Unis
+depicts a group of severely emaciated people, evi-
+dently dying of hunger (Drioton 1942; Smith
+1965 :pl. 48B) . Unfortunately no inscriptions have
+survived to reveal the circumstances of this scene,
+and nothing is known of either the nationality of
+the starving people or the cause of their plight-
+whether a failure of the Nile floods (an unlikely
+event for the King to wish to commemorate) or
+the ending of the NWP rains, which drove starving
+desert-dwellers to seek refuge in the Nile Valley.
+It is not unlikely that the decline of the Early
+Bronze 2 culture in Greece and in Anatolia set in
+with the ending of the NWP, particularly in
+regions where many settlements were permanently
+abandoned, as in western and southern Anatolia
+(Mellaart 1962). To support more than speculation,
+of course, much additional study is needed. We
+may note, however, that four pieces of charcoal
+from the House of Tiles at Lerna (late EH II)
+6 BARBARA BELL [AJA 75
+give an average radiocarbon date of 2126 B.C. (from
+Weinberg 1965; half-life 5730); but this becomes
+c. 2500 B.C. when corrected for systematic error (see
+Suess 1967; and Ralph and Michael 1969). Also
+possibly relevant is the evidence (Wright 1968) for
+a reduction in percentage of pine pollen around
+Pylos shortly after 2000 B.C., and evidence for a
+reduction in the beech-fir forest of northwestern
+Turkey, dated to around 2000 B.C., changes which
+might "reflect either a change to a drier climate or
+deforestation." The dates here are a little late, but
+they are also quite uncertain (VIright, personal
+communication), so that the changes could well
+reflect the ending of the NWP.
+But in Egypt the Old Kingdom civilization con-
+tinued, under Dynasty VI, to flourish for some ISO
+years after the ending of the NWP. Most Egyptolo-
+gists agree that the Pyramid complex of King
+Neferkare Pepi II, the last major monument of the
+Old Kingdom, exhibits the same high quality of
+craftsmanship as its predecessors and gives no hint
+of the Dark Age soon to engulf all aspects of
+Egyptian civilization. Moreover it appears that the
+climate of northeastern Africa remained severely
+arid, probably averaging slightly less rainfall than
+today, for at least some fifteen centuries, during
+which time Egypt had two periods of high civiliza-
+tion and three ages of decline.
+This serves only to emphasize once again the
+well-known dependence of Egypt upon the Nile.
+Without a failure of the floods, it seems unlikely
+that the ending of the NWP would have caused
+Egypt more than some inconvenience and local
+disturbances, when desert nomads of necessity
+sought to settle in the Valley. Inscriptions indicate
+that many of them did settle in the Valley, find-
+ing employment with the army as mercenaries
+(Breasted 1906 :311; Borchardt 1905), increasing
+the population and adding to the potential for
+trouble in any famine that might occur.
+The Nile. A few words on the annual Nile
+floods may be useful here. Because rainfall over all
+but the northern Delta has long been rare and
+irregular, Egyptian farmers have depended for at
+least some 5000 years upon the annual flood of the
+Nile River to water their fields and prepare the
+soil for cultivation. The amount of any particular
+inundation-at least before the building of the
+modern system of dams and barrages-determined
+whether that year would bring plenty or famine
+or something intermediate. These annual floods are
+the direct consequence of the summer monsoon
+rainfall over the catchment basin of the Blue Nile
+and the Atbara in the highlands of Ethiopia. The
+maximum level of the flood waters in Egypt thus
+provides a measure of the amount of this rainfall.
+According to Hayes (1964), in Middle Egypt the
+average difference between high and low water is
+22' (6.7 m.), with a yearly variation that depends
+on the volume of the equatorial rains; 4-5' ( 1.2-
+1.5 m.) below average is a "bad Nile" and in
+antiquity a succession of these usually resulted in
+crop failures and famine, while a flood of 30'
+(9 m.) or more would cause widespread destruc-
+tion.
+Deposits south of Wadi HaIfa suggest that flood
+levels in early predynastic times were about 10 m.
+higher than today, that they declined in an oscilla-
+tory way to about 5 m. above today in early dynas-
+tic times, and to the present level by the time of
+the New Kingdom (Trigger 1965:31). It is hoped
+that the present study, in this and subsequent
+papers (now including Bell 1970), will provide
+additional details on the flood levels in historical
+times.
+Fluctuations in climate during the past 4000
+years have generally been either too small in ampli-
+tude or too short in duration to leave behind much
+geological evidence, as Butzer (1958, 1961) points
+out, so that it becomes increasingly necessary to
+resort to archaeological and literary sources, as we
+shall do in the main section of this paper. But on
+the fringelands of deserts the drifting of sand is a
+particularly sensitive indicator of changes in aridity
+and in aeolian activity. In Middle Egypt, Butzer
+(1959a,c) found evidence that a chain of dunes
+from the western desert invaded the valley and
+covered the alluvium with several meters of sand
+over a stretch about 175 km. in length and o.s to
+3.5 km. in width. These fossil dunes are now cov-
+ered by a few meters of mud, deposited mainly
+between about 500 B.C. and A.D. 300. The dune in-
+vasion was facilitated by weaker Nile floods and
+consequent shrinkage of the floodplain, as well as
+by increased aeolian activity and by an eastward
+retreat of the Bahr Yusef, a secondary branch of
+the Nile in Middle Egypt which drains into the
+Fayum lake. The dunes cannot be dated precisely,
+but a number of passages in the literary evidence
+to be examined presently, indicate that they were
+actively invading during the First Intermediate
+Period. A knowledge of their existence clarifies the
+1971] THE DARK AGES IN ANCIENT HISTORY 7
+meaning of a number of otherwise rather enig-
+matic passages.
+Although the adequacy of the Nile flood is the
+main determinant of Egypt's prosperity, there are
+also phrases in the ancient texts, as we shall see,
+which seem to indicate that the low-water level was
+at times abnormally low, which in turn implies a
+deficiency of rainfall over sources of the White
+Nile in east-central Africa. This is not unlikely, for
+Brooks (1949) points out that in the records of the
+Nile floods available from A.D. 641 to 1800 there is
+a fair correlation between low-water level and flood
+height, although the low-water levels show the
+more violent fluctuations. Brooks' conclusion de-
+rives from his analysis of the tables of low- and
+high-water levels published by Toussoun (1925).
+Toussoun's volume also contains a chronological
+list of quotations on the level of the Nile and re-
+lated events, compiled from Arab authors. Several
+times in years of abnormally low floods there is
+mention also of a remarkably low level of the
+"old waters" or pre-flood Nile. And conversely
+there is a tendency for the old waters to be high
+before a very large flood. More important, one
+obtains from these quotations also an impression
+that the total volume of flood water fluctuates more
+than the height of the flood. One frequently reads
+that the flood attained a normal height, then de-
+clined at once and there was famine, or at least
+scarcity, in Egypt.
+THE FIRST DARK AGE IN EGYPT
+It is now widely believed (Hayes 1961, 1962b;
+Wilson 1956; Gardiner 1961) that the real Dark
+Age lasted only some 20-25 years, from the end of
+Dynasty VI to the start of Dynasty IX, or from
+about 2180 to 2160. Although the details remain
+obscure and the primary cause open to dispute,
+some aspects of the trouble which occurred at the
+end of Dynasty VI seem clear: texts from the
+period indicate that hardly any form of civil dis-
+order was absent, ranging from strife between
+districts, to looting and killing by infiltrating
+Asiatics in the Delta, to individual crime run riot,
+to revolution and social anarchy. Reference to
+famine occurs in several texts. This fact has of
+course been noted by a number of Egyptologists,
+including those cited immediately above, and the
+texts themselves have been intensively studied by
+Vandier (1936). But none of these scholars gives
+to famine the importance which I hope to show it
+deserves as an explanation of the collapse of the
+Old Kingdom. Butzer (1959c:68; 1965) points out
+that a number of these documents refer to "famine
+resulting from low Niles rather than from human
+negligence," but analysis of the historical implica-
+tions lay outside the scope of his investigation.
+Although the real Dark Age was short, it had a
+severely traumatic effect on the psyche of the Egyp-
+tian educated classes; it produced a radical change
+in values and outlook that can only reflect severe
+shock and disillusionment. In the words of W. S.
+Smith (1965 :87), "The earlier complacent sense of
+stability had been rudely shaken, and Egypt never
+regained that simple confidence in an enduring
+continuity." The collapse of the Old Kingdom was
+reflected in a new pessimistic literature "foreign to
+the spirit and thought of earlier times" (Smith
+1962 :55). This pessimistic literature, Cerny (195 2:
+79) emphasizes, "was not the result of philosophical
+meditation but a reflection of historical events . . .
+and is in direct contradiction to the habitual opti-
+mistic attitude of the Egyptians to life."
+In the absence of unambiguous evidence, various
+nonclimatic causes have been suggested for this
+time of trouble; none of them however seem suffi-
+cient to explain the magnitude of the effect.
+The evidence for famine in ancient Egypt, given
+by written texts, has been studied by Vandier
+(1936), who points out that such evidence is scarce
+because the Egyptians had not the habit of record-
+ing their misfortunes for posterity. The principal
+data for his study are the autobiographical inscrip-
+tions of nomarchs (rulers of nomes or districts)
+who, their personal vanity having overcome na-
+tional pride, boasted of having fed their towns and
+districts during the years of famine. Vandier found
+very few documents on famine during the Old
+Kingdom, and he attributed this to the strength
+of the central government-which made it rela-
+tively easy to store up large surpluses in years of
+good Niles and dispense them in years of poor
+Niles. I do not question the essential soundness of
+this point, but would add two qualifications. First,
+in these earlier times the provincial officials were
+neither as independent in the content of their in-
+scriptions nor as firmly attached to a particular
+district. And second, as we have seen above, the
+Neolithic Wet Phase was ending gradually during
+the time of Dynasties V and VI. Thus while
+famine probably did threaten from time to time in
+the earlier years, the danger was unlikely to have
+8 BARBARA BELL [AJA 75
+been as prolonged or severe, and was less likely
+to have exhausted the stores of surplus grain.
+Vandier lays great stress on the correlation be-
+tween weakening of the authority of the central
+government and the disastrous consequences of
+insufficient floods. His study shows clearly that
+such a correlation exists. The problem then is to
+distinguish the symptoms of the disease from its
+cause. Because of the meager evidence from these
+troubled times, the question cannot be answered
+with absolute certainty, but I hope to show that a
+more consistent picture of "historical truth" results
+from the hypothesis that prolonged insufficiency
+of the floods destroyed a somewhat weakened cen-
+tral government than vice versa. The claim can
+indeed be made that there is no other adequate
+explanation for the complete and seemingly sudden
+disintegration of both the government and Egyp-
+tian society that occurred at the end of the reign
+of Pepi II of Dynasty VI, about 2180 B.C. In con-
+sidering the ancient texts, I follow the viewpoint
+of Gardiner (lEA I :36) that one should avoid
+undue skepticism about ancient documents, and
+should rather "use their statements, in the absence
+of conflicting testimony, as the best available evi-
+dence with regard to the periods of history to which
+they relate."
+Texts relating to the first great famine, c. 2180-
+2130 B.C. Turning now to the written evidence
+itself, we may first consider ANKHTIFI, who is
+known from the inscriptions in his tomb at Mo'alla,
+some 20 miles south of Luxor. This tomb has been
+thoroughly studied by Vandier (1950) who is the
+source for the quotations 3 which follow. Ankhtifi's
+claim to his position is obscure-whether he held
+it by birth or simply by his effective leadership in
+troubled times-but he was nomarch of Hierakon-
+polis and of Edfu, two of the southernmost nomes
+of Upper Egypt. It is generally agreed that he lived
+early in the First Intermediate Period (First Dark
+Age), before Inyotef I of Thebes unified the South
+and proclaimed himself King of Upper Egypt
+about 2134 B.C. Inyotef would surely not have toler-
+ated a hostile prince so near at hand, and Ankhtifi's
+inscriptions describe a war he initiated against the
+Theban nome, although the outcome is obscure.
+Beckerath (1962, ,NES 21 :140) points out that
+Ankhtifi must have lived at the virtual start of the
+3 All quotations attributed to Vandier are my translations
+from his French.
+4 The correct printing of this term, I understand, is tzUJ
+first Intermediate Period, because his inscriptions
+give evidence that when he was young Abydos
+was still the residence of an "Overseer of Upper
+Egypt" who was recognized by the nomarchs.
+Toward the end of Dynasty VIII that office had
+lost all importance. Thus we may consider that
+Ankhtifi's inscriptions provide a picture-probably
+the best available-of conditions in the darkest part
+of the Dark Age.
+Most significant for our purpose is his vivid de-
+scription of the famine that afHicted Upper Egypt:
+... I fed/kept alive Hefat (Motalla), Hormer, and
+(?) ... at a time when the sky was (in) clouds/
+storm (igp) (was a tumult?) and the land was in
+the wind (probably the clouds of a memorably se-
+vere season or seasons of dust storms), (and when
+everyone was dying) of hunger (bkr, the common
+word for hunger) on this sandbank of Hell (tzw
+of Apophis, a place in the underworld where the
+dragon-serpent, Apophis, nightly threatened to de-
+vour the sun god, Re).
+As supporting evidence for the dust-storm inter-
+pretation, we note Butzer's (1959b :66) finding that
+at Hierakonpolis, nearby, a predynastic cemetery
+was denuded by wind action, which removed up
+to 2 m. of fairly resistant silt and exposed the buri-
+als, probably some time after the end of Dynasty
+VI. At Abydos, some 100 km. to the north, the
+"funerary palace" of Queen Merneith of Dynasty I
+suffered such intense denudation (and perhaps also
+deliberate destruction) that its walls were reduced
+to only a few courses of bricks, partly buried be-
+neath a layer of sand by the time of Dynasty XII,
+when a few small mastabas were constructed over
+the ruins (B. J. Kemp 19 66, lEA 52).
+Vandier considers the above-quoted sentence of
+Ankhtifi's to be a particularly inspired masterpiece
+of erudition, made up essentially of phrases from
+the Pyramid Texts, aptly selected to describe the
+current local troubles. The reference to the tzw of
+Apophis is useful in helping to give us a clearer
+idea of a key word, tzw,4 which occurs in several of
+the famine texts of this period and merits some dis-
+cussion. The word tzw is generally translated sand-
+banks by Egyptologists. For the famine texts, Van-
+dier (1936 :75) considers two hypotheses: either the
+tzw are the sandbanks of the Nile that men culti-
+vate at low waters and that are submerged through
+with the t underlined. The line under the t, however, would
+have to be set by hand and because the word occurs so fre-
+quently it proved impractical to include the hand-set underline.
+1971] THE DARK AGES IN ANCIENT HISTORY 9
+most of the inundation; or they are the higher
+lands on each bank of the Nile susceptible to being
+flooded for some weeks at the time of the inunda-
+tion. If the flood is weak, the tzw in the first hy-
+pothesis (lower sandbanks) do not remain long
+covered by water, and in the second (upper sand-
+banks) they are not covered at all. Although pre-
+ferring the "upper" hypothesis, Vandier translates
+tzw as year(s) 0/ low Nile, and thus of famine by
+metonymy. However, the texts in which tzw ap-
+pears seem to describe quite dire conditions of
+famine, so that I find the first of V andier's hypothe-
+ses, the lower sandbanks, the one more probably
+correct. Also for this reason, I do not accept Van-
+dier's suggestion that tzw was already at this time
+a stale over-used image meaning simply famine
+from whatever cause, but consider it highly proba-
+ble that tzw was an image meaning poor Nile by
+metonymy, and famine by consequence.
+Moreover it is not clear, either from the exam-
+ples we shall encounter belovv or from those cited
+by Vandier without a context of famine, that the
+tzw have to do with any sort of cultivated land.
+They may be simply sandbars in the river, which
+are exposed in the season of low water, and remain
+exposed, more or less, according to the degree of
+deficiency in the flood. This interpretation would
+still leave tzw as an appropriate figure of speech
+to mean famine due to insufficient flood, but not
+for famine from other causes. This view is sup-
+ported also by the phrase from the Book of the
+Dead from whose prototype Vandier (1950) be-
+lieves that Ankhtifi's scribe derived the terms of
+the tomb inscription: 0 master of the stormclouds
+(igp) ... 0 thou who sailest the bark (0/ Re) by
+this sandbar (tzw) of Apophis . ... Thus the ap-
+pearance of tzw in a context of famine may, and
+indeed should be taken as evidence of a very low
+flood, quite sufficient in itself to cause severe famine
+without any political complications.
+Returning now to the inscription of Ankhtifi,
+we find a very severe famine indeed: . . . All of
+Upper Egypt was dying of hunger (/:zkr), to such a
+degree that everyone had come to eating his chil-
+dren, but I managed that no one died of hunger
+in this nome. I made a loan of grain to Upper
+Egypt . ... I kept alive the house of Elephantine
+during these years, after the towns of He/at and
+Hormer had been satisfied. ... The entire country
+had become like a starved (?) grasshopper, with
+people goin g to the north an d to the south (in
+search of grain), but I never permitted it to happen
+that anyone had to embark from this to another
+nome . ...
+Vandier (1936 :8) points out that this is one of
+only two known references to cannibalism in An-
+cient Egypt, an act of desperation that also oc-
+curred during famines in mediaeval Arab Egypt
+(see Toussoun 1925 :458-474, for details). Vandier,
+and Gardiner too (1961:1 I I), are inclined to doubt
+that we should take this part literally, in spite of
+the numerous other contemporary references to a
+lack of grain. I suggest that while the "everyone"
+is surely an exaggeration, instances of cannibalism
+did occur, else why should it even occur to Ankhti-
+fi's scribe to record such an atrocity? The rarity of
+the practice, and the probability that it occurred at
+all, only serve to make more vivid the desperation
+of the people in these years of low Niles (tzw).
+It is noteworthy that virtually none of the famine
+inscriptions from the Dark Age mention the name
+of any king, a drastic change from the style of Old
+Kingdom inscriptions. Ankhtifi, indeed, does make
+passing ·mention of a king in the isolated inscrip-
+tion: Horus brings/brought (or, May Horus bring)
+a (good) inundation for his son Ka-nefer-Re. The
+identity of this king (Nefer-ka-Re?) is quite uncer-
+tain and useless for dating the tomb more precisely.
+But I suggest that Ankhtifi probably had no faith
+in any king for whom Horus sent no good inunda-
+tion; but when a good flood did finally come he may
+have thought it prudent preparation for the afterlife
+to offer a phrase of recognition. Or, if we translate
+the verb in the past tense, the king could be N efer-
+kare Pepi II of Dynasty VI, who ruled in Ankhtifi's
+youth, before the bad times, and the phrase intended
+as a criticism of present kings. Or it may be simply
+a magic wish.
+F or vividness of phrasing and interest in natural
+conditions (sandstorms), no one equals the author
+of the tomb inscriptions of Ankhtifi. Another fam-
+ine text, however, that Vandier ( 1950) considers
+to be contemporary with it or only slightly later is
+the stele of IT! (Cairo 20.001) of Gebelein: ... I
+made Gebelein live during the years of misery
+(ksnt), at a time when 400 men found themselves
+in . . (?) .. I gave wheat from Upper Egypt to
+luni and to He/at (Ankhtifi's town) after Gebelein
+had been sustained; at a time when Thebes de-
+scended and ascended the stream to search for grain
+... I never let men of Gebelein go up and down
+10 BARBARA BELL [AJA 75
+the stream to another nome to look for grain ...
+(Vandier 1936).
+Also probably from this period is the stele of
+MERER (Cerny 1961) in the Cracow Museum and
+of unknown provenance. Merer calls himself . . .
+overseer of the slaughterers of the House of Khuu
+(probably nomarchs of Edfu, according to Fischer
+1962, Kush 10:333) and recounts how he took care
+of his family during the famine, and offered for
+thirteen rulers: ... I was a pure one to slaughter
+and to offer in two temples on behalf of the ruler;
+I offered for thirteen rulers . .. I acquired (proper-
+ty) ... I fed my brothers and sisters, I buried him
+who was dead and fed him who was alive wher-
+ever I alighted in this famine (on this sandbar,
+tzw) which occurred. I shut off all their fields and
+their mounds in town and in the country, I did not
+allow their water to inundate for someone else . ..
+I caused Upper Egyptian barley to be given to the
+town and I transported for it a great number of
+times. ... Here we have one of the clearer linkings
+of tzw, a shortage of irrigation water, and famine.
+The stelae of Iti and of Merer contain clues that
+may explain much of the fighting which occurred
+early in this Dark Age, in the references to Thebes
+searching upstream and downstream for grain, and
+to Merer's efforts to increase his family's supply of
+the meager floods at the expense of others. Raids
+on the granaries of neighboring districts probably
+occurred, as well as violent disputes over water
+rights.
+Another interesting text comes from Middle
+Egypt, where the nomarch of Assiut, I(HETY, re-
+fers to building new irrigation works and to pro-
+viding for his people in a time of famine (tzw)
+in his tomb inscriptions. His date has not been
+fixed with certainty, but he evidently grew up at
+the royal court in a time of relative calm, if we may
+judge from the inscription stating that he learned
+swimming with the royal children. There is no
+mention of war with Thebes, and Breasted (19°6:
+405) accordingly suggests that he lived before the
+nomarch Tefibi and the latter's son Khety, each of
+whom mention war with the south in which they
+played an active role on behalf of the Herakleopoli-
+tan king of Lower Egypt. Vandier (1936) and
+Hayes (1961) also agree in placing this Khety
+before Tefibi. Thus we may tentatively consider
+that he grew up in the late years of Pepi II, spent
+his adult life in the Dark Age, and was able to
+maintain a degree of order in his nome and pre-
+serve his people from the worst suffering of the
+famine. The relevant passages, as kindly translated
+for me by N. B. Millet, read:
+... I made a monument (probably, a canal) in
+-- a substitute for the river, of 10 cubits,. I ex-
+cavated for it upon the ploughlands; I provided a
+gate . .. in brick . .. in one (act of) building, with-
+out dispossessing anyone of any house/property. ...
+I nourished my town, I acted as (my own) ac-
+countant in regard to food (? ) and as giver of water
+in the middle of the day, in order to be very wary
+of ??? .. in the island(?) I made a dam for this
+town, when Upper Egypt was a desert (?), when
+no water could be seen. I closed my (?) frontiers
+... (to outsiders) ... I made (agricultural) high-
+lands out of swamp and caused the inundation to
+flood over old ruined sites. I made ploughlands
+out of - - ? - - all people who were in thirst drank.
+... I was rich in grain when the land was as a
+sandbank (tzw), and nourished my town by meas-
+. .
+urtng gratn . ...
+We have in this inscription two of the clearer
+references to a low Nile: ... when no water could
+be seen . . . suggesting that the White Nile too
+was very low at times; and ... when the land was
+as a sandbank (tzw) ... which suggests that Khety
+was a contemporary of those others above who
+lived in the time of the tzw. Khety's dam was most
+probably a barrier on the alluvial flats designed to
+retain on his fields as much water as possible in the
+event of a too-brief flood, a not uncommon cause
+of scarcity or semi-famine in the Islamic era (see
+Toussoun 1925:4SSff; and above, under Ankhtifi).
+The word tzw appears in four additional texts
+collected by Vandier (1936), three of which are
+graffiti from Hat-Nub, a quarry in the Hare Nome
+in Middle Egypt. (The fourth is Turin 1310, dis-
+cussed in the following section.) Graffito 20,
+from the 6th year of the nomarch NEHERI, reads
+in its relevant part: (I was a man) who ... kept
+alive (nourished) his town during the years of low
+Niles (tzw), who supplied it when there was noth-
+ing, who gave aid to it without making any distinc-
+tion between the great and the small. ... Graffiti
+23 and 24, by two different sons of Neheri, and
+within a year or two of 20 in date, state in almost
+identical words: ... I nourished my town, so that
+it was supplied wholly during the low Niles (tzw)
+of the country, when there was nothing. ...
+References to warfare form another major topic
+of these same graffiti from Hat-Nub. Egyptologists
+1971] THE DARK AGES IN ANCIENT HISTORY 11
+have not agreed on the identity of the primary com- translation is depicted in several verses (e.g. : Nay
+batants nor on the dates of Neheri and his sons, but the children of princes, men dash them against
+for one depends upon the other. Faulkner (1944) walls .... The highborn are full of lamentations,
+gives reasons to interpret the war as a rebellion by and the poor are full of joy. Every town saith: ((Let
+Neheri and his sons against an early Herakleopoli- us drive out the powerful from our midst . ...")
+tan King (of Dynasty IX ?), that is, before c. 2133 in the lament of IpuwER, more commonly known
+when the nomarch of Thebes established an inde- as the Admonitions of an Egyptian Sage. Since
+pendent kingdom in Upper Egypt. Hayes (1961), both the beginning and the ending of the manu-
+however, believes that the texts refer to a battle script are lost, the circumstances evoking the poet's
+in the final war by which, c. 2050, the Theban King lament are unknown. Although van Seter (1964,
+Nebhepetre Mentuhotep brought about the forcible lEA So) presents arguments for assigning the work
+reunification of Upper and Lower Egypt and es- to the Second Intermediate Period, most Egyptol-
+tablished the Middle Kingdom. If we accept the ogists consider it more probably belongs to the
+interpretation of Faulkner, we have all known tzw- First. The most compelling argument is given by
+famines together within a period of 50 years or Erman (1927), who points out that the work is
+less, between c. 2180 and c. 2130. The interpretation undoubtedly older than the "Instruction of Ame-
+of Hayes (1961) would give us a second, presuma- nemhet," since the latter quotes a passage, interpo-
+bly brief, tzw-famine around 2050. While this is lated in corrupt form where it makes no sense, from
+not impossible, it is not substantiated by any other the "Admonitions" where, on external grounds,
+evidence. Moreover, the word tzw has not been the passage certainly belongs.
+found in famine texts (Vandier 1936: 158) outside Gardiner, Posener, Hayes, and others consider
+the First Intermediate Period. The appearance of that Ipuwer was most probably an eye witness of
+the word in these Hat-Nub graffiti thus lends sup- the anarchy he laments-civil strife and social
+port to the early dating and to Faulkner's inter- revolution (of a people made desperate by famine),
+pretation of the warfare as a revolt by Neheri lawlessness of every sort, including tomb robbery,
+against the king. It is natural then to wonder if the and infiltration of the Delta by Asiatics. To the
+revolt may not have been motivated, at least in part, modern Western mind, the text gives an impression
+by Neheri's unwillingness to pay taxes, that is, to of disorganization as great as that existing in Egypt
+send any of his nome's scarce grain to the capital. itself at the time. It illustrates what W. S. Smith
+A tantalizing reference to another sort of vio- (1962 :61), in speaking of the Pyramid Texts, called
+lence appears in the tomb stele of NEFER-YU, the Egyptian "tendency to assemble an accumulated
+from Dendera, probably early in the Dark Age mass of material without synthesis. Contradictions
+(Hayes 1953 :139), who calls himself Chancellor are not resolved but presented side by side." The
+of the King of Lower Egypt, in this period often Lament of Ipuwer contains a number of such con-
+a purely honorary title. Nefer-yu recounts, in addi- tradictions; one of the more glaring appears when
+tion to his acts of conventional charity, that he we read in one verse that everyone is starving, and
+aided his superiors during the troubled times. Un.. in another that he who formerly had nothing now
+fortunately the translation of the critical line, and has many good things.
+thus the exact nature of the trouble, are not agreed I quote below at some length from this important
+upon. As translated by Hayes (1953), Nefer-yu account probably by an eye-witness. I have aimed
+claims: ... I gave bread to the hungry (bkr) and to include every verse that seems to pertain to nat-
+clothes to the naked ... I succored the great ones ural, as opposed to purely social, conditions, but
+until the year when slaughter was ended. I wrought
+mightily with my oxlike arm in order to be estab- have included a few of the latter also to give a
+lished. ... But according to Fischer (19 68 :2 °7) : more representative impression. The translation is
+... I nourished the great in the year of famine. I taken primarily from Faulkner (19 64, 19 65), with
+wrought greatly with my arm that I might endure some phrases and notes from Erman (19 2 7) and
+with my children. . . Wilson (1955).5 Explanatory notes in parentheses
+However, the slaughter referred to in Hayes' are identified by the initial of the translator (F, E,
+5 My choice of which translation to use for each line was tions, a concept which is supported by the less ambiguous texts
+determined by my general concept of environmental condi- that we have already discussed.
+12 BARBARA BELL [AJA 75
+and W); in the absence of any initial, the com-
+ments are my own.
+But first, to stimulate imaginations that have
+never witnessed severe famine, we requote from
+Carpenter (1966 :69) part of a description of an
+actual famine that occurred not so long ago in
+northeast Brazil: "In 1953, following three preced-
+ing years of unremitting drought, the people of
+the burnt-out countryside descended en masse,
+armed with every available weapon, to sack and
+pillage the settlements where any food had been
+stored. Always ... there comes a time, a homicidal
+moment, when the famished cannot longer endure
+the sight of the well-nourished. Kinsman and
+friend alike must succumb to their desperation."
+We turn now to Ipuwer and his lament over the
+state of Egypt in this Dark Age: ... The inhabi-
+tants of the Delta carry shields . .. the tribes of the
+desert have become Egyptians everywhere. ... In-
+deed, the plunderer is everywhere and the servant
+takes what he finds . ...
+Indeed, the Nile overflows, yet none plough for
+it. Everyone says: uWe do not know what will hap-
+pen throughout the land." (E: No one has enough
+confidence in these times of uncertainty to till the
+fields.) Perhaps this was the year that Ankhtifi
+took over Edfu, and found certain areas flooded
+due to the incompetence of his predecessor. Even
+in a period of prolonged drought a more or less
+adequate flood will surely occur from time to time,
+as an occasional deficient flood will occur in a pe-
+riod of generally liberal ones. A general comment
+by Frankfort (1951 :105) may be illuminating here:
+"Agriculturalists are inevitably the prey of occa-
+sional calamities because they are dependent on
+weather and water. But if disasters follow one an-
+other frequently without relief ... there is no in-
+ducement for the peasant to continue his labours
+at all."
+Indeed, women are barren and none conceive. 6
+Khnum fashions (men) no more because of the
+condition of the land . .. hearts are violent, plague
+is throughout the land, blood is everywhere ...
+many dead are buried in the river; the stream is a
+sepulchre and the place of embalmment has become
+a stream (E: the corpses are too numerous to be
+buried; they are thrown into the water like dead
+cattle) .... Squalor is throughout the land, and
+6 "In times of famine ... the birth rate is greatly reduced,
+largely, it seems, because of the actual physiological effect of
+there is no one whose clothes are white in these
+times. ...
+Indeed, the land turns round as does a potter's
+wheel. The robber possesses riches. ... (Consider ...
+ing the second sentence, the first would seem to
+refer to the social order; but I wonder whether it
+might not refer also to the land itself, keeping in
+mind Ankhtifi's sandstorms, and Butzer's invading
+dunes, and possible shiftings in the course of the
+Nile.)
+Indeed, the river is blood, yet men drink of it.
+Men shrink from human beings and thirst after
+water . .. (Perhaps, the river is full of corpses, but
+men are so desperate for water that they drink
+anyway).
+Indeed, the ship of (the Southerners) has broken
+up; towns are destroyed and Upper Egypt has be-
+come an empty/dry waste . .. ("dying of hunger
+on the sandbanks of Apophis"; Butzer [ 1959b ]
+himself suggests this passage may refer to invading
+sand dunes).
+Why really, crocodiles (sink) down because of
+what they have carried oU, for men go to then], of
+their own accord (W: suicide in the river). It is the
+destruction of the land. ... Men are few. He that
+lays his brother in the ground is everywhere (E:
+gravediggers are everywhere).
+Indeed, the desert is throughout the land, the
+nomes are laid waste (probably another reference
+to the invading dunes, although previously [E, W]
+in terpreted as "desert dwellers"). Barbarians from
+outside have come to Egypt, there are really no
+Egyptians anywhere. ... Good things are through ...
+out the land, yet house-wives say: uOh that we had
+something to eat!"
+None sail north to Byblos today (due no doubt
+largely to the chaotic conditions in Egypt; however
+Byblos itself was destroyed by fire about this time
+[Wilson 1956:100; R. de Vaux 1966, CAR fasc.
+46]).
+Nay, but the entire Delta marshland is no (long-
+er) hidden. The confidence (trusted defense?) of
+the Northland is now a trodden road (E: the nat-
+ural protection of the Delta afforded by its swamps
+is no longer of avail). The inaccessible place . . .
+belongs now as much to them that knew it not, as
+to them that knew it, and strangers are versed in
+the crafts of the Delta. (Probably, because of low
+waters, including the White or non-flood Nile,
+food shortage in its various aspects ... ," India Famine In-
+quiry Commission, Final Report (Delhi 1945) 86.
+1971] THE DARK AGES IN ANCIENT HISTORY 13
+strangers can get about easily in the Delta which
+is no longer protected by being islands and marsh-
+lands; cf. Neferty, Texts from c. 2002 ..• below,
+The river of Egypt is empty, men cross over the
+water on foot.)
+... "Cakes are lacking for most children; there
+is no food . ... What is the taste of it like today?"
+Indeed, magnates are hungry and perishing .
+cattle moan because of the state of the land the
+children of princes are dashed against walls, and
+the children of prayer are laid out on the high
+ground (E: want drives people to expose them).
+(More likely, many young children, who are always
+particular ly susceptible to famine, are dying and
+people cannot afford proper burials for them.)
+Indeed, the ways are watched; men sit in the
+bushes until the benighted traveller comes in order
+to plunder his burden . ... He is belabored with
+blows of a stick and murdered . ... Indeed, that has
+perished which yesterday was seen ... commoners
+coming and going in dissolution (F: at the point
+of death).
+Nay, but men feed on herbs and drink water;
+neither fruit nor herbage can be found any longer
+for the birds and ... (?) ... is taken away from
+the mouth of the swine, without it being said (as
+aforetime): "This is better for thee than for me,"
+for men are so hungry. (E: men are now them-
+selves eating that which they used to feed to the
+poultry and the pigs.)
+Indeed, everywhere barley has perished and men
+are stripped of clothes, spice, and oil; everyone says:
+"There is none." The storehouse is empty and its
+keeper lies stretched on the ground (dead) ....
+The writings of the scribes of the cadaster (?) are
+destroyed, and the grain of Egypt is common prop-
+erty (F: looted) . (The granaries have been at-
+tacked and looted by the starving people.)
+Behold, things have been done which have not
+happened for a long time; the king has been de-
+posed by the rabble. ... He who was buried as a
+falcon (is devoid?) of biers, and what the pyramid
+concealed has become empty (F: the living king
+is deposed and the dead one is disinterred). (The
+ingenuity expended by the kings of Dynasty XII
+to build robber-proof burial chambers lends further
+support to the idea that the royal tombs of the
+Old Kingdom were vandalized during this Dark
+Age [Edwards 1961]) .... The land has been de-
+prived of the kingship by a few lawless men . ...
+The Residence is afraid because of want, and (men
+go about?) unopposed to stir up strife. The
+possessor of wealth now spends the night thirsty
+... he who had no shade is now the possessor of
+shade, while the erstwhile possessors of shade are
+now in the full blast (?) of the storm . ... The
+statues are burnt and their tombs destroyed (a fur-
+ther reference to vandalism in the cemeteries).
+... Authority, Knowledge, and Truth are with
+you (the King), yet confusion is what you set
+throughout the land, also the noise of tumult . ...
+You have acted so as to bring those things to pass.
+... You have told lies (E: lies are told thee), and
+the land is brushwood (E: kaka, elsewhere a plant
+that easily catches fire). (Thus the vegetation is so
+dry it easily catches fire.) All these years are strife,
+and a man is murdered on his house-top even
+though he was vigilant in his gate-house. ... The
+King is here blamed for the condition of the coun-
+try, presumably before he was deposed, but in such
+general terms that his sins of omission or commis-
+sion remain altogether obscure. However, see be-
+low, Discussion.
+. .. The troops whom we marshalled for our-
+selves have turned into foreigners and have taken
+to ravaging. (The native recruits, or the merce-
+naries [Decline of the Neolithic Wet Phase, above]
+are quite out of control.) ... What has come to pass
+through it is informing the Asiatics of the state of
+the land (that they can invade it with impunity).
+(This suggests that the collapse or revolt of the
+Egyptian army preceded any invasion or infiltra-
+tion by Asiatics that added to the woes of the
+Egyptians.)
+The basic cause of all the troubles lamented by
+Ipuwer is singularly obscure if we consider this
+text alone. There are several references to famine,
+to the land becoming as desert, and one to plague,
+but we look in vain for a direct lament about the
+level of the floods or even a reference to tzw. In
+the light of other inscriptions, indeed, we wonder
+if the Egyptians had some religious taboo, or at
+least a superstitious disinclination, about speaking
+critically of the Nile. Or one might agree with Van-
+dier (1936) that civil disorder was the primary
+cause of the famine, but then one is left with no
+adequate explanation for the civil disorder. Ipuwer's
+reproaches to the King are in the most general
+terms; he gives no clue to the grievances which
+may have transformed the normally peaceful and
+docile Egyptian peasants into a violently rebellious
+rabble. Nor does he reproach any nomarch in par-
+14 BARBARA BELL [AJA 75
+ticular (or nomarchs in general) with carrying on
+civil war, for destroying the state with his selfish
+ambitions. The traditionally unwarlike, unmilitary
+character of the Egyptian peasant (Kees 1961 :141)
+provides an additional plausibility-argument that
+famine was originally the cause of civil disorder
+rather than the result of it, although then civil dis-
+order may well have delayed recovery from the fam-
+ine. Spontaneous combustion into civil war of such
+extreme destructiveness as must be assumed if we
+are to account for so major a famine, seems to me
+decidedly un-Egyptian, and not to be accepted with-
+out more clear and compelling evidence. On the
+other hand, some of the other texts, especially those
+designating famine as the time of the tzw, seem
+to indicate clearly a link between very low floods
+(tzw) and severe famine.
+Although I have emphasized the word tzw be-
+cause of its clear implication of "low Nile" and its
+appearance in texts describing the most severe con-
+ditions of famine, tzw is not the only word that has
+been interpreted to mean famine in ancient Egypt.
+Vandier (1936 :59-93) identifies and discusses a
+number of other words, some of which are even
+more indirect. One of the more interesting (kindly
+called to my attention by Dr. Millet) which is
+found in famine contexts of this period is snb-ib,
+literally the heart is healthy. The use of this eu-
+phemism or "antiphrase" translated by Vandier
+(1936 :90) as years of courage-and which could
+well be imagined, although we have no evidence,
+as a condensed reference to some currently popular
+phrase such as "The heart is healthy, though the
+body is weak"-may be taken as further evidence
+of the reluctance of the ancient Egyptians to speak
+plainly of a failure of the Nile floods.
+It is noteworthy that not only do our texts fail
+to speak directly of the Nile, but also they never
+indicate that any deity is in any way concerned
+with the disaster. In Egyptian disaster-literature,
+the gods are neither held responsible for the dis-
+aster nor prayed to for relief. Their absence may
+easily pass unnoticed by the modern western mind.
+Yet it is quite otherwise in Mesopotamian disaster-
+literature, where the disaster may be explicitly de-
+scribed as an affliction sent by a god, particularly
+by the chief god, Enlil-for no evident reason as in
+the Lament over the Destruction of Dr, or to
+reduce the human population which had become
+so numerous and noisy that they interfered with the
+sleep of the gods as in Atrahasis (ANET, pp. 455-
+463 and 104, respectively).
+There are a few additional texts which may
+throw an indirect light on the condition of the
+Nile and on related social conditions. One of these
+is a Hymn to the Nile (Wilson 1955 :372) which
+was originally composed, most probably, in the
+Middle Kingdom. Although not strictly an histori-
+cal document, it is worth quoting for an impression
+of the conditions which the Egyptians, not long
+after the Dark Age, associated with a low Nile:
+... If he is sluggish, the nostrils are stopped up
+(because it is so dry and dusty?), and everybody
+is poor. If there be (thus) a cutting down in the
+food-offerings of the gods, then a million men
+perish among mortals, covetousness is practiced, the
+entire land is in a fury, and great and small are
+on the execution-block. ... (But) when he rises,
+then the land is in jubilation . ...
+... If thou are (too) heavy (to rise), the people
+are few, and one begs for the water of the year.
+(Then) the rich man looks like him who is worried,
+and every man is seen (to be) carrying his weapons.
+There is no companion backing up a companion.
+There are no garments for clothing; there are no
+ornaments for the children of nobles. ... He (the
+Nile) who establishes truth in the heart of men,
+for it is said: "Deceit comes after poverty" (W:
+poverty from a low Nile brings lawlessness) ....
+Some of the consequences of a low Nile cited
+here seem reminiscent of Ipuwer's laments and
+quite excessive for one year under a strong govern-
+ment, and it is natural to infer that the Hymn
+reflects memories of the many years of very low
+Niles of the First Intermediate Period.
+Texts from the years c. 215°-2000 B.C. By 2130
+or a little earlier there were signs of improvement
+in natural conditions and in political stability. In
+the north, Dynasty X came to power, with a King
+Neferkare and his two strong and long-lived suc-
+cessors, Wahkare Khety and Merikare ruling from
+Herakleopolis over Lower Egypt. In the south, the
+nomarch of Thebes, Inyotef, established a rival
+dynasty (XI), declaring himself King of Upper
+Egypt, c. 2133, as the Horus Sehertowy; he was
+followed by Inyotef II, Horus Wahankh, who
+reigned for some SO years (c. 2117-2069), and by
+Inyotef III, Horus Nakhtnebtepnefer for 8 years
+( c. 2068-2061) according to the chronology of
+Hayes (1961).
+Although political stability had clearly improved,
+1971] THE DARK AGES IN ANCIENT HISTORY 15
+Vandier (1936 :12) points out nine funerary stelae
+which he dates to the period of the Inyotef (Antef)
+kings and which contain an assertion that the
+owner saved his district or town by distribution of
+grain in a time of famine (most commonly, bur-
+densome years, or years of misery, ksnt). Hayes
+(1961) also discusses a number of these Upper
+Egyptian stelae.
+The word tzw appears in only one (Turin 1310)
+of these inscriptions, in an enigmatic passage which
+reads (Vandier 1936): He (the king?) repelled
+(?) the years of famine (tzw) from the land. He,
+Vandier suggests, is most probably the founder of
+the dynasty, Inyotef I. In the light of my general
+thesis, this may be interpreted to mean that the
+years of very low Niles (tzw) and of severe famines
+came to an end under his rule, as it is reasonable
+to believe on other grounds, and King Inyotef, as
+a true Horus King, is claiming credit for the im-
+provement (see Discussion, below).
+This group of inscriptions seem to describe con-
+ditions less severe than the time of the tzw, and
+apparently we should imagine that climate condi-
+tions improved in a fluctuating manner, with years
+of good inundation becoming more frequent and
+deficient years less frequent and less severely de-
+ficient. For completeness I include the most rele-
+vant passages, translated from Vandier (1936),
+although because of uncertainties in dating they
+contribute no great amount of additional informa ..
+tion. The first seven (following Vandier's number-
+ing) come from the time of Inyotef I, or slightly
+earlier, that is, to the later years of the first great
+drought.
+I) Stele of Djari, of Qurneh: ... I was a great
+provider for their houses, in the year of famine
+(rnpt snb-ib), I gave to those whom I did not know
+as well as to those whom I did know . ...
+2) The stele of Iti of Gebelein, already quoted
+above, is considered by Hayes to be somewhat later
+than the inscriptions of Ankhtifi, but not neces-
+sarily as late as Inyotef I.
+3) Stele of Heka ..ib (BM 1671), also of Gebelein,
+and according to Vandier (1936, 1950), contem ..
+porary with Iti: . . . I have provided this entire
+town with Upper Egyptian grain for several years,
+without counting (?) .... I gave oil to Hierakon-
+polis after my town had been provided for. ...
+4) Stele of Djehouti of Qurneh: ... I supplied
+the temple of Amun during the years of misery
+(k snt). ...
+5) Turin 13 10 : He (the king?) repelled the
+years of low Niles (tzw) from the land.
+6) Stele of Antefoker (BM 1628): . . . I pos-
+sessed barley and wheat; I gave barley and wheat
+to the hungry, and I supported everyone in my
+vicinity during the famine (/:zkrw), acting in such
+a way that no one died. ...
+7) Stele of Senni (Cairo 20500): ... I measured
+out life-giving grain of Upper Egypt for this entire
+town in the palace of the count ... during the
+miserable years of famine (ksnt nt snb-ib).
+The last two of the nine stelae are several decades
+later; one of them is clearly dated by the name of
+King Inyotef III. This one (8), the stele of Ideni
+of Abydos (Cairo 20502), reads in part: ... I was a
+man who gathered his energy in the day of misery
+(hrw n ksnt) ... a man of whom the Horus
+Nakhtnebtepnefer, King of Upper and Lower
+Egypt, son of Re, Inyotef (III), living forever,
+(said?) on the subject of the plan to keep alive
+( nourish) this town: IIHe has done all that I or-
+dered throughout the entire country."
+And finally (9) the stele of . . (? ) . . . (Cairo
+20503): ... I kept alive (nourished) my town, in
+the year of misery (ksnt), so that my name would
+be good. ...
+These two stelae indicate a year of scarcity, al-
+though not necessarily of severe famine, during the
+reign of Inyotef III.
+Turning now to Lower Egypt, we find that this
+period remains a Dark Age in terms of available
+information, in spite of the improvement in politi-
+cal stability. But around 2080 the father of King
+Merikare, probably Wahkare Khety, is able to
+say in his Instructions to his son (Wilson 1955):
+... There is no enemy within the compass of thy
+frontier. ... I pacified the entire west, as far as the
+coast of the sea. . . . But the east is rich in bow-
+men ... turned about are the islands in the midst
+(later, under Dynasties XVIII-XX, this would
+mean the islands of the Aegean but whether the
+phrase had this meaning already c. 2100 is uncer-
+tain) .... Lo, the wretched Asiatic . .. he has been
+fighting since the time of Horus, he does not con-
+quer nor yet can he be conquered. He does not
+announce a day in fighting, like a thief. ... I made
+the Northland smite them, I captured their inhab-
+itants, and I took their cattle, to the disgust of the
+Asiatics against Egypt. Do not trouble thyself about
+him: he is only an Asiatic. ... He may rob a
+16 BARBARA BELL [AJA 75
+single person, but he does not lead against a town
+of many citizens. ... Somewhat puzzling is his
+description of the land of the Asiatics as both
+afflicted with water, difficult from many trees,
+unless "water" here means "rain," which the Egyp-
+tians may have considered an inferior and unrelia-
+ble source of water.
+Merikare is advised to deal firmly with agitators:
+A talker is an exciter of a city ... , and traitors, to
+liquidate them before they can stir up trouble
+(Wilson 1955; Erman 1927); to be skillful in
+speech; and to rule benevolently and justly, ...
+but keep thine eyes open, one that is trusting will
+become one that is afflicted. ...
+More directly relevant to our main theme: Thou
+suDerest not from the Nile, that it cometh not, and
+thou hast the products (taxes) of the Delta . . .
+(Erman 1927). This I take as evidence that some
+of his predecessors, within vivid memory, had suf-
+fered from the Nile, that its flood had failed to
+come.
+Another interesting verse seems to refer to the
+large number of young people among the popu-
+lation: Behold thy commonalty is full of those
+newly grown up, of such as are 20 years old. The
+young generation is happy in following its heart.
+. . . Increase the younger generation of thy fol-
+lowers, that it may be provided with property, en-
+dowed with fields and rewarded with cattle . . .
+(Erman 1927). While the meaning of this passage
+is uncertain, it suggests to me that there has been
+no serious famine for at least twenty years, and
+that since the end of the famine there has been a
+great increase in the population.
+We should not expect, however, that a return
+to normal floods would be followed promptly by
+a full political and cultural revival and the build-
+ing of fine large monuments. Both the king and
+his subjects would be too busy reorganizing the
+kingdom, and repairing and restoring the irriga-
+tion system of canals and dikes. Even if the king
+desired to build a large monument, after a severe
+and prolonged famine the population would be so
+much reduced that he would be prevented by a
+shortage of skilled labor. As for reunification of
+the Two Lands, of Upper and Lower Egypt, this
+would have to await the appearance on the throne
+of a local king who possessed the necessary dynamic
+qualities.
+Merikare was further advised to deal tactfully
+with the South and not to provoke it. Apparently
+he disregarded this advice, went to war and re-
+covered the nome of Abydos, with substantial help
+from another Khety of Assiut. His triumph was
+shortlived, however, for by 2°40 his kingdom had
+been overthrown, and Upper and Lower Egypt
+forcibly reunited by King Nebhepetre Mentuhotep
+of Thebes, who is traditionally regarded as the
+founder of the Middle Kingdom.
+The floods were evidently adequate, or better,
+during the so-year reign (2060-2010) of King Men-
+tuhotep II. The large and original funerary monu-
+ment built by this king at Deir el Bahri near
+Thebes gives evidence of a high level of prosperity.
+And Vandier (1936) finds only one possible refer-
+ence to famine, in the stele of a certain Mentuhotep,
+son of Hepi: When a little inundation (bcpy) hap-
+pened, in the year 25 (probably of Mentuhotep II,
+although Griffith favors Senwosret I of Dynasty
+XII, and Goedicke [lEA 1962] favors Inyotef II),
+I did not allow my nome to suffer hunger; I gave
+it wheat and barley and I did not allow a famine
+to occur in it before the years of big inundations
+returned. Whatever its date, this does not suggest
+anything as serious as those we have considered
+above, but only a poor year in the midst of a series
+of good floods. It is also more forthright in speak-
+ing openly of a little inundation .
+Texts from the years c. 2002-C. 1950 B.C. With
+the death of King Seankhkare Mentuhotep III
+about 1998, Dynasty XI came to an end in a second
+period of disorder, brought on, I suggest, by an-
+other period of low Niles, drought and sandstorms,
+a second "exclamation point" emphasizing the end
+of the Neolithic Wet Phase. It is generally con-
+sidered that the twelve-year reign of Mentuhotep
+III was peaceful and prosperous, but there is one
+document that, in retrospect, may be considered an
+omen of trouble to come. This is a letter written
+to his family by a certain Hekanakht when he was
+on a business journey during a famine caused by
+a low Nile. This document, recently translated by
+James (1962) and by Baer (1963), states that . . .
+the whole land is perished, but you have not been
+hungry. ... When I came hither southwards I
+fixed your rations properly. (Now) is the inunda..
+tion very high? Now our food is fixed for us in
+proportion to the inundation. So be patient, all of
+you who are listed here I have managed to
+keep you alive until today Take heed lest you
+be angry . .. everything is mine. It must be said,
+((Being half alive is better than dying altogether."
+1971] THE DARK AGES IN ANCIENT HISTORY 17
+Now one should say hunger only in regard to real
+hunger. They have begun to eat people here. ...
+This last, Vandier ( 1936) and others consider
+to be an exaggeration intended to impress those to
+whom Hekanakht is writing; in absence of other
+evidence for very bad times, and considering the
+general tone of Hekanakht's letters, I must agree.
+But I would also suggest that the statement de-
+rives from a memory of the earlier time of more
+terrible famine, when Ankhtifi speaks of canni-
+balism.
+These terrible times were soon to come again,
+although more briefly. Following the death of
+Mentuhotep III come five to seven years of dark-
+ness, about which very little is known. A King
+Nebtowyre Mentuhotep IV apparently occupied
+the throne for at least two years of this period, but
+he is known only from the inscriptions in Wadi
+Hammamat by his Vizier Amenemhet, and seems
+subsequently not to have been considered a legiti-
+mate ruler. Following Seankhkare, the Turin
+Papyrus mentions seven kingless years. During the
+period a fresh outbreak of raids by the Libyans of
+the western desert and by the Asiatics from the
+northeast apparently occurred.
+The primary document on the confused and
+obscure period between the end of Dynasty XI
+and the start of Dynasty XII is the so-called Proph-
+ecy of NEFERTY, composed during the reign of
+Amenemhet I. In the words of Posener (CAH
+fasc. 29, p. 8) this document "combines in one
+sinister picture these recent memories with older
+memories of the depredations of the Asiatics dur-
+ing the First Intermediate Period." And not only of
+the Asiatics, but also of the chaotic social and
+natural conditions in both periods, for N eferty has
+a good deal to say about the natural conditions of
+the land, and gives a rather clearer picture than
+did Ipuwer. The quotes are mainly from Erman
+(1927), with occasional phrases from Wilson
+(1955). The invading sand dunes should be kept
+in mind while reading the words of Neferty.
+. . . That which was made is as if it were never
+made, and Re must begin to found anew (E: begin
+creation over again). The whole land has perished,
+there is none left, not the black of the nail survives
+of what should be there (W: Not so much of the
+Black Land of Egypt survives as might be under
+7 In the modern fluctuation to greater aridity that set in
+around 1900, the flow diminished from both the Blue and the
+a fingernail). Probably it was buried under blow-
+ing sand and invading dunes.
+This land is ruined; no one concerns himself
+about it any more, no one speaks, and no eye weeps
+(E: That is no longer worthwhile) .... The sun is
+veiled and will not shine that men may see. None
+can live when the storm veils it (the sun), all men
+are dulled (?) through want of it. (E: By this
+obscuring of the sun, of which he also speaks be-
+low, not a single eclipse is intended, but dust- and
+sand-storms, suiting, as they do, the following de-
+scriptions of the drought.) (Cf. also the dust storms
+of Ankhtifi, above.)
+The river of Egypt is empty, men cross over the
+water on foot. (This implies a failure of the White
+Nile, thus of the rains over east-central Africa.) 7
+Men search for water upon which the ships may
+sail; its road is become a bank, and the bank is
+become water. Probably this refers to shiftings in
+the location of the river bed, accompanying the
+erratic and abnormal fluctuations in the volume
+of water, and the drifting sands; it is well estab-
+lished (Butzer 1959a, 1960) that shiftings did occur
+from time to time.
+The south wind drives away the north wind
+(E: which brings coolness and humidity), and the
+sky has still only the one wind (meaning, the
+north wind failed to come at its normal season?).
+The birds no longer hatch their eggs in the swamps
+of the Delta, but the bird hath made her a nest nigh
+unto men (E: The birds migrate from the dried-up
+swamps to inhabited regions, where water still
+exists) ....
+Foes are in the East, Asiatics are come down into
+Egypt By night one will suddenly be fallen
+upon (?) .
+· .. This land is taken away and added to (W:
+is brought-and-taken) (by the varying course of the
+river and the drifting dunes?), and no one knows
+what the issue will be. ...
+· .. Men take up weapons of war, the land lives
+in confusion (E: In the prevailing distress all live
+on robbery) .... They beg for bread with blood.
+Men laugh with a laughter of disease . .. and one
+slayeth another. ... Men take the goods of a man
+of high estate from him and give them to one from
+without. ... The possessor is in deprivation and
+him from without is contented.
+· .. The land is diminished and its governors are
+White Nile; see H. H. Lamb, Geogrl 132 (1966) 188.
+18 BARBARA BELL lAJA 75
+many. The field is bare, and its taxes are great;
+little is the grain and great the grain measure (of
+taxes), and it is measured to overflowing.
+The sun separates himself from men (E: by
+sandstorms); he arises when it is the hour. No one
+knows when it is midday, for his shadow cannot
+be distinguished (E: on the sundial) .... He is
+in the sky like the moon, and yet he does not deviate
+from his accustomed time. ...
+But finally, a king shall come from the south,
+called Ameni, and he put the country to rights
+again, particularly by driving out the Asiatics, and
+building the "Wall of the Prince" to keep them
+out. Fortunately, Nature cooperated and the Nile
+floods returned more or less to normal, and King
+Amenemhet I was able to launch his country into
+one of the most glorious periods of its long history,
+known as the Middle Kingdom.
+Since virtually nothing is known of this brief
+Dark Age at the end of Dynasty XI, we may
+speculate briefly in the light of the climatological
+hypothesis. It is generally agreed that the future
+King Amenemhet I was the same man as the
+Vizier Amenemhet who led an expedition to the
+Wadi Hammamat in year two of King Mentu-
+hotep IV. Hayes (1961) has noted that the tone of
+the inscriptions of Amenemhet suggest a loyal
+servant of his king, not a man plotting imminent
+revolt. I suggest that Amenemhet may have been
+driven to reconsider whether this Mentuhotep was
+in truth a proper and legitimate king, approved
+by the gods, when the floods failed so severely. Or
+perhaps Mentuhotep himself developed such doubts
+of his own legitimacy that he abdicated or died
+( see Discussion, below), since his claim to the
+throne is anyway obscure.
+Further support to the idea of a serious failure
+of the Nile preceding the reign of Amenemhet I
+is provided by the quotation from his Instructions
+to his son: ... I was the one who made barley, the
+beloved of the grain-god. The Nile honored me
+on every broad expanse (the inundations were
+good). No one hungered in my years; no one
+thirsted therein . ... Everything which I had com-
+manded was in the proper place (Wilson 1955).
+Regarding the relations between the king and
+the feudal nomarchs in the early years of Amenem-
+het I, Hayes (1961 :35) states that the new king saw
+to it that "the boundaries of the nomes were rigor-
+ously established and regulations were enacted
+covering each district's share in the supply of Nile
+water available for purposes of irrigation" (see also
+Gardiner 1961 :128; and Breasted 1906 :628). This
+again suggests not only that water was not abun-
+dant at the very start of his reign, but also that
+much of the fighting in the times of great trouble
+may have been over access to the severely limited
+water supply. We have already seen that Merer
+shut off certain fields and did not allow his family's
+water to irrigate for someone else, and that Khety
+of Assiut built new irrigation works the better to
+utilize the meager water available. And we may
+speculate whether Ankhtifi's ability to supply other
+towns in the time of worst famine, in spite of
+living ina relatively poor part of the country, may
+have been related not only to the organizing effi-
+ciency and resourcefulness of which he boasts, but
+to the fact that his nomes had first access to the
+water. In normal times of course this would not
+matter, but if the river fell so low that one could
+walk across it, there could be some advantage in
+first access.
+In this context we may note two items from the
+"Protestations of Guiltlessness" (Wilson 1955 :34)
+by the soul appearing before a posthumous court:
+A31: I have not held up the water in its season
+(W: denied the inundation waters to others); and
+A32: I have not built a dam against running water.
+No doubt there were many who did, including
+Merer, and Khety of Assiut, as noted above.
+With the reign of Amenemhet I, we come to the
+end of the First Dark Age in Egypt-an age
+bracketed by two particularly troubled and dark
+intervals, each associated with a severe drought,
+about 2180 to 2130, and 2000 to 1990 B.C. Dynasty
+XII, c. 1991-1786 B.C. was a period of strong gov-
+ernment, cultural advance and general prosperity.
+There was no significant revival of the rains over
+the desert (Butzer 1958), no return of the Neolithic
+Wet Phase, but the inundations were evidently
+adequate. I shall discuss elsewhere what can be
+known of their levels. Vandier (1936) was able to
+find only one text referring to famine in these
+years, an inscription in the tomb of Ameny,
+Nomarch of Beni Hasan, during the reign of Sen-
+wosret I. The Nomarch Ameny sta~es (Breasted
+19 06 :52 3): ... When years of famine came, I
+plowed all the fields of the Oryx Nome, as far as
+its southern and northern boundaries, preserving its
+people alive, and furnishing its food so that there
+was none hungry therein . ... Then came great
+Niles, producers of grain and of all things, (but)
+1971] THE DARK AGES IN ANCIENT HISTORY 19
+I did not collect the arrears of the field (taxes) ....
+This inscription no doubt gives a picture of the
+normal situation in years of low Nile, which must
+have occurred from time to time throughout Egyp-
+tian history, though rarely with such severity as in
+the Dark Ages at the end of Dynasty VI and
+between Dynasties XI and XII. Vandier notes
+that Griffith considers that the inscription of Men-
+tuhotep, son of Hepi, refers to the same famine
+as Ameny's inscription.
+DISCUSSION
+Most Egyptologists who attempt to explain the
+collapse of the Old Kingdom stress the declining
+power and wealth of the king and the growing
+power and independence of the provincial nobility.
+Evidence of this trend through Dynasty VI is too
+plentiful to be questioned and need be mentioned
+here only briefly: from as early as the end of
+Dynasty IV, the royal pyramids decrease in size
+while the mastabas of the great nobles gro\v in
+size and splendor; in Dynasty VI many a noble
+abandoned the earlier custom of a tomb near the
+royal pyramid in favor of a tomb in his own prov-
+ince; governorships became hereditary, with "only
+a perfunctory nod in the direction of Memphis"
+(Hayes 1953). This much is beyond dispute. What
+is questionable is whether such a trend is sufficient
+explanation for a disaster of the magnitude that
+overwhelmed Egypt at the end of Dynasty VI.
+I have suggested rather that dire famine, due to
+prolonged (on the historic, though very brief on
+the geologic, time scale) failure of the rains over
+the central and eastern African sources of the Nile
+-a sort of "exclamation point" emphasizing the
+ending of the Neolithic Wet Phase-was the crisis
+that shattered a weakened central government
+utterly unable to cope with the problem, and deci-
+mated the Egyptian people. We have considered a
+number of ancient texts that support this point of
+view, and the meaning of which becomes clearer
+when read in this light. Moreover, the literature
+"voicing the bewilderment and despair with which
+Egyptians faced the overturn of their once stable
+world" (Wilson 1956) is more readily understood
+if we conceive of a cause that they were essentially
+helpless to remedy.
+Let us explore some further political aspects of
+this hypothesis. Of the time of Dynasty VI, the
+decades before the disaster, Hayes (1953:131)
+writes: " ... One cannot help but feel that it was
+only through personal loyalty that the great rulers
+of Upper Egypt [served] the crown. Once the
+king, incapable of controlling his provincial gov-
+ernors by force, found himself unable to win their
+loyalty through favors and wisely chosen conces-
+sions, the whole fabric of the pharaonic govern-
+ment fell to pieces."
+We consider this situation against the back-
+ground of the Egyptian concept of Kingship, par-
+ticularly as described by Frankfort, Wilson and
+Aldred. In the words of Frankfort (1951 :120) :
+"The Egyptian system ... [in which] ... a god
+had consented to guide the nation ... gave a sense
+of security which the Asiatic contemporaries of the
+ancient Egyptians totally lacked ... a pledge that
+the forces of nature would be well disposed and
+bring prosperity and peace." "That Pharaoh was
+of divine essence, a god incarnate" is fundamental
+to the Egyptian concept of Kingship, "and this
+view can be traced back as far as texts and symbols
+take us" (Frankfort 1948:5); the attitude can be
+seen most readily in art-in war scenes, hunting
+scenes, and scenes involving the other gods-from
+the time of N armer.
+Introducing a text from Dynasty XII, Wilson
+(1955:431) writes: "The king of Egypt ruled the
+land as a god, as the Son of Re, or as the Horus,
+or as the incorporation of the deities of Upper
+and Lower Egypt. He was also a synthesis of other
+gods who represented forces of proper rule, a blend
+of force and intelligence, of terror and nurture, or
+of sustenance and punishment. . . . Some of the
+divine elements which went into the composition
+of a pharaoh" are set forth in a poem of instruc-
+tion addressed to his children by Sehetepibre,
+Chief Treasurer under King Ni-maat-Re Amenem-
+het III: Worship King Ni-maat-Re, living forever,
+within your bodies, and associate with his majesty
+in your hearts. He is Perception (W: cognitive in-
+telligence, an attribute of good rule), which is in
+the hearts, and his eyes search out everybody. He is
+Re, by whose beams one sees. He illumines the
+Two Lands more than the sun. He makes the Two
+Lands more verdant than does a high Nile. For
+he has filled the Two Lands with strength and life.
+... He giveth vital force to them that serve him
+· . · (Wilson 1955; Erman 1927).
+Under Dynasty XVIII this attitude was ex-
+pressed in an inscription in the tomb of Rekhmire,
+vizier under King Thutmose III (Frankfort
+194 8 :47): What is the King of Upper and Lower
+20 BARBARA BELL [AJA 75
+Egypt? He is a god by whose dealings one lives,
+the father and the mother of all men, alone by him-
+self, without an equal. Moreover the King's power
+and his concern for his realm do not cease with his
+death, for we read in another inscription (Frank-
+fort 1948:195): Thutmose III is in heaven like
+the moon. The Nile is at his service. He opens its
+cave to give life to Egypt.
+Aldred (1963, 1965) particularly stresses the rela-
+tion between king and Nile, and writes that the
+Egyptian concept of the god-king derived from the
+"prehistoric rainmaker who kept his tribe, their
+crops, and beasts in good health by exercising a
+magic control over the weather ... [who was] ...
+transformed into the Pharaoh, able to sustain the
+entire nation by having command over the Nile
+flood. . . . The Kingship and the Nile are inti-
+mately associated .... The earliest kings were asso-
+ciated with the control of the flood waters . . ."
+(Aldred 1963:157). "The never-failing inundations
+of the river were more predictable in their occur-
+rences, though not in their volume, and therefore
+more amenable to control than the weather" (Al-
+dred 1965 :50). Indeed, the climatic conditions of
+Egypt were almost uniquely suited to inspire the
+confidence of the people in any divine power
+claimed by their kings, far more so than in western
+Asia; and the predictability of the Nile probably
+played no insignificant role in the successful de-
+velopment of the dogma of divine kingship.
+In the earliest Pyramid Texts, inscribed on the
+walls of the tomb chamber of the Pyramid of Unis,
+the king is poetically identified with the Nile flood
+(Cerny 1952:85): It is Unis who inundates the land
+and who has come forth from the lake, it is Unis
+who plucks the papyrus plant. Pyre 388; and in
+Pyr. 5°7-8: Unis came today from the fullness of
+the flood, he is Subek, with a green feather, watch-
+ful face and uplifted fore-part of the body. ... He
+came to his pools which are on the shore inundated
+by the Great Fullness, to the place of satisfaction,
+with green fields (the place) which is in the realm
+of light. Pyre 509 (trans!. N. B. Millet) continues:
+Unis causes the plants to become green on the two
+banks of the realm of light. Cerny points out that
+in later Pyramid Texts the god Osiris is connected
+with the flooding of the Nile on several occasions,
+and from the Middle Kingdom onward is often
+referred to as the god of floods and vegetation.
+Since the earliest texts, those of King Unis, refer
+thus to the king and not to Osiris, Cerny suggests
+that Osiris received his flood-vegetation attributes
+from his identification with the dead king.
+King Amenemhet I of Dynasty XII includes the
+occurrence of good floods among the reasons why
+he deserves the loyalty and gratitude of all his
+subjects: ... I was the one who made barley, the
+beloved of the grain-god. The Nile honored me
+on every broad expanse. No one hungered in my
+years, no one thirsted therein . ... Everything
+which I had commanded was in the proper place
+(Wilson 1955 :4 19). Frankfort (194 8 :57) empha-
+sizes that the king here asserts that he "partakes
+of the essence of these natural phenomena .... The
+king 'produced barley,' not merely in an indirect
+way, for instance by caring for the farmers or fur-
+thering agriculture, but through his own actions-
+by maintaining Maat, the right order which al-
+lowed nature to function unimpaired for the bene-
+fit of man. Hence the Nile rose effectively at the
+inundation so that the arable land reached its
+maximum extent and the people prospered."
+Frankfort instructively compares this Dynasty
+XII text with a song written for the accession of
+King Merneptah of Dynasty XIX, more than 700
+years later, as translated by Erman: Rejoice, thou
+entire land, the goodly time has come. A lord is
+appointed in all countries great of kingship
+like Horus . .. Merneptah Truth has repressed
+falsehood (W: The Egyptian concept of malat
+"truth, order, right" was of the essential order of
+the universe, given by the gods at the beginning
+and maintained and reconfirmed by the god-king).
+The sinners are fallen on their faces . ... The water
+standeth and faileth not, the Nile carrieth a high
+flood. The days are long, the nights have hours, the
+months come aright (W: Order is found also in
+the regularity of times and seasons, restored by the
+new king). The gods are content and happy of
+heart, and life is spent in laughter and wonder.
+Frankfort (1948 :58) points out that "The com-
+parison of the two texts enhances their significance.
+The song might be thought to contain merely the
+hyperboles of a festive mood, were it not that they
+recur in the grim context of Amenemhet's teach-
+ing. There the beneficial influence of the king is
+stressed only to bring out his utter loneliness,
+for notwithstanding it he was betrayed. And yet,
+though the two texts differ in both mood and age,
+we find them describing regal power with the same
+attributes, as strong a proof as we are likely to
+find that the Egyptians really believed these at-
+1971] THE DARK AGES IN ANCIENT HISTORY 21
+tributes to pertain to their king. This power, then,
+includes the remarkable capacity to dominate and
+further natural processes, especially the inundation
+of the Nile on which the prosperity of Egypt de-
+pends. Because the king, who has established Maat,
+who has defeated falsehood, comes to the throne,
+there are abundant inundations; and the seasons-
+that is, the months and days and nights-follow
+each other in orderly procession. So the song. But
+the teaching of Amenemhet says practically the
+same thing: none was hungry, for the king made
+the corn grow; and the Nile, in obedience, rose
+to all accessible places so that they could be tilled.
+Even as late an author as Ammianus Marcellinus
+knew that the Egyptians ascribed plenty or famine
+to the quality of their king-not, in a modern sense,
+to his quality as an administrator, but to his effec-
+tiveness as an organ of integration, partaking of
+the divine and of the human and intrusted with
+making the mutual dependence of the two a source
+of 'laughter and wonder.' "
+The concept of the king's influence over nature
+also appears behind the words of flattery addressed
+by Sinuhe to King Senwosret I : Whether I am in
+the Residence or in this place, it is ever thou that
+obscurest this horizon, and the sun ariseth at thy
+pleasure; the water in the river is drunk when thou
+wiliest, and the air in heaven is breathed when
+thou biddest (Erman 1927:25). Probably this is
+merely an Egyptian way of saying "I recognize
+and accept you as the legitimate god-king of Egypt,
+as the true Horus."
+Let us now link together the factors described
+in the preceding pages of this section: the great
+nobles of Upper Egypt waxing in independent
+power and bound to the throne by increasingly
+fragile ties; the fundamental link between the
+divinity of the king and his control over the floods;
+and to this combination add the prolonged and
+severe failure of the floods, to the extent that people
+throughout Egypt were dying of starvation-the
+tzw-famines of several ancient texts. Imagine an
+average king on the throne, a man with no out-
+standing qualities of leadership but adequate to
+normal conditions. With these ingredients, I sug-
+gest, we have a quite sufficient and entirely plausi-
+ble explanation for the troubles that afflicted Egypt
+in its First Intermediate Period, or First Dark
+Age. The central government, unable to deal effec-
+tively with so severe a famine and drought, and
+undermined at its ideological core by the very exist-
+ence of this revolt by nature, simply collapsed. The
+local nobility became as free in spirit as in fact to
+cope locally with the famine to whatever extent
+their various individual abilities permitted, and
+also free to ignore the supposed king in their tomb
+inscriptions, a practice general in this period and
+utterly contrary to earlier usage.
+There remains one major characteristic of Egyp-
+tian Dark Ages in need of explanation, the short
+reigns and the very large number of kings to be
+fitted into relatively few years. Here I shall venture
+a step beyond what seems to me the realm of sound
+probability, into the realm of speculation, to pro-
+pose a hypothesis that I believe makes sense of
+these numerous short reigns, in the context of a
+Dark Age caused primarily by deficient Nile floods
+in a land ruled by god-kings.
+When we consult the revised CAR (Smith 1962;
+Hayes 1961, 1962) we find at least 31 Kings, and
+possibly as many as 40, in the interval from the
+death of Pepi II to the end of Dynasty IX, a period
+now believed to cover no more than about 60 years,
+c. 2190 to c. 2130; and this disregards the descrip-
+tion by Manetho of Dynasty VII as composed of
+70 Kings who reigned for 70 days. From the death
+of Pepi II to the end of Dynasty VIII, c. 2160, we
+have at least 18 Kings in some 30 years. Dynasty
+VI itself ended with several ephemeral reigns fol-
+lowing that of Pepi II; the Turin Papyrus appears
+originally to have listed eight Kings (Gardiner
+1961) but the names of only three have survived,
+and only these three are included in the total of
+18. For Dynasty IX, c. 2160-2130, the Turin Papyrus
+indicates thirteen Kings. With Dynasty X condi-
+tions finally became more stable, with five Kings
+in some 90 years.
+In addition to the evidence from the various
+King Lists, it is of interest to recall the statement
+of Merer that he offered for thirteen rulers (bk3w),
+in a single adult lifetime, during which tzw-
+famines occurred. Unfortunately the word bk3w
+does not enable us to distinguish between kings
+and nomarchs, nor is it certain that thirteen living
+rulers are meant (N. B. Millet, private communi-
+cation); Cerny (1961) interprets it, with some un-
+ease, as thirteen living nomarchs. But thirteen liv-
+ing kings seems the most plausible interpretation
+within the historical context.
+Almost nothing is known of the genealogy of the
+Kings of the First Dark Age. The popularity of
+22 BARBARA BELL [AJA 75
+the praenomen "Neferkare" in Dynasty VII..VIII,
+and to a lesser extent in Dynasty IX, is often taken
+as evidence that the Kings of Dynasties VII-IX re-
+garded themselves as legitimate successors of Nefer-
+kare Pepi II (Hayes 1961). Since Pepi II had four
+known Queens, and an unknown number of sons,
+daughters and grandchildren, and moreover is be-
+lieved to have lived to be 100, it is quite likely that
+he outlived most of his children, and it is easy to
+imagine that the order of the succession became
+uncertain and controversial at or shortly after his
+death, or at the end of Dynasty VI. Then Manetho's
+tradition of 70 Kings who ruled for 70 days might
+be imagined as a council of royal princes, descend-
+ants of N eferkare Pepi II, ruling collectively while
+they tried to resolve the question of which of them
+should become king.
+The next Dynasty, be it properly called VII or
+VIII, evidently began with a King Neferkare "the
+Younger," a son or grandson of Pepi II by Ankhes-
+en-Pepi, the Queen of his late years; Neferkare
+the Younger was credited by the Turin Papyrus
+(Hayes 1953) with a reign of just over four years,
+leaving only fourteen years for his fourteen succes-
+sors of Dynasty VII-VIII. It is clear that there can
+be no question of a succession of generations among
+these Kings, and it has been suggested (Millet,
+1968 lecture) that for some reason in this period the
+succession passed from brother to brother. While
+resulting in shorter reigns, even this hardly seems
+adequate to account for fourteen Kings in fourteen
+years, nor even some 31+ Kings in no more than
+60 years. (A similar difficulty occurs also in the
+Second Intermediate Period with Dynasty XIII,
+and in the early part of the Dark Age around 1200
+BoC.)
+The need to explain these very numerous short
+reigns invites a radical hypothesis, which however
+fits well into our general picture of the situation.
+In brief, I suggest that the reigns of many of the
+kings in these periods were terminated rather
+promptly by death, either by suicide or by secret
+murder, when their performance of all the correct
+rites failed to produce any significant alleviation of
+the drought.
+Although there is no evidence from ancient
+Egypt, there is evidence from recent times in various
+regions of Africa about what happens to a rain-
+maker king in a time of unusual drought. From
+c. G. Seligman's Egypt and Negro Africa, a Study
+in Divine Kingship, p. 38, Frankfort (1948:34)
+quotes that the African "king of Juken is ... able
+to control the rain and winds. A succession of
+droughts or bad harvests is ascribed to his negli-
+gence or to the waning of his strength, and he is
+accordingly secretly strangled." And there are other
+tribes, "like the Shilluk [who] will destroy their
+king when he threatens to become an imperfect
+link between man and the gods. . . . It has re-
+peatedly been maintained that the Egyptians, too,
+killed their king and for the same reason; but of
+this there is no proof at all. The Egyptians, how-
+ever, did regard their king in the same manner-
+a bond between nature and man" (Frankfort
+194 8:47)·
+Childe (1953) points out that the Pharaoh is a
+type of divine king, described by Frazer, who
+"holds his sovereignty by virtue of his magic pow-
+er," and as its price must submit to ritual death
+before his body, and hence his magic power, grows
+feeble with age. In Egypt he was ritually revitalized
+by the sed-festival from the time of Menes onward.
+Egyptologists agree that the Egyptians did not as a
+regular practice kill their king, and that ritual re-
+vitalization played at least some role in the sed-
+festival. In spite of the magic..symbolic renewal of
+the king's power by the sed-festival, however, Al-
+dred (1963 :157) considers it significant that ...
+"the tradition that the king should die for his peo-
+ple persisted in folk-lore and in the more primitive
+spells of The Pyramid Texts; and there are an-
+thropologists who believe that the ceremonial kill-
+ing of the Pharaoh was sometimes revived in mo-
+ments of crisis."
+If ever there was a crisis calling for such ex-
+treme measures, the First Dark Age, the period of
+the tzw-famines, was surely such a time. Frankfort
+(194 8) emphasizes that there is no proof that any
+such thing ever occurred in Egypt. But then, there
+is little proof for anything--except famine, civil
+disorder, and too many kings-from the Dark
+Ages. Moreover, in addition to influencing the
+powers of Nature, "the king was the personification
+of ma'at, a word which we translate as 'rightness'
+or 'truth' or 'justice,' but which also seems to have
+the meaning of 'the natural cosmic order.' The
+forces of evil could upset ma'at until restoration
+had been effected by some appropriate act-a magic
+rite, or the advent of a new king" (Aldred 1963 :161).
+A prolonged and severe failure of adequate floods,
+the tzw-famines, must have represented to the an-
+cient Egyptians a uniquely profound upset of the
+1971] THE DARK AGES IN ANCIENT HISTORY 23
+natural cosmic order which might well seem to de-
+mand a drastic remedy, and might well lead them
+to try one new king after another, as each con-
+spicuously failed to restore ma(at-particularly if
+the drought should occur at a time when there was
+an unusual degree of uncertainty about the identity
+of the prince chosen for the next incarnation of
+Horus.
+We noted above that Ipuwer seems to blame the
+king for the sorry state of the land, but completely
+fails to specify what the king was doing wrong.
+In the light of the above discussion it appears proba-
+ble that Ipuwer actually had no specific idea what
+the king was doing wrong. But since maintaining
+ma(at, by some supernatural power, was the pri-
+mary duty of the king, the occurrence of disorder,
+of famine, and of failure of the floods, would mean
+that the god-king had somehow failed in his prime
+duty.
+Without any particular reference to the Dark
+Ages, Anthes (1959, /NES 18 :180) considers that
+"the Pyramid Texts indicate conclusively that
+there existed a supreme court of sorts who nomi-
+nated the king. It is hard to imagine that their ac-
+tivity would have been restricted to the mere ac-
+clamation of the new king." I am not able to offer
+an opinion on the validity of this concept. But if it
+has any validity, we may imagine the indecision
+and confusion in this council as year after year the
+floods failed to rise above famine levels-particu-
+larly if there was no one prince who by the usual
+standards had a claim much superior to those of his
+rivals. Such a condition could easily occur after so
+long a reign as that of Pepi II, with at least four
+queens. One can imagine the council approving
+one prince after another, as to each Horus brought
+no good inundation, in an increasingly frantic effort
+to discover the true Son of Horus, and persuading or
+coercing each prince in turn to kill himself after
+he had performed the proper rites and received
+no recognition from the god. Now and then there
+would be a year or two or three of hope, with at
+least meagerly adequate flooding, and then again
+failure. In all probability the prince himself would
+lose confidence in his right to be king, and only the
+most irreligious, or cowardly, would resist the pres-
+sure to kill himself.
+If this picture corresponds in any way to reality
+-and the reality of the hypothetical council is not
+essential to the correspondence-we should surmise
+that the same situation recurred at the end of Dy-
+nasty XI, with the seven-year darkness that fol-
+lowed the death of Seankhkare Mentuhotep III.
+Hayes (1953 :167) mentions three names in addi-
+tion to Nebtowyre Mentuhotep IV who may have
+reigned briefly in this interval. The practice in
+Dynasty XII, whereby each king appointed his
+chosen heir co-regent in his lifetime, may have
+been motivated in part by a desire to reduce the
+influence of the council in the naming of a new
+king. The power of the council would wax and
+wane, inversely with the prosperity and stability
+of the country.
+A problem meriting fuller discussion than would
+be appropriate here is the possible influence of
+climatic crises on the evolution of religious concepts
+in Egypt. There can be little doubt that the climate
+of Egypt, with the normally dependable regularity
+in the seasonal flooding of the Nile, provided con-
+ditions uniquely suitable for the development of
+the concept of divine kingship. The predictability
+of natural conditions would readily inspire the
+people to believe any claims to magic powers and
+divinity that a king might make.
+Furthermore, there can be little doubt that the
+concern expressed by local nomarchs for the ma-
+terial wellbeing of their subjects in the First Inter-
+mediate Period, and the later Middle Kingdom idea
+of the King as a good shepherd watching over his
+flock, developed naturally out of the crisis of famine
+that impoverished and killed the industrious as well
+as the lazy and shiftless, so that poverty could not
+be blamed on a deficiency of character.
+It is tempting also to link the great increase in
+the popularity of Osiris, "a divinity who had him-
+self suffered death and resurrection in the process
+of transfiguration" (Lloyd 1961 :118) during the
+first Dark Age to the nature of the crisis through
+which the Egyptians themselves were passing. This
+god, "as one of the forces of nature, personified the
+growth of plants through the stimulus of the life-
+giving water of the Nile" (Smith 1962), both of
+which were in critically short supply. Smith fur-
+ther notes that Osirian beliefs began to appear in
+private tombs about the middle of Dynasty V,
+while Gardiner (1961) points out that the Pyramid
+Texts of Dynasty VI emphasize Osiris, in contrast
+to the Vth Dynasty emphasis on Re. And the Nile
+floods, first poetically identified with King Unis,
+came in Dynasty VI to be often identified with
+Osiris (Cerny 1952). This change coincides with
+24 BARBARA BELL [AJA 75
+Butzer's dating for the end of the Neolithic Wet
+Phase.
+Another god whose popularity, or in this case
+unpopularity, may have been influenced by the
+end of the NWP is Seth. Wainwright (1963, lEA
+49) states that Seth is to be considered as originally
+a storm god, and of great antiquity (Nagada I),
+and thus to have originated well within the NWP,
+as "a god of the blessed yet dangerous storm." As
+the rains became rare, his rites became only a nui-
+sance, and he eventually slipped from his high es-
+tate and became the personification of evil. With
+the decline of the NWP, everything from the desert
+became sinister to the Egyptian peasant. "Out of
+the southwestern desert come sandstorms and bad
+weather, sent by Seth, Lord of the Libyan Desert.
+... The hot south and west winds in summer bring
+'the pestilence of the year' which kills people"
+(Kees 19 61 :37).
+And finally we may note a legend according to
+which "Sekhmet, the lioness goddess dwelling in
+the desert near Memphis, by order of Re, once de-
+stroyed nearly all the first race of men when they
+were beginning to make settlements, until the god
+saved the remainder by a stratagem" (Kees 1961:
+37). It may well be that this legend reflects a dim
+and distant memory of an earlier fluctuation to
+aridity, or drought, within the NWP.
+We conclude with a brief return to the broader
+picture of the First Dark Age of Ancient History
+outlined in the Introduction. We have considered
+in some detail a number of texts from the First In-
+termediate Period which clear ly establish that
+Egypt was afflicted by severe famine, and that this
+famine was caused primarily by failure of the Nile
+floods rather than by human negligence. Most of
+these texts, and particularly those relating to the
+severest drought (tzw-famines), can be dated with-
+in a period of no more than SO years, c. 2180 to
+c. 2130 B.C. A second drought, less prolonged, and
+perhaps less severe, occurred between 2002 and
+1991 B.C.
+If the more general thesis of a widespread
+drought, as set forth in the Introduction, is cor...
+rect, it would be the first of these great droughts
+which brought an end to EB 2 civilization through-
+out the eastern Mediterranean Basin. It would be
+the first drought also which in Mesopotamia con-
+tributed to the destruction of the Akkadian Em-
+pire, and the second drought which contributed to
+the downfall of the Third Dynasty of Ur. I plan
+to investigate the evidence from Mesopotamia in
+detail in a later paper. The conclusions reached in
+the present paper should, however, be judged pri-
+marily on the internal Egyptian evidence. They do
+not depend in any necessary wayan the correctness
+of the hypothesis of a Widespread drought.
+HARVARD COLLEGE OBSERVATORY
+REFERENCES
+Adams, William Y.
+1968 Invasion, diffusion, evolution?, Antiquity 42:
+194-21 5.
+Aldred, Cyril
+19 63 The Egyptians, Praeger, New York.
+19 65 Egypt to the End of the Old Kingdom, Mc-
+Graw-Hill, New York.
+Baer, Klaus
+1963 An Eleventh Dynasty Farmer's Letters, lAOS
+83: 1- 1 9.
+Bell, Barbara
+1970 The oldest records of the Nile floods, Geogrl
+(in press).
+Breasted, James Henry
+1906 Ancient Records of Egypt, vol. I, University
+of Chicago Press.
+Brooks, C. E. P.
+1949 Climate through the Ages, McGraw-Hill,
+New York.
+Borchardt, Ludwig
+1905 Ein Konigserlass aus Dahschur, ZAeS 42: I-
+II.
+Butzer, Karl W.
+1958 Quaternary Stratigraphy and CHmate in the
+Near East, Bonner Geogr. Abh., Heft 24,
+Bonn.
+I959a Some recent geological deposits of the Egyp-
+tian Nile valley, GeogrT 125:75-79.
+I959b Environment and human ecology in Egypt
+during predynastic and early dynastic times,
+BullSocGeogr.d'Egypte 32:43-87 (a con-
+densed English trans!' of I959C, q.v. for docu-
+mentation).
+I959c Die Naturlandschaft Agyptens wahrend der
+Vorgeschichte und der Dynastischen Zeit,
+AbhAkWissLit (Mainz) Math.-naturw.KI.
+No. I, 80 pp., Wiesbaden.
+1960 Archeology and geology in ancient Egypt,
+Science 132:1617-24.
+19 61 Climate change in arid regions since the Plio-
+cene, pp. 31-56 in A History of Land Use in
+Arid Regions, ed. L. D. Stamp, UNESCO
+Arid Zone Research XVII.
+1963 Changes of climate during the late geological
+record; and The last "pluvial" phase of the
+Eurafrican sub-tropics, pp. 203-206, and 211-
+1971] THE DARK AGES IN ANCIENT HISTORY 25
+218 in Changes of Climate, Proc. Rome Sym-
+posium, UNESCO Arid Zone Research XX.
+1965 Physical conditions in Eastern Europe, West-
+ern Asia, and Egypt, CAR I, ch. 2 (fasc. 33).
+1966 Climate changes in the arid zones of Africa,
+pp. 72-83 in World Climate from 8000 to 0
+B.C., Symposium Proc., Roy. Meteorol. Soc.,
+London.
+Butzer, Karl W., and Carl L. Hansen
+1968 Desert and River in Nubia, University of
+Wisconsin Press, Madison.
+Carpenter, Rhys
+1966 Discontinuz'ty in Greek Civilization, Cam-
+bridge University Press.
+Cerny, Jaroslav
+1952 Ancient Egyptian Rehgion, Hutchinson, Lon-
+don.
+19 61 The Stele of Merer in Cracow, lEA 47:5.
+Childe, V. Gordon
+1929 The Most Ancient East, London.
+1953 New Light on the Most Ancient East,
+Praeger, New York.
+Dales, George F.
+1965 A suggested chronology for Afghanistan,
+Baluchistan, and the Indus Valley, pp. 257-
+284 in Chronologies in Old World Archaeol-
+ogy, ed. R. W. Ehrich, University of Chicago
+Press.
+Drioton, Etienne
+1942 Une representation de la famine sur un bas-
+relief egyptien, BIE 25:45-53.
+Erman, Adolf
+1927 The Ancient Egyptians: a sourcebook of their
+writings, Harper Torchbooks, trans!' from
+German by A. M. Blackman.
+Faulkner, R. O.
+1944 The rebellion in the Hare Nome, lEA 30:
+61- 63.
+1964 Notes on "The Admonitions of an Egyptian
+Sage," lEA 50 :2 4-3 6.
+1965 The Admonitions of an Egyptian Sage, lEA
+51 :53ff.
+Fischer, Henry G.
+1968 Dendera in the third Millennium B.C., New
+York.
+Frankfort, Henri
+1948 Kingship and the Gods, University of Chi-
+cago Press.
+195 I The Birth of Civtlization in the Near East,
+Bloomington.
+Frenzel, B.
+1966 Climate change in the Atlantic/sub-Boreal
+transition on the Northern Hemisphere, pp.
+99-123 in World Climate from 8000 to 0
+B.C., Symposium Proc., Roy. Meteorol. Soc.,
+London.
+Gardiner, Sir Alan
+1961 Egypt of the Pharaohs, Clarendon Press, Ox-
+ford.
+Hayes, William C.
+1953 T he Scepter of Egypt, vol. I, Harper, New
+York.
+1961 The Middle Kingdom of Egypt, CAH I,
+ch. 20 (fasc. 3).
+1962 Chronology: Egypt; Western Asia; Aegean
+Bronze Age, CAR I, ch. 6 (fasc. 4)'
+1964 Most Ancient Egypt, University of Chicago
+Press.
+James, T. G. H.
+1962 The Rekanakhte Papers and other early Mid-
+dle Kingdom Documents, New York.
+Kees, Hermann
+1961 Ancient Egypt, University of Chicago Press.
+Kraus, E. B.
+1954 Secular changes in the rainfall regime of SE
+Australia, Quart]. Roy. Meteorol. Soc. 80:
+59 1-601 .
+1955a Secular changes of tropical rainfall regimes,
+ibid. 81: 198-210.
+1955b Secular changes of east-coast rainfall regimes,
+ibid. 430-439.
+1956 Graphs of cumulative residuals, ibid. 82:9 6-
+98.
+Lloyd, Seton
+1961 The Art of the Ancient Near East, Praeger,
+New York.
+Mellaart, James
+1962 Anatolia, c. 4000-2300 B.C., CAH I, ch. 18
+(fasc. 8).
+Murray, G. W.
+1951 The Egyptian climate: an historical outline,
+Geogrl 117:424-434.
+Ralph, Elizabeth K. and Henry N. Michael
+1969 University of Pennsylvania radiocarbon dates
+XII, Radiocarbon 11:469-81.
+Smith, William Stevenson
+1962 The Old Kingdom in Egypt, CAH I, ch.
+14 (fasc. 5).
+1965 The Art and Arch£tecture of Anc£ent Egypt,
+Penguin Books, Baltimore.
+Starkel, L.
+1966 Post-glacial climate and the moulding of Eu-
+ropean relief, pp. 15-33 in World Clt'mate
+from 8000 to 0 B.C., Symposium Proc., Roy.
+Meteorol. Soc., London.
+Suess, Hans E.
+19 67 Zur Chronologie des alten Agypten, ZfPhysik
+202: 1-7.
+Toussoun, Prince Omar
+1925 Memoire sur I'Histo£re du N£l, Cairo.
+Toynbee, Arnold J.
+1935 A Study of History, vol. I, Oxford University
+Press.
+Trigger, Bruce
+1965 History and Settlement in Lower Nubia,
+Yale Univ. Publ. in Anthropology, No. 69.
+26 BARBARA BELL [AJA 75
+Vandier, Jacques
+1936 La famine dans I'Egypte Ancienne, Cairo.
+1950 Mo'alla, Cairo.
+Weinberg, Saul S.
+1965 The Relative Chronology of the Aegean in
+the Stone and Early Bronze Ages, pp. 285-
+320 in Chronologies in Old World Archae-
+olQgy, ed. R. W. Ehrich, University of Chi-
+cago Press.
+Wilson, John A.
+1955 translations from Ancient Near Eastern Texts
+(ANET), ed. J. B. Pritchard, Princeton Uni-
+versity Press.
+1956 The Culture of Ancient Egypt, University of
+Chicago Press.
+Wright, H. E., Jr.
+1968 Climate change in Mycenaean Greece, An-
+tiquity 42: 123-127.

@@ -1,0 +1,11 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Shandong Peninsula Deposit
+
+Basic location of event: China
+
+Specific data/information/context related to event: Sci-Hub | Sedimentary architecture of the Holocene mud deposit off the southern Shandong Peninsula in the Yellow Sea. Journal of Oceanology and Limnology, 36(1), 181–191 | 10.1007/s00343-018-7155-0
+
+Qiu, J., Liu, J., Xu, H., & Zhou, L. (2018). Sedimentary architecture of the Holocene mud deposit off the southern Shandong Peninsula in the Yellow Sea. Journal of Oceanology and Limnology, 36(1), 181–191. doi:10.1007/s00343-018-7155-0
+
+10.1007/s00343-018-7155-0

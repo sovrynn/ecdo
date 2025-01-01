@@ -1,0 +1,11 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Crete Tsunami Deposits
+
+Basic location of event: Crete
+
+Specific data/information/context related to event: Sci-Hub | The Minoan Santorini Eruption and Tsunami Deposits in Palaikastro (Crete): Dating by Geology, Archaeology, 14C, and Egyptian Chronology. Radiocarbon, 51(02), 397–411 | 10.1017/s003382220005579x
+
+Bruins, H. J., van der Plicht, J., & Alexander MacGillivray, J. (2009). The Minoan Santorini Eruption and Tsunami Deposits in Palaikastro (Crete): Dating by Geology, Archaeology, 14C, and Egyptian Chronology. Radiocarbon, 51(02), 397–411. doi:10.1017/s003382220005579x
+
+10.1017/s003382220005579x

@@ -1,0 +1,1117 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Laurentide ice sheet - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy",
+"wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"770d34dd-e4d1-4271-9f75-9c5ecaaf1402","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Laurentide_ice_sheet","wgTitle":"Laurentide ice sheet","wgCurRevisionId":1261556295,"wgRevisionId":1261556295,"wgArticleId":1354987,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Webarchive template wayback links","Ice sheets","Glaciology","Glaciology of Canada","Glaciology of the United States","Geology of New York (state)","Geology of Illinois","Geology of Kansas","Geology of Missouri","Pleistocene","Geological history of the Great Lakes","Midwestern United States","Northeastern United States"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":
+"wikitext","wgRelevantPageName":"Laurentide_ice_sheet","wgRelevantArticleId":1354987,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgRelatedArticlesCompat":[],"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1765405","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList",
+"mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp",
+"ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.44.0-wmf.8">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Laurentide_ice_sheet_map.jpg/1200px-Laurentide_ice_sheet_map.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="877">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Laurentide_ice_sheet_map.jpg/800px-Laurentide_ice_sheet_map.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="585">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Laurentide_ice_sheet_map.jpg/640px-Laurentide_ice_sheet_map.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="468">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Laurentide ice sheet - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//en.m.wikipedia.org/wiki/Laurentide_ice_sheet">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Laurentide_ice_sheet&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Laurentide_ice_sheet">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Laurentide_ice_sheet rootpage-Laurentide_ice_sheet skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" class=""><span>Donate</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Laurentide+ice+sheet" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Laurentide+ice+sheet" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en"><span>Donate</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Laurentide+ice+sheet" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Laurentide+ice+sheet" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Description"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Description">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Description</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Description-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Ice_centers"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Ice_centers">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Ice centers</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Ice_centers-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Ice centers subsection</span>
+			</button>
+		
+		<ul id="toc-Ice_centers-sublist" class="vector-toc-list">
+			<li id="toc-Keewatin_ice_dome"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Keewatin_ice_dome">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1</span>
+					<span>Keewatin ice dome</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Keewatin_ice_dome-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Labrador_ice_dome"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Labrador_ice_dome">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.2</span>
+					<span>Labrador ice dome</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Labrador_ice_dome-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Foxe-Baffin_ice_dome"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Foxe-Baffin_ice_dome">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.3</span>
+					<span>Foxe-Baffin ice dome</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Foxe-Baffin_ice_dome-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Adjacent_ice_sheets"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Adjacent_ice_sheets">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Adjacent ice sheets</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Adjacent_ice_sheets-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Adjacent ice sheets subsection</span>
+			</button>
+		
+		<ul id="toc-Adjacent_ice_sheets-sublist" class="vector-toc-list">
+			<li id="toc-Cordilleran_ice_sheet"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Cordilleran_ice_sheet">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">3.1</span>
+					<span>Cordilleran ice sheet</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Cordilleran_ice_sheet-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Innuitian_ice_sheet"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Innuitian_ice_sheet">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">3.2</span>
+					<span>Innuitian ice sheet</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Innuitian_ice_sheet-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>See also</span>
+			</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>References</span>
+			</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Further_reading"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Further_reading">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>Further reading</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Further_reading-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>External links</span>
+			</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Laurentide ice sheet</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 10 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-10" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">10 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Laurentidischer_Eisschild" title="Laurentidischer Eisschild – German" lang="de" hreflang="de" data-title="Laurentidischer Eisschild" data-language-autonym="Deutsch" data-language-local-name="German" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Capa_de_hielo_Laurentino" title="Capa de hielo Laurentino – Spanish" lang="es" hreflang="es" data-title="Capa de hielo Laurentino" data-language-autonym="Español" data-language-local-name="Spanish" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%DB%8C%D8%AE%D8%B3%D8%A7%D8%B1_%D9%84%D8%A7%D8%B1%D9%86%D8%AA%DB%8C" title="یخسار لارنتی – Persian" lang="fa" hreflang="fa" data-title="یخسار لارنتی" data-language-autonym="فارسی" data-language-local-name="Persian" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Inlandsis_laurentidien" title="Inlandsis laurentidien – French" lang="fr" hreflang="fr" data-title="Inlandsis laurentidien" data-language-autonym="Français" data-language-local-name="French" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Ghiacciaio_Laurentide" title="Ghiacciaio Laurentide – Italian" lang="it" hreflang="it" data-title="Ghiacciaio Laurentide" data-language-autonym="Italiano" data-language-local-name="Italian" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Laurentide-ijskap" title="Laurentide-ijskap – Dutch" lang="nl" hreflang="nl" data-title="Laurentide-ijskap" data-language-autonym="Nederlands" data-language-local-name="Dutch" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B2%D1%80%D0%B5%D0%BD%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D1%89%D0%B8%D1%82" title="Лаврентийский ледниковый щит – Russian" lang="ru" hreflang="ru" data-title="Лаврентийский ледниковый щит" data-language-autonym="Русский" data-language-local-name="Russian" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Laurentian_mannerj%C3%A4%C3%A4tikk%C3%B6" title="Laurentian mannerjäätikkö – Finnish" lang="fi" hreflang="fi" data-title="Laurentian mannerjäätikkö" data-language-autonym="Suomi" data-language-local-name="Finnish" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Laurentide_Buz_Tabakas%C4%B1" title="Laurentide Buz Tabakası – Turkish" lang="tr" hreflang="tr" data-title="Laurentide Buz Tabakası" data-language-autonym="Türkçe" data-language-local-name="Turkish" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B2%D1%80%D0%B5%D0%BD%D1%82%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BB%D1%8C%D0%BE%D0%B4%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D1%89%D0%B8%D1%82" title="Лаврентійський льодовиковий щит – Ukrainian" lang="uk" hreflang="uk" data-title="Лаврентійський льодовиковий щит" data-language-autonym="Українська" data-language-local-name="Ukrainian" class="interlanguage-link-target"><span>Українська</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1765405#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Laurentide_ice_sheet" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Laurentide_ice_sheet" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Laurentide_ice_sheet"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Laurentide_ice_sheet&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Laurentide_ice_sheet&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Laurentide_ice_sheet"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Laurentide_ice_sheet&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Laurentide_ice_sheet&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Laurentide_ice_sheet" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Laurentide_ice_sheet" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Laurentide_ice_sheet&amp;oldid=1261556295" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Laurentide_ice_sheet&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Laurentide_ice_sheet&amp;id=1261556295&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLaurentide_ice_sheet"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLaurentide_ice_sheet"><span>Download QR code</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Laurentide_ice_sheet&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Laurentide_ice_sheet&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Laurentide_ice_sheet" hreflang="en"><span>Wikimedia Commons</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1765405" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Continental glacier in North America during the last ice age</div>
+<style data-mw-deduplicate="TemplateStyles:r1257001546">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.notheme)>div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data:not(.notheme) div:not(.notheme){background:#1f1f23!important;color:#f8f9fa}}@media(min-width:640px){body.skin--responsive .mw-parser-output .infobox-table{display:table!important}body.skin--responsive .mw-parser-output .infobox-table>caption{display:table-caption!important}body.skin--responsive .mw-parser-output .infobox-table>tbody{display:table-row-group}body.skin--responsive .mw-parser-output .infobox-table tr{display:table-row!important}body.skin--responsive .mw-parser-output .infobox-table th,body.skin--responsive .mw-parser-output .infobox-table td{padding-left:inherit;padding-right:inherit}}</style><table class="infobox vcard" style="width:24.5em;"><tbody><tr><th colspan="2" class="infobox-above fn org" style="background-color:#ABCDEF;">Laurentide ice sheet</th></tr><tr><td colspan="2" class="infobox-image"><span typeof="mw:File"><a href="/wiki/File:Laurentide_ice_sheet_map.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Laurentide_ice_sheet_map.jpg/264px-Laurentide_ice_sheet_map.jpg" decoding="async" width="264" height="193" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Laurentide_ice_sheet_map.jpg/396px-Laurentide_ice_sheet_map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Laurentide_ice_sheet_map.jpg/528px-Laurentide_ice_sheet_map.jpg 2x" data-file-width="3573" data-file-height="2612" /></a></span><div class="infobox-caption">The maximum extent of North American ice sheets during the <a href="/wiki/Last_Glacial_Maximum" title="Last Glacial Maximum">Last Glacial Maximum</a></div></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;">Type</th><td class="infobox-data category">Continental</td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;">Location</th><td class="infobox-data label"><a href="/wiki/North_America" title="North America">North America</a></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;">Highest&#160;elevation</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><div class="plainlist"><ul><li>Foxe-Baffin Dome: 2,200 to 2,400 metres (7,200 to 7,900&#160;ft) above sea level</li><li>Keewatin Dome:  3,200 metres (10,500&#160;ft) above sea level<sup id="cite_ref-Lacelle2018_1-0" class="reference"><a href="#cite_note-Lacelle2018-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></li></ul></div></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;">Lowest&#160;elevation</th><td class="infobox-data">Sea level</td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;">Terminus</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409"><div class="plainlist"><ul><li>North – <a href="/wiki/Arctic_Ocean" title="Arctic Ocean">Arctic Ocean</a></li><li>East – <a href="/wiki/Baffin_Bay" title="Baffin Bay">Baffin Bay</a></li><li>South – 40 degrees north latitude</li><li>West – <a href="/wiki/Rocky_Mountains" title="Rocky Mountains">Rocky Mountains</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;">Status</th><td class="infobox-data category">Remnants: <a href="/wiki/Barnes_Ice_Cap" title="Barnes Ice Cap">Barnes Ice Cap</a>, <a href="/wiki/Penny_Ice_Cap" title="Penny Ice Cap">Penny Ice Cap</a><sup id="cite_ref-Lacelle2018_1-1" class="reference"><a href="#cite_note-Lacelle2018-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></td></tr></tbody></table>
+<p>The <b>Laurentide ice sheet</b> (LIS) was a massive <a href="/wiki/Ice_sheet" title="Ice sheet">sheet of ice</a> that covered millions of square miles, including most of <a href="/wiki/Canada" title="Canada">Canada</a> and a large portion of the <a href="/wiki/Northern_United_States" title="Northern United States">Northern United States</a>, multiple times during the <a href="/wiki/Quaternary_glaciation" title="Quaternary glaciation">Quaternary glaciation</a> epochs, from 2.58 million years ago to the present.<sup id="cite_ref-ICS_StratChart_2022-02_2-0" class="reference"><a href="#cite_note-ICS_StratChart_2022-02-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The last advance covered most of northern North America between c. 95,000 and c. 20,000 years before the present day and, among other geomorphological effects, gouged out the five <a href="/wiki/Great_Lakes" title="Great Lakes">Great Lakes</a> and the hosts of smaller lakes of the <a href="/wiki/Canadian_Shield" title="Canadian Shield">Canadian Shield</a>. These lakes extend from the eastern <a href="/wiki/Northwest_Territories" title="Northwest Territories">Northwest Territories</a>, through most of northern Canada, and the upper <a href="/wiki/Midwestern_United_States" title="Midwestern United States">Midwestern United States</a> (<a href="/wiki/Minnesota" title="Minnesota">Minnesota</a>, <a href="/wiki/Wisconsin" title="Wisconsin">Wisconsin</a>, and <a href="/wiki/Michigan" title="Michigan">Michigan</a>) to the <a href="/wiki/Finger_Lakes" title="Finger Lakes">Finger Lakes</a>, through <a href="/wiki/Lake_Champlain" title="Lake Champlain">Lake Champlain</a> and <a href="/wiki/Lake_George_(lake),_New_York" title="Lake George (lake), New York">Lake George</a> areas of <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>, across the northern <a href="/wiki/Appalachians" class="mw-redirect" title="Appalachians">Appalachians</a> into and through all of <a href="/wiki/New_England" title="New England">New England</a> and <a href="/wiki/Nova_Scotia" title="Nova Scotia">Nova Scotia</a>.
+</p><p>At times, the ice sheet's southern margin included the present-day sites of coastal towns of the <a href="/wiki/Northeastern_United_States" title="Northeastern United States">Northeastern United States</a>, and cities such as <a href="/wiki/Boston" title="Boston">Boston</a> and <a href="/wiki/New_York_City" title="New York City">New York City</a> and Great Lakes coastal cities and towns as far south as <a href="/wiki/Chicago" title="Chicago">Chicago</a> and <a href="/wiki/St._Louis,_Missouri" class="mw-redirect" title="St. Louis, Missouri">St. Louis, Missouri</a>, and then followed the present course of the <a href="/wiki/Missouri_River" title="Missouri River">Missouri River</a> up to the northern slopes of the <a href="/wiki/Cypress_Hills_(Canada)" title="Cypress Hills (Canada)">Cypress Hills</a>, beyond which it merged with the <a href="/wiki/Cordilleran_Ice_Sheet" class="mw-redirect" title="Cordilleran Ice Sheet">Cordilleran Ice Sheet</a>. The ice coverage extended approximately as far south as 38 degrees latitude mid-continent.<sup id="cite_ref-dyke_prest_3-0" class="reference"><a href="#cite_note-dyke_prest-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="Description">Description</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Laurentide_ice_sheet&amp;action=edit&amp;section=1" title="Edit section: Description"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>This ice sheet was the primary feature of the <a href="/wiki/Pleistocene" title="Pleistocene">Pleistocene</a> epoch in North America, commonly referred to as the <a href="/wiki/Quaternary_glaciation" title="Quaternary glaciation">ice age</a>. During the <a href="/wiki/Pre-Illinoian" title="Pre-Illinoian">Pre-Illinoian Stage</a>, the Laurentide Ice Sheet extended as far south as the <a href="/wiki/Missouri_River" title="Missouri River">Missouri</a> and <a href="/wiki/Ohio_River" title="Ohio River">Ohio River</a> valleys. It was up to 2&#160;mi (3.2&#160;km) thick in <a href="/wiki/Nunavik" title="Nunavik">Nunavik</a>, <a href="/wiki/Quebec" title="Quebec">Quebec</a>, <a href="/wiki/Canada" title="Canada">Canada</a>, but much thinner at its edges, where <a href="/wiki/Nunatak" title="Nunatak">nunataks</a> were common in hilly areas. It created much of the surface geology of southern Canada and the northern United States, leaving behind glacially scoured valleys, <a href="/wiki/Moraines" class="mw-redirect" title="Moraines">moraines</a>, <a href="/wiki/Eskers" class="mw-redirect" title="Eskers">eskers</a> and <a href="/wiki/Glacial_till" class="mw-redirect" title="Glacial till">glacial till</a>. It also caused many changes to the shape, size, and drainage of the Great Lakes. As but one of many examples, near the end of the last ice age, <a href="/wiki/Glacial_Lake_Iroquois" title="Glacial Lake Iroquois">Lake Iroquois</a> extended well beyond the boundaries of present-day <a href="/wiki/Lake_Ontario" title="Lake Ontario">Lake Ontario</a>, and drained down the Hudson River into the Atlantic Ocean.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Its cycles of growth and melting were a decisive influence on global <a href="/wiki/Climate" title="Climate">climate</a> during its existence. This is because it served to divert the <a href="/wiki/Jet_stream" title="Jet stream">jet stream</a> southward, which would otherwise flow from the relatively warm <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a> through <a href="/wiki/Montana" title="Montana">Montana</a> and <a href="/wiki/Minnesota" title="Minnesota">Minnesota</a>. That gave the <a href="/wiki/Southwestern_United_States" title="Southwestern United States">Southwestern United States</a>, otherwise a desert, abundant rainfall during ice ages, in extreme contrast to most other parts of the world which became exceedingly dry, though the effect of ice sheets in <a href="/wiki/Europe" title="Europe">Europe</a> had an analogous effect on the rainfall in <a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a>, parts of <a href="/wiki/Iran" title="Iran">Iran</a>, possibly western <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a> in winter, as well as <a href="/wiki/North_Africa" title="North Africa">North Africa</a>.
+</p>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Sea_Ice_off_Baffin_Island.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sea_Ice_off_Baffin_Island.jpg/200px-Sea_Ice_off_Baffin_Island.jpg" decoding="async" width="200" height="273" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sea_Ice_off_Baffin_Island.jpg/300px-Sea_Ice_off_Baffin_Island.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sea_Ice_off_Baffin_Island.jpg/400px-Sea_Ice_off_Baffin_Island.jpg 2x" data-file-width="4400" data-file-height="6000" /></a><figcaption>The <a href="/wiki/Barnes_Ice_Cap" title="Barnes Ice Cap">Barnes Ice Cap</a>, containing remnants of the Laurentide Ice Sheet.</figcaption></figure>
+<p>Its melting also caused major disruptions to the global climate cycle, because the huge influx of low-<a href="/wiki/Salinity" title="Salinity">salinity</a> water into the <a href="/wiki/Arctic_Ocean" title="Arctic Ocean">Arctic Ocean</a> via the <a href="/wiki/Mackenzie_River" title="Mackenzie River">Mackenzie River</a><sup id="cite_ref-Murton_Bateman_5-0" class="reference"><a href="#cite_note-Murton_Bateman-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> is believed to have disrupted the formation of <a href="/wiki/North_Atlantic_Deep_Water" title="North Atlantic Deep Water">North Atlantic Deep Water</a>, the very saline, cold, deep water that flows from the <a href="/wiki/Greenland_Sea" title="Greenland Sea">Greenland Sea</a>. That interrupted the <a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">thermohaline circulation</a>, creating the brief <a href="/wiki/Younger_Dryas" title="Younger Dryas">Younger Dryas</a> cold epoch and a temporary re-advance of the ice sheet,<sup id="cite_ref-Broeckery_Denton_6-0" class="reference"><a href="#cite_note-Broeckery_Denton-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> which did not retreat from <a href="/wiki/Nunavik" title="Nunavik">Nunavik</a> until 6,500 years ago.
+</p><p>After the end of the Younger Dryas, the Laurentide Ice Sheet retreated rapidly to the north, becoming limited to only the Canadian Shield until even it became deglaciated.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> The ultimate collapse of the Laurentide Ice Sheet is also suspected to have influenced European agriculture indirectly through the rise of global sea levels.
+</p><p>Canada's oldest ice is in remnants of the LIS: the <a href="/wiki/Barnes_Ice_Cap" title="Barnes Ice Cap">Barnes Ice Cap</a> and the <a href="/wiki/Penny_Ice_Cap" title="Penny Ice Cap">Penny Ice Cap</a>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Ice_centers">Ice centers</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Laurentide_ice_sheet&amp;action=edit&amp;section=2" title="Edit section: Ice centers"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>During the <a href="/wiki/Late_Pleistocene" title="Late Pleistocene">Late Pleistocene</a>, the Laurentide ice sheet reached from the <a href="/wiki/Rocky_Mountains" title="Rocky Mountains">Rocky Mountains</a> eastward through the <a href="/wiki/Great_Lakes" title="Great Lakes">Great Lakes</a>, into <a href="/wiki/New_England" title="New England">New England</a>, covering nearly all of <a href="/wiki/Canada" title="Canada">Canada</a> east of the Rocky Mountains.<sup id="cite_ref-Hill2006_8-0" class="reference"><a href="#cite_note-Hill2006-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+Three major ice centers formed in North America: the <a href="/wiki/Labrador_ice_sheet" class="mw-redirect" title="Labrador ice sheet">Labrador</a>, <a href="/wiki/Keewatin_ice_sheet" class="mw-redirect" title="Keewatin ice sheet">Keewatin</a>, and <a href="/wiki/Cordilleran_Ice_Sheet" class="mw-redirect" title="Cordilleran Ice Sheet">Cordilleran</a>. The Cordilleran covered the region from the Pacific Ocean to the eastern front of the Rocky Mountains and the Labrador and Keewatin fields are referred to as the Laurentide Ice Sheet. Central North America has evidence of the numerous lobes and sublobes. The Keewatin covered the western interior plains of North America from the <a href="/wiki/Mackenzie_River" title="Mackenzie River">Mackenzie River</a> to the <a href="/wiki/Missouri_River" title="Missouri River">Missouri River</a> and the upper reaches of the <a href="/wiki/Mississippi_River" title="Mississippi River">Mississippi River</a>. The Labrador covered spread over <a href="/wiki/Eastern_Canada" title="Eastern Canada">eastern Canada</a> and the northeastern part of the <a href="/wiki/United_States" title="United States">United States</a> abutting the Keewatin lobe in the western <a href="/wiki/Great_Lakes" title="Great Lakes">Great Lakes</a> and <a href="/wiki/Mississippi_River#Upper_Mississippi" title="Mississippi River">Mississippi valley</a>.<sup id="cite_ref-Hill2006_8-1" class="reference"><a href="#cite_note-Hill2006-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Keewatin_ice_dome">Keewatin ice dome</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Laurentide_ice_sheet&amp;action=edit&amp;section=3" title="Edit section: Keewatin ice dome"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The Keewatin ice dome has had four or five primary lobes identified ice divides extending from a dome over west-central <a href="/wiki/Kivalliq_Region" title="Kivalliq Region">Keewatin</a> (Kivalliq). Two of the lobes abut the adjacent Labrador and Foxe-Baffin ice domes. The primary lobes flow (1) towards <a href="/wiki/Manitoba" title="Manitoba">Manitoba</a> and <a href="/wiki/Saskatchewan" title="Saskatchewan">Saskatchewan</a>; (2) toward <a href="/wiki/Hudson_Bay" title="Hudson Bay">Hudson Bay</a>; (3) towards the <a href="/wiki/Gulf_of_Boothia" title="Gulf of Boothia">Gulf of Boothia</a>, and (4) towards the <a href="/wiki/Beaufort_Sea" title="Beaufort Sea">Beaufort Sea</a>.<sup id="cite_ref-Dyke1987_9-0" class="reference"><a href="#cite_note-Dyke1987-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Labrador_ice_dome">Labrador ice dome</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Laurentide_ice_sheet&amp;action=edit&amp;section=4" title="Edit section: Labrador ice dome"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The Labrador dome flowed across all of <a href="/wiki/Maine" title="Maine">Maine</a> and into the <a href="/wiki/Gulf_of_St._Lawrence" title="Gulf of St. Lawrence">Gulf of St. Lawrence</a>, completely covering the <a href="/wiki/Maritime_Provinces" class="mw-redirect" title="Maritime Provinces">Maritime Provinces</a>. The Appalachian Ice Complex, flowed from the <a href="/wiki/Gasp%C3%A9_Peninsula" title="Gaspé Peninsula">Gaspé Peninsula</a> over <a href="/wiki/New_Brunswick" title="New Brunswick">New Brunswick</a>, the <a href="/wiki/Magdalen_Islands" title="Magdalen Islands">Magdalen Shelf</a>, and <a href="/wiki/Nova_Scotia" title="Nova Scotia">Nova Scotia</a>.<sup id="cite_ref-Dyke1987_9-1" class="reference"><a href="#cite_note-Dyke1987-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+The Labrador flow extended across the mouth of the <a href="/wiki/St._Lawrence_River" title="St. Lawrence River">St. Lawrence River</a>, reaching the <a href="/wiki/Gasp%C3%A9_Peninsula" title="Gaspé Peninsula">Gaspé Peninsula</a> and across <a href="/wiki/Chaleur_Bay" title="Chaleur Bay">Chaleur Bay</a>. From the Escuminac center on the <a href="/wiki/Magdalen_Islands" title="Magdalen Islands">Magdalen Shelf</a>, flowed onto the <a href="/wiki/Acadian_Peninsula" title="Acadian Peninsula">Acadian Peninsula</a> of <a href="/wiki/New_Brunswick" title="New Brunswick">New Brunswick</a> and southeastward, onto the Gaspe, burying the western end of <a href="/wiki/Prince_Edward_Island" title="Prince Edward Island">Prince Edward Island</a> and reached the head of <a href="/wiki/Bay_of_Fundy" title="Bay of Fundy">Bay of Fundy</a>. From the Gaspereau center, on the divide crossing New Brunswick flowed into the Bay of Fundy and Chaleur Bay.<sup id="cite_ref-Dyke1987_9-2" class="reference"><a href="#cite_note-Dyke1987-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>In New York, the ice that covered Manhattan was about 2,000 feet high before it began to melt in about 16,000 BC. The ice in the area disappeared around 10,000 BC. The ground in the New York area has since risen by more than 150&#160;ft because of the removal of the <a href="/wiki/Post-glacial_rebound" title="Post-glacial rebound">enormous weight of the melted ice</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Foxe-Baffin_ice_dome">Foxe-Baffin ice dome</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Laurentide_ice_sheet&amp;action=edit&amp;section=5" title="Edit section: Foxe-Baffin ice dome"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The Foxe-Baffin ice dome was circular and centered over the <a href="/wiki/Foxe_Basin" title="Foxe Basin">Foxe Basin</a>. A major divide across the basin, created a westward flow across the <a href="/wiki/Melville_Peninsula" title="Melville Peninsula">Melville Peninsula</a>, from an eastward flow over <a href="/wiki/Baffin_Island" title="Baffin Island">Baffin Island</a> and <a href="/wiki/Southampton_Island" title="Southampton Island">Southampton Island</a>. Across southern Baffin Island, two divides created four additional lobes. The Penny Ice Divide split the <a href="/wiki/Cumberland_Peninsula" title="Cumberland Peninsula">Cumberland Peninsula</a>, where <a href="/wiki/Pangnirtung" title="Pangnirtung">Pangnirtung</a> created flow toward Home Bay on the north and Cumberland Sound on the south. The Amadjuak Ice Divide on the <a href="/wiki/Hall_Peninsula" title="Hall Peninsula">Hall Peninsula</a>, where <a href="/wiki/Iqaluit" title="Iqaluit">Iqaluit</a> sits created a north flow into <a href="/wiki/Cumberland_Sound" title="Cumberland Sound">Cumberland Sound</a> and a south flow into the <a href="/wiki/Hudson_Strait" title="Hudson Strait">Hudson Strait</a>. A secondary Hall Ice Divide formed a link to a local ice cap on the <a href="/wiki/Hall_Peninsula" title="Hall Peninsula">Hall Peninsula</a>. The current ice caps on Baffin Island are thought to be a remnant from this time period, but it was not a part of the Baffin ice flow, but an autonomous flow.<sup id="cite_ref-Dyke1987_9-3" class="reference"><a href="#cite_note-Dyke1987-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Adjacent_ice_sheets">Adjacent ice sheets</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Laurentide_ice_sheet&amp;action=edit&amp;section=6" title="Edit section: Adjacent ice sheets"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="Cordilleran_ice_sheet">Cordilleran ice sheet</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Laurentide_ice_sheet&amp;action=edit&amp;section=7" title="Edit section: Cordilleran ice sheet"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The <a href="/wiki/Cordilleran_ice_sheet" title="Cordilleran ice sheet">Cordilleran ice sheet</a> covered up to 1,500,000 square kilometres (580,000&#160;sq&#160;mi) at the <a href="/wiki/Last_Glacial_Maximum" title="Last Glacial Maximum">Last Glacial Maximum</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> The eastern edge abutted the Laurentide ice sheet. The sheet was anchored in the <a href="/wiki/Coast_Mountains" title="Coast Mountains">Coast Mountains</a> of <a href="/wiki/British_Columbia" title="British Columbia">British Columbia</a> and <a href="/wiki/Alberta" title="Alberta">Alberta</a>, south into the <a href="/wiki/Cascade_Range" title="Cascade Range">Cascade Range</a> of <a href="/wiki/Washington_(state)" title="Washington (state)">Washington</a>. That is one and a half times the water held in the <a href="/wiki/Antarctic" title="Antarctic">Antarctic</a>. Anchored in the mountain backbone of the west coast, the ice sheet dissipated north of the <a href="/wiki/Alaska_Range" title="Alaska Range">Alaska Range</a> where the air was too dry to form glaciers.<sup id="cite_ref-Hill2006_8-2" class="reference"><a href="#cite_note-Hill2006-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+It is believed that the Cordilleran ice melted rapidly, in less than 4000 years. The water created numerous <a href="/wiki/Proglacial_lakes" class="mw-redirect" title="Proglacial lakes">Proglacial lakes</a> along the margins such as <a href="/wiki/Lake_Missoula" class="mw-redirect" title="Lake Missoula">Lake Missoula</a>, often leading to catastrophic floods as with the <a href="/wiki/Missoula_Floods" class="mw-redirect" title="Missoula Floods">Missoula Floods</a>. Much of the topography of <a href="/wiki/Eastern_Washington" title="Eastern Washington">Eastern Washington</a> and northern <a href="/wiki/Montana" title="Montana">Montana</a> and <a href="/wiki/North_Dakota" title="North Dakota">North Dakota</a> was affected.<sup id="cite_ref-Hill2006_8-3" class="reference"><a href="#cite_note-Hill2006-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Innuitian_ice_sheet">Innuitian ice sheet</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Laurentide_ice_sheet&amp;action=edit&amp;section=8" title="Edit section: Innuitian ice sheet"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The <a href="/wiki/Innuitian_ice_sheet" title="Innuitian ice sheet">Innuitian ice sheet</a>, centered on the <a href="/wiki/Queen_Elizabeth_Islands" title="Queen Elizabeth Islands">Queen Elizabeth Islands</a>, was connected to the northern part of the LIS.<sup id="cite_ref-a_12-0" class="reference"><a href="#cite_note-a-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="See_also">See also</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Laurentide_ice_sheet&amp;action=edit&amp;section=9" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/Canadian_Shield" title="Canadian Shield">Canadian Shield</a></li>
+<li><a href="/wiki/Laurentia" title="Laurentia">Laurentia</a>&#160;– Craton forming the geological core of North America</li>
+<li><a href="/wiki/Glacial_history_of_Minnesota" title="Glacial history of Minnesota">Glacial history of Minnesota</a></li>
+<li><a href="/wiki/Driftless_Area" title="Driftless Area">Driftless Area</a></li>
+<li><a href="/wiki/Lake_Agassiz" title="Lake Agassiz">Lake Agassiz</a></li>
+<li><a href="/wiki/Wisconsin_glaciation" title="Wisconsin glaciation">Wisconsin glaciation</a></li>
+<li><a href="/wiki/Innuitian_ice_sheet" title="Innuitian ice sheet">Innuitian ice sheet</a></li>
+<li><a href="/wiki/Cordilleran_ice_sheet" title="Cordilleran ice sheet">Cordilleran ice sheet</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="References">References</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Laurentide_ice_sheet&amp;action=edit&amp;section=10" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r1239543626">.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Lacelle2018-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lacelle2018_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lacelle2018_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Lacelle, D.; Fisher, D. A.; Coulombe, S.; et al. (5 September 2018). "Buried remnants of the Laurentide Ice Sheet and connections to its surface elevation". <i>Scientific Reports</i> 8, 13286 (2018). <style data-mw-deduplicate="TemplateStyles:r1238218222">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</style><a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1038%2Fs41598-018-31166-2">10.1038/s41598-018-31166-2</a>.</span>
+</li>
+<li id="cite_note-ICS_StratChart_2022-02-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-ICS_StratChart_2022-02_2-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://stratigraphy.org/ICSchart/ChronostratChart2022-02.pdf">"Stratigraphic Chart 2022"</a> <span class="cs1-format">(PDF)</span>. International Stratigraphic Commission. February 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">4 June</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Stratigraphic+Chart+2022&amp;rft.pub=International+Stratigraphic+Commission&amp;rft.date=2022-02&amp;rft_id=https%3A%2F%2Fstratigraphy.org%2FICSchart%2FChronostratChart2022-02.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALaurentide+ice+sheet" class="Z3988"></span></span>
+</li>
+<li id="cite_note-dyke_prest-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-dyke_prest_3-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFDykePrest1987" class="citation journal cs1">Dyke, A. S.; Prest, V. K. (1987). "Late Wisconsinan and Holocene History of the Laurentide Ice Sheet". <i>Géographie Physique et Quaternaire</i>. <b>41</b> (2): <span class="nowrap">237–</span>263. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.7202%2F032681ar">10.7202/032681ar</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=G%C3%A9ographie+Physique+et+Quaternaire&amp;rft.atitle=Late+Wisconsinan+and+Holocene+History+of+the+Laurentide+Ice+Sheet&amp;rft.volume=41&amp;rft.issue=2&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E237-%3C%2Fspan%3E263&amp;rft.date=1987&amp;rft_id=info%3Adoi%2F10.7202%2F032681ar&amp;rft.aulast=Dyke&amp;rft.aufirst=A.+S.&amp;rft.au=Prest%2C+V.+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALaurentide+ice+sheet" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Flint, R.F. 1971. Glacial and Quaternary Geology. Wiley and Sons, NY. p. 892.</span>
+</li>
+<li id="cite_note-Murton_Bateman-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Murton_Bateman_5-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFMurtonBateman,_M.D.Dallimore,_S.RTeller,_J.T.2010" class="citation journal cs1">Murton, J.B.; Bateman, M.D.; Dallimore, S.R; Teller, J.T.; Yang, Z. (2010). "Identification of Younger Dryas outburst flood path from Lake Agassiz to the Arctic Ocean". <i>Nature</i>. <b>464</b> (7289): <span class="nowrap">740–</span>743. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2010Natur.464..740M">2010Natur.464..740M</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1038%2Fnature08954">10.1038/nature08954</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/20360738">20360738</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:4425933">4425933</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Identification+of+Younger+Dryas+outburst+flood+path+from+Lake+Agassiz+to+the+Arctic+Ocean&amp;rft.volume=464&amp;rft.issue=7289&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E740-%3C%2Fspan%3E743&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1038%2Fnature08954&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A4425933%23id-name%3DS2CID&amp;rft_id=info%3Apmid%2F20360738&amp;rft_id=info%3Abibcode%2F2010Natur.464..740M&amp;rft.aulast=Murton&amp;rft.aufirst=J.B.&amp;rft.au=Bateman%2C+M.D.&amp;rft.au=Dallimore%2C+S.R&amp;rft.au=Teller%2C+J.T.&amp;rft.au=Yang%2C+Z.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALaurentide+ice+sheet" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Broeckery_Denton-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Broeckery_Denton_6-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFBroeckerDenton,_G.H.1989" class="citation journal cs1">Broecker, W.S.; Denton, G.H. (1989). "The role of ocean-atmosphere reorganizations in glacial cycles". <i>Geochimica et Cosmochimica Acta</i>. <b>53</b> (10): <span class="nowrap">2465–</span>2501. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/1989GeCoA..53.2465B">1989GeCoA..53.2465B</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2F0016-7037%2889%2990123-3">10.1016/0016-7037(89)90123-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geochimica+et+Cosmochimica+Acta&amp;rft.atitle=The+role+of+ocean-atmosphere+reorganizations+in+glacial+cycles&amp;rft.volume=53&amp;rft.issue=10&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E2465-%3C%2Fspan%3E2501&amp;rft.date=1989&amp;rft_id=info%3Adoi%2F10.1016%2F0016-7037%2889%2990123-3&amp;rft_id=info%3Abibcode%2F1989GeCoA..53.2465B&amp;rft.aulast=Broecker&amp;rft.aufirst=W.S.&amp;rft.au=Denton%2C+G.H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALaurentide+ice+sheet" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFMargoldStokesClark2018" class="citation journal cs1">Margold, Marin; Stokes, Chris R.; Clark, Chris D. (1 June 2018). <a rel="nofollow" class="external text" href="https://durham-repository.worktribe.com/file/1333266/1/Accepted%20Journal%20Article">"Reconciling records of ice streaming and ice margin retreat to produce a palaeogeographic reconstruction of the deglaciation of the Laurentide Ice Sheet"</a>. <i><a href="/wiki/Quaternary_Science_Reviews" title="Quaternary Science Reviews">Quaternary Science Reviews</a></i>. <b>189</b>: <span class="nowrap">1–</span>30. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2018QSRv..189....1M">2018QSRv..189....1M</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="id-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.quascirev.2018.03.013">10.1016/j.quascirev.2018.03.013</a></span>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:53511921">53511921</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Quaternary+Science+Reviews&amp;rft.atitle=Reconciling+records+of+ice+streaming+and+ice+margin+retreat+to+produce+a+palaeogeographic+reconstruction+of+the+deglaciation+of+the+Laurentide+Ice+Sheet&amp;rft.volume=189&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E1-%3C%2Fspan%3E30&amp;rft.date=2018-06-01&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A53511921%23id-name%3DS2CID&amp;rft_id=info%3Adoi%2F10.1016%2Fj.quascirev.2018.03.013&amp;rft_id=info%3Abibcode%2F2018QSRv..189....1M&amp;rft.aulast=Margold&amp;rft.aufirst=Marin&amp;rft.au=Stokes%2C+Chris+R.&amp;rft.au=Clark%2C+Chris+D.&amp;rft_id=https%3A%2F%2Fdurham-repository.worktribe.com%2Ffile%2F1333266%2F1%2FAccepted%2520Journal%2520Article&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALaurentide+ice+sheet" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Hill2006-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hill2006_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hill2006_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Hill2006_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Hill2006_8-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Geologic Framework and Glaciation of the Central Area, 1-1-2006; Christopher L. Hill; Boise State University, Boise, Idaho; 2006.</span>
+</li>
+<li id="cite_note-Dyke1987-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dyke1987_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dyke1987_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Dyke1987_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Dyke1987_9-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Late Wisconsinan and Holocene History of the Laurentide Ice Sheet, 10.7202/032681ar; Arthur S. Dyke, Victor K. Prest; Geological Survey of Canada; Ottawa, Ontario; 1987; <a rel="nofollow" class="external free" href="http://id.erudit.org/iderudit/032681ar">http://id.erudit.org/iderudit/032681ar</a>.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFWilliam_J._Broad2018" class="citation news cs1">William J. Broad (5 June 2018). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2018/06/05/science/how-the-ice-age-shaped-new-york.html">"How the Ice Age Shaped New York"</a>. <i>The New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 February</span> 2019</span>. <q>the ice was about 2,000 feet thick over Manhattan</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=How+the+Ice+Age+Shaped+New+York&amp;rft.date=2018-06-05&amp;rft.au=William+J.+Broad&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2018%2F06%2F05%2Fscience%2Fhow-the-ice-age-shaped-new-york.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALaurentide+ice+sheet" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFMartin_MargoldKrister_N._JanssonJohan_KlemanArjen_P._Stroeven2013" class="citation journal cs1">Martin Margold; Krister N. Jansson; Johan Kleman; Arjen P. Stroeven; John J. Clague (18 February 2013). "Retreat pattern of the Cordilleran Ice Sheet in central British Columbia at the end of the last glaciation reconstructed from glacial meltwater landforms". <i>Boreas</i>. <b>42</b> (4). Wiley Online Library: <span class="nowrap">830–</span>847. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fbor.12007">10.1111/bor.12007</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Boreas&amp;rft.atitle=Retreat+pattern+of+the+Cordilleran+Ice+Sheet+in+central+British+Columbia+at+the+end+of+the+last+glaciation+reconstructed+from+glacial+meltwater+landforms&amp;rft.volume=42&amp;rft.issue=4&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E830-%3C%2Fspan%3E847&amp;rft.date=2013-02-18&amp;rft_id=info%3Adoi%2F10.1111%2Fbor.12007&amp;rft.au=Martin+Margold&amp;rft.au=Krister+N.+Jansson&amp;rft.au=Johan+Kleman&amp;rft.au=Arjen+P.+Stroeven&amp;rft.au=John+J.+Clague&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALaurentide+ice+sheet" class="Z3988"></span></span>
+</li>
+<li id="cite_note-a-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-a_12-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFJ._EnglandN._AtkinsonJ._BednarskiA.S._Dyke2005" class="citation journal cs1">J. England; N. Atkinson; J. Bednarski; A.S. Dyke; D.A. Hodgson; C. Ó Cofaigh (2005). "The Innuitian Ice Sheet: configuration, dynamics and chronology". <i><a href="/wiki/Quaternary_Science_Reviews" title="Quaternary Science Reviews">Quaternary Science Reviews</a></i>. <b>25</b> (<span class="nowrap">7–</span>8): <span class="nowrap">689–</span>703. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.quascirev.2005.08.007">10.1016/j.quascirev.2005.08.007</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Quaternary+Science+Reviews&amp;rft.atitle=The+Innuitian+Ice+Sheet%3A+configuration%2C+dynamics+and+chronology&amp;rft.volume=25&amp;rft.issue=%3Cspan+class%3D%22nowrap%22%3E7%E2%80%93%3C%2Fspan%3E8&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E689-%3C%2Fspan%3E703&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1016%2Fj.quascirev.2005.08.007&amp;rft.au=J.+England&amp;rft.au=N.+Atkinson&amp;rft.au=J.+Bednarski&amp;rft.au=A.S.+Dyke&amp;rft.au=D.A.+Hodgson&amp;rft.au=C.+%C3%93+Cofaigh&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALaurentide+ice+sheet" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Further_reading">Further reading</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Laurentide_ice_sheet&amp;action=edit&amp;section=11" title="Edit section: Further reading"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite class="citation journal cs1"><a rel="nofollow" class="external text" href="https://www.sciencedaily.com/releases/2007/11/071118213213.htm">"Noah's Flood Kick-started European Farming?"</a>. <i>University of Exeter</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=University+of+Exeter&amp;rft.atitle=Noah%27s+Flood+Kick-started+European+Farming%3F&amp;rft_id=https%3A%2F%2Fwww.sciencedaily.com%2Freleases%2F2007%2F11%2F071118213213.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALaurentide+ice+sheet" class="Z3988"></span></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="External_links">External links</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Laurentide_ice_sheet&amp;action=edit&amp;section=12" title="Edit section: External links"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a rel="nofollow" class="external text" href="http://www.museum.state.il.us/exhibits/ice_ages/laurentide_deglaciation.html">The Retreat of Glaciers in North America</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180226165117/http://www.museum.state.il.us/exhibits/ice_ages/laurentide_deglaciation.html">Archived</a> 2018-02-26 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (MPEG-Video)</li></ul>
+<p><br />
+</p>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1236075235">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}</style></div><div role="navigation" class="navbox" aria-labelledby="Continental_glaciations" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#bbeb85;;background:#abdb75;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1239400231">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Continental_glaciations" title="Template:Continental glaciations"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Continental_glaciations" title="Template talk:Continental glaciations"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Continental_glaciations" title="Special:EditPage/Template:Continental glaciations"><abbr title="Edit this template">e</abbr></a></li></ul></div><div id="Continental_glaciations" style="font-size:114%;margin:0 4em">Continental glaciations</div></th></tr><tr><th scope="row" class="navbox-group" style="background:#bbeb85;;width:1%">General</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Post-glacial_rebound" title="Post-glacial rebound">Post-glacial rebound</a></li>
+<li><a href="/wiki/Glacial_lake_outburst_flood" title="Glacial lake outburst flood">Glacial lake outburst flood</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#bbeb85;;width:1%">Time periods</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Glacial_period" title="Glacial period">Glacial period</a></li>
+<li><a href="/wiki/Timeline_of_glaciation" title="Timeline of glaciation">Timeline of glaciation</a></li></ul>
+<ul><li><a href="/wiki/Quaternary_glaciation" title="Quaternary glaciation">Quaternary glaciation</a></li>
+<li><a href="/wiki/Illinoian_(stage)" title="Illinoian (stage)">Illinoian Stage</a></li>
+<li><a href="/wiki/Interglacial" title="Interglacial">Interglacial</a></li>
+<li><a href="/wiki/Stadial" class="mw-redirect" title="Stadial">Interstadial</a></li>
+<li><a href="/wiki/Penultimate_Glacial_Period" title="Penultimate Glacial Period">Penultimate Glacial Period</a></li>
+<li><a href="/wiki/Last_Glacial_Period" title="Last Glacial Period">Last Glacial Period</a></li>
+<li><a href="/wiki/Last_Glacial_Maximum" title="Last Glacial Maximum">Last Glacial Maximum</a></li>
+<li><a href="/wiki/Mousterian_Pluvial" title="Mousterian Pluvial">Mousterian Pluvial</a></li>
+<li><a href="/wiki/Holocene_glacial_retreat" title="Holocene glacial retreat">Holocene glacial retreat</a></li>
+<li><a href="/wiki/Oldest_Dryas" title="Oldest Dryas">Oldest Dryas</a></li>
+<li><a href="/wiki/Older_Dryas" title="Older Dryas">Older Dryas</a></li>
+<li><a href="/wiki/Pleistocene" title="Pleistocene">Pleistocene</a></li>
+<li><a href="/wiki/Pre-Illinoian" title="Pre-Illinoian">Pre-Illinoian Stage</a></li>
+<li><a href="/wiki/Quaternary_glaciation" title="Quaternary glaciation">Quaternary glaciation</a></li>
+<li><a href="/wiki/Sangamonian" title="Sangamonian">Sangamonian Stage</a></li>
+<li><a href="/wiki/Wisconsin_glaciation" title="Wisconsin glaciation">Wisconsin glaciation</a></li>
+<li><a href="/wiki/B%C3%B8lling%E2%80%93Aller%C3%B8d_warming" class="mw-redirect" title="Bølling–Allerød warming">Bølling–Allerød warming</a></li>
+<li><a href="/wiki/Late_Glacial_Interstadial" class="mw-redirect" title="Late Glacial Interstadial">Late Glacial Interstadial</a></li>
+<li><a href="/wiki/Huelmo%E2%80%93Mascardi_Cold_Reversal" title="Huelmo–Mascardi Cold Reversal">Huelmo–Mascardi Cold Reversal</a></li>
+<li><a href="/wiki/Younger_Dryas" title="Younger Dryas">Younger Dryas</a></li>
+<li><a href="/wiki/8.2_kiloyear_event" class="mw-redirect" title="8.2 kiloyear event">8.2 kiloyear event</a></li>
+<li><a href="/wiki/4.2_kiloyear_event" class="mw-redirect" title="4.2 kiloyear event">4.2 kiloyear event</a></li>
+<li><a href="/wiki/Piora_Oscillation" title="Piora Oscillation">Piora Oscillation</a></li>
+<li><a href="/wiki/Little_Ice_Age" title="Little Ice Age">Little Ice Age</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#bbeb85;;width:1%"><a href="/wiki/Glacial_landform" title="Glacial landform">Landforms</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background:#bbeb85;">Erosional</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Fjord" title="Fjord">Fjord</a></li>
+<li><a href="/wiki/Glacial_striation" title="Glacial striation">Glacial striae</a></li>
+<li><a href="/wiki/Roche_moutonn%C3%A9e" title="Roche moutonnée">Roche moutonnée</a></li>
+<li><a href="/wiki/Tunnel_valley" title="Tunnel valley">Tunnel valley</a></li>
+<li><a href="/wiki/U-shaped_valley" title="U-shaped valley">U-shaped valley</a></li>
+<li><a href="/wiki/Glacial_lake" title="Glacial lake">Glacial lake</a></li>
+<li><a href="/wiki/Proglacial_lake" title="Proglacial lake">Proglacial lake</a></li>
+<li><a href="/wiki/Subglacial_lake" title="Subglacial lake">Subglacial lake</a></li>
+<li><a href="/wiki/Supraglacial_lake" title="Supraglacial lake">Supraglacial lake</a></li>
+<li><a href="/wiki/Ribbon_lake" title="Ribbon lake">Ribbon lake</a></li>
+<li><a href="/wiki/List_of_prehistoric_lakes" title="List of prehistoric lakes">List of prehistoric lakes</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#bbeb85;">Depositional</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Drumlin" title="Drumlin">Drumlin</a></li>
+<li><a href="/wiki/Glacial_erratic" title="Glacial erratic">Erratic block</a></li>
+<li><a href="/wiki/Moraine" title="Moraine">Moraine</a></li>
+<li><a href="/wiki/Pulju_Wilderness_Area" title="Pulju Wilderness Area">Pulju moraine</a></li>
+<li><a href="/wiki/Rogen_moraine" title="Rogen moraine">Rogen moraine</a></li>
+<li><a href="/wiki/Terminal_moraine" title="Terminal moraine">Terminal moraine</a></li>
+<li><a href="/wiki/Till_plain" title="Till plain">Till plain</a></li>
+<li><a href="/wiki/Veiki_moraine" title="Veiki moraine">Veiki moraine</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background:#bbeb85;">Glacifluvial</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Diluvium" title="Diluvium">Diluvium</a></li>
+<li><a href="/wiki/Esker" title="Esker">Esker</a></li>
+<li><a href="/wiki/Giant_current_ripples" title="Giant current ripples">Giant current ripples</a></li>
+<li><a href="/wiki/Kame" title="Kame">Kame</a></li>
+<li><a href="/wiki/Kame_delta" title="Kame delta">Kame delta</a></li>
+<li><a href="/wiki/Kettle_(landform)" title="Kettle (landform)">Kettle hole</a></li>
+<li><a href="/wiki/Outwash_fan" title="Outwash fan">Outwash fan</a></li>
+<li><a href="/wiki/Outwash_plain" title="Outwash plain">Sandur</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background:#bbeb85;;width:1%">North America</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Greenland_ice_sheet" title="Greenland ice sheet">Greenland ice sheet</a></li>
+<li><a href="/wiki/Canadian_Shield" title="Canadian Shield">Canadian Shield</a></li>
+<li><a href="/wiki/Cordilleran_ice_sheet" title="Cordilleran ice sheet">Cordilleran ice sheet</a></li>
+<li><a class="mw-selflink selflink">Laurentide ice sheet</a></li></ul>
+<ul><li><a href="/wiki/Lake_Agassiz" title="Lake Agassiz">Lake Agassiz</a></li>
+<li><a href="/wiki/Lake_Chicago" title="Lake Chicago">Lake Chicago</a></li>
+<li><a href="/wiki/Lake_Tight" title="Lake Tight">Lake Tight</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background:#bbeb85;">Canada</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Arrowhead_Provincial_Park" title="Arrowhead Provincial Park">Arrowhead Provincial Park</a>, Ontario</li>
+<li><a href="/wiki/Big_Rock_(glacial_erratic)" class="mw-redirect" title="Big Rock (glacial erratic)">Big Rock (glacial erratic)</a>, Alberta</li>
+<li><a href="/wiki/Cypress_Hills_(Canada)" title="Cypress Hills (Canada)">Cypress Hills (Canada)</a>, Saskatchewan</li>
+<li><a href="/wiki/Eramosa_River" title="Eramosa River">Eramosa River</a>, Ontario</li>
+<li><a href="/wiki/Eskers_Provincial_Park" title="Eskers Provincial Park">Eskers Provincial Park</a>, British Columbia</li>
+<li><a href="/wiki/Foothills_Erratics_Train" title="Foothills Erratics Train">Foothills Erratics Train</a>, Alberta</li>
+<li><a href="/wiki/Lion%27s_Head_Provincial_Park" title="Lion&#39;s Head Provincial Park">Lion's Head Provincial Park</a>, Ontario</li>
+<li><a href="/wiki/Origin_of_the_Oak_Ridges_Moraine" title="Origin of the Oak Ridges Moraine">Origin of the Oak Ridges Moraine</a>, Ontario</li>
+<li><a href="/wiki/Ovayok_Territorial_Park" title="Ovayok Territorial Park">Ovayok Territorial Park</a>, Nunavut</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#bbeb85;">United<br />States</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Bonneville" title="Lake Bonneville">Lake Bonneville</a>, Utah</li>
+<li><a href="/wiki/Lake_Lahontan" title="Lake Lahontan">Lake Lahontan</a>, Nevada</li>
+<li><a href="/wiki/Lake_Missoula" class="mw-redirect" title="Lake Missoula">Lake Missoula</a>, Montana</li>
+<li><a href="/wiki/Glacial_Lake_Wisconsin" title="Glacial Lake Wisconsin">Glacial Lake Wisconsin</a>, Wisconsin</li></ul>
+<ul><li><a href="/wiki/Chippewa_Moraine_State_Recreation_Area" title="Chippewa Moraine State Recreation Area">Chippewa Moraine State Recreation Area</a>, Wisconsin</li>
+<li><a href="/wiki/Coteau_des_Prairies" title="Coteau des Prairies">Coteau des Prairies</a>, South Dakota</li>
+<li><a href="/wiki/Devil%27s_Lake_State_Park_(Wisconsin)" title="Devil&#39;s Lake State Park (Wisconsin)">Devil's Lake State Park</a>, Wisconsin</li>
+<li><a href="/wiki/Glacial_Lakes_State_Park" title="Glacial Lakes State Park">Glacial Lakes State Park</a>, Minnesota</li>
+<li><a href="/wiki/Glacial_history_of_Minnesota" title="Glacial history of Minnesota">Glacial history of Minnesota</a></li>
+<li><a href="/wiki/Horicon_Marsh" title="Horicon Marsh">Horicon Marsh State Wildlife Area</a>, Wisconsin</li>
+<li><a href="/wiki/Ice_Age_Floods_National_Geologic_Trail" title="Ice Age Floods National Geologic Trail">Ice Age Floods National Geologic Trail</a>, Idaho, Oregon and Washington</li>
+<li><a href="/wiki/Ice_Age_National_Scientific_Reserve" title="Ice Age National Scientific Reserve">Ice Age National Scientific Reserve</a>, Wisconsin</li>
+<li><a href="/wiki/Ice_Age_Trail" title="Ice Age Trail">Ice Age Trail</a>, Wisconsin</li>
+<li><a href="/wiki/Interstate_Park" title="Interstate Park">Interstate State Park</a>, Minnesota and Wisconsin</li>
+<li><a href="/wiki/Kelleys_Island,_Ohio" title="Kelleys Island, Ohio">Kelleys Island</a>, Ohio</li>
+<li><a href="/wiki/Teays_River" title="Teays River">Teays River</a>, Ohio</li>
+<li><a href="/wiki/Kettle_Moraine_State_Forest" title="Kettle Moraine State Forest">Kettle Moraine State Forest</a>, Wisconsin</li>
+<li><a href="/wiki/Mill_Bluff_State_Park" title="Mill Bluff State Park">Mill Bluff State Park</a>, Wisconsin</li>
+<li><a href="/wiki/Oneida_Lake" title="Oneida Lake">Oneida Lake</a>, New York</li>
+<li><a href="/wiki/Two_Creeks_Buried_Forest_State_Natural_Area" title="Two Creeks Buried Forest State Natural Area">Two Creeks Buried Forest State Natural Area</a>, Wisconsin</li>
+<li><a href="/wiki/Withrow_Moraine_and_Jameson_Lake_Drumlin_Field" title="Withrow Moraine and Jameson Lake Drumlin Field">Withrow Moraine and Jameson Lake Drumlin Field</a>, Washington</li>
+<li><a href="/wiki/Yosemite_National_Park" title="Yosemite National Park">Yosemite National Park</a>, California</li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#bbeb85;;width:1%">Eurasia</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Hardangerfjord" title="Hardangerfjord">Hardangerfjord</a></li>
+<li><a href="/wiki/Killary_Harbour" title="Killary Harbour">Killary Harbour</a></li>
+<li><a href="/wiki/Monte_Rosa" title="Monte Rosa">Monte Rosa</a></li>
+<li><a href="/wiki/Svalbard" title="Svalbard">Svalbard</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#bbeb85;;width:1%">Antarctica</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Antarctic_Glaciation" class="mw-redirect" title="Antarctic Glaciation">Antarctic Glaciation</a></li>
+<li><a href="/wiki/Antarctic_ice_sheet" title="Antarctic ice sheet">Antarctic ice sheet</a> (<a href="/wiki/East_Antarctic_Ice_Sheet" title="East Antarctic Ice Sheet">East</a>, <a href="/wiki/West_Antarctic_Ice_Sheet" title="West Antarctic Ice Sheet">West</a>)</li>
+<li><a href="/wiki/Lambert_Glacier" title="Lambert Glacier">Lambert Glacier</a></li>
+<li><a href="/wiki/Ross_Ice_Shelf" title="Ross Ice Shelf">Ross Ice Shelf</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background:#bbeb85;"><div>
+<ul><li><span class="noviewer" typeof="mw:File"><span title="Category"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <a href="/wiki/Category:Glaciers" title="Category:Glaciers">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1236075235"></div><div role="navigation" class="navbox" aria-labelledby="Pleistocene_proglacial_lakes_and_related_seas" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1239400231"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Pleistocene_Lakes_and_Seas" title="Template:Pleistocene Lakes and Seas"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Pleistocene_Lakes_and_Seas" title="Template talk:Pleistocene Lakes and Seas"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Pleistocene_Lakes_and_Seas" title="Special:EditPage/Template:Pleistocene Lakes and Seas"><abbr title="Edit this template">e</abbr></a></li></ul></div><div id="Pleistocene_proglacial_lakes_and_related_seas" style="font-size:114%;margin:0 4em"><a href="/wiki/Pleistocene" title="Pleistocene">Pleistocene</a> <a href="/wiki/Proglacial_lake" title="Proglacial lake">proglacial lakes</a> and related seas</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Africa</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Makgadikgadi" title="Lake Makgadikgadi">Lake Makgadikgadi</a></li>
+<li><a href="/wiki/Lake_Ptolemy" title="Lake Ptolemy">Lake Ptolemy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Antarctica</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Washburn_(Antarctica)" title="Lake Washburn (Antarctica)">Lake Washburn</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Asia</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Bandung" title="Lake Bandung">Lake Bandung</a></li>
+<li><a href="/wiki/Lake_Tengger" title="Lake Tengger">Lake Tengger</a></li>
+<li><a href="/wiki/Mundafan" title="Mundafan">Mundafan</a></li>
+<li><a href="/wiki/West_Siberian_Glacial_Lake" title="West Siberian Glacial Lake">West Siberian Glacial Lake</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Europe</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10em">Baltic Sea</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Ancylus_Lake" title="Ancylus Lake">Ancylus Lake</a></li>
+<li><a href="/wiki/Baltic_Ice_Lake" title="Baltic Ice Lake">Baltic Ice Lake</a></li>
+<li><a href="/wiki/Littorina_Sea" title="Littorina Sea">Littorina Sea</a></li>
+<li><a href="/wiki/Mastogloia_Sea" title="Mastogloia Sea">Mastogloia Sea</a></li>
+<li><a href="/wiki/Yoldia_Sea" title="Yoldia Sea">Yoldia Sea</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">Russia</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Komi" title="Lake Komi">Lake Komi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">Great Britain</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Harrison" title="Lake Harrison">Lake Harrison</a></li>
+<li><a href="/wiki/Lake_Lapworth" title="Lake Lapworth">Lake Lapworth</a></li>
+<li><a href="/wiki/Lake_Pickering" title="Lake Pickering">Lake Pickering</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">North America</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Nelson_River" title="Nelson River">Nelson River</a> drainage</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Agassiz" title="Lake Agassiz">Lake Agassiz</a></li>
+<li><a href="/wiki/Lake_Bassano" title="Lake Bassano">Lake Bassano</a></li>
+<li><a href="/wiki/Lake_Souris" title="Lake Souris">Lake Souris</a></li>
+<li><a href="/wiki/Proglacial_lakes_of_Minnesota" title="Proglacial lakes of Minnesota">Proglacial lakes of Minnesota</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/James_Bay" title="James Bay">James Bay</a> drainage</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Ojibway" title="Lake Ojibway">Lake Ojibway</a></li>
+<li><a href="/wiki/Tyrrell_Sea" title="Tyrrell Sea">Tyrrell Sea</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Great_Lakes" title="Great Lakes">Great Lakes</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Champlain_Sea" title="Champlain Sea">Champlain Sea</a></li>
+<li><a href="/wiki/Lake_Admiralty" title="Lake Admiralty">Lake Admiralty</a></li>
+<li><a href="/wiki/Lake_Algonquin" title="Lake Algonquin">Lake Algonquin</a> (Multiple basins)</li>
+<li><a href="/wiki/Lake_Arkona" title="Lake Arkona">Lake Arkona</a></li>
+<li><a href="/wiki/Lake_Chicago" title="Lake Chicago">Lake Chicago</a></li>
+<li><a href="/wiki/Lake_Chippewa" title="Lake Chippewa">Lake Chippewa</a></li>
+<li><a href="/wiki/Dana_Lake" title="Dana Lake">Lake Dana</a></li>
+<li><a href="/wiki/Lake_Duluth" title="Lake Duluth">Lake Duluth</a></li>
+<li><a href="/wiki/Early_Lake_Erie" title="Early Lake Erie">Early Lake Erie</a></li>
+<li><a href="/wiki/Lake_Frontenac" title="Lake Frontenac">Lake Frontenac</a></li>
+<li><a href="/w/index.php?title=Lake_Houghton_(glacial)&amp;action=edit&amp;redlink=1" class="new" title="Lake Houghton (glacial) (page does not exist)">Lake Houghton (glacial)</a></li>
+<li><a href="/wiki/Glacial_Lake_Iroquois" title="Glacial Lake Iroquois">Glacial Lake Iroquois</a></li>
+<li><a href="/w/index.php?title=Lake_Lundy&amp;action=edit&amp;redlink=1" class="new" title="Lake Lundy (page does not exist)">Lake Lundy</a></li>
+<li><a href="/wiki/Lake_Maumee" title="Lake Maumee">Lake Maumee</a></li>
+<li><a href="/wiki/Lake_Minong" title="Lake Minong">Lake Minong</a></li>
+<li><a href="/wiki/Nipissing_Great_Lakes" title="Nipissing Great Lakes">Nipissing Great Lakes</a> (Multiple basins)</li>
+<li><a href="/w/index.php?title=Early_Lake_Ontario&amp;action=edit&amp;redlink=1" class="new" title="Early Lake Ontario (page does not exist)">Early Lake Ontario</a></li>
+<li><a href="/wiki/Lake_Saginaw" title="Lake Saginaw">Lake Saginaw</a></li>
+<li><a href="/wiki/Lake_Stanley" title="Lake Stanley">Lake Stanley</a></li>
+<li><a href="/wiki/Lake_Tonawanda" title="Lake Tonawanda">Lake Tonawanda</a></li>
+<li><a href="/wiki/Lake_Warren" title="Lake Warren">Lake Warren</a></li>
+<li><a href="/wiki/Lake_Wayne" title="Lake Wayne">Lake Wayne</a></li>
+<li><a href="/wiki/Lake_Whittlesey" title="Lake Whittlesey">Lake Whittlesey</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Columbia_River" title="Columbia River">Columbia River</a> system</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Allison" title="Lake Allison">Lake Allison</a></li>
+<li><a href="/wiki/Glacial_Lake_Columbia" title="Glacial Lake Columbia">Glacial Lake Columbia</a></li>
+<li><a href="/wiki/Lake_Lewis" title="Lake Lewis">Lake Lewis</a></li>
+<li><a href="/wiki/Glacial_Lake_Missoula" title="Glacial Lake Missoula">Glacial Lake Missoula</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Great_Basin" title="Great Basin">Great Basin</a> system</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Bonneville" title="Lake Bonneville">Lake Bonneville</a></li>
+<li><a href="/wiki/Lake_Lahontan" title="Lake Lahontan">Lake Lahontan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Puget_Sound" title="Puget Sound">Puget Sound</a> system</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Skokomish" title="Lake Skokomish">Glacial Lake Hood</a></li>
+<li><a href="/wiki/Lake_Nisqually" title="Lake Nisqually">Lake Nisqually</a></li>
+<li><a href="/wiki/Lake_Puyallup" title="Lake Puyallup">Lake Puyallup</a></li>
+<li><a href="/wiki/Glacial_Lake_Russell" title="Glacial Lake Russell">Glacial Lake Russell</a></li>
+<li><a href="/w/index.php?title=Glacial_Lake_Sammamish&amp;action=edit&amp;redlink=1" class="new" title="Glacial Lake Sammamish (page does not exist)">Glacial Lake Sammamish</a></li>
+<li><a href="/wiki/Lake_Skokomish" title="Lake Skokomish">Lake Skokomish</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">Upper <a href="/wiki/Missouri_River" title="Missouri River">Missouri River</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Chouteau" title="Lake Chouteau">Lake Chouteau</a></li>
+<li><a href="/wiki/Lake_Circle" title="Lake Circle">Lake Circle</a></li>
+<li><a href="/wiki/Lake_Cut_Bank" title="Lake Cut Bank">Lake Cut Bank</a></li>
+<li><a href="/wiki/Lake_Glendive" title="Lake Glendive">Lake Glendive</a></li>
+<li><a href="/wiki/Lake_Great_Falls" title="Lake Great Falls">Lake Great Falls</a></li>
+<li><a href="/wiki/Lake_Jordan_(Montana)" title="Lake Jordan (Montana)">Lake Jordan (Montana)</a></li>
+<li><a href="/wiki/Glacial_Lake_McKenzie" title="Glacial Lake McKenzie">Lake McKenzie</a></li>
+<li><a href="/wiki/Lake_Musselshell" title="Lake Musselshell">Lake Musselshell</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">Upper <a href="/wiki/Mississippi_River" title="Mississippi River">Mississippi</a> drainage</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Kankakee" title="Lake Kankakee">Lake Kankakee</a></li>
+<li><a href="/wiki/Kankakee_Outwash_Plain" title="Kankakee Outwash Plain">Kankakee Outwash Plain</a></li>
+<li><a href="/wiki/Glacial_Lake_Wisconsin" title="Glacial Lake Wisconsin">Lake Wisconsin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Ohio_River" title="Ohio River">Ohio</a> drainage</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Monongahela" title="Lake Monongahela">Lake Monongahela</a></li>
+<li><a href="/wiki/Lake_Tight" title="Lake Tight">Lake Tight</a></li>
+<li><a href="/wiki/Teays_River" title="Teays River">Teays River</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Hudson_River" title="Hudson River">Hudson</a> valley</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Albany" title="Lake Albany">Lake Albany</a></li>
+<li><a href="/wiki/Lake_Passaic" title="Lake Passaic">Lake Passaic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">New England</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Glacial_Lake_Cape_Cod" title="Glacial Lake Cape Cod">Lake Cape Cod</a></li>
+<li><a href="/wiki/Lake_Connecticut" title="Lake Connecticut">Lake Connecticut</a></li>
+<li><a href="/wiki/Lake_Hitchcock" title="Lake Hitchcock">Lake Hitchcock</a></li>
+<li><a href="/wiki/Lake_Merrimack" title="Lake Merrimack">Lake Merrimack</a></li>
+<li><a href="/wiki/Glacial_Lake_Nantucket_Sound" title="Glacial Lake Nantucket Sound">Lake Nantucket Sound</a></li>
+<li><a href="/wiki/Lake_Stowe" title="Lake Stowe">Lake Stowe</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/California" title="California">California</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Cahuilla" title="Lake Cahuilla">Lake Cahuilla</a></li>
+<li><a href="/wiki/Lake_Corcoran" title="Lake Corcoran">Lake Corcoran</a></li>
+<li><a href="/wiki/Harper_Lake" title="Harper Lake">Lake Harper</a></li>
+<li><a href="/wiki/Lake_Manix" title="Lake Manix">Lake Manix</a></li>
+<li><a href="/wiki/Lake_Manly" title="Lake Manly">Lake Manly</a></li>
+<li><a href="/wiki/Lake_Modoc" title="Lake Modoc">Lake Modoc</a></li>
+<li><a href="/wiki/Lake_Mojave" title="Lake Mojave">Lake Mojave</a></li>
+<li><a href="/wiki/Lake_Panamint" title="Lake Panamint">Lake Panamint</a></li>
+<li><a href="/wiki/Lake_Russell_(prehistoric)" title="Lake Russell (prehistoric)">Lake Russell</a></li>
+<li><a href="/wiki/Lake_Tecopa" title="Lake Tecopa">Lake Tecopa</a></li>
+<li><a href="/wiki/Lake_Thompson_(California)" title="Lake Thompson (California)">Lake Thompson</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Rio_Grande_rift" title="Rio Grande rift">Rio Grande rift</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Alamosa" title="Lake Alamosa">Lake Alamosa</a></li>
+<li><a href="/wiki/Lake_Estancia" title="Lake Estancia">Lake Estancia</a></li>
+<li><a href="/wiki/Lake_Palomas" title="Lake Palomas">Lake Palomas</a></li>
+<li><a href="/wiki/Lake_San_Agust%C3%ADn" title="Lake San Agustín">Lake San Agustín</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Alaska" title="Alaska">Alaska</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Atna" title="Lake Atna">Lake Atna</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">South America</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lake_Ballivi%C3%A1n" title="Lake Ballivián">Lake Ballivián</a></li>
+<li><a href="/wiki/Cabana_(ancient_lake)" title="Cabana (ancient lake)">Cabana</a></li>
+<li><a href="/wiki/Lake_Escara" class="mw-redirect" title="Lake Escara">Lake Escara</a></li>
+<li><a href="/wiki/Inca_Huasi_(ancient_lake)" title="Inca Huasi (ancient lake)">Inca Huasi</a></li>
+<li><a href="/wiki/Mataro_(ancient_lake)" title="Mataro (ancient lake)">Mataro</a></li>
+<li><a href="/wiki/Lake_Minchin" class="mw-redirect" title="Lake Minchin">Lake Minchin</a></li>
+<li><a href="/wiki/Ouki" title="Ouki">Ouki</a></li>
+<li><a href="/wiki/Sajsi" title="Sajsi">Sajsi</a></li>
+<li><a href="/wiki/Salinas_(ancient_lake)" title="Salinas (ancient lake)">Salinas</a></li>
+<li><a href="/wiki/Lake_Tauca" title="Lake Tauca">Lake Tauca</a></li>
+<li><a href="/wiki/Great_Tehuelche_Paleolake" title="Great Tehuelche Paleolake">Great Tehuelche Paleolake</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Summary</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/List_of_prehistoric_lakes" title="List of prehistoric lakes">List of prehistoric lakes</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><span class="nowrap"><span class="noviewer" typeof="mw:File"><span><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/16px-Terra.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/24px-Terra.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/32px-Terra.png 2x" data-file-width="600" data-file-height="600" /></span></span> </span><a href="/wiki/Portal:Geography" title="Portal:Geography">Geography&#32;portal</a></li>
+<li><span class="nowrap"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/P_history.svg/16px-P_history.svg.png" decoding="async" width="16" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/P_history.svg/24px-P_history.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/P_history.svg/32px-P_history.svg.png 2x" data-file-width="400" data-file-height="360" /></span></span> </span><a href="/wiki/Portal:History" title="Portal:History">History&#32;portal</a></li>
+<li><span class="nowrap"><span class="noviewer" typeof="mw:File"><span><img alt="image" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Walden_Pond%2C_Massachusetts_on_June_27%2C_2012.png/16px-Walden_Pond%2C_Massachusetts_on_June_27%2C_2012.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Walden_Pond%2C_Massachusetts_on_June_27%2C_2012.png/24px-Walden_Pond%2C_Massachusetts_on_June_27%2C_2012.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Walden_Pond%2C_Massachusetts_on_June_27%2C_2012.png/32px-Walden_Pond%2C_Massachusetts_on_June_27%2C_2012.png 2x" data-file-width="1500" data-file-height="1500" /></span></span> </span><a href="/wiki/Portal:Lakes" title="Portal:Lakes">Lakes&#32;portal</a></li>
+<li><span class="nowrap"><span class="noviewer" typeof="mw:File"><a href="/wiki/File:Waves_in_pacifica_1.jpg" class="mw-file-description"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Waves_in_pacifica_1.jpg/16px-Waves_in_pacifica_1.jpg" decoding="async" width="16" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Waves_in_pacifica_1.jpg/24px-Waves_in_pacifica_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Waves_in_pacifica_1.jpg/32px-Waves_in_pacifica_1.jpg 2x" data-file-width="2000" data-file-height="1358" /></a></span> </span><a href="/wiki/Portal:Oceans" title="Portal:Oceans">Oceans&#32;portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐ext.eqiad.main‐69c974fc68‐98hs5
+Cached time: 20241228154401
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.579 seconds
+Real time usage: 0.722 seconds
+Preprocessor visited node count: 1832/1000000
+Post‐expand include size: 84973/2097152 bytes
+Template argument size: 1607/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 58143/5000000 bytes
+Lua time usage: 0.377/10.000 seconds
+Lua memory usage: 21820198/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  605.503      1 -total
+ 26.81%  162.340      1 Template:Reflist
+ 17.94%  108.598      1 Template:Annotated_link
+ 16.09%   97.434      1 Template:Continental_Glaciations
+ 15.81%   95.736      4 Template:Navbox
+ 14.89%   90.150      1 Template:Infobox_glacier
+ 14.28%   86.438      1 Template:Infobox
+ 11.89%   71.970      1 Template:Short_description
+  9.73%   58.891      7 Template:Cite_journal
+  9.01%   54.535      2 Template:Ubl
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:1354987:|#|:idhash:canonical and timestamp 20241228154401 and revision id 1261556295. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Laurentide_ice_sheet&amp;oldid=1261556295">https://en.wikipedia.org/w/index.php?title=Laurentide_ice_sheet&amp;oldid=1261556295</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ice_sheets" title="Category:Ice sheets">Ice sheets</a></li><li><a href="/wiki/Category:Glaciology" title="Category:Glaciology">Glaciology</a></li><li><a href="/wiki/Category:Glaciology_of_Canada" title="Category:Glaciology of Canada">Glaciology of Canada</a></li><li><a href="/wiki/Category:Glaciology_of_the_United_States" title="Category:Glaciology of the United States">Glaciology of the United States</a></li><li><a href="/wiki/Category:Geology_of_New_York_(state)" title="Category:Geology of New York (state)">Geology of New York (state)</a></li><li><a href="/wiki/Category:Geology_of_Illinois" title="Category:Geology of Illinois">Geology of Illinois</a></li><li><a href="/wiki/Category:Geology_of_Kansas" title="Category:Geology of Kansas">Geology of Kansas</a></li><li><a href="/wiki/Category:Geology_of_Missouri" title="Category:Geology of Missouri">Geology of Missouri</a></li><li><a href="/wiki/Category:Pleistocene" title="Category:Pleistocene">Pleistocene</a></li><li><a href="/wiki/Category:Geological_history_of_the_Great_Lakes" title="Category:Geological history of the Great Lakes">Geological history of the Great Lakes</a></li><li><a href="/wiki/Category:Midwestern_United_States" title="Category:Midwestern United States">Midwestern United States</a></li><li><a href="/wiki/Category:Northeastern_United_States" title="Category:Northeastern United States">Northeastern United States</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 6 December 2024, at 18:27<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a href="/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" title="Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License">Creative Commons Attribution-ShareAlike 4.0 License</a>;
+additional terms may apply. By using this site, you agree to the <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use" class="extiw" title="foundation:Special:MyLanguage/Policy:Terms of Use">Terms of Use</a> and <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy" class="extiw" title="foundation:Special:MyLanguage/Policy:Privacy policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Laurentide_ice_sheet&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="/static/images/footer/wikimedia-button.svg" width="84" height="29" alt="Wikimedia Foundation" loading="lazy"></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="/w/resources/assets/poweredby_mediawiki.svg" alt="Powered by MediaWiki" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul></ul>
+</div><script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8445b8969b-kxkz5","wgBackendResponseTime":129,"wgPageParseReport":{"limitreport":{"cputime":"0.579","walltime":"0.722","ppvisitednodes":{"value":1832,"limit":1000000},"postexpandincludesize":{"value":84973,"limit":2097152},"templateargumentsize":{"value":1607,"limit":2097152},"expansiondepth":{"value":10,"limit":100},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":58143,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  605.503      1 -total"," 26.81%  162.340      1 Template:Reflist"," 17.94%  108.598      1 Template:Annotated_link"," 16.09%   97.434      1 Template:Continental_Glaciations"," 15.81%   95.736      4 Template:Navbox"," 14.89%   90.150      1 Template:Infobox_glacier"," 14.28%   86.438      1 Template:Infobox"," 11.89%   71.970      1 Template:Short_description","  9.73%   58.891      7 Template:Cite_journal","  9.01%   54.535      2 Template:Ubl"]},"scribunto":{"limitreport-timeusage":{"value":"0.377","limit":"10.000"},"limitreport-memusage":{"value":21820198,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"size\"] = \"tiny\",\n}\ntable#1 {\n    [\"size\"] = \"tiny\",\n}\ntable#1 {\n    [\"size\"] = \"tiny\",\n}\ntable#1 {\n    [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw-api-ext.eqiad.main-69c974fc68-98hs5","timestamp":"20241228154401","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Laurentide ice sheet","url":"https:\/\/en.wikipedia.org\/wiki\/Laurentide_ice_sheet","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1765405","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1765405","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-01-02T17:29:46Z","dateModified":"2024-12-06T18:27:40Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/00\/Laurentide_ice_sheet_map.jpg","headline":"continental glacier in North America during the last ice age"}</script>
+</body>
+</html>

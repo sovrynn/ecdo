@@ -1,0 +1,13 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Ugava Bay ice surge event (A1)
+
+Basic location of event: Hudson Bay
+
+Specific data/information/context related to event: Sci-Hub | Heinrich events show two-stage climate response in transient glacial simulations. Climate of the Past, 15(1), 153–168 | 10.5194/cp-15-153-2019
+
+Ziemen, F. A., Kapsch, M.-L., Klockmann, M., & Mikolajewicz, U. (2019). Heinrich events show two-stage climate response in transient glacial simulations. Climate of the Past, 15(1), 153–168. doi:10.5194/cp-15-153-2019
+
+10.5194/cp-15-153-2019
+
+downloaded on 2019-04-10

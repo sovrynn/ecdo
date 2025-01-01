@@ -1,0 +1,377 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Deception Island 
+
+Basic location of event: Antarctica
+
+Specific data/information/context related to event: Deception Island is in the South Shetland Islands close to the Antarctic Peninsula with a large and usually "safe" natural harbor, which is occasionally affected by the underlying active volcano. This island is the caldera of an active volcano, which seriously damaged local scientific stations in 1967 and 1969. The island previously held a whaling station. It is now a tourist destination with over 15,000 visitors per year. Two research stations are operated by Argentina and Spain during the summer season. While various countries have asserted sovereignty, it is still administered under the Antarctic Treaty System.
+
+**Geography**  
+Deception Island is located in Antarctica. It has coordinates of 62°57′30″S 60°38′30″W. The island has an area of 79 km² (31 sq mi) and a length and width of 12 km (7.5 mi). The highest elevation is 542 m (1,778 ft) at Mount Pond. 
+
+**Administration**  
+Administered under the Antarctic Treaty System.
+
+**Demographics**  
+Population: 0
+
+Deception Island map with the topography and the location of the stations and protected zones.
+
+This is a brief summary based on the available information from the provided document.
+Telefon Bay
+
+Looking WSW from the center of the caldera
+
+Located within the Bransfield Strait, the island is roughly circular and horseshoe-shaped, with a maximum diameter around 15 km (9.3 mi). The highest peak, Mount Pond on the east side of the island, has an elevation of 539 m (1,768 ft), while Mount Kirkwood on the west has an elevation of 452 m (1,483 ft). Over half (57%) of the island is covered by glaciers up to 10 m thick, ice-cored moraines, or ice-covered pyroclasts. The centre of the island has been flooded by the sea to form a large bay, now called Port Foster, about 10 km (6.2 mi) long and 7 km (4.3 mi) wide. The bay has a narrow entrance, just 500 m (1,640 ft) wide, called Neptune's Bellows. The port is a basin with a flat floor up to 170 m (560 ft) deep with several small submarine cones and domes. The port is rimmed by a shallow coastal shelf with sandy-gravelly beaches. The outer coast of the island is characterized by 30–70 m (98–230 ft) cliffs of rock or ice.
+
+Raven's Rock, a navigation hazard, lies 2.5 m (8.2 ft) below the water in the middle of the channel. Just inside Neptune's Bellows lies the cove Whalers Bay, which is bordered by a large black sand beach. Several maars line the inside rim of the caldera, with some containing crater lakes (including one named Crater Lake). Others form bays within the harbour, such as the 1 km (0.6 mi) wide Whalers Bay. Other features of the island include Mount Kirkwood, Fumarole Bay, Sewing-Machine Needles, Telefon Bay, and Telefon Ridge.
+
+The linear Costa Recta spanning most of the east coast is hypothesised to be a scarp of a retreated submarine fault.
+
+A 2016 study on Ardley Island, 120 km (75 mi) to the northeast, examined lake guano sediments and studied penguin population dynamics over 7,000 years. Three of five population growth phases were terminated by a sudden crash, due to volcanic eruptions from the active volcano of Deception Island. The history of volcanic eruptions is still under investigation, but several larger eruptions happened in the last 10,000 years.
+
+Geology
+
+Deception Island is the exposed portion of an active shield volcano 30 km in diameter. The island is associated with Bransfield Basin seafloor spreading that includes a volcanic ridge and seamounts dating back to the Pleistocene. Deception Island volcanic ash layers have been found on other South Shetland Islands, the Bransfield Strait, the Scotia Sea and in South Pole ice cores. Volcanic tremors are common, originating from depths less than 10 km. Historical eruptions occurred in 1839–1842, 1967, 1969, and 1970. Stratigraphy of the island is characterized by the pre-caldera Port Foster Group and the post-caldera Mount Pond Group, both within the Deception Island Volcanic Complex. The Port Foster Group's principal outcrops are located at South Point, Cathedral Crags near Entrance Point and north of Punta de la Descubierta forming spectacular coastal cliffs along the western portion of the island. The group is composed of the Fumarole Bay Formation consisting of hydrovolcanic tephra, the Basaltic Shield Formation consisting of lavas and Strombolian scoria, and the Outer Coast Tuff Formation consisting of lapilli-tuffs. 
+
+The Mount Pond Group dominates the surface geology and consists of the pyroclastic Baily Head and Pendulum Cove formations, both formed during hydrovolcanic eruptions, and the Stonethrow Ridge Formation consisting of tuff cone and maar deposits. The caldera collapsed as either a hydrovolcanic eruption of the Outer Coast Tuff Formation, releasing about 30 cubic kilometers of magma, or passively due to regional tectonics, since the island is at the intersection of the Bransfield Strait rift and the orthogonal Hero fracture zone.
+
+History
+
+The first authenticated sighting of Deception Island was by the British sealers William Smith and Edward Bransfield from the brig Williams in January 1820. It was first visited and explored by the American sealer Nathaniel Palmer on the sloop Hero the following summer, on 15 November 1820. He remained for two days, exploring the central bay. Palmer named it "Deception Island" on account of its outward deceptive appearance as a normal island, when the narrow entrance of Neptune's Bellows revealed it rather to be a ring around a flooded caldera.
+
+Palmer was part of an American sealing fleet from Stonington, Connecticut, under the command of Benjamin Pendleton, consisting of 6 ships. Port Fisher was used as their operational base from 1820 to 1821. Palmer met Bellingshausen close to the island in Jan. 1821, during the First Russian Antarctic Expedition.
+
+A lighthouse named Surgidero Iquique was built on the island to guide vessels into Deception Station.
+
+Whaling and sealing
+
+Over the next few years, Deception became a focal point of the short-lived fur-sealing industry in the South Shetlands. The industry began with a handful of ships in the 1819–1820 summer season, rising to nearly a hundred in 1821–1822. While the island did not have a large seal population, it was a perfect natural harbour, mostly free from ice and winds, and a convenient rendezvous point. Some men likely lived ashore in tents or shacks for short periods during the summer, though no archaeological or documentary evidence survives to confirm this. Massive overhunting meant that the fur seals neared extinction in the South Shetlands within a few years, and the sealing industry collapsed as quickly as it had begun. Deception was abandoned again in approximately 1825.
+
+Sealing captain Robert Fildes charted Port Foster in 1820–1821, which in 1829 became the first published Antarctic nautical chart.
+
+In 1829, the British Naval Expedition to the South Atlantic under the command of Captain Henry Foster in HMS Chanticleer stopped at Deception. The expedition conducted a topographic survey and scientific experiments, particularly pendulum and magnetic observations. A watercolour made by Lieutenant Kendall of the Chanticleer during the visit may be the first image made of the island. A subsequent visit by the American elephant-sealer Ohio in 1842 reported the first recorded volcanic activity, with the southern shore "in flames".
+
+Scientific research
+
+On 16 November 1928, Hubert Wilkins made the first Antarctic flight from a Whalers Bay ash runway.
+
+Deception remained uninhabited for a decade, but was revisited in 1941 by the British auxiliary warship HMS Queen of Bermuda, which destroyed the oil tanks and some remaining supplies to ensure it could not be used as a German supply base. In 1942, an Argentine party aboard the Primero de Mayo visited and left signs and painted flags declaring the site Argentine territory; the following year, a British party with HMS Carnarvon Castle returned to remove the signs.
+
+In 1944, a British expedition under Lieutenant James Marr established a short-lived base on Deception Island as part of Operation Tabarin, which was carried out during the Second World War to deny safe anchorages to enemy raiding vessels and to gather meteorological data for allied shipping in the South Atlantic. It also had the effect of strengthening British claims to the Falkland Island Dependencies that had begun being challenged by Argentina and Chile. Operation Tabarin would deny use of the area to the Kriegsmarine, which was known to use remote islands as rendezvous points, and address a fear that Japan might attempt to seize the Falkland Islands. Following the end of the war, the research begun by Operation Tabarin continued in subsequent years, ultimately becoming the British Antarctic Survey.
+
+In February 1953, as part of a post-war British effort to exert sovereignty over its claimed Antarctic territories, HMS Snipe (U20) landed a party of Royal Marines on Deception Island to destroy an Argentinian and a Chilean military base; an action known as the Deception Island incident.
+
+In 1961, Argentina's president Arturo Frondizi visited the island to show his country's interest. Regular visits were made by other countries operating in the Antarctic, including the 1964 visit of the US Coast Guard icebreaker Eastwind, which ran aground inside the harbour.
+
+However, the volcano returned to activity in 1967 and 1969, destroying the existing scientific stations. Both British and Chilean stations were demolished, and the island was again abandoned for several years. The final major volcanic eruption was reported by the Russian Bellingshausen station on King George Island and the Chilean station Arturo Prat on Greenwich Island; both stations experienced major falls of ash on 13 August 1970.
+
+Tourism
+
+The first commercial cruise ship arrived in January 1966. By 1999, over 10,000 tourists had visited the island.
+
+Research stations
+
+Aguirre Cerda
+
+President Pedro Aguirre Cerda Station was a Chilean Antarctic base, located at Pendulum Cove on Deception Island in the South Shetland Islands, inaugurated in 1955. It was evacuated in December 1967 when volcanic eruptions forced the evacuation of the base.
+
+Deception
+
+Deception Station is an Argentine base located at Deception Island. The station was founded on 25 January 1948 and was a year-round station until December 1967, when volcanic eruptions forced the evacuation of the base. Since then, it has been inhabited only during the summer.
+
+Gabriel de Castilla
+
+Gabriel de Castilla Base is a Spanish research station located on Deception Island. The station was constructed in 1990.
+
+Gutiérrez Vargas Refuge
+
+The Gutiérrez Vargas Refuge, named after an aviation captain who died on 30 December 1955, was located at 1 km (0.62 mi) from Aguirre Cerda Station and was inaugurated on 12 February 1956. Its purpose was to serve as a refuge for the members of the station in case of fire. On 4 December 1967 the refuge was definitively abandoned, as was the Aguirre Cerda Station, due to a violent volcanic eruption. The remains of the refuge structure can still be seen on the beach where it was located.
+
+Station B
+
+In early 1944, a party of men from Operation Tabarin, a British expedition, established a permanent scientific base named Station B. This was occupied until 5 December 1967, when an eruption forced a temporary withdrawal. It was used again between 4 December 1968 and 23 February 1969, when further volcanic activity caused it to be abandoned.
+
+Environment
+
+Deception Island has become a popular tourist stop in Antarctica because of its several colonies of chinstrap penguins, as well as the possibility of making a warm bath by digging into the sands of the beach. After the Norwegian Coastal Cruise Liner MS Nordkapp ran aground off the coast of Deception Island on 30 January 2007, fuel from the ship washed into a bay. Ecological damage has not yet been determined. On 4 February 2007, the Spanish Gabriel de Castilla research station on Deception Island reported that water and sand tests were clean, and that they had not found signs of the oil, estimated as 500 to 750 L of light diesel.
+
+Deception Island exhibits some wildly varying microclimates. Near volcanic areas, the air can be as hot as 40 °C (104 °F), and water temperature can reach 70 °C (158 °F).
+
+Antarctic specially protected areas
+
+Eleven terrestrial sites have been collectively designated as an Antarctic specially protected area (ASPA 140), primarily for their botanic and ecological values, because the island has the greatest number of rare plant species of any place in the Antarctic. This is largely due to frequent volcanic activity creating new substrates for plant colonisation:
+
+Collins Point (site A) contains good examples of long-established vegetation, with high species diversity and several rarities.
+Crater Lake (site B) has a scoria-covered lava tongue with a diverse cryptogamic flora, and exceptional development of turf-forming mosses.
+An unnamed hill at the southern end of Fumarole Bay (site C) has several rare species of mosses that have colonised the heated soil crust close to a line of volcanic vents.
+Fumarole Bay (site D) is geologically complex with the most diverse flora on the island.
+West Stonethrow Ridge (site E) supports several rare mosses, liverworts, and lichens.
+Telefon Bay (site F) has all its surfaces dating from 1967, thus allowing accurate monitoring of colonisation by plants and animals.
+Pendulum Cove (site G) is another known-age site being colonised by mosses and lichens.
+Mount Pond (site H) contains exceptional moss, liverwort, and lichen communities.
+Perchue Cone (site J) is an ash and cinder cone with rare mosses.
+Ronald Hill to Kroner Lake (site K) is another known-age site being colonised by numerous cryptogam species, and with a unique algal community on the lake shore.
+South East Point (site L) supports the most extensive population of Antarctic pearlwort known in the Antarctic region.
+In addition, two marine sites in Port Foster have collectively been designated ASPA 145, to protect their benthic communities.
+
+Important bird area
+
+Baily Head, a prominent headland forming the easternmost extremity of the island, has been identified as an important bird area (IBA) by BirdLife International because it supports a very large breeding colony of chinstrap penguins (100,000 pairs). The 78 ha (190-acre) IBA comprises the ice-free headland and about 800 metres (0.50 mi) of beach on either side of it. Other birds known to nest at the site include brown skuas, Cape petrels, and snowy sheathbills.
+
+See also
+
+Bynon Hill
+Cathedral Crags
+List of Antarctic islands south of 60° S
+List of volcanoes in Antarctica
+List of lighthouses in Antarctica
+List of Antarctic research stations
+List of Antarctic field camps
+Stancomb Cove
+Stanley Patch
+Wensleydale Beacon
+Crime in Antarctica
+
+References
+ISBN 9780521372664. 
+
+Dibbern, J. Stephen (2 September 2009). "Fur seals, whales and tourists: A commercial history of Deception Island, Antarctica". Polar Record. 46 (3): 210–221. doi:10.1017/S0032247409008651. S2CID 140710046.
+
+Mills, William J. (2003). Exploring Polar Frontiers: A historical encyclopedia. Vol. 1. ABC Clio. p. 183. ISBN 978-1-57607-422-0.
+
+Rowlett, Russ. "Lighthouses of Antarctica". The Lighthouse Directory. University of North Carolina at Chapel Hill. Retrieved 25 May 2017.
+
+Fogg, Gordon Elliott (1992). A History of Antarctic Science. Cambridge, UK: Cambridge University Press. pp. 72–74.
+
+Williams, Glynn. "Railways in Antarctica". Retrieved 4 September 2014.
+
+"SCAR Composite Gazetteer". data.aad.gov.au. Retrieved 28 August 2017.
+
+"The West Coasts of North and South America (excluding continental U.S.A. and Hawaii), Australia, Tasmania, New Zealand, and the Islands of the North and South Pacific Oceans". List of Lights (Report). U.S. National Geospatial-Intelligence Agency. 2017. Pub. 111.
+
+"Measures adopted". The Antarctic Treaty 28th Consultative Meeting 6–17 June 2005. Stockholm, SE: United Kingdom Foreign and Commonwealth Affairs Office. July 2007. pp. 293–299. Command Paper 7166.
+
+"Parts of Deception Island, South Shetland Islands". Management Plan for Antarctic Specially Protected Area No. 140 (Report). Antarctic Treaty Secretariat. 2005. Measure 3, Appendix 1. 
+
+"Port Foster, Deception Island, South Shetland Islands". Management Plan for Antarctic Specially Protected Area No. 145 (Report). Antarctic Treaty Secretariat. 2005. Measure 3, Appendix 2.
+
+"From the log book of Christopher Malinger, seaman on the USCGC Eastwind".
+
+Fuchs, Vivian (1982). Of Ice and Men. Oswestry: Anthony Nelson. pp. 291–292, 294. ISBN 978-0-904614-06-0.
+
+"Official website". Deception Island. Retrieved 3 May 2007.
+
+"Volcanic activity". Deception Island. Retrieved 4 June 2007.
+
+"Deception Island". Eco-Photo Explorers. Archived from the original on 1 July 2007.
+
+LeMasurier, W.E.; Thomson, J.W.; et al. (1990). Volcanoes of the Antarctic Plate and Southern Oceans. American Geophysical Union. ISBN 978-0-87590-172-5.
+
+Serrano, E. (2001). "Espacios protegidos y política territorial en las islas Shetland del Sur (Antártida)". Boletín de la A.G.E. 31: 5–21 – via researchgate.net.
+Mac. Robertson Land  
+Murray Monolith  
+Rookery Islands  
+Scullin Monolith  
+Taylor Rookery  
+Princess Elizabeth Land  
+Amanda Bay  
+Hawker Island  
+Mount Harding  
+Mule Peninsula  
+Queen Mary Land  
+Haswell Island  
+Wilkes Land  
+Ardery Island  
+Bailey Peninsula  
+Charlton Island  
+Clark Peninsula  
+Dewart Island  
+Frazier Islands  
+Nelly Island  
+Odbert Island  
+Adélie Land  
+Bernard Island  
+Bon Docteur Nunatak  
+Carrel Island  
+Géologie Archipelago  
+Lamarck Island (Antarctica)  
+Port Martin  
+Rostand Island  
+George V Land  
+Mawson's Huts  
+Victoria Land  
+Balham Valley  
+Barwick Valley  
+Canada Glacier  
+Cape Adare  
+Cape Geology  
+Cape Hallett  
+Cape Washington  
+Edmonson Point  
+Linnaeus Terrace  
+Mount Melbourne  
+Mount Rittmann  
+Seabee Hook  
+Ross Sea  
+Arrival Heights  
+Backdoor Bay  
+Beaufort Island  
+Cape Crozier  
+Cape Evans  
+Cape Royds  
+Hut Point Peninsula  
+Lewis Bay  
+New College Valley  
+North-west White Island  
+Sabrina Island (Antarctica)  
+Tramway Ridge  
+Palmer Land  
+Ablation Lake  
+Ablation Point  
+Ablation Point – Ganymede Heights  
+Ablation Valley  
+Erratic Valley  
+Flatiron Valley  
+Ganymede Heights  
+Himalia Ridge  
+Marion Nunataks  
+Mount Martine  
+Mount Monique  
+Moutonnée Lake  
+Striation Valley  
+Graham Land  
+Apéndice Island  
+Avian Island  
+Biscoe Point  
+Bransfield Strait  
+Cierva Point  
+Dion Islands  
+Eastern Dallmann Bay  
+Emperor Island  
+Green Island (Berthelot Islands)  
+Lagotellerie Island  
+Litchfield Island  
+Midas Island  
+Moss Islands  
+Mount Flora  
+Rothera Point  
+South Bay (Doumer Island)  
+South Shetlands  
+Admiralty Bay  
+Ardley Island  
+Byers Peninsula  
+Cape Shirreff  
+Collins Point  
+Coppermine Peninsula  
+Crater Lake  
+Deception Island  
+Discovery Bay  
+Fildes Peninsula  
+Harmony Point  
+Kroner Lake  
+Lions Rump  
+Mount Pond  
+Narębski Point  
+Pendulum Cove  
+Port Foster  
+Potter Peninsula  
+Ronald Hill  
+San Telmo Island  
+South East Point (South Shetland Islands)  
+Stonethrow Ridge  
+Suffield Point  
+Telefon Bay  
+South Orkneys  
+Christoffersen Island  
+Coronation Island  
+Fredriksen Island  
+Grey Island (South Orkney Islands)  
+Lynch Island  
+Michelsen Island  
+Moe Island  
+Southern Powell Island  
+Geography  
+Antarctic sea ice  
+Climate  
+Climate change  
+Heat waves  
+Ice shelves  
+Geology  
+Glaciers  
+Mountains  
+Tundra  
+Volcanoes  
+Regions  
+Biogeographic realm  
+Antarctic Peninsula  
+East Antarctica  
+ice sheet  
+shield  
+Extreme points  
+Floristic Kingdom  
+Islands  
+South Pole  
+South magnetic pole  
+West Antarctica  
+ice sheet  
+Bodies of Water  
+Antarctic/Southern Ocean  
+Lake CECs  
+Lake Mercer  
+Lake Vostok  
+List of rivers  
+McMurdo Sound  
+Ross Sea  
+Weddell Sea  
+Life  
+Flora  
+Microorganisms  
+Wildlife  
+Birds  
+Mammals  
+Krill  
+History  
+Expeditions  
+Heroic Age  
+World War II  
+Colonization  
+COVID-19 pandemic  
+Years  
+Politics  
+Council of Managers of National Antarctic Programs  
+Military activity  
+National programs  
+Territorial claims  
+Treaty System  
+Society  
+Antarctica Day  
+Antarctic English  
+Crime  
+Demographics  
+Economy  
+Field camps  
+Firefighting  
+Flags  
+Gateway cities  
+Midwinter Day  
+Protected areas  
+Religion  
+Research stations  
+Telecommunications  
+Time  
+Tourism  
+Transport  
+Women  
+Famous explorers  
+Roald Amundsen  
+Richard E. Byrd  
+Douglas Mawson  
+Ui-te-Rangiora  
+James Clark Ross  
+Robert Falcon Scott  
+Ernest Shackleton
+Wikimedia Foundation
+Powered by MediaWiki
+Deception Island
+Antarctic island

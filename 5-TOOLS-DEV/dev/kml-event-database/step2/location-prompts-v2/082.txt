@@ -1,0 +1,186 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Iberian Peninsula Tsunami 4.2ka
+
+Basic location of event: Iberian Peninsula
+
+Specific data/information/context related to event: How to interpret Holocene palaeoenvironmental and cultural changes in SW Iberia based on the palynological record from the GeoB23519-01 core (RV METEOR cruise M152)
+
+EGU General Assembly, 4th-8th May2020 / Session NH5.3: Geological Records of Tsunamis and Other Extreme Waves
+C. Val-Peón 1*, D. Eichner 1, J.A. López-Sáez 2, K. Reicherter 1, L. Feist 1, P.J.M. Costa 3,4, P.
+Bellanova 1,5, J.I. Santisteban 6, I. Bosnic 3, J. Schwarzbauer 5, M. Frenken 5, A. Vött 7, H.
+Brückner 8, H. Schüttrumpf 9, C. Andrade 5, J.F. Duarte 10, J. Kuhlmann 11
+1 Neotectonics and Natural Hazards Group, RWTH Aachen University, Germany
+2 Environmental Archaeology Research Group, Instituto de Historia (CCHS), C.S.I.C., Madrid
+3 Instituto D. Luiz, Faculdade de Ciências, Universidade de Lisboa, Portugal
+4 Earth Sciences Department, Faculty of Sciences and Technologies, University of Coimbra, Portugal
+5 Laboratory for Organic-Geochemical Analysis, Institute of Geology and Geochemistry of Petroleum and Coal, RWTH Aachen University, Germany
+6 Department of Geodynamics, Stratigraphy and Paleontology, Fac. Geological Sciences, Complutense University of Madrid, Spain
+7 Institute of Geography, Natural Hazard Research and Geoarchaeology Group, Johannes Gutenberg-Universität Mainz, Germany
+8 Institute of Geography, Department of Geosciences, University of Cologne, Germany
+9 Institute of Hydraulic Engineering and Water Resource Management, RWTH Aachen University, Germany
+10 Divisão de Geologia Marinha, Instituto Hidrográfico, Portugal
+11 MARUM - Center for Marine Environmental Sciences, Research Faculty, University of Bremen, Germany
+*corresponding author:
+c.val@nug.rwth-aachen.de
+EGU General Assembly, 4th-8th May2020 / Session NH5.3: Geological Records of Tsunamis and Other Extreme Waves
+Introduction
+→ Southwest of the Iberian peninsula: key territory of major geoarchaeological interest, as well as
+a reservoir of biodiversity and a wildlife refuge area during the Holocene.
+→ Unstable bioclimatic conditions in the Western Mediterranean: further studies are still
+required to understand how climate events and natural hazards impacted societies and environment.
+→ The RV Meteor cruise M-152 retrieved 19 vibracores and 4 gravity cores along the Algarve coast.
+The core GeoB23519-01 was taken 65 m below present sea level and recovered 365 cm of
+sediment. Five potential event layers were identified over the last 11 ka cal BP and, at least two of
+them, are related to tsunami deposits (ca. 3700* cal BP and 1779 cal AD).
+*There is a mistake in the abstract. It is 3700 cal BP instead of 4370 cal BP.
+EGU General Assembly, 4th-8th May2020 / Session NH5.3: Geological Records of Tsunamis and Other Extreme Waves
+B: Tectonic map of southwest Iberia margin. White line show Africa-Eurasia WNW-ESE
+convergence, while gray arrows show the Gibraltar westward movement. HF: Horseshoe
+fault. Modified after Duarte et al. (2013).
+C: Surface sediments of the Portuguese continental shelf and some stations of expedition M-
+152. Surface sediments are adapted from Hydrographic Institute Lisbon (1986). Core 19 is
+pointed in red.
+A B C
+A: Simplified overview of plate
+tectonic in the North Atlantic
+Ocean. AJT: Azores triple
+junction; AGFZ: Azores-Gibraltar
+fracture zone. Modified after
+Duarte et al. (2013).
+Study area
+EGU General Assembly, 4th-8th May2020 / Session NH5.3: Geological Records of Tsunamis and Other Extreme Waves
+LITHOLOGY & CHRONOLOGY:
+Stratigraphic units identified by visual
+description of the sediment.
+Magnetic characteristics
+(Bartington MS2K, resolution of 2 cm, accuracy
+of 1.0 SI).
+P-wave velocity
+(interval of 2.5 cm, PUNDIT LAB).
+X-ray fluorescence scans - XRF
+(ITRAX core scanner, resolution 2 mm, 20 s
+exposure time, 30 kV, 55 mA).
+14C-dated: 5 articulated bivalves (cores
+GeoB23519-01/02) at the Beta Analytic
+Inc., USA.
+Calibration: CALIB 7.1
+PALYNOLOGY:
+Sampling at 5-10 cm interval.
+Treatment: exotic marker + HCl 10% +
+KOH 10% + SPT 2.0 cm3/gr + Glycerol.
+Optical microscope at 400x and 1000x.
+Counting up to 200 terrestrial pollen
+grains.
+Identification & counting of pollen
+grains/spores, fungi, algae, zoo-
+remains, micro-charcoal.
+Diagrams: TiliaGraph – CONISS.
+FORAMINIFERAL STUDY:
+Sampling focused on the energy wave
+events (EWE) occurrence.
+Treatment: drying 20 gr bulk sample +
+washing + sieving at 0.063 mm.
+Samples subdivision (ca 0.01g) to
+calculate n° individuals/gr.
+Planktonic/benthic-Index (P/B-Index),
+Shannon-Wiener Index (diversity of the
+assemblage), and Index of Oceanity
+after Gibson (1989).
+Material & Methods
+EGU General Assembly, 4th-8th May2020 / Session NH5.3: Geological Records of Tsunamis and Other Extreme Waves
+POLLEN
+HIATUS
+AD 1755
+tsunami ?
+4.2 ka cal
+BP event?
+ca. 3.7 ka
+cal BP
+tsunami
+First results
+See Feist et al. (EGU2020-8504)
+for more information about cores
+01&02
+EGU General Assembly, 4th-8th May2020 / Session NH5.3: Geological Records of Tsunamis and Other Extreme Waves
+PALYNOLOGY:
+- ca. 160 cm, before the palaeo-tsunami:
+· Continentalization (↑ high-mountain pines).
+· Dry conditions (↑ xerophytic elements).
+· Moisture decrease (↓ mesophilous woodlands; ↓ riparian trees; ↓ Isoetes).
+· Evidence of anthropization decrease (↓ anthropogenic-nitrophilous herbs).
+- Pollen hiatus during the ca. 3.7 ka cal BP tsunami layer (sterile samples) vs no impact of the AD 1755 tsunami in pollen
+preservation.
+FORAMINIFERAL STUDY:
+- Palaeo-tsunami:
+· Less diversity and density.
+· Planktonic foraminifera decreasing from the basis to the top of the event layer.
+· Transport of shallow water taxa towards deeper areas → tsunami backwash.
+· Taphonomic features like scratches due to turbidite-like flow towards deeper waters.
+- No input of the AD 1755 tsunami backwash.
+4.2 ka cal BP event?
+Discussion
+EGU General Assembly, 4th-8th May2020 / Session NH5.3: Geological Records of Tsunamis and Other Extreme Waves
+~ 3.7-3.6 tsunami
+4.2 climatic
+event
+CULTURAL CHANGES
+5
+4
+3
+~ 3.9-3.7 erosive phase
+~ 4.2-4.1 alternation EWE
+~ 4.5-4.2 erosive phase
+ka cal BP GULF OF CÁDIZ
+(Doñana National Park)
+ALGARVE OFFSHORE
+(M-152 GeoB23519)
+EARLY
+BRONZE
+AGE
+LATE
+BRONZE
+AGE
+COPPER
+AGE
+Agrarian
+landscape
+Population
+in coastal areas
+Pastoralism-
+oriented economy
+Inland
+relocation
+COLLAPSE DECLINE
+Discussion
+EGU General Assembly, 4th-8th May2020 / Session NH5.3: Geological Records of Tsunamis and Other Extreme Waves
+- Clear impact of the 4.2 ka cal BP climate event on the vegetation and human groups / land use.
+- Impact of EWEs:
+· Algarve offshore ~ 3.7-3.6 ka cal BP → unknown → no pollen preservation
+· Doñana National Park ~ 4.2-4 ka cal BP → clear impact / also climate event
+- Coastal geomorphology determines the EWEs impact on the landscape and coastal settlements.
+- Marine cores do not mirror that impact at the same level than continental cores do.
+- Currently working on:
+· Accurate age-depth model to correlate all the dated cores.
+· Palynological analysis of the deepest sections of the core.
+FAST
+RECOVERY
+afterwards
+Conclusion & Outlook
+EGU General Assembly, 4th-8th May2020 / Session NH5.3: Geological Records of Tsunamis and Other Extreme Waves
+References
+Duarte, J.C., Rosas, F.M., Terrinha, P., Schellart, W.P., Boutelier, D., Gutscher, M.-A., Ribeiro, A., 2013. Are subduction zones invading the
+Atlantic? Evidence from the southwest Iberia margin. Geology 41(8), 839–842.
+Gibson, T.G., 1989. Planktonic benthonic foraminiferal ratios: Modern patterns and Tertiary applicability. Marine Micropaleontology 15 (1-2),
+29–52.
+Instituto Hidrográfico, 2009, Carta dos Sedimentos Superficiais da Plataforma Continental – Cabo São Vicente ao Rio Guadiana, scale 1: 50
+000, 1 sheet. 2nd 246 edition.
+Lillios, K.T., Blanco-González, A., Lee Drake, B., López-Sáez, J.A., 2016. Mid-late Holocene climate, demography, and cultural dynamics in
+Iberia: a multi-proxy approach. Quaternary Science Reviews 135, 138–153.
+López-Sáez, J.A., Pérez-Díaz, S., Rodríguez-Ramírez, A., Blanco-González, A., Villarías-Robles, J.J.R., Luelmo-Lautenschlaeger, R.,
+Jiménez-Moreno, G., Celestino-Pérez, S., Cerrillo-Cuenca, E., Pérez-Asensio, J.N., León, Á., 2018. Mid-late Holocene environmental and
+cultural dynamics at the south-west tip of Europe (Doñana National Park, SW Iberia, Spain). Journal of Archaeological Science: Reports 22,
+58–78.
+Ruiz, F., Rodríguez Ramírez, A., Cáceres, L.M., Rodríguez-Vidal, J., Carretero, M.L., Abad, M., Olías, M. and Pozo, M., 2005. Evidence of
+high-energy events in the geological record: Mid-holocene evolution of the southwestern Donana National Park (SW Spain). Palaeogeography,
+Palaeoclimatology, Palaeoecology 229 (3), 212-229.

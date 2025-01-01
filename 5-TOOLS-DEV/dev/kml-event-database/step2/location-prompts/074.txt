@@ -1,0 +1,58 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid returning countries. Return only the location. Here's the information:
+
+Basic description of event: Camp Century
+
+Basic location of event: Camp Century
+
+Specific data/information/context related to event: Camp Century
+
+Camp Century was an Arctic United States military scientific research base in Greenland, situated 240 km (150 mi) east of Pituffik Space Base. When built, Camp Century was publicized as a demonstration for affordable ice-cap military outposts and a base for scientific research.
+
+According to documents declassified in 1996, Camp Century was a preliminary camp for Project Iceworm whose goal was to install a vast network of nuclear missile launch sites that could survive a first strike. Missiles were never fielded at the facility and obtaining the necessary consent from the Danish Government to do so was never broached.
+
+The camp operated from 1959 until 1967. It consisted of 21 tunnels with a total length of 9,800 feet (3.0 km) and was powered by a nuclear reactor. Project Iceworm was aborted after realization that the ice sheet was not as stable as originally assessed, and that the missile basing concept would not be feasible. The reactor was removed and Camp Century later was abandoned. However, hazardous waste remains buried under the ice and has become an environmental concern.
+
+Scientific Research
+
+Ice core samples from Camp Century were used to create stable isotopes analyses used to develop climate models. Analysis of soil contained in the samples suggests that the site was ice-free as recently as 400,000 years prior, indicating a much reduced Greenland ice sheet and therefore much higher sea levels. Since 2017, the Geological Survey of Denmark and Greenland has maintained a climate monitoring presence at Camp Century with the Camp Century Climate Monitoring Program. This monitoring presence includes measuring climate variables, snow and ice temperatures, and ice-penetrating radar surveys of the subsurface debris and contaminant field.
+
+History
+
+As explained by the United States Department of Defense to Danish officials in 1960, the purpose of Camp Century was to test various construction techniques under Arctic conditions, to explore practical problems with the PM-2A semi-mobile nuclear reactor, and to support scientific experiments on the icecap. Construction on the camp and the sub-glacial nuclear reactor began without explicit permission from the government of Denmark, leading to a political dilemma for Prime Minister H. C. Hansen.
+
+The camp was in operation until 1967, when shifting icecaps made habitation impossible. Subsequently, the camp was abandoned and the remains of the facility were buried by the icecaps and ultimately crushed by them.
+
+Design and Performance
+
+Camp Century was designed as an arctic subsurface camp and the cut-and-cover trenching technique was used for its construction. The layout of the camp consisted of a series of parallel main trenches in which buildings and other structures were housed. With appropriate maintenance, the camp design had a projected lifespan of ten years. It was manned for five years and abandoned after eight years.
+
+The trenches constructed in 1959 had compressed both vertically and horizontally within four years, to the extent that many already had reached their design margins. After that, extensive snow trimming was required to maintain the trenches. The trenches were covered with a steel arch and the longest trench extended to 1,100 feet (340 m), while both its width and height were 26 feet (7.9 m).
+
+The subsurface camp provided good protection from the elements and had modern bathroom, dining, and medical facilities. Prefabricated buildings were placed inside the trenches. The camp maintained a number of vehicles and had abundant storage for fuel and food. The reactor provided plenty of power and proved it could be installed, operated, and removed in such a remote location. The reactor powered the base for more than three years, but was shut down due to unexpected accelerated compression of the reactor trenches, in part due to the residual heat in the reactor area required to maintain the feed water pools.
+
+Both snow trimming required to maintain the trenches and sewage disposal were ongoing problems with the facility. The sewage sump was 150 feet (46 m) from the nearest building and initially, was not vented. As a result, the odor of sewage became almost unbearable in the nearest quarters after the first year of operation. Subsequent venting of the sump reduced the odor, but did not eliminate the fundamental condition. In 1962, core samples were taken in the areas near the sump and found that liquid wastes had permeated up to 170 feet (52 meters) horizontally. Thus, this accelerated trench deformation and odor from the sump affected nearby trenches containing sleeping quarters.
+
+Women's Army Corps units were not stationed at Camp Century. It was not until 1978 that women were merged into regular units so they never were among those serving at the remote outpost of Camp Century. 
+
+In October 1965, the U.S. Army concluded that subsurface ice camps are feasible and practical, that nuclear power offers significant advantages, and that the wealth of data and experience obtained from Camp Century would be of inestimable value in future designs. However, today only elevated structures are in common use on permanent snow fields. No large subsurface ice camps are known to have been constructed after Camp Century was abandoned.
+
+Residual Environmental Hazards
+
+When the camp was decommissioned in 1967, its infrastructure and waste were abandoned under the assumption they would be entombed forever by perpetual snowfall.
+
+In 2016, however, a group of scientists evaluated the environmental impact of the abandoned facility and estimated that due to changing weather patterns over the next few decades, meltwater could release the nuclear waste, 200,000 liters of diesel fuel, a nontrivial quantity of PCBs, and 24 million liters of untreated sewage into the environment as early as the year 2090. Transition in ice sheet surface mass balance at Camp Century from net accumulation to net ablation is determined plausible within the next 75 years under one climate model, and after another 44 to 88 years the buried wastes could be exposed (between 2135 and 2179).
+
+As of 2016, the majority of the solid waste at the facility was buried at an approximate depth of 36 m (118 ft). Climate models differ. A Norwegian climate model suite (NorESM1) shows that increased snow fall is not overcome by increased melting, so the remains of the base could become deeper under the ice. A Canadian model suite (CanESM2), gives an anticipated 2090 solid waste depth of 67 m, and between 44 and 88 years of persistent ablation that could be required to melt all overlying granular snow and expose wastes at the ice sheet surface. In either scenario, eventually highly diluted contaminants in melt water could be released at the coast 250 km away, and the contamination is estimated to occur in the twenty-second century or later.
+
+A 2021 assessment of the future evolution of Camp Century demonstrated that meltwater never reached the base, in fact, it never penetrated more than 1.1 meters. This data supports a determination that there is no chance for remobilization of debris and contaminants before year 2100 and projections have been adjusted with weather measurements from the station at Camp Century. This latter study, used versions of the CanESM2 and RACMO2 climate models that are calibrated to climate observations at Camp Century. William Colgan, project leader of the Camp Century Climate Monitoring Programme of the Geological Survey of Denmark and Greenland, conclusively stated "Since the amount of annual snow will continue to exceed the annual melting, the mapped debris field will continue to be buried deeper in the Greenland ice sheet. In other words: there is no risk that the debris will come to the surface due to melting before 2100."
+
+Detection by NASA Radar Equipment
+
+In April 2024, NASA flew across Greenland to explore the ability of its synthetic-aperture radar to survey features within the profile of the ice cap. The multidimensional Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) revealed a feature under the ice that NASA was able to identify as the remnants of Camp Century.
+
+See Also
+
+- Army Nuclear Power Program
+
+References
+ISBN 978-0-87590-057-5. Thomas M. Cronin (5 September 1999). Principles of Paleoclimatology. Columbia University Press. p. 415. ISBN 978-0-231-50304-4. Voosen, Paul (2019-11-01). "Mud in storied ice core hints at a thawed Greenland". Science. 366 (6465): 556–557. doi:10.1126/science.366.6465.556. S2CID 207814814. Colgan, William; Pedersen, Allan; Binder, Daniel; Machguth, Horst; Abermann, Jakob; Jayred, Mike (2018-08-15). "Initial field activities of the Camp Century Climate Monitoring Programme in Greenland". GEUS Bulletin. 41: 75–78. doi:10.34194/geusb.v41.4347. Nielsen, Kristian Hvidtfelt (December 19, 2017). "How the US built a mysterious military camp under the Greenland ice sheet". Translated by Jex, Catherine. ScienceNordic. Retrieved December 21, 2017. "Inside the Army's Secret Cold War Ice Base". Military.com. 2017-11-28. Retrieved 2023-10-29. "Camp Century Evolution of Concept and History of Design Construction and Performance, Technical report 174" (PDF). p. 27. Archived from the original (PDF) on August 22, 2017. "Camp Century Evolution of Concept and History of Design Construction and Performance, Technical report 174" (PDF). p. 41. Archived from the original (PDF) on August 22, 2017. "Camp Century Evolution of Concept and History of Design Construction and Performance, Technical report 174" (PDF). p. 43. Archived from the original (PDF) on August 22, 2017. "Camp Century Evolution of Concept and History of Design Construction and Performance, Technical report 174" (PDF). p. 65. Archived from the original (PDF) on August 22, 2017. "Homepage" (PDF). "The abandoned ice sheet base at Camp Century, Greenland, in a warming climate". Vandecrux, Baptiste; Colgan, William; Solgaard, Anne M.; Steffensen, Jørgen Peder; Karlsson, Nanna B. (2021). "Firn Evolution at Camp Century, Greenland: 1966–2100". Frontiers in Earth Science. 9: 67. doi:10.3389/feart.2021.578978. "New View of the 'City Under the Ice'". earthobservatory.nasa.gov. Retrieved 2024-11-26. Further reading: Colgan, Liam; Machguth, Horst; MacFerrin, Mike; Colgan, Jeff D.; van As, Dirk; MacGregor, Joseph A. "Mysterious, Ice-Buried Cold War Military Base May Be Unearthed by Climate Change". Science. doi:10.1126/science.aag0726. Retrieved 6 June 2017. Sima Sahar Zerehi (5 August 2016). "Climate change could expose Cold War–era Arctic military base". CBC News. Retrieved 27 November 2016. Alister Doyle (17 October 2016). "Greenland calls for clean-up of toxic U.S. Cold War bases". Reuters. Retrieved 6 June 2017. 1963 documentary about building the camp, narrated by the project manager for the U.S. War Office on YouTube. Thule Air Base/Camp Century information. U.S. Army Corps of Engineers, Cold Regions Research and Engineering, Camp Century Evolution of Concept and History of Design Construction and Performance, Technical report 174.

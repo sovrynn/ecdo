@@ -1,0 +1,13 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Chinaellow River Flooding
+
+Basic location of event: Y
+
+Specific data/information/context related to event: Sci-Hub | Extreme flooding of the lower Yellow River near the Northgrippian-Meghalayan boundary: Evidence from the Shilipu archaeological site in southwestern Shandong Province, China. Geomorphology, 350, 106878 | 10.1016/j.geomorph.2019.106878
+
+Yu, S.-Y., Hou, Z., Chen, X., Wang, Y., Song, Y., Gao, M., … Chen, F.-H. (2020). Extreme flooding of the lower Yellow River near the Northgrippian-Meghalayan boundary: Evidence from the Shilipu archaeological site in southwestern Shandong Province, China. Geomorphology, 350, 106878. doi:10.1016/j.geomorph.2019.106878 
+
+10.1016/j.geomorph.2019.106878
+
+downloaded on 2019-11-17

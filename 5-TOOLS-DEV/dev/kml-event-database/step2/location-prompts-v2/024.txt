@@ -1,0 +1,209 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Black Sea refilling
+
+Basic location of event: Black Sea
+
+Specific data/information/context related to event: Black Sea deluge hypothesis
+
+The Black Sea deluge is the best known of three hypothetical flood scenarios proposed for the Late Quaternary history of the Black Sea. One other flood scenario proposes a rapid, even catastrophic, rise in sea level of the Black Sea.
+
+History
+
+In 1997, William Ryan, Walter Pitman, Petko Dimitrov, and their colleagues first published the Black Sea deluge hypothesis. They proposed that a catastrophic inflow of Mediterranean seawater into the Black Sea freshwater lake occurred around 7,600 years ago, c. 5600 BCE. As proposed, the Early Holocene Black Sea flood scenario describes events that would have profoundly affected prehistoric settlement in Eastern Europe and adjacent parts of Asia and possibly was the basis of oral history concerning the myth of Noah's flood. Some archaeologists support this theory as an explanation for the lack of Neolithic sites in northern Turkey. In 2003, Ryan and coauthors revised the dating of the early Holocene flood to 8,800 years ago, c. 6800 BCE.
+
+Before that date, glacial meltwater had turned the Black and Caspian seas into vast freshwater lakes draining into the Aegean Sea. As glaciers retreated, some of the rivers emptying into the Black Sea declined in volume and changed course to drain into the North Sea. The levels of the lakes dropped through evaporation, while changes in worldwide hydrology caused global sea levels to rise.
+
+The rising Mediterranean finally spilled over a rocky sill at the Bosporus. The event flooded 100,000 km² (39,000 sq mi) of land and significantly expanded the Black Sea shoreline to the north and west. According to these researchers, 50 km³ (10 cu mi) of water poured through each day. The Bosporus valley roared and surged at full spate for at least 300 days. They argued that the catastrophic inflow of seawater resulted from an abrupt sea-level jump that accompanied the Laurentide Ice Sheet collapse and the ensuing breach of a bedrock barrier in the Bosporus strait.
+
+Popular press accounts
+
+Popular discussion of this early Holocene Black Sea flood scenario was headlined in The New York Times in December 1996 and later published as a book. In a series of expeditions widely covered by mainstream media, a team of marine archaeologists led by Robert Ballard identified what appeared to be ancient shorelines, freshwater snail shells, drowned river valleys, tool-worked timbers, and man-made structures in roughly 100 metres (330 ft) of water off the Black Sea coast of modern Turkey.
+
+Late Pleistocene Great Flood hypothesis
+
+In 2003 and 2007, a more ancient catastrophic flood scenario was proposed by Andrei L. Chepalyga for the Late Quaternary sea level rise of the Black Sea. The hypothesis for a Late Pleistocene Great Flood argues that brackish Neoeuxinian Lake, which occupied the Black Sea basin, was rapidly inundated by glacial meltwater overflow from the Caspian Sea via the Manych-Kerch Spillway shortly after the Late Glacial Maximum, about 17,000–14,000 BP. These extensive meltwater flooding events linked several lacustrine and marine water bodies, starting with the southern edge of the Scandinavian and southward, through spillways to the Manych-Kerch and Bosphorus, ultimately forming what has been referred to as the Cascade of Eurasian Basins. This event is argued to have caused a rapid, if not catastrophic, rise in the level of the Black Sea. It might have imposed substantial stresses upon contemporary human populations and remained in cultural memory as the Great Flood. The authors also suggested that the event might have stimulated the beginning of shipping and horse domestication.
+
+Black Sea gradual inundation hypothesis
+
+In addition to the early Holocene "Noah's Flood" scenario proposed by Ryan, Pitman, Dimitrov, and their colleagues and the Caspian Sea overflow scenario of Chepalyga, the non-catastrophic progressive flood model (or gradual inflow model) has been proposed to explain the Late Quaternary sea level history of the Black Sea. About 8,000 YBP, the level of the Marmara Sea would have risen high enough for two-way flow to start. The evidence used to support this scenario includes the disparate ages of sapropel deposition in the eastern Mediterranean Sea and Black Sea; buried back-stepping barrier islands observed on the Black Sea shelf; and an under-water delta in the Marmara Sea, near the Bosporus Strait, composed of Black Sea sediments.
+
+Counter arguments
+
+Criticisms of the deluge hypothesis focus on the magnitude and pace of the water level rise in the Black Sea. With enough moderation of these features, the catastrophe hypothesis is voided. However, a few key points should be noted:
+- Since the ending of the last glacial period, the global sea level has risen some 120 m (390 ft).
+- The flood hypothesis hinges on the geomorphology of the Bosporus since the end of the glacial age. The Black Sea area has been isolated and reconnected many times during the last 500,000 years. 
+
+Opponents of the deluge hypothesis point to clues that water was flowing out of the Black Sea basin as late as 15,000 years ago.
+
+In this alternative scenario, much depends on the evolution of the Bosphorus. According to a study from 2001, the modern sill is 32–34 m (105–112 ft) below sea level and consists of Quaternary sand over-lying Paleozoic bedrock in which three sills are found at 80–85 m (260–280 ft) below sea level. Sedimentation on these sills started before 10,000 years ago and continued until 5,300 years ago.
+
+A large part of the academic geological community also continues to reject the idea that there could have been enough sustained long-term pressure by water from the Aegean to dig through a supposed isthmus at the present Bosphorus or enough of a difference in water levels, if at all, between the two water basins.
+
+In 2007, a research anthology on the topic was published which makes much of the earlier Russian research available in English for the first time and combines it with more recent scientific findings.
+
+The level in the Black Sea before the marine reconnection was estimated to have been 30 m (100 ft) below present sea level, rather than 80 m (260 ft) of the catastrophe theories or even lower; if the flood occurred at all, the sea level increase and the flooded area during the reconnection were significantly smaller than previously proposed. Since the depth of the Bosphorus, in its middle furrow, at present varies from 36 to 124 m (118 to 407 ft), with an average depth of 65 m (213 ft), a calculated Stone Age shoreline in the Black Sea lying 30 m (100 ft) lower than in the present day would imply that the contact with the Mediterranean might never have been broken during the Holocene, and hence there could have been no sudden waterfall-style transgression. The flooding could have been "not so big". 
+
+In 2011, several authors concluded that "there is no underwater archaeological evidence to support any catastrophic submergence of prehistoric Black Sea settlements during the late Pleistocene or early Holocene intervals".
+
+A 2012 study based on process length variation of the dinoflagellate cyst Lingulodinium machaerophorum shows no evidence for catastrophic flooding. Geophysical, geochronological, and geochemical evidence points to a "fast transgression" of the submergence lasting between 10 and 200 years.
+
+A 2022 literature review concluded that there was insufficient evidence for a flood scenario. It was more likely that the waters of the Black Sea itself gradually outflowed to the Mediterranean. There was also no archaeological evidence of humans evacuating the area during the relevant time frame.
+
+See also
+
+- Black Sea undersea river – Saline water current in the Black Sea
+- Altai flood – Prehistoric event in Central Asia
+- Flood myth – Motif in which a great flood destroys civilization
+- Noah's Ark – Vessel in the Genesis flood narrative
+- 4.2 kiloyear event – Severe climatic event starting around 2200 BC
+- 5.9 kiloyear event – North Atlantic ice rafting events
+- 8.2 kiloyear event – Rapid global cooling about 8,200 years ago
+- West Siberian Glacial Lake – Periglacial lake of the Weichselian Glaciation
+- Zanclean flood – Theoretical refilling of the Mediterranean Sea between the Miocene and Pliocene Epochs, flooding of the Mediterranean
+
+References
+3Ajournal&rft.genre=article&rft.jtitle=Океанология&rft.atitle=Радиовъглеродни датировки на дънни утайки от българския черноморски шelf&rft.volume=9&rft.pages=<span class="nowrap">45-</span>53&rft.date=1982&rft.aulast=Димитров&rft.aufirst=П. С.&rfr_id=info:sid/en.wikipedia.org:Black Sea deluge hypothesis
+^ a b c
+Ryan, W.B.F.; Pitman, W.C.; Major, C.O.; Shimkus, K.; Moskalenko, V.; Jones, G.A.; Dimitrov, P.; Gorür, N.; Sakinç, M. (1997). "An abrupt drowning of the Black Sea shelf". Marine Geology. 138 (1–2): 119–126. Bibcode:1997MGeol.138..119R. CiteSeerX 10.1.1.598.2866. doi:10.1016/s0025-3227(97)00007-8. S2CID 129316719.
+^
+Ballard, R.D.; Coleman, D. F.; Rosenberg, G.D. (2000). "Further evidence of abrupt Holocene drowning of the Black Sea shelf". Marine Geology. 170 (3–4): 253–261. Bibcode:2000MGeol.170..253B. doi:10.1016/S0025-3227(00)00108-0.
+^
+Hiebert, F.T. (2001). "Black Sea coastal cultures: Trade and interaction". Expedition. 43 (1): 11–20.
+^
+Özdoğan, M. (2011). "Submerged sites and drowned topograhies along the Anatolian coasts: An overview". In Benjamin, J.; Bonsall, C.; Pickard, C.; Fischer, A. (eds.). Submerged Prehistory. Oxford, UK: Oxbow. pp. 219–229.
+^
+Ryan, W.B.; Major, C.O.; Lericolais, G.; Goldstein, S.L. (2003). "Catastrophic flooding of the Black Sea". Annual Review of Earth and Planetary Sciences. 31 (1): 525−554. Bibcode:2003AREPS..31..525R. doi:10.1146/annurev.earth.31.100901.141249.
+^
+Ryan, W.; Pitman, W. (1998). Noah's Flood: The new scientific discoveries about the event that changed history. New York, NY: Touchstone. p. 249. ISBN 978-0684810522.
+^
+Wilford, John Noble (1996). "Geologists link Black Sea deluge to farming's rise". The New York Times. Retrieved 17 June 2013.
+^
+Radford, Tim (14 September 2000). "Evidence found of Noah's ark flood victims". The Guardian.
+^
+Evidence of Human Habitation in the Black Sea @ nationalgeographic.com. National Geographic.
+^ a b 
+Chepalyga, A.L. (2003). "Late glacial great flood in the Black Sea and Caspian Sea". Geological Society of America. Abstracts with Programs. 35 (6): 460.
+^
+Chepalyga, A.L. (2007). "The late glacial great flood in the Ponto-Caspian basin". In Yanko-Hombach, V.; Gilbert, A.S.; Panin, N.; Dolukhanov, P.M. (eds.). The Black Sea Flood Question: Changes in coastline, climate, and human settlement. Dordrecht: Springer. pp. 118−148. ISBN 9781402053023.
+^
+Ferguson, S.; Warny, S.; Escarguel, G.; Mudie, P. J. (2018). "MIS 5–1 dinoflagellate cyst analyses and morphometric evaluation of Galeacysta etrusca and Spiniferites cruciformis in southwestern Black Sea". Quaternary International. 465: 117−129.
+^
+Aksu, A.E.; Hiscott, R.N.; Mudie, P.J.; Rochon, A.; Kaminski, M.A.; Abrajano, T.; Yaar, D. (2002). "Persistent Holocene outflow from the Black Sea to the eastern Mediterranean contradicts Noah's Flood hypothesis". GSA Today. 12 (5): 4−10.
+^
+Aksu, A.E.; Hiscott, R.N.; Kaminski, M.A.; Mudie, P.J.; Gillespie, H.; Abrajano, T.; Yaşar, D. (2002). "Last glacial–Holocene paleoceanography of the Black Sea and Marmara Sea: Stable isotopic, foraminiferal, and coccolith evidence". Marine Geology. 190 (1−2): 119−149.
+^
+Hiscott, R.N.; Aksu, A.E.; Mudie, P.J.; Marret, F.; Abrajano, T.; Kaminski, M.A.; et al. (2007). "A gradual drowning of the southwestern Black Sea shelf: Evidence for a progressive rather than abrupt Holocene reconnection with the eastern Mediterranean Sea through the Marmara Sea gateway". Quaternary International. 167: 19–34.
+^
+Dimitrov, Petko; Dimitrov, Dimitar (2004). "The Black Sea, the Flood and the ancient myths". “Slavena”, Varna. doi:10.13140/RG.2.2.18954.16327.
+^
+Goldberg, S.; et al. (2016). "The timing of the Black Sea flood event: Insights from modeling of glacial isostatic adjustment". Earth and Planetary Science Letters. 452: 178–184. Bibcode:2016E&PSL.452..178G. doi:10.1016/j.epsl.2016.06.016.
+^
+Badertscher, S.; Fleitmann, D.; Cheng, H.; Edwards, R.L.; Göktürk, O.M.; Zumbühl, A.; Leuenberger, M.; Tüysüz, O. (2011). "Pleistocene water intrusions from the Mediterranean and Caspian seas into the Black Sea". Nature Geoscience. 4 (4): 236–239. Bibcode:2011NatGe...4..236B. doi:10.1038/ngeo1106.
+^
+Aksu, A.E.; Hiscott, R.N.; Yaltırak, C. (2016-10-01). "Early Holocene age and provenance of a mid-shelf delta lobe south of the Strait of Bosphorus, Turkey, and its link to vigorous Black Sea outflow". Marine Geology. 380: 113–137.
+^
+Algan, O.; Cagatay, N.; Tchepalyga, A.; Ongan, D.; Eastoe, C.; Gokasan, E. (2001). "Stratigraphy of the sediment infill in Bosphorus Strait: Water exchange between the Black and Mediterranean Seas during the last glacial Holocene". Geo-Marine Letters. 20 (4): 209–218.
+^
+Goldberg, Samuel L.; Lau, Harriet C.P.; Mitrovica, Jerry X.; Latychev, Konstantin (2016-10-15). "The timing of the Black Sea flood event: Insights from modeling of glacial isostatic adjustment". Earth and Planetary Science Letters. 452: 178–184.
+^
+Yanko-Hombach, Valentina; Gilbert, Allan S.; Panin, Nicolae (2007). The Black Sea Flood Question: Changes in Coastline, Climate, and Human Settlement. Netherlands: Springer. ISBN 978-1-4020-5302-3.
+^
+Giosan, L.; Filip, F.; Constatinescu, S. (2009). "Was the Black Sea catastrophically flooded in the early Holocene?". Quaternary Science Reviews. 28 (1–2): 1–6.
+^
+Lippsett, L. (2009). "Noah's not so big flood". Oceanus. No. September.
+^
+National Geographic News. 2009-02-06. "Noah's Flood" Not Rooted in Reality, After All?
+^
+Lericolais, G.; et al. (2009). "High frequency sea level fluctuations recorded in the Black Sea since the LGM". Global and Planetary Change. 66 (1–2): 65–75.
+Noah's Ark (1928)
+Father Noah's Ark (1933)
+The Bible: In the Beginning... (1966)
+O Trapalhão na Arca de Noé (1983)
+La Biblia en pasta (1984)
+Angel's Egg (1985)
+Stowaways on the Ark (1988)
+Genesis: The Creation and the Flood (1994)
+Noah (1998)
+Fantasia 2000 (1999)
+Raining Cats and Frogs (2003)
+Noah's Ark (2007)
+Evan Almighty (2007)
+40 Days and Nights (2012)
+Noah (2014)
+Ooops! Noah Is Gone... (2015)
+Noah's Ark (2024)
+The Ark and the Aardvark (TBA)
+
+Stage
+The Flowering Peach (1954 play)
+Two by Two (1970 musical)
+
+Opera
+Il diluvio universale (1830)
+Le Déluge (Saint-Saëns) (1875)
+Noé (opera) (1885)
+Noye's Fludde (1958)
+The Flood (Stravinsky) (1962)
+
+Paintings
+Scenes from the Life of Noah (1436-1440)
+Noah's Ark (Poulakis) (17th century)
+The Return of the Dove to the Ark (1851)
+After the Deluge (painting) (1891)
+Genesis (Lebrun) (1960)
+
+Songs
+Die Sintflut
+The Unicorn (1968)
+Captain Noah and His Floating Zoo (1970)
+The Prophet's Song (1975)
+Animals (1980)
+Forever Not Yours (2002)
+
+Games
+Noah's Ark (1992)
+Super 3D Noah's Ark (1994)
+Noah's Ark (2002)
+
+Literature
+Doctor Dolittle and the Secret Lake (1948)
+The Moon in the Cloud (1969)
+Noah's Ark (Spier book) (1977)
+Not Wanted on the Voyage (1984)
+Noah's Brother (1985)
+Many Waters (1986)
+Noah's Ark (Pinkney book) (2002)
+Not the End of the World (McCaughrean novel) (2004)
+Ararat (novel) (2017)
+
+Other cultures
+Flood myth
+Eridu Genesis
+Gilgamesh flood myth
+Ancient Greek flood myths
+Finnish flood myth
+Great Flood of China
+Mesoamerican flood myths
+Cessair
+Bergelmir
+Noah in Islam
+Noah in rabbinic literature
+Peluda
+
+Science
+Black Sea deluge hypothesis
+Flood geology
+Searches for Noah's Ark
+In Search of Noah's Ark
+Mountains of Ararat
+Mount Ararat
+Mount Judi
+Mosque of Ibn Tulun
+Ararat anomaly
+Durupınar site
+
+Related
+Noah's Ark replicas and derivatives
+Boner's Ark
+Noah's Ark silver coins

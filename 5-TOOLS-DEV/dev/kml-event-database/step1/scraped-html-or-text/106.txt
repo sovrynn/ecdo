@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="icon" href="images/favicon.ico">
+
+<title>Antarctic Tephra Database</title>
+
+<!-- Bootstrap core CSS -->
+<link href="index_files/bootstrap/css/bootstrap.css" rel="stylesheet">
+
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<link href="index_files/ie10-viewport-bug-workaround.css"
+	rel="stylesheet">
+
+<!-- Custom styles for this template -->
+<link href="index_files/sticky-footer-navbar.css" rel="stylesheet">
+<link href="index_files/custom.css" rel="stylesheet">
+
+<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+<script src="index_files/ie-emulation-modes-warning.js"></script>
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+
+	<!-- Fixed navbar -->
+	<nav class="navbar navbar-default navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed"
+					data-toggle="collapse" data-target="#navbar" aria-expanded="false"
+					aria-controls="navbar">
+					<span class="sr-only">Toggle navigation</span> <span
+						class="icon-bar"></span> <span class="icon-bar"></span> <span
+						class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="index.html">News</a>
+			</div>
+			<div id="navbar" class="collapse navbar-collapse">
+				<ul class="nav navbar-nav">
+					<li><a href="about.html">About</a></li>
+					<li><a href="database.html">Database</a></li>
+					<li><a href="results.html">Compare Data</a></li>
+					<li><a href="methodology.html">Methodology</a></li>
+					<li><a href="team.html">Team</a></li>
+				</ul>
+			</div>
+			<!--/.nav-collapse -->
+		</div>
+	</nav>
+
+	<!-- Begin page content -->
+	<div class="container">
+		<div class="page-header">
+			<h1>Recent Updates</h1>
+		</div>
+		<div class="page-header">
+<h2>The second SPICEcore related paper is published</h2>
+                        <p>April 15, 2020</p>
+<p>Russell J. Blong and Andrei. V. Kurbatov. <a href="https://doi.org/10.1016/j.jvolgeores.2020.106828"> Steps and missteps on the path to a 1665-1668 C.E. date for the VEI 6 eruption of Long Island, Papua New Guinea</a>. Journal of Volcanology and Geothermal Research, 395:106828, 2020</p>		
+<h2>First SPICEcore tephra paper is published</h2>
+			<p>October 8,  2019</p>
+			<p>L. H. Hartman, A. V. Kurbatov, D. A. Winski, A. M. Uribe, S. M. Davies, N. W. Dunbar, N. A. Iverson, M. Aydin, J. M. Fegyveresi, D. G. Ferris, T. J. Fudge, E. C. Osterberg, G. M. Hargreaves, and M. G. Yates.<a href="https://www.nature.com/articles/s41598-019-50939-x"> Volcanic glass properties from 1459 C.E. volcanic event in South Pole ice core dismiss Kuwae caldera as a potential source.</a> Scientific Reports, 9(1):14437, 10 2019.</p>
+		<h2>Laura Hartman graduated</h2>
+		<p>January 22, 2019</p>
+		<p>Congratulations!</p>
+			<h2>Safari bug fixed</h2>
+			<p>January 18, 2019</p>
+			<p>Mark <a href="https://markroyer.me"> Royer</a> fixed a bug limiting data comparison function in Safari web browser.</p>
+			<h2>Talos Dome ice core</h2>
+			<p>August 30, 2017</p>
+			<p>
+				Talos Dome ice core tephra data set from <a
+					href="https://doi.org/10.1016/j.quascirev.2017.04.025">Narcisi
+					et al., 2017</a> paper is included in the database.
+			</p>
+		</div>
+		<div class="page-header">
+			<h2>Siple Dome A ice core</h2>
+			<p>July 7, 2017</p>
+			<p>
+				Siple Dome A ice core tephra <a
+					href="http://nsidc.org/data/docs/agdc/nsidc0110_dunbar/">data
+					set</a> from published papers and NSIDC repository is included in the
+				database.
+			</p>
+		</div>
+		<div class="page-header">
+			<h2>Application of DTSA-II Software to Cryptotephra</h2>
+			<p class="lead">Accurately determining the geochemical
+				composition of volcanic particles extracted from ice cores is
+				crucial for establishing the source and climatic impact of the
+				volcanic eruption. The development and application of a new
+				quantification procedure using the NIST DTSA II software to SEM /
+				EDS analyses is at the forefront of this current research. Once this
+				is complete, we can better refine possible volcanic source(s)
+				responsible for tephra layer(s) at a specific interval in a given
+				ice core.</p>
+			<p>
+				Read more about NIST DTSA-II <a
+					href="http://www.cstl.nist.gov/div837/837.02/epq/dtsa2/">software</a>.
+			</p>
+		</div>
+		<div class="page-header">
+			<h2>Puyehue-Cordon Caule 2011 tephra composition added to the
+				database</h2>
+			<p>
+				Recently published data by Brent Alloway in <a
+					href="https://www.nature.com/articles/srep17589">Nature
+					Scientific Reports</a> is included in the database.
+			</p>
+		</div>
+
+	</div> <!-- End container div -->
+
+	<footer class="footer">
+		<div class="container">
+			<p>
+				<img class="footer-img" alt="UMaine CCI" src="./images/ccilogo.svg">
+				<img class="footer-img" alt="NMT" src="./images/nmtLogo.svg">
+			</p>
+			<p>
+				Copyright &copy;
+				<script>
+					var d = new Date();
+					document.write(d.getFullYear());
+				</script>
+				Antarctic Tephra Database
+			</p>
+		</div>
+	</footer>
+
+
+	<!-- Bootstrap core JavaScript
+    ================================================== -->
+	<!-- Placed at the end of the document so the pages load faster -->
+	<script src="./lib/jquery-3.1.1.min.js"></script>
+	<script src="index_files/bootstrap/js/bootstrap.js"></script>
+	<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+	<script src="index_files/ie10-viewport-bug-workaround.js"></script>
+</body>
+</html>

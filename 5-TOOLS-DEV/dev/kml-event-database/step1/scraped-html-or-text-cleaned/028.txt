@@ -1,0 +1,77 @@
+📄 New blog post: Visualizing All ISBNs — $10k by 2025-01-31
+✕
+Anna’s Archive
+📚 The largest truly open library in human history. ⭐️ We mirror Sci-Hub and LibGen. We scrape and open-source Z-Lib, DuXiu, and more. 📈 12,697,625 books, 35,509,463 papers — preserved forever. All our code and data are completely open source. Learn more…
+Recent downloads:  
+ • Amazons, Savages, and Machiavels : Travel and Colonial Writing in English, 1550-1630: An Anthology • Altered States: Buddhism and Psychedelic Spirituality in America • Urban Tantra • Stoner • The Percy Jackson and the Olympians, Book Two: Sea of Monsters • Ford Ranger, Explorer, and Mountaineer, 1991-99 (Chilton Total Car Care Series Manuals) • The Ultimate Copywriting Guide for Beginners to Advanced: A short course on learning copywriting that sells, a book/workbook/handbook of web copywriting for business advertising,social media & email • Agamêmnon de Ésquilo
+ • Amazons, Savages, and Machiavels : Travel and Colonial Writing in English, 1550-1630: An Anthology • Altered States: Buddhism and Psychedelic Spirituality in America • Urban Tantra • Stoner • The Percy Jackson and the Olympians, Book Two: Sea of Monsters • Ford Ranger, Explorer, and Mountaineer, 1991-99 (Chilton Total Car Care Series Manuals) • The Ultimate Copywriting Guide for Beginners to Advanced: A short course on learning copywriting that sells, a book/workbook/handbook of web copywriting for business advertising,social media & email • Agamêmnon de Ésquilo
+Search
+Donate
+Log in / Register
+Report file quality
+English [en], .pdf, 🧬/nexusstc, 11.5MB, 📄 Journal article, nexusstc/Middle to late Holocene lake level changes of Lake Sevan (Armenia) – Evidence from macro and micro plant remains of Tsovinar-1 peat section/d5a62f2696f8ffef7dbb15a5a26b049a.pdf
+Middle to late Holocene lake level changes of Lake Sevan (Armenia) – Evidence from macro and micro plant remains of Tsovinar-1 peat section
+Elsevier BV, Quaternary International, 661, 2023
+Narine Hayrapetyan; Elen Hakobyan; Eliso Kvavadze; Edoardo Martinetto; Ivan Gabrielyan; Angela A. Bruch
+description
+In the Caucasus, peat deposits exposed near Lake Sevan (Armenia) provide a Middle to Late Holocene record of lake level fluctuations. The Tsovinar-1 section at the southern shore of Lake Sevan in the Armenian Highlands reveals a well-dated and divers pollen and carpo-flora covering a time span from 6000 BC to 900 AD. The abundances of pollen of forest taxa in relation to steppe vegetation indicate climatic changes through time. In parallel, the presence and number of fossils of aquatic and wetland plants, both in micro and macro floras, provide information about the presence of water and allows estimating changes of water depth. Characteristic taxa pointing to deeper water at Tsovinar-1 are Myriophyllum sp., Ceratophyllum demersum, and several species of Potamogeton. In shallow water, Persicaria amphibia,
+Sparganium sp., and Typha sp. dominate. In fluctuating water and wetlands those plants are replaced by Menyanthes trifoliata, Ceratophyllum submersum, Alisma sp., and others. High lake levels can be inferred at 6000−5000 BC, 1700−900 BC and 200−900 AD and are associated with humid climate and the development of forest vegetation. Low lake levels occurred at 4000−2600 BC and 600 BC−100 AD corresponding to epochs of decreased humidity and expanded steppe vegetation. Macro and micro remains of plants from the Tsovinar-1 site serve as reliable sources of information for determining environmental changes over time, which are in accordance with archaeological data from the region showing the effects of lake level changes on human activities.
+metadata comments
+Referenced by: doi:10.1139/cjb-2014-0169 doi:10.4141/cjps79-028 doi:10.1016/s0037-0738(98)00138-9 doi:10.1111/j.1365-2699.2008.02019.x doi:10.1016/j.revpalbo.2004.02.003 doi:10.1134/s0001433819080048 doi:10.1023/a:1007958511729 doi:10.14237/ebl.2.2011.25 doi:10.3406/paleo.2015.5656 doi:10.1002/jqs.2679 doi:10.1139/z84-186 doi:10.1016/j.earscirev.2018.10.013 doi:10.1007/s10750-008-9465-2 doi:10.1016/j.quaint.2015.06.008 doi:10.1038/35002501 doi:10.1016/j.aquabot.2016.11.001 doi:10.1016/0034-6667(80)90020-2 doi:10.1046/j.1365-2745.2001.00571.x doi:10.5194/hess-11-1633-2007 doi:10.1017/s0033822200033865 doi:10.1017/rdc.2020.41 doi:10.1002/jqs.2565
+metadata comments
+{"container_title":"Quaternary International","first_page":34,"issns":["1040-6182"],"last_page":48,"publisher":"Elsevier BV","volume":"661"}
+Read more…
+🚀 Fast downloads
+Become a member to support the long-term preservation of books, papers, and more. To show our gratitude for your support, you get fast downloads. ❤️
+
+Option #1: Anna’s Archive 🧬 SciDB (no redirect) (no browser verification required)
+
+🐢 Slow downloads
+
+From trusted partners. More information in the FAQ. (might require browser verification — unlimited downloads!)
+
+Option #1: Anna’s Archive 🧬 SciDB (no browser verification required)
+
+show external downloads
+All download options have the same file, and should be safe to use. That said, always be cautious when downloading files from the internet, especially from sites external to Anna’s Archive. For example, be sure to keep your devices updated.
+
+For large files, we recommend using a download manager to prevent interruptions.
+Recommended download managers: JDownloader
+You will need an ebook or PDF reader to open the file, depending on the file format.
+Recommended ebook readers: ReadEra and Calibre
+Use online tools to convert between formats.
+Recommended conversion tools: CloudConvert
+You can send both PDF and EPUB files to your Kindle or Kobo eReader.
+Recommended tools: Amazon‘s “Send to Kindle” and djazz‘s “Send to Kobo/Kindle”
+Support authors and libraries
+✍️ If you like this and can afford it, consider buying the original, or supporting the authors directly.
+📚 If this is available at your local library, consider borrowing it for free there.
+
+Anna’s Archive
+Home
+Search
+🧬 SciDB
+FAQ
+Donate
+Stay in touch
+Contact email
+DMCA / copyright claims
+Reddit / Telegram
+Anna’s Blog ↗
+Anna’s Software ↗
+Translate ↗
+Advanced
+FAQ
+Improve metadata
+Volunteering & Bounties
+Datasets
+Torrents
+Activity
+Codes Explorer
+LLM data
+Security
+Alternatives
+annas-archive.li
+annas-archive.se
+annas-archive.org
+SLUM [unaffiliated]

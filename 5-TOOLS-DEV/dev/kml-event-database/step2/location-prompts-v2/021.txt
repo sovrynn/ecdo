@@ -1,0 +1,144 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Kofels Landslide
+
+Basic location of event: Austria
+
+Specific data/information/context related to event: Skip to main content
+Skip to article
+Elsevier logo
+
+Journals & Books
+
+Help
+
+Search
+
+My account
+Sign in
+
+Purchase PDF
+
+Article preview
+
+Abstract
+Introduction
+Section snippets
+References (36)
+Cited by (25)
+
+Elsevier
+Geomorphology
+Volume 243, 15 August 2015, Pages 87-91
+Geomorphology
+Precise radiocarbon dating of the giant Köfels landslide (Eastern Alps, Austria)
+Author links open overlay panelKurt Nicolussi, Christoph Spötl, Andrea Thurner, Paula J. Reimer
+Show more
+Add to Mendeley
+Share
+Cite
+https://doi.org/10.1016/j.geomorph.2015.05.001
+Get rights and content
+Highlights
+
+• New wood samples from the largest landslide in the crystalline zone of the Alps.
+• Precise wiggle-matched radiocarbon date for the Köfels event.
+• Tree-ring analysis allows defining the season during which the landslide occurred.
+• New Köfels date is close to the date of the giant Flims landslide.
+
+Abstract
+The landslide of Köfels located in the Ötz Valley (Eastern Alps, Austria) is the largest mass movement in crystalline rock in the Alps with a total volume of 3.3 km3. Previous radiocarbon dates have suggested an age of the event of 9800 ± 100 years ago. The landslide and its radiocarbon dating were used to estimate a Holocene production rate for 10Be for surface exposure dating. Tree-ring analysis and radiocarbon dating of new samples significantly refine the timing of the Köfels landslide and even enable to constrain the season during which this event occurred. Wiggle matching analysis of six radiocarbon samples constrains the event to 9527–9498 cal BP which is slightly younger and significantly more precise than the previously established age. The landslide occurred shortly after the onset of the vegetation period, i.e. in May or June. The new dating moves the Köfels landslide strikingly close to the less well constrained age of the Flims landslide, the largest of its kind in the Alps located 130 km west of Köfels (9475–9343 cal BP). This near-synchronicity of these giant mass movements raises the question of a possible common, albeit currently unknown, trigger.
+
+Introduction
+The landslide of Köfels is the largest mass movement in the crystalline zone of the Alps. It is located in the middle section of the Ötz Valley (Tyrol, Austria) and is named after the local village of Köfels (1401 m asl). The landslide detached from the east-facing slope and buried parts of the Ötz Valley between Winklern and Umhausen as well as the opposing Horlach Valley where the village of Niederthai is located. The landslide debris is up to several hundred metres thick and the original landslide volume was estimated to 3.3 km3. The landslide occurred after deglaciation of the Ötz Valley and its age has been constrained by two independent methods, radiocarbon and surface exposure dating. The former was established on wood remnants recovered during the construction of a tunnel beneath and through the landslide debris in the eastern section of the landslide area. Heavily compressed wood remnants were found within the landslide deposits at a depth of 450 m below surface. Three radiocarbon analyses were performed and the combined mean was 8740 ± 25 BP. Ivy-Ochs et al. (1998) applied a calibration using tree-ring chronologies and reported a calendar age range of 7897–7696 BC, which corresponds to 9846–9645 cal BP. Using the current calibration curve (IntCal13), the age range shifts to 9886–9564 cal BP (2 σ range) with a 94.5% relative probability for the time interval 9823–9585 cal BP. Exposure dating results of the Köfels landslide scatter, but the published overall age of 9820 ± 370 years agrees within uncertainties with the calibrated radiocarbon dates. In fact, the Köfels landslide represents one of the best calibration sites worldwide for the determination of the cosmogenic 10Be production rate. Using the previously established timing of the event, a local production was obtained for the last 10,000 years, which was subsequently revised.
+
+Here we present (a) new radiocarbon dating results which significantly refine the timing of the Köfels landslide, and (b) tree-ring analyses which enable us to constrain the season during which this event occurred.
+
+Section snippets
+Materials and methods
+Two small wooden samples were recently rediscovered in the archive of the Institute of Geology, University of Innsbruck. Both are ca. 12 × 8.5 cm in size. The attached notes of the two samples (inventory numbers P7943 and P7933) indicate that both were collected during the construction of the tunnel from Umhausen to Niederthai about 400 m below surface and at the contact zone between bedrock and debris in autumn 1951. The discovery position can therefore be assumed to be similar to.
+
+Results
+Both samples show very eccentric growth patterns. Moreover, the wood of both is partly compressed with occasionally collapsed conifer tracheids. The micro-anatomical wood identification suggested Pinus sylvestris and agrees with the former identification mentioned on the attached notes. However, the shape of the tree-ring pattern is not concentric but very eccentric. This suggests that the samples identified as stemwood probably originated from a Pinus mugo tree, which is a shrubby.
+
+Discussion
+The analysed wood pieces were originally found at the contact zone between bedrock and debris beneath the Köfels landslide masses. Both samples reveal strong deformation due to high pressure after wood formation which we relate to the impact of the landslide. The tree-ring patterns do not show any signs of a slow dying-off of the Pinus mugo tree but demonstrate an abrupt death at the beginning of the vegetation season. Therefore, killing processes such as snow avalanches can be excluded.
+
+Conclusions
+
+• Wood samples from the Köfels landslide were dendrochronologically analysed and radiocarbon-dated. This allowed wiggle matching of the radiocarbon dates for this landslide, the largest of its kind in the crystalline zone of the Alps.
+• The new date, 9527–9498 cal BP (95.4% probability), is slightly younger and significantly more precise than the previously established age (9800 ± 100 years ago).
+• Tree-ring analysis indicates that the landslide occurred during late spring/early summer (May or June).
+
+Acknowledgments
+We thank Mauro Soldati and an anonymous reviewer for their constructive comments that improved the quality of the paper.
+
+References (36)
+
+A. Azzoni et al. The Val Pola landslide Eng. Geol. (1992)
+G. Balco et al. Regional beryllium-10 production rate calibration for late-glacial northeastern North America Quat. Geochronol. (2009)
+L. Borgatti et al. Landslides as a geomorphological proxy for climate change: a record from the Dolomites (northern Italy) Geomorphology (2010)
+O. Heiri et al. Palaeoclimate records 60–8 ka in the Austrian and Swiss Alps and their forelands Quat. Sci. Rev. (2014)
+P.W. Kubik et al. A re-evaluation of the 0–10 ka 10Be production rate for exposure dating obtained from the Köfels (Austria) landslide Nucl. Instrum. Meth. B (2004)
+P.W. Kubik et al. 10Be and 26Al production rates deduced from an instantaneous event within the dendro-calibration curve, the landslide of Köfels, Ötz Valley, Austria Earth Planet. Sci. Lett. (1998)
+A. Lang et al. Classic and new dating methods for assessing the temporal occurrence of mass movements Geomorphology (1999)
+M. Magny Holocene climate variability as reflected by mid-European lake-level fluctuations and its probable impact on prehistoric human settlements Quat. Int. (2004)
+I. Schimmelpfennig et al. A chronology of Holocene and Little Ice Age glacier culminations of the Steingletscher, Central Alps, Switzerland, based on high-sensitivity beryllium-10 moraine dating Earth Planet. Sci. Lett. (2014)
+J.L. Schneider et al. Signature of Rhine Valley sturzstrom dam failures in Holocene sediments of Lake Constance, Germany Sediment. Geol. (2004)
+
+View more references
+Cited by (25)
+
+Recent technological and methodological advances for the investigation of landslide dams 2021, Earth-Science Reviews
+Citation Excerpt :
+
+Another very promising method is dendrochronology, which, under ideal conditions, can even yield seasonal precision. For instance, the method of “wiggle matching analysis”, which is a combination of tree-ring analysis of trunks found within the landslide body and multiple radiocarbon dating on the same sample material, allows precise dating to within a few years, even if the event is several thousand years old. However, this approach relies on identifying a tree trunk that is preserved in the landslide mass, and exposed by erosional processes, or found in drill cores.
+
+Geomorphology and age of the Marocche di Dro rock avalanches (Trentino, Italy) 2017, Quaternary Science Reviews
+
+Lake-sediment based paleoseismology: Limitations and perspectives from the Swiss Alps 2017, Quaternary Science Reviews
+
+Radiocarbon dating 2021, Nature Reviews Methods Primers
+
+Characteristics and influencing factors of rainfall-induced landslide and debris flow hazards in Shaanxi Province, China 2019, Natural Hazards and Earth System Sciences
+
+A novel hybrid integration model using support vector machines and random subspace for weather-triggered landslide susceptibility assessment in the Wuning area (China) 2017, Environmental Earth Sciences
+
+View all citing articles on Scopus
+View full text
+Copyright © 2015 Published by Elsevier B.V.
+Recommended articles
+
+Dendrogeomorphic approaches for identifying the probable occurrence of debris flows and related torrential processes in steep headwater catchments: The Hrubý Jeseník Mountains, Czech Republic Geomorphology, Volume 246, 2015, pp. 445-457
+
+The evolution of the lithospheric mantle beneath Ia Bang, Pleiku plateau, Central Vietnam Journal of Asian Earth Sciences, Volume 174, 2019, pp. 232-244
+
+The Oldowan site of Muhkai II, layer 80 (northeastern Caucasus): Spatial structure and cultural and chronological attribution of the lithic assemblage L'Anthropologie, Volume 123, Issue 2, 2019, pp. 216-232
+
+Show 3 more articles
+Article Metrics
+Citations
+
+Citation Indexes 25
+
+Captures
+
+Readers 24
+
+Mentions
+
+References 2
+
+View details
+Elsevier logo with wordmark
+
+About ScienceDirect
+
+Remote access
+Shopping cart
+Advertise
+Contact and support
+Terms and conditions
+Privacy policy
+
+Cookies are used by this site.

@@ -1,0 +1,342 @@
+Based on the following information related to a certain kind of event or occurrence, I want you to provide me the geographically closest present day location. It could be a city, a beach, an island, etc. But I want you to be as specific as possible based on the information I give you. Avoid simply returning a country. Return only the location, including the corresponding country and continent. Here's the information:
+
+Basic description of event: Biblical Exodus
+
+Basic location of event: Levant
+
+Specific data/information/context related to event: Book of Exodus - Wikipedia
+
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+
+Donate
+Create account
+Log in
+
+Contents
+1 Title
+2 Historicity
+3 Structure
+4 Summary
+5 Composition
+5.1 Authorship
+5.2 Sources
+5.3 Textual witnesses
+6 Themes
+6.1 Salvation
+6.2 Theophany
+6.3 Covenant
+6.4 Election of Israel
+7 Judaism's weekly Torah portions in the Book of Exodus
+8 See also
+9 References
+9.1 Citations
+9.2 General bibliography
+10 External links
+
+Article
+Talk
+Read
+Edit
+View history
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Download QR code
+
+118 languages
+Afrikaans
+አማርኛ
+العربية
+Aragonés
+ܣܦܪܐ ܕܡܦܩܢܐ
+Éxodu
+যাত্রাপুস্তক
+閩南語 / Bân-lâm-gú
+Беларуская
+Беларуская (тарашкевіца)
+Изход (Библия)
+Exodus
+Ermaeziadeg
+Èxode
+Basahon sa Eksodo
+Exodus
+Eksodus
+Knyha Vykhod
+سفر خروج
+Kitab Keluaran
+Exodo
+Liber Exodus
+S책 Xuất Hành
+Livre de l'Exode
+Čıkış Kitabı
+出埃及記
+Книга Исход
+Buku 2 Musa
+
+Edit links
+Download as PDF
+Printable version
+
+In other projects
+
+Wikimedia Commons
+Wikiquote
+Wikisource
+Wikidata item
+
+From Wikipedia, the free encyclopedia
+This article is about the second book of the Torah and the Old Testament. For the Israelite migration narrative, see The Exodus. For other uses, see Exodus (disambiguation).
+"Exodus 4" redirects here. For the single, see Exodus '04.
+The Book of Exodus (from Ancient Greek: Ἔξοδος, romanized: Éxodos; Biblical Hebrew: שְׁמוֹת Šəmōṯ, 'Names'; Latin: Liber Exodus) is the second book of the Bible. It is a narrative of the Exodus, the origin myth of the Israelites leaving slavery in Biblical Egypt through the strength of their deity named Yahweh, who according to the story chose them as his people. The Israelites then journey with the legendary prophet Moses to Mount Sinai, where Yahweh gives the Ten Commandments and they enter into a covenant with Yahweh, who promises to make them a "holy nation, and a kingdom of priests" on condition of their faithfulness. He gives them their laws and instructions to build the Tabernacle, the means by which he will come from heaven and dwell with them and lead them in a holy war to conquer Canaan (the "Promised Land"), which has earlier, according to the myth of Genesis, been promised to the "seed" of Abraham, the legendary patriarch of the Israelites.
+
+Traditionally ascribed to Moses himself, modern scholars see its initial composition as a product of the Babylonian exile (6th century BCE), based on earlier written sources and oral traditions, with final revisions in the Persian post-exilic period (5th century BCE). American biblical scholar Carol Meyers, in her commentary on Exodus, suggests that it is arguably the most important book in the Bible, as it presents the defining features of Israel's identity—memories of a past marked by hardship and escape, a binding covenant with their God, who chooses Israel, and the establishment of the life of the community and the guidelines for sustaining it. The consensus of modern scholars is that the Pentateuch does not give an accurate account of the origins of the Israelites, who appear instead to have formed as an entity in the central highlands of Canaan in the late second millennium BCE (around the time of the Late Bronze Age collapse) from the indigenous Canaanite culture.
+
+Title
+The English name Exodus comes from the Ancient Greek: ἔξοδος, romanized: éxodos, lit. 'way out', from ἐξ-, ex-, 'out' and ὁδός, hodós, 'path', 'road'. In Hebrew the book's title is שְׁמוֹת, shemōt, "Names", from the beginning words of the text: "These are the names of the sons of Israel".
+
+Historicity
+Main article: Sources and parallels of the Exodus
+Most mainstream scholars do not accept the biblical Exodus account as historical for a number of reasons. It is generally agreed that the Exodus stories were written centuries after the apparent setting of the stories. Archaeologists Israel Finkelstein and Neil Asher Silberman argue that archaeology has not found evidence for even a small band of wandering Israelites living in the Sinai: "The conclusion – that Exodus did not happen at the time and in the manner described in the Bible – seems irrefutable [...] repeated excavations and surveys throughout the entire area have not provided even the slightest evidence". Instead, they argue how modern archaeology suggests continuity between Canaanite and Israelite settlements, indicating a heavily Canaanite origin for Israel, with little suggestion that a group of foreigners from Egypt comprised early Israel. They also argue that the exodus narrative perhaps evolved from vague memories of the Hyksos expulsion, spun to encourage resistance to the 7th century domination of Judah by Egypt.
+
+However, a majority of scholars believe that the story has an historical core, though disagreeing widely about what that historical kernel might have been. Kenton Sparks refers to it as "charter myth" and "mythologized history". Biblical scholar Graham I. Davies notes that several literary texts from Ancient Egypt document the presence of Semitic peoples working for building projects under the 19th Dynasty of Egypt, suggesting a possible historical basis for the account of Israelite servitude to the Egyptians. However, there is an increasing trend among scholars to see the biblical exodus traditions as the invention of the exilic and post-exilic Jewish community, with little to no historical basis.
+
+Structure
+There is no unanimous agreement among scholars on the structure of Exodus. One strong possibility is that it is a diptych (i.e., divided into two parts), with the division between parts 1 and 2 at the crossing of the Red Sea or at the beginning of the theophany (appearance of God) in chapter 19. On this plan, the first part tells of God's rescue of his people from Egypt and their journey under his care to Sinai (chapters 1–19) and the second tells of the covenant between them (chapters 20–40).
+
+Summary
+The text of the Book of Exodus begins after the events at the end of the Book of Genesis where Jacob's sons and their families joined their brother Joseph in Egypt, which Joseph had saved from famine. It is 400 years later and Egypt's new Pharaoh, who does not remember Joseph, is fearful that the enslaved and now numerous Israelites could become a fifth column. He hardens their labor and orders the killing of all newborn boys. A Levite woman named Jochebed saves her baby by setting him adrift on the Nile in an ark of bulrushes. Pharaoh's daughter finds the child, names him Moses, and brings him up as her own.
+
+Later, a grown Moses goes out to see his kinsmen. He witnesses the abuse of a Hebrew slave by an Egyptian overseer. Angered, Moses kills him and flees into Midian to escape punishment. There, he marries Zipporah, daughter of Jethro, a Midianite priest. While tending Jethro's flock, Moses encounters God in a burning bush. Moses asks God for his name, to which God replies with three words, often translated as "I Am that I Am." This is the book's explanation for the origin of the name Yahweh, as God is thereafter known. God tells Moses to return to Egypt, free the Hebrews from slavery and lead them into Canaan, the land promised to the seed of Abraham in Genesis. On the journey back to Egypt, God seeks to kill Moses. Zipporah circumcises their son and the attack stops. 
+
+Moses reunites with his brother Aaron and, returning to Egypt, convenes the Israelite elders, preparing them to go into the wilderness to worship God. Pharaoh refuses to release the Israelites from their work for the festival, and so God curses the Egyptians with ten terrible plagues, such as a river of blood, an outbreak of frogs, and the thick darkness. Moses is commanded by God to fix the spring month of Aviv at the head of the Hebrew calendar. The Israelites are to take a lamb on the 10th day of the month, sacrifice the lamb on the 14th day, daub its blood on their mezuzot—doorposts and lintels, and to observe the Passover meal that night, during the full moon. The 10th plague comes that night, causing the death of all Egyptian firstborn sons, prompting Pharaoh to expel the Israelites. Regretting his decision, Pharaoh commands his chariot army after the Israelites, who appear trapped at the Red Sea. God parts the sea, allowing the Israelites to pass through, before drowning Pharaoh's pursuing forces.
+
+As desert life proves arduous, the Israelites complain and long for Egypt, but God miraculously provides manna for them to eat and water to drink. The Israelites arrive at the mountain of God, where Moses's father-in-law Jethro visits Moses; at his suggestion, Moses appoints judges over Israel. God asks whether they will agree to be his people – They accept. The people gather at the foot of the mountain, and with thunder and lightning, fire and clouds of smoke, the sound of trumpets, and the trembling of the mountain, God appears on the peak, and the people see the cloud and hear the voice (or possibly sound) of God. God tells Moses to ascend the mountain. God pronounces the Ten Commandments (the Ethical Decalogue) in the hearing of all Israel. Moses goes up the mountain into the presence of God, who pronounces the Covenant Code of ritual and civil law and promises Canaan to them if they obey. Moses comes down from the mountain and writes down God's words, and the people agree to keep them. God calls Moses up the mountain again, where he remains for forty days and forty nights, after which he returns, bearing the set of stone tablets.
+
+God gives Moses instructions for the construction of the tabernacle so that God may dwell permanently among his chosen people, along with instructions for the priestly vestments, the altar and its appurtenances, procedures for the ordination of priests, and the daily sacrifice offerings. Aaron becomes the first hereditary high priest. God gives Moses the two tablets of stone containing the words of the ten commandments, written with the "finger of God".
+
+While Moses is with God, Aaron casts a golden calf, which the people worship. God informs Moses of their apostasy and threatens to kill them all, but relents when Moses pleads for them. Moses comes down from the mountain, smashes the stone tablets in anger, and commands the Levites to massacre the unfaithful Israelites. God commands Moses to construct two new tablets. Moses ascends the mountain again, where God dictates the Ten Commandments for Moses to write on the tablets.
+
+Moses descends from the mountain with a transformed face; from that time onwards he must hide his face with a veil. Moses assembles the Hebrews and repeats to them the commandments he has received from God, which are to keep the Sabbath and to construct the Tabernacle. The Israelites do as they are commanded. From that time God dwells in the Tabernacle and orders the travels of the Hebrews.
+
+Authorship
+Jewish and Christian tradition viewed Moses as the author of Exodus and the entire Torah, but by the end of the 19th century the increasing awareness of discrepancies, inconsistencies, repetitions and other features of the Pentateuch had led scholars to abandon this idea. In approximate round dates, the process which produced Exodus and the Pentateuch probably began around 600 BCE when existing oral and written traditions were brought together to form books recognizable as those we know, reaching their final form as unchangeable sacred texts around 400 BCE. 
+
+Sources
+Although patent mythical elements are not so prominent in Exodus as in Genesis, ancient legends may have an influence on the book's form or content: for example, the story of the infant Moses's salvation from the Nile is argued to be based on an earlier legend of king Sargon of Akkad, while the story of the parting of the Red Sea may trade on Mesopotamian creation mythology. Similarly, the Covenant Code (the law code in Exodus 20:22–23:33) has some similarities in both content and structure with the Laws of Hammurabi. These potential influences serve to reinforce the conclusion that the Book of Exodus originated in the exiled Jewish community of 6th-century BCE Babylon, but not all the potential sources are Mesopotamian: the story of Moses's flight to Midian following the murder of the Egyptian overseer may draw on the Egyptian Story of Sinuhe.
+Theophany
+
+A theophany is a manifestation (appearance) of a god – in the Bible, an appearance of the God of Israel, accompanied by storms – the earth trembles, the mountains quake, the heavens pour rain, thunder peals and lightning flashes. The theophany in Exodus begins "the third day" from their arrival at Sinai in chapter 19: Yahweh and the people meet at the mountain, God appears in the storm and converses with Moses, giving him the Ten Commandments while the people listen. The theophany is therefore a public experience of divine law.
+
+The second half of Exodus marks the point at which, and describes the process through which, God's theophany becomes a permanent presence for Israel via the Tabernacle. That so much of the book describes the plans of the Tabernacle demonstrates the importance it played in the perception of Second Temple Judaism at the time of the text's redaction by the Priestly writers: the Tabernacle is the place where God is physically present, where, through the priesthood, Israel could be in direct, literal communion with him.
+
+Covenant
+
+The heart of Exodus is the Sinaitic covenant. A covenant is a legal document binding two parties to take on certain obligations towards each other. There are several covenants in the Bible, and in each case they exhibit at least some of the elements in real-life treaties of the ancient Middle East: a preamble, historical prologue, stipulations, deposition and reading, list of witnesses, blessings and curses, and ratification by animal sacrifice. Biblical covenants, in contrast to Eastern covenants in general, are between a god, Yahweh, and a people, Israel, instead of between a strong ruler and a weaker vassal.
+
+Election of Israel
+
+God elects Israel for salvation because the "sons of Israel" are "the firstborn son" of the God of Israel, descended through Shem and Abraham to the chosen line of Jacob whose name is changed to Israel. The goal of the divine plan in Exodus is a return to humanity's state in Eden, so that God can dwell with the Israelites as he had with Adam and Eve through the Ark and Tabernacle, which together form a model of the universe; in later Abrahamic religions Israel becomes the guardian of God's plan for humanity, to bring "God's creation blessing to mankind" begun in Adam.
+
+Judaism's weekly Torah portions in the Book of Exodus
+
+List of Torah portions in the Book of Exodus:
+
+- Shemot, on Exodus 1–5: Affliction in Egypt, discovery of baby Moses, Pharaoh
+- Va'eira, on Exodus 6–9: Plagues 1 to 7 of Egypt
+- Bo, on Exodus 10–13: Last plagues of Egypt, first Passover
+- Beshalach, on Exodus 13–17: Parting the Sea, water, manna, Amalek
+- Yitro, on Exodus 18–20: Jethro's advice, The Ten Commandments
+- Mishpatim, on Exodus 21–24: The Covenant Code
+- Terumah, on Exodus 25–27: God's instructions on the Tabernacle and furnishings
+- Tetzaveh, on Exodus 27–30: God's instructions on the first priests
+- Ki Tissa, on Exodus 30–34: Census, anointing oil, golden calf, stone tablets, Moses radiant
+- Vayakhel, on Exodus 35–38: Israelites collect gifts, make the Tabernacle and furnishings
+- Pekudei, on Exodus 38–40: Setting up and filling of The Tabernacle
+
+See also
+
+- Film adaptations of the Book of Exodus
+- History of the Jews in Ancient Egypt
+- Ketef Hinnom
+- Song of the Sea
+- List of individuals from the Book of Exodus
+
+References
+
+Citations
+
+General bibliography
+
+External links
+
+Exodus at BibleGateway.com
+Exodus at Mechon-Mamre (Jewish Publication Society translation)
+Exodus (The Living Torah) Archived 2011-06-10 at the Wayback Machine—Rabbi Aryeh Kaplan's translation and commentary at Ort.org
+Shemot—Exodus (Judaica Press) translation (with Rashi's commentary) at Chabad.org
+Shmot (Original Hebrew—English at Mechon-Mamre.org)
+Exodus public domain audiobook at LibriVox—Various versions
+
+Book of Exodus 
+Pentateuch
+
+Preceded by Genesis
+
+Succeeded by Leviticus
+
+Old Testament
+Hebrew Bible
+Christian 
+Old Testament
+Jude
+Revelation
+Antilegomena
+Acts of Paul
+Apocalypse of Peter
+Didache
+Gospel of the Hebrews
+Epistle of Barnabas
+1 Clement
+2 Clement
+3 Corinthians
+Shepherd of Hermas
+Subdivisions
+Chapters and verses
+Pentateuch
+Historical books
+Wisdom books (Poetic Books)
+Prophetic books
+Major prophets
+Minor prophets
+Gospels
+List
+Synoptic
+Epistles
+Pauline
+Johannine
+Pastoral
+Catholic
+Apocalyptic literature
+Development
+Authorship
+Jewish canon
+Intertestamental period
+Christian canon
+Old Testament canon
+New Testament canon
+Antilegomena
+Apocrypha
+Jewish
+Old Testament
+New Testament
+Pseudepigrapha
+Old Testament
+Dating the Bible
+Manuscripts
+Dead Sea Scrolls
+Samaritan Pentateuch
+Septuagint
+Targum
+Diatessaron
+Muratorian fragment
+Peshitta
+Vetus Latina
+Vulgate
+Masoretic Text
+New Testament manuscript categories
+New Testament papyri
+New Testament uncials
+Related
+Bible version debate
+English Bible translations
+Other books referenced in the Bible
+Additional Scriptures
+Studies
+Biblical and Quranic narratives
+Synod of Hippo
+Textual criticism
+Category
+Portal
+WikiProject
+Ten Commandments
+Tablets of Stone
+Finger of God
+Ritual Decalogue
+Commandments
+I am the Lord thy God
+Thou shalt have no other gods before me
+Thou shalt not make unto thee any graven image
+Thou shalt not take the name of the Lord thy God in vain
+Remember the sabbath day, to keep it holy
+Honour thy father and thy mother
+Thou shalt not kill
+Thou shalt not commit adultery
+Thou shalt not steal
+Thou shalt not bear false witness against thy neighbour
+Thou shalt not covet
+Topics
+Moses
+Biblical Mount Sinai
+Mount Sinai
+Mount Horeb
+Ark of the Covenant
+lid
+Book of Exodus
+The Exodus
+In art
+Descent from Mount Sinai (Sistine Chapel, 1481-1482 painting)
+Moses (c. 1513–1515 sculpture)
+Moses and his Ethiopian wife Zipporah (c. 1645-1650 painting)
+Moses Breaking the Tablets of the Law (1659 painting)
+Catholic Total Abstinence Union Fountain (1876)
+Moses (1962 sculpture)
+Moses (1968 sculptures, 3/3)
+Media
+The Ten Commandments (1923 film)
+The Ten Commandments (1956 film)
+Les Dix Commandements (2000 musical)
+The Ten Commandments: The Musical (2004 musical)
+The Ten Commandments (2006 miniseries)
+The Ten (2007 film)
+The Ten Commandments (2007 film) 
+I Am (2010 film)
+The Ten Commandments: The Movie (2016 film)
+Related
+Joshua
+In Catholic theology
+Tabot
+Alternatives
+613 commandments
+Seven Laws of Noah
+Great Commandment
+Golden Rule
+Ethics in the Bible
+Authority control databases
+VIAF
+Germany
+United States
+France
+BnF data
+Norway
+Greece
+Argentina
+Sweden
+Poland
+Israel
+Catalonia
+IdRef
