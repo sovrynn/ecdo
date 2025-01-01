@@ -6,6 +6,7 @@ Clicking on the icon for the event will show a link to the source.
 
 120 (mostly) unique events.
 
+![](img/snip2.png)
 ![](img/event-database.png)
 
 Data source, the event database, is stored as a Google spreadsheet: https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing
