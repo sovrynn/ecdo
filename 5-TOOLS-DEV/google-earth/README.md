@@ -94,3 +94,7 @@ Apparently you can export KMZ/KML files from Google Earth Engine where you have 
 - `ogr2ogr -f "ESRI Shapefile" output_directory input_file.kml`
 - https://mygeodata.cloud/converter/ works but only 3 free uses
 - geojson.io fails on Google Earth Engine
+
+## Debugging "an instance is already running"
+
+Try going to /home/username/.googleearth and look for /instance-running-lock. Delete that and then attempt to start the program.
