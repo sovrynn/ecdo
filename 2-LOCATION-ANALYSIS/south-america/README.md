@@ -21,6 +21,10 @@ South America. The western ECDO pivot [1] is located near Mount Roraima.[2] Mega
 2. https://x.com/nobulart/status/1809938647262585184
 3. https://x.com/nobulart/status/1811105831573745686
 
+## Safe Locations
+
+A physical refuge in Euler axis' that would work other than the highlands of indonesia, I propose, is the frontier between Brazil and Venezuela - the Guayanan highlands. The area has close to the oldest stable bedrock known in the planet, and it's high altitude. I'm pretty certain too that there's no saline soil there.
+
 ## Colombia Morphology Structure [1]
 
 This is some fascinating morphology. Colombia. Its massive. Spanning 1500 km.
