@@ -1,0 +1,9 @@
+# PS Hernandez
+
+Her ideas suggest potential ionospheric and/or core-mantle modulation applications for the pyramid design (what sprung to my mind upon reading it anyway).
+
+https://pshs04.wixsite.com/ph-s-stash/post/preliminary-theory-pyramidal-structures-as-functional-resonant-devices-through-geometric-mimicry-of
+
+## ECDO preparation
+
+"I'd like to point out that figuring out how to stabilize the ionosphere under the decoupling AND anti-gravity tech that is accesible enough to common man are vital for survival. If we don't have option A solved in time, we have option B secured."
