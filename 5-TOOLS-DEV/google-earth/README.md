@@ -8,6 +8,10 @@ In order to get underwater elevation paths you need to turn "Terrain" off before
 
 You can use the script in `dev/rotational-path-kml` to generate rotation paths. Alternatively just center a circle object using GEP on the location.
 
+### Resources
+
+Great set of KML files here: https://www.digitalatlasproject.net/themes/plate-tectonics/gearth-kml-kmz-files
+
 ## Google Earth Engine
 
 ### Datasets
