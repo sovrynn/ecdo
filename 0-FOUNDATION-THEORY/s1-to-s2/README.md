@@ -50,11 +50,11 @@ Here's the eastern pivot:
 
 Putting it all together, the paths of rotation will look like this (Khafre pyramid travels from the red dot, past the north pole to the blue dot):
 
-![](../../6-LITERATURE-MEDIA/sovrynn/img/rotation-speed.png)
+![](img/rotation-speed.png)
 
 Another good version [4]:
 
-![](../../6-LITERATURE-MEDIA/nobulart/img/rotation-speed2.jpg)
+![](img/rotation-speed2.jpg)
 
 ## S2 Equator Points
 
