@@ -88,6 +88,14 @@ The 50-60 years spent in State 2 may be where the additional 5 days per year obs
 
 Could it be that the melting of the previous polar ice caps is what triggers the return to state 1? That ice is a mighty large flywheel. How long might this take? 50 years?
 
+## UV Adoption of Native Africans
+
+A large part of the indigenous people of Sub-Saharan Africa have very dark skin which is an adaptation to intense UV light in this region. By deduction, our planet can not stay in State 2 for too long, otherwise Sub-Saharan Africans would not have biologically evolved such skin.
+
+![CleanShot 2025-01-15 at 18 40 04@2x](https://github.com/user-attachments/assets/10e4aa15-c054-4958-badc-70ba04c282dc)
+
+
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)
