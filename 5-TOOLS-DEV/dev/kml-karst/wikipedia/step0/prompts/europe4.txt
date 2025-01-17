@@ -1,0 +1,38 @@
+Take the following list of locations (organized by country) and return them to me in a list, one location per line (no markdown formatting), followed by the country:
+
+Czech Republic
+
+    Moravian Karst, Czech Republic
+    Bohemian Karst, Czech Republic
+
+Estonia
+
+	Kostivere karst area[1] 	Harju County, Jõelähtme Parish 		
+	Kuimetsa karst area[2] 	Rapla County, Rapla Parish 		
+	Tuhala karst area 	Harju County, Kose Parish 		
+	Uhaku karst area 	Ida-Viru County, Lüganuse Parish
+
+France
+
+        Massif de Larra-Belagua, near Pic d'Anie, Pyrenees
+        Pierre-Saint-Martin, Pyrenees
+        Arbailles, Pyrenees
+        Causses (Causse du Larzac,...), Massif Central
+        Sainte-Baume, French Prealps
+        Mont Sainte-Victoire, French Prealps
+        Alpilles, French Prealps
+        Luberon, French Prealps
+        Vaucluse Mountains, French Prealps
+        Dévoluy Mountains, French Prealps
+        Vercors Plateau, French Prealps
+        Chartreuse Mountains, French Prealps
+        Bauges, French Prealps
+        Bugey, Jura
+    Pays d'Ouche (Normandy)
+
+Germany
+
+    Franconian Switzerland, Upper Franconia, Bavaria
+    Hönnetal at Balve
+    South Harz and Kyffhaeuser Gypsum Karst
+    Swabian Alb region in the federal state of Baden-Württemberg

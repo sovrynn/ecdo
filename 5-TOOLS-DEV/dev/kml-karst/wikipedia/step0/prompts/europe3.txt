@@ -1,0 +1,89 @@
+Take the following list of locations (organized by country) and return them to me in a list, one location per line (no markdown formatting), followed by the country:
+
+Croatia
+
+    Regions of Dalmatia
+    Lika (Plitvice Lakes National Park)
+    Gorski kotar
+    Istria
+    Kvarner
+    the Brijuni islands, also a national park
+    Krk, the largest along with Cres
+    Plavnik
+    Cres, the largest along with Krk
+    Lošinj
+    Ilovik
+    Unije
+    Susak
+    Prvić
+    Goli Otok
+    Sveti Grgur
+    Rab
+    Pag
+    Olib
+    Silba
+    Premuda
+    Ist
+    Molat
+    Košljun
+    Vir
+    Dugi Otok
+    Ugljan
+    Iž
+    Pašman
+    the Kornati archipelago, also a national park
+    Krapanj
+    Murter
+    Sestrunj
+    Škarda
+    Zlarin
+    Čiovo
+    Drvenik
+    Šolta
+    Brač
+    Hvar
+    Vis
+    Biševo
+    Brusnik
+    Jabuka
+    Svetac
+    Korčula (most populated island)
+    Lastovo
+    Mljet
+    the Elaphiti Islands: Koločep (southernmost inhabited island), Lopud, Šipan
+    Lokrum
+    Palagruža (southernmost island)
+    Žirje
+    Žut
+    Velebit caves - Lukina jama 	1,392 m (4,567 ft) 		[1][2]
+	Velebit caves – Slovačka jama 	1,320 m (4,330 ft) 		[2]
+	Velebit caves – near Crikvena 	1,034 m (3,392 ft) 		[2]
+	Crnopac cave system [de] 	830 m (2,720 ft) 		[3]
+	Biokovo caves – Amfora Pit 	788 m (2,585 ft) 		[2]
+	Velebit caves – Meduza 	679 m (2,228 ft) 		[2]
+	Biokovo caves – Stara škola 	576 m (1,890 ft) 		[2]
+	Biokovo caves – Vilimova jama 	572 m (1,877 ft) 		[2]
+	Velebit caves – Patkov Gušt 	553 m (1,814 ft) 		[2]
+	Velebit caves – Jama Olimp 	537 m (1,762 ft) 		[2]
+	Velebit caves – Ledena jama u Lomskoj dulibi 	536 m (1,759 ft) 		[2]
+	Stupina jama 	413 m (1,355 ft) 	251 m (823 ft) 	Deepest cave in Gorski Kotar[4]
+    Crnopac cave system [de] 	59.030 km (36.68 mi) 	830 m (2,720 ft) 	[5]
+	Medvedica caves – Đulin ponor 	16,396 m (53,793 ft) 		[1][2]
+	Varićakova špilja – Panjkov ponor 	12,385 m (40,633 ft) 		[2]
+	Tounj quarry cave 	8,487 m (27,844 ft) 		[2]
+	Veternica 	7,128 m (23,386 ft) 	50 m (160 ft) 	[2]
+	Javornica kod Bizeka 	330 m (1,080 ft) 	28 m (92 ft) 	[6]
+	Sutinščica 	254 m (833 ft) 	5.5 m (18 ft) 	[7][8]
+	Pivnica 	180 m (590 ft) 	51 m (167 ft) 	[9]
+	Đot 	146 m (479 ft) 	42 m (138 ft) 	[10][11]
+	Kranjča špilja 	125 m (410 ft) 	27 m (89 ft) 	[12][13]
+    Caves of Barać 			[14]
+	Baredine Cave 	60 m (200 ft) 	132 m (433 ft) 	[15]
+	Bijele sige 	27 m (89 ft) 	95 m (312 ft) 	
+	Biserujka 		110 m (360 ft) 	Near Dobrinj, on the island of Krk
+	Crveno jezero (the Red Lake) 			Near Imotski
+	Javornica kod Bizeka 	28 m (92 ft) 	330 m (1,080 ft) 	
+	Velebitaška jama 	45 m (148 ft) 	70 m (230 ft) 	
+	Vrtare Male 	30 m (98 ft) 		Contains megafauna remains from the last ice age[16]
+	Balinka pit 	328 m (1,076 ft) 		
+	Romuald’s Cave 			Noted for cave paintings 

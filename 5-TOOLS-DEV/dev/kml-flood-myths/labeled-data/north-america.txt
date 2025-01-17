@@ -1,0 +1,166 @@
+Innuit, North America  
+64.24797579999999,-84.8895824
+Eskimo (Orowignarak, Alaska), United States, North America  
+63.588753,-154.4930619
+Norton Sound Eskimo, United States, North America  
+64.50059089999999,-165.4086406
+Central Eskimo, North America  
+63.74669300000001,-68.5169669
+Tchiglit Eskimo (Arctic Ocean), North America  
+69.445358,-133.034181
+Herschel Island Eskimo, Canada, North America  
+69.5794566,-139.0762055
+Netsilik Eskimo, North America  
+69.5367022,-93.5271035
+Greenlander, Greenland, North America  
+64.17432339999999,-51.7372787
+Tlingit (southern Alaska coast), United States, North America  
+57.05321929999999,-135.3345513
+Hareskin (Alaska), United States, North America  
+64.8400511,-147.7199756
+Tinneh (Alaska and south), United States, North America  
+61.2175758,-149.8996785
+Loucheux (Dindjie) (Alaska), United States, North America  
+66.5636571,-145.2486502
+Dogrib and Slave (Tinneh tribes), Canada, North America  
+62.4539717,-114.3717886
+Kaska (northern inland British Columbia), Canada, North America  
+58.8050174,-122.697236
+Thompson Indians (British Columbia), Canada, North America  
+50.674522,-120.3272674
+Sarcee (Alberta), Canada, North America  
+51.04473309999999,-114.0718831
+Tsetsaut, Canada, North America  
+55.94131239999999,-129.9878921
+Haida (Queen Charlotte Is., British Columbia), Canada, North America  
+53.06451185,-132.1132571
+Tsimshian (British Columbia), Canada, North America  
+54.3150367,-130.3208187
+Kwakiutl (British Columbia), Canada, North America  
+50.58448550000001,-126.9254093
+Kootenay (southeast British Columbia), Canada, North America  
+49.5129678,-115.7694002
+Squamish (British Columbia), Canada, North America  
+49.7016339,-123.1558121
+Bella Coola (British Columbia), Canada, North America  
+52.3721277,-126.7539346
+Lillooet (Green River, British Columbia), Canada, North America  
+50.69401569999999,-121.9329594
+Makah (Cape Flattery, Washington), United States, North America  
+48.3681223,-124.6249602
+Klallam (northwest Washington), United States, North America  
+48.118146,-123.4307413
+Skokomish (Washington), United States, North America  
+47.2150945,-123.1007066
+Skagit (Washington), United States, North America  
+48.4201105,-122.3374542
+Quillayute (Washington), United States, North America  
+47.950355,-124.3854867
+Nisqually (Washington), United States, North America  
+47.0378741,-122.9006951
+Twana (Puget Sound, Washington), United States, North America  
+47.6040016,-122.9487808
+Kathlamet, United States, North America  
+46.1041403,-123.2039361
+Cascade Mountains, United States, North America  
+45.8230494,-121.8522443
+Spokana, United States, North America  
+47.6579711,-117.4235319
+Nez Perce, United States, North America  
+46.4040971,-117.0019991
+Cayuse (eastern Washington), United States, North America  
+46.0645809,-118.3430209
+Yakima (Washington), United States, North America  
+46.6022299,-120.5060955
+Warm Springs (Oregon), United States, North America  
+44.7634519,-121.2661625
+Joshua (southern Oregon), United States, North America  
+42.1945758,-122.7094767
+Smith River (northern California coast), United States, North America  
+41.7557501,-124.2025913
+Wintu (north central California), United States, North America  
+40.5865396,-122.3916754
+Maidu (central California), United States, North America  
+39.5133153,-121.5577086
+Northern Miwok (central California), United States, North America  
+37.9577016,-121.2907796
+Tuleyome Miwok (near Clear Lake, California), United States, North America  
+38.961809,-122.6312972
+Olamentko Miwok (Bodega Bay, California), United States, North America  
+38.33325,-123.0480571
+Ohlone (San Francisco to Monterey, California), United States, North America  
+36.6002378,-121.8946761
+Kato (Mendocino County, California), United States, North America  
+39.1501709,-123.2077831
+Shasta (northern California interior), United States, North America  
+41.3098746,-122.3105666
+Pomo (north central California), United States, North America  
+38.440429,-122.7140548
+Salinan (California), United States, North America  
+35.6368759,-120.6545022
+Yuma (western Arizona, southern California), United States, North America  
+32.6926512,-114.6276916
+Havasupai (lower Colorado River), United States, North America  
+36.2369265,-112.6890791
+Ashochimi (California), United States, North America  
+38.5024689,-122.2653887
+Yurok (north California coast), United States, North America  
+40.8020712,-124.1636729
+Blackfoot (Alberta and Montana), Canada/United States, North America  
+51.04473309999999,-114.0718831
+Cree (Canada), North America  
+52.9399159,-106.4508639
+Timagami Ojibway (Canada), North America  
+47.0633734,-79.7895671
+Chippewa (Ontario, Minnesota, Wisconsin), Canada/United States, North America  
+46.78667189999999,-92.1004852
+Ottawa, Canada, North America  
+45.4200572,-75.7003397
+Menomini (Wisconsin-Michigan border), United States, North America  
+44.5133188,-88.0132958
+Cheyenne (Minnesota), United States, North America  
+44.977753,-93.2650108
+Yellowstone, United States, North America  
+44.4279684,-110.5884542
+Montagnais (northern Gulf of St. Lawrence), Canada, North America  
+50.21329679999999,-66.3757921
+Micmac (eastern Maritime Canada), Canada, North America  
+44.8857087,-63.1005273
+Algonquin (upper Ottawa River), Canada, North America  
+46.65678572212994,-76.76097747641342
+Lenape (Delaware to New York), United States, North America  
+40.7127753,-74.0059728
+Cherokee (Great Lakes area; eastern Tennessee), United States, North America  
+35.0457984,-85.3093995
+Mandan (North Dakota), United States, North America  
+46.8041643,-100.7877616
+Lakota, United States, North America  
+43.02554079999999,-102.5562743
+Choctaw (Mississippi), United States, North America  
+32.7715227,-89.1167275
+Natchez (Lower Mississippi), United States, North America  
+31.5604442,-91.40317100000001
+Chitimacha (Southern Louisiana), United States, North America  
+30.2240897,-92.0198427
+Caddo (Oklahoma, Arkansas), United States, North America  
+35.3843722,-94.42096459999999
+Pawnee (Nebraska), United States, North America  
+40.8136634,-96.7025764
+Navajo (Four Corners area), United States, North America  
+28.3297393,-81.6318783
+Jicarilla Apache (northeastern New Mexico), United States, North America  
+36.9336211,-106.9989265
+Sia (northeast Arizona), United States, North America  
+35.0241873,-110.6973571
+Acagchemem (near San Juan Capistrano, California), United States, North America  
+33.5019027,-117.6627655
+Luiseño (Southern California), United States, North America  
+33.4934243,-117.1488156
+Pima (southwest Arizona), United States, North America  
+32.2539787,-110.9741769
+Papago (Arizona), United States, North America  
+31.9120215,-111.881234
+Hopi (northeast Arizona), United States, North America  
+35.9277802,-110.6729158
+Zuni (New Mexico), United States, North America  
+35.0694767,-108.8484168

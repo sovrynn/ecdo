@@ -1,0 +1,21 @@
+#DataType      :	spring discharge data
+#DataSource    :	Antonio Santo, University Federico II, Naples, Italy	(NA)
+#ID            :	NA
+#Name          :	Acquara Pelosi
+#LAT	LON      :	40.87	14.86
+#Time format   :	%d.%m.%Y
+#Discharge unit:	m^3/s
+#Timestamp(UTC):	14.08.2019 10:19:40
+Timestamp	discharge
+01.01.1968 00:00:00	0.4
+01.02.1968 00:00:00	0.8
+01.03.1968 00:00:00	1.1
+01.04.1968 00:00:00	1.12
+01.05.1968 00:00:00	1
+01.06.1968 00:00:00	0.8
+01.07.1968 00:00:00	0.7
+01.08.1968 00:00:00	0.6
+01.09.1968 00:00:00	0.4
+01.10.1968 00:00:00	0.3
+01.11.1968 00:00:00	0.21
+01.12.1968 00:00:00	0.3

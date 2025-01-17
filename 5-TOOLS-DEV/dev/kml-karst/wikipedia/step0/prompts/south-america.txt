@@ -1,0 +1,13 @@
+Take the following list of locations (organized by country) and return them to me in a list, one location per line (no markdown formatting), followed by the country:
+
+Brazil
+
+    Lagoa Santa Karst, Minas Gerais, Brazil
+
+Chile
+
+    Madre de Dios Island and Guarello Island (the world's southernmost limestone mine), Magallanes, Chile
+
+Venezuela
+
+    The Sierra de San Luis in Falcón State, location of Haitón del Guarataro, the deepest limestone cave in Venezuela.

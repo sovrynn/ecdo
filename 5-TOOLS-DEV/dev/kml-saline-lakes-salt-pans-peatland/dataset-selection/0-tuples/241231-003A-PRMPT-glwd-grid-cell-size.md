@@ -1,0 +1,1 @@
+Is every grid cell the same size? What is a hectare?

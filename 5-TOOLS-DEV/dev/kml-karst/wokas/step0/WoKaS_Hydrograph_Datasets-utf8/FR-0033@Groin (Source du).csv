@@ -1,0 +1,17 @@
+#DataType      :	spring discharge data
+#DataSource    :	Banque Hydro France	(http://www.hydro.eaufrance.fr/indexd.php?connect=1)
+#ID            :	V1425010
+#Name          :	Groin (Source du)
+#LAT	LON      :	45.89	5.69
+#Time format   :	%d.%m.%Y
+#Discharge unit:	m^3/s
+#Timestamp(UTC):	09.10.2019 15:44:33
+Timestamp	discharge
+31.12.1981 00:00:00	5.63889309366131
+31.12.1982 00:00:00	4.9443803843605
+31.12.1983 00:00:00	5.95950639853748
+31.12.1984 00:00:00	4.99777578475336
+31.12.1985 00:00:00	NA
+31.12.1986 00:00:00	4.81455238095238
+30.12.1987 00:00:00	4.80963414634146
+10.02.1988 00:00:00	7.35049295774648

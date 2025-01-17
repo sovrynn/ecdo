@@ -1,0 +1,60 @@
+Take the following list of locations (organized by country) and return them to me in a list, one location per line (no markdown formatting), followed by the country:
+
+Spain
+
+    Picos de Europa
+    Basque mountains, northern Spain
+    Larra-Belagua, Navarre, northern Spain
+    Serra del Cadí mountain range, Spain
+    Garraf Massif Natural Park area, Spain
+    Ciudad Encantada in the province of Cuenca, Castilla-La Mancha, Spain
+    El Torcal de Antequera nature preserve, southern Spain
+    El Cerro del Hierro, in Sevilla, southern Spain
+
+Sweden
+
+    limestone and marl island of Gotland
+    the Lummelunda cave system.
+    the stacks of Gotland
+    The Abisko-Torneträsk area in northern Sweden
+
+Switzerland
+
+    Switzerland
+
+Ukraine
+
+    Podolia region
+    Bukovina region in the northeastern edge of the Carpathian Mountains 
+    Optymistychna Cave
+
+England
+
+    White Peak of the Peak District, around Matlock, Castleton
+    Thor's Cave)
+    Mendip Hills
+    Cheddar Gorge[10]
+    Yorkshire Dales
+    Gaping Gill
+    Three Counties System.[11]
+    Forest of Dean
+    Clearwell Caves
+    Clearwell Mines[12]
+
+Northern Ireland
+
+    Marlbank-Cuilcagh Mountain Region, in County Fermanagh
+
+Scotland
+
+    Assynt[13]
+    southeast Skye
+    Kentallen
+
+Wales
+
+    Brecon Beacons National Park[14]
+    South Pembrokeshire
+    Gower
+    Parts of Flintshire e.g. Esclusham Mountain
+    Great Orme and adjacent parts of North Wales coast

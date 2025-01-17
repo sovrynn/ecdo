@@ -1,0 +1,24 @@
+Take the following list of locations (organized by country) and return them to me in a list, one location per line (no markdown formatting), followed by the country:
+
+Belize
+
+    Eastern foothills of Maya Mountains
+    Cockscomb Basin Wildlife Sanctuary, Belize
+    Great Blue Hole near the center of Lighthouse Reef, Belize
+
+Cuba
+
+    Mogotes in Viñales Valley
+
+Dominican Republic
+
+    Los Haitises National Park
+
+Jamaica
+
+    Cockpit Country region
+
+Puerto Rico
+
+    Northern Karst of Puerto Rico
+    Southern Karst of Puerto Rico

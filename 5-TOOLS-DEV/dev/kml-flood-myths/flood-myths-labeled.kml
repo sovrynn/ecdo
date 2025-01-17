@@ -1,0 +1,1887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Labeled Flood Myths</name>
+    <Style id="customStyle">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>3.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.0</scale> <!-- KML LabelStyle scale ranges typically from 0 to 1 -->
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>Tarascan (northern Michoacan), Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-102.0430476,19.4064492,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Michoacan, Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-101.1949825,19.7059504,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yaqui (Sonoran, Northern Mexico), Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-110.9559192,29.0729673,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tarahumara (Northern Mexico), Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-106.0587908,28.6433753,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Huichol (western Mexico), Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-104.8945887,21.5041651,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cora (east of the Huichols), Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-104.5172111,22.2558492,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tepecano (southeast of the Huichols), Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-103.3473385,20.6751707,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tepehua (eastern Mexico), Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-97.3156131,20.4566709,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toltec, Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-99.34243959999999,20.0557971,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nahua (central Mexico), Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-99.133208,19.4326077,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tlaxcalan (central Mexico), Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-98.2374954,19.318154,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tlapanec (south central Mexico), Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-99.5014623,17.5508259,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mixtec (northern Oaxaca), Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-97.2275336,17.4606859,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zapotec (Oaxaca, southern Mexico), Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-96.7265889,17.0731842,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trique (Oaxaca, southern Mexico), Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-97.9622222,17.1861111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Totonac (eastern Mexico), Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-97.3156131,20.4566709,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chol (southern Mexico), Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-92.6388466,16.7366198,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tzeltal (Chiapas, southern Mexico), Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-92.0943351,16.9087258,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quiché, Guatemala, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-91.1496969,15.0236312,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maya (southern Mexico and Guatemala), North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-89.5925857,20.9673702,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Popoluca (Veracruz), Mexico, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-94.89235289999999,17.9299172,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nicaragua, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-86.2361744,12.1149926,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Panama, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-79.51986959999999,8.9823792,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carib (Antilles), North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-61.84677199999999,17.1274104,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arnhem Land, Australia, Australia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>134.9253721,-12.621904,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maung (Goulburn Islands, Arnhem Land), Australia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>133.3970188,-11.6140013,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gunwinggu (northern Arnhem Land), Australia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>134.2313799,-12.0551674,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gumaidj (Arnhem Land), Australia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>136.7860989,-12.1835392,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Manger (Arnhem Land), Australia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>132.8325431,-12.6744733,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fitzroy River area (Western Australia), Australia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>125.5670892,-18.19797,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mount Elliot (coastal Queensland), Australia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>146.9454653,-19.4335024,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Western Australia, Australia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>115.8616783,-31.9513993,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Andingari (South Australia), Australia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>137.1654552,-30.4481743,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wiranggu (South Australia), Australia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>133.6763208,-32.1260393,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Narrinyeri (South Australia), Australia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>139.2736963,-35.1200511,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Victoria, Australia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>144.9630576,-37.8136276,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lake Tyres (Victoria), Australia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>148.1282382,-37.8414188,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kurnai (Gippsland, Victoria), Australia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>147.4627259,-37.5831982,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Southeast Australian, Australia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>147.5993731,-37.8365866,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maori, New Zealand, Australia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>174.7644881,-36.85088270000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Zealand, Australia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>174.7787463,-41.2923814,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sumerian, Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>46.2569178,31.0510427,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Egypt, Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>31.2357116,30.0444196,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Babylonian, Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>44.3660671,33.315241,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Assyrian, Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>43.157736,36.3489278,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chaldean, Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>47.7737891,30.5259953,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hebrew, Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>35.21371,31.768319,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Islamic, Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>39.81733639999999,21.4240968,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Persian, Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>51.3346954,35.7218583,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zoroastrian, Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>54.3568562,31.8974232,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Innuit, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-84.8895824,64.24797579999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eskimo (Orowignarak, Alaska), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-154.4930619,63.588753,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Norton Sound Eskimo, United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-165.4086406,64.50059089999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Central Eskimo, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-68.5169669,63.74669300000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tchiglit Eskimo (Arctic Ocean), North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-133.034181,69.445358,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Herschel Island Eskimo, Canada, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-139.0762055,69.5794566,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Netsilik Eskimo, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-93.5271035,69.5367022,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Greenlander, Greenland, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-51.7372787,64.17432339999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tlingit (southern Alaska coast), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-135.3345513,57.05321929999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hareskin (Alaska), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-147.7199756,64.8400511,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tinneh (Alaska and south), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-149.8996785,61.2175758,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Loucheux (Dindjie) (Alaska), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-145.2486502,66.5636571,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dogrib and Slave (Tinneh tribes), Canada, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-114.3717886,62.4539717,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kaska (northern inland British Columbia), Canada, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-122.697236,58.8050174,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thompson Indians (British Columbia), Canada, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-120.3272674,50.674522,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sarcee (Alberta), Canada, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-114.0718831,51.04473309999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tsetsaut, Canada, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-129.9878921,55.94131239999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Haida (Queen Charlotte Is., British Columbia), Canada, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-132.1132571,53.06451185,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tsimshian (British Columbia), Canada, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-130.3208187,54.3150367,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kwakiutl (British Columbia), Canada, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-126.9254093,50.58448550000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kootenay (southeast British Columbia), Canada, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-115.7694002,49.5129678,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Squamish (British Columbia), Canada, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-123.1558121,49.7016339,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bella Coola (British Columbia), Canada, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-126.7539346,52.3721277,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lillooet (Green River, British Columbia), Canada, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-121.9329594,50.69401569999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Makah (Cape Flattery, Washington), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-124.6249602,48.3681223,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Klallam (northwest Washington), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-123.4307413,48.118146,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skokomish (Washington), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-123.1007066,47.2150945,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skagit (Washington), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-122.3374542,48.4201105,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quillayute (Washington), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-124.3854867,47.950355,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nisqually (Washington), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-122.9006951,47.0378741,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Twana (Puget Sound, Washington), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-122.9487808,47.6040016,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kathlamet, United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-123.2039361,46.1041403,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cascade Mountains, United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-121.8522443,45.8230494,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spokana, United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-117.4235319,47.6579711,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nez Perce, United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-117.0019991,46.4040971,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cayuse (eastern Washington), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-118.3430209,46.0645809,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yakima (Washington), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-120.5060955,46.6022299,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Warm Springs (Oregon), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-121.2661625,44.7634519,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Joshua (southern Oregon), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-122.7094767,42.1945758,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Smith River (northern California coast), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-124.2025913,41.7557501,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wintu (north central California), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-122.3916754,40.5865396,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maidu (central California), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-121.5577086,39.5133153,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Northern Miwok (central California), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-121.2907796,37.9577016,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tuleyome Miwok (near Clear Lake, California), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-122.6312972,38.961809,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Olamentko Miwok (Bodega Bay, California), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-123.0480571,38.33325,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ohlone (San Francisco to Monterey, California), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-121.8946761,36.6002378,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kato (Mendocino County, California), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-123.2077831,39.1501709,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shasta (northern California interior), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-122.3105666,41.3098746,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pomo (north central California), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-122.7140548,38.440429,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salinan (California), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-120.6545022,35.6368759,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yuma (western Arizona, southern California), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-114.6276916,32.6926512,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Havasupai (lower Colorado River), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-112.6890791,36.2369265,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ashochimi (California), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-122.2653887,38.5024689,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yurok (north California coast), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-124.1636729,40.8020712,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blackfoot (Alberta and Montana), Canada/United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-114.0718831,51.04473309999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cree (Canada), North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-106.4508639,52.9399159,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Timagami Ojibway (Canada), North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-79.7895671,47.0633734,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chippewa (Ontario, Minnesota, Wisconsin), Canada/United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-92.1004852,46.78667189999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ottawa, Canada, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-75.7003397,45.4200572,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Menomini (Wisconsin-Michigan border), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-88.0132958,44.5133188,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cheyenne (Minnesota), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-93.2650108,44.977753,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yellowstone, United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-110.5884542,44.4279684,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montagnais (northern Gulf of St. Lawrence), Canada, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-66.3757921,50.21329679999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Micmac (eastern Maritime Canada), Canada, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-63.1005273,44.8857087,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Algonquin (upper Ottawa River), Canada, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-76.76097747641342,46.65678572212994,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lenape (Delaware to New York), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-74.0059728,40.7127753,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cherokee (Great Lakes area; eastern Tennessee), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-85.3093995,35.0457984,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mandan (North Dakota), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-100.7877616,46.8041643,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lakota, United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-102.5562743,43.02554079999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Choctaw (Mississippi), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-89.1167275,32.7715227,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Natchez (Lower Mississippi), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-91.40317100000001,31.5604442,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chitimacha (Southern Louisiana), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-92.0198427,30.2240897,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caddo (Oklahoma, Arkansas), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-94.42096459999999,35.3843722,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pawnee (Nebraska), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-96.7025764,40.8136634,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Navajo (Four Corners area), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-81.6318783,28.3297393,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jicarilla Apache (northeastern New Mexico), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-106.9989265,36.9336211,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sia (northeast Arizona), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-110.6973571,35.0241873,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Acagchemem (near San Juan Capistrano, California), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-117.6627655,33.5019027,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luiseño (Southern California), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-117.1488156,33.4934243,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pima (southwest Arizona), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-110.9741769,32.2539787,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Papago (Arizona), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-111.881234,31.9120215,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hopi (northeast Arizona), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-110.6729158,35.9277802,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zuni (New Mexico), United States, North America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-108.8484168,35.0694767,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vogul, Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>69.0312136,61.00605700000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Samoyed (north Siberia), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>66.6028111,66.550073,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yenisey-Ostyak (north central Siberia), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>92.8932476,56.01528339999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kamchadale (northeast Siberia), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>158.6320734,53.0583997,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Altaic (central Asia), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>106.9155007,47.9220509,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tuvinian (Soyot) (north of Mongolia), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>94.4574804,51.7150832,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mongolia, Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>106.9155007,47.9220509,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Buryat (eastern Siberia), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>107.5840434,51.8335896,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sagaiye (eastern Siberia), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>91.4293172,53.7175644,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Russian, Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>37.6173,55.755826,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hindu, Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>82.9739144,25.3176452,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bhil (central India), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>77.412615,23.2599333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kamar (Raipur District, Central India), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>81.62964130000002,21.2513844,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Assam, India, Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>91.7085933,26.1157917,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tamil (southern India), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>80.2704622,13.0843007,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lepcha (Sikkim), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>88.6138113,27.3313512,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tibet, Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>91.13775,29.6526199,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Singpho (Assam), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>94.91246249999999,27.4705449,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lushai (Assam), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>92.71731059999999,23.7307175,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lisu (northwest Yunnan, China), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>100.2270999,26.8564799,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lolo (southwestern China), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>102.83322,24.8796599,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jino (southern Yunnan, China), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>100.77163,22.0000799,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Karen (Burma), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>97.64396110000001,16.875913,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chingpaw (Upper Burma), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>97.39392240000001,25.3867687,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>China, Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>116.407395,39.904211,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Korea, Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>126.9970831,37.550263,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Munda (north-central India), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>80.0981869,23.0707247,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santal (Bengal), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>88.3628734,22.5743545,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ho (southwestern Bengal), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>86.2028754,22.8045665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bahnar (Cochin China), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>108.0150796,13.9718356,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kammu (northern Thailand), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>99.840576,19.9104798,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Andaman Islands (Bay of Bengal), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>92.7264828,11.6233774,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zhuang (China), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>108.3669,22.8167299,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sui (southern Guizhou, China), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>106.63019,26.6475899,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shan (Burma), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>97.0337141,20.7887571,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tsuwo (Formosa interior), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>120.6764959,23.9177236,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bunun (Formosa interior), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>121.1439117,22.761315,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ami (eastern Taiwan), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>121.6014001,23.9871434,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Benua-Jakun (Malay Peninsula), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>101.6840589,3.1319197,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kelantan (Malay Peninsula), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>102.2420979,6.1275396,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ifugao (Philippines), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>121.1022942,16.9496263,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kiangan Ifugao, Philippines, Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>121.0986722,16.7712337,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Atá (Philippines), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>124.9229946,8.0515054,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mandaya (Philippines), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>126.5419887,7.3171585,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tinguian (Luzon, Philippines), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>120.7982528,17.5951122,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batak (Sumatra), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>98.6722227,3.5951956,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nias (an island west of Sumatra), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>97.5247243,1.1255279,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Engano (another island west of Sumatra), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>102.2319048,-5.3746635,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dusun (British North Borneo), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>116.077344,5.9843644,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dyak (Borneo), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>109.3425039,-0.0263303,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ot-Danom (Dutch Borneo), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>113.913977,-2.2161048,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toradja (central Celebes), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>119.9046594,-0.8679099,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alfoor (between Celebes and New Guinea), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>120.5279,-1.8479,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rotti (southwest of Timor), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>123.1239049,-10.7386421,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nage (Flores), Asia</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>121.654198,-8.854053,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Greek, Europe</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>23.7275388,37.9838096,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arcadian, Europe</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>22.3337769,37.5557825,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Samothrace, Europe</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>25.5917918,40.4476834,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roman, Europe</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>12.4822025,41.8967068,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Scandinavian, Europe</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>18.0656255,59.3327036,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>German, Europe</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>13.404954,52.52000659999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Celtic, Europe</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-6.2603097,53.3498053,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Welsh, Europe</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-3.1680962,51.483707,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lithuanian, Europe</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>25.2796514,54.6871555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Transylvanian Gypsy, Europe</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>23.6236353,46.7712101,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Turkey, Europe</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>28.9783589,41.0082376,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabadi, Papua New Guinea, Oceania</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>147.1494164,-9.4790043,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Valman (northern New Guinea), Papua New Guinea, Oceania</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>143.6583166,-3.5800229,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mamberamo River, Indonesia (Irian Jaya), Oceania</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>140.6689995,-2.5916025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Samo-Kubo (western Papua New Guinea), Papua New Guinea, Oceania</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>141.2986517,-6.1215578,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Papua New Guinea, Oceania</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>143.95555,-6.314992999999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palau Islands (Micronesia), Oceania</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>134.624289,7.5003835,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Western Carolines, Micronesia, Oceania</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>138.1399232,9.5556503,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hebrides, Vanuatu, Oceania</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>168.3173027,-17.742979,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lifou (Loyalty Islands), New Caledonia, Oceania</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>167.2405153,-20.9448472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fiji, Oceania</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>178.4232507,-18.1405049,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Samoa, Oceania</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-171.7689086,-13.831609,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nanumanga, Tuvalu, Oceania</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>176.319928,-6.2858019,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mangaia, Cook Islands, Oceania</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-157.9165934,-21.9352313,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rakaanga, Cook Islands, Oceania</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-161.0833333,-10.0333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Raiatea (Leeward Group), French Polynesia, Oceania</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-151.4449665,-16.7287218,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tahiti, French Polynesia, Oceania</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-149.5677151,-17.5324608,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hawaii, United States, Oceania</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-157.8581401,21.3098845,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cameroon, Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>11.5202292,3.8616853,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masai (East Africa), Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>35.1299896,-1.4821324,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Komililo Nandi, Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>35.1268781,0.1835867,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kwaya (Lake Victoria), Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>32.9174517,-2.5164305,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Southwest Tanzania, Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>33.4607744,-8.9094014,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pygmy, Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>29.0459927,1.8754518,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ababua (northern Zaire), Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>24.9042208,3.9901009,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kikuyu (Kenya), Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>36.8219462,-1.2920659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bakongo (west Zaire), Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>13.914399,-5.2365685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bachokwe (southern Zaire), Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>13.2301756,-8.8146556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lower Congo, Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>13.914399,-5.2365685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Basonge, Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>22.4172256,-5.897521999999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bena-Lulua (Congo River, southeast Zaire), Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>23.5966577,-6.1306709,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yoruba (southwest Nigeria), Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>3.3792057,6.5243793,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Efik-Ibibio (Nigeria), Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>8.3417006,4.9757165,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ekoi (Nigeria), Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>8.5988014,5.8701724,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mandingo (Ivory Coast), Africa</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-4.019603,5.3252258,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Acawai (Orinoco), Venezuela, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-67.58277439999999,5.6614718,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arekuna, Guyana, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-58.93018,4.860416,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Makiritare, Venezuela, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-67.6983481,4.0435454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Macusi, Guyana, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-59.80185529999999,3.3731347,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Muysca, Colombia, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-74.072092,4.710988599999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yaruro (southern Venezuela), Venezuela, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-70.2310676,8.620620599999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yanomamö (southern Venezuela), Venezuela, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-65.0957792,2.8101413,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tamanaque (Orinoco), Venezuela, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-63.55533449999999,8.0945054,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arawak, Guyana, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-58.1551255,6.8012793,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pamary, Brazil, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-60.0217314,-3.1190275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Abedery, Brazil, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-67.8098191,-9.9740249,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kataushy (Purus River), Brazil, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-64.7965427,-7.263743099999998,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ipurina (Upper Amazon), Brazil, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-64.70921,-3.3473403,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jivaro (eastern Ecuador), Ecuador, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-78.1202307,-2.3074378,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shuar (Andes), Ecuador, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-77.99980339999999,-1.4928811,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Murato (eastern Ecuador), Ecuador, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-76.7336521,0.0726839,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cañari (Quito), Ecuador, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-78.5141064,-0.2232523,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Guanca, Peru, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-75.21029759999999,-12.0686357,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chiquito, Peru, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-71.96746259999999,-13.53195,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ancasmarca (near Cuzco), Peru, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-71.985278,-13.251667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Canelos Quechua, Peru, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-73.8266591,-15.2103127,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quechua, Peru, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-71.96746259999999,-13.53195,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Inca, Peru, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-71.96746259999999,-13.53195,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colla (high Andes), Peru, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-70.0218805,-15.8402218,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chiriguano (southeast Bolivia), Bolivia, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-64.72956669999999,-21.5177889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chorote (Eastern Paraguay), Paraguay, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-57.57592599999999,-25.2637399,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eastern Brazil (Rio de Janeiro region), Brazil, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-43.1728965,-22.9068467,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eastern Brazil (Cape Frio region), Brazil, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-42.0266568,-22.8868925,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caraya (Araguaia River, central Brazil), Brazil, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-49.36531489999999,-15.7050424,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Coroado (south Brazil), Brazil, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-49.2651984,-25.4268985,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Araucania (coastal Chile), Chile, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-72.59045979999999,-38.7383905,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toba (northern Argentina), Argentina, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-58.98555469999999,-27.4518622,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Selk'nam (southern tip of Argentina), Argentina, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-68.3029511,-54.8019121,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yamana (Tierra del Fuego), Argentina, South America</name>
+      <styleUrl>#customStyle</styleUrl>
+      <Point>
+        <coordinates>-68.3029511,-54.8019121,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

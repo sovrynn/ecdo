@@ -1,0 +1,13 @@
+Take the following list of locations (organized by country) and return them to me in a list, one per line (no markdown formatting), followed by the country:
+
+Madagascar
+
+    Anjajavy Forest, western Madagascar
+    Ankarana Reserve, Madagascar
+    Madagascar dry deciduous forests, western Madagascar
+    Tsingy de Bemaraha Strict Nature Reserve, Madagascar
+
+South Africa
+
+    Oudtshoorn, Western Cape Province, KwaZulu Natal.
+    West Rand, Gauteng and North West Province, KwaZulu Natal.

@@ -1,0 +1,122 @@
+Take the following list of locations (organized by country) and return them to me in a list, one location per line (no markdown formatting), followed by the country:
+
+Canada
+
+    Marble Canyon, British Columbia
+    Monkman Provincial Park, British Columbia
+    Northern Vancouver Island, British Columbia
+    Niagara Escarpment, Ontario
+    The Napanee Limestone Plain, Ontario
+    Port au Port Peninsula, Newfoundland
+    Nahanni region in the Northwest Territories
+    Wood Buffalo National Park in Alberta and the Northwest Territories
+    Avon Peninsula, Nova Scotia
+    St-Jude, Quebec
+
+Mexico
+
+    Cenotes of the Yucatán Peninsula
+    Sótanos of the Sierra Gorda, Querétaro
+    Cacahuamilpa grottos, Guerrero
+    Chiapas Plateau, Chiapas
+    Nahá–Metzabok
+    Sierra de Tamaulipas
+    Zacatón
+
+United States
+
+Alaska
+
+    Kosciusko Island, southeastern Alaska
+
+Arizona
+
+    Texas Canyon, Cochise County
+
+Florida
+
+    Florida
+
+Illinois
+
+    Illinois Caverns State Natural Area
+    Illinois Sinkhole Plain in Monroe County
+
+Indiana
+
+    Mitchell Plain and uplands of southern Indiana
+
+Kentucky
+
+    Bluegrass region of Kentucky
+    Mammoth Cave region
+
+Michigan
+
+    Presque Isle County near and around Rogers City
+    Pictured Rocks National Lakeshore near Munising, Michigan
+
+Missouri, Arkansas
+
+    Ozark Plateau of Missouri and Arkansas
+
+Nevada
+
+    Lehman Caves located within Great Basin National Park in eastern Nevada
+
+New Mexico
+
+    Carlsbad Caverns National Park
+
+Oklahoma
+
+    Arbuckle Mountains
+    Arbuckle Uplift
+    Kamas Ranch
+    Alabaster Cavern area
+
+Oregon
+
+    Deschutes River basin
+
+South Dakota
+
+    Black Hills
+    Wind Cave
+    Jewel Cave)
+
+Tennessee
+
+    Cumberland Plateau
+    Grassy Cove Karst Area
+
+Texas
+
+    Edwards Plateau, Texas
+    Palo Pinto Mountains
+
+Utah
+
+    Ricks Spring in northeast Utah
+
+Virginia
+
+    Shenandoah Valley, Virginia
+
+West Virginia
+
+    Germany Valley Karst Area
+    Smoke Hole Canyon
+    Greenbrier River watershed
+    Swago Karst Area
+
+Wisconsin, Minnesota, Iowa, Illinois
+
+    Driftless Area of western Wisconsin
+    southeast Minnesota
+    northeast Iowa
+    northwest Illinois
+    Niagara Escarpment of the Eastern Ridges
+    Lowlands region of eastern Wisconsin
+    Green Bay on the Door Peninsula
+    Potawatomi Islands

@@ -1,0 +1,28 @@
+#DataType      :	spring discharge data
+#DataSource    :	Tadolini T., Tulipano L. & Zanframundo P. (1976) La falda idrica della zona compresa tra Vico del Gargano ed Ischitella (Puglia): caratteristiche ed equilibrio idrogeologico. Giornale del Genio Civile, fasc. 10-11-12, p. 423-433.	(NA)
+#ID            :	NA
+#Name          :	Montenero II
+#LAT	LON      :	41.9	15.92
+#Time format   :	%d.%m.%Y
+#Discharge unit:	m^3/s
+#Timestamp(UTC):	14.08.2019 10:19:44
+Timestamp	discharge
+01.06.1969 00:00:00	0.008
+01.07.1969 00:00:00	0.0072
+01.08.1969 00:00:00	0.006
+01.09.1969 00:00:00	0.004
+01.10.1969 00:00:00	0.005
+01.11.1969 00:00:00	0.0052
+01.05.1970 00:00:00	0.006
+01.06.1970 00:00:00	0.007
+01.07.1970 00:00:00	0.006
+01.08.1970 00:00:00	0.008
+01.09.1970 00:00:00	0.007
+01.10.1970 00:00:00	0.0075
+01.11.1970 00:00:00	0.008
+01.12.1970 00:00:00	0.009
+01.01.1971 00:00:00	0.008
+01.02.1971 00:00:00	0.008
+01.03.1971 00:00:00	0.009
+01.04.1971 00:00:00	0.011
+01.05.1971 00:00:00	0.0125

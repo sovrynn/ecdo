@@ -1,0 +1,1 @@
+How is the grid cell size known? Is this specified for each grid cell in the dataset?

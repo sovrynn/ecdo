@@ -1,0 +1,4885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Karst Aquifers</name>
+    <Style id="whiteMarker">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.5</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href></Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="grayMarker">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.5</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href></Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="blackMarker">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.5</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href></Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Drapania</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>23.76,35.52,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Koutsoulidis</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>24.56,35.15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Aliou</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>1.03,42.96,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Stanford Water at Buckenham Tofts</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>0.7,52.52,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Blautopf</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>9.78,48.42,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Rockingham</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-8.23,53.98,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Fontaine de Vaucluse (Sorgom√®tre)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>5.13,43.92,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Dan</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>35.65,33.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Le Ruisseau Lévéjac (source Taurin) à Saint-Rome-de-Tarn</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>2.92,44.03,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Mountbellew spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-8.51,53.45,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>CEDAR HEAD SPRING NR HILDRETH, FL</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-82.76,29.98,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Ri≈æana-Kubed II</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>13.89,45.53,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>La Gouarège à Cazavet (Aliou)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>1.05,42.99,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Vrelo Zrmanja</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>16.08,44.2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Moosbrunnquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>12.85,46.79,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Killeglan</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-8.17,53.42,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Shanballymore</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-8.49,52.22,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Karstquelle Obereichstätt (Hüttenbachquelle)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>11.13,48.89,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Areuse</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>6.55,46.91,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Soloco</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-77.75,-6.28,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Vipava-Vipava I</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>13.96,45.85,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Liulin springs</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>110.89,37.43,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Crnojevic√°</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>19.0,42.4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Serino (Acquaro-Pelosi group)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.87,40.86,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Brenzquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>10.11,48.74,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Cheriton Stream at Sewards Bridge</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-1.18,51.09,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Å½rnovnica</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>16.56,43.52,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Mammoth Spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-91.54,36.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Simme-Oberried</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>7.47,46.43,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Manor Farm Brook at Letcombe Regis</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-1.45,51.57,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Bistrica-Ilirska Bistrica</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.25,45.57,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>WARM CREEK NEAR GANDY, UT</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-114.02,39.46,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Unica-Hasberg</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.26,45.83,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Genal</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-5.12,36.64,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Charlestown spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-8.83,53.94,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Kria Vrisi-Simis-Kefalovrisi-Viannou</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>25.55,35.11,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Kirkg√∂zler</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>30.54,37.11,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Wassermannsloch</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>14.83,47.58,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Cedar Creek</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-85.31,34.06,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Test at Chilbolton Total</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-1.45,51.15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Cuisance (Source de la)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>5.82,46.88,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Caltra spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-8.42,53.41,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Schlögelsmühle-Hallerbrunnen</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>11.63,49.37,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Fidelisquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>9.93,46.98,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Armenoi</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>24.16,35.46,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>JACKSON BLUE SPRING NR MARIANNA, FL</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-85.14,30.79,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Galese</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>17.25,40.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Niangziguan Springs</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>113.87,37.96,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Xinan</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>113.39,36.37,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>SE FORK HOMOSASSA SPRING AT HOMOSASSA SPRINGS FL</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-82.59,28.8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Gollinger Wasserfall</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>13.14,47.6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Bruchbrunnenquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>10.36,48.68,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Davis Spring at Fort Spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-80.54,37.76,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Dinokana</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>25.86,-25.44,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>(C- 2- 4)15cac-S1 MILL SPRING NR ERDA, UT</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-112.29,40.64,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Lison (Source du)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>6.01,46.97,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Cabranka</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.64,45.6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Kirchenflussquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>11.85,49.2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>South Winterbourne at Winterbourne Steepleton</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-2.53,50.71,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Houzhai Subterranean river part</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>105.68,26.22,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Nandong</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>103.29,23.65,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>BÃ¨ze (Source de)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>5.27,47.47,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Serino</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.9,40.83,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Dewlish Woodsdown Cross</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-2.32,50.8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Bennett Spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-92.86,37.72,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Izrael</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>35.34,32.56,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Vasca di Trani</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>16.36,41.3,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Lac de Tseuzier</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>7.44,46.35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Sulzthalquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>10.04,50.13,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Niangziguan Springs Basin</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>113.87,37.97,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Gortgarrow spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-8.65,53.58,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Crowsnest</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-114.64,49.63,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>MADISON BLUE SPRING NR BLUE SPRINGS, FL</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-83.24,30.48,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Donni Spring, Saipan, CNMI</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>145.45,15.11,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>BÃ¶hming</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>11.37,48.95,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Wylye at South Newton</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-1.88,51.11,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Almyros</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>25.05,35.34,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Maramec Spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-91.53,37.96,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Aachursprung - Wimsener Höhle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>9.45,48.26,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>ICHETUCKNEE R A DAMPIER'S LANDING NR HILDRETH, FL</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-82.77,29.96,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Sydling Water at Sydling St Nicholas</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-2.52,50.8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>MISSION SPRINGS COMPLEX NR HILDRETH, FL</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-82.76,29.98,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Capo d'Acqua del Tirino</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>13.79,42.28,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Le Lez</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>3.88,43.72,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Große Mühlquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>15.2,47.91,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Dardennes</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>5.93,43.18,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Verde</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.21,42.1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Box Canyon Springs</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-114.81,42.71,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Kakap</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>110.93,-8.03,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Jadro</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>16.53,43.54,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Barm</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>50.83,31.51,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Geropotamos</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>24.8,35.06,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Steinbachquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>14.77,47.81,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Zvir</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.46,45.34,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Ojo de Guillo</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-66.53,18.43,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Gerstenb√∂denquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>9.77,47.26,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Vrelo Mlave</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>21.78,44.19,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Jinci</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>112.44,37.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Ojo de Agua</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-66.4,18.45,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Acquara Pelosi</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>14.86,40.87,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Schwarzbodenquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>12.67,46.78,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Cent-Fonts</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>3.62,43.76,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Kyle spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-7.17,52.98,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Ebble at Bodenham</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-1.77,51.04,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Gilan</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>45.93,34.14,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Aquas Claras</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-77.56,-5.72,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Lower Dobra</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>15.22,45.26,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Malen≈°cica-Malni</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.25,45.82,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Caposele group</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>15.22,40.82,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>La Sorgue Ã  Cornus (aval pisciculture)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>3.19,43.88,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Alton Pancras</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-2.42,50.81,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Stubbachquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>11.64,47.35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Ewens Ponds - Eight Mile Creek</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>140.8,-38.04,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Big Spring Creek at Big Spring, PA</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-77.41,40.13,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Migdal</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>35.46,32.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Hooke at Hooke</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-2.66,50.8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>ICHETUCKNEE HEAD SPRING NR HILDRETH, FL</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-82.76,29.98,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Doubs (Source du)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>6.21,46.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Cueva del Gato (Spring S-1)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-5.24,36.73,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Palestina</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-77.35,-5.92,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Blaue Quelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>12.19,47.67,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Schwarzer Kocher</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>10.1,48.77,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Benaojan (Spring S-2)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-5.25,36.72,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Torano</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.4,41.37,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Sasan</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>51.59,29.78,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Dimeh</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>50.22,32.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Reithbachquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>14.88,47.84,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Grza</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>21.62,43.96,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Deep Creek</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>140.78,-38.04,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Hangedmans Arch</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-6.86,53.2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Hang Doi</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>104.38,20.51,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Wasseralmquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>15.65,47.73,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Steyernquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>14.35,47.82,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Le ruisseau de Saint-Pierre à Verrières (Saint-Pierre)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>3.02,44.23,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Fontaine de Nimes</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>4.35,43.84,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Tanour</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>35.74,32.41,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>La LÃ¨che</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>0.26,45.66,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Barton Springs at Austin</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-97.77,30.26,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>01S-03E-01 ABB 1 Antelope Spring at Sulphur, OK</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-96.94,34.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Ha Ha Tonka Spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-92.77,37.97,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Huanghou</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>107.68,25.27,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Rijecina</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.43,45.42,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Izvor Krka</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>16.24,44.04,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Mlava</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>21.78,44.19,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Kourbos</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>24.16,35.46,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>DEVIL'S EYE SPRING NR HILDRETH, FL</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-82.76,29.97,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Union Quelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>13.8,46.63,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Houzhai Surface river part</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>105.68,26.22,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Mole Creek</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>146.35,-41.53,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Le Lachein à Balaguères (Baget - Las Hountas)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>1.03,42.96,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Port-Miou</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>5.51,43.21,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>SILVER GLEN SPRINGS NEAR ASTOR, FL</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-81.64,29.24,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Tange Syab</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>47.2,33.4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Clarinbridge spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-8.86,53.22,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Tonkovica vrelo</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>15.37,44.79,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Xe Bang Fai Cave</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>105.84,17.37,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Killaturly spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-8.88,53.93,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Fosse Dionne</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>3.97,47.86,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Arvis</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>25.44,34.99,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Le Verneau Ã  Nans-sous-Sainte-Anne</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>6.0,46.98,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Gallusquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>9.21,48.2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Bouillon</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>1.75,47.99,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Groin (Source du)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>5.69,45.89,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>L'Hers à Bélesta (source de Fontestorbes)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>1.93,42.89,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Big Spring near Van Buren</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-90.99,36.95,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Giffin Spgs at Toyahvale, TX</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-103.79,30.95,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Saivu</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>7.01,47.49,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Schreiende Brunnen</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>12.58,47.43,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Picc Ponds</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>140.94,-38.05,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Ptolemy spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-114.66,49.59,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Mid galway</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-8.69,53.45,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Banwell</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-2.86,51.33,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Bergmannsquellen 9-16</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>11.56,49.68,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Fiume Morello</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>17.52,40.81,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Ombla</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>18.14,42.68,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Shentou</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>112.58,39.4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>BIG SPRING AT RUTLEDGE FALLS</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-86.14,35.42,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>DÃ¶skaya</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>30.5,40.11,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Umpherston Sinkhole</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>140.81,-37.84,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Hirschbrunn</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>13.66,47.55,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Blue Lakes</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-114.47,42.61,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Canneto</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>15.92,41.9,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Upper Dobra</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>15.26,45.3,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Comal Springs</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-98.12,29.71,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Evening Shade Spring near Evening Shade</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-91.61,36.06,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Garadna</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>20.49,48.11,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Brett at Cockfield</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>0.79,52.14,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Sheep Creek Spring near Fittstown, Ok</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-96.65,34.57,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Yaji S31</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>101.37,25.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Babble Spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-77.12,40.15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Faria</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>35.34,32.29,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Test at Broadlands</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-1.5,50.97,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Rettenbachquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.31,47.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Roï¬‚lochquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>15.47,47.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Aubachquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>10.17,47.36,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Homa</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>35.45,32.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Teufelskirche</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>14.21,47.79,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Archiane (Source d')</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>5.5,44.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>(C- 3- 3)20bad-S1 BIG SPRING (PINE CYN),NR TOOELE</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-112.21,40.55,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Anton at Fullerton</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-1.46,51.15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>La source de Saint-Pons à Gémenos</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>5.66,43.29,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Karstquelle Ettling-Kelsbachquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>11.66,48.82,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Scirca</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>12.71,43.39,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>zHof Spring Niederdorf</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>7.74,47.39,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Wulongdong</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>110.9,31.21,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Ballindine spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-8.97,53.67,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Alley Spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-91.44,37.15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Fontbelle (Font-Claire, Fontaine du Moulin de Caoulet ou Caulet)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>1.56,44.8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Loue (Source de la)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>6.3,47.01,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Cassano Pollentania</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>15.03,40.87,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Anapodiaris</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>25.33,35.01,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Manorhamilton spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-8.25,54.3,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Le ru de la pisciculture de la Mo Ã  Lapanouse-de-Cernon (La Mouline)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>3.09,43.99,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Boraco</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>17.63,40.3,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Durzon</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>3.26,43.99,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Kourtaliotis</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>24.54,35.13,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Assal</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>35.83,34.01,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Almiros-Heraklion</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>25.06,35.33,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Roaring Spring near Cherokee Village</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-91.58,36.32,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Hughes Spring near Zack</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-92.68,35.98,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Parkhill</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-8.16,54.52,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Wookey Hole</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-2.67,51.23,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Tio Yacu</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-77.29,-5.99,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Hammerbachquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>15.35,47.21,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Chidro</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>17.68,40.31,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Dewlish Village</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-2.32,50.79,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Tobereeogue</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-8.1,53.59,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Harod</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>35.36,32.55,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Pinargözü</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>31.35,37.69,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Catchwater at Withernwick</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-0.22,53.85,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Caliendo cave</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>15.08,40.81,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Fageh</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>36.15,33.61,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Sarchawi Saraw</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>45.83,35.38,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Quelle Winzer</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>12.06,49.03,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Greer Spring at Greer, MO</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-91.35,36.79,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Petoyan</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>110.82,-8.13,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Figeh</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>36.18,33.62,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Zagorska Mre≈ænica</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>15.22,45.19,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Qachqouch</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>35.64,33.94,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Fiume Piccolo</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>17.48,40.83,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Maretto</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>14.37,41.36,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Esp√©relle (Source de l')</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>3.21,44.12,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Shoqeq</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>35.45,32.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>S. Maria a Rivoli (Maiella group)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.45,41.49,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Rodeo Grounds springs outflow at Drummond MT</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-113.15,46.66,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Pfannbauernquell</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>15.32,47.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>BLUE SPRINGS NEAR DELL,FL</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-83.23,30.13,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Schwarzbach-Moosquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>11.0,47.37,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>San Pedro</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-66.7,18.41,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>MANATEE SPRING NR CHIEFLAND FLA</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-82.98,29.49,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Hom√®de (ou Source Ladoux)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>3.06,44.08,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Aucilla River near mouth near Nutall Rise</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-83.98,30.11,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Bagnara</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>12.86,43.1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Kilmaine spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-9.15,53.57,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Beyyayla</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>20.68,40.13,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Roncador</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-48.73,-24.53,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Sillogue well</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-7.53,53.32,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Fontaine de Vaucluse (Moulin)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>5.13,43.92,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>SULPHUR SPRINGS AT SULPHUR SPRINGS FL</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-82.45,28.02,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Banias</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>35.69,33.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>La Vis Ã  Blandas (Lafoux de la Vis)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>3.48,43.9,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Waldbachursprung</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>13.61,47.54,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Martin≈°cica</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.48,45.32,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Silver springs near Ocala</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-82.05,29.21,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Izvor Kupa</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.69,45.49,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Rio Negro</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-77.26,-6.09,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Ursulaquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>16.14,47.63,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Ellernbachquelle Rossdach 3-6</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>11.09,50.02,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Le Tarn (source Mas de Lafon) à Mostuéjouls Mas de Lafon</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>3.22,44.22,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Tara</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>17.15,40.52,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Lehnbachquellen</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>10.56,47.42,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>TW-Stollen Bettelwurf (mitte)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>11.52,47.33,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>SCUPPERNONG RIVER UPSTREAM OF MARL PIT NR EAGLE,WI</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-88.47,42.93,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Stymphalia</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>22.46,37.86,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Royal Springs</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-84.56,38.21,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Sfinari</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>23.57,35.43,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Fontestramar</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>2.96,42.86,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Schwalbquelle Gosheim</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>10.72,48.84,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Font de Champdamoy</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>6.19,47.61,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>SÃ¤gebachquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>10.18,47.37,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Guancun</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>109.33,24.87,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Aldbourne at Ramsbury</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-1.59,51.44,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Kupica</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.86,45.43,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Gronli-Seter</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>14.25,66.42,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>BLUE SPRINGS NEAR ORANGE CITY, FL</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-81.34,28.94,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Lonequelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>9.89,48.55,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Metolius River near Grandview</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-121.48,44.63,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Riso</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>17.34,40.48,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>CASCADE SPRING NEAR NORMANDY, TENN</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-86.24,35.42,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Siebenquellen</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>15.57,47.68,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>FANNING SPRINGS NR WILCOX FLA</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-82.93,29.59,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Source Bleue (Cusancin)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>6.44,47.33,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Barme-Jamal</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>49.84,31.37,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Jacobs Well Spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-98.13,30.03,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Les petites Gillardes</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>5.88,44.76,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Qurena</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>45.83,35.38,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>San Marcos River</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-97.93,29.89,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>MILL POND SPRING NR HILDRETH, FL</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-82.76,29.97,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>(C-20- 7) 2ccd-S1</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-112.62,39.09,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Auja</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>35.47,31.95,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>MALPAIS SPRING NR OSCURA, NM</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-106.31,33.29,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Sydling Water</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-2.52,50.8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>BLUE HOLE SPRING NR HILDRETH, FL</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-82.76,29.98,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Kilkerrin spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-8.54,53.53,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Sarchinar</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>45.4,35.6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>02N-06E-34 CCD 1 Byrds Mill Spring nr Fittstown,OK</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-96.67,34.59,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>RATTLESNAKE SPRG AT EAST OUTLET NR WHITES CITY, NM</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-104.47,32.11,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Wendover Springs at Wendover</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-0.74,51.77,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Lappenbachquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>13.04,46.72,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Arcier (Source d')</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>6.12,47.27,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Windener Quelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>16.74,47.96,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Tounjcica</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>15.32,45.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Sanita</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>15.22,40.82,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Veet√µusme spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>24.97,59.2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Bubble springs</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-1.69,53.19,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Zamost</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.68,45.53,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Le Caramy (source) Ã  Mazaugues</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>5.92,43.35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Alapaha rise</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-83.09,30.44,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Biston</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>47.44,34.39,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Qalabo</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>45.83,35.38,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Podstenjšek</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.22,45.61,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Hueco Spgs nr New Braunfels, TX</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-98.14,29.76,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Boundoulaou</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>3.05,44.07,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Serri√®re</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>6.91,46.99,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Aposelemis</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>25.35,35.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Hubelj-Ajdov≈°cina I</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>13.91,45.9,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Chalk Ridge Falls Spgs nr Belton, TX</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-97.53,31.02,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Kamni≈°ka Bistrica-Kamnik I</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.62,46.22,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Niagra Springs</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-114.67,42.66,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>West Beck at Snakeholme Lock</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-0.37,53.99,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Estavelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>10.16,47.35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Banzhai</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>107.92,25.2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Bourne at Laverstock</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-1.78,51.07,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Touvre (Sources de la)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>0.25,45.66,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Fiume Grande</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>17.47,40.83,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Poto</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>49.97,31.26,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Pire Ghar</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>50.54,32.22,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Weissbrunnen</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>11.36,50.28,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Parroso</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-4.39,36.98,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Kerschbaum (Waidhofen a.dd. Ybbs Austria)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.77,47.92,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Las Moras Spgs at Brackettville, TX</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-100.42,29.31,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Platis</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>24.65,35.1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Canamero</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-5.0,36.89,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>HOLTON SPRINGS NEAR FT. UNION,FL</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-83.06,30.44,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Marbachquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>13.41,47.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Pieï¬‚ling-Ursprung</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>14.28,47.69,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Nächstquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>9.39,49.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Villanueva del Rosario</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-4.35,36.98,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Felps Spgs nr Burnet, TX</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-98.23,30.72,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Cassano Irpino group</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>15.03,40.87,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Battentieri</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>17.33,40.49,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Subasi</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>31.83,39.33,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>ALB. POWELL FISH HATCHERY SP. AT BEAVER CREEK, MD</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-77.64,39.59,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>HOMOSASSA SPRINGS AT HOMOSASSA SPRINGS FL</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-82.59,28.8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Hannetot (Source Norville)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>0.66,49.49,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>PARADISE SPRINGS CREEK NEAR EAGLE, WI</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-88.49,42.89,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Cernon</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>3.15,43.98,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Hinterlug (Waidhofen a.d. Ybbs Austria)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>14.74,47.93,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>GUM SPRINGS NEAR HOLDER, FL</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-82.25,28.95,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Cress Creek</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>140.73,-38.05,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Source Noire (Cusancin)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>6.44,47.32,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Aschenbrunnen Pottenstein</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>11.43,49.77,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Canamero overflow</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-5.01,36.87,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Cregduff spring</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>-9.17,53.61,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Bronnbachquelle</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>8.91,48.47,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Douix (Source de la)</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>4.58,47.86,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Stylos</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>24.12,35.43,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Lilea</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>22.62,38.53,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>Ewelme Brook at Ewelme</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-1.07,51.62,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Small Karst Aquifer</b> (0.01 - 0.1 m^3/s)</p>
+          <p>RATTLESNAKE SP AT NORTH OUTLET NR WHITES CITY, NM</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#whiteMarker</styleUrl>
+      <Point>
+        <coordinates>-104.47,32.11,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Avon at East Mills Total</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>-1.78,50.93,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Large Karst Aquifer</b> (0.1 - 1 m^3/s)</p>
+          <p>Sagt√ºmpel</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#grayMarker</styleUrl>
+      <Point>
+        <coordinates>14.03,47.58,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+        <![CDATA[
+          <p><b>Massive Karst Aquifer</b> (1+ m^3/s)</p>
+          <p>Amall</p>
+          <p>Source: WoKaS https://www.nature.com/articles/s41597-019-0346-5</p>
+        ]]>
+      </description>
+      <styleUrl>#blackMarker</styleUrl>
+      <Point>
+        <coordinates>35.45,32.51,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

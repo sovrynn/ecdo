@@ -1,0 +1,16 @@
+#DataType      :	spring discharge data
+#DataSource    :	UK National River Flow Archive	(https://nrfa.ceh.ac.uk/)
+#ID            :	43011
+#Name          :	Ebble at Bodenham
+#LAT	LON      :	51.04	-1.77
+#Time format   :	%d.%m.%Y
+#Discharge unit:	m^3/s
+#Timestamp(UTC):	21.08.2019 16:14:47
+Timestamp	discharge
+31.12.1970 00:00:00	0.286716363636364
+31.12.1971 00:00:00	0.73570695970696
+31.12.1972 00:00:00	1.0095956284153
+31.12.1973 00:00:00	0.68358904109589
+30.11.1974 00:00:00	1.20982634730539
+31.12.1975 00:00:00	0.57910612244898
+31.05.1976 00:00:00	0.468647540983607

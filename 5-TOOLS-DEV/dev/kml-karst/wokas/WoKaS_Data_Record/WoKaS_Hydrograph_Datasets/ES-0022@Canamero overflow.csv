@@ -1,0 +1,24 @@
+#DataType      :	spring discharge data
+#DataSource    :	Department of Geology, Centre of Hydrogeology of the University of Malaga (CEHIUMA), 29071 Malaga, Spain	(NA)
+#ID            :	NA
+#Name          :	Canamero overflow
+#LAT	LON      :	36.87	-5.01
+#Time format   :	%d.%m.%Y
+#Discharge unit:	m^3/s
+#Timestamp(UTC):	14.08.2019 10:19:40
+Timestamp	discharge
+27.12.2009 00:00:00	1.5
+08.01.2010 00:00:00	1.88
+10.01.2010 00:00:00	0.81
+12.01.2010 00:00:00	0.673
+14.01.2010 00:00:00	1.57
+15.01.2010 00:00:00	0.851
+18.01.2010 00:00:00	0.306
+27.01.2010 00:00:00	0.065
+28.01.2010 00:00:00	0.538
+29.01.2010 00:00:00	0.518
+31.01.2010 00:00:00	0
+01.02.2010 00:00:00	0
+02.02.2010 00:00:00	0
+04.03.2010 00:00:00	0.677
+16.03.2010 00:00:00	0.076

@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>ECDO Event Database (No Labels)</name>
+  <Style id="catStyle0">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/thunderstorm.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle1">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle2">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle3">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle4">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle5">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle6">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle7">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/volcano.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle8">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle9">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle10">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle11">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle12">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle13">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/sunny.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle14">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle15">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle16">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle17">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="catStyle18">
+    <IconStyle>
+      <scale>2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Folder>
+    <name>Climate Disruption</name>
+    <Placemark>
+      <description><![CDATA[<p>Massive Sahelian dust deposits (III)</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1017/qua.2020.100" target="_blank">https://sci-hub.ru/10.1017/qua.2020.100</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>-13.5899733,29.0468535,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Lyuba Mummified Mammoth</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Lyuba_(mammoth)" target="_blank">https://en.wikipedia.org/wiki/Lyuba_(mammoth)</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>66.6028111,66.550073,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Mediterranean depositional sequence (i)</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1016/j.margeo.2005.11.015" target="_blank">https://sci-hub.ru/10.1016/j.margeo.2005.11.015</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>-6.2804565,36.5210142,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Ugava Bay ice surge event (A1)</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.5194/cp-15-153-2019" target="_blank">https://sci-hub.ru/10.5194/cp-15-153-2019</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>-94.1695807,58.7679415,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Valdroy Cave Biomass</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1111/j.1502-3885.1987.tb00096.x" target="_blank">https://sci-hub.ru/10.1111/j.1502-3885.1987.tb00096.x</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>8.468945999999999,60.47202399999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Effie Mummified Mammoth</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.amnh.org/exhibitions/permanent/advanced-mammals/mammoth" target="_blank">https://www.amnh.org/exhibitions/permanent/advanced-mammals/mammoth</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>-153.2,66.9,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Bay of Biscay turbidity sedimentation event</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1016/j.margeo.2007.08.006" target="_blank">https://sci-hub.ru/10.1016/j.margeo.2007.08.006</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>-0.5810938000000001,44.8416106,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Laurentide / Fennoscandian ice-sheet melt</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Laurentide_ice_sheet" target="_blank">https://en.wikipedia.org/wiki/Laurentide_ice_sheet</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>-73.56739189999999,45.5018869,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Mount St. Helen&apos;s Set S layer</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://pubs.usgs.gov/pp/p1563/tephrasetk.html" target="_blank">https://pubs.usgs.gov/pp/p1563/tephrasetk.html</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>-122.1955509,46.19140059999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Varved clay core B893 geomagnetic excursion</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://oadoi.org/10.1080/09291017809359640" target="_blank">https://oadoi.org/10.1080/09291017809359640</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>17.6389267,59.85856380000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Lake Sidi core O18 spike</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.researchgate.net/publication/331891707_Western_Mediterranean_hydro-climatic_consequences_of_Holocene_ice-rafted_debris_Bond_events" target="_blank">https://www.researchgate.net/publication/331891707_Western_Mediterranean_hydro-climatic_consequences_of_Holocene_ice-rafted_debris_Bond_events</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>-5,33.083333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Shandong Peninsula Deposit</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1007/s00343-018-7155-0" target="_blank">https://sci-hub.ru/10.1007/s00343-018-7155-0</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>121.44801,37.4635299,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Pichincha Ecuador Excursion I</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1016/j.gi.2015.04.009" target="_blank">https://sci-hub.ru/10.1016/j.gi.2015.04.009</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>-78.4557986,-0.0022128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Greenland Ice Cores</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Greenland_ice_core_project" target="_blank">https://en.wikipedia.org/wiki/Greenland_ice_core_project</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>-38.459186,72.57958300000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Kilimanjaro ice cores</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://oadoi.org/10.1126/science.1073198" target="_blank">https://oadoi.org/10.1126/science.1073198</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>37.35562729999999,-3.0674247,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Bristlecone Pine 5480 BC event</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1073/pnas.1613144114" target="_blank">https://sci-hub.ru/10.1073/pnas.1613144114</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>-118.1426005,37.4488186,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Syrian coastal climate change</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://link.springer.com/article/10.1007/s11457-022-09339-y" target="_blank">https://link.springer.com/article/10.1007/s11457-022-09339-y</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>35.7987581,35.541768,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Vedic Sarasvati River lost in Thar Desert</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://bhuvan-app1.nrsc.gov.in/saraswati/" target="_blank">https://bhuvan-app1.nrsc.gov.in/saraswati/</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>70.9083443,26.9157487,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Otzi Frozen Mummy</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.m.wikipedia.org/wiki/%C3%96tzi" target="_blank">https://en.m.wikipedia.org/wiki/%C3%96tzi</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>11.3402543,46.4949259,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Russian Island Tsunami Deposit 5.3ka</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1088/1755-1315/438/1/012009" target="_blank">https://sci-hub.ru/10.1088/1755-1315/438/1/012009</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>131.945297,43.101088,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Piora Oscillation</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Piora_Oscillation" target="_blank">https://en.wikipedia.org/wiki/Piora_Oscillation</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>8.713483499999999,46.548263,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Narrow Irish tree rings</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://github.com/sovrynn/ecdo/blob/0cfa44af0316fc619cf1fd22dc791da609f684cb/1-EVIDENCE/biology/tree-rings/README.md?plain=1#L21" target="_blank">https://github.com/sovrynn/ecdo/blob/0cfa44af0316fc619cf1fd22dc791da609f684cb/1-EVIDENCE/biology/tree-rings/README.md?plain=1#L21</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>-7.246402900000001,52.6549027,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Disappearance of Sarasvati &amp; Dṛṣadvati Rivers</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.academia.edu/36572454/The_Date_of_the_Disappearance_of_Rigvedic_Sarasvati_River_and_Post_Vedic_Sarasvati_River" target="_blank">https://www.academia.edu/36572454/The_Date_of_the_Disappearance_of_Rigvedic_Sarasvati_River_and_Post_Vedic_Sarasvati_River</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>78.16424780000001,29.9456906,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Camp Century</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Camp_Century" target="_blank">https://en.wikipedia.org/wiki/Camp_Century</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>-61.133337,77.16666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Irish Oak tree rings</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://link.springer.com/chapter/10.1007/978-3-662-04965-5_24" target="_blank">https://link.springer.com/chapter/10.1007/978-3-662-04965-5_24</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>-5.93012,54.59728500000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>End of the Old Kingdom in Egypt</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt" target="_blank">https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>30.802498,26.820553,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Drying of Saraswati</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Saraswati" target="_blank">https://en.wikipedia.org/wiki/Saraswati</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>76.878282,29.9695121,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Indus Valley Civilization collapse</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.science.smith.edu/climatelit/decline-of-the-indus-river-valley-civilization-c-3300-1300-bce/" target="_blank">https://www.science.smith.edu/climatelit/decline-of-the-indus-river-valley-civilization-c-3300-1300-bce/</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>68.1371795,27.3287231,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Bell Beaker Culture mass burials</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://annas-archive.org/md5/10c75061fadf61523dc83cda6e42e0ba" target="_blank">https://annas-archive.org/md5/10c75061fadf61523dc83cda6e42e0ba</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>19.9449799,50.06465009999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Narrow Irish tree rings</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.researchgate.net/publication/258160656_TRACE_-_Tree_Rings_in_Archaeology_Climatology_and_Ecology_Vol_1" target="_blank">https://www.researchgate.net/publication/258160656_TRACE_-_Tree_Rings_in_Archaeology_Climatology_and_Ecology_Vol_1</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>-5.93012,54.59728500000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Crete Tsunami Deposits</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1017/s003382220005579x" target="_blank">https://sci-hub.ru/10.1017/s003382220005579x</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>26.250031,35.200539,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Mediterranean cooling climate change event</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/" target="_blank">https://www.iemed.org/publication/climate-change-in-the-mediterranean-environmental-impacts-and-extreme-events/</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>23.7275388,37.9838096,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Mycenaean civilization collapse</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Mycenaean_Greece" target="_blank">https://en.wikipedia.org/wiki/Mycenaean_Greece</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>22.7561327,37.7308631,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Levantine Iron Age Paleomagnetic Anomaly</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL071494" target="_blank">https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL071494</a>]]></description>
+      <styleUrl>#catStyle0</styleUrl>
+      <Point>
+        <coordinates>35.21371,31.768319,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Isostacy</name>
+    <Placemark>
+      <description><![CDATA[<p>Scandinavian mountain whales I</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://findresearcher.sdu.dk/ws/files/6081/Aaris-Soerensen_et_al_2010_Whales.pdf" target="_blank">https://findresearcher.sdu.dk/ws/files/6081/Aaris-Soerensen_et_al_2010_Whales.pdf</a>]]></description>
+      <styleUrl>#catStyle1</styleUrl>
+      <Point>
+        <coordinates>12.5683371,55.6760968,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Sinking of Dvaravati</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://independent.academia.edu/VedveerArya" target="_blank">https://independent.academia.edu/VedveerArya</a>]]></description>
+      <styleUrl>#catStyle1</styleUrl>
+      <Point>
+        <coordinates>68.96845619999999,22.2441975,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Onuma paleo-tsunami history</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1016/j.margeo.2017.01.011" target="_blank">https://sci-hub.ru/10.1016/j.margeo.2017.01.011</a>]]></description>
+      <styleUrl>#catStyle1</styleUrl>
+      <Point>
+        <coordinates>139.5475483,37.449409,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Malorca Bridge</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://archaeologymag.com/2024/09/submerged-bridge-in-mallorca-reveals-early-human-settlement/" target="_blank">https://archaeologymag.com/2024/09/submerged-bridge-in-mallorca-reveals-early-human-settlement/</a>]]></description>
+      <styleUrl>#catStyle1</styleUrl>
+      <Point>
+        <coordinates>3.0175712,39.6952629,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Sinking of Dwaraka</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Dv%C4%81rak%C4%81" target="_blank">https://en.wikipedia.org/wiki/Dv%C4%81rak%C4%81</a>]]></description>
+      <styleUrl>#catStyle1</styleUrl>
+      <Point>
+        <coordinates>68.96845619999999,22.2441975,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Bubastis Chasm Account</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Bubastis" target="_blank">https://en.wikipedia.org/wiki/Bubastis</a>]]></description>
+      <styleUrl>#catStyle1</styleUrl>
+      <Point>
+        <coordinates>31.5040656,30.5765383,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Sealevel Change</name>
+    <Placemark>
+      <description><![CDATA[<p>Alaska 10.4ka Tsunami and Tephra</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://annas-archive.org/md5/cb8c3e81aef37d03af5e54a556cd56cf" target="_blank">https://annas-archive.org/md5/cb8c3e81aef37d03af5e54a556cd56cf</a>]]></description>
+      <styleUrl>#catStyle2</styleUrl>
+      <Point>
+        <coordinates>-155.6155097,55.81471819999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Black Sea refilling</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis" target="_blank">https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis</a>]]></description>
+      <styleUrl>#catStyle2</styleUrl>
+      <Point>
+        <coordinates>28.9783589,41.0082376,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Mayan Chichancanab lake filling</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Lake_Chichancanab" target="_blank">https://en.wikipedia.org/wiki/Lake_Chichancanab</a>]]></description>
+      <styleUrl>#catStyle2</styleUrl>
+      <Point>
+        <coordinates>-88.7125586,19.7582888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Newfoundland bog deposits</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://archive.org/details/31761108187352" target="_blank">https://archive.org/details/31761108187352</a>]]></description>
+      <styleUrl>#catStyle2</styleUrl>
+      <Point>
+        <coordinates>-52.7452511,47.5556097,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Kepa Kurl Inundation I</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://annas-archive.org/nexusstc_download/a6nq7sf80iknly0mignjbpgap" target="_blank">https://annas-archive.org/nexusstc_download/a6nq7sf80iknly0mignjbpgap</a>]]></description>
+      <styleUrl>#catStyle2</styleUrl>
+      <Point>
+        <coordinates>122.5438176405471,-33.9382691489516,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Godavari inter-deltaic plain sea level change</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1016/s0025-3227(00)00028-1" target="_blank">https://sci-hub.ru/10.1016/s0025-3227(00)00028-1</a>]]></description>
+      <styleUrl>#catStyle2</styleUrl>
+      <Point>
+        <coordinates>82.2474648,16.9890648,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Biblical Exodus</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Book_of_Exodus" target="_blank">https://en.wikipedia.org/wiki/Book_of_Exodus</a>]]></description>
+      <styleUrl>#catStyle2</styleUrl>
+      <Point>
+        <coordinates>33.9749193,28.5392576,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Oceanic Withdrawal</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1016/0034-6667(83)90026-x" target="_blank">https://sci-hub.ru/10.1016/0034-6667(83)90026-x</a>]]></description>
+      <styleUrl>#catStyle2</styleUrl>
+      <Point>
+        <coordinates>5.274119600000001,52.7075663,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Oceanic Inundation</name>
+    <Placemark>
+      <description><![CDATA[<p>Denmark Strait clast layer IV</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1002/(sici)1099-1417(199801/02)13:1%3C3::aid-jqs361%3E3.0.co;2-0" target="_blank">https://sci-hub.ru/10.1002/(sici)1099-1417(199801/02)13:1%3C3::aid-jqs361%3E3.0.co;2-0</a>]]></description>
+      <styleUrl>#catStyle3</styleUrl>
+      <Point>
+        <coordinates>-24,67.17432339999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>China Luotuodun Marine Transgression</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.researchgate.net/publication/225517767_Evidence_for_marine_transgression_between_7500-5400BC_at_the_Luotuodun_Site_in_Yixing_Jiangsu_Province" target="_blank">https://www.researchgate.net/publication/225517767_Evidence_for_marine_transgression_between_7500-5400BC_at_the_Luotuodun_Site_in_Yixing_Jiangsu_Province</a>]]></description>
+      <styleUrl>#catStyle3</styleUrl>
+      <Point>
+        <coordinates>119.82346,31.3404199,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Taman Peninsula Biomass Deposit</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1016/j.quaint.2008.11.016" target="_blank">https://sci-hub.ru/10.1016/j.quaint.2008.11.016</a>]]></description>
+      <styleUrl>#catStyle3</styleUrl>
+      <Point>
+        <coordinates>38.97457060000001,45.036035,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Eridu Genesis</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.britannica.com/topic/Eridu-Genesis" target="_blank">https://www.britannica.com/topic/Eridu-Genesis</a>]]></description>
+      <styleUrl>#catStyle3</styleUrl>
+      <Point>
+        <coordinates>43.679291,33.223191,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Peruvian Timeline, Inca mythology Year 0</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Inca_mythology" target="_blank">https://en.wikipedia.org/wiki/Inca_mythology</a>]]></description>
+      <styleUrl>#catStyle3</styleUrl>
+      <Point>
+        <coordinates>-71.96746259999999,-13.53195,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Gun-Yu Flood</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Great_Flood_(China)" target="_blank">https://en.wikipedia.org/wiki/Great_Flood_(China)</a>]]></description>
+      <styleUrl>#catStyle3</styleUrl>
+      <Point>
+        <coordinates>112.45402,34.6181299,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Ogyges Deluge</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Ogyges" target="_blank">https://en.wikipedia.org/wiki/Ogyges</a>]]></description>
+      <styleUrl>#catStyle3</styleUrl>
+      <Point>
+        <coordinates>23.3204309,38.322579,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Qinghai province &apos;Pompeii of the East&apos;</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.dailymail.co.uk/news/peoplesdaily/article-3192196/Enduring-love-4-000-year-old-skeletons-mother-child-locked-dying-embrace-Pompeii-East.html" target="_blank">https://www.dailymail.co.uk/news/peoplesdaily/article-3192196/Enduring-love-4-000-year-old-skeletons-mother-child-locked-dying-embrace-Pompeii-East.html</a>]]></description>
+      <styleUrl>#catStyle3</styleUrl>
+      <Point>
+        <coordinates>100.64054,34.67952,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Mohenjo-Daro abandonment</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Mohenjo-daro" target="_blank">https://en.wikipedia.org/wiki/Mohenjo-daro</a>]]></description>
+      <styleUrl>#catStyle3</styleUrl>
+      <Point>
+        <coordinates>68.1371795,27.3287231,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Peru &quot;Water Cult&quot; Graves</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.msn.com/en-gb/news/world/archaeologists-uncover-remains-of-two-children-and-an-adult-believed-to-be-3-800-years-old-linked-to-ancient-water-cult/ar-AA1pgMk4?ocid=winp2fptaskbarhoverent&amp;cvid=fc15d0494a344b7487d8b92d0ab9bd22&amp;ei=14" target="_blank">https://www.msn.com/en-gb/news/world/archaeologists-uncover-remains-of-two-children-and-an-adult-believed-to-be-3-800-years-old-linked-to-ancient-water-cult/ar-AA1pgMk4?ocid=winp2fptaskbarhoverent&amp;cvid=fc15d0494a344b7487d8b92d0ab9bd22&amp;ei=14</a>]]></description>
+      <styleUrl>#catStyle3</styleUrl>
+      <Point>
+        <coordinates>-77.5287792,-9.5261154,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Flood Evidence</name>
+    <Placemark>
+      <description><![CDATA[<p>Manu Flood (Vedveer Arya dating)</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p>]]></description>
+      <styleUrl>#catStyle4</styleUrl>
+      <Point>
+        <coordinates>75.7885163,23.1764665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Latvia Lake Creation</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1177/0959683616683255" target="_blank">https://sci-hub.ru/10.1177/0959683616683255</a>]]></description>
+      <styleUrl>#catStyle4</styleUrl>
+      <Point>
+        <coordinates>23.7737546,56.9684476,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Lake Sevan high lake levels</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://annas-archive.org/md5/d5a62f2696f8ffef7dbb15a5a26b049a" target="_blank">https://annas-archive.org/md5/d5a62f2696f8ffef7dbb15a5a26b049a</a>]]></description>
+      <styleUrl>#catStyle4</styleUrl>
+      <Point>
+        <coordinates>45.3351942,40.3449984,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Destruction of Jericho I</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://dash.harvard.edu/bitstream/handle/1/12211567/2742981.pdf;jsessionid=3F835347D05A8DA0EFFEA83A7296A219?sequence=2" target="_blank">https://dash.harvard.edu/bitstream/handle/1/12211567/2742981.pdf;jsessionid=3F835347D05A8DA0EFFEA83A7296A219?sequence=2</a>]]></description>
+      <styleUrl>#catStyle4</styleUrl>
+      <Point>
+        <coordinates>35.4626568,31.8606384,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Sub-peat blanket surface till erosion</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1080/00750770209555804" target="_blank">https://sci-hub.ru/10.1080/00750770209555804</a>]]></description>
+      <styleUrl>#catStyle4</styleUrl>
+      <Point>
+        <coordinates>-6.367254300000001,52.9862313,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Ur Flood Deposit</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.cambridge.org/core/journals/iraq/article/abs/physical-evidence-for-noahs-flood/226A2701813C09C5CD25BCA17C8E5074" target="_blank">https://www.cambridge.org/core/journals/iraq/article/abs/physical-evidence-for-noahs-flood/226A2701813C09C5CD25BCA17C8E5074</a>]]></description>
+      <styleUrl>#catStyle4</styleUrl>
+      <Point>
+        <coordinates>44.43470070000001,33.4264108,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Skaill silt/charcoal layer</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.researchgate.net/publication/230509248_Mid-Holocene_environmental_changes_in_the_Bay_of_Skaill_Mainland_Orkney_Scotland_An_integrated_geomorphological_sedimentological_and_stratigraphical_study" target="_blank">https://www.researchgate.net/publication/230509248_Mid-Holocene_environmental_changes_in_the_Bay_of_Skaill_Mainland_Orkney_Scotland_An_integrated_geomorphological_sedimentological_and_stratigraphical_study</a>]]></description>
+      <styleUrl>#catStyle4</styleUrl>
+      <Point>
+        <coordinates>-3.3410654,59.0542957,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Andros Flood Deposits</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0037073806003320" target="_blank">https://www.sciencedirect.com/science/article/abs/pii/S0037073806003320</a>]]></description>
+      <styleUrl>#catStyle4</styleUrl>
+      <Point>
+        <coordinates>-78.0195387,24.7063805,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>China Nu Wa</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/N%C3%BCwa" target="_blank">https://en.wikipedia.org/wiki/N%C3%BCwa</a>]]></description>
+      <styleUrl>#catStyle4</styleUrl>
+      <Point>
+        <coordinates>116.3424899,35.4074999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Yellow River Flooding</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1016/j.geomorph.2019.106878" target="_blank">https://sci-hub.ru/10.1016/j.geomorph.2019.106878</a>]]></description>
+      <styleUrl>#catStyle4</styleUrl>
+      <Point>
+        <coordinates>117.12009,36.6518399,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Deucalion&apos;s Flood</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Deucalion" target="_blank">https://en.wikipedia.org/wiki/Deucalion</a>]]></description>
+      <styleUrl>#catStyle4</styleUrl>
+      <Point>
+        <coordinates>22.6216666,38.5355555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Destruction of Jericho II</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Jericho" target="_blank">https://en.wikipedia.org/wiki/Jericho</a>]]></description>
+      <styleUrl>#catStyle4</styleUrl>
+      <Point>
+        <coordinates>35.4626568,31.8606384,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Tsunami Layer</name>
+    <Placemark>
+      <description><![CDATA[<p>Nisida Bank</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0377027318305055" target="_blank">https://www.sciencedirect.com/science/article/abs/pii/S0377027318305055</a>]]></description>
+      <styleUrl>#catStyle5</styleUrl>
+      <Point>
+        <coordinates>14.1633092,40.7961956,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Boso Peninsula Tsunami Deposit</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1016/j.sedgeo.2007.01.009" target="_blank">https://sci-hub.ru/10.1016/j.sedgeo.2007.01.009</a>]]></description>
+      <styleUrl>#catStyle5</styleUrl>
+      <Point>
+        <coordinates>139.9248871,35.3812515,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Shetland tsunami deposit I</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0277379105000739" target="_blank">https://www.sciencedirect.com/science/article/abs/pii/S0277379105000739</a>]]></description>
+      <styleUrl>#catStyle5</styleUrl>
+      <Point>
+        <coordinates>-1.221926,60.3213009,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Japanese 7.3ka double tsunami</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1111/iar.12422" target="_blank">https://sci-hub.ru/10.1111/iar.12422</a>]]></description>
+      <styleUrl>#catStyle5</styleUrl>
+      <Point>
+        <coordinates>132.7261631,32.9389868,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>New Zealand 6.3ka Tsunami</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1016/s0037-0738(01)00269-x" target="_blank">https://sci-hub.ru/10.1016/s0037-0738(01)00269-x</a>]]></description>
+      <styleUrl>#catStyle5</styleUrl>
+      <Point>
+        <coordinates>176.9191904,-39.4892664,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>West Australia 5.7ka Tsunami</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1016/j.epsl.2008.03.027" target="_blank">https://sci-hub.ru/10.1016/j.epsl.2008.03.027</a>]]></description>
+      <styleUrl>#catStyle5</styleUrl>
+      <Point>
+        <coordinates>122.236998,-17.96182,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Falkland Islands peat deposit</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://annas-archive.org/scidb/10.1071/mu15129" target="_blank">https://annas-archive.org/scidb/10.1071/mu15129</a>]]></description>
+      <styleUrl>#catStyle5</styleUrl>
+      <Point>
+        <coordinates>-60.69773839999999,-51.3517979,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Western Australia tsunami deposit</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://annas-archive.org/scidb/10.1016/j.sedgeo.2015.11.010" target="_blank">https://annas-archive.org/scidb/10.1016/j.sedgeo.2015.11.010</a>]]></description>
+      <styleUrl>#catStyle5</styleUrl>
+      <Point>
+        <coordinates>121.1295104,-19.5274153,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Iberian Peninsula Tsunami 4.2ka</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://publications.rwth-aachen.de/record/789171/files/789171.pdf" target="_blank">https://publications.rwth-aachen.de/record/789171/files/789171.pdf</a>]]></description>
+      <styleUrl>#catStyle5</styleUrl>
+      <Point>
+        <coordinates>-7.122215799999999,36.9674462,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Thera Island (Santorini)</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/related-deposits/3" target="_blank">https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/related-deposits/3</a>]]></description>
+      <styleUrl>#catStyle5</styleUrl>
+      <Point>
+        <coordinates>25.4615092,36.3931562,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Jeju Island 3.7ka</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://pubmed.ncbi.nlm.nih.gov/30837534/" target="_blank">https://pubmed.ncbi.nlm.nih.gov/30837534/</a>]]></description>
+      <styleUrl>#catStyle5</styleUrl>
+      <Point>
+        <coordinates>126.5661908,33.3785614,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Minoan Crete</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Minoan_civilization" target="_blank">https://en.wikipedia.org/wiki/Minoan_civilization</a>]]></description>
+      <styleUrl>#catStyle5</styleUrl>
+      <Point>
+        <coordinates>25.1442126,35.3387352,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Tsunami deposits on the Algarve shelf</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.sciencedirect.com/science/article/pii/S0037073823000416" target="_blank">https://www.sciencedirect.com/science/article/pii/S0037073823000416</a>]]></description>
+      <styleUrl>#catStyle5</styleUrl>
+      <Point>
+        <coordinates>-8.2478796,37.0890719,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Iceland Megaflood Deposits</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1191/0959683606hl956rr" target="_blank">https://sci-hub.ru/10.1191/0959683606hl956rr</a>]]></description>
+      <styleUrl>#catStyle5</styleUrl>
+      <Point>
+        <coordinates>-19.020835,64.963051,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Earthquake</name>
+    <Placemark>
+      <description><![CDATA[<p>Storegga underwater landslide</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Storegga_Slide" target="_blank">https://en.wikipedia.org/wiki/Storegga_Slide</a>]]></description>
+      <styleUrl>#catStyle6</styleUrl>
+      <Point>
+        <coordinates>-2.466115,56.706922,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Fennoscandian earthquake, Ojala et al. (2018)</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0040195119303427" target="_blank">https://www.sciencedirect.com/science/article/abs/pii/S0040195119303427</a>]]></description>
+      <styleUrl>#catStyle6</styleUrl>
+      <Point>
+        <coordinates>24.8082752,67.8040628,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Canaanite palace destruction</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.nationalgeographic.com/history/article/canaanite-palace-abandoned-archaeologists-finally-know-why" target="_blank">https://www.nationalgeographic.com/history/article/canaanite-palace-abandoned-archaeologists-finally-know-why</a>]]></description>
+      <styleUrl>#catStyle6</styleUrl>
+      <Point>
+        <coordinates>35.1388475,33.0085521,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Minoan Crete&apos;s third and final cataclysm</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Minoan_eruption" target="_blank">https://en.wikipedia.org/wiki/Minoan_eruption</a>]]></description>
+      <styleUrl>#catStyle6</styleUrl>
+      <Point>
+        <coordinates>25.3972167,36.3582782,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Volcanic Layer</name>
+    <Placemark>
+      <description><![CDATA[<p>Fehér Lake charcoal layer II</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1016/j.quaint.2012.07.032" target="_blank">https://sci-hub.ru/10.1016/j.quaint.2012.07.032</a>]]></description>
+      <styleUrl>#catStyle7</styleUrl>
+      <Point>
+        <coordinates>20.1414253,46.2530102,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Deception Island</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Deception_Island" target="_blank">https://en.wikipedia.org/wiki/Deception_Island</a>]]></description>
+      <styleUrl>#catStyle7</styleUrl>
+      <Point>
+        <coordinates>-60.4,-62.57,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Bolides / Comet</name>
+    <Placemark>
+      <description><![CDATA[<p>Illumetsa crater field</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://ui.adsabs.harvard.edu/abs/2001M%26PS...36.1507R/abstract" target="_blank">https://ui.adsabs.harvard.edu/abs/2001M%26PS...36.1507R/abstract</a>]]></description>
+      <styleUrl>#catStyle8</styleUrl>
+      <Point>
+        <coordinates>27.403,57.9601,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Kofels Asteroid Impact</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://books.google.co.za/books/about/A_Sumerian_Observation_of_the_K%C3%B6fels_Im.html?id=1v7oLAAACAAJ&amp;source=kp_book_description&amp;redir_esc=y" target="_blank">https://books.google.co.za/books/about/A_Sumerian_Observation_of_the_K%C3%B6fels_Im.html?id=1v7oLAAACAAJ&amp;source=kp_book_description&amp;redir_esc=y</a>]]></description>
+      <styleUrl>#catStyle8</styleUrl>
+      <Point>
+        <coordinates>10.91754,47.12025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Antarctic tephra database</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.tephrochronology.org/AntT/" target="_blank">https://www.tephrochronology.org/AntT/</a>]]></description>
+      <styleUrl>#catStyle8</styleUrl>
+      <Point>
+        <coordinates>147.3257196,-42.8826055,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Destruction Layer</name>
+    <Placemark>
+      <description><![CDATA[<p>Early Bronze Age Destruction</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.history.com/news/bronze-age-collapse-causes" target="_blank">https://www.history.com/news/bronze-age-collapse-causes</a>]]></description>
+      <styleUrl>#catStyle9</styleUrl>
+      <Point>
+        <coordinates>38.996815,34.80207499999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Massif Rouge Destruction Layer</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.researchgate.net/publication/338271944_The_Massif_Rouge_and_Early_Dynastic_high_terraces_Dynamics_of_monumentality_in_Mesopotamia_during_the_3rd_millennium_BCE" target="_blank">https://www.researchgate.net/publication/338271944_The_Massif_Rouge_and_Early_Dynastic_high_terraces_Dynamics_of_monumentality_in_Mesopotamia_during_the_3rd_millennium_BCE</a>]]></description>
+      <styleUrl>#catStyle9</styleUrl>
+      <Point>
+        <coordinates>38.996815,34.80207499999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Ebla Burning</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Ebla" target="_blank">https://en.wikipedia.org/wiki/Ebla</a>]]></description>
+      <styleUrl>#catStyle9</styleUrl>
+      <Point>
+        <coordinates>36.7900293,35.8100141,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Numeira</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://biblearchaeology.org/research/patriarchal-era/2364-the-discovery-of-the-sin-cities-of-sodom-and-gomorrah?highlight=WyJqb3JkYW4iLCJqb3JkYW4nIiwiam9yZGFuJ3MiLCInam9yZGFuIiwicml2ZXIiLCJyaXZlcidzIiwicml2ZXInIiwiJ3JpdmVyJywiLCJ2YWxsZXkiLCJ2YWxsZXknZm9vdCciLCIndmFsbGV5IiwidmFsbGV5JyIsInZhbGxleSdzIiwiam9yZGFuIHJpdmVyIiwiam9yZGFuIHJpdmVyIHZhbGxleSIsInJpdmVyIHZhbGxleSJd" target="_blank">https://biblearchaeology.org/research/patriarchal-era/2364-the-discovery-of-the-sin-cities-of-sodom-and-gomorrah?highlight=WyJqb3JkYW4iLCJqb3JkYW4nIiwiam9yZGFuJ3MiLCInam9yZGFuIiwicml2ZXIiLCJyaXZlcidzIiwicml2ZXInIiwiJ3JpdmVyJywiLCJ2YWxsZXkiLCJ2YWxsZXknZm9vdCciLCIndmFsbGV5IiwidmFsbGV5JyIsInZhbGxleSdzIiwiam9yZGFuIHJpdmVyIiwiam9yZGFuIHJpdmVyIHZhbGxleSIsInJpdmVyIHZhbGxleSJd</a>]]></description>
+      <styleUrl>#catStyle9</styleUrl>
+      <Point>
+        <coordinates>36.238414,30.585164,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>End of Early Bronze Age</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Bronze_Age" target="_blank">https://en.wikipedia.org/wiki/Bronze_Age</a>]]></description>
+      <styleUrl>#catStyle9</styleUrl>
+      <Point>
+        <coordinates>34.9062798,32.5154686,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Susa Collapse</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Susa" target="_blank">https://en.wikipedia.org/wiki/Susa</a>]]></description>
+      <styleUrl>#catStyle9</styleUrl>
+      <Point>
+        <coordinates>48.254283,32.1957948,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Hattusa Burning</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Hattusa" target="_blank">https://en.wikipedia.org/wiki/Hattusa</a>]]></description>
+      <styleUrl>#catStyle9</styleUrl>
+      <Point>
+        <coordinates>34.6154308,40.0198915,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Kultepe/Khanesh Burning</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Hittites" target="_blank">https://en.wikipedia.org/wiki/Hittites</a>]]></description>
+      <styleUrl>#catStyle9</styleUrl>
+      <Point>
+        <coordinates>36.466169,36.273644,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Tavslani Mound Destruction</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.newsweek.com/archaeologists-discover-brain-remnants-people-lived-3700-years-ago-1825076" target="_blank">https://www.newsweek.com/archaeologists-discover-brain-remnants-people-lived-3700-years-ago-1825076</a>]]></description>
+      <styleUrl>#catStyle9</styleUrl>
+      <Point>
+        <coordinates>29.985732,39.4199547,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Tall el-Hammam Burning</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://phys.org/news/2021-09-evidence-cosmic-impact-ancient-city.html" target="_blank">https://phys.org/news/2021-09-evidence-cosmic-impact-ancient-city.html</a>]]></description>
+      <styleUrl>#catStyle9</styleUrl>
+      <Point>
+        <coordinates>35.6744698,31.84071879999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Tepe Gawra destruction layer</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.penn.museum/sites/bulletin/926/" target="_blank">https://www.penn.museum/sites/bulletin/926/</a>]]></description>
+      <styleUrl>#catStyle9</styleUrl>
+      <Point>
+        <coordinates>43.157736,36.3489278,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Late Bronze Age Collapse</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse" target="_blank">https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse</a>]]></description>
+      <styleUrl>#catStyle9</styleUrl>
+      <Point>
+        <coordinates>35.180582,32.578461,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Extinction Event</name>
+  </Folder>
+  <Folder>
+    <name>Abandoned Settlements</name>
+    <Placemark>
+      <description><![CDATA[<p>Catal Huyuk abandonment</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk" target="_blank">https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk</a>]]></description>
+      <styleUrl>#catStyle11</styleUrl>
+      <Point>
+        <coordinates>32.5712101,37.7729123,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Nabta Playa abandonment</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://openlibrary.org/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara" target="_blank">https://openlibrary.org/books/OL20644201M/Holocene_settlement_of_the_Egyptian_Sahara</a>]]></description>
+      <styleUrl>#catStyle11</styleUrl>
+      <Point>
+        <coordinates>30.802498,26.820553,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Skara Brae</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Skara_Brae" target="_blank">https://en.wikipedia.org/wiki/Skara_Brae</a>]]></description>
+      <styleUrl>#catStyle11</styleUrl>
+      <Point>
+        <coordinates>-3.3417332,59.0488031,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Uruk Collapse</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Uruk_period" target="_blank">https://en.wikipedia.org/wiki/Uruk_period</a>]]></description>
+      <styleUrl>#catStyle11</styleUrl>
+      <Point>
+        <coordinates>43.679291,33.223191,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Caral Abandonment</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Caral" target="_blank">https://en.wikipedia.org/wiki/Caral</a>]]></description>
+      <styleUrl>#catStyle11</styleUrl>
+      <Point>
+        <coordinates>-77.5232461,-10.8920691,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Newgrange Abandoned (Profile K81)</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.knowth.com/newgrange-book.htm" target="_blank">https://www.knowth.com/newgrange-book.htm</a>]]></description>
+      <styleUrl>#catStyle11</styleUrl>
+      <Point>
+        <coordinates>-6.4810149,53.6947993,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Astronomical Disruption</name>
+  </Folder>
+  <Folder>
+    <name>Solar Event</name>
+  </Folder>
+  <Folder>
+    <name>Excursion / Reversal</name>
+  </Folder>
+  <Folder>
+    <name>Aurora</name>
+  </Folder>
+  <Folder>
+    <name>Plague / Pandemic</name>
+  </Folder>
+  <Folder>
+    <name>Burning</name>
+    <Placemark>
+      <description><![CDATA[<p>Vitrified Forts (Schoch)</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://studylib.net/doc/8356181/glass-castles-and-fire-from-the-sky" target="_blank">https://studylib.net/doc/8356181/glass-castles-and-fire-from-the-sky</a>]]></description>
+      <styleUrl>#catStyle17</styleUrl>
+      <Point>
+        <coordinates>-4.2026458,56.49067119999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Kilmahuddrick Incinerated Remains</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.2307/20650841" target="_blank">https://sci-hub.ru/10.2307/20650841</a>]]></description>
+      <styleUrl>#catStyle17</styleUrl>
+      <Point>
+        <coordinates>-6.430006199999999,53.3265425,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Other</name>
+    <Placemark>
+      <description><![CDATA[<p>Cova Rosa Occupation</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://sci-hub.ru/10.1017/rdc.2021.18" target="_blank">https://sci-hub.ru/10.1017/rdc.2021.18</a>]]></description>
+      <styleUrl>#catStyle18</styleUrl>
+      <Point>
+        <coordinates>-5.056101200000001,43.463085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Kofels Landslide</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0169555X15002548" target="_blank">https://www.sciencedirect.com/science/article/abs/pii/S0169555X15002548</a>]]></description>
+      <styleUrl>#catStyle18</styleUrl>
+      <Point>
+        <coordinates>10.9261304,47.1358206,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>European Agricultural Reset</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.academia.edu/4702990/S._Shennan_S.S._Downey_A._Timpson_K._Edinborough_S._Colledge_T._Kerig_K._Manning_and_M._G._Thomas_2013_Regional_population_collapse_followed_initial_agriculture_booms_in_mid-Holocene_Europe._NATURE_communications_1_Oct_2013._DOI_10.1038_ncomms3486" target="_blank">https://www.academia.edu/4702990/S._Shennan_S.S._Downey_A._Timpson_K._Edinborough_S._Colledge_T._Kerig_K._Manning_and_M._G._Thomas_2013_Regional_population_collapse_followed_initial_agriculture_booms_in_mid-Holocene_Europe._NATURE_communications_1_Oct_2013._DOI_10.1038_ncomms3486</a>]]></description>
+      <styleUrl>#catStyle18</styleUrl>
+      <Point>
+        <coordinates>19.040235,47.497912,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Hazleton North long cairn</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.theguardian.com/science/2021/dec/22/worlds-oldest-family-tree-costwolds-tomb-hazleton-north-long-cairn-dna" target="_blank">https://www.theguardian.com/science/2021/dec/22/worlds-oldest-family-tree-costwolds-tomb-hazleton-north-long-cairn-dna</a>]]></description>
+      <styleUrl>#catStyle18</styleUrl>
+      <Point>
+        <coordinates>-1.8838937,51.794968,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Mayan long count calendar</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar" target="_blank">https://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar</a>]]></description>
+      <styleUrl>#catStyle18</styleUrl>
+      <Point>
+        <coordinates>-91.9930466,17.5109792,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Burton Agnes Human Remains</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://www.smithsonianmag.com/smart-news/an-ornate-5000-year-old-stone-drum-is-the-uks-most-significant-prehistoric-art-find-in-a-century-180979604/" target="_blank">https://www.smithsonianmag.com/smart-news/an-ornate-5000-year-old-stone-drum-is-the-uks-most-significant-prehistoric-art-find-in-a-century-180979604/</a>]]></description>
+      <styleUrl>#catStyle18</styleUrl>
+      <Point>
+        <coordinates>-0.319589,54.049791,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[<p>Egyptian Dark Ages</p><p>Source: ECDO Database https://docs.google.com/spreadsheets/d/12wWdujQop8mkRSnj3LgZ5VSc_cAVShsOyCXYEofj664/edit?usp=sharing</p><a href="https://gizamedia.rc.fas.harvard.edu/images/MFA-images/Giza/GizaImage/full/library/bell_aja_75_1971.pdf" target="_blank">https://gizamedia.rc.fas.harvard.edu/images/MFA-images/Giza/GizaImage/full/library/bell_aja_75_1971.pdf</a>]]></description>
+      <styleUrl>#catStyle18</styleUrl>
+      <Point>
+        <coordinates>32.6396357,25.6872431,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

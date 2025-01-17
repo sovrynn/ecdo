@@ -1,0 +1,42 @@
+Take the following list of locations (organized by country) and return them to me in a list, one location per line (no markdown formatting), followed by the country:
+
+Poland
+
+    Kraków-Częstochowa Upland (Jura Krakowsko-Częstochowska)
+    Holy Cross Mountains (Góry Świętokrzyskie)
+    Jaskinia Raj (Raj Cave)
+    Tatra Mountains
+    Jaskinia Wielka Śnieżna (Great Snowy Cave) – the longest and the deepest cave in Poland
+    Králický Sněžník Mountains
+    Jaskinia Niedźwiedzia
+    Kaczawskie Mountains small region near the town Wojcieszów
+
+Portugal
+
+    Natural Park Serras d'Aire and Candeeiros
+
+Romania
+
+    Apuseni Mountains, Romania
+    Bucegi Mountains, Romania
+
+Serbia
+
+    Dinaric Alps region
+    merokarst of eastern Serbia
+
+Slovakia
+
+    Slovak Paradise, Slovakia
+    Slovak Karst, Slovakia
+    Tatry, Slovakia
+    Nízke Tatry, Slovakia
+    Muránska planina, Slovakia
+
+Slovenia
+
+    Region of Inner Carniola
+    Goriška
+    Upper Carniola
+    Lower Carniola
+    Karst Plateau, a plateau in southwestern Slovenia and northeastern Italy

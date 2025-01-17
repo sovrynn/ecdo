@@ -1,0 +1,22 @@
+Take the following list of locations (organized by country) and return them to me in a list, one location per line (no markdown formatting), followed by the country:
+
+Bosnia and Herzegovina
+
+    Popovo polje in Herzegovina region of Bosnia and Herzegovina
+    Livanjsko polje (405 km2 (156 sq mi)), near Livno in Završje (Tropolje) region of Bosnia and Herzegovina
+    Nevesinjsko polje, near Nevesinje in Herzegovina region of Bosnia and Herzegovina
+    Gatačko polje, near Gacko in Herzegovina region of Bosnia and Herzegovina
+    Glamočko polje, near Glamoč in Završje (Tropolje) region of Bosnia and Herzegovina
+    Duvanjsko polje, near Duvno in Završje (Tropolje) region of Bosnia and Herzegovina
+    Mostarsko polje, near Mostar in Herzegovina region of Bosnia and Herzegovina
+    Kupreško polje, near Kupres in the border area of Završje (Tropolje) region and Bosnia (region) of Bosnia and Herzegovina
+    Vjetrenica (which means "wind cave" or "blowhole"), largest and most important cave
+    Neretva river
+    Trebisnjica river
+
+Bulgaria
+
+    Central Rhodope karst (including Trigrad Gorge), Bulgaria
+    Devnya Valley, Varna Province, Bulgaria
+    Dragoman marsh, Bulgaria
+    Karlukovo Karst Geocomplex

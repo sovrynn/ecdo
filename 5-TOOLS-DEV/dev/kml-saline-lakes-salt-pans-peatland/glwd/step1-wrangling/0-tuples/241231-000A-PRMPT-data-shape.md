@@ -1,0 +1,1 @@
+what would it mean when my data has a shape of 33600 and 86400 running that script

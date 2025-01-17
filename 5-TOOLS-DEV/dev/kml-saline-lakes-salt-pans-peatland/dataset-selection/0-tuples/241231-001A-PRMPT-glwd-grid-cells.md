@@ -1,0 +1,1 @@
+So the so-called grid cell is the smallest unit of granularity? But even within each grid cell, each wetland type has a percentage that says how much of that grid cell is occupied by that wetland type? Are all the categories mutually exclusive?

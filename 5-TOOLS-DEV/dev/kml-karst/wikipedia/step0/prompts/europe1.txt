@@ -1,0 +1,17 @@
+Take the following list of locations (organized by country) and return them to me in a list, one location per line (no markdown formatting), followed by the country. If a list entry mentions multiple locations, these should be split up into multiple lines in the output:
+
+Albania
+
+    Biza area in central Eastern Albania
+    Mali me Gropa
+    Albanian Alps
+    Karaburun Peninsula, Albania
+
+Austria
+
+    Eastern region of the Northern Limestone Alps in the provinces of Salzburg, Upper Austria, Styria, and Lower Austria, forming huge limestone plateaus such as the Steinernes Meer, Hagengebirge, Tennengebirge, Dachstein, Totes Gebirge, Hochschwab, Rax, and Schneeberg.
+    Area around Graz, Styria.
+
+Belgium
+
+    Fondry des Chiens near Viroinval

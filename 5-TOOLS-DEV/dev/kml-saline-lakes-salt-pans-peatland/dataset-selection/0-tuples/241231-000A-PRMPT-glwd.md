@@ -1,0 +1,1 @@
+Right but how is the data structured. Is there, for example, an object for each water body, that has different attributes and each one covers a certain surface extent? Or is the data somehow spread out over the location grid data?

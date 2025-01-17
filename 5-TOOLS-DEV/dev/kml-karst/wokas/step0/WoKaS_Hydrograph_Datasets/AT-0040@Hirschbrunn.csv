@@ -1,0 +1,18 @@
+#DataType      :	spring discharge data
+#DataSource    :	eHYD Bundesministerium Nachhaltigkeit und Tourismus	((https://ehyd.gv.at/#))
+#ID            :	395053
+#Name          :	Hirschbrunn
+#LAT	LON      :	47.55	13.66
+#Time format   :	%d.%m.%Y
+#Discharge unit:	m^3/s
+#Timestamp(UTC):	21.08.2019 16:14:39
+Timestamp	discharge
+24.12.2008 00:00:00	0.239072972972973
+31.12.2009 00:00:00	0.425260128617363
+31.12.2010 00:00:00	0.402012861736334
+31.12.2011 00:00:00	0.298556712328767
+31.12.2012 00:00:00	0.502562874251497
+31.12.2013 00:00:00	0.425100821917808
+31.12.2014 00:00:00	0.475572054794521
+31.12.2015 00:00:00	0.382357264957265
+01.01.2016 00:00:00	0.0248

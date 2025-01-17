@@ -1,0 +1,29 @@
+#DataType      :	spring discharge data
+#DataSource    :	Tadolini T., Tulipano L. & Zanframundo P. (1976) La falda idrica della zona compresa tra Vico del Gargano ed Ischitella (Puglia): caratteristiche ed equilibrio idrogeologico. Giornale del Genio Civile, fasc. 10-11-12, p. 423-433.	(NA)
+#ID            :	NA
+#Name          :	Canneto
+#LAT	LON      :	41.9	15.92
+#Time format   :	%d.%m.%Y
+#Discharge unit:	m^3/s
+#Timestamp(UTC):	14.08.2019 10:19:44
+Timestamp	discharge
+01.05.1969 00:00:00	0.02
+01.06.1969 00:00:00	0.015
+01.07.1969 00:00:00	0.0145
+01.08.1969 00:00:00	0.014
+01.09.1969 00:00:00	0.012
+01.10.1969 00:00:00	0.007
+01.11.1969 00:00:00	0.008
+01.05.1970 00:00:00	0.016
+01.06.1970 00:00:00	0.016
+01.07.1970 00:00:00	0.0145
+01.08.1970 00:00:00	0.012
+01.09.1970 00:00:00	0.0105
+01.10.1970 00:00:00	0.009
+01.11.1970 00:00:00	0.007
+01.12.1970 00:00:00	0.011
+01.01.1971 00:00:00	0.016
+01.02.1971 00:00:00	0.019
+01.03.1971 00:00:00	0.0265
+01.04.1971 00:00:00	0.028
+01.05.1971 00:00:00	0.024

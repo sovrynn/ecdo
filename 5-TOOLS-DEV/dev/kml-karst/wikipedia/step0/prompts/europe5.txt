@@ -1,0 +1,37 @@
+Take the following list of locations (organized by country) and return them to me in a list, one location per line (no markdown formatting), followed by the country:
+
+Hungary
+
+    Region of the Mecsek Mountains
+    Bükk, a plateau in northeastern Hungary
+    Bakony Hills in Transdanubia
+    Buda Hills, thermal karst area
+    Aggtelek Karst and the largest cave in Hungary (Aggtelek National Park, UNESCO WHS)
+
+Ireland
+
+    The Burren in County Clare
+    Ballydotia, near Moycullen, in County Galway
+    Dringeen Oughter, Lough Mask, in County Mayo
+    Tullyskeherny, near Manorhamilton, in County Leitrim
+
+Italy
+
+    Gargano, in Apulia, northern
+    Murge, in Apulia and Basilicata, southern
+    Carso (Slovene: Kras)(German: Karst), a plateau in southwestern Slovenia and northeastern Italy
+    Piano Grande surrounding Castelluccio (Norcia), in the Monti Sibillini National Park
+    Montello, in Veneto, a plateau in conglomerate rock, venetian sub-alps hills
+
+Lithuania
+
+    North Region, Biržai district municipality
+    Pasvalys district municipality.
+
+Malta
+
+    Wied iż-Żurrieq and Dingli, West
+
+Montenegro
+
+    Dinaric Alps region (70% of the territory of Montenegro is Karst)

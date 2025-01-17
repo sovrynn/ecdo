@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Salt Mines</name>
+    <Style id="myStyle">
+      <IconStyle>
+        <color>fff4f5eb</color>
+        <scale>2</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/shapes/water.png</href></Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>Salt Mine: Hallstatt, Austria</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>13.6492617,47.5622342</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Salzkammergut, Austria</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>13.5183185,47.8794096</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Tuzla, Bosnia and Herzegovina</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>18.673098,44.5404317</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Provadiya, Bulgaria</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>27.4405725,43.177032</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Solnitsata, Bulgaria</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>27.4724546,43.1283261</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Goderich, Ontario, Canada</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-81.7138942,43.7428345</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Zipaquirá, Colombia</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-74.001297,5.025875399999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Cheshire ("-wich towns"), England</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-2.6103157,53.23263439999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Worcestershire ("-wich towns"), England</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-2.2190523,52.1941389</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Danakil Desert, Ethiopia</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>41.9196471,11.8763843</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Danakil Desert, Eritrea</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>41.9196471,11.8763843</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Danakil Desert, Djibouti</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>42.590275,11.825138</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Rheinberg, Germany</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>6.5948898,51.54682589999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Berchtesgaden, Germany</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>13.001148,47.6300314</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Heilbronn, Germany</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>9.210879,49.1426929</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Mountcharles, Republic of Ireland</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-8.1947189,54.6474421</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Racalmuto, Italy</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>13.7327002,37.4088992</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Realmonte, Italy</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>13.462396,37.3087064</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Petralia Soprana, Italy</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>14.108267,37.7965831</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Mohammedia, Morocco</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-7.385649399999999,33.6835563</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Kilroot, Northern Ireland</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-5.767678999999999,54.72555939999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Khewra Salt Mines, Pakistan</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>73.0198654,32.656424</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Wieliczka, Poland</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>20.0647971,49.9870619</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Bochnia, Poland</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>20.4303285,49.96845769999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Kłodawa Salt Mine, Poland</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>18.9221691,52.2406339</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Slănic, Romania</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>25.9365314,45.22750449999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Salina Veche, Romania</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>25.9407216,45.2354887</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Cacica, Romania</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>25.9030104,47.6350948</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Ocnele Mari, Romania</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>24.2859745,45.0838382</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Salina Turda, Romania</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>23.7872654,46.5877459</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Târgu Ocna, Romania</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>26.6181847,46.27770659999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Ocna Sibiului, Romania</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>24.0654513,45.8746227</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Praid, Romania</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>25.1272723,46.5553429</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Salina Ocna Dej, Romania</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>23.861349,47.1140936</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Solikamsk, Perm Krai, Russia</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>56.7557668,59.6720331</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Seregovo, Komi Republic, Russia</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>50.6974548,62.329851</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Soledar Salt Mine, Ukraine</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>38.0579769,48.6939394</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Hutchinson, Kansas, United States</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-97.92977429999999,38.0608445</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Lyons, Kansas, United States</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-98.20172679999999,38.3450104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Kanopolis, Kansas, United States</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-98.1572769,38.7111197</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Avery Island, Louisiana, United States</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-91.9050391,29.8967541</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Cleveland, Ohio (Whiskey Island mine), United States</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-81.71652089999999,41.4958841</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Fairport Harbor, Ohio, United States</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-81.2739916,41.7500431</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Detroit, Michigan, United States</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-83.0457538,42.331427</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Livingston County, New York, United States</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-77.8367282,42.7576923</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Syracuse, New York, United States</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-76.14742439999999,43.0481221</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Grand Saline, Texas, United States</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-95.70940689999999,32.6734636</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Houston, Texas (near Daikin Park), United States</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-95.37011079999999,29.7600771</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Mine: Saltville, Virginia, United States</name>
+      <description></description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>-81.7620635,36.8815031</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

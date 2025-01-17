@@ -1,0 +1,48 @@
+Tarascan (northern Michoacan), Mexico, North America  
+19.4064492,-102.0430476
+Michoacan, Mexico, North America  
+19.7059504,-101.1949825
+Yaqui (Sonoran, Northern Mexico), Mexico, North America  
+29.0729673,-110.9559192
+Tarahumara (Northern Mexico), Mexico, North America  
+28.6433753,-106.0587908
+Huichol (western Mexico), Mexico, North America  
+21.5041651,-104.8945887
+Cora (east of the Huichols), Mexico, North America  
+22.2558492,-104.5172111
+Tepecano (southeast of the Huichols), Mexico, North America  
+20.6751707,-103.3473385
+Tepehua (eastern Mexico), Mexico, North America  
+20.4566709,-97.3156131
+Toltec, Mexico, North America  
+20.0557971,-99.34243959999999
+Nahua (central Mexico), Mexico, North America  
+19.4326077,-99.133208
+Tlaxcalan (central Mexico), Mexico, North America  
+19.318154,-98.2374954
+Tlapanec (south central Mexico), Mexico, North America  
+17.5508259,-99.5014623
+Mixtec (northern Oaxaca), Mexico, North America  
+17.4606859,-97.2275336
+Zapotec (Oaxaca, southern Mexico), Mexico, North America  
+17.0731842,-96.7265889
+Trique (Oaxaca, southern Mexico), Mexico, North America  
+17.1861111,-97.9622222
+Totonac (eastern Mexico), Mexico, North America  
+20.4566709,-97.3156131
+Chol (southern Mexico), Mexico, North America  
+16.7366198,-92.6388466
+Tzeltal (Chiapas, southern Mexico), Mexico, North America  
+16.9087258,-92.0943351
+Quiché, Guatemala, North America  
+15.0236312,-91.1496969
+Maya (southern Mexico and Guatemala), North America  
+20.9673702,-89.5925857
+Popoluca (Veracruz), Mexico, North America  
+17.9299172,-94.89235289999999
+Nicaragua, North America  
+12.1149926,-86.2361744
+Panama, North America  
+8.9823792,-79.51986959999999
+Carib (Antilles), North America  
+17.1274104,-61.84677199999999

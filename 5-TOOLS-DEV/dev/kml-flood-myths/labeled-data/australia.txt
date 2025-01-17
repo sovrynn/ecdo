@@ -1,0 +1,34 @@
+Arnhem Land, Australia, Australia  
+-12.621904,134.9253721
+Maung (Goulburn Islands, Arnhem Land), Australia  
+-11.6140013,133.3970188
+Gunwinggu (northern Arnhem Land), Australia  
+-12.0551674,134.2313799
+Gumaidj (Arnhem Land), Australia  
+-12.1835392,136.7860989
+Manger (Arnhem Land), Australia  
+-12.6744733,132.8325431
+Fitzroy River area (Western Australia), Australia  
+-18.19797,125.5670892
+Mount Elliot (coastal Queensland), Australia  
+-19.4335024,146.9454653
+Western Australia, Australia  
+-31.9513993,115.8616783
+Andingari (South Australia), Australia  
+-30.4481743,137.1654552
+Wiranggu (South Australia), Australia  
+-32.1260393,133.6763208
+Narrinyeri (South Australia), Australia  
+-35.1200511,139.2736963
+Victoria, Australia  
+-37.8136276,144.9630576
+Lake Tyres (Victoria), Australia  
+-37.8414188,148.1282382
+Kurnai (Gippsland, Victoria), Australia  
+-37.5831982,147.4627259
+Southeast Australian, Australia  
+-37.8365866,147.5993731
+Maori, New Zealand, Australia  
+-36.85088270000001,174.7644881
+New Zealand, Australia  
+-41.2923814,174.7787463

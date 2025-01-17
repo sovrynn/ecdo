@@ -1,0 +1,18 @@
+Sumerian, Asia  
+31.0510427,46.2569178
+Egypt, Africa  
+30.0444196,31.2357116
+Babylonian, Asia  
+33.315241,44.3660671
+Assyrian, Asia  
+36.3489278,43.157736
+Chaldean, Asia  
+30.5259953,47.7737891
+Hebrew, Asia  
+31.768319,35.21371
+Islamic, Asia  
+21.4240968,39.81733639999999
+Persian, Asia  
+35.7218583,51.3346954
+Zoroastrian, Asia  
+31.8974232,54.3568562

@@ -1,0 +1,14 @@
+#DataType      :	spring discharge data
+#DataSource    :	Banque Hydro France	(http://www.hydro.eaufrance.fr/indexd.php?connect=3)
+#ID            :	O3235510
+#Name          :	Le ruisseau de Saint-Pierre à Verrières (Saint-Pierre)
+#LAT	LON      :	44.23	3.02
+#Time format   :	%d.%m.%Y
+#Discharge unit:	m^3/s
+#Timestamp(UTC):	21.08.2019 16:14:44
+Timestamp	discharge
+31.12.2001 00:00:00	0.100893203883495
+31.12.2002 00:00:00	0.106739130434783
+03.12.2003 00:00:00	0.126262403528115
+30.12.2004 00:00:00	0.112027883396705
+13.08.2005 00:00:00	0.0403223640026864

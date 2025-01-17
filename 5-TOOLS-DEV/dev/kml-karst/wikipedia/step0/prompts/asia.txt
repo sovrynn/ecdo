@@ -1,0 +1,106 @@
+Take the following list of locations (organized by country) and return them to me in a list, one per line (no markdown formatting), followed by the country:
+
+China
+
+    Area around Guilin and Yangshuo
+    Zhijin Cave, Guizhou (UNESCO World Heritage Site)
+    Jiuzhaigou Valley and Huanglong Scenic and Historic Interest Area, (UNESCO World Heritage Site)
+    Shaanxi tiankeng cluster, discovered in 2016, it is one of the largest in the world comprising forty-nine sinkholes and more than fifty funnels ranging from 50–100 metres in diameter.
+    South China Karst, World Heritage Site
+    Stone Forest
+    Xiaozhai Tiankeng, also known as the Heavenly Pit, is the world's largest sinkhole.[3]
+    Zhangjiajie National Forest park, forming part of the Wulingyuan scenic area, World Heritage Site
+    Wulong Karst, Wulong County, Chongqing Municipality
+
+Georgia
+
+    Arabika Massif (including Voronya Cave – the world's second deepest cave), Abkhazia, Georgia
+
+India
+
+    Borra Cave or Bora Guhalu in Andhra Pradesh. Patal Bhuvaneshwar in Uttarakhand.
+	Yana Caves -Karnatka (Uttar Kanada District)
+
+Indonesia
+
+    Ajamaru Plateau, West Papua, Indonesia
+    Gombong Selatan, Central Java, Indonesia
+    Gunung Sewu, Indonesia
+    Rammang-Rammang, in the Bantimurung - Bulusaraung National Park in (Maros Regency) Indonesia, known as The Spectacular Tower Karst Area[4]
+    Sangkulirang-Mangkalihat, East Kalimantan
+    Sijunjung, West Sumatra, Indonesia
+    Menui Island, Southest Sulawesi, Indonesia
+
+Israel and Palestine
+
+    Avshalom Cave, also known as "Soreq Cave" or "Stalactites Cave", in the Judean hills[5]
+    Ofra region, Palestinian territories
+    The Upper Galilee region[6]
+
+Japan
+
+    Akiyoshi Plateau, Japan
+    Hiraodai Plateau, Japan
+    Okinoerabujima Island and other islets of Ryukyu Islands, Japan
+    Shikoku Karst Prefectural Natural Park (Ehime), Shikoku, Japan
+
+Laos
+
+    Khammouane, Laos
+    Vang Vieng, Laos
+
+Lebanon
+
+    Jeita Grotto, Lebanon
+    Parts of Mount Lebanon
+
+Malaysia
+
+    Gunung Mulu National Park, Malaysia
+    Kilim Karst Geoforest Park, Langkawi, Malaysia
+    Kinta Valley, Perak, Malaysia
+    Perlis State Park, Perlis, Malaysia
+    Batu Caves, Selangor, Malaysia
+
+Myanmar
+
+    Shan State,[7] Kayin State, Kayah State[8]
+
+Palestine
+
+    Ofra region, Palestinian territories
+
+Philippines
+
+    El Nido, Palawan, Philippines
+    Coron, Palawan, Philippines
+    Puerto Princesa, Palawan, Philippines
+    Chocolate Hills, Bohol, Philippines
+    Osmeña Peak, Cebu, Philippines
+
+South Korea
+
+    Gangwon-do (South Korea), South Korea
+    Northwestern North Chungcheong Province, South Korea
+
+Thailand
+
+    Ao Phang Nga National Park, Thailand
+    Krabi region, Thailand
+    Phangnga Bay Area, southern Thailand
+    Doi Nang Non, northern Thailand
+
+Taiwan
+
+    Kenting National Park, Taiwan
+
+Turkey
+
+    Taşeli, Turkey
+
+Vietnam
+
+    Hạ Long Bay, Vietnam
+    Phong Nha-Kẻ Bàng National Park, Vietnam
+    Tam Cốc-Bích Động in Ninh Bình Province, Vietnam
+    Đồng Văn Karst, Global Geopark
