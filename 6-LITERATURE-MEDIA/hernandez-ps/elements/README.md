@@ -1,0 +1,3 @@
+The most intuitive model of the elements I have found. That Russel man was able to guess the characteristics of elements that weren't discovered at the time simply through its principles
+
+And each of these correspond to a sound octave. I have the very very high suspicion that a specific yield of any material above Silica can be done by using corresponding frequencies during the heating process and the cooling
