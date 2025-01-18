@@ -108,3 +108,5 @@ Rotti (southwest of Timor), Asia
 -10.7386421,123.1239049
 Nage (Flores), Asia  
 -8.854053,121.654198
+Dangun, Gojoseon, Korea
+39.59, 126.19
