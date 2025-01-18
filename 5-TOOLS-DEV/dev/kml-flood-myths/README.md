@@ -1,5 +1,9 @@
 python script-descriptions-links.py labeled-data/ links
 
+267 placemarks total.
+
+Only 262 stories though. Must be a few duplicate markers.
+
 # Prompt labeled data
 
 Write a python script that takes one input arg, a relative directory. It should look in the file for all .txt files. Each txt file has a bunch of locations together with a lat/lon coord for each one. Each data point takes two lines - the first one is the location name, and the second line is the lat/lon coord, comma separated.
