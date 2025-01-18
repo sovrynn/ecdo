@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<NetworkLink>
+	<name>Ancient Locations</name>
+	<description>4519 placemarks and overlays of ancient times</description>
+	<Link>
+		<href>http://www.ancientlocations.net/Export/KeyholeMarkup.aspx</href>
+	</Link>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10155"></atom:link>
+</NetworkLink>
+</kml>
