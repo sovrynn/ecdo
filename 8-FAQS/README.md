@@ -1,6 +1,6 @@
 # FAQs
 
-A compilation of very specific questions about the ECDO.
+A compilation of very specific questions about the ECDO. Very much a work in progress.
 
 ## How do we know wind could be extreme, along with debris?
 
