@@ -18,3 +18,5 @@ Vermicomposting Toilets: http://www.vermicompostingtoilets.net/
 - Free chicken grub
 
 Mauro Biglino the Naked Bible
+
+geocult.org - the nicest and most objective explanation of astrological placements ive found online
