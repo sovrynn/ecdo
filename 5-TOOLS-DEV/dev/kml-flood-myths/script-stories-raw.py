@@ -226,11 +226,9 @@ def generate_kml(all_data, output_file: Path, story_dir: Path):
     placemark_template = """    <Placemark>
       <description>
         <![CDATA[
-          <div style="font-size:24px; font-family:Arial, sans-serif;">
-              <p><strong>Flood Myth: {name}</strong></p>
-              {story_block}
-              {link_block}
-          </div>
+          <p><strong>Flood Myth: {name}</strong></p>
+          {story_block}
+          {link_block}
         ]]>
       </description>
       <styleUrl>#customStyle</styleUrl>
@@ -252,7 +250,7 @@ def generate_kml(all_data, output_file: Path, story_dir: Path):
                 story_content = read_story(story_dir, link)
                 if story_content == "":
                     print(link)
-                story_block = f"<p>{story_content}</p>" if story_content else ""
+                story_block = f"{story_content}" if story_content else ""
 
                 placemark = placemark_template.format(
                     name=name,
@@ -285,7 +283,7 @@ def main():
         print("No valid data found. Exiting.", file=sys.stderr)
         sys.exit(1)
 
-    output_kml = Path("flood-myths-stories-raw.kml")
+    output_kml = Path("flood-myths-stories.kml")
     generate_kml(all_data, output_kml, story_dir)
 
 if __name__ == "__main__":

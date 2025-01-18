@@ -1,8 +1,8 @@
-python script-descriptions-links.py labeled-data/ links
-
 267 placemarks total.
 
 Only 262 stories though. Must be a few duplicate markers.
+
+python script-descriptions-links-stories.py labeled-data/ links/ stories-rawhtml/
 
 # Prompt labeled data
 
