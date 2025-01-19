@@ -1,6 +1,6 @@
 # Location-Specific ECDO Analysis
 
-Location-specific ECDO flood analysis and evidence gathering.
+Location-specific ECDO flood analysis and evidence gathering. See `0-safe-spots` for safe spots.
 
 ![](img/global-elevation2.jpg)
 
