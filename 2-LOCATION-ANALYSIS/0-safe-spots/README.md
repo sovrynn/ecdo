@@ -24,6 +24,8 @@ Extract these from the images into text.
 
 You could easily run an AI analysis on the flood myths, looking for markers such as:
 - specific flood levels
+- duration of flooding
+- rain
 - droughts
 - orogeny
 - multiple floods
