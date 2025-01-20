@@ -1,0 +1,15 @@
+The story mentions that Xisuthrus' ship drove aground in the Corcyraean mountains in Armenia, indicating that this land was above the water after the flood. Additionally, the ship came to rest on the top of the Gendyae or Mountain, suggesting that this mountain also remained above the floodwaters. 
+
+Therefore, the lands that did not get flooded are:
+1. Corcyraean mountains in Armenia
+2. Gendyae Mountain
+
+As for survival in a cave, there is no mention of anyone surviving in a cave in the provided flood story. 
+
+In summary, the answer includes two lands:
+- Corcyraean mountains
+- Gendyae Mountain
+
+However, following your instruction, since I am to return just one character if no person survived in a cave, the output is:
+
+0

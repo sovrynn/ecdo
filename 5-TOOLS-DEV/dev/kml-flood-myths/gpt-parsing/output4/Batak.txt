@@ -1,0 +1,5 @@
+The flood story indicates that there was a high mountain where the last pair of humans took refuge, and it specifies that the flood had reached their knees while they were on this mountain. However, the name of the mountain is not provided. Additionally, the fact that the couple was saved by stepping onto a clod of earth suggests that they did not survive in a cave but rather on this mountain. 
+
+Thus, based on the information given, there is land that did not get flooded, specifically the highest mountain where the last pair of humans found refuge.
+
+However, since the story does not provide a specific name for the mountain, I will return 0.

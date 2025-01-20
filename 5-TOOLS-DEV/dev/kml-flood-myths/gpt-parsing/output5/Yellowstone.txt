@@ -1,0 +1,5 @@
+The story mentions that the people moved to the hills as the waters rose and that ultimately they climbed to the mountains to escape the flood. However, it does not specify the names of the mountains. Based on this information, there were areas (the mountains) where people survived above the floodwaters.
+
+Therefore, I will return a character indicating that there was land that didn't get flooded where people could survive:
+
+1

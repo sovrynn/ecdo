@@ -1,0 +1,3 @@
+The excerpt mentions that "the highest hill remained above water" during the flood and that "all but the few who escaped to the highest hills" survived. However, it does not provide specific names of mountaintops or their exact locations. Therefore, there is no specific flood level mentioned in terms of recognizable geographical markers. 
+
+**Return: nothing**

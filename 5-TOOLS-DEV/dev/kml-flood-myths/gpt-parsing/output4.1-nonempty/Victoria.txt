@@ -1,0 +1,3 @@
+The story mentions a "tall tree on a mountain" and also references a "high hill" where people fled. These are instances of land that did not get flooded. However, specific names of mountains or lands are not provided. Additionally, it does not indicate that anyone survived in a cave.
+
+Since there are locations mentioned that were above the floodwaters, but not specifically named, I will return the character "0" as the initial requirement is not fully met regarding named locations.

@@ -1,0 +1,3 @@
+The excerpt states that "the highest mountains were covered" by the flood, but does not provide specific names of those mountains or their tops. There is a mention of the "Mount of Olives in Jerusalem" as a location that did not suffer from the flood, but it does not specify a flood level there. Therefore, there are no specified flood levels in terms of mountaintops or specific locations given in this excerpt. 
+
+Since there is no specific flood level mentioned, the return is: **nothing**.
