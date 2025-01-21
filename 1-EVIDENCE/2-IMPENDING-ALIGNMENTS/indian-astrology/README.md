@@ -1,6 +1,6 @@
 # Indian Astrology
 
-## Aldebaran and Saturn/Mars 2030 Alignment
+## Aldebaran and Saturn/Mars 2030 Alignment (hard copy here)
 
 On Aldebaran's alignment with Saturn/Mars, written in Indian texts as an omen of great catastrophe.
 
