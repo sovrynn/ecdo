@@ -18,9 +18,12 @@ Possible destabilization began noticeably around 1973 although contributory proc
 
 I personally think we may have decoupled in 1952, when the north pole wander abruptly slowed down and changed direction, before starting to sprint in a new direction since 1975 from which it has not changed course.
 
-## S1 -> S2 Rotation Prediction: June 2030
+## Potential signposts
 
-Nobulart prediction: Worst case S1 -> S2 as early as mid-2030, with S2 -> S1 in 2042/3.
+- Amallula: Mentions Yellowstone (which erupted in 2024)
+- Scallion (Gordon Michael): the simultaneous eruption of two volcanoes
+- Senecae: The alignment of planets in a certain position
+	- He contends that the earth will burn when all the stars that now pursue separate paths converge in the constellation of Cancer and line up under one another so that it is possible for a straight line to extend upwards through their orbs. The future flood will occur when the same grouping of stars occurs in Capricorn.
 
 ## Nobulart quote [1]
 

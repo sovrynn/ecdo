@@ -1,0 +1,21 @@
+.ppv-lightbox.open .ppv-overlay{position:fixed;width:100vw;height:100vh;background:rgba(0,0,0,.6901960784);top:0;left:0;z-index:99}.ppv-lightbox .ppv_wrapper{display:none}.ppv-lightbox.open .ppv_wrapper{display:block;z-index:999;position:fixed!important;top:50px;left:50%;transform:translateX(-50%);width:900px!important;background:#fff;padding:15px 10px;height:auto!important}.ppv_wrapper .ppv-lightbox-close{z-index:9999;font-size:30px;position:fixed;top:0;right:10px;color:#333;display:none;cursor:pointer;display:none}.ppv-lightbox button{padding:.6em 1.1em}.ppv-lightbox button:hover{text-decoration:none}.ppv-lightbox button.small{font-size:16px}.ppv-lightbox button.medium{font-size:20px}.ppv-lightbox button.large{font-size:30px}.ppv-lightbox button.extra-large{font-size:50px}.ppv-lightbox.open .ppv-lightbox-close{display:block}.ppv-lightbox-loading{border:16px solid #f3f3f3;border-radius:50%;border-top:16px solid #3498db;width:120px;height:120px;-webkit-animation:pvvspin 2s linear infinite;animation:pvvspin 2s linear infinite;position:absolute;top:45%;left:42%;transform:translate(-50%,-50%)}@-webkit-keyframes pvvspin{0%{-webkit-transform:rotate(0deg)}100%{-webkit-transform:rotate(360deg)}}@keyframes pvvspin{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+/*
+     FILE ARCHIVED ON 00:19:46 Sep 28, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:30:29 Jan 25, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.536
+  exclusion.robots: 0.027
+  exclusion.robots.policy: 0.016
+  esindex: 0.01
+  cdx.remote: 11.365
+  LoadShardBlock: 218.425 (3)
+  PetaboxLoader3.datanode: 242.721 (5)
+  PetaboxLoader3.resolve: 226.8 (3)
+  load_resource: 324.357 (2)
+*/
