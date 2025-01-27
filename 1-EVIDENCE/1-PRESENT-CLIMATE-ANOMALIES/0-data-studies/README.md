@@ -53,6 +53,10 @@ Here it is overlaid with true polar wander:
 
 ![](img/SAVE_polar_wander_overlay.png)
 
+### 1D
+
+![](img/pole-in-miles-chart.png)
+
 ## True polar wander (average rotational axis movement)
 
 ![](img/polar-motion-drift.jpg)
