@@ -15,7 +15,7 @@ Major research folders:
 - `1-EVIDENCE`: A monolithic folder for FACTUAL evidence.
 
 Major preparation folders:
-- `9-TASKFORCE`: A logistical data and initiative drive for preparing for the ECDO.
+- `9-TASKFORCE`: A logistical "data and initiative drive" for preparing for the ECDO.
 - `4-DANGERS-PREPPING`: All matters ECDO-prepping.
 
 Minor research folders:
