@@ -14,6 +14,7 @@ This is for actual things to do - for a real group of people working on the ECDO
 ## Initial TODOs
 
 1. The informational selection, design, and production of "ECDO propaganda".
-2. Continued ECDO research in locating "safe spots".
-3. ECDO bunker design
-4. Mechanical durable bit storage computing paradigm design
+2. Continued ECDO research
+3. Pinpointing of "safe spots"
+4. ECDO bunker design
+5. Mechanical durable bit storage computing paradigm design
