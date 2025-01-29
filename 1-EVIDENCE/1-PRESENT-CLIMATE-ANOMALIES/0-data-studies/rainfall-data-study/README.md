@@ -203,7 +203,7 @@ So there's a PDF on what the columns mean. Data in CSV format, downloadable via 
 
 ## Initial mega verdict
 
-So back when I was calculating all the religions, not filtering out 0 values, from 2020 till 2020 at the least, over all the data, I got a median and average of around 8. But I think the zero calcs were weighing them down quite a bit. I would imagine most regions in the world get some rain, maybe 5% don't.
+So back when I was calculating all the regions, not filtering out 0 values, from 2020 till 2020 at the least, over all the data, I got a median and average of around 8. But I think the zero calcs were weighing them down quite a bit. I would imagine most regions in the world get some rain, maybe 5% don't.
 
 Anyways, if a rainfall increase really was happening, surely the regions already getting rain would also get more? So I wouldn't even need those 0 value anomalies.
 
