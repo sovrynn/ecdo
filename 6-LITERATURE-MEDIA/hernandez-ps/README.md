@@ -2,7 +2,7 @@
 
 ## AI Book Collection
 
-Have an AI summary of her book collection in this folder.
+Have an AI summary of her book collection of 1394 documents in this folder.
 
 ## Pyramid Research Paper
 
