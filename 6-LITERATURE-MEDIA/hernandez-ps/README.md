@@ -1,5 +1,11 @@
 # PS Hernandez
 
+## AI Book Collection
+
+Have an AI summary of her book collection in this folder.
+
+## Pyramid Research Paper
+
 Her ideas suggest potential ionospheric and/or core-mantle modulation applications for the pyramid design (what sprung to my mind upon reading it anyway).
 
 https://pshs04.wixsite.com/ph-s-stash/post/preliminary-theory-pyramidal-structures-as-functional-resonant-devices-through-geometric-mimicry-of
