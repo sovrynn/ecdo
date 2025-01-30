@@ -147,7 +147,7 @@ Caddo (Oklahoma, Arkansas), United States, North America
 Pawnee (Nebraska), United States, North America  
 40.8136634,-96.7025764
 Navajo (Four Corners area), United States, North America  
-28.3297393,-81.6318783
+36, -109
 Jicarilla Apache (northeastern New Mexico), United States, North America  
 36.9336211,-106.9989265
 Sia (northeast Arizona), United States, North America  
