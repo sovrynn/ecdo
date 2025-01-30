@@ -1,6 +1,6 @@
 # Rainfall data study
 
-There is a 100+ GB dataset of rainfall data from over 10,000 rainfall stations.
+There is a 100+ GB dataset of rainfall data from over 100,000 rainfall stations.
 
 First of all, I discarded all data that doesn't at least cover the timerange 2000-2020. Datasets ending before 2020 were discarded, as were datasets starting after 2000.
 
