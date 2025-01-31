@@ -20,52 +20,52 @@ for filename in os.listdir(data_directory):
     match = file_pattern.match(filename)
     if match:
         year = int(match.group(1))  # Extract year from filename
-        years.append(year)
         
         # Initialize a list to store values for the current year
-        values = [] 
+        values = []
         
         # Open and read the file line by line
         with open(os.path.join(data_directory, filename), 'r') as file:
             for line in file:
                 if line.startswith("#"):
                     continue  # Skip comment lines
-                # Extract characters 56-58, convert them to an integer
                 try:
-                    # 55:58 : cumulative Ap
+                    # Characters 55:58 contain the cumulative Ap
                     value = int(line[55:58])
-                    # 28:31 : Daily Kp sum 
-                    # value = int(line[28:31]) / 10
-                    
                     values.append(value)
                 except ValueError:
                     continue  # Skip lines with invalid data in these columns
         
-        # Calculate the average of values for the current file
+        # If we have valid values, compute the average
         if values:
             avg_value = np.mean(values)
+            years.append(year)
             averages.append(avg_value)
-            print(f"Year {year}: Average Value = {avg_value:.2f}")
 
 # Sort data by year
 sorted_indices = np.argsort(years)
 years = np.array(years)[sorted_indices]
 averages = np.array(averages)[sorted_indices]
 
-# Perform linear regression
+# Print the sorted results as "year average_value"
+for y, a in zip(years, averages):
+    print(f"{y} {a:.2f}")
+
+# Optionally, perform linear regression and plot
 slope, intercept, r_value, p_value, std_err = linregress(years, averages)
-print(f"Linear Regression: slope = {slope:.4f}, intercept = {intercept:.2f}, "
+
+print(f"\nLinear Regression:\n"
+      f"slope = {slope:.4f}, intercept = {intercept:.2f}, "
       f"r-value = {r_value:.2f}, p-value = {p_value:.4e}, std_err = {std_err:.4f}")
 
-# Plotting the timeseries and linear regression
+# Plotting
 plt.figure(figsize=(10, 6))
 plt.plot(years, averages, marker='o', linestyle='-', color='b', label='Yearly Average')
 plt.plot(years, intercept + slope * years, 'r--', label=f'Linear Fit (slope={slope:.4f})')
 
-# Customize plot
 plt.xlabel("Year")
-plt.ylabel("Yearly average of daily Ap average")
-plt.title("Ap: Yearly average of daily average")
+plt.ylabel("Yearly Average of Daily Ap")
+plt.title("Ap: Yearly Average of Daily Ap Index")
 plt.legend()
 plt.grid(True)
 
