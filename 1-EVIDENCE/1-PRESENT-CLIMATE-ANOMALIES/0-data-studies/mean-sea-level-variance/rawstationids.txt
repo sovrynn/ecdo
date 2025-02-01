@@ -1,0 +1,331 @@
+
+Map icon Alabama
+8735180 Dauphin Island, AL
+8735391 Dog River Bridge, AL
+8735523 East Fowl River Bridge, AL
+8736897 Coast Guard Sector Mobile, AL
+8737048 Mobile State Docks, AL
+8737138 Chickasaw Creek, AL
+8738043 West Fowl River Bridge, AL
+8739803 Bayou La Batre Bridge, AL
+Map icon Alaska
+9450460 Ketchikan, AK
+9451054 Port Alexander, AK
+9451600 Sitka, AK
+9452210 Juneau, AK
+9452400 Skagway, Taiya Inlet, AK
+9452634 Elfin Cove, AK
+9453220 Yakutat, Yakutat Bay, AK
+9454050 Cordova, AK
+9454240 Valdez, AK
+9455090 Seward, AK
+9455500 Seldovia, AK
+9455760 Nikiski, AK
+9455920 Anchorage, AK
+9457292 Kodiak Island, AK
+9457804 Alitak, AK
+9459450 Sand Point, AK
+9459881 King Cove, AK
+9461380 Adak Island, AK
+9461710 Atka, AK
+9462450 Nikolski, AK
+9462620 Unalaska, AK
+9463502 Port Moller, AK
+9464212 Village Cove, St Paul Island, AK
+9468333 Unalakleet, AK
+9468756 Nome, Norton Sound, AK
+9491094 Red Dog Dock, AK
+9497645 Prudhoe Bay, AK
+Map icon Bermuda
+2695535 Bermuda Biological Station, Bermuda
+2695540 Bermuda, St. Georges Island, Bermuda
+Map icon California
+9410170 San Diego, CA
+9410230 La Jolla, CA
+9410660 Los Angeles, CA
+9410840 Santa Monica, CA
+9411340 Santa Barbara, CA
+9412110 Port San Luis, CA
+9413450 Monterey, CA
+9414290 San Francisco, CA
+9414523 Redwood City, CA
+9414750 Alameda, CA
+9414863 Richmond, CA
+9415020 Point Reyes, CA
+9415102 Martinez-Amorco Pier, CA
+9415144 Port Chicago, CA
+9416841 Arena Cove, CA
+9418767 North Spit, CA
+9419750 Crescent City, CA
+Map icon Caribbean/Central America
+9751364 Christiansted Harbor, St Croix, VI
+9751381 Lameshur Bay, St John, VI
+9751401 Limetree Bay, VI
+9751639 Charlotte Amalie, VI
+9752235 Culebra, PR
+9752695 Esperanza, Vieques Island, PR
+9755371 San Juan, La Puntilla, San Juan Bay, PR
+9759110 Magueyes Island, PR
+9759394 Mayaguez, PR
+9759938 Mona Island, PR
+Map icon Connecticut
+8461490 New London, CT
+8465705 New Haven, CT
+8467150 Bridgeport, CT
+Map icon Delaware
+8551762 Delaware City, DE
+8551910 Reedy Point, DE
+8555889 Brandywine Shoal Light, DE
+8557380 Lewes, DE
+Map icon District of Columbia
+8594900 Washington, DC
+Map icon Florida
+8720030 Fernandina Beach, FL
+8720218 Mayport (Bar Pilots Dock), FL
+8720219 Dames Point, FL
+8720226 Southbank Riverwalk, St Johns River, FL
+8720357 I-295 Buckman Bridge, FL
+8721604 Trident Pier, Port Canaveral, FL
+8722670 Lake Worth Pier, Atlantic Ocean, FL
+8722956 South Port Everglades, FL
+8723214 Virginia Key, FL
+8723970 Vaca Key, Florida Bay, FL
+8724580 Key West, FL
+8725114 NAPLES BAY, NORTH, FL
+8725520 Fort Myers, FL
+8726384 Port Manatee, FL
+8726520 St. Petersburg, FL
+8726607 Old Port Tampa, FL
+8726674 East Bay, FL
+8726724 Clearwater Beach, FL
+8727520 Cedar Key, FL
+8728690 Apalachicola, FL
+8729108 Panama City, FL
+8729210 Panama City Beach, FL
+8729840 Pensacola, FL
+Map icon Georgia
+8670870 Fort Pulaski, GA
+8679598 Kings Bay MSF Pier, GA
+Map icon Great Lakes - Detroit River
+9044020 Gibraltar, MI
+9044030 Wyandotte, MI
+9044036 Fort Wayne, MI
+9044049 Windmill Point, MI
+Map icon Great Lakes - Lake Erie
+9063020 Buffalo, NY
+9063028 Sturgeon Point, NY
+9063038 Erie, Lake Erie, PA
+9063053 Fairport, OH
+9063063 Cleveland, OH
+9063079 Marblehead, OH
+9063085 Toledo, OH
+9063090 Fermi Power Plant, MI
+Map icon Great Lakes - Lake Huron
+9075002 Lakeport, MI
+9075014 Harbor Beach, MI
+9075035 Essexville, MI
+9075065 Alpena, MI
+9075080 Mackinaw City, MI
+9075099 De Tour Village, MI
+Map icon Great Lakes - Lake Michigan
+9087023 Ludington, MI
+9087031 Holland, MI
+9087044 Calumet Harbor, IL
+9087057 Milwaukee, WI
+9087068 Kewaunee, Lake Michigan, WI
+9087072 Sturgeon Bay Canal, WI
+9087077 Green Bay East, WI
+9087088 Menominee, MI
+9087096 Port Inland, MI
+Map icon Great Lakes - Lake Ontario
+9052000 Cape Vincent, NY
+9052030 Oswego, NY
+9052058 Rochester, NY
+9052076 Olcott, NY
+Map icon Great Lakes - Lake St. Clair
+9034052 St Clair Shores, MI
+Map icon Great Lakes - Lake Superior
+9099004 Point Iroquois, MI
+9099018 Marquette C.G., MI
+9099044 Ontonagon, MI
+9099064 Duluth, MN
+9099090 Grand Marais, Lake Superior, MN
+Map icon Great Lakes - Niagara River
+9063007 Ashland Ave, NY
+9063009 American Falls, NY
+9063012 Niagara Intake, NY
+Map icon Great Lakes - St. Clair River
+9014070 Algonac, MI
+9014080 St. Clair State Police, MI
+9014087 Dry Dock, MI
+9014090 Mouth of the Black River, MI
+9014098 Fort Gratiot, MI
+Map icon Great Lakes - St. Lawrence River
+8311030 Ogdensburg, NY
+8311062 Alexandria Bay, NY
+Map icon Great Lakes - St. Marys River
+9076024 Rock Cut, MI
+9076027 West Neebish Island, MI
+9076033 Little Rapids, MI
+9076060 U.S. Slip, MI
+9076070 S.W. Pier, St. Marys River, MI
+Map icon Hawaii
+1611400 Nawiliwili, HI
+1612340 Honolulu, HI
+1612401 Pearl Harbor, HI
+1612480 Mokuoloe, HI
+1615680 Kahului, Kahului Harbor, HI
+1617433 Kawaihae, HI
+1617760 Hilo, Hilo Bay, Kuhio Bay, HI
+Map icon Louisiana
+8760721 Pilottown, LA
+8760922 Pilots Station East, S.W. Pass, LA
+8761305 Shell Beach, LA
+8761724 Grand Isle, LA
+8761927 New Canal Station, LA
+8761955 Carrollton, LA
+8762075 Port Fourchon, Belle Pass, LA
+8762482 West Bank 1, Bayou Gauche, LA
+8764044 Berwick, Atchafalaya River, LA
+8764227 LAWMA, Amerada Pass, LA
+8764314 Eugene Island, North of, Atchafalaya Bay, LA
+8766072 Freshwater Canal Locks, LA
+8767816 Lake Charles, LA
+8767961 Bulk Terminal, LA
+8768094 Calcasieu Pass, LA
+Map icon Maine
+8410140 Eastport, ME
+8411060 Cutler Farris Wharf, ME
+8413320 Bar Harbor, ME
+8418150 Portland, ME
+8419870 Seavey Island, ME
+Map icon Maryland
+8570283 Ocean City Inlet, MD
+8571421 Bishops Head, MD
+8571892 Cambridge, MD
+8573364 Tolchester Beach, MD
+8573927 Chesapeake City, MD
+8574680 Baltimore, MD
+8575512 Annapolis, MD
+8577330 Solomons Island, MD
+Map icon Massachusetts
+8443970 Boston, MA
+8447386 Fall River, MA
+8447435 Chatham, MA
+8447636 New Bedford Harbor, MA
+8447930 Woods Hole, MA
+8449130 Nantucket Island, MA
+Map icon Mississippi
+8741533 Pascagoula NOAA Lab, MS
+8747437 Bay Waveland Yacht Club, MS
+Map icon New Jersey
+8531680 Sandy Hook, NJ
+8534720 Atlantic City, NJ
+8536110 Cape May, NJ
+8537121 Ship John Shoal, NJ
+8539094 Burlington, Delaware River, NJ
+Map icon New York
+8510560 Montauk, NY
+8516945 Kings Point, NY
+8518750 The Battery, NY
+8518962 Turkey Point, Hudson River NERRS, NY
+Map icon North Carolina
+8651370 Duck, NC
+8652587 Oregon Inlet Marina, NC
+8654467 USCG Station Hatteras, NC
+8656483 Beaufort, Duke Marine Lab, NC
+8658120 Wilmington, NC
+8658163 Wrightsville Beach, NC
+Map icon Oregon
+9431647 Port Orford, OR
+9432780 Charleston, OR
+9435380 South Beach, OR
+9437540 Garibaldi, OR
+9439040 Astoria, OR
+9439099 Wauna, OR
+9439201 St Helens, OR
+Map icon Pacific Islands
+1619910 Sand Island, Midway Islands, United States of America
+1630000 Apra Harbor, Guam, United States of America
+1631428 Pago Bay, Guam, United States of America
+1770000 Pago Pago, American Samoa, American Samoa
+1820000 Kwajalein, Marshall Islands, United States of America
+1890000 Wake Island, Pacific Ocean, United States of America
+Map icon Pennsylvania
+8540433 Marcus Hook, PA
+8545240 Philadelphia, PA
+8546252 Bridesburg, PA
+8548989 Newbold, PA
+Map icon Rhode Island
+8452660 Newport, RI
+8452944 Conimicut Light, RI
+8454000 Providence, RI
+8454049 Quonset Point, RI
+Map icon South Carolina
+8661070 Springmaid Pier, SC
+8665530 Charleston, SC
+Map icon Texas
+8770475 Port Arthur, TX
+8770520 Rainbow Bridge, TX
+8770613 Morgans Point, Barbours Cut, TX
+8770777 Manchester, TX
+8770808 High Island, TX
+8770822 Texas Point, Sabine Pass, TX
+8770971 Rollover Pass, TX
+8771013 Eagle Point, Galveston Bay, TX
+8771341 Galveston Bay Entrance, North Jetty, TX
+8771367 Sabine Offshore Light, TX
+8771450 Galveston Pier 21, TX
+8771486 Galveston Railroad Bridge, TX
+8771972 San Luis Pass, TX
+8772471 Freeport Harbor, TX
+8772985 Sargent, TX
+8773037 Seadrift, TX
+8773146 Matagorda City, TX
+8773259 Port Lavaca, TX
+8773701 Port O'Connor, TX
+8773767 Matagorda Bay Entrance Channel, TX
+8774230 Aransas Wildlife Refuge, TX
+8774770 Rockport, TX
+8775132 La Quinta Channel North, TX
+8775222 Viola Turning Basin, TX
+8775237 Port Aransas, TX
+8775241 Aransas, Aransas Pass, TX
+8775283 Enbridge, Ingleside, TX
+8775296 USS Lexington, Corpus Christi Bay, TX
+8775792 Packery Channel, TX
+8776139 S. Bird Island, TX
+8776604 Baffin Bay, TX
+8777812 Rincon Del San Jose, TX
+8778490 Port Mansfield, TX
+8779280 Realitos Peninsula, TX
+8779748 South Padre Island CG Station, TX
+8779749 SPI Brazos Santiago, TX
+8779770 Port Isabel, TX
+Map icon Virginia
+8631044 Wachapreague, VA
+8632200 Kiptopeke, VA
+8635027 Dahlgren, VA
+8635750 Lewisetta, VA
+8636580 Windmill Point, VA
+8637689 Yorktown USCG Training Center, VA
+8638610 Sewells Point, VA
+8638901 CBBT, Chesapeake Channel, VA
+8639348 Money Point, VA
+Map icon Washington
+9440083 Vancouver, WA
+9440357 TEMCO Kalama Terminal, WA
+9440422 Longview, WA
+9440569 Skamokawa, WA
+9440581 Cape Disappointment, WA
+9440910 Toke Point, WA
+9441102 Westport, WA
+9442396 La Push, Quillayute River, WA
+9443090 Neah Bay, WA
+9444090 Port Angeles, WA
+9444900 Port Townsend, WA
+9445958 Bremerton, WA
+9446484 Tacoma, WA
+9447130 Seattle, WA
+9449424 Cherry Point, WA
+9449880 Friday Harbor, WA

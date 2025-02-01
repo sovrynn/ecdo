@@ -133,6 +133,10 @@ I believe this data comes from a single local cluster of stations. In other word
 
 ![](img/9.webp)
 
+Verified from 63 stations.
+
+![](img/labeled.svg)
+
 ## Sea Surface Temperature Rise
 
 ![](img/18.webp)
@@ -166,5 +170,5 @@ Global annual rainfall. Note how most of the low rainfall areas (in blue/green) 
 
 One big pic comparing dessertification, precipitation, biodiversity and Scallion's inundation prediction.
 
-Hard copy of watermaps.jpeg here.
+Hard copy of watermaps.jpeg in img.
 
