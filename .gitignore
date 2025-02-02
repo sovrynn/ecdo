@@ -20,3 +20,4 @@ node_modules
 data-v0-all
 data-filtered-out
 rainfall-data-study
+rainfall-data-study/data*

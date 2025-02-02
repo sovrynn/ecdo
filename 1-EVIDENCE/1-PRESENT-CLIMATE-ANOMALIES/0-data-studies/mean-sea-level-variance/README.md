@@ -1,4 +1,9 @@
-DATA IS IN FOLDER `output-json`!!
+Workflow:
+- get the stations and their timeseries in a folder
+- generate the output jsons
+- use the regression script to get the cumulative values in console
+- convert the cumulative values by putting them in a text file and converting to csv
+- plug those csv values into some visualization tool
 
 # INTERANNUAL VARIATION UNITS
 
