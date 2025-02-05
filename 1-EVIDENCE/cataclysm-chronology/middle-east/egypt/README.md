@@ -8,9 +8,15 @@
 
 After him there came to the throne the priest of Hephaistos, whose name was Sethos. [4, 2.141]
 
-Sethos ruled from 1290 - 1279 BC.
+Sethos ruled around 700 BC. Later in his book, Herodotus says this:
+
+"After him there came to the throne the priest of Hephaistos, whose name was Sethos. This man, they said, neglected and held in no regard the warrior class of the Egyptians, considering that he would have no need of them; and besides other slights which he put upon them, he also took from them the yokes of corn-land which had been given to them as a special gift in the reigns of the former kings, twelve yokes to each man. After this, Sanacharib king of the Arabians and of the Assyrians marched a great host against Egypt. Then the warriors of the Egyptians refused to come to the rescue, and the priest, being driven into a strait, entered into the sanctuary of the temple and bewailed to the image of the god the danger which was impending over him; and as he was thus lamenting, sleep came upon him, and it seemed to him in his vision that the god came and stood by him and encouraged him, saying that he should suffer no evil if he went forth to meet the army of the Arabians; for he would himself send him helpers. Trusting in these things seen in sleep, he took with him, they said, those of the Egyptians who were willing to follow him, and encamped in Pelusion, for by this way the invasion came: and not one of the warrior class followed him, but shop-keepers and artisans and men of the market. Then after they came, there swarmed by night upon their enemies mice of the fields, and ate up their quivers and their bows, and moreover the handles of their shields, so that on the next day they fled, and being without defence of arms great numbers fell. And at the present time this king stands in the temple of Hephaistos in stone, holding upon his hand a mouse, and by letters inscribed he says these words: "Let him who looks upon me learn to fear the gods.""
+
+Sennacherib seems well dated to the late 8th, early 7th century BCE.
 
 Nice place to see the full account: http://losttrails.com/pages/Tales/Inquiries/Herodotus_13.html
+
+This is monolithic one: https://www.gutenberg.org/files/2131/2131-h/2131-h.htm
 
 ### Could this be shorter than 3 generations per 100 years?
 

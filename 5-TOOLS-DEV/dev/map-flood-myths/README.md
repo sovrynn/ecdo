@@ -22,9 +22,11 @@ Google API best for this I would think. Geocoding.
 
 # Step 3
 
-Simple python script.
+Simple python script. 2d map
 
 # Step 4
+
+Flood myths overlaid with rotation schema
 
 Copy paste + some finagling
 
