@@ -6,6 +6,18 @@
 
 https://earthobservatory.nasa.gov/images/84266/measuring-earths-magnetism
 
+## Great paper showing the SAA extent according to different historical global models
+
+https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2016.00040/full
+
+![](img/differing-history.png)
+
+## Developing two tips
+
+Recently this thing developed two tips
+
+https://vimeo.com/421674595
+
 ## Plotting the size of the SAA from 1590 - 2025
 
 ![](img/saa-plot.png)
