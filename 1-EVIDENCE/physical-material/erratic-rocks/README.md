@@ -2,6 +2,18 @@
 
 Often attributed to glaciers.
 
+## Seminal work on this
+
+IS this website: https://www.antarcticglaciers.org/glacial-geology/glacial-landforms/glacial-depositional-landforms/glacial-erratics/
+
+They even have a picture showing the directions of erratic rock flow in Scotland. I wonder how many of this kind of work have been done.
+
+![](img/scot_erratic.png)
+
+South UK erratic flow, same line, opposite direction: https://www.antarcticglaciers.org/glacial-geology/british-irish-ice-sheet/last-glacial-maximum/unlocking-ice-flow-pathways-using-stone-lithology/
+
+Clark paper https://www.sciencedirect.com/science/article/pii/S0277379113002485
+
 ## Jura Erratic Boulders
 
 Only water could have carried some of these behemoths over the Alps and deposited them 50-80 miles away.

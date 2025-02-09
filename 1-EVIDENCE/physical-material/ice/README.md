@@ -6,6 +6,24 @@ What the signals show is climate change (recorded in ice cores, tree rings, and 
 
 I just wonder how exactly the events would get recorded in the proxies if the flip is quick. I assume the longer-duration trend of exothermic core climate change leading up to the flip would be most prominently recorded, on top of a backdrop of the macro climate change trend.
 
+## Antarctic Ice Troughs
+
+Some great work done on this stuff
+
+https://www.antarcticglaciers.org/glacial-geology/glacial-landforms/glacial-depositional-landforms/mega-scale-glacial-lineations/
+
+## Glacial geomorphological mapping
+
+More great stuff from antarcticglaciers.org https://www.antarcticglaciers.org/glacial-geology/glacial-geomorphological-mapping/
+
+## Glaciofluvial landforms
+
+https://www.antarcticglaciers.org/glacial-geology/glacial-landforms/glaciofluvial-landforms/introduction-to-glaciofluvial-landforms/
+
+supraglacial hydrology https://www.antarcticglaciers.org/glaciers-and-climate/changing-greenland-ice-sheet/supraglacial-hydrology-of-the-greenland-ice-sheet/
+
+wow this is sick. These fellas are very close and personal with the ice
+
 ## Bond Events [2]
 
 "Bond events are North Atlantic ice rafting events that are tentatively linked to climate fluctuations in the Holocene. Eight such events have been identified. Bond events were previously believed to exhibit a roughly c. 1,500-year cycle, but the primary period of variability is now put at c. 1,000 years."
