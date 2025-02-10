@@ -15,6 +15,8 @@ https://classics.mit.edu/Plato/timaeus.html
 
 Apparently this was paraphrased by GPT from 22c-22d of Timaeus.
 
+Best website for Timaeus! https://topostext.org/work/552
+
 ## Politicus
 
 “At certain periods the universe has its present circular motion, and at other periods it revolves in the reverse direction. Of all the changes which take place in the heavens this reversal is the greatest and most complete. There is at that time great destruction of animals in general, and only a small part of the human race survives.” - Plato, Politicus (4th century BC)
