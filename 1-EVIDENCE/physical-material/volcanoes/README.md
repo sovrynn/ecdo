@@ -47,13 +47,6 @@ Before the last lava sheets spread over the Columbia Plateau there were human ab
 1. https://archive.org/details/EarthInUpheavalVelikovsky
 2. https://annas-archive.org/md5/1db6b83a3efd5299af60671561a5b515
 
-### Nampa Image
-
-![](img/nampa-image1.jpg)
-![](img/nampa-image2.jpg)
-
-https://m.youtube.com/watch?v=xWfff8f3-AQ
-
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

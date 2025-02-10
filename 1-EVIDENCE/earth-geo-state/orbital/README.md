@@ -2,6 +2,12 @@
 
 This folder is for ECDO evidence related to the orbit of the Earth.
 
+## True polar wander and supercontinents (hard copy here)
+
+A great paper!
+
+https://people.earth.yale.edu/sites/default/files/files/Evans/16_03c-TPW.pdf
+
 ## Length of day increasing over billion years
 
 The geo record indicates that the length of day (axial velocity) has quite steadily progressed from 16 hour days 2.5 billion years ago to 24 hour days now. An approximate 13% reduction in axial velocity per 1 billion years. Axial velocity is regulated by mass distribution. A broadening mass will incur slower rotation.
