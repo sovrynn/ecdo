@@ -12,6 +12,10 @@ Africanus dated Ogyges as a contemporary of Moses and the Exodus, and he dated O
 
 Exodus seems to be placed about 900 - 1100 years after Noah's Flood. See the folder about Noah's flood.
 
+## ANtiquities of the jews by Josephus
+
+![](img/antiquities.png)
+
 ## Africanus Dating
 
 Dates Exodus to approximately 1800 BC using Biblical chronology going back from Cyrus, anchored to Greek Olympiads, and also dates Ogyges to the same time.
