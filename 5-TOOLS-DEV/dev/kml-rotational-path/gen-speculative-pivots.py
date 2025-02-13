@@ -297,7 +297,7 @@ except ValueError:
     print("Warning: Not all values provided, using default values for the remaining parameters.")
 
 elat = 0
-elon = 40
+elon = 45
 wlat = 0
 wlon = -140
 

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <LineStyle id="5">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="8">
+            <LineStyle id="9">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="12">
+            <LineStyle id="13">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="16">
+            <LineStyle id="17">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="20">
+            <IconStyle id="21">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>20</scale>
+                <heading>0</heading>
+                <Icon id="22">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="3">
+            <styleUrl>#4</styleUrl>
+            <LineString id="2">
+                <coordinates>126,0,0.0 116,0,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7">
+            <styleUrl>#8</styleUrl>
+            <LineString id="6">
+                <coordinates>121,5,0.0 121,-5,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11">
+            <styleUrl>#12</styleUrl>
+            <LineString id="10">
+                <coordinates>-54,0,0.0 -64,0,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="15">
+            <styleUrl>#16</styleUrl>
+            <LineString id="14">
+                <coordinates>-59,5,0.0 -59,-5,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="19">
+            <name/>
+            <styleUrl>#20</styleUrl>
+            <Point id="18">
+                <coordinates>31.0,30.0,0.0</coordinates>
+            </Point>
+        </Placemark>
+    
+    <LookAt xmlns="http://www.opengis.net/kml/2.2">
+        <longitude>-45.0</longitude>
+        <latitude>0.0</latitude>
+        <altitude>0</altitude>
+        <heading>15</heading>
+        <tilt>30</tilt>
+        <range>12000000</range>
+    </LookAt>
+    </Document>
+</kml>
