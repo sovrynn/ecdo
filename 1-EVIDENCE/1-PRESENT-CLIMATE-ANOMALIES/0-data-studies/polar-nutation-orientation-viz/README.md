@@ -17,6 +17,8 @@ GPT says Positive Y is towards 90 east (Asia), negative is 90 west (about americ
 
 So the rotation is going towards West.
 
+You can confirm the output with the result from this paper: https://www.nature.com/articles/s41561-024-01478-2
+
 ## Units
 
 One arcsecond is about 30 meters. That's the unit in the viz. So a quarter arcsecond is about 7.25 meters.
