@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/Polar_motion
 
 ## Paper: Contributions of core, mantle and climatological processes to Earth’s polar motion [1] (hard copy here)
 
-Potentially relevant paper.
+Potentially relevant paper. https://www.nature.com/articles/s41561-024-01478-2
 
 By separately analyzing the various influences and harmonics in the Earth's axial wobble, they were able to construct a fairly good predictive model, which was validated by training it on the first part of the measured data and then checking its predictive power against the later portion of the known data. The visual illustrates how the measured polar motion drift has been progressing perpendicular to the ECDO moment of inertia, which is illustrated on the below chart from the paper:
 
