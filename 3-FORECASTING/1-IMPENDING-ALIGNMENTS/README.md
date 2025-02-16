@@ -67,6 +67,10 @@ Encke's visit in 2030 coincides almost to the day with a rare moment during whic
 
 ![](img/1799105814235660707-GPe1A9qXcAASHB1.png)
 
+## Historical alignments
+
+![](img/alignments.jpeg)
+
 ## Citations
 
 1. [Craig Stone](https://nobulart.com)

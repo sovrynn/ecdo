@@ -22,6 +22,7 @@ I personally think we may have decoupled in 1952, when the north pole wander abr
 
 - Amallula: Mentions Yellowstone (which erupted in 2024)
 - Scallion (Gordon Michael): the simultaneous eruption of two volcanoes
+	- Quoting Edgar Cayce: Cayce predicted that when both Mt. Etna volcano in Italy and Mt. Pelee in Martinique erupt together, there will be approximately 90 days to evacuate the west coast before the massive flood claims the coastline.
 - Senecae: The alignment of planets in a certain position
 	- He contends that the earth will burn when all the stars that now pursue separate paths converge in the constellation of Cancer and line up under one another so that it is possible for a straight line to extend upwards through their orbs. The future flood will occur when the same grouping of stars occurs in Capricorn.
 
