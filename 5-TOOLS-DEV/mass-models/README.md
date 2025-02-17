@@ -2,7 +2,33 @@
 
 For rotational sims.
 
-# 3D Mass Models of Earth's Inner Layers
+# Basic rotation sim applications
+
+To model an object with three distinct principal moments of inertia rotating in 3D space, you’ll need a physics simulation or computational modeling software that supports rigid body dynamics. Here are some good options:
+
+### 1. Physics Simulation & Numerical Computing:
+- **MATLAB/Simulink** – You can use MATLAB’s ODE solvers (e.g., `ode45`) to solve Euler’s equations of motion for a rotating rigid body.
+- **Python (SciPy, NumPy, SymPy, Matplotlib, VPython)** – SciPy’s `odeint` function can solve the Euler equations, and Matplotlib/VPython can visualize the motion.
+- **Wolfram Mathematica** – Has built-in solvers for differential equations and supports symbolic computation for inertia tensor calculations.
+
+### 2. Engineering & Multibody Dynamics Software:
+- **ANSYS Mechanical** – Used for rigid/flexible body dynamics and can model rotational inertia effects.
+- **MSC Adams** – A powerful multibody dynamics simulation tool.
+- **COMSOL Multiphysics** – Can simulate rigid body motion with inertia effects.
+
+### 3. Game Engines with Physics Engines:
+- **Unity (with PhysX)** – Can model rigid body rotation and inertia effects in 3D.
+- **Unreal Engine (with Chaos Physics)** – Supports complex physics-based simulations.
+- **Blender (with Bullet Physics)** – Can be used for visualization and physics-based animations.
+
+### 4. Specialized Physics Simulators:
+- **Open Dynamics Engine (ODE)** – Open-source physics engine for simulating rigid body dynamics.
+- **Bullet Physics** – Used in games, robotics, and physics simulations.
+
+### 5. Custom Code Implementation:
+If you want to solve the **Euler equations of motion** for an asymmetric rigid body numerically, you could write your own **Runge-Kutta** or **symplectic integrator** solver in Python, MATLAB, or C++.
+
+# 3D Mass Models of Earth's Inner Layers (for a complete rotation sim)
 
 There are several 3D mass models of Earth's inner layers, including the crust, mantle, outer core, and inner core. These models are used in geophysics, seismology, and planetary science to study Earth's internal structure, density variations, and geodynamic processes.
 
