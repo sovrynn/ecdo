@@ -2,6 +2,15 @@
 
 This folder is for ECDO evidence related to the orbit of the Earth.
 
+## Interpreting APW visuals
+
+![](img/apw1.png)
+![](img/apw2.png)
+
+https://www.youtube.com/watch?v=_D_EkDHKH3E
+
+5:52
+
 ## True polar wander and supercontinents (hard copy here)
 
 A great paper! Hard copy here.
