@@ -2,6 +2,8 @@
 
 This folder is for ECDO evidence related to the orbit of the Earth.
 
+TPW also referred to as "mean rotational pole".
+
 ## Interpreting APW visuals
 
 ![](img/apw1.png)

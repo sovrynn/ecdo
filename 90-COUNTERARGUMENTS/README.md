@@ -9,7 +9,7 @@
 - not yet clear on the exact mechanism driving S1 -> S2 -> S1. Why is it so binary? Rotational changes should be more uniform and less quantized
 - why do women not have the genetic bottleneck?
 
-## Egypt
+## Egypt's seeminngly conflicting evidence
 
 So what I don't understand here is this account 
 
@@ -33,4 +33,12 @@ served is reckoned to be most ancient
 
 This doesn't line up with the elevated erosion lines on the Khufu pyramid at first sight, which suggest violent submersion of Egypt
 
+Finally you have that account of 2 flip-n-back sequences occuring in 341 generations of men, coupled with Plato's account of "many deluges since Atlantis"
+
+What could make Egypt and Europe have such dramatically different experiences of the flip?
+
 Finally you have China's Nuwa and Gun-Yu sequence. In Nuwa the land is mentioned as tilting to the southeast and the sky to the northwest, and in the Gun-Yu event, it isn't specified
+
+## A physical gyroscopic "proof"
+
+One of the things that's sorely missing is an actual physics model that can explain a stably rotating Earth flipping 104 degrees! (due to new inertial axes) and then rotating to a new, stable, temporary position before going back to the original state
