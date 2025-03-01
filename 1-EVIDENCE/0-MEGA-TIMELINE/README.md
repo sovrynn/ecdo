@@ -72,6 +72,11 @@ Historical continuity of significant continued human activity without a recorded
 
 Nobulart's planetary harmonic and cataclysm chronology timeline in `timeline.xls`.
 
+## Regarding dating anomalies [2]
+
+![](img/alt-timeline.jpg)
+![](alt2.jpg)
+
 ## Citations
 
 1. https://en.wikipedia.org/wiki/4th_century_BC

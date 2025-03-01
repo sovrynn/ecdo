@@ -204,6 +204,10 @@ This screams deluge from the north not lowland hugging glaciers but you can't co
 ![](img/moreton1.jpg)
 ![](img/moreton2.jpg)
 
+## Karst erosion formations
+
+There are 2 spectacular karst erosion formations in Yorkshire called Brimham Rocks and Bridestones. Both are about at the exact elevation above sea level as the Khafre karst erosion!
+
 ## Citations
 
 1. https://en.m.wikipedia.org/wiki/File:Old_Boundary_Marker_by_Blakey_Ridge,_Farndale_East_Parish_-_geograph.org.uk_-_6038888.jpg

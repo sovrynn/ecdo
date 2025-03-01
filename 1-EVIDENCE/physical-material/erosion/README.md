@@ -115,6 +115,10 @@ Those were probably created from huge water erosion right?
 
 ![](img/photo_5881@07-11-2024_17-15-00.jpg)
 
+## Great Canyon of the Pacific in Hawaii
+
+Like the Grand Canyon
+
 ## Citations
 
 1. https://nobulart.com

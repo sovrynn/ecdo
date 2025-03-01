@@ -148,3 +148,6 @@ Interesting name and architecture. Much like the recently allegedly roasted Roth
 
 Merkaba . As above so below.
 
+## "How Billionaires Are Taking Over THIS Mountain Range"
+
+https://www.youtube.com/watch?v=4ENdX6wmb8A

@@ -75,3 +75,8 @@ can see dengue fever at the start of that chart at solar max
 Excellent article published in the New Yorker in 2019 detailing the findings, implications and story behind the DePalma Chicxulub paper. Plenty of stunning photos of their findings. https://t.co/rh3zGx86Me https://t.co/llKM2yWaGe https://t.co/isqhWpfQMK
 
 ![](img/1804829676411539470-GQwKv0uW0AAU68c.png)
+
+## Coral reefs in arctic regions
+
+![](img/coral1.jpg)
+![](img/coral2.jpg)
