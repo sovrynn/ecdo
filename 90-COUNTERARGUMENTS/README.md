@@ -1,5 +1,11 @@
 # Counterarguments
 
+Key counterarguments:
+- fossil record and conventional geological timescale
+- lack of precise physical explanation for quantized S1/S2 proposed per ECDO theory
+
+## Overview
+
 - SAA Qs:
 	- SAA model overfit
 	- why can SAA extent be used as a proxy for the flip?
@@ -42,3 +48,13 @@ Finally you have China's Nuwa and Gun-Yu sequence. In Nuwa the land is mentioned
 ## A physical gyroscopic "proof"
 
 One of the things that's sorely missing is an actual physics model that can explain a stably rotating Earth flipping 104 degrees! (due to new inertial axes) and then rotating to a new, stable, temporary position before going back to the original state
+
+## Conventional geological timescales; fossil record
+
+ECDO implies a lot of these layers typically ascribed to millions of years old may have been laid down recently and thus the fossil record would be much more compressed and humans may also be assumed to have been alive during the creation of all those layers.
+
+However human fossils are not found in the older layers and only in recent layers
+
+https://thenaturalhistorian.com/2018/09/04/a-young-earth-mystery-if-dinosaurs-and-humans-lived-together-before-the-flood-where-are-the-fossils/
+
+![](img/fossil.png)
