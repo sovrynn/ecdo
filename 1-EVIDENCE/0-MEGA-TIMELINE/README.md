@@ -75,7 +75,7 @@ Nobulart's planetary harmonic and cataclysm chronology timeline in `timeline.xls
 ## Regarding dating anomalies [2]
 
 ![](img/alt-timeline.jpg)
-![](alt2.jpg)
+![](img/alt2.jpg)
 
 ## Citations
 
