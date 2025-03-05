@@ -5,12 +5,14 @@
 ### CPU-based:
 - Splishsplash: https://github.com/InteractiveComputerGraphics/SPlisHSPlasH
 - MESHFREE: https://www.meshfree.eu/
+- OpenFOAM
 
 ### GPU based:
 
-Nvidia GDB Voxels:
-- Fast Fluid Simulations with Sparse Volumes on the GPU: https://people.csail.mit.edu/kuiwu/gvdb_sim.html
-- Source: https://developer.nvidia.com/gvdb
+- Nvidia GDB Voxels:
+	- Fast Fluid Simulations with Sparse Volumes on the GPU: https://people.csail.mit.edu/kuiwu/gvdb_sim.html
+	- Source: https://developer.nvidia.com/gvdb
+- Genesis AI
 
 ## Steven Ward simulations
 
