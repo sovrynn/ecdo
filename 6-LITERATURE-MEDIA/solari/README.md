@@ -4,6 +4,8 @@ Richard Dolan, Richard Sauder
 
 Great Interview on the underground bases: https://library.solari.com/whats-up-underground-with-richard-dolan/
 
+Richard Dolan seems to do great work, mainly on UFOs. Richard Dolan Press.
+
 ## What's Up Underground? With Richard Dolan
 
 (This one is really good!) What's Up Underground? with Richard Dolan: https://library.solari.com/whats-up-underground-with-richard-dolan/
@@ -26,3 +28,5 @@ Numerous accounts of purported aliens and UFOs underground and underwater.
 Maybe it's foolish to assume they would be on the surface of the planet.
 
 In this hypothetical scenario, perhaps the humans want to keep it under wraps from the aliens.
+
+Likely just humans of course...
