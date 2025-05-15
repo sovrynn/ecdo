@@ -16,6 +16,42 @@ I read through this and it is more far-fetched. Talk into "Ahloo" and reptilian 
 
 Additional letter (Mar 2010): https://projectcamelotportal.com/2010/03/19/the-anglo-saxon-mission-timeline-letter-3/
 
+# Video Description
+
+In January 2010, Project Camelot received 11 pages of information from an insider who was physically present at a meeting of Senior Masons in the City of London in 2005. What was discussed is chilling to the bone.
+
+What our source reports is this:
+
+There is a planned Third World War, which will be nuclear and biological. Our source believes that this is on track to be initiated within the next 18-24 months.
+
+It is planned to begin with a strike by Israel on Iran. Either Iran or China will be provoked into a nuclear response. After a brief nuclear exchange, there will be a ceasefire. The world will be thrown into fear and chaos - all carefully engineered.
+
+The extreme state of tension will be used to justify heavy social and military controls in all western first world nations. Plans are already in place for that.
+
+During the nuclear ceasefire, there is planned to be a covert release of biological weapons. These will initially be targeted against the Chinese. As our source chillingly told us, "China will catch a cold". Biological warfare will spread further, to the west. Infrastructure will be critically weakened.
+
+This is intended to be just the beginning. After this, a full nuclear exchange would be triggered: the "real" war, with widespread destruction and loss of life. Our source tells us that the planned population reduction through these combined means is 50%. He heard this figure stated in the meeting.
+
+This horrific scenario has been planned for generations. The first two world wars were part of the set-up for this final apocalypse - as is the centralization of financial resources that was precipitated with the equally well-planned financial collapse of October 2008.
+
+As if all this were not enough, our source speculates this is all set against the backdrop of a coming "geophysical event" - the same kind of event as was experienced by our ancestors approximately 11,500 years ago. If this event occurs - not necessarily expected in 2012, but sometime in the next decade - it would destroy civilization as we know it, dwarfing even the effects of a nuclear war.
+
+I asked the question to our source: If there's an expected catastrophe, then why initiate a Third World War? His answer, for the first time to me, made terrible sense.
+
+The real goal, he explained, is to set up the post-catastrophic world. To ensure that this "New World" [note the term] is the one the controllers want, totalitarian control structures need to be in place when the catastrophe occurs - with an excuse that the populace will accept and demand them. Martial law in the right, carefully chosen countries before the catastrophe occurs will enable the "right" people to survive and prosper in the post-catastrophic world, and the beginning of the next 11,500 year cycle. What may have been carefully planned on a covert global scale, for the last several generations, is nothing less than who will inherit the Earth.
+
+Who are the "right" people? The white Caucasians. This may be why the name of this project is The Anglo-Saxon Mission. Hence the justification for the planned genocide of the Chinese people - so that the New World is inherited by "us", not "them".
+
+Our source was not informed about the planned fate of the second and third world countries such as those in South America, Africa and Asia. But he presumes that these would be allowed to fend for themselves and probably not survive well - or maybe not at all. The totalitarian military governments of the western, white, people are set to be the inheritors.
+
+This is a plan so evil, so racist, so diabolical, so huge, that it almost defies belief. But it all aligns with what many commentators, researchers and whistleblowing insiders have been identifying for some years now. For me personally, it's the clearest picture yet of why the world is the way it is, and why the secrets are protected so fiercely: it may be all about racial supremacy. The Fourth Reich is alive and well.
+
+Astonishingly, our source was not pessimistic. He stressed, as do we and many others, that consciousness is awakening rapidly all over the planet and that THESE PLANNED EVENTS ARE NOT INEVITABLE. If ever there was a reason to work closely together to raise awareness of the real threat to us all, this is it.
+
+Watch this video, listen carefully to the strong message of hope and encouragement, and spread it far and wide. We stand for the potential magnificence of a united humanity that knows no racial boundaries or distinctions. Whether or not the catastrophe occurs - and many, including ourselves, maintain that it will not - we must co-create our own future, claim our power, and do whatever we can to alert people to the dangers around us... so that we can be stronger together, for the sake of our descendants and for the heritage of all living beings on Planet Earth.
+
+https://projectavalon.net/lang/en/anglo_saxon_mission_en.html
+
 # Anglo Saxon Mission Interview Transcript
 
 BILL RYAN (B): I want to thank you for coming forward with what was immediately clear to me, once I'd read your written debrief, that you have some highly significant information that needs to be shared. And it's our job at Project Camelot to assist you in reaching people who are aware enough to understand what you're saying, why it's important, and to put it in perspective with other information that they may have.
