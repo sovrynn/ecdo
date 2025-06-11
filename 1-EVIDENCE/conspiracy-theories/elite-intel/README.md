@@ -1,8 +1,8 @@
 # Elite Intel
 
-## Lue Elizondo
+## Luis Elizondo
 
-Three quite sobering video clips in this thread. See videos in `img/`.
+Three quite sobering video clips in this thread. See videos in `clips/`.
 
 https://x.com/omapproach/status/1835643206299492774?s=46
 

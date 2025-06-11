@@ -18,6 +18,20 @@ The effect of all this was the accumulation of anything between three and seven 
 
 Our work, of course, continues - and the opportunity is that the two sites which now replace one, in addition to the archived library, will do even more to spread important information that people need to hear and understand, while permitting both Kerry and myself to focus on aspects of our mission that strongly resonate with each of us.
 
+## Norway
+
+Letter from Norweigan politician: https://projectcamelot.org/norway.html
+
+Shocker!
+
+18 underground bases
+
+Half will die
+
+Vacuum tube underground trains
+
+Aliens? Crystal technology?
+
 ## Barcelona Exopolitics Congress, Mars?
 
 https://projectcamelot.org/barcelona_23-26_July_2009.html#Bob_Dean
