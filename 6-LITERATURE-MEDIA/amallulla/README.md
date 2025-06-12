@@ -1,4 +1,4 @@
-An old cataclysm website with snapshots on the wayback machine saved in 2021/22. Not accessible otherwise anymore.
+An old cataclysm website with snapshots on the wayback machine saved in 2021/22. Not accessible otherwise anymore. https://web.archive.org/web/20220801000000*/amallulla.com
 
 Old link was amallulla.com
 
