@@ -1,5 +1,7 @@
 # Mario Buildreps
 
+Expanding Earth theory: https://www.mariobuildreps.com/growing-earth-model/
+
 ## Pole Age
 
 ![](img/photo_5810@01-11-2024_17-21-21.jpg)
