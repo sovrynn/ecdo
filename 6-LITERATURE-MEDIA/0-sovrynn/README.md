@@ -8,6 +8,10 @@ I have scripts (compile.sh) for compiling the PDFs from the .tex files.
 
 All necessary image, bibliography, and Latex files are in the folders. You just need to install all the necessary latex libraries.
 
+Requests for those who use my research paper transcripts:
+- Keep me as sole author (if you do not add more information)
+- Send me your translated .tex transcript so I can use it too (You can send it to junhobtc@proton.me)
+
 ## Graphics
 
 ![](img/overlaid.png)
