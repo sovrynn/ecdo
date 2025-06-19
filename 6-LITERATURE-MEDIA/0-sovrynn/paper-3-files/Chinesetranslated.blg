@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Chinesetranslated.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "3" isn't style-file defined
+--line 20 of file egbib.bib
+You're missing a field name---line 217 of file egbib.bib
+ :   address      = {Kempton, Pennsylvania},   
+ :                                             % typical HQ location, adjust if needed
+I'm skipping whatever remains of this entry
+Warning--empty year in 31
+Warning--empty year in 28
+Warning--empty year in 22
+Warning--empty year in 27
+Warning--empty year in 35
+You've used 36 entries,
+            2120 wiz_defined-function locations,
+            654 strings with 8572 characters,
+and the built_in function-call counts, 7859 in all, are:
+= -- 772
+> -- 264
+< -- 0
++ -- 114
+- -- 76
+* -- 282
+:= -- 1353
+add.period$ -- 137
+call.type$ -- 36
+change.case$ -- 144
+chr.to.int$ -- 0
+cite$ -- 41
+duplicate$ -- 272
+empty$ -- 768
+format.name$ -- 76
+if$ -- 1693
+int.to.chr$ -- 0
+int.to.str$ -- 36
+missing$ -- 7
+newline$ -- 212
+num.names$ -- 72
+pop$ -- 283
+preamble$ -- 1
+purify$ -- 110
+quote$ -- 0
+skip$ -- 221
+stack$ -- 0
+substring$ -- 182
+swap$ -- 36
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 142
+warning$ -- 5
+while$ -- 72
+width$ -- 38
+write$ -- 414
+(There was 1 error message)
