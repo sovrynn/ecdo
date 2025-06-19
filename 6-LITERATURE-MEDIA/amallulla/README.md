@@ -1,14 +1,18 @@
+# Amallulla
+
+A beautiful thesis and surely a wonderful person.
+
 An old cataclysm website with snapshots on the wayback machine saved in 2021/22. Not accessible otherwise anymore. https://web.archive.org/web/20220801000000*/amallulla.com
 
 Old link was amallulla.com
 
-Some hard copies of his articles in here.
+Various parts of his website are saved here, including hard copies of various pages.
 
 Video of his is hosted on Nobulart's website: https://nobulart.com/musica-vitae-et-mortis/
 
-There are 39 snapshots saved on the wayback machine, I've saved some of them here...
+There are 39 snapshots saved on the wayback machine, I haven't gone through all of them, but some are here.
 
-# Notes on the site snapshots
+# Notes on (some of) the site snapshots
 
 - 211126: the first snapshot, esoteric symbolism
 - 220121: An index of his master theory
@@ -29,3 +33,11 @@ This compromises chapters 8-13 in the master theory index:
 - No. 13. Jesuits and the Black Pope
 
 I am having trouble loading number 8 and 13 while the rest load fine, which indicates these may have been taken down.
+
+# The Five Fundamental Principles of an Apocalyptic Synthesis
+
+1. Catastrophism
+2. Everything is one thing
+3. All is number
+4. The mathematically insane
+5. Mind-boggling, multigenerational planning
