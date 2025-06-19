@@ -114,3 +114,9 @@ https://x.com/WallStreetApes/status/1865478293861921098
 Some more on the Springfield Underground. Stockpiling food. 
 [1] https://www.ozarksfirst.com/news/the-springfield-underground-what-exactly-is-down-there/
 [2] https://en.wikipedia.org/wiki/SubTropolis
+
+## Norway
+
+https://www.bbc.com/future/article/20250328-why-norway-is-restoring-its-cold-war-military-bunkers
+
+PDF here.
