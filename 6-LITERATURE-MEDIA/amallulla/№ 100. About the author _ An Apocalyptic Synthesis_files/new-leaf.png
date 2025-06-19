@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+<title>Debugging SEO Redirection</title>
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="/cdn-cgi/apps/head/7hlHGffVeQ8D5j9qRfpkRf0jjnc.js"></script><style type="text/css">
+		a {
+			color: #3a3aea;
+			text-decoration: none;
+		}
+		.rank-math-redrection-debug {
+			width: 540px;
+			margin: 0 auto;
+			padding: 14px 16px;
+			margin-top: 20px;
+			border: 2px solid #f8dd91;
+			background: #fef7e6;
+			color: #343434;
+			font-family: Arial;
+			text-align: center;
+		}
+
+		.rank-math-redirection-loading-animation {
+			margin-bottom: 8px;
+		}
+
+		.rank-math-redirection-loading-timer {
+			display: inline-block;
+			margin-top: 0;
+			vertical-align: 12px;
+			margin-left: 14px;
+		}
+		.redirection-timer {
+			display: inline-block;
+			margin: 6px 10px 0 0;
+		}
+		code {
+			font-family: Consolas, Monaco, monospace;
+			unicode-bidi: embed;
+			padding: 3px 5px 2px 5px;
+			margin: 0 1px;
+			background-color: #f7f7f9;
+			border: 1px solid #e1e1e8;
+			font-size: 13px;
+			color: #d72b3f;
+		}
+
+		code a {
+			color: #d72b3f;
+		}
+		.rank-math-redirection-debug-info {
+			font-size: 13px;
+			font-style: italic;
+			font-family: Consolas, Monaco, monospace;
+			color: #000;
+		}
+	</style>
+</head>
+<body>
+<div class="rank-math-redrection-debug">
+<h1>Redirection Debugger</h1>
+<p>
+Redirecting from <code>/wp-content/uploads/2020/12/new-leaf.png</code>
+To <code><a href="https://amallulla.com/sitemap/">https://amallulla.com/sitemap/</a></code>
+</p>
+<div class="rank-math-redirection-loading-animation">
+<img src="https://amallulla.com/wp-content/plugins/seo-by-rank-math/assets/admin/img/loader.svg">
+</div>
+<div class="rank-math-redirection-loading-timer">
+<span class="redirection-timer">Redirecting in <span id="redirection-timer-counter">5</span> seconds...</span><br />
+<a href="#" class="button button-secondary" id="rank-math-cancel-redirection">Stop Redirection</a>
+</div>
+<div class="rank-math-redirect-debug-continue" style="display: none;">
+<a href="https://amallulla.com/sitemap/">Continue redirecting</a>
+</div>
+<p>
+<a target="_blank" href="https://amallulla.com/wp-admin/admin.php?page=rank-math-redirections">Manage All Redirections</a>
+</p>
+<p class="rank-math-redirection-debug-info">
+<strong>Note:</strong> This interstitial page is displayed only to administrators. Site visitors are redirected without delay. </p>
+</div>
+<div id="csf-modal-icon" class="csf-modal csf-modal-icon">
+<div class="csf-modal-table">
+<div class="csf-modal-table-cell">
+<div class="csf-modal-overlay"></div>
+<div class="csf-modal-inner">
+<div class="csf-modal-title">
+Add Icon <div class="csf-modal-close csf-icon-close"></div>
+</div>
+<div class="csf-modal-header csf-text-center">
+<input type="text" placeholder="Search a Icon..." class="csf-icon-search" />
+</div>
+<div class="csf-modal-content">
+<div class="csf-modal-loading"><div class="csf-loading"></div></div>
+<div class="csf-modal-load"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+			;(function($) {
+				$( '.wp-helpers-notice.is-dismissible' ).on( 'click', '.notice-dismiss', function() {
+					var notice = $( this ).parent()
+
+					$.ajax({
+						url: ajaxurl,
+						type: 'POST',
+						dataType: 'json',
+						data: {
+							action: 'wp_helpers_notice_dismissible',
+							security: notice.data( 'security' ),
+							notificationId: notice.attr( 'id' )
+						}
+					});
+				});
+			})(jQuery);
+		</script>
+<div id="countdown-builder-deactivation-survey-popup-container" class="countdown-builder-deactivation-survey-popup-container is-dismissible" style="display: none;">
+<div class="countdown-builder-deactivation-survey-popup-overlay"></div>
+<div class="countdown-builder-deactivation-survey-popup-tbl">
+<div class="countdown-builder-deactivation-survey-popup-cel">
+<div class="countdown-builder-deactivation-survey-popup-content">
+<div class="countdown-builder-deactivation-survey-header">
+<span class="countdown-builder-uninstall-header-title">Quick Feedback</span>
+</div>
+<div class="countdown-builder-deactivation-survey-content">
+<form class="countdown-builder-deactivation-survey-content-form">
+<p class="countdown-builder-deactivation-survey-content-p">If you have a moment, please share why you are deactivating Countdown Builder:</p>
+<div class="countdown-builder-deactivation-survey-choises-wrapper">
+<div class="countdown-builder-deactivate-feedback-dialog-input-wrapper">
+<input id="countdown-builder-deactivate-feedback-no_longer_needed" class="countdown-builder-deactivate-feedback-dialog-input" type="radio" name="countdown-builder_reason_key" value="no_longer_needed"><label for="countdown-builder-deactivate-feedback-no_longer_needed" class="countdown-builder-deactivate-feedback-dialog-label">I no longer need the plugin</label></div>
+<div class="countdown-builder-deactivate-feedback-dialog-input-wrapper">
+<input id="countdown-builder-deactivate-feedback-found_a_better_plugin" class="countdown-builder-deactivate-feedback-dialog-input" type="radio" name="countdown-builder_reason_key" value="found_a_better_plugin">
+<label for="countdown-builder-deactivate-feedback-found_a_better_plugin" class="countdown-builder-deactivate-feedback-dialog-label">I found a better plugin</label>
+<input class="countdown-builder-feedback-text countdown-builder-survey-sub-choice" type="text" name="countdown-builder_reason_found_a_better_plugin" placeholder="Please share which plugin">
+</div>
+<div class="countdown-builder-deactivate-feedback-dialog-input-wrapper">
+<input id="countdown-builder-deactivate-feedback-couldnt_get_the_plugin_to_work" class="countdown-builder-deactivate-feedback-dialog-input" type="radio" name="countdown-builder_reason_key" value="couldnt_get_the_plugin_to_work">
+<label for="countdown-builder-deactivate-feedback-couldnt_get_the_plugin_to_work" class="countdown-builder-deactivate-feedback-dialog-label">I couldn't get the plugin to work</label>
+<div class="countdown-builder-feedback-text countdown-builder-survey-sub-choice">
+Write Support here <a href="https://wordpress.org/support/plugin/countdown-builder/" target="_blank">
+<button type="button" id="ycd-report-problem-button" class="ycd-deactivate-button-red pull-right">
+<i class="glyphicon glyphicon-alert"></i>Report issue
+</button>
+</a>
+</div>
+</div>
+<div class="countdown-builder-deactivate-feedback-dialog-input-wrapper">
+<input id="countdown-builder-deactivate-feedback-temporary_deactivation" class="countdown-builder-deactivate-feedback-dialog-input" type="radio" name="countdown-builder_reason_key" value="temporary_deactivation">
+<label for="countdown-builder-deactivate-feedback-temporary_deactivation" class="countdown-builder-deactivate-feedback-dialog-label">It's a temporary deactivation</label>
+</div>
+<div class="countdown-builder-deactivate-feedback-dialog-input-wrapper">
+<input id="countdown-builder-deactivate-feedback-other" class="countdown-builder-deactivate-feedback-dialog-input" type="radio" name="countdown-builder_reason_key" value="other">
+<label for="countdown-builder-deactivate-feedback-other" class="countdown-builder-deactivate-feedback-dialog-label">Other</label>
+<input class="countdown-builder-feedback-text countdown-builder-survey-sub-choice" type="text" name="countdown-builder_reason_other" placeholder="Please share the reason">
+</div>
+</div>
+</div>
+<div class="countdown-builder-deactivation-survey-footer">
+<div class="dialog-buttons-wrapper dialog-lightbox-buttons-wrapper">
+<button class="countdown-builder-survey-btn countdown-builder-survey-submit">Submit &amp; Deactivate</button>
+<button class="countdown-builder-survey-btn countdown-builder-survey-skip">Skip &amp; Deactivate</button></div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<link rel='stylesheet' id='wp-block-library-css' href='https://amallulla.com/wp-content/plugins/gutenberg/build/block-library/style.css?ver=12.5.1' media='all' />
+<link rel='stylesheet' id='before-deactivate-countdown-css-css' href='https://amallulla.com/wp-content/plugins/countdown-builder/assets/css/admin/deactivationSurvey.css?ver=5.9' media='all' />
+<script src='https://amallulla.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='https://amallulla.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script id='before-deactivate-countdown-js-js-extra'>
+var COUNTDOWN_DEACTIVATE_ARGS = {"nonce":"f8d6597b61","areYouSure":"Are you sure?"};
+</script>
+<script src='https://amallulla.com/wp-content/plugins/countdown-builder/assets/js/admin/deactivationSurvey.js?ver=5.9' id='before-deactivate-countdown-js-js'></script>
+<script type="text/javascript">
+		jQuery(document).ready(function( $ ) {
+
+			var redirectTimer = 5,
+				stopRedirection = false;
+
+			var updateTimer = function() {
+				if ( stopRedirection ) {
+					return;
+				}
+
+				redirectTimer--;
+				if ( redirectTimer > 1) {
+					$( '#redirection-timer-counter' ).text( redirectTimer );
+					setTimeout( updateTimer, 1000 );
+				} else {
+					$( '#redirection-timer-counter' ).text( redirectTimer );
+					window.location.href = 'https://amallulla.com/sitemap/';
+				}
+			}
+
+			var cancelRedirection = function() {
+				stopRedirection = true;
+				$('.rank-math-redirection-loading-animation, .rank-math-redirection-loading-timer, .rank-math-redirection-debug-cancel').hide();
+				$('.rank-math-redirect-debug-continue').show();
+			}
+			setTimeout( updateTimer, 1000 );
+
+			$( '#rank-math-cancel-redirection' ).click( function( event ) {
+				event.preventDefault();
+				cancelRedirection();
+			});
+
+			$( document ).keyup(function( event ) {
+				if ( 27 === event.keyCode ) {
+					cancelRedirection();
+				}
+			});
+		});
+	</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"6da0295d4ff06459","token":"7a6874ba1027472484a11e0045da4a21","version":"2021.12.0","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
