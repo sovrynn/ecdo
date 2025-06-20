@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: 2japanese41.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "15" isn't style-file defined
+--line 120 of file egbib.bib
+Warning--entry type for "42" isn't style-file defined
+--line 357 of file egbib.bib
+Warning--to sort, need author or key in 42
+Warning--to sort, need author or key in 88
+Warning--to sort, need author, editor, or key in 103
+Warning--empty author and editor in 103
+Warning--empty author in 88
+Warning--empty booktitle in 54
+Warning--empty year in 63
+Warning--empty journal in 145
+Warning--empty publisher in 64
+You've used 74 entries,
+            2120 wiz_defined-function locations,
+            856 strings with 13430 characters,
+and the built_in function-call counts, 19110 in all, are:
+= -- 1817
+> -- 835
+< -- 0
++ -- 355
+- -- 270
+* -- 1058
+:= -- 3276
+add.period$ -- 236
+call.type$ -- 74
+change.case$ -- 350
+chr.to.int$ -- 0
+cite$ -- 83
+duplicate$ -- 680
+empty$ -- 1666
+format.name$ -- 270
+if$ -- 3967
+int.to.chr$ -- 0
+int.to.str$ -- 74
+missing$ -- 46
+newline$ -- 385
+num.names$ -- 142
+pop$ -- 515
+preamble$ -- 1
+purify$ -- 283
+quote$ -- 0
+skip$ -- 505
+stack$ -- 0
+substring$ -- 825
+swap$ -- 73
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 282
+warning$ -- 9
+while$ -- 173
+width$ -- 76
+write$ -- 784
+(There were 11 warnings)

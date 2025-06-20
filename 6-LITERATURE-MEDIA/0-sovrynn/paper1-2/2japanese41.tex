@@ -1,0 +1,322 @@
+\documentclass[10pt,twocolumn,letterpaper]{article}
+
+% 私の独自の設定
+\usepackage{booktabs}
+% \usepackage{caption}
+% \captionsetup[table]{skip=8pt}   % これはテーブルのみに影響します
+\usepackage{stfloats}  % これをプリアンブルに追加します
+\usepackage{xeCJK}  % Supports Simplified & Traditional Chinese
+\setCJKmainfont{IPAMincho} 
+
+\usepackage{cvpr}
+\usepackage{times}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+% 他のパッケージはここで hyperref より前にインクルードします。
+
+% hyperref をコメントアウトしてから再度有効にする場合は、
+% egpaper.aux を削除してから latex を再実行してください。
+% （または、最初の latex 実行時に'q'キーを押して終了させれば大丈夫です。）
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\cvprfinalcopy % *** 最終提出のためにこの行をコメント解除してください
+
+\def\cvprPaperID{****} % *** ここにCVPRペーパーIDを入力してください
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+% 投稿モードではページ番号が付き、カメラレディでは番号無し
+%\ifcvprfinal\pagestyle{empty}\fi
+\setcounter{page}{1}
+\begin{document}
+
+%%%%%%%%% タイトル
+\title{ECDOデータ駆動型入門 パート2/2：ECDO「地球反転」で最もよく説明される科学的および歴史的異常の調査}
+
+\author{ジュンホ\\
+2025年2月公開\\
+ウェブサイト（論文はこちらからダウンロード）：\href{https://sovrynn.github.io}{sovrynn.github.io}\\
+ECDO研究リポジトリ：\href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ecdo}\\
+{\tt\small junhobtc@proton.me}
+% For a paper whose authors are all at the same institution,
+% omit the following lines up until the closing ``}''.
+% Additional authors and addresses can be added with ``\and'',
+% just like the second author.
+% To save space, use either the email address or home page, not both
+% \and
+% xx
+% Institution2\\
+% First line of institution2 address\\
+% {\tt\small secondauthor@i2.org}
+}
+
+\maketitle
+%\thispagestyle{empty}
+
+%%%%%%%%% ABSTRACT
+\begin{abstract}
+2024年5月、”The Ethical Skeptic”という偽名のオンライン著者\cite{0}が、「発熱性核-マントル脱結合ジャニベコフ振動（ECDO）」\cite{1}と呼ばれる画期的な理論を発表しました。この理論は、地球が過去に急激かつ壊滅的な自転軸の変化を経験しており、その際に回転慣性によって海洋が大陸に溢れ出す大洪水が発生しただけでなく、地球物理学的な説明因果過程も提唱しており、さらに近い将来同様の地球の反転が差し迫っていることを示唆するデータも示しています。このような大洪水や終末予測自体は新しいものではありませんが、ECDO理論は科学的かつ現代的で、学際的かつデータに基づくアプローチによって、特に説得力のあるものになっています。
+
+本論文は、独立した6カ月間のECDO理論に関する調査研究\cite{2,20}の要約（二部作）の後半部分であり、特に壊滅的なECDOによる「地球反転」によって最もよく説明される科学的および歴史的な異常現象に焦点を当てています。
+\end{abstract}
+
+%%%%%%%%% BODY TEXT
+
+\section{はじめに}
+
+現代の斉一主義的地質学と歴史は、グランドキャニオンのような主要な地形が何百万年もかけて形成されたと主張している\cite{143}。デスバレー（カリフォルニア）に塩が存在するのは、数億年前にそこが海の底だったからだとされている\cite{144}。私たちの150世代前の祖先が一生をかけて巨大な墓を建設したとされている\cite{29,70}。そして、いわゆる「化石燃料」も数億年前のものだと言われている\cite{104}。おそらく最も興味深いのは、人類が約30万年前に出現したと考えられている一方で、記録された歴史や文明はせいぜい5,000年前、つまりわずか150世代前にしか遡れないことである\cite{145}。
+
+このような特異な現象は、後述するように、劇的な地質学的な力で説明するのが最も合理的である。
+
+\section{泥の中に埋もれ急速冷凍されたマンモス}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{jarkov-mammoth.jpg}
+\end{center}
+   \caption{ヤルコフマンモス：2万年前の泥の中で完全な状態で保存されたシベリアのマンモス\cite{51}。}
+\label{fig:1}
+\label{fig:onecol}
+\end{figure}
+
+このような異常現象のひとつの例は、北極圏でよく見られる泥の中に埋まった完全に保存された急速冷凍状態のマンモスである（図\ref{fig:1}）。シベリアでシルト質の砂利に埋もれて発見されたベレゾフカ・マンモスは、死後何千年経ってもその肉が食べられるほど完全な保存状態であった。また、口と胃の中に植物性の食物が残っており、死の直前に被子植物を食べていたにもかかわらず、どのようにしてそれほど急激に冷凍されたのか科学者たちを困惑させている \cite{17}。伝えられるところによると、\textit{「1901年、ベレゾフカ川付近で完全なマンモスの死骸が発見されてセンセーションを巻き起こした。この動物は真夏に寒さで死んだようであった。胃の内容物はよく保存されていて、キンポウゲや開花した野生の豆が含まれていた。これは、7月の終わりか8月の初め頃に飲み込まれたに違いないことを意味していた。マンモスは非常に突然死んだので、いまだに顎には草や花が咥えられたままであった。そのため、巨大な力によって牧草地から数マイルも吹き飛ばされたことが明らかであった。骨盤と片足は骨折しており、その巨大な動物は膝をつかされた後、通常その年で最も暑い時期に凍死したのだった。」} \cite{18}。更に、\textit{「［ロシアの科学者たちは］この動物の最も内側の胃の内壁でさえ、繊維構造が完璧に保存されていることを記録した。これは体温が自然界の驚異的なプロセスによって瞬く間に奪われたことを示していた。サンダーソンはこの一点に注目し、アメリカ冷凍食品協会に相談した：『マンモスほど巨大な死体の最も奥まで、肉の繊維構造を壊すほどの大きな水分の結晶ができる前に、どれだけ急速に全体を凍らせる必要があるのか？』…数週間後、協会からサンダーソンに返答があった：『絶対に不可能です。我々の科学と工学の知識をもってしても、マンモスほど大きな死骸から肉の繊維を壊さずにこれほど早く体温を奪って凍結させる方法は存在しません。』さらに、既知の科学技術の限界を突き詰めた後、自然界にもそのような現象は知られていないと結論付けた。」} \cite{19}。
+
+\section{グランドキャニオン}
+
+グランドキャニオンは北アメリカ南西部のグレートベースンの一部であり、壊滅的な起源を示唆するもうひとつの自然現象である（図\ref{fig:2}）。まず、グランドキャニオンを構成する堆積性の砂岩や石灰岩の層は、最大2.4百万km$^2$にも及ぶ広大な範囲に広がっている \cite{21}。図\ref{fig:3}は、アメリカ西部を横断するココニノ砂岩層の広がりを示している。このような均一な性質をもつ大規模な水平層が形成されるには、一度に堆積する必要があった。
+
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{grand-canyon.jpg}
+\end{center}
+   \caption{アメリカ合衆国アリゾナ州のグランドキャニオン \cite{49}.}
+\label{fig:2}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure}[t]
+
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{coconino.jpg}
+\end{center}
+   \caption{アメリカ西部におけるココニノ砂岩層の大きさ \cite{21}.}
+\label{fig:3}
+\label{fig:onecol}
+\end{figure}
+
+グランドキャニオンを詳しく観察すると、これらの広大な堆積層の堆積は、同時に大きなテクトニックな力とも伴っていたことが分かります。これを理解するためには、堆積層が折れ曲がって露出している渓谷内の特定のエリアを注意深く観察する必要があります。Answers in Genesis の研究者たちは \cite{42}、これらの褶曲のいくつか、例えばモニュメントフォールドからの岩石サンプルを顕微鏡で詳細に調べ、もしこれらの褶曲が長い時間をかけて熱や圧力の下で形成されたなら見られるべき特徴が存在しないことから、堆積層はまだ柔らかい状態、すなわち堆積直後に、テクトニックな力によって折れ曲げられたと結論付けました \cite{43}。
+
+\begin{figure*}
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
+\includegraphics[width=1\textwidth]{Grand_Staircase-big.jpg}
+\end{center}
+   \caption{グランドキャニオンを構成する堆積層（写真右側）は、ユタ州シーダーブレイクス（写真左側）まで真北に広がり、そこで全て上方に曲がっています \cite{50}.}
+\label{fig:4}
+\end{figure*}
+Zooming out, we find that the layers making up the Grand Canyon have not just been folded inside the canyon. The layers have been folded east in the East Kaibab Monocline \cite{46}, but also to the north in Cedar Breaks, Utah (Figure \ref{fig:4}). This suggests that these layers may have all been folded together after they were laid down on top of each other in quick succession. For reference, the horizontal layers of the Grand Canyon are approximately 1700 meters in thickness. The scale of geological process required to lay down sediment layers a mile thick is enormous.
+
+全体を俯瞰すると、グランドキャニオンを構成する地層は、単にキャニオン内部で折り畳まれているだけではありません。地層はイースト・カイバブ単斜（East Kaibab Monocline）で東側に、さらにユタ州のシーダー・ブレイクスでも北側に折り畳まれています（図\ref{fig:4}、\cite{46}）。これは、これらの地層が短期間に次々と堆積した後、すべてまとめて折り畳まれた可能性を示唆しています。参考までに、グランドキャニオンの水平な地層の厚さは約1700メートルです。1マイルにも及ぶ堆積層を形成する地質プロセスの規模は非常に大きいです。
+
+The actual formation of the Grand Canyon is another issue of contention in modern geology. Uniformitarian geology proposes that the Grand Canyon was carved by the Colorado River over millions of years \cite{47}. However, the Answers in Genesis research team believes that the Grand Canyon was most likely formed in a matter of weeks due to spillway erosion from an ancient lake breaching its boundaries, which removed massive amounts of sediment as it carved out the canyon. There is evidence of a high-elevation lake east of the Grand Canyon in lake sediment deposits and marine fossils. Comparing the Grand Canyon to other large-scale examples of spillway erosion, such as Afton Canyon and Mount St. Helens, reveals similar topography, and shows that large canyons can be created rapidly through large amounts of flowing water \cite{48}.
+
+グランドキャニオンの実際の形成は、現代地質学においても論争の的となっています。斉一説に立つ地質学は、グランドキャニオンがコロラド川によって数百万年かけて浸食されたと提案します\cite{47}。しかし、「アンサーズ・イン・ジェネシス」研究チームは、グランドキャニオンははるか昔の湖が決壊して溢れ出すことによるスピルウェイ浸食で、わずか数週間で形成されたと考えています。その過程で巨大な堆積物が除去され、キャニオンが削り出されました。グランドキャニオンの東には高地の湖が存在した証拠として、湖堆積物や海洋化石が見つかっています。グランドキャニオンと、Afton Canyonやセント・ヘレンズ山のようなスピルウェイ浸食の大規模事例とを比較すると、類似した地形が確認でき、大量の流水によって巨大なキャニオンが短期間で形成しうることがわかります\cite{48}。
+
+Considering the scale of geological processes required to lay down sediment over such massive swathes of land, the concurrency of massive tectonic forces occurring soon after the sediment layers were laid down, and the miniscule size of the Colorado River in comparison to the massive scale of the Grand Canyon, it seems that there may have been nothing gradual about its formation.
+
+このように広大な土地に堆積物を積み重ねるために必要な地質プロセスのスケール、堆積層が形成された直後に起こった大規模な地殻変動、そしてグランドキャニオンの規模と比較して著しく小さなコロラド川の大きさを考えると、その形成には徐々になされたものとは言えない側面があるように思われます。
+
+\section{Derinkuyu Underground City}
+
+Aside from the pyramids, a great example of ancient engineering is the underground city of Derinkuyu (Figure \ref{fig:5}), located in Cappadocia, Turkey. It is the largest among over 200 underground shelters in the region \cite{54}. This underground city is estimated to have housed up to 20,000 people and spans 18 floors, reaching depths of 85 meters. While its age is not certain, it is estimated to be at least 2800 years old. The city was carved out of soft volcanic rock \cite{52, 53}.
+
+ピラミッド以外にも、古代の偉大な工学の例として挙げられるのが、トルコのカッパドキア地方にある地下都市デリンクユ（図\ref{fig:5}）です。この地域には200以上の地下避難施設がありますが、デリンクユが最大規模です\cite{54}。この地下都市は最大2万人を収容できたと考えられ、18層にわたって深さ85メートルに及んでいます。その年代は明確ではありませんが、少なくとも2800年前には存在していたと推定されています。この都市は軟らかい火山岩をくり抜いて造られました\cite{52, 53}。
+
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{derinkuyu.jpeg}
+\end{center}
+   \caption{デリンクユ地下都市の図 \cite{56}.}
+\label{fig:5}
+\label{fig:onecol}
+\end{figure}
+The reason Derinkuyu is interesting is because it's not clear why any community would decide to build an entire city underground. In order to create living space underground, every cavity must be carved out of rock. The rough shapes and textures of the underground tunnels make it clear these were carved with manual labor, rather than with power tools, which would have been orders of magnitude more difficult than building shelters above ground. In fact, it's not apparent why any human would want to permanently live underground during the confines of their earthly life, when agriculture, sunlight, nature, and exploration are only available above ground. Conventional "history" proposes that Derinkuyu was created by Christians who needed a secluded place to practice their religion \cite{53}. But common sense would conclude that the most straightforward way to deal with enemies is "fight or flight", not "carve an underground city out of rock".
+
+Derinkuyuが興味深い理由は、なぜどのコミュニティも地下に全体の都市を建設しようと決断したのか明確ではないからです。地下に居住空間を作るには、あらゆる空間を岩から掘り出さなければなりません。地下トンネルの粗い形状や質感から、これらが動力工具ではなく人力で掘削されたことが明らかであり、地上に避難所を建てるよりもはるかに困難だったでしょう。実際、農業や日光、自然、探検がすべて地上でしかできない中で、なぜ誰もが地上での限られた人生を地下で恒久的に過ごしたいと思うのかは理解しがたいことです。通説の「歴史」では、デリンクユが宗教実践のために人里離れた場所を必要としたキリスト教徒によって作られたとされています\cite{53}。しかし常識的に考えれば、敵に対処する最も単純な方法は「戦うか逃げるか」であり、「岩を掘って地下都市を作る」ことではありません。
+
+The scale, depth, and thoughtfulness of the design of the underground city make it clear that it wasn't designed as a temporary military defensive structure to better fight invaders in times of duress, but rather, a long-term shelter to protect against fatal forces on the surface. Derinkuyu was equipped with not only basic bedrooms, kitchens, and bathrooms, but also stables for animals, water tanks, food storage, wine and oil presses, schools, chapels, tombs, and massive ventilation shafts (Figure \ref{fig:6}). Why would a military shelter require a wine press and need to be be dug 85 meters deep with such complexity?
+
+この地下都市の規模、深さ、設計の緻密さから分かるのは、侵略者との戦闘時に一時的な軍事防御施設として設計されたのではなく、地表の致命的な力から長期間避難するためのシェルターとして作られたということです。デリンクユには基本的な寝室、キッチン、浴室だけでなく、動物用の厩舎、水槽、食糧貯蔵庫、ワインやオイルの圧搾場、学校、礼拝堂、墓、そして巨大な換気シャフト（図\ref{fig:6}）まで備えられていました。なぜ軍事的な避難所がワインプレスを必要とし、これほど複雑に85メートルもの深さを掘らなければならなかったのでしょうか？
+
+The most plausible explanation for the creation of Derinkuyu would have been a pressing need to prepare a long-term, self-sustaining shelter to protect against catastrophic geophysical forces on Earth's surface.
+
+デリンクユ建設の最も妥当な説明は、地表の破滅的な地球物理的力から身を守るために、長期間自給自足できる避難所を用意する必要が差し迫っていたことだと思われます。
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{derinkuyu-air.jpg}
+\end{center}
+   \caption{デリンクユ内の深い換気井戸 \cite{53}.}
+\label{fig:6}
+\label{fig:onecol}
+\end{figure}
+
+% \section{Additional Anomalies Best Explained By An Earth Flip}
+
+% Before wrapping up, we will mention some additional scientific anomalies that, once viewed in the context of cataclysmic geophysical forces, are well explained.
+\section{バイオマスの蓄積}
+
+様々な種類の動物や植物のバイオマスの混合物が、堆積物層で化石化して発見されることがあり、これもまた不可解な異常現象です。『Reliquoæ Diluvianæ』において、ウィリアム・バックランド牧師は、説明のつかない理由で一緒に発見された多数の動物種の発見例について、イギリスやヨーロッパ各地で堆積性の「洪積層(diluvium)」に埋もれていたと記録しています\cite{58}。このような動物遺骸の混合例は、ノルウェーのヴァルドロイ島にあるスキョングヘレレン洞窟でも発見されました。この洞窟では、哺乳類、鳥類、魚類の骨が7,000本以上、複数の堆積物層に混ざって見つかりました\cite{59}。別の例としては、イタリアの「巨人の洞窟」と呼ばれるサン・チロがあります。この洞窟では、主にカバのものである数トンもの哺乳類の骨が非常に新鮮な状態で発見され、装飾品に加工され、ランプ用の黒煙の製造のために運び出されました。これら異なる動物の骨は混合され、壊され、粉々になり、分散していたと伝えられています\cite{60,61}。エジプトの古代メンデスでは、様々な種類の動物骨がガラス状(焼結)の粘土と混合して発見されました\cite{57}。このような発見は不可解に思えるかもしれませんが、大規模な洪水が死んだ動物の混合物を堆積物層に残し、動物を洞窟に流し込んだり生き埋めにしたり、エジプトの焼結バイオマスの場合は大洪水後の核-マントル変位による大規模な放電で容易に説明できます。図\ref{fig:7}はアラスカのバイオマス「マック」の典型的な露頭を示しています\cite{56}。
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{muck-crop.jpeg}
+\end{center}
+   \caption{アラスカの「マック」。樹木、植物、動物の断片が混然と分散し、凍結したシルトと氷の中に埋もれている\cite{146}。}
+\label{fig:7}
+\label{fig:onecol}
+\end{figure}
+
+\section{古代のバンカー}
+
+私たちの祖先は、人骨が発見された高度な建造技術を持つ多くの古代建造物を残しました。これらは通常、精巧な墓であると解釈されていますが、詳細に調べると、実際には古代のバンカーであった可能性が示唆されます。
+
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{ww19.jpg}
+\end{center}
+   \caption{ニューグレンジ（アイルランド）— 入り口にいる訪問者で規模がわかる。}
+\label{fig:8}
+\label{fig:onecol}
+\end{figure}
+
+優れた例の一つはニューグレンジ（図\ref{fig:8}）であり、ブルー・ナ・ボインヌ遺跡群の主な記念碑であり、いわゆる通路墓を含む古代構造物の集合体である。これらの墓は、土または石で覆われた一つ以上の埋葬室と、大きな石で作られた狭い通路で構成されている\cite{70}。これは、少数の人々を埋葬するために、複数の世代にわたって建設された複雑かつ保護された構造物の大規模な土木技術の例であり、埋葬された人々は、墓が建設され始めたときには生きていなかったと考えられている。1699年に地元の地主によって再発見された時、土に埋もれていた。
+
+構造物をざっと見るだけでも、その建設に膨大な労力が注がれたことは明らかである。ニューグレンジは約20万トンの材料で構成されている。その内部には、\textit{「…区画された通路があり、記念碑の南東側の入り口から入ることができる。通路は19メートル（60フィート）伸びており、構造物の中心まで約3分の1ほど達している。通路の終端には、天井が高く穹窿（きゅうりゅう）状になった大きな中央室から3つの小部屋が分かれている…この通路の壁はオルソスタットと呼ばれる大きな石板でできており、西側に22枚、東側に21枚がある。それらの平均高さは1.5メートルである。」}\cite{70}。また、精巧な防水工学のディテールもある。たとえば天井部分では、\textit{「天井の隙間は焼土と海砂の混合物で目張りされ防水性があり、この混合物から紀元前2500年を中心とする2つの放射性炭素年代が墓の構造のために得られた。」}\cite{71}。さらに、内室に至る高低差も同様の目的で設けられていたのかもしれない：\textit{「記念碑が建てられている丘の傾斜に沿うように、通路および墓の室の床は傾斜しており、入り口と内部室の床レベルの差はほぼ2メートルある。」}\cite{71}。
+
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{dolmen.jpg}
+\end{center}
+   \caption{ドゥルメン・デ・ソト、スペイン \cite{53}。}
+\label{fig:9}
+\label{fig:onecol}
+\end{figure}
+
+内部に人骨がほとんど存在しないことも興味深い点です。発掘調査では、焼かれたものや焼かれていない骨片が通路に散在しており、わずか数人分であることが判明しました。ニューグレンジの建設は、内部の物質の炭素年代測定に基づくと、少なくとも数世代を要したと推定されています。では、なぜ古代の共同体は、膨大な労力を注いで巨大で高度に設計された墓を建てておきながら、通路にほんの数名分の遺骨の断片だけを散らしたのでしょうか？これらの古代で慎重に防水された巨石構造物は、むしろ地球の周期的な大災害の際に人々を守る避難所として造られたと考えるほうが、ずっともっと筋が通っています。
+
+スペイン南部・ウエルバでは、同様の例としてドメン・デ・ソト（図\ref{fig:9}）があります。この地域には同様の遺構が約200ヶ所残っています\cite{72,32}。これは、巨石を用いて高度に設計された合理的な構造であり、直径75メートルを持ちます。発掘時にはわずか8体の遺体しか見つかっておらず、いずれも胎児のような姿勢で埋葬されていたと伝えられています。
+
+\section{注目すべき異常事例}
+
+この節では、より注目すべき異常事例をいくつか簡単に挙げます。いずれもECDOのような大災変によって十分に説明されます。
+
+\subsection{生物学的な異常}
+
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{bottleneck.jpg}
+\end{center}
+   \caption{約6,000年前に男性の95\%が淘汰されたことを示す遺伝的ボトルネック\cite{62}。}
+\label{fig:10}
+\label{fig:onecol}
+\end{figure}
+
+いくつかの注目すべき生物学的異常現象として、遺伝的ボトルネックや内陸部のクジラ化石が挙げられます。Zengら（2018）は現生人類から得られた125のY染色体配列をモデル化し、DNAの類似性と突然変異に基づいて、約5,000～7,000年前に男性人口が95\%減少したボトルネックを特定しました（図\ref{fig:10}）\cite{62}。クジラの化石は、海抜数百メートルにも及ぶスウェーデンボルグ、ミシガン、バーモント、カナダ、チリ、エジプトで発見されています\cite{63,64,65,66}。これらのクジラは、完全に保存されていたり、氷河堆積物の上の湿地に横たわっていたり、堆積物中に埋もれていたりと、様々な状態で見つかっています。これらの場所での標本数は数体から百体を超えるものまであります。クジラは深海生物であり、滅多に岸に近づくことはありません。これらのクジラが、どのようにしてこのような高地やしばしば極めて内陸部に到達したのでしょうか？
+
+地球の過去には多数の大量絶滅が発生しており、最も精査されているものは「ビッグファイブ」と呼ばれる顕生代のイベントです。すなわち、後期オルドビス紀（LOME）、後期デボン紀（LDME）、ペルム紀末（EPME）、三畳紀末（ETME）、白亜紀末（ECME）の大量絶滅です\cite{88,89}。興味深いことに、これら絶滅のいくつかは、グランドキャニオンの複数の層、すなわちペルム紀およびデボン紀の層と同じ時代に分類されています。
+
+\subsection{物理的異常現象}
+
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{columbia.jpg}
+\end{center}
+   \caption{ワシントン州の氷河湖コロンビアにおける巨大な現在波紋\cite{80}。}
+\label{fig:11}
+\label{fig:onecol}
+\end{figure}
+
+グランドキャニオン以外にも、激変的な力によって形成されたと考えられる地形は数多く存在します。大陸規模の大水流の証拠は、世界各地にある巨大な現在波紋で確認できます。その一例が、太平洋岸北西部にあるチャネールド・スキャブランズです。ここでは、堆積物由来の地形や迷石のみならず、巨大な水流によって形成された100を超える大規模な波紋の連なりも見られます\cite{78,79}。これらは、川床の砂にできる波紋の大規模版です。フランスやアルゼンチン、ロシア、北アメリカなど、世界中で見つかっています\cite{81}。図\ref{fig:11}はアメリカ合衆国ワシントン州で見られるこれらの波紋の一例を示しています\cite{80}。
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{zhangjiajie.jpg}
+\end{center}
+   \caption{中国南部、張家界国家森林公園の巨大な石柱。}
+\label{fig:12}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{hoy.jpg}
+\end{center}
+   \caption{スコットランドのホイの老人の海蝕柱 \cite{83}。}
+\label{fig:13}
+\label{fig:onecol}
+\end{figure}
+Inland erosion structures are also well-explained by an ECDO-like Earth flip. Southern China is a great example of massive karst landscapes, formed through water erosion \cite{82}. These landscapes include tower karst, pinnacle karst, cone karst, natural bridges, gorges, large cave systems, and sinkholes. One of the most striking of these is the Zhangjiajie National Forest, which contains massive quartz sandstone pillars (Figure \ref{fig:12}) \cite{84}. These pillars stand at an average elevation of over 1,000 meters and number more than 3,100. More than 1,000 of them soar above 120 meters tall, and 45 reach over 300 meters \cite{85}. These pillars resemble sea erosion pillars (Figure \ref{fig:13}), which are coastal rock pillars formed by the collapse of surrounding material due to ocean waves. Similar erosion landscapes can be found in the rock cones of Urgup, Turkey, as well as Ciudad Encantada, Spain, which are both over 1,000 meters above sea level. All these locations have some combination of salt and oceanic marine fossils in close proximity to them, suggesting past marine incursions \cite{15,86,87}. Of course, the flood stories \cite{3} mention the ocean going much higher than 1,000 meters, and this is verified by the presence of saltwater and massive salt flats in the Andes and Himalayas several kilometers above sea level. The Uyuni salt flat in Bolivia, for example, reaches 3653 meters above sea level \cite{94}.
+
+内陸の侵食構造も、ECDOのような地球の反転によってよく説明できます。中国南部は、水による侵食で形成された大規模なカルスト地形の素晴らしい例です\cite{82}。これらの地形には、タワーカルスト、ピナクルカルスト、コーンカルスト、天然橋、峡谷、大規模な洞窟システム、陥没穴などが含まれます。中でも特に印象的なのは張家界国家森林公園であり、ここには巨大な石英砂岩の柱があります（図\ref{fig:12}）\cite{84}。これらの柱は平均標高1,000メートルを超え、3,100本以上も存在します。1,000本以上が高さ120メートルを超え、45本は300メートル以上に達します\cite{85}。これらの柱は海食柱（図\ref{fig:13}）に似ており、海の波による周囲の岩石の崩壊によって形成された沿岸部の岩柱です。同様の侵食地形は、トルコのウルギュップの岩錐やスペインのエンカンターダ市にも見られ、いずれも標高1,000メートルを超えています。これらの場所のすべてには、塩分や海洋性の化石が近接して存在しており、過去の海の侵入を示唆しています\cite{15,86,87}。もちろん、洪水伝説\cite{3}には海が1,000メートル以上まで到達したと記されており、この事実はアンデス山脈やヒマラヤ山脈の標高数千メートルの場所に存在する塩水や巨大な塩原によって裏付けられています。例えば、ボリビアのウユニ塩原は標高3,653メートルに達します\cite{94}。
+
+\subsection{急激な気候変動事象}
+
+現代の科学文献では、地球の近年の歴史において急激な全球的気候変動事象が存在したことが認識されています。注目すべき2つの例は、4,200年前イベントと8,200年前イベントであり、いずれも広範囲の地域で人口減少や社会的定住の混乱を伴っています。これらの事象は、堆積物や氷床コア、化石サンゴ、O18同位体比、花粉や石筍記録、海面データなどに異常として保存されています。推定される気候変化には、全球的な気温の急激な低下、乾燥化、大西洋子午面循環の乱れ、氷河前進などが含まれます\cite{90,91,92}。特に8,200年前イベントは、紀元前6400年ごろに黒海で劇的な海水氾濫が発生した可能性と一致しています\cite{93}。
+
+\subsection{考古学的異常}
+
+いくつかの古代都市の考古学的証拠には、埋没や破壊の複数の層が見られ、過去の大災害の記録が作られています。古代都市エリコはその一例で、現在のパレスチナに位置しています。ここには複数の破壊層があり、石造構造物の崩壊や激しい火災の痕跡が存在します\cite{96,97}。その層から読み取れる年代はおおよそ紀元前9000年から紀元前2000年に及びます。特に注目すべきは、塔が切断され、約紀元前7400年に堆積物の中に埋没したように見える点です（図\ref{fig:14}）\cite{95}。チャタル・ヒュユク\cite{99}、グラマロテ\cite{98}、クレタ島のミノア王宮クノッソス\cite{100,101}も同様に、複数の層としばしば破壊の証拠を伴う考古学遺跡の例です。
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{jericho.jpg}
+\end{center}
+   \caption{エリコの塔が約紀元前7400年に埋没した様子の考古学的復元図\cite{95}。}
+\label{fig:14}
+\label{fig:onecol}
+\end{figure}
+Another piece of evidence for major cataclysms disrupting human civilization is the Nampa Image, a clay doll found beneath approximately 100 meters of lava in Idaho \cite{102,103}. The lava flow under which the figurine was found was estimated to be deposited during the Late Tertiary or early Quaternary period, supposedly being 2 million years old. However, the lava flow in the region appears to be relatively fresh. Such finds not only point to major civilization-destroying cataclysms, but also call into question modern dating chronologies.
+
+\section{現代の年代測定法について}
+
+現代の年代測定法には懐疑的になる十分な理由があります。こうした方法は、様々な物理的材料に対して数百万年、あるいは数億年もの非常に長い年代を割り当てています。
+
+従来の説明では、「化石燃料」と呼ばれる石炭、石油、天然ガスは数億年前のものとされています \cite{104}。しかし、メキシコ湾の石油を実際に炭素年代測定したところ、その年代は約13,000年であることがわかりました \cite{105}。炭素14は半減期が非常に短く（5,730年）、数十万年で完全に崩壊するとされています。しかし、石炭や化石の中にも、はるかに古いはずなのに炭素14が発見されています \cite{106}。実際、人工石炭は主に高温下の制御された条件で実験室内において、わずか2～8か月で生成されています \cite{107}。
+
+炭素年代測定以外の放射性同位体による年代測定法も正確でない可能性があります。Answers in Genesis研究グループは、こうした方法による年代に矛盾があることを発見し、その信憑性に疑問を投げかけています \cite{108}。血球、血管、コラーゲンなどの軟組織が、1億年前とされる恐竜化石の中から見つかったことさえあります \cite{109,110}。今日知られていることから考えても、地球の地質年代や岩石・化石燃料といった物質の年代は、従来考えられているよりも桁違いに異なっている可能性があります。
+
+\section{結論}
+
+本論文では、破壊的な起源を示唆し、ECDO地球反転によって最もよく説明できる有力な異常現象について述べました。紹介した現象は多岐にわたりますが、これは完全なリストではありません－より多くの異常事例がまとめられ、私の研究用GitHubリポジトリで公開されています \cite{2}。
+
+\section{謝辞}
+
+ECDO仮説の元となる論文を執筆し、その洞察に満ちた画期的な論文を世に広めてくれたEthical Skeptic氏に感謝します。彼の三部作 \cite{1} は、外熱核-マントルデカップリングのジャニベコフ振動（ECDO）理論に関する決定的な業績であり、ここで簡単にまとめた以上の豊富な情報を含んでいます。
+
+そしてもちろん、我々がその肩の上に立っている巨人たちにも感謝します。本研究を可能にしたすべての調査・研究を行い、人類に光をもたらすために尽力してきた方々に深く感謝いたします。
+
+\clearpage
+\twocolumn
+
+{\small
+\renewcommand{\refname}{References}
+\bibliographystyle{ieee}
+\bibliography{egbib}
+}
+
+\end{document}
