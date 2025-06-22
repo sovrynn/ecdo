@@ -8,6 +8,10 @@ Also has some Rumble videos.
 
 -`ecdo-visualizations`: ECDO rotation visualization videos made by Nobulart.
 
+## Interview (podcast)
+
+https://www.youtube.com/watch?v=c3kc9hT2LyI
+
 ## Rotation Speed 2D Viz
 
 ECDO // Relative Velocity Map presented as azimuthal equidistant projections, light and dark versions [1] centred on the ECDO Euler (pivots) at 0°N, 59°W and 0°N, 121°E. Average relative velocities are expressed in kilometres per hour for a 104° rotation, according to distance from the nearest pivot, and the duration of the rotation (anywhere from 6-24 hours in this calculation). 
