@@ -66,6 +66,30 @@ I think a lot about this experiment these days.
 
 ![](img/aftermath.png)
 
+### In text
+
+The first thing they told me was that the mice turned criminal in their low-density magnetic field environment.
+
+“Criminal!?” I exclaimed. “How in the dickens do you tell when a mouse turns criminal?” I asked.
+
+“Very simple,” was the answer. “There are basic end-cruelties for almost all mammals; mice and humans are no exception. Cannibalism is the ultimate cruelty, and they turned cannibalistic. Even though they had plenty of the same food as the mice in the normal magnetic field strength cylinders, they indulged in cannibalism as a preference. The mice in the normal cylinders treated each other normally – and ate only their normal food.” He paused a moment.
+
+“There’s another thing which really confounds us,” he continued. “These same mice who turned cannibalistic indulged in forcible rape literally around the clock. That and murder are the other end-cruelties.”
+
+“Is it possible that you can tell the difference between rape and forcible rape in mice?” I asked. “It seems impossible to differentiate in mice.”
+
+“Oh yes,” he said, “It happens all the time in the animal world. For instance, sea lions and sea elephants. They use forcible rape commonly. In these mice, almost every act of sexual intercourse in the lowdensity cylinders was forcible rape, whereas in the normal cylinders, we never saw it. Of course, we must assume it may have happened when we weren’t looking.”
+
+“Of course, in humans it’s easy to differentiate between forcible rape and rape,” I offered.
+
+“Legally, it may not be so easy to differentiate,” he replied, “but morally I guess it’s easy. But what we’re interested in here is why they resorted to forcible rape just because of the environment of a low-density magnetic field. We were hoping you could give us at least a concept to go on.”
+
+I told him that my work did involve the study of legends concerning civilizations in the years leading to cataclysms, when the Earth’s magnetic field was decreasing at an increasing rate as they approached the null zone; and in every instance it appeared that criminality – essentially man’s inhumanity to man appeared to become overwhelming. Even the Navajo Indians spoke of it in their legend of their approach to a cataclysm, but they called it adultery. It’s quite possible that their definition of rape in any form, be it forcible or not, was included in the term “adultery”.
+
+After all of my study, it seemed strange that it had not entered my mind that rape and forcible rape are a part of the overwhelming criminality in the precursor period preceding a cataclysm. Later, I concluded that it was because I was searching for facts, and it never appeared before me in print. To assume it to be a natural part of the overwhelming criminality, however, seemed to be a proper assumption.
+
+After some consideration, I gave them my conclusion. I would commit that a lowering or lowered magnetic field environment could give its occupants a sense of impending doom. Certainly there would be a feeling that something out of control was destroying them, so why not get what they want irrespective of consequences? In the case of humans, those without empathy turn criminal first. In the case of animals, it is probably proper to assume that there is little or no empathy there to start with.
+
 ## Good Articles
 
 Chan excerpts (tons of evidence in these):
