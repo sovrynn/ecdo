@@ -64,7 +64,7 @@ https://nobulart.com/aftermath-our-precursor/
 
 I think a lot about this experiment these days.
 
-![](img/aftermath.jpg)
+![](img/aftermath.png)
 
 ## Good Articles
 
