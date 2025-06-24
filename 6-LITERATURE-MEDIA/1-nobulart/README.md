@@ -57,6 +57,15 @@ Conflicting Pole Shift Agendas Between the East and West https://t.co/T3X2RARAjz
 
 # Blog Post Excerpts, Curations
 
+## Aftermath our precursor (mice/mouse experiment)
+
+Some of the observed effects of altering the electromagnetic environment around mammals, such as might occur during geomagnetic excursions or a weakening of the planet's geomagnetic field.
+https://nobulart.com/aftermath-our-precursor/
+
+I think a lot about this experiment these days.
+
+![](img/aftermath.jpg)
+
 ## Good Articles
 
 Chan excerpts (tons of evidence in these):
@@ -206,13 +215,6 @@ https://nobulart.com/the-birth-of-inequality/
 
 Just a sample. There's more:
 https://nobulart.com/360-days/
-
-## Aftermath our precursor
-
-Some of the observed effects of altering the electromagnetic environment around mammals, such as might occur during geomagnetic excursions or a weakening of the planet's geomagnetic field.
-https://nobulart.com/aftermath-our-precursor/
-
-![](img/aftermath.jpg)
 
 ## Tolstoy
 
