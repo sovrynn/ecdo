@@ -7,6 +7,15 @@
 \usepackage{stfloats}  % Добавьте это в преамбулу
 \usepackage{float}
 
+\usepackage[T2A]{fontenc}    % Enables Cyrillic fonts
+\usepackage[utf8]{inputenc}   % Assumes your source file is in UTF-8 encoding
+\usepackage[russian]{babel}   % Loads Russian language support
+
+\makeatletter
+\def\cvprsubsection{\@startsection {subsection}{2}{\z@}
+    {8pt plus 2pt minus 2pt}{6pt}{\bfseries\normalsize}}
+\makeatother
+
 \usepackage{cvpr}
 \usepackage{times}
 \usepackage{epsfig}

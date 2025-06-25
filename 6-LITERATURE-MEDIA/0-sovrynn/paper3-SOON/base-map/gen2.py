@@ -16,8 +16,34 @@ MARKER_SPECS = [
     {'icon': '^', 'color': 'blue',  'size': 80,  'label': 'Undersea Bases'},
     {'icon': 'o', 'color': 'yellow', 'size': 50, 'label': 'Submarine Tunnels'},
 ]
+MARKER_SPECS = [
+    {'icon': 'o', 'color': 'red',   'size': 50,  'label': '地下基地'},
+    {'icon': '^', 'color': 'blue',  'size': 80,  'label': '水下基地'},
+    {'icon': 'o', 'color': 'yellow', 'size': 50, 'label': '潜艇隧道'},
+]
+MARKER_SPECS = [
+    {'icon': 'o', 'color': 'red',   'size': 50,  'label': '지하 기지'},
+    {'icon': '^', 'color': 'blue',  'size': 80,  'label': '해저 기지'},
+    {'icon': 'o', 'color': 'yellow', 'size': 50, 'label': '해저 터널'},
+]
 # Title of the map
 TITLE = 'American Underground and Undersea Bases (Partial List)'
+TITLE = '美国地下和水下基地（部分列表）'
+TITLE = '미국 지하 및 해저 기지(일부 목록)'
+
+plt.rcParams['font.sans-serif'] = [
+    'Noto Sans CJK JP',    # Simplified Chinese
+    'Noto Sans CJK TC',    # Traditional Chinese
+    'Noto Sans CJK KR',    # Korean
+    'NanumGothic',         # Korean sans
+    'NanumMyeongjo',       # Korean serif
+    'WenQuanYi Zen Hei',   # Chinese
+]
+plt.rcParams['font.family'] = 'sans-serif'
+# allow minus sign to show up properly
+plt.rcParams['axes.unicode_minus'] = False
+
+
 # Buffer around points in degrees (0 = tightest fit)
 BUFFER_DEG = 5
 

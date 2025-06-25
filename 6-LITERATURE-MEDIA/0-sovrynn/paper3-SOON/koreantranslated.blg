@@ -18,45 +18,45 @@ Warning--empty year in 28
 Warning--empty year in 22
 Warning--empty year in 27
 Warning--empty year in 35
-You've used 39 entries,
+You've used 40 entries,
             2120 wiz_defined-function locations,
-            665 strings with 8849 characters,
-and the built_in function-call counts, 8617 in all, are:
-= -- 841
-> -- 306
+            669 strings with 8960 characters,
+and the built_in function-call counts, 8823 in all, are:
+= -- 860
+> -- 313
 < -- 0
-+ -- 131
-- -- 90
-* -- 317
-:= -- 1482
-add.period$ -- 147
-call.type$ -- 39
-change.case$ -- 160
++ -- 134
+- -- 92
+* -- 323
+:= -- 1516
+add.period$ -- 150
+call.type$ -- 40
+change.case$ -- 164
 chr.to.int$ -- 0
-cite$ -- 44
-duplicate$ -- 293
-empty$ -- 834
-format.name$ -- 90
-if$ -- 1853
+cite$ -- 45
+duplicate$ -- 300
+empty$ -- 856
+format.name$ -- 92
+if$ -- 1898
 int.to.chr$ -- 0
-int.to.str$ -- 39
+int.to.str$ -- 40
 missing$ -- 7
-newline$ -- 228
-num.names$ -- 78
-pop$ -- 313
+newline$ -- 233
+num.names$ -- 80
+pop$ -- 322
 preamble$ -- 1
-purify$ -- 123
+purify$ -- 126
 quote$ -- 0
-skip$ -- 241
+skip$ -- 248
 stack$ -- 0
-substring$ -- 197
-swap$ -- 39
+substring$ -- 202
+swap$ -- 40
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 154
+type$ -- 158
 warning$ -- 5
-while$ -- 78
-width$ -- 41
-write$ -- 446
+while$ -- 80
+width$ -- 42
+write$ -- 456
 (There was 1 error message)

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.6.13)  20 JUN 2025 23:33
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.6.13)  21 JUN 2025 17:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -451,6 +451,9 @@ LaTeX Warning: Label `fig:onecol' multiply defined.
 
 LaTeX Warning: Label `fig:onecol' multiply defined.
 
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
 )
 \openout1 = `koreantranslated.aux'.
 
@@ -659,8 +662,8 @@ Underfull \vbox (badness 1189) has occurred while \output is active []
  [2]
 File: penta.jpg Graphic file (type bmp)
 <penta.jpg>
-File: basescrop.png Graphic file (type bmp)
-<basescrop.png>
+File: baseskor.png Graphic file (type bmp)
+<baseskor.png>
 
 [3]
 File: undersea.jpg Graphic file (type bmp)
@@ -675,20 +678,21 @@ File: tyrol.jpg Graphic file (type bmp)
 File: svalbard.jpg Graphic file (type bmp)
 <svalbard.jpg>
  [5]
-File: govcrop2.png Graphic file (type bmp)
-<govcrop2.png>
+File: govkor.png Graphic file (type bmp)
+<govkor.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [6]
 File: illuminati.jpg Graphic file (type bmp)
 <illuminati.jpg>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 File: pike.jpg Graphic file (type bmp)
 <pike.jpg>
-[7] [8
 
-] (./koreantranslated.bbl
+[7]
+File: npw.jpg Graphic file (type bmp)
+<npw.jpg>
+ [8] (./koreantranslated.bbl
 Underfull \hbox (badness 1024) in paragraph at lines 9--13
 []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][] [] [][][] [] [][][]$[]\
 TU/UnBatang.ttf(0)/m/it/9 , \TU/ptm/b/it/9 Jan. 2024.  Ac-
@@ -718,81 +722,86 @@ tf(0)/m/it/9 , \TU/ptm/b/it/9 2025.  Accessed:
  []
 
 
-Underfull \hbox (badness 2644) in paragraph at lines 83--87
+Underfull \hbox (badness 3849) in paragraph at lines 77--80
+[]\TU/ptm/b/it/9 National Centers for Environmental Information
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 88--92
 []\TU/ptm/b/it/9 Project Camelot.  []a letter from a norwegian
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--123
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
 \TU/ptm/b/it/9 https:// theethicalskeptic.com/ 2024/05/23/ master-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--123
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
 \TU/ptm/b/it/9 exothermic-core-mantle-decoupling-dzhanibekov-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--149
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
 []\TU/ptm/b/it/9 South Tyrol Blog.  []south tyrol[] s bunker
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--149
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
 \TU/ptm/b/it/9 landscape[] \TU/UnBatang.ttf(0)/m/it/9 .  []$[][][][][] [] [] []
  [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--162
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
 []\TU/ptm/b/it/9 sovrynn.  []ecdo/ 6‑literature‑media/ amallulla[] \TU/UnBatang
 .ttf(0)/m/it/9 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--162
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
 []$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
 [][][][] [] [][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--170
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
 []$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
 [][][][] [] [][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--170
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
 [][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][]$[]
 \TU/UnBatang.ttf(0)/m/it/9 , \TU/ptm/b/it/9 2025.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--179
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
 [][][][][][] [] [][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][] 
 [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--179
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
 [][] [] [][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][
 ][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--179
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
 [][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][] [] [][][
 ][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--179
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
 [][][][][][][] [] [][][][][][] [] [][][][][][][][][][][] [] [][] [] [][][][][] 
 []
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 172--179
+Underfull \hbox (badness 1831) in paragraph at lines 177--184
 [][][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][][][]$[]\TU/UnBatang
 .ttf(0)/m/it/9 , \TU/ptm/b/it/9 2025.  Accessed:
  []
@@ -816,12 +825,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15770 strings out of 476443
- 273179 string characters out of 5793962
- 1980627 words of memory out of 5000000
- 37484 multiletter control sequences out of 15000+600000
+ 15782 strings out of 476443
+ 273286 string characters out of 5793962
+ 1979627 words of memory out of 5000000
+ 37495 multiletter control sequences out of 15000+600000
  566686 words of font info for 94 fonts, out of 8000000 for 9000
  264 hyphenation exceptions out of 8191
- 108i,9n,121p,934b,2744s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,9n,121p,922b,2744s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on koreantranslated.pdf (10 pages).

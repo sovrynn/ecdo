@@ -1,0 +1,321 @@
+\documentclass[10pt,twocolumn,letterpaper]{article}
+
+% Đồ của tôi
+\usepackage{booktabs}
+% \usepackage{caption}
+% \captionsetup[table]{skip=8pt}   % Chỉ ảnh hưởng đến bảng
+\usepackage{stfloats}  % Thêm cái này vào phần tiền đề
+\usepackage[T5]{fontenc}
+\usepackage[vietnamese]{babel}
+
+\usepackage{cvpr}
+\usepackage{times}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+% Bao gồm các gói khác tại đây, trước hyperref.
+
+% Nếu bạn bình luận hyperref rồi sau đó bỏ bình luận nó, bạn nên xóa
+% egpaper.aux trước khi chạy lại latex.  (Hoặc chỉ cần nhấn 'q' ở lần chạy latex đầu tiên, để nó hoàn thành, và bạn sẽ ổn).
+
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\cvprfinalcopy % *** Bỏ chú thích dòng này cho bản nộp cuối cùng
+
+\def\cvprPaperID{****} % *** Nhập mã số bài báo CVPR ở đây
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+% Các trang được đánh số trong chế độ nộp bài, và không đánh số trong bản camera-ready
+%\ifcvprfinal\pagestyle{empty}\fi
+\setcounter{page}{1}
+\begin{document}
+
+%%%%%%%%% TIÊU ĐỀ
+\title{ECDO Định Hướng Dữ Liệu Phần 2/2: Một Khảo Sát Các Dị Thường Khoa Học Và Lịch Sử Được Giải Thích Tốt Nhất Bởi Hiện Tượng “Lật Trái Đất” Theo ECDO}
+
+\author{Junho\\
+Xuất bản tháng 2 năm 2025\\
+Trang web (Tải bài tại đây): \href{https://sovrynn.github.io}{sovrynn.github.io}\\
+Kho Nghiên Cứu ECDO: \href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ecdo}\\
+{\tt\small junhobtc@proton.me}
+% Đối với một bài báo mà tất cả tác giả đều thuộc cùng một tổ chức,
+% hãy bỏ qua các dòng sau cho đến dấu ``}'' kết thúc.
+% Các tác giả và địa chỉ bổ sung có thể được thêm bằng ``\and'',
+% giống như tác giả thứ hai.
+% Để tiết kiệm không gian, chỉ sử dụng địa chỉ email hoặc trang chủ, không cần cả hai
+% \and
+% xx
+% Tổ chức2\\
+% Dòng đầu tiên của địa chỉ tổ chức2\\
+% {\tt\small secondauthor@i2.org}
+}
+
+\maketitle
+%\thispagestyle{empty}
+
+%%%%%%%%% TÓM TẮT
+\begin{abstract}
+Vào tháng 5 năm 2024, một tác giả trực tuyến ẩn danh với biệt danh “The Ethical Skeptic” \cite{0} đã đăng tải một lý thuyết đột phá có tên là Dao Động Tách Rời Lõi và Manti Tỏa Nhiệt (ECDO Dzhanibekov) \cite{1}. Lý thuyết này không chỉ đề xuất rằng Trái Đất trước đây từng trải qua các thay đổi thảm khốc đột ngột về trục quay, gây ra một trận đại hồng thủy khi các đại dương tràn lên lục địa do quán tính quay, mà còn đưa ra một quá trình địa vật lý nguyên nhân giải thích cùng với dữ liệu cho thấy một lần lật ngược như vậy có thể sắp xảy ra. Mặc dù những dự báo về đại hồng thủy và tận thế như vậy không phải là mới, lý thuyết ECDO lại đặc biệt thuyết phục nhờ cách tiếp cận khoa học, hiện đại, đa ngành và dựa trên dữ liệu.
+
+Bài báo nghiên cứu này là phần thứ hai trong tổng hợp 2 phần về 6 tháng nghiên cứu độc lập \cite{2,20} về lý thuyết ECDO, tập trung cụ thể vào các hiện tượng khoa học và lịch sử dị thường được giải thích tốt nhất bởi một sự kiện lật ngược Trái Đất thảm khốc theo ECDO.
+
+\end{abstract}
+
+%%%%%%%%% NỘI DUNG CHÍNH
+
+\section{Giới thiệu}
+
+Địa chất học đồng nhất hiện đại và lịch sử cho rằng các cảnh quan địa chất lớn như hẻm núi Grand Canyon được hình thành trong hàng triệu năm \cite{143}; rằng muối tồn tại ở Thung lũng Chết (California) bởi vì nơi đây từng nằm dưới đại dương cách đây hàng trăm triệu năm \cite{144}; rằng tổ tiên của chúng ta cách đây 150 thế hệ đã dành cả đời mình xây dựng các lăng mộ khổng lồ \cite{29,70}; và rằng cái gọi là "nhiên liệu hóa thạch" đã có tuổi đời hàng trăm triệu năm \cite{104}. Có lẽ điều gây tò mò nhất là con người được tin là đã xuất hiện từ 300,000 năm trước \cite{145}, nhưng lịch sử ghi chép và nền văn minh chỉ mới có khoảng 5,000 năm - tương đương với 150 thế hệ người.
+
+Những điểm bất thường như vậy, như chúng ta sẽ thấy, được giải thích tốt nhất bởi các lực địa chất thảm họa.
+
+\section{Voi ma mút bị đóng băng chớp nhoáng chôn trong bùn}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{jarkov-mammoth.jpg}
+\end{center}
+   \caption{Voi ma mút Jarkov, một cá thể voi ma mút Siberia 20,000 năm tuổi được bảo quản hoàn hảo trong lớp bùn đóng băng \cite{51}.}
+\label{fig:1}
+\label{fig:onecol}
+\end{figure}
+
+Một loại dị thường như vậy là những con voi ma mút được bảo quản hoàn hảo, bị đông lạnh và vùi trong bùn, thường được tìm thấy ở các vùng Bắc Cực (Hình \ref{fig:1}). Con voi ma mút Beresovka, được phát hiện ở Siberia bị chôn vùi trong sỏi bùn, đã được bảo quản gần như hoàn hảo đến mức thịt của nó vẫn có thể ăn được hàng ngàn năm sau khi chết. Nó thậm chí còn có cả thức ăn thực vật trong miệng và dạ dày, làm các nhà khoa học bối rối khi không hiểu làm sao nó có thể bị đóng băng nhanh đến vậy nếu như vẫn đang gặm cỏ cây hoa ngay trước khi chết \cite{17}. Theo báo cáo, \textit{"Năm 1901 đã có một sự chấn động khi phát hiện xác nguyên vẹn của một con voi ma mút gần sông Berezovka, vì dường như con vật này đã chết vì lạnh giữa mùa hè. Những gì còn lại trong dạ dày của nó được bảo quản rất tốt và có cả hoa mao lương cũng như đậu dại đang ra hoa: nghĩa là những thứ này phải được nuốt vào khoảng cuối tháng Bảy hoặc đầu tháng Tám. Con vật đã chết đột ngột đến mức vẫn còn giữ trong miệng một mớ cỏ và hoa dại. Rõ ràng nó đã bị cuốn đi bởi một lực cực kỳ mạnh và bị hất văng đi hàng dặm khỏi bãi cỏ của mình. Xương chậu và một chân bị gãy—con vật khổng lồ này đã bị quật ngã và rồi chết vì lạnh, vào đúng thời điểm bình thường nóng nhất trong năm"} \cite{18}. Thêm vào đó, \textit{"[Các nhà khoa học Nga] ghi nhận rằng ngay cả lớp niêm mạc trong cùng của dạ dày con vật cũng có cấu trúc sợi được bảo quản hoàn hảo, điều này cho thấy thân nhiệt của nó đã bị lấy đi bởi một quá trình tự nhiên vô cùng khủng khiếp. Sanderson, đặc biệt chú ý đến chi tiết này, đã đem vấn đề đến Viện Công nghiệp Thực phẩm Đông lạnh Hoa Kỳ: Cần điều kiện gì để làm đông nguyên một con voi ma mút tới mức độ mà hàm lượng ẩm bên trong nhất của thân thể, ngay cả niêm mạc dạ dày, không có đủ thời gian để tạo thành các tinh thể nước lớn làm phá vỡ cấu trúc xơ thịt?... Vài tuần sau, Viện đã trả lời Sanderson: Điều đó hoàn toàn bất khả thi. Với tất cả kiến thức khoa học và kỹ thuật hiện đại, hoàn toàn không có cách nào lấy nhiệt ra khỏi một xác chết lớn như voi ma mút đủ nhanh để làm đông mà không hình thành các tinh thể nước lớn trong thịt. Hơn nữa, sau khi thử mọi kỹ thuật khoa học và kỹ thuật hiện có, họ đã xem xét tự nhiên và kết luận là chẳng có quá trình tự nhiên nào được biết đến có thể làm được điều đó"} \cite{19}.
+
+\section{Hẻm núi Grand Canyon}
+
+Hẻm núi Grand Canyon, một phần của Lưu vực Lớn ở tây nam Bắc Mỹ, là một hiện tượng tự nhiên khác gợi ý nguồn gốc do thảm hoạ (Hình \ref{fig:2}). Đầu tiên, các lớp đá cát kết và đá vôi trầm tích tạo nên Grand Canyon kéo dài trên diện tích khổng lồ lên tới 2,4 triệu km$^2$ \cite{21}. Hình \ref{fig:3} minh họa phạm vi lớp đá Coconino Sandstone trên khắp miền tây nước Mỹ. Những lớp nằm ngang lớn và đồng nhất như vậy chỉ có thể được hình thành đồng thời một lượt.
+
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{grand-canyon.jpg}
+\end{center}
+   \caption{Hẻm núi Grand Canyon, tại Arizona, Hoa Kỳ \cite{49}.}
+\label{fig:2}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure}[t]
+
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{coconino.jpg}
+\end{center}
+   \caption{Kích thước của lớp đá cát kết Coconino ở miền tây Hoa Kỳ \cite{21}.}
+\label{fig:3}
+\label{fig:onecol}
+\end{figure}
+
+Một cái nhìn gần hơn vào Hẻm núi Grand Canyon cho chúng ta biết rằng sự lắng đọng của những lớp trầm tích rộng lớn này cũng xảy ra đồng thời với các lực kiến tạo đáng kể. Để hiểu được điều này, chúng ta phải quan sát kỹ một số khu vực trong hẻm núi nơi các lớp trầm tích đã bị uốn cong và phơi lộ ra. Các nhà nghiên cứu từ Answers in Genesis \cite{42} đã quan sát các mẫu đá từ một số nếp uốn này dưới kính hiển vi, chẳng hạn như nếp uốn Monument, và dựa trên việc thiếu các đặc điểm đáng lẽ phải xuất hiện nếu các nếp uốn hình thành trong thời gian dài dưới tác động của nhiệt độ và áp suất, họ đã kết luận rằng các lớp trầm tích đã bị uốn cong bởi lực kiến tạo khi chúng vẫn còn mềm, tức là ngay sau khi được lắng đọng \cite{43}.
+
+\begin{figure*}
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
+\includegraphics[width=1\textwidth]{Grand_Staircase-big.jpg}
+\end{center}
+   \caption{Các lớp trầm tích tạo nên Hẻm núi Grand Canyon (bên phải của hình) trải dài trực tiếp về phía bắc đến Cedar Breaks, Utah (bên trái của hình), nơi tất cả đều bị uốn cong lên trên \cite{50}.}
+\label{fig:4}
+\end{figure*}
+Zooming out, we find that the layers making up the Grand Canyon have not just been folded inside the canyon. The layers have been folded east in the East Kaibab Monocline \cite{46}, but also to the north in Cedar Breaks, Utah (Figure \ref{fig:4}). This suggests that these layers may have all been folded together after they were laid down on top of each other in quick succession. For reference, the horizontal layers of the Grand Canyon are approximately 1700 meters in thickness. The scale of geological process required to lay down sediment layers a mile thick is enormous.
+
+Khi nhìn tổng quát, chúng ta nhận thấy rằng các tầng đá tạo nên Hẻm núi Grand Canyon không chỉ bị uốn cong bên trong hẻm núi. Các lớp này đã bị uốn cong sang phía đông tại East Kaibab Monocline \cite{46}, nhưng cũng bị uốn cong về phía bắc ở Cedar Breaks, Utah (Hình \ref{fig:4}). Điều này cho thấy các lớp này có thể đã bị uốn cong cùng nhau sau khi chúng được xếp chồng lên nhau trong một khoảng thời gian ngắn. Để tham khảo, các lớp nằm ngang của Grand Canyon dày khoảng 1700 mét. Quy mô của quá trình địa chất cần thiết để lắng đọng các lớp trầm tích dày gần 1 dặm là rất lớn.
+
+The actual formation of the Grand Canyon is another issue of contention in modern geology. Uniformitarian geology proposes that the Grand Canyon was carved by the Colorado River over millions of years \cite{47}. However, the Answers in Genesis research team believes that the Grand Canyon was most likely formed in a matter of weeks due to spillway erosion from an ancient lake breaching its boundaries, which removed massive amounts of sediment as it carved out the canyon. There is evidence of a high-elevation lake east of the Grand Canyon in lake sediment deposits and marine fossils. Comparing the Grand Canyon to other large-scale examples of spillway erosion, such as Afton Canyon and Mount St. Helens, reveals similar topography, and shows that large canyons can be created rapidly through large amounts of flowing water \cite{48}.
+
+Việc hình thành thực sự của Grand Canyon là một vấn đề tranh cãi khác trong ngành địa chất hiện đại. Địa chất đồng nhất cho rằng Grand Canyon được tạo thành bởi sông Colorado trong hàng triệu năm \cite{47}. Tuy nhiên, nhóm nghiên cứu của Answers in Genesis tin rằng Grand Canyon rất có thể được hình thành chỉ trong vài tuần do hiện tượng xói mòn tràn từ một hồ cổ đại vượt qua ranh giới của nó, loại bỏ một lượng lớn trầm tích khi cắt qua hẻm núi. Có bằng chứng về một hồ nước ở độ cao lớn phía đông Grand Canyon trong các trầm tích hồ và hóa thạch biển. So sánh Grand Canyon với các ví dụ quy mô lớn khác về xói mòn tràn, như Hẻm núi Afton và núi St. Helens, cho thấy địa hình tương tự nhau, và chứng minh rằng các hẻm núi lớn có thể được tạo ra nhanh chóng thông qua lượng nước chảy lớn \cite{48}.
+
+Considering the scale of geological processes required to lay down sediment over such massive swathes of land, the concurrency of massive tectonic forces occurring soon after the sediment layers were laid down, and the miniscule size of the Colorado River in comparison to the massive scale of the Grand Canyon, it seems that there may have been nothing gradual about its formation.
+
+Xét về quy mô của các quá trình địa chất cần thiết để lắng đọng trầm tích trên diện tích lớn như vậy, sự đồng thời của các lực kiến tạo mạnh xảy ra ngay sau khi các lớp trầm tích được hình thành, và kích thước nhỏ bé của sông Colorado so với quy mô khổng lồ của Grand Canyon, có vẻ như quá trình hình thành của nó không hề diễn ra một cách từ từ.
+
+\section{Thành phố ngầm Derinkuyu}
+
+Bên cạnh các kim tự tháp, một ví dụ tuyệt vời về kỹ thuật cổ đại là thành phố ngầm Derinkuyu (Hình \ref{fig:5}), nằm ở Cappadocia, Thổ Nhĩ Kỳ. Đây là nơi lớn nhất trong số hơn 200 nơi trú ẩn dưới lòng đất trong khu vực \cite{54}. Thành phố ngầm này ước tính từng chứa tới 20.000 người và có 18 tầng, sâu tới 85 mét. Mặc dù tuổi của thành phố chưa xác định chắc chắn, nhưng nó được ước tính ít nhất đã có 2800 năm tuổi. Thành phố này được khoét vào đá núi lửa mềm \cite{52, 53}.
+
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{derinkuyu.jpeg}
+\end{center}
+   \caption{Sơ đồ thành phố ngầm Derinkuyu \cite{56}.}
+\label{fig:5}
+\label{fig:onecol}
+\end{figure}
+The reason Derinkuyu is interesting is because it's not clear why any community would decide to build an entire city underground. In order to create living space underground, every cavity must be carved out of rock. The rough shapes and textures of the underground tunnels make it clear these were carved with manual labor, rather than with power tools, which would have been orders of magnitude more difficult than building shelters above ground. In fact, it's not apparent why any human would want to permanently live underground during the confines of their earthly life, when agriculture, sunlight, nature, and exploration are only available above ground. Conventional "history" proposes that Derinkuyu was created by Christians who needed a secluded place to practice their religion \cite{53}. But common sense would conclude that the most straightforward way to deal with enemies is "fight or flight", not "carve an underground city out of rock".
+
+Lý do Derinkuyu thú vị là bởi vì không rõ tại sao bất kỳ cộng đồng nào lại quyết định xây dựng cả một thành phố dưới lòng đất. Để tạo ra không gian sinh sống dưới lòng đất, mọi khoang đều phải được khoét ra từ đá. Hình dạng và kết cấu thô ráp của các đường hầm dưới lòng đất cho thấy rõ ràng những nơi này được khoét bằng sức lao động thủ công, thay vì dùng máy móc, điều này sẽ khó khăn hơn hàng chục lần so với việc xây dựng nơi trú ẩn trên mặt đất. Thực tế, không rõ tại sao con người lại muốn sống vĩnh viễn dưới lòng đất trong suốt cuộc đời của mình, khi mà nông nghiệp, ánh sáng mặt trời, thiên nhiên, và khám phá chỉ có trên mặt đất. "Lịch sử" truyền thống cho rằng Derinkuyu được tạo ra bởi những người Cơ Đốc cần một nơi ẩn dật để thực hành tôn giáo của họ \cite{53}. Nhưng lẽ thường thì cho rằng cách hợp lý nhất để đối phó với kẻ thù là "chiến đấu hoặc chạy trốn", chứ không phải "khoét một thành phố dưới lòng đất từ đá".
+
+The scale, depth, and thoughtfulness of the design of the underground city make it clear that it wasn't designed as a temporary military defensive structure to better fight invaders in times of duress, but rather, a long-term shelter to protect against fatal forces on the surface. Derinkuyu was equipped with not only basic bedrooms, kitchens, and bathrooms, but also stables for animals, water tanks, food storage, wine and oil presses, schools, chapels, tombs, and massive ventilation shafts (Figure \ref{fig:6}). Why would a military shelter require a wine press and need to be be dug 85 meters deep with such complexity?
+
+Quy mô, độ sâu và sự tỉ mỉ trong thiết kế của thành phố ngầm này cho thấy rõ ràng nó không được xây dựng để làm một cấu trúc phòng thủ quân sự tạm thời nhằm chiến đấu với quân xâm lược trong thời kỳ nguy nan, mà đúng hơn là một nơi trú ẩn lâu dài để bảo vệ con người khỏi các thế lực nguy hiểm trên bề mặt. Derinkuyu không chỉ có phòng ngủ, bếp và nhà vệ sinh cơ bản, mà còn có cả chuồng trại cho động vật, bồn chứa nước, kho lương thực, máy ép rượu vang và dầu, trường học, nhà nguyện, hầm mộ, và trục thông gió khổng lồ (Hình \ref{fig:6}). Tại sao một nơi trú ẩn quân sự lại cần máy ép rượu vang và phải được đào sâu đến 85 mét với sự phức tạp như vậy?
+
+The most plausible explanation for the creation of Derinkuyu would have been a pressing need to prepare a long-term, self-sustaining shelter to protect against catastrophic geophysical forces on Earth's surface.
+
+Giải thích hợp lý nhất cho việc xây dựng Derinkuyu chính là sự cần thiết bức thiết phải chuẩn bị một nơi trú ẩn lâu dài, tự duy trì, nhằm bảo vệ khỏi các lực lượng địa chất thảm khốc trên bề mặt Trái Đất.
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{derinkuyu-air.jpg}
+\end{center}
+   \caption{Một giếng thông gió sâu ở Derinkuyu \cite{53}.}
+\label{fig:6}
+\label{fig:onecol}
+\end{figure}
+
+% \section{Các Dị thường Bổ sung Được Giải thích Tốt Nhất Bởi Sự Lật Đổ Của Trái Đất}
+
+% Trước khi kết thúc, chúng tôi sẽ đề cập đến một số dị thường khoa học bổ sung mà, khi được xem xét trong bối cảnh các lực lượng địa chất thảm khốc, sẽ được giải thích một cách hợp lý.
+\section{Sự Tích Lũy Sinh Khối}
+
+Hỗn hợp sinh khối của nhiều loài động vật và thực vật khác nhau, thường được tìm thấy dưới dạng hóa thạch trong các lớp trầm tích, là một hiện tượng bí ẩn khác. Trong "Reliquoæ Diluvianæ", Mục sư William Buckland mô tả chi tiết các phát hiện về nhiều loài động vật mà không có lý do nào giải thích được tại sao lại cùng tồn tại, rải rác khắp nước Anh và Châu Âu, bị chôn vùi trong các lớp trầm tích 'diluvium' \cite{58}. Những hỗn hợp xương động vật như vậy cũng được phát hiện ở hang Skjonghelleren trên đảo Valdroy, Na Uy. Trong hang này, hơn 7.000 bộ xương động vật có vú, chim và cá đã được phát hiện trộn lẫn qua nhiều lớp trầm tích \cite{59}. Một ví dụ khác là San Ciro, "Hang của những Người Khổng Lồ", ở Ý. Trong hang này, nhiều tấn xương động vật có vú, chủ yếu là hà mã, được phát hiện trong tình trạng tươi đến mức chúng bị cắt ra làm trang sức và xuất khẩu để sản xuất bột đèn. Xương của các loài động vật khác nhau được cho là đã bị trộn lẫn, gãy, vỡ vụn và phân tán thành các mảnh nhỏ \cite{60,61}. Ở Mendes cổ đại, Ai Cập, một hỗn hợp các loài xương động vật đã được phát hiện trộn lẫn với đất sét thủy tinh (hóa thủy tinh) \cite{57}. Những phát hiện như vậy có thể gây bối rối, nhưng lại được giải thích dễ dàng bởi các trận lụt lớn đã phủ lấp các hỗn hợp xác động vật trong các lớp trầm tích, đẩy các động vật vào hang hoặc chôn sống chúng, và trong trường hợp sinh khối bị hóa thủy tinh ở Ai Cập, là do các xung điện lớn hậu lụt từ sự dịch chuyển lõi-manti. Hình \ref{fig:7} mô tả một phần lộ ra điển hình của "bùn" sinh khối ở Alaska \cite{56}.
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{muck-crop.jpeg}
+\end{center}
+   \caption{"Bùn" ở Alaska, bao gồm các mảnh vụn của cây cối, thực vật và động vật rải rác hỗn loạn trong phù sa và băng đóng băng \cite{146}.}
+\label{fig:7}
+\label{fig:onecol}
+\end{figure}
+
+\section{Hầm Trú Ẩn Cổ Đại}
+
+Tổ tiên chúng ta đã để lại nhiều công trình cổ đại được kỹ thuật hóa cao, nơi đã phát hiện ra các di cốt người. Những công trình này thường được cho là các lăng mộ được xây dựng cầu kỳ, nhưng nếu nhìn kỹ hơn, có thể đây thực sự là các hầm trú ẩn cổ đại.
+
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{ww19.jpg}
+\end{center}
+   \caption{Newgrange, Ireland - xem du khách tại lối vào để so sánh kích thước.}
+\label{fig:8}
+\label{fig:onecol}
+\end{figure}
+
+Một ví dụ tuyệt vời là Newgrange (Hình \ref{fig:8}), tượng đài chính trong quần thể Brú na Bóinne, một tập hợp các công trình cổ đại bao gồm các mộ hành lang. Những ngôi mộ này bao gồm một hoặc nhiều buồng chôn cất được phủ bằng đất hoặc đá và có một lối vào hẹp làm bằng những tảng đá lớn \cite{70}. Đây là một ví dụ về kỹ thuật xây dựng rộng lớn cho một công trình phức tạp được bảo vệ, được xây dựng qua nhiều thế hệ, dường như chỉ để chôn cất một số ít người, những người thậm chí không còn sống khi quá trình xây dựng bắt đầu. Khi nó được phát hiện lại bởi một chủ đất địa phương vào năm 1699, nó đã bị chôn vùi trong đất.
+
+Một cái nhìn lướt qua cấu trúc đã cho thấy nỗ lực to lớn bỏ ra để xây dựng nó - Newgrange bao gồm khoảng 200.000 tấn vật liệu. Bên trong nó, \textit{"...là một hành lang có buồng, có thể tiếp cận qua một lối vào ở phía đông nam của tượng đài. Hành lang kéo dài 19 mét (60 ft), tức khoảng một phần ba chiều dài vào trung tâm của cấu trúc. Ở cuối hành lang có ba buồng nhỏ nối với một buồng trung tâm lớn hơn với mái vòm hình vòm chóp cao... Các bức tường của hành lang này được tạo nên từ những tấm đá lớn gọi là orthostat, với hai mươi hai tấm ở phía tây và hai mươi mốt tấm ở phía đông. Chúng cao trung bình 1½ mét”} \cite{70}. Cũng có những chi tiết kỹ thuật chống thấm rất phức tạp. Ví dụ, ở mái ngói, \textit{“Các khe hở trên mái được trát bằng hỗn hợp đất nung và cát biển để chống thấm nước và từ hỗn hợp này đã thu được hai niên đại cacbon phóng xạ tập trung quanh năm 2500 TCN cho kết cấu của ngôi mộ”} \cite{71}. Ngoài ra, một độ nâng nền dẫn vào buồng trong cũng có thể được thực hiện vì mục đích tương tự: \textit{"Vì sàn của hành lang và buồng của ngôi mộ theo độ dốc của ngọn đồi nơi tượng đài được xây dựng nên có sự chênh lệch gần 2 mét giữa cao độ của lối vào và bên trong buồng"} \cite{71}.
+
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{dolmen.jpg}
+\end{center}
+   \caption{Dolmen de Soto, Tây Ban Nha \cite{53}.}
+\label{fig:9}
+\label{fig:onecol}
+
+\end{figure}
+
+Việc thiếu hài cốt bên trong cũng là một điểm đáng chú ý. Các cuộc khai quật đã phát hiện các mảnh xương cháy và không cháy, đại diện cho một vài người, rải rác trong hành lang. Việc xây dựng Newgrange được ước tính kéo dài ít nhất vài thế hệ dựa trên niên đại carbon của các vật liệu bên trong. Tại sao một cộng đồng cổ đại lại bỏ ra rất nhiều công sức để xây dựng một ngôi mộ khổng lồ, kỹ thuật cao chỉ để rải rác xương của một vài người đã khuất trong lối đi của nó? Hợp lý hơn nhiều khi cho rằng những cấu trúc đá megalith cổ xưa và được chống thấm cẩn thận này thực ra được xây dựng làm nơi trú ẩn cho con người nhằm bảo vệ họ trước những thảm họa định kỳ của Trái Đất.
+
+Tại Huelva, miền nam Tây Ban Nha, một ví dụ tương tự là Dolmen de Soto (Hình \ref{fig:9}), một trong khoảng 200 địa điểm tương tự trong khu vực \cite{72,32}. Đây là một cấu trúc tinh gọn, được thiết kế kỹ lưỡng bằng các khối đá megalith và có đường kính 75 mét. Theo báo cáo, chỉ tìm thấy tám bộ hài cốt khi khai quật, tất cả đều được chôn ở tư thế thai nhi.
+
+\section{Đề cập về những Dị thường Đáng chú ý}
+
+Trong phần này, tôi sẽ đề cập ngắn gọn đến một số dị thường đáng chú ý hơn, tất cả đều được giải thích hợp lý bởi một thảm họa tương tự ECDO.
+
+\subsection{Dị thường Sinh học}
+
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{bottleneck.jpg}
+\end{center}
+   \caption{Một nút thắt cổ chai di truyền thể hiện sự sàng lọc 95\% nam giới khoảng 6.000 năm trước \cite{62}.}
+\label{fig:10}
+\label{fig:onecol}
+\end{figure}
+
+Một số dị thường sinh học đáng chú ý là nút thắt di truyền và hóa thạch cá voi trong đất liền. Zeng và cộng sự (2018) đã mô phỏng 125 trình tự nhiễm sắc thể Y từ người hiện đại, và dựa trên các điểm tương đồng và đột biến trong DNA, xác định một nút thắt suy giảm dân số nam giới đến 95\% vào khoảng 5.000 đến 7.000 năm trước (Hình \ref{fig:10}) \cite{62}. Hóa thạch cá voi đã được tìm thấy ở độ cao hàng trăm mét trên mực nước biển, tại Swedenborg, Michigan, Vermont, Canada, Chile, và Ai Cập \cite{63,64,65,66}. Các hóa thạch cá voi này được tìm thấy ở nhiều trạng thái khác nhau: được bảo quản hoàn hảo, nằm trong đầm lầy phía trên các lớp băng tích, hoặc bị chôn vùi trong trầm tích. Số lượng mẫu vật tại những địa điểm này dao động từ vài cái cho đến hơn một trăm cái. Cá voi là loài sinh vật biển sâu và hiếm khi tiếp cận gần bờ biển. Làm thế nào mà những con cá voi này lại xuất hiện ở những vị trí có độ cao như vậy, thậm chí ở khoảng cách xa đất liền?
+
+Trong lịch sử Trái Đất đã từng xảy ra nhiều sự kiện tuyệt chủng hàng loạt, được nghiên cứu kỹ lưỡng nhất là "Năm sự kiện lớn" của kỷ Phanerozoic: sự kiện tuyệt chủng cuối Ordovic (LOME), cuối Devon (LDME), cuối Permi (EPME), cuối Trias (ETME), và cuối Creta (ECME) \cite{88,89}. Thật kỳ lạ, một số trong các sự kiện tuyệt chủng này được phân loại là xảy ra cùng thời kỳ lịch sử với nhiều lớp đất đá của Hẻm núi Grand Canyon, cụ thể là các lớp đá của kỷ Permi và Devon.
+
+\subsection{Các dị thường vật lý}
+
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{columbia.jpg}
+\end{center}
+   \caption{Các gợn sóng dòng chảy khổng lồ tại hồ băng Columbia, bang Washington \cite{80}.}
+\label{fig:11}
+\label{fig:onecol}
+\end{figure}
+
+Có rất nhiều cảnh quan ngoài Hẻm núi Grand Canyon cũng có khả năng được hình thành bởi các lực tàn phá dữ dội. Bằng chứng về dòng chảy nước khổng lồ trên lục địa có thể được tìm thấy ở các gợn sóng dòng chảy khổng lồ trên toàn cầu. Một ví dụ là khu Channeled Scablands ở khu vực Tây Bắc Thái Bình Dương. Ở đây, ta không chỉ nhìn thấy các hiện tượng cảnh quan trầm tích và các tảng đá trôi dạt, mà còn có hơn một trăm dãy gợn sóng lớn hình thành do dòng chảy cực mạnh \cite{78,79}. Đây là những phiên bản quy mô lớn hơn của các gợn sóng trên nền cát của lòng suối. Những gợn sóng này có thể tìm thấy ở khắp nơi trên thế giới như Pháp, Argentina, Nga, và Bắc Mỹ \cite{81}. Hình \ref{fig:11} mô tả một số gợn sóng này tại bang Washington của Hoa Kỳ \cite{80}.
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{zhangjiajie.jpg}
+\end{center}
+   \caption{Những trụ đá khổng lồ ở rừng quốc gia Trương Gia Giới, miền nam Trung Quốc.}
+\label{fig:12}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{hoy.jpg}
+\end{center}
+   \caption{Cột đá biển Old Man of Hoy, Scotland \cite{83}.}
+\label{fig:13}
+\label{fig:onecol}
+\end{figure}
+Inland erosion structures are also well-explained by an ECDO-like Earth flip. Southern China is a great example of massive karst landscapes, formed through water erosion \cite{82}. These landscapes include tower karst, pinnacle karst, cone karst, natural bridges, gorges, large cave systems, and sinkholes. One of the most striking of these is the Zhangjiajie National Forest, which contains massive quartz sandstone pillars (Figure \ref{fig:12}) \cite{84}. These pillars stand at an average elevation of over 1,000 meters and number more than 3,100. More than 1,000 of them soar above 120 meters tall, and 45 reach over 300 meters \cite{85}. These pillars resemble sea erosion pillars (Figure \ref{fig:13}), which are coastal rock pillars formed by the collapse of surrounding material due to ocean waves. Similar erosion landscapes can be found in the rock cones of Urgup, Turkey, as well as Ciudad Encantada, Spain, which are both over 1,000 meters above sea level. All these locations have some combination of salt and oceanic marine fossils in close proximity to them, suggesting past marine incursions \cite{15,86,87}. Of course, the flood stories \cite{3} mention the ocean going much higher than 1,000 meters, and this is verified by the presence of saltwater and massive salt flats in the Andes and Himalayas several kilometers above sea level. The Uyuni salt flat in Bolivia, for example, reaches 3653 meters above sea level \cite{94}.
+
+\subsection{Các sự kiện thay đổi khí hậu nhanh}
+
+Tài liệu khoa học hiện đại công nhận sự tồn tại của các sự kiện thay đổi khí hậu toàn cầu rất nhanh trong lịch sử gần đây của Trái Đất. Hai ví dụ đáng chú ý là sự kiện 4.2 nghìn năm và 8.2 nghìn năm, cả hai đều trùng hợp với sự giảm dân số và rối loạn định cư xã hội trên các khu vực địa lý rộng lớn. Các sự kiện này được lưu giữ dưới dạng các dị thường trong lõi trầm tích và băng, san hô hóa thạch, giá trị đồng vị O18, hồ sơ phấn hoa và măng đá, và dữ liệu mực nước biển. Các thay đổi khí hậu suy ra bao gồm sự giảm nhanh nhiệt độ toàn cầu, khô hạn, sự rối loạn dòng hoàn lưu kinh tuyến Đại Tây Dương, và sự tiến triển của băng hà \cite{90,91,92}. Đặc biệt, sự kiện 8.2 nghìn năm trùng hợp với khả năng lũ lụt nước mặn kịch tính ở Biển Đen vào khoảng năm 6400 TCN \cite{93}.
+
+\subsection{Những điểm dị thường khảo cổ học}
+
+Bằng chứng khảo cổ về một số thành phố cổ cho thấy nhiều lớp chôn vùi và tàn phá, tạo thành các ghi chép về các sự kiện thảm họa trong quá khứ. Thành cổ Jericho là một ví dụ như vậy, nằm ở Palestine ngày nay. Nó có nhiều lớp tàn phá, với các cấu trúc đá bị sụp đổ và cháy dữ dội \cite{96,97}. Niên đại được ghi lại trong các lớp này kéo dài từ khoảng 9000 TCN đến 2000 TCN. Đặc biệt đáng chú ý là tòa tháp của nó, dường như đã bị cắt ngang và chôn vùi trong trầm tích vào khoảng năm 7400 TCN (Hình \ref{fig:14}) \cite{95}. Catal Huyuk \cite{99}, Gramalote \cite{98}, và cung điện Minoan ở Knossos trên đảo Crete \cite{100,101} đều là những ví dụ tương tự về các di chỉ khảo cổ học có nhiều lớp, thường có bằng chứng về sự tàn phá.
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{jericho.jpg}
+\end{center}
+   \caption{Phục dựng khảo cổ về việc chôn vùi Tháp Jericho vào khoảng năm 7400 TCN \cite{95}.}
+\label{fig:14}
+\label{fig:onecol}
+\end{figure}
+Another piece of evidence for major cataclysms disrupting human civilization is the Nampa Image, a clay doll found beneath approximately 100 meters of lava in Idaho \cite{102,103}. The lava flow under which the figurine was found was estimated to be deposited during the Late Tertiary or early Quaternary period, supposedly being 2 million years old. However, the lava flow in the region appears to be relatively fresh. Such finds not only point to major civilization-destroying cataclysms, but also call into question modern dating chronologies.
+
+Một bằng chứng khác cho những thảm họa lớn làm gián đoạn nền văn minh nhân loại là Hình Nampa, một bức tượng nhỏ bằng đất sét được tìm thấy dưới khoảng 100 mét nham thạch ở Idaho \cite{102,103}. Dòng chảy nham thạch nơi phát hiện bức tượng được ước tính là được hình thành vào cuối kỷ Đệ Tam hoặc đầu kỷ Đệ Tứ, được cho là đã 2 triệu năm tuổi. Tuy nhiên, dòng nham thạch ở khu vực này dường như còn khá mới. Những phát hiện như vậy không chỉ cho thấy các thảm họa lớn có khả năng hủy diệt nền văn minh, mà còn đặt nghi vấn đối với các niên đại hiện đại.
+
+\section{Về phương pháp định tuổi hiện đại}
+
+Có nhiều lý do để hoài nghi về các niên đại hiện đại, vốn gán cho các vật liệu vật lý những độ tuổi rất dài lên đến hàng triệu, thậm chí hàng trăm triệu năm.
+
+Câu chuyện thông thường cho rằng các "nhiên liệu hóa thạch" như than đá, dầu mỏ, và khí tự nhiên đã có tuổi thọ hàng trăm triệu năm \cite{104}. Tuy nhiên, một phép định tuổi cacbon thật sự đối với dầu ở Vịnh Mexico đã cho ra kết quả khoảng 13.000 năm \cite{105}. Cacbon-14 có chu kỳ bán rã rất ngắn (5.730 năm), nên được cho là sẽ phân rã hoàn toàn sau vài trăm nghìn năm. Tuy vậy, nó đã được tìm thấy trong than đá và hóa thạch được cho là già hơn gấp cả ngàn lần \cite{106}. Thực tế, than nhân tạo đã được tạo ra trong phòng thí nghiệm dưới điều kiện kiểm soát, chủ yếu là nhiệt độ cao, chỉ trong 2-8 tháng \cite{107}.
+
+Các phương pháp định tuổi đồng vị phóng xạ khác ngoài định tuổi bằng cacbon cũng có thể không chính xác. Nhóm nghiên cứu Answers in Genesis đã tìm thấy sự không nhất quán trong các kết quả định tuổi từ các phương pháp này, điều này làm dấy lên nghi ngờ về độ tin cậy của chúng \cite{108}. Thậm chí, mô mềm chứa tế bào máu, mạch máu và collagen đã được tìm thấy trong hài cốt khủng long được cho là đã hàng trăm triệu năm tuổi \cite{109,110}. Dựa trên những gì chúng ta biết, có khả năng các độ tuổi được chấp nhận rộng rãi liên quan đến niên đại địa chất và các vật liệu vật lý như đá và nhiên liệu hóa thạch của Trái Đất có thể sai lệch hàng nhiều bậc lớn.
+
+\section{Kết luận}
+
+Trong bài viết này, tôi đã đề cập đến những dị thường thuyết phục nhất cho thấy nguồn gốc thảm họa và được giải thích tốt nhất bởi mô hình lật Trái Đất ECDO. Tuy các trường hợp được trình bày rất đa dạng, nhưng bộ sưu tập này còn chưa đầy đủ – nhiều dị thường khác đã được tổng hợp và công khai trên kho GitHub nghiên cứu của tôi \cite{2}.
+
+\section{Lời cảm ơn}
+
+Cảm ơn Ethical Skeptic, tác giả gốc của luận đề ECDO, vì đã hoàn thành công trình xuất sắc, đột phá của mình và chia sẻ nó với thế giới. Bộ ba luận đề của ông \cite{1} vẫn là tác phẩm mang tính nền tảng đối với lý thuyết Dao động Dzhanibekov Tách rời Lõi-Manti sinh nhiệt (ECDO), và chứa đựng nhiều thông tin hơn rất nhiều so với phần tôi đã tóm tắt ngắn gọn ở đây.
+
+Và dĩ nhiên, xin gửi lời cảm ơn đến những người khổng lồ mà chúng ta đứng trên vai họ; những người đã thực hiện mọi nghiên cứu và điều tra làm nên công trình này, và đã cống hiến để mang ánh sáng đến cho nhân loại.
+\clearpage
+\twocolumn
+
+{\small
+\renewcommand{\refname}{Tài liệu tham khảo}
+\bibliographystyle{ieee}
+\bibliography{egbib}
+}
+
+\end{document}

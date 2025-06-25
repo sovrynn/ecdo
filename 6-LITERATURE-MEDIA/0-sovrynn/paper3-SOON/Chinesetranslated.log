@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.6.13)  20 JUN 2025 23:35
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.6.13)  21 JUN 2025 17:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -674,15 +674,15 @@ File: penta.jpg Graphic file (type bmp)
 <penta.jpg>
 File: undersea.jpg Graphic file (type bmp)
 <undersea.jpg>
-File: basescrop.png Graphic file (type bmp)
-<basescrop.png>
+File: baseschn.png Graphic file (type bmp)
+<baseschn.png>
  [3]
 File: sub.jpg Graphic file (type bmp)
 <sub.jpg>
 File: iran.jpeg Graphic file (type bmp)
 <iran.jpeg>
 
-Underfull \vbox (badness 5008) has occurred while \output is active []
+Underfull \vbox (badness 3826) has occurred while \output is active []
 
  [4]
 File: tyrol.jpg Graphic file (type bmp)
@@ -694,8 +694,8 @@ Underfull \hbox (badness 2529) in paragraph at lines 231--232
 []\TU/FandolSong-Regular(0)/m/n/10 据 说 硅 谷 的 商 业 大 亨 们 也 深 谙 此 道。|  据 报
  []
 
-File: govcrop2.png Graphic file (type bmp)
-<govcrop2.png>
+File: govchn.png Graphic file (type bmp)
+<govchn.png>
 [5]
 File: illuminati.jpg Graphic file (type bmp)
 <illuminati.jpg>
@@ -823,10 +823,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15259 strings out of 476443
- 370735 string characters out of 5793962
+ 15235 strings out of 476443
+ 368970 string characters out of 5793962
  1967627 words of memory out of 5000000
- 36986 multiletter control sequences out of 15000+600000
+ 36962 multiletter control sequences out of 15000+600000
  567212 words of font info for 92 fonts, out of 8000000 for 9000
  264 hyphenation exceptions out of 8191
  74i,9n,81p,667b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
