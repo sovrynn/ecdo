@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.6.13)  25 JUN 2025 16:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.6.27)  3 JUL 2025 07:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -325,8 +325,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip55
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
-0.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4
+1.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -376,24 +376,24 @@ LaTeX Warning: Label `fig:onecol' multiply defined.
 )
 \openout1 = `2spanishtranslated.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
  ABD: EveryShipout initializing macros
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
@@ -426,21 +426,21 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 30.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 54.
+Package hyperref Info: Link coloring OFF on input line 41.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 65.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 54.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 65.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 5
-4.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 6
+5.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
@@ -448,10 +448,10 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 <jarkov-mammoth.jpg, id=16, 1284.8pt x 856.19875pt>
 File: jarkov-mammoth.jpg Graphic file (type jpg)
 <use jarkov-mammoth.jpg>
-Package pdftex.def Info: jarkov-mammoth.jpg  used on input line 76.
+Package pdftex.def Info: jarkov-mammoth.jpg  used on input line 87.
 (pdftex.def)             Requested size: 237.13594pt x 158.02847pt.
 
-Underfull \hbox (badness 1281) in paragraph at lines 83--84
+Underfull \hbox (badness 1281) in paragraph at lines 94--95
 []\OT1/ptm/m/n/10 Una de es-tas cat-e-gor[]^^Pas de anomal[]^^Pas son los ma-
  []
 
@@ -463,12 +463,12 @@ dist/fonts/enc/dvips/base/8r.enc}
 <grand-canyon.jpg, id=50, 481.8pt x 321.2pt>
 File: grand-canyon.jpg Graphic file (type jpg)
 <use grand-canyon.jpg>
-Package pdftex.def Info: grand-canyon.jpg  used on input line 92.
+Package pdftex.def Info: grand-canyon.jpg  used on input line 103.
 (pdftex.def)             Requested size: 237.13594pt x 158.09024pt.
 <coconino.jpg, id=52, 923.45pt x 1123.19624pt>
 File: coconino.jpg Graphic file (type jpg)
 <use coconino.jpg>
-Package pdftex.def Info: coconino.jpg  used on input line 102.
+Package pdftex.def Info: coconino.jpg  used on input line 113.
 (pdftex.def)             Requested size: 237.13594pt x 288.42503pt.
 
 Underfull \vbox (badness 2384) has occurred while \output is active []
@@ -477,7 +477,7 @@ Underfull \vbox (badness 2384) has occurred while \output is active []
 <Grand_Staircase-big.jpg, id=70, 1355.0625pt x 385.44pt>
 File: Grand_Staircase-big.jpg Graphic file (type jpg)
 <use Grand_Staircase-big.jpg>
-Package pdftex.def Info: Grand_Staircase-big.jpg  used on input line 114.
+Package pdftex.def Info: Grand_Staircase-big.jpg  used on input line 125.
 (pdftex.def)             Requested size: 496.85625pt x 141.32843pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -485,31 +485,31 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <derinkuyu.jpeg, id=81, 1003.75pt x 648.4225pt>
 File: derinkuyu.jpeg Graphic file (type jpg)
 <use derinkuyu.jpeg>
-Package pdftex.def Info: derinkuyu.jpeg  used on input line 133.
+Package pdftex.def Info: derinkuyu.jpeg  used on input line 144.
 (pdftex.def)             Requested size: 237.13594pt x 153.19063pt.
  [3 <./Grand_Staircase-big.jpg> <./derinkuyu.jpeg>]
 <derinkuyu-air.jpg, id=102, 1927.2pt x 1445.4pt>
 File: derinkuyu-air.jpg Graphic file (type jpg)
 <use derinkuyu-air.jpg>
-Package pdftex.def Info: derinkuyu-air.jpg  used on input line 149.
+Package pdftex.def Info: derinkuyu-air.jpg  used on input line 160.
 (pdftex.def)             Requested size: 237.13594pt x 177.85152pt.
 <muck-crop.jpeg, id=112, 969.6225pt x 637.38126pt>
 File: muck-crop.jpeg Graphic file (type jpg)
 <use muck-crop.jpeg>
-Package pdftex.def Info: muck-crop.jpeg  used on input line 166.
+Package pdftex.def Info: muck-crop.jpeg  used on input line 177.
 (pdftex.def)             Requested size: 237.13594pt x 155.88258pt.
 
-Underfull \hbox (badness 1383) in paragraph at lines 175--176
+Underfull \hbox (badness 1383) in paragraph at lines 186--187
 \OT1/ptm/m/n/10 tiguas al-ta-mente sofisti-cadas donde se han en-con-trado
  []
 
 <ww19.jpg, id=115, 955.57pt x 642.4pt>
 File: ww19.jpg Graphic file (type jpg)
 <use ww19.jpg>
-Package pdftex.def Info: ww19.jpg  used on input line 180.
+Package pdftex.def Info: ww19.jpg  used on input line 191.
 (pdftex.def)             Requested size: 237.13594pt x 159.41353pt.
 
-Underfull \hbox (badness 1062) in paragraph at lines 187--188
+Underfull \hbox (badness 1062) in paragraph at lines 198--199
 []\OT1/ptm/m/n/10 Un ex-ce-lente ejem-plo es New-grange (Figura []8[]), el
  []
 
@@ -517,23 +517,23 @@ Underfull \hbox (badness 1062) in paragraph at lines 187--188
 <dolmen.jpg, id=136, 803.0pt x 504.88625pt>
 File: dolmen.jpg Graphic file (type jpg)
 <use dolmen.jpg>
-Package pdftex.def Info: dolmen.jpg  used on input line 194.
+Package pdftex.def Info: dolmen.jpg  used on input line 205.
 (pdftex.def)             Requested size: 237.13594pt x 149.09422pt.
 
 Underfull \vbox (badness 1577) has occurred while \output is active []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--208
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
 []\OT1/ptm/m/n/10 En esta secci[]on, men-ciono breve-mente al-gu-nas
  []
 
 <bottleneck.jpg, id=141, 657.45625pt x 1208.515pt>
 File: bottleneck.jpg Graphic file (type jpg)
 <use bottleneck.jpg>
-Package pdftex.def Info: bottleneck.jpg  used on input line 214.
+Package pdftex.def Info: bottleneck.jpg  used on input line 225.
 (pdftex.def)             Requested size: 237.13594pt x 435.89488pt.
 [5 <./ww19.jpg> <./dolmen.jpg>]
-Underfull \hbox (badness 1675) in paragraph at lines 223--224
+Underfull \hbox (badness 1675) in paragraph at lines 234--235
 []\OT1/ptm/m/n/10 Numerosas ex-tin-ciones ma-si-vas han ocur-rido en el
  []
 
@@ -543,33 +543,33 @@ Underfull \vbox (badness 2126) has occurred while \output is active []
 <columbia.jpg, id=168, 687.56876pt x 444.66125pt>
 File: columbia.jpg Graphic file (type jpg)
 <use columbia.jpg>
-Package pdftex.def Info: columbia.jpg  used on input line 230.
+Package pdftex.def Info: columbia.jpg  used on input line 241.
 (pdftex.def)             Requested size: 237.13594pt x 153.354pt.
 
-Underfull \hbox (badness 1596) in paragraph at lines 232--232
-[]\OT1/ptm/m/n/9 Figure 11. []Ondas de cor-ri-ente ma-si-vas en el Lago Glacial
+Underfull \hbox (badness 1596) in paragraph at lines 243--243
+[]\OT1/ptm/m/n/9 Figura 11. []Ondas de cor-ri-ente ma-si-vas en el Lago Glacial
 
  []
 
 <zhangjiajie.jpg, id=176, 1204.5pt x 803.0pt>
 File: zhangjiajie.jpg Graphic file (type jpg)
 <use zhangjiajie.jpg>
-Package pdftex.def Info: zhangjiajie.jpg  used on input line 242.
+Package pdftex.def Info: zhangjiajie.jpg  used on input line 253.
 (pdftex.def)             Requested size: 237.13594pt x 158.08533pt.
 <hoy.jpg, id=177, 770.88pt x 433.62pt>
 File: hoy.jpg Graphic file (type jpg)
 <use hoy.jpg>
-Package pdftex.def Info: hoy.jpg  used on input line 252.
+Package pdftex.def Info: hoy.jpg  used on input line 263.
 (pdftex.def)             Requested size: 237.13594pt x 133.38863pt.
 [6 <./bottleneck.jpg> <./columbia.jpg> <./zhangjiajie.jpg>]
-Underfull \hbox (badness 1057) in paragraph at lines 267--268
+Underfull \hbox (badness 1057) in paragraph at lines 278--279
 \OT1/ptm/m/n/10 mues-tra m[]ultiples ca-pas que in-volu-cran en-tierro y de-
  []
 
 <jericho.jpg, id=215, 1082.0425pt x 1087.06125pt>
 File: jericho.jpg Graphic file (type jpg)
 <use jericho.jpg>
-Package pdftex.def Info: jericho.jpg  used on input line 272.
+Package pdftex.def Info: jericho.jpg  used on input line 283.
 (pdftex.def)             Requested size: 237.13594pt x 238.22533pt.
 [7 <./hoy.jpg> <./jericho.jpg>] [8] (./2spanishtranslated.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 9--11
@@ -704,19 +704,19 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 10393 strings out of 475662
- 156670 string characters out of 5784442
+ 10393 strings out of 475142
+ 156670 string characters out of 5776209
  1950975 words of memory out of 5000000
- 32274 multiletter control sequences out of 15000+600000
+ 32285 multiletter control sequences out of 15000+600000
  580876 words of font info for 89 fonts, out of 8000000 for 9000
- 264 hyphenation exceptions out of 8191
+ 680 hyphenation exceptions out of 8191
  75i,9n,79p,2746b,624s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on 2spanishtranslated.pdf (10 pages, 3146322 bytes).
+Output written on 2spanishtranslated.pdf (10 pages, 3146320 bytes).
 PDF statistics:
  359 PDF objects out of 1000 (max. 8388607)
  310 compressed objects within 4 object streams

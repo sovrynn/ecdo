@@ -1,0 +1,5 @@
+\documentclass[10pt,twocolumn,letterpaper]{article}
+
+% मेरो आफ्नै सामग्री
+\usepackage{booktabs}
+% \usepackage{caption}

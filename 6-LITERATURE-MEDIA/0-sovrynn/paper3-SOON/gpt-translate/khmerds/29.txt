@@ -1,0 +1,5 @@
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{undersea.jpg}
+\end{center}
+   \caption{រូបភាពបង្ហាញអំពីមូលដ្ឋានក្រោមសមុទ្រ ដោយ Walter Koerschner។ គាត់ជាអ្នកគូររូបភាពសម្រាប់ក្រុមមូលដ្ឋានក្រោមសមុទ្រ Rock-Site របស់កងទ័ពសមុទ្រអាមេរិកនៅមជ្ឈមណ្ឌលអាវុធនៅ China Lake, California ក្នុងទសវត្សរ៍ឆ្នាំ 1960។ ប្រភពមួយរបស់ Sauder បានបង្ហាញថាមានមូលដ្ឋានក្រោមដីមួយជ្រៅមួយម៉ាយនៅ China Lake \cite{22,23}។}

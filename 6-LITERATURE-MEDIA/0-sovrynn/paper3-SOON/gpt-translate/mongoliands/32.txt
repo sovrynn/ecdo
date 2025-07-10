@@ -1,0 +1,5 @@
+\end{center}
+   \caption{Усны доорхи шумбагч онгоцны хонгилын дүрслэл, Валтер Көршнер \cite{22,23}.}
+\label{fig:6}
+\label{fig:onecol}
+\end{figure}

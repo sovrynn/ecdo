@@ -1,0 +1,9 @@
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{jarkov-mammoth.jpg}
+\end{center}
+   \caption{जार्कोव म्यामोथ, २०,००० वर्ष पुरानो राम्रोसँग सुरक्षित गरिएको साइबेरियन म्यामोथ जुन जमेको हिलोमा फेला परेको थियो \cite{51}.}
+\label{fig:1}
+\label{fig:onecol}
+\end{figure}

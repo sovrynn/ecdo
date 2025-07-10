@@ -1,0 +1,5 @@
+Pada Mei 2024, seorang penulis dalam talian menggunakan nama samaran "The Ethical Skeptic" \cite{0} telah berkongsi satu teori revolusioner yang dikenali sebagai Exothermic Core-Mantle Decoupling Dzhanibekov Oscillation (ECDO) \cite{1}. Teori ini mencadangkan bahawa Bumi sebelum ini telah mengalami perubahan mendadak dan bencana pada paksi putarannya, mencetuskan banjir besar di seluruh dunia apabila lautan melimpah ke atas benua akibat inersia putaran. Tambahan pula, teori ini menyajikan proses geofizik penjelasan serta data yang menunjukkan bahawa satu lagi kejadian sebegini mungkin akan berlaku tidak lama lagi. Walaupun ramalan banjir malapetaka dan hari kiamat sebegini bukanlah perkara baru, teori ECDO ini unik dan menarik kerana pendekatannya yang saintifik, moden, pelbagai disiplin serta berasaskan data.
+
+Kertas kerja ini merupakan karya ketiga saya \cite{2,3} mengenai topik ini, dan memberi tumpuan kepada aspek politik semasa teori ini:
+\begin{flushleft}
+\begin{enumerate}

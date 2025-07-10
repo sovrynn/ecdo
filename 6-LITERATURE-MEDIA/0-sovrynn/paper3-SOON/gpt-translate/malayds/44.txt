@@ -1,0 +1,4 @@
+\end{center}
+   \caption{Hasil kerajaan AS, perbelanjaan, dan perbelanjaan pangkalan bawah tanah rahsia dari 1998 hingga 2023 \cite{19}.}
+   \label{fig:9}
+\end{figure*}

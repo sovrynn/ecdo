@@ -1,0 +1,10 @@
+\includegraphics[width=1\linewidth]{tyrol.jpg}
+\end{center}
+   \caption{အနောက် တရီရောလ် တွင် တောင်တန်းဘေးဒုက္ခရောက်လိမ့်မည့် နေနိုင်သော ဘုံကာများ။ ဆွစ်ဇာလန်သည် ဥရောပအင်အားကြီး တောင်တန်းတစ်လျှောက် ကြီးပြီး တောင်တန်းဘုံကာများကို သြဇာလျောက်စွာ ဖုံးကွယ်ထားနိုင်တာကြောင့် ကျော်ကြားသည် \cite{32}။}
+\label{fig:7}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}

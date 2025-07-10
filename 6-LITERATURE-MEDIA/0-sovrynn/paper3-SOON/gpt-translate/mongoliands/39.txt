@@ -1,0 +1,5 @@
+\includegraphics[width=1\linewidth]{svalbard.jpg}
+\end{center}
+   \caption{Норвегийн Свалбардын Дэлхийн Үрийн Сан, нэг сая гаруй үрийг агуулдаг \cite{24}. Ямар аюул осол гарвал үүнийг ашиглах шаардлагатай болохыг бодоход гайхалтай.}
+\label{fig:8}
+\label{fig:onecol}

@@ -1,0 +1,8 @@
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{penta.jpg}
+\end{center}
+   \caption{श्वेत सदन र पेन्टा्गनको तल वास्तवमै के छ? देखिन्छ, तिनीहरू मुनि गहिरो भूमिगत सुरुङहरूको नेटवर्क छ (तस्बिर: \cite{31})।}
+\label{fig:3}
+\label{fig:onecol}
+\end{figure}

@@ -1,0 +1,10 @@
+\includegraphics[width=1\textwidth]{ice.jpg}
+\end{center}
+   \caption{पृथ्वी तात्दै गएको कारणले विश्वव्यापी समुन्द्री हिउँको क्षेत्रफल पछिल्ला ४५ वर्षमा घट्दै गएको छ। स्रोत: ADS \cite{149}.}
+\label{fig:24}
+\end{figure*}
+
+\clearpage
+\twocolumn
+
+{\small

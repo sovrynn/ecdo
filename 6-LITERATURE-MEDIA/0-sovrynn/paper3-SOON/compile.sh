@@ -11,8 +11,9 @@ fi
 case "$1" in
   1) ENGINE="pdflatex" ;;
   2) ENGINE="xelatex" ;;
+  3) ENGINE="lualatex" ;;
   *) 
-    echo "Error: first argument must be 1 (pdflatex) or 2 (xelatex)"
+    echo "Error: first argument must be 1 (pdflatex) or 2 (xelatex) or 3 (lualatex)"
     exit 1
     ;;
 esac

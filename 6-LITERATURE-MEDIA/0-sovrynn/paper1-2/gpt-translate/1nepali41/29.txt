@@ -1,0 +1,9 @@
+The specific process which drives the internal disruption in the Earth is believed to be a state change in the structure of iron that makes up the core of the Earth (Figure \ref{fig:11}). पृथ्वीको आन्तरिक विघटनलाई उत्प्रेरित गर्ने विशेष प्रक्रिया पृथ्वीको केन्द्र बनाउने फलामको संरचनामा हुने अवस्थात्मक परिवर्तन भएको विश्वास गरिन्छ (आकृति \ref{fig:11})। The inner core is made up of hexagonal close-packed Iron (Fe) \cite{141}. भित्री केन्द्र षट्भुज आकारका बाक्लो फलाम (Fe) ले बनेको हुन्छ \cite{141}। As this hcp-Fe is converted into a liquid metallic state, it releases kinetic energy, and is sloughed into the outer core. जब यो hcp-Fe लाई तरल धात्विक अवस्थामा रूपान्तरण गरिन्छ, यसले गतिज ऊर्जा उत्सर्जन गर्छ, र बाह्य केन्द्रमा परिणत हुन्छ। This phase change reduces the core's magnetic permeability, weakening the geomagnetic field, and releases heat, creating LLVP (large low-velocity shear province) structures (Figure \ref{fig:12}) \cite{38} in the mantle, and heating up the Earth's surface via the abyssal oceans. यो अवस्थागत परिवर्तनले केन्द्रको चुम्बकीय पारगम्यता घटाउँछ, जसले भू-चुम्बकीय क्षेत्रमा कमजोरी ल्याउँछ, र ऊष्मा उत्सर्जन गर्छ, जसले म्यान्टलमा LLVP (ठूलो न्यून-वेग कर्तन प्रदेश) संरचनाहरू (आकृति \ref{fig:12}) \cite{38} बनाउँछ, र गहिरा समुद्रहरू मार्फत पृथ्वीको सतह तताउने गर्छ। Both trends have been well documented in recent centuries and are discussed later in this paper. यी दुवै प्रवृत्तिहरू विगत शताब्दिहरूमा राम्रोसँग अभिलेख गरिएको छ र यो शोधपत्रको पछि भागमा छलफल गरिएको छ।
+
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{llvp.jpg}
+\end{center}
+   \caption{दक्षिण अफ्रिकाको मुनि रहेको LLVP को विस्तृत दृश्य \cite{28}।}

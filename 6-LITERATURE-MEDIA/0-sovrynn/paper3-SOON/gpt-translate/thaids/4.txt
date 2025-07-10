@@ -1,0 +1,5 @@
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\cvprfinalcopy % *** ยกเลิกการคอมเมนต์บรรทัดนี้สำหรับการส่งไฟล์ฉบับสมบูรณ์
+
+\def\cvprPaperID{****} % *** กรอกหมายเลข Paper ID ของ CVPR ที่นี่

@@ -1,0 +1,5 @@
+% \captionsetup[table]{skip=8pt}   % केवल तालिकाहरूमा असर गर्छ
+\usepackage{stfloats}  % प्रस्तावनामा यो थप्नुहोस्
+
+\usepackage{cvpr}
+\usepackage{times}

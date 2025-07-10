@@ -1,0 +1,3564 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./2khmertranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 87.
+
+(./2khmertranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 101.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 101.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 102.
+
+
+LaTeX Font Warning: Font shape `TU/NotoSansKhmer(0)/m/it' undefined
+(Font)              using `TU/NotoSansKhmer(0)/m/n' instead on input line 103.
+
+
+Underfull \hbox (badness 4242) in paragraph at lines 103--104
+[]\TU/NotoSansKhmer(0)/m/it/10 នៅក្នុងខែឧសភា ឆ្នាំ\TU/LatinModernRoman(0)/m/it/
+10 2025 \TU/NotoSansKhmer(0)/m/it/10 អ្នកនិពន្ធអនាមិកអនឡាញម្នាក់ឈ្មោះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/LatinModernRoman(0)/m/it/10 "The Ethical Skeptic"[[]] \TU/NotoSansKhmer(0)/
+m/it/10 បានផ្សព្វផ្សាយទ្រឹស្ដីបំប្លែងមួយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 ដែលមានឈ្មោះថា ការបំបែកលំយោលស្រទាប់ក្រឡាប់ក្តៅក្នុង
+ផែនដី
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/LatinModernRoman(0)/m/it/10 (ECDO)[[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ទ្រឹស្
+ដីនេះមិនត្រឹមតែបានផ្តល់នូវយោបល់ថាផែនដី
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 កាលពីមុនបានបម្លែងអ័ក្សវិលដ៏សាហាវ ធ្វើអោយមានទឹកជំនន
+់ដ៏ធំ
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 ទូទាំងពិភពលោក ដែលបណ្តាលអោយមហាសមុទ្រលេចលើទ្វីបនានា
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 មិនត្រឹមតែដោយសារនិចលភាពនៃការវិលប៉ុណ្ណោះទេ តែថែមទាំ
+ងផ្ដល់
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 ការបកស្រាយនៃដំណើរការភូមិវិទ្យាដែលផ្តោតលើទិន្នន័យហេ
+តុផល
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 ដែលបានបង្ហាញថាការផ្លាស់ប្តូរផែនដីអាចនឹងកើតមានម្តងទ
+ៀត។
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 ទោះបីជាការព្យាករណ៍ទឹកជំនន់និងគ្រោះមហន្តរាយមិនមែនជា
+រឿងថ្មី
+
+Underfull \hbox (badness 2237) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 យោងទៅលើវិទ្យាសាស្ត្រ ពហុបច្ចេកទេស និងមានមូលដ្ឋានដែ
+លផ្អែក
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+[]\TU/NotoSansKhmer(0)/m/it/10 ក្រដាសស្រាវជ្រាវនេះជាផ្នែកទី\TU/LatinModernRoman
+(0)/m/it/10 2\TU/NotoSansKhmer(0)/m/it/10 នៃការសង្ខេបដែលមានពីរផ្នែក នៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+\TU/NotoSansKhmer(0)/m/it/10 ការស្រាវជ្រាវឯករាជ្យដែលមានរយៈពេល\TU/LatinModernRom
+an(0)/m/it/10 6\TU/NotoSansKhmer(0)/m/it/10 ខែ\TU/LatinModernRoman(0)/m/it/10 [
+[], []] \TU/NotoSansKhmer(0)/m/it/10 ទៅក្នុងទ្រឹស្ដី
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+\TU/LatinModernRoman(0)/m/it/10 ECDO \TU/NotoSansKhmer(0)/m/it/10 ដោយផ្តោតទៅលើភ
+ាពមិនប្រក្រតីនៃផ្នែកវិទ្យាសាស្ត្រ និង
+
+Underfull \hbox (badness 1092) in paragraph at lines 111--112
+[]\TU/NotoSansKhmer(0)/m/it/10 ភូគព្ភវិទ្យា និងប្រវត្តិសាស្ត្ររួមសម័យនេះអះអាងថា
+ តំបន់ធំៗដូចជា
+
+Underfull \hbox (badness 7486) in paragraph at lines 111--112
+\TU/LatinModernRoman(0)/m/n/10 Grand Canyon \TU/NotoSansKhmer(0)/m/it/10 ត្រូវប
+ានបង្កើតឡើងក្នុងរយៈពេលរាប់លានឆ្នាំ\TU/LatinModernRoman(0)/m/n/10 [[]]
+
+Underfull \hbox (badness 4913) in paragraph at lines 111--112
+\TU/NotoSansKhmer(0)/m/it/10 ថាមានអំបិលនៅក្នុង \TU/LatinModernRoman(0)/m/n/10 D
+eath Valley (California) \TU/NotoSansKhmer(0)/m/it/10 ព្រោះតំបន់
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+\TU/NotoSansKhmer(0)/m/it/10 នោះធ្លាប់ស្ថិតនៅក្រោមមហាសមុទ្ររយៈពេលរាប់រយលានឆ្នាំ
+កន្លងមក
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+\TU/NotoSansKhmer(0)/m/it/10 មានអាយុរាប់រយលានឆ្នាំមកហើយ\TU/LatinModernRoman(0)/
+m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ អ្វីដែលគួរអោយគត់សំគាល់
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+[]\TU/NotoSansKhmer(0)/m/it/10 ភាពមិនប្រក្រតីទាំងនេះ នឹងត្រូវបានពន្យល់យ៉ាងក្បោះ
+ក្បាយដោយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+\TU/NotoSansKhmer(0)/m/n/9 ដែលស្តិតក្នុងស្ថានភាពយ៉ាងល្អគឺជាសត្វម៉ាមម៉ុត់នៅតំបន់
+ស៊ីបេរីដែលបានរក
+
+Underfull \hbox (badness 3158) in paragraph at lines 126--127
+[]\TU/NotoSansKhmer(0)/m/it/10 ភាពមិនប្រក្រតីមួយនៃបាតុភូតនេះ គឺជាសត្វម៉ាមម៉ុត់ក
+ក ដែលនៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 មានស្ថានភាពយ៉ាងល្អដែលបានកប់នៅក្នុងភក់ ត្រូវគេប្រទះ
+ឃើញនៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/LatinModernRoman(0)/m/n/10 mammoth) \TU/NotoSansKhmer(0)/m/it/10 ដែលបានរកឃើ
+ញនៅតំបន់ស៊ីបេរីដែលបានកប់នៅក្នុង
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ទោះបីវាមានអាយុរាប់ពាន់ឆ្នាំក៏ដោយ។ សត្វនេះនៅមានអាហា
+ររុក្ខជាតិ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 នៅក្នុងមាត់និងពោះរបស់វា ដែលបណ្ដាលអោយវេជ្ជបណ្ឌិតជាច
+្រើន
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 វាកំពុងតែសុីស្មៅមុនពេលវាស្លាប់\TU/LatinModernRoman
+(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ មានរបាយការណ៍មួយបាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សរសេរថា\TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSa
+nsKhmer(0)/m/it/10 នៅឆ្នាំ\TU/LatinModernRoman(0)/m/it/10 1901 \TU/NotoSansKhme
+r(0)/m/it/10 មានការភ្ញាក់ផ្អើលយ៉ាងខ្លាំងពេលរកឃើញ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សាកសពសត្វម៉ាមម៉ុត់ដែលមានស្ថានភាពយ៉ាងល្អនៅជិតទន្លេប
+េរេហ្សូវ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 កា ដោយសារសត្វនេះមើលទៅដូចបានសម្លាប់ដោយសារទឹកកកនៅចំ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 រដូវក្តៅទៅវិញ។ អាហារនៅក្នុងពោះរបស់វាស្ថិតក្នុងស្ថា
+នភាពយ៉ាងល្អ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សូម្បីតែស្មៅនិងផ្ការក៏មាននៅក្នុងថ្គាមវាដែរ។ ហាក់បី
+ដូចជាមានកម្លាំង
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 មួយដ៏ខ្លាំងខ្លាបានវាប្រហារ និងបោះវាពីរបីគីឡូម៉ែត្រ
+ពីតំបន់ដែលវាសុី
+
+Underfull \hbox (badness 3907) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ចំណី។ ត្រគាកនិងជើងមួយចំហៀងរបស់វាបានបាក់ ប្រហែលជាសត
+្វ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ដ៏ធំមួយនេះត្រូវបានកករហូតដល់ស្លាប់ នៅក្នុងអំឡុងពេលដ
+ែលក្តៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ពោះខាងក្នុងបំផុតរបស់សត្វនេះមានរចនាសម្ព័ន្ធសរសៃនៅល្
+អនៅឡើយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 មានន័យថាកម្តៅនៅក្នុងរាងកាយរបស់វាត្រូវបានយកចេញដោយដំ
+ណើរ
+
+Underfull \hbox (badness 4752) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ការធម្មជាតិដ៏អស្ចារ។ លោក \TU/LatinModernRoman(0)/m
+/it/10 Sanderson \TU/NotoSansKhmer(0)/m/it/10 បានចាប់អារម្មណ៍យ៉ាង
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ខ្លាំងចំពោះបញ្ហានេះ គាត់ក៏បានបានទាក់ទងទៅស្ថាប័នអាហ
+ារត្រជាក់
+
+Underfull \hbox (badness 2970) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សហរដ្ឋអាមេរិក\TU/LatinModernRoman(0)/m/it/10 (AFFI
+)\TU/NotoSansKhmer(0)/m/it/10 ៖ តើហេតុអ្វីបានជាសត្វម៉ាមម៉ុត់កកទាំងស្រុង
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សូម្បីតែជាតិសំណើមនៅក្នុងស្រទាប់ពោះក្នុងបំផុតរបស់វា
+គ្មានពេល
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សម្រាប់បង្កើតគ្រីស្តាល់ធំល្មមដែលអាចបំផ្លាញរចនាសម្ព
+័ន្ធនៃសរសៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សាច់\TU/LatinModernRoman(0)/m/it/10 ?... \TU/NotoS
+ansKhmer(0)/m/it/10 ប៉ុន្មានសប្តាហ៍ក្រោយមកស្ថាប័ននេះបានឆ្លើយតបទៅ
+
+Underfull \hbox (badness 2158) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 លោក \TU/LatinModernRoman(0)/m/it/10 Sanderson \TU/
+NotoSansKhmer(0)/m/it/10 ថា៖ វាមិនអាចទៅរួចនោះទេ។ ចំណេះដឹងនឹង
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ចេញពីសាកសពដ៏ធំដូចម៉ាមម៉ុត់បានលឿនគ្រប់គ្រាន់ដើម្បីអ
+ោយវាកក
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ដោយគ្មានការបង្កើតដំគ្រីស្តាល់ធំៗនៅក្នុងសាច់វានោះទេ
+។ ម្យ៉ាងទៀត
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ទោះបីខិតខំប្រើបច្ចេកទេសវិទ្យាសាស្រ្តនិងវិស្វកម្មពួ
+កគេសង្គេតទៅ
+
+Underfull \hbox (badness 2119) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ធម្មជាតិហើយបានបញ្ជាក់ថា តាមការយល់ដឹងរបស់មនុស្សសព្វ
+ថ្ងៃគ្មាន
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 3. []\TU/NotoSansKhmer(0)/m/n/9 ទំហំស្រទ
+ាប់ថ្មខ្សាច់ \TU/LatinModernRoman(0)/m/n/9 Coconino \TU/NotoSansKhmer(0)/m/n/9 
+នៅភាគខាងលិច
+
+Underfull \hbox (badness 1975) in paragraph at lines 153--154
+[]\TU/NotoSansKhmer(0)/m/it/10 បើយើងសង្កេតទៅលើ \TU/LatinModernRoman(0)/m/n/10 G
+rand Canyon \TU/NotoSansKhmer(0)/m/it/10 វាអាចពន្យល់យើងអំពី
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 កំណនៃស្រទាប់ដីល្បាប់ ក៏បានកើតឡើងជាដោយសារតែកម្លាំងធ
+ូរតិច
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 តូនិចផងដែរ។ ដើម្បីស្វែងយល់អំពីរឿងនេះយើងត្រូវសង្កេត
+តំបន់ខ្លះៗ
+
+Underfull \hbox (badness 1931) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 នៃ \TU/LatinModernRoman(0)/m/n/10 Canyon \TU/NotoS
+ansKhmer(0)/m/it/10 អោយបានច្បាស់លាស់ទៅលើស្រទាប់ដីល្បាប់ដែលបាន
+
+Underfull \hbox (badness 3323) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 ខ្នាតមីក្រូស្កូពិកទៅលើសំណំថ្មមួយចំនួនដូចជា \TU/Lat
+inModernRoman(0)/m/n/10 Monument Fold
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 សំណុំថ្មបត់បែនទាំងនេះបានកើតនៅក្នុងរយៈពេលយូរនៅក្រោម
+កម្តៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 បានបត់បែនដោយកម្លាំងធូរតិចតូនិច នៅពេលដែលវានៅទន់ នោះ
+គឺ
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+[]\TU/NotoSansKhmer(0)/m/it/10 នៅពេលដែលយើងពង្រីកមើល ឃើញថាស្រទាប់ដែលបង្កើត
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSansKhmer(0)/m/it/10 ទេ។ ស្រទាប់ទាំងនេះបានបត់កោងទៅភាគខាងកើតនៃតំបន់ \TU/
+LatinModernRoman(0)/m/n/10 East
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSansKhmer(0)/m/it/10 បត់លើគ្នាយ៉ាងលឿនដោយកម្លាំងតេតូនិច។ យើងអាចយោងទៅតាម
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រនេះបាន។ ទំហំនៃដំណើរការភូគព្ភសាស្ត្រដែលចំបាច់
+សម្រាប់
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSansKhmer(0)/m/it/10 ដាក់ស្រទាប់ដីល្បាប់ដែលមានកម្រាស់ជាងមួយគីឡីម៉ែត្រនេ
+ះគឺធំធេង
+
+Underfull \hbox (badness 5924) in paragraph at lines 166--167
+[]\TU/NotoSansKhmer(0)/m/it/10 ពត៍មានជាក់លាក់នៃ \TU/LatinModernRoman(0)/m/n/10 
+Grand Canyon \TU/NotoSansKhmer(0)/m/it/10 គឺជាបញ្ហាមួយទៀតនៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+\TU/NotoSansKhmer(0)/m/it/10 ការពិភាក្សាសម្រាប់វិទ្យាសាស្ត្រសម័យទំនើប។ ទ្រឹស្តី
+វិទ្យាសាស្ត្រតាម
+
+Underfull \hbox (badness 6110) in paragraph at lines 166--167
+\TU/LatinModernRoman(0)/m/n/10 orado \TU/NotoSansKhmer(0)/m/it/10 រាប់លានឆ្នាំម
+កហើយ\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ យ៉ាងណាក៏ដ
+ោយក្រុមស្រាវជ្រាវ
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+\TU/NotoSansKhmer(0)/m/it/10 បង្កើតឡើងក្នុងរយៈពេលតែពីរបីសប្តាហ៍ដោយសារច្រោះដីហៀរ
+ចេញពី
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+[]\TU/NotoSansKhmer(0)/m/it/10 បើសិនជាយើងពិចារណាមូលដ្ឋាននៃដំណើរការភូមិសាស្ត្រដែ
+លចំ
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+[]\TU/NotoSansKhmer(0)/m/it/10 ក្រៅពីរ៉ាមីត ឧទាហរណ៍ដ៏ល្អមួយនៃវិស្វកម្មបុរាណគឺទី
+ក្រុងក្រោម
+
+Underfull \hbox (badness 3635) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 ដី \TU/LatinModernRoman(0)/m/n/10 Derinkuyu (\TU/N
+otoSansKhmer(0)/m/it/10 រូបភាពទី[]\TU/LatinModernRoman(0)/m/n/10 5[]) \TU/NotoS
+ansKhmer(0)/m/it/10 ដែលស្ថិតនៅក្នុងតំបន់ \TU/LatinModernRoman(0)/m/n/10 Cappado
+-
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+\TU/LatinModernRoman(0)/m/n/10 cia \TU/NotoSansKhmer(0)/m/it/10 ប្រទេសតួកគី។ វា
+ជាទីក្រុងដែលធំជាងគេក្នុងចំណោមជម្រក
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 ក្រោមដីជាង\TU/LatinModernRoman(0)/m/n/10 200\TU/No
+toSansKhmer(0)/m/it/10 កន្លែងនៅតំបន់នេះ\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/N
+otoSansKhmer(0)/m/it/10 ។ ទីក្រុងក្រោមដីនេះត្រូវបាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 គេប៉ាន់ប្រមាណថាអាចមានប្រជាជនរស់នៅដល់ទៅ\TU/LatinMod
+ernRoman(0)/m/n/10 20000\TU/NotoSansKhmer(0)/m/it/10 នាក់និង
+
+Underfull \hbox (badness 7631) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 មាន១៨ជាន់ ហើយវាមានជ្រៅរហូតដល់\TU/LatinModernRoman(
+0)/m/n/10 85\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ។ ទោះយើងមិនដឹង
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 ពីអាយុពិតរបស់វាក៏ដោយ បន្តែគេបានប៉ាន់ប្រមាណថាវាមានអ
+ាយុ
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 យ៉ាងតិច\TU/LatinModernRoman(0)/m/n/10 2800\TU/Noto
+SansKhmer(0)/m/it/10 ឆ្នាំ។ ទីក្រុងនេះត្រូវបានគេឆ្លាក់ចេញពីថ្មភ្នុំភ្លើងទន់
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 មិនដឹងថាមូលហេតុអ្វីបានជាមានសហគមន៍មួយ បានសម្រេចចិត្
+ត
+
+Underfull \hbox (badness 6592) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 សាងសង់ទីក្រុងក្រោមដីនេះទាំងមូល។ ដើម្បីបង្កើតកន្លែង
+រស់នៅក្រោម
+
+Underfull \hbox (badness 2005) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ដី គេត្រូវឆ្លាក់រូងទាំងអស់ចេញពីថ្ម។ សភាពរូងភ្នុំបង
+្ហាញយ៉ាងច្បាស់ថា
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 វាត្រូវបានគេឆ្លាក់ដោយកម្លាំងកាយ មិនមែនប្រើឧបករណ៍ជំ
+នួយនោះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ទេ ដែលធ្វើអោយវាមានការពិបាកយ៉ាងខ្លាំងណាស់បើប្រៀបធៀប
+ទៅ
+
+Underfull \hbox (badness 2478) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 និងការសាងសាងលំនៅឋ្ឋាននៅលើដី។ ជាក់ស្តែង យើងមិនទាន់យ
+ល់
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ច្បាស់នោះទេថាហេតុអ្វីបានជាមានមនុស្សសម្រេចចិត្តរស់ន
+ៅក្រោមដី
+
+Underfull \hbox (badness 1776) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ទៅវិញ ខណៈដែលកសិកម្ម ពន្លឺថ្ងៃ ធម្មជាតិ និងការស្វែង
+រកមានតែ
+
+Underfull \hbox (badness 2617) in paragraph at lines 185--186
+\TU/LatinModernRoman(0)/m/n/10 Derinkuyu \TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានស
+ាងសង់ឡើងដោយគ្រិស្ដសាសនិកដែលត្រូវការ
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ទីកន្លែងសម្ងាត់សម្រាប់ប្រតិបត្តិជំនឿរបស់ខ្លួន\TU/L
+atinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ជាធម្មតាវាមិន
+
+Underfull \hbox (badness 6978) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ងាយស្រួលនោះទេ ព្រោះសម្រាប់មនុស្សយើងទូទៅនៅពេលមានសត្
+រូវ
+
+Underfull \hbox (badness 4181) in paragraph at lines 187--188
+[]\TU/NotoSansKhmer(0)/m/it/10 ទំហំ ជម្រៅ និងការពិចារណាទៅលើការរចនានៃទីក្រុងក្រោ
+មដីនេះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+\TU/NotoSansKhmer(0)/m/it/10 បង្ហាញថាវាមិនត្រូវបានសាងសង់ដើម្បីជាបន្ទាយទាហានបណ្ត
+ោះអាសន្ន
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+\TU/NotoSansKhmer(0)/m/it/10 សម្រាប់ការពារពួកឈ្លានពាននាគ្រាមានអាសន្ននោះទេ ប៉ុន្
+តែគឺដើម្បីជា
+
+Underfull \hbox (badness 5696) in paragraph at lines 187--188
+\TU/NotoSansKhmer(0)/m/it/10 ត្រឹមតែមានបន្ទប់គេង ផ្ទះបាយ បន្ទប់ទឹកនោះទេ មានទាំង
+រោងសត្វ
+
+Underfull \hbox (badness 3058) in paragraph at lines 187--188
+\TU/NotoSansKhmer(0)/m/it/10 ផ្នូរ និងរន្ធសម្រាប់ខ្យល់ចេញចូលផងដែរ \TU/LatinMode
+rnRoman(0)/m/n/10 (\TU/NotoSansKhmer(0)/m/it/10 រូបភាពទី[]\TU/LatinModernRoman(
+0)/m/n/10 6[])\TU/NotoSansKhmer(0)/m/it/10 ។ បើសិនវាជា
+
+Underfull \hbox (badness 2073) in paragraph at lines 187--188
+\TU/NotoSansKhmer(0)/m/it/10 បន្ទាយទាហានមែននោះ ចាំបាច់រូវការឧបករណ៍ចម្រោះស្រា ហើ
+យត្រូវ
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+[]\TU/NotoSansKhmer(0)/m/it/10 ការពន្យល់ដែលគួរអោយជឿជាក់បំផុតនៃការបង្កើត \TU/Lat
+inModernRoman(0)/m/n/10 Derinkuyu
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+\TU/NotoSansKhmer(0)/m/it/10 គឺអាចសន្និដ្ឋានបានថា វាជាការរៀបចំរយៈពេលវែងនិងជាជម្
+រកដែល
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+\TU/NotoSansKhmer(0)/m/it/10 អាចអាស្រ័យផលបានដើម្បីការពារពីកម្លាំងមហន្តរាយនៃភូគព
+្ភសាស្ត្រលើ
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+[]\TU/NotoSansKhmer(0)/m/it/10 ការប្រមូលផ្តុំជីវម៉ាស់នៃប្រភេទសត្វនិងរុក្ខជាតិផ្
+សេងៗគ្នា ជាធម្មតា
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានរកឃើញជាផូសុីលនៅក្នុងស្រទាប់ដីល្បាប់ ដែលជារ
+ឿងដ៏មិន
+
+Underfull \hbox (badness 1460) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ប្រក្រតីមួយផ្សេងទៀត។ នៅក្នុង \TU/LatinModernRoman(
+0)/m/n/10 "Reliquoæ Diluvianæ" \TU/NotoSansKhmer(0)/m/it/10 លោក
+
+Underfull \hbox (badness 2261) in paragraph at lines 207--208
+\TU/LatinModernRoman(0)/m/n/10 Rev. William Buckland \TU/NotoSansKhmer(0)/m/it/
+10 បានកត់ត្រាអំពីការរកឃើញនូវសត្វ
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ជាច្រើនប្រភេទដែលមិនគួររកឃើញក្នុងពេលតែមួយ ដែលបានខ្ច
+ាត
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ខ្ចាយពេញប្រទេសអង់គ្លេសនិងអឺរ៉ុប ដែលបានកប់នៅស្រទប់ដ
+ីល្បាប់
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/LatinModernRoman(0)/m/n/10 'diluvium'[[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ការ
+ប្រមូលផ្តុំនៃសាកសព្វសត្វបែបនេះត្រូវបានរក
+
+Underfull \hbox (badness 4328) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ឃើញនៅក្នុងរូងភ្នុំ \TU/LatinModernRoman(0)/m/n/10 
+Skjonghelleren \TU/NotoSansKhmer(0)/m/it/10 នៅកោះ \TU/LatinModernRoman(0)/m/n/1
+0 Valdroy \TU/NotoSansKhmer(0)/m/it/10 ប្រទេស
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ត្រី ដែលត្រូវបានរកឃើញនៅក្នុងស្រទាប់ជាច្រើននៃដីល្បា
+ប់\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 តោន ជាពិសេសសត្វដំរីទឹកដែលនូវមានសភាពល្អយ៉ាងខ្លាំងដែ
+លត្រូវ
+
+Underfull \hbox (badness 3078) in paragraph at lines 207--208
+\TU/LatinModernRoman(0)/m/n/10 black)\TU/NotoSansKhmer(0)/m/it/10 ។ តាមការរាយកា
+រណ៍ ឆ្អឹងសត្វផ្សេងៗទាំងនោះត្រូវបានលាយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 គ្នា និងបាក់បែកបាក់ជាបំណែកៗ\TU/LatinModernRoman(0)
+/m/n/10 [[], []]\TU/NotoSansKhmer(0)/m/it/10 ។ នៅក្នុងទីក្រុងបុរាណ
+
+Underfull \hbox (badness 1365) in paragraph at lines 207--208
+\TU/LatinModernRoman(0)/m/n/10 Mendes \TU/NotoSansKhmer(0)/m/it/10 ប្រទេសអេហ្ស៊
+ីប ក៏បានរកឃើញឆ្អឹងសត្វប្រភេទផ្សេងៗដែល
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 រកឃើញបែបនេះអាចធ្វើអោយមានចម្ងល់ ប៉ុន្តែអាចពន្យល់បាន
+យ៉ាង
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ងាយស្រួល គឺដោយសារមានទឹកជំនន់ដ៏ធំមហិមាដែលបង្ករអោយឆ្
+នឹង
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 សត្វគ្រប់ប្រភេទហូរឬកប់ទាំងរស់ទៅក្នុងស្រទាប់ដីល្បាប
+់ឬនៅក្នុងរូងភ្នុំ
+
+Underfull \hbox (badness 2865) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ហើយសម្រាប់ករណីជីវម៉ាស់ដែលក្លាយជាកែវ \TU/LatinModer
+nRoman(0)/m/n/10 (vitrified biomass)
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 នៅអេហ្ស៊ីបគឺកើតឡើងដោយចំហាយអគ្គិសនីនៅក្នុងស្រទាប់ម៉
+ង់តូលប
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+[]\TU/NotoSansKhmer(0)/m/it/10 បុព្វជនរបស់យើងបានបន្សល់ទុកនូវសំណង់វិស្វកម្មបុរាណ
+ជាច្រើន
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+\TU/NotoSansKhmer(0)/m/it/10 ហើយនៅក្នុងនោះយើងបានរកឃើញសាកសពមនុស្សដែលជាទូទៅត្រូវ
+
+Underfull \hbox (badness 7256) in paragraph at lines 220--221
+\TU/NotoSansKhmer(0)/m/it/10 បានចាត់ទុកថាជាផ្នូរ ប៉ុន្តែបើយើងពិនិត្យមើលអោយច្បាស
+់លាស់វាអាច
+
+Underfull \hbox (badness 3679) in paragraph at lines 227--227
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 8. []Newgrange \TU/NotoSansKhmer(0)/m/n/
+9 ប្រទេសអៀរឡង់ \TU/LatinModernRoman(0)/m/n/9 - \TU/NotoSansKhmer(0)/m/n/9 សូមពិ
+និត្យមើលទំហំភ្ញៀវ
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+[]\TU/NotoSansKhmer(0)/m/it/10 ឧទាហរណ៍ដ៏ល្អមួយគឺនៅក្នុងតំបន់ \TU/LatinModernRom
+an(0)/m/n/10 Newgrange (\TU/NotoSansKhmer(0)/m/it/10 រូបភាព
+
+Underfull \hbox (badness 1708) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 ទី[]\TU/LatinModernRoman(0)/m/n/10 8[]), \TU/NotoS
+ansKhmer(0)/m/it/10 ដែលជាវិមានធំជាងគេនៅក្នុងតំបន់ \TU/LatinModernRoman(0)/m/n/1
+0 Brú na Bóinne \TU/NotoSansKhmer(0)/m/it/10 មាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 សំណង់បុរាណជាច្រើនរួមទាំងផ្នូរបុរាណផងដែរ។ ផ្នូរទាំង
+នេះមាន
+
+Underfull \hbox (badness 1803) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 បន្ទប់បញ្ចុះសពមួយឬច្រើនកន្លែងដែលគ្របដណ្តប់ដោយដី ឬថ
+្ម ដែល
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 មានផ្លូវចូលតូចៗសាងសង់ដោយថ្មធំៗ\TU/LatinModernRoman
+(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ វាជាឧទាហរណ៍មួយនៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 រចនាសម្ព័ន្ធវិស្វកម្មការពារដ៏ធំមហិមា ដែលបានសាងសង់អ
+ស់ជាច្រើន
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 ជំនន់ដើម្បីធ្វើជាផ្នូរអោយមនុស្សពីរបីនាក់ដែលបានស្លា
+ប់មុនផ្នូរបុរាណ
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 ទាំងនេះត្រូវបានចាប់ផ្តើមសាងសង់។ នៅពេលដែលកន្លែងនេះត
+្រូវបាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 រកឃើញឡើងវិញដោយម្ចាស់ដីក្នុងឆ្នាំ\TU/LatinModernRom
+an(0)/m/n/10 1699 \TU/NotoSansKhmer(0)/m/it/10 កន្លែងនេះគឺត្រូវបានកប់
+[3]
+Underfull \hbox (badness 4739) in paragraph at lines 234--235
+[]\TU/NotoSansKhmer(0)/m/it/10 គ្រាន់តែពិនិត្យមើលសំណង់នេះតែបន្តិចក៏ដឹងដែរថា ការ
+សាងសង់វា
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 បន្ទប់សាកសពដែលអាចចេញចូលបានតាមច្រកអាគ្នេយ៍។ ផ្លូវនេ
+ះមាន
+
+Underfull \hbox (badness 3503) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 ប្រវែងប្រហែល\TU/LatinModernRoman(0)/m/it/10 19\TU/
+NotoSansKhmer(0)/m/it/10 ម៉ែត្រ ឬ\TU/LatinModernRoman(0)/m/it/10 1/3\TU/NotoSan
+sKhmer(0)/m/it/10 នៃផ្លូវសរុបទៅកាន់ផ្នែកកណ្ដាល។ នៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 ចំនុចចុងផ្លូវមានបន្ទប់តូចចំនួនបីដែលជាប់នឹងបន្ទប់ធំ
+មួយទៀតហើយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 វាមានកម្ពស់មធ្យម\TU/LatinModernRoman(0)/m/it/10 1.
+5\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ\TU/LatinModernRoman(0)/m/it/10 ”\TU/LatinM
+odernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ សព្វថ្ងៃនៅមានស្នាកស្មាម
+អំពី
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 វិស្វកម្មការពារទឹកយ៉ាងល្អផងដែរ។ ជាឧទាហរណ៍នៅលើដំបូល
+\TU/LatinModernRoman(0)/m/it/10 “\TU/NotoSansKhmer(0)/m/it/10 នៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 តាមចន្លោះដំបូលត្រូវបានបិតដោយល្បាយដីដុតនិងដីខ្សាច់ដ
+ើម្បីការពារ
+
+Underfull \hbox (badness 1270) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 ទឹកភ្លៀង ហើយបើតាមរយៈកាលបរិច្ឆេទកាបូន \TU/LatinMode
+rnRoman(0)/m/it/10 (radiocarbon dat-
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/LatinModernRoman(0)/m/it/10 ing) \TU/NotoSansKhmer(0)/m/it/10 ល្បាយផ្នូរនេះ
+បានរកឃើញថាវាត្រូវបាងសាងសង់នៅចន្លោះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 ឆ្នាំ\TU/LatinModernRoman(0)/m/it/10 2500\TU/NotoS
+ansKhmer(0)/m/it/10 មុនគ្រឹស្តសករាជ\TU/LatinModernRoman(0)/m/it/10 "\TU/LatinMo
+dernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ណាមួយទៀត ការដែលដំឡើង
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 កំពស់ទៅកាន់បន្ទប់កណ្តាលគឺត្រូវបានធ្វើឡើងសម្រាប់គោល
+បំណង
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 ដូចគ្នា៖\TU/LatinModernRoman(0)/m/it/10 “\TU/NotoS
+ansKhmer(0)/m/it/10 ព្រោះថា\TU/LatinModernRoman(0)/m/it/10 _\TU/NotoSansKhmer(0
+)/m/it/10 កម្រាល\TU/LatinModernRoman(0)/m/it/10 _\TU/NotoSansKhmer(0)/m/it/10 ន
+ៃផ្លូវនិងបន្ទប់សាកសពនេះបានធ្វើតាម
+
+Underfull \hbox (badness 4940) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 កំពស់ដីដែលសំណង់នេះត្រូវបានកសាងឡើង គឺខុសគ្នាជិត\TU/
+LatinModernRoman(0)/m/it/10 2\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្ររវាង
+
+LaTeX Warning: Text page 4 contains only floats.
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+[]\TU/NotoSansKhmer(0)/m/it/10 អ្វីដែលគួរអោយមានចម្ងល់នោះគឺមិនសូវមានកាកសំណល់នៃសា
+ក
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 សព្វនោះឡើយ។ តាមការស្រាយជ្រាវបានបង្ហាញថា មានបំណែក
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 ឆ្អឹងឆេះនិងឆ្អឹងធម្មតាដែលជារបស់មនុស្សតែពីរបីនាក់តែ
+ប៉ុន្នោះដែល
+
+Underfull \hbox (badness 4036) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 នៃសម្ភារៈនៅខាងក្នុងបានបង្ហាញថា ការសាងសង់ \TU/Latin
+ModernRoman(0)/m/n/10 Newgrange \TU/NotoSansKhmer(0)/m/it/10 គឺ
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានចំណាយពេលយ៉ាងតិចពិរបីជំនាន់។ ហេតុអ្វីបានជាស
+ហគមន៍
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 បុរាណមួយនេះប្រឹងប្រែងសាងសង់ផ្នូរបុរាណពពេញទៅដោយវិស្
+វកម្ម
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 ដ៏មហិមានេះ ប៉ុន្តែបានត្រឹមរាយប៉ាយបំណែកឆ្អឹងសាកសព្វ
+តែពីរបីនាក់
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 ទឹកទាំងនេះគឺកសាងដើម្បីជាជម្រកការពារគ្រោះមហន្ថរាយលើ
+ផែនដី
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+\TU/NotoSansKhmer(0)/m/it/10 ផ្នែខាងត្បូងនៃអ៉េស្ប៉ាញ \TU/LatinModernRoman(0)/m/
+n/10 (\TU/NotoSansKhmer(0)/m/it/10 រូបភាពទី []\TU/LatinModernRoman(0)/m/n/10 9[
+]) \TU/NotoSansKhmer(0)/m/it/10 ដែលជាតំបន់មួយក្នុងចំ
+
+Underfull \hbox (badness 6741) in paragraph at lines 248--249
+\TU/NotoSansKhmer(0)/m/it/10 ឡើងដោយប្រើប្រាស់ដុំថ្មបុរាណធំៗមានអង្កត់ផ្ចិត\TU/La
+tinModernRoman(0)/m/n/10 75\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ។ យោងតាម
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+\TU/NotoSansKhmer(0)/m/it/10 ការស្រាវជ្រាវ មានតែសាកសពចំនួនប្រាំបីនាក់នោះទេដែលត្
+រូវបានរក
+
+Underfull \hbox (badness 3884) in paragraph at lines 248--249
+\TU/NotoSansKhmer(0)/m/it/10 ឃើញ សាកសព ទាំងនេះគឺត្រូវបានគេបត់ដូចពេលទារកនៅក្នុងស
+្បូន
+
+Underfull \vbox (badness 1297) has occurred while \output is active
+Underfull \hbox (badness 10000) in paragraph at lines 250--250
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSansKhmer(0)/b/n/12 ការលើកឡើងអំពីភា
+ពមិនប្រក្រតីដែលគួរអោយគត់
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+[]\TU/NotoSansKhmer(0)/m/it/10 នៅក្នុងផ្នែកនេះ ខ្ញុំបានសង្ខេបនូវការលើកឡើងអំពីភា
+ពមិន
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+\TU/NotoSansKhmer(0)/m/it/10 ប្រក្រតីដែលគួរអោយគត់សម្គាល់មួយចំនួនដែលបានបកស្រាយយ៉
+ាង
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--261
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 10. []\TU/NotoSansKhmer(0)/m/n/9 ការបង្ហ
+ាញអំពីការថយចុះនៃចំនួនបុរស\TU/LatinModernRoman(0)/m/n/9 95%
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+[]\TU/NotoSansKhmer(0)/m/it/10 ភាពមិនប្រក្រតីជីវវិទ្យាដែលគួរអោយគត់សំគាល់មួយចំនួ
+ន គឺការ
+
+Underfull \hbox (badness 5331) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 កាត់បន្តយនៃហ្សែននិងផូសុីលត្រីប៉ាឡែន។ \TU/LatinMode
+rnRoman(0)/m/n/10 Zeng et al (2018)
+
+Underfull \hbox (badness 7814) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 បើយោងទៅតាមគំរូលំដាប់ក្រូម៉ូសូម \TU/LatinModernRoma
+n(0)/m/n/10 Y-125 \TU/NotoSansKhmer(0)/m/it/10 ពីមនុស្សសម័យក្រោយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 និងផ្តោតទៅលើភាពស្រដៀងនិងការប្រែប្រួលនៅក្នុង \TU/La
+tinModernRoman(0)/m/n/10 DNA \TU/NotoSansKhmer(0)/m/it/10 បាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 បង្ហាញថា ចំនួនប្រជាជនបុរសប្រហែល\TU/LatinModernRoma
+n(0)/m/n/10 95% \TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានកាត់បន្តយកា
+
+Underfull \hbox (badness 7326) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 លពី\TU/LatinModernRoman(0)/m/n/10 5000\TU/NotoSans
+Khmer(0)/m/it/10 ទៅ\TU/LatinModernRoman(0)/m/n/10 7000\TU/NotoSansKhmer(0)/m/it
+/10 ឆ្នាំមុន \TU/LatinModernRoman(0)/m/n/10 (\TU/NotoSansKhmer(0)/m/it/10 រូបភា
+ពទី []\TU/LatinModernRoman(0)/m/n/10 10[])[[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ផូ
+សុីលត្រីប៉ាឡែន
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានរកឃើញនូវកំពស់រាប់រយម៉ែត្រលើសពីកំពស់សមុទ្រន
+ៅរដ្ឋ
+
+Underfull \hbox (badness 1975) in paragraph at lines 266--267
+\TU/LatinModernRoman(0)/m/n/10 Swedenborg, Michigan, Vermont \TU/NotoSansKhmer(
+0)/m/it/10 ប្រទេសកាណាដា ឈីលី
+
+Underfull \hbox (badness 3623) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 និងអ៊ីហ្ស៊ីប\TU/LatinModernRoman(0)/m/n/10 [[], []
+, [], []]\TU/NotoSansKhmer(0)/m/it/10 ។ ត្រីប៉ាឡែនទាំងនេះត្រូវបានរកឃើញ
+
+Underfull \hbox (badness 2245) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 ស្ថិតនៅក្នុងស្ថានភាពខុសៗគ្នា៖ ខ្លះមានរូបរាងពេញលេញ 
+នៅក្នុងភក់
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 ដែលស្ថិតនៅលើផែនទឹកកក ឬក៏កប់នៅក្នុងស្រទាប់ល្បាប់ដី។
+ ចំនួន
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 សត្វនៅតំបន់ទាំងនេះមានចាប់ពីពីរបីក្បាលរហូតដល់រាប់រយ
+។ ត្រីប៉ា
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 ឡែនទាំងនេះត្រូវបានប្រទះឃើញនៅលើតំបន់ខ្ពស់ៗនិងឆ្ងាយព
+ីសមុទ្រ
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+[]\TU/NotoSansKhmer(0)/m/it/10 ការវិនាសសាបសូន្យលើផែនដីបានកើតឡើងជាច្រើនដងកាលពីមុ
+ន
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+\TU/NotoSansKhmer(0)/m/it/10 ហើយការវិនាសសាបសូន្យធំៗដែលយើងបានស្រាវជ្រាវបានច្រើនប
+ំផុត
+
+Underfull \hbox (badness 2961) in paragraph at lines 268--269
+\TU/LatinModernRoman(0)/m/n/10 (ECME)[[], []]\TU/NotoSansKhmer(0)/m/it/10 ។ អ្វ
+ីដ៏គួរអោយចាប់អារម្មណ៍បំផុតនោះ ការវិនាស
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+\TU/NotoSansKhmer(0)/m/it/10 សាបសូន្យមួយចំនួនទាំងនេះត្រូវបានគេចាត់ទុកថាបានកើតឡើ
+ងស្រប
+
+Underfull \hbox (badness 1430) in paragraph at lines 268--269
+\TU/NotoSansKhmer(0)/m/it/10 ពេលនិងការបង្កើតស្រទាប់ \TU/LatinModernRoman(0)/m/n
+/10 Grand Canyon \TU/NotoSansKhmer(0)/m/it/10 ផងដែរ ជាពិសេសគឺ
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 បង្កើតឡើងដោយកម្លាំងមហន្តរាយនៃធម្មជាតិ។ ភស្តុតាងអំព
+ីការហូរ
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 ទឹកដ៏ធំធេងត្រូវបានគេរកឃើញតាមចរន្តស្នាមហូរទូទាំងពិភ
+ពលោក។
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 នៅទីនេះយើងមិនត្រឹមតែឃើញទីតាំងល្បាយដីខ្សាច់និងដុំថ្
+មផ្នត់ៗនោះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 ទេ មានទាំងលំដាប់ស្នាមហូររាប់រយដែលបានបង្កើតឡើងដោយចរ
+ន្តទឹ
+
+Underfull \hbox (badness 5446) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 កធំៗ\TU/LatinModernRoman(0)/m/n/10 [[], []]\TU/Not
+oSansKhmer(0)/m/it/10 ។ វាជាស្នាមចរន្តទឹកហូរធំៗដែលបានបង្កើតឡើងនៅក្នុង
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 ស្រទាប់ដីខ្សាច់នៃទឹកហូរ។ ស្នាមចរន្តទឹកហូរទាំងនេះយើ
+ងអាចរកវា
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+[]\TU/NotoSansKhmer(0)/m/it/10 រចនាសម្ព័ន្ធការហូរច្រោះក៏ត្រូវបានពន្យល់យ៉ាងច្បាស
+់ដូចនិងទ្រឹស្តី
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ហូរច្រោះ គឺនៅកន្លែងថ្មស្រួចផ្នែកខាងត្បូងប្រទេសចិន\
+TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ទីតាំង
+
+Underfull \hbox (badness 1527) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ទាំងនេះមានទាំង ប៉ុមថ្មស្រួច កំពូលថ្មស្រួច ស្ពានធម្
+មជាតិ ជ្រលងភ្នុំ
+
+Underfull \hbox (badness 1442) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ប្រព័ន្ធរូងភ្នុំធំៗ និងរន្តៅ។ ក្នុងចំណោមទីតាំងដ៏ពិ
+សេសទាំងនេះ គឺព្រៃ
+
+Underfull \hbox (badness 1102) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 អភិរក្ស \TU/LatinModernRoman(0)/m/n/10 Zhangjiajie
+ \TU/NotoSansKhmer(0)/m/it/10 ដែលមានសសរក្វាតថ្មខ្សាច់ធំៗ\TU/LatinModernRoman(0)
+/m/n/10 (\TU/NotoSansKhmer(0)/m/it/10 រូបភាពទី []\TU/LatinModernRoman(0)/m/n/10
+ 12[])
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ សសរថ្មខ្សាច់ទ
+ាំងនេះមានកំពស់រហូតដល់\TU/LatinModernRoman(0)/m/n/10 1000\TU/NotoSansKhmer(0)/m/
+it/10 ម៉ែត្រ ហើយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ឡើងដោយសសរច្រោះនៃសមុទ្រ\TU/LatinModernRoman(0)/m/n/
+10 (\TU/NotoSansKhmer(0)/m/it/10 រូបភាពទី []\TU/LatinModernRoman(0)/m/n/10 13[]
+) \TU/NotoSansKhmer(0)/m/it/10 ដែលជាថ្មឆ្នេរបង្កើត
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 កម្ពស់លើសសមុទ្ររហូតដល់\TU/LatinModernRoman(0)/m/n/
+10 1000\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ។ ទីតាំងទាំងនេះមានទាំង
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ល្បាយអំបិលនិងផូសុីលសត្វសមុទ្រដែលនៅជិតៗទីនោះ ដែលបង្
+ហាញ
+
+Underfull \hbox (badness 2698) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 អំពីការលុកលុយនៃសត្វសមុទ្រកាលពីមុន\TU/LatinModernRo
+man(0)/m/n/10 [[], [], []]\TU/NotoSansKhmer(0)/m/it/10 ។ រឿងព្រេង
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ទឹកជំនន់\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/Not
+oSansKhmer(0)/m/it/10 បានរៀបរាប់ថារលកសមុទ្រមានកំពស់ខ្ពស់ជាង\TU/LatinModernRoman
+(0)/m/n/10 1000\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ដែលយើងទទួលស្គាល់បានតាមរយៈអំបិលនិងលានអំបិលធំៗនៅលើ
+
+Underfull \hbox (badness 4660) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 គីឡូម៉ែត្រ។ ឧទាហរណ៍វាលអំបិល \TU/LatinModernRoman(0
+)/m/n/10 Uyuni \TU/NotoSansKhmer(0)/m/it/10 នៅប្រទេសបុូលីវីមាន
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+[]\TU/NotoSansKhmer(0)/m/it/10 អត្ថបទវិទ្យាសាស្ត្រនាសម័យថ្មីទទួលស្គាល់ថាមានព្រឹ
+ត្តិការណ៍
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 ផ្លាស់ប្ដូរអាកាសធាតុពិតមែន បើយោងទៅតាមប្រវត្តថ្មីៗន
+ៃភពផែន
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 កើតមានក្នុងពេលតែមួយនៃការថយចុះចំនួនប្រជាជន និងការប៉
+ះពាល់
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 ដល់ការរស់នៅទៅលើផ្ទៃដីដ៏ធំ។ ព្រឹត្តិការណ៍ទាំងនេះត្រ
+ូវបានរក្សាទុក
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 ជាភាពមិនប្រក្រតីក្នុងស្រទាប់ទឹកកកនិងដីល្បាប់ ផូសុី
+លផ្ការថ្ម អុីសូ
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 តូប\TU/LatinModernRoman(0)/m/n/10 018 \TU/NotoSans
+Khmer(0)/m/it/10 លំអង និងទិន្នន័យស្ពេលូថឹមនិងកម្រិតទឹកសមុទ្រ។ តាម
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 ការបកស្រាយនៃព្រឹត្តិការណ៍ផ្លាស់ប្ដូរអាកាសធាតុរួមមា
+នការថយចុះនៃ
+
+Underfull \hbox (badness 5077) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 សីតុណ្ហភាពផែនដី ភាពរាំងស្ងួត ការផ្លាស់ប្តូរនៃចរន្ត
+ទឹកសមុទ្រអ៉ាត្លង់
+
+Underfull \hbox (badness 1303) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 តិចផ្នែកខាងត្បូងនិងការកើនឡើងនៃផែនទឹកកក\TU/LatinMod
+ernRoman(0)/m/n/10 [[], [], []]\TU/NotoSansKhmer(0)/m/it/10 ។ ព្រឹត្តិ
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 ការណ៍\TU/LatinModernRoman(0)/m/n/10 8200\TU/NotoSa
+nsKhmer(0)/m/it/10 ឆ្នាំគឺកើតឡើងក្នុងពេលតែមួយជាមួយនិងទឹកជំនន់សមុទ្រ
+
+Underfull \hbox (badness 5374) in paragraph at lines 313--314
+[]\TU/NotoSansKhmer(0)/m/it/10 យោងតាមភស្ថុតាំងនៃបុរាណវិទ្យា មានទីក្រុងបុរាណមួយច
+ំនួនបាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 បង្ហាញអំពីស្រទាប់បូជានិងបំផ្លិតបំផ្លាញ ដែលបង្ហាញអំ
+ពីព្រឹត្តិការណ៍
+
+Underfull \hbox (badness 4492) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 គ្រោះមហន្តរាយកាលពីមុន។ ជាឧទាហរណ៍គឺទីក្រុងបុរាណ \TU
+/LatinModernRoman(0)/m/n/10 Jericho
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 ដែលជាទីក្រុងមួយដែលស្ថិតនៅប្រទេសប៉ាលេស្ទីននាពេលបច្ច
+ុប្បុ
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 ន្ន។ ទីក្រុងនេះមានស្រទាប់បំផ្លាញជាច្រើន ដោយមានការឆ
+ាបឆេះជា
+
+Underfull \hbox (badness 2229) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 ខ្លាំងនិងការរលំនៃសំណង់ថ្ម\TU/LatinModernRoman(0)/m
+/n/10 [[], []]\TU/NotoSansKhmer(0)/m/it/10 ។ កំណត់ត្រាប្រវត្តិសាស្ត្រនៅក្នុង
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 គួរអោយគត់សម្គាល់នោះគឺប៉មនៃសំណង់ទាំងនេះ វាហាក់បីដូច
+ជាត្រូវ
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 គេកាត់ចោលហើយកប់ក្នុងដីល្បាប់កាលពី\TU/LatinModernRo
+man(0)/m/n/10 7400\TU/NotoSansKhmer(0)/m/it/10 ឆ្នាំមុនគ្រឹស្តសករាជ
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 សុទ្ធតែជាឧទាហរណ៍នៃទីតាំងបុរាណដែលមានភស្ថុតាងក្នុងស្
+រទាប់នៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+[]\TU/NotoSansKhmer(0)/m/it/10 ភស្តុតាងដែលបញ្ជាក់ពីព្រឹត្តិការណ៍គ្រោះមហន្តរាយដ៏
+ធំមួយទៀត
+
+Underfull \hbox (badness 1939) in paragraph at lines 326--327
+\TU/NotoSansKhmer(0)/m/it/10 ដែលរំខានដល់ការអភិវឌ្ឍន៍របស់មនុស្សលោកគឺរូប \TU/Lati
+nModernRoman(0)/m/n/10 Nampa \TU/NotoSansKhmer(0)/m/it/10 ជារូបធ្វើ
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSansKhmer(0)/m/it/10 មកពីដីឥដ្ឋដែលត្រូវបានគេរកឃើញជំរៅ\TU/LatinModernRom
+an(0)/m/n/10 100\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រខាងក្រោមកម្អែភ្នុំភ្លើង
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានគេប៉ាន់ស្មានថាកើតឡើងនាអំឡុងពេលចុងសម័យទីបីឬ
+ទីបួន
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSansKhmer(0)/m/it/10 កើតឡើងនាពេលថ្មីៗនេះក៏ថាបាន។ ការរកឃើញបែបនេះមិនត្រឹម
+តែ
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSansKhmer(0)/m/it/10 បញ្ជាក់ពីព្រឹត្តិការណ៍គ្រោះមហន្ថរាយដែលបំផ្លាញនៃការ
+អភិវឌ្ឍន៍មនុស្ស
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+[]\TU/NotoSansKhmer(0)/m/it/10 មានមូលហេតុសំខាន់ៗជាច្រើនដែលធ្វើអោយយើងមិនមានជឿ
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+\TU/NotoSansKhmer(0)/m/it/10 ទៅលើកាលវិទ្យានាពេលបុច្ចប្បន្ន ដែលប្រើប្រាស់ពេលវេលា
+រាប់លានឬ
+
+Underfull \hbox (badness 1342) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 និងឧស្ម័នធម្មជាតិមានអាយុរាប់រយលានឆ្នាំ\TU/LatinMod
+ernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ផ្ទុយទៅវិញ បើតាម
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ការធ្វើកាលបរិច្ឆេទកាបូនជាក់ស្តែងសម្រាប់ប្រេងឥន្ធនៈ
+នៃឈូងសមុទ្រ
+
+Underfull \hbox (badness 4108) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 មិចស៊ិកូ បានរកឃើញថាវាមានអាយុត្រឹមតែ\TU/LatinModern
+Roman(0)/m/n/10 13000\TU/NotoSansKhmer(0)/m/it/10 ឆ្នាំតែប៉ុណ្ណោះ\TU/LatinModer
+nRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។
+
+Underfull \hbox (badness 3907) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 អាយុកាលពាក់កណ្តាល \TU/LatinModernRoman(0)/m/n/10 (
+half-life) \TU/NotoSansKhmer(0)/m/it/10 នៃកាបូន\TU/LatinModernRoman(0)/m/n/10 -
+14 \TU/NotoSansKhmer(0)/m/it/10 គឺមានរយៈពេល
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ខ្លីណាស់\TU/LatinModernRoman(0)/m/n/10 (5730\TU/No
+toSansKhmer(0)/m/it/10 ឆ្នាំ\TU/LatinModernRoman(0)/m/n/10 ) \TU/NotoSansKhmer(
+0)/m/it/10 ធ្វើអោយវាពុកផុយទាំងស្រុកបន្ទាប់ពីរយៈពេល\TU/LatinModernRoman(0)/m/n/1
+0 2-
+
+Underfull \hbox (badness 6526) in paragraph at lines 332--333
+\TU/LatinModernRoman(0)/m/n/10 3\TU/NotoSansKhmer(0)/m/it/10 សែនឆ្នាំ។ យ៉ាងណាក៏
+ដោយ គេក៏បានរកឃើញថានៅក្នុងធ្យងថ្មនិង
+
+Underfull \hbox (badness 5460) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ផូសុីលអាចមានអាយុរាប់ពាន់ដងយូរជាងនឹងទៅទៀត\TU/LatinM
+odernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ជាការពិត
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ណាស់ធ្យងថ្មសិប្បនិម្មិតត្រូវបានគេផលិតឡើងនៅក្នុងមន្
+ទីរពិសោធន៍
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ការផលិតនេះអាស្រ័យទៅលើកម្តៅខ្ពស់ ហើយគេអាចផលិតវាបាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+[]\TU/NotoSansKhmer(0)/m/it/10 វិធីសាស្ត្រធ្វើកាលបរិច្ឆេទអុីសូតូបក៏មិនប្រាកដថាត
+្រឹមត្រូវនោះដែរ។
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 ប្រើប្រាស់វិធីទាំងនេះគឺមិនដូចគ្នានោះទេ និងថែមទាំងស
+ួរដេញដោល
+
+Underfull \hbox (badness 8113) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 ទៅលើភាពស្មោះត្រង់របស់អ្នកស្រាវជ្រាវពីមុនថែមទៀត\TU/
+LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ជាលិកា
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 ទន់ដែលមានកោសិកាឈាម សសៃឈាម និងកូឡាជែនត្រូវបានរក
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 ឃើញក្នុងសាកសព្វសត្វដាយណូស័រដែលថាមានអាយុរហូតដល់រាប់
+រយ
+
+Underfull \hbox (badness 3849) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 លានឆ្នាំឯណោះ\TU/LatinModernRoman(0)/m/n/10 [[], []
+]\TU/NotoSansKhmer(0)/m/it/10 ។ តាមអ្វីដែលយើងដឹង ការទទួលស្គាល់អំពី
+
+Underfull \hbox (badness 3386) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 អាយុភូគព្ភសាស្ត្រនៃថ្មនិងប្រេងឥន្ធនៈផូសុីលរបស់ផែនដ
+ីសព្វថ្ងៃ គឺអាច
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+[]\TU/NotoSansKhmer(0)/m/it/10 ក្នុងអត្ថបទនេះ ខ្ញុំបានលើកឡើងនូវភាពមិនប្រក្រតីដែ
+លដែលអាច
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+\TU/NotoSansKhmer(0)/m/it/10 ផ្តល់ជាយោបល់អំពីប្រភពដើមនៃគ្រោះមហន្ថរាយដែលអាចពន្យល
+់បាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+\TU/NotoSansKhmer(0)/m/it/10 មិនប្រក្រតីផ្សេងៗទៀតត្រូវបានប្រមូលផ្តុំរួចរាល់ ហើយ
+អាចស្វែងរកវា
+
+Underfull \hbox (badness 1824) in paragraph at lines 341--342
+[]\TU/NotoSansKhmer(0)/m/it/10 សូមអរគុណចំពោះ \TU/LatinModernRoman(0)/m/n/10 Eth
+ical Skeptic \TU/NotoSansKhmer(0)/m/it/10 ដែលជាអ្នកនិពន្ធដំបូងនៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+\TU/NotoSansKhmer(0)/m/it/10 និក្ខេបទ \TU/LatinModernRoman(0)/m/n/10 ECDO \TU/N
+otoSansKhmer(0)/m/it/10 ដែលបានបំពេញនូវនិក្ខេបទដ៏ជ្រាលជ្រៅមួយនេះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+\TU/NotoSansKhmer(0)/m/it/10 ហើយនិងបានចែករំលែកវាទៅកាន់មនុស្សទាំងអស់នៅលើពិភពលោក។
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+\TU/NotoSansKhmer(0)/m/it/10 និក្ខេបទទាំងបីផ្នែករបស់លោក\TU/LatinModernRoman(0)/
+m/n/10 [[]] \TU/NotoSansKhmer(0)/m/it/10 នៅតែជាច្បាប់ដើមសម្រាប់ទ្រឹស្តី
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+[]\TU/NotoSansKhmer(0)/m/it/10 ចុងបញ្ចប់សូមអរគុណទៅដល់អ្នកដែលបានជួយជ្រាជ្រែង
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+\TU/NotoSansKhmer(0)/m/it/10 អ្នកស្រាវជ្រាវដែលបានប្រមូលពត៍មានទាំងអស់ដែលធ្វើអោយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+\TU/NotoSansKhmer(0)/m/it/10 យើងមានលទ្ធភាពបង្កើតអត្ថបទនេះដើម្បីជួយទៅកាន់មនុស្សទ
+ូទាំង
+[8] (./2khmertranslated.bbl
+Underfull \hbox (badness 3942) in paragraph at lines 9--11
+[]\TU/LatinModernRoman(0)/m/n/9 Answers research journal, 2008--present.  https
+://
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]\TU/LatinModernRoman(0)/m/n/9 GetYourGuide.  Canyoning in grand canyon.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][]
+[][][][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Mega-current ripples.  []$[][][][][] []
+ [] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][] [] [][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][
+][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][
+][][][] []
+
+Underfull \hbox (badness 1005) in paragraph at lines 195--199
+\TU/LatinModernRoman(0)/m/n/9 tional park.  []$[][][][][] [] [] [] [][][] [] []
+[][] [] [][][] [] [][][][] [] [][][][][] [] [][][][][][] []
+[9]
+Underfull \hbox (badness 4556) in paragraph at lines 218--225
+[][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][] [] [][][][]$[]\TU/LatinModernRoman(0)/m/n/9 , May 2017.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/LatinModernRoman(0)/m/n/9 theethicalskeptic.com/2024/05/23/master-exothermi
+c-
+
+Underfull \hbox (badness 1048) in paragraph at lines 398--401
+\TU/LatinModernRoman(0)/m/n/9 The Free Encyclopedia, 2025.  [Online; accessed 8
+-
+[10]) [11] (./2khmertranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on 2khmertranslated.pdf (11 pages).
+Transcript written on 2khmertranslated.log.
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+The top-level auxiliary file: 2khmertranslated.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "15" isn't style-file defined
+--line 120 of file egbib.bib
+Warning--entry type for "42" isn't style-file defined
+--line 357 of file egbib.bib
+Warning--to sort, need author or key in 42
+Warning--to sort, need author or key in 88
+Warning--to sort, need author, editor, or key in 103
+Warning--empty author and editor in 103
+Warning--empty author in 88
+Warning--empty booktitle in 54
+Warning--empty year in 63
+Warning--empty journal in 145
+Warning--empty publisher in 64
+(There were 11 warnings)
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./2khmertranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 87.
+
+(./2khmertranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 101.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 101.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 102.
+
+
+LaTeX Font Warning: Font shape `TU/NotoSansKhmer(0)/m/it' undefined
+(Font)              using `TU/NotoSansKhmer(0)/m/n' instead on input line 103.
+
+
+Underfull \hbox (badness 4242) in paragraph at lines 103--104
+[]\TU/NotoSansKhmer(0)/m/it/10 នៅក្នុងខែឧសភា ឆ្នាំ\TU/LatinModernRoman(0)/m/it/
+10 2025 \TU/NotoSansKhmer(0)/m/it/10 អ្នកនិពន្ធអនាមិកអនឡាញម្នាក់ឈ្មោះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/LatinModernRoman(0)/m/it/10 "The Ethical Skeptic"[[]] \TU/NotoSansKhmer(0)/
+m/it/10 បានផ្សព្វផ្សាយទ្រឹស្ដីបំប្លែងមួយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 ដែលមានឈ្មោះថា ការបំបែកលំយោលស្រទាប់ក្រឡាប់ក្តៅក្នុង
+ផែនដី
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/LatinModernRoman(0)/m/it/10 (ECDO)[[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ទ្រឹស្
+ដីនេះមិនត្រឹមតែបានផ្តល់នូវយោបល់ថាផែនដី
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 កាលពីមុនបានបម្លែងអ័ក្សវិលដ៏សាហាវ ធ្វើអោយមានទឹកជំនន
+់ដ៏ធំ
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 ទូទាំងពិភពលោក ដែលបណ្តាលអោយមហាសមុទ្រលេចលើទ្វីបនានា
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 មិនត្រឹមតែដោយសារនិចលភាពនៃការវិលប៉ុណ្ណោះទេ តែថែមទាំ
+ងផ្ដល់
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 ការបកស្រាយនៃដំណើរការភូមិវិទ្យាដែលផ្តោតលើទិន្នន័យហេ
+តុផល
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 ដែលបានបង្ហាញថាការផ្លាស់ប្តូរផែនដីអាចនឹងកើតមានម្តងទ
+ៀត។
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 ទោះបីជាការព្យាករណ៍ទឹកជំនន់និងគ្រោះមហន្តរាយមិនមែនជា
+រឿងថ្មី
+
+Underfull \hbox (badness 2237) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 យោងទៅលើវិទ្យាសាស្ត្រ ពហុបច្ចេកទេស និងមានមូលដ្ឋានដែ
+លផ្អែក
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+[]\TU/NotoSansKhmer(0)/m/it/10 ក្រដាសស្រាវជ្រាវនេះជាផ្នែកទី\TU/LatinModernRoman
+(0)/m/it/10 2\TU/NotoSansKhmer(0)/m/it/10 នៃការសង្ខេបដែលមានពីរផ្នែក នៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+\TU/NotoSansKhmer(0)/m/it/10 ការស្រាវជ្រាវឯករាជ្យដែលមានរយៈពេល\TU/LatinModernRom
+an(0)/m/it/10 6\TU/NotoSansKhmer(0)/m/it/10 ខែ\TU/LatinModernRoman(0)/m/it/10 [
+[], []] \TU/NotoSansKhmer(0)/m/it/10 ទៅក្នុងទ្រឹស្ដី
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+\TU/LatinModernRoman(0)/m/it/10 ECDO \TU/NotoSansKhmer(0)/m/it/10 ដោយផ្តោតទៅលើភ
+ាពមិនប្រក្រតីនៃផ្នែកវិទ្យាសាស្ត្រ និង
+
+Underfull \hbox (badness 1092) in paragraph at lines 111--112
+[]\TU/NotoSansKhmer(0)/m/it/10 ភូគព្ភវិទ្យា និងប្រវត្តិសាស្ត្ររួមសម័យនេះអះអាងថា
+ តំបន់ធំៗដូចជា
+
+Underfull \hbox (badness 7486) in paragraph at lines 111--112
+\TU/LatinModernRoman(0)/m/n/10 Grand Canyon \TU/NotoSansKhmer(0)/m/it/10 ត្រូវប
+ានបង្កើតឡើងក្នុងរយៈពេលរាប់លានឆ្នាំ\TU/LatinModernRoman(0)/m/n/10 [[]]
+
+Underfull \hbox (badness 4913) in paragraph at lines 111--112
+\TU/NotoSansKhmer(0)/m/it/10 ថាមានអំបិលនៅក្នុង \TU/LatinModernRoman(0)/m/n/10 D
+eath Valley (California) \TU/NotoSansKhmer(0)/m/it/10 ព្រោះតំបន់
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+\TU/NotoSansKhmer(0)/m/it/10 នោះធ្លាប់ស្ថិតនៅក្រោមមហាសមុទ្ររយៈពេលរាប់រយលានឆ្នាំ
+កន្លងមក
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+\TU/NotoSansKhmer(0)/m/it/10 មានអាយុរាប់រយលានឆ្នាំមកហើយ\TU/LatinModernRoman(0)/
+m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ អ្វីដែលគួរអោយគត់សំគាល់
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+[]\TU/NotoSansKhmer(0)/m/it/10 ភាពមិនប្រក្រតីទាំងនេះ នឹងត្រូវបានពន្យល់យ៉ាងក្បោះ
+ក្បាយដោយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+\TU/NotoSansKhmer(0)/m/n/9 ដែលស្តិតក្នុងស្ថានភាពយ៉ាងល្អគឺជាសត្វម៉ាមម៉ុត់នៅតំបន់
+ស៊ីបេរីដែលបានរក
+
+Underfull \hbox (badness 3158) in paragraph at lines 126--127
+[]\TU/NotoSansKhmer(0)/m/it/10 ភាពមិនប្រក្រតីមួយនៃបាតុភូតនេះ គឺជាសត្វម៉ាមម៉ុត់ក
+ក ដែលនៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 មានស្ថានភាពយ៉ាងល្អដែលបានកប់នៅក្នុងភក់ ត្រូវគេប្រទះ
+ឃើញនៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/LatinModernRoman(0)/m/n/10 mammoth) \TU/NotoSansKhmer(0)/m/it/10 ដែលបានរកឃើ
+ញនៅតំបន់ស៊ីបេរីដែលបានកប់នៅក្នុង
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ទោះបីវាមានអាយុរាប់ពាន់ឆ្នាំក៏ដោយ។ សត្វនេះនៅមានអាហា
+ររុក្ខជាតិ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 នៅក្នុងមាត់និងពោះរបស់វា ដែលបណ្ដាលអោយវេជ្ជបណ្ឌិតជាច
+្រើន
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 វាកំពុងតែសុីស្មៅមុនពេលវាស្លាប់\TU/LatinModernRoman
+(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ មានរបាយការណ៍មួយបាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សរសេរថា\TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSa
+nsKhmer(0)/m/it/10 នៅឆ្នាំ\TU/LatinModernRoman(0)/m/it/10 1901 \TU/NotoSansKhme
+r(0)/m/it/10 មានការភ្ញាក់ផ្អើលយ៉ាងខ្លាំងពេលរកឃើញ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សាកសពសត្វម៉ាមម៉ុត់ដែលមានស្ថានភាពយ៉ាងល្អនៅជិតទន្លេប
+េរេហ្សូវ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 កា ដោយសារសត្វនេះមើលទៅដូចបានសម្លាប់ដោយសារទឹកកកនៅចំ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 រដូវក្តៅទៅវិញ។ អាហារនៅក្នុងពោះរបស់វាស្ថិតក្នុងស្ថា
+នភាពយ៉ាងល្អ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សូម្បីតែស្មៅនិងផ្ការក៏មាននៅក្នុងថ្គាមវាដែរ។ ហាក់បី
+ដូចជាមានកម្លាំង
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 មួយដ៏ខ្លាំងខ្លាបានវាប្រហារ និងបោះវាពីរបីគីឡូម៉ែត្រ
+ពីតំបន់ដែលវាសុី
+
+Underfull \hbox (badness 3907) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ចំណី។ ត្រគាកនិងជើងមួយចំហៀងរបស់វាបានបាក់ ប្រហែលជាសត
+្វ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ដ៏ធំមួយនេះត្រូវបានកករហូតដល់ស្លាប់ នៅក្នុងអំឡុងពេលដ
+ែលក្តៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ពោះខាងក្នុងបំផុតរបស់សត្វនេះមានរចនាសម្ព័ន្ធសរសៃនៅល្
+អនៅឡើយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 មានន័យថាកម្តៅនៅក្នុងរាងកាយរបស់វាត្រូវបានយកចេញដោយដំ
+ណើរ
+
+Underfull \hbox (badness 4752) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ការធម្មជាតិដ៏អស្ចារ។ លោក \TU/LatinModernRoman(0)/m
+/it/10 Sanderson \TU/NotoSansKhmer(0)/m/it/10 បានចាប់អារម្មណ៍យ៉ាង
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ខ្លាំងចំពោះបញ្ហានេះ គាត់ក៏បានបានទាក់ទងទៅស្ថាប័នអាហ
+ារត្រជាក់
+
+Underfull \hbox (badness 2970) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សហរដ្ឋអាមេរិក\TU/LatinModernRoman(0)/m/it/10 (AFFI
+)\TU/NotoSansKhmer(0)/m/it/10 ៖ តើហេតុអ្វីបានជាសត្វម៉ាមម៉ុត់កកទាំងស្រុង
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សូម្បីតែជាតិសំណើមនៅក្នុងស្រទាប់ពោះក្នុងបំផុតរបស់វា
+គ្មានពេល
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សម្រាប់បង្កើតគ្រីស្តាល់ធំល្មមដែលអាចបំផ្លាញរចនាសម្ព
+័ន្ធនៃសរសៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សាច់\TU/LatinModernRoman(0)/m/it/10 ?... \TU/NotoS
+ansKhmer(0)/m/it/10 ប៉ុន្មានសប្តាហ៍ក្រោយមកស្ថាប័ននេះបានឆ្លើយតបទៅ
+
+Underfull \hbox (badness 2158) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 លោក \TU/LatinModernRoman(0)/m/it/10 Sanderson \TU/
+NotoSansKhmer(0)/m/it/10 ថា៖ វាមិនអាចទៅរួចនោះទេ។ ចំណេះដឹងនឹង
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ចេញពីសាកសពដ៏ធំដូចម៉ាមម៉ុត់បានលឿនគ្រប់គ្រាន់ដើម្បីអ
+ោយវាកក
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ដោយគ្មានការបង្កើតដំគ្រីស្តាល់ធំៗនៅក្នុងសាច់វានោះទេ
+។ ម្យ៉ាងទៀត
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ទោះបីខិតខំប្រើបច្ចេកទេសវិទ្យាសាស្រ្តនិងវិស្វកម្មពួ
+កគេសង្គេតទៅ
+
+Underfull \hbox (badness 2119) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ធម្មជាតិហើយបានបញ្ជាក់ថា តាមការយល់ដឹងរបស់មនុស្សសព្វ
+ថ្ងៃគ្មាន
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 3. []\TU/NotoSansKhmer(0)/m/n/9 ទំហំស្រទ
+ាប់ថ្មខ្សាច់ \TU/LatinModernRoman(0)/m/n/9 Coconino \TU/NotoSansKhmer(0)/m/n/9 
+នៅភាគខាងលិច
+
+Underfull \hbox (badness 1975) in paragraph at lines 153--154
+[]\TU/NotoSansKhmer(0)/m/it/10 បើយើងសង្កេតទៅលើ \TU/LatinModernRoman(0)/m/n/10 G
+rand Canyon \TU/NotoSansKhmer(0)/m/it/10 វាអាចពន្យល់យើងអំពី
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 កំណនៃស្រទាប់ដីល្បាប់ ក៏បានកើតឡើងជាដោយសារតែកម្លាំងធ
+ូរតិច
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 តូនិចផងដែរ។ ដើម្បីស្វែងយល់អំពីរឿងនេះយើងត្រូវសង្កេត
+តំបន់ខ្លះៗ
+
+Underfull \hbox (badness 1931) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 នៃ \TU/LatinModernRoman(0)/m/n/10 Canyon \TU/NotoS
+ansKhmer(0)/m/it/10 អោយបានច្បាស់លាស់ទៅលើស្រទាប់ដីល្បាប់ដែលបាន
+
+Underfull \hbox (badness 3323) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 ខ្នាតមីក្រូស្កូពិកទៅលើសំណំថ្មមួយចំនួនដូចជា \TU/Lat
+inModernRoman(0)/m/n/10 Monument Fold
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 សំណុំថ្មបត់បែនទាំងនេះបានកើតនៅក្នុងរយៈពេលយូរនៅក្រោម
+កម្តៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 បានបត់បែនដោយកម្លាំងធូរតិចតូនិច នៅពេលដែលវានៅទន់ នោះ
+គឺ
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+[]\TU/NotoSansKhmer(0)/m/it/10 នៅពេលដែលយើងពង្រីកមើល ឃើញថាស្រទាប់ដែលបង្កើត
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSansKhmer(0)/m/it/10 ទេ។ ស្រទាប់ទាំងនេះបានបត់កោងទៅភាគខាងកើតនៃតំបន់ \TU/
+LatinModernRoman(0)/m/n/10 East
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSansKhmer(0)/m/it/10 បត់លើគ្នាយ៉ាងលឿនដោយកម្លាំងតេតូនិច។ យើងអាចយោងទៅតាម
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រនេះបាន។ ទំហំនៃដំណើរការភូគព្ភសាស្ត្រដែលចំបាច់
+សម្រាប់
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSansKhmer(0)/m/it/10 ដាក់ស្រទាប់ដីល្បាប់ដែលមានកម្រាស់ជាងមួយគីឡីម៉ែត្រនេ
+ះគឺធំធេង
+
+Underfull \hbox (badness 5924) in paragraph at lines 166--167
+[]\TU/NotoSansKhmer(0)/m/it/10 ពត៍មានជាក់លាក់នៃ \TU/LatinModernRoman(0)/m/n/10 
+Grand Canyon \TU/NotoSansKhmer(0)/m/it/10 គឺជាបញ្ហាមួយទៀតនៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+\TU/NotoSansKhmer(0)/m/it/10 ការពិភាក្សាសម្រាប់វិទ្យាសាស្ត្រសម័យទំនើប។ ទ្រឹស្តី
+វិទ្យាសាស្ត្រតាម
+
+Underfull \hbox (badness 6110) in paragraph at lines 166--167
+\TU/LatinModernRoman(0)/m/n/10 orado \TU/NotoSansKhmer(0)/m/it/10 រាប់លានឆ្នាំម
+កហើយ\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ យ៉ាងណាក៏ដ
+ោយក្រុមស្រាវជ្រាវ
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+\TU/NotoSansKhmer(0)/m/it/10 បង្កើតឡើងក្នុងរយៈពេលតែពីរបីសប្តាហ៍ដោយសារច្រោះដីហៀរ
+ចេញពី
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+[]\TU/NotoSansKhmer(0)/m/it/10 បើសិនជាយើងពិចារណាមូលដ្ឋាននៃដំណើរការភូមិសាស្ត្រដែ
+លចំ
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+[]\TU/NotoSansKhmer(0)/m/it/10 ក្រៅពីរ៉ាមីត ឧទាហរណ៍ដ៏ល្អមួយនៃវិស្វកម្មបុរាណគឺទី
+ក្រុងក្រោម
+
+Underfull \hbox (badness 3635) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 ដី \TU/LatinModernRoman(0)/m/n/10 Derinkuyu (\TU/N
+otoSansKhmer(0)/m/it/10 រូបភាពទី[]\TU/LatinModernRoman(0)/m/n/10 5[]) \TU/NotoS
+ansKhmer(0)/m/it/10 ដែលស្ថិតនៅក្នុងតំបន់ \TU/LatinModernRoman(0)/m/n/10 Cappado
+-
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+\TU/LatinModernRoman(0)/m/n/10 cia \TU/NotoSansKhmer(0)/m/it/10 ប្រទេសតួកគី។ វា
+ជាទីក្រុងដែលធំជាងគេក្នុងចំណោមជម្រក
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 ក្រោមដីជាង\TU/LatinModernRoman(0)/m/n/10 200\TU/No
+toSansKhmer(0)/m/it/10 កន្លែងនៅតំបន់នេះ\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/N
+otoSansKhmer(0)/m/it/10 ។ ទីក្រុងក្រោមដីនេះត្រូវបាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 គេប៉ាន់ប្រមាណថាអាចមានប្រជាជនរស់នៅដល់ទៅ\TU/LatinMod
+ernRoman(0)/m/n/10 20000\TU/NotoSansKhmer(0)/m/it/10 នាក់និង
+
+Underfull \hbox (badness 7631) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 មាន១៨ជាន់ ហើយវាមានជ្រៅរហូតដល់\TU/LatinModernRoman(
+0)/m/n/10 85\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ។ ទោះយើងមិនដឹង
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 ពីអាយុពិតរបស់វាក៏ដោយ បន្តែគេបានប៉ាន់ប្រមាណថាវាមានអ
+ាយុ
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 យ៉ាងតិច\TU/LatinModernRoman(0)/m/n/10 2800\TU/Noto
+SansKhmer(0)/m/it/10 ឆ្នាំ។ ទីក្រុងនេះត្រូវបានគេឆ្លាក់ចេញពីថ្មភ្នុំភ្លើងទន់
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 មិនដឹងថាមូលហេតុអ្វីបានជាមានសហគមន៍មួយ បានសម្រេចចិត្
+ត
+
+Underfull \hbox (badness 6592) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 សាងសង់ទីក្រុងក្រោមដីនេះទាំងមូល។ ដើម្បីបង្កើតកន្លែង
+រស់នៅក្រោម
+
+Underfull \hbox (badness 2005) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ដី គេត្រូវឆ្លាក់រូងទាំងអស់ចេញពីថ្ម។ សភាពរូងភ្នុំបង
+្ហាញយ៉ាងច្បាស់ថា
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 វាត្រូវបានគេឆ្លាក់ដោយកម្លាំងកាយ មិនមែនប្រើឧបករណ៍ជំ
+នួយនោះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ទេ ដែលធ្វើអោយវាមានការពិបាកយ៉ាងខ្លាំងណាស់បើប្រៀបធៀប
+ទៅ
+
+Underfull \hbox (badness 2478) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 និងការសាងសាងលំនៅឋ្ឋាននៅលើដី។ ជាក់ស្តែង យើងមិនទាន់យ
+ល់
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ច្បាស់នោះទេថាហេតុអ្វីបានជាមានមនុស្សសម្រេចចិត្តរស់ន
+ៅក្រោមដី
+
+Underfull \hbox (badness 1776) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ទៅវិញ ខណៈដែលកសិកម្ម ពន្លឺថ្ងៃ ធម្មជាតិ និងការស្វែង
+រកមានតែ
+
+Underfull \hbox (badness 2617) in paragraph at lines 185--186
+\TU/LatinModernRoman(0)/m/n/10 Derinkuyu \TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានស
+ាងសង់ឡើងដោយគ្រិស្ដសាសនិកដែលត្រូវការ
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ទីកន្លែងសម្ងាត់សម្រាប់ប្រតិបត្តិជំនឿរបស់ខ្លួន\TU/L
+atinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ជាធម្មតាវាមិន
+
+Underfull \hbox (badness 6978) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ងាយស្រួលនោះទេ ព្រោះសម្រាប់មនុស្សយើងទូទៅនៅពេលមានសត្
+រូវ
+
+Underfull \hbox (badness 4181) in paragraph at lines 187--188
+[]\TU/NotoSansKhmer(0)/m/it/10 ទំហំ ជម្រៅ និងការពិចារណាទៅលើការរចនានៃទីក្រុងក្រោ
+មដីនេះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+\TU/NotoSansKhmer(0)/m/it/10 បង្ហាញថាវាមិនត្រូវបានសាងសង់ដើម្បីជាបន្ទាយទាហានបណ្ត
+ោះអាសន្ន
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+\TU/NotoSansKhmer(0)/m/it/10 សម្រាប់ការពារពួកឈ្លានពាននាគ្រាមានអាសន្ននោះទេ ប៉ុន្
+តែគឺដើម្បីជា
+
+Underfull \hbox (badness 5696) in paragraph at lines 187--188
+\TU/NotoSansKhmer(0)/m/it/10 ត្រឹមតែមានបន្ទប់គេង ផ្ទះបាយ បន្ទប់ទឹកនោះទេ មានទាំង
+រោងសត្វ
+
+Underfull \hbox (badness 3058) in paragraph at lines 187--188
+\TU/NotoSansKhmer(0)/m/it/10 ផ្នូរ និងរន្ធសម្រាប់ខ្យល់ចេញចូលផងដែរ \TU/LatinMode
+rnRoman(0)/m/n/10 (\TU/NotoSansKhmer(0)/m/it/10 រូបភាពទី[]\TU/LatinModernRoman(
+0)/m/n/10 6[])\TU/NotoSansKhmer(0)/m/it/10 ។ បើសិនវាជា
+
+Underfull \hbox (badness 2073) in paragraph at lines 187--188
+\TU/NotoSansKhmer(0)/m/it/10 បន្ទាយទាហានមែននោះ ចាំបាច់រូវការឧបករណ៍ចម្រោះស្រា ហើ
+យត្រូវ
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+[]\TU/NotoSansKhmer(0)/m/it/10 ការពន្យល់ដែលគួរអោយជឿជាក់បំផុតនៃការបង្កើត \TU/Lat
+inModernRoman(0)/m/n/10 Derinkuyu
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+\TU/NotoSansKhmer(0)/m/it/10 គឺអាចសន្និដ្ឋានបានថា វាជាការរៀបចំរយៈពេលវែងនិងជាជម្
+រកដែល
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+\TU/NotoSansKhmer(0)/m/it/10 អាចអាស្រ័យផលបានដើម្បីការពារពីកម្លាំងមហន្តរាយនៃភូគព
+្ភសាស្ត្រលើ
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+[]\TU/NotoSansKhmer(0)/m/it/10 ការប្រមូលផ្តុំជីវម៉ាស់នៃប្រភេទសត្វនិងរុក្ខជាតិផ្
+សេងៗគ្នា ជាធម្មតា
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានរកឃើញជាផូសុីលនៅក្នុងស្រទាប់ដីល្បាប់ ដែលជារ
+ឿងដ៏មិន
+
+Underfull \hbox (badness 1460) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ប្រក្រតីមួយផ្សេងទៀត។ នៅក្នុង \TU/LatinModernRoman(
+0)/m/n/10 "Reliquoæ Diluvianæ" \TU/NotoSansKhmer(0)/m/it/10 លោក
+
+Underfull \hbox (badness 2261) in paragraph at lines 207--208
+\TU/LatinModernRoman(0)/m/n/10 Rev. William Buckland \TU/NotoSansKhmer(0)/m/it/
+10 បានកត់ត្រាអំពីការរកឃើញនូវសត្វ
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ជាច្រើនប្រភេទដែលមិនគួររកឃើញក្នុងពេលតែមួយ ដែលបានខ្ច
+ាត
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ខ្ចាយពេញប្រទេសអង់គ្លេសនិងអឺរ៉ុប ដែលបានកប់នៅស្រទប់ដ
+ីល្បាប់
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/LatinModernRoman(0)/m/n/10 'diluvium'[[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ការ
+ប្រមូលផ្តុំនៃសាកសព្វសត្វបែបនេះត្រូវបានរក
+
+Underfull \hbox (badness 4328) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ឃើញនៅក្នុងរូងភ្នុំ \TU/LatinModernRoman(0)/m/n/10 
+Skjonghelleren \TU/NotoSansKhmer(0)/m/it/10 នៅកោះ \TU/LatinModernRoman(0)/m/n/1
+0 Valdroy \TU/NotoSansKhmer(0)/m/it/10 ប្រទេស
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ត្រី ដែលត្រូវបានរកឃើញនៅក្នុងស្រទាប់ជាច្រើននៃដីល្បា
+ប់\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 តោន ជាពិសេសសត្វដំរីទឹកដែលនូវមានសភាពល្អយ៉ាងខ្លាំងដែ
+លត្រូវ
+
+Underfull \hbox (badness 3078) in paragraph at lines 207--208
+\TU/LatinModernRoman(0)/m/n/10 black)\TU/NotoSansKhmer(0)/m/it/10 ។ តាមការរាយកា
+រណ៍ ឆ្អឹងសត្វផ្សេងៗទាំងនោះត្រូវបានលាយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 គ្នា និងបាក់បែកបាក់ជាបំណែកៗ\TU/LatinModernRoman(0)
+/m/n/10 [[], []]\TU/NotoSansKhmer(0)/m/it/10 ។ នៅក្នុងទីក្រុងបុរាណ
+
+Underfull \hbox (badness 1365) in paragraph at lines 207--208
+\TU/LatinModernRoman(0)/m/n/10 Mendes \TU/NotoSansKhmer(0)/m/it/10 ប្រទេសអេហ្ស៊
+ីប ក៏បានរកឃើញឆ្អឹងសត្វប្រភេទផ្សេងៗដែល
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 រកឃើញបែបនេះអាចធ្វើអោយមានចម្ងល់ ប៉ុន្តែអាចពន្យល់បាន
+យ៉ាង
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ងាយស្រួល គឺដោយសារមានទឹកជំនន់ដ៏ធំមហិមាដែលបង្ករអោយឆ្
+នឹង
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 សត្វគ្រប់ប្រភេទហូរឬកប់ទាំងរស់ទៅក្នុងស្រទាប់ដីល្បាប
+់ឬនៅក្នុងរូងភ្នុំ
+
+Underfull \hbox (badness 2865) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ហើយសម្រាប់ករណីជីវម៉ាស់ដែលក្លាយជាកែវ \TU/LatinModer
+nRoman(0)/m/n/10 (vitrified biomass)
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 នៅអេហ្ស៊ីបគឺកើតឡើងដោយចំហាយអគ្គិសនីនៅក្នុងស្រទាប់ម៉
+ង់តូលប
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+[]\TU/NotoSansKhmer(0)/m/it/10 បុព្វជនរបស់យើងបានបន្សល់ទុកនូវសំណង់វិស្វកម្មបុរាណ
+ជាច្រើន
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+\TU/NotoSansKhmer(0)/m/it/10 ហើយនៅក្នុងនោះយើងបានរកឃើញសាកសពមនុស្សដែលជាទូទៅត្រូវ
+
+Underfull \hbox (badness 7256) in paragraph at lines 220--221
+\TU/NotoSansKhmer(0)/m/it/10 បានចាត់ទុកថាជាផ្នូរ ប៉ុន្តែបើយើងពិនិត្យមើលអោយច្បាស
+់លាស់វាអាច
+
+Underfull \hbox (badness 3679) in paragraph at lines 227--227
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 8. []Newgrange \TU/NotoSansKhmer(0)/m/n/
+9 ប្រទេសអៀរឡង់ \TU/LatinModernRoman(0)/m/n/9 - \TU/NotoSansKhmer(0)/m/n/9 សូមពិ
+និត្យមើលទំហំភ្ញៀវ
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+[]\TU/NotoSansKhmer(0)/m/it/10 ឧទាហរណ៍ដ៏ល្អមួយគឺនៅក្នុងតំបន់ \TU/LatinModernRom
+an(0)/m/n/10 Newgrange (\TU/NotoSansKhmer(0)/m/it/10 រូបភាព
+
+Underfull \hbox (badness 1708) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 ទី[]\TU/LatinModernRoman(0)/m/n/10 8[]), \TU/NotoS
+ansKhmer(0)/m/it/10 ដែលជាវិមានធំជាងគេនៅក្នុងតំបន់ \TU/LatinModernRoman(0)/m/n/1
+0 Brú na Bóinne \TU/NotoSansKhmer(0)/m/it/10 មាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 សំណង់បុរាណជាច្រើនរួមទាំងផ្នូរបុរាណផងដែរ។ ផ្នូរទាំង
+នេះមាន
+
+Underfull \hbox (badness 1803) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 បន្ទប់បញ្ចុះសពមួយឬច្រើនកន្លែងដែលគ្របដណ្តប់ដោយដី ឬថ
+្ម ដែល
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 មានផ្លូវចូលតូចៗសាងសង់ដោយថ្មធំៗ\TU/LatinModernRoman
+(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ វាជាឧទាហរណ៍មួយនៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 រចនាសម្ព័ន្ធវិស្វកម្មការពារដ៏ធំមហិមា ដែលបានសាងសង់អ
+ស់ជាច្រើន
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 ជំនន់ដើម្បីធ្វើជាផ្នូរអោយមនុស្សពីរបីនាក់ដែលបានស្លា
+ប់មុនផ្នូរបុរាណ
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 ទាំងនេះត្រូវបានចាប់ផ្តើមសាងសង់។ នៅពេលដែលកន្លែងនេះត
+្រូវបាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 រកឃើញឡើងវិញដោយម្ចាស់ដីក្នុងឆ្នាំ\TU/LatinModernRom
+an(0)/m/n/10 1699 \TU/NotoSansKhmer(0)/m/it/10 កន្លែងនេះគឺត្រូវបានកប់
+[3]
+Underfull \hbox (badness 4739) in paragraph at lines 234--235
+[]\TU/NotoSansKhmer(0)/m/it/10 គ្រាន់តែពិនិត្យមើលសំណង់នេះតែបន្តិចក៏ដឹងដែរថា ការ
+សាងសង់វា
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 បន្ទប់សាកសពដែលអាចចេញចូលបានតាមច្រកអាគ្នេយ៍។ ផ្លូវនេ
+ះមាន
+
+Underfull \hbox (badness 3503) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 ប្រវែងប្រហែល\TU/LatinModernRoman(0)/m/it/10 19\TU/
+NotoSansKhmer(0)/m/it/10 ម៉ែត្រ ឬ\TU/LatinModernRoman(0)/m/it/10 1/3\TU/NotoSan
+sKhmer(0)/m/it/10 នៃផ្លូវសរុបទៅកាន់ផ្នែកកណ្ដាល។ នៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 ចំនុចចុងផ្លូវមានបន្ទប់តូចចំនួនបីដែលជាប់នឹងបន្ទប់ធំ
+មួយទៀតហើយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 វាមានកម្ពស់មធ្យម\TU/LatinModernRoman(0)/m/it/10 1.
+5\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ\TU/LatinModernRoman(0)/m/it/10 ”\TU/LatinM
+odernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ សព្វថ្ងៃនៅមានស្នាកស្មាម
+អំពី
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 វិស្វកម្មការពារទឹកយ៉ាងល្អផងដែរ។ ជាឧទាហរណ៍នៅលើដំបូល
+\TU/LatinModernRoman(0)/m/it/10 “\TU/NotoSansKhmer(0)/m/it/10 នៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 តាមចន្លោះដំបូលត្រូវបានបិតដោយល្បាយដីដុតនិងដីខ្សាច់ដ
+ើម្បីការពារ
+
+Underfull \hbox (badness 1270) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 ទឹកភ្លៀង ហើយបើតាមរយៈកាលបរិច្ឆេទកាបូន \TU/LatinMode
+rnRoman(0)/m/it/10 (radiocarbon dat-
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/LatinModernRoman(0)/m/it/10 ing) \TU/NotoSansKhmer(0)/m/it/10 ល្បាយផ្នូរនេះ
+បានរកឃើញថាវាត្រូវបាងសាងសង់នៅចន្លោះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 ឆ្នាំ\TU/LatinModernRoman(0)/m/it/10 2500\TU/NotoS
+ansKhmer(0)/m/it/10 មុនគ្រឹស្តសករាជ\TU/LatinModernRoman(0)/m/it/10 "\TU/LatinMo
+dernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ណាមួយទៀត ការដែលដំឡើង
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 កំពស់ទៅកាន់បន្ទប់កណ្តាលគឺត្រូវបានធ្វើឡើងសម្រាប់គោល
+បំណង
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 ដូចគ្នា៖\TU/LatinModernRoman(0)/m/it/10 “\TU/NotoS
+ansKhmer(0)/m/it/10 ព្រោះថា\TU/LatinModernRoman(0)/m/it/10 _\TU/NotoSansKhmer(0
+)/m/it/10 កម្រាល\TU/LatinModernRoman(0)/m/it/10 _\TU/NotoSansKhmer(0)/m/it/10 ន
+ៃផ្លូវនិងបន្ទប់សាកសពនេះបានធ្វើតាម
+
+Underfull \hbox (badness 4940) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 កំពស់ដីដែលសំណង់នេះត្រូវបានកសាងឡើង គឺខុសគ្នាជិត\TU/
+LatinModernRoman(0)/m/it/10 2\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្ររវាង
+
+LaTeX Warning: Text page 4 contains only floats.
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+[]\TU/NotoSansKhmer(0)/m/it/10 អ្វីដែលគួរអោយមានចម្ងល់នោះគឺមិនសូវមានកាកសំណល់នៃសា
+ក
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 សព្វនោះឡើយ។ តាមការស្រាយជ្រាវបានបង្ហាញថា មានបំណែក
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 ឆ្អឹងឆេះនិងឆ្អឹងធម្មតាដែលជារបស់មនុស្សតែពីរបីនាក់តែ
+ប៉ុន្នោះដែល
+
+Underfull \hbox (badness 4036) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 នៃសម្ភារៈនៅខាងក្នុងបានបង្ហាញថា ការសាងសង់ \TU/Latin
+ModernRoman(0)/m/n/10 Newgrange \TU/NotoSansKhmer(0)/m/it/10 គឺ
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានចំណាយពេលយ៉ាងតិចពិរបីជំនាន់។ ហេតុអ្វីបានជាស
+ហគមន៍
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 បុរាណមួយនេះប្រឹងប្រែងសាងសង់ផ្នូរបុរាណពពេញទៅដោយវិស្
+វកម្ម
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 ដ៏មហិមានេះ ប៉ុន្តែបានត្រឹមរាយប៉ាយបំណែកឆ្អឹងសាកសព្វ
+តែពីរបីនាក់
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 ទឹកទាំងនេះគឺកសាងដើម្បីជាជម្រកការពារគ្រោះមហន្ថរាយលើ
+ផែនដី
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+\TU/NotoSansKhmer(0)/m/it/10 ផ្នែខាងត្បូងនៃអ៉េស្ប៉ាញ \TU/LatinModernRoman(0)/m/
+n/10 (\TU/NotoSansKhmer(0)/m/it/10 រូបភាពទី []\TU/LatinModernRoman(0)/m/n/10 9[
+]) \TU/NotoSansKhmer(0)/m/it/10 ដែលជាតំបន់មួយក្នុងចំ
+
+Underfull \hbox (badness 6741) in paragraph at lines 248--249
+\TU/NotoSansKhmer(0)/m/it/10 ឡើងដោយប្រើប្រាស់ដុំថ្មបុរាណធំៗមានអង្កត់ផ្ចិត\TU/La
+tinModernRoman(0)/m/n/10 75\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ។ យោងតាម
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+\TU/NotoSansKhmer(0)/m/it/10 ការស្រាវជ្រាវ មានតែសាកសពចំនួនប្រាំបីនាក់នោះទេដែលត្
+រូវបានរក
+
+Underfull \hbox (badness 3884) in paragraph at lines 248--249
+\TU/NotoSansKhmer(0)/m/it/10 ឃើញ សាកសព ទាំងនេះគឺត្រូវបានគេបត់ដូចពេលទារកនៅក្នុងស
+្បូន
+
+Underfull \vbox (badness 1297) has occurred while \output is active
+Underfull \hbox (badness 10000) in paragraph at lines 250--250
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSansKhmer(0)/b/n/12 ការលើកឡើងអំពីភា
+ពមិនប្រក្រតីដែលគួរអោយគត់
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+[]\TU/NotoSansKhmer(0)/m/it/10 នៅក្នុងផ្នែកនេះ ខ្ញុំបានសង្ខេបនូវការលើកឡើងអំពីភា
+ពមិន
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+\TU/NotoSansKhmer(0)/m/it/10 ប្រក្រតីដែលគួរអោយគត់សម្គាល់មួយចំនួនដែលបានបកស្រាយយ៉
+ាង
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--261
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 10. []\TU/NotoSansKhmer(0)/m/n/9 ការបង្ហ
+ាញអំពីការថយចុះនៃចំនួនបុរស\TU/LatinModernRoman(0)/m/n/9 95%
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+[]\TU/NotoSansKhmer(0)/m/it/10 ភាពមិនប្រក្រតីជីវវិទ្យាដែលគួរអោយគត់សំគាល់មួយចំនួ
+ន គឺការ
+
+Underfull \hbox (badness 5331) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 កាត់បន្តយនៃហ្សែននិងផូសុីលត្រីប៉ាឡែន។ \TU/LatinMode
+rnRoman(0)/m/n/10 Zeng et al (2018)
+
+Underfull \hbox (badness 7814) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 បើយោងទៅតាមគំរូលំដាប់ក្រូម៉ូសូម \TU/LatinModernRoma
+n(0)/m/n/10 Y-125 \TU/NotoSansKhmer(0)/m/it/10 ពីមនុស្សសម័យក្រោយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 និងផ្តោតទៅលើភាពស្រដៀងនិងការប្រែប្រួលនៅក្នុង \TU/La
+tinModernRoman(0)/m/n/10 DNA \TU/NotoSansKhmer(0)/m/it/10 បាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 បង្ហាញថា ចំនួនប្រជាជនបុរសប្រហែល\TU/LatinModernRoma
+n(0)/m/n/10 95% \TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានកាត់បន្តយកា
+
+Underfull \hbox (badness 7326) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 លពី\TU/LatinModernRoman(0)/m/n/10 5000\TU/NotoSans
+Khmer(0)/m/it/10 ទៅ\TU/LatinModernRoman(0)/m/n/10 7000\TU/NotoSansKhmer(0)/m/it
+/10 ឆ្នាំមុន \TU/LatinModernRoman(0)/m/n/10 (\TU/NotoSansKhmer(0)/m/it/10 រូបភា
+ពទី []\TU/LatinModernRoman(0)/m/n/10 10[])[[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ផូ
+សុីលត្រីប៉ាឡែន
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានរកឃើញនូវកំពស់រាប់រយម៉ែត្រលើសពីកំពស់សមុទ្រន
+ៅរដ្ឋ
+
+Underfull \hbox (badness 1975) in paragraph at lines 266--267
+\TU/LatinModernRoman(0)/m/n/10 Swedenborg, Michigan, Vermont \TU/NotoSansKhmer(
+0)/m/it/10 ប្រទេសកាណាដា ឈីលី
+
+Underfull \hbox (badness 3623) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 និងអ៊ីហ្ស៊ីប\TU/LatinModernRoman(0)/m/n/10 [[], []
+, [], []]\TU/NotoSansKhmer(0)/m/it/10 ។ ត្រីប៉ាឡែនទាំងនេះត្រូវបានរកឃើញ
+
+Underfull \hbox (badness 2245) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 ស្ថិតនៅក្នុងស្ថានភាពខុសៗគ្នា៖ ខ្លះមានរូបរាងពេញលេញ 
+នៅក្នុងភក់
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 ដែលស្ថិតនៅលើផែនទឹកកក ឬក៏កប់នៅក្នុងស្រទាប់ល្បាប់ដី។
+ ចំនួន
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 សត្វនៅតំបន់ទាំងនេះមានចាប់ពីពីរបីក្បាលរហូតដល់រាប់រយ
+។ ត្រីប៉ា
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 ឡែនទាំងនេះត្រូវបានប្រទះឃើញនៅលើតំបន់ខ្ពស់ៗនិងឆ្ងាយព
+ីសមុទ្រ
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+[]\TU/NotoSansKhmer(0)/m/it/10 ការវិនាសសាបសូន្យលើផែនដីបានកើតឡើងជាច្រើនដងកាលពីមុ
+ន
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+\TU/NotoSansKhmer(0)/m/it/10 ហើយការវិនាសសាបសូន្យធំៗដែលយើងបានស្រាវជ្រាវបានច្រើនប
+ំផុត
+
+Underfull \hbox (badness 2961) in paragraph at lines 268--269
+\TU/LatinModernRoman(0)/m/n/10 (ECME)[[], []]\TU/NotoSansKhmer(0)/m/it/10 ។ អ្វ
+ីដ៏គួរអោយចាប់អារម្មណ៍បំផុតនោះ ការវិនាស
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+\TU/NotoSansKhmer(0)/m/it/10 សាបសូន្យមួយចំនួនទាំងនេះត្រូវបានគេចាត់ទុកថាបានកើតឡើ
+ងស្រប
+
+Underfull \hbox (badness 1430) in paragraph at lines 268--269
+\TU/NotoSansKhmer(0)/m/it/10 ពេលនិងការបង្កើតស្រទាប់ \TU/LatinModernRoman(0)/m/n
+/10 Grand Canyon \TU/NotoSansKhmer(0)/m/it/10 ផងដែរ ជាពិសេសគឺ
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 បង្កើតឡើងដោយកម្លាំងមហន្តរាយនៃធម្មជាតិ។ ភស្តុតាងអំព
+ីការហូរ
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 ទឹកដ៏ធំធេងត្រូវបានគេរកឃើញតាមចរន្តស្នាមហូរទូទាំងពិភ
+ពលោក។
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 នៅទីនេះយើងមិនត្រឹមតែឃើញទីតាំងល្បាយដីខ្សាច់និងដុំថ្
+មផ្នត់ៗនោះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 ទេ មានទាំងលំដាប់ស្នាមហូររាប់រយដែលបានបង្កើតឡើងដោយចរ
+ន្តទឹ
+
+Underfull \hbox (badness 5446) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 កធំៗ\TU/LatinModernRoman(0)/m/n/10 [[], []]\TU/Not
+oSansKhmer(0)/m/it/10 ។ វាជាស្នាមចរន្តទឹកហូរធំៗដែលបានបង្កើតឡើងនៅក្នុង
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 ស្រទាប់ដីខ្សាច់នៃទឹកហូរ។ ស្នាមចរន្តទឹកហូរទាំងនេះយើ
+ងអាចរកវា
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+[]\TU/NotoSansKhmer(0)/m/it/10 រចនាសម្ព័ន្ធការហូរច្រោះក៏ត្រូវបានពន្យល់យ៉ាងច្បាស
+់ដូចនិងទ្រឹស្តី
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ហូរច្រោះ គឺនៅកន្លែងថ្មស្រួចផ្នែកខាងត្បូងប្រទេសចិន\
+TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ទីតាំង
+
+Underfull \hbox (badness 1527) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ទាំងនេះមានទាំង ប៉ុមថ្មស្រួច កំពូលថ្មស្រួច ស្ពានធម្
+មជាតិ ជ្រលងភ្នុំ
+
+Underfull \hbox (badness 1442) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ប្រព័ន្ធរូងភ្នុំធំៗ និងរន្តៅ។ ក្នុងចំណោមទីតាំងដ៏ពិ
+សេសទាំងនេះ គឺព្រៃ
+
+Underfull \hbox (badness 1102) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 អភិរក្ស \TU/LatinModernRoman(0)/m/n/10 Zhangjiajie
+ \TU/NotoSansKhmer(0)/m/it/10 ដែលមានសសរក្វាតថ្មខ្សាច់ធំៗ\TU/LatinModernRoman(0)
+/m/n/10 (\TU/NotoSansKhmer(0)/m/it/10 រូបភាពទី []\TU/LatinModernRoman(0)/m/n/10
+ 12[])
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ សសរថ្មខ្សាច់ទ
+ាំងនេះមានកំពស់រហូតដល់\TU/LatinModernRoman(0)/m/n/10 1000\TU/NotoSansKhmer(0)/m/
+it/10 ម៉ែត្រ ហើយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ឡើងដោយសសរច្រោះនៃសមុទ្រ\TU/LatinModernRoman(0)/m/n/
+10 (\TU/NotoSansKhmer(0)/m/it/10 រូបភាពទី []\TU/LatinModernRoman(0)/m/n/10 13[]
+) \TU/NotoSansKhmer(0)/m/it/10 ដែលជាថ្មឆ្នេរបង្កើត
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 កម្ពស់លើសសមុទ្ររហូតដល់\TU/LatinModernRoman(0)/m/n/
+10 1000\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ។ ទីតាំងទាំងនេះមានទាំង
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ល្បាយអំបិលនិងផូសុីលសត្វសមុទ្រដែលនៅជិតៗទីនោះ ដែលបង្
+ហាញ
+
+Underfull \hbox (badness 2698) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 អំពីការលុកលុយនៃសត្វសមុទ្រកាលពីមុន\TU/LatinModernRo
+man(0)/m/n/10 [[], [], []]\TU/NotoSansKhmer(0)/m/it/10 ។ រឿងព្រេង
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ទឹកជំនន់\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/Not
+oSansKhmer(0)/m/it/10 បានរៀបរាប់ថារលកសមុទ្រមានកំពស់ខ្ពស់ជាង\TU/LatinModernRoman
+(0)/m/n/10 1000\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ដែលយើងទទួលស្គាល់បានតាមរយៈអំបិលនិងលានអំបិលធំៗនៅលើ
+
+Underfull \hbox (badness 4660) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 គីឡូម៉ែត្រ។ ឧទាហរណ៍វាលអំបិល \TU/LatinModernRoman(0
+)/m/n/10 Uyuni \TU/NotoSansKhmer(0)/m/it/10 នៅប្រទេសបុូលីវីមាន
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+[]\TU/NotoSansKhmer(0)/m/it/10 អត្ថបទវិទ្យាសាស្ត្រនាសម័យថ្មីទទួលស្គាល់ថាមានព្រឹ
+ត្តិការណ៍
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 ផ្លាស់ប្ដូរអាកាសធាតុពិតមែន បើយោងទៅតាមប្រវត្តថ្មីៗន
+ៃភពផែន
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 កើតមានក្នុងពេលតែមួយនៃការថយចុះចំនួនប្រជាជន និងការប៉
+ះពាល់
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 ដល់ការរស់នៅទៅលើផ្ទៃដីដ៏ធំ។ ព្រឹត្តិការណ៍ទាំងនេះត្រ
+ូវបានរក្សាទុក
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 ជាភាពមិនប្រក្រតីក្នុងស្រទាប់ទឹកកកនិងដីល្បាប់ ផូសុី
+លផ្ការថ្ម អុីសូ
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 តូប\TU/LatinModernRoman(0)/m/n/10 018 \TU/NotoSans
+Khmer(0)/m/it/10 លំអង និងទិន្នន័យស្ពេលូថឹមនិងកម្រិតទឹកសមុទ្រ។ តាម
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 ការបកស្រាយនៃព្រឹត្តិការណ៍ផ្លាស់ប្ដូរអាកាសធាតុរួមមា
+នការថយចុះនៃ
+
+Underfull \hbox (badness 5077) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 សីតុណ្ហភាពផែនដី ភាពរាំងស្ងួត ការផ្លាស់ប្តូរនៃចរន្ត
+ទឹកសមុទ្រអ៉ាត្លង់
+
+Underfull \hbox (badness 1303) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 តិចផ្នែកខាងត្បូងនិងការកើនឡើងនៃផែនទឹកកក\TU/LatinMod
+ernRoman(0)/m/n/10 [[], [], []]\TU/NotoSansKhmer(0)/m/it/10 ។ ព្រឹត្តិ
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 ការណ៍\TU/LatinModernRoman(0)/m/n/10 8200\TU/NotoSa
+nsKhmer(0)/m/it/10 ឆ្នាំគឺកើតឡើងក្នុងពេលតែមួយជាមួយនិងទឹកជំនន់សមុទ្រ
+
+Underfull \hbox (badness 5374) in paragraph at lines 313--314
+[]\TU/NotoSansKhmer(0)/m/it/10 យោងតាមភស្ថុតាំងនៃបុរាណវិទ្យា មានទីក្រុងបុរាណមួយច
+ំនួនបាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 បង្ហាញអំពីស្រទាប់បូជានិងបំផ្លិតបំផ្លាញ ដែលបង្ហាញអំ
+ពីព្រឹត្តិការណ៍
+
+Underfull \hbox (badness 4492) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 គ្រោះមហន្តរាយកាលពីមុន។ ជាឧទាហរណ៍គឺទីក្រុងបុរាណ \TU
+/LatinModernRoman(0)/m/n/10 Jericho
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 ដែលជាទីក្រុងមួយដែលស្ថិតនៅប្រទេសប៉ាលេស្ទីននាពេលបច្ច
+ុប្បុ
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 ន្ន។ ទីក្រុងនេះមានស្រទាប់បំផ្លាញជាច្រើន ដោយមានការឆ
+ាបឆេះជា
+
+Underfull \hbox (badness 2229) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 ខ្លាំងនិងការរលំនៃសំណង់ថ្ម\TU/LatinModernRoman(0)/m
+/n/10 [[], []]\TU/NotoSansKhmer(0)/m/it/10 ។ កំណត់ត្រាប្រវត្តិសាស្ត្រនៅក្នុង
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 គួរអោយគត់សម្គាល់នោះគឺប៉មនៃសំណង់ទាំងនេះ វាហាក់បីដូច
+ជាត្រូវ
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 គេកាត់ចោលហើយកប់ក្នុងដីល្បាប់កាលពី\TU/LatinModernRo
+man(0)/m/n/10 7400\TU/NotoSansKhmer(0)/m/it/10 ឆ្នាំមុនគ្រឹស្តសករាជ
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 សុទ្ធតែជាឧទាហរណ៍នៃទីតាំងបុរាណដែលមានភស្ថុតាងក្នុងស្
+រទាប់នៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+[]\TU/NotoSansKhmer(0)/m/it/10 ភស្តុតាងដែលបញ្ជាក់ពីព្រឹត្តិការណ៍គ្រោះមហន្តរាយដ៏
+ធំមួយទៀត
+
+Underfull \hbox (badness 1939) in paragraph at lines 326--327
+\TU/NotoSansKhmer(0)/m/it/10 ដែលរំខានដល់ការអភិវឌ្ឍន៍របស់មនុស្សលោកគឺរូប \TU/Lati
+nModernRoman(0)/m/n/10 Nampa \TU/NotoSansKhmer(0)/m/it/10 ជារូបធ្វើ
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSansKhmer(0)/m/it/10 មកពីដីឥដ្ឋដែលត្រូវបានគេរកឃើញជំរៅ\TU/LatinModernRom
+an(0)/m/n/10 100\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រខាងក្រោមកម្អែភ្នុំភ្លើង
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានគេប៉ាន់ស្មានថាកើតឡើងនាអំឡុងពេលចុងសម័យទីបីឬ
+ទីបួន
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSansKhmer(0)/m/it/10 កើតឡើងនាពេលថ្មីៗនេះក៏ថាបាន។ ការរកឃើញបែបនេះមិនត្រឹម
+តែ
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSansKhmer(0)/m/it/10 បញ្ជាក់ពីព្រឹត្តិការណ៍គ្រោះមហន្ថរាយដែលបំផ្លាញនៃការ
+អភិវឌ្ឍន៍មនុស្ស
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+[]\TU/NotoSansKhmer(0)/m/it/10 មានមូលហេតុសំខាន់ៗជាច្រើនដែលធ្វើអោយយើងមិនមានជឿ
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+\TU/NotoSansKhmer(0)/m/it/10 ទៅលើកាលវិទ្យានាពេលបុច្ចប្បន្ន ដែលប្រើប្រាស់ពេលវេលា
+រាប់លានឬ
+
+Underfull \hbox (badness 1342) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 និងឧស្ម័នធម្មជាតិមានអាយុរាប់រយលានឆ្នាំ\TU/LatinMod
+ernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ផ្ទុយទៅវិញ បើតាម
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ការធ្វើកាលបរិច្ឆេទកាបូនជាក់ស្តែងសម្រាប់ប្រេងឥន្ធនៈ
+នៃឈូងសមុទ្រ
+
+Underfull \hbox (badness 4108) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 មិចស៊ិកូ បានរកឃើញថាវាមានអាយុត្រឹមតែ\TU/LatinModern
+Roman(0)/m/n/10 13000\TU/NotoSansKhmer(0)/m/it/10 ឆ្នាំតែប៉ុណ្ណោះ\TU/LatinModer
+nRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។
+
+Underfull \hbox (badness 3907) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 អាយុកាលពាក់កណ្តាល \TU/LatinModernRoman(0)/m/n/10 (
+half-life) \TU/NotoSansKhmer(0)/m/it/10 នៃកាបូន\TU/LatinModernRoman(0)/m/n/10 -
+14 \TU/NotoSansKhmer(0)/m/it/10 គឺមានរយៈពេល
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ខ្លីណាស់\TU/LatinModernRoman(0)/m/n/10 (5730\TU/No
+toSansKhmer(0)/m/it/10 ឆ្នាំ\TU/LatinModernRoman(0)/m/n/10 ) \TU/NotoSansKhmer(
+0)/m/it/10 ធ្វើអោយវាពុកផុយទាំងស្រុកបន្ទាប់ពីរយៈពេល\TU/LatinModernRoman(0)/m/n/1
+0 2-
+
+Underfull \hbox (badness 6526) in paragraph at lines 332--333
+\TU/LatinModernRoman(0)/m/n/10 3\TU/NotoSansKhmer(0)/m/it/10 សែនឆ្នាំ។ យ៉ាងណាក៏
+ដោយ គេក៏បានរកឃើញថានៅក្នុងធ្យងថ្មនិង
+
+Underfull \hbox (badness 5460) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ផូសុីលអាចមានអាយុរាប់ពាន់ដងយូរជាងនឹងទៅទៀត\TU/LatinM
+odernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ជាការពិត
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ណាស់ធ្យងថ្មសិប្បនិម្មិតត្រូវបានគេផលិតឡើងនៅក្នុងមន្
+ទីរពិសោធន៍
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ការផលិតនេះអាស្រ័យទៅលើកម្តៅខ្ពស់ ហើយគេអាចផលិតវាបាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+[]\TU/NotoSansKhmer(0)/m/it/10 វិធីសាស្ត្រធ្វើកាលបរិច្ឆេទអុីសូតូបក៏មិនប្រាកដថាត
+្រឹមត្រូវនោះដែរ។
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 ប្រើប្រាស់វិធីទាំងនេះគឺមិនដូចគ្នានោះទេ និងថែមទាំងស
+ួរដេញដោល
+
+Underfull \hbox (badness 8113) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 ទៅលើភាពស្មោះត្រង់របស់អ្នកស្រាវជ្រាវពីមុនថែមទៀត\TU/
+LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ជាលិកា
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 ទន់ដែលមានកោសិកាឈាម សសៃឈាម និងកូឡាជែនត្រូវបានរក
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 ឃើញក្នុងសាកសព្វសត្វដាយណូស័រដែលថាមានអាយុរហូតដល់រាប់
+រយ
+
+Underfull \hbox (badness 3849) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 លានឆ្នាំឯណោះ\TU/LatinModernRoman(0)/m/n/10 [[], []
+]\TU/NotoSansKhmer(0)/m/it/10 ។ តាមអ្វីដែលយើងដឹង ការទទួលស្គាល់អំពី
+
+Underfull \hbox (badness 3386) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 អាយុភូគព្ភសាស្ត្រនៃថ្មនិងប្រេងឥន្ធនៈផូសុីលរបស់ផែនដ
+ីសព្វថ្ងៃ គឺអាច
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+[]\TU/NotoSansKhmer(0)/m/it/10 ក្នុងអត្ថបទនេះ ខ្ញុំបានលើកឡើងនូវភាពមិនប្រក្រតីដែ
+លដែលអាច
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+\TU/NotoSansKhmer(0)/m/it/10 ផ្តល់ជាយោបល់អំពីប្រភពដើមនៃគ្រោះមហន្ថរាយដែលអាចពន្យល
+់បាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+\TU/NotoSansKhmer(0)/m/it/10 មិនប្រក្រតីផ្សេងៗទៀតត្រូវបានប្រមូលផ្តុំរួចរាល់ ហើយ
+អាចស្វែងរកវា
+
+Underfull \hbox (badness 1824) in paragraph at lines 341--342
+[]\TU/NotoSansKhmer(0)/m/it/10 សូមអរគុណចំពោះ \TU/LatinModernRoman(0)/m/n/10 Eth
+ical Skeptic \TU/NotoSansKhmer(0)/m/it/10 ដែលជាអ្នកនិពន្ធដំបូងនៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+\TU/NotoSansKhmer(0)/m/it/10 និក្ខេបទ \TU/LatinModernRoman(0)/m/n/10 ECDO \TU/N
+otoSansKhmer(0)/m/it/10 ដែលបានបំពេញនូវនិក្ខេបទដ៏ជ្រាលជ្រៅមួយនេះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+\TU/NotoSansKhmer(0)/m/it/10 ហើយនិងបានចែករំលែកវាទៅកាន់មនុស្សទាំងអស់នៅលើពិភពលោក។
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+\TU/NotoSansKhmer(0)/m/it/10 និក្ខេបទទាំងបីផ្នែករបស់លោក\TU/LatinModernRoman(0)/
+m/n/10 [[]] \TU/NotoSansKhmer(0)/m/it/10 នៅតែជាច្បាប់ដើមសម្រាប់ទ្រឹស្តី
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+[]\TU/NotoSansKhmer(0)/m/it/10 ចុងបញ្ចប់សូមអរគុណទៅដល់អ្នកដែលបានជួយជ្រាជ្រែង
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+\TU/NotoSansKhmer(0)/m/it/10 អ្នកស្រាវជ្រាវដែលបានប្រមូលពត៍មានទាំងអស់ដែលធ្វើអោយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+\TU/NotoSansKhmer(0)/m/it/10 យើងមានលទ្ធភាពបង្កើតអត្ថបទនេះដើម្បីជួយទៅកាន់មនុស្សទ
+ូទាំង
+[8] (./2khmertranslated.bbl
+Underfull \hbox (badness 3942) in paragraph at lines 9--11
+[]\TU/LatinModernRoman(0)/m/n/9 Answers research journal, 2008--present.  https
+://
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]\TU/LatinModernRoman(0)/m/n/9 GetYourGuide.  Canyoning in grand canyon.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][]
+[][][][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Mega-current ripples.  []$[][][][][] []
+ [] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][] [] [][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][
+][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][
+][][][] []
+
+Underfull \hbox (badness 1005) in paragraph at lines 195--199
+\TU/LatinModernRoman(0)/m/n/9 tional park.  []$[][][][][] [] [] [] [][][] [] []
+[][] [] [][][] [] [][][][] [] [][][][][] [] [][][][][][] []
+[9]
+Underfull \hbox (badness 4556) in paragraph at lines 218--225
+[][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][] [] [][][][]$[]\TU/LatinModernRoman(0)/m/n/9 , May 2017.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/LatinModernRoman(0)/m/n/9 theethicalskeptic.com/2024/05/23/master-exothermi
+c-
+
+Underfull \hbox (badness 1048) in paragraph at lines 398--401
+\TU/LatinModernRoman(0)/m/n/9 The Free Encyclopedia, 2025.  [Online; accessed 8
+-
+[10]) [11] (./2khmertranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on 2khmertranslated.pdf (11 pages).
+Transcript written on 2khmertranslated.log.
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./2khmertranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 87.
+
+(./2khmertranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 101.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 101.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 102.
+
+
+LaTeX Font Warning: Font shape `TU/NotoSansKhmer(0)/m/it' undefined
+(Font)              using `TU/NotoSansKhmer(0)/m/n' instead on input line 103.
+
+
+Underfull \hbox (badness 4242) in paragraph at lines 103--104
+[]\TU/NotoSansKhmer(0)/m/it/10 នៅក្នុងខែឧសភា ឆ្នាំ\TU/LatinModernRoman(0)/m/it/
+10 2025 \TU/NotoSansKhmer(0)/m/it/10 អ្នកនិពន្ធអនាមិកអនឡាញម្នាក់ឈ្មោះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/LatinModernRoman(0)/m/it/10 "The Ethical Skeptic"[[]] \TU/NotoSansKhmer(0)/
+m/it/10 បានផ្សព្វផ្សាយទ្រឹស្ដីបំប្លែងមួយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 ដែលមានឈ្មោះថា ការបំបែកលំយោលស្រទាប់ក្រឡាប់ក្តៅក្នុង
+ផែនដី
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/LatinModernRoman(0)/m/it/10 (ECDO)[[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ទ្រឹស្
+ដីនេះមិនត្រឹមតែបានផ្តល់នូវយោបល់ថាផែនដី
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 កាលពីមុនបានបម្លែងអ័ក្សវិលដ៏សាហាវ ធ្វើអោយមានទឹកជំនន
+់ដ៏ធំ
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 ទូទាំងពិភពលោក ដែលបណ្តាលអោយមហាសមុទ្រលេចលើទ្វីបនានា
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 មិនត្រឹមតែដោយសារនិចលភាពនៃការវិលប៉ុណ្ណោះទេ តែថែមទាំ
+ងផ្ដល់
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 ការបកស្រាយនៃដំណើរការភូមិវិទ្យាដែលផ្តោតលើទិន្នន័យហេ
+តុផល
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 ដែលបានបង្ហាញថាការផ្លាស់ប្តូរផែនដីអាចនឹងកើតមានម្តងទ
+ៀត។
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 ទោះបីជាការព្យាករណ៍ទឹកជំនន់និងគ្រោះមហន្តរាយមិនមែនជា
+រឿងថ្មី
+
+Underfull \hbox (badness 2237) in paragraph at lines 103--104
+\TU/NotoSansKhmer(0)/m/it/10 យោងទៅលើវិទ្យាសាស្ត្រ ពហុបច្ចេកទេស និងមានមូលដ្ឋានដែ
+លផ្អែក
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+[]\TU/NotoSansKhmer(0)/m/it/10 ក្រដាសស្រាវជ្រាវនេះជាផ្នែកទី\TU/LatinModernRoman
+(0)/m/it/10 2\TU/NotoSansKhmer(0)/m/it/10 នៃការសង្ខេបដែលមានពីរផ្នែក នៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+\TU/NotoSansKhmer(0)/m/it/10 ការស្រាវជ្រាវឯករាជ្យដែលមានរយៈពេល\TU/LatinModernRom
+an(0)/m/it/10 6\TU/NotoSansKhmer(0)/m/it/10 ខែ\TU/LatinModernRoman(0)/m/it/10 [
+[], []] \TU/NotoSansKhmer(0)/m/it/10 ទៅក្នុងទ្រឹស្ដី
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+\TU/LatinModernRoman(0)/m/it/10 ECDO \TU/NotoSansKhmer(0)/m/it/10 ដោយផ្តោតទៅលើភ
+ាពមិនប្រក្រតីនៃផ្នែកវិទ្យាសាស្ត្រ និង
+
+Underfull \hbox (badness 1092) in paragraph at lines 111--112
+[]\TU/NotoSansKhmer(0)/m/it/10 ភូគព្ភវិទ្យា និងប្រវត្តិសាស្ត្ររួមសម័យនេះអះអាងថា
+ តំបន់ធំៗដូចជា
+
+Underfull \hbox (badness 7486) in paragraph at lines 111--112
+\TU/LatinModernRoman(0)/m/n/10 Grand Canyon \TU/NotoSansKhmer(0)/m/it/10 ត្រូវប
+ានបង្កើតឡើងក្នុងរយៈពេលរាប់លានឆ្នាំ\TU/LatinModernRoman(0)/m/n/10 [[]]
+
+Underfull \hbox (badness 4913) in paragraph at lines 111--112
+\TU/NotoSansKhmer(0)/m/it/10 ថាមានអំបិលនៅក្នុង \TU/LatinModernRoman(0)/m/n/10 D
+eath Valley (California) \TU/NotoSansKhmer(0)/m/it/10 ព្រោះតំបន់
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+\TU/NotoSansKhmer(0)/m/it/10 នោះធ្លាប់ស្ថិតនៅក្រោមមហាសមុទ្ររយៈពេលរាប់រយលានឆ្នាំ
+កន្លងមក
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+\TU/NotoSansKhmer(0)/m/it/10 មានអាយុរាប់រយលានឆ្នាំមកហើយ\TU/LatinModernRoman(0)/
+m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ អ្វីដែលគួរអោយគត់សំគាល់
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+[]\TU/NotoSansKhmer(0)/m/it/10 ភាពមិនប្រក្រតីទាំងនេះ នឹងត្រូវបានពន្យល់យ៉ាងក្បោះ
+ក្បាយដោយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+\TU/NotoSansKhmer(0)/m/n/9 ដែលស្តិតក្នុងស្ថានភាពយ៉ាងល្អគឺជាសត្វម៉ាមម៉ុត់នៅតំបន់
+ស៊ីបេរីដែលបានរក
+
+Underfull \hbox (badness 3158) in paragraph at lines 126--127
+[]\TU/NotoSansKhmer(0)/m/it/10 ភាពមិនប្រក្រតីមួយនៃបាតុភូតនេះ គឺជាសត្វម៉ាមម៉ុត់ក
+ក ដែលនៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 មានស្ថានភាពយ៉ាងល្អដែលបានកប់នៅក្នុងភក់ ត្រូវគេប្រទះ
+ឃើញនៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/LatinModernRoman(0)/m/n/10 mammoth) \TU/NotoSansKhmer(0)/m/it/10 ដែលបានរកឃើ
+ញនៅតំបន់ស៊ីបេរីដែលបានកប់នៅក្នុង
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ទោះបីវាមានអាយុរាប់ពាន់ឆ្នាំក៏ដោយ។ សត្វនេះនៅមានអាហា
+ររុក្ខជាតិ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 នៅក្នុងមាត់និងពោះរបស់វា ដែលបណ្ដាលអោយវេជ្ជបណ្ឌិតជាច
+្រើន
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 វាកំពុងតែសុីស្មៅមុនពេលវាស្លាប់\TU/LatinModernRoman
+(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ មានរបាយការណ៍មួយបាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សរសេរថា\TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSa
+nsKhmer(0)/m/it/10 នៅឆ្នាំ\TU/LatinModernRoman(0)/m/it/10 1901 \TU/NotoSansKhme
+r(0)/m/it/10 មានការភ្ញាក់ផ្អើលយ៉ាងខ្លាំងពេលរកឃើញ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សាកសពសត្វម៉ាមម៉ុត់ដែលមានស្ថានភាពយ៉ាងល្អនៅជិតទន្លេប
+េរេហ្សូវ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 កា ដោយសារសត្វនេះមើលទៅដូចបានសម្លាប់ដោយសារទឹកកកនៅចំ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 រដូវក្តៅទៅវិញ។ អាហារនៅក្នុងពោះរបស់វាស្ថិតក្នុងស្ថា
+នភាពយ៉ាងល្អ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សូម្បីតែស្មៅនិងផ្ការក៏មាននៅក្នុងថ្គាមវាដែរ។ ហាក់បី
+ដូចជាមានកម្លាំង
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 មួយដ៏ខ្លាំងខ្លាបានវាប្រហារ និងបោះវាពីរបីគីឡូម៉ែត្រ
+ពីតំបន់ដែលវាសុី
+
+Underfull \hbox (badness 3907) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ចំណី។ ត្រគាកនិងជើងមួយចំហៀងរបស់វាបានបាក់ ប្រហែលជាសត
+្វ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ដ៏ធំមួយនេះត្រូវបានកករហូតដល់ស្លាប់ នៅក្នុងអំឡុងពេលដ
+ែលក្តៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ពោះខាងក្នុងបំផុតរបស់សត្វនេះមានរចនាសម្ព័ន្ធសរសៃនៅល្
+អនៅឡើយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 មានន័យថាកម្តៅនៅក្នុងរាងកាយរបស់វាត្រូវបានយកចេញដោយដំ
+ណើរ
+
+Underfull \hbox (badness 4752) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ការធម្មជាតិដ៏អស្ចារ។ លោក \TU/LatinModernRoman(0)/m
+/it/10 Sanderson \TU/NotoSansKhmer(0)/m/it/10 បានចាប់អារម្មណ៍យ៉ាង
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ខ្លាំងចំពោះបញ្ហានេះ គាត់ក៏បានបានទាក់ទងទៅស្ថាប័នអាហ
+ារត្រជាក់
+
+Underfull \hbox (badness 2970) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សហរដ្ឋអាមេរិក\TU/LatinModernRoman(0)/m/it/10 (AFFI
+)\TU/NotoSansKhmer(0)/m/it/10 ៖ តើហេតុអ្វីបានជាសត្វម៉ាមម៉ុត់កកទាំងស្រុង
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សូម្បីតែជាតិសំណើមនៅក្នុងស្រទាប់ពោះក្នុងបំផុតរបស់វា
+គ្មានពេល
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សម្រាប់បង្កើតគ្រីស្តាល់ធំល្មមដែលអាចបំផ្លាញរចនាសម្ព
+័ន្ធនៃសរសៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 សាច់\TU/LatinModernRoman(0)/m/it/10 ?... \TU/NotoS
+ansKhmer(0)/m/it/10 ប៉ុន្មានសប្តាហ៍ក្រោយមកស្ថាប័ននេះបានឆ្លើយតបទៅ
+
+Underfull \hbox (badness 2158) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 លោក \TU/LatinModernRoman(0)/m/it/10 Sanderson \TU/
+NotoSansKhmer(0)/m/it/10 ថា៖ វាមិនអាចទៅរួចនោះទេ។ ចំណេះដឹងនឹង
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ចេញពីសាកសពដ៏ធំដូចម៉ាមម៉ុត់បានលឿនគ្រប់គ្រាន់ដើម្បីអ
+ោយវាកក
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ដោយគ្មានការបង្កើតដំគ្រីស្តាល់ធំៗនៅក្នុងសាច់វានោះទេ
+។ ម្យ៉ាងទៀត
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ទោះបីខិតខំប្រើបច្ចេកទេសវិទ្យាសាស្រ្តនិងវិស្វកម្មពួ
+កគេសង្គេតទៅ
+
+Underfull \hbox (badness 2119) in paragraph at lines 126--127
+\TU/NotoSansKhmer(0)/m/it/10 ធម្មជាតិហើយបានបញ្ជាក់ថា តាមការយល់ដឹងរបស់មនុស្សសព្វ
+ថ្ងៃគ្មាន
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 3. []\TU/NotoSansKhmer(0)/m/n/9 ទំហំស្រទ
+ាប់ថ្មខ្សាច់ \TU/LatinModernRoman(0)/m/n/9 Coconino \TU/NotoSansKhmer(0)/m/n/9 
+នៅភាគខាងលិច
+
+Underfull \hbox (badness 1975) in paragraph at lines 153--154
+[]\TU/NotoSansKhmer(0)/m/it/10 បើយើងសង្កេតទៅលើ \TU/LatinModernRoman(0)/m/n/10 G
+rand Canyon \TU/NotoSansKhmer(0)/m/it/10 វាអាចពន្យល់យើងអំពី
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 កំណនៃស្រទាប់ដីល្បាប់ ក៏បានកើតឡើងជាដោយសារតែកម្លាំងធ
+ូរតិច
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 តូនិចផងដែរ។ ដើម្បីស្វែងយល់អំពីរឿងនេះយើងត្រូវសង្កេត
+តំបន់ខ្លះៗ
+
+Underfull \hbox (badness 1931) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 នៃ \TU/LatinModernRoman(0)/m/n/10 Canyon \TU/NotoS
+ansKhmer(0)/m/it/10 អោយបានច្បាស់លាស់ទៅលើស្រទាប់ដីល្បាប់ដែលបាន
+
+Underfull \hbox (badness 3323) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 ខ្នាតមីក្រូស្កូពិកទៅលើសំណំថ្មមួយចំនួនដូចជា \TU/Lat
+inModernRoman(0)/m/n/10 Monument Fold
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 សំណុំថ្មបត់បែនទាំងនេះបានកើតនៅក្នុងរយៈពេលយូរនៅក្រោម
+កម្តៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 បានបត់បែនដោយកម្លាំងធូរតិចតូនិច នៅពេលដែលវានៅទន់ នោះ
+គឺ
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+[]\TU/NotoSansKhmer(0)/m/it/10 នៅពេលដែលយើងពង្រីកមើល ឃើញថាស្រទាប់ដែលបង្កើត
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSansKhmer(0)/m/it/10 ទេ។ ស្រទាប់ទាំងនេះបានបត់កោងទៅភាគខាងកើតនៃតំបន់ \TU/
+LatinModernRoman(0)/m/n/10 East
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSansKhmer(0)/m/it/10 បត់លើគ្នាយ៉ាងលឿនដោយកម្លាំងតេតូនិច។ យើងអាចយោងទៅតាម
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រនេះបាន។ ទំហំនៃដំណើរការភូគព្ភសាស្ត្រដែលចំបាច់
+សម្រាប់
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSansKhmer(0)/m/it/10 ដាក់ស្រទាប់ដីល្បាប់ដែលមានកម្រាស់ជាងមួយគីឡីម៉ែត្រនេ
+ះគឺធំធេង
+
+Underfull \hbox (badness 5924) in paragraph at lines 166--167
+[]\TU/NotoSansKhmer(0)/m/it/10 ពត៍មានជាក់លាក់នៃ \TU/LatinModernRoman(0)/m/n/10 
+Grand Canyon \TU/NotoSansKhmer(0)/m/it/10 គឺជាបញ្ហាមួយទៀតនៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+\TU/NotoSansKhmer(0)/m/it/10 ការពិភាក្សាសម្រាប់វិទ្យាសាស្ត្រសម័យទំនើប។ ទ្រឹស្តី
+វិទ្យាសាស្ត្រតាម
+
+Underfull \hbox (badness 6110) in paragraph at lines 166--167
+\TU/LatinModernRoman(0)/m/n/10 orado \TU/NotoSansKhmer(0)/m/it/10 រាប់លានឆ្នាំម
+កហើយ\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ យ៉ាងណាក៏ដ
+ោយក្រុមស្រាវជ្រាវ
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+\TU/NotoSansKhmer(0)/m/it/10 បង្កើតឡើងក្នុងរយៈពេលតែពីរបីសប្តាហ៍ដោយសារច្រោះដីហៀរ
+ចេញពី
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+[]\TU/NotoSansKhmer(0)/m/it/10 បើសិនជាយើងពិចារណាមូលដ្ឋាននៃដំណើរការភូមិសាស្ត្រដែ
+លចំ
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+[]\TU/NotoSansKhmer(0)/m/it/10 ក្រៅពីរ៉ាមីត ឧទាហរណ៍ដ៏ល្អមួយនៃវិស្វកម្មបុរាណគឺទី
+ក្រុងក្រោម
+
+Underfull \hbox (badness 3635) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 ដី \TU/LatinModernRoman(0)/m/n/10 Derinkuyu (\TU/N
+otoSansKhmer(0)/m/it/10 រូបភាពទី[]\TU/LatinModernRoman(0)/m/n/10 5[]) \TU/NotoS
+ansKhmer(0)/m/it/10 ដែលស្ថិតនៅក្នុងតំបន់ \TU/LatinModernRoman(0)/m/n/10 Cappado
+-
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+\TU/LatinModernRoman(0)/m/n/10 cia \TU/NotoSansKhmer(0)/m/it/10 ប្រទេសតួកគី។ វា
+ជាទីក្រុងដែលធំជាងគេក្នុងចំណោមជម្រក
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 ក្រោមដីជាង\TU/LatinModernRoman(0)/m/n/10 200\TU/No
+toSansKhmer(0)/m/it/10 កន្លែងនៅតំបន់នេះ\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/N
+otoSansKhmer(0)/m/it/10 ។ ទីក្រុងក្រោមដីនេះត្រូវបាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 គេប៉ាន់ប្រមាណថាអាចមានប្រជាជនរស់នៅដល់ទៅ\TU/LatinMod
+ernRoman(0)/m/n/10 20000\TU/NotoSansKhmer(0)/m/it/10 នាក់និង
+
+Underfull \hbox (badness 7631) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 មាន១៨ជាន់ ហើយវាមានជ្រៅរហូតដល់\TU/LatinModernRoman(
+0)/m/n/10 85\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ។ ទោះយើងមិនដឹង
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 ពីអាយុពិតរបស់វាក៏ដោយ បន្តែគេបានប៉ាន់ប្រមាណថាវាមានអ
+ាយុ
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+\TU/NotoSansKhmer(0)/m/it/10 យ៉ាងតិច\TU/LatinModernRoman(0)/m/n/10 2800\TU/Noto
+SansKhmer(0)/m/it/10 ឆ្នាំ។ ទីក្រុងនេះត្រូវបានគេឆ្លាក់ចេញពីថ្មភ្នុំភ្លើងទន់
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 មិនដឹងថាមូលហេតុអ្វីបានជាមានសហគមន៍មួយ បានសម្រេចចិត្
+ត
+
+Underfull \hbox (badness 6592) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 សាងសង់ទីក្រុងក្រោមដីនេះទាំងមូល។ ដើម្បីបង្កើតកន្លែង
+រស់នៅក្រោម
+
+Underfull \hbox (badness 2005) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ដី គេត្រូវឆ្លាក់រូងទាំងអស់ចេញពីថ្ម។ សភាពរូងភ្នុំបង
+្ហាញយ៉ាងច្បាស់ថា
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 វាត្រូវបានគេឆ្លាក់ដោយកម្លាំងកាយ មិនមែនប្រើឧបករណ៍ជំ
+នួយនោះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ទេ ដែលធ្វើអោយវាមានការពិបាកយ៉ាងខ្លាំងណាស់បើប្រៀបធៀប
+ទៅ
+
+Underfull \hbox (badness 2478) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 និងការសាងសាងលំនៅឋ្ឋាននៅលើដី។ ជាក់ស្តែង យើងមិនទាន់យ
+ល់
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ច្បាស់នោះទេថាហេតុអ្វីបានជាមានមនុស្សសម្រេចចិត្តរស់ន
+ៅក្រោមដី
+
+Underfull \hbox (badness 1776) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ទៅវិញ ខណៈដែលកសិកម្ម ពន្លឺថ្ងៃ ធម្មជាតិ និងការស្វែង
+រកមានតែ
+
+Underfull \hbox (badness 2617) in paragraph at lines 185--186
+\TU/LatinModernRoman(0)/m/n/10 Derinkuyu \TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានស
+ាងសង់ឡើងដោយគ្រិស្ដសាសនិកដែលត្រូវការ
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ទីកន្លែងសម្ងាត់សម្រាប់ប្រតិបត្តិជំនឿរបស់ខ្លួន\TU/L
+atinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ជាធម្មតាវាមិន
+
+Underfull \hbox (badness 6978) in paragraph at lines 185--186
+\TU/NotoSansKhmer(0)/m/it/10 ងាយស្រួលនោះទេ ព្រោះសម្រាប់មនុស្សយើងទូទៅនៅពេលមានសត្
+រូវ
+
+Underfull \hbox (badness 4181) in paragraph at lines 187--188
+[]\TU/NotoSansKhmer(0)/m/it/10 ទំហំ ជម្រៅ និងការពិចារណាទៅលើការរចនានៃទីក្រុងក្រោ
+មដីនេះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+\TU/NotoSansKhmer(0)/m/it/10 បង្ហាញថាវាមិនត្រូវបានសាងសង់ដើម្បីជាបន្ទាយទាហានបណ្ត
+ោះអាសន្ន
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+\TU/NotoSansKhmer(0)/m/it/10 សម្រាប់ការពារពួកឈ្លានពាននាគ្រាមានអាសន្ននោះទេ ប៉ុន្
+តែគឺដើម្បីជា
+
+Underfull \hbox (badness 5696) in paragraph at lines 187--188
+\TU/NotoSansKhmer(0)/m/it/10 ត្រឹមតែមានបន្ទប់គេង ផ្ទះបាយ បន្ទប់ទឹកនោះទេ មានទាំង
+រោងសត្វ
+
+Underfull \hbox (badness 3058) in paragraph at lines 187--188
+\TU/NotoSansKhmer(0)/m/it/10 ផ្នូរ និងរន្ធសម្រាប់ខ្យល់ចេញចូលផងដែរ \TU/LatinMode
+rnRoman(0)/m/n/10 (\TU/NotoSansKhmer(0)/m/it/10 រូបភាពទី[]\TU/LatinModernRoman(
+0)/m/n/10 6[])\TU/NotoSansKhmer(0)/m/it/10 ។ បើសិនវាជា
+
+Underfull \hbox (badness 2073) in paragraph at lines 187--188
+\TU/NotoSansKhmer(0)/m/it/10 បន្ទាយទាហានមែននោះ ចាំបាច់រូវការឧបករណ៍ចម្រោះស្រា ហើ
+យត្រូវ
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+[]\TU/NotoSansKhmer(0)/m/it/10 ការពន្យល់ដែលគួរអោយជឿជាក់បំផុតនៃការបង្កើត \TU/Lat
+inModernRoman(0)/m/n/10 Derinkuyu
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+\TU/NotoSansKhmer(0)/m/it/10 គឺអាចសន្និដ្ឋានបានថា វាជាការរៀបចំរយៈពេលវែងនិងជាជម្
+រកដែល
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+\TU/NotoSansKhmer(0)/m/it/10 អាចអាស្រ័យផលបានដើម្បីការពារពីកម្លាំងមហន្តរាយនៃភូគព
+្ភសាស្ត្រលើ
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+[]\TU/NotoSansKhmer(0)/m/it/10 ការប្រមូលផ្តុំជីវម៉ាស់នៃប្រភេទសត្វនិងរុក្ខជាតិផ្
+សេងៗគ្នា ជាធម្មតា
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានរកឃើញជាផូសុីលនៅក្នុងស្រទាប់ដីល្បាប់ ដែលជារ
+ឿងដ៏មិន
+
+Underfull \hbox (badness 1460) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ប្រក្រតីមួយផ្សេងទៀត។ នៅក្នុង \TU/LatinModernRoman(
+0)/m/n/10 "Reliquoæ Diluvianæ" \TU/NotoSansKhmer(0)/m/it/10 លោក
+
+Underfull \hbox (badness 2261) in paragraph at lines 207--208
+\TU/LatinModernRoman(0)/m/n/10 Rev. William Buckland \TU/NotoSansKhmer(0)/m/it/
+10 បានកត់ត្រាអំពីការរកឃើញនូវសត្វ
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ជាច្រើនប្រភេទដែលមិនគួររកឃើញក្នុងពេលតែមួយ ដែលបានខ្ច
+ាត
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ខ្ចាយពេញប្រទេសអង់គ្លេសនិងអឺរ៉ុប ដែលបានកប់នៅស្រទប់ដ
+ីល្បាប់
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/LatinModernRoman(0)/m/n/10 'diluvium'[[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ការ
+ប្រមូលផ្តុំនៃសាកសព្វសត្វបែបនេះត្រូវបានរក
+
+Underfull \hbox (badness 4328) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ឃើញនៅក្នុងរូងភ្នុំ \TU/LatinModernRoman(0)/m/n/10 
+Skjonghelleren \TU/NotoSansKhmer(0)/m/it/10 នៅកោះ \TU/LatinModernRoman(0)/m/n/1
+0 Valdroy \TU/NotoSansKhmer(0)/m/it/10 ប្រទេស
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ត្រី ដែលត្រូវបានរកឃើញនៅក្នុងស្រទាប់ជាច្រើននៃដីល្បា
+ប់\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 តោន ជាពិសេសសត្វដំរីទឹកដែលនូវមានសភាពល្អយ៉ាងខ្លាំងដែ
+លត្រូវ
+
+Underfull \hbox (badness 3078) in paragraph at lines 207--208
+\TU/LatinModernRoman(0)/m/n/10 black)\TU/NotoSansKhmer(0)/m/it/10 ។ តាមការរាយកា
+រណ៍ ឆ្អឹងសត្វផ្សេងៗទាំងនោះត្រូវបានលាយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 គ្នា និងបាក់បែកបាក់ជាបំណែកៗ\TU/LatinModernRoman(0)
+/m/n/10 [[], []]\TU/NotoSansKhmer(0)/m/it/10 ។ នៅក្នុងទីក្រុងបុរាណ
+
+Underfull \hbox (badness 1365) in paragraph at lines 207--208
+\TU/LatinModernRoman(0)/m/n/10 Mendes \TU/NotoSansKhmer(0)/m/it/10 ប្រទេសអេហ្ស៊
+ីប ក៏បានរកឃើញឆ្អឹងសត្វប្រភេទផ្សេងៗដែល
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 រកឃើញបែបនេះអាចធ្វើអោយមានចម្ងល់ ប៉ុន្តែអាចពន្យល់បាន
+យ៉ាង
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ងាយស្រួល គឺដោយសារមានទឹកជំនន់ដ៏ធំមហិមាដែលបង្ករអោយឆ្
+នឹង
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 សត្វគ្រប់ប្រភេទហូរឬកប់ទាំងរស់ទៅក្នុងស្រទាប់ដីល្បាប
+់ឬនៅក្នុងរូងភ្នុំ
+
+Underfull \hbox (badness 2865) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 ហើយសម្រាប់ករណីជីវម៉ាស់ដែលក្លាយជាកែវ \TU/LatinModer
+nRoman(0)/m/n/10 (vitrified biomass)
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/NotoSansKhmer(0)/m/it/10 នៅអេហ្ស៊ីបគឺកើតឡើងដោយចំហាយអគ្គិសនីនៅក្នុងស្រទាប់ម៉
+ង់តូលប
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+[]\TU/NotoSansKhmer(0)/m/it/10 បុព្វជនរបស់យើងបានបន្សល់ទុកនូវសំណង់វិស្វកម្មបុរាណ
+ជាច្រើន
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+\TU/NotoSansKhmer(0)/m/it/10 ហើយនៅក្នុងនោះយើងបានរកឃើញសាកសពមនុស្សដែលជាទូទៅត្រូវ
+
+Underfull \hbox (badness 7256) in paragraph at lines 220--221
+\TU/NotoSansKhmer(0)/m/it/10 បានចាត់ទុកថាជាផ្នូរ ប៉ុន្តែបើយើងពិនិត្យមើលអោយច្បាស
+់លាស់វាអាច
+
+Underfull \hbox (badness 3679) in paragraph at lines 227--227
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 8. []Newgrange \TU/NotoSansKhmer(0)/m/n/
+9 ប្រទេសអៀរឡង់ \TU/LatinModernRoman(0)/m/n/9 - \TU/NotoSansKhmer(0)/m/n/9 សូមពិ
+និត្យមើលទំហំភ្ញៀវ
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+[]\TU/NotoSansKhmer(0)/m/it/10 ឧទាហរណ៍ដ៏ល្អមួយគឺនៅក្នុងតំបន់ \TU/LatinModernRom
+an(0)/m/n/10 Newgrange (\TU/NotoSansKhmer(0)/m/it/10 រូបភាព
+
+Underfull \hbox (badness 1708) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 ទី[]\TU/LatinModernRoman(0)/m/n/10 8[]), \TU/NotoS
+ansKhmer(0)/m/it/10 ដែលជាវិមានធំជាងគេនៅក្នុងតំបន់ \TU/LatinModernRoman(0)/m/n/1
+0 Brú na Bóinne \TU/NotoSansKhmer(0)/m/it/10 មាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 សំណង់បុរាណជាច្រើនរួមទាំងផ្នូរបុរាណផងដែរ។ ផ្នូរទាំង
+នេះមាន
+
+Underfull \hbox (badness 1803) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 បន្ទប់បញ្ចុះសពមួយឬច្រើនកន្លែងដែលគ្របដណ្តប់ដោយដី ឬថ
+្ម ដែល
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 មានផ្លូវចូលតូចៗសាងសង់ដោយថ្មធំៗ\TU/LatinModernRoman
+(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ វាជាឧទាហរណ៍មួយនៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 រចនាសម្ព័ន្ធវិស្វកម្មការពារដ៏ធំមហិមា ដែលបានសាងសង់អ
+ស់ជាច្រើន
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 ជំនន់ដើម្បីធ្វើជាផ្នូរអោយមនុស្សពីរបីនាក់ដែលបានស្លា
+ប់មុនផ្នូរបុរាណ
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 ទាំងនេះត្រូវបានចាប់ផ្តើមសាងសង់។ នៅពេលដែលកន្លែងនេះត
+្រូវបាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansKhmer(0)/m/it/10 រកឃើញឡើងវិញដោយម្ចាស់ដីក្នុងឆ្នាំ\TU/LatinModernRom
+an(0)/m/n/10 1699 \TU/NotoSansKhmer(0)/m/it/10 កន្លែងនេះគឺត្រូវបានកប់
+[3]
+Underfull \hbox (badness 4739) in paragraph at lines 234--235
+[]\TU/NotoSansKhmer(0)/m/it/10 គ្រាន់តែពិនិត្យមើលសំណង់នេះតែបន្តិចក៏ដឹងដែរថា ការ
+សាងសង់វា
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 បន្ទប់សាកសពដែលអាចចេញចូលបានតាមច្រកអាគ្នេយ៍។ ផ្លូវនេ
+ះមាន
+
+Underfull \hbox (badness 3503) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 ប្រវែងប្រហែល\TU/LatinModernRoman(0)/m/it/10 19\TU/
+NotoSansKhmer(0)/m/it/10 ម៉ែត្រ ឬ\TU/LatinModernRoman(0)/m/it/10 1/3\TU/NotoSan
+sKhmer(0)/m/it/10 នៃផ្លូវសរុបទៅកាន់ផ្នែកកណ្ដាល។ នៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 ចំនុចចុងផ្លូវមានបន្ទប់តូចចំនួនបីដែលជាប់នឹងបន្ទប់ធំ
+មួយទៀតហើយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 វាមានកម្ពស់មធ្យម\TU/LatinModernRoman(0)/m/it/10 1.
+5\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ\TU/LatinModernRoman(0)/m/it/10 ”\TU/LatinM
+odernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ សព្វថ្ងៃនៅមានស្នាកស្មាម
+អំពី
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 វិស្វកម្មការពារទឹកយ៉ាងល្អផងដែរ។ ជាឧទាហរណ៍នៅលើដំបូល
+\TU/LatinModernRoman(0)/m/it/10 “\TU/NotoSansKhmer(0)/m/it/10 នៅ
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 តាមចន្លោះដំបូលត្រូវបានបិតដោយល្បាយដីដុតនិងដីខ្សាច់ដ
+ើម្បីការពារ
+
+Underfull \hbox (badness 1270) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 ទឹកភ្លៀង ហើយបើតាមរយៈកាលបរិច្ឆេទកាបូន \TU/LatinMode
+rnRoman(0)/m/it/10 (radiocarbon dat-
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/LatinModernRoman(0)/m/it/10 ing) \TU/NotoSansKhmer(0)/m/it/10 ល្បាយផ្នូរនេះ
+បានរកឃើញថាវាត្រូវបាងសាងសង់នៅចន្លោះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 ឆ្នាំ\TU/LatinModernRoman(0)/m/it/10 2500\TU/NotoS
+ansKhmer(0)/m/it/10 មុនគ្រឹស្តសករាជ\TU/LatinModernRoman(0)/m/it/10 "\TU/LatinMo
+dernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ណាមួយទៀត ការដែលដំឡើង
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 កំពស់ទៅកាន់បន្ទប់កណ្តាលគឺត្រូវបានធ្វើឡើងសម្រាប់គោល
+បំណង
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 ដូចគ្នា៖\TU/LatinModernRoman(0)/m/it/10 “\TU/NotoS
+ansKhmer(0)/m/it/10 ព្រោះថា\TU/LatinModernRoman(0)/m/it/10 _\TU/NotoSansKhmer(0
+)/m/it/10 កម្រាល\TU/LatinModernRoman(0)/m/it/10 _\TU/NotoSansKhmer(0)/m/it/10 ន
+ៃផ្លូវនិងបន្ទប់សាកសពនេះបានធ្វើតាម
+
+Underfull \hbox (badness 4940) in paragraph at lines 234--235
+\TU/NotoSansKhmer(0)/m/it/10 កំពស់ដីដែលសំណង់នេះត្រូវបានកសាងឡើង គឺខុសគ្នាជិត\TU/
+LatinModernRoman(0)/m/it/10 2\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្ររវាង
+
+LaTeX Warning: Text page 4 contains only floats.
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+[]\TU/NotoSansKhmer(0)/m/it/10 អ្វីដែលគួរអោយមានចម្ងល់នោះគឺមិនសូវមានកាកសំណល់នៃសា
+ក
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 សព្វនោះឡើយ។ តាមការស្រាយជ្រាវបានបង្ហាញថា មានបំណែក
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 ឆ្អឹងឆេះនិងឆ្អឹងធម្មតាដែលជារបស់មនុស្សតែពីរបីនាក់តែ
+ប៉ុន្នោះដែល
+
+Underfull \hbox (badness 4036) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 នៃសម្ភារៈនៅខាងក្នុងបានបង្ហាញថា ការសាងសង់ \TU/Latin
+ModernRoman(0)/m/n/10 Newgrange \TU/NotoSansKhmer(0)/m/it/10 គឺ
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានចំណាយពេលយ៉ាងតិចពិរបីជំនាន់។ ហេតុអ្វីបានជាស
+ហគមន៍
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 បុរាណមួយនេះប្រឹងប្រែងសាងសង់ផ្នូរបុរាណពពេញទៅដោយវិស្
+វកម្ម
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 ដ៏មហិមានេះ ប៉ុន្តែបានត្រឹមរាយប៉ាយបំណែកឆ្អឹងសាកសព្វ
+តែពីរបីនាក់
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 ទឹកទាំងនេះគឺកសាងដើម្បីជាជម្រកការពារគ្រោះមហន្ថរាយលើ
+ផែនដី
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+\TU/NotoSansKhmer(0)/m/it/10 ផ្នែខាងត្បូងនៃអ៉េស្ប៉ាញ \TU/LatinModernRoman(0)/m/
+n/10 (\TU/NotoSansKhmer(0)/m/it/10 រូបភាពទី []\TU/LatinModernRoman(0)/m/n/10 9[
+]) \TU/NotoSansKhmer(0)/m/it/10 ដែលជាតំបន់មួយក្នុងចំ
+
+Underfull \hbox (badness 6741) in paragraph at lines 248--249
+\TU/NotoSansKhmer(0)/m/it/10 ឡើងដោយប្រើប្រាស់ដុំថ្មបុរាណធំៗមានអង្កត់ផ្ចិត\TU/La
+tinModernRoman(0)/m/n/10 75\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ។ យោងតាម
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+\TU/NotoSansKhmer(0)/m/it/10 ការស្រាវជ្រាវ មានតែសាកសពចំនួនប្រាំបីនាក់នោះទេដែលត្
+រូវបានរក
+
+Underfull \hbox (badness 3884) in paragraph at lines 248--249
+\TU/NotoSansKhmer(0)/m/it/10 ឃើញ សាកសព ទាំងនេះគឺត្រូវបានគេបត់ដូចពេលទារកនៅក្នុងស
+្បូន
+
+Underfull \vbox (badness 1297) has occurred while \output is active
+Underfull \hbox (badness 10000) in paragraph at lines 250--250
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSansKhmer(0)/b/n/12 ការលើកឡើងអំពីភា
+ពមិនប្រក្រតីដែលគួរអោយគត់
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+[]\TU/NotoSansKhmer(0)/m/it/10 នៅក្នុងផ្នែកនេះ ខ្ញុំបានសង្ខេបនូវការលើកឡើងអំពីភា
+ពមិន
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+\TU/NotoSansKhmer(0)/m/it/10 ប្រក្រតីដែលគួរអោយគត់សម្គាល់មួយចំនួនដែលបានបកស្រាយយ៉
+ាង
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--261
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 10. []\TU/NotoSansKhmer(0)/m/n/9 ការបង្ហ
+ាញអំពីការថយចុះនៃចំនួនបុរស\TU/LatinModernRoman(0)/m/n/9 95%
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+[]\TU/NotoSansKhmer(0)/m/it/10 ភាពមិនប្រក្រតីជីវវិទ្យាដែលគួរអោយគត់សំគាល់មួយចំនួ
+ន គឺការ
+
+Underfull \hbox (badness 5331) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 កាត់បន្តយនៃហ្សែននិងផូសុីលត្រីប៉ាឡែន។ \TU/LatinMode
+rnRoman(0)/m/n/10 Zeng et al (2018)
+
+Underfull \hbox (badness 7814) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 បើយោងទៅតាមគំរូលំដាប់ក្រូម៉ូសូម \TU/LatinModernRoma
+n(0)/m/n/10 Y-125 \TU/NotoSansKhmer(0)/m/it/10 ពីមនុស្សសម័យក្រោយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 និងផ្តោតទៅលើភាពស្រដៀងនិងការប្រែប្រួលនៅក្នុង \TU/La
+tinModernRoman(0)/m/n/10 DNA \TU/NotoSansKhmer(0)/m/it/10 បាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 បង្ហាញថា ចំនួនប្រជាជនបុរសប្រហែល\TU/LatinModernRoma
+n(0)/m/n/10 95% \TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានកាត់បន្តយកា
+
+Underfull \hbox (badness 7326) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 លពី\TU/LatinModernRoman(0)/m/n/10 5000\TU/NotoSans
+Khmer(0)/m/it/10 ទៅ\TU/LatinModernRoman(0)/m/n/10 7000\TU/NotoSansKhmer(0)/m/it
+/10 ឆ្នាំមុន \TU/LatinModernRoman(0)/m/n/10 (\TU/NotoSansKhmer(0)/m/it/10 រូបភា
+ពទី []\TU/LatinModernRoman(0)/m/n/10 10[])[[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ផូ
+សុីលត្រីប៉ាឡែន
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានរកឃើញនូវកំពស់រាប់រយម៉ែត្រលើសពីកំពស់សមុទ្រន
+ៅរដ្ឋ
+
+Underfull \hbox (badness 1975) in paragraph at lines 266--267
+\TU/LatinModernRoman(0)/m/n/10 Swedenborg, Michigan, Vermont \TU/NotoSansKhmer(
+0)/m/it/10 ប្រទេសកាណាដា ឈីលី
+
+Underfull \hbox (badness 3623) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 និងអ៊ីហ្ស៊ីប\TU/LatinModernRoman(0)/m/n/10 [[], []
+, [], []]\TU/NotoSansKhmer(0)/m/it/10 ។ ត្រីប៉ាឡែនទាំងនេះត្រូវបានរកឃើញ
+
+Underfull \hbox (badness 2245) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 ស្ថិតនៅក្នុងស្ថានភាពខុសៗគ្នា៖ ខ្លះមានរូបរាងពេញលេញ 
+នៅក្នុងភក់
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 ដែលស្ថិតនៅលើផែនទឹកកក ឬក៏កប់នៅក្នុងស្រទាប់ល្បាប់ដី។
+ ចំនួន
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 សត្វនៅតំបន់ទាំងនេះមានចាប់ពីពីរបីក្បាលរហូតដល់រាប់រយ
+។ ត្រីប៉ា
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSansKhmer(0)/m/it/10 ឡែនទាំងនេះត្រូវបានប្រទះឃើញនៅលើតំបន់ខ្ពស់ៗនិងឆ្ងាយព
+ីសមុទ្រ
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+[]\TU/NotoSansKhmer(0)/m/it/10 ការវិនាសសាបសូន្យលើផែនដីបានកើតឡើងជាច្រើនដងកាលពីមុ
+ន
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+\TU/NotoSansKhmer(0)/m/it/10 ហើយការវិនាសសាបសូន្យធំៗដែលយើងបានស្រាវជ្រាវបានច្រើនប
+ំផុត
+
+Underfull \hbox (badness 2961) in paragraph at lines 268--269
+\TU/LatinModernRoman(0)/m/n/10 (ECME)[[], []]\TU/NotoSansKhmer(0)/m/it/10 ។ អ្វ
+ីដ៏គួរអោយចាប់អារម្មណ៍បំផុតនោះ ការវិនាស
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+\TU/NotoSansKhmer(0)/m/it/10 សាបសូន្យមួយចំនួនទាំងនេះត្រូវបានគេចាត់ទុកថាបានកើតឡើ
+ងស្រប
+
+Underfull \hbox (badness 1430) in paragraph at lines 268--269
+\TU/NotoSansKhmer(0)/m/it/10 ពេលនិងការបង្កើតស្រទាប់ \TU/LatinModernRoman(0)/m/n
+/10 Grand Canyon \TU/NotoSansKhmer(0)/m/it/10 ផងដែរ ជាពិសេសគឺ
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 បង្កើតឡើងដោយកម្លាំងមហន្តរាយនៃធម្មជាតិ។ ភស្តុតាងអំព
+ីការហូរ
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 ទឹកដ៏ធំធេងត្រូវបានគេរកឃើញតាមចរន្តស្នាមហូរទូទាំងពិភ
+ពលោក។
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 នៅទីនេះយើងមិនត្រឹមតែឃើញទីតាំងល្បាយដីខ្សាច់និងដុំថ្
+មផ្នត់ៗនោះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 ទេ មានទាំងលំដាប់ស្នាមហូររាប់រយដែលបានបង្កើតឡើងដោយចរ
+ន្តទឹ
+
+Underfull \hbox (badness 5446) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 កធំៗ\TU/LatinModernRoman(0)/m/n/10 [[], []]\TU/Not
+oSansKhmer(0)/m/it/10 ។ វាជាស្នាមចរន្តទឹកហូរធំៗដែលបានបង្កើតឡើងនៅក្នុង
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+\TU/NotoSansKhmer(0)/m/it/10 ស្រទាប់ដីខ្សាច់នៃទឹកហូរ។ ស្នាមចរន្តទឹកហូរទាំងនេះយើ
+ងអាចរកវា
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+[]\TU/NotoSansKhmer(0)/m/it/10 រចនាសម្ព័ន្ធការហូរច្រោះក៏ត្រូវបានពន្យល់យ៉ាងច្បាស
+់ដូចនិងទ្រឹស្តី
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ហូរច្រោះ គឺនៅកន្លែងថ្មស្រួចផ្នែកខាងត្បូងប្រទេសចិន\
+TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ទីតាំង
+
+Underfull \hbox (badness 1527) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ទាំងនេះមានទាំង ប៉ុមថ្មស្រួច កំពូលថ្មស្រួច ស្ពានធម្
+មជាតិ ជ្រលងភ្នុំ
+
+Underfull \hbox (badness 1442) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ប្រព័ន្ធរូងភ្នុំធំៗ និងរន្តៅ។ ក្នុងចំណោមទីតាំងដ៏ពិ
+សេសទាំងនេះ គឺព្រៃ
+
+Underfull \hbox (badness 1102) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 អភិរក្ស \TU/LatinModernRoman(0)/m/n/10 Zhangjiajie
+ \TU/NotoSansKhmer(0)/m/it/10 ដែលមានសសរក្វាតថ្មខ្សាច់ធំៗ\TU/LatinModernRoman(0)
+/m/n/10 (\TU/NotoSansKhmer(0)/m/it/10 រូបភាពទី []\TU/LatinModernRoman(0)/m/n/10
+ 12[])
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ សសរថ្មខ្សាច់ទ
+ាំងនេះមានកំពស់រហូតដល់\TU/LatinModernRoman(0)/m/n/10 1000\TU/NotoSansKhmer(0)/m/
+it/10 ម៉ែត្រ ហើយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ឡើងដោយសសរច្រោះនៃសមុទ្រ\TU/LatinModernRoman(0)/m/n/
+10 (\TU/NotoSansKhmer(0)/m/it/10 រូបភាពទី []\TU/LatinModernRoman(0)/m/n/10 13[]
+) \TU/NotoSansKhmer(0)/m/it/10 ដែលជាថ្មឆ្នេរបង្កើត
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 កម្ពស់លើសសមុទ្ររហូតដល់\TU/LatinModernRoman(0)/m/n/
+10 1000\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ។ ទីតាំងទាំងនេះមានទាំង
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ល្បាយអំបិលនិងផូសុីលសត្វសមុទ្រដែលនៅជិតៗទីនោះ ដែលបង្
+ហាញ
+
+Underfull \hbox (badness 2698) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 អំពីការលុកលុយនៃសត្វសមុទ្រកាលពីមុន\TU/LatinModernRo
+man(0)/m/n/10 [[], [], []]\TU/NotoSansKhmer(0)/m/it/10 ។ រឿងព្រេង
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ទឹកជំនន់\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/Not
+oSansKhmer(0)/m/it/10 បានរៀបរាប់ថារលកសមុទ្រមានកំពស់ខ្ពស់ជាង\TU/LatinModernRoman
+(0)/m/n/10 1000\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 ដែលយើងទទួលស្គាល់បានតាមរយៈអំបិលនិងលានអំបិលធំៗនៅលើ
+
+Underfull \hbox (badness 4660) in paragraph at lines 305--306
+\TU/NotoSansKhmer(0)/m/it/10 គីឡូម៉ែត្រ។ ឧទាហរណ៍វាលអំបិល \TU/LatinModernRoman(0
+)/m/n/10 Uyuni \TU/NotoSansKhmer(0)/m/it/10 នៅប្រទេសបុូលីវីមាន
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+[]\TU/NotoSansKhmer(0)/m/it/10 អត្ថបទវិទ្យាសាស្ត្រនាសម័យថ្មីទទួលស្គាល់ថាមានព្រឹ
+ត្តិការណ៍
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 ផ្លាស់ប្ដូរអាកាសធាតុពិតមែន បើយោងទៅតាមប្រវត្តថ្មីៗន
+ៃភពផែន
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 កើតមានក្នុងពេលតែមួយនៃការថយចុះចំនួនប្រជាជន និងការប៉
+ះពាល់
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 ដល់ការរស់នៅទៅលើផ្ទៃដីដ៏ធំ។ ព្រឹត្តិការណ៍ទាំងនេះត្រ
+ូវបានរក្សាទុក
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 ជាភាពមិនប្រក្រតីក្នុងស្រទាប់ទឹកកកនិងដីល្បាប់ ផូសុី
+លផ្ការថ្ម អុីសូ
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 តូប\TU/LatinModernRoman(0)/m/n/10 018 \TU/NotoSans
+Khmer(0)/m/it/10 លំអង និងទិន្នន័យស្ពេលូថឹមនិងកម្រិតទឹកសមុទ្រ។ តាម
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 ការបកស្រាយនៃព្រឹត្តិការណ៍ផ្លាស់ប្ដូរអាកាសធាតុរួមមា
+នការថយចុះនៃ
+
+Underfull \hbox (badness 5077) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 សីតុណ្ហភាពផែនដី ភាពរាំងស្ងួត ការផ្លាស់ប្តូរនៃចរន្ត
+ទឹកសមុទ្រអ៉ាត្លង់
+
+Underfull \hbox (badness 1303) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 តិចផ្នែកខាងត្បូងនិងការកើនឡើងនៃផែនទឹកកក\TU/LatinMod
+ernRoman(0)/m/n/10 [[], [], []]\TU/NotoSansKhmer(0)/m/it/10 ។ ព្រឹត្តិ
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\TU/NotoSansKhmer(0)/m/it/10 ការណ៍\TU/LatinModernRoman(0)/m/n/10 8200\TU/NotoSa
+nsKhmer(0)/m/it/10 ឆ្នាំគឺកើតឡើងក្នុងពេលតែមួយជាមួយនិងទឹកជំនន់សមុទ្រ
+
+Underfull \hbox (badness 5374) in paragraph at lines 313--314
+[]\TU/NotoSansKhmer(0)/m/it/10 យោងតាមភស្ថុតាំងនៃបុរាណវិទ្យា មានទីក្រុងបុរាណមួយច
+ំនួនបាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 បង្ហាញអំពីស្រទាប់បូជានិងបំផ្លិតបំផ្លាញ ដែលបង្ហាញអំ
+ពីព្រឹត្តិការណ៍
+
+Underfull \hbox (badness 4492) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 គ្រោះមហន្តរាយកាលពីមុន។ ជាឧទាហរណ៍គឺទីក្រុងបុរាណ \TU
+/LatinModernRoman(0)/m/n/10 Jericho
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 ដែលជាទីក្រុងមួយដែលស្ថិតនៅប្រទេសប៉ាលេស្ទីននាពេលបច្ច
+ុប្បុ
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 ន្ន។ ទីក្រុងនេះមានស្រទាប់បំផ្លាញជាច្រើន ដោយមានការឆ
+ាបឆេះជា
+
+Underfull \hbox (badness 2229) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 ខ្លាំងនិងការរលំនៃសំណង់ថ្ម\TU/LatinModernRoman(0)/m
+/n/10 [[], []]\TU/NotoSansKhmer(0)/m/it/10 ។ កំណត់ត្រាប្រវត្តិសាស្ត្រនៅក្នុង
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 គួរអោយគត់សម្គាល់នោះគឺប៉មនៃសំណង់ទាំងនេះ វាហាក់បីដូច
+ជាត្រូវ
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 គេកាត់ចោលហើយកប់ក្នុងដីល្បាប់កាលពី\TU/LatinModernRo
+man(0)/m/n/10 7400\TU/NotoSansKhmer(0)/m/it/10 ឆ្នាំមុនគ្រឹស្តសករាជ
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSansKhmer(0)/m/it/10 សុទ្ធតែជាឧទាហរណ៍នៃទីតាំងបុរាណដែលមានភស្ថុតាងក្នុងស្
+រទាប់នៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+[]\TU/NotoSansKhmer(0)/m/it/10 ភស្តុតាងដែលបញ្ជាក់ពីព្រឹត្តិការណ៍គ្រោះមហន្តរាយដ៏
+ធំមួយទៀត
+
+Underfull \hbox (badness 1939) in paragraph at lines 326--327
+\TU/NotoSansKhmer(0)/m/it/10 ដែលរំខានដល់ការអភិវឌ្ឍន៍របស់មនុស្សលោកគឺរូប \TU/Lati
+nModernRoman(0)/m/n/10 Nampa \TU/NotoSansKhmer(0)/m/it/10 ជារូបធ្វើ
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSansKhmer(0)/m/it/10 មកពីដីឥដ្ឋដែលត្រូវបានគេរកឃើញជំរៅ\TU/LatinModernRom
+an(0)/m/n/10 100\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រខាងក្រោមកម្អែភ្នុំភ្លើង
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានគេប៉ាន់ស្មានថាកើតឡើងនាអំឡុងពេលចុងសម័យទីបីឬ
+ទីបួន
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSansKhmer(0)/m/it/10 កើតឡើងនាពេលថ្មីៗនេះក៏ថាបាន។ ការរកឃើញបែបនេះមិនត្រឹម
+តែ
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSansKhmer(0)/m/it/10 បញ្ជាក់ពីព្រឹត្តិការណ៍គ្រោះមហន្ថរាយដែលបំផ្លាញនៃការ
+អភិវឌ្ឍន៍មនុស្ស
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+[]\TU/NotoSansKhmer(0)/m/it/10 មានមូលហេតុសំខាន់ៗជាច្រើនដែលធ្វើអោយយើងមិនមានជឿ
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+\TU/NotoSansKhmer(0)/m/it/10 ទៅលើកាលវិទ្យានាពេលបុច្ចប្បន្ន ដែលប្រើប្រាស់ពេលវេលា
+រាប់លានឬ
+
+Underfull \hbox (badness 1342) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 និងឧស្ម័នធម្មជាតិមានអាយុរាប់រយលានឆ្នាំ\TU/LatinMod
+ernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ផ្ទុយទៅវិញ បើតាម
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ការធ្វើកាលបរិច្ឆេទកាបូនជាក់ស្តែងសម្រាប់ប្រេងឥន្ធនៈ
+នៃឈូងសមុទ្រ
+
+Underfull \hbox (badness 4108) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 មិចស៊ិកូ បានរកឃើញថាវាមានអាយុត្រឹមតែ\TU/LatinModern
+Roman(0)/m/n/10 13000\TU/NotoSansKhmer(0)/m/it/10 ឆ្នាំតែប៉ុណ្ណោះ\TU/LatinModer
+nRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។
+
+Underfull \hbox (badness 3907) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 អាយុកាលពាក់កណ្តាល \TU/LatinModernRoman(0)/m/n/10 (
+half-life) \TU/NotoSansKhmer(0)/m/it/10 នៃកាបូន\TU/LatinModernRoman(0)/m/n/10 -
+14 \TU/NotoSansKhmer(0)/m/it/10 គឺមានរយៈពេល
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ខ្លីណាស់\TU/LatinModernRoman(0)/m/n/10 (5730\TU/No
+toSansKhmer(0)/m/it/10 ឆ្នាំ\TU/LatinModernRoman(0)/m/n/10 ) \TU/NotoSansKhmer(
+0)/m/it/10 ធ្វើអោយវាពុកផុយទាំងស្រុកបន្ទាប់ពីរយៈពេល\TU/LatinModernRoman(0)/m/n/1
+0 2-
+
+Underfull \hbox (badness 6526) in paragraph at lines 332--333
+\TU/LatinModernRoman(0)/m/n/10 3\TU/NotoSansKhmer(0)/m/it/10 សែនឆ្នាំ។ យ៉ាងណាក៏
+ដោយ គេក៏បានរកឃើញថានៅក្នុងធ្យងថ្មនិង
+
+Underfull \hbox (badness 5460) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ផូសុីលអាចមានអាយុរាប់ពាន់ដងយូរជាងនឹងទៅទៀត\TU/LatinM
+odernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ជាការពិត
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ណាស់ធ្យងថ្មសិប្បនិម្មិតត្រូវបានគេផលិតឡើងនៅក្នុងមន្
+ទីរពិសោធន៍
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ការផលិតនេះអាស្រ័យទៅលើកម្តៅខ្ពស់ ហើយគេអាចផលិតវាបាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+[]\TU/NotoSansKhmer(0)/m/it/10 វិធីសាស្ត្រធ្វើកាលបរិច្ឆេទអុីសូតូបក៏មិនប្រាកដថាត
+្រឹមត្រូវនោះដែរ។
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 ប្រើប្រាស់វិធីទាំងនេះគឺមិនដូចគ្នានោះទេ និងថែមទាំងស
+ួរដេញដោល
+
+Underfull \hbox (badness 8113) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 ទៅលើភាពស្មោះត្រង់របស់អ្នកស្រាវជ្រាវពីមុនថែមទៀត\TU/
+LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ជាលិកា
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 ទន់ដែលមានកោសិកាឈាម សសៃឈាម និងកូឡាជែនត្រូវបានរក
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 ឃើញក្នុងសាកសព្វសត្វដាយណូស័រដែលថាមានអាយុរហូតដល់រាប់
+រយ
+
+Underfull \hbox (badness 3849) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 លានឆ្នាំឯណោះ\TU/LatinModernRoman(0)/m/n/10 [[], []
+]\TU/NotoSansKhmer(0)/m/it/10 ។ តាមអ្វីដែលយើងដឹង ការទទួលស្គាល់អំពី
+
+Underfull \hbox (badness 3386) in paragraph at lines 334--335
+\TU/NotoSansKhmer(0)/m/it/10 អាយុភូគព្ភសាស្ត្រនៃថ្មនិងប្រេងឥន្ធនៈផូសុីលរបស់ផែនដ
+ីសព្វថ្ងៃ គឺអាច
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+[]\TU/NotoSansKhmer(0)/m/it/10 ក្នុងអត្ថបទនេះ ខ្ញុំបានលើកឡើងនូវភាពមិនប្រក្រតីដែ
+លដែលអាច
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+\TU/NotoSansKhmer(0)/m/it/10 ផ្តល់ជាយោបល់អំពីប្រភពដើមនៃគ្រោះមហន្ថរាយដែលអាចពន្យល
+់បាន
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+\TU/NotoSansKhmer(0)/m/it/10 មិនប្រក្រតីផ្សេងៗទៀតត្រូវបានប្រមូលផ្តុំរួចរាល់ ហើយ
+អាចស្វែងរកវា
+
+Underfull \hbox (badness 1824) in paragraph at lines 341--342
+[]\TU/NotoSansKhmer(0)/m/it/10 សូមអរគុណចំពោះ \TU/LatinModernRoman(0)/m/n/10 Eth
+ical Skeptic \TU/NotoSansKhmer(0)/m/it/10 ដែលជាអ្នកនិពន្ធដំបូងនៃ
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+\TU/NotoSansKhmer(0)/m/it/10 និក្ខេបទ \TU/LatinModernRoman(0)/m/n/10 ECDO \TU/N
+otoSansKhmer(0)/m/it/10 ដែលបានបំពេញនូវនិក្ខេបទដ៏ជ្រាលជ្រៅមួយនេះ
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+\TU/NotoSansKhmer(0)/m/it/10 ហើយនិងបានចែករំលែកវាទៅកាន់មនុស្សទាំងអស់នៅលើពិភពលោក។
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+\TU/NotoSansKhmer(0)/m/it/10 និក្ខេបទទាំងបីផ្នែករបស់លោក\TU/LatinModernRoman(0)/
+m/n/10 [[]] \TU/NotoSansKhmer(0)/m/it/10 នៅតែជាច្បាប់ដើមសម្រាប់ទ្រឹស្តី
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+[]\TU/NotoSansKhmer(0)/m/it/10 ចុងបញ្ចប់សូមអរគុណទៅដល់អ្នកដែលបានជួយជ្រាជ្រែង
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+\TU/NotoSansKhmer(0)/m/it/10 អ្នកស្រាវជ្រាវដែលបានប្រមូលពត៍មានទាំងអស់ដែលធ្វើអោយ
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+\TU/NotoSansKhmer(0)/m/it/10 យើងមានលទ្ធភាពបង្កើតអត្ថបទនេះដើម្បីជួយទៅកាន់មនុស្សទ
+ូទាំង
+[8] (./2khmertranslated.bbl
+Underfull \hbox (badness 3942) in paragraph at lines 9--11
+[]\TU/LatinModernRoman(0)/m/n/9 Answers research journal, 2008--present.  https
+://
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]\TU/LatinModernRoman(0)/m/n/9 GetYourGuide.  Canyoning in grand canyon.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][]
+[][][][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Mega-current ripples.  []$[][][][][] []
+ [] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][] [] [][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][
+][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][
+][][][] []
+
+Underfull \hbox (badness 1005) in paragraph at lines 195--199
+\TU/LatinModernRoman(0)/m/n/9 tional park.  []$[][][][][] [] [] [] [][][] [] []
+[][] [] [][][] [] [][][][] [] [][][][][] [] [][][][][][] []
+[9]
+Underfull \hbox (badness 4556) in paragraph at lines 218--225
+[][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][] [] [][][][]$[]\TU/LatinModernRoman(0)/m/n/9 , May 2017.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/LatinModernRoman(0)/m/n/9 theethicalskeptic.com/2024/05/23/master-exothermi
+c-
+
+Underfull \hbox (badness 1048) in paragraph at lines 398--401
+\TU/LatinModernRoman(0)/m/n/9 The Free Encyclopedia, 2025.  [Online; accessed 8
+-
+[10]) [11] (./2khmertranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on 2khmertranslated.pdf (11 pages).
+Transcript written on 2khmertranslated.log.

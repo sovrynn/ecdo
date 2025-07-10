@@ -1,0 +1,15 @@
+There is significant reason to be skeptical of modern chronologies, which assign extremely long ages of millions, or even up to hundreds of millions of years to various physical materials.
+
+आधुनिक कालक्रमहरूमा शंका गर्नुपर्ने महत्त्वपूर्ण कारण छ, जसले विभिन्न भौतिक वस्तुहरूलाई लाखौं, वा सयौं लाखौं वर्षको असाध्यै लामो उमेर निर्धारण गर्छ।
+
+The conventional narrative states that so-called "fossil fuels" such as coal, oil, and natural gas are hundreds of millions of years old \cite{104}. However, an actual carbon dating of oil in the Gulf of Mexico found an age of approximately 13,000 years for the oil \cite{105}. Carbon-14 has such a short half-life (5,730 years) that it is supposed to completely decay after a few hundred thousand years. However, it has been found in coal and fossils that are supposedly a thousand times older \cite{106}. In fact, artificial coal has been produced in a laboratory under controlled conditions, primarily high heat, in just 2-8 months \cite{107}.
+
+परम्परागत कथनले भन्छ कि कोइला, पेट्रोलियम, र प्राकृतिक ग्यास जस्ता भनिने "जीवाश्म इन्धन" सयौं लाखौं वर्ष पुरानो हुन् \cite{104}। तर, मेक्सिकोको खाडीमा तेलको वास्तविक कार्बन डेटिङले तेलको उमेर लगभग १३,००० वर्ष पाएको छ \cite{105}। कार्बन-१४ को आधा जीवन (५,७३० वर्ष) यति छोटो छ कि केही लाख वर्षपछि पूरै नष्ट भइसकेको हुनुपर्थ्यो। तर, यसलाई कोइला र जीवाश्‍महरूमा भेटिएको छ जुन भनिन्छ कि हजारौं गुणा पुरानो छन् \cite{106}। वास्तवमा, प्रयोगशालामा नियन्त्रित अवस्था (मुख्यतया बढी ताप) मा कृत्रिम कोइला बनाइएको छ, सिर्फ़ २-८ महिनाभित्रै \cite{107}।
+
+Radioisotope dating methods other than carbon dating may also not be accurate. The Answers in Genesis research group found inconsistencies in dates derived from such methods that call their veracity into question \cite{108}. Soft tissue containing blood cells, vessels, and collagen has even been found in dinosaur remains supposedly a hundred million years old \cite{109,110}. Based on what we know, it is possible that the conventionally accepted ages of Earth's geological timescale and physical materials such as rocks and fossil fuels may be incorrect by many orders of magnitude.
+
+कार्बन डेटिङ बाहेक अन्य रेडियोआइसोटोप डेटिङ विधिहरू पनि सटीक नहुन सक्छन्। Answers in Genesis अनुसन्धान समूहले यस्ता विधिहरूबाट प्राप्त मितिहरूमा असमानता भेट्टायो जसले तिनीहरूको सत्यता माथि प्रश्न उठाउँछ \cite{108}। रक्त कोशिका, रक्तनली, र कोलाजेन रहेको नरम तन्तु डाइनोसरका अवशेषमा पनि भेटिएको छ जुन भनिन्छ कि सयौं लाख वर्ष पुरानो हुन् \cite{109,110}। हामीलाई थाहा भएको आधारमा, पृथ्वीको भूगोल सम्बन्धी कालक्रम तथा ढुंगा र जीवाश्म इन्धन जस्ता भौतिक वस्तुहरूको परम्परागत उमेर धेरै गुणा फरक पर्न सक्ने सम्भावना छ।
+
+\section{निष्कर्ष}
+
+यस लेखमा, मैले विनाशकारी उत्पत्तिहरू संकेत गर्ने सबैभन्दा आकर्षक अनियमितताहरू समेटेको छु जसलाई ECDO पृथ्वी पलटाइले सबैभन्दा राम्रो व्याख्या गर्न सक्छ। यद्यपि प्रस्तुत संग्रह विविध छ, यो अपूर्ण छ - अझ धेरै अनियमितताहरू संकलन गरिएको छ र मेरो अनुसन्धान GitHub रिपोजिटोरीमा सार्वजनिक रूपमा उपलब्ध छन् \cite{2}।

@@ -1,0 +1,10 @@
+\includegraphics[width=1\linewidth]{freemason.jpg}
+\end{center}
+   \caption{Британийн чөлөөт барилдлагууд өөрсдийн байгалийн төлөвт: чимээгүйхэн цөмийн бөмбөг хаяж, дэлхийг эзлэх талаар хуйвалдаж байна - Лондонгийн Earls Court-д, 1992 он \cite{5}.}
+\label{fig:1}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=1\textwidth]{british.jpg}

@@ -1,0 +1,8 @@
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{penta.jpg}
+\end{center}
+   \caption{အဖြစ်တကယ် White House နဲ့ Pentagon အောက်မှာ ဘာတွေရှိလဲ? အထင်ကြီးစွာနဲ့, မြေညီအောက်မှာ တူးဖော်ထားတဲ့ တာနယ်တွေ ကွန်ယက်အနက်ကြီးရှိတယ် (ပုံ: \cite{31})။}
+\label{fig:3}
+\label{fig:onecol}
+\end{figure}

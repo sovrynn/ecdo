@@ -1,0 +1,5 @@
+\subsection{अतिरिक्त बंकर र प्रलय तयारी प्रमाण}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}

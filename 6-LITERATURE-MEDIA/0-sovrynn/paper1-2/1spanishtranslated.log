@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.6.13)  25 JUN 2025 16:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.6.27)  3 JUL 2025 06:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -333,8 +333,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip55
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
-2.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4
+3.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -375,24 +375,24 @@ LaTeX Warning: Label `fig:onecol' multiply defined.
 )
 \openout1 = `1spanishtranslated.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
  ABD: EveryShipout initializing macros
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
@@ -425,50 +425,50 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 32.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
+Package hyperref Info: Link coloring OFF on input line 43.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 67.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 67.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 5
-6.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 6
+7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Underfull \hbox (badness 1688) in paragraph at lines 59--60
+Underfull \hbox (badness 1688) in paragraph at lines 70--71
 \OT1/ptm/m/it/10 \The Eth-i-cal Skep-tic" [[]] com-parti[]o una teor[]^^Pa in-
  []
 
 <b.png, id=12, 1497.595pt x 1061.9675pt>
 File: b.png Graphic file (type png)
 <use b.png>
-Package pdftex.def Info: b.png  used on input line 86.
+Package pdftex.def Info: b.png  used on input line 97.
 (pdftex.def)             Requested size: 237.13594pt x 168.152pt.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
 dist/fonts/enc/dvips/base/8r.enc}
 
 
  <./b.png>]
-Underfull \hbox (badness 2486) in paragraph at lines 99--100
+Underfull \hbox (badness 2486) in paragraph at lines 110--111
 []\OT1/ptm/m/n/10 Muchas de es-tas his-to-rias de-scriben con pre-cisi[]on
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 99--100
+Underfull \hbox (badness 1199) in paragraph at lines 110--111
 \OT1/ptm/m/n/10 la es-cala ma-siva de las in-un-da-ciones, re-la-tando c[]omo
  []
 
 
-Underfull \hbox (badness 2512) in paragraph at lines 99--100
+Underfull \hbox (badness 2512) in paragraph at lines 110--111
 \OT1/ptm/m/n/10 los oc[]eanos subieron hasta cubrir to-das las cum-bres
  []
 
@@ -476,20 +476,15 @@ Underfull \hbox (badness 2512) in paragraph at lines 99--100
 <marine.jpg, id=61, 2393.94376pt x 1243.64626pt>
 File: marine.jpg Graphic file (type jpg)
 <use marine.jpg>
-Package pdftex.def Info: marine.jpg  used on input line 118.
+Package pdftex.def Info: marine.jpg  used on input line 129.
 (pdftex.def)             Requested size: 496.85625pt x 258.09923pt.
-
-Overfull \hbox (31.73138pt too wide) in paragraph at lines 132--149
- [] 
- []
-
 <tibet.jpg, id=76, 1748.03062pt x 1122.44344pt>
 File: tibet.jpg Graphic file (type jpg)
 <use tibet.jpg>
-Package pdftex.def Info: tibet.jpg  used on input line 165.
+Package pdftex.def Info: tibet.jpg  used on input line 176.
 (pdftex.def)             Requested size: 237.13594pt x 152.25978pt.
 
-Underfull \hbox (badness 7433) in paragraph at lines 172--173
+Underfull \hbox (badness 7433) in paragraph at lines 183--184
 []\OT1/ptm/m/n/10 Mientras la es-cuela uni-formista del pen-samiento
  []
 
@@ -497,11 +492,11 @@ Underfull \hbox (badness 7433) in paragraph at lines 172--173
 <khafre.jpg, id=106, 1057.9525pt x 693.59125pt>
 File: khafre.jpg Graphic file (type jpg)
 <use khafre.jpg>
-Package pdftex.def Info: khafre.jpg  used on input line 176.
+Package pdftex.def Info: khafre.jpg  used on input line 187.
 (pdftex.def)             Requested size: 422.33084pt x 276.88124pt.
  [4 <./marine.jpg> <./tibet.jpg>]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-96.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
+07.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
@@ -509,7 +504,7 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 <shafts.jpg, id=140, 1060.96375pt x 701.62125pt>
 File: shafts.jpg Graphic file (type jpg)
 <use shafts.jpg>
-Package pdftex.def Info: shafts.jpg  used on input line 204.
+Package pdftex.def Info: shafts.jpg  used on input line 215.
 (pdftex.def)             Requested size: 422.33084pt x 279.29459pt.
  [5 <./khafre.jpg>]
 Underfull \vbox (badness 3872) has occurred while \output is active []
@@ -517,26 +512,26 @@ Underfull \vbox (badness 3872) has occurred while \output is active []
 <drawing.jpg, id=157, 3149.7675pt x 1049.9225pt>
 File: drawing.jpg Graphic file (type jpg)
 <use drawing.jpg>
-Package pdftex.def Info: drawing.jpg  used on input line 221.
+Package pdftex.def Info: drawing.jpg  used on input line 232.
 (pdftex.def)             Requested size: 496.85625pt x 165.60397pt.
  [6 <./shafts.jpg>]
 <laj.jpg, id=179, 983.675pt x 1203.49625pt>
 File: laj.jpg Graphic file (type jpg)
 <use laj.jpg>
-Package pdftex.def Info: laj.jpg  used on input line 240.
+Package pdftex.def Info: laj.jpg  used on input line 251.
 (pdftex.def)             Requested size: 225.27841pt x 275.60466pt.
 <biodiversity.jpg, id=182, 1284.8pt x 722.7pt>
 File: biodiversity.jpg Graphic file (type jpg)
 <use biodiversity.jpg>
-Package pdftex.def Info: biodiversity.jpg  used on input line 250.
+Package pdftex.def Info: biodiversity.jpg  used on input line 261.
 (pdftex.def)             Requested size: 472.01192pt x 265.50911pt.
 <meinesz3.jpg, id=184, 1284.8pt x 770.88pt>
 File: meinesz3.jpg Graphic file (type jpg)
 <use meinesz3.jpg>
-Package pdftex.def Info: meinesz3.jpg  used on input line 259.
+Package pdftex.def Info: meinesz3.jpg  used on input line 270.
 (pdftex.def)             Requested size: 237.13594pt x 142.2812pt.
 
-Underfull \hbox (badness 1769) in paragraph at lines 268--269
+Underfull \hbox (badness 1769) in paragraph at lines 279--280
 []\OT1/ptm/m/n/10 La ev-i-den-cia f[]^^Psica que respalda esta di-recci[]on de
  []
 
@@ -544,7 +539,7 @@ Underfull \hbox (badness 1769) in paragraph at lines 268--269
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7 <./drawing.jpg> <./laj.jpg>]
-Underfull \hbox (badness 2310) in paragraph at lines 276--277
+Underfull \hbox (badness 2310) in paragraph at lines 287--288
 \OT1/ptm/m/n/10 tambi[]en ex-is-ten en las pa-le-o-cor-ri-entes de sed-i-men-to
 s
  []
@@ -552,7 +547,7 @@ s
 <dzhani.jpg, id=205, 3191.925pt x 1047.915pt>
 File: dzhani.jpg Graphic file (type jpg)
 <use dzhani.jpg>
-Package pdftex.def Info: dzhani.jpg  used on input line 283.
+Package pdftex.def Info: dzhani.jpg  used on input line 294.
 (pdftex.def)             Requested size: 447.16759pt x 146.80304pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -561,12 +556,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <layers.jpg, id=217, 1204.5pt x 677.53125pt>
 File: layers.jpg Graphic file (type jpg)
 <use layers.jpg>
-Package pdftex.def Info: layers.jpg  used on input line 292.
+Package pdftex.def Info: layers.jpg  used on input line 303.
 (pdftex.def)             Requested size: 496.85625pt x 279.48508pt.
 <llvp.jpg, id=219, 1163.34625pt x 915.42pt>
 File: llvp.jpg Graphic file (type jpg)
 <use llvp.jpg>
-Package pdftex.def Info: llvp.jpg  used on input line 301.
+Package pdftex.def Info: llvp.jpg  used on input line 312.
 (pdftex.def)             Requested size: 237.13594pt x 186.60072pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -578,41 +573,41 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <npw.jpg, id=237, 1539.7525pt x 1924.18875pt>
 File: npw.jpg Graphic file (type jpg)
 <use npw.jpg>
-Package pdftex.def Info: npw.jpg  used on input line 323.
+Package pdftex.def Info: npw.jpg  used on input line 334.
 (pdftex.def)             Requested size: 237.13594pt x 296.33772pt.
 
-Underfull \hbox (badness 1675) in paragraph at lines 330--331
+Underfull \hbox (badness 1675) in paragraph at lines 341--342
 []\OT1/ptm/m/n/10 Representado en la Figura []14[] est[]a el campo ge-o-
  []
 
 
-Underfull \hbox (badness 2809) in paragraph at lines 332--333
+Underfull \hbox (badness 2809) in paragraph at lines 343--344
 []\OT1/ptm/m/n/10 Otro in-di-cador del de-bili-ta-miento del campo ge-o-
  []
 
 <saa.jpg, id=245, 1627.07875pt x 636.3775pt>
 File: saa.jpg Graphic file (type jpg)
 <use saa.jpg>
-Package pdftex.def Info: saa.jpg  used on input line 337.
+Package pdftex.def Info: saa.jpg  used on input line 348.
 (pdftex.def)             Requested size: 447.16759pt x 174.89268pt.
 <ocean-highlight.jpg, id=250, 2135.98pt x 2488.29625pt>
 File: ocean-highlight.jpg Graphic file (type jpg)
 <use ocean-highlight.jpg>
-Package pdftex.def Info: ocean-highlight.jpg  used on input line 346.
+Package pdftex.def Info: ocean-highlight.jpg  used on input line 357.
 (pdftex.def)             Requested size: 237.13594pt x 276.21935pt.
 [10 <./llvp.jpg> <./npw.jpg>]
 <saa-crop.jpeg, id=280, 1096.095pt x 715.67375pt>
 File: saa-crop.jpeg Graphic file (type jpg)
 <use saa-crop.jpeg>
-Package pdftex.def Info: saa-crop.jpeg  used on input line 364.
+Package pdftex.def Info: saa-crop.jpeg  used on input line 375.
 (pdftex.def)             Requested size: 237.13594pt x 154.82784pt.
  [11 <./saa.jpg> <./ocean-highlight.jpg>]
-Underfull \hbox (badness 1147) in paragraph at lines 375--376
+Underfull \hbox (badness 1147) in paragraph at lines 386--387
 []\OT1/ptm/m/n/10 Otras m[]etricas como la deriva del eje de rotaci[]on,
  []
 
 
-Underfull \hbox (badness 3792) in paragraph at lines 385--386
+Underfull \hbox (badness 3792) in paragraph at lines 396--397
 []\OT1/ptm/m/n/10 La Op-eraci[]on NANOOK fue un es-fuerzo de re-
  []
 
@@ -623,7 +618,7 @@ Underfull \vbox (badness 5050) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
-Underfull \hbox (badness 1009) in paragraph at lines 397--398
+Underfull \hbox (badness 1009) in paragraph at lines 408--409
 \OT1/ptm/m/n/10 Exot[]ermico N[]ucleo-Manto por Os-cilaci[]on Dzhanibekov
  []
 
@@ -633,12 +628,12 @@ Underfull \hbox (badness 1009) in paragraph at lines 397--398
 <wave.jpg, id=365, 754.82pt x 1057.9525pt>
 File: wave.jpg Graphic file (type jpg)
 <use wave.jpg>
-Package pdftex.def Info: wave.jpg  used on input line 411.
+Package pdftex.def Info: wave.jpg  used on input line 422.
 (pdftex.def)             Requested size: 237.13594pt x 332.36893pt.
 <star-stone.jpg, id=368, 722.7pt x 1116.17pt>
 File: star-stone.jpg Graphic file (type jpg)
 <use star-stone.jpg>
-Package pdftex.def Info: star-stone.jpg  used on input line 422.
+Package pdftex.def Info: star-stone.jpg  used on input line 433.
 (pdftex.def)             Requested size: 237.13594pt x 366.24239pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -646,22 +641,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <deepsea.jpg, id=371, 708.6475pt x 620.3175pt>
 File: deepsea.jpg Graphic file (type jpg)
 <use deepsea.jpg>
-Package pdftex.def Info: deepsea.jpg  used on input line 432.
+Package pdftex.def Info: deepsea.jpg  used on input line 443.
 (pdftex.def)             Requested size: 496.85625pt x 434.92918pt.
 <sealevel.jpeg, id=378, 1204.5pt x 1326.9575pt>
 File: sealevel.jpeg Graphic file (type jpg)
 <use sealevel.jpeg>
-Package pdftex.def Info: sealevel.jpeg  used on input line 442.
+Package pdftex.def Info: sealevel.jpeg  used on input line 453.
 (pdftex.def)             Requested size: 496.85625pt x 547.37672pt.
 <co2.jpg, id=383, 2360.82pt x 1026.83624pt>
 File: co2.jpg Graphic file (type jpg)
 <use co2.jpg>
-Package pdftex.def Info: co2.jpg  used on input line 451.
+Package pdftex.def Info: co2.jpg  used on input line 462.
 (pdftex.def)             Requested size: 496.85625pt x 216.09634pt.
 <ice.jpg, id=388, 2359.81625pt x 1030.85126pt>
 File: ice.jpg Graphic file (type jpg)
 <use ice.jpg>
-Package pdftex.def Info: ice.jpg  used on input line 460.
+Package pdftex.def Info: ice.jpg  used on input line 471.
 (pdftex.def)             Requested size: 496.85625pt x 217.03568pt.
  [15
 
@@ -850,12 +845,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 10611 strings out of 475662
- 159446 string characters out of 5784442
+ 10611 strings out of 475142
+ 159446 string characters out of 5776209
  1949975 words of memory out of 5000000
- 32447 multiletter control sequences out of 15000+600000
+ 32458 multiletter control sequences out of 15000+600000
  584759 words of font info for 95 fonts, out of 8000000 for 9000
- 264 hyphenation exceptions out of 8191
+ 680 hyphenation exceptions out of 8191
  75i,9n,79p,4543b,621s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share
@@ -864,7 +859,7 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share
 onts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 1spanishtranslated.pdf (21 pages, 7324740 bytes).
+Output written on 1spanishtranslated.pdf (21 pages, 7324719 bytes).
 PDF statistics:
  529 PDF objects out of 1000 (max. 8388607)
  436 compressed objects within 5 object streams

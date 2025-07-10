@@ -1,0 +1,5 @@
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{npw.jpg}
+\end{center}
+   \caption{ຕຳແໜ່ງຂອງຂົ້ວແມ່ເຫຼັກເໜືອຈາກປີ 1590 ຫາ 2025, ສະແດງໃນລະດັບ 5 ປີ. ການເຄື່ອນທີ່ຂອງມັນໄດ້ເລີ່ມເຄື່ອນໄວຢ່າງໄວວາໃນປີ 1975 \cite{41}.}
+\label{fig:13}

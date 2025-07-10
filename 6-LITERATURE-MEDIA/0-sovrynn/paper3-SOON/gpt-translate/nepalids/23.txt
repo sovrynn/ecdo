@@ -1,0 +1,5 @@
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{penta.jpg}
+\end{center}
+   \caption{वाइट हाउस र पेन्टागनको तल वास्तवमा के छ? प्रमाणित रूपमा, भूमिगत सुरुङहरूको गहिरो नेटवर्क (तस्वीर: \cite{31}).}

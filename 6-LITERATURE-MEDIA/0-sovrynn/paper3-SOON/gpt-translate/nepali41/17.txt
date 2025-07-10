@@ -1,0 +1,9 @@
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{iran.jpeg}
+\end{center}
+   \caption{सरकारी ईरानी भिडियोबाट लिइएको दृश्य जसमा उनीहरूको भूमिगत "मिसाइल सिटी" देखाइएको छ \cite{39,40}।}
+\label{fig:12}
+\label{fig:onecol}
+\end{figure}

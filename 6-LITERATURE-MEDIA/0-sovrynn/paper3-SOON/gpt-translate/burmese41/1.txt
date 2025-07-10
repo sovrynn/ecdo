@@ -1,0 +1,10 @@
+\documentclass[10pt,twocolumn,letterpaper]{article}
+
+\usepackage{booktabs}
+% \usepackage{caption}
+% \captionsetup[table]{skip=8pt}   % ဇယားများအတွက်သာ သက်ရောက်သည်
+\usepackage{stfloats}  % ဤကို နိဒါန်းအပိုင်းတွင် ထည့်ပါ
+\usepackage{float}
+
+\usepackage{cvpr}
+\usepackage{times}

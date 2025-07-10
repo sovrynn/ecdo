@@ -1,0 +1,5 @@
+   \includegraphics[width=1\linewidth]{freemason.jpg}
+\end{center}
+   \caption{สมาชิกฟรีเมสันชาวอังกฤษในสภาพธรรมชาติ กำลังวางแผนอย่างเงียบๆ เพื่อทิ้งระเบิดนิวเคลียร์และยึดครองโลก - ที่เอิร์ลส์คอร์ทในลอนดอน ปี 1992 \cite{5}.}
+\label{fig:1}
+\label{fig:onecol}

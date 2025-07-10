@@ -1,0 +1,5 @@
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+% หน้าเอกสารจะถูกนับเลขในโหมดส่งต้นฉบับ และไม่นับเลขในโหมดพร้อมพิมพ์
+%\ifcvprfinal\pagestyle{empty}\fi
+\setcounter{page}{1}

@@ -1,0 +1,9 @@
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=0.95\linewidth]{laj.jpg}
+\end{center}
+   \caption{(a) आइसल्यान्ड बेसिन भ्रमण र (b) लस्च्याम्प भ्रमणको लागि भर्चुअल भौमध्य चुम्बकीय ध्रुव मार्गहरू \cite{35}।}
+\label{fig:7}
+\label{fig:onecol}
+\end{figure}

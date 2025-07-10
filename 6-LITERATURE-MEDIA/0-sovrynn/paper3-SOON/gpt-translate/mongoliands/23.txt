@@ -1,0 +1,5 @@
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{penta.jpg}
+\end{center}
+   \caption{Цагаан ордон, Пентагоны доор юу нуугдаж байна вэ? Гүн газрын дамжуулах хоолойн сүлжээ нь илт харагдаж байна (Зураг: \cite{31}).}

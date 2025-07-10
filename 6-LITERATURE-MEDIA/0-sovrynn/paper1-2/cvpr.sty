@@ -59,13 +59,21 @@
 % set dimensions of columns, gap between columns, and paragraph indent
 \setlength{\textheight}{8.875in}
 \setlength{\textwidth}{6.875in}
-\setlength{\columnsep}{0.3125in}
 \setlength{\topmargin}{0in}
+\setlength{\oddsidemargin}{-0.1875in}
+\setlength{\evensidemargin}{-0.1875in}
+\setlength{\columnsep}{0.3125in}
+% \setlength{\columnsep}{0.25in}   %reduce inter-column gap
 \setlength{\headheight}{0in}
 \setlength{\headsep}{0in}
 \setlength{\parindent}{1pc}
-\setlength{\oddsidemargin}{-0.1875in}
-\setlength{\evensidemargin}{-0.1875in}
+
+% Updated settings (reduced margins):
+% \setlength{\textheight}{9.4in}
+% \setlength{\textwidth}{7.275in}
+% \setlength{\topmargin}{-0.2in}
+% \setlength{\oddsidemargin}{-0.3875in}
+% \setlength{\evensidemargin}{-0.3875in}
 
 \newif\ifcvprfinal
 \cvprfinalfalse
@@ -112,11 +120,14 @@ Paper ID \cvprPaperID \fi
 \def\abstract
    {%
    \centerline{\large\bf Abstract}%
-   % \centerline{\large\bf 개요}%
-   % \centerline{\large\bf 摘要}%
-   % \centerline{\large\bf Zusammenfassung}%
-   % \centerline{\large\bf Resumen}%
-   % \centerline{\large\bf 要旨}%
+   % \centerline{\large\bf 개요}% Korean
+   % \centerline{\large\bf 摘要}% Chinese
+   % \centerline{\large\bf Zusammenfassung}% german
+   % \centerline{\large\bf Resumen}% Spanish
+   % \centerline{\large\bf 概要}% Japanese 概要
+   % \centerline{\large\bf Аннотация}% Russian
+   % \centerline{\large\bf Tóm tắt}% Viet
+   % \centerline{\large\bf Abstrak}% Indonesian
    \vspace*{12pt}%
    \it%
    }

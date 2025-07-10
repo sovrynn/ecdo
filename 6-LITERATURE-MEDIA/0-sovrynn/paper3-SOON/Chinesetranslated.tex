@@ -28,6 +28,42 @@
 \def\cvprPaperID{****} % *** Enter the CVPR Paper ID here
 \def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
 
+\renewcommand{\figurename}{图}   % or whatever you like instead of "Hình"
+
+\makeatletter
+\def\abstract{%
+  \centerline{\large\bf 摘要}% <-- your new label
+  \vspace*{12pt}%
+  \it%
+}
+\makeatother
+
+% This makes the font slightly bigger than base (10) and bold in Subsection headings rather than using ptmb
+\makeatletter
+\def\cvprsubsection{%
+  \@startsection{subsection}{2}{\z@}%
+    {8pt plus 2pt minus 2pt}{6pt}%
+    % {\normalfont\bfseries\selectfont}%
+    {\normalfont\bfseries\fontsize{11}{13}\selectfont}%
+}
+\makeatother
+
+% So this hardcodes the style for the numbers in the section/subsection headings so they're bold
+\font\elvbf=ptmb scaled 1100
+\font\elvbfs=ptmb scaled 1200
+\makeatletter
+% Section number: Large + bold
+\renewcommand\thesection{%
+  {\elvbfs\arabic{section}}%
+}
+
+% Subsection number: normalsize + bold + custom punctuation
+\renewcommand\thesubsection{%
+  {\elvbf
+   \arabic{section}.\arabic{subsection}}%
+}
+\makeatother
+
 % Pages are numbered in submission mode, and unnumbered in camera-ready
 %\ifcvprfinal\pagestyle{empty}\fi
 \setcounter{page}{1}
@@ -74,7 +110,7 @@ ECDO 研究报告：\href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ec
 \end{abstract}
 
 %%%%%%%%% BODY TEXT
-\section{共济会与"盎格鲁-撒克逊使命"(英国古代民族的使命)}
+\section{共济会与"盎格鲁-撒克逊族裔的使命"(古英格兰族裔的使命)}
 
 2010 年 1 月，Project Camelot 这家收集吹哨人言论的另类媒体和新闻机构采访了\cite{4,6}一位内部人士，该人士于 2005 年 6 月亲身参与了伦敦金融城高级共济会员的会议。会议讨论的话题背景围绕着一场即将到来的\textbf{“地球地质事件”}（即全球性自然灾害），制定军事和政治计划。
 
@@ -94,7 +130,7 @@ ECDO 研究报告：\href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ec
 % \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
 \includegraphics[width=1\textwidth]{british.jpg}
 \end{center}
-   \caption{1937 年的大英帝国，展示了盎格鲁-撒克逊的强大力量 \cite{14}。}
+   \caption{1937 年的大英帝国，展示了古英格兰族裔的强大力量 \cite{14}。}
    \label{fig:2}
 \end{figure*}
 
@@ -112,11 +148,11 @@ ECDO 研究报告：\href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ec
 
 但最重要的是他们对这些事件之后发生的事件的预想：\textit{“所以我们将参与这场战争，然后……之后，在地球上将发生一场地球地质事件，这个事件将会影响到每个人”} \cite{4}。内部人士认为，在这场地球地质事件发生期间，\textit{\textbf{“地壳大约会偏转 30 度，大约向南移动 1700 到 2000 英里，这将引发一次巨大的剧变，其影响将持续非常长的时间”}} \cite{4}。
 
-这一切秘密计划的原因，当然是权力。内部人士解释说，\textit{“到那时，我们所有人都已经经历了一场核战和生化战争。如果这一切真的发生，地球人口将被大幅削减。而当那个地球地质事件发生时，幸存者可能还会再减少一半。谁能活下来，谁就有机会领导世界，带领幸存的人类走入下一个时代。所以我们说的是一个“灾变后时代”。谁将掌权？谁将掌控局势？一切都围绕着这个来讨论。这就是为什么他们如此迫切希望这些事情在设定的时间内发生……在[混乱]出现之前，必须建立起一套架构，确定这套架构能挺过所有可能发生的事件——这样他们才能在灾变后的第二天稳稳落地，继续掌握权力，并维持此前所享有的权力地位。”} \cite{4}。在采访中，也讨论了这个计划的名字——“盎格鲁-撒克逊使命”：\textit{[采访者]：“……之所以称为‘盎格鲁-撒克逊使命’，主要是因为该计划旨在消灭中国人，这样灾变发生后，开始重建一切的时候，将由盎格鲁-撒克逊人领导重建并继承新的地球资源，这时候不能有其他竞争对手。对吧？”[内部人士]：“我其实并不确定你说的对还是不对，但我同意你的看法。至少在整个 20 世纪，甚至在之前的 19 和 18 世纪，这个世界的历史一直主要由西方和地球北部地区主导”} \cite{4}。
+这一切秘密计划的原因，当然是权力。内部人士解释说，\textit{“到那时，我们所有人都已经经历了一场核战和生化战争。如果这一切真的发生，地球人口将被大幅削减。而当那个地球地质事件发生时，幸存者可能还会再减少一半。谁能活下来，谁就有机会领导世界，带领幸存的人类走入下一个时代。所以我们说的是一个“灾变后时代”。谁将掌权？谁将掌控局势？一切都围绕着这个来讨论。这就是为什么他们如此迫切希望这些事情在设定的时间内发生……在[混乱]出现之前，必须建立起一套架构，确定这套架构能挺过所有可能发生的事件——这样他们才能在灾变后的第二天稳稳落地，继续掌握权力，并维持此前所享有的权力地位。”} \cite{4}。在采访中，也讨论了这个计划的名字——“盎格鲁-撒克逊族裔的使命”（古英格兰族裔的使命）：\textit{[采访者]：“……之所以称为‘盎格鲁-撒克逊族裔的使命’（古英格兰族裔的使命），主要是因为该计划旨在消灭中国人，这样灾变发生后，开始重建一切的时候，将由古英格兰族裔领导重建并继承新的地球资源，这时候不能有其他竞争对手。对吧？”[内部人士]：“我其实并不确定你说的对还是不对，但我同意你的看法。至少在整个 20 世纪，甚至在之前的 19 和 18 世纪，这个世界的历史一直主要由西方和地球北部地区主导”} \cite{4}。
 
 关于预计出现的地球地质事件的具体时间，内部人士给出了自己的猜测：\textit{“……我的感觉，凭我的直觉来看，是他们现在必须马上行动起来……我认为他们对这件事会在什么时候发生，已经有了相当清晰的认知……\textbf{我有非常强烈的感觉，这将会发生在我的有生之年，比如 20 年之内}……现在我们已经进入了地球地质事件即将发生的时期，上一次的地质事件大约发生在 11500 年前，它大约每 11500 年发生一次。现在，这一切即将再次发生……他们知道事件将要发生。他们对这个事件的发生拥有一种明确的认知……说到底，很难想象他们会对这种事情的发生时间不知情。我的意思是，世界上最聪明的人才都在为这件事情效力”} \cite{4}。
 
-我们非常感激能得到这段份量十足的发言。在采访中，作者还谈到了他的认知，他认为第一次和第二次世界大战都是人为制造的战争，所谓的盎格鲁-撒克逊使命极有可能已经延续了许多代。2010 年的这次采访距今已过去 15 年。距离内部人士所预测的地球地质事件的 20 年时间框架还剩 5 年。
+我们非常感激能得到这段份量十足的发言。在采访中，作者还谈到了他的认知，他认为第一次和第二次世界大战都是人为制造的战争，所谓的“古英格兰族裔的使命”极有可能已经延续了许多代。2010 年的这次采访距今已过去 15 年。距离内部人士所预测的地球地质事件的 20 年时间框架还剩 5 年。
 
 \subsection{德鲁伊的神秘西方灾变知识}
 
@@ -131,7 +167,7 @@ ECDO 研究报告：\href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ec
 
 我所找到关于地下基地最详尽的公开调查来自理查德·索德，他是一位独立的美国研究员，出版了多本关于深层地下基地的著作\cite{22}。索德的工作包括对政府文件和计划进行归档，查阅过去和现有的新闻报道与技术，建立情报来源，并整理内部消息。索德的研究揭示，在美国本土及其属地周边存在庞大的深层地下和海底基地网络（见图\ref{fig:4}），最深可达至少 3 英里，并可能由地下真空管道高速磁悬浮列车相互联通。这些基地的资金来源隐秘，通过一群拥有“美利坚合众国”公司的人运作的\textit{“巨额资金、跨国、跨机构、洗钱空壳游戏”}进行隐秘资助\cite{22}。凯瑟琳·奥斯丁·菲茨（其工作将在下一节讨论）及其合作者对这些基地规模的后续研究估计，美国存在 170 个地下及海底基地\cite{16,20}。
 
-\begin{figure}[b]
+\begin{figure}[t]
 \begin{center}
 % \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
    \includegraphics[width=1\linewidth]{penta.jpg}
@@ -140,6 +176,15 @@ ECDO 研究报告：\href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ec
 \label{fig:3}
 \label{fig:onecol}
 \end{figure}
+
+\begin{figure*}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
+\includegraphics[width=1\textwidth]{baseschn.png}
+\end{center}
+   \caption{一张地图显示了索德的研究中所揭示的地下和海底基地的确切位置，以及通往内陆的水下潜艇隧道。索德 \textit{"确信还有\textbf{更多}设施"} \cite{22}。}
+   \label{fig:4}
+\end{figure*}
 
 \begin{figure}[t]
 \begin{center}
@@ -150,15 +195,6 @@ ECDO 研究报告：\href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ec
 \label{fig:5}
 \label{fig:onecol}
 \end{figure}
-
-\begin{figure*}[t]
-\begin{center}
-% \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
-\includegraphics[width=0.9\textwidth]{baseschn.png}
-\end{center}
-   \caption{一张地图显示了索德的研究中所揭示的地下和海底基地的确切位置，以及通往内陆的水下潜艇隧道。索德 \textit{"确信还有\textbf{更多}设施"} \cite{22}。}
-   \label{fig:4}
-\end{figure*}
 
 以下是一些来自索德的消息源中的证言片段，详细描述了其中一些基地的规模：
 
@@ -228,11 +264,6 @@ ECDO 研究报告：\href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ec
 \label{fig:onecol}
 \end{figure}
 
-据说硅谷的商业大亨们也深谙此道。据报道，\textit{“LinkedIn 的联合创始人、著名投资人里德·霍夫曼（Reid Hoffman）今年早些时候对《纽约客》透露，他估计超过 50\% 的硅谷亿万富翁购买了某种程度的”世界末日保险“，比如地下掩体……据《福布斯》撰稿人吉姆·多布森（Jim Dobson）介绍，许多亿万富翁都有私人飞机，”随时可以起飞“。他们还拥有摩托车、武器和发电机”} \cite{28}。
-
-还有一些大型档案项目，比如由 Arch Mission Foundation 运营的全球知识金库（Global Knowledge Vault）\cite{29}和斯瓦尔巴全球种子库（Svalbard Global Seed Vault）\cite{30}，似乎正是在为一场灭绝级灾难做准备，旨在保存人类最关键的资产与资源。
-
-\section{大规模地下基地的资金筹措机制}
 \begin{figure*}[t]
 \begin{center}
 % \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
@@ -241,6 +272,13 @@ ECDO 研究报告：\href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ec
    \caption{1998年至2023年美国政府收入、支出以及秘密地下基地支出\cite{19}。}
    \label{fig:9}
 \end{figure*}
+
+据说硅谷的商业大亨们也深谙此道。据报道，\textit{“LinkedIn 的联合创始人、著名投资人里德·霍夫曼（Reid Hoffman）今年早些时候对《纽约客》透露，他估计超过 50\% 的硅谷亿万富翁购买了某种程度的”世界末日保险“，比如地下掩体……据《福布斯》撰稿人吉姆·多布森（Jim Dobson）介绍，许多亿万富翁都有私人飞机，”随时可以起飞“。他们还拥有摩托车、武器和发电机”} \cite{28}。
+
+还有一些大型档案项目，比如由 Arch Mission Foundation 运营的全球知识金库（Global Knowledge Vault）\cite{29}和斯瓦尔巴全球种子库（Svalbard Global Seed Vault）\cite{30}，似乎正是在为一场灭绝级灾难做准备，旨在保存人类最关键的资产与资源。
+
+\section{大规模地下基地的资金筹措机制}
+
 
 那么，横跨大陆的 170 多个地下和海底基地的庞大网络到底是如何在债务奴隶一无所知的情况下筹得资金支持的呢？有一条资金流向的线索，可以让我们窥见这些项目所涉及资金的规模及其来源。2017年，美国投资银行家、布什政府时期的前公共事务官员凯瑟琳·奥斯汀·菲茨（Catherine Austin Fitts）与密歇根州立大学经济学家马克·斯基德莫尔（Mark Skidmore）发现，在 1998 至 2015 财年间，美国政府存在高达 21 万亿美元的未授权支出。\cite{11,12,13}。
 

@@ -1,0 +1,9 @@
+While the uniformitarian school of geological thought ascribes anomalies such as salt and marine fossils to drawn-out processes occurring over millions of years, humanity's flood stories should lead us to question that line of thinking. If the ocean really did flood over the continents, then saltwater and marine fossils, easily discovered across vast expanses of high-elevation land, are exactly what we would expect to find.
+
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=0.85\textwidth]{khafre.jpg}
+\end{center}
+   \caption{समुद्री सतह अस्थायी रूपमा लामो समयसम्म बढ्दा देखिने भिन्नात्मक, ढाँचाबद्ध कार्स्ट अपरदन देखाउने रेखांकन \cite{27}.}
+\label{fig:4}
+\end{figure*}

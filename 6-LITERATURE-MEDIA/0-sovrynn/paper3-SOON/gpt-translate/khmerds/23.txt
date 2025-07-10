@@ -1,0 +1,5 @@
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{penta.jpg}
+\end{center}
+   \caption{តើមានអ្វីស្ថិតនៅក្រោមវិមានស្ថានភាពស និងអគារប៉េនតាហ្គោនពិតប្រាកដ? ច្បាស់ណាស់ថាជាបណ្តាញផ្លូវក្រោមដីជ្រៅមួយ (រូបភាព៖ \cite{31})។}

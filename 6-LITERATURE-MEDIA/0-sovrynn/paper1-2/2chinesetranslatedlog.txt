@@ -1,0 +1,723 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./2chinesetranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg)) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+Package xeCJK Warning: Fandol is being set as the default font for CJK text.
+(xeCJK)                Please make sure it has been properly installed.
+
+
+Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 67.
+
+(./2chinesetranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 81.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 81.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 83.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [1]
+[2] [3] [4] [5] [6] (./2chinesetranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[]\TU/ptm/m/it/9 Answers research journal, 2008–present.
+
+Underfull \hbox (badness 7595) in paragraph at lines 101--105
+[]\TU/ptm/m/it/9 GetYourGuide.  Canyoning in grand canyon.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][]
+[][][][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+[]\TU/ptm/m/it/9 Junho.  Ecdo kmls.  []$[][][][][] [] [] [] [][][][][][] [] [][
+][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+[][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][
+][][] [] [][][] []
+
+Underfull \hbox (badness 3323) in paragraph at lines 139--144
+[]\TU/ptm/m/it/9 Junho.  Mega-current ripples.  []$[][][][][] [] [] [] [][][][]
+[][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][] [] [][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][
+][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][
+][][][] []
+
+Underfull \hbox (badness 2302) in paragraph at lines 146--149
+[]\TU/ptm/m/it/9 Junho.  Ecdo github research repository, 2024.
+
+Underfull \hbox (badness 2057) in paragraph at lines 163--169
+\TU/ptm/m/it/9 son, M. Finlayson, T. Gumbricht, L. Hilarides,
+
+Underfull \hbox (badness 1735) in paragraph at lines 189--193
+[]\TU/ptm/m/it/9 National Park Service.  Geology - death valley
+
+Underfull \hbox (badness 2591) in paragraph at lines 189--193
+\TU/ptm/m/it/9 national park.  []$[][][][][] [] [] [] [][][] [] [][][] [] [][][
+] [] [][][][] [] [][][][][] []
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 218--225
+[][][][] [] [][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][] [] [][][][]$[]\TU/ptm/m/it/9 ,
+
+Underfull \hbox (badness 3417) in paragraph at lines 218--225
+\TU/ptm/m/it/9 May 2017.  Annotazioni di Rosanna Pellerito.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/ptm/m/it/9 https://theethicalskeptic.com/2024/05/23/master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/ptm/m/it/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 4913) in paragraph at lines 372--375
+[]\TU/ptm/m/it/9 Wikipedia.  Great pyramid of giza.  []$[][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--375
+[] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][][] [] [][][][
+][][][] [] [][] [] [][][][] []
+
+Underfull \hbox (badness 7256) in paragraph at lines 377--380
+[]\TU/ptm/m/it/9 Wikipedia contributors.  Extinction event —
+
+Underfull \hbox (badness 5316) in paragraph at lines 382--385
+[]\TU/ptm/m/it/9 Wikipedia contributors.  4.2-kiloyear event —
+
+Underfull \hbox (badness 5316) in paragraph at lines 387--390
+[]\TU/ptm/m/it/9 Wikipedia contributors.  8.2-kiloyear event —
+
+Underfull \hbox (badness 5417) in paragraph at lines 398--401
+[]\TU/ptm/m/it/9 Wikipedia contributors.  Dolmen de Soto —
+
+Underfull \hbox (badness 2334) in paragraph at lines 408--411
+\TU/ptm/m/it/9 Free Encyclopedia, 2025.  [Online; accessed 9-
+[8]) [9] (./2chinesetranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on 2chinesetranslated.pdf (9 pages).
+Transcript written on 2chinesetranslated.log.
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+The top-level auxiliary file: 2chinesetranslated.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "15" isn't style-file defined
+--line 120 of file egbib.bib
+Warning--entry type for "42" isn't style-file defined
+--line 357 of file egbib.bib
+Warning--to sort, need author or key in 42
+Warning--to sort, need author or key in 88
+Warning--to sort, need author, editor, or key in 103
+Warning--empty author and editor in 103
+Warning--empty author in 88
+Warning--empty booktitle in 54
+Warning--empty year in 63
+Warning--empty journal in 145
+Warning--empty publisher in 64
+(There were 11 warnings)
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./2chinesetranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg)) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+Package xeCJK Warning: Fandol is being set as the default font for CJK text.
+(xeCJK)                Please make sure it has been properly installed.
+
+
+Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 67.
+
+(./2chinesetranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 81.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 81.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 83.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [1]
+[2] [3] [4] [5] [6] (./2chinesetranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[]\TU/ptm/m/it/9 Answers research journal, 2008–present.
+
+Underfull \hbox (badness 7595) in paragraph at lines 101--105
+[]\TU/ptm/m/it/9 GetYourGuide.  Canyoning in grand canyon.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][]
+[][][][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+[]\TU/ptm/m/it/9 Junho.  Ecdo kmls.  []$[][][][][] [] [] [] [][][][][][] [] [][
+][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+[][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][
+][][] [] [][][] []
+
+Underfull \hbox (badness 3323) in paragraph at lines 139--144
+[]\TU/ptm/m/it/9 Junho.  Mega-current ripples.  []$[][][][][] [] [] [] [][][][]
+[][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][] [] [][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][
+][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][
+][][][] []
+
+Underfull \hbox (badness 2302) in paragraph at lines 146--149
+[]\TU/ptm/m/it/9 Junho.  Ecdo github research repository, 2024.
+
+Underfull \hbox (badness 2057) in paragraph at lines 163--169
+\TU/ptm/m/it/9 son, M. Finlayson, T. Gumbricht, L. Hilarides,
+
+Underfull \hbox (badness 1735) in paragraph at lines 189--193
+[]\TU/ptm/m/it/9 National Park Service.  Geology - death valley
+
+Underfull \hbox (badness 2591) in paragraph at lines 189--193
+\TU/ptm/m/it/9 national park.  []$[][][][][] [] [] [] [][][] [] [][][] [] [][][
+] [] [][][][] [] [][][][][] []
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 218--225
+[][][][] [] [][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][] [] [][][][]$[]\TU/ptm/m/it/9 ,
+
+Underfull \hbox (badness 3417) in paragraph at lines 218--225
+\TU/ptm/m/it/9 May 2017.  Annotazioni di Rosanna Pellerito.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/ptm/m/it/9 https://theethicalskeptic.com/2024/05/23/master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/ptm/m/it/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 4913) in paragraph at lines 372--375
+[]\TU/ptm/m/it/9 Wikipedia.  Great pyramid of giza.  []$[][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--375
+[] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][][] [] [][][][
+][][][] [] [][] [] [][][][] []
+
+Underfull \hbox (badness 7256) in paragraph at lines 377--380
+[]\TU/ptm/m/it/9 Wikipedia contributors.  Extinction event —
+
+Underfull \hbox (badness 5316) in paragraph at lines 382--385
+[]\TU/ptm/m/it/9 Wikipedia contributors.  4.2-kiloyear event —
+
+Underfull \hbox (badness 5316) in paragraph at lines 387--390
+[]\TU/ptm/m/it/9 Wikipedia contributors.  8.2-kiloyear event —
+
+Underfull \hbox (badness 5417) in paragraph at lines 398--401
+[]\TU/ptm/m/it/9 Wikipedia contributors.  Dolmen de Soto —
+
+Underfull \hbox (badness 2334) in paragraph at lines 408--411
+\TU/ptm/m/it/9 Free Encyclopedia, 2025.  [Online; accessed 9-
+[8]) [9] (./2chinesetranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on 2chinesetranslated.pdf (9 pages).
+Transcript written on 2chinesetranslated.log.
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./2chinesetranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg)) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+Package xeCJK Warning: Fandol is being set as the default font for CJK text.
+(xeCJK)                Please make sure it has been properly installed.
+
+
+Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 67.
+
+(./2chinesetranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 81.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 81.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 83.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [1]
+[2] [3] [4] [5] [6] (./2chinesetranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[]\TU/ptm/m/it/9 Answers research journal, 2008–present.
+
+Underfull \hbox (badness 7595) in paragraph at lines 101--105
+[]\TU/ptm/m/it/9 GetYourGuide.  Canyoning in grand canyon.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][]
+[][][][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+[]\TU/ptm/m/it/9 Junho.  Ecdo kmls.  []$[][][][][] [] [] [] [][][][][][] [] [][
+][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+[][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][
+][][] [] [][][] []
+
+Underfull \hbox (badness 3323) in paragraph at lines 139--144
+[]\TU/ptm/m/it/9 Junho.  Mega-current ripples.  []$[][][][][] [] [] [] [][][][]
+[][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][] [] [][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][
+][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][
+][][][] []
+
+Underfull \hbox (badness 2302) in paragraph at lines 146--149
+[]\TU/ptm/m/it/9 Junho.  Ecdo github research repository, 2024.
+
+Underfull \hbox (badness 2057) in paragraph at lines 163--169
+\TU/ptm/m/it/9 son, M. Finlayson, T. Gumbricht, L. Hilarides,
+
+Underfull \hbox (badness 1735) in paragraph at lines 189--193
+[]\TU/ptm/m/it/9 National Park Service.  Geology - death valley
+
+Underfull \hbox (badness 2591) in paragraph at lines 189--193
+\TU/ptm/m/it/9 national park.  []$[][][][][] [] [] [] [][][] [] [][][] [] [][][
+] [] [][][][] [] [][][][][] []
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 218--225
+[][][][] [] [][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][] [] [][][][]$[]\TU/ptm/m/it/9 ,
+
+Underfull \hbox (badness 3417) in paragraph at lines 218--225
+\TU/ptm/m/it/9 May 2017.  Annotazioni di Rosanna Pellerito.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/ptm/m/it/9 https://theethicalskeptic.com/2024/05/23/master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/ptm/m/it/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 4913) in paragraph at lines 372--375
+[]\TU/ptm/m/it/9 Wikipedia.  Great pyramid of giza.  []$[][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--375
+[] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][][] [] [][][][
+][][][] [] [][] [] [][][][] []
+
+Underfull \hbox (badness 7256) in paragraph at lines 377--380
+[]\TU/ptm/m/it/9 Wikipedia contributors.  Extinction event —
+
+Underfull \hbox (badness 5316) in paragraph at lines 382--385
+[]\TU/ptm/m/it/9 Wikipedia contributors.  4.2-kiloyear event —
+
+Underfull \hbox (badness 5316) in paragraph at lines 387--390
+[]\TU/ptm/m/it/9 Wikipedia contributors.  8.2-kiloyear event —
+
+Underfull \hbox (badness 5417) in paragraph at lines 398--401
+[]\TU/ptm/m/it/9 Wikipedia contributors.  Dolmen de Soto —
+
+Underfull \hbox (badness 2334) in paragraph at lines 408--411
+\TU/ptm/m/it/9 Free Encyclopedia, 2025.  [Online; accessed 9-
+[8]) [9] (./2chinesetranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on 2chinesetranslated.pdf (9 pages).
+Transcript written on 2chinesetranslated.log.

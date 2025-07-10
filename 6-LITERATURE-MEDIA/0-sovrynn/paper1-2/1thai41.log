@@ -1,0 +1,1180 @@
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.27)  28 JUN 2025 02:54
+ restricted system commands enabled.
+**1thai41.tex
+(./1thai41.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "/home/m120938/.texlive2023/texmf-va
+r/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-res
+olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2023-
+08-19.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.133
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/home/m120938/.texlive2023/texmf-va
+r/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (/usr/share/texlive/tex
+mf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /home/m120938/.texlive2023/tex
+mf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen139
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen140
+\lightrulewidth=\dimen141
+\cmidrulewidth=\dimen142
+\belowrulesep=\dimen143
+\belowbottomsep=\dimen144
+\aboverulesep=\dimen145
+\abovetopsep=\dimen146
+\cmidrulesep=\dimen147
+\cmidrulekern=\dimen148
+\defaultaddspace=\dimen149
+\@cmidla=\count193
+\@cmidlb=\count194
+\@aboverulesep=\dimen150
+\@belowrulesep=\dimen151
+\@thisruleclass=\count195
+\@lastruleclass=\count196
+\@thisrulewidth=\dimen152
+)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty
+Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
+ings
+\@dblbotnum=\count197
+\c@dblbotnumber=\count198
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count199
+\float@exts=\toks17
+\float@box=\box51
+\@float@everytoks=\toks18
+\@floatcapt=\box52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+\bbl@readstream=\read2
+\l@dumylang=\language2
+Package babel Info: Non-standard hyphenation setup on input line 118.
+\l@nohyphenation=\language3
+\l@vietnamese=\language4
+\l@hebrew=\language5
+\l@gujarati=\language6
+\l@interlingua=\language7
+\l@ethiopic=\language8
+\l@esperanto=\language9
+\l@churchslavonic=\language10
+\l@serbian=\language11
+\l@coptic=\language12
+\l@mongolian=\language13
+\l@panjabi=\language14
+\l@tamil=\language15
+\l@mongolianlmc=\language16
+\l@indonesian=\language17
+\l@assamese=\language18
+\l@telugu=\language19
+\l@pali=\language20
+\l@sanskrit=\language21
+\l@ukrainian=\language22
+\l@hindi=\language23
+\l@afrikaans=\language24
+\l@georgian=\language25
+\l@thai=\language26
+\l@bulgarian=\language27
+\l@armenian=\language28
+\l@malayalam=\language29
+\l@russian=\language30
+\l@serbianc=\language31
+\l@kannada=\language32
+\l@belarusian=\language33
+\l@marathi=\language34
+\l@turkmen=\language35
+\l@oriya=\language36
+\l@bengali=\language37
+\l@pinyin=\language38
+\babelcatcodetablenum=\catcodetable14
+\bbl@pattcodes=\catcodetable15
+)
+\babel@savecnt=\count266
+\U@D=\dimen153
+\l@unhyphenated=\language39
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+\bbl@attr@locale=\attribute4
+)
+Package babel Info: You haven't specified a language as a class or package
+(babel)             option. I'll load 'nil'. Reported on input line 4342.
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/nil.ldf
+Language: nil 2024/01/07 v24.1 Nil language
+\l@nil=\language40
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/th/babel-thai.tex)
+Package babel Info: Importing data for thai
+(babel)             from babel-th.ini. Reported on input line 13.
+
+(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-th.tex
+UTF-8 Thai hyphenation patterns
+(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-th.tex))R
+eplacing Thai script ranges
+Inserting `Babel.hyphenate' in `hyphenate'.
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/th/babel-thai.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel-ca-buddhist.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-01-22 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2024-01-04 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count267
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box53
+))
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count268
+\l__fontspec_language_int=\count269
+\l__fontspec_strnum_int=\count270
+\l__fontspec_tmp_int=\count271
+\l__fontspec_tmpa_int=\count272
+\l__fontspec_tmpb_int=\count273
+\l__fontspec_tmpc_int=\count274
+\l__fontspec_em_int=\count275
+\l__fontspec_emdef_int=\count276
+\l__fontspec_strong_int=\count277
+\l__fontspec_strongdef_int=\count278
+\l__fontspec_tmpa_dim=\dimen154
+\l__fontspec_tmpb_dim=\dimen155
+\l__fontspec_tmpc_dim=\dimen156
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+luaotfload | cache : Lookup cache loaded from /home/m120938/.texlive2023/texmf-v
+ar/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 19 (nil) defines no feature for script thai with lang
+uage tha
+luaotfload | aux : font no 24 (nil) does not define feature smcp for script thai
+ with language dflt
+luaotfload | aux : font no 25 (nil) does not define feature smcp for script thai
+ with language dflt
+luaotfload | aux : font no 26 (nil) does not define feature smcp for script thai
+ with language dflt
+luaotfload | aux : font no 27 (nil) does not define feature smcp for script thai
+ with language dflt
+
+Package fontspec Info: Font family 'FreeSerif(0)' created for font 'FreeSerif'
+(fontspec)             with options
+(fontspec)             [Ligatures=TeX,Script=Thai,Language=Thai,RawFeature={fam
+ily=rm}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"FreeSerif:mode=node;script=thai;language=dflt;+tlig;
+family=rm;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"FreeSerif/B:mode=node;script=thai;language=dflt;+tli
+g;family=rm;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"FreeSerif/I:mode=node;script=thai;language=dflt;+tli
+g;family=rm;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"FreeSerif/BI:mode=node;script=thai;language=dflt;+tl
+ig;family=rm;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count279
+)
+\MT@toks=\toks20
+\MT@tempbox=\box54
+\MT@count=\count280
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
+LaTeX Info: Redefining \leftprotrusion on input line 1060.
+\MT@prot@toks=\toks21
+LaTeX Info: Redefining \rightprotrusion on input line 1078.
+LaTeX Info: Redefining \textls on input line 1368.
+\MT@outer@kern=\dimen157
+LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
+\MT@listname@count=\count281
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-luatex.def
+File: microtype-luatex.def 2023/03/13 v3.1a Definitions specific to luatex (RS)
+
+Lua module: microtype 2023/03/13 3.1a microtype module.
+Module microtype Info: overwriting function `keepligature' on input line 63
+LaTeX Info: Redefining \lsstyle on input line 688.
+LaTeX Info: Redefining \lslig on input line 688.
+\MT@outer@space=\skip50
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
+)) (./cvpr.sty
+(./eso-pic.sty
+Package: eso-pic 2002/11/16 v1.1b eso-pic (RN)
+ (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+\@ctmp=\skip51
+\@figindent=\skip52
+\cvprrulerbox=\box55
+\cvprrulercount=\count282
+\cvprruleroffset=\dimen158
+\cv@lineheight=\dimen159
+\cv@boxheight=\dimen160
+\cv@tmpbox=\box56
+\cv@refno=\count283
+\cv@tot=\count284
+\cv@tmpc@=\count285
+\cv@tmpc=\count286
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
+)
+\epsfxsize=\dimen163
+\epsfysize=\dimen164
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen165
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen166
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count287
+LaTeX Info: Redefining \frac on input line 236.
+\uproot@=\count288
+\leftroot@=\count289
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count290
+\DOTSCASE@=\count291
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box57
+\strutbox@=\box58
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen167
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count292
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count293
+\dotsspace@=\muskip16
+\c@parentequation=\count294
+\dspbrk@lvl=\count295
+\tag@help=\toks23
+\row@=\count296
+\column@=\count297
+\maxfields@=\count298
+\andhelp@=\toks24
+\eqnshift@=\dimen168
+\alignsep@=\dimen169
+\tagshift@=\dimen170
+\tagwidth@=\dimen171
+\totwidth@=\dimen172
+\lineht@=\dimen173
+\@envbody=\toks25
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks27
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count299
+)
+\@linkdim=\dimen174
+\Hy@linkcounter=\count300
+\Hy@pagecounter=\count301
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count302
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4062.
+Package hyperref Info: Option `bookmarks' set `false' on input line 4062.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4452.
+\c@Hy@tempcnt=\count303
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen175
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count304
+\Field@Width=\dimen176
+\Fld@charsize=\dimen177
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count305
+\c@Item=\count306
+\c@Hfootnote=\count307
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2024-01-20 v7.01h Hyperref driver for luaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count308
+\c@bookmark@seq@number=\count309
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip56
+)
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 42
+.
+LaTeX Font Info:    No file TUptm.fd. on input line 42.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 42.
+
+(./1thai41.aux
+LaTeX Font Info:    Trying to load font information for TU+phv on input line 3.
+
+LaTeX Font Info:    No file TUphv.fd. on input line 3.
+
+
+LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 3.
+
+LaTeX Font Info:    No file TUpcr.fd. on input line 3.
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+
+Package babel Info: The following font families will use the default
+(babel)             settings for all or some languages:
+(babel)             * \sffamily = phv
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             * \ttfamily = pcr
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             There is nothing intrinsically wrong with it, but
+(babel)             'babel' will no set Script and Language, which could
+(babel)             be relevant in some languages. If your document uses
+(babel)             these families, consider redefining them with \babelfont.
+(babel)             Reported on input line 3.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+)
+\openout1 = 1thai41.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
+2.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 42.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 42.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 42.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 42.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 42.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 42.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 42.
+LaTeX Font Info:    Redeclaring math accent \check on input line 42.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 42.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 42.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 42.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 42.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 42.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/FreeSerif(0)/m/n on input line 42.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 42.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/FreeSerif(0)/m/n on input line 42.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/FreeSerif(0)/m/n --> TU/FreeSerif(0)/m/n on input li
+ne 42.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/FreeSerif(0)/m/it on input line 42.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/FreeSerif(0)/b/n on input line 42.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 42.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 42.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/FreeSerif(0)/m/n --> TU/FreeSerif(0)/b/n on input li
+ne 42.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/FreeSerif(0)/b/it on input line 42
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 42.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/b/n on input line 42.
+LaTeX Info: Redefining \microtypecontext on input line 42.
+Package microtype Info: Applying patch `item' on input line 42.
+Package microtype Info: Applying patch `toc' on input line 42.
+Package microtype Info: Applying patch `eqnum' on input line 42.
+Package microtype Info: Applying patch `footnote' on input line 42.
+Package microtype Info: Applying patch `verbatim' on input line 42.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 42.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `FreeSerif' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: luatex.def on input line 149.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count310
+\scratchdimen=\dimen178
+\scratchbox=\box59
+\nofMPsegments=\count311
+\nofMParguments=\count312
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count313
+\MPscratchDim=\dimen179
+\MPnumerator=\count314
+\makeMPintoPDFobject=\count315
+\everyMPtoPDFconversion=\toks29
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring OFF on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `pcr' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+[]\TU/FreeSerif(0)/m/it/10 ใน เดือน พฤษ ภา คม ค.
+ศ. 2024 ผู้ เขียน นิร นาม
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+\TU/FreeSerif(0)/m/it/10 ออน ไลน์ชื่อ ว่า “The Eth
+ical Skeptic” [[]] ได้ แบ่ง
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+\TU/FreeSerif(0)/m/it/10 ปันทฤษ ฎี ใหม่ที่ปฏ
+ิ วัติ ความ คิด ชื่อ ว่า การแย
+กตัวของแกน-
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 57--58
+\TU/FreeSerif(0)/m/it/10 แมนเทิลด้วยปฏิกิร
+ิยาอุณหภูมิสูงร่วมกับการสั
+่นแบบ Dzhanibekov
+ []
+
+<b.png, id=12, 1497.595pt x 1061.9675pt>
+File: b.png Graphic file (type png)
+<use b.png>
+Package luatex.def Info: b.png  used on input line 80.
+(luatex.def)             Requested size: 237.13594pt x 168.152pt.
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+<./b.png>]
+<marine.jpg, id=50, 2393.94376pt x 1243.64626pt>
+File: marine.jpg Graphic file (type jpg)
+<use marine.jpg>
+Package luatex.def Info: marine.jpg  used on input line 111.
+(luatex.def)             Requested size: 496.85625pt x 258.09923pt.
+
+Overfull \hbox (13.9841pt too wide) in paragraph at lines 124--148
+ [] 
+ []
+
+[2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<tibet.jpg, id=86, 1748.03062pt x 1122.44344pt>
+File: tibet.jpg Graphic file (type jpg)
+<use tibet.jpg>
+Package luatex.def Info: tibet.jpg  used on input line 163.
+(luatex.def)             Requested size: 237.13594pt x 152.25978pt.
+ [3<./marine.jpg>]
+<khafre.jpg, id=107, 1057.9525pt x 693.59125pt>
+File: khafre.jpg Graphic file (type jpg)
+<use khafre.jpg>
+Package luatex.def Info: khafre.jpg  used on input line 174.
+(luatex.def)             Requested size: 422.33084pt x 276.88124pt.
+<shafts.jpg, id=122, 1060.96375pt x 701.62125pt>
+File: shafts.jpg Graphic file (type jpg)
+<use shafts.jpg>
+Package luatex.def Info: shafts.jpg  used on input line 203.
+(luatex.def)             Requested size: 422.33084pt x 279.29459pt.
+<drawing.jpg, id=127, 3149.7675pt x 1049.9225pt>
+File: drawing.jpg Graphic file (type jpg)
+<use drawing.jpg>
+Package luatex.def Info: drawing.jpg  used on input line 214.
+(luatex.def)             Requested size: 496.85625pt x 165.60397pt.
+ [4<./tibet.jpg>]
+
+LaTeX Warning: Text page ๕ contains only floats.
+
+
+Overfull \vbox (13.16158pt too high) has occurred while \output is active []
+
+
+
+LaTeX Warning: Text page ๕ contains only floats.
+
+
+Overfull \vbox (13.16158pt too high) has occurred while \output is active []
+
+
+[5<./khafre.jpg><./shafts.jpg>]
+Underfull \hbox (badness 2426) in paragraph at lines 237--239
+[]\TU/FreeSerif(0)/m/n/10 หลัก ฐาน ทาง กาย ภาพ
+ที่ส นับ สนุน ทิศ ทาง การหมุน 
+นี้ ประ
+ []
+
+[6<./drawing.jpg>]
+<laj.jpg, id=189, 983.675pt x 1203.49625pt>
+File: laj.jpg Graphic file (type jpg)
+<use laj.jpg>
+Package luatex.def Info: laj.jpg  used on input line 243.
+(luatex.def)             Requested size: 225.27841pt x 275.60466pt.
+<meinesz3.jpg, id=192, 1284.8pt x 770.88pt>
+File: meinesz3.jpg Graphic file (type jpg)
+<use meinesz3.jpg>
+Package luatex.def Info: meinesz3.jpg  used on input line 253.
+(luatex.def)             Requested size: 237.13594pt x 142.2812pt.
+<biodiversity.jpg, id=194, 1284.8pt x 722.7pt>
+File: biodiversity.jpg Graphic file (type jpg)
+<use biodiversity.jpg>
+Package luatex.def Info: biodiversity.jpg  used on input line 264.
+(luatex.def)             Requested size: 472.01192pt x 265.50911pt.
+<dzhani.jpg, id=203, 3191.925pt x 1047.915pt>
+File: dzhani.jpg Graphic file (type jpg)
+<use dzhani.jpg>
+Package luatex.def Info: dzhani.jpg  used on input line 280.
+(luatex.def)             Requested size: 447.16759pt x 146.80304pt.
+
+Underfull \hbox (badness 4886) in paragraph at lines 288--289
+[]\TU/FreeSerif(0)/m/n/10 เพื่อ ความ แม่น ยํา 
+โลก แทบจะ ไม่ ได้ เกิด ปรา กฏ 
+การณ์
+ []
+
+<layers.jpg, id=211, 1204.5pt x 677.53125pt>
+File: layers.jpg Graphic file (type jpg)
+<use layers.jpg>
+Package luatex.def Info: layers.jpg  used on input line 295.
+(luatex.def)             Requested size: 496.85625pt x 279.48508pt.
+<llvp.jpg, id=213, 1163.34625pt x 915.42pt>
+File: llvp.jpg Graphic file (type jpg)
+<use llvp.jpg>
+Package luatex.def Info: llvp.jpg  used on input line 305.
+(luatex.def)             Requested size: 237.13594pt x 186.60072pt.
+[7<./laj.jpg><./meinesz3.jpg>]
+<saa.jpg, id=237, 1627.07875pt x 636.3775pt>
+File: saa.jpg Graphic file (type jpg)
+<use saa.jpg>
+Package luatex.def Info: saa.jpg  used on input line 325.
+(luatex.def)             Requested size: 447.16759pt x 174.89268pt.
+
+Underfull \vbox (badness 2310) has occurred while \output is active []
+
+ [8<./biodiversity.jpg><./dzhani.jpg>]
+<npw.jpg, id=250, 1539.7525pt x 1924.18875pt>
+File: npw.jpg Graphic file (type jpg)
+<use npw.jpg>
+Package luatex.def Info: npw.jpg  used on input line 334.
+(luatex.def)             Requested size: 237.13594pt x 296.33772pt.
+<ocean-highlight.jpg, id=253, 2135.98pt x 2488.29625pt>
+File: ocean-highlight.jpg Graphic file (type jpg)
+<use ocean-highlight.jpg>
+Package luatex.def Info: ocean-highlight.jpg  used on input line 345.
+(luatex.def)             Requested size: 237.13594pt x 276.21935pt.
+
+Underfull \vbox (badness 3872) has occurred while \output is active []
+
+<saa-crop.jpeg, id=268, 1096.095pt x 715.67375pt>
+File: saa-crop.jpeg Graphic file (type jpg)
+<use saa-crop.jpeg>
+Package luatex.def Info: saa-crop.jpeg  used on input line 362.
+(luatex.def)             Requested size: 237.13594pt x 154.82784pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9<./layers.jpg><./llvp.jpg>] [10<./saa.jpg><./npw.jpg><./ocean-highlight.jpg>] [11<./saa-crop.jpeg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+<wave.jpg, id=359, 754.82pt x 1057.9525pt>
+File: wave.jpg Graphic file (type jpg)
+<use wave.jpg>
+Package luatex.def Info: wave.jpg  used on input line 408.
+(luatex.def)             Requested size: 237.13594pt x 332.36893pt.
+<star-stone.jpg, id=362, 722.7pt x 1116.17pt>
+File: star-stone.jpg Graphic file (type jpg)
+<use star-stone.jpg>
+Package luatex.def Info: star-stone.jpg  used on input line 417.
+(luatex.def)             Requested size: 237.13594pt x 366.24239pt.
+
+Underfull \hbox (badness 3525) in paragraph at lines 419--419
+[]\TU/FreeSerif(0)/m/n/9 รูปที่ ๑๘. []แผนที่ดว
+งดาวที่แกะสลักลงบนหินในปล่
+องหนึ่งของพีระมิดคูฟู
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<deepsea.jpg, id=365, 708.6475pt x 620.3175pt>
+File: deepsea.jpg Graphic file (type jpg)
+<use deepsea.jpg>
+Package luatex.def Info: deepsea.jpg  used on input line 427.
+(luatex.def)             Requested size: 496.85625pt x 434.92918pt.
+<sealevel.jpeg, id=372, 1204.5pt x 1326.9575pt>
+File: sealevel.jpeg Graphic file (type jpg)
+<use sealevel.jpeg>
+Package luatex.def Info: sealevel.jpeg  used on input line 435.
+(luatex.def)             Requested size: 496.85625pt x 547.37672pt.
+<co2.jpg, id=377, 2360.82pt x 1026.83624pt>
+File: co2.jpg Graphic file (type jpg)
+<use co2.jpg>
+Package luatex.def Info: co2.jpg  used on input line 444.
+(luatex.def)             Requested size: 496.85625pt x 216.09634pt.
+<ice.jpg, id=382, 2359.81625pt x 1030.85126pt>
+File: ice.jpg Graphic file (type jpg)
+<use ice.jpg>
+Package luatex.def Info: ice.jpg  used on input line 453.
+(luatex.def)             Requested size: 496.85625pt x 217.03568pt.
+ [13
+
+
+<./wave.jpg><./star-stone.jpg>] [14<./deepsea.jpg>] [15<./sealevel.jpeg>] [16<./
+co2.jpg><./ice.jpg>] (./1thai41.bbl
+Underfull \hbox (badness 2245) in paragraph at lines 4--7
+[]\TU/FreeSerif(0)/m/n/9 Great flood (china).  []$\TU/pcr/m/n/9 https://en.wikip
+edia.org/wiki/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--38
+[]\TU/FreeSerif(0)/m/n/9 D. A. Calvert.  Pyramid of khufu.
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 45--50
+[]\TU/FreeSerif(0)/m/n/9 U. R. Christensen.  Geodynamo models: Tools for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--143
+\TU/FreeSerif(0)/m/n/9 https://www.gi.alaska.edu/alaska-science-forum/mystery-
+ []
+
+
+Underfull \hbox (badness 5331) in paragraph at lines 145--150
+[]\TU/FreeSerif(0)/m/n/9 A. Jackson, A. R. T. Jonkers, and M. R. Walker.
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 145--150
+\TU/FreeSerif(0)/m/n/9 Four centuries of geomagnetic secular variation from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
+\TU/pcr/m/n/9 tree/master/5-[]TOOLS-[]DEV/dev/0-[]completed-[]kmls$[]\TU/FreeSe
+rif(0)/m/n/9 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--175
+[]\TU/FreeSerif(0)/m/n/9 Junho.  Ecdo github research repository, 2024.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+[]\TU/FreeSerif(0)/m/n/9 Junho.  Egypt cataclysm chronology, 2025.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+\TU/FreeSerif(0)/m/n/9 https://github.com/sovrynn/ecdo/tree/master/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--192
+[]\TU/FreeSerif(0)/m/n/9 D. Koutsoyiannis, N. Mamassis, A. Efstratiadis,
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 188--192
+\TU/FreeSerif(0)/m/n/9 N. Zarkadoulas, and Y. Markonis.  \TU/FreeSerif(0)/m/it/
+9 Floods in Greece\TU/FreeSerif(0)/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 194--198
+[]\TU/FreeSerif(0)/m/n/9 C. Laj, C. Kissel, and A. P. Roberts.  Geomagnetic
+ []
+
+
+Underfull \hbox (badness 3396) in paragraph at lines 194--198
+\TU/FreeSerif(0)/m/n/9 field behavior during the iceland basin and laschamp
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 200--205
+\TU/FreeSerif(0)/m/n/9 averaged co2 determined from noaa global monitoring
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 207--213
+\TU/FreeSerif(0)/m/n/9 T. Gumbricht, L. Hilarides, G. Hugelius, R. Jackson,
+ []
+
+[17
+
+
+]
+Underfull \hbox (badness 4441) in paragraph at lines 287--290
+\TU/FreeSerif(0)/m/n/9 International geomagnetic reference field (igrf), 2024.
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 308--315
+[]\TU/FreeSerif(0)/m/n/9 Plato.  \TU/FreeSerif(0)/m/it/9 Timaeus\TU/FreeSerif(0
+)/m/n/9 .  Harvard University Press; William
+ []
+
+
+Underfull \hbox (badness 4242) in paragraph at lines 334--339
+[]\TU/FreeSerif(0)/m/n/9 T. E. Skeptic.  Exothermic core-mantle decoupling
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\TU/FreeSerif(0)/m/n/9 – dzhanibekov oscillation (ecdo) hypothesis, 2024.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\TU/FreeSerif(0)/m/n/9 https://theethicalskeptic.com/2024/05/12/exothermic-core-
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--344
+[]\TU/FreeSerif(0)/m/n/9 T. E. Skeptic.  Hidden in plain sight, 2024.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--344
+\TU/FreeSerif(0)/m/n/9 https://theethicalskeptic.com/2023/12/18/hidden-in-plain-
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--351
+[]\TU/FreeSerif(0)/m/n/9 T. E. Skeptic.  Master exothermic core-mantle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--359
+\TU/FreeSerif(0)/m/n/9 Foundation theory.  []$\TU/pcr/m/n/9 https://github.com/s
+ovrynn/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--359
+\TU/pcr/m/n/9 ecdo/tree/master/0-[]FOUNDATION-[]THEORY/s2#
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 372--376
+[]\TU/FreeSerif(0)/m/n/9 M. Staubwasser and H. Weiss.  Holocene climate and
+ []
+
+[18]) [19
+
+] (./1thai41.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+)
+
+Here is how much of LuaTeX's memory you used:
+ 16540 strings out of 476553
+ 244644,1977958 words of node,token memory allocated
+ 78666 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 6963 disc, 1 local_par, 6 glue, 4 kern, 1 penalty, 
+3 glyph, 486 attribute, 54 glue_spec, 245 attribute_list, 1 write, 12 pdf_action
+ nodes
+   avail lists: 1:3,2:1346,3:696,4:415,5:60,6:89,7:15658,8:76,9:578,10:22,11:110
+
+ 38008 multiletter control sequences out of 65536+600000
+ 89 fonts using 41308223 bytes
+ 80i,9n,91p,8307b,556s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/fonts/truetype/freefont/FreeSerifBoldItalic.ttf></usr/share/fonts/tr
+uetype/freefont/FreeSerifItalic.ttf></usr/share/texmf/fonts/opentype/public/lm/l
+mroman9-regular.otf></usr/share/fonts/truetype/freefont/FreeSerif.ttf></usr/shar
+e/fonts/truetype/freefont/FreeSerifBold.ttf></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on 1thai41.pdf (19 pages, 7438325 bytes).
+
+PDF statistics: 499 PDF objects out of 1000 (max. 8388607)
+ 415 compressed objects within 5 object streams
+ 146 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+

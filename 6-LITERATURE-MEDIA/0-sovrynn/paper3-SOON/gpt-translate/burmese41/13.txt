@@ -1,0 +1,10 @@
+\begin{figure*}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
+\includegraphics[width=0.9\textwidth]{basescrop.png}
+\end{center}
+   \caption{Sauder ၏ သုတေသနအရ မြေအောက်၊ သမုဒ္ဒရာအောက်ရှိ စခန်းများ၊ ထို့အပြင် သမုဒ္ဒရာအောက်လမ်းကြောင်းများမှ အပြည့်အစုံတည်နေရာများကိုပြသသောမြေပုံ။ Sauder သည် \textit{"ဤစာရင်းထက် \textbf{အနည်းဆုံး ထပ်မံ၍} ဆိုဒ်တွေရှိနေသည်ဟု သေချာသည်"} \cite{22}.}
+   \label{fig:4}
+\end{figure*}
+
+ဤစခန်းအချို့၏ အတိုင်းအတာတစ်ချို့ကို အသေးစိတ်ဖော်ပြသည့် Sauder ၏အရင်းအမြစ်များမှ သက်သေခံချက်အချို့မှာ\ :

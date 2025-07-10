@@ -1,0 +1,10 @@
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{illuminati.jpg}
+\end{center}
+   \caption{Йовегийн үр удам гэж яг хэн бэ? (Зураг: \cite{35})}
+\label{fig:10}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure}[t]
+\begin{center}

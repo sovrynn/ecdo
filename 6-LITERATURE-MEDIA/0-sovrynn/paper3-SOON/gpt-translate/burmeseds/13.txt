@@ -1,0 +1,5 @@
+\includegraphics[width=1\linewidth]{freemason.jpg}
+\end{center}
+   \caption{ဗြိတိသျှ ဖရီးမဲဆင်များ ၎င်းတို့၏ သဘာဝအတိုင်း နျူကလီးယားဗုံးများ ချပစ်ကာ ကမ္ဘာ့အာဏာသိမ်းရန် တိတ်တဆိတ် အကြံအစည်များ ရက်စက်နေပုံ - ၁၉၉၂ ခုနှစ်တွင် လန်ဒန်မြို့ရှိ Earls Court တွင် \cite{5}။}
+\label{fig:1}
+\label{fig:onecol}

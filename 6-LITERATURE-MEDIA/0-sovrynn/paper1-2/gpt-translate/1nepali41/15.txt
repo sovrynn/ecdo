@@ -1,0 +1,9 @@
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{tibet.jpg}
+\end{center}
+   \caption{हिमालयको एक स्थलाकृतिक नक्सा जसले नुनिलो पानी (टील), सुक्खा नुन (सेतो), र समुद्री फसिलहरू ( रातो ) देखाउँछ \cite{15,16,86,87}।}
+\label{fig:3}
+\label{fig:onecol}
+\end{figure}

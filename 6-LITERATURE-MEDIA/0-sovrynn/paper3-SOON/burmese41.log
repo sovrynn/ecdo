@@ -1,0 +1,3794 @@
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.27)  27 JUN 2025 21:52
+ restricted system commands enabled.
+**burmese41.tex
+(./burmese41.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "/home/m120938/.texlive2023/texmf-va
+r/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-res
+olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2023-
+08-19.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.133
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/home/m120938/.texlive2023/texmf-va
+r/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (/usr/share/texlive/tex
+mf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /home/m120938/.texlive2023/tex
+mf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen139
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen140
+\lightrulewidth=\dimen141
+\cmidrulewidth=\dimen142
+\belowrulesep=\dimen143
+\belowbottomsep=\dimen144
+\aboverulesep=\dimen145
+\abovetopsep=\dimen146
+\cmidrulesep=\dimen147
+\cmidrulekern=\dimen148
+\defaultaddspace=\dimen149
+\@cmidla=\count193
+\@cmidlb=\count194
+\@aboverulesep=\dimen150
+\@belowrulesep=\dimen151
+\@thisruleclass=\count195
+\@lastruleclass=\count196
+\@thisrulewidth=\dimen152
+)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty
+Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
+ings
+\@dblbotnum=\count197
+\c@dblbotnumber=\count198
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count199
+\float@exts=\toks17
+\float@box=\box51
+\@float@everytoks=\toks18
+\@floatcapt=\box52
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+\bbl@readstream=\read2
+\l@dumylang=\language2
+Package babel Info: Non-standard hyphenation setup on input line 118.
+\l@nohyphenation=\language3
+\l@vietnamese=\language4
+\l@hebrew=\language5
+\l@gujarati=\language6
+\l@interlingua=\language7
+\l@ethiopic=\language8
+\l@esperanto=\language9
+\l@churchslavonic=\language10
+\l@serbian=\language11
+\l@coptic=\language12
+\l@mongolian=\language13
+\l@panjabi=\language14
+\l@tamil=\language15
+\l@mongolianlmc=\language16
+\l@indonesian=\language17
+\l@assamese=\language18
+\l@telugu=\language19
+\l@pali=\language20
+\l@sanskrit=\language21
+\l@ukrainian=\language22
+\l@hindi=\language23
+\l@afrikaans=\language24
+\l@georgian=\language25
+\l@thai=\language26
+\l@bulgarian=\language27
+\l@armenian=\language28
+\l@malayalam=\language29
+\l@russian=\language30
+\l@serbianc=\language31
+\l@kannada=\language32
+\l@belarusian=\language33
+\l@marathi=\language34
+\l@turkmen=\language35
+\l@oriya=\language36
+\l@bengali=\language37
+\l@pinyin=\language38
+\babelcatcodetablenum=\catcodetable14
+\bbl@pattcodes=\catcodetable15
+)
+\babel@savecnt=\count266
+\U@D=\dimen153
+\l@unhyphenated=\language39
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+\bbl@attr@locale=\attribute4
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'british' set to \l@english
+(babel)             (\language0). Reported on input line 82.
+Package babel Info: Hyphen rules for 'UKenglish' set to \l@english
+(babel)             (\language0). Reported on input line 83.
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@english
+(babel)             (\language0). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@english
+(babel)             (\language0). Reported on input line 108.
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/my/babel-burmese.tex)
+Package babel Info: Importing data for burmese
+(babel)             from babel-my.ini. Reported on input line 14.
+Package babel Info: Hyphen rules for 'burmese' set to \l@english
+(babel)             (\language0). Reported on input line 14.
+Inserting `Babel.hyphenate' in `hyphenate'.
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-01-22 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2024-01-04 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count267
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box53
+))
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count268
+\l__fontspec_language_int=\count269
+\l__fontspec_strnum_int=\count270
+\l__fontspec_tmp_int=\count271
+\l__fontspec_tmpa_int=\count272
+\l__fontspec_tmpb_int=\count273
+\l__fontspec_tmpc_int=\count274
+\l__fontspec_em_int=\count275
+\l__fontspec_emdef_int=\count276
+\l__fontspec_strong_int=\count277
+\l__fontspec_strongdef_int=\count278
+\l__fontspec_tmpa_dim=\dimen154
+\l__fontspec_tmpb_dim=\dimen155
+\l__fontspec_tmpc_dim=\dimen156
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+luaotfload | cache : Lookup cache loaded from /home/m120938/.texlive2023/texmf-v
+ar/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 18 (nil) defines no feature for script latn with lang
+uage eng
+
+Package fontspec Info: Font family 'NotoSerif(0)' created for font 'Noto
+(fontspec)             Serif' with options
+(fontspec)             [Ligatures=TeX,Script=Latin,Language=English,RawFeature=
+{family=rm}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"NotoSerif:mode=node;script=latn;language=dflt;+tlig;
+family=rm;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"NotoSerif:mode=node;script=latn;language=dflt;+tlig;
+family=rm;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"NotoSerif/B:mode=node;script=latn;language=dflt;+tli
+g;family=rm;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"NotoSerif/B:mode=node;script=latn;language=dflt;+tli
+g;family=rm;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"NotoSerif/I:mode=node;script=latn;language=dflt;+tli
+g;family=rm;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"NotoSerif/I:mode=node;script=latn;language=dflt;+tli
+g;family=rm;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"NotoSerif/BI:mode=node;script=latn;language=dflt;+tl
+ig;family=rm;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"NotoSerif/BI:mode=node;script=latn;language=dflt;+tl
+ig;family=rm;+smcp;"
+
+luaotfload | aux : font no 29 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 34 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 35 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 36 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 37 (nil) does not define feature smcp for script latn
+ with language dflt
+
+Package fontspec Info: Font family 'Lato(0)' created for font 'Lato' with
+(fontspec)             options
+(fontspec)             [Script=Latin,Language=English,RawFeature={family=alt}].
+
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Lato:mode=node;script=latn;language=dflt;family=alt;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Lato/B:mode=node;script=latn;language=dflt;family=al
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Lato/I:mode=node;script=latn;language=dflt;family=al
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Lato/BI:mode=node;script=latn;language=dflt;family=a
+lt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/lo/babel-lao.tex
+Package babel Info: Importing basic data for lao
+(babel)             from babel-lo.ini. Reported on input line 11.
+)
+Package babel Info: Hyphen rules for 'lao' set to \l@english
+(babel)             (\language0). Reported on input line 27.
+Replacing Laoo script ranges (./cvpr.sty (./eso-pic.sty
+Package: eso-pic 2002/11/16 v1.1b eso-pic (RN)
+ (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+\@ctmp=\skip50
+\@figindent=\skip51
+\cvprrulerbox=\box54
+\cvprrulercount=\count279
+\cvprruleroffset=\dimen157
+\cv@lineheight=\dimen158
+\cv@boxheight=\dimen159
+\cv@tmpbox=\box55
+\cv@refno=\count280
+\cv@tot=\count281
+\cv@tmpc@=\count282
+\cv@tmpc=\count283
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
+)
+\epsfxsize=\dimen162
+\epsfysize=\dimen163
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen164
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen165
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count284
+LaTeX Info: Redefining \frac on input line 236.
+\uproot@=\count285
+\leftroot@=\count286
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count287
+\DOTSCASE@=\count288
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen166
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count289
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count290
+\dotsspace@=\muskip16
+\c@parentequation=\count291
+\dspbrk@lvl=\count292
+\tag@help=\toks21
+\row@=\count293
+\column@=\count294
+\maxfields@=\count295
+\andhelp@=\toks22
+\eqnshift@=\dimen167
+\alignsep@=\dimen168
+\tagshift@=\dimen169
+\tagwidth@=\dimen170
+\totwidth@=\dimen171
+\lineht@=\dimen172
+\@envbody=\toks23
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks25
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count296
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count297
+)
+\@linkdim=\dimen173
+\Hy@linkcounter=\count298
+\Hy@pagecounter=\count299
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count300
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4062.
+Package hyperref Info: Option `bookmarks' set `false' on input line 4062.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4452.
+\c@Hy@tempcnt=\count301
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen174
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count302
+\Field@Width=\dimen175
+\Fld@charsize=\dimen176
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count303
+\c@Item=\count304
+\c@Hfootnote=\count305
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2024-01-20 v7.01h Hyperref driver for luaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count306
+\c@bookmark@seq@number=\count307
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip55
+)
+luaotfload | aux : font no 44 (nil) defines no feature for script mym2 with lang
+uage brm
+
+Package fontspec Info: Could not resolve font "Padauk/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "Padauk/I" (it probably doesn't
+(fontspec)             exist).
+
+luaotfload | aux : font no 47 (nil) does not define feature smcp for script mym2
+ with language dflt
+luaotfload | aux : font no 48 (nil) does not define feature smcp for script mym2
+ with language dflt
+
+Package fontspec Info: Font family 'Padauk(0)' created for font 'Padauk' with
+(fontspec)             options
+(fontspec)             [Ligatures=TeX,Script=Myanmar,Language=Burmese,RawFeatur
+e={family=rm}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Padauk:mode=node;script=mym2;language=dflt;+tlig;fam
+ily=rm;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Padauk/B:mode=node;script=mym2;language=dflt;+tlig;f
+amily=rm;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+luaotfload | aux : font no 44 (nil) defines no feature for script mym2 with lang
+uage brm
+
+Package fontspec Info: Could not resolve font "Padauk/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "Padauk/I" (it probably doesn't
+(fontspec)             exist).
+
+luaotfload | aux : font no 47 (nil) does not define feature smcp for script mym2
+ with language dflt
+luaotfload | aux : font no 48 (nil) does not define feature smcp for script mym2
+ with language dflt
+
+Package fontspec Info: Font family 'Padauk(1)' created for font 'Padauk' with
+(fontspec)             options
+(fontspec)             [Ligatures=TeX,Script=Myanmar,Language=Burmese,RawFeatur
+e={family=sf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Padauk:mode=node;script=mym2;language=dflt;+tlig;fam
+ily=sf;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Padauk/B:mode=node;script=mym2;language=dflt;+tlig;f
+amily=sf;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+luaotfload | aux : font no 29 (nil) defines no feature for script mym2
+luaotfload | aux : font no 29 (nil) defines no feature for script mymr
+luaotfload | aux : font no 29 (nil) defines no feature for script latn with lang
+uage brm
+luaotfload | aux : font no 34 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 35 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 36 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 37 (nil) does not define feature smcp for script latn
+ with language dflt
+
+Package fontspec Info: Font family 'Lato(1)' created for font 'Lato' with
+(fontspec)             options
+(fontspec)             [Script=Myanmar,Language=Burmese,RawFeature={family=alt}
+].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Lato:mode=node;script=latn;language=dflt;family=alt;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Lato/B:mode=node;script=latn;language=dflt;family=al
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Lato/I:mode=node;script=latn;language=dflt;family=al
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Lato/BI:mode=node;script=latn;language=dflt;family=a
+lt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+
+Package babel Info: The current font is not a babel standard family:
+(babel)             NotoSerif:mode=node;script=latn;language=dflt;+tlig;family=
+rm;
+(babel)             There is nothing intrinsically wrong with this warning, and
+
+(babel)             you can ignore it altogether if you do not need these
+(babel)             families. But if they are used in the document, you should 
+be
+(babel)             aware 'babel' will not set Script and Language for them, so
+
+(babel)             you may consider defining a new family with \babelfont.
+(babel)             See the manual for further details about \babelfont.
+(babel)             Reported on input line 61.
+
+Package babel Info: New pattern: 1က on input line 1.
+Package babel Info: New pattern: 1ခ on input line 2.
+Package babel Info: New pattern: 1ဂ on input line 3.
+Package babel Info: New pattern: 1ဃ on input line 4.
+Package babel Info: New pattern: 1င on input line 5.
+Package babel Info: New pattern: 1စ on input line 6.
+Package babel Info: New pattern: 1ဆ on input line 7.
+Package babel Info: New pattern: 1ဇ on input line 8.
+Package babel Info: New pattern: 1ဈ on input line 9.
+Package babel Info: New pattern: 1ဉ on input line 10.
+Package babel Info: New pattern: 1ည on input line 11.
+Package babel Info: New pattern: 1ဋ on input line 12.
+Package babel Info: New pattern: 1ဌ on input line 13.
+Package babel Info: New pattern: 1ဍ on input line 14.
+Package babel Info: New pattern: 1ဎ on input line 15.
+Package babel Info: New pattern: 1ဏ on input line 16.
+Package babel Info: New pattern: 1တ on input line 17.
+Package babel Info: New pattern: 1ထ on input line 18.
+Package babel Info: New pattern: 1ဒ on input line 19.
+Package babel Info: New pattern: 1ဓ on input line 20.
+Package babel Info: New pattern: 1န on input line 21.
+Package babel Info: New pattern: 1ပ on input line 22.
+Package babel Info: New pattern: 1ဖ on input line 23.
+Package babel Info: New pattern: 1ဗ on input line 24.
+Package babel Info: New pattern: 1ဘ on input line 25.
+Package babel Info: New pattern: 1မ on input line 26.
+Package babel Info: New pattern: 1ယ on input line 27.
+Package babel Info: New pattern: 1ရ on input line 28.
+Package babel Info: New pattern: 1လ on input line 29.
+Package babel Info: New pattern: 1ဝ on input line 30.
+Package babel Info: New pattern: 1သ on input line 31.
+Package babel Info: New pattern: 1ဟ on input line 32.
+Package babel Info: New pattern: 1ဢ on input line 33.
+Package babel Info: New pattern: 1ါ on input line 34.
+Package babel Info: New pattern: 1ာ on input line 35.
+Package babel Info: New pattern: 1ိ on input line 36.
+Package babel Info: New pattern: 1ီ on input line 37.
+Package babel Info: New pattern: 1ု on input line 38.
+Package babel Info: New pattern: 1ူ on input line 39.
+Package babel Info: New pattern: 1ေ on input line 40.
+Package babel Info: New pattern: 1ဲ on input line 41.
+Package babel Info: New pattern: 1ဲ on input line 42.
+Package babel Info: New pattern: 1ျ on input line 43.
+Package babel Info: New pattern: 1ြ on input line 44.
+Package babel Info: New pattern: 1ွ on input line 45.
+Package babel Info: New pattern: 1ှ on input line 46.
+Package babel Info: New pattern: 1္ on input line 47.
+Package babel Info: New pattern: 1့ on input line 48.
+Package babel Info: New pattern: 1း on input line 49.
+Package babel Info: New pattern: 1ံ on input line 50.
+Package babel Info: New pattern: 1် on input line 51.
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 61
+.
+LaTeX Font Info:    No file TUptm.fd. on input line 61.
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 61.
+
+(./burmese41.aux
+LaTeX Font Info:    Trying to load font information for TU+phv on input line 3.
+
+LaTeX Font Info:    No file TUphv.fd. on input line 3.
+
+
+LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 3.
+
+LaTeX Font Info:    No file TUpcr.fd. on input line 3.
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+
+Package babel Info: The following font families will use the default
+(babel)             settings for all or some languages:
+(babel)             * \sffamily = phv
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             * \ttfamily = pcr
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             There is nothing intrinsically wrong with it, but
+(babel)             'babel' will no set Script and Language, which could
+(babel)             be relevant in some languages. If your document uses
+(babel)             these families, consider redefining them with \babelfont.
+(babel)             Reported on input line 3.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+)
+\openout1 = burmese41.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
+1.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 61.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 61.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 61.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 61.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 61.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 61.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 61.
+LaTeX Font Info:    Redeclaring math accent \check on input line 61.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 61.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 61.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 61.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 61.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 61.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/NotoSerif(0)/m/n on input line 61.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 61.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/NotoSerif(0)/m/n on input line 61.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/NotoSerif(0)/m/n --> TU/NotoSerif(0)/m/n on input li
+ne 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/NotoSerif(0)/m/it on input line 61.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/NotoSerif(0)/b/n on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 61.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/NotoSerif(0)/m/n --> TU/NotoSerif(0)/b/n on input li
+ne 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/NotoSerif(0)/b/it on input line 61
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/b/n on input line 61.
+
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: luatex.def on input line 149.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count308
+\scratchdimen=\dimen177
+\scratchbox=\box58
+\nofMPsegments=\count309
+\nofMParguments=\count310
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count311
+\MPscratchDim=\dimen178
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
+\everyMPtoPDFconversion=\toks27
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring OFF on input line 61.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 75.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 75.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Font Warning: Font shape `TU/Padauk(0)/m/it' undefined
+(Font)              using `TU/Padauk(0)/m/n' instead on input line 76.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+\TU/NotoSerif(0)/m/it/10 известный как “The Eth-i-cal Skep-tic
+” [[]],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+\TU/NotoSerif(0)/m/it/10 представил революционную те
+орию под
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+\TU/NotoSerif(0)/m/it/10 названием ”Экзотермическое 
+отсоединение
+ []
+
+
+Underfull \hbox (badness 4518) in paragraph at lines 77--78
+\TU/NotoSerif(0)/m/it/10 ядра и мантии — колебание Дж
+анибекова
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+\TU/NotoSerif(0)/m/it/10 Земля ранее уже переживала в
+незапные,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+\TU/NotoSerif(0)/m/it/10 поскольку океаны переливали
+сь через
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+\TU/NotoSerif(0)/m/it/10 того, она описывает объяснит
+ельный
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 77--78
+\TU/NotoSerif(0)/m/it/10 произойти в ближайшем будуще
+м. Хотя
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+\TU/NotoSerif(0)/m/it/10 подобные катастрофические п
+рогнозы о
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+\TU/NotoSerif(0)/m/it/10 потопах и конце света не новы, 
+теория
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+\TU/NotoSerif(0)/m/it/10 мультидисциплинарной и осно
+ванной на
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 79--80
+[]\TU/NotoSerif(0)/m/it/10 Эта статья — моя третья раб
+ота [[],
+ []
+
+
+Underfull \hbox (badness 3547) in paragraph at lines 79--80
+[]\TU/NotoSerif(0)/m/it/10 ] на эту тему, и она сосредот
+очена на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+[]\TU/NotoSerif(0)/m/it/10 Данная статья документируе
+т
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+\TU/NotoSerif(0)/m/it/10 масштабные приготовления, ко
+торые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+\TU/NotoSerif(0)/m/it/10 геофизической катастрофы, ко
+торую они
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+[]\TU/NotoSerif(0)/m/n/10 В январе 2010 года Project Camelot,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+\TU/NotoSerif(0)/m/n/10 альтернативная медиа- и журна
+листская
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+\TU/NotoSerif(0)/m/n/10 организация, собирающая свид
+етельства
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 92--93
+\TU/NotoSerif(0)/m/n/10 информаторов, взяла интервью [[], []] 
+у
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 92--93
+\TU/NotoSerif(0)/m/n/10 встрече Старших масонов в Сит
+и Лондона
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+\TU/NotoSerif(0)/m/n/10 в июне 2005 года. Темами обсужде
+ния
+ []
+
+
+Underfull \hbox (badness 3189) in paragraph at lines 92--93
+\TU/NotoSerif(0)/m/n/10 на встрече были военные и пол
+итические
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+\TU/NotoSerif(0)/b/n/10 ”геофизического события”\TU/No
+toSerif(0)/m/n/10 , то есть
+ []
+
+<freemason.jpg, id=12, 1606.0pt x 1109.14375pt>
+File: freemason.jpg Graphic file (type jpg)
+<use freemason.jpg>
+Package luatex.def Info: freemason.jpg  used on input line 97.
+(luatex.def)             Requested size: 237.13594pt x 163.75806pt.
+<british.jpg, id=15, 1204.5pt x 604.2575pt>
+File: british.jpg Graphic file (type jpg)
+<use british.jpg>
+Package luatex.def Info: british.jpg  used on input line 107.
+(luatex.def)             Requested size: 496.85625pt x 249.2593pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+[]\TU/NotoSerif(0)/m/n/10 По словам инсайдера, на собр
+ании
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\TU/NotoSerif(0)/m/n/10 присутствовали 25-30 человек, \TU/
+NotoSerif(0)/m/it/10 ”...все
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\TU/NotoSerif(0)/m/it/10 британцы, и некоторые из них 
+— это
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 113--114
+\TU/NotoSerif(0)/m/it/10 очень известные личности, ко
+торых люди
+ []
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 113--114
+\TU/NotoSerif(0)/m/it/10 в Соединённом Королевстве ср
+азу узнают...
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\TU/NotoSerif(0)/m/it/10 там есть немного аристократи
+и, и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\TU/NotoSerif(0)/m/it/10 некоторые из них происходят 
+из весьма
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\TU/NotoSerif(0)/m/it/10 аристократических семей. Одн
+ого из
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 113--114
+\TU/NotoSerif(0)/m/it/10 были старшими представителя
+ми полиции,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\TU/NotoSerif(0)/m/it/10 на национальном уровне и оба 
+являются
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\TU/NotoSerif(0)/m/it/10 ключевыми фигурами в консуль
+тировании
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\TU/NotoSerif(0)/m/it/10 нынешнего правительства — н
+а данный
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 113--114
+\TU/NotoSerif(0)/m/it/10 момент” \TU/NotoSerif(0)/m/n/10 [[]]. Инс
+айдер говорит, что он
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 113--114
+\TU/NotoSerif(0)/m/it/10 Я думал, что это обычная трёх
+месячная
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+[]\TU/NotoSerif(0)/m/n/10 Основная последовательност
+ь событий,
+ []
+
+
+Underfull \hbox (badness 4156) in paragraph at lines 115--116
+\TU/NotoSerif(0)/m/n/10 обсуждавшихся на собрании (в 200
+5 году),
+ []
+
+
+LaTeX Font Warning: Font shape `TU/Padauk(0)/b/it' undefined
+(Font)              using `TU/Padauk(0)/b/n' instead on input line 125.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\TU/NotoSerif(0)/m/it/10 в эту войну, а затем... произой
+дёт
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 125--126
+\TU/NotoSerif(0)/m/it/10 геофизическое событие на Зем
+ле, которое
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 125--126
+\TU/NotoSerif(0)/b/it/10 и это вызовет грандиозные по
+трясения,
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 125--126
+\TU/NotoSerif(0)/b/it/10 последствия которых будут ощ
+ущаться
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 произойдёт это геофизическо
+е событие, то
+ []
+
+
+Underfull \hbox (badness 3568) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 оставшихся, по всей вероятно
+сти, станет
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 население в новую эпоху. То е
+сть речь
+ []
+
+
+Underfull \hbox (badness 7468) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 идёт о времени после катастр
+офического
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 события. Кто будет главным? К
+то
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 будет контролировать? Вот в ч
+ём дело.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 Именно поэтому им так важно, 
+чтобы
+ []
+
+
+Underfull \hbox (badness 4940) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 всё это произошло в определё
+нные сроки...
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 Необходима структура, котора
+я будет
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 уверенностью, что она выживе
+т в том,
+ []
+
+
+Underfull \hbox (badness 5260) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 что грядёт — чтобы на следую
+щий день
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 у власти и сохранить ту власт
+ь, которую
+ []
+
+
+Underfull \hbox (badness 4886) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 имели прежде” \TU/NotoSerif(0)/m/n/10 [[]
+]. Во время интервью
+ []
+
+
+Underfull \hbox (badness 7796) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/n/10 также обсуждалось название э
+того плана,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/n/10 ”Англосаксонская миссия”: \TU/
+NotoSerif(0)/m/it/10 [Интервьюер]:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 ”...причина, по которой это на
+зывается
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 чтобы после катастрофы и тог
+о, когда
+ []
+
+
+Underfull \hbox (badness 5578) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 ”Верно это или нет — я, честн
+о говоря,
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 не знаю, но я бы с вами соглас
+ился. Как
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/n/10 сроков ожидаемого геофизичес
+кого события
+ []
+
+
+Underfull \hbox (badness 4291) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 думаю, у них есть хорошее пре
+дставление
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 о том, когда это произойдёт... \
+TU/NotoSerif(0)/b/it/10 У меня
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 127--129
+\TU/NotoSerif(0)/b/it/10 есть очень сильное ощущение, 
+что это
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 127--129
+\TU/NotoSerif(0)/b/it/10 произойдёт при моей жизни, ск
+ажем, в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 период, когда это геофизичес
+кое событие
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 а оно происходит примерно ка
+ждые 11 500
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 что это произойдёт... Снова, э
+то одна из
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 127--129
+\TU/NotoSerif(0)/m/it/10 они этого не знали. Я хочу ска
+зать, что
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2<./freemason.jpg>]
+Underfull \hbox (badness 2799) in paragraph at lines 130--131
+\TU/NotoSerif(0)/m/n/10 автор также обсуждает свою уб
+еждённость
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+\TU/NotoSerif(0)/m/n/10 были спровоцированными, и что 
+миссия
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+\TU/NotoSerif(0)/m/n/10 на многие, многие поколения н
+азад. С
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+\TU/NotoSerif(0)/m/n/10 момента интервью, которое сос
+тоялось в
+ []
+
+
+Underfull \hbox (badness 3386) in paragraph at lines 130--131
+\TU/NotoSerif(0)/m/n/10 2010 году, прошло уже 15 лет. До к
+онца
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+[]\TU/NotoSerif(0)/m/n/10 Западные знания о повторяющ
+ихся
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/n/10 катаклизмах хорошо сохраняли
+сь, и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/n/10 не только у масонов. Друиды, х
+орошо
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/n/10 задокументированная древняя 
+кельтская
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/n/10 катастрофах на Земле. Считает
+ся, что
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/n/10 последний известный друид — 
+это Бен
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/n/10 МакБрэйди. В документальном ф
+ильме
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/n/10 ”Последний друид” 1992 года он 
+делился
+ []
+
+
+Underfull \hbox (badness 4621) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/n/10 информацией о знаниях друидо
+в: \TU/NotoSerif(0)/m/it/10 ”Орден,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 последним членом которого по 
+традиции
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 катаклизма или катастрофы, з
+атронувшей
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 ударов по Земле — сильных эл
+ектрических
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 бурь, попадания в хвосты мете
+оров или
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 метеоритных дождей — цивили
+зация,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 какой мы её знали, была полно
+стью
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 уничтожена... Все знания соби
+рались в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 ордене, но особенно они забот
+ились об
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 астрономии, потому что переж
+или так
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 что полное знание астрономии 
+позволит
+ []
+
+
+Underfull \hbox (badness 2970) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 им предсказать условия, при к
+оторых эти
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 бедствия могут произойти, и п
+редпринять
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 какие-то действия для собств
+енной
+ []
+
+
+Underfull \hbox (badness 2237) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 защиты. Если вы посмотрите на 
+великие
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 мегалитические комплексы в И
+рландии, вы
+ []
+
+
+Underfull \hbox (badness 4024) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 увидите, что так называемые к
+оридорные
+ []
+
+
+Underfull \hbox (badness 8056) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 гробницы на самом деле являю
+тся очень
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 примитивными бомбоубежищами. 
+Они
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\TU/NotoSerif(0)/m/it/10 расположены значительно выш
+е любого
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3
+Missing character: There is no Д (U+0414) in font ptmb!
+Missing character: There is no р (U+0440) in font ptmb!
+Missing character: There is no у (U+0443) in font ptmb!
+Missing character: There is no и (U+0438) in font ptmb!
+Missing character: There is no д (U+0434) in font ptmb!
+Missing character: There is no и (U+0438) in font ptmb!
+Missing character: There is no ч (U+0447) in font ptmb!
+Missing character: There is no е (U+0435) in font ptmb!
+Missing character: There is no с (U+0441) in font ptmb!
+Missing character: There is no к (U+043A) in font ptmb!
+Missing character: There is no и (U+0438) in font ptmb!
+Missing character: There is no е (U+0435) in font ptmb!
+Missing character: There is no э (U+044D) in font ptmb!
+Missing character: There is no з (U+0437) in font ptmb!
+Missing character: There is no о (U+043E) in font ptmb!
+Missing character: There is no т (U+0442) in font ptmb!
+Missing character: There is no е (U+0435) in font ptmb!
+Missing character: There is no р (U+0440) in font ptmb!
+Missing character: There is no и (U+0438) in font ptmb!
+Missing character: There is no ч (U+0447) in font ptmb!
+Missing character: There is no е (U+0435) in font ptmb!
+Missing character: There is no с (U+0441) in font ptmb!
+Missing character: There is no к (U+043A) in font ptmb!
+Missing character: There is no и (U+0438) in font ptmb!
+Missing character: There is no е (U+0435) in font ptmb!
+Missing character: There is no з (U+0437) in font ptmb!
+Missing character: There is no а (U+0430) in font ptmb!
+Missing character: There is no п (U+043F) in font ptmb!
+Missing character: There is no а (U+0430) in font ptmb!
+Missing character: There is no д (U+0434) in font ptmb!
+Missing character: There is no н (U+043D) in font ptmb!
+Missing character: There is no ы (U+044B) in font ptmb!
+Missing character: There is no е (U+0435) in font ptmb!
+Missing character: There is no з (U+0437) in font ptmb!
+Missing character: There is no н (U+043D) in font ptmb!
+Missing character: There is no а (U+0430) in font ptmb!
+Missing character: There is no н (U+043D) in font ptmb!
+Missing character: There is no и (U+0438) in font ptmb!
+Missing character: There is no я (U+044F) in font ptmb!
+Missing character: There is no о (U+043E) in font ptmb!
+Missing character: There is no к (U+043A) in font ptmb!
+Missing character: There is no а (U+0430) in font ptmb!
+Missing character: There is no т (U+0442) in font ptmb!
+Missing character: There is no а (U+0430) in font ptmb!
+Missing character: There is no к (U+043A) in font ptmb!
+Missing character: There is no л (U+043B) in font ptmb!
+Missing character: There is no и (U+0438) in font ptmb!
+Missing character: There is no з (U+0437) in font ptmb!
+Missing character: There is no м (U+043C) in font ptmb!
+Missing character: There is no а (U+0430) in font ptmb!
+Missing character: There is no х (U+0445) in font ptmb!
+<./british.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[] \TU/NotoSerif(0)/b/n/12 . Доказательства современно
+й
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+\TU/NotoSerif(0)/b/n/12 западной подготовки к
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+[]\TU/NotoSerif(0)/m/n/10 Учитывая, что управляющие за
+падные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 геофизический катаклизм неиз
+бежен,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 мы бы ожидали, что будут предп
+риняты
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 значительные меры для защиты 
+себя
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 от такого события. И действит
+ельно,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 существуют подтверждённые фа
+кты
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 о широкомасштабных сетях глу
+боких
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 подземных баз в разных западн
+ых странах.
+ []
+
+
+Underfull \hbox (badness 3568) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 Хотя такие сооружения, безусл
+овно, могли
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 бы защитить жителей в условия
+х ядерной
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 от различных видов стихийных 
+бедствий.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 Учитывая свидетельство брита
+нского
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 кажется, что эти сценарии — н
+е просто
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 Также стоит отметить огромны
+е суммы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 денег, необходимые для строит
+ельства,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 обслуживания и обеспечения п
+ерсоналом
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 18 лет из бюджета правительств
+а США (см.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 следующий раздел) [[], [], []]. Дру
+гие
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 примеры подготовки к события
+м уровня
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 вымирания включают различные 
+архивные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\TU/NotoSerif(0)/m/n/10 проекты, такие как хранилища 
+семян и
+ []
+
+
+Underfull \hbox (badness 4713) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 это работа Ричарда Саудера, н
+езависимого
+ []
+
+
+Underfull \hbox (badness 4505) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 американского исследователя, 
+написавшего
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 несколько книг о глубоких под
+земных
+ []
+
+
+Underfull \hbox (badness 3579) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 базах [[]]. Работа Саудера закл
+ючается в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 сборе правительственных доку
+ментов и
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 планов, изучении новостей и т
+ехнологий
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 прошлого и настоящего, налажи
+вании
+ []
+
+
+Underfull \hbox (badness 5893) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 связей с информаторами и сопо
+ставлении
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 инсайдерских свидетельств. И
+сследования
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 сеть глубоких подземных и под
+водных баз
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 в Америке и её окрестностях (с
+м. Рисунок
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+[]\TU/NotoSerif(0)/m/n/10 4[]), достигающих потенциальн
+ой глубины
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 между собой подземными вакуу
+мными
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 скоростными поездами на магн
+итной
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 подушке. Эти базы тайно финан
+сируются
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 через \TU/NotoSerif(0)/m/it/10 ”многоур
+овневую финансовую,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/it/10 международную, межведомстве
+нную
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/it/10 отмывочную схему”\TU/NotoSerif(0)/m/n
+/10 , управляемую теми же
+ []
+
+
+Underfull \hbox (badness 7981) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 людьми, которым принадлежит к
+омпания
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 Соединённых Штатов Америки [[]].
+
+ []
+
+
+Underfull \hbox (badness 3547) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 Остин Фиттс (её работа рассма
+тривается в
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 144--145
+\TU/NotoSerif(0)/m/n/10 следующем разделе) и одним из 
+её коллег,
+ []
+
+<penta.jpg, id=78, 1204.5pt x 677.53125pt>
+File: penta.jpg Graphic file (type jpg)
+<use penta.jpg>
+Package luatex.def Info: penta.jpg  used on input line 150.
+(luatex.def)             Requested size: 237.13594pt x 133.38449pt.
+
+Underfull \hbox (badness 3138) in paragraph at lines 152--152
+[]\TU/NotoSerif(0)/m/n/9 Fig-ure 3. []Что же на самом деле н
+аходится под
+ []
+
+<basescrop.png, id=81, 2349.77875pt x 1203.49625pt>
+File: basescrop.png Graphic file (type png)
+<use basescrop.png>
+Package luatex.def Info: basescrop.png  used on input line 161.
+(luatex.def)             Requested size: 447.16759pt x 229.01558pt.
+
+Underfull \hbox (badness 3568) in paragraph at lines 163--163
+[]\TU/NotoSerif(0)/m/n/9 Fig-ure 4. []Карта, показывающая т
+очные места, где, согласно исследованиям С
+аудера, с наибольшей
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+[]\TU/NotoSerif(0)/m/n/10 Вот некоторые отрывки свиде
+тельств
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+\TU/NotoSerif(0)/m/n/10 источников Саудера, которые о
+писывают
+ []
+
+[4
+Missing character: There is no А (U+0410) in font ptmb!
+Missing character: There is no м (U+043C) in font ptmb!
+Missing character: There is no е (U+0435) in font ptmb!
+Missing character: There is no р (U+0440) in font ptmb!
+Missing character: There is no и (U+0438) in font ptmb!
+Missing character: There is no к (U+043A) in font ptmb!
+Missing character: There is no а (U+0430) in font ptmb!
+Missing character: There is no н (U+043D) in font ptmb!
+Missing character: There is no с (U+0441) in font ptmb!
+Missing character: There is no к (U+043A) in font ptmb!
+Missing character: There is no и (U+0438) in font ptmb!
+Missing character: There is no е (U+0435) in font ptmb!
+Missing character: There is no п (U+043F) in font ptmb!
+Missing character: There is no о (U+043E) in font ptmb!
+Missing character: There is no д (U+0434) in font ptmb!
+Missing character: There is no з (U+0437) in font ptmb!
+Missing character: There is no е (U+0435) in font ptmb!
+Missing character: There is no м (U+043C) in font ptmb!
+Missing character: There is no н (U+043D) in font ptmb!
+Missing character: There is no ы (U+044B) in font ptmb!
+Missing character: There is no е (U+0435) in font ptmb!
+Missing character: There is no и (U+0438) in font ptmb!
+Missing character: There is no п (U+043F) in font ptmb!
+Missing character: There is no о (U+043E) in font ptmb!
+Missing character: There is no д (U+0434) in font ptmb!
+Missing character: There is no в (U+0432) in font ptmb!
+Missing character: There is no о (U+043E) in font ptmb!
+Missing character: There is no д (U+0434) in font ptmb!
+Missing character: There is no н (U+043D) in font ptmb!
+Missing character: There is no ы (U+044B) in font ptmb!
+Missing character: There is no е (U+0435) in font ptmb!
+Missing character: There is no б (U+0431) in font ptmb!
+Missing character: There is no а (U+0430) in font ptmb!
+Missing character: There is no з (U+0437) in font ptmb!
+Missing character: There is no ы (U+044B) in font ptmb!
+<./penta.jpg>]
+<undersea.jpg, id=108, 691.83469pt x 484.05844pt>
+File: undersea.jpg Graphic file (type jpg)
+<use undersea.jpg>
+Package luatex.def Info: undersea.jpg  used on input line 179.
+(luatex.def)             Requested size: 237.13594pt x 165.91458pt.
+
+Underfull \hbox (badness 1436) in paragraph at lines 181--181
+\TU/NotoSerif(0)/m/n/9 из источников Саудера сообщае
+т, что на Чайна-
+ []
+
+<sub.jpg, id=115, 718.18312pt x 493.0922pt>
+File: sub.jpg Graphic file (type jpg)
+<use sub.jpg>
+Package luatex.def Info: sub.jpg  used on input line 190.
+(luatex.def)             Requested size: 237.13594pt x 162.8112pt.
+
+Underfull \hbox (badness 4108) in paragraph at lines 192--192
+[]\TU/NotoSerif(0)/m/n/9 Fig-ure 6. []Иллюстрация подводно
+го туннеля для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--196
+[]\TU/NotoSerif(0)/m/n/10 Саудер также получил свидет
+ельства о
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 186--196
+\TU/NotoSerif(0)/m/n/10 подземных поездах на магнитн
+ой подвеске,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--196
+\TU/NotoSerif(0)/m/n/10 достигающих скорости 3200 км/ч, 
+базах,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--196
+\TU/NotoSerif(0)/m/n/10 построенных под дном океана (
+рисунок
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 186--196
+[]\TU/NotoSerif(0)/m/n/10 5[]), и подводных туннелях для 
+подводных
+ []
+
+
+Underfull \hbox (badness 4647) in paragraph at lines 186--196
+\TU/NotoSerif(0)/m/n/10 лодок, ведущих вглубь суши. По 
+поводу
+ []
+
+
+Underfull \hbox (badness 7186) in paragraph at lines 186--196
+\TU/NotoSerif(0)/m/n/10 одного из свидетельств о подв
+одной базе
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--196
+\TU/NotoSerif(0)/m/n/10 в Мексиканском заливе Саудер 
+говорит:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--196
+\TU/NotoSerif(0)/m/it/10 ”Около полугода после публи
+кации книги
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 186--196
+\TU/NotoSerif(0)/m/it/10 об одном необычном подводном 
+проекте...
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--196
+\TU/NotoSerif(0)/m/it/10 он уточнил, что проект находи
+тся под
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 186--196
+\TU/NotoSerif(0)/m/it/10 морским дном Мексиканского з
+алива и что
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 186--196
+\TU/NotoSerif(0)/m/it/10 подрядчиком была компания Par-so
+ns. Он
+ []
+
+
+Underfull \hbox (badness 3396) in paragraph at lines 186--196
+\TU/NotoSerif(0)/m/it/10 сказал, что Par-sons приобрела сп
+ециальное
+ []
+
+
+Underfull \hbox (badness 4660) in paragraph at lines 186--196
+\TU/NotoSerif(0)/m/it/10 оборудование, предназначенн
+ое для работы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--196
+\TU/NotoSerif(0)/m/it/10 явно подразумевает присутст
+вие живых
+ []
+
+[5<./basescrop.png><./undersea.jpg>]
+<iran.jpeg, id=129, 1183.42125pt x 573.14125pt>
+File: iran.jpeg Graphic file (type jpg)
+<use iran.jpeg>
+Package luatex.def Info: iran.jpeg  used on input line 200.
+(luatex.def)             Requested size: 237.13594pt x 114.84485pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
+\TU/NotoSerif(0)/m/n/9 демонстрирующего их подземны
+й ”ракетный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/NotoSerif(0)/m/n/10 секретная трансконтиненталь
+ная сеть из
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/NotoSerif(0)/m/n/10 более чем 170 подземных и подво
+дных
+ []
+
+
+Underfull \hbox (badness 4492) in paragraph at lines 208--209
+\TU/NotoSerif(0)/m/n/10 баз, выкопанных на глубины в н
+есколько
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 208--209
+\TU/NotoSerif(0)/m/n/10 миль под поверхностью у нас п
+од ногами,
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 208--209
+\TU/NotoSerif(0)/m/n/10 соединённых между собой гипе
+рзвуковыми
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/NotoSerif(0)/m/n/10 магнитолевитационными поезд
+ами в
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 208--209
+\TU/NotoSerif(0)/m/n/10 вакуумных трубах, финансируе
+мая за счёт
+ []
+
+
+Underfull \hbox (badness 5862) in paragraph at lines 208--209
+\TU/NotoSerif(0)/m/n/10 плодов нашего труда, массы че
+ловечества
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/NotoSerif(0)/m/n/10 сегодня пребывали бы в состоя
+нии
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/NotoSerif(0)/m/n/10 будущем, пока они проглатываю
+т пустые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/NotoSerif(0)/m/n/10 и скоординированные заявлени
+я своих
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 210--211
+\TU/NotoSerif(0)/m/n/10 der-ground tun-nel net-works has been re-vealed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+[]\TU/NotoSerif(0)/m/n/10 Дополнительное замечание —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/NotoSerif(0)/m/n/10 существование крупных подзем
+ных сетей
+ []
+
+
+Underfull \hbox (badness 7981) in paragraph at lines 212--213
+\TU/NotoSerif(0)/m/n/10 текущего конфликта на Ближне
+м Востоке
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/NotoSerif(0)/m/n/10 (тоннели Хамас под Сектором Г
+аза [[]] и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/NotoSerif(0)/m/n/10 иранский подземный «ракетный 
+город»
+ []
+
+
+Underfull \hbox (badness 6157) in paragraph at lines 212--213
+\TU/NotoSerif(0)/m/n/10 (рисунок []7[]) [[], []]). Всё это не 
+должно
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/NotoSerif(0)/m/n/10 вызывать сомнений как в возмо
+жности
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 212--213
+\TU/NotoSerif(0)/m/n/10 строительства подобных соору
+жений, так и
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 212--213
+\TU/NotoSerif(0)/m/n/10 в их реальном существовании. 
+Это также
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/NotoSerif(0)/m/n/10 должно заставить нас задумат
+ься о том,
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 212--213
+\TU/NotoSerif(0)/m/n/10 какие сооружения могли постр
+оить другие,
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 212--213
+\TU/NotoSerif(0)/m/n/10 значительно лучше финансируе
+мые страны
+ []
+
+<tyrol.jpg, id=142, 1204.5pt x 632.3625pt>
+File: tyrol.jpg Graphic file (type jpg)
+<use tyrol.jpg>
+Package luatex.def Info: tyrol.jpg  used on input line 219.
+(luatex.def)             Requested size: 237.13594pt x 124.4922pt.
+
+Underfull \hbox (badness 2521) in paragraph at lines 221--221
+\TU/NotoSerif(0)/m/n/9 известна своим умелым маскиро
+ванием горных
+ []
+
+<svalbard.jpg, id=145, 2569.6pt x 1678.27pt>
+File: svalbard.jpg Graphic file (type jpg)
+<use svalbard.jpg>
+Package luatex.def Info: svalbard.jpg  used on input line 229.
+(luatex.def)             Requested size: 237.13594pt x 154.87903pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
+[]\TU/NotoSerif(0)/m/n/9 Fig-ure 9. []Всемирное хранилище с
+емян на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
+\TU/NotoSerif(0)/m/n/9 Шпицбергене в Норвегии, содер
+жащее более
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
+\TU/NotoSerif(0)/m/n/9 какая катастрофа может потреб
+овать его
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+[]\TU/NotoSerif(0)/m/n/10 Существует множество дополн
+ительных
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 236--237
+\TU/NotoSerif(0)/m/n/10 свидетельств подготовки к ка
+тастрофам по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+\TU/NotoSerif(0)/m/n/10 королевских баз. Норвегия, Шв
+ейцария,
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 236--237
+\TU/NotoSerif(0)/m/n/10 Швеция и Финляндия являются о
+тличными
+ []
+
+[6
+Missing character: There is no Д (U+0414) in font ptmb!
+Missing character: There is no о (U+043E) in font ptmb!
+Missing character: There is no п (U+043F) in font ptmb!
+Missing character: There is no о (U+043E) in font ptmb!
+Missing character: There is no л (U+043B) in font ptmb!
+Missing character: There is no н (U+043D) in font ptmb!
+Missing character: There is no и (U+0438) in font ptmb!
+Missing character: There is no т (U+0442) in font ptmb!
+Missing character: There is no е (U+0435) in font ptmb!
+Missing character: There is no л (U+043B) in font ptmb!
+Missing character: There is no ь (U+044C) in font ptmb!
+Missing character: There is no н (U+043D) in font ptmb!
+Missing character: There is no ы (U+044B) in font ptmb!
+Missing character: There is no е (U+0435) in font ptmb!
+Missing character: There is no с (U+0441) in font ptmb!
+Missing character: There is no в (U+0432) in font ptmb!
+Missing character: There is no и (U+0438) in font ptmb!
+Missing character: There is no д (U+0434) in font ptmb!
+Missing character: There is no е (U+0435) in font ptmb!
+Missing character: There is no т (U+0442) in font ptmb!
+Missing character: There is no е (U+0435) in font ptmb!
+Missing character: There is no л (U+043B) in font ptmb!
+Missing character: There is no ь (U+044C) in font ptmb!
+Missing character: There is no с (U+0441) in font ptmb!
+Missing character: There is no т (U+0442) in font ptmb!
+Missing character: There is no в (U+0432) in font ptmb!
+Missing character: There is no а (U+0430) in font ptmb!
+Missing character: There is no с (U+0441) in font ptmb!
+Missing character: There is no о (U+043E) in font ptmb!
+Missing character: There is no о (U+043E) in font ptmb!
+Missing character: There is no р (U+0440) in font ptmb!
+Missing character: There is no у (U+0443) in font ptmb!
+Missing character: There is no ж (U+0436) in font ptmb!
+Missing character: There is no е (U+0435) in font ptmb!
+Missing character: There is no н (U+043D) in font ptmb!
+Missing character: There is no и (U+0438) in font ptmb!
+Missing character: There is no я (U+044F) in font ptmb!
+Missing character: There is no у (U+0443) in font ptmb!
+Missing character: There is no б (U+0431) in font ptmb!
+Missing character: There is no е (U+0435) in font ptmb!
+Missing character: There is no ж (U+0436) in font ptmb!
+Missing character: There is no и (U+0438) in font ptmb!
+Missing character: There is no щ (U+0449) in font ptmb!
+Missing character: There is no и (U+0438) in font ptmb!
+Missing character: There is no п (U+043F) in font ptmb!
+Missing character: There is no о (U+043E) in font ptmb!
+Missing character: There is no д (U+0434) in font ptmb!
+Missing character: There is no г (U+0433) in font ptmb!
+Missing character: There is no о (U+043E) in font ptmb!
+Missing character: There is no т (U+0442) in font ptmb!
+Missing character: There is no о (U+043E) in font ptmb!
+Missing character: There is no в (U+0432) in font ptmb!
+Missing character: There is no к (U+043A) in font ptmb!
+Missing character: There is no и (U+0438) in font ptmb!
+Missing character: There is no к (U+043A) in font ptmb!
+Missing character: There is no к (U+043A) in font ptmb!
+Missing character: There is no а (U+0430) in font ptmb!
+Missing character: There is no т (U+0442) in font ptmb!
+Missing character: There is no а (U+0430) in font ptmb!
+Missing character: There is no с (U+0441) in font ptmb!
+Missing character: There is no т (U+0442) in font ptmb!
+Missing character: There is no р (U+0440) in font ptmb!
+Missing character: There is no о (U+043E) in font ptmb!
+Missing character: There is no ф (U+0444) in font ptmb!
+Missing character: There is no а (U+0430) in font ptmb!
+Missing character: There is no м (U+043C) in font ptmb!
+<./sub.jpg><./iran.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+[]\TU/NotoSerif(0)/m/n/10 Очевидно, что и бизнес-магна
+ты
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSerif(0)/m/n/10 Кремниевой долины тоже освед
+омлены.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSerif(0)/m/it/10 LinkedIn и известный инвестор, ра
+ссказал
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSerif(0)/m/it/10 купили какую-либо форму ’стр
+аховки от
+ []
+
+
+Underfull \hbox (badness 3396) in paragraph at lines 246--247
+\TU/NotoSerif(0)/m/it/10 По словам Джима Добсона, авто
+ра Forbes,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSerif(0)/m/it/10 у многих миллиардеров есть ч
+астные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSerif(0)/m/it/10 самолёты, ’готовые вылететь 
+в любой
+ []
+
+
+Underfull \hbox (badness 2334) in paragraph at lines 246--247
+\TU/NotoSerif(0)/m/it/10 момент’. У них также есть мот
+оциклы,
+ []
+
+<govcrop2.png, id=172, 945.5325pt x 553.06625pt>
+File: govcrop2.png Graphic file (type png)
+<use govcrop2.png>
+Package luatex.def Info: govcrop2.png  used on input line 252.
+(luatex.def)             Requested size: 447.16759pt x 261.56148pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--257
+[]\TU/NotoSerif(0)/m/n/10 Существуют также различные 
+крупные
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 248--257
+\TU/NotoSerif(0)/m/n/10 архивные проекты, такие как Globa
+l Knowl-
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 248--257
+\TU/NotoSerif(0)/m/n/10 edge Vault, управляемый Arch Mis-sion Foun-
+ []
+
+
+Underfull \hbox (badness 5331) in paragraph at lines 248--257
+\TU/NotoSerif(0)/m/n/10 da-tion, [[]] и Всемирное хранилище 
+семян
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--257
+\TU/NotoSerif(0)/m/n/10 на Шпицбергене [[]], которые, по 
+всей
+ []
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 248--257
+\TU/NotoSerif(0)/m/n/10 видимости, предназначены для 
+сохранения
+ []
+
+
+Underfull \hbox (badness 3568) in paragraph at lines 248--257
+\TU/NotoSerif(0)/m/n/10 жизненно важных ценностей че
+ловечества
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
+[] \TU/NotoSerif(0)/b/n/12 . Демократические механизмы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
+\TU/NotoSerif(0)/b/n/12 финансирования масштабных
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 260--261
+[]\TU/NotoSerif(0)/m/n/10 Так как же финансируются мас
+штабные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+\TU/NotoSerif(0)/m/n/10 трансконтинентальные сети из 
+более
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+\TU/NotoSerif(0)/m/n/10 чем 170 подземных и подводных б
+аз,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+\TU/NotoSerif(0)/m/n/10 при этом оставляя долговых ра
+бов в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+\TU/NotoSerif(0)/m/n/10 неведении? Существует одна уч
+етная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+\TU/NotoSerif(0)/m/n/10 документация, которая может д
+ать нам
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+\TU/NotoSerif(0)/m/n/10 представление о масштабе сре
+дств,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+\TU/NotoSerif(0)/m/n/10 выделяемых на эти проекты, и о
+б их
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+\TU/NotoSerif(0)/m/n/10 источниках. В 2017 году Кэтрин О
+стин
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+\TU/NotoSerif(0)/m/n/10 Фиттс, американский инвестиц
+ионный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+\TU/NotoSerif(0)/m/n/10 банкир и бывший государствен
+ный
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 260--261
+\TU/NotoSerif(0)/m/n/10 чиновник в администрации Буш
+а, и Марк
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+\TU/NotoSerif(0)/m/n/10 Скидмор, экономист из Мичиган
+ского
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+\TU/NotoSerif(0)/m/n/10 государственного университе
+та,
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 260--261
+\TU/NotoSerif(0)/m/n/10 правительства США на сумму 21 
+триллион
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 Reuters опубликовало статью Ско
+тта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 Палтроу (2016), в которой сообща
+лось,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 корректировки бухгалтерског
+о учета на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 сумму 6,5 триллиона долларов, 
+’чтобы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 создать иллюзию сбалансиров
+анности
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 генерального фонда армии в т
+ом году
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 обороны уже много лет назад п
+опадало
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 в основные заголовки СМИ из-з
+а своих
+ []
+
+
+Underfull \hbox (badness 3895) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 проблем с учетом 10 сентября 2001
+ года,
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 когда министр обороны Дональ
+д Рамсфелд
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 на слушаниях в Конгрессе (C-SPAN, 2014)
+ []
+
+
+Underfull \hbox (badness 6078) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 заявил, что министерство пот
+еряло след
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 2,3 триллиона долларов в транз
+акциях...
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 Это признание попало в новос
+ти в тот
+ []
+
+
+Underfull \hbox (badness 3646) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 день, но было забыто на следу
+ющий день,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 когда трагедия 11 сентября пр
+ивлекла
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 внимание всего мира... Когда п
+рофессор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 Марк Скидмор узнал о 6,5 трилл
+ионах
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 недостоверных армейских тра
+нзакций, он
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 связался с госпожой Фиттс, и 
+весной 2017
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 года они договорились совмес
+тно работать
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 правительства, указывающих н
+а необычно
+ []
+
+
+Underfull \hbox (badness 7468) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 команда аспирантов собрали о
+фициальные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 государственные документы, г
+де была
+ []
+
+
+Underfull \hbox (badness 5592) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 выявлена в общей сложности с
+умма в 21
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\TU/NotoSerif(0)/m/it/10 триллион долларов недокумен
+тированных
+ []
+
+[7<./tyrol.jpg><./svalbard.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 264--265
+[]\TU/NotoSerif(0)/m/n/10 За тот же 18-летний период с 1998 
+по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\TU/NotoSerif(0)/m/n/10 2015 год официально признанные 
+доходы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\TU/NotoSerif(0)/m/n/10 правительства США составили 
+только
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\TU/NotoSerif(0)/m/n/10 40,8 триллиона [[]], что указывае
+т на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\TU/NotoSerif(0)/m/n/10 то, что сумма, превышающая пол
+овину
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 264--265
+\TU/NotoSerif(0)/m/n/10 государственных доходов США, 
+была тайно
+ []
+
+
+Underfull \hbox (badness 3547) in paragraph at lines 264--265
+\TU/NotoSerif(0)/m/n/10 расходам. Также примечательн
+о, что эти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\TU/NotoSerif(0)/m/n/10 секретные расходы происходил
+и поверх
+ []
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 264--265
+\TU/NotoSerif(0)/m/n/10 долгового бюджета, и, по всей 
+видимости,
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 264--265
+\TU/NotoSerif(0)/m/n/10 не только продолжаются по сей 
+день, но и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\TU/NotoSerif(0)/m/n/10 что общий номинальный объем р
+асходов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\TU/NotoSerif(0)/m/n/10 на эти базы значительно превы
+шает 21
+ []
+
+
+Underfull \hbox (badness 4291) in paragraph at lines 266--267
+[]\TU/NotoSerif(0)/m/n/10 В 2021 году Марк Скидмор опубл
+иковал
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSerif(0)/m/n/10 обновлённое исследование, св
+язанное
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSerif(0)/m/n/10 с сообщением агентства Bloomberg 
+о
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSerif(0)/m/n/10 том, что в 2017-2019 финансовых го
+дах
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSerif(0)/m/n/10 Пентагон совершил умопомрачи
+тельные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSerif(0)/m/n/10 94,7 триллиона долларов бухгал
+терских
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSerif(0)/m/n/10 корректировок [[], []]. Если учес
+ть
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSerif(0)/m/n/10 фальсификацию долларов США ч
+ерез
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSerif(0)/m/n/10 центральную банковскую систе
+му,
+ []
+
+
+Underfull \hbox (badness 6825) in paragraph at lines 266--267
+\TU/NotoSerif(0)/m/n/10 происходящую уже более века с 
+момента
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSerif(0)/m/n/10 создания Федеральной резервн
+ой системы
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 266--267
+\TU/NotoSerif(0)/m/n/10 в 1913 году [[]], становится ясно, 
+что вся
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSerif(0)/m/n/10 публичная долларовая отчётно
+сть — это
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSerif(0)/m/n/10 полная двуязычная чепуха, а д
+олларовая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSerif(0)/m/n/10 собой просто системы распред
+еления
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NotoSerif(0)/m/n/10 ресурсов, из которых их корол
+евские
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 266--267
+\TU/NotoSerif(0)/m/n/10 владельцы могут тихо снимать (
+а точнее,
+ []
+
+
+Underfull \vbox (badness 1281) has occurred while \output is active []
+
+ [8<./govcrop2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
+[] \TU/NotoSerif(0)/b/n/12 . Потомки Юпитера: Личности
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 269--270
+\TU/NotoSerif(0)/m/n/10 что западные короли капитала 
+держатся в
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 269--270
+\TU/NotoSerif(0)/m/n/10 тени. Существует множество те
+орий — от
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
+\TU/NotoSerif(0)/m/n/10 публичных фигур до инопланет
+ян, — но
+ []
+
+
+Underfull \hbox (badness 3354) in paragraph at lines 269--270
+\TU/NotoSerif(0)/m/n/10 есть, лежит в трудах анонимно
+го блогера,
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 269--270
+\TU/NotoSerif(0)/m/n/10 более чем 20 авторов и 50 «незам
+енимых»
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
+\TU/NotoSerif(0)/m/n/10 описать его работу как «проро
+ческую»
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+[]\TU/NotoSerif(0)/m/n/10 Amal-lulla выделил три западные
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 271--272
+\TU/NotoSerif(0)/m/n/10 политические фракции, которы
+е вместе он
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 271--272
+\TU/NotoSerif(0)/m/n/10 повторяющихся катастрофах на 
+Земле. Он
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+\TU/NotoSerif(0)/m/n/10 считал, что эти три фракции со
+вместно
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+\TU/NotoSerif(0)/m/n/10 контролируют западные страны 
+сегодня,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+\TU/NotoSerif(0)/m/n/10 но разделил их на три разные г
+руппы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+\TU/NotoSerif(0)/m/n/10 по их происхождению и историч
+еской
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+\TU/NotoSerif(0)/m/n/10 идентичности, возможным прош
+лым
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+\TU/NotoSerif(0)/m/n/10 разногласиям и наблюдаемым р
+азличиям
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
+[]\TU/NotoSerif(0)/m/n/10 Эти три фракции можно пример
+но
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+\TU/NotoSerif(0)/m/n/10 европейских иллюминатов, мас
+онов и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+\TU/NotoSerif(0)/m/n/10 ЦРУ. Как описывал Amal-lulla, \TU/NotoSer
+if(0)/m/it/10 «В данный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+\TU/NotoSerif(0)/m/it/10 хорошо скрыты за системой до
+пуска к
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+\TU/NotoSerif(0)/m/it/10 секретной информации, куда н
+е входит
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 283--284
+\TU/NotoSerif(0)/m/it/10 даже действующий президент С
+оединённых
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+\TU/NotoSerif(0)/m/it/10 Штатов Америки. Другими слов
+ами,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+\TU/NotoSerif(0)/m/it/10 они довели искусство скрыват
+ься от
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 283--284
+\TU/NotoSerif(0)/m/it/10 общественного внимания до со
+вершенства.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+\TU/NotoSerif(0)/b/it/10 Потомки Юпитера контролирую
+т
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+\TU/NotoSerif(0)/b/it/10 не только армию и правительс
+тво
+ []
+
+
+Underfull \hbox (badness 6047) in paragraph at lines 283--284
+\TU/NotoSerif(0)/b/it/10 Соединённых Штатов Америки, 
+но и с
+ []
+
+
+Underfull \hbox (badness 5231) in paragraph at lines 283--284
+\TU/NotoSerif(0)/b/it/10 помощью фиатных валют, крупн
+ейших
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+\TU/NotoSerif(0)/b/it/10 корпораций и формы республик
+анского
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+\TU/NotoSerif(0)/b/it/10 правления, которую они изобр
+ели
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+\TU/NotoSerif(0)/b/it/10 (зная, что политики будут лег
+ко
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+\TU/NotoSerif(0)/b/it/10 коррумпированы и, таким обра
+зом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+\TU/NotoSerif(0)/b/it/10 управляемы), они контролирую
+т весь
+ []
+
+<illuminati.jpg, id=212, 1284.8pt x 722.7pt>
+File: illuminati.jpg Graphic file (type jpg)
+<use illuminati.jpg>
+Package luatex.def Info: illuminati.jpg  used on input line 289.
+(luatex.def)             Requested size: 237.13594pt x 133.38863pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--291
+[]\TU/NotoSerif(0)/m/n/9 Fig-ure 11. []Кто же такие Потомки 
+Юпитера?
+ []
+
+<pike.jpg, id=215, 301.125pt x 292.09125pt>
+File: pike.jpg Graphic file (type jpg)
+<use pike.jpg>
+Package luatex.def Info: pike.jpg  used on input line 299.
+(luatex.def)             Requested size: 237.13594pt x 230.03197pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+[]\TU/NotoSerif(0)/m/n/9 Fig-ure 12. []Знаменитый батолит П
+айкс-Пик,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+\TU/NotoSerif(0)/m/n/9 выделенный красным, вместе с л
+андшафтом
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+\TU/NotoSerif(0)/m/n/10 религию, манипулируют священ
+ными
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+\TU/NotoSerif(0)/m/n/10 книгами основных мировых рел
+игий в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+\TU/NotoSerif(0)/m/n/10 своих интересах и широко испо
+льзуют
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 306--307
+\TU/NotoSerif(0)/m/n/10 символику. Кроме того, они бес
+пощадны
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+\TU/NotoSerif(0)/m/n/10 по отношению к своим врагам: \TU
+/NotoSerif(0)/m/it/10 ”\TU/NotoSerif(0)/b/it/10 На
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+\TU/NotoSerif(0)/b/it/10 протяжении более 2600 лет они
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 306--307
+\TU/NotoSerif(0)/b/it/10 систематически уничтожали в
+сех, кто
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+\TU/NotoSerif(0)/b/it/10 обладал специфическими знан
+иями о
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+\TU/NotoSerif(0)/b/it/10 древних египтян, арабов и инд
+ийских
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+\TU/NotoSerif(0)/b/it/10 мистиков, но и людей с удлинё
+нными
+ []
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 306--307
+\TU/NotoSerif(0)/b/it/10 черепами в Южной Америке, а т
+акже
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+\TU/NotoSerif(0)/b/it/10 майянских жрецов в Центральн
+ой
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 306--307
+\TU/NotoSerif(0)/b/it/10 Америке. И доказательства то
+го, что
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 306--307
+\TU/NotoSerif(0)/b/it/10 они уничтожили некогда процв
+етающее
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+\TU/NotoSerif(0)/b/it/10 население в Северной Америке, 
+чтобы
+ []
+
+
+Underfull \hbox (badness 4686) in paragraph at lines 306--307
+\TU/NotoSerif(0)/b/it/10 сохранить эту территорию как 
+Землю
+ []
+
+
+Underfull \hbox (badness 3199) in paragraph at lines 306--307
+\TU/NotoSerif(0)/b/it/10 Конца Времён, абсолютно убед
+ительны.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+\TU/NotoSerif(0)/b/it/10 Геноцид американских «индей
+цев» был
+ []
+
+[9<./illuminati.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+[]\TU/NotoSerif(0)/m/n/10 Амаллулла также полагал, что 
+весь
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+\TU/NotoSerif(0)/m/n/10 проект «Соединённые Штаты Ам
+ерики»
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 308--309
+\TU/NotoSerif(0)/m/n/10 над «батолитом Пайкс-Пик» — г
+ранитным
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+\TU/NotoSerif(0)/m/n/10 горным массивом в Скалистых г
+орах,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+\TU/NotoSerif(0)/m/n/10 который обеспечивает отличну
+ю защиту
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+\TU/NotoSerif(0)/m/n/10 от геофизической катастрофы (
+рисунок
+ []
+
+
+Underfull \hbox (badness 2913) in paragraph at lines 308--309
+\TU/NotoSerif(0)/m/it/10 войной, банкиры и мыслители б
+оролись не
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+\TU/NotoSerif(0)/m/it/10 столько за контроль над Соед
+инёнными
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+\TU/NotoSerif(0)/m/it/10 Штатами Америки, сколько за б
+атолит
+ []
+
+
+Underfull \hbox (badness 2970) in paragraph at lines 308--309
+\TU/NotoSerif(0)/m/it/10 уникальных гранитных батоли
+тов во всём
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 308--309
+\TU/NotoSerif(0)/m/it/10 батолита на такой высоте и та
+к далеко
+ []
+
+
+Underfull \hbox (badness 5077) in paragraph at lines 308--309
+\TU/NotoSerif(0)/m/it/10 от берега океана. Это идеальн
+ое место
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+\TU/NotoSerif(0)/m/n/10 построена обширная система п
+одземных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+[]\TU/NotoSerif(0)/m/n/10 В этой статье я подробно рас
+смотрел
+ []
+
+
+Underfull \hbox (badness 5388) in paragraph at lines 311--312
+\TU/NotoSerif(0)/m/n/10 тщательно хранят знания о пер
+иодически
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+\TU/NotoSerif(0)/m/n/10 повторяющихся катастрофах на 
+Земле,
+ []
+
+
+Underfull \hbox (badness 4859) in paragraph at lines 311--312
+\TU/NotoSerif(0)/m/n/10 использовать это событие в по
+литических
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 311--312
+\TU/NotoSerif(0)/m/n/10 и военных целях для достижени
+я мирового
+ []
+
+
+Underfull \hbox (badness 6526) in paragraph at lines 311--312
+\TU/NotoSerif(0)/m/n/10 на наименее неправдоподобную 
+теорию о
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+\TU/NotoSerif(0)/m/n/10 конкретных родословных, упра
+вляющих
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+[]\TU/NotoSerif(0)/m/n/10 Самым убедительным измеряем
+ым
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSerif(0)/m/n/10 показателем, указывающим на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSerif(0)/m/n/10 надвигающееся геофизическое 
+событие,
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 313--314
+\TU/NotoSerif(0)/m/n/10 является быстрое смещение ге
+омагнитного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSerif(0)/m/n/10 поля Земли. Это измеряется не 
+только
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSerif(0)/m/n/10 ускоренным движением магнитн
+ого
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSerif(0)/m/n/10 северного полюса (рисунок []13[]) 
+и ростом
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSerif(0)/m/n/10 Южно-Атлантической геомагнит
+ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\TU/NotoSerif(0)/m/n/10 аномалии, но и общим ускоряющ
+имся
+ []
+
+
+Underfull \hbox (badness 5862) in paragraph at lines 313--314
+\TU/NotoSerif(0)/m/n/10 ослаблением и искажением гео
+магнитного
+ []
+
+<npw.jpg, id=243, 1539.7525pt x 1924.18875pt>
+File: npw.jpg Graphic file (type jpg)
+<use npw.jpg>
+Package luatex.def Info: npw.jpg  used on input line 318.
+(luatex.def)             Requested size: 237.13594pt x 296.33772pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+[]\TU/NotoSerif(0)/m/n/9 Fig-ure 13. []Положение геомагнитн
+ого северного
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 325--326
+[]\TU/NotoSerif(0)/m/n/10 В заключение я приведу вам э
+ту цитату
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 325--326
+\TU/NotoSerif(0)/b/it/10 есть одно целое\TU/NotoSerif(0)/m/it/10 
+”\TU/NotoSerif(0)/m/n/10 : \TU/NotoSerif(0)/m/it/10 ”Здесь мне н
+еизбежно
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+\TU/NotoSerif(0)/m/it/10 придётся заставить ваше вооб
+ражение
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 325--326
+\TU/NotoSerif(0)/m/it/10 и который знаете с детства. О
+ставьте
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 325--326
+\TU/NotoSerif(0)/m/it/10 его позади. Это полностью иск
+усственная
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 325--326
+\TU/NotoSerif(0)/m/it/10 последнего момента. Иногда м
+не хочется,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+\TU/NotoSerif(0)/m/it/10 Мне понадобилось более полуд
+есятилетия,
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 325--326
+\TU/NotoSerif(0)/m/it/10 Апокалиптического синтеза. Э
+то трудная
+ []
+
+
+Underfull \hbox (badness 3668) in paragraph at lines 325--326
+\TU/NotoSerif(0)/m/it/10 аналогия. Мне сложно донести, 
+что то,
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 325--326
+\TU/NotoSerif(0)/m/it/10 что я собираюсь сказать, не п
+реувеличение.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+\TU/NotoSerif(0)/m/it/10 Пока что аналогия с фильмом М
+атрица
+ []
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 325--326
+\TU/NotoSerif(0)/m/it/10 — это лучшее, что я могу пред
+ложить,
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 325--326
+\TU/NotoSerif(0)/m/it/10 чтобы вы поняли суровую реал
+ьность моих
+ []
+
+
+Underfull \hbox (badness 2591) in paragraph at lines 325--326
+\TU/NotoSerif(0)/m/it/10 слов. \TU/NotoSerif(0)/b/it/10 Всё в ваше
+й жизни, включая всю
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+\TU/NotoSerif(0)/b/it/10 записанную историю, мейнстри
+мовую
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 325--326
+\TU/NotoSerif(0)/b/it/10 науку и академические круги, 
+политику,
+ []
+
+
+Underfull \hbox (badness 3148) in paragraph at lines 325--326
+\TU/NotoSerif(0)/b/it/10 религию, всё, так или иначе, с
+вязано с
+ []
+
+
+Underfull \hbox (badness 5970) in paragraph at lines 325--326
+\TU/NotoSerif(0)/b/it/10 грядущим смещением земной ко
+ры или
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 325--326
+\TU/NotoSerif(0)/m/it/10 этого пути — осознание, что в
+ы всю свою
+ []
+
+[10<./pike.jpg>]
+Underfull \vbox (badness 4096) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+[]\TU/NotoSerif(0)/m/n/10 Спасибо всем людям, которые 
+решили
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+\TU/NotoSerif(0)/m/n/10 внести свои знания в обществе
+нное
+ []
+
+
+Underfull \hbox (badness 6944) in paragraph at lines 330--331
+\TU/NotoSerif(0)/m/n/10 достояние. Без вас эта работа 
+была бы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+\TU/NotoSerif(0)/m/n/10 невозможна, и человечество пр
+одолжало
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 330--331
+\TU/NotoSerif(0)/m/n/10 бы пребывать во тьме. Ваш выбо
+р будет
+ []
+
+[11<./npw.jpg>] (./burmese41.bbl
+Underfull \hbox (badness 2564) in paragraph at lines 9--13
+[]\TU/NotoSerif(0)/m/n/9 Arch Mis-sion Foun-da-tion.  “global knowl-edge
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+\TU/pcr/m/n/9 org/2022/07/navy/navy-[]undersea-[]subs.htm$[]\TU/NotoSerif(0)/m/
+n/9 , July
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 40--45
+[]\TU/NotoSerif(0)/m/n/9 J. Dug-gan.  “nor-way: ‘dooms-day’ vault where
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+[]\TU/NotoSerif(0)/m/n/9 In-ter-net Archive.  “archived ver-sions of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+\TU/NotoSerif(0)/m/n/9 amal-lulla.com”.  []$\TU/pcr/m/n/9 https://web.archive.
+org/web/
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 53--58
+\TU/pcr/m/n/9 20220801000000*/amallulla.com$[]\TU/NotoSerif(0)/m/n/9 , 2025.  Ac
+-cessed:
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 60--63
+[]\TU/NotoSerif(0)/m/n/9 Junho.  Ecdo github re-search repos-i-tory, 2024.
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 70--75
+\TU/NotoSerif(0)/m/n/9 spend-ing; de-fense de-part-ment to con-duct first-
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 107--112
+[]\TU/NotoSerif(0)/m/n/9 B. i. Ryan and A. (wit-ness).  “the an-glo‑saxon
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 107--112
+\TU/NotoSerif(0)/m/n/9 mis-sion: Wit-ness au-dio in-ter-view tran-script”.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+[]\TU/NotoSerif(0)/m/n/9 T. E. Skep-tic.  Mas-ter exother-mic core-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/NotoSerif(0)/m/n/9 mantle de-cou-pling – dzhanibekov os-cil-la-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/NotoSerif(0)/m/n/9 (ecdo) the-ory, 2024.  https://theeth-i-calskep-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/NotoSerif(0)/m/n/9 tic.com/2024/05/23/master-exothermic-core-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/NotoSerif(0)/m/n/9 mantle-decoupling-dzhanibekov-oscillation-
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 149--154
+[]\TU/NotoSerif(0)/m/n/9 South Ty-rol Blog.  “south ty-rol’s bunker land-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+\TU/NotoSerif(0)/m/n/9 scape”.  []$\TU/pcr/m/n/9 https://www.south-[]tirol.com
+/blog/
+ []
+
+
+Underfull \hbox (badness 4429) in paragraph at lines 149--154
+\TU/pcr/m/n/9 south-[]tyrols-[]bunker-[]landscape$[]\TU/NotoSerif(0)/m/n/9 , Oct
+. 2023.  Pub-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]\TU/NotoSerif(0)/m/n/9 sovrynn.  “ecdo/6‑lit-er-a-ture‑me-dia/amal-lulla
+”.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]$\TU/pcr/m/n/9 https://github.com/sovrynn/ecdo/tree/master/
+ []
+
+
+Underfull \hbox (badness 7667) in paragraph at lines 161--167
+\TU/pcr/m/n/9 6-[]LITERATURE-[]MEDIA/amallulla$[]\TU/NotoSerif(0)/m/n/9 , 2025.  Ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]\TU/NotoSerif(0)/m/n/9 sovrynn.  “ecdo/6‑lit-er-a-ture‑me-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+\TU/pcr/m/n/9 ecdo/tree/master/6-[]LITERATURE-[]MEDIA/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[]\TU/NotoSerif(0)/m/n/9 sovrynn.  “№ 58. the multi‑tril-lion‑dol-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\TU/NotoSerif(0)/m/n/9 lar gran-ite tun-nel sys-tem in the pikes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\TU/NotoSerif(0)/m/n/9 peak batholith | an apoc-a-lyp-tic syn-the-sis”.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[]$\TU/pcr/m/n/9 https://github.com/sovrynn/ecdo/blob/master/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\TU/pcr/m/n/9 6-[]LITERATURE-[]MEDIA/amallulla/%E2%84%96%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\TU/pcr/m/n/9 2058.%20The%20multi-[]trillion-[]dollar%20granite%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\TU/pcr/m/n/9 20tunnel%20system%20in%20the%20Pikes%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\TU/pcr/m/n/9 20Peak%20batholith%20_%20An%20Apocalyptic%
+ []
+
+[12
+
+
+]
+Underfull \hbox (badness 2564) in paragraph at lines 217--222
+[]\TU/NotoSerif(0)/m/n/9 Un-known up-loader (YouTube user).  The last
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 224--229
+[]\TU/NotoSerif(0)/m/n/9 s. G. user).  “an-glo‑saxon‑mis-sion” [folder] in
+ []
+
+) [13
+
+] (./burmese41.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+)
+
+Here is how much of LuaTeX's memory you used:
+ 14606 strings out of 476553
+ 125027,1977958 words of node,token memory allocated
+ 602 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 27 attribute, 54 glue_spec
+, 15 attribute_list, 1 write, 8 pdf_action nodes
+   avail lists: 2:1287,3:639,4:146,5:408,6:72,7:11711,8:224,9:557,10:14,11:615
+ 36192 multiletter control sequences out of 65536+600000
+ 102 fonts using 23049735 bytes
+ 80i,9n,97p,2791b,552s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/fonts/tru
+etype/noto/NotoSerif-BoldItalic.ttf></usr/share/fonts/truetype/noto/NotoSerif-It
+alic.ttf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-regular.otf></usr/s
+hare/fonts/truetype/noto/NotoSerif-Regular.ttf></usr/share/fonts/truetype/noto/N
+otoSerif-Bold.ttf></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pf
+b>
+Output written on burmese41.pdf (13 pages, 6430020 bytes).
+
+PDF statistics: 342 PDF objects out of 1000 (max. 8388607)
+ 278 compressed objects within 3 object streams
+ 92 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+

@@ -1,0 +1,5 @@
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{undersea.jpg}
+\end{center}
+   \caption{Ilustrasi pangkalan bawah laut, oleh Walter Koerschner. Beliau merupakan ilustrator untuk pasukan pangkalan bawah laut Rock-Site Tentera Laut AS di Pusat Senjata China Lake, California pada tahun 1960-an. Salah satu sumber Sauder mendedahkan terdapat sebuah pangkalan bawah tanah sedalam satu batu di China Lake \cite{22,23}.}

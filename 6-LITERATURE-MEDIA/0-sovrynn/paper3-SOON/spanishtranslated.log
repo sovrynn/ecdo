@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.6.13)  23 JUN 2025 15:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.6.27)  3 JUL 2025 07:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -333,8 +333,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip55
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
-3.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4
+4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -375,24 +375,24 @@ LaTeX Warning: Label `fig:onecol' multiply defined.
 )
 \openout1 = `spanishtranslated.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
  ABD: EveryShipout initializing macros
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
@@ -425,21 +425,21 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 33.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 57.
+Package hyperref Info: Link coloring OFF on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 68.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 57.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 68.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 5
-7.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 6
+8.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
@@ -447,12 +447,12 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 <freemason.jpg, id=12, 1606.0pt x 1109.14375pt>
 File: freemason.jpg Graphic file (type jpg)
 <use freemason.jpg>
-Package pdftex.def Info: freemason.jpg  used on input line 83.
+Package pdftex.def Info: freemason.jpg  used on input line 94.
 (pdftex.def)             Requested size: 237.13594pt x 163.75806pt.
 <british.jpg, id=15, 1204.5pt x 604.2575pt>
 File: british.jpg Graphic file (type jpg)
 <use british.jpg>
-Package pdftex.def Info: british.jpg  used on input line 93.
+Package pdftex.def Info: british.jpg  used on input line 104.
 (pdftex.def)             Requested size: 496.85625pt x 249.2593pt.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf
 -dist/fonts/enc/dvips/base/8r.enc}
@@ -462,59 +462,59 @@ Package pdftex.def Info: british.jpg  used on input line 93.
 Underfull \vbox (badness 1043) has occurred while \output is active []
 
  [2 <./british.jpg>]
-Underfull \hbox (badness 1205) in paragraph at lines 120--123
+Underfull \hbox (badness 1205) in paragraph at lines 131--134
 \OT1/ptm/m/n/10 Los druidas, una an-tigua cul-tura celta bien doc-u-men-
  []
 
 
-Underfull \hbox (badness 3803) in paragraph at lines 128--128
+Underfull \hbox (badness 3803) in paragraph at lines 139--139
 [] \elvbf . Bases sub-terr[]aneas y sub-mari-nas es-ta-
  []
 
 <penta.jpg, id=68, 1204.5pt x 677.53125pt>
 File: penta.jpg Graphic file (type jpg)
 <use penta.jpg>
-Package pdftex.def Info: penta.jpg  used on input line 135.
+Package pdftex.def Info: penta.jpg  used on input line 146.
 (pdftex.def)             Requested size: 237.13594pt x 133.38449pt.
 <basescrop.png, id=71, 2349.77875pt x 1203.49625pt>
 File: basescrop.png Graphic file (type png)
 <use basescrop.png>
-Package pdftex.def Info: basescrop.png  used on input line 145.
+Package pdftex.def Info: basescrop.png  used on input line 156.
 (pdftex.def)             Requested size: 447.16759pt x 229.01558pt.
 [3]
 <undersea.jpg, id=96, 691.83469pt x 484.05844pt>
 File: undersea.jpg Graphic file (type jpg)
 <use undersea.jpg>
-Package pdftex.def Info: undersea.jpg  used on input line 163.
+Package pdftex.def Info: undersea.jpg  used on input line 174.
 (pdftex.def)             Requested size: 237.13594pt x 165.91458pt.
 <sub.jpg, id=103, 718.18312pt x 493.0922pt>
 File: sub.jpg Graphic file (type jpg)
 <use sub.jpg>
-Package pdftex.def Info: sub.jpg  used on input line 175.
+Package pdftex.def Info: sub.jpg  used on input line 186.
 (pdftex.def)             Requested size: 237.13594pt x 162.8112pt.
 <iran.jpeg, id=108, 1183.42125pt x 573.14125pt>
 File: iran.jpeg Graphic file (type jpg)
 <use iran.jpeg>
-Package pdftex.def Info: iran.jpeg  used on input line 185.
+Package pdftex.def Info: iran.jpeg  used on input line 196.
 (pdftex.def)             Requested size: 237.13594pt x 114.84485pt.
 
-Underfull \hbox (badness 3312) in paragraph at lines 196--196
+Underfull \hbox (badness 3312) in paragraph at lines 207--207
 [] \elvbf . Ev-i-den-cia Adi-cional de Preparaci[]on de
  []
 
 <tyrol.jpg, id=117, 1204.5pt x 632.3625pt>
 File: tyrol.jpg Graphic file (type jpg)
 <use tyrol.jpg>
-Package pdftex.def Info: tyrol.jpg  used on input line 202.
+Package pdftex.def Info: tyrol.jpg  used on input line 213.
 (pdftex.def)             Requested size: 237.13594pt x 124.4922pt.
 <svalbard.jpg, id=120, 2569.6pt x 1678.27pt>
 File: svalbard.jpg Graphic file (type jpg)
 <use svalbard.jpg>
-Package pdftex.def Info: svalbard.jpg  used on input line 212.
+Package pdftex.def Info: svalbard.jpg  used on input line 223.
 (pdftex.def)             Requested size: 237.13594pt x 154.87903pt.
 
-Underfull \hbox (badness 1142) in paragraph at lines 214--214
-[]\OT1/ptm/m/n/9 Figure 9. []El Dep[]osito Mundial de Semil-las de Sval-bard en
+Underfull \hbox (badness 1142) in paragraph at lines 225--225
+[]\OT1/ptm/m/n/9 Figura 9. []El Dep[]osito Mundial de Semil-las de Sval-bard en
 
  []
 
@@ -522,21 +522,21 @@ Underfull \hbox (badness 1142) in paragraph at lines 214--214
 <govcrop2.png, id=161, 945.5325pt x 553.06625pt>
 File: govcrop2.png Graphic file (type png)
 <use govcrop2.png>
-Package pdftex.def Info: govcrop2.png  used on input line 236.
+Package pdftex.def Info: govcrop2.png  used on input line 247.
 (pdftex.def)             Requested size: 447.16759pt x 261.56148pt.
  [6 <./iran.jpeg> <./tyrol.jpg> <./svalbard.jpg>] [7 <./govcrop2.png>]
 <illuminati.jpg, id=205, 1284.8pt x 722.7pt>
 File: illuminati.jpg Graphic file (type jpg)
 <use illuminati.jpg>
-Package pdftex.def Info: illuminati.jpg  used on input line 272.
+Package pdftex.def Info: illuminati.jpg  used on input line 283.
 (pdftex.def)             Requested size: 237.13594pt x 133.38863pt.
 <pike.jpg, id=208, 301.125pt x 292.09125pt>
 File: pike.jpg Graphic file (type jpg)
 <use pike.jpg>
-Package pdftex.def Info: pike.jpg  used on input line 282.
+Package pdftex.def Info: pike.jpg  used on input line 293.
 (pdftex.def)             Requested size: 237.13594pt x 230.03197pt.
 
-Underfull \hbox (badness 1152) in paragraph at lines 295--296
+Underfull \hbox (badness 1152) in paragraph at lines 306--307
 \OT1/ptm/m/n/10 para prepararse para tal evento, y planean aprovechar
  []
 
@@ -544,7 +544,7 @@ Underfull \hbox (badness 1152) in paragraph at lines 295--296
 <npw.jpg, id=229, 1539.7525pt x 1924.18875pt>
 File: npw.jpg Graphic file (type jpg)
 <use npw.jpg>
-Package pdftex.def Info: npw.jpg  used on input line 303.
+Package pdftex.def Info: npw.jpg  used on input line 314.
 (pdftex.def)             Requested size: 237.13594pt x 296.33772pt.
  [9 <./npw.jpg>] (./spanishtranslated.bbl
 Underfull \hbox (badness 1694) in paragraph at lines 9--13
@@ -744,12 +744,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 10426 strings out of 475662
- 157392 string characters out of 5784442
+ 10426 strings out of 475142
+ 157392 string characters out of 5776209
  1949975 words of memory out of 5000000
- 32318 multiletter control sequences out of 15000+600000
+ 32329 multiletter control sequences out of 15000+600000
  585357 words of font info for 92 fonts, out of 8000000 for 9000
- 264 hyphenation exceptions out of 8191
+ 680 hyphenation exceptions out of 8191
  75i,9n,79p,1780b,623s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/m120938/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0900.6
 00pk></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/sh
@@ -757,7 +757,7 @@ are/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmri8a.pfb>
-Output written on spanishtranslated.pdf (11 pages, 6427776 bytes).
+Output written on spanishtranslated.pdf (11 pages, 6427779 bytes).
 PDF statistics:
  325 PDF objects out of 1000 (max. 8388607)
  269 compressed objects within 3 object streams

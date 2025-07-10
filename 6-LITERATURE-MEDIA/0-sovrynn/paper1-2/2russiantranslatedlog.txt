@@ -1,0 +1,888 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./2russiantranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu))
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex)
+(./cvpr.sty (./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `T2A/ptm/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 80.
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./2russiantranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:6' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+
+LaTeX Font Warning: Font shape `T2A/ptm/b/n' undefined
+(Font)              using `T2A/ptm/m/n' instead on input line 104.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `T2A/pcr/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 104.
+
+
+LaTeX Font Warning: Font shape `T2A/ptm/m/it' undefined
+(Font)              using `T2A/ptm/m/n' instead on input line 106.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
+dist/fonts/enc/dvips/base/8r.enc} <./jarkov-mammoth.jpg>]
+Underfull \hbox (badness 1320) in paragraph at lines 172--173
+\T2A/ptm/m/it/10 од-ним спор-ным во-про-сом в со-вре-мен-ной гео-ло-гии.
+
+Underfull \hbox (badness 1231) in paragraph at lines 172--173
+\T2A/ptm/m/it/10 ли-о-нов лет [[]]. Од-на-ко ис-сле-до-ва-тель-ская груп-па
+
+Underfull \vbox (badness 1997) has occurred while \output is active [2 <./grand
+-canyon.jpg>] (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+Underfull \hbox (badness 2096) in paragraph at lines 233--234
+[]\T2A/ptm/m/it/10 Смеси био-мас-сы раз-лич-ных ви-дов жи-вот-ных и
+
+Underfull \hbox (badness 1406) in paragraph at lines 233--234
+\T2A/ptm/m/it/10 рас-те-ний, ча-сто встре-ча-ю-щи-е-ся в ви-де ис-ко-па-е-мо-
+
+Underfull \hbox (badness 5260) in paragraph at lines 233--234
+\T2A/ptm/m/it/10 го в сло-ях оса-доч-ных по-род, пред-став-ля-ют со-
+
+Underfull \hbox (badness 1448) in paragraph at lines 233--234
+\T2A/ptm/m/it/10 бой еще од-ну за-га-доч-ную ано-ма-лию. В "Reliquo\OT1/ptm/m/n
+/10 ^^Z
+
+Underfull \hbox (badness 1132) in paragraph at lines 233--234
+\T2A/ptm/m/it/10 Diluvian\OT1/ptm/m/n/10 ^^Z\T2A/ptm/m/it/10 "преподобный Уи-ль
+ям Ба-к-ленд опи-сы-ва-ет
+[3 <./coconino.jpg>]
+Underfull \hbox (badness 3240) in paragraph at lines 260--261
+[]\T2A/ptm/m/it/10 Одним из пре-крас-ных при-ме-ров слу-жит Нью-
+
+Underfull \vbox (badness 1412) has occurred while \output is active [4 <./Grand
+_Staircase-big.jpg> <./derinkuyu.jpeg> <./derinkuyu-air.jpg>]
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+Underfull \vbox (badness 1122) has occurred while \output is active [5 <./muck-
+crop.jpeg> <./ww19.jpg> <./dolmen.jpg>]
+Underfull \hbox (badness 2662) in paragraph at lines 296--297
+[]\T2A/ptm/b/n/10 Множество мас-со-вых вы-ми-ра-ний про-изо-шло на
+
+Underfull \hbox (badness 5431) in paragraph at lines 296--297
+\T2A/ptm/b/n/10 зем-ле, наи-бо-лее изу-че-ны из них "Боль-шая пя-
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+\T2A/ptm/b/n/10 тјр-ка"фанерозойских со-бы-тий: позд-не-ор-до-вик-ское
+[6 <./bottleneck.jpg> <./columbia.jpg>]
+Underfull \hbox (badness 1009) in paragraph at lines 340--341
+\T2A/ptm/b/n/10 за-хо-ро-не-ни-я-ми и раз-ру-ше-ни-я-ми, что со-зда-јт ле-то-
+[7 <./zhangjiajie.jpg> <./hoy.jpg>] [8 <./jericho.jpg>]
+(./2russiantranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[]\T2A/ptm/m/it/9 Answers research journal, 2008--present.
+
+Underfull \hbox (badness 3250) in paragraph at lines 24--31
+\T2A/ptm/m/it/9 L. Jonsson, R. Sabin, and T. G. Dahlgren.  A
+
+Underfull \hbox (badness 1043) in paragraph at lines 44--48
+[]\T2A/ptm/m/it/9 O. Bar-Yosef.  The walls of jericho: An alternative
+
+Underfull \hbox (badness 1412) in paragraph at lines 60--63
+[]\T2A/ptm/m/it/9 R. Bixio and A. Yamac.  Underground shelters in
+
+Underfull \hbox (badness 1552) in paragraph at lines 95--99
+[]\T2A/ptm/m/it/9 Futura-Sciences.  Chasseurs de science : Jarkov, le
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+\T2A/ptm/m/it/9 getyourguide . com / grand-[]canyon-[]l489 / canyoning-[]tc65/$
+[].
+
+Underfull \hbox (badness 3612) in paragraph at lines 126--130
+[]\T2A/ptm/m/it/9 J. Holland.  Mystery of the mammoth and the
+
+Underfull \hbox (badness 3219) in paragraph at lines 126--130
+\T2A/ptm/m/it/9 buttercups, 1976.  https://www.gi.alaska.edu/alaska-
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+\T2A/ptm/m/it/9 tree / master / 5-[]TOOLS-[]DEV / dev / 0-[]completed-[]kmls$[]
+.
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[]\T2A/ptm/m/it/9 Junho.  Mega-current ripples.  []$https : / / github .
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+\T2A/ptm/m/it/9 com / sovrynn / ecdo / tree / master / 1-[]EVIDENCE /
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+\T2A/ptm/m/it/9 physical-[]material / water-[]^^]ow-[]structures /
+
+Underfull \hbox (badness 7814) in paragraph at lines 146--149
+[]\T2A/ptm/m/it/9 Junho.  Ecdo github research repository, 2024.
+
+Underfull \hbox (badness 3302) in paragraph at lines 156--161
+\T2A/ptm/m/it/9 and J. Mangerud.  Cave stratigraphy in western
+
+Underfull \hbox (badness 1237) in paragraph at lines 163--169
+[]\T2A/ptm/m/it/9 B. Lehner, M. Anand, E. Fluet-Chouinard, F. Tan,
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--175
+\T2A/ptm/m/it/9 landform.  IOP Conference Series: Earth and
+
+Underfull \hbox (badness 3646) in paragraph at lines 195--199
+[]\T2A/ptm/m/it/9 National Park Service.  Geology - grand canyon
+
+Underfull \hbox (badness 8113) in paragraph at lines 218--225
+\T2A/ptm/m/it/9 05 / gli-[]archi-[]di-[]san-[]ciro-[]e-[]i-[]giganti-[]di . htm
+l$[], May 2017.
+[9]
+Underfull \hbox (badness 7925) in paragraph at lines 277--282
+[]\T2A/ptm/m/it/9 T. E. Skeptic.  Master exothermic core-mantle
+
+Underfull \hbox (badness 3547) in paragraph at lines 277--282
+\T2A/ptm/m/it/9 decoupling ^^U dzhanibekov oscillation (ecdo) theory,
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\T2A/ptm/m/it/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 1824) in paragraph at lines 366--370
+[]\T2A/ptm/m/it/9 J. Whitmore.  Lithostratigraphic correlation of the
+
+Underfull \hbox (badness 1077) in paragraph at lines 366--370
+\T2A/ptm/m/it/9 sandstones: Implications for flood geology.  Answers
+
+Underfull \hbox (badness 1360) in paragraph at lines 398--401
+\T2A/ptm/m/it/9 The Free Encyclopedia, 2025.  [Online; accessed 8-
+
+Underfull \hbox (badness 1895) in paragraph at lines 424--429
+[]\T2A/ptm/m/it/9 G. Yang, M. Tian, X. Zhang, Z. Chen, R. Wray,
+
+Underfull \hbox (badness 6741) in paragraph at lines 431--436
+[]\T2A/ptm/m/it/9 T. C. Zeng, A. J. Aw, and M. W. Feldman.
+
+Underfull \hbox (badness 2707) in paragraph at lines 431--436
+\T2A/ptm/m/it/9 kin groups explain the post-neolithic y-chromosome
+) [10] (./2russiantranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information) </home/m120938/.texlive202
+3/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1095.600pk> </home/m120938/.texlive20
+23/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </home/m120938/.texlive2
+023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0900.600pk> </home/m120938/.texlive
+2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk> </home/m120938/.texliv
+e2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.600pk></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
+w/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a
+.pfb>
+Output written on 2russiantranslated.pdf (10 pages, 3206599 bytes).
+Transcript written on 2russiantranslated.log.
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+The top-level auxiliary file: 2russiantranslated.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "15" isn't style-file defined
+--line 120 of file egbib.bib
+Warning--entry type for "42" isn't style-file defined
+--line 357 of file egbib.bib
+Warning--to sort, need author or key in 42
+Warning--to sort, need author or key in 88
+Warning--to sort, need author, editor, or key in 103
+Warning--empty author and editor in 103
+Warning--empty author in 88
+Warning--empty booktitle in 54
+Warning--empty year in 63
+Warning--empty journal in 145
+Warning--empty publisher in 64
+(There were 11 warnings)
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./2russiantranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu))
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex)
+(./cvpr.sty (./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `T2A/ptm/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 80.
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./2russiantranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:6' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+
+LaTeX Font Warning: Font shape `T2A/ptm/b/n' undefined
+(Font)              using `T2A/ptm/m/n' instead on input line 104.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `T2A/pcr/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 104.
+
+
+LaTeX Font Warning: Font shape `T2A/ptm/m/it' undefined
+(Font)              using `T2A/ptm/m/n' instead on input line 106.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
+dist/fonts/enc/dvips/base/8r.enc} <./jarkov-mammoth.jpg>]
+Underfull \hbox (badness 1320) in paragraph at lines 172--173
+\T2A/ptm/m/it/10 од-ним спор-ным во-про-сом в со-вре-мен-ной гео-ло-гии.
+
+Underfull \hbox (badness 1231) in paragraph at lines 172--173
+\T2A/ptm/m/it/10 ли-о-нов лет [[]]. Од-на-ко ис-сле-до-ва-тель-ская груп-па
+
+Underfull \vbox (badness 1997) has occurred while \output is active [2 <./grand
+-canyon.jpg>] (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+Underfull \hbox (badness 2096) in paragraph at lines 233--234
+[]\T2A/ptm/m/it/10 Смеси био-мас-сы раз-лич-ных ви-дов жи-вот-ных и
+
+Underfull \hbox (badness 1406) in paragraph at lines 233--234
+\T2A/ptm/m/it/10 рас-те-ний, ча-сто встре-ча-ю-щи-е-ся в ви-де ис-ко-па-е-мо-
+
+Underfull \hbox (badness 5260) in paragraph at lines 233--234
+\T2A/ptm/m/it/10 го в сло-ях оса-доч-ных по-род, пред-став-ля-ют со-
+
+Underfull \hbox (badness 1448) in paragraph at lines 233--234
+\T2A/ptm/m/it/10 бой еще од-ну за-га-доч-ную ано-ма-лию. В "Reliquo\OT1/ptm/m/n
+/10 ^^Z
+
+Underfull \hbox (badness 1132) in paragraph at lines 233--234
+\T2A/ptm/m/it/10 Diluvian\OT1/ptm/m/n/10 ^^Z\T2A/ptm/m/it/10 "преподобный Уи-ль
+ям Ба-к-ленд опи-сы-ва-ет
+[3 <./coconino.jpg>]
+Underfull \hbox (badness 3240) in paragraph at lines 260--261
+[]\T2A/ptm/m/it/10 Одним из пре-крас-ных при-ме-ров слу-жит Нью-
+
+Underfull \vbox (badness 1412) has occurred while \output is active [4 <./Grand
+_Staircase-big.jpg> <./derinkuyu.jpeg> <./derinkuyu-air.jpg>]
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+Underfull \vbox (badness 1122) has occurred while \output is active [5 <./muck-
+crop.jpeg> <./ww19.jpg> <./dolmen.jpg>]
+Underfull \hbox (badness 2662) in paragraph at lines 296--297
+[]\T2A/ptm/b/n/10 Множество мас-со-вых вы-ми-ра-ний про-изо-шло на
+
+Underfull \hbox (badness 5431) in paragraph at lines 296--297
+\T2A/ptm/b/n/10 зем-ле, наи-бо-лее изу-че-ны из них "Боль-шая пя-
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+\T2A/ptm/b/n/10 тјр-ка"фанерозойских со-бы-тий: позд-не-ор-до-вик-ское
+[6 <./bottleneck.jpg> <./columbia.jpg>]
+Underfull \hbox (badness 1009) in paragraph at lines 340--341
+\T2A/ptm/b/n/10 за-хо-ро-не-ни-я-ми и раз-ру-ше-ни-я-ми, что со-зда-јт ле-то-
+[7 <./zhangjiajie.jpg> <./hoy.jpg>] [8 <./jericho.jpg>]
+(./2russiantranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[]\T2A/ptm/m/it/9 Answers research journal, 2008--present.
+
+Underfull \hbox (badness 3250) in paragraph at lines 24--31
+\T2A/ptm/m/it/9 L. Jonsson, R. Sabin, and T. G. Dahlgren.  A
+
+Underfull \hbox (badness 1043) in paragraph at lines 44--48
+[]\T2A/ptm/m/it/9 O. Bar-Yosef.  The walls of jericho: An alternative
+
+Underfull \hbox (badness 1412) in paragraph at lines 60--63
+[]\T2A/ptm/m/it/9 R. Bixio and A. Yamac.  Underground shelters in
+
+Underfull \hbox (badness 1552) in paragraph at lines 95--99
+[]\T2A/ptm/m/it/9 Futura-Sciences.  Chasseurs de science : Jarkov, le
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+\T2A/ptm/m/it/9 getyourguide . com / grand-[]canyon-[]l489 / canyoning-[]tc65/$
+[].
+
+Underfull \hbox (badness 3612) in paragraph at lines 126--130
+[]\T2A/ptm/m/it/9 J. Holland.  Mystery of the mammoth and the
+
+Underfull \hbox (badness 3219) in paragraph at lines 126--130
+\T2A/ptm/m/it/9 buttercups, 1976.  https://www.gi.alaska.edu/alaska-
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+\T2A/ptm/m/it/9 tree / master / 5-[]TOOLS-[]DEV / dev / 0-[]completed-[]kmls$[]
+.
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[]\T2A/ptm/m/it/9 Junho.  Mega-current ripples.  []$https : / / github .
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+\T2A/ptm/m/it/9 com / sovrynn / ecdo / tree / master / 1-[]EVIDENCE /
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+\T2A/ptm/m/it/9 physical-[]material / water-[]^^]ow-[]structures /
+
+Underfull \hbox (badness 7814) in paragraph at lines 146--149
+[]\T2A/ptm/m/it/9 Junho.  Ecdo github research repository, 2024.
+
+Underfull \hbox (badness 3302) in paragraph at lines 156--161
+\T2A/ptm/m/it/9 and J. Mangerud.  Cave stratigraphy in western
+
+Underfull \hbox (badness 1237) in paragraph at lines 163--169
+[]\T2A/ptm/m/it/9 B. Lehner, M. Anand, E. Fluet-Chouinard, F. Tan,
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--175
+\T2A/ptm/m/it/9 landform.  IOP Conference Series: Earth and
+
+Underfull \hbox (badness 3646) in paragraph at lines 195--199
+[]\T2A/ptm/m/it/9 National Park Service.  Geology - grand canyon
+
+Underfull \hbox (badness 8113) in paragraph at lines 218--225
+\T2A/ptm/m/it/9 05 / gli-[]archi-[]di-[]san-[]ciro-[]e-[]i-[]giganti-[]di . htm
+l$[], May 2017.
+[9]
+Underfull \hbox (badness 7925) in paragraph at lines 277--282
+[]\T2A/ptm/m/it/9 T. E. Skeptic.  Master exothermic core-mantle
+
+Underfull \hbox (badness 3547) in paragraph at lines 277--282
+\T2A/ptm/m/it/9 decoupling ^^U dzhanibekov oscillation (ecdo) theory,
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\T2A/ptm/m/it/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 1824) in paragraph at lines 366--370
+[]\T2A/ptm/m/it/9 J. Whitmore.  Lithostratigraphic correlation of the
+
+Underfull \hbox (badness 1077) in paragraph at lines 366--370
+\T2A/ptm/m/it/9 sandstones: Implications for flood geology.  Answers
+
+Underfull \hbox (badness 1360) in paragraph at lines 398--401
+\T2A/ptm/m/it/9 The Free Encyclopedia, 2025.  [Online; accessed 8-
+
+Underfull \hbox (badness 1895) in paragraph at lines 424--429
+[]\T2A/ptm/m/it/9 G. Yang, M. Tian, X. Zhang, Z. Chen, R. Wray,
+
+Underfull \hbox (badness 6741) in paragraph at lines 431--436
+[]\T2A/ptm/m/it/9 T. C. Zeng, A. J. Aw, and M. W. Feldman.
+
+Underfull \hbox (badness 2707) in paragraph at lines 431--436
+\T2A/ptm/m/it/9 kin groups explain the post-neolithic y-chromosome
+) [10] (./2russiantranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information) </home/m120938/.texlive202
+3/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1095.600pk> </home/m120938/.texlive20
+23/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </home/m120938/.texlive2
+023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0900.600pk> </home/m120938/.texlive
+2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk> </home/m120938/.texliv
+e2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.600pk></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
+w/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a
+.pfb>
+Output written on 2russiantranslated.pdf (10 pages, 3206599 bytes).
+Transcript written on 2russiantranslated.log.
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./2russiantranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu))
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex)
+(./cvpr.sty (./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `T2A/ptm/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 80.
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./2russiantranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:6' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+
+LaTeX Font Warning: Font shape `T2A/ptm/b/n' undefined
+(Font)              using `T2A/ptm/m/n' instead on input line 104.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `T2A/pcr/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 104.
+
+
+LaTeX Font Warning: Font shape `T2A/ptm/m/it' undefined
+(Font)              using `T2A/ptm/m/n' instead on input line 106.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
+dist/fonts/enc/dvips/base/8r.enc} <./jarkov-mammoth.jpg>]
+Underfull \hbox (badness 1320) in paragraph at lines 172--173
+\T2A/ptm/m/it/10 од-ним спор-ным во-про-сом в со-вре-мен-ной гео-ло-гии.
+
+Underfull \hbox (badness 1231) in paragraph at lines 172--173
+\T2A/ptm/m/it/10 ли-о-нов лет [[]]. Од-на-ко ис-сле-до-ва-тель-ская груп-па
+
+Underfull \vbox (badness 1997) has occurred while \output is active [2 <./grand
+-canyon.jpg>] (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+Underfull \hbox (badness 2096) in paragraph at lines 233--234
+[]\T2A/ptm/m/it/10 Смеси био-мас-сы раз-лич-ных ви-дов жи-вот-ных и
+
+Underfull \hbox (badness 1406) in paragraph at lines 233--234
+\T2A/ptm/m/it/10 рас-те-ний, ча-сто встре-ча-ю-щи-е-ся в ви-де ис-ко-па-е-мо-
+
+Underfull \hbox (badness 5260) in paragraph at lines 233--234
+\T2A/ptm/m/it/10 го в сло-ях оса-доч-ных по-род, пред-став-ля-ют со-
+
+Underfull \hbox (badness 1448) in paragraph at lines 233--234
+\T2A/ptm/m/it/10 бой еще од-ну за-га-доч-ную ано-ма-лию. В "Reliquo\OT1/ptm/m/n
+/10 ^^Z
+
+Underfull \hbox (badness 1132) in paragraph at lines 233--234
+\T2A/ptm/m/it/10 Diluvian\OT1/ptm/m/n/10 ^^Z\T2A/ptm/m/it/10 "преподобный Уи-ль
+ям Ба-к-ленд опи-сы-ва-ет
+[3 <./coconino.jpg>]
+Underfull \hbox (badness 3240) in paragraph at lines 260--261
+[]\T2A/ptm/m/it/10 Одним из пре-крас-ных при-ме-ров слу-жит Нью-
+
+Underfull \vbox (badness 1412) has occurred while \output is active [4 <./Grand
+_Staircase-big.jpg> <./derinkuyu.jpeg> <./derinkuyu-air.jpg>]
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+Underfull \vbox (badness 1122) has occurred while \output is active [5 <./muck-
+crop.jpeg> <./ww19.jpg> <./dolmen.jpg>]
+Underfull \hbox (badness 2662) in paragraph at lines 296--297
+[]\T2A/ptm/b/n/10 Множество мас-со-вых вы-ми-ра-ний про-изо-шло на
+
+Underfull \hbox (badness 5431) in paragraph at lines 296--297
+\T2A/ptm/b/n/10 зем-ле, наи-бо-лее изу-че-ны из них "Боль-шая пя-
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+\T2A/ptm/b/n/10 тјр-ка"фанерозойских со-бы-тий: позд-не-ор-до-вик-ское
+[6 <./bottleneck.jpg> <./columbia.jpg>]
+Underfull \hbox (badness 1009) in paragraph at lines 340--341
+\T2A/ptm/b/n/10 за-хо-ро-не-ни-я-ми и раз-ру-ше-ни-я-ми, что со-зда-јт ле-то-
+[7 <./zhangjiajie.jpg> <./hoy.jpg>] [8 <./jericho.jpg>]
+(./2russiantranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[]\T2A/ptm/m/it/9 Answers research journal, 2008--present.
+
+Underfull \hbox (badness 3250) in paragraph at lines 24--31
+\T2A/ptm/m/it/9 L. Jonsson, R. Sabin, and T. G. Dahlgren.  A
+
+Underfull \hbox (badness 1043) in paragraph at lines 44--48
+[]\T2A/ptm/m/it/9 O. Bar-Yosef.  The walls of jericho: An alternative
+
+Underfull \hbox (badness 1412) in paragraph at lines 60--63
+[]\T2A/ptm/m/it/9 R. Bixio and A. Yamac.  Underground shelters in
+
+Underfull \hbox (badness 1552) in paragraph at lines 95--99
+[]\T2A/ptm/m/it/9 Futura-Sciences.  Chasseurs de science : Jarkov, le
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+\T2A/ptm/m/it/9 getyourguide . com / grand-[]canyon-[]l489 / canyoning-[]tc65/$
+[].
+
+Underfull \hbox (badness 3612) in paragraph at lines 126--130
+[]\T2A/ptm/m/it/9 J. Holland.  Mystery of the mammoth and the
+
+Underfull \hbox (badness 3219) in paragraph at lines 126--130
+\T2A/ptm/m/it/9 buttercups, 1976.  https://www.gi.alaska.edu/alaska-
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+\T2A/ptm/m/it/9 tree / master / 5-[]TOOLS-[]DEV / dev / 0-[]completed-[]kmls$[]
+.
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[]\T2A/ptm/m/it/9 Junho.  Mega-current ripples.  []$https : / / github .
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+\T2A/ptm/m/it/9 com / sovrynn / ecdo / tree / master / 1-[]EVIDENCE /
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+\T2A/ptm/m/it/9 physical-[]material / water-[]^^]ow-[]structures /
+
+Underfull \hbox (badness 7814) in paragraph at lines 146--149
+[]\T2A/ptm/m/it/9 Junho.  Ecdo github research repository, 2024.
+
+Underfull \hbox (badness 3302) in paragraph at lines 156--161
+\T2A/ptm/m/it/9 and J. Mangerud.  Cave stratigraphy in western
+
+Underfull \hbox (badness 1237) in paragraph at lines 163--169
+[]\T2A/ptm/m/it/9 B. Lehner, M. Anand, E. Fluet-Chouinard, F. Tan,
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--175
+\T2A/ptm/m/it/9 landform.  IOP Conference Series: Earth and
+
+Underfull \hbox (badness 3646) in paragraph at lines 195--199
+[]\T2A/ptm/m/it/9 National Park Service.  Geology - grand canyon
+
+Underfull \hbox (badness 8113) in paragraph at lines 218--225
+\T2A/ptm/m/it/9 05 / gli-[]archi-[]di-[]san-[]ciro-[]e-[]i-[]giganti-[]di . htm
+l$[], May 2017.
+[9]
+Underfull \hbox (badness 7925) in paragraph at lines 277--282
+[]\T2A/ptm/m/it/9 T. E. Skeptic.  Master exothermic core-mantle
+
+Underfull \hbox (badness 3547) in paragraph at lines 277--282
+\T2A/ptm/m/it/9 decoupling ^^U dzhanibekov oscillation (ecdo) theory,
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\T2A/ptm/m/it/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 1824) in paragraph at lines 366--370
+[]\T2A/ptm/m/it/9 J. Whitmore.  Lithostratigraphic correlation of the
+
+Underfull \hbox (badness 1077) in paragraph at lines 366--370
+\T2A/ptm/m/it/9 sandstones: Implications for flood geology.  Answers
+
+Underfull \hbox (badness 1360) in paragraph at lines 398--401
+\T2A/ptm/m/it/9 The Free Encyclopedia, 2025.  [Online; accessed 8-
+
+Underfull \hbox (badness 1895) in paragraph at lines 424--429
+[]\T2A/ptm/m/it/9 G. Yang, M. Tian, X. Zhang, Z. Chen, R. Wray,
+
+Underfull \hbox (badness 6741) in paragraph at lines 431--436
+[]\T2A/ptm/m/it/9 T. C. Zeng, A. J. Aw, and M. W. Feldman.
+
+Underfull \hbox (badness 2707) in paragraph at lines 431--436
+\T2A/ptm/m/it/9 kin groups explain the post-neolithic y-chromosome
+) [10] (./2russiantranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information) </home/m120938/.texlive202
+3/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1095.600pk> </home/m120938/.texlive20
+23/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </home/m120938/.texlive2
+023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0900.600pk> </home/m120938/.texlive
+2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk> </home/m120938/.texliv
+e2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.600pk></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
+w/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a
+.pfb>
+Output written on 2russiantranslated.pdf (10 pages, 3206599 bytes).
+Transcript written on 2russiantranslated.log.

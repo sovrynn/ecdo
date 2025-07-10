@@ -1,0 +1,9 @@
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{muck-crop.jpeg}
+\end{center}
+   \caption{अलास्काली ‘मक’, जसमध्ये बोटबिरुवा, वनस्पति र जनावरका टुक्रा हरू एकआपसमा अस्तव्यस्त रूपले वितरित जमेको सिल्ट र बरफमा छन् \cite{146}.}
+\label{fig:7}
+\label{fig:onecol}
+\end{figure}

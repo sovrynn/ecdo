@@ -1,0 +1,118 @@
+\documentclass[10pt,twocolumn,letterpaper]{article}
+
+\usepackage{booktabs}
+% \usepackage{caption}
+% \captionsetup[table]{skip=8pt}   % केवल तालिकाहरूमा प्रभाव पार्छ
+\usepackage{stfloats}  % यो प्रिएम्बलमा थप्नुहोस्
+\usepackage{float}
+% \usepackage[T1]{fontenc} 
+
+%–– line-breaking for Nepali (uses spaces, but set locale if you want hyphenation patterns) ––
+% \XeTeXlinebreaklocale "ne"
+% \XeTeXlinebreakskip = 0pt plus 1pt
+
+
+\usepackage{fontspec}
+\usepackage{ucharclasses}
+
+%–– define your two fonts ––
+\newfontfamily\latinfont{Latin Modern Roman}              % for all non-Devanagari text
+% \newfontfamily\nepalifont[Script=Devanagari]{Noto Serif Devanagari}    % for all Nepali text; change “Phobikha” to your font’s exact name
+\newfontfamily\hindifont[Script=Devanagari]{Noto Sans Devanagari}    % for 
+
+%–– ucharclasses auto-detects Unicode blocks ––
+\setDefaultTransitions{\latinfont}{}                      
+\setTransitionsForDevanagari{\hindifont}{\latinfont}   % switch to Nepali font in Devanagari, then back
+
+
+\usepackage{cvpr}
+\usepackage{times}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\cvprfinalcopy % *** अन्तिम पेशका लागि यो लाइन अनकमेण्ट गर्नुहोस्
+\def\cvprPaperID{****} % *** यहाँ CVPR Paper ID प्रविष्ट गर्नुहोस्
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+% \renewcommand{\tablename}{ตาราง}
+% \renewcommand{\figurename}{รูปที่}   % or whatever you like instead of "Hình"
+% \renewcommand{\refname}{เอกสารอ้างอิง}
+
+% \makeatletter
+% \def\abstract{%
+%   \centerline{\large\bf บทคัดย่อ}% <-- your new label
+%   \vspace*{12pt}%
+%   \it%
+% }
+% \makeatother
+
+% This makes the font slightly bigger than base (10) and bold in Subsection headings rather than using ptmb
+\makeatletter
+\def\cvprsubsection{%
+  \@startsection{subsection}{2}{\z@}%
+    {8pt plus 2pt minus 2pt}{6pt}%
+    % {\normalfont\bfseries\selectfont}%
+    {\normalfont\bfseries\fontsize{11}{13}\selectfont}%
+}
+\makeatother
+
+% So this hardcodes the style for the numbers in the section/subsection headings so they're bold
+\font\elvbf=ptmb scaled 1100
+\font\elvbfs=ptmb scaled 1200
+\makeatletter
+% Section number: Large + bold
+\renewcommand\thesection{%
+  {\elvbfs\arabic{section}}%
+}
+
+% Subsection number: normalsize + bold + custom punctuation
+\renewcommand\thesubsection{%
+  {\elvbf
+   \arabic{section}.\arabic{subsection}}%
+}
+\makeatother
+
+% पृष्ठहरू सबमिशन मोडमा क्रमांकित छन्, र क्यामेरा-रेडीमा बिना नम्बर
+%\ifcvprfinal\pagestyle{empty}\fi
+\setcounter{page}{1}
+\begin{document}
+
+%%%%%%%%% शीर्षक
+\title{aoeu}
+
+\author{xxx\\
+x\\
+xx: \href{https://sovrynn.github.io}{sovrynn.github.io}\\
+ECDO xxx \href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ecdo}\\
+{\tt\small junhobtc@proton.me}
+}
+
+\maketitle
+%\thispagestyle{empty}
+
+\begin{abstract}
+
+aaoeuaoeu
+
+\end{abstract}
+
+\section{aoeu}
+
+aoeu स aoeuaeu
+
+युक्त राष्ट्र संघका जनता हरूले मानवका मौलिक अधिकारहरू र मनुष्यको मान तथा कदर र नर 
+
+\clearpage
+\twocolumn
+
+{\small
+\bibliographystyle{ieee}
+\bibliography{egbib}
+}
+
+\end{document}

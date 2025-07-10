@@ -1,0 +1,5 @@
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\cvprfinalcopy % *** សូមដោះស្រាយបន្ទាត់នេះសម្រាប់ការដាក់ស្នើចុងក្រោយ
+
+\def\cvprPaperID{****} % *** សូមបញ្ចូលលេខ ID របស់អត្ថបទ CVPR នៅទីនេះ

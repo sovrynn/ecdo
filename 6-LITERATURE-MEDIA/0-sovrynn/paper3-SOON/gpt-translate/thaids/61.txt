@@ -1,0 +1,4 @@
+\renewcommand{\refname}{เอกสารอ้างอิง}
+\bibliographystyle{ieee}
+\bibliography{egbib}
+}

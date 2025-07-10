@@ -1,0 +1,5 @@
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{pike.jpg}
+\end{center}
+   \caption{ຫີນບາທໍ່ລິດ Pike Peak ທີ່ມີຊື່ສຽງ, ເນັ້ນໃສ່ສີແດງ, ພ້ອມກັບພູມສັນຖານຂອງພາກຕາເວັນຕົກຂອງສະຫະລັດອາເມລິກາ \cite{36}. ຈິງໆແລ້ວ ສະຫະລັດອາເມລິກາສາມາດຖືກສ້າງຕັ້ງຂຶ້ນເພື່ອຄວບຄຸມສະຖານທີ່ນີ້ໄດ້ບໍ?}
+\label{fig:11}

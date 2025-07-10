@@ -1,0 +1,5 @@
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+% Halaman dinomborkan dalam mod penyerahan, dan tidak bernombor dalam mod siap kamera
+%\ifcvprfinal\pagestyle{empty}\fi
+\setcounter{page}{1}

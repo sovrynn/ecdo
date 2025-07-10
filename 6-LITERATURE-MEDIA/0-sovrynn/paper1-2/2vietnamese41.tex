@@ -15,12 +15,19 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\renewcommand{\figurename}{Hình}   % or whatever you like instead of "Hình"
+
 % Bao gồm các gói khác tại đây, trước hyperref.
 
 % Nếu bạn bình luận hyperref rồi sau đó bỏ bình luận nó, bạn nên xóa
 % egpaper.aux trước khi chạy lại latex.  (Hoặc chỉ cần nhấn 'q' ở lần chạy latex đầu tiên, để nó hoàn thành, và bạn sẽ ổn).
 
 \usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\makeatletter
+\def\cvprsubsection{\@startsection {subsection}{2}{\z@}
+    {8pt plus 2pt minus 2pt}{6pt}{\bfseries\normalsize}}
+\makeatother
 
 \cvprfinalcopy % *** Bỏ chú thích dòng này cho bản nộp cuối cùng
 

@@ -1,0 +1,5 @@
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{b.png}
+\end{center}
+   \caption{विश्वभरिका बाढी कथाहरूको स्थान \cite{3}.}

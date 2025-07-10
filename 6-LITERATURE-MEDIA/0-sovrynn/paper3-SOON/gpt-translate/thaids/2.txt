@@ -1,0 +1,5 @@
+\usepackage{stfloats}  % เพิ่มบรรทัดนี้ในส่วนพรีแอมเบิล
+\usepackage{float}
+
+\usepackage{cvpr}
+\usepackage{times}

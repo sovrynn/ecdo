@@ -1,0 +1,10 @@
+\includegraphics[width=1\linewidth]{tyrol.jpg}
+\end{center}
+\caption{Өмнөд Тирол дахь бункерууд, Швейцарь. Европын Альпын нуруу дамжсан Швейцарь нь уулын бункеруудаа ухаалгаар нууж чаддагаараа алдартай \cite{32}.}
+\label{fig:7}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}

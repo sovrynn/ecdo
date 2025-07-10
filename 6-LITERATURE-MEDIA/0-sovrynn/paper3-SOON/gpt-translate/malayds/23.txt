@@ -1,0 +1,5 @@
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{penta.jpg}
+\end{center}
+   \caption{Apa sebenarnya yang terletak di bawah Rumah Putih dan Pentagon? Jelas, sebuah rangkaian terowong bawah tanah yang dalam (Gambar: \cite{31}).}

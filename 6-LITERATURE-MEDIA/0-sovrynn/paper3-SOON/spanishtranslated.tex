@@ -22,6 +22,17 @@
 % run, let it finish, and you should be clear).
 \usepackage[breaklinks=true,bookmarks=false]{hyperref}
 
+\makeatletter
+\def\abstract{%
+  \centerline{\large\bf Resumen}% <-- your new label
+  \vspace*{12pt}%
+  \it%
+}
+\makeatother
+
+\renewcommand{\tablename}{Tabla}  % now \caption will say “Tabla 1” instead of “Table 1”
+\renewcommand{\figurename}{Figura}   % or whatever you like instead of "Hình"
+
 \cvprfinalcopy % *** Uncomment this line for the final submission
 
 \def\cvprPaperID{****} % *** Enter the CVPR Paper ID here

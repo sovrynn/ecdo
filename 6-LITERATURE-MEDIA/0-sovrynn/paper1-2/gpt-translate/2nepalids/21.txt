@@ -1,0 +1,5 @@
+% \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
+\includegraphics[width=1\textwidth]{Grand_Staircase-big.jpg}
+\end{center}
+   \caption{ग्रान्ड क्यानन बनाउने तलछट तहहरू (चित्रको दायाँ भाग) सिधै उत्तरतिर सिडार ब्रेक्स, युटाह (चित्रको बायाँ भाग) सम्म फैलिएका छन्, जहाँ ती सबै माथि तिर झुकेका छन् \cite{50}.}
+\label{fig:4}

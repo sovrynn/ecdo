@@ -1,0 +1,737 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./koreantranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/cjk-ko/kotex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kotex-utf/kotex.cfg)
+(/usr/share/texlive/texmf-dist/tex/xetex/xetexko/xetexko.sty
+(/usr/share/texlive/texmf-dist/tex/generic/unicode-data/load-unicode-xetex-clas
+ses.tex 
+load-unicode-xetex-classes.tex v1.17 (2023-09-18)
+Reading Unicode east Asian character class data
+# LineBreak-15.1.0.txt 
+# Date: 2023-07-28, 13:19:22 GMT [KW] 
+# EastAsianWidth-15.1.0.txt 
+# Date: 2023-07-28, 23:34:08 GMT 
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty))) (./cvpr.sty
+ (./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 71.
+
+(./koreantranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+
+LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 71.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 71.
+
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 97.
+
+
+LaTeX Font Warning: Font shape `TU/UnBatang.ttf(0)/m/it' undefined
+(Font)              using `TU/UnBatang.ttf(0)/m/n' instead on input line 97.
+
+
+Underfull \vbox (badness 3138) has occurred while \output is active [1]
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/b/n' instead on input line 150.
+
+
+LaTeX Font Warning: Font shape `TU/UnBatang.ttf(0)/b/it' undefined
+(Font)              using `TU/UnBatang.ttf(0)/b/n' instead on input line 150.
+
+
+Underfull \vbox (badness 2142) has occurred while \output is active [2]
+[3] [4] [5]
+Underfull \vbox (badness 10000) has occurred while \output is active [6]
+[7] [8] (./koreantranslated.bbl
+Underfull \hbox (badness 1024) in paragraph at lines 9--13
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][] [] [][][] [] [][][]$[]\
+TU/UnBatang.ttf(0)/m/it/9 , \TU/ptm/b/it/9 Jan. 2024.  Ac-
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+[][][] [] [][][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][][][][][][][
+][] [] [][][]$[]\TU/UnBatang.ttf(0)/m/it/9 , \TU/ptm/b/it/9 July
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+[]\TU/ptm/b/it/9 Internet Archive.  []archived versions of
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+\TU/ptm/b/it/9 amallulla.com[] \TU/UnBatang.ttf(0)/m/it/9 .  []$[][][][][] [] [
+] [] [][][] [] [][][][][][][] [] [][][] [] [][][] []
+
+Underfull \hbox (badness 3657) in paragraph at lines 53--58
+[][][][][][][][][][][][][][][] [] [][][][][][][][][] [] [][][]$[]\TU/UnBatang.t
+tf(0)/m/it/9 , \TU/ptm/b/it/9 2025.  Accessed:
+
+Underfull \hbox (badness 3849) in paragraph at lines 77--80
+[]\TU/ptm/b/it/9 National Centers for Environmental Information
+
+Underfull \hbox (badness 2644) in paragraph at lines 88--92
+[]\TU/ptm/b/it/9 Project Camelot.  []a letter from a norwegian
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/ptm/b/it/9 https:// theethicalskeptic.com/ 2024/05/23/ master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/ptm/b/it/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+[]\TU/ptm/b/it/9 South Tyrol Blog.  []south tyrol[] s bunker
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+\TU/ptm/b/it/9 landscape[] \TU/UnBatang.ttf(0)/m/it/9 .  []$[][][][][] [] [] []
+ [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]\TU/ptm/b/it/9 sovrynn.  []ecdo/ 6‑literature‑media/ amallulla[] \TU/UnBatang
+.ttf(0)/m/it/9 .
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][]$[]
+\TU/UnBatang.ttf(0)/m/it/9 , \TU/ptm/b/it/9 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][] [] [][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][] 
+[] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][] [] [][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][
+][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][] [] [][][
+][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][] [] [][][][][][] [] [][][][][][][][][][][] [] [][] [] [][][][][] 
+[]
+
+Underfull \hbox (badness 1831) in paragraph at lines 177--184
+[][][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][][][]$[]\TU/UnBatang
+.ttf(0)/m/it/9 , \TU/ptm/b/it/9 2025.  Accessed:
+[9]) [10] (./koreantranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on koreantranslated.pdf (10 pages).
+Transcript written on koreantranslated.log.
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+The top-level auxiliary file: koreantranslated.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "3" isn't style-file defined
+--line 20 of file egbib.bib
+You're missing a field name---line 217 of file egbib.bib
+ :   address      = {Kempton, Pennsylvania},   
+ :                                             % typical HQ location, adjust if needed
+I'm skipping whatever remains of this entry
+Warning--entry type for "38" isn't style-file defined
+--line 355 of file egbib.bib
+Warning--entry type for "39" isn't style-file defined
+--line 363 of file egbib.bib
+Warning--empty year in 31
+Warning--empty year in 28
+Warning--empty year in 22
+Warning--empty year in 27
+Warning--empty year in 35
+(There was 1 error message)
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./koreantranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/cjk-ko/kotex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kotex-utf/kotex.cfg)
+(/usr/share/texlive/texmf-dist/tex/xetex/xetexko/xetexko.sty
+(/usr/share/texlive/texmf-dist/tex/generic/unicode-data/load-unicode-xetex-clas
+ses.tex 
+load-unicode-xetex-classes.tex v1.17 (2023-09-18)
+Reading Unicode east Asian character class data
+# LineBreak-15.1.0.txt 
+# Date: 2023-07-28, 13:19:22 GMT [KW] 
+# EastAsianWidth-15.1.0.txt 
+# Date: 2023-07-28, 23:34:08 GMT 
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty))) (./cvpr.sty
+ (./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 71.
+
+(./koreantranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+
+LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 71.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 71.
+
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 97.
+
+
+LaTeX Font Warning: Font shape `TU/UnBatang.ttf(0)/m/it' undefined
+(Font)              using `TU/UnBatang.ttf(0)/m/n' instead on input line 97.
+
+
+Underfull \vbox (badness 3138) has occurred while \output is active [1]
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/b/n' instead on input line 150.
+
+
+LaTeX Font Warning: Font shape `TU/UnBatang.ttf(0)/b/it' undefined
+(Font)              using `TU/UnBatang.ttf(0)/b/n' instead on input line 150.
+
+
+Underfull \vbox (badness 2142) has occurred while \output is active [2]
+[3] [4] [5]
+Underfull \vbox (badness 10000) has occurred while \output is active [6]
+[7] [8] (./koreantranslated.bbl
+Underfull \hbox (badness 1024) in paragraph at lines 9--13
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][] [] [][][] [] [][][]$[]\
+TU/UnBatang.ttf(0)/m/it/9 , \TU/ptm/b/it/9 Jan. 2024.  Ac-
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+[][][] [] [][][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][][][][][][][
+][] [] [][][]$[]\TU/UnBatang.ttf(0)/m/it/9 , \TU/ptm/b/it/9 July
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+[]\TU/ptm/b/it/9 Internet Archive.  []archived versions of
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+\TU/ptm/b/it/9 amallulla.com[] \TU/UnBatang.ttf(0)/m/it/9 .  []$[][][][][] [] [
+] [] [][][] [] [][][][][][][] [] [][][] [] [][][] []
+
+Underfull \hbox (badness 3657) in paragraph at lines 53--58
+[][][][][][][][][][][][][][][] [] [][][][][][][][][] [] [][][]$[]\TU/UnBatang.t
+tf(0)/m/it/9 , \TU/ptm/b/it/9 2025.  Accessed:
+
+Underfull \hbox (badness 3849) in paragraph at lines 77--80
+[]\TU/ptm/b/it/9 National Centers for Environmental Information
+
+Underfull \hbox (badness 2644) in paragraph at lines 88--92
+[]\TU/ptm/b/it/9 Project Camelot.  []a letter from a norwegian
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/ptm/b/it/9 https:// theethicalskeptic.com/ 2024/05/23/ master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/ptm/b/it/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+[]\TU/ptm/b/it/9 South Tyrol Blog.  []south tyrol[] s bunker
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+\TU/ptm/b/it/9 landscape[] \TU/UnBatang.ttf(0)/m/it/9 .  []$[][][][][] [] [] []
+ [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]\TU/ptm/b/it/9 sovrynn.  []ecdo/ 6‑literature‑media/ amallulla[] \TU/UnBatang
+.ttf(0)/m/it/9 .
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][]$[]
+\TU/UnBatang.ttf(0)/m/it/9 , \TU/ptm/b/it/9 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][] [] [][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][] 
+[] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][] [] [][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][
+][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][] [] [][][
+][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][] [] [][][][][][] [] [][][][][][][][][][][] [] [][] [] [][][][][] 
+[]
+
+Underfull \hbox (badness 1831) in paragraph at lines 177--184
+[][][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][][][]$[]\TU/UnBatang
+.ttf(0)/m/it/9 , \TU/ptm/b/it/9 2025.  Accessed:
+[9]) [10] (./koreantranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on koreantranslated.pdf (10 pages).
+Transcript written on koreantranslated.log.
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./koreantranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/cjk-ko/kotex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kotex-utf/kotex.cfg)
+(/usr/share/texlive/texmf-dist/tex/xetex/xetexko/xetexko.sty
+(/usr/share/texlive/texmf-dist/tex/generic/unicode-data/load-unicode-xetex-clas
+ses.tex 
+load-unicode-xetex-classes.tex v1.17 (2023-09-18)
+Reading Unicode east Asian character class data
+# LineBreak-15.1.0.txt 
+# Date: 2023-07-28, 13:19:22 GMT [KW] 
+# EastAsianWidth-15.1.0.txt 
+# Date: 2023-07-28, 23:34:08 GMT 
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty))) (./cvpr.sty
+ (./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 71.
+
+(./koreantranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+
+LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 71.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 71.
+
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 97.
+
+
+LaTeX Font Warning: Font shape `TU/UnBatang.ttf(0)/m/it' undefined
+(Font)              using `TU/UnBatang.ttf(0)/m/n' instead on input line 97.
+
+
+Underfull \vbox (badness 3138) has occurred while \output is active [1]
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/b/n' instead on input line 150.
+
+
+LaTeX Font Warning: Font shape `TU/UnBatang.ttf(0)/b/it' undefined
+(Font)              using `TU/UnBatang.ttf(0)/b/n' instead on input line 150.
+
+
+Underfull \vbox (badness 2142) has occurred while \output is active [2]
+[3] [4] [5]
+Underfull \vbox (badness 10000) has occurred while \output is active [6]
+[7] [8] (./koreantranslated.bbl
+Underfull \hbox (badness 1024) in paragraph at lines 9--13
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][] [] [][][] [] [][][]$[]\
+TU/UnBatang.ttf(0)/m/it/9 , \TU/ptm/b/it/9 Jan. 2024.  Ac-
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+[][][] [] [][][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][][][][][][][
+][] [] [][][]$[]\TU/UnBatang.ttf(0)/m/it/9 , \TU/ptm/b/it/9 July
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+[]\TU/ptm/b/it/9 Internet Archive.  []archived versions of
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+\TU/ptm/b/it/9 amallulla.com[] \TU/UnBatang.ttf(0)/m/it/9 .  []$[][][][][] [] [
+] [] [][][] [] [][][][][][][] [] [][][] [] [][][] []
+
+Underfull \hbox (badness 3657) in paragraph at lines 53--58
+[][][][][][][][][][][][][][][] [] [][][][][][][][][] [] [][][]$[]\TU/UnBatang.t
+tf(0)/m/it/9 , \TU/ptm/b/it/9 2025.  Accessed:
+
+Underfull \hbox (badness 3849) in paragraph at lines 77--80
+[]\TU/ptm/b/it/9 National Centers for Environmental Information
+
+Underfull \hbox (badness 2644) in paragraph at lines 88--92
+[]\TU/ptm/b/it/9 Project Camelot.  []a letter from a norwegian
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/ptm/b/it/9 https:// theethicalskeptic.com/ 2024/05/23/ master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/ptm/b/it/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+[]\TU/ptm/b/it/9 South Tyrol Blog.  []south tyrol[] s bunker
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+\TU/ptm/b/it/9 landscape[] \TU/UnBatang.ttf(0)/m/it/9 .  []$[][][][][] [] [] []
+ [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]\TU/ptm/b/it/9 sovrynn.  []ecdo/ 6‑literature‑media/ amallulla[] \TU/UnBatang
+.ttf(0)/m/it/9 .
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][]$[]
+\TU/UnBatang.ttf(0)/m/it/9 , \TU/ptm/b/it/9 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][] [] [][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][] 
+[] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][] [] [][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][
+][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][] [] [][][
+][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][] [] [][][][][][] [] [][][][][][][][][][][] [] [][] [] [][][][][] 
+[]
+
+Underfull \hbox (badness 1831) in paragraph at lines 177--184
+[][][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][][][]$[]\TU/UnBatang
+.ttf(0)/m/it/9 , \TU/ptm/b/it/9 2025.  Accessed:
+[9]) [10] (./koreantranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on koreantranslated.pdf (10 pages).
+Transcript written on koreantranslated.log.

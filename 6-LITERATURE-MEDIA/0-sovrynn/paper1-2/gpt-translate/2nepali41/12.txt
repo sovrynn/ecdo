@@ -1,0 +1,9 @@
+Considering the scale of geological processes required to lay down sediment over such massive swathes of land, the concurrency of massive tectonic forces occurring soon after the sediment layers were laid down, and the miniscule size of the Colorado River in comparison to the massive scale of the Grand Canyon, it seems that there may have been nothing gradual about its formation.
+
+\section{डेरिन्कुयु भूमिगत सहर}
+
+पिरामिड बाहेक, प्राचीन ईन्जिनियरिङ्को एक उत्कृष्ट उदाहरण हो डेरिन्कुयु भूमिगत सहर (चित्र \ref{fig:5}), जुन क्यापाडोसिया, टर्कीमा अवस्थित छ। यो सो क्षेत्रमा रहेका २०० भन्दा बढी भूमिगत आश्रय स्थलहरुमध्ये सबैभन्दा ठूलो हो \cite{54}। यो भूमिगत शहरमा लगभग २०,००० मानिस बस्न सक्थे भन्ने अनुमान छ र १८ तल्ला फैलिएको छ, जसको गहिराइ ८५ मिटर छ। यसको उमेर निश्चित नभए पनि, कम्तीमा २८०० वर्ष पुरानो भएको अनुमान छ। यो सहर मुलायम ज्वालामुखी ढुंगाबाट काटेर बनाइएको हो \cite{52, 53}।
+
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}

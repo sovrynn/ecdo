@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.6.13)  25 JUN 2025 16:29
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.6.27)  4 JUL 2025 05:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,25 +23,60 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
+Package: newunicodechar 2018/04/08 v1.2 Defining Unicode characters
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
 (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen141
-\lightrulewidth=\dimen142
-\cmidrulewidth=\dimen143
-\belowrulesep=\dimen144
-\belowbottomsep=\dimen145
-\aboverulesep=\dimen146
-\abovetopsep=\dimen147
-\cmidrulesep=\dimen148
-\cmidrulekern=\dimen149
-\defaultaddspace=\dimen150
+\heavyrulewidth=\dimen143
+\lightrulewidth=\dimen144
+\cmidrulewidth=\dimen145
+\belowrulesep=\dimen146
+\belowbottomsep=\dimen147
+\aboverulesep=\dimen148
+\abovetopsep=\dimen149
+\cmidrulesep=\dimen150
+\cmidrulekern=\dimen151
+\defaultaddspace=\dimen152
 \@cmidla=\count191
 \@cmidlb=\count192
-\@aboverulesep=\dimen151
-\@belowrulesep=\dimen152
+\@aboverulesep=\dimen153
+\@belowrulesep=\dimen154
 \@thisruleclass=\count193
 \@lastruleclass=\count194
-\@thisrulewidth=\dimen153
+\@thisrulewidth=\dimen155
 )
 (/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty
 Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
@@ -52,9 +87,9 @@ ings
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count197
-\float@exts=\toks17
+\float@exts=\toks20
 \float@box=\box51
-\@float@everytoks=\toks18
+\@float@everytoks=\toks21
 \@floatcapt=\box52
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
@@ -76,14 +111,14 @@ Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen154
+\l__xtemplate_tmp_dim=\dimen156
 \l__xtemplate_tmp_int=\count268
 \l__xtemplate_tmp_muskip=\muskip16
 \l__xtemplate_tmp_skip=\skip50
 )
 \l__xeCJK_tmp_int=\count269
 \l__xeCJK_tmp_box=\box54
-\l__xeCJK_tmp_dim=\dimen155
+\l__xeCJK_tmp_dim=\dimen157
 \l__xeCJK_tmp_skip=\skip51
 \g__xeCJK_space_factor_int=\count270
 \l__xeCJK_begin_int=\count271
@@ -99,43 +134,43 @@ Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
 \l__xeCJK_last_skip=\skip52
 \c__xeCJK_none_node=\count273
 \g__xeCJK_node_int=\count274
-\c__xeCJK_CJK_node_dim=\dimen156
-\c__xeCJK_CJK-space_node_dim=\dimen157
-\c__xeCJK_default_node_dim=\dimen158
-\c__xeCJK_CJK-widow_node_dim=\dimen159
-\c__xeCJK_normalspace_node_dim=\dimen160
+\c__xeCJK_CJK_node_dim=\dimen158
+\c__xeCJK_CJK-space_node_dim=\dimen159
+\c__xeCJK_default_node_dim=\dimen160
+\c__xeCJK_CJK-widow_node_dim=\dimen161
+\c__xeCJK_normalspace_node_dim=\dimen162
 \c__xeCJK_default-space_node_skip=\skip53
 \l__xeCJK_ccglue_skip=\skip54
 \l__xeCJK_ecglue_skip=\skip55
 \l__xeCJK_punct_kern_skip=\skip56
 \l__xeCJK_indent_box=\box55
 \l__xeCJK_last_penalty_int=\count275
-\l__xeCJK_last_bound_dim=\dimen161
-\l__xeCJK_last_kern_dim=\dimen162
+\l__xeCJK_last_bound_dim=\dimen163
+\l__xeCJK_last_kern_dim=\dimen164
 \l__xeCJK_widow_penalty_int=\count276
 
 Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
 (xtemplate)             argument(s) on line 2396.
 
-\l__xeCJK_fixed_punct_width_dim=\dimen163
-\l__xeCJK_mixed_punct_width_dim=\dimen164
-\l__xeCJK_middle_punct_width_dim=\dimen165
-\l__xeCJK_fixed_margin_width_dim=\dimen166
-\l__xeCJK_mixed_margin_width_dim=\dimen167
-\l__xeCJK_middle_margin_width_dim=\dimen168
-\l__xeCJK_bound_punct_width_dim=\dimen169
-\l__xeCJK_bound_margin_width_dim=\dimen170
-\l__xeCJK_margin_minimum_dim=\dimen171
-\l__xeCJK_kerning_total_width_dim=\dimen172
-\l__xeCJK_same_align_margin_dim=\dimen173
-\l__xeCJK_different_align_margin_dim=\dimen174
-\l__xeCJK_kerning_margin_width_dim=\dimen175
-\l__xeCJK_kerning_margin_minimum_dim=\dimen176
-\l__xeCJK_bound_dim=\dimen177
-\l__xeCJK_reverse_bound_dim=\dimen178
-\l__xeCJK_margin_dim=\dimen179
-\l__xeCJK_minimum_bound_dim=\dimen180
-\l__xeCJK_kerning_margin_dim=\dimen181
+\l__xeCJK_fixed_punct_width_dim=\dimen165
+\l__xeCJK_mixed_punct_width_dim=\dimen166
+\l__xeCJK_middle_punct_width_dim=\dimen167
+\l__xeCJK_fixed_margin_width_dim=\dimen168
+\l__xeCJK_mixed_margin_width_dim=\dimen169
+\l__xeCJK_middle_margin_width_dim=\dimen170
+\l__xeCJK_bound_punct_width_dim=\dimen171
+\l__xeCJK_bound_margin_width_dim=\dimen172
+\l__xeCJK_margin_minimum_dim=\dimen173
+\l__xeCJK_kerning_total_width_dim=\dimen174
+\l__xeCJK_same_align_margin_dim=\dimen175
+\l__xeCJK_different_align_margin_dim=\dimen176
+\l__xeCJK_kerning_margin_width_dim=\dimen177
+\l__xeCJK_kerning_margin_minimum_dim=\dimen178
+\l__xeCJK_bound_dim=\dimen179
+\l__xeCJK_reverse_bound_dim=\dimen180
+\l__xeCJK_margin_dim=\dimen181
+\l__xeCJK_minimum_bound_dim=\dimen182
+\l__xeCJK_kerning_margin_dim=\dimen183
 \g__xeCJK_family_int=\count277
 \l__xeCJK_fam_int=\count278
 \g__xeCJK_fam_allocation_int=\count279
@@ -162,9 +197,9 @@ X
 \l__fontspec_emdef_int=\count289
 \l__fontspec_strong_int=\count290
 \l__fontspec_strongdef_int=\count291
-\l__fontspec_tmpa_dim=\dimen182
-\l__fontspec_tmpb_dim=\dimen183
-\l__fontspec_tmpc_dim=\dimen184
+\l__fontspec_tmpa_dim=\dimen184
+\l__fontspec_tmpb_dim=\dimen185
+\l__fontspec_tmpc_dim=\dimen186
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -174,27 +209,31 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
 ))
 
-Package fontspec Info: Could not resolve font "IPAMincho/BI" (it probably
-(fontspec)             doesn't exist).
+Package fontspec Info: Could not resolve font "Noto Serif CJK JP-Bold/I" (it
+(fontspec)             probably doesn't exist).
 
 
-Package fontspec Info: Could not resolve font "IPAMincho/B" (it probably
-(fontspec)             doesn't exist).
+Package fontspec Info: Could not resolve font "Noto Serif CJK JP-Regular/I"
+(fontspec)             (it probably doesn't exist).
 
 
-Package fontspec Info: Could not resolve font "IPAMincho/I" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Font family 'IPAMincho(0)' created for font 'IPAMincho'
-(fontspec)             with options [Script={CJK}].
+Package fontspec Info: Font family 'NotoSerifCJKJP(0)' created for font 'Noto
+(fontspec)             Serif CJK JP' with options
+(fontspec)             [Script={CJK},Language={Japanese},UprightFont={*-Regular
+},BoldFont={*-Bold}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"IPAMincho/OT:script=hani;language=dflt;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Noto Serif CJK
+(fontspec)             JP-Regular/OT:script=hani;language=JAN;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Noto Serif CJK
+(fontspec)             JP-Bold/OT:script=hani;language=JAN;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Noto Serif
+(fontspec)             CJK JP-Regular/BI/OT:script=hani;language=JAN;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
  (./cvpr.sty
 (./eso-pic.sty
@@ -205,11 +244,7 @@ LaTeX Warning: You have requested package `eso-pic',
                but the package provides `everyshi'.
 
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks19
-))
-(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
@@ -217,9 +252,9 @@ CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
 \@figindent=\skip59
 \cvprrulerbox=\box56
 \cvprrulercount=\count292
-\cvprruleroffset=\dimen185
-\cv@lineheight=\dimen186
-\cv@boxheight=\dimen187
+\cvprruleroffset=\dimen187
+\cv@lineheight=\dimen188
+\cv@boxheight=\dimen189
 \cv@tmpbox=\box57
 \cv@refno=\count293
 \cv@tot=\count294
@@ -230,27 +265,6 @@ Package: times 2020/03/25 PSNFSS-v9.3 (SPQR)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
 Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: xetex.def on input line 107.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
-))
-\Gin@req@height=\dimen188
-\Gin@req@width=\dimen189
-)
 \epsfxsize=\dimen190
 \epsfysize=\dimen191
 )
@@ -264,7 +278,7 @@ Package: amstext 2021/08/26 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks20
+\@emptytoks=\toks22
 \ex@=\dimen192
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
@@ -304,21 +318,21 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \dotsspace@=\muskip17
 \c@parentequation=\count304
 \dspbrk@lvl=\count305
-\tag@help=\toks21
+\tag@help=\toks23
 \row@=\count306
 \column@=\count307
 \maxfields@=\count308
-\andhelp@=\toks22
+\andhelp@=\toks24
 \eqnshift@=\dimen195
 \alignsep@=\dimen196
 \tagshift@=\dimen197
 \tagwidth@=\dimen198
 \totwidth@=\dimen199
 \lineht@=\dimen256
-\@envbody=\toks23
+\@envbody=\toks25
 \multlinegap=\skip61
 \multlinetaggap=\skip62
-\mathdisplay@stack=\toks24
+\mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
@@ -476,13 +490,13 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip63
 )
-LaTeX Font Info:    Trying to load font information for TU+ptm on input line 34
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 93
 .
-LaTeX Font Info:    No file TUptm.fd. on input line 34.
+LaTeX Font Info:    No file TUptm.fd. on input line 93.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 34.
+(Font)              using `TU/lmr/m/n' instead on input line 93.
 
 (./1japanesetranslated.aux
 
@@ -515,87 +529,87 @@ LaTeX Warning: Label `fig:onecol' multiply defined.
 )
 \openout1 = `1japanesetranslated.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 93.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9
+3.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 34.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 34.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 34.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 34.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 34.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 34.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 34.
-LaTeX Font Info:    Redeclaring math accent \check on input line 34.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 34.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 34.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 34.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 34.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 93.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 93.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 93.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 93.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 93.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 93.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 93.
+LaTeX Font Info:    Redeclaring math accent \check on input line 93.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 93.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 93.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 93.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 93.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 34.
+(Font)              `operators' in the math version `normal' on input line 93.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/ptm/m/n on input line 34.
+(Font)                  OT1/cmr/m/n --> TU/ptm/m/n on input line 93.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 34.
+(Font)              `operators' in the math version `bold' on input line 93.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/ptm/m/n on input line 34.
+(Font)                  OT1/cmr/bx/n --> TU/ptm/m/n on input line 93.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/ptm/m/n --> TU/ptm/m/n on input line 34.
+(Font)                  TU/ptm/m/n --> TU/ptm/m/n on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/ptm/m/it on input line 34.
+(Font)                  OT1/cmr/m/it --> TU/ptm/m/it on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/ptm/b/n on input line 34.
+(Font)                  OT1/cmr/bx/n --> TU/ptm/b/n on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 34.
+(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 34.
+(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 93.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/ptm/m/n --> TU/ptm/b/n on input line 34.
+(Font)                  TU/ptm/m/n --> TU/ptm/b/n on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/ptm/b/it on input line 34.
+(Font)                  OT1/cmr/bx/it --> TU/ptm/b/it on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 34.
+(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/pcr/b/n on input line 34.
+(Font)                  OT1/cmtt/m/n --> TU/pcr/b/n on input line 93.
 
 ABD: EveryShipout initializing macros
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
@@ -607,23 +621,19 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: xetex.def on input line 149.
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring OFF on input line 34.
+Package hyperref Info: Link coloring OFF on input line 93.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 58.
+(Font)              using `TU/ptm/m/n' instead on input line 117.
 
-
-LaTeX Font Warning: Font shape `TU/IPAMincho(0)/b/n' undefined
-(Font)              using `TU/IPAMincho(0)/m/n' instead on input line 58.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 58.
-
+LaTeX Font Info:    Trying to load font information for U+msa on input line 117
+.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 58.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 117
+.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -634,30 +644,27 @@ Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
 (xeCJK)                Try to use `\setCJKmonofont[<...>]{<...>}' to define
 (xeCJK)                it.
 
-LaTeX Font Info:    Trying to load font information for TU+pcr on input line 58
-.
-LaTeX Font Info:    No file TUpcr.fd. on input line 58.
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 11
+7.
+LaTeX Font Info:    No file TUpcr.fd. on input line 117.
 
 LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 58.
+(Font)              using `TU/lmr/m/n' instead on input line 117.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 60.
+(Font)              using `TU/ptm/m/n' instead on input line 119.
 
 
-LaTeX Font Warning: Font shape `TU/IPAMincho(0)/m/it' undefined
-(Font)              using `TU/IPAMincho(0)/m/n' instead on input line 61.
+LaTeX Font Warning: Font shape `TU/NotoSerifCJKJP(0)/m/it' undefined
+(Font)              using `TU/NotoSerifCJKJP(0)/m/n' instead on input line 120.
+
 
 File: b.png Graphic file (type bmp)
 <b.png>
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/b/n' instead on input line 99.
-
-
-LaTeX Font Warning: Font shape `TU/IPAMincho(0)/b/it' undefined
-(Font)              using `TU/IPAMincho(0)/b/n' instead on input line 99.
+(Font)              using `TU/ptm/b/n' instead on input line 158.
 
 [1
 
@@ -671,7 +678,7 @@ File: tibet.jpg Graphic file (type bmp)
 File: khafre.jpg Graphic file (type bmp)
 <khafre.jpg>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1603) has occurred while \output is active []
 
  [3]
 File: shafts.jpg Graphic file (type bmp)
@@ -679,93 +686,73 @@ File: shafts.jpg Graphic file (type bmp)
 File: drawing.jpg Graphic file (type bmp)
 <drawing.jpg>
 
-Missing character: There is no ― (U+2015) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ― (U+2015) in font [lmroman10-regular]:mapping=t
-ex-text;!
 [4]
 
 LaTeX Warning: Text page 5 contains only floats.
 
 
-Overfull \vbox (22.27956pt too high) has occurred while \output is active []
+Overfull \vbox (23.27956pt too high) has occurred while \output is active []
 
 
 
 LaTeX Warning: Text page 5 contains only floats.
 
 
-Overfull \vbox (22.27956pt too high) has occurred while \output is active []
+Overfull \vbox (23.27956pt too high) has occurred while \output is active []
 
 
 [5]
-Missing character: There is no ― (U+2015) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ― (U+2015) in font [lmroman10-regular]:mapping=t
-ex-text;!
-File: laj.jpg Graphic file (type bmp)
-<laj.jpg>
 File: biodiversity.jpg Graphic file (type bmp)
 <biodiversity.jpg>
 File: meinesz3.jpg Graphic file (type bmp)
 <meinesz3.jpg>
+File: laj.jpg Graphic file (type bmp)
+<laj.jpg>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
+Underfull \vbox (badness 5036) has occurred while \output is active []
+
+
+
+LaTeX Warning: Text page 7 contains only floats.
+
+
+Underfull \vbox (badness 2393) has occurred while \output is active []
+
+ [7]
 File: dzhani.jpg Graphic file (type bmp)
 <dzhani.jpg>
 File: layers.jpg Graphic file (type bmp)
 <layers.jpg>
-
-[7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 1383) has occurred while \output is active []
-
- [8]
 File: llvp.jpg Graphic file (type bmp)
 <llvp.jpg>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-File: npw.jpg Graphic file (type bmp)
-<npw.jpg>
+[8]
 File: saa.jpg Graphic file (type bmp)
 <saa.jpg>
+File: npw.jpg Graphic file (type bmp)
+<npw.jpg>
 File: ocean-highlight.jpg Graphic file (type bmp)
 <ocean-highlight.jpg>
+
+Underfull \vbox (badness 1661) has occurred while \output is active []
+
  [9]
-Underfull \vbox (badness 3460) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
 File: saa-crop.jpeg Graphic file (type bmp)
 <saa-crop.jpeg>
 
-Missing character: There is no ― (U+2015) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ― (U+2015) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ― (U+2015) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ― (U+2015) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ― (U+2015) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ― (U+2015) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ― (U+2015) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ― (U+2015) in font [lmroman10-regular]:mapping=t
-ex-text;!
-
-Underfull \vbox (badness 5050) has occurred while \output is active []
-
- [11]
+[11]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
+[13
+
+]
 File: wave.jpg Graphic file (type bmp)
 <wave.jpg>
 File: star-stone.jpg Graphic file (type bmp)
@@ -781,11 +768,11 @@ File: co2.jpg Graphic file (type bmp)
 <co2.jpg>
 File: ice.jpg Graphic file (type bmp)
 <ice.jpg>
- [13
+ [14
 
 
 ]
-[14] [15] [16] (./1japanesetranslated.bbl
+[15] [16] [17] (./1japanesetranslated.bbl
 Underfull \hbox (badness 1383) in paragraph at lines 27--33
 \TU/ptm/m/it/9 Cruz, M. Deininger, A. Sifeddine, L. Bouchaou,
  []
@@ -852,7 +839,7 @@ Underfull \hbox (badness 2057) in paragraph at lines 202--208
 \TU/ptm/m/it/9 son, M. Finlayson, T. Gumbricht, L. Hilarides,
  []
 
-[17
+[18
 
 
 ]
@@ -891,9 +878,9 @@ Underfull \hbox (badness 2197) in paragraph at lines 303--310
  []
 
 
-Underfull \hbox (badness 2884) in paragraph at lines 329--334
-|\TU/IPAMincho(0)/m/n/9 –| \TU/ptm/m/it/9 dzhanibekov oscillation (ecdo) hypoth
-esis, 2024.
+Underfull \hbox (badness 2096) in paragraph at lines 329--334
+|\TU/NotoSerifCJKJP(0)/m/n/9 –| \TU/ptm/m/it/9 dzhanibekov oscillation (ecdo) h
+ypothesis, 2024.
  []
 
 
@@ -948,7 +935,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 348--354
 m/m/it/9 , 2025.
  []
 
-[18]
+[19]
 Underfull \hbox (badness 2503) in paragraph at lines 436--439
 []\TU/ptm/m/it/9 Wikibooks.  Chinese stories/nüwa.  []$[][][][][] [] [] [] [][]
  []
@@ -965,7 +952,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 446--449
 ][][][] [] [][] [] [][][][] []
  []
 
-) [19
+) [20
 
 ] (./1japanesetranslated.aux)
  ***********
@@ -981,12 +968,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15142 strings out of 476443
- 346848 string characters out of 5793962
- 1991627 words of memory out of 5000000
- 36867 multiletter control sequences out of 15000+600000
- 568202 words of font info for 89 fonts, out of 8000000 for 9000
- 264 hyphenation exceptions out of 8191
- 74i,9n,81p,1681b,578s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 15268 strings out of 475702
+ 356767 string characters out of 5785445
+ 1996627 words of memory out of 5000000
+ 36988 multiletter control sequences out of 15000+600000
+ 568897 words of font info for 96 fonts, out of 8000000 for 9000
+ 932 hyphenation exceptions out of 8191
+ 74i,9n,81p,1686b,578s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 1japanesetranslated.pdf (19 pages).
+Output written on 1japanesetranslated.pdf (20 pages).

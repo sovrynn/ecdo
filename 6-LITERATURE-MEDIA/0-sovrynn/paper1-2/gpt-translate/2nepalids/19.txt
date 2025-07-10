@@ -1,0 +1,5 @@
+\end{center}
+   \caption{पश्चिमी संयुक्त राज्य अमेरिकामा कोकोनिनो बलौटे ढुंगाको तहको आकार \cite{21}.}
+\label{fig:3}
+\label{fig:onecol}
+\end{figure}

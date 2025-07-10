@@ -1,0 +1,5 @@
+\usepackage{stfloats}  % បន្ថែមនេះទៅក្នុងការណែនាំ
+\usepackage{float}
+
+\usepackage{cvpr}
+\usepackage{times}

@@ -1,0 +1,5 @@
+   \includegraphics[width=1\linewidth]{tyrol.jpg}
+\end{center}
+   \caption{Bunker di Tyrol Selatan, Switzerland. Switzerland, yang merentasi banjaran gunung Alps di Eropah, terkenal dengan penyamaran bunker gunungnya yang bijak \cite{32}.}
+\label{fig:7}
+\label{fig:onecol}

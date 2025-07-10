@@ -1,0 +1,5 @@
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{penta.jpg}
+\end{center}
+   \caption{สิ่งที่อยู่ใต้ทำเนียบขาวและเพนตากอนจริงๆ แล้วคืออะไร? จากการค้นพบพบว่าเป็นเครือข่ายอุโมงค์ใต้ดินลึก (ภาพ: \cite{31}).}

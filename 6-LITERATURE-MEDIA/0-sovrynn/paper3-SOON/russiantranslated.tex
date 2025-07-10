@@ -16,10 +16,10 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
-\makeatletter
-\def\cvprsubsection{\@startsection {subsection}{2}{\z@}
-    {8pt plus 2pt minus 2pt}{6pt}{\bfseries\normalsize}}
-\makeatother
+% \makeatletter
+% \def\cvprsubsection{\@startsection {subsection}{2}{\z@}
+%     {8pt plus 2pt minus 2pt}{6pt}{\bfseries\normalsize}}
+% \makeatother
 
 \usepackage[breaklinks=true,bookmarks=false]{hyperref}
 
@@ -27,6 +27,45 @@
 
 \def\cvprPaperID{****}
 \def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+\renewcommand{\tablename}{Таблица}
+\renewcommand{\figurename}{Рисунок}   % or whatever you like instead of "Hình"
+\renewcommand{\refname}{Список литературы}
+
+\makeatletter
+\def\abstract{%
+  \centerline{\large\bf абстракт}% <-- your new label
+  \vspace*{12pt}%
+  \it%
+}
+\makeatother
+
+% This makes the font slightly bigger than base (10) and bold in Subsection headings rather than using ptmb
+\makeatletter
+\def\cvprsubsection{%
+  \@startsection{subsection}{2}{\z@}%
+    {8pt plus 2pt minus 2pt}{6pt}%
+    % {\normalfont\bfseries\selectfont}%
+    {\normalfont\bfseries\fontsize{11}{13}\selectfont}%
+}
+\makeatother
+
+% So this hardcodes the style for the numbers in the section/subsection headings so they're bold
+\font\elvbf=ptmb scaled 1100
+\font\elvbfs=ptmb scaled 1200
+\makeatletter
+% Section number: Large + bold
+\renewcommand\thesection{%
+  {\elvbfs\arabic{section}}%
+}
+
+% Subsection number: normalsize + bold + custom punctuation
+\renewcommand\thesubsection{%
+  {\elvbf
+   \arabic{section}.\arabic{subsection}}%
+}
+\makeatother
+
 
 \setcounter{page}{1}
 \begin{document}
@@ -290,7 +329,6 @@
 \twocolumn
 
 {\small
-\renewcommand{\refname}{Ссылки}
 \bibliographystyle{ieee}
 \bibliography{egbib}
 }

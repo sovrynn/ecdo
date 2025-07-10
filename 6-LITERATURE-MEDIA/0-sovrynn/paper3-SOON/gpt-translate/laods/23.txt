@@ -1,0 +1,5 @@
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{penta.jpg}
+\end{center}
+   \caption{ສິ່ງທີ່ຕົວຈິງແລ້ວຢູ່ໃຕ້ພະລາຊະວັງຂາວ ແລະ ຫໍປະຊຸມ Pentagon? ຫຼັກຖານສະແດງໃຫ້ເຫັນວ່າ, ມີເຄືອຂ່າຍອຸໂມງໃຕ້ດິນທີ່ເລິກ (ຮູບພາບ: \cite{31}).}

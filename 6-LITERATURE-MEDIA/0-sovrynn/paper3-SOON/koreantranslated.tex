@@ -6,7 +6,18 @@
 % \captionsetup[table]{skip=8pt}   % 테이블에만 영향
 \usepackage{stfloats}  % 프리앰블에 추가하세요
 \usepackage{float}
-\usepackage{kotex}
+% \usepackage{kotex}
+
+%— load ko.TeX’s XeTeX-based Korean support with Hangul captions —
+\usepackage[hangul]{kotex}   % ↪️ loads xetexko with the [hangul] option :contentReference[oaicite:0]{index=0}
+
+%— declare your main Hangul font (real Bold weight) —
+\setmainhangulfont[
+  Language=Korean,           % enable Korean-specific shaping/ot features
+  UprightFont = *-Regular,   % e.g. NotoSerifCJKkr-Regular.otf
+  BoldFont    = *-Bold       % e.g. NotoSerifCJKkr-Bold.otf
+]{Noto Serif CJK KR}         % make sure you’ve installed this family :contentReference[oaicite:1]{index=1}
+
 
 \usepackage{cvpr}
 \usepackage{times}
@@ -28,6 +39,42 @@
 
 \def\cvprPaperID{****} % *** Enter the CVPR Paper ID here
 \def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+\renewcommand{\figurename}{그림}   % or whatever you like instead of "Hình"
+
+\makeatletter
+\def\abstract{%
+  \centerline{\large\bf 개요}% <-- your new label
+  \vspace*{12pt}%
+  \it%
+}
+\makeatother
+
+% This makes the font slightly bigger than base (10) and bold in Subsection headings rather than using ptmb
+\makeatletter
+\def\cvprsubsection{%
+  \@startsection{subsection}{2}{\z@}%
+    {8pt plus 2pt minus 2pt}{6pt}%
+    % {\normalfont\bfseries\selectfont}%
+    {\normalfont\bfseries\fontsize{11}{13}\selectfont}%
+}
+\makeatother
+
+% So this hardcodes the style for the numbers in the section/subsection headings so they're bold
+\font\elvbf=ptmb scaled 1100
+\font\elvbfs=ptmb scaled 1200
+\makeatletter
+% Section number: Large + bold
+\renewcommand\thesection{%
+  {\elvbfs\arabic{section}}%
+}
+
+% Subsection number: normalsize + bold + custom punctuation
+\renewcommand\thesubsection{%
+  {\elvbf
+   \arabic{section}.\arabic{subsection}}%
+}
+\makeatother
 
 % Pages are numbered in submission mode, and unnumbered in camera-ready
 %\ifcvprfinal\pagestyle{empty}\fi
@@ -74,11 +121,6 @@ ECDO 연구 저장소: \href{https://github.com/sovrynn/ecdo}{github.com/sovrynn
 본 논문은 서방 지배 권력들이 임박한 지질학적 격변을 믿고 있으며, 이에 체계적이고 장기적인 대비 작업을 수행하고 있음을 문서화한 것이다.
 \end{abstract}
 
-%%%%%%%%% BODY TEXT
-\section{프리메이슨과 "앵글로색슨 미션"(영국 옛 민족의 임무)}
-
-2010년 1월, 내부고발자들의 증언을 수집·보도하는 대안 언론 단체, 프로젝트 카멜롯(Project Camelot)은 \cite{4,6} 2005년 6월 런던 시티에서 열린 프리메이슨 고위급 회의에 실제 참석했던 내부 관계자를 인터뷰하였다. 해당 회의에서는 \textbf{"지질학적 사건"}, 즉 전 지구적 자연 재해를 전제로 한 군사 및 정치 전략이 논의되었다
-
 \begin{figure}[b]
 \begin{center}
 % \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
@@ -90,7 +132,13 @@ ECDO 연구 저장소: \href{https://github.com/sovrynn/ecdo}{github.com/sovrynn
 \label{fig:onecol}
 \end{figure}
 
-\begin{figure*}[t]
+%%%%%%%%% BODY TEXT
+\section{프리메이슨과 "앵글로색슨 미션"(영국 옛 민족의 임무)}
+
+2010년 1월, 내부고발자들의 증언을 수집·보도하는 대안 언론 단체, 프로젝트 카멜롯(Project Camelot)은 \cite{4,6} 2005년 6월 런던 시티에서 열린 프리메이슨 고위급 회의에 실제 참석했던 내부 관계자를 인터뷰하였다. 해당 회의에서는 \textbf{"지질학적 사건"}, 즉 전 지구적 자연 재해를 전제로 한 군사 및 정치 전략이 논의되었다
+
+
+\begin{figure*}[b]
 \begin{center}
 % \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
 \includegraphics[width=1\textwidth]{british.jpg}
@@ -130,7 +178,16 @@ ECDO 연구 저장소: \href{https://github.com/sovrynn/ecdo}{github.com/sovrynn
 
 지하 기지에 대한 가장 광범위한 공개 조사를 수행한 인물은 리차드 소더(Richard Sauder)로, 그는 지하 심층 기지에 관한 여러 권의 저서를 출간한 미국의 독립 연구자이다 \cite{22}. 소더의 연구는 정부 문서와 설계 계획의 아카이빙, 과거 및 현재 뉴스 기사와 기술 자료의 분석, 소식통의 확보, 내부 고발자의 증언 수집 등으로 구성되어 있다. 그의 연구에 따르면, 미국 본토와 해외 영토 전역에 걸쳐 깊이 약 4.8km 이상에 이르는 방대한 지하 및 해저 기지 네트워크가 존재하는데 일부는 지하 진공관식 자기부상 열차로 연결되어 있을 가능성도 있다(그림 \ref{fig:4}). 이러한 기지는 \textit{"고위 금융권, 국제기관, 정부기관 간의 자금 세탁용 페이퍼 컴퍼니 체계"}를 통해 비밀리에 자금이 지원되고 있으며, 이는 미합중국이라는 회사를 실질적으로 소유하고 있는 세력이 운영하고 있다고 한다 \cite{22}. 이 기지의 규모와 수에 대한 후속 조사는 캐서린 오스틴 피츠(Catherine Austin Fitts)와 그녀의 공동 연구자에 의해 수행되었으며, 그들은 미국 내 지하 및 해저 기지가 약 170개에 달한다는 추정치를 제시하였다 \cite{16,20}.
 
-\begin{figure}[b]
+\begin{figure*}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
+\includegraphics[width=1\textwidth]{baseskor.png}
+\end{center}
+   \caption{소더의 연구에 따라 지하 및 해저 기지가 존재하는 것으로 확인된 주요 위치를 보여주는 지도. 내륙으로 연결되는 해저 잠수함 터널의 위치도 함께 표시되어 있다. 소더는 \textit{"\textbf{이외} 훨씬 더 많은 시설이 존재한다고 확신한다"}라고 말한다 \cite{22}.}
+   \label{fig:4}
+\end{figure*}
+
+\begin{figure}[t]
 \begin{center}
 % \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
    \includegraphics[width=1\linewidth]{penta.jpg}
@@ -139,15 +196,6 @@ ECDO 연구 저장소: \href{https://github.com/sovrynn/ecdo}{github.com/sovrynn
 \label{fig:3}
 \label{fig:onecol}
 \end{figure}
-
-\begin{figure*}[t]
-\begin{center}
-% \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
-\includegraphics[width=0.9\textwidth]{baseskor.png}
-\end{center}
-   \caption{소더의 연구에 따라 지하 및 해저 기지가 존재하는 것으로 확인된 주요 위치를 보여주는 지도. 내륙으로 연결되는 해저 잠수함 터널의 위치도 함께 표시되어 있다. 소더는 \textit{"\textbf{이외} 훨씬 더 많은 시설이 존재한다고 확신한다"}라고 말한다 \cite{22}.}
-   \label{fig:4}
-\end{figure*}
 
 다음은 소더가 수집한 내부자의 증언 일부로, 기지의 구체적인 규모와 범위를 알 수 있다.
 

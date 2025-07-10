@@ -5,7 +5,18 @@
 % \usepackage{caption}
 % \captionsetup[table]{skip=8pt}   % Only affects tables
 \usepackage{stfloats}  % Add this to the preamble
-\usepackage{kotex}
+% \usepackage{kotex}
+
+%— load ko.TeX’s XeTeX-based Korean support with Hangul captions —
+\usepackage[hangul]{kotex}   % ↪️ loads xetexko with the [hangul] option :contentReference[oaicite:0]{index=0}
+
+%— declare your main Hangul font (real Bold weight) —
+\setmainhangulfont[
+  Language=Korean,           % enable Korean-specific shaping/ot features
+  UprightFont = *-Regular,   % e.g. NotoSerifCJKkr-Regular.otf
+  BoldFont    = *-Bold       % e.g. NotoSerifCJKkr-Bold.otf
+]{Noto Serif CJK KR}         % make sure you’ve installed this family :contentReference[oaicite:1]{index=1}
+
 
 \usepackage{cvpr}
 \usepackage{times}
@@ -25,6 +36,43 @@
 
 \def\cvprPaperID{****} % *** Enter the CVPR Paper ID here
 \def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+\renewcommand{\tablename}{표}
+\renewcommand{\figurename}{그림}   % or whatever you like instead of "Hình"
+
+\makeatletter
+\def\abstract{%
+  \centerline{\large\bf 개요}% <-- your new label
+  \vspace*{12pt}%
+  \it%
+}
+\makeatother
+
+% This makes the font slightly bigger than base (10) and bold in Subsection headings rather than using ptmb
+\makeatletter
+\def\cvprsubsection{%
+  \@startsection{subsection}{2}{\z@}%
+    {8pt plus 2pt minus 2pt}{6pt}%
+    % {\normalfont\bfseries\selectfont}%
+    {\normalfont\bfseries\fontsize{11}{13}\selectfont}%
+}
+\makeatother
+
+% So this hardcodes the style for the numbers in the section/subsection headings so they're bold
+\font\elvbf=ptmb scaled 1100
+\font\elvbfs=ptmb scaled 1200
+\makeatletter
+% Section number: Large + bold
+\renewcommand\thesection{%
+  {\elvbfs\arabic{section}}%
+}
+
+% Subsection number: normalsize + bold + custom punctuation
+\renewcommand\thesubsection{%
+  {\elvbf
+   \arabic{section}.\arabic{subsection}}%
+}
+\makeatother
 
 % Pages are numbered in submission mode, and unnumbered in camera-ready
 %\ifcvprfinal\pagestyle{empty}\fi
@@ -76,7 +124,7 @@ ECDO 연구 저장소: \href{https://github.com/sovrynn/ecdo}{github.com/sovrynn
 
 북미 남서부의 그레이트 분지의 일부인 그랜드 캐년은 대재앙적 기원을 제시하는 또 하나의 자연 현상이다.(그림 \ref{fig:2}). 우선, 그랜드 캐년을 구성하는 퇴적 사암 및 석회암 층은 최대 240만 평방킬로미터에 걸치는 광대한 지역에 펼쳐져 있다 \cite{21}. 그림 \ref{fig:3}은 코코니노 사암 층이 미국 서부 전역에 걸쳐 있는 광활한 모습을 보여준다. 이와 같이 균일한 물질의 거대한 수평층은 오직 한꺼번에  모두 놓였을 때만 형성될 수 있었을 것이다.
 
-\begin{figure}[b]
+\begin{figure}[t]
 \begin{center}
    \includegraphics[width=1\linewidth]{grand-canyon.jpg}
 \end{center}

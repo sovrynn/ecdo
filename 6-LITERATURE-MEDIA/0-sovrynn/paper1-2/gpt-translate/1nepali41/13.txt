@@ -1,0 +1,10 @@
+Collapsed sky           & १५ & १२.८२ \\
+Prolonged darkness      & १४ & ११.९७ \\
+Lost lands and lakes    & १२ & १०.२६ \\
+Cyclonic winds          & १० & ८.५५  \\
+Axial/rotational changes & ९ & ७.६९  \\
+Boiling rivers/lakes/oceans & ८ & ६.८४ \\
+\hline
+\end{tabular}
+\end{center}
+\caption{कथाहरूमा विनाशकारी प्रभावहरूको घटना}

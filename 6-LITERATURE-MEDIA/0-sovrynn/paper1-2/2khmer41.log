@@ -1,0 +1,1284 @@
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.27)  30 JUN 2025 03:24
+ restricted system commands enabled.
+**2khmer41.tex
+(./2khmer41.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "/home/m120938/.texlive2023/texmf-va
+r/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-res
+olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2023-
+08-19.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.133
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/home/m120938/.texlive2023/texmf-va
+r/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (/usr/share/texlive/tex
+mf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /home/m120938/.texlive2023/tex
+mf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen139
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen140
+\lightrulewidth=\dimen141
+\cmidrulewidth=\dimen142
+\belowrulesep=\dimen143
+\belowbottomsep=\dimen144
+\aboverulesep=\dimen145
+\abovetopsep=\dimen146
+\cmidrulesep=\dimen147
+\cmidrulekern=\dimen148
+\defaultaddspace=\dimen149
+\@cmidla=\count193
+\@cmidlb=\count194
+\@aboverulesep=\dimen150
+\@belowrulesep=\dimen151
+\@thisruleclass=\count195
+\@lastruleclass=\count196
+\@thisrulewidth=\dimen152
+)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty
+Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
+ings
+\@dblbotnum=\count197
+\c@dblbotnumber=\count198
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+\bbl@readstream=\read2
+\l@dumylang=\language2
+Package babel Info: Non-standard hyphenation setup on input line 118.
+\l@nohyphenation=\language3
+\l@vietnamese=\language4
+\l@hebrew=\language5
+\l@gujarati=\language6
+\l@interlingua=\language7
+\l@ethiopic=\language8
+\l@esperanto=\language9
+\l@churchslavonic=\language10
+\l@serbian=\language11
+\l@coptic=\language12
+\l@mongolian=\language13
+\l@panjabi=\language14
+\l@tamil=\language15
+\l@mongolianlmc=\language16
+\l@indonesian=\language17
+\l@assamese=\language18
+\l@telugu=\language19
+\l@pali=\language20
+\l@sanskrit=\language21
+\l@ukrainian=\language22
+\l@hindi=\language23
+\l@afrikaans=\language24
+\l@georgian=\language25
+\l@thai=\language26
+\l@bulgarian=\language27
+\l@armenian=\language28
+\l@malayalam=\language29
+\l@russian=\language30
+\l@serbianc=\language31
+\l@kannada=\language32
+\l@belarusian=\language33
+\l@marathi=\language34
+\l@turkmen=\language35
+\l@oriya=\language36
+\l@bengali=\language37
+\l@pinyin=\language38
+\babelcatcodetablenum=\catcodetable14
+\bbl@pattcodes=\catcodetable15
+)
+\babel@savecnt=\count199
+\U@D=\dimen153
+\l@unhyphenated=\language39
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+\bbl@attr@locale=\attribute4
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'british' set to \l@english
+(babel)             (\language0). Reported on input line 82.
+Package babel Info: Hyphen rules for 'UKenglish' set to \l@english
+(babel)             (\language0). Reported on input line 83.
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@english
+(babel)             (\language0). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@english
+(babel)             (\language0). Reported on input line 108.
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/km/babel-khmer.tex)
+Package babel Info: Importing data for khmer
+(babel)             from babel-km.ini. Reported on input line 19.
+Package babel Info: Hyphen rules for 'khmer' set to \l@english
+(babel)             (\language0). Reported on input line 19.
+Replacing Khmr script ranges
+Inserting `Babel.hyphenate' in `hyphenate'.
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/km/babel-khmer.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-01-22 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2024-01-04 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count266
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box51
+))
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count267
+\l__fontspec_language_int=\count268
+\l__fontspec_strnum_int=\count269
+\l__fontspec_tmp_int=\count270
+\l__fontspec_tmpa_int=\count271
+\l__fontspec_tmpb_int=\count272
+\l__fontspec_tmpc_int=\count273
+\l__fontspec_em_int=\count274
+\l__fontspec_emdef_int=\count275
+\l__fontspec_strong_int=\count276
+\l__fontspec_strongdef_int=\count277
+\l__fontspec_tmpa_dim=\dimen154
+\l__fontspec_tmpb_dim=\dimen155
+\l__fontspec_tmpc_dim=\dimen156
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+luaotfload | cache : Lookup cache loaded from /home/m120938/.texlive2023/texmf-v
+ar/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 18 (nil) defines no feature for script latn with lang
+uage eng
+
+Package fontspec Info: Font family 'NotoSerif(0)' created for font 'Noto
+(fontspec)             Serif' with options
+(fontspec)             [Ligatures=TeX,Script=Latin,Language=English,RawFeature=
+{family=rm},RawFeature={fallback=myfallback}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"NotoSerif:mode=node;script=latn;language=dflt;+tlig;
+family=rm;fallback=myfallback;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"NotoSerif:mode=node;script=latn;language=dflt;+tlig;
+family=rm;fallback=myfallback;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"NotoSerif/B:mode=node;script=latn;language=dflt;+tli
+g;family=rm;fallback=myfallback;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"NotoSerif/B:mode=node;script=latn;language=dflt;+tli
+g;family=rm;fallback=myfallback;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"NotoSerif/I:mode=node;script=latn;language=dflt;+tli
+g;family=rm;fallback=myfallback;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"NotoSerif/I:mode=node;script=latn;language=dflt;+tli
+g;family=rm;fallback=myfallback;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"NotoSerif/BI:mode=node;script=latn;language=dflt;+tl
+ig;family=rm;fallback=myfallback;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"NotoSerif/BI:mode=node;script=latn;language=dflt;+tl
+ig;family=rm;fallback=myfallback;+smcp;"
+
+luaotfload | aux : font no 30 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 35 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 36 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 37 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 38 (nil) does not define feature smcp for script latn
+ with language dflt
+
+Package fontspec Info: Font family 'Lato(0)' created for font 'Lato' with
+(fontspec)             options
+(fontspec)             [Script=Latin,Language=English,RawFeature={family=alt}].
+
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Lato:mode=node;script=latn;language=dflt;family=alt;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Lato/B:mode=node;script=latn;language=dflt;family=al
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Lato/I:mode=node;script=latn;language=dflt;family=al
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Lato/BI:mode=node;script=latn;language=dflt;family=a
+lt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+ (./cvpr.sty
+(./eso-pic.sty
+Package: eso-pic 2002/11/16 v1.1b eso-pic (RN)
+ (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+\@ctmp=\skip50
+\@figindent=\skip51
+\cvprrulerbox=\box52
+\cvprrulercount=\count278
+\cvprruleroffset=\dimen157
+\cv@lineheight=\dimen158
+\cv@boxheight=\dimen159
+\cv@tmpbox=\box53
+\cv@refno=\count279
+\cv@tot=\count280
+\cv@tmpc@=\count281
+\cv@tmpc=\count282
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
+)
+\epsfxsize=\dimen162
+\epsfysize=\dimen163
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen164
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen165
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count283
+LaTeX Info: Redefining \frac on input line 236.
+\uproot@=\count284
+\leftroot@=\count285
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count286
+\DOTSCASE@=\count287
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen166
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count288
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count289
+\dotsspace@=\muskip16
+\c@parentequation=\count290
+\dspbrk@lvl=\count291
+\tag@help=\toks19
+\row@=\count292
+\column@=\count293
+\maxfields@=\count294
+\andhelp@=\toks20
+\eqnshift@=\dimen167
+\alignsep@=\dimen168
+\tagshift@=\dimen169
+\tagwidth@=\dimen170
+\totwidth@=\dimen171
+\lineht@=\dimen172
+\@envbody=\toks21
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks23
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count295
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count296
+)
+\@linkdim=\dimen173
+\Hy@linkcounter=\count297
+\Hy@pagecounter=\count298
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count299
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4062.
+Package hyperref Info: Option `bookmarks' set `false' on input line 4062.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4452.
+\c@Hy@tempcnt=\count300
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen174
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count301
+\Field@Width=\dimen175
+\Fld@charsize=\dimen176
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count302
+\c@Item=\count303
+\c@Hfootnote=\count304
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2024-01-20 v7.01h Hyperref driver for luaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count305
+\c@bookmark@seq@number=\count306
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip55
+)
+luaotfload | aux : font no 45 (nil) defines no feature for script khmr with lang
+uage khm
+
+Package fontspec Info: Could not resolve font "NotoSansKhmer/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "NotoSansKhmer/I" (it probably
+(fontspec)             doesn't exist).
+
+luaotfload | aux : font no 48 (nil) does not define feature smcp for script khmr
+ with language dflt
+luaotfload | aux : font no 49 (nil) does not define feature smcp for script khmr
+ with language dflt
+
+Package fontspec Info: Font family 'NotoSansKhmer(0)' created for font 'Noto
+(fontspec)             Sans Khmer' with options
+(fontspec)             [Ligatures=TeX,Script=Khmer,Language=Khmer,RawFeature={f
+amily=rm},RawFeature={fallback=myfallback}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"NotoSansKhmer:mode=node;script=khmr;language=dflt;+t
+lig;family=rm;fallback=myfallback;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"NotoSansKhmer/B:mode=node;script=khmr;language=dflt;
++tlig;family=rm;fallback=myfallback;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+luaotfload | aux : font no 45 (nil) defines no feature for script khmr with lang
+uage khm
+
+Package fontspec Info: Could not resolve font "NotoSansKhmer/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "NotoSansKhmer/I" (it probably
+(fontspec)             doesn't exist).
+
+luaotfload | aux : font no 48 (nil) does not define feature smcp for script khmr
+ with language dflt
+luaotfload | aux : font no 49 (nil) does not define feature smcp for script khmr
+ with language dflt
+
+Package fontspec Info: Font family 'NotoSansKhmer(1)' created for font 'Noto
+(fontspec)             Sans Khmer' with options
+(fontspec)             [Ligatures=TeX,Script=Khmer,Language=Khmer,RawFeature={f
+amily=sf},RawFeature={fallback=myfallback}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"NotoSansKhmer:mode=node;script=khmr;language=dflt;+t
+lig;family=sf;fallback=myfallback;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"NotoSansKhmer/B:mode=node;script=khmr;language=dflt;
++tlig;family=sf;fallback=myfallback;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+luaotfload | aux : font no 45 (nil) defines no feature for script khmr with lang
+uage khm
+
+Package fontspec Info: Could not resolve font "NotoSansKhmer/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "NotoSansKhmer/I" (it probably
+(fontspec)             doesn't exist).
+
+luaotfload | aux : font no 48 (nil) does not define feature smcp for script khmr
+ with language dflt
+luaotfload | aux : font no 49 (nil) does not define feature smcp for script khmr
+ with language dflt
+
+Package fontspec Info: Font family 'NotoSansKhmer(2)' created for font 'Noto
+(fontspec)             Sans Khmer' with options
+(fontspec)             [Script=Khmer,Language=Khmer,RawFeature={family=alt},Raw
+Feature={fallback=myfallback}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"NotoSansKhmer:mode=node;script=khmr;language=dflt;fa
+mily=alt;fallback=myfallback;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"NotoSansKhmer/B:mode=node;script=khmr;language=dflt;
+family=alt;fallback=myfallback;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+
+
+Package babel Info: The current font is not a babel standard family:
+(babel)             NotoSerif:mode=node;script=latn;language=dflt;+tlig;family=
+rm;fallback=myfallback;
+(babel)             There is nothing intrinsically wrong with this warning, and
+
+(babel)             you can ignore it altogether if you do not need these
+(babel)             families. But if they are used in the document, you should 
+be
+(babel)             aware 'babel' will not set Script and Language for them, so
+
+(babel)             you may consider defining a new family with \babelfont.
+(babel)             See the manual for further details about \babelfont.
+(babel)             Reported on input line 72.
+
+Package babel Info: New pattern: 1ក on input line 1.
+Package babel Info: New pattern: 1ខ on input line 2.
+Package babel Info: New pattern: 1គ on input line 3.
+Package babel Info: New pattern: 1ឃ on input line 4.
+Package babel Info: New pattern: 1ង on input line 5.
+Package babel Info: New pattern: 1ច on input line 6.
+Package babel Info: New pattern: 1ឆ on input line 7.
+Package babel Info: New pattern: 1ជ on input line 8.
+Package babel Info: New pattern: 1ឈ on input line 9.
+Package babel Info: New pattern: 1ញ on input line 10.
+Package babel Info: New pattern: 1ដ on input line 11.
+Package babel Info: New pattern: 1ឋ on input line 12.
+Package babel Info: New pattern: 1ឌ on input line 13.
+Package babel Info: New pattern: 1ឍ on input line 14.
+Package babel Info: New pattern: 1ណ on input line 15.
+Package babel Info: New pattern: 1ត on input line 16.
+Package babel Info: New pattern: 1ថ on input line 17.
+Package babel Info: New pattern: 1ទ on input line 18.
+Package babel Info: New pattern: 1ធ on input line 19.
+Package babel Info: New pattern: 1ន on input line 20.
+Package babel Info: New pattern: 1ប on input line 21.
+Package babel Info: New pattern: 1ផ on input line 22.
+Package babel Info: New pattern: 1ព on input line 23.
+Package babel Info: New pattern: 1ភ on input line 24.
+Package babel Info: New pattern: 1ម on input line 25.
+Package babel Info: New pattern: 1យ on input line 26.
+Package babel Info: New pattern: 1រ on input line 27.
+Package babel Info: New pattern: 1ល on input line 28.
+Package babel Info: New pattern: 1វ on input line 29.
+Package babel Info: New pattern: 1ឝ on input line 30.
+Package babel Info: New pattern: 1ឞ on input line 31.
+Package babel Info: New pattern: 1ស on input line 32.
+Package babel Info: New pattern: 1ហ on input line 33.
+Package babel Info: New pattern: 1ឡ on input line 34.
+Package babel Info: New pattern: 1អ on input line 35.
+Package babel Info: New pattern: 1ឥ on input line 36.
+Package babel Info: New pattern: 1ឦ on input line 37.
+Package babel Info: New pattern: 1ឧ on input line 38.
+Package babel Info: New pattern: 1ឨ on input line 39.
+Package babel Info: New pattern: 1ឩ on input line 40.
+Package babel Info: New pattern: 1ឪ on input line 41.
+Package babel Info: New pattern: 1ឫ on input line 42.
+Package babel Info: New pattern: 1ឬ on input line 43.
+Package babel Info: New pattern: 1ឭ on input line 44.
+Package babel Info: New pattern: 1ឮ on input line 45.
+Package babel Info: New pattern: 1ឯ on input line 46.
+Package babel Info: New pattern: 1ឰ on input line 47.
+Package babel Info: New pattern: 1ឱ on input line 48.
+Package babel Info: New pattern: 1ឲ on input line 49.
+Package babel Info: New pattern: 1ឳ on input line 50.
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 72
+.
+LaTeX Font Info:    No file TUptm.fd. on input line 72.
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 72.
+
+(./2khmer41.aux
+LaTeX Font Info:    Trying to load font information for TU+phv on input line 3.
+
+LaTeX Font Info:    No file TUphv.fd. on input line 3.
+
+
+LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 3.
+
+LaTeX Font Info:    No file TUpcr.fd. on input line 3.
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+
+Package babel Info: The following font families will use the default
+(babel)             settings for all or some languages:
+(babel)             * \sffamily = phv
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             * \ttfamily = pcr
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             There is nothing intrinsically wrong with it, but
+(babel)             'babel' will no set Script and Language, which could
+(babel)             be relevant in some languages. If your document uses
+(babel)             these families, consider redefining them with \babelfont.
+(babel)             Reported on input line 3.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+)
+\openout1 = 2khmer41.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
+2.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 72.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 72.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 72.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 72.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 72.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 72.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 72.
+LaTeX Font Info:    Redeclaring math accent \check on input line 72.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 72.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 72.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 72.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 72.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 72.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/NotoSerif(0)/m/n on input line 72.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 72.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/NotoSerif(0)/m/n on input line 72.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/NotoSerif(0)/m/n --> TU/NotoSerif(0)/m/n on input li
+ne 72.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/NotoSerif(0)/m/it on input line 72.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/NotoSerif(0)/b/n on input line 72.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 72.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 72.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/NotoSerif(0)/m/n --> TU/NotoSerif(0)/b/n on input li
+ne 72.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/NotoSerif(0)/b/it on input line 72
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 72.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/b/n on input line 72.
+
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: luatex.def on input line 149.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count307
+\scratchdimen=\dimen177
+\scratchbox=\box56
+\nofMPsegments=\count308
+\nofMParguments=\count309
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count310
+\MPscratchDim=\dimen178
+\MPnumerator=\count311
+\makeMPintoPDFobject=\count312
+\everyMPtoPDFconversion=\toks25
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring OFF on input line 72.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 86.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 86.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Font Warning: Font shape `TU/NotoSansKhmer(0)/m/it' undefined
+(Font)              using `TU/NotoSansKhmer(0)/m/n' instead on input line 87.
+
+<jarkov-mammoth.jpg, id=16, 1284.8pt x 856.19875pt>
+File: jarkov-mammoth.jpg Graphic file (type jpg)
+<use jarkov-mammoth.jpg>
+Package luatex.def Info: jarkov-mammoth.jpg  used on input line 104.
+(luatex.def)             Requested size: 237.13594pt x 158.02847pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[]\TU/NotoSerif(0)/m/n/9 Figure 1. []\TU/NotoSansKhmer(0)/m/n/9 សត្វ
+ម៉ា៉មម៉ុត់យ៉ា៉កក៉ូវ \TU/NotoSerif(0)/m/n/
+9 (Jarkov Mammoth) \TU/NotoSansKhmer(0)/m/n/9 អាយុ
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+<./jarkov-mammoth.jpg>]
+<grand-canyon.jpg, id=54, 481.8pt x 321.2pt>
+File: grand-canyon.jpg Graphic file (type jpg)
+<use grand-canyon.jpg>
+Package luatex.def Info: grand-canyon.jpg  used on input line 120.
+(luatex.def)             Requested size: 237.13594pt x 158.09024pt.
+<coconino.jpg, id=57, 923.45pt x 1123.19624pt>
+File: coconino.jpg Graphic file (type jpg)
+<use coconino.jpg>
+Package luatex.def Info: coconino.jpg  used on input line 131.
+(luatex.def)             Requested size: 237.13594pt x 288.42503pt.
+<Grand_Staircase-big.jpg, id=62, 1355.0625pt x 385.44pt>
+File: Grand_Staircase-big.jpg Graphic file (type jpg)
+<use Grand_Staircase-big.jpg>
+Package luatex.def Info: Grand_Staircase-big.jpg  used on input line 143.
+(luatex.def)             Requested size: 496.85625pt x 141.32843pt.
+
+[2<./grand-canyon.jpg>]
+<derinkuyu.jpeg, id=94, 1003.75pt x 648.4225pt>
+File: derinkuyu.jpeg Graphic file (type jpg)
+<use derinkuyu.jpeg>
+Package luatex.def Info: derinkuyu.jpeg  used on input line 163.
+(luatex.def)             Requested size: 237.13594pt x 153.19063pt.
+<derinkuyu-air.jpg, id=98, 1927.2pt x 1445.4pt>
+File: derinkuyu-air.jpg Graphic file (type jpg)
+<use derinkuyu-air.jpg>
+Package luatex.def Info: derinkuyu-air.jpg  used on input line 179.
+(luatex.def)             Requested size: 237.13594pt x 177.85152pt.
+
+Overfull \hbox (58.51419pt too wide) in paragraph at lines 192--193
+\TU/NotoSansKhmer(0)/m/it/10 កីតឡីងដាយចំហាយអគ
+្គិសនីធំធេងក្រាយទឹកជំនន់ដែ
+លកីតពីការផ្លាស់ទីស្នូល\TU/NotoSerif
+(0)/m/n/10 -
+ []
+
+<muck-crop.jpeg, id=107, 969.6225pt x 637.38126pt>
+File: muck-crop.jpeg Graphic file (type jpg)
+<use muck-crop.jpeg>
+Package luatex.def Info: muck-crop.jpeg  used on input line 197.
+(luatex.def)             Requested size: 237.13594pt x 155.88258pt.
+<ww19.jpg, id=110, 955.57pt x 642.4pt>
+File: ww19.jpg Graphic file (type jpg)
+<use ww19.jpg>
+Package luatex.def Info: ww19.jpg  used on input line 210.
+(luatex.def)             Requested size: 237.13594pt x 159.41353pt.
+[3<./coconino.jpg>]
+
+LaTeX Warning: Text page 4 contains only floats.
+
+[4<./Grand_Staircase-big.jpg><./derinkuyu.jpeg><./derinkuyu-air.jpg><./muck-crop
+.jpeg>]
+<dolmen.jpg, id=142, 803.0pt x 504.88625pt>
+File: dolmen.jpg Graphic file (type jpg)
+<use dolmen.jpg>
+Package luatex.def Info: dolmen.jpg  used on input line 224.
+(luatex.def)             Requested size: 237.13594pt x 149.09422pt.
+
+Underfull \vbox (badness 1014) has occurred while \output is active []
+
+<bottleneck.jpg, id=147, 657.45625pt x 1208.515pt>
+File: bottleneck.jpg Graphic file (type jpg)
+<use bottleneck.jpg>
+Package luatex.def Info: bottleneck.jpg  used on input line 244.
+(luatex.def)             Requested size: 237.13594pt x 435.89488pt.
+
+Overfull \hbox (9.00203pt too wide) in paragraph at lines 246--246
+[]\TU/NotoSerif(0)/m/n/9 Figure 10. []\TU/NotoSansKhmer(0)/m/n/9 ការប
+ង្អាក់ប្រភេទក្រុមហ៊ុនសណ្ឋា
+នសរសៃស្ត្រ󰀇បុរសប្រហែល
+ []
+
+<columbia.jpg, id=158, 687.56876pt x 444.66125pt>
+File: columbia.jpg Graphic file (type jpg)
+<use columbia.jpg>
+Package luatex.def Info: columbia.jpg  used on input line 260.
+(luatex.def)             Requested size: 237.13594pt x 153.354pt.
+
+Underfull \hbox (badness 1571) in paragraph at lines 267--268
+\TU/NotoSansKhmer(0)/m/it/10 តាង\TU/NotoSerif(0)/m/n/10  \TU/NotoSansKhme
+r(0)/m/it/10 អំពី\TU/NotoSerif(0)/m/n/10  \TU/NotoSansKhmer(0)/m/it/10 
+កា រ ហូ រ ទឹក\TU/NotoSerif(0)/m/n/10  \TU/NotoSansKhmer(0)/m/
+it/10 ធំ ទូ លាយ\TU/NotoSerif(0)/m/n/10  \TU/NotoSansKhmer(0)/m/it
+/10 ក្ នុង\TU/NotoSerif(0)/m/n/10  \TU/NotoSansKhmer(0)/m/it/10 ស
+េ រ󰀗ា󰀗ណា\TU/NotoSerif(0)/m/n/10  \TU/NotoSansKhmer(0)/m/it/10 
+អា ណា ច ក្រ\TU/NotoSerif(0)/m/n/10  \TU/NotoSansKhmer(0)/m/it/1
+0 អា ច
+ []
+
+<zhangjiajie.jpg, id=166, 1204.5pt x 803.0pt>
+File: zhangjiajie.jpg Graphic file (type jpg)
+<use zhangjiajie.jpg>
+Package luatex.def Info: zhangjiajie.jpg  used on input line 272.
+(luatex.def)             Requested size: 237.13594pt x 158.08533pt.
+<hoy.jpg, id=167, 770.88pt x 433.62pt>
+File: hoy.jpg Graphic file (type jpg)
+<use hoy.jpg>
+Package luatex.def Info: hoy.jpg  used on input line 283.
+(luatex.def)             Requested size: 237.13594pt x 133.38863pt.
+[5
+Missing character: There is no 异 (U+5F02) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;fallback=myfallback;!
+Missing character: There is no 常 (U+5E38) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;fallback=myfallback;!
+<./ww19.jpg><./dolmen.jpg>] [6<./bottleneck.jpg><./columbia.jpg><./zhangjiajie.j
+pg><./hoy.jpg>]
+<jericho.jpg, id=229, 1082.0425pt x 1087.06125pt>
+File: jericho.jpg Graphic file (type jpg)
+<use jericho.jpg>
+Package luatex.def Info: jericho.jpg  used on input line 304.
+(luatex.def)             Requested size: 237.13594pt x 238.22533pt.
+
+Underfull \vbox (badness 1019) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7<./jericho.jpg>] [8
+
+] (./2khmer41.bbl
+Underfull \hbox (badness 5548) in paragraph at lines 101--105
+[]\TU/NotoSerif(0)/m/n/9 GetYourGuide.  Canyoning in grand canyon.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]$\TU/pcr/m/n/9 https://www.getyourguide.com/grand-[]canyon-[]l489/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--130
+\TU/NotoSerif(0)/m/n/9 science-forum/mystery-mammoth-and-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+[]\TU/NotoSerif(0)/m/n/9 Junho.  Ecdo kmls.  []$\TU/pcr/m/n/9 https://github.com
+/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+\TU/pcr/m/n/9 sovrynn/ecdo/tree/master/5-[]TOOLS-[]DEV/dev/
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 139--144
+[]\TU/NotoSerif(0)/m/n/9 Junho.  Mega-current ripples.  []$\TU/pcr/m/n/9 https:/
+/github.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+\TU/pcr/m/n/9 com/sovrynn/ecdo/tree/master/1-[]EVIDENCE/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+\TU/pcr/m/n/9 physical-[]material/water-[]flow-[]structures/
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 146--149
+[]\TU/NotoSerif(0)/m/n/9 Junho.  Ecdo github research repository, 2024.
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 156--161
+[]\TU/NotoSerif(0)/m/n/9 E. Larsen, S. Gulliksen, S.-E. Lauritzen, R. Lie,
+ []
+
+
+Underfull \hbox (badness 2865) in paragraph at lines 163--169
+\TU/NotoSerif(0)/m/n/9 son, M. Finlayson, T. Gumbricht, L. Hilarides,
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 177--181
+[]\TU/NotoSerif(0)/m/n/9 M. J. Magee, M. L. Wayman, and N. C. Lovell.
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 189--193
+[]\TU/NotoSerif(0)/m/n/9 National Park Service.  Geology - death valley
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 189--193
+\TU/NotoSerif(0)/m/n/9 national park.  []$\TU/pcr/m/n/9 https://www.nps.gov/deva
+/learn/
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 195--199
+\TU/NotoSerif(0)/m/n/9 national park.  []$\TU/pcr/m/n/9 https://www.nps.gov/grca
+/learn/
+ []
+
+[9
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 218--225
+\TU/pcr/m/n/9 2017/05/gli-[]archi-[]di-[]san-[]ciro-[]e-[]i-[]giganti-[]di.html$[]\TU/NotoSerif(0)/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 218--225
+\TU/NotoSerif(0)/m/n/9 May 2017.  Annotazioni di Rosanna Pellerito.
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 218--225
+\TU/NotoSerif(0)/m/n/9 Traduzione di Mariella Ferraro. Blog di Piero
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 227--234
+[]\TU/NotoSerif(0)/m/n/9 J. Prestwich.  Xviii. on the evidences of a sub
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 267--271
+[]\TU/NotoSerif(0)/m/n/9 M. H. Schweitzer, J. L. Wittmeyer, J. R. Horner,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/NotoSerif(0)/m/n/9 https://theethicalskeptic.com/2024/05/23/master-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/NotoSerif(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 295--298
+\TU/NotoSerif(0)/m/n/9 canyon, arizona.  \TU/NotoSerif(0)/m/it/9 Answers Researc
+h Journal\TU/NotoSerif(0)/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 3439) in paragraph at lines 315--319
+[]\TU/NotoSerif(0)/m/n/9 M. Staubwasser and H. Weiss.  Holocene cli
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--319
+\TU/NotoSerif(0)/m/n/9 mate and cultural evolution in late prehis
+ []
+
+
+Underfull \hbox (badness 4967) in paragraph at lines 372--375
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia.  Great pyramid of giza.  []$\TU/pcr/m/n/9 ht
+tps:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--375
+\TU/pcr/m/n/9 //en.wikipedia.org/wiki/Great_Pyramid_of_Giza#
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 377--380
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia contributors.  Extinction event ---
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 382--385
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia contributors.  4.2-kiloyear event ---
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 387--390
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia contributors.  8.2-kiloyear event ---
+ []
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 398--401
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia contributors.  Dolmen de Soto ---
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 408--411
+\TU/NotoSerif(0)/m/n/9 Free Encyclopedia, 2025.  [Online; accessed 9-
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 418--422
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia contributors.  Newgrange -- Burials.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--422
+[]$\TU/pcr/m/n/9 https://en.wikipedia.org/wiki/Newgrange#Burials$[]\TU/NotoSeri
+f(0)/m/n/9 ,
+ []
+
+[10]
+Underfull \hbox (badness 2990) in paragraph at lines 431--436
+\TU/NotoSerif(0)/m/n/9 lineal kin groups explain the post-neolithic y-
+ []
+
+) [11
+
+] (./2khmer41.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+)
+
+Here is how much of LuaTeX's memory you used:
+ 14521 strings out of 476553
+ 305270,1977958 words of node,token memory allocated
+ 155818 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 9130 disc, 2 glue, 4 kern, 1 glyph, 18289 attribute
+, 54 glue_spec, 9146 attribute_list, 1 write, 8 pdf_action nodes
+   avail lists: 1:2,2:5093,3:667,4:162,5:296,6:78,7:15110,8:115,9:557,10:43,11:8
+20
+ 36089 multiletter control sequences out of 65536+600000
+ 121 fonts using 52706383 bytes
+ 80i,9n,97p,5735b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/fonts/truetype/freefont/FreeSerif.ttf></usr/share/fonts/truetype/not
+o/NotoSerif-Italic.ttf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-regul
+ar.otf></usr/share/fonts/truetype/noto/NotoSansKhmer-Regular.ttf></usr/share/fon
+ts/truetype/noto/NotoSerif-Regular.ttf></usr/share/fonts/truetype/noto/NotoSansK
+hmer-Bold.ttf></usr/share/fonts/truetype/noto/NotoSerif-Bold.ttf></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on 2khmer41.pdf (11 pages, 3217171 bytes).
+
+PDF statistics: 377 PDF objects out of 1000 (max. 8388607)
+ 315 compressed objects within 4 object streams
+ 115 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+

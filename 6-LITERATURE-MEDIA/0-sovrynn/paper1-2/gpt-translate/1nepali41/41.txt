@@ -1,0 +1,9 @@
+\begin{figure}[H]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{1\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{star-stone.jpg}
+\end{center}
+   \caption{खुफु पिरामिडका शाफ्टमध्ये एउटामा पत्थरमा कुँदिएको ताराकाे नक्सा \cite{28}।}
+\label{fig:20}
+\label{fig:onecol}
+\end{figure}

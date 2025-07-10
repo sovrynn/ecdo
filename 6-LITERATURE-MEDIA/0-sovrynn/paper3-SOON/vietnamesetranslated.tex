@@ -1,0 +1,404 @@
+% !TEX TS-program = xelatex
+% \documentclass[10pt,twocolumn,letterpaper]{article}
+
+% \usepackage{fontspec}
+% \setmainfont{Times New Roman}
+% \usepackage{polyglossia}
+% \setmainlanguage{vietnamese}
+
+
+% \begin{document}
+
+\documentclass[10pt,twocolumn,letterpaper]{article}
+
+% Những thứ của riêng tôi
+\usepackage{booktabs}
+% \usepackage{caption}
+% \captionsetup[table]{skip=8pt}   % Chỉ ảnh hưởng đến bảng
+\usepackage{stfloats}  % Thêm dòng này vào phần tiền đề
+\usepackage{float}
+\usepackage[T5]{fontenc}
+
+
+% \usepackage{fontspec}
+\usepackage[english]{babel}
+
+% load Lao via babelprovide, turn on "onchar=ids" for automatic shaping
+\babelprovide[import,onchar=ids fonts]{vietnamese}
+
+% main (rm) font for Latin
+\babelfont{rm}{Noto Serif}
+
+% Lao text in Noto Serif Lao at 1.2× scale
+\babelfont[vietnamese]{rm}{Noto Serif}
+\babelfont[vietnamese]{sf}{Noto Serif}
+
+% alternate (sans-serif) font for Latin
+\babelfont{alt}{Lato}
+
+% Lao text in Noto Serif Lao for the alt family too
+\babelfont[vietnamese]{alt}{Noto Serif}
+
+\usepackage{cvpr}
+\usepackage{times}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+
+% \makeatletter
+% \def\cvprsubsection{\@startsection {subsection}{2}{\z@}
+%     {8pt plus 2pt minus 2pt}{6pt}{\bfseries\normalsize}}
+% \makeatother
+
+% Bao gồm các gói khác ở đây, trước hyperref.
+
+% Nếu bạn bình luận hyperref rồi bật lại nó, bạn nên xóa
+% egpaper.aux trước khi chạy lại latex. (Hoặc chỉ cần nhấn 'q' khi chạy latex lần đầu tiên)
+
+% run, let it finish, and you should be clear).
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\cvprfinalcopy % *** Uncomment this line for the final submission
+
+\def\cvprPaperID{****} % *** Enter the CVPR Paper ID here
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+\renewcommand{\figurename}{Hình}   % or whatever you like instead of "Hình"
+
+% This makes the font slightly bigger than base (10) and bold in Subsection headings rather than using ptmb
+% after those:
+\addto\captionsenglish{%
+  \renewcommand{\figurename}{Hình}%
+}
+
+\makeatletter
+\def\abstract{%
+  \centerline{\large\bf Tóm tắt}% <-- your new label
+  \vspace*{12pt}%
+  \it%
+}
+\makeatother
+
+\makeatletter
+\def\cvprsubsection{%
+  \@startsection{subsection}{2}{\z@}%
+    {8pt plus 2pt minus 2pt}{6pt}%
+    % {\normalfont\bfseries\selectfont}%
+    {\normalfont\bfseries\fontsize{11}{13}\selectfont}%
+}
+\makeatother
+
+% So this hardcodes the style for the numbers in the section/subsection headings so they're bold
+\font\elvbf=ptmb scaled 1100
+\font\elvbfs=ptmb scaled 1200
+\makeatletter
+% Section number: Large + bold
+\renewcommand\thesection{%
+  {\elvbfs\arabic{section}}%
+}
+
+% Subsection number: normalsize + bold + custom punctuation
+\renewcommand\thesubsection{%
+  {\elvbf
+   \arabic{section}.\arabic{subsection}}%
+}
+\makeatother
+
+% Các trang được đánh số trong chế độ nộp bài, và không đánh số trong bản camera-ready
+%\ifcvprfinal\pagestyle{empty}\fi
+\setcounter{page}{1}
+\begin{document}
+
+
+%%%%%%%%% TITLE
+\title{Bài Báo ECDO 3: Bằng Chứng về Việc Các Thế lực Cai trị Phương Tây Ngày nay Đang Chuẩn bị Cho Một Thảm họa Địa lý Sắp xảy ra}
+
+\author{Junho\\
+Xuất bản tháng 6 năm 2025\\
+Website (Tải bài báo tại đây): \href{https://sovrynn.github.io}{sovrynn.github.io}\\
+Kho nghiên cứu ECDO: \href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ecdo}\\
+{\tt\small junhobtc@proton.me}
+% For a paper whose authors are all at the same institution,
+% omit the following lines up until the closing ``}''.
+% Additional authors and addresses can be added with ``\and'',
+% just like the second author.
+% To save space, use either the email address or home page, not both
+% \and
+% Author2\\
+% Institution2\\
+% First line of institution2 address\\
+% {\tt\small secondauthor@i2.org}
+}
+
+\maketitle
+%\thispagestyle{empty}
+
+%%%%%%%%% ABSTRACT
+\begin{abstract}
+Vào tháng 5 năm 2024, một tác giả trực tuyến ẩn danh với biệt danh "The Ethical Skeptic" \cite{0} đã công bố một lý thuyết đột phá mang tên Dao động Dzhanibekov Đứt gãy Lõi-Manti Tỏa nhiệt (ECDO) \cite{1}. Lý thuyết này đề xuất rằng Trái Đất đã từng trải qua những sự dịch chuyển đột ngột, thảm khốc của trục quay, gây ra các trận lụt lớn trên toàn cầu khi nước biển tràn qua các lục địa do quán tính quay. Ngoài ra, lý thuyết này còn đưa ra một quy trình địa vật lý giải thích và dữ liệu cho thấy rằng một sự đảo cực tương tự có thể sắp xảy ra. Mặc dù các dự đoán về những trận lụt thảm khốc và ngày tận thế không phải là mới, lý thuyết ECDO đặc biệt thuyết phục nhờ cách tiếp cận khoa học, hiện đại, đa ngành và dựa trên dữ liệu.
+
+Nghiên cứu này là nghiên cứu thứ ba của tôi \cite{2,3} về chủ đề này, tập trung vào các khía cạnh chính trị hiện nay của lý thuyết này:
+\begin{flushleft}
+\begin{enumerate}
+    \item Lời khai của người tố giác rằng các cường quốc phương Tây tin rằng một đại thảm họa địa vật lý sắp xảy ra và có kế hoạch tận dụng sự kiện này về mặt chính trị và quân sự.
+    \item Bằng chứng về các căn cứ ngầm và dưới biển quy mô lớn của phương Tây được xây dựng để chuẩn bị cho sự kiện này.
+    \item Bằng chứng về một lượng tiền khổng lồ bị rút khỏi các cấu trúc tiền tệ phương Tây để tài trợ cho các căn cứ này.
+\end{enumerate}
+\end{flushleft}
+
+Bài báo này ghi chép lại các công tác chuẩn bị quy mô lớn mà các thế lực cầm quyền phương Tây đang tiến hành để đối phó với một thảm họa địa vật lý mà họ tin là sắp xảy ra.
+\end{abstract}
+
+%%%%%%%%% BODY TEXT
+\section{Hội Tam Điểm và "Sứ mệnh Anglo-Saxon"}
+
+Vào tháng 1 năm 2010, Project Camelot, một tổ chức truyền thông và báo chí thay thế chuyên tổng hợp các lời khai từ người tố giác, đã phỏng vấn \cite{4,6} một người trong cuộc. Người này đã trực tiếp có mặt tại một cuộc họp của các Hội viên cấp cao Hội Tam Điểm ở Thành phố London vào tháng 6 năm 2005. Các chủ đề được thảo luận tại cuộc họp xoay quanh các kế hoạch quân sự và chính trị, với bối cảnh là một \textbf{"sự kiện địa vật lý" sắp tới, tức là một thảm họa tự nhiên toàn cầu}.
+
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+\includegraphics[width=1\linewidth]{freemason.jpg}
+\end{center}
+   \caption{Các thành viên Hội Tam Điểm Anh Quốc trong trạng thái tự nhiên, lặng lẽ âm mưu thả bom hạt nhân và chiếm lấy thế giới - tại Earls Court ở London, năm 1992 \cite{5}.}
+\label{fig:1}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure*}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
+\includegraphics[width=1\textwidth]{british.jpg}
+\end{center}
+   \caption{Đế quốc Anh vào năm 1937, một màn phô diễn sức mạnh Anglo-Saxon hùng hậu \cite{14}.}
+   \label{fig:2}
+\end{figure*}
+
+Theo nguồn tin nội bộ này, 25-30 người có mặt tại cuộc họp \textit{"...đều là người Anh, và một số trong số họ là những nhân vật rất nổi tiếng mà người dân Vương quốc Anh sẽ nhận ra ngay lập tức... có một chút quý tộc ở đó, và một số người trong số họ xuất thân từ những gia đình khá quý tộc. Có một người mà tôi nhận ra tại cuộc họp đó là một chính trị gia cấp cao. Hai người khác là nhân vật cấp cao trong ngành cảnh sát, và một người từ quân đội. Cả hai đều được biết đến trên toàn quốc và đều là những nhân vật chủ chốt trong việc cố vấn cho chính phủ hiện tại — vào thời điểm hiện tại này"} \cite{4}. Người trong cuộc này cho biết ông đã tham dự cuộc họp,\ \textit{"Chỉ là tình cờ thôi! Tôi cứ tưởng đó là cuộc họp định kỳ ba tháng bình thường... Tôi đã đến cuộc họp này và đây lại không phải là cuộc họp mà tôi mong đợi. Tôi tin rằng mình được mời... là vì vị trí mà tôi đang nắm giữ và vì họ tin rằng, giống như họ, tôi cũng là một trong số họ."} \cite{4}.
+
+Dòng thời gian cơ bản của các sự kiện được thảo luận tại cuộc họp (vào năm 2005) như sau:
+
+\begin{flushleft}
+\begin{enumerate}
+    \item Khiêu khích Iran hoặc Trung Quốc sử dụng vũ khí hạt nhân chiến thuật và gây ra một cuộc chiến tranh hạt nhân giới hạn, sau đó thiết lập lệnh ngừng bắn.
+    \item Phát tán vũ khí sinh học ở Trung Quốc, được cho là mục tiêu chính "từ những năm 70".
+    \item Việc áp đặt các chính phủ quân sự độc tài thường được biện minh bởi nỗi sợ hãi và hỗn loạn phát sinh.
+\end{enumerate}
+\end{flushleft}
+
+Nhưng điều quan trọng nhất là những gì được dự đoán sẽ xảy ra sau các sự kiện này: \textit{"Chúng ta sẽ bước vào cuộc chiến này, rồi sau đó... sẽ có một sự kiện địa vật lý xảy ra trên Trái Đất, ảnh hưởng đến tất cả mọi người"} \cite{4}. Người nội bộ tin rằng trong sự kiện địa vật lý này, \textit{\textbf{"vỏ Trái Đất sẽ dịch chuyển khoảng 30 độ, tức khoảng 1700 đến 2000 dặm về phía Nam, và nó sẽ gây ra một sự biến động lớn, những ảnh hưởng của nó sẽ kéo dài trong một thời gian rất dài"}} \cite{4}.
+
+Lý do đằng sau tất cả những kế hoạch bí mật này, tất nhiên, là quyền lực. Người trong cuộc giải thích: \textit{"Đến lúc đó, tất cả chúng ta sẽ trải qua một cuộc chiến tranh hạt nhân và sinh học. Nếu điều này xảy ra, dân số Trái Đất sẽ giảm mạnh. Khi sự kiện địa vật lý này diễn ra, số người còn lại có thể sẽ giảm đi một nửa nữa. Và ai sống sót sẽ quyết định ai sẽ nắm giữ thế giới và dân số còn lại trong kỷ nguyên tiếp theo. Vì vậy, chúng ta đang nói về một kỷ nguyên hậu thảm họa. Ai sẽ nắm quyền? Ai sẽ kiểm soát? Tất cả là về điều đó. Và đó là lý do tại sao họ rất khao khát những điều này xảy ra trong một khung thời gian nhất định... Một cấu trúc cần được thiết lập trước khi [hỗn loạn] xảy ra với một sự chắc chắn nào đó rằng cấu trúc ấy sẽ sống sót sau những gì sắp tới -- để nó có thể trụ vững sau sự vụ, và sau đó vẫn giữ được quyền lực như trước đây"} \cite{4}. Trong cuộc phỏng vấn, tên của kế hoạch này, "Sứ Mệnh Anglo-Saxon", cũng được thảo luận: \textit{[Người phỏng vấn]: "...lý do tại sao nó được gọi là Sứ mệnh Anglo-Saxon là vì về cơ bản kế hoạch là xóa sổ người Trung Quốc để sau thảm họa và khi mọi thứ được xây dựng lại, chính người Anglo-Saxon sẽ ở vị trí để xây dựng lại và kế thừa Trái Đất mới, không còn ai khác. Có đúng không?" [Người trong cuộc]: "Liệu điều đó có đúng không thì tôi thật sự không biết, nhưng tôi đồng ý với bạn.  Ít nhất là trong thế kỷ 20, và thậm chí trước đó vào thế kỷ 19 và 18, lịch sử thế giới này chủ yếu được điều hành từ phương Tây và từ khu vực phía Bắc của hành tinh"} \cite{4}.
+
+Về thời điểm chính xác của sự kiện địa vật lý được mong đợi, người trong cuộc đưa ra phỏng đoán tốt nhất của mình: \textit{"...cảm giác, và đó là một cảm giác rất trực giác, là họ phải hành động ngay bây giờ... Tôi nghĩ họ đã có một ý tưởng tốt về thời điểm nó sẽ xảy ra... \textbf{Tôi có cảm giác rất mạnh rằng nó sẽ xảy ra trong đời tôi, có thể trong vòng 20 năm nữa}... cchúng ta hiện đã bước vào giai đoạn mà sự kiện địa vật lý này sắp xảy ra, khi chúng ta xem xét khoảng thời gian đã trôi qua kể từ lần cuối cùng xảy ra cách đây khoảng 11.500 năm, và nó xảy ra theo chu kỳ khoảng 11.500 năm. Giờ đây, nó lại đến hạn... Họ hiểu rằng nó sẽ xảy ra. Họ có một sự chắc chắn về kiến thức rằng nó sẽ xảy ra... Một lần nữa, đây là một trong những điều -- sẽ không thể tưởng tượng được nếu họ không biết. Ý tôi là, những bộ óc xuất sắc nhất thế giới sẽ làm việc cho họ về vấn đề này"} \cite{4}.
+
+Đây là một lời chứng vô cùng mạnh mẽ mà chúng ta nên biết ơn sâu sắc. Trong cuộc phỏng vấn, tác giả cũng bàn về niềm tin rằng Thế chiến I và Thế chiến II là các cuộc chiến được dàn dựng, và rằng Sứ Mệnh Anglo-Saxon gần như chắc chắn đã có từ rất nhiều thế hệ trước. Đã 15 năm kể từ cuộc phỏng vấn diễn ra vào năm 2010. Còn năm năm nữa là đến mốc 20 năm theo dự đoán của người trong cuộc về sự kiện địa vật lý kết thúc.
+
+\subsection{Tri thức thần bí Druidic phương Tây về các thảm họa}
+
+Tri thức phương Tây về các thảm họa định kỳ được gìn giữ rất kỹ lưỡng, không chỉ bởi các hội Tam điểm. Các Druid, một nền văn hóa Celtic cổ đại được ghi chép cẩn thận có từ ít nhất 2400 năm trước \cite{7}, đã truyền đạt những tri thức về các thảm họa lặp lại của Trái Đất. Người Druid cuối cùng được cho là Ben McBrady. Trong "Người Druid Cuối Cùng", một phim tài liệu năm 1992, ông đã chia sẻ thông tin về tri thức của các Druid: \textit{"Dòng tộc mà tôi có thể là thành viên cuối cùng theo truyền thống, đã được thành lập sau trận đại hồng thủy hay đại thảm họa cuối cùng đã ảnh hưởng đến thế giới. Nay, những cơn bão điện từ khủng khiếp, việc Trái Đất bị cuốn vào đuôi sao chổi, hoặc hứng chịu những trận mưa thiên thạch, đã khiến nền văn minh mà chúng ta biết bị hủy diệt hoàn toàn... Tất cả tri thức đều trong phạm vi của dòng tộc, nhưng họ đặc biệt quan tâm đến thiên văn học bởi họ đã trải qua quá nhiều thảm họa khủng khiếp. Họ tin rằng nếu nắm vững kiến thức thiên văn, họ có thể dự đoán được những điều kiện khi các thảm họa này có khả năng xảy ra và từ đó có thể tìm cách bảo vệ bản thân. Nếu bạn nhìn vào các công trình đá lớn ở Ireland, bạn sẽ thấy những gì thường được gọi là "mộ hành lang" thực chất là những hầm trú ẩn bom thô sơ. Chúng được xây dựng ở vị trí cao hơn mực nước của mọi đợt sóng thần, đồng thời cũng có khả năng bảo vệ con người khỏi các trận mưa thiên thạch"} \cite{8,9}.
+% Cũng có quan điểm cho rằng chính Hội Tam Điểm thực chất bắt nguồn từ người Druids \cite{10}.
+
+\section{Bằng chứng về Sự Chuẩn bị Cho Thảm họa Của Phương Tây Hiện nay}
+
+Xét đến việc các cường quốc phương Tây dường như tin rằng một thảm họa địa chất toàn cầu sắp xảy ra, có thể dự đoán rằng họ sẽ tiến hành những chuẩn bị đáng kể nhằm bảo vệ chính mình khỏi sự kiện này. Thực tế, đã có bằng chứng trong phạm vi công khai cho thấy sự tồn tại của các mạng lưới căn cứ ngầm sâu rộng tại nhiều quốc gia phương Tây. Mặc dù những cơ sở như vậy rõ ràng có thể bảo vệ con người trong trường hợp xảy ra chiến tranh hạt nhân, chúng cũng đồng thời có thể đóng vai trò như nơi trú ẩn trước nhiều loại thiên tai khác nhau. Dựa trên lời khai của một thành viên cao cấp trong Hội Tam Điểm Anh Quốc, được tiết lộ qua Dự án Camelot \cite{4,6}, có thể thấy rằng những kịch bản này không chỉ là khả năng có thể xảy ra, mà là những kế hoạch đã được tính toán từ trước. Cũng cần lưu ý đến khoản kinh phí khổng lồ cần thiết để xây dựng, vận hành và duy trì các cơ sở này — điều này trùng khớp một cách đáng chú ý với con số hàng chục nghìn tỷ đô la bị thất thoát khỏi ngân sách chính phủ Hoa Kỳ trong suốt 18 năm qua (sẽ được trình bày ở phần sau) \cite{11,12,13}. Ngoài ra, còn có nhiều hình thức chuẩn bị khác cho một sự kiện có khả năng gây tuyệt chủng, chẳng hạn như các dự án lưu trữ hạt giống và tri thức.
+
+\subsection{Các Căn cứ ngầm và Dưới biển của Mỹ}
+
+Cuộc điều tra công khai toàn diện nhất về các căn cứ ngầm mà tôi từng tìm thấy là của Richard Sauder, một nhà nghiên cứu độc lập người Mỹ đã xuất bản nhiều cuốn sách về các căn cứ ngầm sâu dưới lòng đất \cite{22}. Công trình nghiên cứu của Sauder bao gồm việc lưu trữ các tài liệu và kế hoạch của chính phủ, rà soát các bản tin và công nghệ trong quá khứ cũng như hiện tại, xây dựng mạng lưới nguồn tin, và tổng hợp các tuyên bố từ người trong cuộc. Nghiên cứu của Sauder cho thấy rằng có một mạng lưới lớn các căn cứ ngầm sâu dưới lòng đất và dưới biển ở Mỹ và các vùng lãnh thổ của nước này (Hình \ref{fig:4}), với độ sâu ước tính ít nhất 3 dặm và có khả năng được kết nối bằng các hệ thống tàu từ tính tốc độ cao chạy trong ống chân không dưới lòng đất. Những căn cứ này được tài trợ một cách kín đáo thông qua một cơ chế tài chính phức tạp mang tính chất \textit{"tài chính cấp cao, liên ngành, quốc tế, rửa tiền trá hình"} được điều hành bởi cùng một nhóm người sở hữu thực thể pháp nhân được gọi là Hợp chủng quốc Hoa Kỳ \cite{22}. Một công trình tiếp nối được Catherine Austin Fitts (người sẽ được nhắc đến ở phần sau) cùng một cộng sự của bà thực hiện đã đưa ra con số ước lượng là 170 căn cứ ngầm dưới lòng đất và dưới biển của Mỹ \cite{16,20}.
+
+\begin{figure*}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
+\includegraphics[width=1\textwidth]{basescrop.png}
+\end{center}
+   \caption{Một bản đồ cho thấy vị trí chính xác mà nghiên cứu của Sauder tiết lộ chắc chắn nhất có các căn cứ ngầm dưới lòng đất và dưới biển, cũng như các đường hầm tàu ngầm dưới nước dẫn vào đất liền. Sauder \textit{"chắc chắn rằng có \textbf{nhiều cơ sở} hơn nữa ngoài [những cơ sở này]"} \cite{22}.}
+   \label{fig:4}
+\end{figure*}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{penta.jpg}
+\end{center}
+   \caption{Thực tế có gì nằm dưới Nhà Trắng và Lầu Năm Góc? Rõ ràng, đó là một mạng lưới đường hầm ngầm sâu dưới lòng đất (Ảnh: \cite{31}).}
+\label{fig:3}
+\label{fig:onecol}
+\end{figure}
+
+Sau đây là một số đoạn trích lời khai từ các nguồn tin nội bộ của Sauder, mô tả mức độ rộng lớn của một số căn cứ này:
+
+\begin{flushleft}
+\begin{enumerate}
+    \item Camp David, Maryland: \textit{"Nguồn của tôi cho biết các khu vực ngầm dưới lòng đất ở Camp David rất rộng lớn và phức tạp, nhiều đường hầm bí mật dài hàng dặm, đến mức khó ai có thể nắm được sơ đồ đầy đủ của cơ sở này trong đầu"} \cite{22}.
+    \item Nhà Trắng, Washington DC: \textit{"Một người bạn thân của tôi đã được đưa xuống cơ sở này vào thời chính quyền Lyndon B. Johnson những năm 1960. Bà ấy bước vào thang máy ở Nhà Trắng và được hộ tống đi thẳng xuống dưới. Bà tin rằng thang máy đã đi xuống 17 tầng. Khi cửa mở dưới lòng đất, bà được hộ tống đi dọc theo một hành lang dường như kéo dài tít tắp. Nhiều cửa và hành lang khác cũng thông từ hành lang này"} \cite{22}. Được minh họa ở Hình \ref{fig:3}.
+    \item Fort Meade, Maryland - theo một nguồn vô tình phát hiện ra "tầng hầm" vào những năm 1970: \textit{"Tôi mở cửa ra và thấy cầu thang đi xuống. Tôi tiến tới mép cầu thang và nhìn xuống giữa các lan can. Tôi không đếm số tầng bên dưới, nhưng tôi có cảm giác khoảng 15-20 tầng... Tôi đi xuống một tầng thì có một cánh cửa... Tôi mở cửa ra, thò đầu vào nhìn trái phải thì thấy một đường hầm kéo dài ngoài tầm mắt về cả hai hướng. Nó chắc chắn rộng lớn hơn nhiều so với khu vực tòa nhà và bãi đỗ xe ở mặt đất. Có những cánh cửa dọc theo tường đối diện, cách nhau khoảng 30-40 feet... Tôi quyết định kiểm tra thêm vài tầng nên đi xuống một tầng nữa... và thấy bố trí giống hệt nhau... Tôi đi xuống thêm một tầng nữa, nhìn vào trong thì thấy giống hệt hai tầng đầu"} \cite{22}.
+\end{enumerate}
+\end{flushleft}
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{undersea.jpg}
+\end{center}
+   \caption{Minh họa về một căn cứ dưới biển, bởi Walter Koerschner. Ông là một họa sĩ minh họa cho đội căn cứ dưới biển Rock-Site của Hải quân Hoa Kỳ tại Trung tâm Vũ khí China Lake, California trong thập niên 1960. Một trong những nguồn của Sauder tiết lộ rằng có một căn cứ ngầm sâu một dặm tại China Lake \cite{22,23}.}
+\label{fig:5}
+\label{fig:onecol}
+\end{figure}
+
+Sauder đã thu thập nhiều lời khai về sự tồn tại của tàu điện từ trường ngầm có thể đạt tốc độ 2.000 dặm/giờ, các căn cứ được xây dựng dưới đáy đại dương (Hình \ref{fig:5}), và các đường hầm tàu ngầm dưới nước dẫn vào sâu trong đất liền. Liên quan đến một trong những lời khai về căn cứ dưới nước ở Vịnh Mexico, Sauder nói, \textit{"Khoảng nửa năm sau khi xuất bản cuốn Căn cứ dưới nước và dưới lòng đất (Underwater and Underground Bases), tôi đã được một người đàn ông liên hệ. Người này nói rằng ông ta có thông tin về một dự án dưới nước bất thường... ông ấy xác nhận rằng dự án này nằm dưới đáy biển của Vịnh Mexico, và Parsons là nhà thầu chính. Ông ấy còn cho biết Parsons đã mua một số thiết bị chuyên dụng để vận hành ở độ sâu 2.800 feet dưới đáy biển... Thiết bị này đủ đặc biệt để rõ ràng cho thấy sự hiện diện của con người sống tại những nơi nó được lắp đặt"} \cite{22}.
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{sub.jpg}
+\end{center}
+   \caption{Minh họa về một đường hầm tàu ngầm dưới nước, bởi Walter Koerschner \cite{22,23}.}
+\label{fig:6}
+\label{fig:onecol}
+
+\end{figure}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{iran.jpeg}
+\end{center}
+   \caption{Một cảnh từ một video chính thức của Iran giới thiệu "thành phố tên lửa" ngầm của họ \cite{39,40}.}
+\label{fig:12}
+\label{fig:onecol}
+\end{figure}
+
+Nếu thực sự tồn tại một mạng lưới ngầm và dưới biển bí mật rộng lớn, bao gồm hơn 170 căn cứ được đào sâu hàng dặm dưới bề mặt, kết nối bằng các đoàn tàu maglev chân không siêu tốc, và được tài trợ từ công sức lao động của chúng ta, thì phần lớn nhân loại ngày nay có thể sẽ mãi chìm đắm trong vô minh tưởng chừng như hạnh phúc, không chỉ không biết những gì nằm dưới chân mình mà còn mù mờ về những gì sắp xảy ra trong tương lai gần, khi họ vẫn tin tưởng vào những tuyên bố rỗng tuếch và được phối hợp của các chính trị gia.
+
+Một điểm đáng lưu ý thêm là sự tồn tại của các mạng lưới đường hầm ngầm quy mô lớn đã được tiết lộ một cách rõ ràng trong các cuộc xung đột đang diễn ra ở Trung Đông (Hệ thống đường hầm của Hamas dưới Dải Gaza \cite{38}, và "thành phố tên lửa" ngầm của Iran (Hình \ref{fig:12}) \cite{39,40}). Những ví dụ này cho thấy không có gì phải nghi ngờ về cả khả năng xây dựng và sự tồn tại thực tế của các cấu trúc ngầm quy mô lớn như vậy. Chúng cũng khiến chúng ta phải đặt câu hỏi về những cấu trúc tương tự mà các quốc gia có nguồn lực tài chính tốt hơn đáng kể có thể đã xây dựng trong cùng khoảng thời gian.
+
+\subsection{Bằng chứng bổ sung về hầm trú ẩn và công tác chuẩn bị cho thảm họa}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{tyrol.jpg}
+\end{center}
+   \caption{Các hầm trú ẩn ở Nam Tyrol, Thụy Sĩ. Thụy Sĩ, trải dài khắp dãy núi An-pơ của châu Âu, nổi tiếng với việc ngụy trang các boong-ke trên núi một cách khéo léo \cite{32}.}
+\label{fig:7}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{svalbard.jpg}
+\end{center}
+   \caption{Kho hạt giống toàn cầu Svalbard ở Na Uy, nơi lưu trữ hơn một triệu loại hạt giống \cite{24}. Chúng ta không thể không tự hỏi: thảm họa nào nghiêm trọng đến mức cần phải sử dụng đến kho này?}
+\label{fig:8}
+\label{fig:onecol}
+\end{figure}
+
+Có rất nhiều dấu hiệu bổ sung về việc chuẩn bị cho các thảm họa lớn trên khắp thế giới ngoài các căn cứ ngầm của Mỹ. Na Uy, Thụy Sĩ, Thụy Điển và Phần Lan là những ví dụ điển hình:
+\begin{flushleft}
+\begin{enumerate}
+    \item Project Camelot đã chia sẻ một lời khai có liên quan từ một chính trị gia Na Uy \cite{25,26} có danh tính được xác minh nhưng giữ kín. Ông này cho rằng Na Uy có 18 căn cứ ngầm đồ sộ, và Na Uy (cùng với Israel và "nhiều quốc gia khác") đang xây dựng những căn cứ này để chuẩn bị cho một loại thảm họa tự nhiên nào đó. Richard Sauder cũng nhận được lời khai từ một người đàn ông đã từng vào bên trong một căn cứ ngầm khổng lồ được xây dựng bên trong một ngọn núi rỗng tại Na Uy \cite{22}.
+    \item Thụy Sĩ nổi tiếng với vô số hầm trú ẩn hạt nhân được xây dựng trên những ngọn núi cao thuộc dãy Alps (Hình \ref{fig:7}). Con số này lên tới hơn 370.000 hầm — đủ chỗ trú ẩn cho mọi cư dân \cite{27}.
+    \item Thụy Điển và Phần Lan có đủ hầm trú ẩn cho người dân ở tất cả các thành phố lớn \cite{27}.
+\end{enumerate}
+\end{flushleft}
+
+Các ông trùm kinh doanh ở Silicon Valley dường như cũng biết về điều này. Theo báo cáo, \textit{"Reid Hoffman, đồng sáng lập LinkedIn và là một nhà đầu tư nổi bật, đã nói với tạp chí The New Yorker đầu năm nay rằng ông ước tính hơn 50\% các tỷ phú ở Silicon Valley đã mua một dạng 'bảo hiểm tận thế', như một hầm trú ẩn dưới lòng đất... Theo Jim Dobson, một cộng tác viên của Forbes, rất nhiều tỷ phú có máy bay riêng 'sẵn sàng cất cánh bất cứ lúc nào.' Họ cũng sở hữu xe máy, vũ khí, và máy phát điện"} \cite{28}.
+
+Bên cạnh đó, còn có nhiều dự án lưu trữ lớn như Hầm Kiến thức Toàn cầu (Global Knowledge Vault), do Quỹ Arch Mission điều hành, \cite{29} và Kho hạt giống Toàn cầu Svalbard (Svalbard Global Seed Vault) \cite{30}. Các dự án này dường như đang chuẩn bị để bảo tồn những tài sản thiết yếu của nhân loại trong trường hợp xảy ra một thảm họa cấp độ tuyệt chủng.
+
+\begin{figure*}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
+\includegraphics[width=0.9\textwidth]{govcrop2.png}
+\end{center}
+   \caption{Doanh thu, chi tiêu, và chi tiêu cho các căn cứ ngầm bí mật của chính phủ Mỹ từ năm 1998 đến 2023 \cite{19}.}
+   \label{fig:9}
+\end{figure*}
+\section{Cơ chế Tài trợ Dân chủ Cho Các Căn cứ Ngầm Khổng lồ}
+
+Vậy làm thế nào để tài trợ cho một mạng lưới rộng lớn gồm hơn 170 căn cứ ngầm và dưới biển liên lục địa, được đào sâu hàng dặm dưới lòng đất, trong khi vẫn giữ cho phần lớn dân chúng không hề hay biết? Một dấu vết tài chính có thể cung cấp manh mối về quy mô số tiền đổ vào các dự án này và nguồn gốc của chúng. Năm 2017, Catherine Austin Fitts, một chuyên gia ngân hàng đầu tư người Mỹ và cựu quan chức chính phủ dưới thời chính quyền Bush, cùng Mark Skidmore, nhà kinh tế học tại Đại học Bang Michigan, đã phát hiện 21 nghìn tỷ đô la Mỹ chi tiêu không được phép trong chính phủ Hoa Kỳ trong các năm tài chính 1998-2015 \cite{11,12,13}.
+
+Theo báo cáo của họ, \textit{"Vào ngày 7 tháng 10 năm 2016, Reuters đã đăng một bài báo của Scot Paltrow (2016), trong đó báo cáo rằng trong năm tài chính 2015, Quân đội Hoa Kỳ đã thực hiện \$6,5 nghìn tỷ USD điều chỉnh kế toán không có căn cứ 'để tạo ra ảo giác rằng sổ sách của họ được cân đối.' Với việc ngân sách quỹ chung của Quân đội trong năm đó là \$122 tỷ USD, đây là một tiết lộ đáng kinh ngạc... Bộ Quốc phòng (DOD) đã gây xôn xao dư luận nhiều năm trước đó về các vấn đề kế toán của mình vào ngày 10 tháng 9 năm 2001 khi Bộ trưởng Quốc phòng Donald Rumsfeld tuyên bố trong một phiên điều trần của Quốc hội (C-SPAN, 2014) rằng DOD đã không theo dõi được \$2,3 nghìn tỷ USD giao dịch... Sự thừa nhận này đã trở thành tiêu đề tin tức vào ngày hôm đó, nhưng đã bị lãng quên một ngày sau đó khi thảm kịch 11/9 thu hút sự chú ý của toàn thế giới... Khi Giáo sư Mark Skidmore biết về 6,5 nghìn tỷ USD giao dịch không thể xác minh của Quân đội, ông đã liên hệ với bà Fitts và họ đồng ý vào mùa xuân năm 2017 hợp tác để xác định các báo cáo chính phủ tương tự khác cho thấy các giao dịch không thể xác minh đặc biệt lớn trong Bộ Phát triển Đô thị và Nhà ở (HUD) và DOD. Trong sáu tháng tiếp theo, Skidmore, Fitts và một nhóm nhỏ sinh viên sau đại học đã thu thập các tài liệu chính thức của chính phủ, trong đó tổng cộng 21 nghìn tỷ USD giao dịch không có giấy tờ hợp lệ đã được xác định trong giai đoạn 1998-2016"} \cite{12}.
+
+Trong cùng giai đoạn 18 năm từ 1998-2015, tổng thu nhập được công khai của chính phủ Hoa Kỳ chỉ là 40,8 nghìn tỷ USD \cite{15}, điều này cho thấy một lượng tiền chiếm hơn một nửa tổng thu nhập của chính phủ Hoa Kỳ đã được bí mật chi tiêu cho các căn cứ ngầm, bên cạnh các khoản chi tiêu công khai. Đáng chú ý là khoản chi tiêu bí mật này diễn ra trên nền một thâm hụt ngân sách kéo dài, và có lẽ không chỉ tiếp tục cho đến ngày nay mà còn tồn tại trước năm 1998, ngụ ý tổng số tiền danh nghĩa chi cho các căn cứ này lớn hơn nhiều so với \$21 nghìn tỷ USD. Áp dụng cùng tỷ lệ chi tiêu bí mật cho giai đoạn 2016-2023 sẽ cho tổng số tiền là 36,6 nghìn tỷ USD đã được chi kể từ năm 1998.
+
+Năm 2021, Mark Skidmore đã công bố bản cập nhật nghiên cứu về thông báo của Bloomberg rằng trong các năm tài chính 2017-19, Lầu Năm Góc đã ghi nhận số điều chỉnh kế toán lên tới 94,7 nghìn tỷ đô la Mỹ \cite{17,18}. Nếu chúng ta xem xét việc làm giả đô la Mỹ thông qua hệ thống ngân hàng trung ương đã diễn ra hơn một thế kỷ kể từ khi Cục Dự trữ Liên bang được thành lập vào năm 1913 \cite{37}, hì rõ ràng rằng tất cả các số liệu kế toán công khai bằng đô la đều là những lời nói dối hoàn toàn, và rằng tiền tệ cũng như chính phủ Hoa Kỳ đơn thuần là các hệ thống phân bổ tài nguyên mà từ đó các "chủ sở hữu hoàng gia" của chúng có thể âm thầm bòn rút (hay đúng hơn là đổ ra) bao nhiêu tùy thích.
+
+\section{Hậu duệ của Jove: Danh tính Các Vua Bóng tối Phương Tây}
+
+Vậy, ai thực sự đang điều khiển mọi thứ? Chúng ta không thể biết chắc, bởi các nhà thống thị tư bản phương Tây luôn ẩn mình trong bóng tối. Dù có đủ mọi giả thuyết, từ các nhân vật công chúng đến các thực thể ngoài hành tinh, câu trả lời sát nhất mà tôi có lại nằm trong công trình  nghiên cứu cả đời của một blogger ẩn danh với bút danh "Amallulla". Tác phẩm của ông tổng hợp hơn 20 tác giả và 50 tài liệu "không thể thay thế" về lịch sử cổ đại và hiện đại, biểu tượng huyền bí, và chính trị phương Tây \cite{33,34}. Công trình của Amallulla có thể được mô tả là "tiên tri" về thảm họa địa vật lý sắp xảy ra, – nó \textit{vượt trội} hơn rất nhiều so với của tôi.
+
+Amallulla xác định ba phe phái chính trị phương Tây, mà ông gọi chung là "Hậu duệ của Jove". Nhóm này sở hữu kiến thức về "ngày tận thế" – tức là các trận đại hồng thủy tái diễn của Trái Đất. Ông tin rằng ba phe phái này cùng nhau kiểm soát các quốc gia phương Tây ngày nay, nhưng đã phân chia chúng thành ba nhóm khác nhau dựa trên nguồn gốc và bản sắc lịch sử riêng biệt, những bất đồng có thể đã xảy ra trong quá khứ, và sự khác biệt về hệ thống giá trị cũng như hành động của họ.
+
+Ba phe phái này có thể được phân loại một cách sơ bộ như sau:
+
+\begin{flushleft}
+\begin{enumerate}
+    \item \textbf{Nhóm Ngân Hàng}: Giới tinh hoa La Mã cổ đại, Hiệp sĩ Đền Vàng (Knights Templar) và trở thành nhánh Hội Tam Điểm Khu vực Bắc Mỹ.
+    \item \textbf{Nhóm Nhà Tư Tưởng}: Hội Hoa Hồng Thập Tự và Hội Tam Điểm Nam Mỹ.
+    \item \textbf{Dòng Tên và Giáo Hoàng Đen}: Phe phái hậu duệ của Jove trong Giáo hội Công giáo La Mã.
+\end{enumerate}
+\end{flushleft}
+
+Ngày nay, ba phe phái này cùng nhau tạo nên giới Illuminati châu Âu, Hội Tam Điểm và CIA. Theo mô tả của Amallulla: \textit{"Hiện tại, trong thời kỳ cuối cùng, hậu duệ của Jove đang ẩn mình rất kỹ sau các mức độ bảo mật thông tin 'cần-phải-biết', loại trừ cả Tổng thống đương nhiệm của Hợp chủng quốc Hoa Kỳ. Nói cách khác, họ đã hoàn thiện nghệ thuật che giấu bản thân khỏi sự giám sát của công chúng. \textbf{Hậu duệ của Jove không chỉ kiểm soát quân đội và chính phủ Hoa Kỳ, mà thông qua quyền lực của tiền pháp định, các tập đoàn lớn và hình thức chính phủ Cộng hòa mà họ đã tạo ra (biết rằng các chính trị gia sẽ dễ dàng bị tha hóa và do đó bị kiểm soát), họ kiểm soát toàn bộ thế giới phương Tây}"} \cite{33,34}.
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{illuminati.jpg}
+\end{center}
+   \caption{Vậy ai là hậu duệ của Jove? (Ảnh: \cite{35})}
+\label{fig:10}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{pike.jpg}
+\end{center}
+   \caption{Đỉnh núi Pike Peak Batholith nổi tiếng, được đánh dấu màu đỏ, cùng với cảnh quan của miền tây Hoa Kỳ \cite{36}. Liệu Hoa Kỳ thực sự được hình thành để kiểm soát vị trí này?}
+\label{fig:11}
+\label{fig:onecol}
+\end{figure}
+
+Theo Amallulla, những người này coi thường tôn giáo, thao túng các kinh sách trong các tôn giáo lớn trên thế giới để phục vụ lợi ích của mình, và sử dụng rộng rãi biểu tượng học. Ngoài ra, họ vô cùng tàn nhẫn với kẻ thù của mình: \textit{"\textbf{Trong hơn 2.600 năm, họ đã loại bỏ một cách có hệ thống bất kỳ ai khác sở hữu kiến thức cụ thể về ngày tận thế. Và bằng điều này, tôi không chỉ muốn nói đến các Druid, các Kabbalist Do Thái, người Ai Cập cổ đại, người Ả Rập và các nhà thần bí Ấn Độ, mà còn cả những người có hộp sọ kéo dài ở Nam Mỹ và các thầy tế Maya ở Trung Mỹ. Và bằng chứng cho thấy họ đã hủy diệt một nền văn minh từng thịnh vượng ở Bắc Mỹ để biến nơi đây thành Vùng đất của Ngày Tận thế là hoàn toàn áp đảo. Cuộc diệt chủng 'người da đỏ' ở Mỹ chỉ là một hoạt động dọn dẹp mà thôi}"} \cite{33,34}.
+
+Amallulla cũng tin rằng toàn bộ dự án "Hợp chúng quốc Hoa Kỳ" được thực hiện với mục đích kiểm soát Pike's Peak Batholith, một dãy núi đá hoa cương thuộc dãy Rocky Mountains, nơi có khả năng bảo vệ tuyệt vời khỏi một thảm họa địa vật lý (Hình \ref{fig:11}). Theo Amallulla, \textit{"Trước, trong và sau cái mà chúng ta gọi là Nội chiến, giới ngân hàng và các nhà tư tưởng đã chiến đấu không chỉ để kiểm soát Hợp chủng quốc Hoa Kỳ, mà còn vì Pike's Peak Batholith, một trong những khối đá hoa cương độc đáo nhất trên toàn thế giới... Không có khối đá hoa cương nào khác ở độ cao lớn như vậy và xa bờ biển đến thế ở bất cứ nơi nào khác trên thế giới. Đây là địa điểm lý tưởng để sống sót sau một sự dịch chuyển vỏ Trái Đất"} \cite{33,34}. Nghiên cứu của Amallulla tiết lộ rằng ngày nay có một hệ thống đường hầm ngầm rộng lớn được xây dựng bên dưới và xung quanh khu vực này \cite{36}.
+
+\section{Kết luận}
+
+Trong bài viết này tôi đã trình bày nhiều lời chứng cho thấy các tầng lớp tinh hoa phương Tây đã cẩn thận lưu giữ tri thức về các thảm họa định kỳ của Trái đất trong hàng ngàn năm. Họ tin rằng một thảm họa tương tự sắp xảy ra, và đã xây dựng các hầm trú ẩn ngầm quy mô lớn để chuẩn bị cho sự kiện này. Đồng thời, họ còn lên kế hoạch tận dụng sự kiện đó cả về mặt chính trị lẫn quân sự để đạt được sự thống trị thế giới. Tôi cũng đã đề cập đến những manh mối về cách thức tài trợ cho kế hoạch này ở Mỹ, cũng như tham khảo lý thuyết hợp lý nhất liên quan đến những dòng dõi cụ thể đang đứng sau mọi chuyện. Đối với những ai muốn tìm hiểu sâu hơn, có rất nhiều thông tin bổ sung đã được bỏ qua trong bài này có thể được tìm thấy trong phần tài liệu tham khảo.
+
+DDữ liệu khoa học đáng chú ý nhất cho thấy một sự kiện địa vật lý sắp xảy ra là sự dịch chuyển nhanh chóng của từ trường Trái Đất. Điều này không chỉ được đo lường qua sự tăng tốc di chuyển của cực từ Bắc (Hình \ref{fig:13}) và sự mở rộng của điểm dị thường địa từ Nam Đại Tây Dương, mà còn qua sự suy yếu và biến dạng tổng thể của từ trường địa từ trong 400 năm qua \cite{3}. Những dữ liệu khoa học này đã được thảo luận chi tiết trong hai bài viết đầu tiên của tôi về lý thuyết ECDO, có thể truy cập trên trang web của tôi \cite{3}.
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{npw.jpg}
+\end{center}
+   \caption{Vị trí của cực bắc từ năm 1590 đến 2025, thể hiện theo từng giải đoạn 5 năm \cite{41}. Sự di chuyển của nó bắt đầu tăng tốc nhanh chóng vào năm 1975.}
+\label{fig:13}
+\label{fig:onecol}
+\end{figure}
+
+Kết lại, tôi muốn để lại cho bạn trích dẫn này từ nhà tiên tri Amallulla, giải thích cách \textit{"\textbf{mọi thứ là một}"}: \textit{"Ở đây, tôi buộc phải đẩy trí tưởng tượng của bạn đến tận cùng giới hạn. Bạn phải quên đi thế giới mà bạn đang sống và đã biết từ thời thơ ấu. Hãy gác nó lại phía sau. Đó là một thực tại hoàn toàn được dựng nên, không khác gì những gì được miêu tả trong bộ phim Ma Trận, và nhằm mục đích giữ bạn say ngủ cho đến khoảnh khắc cuối cùng. Đôi khi tôi ước mình đang viết kịch bản cho một bộ phim, nhưng những gì tôi chia sẻ với bạn trên trang web này là có thật. Tôi đã mất hơn nửa thập kỷ để nhận ra “Mọi thứ là một," điều mà tôi nhanh chóng chọn làm phương châm cho tác phẩm Hợp nhất Khải huyền. Đây là một khái niệm khó truyền đạt. Hiện tại, hãy nghĩ về phim Ma Trận. Đó là một phép so sánh tốt. Điều tôi thấy khó diễn đạt là những gì tôi sắp nói không phải là phóng đại. Hiện tại, phép so sánh với phim Ma Trận là gần nhất để tôi giúp bạn hiểu được thực tế trần trụi của những gì tôi sắp nói. \textbf{Mọi thứ trong cuộc sống của bạn, bao gồm toàn bộ lịch sử được ghi lại, khoa học và học thuật chính thống, chính trị, tôn giáo, mọi thứ bằng cách này hay cách khác đều xoay quanh sự dịch chuyển vỏ Trái Đất hoặc độ nghiêng trục sắp tới của hành tinh.} Chỉ là hiện tại bạn chưa nhìn thấy được điều đó. Bạn cũng không thể tỉnh dậy với thực tại này như sau một cơn ác mộng. Thời gian sẽ trả lời. Nhưng tôi hứa với bạn, cuối cùng bạn sẽ nhận ra rằng bạn đã sống trong một thực tại mô phỏng bằng máy tính tương tự Ma Trận suốt cả cuộc đời mình"} \cite{33,34}.
+
+Chúc tất cả mọi người may mắn.
+
+\section{Lời cảm ơn}
+
+Cảm ơn tất cả những cá nhân đã chọn đóng góp tri thức cho miền công cộng. Nếu không có các bạn, công trình này sẽ không thể thực hiện và nhân loại vẫn sẽ chìm trong bóng tối. Những lựa chọn của các bạn sẽ đơm hoa kết trái trong cõi vĩnh hằng. Chúng tôi nợ các bạn tất cả, và tôi biết ơn vô hạn.
+
+\clearpage
+\twocolumn
+
+{\small
+\renewcommand{\refname}{Tài liệu tham khảo}
+\bibliographystyle{ieee}
+\bibliography{egbib}
+}
+
+\end{document}

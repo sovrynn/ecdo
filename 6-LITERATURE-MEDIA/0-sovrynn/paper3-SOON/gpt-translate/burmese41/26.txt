@@ -1,0 +1,10 @@
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{illuminati.jpg}
+\end{center}
+   \caption{Jove ၏ မျိုးဆက်များဆိုတာ တကယ် ဘယ်သူတွေပါလဲ? (ရုပ်ပုံ: \cite{35})}
+\label{fig:10}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure}[t]
+\begin{center}

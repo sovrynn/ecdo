@@ -1,0 +1,5 @@
+   \includegraphics[width=1\linewidth]{freemason.jpg}
+\end{center}
+   \caption{ສະມາຊິກອິດສະລະພາບອັງກິດຢູ່ໃນສະພາບທຳມະຊາດ, ກຳລັງວາງແຜນຢ່າງງຽບໆເພື່ອຈະລົງລູກລະເບີດນິວເຄຼຍ ແລະ ຍຶດຄອງໂລກ - ທີ່ Earls Court ໃນນະຄອນລອນດອນ, ປີ 1992 \cite{5}.}
+\label{fig:1}
+\label{fig:onecol}

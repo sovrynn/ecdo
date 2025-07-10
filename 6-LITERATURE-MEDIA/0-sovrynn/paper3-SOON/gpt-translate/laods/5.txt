@@ -1,0 +1,5 @@
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}
+
+% ຫນ້າຖືກຈໍານວນໃນໂໝດການສົ່ງ, ແລະບໍ່ມີເລກໃນການພ້ອມກ້ອງ
+%\ifcvprfinal\pagestyle{empty}\fi
+\setcounter{page}{1}

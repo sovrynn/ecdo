@@ -1,0 +1,4 @@
+Tiga faksi ini boleh dikategorikan secara kabur seperti berikut:
+
+\begin{flushleft}
+\begin{enumerate}

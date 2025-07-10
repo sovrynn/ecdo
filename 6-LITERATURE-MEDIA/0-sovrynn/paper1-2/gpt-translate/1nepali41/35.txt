@@ -1,0 +1,10 @@
+\section{आगामी पृथ्वीको उल्ट्याउने मोडलिङ}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{1\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{saa-crop.jpeg}
+\end{center}
+   \caption{दक्षिण एट्लान्टिक असामान्यता मा आधारित एक टिपिङ पोइन्ट गणना अनुसार मिति मार्च १३, २०५९ आउँछ \cite{125,126}।}
+\label{fig:16}
+\label{fig:onecol}

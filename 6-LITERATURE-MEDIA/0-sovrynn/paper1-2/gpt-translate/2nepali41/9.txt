@@ -1,0 +1,10 @@
+\end{center}
+   \caption{ग्राण्ड क्यान्यन, एरिजोना, अमेरिका \cite{49}.}
+\label{fig:2}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{coconino.jpg}

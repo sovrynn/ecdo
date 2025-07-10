@@ -21,6 +21,17 @@
 % run, let it finish, and you should be clear).
 \usepackage[breaklinks=true,bookmarks=false]{hyperref}
 
+\makeatletter
+\def\abstract{%
+  \centerline{\large\bf Resumen}% <-- your new label
+  \vspace*{12pt}%
+  \it%
+}
+\makeatother
+
+\renewcommand{\tablename}{Tabla}  % now \caption will say “Tabla 1” instead of “Table 1”
+\renewcommand{\figurename}{Figura}   % or whatever you like instead of "Hình"
+
 \cvprfinalcopy % *** Uncomment this line for the final submission
 
 \def\cvprPaperID{****} % *** Enter the CVPR Paper ID here
@@ -131,7 +142,7 @@ Evidentemente, estas historias describen diluvios que a menudo fueron acompañad
 \renewcommand{\arraystretch}{1.2}  % Opcional, para aumentar el espaciado entre filas
 \begin{tabular}{|l|c|c|}
 \hline
-\textbf{Tipo de Cataclismo} & \textbf{Cantidad} & \textbf{\% de Ocurrencia} \\
+\textbf{Tipo de Cataclismo} & \textbf{Cantidad} & \textbf{\%} \\
 \hline\hline
 Diluvio/inundación            & 84 & 71.79 \\
 Conflagración/incendio        & 39 & 33.33 \\

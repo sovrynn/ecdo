@@ -1,0 +1,10 @@
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+% यहाँ अन्य प्याकेजहरू समावेश गर्नुहोस्, hyperref भन्दा पहिले।
+
+% यदि तपाईंले hyperref लाई टिप्पणी गर्नुभयो र त्यसपछि uncomment गर्नुभयो भने,
+% egpaper.aux लाई latex पुन: चलाउनु भन्दा पहिला मेटाउनु पर्छ।  (वा पहिलो latex रनमा 'q' थिच्नुहोस्,
+% पूरा हुन दिनुहोस्, र तपाईँ सुरक्षित हुनुहुनेछ)।

@@ -1,0 +1,5 @@
+\label{fig:5}
+\label{fig:onecol}
+\end{figure}
+
+Sauder juga menerima kesaksian mengenai kereta api levitasi magnet bawah tanah yang mencapai kelajuan 2,000 bsj, pangkalan yang dibina di bawah dasar lautan (Rajah \ref{fig:5}), dan terowong kapal selam bawah air yang menuju ke pedalaman. Berkenaan salah satu kesaksian tentang pangkalan bawah air di Teluk Mexico, Sauder berkata, \textit{"Kira-kira setengah tahun selepas penerbitan Underwater and Underground Bases, saya dihubungi oleh seorang lelaki yang mendakwa mempunyai pengetahuan tentang projek bawah air yang luar biasa... beliau menyatakan bahawa projek tersebut berada di bawah dasar laut Teluk Mexico, dan Parsons merupakan kontraktor. Beliau menambah bahawa Parsons telah membeli beberapa peralatan khusus yang bertujuan untuk operasi 2,800 kaki di bawah dasar laut... Peralatan tersebut cukup unik sehingga jelas menunjukkan kehadiran manusia hidup di tempat-tempat di mana ia dipasang"} \cite{22}.

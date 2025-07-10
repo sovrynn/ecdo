@@ -1,0 +1,10 @@
+\begin{center}
+\renewcommand{\arraystretch}{1.2}  % Optional, to increase row spacing
+\begin{tabular}{|l|c|c|}
+\hline
+\textbf{प्रलयको प्रकार} & \textbf{संख्या} & \textbf{घटनाको \%} \\
+\hline\hline
+महाप्रलय/बाढी            & ८४ & ७१.७९ \\
+आग्जनी/भीषण आगो & ३९ & ३३.३३ \\
+भू-आकृतिक परिवर्तन   & २९ & २४.७९ \\
+तारकीय विकृति     & १५ & १२.८२ \\

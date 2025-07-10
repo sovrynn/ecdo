@@ -1,0 +1,13 @@
+Published June 2025\\
+ဝေမျှချိန် ဇွန် ၂၀၂၅\\
+Website (Download papers here): \href{https://sovrynn.github.io}{sovrynn.github.io}\\
+ဝက်ဘ်ဆိုက် (စာတမ်းများကို ဒေါင်းလုပ်လုပ်ပါ): \href{https://sovrynn.github.io}{sovrynn.github.io}\\
+ECDO Research Repo: \href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ecdo}\\
+ECDO သုတေသန သိမ်းဆည်းရာ: \href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ecdo}\\
+{\tt\small junhobtc@proton.me}
+}
+
+\maketitle
+%\thispagestyle{empty}
+
+\begin{abstract}

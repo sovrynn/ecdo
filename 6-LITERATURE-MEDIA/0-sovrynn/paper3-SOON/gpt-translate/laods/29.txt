@@ -1,0 +1,5 @@
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{undersea.jpg}
+\end{center}
+   \caption{ພາບສະແດງຖານຖານໃຕ້ທະເລ, ໂດຍ Walter Koerschner. ລາວເປັນນັກແຕ້ມຮູບໃຫ້ກັບທີມງານຖານຖານໃຕ້ທະເລ Rock-Site ຂອງກອງທັບເຮືອສະຫະລັດ ທີ່ສູນອາວຸດ China Lake, ລັດ California ໃນຊຸມປີ 1960. ແຫຼ່ງຂໍ້ມູນຂອງ Sauder ເປີດເຜີຍວ່າມີຖານຖານໃຕ້ດິນທີ່ລຶກລັບລົງໄປເຖິງ 1 ໄມລ໌ ຢູ່ China Lake \cite{22,23}.}

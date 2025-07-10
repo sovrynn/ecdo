@@ -1,0 +1,1475 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./2nepali41.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 44.
+
+(./2nepali41.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 58.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 58.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 59.
+
+
+LaTeX Font Warning: Font shape `TU/NotoSansDevanagari(0)/m/it' undefined
+(Font)              using `TU/NotoSansDevanagari(0)/m/n' instead on input line 
+60.
+
+
+LaTeX Warning: Citation `0' on page 1 undefined on input line 60.
+
+
+LaTeX Warning: Citation `1' on page 1 undefined on input line 60.
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 60--61
+[]\TU/NotoSansDevanagari(0)/m/it/10 मे २०२४ मा\TU/LatinModernRoman(0)/m/it/10 ,
+ "\TU/NotoSansDevanagari(0)/m/it/10 दइथिकल स्केप्टिक\TU/LatinModernRoman(0)/m/i
+t/10 " \TU/NotoSansDevanagari(0)/m/it/10 नामका एक छद्म
+
+Underfull \hbox (badness 1478) in paragraph at lines 60--61
+\TU/NotoSansDevanagari(0)/m/it/10 जानिबेकोभ अस्सिलेसन \TU/LatinModernRoman(0)/m
+/it/10 (ECDO) \TU/NotoSansDevanagari(0)/m/it/10 नामक एउटा क्रान्तिकारी
+
+LaTeX Warning: Citation `2' on page 1 undefined on input line 62.
+
+
+LaTeX Warning: Citation `20' on page 1 undefined on input line 62.
+
+
+LaTeX Warning: Citation `143' on page 1 undefined on input line 68.
+
+
+LaTeX Warning: Citation `144' on page 1 undefined on input line 68.
+
+
+LaTeX Warning: Citation `29' on page 1 undefined on input line 68.
+
+
+LaTeX Warning: Citation `70' on page 1 undefined on input line 68.
+
+
+LaTeX Warning: Citation `104' on page 1 undefined on input line 68.
+
+
+LaTeX Warning: Citation `145' on page 1 undefined on input line 68.
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 68--69
+[]\TU/NotoSansDevanagari(0)/m/it/10 आधुनिक एकरुपतावादी भूविज्ञान र इतिहासले ठूल
+ा भू\TU/LatinModernRoman(0)/m/n/10 -
+
+Underfull \hbox (badness 4699) in paragraph at lines 70--71
+[]\TU/NotoSansDevanagari(0)/m/it/10 यस्ता विरोधाभासहरू\TU/LatinModernRoman(0)/m
+/n/10 , \TU/NotoSansDevanagari(0)/m/it/10 जसरी हामी देख्नेछौं\TU/LatinModernRom
+an(0)/m/n/10 , \TU/NotoSansDevanagari(0)/m/it/10 प्रलयकारी
+
+Underfull \hbox (badness 1496) in paragraph at lines 72--72
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSansDevanagari(0)/b/n/12 माटोमा गाड
+िएका र तिव्रगतिमा जमाइएका
+
+LaTeX Warning: Citation `51' on page 1 undefined on input line 79.
+
+
+LaTeX Warning: Citation `51' on page 1 undefined on input line 79.
+
+
+Underfull \vbox (badness 1320) has occurred while \output is active
+
+LaTeX Warning: Citation `17' on page 1 undefined on input line 83.
+
+
+LaTeX Warning: Citation `18' on page 1 undefined on input line 83.
+
+
+LaTeX Warning: Citation `19' on page 1 undefined on input line 83.
+
+
+Underfull \vbox (badness 1521) has occurred while \output is active [1]
+
+LaTeX Warning: Citation `21' on page 2 undefined on input line 87.
+
+
+LaTeX Warning: Citation `49' on page 2 undefined on input line 95.
+
+
+LaTeX Warning: Citation `21' on page 2 undefined on input line 105.
+
+
+LaTeX Warning: Citation `21' on page 2 undefined on input line 105.
+
+
+LaTeX Warning: Citation `42' on page 2 undefined on input line 110.
+
+
+LaTeX Warning: Citation `43' on page 2 undefined on input line 110.
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 110--111
+\TU/NotoSansDevanagari(0)/m/it/10 यी विशाल सेटिमेन्ट तहहरूको निक्षेपण महत्वपूर्
+ण टेक्टोनिक
+
+Underfull \hbox (badness 2469) in paragraph at lines 110--111
+\TU/NotoSansDevanagari(0)/m/it/10 शक्तिहरूसँगै भएको थियो। यसलाई बुझ्नको लागि\TU
+/LatinModernRoman(0)/m/n/10 , \TU/NotoSansDevanagari(0)/m/it/10 हामीले
+
+LaTeX Warning: Citation `50' on page 2 undefined on input line 118.
+
+
+LaTeX Warning: Citation `50' on page 2 undefined on input line 118.
+
+
+LaTeX Warning: Citation `46' on page 2 undefined on input line 122.
+
+
+LaTeX Warning: Citation `47' on page 2 undefined on input line 124.
+
+
+LaTeX Warning: Citation `48' on page 2 undefined on input line 124.
+
+[2]
+
+LaTeX Warning: Citation `54' on page 3 undefined on input line 130.
+
+
+LaTeX Warning: Citation `52' on page 3 undefined on input line 130.
+
+
+LaTeX Warning: Citation `53' on page 3 undefined on input line 130.
+
+
+LaTeX Warning: Citation `56' on page 3 undefined on input line 138.
+
+
+LaTeX Warning: Citation `53' on page 3 undefined on input line 143.
+
+
+LaTeX Warning: Citation `53' on page 3 undefined on input line 153.
+
+
+LaTeX Warning: Citation `58' on page 3 undefined on input line 165.
+
+Missing character: There is no ‍ (U+200D) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+LaTeX Warning: Citation `59' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `60' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `61' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `57' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `56' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `146' on page 3 undefined on input line 171.
+
+
+LaTeX Warning: Citation `146' on page 3 undefined on input line 171.
+
+[3]
+Underfull \hbox (badness 2334) in paragraph at lines 177--178
+[]\TU/NotoSansDevanagari(0)/m/it/10 हाम्रा पूर्वजहरूले धेरै उच्च इन्जिनियरिङ्ग 
+गरिएका प्राचीन
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Citation `70' on page 4 undefined on input line 189.
+
+
+LaTeX Warning: Citation `70' on page 4 undefined on input line 191.
+
+
+LaTeX Warning: Citation `71' on page 4 undefined on input line 191.
+
+
+LaTeX Warning: Citation `71' on page 4 undefined on input line 191.
+
+
+LaTeX Warning: Citation `53' on page 4 undefined on input line 198.
+
+[4]
+
+LaTeX Warning: Citation `72' on page 5 undefined on input line 204.
+
+
+LaTeX Warning: Citation `32' on page 5 undefined on input line 204.
+
+
+LaTeX Warning: Citation `62' on page 5 undefined on input line 217.
+
+
+LaTeX Warning: Citation `62' on page 5 undefined on input line 217.
+
+
+LaTeX Warning: Citation `62' on page 5 undefined on input line 222.
+
+
+LaTeX Warning: Citation `63' on page 5 undefined on input line 222.
+
+
+LaTeX Warning: Citation `64' on page 5 undefined on input line 222.
+
+
+LaTeX Warning: Citation `65' on page 5 undefined on input line 222.
+
+
+LaTeX Warning: Citation `66' on page 5 undefined on input line 222.
+
+
+LaTeX Warning: Citation `88' on page 5 undefined on input line 223.
+
+
+LaTeX Warning: Citation `89' on page 5 undefined on input line 223.
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 222--224
+\TU/NotoSansDevanagari(0)/m/it/10 अवस्थामा फेला परेका छन्\TU/LatinModernRoman(0
+)/m/n/10 : \TU/NotoSansDevanagari(0)/m/it/10 पूर्ण रूपमा संरक्षित\TU/LatinModer
+nRoman(0)/m/n/10 , \TU/NotoSansDevanagari(0)/m/it/10 हिमनदी
+
+Underfull \hbox (badness 1859) in paragraph at lines 222--224
+\TU/LatinModernRoman(0)/m/n/10 (ECME) \TU/NotoSansDevanagari(0)/m/it/10 सामूहिक
+ विनाशहरू \TU/LatinModernRoman(0)/m/n/10 [[], []]\TU/NotoSansDevanagari(0)/m/it
+/10 । रोचक रूपमा\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSansDevanagari(0)/m/it
+/10 यी
+
+LaTeX Warning: Citation `80' on page 5 undefined on input line 232.
+
+
+LaTeX Warning: Citation `80' on page 5 undefined on input line 232.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [5]
+
+LaTeX Warning: Citation `78' on page 6 undefined on input line 237.
+
+
+LaTeX Warning: Citation `79' on page 6 undefined on input line 237.
+
+
+LaTeX Warning: Citation `81' on page 6 undefined on input line 237.
+
+
+LaTeX Warning: Citation `80' on page 6 undefined on input line 237.
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 237--238
+[]\TU/NotoSansDevanagari(0)/m/it/10 ग्रान्ड क्यान्योन बाहेक धेरै भू\TU/LatinMod
+ernRoman(0)/m/n/10 –\TU/NotoSansDevanagari(0)/m/it/10 दृश्यहरू छन् जुन सम्भवतः
+
+Underfull \hbox (badness 3724) in paragraph at lines 237--238
+\TU/NotoSansDevanagari(0)/m/it/10 प्रवाहका प्रमाणहरू संसारभरका विशाल धाराका तरं
+गहरूमा
+
+LaTeX Warning: Citation `83' on page 6 undefined on input line 256.
+
+
+LaTeX Warning: Citation `82' on page 6 undefined on input line 261.
+
+
+LaTeX Warning: Citation `84' on page 6 undefined on input line 261.
+
+
+LaTeX Warning: Citation `85' on page 6 undefined on input line 261.
+
+
+LaTeX Warning: Citation `15' on page 6 undefined on input line 261.
+
+
+LaTeX Warning: Citation `86' on page 6 undefined on input line 261.
+
+
+LaTeX Warning: Citation `87' on page 6 undefined on input line 261.
+
+
+LaTeX Warning: Citation `3' on page 6 undefined on input line 261.
+
+
+LaTeX Warning: Citation `94' on page 6 undefined on input line 261.
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 261--262
+[]\TU/NotoSansDevanagari(0)/m/it/10 भू\TU/LatinModernRoman(0)/m/n/10 -\TU/NotoS
+ansDevanagari(0)/m/it/10 भागीय अपरदन संरचनाहरू पनि \TU/LatinModernRoman(0)/m/n/
+10 ECDO-\TU/NotoSansDevanagari(0)/m/it/10 जस्तो पृथ्वी
+
+LaTeX Warning: Citation `90' on page 6 undefined on input line 264.
+
+
+LaTeX Warning: Citation `91' on page 6 undefined on input line 264.
+
+
+LaTeX Warning: Citation `92' on page 6 undefined on input line 264.
+
+
+LaTeX Warning: Citation `93' on page 6 undefined on input line 264.
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 264--265
+\TU/NotoSansDevanagari(0)/m/it/10 वर्ष घटनाहरू हुन्\TU/LatinModernRoman(0)/m/n/
+10 , \TU/NotoSansDevanagari(0)/m/it/10 दुवै घटनाहरु जनसंख्या घटावट र ठूलो
+
+Underfull \hbox (badness 1194) in paragraph at lines 264--265
+\TU/NotoSansDevanagari(0)/m/it/10 डेटामा असमानताका रूपमा सुरक्षित भएको पाइन्छ। 
+अनुमान
+
+LaTeX Warning: Citation `96' on page 6 undefined on input line 268.
+
+
+LaTeX Warning: Citation `97' on page 6 undefined on input line 268.
+
+
+LaTeX Warning: Citation `95' on page 6 undefined on input line 268.
+
+
+LaTeX Warning: Citation `99' on page 6 undefined on input line 268.
+
+
+LaTeX Warning: Citation `98' on page 6 undefined on input line 268.
+
+
+LaTeX Warning: Citation `100' on page 6 undefined on input line 268.
+
+
+LaTeX Warning: Citation `101' on page 6 undefined on input line 268.
+
+[6]
+
+LaTeX Warning: Citation `95' on page 7 undefined on input line 276.
+
+
+LaTeX Warning: Citation `95' on page 7 undefined on input line 276.
+
+
+LaTeX Warning: Citation `102' on page 7 undefined on input line 281.
+
+
+LaTeX Warning: Citation `103' on page 7 undefined on input line 281.
+
+
+LaTeX Warning: Citation `104' on page 7 undefined on input line 289.
+
+
+LaTeX Warning: Citation `105' on page 7 undefined on input line 289.
+
+
+LaTeX Warning: Citation `106' on page 7 undefined on input line 289.
+
+
+LaTeX Warning: Citation `107' on page 7 undefined on input line 289.
+
+
+LaTeX Warning: Citation `104' on page 7 undefined on input line 291.
+
+
+LaTeX Warning: Citation `105' on page 7 undefined on input line 291.
+
+Missing character: There is no ‍ (U+200D) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+LaTeX Warning: Citation `106' on page 7 undefined on input line 291.
+
+Missing character: There is no फ़ (U+095E) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+LaTeX Warning: Citation `107' on page 7 undefined on input line 291.
+
+
+LaTeX Warning: Citation `108' on page 7 undefined on input line 293.
+
+
+LaTeX Warning: Citation `109' on page 7 undefined on input line 293.
+
+
+LaTeX Warning: Citation `110' on page 7 undefined on input line 293.
+
+
+LaTeX Warning: Citation `108' on page 7 undefined on input line 295.
+
+
+LaTeX Warning: Citation `109' on page 7 undefined on input line 295.
+
+
+LaTeX Warning: Citation `110' on page 7 undefined on input line 295.
+
+
+LaTeX Warning: Citation `2' on page 7 undefined on input line 299.
+
+
+LaTeX Warning: Citation `1' on page 7 undefined on input line 302.
+
+[7] [8] (./2nepali41.bbl) (./2nepali41.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on 2nepali41.pdf (8 pages).
+Transcript written on 2nepali41.log.
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+The top-level auxiliary file: 2nepali41.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "15" isn't style-file defined
+--line 120 of file egbib.bib
+Warning--entry type for "42" isn't style-file defined
+--line 357 of file egbib.bib
+Warning--to sort, need author or key in 42
+Warning--to sort, need author or key in 88
+Warning--to sort, need author, editor, or key in 103
+Warning--empty author and editor in 103
+Warning--empty author in 88
+Warning--empty booktitle in 54
+Warning--empty year in 63
+Warning--empty journal in 145
+Warning--empty publisher in 64
+(There were 11 warnings)
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./2nepali41.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 44.
+
+(./2nepali41.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 58.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 58.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 59.
+
+
+LaTeX Font Warning: Font shape `TU/NotoSansDevanagari(0)/m/it' undefined
+(Font)              using `TU/NotoSansDevanagari(0)/m/n' instead on input line 
+60.
+
+
+LaTeX Warning: Citation `0' on page 1 undefined on input line 60.
+
+
+LaTeX Warning: Citation `1' on page 1 undefined on input line 60.
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 60--61
+[]\TU/NotoSansDevanagari(0)/m/it/10 मे २०२४ मा\TU/LatinModernRoman(0)/m/it/10 ,
+ "\TU/NotoSansDevanagari(0)/m/it/10 दइथिकल स्केप्टिक\TU/LatinModernRoman(0)/m/i
+t/10 " \TU/NotoSansDevanagari(0)/m/it/10 नामका एक छद्म
+
+Underfull \hbox (badness 1478) in paragraph at lines 60--61
+\TU/NotoSansDevanagari(0)/m/it/10 जानिबेकोभ अस्सिलेसन \TU/LatinModernRoman(0)/m
+/it/10 (ECDO) \TU/NotoSansDevanagari(0)/m/it/10 नामक एउटा क्रान्तिकारी
+
+LaTeX Warning: Citation `2' on page 1 undefined on input line 62.
+
+
+LaTeX Warning: Citation `20' on page 1 undefined on input line 62.
+
+
+LaTeX Warning: Citation `143' on page 1 undefined on input line 68.
+
+
+LaTeX Warning: Citation `144' on page 1 undefined on input line 68.
+
+
+LaTeX Warning: Citation `29' on page 1 undefined on input line 68.
+
+
+LaTeX Warning: Citation `70' on page 1 undefined on input line 68.
+
+
+LaTeX Warning: Citation `104' on page 1 undefined on input line 68.
+
+
+LaTeX Warning: Citation `145' on page 1 undefined on input line 68.
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 68--69
+[]\TU/NotoSansDevanagari(0)/m/it/10 आधुनिक एकरुपतावादी भूविज्ञान र इतिहासले ठूल
+ा भू\TU/LatinModernRoman(0)/m/n/10 -
+
+Underfull \hbox (badness 4699) in paragraph at lines 70--71
+[]\TU/NotoSansDevanagari(0)/m/it/10 यस्ता विरोधाभासहरू\TU/LatinModernRoman(0)/m
+/n/10 , \TU/NotoSansDevanagari(0)/m/it/10 जसरी हामी देख्नेछौं\TU/LatinModernRom
+an(0)/m/n/10 , \TU/NotoSansDevanagari(0)/m/it/10 प्रलयकारी
+
+Underfull \hbox (badness 1496) in paragraph at lines 72--72
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSansDevanagari(0)/b/n/12 माटोमा गाड
+िएका र तिव्रगतिमा जमाइएका
+
+LaTeX Warning: Citation `51' on page 1 undefined on input line 79.
+
+
+LaTeX Warning: Citation `51' on page 1 undefined on input line 79.
+
+
+Underfull \vbox (badness 1320) has occurred while \output is active
+
+LaTeX Warning: Citation `17' on page 1 undefined on input line 83.
+
+
+LaTeX Warning: Citation `18' on page 1 undefined on input line 83.
+
+
+LaTeX Warning: Citation `19' on page 1 undefined on input line 83.
+
+
+Underfull \vbox (badness 1521) has occurred while \output is active [1]
+
+LaTeX Warning: Citation `21' on page 2 undefined on input line 87.
+
+
+LaTeX Warning: Citation `49' on page 2 undefined on input line 95.
+
+
+LaTeX Warning: Citation `21' on page 2 undefined on input line 105.
+
+
+LaTeX Warning: Citation `21' on page 2 undefined on input line 105.
+
+
+LaTeX Warning: Citation `42' on page 2 undefined on input line 110.
+
+
+LaTeX Warning: Citation `43' on page 2 undefined on input line 110.
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 110--111
+\TU/NotoSansDevanagari(0)/m/it/10 यी विशाल सेटिमेन्ट तहहरूको निक्षेपण महत्वपूर्
+ण टेक्टोनिक
+
+Underfull \hbox (badness 2469) in paragraph at lines 110--111
+\TU/NotoSansDevanagari(0)/m/it/10 शक्तिहरूसँगै भएको थियो। यसलाई बुझ्नको लागि\TU
+/LatinModernRoman(0)/m/n/10 , \TU/NotoSansDevanagari(0)/m/it/10 हामीले
+
+LaTeX Warning: Citation `50' on page 2 undefined on input line 118.
+
+
+LaTeX Warning: Citation `50' on page 2 undefined on input line 118.
+
+
+LaTeX Warning: Citation `46' on page 2 undefined on input line 122.
+
+
+LaTeX Warning: Citation `47' on page 2 undefined on input line 124.
+
+
+LaTeX Warning: Citation `48' on page 2 undefined on input line 124.
+
+[2]
+
+LaTeX Warning: Citation `54' on page 3 undefined on input line 130.
+
+
+LaTeX Warning: Citation `52' on page 3 undefined on input line 130.
+
+
+LaTeX Warning: Citation `53' on page 3 undefined on input line 130.
+
+
+LaTeX Warning: Citation `56' on page 3 undefined on input line 138.
+
+
+LaTeX Warning: Citation `53' on page 3 undefined on input line 143.
+
+
+LaTeX Warning: Citation `53' on page 3 undefined on input line 153.
+
+
+LaTeX Warning: Citation `58' on page 3 undefined on input line 165.
+
+Missing character: There is no ‍ (U+200D) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+LaTeX Warning: Citation `59' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `60' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `61' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `57' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `56' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `146' on page 3 undefined on input line 171.
+
+
+LaTeX Warning: Citation `146' on page 3 undefined on input line 171.
+
+[3]
+Underfull \hbox (badness 2334) in paragraph at lines 177--178
+[]\TU/NotoSansDevanagari(0)/m/it/10 हाम्रा पूर्वजहरूले धेरै उच्च इन्जिनियरिङ्ग 
+गरिएका प्राचीन
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Citation `70' on page 4 undefined on input line 189.
+
+
+LaTeX Warning: Citation `70' on page 4 undefined on input line 191.
+
+
+LaTeX Warning: Citation `71' on page 4 undefined on input line 191.
+
+
+LaTeX Warning: Citation `71' on page 4 undefined on input line 191.
+
+
+LaTeX Warning: Citation `53' on page 4 undefined on input line 198.
+
+[4]
+
+LaTeX Warning: Citation `72' on page 5 undefined on input line 204.
+
+
+LaTeX Warning: Citation `32' on page 5 undefined on input line 204.
+
+
+LaTeX Warning: Citation `62' on page 5 undefined on input line 217.
+
+
+LaTeX Warning: Citation `62' on page 5 undefined on input line 217.
+
+
+LaTeX Warning: Citation `62' on page 5 undefined on input line 222.
+
+
+LaTeX Warning: Citation `63' on page 5 undefined on input line 222.
+
+
+LaTeX Warning: Citation `64' on page 5 undefined on input line 222.
+
+
+LaTeX Warning: Citation `65' on page 5 undefined on input line 222.
+
+
+LaTeX Warning: Citation `66' on page 5 undefined on input line 222.
+
+
+LaTeX Warning: Citation `88' on page 5 undefined on input line 223.
+
+
+LaTeX Warning: Citation `89' on page 5 undefined on input line 223.
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 222--224
+\TU/NotoSansDevanagari(0)/m/it/10 अवस्थामा फेला परेका छन्\TU/LatinModernRoman(0
+)/m/n/10 : \TU/NotoSansDevanagari(0)/m/it/10 पूर्ण रूपमा संरक्षित\TU/LatinModer
+nRoman(0)/m/n/10 , \TU/NotoSansDevanagari(0)/m/it/10 हिमनदी
+
+Underfull \hbox (badness 1859) in paragraph at lines 222--224
+\TU/LatinModernRoman(0)/m/n/10 (ECME) \TU/NotoSansDevanagari(0)/m/it/10 सामूहिक
+ विनाशहरू \TU/LatinModernRoman(0)/m/n/10 [[], []]\TU/NotoSansDevanagari(0)/m/it
+/10 । रोचक रूपमा\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSansDevanagari(0)/m/it
+/10 यी
+
+LaTeX Warning: Citation `80' on page 5 undefined on input line 232.
+
+
+LaTeX Warning: Citation `80' on page 5 undefined on input line 232.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [5]
+
+LaTeX Warning: Citation `78' on page 6 undefined on input line 237.
+
+
+LaTeX Warning: Citation `79' on page 6 undefined on input line 237.
+
+
+LaTeX Warning: Citation `81' on page 6 undefined on input line 237.
+
+
+LaTeX Warning: Citation `80' on page 6 undefined on input line 237.
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 237--238
+[]\TU/NotoSansDevanagari(0)/m/it/10 ग्रान्ड क्यान्योन बाहेक धेरै भू\TU/LatinMod
+ernRoman(0)/m/n/10 –\TU/NotoSansDevanagari(0)/m/it/10 दृश्यहरू छन् जुन सम्भवतः
+
+Underfull \hbox (badness 3724) in paragraph at lines 237--238
+\TU/NotoSansDevanagari(0)/m/it/10 प्रवाहका प्रमाणहरू संसारभरका विशाल धाराका तरं
+गहरूमा
+
+LaTeX Warning: Citation `83' on page 6 undefined on input line 256.
+
+
+LaTeX Warning: Citation `82' on page 6 undefined on input line 261.
+
+
+LaTeX Warning: Citation `84' on page 6 undefined on input line 261.
+
+
+LaTeX Warning: Citation `85' on page 6 undefined on input line 261.
+
+
+LaTeX Warning: Citation `15' on page 6 undefined on input line 261.
+
+
+LaTeX Warning: Citation `86' on page 6 undefined on input line 261.
+
+
+LaTeX Warning: Citation `87' on page 6 undefined on input line 261.
+
+
+LaTeX Warning: Citation `3' on page 6 undefined on input line 261.
+
+
+LaTeX Warning: Citation `94' on page 6 undefined on input line 261.
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 261--262
+[]\TU/NotoSansDevanagari(0)/m/it/10 भू\TU/LatinModernRoman(0)/m/n/10 -\TU/NotoS
+ansDevanagari(0)/m/it/10 भागीय अपरदन संरचनाहरू पनि \TU/LatinModernRoman(0)/m/n/
+10 ECDO-\TU/NotoSansDevanagari(0)/m/it/10 जस्तो पृथ्वी
+
+LaTeX Warning: Citation `90' on page 6 undefined on input line 264.
+
+
+LaTeX Warning: Citation `91' on page 6 undefined on input line 264.
+
+
+LaTeX Warning: Citation `92' on page 6 undefined on input line 264.
+
+
+LaTeX Warning: Citation `93' on page 6 undefined on input line 264.
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 264--265
+\TU/NotoSansDevanagari(0)/m/it/10 वर्ष घटनाहरू हुन्\TU/LatinModernRoman(0)/m/n/
+10 , \TU/NotoSansDevanagari(0)/m/it/10 दुवै घटनाहरु जनसंख्या घटावट र ठूलो
+
+Underfull \hbox (badness 1194) in paragraph at lines 264--265
+\TU/NotoSansDevanagari(0)/m/it/10 डेटामा असमानताका रूपमा सुरक्षित भएको पाइन्छ। 
+अनुमान
+
+LaTeX Warning: Citation `96' on page 6 undefined on input line 268.
+
+
+LaTeX Warning: Citation `97' on page 6 undefined on input line 268.
+
+
+LaTeX Warning: Citation `95' on page 6 undefined on input line 268.
+
+
+LaTeX Warning: Citation `99' on page 6 undefined on input line 268.
+
+
+LaTeX Warning: Citation `98' on page 6 undefined on input line 268.
+
+
+LaTeX Warning: Citation `100' on page 6 undefined on input line 268.
+
+
+LaTeX Warning: Citation `101' on page 6 undefined on input line 268.
+
+[6]
+
+LaTeX Warning: Citation `95' on page 7 undefined on input line 276.
+
+
+LaTeX Warning: Citation `95' on page 7 undefined on input line 276.
+
+
+LaTeX Warning: Citation `102' on page 7 undefined on input line 281.
+
+
+LaTeX Warning: Citation `103' on page 7 undefined on input line 281.
+
+
+LaTeX Warning: Citation `104' on page 7 undefined on input line 289.
+
+
+LaTeX Warning: Citation `105' on page 7 undefined on input line 289.
+
+
+LaTeX Warning: Citation `106' on page 7 undefined on input line 289.
+
+
+LaTeX Warning: Citation `107' on page 7 undefined on input line 289.
+
+
+LaTeX Warning: Citation `104' on page 7 undefined on input line 291.
+
+
+LaTeX Warning: Citation `105' on page 7 undefined on input line 291.
+
+Missing character: There is no ‍ (U+200D) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+LaTeX Warning: Citation `106' on page 7 undefined on input line 291.
+
+Missing character: There is no फ़ (U+095E) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+LaTeX Warning: Citation `107' on page 7 undefined on input line 291.
+
+
+LaTeX Warning: Citation `108' on page 7 undefined on input line 293.
+
+
+LaTeX Warning: Citation `109' on page 7 undefined on input line 293.
+
+
+LaTeX Warning: Citation `110' on page 7 undefined on input line 293.
+
+
+LaTeX Warning: Citation `108' on page 7 undefined on input line 295.
+
+
+LaTeX Warning: Citation `109' on page 7 undefined on input line 295.
+
+
+LaTeX Warning: Citation `110' on page 7 undefined on input line 295.
+
+
+LaTeX Warning: Citation `2' on page 7 undefined on input line 299.
+
+
+LaTeX Warning: Citation `1' on page 7 undefined on input line 302.
+
+[7] [8] (./2nepali41.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[]\TU/LatinModernRoman(0)/m/n/9 Answers research journal, 2008--present.
+
+Underfull \hbox (badness 7595) in paragraph at lines 101--105
+[]\TU/LatinModernRoman(0)/m/n/9 GetYourGuide.  Canyoning in grand canyon.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][]
+[][][][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Ecdo kmls.  []$[][][][][] [] [] [] [][]
+[][][][] [] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+[][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][
+][][] [] [][][] []
+
+Underfull \hbox (badness 3323) in paragraph at lines 139--144
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Mega-current ripples.  []$[][][][][] []
+ [] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][] [] [][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][
+][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][
+][][][] []
+
+Underfull \hbox (badness 2302) in paragraph at lines 146--149
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Ecdo github research repository, 2024.
+
+Underfull \hbox (badness 2057) in paragraph at lines 163--169
+\TU/LatinModernRoman(0)/m/n/9 son, M. Finlayson, T. Gumbricht, L. Hilarides,
+
+Underfull \hbox (badness 1735) in paragraph at lines 189--193
+[]\TU/LatinModernRoman(0)/m/n/9 National Park Service.  Geology - death valley
+
+Underfull \hbox (badness 2591) in paragraph at lines 189--193
+\TU/LatinModernRoman(0)/m/n/9 national park.  []$[][][][][] [] [] [] [][][] [] 
+[][][] [] [][][] [] [][][][] [] [][][][][] []
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 218--225
+[][][][] [] [][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][] [] [][][][]$[]\TU/LatinModernRoman(0)/m/n/9 ,
+
+Underfull \hbox (badness 3417) in paragraph at lines 218--225
+\TU/LatinModernRoman(0)/m/n/9 May 2017.  Annotazioni di Rosanna Pellerito.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/LatinModernRoman(0)/m/n/9 https://theethicalskeptic.com/2024/05/23/master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 4913) in paragraph at lines 372--375
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia.  Great pyramid of giza.  []$[][][][]
+[] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--375
+[] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][][] [] [][][][
+][][][] [] [][] [] [][][][] []
+
+Underfull \hbox (badness 7256) in paragraph at lines 377--380
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  Extinction event ---
+
+Underfull \hbox (badness 5316) in paragraph at lines 382--385
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  4.2-kiloyear event ---
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 387--390
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  8.2-kiloyear event ---
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 398--401
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  Dolmen de Soto ---
+
+Underfull \hbox (badness 2334) in paragraph at lines 408--411
+\TU/LatinModernRoman(0)/m/n/9 Free Encyclopedia, 2025.  [Online; accessed 9-
+[10]) [11] (./2nepali41.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on 2nepali41.pdf (11 pages).
+Transcript written on 2nepali41.log.
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./2nepali41.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 44.
+
+(./2nepali41.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 58.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 58.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 59.
+
+
+LaTeX Font Warning: Font shape `TU/NotoSansDevanagari(0)/m/it' undefined
+(Font)              using `TU/NotoSansDevanagari(0)/m/n' instead on input line 
+60.
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 60--61
+[]\TU/NotoSansDevanagari(0)/m/it/10 मे २०२४ मा\TU/LatinModernRoman(0)/m/it/10 ,
+ "\TU/NotoSansDevanagari(0)/m/it/10 दइथिकल स्केप्टिक\TU/LatinModernRoman(0)/m/i
+t/10 " \TU/NotoSansDevanagari(0)/m/it/10 नामका एक छद्म
+
+Underfull \hbox (badness 1478) in paragraph at lines 60--61
+\TU/NotoSansDevanagari(0)/m/it/10 जानिबेकोभ अस्सिलेसन \TU/LatinModernRoman(0)/m
+/it/10 (ECDO) \TU/NotoSansDevanagari(0)/m/it/10 नामक एउटा क्रान्तिकारी
+
+Underfull \hbox (badness 2781) in paragraph at lines 68--69
+[]\TU/NotoSansDevanagari(0)/m/it/10 आधुनिक एकरुपतावादी भूविज्ञान र इतिहासले ठूल
+ा भू\TU/LatinModernRoman(0)/m/n/10 -
+
+Underfull \hbox (badness 4699) in paragraph at lines 70--71
+[]\TU/NotoSansDevanagari(0)/m/it/10 यस्ता विरोधाभासहरू\TU/LatinModernRoman(0)/m
+/n/10 , \TU/NotoSansDevanagari(0)/m/it/10 जसरी हामी देख्नेछौं\TU/LatinModernRom
+an(0)/m/n/10 , \TU/NotoSansDevanagari(0)/m/it/10 प्रलयकारी
+
+Underfull \hbox (badness 1496) in paragraph at lines 72--72
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSansDevanagari(0)/b/n/12 माटोमा गाड
+िएका र तिव्रगतिमा जमाइएका
+
+Underfull \vbox (badness 1320) has occurred while \output is active
+Underfull \vbox (badness 1521) has occurred while \output is active [1]
+Underfull \hbox (badness 1939) in paragraph at lines 110--111
+\TU/NotoSansDevanagari(0)/m/it/10 यी विशाल सेटिमेन्ट तहहरूको निक्षेपण महत्वपूर्
+ण टेक्टोनिक
+
+Underfull \hbox (badness 2469) in paragraph at lines 110--111
+\TU/NotoSansDevanagari(0)/m/it/10 शक्तिहरूसँगै भएको थियो। यसलाई बुझ्नको लागि\TU
+/LatinModernRoman(0)/m/n/10 , \TU/NotoSansDevanagari(0)/m/it/10 हामीले
+[2]
+Missing character: There is no ‍ (U+200D) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+[3]
+Underfull \hbox (badness 2334) in paragraph at lines 177--178
+[]\TU/NotoSansDevanagari(0)/m/it/10 हाम्रा पूर्वजहरूले धेरै उच्च इन्जिनियरिङ्ग 
+गरिएका प्राचीन
+
+Underfull \vbox (badness 6188) has occurred while \output is active [4]
+Underfull \hbox (badness 1226) in paragraph at lines 222--224
+\TU/LatinModernRoman(0)/m/n/10 (ECME) \TU/NotoSansDevanagari(0)/m/it/10 सामूहिक
+ विनाशहरू \TU/LatinModernRoman(0)/m/n/10 [[], []]\TU/NotoSansDevanagari(0)/m/it
+/10 । रोचक रूपमा\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSansDevanagari(0)/m/it
+/10 यी
+
+Underfull \vbox (badness 10000) has occurred while \output is active [5]
+Underfull \hbox (badness 1292) in paragraph at lines 237--238
+[]\TU/NotoSansDevanagari(0)/m/it/10 ग्रान्ड क्यान्योन बाहेक धेरै भू\TU/LatinMod
+ernRoman(0)/m/n/10 –\TU/NotoSansDevanagari(0)/m/it/10 दृश्यहरू छन् जुन सम्भवतः
+
+Underfull \hbox (badness 3724) in paragraph at lines 237--238
+\TU/NotoSansDevanagari(0)/m/it/10 प्रवाहका प्रमाणहरू संसारभरका विशाल धाराका तरं
+गहरूमा
+
+Underfull \hbox (badness 2359) in paragraph at lines 261--262
+[]\TU/NotoSansDevanagari(0)/m/it/10 भू\TU/LatinModernRoman(0)/m/n/10 -\TU/NotoS
+ansDevanagari(0)/m/it/10 भागीय अपरदन संरचनाहरू पनि \TU/LatinModernRoman(0)/m/n/
+10 ECDO-\TU/NotoSansDevanagari(0)/m/it/10 जस्तो पृथ्वी
+
+Underfull \hbox (badness 1655) in paragraph at lines 264--265
+\TU/NotoSansDevanagari(0)/m/it/10 वर्ष घटनाहरू हुन्\TU/LatinModernRoman(0)/m/n/
+10 , \TU/NotoSansDevanagari(0)/m/it/10 दुवै घटनाहरु जनसंख्या घटावट र ठूलो
+
+Underfull \hbox (badness 1194) in paragraph at lines 264--265
+\TU/NotoSansDevanagari(0)/m/it/10 डेटामा असमानताका रूपमा सुरक्षित भएको पाइन्छ। 
+अनुमान
+[6]
+Missing character: There is no ‍ (U+200D) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no फ़ (U+095E) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+[7] [8] (./2nepali41.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[]\TU/LatinModernRoman(0)/m/n/9 Answers research journal, 2008--present.
+
+Underfull \hbox (badness 7595) in paragraph at lines 101--105
+[]\TU/LatinModernRoman(0)/m/n/9 GetYourGuide.  Canyoning in grand canyon.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][]
+[][][][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Ecdo kmls.  []$[][][][][] [] [] [] [][]
+[][][][] [] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+[][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][
+][][] [] [][][] []
+
+Underfull \hbox (badness 3323) in paragraph at lines 139--144
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Mega-current ripples.  []$[][][][][] []
+ [] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][] [] [][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][
+][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][
+][][][] []
+
+Underfull \hbox (badness 2302) in paragraph at lines 146--149
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Ecdo github research repository, 2024.
+
+Underfull \hbox (badness 2057) in paragraph at lines 163--169
+\TU/LatinModernRoman(0)/m/n/9 son, M. Finlayson, T. Gumbricht, L. Hilarides,
+
+Underfull \hbox (badness 1735) in paragraph at lines 189--193
+[]\TU/LatinModernRoman(0)/m/n/9 National Park Service.  Geology - death valley
+
+Underfull \hbox (badness 2591) in paragraph at lines 189--193
+\TU/LatinModernRoman(0)/m/n/9 national park.  []$[][][][][] [] [] [] [][][] [] 
+[][][] [] [][][] [] [][][][] [] [][][][][] []
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 218--225
+[][][][] [] [][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][] [] [][][][]$[]\TU/LatinModernRoman(0)/m/n/9 ,
+
+Underfull \hbox (badness 3417) in paragraph at lines 218--225
+\TU/LatinModernRoman(0)/m/n/9 May 2017.  Annotazioni di Rosanna Pellerito.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/LatinModernRoman(0)/m/n/9 https://theethicalskeptic.com/2024/05/23/master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 4913) in paragraph at lines 372--375
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia.  Great pyramid of giza.  []$[][][][]
+[] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--375
+[] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][][] [] [][][][
+][][][] [] [][] [] [][][][] []
+
+Underfull \hbox (badness 7256) in paragraph at lines 377--380
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  Extinction event ---
+
+Underfull \hbox (badness 5316) in paragraph at lines 382--385
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  4.2-kiloyear event ---
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 387--390
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  8.2-kiloyear event ---
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 398--401
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  Dolmen de Soto ---
+
+Underfull \hbox (badness 2334) in paragraph at lines 408--411
+\TU/LatinModernRoman(0)/m/n/9 Free Encyclopedia, 2025.  [Online; accessed 9-
+[10]) [11] (./2nepali41.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on 2nepali41.pdf (11 pages).
+Transcript written on 2nepali41.log.

@@ -1,0 +1,13 @@
+If there really is a vast secret transcontinental network of 170+ underground and undersea bases dug to depths of miles beneath the surface under our feet, connected by hypersonic vacuum-tube maglev trains, funded using the fruits of our labor, the masses of humanity today would be in a state of terminal and blissful ignorance, not only unaware of what is under them but what lies ahead of them in the near future, as they lap up the empty and coordinated statements of their politician handlers.
+
+တကယ်လို့ မြေအောက်မှာ မိုင်နှစ်ရာကျော်နက်ရှိုင်းစွာတူးဖော်ထားတဲ့ ၁၇၀ကျော်သည့် မြေအောက်နဲ့ ပင်လယ်အောက်သိုလ်များ၊ ဟိုက်ပါစော်နစ်ဗ्याकျှုန်တူးမြေအောက်လမ်းရထားလမ်းတစ်လျှောက် ချိတ်ဆက်ထားပြီး၊ လူဦးရေဓားထုတ်ခွင့်ကြေးနဲ့ ဖြည့်စွက်ထားတာဆိုရင်၊ လူငယ်အများစုဟာ သူတို့ခြေထောက်အောက်မှာ ဘာရှိလဲဆိုတာ၊ နောက်လာမယ့်အနာဂတ်မှာ ဘာဖြစ်လာမလဲဆိုတာမသိပဲ၊ သူတို့ရဲ့နိုင်ငံရေးသမားတွေက ထုတ်လိုက်တဲ့ အချည်းနှီး သဘောတူမှုအကြိမ်ကြိမ်ကိုသာ လက်ခံစားသောက်နေကြမယ်။
+
+An additional note - the existence of large underground tunnel networks has been revealed without a doubt in the ongoing conflict in the Middle East (Hamas tunnels under the Gaza Strip \cite{38}, and Iran's underground "missile city" (Figure \ref{fig:12}) \cite{39,40}). These should leave no doubt as to both the possibility of building, and actual existence of, such structures. They should also leave us wondering what structures other significantly better capitalized countries may have constructed during the same time.
+
+ထပ်မံညွှန်ပြချင်တာက- မကြာသေးခင်က လတ်တလောမှာ ဖြစ်ပွားနေတဲ့ အနောက်အလယ်ပိုင်းပြဿနာအတွင်း (ဂါဇာကွိုက်ခေါ်ရဲတွင်ရှိတဲ့ ဟမတ်မြေအောက်လမ်းတန်းများ \cite{38}, နဲ့ အီရန်ရဲ့ မြေအောက် “ထောက်လှမ်းရန်မြို့” (ပုံ \ref{fig:12}) \cite{39,40}) ကြီးမားမှုမြောက်မားတဲ့ မြေအောက်လမ်းကြောင်း တွေဆီ လုံးဝသံသယတစ်စုံတစ်ရာမကျန် ထင်ရှားစွာ ထုတ်ဖော်ပြသပြီဖြစ်ပါတယ်။ ဒါက ခိုင်မာတဲ့ လုပ်ဆောင်နိုင်ရေးနဲ့ တကယ်ရှိရှိတည်ရှိနေပါတယ်လို့ ယုံကြည်မှုပေးစေပါတယ်။ အဲဒီလို အခြား နိုင်ငံကြီးအချို့က ထပ်မံအသုံးချပြီး ထူထောင်ထားနိုင်မယ့်ဒီထဲက တကယ်ရှိနိုင်မှုကို ကျွန်ုပ်တို့စဉ်းစားစေမှာပါ။
+
+\subsection{အပိုတောင်ခန်း အညီအမျှအရေးကြီးသောနေရာများနှင့် သဘာဝဘေးအန္တရာယ် အတွက် ပြင်ဆင်မှုအထောက်အထားများ}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}

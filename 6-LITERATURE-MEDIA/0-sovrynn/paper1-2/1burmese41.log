@@ -1,0 +1,2434 @@
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.27)  28 JUN 2025 02:41
+ restricted system commands enabled.
+**1burmese41.tex
+(./1burmese41.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "/home/m120938/.texlive2023/texmf-va
+r/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-res
+olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2023-
+08-19.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.133
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/home/m120938/.texlive2023/texmf-va
+r/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (/usr/share/texlive/tex
+mf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /home/m120938/.texlive2023/tex
+mf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen139
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen140
+\lightrulewidth=\dimen141
+\cmidrulewidth=\dimen142
+\belowrulesep=\dimen143
+\belowbottomsep=\dimen144
+\aboverulesep=\dimen145
+\abovetopsep=\dimen146
+\cmidrulesep=\dimen147
+\cmidrulekern=\dimen148
+\defaultaddspace=\dimen149
+\@cmidla=\count193
+\@cmidlb=\count194
+\@aboverulesep=\dimen150
+\@belowrulesep=\dimen151
+\@thisruleclass=\count195
+\@lastruleclass=\count196
+\@thisrulewidth=\dimen152
+)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty
+Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
+ings
+\@dblbotnum=\count197
+\c@dblbotnumber=\count198
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count199
+\float@exts=\toks17
+\float@box=\box51
+\@float@everytoks=\toks18
+\@floatcapt=\box52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+\bbl@readstream=\read2
+\l@dumylang=\language2
+Package babel Info: Non-standard hyphenation setup on input line 118.
+\l@nohyphenation=\language3
+\l@vietnamese=\language4
+\l@hebrew=\language5
+\l@gujarati=\language6
+\l@interlingua=\language7
+\l@ethiopic=\language8
+\l@esperanto=\language9
+\l@churchslavonic=\language10
+\l@serbian=\language11
+\l@coptic=\language12
+\l@mongolian=\language13
+\l@panjabi=\language14
+\l@tamil=\language15
+\l@mongolianlmc=\language16
+\l@indonesian=\language17
+\l@assamese=\language18
+\l@telugu=\language19
+\l@pali=\language20
+\l@sanskrit=\language21
+\l@ukrainian=\language22
+\l@hindi=\language23
+\l@afrikaans=\language24
+\l@georgian=\language25
+\l@thai=\language26
+\l@bulgarian=\language27
+\l@armenian=\language28
+\l@malayalam=\language29
+\l@russian=\language30
+\l@serbianc=\language31
+\l@kannada=\language32
+\l@belarusian=\language33
+\l@marathi=\language34
+\l@turkmen=\language35
+\l@oriya=\language36
+\l@bengali=\language37
+\l@pinyin=\language38
+\babelcatcodetablenum=\catcodetable14
+\bbl@pattcodes=\catcodetable15
+)
+\babel@savecnt=\count266
+\U@D=\dimen153
+\l@unhyphenated=\language39
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+\bbl@attr@locale=\attribute4
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'british' set to \l@english
+(babel)             (\language0). Reported on input line 82.
+Package babel Info: Hyphen rules for 'UKenglish' set to \l@english
+(babel)             (\language0). Reported on input line 83.
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@english
+(babel)             (\language0). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@english
+(babel)             (\language0). Reported on input line 108.
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/my/babel-burmese.tex)
+Package babel Info: Importing data for burmese
+(babel)             from babel-my.ini. Reported on input line 15.
+Package babel Info: Hyphen rules for 'burmese' set to \l@english
+(babel)             (\language0). Reported on input line 15.
+Inserting `Babel.hyphenate' in `hyphenate'.
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-01-22 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2024-01-04 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count267
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box53
+))
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count268
+\l__fontspec_language_int=\count269
+\l__fontspec_strnum_int=\count270
+\l__fontspec_tmp_int=\count271
+\l__fontspec_tmpa_int=\count272
+\l__fontspec_tmpb_int=\count273
+\l__fontspec_tmpc_int=\count274
+\l__fontspec_em_int=\count275
+\l__fontspec_emdef_int=\count276
+\l__fontspec_strong_int=\count277
+\l__fontspec_strongdef_int=\count278
+\l__fontspec_tmpa_dim=\dimen154
+\l__fontspec_tmpb_dim=\dimen155
+\l__fontspec_tmpc_dim=\dimen156
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+luaotfload | cache : Lookup cache loaded from /home/m120938/.texlive2023/texmf-v
+ar/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 19 (nil) defines no feature for script latn with lang
+uage eng
+
+Package fontspec Info: Font family 'NotoSerif(0)' created for font 'Noto
+(fontspec)             Serif' with options
+(fontspec)             [Ligatures=TeX,Script=Latin,Language=English,RawFeature=
+{family=rm}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"NotoSerif:mode=node;script=latn;language=dflt;+tlig;
+family=rm;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"NotoSerif:mode=node;script=latn;language=dflt;+tlig;
+family=rm;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"NotoSerif/B:mode=node;script=latn;language=dflt;+tli
+g;family=rm;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"NotoSerif/B:mode=node;script=latn;language=dflt;+tli
+g;family=rm;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"NotoSerif/I:mode=node;script=latn;language=dflt;+tli
+g;family=rm;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"NotoSerif/I:mode=node;script=latn;language=dflt;+tli
+g;family=rm;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"NotoSerif/BI:mode=node;script=latn;language=dflt;+tl
+ig;family=rm;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"NotoSerif/BI:mode=node;script=latn;language=dflt;+tl
+ig;family=rm;+smcp;"
+
+luaotfload | aux : font no 30 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 35 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 36 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 37 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 38 (nil) does not define feature smcp for script latn
+ with language dflt
+
+Package fontspec Info: Font family 'Lato(0)' created for font 'Lato' with
+(fontspec)             options
+(fontspec)             [Script=Latin,Language=English,RawFeature={family=alt}].
+
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Lato:mode=node;script=latn;language=dflt;family=alt;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Lato/B:mode=node;script=latn;language=dflt;family=al
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Lato/I:mode=node;script=latn;language=dflt;family=al
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Lato/BI:mode=node;script=latn;language=dflt;family=a
+lt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/lo/babel-lao.tex
+Package babel Info: Importing basic data for lao
+(babel)             from babel-lo.ini. Reported on input line 11.
+)
+Package babel Info: Hyphen rules for 'lao' set to \l@english
+(babel)             (\language0). Reported on input line 28.
+Replacing Laoo script ranges (./cvpr.sty (./eso-pic.sty
+Package: eso-pic 2002/11/16 v1.1b eso-pic (RN)
+ (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+\@ctmp=\skip50
+\@figindent=\skip51
+\cvprrulerbox=\box54
+\cvprrulercount=\count279
+\cvprruleroffset=\dimen157
+\cv@lineheight=\dimen158
+\cv@boxheight=\dimen159
+\cv@tmpbox=\box55
+\cv@refno=\count280
+\cv@tot=\count281
+\cv@tmpc@=\count282
+\cv@tmpc=\count283
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
+)
+\epsfxsize=\dimen162
+\epsfysize=\dimen163
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen164
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen165
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count284
+LaTeX Info: Redefining \frac on input line 236.
+\uproot@=\count285
+\leftroot@=\count286
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count287
+\DOTSCASE@=\count288
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen166
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count289
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count290
+\dotsspace@=\muskip16
+\c@parentequation=\count291
+\dspbrk@lvl=\count292
+\tag@help=\toks21
+\row@=\count293
+\column@=\count294
+\maxfields@=\count295
+\andhelp@=\toks22
+\eqnshift@=\dimen167
+\alignsep@=\dimen168
+\tagshift@=\dimen169
+\tagwidth@=\dimen170
+\totwidth@=\dimen171
+\lineht@=\dimen172
+\@envbody=\toks23
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks25
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count296
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count297
+)
+\@linkdim=\dimen173
+\Hy@linkcounter=\count298
+\Hy@pagecounter=\count299
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count300
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4062.
+Package hyperref Info: Option `bookmarks' set `false' on input line 4062.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4452.
+\c@Hy@tempcnt=\count301
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen174
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count302
+\Field@Width=\dimen175
+\Fld@charsize=\dimen176
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count303
+\c@Item=\count304
+\c@Hfootnote=\count305
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2024-01-20 v7.01h Hyperref driver for luaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count306
+\c@bookmark@seq@number=\count307
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip55
+)
+luaotfload | aux : font no 45 (nil) defines no feature for script mym2 with lang
+uage brm
+
+Package fontspec Info: Could not resolve font "Padauk/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "Padauk/I" (it probably doesn't
+(fontspec)             exist).
+
+luaotfload | aux : font no 48 (nil) does not define feature smcp for script mym2
+ with language dflt
+luaotfload | aux : font no 49 (nil) does not define feature smcp for script mym2
+ with language dflt
+
+Package fontspec Info: Font family 'Padauk(0)' created for font 'Padauk' with
+(fontspec)             options
+(fontspec)             [Ligatures=TeX,Script=Myanmar,Language=Burmese,RawFeatur
+e={family=rm}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Padauk:mode=node;script=mym2;language=dflt;+tlig;fam
+ily=rm;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Padauk/B:mode=node;script=mym2;language=dflt;+tlig;f
+amily=rm;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+luaotfload | aux : font no 45 (nil) defines no feature for script mym2 with lang
+uage brm
+
+Package fontspec Info: Could not resolve font "Padauk/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "Padauk/I" (it probably doesn't
+(fontspec)             exist).
+
+luaotfload | aux : font no 48 (nil) does not define feature smcp for script mym2
+ with language dflt
+luaotfload | aux : font no 49 (nil) does not define feature smcp for script mym2
+ with language dflt
+
+Package fontspec Info: Font family 'Padauk(1)' created for font 'Padauk' with
+(fontspec)             options
+(fontspec)             [Ligatures=TeX,Script=Myanmar,Language=Burmese,RawFeatur
+e={family=sf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Padauk:mode=node;script=mym2;language=dflt;+tlig;fam
+ily=sf;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Padauk/B:mode=node;script=mym2;language=dflt;+tlig;f
+amily=sf;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+luaotfload | aux : font no 30 (nil) defines no feature for script mym2
+luaotfload | aux : font no 30 (nil) defines no feature for script mymr
+luaotfload | aux : font no 30 (nil) defines no feature for script latn with lang
+uage brm
+luaotfload | aux : font no 35 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 36 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 37 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 38 (nil) does not define feature smcp for script latn
+ with language dflt
+
+Package fontspec Info: Font family 'Lato(1)' created for font 'Lato' with
+(fontspec)             options
+(fontspec)             [Script=Myanmar,Language=Burmese,RawFeature={family=alt}
+].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Lato:mode=node;script=latn;language=dflt;family=alt;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Lato/B:mode=node;script=latn;language=dflt;family=al
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Lato/I:mode=node;script=latn;language=dflt;family=al
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Lato/BI:mode=node;script=latn;language=dflt;family=a
+lt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+
+Package babel Info: The current font is not a babel standard family:
+(babel)             NotoSerif:mode=node;script=latn;language=dflt;+tlig;family=
+rm;
+(babel)             There is nothing intrinsically wrong with this warning, and
+
+(babel)             you can ignore it altogether if you do not need these
+(babel)             families. But if they are used in the document, you should 
+be
+(babel)             aware 'babel' will not set Script and Language for them, so
+
+(babel)             you may consider defining a new family with \babelfont.
+(babel)             See the manual for further details about \babelfont.
+(babel)             Reported on input line 68.
+
+Package babel Info: New pattern: 1က on input line 1.
+Package babel Info: New pattern: 1ခ on input line 2.
+Package babel Info: New pattern: 1ဂ on input line 3.
+Package babel Info: New pattern: 1ဃ on input line 4.
+Package babel Info: New pattern: 1င on input line 5.
+Package babel Info: New pattern: 1စ on input line 6.
+Package babel Info: New pattern: 1ဆ on input line 7.
+Package babel Info: New pattern: 1ဇ on input line 8.
+Package babel Info: New pattern: 1ဈ on input line 9.
+Package babel Info: New pattern: 1ဉ on input line 10.
+Package babel Info: New pattern: 1ည on input line 11.
+Package babel Info: New pattern: 1ဋ on input line 12.
+Package babel Info: New pattern: 1ဌ on input line 13.
+Package babel Info: New pattern: 1ဍ on input line 14.
+Package babel Info: New pattern: 1ဎ on input line 15.
+Package babel Info: New pattern: 1ဏ on input line 16.
+Package babel Info: New pattern: 1တ on input line 17.
+Package babel Info: New pattern: 1ထ on input line 18.
+Package babel Info: New pattern: 1ဒ on input line 19.
+Package babel Info: New pattern: 1ဓ on input line 20.
+Package babel Info: New pattern: 1န on input line 21.
+Package babel Info: New pattern: 1ပ on input line 22.
+Package babel Info: New pattern: 1ဖ on input line 23.
+Package babel Info: New pattern: 1ဗ on input line 24.
+Package babel Info: New pattern: 1ဘ on input line 25.
+Package babel Info: New pattern: 1မ on input line 26.
+Package babel Info: New pattern: 1ယ on input line 27.
+Package babel Info: New pattern: 1ရ on input line 28.
+Package babel Info: New pattern: 1လ on input line 29.
+Package babel Info: New pattern: 1ဝ on input line 30.
+Package babel Info: New pattern: 1သ on input line 31.
+Package babel Info: New pattern: 1ဟ on input line 32.
+Package babel Info: New pattern: 1ဢ on input line 33.
+Package babel Info: New pattern: 1ါ on input line 34.
+Package babel Info: New pattern: 1ာ on input line 35.
+Package babel Info: New pattern: 1ိ on input line 36.
+Package babel Info: New pattern: 1ီ on input line 37.
+Package babel Info: New pattern: 1ု on input line 38.
+Package babel Info: New pattern: 1ူ on input line 39.
+Package babel Info: New pattern: 1ေ on input line 40.
+Package babel Info: New pattern: 1ဲ on input line 41.
+Package babel Info: New pattern: 1ဲ on input line 42.
+Package babel Info: New pattern: 1ျ on input line 43.
+Package babel Info: New pattern: 1ြ on input line 44.
+Package babel Info: New pattern: 1ွ on input line 45.
+Package babel Info: New pattern: 1ှ on input line 46.
+Package babel Info: New pattern: 1္ on input line 47.
+Package babel Info: New pattern: 1့ on input line 48.
+Package babel Info: New pattern: 1း on input line 49.
+Package babel Info: New pattern: 1ံ on input line 50.
+Package babel Info: New pattern: 1် on input line 51.
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 68
+.
+LaTeX Font Info:    No file TUptm.fd. on input line 68.
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 68.
+
+(./1burmese41.aux
+LaTeX Font Info:    Trying to load font information for TU+phv on input line 3.
+
+LaTeX Font Info:    No file TUphv.fd. on input line 3.
+
+
+LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 3.
+
+LaTeX Font Info:    No file TUpcr.fd. on input line 3.
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+
+Package babel Info: The following font families will use the default
+(babel)             settings for all or some languages:
+(babel)             * \sffamily = phv
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             * \ttfamily = pcr
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             There is nothing intrinsically wrong with it, but
+(babel)             'babel' will no set Script and Language, which could
+(babel)             be relevant in some languages. If your document uses
+(babel)             these families, consider redefining them with \babelfont.
+(babel)             Reported on input line 3.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+)
+\openout1 = 1burmese41.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
+8.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 68.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 68.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 68.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 68.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 68.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 68.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 68.
+LaTeX Font Info:    Redeclaring math accent \check on input line 68.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 68.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 68.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 68.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 68.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 68.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/NotoSerif(0)/m/n on input line 68.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 68.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/NotoSerif(0)/m/n on input line 68.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/NotoSerif(0)/m/n --> TU/NotoSerif(0)/m/n on input li
+ne 68.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/NotoSerif(0)/m/it on input line 68.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/NotoSerif(0)/b/n on input line 68.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 68.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 68.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/NotoSerif(0)/m/n --> TU/NotoSerif(0)/b/n on input li
+ne 68.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/NotoSerif(0)/b/it on input line 68
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 68.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/b/n on input line 68.
+
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: luatex.def on input line 149.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count308
+\scratchdimen=\dimen177
+\scratchbox=\box58
+\nofMPsegments=\count309
+\nofMParguments=\count310
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count311
+\MPscratchDim=\dimen178
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
+\everyMPtoPDFconversion=\toks27
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring OFF on input line 68.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 82.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 82.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Font Warning: Font shape `TU/Padauk(0)/m/it' undefined
+(Font)              using `TU/Padauk(0)/m/n' instead on input line 83.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+[]\TU/Padauk(0)/m/n/10 ဤစ-ာ-တ-မ-်း-သည် \TU/NotoSerif(0)/m/i
+t/10 ECDO \TU/Padauk(0)/m/n/10 သီအ-ိ-ု-ရ-ီအ-ပ-ေါ် မ
+ျ-ပ-ု-ံ-က-ြ-ီ-း-သ-ု-တ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+\TU/Padauk(0)/m/n/10 ေသန ခု-န-ှ-စ-်-လတာ၏ အန-ှ-
+စ-်-ခ-ျ-ု-ပ-်-န-ှ-စ-်-ပ-ိ-ု-င-်း-တ-ွ-ဲ-
+ထ-ဲမှ ပထ-မ-ပ-ိ-ု-င-်း-ဖ-ြ-
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 87--88
+\TU/Padauk(0)/m/n/10 စ-်-သည် \TU/NotoSerif(0)/m/it/10 [[], []]\TU/Pad
+auk(0)/m/n/10 ။ ထိ-ု-သ-ု-တ-ေ-သ-နမှ အဓ-ိ-ကအ-
+ခ-ျ-က-်-သ-ု-ံ-း-ခ-ျ-က-်-ကို
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 99--101
+[]\TU/Padauk(0)/m/n/10 ဤစ-ာ-တ-မ-်း-တ-ွင် ငါ-သည
+် တရ-ာ-း-ဝ-င-်-ဒ-ေ-တ-ာ-မ-ျ-ာ-း-ကို အ
+ဓ-ိ-က-ထ-ာ-
+ []
+
+
+Underfull \hbox (badness 5726) in paragraph at lines 99--101
+\TU/Padauk(0)/m/n/10 ာ-သည် လူ-သ-ာ-းအ-န-ာ-ဂ-တ-်
+အ-တ-ွက် ထပ-်-မ-ံ-လ-ေ-့-လ-ာ-ဖ-ို့ အရ-
+ေ-း-ပ-ါ-တဲ့
+ []
+
+<b.png, id=12, 1497.595pt x 1061.9675pt>
+File: b.png Graphic file (type png)
+<use b.png>
+Package luatex.def Info: b.png  used on input line 108.
+(luatex.def)             Requested size: 237.13594pt x 168.152pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 115--116
+[]\TU/Padauk(0)/m/n/10 ဤရ-ေ-လ-ွ-ှ-မ-်း-ပ-ု-ံ-ပ-ြ-
+င-်-မ-ျ-ာ-း-ကို နက-်-န-က-်-မ-ြ-ု-ပ-်-
+မ-ြ-ု-ပ-်-က-ြ-ည-့-်-လ-ျ-ှင်၊ ၎င်-း-
+ []
+
+
+LaTeX Font Warning: Font shape `TU/Padauk(0)/b/it' undefined
+(Font)              using `TU/Padauk(0)/b/n' instead on input line 119.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+\TU/Padauk(0)/m/it/10 င-့-်အ-န-ည-်း-င-ယ-်အ-က-ြ-ိ-
+မ-်-မ-ျ-ာ-း-လ-ည်း ပါ-ဝ-င-်-သ-ည-့-်အ-
+က-ြ-ေ-ာ-င-်း-ပ-ြ-ု-သည်။
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+\TU/Padauk(0)/m/it/10 ပင-်-လ-ယ-်-သ-ည-်-တ-ေ-ာ-င-်-
+ထ-ိ-ပ-ါ-ရ-ှ-ိ-သ-ည-့-်-တ-ေ-ာ-င-်-ထ-ိ-ပ-
+်-မ-ှ-လွဲ၍ အာ-း-လ-ု-ံ-း-ဖ-ု-ံ-း-
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 122--123
+\TU/Padauk(0)/m/it/10 လ-ွ-ှ-မ-်း-သ-ွ-ာ-း-သည်။ \TU/P
+adauk(0)/b/it/10 ထိ-ု-တ-က-်-လ-ာ-သ-ည-့-်-ရ-ေ-မ-
+ျ-ာ-း-သည် အလ-ွ-န-်-ပ-ူ-သည်။
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+\TU/Padauk(0)/m/it/10 သင-်-္-ဘ-ေ-ာ-မ-ျ-ာ-း-သ-ယ-်-
+ဆ-ေ-ာ-င-်-ထ-ာ-း-သ-ူ-မ-ျ-ာ-း-သည် သူ-တ-
+ိ-ု-့-ပ-စ-္-စ-ည-်း-မ-ျ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+\TU/Padauk(0)/m/it/10 ာ-း-န-ှ-င-့-်အတူ အလ-ွ-န-်
+အ-န-ေ-ာ-က-်-မ-ြ-ေ-ာ-က-်-သ-ို့ ပိ-ု-့-
+ဆ-ေ-ာ-င-်-ခ-ံ-ရ-က-ြ-သည်။
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+\TU/Padauk(0)/m/it/10 မျ-ာ-း-စ-ွ-ာ-သ-ေ-ာ-လ-ူ-မ-ျ-
+ာ-း-သည် သူ-တ-ိ-ု-့-သ-င-်-္-ဘ-ေ-ာ-မ-ျ
+ား သစ-်-ပ-င-်-တ-ွ-င-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+\TU/Padauk(0)/m/it/10 ်-ပ-ိ-တ-်-မ-ိ-သ-ဖ-ြ-င့် သေ-
+ဆ-ု-ံ-း-က-ြ-သည်။ နေ-ရ-က-်-လ-ေ-း-က-ြ-
+ာ-ပ-ြ-ီ-း-န-ေ-ာက်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+\TU/Padauk(0)/m/it/10 ပင-်-လ-ယ-်-သည် နာ-မ-ည-်အ-
+တ-ိ-ု-င-်း-ပ-ြ-န-်-လ-ာ-က-ြ-သည်။ လူ-မ-
+ျ-ာ-း-သည်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+\TU/Padauk(0)/m/it/10 အလ-ွ-န-်အ-န-ေ-ာ-က-်-မ-ြ-ေ-
+ာ-က-်-ဒ-ေ-သ-တ-ွင် ရေ-ာ-က-်-ရ-ှ-ိ-က-ြ-
+သည်။ သူ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+\TU/Padauk(0)/m/it/10 တ-ို့၏မသ-က-်-ဆ-က-်-မ-ျ-ာ-
+း-သည် ယန-ေ-့ထိ အန-ေ-ာ-က-်-မ-ြ-ေ-ာ-က-
+်-တ-ွင်
+ []
+
+
+Underfull \hbox (badness 5563) in paragraph at lines 126--127
+[]\TU/Padauk(0)/m/it/10 ပစ-ိ-ဖ-ိ-တ-်-မ-ု-န-်-တ-ိ-ု-
+င-်း-ပ-င-်-လယ်၏ဖက-်-တ-စ-်-ဖ-က-်-ရှ
+ိ တရ-ု-တ-်-ယ-န-ေ-့-မ-ြ-ိ-ု-့-
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 126--127
+\TU/Padauk(0)/m/it/10 ဟ-ေ-ာ-င-်း-သည် ရေ-က-ြ-ီ-း-
+မ-ှ-ု-က-ြ-ီ-း-တ-စ-်-ခ-ု-ဖ-ြ-င့် စတ-င-
+်-ခ-ဲ-့-သ-ည-်-ဟ-ု-ဆ-ိ-ု-က-ြ-
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 126--127
+\TU/Padauk(0)/m/it/10 ာ-့ဘဲ၊ တေ-ာအ-ု-ပ-်-မ-ျ-ာ-
+း-မ-ီး-လ-ေ-ာ-င-်-သ-ွ-ာ-း-ခ-ဲ-့-သည်၊ 
+မမ-ှ-ာ-မ-က-ေ-ာ-င-်း-တ-ရ-ာ-း-ရ-ှ-ိ-
+ []
+
+[2<./b.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+[]\TU/Padauk(0)/m/it/10 တရ-ု-တ-်-ပ-ြ-ည-်-သည် ရေ-
+က-ြ-ီ-း-မ-ှ-ု-က-ြ-ီ-း-ခ-ြ-င-်း-သ-ာမက
+၊ အစ-ွ-န-်း-ရ-ေ-ာ-
+ []
+
+
+Underfull \hbox (badness 8056) in paragraph at lines 128--129
+\TU/Padauk(0)/m/it/10 နေ-့-ရက်၊ နေ၊ လ၏လှ-ု-ပ-
+်-ရ-ှ-ာ-း-မ-ှ-ုအ-ခ-ြ-ေအ-န-ေ-န-ှ-င့် 
+လေ-း-ဘ-က-်-တ-ည-်-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\TU/Padauk(0)/m/it/10 န-ေ-ရ-ာ-မ-ျ-ာ-း-ကို ပြ-န-်-
+လ-ည-်-တ-ိ-တ-ိ-က-ျ-က-ျ-တ-ိ-ု-င-်း-တ-ာ-ရ-
+သည်။ ဒါ-က-ြ-ေ-ာ-င့်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\TU/Padauk(0)/m/it/10 မြ-ေ-မ-ြ-န-်-မ-ြ-န-်-လ-ှ-ည-
+့-်-လ-ှ-ည-့-်-ပ-ြ-ေ-ာ-င-်း-မ-ှ-ု-တ-စ-်-
+ခ-ု-ဖ-ြ-စ-်-ခ-ဲ-့-န-ိ-ု-င-်-သ-ည-်ဟု ဆ
+ိ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\TU/Padauk(0)/m/it/10 ု-န-ိ-ု-င-်-သည် \TU/NotoSerif(0)/m/n/10
+ - \TU/NotoSerif(0)/b/it/10 ”\TU/Padauk(0)/b/it/10 ဤမ-င-်း-က-ြ-
+ီ-း-သည် တရ-ု-တ-်-ပ-ြ-ည-်အ-န-ှ-ံ-့-သ-
+ိ-ု-့-သ-ာမက
+ []
+
+
+Underfull \hbox (badness 6125) in paragraph at lines 130--131
+[]\TU/Padauk(0)/m/it/10 တရ-ု-တ-်-သ-မ-ိ-ု-င-်းမှ 
+သဘ-ာ-ဝ-ဘ-ေ-းအ-န-္-တ-ရ-ာ-ယ-်-မ-ှ-တ-်-တ-
+မ-်း-မ-ျ-ာ-း-သည်
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 134--135
+[]\TU/Padauk(0)/m/it/10 ဤစ-ာ-တ-မ-်း-တ-ွင် ဖေ-ာ-်-
+ပ-ြ-န-ိ-ု-င-်-မ-ည့် သဘ-ာ-ဝ-ဘ-ေ-း-ဇ-ာ-
+တ-်-လ-မ-်း-သည်
+ []
+
+<marine.jpg, id=60, 2393.94376pt x 1243.64626pt>
+File: marine.jpg Graphic file (type jpg)
+<use marine.jpg>
+Package luatex.def Info: marine.jpg  used on input line 140.
+(luatex.def)             Requested size: 496.85625pt x 258.09923pt.
+
+Underfull \hbox (badness 3098) in paragraph at lines 148--149
+\TU/Padauk(0)/m/it/10 ရ-ွ-ာ-သ-ေ-ာ-ရ-ေ-က-ြ-ီ-း-မ-ှ-
+ု-မ-ျ-ာ-း-သည် အခ-ြ-ာ-း-သော ဘေ-းအ-န-
+္-တ-ရ-ာ-ယ-်-ဆ-န-်-
+ []
+
+
+Overfull \hbox (111.34204pt too wide) in paragraph at lines 153--169
+ [] 
+ []
+
+[3
+Missing character: There is no 신 (U+C2E0) in font NotoSerif/I:mode=node;script
+=latn;language=dflt;+tlig;family=rm;!
+Missing character: There is no 신 (U+C2E0) in font NotoSerif/I:mode=node;script
+=latn;language=dflt;+tlig;family=rm;!
+]
+Underfull \hbox (badness 1009) in paragraph at lines 178--180
+[]\TU/Padauk(0)/m/it/10 ရေ-က-ြ-ီ-း-ပ-ု-ံ-ပ-ြ-င-်-မ-
+ျ-ာ-း-န-ှ-င့် ကိ-ု-က-်-ည-ီ-သော အသ-ီ
+း-သ-ီး-သော ရု-ပ-်-ပ-ိ-ု-င-
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 178--180
+\TU/Padauk(0)/m/it/10 ု-လ-ည်း ပိ-ု-့-လ-ိ-ု-က-်-သ
+ည်၊ ထိ-ုအ-ခ-ျ-ိ-န-်ထိ လူ-သ-ာ-း-မ-ျ-
+ာ-း-သည် ကျ-ာ-း-မ-ျ-ာ-း-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 1831) has occurred while \output is active []
+
+ [4
+Missing character: There is no 문 (U+BB38) in font NotoSerif/I:mode=node;script
+=latn;language=dflt;+tlig;family=rm;!
+Missing character: There is no 명 (U+BA85) in font NotoSerif/I:mode=node;script
+=latn;language=dflt;+tlig;family=rm;!
+<./marine.jpg>]
+<tibet.jpg, id=108, 1748.03062pt x 1122.44344pt>
+File: tibet.jpg Graphic file (type jpg)
+<use tibet.jpg>
+Package luatex.def Info: tibet.jpg  used on input line 184.
+(luatex.def)             Requested size: 237.13594pt x 152.25978pt.
+
+Underfull \hbox (badness 1152) in paragraph at lines 191--192
+\TU/NotoSerif(0)/m/n/10 salt-wa-ter and ma-rine fos-sils, eas-ily dis-cov-ered
+ []
+
+<khafre.jpg, id=117, 1057.9525pt x 693.59125pt>
+File: khafre.jpg Graphic file (type jpg)
+<use khafre.jpg>
+Package luatex.def Info: khafre.jpg  used on input line 195.
+(luatex.def)             Requested size: 422.33084pt x 276.88124pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+[]\TU/Padauk(0)/m/it/10 အည-ီ-သ-ာ-း-သ-ဘ-ာ-ဝ-ပ-ည-ာ-ရ-
+ှ-င-်-မ-ျ-ာ-း-က-ရ-ှ-င-်း-ပ-ြ-လ-ိ-ု-့-မ-
+ရ-တ-ဲ-့-ထ-ူ-း-ခ-ြ-ာ-း-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+\TU/Padauk(0)/m/it/10 မ-ှ-ု-မ-ျ-ာ-းအ-နက် အမ-ျ-ိ-
+ု-း-မ-ျ-ိ-ု-း-ရ-ှ-ိ-ပ-ါ-တယ်။ ထေ-ာ-င-
+်-ပ-ေ-ါ-င-်း-မ-ျ-ာ-း-စ-ွ-ာ-န-ှ-စ-်-က-ြ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+\TU/Padauk(0)/m/it/10 ာ-ပ-ြ-ီ-း-န-ေ-ာ-က-်-တ-ေ-ာ-င-
+်အ-သ-ာ-း-စ-ာ-း-န-ိ-ု-င-်-သ-ေ-း-တ-ဲ-့အ-
+သ-ာ-း-န-ဲ့ည-ှ-င-်း-ည-ပ-်-ပ-ု-ံ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+\TU/Padauk(0)/m/it/10 ်-ပ-ြ-န-့-်-စ-ွ-ာ-တ-န-်း-ည-
+ီ-ည-ီ-တ-န-်း-တ-ူ-တ-ည-့-်-တ-ည-့-်-က-ျ-ွ-
+န-်း-ထ-ည-့-်-ပ-ြ-ီ-း-သ-ဲ-တ-န-်း-တ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+\TU/Padauk(0)/m/it/10 ေ-လ-ာ-တ-ဲ-့-က-ျ-ေ-ာ-က-်-ပ-ြ-
+ာ-း-က-ြ-ီ-း-တ-ွ-ေ-တ-ေ-ာ-င-်-ထ-ိ-ပ-်-ပ-
+ေ-ါ-်-မ-ှ-ာ-တ-င-်-ထ-ာ-း-တ-ာ-တွေ
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 204--205
+\TU/Padauk(0)/m/it/10 ရ-ှ-ည-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-
+ဖ-ြ-စ-်-န-ေ-တ-ဲ-့-ဖ-ြ-စ-်-စဥ-်-တ-ွ-ေပ
+ဲ\TU/NotoSerif(0)/m/n/10 ” \TU/Padauk(0)/m/it/10 ဆိ-ု-တ-ဲ-့-
+တ-ခ-ု-တ-ည-်း-သ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+\TU/Padauk(0)/m/it/10 ေ-ာအ-က-ြ-ေ-ာ-င-်း-ပ-ြ-ခ-ျ-
+က-်-က-န-ဲ-့-ခ-ျ-ာ-ခ-ျ-ာ-မ-ြ-န-်-မ-ြ-န-
+်-ရ-ှ-င-်း-လ-င-်း-သ-ွ-ာ-း-တ-ဲ-့အ-ရ-ာ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+\TU/Padauk(0)/m/it/10 ဖ-ြ-င-့-်-ဖ-ြ-စ-်-ပ-ွ-ာ-း-သ-
+ေ-ာ-ဂ-ြ-ိ-ု-ဟ-်-မ-ြ-ေအ-ိ-မ-်-သ-ံ-တ-ိ-ု-
+့-ဖ-ြ-စ-်-တ-ဲ-့-ဖ-ျ-က-်-ဆ-ီး-မ-ှ-ု-က-ြ-
+ီ-း-မ-ာ-း-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+\TU/Padauk(0)/m/it/10 သ-ေ-ာ-ဘ-ု-ံ-ဖ-ိအ-ာ-း-မ-ျ-ာ-
+း-ဖ-ြ-စ-်-က-ြ-ေ-ာ-င-်း-ရ-ှ-င-်း-လ-င-်
+းအ-က-ေ-ာ-င-်း-ဆ-ု-ံ-း-ရ-ရ-ှ-ိ-န-ိ-ု-င-
+်-ပ-ြီး၊
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+\TU/Padauk(0)/m/it/10 ာ-ယ-ီ-သ-မ-ု-ဒ-္-ဒ-ရ-ာ-ရ-ေ-လ-
+ှ-ု-ပ-်-ရ-ှ-ာ-း-မ-ှ-ု-ပ-ြဿ-န-ာ-မ-ျ-ာ-း-
+က-ိ-ု-သ-က-်-သ-ေ-ပ-ြ-န-ေ-သ-လို၊
+ []
+
+
+Underfull \hbox (badness 2237) in paragraph at lines 210--211
+\TU/Padauk(0)/m/it/10 ကမ-္-ဘ-ာ-မ-ြ-ေအ-ပ-ေါ် \TU/NotoS
+erif(0)/m/n/10 ECDO \TU/Padauk(0)/m/it/10 ပြ-ေ-ာ-င-်း-လ-ဲ-
+မ-ှ-ု-မ-ျား၏အရ-ိ-ပ-်အ-မ-ြ-ွ-က-်-က-ိ-
+ []
+
+
+Underfull \hbox (badness 6173) in paragraph at lines 210--211
+\TU/Padauk(0)/m/it/10 ု-လ-ည-်း-ည-ွ-ှ-န-်-ပ-ြ-သ-လ-
+ိ-ု-မ-ြ-င-်-ရ-သည်၊ ဒါ-့အ-ပ-ြင် ကျ-
+ွ-န-်-ု-ပ-်-တ-ို့၏ဘိ-ု-း-ဘ-ွ-ာ-း-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+\TU/Padauk(0)/m/it/10 မ-ျ-ာ-း-သည် ကမ-္-ဘ-ာ-မ-ြ-ေ
+အ-ပ-ျ-က-်အ-မ-ြ-ှ-ေ-ာ-က-်-မ-ျ-ာ-း-က-ိ-ု-
+တ-ိ-ု-င-်း-တ-ာ-န-ိ-ု-င-်-ပ-ြီး
+ []
+
+
+Underfull \hbox (badness 4505) in paragraph at lines 210--211
+\TU/Padauk(0)/m/it/10 ထိ-ု-သ-တ-င-်းအ-ခ-ျ-က-်အ-လ-
+က-်-ကို ကြ-ီ-း-မ-ာ-း-စ-ွ-ာ-ဖ-ြ-စ-်\TU/Not
+oSerif(0)/m/n/10 վ󰀀ո󰀀ղ󰀀 \TU/Padauk(0)/m/it/10 ကျ-ေ-ာ-က-
+်-တ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+\TU/Padauk(0)/m/it/10 ု-ံ-းအ-ဆ-ေ-ာ-က-်အဦ-း-မ-ျ-ာ-
+းအ-တ-ွ-င်း ထည-့-်-သ-ွ-င-်း-ရ-ိ-ု-က-်-
+န-ှ-ိ-ပ-်-န-ိ-င-်-ခ-ဲ-့-က-ြ-သ-ည-်-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+\TU/Padauk(0)/m/it/10 ဘု-ရ-င-်-မ-ျ-ာ-းအ-တ-ွ-က-်-
+သ-ေ-ရ-ေအ-ိ-မ-်အ-ဖ-ြ-စ-်-တ-ည-်-ဆ-ေ-ာ-က-
+်-ခ-ဲ-့-သ-ည-်ဟု
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+\TU/Padauk(0)/m/it/10 ယု-ံ-က-ြ-ည-်-က-ြ-သည်။ ထိ-
+ုအ-ဆ-ေ-ာ-က-်အဦ-း-မ-ျ-ာ-း-သည် မြ-ေ-ာ-
+က-်အ-ီ-ဂ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+\TU/Padauk(0)/m/it/10 ဝက-ျ-ေ-ာ-က-်အ-ု-ပ-်-က-ာ-လ\TU/
+NotoSerif(0)/m/n/10 ป󰀀ร󰀀ะ󰀀ม󰀀า󰀀ณ󰀀 \TU/Padauk(0)/m/
+it/10 ၂\TU/NotoSerif(0)/m/n/10 .\TU/Padauk(0)/m/it/10 ၃ သန-်း-ခ-
+န-့-်အ-သ-ု-ံ-း-ပ-ြ-ု-ခ-ဲ-့-ပ-ြီး၊
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 212--213
+[]\TU/Padauk(0)/m/it/10 ဤပ-ီ-ရ-မ-စ-်-မ-ျား၏ မူ-လ
+အ-စအ-န-ေ-ာ-က-်-တ-ွင် အတ-ည-်-မ-ပ-ြ-ု-
+န-ိ-ု-င-်-သ-
+ []
+
+[5
+Missing character: There is no ส (U+0E2A) in font NotoSerif/I:mode=node;script
+=latn;language=dflt;+tlig;family=rm;!
+Missing character: There is no า (U+0E32) in font NotoSerif/I:mode=node;script
+=latn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ว (U+0E27) in font NotoSerif/I:mode=node;script
+=latn;language=dflt;+tlig;family=rm;!
+Missing character: There is no վ (U+057E) in font NotoSerif:mode=node;script=la
+tn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ո (U+0578) in font NotoSerif:mode=node;script=la
+tn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ղ (U+0572) in font NotoSerif:mode=node;script=la
+tn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ป (U+0E1B) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ร (U+0E23) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ะ (U+0E30) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ม (U+0E21) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no า (U+0E32) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ณ (U+0E13) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+<./tibet.jpg>]
+<shafts.jpg, id=153, 1060.96375pt x 701.62125pt>
+File: shafts.jpg Graphic file (type jpg)
+<use shafts.jpg>
+Package luatex.def Info: shafts.jpg  used on input line 225.
+(luatex.def)             Requested size: 422.33084pt x 279.29459pt.
+
+Underfull \hbox (badness 1281) in paragraph at lines 231--232
+\TU/Padauk(0)/m/it/10 မာ-က-ျ-ေ-ာ-က-်-ဖ-ြ-င့် ပြ-
+ု-လ-ု-ပ-်-သ-ည့် ပီ-ရ-မ-စ-်အ-တ-ွ-င-်း-
+ဖ-ွ-ဲ-့-စ-ည-်း-ပ-ု-ဒ-်-မ-ျ-ာ-း-ရ-ှ-ိ-သ-
+ []
+
+<drawing.jpg, id=158, 3149.7675pt x 1049.9225pt>
+File: drawing.jpg Graphic file (type jpg)
+<use drawing.jpg>
+Package luatex.def Info: drawing.jpg  used on input line 236.
+(luatex.def)             Requested size: 496.85625pt x 165.60397pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6<./khafre.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7<./shafts.jpg><./drawing.jpg>]
+Underfull \hbox (badness 4543) in paragraph at lines 243--244
+\TU/Padauk(0)/m/it/10 ဦး-တ-ည-်-မ-ှ-ု-တ-စ-်ခု ချ-
+ထ-ာ-း-ခ-ဲ-့-က-ြ-ေ-ာ-င-်း-ကို နာ-း-လ-
+ည-်-ရ-မ-ှ-ာ-ဖ-ြ-စ-်-ပ-ါ-တယ်။
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+[]\TU/Padauk(0)/m/it/10 အရ-ေ-း-က-ြ-ီ-း-ဆ-ုံး သက-
+်-သ-ေ-က-တ-ော့ မင-်း-သ-မ-ီး-က-ြ-ီ-းအ-
+ခ-န-်း-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+\TU/Padauk(0)/m/it/10 ထဲက လေ-ထ-ွ-က-်-ပ-ေ-ါ-က-်-တ-
+စ-်ခု၏ အတ-ွ-င-်း-မှာ ရိ-ု-က-်-ထ-ု-
+ထ-ာ-း-သော
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 245--246
+\TU/Padauk(0)/m/it/10 အလ-ံ-က-ြ-ယ-်-မ-ြ-ေ-ပ-ု-ံ-တ-
+စ-်-ခ-ုပါ။ ဒီအ-လ-ံ-က-ြ-ယ-်-မ-ြ-ေ-ပ-ု
+ံက ပြ-ိ-ြ-ိ-ု-င-်-သ-ာ-ဘ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+\TU/Padauk(0)/m/it/10 ပတ-်-သ-က-်-န-ေ-ပ-ါ-သည်။ ဒ
+ီအ-ရာက လေ-ထ-ွ-က-်-ပ-ေ-ါ-က-်မှ တည-်-
+န-ေ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+\TU/Padauk(0)/m/it/10 ရ-ာ-ထ-ာ-း-မှု သေ-ခ-ျ-ာ-စွ
+ာ ချ-ထ-ာ-း-ခ-ဲ-့-က-ြ-ေ-ာ-င-်း-နဲ့ တည-
+်-ဆ-ေ-ာ-က-်-ခ-ျ-ိ-န-်-မှာ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+\TU/Padauk(0)/m/it/10 ပြ-ိ-ြ-ိ-ု-င-်-သ-ာ-ဘ-က-်-စ-
+ွ-ဲ-့-ကို ဦး-တ-ည-်-ထ-ု-တ-်-ထ-ာ-း-က-ြ-
+ေ-ာ-င-်း-ဆ-ေ-ာ-င-်-က-ြ-ဉ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+\TU/Padauk(0)/m/it/10 ်း-ပ-ေ-း-ပ-ါ-တယ်။ ဒါ-ဖ-ြ-
+င့် မျ-ှ-ေ-ာ-်-လ-င-့-်-ခ-ျ-က-်-တ-စ-်-
+ခ-ု-ဖ-ြ-စ-်-လ-ာ-ပ-ါ-တယ်။ \TU/NotoSerif(0)/m/n/10 
+—
+ []
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 245--246
+\TU/Padauk(0)/m/it/10 လေ-ထ-ွ-က-်-ပ-ေ-ါ-က-်-တ-စ-်-
+ဖ-က-်-စီက ဘာ-ကို ဦး-တ-ည-်-န-ေ-သ-လ-ဲ-
+န-ှ-င့် ဘာ-
+ []
+
+
+Underfull \hbox (badness 4254) in paragraph at lines 245--246
+\TU/NotoSerif(0)/m/n/10 Skep-tic \TU/Padauk(0)/m/it/10 က ဒီ-မ-ျ-ာ-
+း-ကို ၁၀၄ ဒီ-ဂရီ \TU/NotoSerif(0)/m/n/10 ECDO \TU/Padau
+k(0)/m/it/10 ပြ-ေ-ာ-င-်း-လ-ဲ-မ-ှ-ု-န-ေ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+\TU/Padauk(0)/m/it/10 ာ-က-်-က-ြ-ယ-်-မ-ြ-ေ-ပ-ု-ံအ-
+တ-ိ-ု-င်း ပြ-ိ-ြ-ိ-ု-င-်-သ-ာ-ဘ-က-်-စ-
+ွ-ဲ-့-ကို ဦး-တ-ည-်-စ-ေ-ဖ-ို့
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
+[] \TU/NotoSerif(0)/b/n/12 . \TU/Padauk(0)/b/n/12 ၃၁ ဒီ-ဂရီ မ
+ြ-ာ-း-လ-ိ-ု-င-်း-တ-လ-ျ-ှ-ေ-ာက် ၁၀၄\TU/N
+otoSerif(0)/b/n/12 -
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 251--252
+\TU/Padauk(0)/m/it/10 ့-ပ-ု-ံ-စ-ံ-န-ဲ-့-လ-ာ-ခ-ြ-င-
+်း-မ-ရ-ှ-ိပါ၊ ထိ-ု-့အ-ပ-ြင် ဗြ-ိ-တ-
+ိ-သ-ျ-ှ-တ-ွ-ေ-ထ-ဲ-မ-ှ-ာ-တ-ေ-ာင် မင-်
+း-မ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--261
+[]\TU/Padauk(0)/m/it/10 ဒီ-လ-ှ-ည-့-်-မှု ဦး-တ-ည-
+်-ရ-ာ-က-ိ-ု-ထ-ေ-ာ-က-်-ပ-ြ-န-ိ-ု-င-်-တဲ
+့ ရု-ပ-်-ပ-ိ-ု-င-်း-ဆ-ိ-ု-င-်ရာ
+ []
+
+
+Underfull \hbox (badness 2951) in paragraph at lines 259--261
+\TU/Padauk(0)/m/it/10 သက-်-သ-ေအ-ထ-ေ-ာ-က-်အ-ထ-ာ-း-
+တ-ွ-ေ-ထ-ဲ-မှာ သံ-လ-ိ-ု-က-်အ-ဟ-ုန်၊ 
+တစ-်-တ-ိ-ု-
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 259--261
+\TU/Padauk(0)/m/it/10 နစ်၊ သဲ-က-န-္-တာရ၊ တေ-ာ-
+တ-ိ-ရ-စ-္-ဆ-ာ-န-်-မ-ျ-ိ-ု-း-စ-ု-ံအ-ာ-့-
+တေ့၊ မြ-စ-်-ရ-ေ-စ-ီးအ-နံ့၊
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 259--261
+\TU/NotoSerif(0)/m/n/10 le-o-mag-netic data pre-serv-ing the ge-o-mag-netic
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 259--261
+\TU/NotoSerif(0)/m/n/10 formed dur-ing the pole ex-cur-sions, pre-serv-ing
+ []
+
+<laj.jpg, id=192, 983.675pt x 1203.49625pt>
+File: laj.jpg Graphic file (type jpg)
+<use laj.jpg>
+Package luatex.def Info: laj.jpg  used on input line 265.
+(luatex.def)             Requested size: 225.27841pt x 275.60466pt.
+
+Underfull \hbox (badness 2189) in paragraph at lines 267--267
+[]\TU/NotoSerif(0)/m/n/9 Fig-ure 7. []\TU/Padauk(0)/m/n/9 အိုက်စ
+်လန်ဘေစင် လှ-ည-်-့-လ-ည-်-သ-ွ-ာ-း-သ-
+ည့် ဂျ-ီ-ယ-ိ-ု-မ-ဂ-္-န-ီ-တ-စ-
+ []
+
+
+Underfull \hbox (badness 5533) in paragraph at lines 267--267
+\TU/Padauk(0)/m/n/9 ်-ဘ-ေ-ာ-လ-ု-ံ-း-စ-က-်-ဝ-ိ-ု-
+င-်း-လ-မ-်း-က-ြ-ေ-ာ-င်း \TU/NotoSerif(0)/m/n/9 (a) 
+\TU/Padauk(0)/m/n/9 နှ-င့် \TU/NotoSerif(0)/m/n/9 Laschamp \TU/Padauk
+(0)/m/n/9 လှ-ည-်-့-လ-ည-်-မှု
+ []
+
+[8
+Missing character: There is no ಮ (U+0CAE) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ಾ (U+0CBE) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ಹ (U+0CB9) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ಿ (U+0CBF) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ತ (U+0CA4) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ಿ (U+0CBF) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+]
+<meinesz3.jpg, id=208, 1284.8pt x 770.88pt>
+File: meinesz3.jpg Graphic file (type jpg)
+<use meinesz3.jpg>
+Package luatex.def Info: meinesz3.jpg  used on input line 275.
+(luatex.def)             Requested size: 237.13594pt x 142.2812pt.
+<biodiversity.jpg, id=211, 1284.8pt x 722.7pt>
+File: biodiversity.jpg Graphic file (type jpg)
+<use biodiversity.jpg>
+Package luatex.def Info: biodiversity.jpg  used on input line 285.
+(luatex.def)             Requested size: 472.01192pt x 265.50911pt.
+
+Underfull \vbox (badness 1960) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+[]\TU/Padauk(0)/m/it/10 ခန-့-်-မ-ှ-န-်း-ထ-ာ-း-သေ
+ာ \TU/NotoSerif(0)/m/n/10 ECDO \TU/Padauk(0)/m/it/10 လည-်-ပ-တ-်-
+ခ-ြ-င-်း-လ-မ-်း-က-ြ-ေ-ာ-င-်း-န-ှ-င့်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+\TU/Padauk(0)/m/it/10 ကိ-ု-က-်-ည-ီ-န-ေ-သ-ည-့-်-စ
+ဥ-်း-မ-ျ-ဉ-်း-မ-ျ-ာ-း-သည် အမ-ေ-ရ-ိ-က-
+န-်အ-န-ေ-ာ-က-်-ပ-ိ-ု-င-်း-ရှိ
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 295--296
+\TU/Padauk(0)/m/it/10 သဲ-တ-ေ-ာ-တ-န-်းအ-လ-ွ-ှ-ာ-မ-
+ျ-ာ-း-တ-ွ-င-်-သ-ိ-မ-်း-ဆ-ည-်း-ထ-ာ-း-သ
+ော ငါ-း-သ-လ-ေ-ာ-က-်-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+\TU/NotoSerif(0)/m/n/10 [[]]\TU/Padauk(0)/m/it/10 ။ ထိ-ု-့အ-ပ-
+ြင်၊ ရေ-ခ-ဲ-တ-ေ-ာ-င-်-က-ြ-ီ-း-မ-ျ-ား
+က ယူ-ဆ-ရ-သ-ည့် စွ-န-့-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+\TU/Padauk(0)/m/it/10 ်-ပ-စ-်-က-ျ-ေ-ာ-က-်-တ-ု-ံ-း-
+မ-ျ-ာ-း-ဖ-ြ-စ-်-သ-ည့် \TU/NotoSerif(0)/m/n/10 glacial er
+-rat-ics \TU/Padauk(0)/m/it/10 မျ-ာ-း-သည်
+ []
+
+
+Underfull \hbox (badness 5105) in paragraph at lines 295--296
+\TU/Padauk(0)/m/it/10 မူ-ရ-င-်း-က-ျ-ေ-ာ-က-်-မ-ျ-
+က-်-ရ-ဲ-့-မ-တ-ူ-က-ွ-ဲ-ပ-ြ-ာ-း-သော မူ-
+ခ-ိ-ု-း-စ-က-်-န-ှ-င-့-်အ-တ-ူ-တ-စ-်-
+ []
+
+<dzhani.jpg, id=220, 3191.925pt x 1047.915pt>
+File: dzhani.jpg Graphic file (type jpg)
+<use dzhani.jpg>
+Package luatex.def Info: dzhani.jpg  used on input line 301.
+(luatex.def)             Requested size: 447.16759pt x 146.80304pt.
+[9<./laj.jpg><./meinesz3.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10<./biodiversity.jpg><./dzhani.jpg>]
+<layers.jpg, id=248, 1204.5pt x 677.53125pt>
+File: layers.jpg Graphic file (type jpg)
+<use layers.jpg>
+Package luatex.def Info: layers.jpg  used on input line 316.
+(luatex.def)             Requested size: 496.85625pt x 279.48508pt.
+<llvp.jpg, id=250, 1163.34625pt x 915.42pt>
+File: llvp.jpg Graphic file (type jpg)
+<use llvp.jpg>
+Package luatex.def Info: llvp.jpg  used on input line 327.
+(luatex.def)             Requested size: 237.13594pt x 186.60072pt.
+
+Underfull \hbox (badness 1019) in paragraph at lines 340--341
+[]\TU/Padauk(0)/m/it/10 ဒီ-ဇ-ာ-တ-်-ခ-ု-ံ-တ-ွင် မ
+ြ-ေ-က-ြ-ီ-း-ပ-ြ-ေ-ာ-င-်း-ပ-ြ-န-်အ-ဖ-ြ-
+စ-်အ-ပ-ျက် တစ-်-ခ-ု-သ-စ-
+ []
+
+[11<./layers.jpg><./llvp.jpg>]
+Underfull \hbox (badness 4156) in paragraph at lines 344--345
+[]\TU/Padauk(0)/m/it/10 ဂျ-ီအ-ိ-ု-မ-ဂ-န-တ-စ-်-လ-ှ-
+ိ-ု-င-်း-က-ွ-င်း လျ-ေ-ာ-့-န-ည-်း-လ-ာ-
+ခ-ြ-င-်းအ-တ-ွက် လက-်-
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 344--345
+\TU/Padauk(0)/m/it/10 ်-န-ေ-ရ-ာ-ဖ-ြ-စ-်-ပ-ါ-သည် \TU
+/NotoSerif(0)/m/n/10 (\TU/Padauk(0)/m/it/10 ပုံ []\TU/NotoSerif(0)/m/n/10
+ 14[])\TU/Padauk(0)/m/it/10 ။ ဂျ-ီအ-ိ-ု-မ-ဂ-န-တ-စ-်-
+မ-ြ-ေ-ာ-က-်-ဘ-က-်-ပ-ေ-ါ-က-်-
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 344--345
+\TU/Padauk(0)/m/it/10 သည် သမ-ိ-ု-င-်း-တ-လ-ျ-ှ-ေ-
+ာက် လာ-က-ာ-န-ာ-ဒ-ေ-းအ-ာ-တ-ိ-တ-်-တ-ွင
+် တည-်-ရ-ှ-ိ-ခ-ဲ-့-
+ []
+
+<saa.jpg, id=268, 1627.07875pt x 636.3775pt>
+File: saa.jpg Graphic file (type jpg)
+<use saa.jpg>
+Package luatex.def Info: saa.jpg  used on input line 349.
+(luatex.def)             Requested size: 447.16759pt x 174.89268pt.
+<npw.jpg, id=273, 1539.7525pt x 1924.18875pt>
+File: npw.jpg Graphic file (type jpg)
+<use npw.jpg>
+Package luatex.def Info: npw.jpg  used on input line 358.
+(luatex.def)             Requested size: 237.13594pt x 296.33772pt.
+<ocean-highlight.jpg, id=276, 2135.98pt x 2488.29625pt>
+File: ocean-highlight.jpg Graphic file (type jpg)
+<use ocean-highlight.jpg>
+Package luatex.def Info: ocean-highlight.jpg  used on input line 368.
+(luatex.def)             Requested size: 237.13594pt x 276.21935pt.
+
+Underfull \hbox (badness 1303) in paragraph at lines 375--376
+\TU/Padauk(0)/m/it/10 ု-င-်းအ-ေ-ာ-င-်-လ-ှ-ု-ပ-်-
+ရ-ှ-ာ-း-န-ေ-သ-ည့် ဓာ-း-န-ိ-ု-စ-န-စ-်
+အ-တ-ွ-င်း ချ-က-်-ထ-ွ-က-်-မ-ီးအ-ပ-ူ-
+ []
+
+
+Underfull \vbox (badness 2856) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12
+Missing character: There is no 핵 (U+D575) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+<./saa.jpg><./npw.jpg>]
+Underfull \hbox (badness 2393) in paragraph at lines 379--380
+\TU/Padauk(0)/m/it/10 ်အ-တ-ွ-င-်း-တ-ွ-င-်-သ-ာမက
+၊ ပူ-န-ွ-ေ-း-လ-ာ-မ-ှ-ုအ-ရ-ှ-ိ-ဆ-ု-ံ-း-
+ဖ-ြ-စ-်-ရ-ပ-်-သည် ဧဗ-စ-်-ဆ-
+ []
+
+<saa-crop.jpeg, id=303, 1096.095pt x 715.67375pt>
+File: saa-crop.jpeg Graphic file (type jpg)
+<use saa-crop.jpeg>
+Package luatex.def Info: saa-crop.jpeg  used on input line 385.
+(luatex.def)             Requested size: 237.13594pt x 154.82784pt.
+
+Underfull \hbox (badness 5817) in paragraph at lines 387--387
+[]\TU/NotoSerif(0)/m/n/9 Fig-ure 16. []\TU/Padauk(0)/m/n/9 တောင်အ
+ာတလန်တစ်နယ်ပယ်အပေါ်မူတည်သေ
+ာ \TU/NotoSerif(0)/m/n/9 tip-
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 394--395
+[]\TU/Padauk(0)/m/it/10 ကမ-္-ဘ-ာ-လ-ှ-န-်-န-ိ-ု-င-်-
+မ-ည-့-်အ-ခ-ျ-ိ-န-်-ကို ခန-့-်-မ-ှ-န-
+်း-ရ-န-်အ-တ-ွက်၊ \TU/NotoSerif(0)/m/n/10 SAA \TU/Padauk(0
+)/m/it/10 မျ-
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 394--395
+\TU/Padauk(0)/m/it/10 က-်-န-ှ-ာ-ပ-ြ-င-်ဧ-ရ-ိ-ယ-ာ
+အ-ခ-ျ-က-်အ-လ-က-်-မ-ျ-ာ-း-ကို \TU/NotoSerif(0)/m
+/n/10 power-law tip-ping
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 396--397
+[]\TU/Padauk(0)/m/it/10 လည-်-ပ-တ-်-မ-ြ-ှ-ေ-ာ-က-်-ဝ-
+င-်-သော ဝင-်-ရ-ိုး၊ မိ-ု-းလေ၀သထ-
+ူ-း-ခ-ြ-ာ-း-မ-ှ-ု-မ-ျား၊
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+\TU/Padauk(0)/m/it/10 ငလ-ျ-င-်-န-ှ-င့် ပေ-ါ-က-်-
+က-ွ-ဲ-မ-ှ-ု-တ-ု-န-့-်-ပ-ြ-န-်-မ-ှ-ုအ-ခ-
+ျ-က-်အ-လ-က-်-မ-ျ-ာ-း-က-ဲ-့-သ-ိ-ု-့-သေ
+ာ
+ []
+
+[13<./ocean-highlight.jpg><./saa-crop.jpeg>]
+Underfull \hbox (badness 1194) in paragraph at lines 401--402
+[]\TU/Padauk(0)/m/it/10 နေ-ာ-က-်-ဆ-ု-ံ-း-ပ-ိ-ု-င်
+း \TU/NotoSerif(0)/m/n/10 ECDO \TU/Padauk(0)/m/it/10 ပြ-ေ-ာ-င-်
+း-လ-ဲ-မှု \TU/NotoSerif(0)/m/n/10 (flip) \TU/Padauk(0)/m/it/10 ဖ
+ြ-စ-်-န-ိ-ု-င-်-ခ-ျ-ိ-န-်အ-
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 401--402
+\TU/Padauk(0)/m/it/10 န-ီး-ဆ-ု-ံ-း-မှာ ခရ-စ-်-တ-
+ော် မတ-ိ-ု-င-်မီ ၂\TU/NotoSerif(0)/m/n/10 ৩󰀀০
+󰀀\TU/Padauk(0)/m/it/10 ၀ မှ ၁၆၀၀ ပြ-ည-့-်-န-ှ-
+စ-်-က-ြ-ာ-း-
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 401--402
+\TU/Padauk(0)/m/it/10 တည် \TU/NotoSerif(0)/m/n/10 (Gun-Yu [[], [], []], Og
+yges [[], []], Peru
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 407--408
+[]\TU/Padauk(0)/m/it/10 ထိ-ု-န-ေ-ာက် \TU/NotoSerif(0)/m/it/10 
+”\TU/Padauk(0)/m/it/10 ၁၉၄၈ အစ-ေ-ာ-ပ-ိ-ု-င်း \TU/
+NotoSerif(0)/m/it/10 Pen-tagon \TU/Padauk(0)/m/it/10 တွင် \TU/NotoSerif
+(0)/m/it/10 Ma-jor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--408
+\TU/NotoSerif(0)/m/it/10 White \TU/Padauk(0)/m/it/10 တက-်-ရ-ေ-ာ-
+က-်-သ-ည့် သိ-ပ-္-ပ-ံအ-စ-ည-်းအ-ဝ-ေ-း-
+တ-စ-်-ခ-ု-တ-ွင်၊
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--408
+\TU/Padauk(0)/m/it/10 သိ-ပ-္-ပ-ံ-ပ-ည-ာ-ရ-ှ-င-်-မ-
+ျ-ာ-း-သည် လာ-မ-ည့် သံ-လ-ိ-ု-က-်-ဘ-က-
+်-ပ-ြ-ေ-ာ-င-်း-လ-ဲ-မှု
+ []
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 407--408
+\TU/Padauk(0)/m/it/10 နေ-ာ-က-်-က-ြ-ေ-ာ-င-်း-မ-ျ-
+ာ-းအ-က-ြ-ေ-ာ-င်း ပြ-ည-်-သ-ူ-့ထံ အသ-
+ိ-ပညာ ချ-ပ-ြ-ရန်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--408
+\TU/Padauk(0)/m/it/10 သင့်\TU/NotoSerif(0)/m/it/10 /\TU/Padauk(0)/m/it/
+10 မသ-င့် ဆွ-ေ-း-န-ွ-ေ-း-ခ-ဲ-့-က-ြ-သည
+်။ သိ-ပ-္-ပ-ံ-ပ-ည-ာ-ရ-ှ-င-်-တ-စ-်-ယ-ေ-
+ာ-က-်မှ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--408
+\TU/Padauk(0)/m/it/10 ပြ-ည-်-သ-ူ-့ထံ သိ-မ-ြ-င-်-
+မှု ဖေ-ာ-်-ပ-ြ-မ-ပ-ေ-း-သ-င-့-်ဟု သဘ-
+ေ-ာ-တ-ူ-မ-ိသူ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--408
+\TU/Padauk(0)/m/it/10 မရ-ှ-ိ-သည်၊ ဒါ-ပ-ေ-မ-ယ့် 
+မည-်-သ-ို့ ဖေ-ာ-်-ပ-ြ-ရ-မ-ည-်-ဆ-ိ-ု-
+တ-ာ-တ-ွ-ေ-ရ-ေ-း-
+ []
+
+
+Underfull \hbox (badness 2285) in paragraph at lines 407--408
+\TU/Padauk(0)/m/it/10 စပ်၍လည်း သဘ-ေ-ာ-တ-ူ-ည-ီ-
+မှု မရ-ှ-ိ-ခ-ဲ-သည်။ ဤဖ-ြ-စ-်-ရ-ပ-်
+အ-က-ြ-ေ-ာ-င်း
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 407--408
+\TU/Padauk(0)/m/it/10 မသ-ိ-မသာ ရှ-ိ-သ-ည့် အခ-ျ-
+က-်-သည် လူ-့အ-ဖ-ွ-ဲ-့အ-စ-ည်း၏ သာ-ု-
+မ-န-်-မ-ှ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--408
+\TU/Padauk(0)/m/it/10 ု-ကို တိ-ု-က-်-ခ-ိ-ု-က-်-ဖ-
+ျ-က-်-ဆ-ီး-န-ိ-ု-င-်-သ-ည-်ဟု တခ-ျ-ိ-
+ု-့-ယ-ု-ံ-က-ြ-ည-်-က-ြ-သည်။
+ []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 409--410
+[]\TU/Padauk(0)/m/it/10 ဘာ-က-ြ-ေ-ာ-င့် ဤအ-က-ြ-ေ-
+ာ-င-်း-တ-ွ-ေ-ကို ငါ-တ-ို့ အာ-ရ-ု-ံ-
+မ-စ-ိ-ု-က-်-သလဲ\TU/NotoSerif(0)/m/n/10 ?
+ []
+
+[14
+Missing character: There is no ৩ (U+09E9) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ০ (U+09E6) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+]
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ဂ-ျ-စ-်-ဘ-ု-ရ-ာ-း-က-ျ-ေ-ာ-င-
+်း-ဆ-ရ-ာ-က-ြ-ီ-း-က-ြား ဆွ-ေ-း-န-ွ-ေ-
+း-မ-ှ-ု-က-ိ-ု-ပ-ြ-ေ-ာ-ပ-ြပ-ါ-ရစေ
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 411--412
+\TU/NotoSerif(0)/m/n/10 [[]]\TU/Padauk(0)/m/it/10 ။ \TU/NotoSerif(0)/m/it/10 
+”\TU/Padauk(0)/m/it/10 တစ-်-ခ-ါ-တ-ု-န-်းက \TU/NotoSerif
+(0)/m/it/10 [\TU/Padauk(0)/m/it/10 ဆိ-ု-လ-ွ-န်း\TU/NotoSerif(0)
+/m/it/10 ] \TU/Padauk(0)/m/it/10 သည် တလ-ေ-့-တ-ပ-ေါ် 
+ကျ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ေ-ာ-်-က-ြ-ာ-း-သော သမ-ိ-ု-င-
+်း-ပ-ြ-န-်-က-ြ-ေ-ာ-င-်း-ကို သိ-ခ-ျ-င-
+်-လ-ျက် သူ-တ-ိ-ု-့ထံ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ရှ-ေ-း-ဟ-ေ-ာ-င-်းအ-က-ြ-ေ-ာ-
+င-်းအ-ရ-ာ-ကို ဆွ-ေ-း-န-ွ-ေ-း-ခဲ့၊ 
+ပြဿ-န-ာ-ဖ-ြ-စ-်-သ-ည့်
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 411--412
+\TU/NotoSerif(0)/m/it/10 Phoroneus \TU/Padauk(0)/m/it/10 ကို လူ-သ-
+ာ-း-ပ-ထ-မဦ-း-ဆ-ု-ံ-းဟု ဆိ-ု-က-ြရာ \TU/N
+otoSerif(0)/m/it/10 Niobe;
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ရေ-က-ြ-ီ-း-ဘ-ေ-း-မှာ တည-်-
+ရ-ှ-ိ-ခ-ဲ-့-သ-ည့် \TU/NotoSerif(0)/m/it/10 Deu-calion \TU/P
+adauk(0)/m/it/10 နှ-င့် \TU/NotoSerif(0)/m/it/10 Pyrrha \TU/Padauk(0)
+/m/it/10 ၏
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ြ-ေ-ာ-င-်းအ-ရ-ာ-န-ှ-င့် ဒ
+ါ-ယ-ာ-န-ာအ-န-ွ-ယ-်-စ-ာ-ရ-င-်း-ကို တွ-
+က-်-ခ-ျ-က-်-ပ-ြ-ခ-ဲ-့-သည်။
+ []
+
+
+Underfull \hbox (badness 4096) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ထိ-ု-လ-ု-ပ-်-န-ေ-စဉ် ယဉ-်-
+က-ြ-ီ-း-သော ဘု-ရ-ာ-း-က-ျ-ေ-ာ-င-်း-ဆ-
+ရ-ာ-က-ြ-ီ-း-တ-စ-်ဦးက
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 အသ-က-်-က-ြ-ီးက ဂရ-ိ-လ-ူ-မ-
+ျ-ိုး မရ-ှ-ိ-ပ-ါ-ဘူး\TU/NotoSerif(0)/m/it/10 ” \TU/
+Padauk(0)/m/it/10 ဟု-ဆ-ိ-ု-သည်။ ထိ-ု-့-န-ေ-ာ
+က်
+ []
+
+
+Underfull \hbox (badness 5388) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ဆိ-ု-လ-ွ-န-်းက \TU/NotoSerif(0)/m/it/10
+ “\TU/Padauk(0)/m/it/10 ဒါ-ကို ဘာ-ရ-ည-်-ရ-ွ-ယ-်-
+န-ေလဲ\TU/NotoSerif(0)/m/it/10 ”\TU/Padauk(0)/m/it/10 ဟု မေ-
+း-သည်။ ဘု-ရ-ာ-း-
+ []
+
+
+Underfull \hbox (badness 3646) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 က-ျ-ေ-ာ-င-်း-ဆ-ရာက \TU/NotoSerif(0)
+/m/it/10 “\TU/Padauk(0)/m/it/10 သင-်-တ-ိ-ု-့-သည် စိ-
+တ-်-က-ြ-ီ-း-စ-ဉ-်-မ-ျ-ိ-ု-း-လ-ုံး ယု-
+န-်-သက်၊
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 သူ-တ-ိ-ု့က ဟေ-ာ-င-်း-န-ု-
+ပ-ျ-ိ-ု-မှု ထွ-က-်-သ-န-်-သော ယု-ံ-က-
+ြ-ည-်-ခ-ျ-က-်-တ-စ-
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ်-ခ-ု-မ-ျ-ှ-မ-ရှိ။ ပြ-ီ-း-
+တ-ော့ ဆန-်း-က-ြ-ယ-်-သော ဖြ-စ-်-ရ-ပ-
+်-မ-ျား၊ မျ-ာ-း-မ-ျ-ာ-း-က-ြီး
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ဖန-်-တ-ီးအ-တ-ိ-ု-င်း ရှ-
+ာ-ဖ-ွ-ေ-ရ-တ-ာ-မ-ျ-ိုး၊ ပါ-ေ-သ-ွ-န-်ဟ
+ု အမ-ည-်-ရ-လ-ာ-း-သော
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/NotoSerif(0)/m/it/10 He-lios \TU/Padauk(0)/m/it/10 ၏သာ-း-သည် 
+သူ-့အ-ဖ-ေ-သ-ဘ-ေ-ာ-တ-ူ-သ-ည့် ရထ-ာ-း-က
+ို
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ဘယ-်-တ-ေ-ာ-့မှ မေ-ာ-င-်း-
+န-ိ-ု-င-်-က-ြ-ပ-ေ-မ-ယ့် မြ-ေ-က-ြ-ီ-း-
+ထ-ဲ-က-လ-ည်း မီ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 း-ယ-ာ-က-ြ-ီ-း-နဲ့ ပျ-က-်-စ-
+ီး-သ-ွ-ာ-း-သ-ည-်-ဆ-ိ-ု-တ-ာ-က-ြ-ာ-း-ခ-ဲ-
+့-က-ြ-လ-ေ-့-ရ-ှ-ိ-တယ်။
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ဒီအ-တ-ေ-ာအ-တ-ွ-င-်း-မှာ 
+တေ-ာ-င-်-တ-န-်း-နဲ့ မြ-င-့-်-ဒ-ေ-သ-ထ-
+ဲ-မှာ နေ-ထ-ိ-ု-င-်-သ-ူ-
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 တ-ွေက ပိ-ု-မ-ိ-ု-ဆ-ု-ံ-း-ရ-
+ှ-ု-ံ-း-ရတာ၊ မြ-စ-်-နား ပင-်-လ-ယ-်-
+န-ာ-း-မ-ှ-ာ-သ-ေ-ာ-သ-ူ-တ-ွေက
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 တေ-ာ-်-တ-ော် ကျ-န-်-ရ-စ-်-
+က-ြ-တယ်။ ငါ-တ-ိ-ု-့-မ-ြ-န-်-မ-ာ-န-ယ-
+်-မ-ြ-ေ-မ-ှ-ာ-တ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ော့ နိ-ု-င-်း-မ-ြ-စ-်အ-မ-
+ြ-င-့-်-က-ြ-ေ-ာ-င့် အခ-ြ-ာ-း-ဘ-ေ-း-က-
+င-်း-လ-ု-ံ-ခ-ြ-ု-ံ-န-ိ-ု-င-်-တယ်။
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 သူ-တ-ိ-ု-့အ-န-ေ-နဲ့၊ ဘု-
+ရ-ာ-း-မ-ျ-ားက မြ-ေ-က-ြ-ီ-း-ကို ရေ-တ-
+န-်း-ဖ-ြ-စ-်အ-ေ-ာင်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 စစ-်-သ-ည-်အခါ မြ-ေ-မ-ြ-င-
+့-်-တ-ေ-ာ-င-်-မ-ျ-ာ-း-မ-ှ-ာ-န-ေ-ရ-သ-ူ-
+မ-ျ-ာ-းသာ အသ-က-်-
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ရ-ှ-င-်-က-ျ-န-်-က-ြ-သည်၊ သ
+ိ-ု-့-သ-ော် တိ-ု-င-်း-ပ-ြ-ည-်-က-လ-ူ-
+တ-ွေက ရေ-သ-င-့-်-ပ-ြီး
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ယူ-ဆ-ပ-ြီး အပ-ျ-က-်အ-လ-ွ-
+န-်အ-ပ-ြား စု-စ-ည-်း-ဝေး၍၊ ဆန-်း-
+က-ြ-ယ-်-လ-ွ-န-
+ []
+
+
+Underfull \hbox (badness 4940) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ်း-သော အရ-ာ-မ-ရ-ှ-ိ-တ-ဲ-့-
+န-ေ-ရ-ာ-မ-ှ-ာ-တ-ော့ လူ-သ-ာ-း-မ-ျ-ိ-ု-
+း-စ-ိ-တ-်-ရ-ှ-ိ-ဆ-ဲ-ဖ-ြ-စ-်-တယ်။
+ []
+
+
+Underfull \hbox (badness 4291) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 လူ-့အ-ဖ-ွ-ဲ-့အ-စ-ည-်း-တ-ိ
+ု့ ခေ-တ-်-စ-ဉ-်အ-လ-ိ-ုက် ရေ-း-သ-ာ-း-
+လ-ေ-့-လ-ာ-မ-ှ-ု-ရ-ှ-ိအ-ာ-း-
+ []
+
+
+Underfull \hbox (badness 6542) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 လ-ုံး၊ ရေ-းအ-န-ု-ပ-ည-ာ-ဖ-
+ြ-င-့-်-လ-ည်း ပြ-န-်-လ-ည-်-တ-ည-်-ဆ-ေ-
+ာ-က-်-က-ြ-သည်။
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 သိ-ု-့-သ-ော် တစ-်-လ-ရ-ေ-ာ-
+က-်-တ-စ-်ခါ၊ ကေ-ာ-င-်း-က-င-်မှ ရေ-
+က-ြ-ီ-း-ခ-ိ-ု-း-ခ-ံ-ရ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 သ-ည-့-်အခါ နိ-ု-င-်-င-ံ-သ-
+ာ-းအ-သ-စ-်-တ-ေ-ာ-င-်-လ-ူ-မ-ျ-ိ-ု-း-င-ံ-
+ယ-ွ-င-်း-ရေး၊ ဆိ-ု-လ-ွ-န်း၊
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 သင-်-ပ-ြ-ေ-ာ-န-ေ-သော နိ-ု-
+င-်-င-ံ-သ-ာ-း-တ-ိ-ု-့-သည် ယန-ေ-့-လ-က-
+်-ရ-ှ-ိ-မှာ မိ-ဘ-ထ-ံမှ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 မဖ-ြ-စ-်-န-ိ-ု-င-်-သော အလ-
+ွ-န-်-တ-န-်-ဖ-ိ-ု-း-ရ-ှ-ိ-သော မျ-ိ-ု-
+း-န-ွ-ယ-်-တ-ိ-ု-့-ဖ-ြစ်၊ မည-်-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 သ-ူ-့-မ-ှ-တ-်-တ-မ-်းမှ မက-
+ြ-ာ-ခ-ဏ-ဆ-ု-ံ-း-ရ-ှ-ု-ံ-း-သ-ွ-ာ-း-တ-တ-
+်-သည်။ ပြ-ီ-း-တ-ော့
+ []
+
+
+Underfull \hbox (badness 5036) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ်း-ဒ-ီး-မ-ာ-း-မ-ြ-ိ-ု-့-မှ
+ာ တေ-ာ-င-်အရံ သတ-္-တ-ိ-က-ြ-ီ-း-တ-ည-်-
+ခ-ဲ-့-က-ြ-တ-ယ-်-လ-ိ-ု-့-လ-ည်း
+ []
+
+
+Underfull \hbox (badness 6063) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ဆိ-ု-က-ြ-တယ်။ သူ-တ-ိ-ု-့-
+က-ိ-ု-ယ-်-ပ-ိ-ုင် အန-ု-ပ-ည-ာ-မ-ျ-ာ-း-
+န-ှ-င့် လူ-့အ-ဖ-ွ-ဲ-့အ-စ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/Padauk(0)/m/it/10 ည-်း-မှာ ဉာ-ဏ-်-ပ-ည-ာအ-ထ-
+ူ-း-မ-ပ-ါ-တဲ့ နိ-ု-င-်-င-ံ-သ-ာ-း-စ-ဉ-
+်-စ-ုအ-န-ည-်း-င-ယ-်သာ
+ []
+
+
+Underfull \hbox (badness 5908) in paragraph at lines 413--414
+[]\TU/Padauk(0)/m/it/10 ထိ-ု-ဘ-ု-ရ-ာ-း-က-ျ-ေ-ာ-င-်
+း-ဆ-ရ-ာ-မ-ျ-ာ-း-သည် တွ-ေ-့-ရ-သ-က-ဲ-့-
+သ-ို့၊ ဆိ-ု-လ-ွ-န-်းထံ
+ []
+
+
+Underfull \hbox (badness 6641) in paragraph at lines 413--414
+\TU/Padauk(0)/m/it/10 အတ-္-လ-န-်-တ-စ-်စ် အဟ-ေ-ာ-
+င-်းအ-ရ-င်း ယဉ-်-က-ျ-ေ-း-မ-ှ-ုအ-က-ြ-
+ေ-ာ-င-်း-လ-ည်း
+ []
+
+
+Underfull \hbox (badness 8132) in paragraph at lines 420--421
+\TU/Padauk(0)/m/it/10 သ-ာ-း-မ-ျ-ိ-ု-း-န-ွ-ယ-်အ-ာ-
+းအ-လ-င-်း-ရ-လ-ာ-စ-ေ-ရန် ကြ-ိ-ု-း-ပ-မ-
+်း-ဆ-ေ-ာ-င-်-ရ-ွ-က-်-သ-ူ-မ-ျ-ာ-
+ []
+
+[15]
+<wave.jpg, id=384, 754.82pt x 1057.9525pt>
+File: wave.jpg Graphic file (type jpg)
+<use wave.jpg>
+Package luatex.def Info: wave.jpg  used on input line 431.
+(luatex.def)             Requested size: 237.13594pt x 332.36893pt.
+<star-stone.jpg, id=387, 722.7pt x 1116.17pt>
+File: star-stone.jpg Graphic file (type jpg)
+<use star-stone.jpg>
+Package luatex.def Info: star-stone.jpg  used on input line 440.
+(luatex.def)             Requested size: 237.13594pt x 366.24239pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<deepsea.jpg, id=390, 708.6475pt x 620.3175pt>
+File: deepsea.jpg Graphic file (type jpg)
+<use deepsea.jpg>
+Package luatex.def Info: deepsea.jpg  used on input line 450.
+(luatex.def)             Requested size: 496.85625pt x 434.92918pt.
+<sealevel.jpeg, id=397, 1204.5pt x 1326.9575pt>
+File: sealevel.jpeg Graphic file (type jpg)
+<use sealevel.jpeg>
+Package luatex.def Info: sealevel.jpeg  used on input line 458.
+(luatex.def)             Requested size: 496.85625pt x 547.37672pt.
+<co2.jpg, id=402, 2360.82pt x 1026.83624pt>
+File: co2.jpg Graphic file (type jpg)
+<use co2.jpg>
+Package luatex.def Info: co2.jpg  used on input line 467.
+(luatex.def)             Requested size: 496.85625pt x 216.09634pt.
+<ice.jpg, id=407, 2359.81625pt x 1030.85126pt>
+File: ice.jpg Graphic file (type jpg)
+<use ice.jpg>
+Package luatex.def Info: ice.jpg  used on input line 476.
+(luatex.def)             Requested size: 496.85625pt x 217.03568pt.
+ [16
+
+
+<./wave.jpg><./star-stone.jpg>] [17<./deepsea.jpg>] [18<./sealevel.jpeg>] [19<./
+co2.jpg><./ice.jpg>] (./1burmese41.bbl
+Underfull \hbox (badness 1552) in paragraph at lines 45--50
+[]\TU/NotoSerif(0)/m/n/9 U. R. Chris-tensen.  Geo-dy-namo mod-els: Tools
+ []
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 52--55
+[]\TU/NotoSerif(0)/m/n/9 Cli-mate Change In-sti-tute, Uni-ver-sity of Maine.
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 77--83
+[]\TU/NotoSerif(0)/m/n/9 D. G. Des-bruyères, S. G. Purkey, E. L. Mc-Don-
+ []
+
+
+Underfull \hbox (badness 4156) in paragraph at lines 77--83
+\TU/NotoSerif(0)/m/n/9 abyssal ocean warm-ing from 35 years of re-
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 102--105
+[]\TU/NotoSerif(0)/m/n/9 A. Emery.  Un-lock-ing ice-flow path-ways us-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--143
+\TU/NotoSerif(0)/m/n/9 science-forum/mystery-mammoth-and-
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 152--157
+[]\TU/NotoSerif(0)/m/n/9 F. Jose-phus.  \TU/NotoSerif(0)/m/it/9 An-tiq-ui-ties 
+of the Jews\TU/NotoSerif(0)/m/n/9 .  Project
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
+[]\TU/NotoSerif(0)/m/n/9 Junho.  Ecdo kmls.  []$\TU/pcr/m/n/9 https://github.com
+/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
+\TU/pcr/m/n/9 sovrynn/ecdo/tree/master/5-[]TOOLS-[]DEV/dev/
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 172--175
+[]\TU/NotoSerif(0)/m/n/9 Junho.  Ecdo github re-search repos-i-tory, 2024.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+[]\TU/NotoSerif(0)/m/n/9 Junho.  Egypt cat-a-clysm chronol-ogy, 2025.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+\TU/NotoSerif(0)/m/n/9 https://github.com/sovrynn/ecdo/tree/mas-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+\TU/NotoSerif(0)/m/n/9 ter/1-EVIDENCE/cataclysm-chronology/middle-
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 188--192
+[]\TU/NotoSerif(0)/m/n/9 D. Kout-soyian-nis, N. Ma-mas-sis, A. Ef-s-tra-tiadis,
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 194--198
+[]\TU/NotoSerif(0)/m/n/9 C. Laj, C. Kissel, and A. P. Roberts.  Ge-o-mag-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--205
+\TU/NotoSerif(0)/m/n/9 globally-averaged co2 de-ter-mined from noaa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--205
+\TU/NotoSerif(0)/m/n/9 global mon-i-tor-ing lab-o-ra-tory mea-sure-ments.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--205
+[]$\TU/pcr/m/n/9 https://gml.noaa.gov/ccgg/trends/gl_data.html$[]\TU/NotoSerif(
+0)/m/n/9 ,
+ []
+
+[20
+
+
+]
+Underfull \hbox (badness 2865) in paragraph at lines 207--213
+\TU/NotoSerif(0)/m/n/9 son, M. Fin-layson, T. Gum-bricht, L. Hi-lar-ides,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--235
+[]$\TU/pcr/m/n/9 https://www.djmcadam.com/scheme-[]peruvian.html$[]\TU/NotoSeri
+f(0)/m/n/9 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--334
+[]\TU/NotoSerif(0)/m/n/9 T. E. Skep-tic.  Exother-mic core-mantle de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--334
+\TU/NotoSerif(0)/m/n/9 cou-pling – dzhanibekov os-cil-la-tion (ecdo)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--334
+\TU/NotoSerif(0)/m/n/9 hy-poth-e-sis, 2024.  https://theeth-i-calskep-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--334
+\TU/NotoSerif(0)/m/n/9 tic.com/2024/05/12/exothermic-core-mantle-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--334
+\TU/NotoSerif(0)/m/n/9 decoupling-dzhanibekov-oscillation-ecdo-
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 336--339
+[]\TU/NotoSerif(0)/m/n/9 T. E. Skep-tic.  Hid-den in plain sight, 2024.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--339
+\TU/NotoSerif(0)/m/n/9 https://theeth-i-calskep-tic.com/2023/12/18/hidden-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--346
+[]\TU/NotoSerif(0)/m/n/9 T. E. Skep-tic.  Mas-ter exother-mic core-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--346
+\TU/NotoSerif(0)/m/n/9 mantle de-cou-pling – dzhanibekov os-cil-la-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--346
+\TU/NotoSerif(0)/m/n/9 (ecdo) the-ory, 2024.  https://theeth-i-calskep-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--346
+\TU/NotoSerif(0)/m/n/9 tic.com/2024/05/23/master-exothermic-core-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--346
+\TU/NotoSerif(0)/m/n/9 mantle-decoupling-dzhanibekov-oscillation-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--354
+[]\TU/NotoSerif(0)/m/n/9 sovrynn.  Evolv-ing con-cepts in dis-tributed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--354
+\TU/NotoSerif(0)/m/n/9 or-ga-ni-za-tions: Foun-da-tion the-ory.  []$\TU/pcr/m/n
+/9 https:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--354
+\TU/pcr/m/n/9 //github.com/sovrynn/ecdo/tree/master/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--354
+\TU/pcr/m/n/9 0-[]FOUNDATION-[]THEORY/s2#duration$[]\TU/NotoSerif(0)/m/n/9 , 202
+5.
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 367--371
+[]\TU/NotoSerif(0)/m/n/9 M. Staub-wasser and H. Weiss.  Holocene cli-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--371
+\TU/NotoSerif(0)/m/n/9 mate and cul-tural evo-lu-tion in late pre-his-
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 367--371
+\TU/NotoSerif(0)/m/n/9 toric–early his-toric west asia.  \TU/NotoSerif(0)/m/i
+t/9 Qua-ter-nary Re-
+ []
+
+[21]
+Underfull \hbox (badness 4156) in paragraph at lines 411--416
+[]\TU/NotoSerif(0)/m/n/9 Z. Wang.  A crit-i-cal anal-y-sis of the role of
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 436--439
+[]\TU/NotoSerif(0)/m/n/9 Wik-i-books.  Chi-nese sto-ries/nüwa.  []$\TU/pcr/m/n
+/9 https://en.
+ []
+
+
+Underfull \hbox (badness 4967) in paragraph at lines 446--449
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia.  Great pyra-mid of giza.  []$\TU/pcr/m/n/9 
+https:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--449
+\TU/pcr/m/n/9 //en.wikipedia.org/wiki/Great_Pyramid_of_Giza#
+ []
+
+) [22
+
+] (./1burmese41.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+)
+
+Here is how much of LuaTeX's memory you used:
+ 14844 strings out of 476553
+ 305298,1977958 words of node,token memory allocated
+ 13112 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 2500 kern, 1 glyph, 33 attribute, 54 glue_s
+pec, 18 attribute_list, 1 write, 10 pdf_action nodes
+   avail lists: 1:3,2:15302,3:634,4:148,5:953,6:67,7:18669,8:76,9:523,10:58,11:6
+430
+ 36346 multiletter control sequences out of 65536+600000
+ 114 fonts using 23749415 bytes
+ 80i,9n,97p,7604b,539s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/fonts/truetype/noto/NotoSerif-BoldItalic.ttf></usr/share/fonts/truet
+ype/noto/NotoSerif-Italic.ttf></usr/share/texmf/fonts/opentype/public/lm/lmroman
+9-regular.otf></usr/share/texlive/texmf-dist/fonts/truetype/public/padauk/Padauk
+-Regular.ttf></usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf></usr/share/t
+exlive/texmf-dist/fonts/truetype/public/padauk/Padauk-Bold.ttf></usr/share/fonts
+/truetype/noto/NotoSerif-Bold.ttf></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsy6.pfb>
+Output written on 1burmese41.pdf (22 pages, 7322687 bytes).
+
+PDF statistics: 542 PDF objects out of 1000 (max. 8388607)
+ 437 compressed objects within 5 object streams
+ 148 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+

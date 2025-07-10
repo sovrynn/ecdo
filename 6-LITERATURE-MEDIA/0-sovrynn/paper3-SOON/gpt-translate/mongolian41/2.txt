@@ -1,0 +1,10 @@
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\cvprfinalcopy % *** Энэ мөрийг эцсийн хувилбарт тайлбарлаарай
+
+\def\cvprPaperID{****} % *** CVPR өгүүллийн ID-г энд оруулна уу

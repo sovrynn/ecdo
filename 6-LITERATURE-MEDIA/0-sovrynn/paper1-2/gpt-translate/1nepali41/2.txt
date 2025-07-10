@@ -1,0 +1,10 @@
+\usepackage{times}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\cvprfinalcopy % *** अन्तिम पेशका लागि यो लाइन अनकमेण्ट गर्नुहोस्

@@ -1,0 +1,1694 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./1thaitranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 85.
+
+(./1thaitranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 98.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 98.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 99.
+
+
+LaTeX Warning: Citation `0' on page 1 undefined on input line 100.
+
+
+LaTeX Warning: Citation `1' on page 1 undefined on input line 100.
+
+
+LaTeX Warning: Citation `2' on page 1 undefined on input line 102.
+
+
+LaTeX Warning: Citation `20' on page 1 undefined on input line 102.
+
+
+LaTeX Warning: Citation `3' on page 1 undefined on input line 118.
+
+
+LaTeX Warning: Citation `3' on page 1 undefined on input line 125.
+
+
+LaTeX Warning: Citation `4' on page 1 undefined on input line 135.
+
+
+LaTeX Warning: Citation `3' on page 1 undefined on input line 136.
+
+[1]
+
+LaTeX Warning: Citation `3' on page 2 undefined on input line 138.
+
+
+LaTeX Warning: Citation `6' on page 2 undefined on input line 142.
+
+
+LaTeX Warning: Citation `5' on page 2 undefined on input line 142.
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 142--143
+[]\TU/FreeSerif(0)/m/n/10 อีก ฟาก ฝั่ง หนึ่ง ของ มหาสมุทร แปซิฟิก มี การ กล่าว 
+ว่า ระดับ
+
+LaTeX Warning: Citation `5' on page 2 undefined on input line 144.
+
+
+LaTeX Warning: Citation `7' on page 2 undefined on input line 146.
+
+
+LaTeX Warning: Citation `8' on page 2 undefined on input line 146.
+
+
+LaTeX Warning: Citation `9' on page 2 undefined on input line 150.
+
+
+LaTeX Warning: Citation `10' on page 2 undefined on input line 150.
+
+
+LaTeX Warning: Citation `11' on page 2 undefined on input line 150.
+
+
+LaTeX Warning: Citation `12' on page 2 undefined on input line 150.
+
+
+LaTeX Warning: Citation `13' on page 2 undefined on input line 150.
+
+
+LaTeX Warning: Citation `3' on page 2 undefined on input line 150.
+
+[2]
+
+LaTeX Warning: Citation `15' on page 3 undefined on input line 157.
+
+
+LaTeX Warning: Citation `16' on page 3 undefined on input line 157.
+
+
+LaTeX Warning: Citation `86' on page 3 undefined on input line 157.
+
+
+LaTeX Warning: Citation `87' on page 3 undefined on input line 157.
+
+
+LaTeX Warning: Citation `14' on page 3 undefined on input line 163.
+
+
+Overfull \hbox (69.2541pt too wide) in paragraph at lines 168--184
+ [] 
+
+Underfull \hbox (badness 6063) in paragraph at lines 191--191
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/FreeSerif(0)/b/n/12 หลัก ฐาน ทาง กายภาพ
+ สำหรับ น้ำ ท่วม จาก
+
+LaTeX Warning: Citation `15' on page 3 undefined on input line 193.
+
+
+LaTeX Warning: Citation `16' on page 3 undefined on input line 193.
+
+
+LaTeX Warning: Citation `86' on page 3 undefined on input line 193.
+
+
+LaTeX Warning: Citation `87' on page 3 undefined on input line 193.
+
+
+LaTeX Warning: Citation `3' on page 3 undefined on input line 194.
+
+
+LaTeX Warning: Citation `3' on page 3 undefined on input line 195.
+
+
+Underfull \vbox (badness 1057) has occurred while \output is active [3]
+
+LaTeX Warning: Citation `15' on page 4 undefined on input line 202.
+
+
+LaTeX Warning: Citation `16' on page 4 undefined on input line 202.
+
+
+LaTeX Warning: Citation `86' on page 4 undefined on input line 202.
+
+
+LaTeX Warning: Citation `87' on page 4 undefined on input line 202.
+
+
+LaTeX Warning: Citation `15' on page 4 undefined on input line 202.
+
+
+LaTeX Warning: Citation `16' on page 4 undefined on input line 202.
+
+
+LaTeX Warning: Citation `86' on page 4 undefined on input line 202.
+
+
+LaTeX Warning: Citation `87' on page 4 undefined on input line 202.
+
+
+LaTeX Warning: Citation `27' on page 4 undefined on input line 213.
+
+
+LaTeX Warning: Citation `17' on page 4 undefined on input line 220.
+
+
+LaTeX Warning: Citation `18' on page 4 undefined on input line 220.
+
+
+LaTeX Warning: Citation `19' on page 4 undefined on input line 220.
+
+
+LaTeX Warning: Citation `21' on page 4 undefined on input line 220.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 220.
+
+
+LaTeX Warning: Citation `23' on page 4 undefined on input line 220.
+
+
+LaTeX Warning: Citation `26' on page 4 undefined on input line 220.
+
+
+LaTeX Warning: Citation `35' on page 4 undefined on input line 222.
+
+
+LaTeX Warning: Citation `40' on page 4 undefined on input line 222.
+
+
+LaTeX Warning: Citation `41' on page 4 undefined on input line 222.
+
+
+LaTeX Warning: Citation `27' on page 4 undefined on input line 226.
+
+
+LaTeX Warning: Citation `24' on page 4 undefined on input line 226.
+
+
+LaTeX Warning: Citation `25' on page 4 undefined on input line 226.
+
+
+LaTeX Warning: Citation `28' on page 4 undefined on input line 242.
+
+
+LaTeX Warning: Citation `28' on page 4 undefined on input line 242.
+
+
+LaTeX Warning: Citation `27' on page 4 undefined on input line 246.
+
+[4]
+
+LaTeX Warning: Text page 5 contains only floats.
+
+
+Overfull \vbox (13.16158pt too high) has occurred while \output is active
+
+LaTeX Warning: Text page 5 contains only floats.
+
+
+Overfull \vbox (13.16158pt too high) has occurred while \output is active
+[5]
+
+LaTeX Warning: Citation `28' on page 6 undefined on input line 256.
+
+
+LaTeX Warning: Citation `29' on page 6 undefined on input line 256.
+
+
+LaTeX Warning: Citation `30' on page 6 undefined on input line 256.
+
+
+LaTeX Warning: Citation `28' on page 6 undefined on input line 260.
+
+
+LaTeX Warning: Citation `150' on page 6 undefined on input line 264.
+
+
+LaTeX Warning: Citation `31' on page 6 undefined on input line 266.
+
+
+LaTeX Warning: Citation `32' on page 6 undefined on input line 266.
+
+
+LaTeX Warning: Citation `32' on page 6 undefined on input line 266.
+
+
+LaTeX Warning: Citation `33' on page 6 undefined on input line 266.
+
+
+LaTeX Warning: Citation `34' on page 6 undefined on input line 266.
+
+
+LaTeX Warning: Citation `8' on page 6 undefined on input line 270.
+
+
+Underfull \vbox (badness 1521) has occurred while \output is active [6]
+
+LaTeX Warning: Citation `35' on page 7 undefined on input line 275.
+
+
+LaTeX Warning: Citation `35' on page 7 undefined on input line 282.
+
+
+LaTeX Warning: Citation `35' on page 7 undefined on input line 282.
+
+
+LaTeX Warning: Citation `36' on page 7 undefined on input line 292.
+
+
+LaTeX Warning: Citation `28' on page 7 undefined on input line 303.
+
+
+LaTeX Warning: Citation `36' on page 7 undefined on input line 307.
+
+
+LaTeX Warning: Citation `28' on page 7 undefined on input line 309.
+
+
+LaTeX Warning: Citation `21' on page 7 undefined on input line 311.
+
+
+LaTeX Warning: Citation `67' on page 7 undefined on input line 311.
+
+
+LaTeX Warning: Citation `68' on page 7 undefined on input line 311.
+
+
+LaTeX Warning: Citation `28' on page 7 undefined on input line 319.
+
+
+LaTeX Warning: Citation `37' on page 7 undefined on input line 323.
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 323--324
+[]\TU/FreeSerif(0)/m/n/10 หลัก การ เบื้อง หลัง การ เปลี่ยนแปลง แกน หมุน ของ โลก
+ อย่าง
+[7]
+
+LaTeX Warning: Citation `141' on page 8 undefined on input line 327.
+
+
+LaTeX Warning: Citation `38' on page 8 undefined on input line 327.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Citation `129' on page 8 undefined on input line 334.
+
+
+LaTeX Warning: Citation `28' on page 8 undefined on input line 344.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [8]
+
+LaTeX Warning: Citation `125' on page 9 undefined on input line 355.
+
+
+LaTeX Warning: Citation `126' on page 9 undefined on input line 355.
+
+
+LaTeX Warning: Citation `124' on page 9 undefined on input line 357.
+
+
+LaTeX Warning: Citation `125' on page 9 undefined on input line 364.
+
+
+LaTeX Warning: Citation `126' on page 9 undefined on input line 364.
+
+
+LaTeX Warning: Citation `142' on page 9 undefined on input line 374.
+
+
+LaTeX Warning: Citation `142' on page 9 undefined on input line 374.
+
+
+LaTeX Warning: Citation `132' on page 9 undefined on input line 384.
+
+
+LaTeX Warning: Citation `132' on page 9 undefined on input line 384.
+
+
+LaTeX Warning: Citation `123' on page 9 undefined on input line 389.
+
+
+LaTeX Warning: Citation `1' on page 9 undefined on input line 389.
+
+
+LaTeX Warning: Citation `127' on page 9 undefined on input line 391.
+
+
+LaTeX Warning: Citation `128' on page 9 undefined on input line 391.
+
+
+LaTeX Warning: Citation `129' on page 9 undefined on input line 391.
+
+
+LaTeX Warning: Citation `130' on page 9 undefined on input line 391.
+
+
+LaTeX Warning: Citation `131' on page 9 undefined on input line 391.
+
+
+LaTeX Warning: Citation `129' on page 9 undefined on input line 391.
+
+[9]
+
+LaTeX Warning: Citation `132' on page 10 undefined on input line 393.
+
+
+LaTeX Warning: Citation `129' on page 10 undefined on input line 393.
+
+
+LaTeX Warning: Citation `132' on page 10 undefined on input line 393.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [10]
+
+LaTeX Warning: Citation `125' on page 11 undefined on input line 401.
+
+
+LaTeX Warning: Citation `126' on page 11 undefined on input line 401.
+
+
+LaTeX Warning: Citation `125' on page 11 undefined on input line 401.
+
+
+LaTeX Warning: Citation `126' on page 11 undefined on input line 401.
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 401--401
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 16. []\TU/FreeSerif(0)/m/n/9 การ คำนวณ จ
+ุด พลิก ผัน โดย อิง จาก\TU/LatinModernRoman(0)/m/n/9 South Atlantic
+
+LaTeX Warning: Citation `135' on page 11 undefined on input line 406.
+
+
+LaTeX Warning: Citation `136' on page 11 undefined on input line 406.
+
+
+LaTeX Warning: Citation `136' on page 11 undefined on input line 408.
+
+
+LaTeX Warning: Citation `32' on page 11 undefined on input line 413.
+
+
+LaTeX Warning: Citation `111' on page 11 undefined on input line 413.
+
+
+LaTeX Warning: Citation `112' on page 11 undefined on input line 413.
+
+
+LaTeX Warning: Citation `2' on page 11 undefined on input line 413.
+
+
+LaTeX Warning: Citation `113' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `114' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `115' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `116' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `117' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `118' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `119' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `120' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `121' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `100' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `101' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `122' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `90' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `137' on page 11 undefined on input line 419.
+
+
+LaTeX Warning: Citation `138' on page 11 undefined on input line 419.
+
+
+LaTeX Warning: Citation `139' on page 11 undefined on input line 419.
+
+
+LaTeX Warning: Citation `138' on page 11 undefined on input line 421.
+
+
+LaTeX Warning: Citation `139' on page 11 undefined on input line 421.
+
+[11]
+
+LaTeX Warning: Citation `140' on page 12 undefined on input line 425.
+
+
+Underfull \vbox (badness 6284) has occurred while \output is active
+Underfull \vbox (badness 1983) has occurred while \output is active [12]
+
+LaTeX Warning: Citation `1' on page 13 undefined on input line 431.
+
+[13]
+
+LaTeX Warning: Citation `27' on page 14 undefined on input line 445.
+
+
+LaTeX Warning: Citation `27' on page 14 undefined on input line 445.
+
+
+LaTeX Warning: Citation `28' on page 14 undefined on input line 454.
+
+
+LaTeX Warning: Citation `28' on page 14 undefined on input line 454.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Citation `147' on page 14 undefined on input line 464.
+
+
+LaTeX Warning: Citation `132' on page 14 undefined on input line 464.
+
+
+LaTeX Warning: Citation `129' on page 14 undefined on input line 464.
+
+
+LaTeX Warning: Citation `147' on page 14 undefined on input line 464.
+
+
+LaTeX Warning: Citation `132' on page 14 undefined on input line 464.
+
+
+LaTeX Warning: Citation `129' on page 14 undefined on input line 464.
+
+
+LaTeX Warning: Citation `2' on page 14 undefined on input line 472.
+
+
+LaTeX Warning: Citation `129' on page 14 undefined on input line 472.
+
+
+LaTeX Warning: Citation `2' on page 14 undefined on input line 472.
+
+
+LaTeX Warning: Citation `129' on page 14 undefined on input line 472.
+
+
+LaTeX Warning: Citation `148' on page 14 undefined on input line 481.
+
+
+LaTeX Warning: Citation `129' on page 14 undefined on input line 481.
+
+
+LaTeX Warning: Citation `148' on page 14 undefined on input line 481.
+
+
+LaTeX Warning: Citation `129' on page 14 undefined on input line 481.
+
+
+LaTeX Warning: Citation `149' on page 14 undefined on input line 490.
+
+[14] [15] [16] [17] (./1thaitranslated.bbl) (./1thaitranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on 1thaitranslated.pdf (17 pages).
+Transcript written on 1thaitranslated.log.
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+The top-level auxiliary file: 1thaitranslated.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "15" isn't style-file defined
+--line 120 of file egbib.bib
+Warning--entry type for "135" isn't style-file defined
+--line 1249 of file egbib.bib
+Warning--entry type for "147" isn't style-file defined
+--line 1362 of file egbib.bib
+Warning--to sort, need author or key in 114
+Name 1 in "Jun," has a comma at the end for entry 121
+while executing---line 1072 of file ieee.bst
+Warning--empty journal in 7
+Warning--empty publisher in 13
+Name 1 in "Jun," has a comma at the end for entry 121
+while executing---line 1115 of file ieee.bst
+Warning--empty publisher in 10
+Warning--empty publisher in 9
+(There were 2 error messages)
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./1thaitranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 85.
+
+(./1thaitranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 98.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 98.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 99.
+
+
+LaTeX Warning: Citation `0' on page 1 undefined on input line 100.
+
+
+LaTeX Warning: Citation `1' on page 1 undefined on input line 100.
+
+
+LaTeX Warning: Citation `2' on page 1 undefined on input line 102.
+
+
+LaTeX Warning: Citation `20' on page 1 undefined on input line 102.
+
+
+LaTeX Warning: Citation `3' on page 1 undefined on input line 118.
+
+
+LaTeX Warning: Citation `3' on page 1 undefined on input line 125.
+
+
+LaTeX Warning: Citation `4' on page 1 undefined on input line 135.
+
+
+LaTeX Warning: Citation `3' on page 1 undefined on input line 136.
+
+[1]
+
+LaTeX Warning: Citation `3' on page 2 undefined on input line 138.
+
+
+LaTeX Warning: Citation `6' on page 2 undefined on input line 142.
+
+
+LaTeX Warning: Citation `5' on page 2 undefined on input line 142.
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 142--143
+[]\TU/FreeSerif(0)/m/n/10 อีก ฟาก ฝั่ง หนึ่ง ของ มหาสมุทร แปซิฟิก มี การ กล่าว 
+ว่า ระดับ
+
+LaTeX Warning: Citation `5' on page 2 undefined on input line 144.
+
+
+LaTeX Warning: Citation `7' on page 2 undefined on input line 146.
+
+
+LaTeX Warning: Citation `8' on page 2 undefined on input line 146.
+
+
+LaTeX Warning: Citation `9' on page 2 undefined on input line 150.
+
+
+LaTeX Warning: Citation `10' on page 2 undefined on input line 150.
+
+
+LaTeX Warning: Citation `11' on page 2 undefined on input line 150.
+
+
+LaTeX Warning: Citation `12' on page 2 undefined on input line 150.
+
+
+LaTeX Warning: Citation `13' on page 2 undefined on input line 150.
+
+
+LaTeX Warning: Citation `3' on page 2 undefined on input line 150.
+
+[2]
+
+LaTeX Warning: Citation `15' on page 3 undefined on input line 157.
+
+
+LaTeX Warning: Citation `16' on page 3 undefined on input line 157.
+
+
+LaTeX Warning: Citation `86' on page 3 undefined on input line 157.
+
+
+LaTeX Warning: Citation `87' on page 3 undefined on input line 157.
+
+
+LaTeX Warning: Citation `14' on page 3 undefined on input line 163.
+
+
+Overfull \hbox (69.2541pt too wide) in paragraph at lines 168--184
+ [] 
+
+Underfull \hbox (badness 6063) in paragraph at lines 191--191
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/FreeSerif(0)/b/n/12 หลัก ฐาน ทาง กายภาพ
+ สำหรับ น้ำ ท่วม จาก
+
+LaTeX Warning: Citation `15' on page 3 undefined on input line 193.
+
+
+LaTeX Warning: Citation `16' on page 3 undefined on input line 193.
+
+
+LaTeX Warning: Citation `86' on page 3 undefined on input line 193.
+
+
+LaTeX Warning: Citation `87' on page 3 undefined on input line 193.
+
+
+LaTeX Warning: Citation `3' on page 3 undefined on input line 194.
+
+
+LaTeX Warning: Citation `3' on page 3 undefined on input line 195.
+
+
+Underfull \vbox (badness 1057) has occurred while \output is active [3]
+
+LaTeX Warning: Citation `15' on page 4 undefined on input line 202.
+
+
+LaTeX Warning: Citation `16' on page 4 undefined on input line 202.
+
+
+LaTeX Warning: Citation `86' on page 4 undefined on input line 202.
+
+
+LaTeX Warning: Citation `87' on page 4 undefined on input line 202.
+
+
+LaTeX Warning: Citation `15' on page 4 undefined on input line 202.
+
+
+LaTeX Warning: Citation `16' on page 4 undefined on input line 202.
+
+
+LaTeX Warning: Citation `86' on page 4 undefined on input line 202.
+
+
+LaTeX Warning: Citation `87' on page 4 undefined on input line 202.
+
+
+LaTeX Warning: Citation `27' on page 4 undefined on input line 213.
+
+
+LaTeX Warning: Citation `17' on page 4 undefined on input line 220.
+
+
+LaTeX Warning: Citation `18' on page 4 undefined on input line 220.
+
+
+LaTeX Warning: Citation `19' on page 4 undefined on input line 220.
+
+
+LaTeX Warning: Citation `21' on page 4 undefined on input line 220.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 220.
+
+
+LaTeX Warning: Citation `23' on page 4 undefined on input line 220.
+
+
+LaTeX Warning: Citation `26' on page 4 undefined on input line 220.
+
+
+LaTeX Warning: Citation `35' on page 4 undefined on input line 222.
+
+
+LaTeX Warning: Citation `40' on page 4 undefined on input line 222.
+
+
+LaTeX Warning: Citation `41' on page 4 undefined on input line 222.
+
+
+LaTeX Warning: Citation `27' on page 4 undefined on input line 226.
+
+
+LaTeX Warning: Citation `24' on page 4 undefined on input line 226.
+
+
+LaTeX Warning: Citation `25' on page 4 undefined on input line 226.
+
+
+LaTeX Warning: Citation `28' on page 4 undefined on input line 242.
+
+
+LaTeX Warning: Citation `28' on page 4 undefined on input line 242.
+
+
+LaTeX Warning: Citation `27' on page 4 undefined on input line 246.
+
+[4]
+
+LaTeX Warning: Text page 5 contains only floats.
+
+
+Overfull \vbox (13.16158pt too high) has occurred while \output is active
+
+LaTeX Warning: Text page 5 contains only floats.
+
+
+Overfull \vbox (13.16158pt too high) has occurred while \output is active
+[5]
+
+LaTeX Warning: Citation `28' on page 6 undefined on input line 256.
+
+
+LaTeX Warning: Citation `29' on page 6 undefined on input line 256.
+
+
+LaTeX Warning: Citation `30' on page 6 undefined on input line 256.
+
+
+LaTeX Warning: Citation `28' on page 6 undefined on input line 260.
+
+
+LaTeX Warning: Citation `150' on page 6 undefined on input line 264.
+
+
+LaTeX Warning: Citation `31' on page 6 undefined on input line 266.
+
+
+LaTeX Warning: Citation `32' on page 6 undefined on input line 266.
+
+
+LaTeX Warning: Citation `32' on page 6 undefined on input line 266.
+
+
+LaTeX Warning: Citation `33' on page 6 undefined on input line 266.
+
+
+LaTeX Warning: Citation `34' on page 6 undefined on input line 266.
+
+
+LaTeX Warning: Citation `8' on page 6 undefined on input line 270.
+
+
+Underfull \vbox (badness 1521) has occurred while \output is active [6]
+
+LaTeX Warning: Citation `35' on page 7 undefined on input line 275.
+
+
+LaTeX Warning: Citation `35' on page 7 undefined on input line 282.
+
+
+LaTeX Warning: Citation `35' on page 7 undefined on input line 282.
+
+
+LaTeX Warning: Citation `36' on page 7 undefined on input line 292.
+
+
+LaTeX Warning: Citation `28' on page 7 undefined on input line 303.
+
+
+LaTeX Warning: Citation `36' on page 7 undefined on input line 307.
+
+
+LaTeX Warning: Citation `28' on page 7 undefined on input line 309.
+
+
+LaTeX Warning: Citation `21' on page 7 undefined on input line 311.
+
+
+LaTeX Warning: Citation `67' on page 7 undefined on input line 311.
+
+
+LaTeX Warning: Citation `68' on page 7 undefined on input line 311.
+
+
+LaTeX Warning: Citation `28' on page 7 undefined on input line 319.
+
+
+LaTeX Warning: Citation `37' on page 7 undefined on input line 323.
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 323--324
+[]\TU/FreeSerif(0)/m/n/10 หลัก การ เบื้อง หลัง การ เปลี่ยนแปลง แกน หมุน ของ โลก
+ อย่าง
+[7]
+
+LaTeX Warning: Citation `141' on page 8 undefined on input line 327.
+
+
+LaTeX Warning: Citation `38' on page 8 undefined on input line 327.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Citation `129' on page 8 undefined on input line 334.
+
+
+LaTeX Warning: Citation `28' on page 8 undefined on input line 344.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [8]
+
+LaTeX Warning: Citation `125' on page 9 undefined on input line 355.
+
+
+LaTeX Warning: Citation `126' on page 9 undefined on input line 355.
+
+
+LaTeX Warning: Citation `124' on page 9 undefined on input line 357.
+
+
+LaTeX Warning: Citation `125' on page 9 undefined on input line 364.
+
+
+LaTeX Warning: Citation `126' on page 9 undefined on input line 364.
+
+
+LaTeX Warning: Citation `142' on page 9 undefined on input line 374.
+
+
+LaTeX Warning: Citation `142' on page 9 undefined on input line 374.
+
+
+LaTeX Warning: Citation `132' on page 9 undefined on input line 384.
+
+
+LaTeX Warning: Citation `132' on page 9 undefined on input line 384.
+
+
+LaTeX Warning: Citation `123' on page 9 undefined on input line 389.
+
+
+LaTeX Warning: Citation `1' on page 9 undefined on input line 389.
+
+
+LaTeX Warning: Citation `127' on page 9 undefined on input line 391.
+
+
+LaTeX Warning: Citation `128' on page 9 undefined on input line 391.
+
+
+LaTeX Warning: Citation `129' on page 9 undefined on input line 391.
+
+
+LaTeX Warning: Citation `130' on page 9 undefined on input line 391.
+
+
+LaTeX Warning: Citation `131' on page 9 undefined on input line 391.
+
+
+LaTeX Warning: Citation `129' on page 9 undefined on input line 391.
+
+[9]
+
+LaTeX Warning: Citation `132' on page 10 undefined on input line 393.
+
+
+LaTeX Warning: Citation `129' on page 10 undefined on input line 393.
+
+
+LaTeX Warning: Citation `132' on page 10 undefined on input line 393.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [10]
+
+LaTeX Warning: Citation `125' on page 11 undefined on input line 401.
+
+
+LaTeX Warning: Citation `126' on page 11 undefined on input line 401.
+
+
+LaTeX Warning: Citation `125' on page 11 undefined on input line 401.
+
+
+LaTeX Warning: Citation `126' on page 11 undefined on input line 401.
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 401--401
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 16. []\TU/FreeSerif(0)/m/n/9 การ คำนวณ จ
+ุด พลิก ผัน โดย อิง จาก\TU/LatinModernRoman(0)/m/n/9 South Atlantic
+
+LaTeX Warning: Citation `135' on page 11 undefined on input line 406.
+
+
+LaTeX Warning: Citation `136' on page 11 undefined on input line 406.
+
+
+LaTeX Warning: Citation `136' on page 11 undefined on input line 408.
+
+
+LaTeX Warning: Citation `32' on page 11 undefined on input line 413.
+
+
+LaTeX Warning: Citation `111' on page 11 undefined on input line 413.
+
+
+LaTeX Warning: Citation `112' on page 11 undefined on input line 413.
+
+
+LaTeX Warning: Citation `2' on page 11 undefined on input line 413.
+
+
+LaTeX Warning: Citation `113' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `114' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `115' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `116' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `117' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `118' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `119' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `120' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `121' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `100' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `101' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `122' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `90' on page 11 undefined on input line 415.
+
+
+LaTeX Warning: Citation `137' on page 11 undefined on input line 419.
+
+
+LaTeX Warning: Citation `138' on page 11 undefined on input line 419.
+
+
+LaTeX Warning: Citation `139' on page 11 undefined on input line 419.
+
+
+LaTeX Warning: Citation `138' on page 11 undefined on input line 421.
+
+
+LaTeX Warning: Citation `139' on page 11 undefined on input line 421.
+
+[11]
+
+LaTeX Warning: Citation `140' on page 12 undefined on input line 425.
+
+
+Underfull \vbox (badness 6284) has occurred while \output is active
+Underfull \vbox (badness 1983) has occurred while \output is active [12]
+
+LaTeX Warning: Citation `1' on page 13 undefined on input line 431.
+
+[13]
+
+LaTeX Warning: Citation `27' on page 14 undefined on input line 445.
+
+
+LaTeX Warning: Citation `27' on page 14 undefined on input line 445.
+
+
+LaTeX Warning: Citation `28' on page 14 undefined on input line 454.
+
+
+LaTeX Warning: Citation `28' on page 14 undefined on input line 454.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Citation `147' on page 14 undefined on input line 464.
+
+
+LaTeX Warning: Citation `132' on page 14 undefined on input line 464.
+
+
+LaTeX Warning: Citation `129' on page 14 undefined on input line 464.
+
+
+LaTeX Warning: Citation `147' on page 14 undefined on input line 464.
+
+
+LaTeX Warning: Citation `132' on page 14 undefined on input line 464.
+
+
+LaTeX Warning: Citation `129' on page 14 undefined on input line 464.
+
+
+LaTeX Warning: Citation `2' on page 14 undefined on input line 472.
+
+
+LaTeX Warning: Citation `129' on page 14 undefined on input line 472.
+
+
+LaTeX Warning: Citation `2' on page 14 undefined on input line 472.
+
+
+LaTeX Warning: Citation `129' on page 14 undefined on input line 472.
+
+
+LaTeX Warning: Citation `148' on page 14 undefined on input line 481.
+
+
+LaTeX Warning: Citation `129' on page 14 undefined on input line 481.
+
+
+LaTeX Warning: Citation `148' on page 14 undefined on input line 481.
+
+
+LaTeX Warning: Citation `129' on page 14 undefined on input line 481.
+
+
+LaTeX Warning: Citation `149' on page 14 undefined on input line 490.
+
+[14] [15] [16] [17] (./1thaitranslated.bbl
+Underfull \hbox (badness 1383) in paragraph at lines 27--33
+\TU/LatinModernRoman(0)/m/n/9 Cruz, M. Deininger, A. Sifeddine, L. Bouchaou,
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Ecdo kmls.  []$[][][][][] [] [] [] [][]
+[][][][] [] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
+[][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][
+][][] [] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Egypt cataclysm chronology, 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+\TU/LatinModernRoman(0)/m/n/9 https:// github.com/ sovrynn/ ecdo/ tree/ master/
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+\TU/LatinModernRoman(0)/m/n/9 1-EVIDENCE/ cataclysm-chronology/ middle-east/
+
+Underfull \hbox (badness 2073) in paragraph at lines 188--192
+[]\TU/LatinModernRoman(0)/m/n/9 D. Koutsoyiannis, N. Mamassis, A. Efstratiadis,
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 207--213
+\TU/LatinModernRoman(0)/m/n/9 son, M. Finlayson, T. Gumbricht, L. Hilarides,
+[18]
+Underfull \hbox (badness 1540) in paragraph at lines 231--234
+[]\TU/LatinModernRoman(0)/m/n/9 N. Maestri.  Chalchiuhtlicue - aztec goddess of
+
+
+Underfull \hbox (badness 4303) in paragraph at lines 277--280
+[]\TU/LatinModernRoman(0)/m/n/9 National Centers for Environmental Information
+
+Underfull \hbox (badness 4303) in paragraph at lines 282--285
+[]\TU/LatinModernRoman(0)/m/n/9 National Centers for Environmental Information
+
+Underfull \hbox (badness 4303) in paragraph at lines 287--290
+[]\TU/LatinModernRoman(0)/m/n/9 National Centers for Environmental Information
+
+Underfull \hbox (badness 4647) in paragraph at lines 308--315
+[]\TU/LatinModernRoman(0)/m/n/9 Plato.  \TU/LatinModernRoman(0)/m/it/9 Timaeus\
+TU/LatinModernRoman(0)/m/n/9 .  Harvard University Press;
+
+Underfull \hbox (badness 2197) in paragraph at lines 308--315
+\TU/LatinModernRoman(0)/m/n/9 Project under a Creative Commons Attribution-
+
+Underfull \hbox (badness 2529) in paragraph at lines 334--339
+[]\TU/LatinModernRoman(0)/m/n/9 T. E. Skeptic.  Exothermic core-mantle decou-
+
+Underfull \hbox (badness 2096) in paragraph at lines 334--339
+\TU/LatinModernRoman(0)/m/n/9 2024.  https:// theethicalskeptic.com/ 2024/05/12
+/
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 3281) in paragraph at lines 341--344
+[]\TU/LatinModernRoman(0)/m/n/9 T. E. Skeptic.  Hidden in plain sight, 2024.
+
+Underfull \hbox (badness 7631) in paragraph at lines 346--351
+\TU/LatinModernRoman(0)/m/n/9 https:// theethicalskeptic.com/ 2024/05/23/ maste
+r-
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--351
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--359
+[]\TU/LatinModernRoman(0)/m/n/9 sovrynn.  Evolving concepts in distributed
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--359
+\TU/LatinModernRoman(0)/m/n/9 organizations: Foundation theory.  []$[][][][][] 
+[]
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--359
+[] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] [][][][] [] [][][
+][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--359
+[][][][][][][][][][][][][][][][][][][][][] [] [][] [] [][][][][][][][]$[]\TU/La
+tinModernRoman(0)/m/n/9 , 2025.
+[19]
+Underfull \hbox (badness 1910) in paragraph at lines 441--444
+[]\TU/LatinModernRoman(0)/m/n/9 Wikibooks.  Chinese stories/ nüwa.  []$[][][][]
+[] [] [] [] [][] []
+
+Underfull \hbox (badness 4913) in paragraph at lines 451--454
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia.  Great pyramid of giza.  []$[][][][]
+[] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--454
+[] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][][] [] [][][][
+][][][] [] [][] [] [][][][] []
+) [20] (./1thaitranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on 1thaitranslated.pdf (20 pages).
+Transcript written on 1thaitranslated.log.
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./1thaitranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 85.
+
+(./1thaitranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 98.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 98.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 99.
+
+[1]
+Underfull \hbox (badness 1292) in paragraph at lines 142--143
+[]\TU/FreeSerif(0)/m/n/10 อีก ฟาก ฝั่ง หนึ่ง ของ มหาสมุทร แปซิฟิก มี การ กล่าว 
+ว่า ระดับ
+[2]
+Overfull \hbox (69.2541pt too wide) in paragraph at lines 168--184
+ [] 
+
+Underfull \hbox (badness 6063) in paragraph at lines 191--191
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/FreeSerif(0)/b/n/12 หลัก ฐาน ทาง กายภาพ
+ สำหรับ น้ำ ท่วม จาก
+
+Underfull \vbox (badness 1057) has occurred while \output is active [3]
+[4]
+
+LaTeX Warning: Text page 5 contains only floats.
+
+
+Overfull \vbox (13.16158pt too high) has occurred while \output is active
+
+LaTeX Warning: Text page 5 contains only floats.
+
+
+Overfull \vbox (13.16158pt too high) has occurred while \output is active
+[5]
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \vbox (badness 1796) has occurred while \output is active [6]
+Underfull \hbox (badness 1337) in paragraph at lines 323--324
+[]\TU/FreeSerif(0)/m/n/10 หลัก การ เบื้อง หลัง การ เปลี่ยนแปลง แกน หมุน ของ โลก
+ อย่าง
+[7]
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \vbox (badness 10000) has occurred while \output is active [8]
+[9]
+Underfull \hbox (badness 3492) in paragraph at lines 391--392
+[]\TU/FreeSerif(0)/m/n/10 มี ข้อมูล จำนวน มาก ที่ สนับสนุน การ มี อยู่ ของ กระบ
+วนการ
+
+Underfull \hbox (badness 1953) in paragraph at lines 391--392
+\TU/FreeSerif(0)/m/n/10 เกิด ความ ร้อน ภายใน โลก ข้อมูล เกี่ยว กับ โลก ร้อน ปรา
+กฏ ใน
+
+Underfull \vbox (badness 2409) has occurred while \output is active
+Underfull \vbox (badness 10000) has occurred while \output is active [10]
+Underfull \hbox (badness 1360) in paragraph at lines 401--401
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 16. []\TU/FreeSerif(0)/m/n/9 การ คำนวณ จ
+ุด พลิก ผัน โดย อิง จาก\TU/LatinModernRoman(0)/m/n/9 South Atlantic
+[11]
+Underfull \vbox (badness 10000) has occurred while \output is active [12]
+[13]
+Underfull \vbox (badness 10000) has occurred while \output is active [14]
+[15] [16] [17] (./1thaitranslated.bbl
+Underfull \hbox (badness 1383) in paragraph at lines 27--33
+\TU/LatinModernRoman(0)/m/n/9 Cruz, M. Deininger, A. Sifeddine, L. Bouchaou,
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Ecdo kmls.  []$[][][][][] [] [] [] [][]
+[][][][] [] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
+[][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][
+][][] [] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Egypt cataclysm chronology, 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+\TU/LatinModernRoman(0)/m/n/9 https:// github.com/ sovrynn/ ecdo/ tree/ master/
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+\TU/LatinModernRoman(0)/m/n/9 1-EVIDENCE/ cataclysm-chronology/ middle-east/
+
+Underfull \hbox (badness 2073) in paragraph at lines 188--192
+[]\TU/LatinModernRoman(0)/m/n/9 D. Koutsoyiannis, N. Mamassis, A. Efstratiadis,
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 207--213
+\TU/LatinModernRoman(0)/m/n/9 son, M. Finlayson, T. Gumbricht, L. Hilarides,
+[18]
+Underfull \hbox (badness 1540) in paragraph at lines 231--234
+[]\TU/LatinModernRoman(0)/m/n/9 N. Maestri.  Chalchiuhtlicue - aztec goddess of
+
+
+Underfull \hbox (badness 4303) in paragraph at lines 277--280
+[]\TU/LatinModernRoman(0)/m/n/9 National Centers for Environmental Information
+
+Underfull \hbox (badness 4303) in paragraph at lines 282--285
+[]\TU/LatinModernRoman(0)/m/n/9 National Centers for Environmental Information
+
+Underfull \hbox (badness 4303) in paragraph at lines 287--290
+[]\TU/LatinModernRoman(0)/m/n/9 National Centers for Environmental Information
+
+Underfull \hbox (badness 4647) in paragraph at lines 308--315
+[]\TU/LatinModernRoman(0)/m/n/9 Plato.  \TU/LatinModernRoman(0)/m/it/9 Timaeus\
+TU/LatinModernRoman(0)/m/n/9 .  Harvard University Press;
+
+Underfull \hbox (badness 2197) in paragraph at lines 308--315
+\TU/LatinModernRoman(0)/m/n/9 Project under a Creative Commons Attribution-
+
+Underfull \hbox (badness 2529) in paragraph at lines 334--339
+[]\TU/LatinModernRoman(0)/m/n/9 T. E. Skeptic.  Exothermic core-mantle decou-
+
+Underfull \hbox (badness 2096) in paragraph at lines 334--339
+\TU/LatinModernRoman(0)/m/n/9 2024.  https:// theethicalskeptic.com/ 2024/05/12
+/
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 3281) in paragraph at lines 341--344
+[]\TU/LatinModernRoman(0)/m/n/9 T. E. Skeptic.  Hidden in plain sight, 2024.
+
+Underfull \hbox (badness 7631) in paragraph at lines 346--351
+\TU/LatinModernRoman(0)/m/n/9 https:// theethicalskeptic.com/ 2024/05/23/ maste
+r-
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--351
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--359
+[]\TU/LatinModernRoman(0)/m/n/9 sovrynn.  Evolving concepts in distributed
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--359
+\TU/LatinModernRoman(0)/m/n/9 organizations: Foundation theory.  []$[][][][][] 
+[]
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--359
+[] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] [][][][] [] [][][
+][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--359
+[][][][][][][][][][][][][][][][][][][][][] [] [][] [] [][][][][][][][]$[]\TU/La
+tinModernRoman(0)/m/n/9 , 2025.
+[19]
+Underfull \hbox (badness 1910) in paragraph at lines 441--444
+[]\TU/LatinModernRoman(0)/m/n/9 Wikibooks.  Chinese stories/ nüwa.  []$[][][][]
+[] [] [] [] [][] []
+
+Underfull \hbox (badness 4913) in paragraph at lines 451--454
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia.  Great pyramid of giza.  []$[][][][]
+[] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--454
+[] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][][] [] [][][][
+][][][] [] [][] [] [][][][] []
+) [20] (./1thaitranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on 1thaitranslated.pdf (20 pages).
+Transcript written on 1thaitranslated.log.

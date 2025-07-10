@@ -1,0 +1,5 @@
+\usepackage{stfloats}  % यसलाई प्रस्तावनामा थप्नुहोस्
+\usepackage{float}
+\usepackage[T1]{fontenc}
+
+\usepackage{cvpr}

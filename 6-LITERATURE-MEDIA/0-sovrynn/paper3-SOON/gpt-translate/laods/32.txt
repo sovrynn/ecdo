@@ -1,0 +1,5 @@
+\end{center}
+   \caption{ການສະແດງຮູບພາບຂອງອຸໂມງຍ່ານໍ້າຢູ່ໃຕ້ນໍ້າ, ໂດຍ Walter Koerschner \cite{22,23}.}
+\label{fig:6}
+\label{fig:onecol}
+\end{figure}

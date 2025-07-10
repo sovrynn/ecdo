@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.6.25)  25 JUN 2025 23:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.6.27)  7 JUL 2025 06:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -574,13 +574,13 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip55
 )
-LaTeX Font Info:    Trying to load font information for T2A+ptm on input line 3
-2.
-LaTeX Font Info:    No file T2Aptm.fd. on input line 32.
+LaTeX Font Info:    Trying to load font information for T2A+ptm on input line 7
+1.
+LaTeX Font Info:    No file T2Aptm.fd. on input line 71.
 
 
 LaTeX Font Warning: Font shape `T2A/ptm/m/n' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 32.
+(Font)              using `T2A/cmr/m/n' instead on input line 71.
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
@@ -618,27 +618,27 @@ LaTeX Warning: Label `fig:onecol' multiply defined.
 )
 \openout1 = `russiantranslated.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Info: Redefining \th on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Info: Redefining \th on input line 71.
  ABD: EveryShipout initializing macros
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
@@ -671,144 +671,145 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 32.
+Package hyperref Info: Link coloring OFF on input line 71.
 
 
 LaTeX Font Warning: Font shape `T2A/ptm/b/n' undefined
-(Font)              using `T2A/ptm/m/n' instead on input line 44.
+(Font)              using `T2A/ptm/m/n' instead on input line 83.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 83.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 83.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for T2A+pcr on input line 4
-4.
-LaTeX Font Info:    No file T2Apcr.fd. on input line 44.
+LaTeX Font Info:    Trying to load font information for T2A+pcr on input line 8
+3.
+LaTeX Font Info:    No file T2Apcr.fd. on input line 83.
 
 
 LaTeX Font Warning: Font shape `T2A/pcr/m/n' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 44.
+(Font)              using `T2A/cmr/m/n' instead on input line 83.
 
 
 LaTeX Font Warning: Font shape `T2A/ptm/m/it' undefined
-(Font)              using `T2A/ptm/m/n' instead on input line 45.
+(Font)              using `T2A/ptm/m/n' instead on input line 84.
 
 <freemason.jpg, id=12, 1606.0pt x 1109.14375pt>
 File: freemason.jpg Graphic file (type jpg)
 <use freemason.jpg>
-Package pdftex.def Info: freemason.jpg  used on input line 66.
-(pdftex.def)             Requested size: 237.13594pt x 163.75806pt.
+Package pdftex.def Info: freemason.jpg  used on input line 105.
+(pdftex.def)             Requested size: 251.5897pt x 173.74332pt.
 <british.jpg, id=15, 1204.5pt x 604.2575pt>
 File: british.jpg Graphic file (type jpg)
 <use british.jpg>
-Package pdftex.def Info: british.jpg  used on input line 75.
-(pdftex.def)             Requested size: 496.85625pt x 249.2593pt.
+Package pdftex.def Info: british.jpg  used on input line 114.
+(pdftex.def)             Requested size: 525.7638pt x 263.7627pt.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
- <./freemason.jpg>]
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./freemason.jpg>]
 
 LaTeX Font Warning: Font shape `T2A/ptm/b/it' undefined
-(Font)              using `T2A/ptm/b/n' instead on input line 92.
+(Font)              using `T2A/ptm/b/n' instead on input line 131.
 
 [2 <./british.jpg>]
-Underfull \hbox (badness 1859) in paragraph at lines 104--104
-[] \T2A/ptm/b/n/12 . До-ка-за-тель-ства со-вре-мен-ной за-пад-ной
+<penta.jpg, id=68, 1204.5pt x 677.53125pt>
+File: penta.jpg Graphic file (type jpg)
+<use penta.jpg>
+Package pdftex.def Info: penta.jpg  used on input line 153.
+(pdftex.def)             Requested size: 251.5897pt x 141.51038pt.
+<basescrop.png, id=71, 2349.77875pt x 1203.49625pt>
+File: basescrop.png Graphic file (type png)
+<use basescrop.png>
+Package pdftex.def Info: basescrop.png  used on input line 162.
+(pdftex.def)             Requested size: 473.1842pt x 242.34773pt.
+ [3]
+<undersea.jpg, id=98, 691.83469pt x 484.05844pt>
+File: undersea.jpg Graphic file (type jpg)
+<use undersea.jpg>
+Package pdftex.def Info: undersea.jpg  used on input line 180.
+(pdftex.def)             Requested size: 251.5897pt x 176.02618pt.
+<sub.jpg, id=105, 718.18312pt x 493.0922pt>
+File: sub.jpg Graphic file (type jpg)
+<use sub.jpg>
+Package pdftex.def Info: sub.jpg  used on input line 191.
+(pdftex.def)             Requested size: 251.5897pt x 172.73532pt.
+<iran.jpeg, id=110, 1183.42125pt x 573.14125pt>
+File: iran.jpeg Graphic file (type jpg)
+<use iran.jpeg>
+Package pdftex.def Info: iran.jpeg  used on input line 201.
+(pdftex.def)             Requested size: 251.5897pt x 121.84119pt.
+
+Underfull \hbox (badness 1603) in paragraph at lines 212--212
+[] \T2A/ptm/b/n/10.95 . До-пол-ни-тель-ные сви-де-тель-ства под-го-тов-ки
  []
 
+<tyrol.jpg, id=119, 1204.5pt x 632.3625pt>
+File: tyrol.jpg Graphic file (type jpg)
+<use tyrol.jpg>
+Package pdftex.def Info: tyrol.jpg  used on input line 216.
+(pdftex.def)             Requested size: 251.5897pt x 132.07635pt.
+<svalbard.jpg, id=122, 2569.6pt x 1678.27pt>
+File: svalbard.jpg Graphic file (type jpg)
+<use svalbard.jpg>
+Package pdftex.def Info: svalbard.jpg  used on input line 226.
+(pdftex.def)             Requested size: 251.5897pt x 164.30289pt.
+
+Underfull \hbox (badness 2261) in paragraph at lines 233--234
+\T2A/ptm/b/it/10 ных при-зна-ков под-го-тов-ки к ка-та-стро-фе, по-ми-мо
+ []
+
+[4 <./penta.jpg>] [5 <./basescrop.png> <./undersea.jpg> <./sub.jpg>]
+<govcrop2.png, id=164, 945.5325pt x 553.06625pt>
+File: govcrop2.png Graphic file (type png)
+<use govcrop2.png>
+Package pdftex.def Info: govcrop2.png  used on input line 249.
+(pdftex.def)             Requested size: 473.1842pt x 276.78561pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3]
-<penta.jpg, id=79, 1204.5pt x 677.53125pt>
-File: penta.jpg Graphic file (type jpg)
-<use penta.jpg>
-Package pdftex.def Info: penta.jpg  used on input line 114.
-(pdftex.def)             Requested size: 237.13594pt x 133.38449pt.
-<basescrop.png, id=82, 2349.77875pt x 1203.49625pt>
-File: basescrop.png Graphic file (type png)
-<use basescrop.png>
-Package pdftex.def Info: basescrop.png  used on input line 123.
-(pdftex.def)             Requested size: 447.16759pt x 229.01558pt.
-<undersea.jpg, id=90, 691.83469pt x 484.05844pt>
-File: undersea.jpg Graphic file (type jpg)
-<use undersea.jpg>
-Package pdftex.def Info: undersea.jpg  used on input line 141.
-(pdftex.def)             Requested size: 237.13594pt x 165.91458pt.
-
-Underfull \hbox (badness 1360) in paragraph at lines 143--143
-\T2A/ptm/b/it/9 тер Кјрш-нер. Он был ил-лю-стра-то-ром ко-ман-ды по
- []
-
-<sub.jpg, id=97, 718.18312pt x 493.0922pt>
-File: sub.jpg Graphic file (type jpg)
-<use sub.jpg>
-Package pdftex.def Info: sub.jpg  used on input line 152.
-(pdftex.def)             Requested size: 237.13594pt x 162.8112pt.
-<iran.jpeg, id=102, 1183.42125pt x 573.14125pt>
-File: iran.jpeg Graphic file (type jpg)
-<use iran.jpeg>
-Package pdftex.def Info: iran.jpeg  used on input line 162.
-(pdftex.def)             Requested size: 237.13594pt x 114.84485pt.
-[4 <./penta.jpg>]
-Underfull \hbox (badness 1009) in paragraph at lines 171--172
-\T2A/ptm/b/it/10 ва-ние боль-ших под-зем-ных се-тей тун-не-лей бы-ло
- []
-
-[5 <./basescrop.png> <./undersea.jpg> <./sub.jpg>]
-<tyrol.jpg, id=134, 1204.5pt x 632.3625pt>
-File: tyrol.jpg Graphic file (type jpg)
-<use tyrol.jpg>
-Package pdftex.def Info: tyrol.jpg  used on input line 177.
-(pdftex.def)             Requested size: 237.13594pt x 124.4922pt.
-<svalbard.jpg, id=137, 2569.6pt x 1678.27pt>
-File: svalbard.jpg Graphic file (type jpg)
-<use svalbard.jpg>
-Package pdftex.def Info: svalbard.jpg  used on input line 187.
-(pdftex.def)             Requested size: 237.13594pt x 154.87903pt.
-<govcrop2.png, id=149, 945.5325pt x 553.06625pt>
-File: govcrop2.png Graphic file (type png)
-<use govcrop2.png>
-Package pdftex.def Info: govcrop2.png  used on input line 210.
-(pdftex.def)             Requested size: 447.16759pt x 261.56148pt.
  [6 <./iran.jpeg> <./tyrol.jpg> <./svalbard.jpg>]
-Underfull \vbox (badness 1199) has occurred while \output is active []
+Underfull \hbox (badness 1342) in paragraph at lines 262--263
+\T2A/ptm/b/it/10 о том, что в 2017-2019 фи-нан-со-вых го-дах Пен-та-
+ []
 
- [7 <./govcrop2.png>]
-<illuminati.jpg, id=195, 1284.8pt x 722.7pt>
+
+Underfull \hbox (badness 1184) in paragraph at lines 268--269
+[]\T2A/ptm/b/it/10 Амаллулла вы-де-лил три за-пад-ные по-ли-ти-че-ские
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 268--269
+\T2A/ptm/b/it/10 фрак-ции, ко-то-рые вме-сте он на-зы-вал ^^PПо-том-ка-ми
+ []
+
+[7 <./govcrop2.png>]
+<illuminati.jpg, id=206, 1284.8pt x 722.7pt>
 File: illuminati.jpg Graphic file (type jpg)
 <use illuminati.jpg>
-Package pdftex.def Info: illuminati.jpg  used on input line 245.
-(pdftex.def)             Requested size: 237.13594pt x 133.38863pt.
-<pike.jpg, id=198, 301.125pt x 292.09125pt>
+Package pdftex.def Info: illuminati.jpg  used on input line 284.
+(pdftex.def)             Requested size: 251.5897pt x 141.5159pt.
+<pike.jpg, id=209, 301.125pt x 292.09125pt>
 File: pike.jpg Graphic file (type jpg)
 <use pike.jpg>
-Package pdftex.def Info: pike.jpg  used on input line 254.
-(pdftex.def)             Requested size: 237.13594pt x 230.03197pt.
- [8 <./illuminati.jpg>]
-<npw.jpg, id=225, 1539.7525pt x 1924.18875pt>
+Package pdftex.def Info: pike.jpg  used on input line 293.
+(pdftex.def)             Requested size: 251.5897pt x 244.05353pt.
+<npw.jpg, id=221, 1539.7525pt x 1924.18875pt>
 File: npw.jpg Graphic file (type jpg)
 <use npw.jpg>
-Package pdftex.def Info: npw.jpg  used on input line 274.
-(pdftex.def)             Requested size: 237.13594pt x 296.33772pt.
- [9 <./pike.jpg> <./npw.jpg>] [10
-
-]
+Package pdftex.def Info: npw.jpg  used on input line 313.
+(pdftex.def)             Requested size: 251.5897pt x 314.39456pt.
+ [8 <./illuminati.jpg> <./pike.jpg>] [9 <./npw.jpg>]
 (./russiantranslated.bbl
-Underfull \hbox (badness 6412) in paragraph at lines 9--13
-[]\T2A/ptm/b/it/9 Arch Mission Foundation.  ^^Pglobal knowledge
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--31
-\T2A/ptm/b/it/9 org / 2022 / 07 / navy / navy-[]undersea-[]subs . htm$[], July
+Underfull \hbox (badness 2027) in paragraph at lines 26--31
+\T2A/ptm/b/it/9 org / 2022 / 07 / navy / navy-[]undersea-[]subs . htm$[], July 
+2022.
  []
 
 
@@ -817,43 +818,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--58
  []
 
 
-Underfull \hbox (badness 2521) in paragraph at lines 60--63
+Underfull \hbox (badness 7814) in paragraph at lines 60--63
 []\T2A/ptm/b/it/9 Junho.  Ecdo github research repository, 2024.
  []
 
 
-Underfull \hbox (badness 4518) in paragraph at lines 70--75
-\T2A/ptm/b/it/9 defense department to conduct first-ever audit.
+Underfull \hbox (badness 2837) in paragraph at lines 82--86
+[]\T2A/ptm/b/it/9 Pinterest user (anonymous).  British empire map.
  []
 
 
-Underfull \hbox (badness 4378) in paragraph at lines 77--80
-[]\T2A/ptm/b/it/9 National Centers for Environmental Information
+Underfull \hbox (badness 7925) in paragraph at lines 123--128
+[]\T2A/ptm/b/it/9 T. E. Skeptic.  Master exothermic core-mantle
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 88--92
-[]\T2A/ptm/b/it/9 Project Camelot.  ^^Pa letter from a norwegian
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--128
-[]\T2A/ptm/b/it/9 T. E. Skeptic.  Master exothermic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--128
-\T2A/ptm/b/it/9 core-mantle decoupling ^^U dzhanibekov
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--128
-\T2A/ptm/b/it/9 oscillation (ecdo) theory, 2024.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--128
-\T2A/ptm/b/it/9 https://theethicalskeptic.com/2024/05/23/master-
+Underfull \hbox (badness 3547) in paragraph at lines 123--128
+\T2A/ptm/b/it/9 decoupling ^^U dzhanibekov oscillation (ecdo) theory,
  []
 
 
@@ -873,6 +854,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 149--154
  []
 
 
+Underfull \hbox (badness 1371) in paragraph at lines 149--154
+\T2A/ptm/b/it/9 south-[]tyrols-[]bunker-[]landscape$[], Oct. 2023.  Published
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 161--167
 []\T2A/ptm/b/it/9 sovrynn.  ^^Pecdo/6[]literature[]media/amallulla^^Q.
  []
@@ -880,6 +866,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--167
 
 Underfull \hbox (badness 10000) in paragraph at lines 161--167
 []$\T2A/ptm/b/it/9 https : / / github . com / sovrynn / ecdo / tree / master /
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 161--167
+\T2A/ptm/b/it/9 6-[]LITERATURE-[]MEDIA / amallulla$[], 2025.  Accessed:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]\T2A/ptm/b/it/9 sovrynn.  ^^Pecdo/6[]literature[]media/project[]camelot^^Q.
  []
 
 
@@ -894,32 +890,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 169--175
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 177--184
-\T2A/ptm/b/it/9 master / 6-[]LITERATURE-[]MEDIA / amallulla / %E2 %
+\T2A/ptm/b/it/9 synthesis^^Q.  []$https : / / github . com / sovrynn / ecdo / b
+lob /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 177--184
-\T2A/ptm/b/it/9 84 % 96 % 2058 . %20The % 20multi-[]trillion-[]dollar %
+\T2A/ptm/b/it/9 master / 6-[]LITERATURE-[]MEDIA / amallulla / %E2 % 84 %
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 177--184
-\T2A/ptm/b/it/9 20granite % 20tunnel % 20system % 20in % 20the %
+\T2A/ptm/b/it/9 96 % 2058 . %20The % 20multi-[]trillion-[]dollar % 20granite %
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 177--184
-\T2A/ptm/b/it/9 20Pikes % 20Peak % 20batholith % 20 _ %20An %
+\T2A/ptm/b/it/9 20tunnel % 20system % 20in % 20the % 20Pikes % 20Peak %
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 177--184
-\T2A/ptm/b/it/9 20Apocalyptic % 20Synthesis . html$[], 2025.  Accessed:
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\T2A/ptm/b/it/9 20batholith % 20 _ %20An % 20Apocalyptic % 20Synthesis .
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 205--209
-[]\T2A/ptm/b/it/9 Tax Policy Center.  Federal receipt and outlay
+Underfull \hbox (badness 1424) in paragraph at lines 192--197
+\T2A/ptm/b/it/9 bunkers than any other country?''.  The Guardian.
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 199--203
+[]\T2A/ptm/b/it/9 Svalbard Global Seed Vault.  ^^Psvalbard global seed
  []
 
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 2
@@ -927,19 +929,12 @@ LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 2
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 211--215
-[]\T2A/ptm/b/it/9 The Editors of Encyclopaedia Britannica.
- []
-
-[11
-
-
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}]
-Underfull \hbox (badness 1694) in paragraph at lines 231--236
+Underfull \hbox (badness 4713) in paragraph at lines 231--236
 []\T2A/ptm/b/it/9 s. G. user).  ^^Pcatherine[]fitts^^Q folder in *ecdo /
  []
 
-) [12
+) [10
+
 
 ] (./russiantranslated.aux)
  ***********
@@ -955,22 +950,24 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12635 strings out of 475142
- 192119 string characters out of 5776209
- 1949975 words of memory out of 5000000
- 34525 multiletter control sequences out of 15000+600000
- 571402 words of font info for 72 fonts, out of 8000000 for 9000
+ 12639 strings out of 475142
+ 192162 string characters out of 5776209
+ 1951975 words of memory out of 5000000
+ 34528 multiletter control sequences out of 15000+600000
+ 575071 words of font info for 76 fonts, out of 8000000 for 9000
  680 hyphenation exceptions out of 8191
- 75i,9n,79p,2821b,637s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/m120938/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600
-pk> </home/m120938/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0900.60
-0pk> </home/m120938/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.6
-00pk> </home/m120938/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.
-600pk></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on russiantranslated.pdf (12 pages, 6452966 bytes).
+ 75i,9n,79p,2821b,643s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/m120938/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1095.600
+pk> </home/m120938/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.60
+0pk> </home/m120938/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0900.6
+00pk> </home/m120938/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.
+600pk> </home/m120938/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440
+.600pk></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on russiantranslated.pdf (10 pages, 6466931 bytes).
 PDF statistics:
- 694 PDF objects out of 1000 (max. 8388607)
- 270 compressed objects within 3 object streams
- 91 named destinations out of 1000 (max. 500000)
+ 719 PDF objects out of 1000 (max. 8388607)
+ 271 compressed objects within 3 object streams
+ 89 named destinations out of 1000 (max. 500000)
  66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,5 @@
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\cvprfinalcopy % *** Nyahaktifkan baris ini untuk penyerahan akhir
+
+\def\cvprPaperID{****} % *** Masukkan ID Kertas CVPR di sini

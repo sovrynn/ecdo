@@ -1,0 +1,788 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./malaytranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./malaytranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 2318) in paragraph at lines 50--51
+\OT1/ptm/m/it/10 yang dike-nali se-ba-gai "The Eth-i-cal Skep-tic" [[]] telah
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
+dist/fonts/enc/dvips/base/8r.enc} <./freemason.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active [2 <./brit
+ish.jpg>]
+Underfull \hbox (badness 2951) in paragraph at lines 107--108
+[]\OT1/ptm/m/n/10 Memandangkan kuasa-kuasa pe-mer-in-tah Barat per-caya
+
+Underfull \hbox (badness 1132) in paragraph at lines 107--108
+\OT1/ptm/m/n/10 yang malapetaka ge-ofizik global akan berlaku tidak lama
+
+Underfull \hbox (badness 1533) in paragraph at lines 107--108
+\OT1/ptm/m/n/10 sedemikian. Dan me-mang ter-da-pat bukti dalam do-main
+
+Underfull \hbox (badness 1688) in paragraph at lines 108--108
+[] \elvbf . Pangkalan Bawah Tanah dan Bawah Laut
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+[]\OT1/ptm/m/n/10 Penyiasatan awam yang pal-ing ter-per-inci men-ge-nai
+
+Underfull \hbox (badness 1342) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 pangkalan bawah tanah yang saya temui adalah dari-pada
+
+Underfull \hbox (badness 1824) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 Richard Sauder, se-o-rang penye-lidik be-bas Amerika yang
+
+Underfull \hbox (badness 1681) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 men-gark-ibkan doku-men dan ran-can-gan ker-a-jaan, meneliti
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 Sauder mendedahkan ba-hawa ter-da-pat rangka-ian be-sar
+
+Underfull \hbox (badness 2698) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 pangkalan bawah tanah dan bawah laut yang dalam di
+
+Underfull \hbox (badness 1259) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 Amerika dan wilayah-nya serta sek-i-tarnya (Ra-jah []4[]) yang
+
+Underfull \hbox (badness 2875) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 dan berke-mu-ngk-i-nan dis-am-bungkan oleh kereta api tiub
+
+Underfull \hbox (badness 4341) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 vakum lev-i-tasi mag-net berke-la-juan tinggi bawah tanah.
+[3 <./penta.jpg>] [4 <./basescrop.png> <./undersea.jpg>]
+Underfull \vbox (badness 1184) has occurred while \output is active
+Underfull \hbox (badness 4765) in paragraph at lines 171--171
+[] \elvbf . Bunker Tam-ba-han dan Bukti Perse-di-aan
+[5 <./sub.jpg> <./iran.jpeg> <./tyrol.jpg> <./svalbard.jpg>]
+Underfull \vbox (badness 1881) has occurred while \output is active
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+Underfull \hbox (badness 1097) in paragraph at lines 218--220
+\OT1/ptm/m/it/10 (2016), mela-porkan ba-hawa pada tahun fiskal 2015 Ten-
+[6 <./govcrop2.png>]
+Underfull \hbox (badness 1009) in paragraph at lines 226--228
+[]\OT1/ptm/m/n/10 Amallulla men-ge-nal pasti tiga puak poli-tik Barat yang
+
+Underfull \hbox (badness 1072) in paragraph at lines 226--228
+\OT1/ptm/m/n/10 malapetaka Bumi yang beru-lang. Be-liau per-caya ketiga-
+
+Underfull \hbox (badness 1168) in paragraph at lines 236--237
+\OT1/ptm/b/it/10 Amerika Syarikat, tetapi melalui kuasa mata wang fiat,
+
+Underfull \hbox (badness 3735) in paragraph at lines 258--260
+[]\OT1/ptm/m/n/10 Menurut Amal-lulla, go-lon-gan ini me-man-dang ren-dah
+[7 <./illuminati.jpg>]
+Underfull \hbox (badness 2617) in paragraph at lines 263--265
+[]\OT1/ptm/m/n/10 Dalam ker-tas ini, saya telah mem-per-in-cikan pel-ba-gai
+
+Underfull \hbox (badness 3872) in paragraph at lines 276--278
+[]\OT1/ptm/m/n/10 Sebagai penutup, saya akan tinggalkan anda den-gan
+[8 <./pike.jpg> <./npw.jpg>] [9] (./malaytranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+[]\OT1/ptm/m/n/9 Internet Archive.  \archived ver-sions of amal-
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+\OT1/ptm/m/n/9 lulla.com".  []$\OT1/pcr/m/n/9 https : / / web . archive . org /
+ web /
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
+[]\OT1/ptm/m/n/9 Junho.  Ecdo github re-search repos-i-tory, 2024.
+
+Underfull \hbox (badness 1484) in paragraph at lines 88--92
+[]\OT1/ptm/m/n/9 Project Camelot.  \a let-ter from a nor-we-gian politi-cian".
+
+Underfull \hbox (badness 4819) in paragraph at lines 123--128
+[]\OT1/ptm/m/n/9 T. E. Skep-tic.  Mas-ter exother-mic core-mantle de-cou-
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\OT1/ptm/m/n/9 pling { dzhanibekov os-cil-la-tion (ecdo) the-ory, 2024.
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\OT1/ptm/m/n/9 https://theethicalskeptic.com/2024/05/23/master-exothermic-
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+[]\OT1/ptm/m/n/9 South Ty-rol Blog.  \south ty-rol's bunker land-
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+\OT1/ptm/m/n/9 scape".  []$\OT1/pcr/m/n/9 https : / / www . south-[]tirol . com
+ / blog /
+
+Underfull \hbox (badness 4556) in paragraph at lines 161--167
+[]\OT1/ptm/m/n/9 sovrynn.  \ecdo/6[]literature[]media/amallulla".  []$\OT1/pcr/
+m/n/9 https :
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+\OT1/pcr/m/n/9 / / github . com / sovrynn / ecdo / tree / master /
+
+Underfull \hbox (badness 1527) in paragraph at lines 161--167
+\OT1/pcr/m/n/9 6-[]LITERATURE-[]MEDIA / amallulla$[]\OT1/ptm/m/n/9 , 2025.  Ac-
+cessed:
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]\OT1/ptm/m/n/9 sovrynn.  \ecdo/6[]literature[]media/project[]camelot".
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]$\OT1/pcr/m/n/9 https : / / github . com / sovrynn / ecdo / tree /
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+\OT1/pcr/m/n/9 master / 6-[]LITERATURE-[]MEDIA / project-[]camelot$[]\OT1/ptm/m
+/n/9 ,
+
+Underfull \hbox (badness 2717) in paragraph at lines 177--184
+[]\OT1/ptm/m/n/9 sovrynn.  \\TS1/cmr/m/n/9 › \OT1/ptm/m/n/9 58. the multi[]tril
+lion[]dollar gran-ite tun-nel
+
+Underfull \hbox (badness 2600) in paragraph at lines 177--184
+\OT1/ptm/m/n/9 sis".  []$\OT1/pcr/m/n/9 https : / / github . com / sovrynn / ec
+do / blob /
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\OT1/pcr/m/n/9 master / 6-[]LITERATURE-[]MEDIA / amallulla / %E2 %
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\OT1/pcr/m/n/9 84 % 96 % 2058 . %20The % 20multi-[]trillion-[]dollar %
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\OT1/pcr/m/n/9 20granite % 20tunnel % 20system % 20in % 20the %
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\OT1/pcr/m/n/9 20Pikes % 20Peak % 20batholith % 20 _ %20An %
+) [10] (./malaytranslated.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information) </home/m120938/.texlive202
+3/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0900.600pk></usr/share/texlive/texm
+f-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
+/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on malaytranslated.pdf (10 pages, 6417807 bytes).
+Transcript written on malaytranslated.log.
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+The top-level auxiliary file: malaytranslated.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "3" isn't style-file defined
+--line 20 of file egbib.bib
+You're missing a field name---line 217 of file egbib.bib
+ :   address      = {Kempton, Pennsylvania},   
+ :                                             % typical HQ location, adjust if needed
+I'm skipping whatever remains of this entry
+Warning--entry type for "38" isn't style-file defined
+--line 355 of file egbib.bib
+Warning--entry type for "39" isn't style-file defined
+--line 363 of file egbib.bib
+Warning--empty year in 31
+Warning--empty year in 28
+Warning--empty year in 22
+Warning--empty year in 27
+Warning--empty year in 35
+(There was 1 error message)
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./malaytranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./malaytranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 2318) in paragraph at lines 50--51
+\OT1/ptm/m/it/10 yang dike-nali se-ba-gai "The Eth-i-cal Skep-tic" [[]] telah
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
+dist/fonts/enc/dvips/base/8r.enc} <./freemason.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active [2 <./brit
+ish.jpg>]
+Underfull \hbox (badness 2951) in paragraph at lines 107--108
+[]\OT1/ptm/m/n/10 Memandangkan kuasa-kuasa pe-mer-in-tah Barat per-caya
+
+Underfull \hbox (badness 1132) in paragraph at lines 107--108
+\OT1/ptm/m/n/10 yang malapetaka ge-ofizik global akan berlaku tidak lama
+
+Underfull \hbox (badness 1533) in paragraph at lines 107--108
+\OT1/ptm/m/n/10 sedemikian. Dan me-mang ter-da-pat bukti dalam do-main
+
+Underfull \hbox (badness 1688) in paragraph at lines 108--108
+[] \elvbf . Pangkalan Bawah Tanah dan Bawah Laut
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+[]\OT1/ptm/m/n/10 Penyiasatan awam yang pal-ing ter-per-inci men-ge-nai
+
+Underfull \hbox (badness 1342) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 pangkalan bawah tanah yang saya temui adalah dari-pada
+
+Underfull \hbox (badness 1824) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 Richard Sauder, se-o-rang penye-lidik be-bas Amerika yang
+
+Underfull \hbox (badness 1681) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 men-gark-ibkan doku-men dan ran-can-gan ker-a-jaan, meneliti
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 Sauder mendedahkan ba-hawa ter-da-pat rangka-ian be-sar
+
+Underfull \hbox (badness 2698) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 pangkalan bawah tanah dan bawah laut yang dalam di
+
+Underfull \hbox (badness 1259) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 Amerika dan wilayah-nya serta sek-i-tarnya (Ra-jah []4[]) yang
+
+Underfull \hbox (badness 2875) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 dan berke-mu-ngk-i-nan dis-am-bungkan oleh kereta api tiub
+
+Underfull \hbox (badness 4341) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 vakum lev-i-tasi mag-net berke-la-juan tinggi bawah tanah.
+[3 <./penta.jpg>] [4 <./basescrop.png> <./undersea.jpg>]
+Underfull \vbox (badness 1184) has occurred while \output is active
+Underfull \hbox (badness 4765) in paragraph at lines 171--171
+[] \elvbf . Bunker Tam-ba-han dan Bukti Perse-di-aan
+[5 <./sub.jpg> <./iran.jpeg> <./tyrol.jpg> <./svalbard.jpg>]
+Underfull \vbox (badness 1881) has occurred while \output is active
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+Underfull \hbox (badness 1097) in paragraph at lines 218--220
+\OT1/ptm/m/it/10 (2016), mela-porkan ba-hawa pada tahun fiskal 2015 Ten-
+[6 <./govcrop2.png>]
+Underfull \hbox (badness 1009) in paragraph at lines 226--228
+[]\OT1/ptm/m/n/10 Amallulla men-ge-nal pasti tiga puak poli-tik Barat yang
+
+Underfull \hbox (badness 1072) in paragraph at lines 226--228
+\OT1/ptm/m/n/10 malapetaka Bumi yang beru-lang. Be-liau per-caya ketiga-
+
+Underfull \hbox (badness 1168) in paragraph at lines 236--237
+\OT1/ptm/b/it/10 Amerika Syarikat, tetapi melalui kuasa mata wang fiat,
+
+Underfull \hbox (badness 3735) in paragraph at lines 258--260
+[]\OT1/ptm/m/n/10 Menurut Amal-lulla, go-lon-gan ini me-man-dang ren-dah
+[7 <./illuminati.jpg>]
+Underfull \hbox (badness 2617) in paragraph at lines 263--265
+[]\OT1/ptm/m/n/10 Dalam ker-tas ini, saya telah mem-per-in-cikan pel-ba-gai
+
+Underfull \hbox (badness 3872) in paragraph at lines 276--278
+[]\OT1/ptm/m/n/10 Sebagai penutup, saya akan tinggalkan anda den-gan
+[8 <./pike.jpg> <./npw.jpg>] [9] (./malaytranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+[]\OT1/ptm/m/n/9 Internet Archive.  \archived ver-sions of amal-
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+\OT1/ptm/m/n/9 lulla.com".  []$\OT1/pcr/m/n/9 https : / / web . archive . org /
+ web /
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
+[]\OT1/ptm/m/n/9 Junho.  Ecdo github re-search repos-i-tory, 2024.
+
+Underfull \hbox (badness 1484) in paragraph at lines 88--92
+[]\OT1/ptm/m/n/9 Project Camelot.  \a let-ter from a nor-we-gian politi-cian".
+
+Underfull \hbox (badness 4819) in paragraph at lines 123--128
+[]\OT1/ptm/m/n/9 T. E. Skep-tic.  Mas-ter exother-mic core-mantle de-cou-
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\OT1/ptm/m/n/9 pling { dzhanibekov os-cil-la-tion (ecdo) the-ory, 2024.
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\OT1/ptm/m/n/9 https://theethicalskeptic.com/2024/05/23/master-exothermic-
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+[]\OT1/ptm/m/n/9 South Ty-rol Blog.  \south ty-rol's bunker land-
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+\OT1/ptm/m/n/9 scape".  []$\OT1/pcr/m/n/9 https : / / www . south-[]tirol . com
+ / blog /
+
+Underfull \hbox (badness 4556) in paragraph at lines 161--167
+[]\OT1/ptm/m/n/9 sovrynn.  \ecdo/6[]literature[]media/amallulla".  []$\OT1/pcr/
+m/n/9 https :
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+\OT1/pcr/m/n/9 / / github . com / sovrynn / ecdo / tree / master /
+
+Underfull \hbox (badness 1527) in paragraph at lines 161--167
+\OT1/pcr/m/n/9 6-[]LITERATURE-[]MEDIA / amallulla$[]\OT1/ptm/m/n/9 , 2025.  Ac-
+cessed:
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]\OT1/ptm/m/n/9 sovrynn.  \ecdo/6[]literature[]media/project[]camelot".
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]$\OT1/pcr/m/n/9 https : / / github . com / sovrynn / ecdo / tree /
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+\OT1/pcr/m/n/9 master / 6-[]LITERATURE-[]MEDIA / project-[]camelot$[]\OT1/ptm/m
+/n/9 ,
+
+Underfull \hbox (badness 2717) in paragraph at lines 177--184
+[]\OT1/ptm/m/n/9 sovrynn.  \\TS1/cmr/m/n/9 › \OT1/ptm/m/n/9 58. the multi[]tril
+lion[]dollar gran-ite tun-nel
+
+Underfull \hbox (badness 2600) in paragraph at lines 177--184
+\OT1/ptm/m/n/9 sis".  []$\OT1/pcr/m/n/9 https : / / github . com / sovrynn / ec
+do / blob /
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\OT1/pcr/m/n/9 master / 6-[]LITERATURE-[]MEDIA / amallulla / %E2 %
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\OT1/pcr/m/n/9 84 % 96 % 2058 . %20The % 20multi-[]trillion-[]dollar %
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\OT1/pcr/m/n/9 20granite % 20tunnel % 20system % 20in % 20the %
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\OT1/pcr/m/n/9 20Pikes % 20Peak % 20batholith % 20 _ %20An %
+) [10] (./malaytranslated.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information) </home/m120938/.texlive202
+3/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0900.600pk></usr/share/texlive/texm
+f-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
+/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on malaytranslated.pdf (10 pages, 6417807 bytes).
+Transcript written on malaytranslated.log.
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./malaytranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./malaytranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 2318) in paragraph at lines 50--51
+\OT1/ptm/m/it/10 yang dike-nali se-ba-gai "The Eth-i-cal Skep-tic" [[]] telah
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
+dist/fonts/enc/dvips/base/8r.enc} <./freemason.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active [2 <./brit
+ish.jpg>]
+Underfull \hbox (badness 2951) in paragraph at lines 107--108
+[]\OT1/ptm/m/n/10 Memandangkan kuasa-kuasa pe-mer-in-tah Barat per-caya
+
+Underfull \hbox (badness 1132) in paragraph at lines 107--108
+\OT1/ptm/m/n/10 yang malapetaka ge-ofizik global akan berlaku tidak lama
+
+Underfull \hbox (badness 1533) in paragraph at lines 107--108
+\OT1/ptm/m/n/10 sedemikian. Dan me-mang ter-da-pat bukti dalam do-main
+
+Underfull \hbox (badness 1688) in paragraph at lines 108--108
+[] \elvbf . Pangkalan Bawah Tanah dan Bawah Laut
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+[]\OT1/ptm/m/n/10 Penyiasatan awam yang pal-ing ter-per-inci men-ge-nai
+
+Underfull \hbox (badness 1342) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 pangkalan bawah tanah yang saya temui adalah dari-pada
+
+Underfull \hbox (badness 1824) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 Richard Sauder, se-o-rang penye-lidik be-bas Amerika yang
+
+Underfull \hbox (badness 1681) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 men-gark-ibkan doku-men dan ran-can-gan ker-a-jaan, meneliti
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 Sauder mendedahkan ba-hawa ter-da-pat rangka-ian be-sar
+
+Underfull \hbox (badness 2698) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 pangkalan bawah tanah dan bawah laut yang dalam di
+
+Underfull \hbox (badness 1259) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 Amerika dan wilayah-nya serta sek-i-tarnya (Ra-jah []4[]) yang
+
+Underfull \hbox (badness 2875) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 dan berke-mu-ngk-i-nan dis-am-bungkan oleh kereta api tiub
+
+Underfull \hbox (badness 4341) in paragraph at lines 110--111
+\OT1/ptm/m/n/10 vakum lev-i-tasi mag-net berke-la-juan tinggi bawah tanah.
+[3 <./penta.jpg>] [4 <./basescrop.png> <./undersea.jpg>]
+Underfull \vbox (badness 1184) has occurred while \output is active
+Underfull \hbox (badness 4765) in paragraph at lines 171--171
+[] \elvbf . Bunker Tam-ba-han dan Bukti Perse-di-aan
+[5 <./sub.jpg> <./iran.jpeg> <./tyrol.jpg> <./svalbard.jpg>]
+Underfull \vbox (badness 1881) has occurred while \output is active
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+Underfull \hbox (badness 1097) in paragraph at lines 218--220
+\OT1/ptm/m/it/10 (2016), mela-porkan ba-hawa pada tahun fiskal 2015 Ten-
+[6 <./govcrop2.png>]
+Underfull \hbox (badness 1009) in paragraph at lines 226--228
+[]\OT1/ptm/m/n/10 Amallulla men-ge-nal pasti tiga puak poli-tik Barat yang
+
+Underfull \hbox (badness 1072) in paragraph at lines 226--228
+\OT1/ptm/m/n/10 malapetaka Bumi yang beru-lang. Be-liau per-caya ketiga-
+
+Underfull \hbox (badness 1168) in paragraph at lines 236--237
+\OT1/ptm/b/it/10 Amerika Syarikat, tetapi melalui kuasa mata wang fiat,
+
+Underfull \hbox (badness 3735) in paragraph at lines 258--260
+[]\OT1/ptm/m/n/10 Menurut Amal-lulla, go-lon-gan ini me-man-dang ren-dah
+[7 <./illuminati.jpg>]
+Underfull \hbox (badness 2617) in paragraph at lines 263--265
+[]\OT1/ptm/m/n/10 Dalam ker-tas ini, saya telah mem-per-in-cikan pel-ba-gai
+
+Underfull \hbox (badness 3872) in paragraph at lines 276--278
+[]\OT1/ptm/m/n/10 Sebagai penutup, saya akan tinggalkan anda den-gan
+[8 <./pike.jpg> <./npw.jpg>] [9] (./malaytranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+[]\OT1/ptm/m/n/9 Internet Archive.  \archived ver-sions of amal-
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+\OT1/ptm/m/n/9 lulla.com".  []$\OT1/pcr/m/n/9 https : / / web . archive . org /
+ web /
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
+[]\OT1/ptm/m/n/9 Junho.  Ecdo github re-search repos-i-tory, 2024.
+
+Underfull \hbox (badness 1484) in paragraph at lines 88--92
+[]\OT1/ptm/m/n/9 Project Camelot.  \a let-ter from a nor-we-gian politi-cian".
+
+Underfull \hbox (badness 4819) in paragraph at lines 123--128
+[]\OT1/ptm/m/n/9 T. E. Skep-tic.  Mas-ter exother-mic core-mantle de-cou-
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\OT1/ptm/m/n/9 pling { dzhanibekov os-cil-la-tion (ecdo) the-ory, 2024.
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\OT1/ptm/m/n/9 https://theethicalskeptic.com/2024/05/23/master-exothermic-
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+[]\OT1/ptm/m/n/9 South Ty-rol Blog.  \south ty-rol's bunker land-
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+\OT1/ptm/m/n/9 scape".  []$\OT1/pcr/m/n/9 https : / / www . south-[]tirol . com
+ / blog /
+
+Underfull \hbox (badness 4556) in paragraph at lines 161--167
+[]\OT1/ptm/m/n/9 sovrynn.  \ecdo/6[]literature[]media/amallulla".  []$\OT1/pcr/
+m/n/9 https :
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+\OT1/pcr/m/n/9 / / github . com / sovrynn / ecdo / tree / master /
+
+Underfull \hbox (badness 1527) in paragraph at lines 161--167
+\OT1/pcr/m/n/9 6-[]LITERATURE-[]MEDIA / amallulla$[]\OT1/ptm/m/n/9 , 2025.  Ac-
+cessed:
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]\OT1/ptm/m/n/9 sovrynn.  \ecdo/6[]literature[]media/project[]camelot".
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]$\OT1/pcr/m/n/9 https : / / github . com / sovrynn / ecdo / tree /
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+\OT1/pcr/m/n/9 master / 6-[]LITERATURE-[]MEDIA / project-[]camelot$[]\OT1/ptm/m
+/n/9 ,
+
+Underfull \hbox (badness 2717) in paragraph at lines 177--184
+[]\OT1/ptm/m/n/9 sovrynn.  \\TS1/cmr/m/n/9 › \OT1/ptm/m/n/9 58. the multi[]tril
+lion[]dollar gran-ite tun-nel
+
+Underfull \hbox (badness 2600) in paragraph at lines 177--184
+\OT1/ptm/m/n/9 sis".  []$\OT1/pcr/m/n/9 https : / / github . com / sovrynn / ec
+do / blob /
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\OT1/pcr/m/n/9 master / 6-[]LITERATURE-[]MEDIA / amallulla / %E2 %
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\OT1/pcr/m/n/9 84 % 96 % 2058 . %20The % 20multi-[]trillion-[]dollar %
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\OT1/pcr/m/n/9 20granite % 20tunnel % 20system % 20in % 20the %
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+\OT1/pcr/m/n/9 20Pikes % 20Peak % 20batholith % 20 _ %20An %
+) [10] (./malaytranslated.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information) </home/m120938/.texlive202
+3/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0900.600pk></usr/share/texlive/texm
+f-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
+/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on malaytranslated.pdf (10 pages, 6417807 bytes).
+Transcript written on malaytranslated.log.

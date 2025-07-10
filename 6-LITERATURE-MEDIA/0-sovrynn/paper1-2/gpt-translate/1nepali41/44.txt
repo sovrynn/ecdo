@@ -1,0 +1,10 @@
+% \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
+\includegraphics[width=1\textwidth]{co2.jpg}
+\end{center}
+   \caption{गत ४५ वर्षमा वायुमण्डलीय CO2 ppm स्थायी रूपमा वृद्धि भएको छ, सम्भवतः समुद्रको तापक्रममा वृद्धिका कारण। स्रोत: NOAA \cite{148,129}.}
+\label{fig:23}
+\end{figure*}
+
+\begin{figure*}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}

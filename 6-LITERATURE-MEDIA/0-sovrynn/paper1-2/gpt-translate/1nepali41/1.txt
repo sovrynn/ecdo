@@ -1,0 +1,10 @@
+\documentclass[10pt,twocolumn,letterpaper]{article}
+
+\usepackage{booktabs}
+% \usepackage{caption}
+% \captionsetup[table]{skip=8pt}   % केवल तालिकाहरूमा प्रभाव पार्छ
+\usepackage{stfloats}  % यो प्रिएम्बलमा थप्नुहोस्
+\usepackage{float}
+\usepackage[T1]{fontenc}
+
+\usepackage{cvpr}

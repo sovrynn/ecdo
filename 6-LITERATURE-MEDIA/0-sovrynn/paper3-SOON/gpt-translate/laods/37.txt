@@ -1,0 +1,5 @@
+   \includegraphics[width=1\linewidth]{tyrol.jpg}
+\end{center}
+   \caption{ບັງເກີໃນພາກໃຕ້ຂອງໄທໂຣນ, ສະວິດເຊີແລນ. ສະວິດເຊີແລນ, ທີ່ຕັ້ງຢູ່ໃນສາຍພູແອລບໃນເອີຣົບ, ເປັນທີ່ຮູ້ຈັກດ້ວຍການປອມບັງເກີໃນພູເຂົາຢ່າງສະຫຼາດ \cite{32}.}
+\label{fig:7}
+\label{fig:onecol}

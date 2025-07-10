@@ -1,0 +1,5 @@
+\includegraphics[width=1\linewidth]{svalbard.jpg}
+\end{center}
+   \caption{नर्वेको स्भालबार्ड ग्लोबल सिड भल्ट, जसमा एक मिलियनभन्दा बढी बीउहरू संग्रहित छन् \cite{24}। यसको प्रयोग कस्तो प्रकोपले आवश्यक पार्छ भन्ने कुरा सोच्नै पर्छ।}
+\label{fig:8}
+\label{fig:onecol}

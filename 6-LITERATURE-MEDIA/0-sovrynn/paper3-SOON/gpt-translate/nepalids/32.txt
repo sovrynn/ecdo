@@ -1,0 +1,5 @@
+\end{center}
+   \caption{वाल्टर कोर्सनर \cite{22,23} द्वारा एक पानीमुनि पनडुब्बी सुरंगको चित्रण।}
+\label{fig:6}
+\label{fig:onecol}
+\end{figure}

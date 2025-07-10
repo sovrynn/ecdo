@@ -1,0 +1,4 @@
+\renewcommand{\refname}{Лавлагаа}
+\bibliographystyle{ieee}
+\bibliography{egbib}
+}

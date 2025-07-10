@@ -1,0 +1,651 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.6.27)  6 JUL 2025 07:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**1nepali3.tex
+(./1nepali3.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-01-22 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-01-04 L3 backend support: XeTeX
+\g__graphics_track_int=\count191
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count192
+\g__pdf_backend_annotation_int=\count193
+\g__pdf_backend_link_int=\count194
+))
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count195
+\l__fontspec_language_int=\count196
+\l__fontspec_strnum_int=\count197
+\l__fontspec_tmp_int=\count198
+\l__fontspec_tmpa_int=\count199
+\l__fontspec_tmpb_int=\count266
+\l__fontspec_tmpc_int=\count267
+\l__fontspec_em_int=\count268
+\l__fontspec_emdef_int=\count269
+\l__fontspec_strong_int=\count270
+\l__fontspec_strongdef_int=\count271
+\l__fontspec_tmpa_dim=\dimen141
+\l__fontspec_tmpb_dim=\dimen142
+\l__fontspec_tmpc_dim=\dimen143
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 149.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+Package: ucharclasses 2022/10/20 v2.6.0 Unicode block character classes for XeL
+aTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\AegeanNumbersClass=\XeTeXcharclass1
+\AlphabeticPresentationFormsClass=\XeTeXcharclass2
+\AncientGreekMusicalNotationClass=\XeTeXcharclass3
+\AncientGreekNumbersClass=\XeTeXcharclass4
+\AncientSymbolsClass=\XeTeXcharclass5
+\ArabicClass=\XeTeXcharclass6
+\ArabicPresentationFormsAClass=\XeTeXcharclass7
+\ArabicPresentationFormsBClass=\XeTeXcharclass8
+\ArabicSupplementClass=\XeTeXcharclass9
+\ArmenianClass=\XeTeXcharclass10
+\ArrowsClass=\XeTeXcharclass11
+\BalineseClass=\XeTeXcharclass12
+\BasicLatinClass=\XeTeXcharclass13
+\BengaliClass=\XeTeXcharclass14
+\BlockElementsClass=\XeTeXcharclass15
+\BopomofoClass=\XeTeXcharclass16
+\BopomofoExtendedClass=\XeTeXcharclass17
+\BoxDrawingClass=\XeTeXcharclass18
+\BraillePatternsClass=\XeTeXcharclass19
+\BugineseClass=\XeTeXcharclass20
+\BuhidClass=\XeTeXcharclass21
+\ByzantineMusicalSymbolsClass=\XeTeXcharclass22
+\ChamClass=\XeTeXcharclass23
+\CherokeeClass=\XeTeXcharclass24
+\CJKCompatibilityClass=\XeTeXcharclass25
+\CJKCompatibilityFormsClass=\XeTeXcharclass26
+\CJKCompatibilityIdeographsClass=\XeTeXcharclass27
+\CJKCompatibilityIdeographsSupplementClass=\XeTeXcharclass28
+\CJKRadicalsSupplementClass=\XeTeXcharclass29
+\CJKStrokesClass=\XeTeXcharclass30
+\CJKSymbolsAndPunctuationClass=\XeTeXcharclass31
+\CJKUnifiedIdeographsClass=\XeTeXcharclass32
+\CJKUnifiedIdeographsExtensionAClass=\XeTeXcharclass33
+\CJKUnifiedIdeographsExtensionBClass=\XeTeXcharclass34
+\CombiningDiacriticalMarksClass=\XeTeXcharclass35
+\CombiningDiacriticalMarksForSymbolsClass=\XeTeXcharclass36
+\CombiningDiacriticalMarksSupplementClass=\XeTeXcharclass37
+\CombiningHalfMarksClass=\XeTeXcharclass38
+\ControlPicturesClass=\XeTeXcharclass39
+\CopticClass=\XeTeXcharclass40
+\CountingRodNumeralsClass=\XeTeXcharclass41
+\CuneiformClass=\XeTeXcharclass42
+\CuneiformNumbersAndPunctuationClass=\XeTeXcharclass43
+\CurrencySymbolsClass=\XeTeXcharclass44
+\CypriotSyllabaryClass=\XeTeXcharclass45
+\CyrillicClass=\XeTeXcharclass46
+\CyrillicExtendedAClass=\XeTeXcharclass47
+\CyrillicExtendedBClass=\XeTeXcharclass48
+\CyrillicSupplementClass=\XeTeXcharclass49
+\DeseretClass=\XeTeXcharclass50
+\DevanagariDanDaClass=\XeTeXcharclass51
+\DevanagariMarksClass=\XeTeXcharclass52
+\DevanagariPostDanDaClass=\XeTeXcharclass53
+\DevanagariPostMarksClass=\XeTeXcharclass54
+\DevanagariPreMarksClass=\XeTeXcharclass55
+\DingbatsClass=\XeTeXcharclass56
+\DominoTilesClass=\XeTeXcharclass57
+\EnclosedAlphanumericsClass=\XeTeXcharclass58
+\EnclosedCJKLettersAndMonthsClass=\XeTeXcharclass59
+\EthiopicClass=\XeTeXcharclass60
+\EthiopicExtendedClass=\XeTeXcharclass61
+\EthiopicSupplementClass=\XeTeXcharclass62
+\GeneralPunctuationClass=\XeTeXcharclass63
+\GeometricShapesClass=\XeTeXcharclass64
+\GeorgianClass=\XeTeXcharclass65
+\GeorgianSupplementClass=\XeTeXcharclass66
+\GlagoliticClass=\XeTeXcharclass67
+\GreekAndCopticClass=\XeTeXcharclass68
+\GreekExtendedClass=\XeTeXcharclass69
+\GujaratiClass=\XeTeXcharclass70
+\GurmukhiClass=\XeTeXcharclass71
+\HalfwidthAndFullwidthFormsClass=\XeTeXcharclass72
+\HangulCompatibilityJamoClass=\XeTeXcharclass73
+\HangulJamoClass=\XeTeXcharclass74
+\HangulSyllablesClass=\XeTeXcharclass75
+\HanunooClass=\XeTeXcharclass76
+\HebrewClass=\XeTeXcharclass77
+\HiraganaClass=\XeTeXcharclass78
+\IdeographicDescriptionCharactersClass=\XeTeXcharclass79
+\IPAExtensionsClass=\XeTeXcharclass80
+\KanbunClass=\XeTeXcharclass81
+\KangxiRadicalsClass=\XeTeXcharclass82
+\KannadaClass=\XeTeXcharclass83
+\KatakanaClass=\XeTeXcharclass84
+\KatakanaPhoneticExtensionsClass=\XeTeXcharclass85
+\KayahLiClass=\XeTeXcharclass86
+\KhmerClass=\XeTeXcharclass87
+\KhmerSymbolsClass=\XeTeXcharclass88
+\LaoClass=\XeTeXcharclass89
+\LatinExtendedAdditionalClass=\XeTeXcharclass90
+\LatinExtendedAClass=\XeTeXcharclass91
+\LatinExtendedBClass=\XeTeXcharclass92
+\LatinExtendedCClass=\XeTeXcharclass93
+\LatinExtendedDClass=\XeTeXcharclass94
+\LatinSupplementClass=\XeTeXcharclass95
+\LepchaClass=\XeTeXcharclass96
+\LetterlikeSymbolsClass=\XeTeXcharclass97
+\LimbuClass=\XeTeXcharclass98
+\LinearBIdeogramsClass=\XeTeXcharclass99
+\LinearBSyllabaryClass=\XeTeXcharclass100
+\MahjongTilesClass=\XeTeXcharclass101
+\MalayalamClass=\XeTeXcharclass102
+\MathematicalAlphanumericSymbolsClass=\XeTeXcharclass103
+\MathematicalOperatorsClass=\XeTeXcharclass104
+\MiscellaneousMathematicalSymbolsAClass=\XeTeXcharclass105
+\MiscellaneousMathematicalSymbolsBClass=\XeTeXcharclass106
+\MiscellaneousSymbolsClass=\XeTeXcharclass107
+\MiscellaneousSymbolsAndArrowsClass=\XeTeXcharclass108
+\MiscellaneousTechnicalClass=\XeTeXcharclass109
+\ModifierToneLettersClass=\XeTeXcharclass110
+\MongolianClass=\XeTeXcharclass111
+\MusicalSymbolsClass=\XeTeXcharclass112
+\MyanmarClass=\XeTeXcharclass113
+\NewTaiLueClass=\XeTeXcharclass114
+\NKoClass=\XeTeXcharclass115
+\NumberFormsClass=\XeTeXcharclass116
+\OghamClass=\XeTeXcharclass117
+\OlChikiClass=\XeTeXcharclass118
+\OldPersianClass=\XeTeXcharclass119
+\OpticalCharacterRecognitionClass=\XeTeXcharclass120
+\OriyaClass=\XeTeXcharclass121
+\OsmanyaClass=\XeTeXcharclass122
+\PhagsPaClass=\XeTeXcharclass123
+\PhoenicianClass=\XeTeXcharclass124
+\PhoneticExtensionsClass=\XeTeXcharclass125
+\PhoneticExtensionsSupplementClass=\XeTeXcharclass126
+\PrivateUseAreaClass=\XeTeXcharclass127
+\RejangClass=\XeTeXcharclass128
+\RunicClass=\XeTeXcharclass129
+\SaurashtraClass=\XeTeXcharclass130
+\ShavianClass=\XeTeXcharclass131
+\SinhalaClass=\XeTeXcharclass132
+\SmallFormVariantsClass=\XeTeXcharclass133
+\SpacingModifierLettersClass=\XeTeXcharclass134
+\SundaneseClass=\XeTeXcharclass135
+\SuperscriptsAndSubscriptsClass=\XeTeXcharclass136
+\SupplementalArrowsAClass=\XeTeXcharclass137
+\SupplementalArrowsBClass=\XeTeXcharclass138
+\SupplementalMathematicalOperatorsClass=\XeTeXcharclass139
+\SupplementalPunctuationClass=\XeTeXcharclass140
+\SylotiNagriClass=\XeTeXcharclass141
+\SyriacClass=\XeTeXcharclass142
+\TagalogClass=\XeTeXcharclass143
+\TagbanwaClass=\XeTeXcharclass144
+\TagsClass=\XeTeXcharclass145
+\TaiLeClass=\XeTeXcharclass146
+\TaiXuanJingSymbolsClass=\XeTeXcharclass147
+\TamilClass=\XeTeXcharclass148
+\TeluguClass=\XeTeXcharclass149
+\ThaanaClass=\XeTeXcharclass150
+\ThaiClass=\XeTeXcharclass151
+\TibetanClass=\XeTeXcharclass152
+\TifinaghClass=\XeTeXcharclass153
+\UgariticClass=\XeTeXcharclass154
+\UnifiedCanadianAboriginalSyllabicsClass=\XeTeXcharclass155
+\VaiClass=\XeTeXcharclass156
+\VerticalFormsClass=\XeTeXcharclass157
+\YiRadicalsClass=\XeTeXcharclass158
+\YiSyllablesClass=\XeTeXcharclass159
+\YijingHexagramSymbolsClass=\XeTeXcharclass160
+\AvestanClass=\XeTeXcharclass161
+\BamumClass=\XeTeXcharclass162
+\CJKUnifiedIdeographsExtensionCClass=\XeTeXcharclass163
+\CommonIndicNumberFormsClass=\XeTeXcharclass164
+\DevanagariExtendedClass=\XeTeXcharclass165
+\EgyptianHieroglyphsClass=\XeTeXcharclass166
+\EnclosedAlphanumericSupplementClass=\XeTeXcharclass167
+\EnclosedIdeographicSupplementClass=\XeTeXcharclass168
+\HangulJamoExtendedAClass=\XeTeXcharclass169
+\HangulJamoExtendedBClass=\XeTeXcharclass170
+\ImperialAramaicClass=\XeTeXcharclass171
+\InscriptionalPahlaviClass=\XeTeXcharclass172
+\InscriptionalParthianClass=\XeTeXcharclass173
+\JavaneseClass=\XeTeXcharclass174
+\KaithiClass=\XeTeXcharclass175
+\LisuClass=\XeTeXcharclass176
+\MeeteiMayekClass=\XeTeXcharclass177
+\MyanmarExtendedAClass=\XeTeXcharclass178
+\RumiNumeralSymbolsClass=\XeTeXcharclass179
+\SamaritanClass=\XeTeXcharclass180
+\TaiThamClass=\XeTeXcharclass181
+\TaiVietClass=\XeTeXcharclass182
+\UnifiedCanadianAboriginalSyllabicsExtendedClass=\XeTeXcharclass183
+\VedicExtensionsClass=\XeTeXcharclass184
+\AlchemicalSymbolsClass=\XeTeXcharclass185
+\BamumSupplementClass=\XeTeXcharclass186
+\BatakClass=\XeTeXcharclass187
+\BrahmiClass=\XeTeXcharclass188
+\CJKUnifiedIdeographsExtensionDClass=\XeTeXcharclass189
+\EmoticonsClass=\XeTeXcharclass190
+\EthiopicExtendedAClass=\XeTeXcharclass191
+\KanaSupplementClass=\XeTeXcharclass192
+\MandaicClass=\XeTeXcharclass193
+\MiscellaneousSymbolsAndPictographsClass=\XeTeXcharclass194
+\PlayingCardsClass=\XeTeXcharclass195
+\TransportAndMapSymbolsClass=\XeTeXcharclass196
+\ArabicExtendedAClass=\XeTeXcharclass197
+\ArabicMathematicalAlphabeticSymbolsClass=\XeTeXcharclass198
+\ChakmaClass=\XeTeXcharclass199
+\MeeteiMayekExtensionsClass=\XeTeXcharclass200
+\MeroiticCursiveClass=\XeTeXcharclass201
+\MeroiticHieroglyphsClass=\XeTeXcharclass202
+\MiaoClass=\XeTeXcharclass203
+\SharadaClass=\XeTeXcharclass204
+\SoraSompengClass=\XeTeXcharclass205
+\SundaneseSupplementClass=\XeTeXcharclass206
+\TakriClass=\XeTeXcharclass207
+\BassaVahClass=\XeTeXcharclass208
+\CaucasianAlbanianClass=\XeTeXcharclass209
+\CombiningDiacriticalMarksExtendedClass=\XeTeXcharclass210
+\CopticEpactNumbersClass=\XeTeXcharclass211
+\ElbasanClass=\XeTeXcharclass212
+\GeometricShapesExtendedClass=\XeTeXcharclass213
+\GranthaClass=\XeTeXcharclass214
+\KhojkiClass=\XeTeXcharclass215
+\KhudawadiClass=\XeTeXcharclass216
+\LatinExtendedEClass=\XeTeXcharclass217
+\LinearAClass=\XeTeXcharclass218
+\MahajaniClass=\XeTeXcharclass219
+\MendeKikakuiClass=\XeTeXcharclass220
+\ModiClass=\XeTeXcharclass221
+\MroClass=\XeTeXcharclass222
+\MyanmarExtendedBClass=\XeTeXcharclass223
+\OrnamentalDingbatsClass=\XeTeXcharclass224
+\PahawhHmongClass=\XeTeXcharclass225
+\PauCinHauClass=\XeTeXcharclass226
+\SiddhamClass=\XeTeXcharclass227
+\SinhalaArchaicNumbersClass=\XeTeXcharclass228
+\SupplementalArrowsCClass=\XeTeXcharclass229
+\TirhutaClass=\XeTeXcharclass230
+\WarangCitiClass=\XeTeXcharclass231
+\CherokeeSupplementClass=\XeTeXcharclass232
+\CJKUnifiedIdeographsExtensionEClass=\XeTeXcharclass233
+\SupplementalSymbolsAndPictographsClass=\XeTeXcharclass234
+\CyrillicExtendedCClass=\XeTeXcharclass235
+\GlagoliticSupplementClass=\XeTeXcharclass236
+\IdeographicSymbolsAndPunctuationClass=\XeTeXcharclass237
+\MongolianSupplementClass=\XeTeXcharclass238
+\CJKUnifiedIdeographsExtensionFClass=\XeTeXcharclass239
+\KanaExtendedAClass=\XeTeXcharclass240
+\SyriacSupplementClass=\XeTeXcharclass241
+\GeorgianExtendedClass=\XeTeXcharclass242
+\SmallKanaExtensionClass=\XeTeXcharclass243
+\SymbolsAndPictographsExtendedAClass=\XeTeXcharclass244
+\CJKUnifiedIdeographsExtensionGClass=\XeTeXcharclass245
+\ArabicExtendedBClass=\XeTeXcharclass246
+\EthiopicExtendedBClass=\XeTeXcharclass247
+\KanaExtendedBClass=\XeTeXcharclass248
+\LatinExtendedFClass=\XeTeXcharclass249
+\LatinExtendedGClass=\XeTeXcharclass250
+\UnifiedCanadianAboriginalSyllabicsExtendedAClass=\XeTeXcharclass251
+\ArabicExtendedCClass=\XeTeXcharclass252
+\CJKUnifiedIdeographsExtensionHClass=\XeTeXcharclass253
+\CyrillicExtendedDClass=\XeTeXcharclass254
+\DevanagariExtendedAClass=\XeTeXcharclass255
+\CarianClass=\XeTeXcharclass256
+\GothicClass=\XeTeXcharclass257
+\KharoshthiClass=\XeTeXcharclass258
+\LycianClass=\XeTeXcharclass259
+\LydianClass=\XeTeXcharclass260
+\OldItalicClass=\XeTeXcharclass261
+\PhaistosDiscClass=\XeTeXcharclass262
+\SupplementaryPrivateUseAreaAClass=\XeTeXcharclass263
+\SupplementaryPrivateUseAreaBClass=\XeTeXcharclass264
+\OldSouthArabianClass=\XeTeXcharclass265
+\OldTurkicClass=\XeTeXcharclass266
+\DuployanClass=\XeTeXcharclass267
+\ManichaeanClass=\XeTeXcharclass268
+\NabataeanClass=\XeTeXcharclass269
+\OldNorthArabianClass=\XeTeXcharclass270
+\OldPermicClass=\XeTeXcharclass271
+\PalmyreneClass=\XeTeXcharclass272
+\PsalterPahlaviClass=\XeTeXcharclass273
+\ShorthandFormatControlsClass=\XeTeXcharclass274
+\AhomClass=\XeTeXcharclass275
+\AnatolianHieroglyphsClass=\XeTeXcharclass276
+\EarlyDynasticCuneiformClass=\XeTeXcharclass277
+\HatranClass=\XeTeXcharclass278
+\MultaniClass=\XeTeXcharclass279
+\OldHungarianClass=\XeTeXcharclass280
+\SuttonSignWritingClass=\XeTeXcharclass281
+\AdlamClass=\XeTeXcharclass282
+\BhaiksukiClass=\XeTeXcharclass283
+\MarchenClass=\XeTeXcharclass284
+\NewaClass=\XeTeXcharclass285
+\OsageClass=\XeTeXcharclass286
+\TangutClass=\XeTeXcharclass287
+\TangutComponentsClass=\XeTeXcharclass288
+\MasaramGondiClass=\XeTeXcharclass289
+\NushuClass=\XeTeXcharclass290
+\SoyomboClass=\XeTeXcharclass291
+\ZanabazarSquareClass=\XeTeXcharclass292
+\ChessSymbolsClass=\XeTeXcharclass293
+\DograClass=\XeTeXcharclass294
+\GunjalaGondiClass=\XeTeXcharclass295
+\HanifiRohingyaClass=\XeTeXcharclass296
+\IndicSiyaqNumbersClass=\XeTeXcharclass297
+\MakasarClass=\XeTeXcharclass298
+\MayanNumeralsClass=\XeTeXcharclass299
+\MedefaidrinClass=\XeTeXcharclass300
+\OldSogdianClass=\XeTeXcharclass301
+\SogdianClass=\XeTeXcharclass302
+\EgyptianHieroglyphFormatControlsClass=\XeTeXcharclass303
+\ElymaicClass=\XeTeXcharclass304
+\NandinagariClass=\XeTeXcharclass305
+\NyiakengPuachueHmongClass=\XeTeXcharclass306
+\OttomanSiyaqNumbersClass=\XeTeXcharclass307
+\TamilSupplementClass=\XeTeXcharclass308
+\WanchoClass=\XeTeXcharclass309
+\ChorasmianClass=\XeTeXcharclass310
+\DivesAkuruClass=\XeTeXcharclass311
+\KhitanSmallScriptClass=\XeTeXcharclass312
+\LisuSupplementClass=\XeTeXcharclass313
+\SymbolsForLegacyComputingClass=\XeTeXcharclass314
+\TangutSupplementClass=\XeTeXcharclass315
+\YezidiClass=\XeTeXcharclass316
+\CyproMinoanClass=\XeTeXcharclass317
+\OldUighurClass=\XeTeXcharclass318
+\TangsaClass=\XeTeXcharclass319
+\TotoClass=\XeTeXcharclass320
+\VithkuqiClass=\XeTeXcharclass321
+\ZnamennyMusicalNotationClass=\XeTeXcharclass322
+\KaktovikNumeralsClass=\XeTeXcharclass323
+\KawiClass=\XeTeXcharclass324
+\NagMundariClass=\XeTeXcharclass325
+)
+
+Package fontspec Info: Font family 'NotoSerif(0)' created for font 'Noto
+(fontspec)             Serif' with options [Ligatures=TeX,Script=Latin].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Noto
+(fontspec)             Serif/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Noto
+(fontspec)             Serif/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Noto
+(fontspec)             Serif/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Noto
+(fontspec)             Serif/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Noto
+(fontspec)             Serif/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Noto
+(fontspec)             Serif/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Noto
+(fontspec)             Serif/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Noto
+(fontspec)             Serif/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+
+Package fontspec Info: Could not resolve font "Noto Mono/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "Noto Mono/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "Noto Mono/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'NotoMono(0)' created for font 'Noto Mono'
+(fontspec)             with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Noto
+(fontspec)             Mono/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+
+Package fontspec Info: Could not resolve font "Noto Sans Tamil/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'NotoSansTamil(0)' created for font 'Noto
+(fontspec)             Sans Tamil' with options [Script=Tamil].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Noto Sans
+(fontspec)             Tamil/OT:script=tml2;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Noto Sans
+(fontspec)             Tamil/B/OT:script=tml2;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Noto Sans
+(fontspec)             Tamil/BI/OT:script=tml2;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Could not resolve font "Noto Sans Devanagari/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Font family 'NotoSansDevanagari(0)' created for font
+(fontspec)             'Noto Sans Devanagari' with options
+(fontspec)             [Script=Devanagari].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Noto Sans
+(fontspec)             Devanagari/OT:script=dev2;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Noto Sans
+(fontspec)             Devanagari/B/OT:script=dev2;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Noto Sans
+(fontspec)             Devanagari/BI/OT:script=dev2;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+ (./1nepali3.aux)
+\openout1 = `1nepali3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
+0.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 20.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 20.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 20.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 20.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 20.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 20.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 20.
+LaTeX Font Info:    Redeclaring math accent \check on input line 20.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 20.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 20.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 20.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 20.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/NotoSerif(0)/m/n on input line 20.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/NotoSerif(0)/m/n on input line 20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/NotoSerif(0)/m/n --> TU/NotoSerif(0)/m/n on input li
+ne 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/NotoSerif(0)/m/it on input line 20.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/NotoSerif(0)/b/n on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/NotoMono(0)/m/n on input line 20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/NotoSerif(0)/m/n --> TU/NotoSerif(0)/b/n on input li
+ne 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/NotoSerif(0)/b/it on input line 20
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/NotoMono(0)/b/n on input line 20.
+
+Missing character: There is no इ (U+0907) in font Noto Serif Regular/OT:script=
+latn;language=dflt;mapping=tex-text;!
+Missing character: There is no त (U+0924) in font Noto Serif Regular/OT:script=
+latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ि (U+093F) in font Noto Serif Regular/OT:script=
+latn;language=dflt;mapping=tex-text;!
+Missing character: There is no द (U+0926) in font Noto Serif Regular/OT:script=
+latn;language=dflt;mapping=tex-text;!
+Missing character: There is no े (U+0947) in font Noto Serif Regular/OT:script=
+latn;language=dflt;mapping=tex-text;!
+Missing character: There is no व (U+0935) in font Noto Serif Regular/OT:script=
+latn;language=dflt;mapping=tex-text;!
+Missing character: There is no न (U+0928) in font Noto Serif Regular/OT:script=
+latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ा (U+093E) in font Noto Serif Regular/OT:script=
+latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ग (U+0917) in font Noto Serif Regular/OT:script=
+latn;language=dflt;mapping=tex-text;!
+Missing character: There is no र (U+0930) in font Noto Serif Regular/OT:script=
+latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ी (U+0940) in font Noto Serif Regular/OT:script=
+latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ल (U+0932) in font Noto Serif Regular/OT:script=
+latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ि (U+093F) in font Noto Serif Regular/OT:script=
+latn;language=dflt;mapping=tex-text;!
+Missing character: There is no प (U+092A) in font Noto Serif Regular/OT:script=
+latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ि (U+093F) in font Noto Serif Regular/OT:script=
+latn;language=dflt;mapping=tex-text;!
+[1
+
+] (./1nepali3.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 4418 strings out of 475702
+ 125999 string characters out of 5785445
+ 1986627 words of memory out of 5000000
+ 26355 multiletter control sequences out of 15000+600000
+ 558325 words of font info for 68 fonts, out of 8000000 for 9000
+ 932 hyphenation exceptions out of 8191
+ 79i,5n,93p,255b,239s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on 1nepali3.pdf (1 page).

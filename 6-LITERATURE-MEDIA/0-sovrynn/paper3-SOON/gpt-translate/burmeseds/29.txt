@@ -1,0 +1,5 @@
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{undersea.jpg}
+\end{center}
+   \caption{ရေအောက်စခန်းတစ်ခု၏ သရုပ်ဖော်ပုံ၊ Walter Koerschner မှရေးဆွဲသည်။ ၁၉၆၀ ခုနှစ်များတွင် US Navy ၏ China Lake၊ California လက်နက်စင်တာရှိ Rock-Site ရေအောက်စခန်းအဖွဲ့အတွက် သရုပ်ဖော်ပန်းချီဆရာတစ်ဦးဖြစ်သည်။ Sauder ၏ အရင်းအမြစ်များအရ China Lake တွင် တစ်မိုင်အနက်ရှိ မြေအောက်စခန်းတစ်ခုရှိကြောင်း ဖော်ပြထားသည် \cite{22,23}။}

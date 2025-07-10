@@ -1,0 +1,2696 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.6.27)  7 JUL 2025 03:54
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**2burmesetranslated.tex
+(./2burmesetranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen141
+\lightrulewidth=\dimen142
+\cmidrulewidth=\dimen143
+\belowrulesep=\dimen144
+\belowbottomsep=\dimen145
+\aboverulesep=\dimen146
+\abovetopsep=\dimen147
+\cmidrulesep=\dimen148
+\cmidrulekern=\dimen149
+\defaultaddspace=\dimen150
+\@cmidla=\count191
+\@cmidlb=\count192
+\@aboverulesep=\dimen151
+\@belowrulesep=\dimen152
+\@thisruleclass=\count193
+\@lastruleclass=\count194
+\@thisrulewidth=\dimen153
+)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty
+Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
+ings
+\@dblbotnum=\count195
+\c@dblbotnumber=\count196
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-01-22 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-01-04 L3 backend support: XeTeX
+\g__graphics_track_int=\count197
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count198
+\g__pdf_backend_annotation_int=\count199
+\g__pdf_backend_link_int=\count266
+))
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count267
+\l__fontspec_language_int=\count268
+\l__fontspec_strnum_int=\count269
+\l__fontspec_tmp_int=\count270
+\l__fontspec_tmpa_int=\count271
+\l__fontspec_tmpb_int=\count272
+\l__fontspec_tmpc_int=\count273
+\l__fontspec_em_int=\count274
+\l__fontspec_emdef_int=\count275
+\l__fontspec_strong_int=\count276
+\l__fontspec_strongdef_int=\count277
+\l__fontspec_tmpa_dim=\dimen154
+\l__fontspec_tmpb_dim=\dimen155
+\l__fontspec_tmpc_dim=\dimen156
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+
+Package fontspec Info: Font family 'LatinModernRoman(0)' created for font
+(fontspec)             'Latin Modern Roman' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Latin Modern
+(fontspec)             Roman/OT:script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Latin Modern
+(fontspec)             Roman/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Latin Modern
+(fontspec)             Roman/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Latin
+(fontspec)             Modern Roman/BI/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Could not resolve font "Noto Sans Myanmar/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Font family 'NotoSansMyanmar(0)' created for font 'Noto
+(fontspec)             Sans Myanmar' with options [Script=Myanmar].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Noto Sans
+(fontspec)             Myanmar/OT:script=mym2;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Noto Sans
+(fontspec)             Myanmar/B/OT:script=mym2;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Noto Sans
+(fontspec)             Myanmar/BI/OT:script=mym2;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+Package: ucharclasses 2022/10/20 v2.6.0 Unicode block character classes for XeL
+aTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\AegeanNumbersClass=\XeTeXcharclass1
+\AlphabeticPresentationFormsClass=\XeTeXcharclass2
+\AncientGreekMusicalNotationClass=\XeTeXcharclass3
+\AncientGreekNumbersClass=\XeTeXcharclass4
+\AncientSymbolsClass=\XeTeXcharclass5
+\ArabicClass=\XeTeXcharclass6
+\ArabicPresentationFormsAClass=\XeTeXcharclass7
+\ArabicPresentationFormsBClass=\XeTeXcharclass8
+\ArabicSupplementClass=\XeTeXcharclass9
+\ArmenianClass=\XeTeXcharclass10
+\ArrowsClass=\XeTeXcharclass11
+\BalineseClass=\XeTeXcharclass12
+\BasicLatinClass=\XeTeXcharclass13
+\BengaliClass=\XeTeXcharclass14
+\BlockElementsClass=\XeTeXcharclass15
+\BopomofoClass=\XeTeXcharclass16
+\BopomofoExtendedClass=\XeTeXcharclass17
+\BoxDrawingClass=\XeTeXcharclass18
+\BraillePatternsClass=\XeTeXcharclass19
+\BugineseClass=\XeTeXcharclass20
+\BuhidClass=\XeTeXcharclass21
+\ByzantineMusicalSymbolsClass=\XeTeXcharclass22
+\ChamClass=\XeTeXcharclass23
+\CherokeeClass=\XeTeXcharclass24
+\CJKCompatibilityClass=\XeTeXcharclass25
+\CJKCompatibilityFormsClass=\XeTeXcharclass26
+\CJKCompatibilityIdeographsClass=\XeTeXcharclass27
+\CJKCompatibilityIdeographsSupplementClass=\XeTeXcharclass28
+\CJKRadicalsSupplementClass=\XeTeXcharclass29
+\CJKStrokesClass=\XeTeXcharclass30
+\CJKSymbolsAndPunctuationClass=\XeTeXcharclass31
+\CJKUnifiedIdeographsClass=\XeTeXcharclass32
+\CJKUnifiedIdeographsExtensionAClass=\XeTeXcharclass33
+\CJKUnifiedIdeographsExtensionBClass=\XeTeXcharclass34
+\CombiningDiacriticalMarksClass=\XeTeXcharclass35
+\CombiningDiacriticalMarksForSymbolsClass=\XeTeXcharclass36
+\CombiningDiacriticalMarksSupplementClass=\XeTeXcharclass37
+\CombiningHalfMarksClass=\XeTeXcharclass38
+\ControlPicturesClass=\XeTeXcharclass39
+\CopticClass=\XeTeXcharclass40
+\CountingRodNumeralsClass=\XeTeXcharclass41
+\CuneiformClass=\XeTeXcharclass42
+\CuneiformNumbersAndPunctuationClass=\XeTeXcharclass43
+\CurrencySymbolsClass=\XeTeXcharclass44
+\CypriotSyllabaryClass=\XeTeXcharclass45
+\CyrillicClass=\XeTeXcharclass46
+\CyrillicExtendedAClass=\XeTeXcharclass47
+\CyrillicExtendedBClass=\XeTeXcharclass48
+\CyrillicSupplementClass=\XeTeXcharclass49
+\DeseretClass=\XeTeXcharclass50
+\DevanagariDanDaClass=\XeTeXcharclass51
+\DevanagariMarksClass=\XeTeXcharclass52
+\DevanagariPostDanDaClass=\XeTeXcharclass53
+\DevanagariPostMarksClass=\XeTeXcharclass54
+\DevanagariPreMarksClass=\XeTeXcharclass55
+\DingbatsClass=\XeTeXcharclass56
+\DominoTilesClass=\XeTeXcharclass57
+\EnclosedAlphanumericsClass=\XeTeXcharclass58
+\EnclosedCJKLettersAndMonthsClass=\XeTeXcharclass59
+\EthiopicClass=\XeTeXcharclass60
+\EthiopicExtendedClass=\XeTeXcharclass61
+\EthiopicSupplementClass=\XeTeXcharclass62
+\GeneralPunctuationClass=\XeTeXcharclass63
+\GeometricShapesClass=\XeTeXcharclass64
+\GeorgianClass=\XeTeXcharclass65
+\GeorgianSupplementClass=\XeTeXcharclass66
+\GlagoliticClass=\XeTeXcharclass67
+\GreekAndCopticClass=\XeTeXcharclass68
+\GreekExtendedClass=\XeTeXcharclass69
+\GujaratiClass=\XeTeXcharclass70
+\GurmukhiClass=\XeTeXcharclass71
+\HalfwidthAndFullwidthFormsClass=\XeTeXcharclass72
+\HangulCompatibilityJamoClass=\XeTeXcharclass73
+\HangulJamoClass=\XeTeXcharclass74
+\HangulSyllablesClass=\XeTeXcharclass75
+\HanunooClass=\XeTeXcharclass76
+\HebrewClass=\XeTeXcharclass77
+\HiraganaClass=\XeTeXcharclass78
+\IdeographicDescriptionCharactersClass=\XeTeXcharclass79
+\IPAExtensionsClass=\XeTeXcharclass80
+\KanbunClass=\XeTeXcharclass81
+\KangxiRadicalsClass=\XeTeXcharclass82
+\KannadaClass=\XeTeXcharclass83
+\KatakanaClass=\XeTeXcharclass84
+\KatakanaPhoneticExtensionsClass=\XeTeXcharclass85
+\KayahLiClass=\XeTeXcharclass86
+\KhmerClass=\XeTeXcharclass87
+\KhmerSymbolsClass=\XeTeXcharclass88
+\LaoClass=\XeTeXcharclass89
+\LatinExtendedAdditionalClass=\XeTeXcharclass90
+\LatinExtendedAClass=\XeTeXcharclass91
+\LatinExtendedBClass=\XeTeXcharclass92
+\LatinExtendedCClass=\XeTeXcharclass93
+\LatinExtendedDClass=\XeTeXcharclass94
+\LatinSupplementClass=\XeTeXcharclass95
+\LepchaClass=\XeTeXcharclass96
+\LetterlikeSymbolsClass=\XeTeXcharclass97
+\LimbuClass=\XeTeXcharclass98
+\LinearBIdeogramsClass=\XeTeXcharclass99
+\LinearBSyllabaryClass=\XeTeXcharclass100
+\MahjongTilesClass=\XeTeXcharclass101
+\MalayalamClass=\XeTeXcharclass102
+\MathematicalAlphanumericSymbolsClass=\XeTeXcharclass103
+\MathematicalOperatorsClass=\XeTeXcharclass104
+\MiscellaneousMathematicalSymbolsAClass=\XeTeXcharclass105
+\MiscellaneousMathematicalSymbolsBClass=\XeTeXcharclass106
+\MiscellaneousSymbolsClass=\XeTeXcharclass107
+\MiscellaneousSymbolsAndArrowsClass=\XeTeXcharclass108
+\MiscellaneousTechnicalClass=\XeTeXcharclass109
+\ModifierToneLettersClass=\XeTeXcharclass110
+\MongolianClass=\XeTeXcharclass111
+\MusicalSymbolsClass=\XeTeXcharclass112
+\MyanmarClass=\XeTeXcharclass113
+\NewTaiLueClass=\XeTeXcharclass114
+\NKoClass=\XeTeXcharclass115
+\NumberFormsClass=\XeTeXcharclass116
+\OghamClass=\XeTeXcharclass117
+\OlChikiClass=\XeTeXcharclass118
+\OldPersianClass=\XeTeXcharclass119
+\OpticalCharacterRecognitionClass=\XeTeXcharclass120
+\OriyaClass=\XeTeXcharclass121
+\OsmanyaClass=\XeTeXcharclass122
+\PhagsPaClass=\XeTeXcharclass123
+\PhoenicianClass=\XeTeXcharclass124
+\PhoneticExtensionsClass=\XeTeXcharclass125
+\PhoneticExtensionsSupplementClass=\XeTeXcharclass126
+\PrivateUseAreaClass=\XeTeXcharclass127
+\RejangClass=\XeTeXcharclass128
+\RunicClass=\XeTeXcharclass129
+\SaurashtraClass=\XeTeXcharclass130
+\ShavianClass=\XeTeXcharclass131
+\SinhalaClass=\XeTeXcharclass132
+\SmallFormVariantsClass=\XeTeXcharclass133
+\SpacingModifierLettersClass=\XeTeXcharclass134
+\SundaneseClass=\XeTeXcharclass135
+\SuperscriptsAndSubscriptsClass=\XeTeXcharclass136
+\SupplementalArrowsAClass=\XeTeXcharclass137
+\SupplementalArrowsBClass=\XeTeXcharclass138
+\SupplementalMathematicalOperatorsClass=\XeTeXcharclass139
+\SupplementalPunctuationClass=\XeTeXcharclass140
+\SylotiNagriClass=\XeTeXcharclass141
+\SyriacClass=\XeTeXcharclass142
+\TagalogClass=\XeTeXcharclass143
+\TagbanwaClass=\XeTeXcharclass144
+\TagsClass=\XeTeXcharclass145
+\TaiLeClass=\XeTeXcharclass146
+\TaiXuanJingSymbolsClass=\XeTeXcharclass147
+\TamilClass=\XeTeXcharclass148
+\TeluguClass=\XeTeXcharclass149
+\ThaanaClass=\XeTeXcharclass150
+\ThaiClass=\XeTeXcharclass151
+\TibetanClass=\XeTeXcharclass152
+\TifinaghClass=\XeTeXcharclass153
+\UgariticClass=\XeTeXcharclass154
+\UnifiedCanadianAboriginalSyllabicsClass=\XeTeXcharclass155
+\VaiClass=\XeTeXcharclass156
+\VerticalFormsClass=\XeTeXcharclass157
+\YiRadicalsClass=\XeTeXcharclass158
+\YiSyllablesClass=\XeTeXcharclass159
+\YijingHexagramSymbolsClass=\XeTeXcharclass160
+\AvestanClass=\XeTeXcharclass161
+\BamumClass=\XeTeXcharclass162
+\CJKUnifiedIdeographsExtensionCClass=\XeTeXcharclass163
+\CommonIndicNumberFormsClass=\XeTeXcharclass164
+\DevanagariExtendedClass=\XeTeXcharclass165
+\EgyptianHieroglyphsClass=\XeTeXcharclass166
+\EnclosedAlphanumericSupplementClass=\XeTeXcharclass167
+\EnclosedIdeographicSupplementClass=\XeTeXcharclass168
+\HangulJamoExtendedAClass=\XeTeXcharclass169
+\HangulJamoExtendedBClass=\XeTeXcharclass170
+\ImperialAramaicClass=\XeTeXcharclass171
+\InscriptionalPahlaviClass=\XeTeXcharclass172
+\InscriptionalParthianClass=\XeTeXcharclass173
+\JavaneseClass=\XeTeXcharclass174
+\KaithiClass=\XeTeXcharclass175
+\LisuClass=\XeTeXcharclass176
+\MeeteiMayekClass=\XeTeXcharclass177
+\MyanmarExtendedAClass=\XeTeXcharclass178
+\RumiNumeralSymbolsClass=\XeTeXcharclass179
+\SamaritanClass=\XeTeXcharclass180
+\TaiThamClass=\XeTeXcharclass181
+\TaiVietClass=\XeTeXcharclass182
+\UnifiedCanadianAboriginalSyllabicsExtendedClass=\XeTeXcharclass183
+\VedicExtensionsClass=\XeTeXcharclass184
+\AlchemicalSymbolsClass=\XeTeXcharclass185
+\BamumSupplementClass=\XeTeXcharclass186
+\BatakClass=\XeTeXcharclass187
+\BrahmiClass=\XeTeXcharclass188
+\CJKUnifiedIdeographsExtensionDClass=\XeTeXcharclass189
+\EmoticonsClass=\XeTeXcharclass190
+\EthiopicExtendedAClass=\XeTeXcharclass191
+\KanaSupplementClass=\XeTeXcharclass192
+\MandaicClass=\XeTeXcharclass193
+\MiscellaneousSymbolsAndPictographsClass=\XeTeXcharclass194
+\PlayingCardsClass=\XeTeXcharclass195
+\TransportAndMapSymbolsClass=\XeTeXcharclass196
+\ArabicExtendedAClass=\XeTeXcharclass197
+\ArabicMathematicalAlphabeticSymbolsClass=\XeTeXcharclass198
+\ChakmaClass=\XeTeXcharclass199
+\MeeteiMayekExtensionsClass=\XeTeXcharclass200
+\MeroiticCursiveClass=\XeTeXcharclass201
+\MeroiticHieroglyphsClass=\XeTeXcharclass202
+\MiaoClass=\XeTeXcharclass203
+\SharadaClass=\XeTeXcharclass204
+\SoraSompengClass=\XeTeXcharclass205
+\SundaneseSupplementClass=\XeTeXcharclass206
+\TakriClass=\XeTeXcharclass207
+\BassaVahClass=\XeTeXcharclass208
+\CaucasianAlbanianClass=\XeTeXcharclass209
+\CombiningDiacriticalMarksExtendedClass=\XeTeXcharclass210
+\CopticEpactNumbersClass=\XeTeXcharclass211
+\ElbasanClass=\XeTeXcharclass212
+\GeometricShapesExtendedClass=\XeTeXcharclass213
+\GranthaClass=\XeTeXcharclass214
+\KhojkiClass=\XeTeXcharclass215
+\KhudawadiClass=\XeTeXcharclass216
+\LatinExtendedEClass=\XeTeXcharclass217
+\LinearAClass=\XeTeXcharclass218
+\MahajaniClass=\XeTeXcharclass219
+\MendeKikakuiClass=\XeTeXcharclass220
+\ModiClass=\XeTeXcharclass221
+\MroClass=\XeTeXcharclass222
+\MyanmarExtendedBClass=\XeTeXcharclass223
+\OrnamentalDingbatsClass=\XeTeXcharclass224
+\PahawhHmongClass=\XeTeXcharclass225
+\PauCinHauClass=\XeTeXcharclass226
+\SiddhamClass=\XeTeXcharclass227
+\SinhalaArchaicNumbersClass=\XeTeXcharclass228
+\SupplementalArrowsCClass=\XeTeXcharclass229
+\TirhutaClass=\XeTeXcharclass230
+\WarangCitiClass=\XeTeXcharclass231
+\CherokeeSupplementClass=\XeTeXcharclass232
+\CJKUnifiedIdeographsExtensionEClass=\XeTeXcharclass233
+\SupplementalSymbolsAndPictographsClass=\XeTeXcharclass234
+\CyrillicExtendedCClass=\XeTeXcharclass235
+\GlagoliticSupplementClass=\XeTeXcharclass236
+\IdeographicSymbolsAndPunctuationClass=\XeTeXcharclass237
+\MongolianSupplementClass=\XeTeXcharclass238
+\CJKUnifiedIdeographsExtensionFClass=\XeTeXcharclass239
+\KanaExtendedAClass=\XeTeXcharclass240
+\SyriacSupplementClass=\XeTeXcharclass241
+\GeorgianExtendedClass=\XeTeXcharclass242
+\SmallKanaExtensionClass=\XeTeXcharclass243
+\SymbolsAndPictographsExtendedAClass=\XeTeXcharclass244
+\CJKUnifiedIdeographsExtensionGClass=\XeTeXcharclass245
+\ArabicExtendedBClass=\XeTeXcharclass246
+\EthiopicExtendedBClass=\XeTeXcharclass247
+\KanaExtendedBClass=\XeTeXcharclass248
+\LatinExtendedFClass=\XeTeXcharclass249
+\LatinExtendedGClass=\XeTeXcharclass250
+\UnifiedCanadianAboriginalSyllabicsExtendedAClass=\XeTeXcharclass251
+\ArabicExtendedCClass=\XeTeXcharclass252
+\CJKUnifiedIdeographsExtensionHClass=\XeTeXcharclass253
+\CyrillicExtendedDClass=\XeTeXcharclass254
+\DevanagariExtendedAClass=\XeTeXcharclass255
+\CarianClass=\XeTeXcharclass256
+\GothicClass=\XeTeXcharclass257
+\KharoshthiClass=\XeTeXcharclass258
+\LycianClass=\XeTeXcharclass259
+\LydianClass=\XeTeXcharclass260
+\OldItalicClass=\XeTeXcharclass261
+\PhaistosDiscClass=\XeTeXcharclass262
+\SupplementaryPrivateUseAreaAClass=\XeTeXcharclass263
+\SupplementaryPrivateUseAreaBClass=\XeTeXcharclass264
+\OldSouthArabianClass=\XeTeXcharclass265
+\OldTurkicClass=\XeTeXcharclass266
+\DuployanClass=\XeTeXcharclass267
+\ManichaeanClass=\XeTeXcharclass268
+\NabataeanClass=\XeTeXcharclass269
+\OldNorthArabianClass=\XeTeXcharclass270
+\OldPermicClass=\XeTeXcharclass271
+\PalmyreneClass=\XeTeXcharclass272
+\PsalterPahlaviClass=\XeTeXcharclass273
+\ShorthandFormatControlsClass=\XeTeXcharclass274
+\AhomClass=\XeTeXcharclass275
+\AnatolianHieroglyphsClass=\XeTeXcharclass276
+\EarlyDynasticCuneiformClass=\XeTeXcharclass277
+\HatranClass=\XeTeXcharclass278
+\MultaniClass=\XeTeXcharclass279
+\OldHungarianClass=\XeTeXcharclass280
+\SuttonSignWritingClass=\XeTeXcharclass281
+\AdlamClass=\XeTeXcharclass282
+\BhaiksukiClass=\XeTeXcharclass283
+\MarchenClass=\XeTeXcharclass284
+\NewaClass=\XeTeXcharclass285
+\OsageClass=\XeTeXcharclass286
+\TangutClass=\XeTeXcharclass287
+\TangutComponentsClass=\XeTeXcharclass288
+\MasaramGondiClass=\XeTeXcharclass289
+\NushuClass=\XeTeXcharclass290
+\SoyomboClass=\XeTeXcharclass291
+\ZanabazarSquareClass=\XeTeXcharclass292
+\ChessSymbolsClass=\XeTeXcharclass293
+\DograClass=\XeTeXcharclass294
+\GunjalaGondiClass=\XeTeXcharclass295
+\HanifiRohingyaClass=\XeTeXcharclass296
+\IndicSiyaqNumbersClass=\XeTeXcharclass297
+\MakasarClass=\XeTeXcharclass298
+\MayanNumeralsClass=\XeTeXcharclass299
+\MedefaidrinClass=\XeTeXcharclass300
+\OldSogdianClass=\XeTeXcharclass301
+\SogdianClass=\XeTeXcharclass302
+\EgyptianHieroglyphFormatControlsClass=\XeTeXcharclass303
+\ElymaicClass=\XeTeXcharclass304
+\NandinagariClass=\XeTeXcharclass305
+\NyiakengPuachueHmongClass=\XeTeXcharclass306
+\OttomanSiyaqNumbersClass=\XeTeXcharclass307
+\TamilSupplementClass=\XeTeXcharclass308
+\WanchoClass=\XeTeXcharclass309
+\ChorasmianClass=\XeTeXcharclass310
+\DivesAkuruClass=\XeTeXcharclass311
+\KhitanSmallScriptClass=\XeTeXcharclass312
+\LisuSupplementClass=\XeTeXcharclass313
+\SymbolsForLegacyComputingClass=\XeTeXcharclass314
+\TangutSupplementClass=\XeTeXcharclass315
+\YezidiClass=\XeTeXcharclass316
+\CyproMinoanClass=\XeTeXcharclass317
+\OldUighurClass=\XeTeXcharclass318
+\TangsaClass=\XeTeXcharclass319
+\TotoClass=\XeTeXcharclass320
+\VithkuqiClass=\XeTeXcharclass321
+\ZnamennyMusicalNotationClass=\XeTeXcharclass322
+\KaktovikNumeralsClass=\XeTeXcharclass323
+\KawiClass=\XeTeXcharclass324
+\NagMundariClass=\XeTeXcharclass325
+) (./cvpr.sty
+(./eso-pic.sty
+Package: eso-pic 2002/11/16 v1.1b eso-pic (RN)
+ (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+\@ctmp=\skip50
+\@figindent=\skip51
+\cvprrulerbox=\box52
+\cvprrulercount=\count278
+\cvprruleroffset=\dimen157
+\cv@lineheight=\dimen158
+\cv@boxheight=\dimen159
+\cv@tmpbox=\box53
+\cv@refno=\count279
+\cv@tot=\count280
+\cv@tmpc@=\count281
+\cv@tmpc=\count282
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
+)
+\epsfxsize=\dimen162
+\epsfysize=\dimen163
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen164
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen165
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count283
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count284
+\leftroot@=\count285
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count286
+\DOTSCASE@=\count287
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen166
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count288
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count289
+\dotsspace@=\muskip16
+\c@parentequation=\count290
+\dspbrk@lvl=\count291
+\tag@help=\toks19
+\row@=\count292
+\column@=\count293
+\maxfields@=\count294
+\andhelp@=\toks20
+\eqnshift@=\dimen167
+\alignsep@=\dimen168
+\tagshift@=\dimen169
+\tagwidth@=\dimen170
+\totwidth@=\dimen171
+\lineht@=\dimen172
+\@envbody=\toks21
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count295
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count296
+)
+\@linkdim=\dimen173
+\Hy@linkcounter=\count297
+\Hy@pagecounter=\count298
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count299
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4062.
+Package hyperref Info: Option `bookmarks' set `false' on input line 4062.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4452.
+\c@Hy@tempcnt=\count300
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen174
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count301
+\Field@Width=\dimen175
+\Fld@charsize=\dimen176
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count302
+\c@Item=\count303
+\c@Hfootnote=\count304
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2024-01-20 v7.01h Hyperref driver for XeTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box56
+\c@Hy@AnnotLevel=\count305
+\HyField@AnnotCount=\count306
+\Fld@listcount=\count307
+\c@bookmark@seq@number=\count308
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip55
+)
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 82
+.
+LaTeX Font Info:    No file TUptm.fd. on input line 82.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 82.
+
+(./2burmesetranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+)
+\openout1 = `2burmesetranslated.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 82.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
+2.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 82.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 82.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 82.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 82.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 82.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 82.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 82.
+LaTeX Font Info:    Redeclaring math accent \check on input line 82.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 82.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 82.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 82.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 82.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 82.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/ptm/m/n on input line 82.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 82.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/ptm/m/n on input line 82.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/ptm/m/n --> TU/ptm/m/n on input line 82.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/ptm/m/it on input line 82.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/ptm/b/n on input line 82.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 82.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 82.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/ptm/m/n --> TU/ptm/b/n on input line 82.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/ptm/b/it on input line 82.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 82.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/b/n on input line 82.
+
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 149.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+Package hyperref Info: Link coloring OFF on input line 82.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 106.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 106
+.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 106
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 10
+6.
+LaTeX Font Info:    No file TUpcr.fd. on input line 106.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 106.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 108.
+
+
+LaTeX Font Warning: Font shape `TU/NotoSansMyanmar(0)/m/it' undefined
+(Font)              using `TU/NotoSansMyanmar(0)/m/n' instead on input line 109
+.
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 109--110
+[]\TU/NotoSansMyanmar(0)/m/it/10 ၂၀၂၄ ခုနှစ် မေလတွင် \TU/LatinModernRoman(0)/m/
+it/10 “\TU/NotoSansMyanmar(0)/m/it/10 ကျင့်ဝတ် ဝေဖန်သူ\TU/LatinModernRoman(0)/m
+/it/10 ” [[]]
+ []
+
+
+Underfull \hbox (badness 7814) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 ဟု အမည်ရသော ကလောင်အမည်ဖြင့် အွန်လိုင်းစာရေး
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 သူတစ်ဦးက အပူထုတ်လွှတ်သော ကမ္ဘာ့ဗဟိုလွှာ ဂျာ
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 နီဘီကော့ဗ် ခွဲဖြာရွေ့လျားခြင်း \TU/LatinModernRo
+man(0)/m/it/10 (ECDO) [[]] \TU/NotoSansMyanmar(0)/m/it/10 ဆိုသည့်
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 ကြောင်း အဆိုပြုထားသည်သာမက အလားတူ ရွေ့လျားမှု
+ []
+
+
+Underfull \hbox (badness 3078) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 ချက်များသည် အသစ်မဟုတ်သော်လည်း \TU/LatinModernRom
+an(0)/m/it/10 ECDO \TU/NotoSansMyanmar(0)/m/it/10 သီအိုရီ
+ []
+
+
+Underfull \hbox (badness 7468) in paragraph at lines 111--112
+\TU/NotoSansMyanmar(0)/m/it/10 ၆ လတာ လွတ်လပ်စွာ ဆောင်ရွက်ခဲ့သော သုတေသန
+ []
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 111--112
+\TU/NotoSansMyanmar(0)/m/it/10 အနှစ်ချုပ် \TU/LatinModernRoman(0)/m/it/10 [[], 
+[]] \TU/NotoSansMyanmar(0)/m/it/10 အပိုင်းနှစ်ပိုင်းအနက် ဒုတိယပိုင်းဖြစ်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+\TU/NotoSansMyanmar(0)/m/it/10 ပြီး သဘာဝဘေးအန္တရာယ်ဆိုးကြီးများ ဖြစ်ပေါ်နိုင်သေ
+ာ
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 111--112
+\TU/LatinModernRoman(0)/m/it/10 “\TU/NotoSansMyanmar(0)/m/it/10 ကမ္ဘာမြေကြီးရွေ
+့လျားမှု\TU/LatinModernRoman(0)/m/it/10 ” \TU/NotoSansMyanmar(0)/m/it/10 အရ အကေ
+ာင်းဆုံး ရှင်းပြထား
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+[]\TU/NotoSansMyanmar(0)/m/it/10 ကမ္ဘာ့မျက်နှာပြင် ပြောင်းလဲမှုဆိုင်ရာ ခေတ်သစ်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+\TU/NotoSansMyanmar(0)/m/it/10 ဘူမိဗေဒပညာရပ်နှင့် သမိုင်းကြောင်းများအရ ဂရင်းကင်
+
+ []
+
+
+Underfull \hbox (badness 3590) in paragraph at lines 119--120
+\TU/NotoSansMyanmar(0)/m/it/10 ညွန်ချောက်ကြီး ကဲ့သို့သော ကြီးမားသည့် ဘူမိဗေဒ မြ
+ေ
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 119--120
+\TU/NotoSansMyanmar(0)/m/it/10 အနေအထားများသည် နှစ်သန်းပေါင်းများစွာ ကြာမြင့်သော
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+\TU/NotoSansMyanmar(0)/m/it/10 ကာလအတွင်း ဖြစ်ပေါ်လာကြောင်း \TU/LatinModernRoman
+(0)/m/n/10 [[]]\TU/NotoSansMyanmar(0)/m/it/10 ၊ သေမင်းတမန်
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 119--120
+\TU/NotoSansMyanmar(0)/m/it/10 တောင်ကြား \TU/LatinModernRoman(0)/m/n/10 (\TU/No
+toSansMyanmar(0)/m/it/10 ကယ်လီဖိုးနီးယားပြည်နယ်\TU/LatinModernRoman(0)/m/n/10 )
+ \TU/NotoSansMyanmar(0)/m/it/10 တွင် ဆားများ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+\TU/NotoSansMyanmar(0)/m/it/10 ရှိနေသည်မှာ ထိုဒေသသည် လွန်ခဲ့သည့် နှစ်သန်းပေါင်း
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+\TU/NotoSansMyanmar(0)/m/it/10 ရာနှင့်ချီသည့်အချိန်က ပင်လယ်အောက်တွင် တည်ရှိခဲ့
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 119--120
+\TU/NotoSansMyanmar(0)/m/it/10 ကျွန်ုပ်တို့၏ ဘိုးဘေးများသည် သူတို့၏ဘဝတစ်ခုလုံးတ
+ွင်
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 119--120
+\TU/NotoSansMyanmar(0)/m/it/10 ကြီးမားလှစွာသော အုတ်ဂူများ တည်ဆောက်ခဲ့ကြကြောင်း
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 119--120
+\TU/NotoSansMyanmar(0)/m/it/10 နှစ်သန်းပေါင်းများစွာ ကြာမြင့်ပြီဖြစ်ကြောင်း \TU
+/LatinModernRoman(0)/m/n/10 [[]] \TU/NotoSansMyanmar(0)/m/it/10 အဆိုပြု
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+\TU/NotoSansMyanmar(0)/m/it/10 ထားပါသည်။ စိတ်ဝင်စားစရာ အကောင်းဆုံး ဖြစ်ဖွယ်ရှိ
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 119--120
+\TU/NotoSansMyanmar(0)/m/it/10 ၃၀၀\TU/LatinModernRoman(0)/m/n/10 ,\TU/NotoSansM
+yanmar(0)/m/it/10 ၀၀၀ ကြာမြင့်ပြီ \TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSa
+nsMyanmar(0)/m/it/10 ဟု ယူဆကြသော်လည်း သမိုင်း
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 119--120
+\TU/NotoSansMyanmar(0)/m/it/10 သာ ရှိသေးသည့်အတွက် မျိုးဆက် ၁၅၀ နှင့်ညီမျှသည်ဆို
+
+ []
+
+
+Underfull \vbox (badness 1748) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+\TU/NotoSansMyanmar(0)/m/it/10 များသည် သဘာဝဘေးအန္တရာယ်ဆိုးကြီးများ ဖြစ်ပေါ်နိုင
+်
+ []
+
+File: jarkov-mammoth.jpg Graphic file (type bmp)
+<jarkov-mammoth.jpg>
+Missing character: There is no ‌ (U+200C) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 များ၌ တွေ့ရလေ့ရှိသည့် ရေခဲထုအောက်တွင် အသားစိုင်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 များ မပျောက်မပျက် အေးခဲထားသည့် ဧရာမဆင်ကြီး
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 များဖြစ်သည် \TU/LatinModernRoman(0)/m/n/10 (\TU/
+NotoSansMyanmar(0)/m/it/10 ပုံ []\TU/LatinModernRoman(0)/m/n/10 1[])\TU/NotoSan
+sMyanmar(0)/m/it/10 ။ ဆိုက်\TU/LatinModernRoman(0)/m/n/10 ‌\TU/NotoSansMyanmar(
+0)/m/it/10 ဘေးရီးယားတွင် ရှာဖွေတွေ့ရှိ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ခဲ့သည့် ကျောက်စရစ်နုန်းမြေထဲ၌ နစ်မြုပ်နေသော ဘရီ
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ဆော့ဗ်ကာ ဧရာမဆင်ကြီးသည် မူလအတိုင်း မပျောက်မ
+ []
+
+
+Underfull \hbox (badness 6625) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ပျက်ရှိနေသောကြောင့် သေဆုံးပြီးနောက် နှစ်ပေါင်းထေ
+ာင်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 နှင့်ချီ၍ ကြာမြင့်ပြီဖြစ်သည့်တိုင် ၎င်း၏အသားမှာ 
+စား
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ကြီး၏ ပါးစပ်နှင့် အစာအိမ်ထဲတွင် အသီးအရွက်စားစရာ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 များလည်း ရှိနေသောကြောင့် ၎င်းမသေဆုံးမီအချိန်လေး
+ []
+
+
+Underfull \hbox (badness 8151) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 မှာပင် အသီးအပွင့်များကို စားသုံးနေစဉ် အလွန်လျင်မ
+ြန်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 လှစွာ အေးခဲသွားရလောက်အောင် မည်သို့များ ကြုံတွေ့
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ခဲ့လေသနည်းဆိုပြီး သိပ္ပံပညာရှင်များကို ဇဝေဇဝါဖြစ
+်စေ
+ []
+
+
+Underfull \hbox (badness 6842) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ခဲ့ပါသည် \TU/LatinModernRoman(0)/m/n/10 [[]]\TU/
+NotoSansMyanmar(0)/m/it/10 ။ တင်ပြထားချက်များအရ \TU/LatinModernRoman(0)/m/it/10
+ "\TU/NotoSansMyanmar(0)/m/it/10 ၁၉၀၁ ခုနှစ်
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 တွင် ဘရီဆော့ဗ်ကာ မြစ်အနီး၌ ဧရာမဆင်ကြီးတစ်ကောင်
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 သည် နွေခေါင်ခေါင်၌ အအေးဓာတ်ကြောင့် သေဆုံးသွားခဲ့
+
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ပုံရသည့်အတွက် စိတ်ဝင်စားခဲ့ကြခြင်းဖြစ်ကြောင်း သိ
+ရှိရ
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ပျက်မစီးရှိနေရာ မဟာလှေကားပန်းနှင့် တောရိုင်းပဲညွ
+န့်များ
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ပါဝင်နေပါသည်။ ဆိုလိုသည်မှာ ယင်းတို့ကို ဇူလိုင်လက
+ုန်
+ []
+
+
+Underfull \hbox (badness 5592) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ၎င်း၏စားကျက်မြေမှ မိုင်ပေါင်းများစွာဝေးသည့်နေရာအ
+ထိ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 နေရာ ဧရာမသတ္တဝါကြီးမှာ ဒူးထောက်ကိုင်ပေါက်ခံထားရ
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ပြီးနောက် အေးခဲသေဆုံးသွားခြင်းဖြစ်ရာ ထိုကာလမှာ ပ
+ုံ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 အစာအိမ်ရှိ အူအတွင်းပိုင်း အပေါ်ယံလွှာများမှာပင်လ
+ျှင်
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ကောင်းစွာ ထိန်းသိမ်းကျန်ရှိသော အမျှင်ဓာတ်ဖွဲ့စည်
+းပုံများ
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ကြီးမားသော ဖြစ်စဉ်တစ်ခုခုကြောင့် သူ့ခန္ဓာကိုယ် အ
+ပူချိန်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ကွယ်ပျောက်သွားရကြောင်း မှတ်တမ်းတင်ထားပါသည်။
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ဆန်ဒါဆင်သည် ဤအချက်တစ်ခုတည်းကို အထူးမှတ်သား
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ကာ ဤကိစ္စကို အမေရိကန်နိုင်ငံ အေးခဲစားအသောက်များ
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ဆင်ကြီး တစ်ကောင်လုံး၏ အစာအိမ် အူနံရံလွှာများအထိ
+ []
+
+
+Underfull \hbox (badness 4036) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 အမျှင်ဓာတ်ဖွဲ့စည်းပုံကို ပျက်စီးစေရန် ပုံဆောင်ခဲ
+ ဖြစ်ခွင့်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 မရလောက်အောင် အင်အားကြီးမားသည့် မည်သည့်အရာ
+ []
+
+
+Underfull \hbox (badness 4328) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 တွင် ထိုအဖွဲ့အစည်းသည် ဆန်ဒါဆင်ကို အဖြေတစ်ခုဖြင့်
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ယခုလို အကြောင်းပြန်လာပါသည်\TU/LatinModernRoman(0
+)/m/it/10 - \TU/NotoSansMyanmar(0)/m/it/10 ဤသည်မှာ လုံးဝမ
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 ဖြစ်နိုင်ပါ။ ကျွန်ုပ်တို့၏ သိပ္ပံနှင့် အင်ဂျင်နီ
+ယာ အသိပညာ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/NotoSansMyanmar(0)/m/it/10 အားလုံးအရဆိုလျှင် ဧရာမဆင်တစ်ကောင်တမျှ ကြီးမား
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဂရင်းကင်ညွန်ချောက်ကြီးသည် မြောက်အမေရိကတိုက်
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 139--140
+\TU/NotoSansMyanmar(0)/m/it/10 အနောက်တောင်ဘက်ရှိ မဟာလွင်ပြင်ကြီး၏ အစိတ်အပိုင်း
+ []
+
+
+Underfull \hbox (badness 7116) in paragraph at lines 139--140
+\TU/NotoSansMyanmar(0)/m/it/10 တစ်ခုဖြစ်ကာ သဘာဝဘေးအန္တရာယ်ဆိုးကြီးများ ဖြစ်ပေါ်
+
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 139--140
+\TU/NotoSansMyanmar(0)/m/it/10 ခဲ့သော မူလဇစ်မြစ်ဟု ယူဆရသည့် နောက်ထပ် သဘာ
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 139--140
+\TU/NotoSansMyanmar(0)/m/it/10 ဝဖြစ်စဉ်တစ်ခု ဖြစ်သည် \TU/LatinModernRoman(0)/m/
+n/10 (\TU/NotoSansMyanmar(0)/m/it/10 ပုံ []\TU/LatinModernRoman(0)/m/n/10 2[])\
+TU/NotoSansMyanmar(0)/m/it/10 ။ ထိုအချက်ကို စပြောရ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+\TU/NotoSansMyanmar(0)/m/it/10 လျှင် ဂရင်းကင်ညွန်ကို ဖွဲ့စည်းထားသည့် အနည်ထိုင်န
+ေ
+ []
+
+
+Underfull \hbox (badness 6141) in paragraph at lines 139--140
+\TU/NotoSansMyanmar(0)/m/it/10 သော သဲကျောက်နှင့် ထုံးကျောက်လွှာများသည် စတုရန်း
+ []
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 139--140
+\TU/NotoSansMyanmar(0)/m/it/10 ပုံ []\TU/LatinModernRoman(0)/m/n/10 3[] \TU/Not
+oSansMyanmar(0)/m/it/10 တွင် ကိုကိုနီနိုသဲကျောက်လွှာသည် အမေရိကန်နိုင်ငံ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+\TU/NotoSansMyanmar(0)/m/it/10 အနောက်ပိုင်းတစ်လျှောက် ကျယ်ပြန့်သည်ကို ဖော်ပြထား
+
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 139--140
+\TU/NotoSansMyanmar(0)/m/it/10 ဖြစ်သော အလွှာအားလုံးကို တစ်ချိန်တည်း ပို့ချခဲ့ခြ
+င်းသာ
+ []
+
+[2]
+File: grand-canyon.jpg Graphic file (type bmp)
+<grand-canyon.jpg>
+File: coconino.jpg Graphic file (type bmp)
+<coconino.jpg>
+
+Underfull \hbox (badness 2781) in paragraph at lines 161--162
+\TU/NotoSansMyanmar(0)/m/it/10 ကျယ်ပြန့်သော အနည်လွှာများ ပို့ချခဲ့သည့် တစ်ချိန်
+တည်း
+ []
+
+
+Underfull \hbox (badness 7667) in paragraph at lines 161--162
+\TU/NotoSansMyanmar(0)/m/it/10 တွင် သိသာသော ပြတ်ရွေ့ပြင်းအားများလည်း ဖြစ်ပွားခဲ
+့
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 161--162
+\TU/NotoSansMyanmar(0)/m/it/10 ချောက်ကြီးအတွင်း အနည်လွှာများ တွန့်ခေါက်ပေါ်ထွက်
+နေ
+ []
+
+
+Underfull \hbox (badness 4832) in paragraph at lines 161--162
+\TU/NotoSansMyanmar(0)/m/it/10 ကမ္ဘာဦးကျမ်း၏အဖြေများ \TU/LatinModernRoman(0)/m/
+n/10 (Answers in Genesis) \TU/NotoSansMyanmar(0)/m/it/10 အဖွဲ့
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 161--162
+\TU/NotoSansMyanmar(0)/m/it/10 မရှိခြင်းကြောင့် အနည်လွှာများသည် အနည်ထိုင်ပြီး သ
+ိပ်မ
+ []
+
+File: Grand_Staircase-big.jpg Graphic file (type bmp)
+<Grand_Staircase-big.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+\TU/NotoSansMyanmar(0)/m/it/10 အလွှာများသည် ချောက်ထဲတွင်သာ တွန့်ခေါက်နေခြင်း
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 172--173
+\TU/NotoSansMyanmar(0)/m/it/10 မဟုတ်ကြောင်း တွေ့ရှိရပါသည်။ ထိုအလွှာများသည် ကိုင
+်း
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 172--173
+\TU/NotoSansMyanmar(0)/m/it/10 တွင် တွန့်ခေါက်ပြီး ယူတားပြည်နယ် စီဒါအက်ကွဲကြောင
+်း
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 172--173
+\TU/LatinModernRoman(0)/m/n/10 (\TU/NotoSansMyanmar(0)/m/it/10 ပုံ []\TU/LatinM
+odernRoman(0)/m/n/10 4[]) \TU/NotoSansMyanmar(0)/m/it/10 ၏ မြောက်ဘက်သို့လည်း တွ
+န့်ခေါက်ပါသည်။ ဤ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+\TU/NotoSansMyanmar(0)/m/it/10 အချက်အရ ထိုအလွှာများသည် တစ်ခုပေါ်တစ်ခု အလွန်
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 172--173
+\TU/NotoSansMyanmar(0)/m/it/10 လျင်မြန်စွာ ထပ်ပြီး တွန့်ခေါက်ခဲ့ကြောင်း ယူဆရပါသ
+ည်။
+ []
+
+
+Underfull \vbox (badness 3635) has occurred while \output is active []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 174--175
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဂရင်းကင်ညွန်၏ အမှန်တယ် ဖွဲ့စည်းမှုသည် ခေတ်သစ်
+ []
+
+
+Underfull \hbox (badness 3536) in paragraph at lines 174--175
+\TU/NotoSansMyanmar(0)/m/it/10 ပညာရပ်အရ ဂရင်းကင်ညွန်သည် ကော်လိုရာဒိုမြစ်က နှစ်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+\TU/NotoSansMyanmar(0)/m/it/10 သန်းပေါင်းများစွာအတွင်း ပုံဖော်ခဲ့သည်ဟု အဆိုပြုထ
+ား
+ []
+
+
+Underfull \hbox (badness 4872) in paragraph at lines 174--175
+\TU/NotoSansMyanmar(0)/m/it/10 ပါသည် \TU/LatinModernRoman(0)/m/n/10 [[]]\TU/Not
+oSansMyanmar(0)/m/it/10 ။ သို့သော် ကမ္ဘာဦးကျမ်း၏အဖြေများ အဖွဲ့
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+\TU/NotoSansMyanmar(0)/m/it/10 ရေကန်ကြီးတစ်ခု၏ ရေသွယ်မြောင်း တိုက်စားမှုကြောင့်
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+\TU/NotoSansMyanmar(0)/m/it/10 ကန်ဘောင်များ ကျိုးပေါက်ရာမှ ချောက်ကြီးကို ပုံဖော
+်
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 174--175
+\TU/NotoSansMyanmar(0)/m/it/10 သည့် များလှစွာသော အနယ်များကို ဖယ်ရှားသည့်အတွက်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+\TU/NotoSansMyanmar(0)/m/it/10 သီတင်းပတ် အနည်းငယ်အတွင်း ဖွဲ့စည်းဖြစ်ပေါ်လာခြင်း
+
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 174--175
+\TU/NotoSansMyanmar(0)/m/it/10 ဖြစ်နိုင်သည်ဟု ယူဆထားပါသည်။ ရေကန် အနည်ပို့ချမှု
+ []
+
+
+Underfull \hbox (badness 7796) in paragraph at lines 174--175
+\TU/NotoSansMyanmar(0)/m/it/10 များနှင့် ပင်လယ်ကျောက်ဖြစ်ရုပ်ကြွင်းများအရ ဂရင်း
+ကင်
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဤမျှကြီးမားသော ကုန်းမြေချပ်ကြီးများအပေါ်သို့
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+\TU/NotoSansMyanmar(0)/m/it/10 အနည်များပို့ချရန် လိုအပ်သည့် ဘူမိဗေဒ ဖြစ်စဉ်များ
+၏
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 176--177
+\TU/NotoSansMyanmar(0)/m/it/10 နှိုင်းယှဉ်သော် သေးငယ်လှသည့် ကော်လိုရာဒိုမြစ် စသ
+ည့်
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 176--177
+\TU/NotoSansMyanmar(0)/m/it/10 အချက်များကိုကြည့်လျှင် ဤဖွဲ့စည်းမှုသည် တဖြည်းဖြည
+်း
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+[]\TU/NotoSansMyanmar(0)/m/it/10 ပိရမစ်များပြီးလျှင် ရှေးခေတ် အင်ဂျင်နီယာပညာ၏
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+\TU/NotoSansMyanmar(0)/m/it/10 ကြီးမားသော နမူနာတစ်ခုမှာ တူရကီနိုင်ငံ၊ ကပ်ပါဒိုစ
+ီ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+\TU/NotoSansMyanmar(0)/m/it/10 ယာတွင် တည်ရှိသည့် ဒရင်ကူယူ မြေအောက်မြို့ကြီး
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+\TU/LatinModernRoman(0)/m/n/10 (\TU/NotoSansMyanmar(0)/m/it/10 ပုံ ၅[]\TU/Latin
+ModernRoman(0)/m/n/10 5[]) \TU/NotoSansMyanmar(0)/m/it/10 ဖြစ်သည်။ ၎င်းသည် ထိုဒ
+ေသရှိ မြေအောက်
+ []
+
+
+Underfull \hbox (badness 8019) in paragraph at lines 180--181
+\TU/NotoSansMyanmar(0)/m/it/10 ခိုလှုံရာနေရာ ၂၀၀ ကျော်အနက် အကြီးမားဆုံးဖြစ်သည်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။ ဤမြေအောက်မြ
+ို့ကြီးတွင် လူ ၂၀\TU/LatinModernRoman(0)/m/n/10 ,\TU/NotoSansMyanmar(0)/m/it/10
+ ၀၀၀ အထိ
+ []
+
+File: derinkuyu.jpeg Graphic file (type bmp)
+<derinkuyu.jpeg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 မှာ မည်သို့သော လူ့အသိုင်းအဝိုင်းကများ မည်သည့်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 အကြောင်းပြချက်ကြောင့် မြို့တစ်မြို့လုံးကို မြေအေ
+ာက်
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 မှာ တည်ဆောက်ရန် ဆုံးဖြတ်ခဲ့သလဲ ဆိုသည့်အချက်ပင်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 ဖြစ်သည်။ မြေအောက်တွင် နေထိုင်နိုင်သော နေရာများ
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 ဖန်တီးရန် အခန်းတိုင်းကို ကျောက်သား၌ ထွင်းထုပေးရပ
+ါ
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 မည်။ မြေအောက်ဥမင်များ၏ ကြမ်းတမ်းသော ပုံသဏ္ဌာန်
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 နှင့် သွင်ပြင်များအရ ထိုလိုဏ်ခေါင်းများကို ဓာတ်အ
+ားသုံး
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 ကြောင်း သိသာပါသည်။ ယင်းမှာ မြေပြင်အထက် နေထိုင်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 စရာနေရာများ တည်ဆောက်ရသည်ထက် များစွာခက်ခဲ
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 သည့် ကြီးမားသော အလုပ်များဖြစ်ပါသည်။ တကယ်တော့
+ []
+
+
+Underfull \hbox (badness 3514) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 စိုက်ပျိုးရေး၊ နေရောင်ခြည်၊ သဘာဝနှင့် စူးစမ်းလေ့
+လာမှု
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 သည့်လူသားကများ မြေတွင်းအောင်း ဘဝဖြင့် ပုန်းအောင်
+း
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 ကာ မြေအောက်တွင် အမြဲတမ်း နေထိုင်လိုသလဲ ဆိုသည့်
+ []
+
+
+Underfull \hbox (badness 2818) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 မြို့ကြီးကို ကိုယ်ပိုင်ဘာသာရေး လှုပ်ရှားရန် သီးခ
+ြားနေရာ
+ []
+
+
+Underfull \hbox (badness 6063) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 ကို ရင်ဆိုင်ရာ၌ အသိသာဆုံးနည်းလမ်းမှာ \TU/LatinMo
+dernRoman(0)/m/n/10 “\TU/NotoSansMyanmar(0)/m/it/10 တိုက်မလား၊
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 ကာ မြေအောက်မြို့တော်တည်ဆောက်ခြင်း မဟုတ်ကြောင်း
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Missing character: There is no ‌ (U+200C) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 7963) in paragraph at lines 194--195
+\TU/NotoSansMyanmar(0)/m/it/10 ကောင်းမှုတို့ ကြည့်လျှင် ၎င်းသည် ခြိမ်းခြောက်ခံရ
+သည့်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+\TU/NotoSansMyanmar(0)/m/it/10 ကာလများတွင် ကျူးကျော်သူများကို ပိုမိုကောင်းမွန်စ
+ွာ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+\TU/NotoSansMyanmar(0)/m/it/10 တိုက်ခိုက်နိုင်အောင် ယာယီ စစ်ရေးကာကွယ်မှုအတွက်
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 194--195
+\TU/NotoSansMyanmar(0)/m/it/10 တည်ဆောက်ထားခြင်း မဟုတ်ဘဲ မြေပြင်ပေါ်မှ သေစေနိုင်
+
+ []
+
+
+Underfull \hbox (badness 4036) in paragraph at lines 194--195
+\TU/NotoSansMyanmar(0)/m/it/10 လောက်အောင် အန္တရာယ်ကြီးများရန်မှ ကာကွယ်နိုင်အောင
+်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+\TU/NotoSansMyanmar(0)/m/it/10 ပါသည်။ ဒရင်ကူယူမြို့ကြီးတွင် အခြေခံ အိပ်ခန်းများ
+၊
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+\TU/NotoSansMyanmar(0)/m/it/10 မီးဖိုများနှင့် သန့်စင်ခန်းများ ထည့်သွင်းထားသည်သ
+ာမက
+ []
+
+
+Underfull \hbox (badness 5119) in paragraph at lines 194--195
+\TU/NotoSansMyanmar(0)/m/it/10 တိရစ္ဆာန်များအတွက် မြင်းဇောင်းများ၊ ရေလှောင်ကန်မ
+ျား၊
+ []
+
+
+Underfull \hbox (badness 6910) in paragraph at lines 194--195
+\TU/NotoSansMyanmar(0)/m/it/10 နှင့် ကြီးမားသည့် လေဝင်လေထွက်တိုင်များလည်း ပါဝင်
+
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 196--197
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဒရင်ကူယူကို တည်ဆောက်ရခြင်းအတွက် ယုတ္တိအရှိဆုံး
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+\TU/NotoSansMyanmar(0)/m/it/10 အကြောင်းပြချက်မှာ ကမ္ဘာ့မျက်နှာပြင်ပေါ်ရှိ သဘာဝ
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 196--197
+\TU/NotoSansMyanmar(0)/m/it/10 ဘေးအန္တရာယ်ဆိုးကြီးများ ဖြစ်ပေါ်နိုင်သော ဘူမိရူပ
+ ပြင်း
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 196--197
+\TU/NotoSansMyanmar(0)/m/it/10 အားများရန်မှ ကာကွယ်ရန် ရေရှည် ပြည့်စုံလုံလောက်သေ
+ာ
+ []
+
+
+Underfull \hbox (badness 4872) in paragraph at lines 196--197
+\TU/NotoSansMyanmar(0)/m/it/10 နေထိုင်စရာ နေရာတစ်ခု ကြိုတင်ပြင်ဆင်ရန် အပူတပြင်း
+
+ []
+
+File: derinkuyu-air.jpg Graphic file (type bmp)
+<derinkuyu-air.jpg>
+Missing character: There is no ‌ (U+200C) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+[]\TU/NotoSansMyanmar(0)/m/it/10 အနည်လွှာများထဲတွင် ကျောက်ဖြစ်ရုပ်ကြွင်း ဖြစ်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 နေသည်ကို မကြာခဏ တွေ့ရလေ့ရှိသည့် တိရစ္ဆာန်နှင့်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 အပင်အမျိုးမျိုး၏ ဇီဝဒြပ်ထု အရောအနှောများသည်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 နောက်ထပ်ပ\TU/LatinModernRoman(0)/m/n/10 ‌\TU/Not
+oSansMyanmar(0)/m/it/10 ဟေဠိဆန်သော ထူးခြားမှုတစ်ခုဖြစ်ပါသည်။
+ []
+
+
+Underfull \hbox (badness 6808) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 တော်ကြီး ဝီလီယံဘက္ကလင်းက အတူတကွ တွေ့ရှိစရာ
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 အကြောင်းမရှိသည့် တိရစ္ဆာန်အမျိုးစားများစွာသည် ဗြ
+ိတိန်
+ []
+
+
+Underfull \hbox (badness 3302) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 နှင့် ဥရောပတိုက်တစ်ခွင်ရှိ အနည်လွှာများထဲ၌ နစ်မြ
+ုပ်နေ
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 အဆိုပါ တိရစ္ဆာန် အကြွင်းအကျန် အစုအဝေးများကို နော
+်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 ဝေနိုင်ငံ ဗဲလ်ဒရွိုင်းကျွန်းရှိ ဂျွန်ဂယ်လာရန်ဂူထ
+ဲတွင်လည်း
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 တွေ့ရှိခဲ့ပါသည်။ ဤဂူထဲတွင် နို့တိုက်သတ္တဝါ၊ ငှက်
+နှင့် ငါး
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 များဖြစ်သည်။ ယင်းတို့သည် အလွန်လတ်လတ်ဆတ်ဆတ်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 အခြေအနေ၌ ရှိနေသေးသည့်အတွက် အဆင်တန်ဆာများ
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 အဖြစ် ဖြတ်တောက်ကာ မီးခဲပြာထုတ်လုပ်ရန်အတွင် တင်
+ []
+
+
+Underfull \hbox (badness 3396) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 ပို့ခဲ့ပါသည်။ တိရစ္ဆာန်မျိုးစုံ၏ အရိုးများသည် အတ
+ူတကွ
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 ရောနှောပြီး ပျက်စီးကြေမွကာ အစိတ်စိတ်အမွှာမွှာ ပြ
+န့်ကျဲ
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 နေသည်ဟု သိရှိရပါသည် \TU/LatinModernRoman(0)/m/n/
+10 [[], []]\TU/NotoSansMyanmar(0)/m/it/10 ။ အီဂျစ်နိုင်ငံရှိ မန်းဒ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 က်စ်ရှေးဟောင်းမြို့တွင် တိရစ္ဆာန်မျိုးစိတ်များစွ
+ာ၏ အရိုး
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 များသည် မှန်အဖြစ်ပြောင်းလဲသွားသော ရွှံ့နှင့် ရော
+နှော
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 ရှင်းပြ၍ရပါသည်။ အီဂျစ်နိုင်ငံရှိ မှန်အဖြစ်ပြောင်
+းလဲသွား
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 သော ဇီဝဒြပ်ထုများနှင့် ပတ်သက်၍ ရေကြီးရေလျှံပြီး
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 214--215
+\TU/NotoSansMyanmar(0)/m/it/10 အကြီးအကျယ် ထုတ်လွှတ်မှုများ ရှိခဲ့ပါသည်။ ပုံ []\
+TU/LatinModernRoman(0)/m/n/10 7[] \TU/NotoSansMyanmar(0)/m/it/10 တွင်
+ []
+
+File: muck-crop.jpeg Graphic file (type bmp)
+<muck-crop.jpeg>
+
+Underfull \hbox (badness 3769) in paragraph at lines 221--221
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 7. []\TU/NotoSansMyanmar(0)/m/n/9 သစ်ပင်
+ကြီးများ၊ အပင်ငယ်များနှင့် တိရစ္ဆာန်များ၏
+ []
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 221--221
+\TU/NotoSansMyanmar(0)/m/n/9 ပြန့်ကျဲကာ ဖွဲ့စည်းထားသည့် အလက်စကာ \TU/LatinModern
+Roman(0)/m/n/9 '\TU/NotoSansMyanmar(0)/m/n/9 အညစ်အကြေးများ\TU/LatinModernRoman(
+0)/m/n/9 ’
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+[]\TU/NotoSansMyanmar(0)/m/it/10 ကျွန်ုပ်တို့၏ ဘိုးဘေးများ ချန်ထားရစ်ခဲ့သော
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+\TU/NotoSansMyanmar(0)/m/it/10 အင်ဂျင်နီယာနည်းပညာမြင့်မားသည့် ရှေးခေတ်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+\TU/NotoSansMyanmar(0)/m/it/10 အဆောက်အအုံများစွာထဲတွင် လူရိုးစုများကို တွေ့ရှိရ
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+\TU/NotoSansMyanmar(0)/m/it/10 ပါသည်။ ထိုအဆောက်အအုံများကို များသောအားဖြင့်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+\TU/NotoSansMyanmar(0)/m/it/10 ကြီးကျယ်ခမ်းနားသည့် အုတ်ဂူများအဖြစ် ယူဆကြလေ့ရှိ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+\TU/NotoSansMyanmar(0)/m/it/10 သော်လည်း အနီးကပ် လေ့လာကြည့်ပါက ယင်းတို့သည်
+ []
+
+File: ww19.jpg Graphic file (type bmp)
+<ww19.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+\TU/NotoSansMyanmar(0)/m/it/10 အဆောက်အအုံများ အစုအဝေးဖြစ်သည့် ဘရူနာဘွန်ညဲ
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 240--241
+\TU/NotoSansMyanmar(0)/m/it/10 ထက်ပို၍ ပါဝင်ကာ ကျောက်တုံးကြီးများဖြင့် ပြုလုပ်ထ
+ား
+ []
+
+
+Underfull \hbox (badness 4229) in paragraph at lines 240--241
+\TU/NotoSansMyanmar(0)/m/it/10 သည့် ခပ်ကျဉ်းကျဉ်း ဝင်ပေါက်လမ်းကြောင်းတစ်ခုရှိသည
+်
+ []
+
+
+Underfull \hbox (badness 5077) in paragraph at lines 240--241
+\TU/NotoSansMyanmar(0)/m/it/10 ရှင်လျှက်ပင် မရှိတော့သော လူအနည်းငယ်၏ အလောင်း
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 240--241
+\TU/NotoSansMyanmar(0)/m/it/10 ရှုပ်ထွေးသည့် ကာကွယ်ရေး အဆောက်အအုံကြီးတစ်ခု၏
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+\TU/NotoSansMyanmar(0)/m/it/10 ကြီးမားသော အင်ဂျင်နီယာပညာ နမူနာတစ်ခုဖြစ်ပါသည်။
+ []
+
+[5]
+Underfull \vbox (badness 5563) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+[]\TU/NotoSansMyanmar(0)/m/it/10 အဆောက်အအုံကို သာမန်ကြည့်မိလျှင် ယင်းကို
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+\TU/NotoSansMyanmar(0)/m/it/10 တည်ဆောက်ရာ၌ ကြီးစွာသော အားထုတ်မှု ပြုလုပ်ခဲ့
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+\TU/NotoSansMyanmar(0)/m/it/10 ရသည်ကို တွေ့ရှိနိုင်ပါသည်။ နယူးဂရန့်ဂူတွင် တန်ချ
+ိန်
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 242--243
+\TU/NotoSansMyanmar(0)/m/it/10 ၂၀၀\TU/LatinModernRoman(0)/m/n/10 ,\TU/NotoSansM
+yanmar(0)/m/it/10 ၀၀၀ ခန့်ရှိသော ပစ္စည်း များပါဝင်သည်။ အတွင်း
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+\TU/NotoSansMyanmar(0)/m/it/10 ဘက်တွင် \TU/LatinModernRoman(0)/m/it/10 “...\TU/
+NotoSansMyanmar(0)/m/it/10 အခန်းပါဝင်သော လမ်းကြောင်းတစ်ခုရှိ
+ []
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 242--243
+\TU/NotoSansMyanmar(0)/m/it/10 ပြီး ဂူ၏ အရှေ့တောင်ဘက်မှ ဝင်ပေါက်ကတစ်ဆင့် ဝင်
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 242--243
+\TU/LatinModernRoman(0)/m/it/10 (\TU/NotoSansMyanmar(0)/m/it/10 ၆၀ ပေ\TU/LatinM
+odernRoman(0)/m/it/10 ) \TU/NotoSansMyanmar(0)/m/it/10 ရှည်ကာ တစ်နည်းအားဖြင့် အ
+ဆောက်အအုံ၏
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+\TU/NotoSansMyanmar(0)/m/it/10 အမိုးခုံး တည်ဆောက်ထားသည့် အခန်းကြီးတစ်ခန်းရှိပြီ
+း
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+\TU/NotoSansMyanmar(0)/m/it/10 များကို အော်သိုစတက်ဟုခေါ်သည့် ကျောက်ပြားကြီးများ
+
+ []
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 242--243
+\TU/NotoSansMyanmar(0)/m/it/10 ပျမ်းမျှ ၁\TU/LatinModernRoman(0)/m/it/10 .\TU/N
+otoSansMyanmar(0)/m/it/10 ၅ မီတာ အမြင့်ရှိပါသည်\TU/LatinModernRoman(0)/m/it/10 
+" \TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။ ရေလုံသော
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+\TU/NotoSansMyanmar(0)/m/it/10 မီးဖုတ်ထားသောမြေကြီးနှင့် ပင်လယ်သဲများ ရောစပ်၍
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+\TU/NotoSansMyanmar(0)/m/it/10 ရေမဝင်အောင် မံထားပါသည်။ ဤအရောအစပ်ပစ္စည်းမှ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+\TU/NotoSansMyanmar(0)/m/it/10 သည် ထိုအထိမ်းအမှတ်အဆောက်အအုံ တည်ရှိသည့်
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 242--243
+\TU/NotoSansMyanmar(0)/m/it/10 သောကြောင့် အခန်း၏ ဝင်ပေါက်နှင့် အခန်းအတွင်းဘက်
+ []
+
+File: dolmen.jpg Graphic file (type bmp)
+<dolmen.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+[]\TU/NotoSansMyanmar(0)/m/it/10 အတွင်းဘက်တွင် ရုပ်အလောင်းများ မတွေ့ရခြင်းသည်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 လည်း စိတ်ဝင်စားစရာဖြစ်သည်။ တူးဖော်မှုများအရ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 မီးလောင်ထားသော အရိုးအပိုင်းအစများနှင့် မီးမလောင်
+
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 သော အရိုးအပိုင်းအစများကို တွေ့ရှိခဲ့ရာ လူအနည်းငယ
+်ကို
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 ယူခဲ့မည်ဟု ခန့်မှန်းရပါသည်။ ရှေးခေတ်လူ့အသိုင်းအဝ
+ိုင်း
+ []
+
+
+Underfull \hbox (badness 3826) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 တစ်ခုသည် သေဆုံးသူအနည်းငယ်၏ အရိုးအပိုင်းအစများ
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 မျှနှင့် ကြီးမားသော အင်ဂျင်နီယာနည်းပညာ မြင့်မားသ
+ည့်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 အုတ်ဂူကြီးတစ်ခု တည်ဆောက်ရန် အလွန်ကြီးလေးသော
+ []
+
+
+Underfull \hbox (badness 3746) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 အားထုတ်မှု ဘာကြောင့်ပြုလုပ်ခဲ့ပါသနည်း။ ကမ္ဘာကြီး
+တွင်
+ []
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 ပြန်ဖြစ်လေ့ရှိသော သဘာဝဘေးအန္တရာယ်ကြီးများကို ကာ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 ကွယ်ရန် လူနေအိမ်များအဖြစ် ရေလုံအောင် ဂရုတစိုက်
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \hbox (badness 1881) in paragraph at lines 256--257
+\TU/NotoSansMyanmar(0)/m/it/10 နေရာ ၂၀၀ ခန့်အနက်တစ်ခု ဖြစ်ပါသည် \TU/LatinModern
+Roman(0)/m/n/10 [[], []]\TU/NotoSansMyanmar(0)/m/it/10 ။ ၎င်း
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+\TU/NotoSansMyanmar(0)/m/it/10 နည်းပညာ မြင့်မားစွာ အချောသတ်ဆောက်လုပ်ထားသည့်
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 256--257
+\TU/NotoSansMyanmar(0)/m/it/10 အဆောက်အအုံတစ်ခုဖြစ်ပြီး အချင်း ၇၅ မီတာရှိပါသည်။
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 256--257
+\TU/NotoSansMyanmar(0)/m/it/10 တို့အားလုံးကို သန္ဓေသားပုံစံဖြင့် မြှုပ်နှံထားသည
+်ဟု သိရ
+ []
+
+File: bottleneck.jpg Graphic file (type bmp)
+<bottleneck.jpg>
+
+Underfull \hbox (badness 1852) in paragraph at lines 274--275
+\TU/NotoSansMyanmar(0)/m/it/10 ဖြစ်သည်။ ဇန်နှင့်အဖွဲ့ \TU/LatinModernRoman(0)/m
+/n/10 (\TU/NotoSansMyanmar(0)/m/it/10 ၂၀၁၈\TU/LatinModernRoman(0)/m/n/10 ) \TU/
+NotoSansMyanmar(0)/m/it/10 က ခေတ်သစ်လူသားများ
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 274--275
+\TU/NotoSansMyanmar(0)/m/it/10 ထံမှ \TU/LatinModernRoman(0)/m/n/10 Y \TU/NotoSa
+nsMyanmar(0)/m/it/10 ခရိုမိုဇုန်းအတွဲ ၁၂၅ ခုကို စံပုံစံဖြင့် လေ့လာကာ
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 274--275
+\TU/NotoSansMyanmar(0)/m/it/10 လျော့ကျမှုကို ဖော်ထုတ်ခဲ့ပါသည် \TU/LatinModernRo
+man(0)/m/n/10 (\TU/NotoSansMyanmar(0)/m/it/10 ပုံ []\TU/LatinModernRoman(0)/m/n
+/10 10[]) [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။ ဝေလငါး
+ []
+
+
+Underfull \hbox (badness 5862) in paragraph at lines 274--275
+\TU/NotoSansMyanmar(0)/m/it/10 မီတာပေါင်း ရာနှင့်ချီ၍မြင့်သောနေရာတွင် တွေ့ရှိခဲ
+့ပါသည်
+ []
+
+[7]
+Underfull \hbox (badness 1968) in paragraph at lines 276--277
+[]\TU/NotoSansMyanmar(0)/m/it/10 ကမ္ဘာမြေပေါ်တွင် အစုလိုက်အပြုံလိုက် မျိုးသုဉ်း
+ပျောက်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+\TU/NotoSansMyanmar(0)/m/it/10 ဆုံး ငါးခု\TU/LatinModernRoman(0)/m/n/10 " \TU/N
+otoSansMyanmar(0)/m/it/10 ဟုခေါ်သည့်\TU/LatinModernRoman(0)/m/n/10 - \TU/NotoSa
+nsMyanmar(0)/m/it/10 အော်ဒိုဗီရှန်ခေတ် နှောင်းပိုင်း
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 276--277
+\TU/LatinModernRoman(0)/m/n/10 (LOME)\TU/NotoSansMyanmar(0)/m/it/10 ၊ ဒီနိုဗီယန
+်ခေတ် နှောင်းပိုင်း \TU/LatinModernRoman(0)/m/n/10 (LDME)\TU/NotoSansMyanmar(0)
+/m/it/10 ၊ ပါမီယန်
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 276--277
+\TU/NotoSansMyanmar(0)/m/it/10 စရာကောင်းသည့်အချက်မှာ အဆိုပါ မျိုးသုဉ်းပျောက်ကွယ
+်
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 276--277
+\TU/NotoSansMyanmar(0)/m/it/10 မှုများစွာကို ပါမီယန်ခေတ်နှင့် ဒီနိုဗီယန်ခေတ်စသည
+့် ဂရင်း
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+\TU/NotoSansMyanmar(0)/m/it/10 ကင်ညွန်၏ မြေလွှာအများအပြားနှင့် သမိုင်းဆိုင်ရာကာ
+လ
+ []
+
+
+Underfull \hbox (badness 6792) in paragraph at lines 276--277
+\TU/NotoSansMyanmar(0)/m/it/10 တူညီသောအချိန်တွင် ဖြစ်ပွားကြောင်း သတ်မှတ်ထားခြင်
+း
+ []
+
+File: columbia.jpg Graphic file (type bmp)
+<columbia.jpg>
+
+Underfull \hbox (badness 3407) in paragraph at lines 285--285
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 11. []\TU/NotoSansMyanmar(0)/m/n/9 ဝါရှင
+်တန်ပြည်နယ်၊ ကိုလံဘီယာ ရေခဲမြစ်ရေကန်ရှိ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဂရင်းကင်ညွန်အပြင် သဘာဝဘေးအန္တရာယ်ဆိုးကြီး
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+\TU/NotoSansMyanmar(0)/m/it/10 များ ဖြစ်ပေါ်နိုင်သော ပြင်းအားများကြောင့် ပေါ်ပေ
+ါက်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+\TU/NotoSansMyanmar(0)/m/it/10 လာပုံရသည့် အခြားသော မြေပြင်ပုံစံများစွာ ရှိပါသည်
+။
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 290--291
+\TU/NotoSansMyanmar(0)/m/it/10 ပုံစံများကိုကြည့်၍ တွေ့ရှိနိုင်ပါသည်။ အဆိုပါ ဥပမ
+ာတစ်
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 290--291
+\TU/NotoSansMyanmar(0)/m/it/10 ခုမှာ ပစိတ်ဖိတ်သမုဒ္ဒရာ အနောက်မြောက်ပိုင်းရှိ ချ
+န်နယ်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+\TU/NotoSansMyanmar(0)/m/it/10 စခပ်လန်းဆိုသည့် ရေစီးကြောင်းအရာထင်ခဲ့သောဒေသ
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 290--291
+\TU/NotoSansMyanmar(0)/m/it/10 ဖြစ်သည်။ ဤနေရာတွင် အနည်ထိုင်ပို့ချမှု မြေပြင်ပုံ
+စံများ
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 290--291
+\TU/NotoSansMyanmar(0)/m/it/10 ကိုသာမက ပုံမှန်မဟုတ်သော ကျောက်တုံးကြီးများကိုလည်
+း
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 290--291
+\TU/NotoSansMyanmar(0)/m/it/10 တွေ့ရပါသည်။ ထို့ပြင် ကြီးမားလှသော ရေစီးကြောင်းမျ
+ား
+ []
+
+File: zhangjiajie.jpg Graphic file (type bmp)
+<zhangjiajie.jpg>
+File: hoy.jpg Graphic file (type bmp)
+<hoy.jpg>
+
+Underfull \hbox (badness 3690) in paragraph at lines 307--307
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 13. []\TU/NotoSansMyanmar(0)/m/n/9 စကော့
+တလန်၊ ဟွိုက်ကျွန်းပေါ်ရှိ ပင်လယ်ကမ်းစပ်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+[]\TU/NotoSansMyanmar(0)/m/it/10 ကုန်းတွင်း တိုက်စားမှုကြောင့် ဖြစ်ပေါ်သောပုံစံ
+များ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ကို \TU/LatinModernRoman(0)/m/n/10 ECDO \TU/Noto
+SansMyanmar(0)/m/it/10 နှင့်တူသော ကမ္ဘာ့ဝင်ရိုး ချော်ထွက်မှုဖြင့်
+ []
+
+
+Underfull \hbox (badness 3199) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ကောင်းစွာ ရှင်းပြနိုင်ပါသည်။ တရုတ်နိုင်ငံတောင်ပိ
+ုင်းသည်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ကျောက်သားများကို ရေတိုက်စားမှုကြောင့် ဖြစ်ပေါ်လာ
+
+ []
+
+
+Underfull \hbox (badness 2744) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 များ၏ နမူနာတစ်ခုဖြစ်သည် \TU/LatinModernRoman(0)/
+m/n/10 [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။ ဤမြေပြင်ပုံစံကြီးများ
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 တွင် မျှော်စင် တာဝါတိုင်ကျောက်သား၊ အမိုးချွန် ကျ
+ောက်
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 များ၊ ကြီးမားသော ဂူအဖွဲ့အစည်းများနှင့် တွင်းများ
+ ပါဝင်
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ကျယ် အမျိုးသားသစ်တောဖြစ်ပြီး ကြီးမားသော သလင်း
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 များသည် ပင်လယ်ရေ တိုက်စားသည့် ကျောက်တိုင်များ
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ကြောင့် အနီးဝန်းကျင်မှ အရာဝတ္ထုများ ပြိုလဲရာမှ ဖ
+ြစ်
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 အန်ခန်တာဒါတို့တွင်လည်း တွေ့နိုင်ပြီး ယင်းတို့နှစ
+်ခုစလုံးမှာ
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ပင်လယ်ရေမျက်နှာပြင်အထက် မီတာ ၁\TU/LatinModernRom
+an(0)/m/n/10 ,\TU/NotoSansMyanmar(0)/m/it/10 ၀၀၀ ကျော် မြင့်
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 မှုအချို့ကို တွေ့ရသည့်အတွက် ယခင်က ပင်လယ်ရေ ဝင်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ရေမျက်နှာပြင်အထက် ကီလိုမီတာများစွာရှိသည့် အင်းဒီ
+း
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 အားဖြင့် ဘိုလီးဗီးယားနိုင်ငံရှိ အူယူနီ ဆားလွင်ပြ
+င်သည်
+ []
+
+[8]
+Underfull \hbox (badness 1931) in paragraph at lines 316--317
+[]\TU/NotoSansMyanmar(0)/m/it/10 ခေတ်သစ် သိပ္ပံစာပေများတွင် ကမ္ဘာကြီး၏ မကြာသေး
+ []
+
+
+Underfull \hbox (badness 7740) in paragraph at lines 316--317
+\TU/NotoSansMyanmar(0)/m/it/10 မီက သမိုင်းကြောင်းတွင် အလွန်လျင်မြန်သည့် ကမ္ဘာလု
+ံး
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
+\TU/NotoSansMyanmar(0)/m/it/10 ဆိုင်ရာ ရာသီဥတုအပြောင်းအလဲ ဖြစ်ရပ်များရှိခဲ့သည်က
+ို
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 316--317
+\TU/NotoSansMyanmar(0)/m/it/10 စလုံးသည် လူဦးရေ လျော့နည်းခြင်းနှင့် လူမှုရေးအခြေ
+ချ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
+\TU/NotoSansMyanmar(0)/m/it/10 မှုဆိုင်ရာ ရပ်တန့်ခြင်းများနှင့် တိုက်ဆိုင်နေပါသ
+ည်။ ဤ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
+\TU/NotoSansMyanmar(0)/m/it/10 များနှင့် ပင်လယ်ရေမျက်နှာပြင် အချက်အလက်များတွင်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
+\TU/NotoSansMyanmar(0)/m/it/10 ထူးခြားချက်များအဖြစ် သိမ်းဆည်းထားပါသည်။ ယူဆရ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
+\TU/NotoSansMyanmar(0)/m/it/10 အပူချိန် လျင်မြန်စွာ လျော့ကျသွားခြင်း၊ မိုးခေါင်
+ရေရှား
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 316--317
+\TU/NotoSansMyanmar(0)/m/it/10 ခြင်း၊ အတ္တလန္တိတ် တောင်ပိုင်း နောက်ပြန်ရေစီးကြေ
+ာင်း
+ []
+
+
+Underfull \vbox (badness 1509) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+[]\TU/NotoSansMyanmar(0)/m/it/10 ရှေးဟောင်းမြို့တော်အချို့ရှိ ရှေးဟောင်းသုတေသန
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 အထောက်အထားများအရ အတိတ်ကာလ သဘာဝ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 ဘေးအန္တရာယ်ဆိုးကြီးများ ဖြစ်ပေါ်ခဲ့သော ဖြစ်ရပ်မျ
+ားကို
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 တိုင်းတွင် တည်ရှိသည့် ဂျယ်ရီခိုရှေးဟောင်းမြို့တေ
+ာ်မှာ
+ []
+
+
+Underfull \hbox (badness 4927) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 ထိုသို့သောမြို့တစ်မြို့ဖြစ်သည်။ ဤမြို့တွင် ကျောက
+်သား
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 အဆောက်အအုံများ ပြိုကျမှုနှင့် အကြီးအကျယ် မီးလောင
+်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 မှုတို့ပါဝင်သည့် အပျက်အစီးအလွှာများစွာ ပါဝင်ပါသည
+်
+ []
+
+
+Underfull \hbox (badness 4084) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 ပါသည်။ အထူးမှတ်သားဖွယ် အချက်မှာ ခရစ်တော်မပေါ်
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 လည်း အပျက်အစီး အထောက်အထားများ တစ်ခါတစ်ရံ
+ []
+
+File: jericho.jpg Graphic file (type bmp)
+<jericho.jpg>
+Missing character: There is no ‌ (U+200C) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 1478) in paragraph at lines 332--333
+\TU/NotoSansMyanmar(0)/m/it/10 ကြီးများဖြင့် ကပ်ဘေးဆိုက်ပြီး ဖျက်စီးခဲ့သည့် နော
+က်ထပ်
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 332--333
+\TU/NotoSansMyanmar(0)/m/it/10 အ\TU/LatinModernRoman(0)/m/n/10 ‌\TU/NotoSansMya
+nmar(0)/m/it/10 ထောက်အထား တစ်ခုမှာ အိုင်ဒါဟိုပြည်နယ်ရှိ မီးတောင်
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 332--333
+\TU/NotoSansMyanmar(0)/m/it/10 သို့မဟုတ် ကွာတာနရီ အစောပိုင်းကာလအတွင်း နစ်မြုပ်ခ
+ဲ့
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 332--333
+\TU/NotoSansMyanmar(0)/m/it/10 ရှိကြောင်း ယူဆရပါသည်။ သို့သော် ထိုဒေသရှိ မီးတောင
+်
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 332--333
+\TU/NotoSansMyanmar(0)/m/it/10 ပေါ်တွင် သဘာဝဘေးအန္တရာယ်ဆိုးကြီးများ ဖြစ်ပေါ်ခဲ့
+သော
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 332--333
+\TU/NotoSansMyanmar(0)/m/it/10 အချက်များသာမက ယနေ့ခေတ် သက်တမ်းခန့်မှန်းမှုများကိ
+ု
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 336--337
+\TU/NotoSansMyanmar(0)/m/it/10 သံသယဖြစ်စရာ အရေးကြီးသော အကြောင်းပြချက် ရှိနေ
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+[]\TU/NotoSansMyanmar(0)/m/it/10 ပုံမှန်အယူအဆအရ ကျောက်မီးသွေး၊ ဆီနှင့်
+ []
+
+
+Underfull \hbox (badness 3635) in paragraph at lines 338--339
+\TU/NotoSansMyanmar(0)/m/it/10 သဘာဝဓာတ်ငွေ့စသည့် \TU/LatinModernRoman(0)/m/n/10
+ "\TU/NotoSansMyanmar(0)/m/it/10 ကျောက်ဖြစ်ရုပ်ကြွင်းများ\TU/LatinModernRoman(0
+)/m/n/10 " \TU/NotoSansMyanmar(0)/m/it/10 သည်
+ []
+
+
+Underfull \hbox (badness 3068) in paragraph at lines 338--339
+\TU/NotoSansMyanmar(0)/m/it/10 နှစ်သန်းပေါင်း ရာနှင့်ချီ၍ သက်တမ်းရှိသည်ဟု ဖော်ပ
+ြကြ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+\TU/NotoSansMyanmar(0)/m/it/10 ထိုထက်အဆထောင်နှင့်ချီ၍ သက်တမ်းရှိသည်ဟု ယူဆ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+\TU/NotoSansMyanmar(0)/m/it/10 ရသော ကျောက်မီးသွေးနှင့် ကျောက်ဖြစ်ရုပ်ကြွင်းများ
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+\TU/NotoSansMyanmar(0)/m/it/10 ထဲတွင် ယင်းကိုတွေ့ရှိထားရပါသည် \TU/LatinModernRo
+man(0)/m/n/10 [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။ တကယ်တော့
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 338--339
+\TU/NotoSansMyanmar(0)/m/it/10 ကျောက်မီးသွေးအတုကို ဓာတ်ခွဲခန်းထဲတွင် အဓိကအားဖြင
+့်
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 338--339
+\TU/NotoSansMyanmar(0)/m/it/10 မြင့်မားသောအပူချိန်ကဲ့သို့ ထိန်းချုပ်ထားသော အခြေ
+အနေ
+ []
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 338--339
+\TU/NotoSansMyanmar(0)/m/it/10 များအောက်၌ ၂ လမှ ၈ လအတွင်းမှာပင် ထုတ်လုပ်နိုင်
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 340--341
+[]\TU/NotoSansMyanmar(0)/m/it/10 ကာဗွန် သက်တမ်းခန့်မှန်းနည်းအပြင် ရေဒီယိုအိုင်ဆ
+ိုတုပ်
+ []
+
+
+Underfull \hbox (badness 6526) in paragraph at lines 340--341
+\TU/NotoSansMyanmar(0)/m/it/10 အဖွဲ့သည် ထိုနည်းလမ်းများဖြင့် ရရှိလာသည့် သက်တမ်း
+
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 340--341
+\TU/NotoSansMyanmar(0)/m/it/10 ရက်စွဲများ မကိုက်ညီမှုများ တွေ့ရှိကာ ယင်းတို့၏ တ
+ိကျမှု
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 340--341
+\TU/NotoSansMyanmar(0)/m/it/10 အပေါ် မေးခွန်းထုတ်စရာ ဖြစ်နေပါသည် \TU/LatinModer
+nRoman(0)/m/n/10 [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။ ဒိုင်နိုဆော
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 340--341
+\TU/NotoSansMyanmar(0)/m/it/10 သက်တမ်း နှစ်ပေါင်းသန်းတစ်ရာရှိကြောင်း ယူဆရပါသည်
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 340--341
+\TU/NotoSansMyanmar(0)/m/it/10 လောင်စာများကဲ့သို့ ရုပ်ဝတ္ထုများ၏ ပုံမှန်လက်ခံထာ
+းသော
+ []
+
+
+Underfull \hbox (badness 5970) in paragraph at lines 340--341
+\TU/NotoSansMyanmar(0)/m/it/10 သက်တမ်းများသည် ပမာဏများပြားလှစွာ မှားယွင်းနေနိုင
+်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဤစာတမ်းတွင် သဘာဝဘေးအန္တရာယ်ကြီးများကြောင့်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
+\TU/NotoSansMyanmar(0)/m/it/10 ချက်များကို ဖော်ပြခဲ့ပါသည်။ ဤကဲ့သို့ စုစည်းဖော်ပ
+ြမှု
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 344--345
+\TU/NotoSansMyanmar(0)/m/it/10 များသည် စုံလင်သော်လည်း မပြည့်စုံသေးပါ။ နောက်ထပ်
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 344--345
+\TU/NotoSansMyanmar(0)/m/it/10 ထူးခြားချက်များကို စုစည်းလျက်ရှိပြီး ကျွန်ုပ်၏ \
+TU/LatinModernRoman(0)/m/n/10 GitHub
+ []
+
+
+Underfull \hbox (badness 5862) in paragraph at lines 344--345
+\TU/NotoSansMyanmar(0)/m/it/10 သုတေသန စုစည်းထားသည့်စာရင်းတွင် လူတိုင်းဖတ်ရှုနို
+င်
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
+[]\TU/LatinModernRoman(0)/m/n/10 ECDO \TU/NotoSansMyanmar(0)/m/it/10 သီအိုရီ၏ မ
+ူရင်းစာတမ်းရေးသားသူဖြစ်သော
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
+\TU/NotoSansMyanmar(0)/m/it/10 ကျင့်ဝတ် ဝေဖန်သူအား သူ၏ စိတ်ဝင်စားဖွယ် ကွဲပြား
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 348--349
+\TU/NotoSansMyanmar(0)/m/it/10 ခြားနားသော စာတမ်းနှင့် ယင်းကို တစ်ကမ္ဘာလုံးနှင့်
+ မျှဝေ
+ []
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 348--349
+\TU/NotoSansMyanmar(0)/m/it/10 ခဲ့ခြင်းအတွက် ကျေးဇူးတင်ပါသည်။ သူ၏ အပိုင်းသုံးပိ
+ုင်း
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 348--349
+\TU/NotoSansMyanmar(0)/m/it/10 စာတမ်း \TU/LatinModernRoman(0)/m/n/10 [[]] \TU/N
+otoSansMyanmar(0)/m/it/10 သည် အပူထုတ်လွှတ်သော ကမ္ဘာ့ဗဟိုလွှာ
+ []
+
+
+Underfull \hbox (badness 5431) in paragraph at lines 348--349
+\TU/NotoSansMyanmar(0)/m/it/10 ခိုင်မာသောသုတေသနတစ်ခုအဖြစ် ဆက်လက်တည်ရှိနေပြီး
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 348--349
+\TU/NotoSansMyanmar(0)/m/it/10 ယခုကျွန်ုပ် အကျဉ်းချုပ် တင်ပြထားသည်ထက် ပို၍စုံလင
+်
+ []
+
+
+Underfull \hbox (badness 3635) in paragraph at lines 350--351
+\TU/NotoSansMyanmar(0)/m/it/10 မှုများစွာ ဆောင်ရွက်ခဲ့သလို လူသားထုအပေါ် အသိဉာဏ်
+
+ []
+
+[10] (./2burmesetranslated.bbl
+Underfull \hbox (badness 3942) in paragraph at lines 9--11
+[]\TU/LatinModernRoman(0)/m/n/9 Answers research journal, 2008--present.  https
+://
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]\TU/LatinModernRoman(0)/m/n/9 GetYourGuide.  Canyoning in grand canyon.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][]
+[][][][][][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Mega-current ripples.  []$[][][][][] []
+ [] [] [][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][] [] [][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][
+][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][
+][][][] []
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 195--199
+\TU/LatinModernRoman(0)/m/n/9 tional park.  []$[][][][][] [] [] [] [][][] [] []
+[][] [] [][][] [] [][][][] [] [][][][][] [] [][][][][][] []
+ []
+
+
+Underfull \hbox (badness 4556) in paragraph at lines 218--225
+[][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][] [] [][][][]$[]\TU/LatinModernRoman(0)/m/n/9 , May 2017.
+ []
+
+[11
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/LatinModernRoman(0)/m/n/9 theethicalskeptic.com/2024/05/23/master-exothermi
+c-
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 398--401
+\TU/LatinModernRoman(0)/m/n/9 The Free Encyclopedia, 2025.  [Online; accessed 8
+-
+ []
+
+) [12] (./2burmesetranslated.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 13631 strings out of 475702
+ 264554 string characters out of 5785445
+ 2156627 words of memory out of 5000000
+ 35360 multiletter control sequences out of 15000+600000
+ 567397 words of font info for 103 fonts, out of 8000000 for 9000
+ 932 hyphenation exceptions out of 8191
+ 79i,9n,93p,2885b,495s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on 2burmesetranslated.pdf (12 pages).

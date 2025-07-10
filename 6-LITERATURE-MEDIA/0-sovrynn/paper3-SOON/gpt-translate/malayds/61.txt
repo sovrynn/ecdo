@@ -1,0 +1,4 @@
+\renewcommand{\refname}{Rujukan}
+\bibliographystyle{ieee}
+\bibliography{egbib}
+}

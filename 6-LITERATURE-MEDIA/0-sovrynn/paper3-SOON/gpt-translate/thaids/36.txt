@@ -1,0 +1,5 @@
+\subsection{หลักฐานเพิ่มเติมเกี่ยวกับการเตรียมบังเกอร์และหายนะ}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}

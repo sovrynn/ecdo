@@ -1,0 +1,12 @@
+A study of paleomagnetic data preserving the geomagnetic pole paths of the Iceland Basin and Laschamp excursions \cite{35}, depicted in Figure \ref{fig:7}, shows the poles rotating approximately around the eastern ECDO pivot of (0 N, 121 E). This data is recorded in certain kinds of magnetic minerals in rocks that formed during the pole excursions, preserving information about the direction and intensity of the Earth's magnetic field at that time.
+
+आइसल्याण्ड बेसिन र लास्चाम्प विचलनहरूको ज्योम्याग्नेटिक पोल पथहरू सुरक्षित गर्ने पालेओम्याग्नेटिक तथ्याङ्कको एउटा अध्ययन \cite{35}, जसलाई चित्र \ref{fig:7} मा देखाइएको छ, ले पोलहरू अनुमानित रूपमा पूर्वी ECDO ध्रुव (०° उत्तर, १२१° पूर्व) वरिपरि घुमिरहेको देखाउँछ। यो तथ्याङ्क ती खालका चुम्बकीय खनिजहरूमा अभिलेख गरिएको छ जुन चट्टानहरूमा पोल विचलनहरूका समयमा बनेका थिए, जसले सो समयमा पृथ्वीको चुम्बकीय क्षेत्रको दिशा र तीव्रताको जानकारी संरक्षण गरेको हुन्छ।
+
+\begin{figure*}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
+\includegraphics[width=0.95\textwidth]{biodiversity.jpg}
+\end{center}
+   \caption{विश्वका प्रमुख मरुभूमिहरू र बिचमा रहेका जैविक विविधताको हटस्पटहरूको चित्रण \cite{28}.}
+\label{fig:9}
+\end{figure*}

@@ -1,0 +1,5 @@
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{npw.jpg}
+\end{center}
+   \caption{Kedudukan kutub utara geomagnet dari tahun 1590 hingga 2025, digambarkan dalam kenaikan 5 tahun \cite{41}. Pergerakannya mula meningkat dengan pantas pada tahun 1975.}
+\label{fig:13}

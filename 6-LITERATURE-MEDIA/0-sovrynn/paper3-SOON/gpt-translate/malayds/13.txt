@@ -1,0 +1,5 @@
+   \includegraphics[width=1\linewidth]{freemason.jpg}
+\end{center}
+   \caption{Freemason British dalam keadaan semula jadi, merancang secara senyap untuk melepaskan beberapa bom nuklear dan menguasai dunia - di Earls Court, London, 1992 \cite{5}.}
+\label{fig:1}
+\label{fig:onecol}

@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage{fontspec,color}
+% \usepackage[Latin,Tamil,Devanagari]{ucharclasses}
+\usepackage{ucharclasses}
+
+\setmainfont[Script=Latin]{Noto Serif}
+\setmonofont{Noto Mono}
+% \newfontfamily\tamilfont[Script=Tamil,Scale=MatchLowercase]{Noto Sans Tamil}
+% \newfontfamily\devanagarifont[Script=Devanagari,Scale=MatchLowercase]{Noto Sans Devanagari}
+
+\newfontfamily\tamilfont[Script=Tamil]{Noto Sans Tamil}
+\newfontfamily\devanagarifont[Script=Devanagari]{Noto Sans Devanagari}
+
+\setTransitionsForLatin{\normalfont\color{blue}}{}
+\setTransitionTo{Tamil}{\tamilfont\color{red}}
+\setTransitionsFor{Devanagari}{\devanagarifont\color{green}}{}
+
+\setlength{\parindent}{0pt}
+
+\begin{document}
+\color{blue}
+Using \texttt{ucharclasses}. This is the normal font. இது தமிழ் எழுத்து. इति देवनागरी लिपि. Back to English using the Latin script.
+
+\medskip
+\color{blue}
+
+Declaring fonts explicitly. This is the normal font. {\tamilfont\color{red} இது தமிழ் எழுத்து.} {\devanagarifont\color{green} इति देवनागरी लिपि.} Back to English using the Latin script.
+\end{document}

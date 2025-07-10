@@ -1,0 +1,5 @@
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{pike.jpg}
+\end{center}
+   \caption{Улаанаар тодруулсан алдарт Пайк Пик батолит ба АНУ-ын баруун бүсийн гадаргуу \cite{36}. Америкийн Нэгдсэн Улс үнэхээр энэ байршлыг хянахын тулд бүтээгдсэн гэж үү?}
+\label{fig:11}

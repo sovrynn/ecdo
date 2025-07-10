@@ -1,0 +1,4 @@
+Titik data terkuat yang boleh diukur yang menunjukkan kejadian geofizikal yang akan berlaku ialah medan geomagnetik Bumi yang berubah dengan pantas. Ini boleh diukur bukan sahaja melalui pergerakan pantas kutub magnetik utara (Rajah \ref{fig:13}) dan pertumbuhan anomali geomagnetik Atlantik Selatan, tetapi juga dalam pelemahan dan herotan umum medan geomagnetik yang semakin pantas sejak 400 tahun kebelakangan ini \cite{3}. Data saintifik sedemikian dibincangkan secara panjang lebar dalam dua kertas kerja ECDO pertama saya, yang boleh diakses di laman web saya \cite{3}.
+
+\begin{figure}[t]
+\begin{center}

@@ -1,0 +1,5 @@
+   \caption{Satu peta yang menunjukkan lokasi tepat yang penyelidikan Sauder mendedahkan paling pasti mempunyai pangkalan bawah tanah dan bawah laut, serta terowong kapal selam bawah air yang menuju ke pedalaman. Sauder \textit{"yakin terdapat \textbf{banyak lagi} kemudahan berbanding [ini]"} \cite{22}.}
+   \label{fig:4}
+\end{figure*}
+
+Berikut adalah beberapa petikan testimoni daripada sumber Sauder yang menerangkan sejauh mana sesetengah pangkalan ini:

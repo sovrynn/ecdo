@@ -1,0 +1,5 @@
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{derinkuyu-air.jpg}
+\end{center}
+   \caption{डेरिन्कुयुमा गहिरो भेन्टिलेसन कुँड \cite{53}.}
+\label{fig:6}

@@ -1,0 +1,1046 @@
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian) 
+ restricted system commands enabled.
+(./1vietnamesetranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/vntex/t5enc.def)
+(/usr/share/texmf/tex/latex/lm/t5lmr.fd))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/vi/babel-vietnamese.tex
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+)
+
+Package babel Info: The current font is not a babel standard family:
+(babel)             NotoSerif:mode=node;script=latn;language=dflt;+tlig;family=
+rm;
+(babel)             There is nothing intrinsically wrong with this warning, and
+
+(babel)             you can ignore it altogether if you do not need these
+(babel)             families. But if they are used in the document, you should 
+be
+(babel)             aware 'babel' will not set Script and Language for them, so
+
+(babel)             you may consider defining a new family with \babelfont.
+(babel)             See the manual for further details about \babelfont.
+(babel)             Reported on input line 93.
+
+(/usr/share/texlive/texmf-dist/tex/generic/hyphen/zerohyph.tex)
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 93.
+
+(./1vietnamesetranslated.aux
+
+LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+
+Package babel Info: The following font families will use the default
+(babel)             settings for all or some languages:
+(babel)             * \sffamily = phv
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             * \ttfamily = pcr
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             There is nothing intrinsically wrong with it, but
+(babel)             'babel' will no set Script and Language, which could
+(babel)             be relevant in some languages. If your document uses
+(babel)             these families, consider redefining them with \babelfont.
+(babel)             Reported on input line 3.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/vntex/t5cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \vbox (badness 1048) has occurred while \output is active [1{/var/lib
+/texmf/fonts/map/pdftex/updmap/pdftex.map}<./b.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active [2]
+Underfull \vbox (badness 10000) has occurred while \output is active [3]
+[4<./marine.jpg><./tibet.jpg>] [5<./khafre.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active [6<./shaft
+s.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active [7<./drawi
+ng.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Text page 8 contains only floats.
+
+[8<./biodiversity.jpg><./meinesz3.jpg><./laj.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active [9<./dzhan
+i.jpg><./layers.jpg>]
+Underfull \hbox (badness 1005) in paragraph at lines 375--375
+[] \TU/NotoSerif(1)/b/n/12 . Bằng chứng về việc sắp xảy ra hiện
+[10<./llvp.jpg><./npw.jpg>] [11<./saa.jpg><./ocean-highlight.jpg>] [12<./saa-cr
+op.jpeg>]
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \vbox (badness 10000) has occurred while \output is active [13]
+[14]
+Underfull \vbox (badness 10000) has occurred while \output is active [15<./wave
+.jpg><./star-stone.jpg>] [16<./deepsea.jpg>] [17<./sealevel.jpeg>] [18<./co2.jp
+g><./ice.jpg>] (./1vietnamesetranslated.bbl
+Underfull \hbox (badness 2762) in paragraph at lines 4--7
+[]\TU/NotoSerif(1)/m/n/9 Great flood (china).  []$\TU/pcr/m/n/9 https://en.wiki
+pedia.org/wiki/
+
+Underfull \hbox (badness 1701) in paragraph at lines 27--33
+\TU/NotoSerif(1)/m/n/9 M. Deininger, A. Sifed-dine, L. Bouchaou, C. Spötl,
+
+Underfull \hbox (badness 5787) in paragraph at lines 27--33
+\TU/NotoSerif(1)/m/n/9 R. L. Ed-wards, and H. Cheng.  North at-lantic
+
+Underfull \hbox (badness 1496) in paragraph at lines 27--33
+\TU/NotoSerif(1)/m/n/9 ing the holocene: In-sights from west-ern mediter-
+
+Underfull \hbox (badness 6110) in paragraph at lines 45--50
+[]\TU/NotoSerif(1)/m/n/9 U. R. Chris-tensen.  Geo-dy-namo mod-els: Tools
+
+Underfull \hbox (badness 4608) in paragraph at lines 45--50
+\TU/NotoSerif(1)/m/n/9 for un-der-stand-ing prop-er-ties of earth’s mag-netic
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 72--75
+[]\TU/NotoSerif(1)/m/n/9 L. DeGrey-Ellis and P. Link.  Palouse and glacial
+
+Underfull \hbox (badness 1360) in paragraph at lines 72--75
+\TU/NotoSerif(1)/m/n/9 lake mis-soula.  https://www.isu.edu/dig-i-tal-ge-ol-o-g
+yi-
+
+Underfull \hbox (badness 1831) in paragraph at lines 77--83
+[]\TU/NotoSerif(1)/m/n/9 D. G. Des-bruyères, S. G. Purkey, E. L. Mc-Don-agh,
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--83
+\TU/NotoSerif(1)/m/it/9 Geo-phys-i-cal Re-search Let-ters\TU/NotoSerif(1)/m/n/9
+ , 43(19):10356--10365,
+
+Underfull \hbox (badness 1127) in paragraph at lines 85--89
+[]\TU/NotoSerif(1)/m/n/9 J. Din, H. Su, and L. Jing.  The role of the three
+
+Underfull \hbox (badness 5787) in paragraph at lines 172--175
+[]\TU/NotoSerif(1)/m/n/9 Junho.  Ecdo github re-search repos-i-tory, 2024.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+[]\TU/NotoSerif(1)/m/n/9 Junho.  Egypt cat-a-clysm chronol-ogy, 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+\TU/NotoSerif(1)/m/n/9 https://github.com/sovrynn/ecdo/tree/mas-ter/1-
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--192
+[]\TU/NotoSerif(1)/m/n/9 D. Kout-soyian-nis, N. Ma-mas-sis, A. Ef-s-tra-tiadis,
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 207--213
+[]\TU/NotoSerif(1)/m/n/9 B. Lehner, M. Anand, E. Fluet-Chouinard, F. Tan,
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 231--234
+[]\TU/NotoSerif(1)/m/n/9 N. Maestri.  Chalchi-uhtlicue - aztec god-
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--234
+\TU/NotoSerif(1)/m/n/9 dess of lakes, streams, and oceans, 2023.
+
+Underfull \hbox (badness 3058) in paragraph at lines 253--256
+[]\TU/NotoSerif(1)/m/n/9 F. A. V. Meinesz.  Shear pat-terns of the earth’s
+
+Underfull \hbox (badness 1635) in paragraph at lines 253--256
+\TU/NotoSerif(1)/m/n/9 crust.  \TU/NotoSerif(1)/m/it/9 Trans-ac-tions, Amer-i-c
+an Geo-phys-i-cal Union\TU/NotoSerif(1)/m/n/9 ,
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--280
+[]\TU/NotoSerif(1)/m/n/9 Na-tional Cen-ters for En-vi-ron-men-tal In-for-ma-tio
+n
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--285
+[]\TU/NotoSerif(1)/m/n/9 Na-tional Cen-ters for En-vi-ron-men-tal In-for-ma-tio
+n
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--290
+[]\TU/NotoSerif(1)/m/n/9 Na-tional Cen-ters for En-vi-ron-men-tal In-for-ma-tio
+n
+
+Underfull \hbox (badness 1314) in paragraph at lines 287--290
+\TU/NotoSerif(1)/m/n/9 (NCEI).  In-ter-na-tional ge-o-mag-netic ref-er-ence fie
+ld
+
+Underfull \hbox (badness 2302) in paragraph at lines 292--296
+[]\TU/NotoSerif(1)/m/n/9 Na-tional Oceanic and At-mo-spheric Ad-min-is-tra-tion
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 308--315
+\TU/NotoSerif(1)/m/n/9 lic do-main text dig-i-tized by the Perseus Project
+
+Underfull \hbox (badness 2393) in paragraph at lines 308--315
+\TU/NotoSerif(1)/m/n/9 un-der a Cre-ative Com-mons Attribution-ShareAlike
+
+Underfull \hbox (badness 1728) in paragraph at lines 308--315
+\TU/NotoSerif(1)/m/n/9 3.0 United States Li-cense. CTS URN: urn:cts:greek-
+
+Underfull \hbox (badness 1270) in paragraph at lines 334--339
+[]\TU/NotoSerif(1)/m/n/9 T. E. Skep-tic.  Exother-mic core-mantle de-cou-pling
+
+Underfull \hbox (badness 2237) in paragraph at lines 334--339
+\TU/NotoSerif(1)/m/n/9 – dzhanibekov os-cil-la-tion (ecdo) hy-poth-e-sis, 202
+4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\TU/NotoSerif(1)/m/n/9 https://theeth-i-calskep-tic.com/2024/05/12/exothermic-
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\TU/NotoSerif(1)/m/n/9 core-mantle-decoupling-dzhanibekov-oscillation-
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--351
+\TU/NotoSerif(1)/m/n/9 https://theeth-i-calskep-tic.com/2024/05/23/master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--351
+\TU/NotoSerif(1)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--359
+\TU/pcr/m/n/9 ecdo/tree/master/0-[]FOUNDATION-[]THEORY/s2#
+
+Underfull \hbox (badness 1642) in paragraph at lines 372--376
+[]\TU/NotoSerif(1)/m/n/9 M. Staub-wasser and H. Weiss.  Holocene cli-mate
+
+Underfull \hbox (badness 1721) in paragraph at lines 428--433
+\TU/NotoSerif(1)/m/it/9 Sci-en-tific Find-ings of the 46th/72nd Re-con-nais-san
+ce
+
+Underfull \hbox (badness 6047) in paragraph at lines 441--444
+[]\TU/NotoSerif(1)/m/n/9 Wik-i-books.  Chi-nese sto-ries/nüwa.  []$\TU/pcr/m/n
+/9 https://en.
+[20]) [21] (./1vietnamesetranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+)
+(see the transcript file for additional information)
+ 638 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 33 attribute, 54 glue_spe
+c, 18 attribute_list, 1 write, 11 pdf_action nodes
+   avail lists: 1:1,2:1362,3:717,4:174,5:542,6:82,7:13873,8:76,9:685,10:22,11:8
+74
+</usr/share/fonts/truetype/noto/NotoSerif-BoldItalic.ttf>{/usr/share/texlive/te
+xmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/fonts/truetype/noto/NotoSerif-
+Italic.ttf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-regular.otf></us
+r/share/fonts/truetype/noto/NotoSerif-Regular.ttf></usr/share/fonts/truetype/no
+to/NotoSerif-Bold.ttf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
+Output written on 1vietnamesetranslated.pdf (21 pages, 7321909 bytes).
+Transcript written on 1vietnamesetranslated.log.
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+The top-level auxiliary file: 1vietnamesetranslated.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "15" isn't style-file defined
+--line 120 of file egbib.bib
+Warning--entry type for "135" isn't style-file defined
+--line 1249 of file egbib.bib
+Warning--entry type for "147" isn't style-file defined
+--line 1362 of file egbib.bib
+Warning--to sort, need author or key in 114
+Name 1 in "Jun," has a comma at the end for entry 121
+while executing---line 1072 of file ieee.bst
+Warning--empty journal in 7
+Warning--empty publisher in 13
+Name 1 in "Jun," has a comma at the end for entry 121
+while executing---line 1115 of file ieee.bst
+Warning--empty publisher in 10
+Warning--empty publisher in 9
+(There were 2 error messages)
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian) 
+ restricted system commands enabled.
+(./1vietnamesetranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/vntex/t5enc.def)
+(/usr/share/texmf/tex/latex/lm/t5lmr.fd))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/vi/babel-vietnamese.tex
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+)
+
+Package babel Info: The current font is not a babel standard family:
+(babel)             NotoSerif:mode=node;script=latn;language=dflt;+tlig;family=
+rm;
+(babel)             There is nothing intrinsically wrong with this warning, and
+
+(babel)             you can ignore it altogether if you do not need these
+(babel)             families. But if they are used in the document, you should 
+be
+(babel)             aware 'babel' will not set Script and Language for them, so
+
+(babel)             you may consider defining a new family with \babelfont.
+(babel)             See the manual for further details about \babelfont.
+(babel)             Reported on input line 93.
+
+(/usr/share/texlive/texmf-dist/tex/generic/hyphen/zerohyph.tex)
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 93.
+
+(./1vietnamesetranslated.aux
+
+LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+
+Package babel Info: The following font families will use the default
+(babel)             settings for all or some languages:
+(babel)             * \sffamily = phv
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             * \ttfamily = pcr
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             There is nothing intrinsically wrong with it, but
+(babel)             'babel' will no set Script and Language, which could
+(babel)             be relevant in some languages. If your document uses
+(babel)             these families, consider redefining them with \babelfont.
+(babel)             Reported on input line 3.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/vntex/t5cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \vbox (badness 1048) has occurred while \output is active [1{/var/lib
+/texmf/fonts/map/pdftex/updmap/pdftex.map}<./b.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active [2]
+Underfull \vbox (badness 10000) has occurred while \output is active [3]
+[4<./marine.jpg><./tibet.jpg>] [5<./khafre.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active [6<./shaft
+s.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active [7<./drawi
+ng.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Text page 8 contains only floats.
+
+[8<./biodiversity.jpg><./meinesz3.jpg><./laj.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active [9<./dzhan
+i.jpg><./layers.jpg>]
+Underfull \hbox (badness 1005) in paragraph at lines 375--375
+[] \TU/NotoSerif(1)/b/n/12 . Bằng chứng về việc sắp xảy ra hiện
+[10<./llvp.jpg><./npw.jpg>] [11<./saa.jpg><./ocean-highlight.jpg>] [12<./saa-cr
+op.jpeg>]
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \vbox (badness 10000) has occurred while \output is active [13]
+[14]
+Underfull \vbox (badness 10000) has occurred while \output is active [15<./wave
+.jpg><./star-stone.jpg>] [16<./deepsea.jpg>] [17<./sealevel.jpeg>] [18<./co2.jp
+g><./ice.jpg>] (./1vietnamesetranslated.bbl
+Underfull \hbox (badness 2762) in paragraph at lines 4--7
+[]\TU/NotoSerif(1)/m/n/9 Great flood (china).  []$\TU/pcr/m/n/9 https://en.wiki
+pedia.org/wiki/
+
+Underfull \hbox (badness 1701) in paragraph at lines 27--33
+\TU/NotoSerif(1)/m/n/9 M. Deininger, A. Sifed-dine, L. Bouchaou, C. Spötl,
+
+Underfull \hbox (badness 5787) in paragraph at lines 27--33
+\TU/NotoSerif(1)/m/n/9 R. L. Ed-wards, and H. Cheng.  North at-lantic
+
+Underfull \hbox (badness 1496) in paragraph at lines 27--33
+\TU/NotoSerif(1)/m/n/9 ing the holocene: In-sights from west-ern mediter-
+
+Underfull \hbox (badness 6110) in paragraph at lines 45--50
+[]\TU/NotoSerif(1)/m/n/9 U. R. Chris-tensen.  Geo-dy-namo mod-els: Tools
+
+Underfull \hbox (badness 4608) in paragraph at lines 45--50
+\TU/NotoSerif(1)/m/n/9 for un-der-stand-ing prop-er-ties of earth’s mag-netic
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 72--75
+[]\TU/NotoSerif(1)/m/n/9 L. DeGrey-Ellis and P. Link.  Palouse and glacial
+
+Underfull \hbox (badness 1360) in paragraph at lines 72--75
+\TU/NotoSerif(1)/m/n/9 lake mis-soula.  https://www.isu.edu/dig-i-tal-ge-ol-o-g
+yi-
+
+Underfull \hbox (badness 1831) in paragraph at lines 77--83
+[]\TU/NotoSerif(1)/m/n/9 D. G. Des-bruyères, S. G. Purkey, E. L. Mc-Don-agh,
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--83
+\TU/NotoSerif(1)/m/it/9 Geo-phys-i-cal Re-search Let-ters\TU/NotoSerif(1)/m/n/9
+ , 43(19):10356--10365,
+
+Underfull \hbox (badness 1127) in paragraph at lines 85--89
+[]\TU/NotoSerif(1)/m/n/9 J. Din, H. Su, and L. Jing.  The role of the three
+
+Underfull \hbox (badness 5787) in paragraph at lines 172--175
+[]\TU/NotoSerif(1)/m/n/9 Junho.  Ecdo github re-search repos-i-tory, 2024.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+[]\TU/NotoSerif(1)/m/n/9 Junho.  Egypt cat-a-clysm chronol-ogy, 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+\TU/NotoSerif(1)/m/n/9 https://github.com/sovrynn/ecdo/tree/mas-ter/1-
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--192
+[]\TU/NotoSerif(1)/m/n/9 D. Kout-soyian-nis, N. Ma-mas-sis, A. Ef-s-tra-tiadis,
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 207--213
+[]\TU/NotoSerif(1)/m/n/9 B. Lehner, M. Anand, E. Fluet-Chouinard, F. Tan,
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 231--234
+[]\TU/NotoSerif(1)/m/n/9 N. Maestri.  Chalchi-uhtlicue - aztec god-
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--234
+\TU/NotoSerif(1)/m/n/9 dess of lakes, streams, and oceans, 2023.
+
+Underfull \hbox (badness 3058) in paragraph at lines 253--256
+[]\TU/NotoSerif(1)/m/n/9 F. A. V. Meinesz.  Shear pat-terns of the earth’s
+
+Underfull \hbox (badness 1635) in paragraph at lines 253--256
+\TU/NotoSerif(1)/m/n/9 crust.  \TU/NotoSerif(1)/m/it/9 Trans-ac-tions, Amer-i-c
+an Geo-phys-i-cal Union\TU/NotoSerif(1)/m/n/9 ,
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--280
+[]\TU/NotoSerif(1)/m/n/9 Na-tional Cen-ters for En-vi-ron-men-tal In-for-ma-tio
+n
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--285
+[]\TU/NotoSerif(1)/m/n/9 Na-tional Cen-ters for En-vi-ron-men-tal In-for-ma-tio
+n
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--290
+[]\TU/NotoSerif(1)/m/n/9 Na-tional Cen-ters for En-vi-ron-men-tal In-for-ma-tio
+n
+
+Underfull \hbox (badness 1314) in paragraph at lines 287--290
+\TU/NotoSerif(1)/m/n/9 (NCEI).  In-ter-na-tional ge-o-mag-netic ref-er-ence fie
+ld
+
+Underfull \hbox (badness 2302) in paragraph at lines 292--296
+[]\TU/NotoSerif(1)/m/n/9 Na-tional Oceanic and At-mo-spheric Ad-min-is-tra-tion
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 308--315
+\TU/NotoSerif(1)/m/n/9 lic do-main text dig-i-tized by the Perseus Project
+
+Underfull \hbox (badness 2393) in paragraph at lines 308--315
+\TU/NotoSerif(1)/m/n/9 un-der a Cre-ative Com-mons Attribution-ShareAlike
+
+Underfull \hbox (badness 1728) in paragraph at lines 308--315
+\TU/NotoSerif(1)/m/n/9 3.0 United States Li-cense. CTS URN: urn:cts:greek-
+
+Underfull \hbox (badness 1270) in paragraph at lines 334--339
+[]\TU/NotoSerif(1)/m/n/9 T. E. Skep-tic.  Exother-mic core-mantle de-cou-pling
+
+Underfull \hbox (badness 2237) in paragraph at lines 334--339
+\TU/NotoSerif(1)/m/n/9 – dzhanibekov os-cil-la-tion (ecdo) hy-poth-e-sis, 202
+4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\TU/NotoSerif(1)/m/n/9 https://theeth-i-calskep-tic.com/2024/05/12/exothermic-
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\TU/NotoSerif(1)/m/n/9 core-mantle-decoupling-dzhanibekov-oscillation-
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--351
+\TU/NotoSerif(1)/m/n/9 https://theeth-i-calskep-tic.com/2024/05/23/master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--351
+\TU/NotoSerif(1)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--359
+\TU/pcr/m/n/9 ecdo/tree/master/0-[]FOUNDATION-[]THEORY/s2#
+
+Underfull \hbox (badness 1642) in paragraph at lines 372--376
+[]\TU/NotoSerif(1)/m/n/9 M. Staub-wasser and H. Weiss.  Holocene cli-mate
+
+Underfull \hbox (badness 1721) in paragraph at lines 428--433
+\TU/NotoSerif(1)/m/it/9 Sci-en-tific Find-ings of the 46th/72nd Re-con-nais-san
+ce
+
+Underfull \hbox (badness 6047) in paragraph at lines 441--444
+[]\TU/NotoSerif(1)/m/n/9 Wik-i-books.  Chi-nese sto-ries/nüwa.  []$\TU/pcr/m/n
+/9 https://en.
+[20]) [21] (./1vietnamesetranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+)
+(see the transcript file for additional information)
+ 638 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 33 attribute, 54 glue_spe
+c, 18 attribute_list, 1 write, 11 pdf_action nodes
+   avail lists: 1:1,2:1362,3:717,4:174,5:542,6:82,7:13873,8:76,9:685,10:22,11:8
+74
+</usr/share/fonts/truetype/noto/NotoSerif-BoldItalic.ttf>{/usr/share/texlive/te
+xmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/fonts/truetype/noto/NotoSerif-
+Italic.ttf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-regular.otf></us
+r/share/fonts/truetype/noto/NotoSerif-Regular.ttf></usr/share/fonts/truetype/no
+to/NotoSerif-Bold.ttf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
+Output written on 1vietnamesetranslated.pdf (21 pages, 7321906 bytes).
+Transcript written on 1vietnamesetranslated.log.
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian) 
+ restricted system commands enabled.
+(./1vietnamesetranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/vntex/t5enc.def)
+(/usr/share/texmf/tex/latex/lm/t5lmr.fd))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/vi/babel-vietnamese.tex
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+)
+
+Package babel Info: The current font is not a babel standard family:
+(babel)             NotoSerif:mode=node;script=latn;language=dflt;+tlig;family=
+rm;
+(babel)             There is nothing intrinsically wrong with this warning, and
+
+(babel)             you can ignore it altogether if you do not need these
+(babel)             families. But if they are used in the document, you should 
+be
+(babel)             aware 'babel' will not set Script and Language for them, so
+
+(babel)             you may consider defining a new family with \babelfont.
+(babel)             See the manual for further details about \babelfont.
+(babel)             Reported on input line 93.
+
+(/usr/share/texlive/texmf-dist/tex/generic/hyphen/zerohyph.tex)
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 93.
+
+(./1vietnamesetranslated.aux
+
+LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+
+Package babel Info: The following font families will use the default
+(babel)             settings for all or some languages:
+(babel)             * \sffamily = phv
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             * \ttfamily = pcr
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             There is nothing intrinsically wrong with it, but
+(babel)             'babel' will no set Script and Language, which could
+(babel)             be relevant in some languages. If your document uses
+(babel)             these families, consider redefining them with \babelfont.
+(babel)             Reported on input line 3.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/vntex/t5cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \vbox (badness 1048) has occurred while \output is active [1{/var/lib
+/texmf/fonts/map/pdftex/updmap/pdftex.map}<./b.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active [2]
+Underfull \vbox (badness 10000) has occurred while \output is active [3]
+[4<./marine.jpg><./tibet.jpg>] [5<./khafre.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active [6<./shaft
+s.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active [7<./drawi
+ng.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Text page 8 contains only floats.
+
+[8<./biodiversity.jpg><./meinesz3.jpg><./laj.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active [9<./dzhan
+i.jpg><./layers.jpg>]
+Underfull \hbox (badness 1005) in paragraph at lines 375--375
+[] \TU/NotoSerif(1)/b/n/12 . Bằng chứng về việc sắp xảy ra hiện
+[10<./llvp.jpg><./npw.jpg>] [11<./saa.jpg><./ocean-highlight.jpg>] [12<./saa-cr
+op.jpeg>]
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \vbox (badness 10000) has occurred while \output is active [13]
+[14]
+Underfull \vbox (badness 10000) has occurred while \output is active [15<./wave
+.jpg><./star-stone.jpg>] [16<./deepsea.jpg>] [17<./sealevel.jpeg>] [18<./co2.jp
+g><./ice.jpg>] (./1vietnamesetranslated.bbl
+Underfull \hbox (badness 2762) in paragraph at lines 4--7
+[]\TU/NotoSerif(1)/m/n/9 Great flood (china).  []$\TU/pcr/m/n/9 https://en.wiki
+pedia.org/wiki/
+
+Underfull \hbox (badness 1701) in paragraph at lines 27--33
+\TU/NotoSerif(1)/m/n/9 M. Deininger, A. Sifed-dine, L. Bouchaou, C. Spötl,
+
+Underfull \hbox (badness 5787) in paragraph at lines 27--33
+\TU/NotoSerif(1)/m/n/9 R. L. Ed-wards, and H. Cheng.  North at-lantic
+
+Underfull \hbox (badness 1496) in paragraph at lines 27--33
+\TU/NotoSerif(1)/m/n/9 ing the holocene: In-sights from west-ern mediter-
+
+Underfull \hbox (badness 6110) in paragraph at lines 45--50
+[]\TU/NotoSerif(1)/m/n/9 U. R. Chris-tensen.  Geo-dy-namo mod-els: Tools
+
+Underfull \hbox (badness 4608) in paragraph at lines 45--50
+\TU/NotoSerif(1)/m/n/9 for un-der-stand-ing prop-er-ties of earth’s mag-netic
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 72--75
+[]\TU/NotoSerif(1)/m/n/9 L. DeGrey-Ellis and P. Link.  Palouse and glacial
+
+Underfull \hbox (badness 1360) in paragraph at lines 72--75
+\TU/NotoSerif(1)/m/n/9 lake mis-soula.  https://www.isu.edu/dig-i-tal-ge-ol-o-g
+yi-
+
+Underfull \hbox (badness 1831) in paragraph at lines 77--83
+[]\TU/NotoSerif(1)/m/n/9 D. G. Des-bruyères, S. G. Purkey, E. L. Mc-Don-agh,
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--83
+\TU/NotoSerif(1)/m/it/9 Geo-phys-i-cal Re-search Let-ters\TU/NotoSerif(1)/m/n/9
+ , 43(19):10356--10365,
+
+Underfull \hbox (badness 1127) in paragraph at lines 85--89
+[]\TU/NotoSerif(1)/m/n/9 J. Din, H. Su, and L. Jing.  The role of the three
+
+Underfull \hbox (badness 5787) in paragraph at lines 172--175
+[]\TU/NotoSerif(1)/m/n/9 Junho.  Ecdo github re-search repos-i-tory, 2024.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+[]\TU/NotoSerif(1)/m/n/9 Junho.  Egypt cat-a-clysm chronol-ogy, 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+\TU/NotoSerif(1)/m/n/9 https://github.com/sovrynn/ecdo/tree/mas-ter/1-
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--192
+[]\TU/NotoSerif(1)/m/n/9 D. Kout-soyian-nis, N. Ma-mas-sis, A. Ef-s-tra-tiadis,
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 207--213
+[]\TU/NotoSerif(1)/m/n/9 B. Lehner, M. Anand, E. Fluet-Chouinard, F. Tan,
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 231--234
+[]\TU/NotoSerif(1)/m/n/9 N. Maestri.  Chalchi-uhtlicue - aztec god-
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--234
+\TU/NotoSerif(1)/m/n/9 dess of lakes, streams, and oceans, 2023.
+
+Underfull \hbox (badness 3058) in paragraph at lines 253--256
+[]\TU/NotoSerif(1)/m/n/9 F. A. V. Meinesz.  Shear pat-terns of the earth’s
+
+Underfull \hbox (badness 1635) in paragraph at lines 253--256
+\TU/NotoSerif(1)/m/n/9 crust.  \TU/NotoSerif(1)/m/it/9 Trans-ac-tions, Amer-i-c
+an Geo-phys-i-cal Union\TU/NotoSerif(1)/m/n/9 ,
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--280
+[]\TU/NotoSerif(1)/m/n/9 Na-tional Cen-ters for En-vi-ron-men-tal In-for-ma-tio
+n
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--285
+[]\TU/NotoSerif(1)/m/n/9 Na-tional Cen-ters for En-vi-ron-men-tal In-for-ma-tio
+n
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--290
+[]\TU/NotoSerif(1)/m/n/9 Na-tional Cen-ters for En-vi-ron-men-tal In-for-ma-tio
+n
+
+Underfull \hbox (badness 1314) in paragraph at lines 287--290
+\TU/NotoSerif(1)/m/n/9 (NCEI).  In-ter-na-tional ge-o-mag-netic ref-er-ence fie
+ld
+
+Underfull \hbox (badness 2302) in paragraph at lines 292--296
+[]\TU/NotoSerif(1)/m/n/9 Na-tional Oceanic and At-mo-spheric Ad-min-is-tra-tion
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 308--315
+\TU/NotoSerif(1)/m/n/9 lic do-main text dig-i-tized by the Perseus Project
+
+Underfull \hbox (badness 2393) in paragraph at lines 308--315
+\TU/NotoSerif(1)/m/n/9 un-der a Cre-ative Com-mons Attribution-ShareAlike
+
+Underfull \hbox (badness 1728) in paragraph at lines 308--315
+\TU/NotoSerif(1)/m/n/9 3.0 United States Li-cense. CTS URN: urn:cts:greek-
+
+Underfull \hbox (badness 1270) in paragraph at lines 334--339
+[]\TU/NotoSerif(1)/m/n/9 T. E. Skep-tic.  Exother-mic core-mantle de-cou-pling
+
+Underfull \hbox (badness 2237) in paragraph at lines 334--339
+\TU/NotoSerif(1)/m/n/9 – dzhanibekov os-cil-la-tion (ecdo) hy-poth-e-sis, 202
+4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\TU/NotoSerif(1)/m/n/9 https://theeth-i-calskep-tic.com/2024/05/12/exothermic-
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\TU/NotoSerif(1)/m/n/9 core-mantle-decoupling-dzhanibekov-oscillation-
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--351
+\TU/NotoSerif(1)/m/n/9 https://theeth-i-calskep-tic.com/2024/05/23/master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--351
+\TU/NotoSerif(1)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--359
+\TU/pcr/m/n/9 ecdo/tree/master/0-[]FOUNDATION-[]THEORY/s2#
+
+Underfull \hbox (badness 1642) in paragraph at lines 372--376
+[]\TU/NotoSerif(1)/m/n/9 M. Staub-wasser and H. Weiss.  Holocene cli-mate
+
+Underfull \hbox (badness 1721) in paragraph at lines 428--433
+\TU/NotoSerif(1)/m/it/9 Sci-en-tific Find-ings of the 46th/72nd Re-con-nais-san
+ce
+
+Underfull \hbox (badness 6047) in paragraph at lines 441--444
+[]\TU/NotoSerif(1)/m/n/9 Wik-i-books.  Chi-nese sto-ries/nüwa.  []$\TU/pcr/m/n
+/9 https://en.
+[20]) [21] (./1vietnamesetranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+)
+(see the transcript file for additional information)
+ 638 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 33 attribute, 54 glue_spe
+c, 18 attribute_list, 1 write, 11 pdf_action nodes
+   avail lists: 1:1,2:1362,3:717,4:174,5:542,6:82,7:13873,8:76,9:685,10:22,11:8
+74
+</usr/share/fonts/truetype/noto/NotoSerif-BoldItalic.ttf>{/usr/share/texlive/te
+xmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/fonts/truetype/noto/NotoSerif-
+Italic.ttf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-regular.otf></us
+r/share/fonts/truetype/noto/NotoSerif-Regular.ttf></usr/share/fonts/truetype/no
+to/NotoSerif-Bold.ttf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
+Output written on 1vietnamesetranslated.pdf (21 pages, 7321906 bytes).
+Transcript written on 1vietnamesetranslated.log.

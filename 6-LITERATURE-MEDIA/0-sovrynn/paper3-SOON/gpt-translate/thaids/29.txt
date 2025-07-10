@@ -1,0 +1,5 @@
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{undersea.jpg}
+\end{center}
+   \caption{ภาพประกอบของฐานใต้ทะเล โดย Walter Koerschner เขาเป็นนักวาดภาพประกอบให้กับทีมฐานใต้ทะเล Rock-Site ของกองทัพเรือสหรัฐฯ ที่ศูนย์อาวุธ China Lake รัฐแคลิฟอร์เนีย ในช่วงทศวรรษ 1960 แหล่งข้อมูลหนึ่งของ Sauder เปิดเผยว่ามีฐานใต้ดินที่ลึกหนึ่งไมล์ที่ China Lake \cite{22,23}.}

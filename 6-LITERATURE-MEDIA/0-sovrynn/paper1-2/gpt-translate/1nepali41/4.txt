@@ -1,0 +1,10 @@
+\title{ECDO डेटा-ड्रिवेन प्राइमर भाग १/२: एक्सोथर्मिक कोर-म्यान्टल डिसप्लिङ्ग ज्यानिबेकोभक् दोलन (ECDO) “पृथ्वी पल्टिने” सिद्धान्तको वर्तमान बुझाइ}
+
+\author{जुनहो\\
+प्रकाशित फेब्रुअरी २०२५\\
+वेबसाइट (यहाँबाट कागजातहरू डाउनलोड गर्नुहोस्): \href{https://sovrynn.github.io}{sovrynn.github.io}\\
+ECDO अनुसन्धान रिपोजिटरी: \href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ecdo}\\
+{\tt\small junhobtc@proton.me}
+}
+
+\maketitle

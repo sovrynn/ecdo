@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.6.13)  20 JUN 2025 20:15
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.6.27)  4 JUL 2025 06:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -131,7 +131,42 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (/usr/share/texlive/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty
 Package: kolabels-utf 2015/03/20 v1.5 UTF-8 Hangul item labels
-))) (./cvpr.sty (./eso-pic.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cjk-ko/konames-utf.sty
+Package: konames-utf 2015/07/06 v1.7 UTF-8 Hangul captions
+)))
+
+Package fontspec Info: Could not resolve font "Noto Serif CJK KR-Bold/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "Noto Serif CJK KR-Regular/I"
+(fontspec)             (it probably doesn't exist).
+
+
+Package fontspec Info: Font family 'NotoSerifCJKKR(0)' created for font 'Noto
+(fontspec)             Serif CJK KR' with options
+(fontspec)             [Ligatures=TeX,Language={Korean},UprightFont={*-Regular}
+,BoldFont={*-Bold}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Noto Serif CJK
+(fontspec)             KR-Regular/OT:script=latn;language=KOR;mapping=tex-text;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Noto Serif CJK
+(fontspec)             KR-Bold/OT:script=latn;language=KOR;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Noto Serif
+(fontspec)             CJK
+(fontspec)             KR-Regular/BI/OT:script=latn;language=KOR;mapping=tex-te
+xt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+ (./cvpr.sty
+(./eso-pic.sty
 Package: eso-pic 2002/11/16 v1.1b eso-pic (RN)
  (./cvpr_eso.sty
 
@@ -410,13 +445,13 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip56
 )
-LaTeX Font Info:    Trying to load font information for TU+ptm on input line 32
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 80
 .
-LaTeX Font Info:    No file TUptm.fd. on input line 32.
+LaTeX Font Info:    No file TUptm.fd. on input line 80.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 32.
+(Font)              using `TU/lmr/m/n' instead on input line 80.
 
 (./2koreantranslated.aux
 
@@ -458,112 +493,94 @@ LaTeX Warning: Label `fig:onecol' multiply defined.
 )
 \openout1 = `2koreantranslated.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-2.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
+0.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 32.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 32.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 32.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 32.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 32.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 32.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 32.
-LaTeX Font Info:    Redeclaring math accent \check on input line 32.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 32.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 32.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 32.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 32.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 80.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 80.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 80.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 80.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 80.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 80.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 80.
+LaTeX Font Info:    Redeclaring math accent \check on input line 80.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 80.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 80.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 80.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 80.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 32.
+(Font)              `operators' in the math version `normal' on input line 80.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/ptm/m/n on input line 32.
+(Font)                  OT1/cmr/m/n --> TU/ptm/m/n on input line 80.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 32.
+(Font)              `operators' in the math version `bold' on input line 80.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/ptm/m/n on input line 32.
+(Font)                  OT1/cmr/bx/n --> TU/ptm/m/n on input line 80.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/ptm/m/n --> TU/ptm/m/n on input line 32.
+(Font)                  TU/ptm/m/n --> TU/ptm/m/n on input line 80.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/ptm/m/it on input line 32.
+(Font)                  OT1/cmr/m/it --> TU/ptm/m/it on input line 80.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/ptm/b/n on input line 32.
+(Font)                  OT1/cmr/bx/n --> TU/ptm/b/n on input line 80.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 32.
+(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 80.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 32.
+(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 80.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/ptm/m/n --> TU/ptm/b/n on input line 32.
+(Font)                  TU/ptm/m/n --> TU/ptm/b/n on input line 80.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/ptm/b/it on input line 32.
+(Font)                  OT1/cmr/bx/it --> TU/ptm/b/it on input line 80.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 32.
+(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 80.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/pcr/b/n on input line 32.
-
-Package fontspec Info: Font family 'UnBatang.ttf(0)' created for font
-(fontspec)             'UnBatang.ttf' with options
-(fontspec)             [Ligatures=TeX,BoldFont={UnBatangBold.ttf},Script={Hangu
-l},Language={Korean}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[UnBatang.ttf]/OT:script=hang;language=KOR;mapping=t
-ex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"[UnBatangBold.ttf]/OT:script=hang;language=KOR;mappi
-ng=tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-
-LaTeX Font Info:    Trying to load font information for TU+phv on input line 32
+(Font)                  OT1/cmtt/m/n --> TU/pcr/b/n on input line 80.
+LaTeX Font Info:    Trying to load font information for TU+phv on input line 80
 .
-LaTeX Font Info:    No file TUphv.fd. on input line 32.
+LaTeX Font Info:    No file TUphv.fd. on input line 80.
 
 
 LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 32.
+(Font)              using `TU/lmr/m/n' instead on input line 80.
 
 
 Package fontspec Info: Font family 'UnDotum.ttf(0)' created for font
@@ -581,12 +598,12 @@ Package fontspec Info: Font family 'UnDotum.ttf(0)' created for font
 "
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
-LaTeX Font Info:    Trying to load font information for TU+pcr on input line 32
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 80
 .
-LaTeX Font Info:    No file TUpcr.fd. on input line 32.
+LaTeX Font Info:    No file TUpcr.fd. on input line 80.
 
 LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 32.
+(Font)              using `TU/lmr/m/n' instead on input line 80.
 
 
 Package fontspec Info: Font family 'UnDotum.ttf(1)' created for font
@@ -613,18 +630,18 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: xetex.def on input line 149.
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring OFF on input line 32.
+Package hyperref Info: Link coloring OFF on input line 80.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 46.
+(Font)              using `TU/ptm/m/n' instead on input line 94.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 94.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 94.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -632,20 +649,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 48.
+(Font)              using `TU/ptm/m/n' instead on input line 96.
 
 
-LaTeX Font Warning: Font shape `TU/UnBatang.ttf(0)/m/it' undefined
-(Font)              using `TU/UnBatang.ttf(0)/m/n' instead on input line 48.
+LaTeX Font Warning: Font shape `TU/NotoSerifCJKKR(0)/m/it' undefined
+(Font)              using `TU/NotoSerifCJKKR(0)/m/n' instead on input line 96.
+
+
+Underfull \vbox (badness 1009) has occurred while \output is active []
 
 File: jarkov-mammoth.jpg Graphic file (type bmp)
 <jarkov-mammoth.jpg>
-
-Underfull \vbox (badness 1924) has occurred while \output is active []
-
-
-Underfull \vbox (badness 2443) has occurred while \output is active []
-
  [1
 
 
@@ -654,46 +668,48 @@ File: grand-canyon.jpg Graphic file (type bmp)
 <grand-canyon.jpg>
 File: coconino.jpg Graphic file (type bmp)
 <coconino.jpg>
+
+[2]
 File: Grand_Staircase-big.jpg Graphic file (type bmp)
 <Grand_Staircase-big.jpg>
 
-[2]
+Underfull \vbox (badness 2150) has occurred while \output is active []
+
 File: derinkuyu.jpeg Graphic file (type bmp)
 <derinkuyu.jpeg>
 File: derinkuyu-air.jpg Graphic file (type bmp)
 <derinkuyu-air.jpg>
-
-Underfull \vbox (badness 4940) has occurred while \output is active []
-
  [3]
+Underfull \vbox (badness 6859) has occurred while \output is active []
+
 File: muck-crop.jpeg Graphic file (type bmp)
 <muck-crop.jpeg>
+ [4]
 File: ww19.jpg Graphic file (type bmp)
 <ww19.jpg>
 
-[4]
+Underfull \vbox (badness 1953) has occurred while \output is active []
+
 File: dolmen.jpg Graphic file (type bmp)
 <dolmen.jpg>
-File: bottleneck.jpg Graphic file (type bmp)
-<bottleneck.jpg>
 
-Underfull \vbox (badness 3861) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
+File: bottleneck.jpg Graphic file (type bmp)
+<bottleneck.jpg>
 File: columbia.jpg Graphic file (type bmp)
 <columbia.jpg>
+
+[6]
 File: zhangjiajie.jpg Graphic file (type bmp)
 <zhangjiajie.jpg>
 File: hoy.jpg Graphic file (type bmp)
 <hoy.jpg>
 File: jericho.jpg Graphic file (type bmp)
 <jericho.jpg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6]
-[7] (./2koreantranslated.bbl
-Underfull \hbox (badness 7133) in paragraph at lines 101--105
+ [7] [8] (./2koreantranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
 []\TU/ptm/m/it/9 GetYourGuide.  Canyoning in grand canyon.
  []
 
@@ -704,19 +720,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--105
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--137
-[]\TU/ptm/m/it/9 Junho.  Ecdo kmls.  []$[][][][][] [] [] [] [][][][][][] [] [][
-][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--137
-[][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][
-][][] [] [][][] []
- []
-
-
-Underfull \hbox (badness 3098) in paragraph at lines 139--144
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
 []\TU/ptm/m/it/9 Junho.  Mega-current ripples.  []$[][][][][] [] [] [] [][][][]
 [][] []
  []
@@ -734,87 +738,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--144
  []
 
 
-Underfull \hbox (badness 1888) in paragraph at lines 163--169
-\TU/ptm/m/it/9 son, M. Finlayson, T. Gumbricht, L. Hilarides,
+Underfull \hbox (badness 1048) in paragraph at lines 163--169
+[]\TU/ptm/m/it/9 B. Lehner, M. Anand, E. Fluet-Chouinard, F. Tan,
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 189--193
-[]\TU/ptm/m/it/9 National Park Service.  Geology - death valley
- []
+Underfull \vbox (badness 1721) has occurred while \output is active []
 
-
-Underfull \hbox (badness 2269) in paragraph at lines 189--193
-\TU/ptm/m/it/9 national park.  []$[][][][][] [] [] [] [][][] [] [][][] [] [][][
-] [] [][][][] [] [][][][][] []
- []
-
-[8
+ [9
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 218--225
-[][][][] [] [][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][] [] [][][][]$[]\TU/ptm/m/it/9 ,
- []
-
-
-Underfull \hbox (badness 3189) in paragraph at lines 218--225
-\TU/ptm/m/it/9 May 2017.  Annotazioni di Rosanna Pellerito.
- []
-
-
-Underfull \hbox (badness 4582) in paragraph at lines 218--225
-\TU/ptm/m/it/9 Traduzione di Mariella Ferraro. Blog di Piero
+Underfull \hbox (badness 4805) in paragraph at lines 218--225
+[][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][] [] [][][][]$[]\TU/ptm/m/it/9 , May 2017.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 277--282
-\TU/ptm/m/it/9 https:// theethicalskeptic.com/ 2024/05/23/ master-
+\TU/ptm/m/it/9 theethicalskeptic.com/ 2024/05/23/ master-exothermic-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--282
-\TU/ptm/m/it/9 exothermic-core-mantle-decoupling-dzhanibekov-
+Underfull \hbox (badness 1721) in paragraph at lines 284--288
+\TU/ptm/m/it/9 cent sediments from the gulf of mexico.  Science,
  []
 
-
-Underfull \hbox (badness 4686) in paragraph at lines 372--375
-[]\TU/ptm/m/it/9 Wikipedia.  Great pyramid of giza.  []$[][][][][] []
+[10]
+Underfull \hbox (badness 1163) in paragraph at lines 398--401
+\TU/ptm/m/it/9 The Free Encyclopedia\TU/NotoSerifCJKKR(0)/m/it/9 , \TU/ptm/m/it
+/9 2025.  \TU/NotoSerifCJKKR(0)/m/it/9 [\TU/ptm/m/it/9 Online; accessed 8-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 372--375
-[] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][][] [] [][][][
-][][][] [] [][] [] [][][][] []
- []
-
-
-Underfull \hbox (badness 6808) in paragraph at lines 377--380
-[]\TU/ptm/m/it/9 Wikipedia contributors.  Extinction event —
- []
-
-
-Underfull \hbox (badness 6625) in paragraph at lines 382--385
-[]\TU/ptm/m/it/9 Wikipedia contributors\TU/UnBatang.ttf(0)/m/it/9 .  \TU/ptm/m/
-it/9 4.2-kiloyear event —
- []
-
-
-Underfull \hbox (badness 6625) in paragraph at lines 387--390
-[]\TU/ptm/m/it/9 Wikipedia contributors\TU/UnBatang.ttf(0)/m/it/9 .  \TU/ptm/m/
-it/9 8.2-kiloyear event —
- []
-
-
-Underfull \hbox (badness 2096) in paragraph at lines 408--411
-\TU/ptm/m/it/9 Free Encyclopedia, 2025.  \TU/UnBatang.ttf(0)/m/it/9 [\TU/ptm/m/
-it/9 Online; accessed 9-
- []
-
-[9]) [10
-
-] (./2koreantranslated.aux)
+) [11] (./2koreantranslated.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -828,12 +784,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15744 strings out of 476443
- 272604 string characters out of 5793962
- 1975627 words of memory out of 5000000
- 37463 multiletter control sequences out of 15000+600000
- 566670 words of font info for 92 fonts, out of 8000000 for 9000
- 264 hyphenation exceptions out of 8191
- 108i,9n,121p,1296b,2744s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 15796 strings out of 475702
+ 274150 string characters out of 5785445
+ 1968627 words of memory out of 5000000
+ 37515 multiletter control sequences out of 15000+600000
+ 567349 words of font info for 97 fonts, out of 8000000 for 9000
+ 932 hyphenation exceptions out of 8191
+ 108i,9n,121p,1298b,2744s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 2koreantranslated.pdf (10 pages).
+Output written on 2koreantranslated.pdf (11 pages).

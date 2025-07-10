@@ -1,0 +1,5 @@
+\subsection{အပိုဘန်ကာနှင့် ကပ်ဘေးအတွက် အဆင့်ဆင့်ပြင်ဆင်မှု အထောက်အထားများ}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}

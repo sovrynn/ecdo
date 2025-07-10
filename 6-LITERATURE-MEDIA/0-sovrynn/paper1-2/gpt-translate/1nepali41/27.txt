@@ -1,0 +1,10 @@
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{1\linewidth}{0pt}}
+\includegraphics[width=1\textwidth]{dzhani.jpg}
+\end{center}
+   \caption{Dzhanibekov प्रभावको एक चित्रण \cite{28}।}
+\label{fig:10}
+\end{figure*}
+
+\begin{figure*}[b]
+\begin{center}

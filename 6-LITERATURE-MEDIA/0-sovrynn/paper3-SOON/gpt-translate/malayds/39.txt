@@ -1,0 +1,5 @@
+   \includegraphics[width=1\linewidth]{svalbard.jpg}
+\end{center}
+   \caption{Peti Benih Global Svalbard di Norway, mengandungi lebih daripada sejuta biji benih \cite{24}. Seseorang pasti tertanya-tanya bencana apa yang memerlukan penggunaannya.}
+\label{fig:8}
+\label{fig:onecol}

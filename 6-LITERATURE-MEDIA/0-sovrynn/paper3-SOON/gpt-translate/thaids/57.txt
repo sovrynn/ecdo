@@ -1,0 +1,5 @@
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{npw.jpg}
+\end{center}
+   \caption{ตำแหน่งของขั้วแม่เหล็กเหนือทางภูมิศาสตร์ตั้งแต่ปี 1590 ถึง 2025 แสดงเป็นช่วง ๆ ละ 5 ปี \cite{41} การเคลื่อนที่เริ่มเร่งขึ้นอย่างรวดเร็วในปี 1975}
+\label{fig:13}

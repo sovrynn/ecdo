@@ -1,0 +1,9 @@
+The most plausible explanation for the creation of Derinkuyu would have been a pressing need to prepare a long-term, self-sustaining shelter to protect against catastrophic geophysical forces on Earth's surface.
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{derinkuyu-air.jpg}
+\end{center}
+   \caption{डेढिन्क्युमा गहिरो भेन्टिलेसन इनार \cite{53}.}
+\label{fig:6}

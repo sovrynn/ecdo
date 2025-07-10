@@ -1,0 +1,9 @@
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{sub.jpg}
+\end{center}
+   \caption{Усан доорх шумбагч онгоцны хонгилын зургийг Walter Koerschner зурсан \cite{22,23}.}
+\label{fig:6}
+\label{fig:onecol}
+\end{figure}

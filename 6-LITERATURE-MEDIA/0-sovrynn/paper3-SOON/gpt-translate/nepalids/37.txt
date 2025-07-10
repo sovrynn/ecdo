@@ -1,0 +1,5 @@
+   \includegraphics[width=1\linewidth]{tyrol.jpg}
+\end{center}
+   \caption{स्विट्जरल्याण्डको दक्षिण टायरोलमा बंकरहरू। युरोपियन आल्प्स पर्वत शृङ्खलामा फैलिएको स्विट्जरल्याण्ड आफ्ना पहाडी बंकरहरू चतुराईले छिपाउनका लागि परिचित छ \cite{32}।}
+\label{fig:7}
+\label{fig:onecol}

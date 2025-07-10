@@ -1,0 +1,5 @@
+In May 2024, a pseudonymous online author known as “The Ethical Skeptic” \cite{0} shared a groundbreaking theory called the Exothermic Core-Mantle Decoupling Dzhanibekov Oscillation (ECDO) \cite{1}. This theory suggests that Earth has previously experienced sudden, catastrophic shifts in its rotational axis, triggering massive worldwide floods as the oceans spilled over the continents due to rotational inertia. Additionally, it presents an explanatory geophysical process and data indicating that another such flip may be imminent. While such cataclysmic flood and doomsday predictions are not new, the ECDO theory is uniquely compelling due to its scientific, modern, multidisciplinary, and data-based approach.
+
+This paper is my third work \cite{2,3} on this topic, and focuses on present-day political aspects of this theory:
+\begin{flushleft}
+\begin{enumerate}

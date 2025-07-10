@@ -1,0 +1,8 @@
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{penta.jpg}
+\end{center}
+   \caption{Цагаан ордон ба Пентагоны доор үнэндээ юу байдаг вэ? Магадгүй, гүн газар доорхи хонгилын сүлжээ байдаг бололтой (Зураг: \cite{31}).}
+\label{fig:3}
+\label{fig:onecol}
+\end{figure}

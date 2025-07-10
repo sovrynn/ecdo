@@ -1,0 +1,5 @@
+2025 оны 6-р сард хэвлэгдсэн\\
+Вэбсайт (Эндээс өгүүллүүд татаж авах): \href{https://sovrynn.github.io}{sovrynn.github.io}\\
+ECDO Судалгааны Репозитори: \href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ecdo}\\
+{\tt\small junhobtc@proton.me}
+}

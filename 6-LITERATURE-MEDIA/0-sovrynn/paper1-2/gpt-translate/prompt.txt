@@ -1,2 +1,2 @@
-Take the following latex snippet and translate all the English textual content into Vietnamese without modifying the latex formatting. Return ONLY the modified latex snippet without any other text, or latex delimiters:
+Take the following latex snippet and translate all the English textual content into XXX without modifying the latex formatting. Return ONLY the modified latex snippet without any other text, or latex delimiters:
 

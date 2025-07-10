@@ -1,0 +1,9 @@
+\def\cvprPaperID{****} % *** यहाँ CVPR Paper ID प्रविष्ट गर्नुहोस्
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+% पृष्ठहरू सबमिशन मोडमा क्रमांकित छन्, र क्यामेरा-रेडीमा बिना नम्बर
+%\ifcvprfinal\pagestyle{empty}\fi
+\setcounter{page}{1}
+\begin{document}
+
+%%%%%%%%% शीर्षक

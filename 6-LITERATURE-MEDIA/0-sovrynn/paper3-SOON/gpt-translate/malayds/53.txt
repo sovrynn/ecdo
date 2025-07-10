@@ -1,0 +1,5 @@
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{pike.jpg}
+\end{center}
+   \caption{Batolit Pike Peak yang terkenal, ditonjolkan dalam warna merah, bersama-sama dengan landskap barat Amerika Syarikat \cite{36}. Adakah Amerika Syarikat benar-benar dirancang untuk mengawal lokasi ini?}
+\label{fig:11}

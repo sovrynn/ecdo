@@ -1,0 +1,5 @@
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+% पृष्ठहरू सबमिसन मोडमा नम्बर गरिएका छन्, र क्यामेरा-तयारमा नम्बर नभएका
+%\ifcvprfinal\pagestyle{empty}\fi
+\setcounter{page}{1}

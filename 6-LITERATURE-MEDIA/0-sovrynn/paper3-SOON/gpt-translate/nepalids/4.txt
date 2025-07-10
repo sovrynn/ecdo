@@ -1,0 +1,5 @@
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\cvprfinalcopy % *** अन्तिम बुझाइका लागि यो लाइन अनकमेन्ट गर्नुहोस्
+
+\def\cvprPaperID{****} % *** सिभिआरपी पेपर आईडी यहाँ प्रविष्ट गर्नुहोस्

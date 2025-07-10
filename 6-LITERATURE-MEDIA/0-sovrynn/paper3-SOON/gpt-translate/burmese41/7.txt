@@ -1,0 +1,10 @@
+\includegraphics[width=1\linewidth]{freemason.jpg}
+\end{center}
+   \caption{အင်္ဂလန် Freemasons များသည် သူတို့၏ သဘာဝအခြေအနေတွင် တိတ်တိတ်လေး နျဉ်းမြှုပ်ဗုံးချပြီး ကမ္ဘာ့အုပ်ချုပ်ရေးအာဏာယူဖို့ အချိန်ပြုလုပ်နေကြသည် - လန်ဒန်မြို့၊ Earls Court တွင်၊ ၁၉၉၂ ခုနှစ် \cite{5}။}
+\label{fig:1}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=1\textwidth]{british.jpg}

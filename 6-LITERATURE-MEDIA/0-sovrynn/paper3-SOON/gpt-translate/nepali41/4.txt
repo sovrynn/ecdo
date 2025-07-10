@@ -1,0 +1,10 @@
+प्रकाशित मिति: जुन २०२५\\
+वेबसाइट (यहाँबाट पेपरहरू डाउनलोड गर्नुहोस्): \href{https://sovrynn.github.io}{sovrynn.github.io}\\
+ECDO अनुसन्धान भण्डार: \href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ecdo}\\
+{\tt\small junhobtc@proton.me}
+}
+
+\maketitle
+%\thispagestyle{empty}
+
+\begin{abstract}

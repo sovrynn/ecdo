@@ -1,0 +1,5 @@
+\includegraphics[width=1\linewidth]{freemason.jpg}
+\end{center}
+   \caption{Британийн Фримасоны өөрсдийн байгалийн байдалд дэлхийг эзлэх, цөмийн бөмбөг хаях нууц төлөвлөгөө гаргаж байгаа нь - Лондон хотын Эрлс Корт дээр, 1992 он \cite{5}.}
+\label{fig:1}
+\label{fig:onecol}

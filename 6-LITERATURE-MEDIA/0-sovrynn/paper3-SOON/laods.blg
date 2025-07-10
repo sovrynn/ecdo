@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: laods.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "3" isn't style-file defined
+--line 20 of file egbib.bib
+You're missing a field name---line 217 of file egbib.bib
+ :   address      = {Kempton, Pennsylvania},   
+ :                                             % typical HQ location, adjust if needed
+I'm skipping whatever remains of this entry
+Warning--entry type for "38" isn't style-file defined
+--line 355 of file egbib.bib
+Warning--entry type for "39" isn't style-file defined
+--line 363 of file egbib.bib
+Warning--empty year in 31
+Warning--empty year in 28
+Warning--empty year in 22
+Warning--empty year in 27
+Warning--empty year in 35
+You've used 40 entries,
+            2120 wiz_defined-function locations,
+            669 strings with 8938 characters,
+and the built_in function-call counts, 8823 in all, are:
+= -- 860
+> -- 313
+< -- 0
++ -- 134
+- -- 92
+* -- 323
+:= -- 1516
+add.period$ -- 150
+call.type$ -- 40
+change.case$ -- 164
+chr.to.int$ -- 0
+cite$ -- 45
+duplicate$ -- 300
+empty$ -- 856
+format.name$ -- 92
+if$ -- 1898
+int.to.chr$ -- 0
+int.to.str$ -- 40
+missing$ -- 7
+newline$ -- 233
+num.names$ -- 80
+pop$ -- 322
+preamble$ -- 1
+purify$ -- 126
+quote$ -- 0
+skip$ -- 248
+stack$ -- 0
+substring$ -- 202
+swap$ -- 40
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 158
+warning$ -- 5
+while$ -- 80
+width$ -- 42
+write$ -- 456
+(There was 1 error message)

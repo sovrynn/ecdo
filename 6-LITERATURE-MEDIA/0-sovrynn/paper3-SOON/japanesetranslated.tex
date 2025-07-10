@@ -1,13 +1,30 @@
 \documentclass[10pt,twocolumn,letterpaper]{article}
 
-% 私自身のもの
+% -------------- This following bit fixes the Japanese horizontal dash characters
+% It maps the dash to a half-length emdash, since the dashes have been two next to each other
+\usepackage[utf8]{inputenc}
+\usepackage{newunicodechar}
+\usepackage{graphicx}
+
+% Define a half-width em-dash
+\newcommand{\shortemdash}{\scalebox{0.5}[1]{\textemdash}}
+
+% Map U+2015 to this shorter dash
+\newunicodechar{―}{\shortemdash}
+% --------------------------------
+
+% 私の独自の設定
 \usepackage{booktabs}
 % \usepackage{caption}
-% \captionsetup[table]{skip=8pt}   % テーブルのみに影響します
-\usepackage{stfloats}  % これを前文に追加します
-\usepackage{float}
+% \captionsetup[table]{skip=8pt}   % これはテーブルのみに影響します
+\usepackage{stfloats}  % これをプリアンブルに追加します
 \usepackage{xeCJK}  % Supports Simplified & Traditional Chinese
-\setCJKmainfont{IPAMincho} 
+\setCJKmainfont[
+  Language=Japanese,
+  UprightFont = *-Regular,
+  BoldFont    = *-Bold,
+  % ItalicFont  = *-Italic,  % if you happen to have an Italic file
+]{Noto Serif CJK JP}
 
 \usepackage{cvpr}
 \usepackage{times}
@@ -16,18 +33,54 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
-% 他のパッケージはここで、hyperrefの前に含めてください。
+% 他のパッケージはここで hyperref より前にインクルードします。
 
-% もしhyperrefをコメントアウトし、その後アンコメントする場合は、
-% egpaper.auxをlatexを再実行する前に削除してください。  (あるいはlatexの最初の実行時に'q'を押してください)
-
-% run, let it finish, and you should be clear).
+% hyperref をコメントアウトしてから再度有効にする場合は、
+% egpaper.aux を削除してから latex を再実行してください。
+% （または、最初の latex 実行時に'q'キーを押して終了させれば大丈夫です。）
 \usepackage[breaklinks=true,bookmarks=false]{hyperref}
 
-\cvprfinalcopy % *** Uncomment this line for the final submission
+\cvprfinalcopy % *** 最終提出のためにこの行をコメント解除してください
 
-\def\cvprPaperID{****} % *** Enter the CVPR Paper ID here
+\def\cvprPaperID{****} % *** ここにCVPRペーパーIDを入力してください
 \def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+\renewcommand{\tablename}{表}
+\renewcommand{\figurename}{図}   % or whatever you like instead of "Hình"
+
+\makeatletter
+\def\abstract{%
+  \centerline{\large\bf 概要}% <-- your new label
+  \vspace*{12pt}%
+  \it%
+}
+\makeatother
+
+% This makes the font slightly bigger than base (10) and bold in Subsection headings rather than using ptmb
+\makeatletter
+\def\cvprsubsection{%
+  \@startsection{subsection}{2}{\z@}%
+    {8pt plus 2pt minus 2pt}{6pt}%
+    % {\normalfont\bfseries\selectfont}%
+    {\normalfont\bfseries\fontsize{11}{13}\selectfont}%
+}
+\makeatother
+
+% So this hardcodes the style for the numbers in the section/subsection headings so they're bold
+\font\elvbf=ptmb scaled 1100
+\font\elvbfs=ptmb scaled 1200
+\makeatletter
+% Section number: Large + bold
+\renewcommand\thesection{%
+  {\elvbfs\arabic{section}}%
+}
+
+% Subsection number: normalsize + bold + custom punctuation
+\renewcommand\thesubsection{%
+  {\elvbf
+   \arabic{section}.\arabic{subsection}}%
+}
+\makeatother
 
 % Pages are numbered in submission mode, and unnumbered in camera-ready
 %\ifcvprfinal\pagestyle{empty}\fi
@@ -59,7 +112,7 @@ ECDO研究リポジトリ：\href{https://github.com/sovrynn/ecdo}{github.com/so
 
 %%%%%%%%% ABSTRACT
 \begin{abstract}
-2024年5月、偽名のオンライン著者、「倫理的懐疑論者（The Ethical Skeptic）」\cite{0}は、「発熱性コア・マントル分離ジャニベコフ振動」（Exothermic Core-Mantle Decoupling Dzhanibekov Oscillation, ECDO）\cite{1}という画期的な理論を発表しました。この理論は、地球が過去に突然かつ壊滅的な自転軸の変化を経験し、その際に回転慣性によって海洋が大陸に溢れ出すことで大規模な世界的洪水が引き起こされたと示唆しています。さらに、この理論は、そのような急激な反転が再び迫っていることを示す説明的な地球物理的プロセスおよびデータも提示しています。このような壊滅的な洪水や世界の終末の予測は新しいものではありませんが、ECDO理論はその科学的かつ現代的、学際的、そしてデータに基づいたアプローチによって、特に説得力を持っています。
+2024年5月、偽名のオンライン著者、「倫理的懐疑論者（The Ethical Skeptic）」\cite{0}は、「発熱性コア・マントル分離に伴うジャンニベコフ振動」（Exothermic Core-Mantle Decoupling Dzhanibekov Oscillation, ECDO）\cite{1}という画期的な理論を発表しました。この理論は、地球が過去に突然かつ壊滅的な自転軸の変化を経験し、その際に回転慣性によって海洋が大陸に溢れ出すことで大規模な世界的洪水が引き起こされたと示唆しています。さらに、この理論は、そのような急激な反転が再び迫っていることを示す説明的な地球物理的プロセスおよびデータも提示しています。このような壊滅的な洪水や世界の終末の予測は新しいものではありませんが、ECDO理論はその科学的かつ現代的、学際的、そしてデータに基づいたアプローチによって、特に説得力を持っています。
 
 この論文は、このテーマに関する私の3番目の研究 \cite{2,3} であり、この理論の現在の政治的側面を焦点に置いています。
 \begin{flushleft}
@@ -74,7 +127,7 @@ ECDO研究リポジトリ：\href{https://github.com/sovrynn/ecdo}{github.com/so
 \end{abstract}
 
 %%%%%%%%% BODY TEXT
-\section{フリーメイソンと「アングロサクソン・ミッション」}
+\section{フリーメイソンと「古代イングランド人の使命」}
 
 2010年1月、代替メディア・ジャーナリズム団体であり、内部告発者の証言をまとめているプロジェクト・キャメロットは、2005年6月にロンドン・シティの上級メイソン会合に実際に出席した内部関係者にインタビューした\cite{4,6}。会合で議論されたテーマは、「地球物理学的出来事」、すなわち世界的な自然災害を背景にした軍事的および政治的計画であった。
 
@@ -94,7 +147,7 @@ ECDO研究リポジトリ：\href{https://github.com/sovrynn/ecdo}{github.com/so
 % \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
 \includegraphics[width=1\textwidth]{british.jpg}
 \end{center}
-   \caption{1937年の大英帝国、アングロサクソンの強大な力の誇示 \cite{14}.}
+   \caption{1937年の大英帝国、古代イングランド人の強大な力の誇示 \cite{14}.}
    \label{fig:2}
 \end{figure*}
 
@@ -111,11 +164,11 @@ ECDO研究リポジトリ：\href{https://github.com/sovrynn/ecdo}{github.com/so
 
 しかし、最も重要なのはこれらの出来事の後に何が起こると予想されているかである：\textit{「だから私たちはこの戦争に突入する。そしてその後...地球上で地球物理学的な出来事が発生し、それが全ての人々に影響を与えるだろう」} \cite{4}。インサイダーはこの地球物理学的出来事の間、\textit{\textbf{「地球の地殻が約30度、約1700から2000マイル南方に移動し、それによって巨大な変化が起こり、その影響は非常に長い期間続くだろう」}} \cite{4}と考えている。
 
-このような秘密計画の理由は、もちろん権力である。インサイダーはこう説明する：\textit{「さて、その時までには私たちはすでに核戦争と生物兵器戦争を経験しているだろう。もしこれが起こった場合、地球の人口は劇的に減少するだろう。この地球物理学的出来事が発生する時、残った人々もおそらくさらに半減する。そして、それを生き延びた者が、次の時代へ世界と生き残った人々を導くことになる。つまり私たちは大変動後の時代について話している。誰が主導権を握るのか？誰が支配するのか？全てはそのためであり、それが彼らがこれらの出来事を決められた時間枠内で起こそうと必死である理由だ... 混乱［chaos］が起こる前に、ある種の確実性とともに生き残れる構造が必要であり、その翌日にもうまく立ち上がり、それまで享受していた権力を維持し続けることができるようにするためだ」} \cite{4}。インタビューの中で、この計画の名前「アングロサクソン・ミッション」も議論されている：\textit{[インタビュアー]：「なぜこの計画が『アングロサクソン・ミッション』と呼ばれているのかというと、基本的に計画は中国人を一掃し、大変動の後、再建される時はアングロサクソン系の人々だけが新しい地球を再建し受け継ぐ立場にいるようにする、ということですよね？」[インサイダー]：「それが正しいかどうか本当のところはわかりませんが、あなたには同意します。少なくとも20世紀を通じて、そして19世紀や18世紀にも、この世界の歴史は主に西洋、そして地球の北半球から動かされてきたと思います」} \cite{4}。
+このような秘密計画の理由は、もちろん権力である。インサイダーはこう説明する：\textit{「さて、その時までには私たちはすでに核戦争と生物兵器戦争を経験しているだろう。もしこれが起こった場合、地球の人口は劇的に減少するだろう。この地球物理学的出来事が発生する時、残った人々もおそらくさらに半減する。そして、それを生き延びた者が、次の時代へ世界と生き残った人々を導くことになる。つまり私たちは大変動後の時代について話している。誰が主導権を握るのか？誰が支配するのか？全てはそのためであり、それが彼らがこれらの出来事を決められた時間枠内で起こそうと必死である理由だ... 混乱［chaos］が起こる前に、ある種の確実性とともに生き残れる構造が必要であり、その翌日にもうまく立ち上がり、それまで享受していた権力を維持し続けることができるようにするためだ」} \cite{4}。インタビューの中で、この計画の名前「古代イングランド人の使命」についても議論されている：\textit{[インタビュアー]：「なぜこの計画が『古代イングランド人の使命』と呼ばれているのかというと、基本的に計画は中国人を一掃し、大変動の後、再建される時は古代イングランド系の人々だけが新しい地球を再建し受け継ぐ立場にいるようにする、ということですよね？」[インサイダー]：「それが正しいかどうか本当のところはわかりませんが、あなたには同意します。少なくとも20世紀を通じて、そして19世紀や18世紀にも、この世界の歴史は主に西洋、そして地球の北半球から動かされてきたと思います」} \cite{4}。
 
 予想される地球物理学的出来事の具体的な時期について、インサイダーはこう推測する：\textit{「... その感覚は非常に直感的なものだが、彼らは今すぐにでも行動をまとめなければならないと感じている...彼らはそれがいつ起こるか良く分かっていると思う... \textbf{私には、これが自分が生きている間、つまり今から20年以内に起こるという非常に強い予感がある}... 私たちは、約11,500年前の前回以来、今ちょうどこの地球物理的出来事が起きようとしている時期に入っている。約11,500年周期で起こっている。そして今またその時が来ている... 彼らはそれが起こると理解している。彼らにはそれが起こるという確かな知識がある... これもその一つで、もし彼らが知らないのだとしたら考えられないことだ。つまり、世界中の最高の頭脳が、これのために彼らのために働いているはずだ」} \cite{4}。
 
-これは、私たちが非常に感謝すべき強力な証言である。インタビューの中で、著者はまた、第一次世界大戦と第二次世界大戦は仕組まれた戦争であり、アングロサクソン・ミッションは確実に多くの世代をさかのぼるものであるという自身の信念も述べている。インタビューが行われた2010年から既に15年が経過している。地球物理学的出来事のインサイダーが示した20年という予測期間の終わりまで、残り5年となっている。
+これは、私たちが非常に感謝すべき強力な証言である。インタビューの中で、著者はまた、第一次世界大戦と第二次世界大戦は仕組まれた戦争であり、古代イングランド人の使命は確実に多くの世代をさかのぼるものであるという自身の信念も述べている。インタビューが行われた2010年から既に15年が経過している。地球物理学的出来事のインサイダーが示した20年という予測期間の終わりまで、残り5年となっている。
 
 \subsection{ドルイド的西洋秘教の大変動知識}
 
@@ -135,13 +188,13 @@ ECDO研究リポジトリ：\href{https://github.com/sovrynn/ecdo}{github.com/so
 \begin{figure*}[t]
 \begin{center}
 % \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
-\includegraphics[width=0.9\textwidth]{basescrop.png}
+\includegraphics[width=1\textwidth]{basescrop.png}
 \end{center}
    \caption{サウダーの研究が明らかにした、確実に地下および海底基地が存在し、また内陸に通じる水中潜水艦トンネルがある正確な場所を示す地図。サウダーは\textit{"これら\textbf{以外にも多くの}施設があると確信している"} と述べている \cite{22}.}
    \label{fig:4}
 \end{figure*}
 
-\begin{figure}[b]
+\begin{figure}[t]
 \begin{center}
 % \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
    \includegraphics[width=1\linewidth]{penta.jpg}
@@ -314,7 +367,7 @@ ECDO研究リポジトリ：\href{https://github.com/sovrynn/ecdo}{github.com/so
 
 皆さんの健闘を祈ります。
 
-\section{Acknowledgments}
+\section{謝辞}
 
 公共の利益のために知識を共有してくださった皆様に、心より感謝申し上げます。皆様の貢献がなければ、この仕事は実現せず、人類は暗闇の中に置き去りにされたままだったでしょう。皆様の選択は永遠に花開くでしょう。私たちは皆様に全てを欠くことができません。この恩恵に、私は無限の感謝を捧げます。
 

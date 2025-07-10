@@ -1,0 +1,9 @@
+\begin{figure}[H]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{1\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{wave.jpg}
+\end{center}
+   \caption{खफ्रे पिरामिडमा रहेको अन्डरकट, प्याराबोलिक तरंगीय क्षयरूपमा नजिकबाट गरिएको अवलोकन \cite{27}.}
+\label{fig:19}
+\label{fig:onecol}
+\end{figure}

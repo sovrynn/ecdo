@@ -1,0 +1,5 @@
+\subsection{ភស្តុតាងបន្ថែមសម្រាប់ការរៀបចំប៊ុងកេរ និងគ្រោះមហន្តរាយ}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}

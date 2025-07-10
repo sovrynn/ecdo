@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.6.13)  20 JUN 2025 20:23
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.6.27)  28 JUN 2025 02:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -854,8 +854,6 @@ Underfull \hbox (badness 2073) in paragraph at lines 183--187
 []\TU/ptm/m/it/9 D. Koutsoyiannis, N. Mamassis, A. Efstratiadis,
  []
 
-Missing character: There is no ₂ (U+2082) in font [lmroman9-regular]:mapping=te
-x-text;!
 
 Underfull \hbox (badness 2057) in paragraph at lines 202--208
 \TU/ptm/m/it/9 son, M. Finlayson, T. Gumbricht, L. Hilarides,
@@ -990,12 +988,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15154 strings out of 476443
- 347488 string characters out of 5793962
+ 15154 strings out of 475702
+ 347488 string characters out of 5785445
  1988627 words of memory out of 5000000
- 36879 multiletter control sequences out of 15000+600000
+ 36888 multiletter control sequences out of 15000+600000
  568202 words of font info for 89 fonts, out of 8000000 for 9000
- 264 hyphenation exceptions out of 8191
+ 932 hyphenation exceptions out of 8191
  74i,9n,81p,1770b,578s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on 1japanese41.pdf (21 pages).

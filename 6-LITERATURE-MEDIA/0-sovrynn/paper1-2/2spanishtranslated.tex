@@ -21,6 +21,17 @@
 
 \cvprfinalcopy % *** Descomente esta línea para la versión final
 
+\makeatletter
+\def\abstract{%
+  \centerline{\large\bf Resumen}% <-- your new label
+  \vspace*{12pt}%
+  \it%
+}
+\makeatother
+
+\renewcommand{\tablename}{Tabla}  % now \caption will say “Tabla 1” instead of “Table 1”
+\renewcommand{\figurename}{Figura}   % or whatever you like instead of "Hình"
+
 \def\cvprPaperID{****} % *** Ingrese el ID del artículo CVPR aquí
 \def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
 

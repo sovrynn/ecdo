@@ -1,0 +1,5 @@
+   \includegraphics[width=1\linewidth]{svalbard.jpg}
+\end{center}
+   \caption{နော်ဝေနိုင်ငံရှိ Svalbard Global Seed Vault တွင် မျိုးစေ့တစ်သန်းကျော်သိုလှောင်ထားသည် \cite{24}။ မည်သည့်ကပ်ဘေးကြီးက ၎င်း၏အသုံးပြုမှုကို လိုအပ်လာမည်ကို စဉ်းစားစရာဖြစ်သည်။}
+\label{fig:8}
+\label{fig:onecol}

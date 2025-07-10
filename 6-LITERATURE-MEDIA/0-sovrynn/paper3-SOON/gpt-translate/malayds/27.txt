@@ -1,0 +1,4 @@
+\begin{flushleft}
+\begin{enumerate}
+    \item Camp David, Maryland: \textit{"Sumber saya memberitahu bahawa bahagian bawah tanah Camp David sangat luas dan rumit, dengan banyak batu terowong rahsia, sehingga diragukan bahawa mana-mana individu mempunyai peta lengkap fasiliti itu dalam fikirannya"} \cite{22}.
+    \item Rumah Putih, Washington DC: \textit{"Seorang rapat saya pernah dibawa ke dalam fasiliti ini semasa pentadbiran Lyndon B. Johnson pada 1960-an. Dia memasuki lif di Rumah Putih dan dibawa terus ke bawah. Dia percaya lif itu turun 17 tingkat. Apabila pintu terbuka di bawah tanah, dia dibawa melalui koridor yang nampaknya menghilang ke titik lenyap di kejauhan. Terdapat pintu dan koridor lain yang bercabang dari koridor utama itu"} \cite{22}. Digambarkan dalam Rajah \ref{fig:3}.

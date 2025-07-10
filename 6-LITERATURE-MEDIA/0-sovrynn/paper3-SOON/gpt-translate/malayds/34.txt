@@ -1,0 +1,5 @@
+\end{center}
+   \caption{Klip dari video rasmi Iran yang mempamerkan "bandar peluru berpandu" bawah tanah mereka \cite{39,40}.}
+\label{fig:12}
+\label{fig:onecol}
+\end{figure}

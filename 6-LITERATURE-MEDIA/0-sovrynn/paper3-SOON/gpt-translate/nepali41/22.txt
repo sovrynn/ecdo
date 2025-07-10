@@ -1,0 +1,8 @@
+\begin{figure*}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
+\includegraphics[width=0.9\textwidth]{govcrop2.png}
+\end{center}
+   \caption{१९९८ देखि २०२३ सम्म अमेरिकी सरकारको राजस्व, खर्च, र गुप्त भूमिगत आधार खर्च \cite{19}।}
+   \label{fig:9}
+\end{figure*}

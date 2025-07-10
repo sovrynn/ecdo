@@ -1,0 +1,5 @@
+\includegraphics[width=1\linewidth]{tyrol.jpg}
+\end{center}
+   \caption{Швейцарийн Өмнөд Тирольд байрлах бункерууд. Европын Альпын нурууг хамарсан Швейцар улс өөрийн уулын бункеруудыг ухаалаг байдлаар далдлуулснаараа алдартай \cite{32}.}
+\label{fig:7}
+\label{fig:onecol}

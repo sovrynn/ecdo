@@ -1,0 +1,8 @@
+\begin{figure*}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
+\includegraphics[width=1\textwidth]{drawing.jpg}
+\end{center}
+   \caption{३१औं पूर्वदेशीय मेरिडियन साथ १०४ डिग्री उत्तरतर्फ जाने प्रस्तावित ECDO घुमाउने क्रियाको चित्रण, जहाँ क्रसहरूले पूर्वी र पश्चिमी ध्रुवहरू देखाउँछन् र रातो चिन्हले खुफु पिरामिड देखाउँछ।}
+\label{fig:6}
+\end{figure*}

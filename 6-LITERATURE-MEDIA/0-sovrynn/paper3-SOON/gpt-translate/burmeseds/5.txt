@@ -1,0 +1,5 @@
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}
+
+% စာမျက်နှာများကို တင်သွင်းသည့်ပုံစံတွင် နံပါတ်တပ်ပြီး ကင်မရာပြီးသားတွင် နံပါတ်မတပ်ပါ
+%\ifcvprfinal\pagestyle{empty}\fi
+\setcounter{page}{1}

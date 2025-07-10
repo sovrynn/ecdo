@@ -1,0 +1,5 @@
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{pike.jpg}
+\end{center}
+   \caption{ថ្មភ្នំ Pike Peak ដ៏ល្បីល្បាញ ដែលត្រូវបានបន្លាយពណ៌ក្រហម រួមជាមួយនឹងរូបរាងដីធ្លានៃភាគខាងលិចសហរដ្ឋអាមេរិក \cite{36}។ តើសហរដ្ឋអាមេរិកពិតជាត្រូវបានបង្កើតឡើងដើម្បីគ្រប់គ្រងទីតាំងនេះមែនទេ?}
+\label{fig:11}

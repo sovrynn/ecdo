@@ -1,0 +1,5 @@
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{npw.jpg}
+\end{center}
+   \caption{၁၅၉၀ မှ ၂၀၂၅ အထိ သံလိုက်မြောက်ဝင်ရိုးစွန်း၏ တည်နေရာကို ၅ နှစ်တစ်ကြိမ် ပြသထားခြင်း \cite{41}။ ၁၉၇၅ ခုနှစ်မှစ၍ ၎င်း၏ရွေ့လျားမှုသည် အလျင်အမြန် တိုးမြှင့်လာခဲ့သည်။}
+\label{fig:13}

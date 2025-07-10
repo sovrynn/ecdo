@@ -1,0 +1,10 @@
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+% पृष्ठहरू सबमिशन मोडमा नम्बर गरिन्छन्, र क्यामेरा-रेडीमा नम्बर रहित हुन्छन्
+%\ifcvprfinal\pagestyle{empty}\fi
+\setcounter{page}{1}
+\begin{document}
+
+\title{ईसीडीओ कागज ३: हालको पश्चिमी शासक शक्तिहरूले आसन्न भौगोलिक प्रलयको तयारी गरेको प्रमाण}
+
+\author{जुनहो\\

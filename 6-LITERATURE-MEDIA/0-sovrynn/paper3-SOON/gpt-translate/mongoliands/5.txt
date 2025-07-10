@@ -1,0 +1,5 @@
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+% Илгээлтийн горимд хуудасны дугаарлагдсан, камер-бэлэн горимд дугаарлагдаагүй байна
+%\ifcvprfinal\pagestyle{empty}\fi
+\setcounter{page}{1}

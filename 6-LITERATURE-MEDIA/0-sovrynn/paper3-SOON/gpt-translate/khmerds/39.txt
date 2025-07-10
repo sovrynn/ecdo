@@ -1,0 +1,5 @@
+   \includegraphics[width=1\linewidth]{svalbard.jpg}
+\end{center}
+   \caption{ឃ្លាំងគ្រាប់ពូជសកលស្វ័យប្រវត្តិនៅស្វាលបាដ (Svalbard) ប្រទេសន័រវែស ដែលមានគ្រាប់ពូជច្រើនជាងមួយលាន \cite{24}។ យើងត្រូវតែឆ្ងល់ថា តើគ្រោះមហន្តរាយប្រភេទណាដែលនឹងត្រូវការប្រើប្រាស់វា។}
+\label{fig:8}
+\label{fig:onecol}

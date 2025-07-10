@@ -1,0 +1,4 @@
+\renewcommand{\refname}{ບັນທຶກອ້າງອີງ}
+\bibliographystyle{ieee}
+\bibliography{egbib}
+}

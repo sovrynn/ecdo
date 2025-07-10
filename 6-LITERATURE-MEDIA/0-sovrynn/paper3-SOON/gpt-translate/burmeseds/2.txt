@@ -1,0 +1,5 @@
+\usepackage{stfloats}  % ဤအား preamble တွင် ထည့်ပါ
+\usepackage{float}
+
+\usepackage{cvpr}
+\usepackage{times}

@@ -1,0 +1,5 @@
+\end{center}
+   \caption{ग्रान्ड क्यान्यन, अरिजोना, संयुक्त राज्य अमेरिका \cite{49}.}
+\label{fig:2}
+\label{fig:onecol}
+\end{figure}

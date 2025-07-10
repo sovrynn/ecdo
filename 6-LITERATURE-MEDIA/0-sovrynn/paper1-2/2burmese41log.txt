@@ -1,0 +1,4164 @@
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian) 
+ restricted system commands enabled.
+(./2burmese41.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/my/babel-burmese.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+Package babel Info: The current font is not a babel standard family:
+(babel)             NotoSerif:mode=node;script=latn;language=dflt;+tlig;family=
+rm;
+(babel)             There is nothing intrinsically wrong with this warning, and
+
+(babel)             you can ignore it altogether if you do not need these
+(babel)             families. But if they are used in the document, you should 
+be
+(babel)             aware 'babel' will not set Script and Language for them, so
+
+(babel)             you may consider defining a new family with \babelfont.
+(babel)             See the manual for further details about \babelfont.
+(babel)             Reported on input line 68.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 68.
+
+(./2burmese41.aux
+
+LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+
+Package babel Info: The following font families will use the default
+(babel)             settings for all or some languages:
+(babel)             * \sffamily = phv
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             * \ttfamily = pcr
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             There is nothing intrinsically wrong with it, but
+(babel)             'babel' will no set Script and Language, which could
+(babel)             be relevant in some languages. If your document uses
+(babel)             these families, consider redefining them with \babelfont.
+(babel)             Reported on input line 3.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/NotoSansMyanmar(0)/m/it' undefined
+(Font)              using `TU/NotoSansMyanmar(0)/m/n' instead on input line 83.
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \hbox (badness 1755) in paragraph at lines 92--93
+[]\TU/NotoSansMyanmar(0)/m/n/10 ခေ-တ-်-သ-စ-်-တ-ေ-ာ-င-်-
+တ-က-်-ဘ-ေ-ာင် သီအ-ိ-ု-ရ-ီ-န-ှ-င့် သ
+မ-ိ-ု-င-်-း-စ-ာ-တ-
+
+Underfull \hbox (badness 3229) in paragraph at lines 92--93
+\TU/NotoSansMyanmar(0)/m/n/10 မ-်-း-မ-ျ-ာ-းအရ \TU/NotoSerif(0
+)/m/n/10 Grand Canyon \TU/NotoSansMyanmar(0)/m/n/10 ကဲ-့-သ-ိ-ု-့-
+သော ဦး-တ-ည-်-သ-ည့်
+
+Underfull \hbox (badness 3547) in paragraph at lines 92--93
+\TU/NotoSansMyanmar(0)/m/n/10 ြ-င-့-်-စ-ွ-ာ-ဖ-ွ-ဲ-့-တ-
+စ-်-န-ည-်-း-တ-စ-်-ထား ဖြ-စ-်-ပ-ေ-ါ-်-
+လ-ာ-သ-ည-်-ဟ-ု-ဆ-ိ-ု-က-ြ-သည်
+
+Underfull \hbox (badness 1097) in paragraph at lines 92--93
+\TU/NotoSansMyanmar(0)/m/n/10 က-ြ-ီ-း-မ-ျား တည-်-ဆ-ေ-
+ာ-က-်-ရန် ခေ-တ-်-စ-ာအ-ုပ်၏အာ-း-လ-ု-
+ံ-း-က-ိ-ု-သ-ု-ံ-း-
+
+Underfull \hbox (badness 1895) in paragraph at lines 94--95
+[]\TU/NotoSansMyanmar(0)/m/n/10 ထိ-ု-က-ဲ-့-သ-ို့ ထူ-
+း-ခ-ြ-ာ-း-သ-ေ-ာအ-ခ-ျ-က-်-မ-ျ-ာ-း-သည် 
+ပျ-က-်-စ-ီ-း-က-ြ-မ-်-း-
+
+Underfull \hbox (badness 2302) in paragraph at lines 96--96
+\TU/NotoSansMyanmar(0)/b/n/12 သော မမ-်-မ-ု-တ-်-မ-ျာ
+း အမ-ွ-ေအ-န-ှ-စ-်-တ-ည-်-န-ေရာ၌
+
+Underfull \vbox (badness 10000) has occurred while \output is active [1{/var/li
+b/texmf/fonts/map/pdftex/updmap/pdftex.map}
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+]
+Underfull \hbox (badness 1888) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 ာ-း-သော မမ-်-မ-ာ-့-န-
+ွ-ာ-း-မ-ျ-ာ-း-ဖ-ြ-စ-်-ပ-ြီး \TU/NotoSerif(0)/m/n/
+10 Arc-tic \TU/NotoSansMyanmar(0)/m/it/10 ဒေ-သ-မ-ျ-ာ-း-တ-ွ
+င် ရှ-ာ-
+
+Underfull \hbox (badness 2310) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 ဖ-ွ-ေ-တ-ွ-ေ-့-ရ-ှ-ိ-န-ိ-
+ု-င-်-သည် \TU/NotoSerif(0)/m/n/10 (\TU/NotoSansMyanmar(0)/m/it/10 
+ပုံ []\TU/NotoSerif(0)/m/n/10 1[])\TU/NotoSansMyanmar(0)/m/it/10 ။ \TU/
+NotoSerif(0)/m/n/10 Beresovka \TU/NotoSansMyanmar(0)/m/it/10 မမ-်-မ-
+ာ-့-သည် စိ-ု-င-်-
+
+Underfull \hbox (badness 1571) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 ြ-င-့-်-သ-ေ-ာ-်-လ-ည်း 
+၎င်း၏သာ-း-လ-ည်း အစ-ာ-းအ-သ-ေ-ာ-က-်
+အ-ဖ-ြစ်
+
+Underfull \hbox (badness 1221) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 လ-ုံး ရှ-ာ-ဖ-ွ-ေ-တ-ွ-
+ေ-့-ရ-ှ-ိ-မ-ည-်-ဖ-ြ-စ-်-ပ-ြီး ၎င်-း-
+သည် မျ-ေ-ာ-သ-မ-ျ-ှ-ပ-င-်-တ-စ-်-
+
+Underfull \hbox (badness 3229) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 ထ-ုအ-န-ိ-မ-့-်-သ-ည့် 
+သာ-းအ-မ-ျ-ိ-ု-းအ-စ-ာ-းအထိ\TU/NotoSerif(0)/m/it/
+10 ) \TU/NotoSansMyanmar(0)/m/it/10 ချ-က-်-ခ-ြ-င-်-း-သ-တ-
+္-တ-ု-
+
+Underfull \vbox (badness 2035) has occurred while \output is active
+Underfull \hbox (badness 1946) in paragraph at lines 113--114
+[]\TU/NotoSerif(0)/m/n/10 Grand Canyon \TU/NotoSansMyanmar(0)/m/it/10 သည
+် မြ-ေ-ာ-က-်အ-မ-ေ-ရိက၏ တေ-ာ-င-်-
+
+Underfull \hbox (badness 1571) in paragraph at lines 113--114
+\TU/NotoSansMyanmar(0)/m/it/10 ည-ာ-ဘက်၊ \TU/NotoSerif(0)/m/n/10 Gre
+at Basin \TU/NotoSansMyanmar(0)/m/it/10 ၏တစ-်-စ-ိ-တ-်-တ-စ-
+်-ပ-ိ-ု-င-်-းအ-ပ-ါအ-ဝင်
+
+Underfull \hbox (badness 1014) in paragraph at lines 113--114
+\TU/NotoSansMyanmar(0)/m/it/10 ယ-ျ-မ-ြ-ေ-ဆ-ီ-လ-ွ-ှ-ာ-န-
+ှ-င့် သဲ-လ-ွှာ၊ နှ-င့် ကျ-ေ-ာ-က-်-
+သ-ာ-း-လ-ွ-ှ-ာ-မ-ျ-ာ-း-သည်
+
+Underfull \hbox (badness 1184) in paragraph at lines 136--137
+\TU/NotoSansMyanmar(0)/m/it/10 ဤက-ျ-ယ-်-ပ-ြ-န-့-်-သ-ဲ-
+သ-ေ-ာ-င-်-တ-န-်-းအ-လ-ွ-ှ-ာ-မ-ျား တည-
+်-န-ေ-ထ-ိ-ု-င-်-သ-ည-်-
+[2
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+cript=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./jarkov-mammoth.jpg>]
+Underfull \hbox (badness 2538) in paragraph at lines 150--151
+\TU/NotoSerif(0)/m/n/10 orado \TU/NotoSansMyanmar(0)/m/it/10 မြ-စ်က 
+နှ-စ-်-န-ဲ-့-န-ှ-စ-်-ပ-ေ-ါ-င-်-း-မ-ျ-ာ-
+း-စွာ ပွ-တ-်-တ-ိ-ု-က-်-မ-ှ-ု-ဖ-ြ-င့် 
+ဖြ-
+
+Underfull \hbox (badness 2409) in paragraph at lines 150--151
+\TU/NotoSansMyanmar(0)/m/it/10 တ-်-တ-ေ-ာ-က-်-ဖ-န-်-တ-ီ-
+း-သ-ည-်ဟု ဆိ-ု-သည် \TU/NotoSerif(0)/m/n/10 [[]]\TU/Noto
+SansMyanmar(0)/m/it/10 ။ သိ-ု-့-သ-ော် \TU/NotoSerif(0)/m/n/10
+ An-
+
+Underfull \hbox (badness 2662) in paragraph at lines 150--151
+\TU/NotoSansMyanmar(0)/m/it/10 အလ-ွ-န-်အ-မ-င်း ဖယ-်-
+ရ-ှ-ာ-း-ခ-ဲ-့-သည်။ \TU/NotoSerif(0)/m/n/10 Grand Canyon \
+TU/NotoSansMyanmar(0)/m/it/10 အရ-ှ-ေ-့-
+
+Underfull \hbox (badness 5681) in paragraph at lines 150--151
+\TU/NotoSansMyanmar(0)/m/it/10 ဘ-က-်-ရှိ မြ-င-့-်-မ-
+ာ-း-သ-ေ-ာ-က-ိ-န်း \TU/NotoSerif(0)/m/n/10 lake \TU/NotoSans
+Myanmar(0)/m/it/10 တွင် သဲ-န-ှ-င-့-်အ-ထ-ည-်အ-
+
+Underfull \hbox (badness 3668) in paragraph at lines 152--153
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဓာ-တ-ု-ဗ-ေ-ဒ-လ-ု-ပ-်-
+င-န-်-း-မ-ျား၏ အတ-ိ-ု-င-်-းအ-တ-ာ-က-ြ-
+ီ-း-သည် မျ-
+
+Underfull \hbox (badness 6412) in paragraph at lines 152--153
+\TU/NotoSansMyanmar(0)/m/it/10 ြ-ည-်-း-ဖ-ြ-ည-်-း-ဖ-ြ-စ-
+်-လ-ာ-ခ-ဲ-့-ပ-ြ-ီ-လ-ာ-း-ဆ-ိ-ု-သ-ည-်-မှ
+ာ သတ-ိ-ထ-ာ-း-စ-ရ-ာ-မ-ျား
+[3
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./grand-canyon.jpg><./coconino.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+[]\TU/NotoSansMyanmar(0)/m/it/10 ပ\TU/NotoSerif(0)/m/n/10 YR-\TU/NotoSansMyan
+mar(0)/m/it/10 မ-စ-်-မ-ျ-ာ-းအ-ပ-ြင်၊ နေ-ာ-က-
+်-ထပ် တစ-်-ခ-ု-ထ-ူ-း-ခ-ြ-ာ-း-သ-ည့်
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+\TU/NotoSansMyanmar(0)/m/it/10 ခေ-တ-်အ-ဟ-ေ-ာ-င်း အင-
+်-ဂ-ျ-င-်-န-ီ-ယ-ာ-လ-ု-ပ-်-င-န-်-း-တ-စ-
+်-ခ-ု-မှာ \TU/NotoSerif(0)/m/n/10 ค󰀀า󰀀-
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+\TU/NotoSansMyanmar(0)/m/it/10 ပ-ဒ-ိ-ု-စ-ီ-း-ယား၊ တူ-
+ရ-က-ီ-ရှိ \TU/NotoSerif(0)/m/n/10 De-rinkuyu \TU/NotoSansMyanmar(0)
+/m/it/10 မြ-ေအ-ေ-ာ-က-်-မ-ြ-ိ-ု-့-က-ြီး
+
+Underfull \hbox (badness 2126) in paragraph at lines 156--158
+\TU/NotoSerif(0)/m/n/10 (\TU/NotoSansMyanmar(0)/m/it/10 ပုံ []\TU/NotoSer
+if(0)/m/n/10 5[]) \TU/NotoSansMyanmar(0)/m/it/10 ဖြ-စ-်-သည်။ 
+၎င်-း-သည် ထိ-ု-ဒ-ေ-သ-ရှိ မြ-ေအ-ေ-ာ-
+က်အ။
+
+Underfull \hbox (badness 2564) in paragraph at lines 156--158
+\TU/NotoSansMyanmar(0)/m/it/10 ားအ-ပါး \TU/NotoSerif(0)/m/n/10 shel
+-ter \TU/NotoSansMyanmar(0)/m/it/10 ၂၀၀ ကျ-ေ-ာ-်အ-ာ-း-
+လ-ု-ံ-း-တ-ွင် အက-ြ-ီ-း-ဆ-ု-ံ-း-ဖ-ြ-
+
+Underfull \hbox (badness 2088) in paragraph at lines 156--158
+\TU/NotoSansMyanmar(0)/m/it/10 စ-်-သည် \TU/NotoSerif(0)/m/n/10 [[]]\T
+U/NotoSansMyanmar(0)/m/it/10 ။ မြ-ေအ-ေ-ာ-က-်-မ-ြ-ိ-ု-
+့-က-ြ-ီ-း-သည် လူ ၂၀\TU/NotoSerif(0)/m/n/10 ,\TU/NotoSan
+sMyanmar(0)/m/it/10 ၀၀၀ ထိ
+
+Underfull \hbox (badness 1320) in paragraph at lines 169--170
+\TU/NotoSansMyanmar(0)/m/it/10 ြ-ေ-ာ-င-်းက မည-်-သ-ည့
+် အသ-ိ-ု-င-်-းအ-ဝ-ိ-ု-င-်းက မည-်-သ-ည-
+့-်အ-က-ြ-ေ-ာ-
+
+Underfull \vbox (badness 3838) has occurred while \output is active [4
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+Missing character: There is no ค (U+0E04) in font NotoSerif:mode=node;script=
+latn;language=dflt;+tlig;family=rm;!
+Missing character: There is no า (U+0E32) in font NotoSerif:mode=node;script=
+latn;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./Grand_Staircase-big.jpg><./derinkuyu.jpeg>]
+Underfull \hbox (badness 1107) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 တ-ွင် သာ-း-သ-တ-်-တ-ိ-
+ရ-စ-္-ဆ-ာန်၊ ငှ-က-်-န-ှ-င့် ငလ-ျ-င-
+်-မ-ျား၏ အရ-ိုး
+
+Underfull \hbox (badness 1540) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 ာ-း-သ-ေ-ာ-တ-ိ-ရ-စ-္-ဆ-ာ-
+န-်-တ-ူ-ရ-ာ-သ-ဲ-လ-ွ-ှ-ာ-မ-ျ-ာ-း-ထ-ဲ-သ-
+ို့ ထည-့-်-သ-ွ-င-်-း-ခ-ြ-င်း၊
+
+Underfull \hbox (badness 1292) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 င-်-သ-ည-်-ကို မလ-ွ-ယ-
+်-က-ူ-သ-ေ-ာ-်-လ-ည်း ရှ-င-်-း-ပ-ြ-န-ိ-
+ု-င-်-သည်။ အီ-ဂ-ျ-စ-်-
+[5
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+Missing character: There is no و (U+0648) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ض (U+0636) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ع (U+0639) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ی (U+06CC) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ت (U+062A) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+cript=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./derinkuyu-air.jpg>]
+Underfull \hbox (badness 4582) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 မ-ဟ-ုတ် တစ-်-ခ-ု-ပ-ေ-
+ါ-င-်-း-ပ-ါ-တဲ့ အလ-ေ-ာ-င-်-း-သ-ိ-ု-လ-
+ှ-ေ-ာ-င-်-ခ-န-်-း-မ-ျ-ာ-း-ပ-
+
+Underfull \hbox (badness 2409) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 ါ-ဝ-င-်-သည်။ ထိ-ု-သ-လ-
+ေ-ာက် အက-ြ-ီ-း-စ-ာ-း-က-ျ-ေ-ာ-က-်-တ-ု-
+ံ-း-မ-ျ-ာ-း-ဖ-ြ-င-့-်-
+
+Underfull \hbox (badness 1033) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 ဖ-န-်-တ-ီ-း-ထ-ာ-း-သ-ည့
+် တိ-ု-တ-ေ-ာ-င-်-း-သော ဝင-်-ပ-ေ-ါ-က-
+်-လ-မ-်-း-က-ြ-ေ-ာ-င-်-
+
+Underfull \hbox (badness 4634) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 း-တ-စ-်-ခ-ု-ရ-ှ-ိ-သည် \T
+U/NotoSerif(0)/m/n/10 [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။ ၎င်-း-သ
+ည် စီ-း-က-ွ-င-်-း-စ-ဉ-်-ဆ-က-်-ဖ-ြ-စ-်-
+စ-ေ-
+
+Underfull \hbox (badness 2698) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 ရ-န-်အ-တ-ွက် မျ-ိ-ု-း-
+ဆ-က-်-မ-ျ-ာ-း-စွာ ချ-ိ-တ-်-ဆ-က-်-တ-ည-
+်-ဆ-ေ-ာ-က-်-ထ-ာ-
+
+Underfull \hbox (badness 2277) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 း-ရ-သော ကာ-က-ွ-ယ-်-ရ-
+ေ-းအ-ဆ-ေ-ာ-က-်အအ-ု-ံအ-က-ြ-ီ-း-စ-ာ-း-
+တ-စ-်-ခ-ု-ကို
+
+Underfull \hbox (badness 1337) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 က-်-မ-ှ-ု-တ-ွင် အလ-ွ-
+န-်-က-ြ-ီ-း-မ-ာ-း-သ-ည့် ကြ-ိ-ု-း-စ-ာ-
+းအ-ာ-း-ထ-ု-တ-်-မ-ှ-ု-မ-ျ-ာ-း-ကို
+
+Underfull \hbox (badness 1577) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 တွ-ေ-့-ရ-ှ-ိ-န-ိ-ု-င-်-
+သည် \TU/NotoSerif(0)/m/n/10 - New-grange \TU/NotoSansMyanmar(0)/m/it/10 
+တွင် တန-်-ခ-ျ-ိန် ၂၀၀\TU/NotoSerif(0)/m/n/10 ,\TU
+/NotoSansMyanmar(0)/m/it/10 ၀၀၀
+
+Underfull \hbox (badness 1389) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 ရ-ေ-ာ-က-်-န-ိ-ု-င-်-သည
+်။ ထိ-ု-လ-မ-်-း-က-ြ-ေ-ာ-င-်-း-သည် မီ
+တာ ၁၉ \TU/NotoSerif(0)/m/it/10 (\TU/NotoSansMyanmar(0)/m/it/10 အပ-
+
+Underfull \hbox (badness 2980) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 းရာ၌ မျ-က-်-န-ှ-ာ-က-ျ-
+က-်-က-ျ-ယ-်-သော အလ-ယ-်-စ-င-်-ခ-န-်-း
+မှ အပ-ေ-
+
+Underfull \hbox (badness 7273) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 ါ-်-သ-ိ-ု-့-ပထမ ဆည-်-
+ခ-ေ-ါ-င-်-ခ-န-်-း-သ-ု-ံ-း-ခ-န-်-း-ခ-ွ-
+ဲ-ရ-ှ-ိ-ပ-ြီး၊ အထ-က-်-က-ာ-ပ-ူ-ဖ-ု-ံ-
+
+Underfull \hbox (badness 1442) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 က-်-န-ှ-ာ-ထ-ပ-်အ-ပ-ေ-ါ-
+်-တ-ွင် \TU/NotoSerif(0)/m/it/10 “\TU/NotoSansMyanmar(0)/m/it/10 
+အထ-ပ-်-တ-စ-်-ထပ်၏ အထ-ဲ-ဆ-ွ-ဲဟာ မီ-
+
+Underfull \hbox (badness 2521) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 နှ-စ-်-မှာ ခရ-စ-်-တ-ေ-
+ာ-်-မ-ပ-ေ-ါ-်မီ ၂၅၀၀ ခု-န-ှ-စ-်-ကိ
+ု ဦး-တ-ည-်-သည်\TU/NotoSerif(0)/m/it/10 ”
+
+Underfull \vbox (badness 10000) has occurred while \output is active [6
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./muck-crop.jpeg><./ww19.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+[]\TU/NotoSansMyanmar(0)/m/it/10 အတ-ွ-င-်-း-တ-ွင် လူ
+အ-လ-ေ-ာ-င-်-းအ-ရ-ု-ပ-်-မ-ျား မတ-ွ-ေ-
+့-ရ-ခ-ြ-င-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 း-သ-ည-်-လ-ည်း ထူ-း-ဆ-
+န-်-း-စရာ အခ-ျ-က-်-တ-စ-်-ခ-ု-ဖ-ြ-စ-်-
+သည်။
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 တူ-း-ဖ-ေ-ာ-်-မ-ှ-ု-မ-ျ-
+ာ-းအ-တ-ွ-င်း မီ-း-လ-ေ-ာ-င-်-သ-ည့်၊ 
+မလ-ေ-ာ-င-်-သ-ည့်
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 အရ-ိ-ု-းအ-ု-ပ-်-စ-ု-သ-
+ေ-း-သ-မ-ာ-း-မ-ျ-ာ-း-န-ှ-င-့-်-လ-ူအ-န-ည-
+်-း-ငယ် ၏ အရ-ိ-ု-
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 းအ-ု-ပ-်-စ-ု-မ-ျား ချ-
+စ-်-စ-ေ-့-ခ-ျ-စ-်-စေ့ သံ-စ-ေ-့-ပ-ေါ်
+၌ ဖြ-န-့-်-ခ-ျ-ထ-ာ-း-ရန်
+
+Underfull \hbox (badness 2027) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 တွ-ေ-့-ရ-ှ-ိ-ခ-ဲ-့-သည
+်။ \TU/NotoSerif(0)/m/n/10 New-grange \TU/NotoSansMyanmar(0)/m/it/10 ၏ 
+ဆေ-ာ-က-်-လ-ု-ပ-်-မ-ှ-ုအ-ခ-ျ-ိ-န-်-ကိ
+ု
+
+Underfull \hbox (badness 7649) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 နန-်-း-ျ-ဖဴအ-ု-ပ-်-စ-
+ု-ခ-ျ-င်း သာ-ေ-သ-ာ-က-ြ-ီ-း-မား၍ အတ-
+ုအ-ယ-ေ-ာ-င-်-မ-ရှိ
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 အထ-ူ-း-စ-ီ-မ-ံ-က-ျ-ဆ-င
+်း၍ ဆေ-ာ-က-်-လ-ု-ပ-်-ထ-ာ-း-သ-ည့် သု-
+သ-ာ-န-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 က-ြ-ီ-း-တ-စ-်-ခ-ု-သ-ို
+့ လူ-န-ည-်-း-ငယ်၏ အရ-ိ-ု-းအ-ု-ပ-်-စ-
+ုအ-ာ-း-လ-ု-ံ-း-က-ိ-ုသာ
+
+Underfull \hbox (badness 4792) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 လမ-်-း-က-ြ-ေ-ာ-င-်-း-တ-
+ွင် ဖြ-န-့-်-ခ-ျ-ခ-ြ-င-်-းအား ထိ-ု-
+ဟ-ု-ဆ-ေ-ာ-က-်-လ-ု-ပ-်-က-ြ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 ပြ-ု-လ-ု-ပ-်-ထ-ာ-း-သေ
+ာ မေ-ဂ-ါ-လ-စ-်-သ-ံ-တ-ု-ဆ-ေ-ာ-က-်-လ-ု-ပ-
+်-မ-ှ-ု-က-ြ-ီ-း-မ-ျ-
+
+Underfull \hbox (badness 7595) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 ာ-း-သည် မြ-ေ-က-ြီး၏ 
+ထပ-်-ပ-ြ-န-်-ဖ-ြ-စ-်-သော သဘ-ာ-ဝအ-န-္-
+တ-ရ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 ာ-ယ-်-မ-ျ-ာ-း-က-ာ-က-ွ-ယ-
+်-ရန် လူ-သ-ာ-း-မ-ျား နေ-ထ-ိ-ု-င-်-ရ-
+ာအ-ိ-မ-်အ-ဖ-ြစ်
+
+Underfull \hbox (badness 3713) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 ဆေ-ာ-က-်-လ-ု-ပ-်-ခ-ဲ-့-
+က-ြ-သ-ည-်ဟု သက-်-သ-ာ-လ-ွ-ယ-်-က-ူ-စွာ 
+ယူ-ဆ-န-ိ-ု-င-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဤအ-ခ-န-်-း-တ-ွင်၊ ထ
+ူ-း-ခ-ြ-ာ-း-ဖ-ွယ် အဖ-ြ-စ-်အ-ပ-ျ-က-်-
+မ-ျ-ာ-း-
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+\TU/NotoSansMyanmar(0)/m/it/10 ထ-ပ-်မံ၍ တင-်-ပ-ြ-မ-ည-
+်-ဖ-ြ-စ-်-ပ-ြီး၊ အာ-း-လ-ု-ံ-း-သည် \TU/N
+otoSerif(0)/m/n/10 ECDO-
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+\TU/NotoSansMyanmar(0)/m/it/10 သဘာဝပေါက်ကွဲဖြစ
+်စဉ်တစ်ခုဖြင့် ကေ-ာ-င-်-း-စွာ 
+ရှ-င-်-း-ပ-ြ-
+
+Underfull \hbox (badness 2790) in paragraph at lines 252--253
+[]\TU/NotoSansMyanmar(0)/m/it/10 သိ-သ-ိ-သ-ာသာ ကြ-ေ-ာ-
+င-ျ-း-က-ြ-ေ-ာ-င-ျ-း-ရ-ှ-ိ-သော ဇီ-ဝ-လ-
+က-္-ခ-ဏ-
+
+Underfull \hbox (badness 7116) in paragraph at lines 252--253
+\TU/NotoSansMyanmar(0)/m/it/10 ာ-ဆ-ိ-ု-း-ဝ-ါ-း-မ-ျ-ာ-း-
+ထ-ဲ-တ-ွင် ဂျ-င-်-န-က-္-တစ် \TU/NotoSerif(0)/m/n
+/10 bot-tle-necks \TU/NotoSansMyanmar(0)/m/it/10 မျ-ာ-း-န-ှ-င့
+်
+
+Underfull \hbox (badness 1264) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 ျ-ာ-းအ-န-ေ-န-ှ-င့် အက-
+ေ-ာ-င-်-း-ဆ-ု-ံ-း-လ-ေ-့-လ-ာ-ခ-ဲ-့-သ-ည-
+်-မ-ျ-ာ-း-မှာ \TU/NotoSerif(0)/m/n/10 ”\TU/NotoSansMyanmar(0)
+/m/it/10 အက-ြ-ီ-း-
+
+Underfull \hbox (badness 1515) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 ျ-ေ-ာ-က-်-မ-ှ-ု-က-ြ-ီ-း-
+မ-ျ-ာ-းအ-န-က-်-တ-ခ-ျ-ိ-ု-့-သည် \TU/NotoSerif(
+0)/m/n/10 Grand Canyon \TU/NotoSansMyanmar(0)/m/it/10 တွ-င-်-
+
+Underfull \hbox (badness 1490) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 တ-ွ-ေ-့-ရ-ှ-ိ-န-ိ-ု-င-်-
+သ-ည့် ကျ-ေ-ာ-က-်-တ-န-်-းအ-ခ-ျ-ိ-ု-့-
+ဖ-ြ-စ-်-သ-ည့် \TU/NotoSerif(0)/m/n/10 Per-mian \TU/NotoSansMyan
+mar(0)/m/it/10 နှ-
+
+Underfull \hbox (badness 3229) in paragraph at lines 268--269
+[]\TU/NotoSerif(0)/m/n/10 Grand Canyon \TU/NotoSansMyanmar(0)/m/it/10 ကိ
+ု မဖ-ွ-ဲ-့-စ-ည-်-း-ခ-ဲ-့-သ-ေ-ာ-်-လ-ည်
+း၊ မတ-ည-်-
+
+Underfull \hbox (badness 4765) in paragraph at lines 268--269
+\TU/NotoSansMyanmar(0)/m/it/10 ရ-ှ-ိ-တ-ဲ-့အ-ခ-ြ-ာ-း-သ
+ော သိ-သ-ာ-ထ-င-်-ရ-ှ-ာ-း-သော မြ-ေ-ပ-ြ-
+င-်-ပ-ု-ံ-စ-ံ-မ-ျ-ာ-း-သ-
+
+Underfull \hbox (badness 1320) in paragraph at lines 268--269
+\TU/NotoSansMyanmar(0)/m/it/10 ည-်-လ-ည်း တရ-ာ-း-ဝ-င-
+်-ပ-ါ-ဝ-င-်-သော မတ-ည-်-့-တ-ည-်-း-သ-ည
+့် အက-
+
+Underfull \hbox (badness 6910) in paragraph at lines 268--269
+\TU/NotoSansMyanmar(0)/m/it/10 ြ-မ-်-း-ခ-ံ-စ-ွ-မ-်-းအ-
+င-်-က-ြ-ေ-ာ-င့် ဖြ-စ-်-ပ-ေ-ါ-်-လ-ာ-ခ-
+ဲ-့-သ-ည-်ဟု ယု-ံ-က-ြ-ည-်-မ-ှ-ု-ရ-ှ-ိ-
+[7
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./dolmen.jpg>]
+Underfull \hbox (badness 1292) in paragraph at lines 275--275
+[]\TU/NotoSerif(0)/m/n/9 Fig-ure 12. []\TU/NotoSansMyanmar(0)/m/n/9 တော
+င်တန့်တိုင်ကျောက်တိုင်ကြီး
+များကို တေ-ာ-င-်-တ-
+
+Underfull \hbox (badness 1354) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 န-်-း-တ-ေ-ာ-င-်-တ-န်း၊ 
+တေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာအ-ရ
+ပ်၊ တေ-ာ-င-်-တ-ေ-ာ-င-်-
+
+Underfull \hbox (badness 1701) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 တ-ေ-ာ-င-်-တ-ေ-ာအ-ရပ်၊ 
+တေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာအ-ရ
+ပ်၊ တေ-ာ-င-်-တ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ
+အ-ရပ်၊ တေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-
+တ-ေ-ာအ-ရပ်၊ တေ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-
+်-တ-ေ-ာအ-ရပ်၊ တေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-
+ာ-င-်-တ-ေ-ာအ-ရပ်၊
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 တေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-
+ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-
+ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-
+ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-
+ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-
+ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-
+ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-
+
+Underfull \vbox (badness 4765) has occurred while \output is active
+Underfull \hbox (badness 3713) in paragraph at lines 291--292
+[]\TU/NotoSansMyanmar(0)/m/it/10 မြ-ေ-တ-ွ-င-်-း-င-ယ-်-
+ယ-င-်-း-ဖ-ျ-က-်-စ-ီ-း-မှု အခ-ြ-ေ-ဆ-ေ-
+ာင် အဆ-ေ-ာ-က-
+
+Underfull \hbox (badness 1102) in paragraph at lines 291--292
+\TU/NotoSansMyanmar(0)/m/it/10 ်အအ-ု-ံ-မ-ျ-ာ-း-သည် \TU/
+NotoSerif(0)/m/n/10 ECDO- \TU/NotoSansMyanmar(0)/m/it/10 နည-်-း-လ-
+မ-်-း-န-ှ-င့် သက-်-တ-မ-်-း-တ-က-်-မ-ြ-
+
+Underfull \hbox (badness 1142) in paragraph at lines 291--292
+\TU/NotoSansMyanmar(0)/m/it/10 ေ-က-မ-္-ဘ-ာ-လ-ှ-ည့် ပ
+ြ-ေ-ာ-င-်-း-လ-ဲ-မ-ှ-ု-ဖ-ြ-င-့-်-လ-ည်း 
+ကေ-ာ-င-်-း-စွာ ရှ-င-်-း-ပ-ြ-
+
+Underfull \hbox (badness 1242) in paragraph at lines 291--292
+\TU/NotoSansMyanmar(0)/m/it/10 န-ိ-ု-င-်-သည်။ တရ-ု-တ-
+်-တ-ေ-ာ-င-်-ပ-ိ-ု-င-်-း-သည် ရေအ-သ-ွ-
+ယ-်-ဖ-ြ-င့် ပေ-ါ-်-ပ-
+
+Underfull \hbox (badness 1371) in paragraph at lines 291--292
+\TU/NotoSansMyanmar(0)/m/it/10 ွင် အထ-ူ-း-ထ-င-်-ရ-ှ-
+ာ-း-သ-ည့် ဥပ-မ-ာအ-နက် တစ-်-ခ-ု-မှာ 
+\TU/NotoSerif(0)/m/n/10 Zhangji-
+
+Underfull \hbox (badness 4156) in paragraph at lines 291--292
+\TU/NotoSerif(0)/m/n/10 a-jie \TU/NotoSansMyanmar(0)/m/it/10 အမ-ျ-ိ-
+ု-း-သ-ာ-း-သ-စ-်-တော အု-ပ-်-ခ-ျ-ု-ပ-်-
+မ-ှ-ု-န-ေ-ရ-ာ-ဖ-ြ-စ-်-ပ-ြီး၊ ဦး-တ-
+
+Underfull \hbox (badness 2020) in paragraph at lines 291--292
+\TU/NotoSansMyanmar(0)/m/it/10 ြ-င-့-်-သည် \TU/NotoSerif(0)/m/n/1
+0 [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။ ဤက-ျ-ေ-ာ-က-်-တ-ိ-
+ု-င-်-မ-ျ-ာ-း-သည် ပင-်-လ-ယ-်-ရ-ေ-ခ-ြ-
+[8
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./bottleneck.jpg><./columbia.jpg><./zhangjiajie.jpg>]
+Underfull \hbox (badness 3471) in paragraph at lines 295--296
+[]\TU/NotoSansMyanmar(0)/m/it/10 ခေ-တ-်-သစ် သိ-ပ-္-ပ-
+ံ-စ-ာ-တ-မ-်-း-မ-ျ-ာ-း-တ-ွင် မြ-ေ-က-ြ-
+ီ-း-သ-မ-ိ-ု-င-်-း-န-ေ-ာ-
+
+Underfull \hbox (badness 1163) in paragraph at lines 295--296
+\TU/NotoSansMyanmar(0)/m/it/10 င-်-ထ-ု-မ-ျား၊ ကျ-ေ-ာ-
+က-်-မ-ီ-း-ခ-ိ-ု-း-ဓ-ာ-တ-်-သ-မ-ိ-ု-င-်-
+းအ-က-ြ-ေ-ာ-င-်-းအ-ရ-ာ-မ-ျား၊
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 သင-်-္-ဂ-ြ-ိ-ု-ဟ-်-ခ-ြ-
+င-်-း-န-ှ-င့် ဖျ-က-်-သ-ိ-မ-်-း-ခ-ြ-င-
+်-း-ပ-ါ-ဝ-င-်-မ-ှ-ု-မ-ျား တွ-ေ-့-ရ-ပ-
+ြီး၊
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 မှ-တ-်-တ-မ-်-း-တ-င-်-ထ-
+ာ-း-သည်။ ဤန-ယ-်-မ-ြ-ေ-တ-ွင် ပထ-မဦ-
+း-ဆ-ု-ံ-း-
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 ဖ-ြ-စ-်သူ တစ-်ဦ-း-မှ
+ာ ယေ-ရ-ီ-ခ-ိ-ု-မ-ြ-ိ-ု-့-ဟ-ေ-ာ-င-်-း-ဖ-
+ြ-စ-်-ပ-ြီး၊ ယန-ေ-့-ပ-လ-
+
+Underfull \hbox (badness 6268) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 က-်-စ-တ-ိ-ု-င-်-း-တ-ွင
+် တည-်-ရ-ှ-ိ-သည်။ ဤမ-ြ-ိ-ု-့-တ-ွင် 
+အဖ-ွ-ဲ-့-လ-ိ-ု-က-်-ဖ-ျ-က-်-
+
+Underfull \hbox (badness 4699) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 သ-ိ-မ-်-း-ခ-ြ-င-်-းအ-လ-
+ွ-ှ-ာ-မ-ျ-ာ-း-ရ-ှ-ိ-ပ-ြီး၊ ကျ-ေ-ာ-က-
+်-တ-ည-်-ဆ-ေ-ာ-က-်-ပုံ သစ-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 ပ-ျ-က-်-ဆ-ီ-း-မ-ှ-ု-န-ှ-
+င့် မီ-း-လ-ေ-ာ-င-်-သ-ည-့-်-သ-က-်-သ-ေ-
+မ-ျ-ာ-း-ပ-ါ-ဝ-င-်-သည်
+
+Underfull \hbox (badness 6188) in paragraph at lines 299--300
+\TU/NotoSerif(0)/m/n/10 [[], []]\TU/NotoSansMyanmar(0)/m/it/10 ။ ၎င်
+း၏အလ-ွ-ှ-ာ-မ-ျ-ာ-း-တ-ွင် မှ-တ-်-တ-မ-
+်-း-တ-င-်-ထ-ာ-း-သ-
+
+Underfull \hbox (badness 1609) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 ေ-ာ-က-ာ-လ-သည် စု-စ-ု-
+ပ-ေ-ါ-င်း \TU/NotoSerif(0)/m/n/10 BCE \TU/NotoSansMyanmar(0)/m/it/1
+0 ၉\TU/NotoSerif(0)/m/n/10 ,\TU/NotoSansMyanmar(0)/m/it/10 ၀၀၀ မှ \
+TU/NotoSerif(0)/m/n/10 BCE \TU/NotoSansMyanmar(0)/m/it/10 ၂\TU/NotoSerif(0)/m
+/n/10 ,\TU/NotoSansMyanmar(0)/m/it/10 ၀၀၀
+
+Underfull \hbox (badness 1292) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 သဲ-မ-ြ-ေ-တ-ွင် သျ-ှ-ံ-
+့-သ-ိ-မ-်-း-ခ-ဲ-့-သ-ည-်-ကို တွ-ေ-့-ရ-
+သည် \TU/NotoSerif(0)/m/n/10 (\TU/NotoSansMyanmar(0)/m/it/10 ပုံ []\
+TU/NotoSerif(0)/m/n/10 14[]) [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။
+
+Underfull \hbox (badness 1824) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 သ-က-်-သ-ေ-ခ-ံ-န-ိ-ု-င-်-
+သ-ည့် ဖျ-က-်-ဆ-ီ-း-မ-ှ-ုအ-လ-ွ-ှ-ာအ-မ-
+ျ-ိ-ု-း-မ-ျ-ိ-ု-း-ပ-ါ-ဝ-င-်-သ-ည့်
+
+Underfull \hbox (badness 3049) in paragraph at lines 312--313
+[]\TU/NotoSansMyanmar(0)/m/it/10 လူ-့အ-ဖ-ွ-ဲ-့အ-စ-ည-်-
+း-ဆ-ိ-ု-း-ရ-ွ-ာ-း-စ-ွ-ာ-ဖ-ျ-က-်-ဆ-ီ-း-
+သ-ွ-ာ-း-သ-ည့် သက-်-သ-ေ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ထ-ေ-ာ-က-်-ခ-ံ-ခ-ျ-က-်-တ-
+စ-်-ခ-ု-မှာ နန-်-ပ-ါ-ပ-ံ-ု-တ-ူ-ပ-န-်-
+း-တ-လ-င-်-း-ဖ-ြ-စ-်-သည်။
+
+Underfull \hbox (badness 2302) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ရ-ှ-ိရာ မီ-း-တ-ေ-ာ-င-
+်-ခ-ြ-ေ-ာ-က-်-က-ျ-သည် နေ-ာ-က-်-ဆ-ု-ံ-
+း-တ-တ-ိ-ယ-ခ-ေတ်
+
+Underfull \hbox (badness 3189) in paragraph at lines 312--313
+\TU/NotoSerif(0)/m/n/10 (Early Qua-ter-nary) \TU/NotoSansMyanmar(0)/m/it/10 
+တွင် တင-်-ပ-ွ-ဲ-တ-င-်-က-ြ-ေ-ာ-င်း ခ
+န-့-်-မ-ှ-န-်-း-
+
+Underfull \hbox (badness 2753) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ေ-ာ-င-်-ခ-ြ-ေ-ာ-က-်-က-ျ-
+ဟ-ု-ဆ-ိ-ု-သ-ေ-ာ-်-လ-ည်း၊ ဒေ-သ-တ-ွင် 
+ယခ-ု-လ-က-်-ရှိ
+
+Underfull \hbox (badness 2913) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ဖ-ြ-စ-်-မ-ျ-ာ-း-သည် လ
+ူ-့အ-ဖ-ွ-ဲ-့အ-စ-ည-်-း-က-ိ-ု-ဖ-ျ-က-်-ဆ-
+ီ-း-န-ိ-ု-င-်-သော သဘ-ာ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ဝ-သ-ဘ-ာ-ဝ-ဘ-ေ-းအ-န-္-တ-
+ရ-ာ-ယ-်-က-ြ-ီ-း-က-ြ-ပ-်-မ-ှ-ု-က-ိ-ု-ပ-
+ြ-သ-သ-ည-်-့အ-ပ-ြင်
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ယန-ေ-့-ခ-ေတ် အသ-က-်-သ-
+က-်-တ-မ-်-း-ခ-န-့-်-မ-ှ-န-်-း-ပ-ု-ံ-စ-
+ံ-မ-ျ-ာ-း-က-ိ-ု-လ-ည်း
+
+Underfull \vbox (badness 1097) has occurred while \output is active [9
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./hoy.jpg>]
+Underfull \hbox (badness 3449) in paragraph at lines 316--317
+\TU/NotoSansMyanmar(0)/m/it/10 ခန-့-်-မ-ှ-န-်-း-တ-တ-်-
+ပ-ါ-သည်။ ထိ-ုအ-က-ြ-ေ-ာ-င-်-းအရ သံ-
+သ-ယ-ခ-ျ-ပ-ိ-ု-့-ရန်
+
+Underfull \hbox (badness 2005) in paragraph at lines 318--319
+\TU/NotoSansMyanmar(0)/m/it/10 ကာဗွန်\TU/NotoSerif(0)/m/n/10 -\TU/N
+otoSansMyanmar(0)/m/it/10 ၁၄ ၏ သက-်-တ-မ-်-း-ခ-ွ-ဲအ-
+ခ-ျ-ိ-န-်-မှာ \TU/NotoSerif(0)/m/n/10 (\TU/NotoSansMyanmar(0)/m
+/it/10 ၅\TU/NotoSerif(0)/m/n/10 ,\TU/NotoSansMyanmar(0)/m/it/10 ၇၃၀ 
+နှစ်\TU/NotoSerif(0)/m/n/10 ) \TU/NotoSansMyanmar(0)/m/it/10 သာ-
+
+Underfull \hbox (badness 3209) in paragraph at lines 318--319
+\TU/NotoSansMyanmar(0)/m/it/10 ဖ-ြ-စ-်-သ-ည-်-့အ-တ-ွက
+် သေ-ာ-င-်-း-န-ှ-စ-်-ပ-ေ-ါ-င်း ရာ-န-
+ှ-စ-်-မ-ျ-ာ-းအထိ ပြ-ီ-း-
+
+Underfull \hbox (badness 5008) in paragraph at lines 318--319
+\TU/NotoSansMyanmar(0)/m/it/10 း-သ-ွ-ေ-း-သ-စ-်-လ-ွ-င-်-
+န-ှ-င့် ဇီ-ဝ-ဖ-ိ-ု-း-ပ-ိ-ု-င-်-း-မ-ျ-
+ာ-း-တ-ွ-င-်-ပ-ါ-ရ-ှ-ိ-န-ေ-သ-ည-်-့အ-ခ-ျ-
+က-်-
+
+Underfull \hbox (badness 2418) in paragraph at lines 318--319
+\TU/NotoSansMyanmar(0)/m/it/10 သည် သက-်-တ-မ-်-း-ခ-န-
+့-်-မ-ှ-န-်-း-မ-ှ-ု-စ-န-စ-်-မ-ျ-ာ-းအာ
+း မေ-း-ခ-ွ-န-်-း-ထ-ု-တ-်-စ-ေ-
+
+Underfull \hbox (badness 1137) in paragraph at lines 320--321
+[]\TU/NotoSansMyanmar(0)/m/it/10 ကာဗွန်\TU/NotoSerif(0)/m/n/10 -\TU
+/NotoSansMyanmar(0)/m/it/10 ၁၄ သက-်-တ-မ-်-း-ခ-န-့-်-
+မ-ှ-န-်-း-ခ-ြ-င-်-းအ-ပ-ြင် အခ-ြား ရ
+ေ-ဒ-ီ-
+
+Underfull \hbox (badness 1521) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 း-မ-ျ-ာ-း-လ-ည်း မှ-န-
+်-က-န-်-မ-ှ-ု-မ-ရ-ှ-ိ-န-ိ-ု-င-်-သည်။ \T
+U/NotoSerif(0)/m/n/10 An-swers in Gen-e-
+
+Underfull \hbox (badness 5985) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 ည့် အသ-က-်-ခ-န-့-်-မ-
+ှ-န-်-း-မ-ှ-ု-က-ိ-န-်-း-ဂ-ဏ-န-်-း-မ-ျ-
+ာ-း-တ-ွင် တစ-်-သ-က-်-တ-စ-်-
+
+Underfull \hbox (badness 7397) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 သ-က-်-ပ-ြဿ-န-ာ-မ-ျ-ာ-း-
+ရ-ှ-ိ-က-ြ-ေ-ာ-င်း တွ-ေ-့-ရ-ှ-ိ-ခ-ဲ-့-
+သည် \TU/NotoSerif(0)/m/n/10 [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။ သ
+န-်-း-
+
+Underfull \hbox (badness 3449) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 ွင် သွ-ေ-း-က-ေ-ာ-လဟ်
+၊ သွ-ေ-း-က-ြော၊ ကိ-ု-လ-လ-ဂ-ျ-င-်-ပ-ါ-
+ဝ-င-်-သော
+
+Underfull \hbox (badness 3724) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 သ-ိ-ု-့-လ-ေ-့-လ-ာ-ခ-ျ-က-
+်-မ-ျ-ာ-းအရ၊ ကမ-္-ဘ-ာ-့-ဂ\TU/NotoSerif(0)/m/n/10 
+ე󰀀ო󰀀-\TU/NotoSansMyanmar(0)/m/it/10 လ-ိ-ု-ဂ-ျ-ီ-ရ-ု-
+ပ-်-ပ-ြ-ဇ-ယ-ာ-း-န-ှ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဤစ-ာ-တ-မ-်-း-တ-ွင်၊ 
+သဘ-ာ-ဝ-ဘ-ေ-းအ-န-္-တ-ရ-ာ-ယ-်-က-ြ-ီ-း-က-
+ြ-ပ-်-မ-ှ-ု-
+
+Underfull \hbox (badness 6110) in paragraph at lines 324--325
+\TU/NotoSansMyanmar(0)/m/it/10 န-က-်-မှာ အက-ြ-ေ-ာ-င-
+်-းအ-မ-ျ-ာ-း-ဆ-ု-ံ-း-န-ှ-င့် ထင-်-ရ-
+ှ-ာ-း-သ-မျှ အယ-ူအ-
+
+Underfull \hbox (badness 1424) in paragraph at lines 324--325
+\TU/NotoSansMyanmar(0)/m/it/10 ဆ-မ-ျ-ာ-း-ကို တင-်-ပ-
+ြ-ခ-ဲ-့-ပ-ါ-သည်။ မျ-ိ-ု-း-စ-ု-ံ-သော 
+သက-်-သ-ေ-မ-ျ-ာ-း-ကို
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+\TU/NotoSansMyanmar(0)/m/it/10 တင-်-ပ-ြ-ထ-ာ-း-သ-ေ-ာ-်-
+လ-ည်း၊ ဤစ-ာ-တ-မ-်-း-တ-ွင် ဖေ-ာ-်-ပ-
+ြ-ထ-ာ-း-သ-
+
+Underfull \hbox (badness 7047) in paragraph at lines 324--325
+\TU/NotoSerif(0)/m/n/10 repos-i-tory \TU/NotoSansMyanmar(0)/m/it/10 တွင
+် သက-်-သ-ေ-မ-ျ-ာ-း-စ-ု-စ-ည-်-း-တ-င-်-ထ-
+ာ-း-ပ-ါ-သည်
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+[]\TU/NotoSerif(0)/m/n/10 ECDO \TU/NotoSansMyanmar(0)/m/it/10 သီအ-ိ-
+ုရီ၏မူ-ရ-င-်-း-စ-ာ-တ-မ-်-း-စ-ာ-ရ-ေ-း
+သူ \TU/NotoSerif(0)/m/n/10 Eth-i-cal
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+\TU/NotoSansMyanmar(0)/m/it/10 လေ-ာ-က-ျ-ီ-စ-ွ-ာ-က-မ-္-
+ဘ-ာ-သ-ိ-ု-့-မ-ျ-ှ-ဝ-ေ-ခ-ဲ-့-တ-ဲ-့-သ-ူအ-
+ဖ-ြစ် ကျ-ေ-း-ဇ-ူ-း-တ-င-်-ပ-
+
+Underfull \hbox (badness 1325) in paragraph at lines 327--328
+\TU/NotoSansMyanmar(0)/m/it/10 ါ-တယ်။ သူ၏ သု-ံ-း-ပ-
+ိ-ု-င-်-း-သ-ီအ-ိ-ုရီ \TU/NotoSerif(0)/m/n/10 [[]] \TU/N
+otoSansMyanmar(0)/m/it/10 သည် \TU/NotoSerif(0)/m/n/10 Exother-mic
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+\TU/NotoSerif(0)/m/n/10 (ECDO) \TU/NotoSansMyanmar(0)/m/it/10 သီအ-ိ-
+ု-ရ-ီအ-တ-ွက် အာ-ဏ-ာ-တ-ည-်-သော လက-်-
+စ-ွ-ဲ-စ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+\TU/NotoSansMyanmar(0)/m/it/10 ာအ-ု-ပ-်-ဖ-ြ-စ-်-ပ-ြီ
+း ဒီ-မ-ှ-ာအ-က-ျ-ဉ-်-း-ခ-ျ-ု-ပ-်-ထ-ာ-း-
+သ-ေ-ာအ-ထ-က-်မက
+[10
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+cript=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+Missing character: There is no ე (U+10D4) in font NotoSerif:mode=node;script=
+latn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ო (U+10DD) in font NotoSerif:mode=node;script=
+latn;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./jericho.jpg>]
+Underfull \hbox (badness 1577) in paragraph at lines 329--330
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဒါ-တ-င-်-မ-ကဘဲ ယန-ေ-
+့-က-ျ-ွ-န-်-ု-ပ-်-တ-ိ-ု-့-ရ-ပ-်-တ-ည-်ရ
+ာ ဦ-း-ခ-ေ-ါ-င-်-း-ရ-ပ-်-
+
+Underfull \hbox (badness 2662) in paragraph at lines 329--330
+\TU/NotoSansMyanmar(0)/m/it/10 တ-ည-်-န-ိ-ု-င-်-စ-ေ-သေ
+ာ မဟ-ာ-မ-င-်-း-တ-ိ-ု-့အ-ာ-း-လ-ု-ံ-း-က-
+ိ-ု-လ-ည်း ကျ-ေ-း-ဇ-ူ-း-
+[11
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+] (./2burmese41.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[]\TU/NotoSerif(0)/m/n/9 An-swers re-search jour-nal, 2008--present.
+
+Underfull \hbox (badness 5908) in paragraph at lines 92--96
+[]\TU/NotoSerif(0)/m/n/9 GetY-our-Guide.  Canyon-ing in grand canyon.
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--96
+[]$\TU/pcr/m/n/9 https://www.getyourguide.com/grand-[]canyon-[]l489/
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--115
+\TU/NotoSerif(0)/m/n/9 science-forum/mystery-mammoth-and-
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--122
+[]\TU/NotoSerif(0)/m/n/9 Junho.  Ecdo kmls.  []$\TU/pcr/m/n/9 https://github.co
+m/
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--122
+\TU/pcr/m/n/9 sovrynn/ecdo/tree/master/5-[]TOOLS-[]DEV/dev/
+
+Underfull \hbox (badness 2205) in paragraph at lines 124--129
+[]\TU/NotoSerif(0)/m/n/9 Junho.  Mega-current rip-ples.  []$\TU/pcr/m/n/9 https
+://github.
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--129
+\TU/pcr/m/n/9 com/sovrynn/ecdo/tree/master/1-[]EVIDENCE/
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--129
+\TU/pcr/m/n/9 physical-[]material/water-[]flow-[]structures/
+
+Underfull \hbox (badness 1189) in paragraph at lines 131--134
+[]\TU/NotoSerif(0)/m/n/9 Junho.  Ecdo github re-search repos-i-tory, 2024.
+
+Underfull \hbox (badness 1831) in paragraph at lines 141--146
+[]\TU/NotoSerif(0)/m/n/9 E. Larsen, S. Gul-lik-sen, S.-E. Lau-ritzen, R. Lie,
+
+Underfull \hbox (badness 2865) in paragraph at lines 148--154
+\TU/NotoSerif(0)/m/n/9 son, M. Fin-layson, T. Gum-bricht, L. Hi-lar-ides,
+
+Underfull \hbox (badness 1472) in paragraph at lines 162--166
+[]\TU/NotoSerif(0)/m/n/9 M. J. Magee, M. L. Way-man, and N. C. Lovell.
+
+Underfull \hbox (badness 1215) in paragraph at lines 174--178
+[]\TU/NotoSerif(0)/m/n/9 Na-tional Park Ser-vice.  Ge-ol-ogy - death val-ley
+
+Underfull \hbox (badness 1436) in paragraph at lines 174--178
+\TU/NotoSerif(0)/m/n/9 na-tional park.  []$\TU/pcr/m/n/9 https://www.nps.gov/de
+va/learn/
+
+Underfull \hbox (badness 2111) in paragraph at lines 180--184
+\TU/NotoSerif(0)/m/n/9 na-tional park.  []$\TU/pcr/m/n/9 https://www.nps.gov/gr
+ca/learn/
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--210
+\TU/pcr/m/n/9 2017/05/gli-[]archi-[]di-[]san-[]ciro-[]e-[]i-[]giganti-[]di.html
+$[]\TU/NotoSerif(0)/m/n/9 ,
+
+Underfull \hbox (badness 2469) in paragraph at lines 203--210
+\TU/NotoSerif(0)/m/n/9 May 2017.  An-no-tazioni di Rosanna Pel-ler-ito.
+
+Underfull \hbox (badness 3690) in paragraph at lines 203--210
+\TU/NotoSerif(0)/m/n/9 Traduzione di Mariella Fer-raro. Blog di Piero
+[12]
+Underfull \hbox (badness 1048) in paragraph at lines 246--250
+[]\TU/NotoSerif(0)/m/n/9 M. H. Schweitzer, J. L. Wittmeyer, J. R. Horner,
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
+[]\TU/NotoSerif(0)/m/n/9 T. E. Skep-tic.  Mas-ter exother-mic core-
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
+\TU/NotoSerif(0)/m/n/9 mantle de-cou-pling – dzhanibekov os-cil-la-tion
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
+\TU/NotoSerif(0)/m/n/9 (ecdo) the-ory, 2024.  https://theeth-i-calskep-
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
+\TU/NotoSerif(0)/m/n/9 tic.com/2024/05/23/master-exothermic-core-
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
+\TU/NotoSerif(0)/m/n/9 mantle-decoupling-dzhanibekov-oscillation-
+
+Underfull \hbox (badness 4846) in paragraph at lines 269--272
+\TU/NotoSerif(0)/m/n/9 canyon, ari-zona.  \TU/NotoSerif(0)/m/it/9 An-swers Re-s
+earch Jour-nal\TU/NotoSerif(0)/m/n/9 ,
+
+Underfull \hbox (badness 2626) in paragraph at lines 289--293
+[]\TU/NotoSerif(0)/m/n/9 M. Staub-wasser and H. Weiss.  Holocene cli-
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--293
+\TU/NotoSerif(0)/m/n/9 mate and cul-tural evo-lu-tion in late pre-his-
+
+Underfull \hbox (badness 1721) in paragraph at lines 289--293
+\TU/NotoSerif(0)/m/n/9 toric–early his-toric west asia.  \TU/NotoSerif(0)/m/i
+t/9 Qua-ter-nary Re-
+
+Underfull \hbox (badness 4967) in paragraph at lines 335--338
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia.  Great pyra-mid of giza.  []$\TU/pcr/m/n/9 
+https:
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--338
+\TU/pcr/m/n/9 //en.wikipedia.org/wiki/Great_Pyramid_of_Giza#
+
+Underfull \hbox (badness 4981) in paragraph at lines 340--343
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia con-trib-u-tors.  Ex-tinc-tion event ---
+
+Underfull \hbox (badness 2393) in paragraph at lines 345--348
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia con-trib-u-tors.  4.2-kiloyear event ---
+
+Underfull \hbox (badness 2393) in paragraph at lines 350--353
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia con-trib-u-tors.  8.2-kiloyear event ---
+
+Underfull \hbox (badness 4479) in paragraph at lines 361--364
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia con-trib-u-tors.  Dol-men de Soto ---
+
+Underfull \hbox (badness 1221) in paragraph at lines 371--374
+\TU/NotoSerif(0)/m/n/9 Free En-cy-clo-pe-dia, 2025.  [On-line; ac-cessed 9-
+
+Underfull \hbox (badness 1496) in paragraph at lines 381--385
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia con-trib-u-tors.  New-grange -- Buri-als.
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--385
+[]$\TU/pcr/m/n/9 https://en.wikipedia.org/wiki/Newgrange#Burials$[]\TU/NotoSeri
+f(0)/m/n/9 ,
+
+Underfull \hbox (badness 1953) in paragraph at lines 394--399
+\TU/NotoSerif(0)/m/n/9 tural hitch-hik-ing and com-pe-ti-tion be-tween pa-
+) [13] (./2burmese41.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+)
+(see the transcript file for additional information)
+ 608 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 29 attribute, 54 glue_spe
+c, 16 attribute_list, 1 write, 8 pdf_action nodes
+   avail lists: 1:1,2:11351,3:680,4:152,5:332,6:73,7:12833,8:115,9:576,10:54,11
+:4612
+</usr/share/fonts/truetype/noto/NotoSerif-Italic.ttf></usr/share/texmf/fonts/op
+entype/public/lm/lmroman9-regular.otf></usr/share/fonts/truetype/noto/NotoSansM
+yanmar-Regular.ttf></usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf></usr/
+share/fonts/truetype/noto/NotoSansMyanmar-Bold.ttf></usr/share/fonts/truetype/n
+oto/NotoSerif-Bold.ttf>
+Output written on 2burmese41.pdf (13 pages, 3146802 bytes).
+Transcript written on 2burmese41.log.
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+The top-level auxiliary file: 2burmese41.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "15" isn't style-file defined
+--line 120 of file egbib.bib
+Warning--entry type for "42" isn't style-file defined
+--line 357 of file egbib.bib
+Warning--to sort, need author or key in 42
+Warning--to sort, need author or key in 88
+Warning--to sort, need author, editor, or key in 103
+Warning--empty author and editor in 103
+Warning--empty author in 88
+Warning--empty booktitle in 54
+(There were 8 warnings)
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian) 
+ restricted system commands enabled.
+(./2burmese41.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/my/babel-burmese.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+Package babel Info: The current font is not a babel standard family:
+(babel)             NotoSerif:mode=node;script=latn;language=dflt;+tlig;family=
+rm;
+(babel)             There is nothing intrinsically wrong with this warning, and
+
+(babel)             you can ignore it altogether if you do not need these
+(babel)             families. But if they are used in the document, you should 
+be
+(babel)             aware 'babel' will not set Script and Language for them, so
+
+(babel)             you may consider defining a new family with \babelfont.
+(babel)             See the manual for further details about \babelfont.
+(babel)             Reported on input line 68.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 68.
+
+(./2burmese41.aux
+
+LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+
+Package babel Info: The following font families will use the default
+(babel)             settings for all or some languages:
+(babel)             * \sffamily = phv
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             * \ttfamily = pcr
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             There is nothing intrinsically wrong with it, but
+(babel)             'babel' will no set Script and Language, which could
+(babel)             be relevant in some languages. If your document uses
+(babel)             these families, consider redefining them with \babelfont.
+(babel)             Reported on input line 3.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/NotoSansMyanmar(0)/m/it' undefined
+(Font)              using `TU/NotoSansMyanmar(0)/m/n' instead on input line 83.
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \hbox (badness 1755) in paragraph at lines 92--93
+[]\TU/NotoSansMyanmar(0)/m/n/10 ခေ-တ-်-သ-စ-်-တ-ေ-ာ-င-်-
+တ-က-်-ဘ-ေ-ာင် သီအ-ိ-ု-ရ-ီ-န-ှ-င့် သ
+မ-ိ-ု-င-်-း-စ-ာ-တ-
+
+Underfull \hbox (badness 3229) in paragraph at lines 92--93
+\TU/NotoSansMyanmar(0)/m/n/10 မ-်-း-မ-ျ-ာ-းအရ \TU/NotoSerif(0
+)/m/n/10 Grand Canyon \TU/NotoSansMyanmar(0)/m/n/10 ကဲ-့-သ-ိ-ု-့-
+သော ဦး-တ-ည-်-သ-ည့်
+
+Underfull \hbox (badness 3547) in paragraph at lines 92--93
+\TU/NotoSansMyanmar(0)/m/n/10 ြ-င-့-်-စ-ွ-ာ-ဖ-ွ-ဲ-့-တ-
+စ-်-န-ည-်-း-တ-စ-်-ထား ဖြ-စ-်-ပ-ေ-ါ-်-
+လ-ာ-သ-ည-်-ဟ-ု-ဆ-ိ-ု-က-ြ-သည်
+
+Underfull \hbox (badness 1097) in paragraph at lines 92--93
+\TU/NotoSansMyanmar(0)/m/n/10 က-ြ-ီ-း-မ-ျား တည-်-ဆ-ေ-
+ာ-က-်-ရန် ခေ-တ-်-စ-ာအ-ုပ်၏အာ-း-လ-ု-
+ံ-း-က-ိ-ု-သ-ု-ံ-း-
+
+Underfull \hbox (badness 1895) in paragraph at lines 94--95
+[]\TU/NotoSansMyanmar(0)/m/n/10 ထိ-ု-က-ဲ-့-သ-ို့ ထူ-
+း-ခ-ြ-ာ-း-သ-ေ-ာအ-ခ-ျ-က-်-မ-ျ-ာ-း-သည် 
+ပျ-က-်-စ-ီ-း-က-ြ-မ-်-း-
+
+Underfull \hbox (badness 2302) in paragraph at lines 96--96
+\TU/NotoSansMyanmar(0)/b/n/12 သော မမ-်-မ-ု-တ-်-မ-ျာ
+း အမ-ွ-ေအ-န-ှ-စ-်-တ-ည-်-န-ေရာ၌
+
+Underfull \vbox (badness 10000) has occurred while \output is active [1{/var/li
+b/texmf/fonts/map/pdftex/updmap/pdftex.map}
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+]
+Underfull \hbox (badness 1888) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 ာ-း-သော မမ-်-မ-ာ-့-န-
+ွ-ာ-း-မ-ျ-ာ-း-ဖ-ြ-စ-်-ပ-ြီး \TU/NotoSerif(0)/m/n/
+10 Arc-tic \TU/NotoSansMyanmar(0)/m/it/10 ဒေ-သ-မ-ျ-ာ-း-တ-ွ
+င် ရှ-ာ-
+
+Underfull \hbox (badness 2310) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 ဖ-ွ-ေ-တ-ွ-ေ-့-ရ-ှ-ိ-န-ိ-
+ု-င-်-သည် \TU/NotoSerif(0)/m/n/10 (\TU/NotoSansMyanmar(0)/m/it/10 
+ပုံ []\TU/NotoSerif(0)/m/n/10 1[])\TU/NotoSansMyanmar(0)/m/it/10 ။ \TU/
+NotoSerif(0)/m/n/10 Beresovka \TU/NotoSansMyanmar(0)/m/it/10 မမ-်-မ-
+ာ-့-သည် စိ-ု-င-်-
+
+Underfull \hbox (badness 1571) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 ြ-င-့-်-သ-ေ-ာ-်-လ-ည်း 
+၎င်း၏သာ-း-လ-ည်း အစ-ာ-းအ-သ-ေ-ာ-က-်
+အ-ဖ-ြစ်
+
+Underfull \hbox (badness 1221) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 လ-ုံး ရှ-ာ-ဖ-ွ-ေ-တ-ွ-
+ေ-့-ရ-ှ-ိ-မ-ည-်-ဖ-ြ-စ-်-ပ-ြီး ၎င်-း-
+သည် မျ-ေ-ာ-သ-မ-ျ-ှ-ပ-င-်-တ-စ-်-
+
+Underfull \hbox (badness 3229) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 ထ-ုအ-န-ိ-မ-့-်-သ-ည့် 
+သာ-းအ-မ-ျ-ိ-ု-းအ-စ-ာ-းအထိ\TU/NotoSerif(0)/m/it/
+10 ) \TU/NotoSansMyanmar(0)/m/it/10 ချ-က-်-ခ-ြ-င-်-း-သ-တ-
+္-တ-ု-
+
+Underfull \vbox (badness 2035) has occurred while \output is active
+Underfull \hbox (badness 1946) in paragraph at lines 113--114
+[]\TU/NotoSerif(0)/m/n/10 Grand Canyon \TU/NotoSansMyanmar(0)/m/it/10 သည
+် မြ-ေ-ာ-က-်အ-မ-ေ-ရိက၏ တေ-ာ-င-်-
+
+Underfull \hbox (badness 1571) in paragraph at lines 113--114
+\TU/NotoSansMyanmar(0)/m/it/10 ည-ာ-ဘက်၊ \TU/NotoSerif(0)/m/n/10 Gre
+at Basin \TU/NotoSansMyanmar(0)/m/it/10 ၏တစ-်-စ-ိ-တ-်-တ-စ-
+်-ပ-ိ-ု-င-်-းအ-ပ-ါအ-ဝင်
+
+Underfull \hbox (badness 1014) in paragraph at lines 113--114
+\TU/NotoSansMyanmar(0)/m/it/10 ယ-ျ-မ-ြ-ေ-ဆ-ီ-လ-ွ-ှ-ာ-န-
+ှ-င့် သဲ-လ-ွှာ၊ နှ-င့် ကျ-ေ-ာ-က-်-
+သ-ာ-း-လ-ွ-ှ-ာ-မ-ျ-ာ-း-သည်
+
+Underfull \hbox (badness 1184) in paragraph at lines 136--137
+\TU/NotoSansMyanmar(0)/m/it/10 ဤက-ျ-ယ-်-ပ-ြ-န-့-်-သ-ဲ-
+သ-ေ-ာ-င-်-တ-န-်-းအ-လ-ွ-ှ-ာ-မ-ျား တည-
+်-န-ေ-ထ-ိ-ု-င-်-သ-ည-်-
+[2
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+cript=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./jarkov-mammoth.jpg>]
+Underfull \hbox (badness 2538) in paragraph at lines 150--151
+\TU/NotoSerif(0)/m/n/10 orado \TU/NotoSansMyanmar(0)/m/it/10 မြ-စ်က 
+နှ-စ-်-န-ဲ-့-န-ှ-စ-်-ပ-ေ-ါ-င-်-း-မ-ျ-ာ-
+း-စွာ ပွ-တ-်-တ-ိ-ု-က-်-မ-ှ-ု-ဖ-ြ-င့် 
+ဖြ-
+
+Underfull \hbox (badness 2409) in paragraph at lines 150--151
+\TU/NotoSansMyanmar(0)/m/it/10 တ-်-တ-ေ-ာ-က-်-ဖ-န-်-တ-ီ-
+း-သ-ည-်ဟု ဆိ-ု-သည် \TU/NotoSerif(0)/m/n/10 [[]]\TU/Noto
+SansMyanmar(0)/m/it/10 ။ သိ-ု-့-သ-ော် \TU/NotoSerif(0)/m/n/10
+ An-
+
+Underfull \hbox (badness 2662) in paragraph at lines 150--151
+\TU/NotoSansMyanmar(0)/m/it/10 အလ-ွ-န-်အ-မ-င်း ဖယ-်-
+ရ-ှ-ာ-း-ခ-ဲ-့-သည်။ \TU/NotoSerif(0)/m/n/10 Grand Canyon \
+TU/NotoSansMyanmar(0)/m/it/10 အရ-ှ-ေ-့-
+
+Underfull \hbox (badness 5681) in paragraph at lines 150--151
+\TU/NotoSansMyanmar(0)/m/it/10 ဘ-က-်-ရှိ မြ-င-့-်-မ-
+ာ-း-သ-ေ-ာ-က-ိ-န်း \TU/NotoSerif(0)/m/n/10 lake \TU/NotoSans
+Myanmar(0)/m/it/10 တွင် သဲ-န-ှ-င-့-်အ-ထ-ည-်အ-
+
+Underfull \hbox (badness 3668) in paragraph at lines 152--153
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဓာ-တ-ု-ဗ-ေ-ဒ-လ-ု-ပ-်-
+င-န-်-း-မ-ျား၏ အတ-ိ-ု-င-်-းအ-တ-ာ-က-ြ-
+ီ-း-သည် မျ-
+
+Underfull \hbox (badness 6412) in paragraph at lines 152--153
+\TU/NotoSansMyanmar(0)/m/it/10 ြ-ည-်-း-ဖ-ြ-ည-်-း-ဖ-ြ-စ-
+်-လ-ာ-ခ-ဲ-့-ပ-ြ-ီ-လ-ာ-း-ဆ-ိ-ု-သ-ည-်-မှ
+ာ သတ-ိ-ထ-ာ-း-စ-ရ-ာ-မ-ျား
+[3
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./grand-canyon.jpg><./coconino.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+[]\TU/NotoSansMyanmar(0)/m/it/10 ပ\TU/NotoSerif(0)/m/n/10 YR-\TU/NotoSansMyan
+mar(0)/m/it/10 မ-စ-်-မ-ျ-ာ-းအ-ပ-ြင်၊ နေ-ာ-က-
+်-ထပ် တစ-်-ခ-ု-ထ-ူ-း-ခ-ြ-ာ-း-သ-ည့်
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+\TU/NotoSansMyanmar(0)/m/it/10 ခေ-တ-်အ-ဟ-ေ-ာ-င်း အင-
+်-ဂ-ျ-င-်-န-ီ-ယ-ာ-လ-ု-ပ-်-င-န-်-း-တ-စ-
+်-ခ-ု-မှာ \TU/NotoSerif(0)/m/n/10 ค󰀀า󰀀-
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+\TU/NotoSansMyanmar(0)/m/it/10 ပ-ဒ-ိ-ု-စ-ီ-း-ယား၊ တူ-
+ရ-က-ီ-ရှိ \TU/NotoSerif(0)/m/n/10 De-rinkuyu \TU/NotoSansMyanmar(0)
+/m/it/10 မြ-ေအ-ေ-ာ-က-်-မ-ြ-ိ-ု-့-က-ြီး
+
+Underfull \hbox (badness 2126) in paragraph at lines 156--158
+\TU/NotoSerif(0)/m/n/10 (\TU/NotoSansMyanmar(0)/m/it/10 ပုံ []\TU/NotoSer
+if(0)/m/n/10 5[]) \TU/NotoSansMyanmar(0)/m/it/10 ဖြ-စ-်-သည်။ 
+၎င်-း-သည် ထိ-ု-ဒ-ေ-သ-ရှိ မြ-ေအ-ေ-ာ-
+က်အ။
+
+Underfull \hbox (badness 2564) in paragraph at lines 156--158
+\TU/NotoSansMyanmar(0)/m/it/10 ားအ-ပါး \TU/NotoSerif(0)/m/n/10 shel
+-ter \TU/NotoSansMyanmar(0)/m/it/10 ၂၀၀ ကျ-ေ-ာ-်အ-ာ-း-
+လ-ု-ံ-း-တ-ွင် အက-ြ-ီ-း-ဆ-ု-ံ-း-ဖ-ြ-
+
+Underfull \hbox (badness 2088) in paragraph at lines 156--158
+\TU/NotoSansMyanmar(0)/m/it/10 စ-်-သည် \TU/NotoSerif(0)/m/n/10 [[]]\T
+U/NotoSansMyanmar(0)/m/it/10 ။ မြ-ေအ-ေ-ာ-က-်-မ-ြ-ိ-ု-
+့-က-ြ-ီ-း-သည် လူ ၂၀\TU/NotoSerif(0)/m/n/10 ,\TU/NotoSan
+sMyanmar(0)/m/it/10 ၀၀၀ ထိ
+
+Underfull \hbox (badness 1320) in paragraph at lines 169--170
+\TU/NotoSansMyanmar(0)/m/it/10 ြ-ေ-ာ-င-်းက မည-်-သ-ည့
+် အသ-ိ-ု-င-်-းအ-ဝ-ိ-ု-င-်းက မည-်-သ-ည-
+့-်အ-က-ြ-ေ-ာ-
+
+Underfull \vbox (badness 3838) has occurred while \output is active [4
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+Missing character: There is no ค (U+0E04) in font NotoSerif:mode=node;script=
+latn;language=dflt;+tlig;family=rm;!
+Missing character: There is no า (U+0E32) in font NotoSerif:mode=node;script=
+latn;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./Grand_Staircase-big.jpg><./derinkuyu.jpeg>]
+Underfull \hbox (badness 1107) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 တ-ွင် သာ-း-သ-တ-်-တ-ိ-
+ရ-စ-္-ဆ-ာန်၊ ငှ-က-်-န-ှ-င့် ငလ-ျ-င-
+်-မ-ျား၏ အရ-ိုး
+
+Underfull \hbox (badness 1540) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 ာ-း-သ-ေ-ာ-တ-ိ-ရ-စ-္-ဆ-ာ-
+န-်-တ-ူ-ရ-ာ-သ-ဲ-လ-ွ-ှ-ာ-မ-ျ-ာ-း-ထ-ဲ-သ-
+ို့ ထည-့-်-သ-ွ-င-်-း-ခ-ြ-င်း၊
+
+Underfull \hbox (badness 1292) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 င-်-သ-ည-်-ကို မလ-ွ-ယ-
+်-က-ူ-သ-ေ-ာ-်-လ-ည်း ရှ-င-်-း-ပ-ြ-န-ိ-
+ု-င-်-သည်။ အီ-ဂ-ျ-စ-်-
+[5
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+Missing character: There is no و (U+0648) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ض (U+0636) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ع (U+0639) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ی (U+06CC) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ت (U+062A) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+cript=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./derinkuyu-air.jpg>]
+Underfull \hbox (badness 4582) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 မ-ဟ-ုတ် တစ-်-ခ-ု-ပ-ေ-
+ါ-င-်-း-ပ-ါ-တဲ့ အလ-ေ-ာ-င-်-း-သ-ိ-ု-လ-
+ှ-ေ-ာ-င-်-ခ-န-်-း-မ-ျ-ာ-း-ပ-
+
+Underfull \hbox (badness 2409) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 ါ-ဝ-င-်-သည်။ ထိ-ု-သ-လ-
+ေ-ာက် အက-ြ-ီ-း-စ-ာ-း-က-ျ-ေ-ာ-က-်-တ-ု-
+ံ-း-မ-ျ-ာ-း-ဖ-ြ-င-့-်-
+
+Underfull \hbox (badness 1033) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 ဖ-န-်-တ-ီ-း-ထ-ာ-း-သ-ည့
+် တိ-ု-တ-ေ-ာ-င-်-း-သော ဝင-်-ပ-ေ-ါ-က-
+်-လ-မ-်-း-က-ြ-ေ-ာ-င-်-
+
+Underfull \hbox (badness 4634) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 း-တ-စ-်-ခ-ု-ရ-ှ-ိ-သည် \T
+U/NotoSerif(0)/m/n/10 [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။ ၎င်-း-သ
+ည် စီ-း-က-ွ-င-်-း-စ-ဉ-်-ဆ-က-်-ဖ-ြ-စ-်-
+စ-ေ-
+
+Underfull \hbox (badness 2698) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 ရ-န-်အ-တ-ွက် မျ-ိ-ု-း-
+ဆ-က-်-မ-ျ-ာ-း-စွာ ချ-ိ-တ-်-ဆ-က-်-တ-ည-
+်-ဆ-ေ-ာ-က-်-ထ-ာ-
+
+Underfull \hbox (badness 2277) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 း-ရ-သော ကာ-က-ွ-ယ-်-ရ-
+ေ-းအ-ဆ-ေ-ာ-က-်အအ-ု-ံအ-က-ြ-ီ-း-စ-ာ-း-
+တ-စ-်-ခ-ု-ကို
+
+Underfull \hbox (badness 1337) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 က-်-မ-ှ-ု-တ-ွင် အလ-ွ-
+န-်-က-ြ-ီ-း-မ-ာ-း-သ-ည့် ကြ-ိ-ု-း-စ-ာ-
+းအ-ာ-း-ထ-ု-တ-်-မ-ှ-ု-မ-ျ-ာ-း-ကို
+
+Underfull \hbox (badness 1577) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 တွ-ေ-့-ရ-ှ-ိ-န-ိ-ု-င-်-
+သည် \TU/NotoSerif(0)/m/n/10 - New-grange \TU/NotoSansMyanmar(0)/m/it/10 
+တွင် တန-်-ခ-ျ-ိန် ၂၀၀\TU/NotoSerif(0)/m/n/10 ,\TU
+/NotoSansMyanmar(0)/m/it/10 ၀၀၀
+
+Underfull \hbox (badness 1389) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 ရ-ေ-ာ-က-်-န-ိ-ု-င-်-သည
+်။ ထိ-ု-လ-မ-်-း-က-ြ-ေ-ာ-င-်-း-သည် မီ
+တာ ၁၉ \TU/NotoSerif(0)/m/it/10 (\TU/NotoSansMyanmar(0)/m/it/10 အပ-
+
+Underfull \hbox (badness 2980) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 းရာ၌ မျ-က-်-န-ှ-ာ-က-ျ-
+က-်-က-ျ-ယ-်-သော အလ-ယ-်-စ-င-်-ခ-န-်-း
+မှ အပ-ေ-
+
+Underfull \hbox (badness 7273) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 ါ-်-သ-ိ-ု-့-ပထမ ဆည-်-
+ခ-ေ-ါ-င-်-ခ-န-်-း-သ-ု-ံ-း-ခ-န-်-း-ခ-ွ-
+ဲ-ရ-ှ-ိ-ပ-ြီး၊ အထ-က-်-က-ာ-ပ-ူ-ဖ-ု-ံ-
+
+Underfull \hbox (badness 1442) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 က-်-န-ှ-ာ-ထ-ပ-်အ-ပ-ေ-ါ-
+်-တ-ွင် \TU/NotoSerif(0)/m/it/10 “\TU/NotoSansMyanmar(0)/m/it/10 
+အထ-ပ-်-တ-စ-်-ထပ်၏ အထ-ဲ-ဆ-ွ-ဲဟာ မီ-
+
+Underfull \hbox (badness 2521) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 နှ-စ-်-မှာ ခရ-စ-်-တ-ေ-
+ာ-်-မ-ပ-ေ-ါ-်မီ ၂၅၀၀ ခု-န-ှ-စ-်-ကိ
+ု ဦး-တ-ည-်-သည်\TU/NotoSerif(0)/m/it/10 ”
+
+Underfull \vbox (badness 10000) has occurred while \output is active [6
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./muck-crop.jpeg><./ww19.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+[]\TU/NotoSansMyanmar(0)/m/it/10 အတ-ွ-င-်-း-တ-ွင် လူ
+အ-လ-ေ-ာ-င-်-းအ-ရ-ု-ပ-်-မ-ျား မတ-ွ-ေ-
+့-ရ-ခ-ြ-င-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 း-သ-ည-်-လ-ည်း ထူ-း-ဆ-
+န-်-း-စရာ အခ-ျ-က-်-တ-စ-်-ခ-ု-ဖ-ြ-စ-်-
+သည်။
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 တူ-း-ဖ-ေ-ာ-်-မ-ှ-ု-မ-ျ-
+ာ-းအ-တ-ွ-င်း မီ-း-လ-ေ-ာ-င-်-သ-ည့်၊ 
+မလ-ေ-ာ-င-်-သ-ည့်
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 အရ-ိ-ု-းအ-ု-ပ-်-စ-ု-သ-
+ေ-း-သ-မ-ာ-း-မ-ျ-ာ-း-န-ှ-င-့-်-လ-ူအ-န-ည-
+်-း-ငယ် ၏ အရ-ိ-ု-
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 းအ-ု-ပ-်-စ-ု-မ-ျား ချ-
+စ-်-စ-ေ-့-ခ-ျ-စ-်-စေ့ သံ-စ-ေ-့-ပ-ေါ်
+၌ ဖြ-န-့-်-ခ-ျ-ထ-ာ-း-ရန်
+
+Underfull \hbox (badness 2027) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 တွ-ေ-့-ရ-ှ-ိ-ခ-ဲ-့-သည
+်။ \TU/NotoSerif(0)/m/n/10 New-grange \TU/NotoSansMyanmar(0)/m/it/10 ၏ 
+ဆေ-ာ-က-်-လ-ု-ပ-်-မ-ှ-ုအ-ခ-ျ-ိ-န-်-ကိ
+ု
+
+Underfull \hbox (badness 7649) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 နန-်-း-ျ-ဖဴအ-ု-ပ-်-စ-
+ု-ခ-ျ-င်း သာ-ေ-သ-ာ-က-ြ-ီ-း-မား၍ အတ-
+ုအ-ယ-ေ-ာ-င-်-မ-ရှိ
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 အထ-ူ-း-စ-ီ-မ-ံ-က-ျ-ဆ-င
+်း၍ ဆေ-ာ-က-်-လ-ု-ပ-်-ထ-ာ-း-သ-ည့် သု-
+သ-ာ-န-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 က-ြ-ီ-း-တ-စ-်-ခ-ု-သ-ို
+့ လူ-န-ည-်-း-ငယ်၏ အရ-ိ-ု-းအ-ု-ပ-်-စ-
+ုအ-ာ-း-လ-ု-ံ-း-က-ိ-ုသာ
+
+Underfull \hbox (badness 4792) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 လမ-်-း-က-ြ-ေ-ာ-င-်-း-တ-
+ွင် ဖြ-န-့-်-ခ-ျ-ခ-ြ-င-်-းအား ထိ-ု-
+ဟ-ု-ဆ-ေ-ာ-က-်-လ-ု-ပ-်-က-ြ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 ပြ-ု-လ-ု-ပ-်-ထ-ာ-း-သေ
+ာ မေ-ဂ-ါ-လ-စ-်-သ-ံ-တ-ု-ဆ-ေ-ာ-က-်-လ-ု-ပ-
+်-မ-ှ-ု-က-ြ-ီ-း-မ-ျ-
+
+Underfull \hbox (badness 7595) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 ာ-း-သည် မြ-ေ-က-ြီး၏ 
+ထပ-်-ပ-ြ-န-်-ဖ-ြ-စ-်-သော သဘ-ာ-ဝအ-န-္-
+တ-ရ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 ာ-ယ-်-မ-ျ-ာ-း-က-ာ-က-ွ-ယ-
+်-ရန် လူ-သ-ာ-း-မ-ျား နေ-ထ-ိ-ု-င-်-ရ-
+ာအ-ိ-မ-်အ-ဖ-ြစ်
+
+Underfull \hbox (badness 3713) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 ဆေ-ာ-က-်-လ-ု-ပ-်-ခ-ဲ-့-
+က-ြ-သ-ည-်ဟု သက-်-သ-ာ-လ-ွ-ယ-်-က-ူ-စွာ 
+ယူ-ဆ-န-ိ-ု-င-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဤအ-ခ-န-်-း-တ-ွင်၊ ထ
+ူ-း-ခ-ြ-ာ-း-ဖ-ွယ် အဖ-ြ-စ-်အ-ပ-ျ-က-်-
+မ-ျ-ာ-း-
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+\TU/NotoSansMyanmar(0)/m/it/10 ထ-ပ-်မံ၍ တင-်-ပ-ြ-မ-ည-
+်-ဖ-ြ-စ-်-ပ-ြီး၊ အာ-း-လ-ု-ံ-း-သည် \TU/N
+otoSerif(0)/m/n/10 ECDO-
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+\TU/NotoSansMyanmar(0)/m/it/10 သဘာဝပေါက်ကွဲဖြစ
+်စဉ်တစ်ခုဖြင့် ကေ-ာ-င-်-း-စွာ 
+ရှ-င-်-း-ပ-ြ-
+
+Underfull \hbox (badness 2790) in paragraph at lines 252--253
+[]\TU/NotoSansMyanmar(0)/m/it/10 သိ-သ-ိ-သ-ာသာ ကြ-ေ-ာ-
+င-ျ-း-က-ြ-ေ-ာ-င-ျ-း-ရ-ှ-ိ-သော ဇီ-ဝ-လ-
+က-္-ခ-ဏ-
+
+Underfull \hbox (badness 7116) in paragraph at lines 252--253
+\TU/NotoSansMyanmar(0)/m/it/10 ာ-ဆ-ိ-ု-း-ဝ-ါ-း-မ-ျ-ာ-း-
+ထ-ဲ-တ-ွင် ဂျ-င-်-န-က-္-တစ် \TU/NotoSerif(0)/m/n
+/10 bot-tle-necks \TU/NotoSansMyanmar(0)/m/it/10 မျ-ာ-း-န-ှ-င့
+်
+
+Underfull \hbox (badness 1264) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 ျ-ာ-းအ-န-ေ-န-ှ-င့် အက-
+ေ-ာ-င-်-း-ဆ-ု-ံ-း-လ-ေ-့-လ-ာ-ခ-ဲ-့-သ-ည-
+်-မ-ျ-ာ-း-မှာ \TU/NotoSerif(0)/m/n/10 ”\TU/NotoSansMyanmar(0)
+/m/it/10 အက-ြ-ီ-း-
+
+Underfull \hbox (badness 1515) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 ျ-ေ-ာ-က-်-မ-ှ-ု-က-ြ-ီ-း-
+မ-ျ-ာ-းအ-န-က-်-တ-ခ-ျ-ိ-ု-့-သည် \TU/NotoSerif(
+0)/m/n/10 Grand Canyon \TU/NotoSansMyanmar(0)/m/it/10 တွ-င-်-
+
+Underfull \hbox (badness 1490) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 တ-ွ-ေ-့-ရ-ှ-ိ-န-ိ-ု-င-်-
+သ-ည့် ကျ-ေ-ာ-က-်-တ-န-်-းအ-ခ-ျ-ိ-ု-့-
+ဖ-ြ-စ-်-သ-ည့် \TU/NotoSerif(0)/m/n/10 Per-mian \TU/NotoSansMyan
+mar(0)/m/it/10 နှ-
+
+Underfull \hbox (badness 3229) in paragraph at lines 268--269
+[]\TU/NotoSerif(0)/m/n/10 Grand Canyon \TU/NotoSansMyanmar(0)/m/it/10 ကိ
+ု မဖ-ွ-ဲ-့-စ-ည-်-း-ခ-ဲ-့-သ-ေ-ာ-်-လ-ည်
+း၊ မတ-ည-်-
+
+Underfull \hbox (badness 4765) in paragraph at lines 268--269
+\TU/NotoSansMyanmar(0)/m/it/10 ရ-ှ-ိ-တ-ဲ-့အ-ခ-ြ-ာ-း-သ
+ော သိ-သ-ာ-ထ-င-်-ရ-ှ-ာ-း-သော မြ-ေ-ပ-ြ-
+င-်-ပ-ု-ံ-စ-ံ-မ-ျ-ာ-း-သ-
+
+Underfull \hbox (badness 1320) in paragraph at lines 268--269
+\TU/NotoSansMyanmar(0)/m/it/10 ည-်-လ-ည်း တရ-ာ-း-ဝ-င-
+်-ပ-ါ-ဝ-င-်-သော မတ-ည-်-့-တ-ည-်-း-သ-ည
+့် အက-
+
+Underfull \hbox (badness 6910) in paragraph at lines 268--269
+\TU/NotoSansMyanmar(0)/m/it/10 ြ-မ-်-း-ခ-ံ-စ-ွ-မ-်-းအ-
+င-်-က-ြ-ေ-ာ-င့် ဖြ-စ-်-ပ-ေ-ါ-်-လ-ာ-ခ-
+ဲ-့-သ-ည-်ဟု ယု-ံ-က-ြ-ည-်-မ-ှ-ု-ရ-ှ-ိ-
+[7
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./dolmen.jpg>]
+Underfull \hbox (badness 1292) in paragraph at lines 275--275
+[]\TU/NotoSerif(0)/m/n/9 Fig-ure 12. []\TU/NotoSansMyanmar(0)/m/n/9 တော
+င်တန့်တိုင်ကျောက်တိုင်ကြီး
+များကို တေ-ာ-င-်-တ-
+
+Underfull \hbox (badness 1354) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 န-်-း-တ-ေ-ာ-င-်-တ-န်း၊ 
+တေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာအ-ရ
+ပ်၊ တေ-ာ-င-်-တ-ေ-ာ-င-်-
+
+Underfull \hbox (badness 1701) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 တ-ေ-ာ-င-်-တ-ေ-ာအ-ရပ်၊ 
+တေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာအ-ရ
+ပ်၊ တေ-ာ-င-်-တ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ
+အ-ရပ်၊ တေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-
+တ-ေ-ာအ-ရပ်၊ တေ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-
+်-တ-ေ-ာအ-ရပ်၊ တေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-
+ာ-င-်-တ-ေ-ာအ-ရပ်၊
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 တေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-
+ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-
+ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-
+ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-
+ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-
+ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-
+ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-
+
+Underfull \vbox (badness 4765) has occurred while \output is active
+Underfull \hbox (badness 3713) in paragraph at lines 291--292
+[]\TU/NotoSansMyanmar(0)/m/it/10 မြ-ေ-တ-ွ-င-်-း-င-ယ-်-
+ယ-င-်-း-ဖ-ျ-က-်-စ-ီ-း-မှု အခ-ြ-ေ-ဆ-ေ-
+ာင် အဆ-ေ-ာ-က-
+
+Underfull \hbox (badness 1102) in paragraph at lines 291--292
+\TU/NotoSansMyanmar(0)/m/it/10 ်အအ-ု-ံ-မ-ျ-ာ-း-သည် \TU/
+NotoSerif(0)/m/n/10 ECDO- \TU/NotoSansMyanmar(0)/m/it/10 နည-်-း-လ-
+မ-်-း-န-ှ-င့် သက-်-တ-မ-်-း-တ-က-်-မ-ြ-
+
+Underfull \hbox (badness 1142) in paragraph at lines 291--292
+\TU/NotoSansMyanmar(0)/m/it/10 ေ-က-မ-္-ဘ-ာ-လ-ှ-ည့် ပ
+ြ-ေ-ာ-င-်-း-လ-ဲ-မ-ှ-ု-ဖ-ြ-င-့-်-လ-ည်း 
+ကေ-ာ-င-်-း-စွာ ရှ-င-်-း-ပ-ြ-
+
+Underfull \hbox (badness 1242) in paragraph at lines 291--292
+\TU/NotoSansMyanmar(0)/m/it/10 န-ိ-ု-င-်-သည်။ တရ-ု-တ-
+်-တ-ေ-ာ-င-်-ပ-ိ-ု-င-်-း-သည် ရေအ-သ-ွ-
+ယ-်-ဖ-ြ-င့် ပေ-ါ-်-ပ-
+
+Underfull \hbox (badness 1371) in paragraph at lines 291--292
+\TU/NotoSansMyanmar(0)/m/it/10 ွင် အထ-ူ-း-ထ-င-်-ရ-ှ-
+ာ-း-သ-ည့် ဥပ-မ-ာအ-နက် တစ-်-ခ-ု-မှာ 
+\TU/NotoSerif(0)/m/n/10 Zhangji-
+
+Underfull \hbox (badness 4156) in paragraph at lines 291--292
+\TU/NotoSerif(0)/m/n/10 a-jie \TU/NotoSansMyanmar(0)/m/it/10 အမ-ျ-ိ-
+ု-း-သ-ာ-း-သ-စ-်-တော အု-ပ-်-ခ-ျ-ု-ပ-်-
+မ-ှ-ု-န-ေ-ရ-ာ-ဖ-ြ-စ-်-ပ-ြီး၊ ဦး-တ-
+
+Underfull \hbox (badness 2020) in paragraph at lines 291--292
+\TU/NotoSansMyanmar(0)/m/it/10 ြ-င-့-်-သည် \TU/NotoSerif(0)/m/n/1
+0 [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။ ဤက-ျ-ေ-ာ-က-်-တ-ိ-
+ု-င-်-မ-ျ-ာ-း-သည် ပင-်-လ-ယ-်-ရ-ေ-ခ-ြ-
+[8
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./bottleneck.jpg><./columbia.jpg><./zhangjiajie.jpg>]
+Underfull \hbox (badness 3471) in paragraph at lines 295--296
+[]\TU/NotoSansMyanmar(0)/m/it/10 ခေ-တ-်-သစ် သိ-ပ-္-ပ-
+ံ-စ-ာ-တ-မ-်-း-မ-ျ-ာ-း-တ-ွင် မြ-ေ-က-ြ-
+ီ-း-သ-မ-ိ-ု-င-်-း-န-ေ-ာ-
+
+Underfull \hbox (badness 1163) in paragraph at lines 295--296
+\TU/NotoSansMyanmar(0)/m/it/10 င-်-ထ-ု-မ-ျား၊ ကျ-ေ-ာ-
+က-်-မ-ီ-း-ခ-ိ-ု-း-ဓ-ာ-တ-်-သ-မ-ိ-ု-င-်-
+းအ-က-ြ-ေ-ာ-င-်-းအ-ရ-ာ-မ-ျား၊
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 သင-်-္-ဂ-ြ-ိ-ု-ဟ-်-ခ-ြ-
+င-်-း-န-ှ-င့် ဖျ-က-်-သ-ိ-မ-်-း-ခ-ြ-င-
+်-း-ပ-ါ-ဝ-င-်-မ-ှ-ု-မ-ျား တွ-ေ-့-ရ-ပ-
+ြီး၊
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 မှ-တ-်-တ-မ-်-း-တ-င-်-ထ-
+ာ-း-သည်။ ဤန-ယ-်-မ-ြ-ေ-တ-ွင် ပထ-မဦ-
+း-ဆ-ု-ံ-း-
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 ဖ-ြ-စ-်သူ တစ-်ဦ-း-မှ
+ာ ယေ-ရ-ီ-ခ-ိ-ု-မ-ြ-ိ-ု-့-ဟ-ေ-ာ-င-်-း-ဖ-
+ြ-စ-်-ပ-ြီး၊ ယန-ေ-့-ပ-လ-
+
+Underfull \hbox (badness 6268) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 က-်-စ-တ-ိ-ု-င-်-း-တ-ွင
+် တည-်-ရ-ှ-ိ-သည်။ ဤမ-ြ-ိ-ု-့-တ-ွင် 
+အဖ-ွ-ဲ-့-လ-ိ-ု-က-်-ဖ-ျ-က-်-
+
+Underfull \hbox (badness 4699) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 သ-ိ-မ-်-း-ခ-ြ-င-်-းအ-လ-
+ွ-ှ-ာ-မ-ျ-ာ-း-ရ-ှ-ိ-ပ-ြီး၊ ကျ-ေ-ာ-က-
+်-တ-ည-်-ဆ-ေ-ာ-က-်-ပုံ သစ-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 ပ-ျ-က-်-ဆ-ီ-း-မ-ှ-ု-န-ှ-
+င့် မီ-း-လ-ေ-ာ-င-်-သ-ည-့-်-သ-က-်-သ-ေ-
+မ-ျ-ာ-း-ပ-ါ-ဝ-င-်-သည်
+
+Underfull \hbox (badness 6188) in paragraph at lines 299--300
+\TU/NotoSerif(0)/m/n/10 [[], []]\TU/NotoSansMyanmar(0)/m/it/10 ။ ၎င်
+း၏အလ-ွ-ှ-ာ-မ-ျ-ာ-း-တ-ွင် မှ-တ-်-တ-မ-
+်-း-တ-င-်-ထ-ာ-း-သ-
+
+Underfull \hbox (badness 1609) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 ေ-ာ-က-ာ-လ-သည် စု-စ-ု-
+ပ-ေ-ါ-င်း \TU/NotoSerif(0)/m/n/10 BCE \TU/NotoSansMyanmar(0)/m/it/1
+0 ၉\TU/NotoSerif(0)/m/n/10 ,\TU/NotoSansMyanmar(0)/m/it/10 ၀၀၀ မှ \
+TU/NotoSerif(0)/m/n/10 BCE \TU/NotoSansMyanmar(0)/m/it/10 ၂\TU/NotoSerif(0)/m
+/n/10 ,\TU/NotoSansMyanmar(0)/m/it/10 ၀၀၀
+
+Underfull \hbox (badness 1292) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 သဲ-မ-ြ-ေ-တ-ွင် သျ-ှ-ံ-
+့-သ-ိ-မ-်-း-ခ-ဲ-့-သ-ည-်-ကို တွ-ေ-့-ရ-
+သည် \TU/NotoSerif(0)/m/n/10 (\TU/NotoSansMyanmar(0)/m/it/10 ပုံ []\
+TU/NotoSerif(0)/m/n/10 14[]) [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။
+
+Underfull \hbox (badness 1824) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 သ-က-်-သ-ေ-ခ-ံ-န-ိ-ု-င-်-
+သ-ည့် ဖျ-က-်-ဆ-ီ-း-မ-ှ-ုအ-လ-ွ-ှ-ာအ-မ-
+ျ-ိ-ု-း-မ-ျ-ိ-ု-း-ပ-ါ-ဝ-င-်-သ-ည့်
+
+Underfull \hbox (badness 3049) in paragraph at lines 312--313
+[]\TU/NotoSansMyanmar(0)/m/it/10 လူ-့အ-ဖ-ွ-ဲ-့အ-စ-ည-်-
+း-ဆ-ိ-ု-း-ရ-ွ-ာ-း-စ-ွ-ာ-ဖ-ျ-က-်-ဆ-ီ-း-
+သ-ွ-ာ-း-သ-ည့် သက-်-သ-ေ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ထ-ေ-ာ-က-်-ခ-ံ-ခ-ျ-က-်-တ-
+စ-်-ခ-ု-မှာ နန-်-ပ-ါ-ပ-ံ-ု-တ-ူ-ပ-န-်-
+း-တ-လ-င-်-း-ဖ-ြ-စ-်-သည်။
+
+Underfull \hbox (badness 2302) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ရ-ှ-ိရာ မီ-း-တ-ေ-ာ-င-
+်-ခ-ြ-ေ-ာ-က-်-က-ျ-သည် နေ-ာ-က-်-ဆ-ု-ံ-
+း-တ-တ-ိ-ယ-ခ-ေတ်
+
+Underfull \hbox (badness 3189) in paragraph at lines 312--313
+\TU/NotoSerif(0)/m/n/10 (Early Qua-ter-nary) \TU/NotoSansMyanmar(0)/m/it/10 
+တွင် တင-်-ပ-ွ-ဲ-တ-င-်-က-ြ-ေ-ာ-င်း ခ
+န-့-်-မ-ှ-န-်-း-
+
+Underfull \hbox (badness 2753) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ေ-ာ-င-်-ခ-ြ-ေ-ာ-က-်-က-ျ-
+ဟ-ု-ဆ-ိ-ု-သ-ေ-ာ-်-လ-ည်း၊ ဒေ-သ-တ-ွင် 
+ယခ-ု-လ-က-်-ရှိ
+
+Underfull \hbox (badness 2913) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ဖ-ြ-စ-်-မ-ျ-ာ-း-သည် လ
+ူ-့အ-ဖ-ွ-ဲ-့အ-စ-ည-်-း-က-ိ-ု-ဖ-ျ-က-်-ဆ-
+ီ-း-န-ိ-ု-င-်-သော သဘ-ာ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ဝ-သ-ဘ-ာ-ဝ-ဘ-ေ-းအ-န-္-တ-
+ရ-ာ-ယ-်-က-ြ-ီ-း-က-ြ-ပ-်-မ-ှ-ု-က-ိ-ု-ပ-
+ြ-သ-သ-ည-်-့အ-ပ-ြင်
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ယန-ေ-့-ခ-ေတ် အသ-က-်-သ-
+က-်-တ-မ-်-း-ခ-န-့-်-မ-ှ-န-်-း-ပ-ု-ံ-စ-
+ံ-မ-ျ-ာ-း-က-ိ-ု-လ-ည်း
+
+Underfull \vbox (badness 1097) has occurred while \output is active [9
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./hoy.jpg>]
+Underfull \hbox (badness 3449) in paragraph at lines 316--317
+\TU/NotoSansMyanmar(0)/m/it/10 ခန-့-်-မ-ှ-န-်-း-တ-တ-်-
+ပ-ါ-သည်။ ထိ-ုအ-က-ြ-ေ-ာ-င-်-းအရ သံ-
+သ-ယ-ခ-ျ-ပ-ိ-ု-့-ရန်
+
+Underfull \hbox (badness 2005) in paragraph at lines 318--319
+\TU/NotoSansMyanmar(0)/m/it/10 ကာဗွန်\TU/NotoSerif(0)/m/n/10 -\TU/N
+otoSansMyanmar(0)/m/it/10 ၁၄ ၏ သက-်-တ-မ-်-း-ခ-ွ-ဲအ-
+ခ-ျ-ိ-န-်-မှာ \TU/NotoSerif(0)/m/n/10 (\TU/NotoSansMyanmar(0)/m
+/it/10 ၅\TU/NotoSerif(0)/m/n/10 ,\TU/NotoSansMyanmar(0)/m/it/10 ၇၃၀ 
+နှစ်\TU/NotoSerif(0)/m/n/10 ) \TU/NotoSansMyanmar(0)/m/it/10 သာ-
+
+Underfull \hbox (badness 3209) in paragraph at lines 318--319
+\TU/NotoSansMyanmar(0)/m/it/10 ဖ-ြ-စ-်-သ-ည-်-့အ-တ-ွက
+် သေ-ာ-င-်-း-န-ှ-စ-်-ပ-ေ-ါ-င်း ရာ-န-
+ှ-စ-်-မ-ျ-ာ-းအထိ ပြ-ီ-း-
+
+Underfull \hbox (badness 5008) in paragraph at lines 318--319
+\TU/NotoSansMyanmar(0)/m/it/10 း-သ-ွ-ေ-း-သ-စ-်-လ-ွ-င-်-
+န-ှ-င့် ဇီ-ဝ-ဖ-ိ-ု-း-ပ-ိ-ု-င-်-း-မ-ျ-
+ာ-း-တ-ွ-င-်-ပ-ါ-ရ-ှ-ိ-န-ေ-သ-ည-်-့အ-ခ-ျ-
+က-်-
+
+Underfull \hbox (badness 2418) in paragraph at lines 318--319
+\TU/NotoSansMyanmar(0)/m/it/10 သည် သက-်-တ-မ-်-း-ခ-န-
+့-်-မ-ှ-န-်-း-မ-ှ-ု-စ-န-စ-်-မ-ျ-ာ-းအာ
+း မေ-း-ခ-ွ-န-်-း-ထ-ု-တ-်-စ-ေ-
+
+Underfull \hbox (badness 1137) in paragraph at lines 320--321
+[]\TU/NotoSansMyanmar(0)/m/it/10 ကာဗွန်\TU/NotoSerif(0)/m/n/10 -\TU
+/NotoSansMyanmar(0)/m/it/10 ၁၄ သက-်-တ-မ-်-း-ခ-န-့-်-
+မ-ှ-န-်-း-ခ-ြ-င-်-းအ-ပ-ြင် အခ-ြား ရ
+ေ-ဒ-ီ-
+
+Underfull \hbox (badness 1521) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 း-မ-ျ-ာ-း-လ-ည်း မှ-န-
+်-က-န-်-မ-ှ-ု-မ-ရ-ှ-ိ-န-ိ-ု-င-်-သည်။ \T
+U/NotoSerif(0)/m/n/10 An-swers in Gen-e-
+
+Underfull \hbox (badness 5985) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 ည့် အသ-က-်-ခ-န-့-်-မ-
+ှ-န-်-း-မ-ှ-ု-က-ိ-န-်-း-ဂ-ဏ-န-်-း-မ-ျ-
+ာ-း-တ-ွင် တစ-်-သ-က-်-တ-စ-်-
+
+Underfull \hbox (badness 7397) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 သ-က-်-ပ-ြဿ-န-ာ-မ-ျ-ာ-း-
+ရ-ှ-ိ-က-ြ-ေ-ာ-င်း တွ-ေ-့-ရ-ှ-ိ-ခ-ဲ-့-
+သည် \TU/NotoSerif(0)/m/n/10 [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။ သ
+န-်-း-
+
+Underfull \hbox (badness 3449) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 ွင် သွ-ေ-း-က-ေ-ာ-လဟ်
+၊ သွ-ေ-း-က-ြော၊ ကိ-ု-လ-လ-ဂ-ျ-င-်-ပ-ါ-
+ဝ-င-်-သော
+
+Underfull \hbox (badness 3724) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 သ-ိ-ု-့-လ-ေ-့-လ-ာ-ခ-ျ-က-
+်-မ-ျ-ာ-းအရ၊ ကမ-္-ဘ-ာ-့-ဂ\TU/NotoSerif(0)/m/n/10 
+ე󰀀ო󰀀-\TU/NotoSansMyanmar(0)/m/it/10 လ-ိ-ု-ဂ-ျ-ီ-ရ-ု-
+ပ-်-ပ-ြ-ဇ-ယ-ာ-း-န-ှ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဤစ-ာ-တ-မ-်-း-တ-ွင်၊ 
+သဘ-ာ-ဝ-ဘ-ေ-းအ-န-္-တ-ရ-ာ-ယ-်-က-ြ-ီ-း-က-
+ြ-ပ-်-မ-ှ-ု-
+
+Underfull \hbox (badness 6110) in paragraph at lines 324--325
+\TU/NotoSansMyanmar(0)/m/it/10 န-က-်-မှာ အက-ြ-ေ-ာ-င-
+်-းအ-မ-ျ-ာ-း-ဆ-ု-ံ-း-န-ှ-င့် ထင-်-ရ-
+ှ-ာ-း-သ-မျှ အယ-ူအ-
+
+Underfull \hbox (badness 1424) in paragraph at lines 324--325
+\TU/NotoSansMyanmar(0)/m/it/10 ဆ-မ-ျ-ာ-း-ကို တင-်-ပ-
+ြ-ခ-ဲ-့-ပ-ါ-သည်။ မျ-ိ-ု-း-စ-ု-ံ-သော 
+သက-်-သ-ေ-မ-ျ-ာ-း-ကို
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+\TU/NotoSansMyanmar(0)/m/it/10 တင-်-ပ-ြ-ထ-ာ-း-သ-ေ-ာ-်-
+လ-ည်း၊ ဤစ-ာ-တ-မ-်-း-တ-ွင် ဖေ-ာ-်-ပ-
+ြ-ထ-ာ-း-သ-
+
+Underfull \hbox (badness 7047) in paragraph at lines 324--325
+\TU/NotoSerif(0)/m/n/10 repos-i-tory \TU/NotoSansMyanmar(0)/m/it/10 တွင
+် သက-်-သ-ေ-မ-ျ-ာ-း-စ-ု-စ-ည-်-း-တ-င-်-ထ-
+ာ-း-ပ-ါ-သည်
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+[]\TU/NotoSerif(0)/m/n/10 ECDO \TU/NotoSansMyanmar(0)/m/it/10 သီအ-ိ-
+ုရီ၏မူ-ရ-င-်-း-စ-ာ-တ-မ-်-း-စ-ာ-ရ-ေ-း
+သူ \TU/NotoSerif(0)/m/n/10 Eth-i-cal
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+\TU/NotoSansMyanmar(0)/m/it/10 လေ-ာ-က-ျ-ီ-စ-ွ-ာ-က-မ-္-
+ဘ-ာ-သ-ိ-ု-့-မ-ျ-ှ-ဝ-ေ-ခ-ဲ-့-တ-ဲ-့-သ-ူအ-
+ဖ-ြစ် ကျ-ေ-း-ဇ-ူ-း-တ-င-်-ပ-
+
+Underfull \hbox (badness 1325) in paragraph at lines 327--328
+\TU/NotoSansMyanmar(0)/m/it/10 ါ-တယ်။ သူ၏ သု-ံ-း-ပ-
+ိ-ု-င-်-း-သ-ီအ-ိ-ုရီ \TU/NotoSerif(0)/m/n/10 [[]] \TU/N
+otoSansMyanmar(0)/m/it/10 သည် \TU/NotoSerif(0)/m/n/10 Exother-mic
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+\TU/NotoSerif(0)/m/n/10 (ECDO) \TU/NotoSansMyanmar(0)/m/it/10 သီအ-ိ-
+ု-ရ-ီအ-တ-ွက် အာ-ဏ-ာ-တ-ည-်-သော လက-်-
+စ-ွ-ဲ-စ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+\TU/NotoSansMyanmar(0)/m/it/10 ာအ-ု-ပ-်-ဖ-ြ-စ-်-ပ-ြီ
+း ဒီ-မ-ှ-ာအ-က-ျ-ဉ-်-း-ခ-ျ-ု-ပ-်-ထ-ာ-း-
+သ-ေ-ာအ-ထ-က-်မက
+[10
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+cript=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+Missing character: There is no ე (U+10D4) in font NotoSerif:mode=node;script=
+latn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ო (U+10DD) in font NotoSerif:mode=node;script=
+latn;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./jericho.jpg>]
+Underfull \hbox (badness 1577) in paragraph at lines 329--330
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဒါ-တ-င-်-မ-ကဘဲ ယန-ေ-
+့-က-ျ-ွ-န-်-ု-ပ-်-တ-ိ-ု-့-ရ-ပ-်-တ-ည-်ရ
+ာ ဦ-း-ခ-ေ-ါ-င-်-း-ရ-ပ-်-
+
+Underfull \hbox (badness 2662) in paragraph at lines 329--330
+\TU/NotoSansMyanmar(0)/m/it/10 တ-ည-်-န-ိ-ု-င-်-စ-ေ-သေ
+ာ မဟ-ာ-မ-င-်-း-တ-ိ-ု-့အ-ာ-း-လ-ု-ံ-း-က-
+ိ-ု-လ-ည်း ကျ-ေ-း-ဇ-ူ-း-
+[11
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+] (./2burmese41.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[]\TU/NotoSerif(0)/m/n/9 An-swers re-search jour-nal, 2008--present.
+
+Underfull \hbox (badness 5908) in paragraph at lines 92--96
+[]\TU/NotoSerif(0)/m/n/9 GetY-our-Guide.  Canyon-ing in grand canyon.
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--96
+[]$\TU/pcr/m/n/9 https://www.getyourguide.com/grand-[]canyon-[]l489/
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--115
+\TU/NotoSerif(0)/m/n/9 science-forum/mystery-mammoth-and-
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--122
+[]\TU/NotoSerif(0)/m/n/9 Junho.  Ecdo kmls.  []$\TU/pcr/m/n/9 https://github.co
+m/
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--122
+\TU/pcr/m/n/9 sovrynn/ecdo/tree/master/5-[]TOOLS-[]DEV/dev/
+
+Underfull \hbox (badness 2205) in paragraph at lines 124--129
+[]\TU/NotoSerif(0)/m/n/9 Junho.  Mega-current rip-ples.  []$\TU/pcr/m/n/9 https
+://github.
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--129
+\TU/pcr/m/n/9 com/sovrynn/ecdo/tree/master/1-[]EVIDENCE/
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--129
+\TU/pcr/m/n/9 physical-[]material/water-[]flow-[]structures/
+
+Underfull \hbox (badness 1189) in paragraph at lines 131--134
+[]\TU/NotoSerif(0)/m/n/9 Junho.  Ecdo github re-search repos-i-tory, 2024.
+
+Underfull \hbox (badness 1831) in paragraph at lines 141--146
+[]\TU/NotoSerif(0)/m/n/9 E. Larsen, S. Gul-lik-sen, S.-E. Lau-ritzen, R. Lie,
+
+Underfull \hbox (badness 2865) in paragraph at lines 148--154
+\TU/NotoSerif(0)/m/n/9 son, M. Fin-layson, T. Gum-bricht, L. Hi-lar-ides,
+
+Underfull \hbox (badness 1472) in paragraph at lines 162--166
+[]\TU/NotoSerif(0)/m/n/9 M. J. Magee, M. L. Way-man, and N. C. Lovell.
+
+Underfull \hbox (badness 1215) in paragraph at lines 174--178
+[]\TU/NotoSerif(0)/m/n/9 Na-tional Park Ser-vice.  Ge-ol-ogy - death val-ley
+
+Underfull \hbox (badness 1436) in paragraph at lines 174--178
+\TU/NotoSerif(0)/m/n/9 na-tional park.  []$\TU/pcr/m/n/9 https://www.nps.gov/de
+va/learn/
+
+Underfull \hbox (badness 2111) in paragraph at lines 180--184
+\TU/NotoSerif(0)/m/n/9 na-tional park.  []$\TU/pcr/m/n/9 https://www.nps.gov/gr
+ca/learn/
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--210
+\TU/pcr/m/n/9 2017/05/gli-[]archi-[]di-[]san-[]ciro-[]e-[]i-[]giganti-[]di.html
+$[]\TU/NotoSerif(0)/m/n/9 ,
+
+Underfull \hbox (badness 2469) in paragraph at lines 203--210
+\TU/NotoSerif(0)/m/n/9 May 2017.  An-no-tazioni di Rosanna Pel-ler-ito.
+
+Underfull \hbox (badness 3690) in paragraph at lines 203--210
+\TU/NotoSerif(0)/m/n/9 Traduzione di Mariella Fer-raro. Blog di Piero
+[12]
+Underfull \hbox (badness 1048) in paragraph at lines 246--250
+[]\TU/NotoSerif(0)/m/n/9 M. H. Schweitzer, J. L. Wittmeyer, J. R. Horner,
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
+[]\TU/NotoSerif(0)/m/n/9 T. E. Skep-tic.  Mas-ter exother-mic core-
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
+\TU/NotoSerif(0)/m/n/9 mantle de-cou-pling – dzhanibekov os-cil-la-tion
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
+\TU/NotoSerif(0)/m/n/9 (ecdo) the-ory, 2024.  https://theeth-i-calskep-
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
+\TU/NotoSerif(0)/m/n/9 tic.com/2024/05/23/master-exothermic-core-
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
+\TU/NotoSerif(0)/m/n/9 mantle-decoupling-dzhanibekov-oscillation-
+
+Underfull \hbox (badness 4846) in paragraph at lines 269--272
+\TU/NotoSerif(0)/m/n/9 canyon, ari-zona.  \TU/NotoSerif(0)/m/it/9 An-swers Re-s
+earch Jour-nal\TU/NotoSerif(0)/m/n/9 ,
+
+Underfull \hbox (badness 2626) in paragraph at lines 289--293
+[]\TU/NotoSerif(0)/m/n/9 M. Staub-wasser and H. Weiss.  Holocene cli-
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--293
+\TU/NotoSerif(0)/m/n/9 mate and cul-tural evo-lu-tion in late pre-his-
+
+Underfull \hbox (badness 1721) in paragraph at lines 289--293
+\TU/NotoSerif(0)/m/n/9 toric–early his-toric west asia.  \TU/NotoSerif(0)/m/i
+t/9 Qua-ter-nary Re-
+
+Underfull \hbox (badness 4967) in paragraph at lines 335--338
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia.  Great pyra-mid of giza.  []$\TU/pcr/m/n/9 
+https:
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--338
+\TU/pcr/m/n/9 //en.wikipedia.org/wiki/Great_Pyramid_of_Giza#
+
+Underfull \hbox (badness 4981) in paragraph at lines 340--343
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia con-trib-u-tors.  Ex-tinc-tion event ---
+
+Underfull \hbox (badness 2393) in paragraph at lines 345--348
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia con-trib-u-tors.  4.2-kiloyear event ---
+
+Underfull \hbox (badness 2393) in paragraph at lines 350--353
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia con-trib-u-tors.  8.2-kiloyear event ---
+
+Underfull \hbox (badness 4479) in paragraph at lines 361--364
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia con-trib-u-tors.  Dol-men de Soto ---
+
+Underfull \hbox (badness 1221) in paragraph at lines 371--374
+\TU/NotoSerif(0)/m/n/9 Free En-cy-clo-pe-dia, 2025.  [On-line; ac-cessed 9-
+
+Underfull \hbox (badness 1496) in paragraph at lines 381--385
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia con-trib-u-tors.  New-grange -- Buri-als.
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--385
+[]$\TU/pcr/m/n/9 https://en.wikipedia.org/wiki/Newgrange#Burials$[]\TU/NotoSeri
+f(0)/m/n/9 ,
+
+Underfull \hbox (badness 1953) in paragraph at lines 394--399
+\TU/NotoSerif(0)/m/n/9 tural hitch-hik-ing and com-pe-ti-tion be-tween pa-
+) [13] (./2burmese41.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+)
+(see the transcript file for additional information)
+ 608 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 29 attribute, 54 glue_spe
+c, 16 attribute_list, 1 write, 8 pdf_action nodes
+   avail lists: 1:1,2:11351,3:680,4:152,5:332,6:73,7:12833,8:115,9:576,10:54,11
+:4612
+</usr/share/fonts/truetype/noto/NotoSerif-Italic.ttf></usr/share/texmf/fonts/op
+entype/public/lm/lmroman9-regular.otf></usr/share/fonts/truetype/noto/NotoSansM
+yanmar-Regular.ttf></usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf></usr/
+share/fonts/truetype/noto/NotoSansMyanmar-Bold.ttf></usr/share/fonts/truetype/n
+oto/NotoSerif-Bold.ttf>
+Output written on 2burmese41.pdf (13 pages, 3146802 bytes).
+Transcript written on 2burmese41.log.
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian) 
+ restricted system commands enabled.
+(./2burmese41.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/my/babel-burmese.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+Package babel Info: The current font is not a babel standard family:
+(babel)             NotoSerif:mode=node;script=latn;language=dflt;+tlig;family=
+rm;
+(babel)             There is nothing intrinsically wrong with this warning, and
+
+(babel)             you can ignore it altogether if you do not need these
+(babel)             families. But if they are used in the document, you should 
+be
+(babel)             aware 'babel' will not set Script and Language for them, so
+
+(babel)             you may consider defining a new family with \babelfont.
+(babel)             See the manual for further details about \babelfont.
+(babel)             Reported on input line 68.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 68.
+
+(./2burmese41.aux
+
+LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+
+Package babel Info: The following font families will use the default
+(babel)             settings for all or some languages:
+(babel)             * \sffamily = phv
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             * \ttfamily = pcr
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             There is nothing intrinsically wrong with it, but
+(babel)             'babel' will no set Script and Language, which could
+(babel)             be relevant in some languages. If your document uses
+(babel)             these families, consider redefining them with \babelfont.
+(babel)             Reported on input line 3.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/NotoSansMyanmar(0)/m/it' undefined
+(Font)              using `TU/NotoSansMyanmar(0)/m/n' instead on input line 83.
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \hbox (badness 1755) in paragraph at lines 92--93
+[]\TU/NotoSansMyanmar(0)/m/n/10 ခေ-တ-်-သ-စ-်-တ-ေ-ာ-င-်-
+တ-က-်-ဘ-ေ-ာင် သီအ-ိ-ု-ရ-ီ-န-ှ-င့် သ
+မ-ိ-ု-င-်-း-စ-ာ-တ-
+
+Underfull \hbox (badness 3229) in paragraph at lines 92--93
+\TU/NotoSansMyanmar(0)/m/n/10 မ-်-း-မ-ျ-ာ-းအရ \TU/NotoSerif(0
+)/m/n/10 Grand Canyon \TU/NotoSansMyanmar(0)/m/n/10 ကဲ-့-သ-ိ-ု-့-
+သော ဦး-တ-ည-်-သ-ည့်
+
+Underfull \hbox (badness 3547) in paragraph at lines 92--93
+\TU/NotoSansMyanmar(0)/m/n/10 ြ-င-့-်-စ-ွ-ာ-ဖ-ွ-ဲ-့-တ-
+စ-်-န-ည-်-း-တ-စ-်-ထား ဖြ-စ-်-ပ-ေ-ါ-်-
+လ-ာ-သ-ည-်-ဟ-ု-ဆ-ိ-ု-က-ြ-သည်
+
+Underfull \hbox (badness 1097) in paragraph at lines 92--93
+\TU/NotoSansMyanmar(0)/m/n/10 က-ြ-ီ-း-မ-ျား တည-်-ဆ-ေ-
+ာ-က-်-ရန် ခေ-တ-်-စ-ာအ-ုပ်၏အာ-း-လ-ု-
+ံ-း-က-ိ-ု-သ-ု-ံ-း-
+
+Underfull \hbox (badness 1895) in paragraph at lines 94--95
+[]\TU/NotoSansMyanmar(0)/m/n/10 ထိ-ု-က-ဲ-့-သ-ို့ ထူ-
+း-ခ-ြ-ာ-း-သ-ေ-ာအ-ခ-ျ-က-်-မ-ျ-ာ-း-သည် 
+ပျ-က-်-စ-ီ-း-က-ြ-မ-်-း-
+
+Underfull \hbox (badness 2302) in paragraph at lines 96--96
+\TU/NotoSansMyanmar(0)/b/n/12 သော မမ-်-မ-ု-တ-်-မ-ျာ
+း အမ-ွ-ေအ-န-ှ-စ-်-တ-ည-်-န-ေရာ၌
+
+Underfull \vbox (badness 10000) has occurred while \output is active [1{/var/li
+b/texmf/fonts/map/pdftex/updmap/pdftex.map}
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+]
+Underfull \hbox (badness 1888) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 ာ-း-သော မမ-်-မ-ာ-့-န-
+ွ-ာ-း-မ-ျ-ာ-း-ဖ-ြ-စ-်-ပ-ြီး \TU/NotoSerif(0)/m/n/
+10 Arc-tic \TU/NotoSansMyanmar(0)/m/it/10 ဒေ-သ-မ-ျ-ာ-း-တ-ွ
+င် ရှ-ာ-
+
+Underfull \hbox (badness 2310) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 ဖ-ွ-ေ-တ-ွ-ေ-့-ရ-ှ-ိ-န-ိ-
+ု-င-်-သည် \TU/NotoSerif(0)/m/n/10 (\TU/NotoSansMyanmar(0)/m/it/10 
+ပုံ []\TU/NotoSerif(0)/m/n/10 1[])\TU/NotoSansMyanmar(0)/m/it/10 ။ \TU/
+NotoSerif(0)/m/n/10 Beresovka \TU/NotoSansMyanmar(0)/m/it/10 မမ-်-မ-
+ာ-့-သည် စိ-ု-င-်-
+
+Underfull \hbox (badness 1571) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 ြ-င-့-်-သ-ေ-ာ-်-လ-ည်း 
+၎င်း၏သာ-း-လ-ည်း အစ-ာ-းအ-သ-ေ-ာ-က-်
+အ-ဖ-ြစ်
+
+Underfull \hbox (badness 1221) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 လ-ုံး ရှ-ာ-ဖ-ွ-ေ-တ-ွ-
+ေ-့-ရ-ှ-ိ-မ-ည-်-ဖ-ြ-စ-်-ပ-ြီး ၎င်-း-
+သည် မျ-ေ-ာ-သ-မ-ျ-ှ-ပ-င-်-တ-စ-်-
+
+Underfull \hbox (badness 3229) in paragraph at lines 109--110
+\TU/NotoSansMyanmar(0)/m/it/10 ထ-ုအ-န-ိ-မ-့-်-သ-ည့် 
+သာ-းအ-မ-ျ-ိ-ု-းအ-စ-ာ-းအထိ\TU/NotoSerif(0)/m/it/
+10 ) \TU/NotoSansMyanmar(0)/m/it/10 ချ-က-်-ခ-ြ-င-်-း-သ-တ-
+္-တ-ု-
+
+Underfull \vbox (badness 2035) has occurred while \output is active
+Underfull \hbox (badness 1946) in paragraph at lines 113--114
+[]\TU/NotoSerif(0)/m/n/10 Grand Canyon \TU/NotoSansMyanmar(0)/m/it/10 သည
+် မြ-ေ-ာ-က-်အ-မ-ေ-ရိက၏ တေ-ာ-င-်-
+
+Underfull \hbox (badness 1571) in paragraph at lines 113--114
+\TU/NotoSansMyanmar(0)/m/it/10 ည-ာ-ဘက်၊ \TU/NotoSerif(0)/m/n/10 Gre
+at Basin \TU/NotoSansMyanmar(0)/m/it/10 ၏တစ-်-စ-ိ-တ-်-တ-စ-
+်-ပ-ိ-ု-င-်-းအ-ပ-ါအ-ဝင်
+
+Underfull \hbox (badness 1014) in paragraph at lines 113--114
+\TU/NotoSansMyanmar(0)/m/it/10 ယ-ျ-မ-ြ-ေ-ဆ-ီ-လ-ွ-ှ-ာ-န-
+ှ-င့် သဲ-လ-ွှာ၊ နှ-င့် ကျ-ေ-ာ-က-်-
+သ-ာ-း-လ-ွ-ှ-ာ-မ-ျ-ာ-း-သည်
+
+Underfull \hbox (badness 1184) in paragraph at lines 136--137
+\TU/NotoSansMyanmar(0)/m/it/10 ဤက-ျ-ယ-်-ပ-ြ-န-့-်-သ-ဲ-
+သ-ေ-ာ-င-်-တ-န-်-းအ-လ-ွ-ှ-ာ-မ-ျား တည-
+်-န-ေ-ထ-ိ-ု-င-်-သ-ည-်-
+[2
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+cript=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./jarkov-mammoth.jpg>]
+Underfull \hbox (badness 2538) in paragraph at lines 150--151
+\TU/NotoSerif(0)/m/n/10 orado \TU/NotoSansMyanmar(0)/m/it/10 မြ-စ်က 
+နှ-စ-်-န-ဲ-့-န-ှ-စ-်-ပ-ေ-ါ-င-်-း-မ-ျ-ာ-
+း-စွာ ပွ-တ-်-တ-ိ-ု-က-်-မ-ှ-ု-ဖ-ြ-င့် 
+ဖြ-
+
+Underfull \hbox (badness 2409) in paragraph at lines 150--151
+\TU/NotoSansMyanmar(0)/m/it/10 တ-်-တ-ေ-ာ-က-်-ဖ-န-်-တ-ီ-
+း-သ-ည-်ဟု ဆိ-ု-သည် \TU/NotoSerif(0)/m/n/10 [[]]\TU/Noto
+SansMyanmar(0)/m/it/10 ။ သိ-ု-့-သ-ော် \TU/NotoSerif(0)/m/n/10
+ An-
+
+Underfull \hbox (badness 2662) in paragraph at lines 150--151
+\TU/NotoSansMyanmar(0)/m/it/10 အလ-ွ-န-်အ-မ-င်း ဖယ-်-
+ရ-ှ-ာ-း-ခ-ဲ-့-သည်။ \TU/NotoSerif(0)/m/n/10 Grand Canyon \
+TU/NotoSansMyanmar(0)/m/it/10 အရ-ှ-ေ-့-
+
+Underfull \hbox (badness 5681) in paragraph at lines 150--151
+\TU/NotoSansMyanmar(0)/m/it/10 ဘ-က-်-ရှိ မြ-င-့-်-မ-
+ာ-း-သ-ေ-ာ-က-ိ-န်း \TU/NotoSerif(0)/m/n/10 lake \TU/NotoSans
+Myanmar(0)/m/it/10 တွင် သဲ-န-ှ-င-့-်အ-ထ-ည-်အ-
+
+Underfull \hbox (badness 3668) in paragraph at lines 152--153
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဓာ-တ-ု-ဗ-ေ-ဒ-လ-ု-ပ-်-
+င-န-်-း-မ-ျား၏ အတ-ိ-ု-င-်-းအ-တ-ာ-က-ြ-
+ီ-း-သည် မျ-
+
+Underfull \hbox (badness 6412) in paragraph at lines 152--153
+\TU/NotoSansMyanmar(0)/m/it/10 ြ-ည-်-း-ဖ-ြ-ည-်-း-ဖ-ြ-စ-
+်-လ-ာ-ခ-ဲ-့-ပ-ြ-ီ-လ-ာ-း-ဆ-ိ-ု-သ-ည-်-မှ
+ာ သတ-ိ-ထ-ာ-း-စ-ရ-ာ-မ-ျား
+[3
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./grand-canyon.jpg><./coconino.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+[]\TU/NotoSansMyanmar(0)/m/it/10 ပ\TU/NotoSerif(0)/m/n/10 YR-\TU/NotoSansMyan
+mar(0)/m/it/10 မ-စ-်-မ-ျ-ာ-းအ-ပ-ြင်၊ နေ-ာ-က-
+်-ထပ် တစ-်-ခ-ု-ထ-ူ-း-ခ-ြ-ာ-း-သ-ည့်
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+\TU/NotoSansMyanmar(0)/m/it/10 ခေ-တ-်အ-ဟ-ေ-ာ-င်း အင-
+်-ဂ-ျ-င-်-န-ီ-ယ-ာ-လ-ု-ပ-်-င-န-်-း-တ-စ-
+်-ခ-ု-မှာ \TU/NotoSerif(0)/m/n/10 ค󰀀า󰀀-
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+\TU/NotoSansMyanmar(0)/m/it/10 ပ-ဒ-ိ-ု-စ-ီ-း-ယား၊ တူ-
+ရ-က-ီ-ရှိ \TU/NotoSerif(0)/m/n/10 De-rinkuyu \TU/NotoSansMyanmar(0)
+/m/it/10 မြ-ေအ-ေ-ာ-က-်-မ-ြ-ိ-ု-့-က-ြီး
+
+Underfull \hbox (badness 2126) in paragraph at lines 156--158
+\TU/NotoSerif(0)/m/n/10 (\TU/NotoSansMyanmar(0)/m/it/10 ပုံ []\TU/NotoSer
+if(0)/m/n/10 5[]) \TU/NotoSansMyanmar(0)/m/it/10 ဖြ-စ-်-သည်။ 
+၎င်-း-သည် ထိ-ု-ဒ-ေ-သ-ရှိ မြ-ေအ-ေ-ာ-
+က်အ။
+
+Underfull \hbox (badness 2564) in paragraph at lines 156--158
+\TU/NotoSansMyanmar(0)/m/it/10 ားအ-ပါး \TU/NotoSerif(0)/m/n/10 shel
+-ter \TU/NotoSansMyanmar(0)/m/it/10 ၂၀၀ ကျ-ေ-ာ-်အ-ာ-း-
+လ-ု-ံ-း-တ-ွင် အက-ြ-ီ-း-ဆ-ု-ံ-း-ဖ-ြ-
+
+Underfull \hbox (badness 2088) in paragraph at lines 156--158
+\TU/NotoSansMyanmar(0)/m/it/10 စ-်-သည် \TU/NotoSerif(0)/m/n/10 [[]]\T
+U/NotoSansMyanmar(0)/m/it/10 ။ မြ-ေအ-ေ-ာ-က-်-မ-ြ-ိ-ု-
+့-က-ြ-ီ-း-သည် လူ ၂၀\TU/NotoSerif(0)/m/n/10 ,\TU/NotoSan
+sMyanmar(0)/m/it/10 ၀၀၀ ထိ
+
+Underfull \hbox (badness 1320) in paragraph at lines 169--170
+\TU/NotoSansMyanmar(0)/m/it/10 ြ-ေ-ာ-င-်းက မည-်-သ-ည့
+် အသ-ိ-ု-င-်-းအ-ဝ-ိ-ု-င-်းက မည-်-သ-ည-
+့-်အ-က-ြ-ေ-ာ-
+
+Underfull \vbox (badness 3838) has occurred while \output is active [4
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+Missing character: There is no ค (U+0E04) in font NotoSerif:mode=node;script=
+latn;language=dflt;+tlig;family=rm;!
+Missing character: There is no า (U+0E32) in font NotoSerif:mode=node;script=
+latn;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./Grand_Staircase-big.jpg><./derinkuyu.jpeg>]
+Underfull \hbox (badness 1107) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 တ-ွင် သာ-း-သ-တ-်-တ-ိ-
+ရ-စ-္-ဆ-ာန်၊ ငှ-က-်-န-ှ-င့် ငလ-ျ-င-
+်-မ-ျား၏ အရ-ိုး
+
+Underfull \hbox (badness 1540) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 ာ-း-သ-ေ-ာ-တ-ိ-ရ-စ-္-ဆ-ာ-
+န-်-တ-ူ-ရ-ာ-သ-ဲ-လ-ွ-ှ-ာ-မ-ျ-ာ-း-ထ-ဲ-သ-
+ို့ ထည-့-်-သ-ွ-င-်-း-ခ-ြ-င်း၊
+
+Underfull \hbox (badness 1292) in paragraph at lines 192--193
+\TU/NotoSansMyanmar(0)/m/it/10 င-်-သ-ည-်-ကို မလ-ွ-ယ-
+်-က-ူ-သ-ေ-ာ-်-လ-ည်း ရှ-င-်-း-ပ-ြ-န-ိ-
+ု-င-်-သည်။ အီ-ဂ-ျ-စ-်-
+[5
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+Missing character: There is no و (U+0648) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ض (U+0636) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ع (U+0639) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ی (U+06CC) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ت (U+062A) in font NotoSerif:mode=node;script=l
+atn;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+cript=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./derinkuyu-air.jpg>]
+Underfull \hbox (badness 4582) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 မ-ဟ-ုတ် တစ-်-ခ-ု-ပ-ေ-
+ါ-င-်-း-ပ-ါ-တဲ့ အလ-ေ-ာ-င-်-း-သ-ိ-ု-လ-
+ှ-ေ-ာ-င-်-ခ-န-်-း-မ-ျ-ာ-း-ပ-
+
+Underfull \hbox (badness 2409) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 ါ-ဝ-င-်-သည်။ ထိ-ု-သ-လ-
+ေ-ာက် အက-ြ-ီ-း-စ-ာ-း-က-ျ-ေ-ာ-က-်-တ-ု-
+ံ-း-မ-ျ-ာ-း-ဖ-ြ-င-့-်-
+
+Underfull \hbox (badness 1033) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 ဖ-န-်-တ-ီ-း-ထ-ာ-း-သ-ည့
+် တိ-ု-တ-ေ-ာ-င-်-း-သော ဝင-်-ပ-ေ-ါ-က-
+်-လ-မ-်-း-က-ြ-ေ-ာ-င-်-
+
+Underfull \hbox (badness 4634) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 း-တ-စ-်-ခ-ု-ရ-ှ-ိ-သည် \T
+U/NotoSerif(0)/m/n/10 [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။ ၎င်-း-သ
+ည် စီ-း-က-ွ-င-်-း-စ-ဉ-်-ဆ-က-်-ဖ-ြ-စ-်-
+စ-ေ-
+
+Underfull \hbox (badness 2698) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 ရ-န-်အ-တ-ွက် မျ-ိ-ု-း-
+ဆ-က-်-မ-ျ-ာ-း-စွာ ချ-ိ-တ-်-ဆ-က-်-တ-ည-
+်-ဆ-ေ-ာ-က-်-ထ-ာ-
+
+Underfull \hbox (badness 2277) in paragraph at lines 217--218
+\TU/NotoSansMyanmar(0)/m/it/10 း-ရ-သော ကာ-က-ွ-ယ-်-ရ-
+ေ-းအ-ဆ-ေ-ာ-က-်အအ-ု-ံအ-က-ြ-ီ-း-စ-ာ-း-
+တ-စ-်-ခ-ု-ကို
+
+Underfull \hbox (badness 1337) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 က-်-မ-ှ-ု-တ-ွင် အလ-ွ-
+န-်-က-ြ-ီ-း-မ-ာ-း-သ-ည့် ကြ-ိ-ု-း-စ-ာ-
+းအ-ာ-း-ထ-ု-တ-်-မ-ှ-ု-မ-ျ-ာ-း-ကို
+
+Underfull \hbox (badness 1577) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 တွ-ေ-့-ရ-ှ-ိ-န-ိ-ု-င-်-
+သည် \TU/NotoSerif(0)/m/n/10 - New-grange \TU/NotoSansMyanmar(0)/m/it/10 
+တွင် တန-်-ခ-ျ-ိန် ၂၀၀\TU/NotoSerif(0)/m/n/10 ,\TU
+/NotoSansMyanmar(0)/m/it/10 ၀၀၀
+
+Underfull \hbox (badness 1389) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 ရ-ေ-ာ-က-်-န-ိ-ု-င-်-သည
+်။ ထိ-ု-လ-မ-်-း-က-ြ-ေ-ာ-င-်-း-သည် မီ
+တာ ၁၉ \TU/NotoSerif(0)/m/it/10 (\TU/NotoSansMyanmar(0)/m/it/10 အပ-
+
+Underfull \hbox (badness 2980) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 းရာ၌ မျ-က-်-န-ှ-ာ-က-ျ-
+က-်-က-ျ-ယ-်-သော အလ-ယ-်-စ-င-်-ခ-န-်-း
+မှ အပ-ေ-
+
+Underfull \hbox (badness 7273) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 ါ-်-သ-ိ-ု-့-ပထမ ဆည-်-
+ခ-ေ-ါ-င-်-ခ-န-်-း-သ-ု-ံ-း-ခ-န-်-း-ခ-ွ-
+ဲ-ရ-ှ-ိ-ပ-ြီး၊ အထ-က-်-က-ာ-ပ-ူ-ဖ-ု-ံ-
+
+Underfull \hbox (badness 1442) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 က-်-န-ှ-ာ-ထ-ပ-်အ-ပ-ေ-ါ-
+်-တ-ွင် \TU/NotoSerif(0)/m/it/10 “\TU/NotoSansMyanmar(0)/m/it/10 
+အထ-ပ-်-တ-စ-်-ထပ်၏ အထ-ဲ-ဆ-ွ-ဲဟာ မီ-
+
+Underfull \hbox (badness 2521) in paragraph at lines 219--220
+\TU/NotoSansMyanmar(0)/m/it/10 နှ-စ-်-မှာ ခရ-စ-်-တ-ေ-
+ာ-်-မ-ပ-ေ-ါ-်မီ ၂၅၀၀ ခု-န-ှ-စ-်-ကိ
+ု ဦး-တ-ည-်-သည်\TU/NotoSerif(0)/m/it/10 ”
+
+Underfull \vbox (badness 10000) has occurred while \output is active [6
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./muck-crop.jpeg><./ww19.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+[]\TU/NotoSansMyanmar(0)/m/it/10 အတ-ွ-င-်-း-တ-ွင် လူ
+အ-လ-ေ-ာ-င-်-းအ-ရ-ု-ပ-်-မ-ျား မတ-ွ-ေ-
+့-ရ-ခ-ြ-င-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 း-သ-ည-်-လ-ည်း ထူ-း-ဆ-
+န-်-း-စရာ အခ-ျ-က-်-တ-စ-်-ခ-ု-ဖ-ြ-စ-်-
+သည်။
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 တူ-း-ဖ-ေ-ာ-်-မ-ှ-ု-မ-ျ-
+ာ-းအ-တ-ွ-င်း မီ-း-လ-ေ-ာ-င-်-သ-ည့်၊ 
+မလ-ေ-ာ-င-်-သ-ည့်
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 အရ-ိ-ု-းအ-ု-ပ-်-စ-ု-သ-
+ေ-း-သ-မ-ာ-း-မ-ျ-ာ-း-န-ှ-င-့-်-လ-ူအ-န-ည-
+်-း-ငယ် ၏ အရ-ိ-ု-
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 းအ-ု-ပ-်-စ-ု-မ-ျား ချ-
+စ-်-စ-ေ-့-ခ-ျ-စ-်-စေ့ သံ-စ-ေ-့-ပ-ေါ်
+၌ ဖြ-န-့-်-ခ-ျ-ထ-ာ-း-ရန်
+
+Underfull \hbox (badness 2027) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 တွ-ေ-့-ရ-ှ-ိ-ခ-ဲ-့-သည
+်။ \TU/NotoSerif(0)/m/n/10 New-grange \TU/NotoSansMyanmar(0)/m/it/10 ၏ 
+ဆေ-ာ-က-်-လ-ု-ပ-်-မ-ှ-ုအ-ခ-ျ-ိ-န-်-ကိ
+ု
+
+Underfull \hbox (badness 7649) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 နန-်-း-ျ-ဖဴအ-ု-ပ-်-စ-
+ု-ခ-ျ-င်း သာ-ေ-သ-ာ-က-ြ-ီ-း-မား၍ အတ-
+ုအ-ယ-ေ-ာ-င-်-မ-ရှိ
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 အထ-ူ-း-စ-ီ-မ-ံ-က-ျ-ဆ-င
+်း၍ ဆေ-ာ-က-်-လ-ု-ပ-်-ထ-ာ-း-သ-ည့် သု-
+သ-ာ-န-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 က-ြ-ီ-း-တ-စ-်-ခ-ု-သ-ို
+့ လူ-န-ည-်-း-ငယ်၏ အရ-ိ-ု-းအ-ု-ပ-်-စ-
+ုအ-ာ-း-လ-ု-ံ-း-က-ိ-ုသာ
+
+Underfull \hbox (badness 4792) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 လမ-်-း-က-ြ-ေ-ာ-င-်-း-တ-
+ွင် ဖြ-န-့-်-ခ-ျ-ခ-ြ-င-်-းအား ထိ-ု-
+ဟ-ု-ဆ-ေ-ာ-က-်-လ-ု-ပ-်-က-ြ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 ပြ-ု-လ-ု-ပ-်-ထ-ာ-း-သေ
+ာ မေ-ဂ-ါ-လ-စ-်-သ-ံ-တ-ု-ဆ-ေ-ာ-က-်-လ-ု-ပ-
+်-မ-ှ-ု-က-ြ-ီ-း-မ-ျ-
+
+Underfull \hbox (badness 7595) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 ာ-း-သည် မြ-ေ-က-ြီး၏ 
+ထပ-်-ပ-ြ-န-်-ဖ-ြ-စ-်-သော သဘ-ာ-ဝအ-န-္-
+တ-ရ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 ာ-ယ-်-မ-ျ-ာ-း-က-ာ-က-ွ-ယ-
+်-ရန် လူ-သ-ာ-း-မ-ျား နေ-ထ-ိ-ု-င-်-ရ-
+ာအ-ိ-မ-်အ-ဖ-ြစ်
+
+Underfull \hbox (badness 3713) in paragraph at lines 232--233
+\TU/NotoSansMyanmar(0)/m/it/10 ဆေ-ာ-က-်-လ-ု-ပ-်-ခ-ဲ-့-
+က-ြ-သ-ည-်ဟု သက-်-သ-ာ-လ-ွ-ယ-်-က-ူ-စွာ 
+ယူ-ဆ-န-ိ-ု-င-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဤအ-ခ-န-်-း-တ-ွင်၊ ထ
+ူ-း-ခ-ြ-ာ-း-ဖ-ွယ် အဖ-ြ-စ-်အ-ပ-ျ-က-်-
+မ-ျ-ာ-း-
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+\TU/NotoSansMyanmar(0)/m/it/10 ထ-ပ-်မံ၍ တင-်-ပ-ြ-မ-ည-
+်-ဖ-ြ-စ-်-ပ-ြီး၊ အာ-း-လ-ု-ံ-း-သည် \TU/N
+otoSerif(0)/m/n/10 ECDO-
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+\TU/NotoSansMyanmar(0)/m/it/10 သဘာဝပေါက်ကွဲဖြစ
+်စဉ်တစ်ခုဖြင့် ကေ-ာ-င-်-း-စွာ 
+ရှ-င-်-း-ပ-ြ-
+
+Underfull \hbox (badness 2790) in paragraph at lines 252--253
+[]\TU/NotoSansMyanmar(0)/m/it/10 သိ-သ-ိ-သ-ာသာ ကြ-ေ-ာ-
+င-ျ-း-က-ြ-ေ-ာ-င-ျ-း-ရ-ှ-ိ-သော ဇီ-ဝ-လ-
+က-္-ခ-ဏ-
+
+Underfull \hbox (badness 7116) in paragraph at lines 252--253
+\TU/NotoSansMyanmar(0)/m/it/10 ာ-ဆ-ိ-ု-း-ဝ-ါ-း-မ-ျ-ာ-း-
+ထ-ဲ-တ-ွင် ဂျ-င-်-န-က-္-တစ် \TU/NotoSerif(0)/m/n
+/10 bot-tle-necks \TU/NotoSansMyanmar(0)/m/it/10 မျ-ာ-း-န-ှ-င့
+်
+
+Underfull \hbox (badness 1264) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 ျ-ာ-းအ-န-ေ-န-ှ-င့် အက-
+ေ-ာ-င-်-း-ဆ-ု-ံ-း-လ-ေ-့-လ-ာ-ခ-ဲ-့-သ-ည-
+်-မ-ျ-ာ-း-မှာ \TU/NotoSerif(0)/m/n/10 ”\TU/NotoSansMyanmar(0)
+/m/it/10 အက-ြ-ီ-း-
+
+Underfull \hbox (badness 1515) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 ျ-ေ-ာ-က-်-မ-ှ-ု-က-ြ-ီ-း-
+မ-ျ-ာ-းအ-န-က-်-တ-ခ-ျ-ိ-ု-့-သည် \TU/NotoSerif(
+0)/m/n/10 Grand Canyon \TU/NotoSansMyanmar(0)/m/it/10 တွ-င-်-
+
+Underfull \hbox (badness 1490) in paragraph at lines 254--255
+\TU/NotoSansMyanmar(0)/m/it/10 တ-ွ-ေ-့-ရ-ှ-ိ-န-ိ-ု-င-်-
+သ-ည့် ကျ-ေ-ာ-က-်-တ-န-်-းအ-ခ-ျ-ိ-ု-့-
+ဖ-ြ-စ-်-သ-ည့် \TU/NotoSerif(0)/m/n/10 Per-mian \TU/NotoSansMyan
+mar(0)/m/it/10 နှ-
+
+Underfull \hbox (badness 3229) in paragraph at lines 268--269
+[]\TU/NotoSerif(0)/m/n/10 Grand Canyon \TU/NotoSansMyanmar(0)/m/it/10 ကိ
+ု မဖ-ွ-ဲ-့-စ-ည-်-း-ခ-ဲ-့-သ-ေ-ာ-်-လ-ည်
+း၊ မတ-ည-်-
+
+Underfull \hbox (badness 4765) in paragraph at lines 268--269
+\TU/NotoSansMyanmar(0)/m/it/10 ရ-ှ-ိ-တ-ဲ-့အ-ခ-ြ-ာ-း-သ
+ော သိ-သ-ာ-ထ-င-်-ရ-ှ-ာ-း-သော မြ-ေ-ပ-ြ-
+င-်-ပ-ု-ံ-စ-ံ-မ-ျ-ာ-း-သ-
+
+Underfull \hbox (badness 1320) in paragraph at lines 268--269
+\TU/NotoSansMyanmar(0)/m/it/10 ည-်-လ-ည်း တရ-ာ-း-ဝ-င-
+်-ပ-ါ-ဝ-င-်-သော မတ-ည-်-့-တ-ည-်-း-သ-ည
+့် အက-
+
+Underfull \hbox (badness 6910) in paragraph at lines 268--269
+\TU/NotoSansMyanmar(0)/m/it/10 ြ-မ-်-း-ခ-ံ-စ-ွ-မ-်-းအ-
+င-်-က-ြ-ေ-ာ-င့် ဖြ-စ-်-ပ-ေ-ါ-်-လ-ာ-ခ-
+ဲ-့-သ-ည-်ဟု ယု-ံ-က-ြ-ည-်-မ-ှ-ု-ရ-ှ-ိ-
+[7
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./dolmen.jpg>]
+Underfull \hbox (badness 1292) in paragraph at lines 275--275
+[]\TU/NotoSerif(0)/m/n/9 Fig-ure 12. []\TU/NotoSansMyanmar(0)/m/n/9 တော
+င်တန့်တိုင်ကျောက်တိုင်ကြီး
+များကို တေ-ာ-င-်-တ-
+
+Underfull \hbox (badness 1354) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 န-်-း-တ-ေ-ာ-င-်-တ-န်း၊ 
+တေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာအ-ရ
+ပ်၊ တေ-ာ-င-်-တ-ေ-ာ-င-်-
+
+Underfull \hbox (badness 1701) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 တ-ေ-ာ-င-်-တ-ေ-ာအ-ရပ်၊ 
+တေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာအ-ရ
+ပ်၊ တေ-ာ-င-်-တ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ
+အ-ရပ်၊ တေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-
+တ-ေ-ာအ-ရပ်၊ တေ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-
+်-တ-ေ-ာအ-ရပ်၊ တေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-
+ာ-င-်-တ-ေ-ာအ-ရပ်၊
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 တေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-
+ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-
+ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-
+ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-
+ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+\TU/NotoSansMyanmar(0)/m/n/9 တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-
+ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-
+ေ-ာ-င-်-တ-ေ-ာ-င-်-တ-ေ-ာ-င-်-
+
+Underfull \vbox (badness 4765) has occurred while \output is active
+Underfull \hbox (badness 3713) in paragraph at lines 291--292
+[]\TU/NotoSansMyanmar(0)/m/it/10 မြ-ေ-တ-ွ-င-်-း-င-ယ-်-
+ယ-င-်-း-ဖ-ျ-က-်-စ-ီ-း-မှု အခ-ြ-ေ-ဆ-ေ-
+ာင် အဆ-ေ-ာ-က-
+
+Underfull \hbox (badness 1102) in paragraph at lines 291--292
+\TU/NotoSansMyanmar(0)/m/it/10 ်အအ-ု-ံ-မ-ျ-ာ-း-သည် \TU/
+NotoSerif(0)/m/n/10 ECDO- \TU/NotoSansMyanmar(0)/m/it/10 နည-်-း-လ-
+မ-်-း-န-ှ-င့် သက-်-တ-မ-်-း-တ-က-်-မ-ြ-
+
+Underfull \hbox (badness 1142) in paragraph at lines 291--292
+\TU/NotoSansMyanmar(0)/m/it/10 ေ-က-မ-္-ဘ-ာ-လ-ှ-ည့် ပ
+ြ-ေ-ာ-င-်-း-လ-ဲ-မ-ှ-ု-ဖ-ြ-င-့-်-လ-ည်း 
+ကေ-ာ-င-်-း-စွာ ရှ-င-်-း-ပ-ြ-
+
+Underfull \hbox (badness 1242) in paragraph at lines 291--292
+\TU/NotoSansMyanmar(0)/m/it/10 န-ိ-ု-င-်-သည်။ တရ-ု-တ-
+်-တ-ေ-ာ-င-်-ပ-ိ-ု-င-်-း-သည် ရေအ-သ-ွ-
+ယ-်-ဖ-ြ-င့် ပေ-ါ-်-ပ-
+
+Underfull \hbox (badness 1371) in paragraph at lines 291--292
+\TU/NotoSansMyanmar(0)/m/it/10 ွင် အထ-ူ-း-ထ-င-်-ရ-ှ-
+ာ-း-သ-ည့် ဥပ-မ-ာအ-နက် တစ-်-ခ-ု-မှာ 
+\TU/NotoSerif(0)/m/n/10 Zhangji-
+
+Underfull \hbox (badness 4156) in paragraph at lines 291--292
+\TU/NotoSerif(0)/m/n/10 a-jie \TU/NotoSansMyanmar(0)/m/it/10 အမ-ျ-ိ-
+ု-း-သ-ာ-း-သ-စ-်-တော အု-ပ-်-ခ-ျ-ု-ပ-်-
+မ-ှ-ု-န-ေ-ရ-ာ-ဖ-ြ-စ-်-ပ-ြီး၊ ဦး-တ-
+
+Underfull \hbox (badness 2020) in paragraph at lines 291--292
+\TU/NotoSansMyanmar(0)/m/it/10 ြ-င-့-်-သည် \TU/NotoSerif(0)/m/n/1
+0 [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။ ဤက-ျ-ေ-ာ-က-်-တ-ိ-
+ု-င-်-မ-ျ-ာ-း-သည် ပင-်-လ-ယ-်-ရ-ေ-ခ-ြ-
+[8
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./bottleneck.jpg><./columbia.jpg><./zhangjiajie.jpg>]
+Underfull \hbox (badness 3471) in paragraph at lines 295--296
+[]\TU/NotoSansMyanmar(0)/m/it/10 ခေ-တ-်-သစ် သိ-ပ-္-ပ-
+ံ-စ-ာ-တ-မ-်-း-မ-ျ-ာ-း-တ-ွင် မြ-ေ-က-ြ-
+ီ-း-သ-မ-ိ-ု-င-်-း-န-ေ-ာ-
+
+Underfull \hbox (badness 1163) in paragraph at lines 295--296
+\TU/NotoSansMyanmar(0)/m/it/10 င-်-ထ-ု-မ-ျား၊ ကျ-ေ-ာ-
+က-်-မ-ီ-း-ခ-ိ-ု-း-ဓ-ာ-တ-်-သ-မ-ိ-ု-င-်-
+းအ-က-ြ-ေ-ာ-င-်-းအ-ရ-ာ-မ-ျား၊
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 သင-်-္-ဂ-ြ-ိ-ု-ဟ-်-ခ-ြ-
+င-်-း-န-ှ-င့် ဖျ-က-်-သ-ိ-မ-်-း-ခ-ြ-င-
+်-း-ပ-ါ-ဝ-င-်-မ-ှ-ု-မ-ျား တွ-ေ-့-ရ-ပ-
+ြီး၊
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 မှ-တ-်-တ-မ-်-း-တ-င-်-ထ-
+ာ-း-သည်။ ဤန-ယ-်-မ-ြ-ေ-တ-ွင် ပထ-မဦ-
+း-ဆ-ု-ံ-း-
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 ဖ-ြ-စ-်သူ တစ-်ဦ-း-မှ
+ာ ယေ-ရ-ီ-ခ-ိ-ု-မ-ြ-ိ-ု-့-ဟ-ေ-ာ-င-်-း-ဖ-
+ြ-စ-်-ပ-ြီး၊ ယန-ေ-့-ပ-လ-
+
+Underfull \hbox (badness 6268) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 က-်-စ-တ-ိ-ု-င-်-း-တ-ွင
+် တည-်-ရ-ှ-ိ-သည်။ ဤမ-ြ-ိ-ု-့-တ-ွင် 
+အဖ-ွ-ဲ-့-လ-ိ-ု-က-်-ဖ-ျ-က-်-
+
+Underfull \hbox (badness 4699) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 သ-ိ-မ-်-း-ခ-ြ-င-်-းအ-လ-
+ွ-ှ-ာ-မ-ျ-ာ-း-ရ-ှ-ိ-ပ-ြီး၊ ကျ-ေ-ာ-က-
+်-တ-ည-်-ဆ-ေ-ာ-က-်-ပုံ သစ-်-
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 ပ-ျ-က-်-ဆ-ီ-း-မ-ှ-ု-န-ှ-
+င့် မီ-း-လ-ေ-ာ-င-်-သ-ည-့-်-သ-က-်-သ-ေ-
+မ-ျ-ာ-း-ပ-ါ-ဝ-င-်-သည်
+
+Underfull \hbox (badness 6188) in paragraph at lines 299--300
+\TU/NotoSerif(0)/m/n/10 [[], []]\TU/NotoSansMyanmar(0)/m/it/10 ။ ၎င်
+း၏အလ-ွ-ှ-ာ-မ-ျ-ာ-း-တ-ွင် မှ-တ-်-တ-မ-
+်-း-တ-င-်-ထ-ာ-း-သ-
+
+Underfull \hbox (badness 1609) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 ေ-ာ-က-ာ-လ-သည် စု-စ-ု-
+ပ-ေ-ါ-င်း \TU/NotoSerif(0)/m/n/10 BCE \TU/NotoSansMyanmar(0)/m/it/1
+0 ၉\TU/NotoSerif(0)/m/n/10 ,\TU/NotoSansMyanmar(0)/m/it/10 ၀၀၀ မှ \
+TU/NotoSerif(0)/m/n/10 BCE \TU/NotoSansMyanmar(0)/m/it/10 ၂\TU/NotoSerif(0)/m
+/n/10 ,\TU/NotoSansMyanmar(0)/m/it/10 ၀၀၀
+
+Underfull \hbox (badness 1292) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 သဲ-မ-ြ-ေ-တ-ွင် သျ-ှ-ံ-
+့-သ-ိ-မ-်-း-ခ-ဲ-့-သ-ည-်-ကို တွ-ေ-့-ရ-
+သည် \TU/NotoSerif(0)/m/n/10 (\TU/NotoSansMyanmar(0)/m/it/10 ပုံ []\
+TU/NotoSerif(0)/m/n/10 14[]) [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။
+
+Underfull \hbox (badness 1824) in paragraph at lines 299--300
+\TU/NotoSansMyanmar(0)/m/it/10 သ-က-်-သ-ေ-ခ-ံ-န-ိ-ု-င-်-
+သ-ည့် ဖျ-က-်-ဆ-ီ-း-မ-ှ-ုအ-လ-ွ-ှ-ာအ-မ-
+ျ-ိ-ု-း-မ-ျ-ိ-ု-း-ပ-ါ-ဝ-င-်-သ-ည့်
+
+Underfull \hbox (badness 3049) in paragraph at lines 312--313
+[]\TU/NotoSansMyanmar(0)/m/it/10 လူ-့အ-ဖ-ွ-ဲ-့အ-စ-ည-်-
+း-ဆ-ိ-ု-း-ရ-ွ-ာ-း-စ-ွ-ာ-ဖ-ျ-က-်-ဆ-ီ-း-
+သ-ွ-ာ-း-သ-ည့် သက-်-သ-ေ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ထ-ေ-ာ-က-်-ခ-ံ-ခ-ျ-က-်-တ-
+စ-်-ခ-ု-မှာ နန-်-ပ-ါ-ပ-ံ-ု-တ-ူ-ပ-န-်-
+း-တ-လ-င-်-း-ဖ-ြ-စ-်-သည်။
+
+Underfull \hbox (badness 2302) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ရ-ှ-ိရာ မီ-း-တ-ေ-ာ-င-
+်-ခ-ြ-ေ-ာ-က-်-က-ျ-သည် နေ-ာ-က-်-ဆ-ု-ံ-
+း-တ-တ-ိ-ယ-ခ-ေတ်
+
+Underfull \hbox (badness 3189) in paragraph at lines 312--313
+\TU/NotoSerif(0)/m/n/10 (Early Qua-ter-nary) \TU/NotoSansMyanmar(0)/m/it/10 
+တွင် တင-်-ပ-ွ-ဲ-တ-င-်-က-ြ-ေ-ာ-င်း ခ
+န-့-်-မ-ှ-န-်-း-
+
+Underfull \hbox (badness 2753) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ေ-ာ-င-်-ခ-ြ-ေ-ာ-က-်-က-ျ-
+ဟ-ု-ဆ-ိ-ု-သ-ေ-ာ-်-လ-ည်း၊ ဒေ-သ-တ-ွင် 
+ယခ-ု-လ-က-်-ရှိ
+
+Underfull \hbox (badness 2913) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ဖ-ြ-စ-်-မ-ျ-ာ-း-သည် လ
+ူ-့အ-ဖ-ွ-ဲ-့အ-စ-ည-်-း-က-ိ-ု-ဖ-ျ-က-်-ဆ-
+ီ-း-န-ိ-ု-င-်-သော သဘ-ာ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ဝ-သ-ဘ-ာ-ဝ-ဘ-ေ-းအ-န-္-တ-
+ရ-ာ-ယ-်-က-ြ-ီ-း-က-ြ-ပ-်-မ-ှ-ု-က-ိ-ု-ပ-
+ြ-သ-သ-ည-်-့အ-ပ-ြင်
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\TU/NotoSansMyanmar(0)/m/it/10 ယန-ေ-့-ခ-ေတ် အသ-က-်-သ-
+က-်-တ-မ-်-း-ခ-န-့-်-မ-ှ-န-်-း-ပ-ု-ံ-စ-
+ံ-မ-ျ-ာ-း-က-ိ-ု-လ-ည်း
+
+Underfull \vbox (badness 1097) has occurred while \output is active [9
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./hoy.jpg>]
+Underfull \hbox (badness 3449) in paragraph at lines 316--317
+\TU/NotoSansMyanmar(0)/m/it/10 ခန-့-်-မ-ှ-န-်-း-တ-တ-်-
+ပ-ါ-သည်။ ထိ-ုအ-က-ြ-ေ-ာ-င-်-းအရ သံ-
+သ-ယ-ခ-ျ-ပ-ိ-ု-့-ရန်
+
+Underfull \hbox (badness 2005) in paragraph at lines 318--319
+\TU/NotoSansMyanmar(0)/m/it/10 ကာဗွန်\TU/NotoSerif(0)/m/n/10 -\TU/N
+otoSansMyanmar(0)/m/it/10 ၁၄ ၏ သက-်-တ-မ-်-း-ခ-ွ-ဲအ-
+ခ-ျ-ိ-န-်-မှာ \TU/NotoSerif(0)/m/n/10 (\TU/NotoSansMyanmar(0)/m
+/it/10 ၅\TU/NotoSerif(0)/m/n/10 ,\TU/NotoSansMyanmar(0)/m/it/10 ၇၃၀ 
+နှစ်\TU/NotoSerif(0)/m/n/10 ) \TU/NotoSansMyanmar(0)/m/it/10 သာ-
+
+Underfull \hbox (badness 3209) in paragraph at lines 318--319
+\TU/NotoSansMyanmar(0)/m/it/10 ဖ-ြ-စ-်-သ-ည-်-့အ-တ-ွက
+် သေ-ာ-င-်-း-န-ှ-စ-်-ပ-ေ-ါ-င်း ရာ-န-
+ှ-စ-်-မ-ျ-ာ-းအထိ ပြ-ီ-း-
+
+Underfull \hbox (badness 5008) in paragraph at lines 318--319
+\TU/NotoSansMyanmar(0)/m/it/10 း-သ-ွ-ေ-း-သ-စ-်-လ-ွ-င-်-
+န-ှ-င့် ဇီ-ဝ-ဖ-ိ-ု-း-ပ-ိ-ု-င-်-း-မ-ျ-
+ာ-း-တ-ွ-င-်-ပ-ါ-ရ-ှ-ိ-န-ေ-သ-ည-်-့အ-ခ-ျ-
+က-်-
+
+Underfull \hbox (badness 2418) in paragraph at lines 318--319
+\TU/NotoSansMyanmar(0)/m/it/10 သည် သက-်-တ-မ-်-း-ခ-န-
+့-်-မ-ှ-န-်-း-မ-ှ-ု-စ-န-စ-်-မ-ျ-ာ-းအာ
+း မေ-း-ခ-ွ-န-်-း-ထ-ု-တ-်-စ-ေ-
+
+Underfull \hbox (badness 1137) in paragraph at lines 320--321
+[]\TU/NotoSansMyanmar(0)/m/it/10 ကာဗွန်\TU/NotoSerif(0)/m/n/10 -\TU
+/NotoSansMyanmar(0)/m/it/10 ၁၄ သက-်-တ-မ-်-း-ခ-န-့-်-
+မ-ှ-န-်-း-ခ-ြ-င-်-းအ-ပ-ြင် အခ-ြား ရ
+ေ-ဒ-ီ-
+
+Underfull \hbox (badness 1521) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 း-မ-ျ-ာ-း-လ-ည်း မှ-န-
+်-က-န-်-မ-ှ-ု-မ-ရ-ှ-ိ-န-ိ-ု-င-်-သည်။ \T
+U/NotoSerif(0)/m/n/10 An-swers in Gen-e-
+
+Underfull \hbox (badness 5985) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 ည့် အသ-က-်-ခ-န-့-်-မ-
+ှ-န-်-း-မ-ှ-ု-က-ိ-န-်-း-ဂ-ဏ-န-်-း-မ-ျ-
+ာ-း-တ-ွင် တစ-်-သ-က-်-တ-စ-်-
+
+Underfull \hbox (badness 7397) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 သ-က-်-ပ-ြဿ-န-ာ-မ-ျ-ာ-း-
+ရ-ှ-ိ-က-ြ-ေ-ာ-င်း တွ-ေ-့-ရ-ှ-ိ-ခ-ဲ-့-
+သည် \TU/NotoSerif(0)/m/n/10 [[]]\TU/NotoSansMyanmar(0)/m/it/10 ။ သ
+န-်-း-
+
+Underfull \hbox (badness 3449) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 ွင် သွ-ေ-း-က-ေ-ာ-လဟ်
+၊ သွ-ေ-း-က-ြော၊ ကိ-ု-လ-လ-ဂ-ျ-င-်-ပ-ါ-
+ဝ-င-်-သော
+
+Underfull \hbox (badness 3724) in paragraph at lines 320--321
+\TU/NotoSansMyanmar(0)/m/it/10 သ-ိ-ု-့-လ-ေ-့-လ-ာ-ခ-ျ-က-
+်-မ-ျ-ာ-းအရ၊ ကမ-္-ဘ-ာ-့-ဂ\TU/NotoSerif(0)/m/n/10 
+ე󰀀ო󰀀-\TU/NotoSansMyanmar(0)/m/it/10 လ-ိ-ု-ဂ-ျ-ီ-ရ-ု-
+ပ-်-ပ-ြ-ဇ-ယ-ာ-း-န-ှ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဤစ-ာ-တ-မ-်-း-တ-ွင်၊ 
+သဘ-ာ-ဝ-ဘ-ေ-းအ-န-္-တ-ရ-ာ-ယ-်-က-ြ-ီ-း-က-
+ြ-ပ-်-မ-ှ-ု-
+
+Underfull \hbox (badness 6110) in paragraph at lines 324--325
+\TU/NotoSansMyanmar(0)/m/it/10 န-က-်-မှာ အက-ြ-ေ-ာ-င-
+်-းအ-မ-ျ-ာ-း-ဆ-ု-ံ-း-န-ှ-င့် ထင-်-ရ-
+ှ-ာ-း-သ-မျှ အယ-ူအ-
+
+Underfull \hbox (badness 1424) in paragraph at lines 324--325
+\TU/NotoSansMyanmar(0)/m/it/10 ဆ-မ-ျ-ာ-း-ကို တင-်-ပ-
+ြ-ခ-ဲ-့-ပ-ါ-သည်။ မျ-ိ-ု-း-စ-ု-ံ-သော 
+သက-်-သ-ေ-မ-ျ-ာ-း-ကို
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+\TU/NotoSansMyanmar(0)/m/it/10 တင-်-ပ-ြ-ထ-ာ-း-သ-ေ-ာ-်-
+လ-ည်း၊ ဤစ-ာ-တ-မ-်-း-တ-ွင် ဖေ-ာ-်-ပ-
+ြ-ထ-ာ-း-သ-
+
+Underfull \hbox (badness 7047) in paragraph at lines 324--325
+\TU/NotoSerif(0)/m/n/10 repos-i-tory \TU/NotoSansMyanmar(0)/m/it/10 တွင
+် သက-်-သ-ေ-မ-ျ-ာ-း-စ-ု-စ-ည-်-း-တ-င-်-ထ-
+ာ-း-ပ-ါ-သည်
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+[]\TU/NotoSerif(0)/m/n/10 ECDO \TU/NotoSansMyanmar(0)/m/it/10 သီအ-ိ-
+ုရီ၏မူ-ရ-င-်-း-စ-ာ-တ-မ-်-း-စ-ာ-ရ-ေ-း
+သူ \TU/NotoSerif(0)/m/n/10 Eth-i-cal
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+\TU/NotoSansMyanmar(0)/m/it/10 လေ-ာ-က-ျ-ီ-စ-ွ-ာ-က-မ-္-
+ဘ-ာ-သ-ိ-ု-့-မ-ျ-ှ-ဝ-ေ-ခ-ဲ-့-တ-ဲ-့-သ-ူအ-
+ဖ-ြစ် ကျ-ေ-း-ဇ-ူ-း-တ-င-်-ပ-
+
+Underfull \hbox (badness 1325) in paragraph at lines 327--328
+\TU/NotoSansMyanmar(0)/m/it/10 ါ-တယ်။ သူ၏ သု-ံ-း-ပ-
+ိ-ု-င-်-း-သ-ီအ-ိ-ုရီ \TU/NotoSerif(0)/m/n/10 [[]] \TU/N
+otoSansMyanmar(0)/m/it/10 သည် \TU/NotoSerif(0)/m/n/10 Exother-mic
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+\TU/NotoSerif(0)/m/n/10 (ECDO) \TU/NotoSansMyanmar(0)/m/it/10 သီအ-ိ-
+ု-ရ-ီအ-တ-ွက် အာ-ဏ-ာ-တ-ည-်-သော လက-်-
+စ-ွ-ဲ-စ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+\TU/NotoSansMyanmar(0)/m/it/10 ာအ-ု-ပ-်-ဖ-ြ-စ-်-ပ-ြီ
+း ဒီ-မ-ှ-ာအ-က-ျ-ဉ-်-း-ခ-ျ-ု-ပ-်-ထ-ာ-း-
+သ-ေ-ာအ-ထ-က-်မက
+[10
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+cript=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+Missing character: There is no ე (U+10D4) in font NotoSerif:mode=node;script=
+latn;language=dflt;+tlig;family=rm;!
+Missing character: There is no ო (U+10DD) in font NotoSerif:mode=node;script=
+latn;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+<./jericho.jpg>]
+Underfull \hbox (badness 1577) in paragraph at lines 329--330
+[]\TU/NotoSansMyanmar(0)/m/it/10 ဒါ-တ-င-်-မ-ကဘဲ ယန-ေ-
+့-က-ျ-ွ-န-်-ု-ပ-်-တ-ိ-ု-့-ရ-ပ-်-တ-ည-်ရ
+ာ ဦ-း-ခ-ေ-ါ-င-်-း-ရ-ပ-်-
+
+Underfull \hbox (badness 2662) in paragraph at lines 329--330
+\TU/NotoSansMyanmar(0)/m/it/10 တ-ည-်-န-ိ-ု-င-်-စ-ေ-သေ
+ာ မဟ-ာ-မ-င-်-း-တ-ိ-ု-့အ-ာ-း-လ-ု-ံ-း-က-
+ိ-ု-လ-ည်း ကျ-ေ-း-ဇ-ူ-း-
+[11
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+ipt=mym2;language=dflt;+tlig;family=rm;!
+] (./2burmese41.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[]\TU/NotoSerif(0)/m/n/9 An-swers re-search jour-nal, 2008--present.
+
+Underfull \hbox (badness 5908) in paragraph at lines 92--96
+[]\TU/NotoSerif(0)/m/n/9 GetY-our-Guide.  Canyon-ing in grand canyon.
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--96
+[]$\TU/pcr/m/n/9 https://www.getyourguide.com/grand-[]canyon-[]l489/
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--115
+\TU/NotoSerif(0)/m/n/9 science-forum/mystery-mammoth-and-
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--122
+[]\TU/NotoSerif(0)/m/n/9 Junho.  Ecdo kmls.  []$\TU/pcr/m/n/9 https://github.co
+m/
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--122
+\TU/pcr/m/n/9 sovrynn/ecdo/tree/master/5-[]TOOLS-[]DEV/dev/
+
+Underfull \hbox (badness 2205) in paragraph at lines 124--129
+[]\TU/NotoSerif(0)/m/n/9 Junho.  Mega-current rip-ples.  []$\TU/pcr/m/n/9 https
+://github.
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--129
+\TU/pcr/m/n/9 com/sovrynn/ecdo/tree/master/1-[]EVIDENCE/
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--129
+\TU/pcr/m/n/9 physical-[]material/water-[]flow-[]structures/
+
+Underfull \hbox (badness 1189) in paragraph at lines 131--134
+[]\TU/NotoSerif(0)/m/n/9 Junho.  Ecdo github re-search repos-i-tory, 2024.
+
+Underfull \hbox (badness 1831) in paragraph at lines 141--146
+[]\TU/NotoSerif(0)/m/n/9 E. Larsen, S. Gul-lik-sen, S.-E. Lau-ritzen, R. Lie,
+
+Underfull \hbox (badness 2865) in paragraph at lines 148--154
+\TU/NotoSerif(0)/m/n/9 son, M. Fin-layson, T. Gum-bricht, L. Hi-lar-ides,
+
+Underfull \hbox (badness 1472) in paragraph at lines 162--166
+[]\TU/NotoSerif(0)/m/n/9 M. J. Magee, M. L. Way-man, and N. C. Lovell.
+
+Underfull \hbox (badness 1215) in paragraph at lines 174--178
+[]\TU/NotoSerif(0)/m/n/9 Na-tional Park Ser-vice.  Ge-ol-ogy - death val-ley
+
+Underfull \hbox (badness 1436) in paragraph at lines 174--178
+\TU/NotoSerif(0)/m/n/9 na-tional park.  []$\TU/pcr/m/n/9 https://www.nps.gov/de
+va/learn/
+
+Underfull \hbox (badness 2111) in paragraph at lines 180--184
+\TU/NotoSerif(0)/m/n/9 na-tional park.  []$\TU/pcr/m/n/9 https://www.nps.gov/gr
+ca/learn/
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--210
+\TU/pcr/m/n/9 2017/05/gli-[]archi-[]di-[]san-[]ciro-[]e-[]i-[]giganti-[]di.html
+$[]\TU/NotoSerif(0)/m/n/9 ,
+
+Underfull \hbox (badness 2469) in paragraph at lines 203--210
+\TU/NotoSerif(0)/m/n/9 May 2017.  An-no-tazioni di Rosanna Pel-ler-ito.
+
+Underfull \hbox (badness 3690) in paragraph at lines 203--210
+\TU/NotoSerif(0)/m/n/9 Traduzione di Mariella Fer-raro. Blog di Piero
+[12]
+Underfull \hbox (badness 1048) in paragraph at lines 246--250
+[]\TU/NotoSerif(0)/m/n/9 M. H. Schweitzer, J. L. Wittmeyer, J. R. Horner,
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
+[]\TU/NotoSerif(0)/m/n/9 T. E. Skep-tic.  Mas-ter exother-mic core-
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
+\TU/NotoSerif(0)/m/n/9 mantle de-cou-pling – dzhanibekov os-cil-la-tion
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
+\TU/NotoSerif(0)/m/n/9 (ecdo) the-ory, 2024.  https://theeth-i-calskep-
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
+\TU/NotoSerif(0)/m/n/9 tic.com/2024/05/23/master-exothermic-core-
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
+\TU/NotoSerif(0)/m/n/9 mantle-decoupling-dzhanibekov-oscillation-
+
+Underfull \hbox (badness 4846) in paragraph at lines 269--272
+\TU/NotoSerif(0)/m/n/9 canyon, ari-zona.  \TU/NotoSerif(0)/m/it/9 An-swers Re-s
+earch Jour-nal\TU/NotoSerif(0)/m/n/9 ,
+
+Underfull \hbox (badness 2626) in paragraph at lines 289--293
+[]\TU/NotoSerif(0)/m/n/9 M. Staub-wasser and H. Weiss.  Holocene cli-
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--293
+\TU/NotoSerif(0)/m/n/9 mate and cul-tural evo-lu-tion in late pre-his-
+
+Underfull \hbox (badness 1721) in paragraph at lines 289--293
+\TU/NotoSerif(0)/m/n/9 toric–early his-toric west asia.  \TU/NotoSerif(0)/m/i
+t/9 Qua-ter-nary Re-
+
+Underfull \hbox (badness 4967) in paragraph at lines 335--338
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia.  Great pyra-mid of giza.  []$\TU/pcr/m/n/9 
+https:
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--338
+\TU/pcr/m/n/9 //en.wikipedia.org/wiki/Great_Pyramid_of_Giza#
+
+Underfull \hbox (badness 4981) in paragraph at lines 340--343
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia con-trib-u-tors.  Ex-tinc-tion event ---
+
+Underfull \hbox (badness 2393) in paragraph at lines 345--348
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia con-trib-u-tors.  4.2-kiloyear event ---
+
+Underfull \hbox (badness 2393) in paragraph at lines 350--353
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia con-trib-u-tors.  8.2-kiloyear event ---
+
+Underfull \hbox (badness 4479) in paragraph at lines 361--364
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia con-trib-u-tors.  Dol-men de Soto ---
+
+Underfull \hbox (badness 1221) in paragraph at lines 371--374
+\TU/NotoSerif(0)/m/n/9 Free En-cy-clo-pe-dia, 2025.  [On-line; ac-cessed 9-
+
+Underfull \hbox (badness 1496) in paragraph at lines 381--385
+[]\TU/NotoSerif(0)/m/n/9 Wikipedia con-trib-u-tors.  New-grange -- Buri-als.
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--385
+[]$\TU/pcr/m/n/9 https://en.wikipedia.org/wiki/Newgrange#Burials$[]\TU/NotoSeri
+f(0)/m/n/9 ,
+
+Underfull \hbox (badness 1953) in paragraph at lines 394--399
+\TU/NotoSerif(0)/m/n/9 tural hitch-hik-ing and com-pe-ti-tion be-tween pa-
+) [13] (./2burmese41.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+)
+(see the transcript file for additional information)
+ 608 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 29 attribute, 54 glue_spe
+c, 16 attribute_list, 1 write, 8 pdf_action nodes
+   avail lists: 1:1,2:11351,3:680,4:152,5:332,6:73,7:12833,8:115,9:576,10:54,11
+:4612
+</usr/share/fonts/truetype/noto/NotoSerif-Italic.ttf></usr/share/texmf/fonts/op
+entype/public/lm/lmroman9-regular.otf></usr/share/fonts/truetype/noto/NotoSansM
+yanmar-Regular.ttf></usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf></usr/
+share/fonts/truetype/noto/NotoSansMyanmar-Bold.ttf></usr/share/fonts/truetype/n
+oto/NotoSerif-Bold.ttf>
+Output written on 2burmese41.pdf (13 pages, 3146802 bytes).
+Transcript written on 2burmese41.log.

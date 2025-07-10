@@ -1,0 +1,12 @@
+In May 2024, a pseudonymous online author known as “The Ethical Skeptic” \cite{0} shared a groundbreaking theory called the Exothermic Core-Mantle Decoupling Dzhanibekov Oscillation (ECDO) \cite{1}. This theory suggests that Earth has previously experienced sudden, catastrophic shifts in its rotational axis, triggering massive worldwide floods as the oceans spilled over the continents due to rotational inertia. Additionally, it presents an explanatory geophysical process and data indicating that another such flip may be imminent. While such cataclysmic flood and doomsday predictions are not new, the ECDO theory is uniquely compelling due to its scientific, modern, multidisciplinary, and data-based approach.
+
+May 2024 တွင်၊ “The Ethical Skeptic” ဟုအမည်မသိ အွန်လိုင်းစာရေးသူတစ်ဦးက Exothermic Core-Mantle Decoupling Dzhanibekov Oscillation (ECDO) \cite{1} ဟုခေါ်သော မျိုးတုပျသော သီအိုရီတစ်ခုကို မျှဝေခဲ့သည် \cite{0}။ ဤသီအိုရီအရ ကမ္ဘာ၌ အတိတ်ကာလများတွင် လှည့်ပတ်ဝင်ရိုးအတွင်း ထပ်မံ ပြင်းထန်လှသော ပျက်စီးမှုများ ဖြစ်ပေါ်ခဲ့ပြီး၊ ပင်လယ်တို့သည် ပျံ့နှံ့ကျူးလွန်ကာ ကမ္ဘာ့မကြီးအနှံ့အပြား ရေပျောက်ဝင်ချိုးဖျက်မှုကြီးများ ဖြစ်ပေါ်စေခဲ့ကြောင်း ဖော်ပြသည်။ ထို့အပြင် သက်ဆိုင်ရာ ဘူမိရောဂါလုပ်ငန်းစဉ်နှင့် အချက်အလက်များမှ နောက်တစ်ကြိမ် ထပ်မံဖြစ်ပွားနိုင်ခြေရှိကြောင်း မျှဝေနိုင်သည်။ ယင်းကဲ့သို့သော ဖျက်ဆီးမှုကြီးများနှင့် နောက်ဆုံးရက်ခန့်မှန်းမှုများသည်အသစ်မဟုတ်သော်လည်း၊ ECDO သီအိုရီသည် သိပ္ပံဆိုင်ရာ၊ ခေတ်မီမှုအရ၊ အတတ်ပညာစုံလင်မှုနှင့် ဒေတာအခြေပြုမှုများကြောင့် ထူးခြားစွာ စိတ်ဝင်စားဖွယ်ရှိသည်။
+
+This paper is my third work \cite{2,3} on this topic, and focuses on present-day political aspects of this theory:
+\begin{flushleft}
+\begin{enumerate}
+    \item ထင်ရှားစွာအသိပေးသူများ၏ သက်သေခံချက်များအရ အနောက်နိုင်ငံများက ဘူမိရောဂါ ဖျက်ဆီးမှုကြီး အလျင်အမြန် လာမည်ဟု ယုံကြည်ကာ ၎င်းဖြစ်ရပ်အပေါ် နိုင်ငံရေးနှင့် စစ်ရေး အားသာမှုရအောင် ကြိုတင်အစီအစဉ်တွေ ချထားသည်။
+    \item ဤဖြစ်ရပ်အတွက်ပြင်ဆင်ရန် အနောက်နိုင်ငံများ အောက်မြေပြင်နှင့် သမုဒ္ဒရာအောက်ခံ စခန်းတွေ တော်တော်များများတည်ဆောက်ထားကြောင်း သက်သေရှိသည်။
+    \item ဤစခန်းများဖွဲ့စည်းရန်အတွက်  အနောက်ပိုင်းငွေကြေးဖွဲ့စည်းပုံများမှ ကြီးမားသော ငွေကြေးများ ယိုထွင်းယူသည့် သက်သေရှိသည်။
+\end{enumerate}
+\end{flushleft}

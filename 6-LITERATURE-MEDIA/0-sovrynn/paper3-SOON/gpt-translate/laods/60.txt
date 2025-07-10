@@ -1,0 +1,4 @@
+\clearpage
+\twocolumn
+
+{\small

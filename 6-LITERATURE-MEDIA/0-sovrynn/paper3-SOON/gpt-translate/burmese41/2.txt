@@ -1,0 +1,10 @@
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\cvprfinalcopy % *** ဤကြောင်းကို နောက်ဆုံးတင်သွင်းမှုအတွက် သတ်မှတ်ချက်ဖြင့်ဖျော်ဖြေပါ
+
+\def\cvprPaperID{****} % *** CVPR စာရွက်အမှတ်စဉ်ကို ဤနေရာတွင် ထည့်သွင်းပါ

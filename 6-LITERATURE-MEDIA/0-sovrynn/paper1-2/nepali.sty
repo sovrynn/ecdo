@@ -1,0 +1,228 @@
+\ProvidesPackage{nepali}
+\usepackage{fontspec}
+\usepackage{luacode}
+
+\usepackage{polyglossia}
+\setdefaultlanguage{sanskrit}
+
+\begin{luacode*}
+local data = {
+    {2028, 1971-04-14, 31, 31, 32, 31, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2029, 1972-04-13, 31, 31, 32, 31, 32, 30, 30, 29, 30, 29, 30, 30},
+    {2030, 1973-04-13, 31, 32, 31, 32, 31, 30, 30, 30, 29, 29, 30, 31},
+    {2031, 1974-04-14, 30, 32, 31, 32, 31, 30, 30, 30, 29, 30, 29, 31},
+    {2032, 1975-04-14, 31, 31, 32, 31, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2033, 1976-04-13, 31, 31, 32, 32, 31, 30, 30, 29, 30, 29, 30, 30},
+    {2034, 1977-04-13, 31, 32, 31, 32, 31, 30, 30, 30, 29, 29, 30, 31},
+    {2035, 1978-04-14, 30, 32, 31, 32, 31, 31, 29, 30, 30, 29, 29, 31},
+    {2036, 1979-04-14, 31, 31, 32, 31, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2037, 1980-04-13, 31, 31, 32, 32, 31, 30, 30, 29, 30, 29, 30, 30},
+    {2038, 1981-04-13, 31, 32, 31, 32, 31, 30, 30, 30, 29, 29, 30, 31},
+    {2039, 1982-04-14, 31, 31, 31, 32, 31, 31, 29, 30, 30, 29, 30, 30},
+    {2040, 1983-04-14, 31, 31, 32, 31, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2041, 1984-04-13, 31, 31, 32, 32, 31, 30, 30, 29, 30, 29, 30, 30},
+    {2042, 1985-04-13, 31, 32, 31, 32, 31, 30, 30, 30, 29, 29, 30, 31},
+    {2043, 1986-04-14, 31, 31, 31, 32, 31, 31, 29, 30, 30, 29, 30, 30},
+    {2044, 1987-04-14, 31, 31, 32, 31, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2045, 1988-04-13, 31, 32, 31, 32, 31, 30, 30, 29, 30, 29, 30, 30},
+    {2046, 1989-04-13, 31, 32, 31, 32, 31, 30, 30, 30, 29, 29, 30, 31},
+    {2047, 1990-04-14, 31, 31, 31, 32, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2048, 1991-04-14, 31, 31, 32, 31, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2049, 1992-04-13, 31, 32, 31, 32, 31, 30, 30, 30, 29, 29, 30, 30},
+    {2050, 1993-04-13, 31, 32, 31, 32, 31, 30, 30, 30, 29, 30, 29, 31},
+    {2051, 1994-04-14, 31, 31, 31, 32, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2052, 1995-04-14, 31, 31, 32, 31, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2053, 1996-04-13, 31, 32, 31, 32, 31, 30, 30, 30, 29, 29, 30, 30},
+    {2054, 1997-04-13, 31, 32, 31, 32, 31, 30, 30, 30, 29, 30, 29, 31},
+    {2055, 1998-04-14, 31, 31, 32, 31, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2056, 1999-04-14, 31, 31, 32, 31, 32, 30, 30, 29, 30, 29, 30, 30},
+    {2057, 2000-04-13, 31, 32, 31, 32, 31, 30, 30, 30, 29, 29, 30, 31},
+    {2058, 2001-04-14, 30, 32, 31, 32, 31, 30, 30, 30, 29, 30, 29, 31},
+    {2059, 2002-04-14, 31, 31, 32, 31, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2060, 2003-04-14, 31, 31, 32, 32, 31, 30, 30, 29, 30, 29, 30, 30},
+    {2061, 2004-04-13, 31, 32, 31, 32, 31, 30, 30, 30, 29, 29, 30, 31},
+    {2062, 2005-04-14, 30, 32, 31, 32, 31, 31, 29, 30, 29, 30, 29, 31},
+    {2063, 2005-04-14, 31, 31, 32, 31, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2064, 2007-04-14, 31, 31, 32, 32, 31, 30, 30, 29, 30, 29, 30, 30},
+    {2065, 2008-04-13, 31, 32, 31, 32, 31, 30, 30, 30, 29, 29, 30, 31},
+    {2066, 2009-04-14, 31, 31, 31, 32, 31, 31, 29, 30, 30, 29, 29, 31},
+    {2067, 2010-04-14, 31, 31, 32, 31, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2068, 2011-04-14, 31, 31, 32, 32, 31, 30, 30, 29, 30, 29, 30, 30},
+    {2069, 2012-04-13, 31, 32, 31, 32, 31, 30, 30, 30, 29, 29, 30, 31},
+    {2070, 2013-04-14, 31, 31, 31, 32, 31, 31, 29, 30, 30, 29, 30, 30},
+    {2071, 2014-04-14, 31, 31, 32, 31, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2072, 2015-04-14, 31, 32, 31, 32, 31, 30, 30, 29, 30, 29, 30, 30},
+    {2073, 2016-04-13, 31, 32, 31, 32, 31, 30, 30, 30, 29, 29, 30, 31},
+    {2074, 2017-04-14, 31, 31, 31, 32, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2075, 2018-04-14, 31, 31, 32, 31, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2076, 2019-04-14, 31, 32, 31, 32, 31, 30, 30, 30, 29, 29, 30, 30},
+    {2077, 2020-04-13, 31, 32, 31, 32, 31, 30, 30, 30, 29, 30, 29, 31},
+    {2078, 2021-04-14, 31, 31, 31, 32, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2079, 2022-04-14, 31, 31, 32, 31, 31, 31, 30, 29, 30, 29, 30, 30},
+    {2080, 2023-04-14, 31, 32, 31, 32, 31, 30, 30, 30, 29, 29, 30, 30},
+    {2081, 2024-04-13, 31, 31, 32, 32, 31, 30, 30, 30, 29, 30, 30, 30},
+    {2082, 2025-04-14, 31, 32, 31, 32, 31, 30, 30, 30, 29, 30, 30, 30},
+    {2083, 2026-04-14, 31, 31, 32, 31, 31, 30, 30, 30, 29, 30, 30, 30},
+    {2084, 2027-04-14, 31, 31, 32, 31, 31, 30, 30, 30, 29, 30, 30, 30},
+    {2085, 2028-04-13, 31, 32, 31, 32, 31, 31, 30, 30, 29, 30, 30, 30},
+    {2086, 2029-04-14, 31, 32, 31, 32, 31, 30, 30, 30, 29, 30, 30, 30},
+    {2087, 2030-04-14, 31, 31, 32, 31, 31, 31, 30, 30, 29, 30, 30, 30},
+    {2088, 2031-04-15, 30, 31, 32, 32, 30, 31, 30, 30, 29, 30, 30, 30},
+    {2089, 2032-04-14, 31, 32, 31, 32, 31, 30, 30, 30, 29, 30, 30, 30},
+    {2090, 2033-04-14, 31, 32, 31, 32, 31, 30, 30, 30, 29, 30, 30, 30},
+    {2091, 2034-04-14, 31, 31, 32, 31, 31, 31, 30, 30, 29, 30, 30, 30},
+    {2092, 2035-04-13, 31, 31, 32, 32, 31, 30, 30, 30, 29, 30, 30, 30},
+    {2093, 2036-04-14, 31, 32, 31, 32, 31, 30, 30, 30, 29, 30, 30, 30},
+    {2094, 2037-04-14, 31, 31, 32, 31, 31, 30, 30, 30, 29, 30, 30, 30},
+    {2095, 2038-04-14, 31, 31, 32, 31, 31, 31, 30, 29, 30, 30, 30, 30},
+    {2096, 2039-04-15, 30, 31, 32, 32, 31, 30, 30, 29, 30, 29, 30, 30},
+    {2097, 2040-04-13, 31, 32, 31, 32, 31, 30, 30, 30, 29, 30, 30, 30},
+    {2098, 2041-04-14, 31, 31, 32, 31, 31, 31, 29, 30, 29, 30, 30, 31},
+    {2099, 2042-04-14, 31, 31, 32, 31, 31, 31, 30, 29, 29, 30, 30, 30},
+    {2100, 2043-04-14, 31, 32, 31, 32, 30, 31, 30, 29, 30, 29, 30, 30}
+}
+
+local dig_map = {
+    ["0"] = "०",
+    ["1"] = "१",
+    ["2"] = "२",
+    ["3"] = "३",
+    ["4"] = "४",
+    ["5"] = "५",
+    ["6"] = "६",
+    ["7"] = "७",
+    ["8"] = "८",
+    ["9"] = "९"
+}
+local nep_months = {"बैशाख", "जेठ", "असार", "साउन", "भाद्र", "असोज", "कात्तिक", "मंसीर", "पुष", "माघ","फागुन","चैत"}
+
+
+
+function days_since(ad)
+    local now = os.time()
+    local base = os.time({year=ad.year,month=ad.month,day=ad.day})
+    local diff = now-base
+    local dys = math.floor(diff/(24*3600.0))
+    return dys
+end
+
+-- very unoptomized function to get bs date afger `days` days from
+-- the given date table in `bs`. Unoptimized because I don't know
+-- lua lanugage at all to optimize this.
+function bs_after_days(bs,days)
+    da = {}
+    cday = 0
+    for i,row in ipairs(data) do
+        for j,col in ipairs(row) do
+            if j > 2 then  -- selecting 3rd column onward, because 1st BS yr, 2nd AD date.
+                cday = cday + col
+                if cday > days then
+                    yr = row[1]
+                    mon = j - 2  -- -2 because the index of month is j-2 column in data
+                    rem = days - (cday - col) + 1  -- +1 because every month starts on date 1.
+                    return {year=yr,month=mon,day=rem}
+                end
+            end
+        end
+    end
+    return "OUT OF BOUNDS"
+end
+
+function dev_number(numstr)
+    res = ""
+    for i = 1, #numstr do
+	res = res..dig_map[numstr:sub(i,i)]
+    end
+    return res
+end
+
+
+function bs_today()
+    ad = {year=1971,month=04,day=14}
+    bs = {year=2028,month=01,day=01}
+    days = days_since(ad)
+    return bs_after_days(bs,days)
+end
+
+function format_date(bs)
+    ys = dev_number(tostring(bs.year))
+    ms = nep_months[bs.month]
+    ds = dev_number(tostring(bs.day))
+    return ys.." "..ms.." "..ds
+end
+
+function bstoday()
+  local bs = bs_today()
+  tex.print(format_date(bs))
+end
+\end{luacode*}
+
+\newcommand{\nepdate}{\luadirect{bstoday()}}
+\renewcommand{\today}{\nepdate}
+
+\makeatletter
+\newcommand*\devanagari[1]{\expandafter\@devanagari\csname c@#1\endcsname}
+
+\newcommand*\@devanagarinumber[1]{%
+  \ifcase#1\or १\or २\or ३\or ४\or ५\or ६\or ७\or ८\or ९\fi}
+\makeatother
+
+
+\newcommand{\devanagarinumeral}[1]{%
+  \devanagaridigits{\number\csname c@#1\endcsname}}
+
+
+\makeatletter
+\def\devanagari@roman#1{%
+ \ifcase#1\or अ\or आ\or इ\or ई\or उ\or ऊ\or ऋ\or ए\or ऐ\or ओ\or
+  औ\or\else\@ctrerr\fi}
+
+\def\devanagari@alph#1{%
+ \ifcase#1\or क\or ख\or ग\or घ\or ङ\or च\or छ\or ज\or झ\or ञ\or
+  ट\or ठ\or ड\or ढ\or ण\or त\or थ\or द\or ध\or न\or प\or फ\or ब\or भ\or म\or
+   य\or र\or ल\or व\or श\or ष\or स\or ह\else\@ctrerr\fi}
+% Imitating xgreek.sty and xepersian.sty
+\let\@alph\devanagari@alph
+\let\@Alph\devanagari@alph
+\let\@roman\devanagari@roman
+\let\@Roman\devanagari@alph
+
+
+\renewcommand{\labelenumi}{\theenumi.}
+\renewcommand{\theenumi}{\devanagarinumeral{enumi}}
+% Change appearance of enumerate at levels 2, 3, 4.
+%\renewcommand{\labelenumi}{\theenumiv. } % Instead of: (\theenumii)
+\renewcommand{\labelenumii}{\theenumii.} % Instead of: (\theenumii)
+\renewcommand{\labelenumiii}{\theenumiii.} % Instead of: \theenumiii.
+\renewcommand{\theenumiii}{\@roman\c@enumiii} % Instead of: \@roman\c@enumiii
+\renewcommand{\labelenumiv}{(\theenumiv)} % Instead of: \theenumiv.
+\makeatother
+
+
+% renew all representation of counters
+\ifdefined\chaptername
+\renewcommand{\thechapter}{\devanagarinumeral{chapter}.}
+\fi
+\renewcommand{\thesection}{\devanagarinumeral{section}.}
+\renewcommand{\thesubsection}{\thesection\devanagarinumeral{subsection}.}
+\renewcommand{\thesubsubsection}{\thesubsection\devanagarinumeral{subsubsection}.}
+\renewcommand{\thepage}{\devanagarinumeral{page}}
+\renewcommand{\thefigure}{\devanagarinumeral{figure}}
+\renewcommand{\thetable}{\devanagarinumeral{table}}
+
+\renewcommand{\theequation}{\devanagarinumeral{equation}}
+
+\makeatletter
+\renewcommand\@biblabel[1]{\devanagarinumeral{#1}}
+\makeatother
+
+\renewcommand{\contentsname}{विषय-सुचि}
+\renewcommand{\abstractname}{सारांश}
+
+\renewcommand{\tablename}{तालिका}
+\renewcommand{\figurename}{चित्र}
+
+\ifdefined\chaptername
+  \renewcommand{\chaptername}{परिच्छेद}
+\fi
+

@@ -1,0 +1,10 @@
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\cvprfinalcopy % *** अन्तिम बुझाउनेका लागि यो रेखा अनकमेन्ट गर्नुहोस्
+
+\def\cvprPaperID{****} % *** यहाँ CVPR पेपर आईडी प्रविष्ट गर्नुहोस्
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+% सबमिशन मोडमा पृष्ठहरू नम्बर गरिन्छ, र क्यामेरा-रेडीमा नम्बर नगरिएका हुन्छन्
+%\ifcvprfinal\pagestyle{empty}\fi
+\setcounter{page}{1}

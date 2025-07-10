@@ -1,0 +1,9 @@
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{iran.jpeg}
+\end{center}
+   \caption{အဆိုပါအီရန်အစိုးရ၏အာဏာပိုင်ဗီဒီယိုမှမြေညီအောက် "အမုံးမြို့" ကိုပြသနေသည့်ဗီဒီယိုဗျည်းတစ်ခု \cite{39,40}။}
+\label{fig:12}
+\label{fig:onecol}
+\end{figure}

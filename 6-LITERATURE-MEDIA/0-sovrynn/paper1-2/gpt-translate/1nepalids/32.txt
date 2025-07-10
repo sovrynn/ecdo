@@ -1,0 +1,5 @@
+\includegraphics[width=0.85\textwidth]{khafre.jpg}
+\end{center}
+   \caption{एउटा चित्रण जसले स्थायी, अस्थायी समुद्री सतह उठ्ने कारणले भएको विभेदकारी, नमुना भएको कर्षण प्रक्रिया देखाउँछ \cite{27}.}
+\label{fig:4}
+\end{figure*}

@@ -1,0 +1,5 @@
+\end{center}
+   \caption{រូបភាពបង្ហាញអំពីអាងជ្រៅសមុទ្រក្រោមទឹក ដោយ Walter Koerschner \cite{22,23}។}
+\label{fig:6}
+\label{fig:onecol}
+\end{figure}

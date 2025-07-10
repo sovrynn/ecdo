@@ -1,0 +1,5 @@
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{illuminati.jpg}
+\end{center}
+   \caption{ဂျူးဗီတာဘုရား၏ သားစဉ်မြေးဆက်များဆိုသည်မှာ မည်သူများနည်း။ (ပုံ: \cite{35})}
+\label{fig:10}

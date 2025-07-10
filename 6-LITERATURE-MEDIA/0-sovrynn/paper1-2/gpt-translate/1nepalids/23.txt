@@ -1,0 +1,5 @@
+\begin{center}
+\renewcommand{\arraystretch}{1.2}  % वैकल्पिक, पङ्क्ति खाली ठाउँ बढाउन
+\begin{tabular}{|l|c|c|}
+\hline
+\textbf{प्रकोपको प्रकार} & \textbf{गणना} & \textbf{घट्ने प्रतिशत} \\

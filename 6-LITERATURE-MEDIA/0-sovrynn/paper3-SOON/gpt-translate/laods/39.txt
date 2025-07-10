@@ -1,0 +1,5 @@
+   \includegraphics[width=1\linewidth]{svalbard.jpg}
+\end{center}
+   \caption{ຫໍສາມັນແກ່ນພັນໂລກ Svalbard ໃນປະເທດນໍເວ, ມີແກ່ນພັນຫຼາຍກວ່າໜຶ່ງລ້ານແກ່ນ \cite{24}. ເຮົາຕ້ອງສົງໄສວ່າເຫດການໃດຈະຈຳເປັນຕ້ອງໃຊ້ມັນ.}
+\label{fig:8}
+\label{fig:onecol}

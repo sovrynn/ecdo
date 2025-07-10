@@ -1,0 +1,9 @@
+There is a great deal of uncertainty surrounding the origins of these pyramids, which Ethical Skeptic covers in his thesis. He points out numerous inconsistencies in the conventional narrative surrounding the pyramids, suggesting, at best, significant confusion regarding the age and history of the pyramids:
+
+\begin{flushleft}
+\begin{itemize}
+    \item नजिकैका प्राचिन माटो र चोरहरूको उपकरणमा गरिएको कार्बन डेटिङले पिरामिडहरू प्रचलित विश्वासभन्दा धेरै पहिले निर्माण गरिएको संकेत गर्छ।
+    \item खुफु पिरामिडका भित्री कोठामा पाइएको भनिएको क्वारी चिन्हहरू तिनीहरूको स्थान, सामग्री, संरक्षण अवस्था, इजिप्टियन हायरोग्लिफ्सको प्रयोग, तथा पत्ता लाग्ने समय/प्रकृतिमा शंकास्पद देखिन्छ; जसले तिनीहरू नक्कली हुन सक्ने सम्भावना देखाउँछ। यी चिन्हहरू पिरामिडको अर्को भागमा फेला परेका प्राचिन ओखर चिन्हहरूभन्दा फरक छन्।
+    \item स्फिङ्क्स नजिक देखिएको विभिन्न कर्स्ट क्षयले यसको निर्माणबारे प्रचलित कथासँग मेल खाँदैन।
+\end{itemize}
+\end{flushleft}

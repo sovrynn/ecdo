@@ -1,0 +1,5 @@
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\cvprfinalcopy % *** Эцсийн илгээлтдээ энэ мөрийг uncomment хийх
+
+\def\cvprPaperID{****} % *** CVPR Paper ID-г энд оруулна уу

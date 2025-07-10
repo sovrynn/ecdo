@@ -1,0 +1,10 @@
+\includegraphics[width=1\linewidth]{freemason.jpg}
+\end{center}
+   \caption{ब्रिटिश फ्रिमेसनहरू उनीहरूको प्राकृतिक अवस्थामा, शान्तिपूर्वक आणविक बम फ्याँक्ने र संसार कब्जा गर्ने योजना बनाउाउँदै - लण्डनको अर्ल्स कोर्टमा, १९९२ \cite{5}.}
+\label{fig:1}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=1\textwidth]{british.jpg}

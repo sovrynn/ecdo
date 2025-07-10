@@ -1,0 +1,5 @@
+\begin{enumerate}
+    \item Projek Camelot berkongsi testimoni yang relevan daripada seorang ahli politik Norway \cite{25,26}, yang identitinya mereka sahkan tetapi dirahsiakan. Beliau mendakwa bahawa Norway mempunyai 18 pangkalan bawah tanah yang luas, dan Norway (bersama-sama dengan Israel dan "banyak negara lain") sedang membina pangkalan ini untuk bersiap sedia menghadapi sejenis bencana alam. Richard Sauder juga menerima testimoni daripada seorang lelaki yang pernah berada di dalam pangkalan bawah tanah besar yang dibina di dalam gunung berongga di Norway \cite{22}.
+    \item Switzerland terkenal dengan banyak kubu nuklear yang dibina di ketinggian Alps (Rajah \ref{fig:7}). Bilangannya melebihi 370,000 - cukup untuk melindungi setiap penduduk \cite{27}.
+    \item Sweden dan Finland mempunyai cukup kubu perlindungan untuk melindungi penduduk di setiap bandar utama \cite{27}. 
+\end{enumerate}

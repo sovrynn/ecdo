@@ -1,0 +1,5 @@
+\end{center}
+   \caption{ภาพประกอบของอุโมงค์เรือดำน้ำใต้น้ำ โดย Walter Koerschner \cite{22,23}.}
+\label{fig:6}
+\label{fig:onecol}
+\end{figure}

@@ -1,0 +1,10 @@
+\includegraphics[width=1\linewidth]{tyrol.jpg}
+\end{center}
+   \caption{दक्षिण टिरोल, स्विट्जरल्याण्ड मा बंकरहरू। स्विट्जरल्याण्ड, जुन युरोपेली अल्प्स पर्वत श्रृंखलामा फैलिएको छ, यसको पहाडी बंकरहरूलाई चतुर तरिकाले लुकाउनेका लागि परिचित छ \cite{32}.}
+\label{fig:7}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}

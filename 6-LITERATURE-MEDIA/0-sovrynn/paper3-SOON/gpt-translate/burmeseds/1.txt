@@ -1,0 +1,5 @@
+\documentclass[10pt,twocolumn,letterpaper]{article}
+
+\usepackage{booktabs}
+% \usepackage{caption}
+% \captionsetup[table]{skip=8pt}   % ဇယားများကိုသာ သက်ရောက်မှုရှိသည်

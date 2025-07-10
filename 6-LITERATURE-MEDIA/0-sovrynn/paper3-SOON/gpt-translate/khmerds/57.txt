@@ -1,0 +1,5 @@
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{npw.jpg}
+\end{center}
+   \caption{ទីតាំងនៃប៉ូលម៉ាញេទិកខាងជើងពីឆ្នាំ ១៥៩០ ដល់ឆ្នាំ ២០២៥ ដែលបង្ហាញជាប្រាំឆ្នាំម្តង។ ចលនារបស់វាបានចាប់ផ្តើមលឿនយ៉ាងឆាប់រហ័សនៅឆ្នាំ ១៩៧៥។}
+\label{fig:13}

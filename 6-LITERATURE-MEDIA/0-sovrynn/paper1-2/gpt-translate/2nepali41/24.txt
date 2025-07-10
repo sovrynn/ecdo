@@ -1,0 +1,10 @@
+   \includegraphics[width=1\linewidth]{zhangjiajie.jpg}
+\end{center}
+   \caption{चिनको दक्षिणी भागमा रहेको झाङ्जीयाजिए नेसनल फरेस्टका ठूला शिला स्तम्भहरू।}
+\label{fig:12}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure}[b]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}

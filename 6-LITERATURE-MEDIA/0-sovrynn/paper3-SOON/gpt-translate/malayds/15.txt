@@ -1,0 +1,4 @@
+\end{center}
+   \caption{Empayar British pada tahun 1937, satu paparan hebat kekuatan Anglo-Saxon \cite{14}.}
+   \label{fig:2}
+\end{figure*}

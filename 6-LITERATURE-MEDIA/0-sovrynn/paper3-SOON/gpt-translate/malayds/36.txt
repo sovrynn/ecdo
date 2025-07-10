@@ -1,0 +1,5 @@
+\subsection{Bukti Tambahan Persediaan Bunker dan Kiamat}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}

@@ -64,6 +64,7 @@ if not prompt_file.is_file():
     sys.exit("Error: prompt.txt not found.")
 
 base_prompt = prompt_file.read_text(encoding="utf-8")
+print("Read prompt.")
 
 # --------------------------------------------------------------------------- #
 # Read mapping file (input.txt)
@@ -78,6 +79,7 @@ mappings: List[List[str]] = [
     for line in raw_maps
     if line.strip() and not line.strip().startswith("#")
 ]
+print("Getting mappings.")
 
 if not mappings:
     sys.exit("Error: Mapping file is empty or has no valid lines.")
@@ -131,6 +133,6 @@ for m_idx, pair in enumerate(mappings, start=1):
     # ----------------------------------------------------------------------- #
     # Write to second_word.txt
     # ----------------------------------------------------------------------- #
-    out_path = Path(f"{second_word}.txt")
+    out_path = Path(f"{second_word}.tex")
     out_path.write_text("\n".join(responses), encoding="utf-8")
     print(f"✍️  Results saved to {out_path.resolve()}\n")

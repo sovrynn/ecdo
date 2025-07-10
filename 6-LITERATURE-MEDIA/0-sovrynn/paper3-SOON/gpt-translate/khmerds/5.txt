@@ -1,0 +1,5 @@
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+% ទំព័រត្រូវបានរាប់លេខក្នុងរបៀបដាក់ស្នើ និងគ្មានលេខក្នុងរបៀបអានយកជាស្ថាពរ
+%\ifcvprfinal\pagestyle{empty}\fi
+\setcounter{page}{1}

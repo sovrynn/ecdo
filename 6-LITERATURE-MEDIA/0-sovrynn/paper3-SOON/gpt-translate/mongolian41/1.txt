@@ -1,0 +1,10 @@
+\documentclass[10pt,twocolumn,letterpaper]{article}
+
+\usepackage{booktabs}
+% \usepackage{caption}
+% \captionsetup[table]{skip=8pt}   % Зөвхөн хүснэгтэд нөлөөлнө
+\usepackage{stfloats}  % Үүнийг өмнөх хэсэгт нэмнэ үү
+\usepackage{float}
+
+\usepackage{cvpr}
+\usepackage{times}

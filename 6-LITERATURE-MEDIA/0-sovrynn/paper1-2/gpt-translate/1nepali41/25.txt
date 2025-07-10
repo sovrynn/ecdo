@@ -1,0 +1,9 @@
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{meinesz3.jpg}
+\end{center}
+   \caption{पृथ्वीको भूपरागढीमा देखिने शियर ढाँचाहरूको एक चित्रण \cite{36}.}
+\label{fig:8}
+\label{fig:onecol}
+\end{figure}

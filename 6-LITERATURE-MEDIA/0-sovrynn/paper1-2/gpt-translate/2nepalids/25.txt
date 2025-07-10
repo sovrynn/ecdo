@@ -1,0 +1,5 @@
+   \includegraphics[width=1\linewidth]{derinkuyu.jpeg}
+\end{center}
+   \caption{डेरिन्कुयु भूमिगत शहरको चित्र \cite{56}.}
+\label{fig:5}
+\label{fig:onecol}

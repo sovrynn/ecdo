@@ -1,0 +1,5 @@
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure}[t]
+\begin{center}

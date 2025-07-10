@@ -1,0 +1,5 @@
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\cvprfinalcopy % *** အဆုံးသတ်တင်ပြရန်အတွက် ဤစာကြောင်းကို မဖြည့်ပါနှင့်
+
+\def\cvprPaperID{****} % *** CVPR စာတမ်းအတွက် ID ကို ဤနေရာတွင် ထည့်ပါ

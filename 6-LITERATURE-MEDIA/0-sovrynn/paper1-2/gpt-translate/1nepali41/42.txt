@@ -1,0 +1,10 @@
+\begin{figure*}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
+\includegraphics[width=1\textwidth]{deepsea.jpg}
+\end{center}
+   \caption{सामान्य वायुमण्डलीय महासागर तताउने वक्रको तुलना गर्दा गहिरो र अतिगहिरो महासागर तताउने असमानतालाई देखाउने दृश्य। समग्र तताउने असमानता NOAA बाट लिइएको हो \cite{147}, गहिरो र अतिगहिरो तताउने वितरणहरू Desbruyeres अध्ययनबाट \cite{132}, र डेटा प्रशोधन तथा दृश्यांकन Ethical Skeptic द्वारा \cite{129}।}
+\label{fig:21}
+\end{figure*}
+
+\begin{figure*}[t]

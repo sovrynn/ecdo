@@ -1,0 +1,5 @@
+\end{center}
+   \caption{វីដេអូផ្លូវការមួយរបស់អ៊ីរ៉ង់បង្ហាញអំពី "ទីក្រុងមីស៊ីល" ក្រោមដីរបស់ពួកគេ \cite{39,40}។}
+\label{fig:12}
+\label{fig:onecol}
+\end{figure}

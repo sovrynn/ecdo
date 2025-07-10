@@ -1,0 +1,10 @@
+   \caption{१५९० देखि २०२५ सम्म कमजोर हुँदै गएको भूचुम्बकीय क्षेत्रको चित्रण। gufm1 र IGRF-14 मोडेलहरू प्रयोग गरी गणना गरिएको \cite{125,126}।}
+\label{fig:14}
+\end{figure*}
+
+\begin{figure}[t]
+\begin{center}
+% \fbox{\rule{0pt}{2in} \rule{1\linewidth}{0pt}}
+   \includegraphics[width=1\linewidth]{ocean-highlight.jpg}
+\end{center}
+   \caption{१९९१ देखि २०१० सम्म गहिरो (२००० मिटरभन्दा बढी गहिराइ) समुद्र तताउने दरहरू, रातो घेरामा देखाइएको \cite{132}।}
